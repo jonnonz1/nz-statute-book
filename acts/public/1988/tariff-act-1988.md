@@ -1,5 +1,5 @@
 # Tariff Act 1988
-_Consolidation as at 2018-12-30_
+_Consolidation as at 2019-10-29_
 
 > An Act to consolidate and amend the law relating to the imposition of tariff duty
 
@@ -119,7 +119,7 @@ Subject to this Act, the duty (if any) payable under the Normal Tariff shall be 
     (a) a proceeding conducted by a court; and
     (b) any interlocutory or other application to a court connected with a proceeding.
 
-### 7C Incorporation of provisions by reference in regulations
+### 7C Incorporation of provisions by reference in Orders in Council
 (1) An Order in Council made under section 9 or 10 may incorporate by reference any provisions set out in—
   (a) an international trade agreement to which New Zealand is a party (for example, a free trade agreement); or
   (b) another document made to give effect to such an agreement.
@@ -151,9 +151,13 @@ An amendment to, or replacement of, provisions incorporated under section 7C has
     (iv) copies of the provisions can be purchased at specified places.
 (2) A failure to comply with this section does not invalidate an Order in Council that incorporates provisions under section 7C.
 
-### 7G Application of Legislation Act 2012
-(1) An Order in Council that incorporates material by reference under section 7C, or amends or replaces such an order, is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(2) However, material incorporated by reference under section 7C does not have to be presented to the House of Representatives under section 41 of that Act.
+### 7G Application of Legislation Act 2012 to provisions incorporated by reference: publication and disallowance
+(1) Part 2 of the Legislation Act 2012 does not apply to—
+  (a) provisions incorporated by reference under section 7C of this Act; or
+  (b) an amendment to, or replacement of, those provisions.
+(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to an Order in Council that incorporates provisions under section 7C of this Act.
+(3) However, material incorporated by reference under section 7C of this Act does not have to be presented to the House of Representatives under section 41 of the Legislation Act 2012.
+(4) This section must be treated as applying on and from 5 August 2013.
 
 ### 7H Application of Regulations (Disallowance) Act 1989 to provisions incorporated by reference
 [Repealed]
@@ -183,7 +187,7 @@ An amendment to, or replacement of, provisions incorporated under section 7C has
 ### 9B Access to Tariff
 (1) The chief executive must—
   (a) ensure that copies of the documents referred to in subsection (2) are published on an Internet site that is, so far as practicable, publicly available free of charge; and
-  (b) ensure that copies of the documents referred to in subsection (2) are available for purchase at a reasonable price at the places designated under section 7 of the Legislation Act 2012.
+  (b) ensure that copies of the documents referred to in subsection (2) are available for purchase at a reasonable price at the places specified in a notice given under subsection (5).
 (2) The documents are—
   (a) the Tariff as from time to time amended, modified, or revoked and replaced on or after 1 January 2010; and
   (b) the 2010 Tariff Document; and
@@ -192,9 +196,13 @@ An amendment to, or replacement of, provisions incorporated under section 7C has
   (a) indicate that it is the Tariff as in force at the beginning of a stated date; and
   (b) list all Acts and Orders in Council that are enacted on or after 1 January 2010 and before the stated date and that amend, modify, revoke, or revoke and replace some or all of the Tariff.
 (4) Nothing in section 9A or this section prevents the chief executive from ensuring that other information is published or made available with the Tariff, so long as in doing so the chief executive ensures that it is indicated clearly that the other information does not form part of, or have legal effect as part of, the Tariff.ExampleExamples of other information are—the Excise and Excise-equivalent Duties Table (as that term is defined in the Customs and Excise Act 2018):details of prohibited imports:tables explaining the correlation between former and current Tariff items.
+(5) The chief executive must give notice in the Gazette stating that copies of the documents referred to in subsection (2) can (in accordance with subsection (1)﻿(b)) be purchased at specified places.
 
 ### 9C Application of Legislation Act 2012
-Orders in Council amending or modifying the Tariff made under section 9 or 10 on or after the date on which section 77(3) of the Legislation Act 2012 comes into force are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+Orders in Council amending or modifying the Tariff made under section 9 or 10—
+  (a) are disallowable instruments for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
+  (b) are not legislative instruments for the purposes of the Legislation Act 2012 (see section 9B of this Act); and
+  (c) are not to be drafted by the PCO under section 59(2)﻿(a) of the Legislation Act 2012.
 
 ### 9D Judicial notice of Tariff
 Judicial notice must be taken by all courts and persons acting judicially of the Tariff.
