@@ -1,5 +1,5 @@
 # Real Estate Agents Act 2008
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2019-10-29_
 
 ### 1 Title
 This Act is the Real Estate Agents Act 2008.
@@ -778,6 +778,7 @@ If, under section 91(a), a Committee lays before the Disciplinary Tribunal a cha
     (ii) where it is not practicable to rectify the error or omission, to take steps to provide, at his or her or its own expense, relief, in whole or in part, from the consequences of the error or omission:
   (g) order the licensee to pay to the Authority a fine not exceeding $10,000 in the case of an individual or $20,000 in the case of a company:
   (h) order the licensee, or the agent for whom the person complained about works, to make his or her or its business (including any records, accounts, and assets) available for inspection or take advice in relation to management from persons specified in the order:
+  (ha) if the Committee is satisfied that the unsatisfactory conduct involves more than a minor or technical breach of this Act or of any regulations or rules made under this Act, make an order referring the matter to the Disciplinary Tribunal for the Tribunal to consider whether to make a compensation order under section 110(5):
   (i) order the licensee to pay the complainant any costs or expenses incurred in respect of the inquiry, investigation, or hearing by the Committee.
 (2) An order under this section may be made on and subject to any terms and conditions that the Committee thinks fit.
 
@@ -891,15 +892,24 @@ The provisions of Schedule 1 have effect in relation to the Tribunal and its pro
 ### 110 Determination of charges and orders that may be made if charge proved
 (1) If the Disciplinary Tribunal, after hearing any charge against a licensee, is satisfied that it has been proved on the balance of probabilities that the licensee has been guilty of misconduct, it may, if it thinks fit, make 1 or more of the orders specified in subsection (2).
 (2) The orders are as follows:
-  (a) 1 or more of the orders that can be made by a Committee under section 93:
+  (a) 1 or more of the orders that can be made by a Committee under section 93 (except under section 93(1)﻿(ha)):
   (b) an order cancelling the licence of the licensee and, in the case of a licensee that is a company, also cancelling the licence of any officer of the company:
   (c) an order suspending the licence of the licensee for a period not exceeding 24 months and, in the case of a licensee that is a company, also suspending the licence of any officer of the company for a period not exceeding 24 months:
   (d) an order that a licensee not perform any supervisory functions until authorised by the Board to do so:
   (e) an order, in the case of a licensee who is an employee or independent contractor, or former employee or former independent contractor, that any current employment or engagement of that person by a licensee be terminated and that no agent employ or engage that person in connection with real estate agency work:
   (f) an order that a licensee who is an individual pay a fine not exceeding $15,000 and order a licensee that is a company pay a fine not exceeding $30,000:
-  (g) where it appears to the Tribunal that any person has suffered loss by reason of the licensee's misconduct, an order that the licensee pay to that person a sum by way of compensation as is specified in the order, being a sum not exceeding $100,000.
+  (g) where it appears to the Tribunal that any person has suffered loss by reason of the licensee's misconduct and the order is one that a court of competent jurisdiction could make in relation to a similar claim in accordance with principles of law, an order that the licensee pay to that person a sum by way of compensation as is specified in the order, being a sum not exceeding $100,000.
 (3) The making of an order under this section for the payment of compensation to any person does not affect the right (if any) of that person to recover damages in respect of the same loss, but any sum ordered to be paid under this section, and the effect of any order made under this section for the reduction, cancellation, or refund of fees, must be taken into account in assessing any such damages.
-(4) If the Disciplinary Tribunal, after hearing any charge against a licensee, is satisfied that the licensee, although not guilty of misconduct, has engaged in unsatisfactory conduct, the Tribunal may make any of the orders that a Complaints Assessment Committee may make under section 93.
+(4) If the Disciplinary Tribunal, after hearing any charge against a licensee, is satisfied that, although not guilty of misconduct, he or she has engaged in unsatisfactory conduct, it may do either or both of the following:
+  (a) make any of the orders that a Complaints Assessment Committee may make under section 93 (except under section 93(1)﻿(ha)):
+  (b) if it appears to the Tribunal that any person has suffered loss by reason of the licensee’s unsatisfactory conduct, make an order that the licensee pay to that person a sum not exceeding $100,000 by way of compensation, but only if—
+    (i) the unsatisfactory conduct is more than a minor or technical contravention of this Act or of any regulations or rules made under this Act; and
+    (ii) the order is one that a court of competent jurisdiction could make in relation to a similar claim in accordance with principles of law.
+(5) If a Complaints Assessment Committee refers a matter to the Tribunal under section 93(1)﻿(ha), the Tribunal may, if satisfied that the requirements of subsection (4)﻿(b) (except paragraph (b)﻿(i)) are met, make a compensation order under that subsection.
+(6) For the purposes of subsection (5), the Disciplinary Tribunal—
+  (a) must apply, and may not overturn, a Complaints Assessment Committee determination that there was unsatisfactory conduct involving more than a minor or technical contravention of this Act or of any regulations or rules made under this Act; and
+  (b) must apply, and must not overturn, a Complaints Assessment Committee determination of any substantive matter in the case; and
+  (c) has no jurisdiction to inquire into a determination described in paragraph (a) or (b).
 
 ### 110A Costs
 (1) In any proceedings under this Act, the Disciplinary Tribunal may make any award as to costs that it thinks fit, whether or not it grants any other remedy.
@@ -956,6 +966,12 @@ Any order made by the Tribunal under section 110 may be enforced in all respects
 ### 115A Practice notes
 (1) The chairperson of the Disciplinary Tribunal may issue practice notes as he or she thinks fit.
 (2) The practice notes must not be inconsistent with this Act or any regulations made under it, and are for the guidance of the members of the Disciplinary Tribunal, officers of the Disciplinary Tribunal, and parties before the Tribunal.
+
+### 115B Online publication of information about procedures, time frames, and progress of decisions
+The following information must be published on an Internet site maintained by or on behalf of the chief executive of the Ministry of Justice:
+  (a) information about the purpose of the Disciplinary Tribunal and how to commence a proceeding:
+  (b) any requirements that must be met to bring a proceeding:
+  (c) guidelines on how and when parties may obtain information on the progress of their case and when a decision may be expected.
 
 **Appeals against decisions of Tribunal**
 
@@ -1446,7 +1462,7 @@ No person holding office as a member of the Tribunal is deemed by reason of his 
 
 ### 6 Witness summons
 (1) For the purposes of any matter before the Tribunal, the Tribunal may, of its own initiative or at the request of a party, issue a summons to any person requiring that person to attend before the Tribunal and give evidence.
-(2) The summons must be in the prescribed form, and may require the person to produce before the Tribunal any document, information, or thing in that person’s possession or under that person’s control in any way relating to the matter.
+(2) The summons must be in a form approved by the chief executive of the Ministry of Justice after consultation with the chairperson of the Tribunal, and may require the person to produce before the Tribunal any document, information, or thing in that person’s possession or under that person’s control in any way relating to the matter.
 (3) The power to issue a witness summons may be exercised by the Tribunal, the chairperson, or the deputy chairperson, or by any officer of the Tribunal purporting to act by the direction or with the authority of the Tribunal, the chairperson, or the deputy chairperson.
 
 ### 7 Witnesses’ expenses
