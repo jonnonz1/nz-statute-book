@@ -1,5 +1,5 @@
 # Customs and Excise Act 2018
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2019-10-29_
 
 ### 1 Title
 This Act is the Customs and Excise Act 2018.
@@ -6342,7 +6342,7 @@ Excise-equivalent duty is levied in respect of any goods specified in Part B of 
 ### 17 Access to Excise and Excise-equivalent Duties Table
 (1) The chief executive must—
   (a) ensure that copies of the documents referred to in subclause (2) are published on an Internet site that is, so far as practicable, publicly available free of charge; and
-  (b) ensure that copies of the documents referred to in subclause (2) are available for purchase at a reasonable price at the places designated under section 7 of the Legislation Act 2012.
+  (b) ensure that copies of the documents referred to in subclause (2) are available for purchase at a reasonable price at the places specified in a notice given under subsection (5).
 (2) The documents are as follows:
   (a) the Excise and Excise-equivalent Duties Order as originally made:
   (b) any other Order in Council made under this Part of this schedule:
@@ -6351,6 +6351,7 @@ Excise-equivalent duty is levied in respect of any goods specified in Part B of 
   (a) indicate that it is that table as in force at the beginning of a stated date; and
   (b) list all the enactments that are made before the stated date and that amend, modify, or revoke and replace that table.
 (4) Nothing in this clause prevents the chief executive from ensuring that other information is published or made available with the Excise and Excise-equivalent Duties Table, so long as in doing so the chief executive ensures that it is indicated clearly that the other information does not form part of, or have legal effect as part of, that table.
+(5) The chief executive must give notice in the Gazette specifying where copies of the documents referred to in subclause (2) can be purchased.
 
 ### 18 Evidence of documents published or made available under clause 17
 Every copy of the documents referred to in clause 17(2) purporting to be published or made available under the authority of the chief executive is, unless the contrary is shown, treated—
@@ -7266,7 +7267,7 @@ Every Authority must have a seal that must be judicially noted in all courts.
 (2) Regulations may prescribe any procedure to be followed by an Authority.
 
 ### 11 Commencement of proceedings
-Proceedings before an Authority must be commenced by the lodging of an application in the prescribed way, together with the prescribed fee (if any), with the Authority.
+Proceedings before an Authority must be commenced by the lodging of an application in a form approved by the chief executive of the Ministry of Justice after consulting all the Authorities, together with the prescribed fee (if any), with the Authority.
 
 ### 12 Sittings of Authority
 (1) Sittings of an Authority must be held at the times and places that the Authority appoints.
@@ -7336,6 +7337,7 @@ For the purpose of dealing with the matters before it, an Authority may on the A
   (a) to attend at the time and place specified in the summons and to give evidence; and
   (b) to produce any papers, documents, records, or things in that person’s possession or under that person’s control that are relevant to the matters before the Authority.
 (2) The power to issue a witness summons may be exercised by an Authority or any officer of an Authority purporting to act by the direction or with the authority of that Authority.
+(3) A witness summons must be in a form approved by the chief executive of the Ministry of Justice after consulting all the Authorities.
 
 ### 24 Service of summons
 (1) A witness summons may be served by—
@@ -7392,6 +7394,12 @@ An Authority may at any time dismiss an appeal if it is satisfied that the appea
 ### 30A Practice notes
 (1) All the Authorities acting together may issue practice notes, to apply to all of them, as they think fit.
 (2) The practice notes must not be inconsistent with this Act or any regulations made under it, and are for the guidance of each Authority, officers of an Authority, and parties before an Authority.
+
+### 30B Online publication of information about procedures, time frames, and progress of decisions
+The following information must be published on an Internet site maintained by or on behalf of the chief executive of the Ministry of Justice:
+  (a) information about the purpose of the Authorities and how to commence an appeal:
+  (b) any requirements that must be met for an appeal:
+  (c) guidelines on how and when parties may obtain information on the progress of their case and when a decision may be expected.
 
 **Appeals to High Court**
 
