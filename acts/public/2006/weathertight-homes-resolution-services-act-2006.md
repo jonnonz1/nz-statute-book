@@ -1,5 +1,5 @@
 # Weathertight Homes Resolution Services Act 2006
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2019-10-29_
 
 ### 1 Title
 This Act is the Weathertight Homes Resolution Services Act 2006.
@@ -353,7 +353,7 @@ The provisions of this Act (other than those of sections 22(6) and 23(7)) do not
     (i) authorising the representative to take action (unless the person concerned is taken to be the representative under section 21(2), in which case that kind of authorisation is not required); and
     (ii) authorising invasive testing by an assessor relating to the owner's dwellinghouse.
 (2) To add the owner of a dwellinghouse in a multi-unit complex or stand-alone complex to a claim in respect of the complex under section 26(2), the representative must—
-  (a) apply to the tribunal, in writing, and in a form (if any) approved for the purpose by the chair, for its consent under section 26(2); and
+  (a) apply to the tribunal, in writing, and in a form (if any) approved for the purpose by the chief executive of the Ministry after consultation with the chair, for its consent under section 26(2); and
   (b) give the tribunal a copy of a written notice from the owner—
     (i) authorising the representative to take action (unless the person concerned is taken to be the representative under section 21(2), in which case that kind of authorisation is not required); and
     (ii) authorising invasive testing by an assessor relating to the owner's dwellinghouse; and
@@ -716,7 +716,7 @@ Within 20 working days after receiving the copy of an assessor's report stating 
 **Procedure for, and effect of, initiating adjudication**
 
 ### 62 How to initiate adjudication
-(1) A claimant initiates the adjudication of a claim by applying to the tribunal, in writing and in a form (if any) approved for the purpose by the chair, to have the claim adjudicated, and serving a copy of the application for adjudication on—
+(1) A claimant initiates the adjudication of a claim by applying to the tribunal, in writing and in a form (if any) approved for the purpose by the chief executive of the Ministry after consultation with the chair, to have the claim adjudicated, and serving a copy of the application for adjudication on—
   (a) the other party or parties to the adjudication; and
   (b) the department.
 (2) The application to the tribunal must be accompanied by—
@@ -1087,9 +1087,9 @@ The chair of the tribunal is responsible for making such arrangements as are pra
 
 ### 107 Chair may delegate duties
 (1) The chair may delegate to another member all or any of the chair's duties under the following sections:
-  (a) section 27(2)﻿(a) (approval of form of application for tribunal's consent under section 26(2)):
+  (a) section 27(2)﻿(a) (consultation about form of application for tribunal's consent under section 26(2)):
   (b) section 49 (reconsideration of chief executive's decision on whether claim meets eligibility criteria):
-  (c) section 62(1) and (3) (approval of form of application for adjudication):
+  (c) section 62(1) and (3) (consultation about form of application for adjudication):
   (d) section 64 (assignment of member to act as tribunal):
   (e) section 101(3) (presiding over tribunal):
   (f) section 106 (manner of provision of adjudication services):
@@ -1097,7 +1097,7 @@ The chair of the tribunal is responsible for making such arrangements as are pra
   (h) section 114 (practice directions):
   (i) section 117(d) (approval of manner of sending notice or other document as sufficient service or sufficient giving of it for purposes of Act or regulations):
   (j) section 124(2) (notification to territorial authorities for land information memorandum purposes):
-  (k) clause 9(3) of Schedule 3 (approval of form of witness summons).
+  (k) clause 9(3) of Schedule 3 (consultation about form of witness summons).
 (2) The delegation—
   (a) must be in writing and signed by the chair:
   (b) must specify the duties delegated, and the person or persons to whom they are delegated (the delegates):
@@ -1165,6 +1165,24 @@ If 2 or more adjudication proceedings are pending, the tribunal may, with the wr
 
 ### 114 Practice directions
 For the purpose of guiding the members and officers of the tribunal, and parties before the tribunal, the chair may issue practice directions, not inconsistent with this Act, relating to the making of applications to the tribunal or the hearing and determination of adjudication proceedings by the tribunal.
+
+### 114A Online publication of information about procedures, time frames, and progress of decisions
+The following information must be published on an Internet site maintained by or on behalf of the chief executive of the Ministry of Justice:
+  (a) information about the purpose of the tribunal and how to commence a proceeding:
+  (b) any requirements that must be met to bring a proceeding:
+  (c) guidelines on how and when parties may obtain information on the progress of their case and when a decision may be expected.
+
+### 114B Online publication of final written decisions
+(1) Every final written decision of the tribunal must be published on an Internet site as soon as practicable unless there is good reason not to publish it.
+(2) A final written decision may be published in part if there is good reason for not publishing the full decision.
+(3) Subsections (1) and (2) are subject to section 69(3) and clause 14 of Schedule 3.
+(4) Good reason not to publish a decision, or part of it, includes the following:
+  (a) non-publication is necessary because of a suppression order or statutory requirement that affects publication or continued publication:
+  (b) the decision falls into a category of decisions that are of limited public value:
+  (c) taking into account the presumption in subsection (1) in favour of publication, the tribunal nevertheless determines that the decision or any part of it should not be published because publication or the effect of publication would be contrary to the interests of justice.
+(5) In this section, final written decision means a written decision that determines, or substantially determines, the outcome of proceedings in the tribunal and is either of the following:
+  (a) a written reserved decision following an oral hearing:
+  (b) a written decision in any case considered on the papers.
 
 **Offences, and contempt of tribunal**
 
@@ -1829,7 +1847,7 @@ Any party to an adjudication may give and call evidence.
 (1) For the purposes of any matter before the tribunal, the tribunal may, on its own initiative or at the request of a party, issue a summons to any person requiring that person to attend before the tribunal and give evidence.
 (1A) The power to issue a witness summons may be exercised by the tribunal or the chair, or by any officer of the tribunal purporting to act by the direction or with the authority of the tribunal or the chair.
 (2) No summons under subclause (1) may be issued to a member.
-(3) The summons must be in a form (if any) approved for the purpose by the chair, and may require the person to produce before the tribunal any books, papers, documents, records, or things in that person's possession or under that person's control in any way relating to the adjudication.
+(3) The summons must be in a form (if any) approved for the purpose by the chief executive of the Ministry of Justice after consultation with the chair, and may require the person to produce before the tribunal any books, papers, documents, records, or things in that person's possession or under that person's control in any way relating to the adjudication.
 
 ### 10 Witnesses' expenses
 (1) Every person attending before a member on a summons, and every other person giving evidence before the tribunal, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations apply accordingly.
