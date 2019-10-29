@@ -1,5 +1,5 @@
 # Taxation Review Authorities Act 1994
-_Consolidation as at 2019-03-18_
+_Consolidation as at 2019-10-29_
 
 > An Act to consolidate the law relating to Taxation Review Authorities
 
@@ -213,6 +213,12 @@ Proceedings before an Authority shall not abate by reason of the death of the ob
 ### 25B Practice notes
 (1) All Authorities acting together may issue practice notes, to apply to all of them, as they think fit.
 (2) The practice notes must not be inconsistent with this Act or any regulations made under it and are for the guidance of an Authority, officers of an Authority, and parties before an Authority.
+
+### 25C Online publication of information about procedures, time frames, and progress of decisions
+The following information must be published on an Internet site maintained by or on behalf of the chief executive of the Ministry of Justice:
+  (a) information about the purpose of the Authorities and how to commence a proceeding:
+  (b) any requirements that must be met to bring a proceeding:
+  (c) guidelines on how and when parties may obtain information on the progress of their case and when a decision may be expected.
 
 ## Part 4 — Appeals
 
