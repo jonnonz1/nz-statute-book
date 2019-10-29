@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2019-10-29_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -1922,10 +1922,14 @@ A national direction may incorporate material by reference under Schedule 1AA.
   (c) thirdly, must undertake an evaluation of the proposed national policy statement in accordance with section 32 and have particular regard to that evaluation when deciding whether to recommend the statement.
 (2) The Governor-General in Council may, on the recommendation of the Minister, approve a national policy statement.
 (3) The Minister must, as soon as practicable after a national policy statement has been approved,—
-  (a) issue the statement by notice in the Gazette; and
+  (a) publish in the Gazette the Order in Council approving the statement; and
   (b) publicly notify the statement and the report in whatever form he or she thinks appropriate and send a copy to every local authority; and
   (c) provide every person who made a submission on the statement with a summary of the recommendations and a summary of the Minister’s decision on the recommendations (including reasons for not adopting any recommendations); and
   (d) present a copy of the statement to the House of Representatives.
+(4) Orders in Council made under this section—
+  (a) are disallowable instruments for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
+  (b) are not legislative instruments for the purposes of the Legislation Act 2012; and
+  (c) are not to be drafted by the PCO under section 59(2)﻿(a) of the Legislation Act 2012.
 
 ### 53 Changes to or review or revocation of national policy statements
 (1) The Minister may review, change, or revoke a national policy statement after using one of the processes referred to in section 46A(1) in relation to the preparation of a national policy statement.
@@ -7310,7 +7314,7 @@ If a special tribunal reports under section 208, or the Environment Court recomm
 (6) Nothing in subsection (3) affects any obligation of the subdividing owner under any condition of a subdivision consent or bond entered into relating to the subdivision.
 
 ### 224 Restrictions upon deposit of survey plan
-No survey plan shall be deposited for the purposes of section 11(1)﻿(a)﻿(i) or (iii) unless—
+No survey plan shall be deposited for the purposes of section 11(1A)﻿(b)﻿(i) unless—
   (a)
   (b) where land shown on the survey plan will vest in the Crown or a territorial authority, there is endorsed on the survey plan or deposited with the Registrar-General of Land, written consent to the subdivision given by—
     (i) in the case of land subject to the Land Transfer Act 2017, every registered owner of an interest, including any encumbrance, in the land; or
