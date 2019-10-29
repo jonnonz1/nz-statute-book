@@ -1,5 +1,5 @@
 # Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018
-_Consolidation as at 2018-12-30_
+_Consolidation as at 2019-10-29_
 
 ### 1 Title
 (1) This Act is the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018.
@@ -716,6 +716,8 @@ In section 228(2)﻿(b), delete or section 132.
     (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
     (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
     (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+(3) Subsection (4) consequentially amends the Legislation Act 2019.
+(4) In Schedule 4, Part 1, insert in its appropriate alphabetical order:The following table is small in size and has 2 columns. This table is an amendment to the table in Schedule 4 Part 1 of the Legislation Act 2019 and should be read with that table to provide understanding of the context.Copyright Act 1994234(qa) and (qb)
 
 ### 44 Schedule 1 amended
 (1) In Schedule 1, above clause 1, insert:Provisions relating to Act as enacted
