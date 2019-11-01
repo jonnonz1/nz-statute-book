@@ -1,5 +1,5 @@
 # America's Cup Road Stopping Act 2018
-_Consolidation as at 2018-09-13_
+_Consolidation as at 2019-11-01_
 
 ### 1 Title
 This Act is the America's Cup Road Stopping Act 2018.
