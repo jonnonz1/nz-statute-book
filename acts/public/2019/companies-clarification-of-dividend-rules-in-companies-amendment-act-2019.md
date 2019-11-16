@@ -1,0 +1,22 @@
+# Companies (Clarification of Dividend Rules in Companies) Amendment Act 2019
+_Consolidation as at 2019-11-16_
+
+### 1 Title
+This Act is the Companies (Clarification of Dividend Rules in Companies) Amendment Act 2019.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 3 Principal Act
+This Act amends the Companies Act 1993 (the principal Act).
+
+### 4 Section 53 amended (Dividends)
+(1) Replace section 53(2) with:
+  (2) The board of a company must not authorise a differential dividend unless—
+    (a) the amount of the dividend in respect of a share of that class is in proportion to the amount paid to the company in satisfaction of the liability of the shareholder under the constitution of the company or under the terms of issue of the share or is required, for a portfolio tax rate entity, as a result of section HL 7 of the Income Tax Act 2004; or
+    (b) the company’s constitution provides for differential dividends as permitted by subsection (2A) and the dividend is authorised in accordance with the constitution.
+  (2A) The constitution of a company may provide for differential dividends in respect of the shares in a class of shares, which may be determined on any differential basis, but only if the differential basis is based on objective criteria and not on the exercise of a discretion by, or an opinion of, the board of the company.ExampleCompany Z is an agricultural company whose class A shareholders are all current or former growers and suppliers to the company. The company’s constitution could confer on holders of class A shares a right to differential dividends based on whether or not they are currently growing and supplying produce to the company.The company’s constitution could not provide for dividends based on a discretionary criterion, such as whether a shareholder had adequately upheld the reputation of the company.
+(2) After section 53(3), insert:
+  (4) In this section, differential dividend means a dividend—
+    (a) in respect of some but not all the shares in a class; or
+    (b) that is of a greater value per share in respect of some shares of a class than it is in respect of other shares of that class.
