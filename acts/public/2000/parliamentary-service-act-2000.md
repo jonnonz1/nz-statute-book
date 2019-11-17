@@ -1,5 +1,5 @@
 # Parliamentary Service Act 2000
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2019-11-17_
 
 ### 1 Title
 This Act is the Parliamentary Service Act 2000.
@@ -447,9 +447,10 @@ The State Services Commissioner may, with the agreement of the Speaker, for just
 (4) Despite section 68 of the State Sector Act 1988, the Chief Executive is responsible for negotiating a collective agreement under the Employment Relations Act 2000 and the Chief Executive must consult with the State Services Commissioner about the conditions of employment to be included in the collective agreement.
 
 ### 8 Delegation of powers by Chief Executive
-(1) The Chief Executive may delegate to a specified employee, or to employees of a specified class, of the Parliamentary Service any function, duty, or power (other than this power of delegation) that the Chief Executive can exercise—
-  (a) under an enactment; or
-  (b) under a delegation made under an enactment.
+(1) The Chief Executive may delegate any function, duty, or power the Chief Executive may exercise under an enactment or under a delegation made under an enactment, other than this power of delegation, to—
+  (a) a specified employee, or a specified class of employees, of the Parliamentary Service; or
+  (b) the Clerk, Deputy Clerk, another specified officer, or a specified class of officers, of the House of Representatives; or
+  (c) a person working for the Parliamentary Service or the Clerk of the House of Representatives as a contractor or secondee.
 (2) A delegation must be in writing and signed by the Chief Executive.
 (3) A delegate must exercise or perform the functions, duties, or powers delegated—
   (a) in accordance with any condition attaching to the delegation and any general or special direction given by the Chief Executive; but
