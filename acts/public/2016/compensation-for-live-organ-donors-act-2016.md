@@ -1,5 +1,5 @@
 # Compensation for Live Organ Donors Act 2016
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2019-11-17_
 
 ### 1 Title
 This Act is the Compensation for Live Organ Donors Act 2016.
@@ -19,6 +19,7 @@ In this Act, unless the context otherwise requires,—
   - **application date** —
     (a) means the date on which an application under Part 3 is made; and
     (b) for the purposes of Schedule 2, includes a more recent date determined by the Director-General under section 18(2)
+  - **approved overseas organ exchange programme** means an overseas organ exchange programme listed in Schedule 5
   - **collect** , in relation to a qualifying organ, means to remove or take that organ from a person
   - **Director-General** means the Director-General of Health
   - **donor surgery** means surgery to collect a qualifying organ for the purpose of donating it to another person
@@ -40,7 +41,11 @@ In this Act, unless the context otherwise requires,—
   - **qualifying organ** means the whole or a part of any of the following types of human organ:
     (a) kidney:
     (b) liver:
-    (c) any other type of human organ declared by regulations to be a qualifying organ.
+    (c) any other type of human organ declared by regulations to be a qualifying organ
+  - **reduced hours** , in relation to a qualifying donor, means the total hours of employment that the donor works over a week that are less than the donor’s usual hours
+  - **usual hours** , in relation to a qualifying donor, means—
+    (a) the donor’s hours of employment per week as specified in the donor’s employment agreement; or
+    (b) if paragraph (a) does not apply to the donor, or the donor is a shareholder employee or is self-employed, the most common number of hours that the donor works each week as assessed over the 12-week period immediately before the application date.
 
 ### 5 Meaning of earnings
 In this Act, earnings has the meaning given by section 6(1) of the Accident Compensation Act 2001, except that,—
@@ -73,13 +78,16 @@ This Act binds the Crown.
   (c) the recipient of the organ is eligible to receive services funded under the New Zealand Public Health and Disability Act 2000; and
   (d) the organ will be collected, implanted, and dealt with lawfully.
 (2) For the purposes of subsection (1)﻿(d), the Director-General may assume the organ will be collected, implanted, and dealt with lawfully in the absence of information to the contrary.
+(3) The criteria in subsection (1)﻿(b) and (c) do not apply if the person—
+  (a) has donor surgery as part of an approved overseas organ exchange programme; and
+  (b) complies with any conditions specified in Schedule 5 in respect of that programme.
 
 **Entitlement to earnings compensation while recuperating**
 
 ### 10 Qualifying donors entitled to earnings compensation for up to 12 weeks while recuperating
 (1) The Director-General must pay a qualifying donor earnings compensation for a period that starts on the date of the donor surgery and ends immediately before the earlier of—
   (a) the end date set by the Director-General; and
-  (b) the date that the donor returns to his or her employment.
+  (b) the date that the donor returns to employment, or, if the donor returns to employment on reduced hours, the date that the donor resumes employment on usual hours.
 (2) The Director-General—
   (a) must set as the end date the date on which the Director-General considers the donor will have recuperated sufficiently to safely return to his or her employment; and
   (b) may, on request or on his or her own initiative, extend the end date if the Director-General considers the donor needs more time to recuperate.
@@ -87,6 +95,11 @@ This Act binds the Crown.
 (4) The Director-General may—
   (a) set or extend an end date at any time before the end of 12 weeks after the date of the donor surgery (but see section 20(2)﻿(b)﻿(i)); and
   (b) rely on the certificate of a medical practitioner when setting or extending an end date.
+(5) Subsection (6) applies if, within the 12 weeks after the date of the donor surgery, the donor—
+  (a) returns to employment on usual hours; and
+  (b) is subsequently unable to continue working those hours because of the effects of the surgery; and
+  (c) continues to work, but on reduced hours.
+(6) If this subsection applies, the Director-General must pay a qualifying donor earnings compensation for the period that the donor worked reduced hours within the 12 weeks after the date of the donor surgery.
 
 ### 11 Rate and payment of entitlement
 For earnings compensation payable under section 10, the Director-General must—
@@ -137,7 +150,7 @@ A person to whom section 14 applies may appeal against a decision under that sec
 (1) As soon as practicable after receiving an application and any information provided under section 19, the Director-General must—
   (a) approve the application and set the rate of earnings compensation payable; or
   (b) decline the application if,—
-    (i) for an application to be a qualifying donor, the Director-General is not satisfied that all of the conditions set out in section 9(1) are met; or
+    (i) for an application to be a qualifying donor, the Director-General is not satisfied that all of the applicable criteria in section 9 are met; or
     (ii) for an application for discretionary earnings compensation, the Director-General is not satisfied that all of the conditions set out in section 12(1) are met; or
     (iii) for either kind of application,—
       (A) the Director-General is not satisfied that the information provided for use in setting the rate of earnings compensation is accurate; or
@@ -149,7 +162,7 @@ A person to whom section 14 applies may appeal against a decision under that sec
 ### 18 When Director-General may revoke or revise decisions
 (1) Before the start of a payment period, the Director-General may do 1 or more of the following:
   (a) revoke a decision to approve an application if,—
-    (i) for an application to be a qualifying donor, the Director-General considers that 1 or more of the conditions set out in section 9(1) are no longer satisfied due to a change in the applicant’s circumstances since the application date; or
+    (i) for an application to be a qualifying donor, the Director-General considers that 1 or more of the applicable criteria in section 9 are no longer satisfied due to a change in the applicant’s circumstances since the application date; or
     (ii) for an application for discretionary earnings compensation, the Director-General considers that 1 or more of the conditions set out in section 12(1) are no longer satisfied due to a change in the applicant’s circumstances since the application date:
   (b) revise a decision on the rate of an applicant’s earnings compensation by substituting a new rate, if the Director-General considers that—
     (i) the rate originally set is significantly different from the rate at which the applicant will actually forgo earnings during the payment period; and
@@ -233,12 +246,24 @@ Except as provided by the Accident Compensation Act 2001, an entitlement or a pa
 
 ### 29 Regulations
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Health, make regulations declaring a type of human organ to be a qualifying organ for the purposes of this Act.
-(2) Before making the recommendation, the Minister—
+(2) Before making a recommendation under subsection (1), the Minister—
   (a) must have regard to—
     (i) the efficacy and safety of the procedures related to the collection and implantation of the organ; and
     (ii) the anticipated benefit to recipients of the organ; and
     (iii) the anticipated cost of providing earnings compensation to qualifying donors who donate the organ; and
   (b) may have regard to any other matter that the Minister considers relevant.
+(3) The Governor-General may, by Order in Council made on the recommendation of the Minister of Health,—
+  (a) approve an overseas organ exchange programme by including it in Schedule 5; and
+  (b) specify in Schedule 5 any conditions that a donor in that programme must comply with in order to be a qualifying donor; and
+  (c) remove an approved overseas organ exchange programme from Schedule 5; and
+  (d) amend or remove any conditions specified in Schedule 5; and
+  (e) make minor amendments to Schedule 5.
+(4) Before recommending that an overseas organ exchange programme be approved under subsection (3)﻿(a), the Minister must be satisfied, for each overseas country participating in the programme, that—
+  (a) the programme has been agreed between a central government agency of the overseas country and the New Zealand Ministry of Health; and
+  (b) the overseas country has ratified—
+    (i) the United Nations Convention against Transnational Organized Crime; and
+    (ii) the Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children.
+(5) Before recommending an amendment under subsection (3)﻿(a), (b), or (c), the Minister must consult any person or organisation that the Minister considers has an interest in, or will be representative of the interests of people likely to be substantially affected by, the proposed amendment.
 
 **Amendments**
 
@@ -289,6 +314,37 @@ Before section 7 of the District Court Act 2016 comes into force,—
   (a) references in this Act to the District Court must be read as references to a District Court; and
   (b) references in this Act to the District Court Rules 2014 must be read as references to the District Courts Rules 2014.
 
+### Part 2 — Provisions relating to Act as amended by Organ Donors and Related Matters Act 2019
+
+### 6 Interpretation
+In this Part,—
+  - **amendment Act** means the Organ Donors and Related Matters Act 2019
+  - **commencement date** means the date of commencement of Part 1 of the amendment Act
+  - **former section 10** means section 10 of this Act immediately before it was amended by the amendment Act
+  - **new section 10** means section 10 of this Act as amended by the amendment Act.
+
+### 7 Application of new section 10 to previous qualifying donors
+(1) New section 10 applies to a person who,—
+  (a) before the commencement date, had received compensation under former section 10 as a qualifying donor; and
+  (b) during the payment period,—
+    (i) returned to employment on reduced hours; or
+    (ii) after returning to employment on usual hours, worked reduced hours because of the effects of the surgery.
+(2) The person may apply to the Director-General for additional compensation under new section 10 for the period during which the person worked those reduced hours.
+(3) The person must provide the Director-General with any evidence that the Director-General reasonably requests for the purpose of ascertaining the matters referred to in subclause (1)﻿(b).
+
+### 8 Compensation for donor who had surgery as part of Australian and New Zealand Paired Kidney Exchange Program before commencement date
+(1) A person may, no later than 120 days after the commencement date, apply to be a qualifying donor if,—
+  (a) before the commencement date, the person had donor surgery as part of the Australian and New Zealand Paired Kidney Exchange Program; and
+  (b) the person was registered with the New Zealand Kidney Exchange Programme at the time of the surgery.
+(2) This Act applies to the person with all necessary modifications, except that—
+  (a) section 16(2) and (3) does not apply; and
+  (b) when making a decision under section 12(1), the Director-General must (instead of being satisfied of the criteria in section 12(1)﻿(a) to (d)) be satisfied that—
+    (i) the donor had to forgo earnings during the period referred to in section 12(1) in order to undertake 1 or more activities in preparation for the surgery; and
+    (ii) the donor could not reasonably undertake the activities without taking leave from employment for that period; and
+    (iii) the activities were medically necessary for the surgery to be carried out; and
+  (c) the Director-General may rely on a certificate of a medical practitioner when deciding whether an activity was medically necessary for the purpose of paragraph (b)﻿(iii); and
+  (d) any payment of earnings compensation under section 13(b) must be made no later than 60 days after the person receives notice that the person’s application for compensation is approved.
+
 ## Schedule 2 — Setting rate of earnings compensation
 
 ### 1 Interpretation
@@ -317,7 +373,7 @@ Before section 7 of the District Court Act 2016 comes into force,—
 ### 2 How Director-General must set rate of earnings compensation
 The Director-General must set as the rate of earnings compensation for a qualifying donor—
   (a) the donor’s weekly earnings calculated in accordance with Part 2; or
-  (b) a rate of earnings compensation set under clause 3.
+  (b) a rate of earnings compensation set under clause 3 or 3A.
 
 ### 3 Discretion to increase amount calculated
 (1) This clause applies if the Director-General considers that the weekly earnings calculated for a qualifying donor are significantly less than the rate at which the donor will actually forgo earnings during the payment period.
@@ -325,6 +381,15 @@ The Director-General must set as the rate of earnings compensation for a qualify
 (3) In making a decision under subclause (1) and setting a rate under subclause (2), the Director-General must have regard to—
   (a) the evidence available of the donor’s earnings; and
   (b) the anticipated nature of the donor’s employment immediately before the start of the payment period.
+
+### 3A Discretion to decrease amount calculated
+(1) The Director-General may decrease the rate of earnings compensation for a qualifying donor if, during the payment period, the qualifying donor returns to employment on reduced hours.
+(2) In setting a rate under subclause (1), the Director-General must—
+  (a) take into account the additional earnings received by the qualifying donor as a result of the donor returning to employment on reduced hours; and
+  (b) be satisfied that the qualifying donor’s earnings are the same—
+    (i) immediately before the start of the payment period; and
+    (ii) during the payment period; and
+  (c) have regard to the evidence available of the donor’s earnings.
 
 ### Part 2 — Calculation of weekly earnings for use as rate of earnings compensation
 
@@ -590,3 +655,9 @@ A review decision is binding on the applicant and the Director-General.
 (2) The claimant’s incapacity is deemed to have commenced—
   (a) on the earlier of the dates described in clauses 44(2) and 44A(2), for the purposes of calculating the claimant’s weekly compensation; and
   (b) on the later of the dates described in clauses 44(3) and 44A(3), for the purposes of determining the commencement date of entitlement to compensation for loss of earnings.
+
+## Schedule 5 — Approved overseas organ exchange programmes
+
+| Name of approved overseas organ exchange programme | Conditions (if any) that donor must comply with to be a qualifying donor | Date of approval |
+| --- | --- | --- |
+| Australian and New Zealand Paired Kidney Exchange Program | The donor must be registered with the New Zealand Kidney Exchange Programme | Date of commencement of Part 1 of the Organ Donors and Related Matters Act 2019 |
