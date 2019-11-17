@@ -1,5 +1,5 @@
 # Clerk of the House of Representatives Act 1988
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2019-11-17_
 
 > An Act to provide for the appointment of the Clerk of the House of Representatives and of other officers of the House of Representatives, and to establish, by Act of Parliament, the Office of the Clerk of the House of Representatives
 
@@ -68,7 +68,16 @@ A person who holds the office of Clerk of the House of Representatives or the of
 (3) At any time when Parliament is not in session, the Clerk of the House of Representatives or the Deputy Clerk of the House of Representatives may be suspended from office by the Governor-General for inability to perform the functions of the office, bankruptcy, neglect of duty, or misconduct proved to the satisfaction of the Governor-General; but any such suspension shall not continue in force beyond 2 months after the beginning of the next ensuing session of Parliament.
 
 ### 12 Delegation of functions or powers
-(1) The Clerk of the House of Representatives may from time to time, either generally or particularly, delegate to any other person (being the Deputy Clerk or other officer of the House of Representatives) any of the functions or powers of the Clerk of the House of Representatives, including functions or powers delegated to the Clerk of the House of Representatives under this Act or any other Act (or under the Standing Orders of the House of Representatives).
+(1) The Clerk of the House of Representatives may delegate any of the Clerk’s functions or powers to a person described in subsection (1A), including a function or power delegated to the Clerk under—
+  (a) this Act; or
+  (b) any other Act; or
+  (c) the Standing Orders of the House of Representatives.
+(1A) The following persons may be a delegate:
+  (a) the Deputy Clerk, or other officer, of the House of Representatives:
+  (b) the Chief Executive of the Parliamentary Service:
+  (c) an employee of the Parliamentary Service:
+  (d) a person working for the Clerk of the House of Representatives or the Parliamentary Service as a contractor or secondee.
+(1B) A delegation must be made in writing.
 (2) Subject to any general or special directions given or conditions imposed by the Clerk of the House of Representatives, the person to whom any functions or powers are delegated under this section may exercise those functions or powers in the same manner and with the same effect as if they had been conferred on that person directly by this Act and not by delegation.
 (3) Every person purporting to act pursuant to any delegation under this section shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
 (4) Any delegation under this section may be made to a specified person or to persons of a specified class, or to the holder or holders for the time being of a specified office or specified class of offices.
