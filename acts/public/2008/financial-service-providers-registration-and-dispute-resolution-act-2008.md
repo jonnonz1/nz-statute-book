@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2019-04-09_
+_Consolidation as at 2019-11-26_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -1045,6 +1045,33 @@ The person responsible for an approved dispute resolution scheme must make copie
 
 ### 81 Consequential amendment
 The enactment specified in Schedule 1 is amended in the manner indicated in that schedule.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Financial Services Legislation Amendment Act 2019
+
+### 1 Change of financial service descriptions does not result in breach
+(1) This clause applies if, immediately before the commencement of section 63 of the Financial Services Legislation Amendment Act 2019 (which amends section 5),—
+  (a) a person is in the business of providing a financial service; and
+  (b) the person is registered under Part 2 of this Act for that service; and
+  (c) the description of that service is amended, repealed, or replaced by that section.
+(2) Despite the change referred to in subclause (1)﻿(c), the person does not breach section 11, 12, or 17 because of that change (and, for that purpose, the person may continue to rely on section 5 as in force before the commencement of section 63 of the Financial Services Legislation Amendment Act 2019).
+(3) This clause ceases to apply at the close of the date that is 3 months after the date on which section 63 of the Financial Services Legislation Amendment Act 2019 comes into force.
+
+### 2 Certain persons not required to be registered merely because of new application provisions
+(1) This clause applies to a person (A) if,—
+  (a) immediately before the commencement of section 7A, this Act does not apply to A; but
+  (b) this Act applies to A on that commencement.
+(2) A is not required to be registered under this Act, or to be a member of an approved dispute resolution scheme, if A would not have been so required before the commencement of section 7A.
+(3) This clause ceases to apply at the close of a date appointed by the Governor-General by an Order in Council (which must be a date at least 6 months after the date on which section 7A comes into force).
+
+### 3 Person may apply for registration for financial advice service before commencement
+(1) A person may—
+  (a) apply to be registered under Part 2 of this Act for a service referred to in section 5(1)﻿(a) (as replaced by section 63 of the Financial Services Legislation Amendment Act 2019) before the commencement of that section 63; and
+  (b) [not yet in force]
+  (c) [not yet in force]
+(2) For the purposes of dealing with the application or notification, sections 63 and 81 of the Financial Services Legislation Amendment Act 2019, and any other provisions of that Act that are relevant to the matter that are not yet in force, must be treated as if they were in force.
+(3) However, a registration or change in registration under this clause does not take effect before the commencement of section 63 or 81 of the Financial Services Legislation Amendment Act 2019 (as the case may be).
 
 ## Schedule 1 — Consequential amendment
 
