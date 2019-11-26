@@ -1,5 +1,5 @@
 # Financial Services Legislation Amendment Act 2019
-_Consolidation as at 2019-07-31_
+_Consolidation as at 2019-11-26_
 
 ### 1 Title
 This Act is the Financial Services Legislation Amendment Act 2019.
