@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2019-12-01_
 
 > Title
 
@@ -1339,6 +1339,8 @@ Every award and every agreement relating to the terms and conditions of employme
 
 | Departmental agency | Host department |
 | --- | --- |
+| Cancer Control Agency | Ministry of Health |
+| National Emergency Management Agency | Department of the Prime Minister and Cabinet |
 | Office for Māori Crown Relations—Te Arawhiti | Ministry of Justice |
 | Social Investment Agency | State Services Commission |
 
