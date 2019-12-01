@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2019-12-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -7698,6 +7698,8 @@ The due date for payment, by a member of a large multinational group, of a penal
   (d) knowingly applies or permits the application of the amount of a deduction or withholding of tax made or deemed made under a tax law for any purpose other than in payment to the Commissioner; or
   (e) knowingly does not make a deduction or withholding of tax required to be made by a tax law; or
   (f) knowingly issues 2 tax invoices (as defined in the Goods and Services Tax Act 1985) in respect of the same taxable supply; or
+  (fb) knowingly does not issue a receipt relating to a supply of distantly taxable goods as required by section 24BAB(3) of the Goods and Services Tax Act 1985; or
+  (fc) knowingly does not provide information relating to a supply of distantly taxable goods as required by section 24BAC of the Goods and Services Tax Act 1985; or
   (g) in relation to a recipient of a supply of remote services from a non-resident supplier, and for the purposes of avoiding the payment of goods and services tax, knowingly provides altered, false, or misleading information relating to their residence in New Zealand or their status as a registered person.
 (2) No person may be convicted of an offence against subsection (1)﻿(ac) for knowingly failing to provide information, including a self-certification, to another person or against subsection (1)﻿(b) for knowingly not providing information (other than tax returns and tax forms) to the Commissioner if the person proves that, as and when the person was required to provide the information—
   (a) the person did not have the information in the person's knowledge, possession or control; and
