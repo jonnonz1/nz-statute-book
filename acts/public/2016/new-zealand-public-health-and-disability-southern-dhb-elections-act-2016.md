@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability (Southern DHB) Elections Act 2016
-_Consolidation as at 2016-05-13_
+_Consolidation as at 2019-12-09_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability (Southern DHB) Elections Act 2016.
