@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2019-12-14_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -11,9 +11,9 @@ This Act is the New Zealand Superannuation and Retirement Income Act 2001.
 ### 3 Purpose
 The purpose of this Act is—
   (a) to continue current entitlements to New Zealand superannuation:
-  (b) to establish a New Zealand Superannuation Fund with sufficient resources to meet the present and future cost of New Zealand superannuation:
+  (b) to establish a New Zealand Superannuation Fund (the Fund) with sufficient resources to meet the present and future cost of New Zealand superannuation:
   (c) to provide for Government contributions to the Fund:
-  (d) to establish a Crown entity to manage and administer the Fund called the Guardians of New Zealand Superannuation:
+  (d) to establish a Crown entity called the Guardians of New Zealand Superannuation, which will manage and administer the Fund and the Venture Capital Fund established under the Venture Capital Fund Act 2019:
   (e) to establish a process for signalling political agreement on the parameters for New Zealand superannuation entitlements and funding:
   (f) to bring together in one Act all of the provisions for each of those matters.
 
@@ -68,7 +68,8 @@ The purpose of this Act is—
   - **required annual capital contribution** has the same meaning as in section 43
   - **subsidiary** —
     (a) means a subsidiary within the meaning of sections 5 to 8 of the Companies Act 1993; and
-    (b) includes an entity that is classified as a subsidiary in any relevant financial reporting standard (within the meaning of section 5 of the Financial Reporting Act 2013).
+    (b) includes an entity that is classified as a subsidiary in any relevant financial reporting standard (within the meaning of section 5 of the Financial Reporting Act 2013)
+  - **VCF** means the Venture Capital Fund established under section 8 of the Venture Capital Fund Act 2019.
 (2) In this Act, unless the context otherwise requires, the terms Crown, Crown Bank Account, expenses, financial year, Government, public money, and Treasury have the meanings given to them by section 2(1) of the Public Finance Act 1989.
 
 ### 5A Interpretation of Part 4 and Schedule 6
@@ -377,16 +378,16 @@ A person being paid a benefit under section 31 is not entitled to receive any as
 (1) Sections 22 to 29 do not apply in respect of New Zealand superannuation being paid in a specified Pacific country under section 31.
 (2) The Social Security Act 2018 (except sections 204, 206 to 208, 217 to 219, 311, and 313 to 315) applies to New Zealand superannuation being paid in a specified Pacific country under section 31.
 
-## Part 2 — New Zealand Superannuation Fund
+## Part 2 — New Zealand Superannuation Fund and Guardians of New Zealand Superannuation
 
 ### 36 Outline of Part
 This Part—
   (a) establishes the New Zealand Superannuation Fund:
   (b) provides for payments into and out of the Fund:
-  (c) establishes the Guardians of New Zealand Superannuation to manage and administer the Fund:
+  (c) establishes the Guardians of New Zealand Superannuation to manage and administer the Fund and the VCF:
   (d) requires the Guardians to invest the Fund on a prudent, commercial basis:
   (e) empowers the Minister to give directions to the Guardians regarding the Government’s expectations as to the Fund’s performance, and requires the Guardians to have regard to those directions:
-  (g) provides for other matters relating to the Fund and the Guardians.
+  (g) provides for other matters relating to the Fund, the VCF, and the Guardians.
 
 **New Zealand Superannuation Fund**
 
@@ -423,6 +424,13 @@ The Fund is the property of the Crown.
   (c) to pay the taxation liabilities arising in respect of the Fund:
   (d) to meet any capital withdrawal under section 47.
 (3) No payment may be made out of the Fund except in accordance with subsection (1) or subsection (2) and unless it has been authorised by the Guardians.
+
+### 41A Guardians may apportion obligations
+(1) This section applies if the Guardians reasonably consider that an expense or other obligation is related to the operation of both the Fund and the VCF.
+(2) The Guardians may apportion the obligation in the manner that the Guardians consider reasonable so as to determine—
+  (a) the part of the obligation that is to be met out of the Fund under section 41(2)﻿(b); and
+  (b) the part of the obligation that is to be met out of the VCF under section 12(1)﻿(b) of the Venture Capital Fund Act 2019.
+(3) The part of the obligation determined in relation to the Fund or the VCF must be treated as an obligation that is directly related to the operation of the Fund or the VCF (as the case may be).
 
 **Required capital contributions to Fund**
 
@@ -480,12 +488,13 @@ The Minister may pay any money into the Fund that is additional to that required
 (5) This section is subject to section 50 (borrowing).
 
 ### 49A Saving of certain transactions
-(1) A failure by the Guardians to comply with any provision of this Act or the Crown Entities Act 2004 does not affect the validity or enforceability of any deed, agreement, right, or obligation that is entered into, obtained, or incurred by—
+(1) A failure by the Guardians to comply with any provision of this Act, the Venture Capital Fund Act 2019, or the Crown Entities Act 2004 does not affect the validity or enforceability of any deed, agreement, right, or obligation that is entered into, obtained, or incurred by—
   (a) the Guardians; or
   (b) a Fund investment vehicle referred to in section 59A; or
+  (ba) a VCF investment vehicle referred to in section 25 of the Venture Capital Fund Act 2019; or
   (c) a Crown entity subsidiary of the Guardians.
 (2) This section applies only to the extent that the deed, agreement, right, or obligation is entered into, obtained, or incurred for the purpose of performing the functions of the Guardians.
-(3) This section applies despite anything to the contrary in this Act or the Crown Entities Act 2004 or any other enactment or rule of law.
+(3) This section applies despite anything to the contrary in this Act, the Venture Capital Fund Act 2019, or the Crown Entities Act 2004 or any other enactment or rule of law.
 
 ### 50 Borrowing
 (1) The Guardians may not, except with the approval of the Minister of Finance,—
@@ -495,7 +504,9 @@ The Minister may pay any money into the Fund that is additional to that required
 (2) The Minister’s approval may be given for any class of transactions in subsection (1)﻿(a) to (c).
 
 ### 51 Functions
-(1) The functions of the Guardians are to manage and administer the Fund in accordance with this Act.
+(1) The functions of the Guardians are to manage and administer—
+  (a) the Fund in accordance with this Act; and
+  (b) the VCF in accordance with the Venture Capital Fund Act 2019.
 (2) The Guardians are not a trustee, or a constructive trustee, in relation to the exercise of their functions or any other matter.
 
 ### 52 Expenses of Guardians
@@ -636,7 +647,7 @@ The annual report of the Guardians prepared each financial year under Part 4 of 
   (d) an analysis and explanation of the performance of the Fund over that financial year, including a comparison with the Guardians’ expectations about the performance of the Fund that were set out in the statement of performance expectations relating to that financial year; and
   (e) a statement of the investment policies, standards, and procedures for the Fund established by the Guardians under section 60; and
   (f) a statement signed by the chairperson of the board and the chief executive of the Guardians (if any) certifying whether or not the investment policies, standards, and procedures for the Fund have been complied with throughout that financial year; and
-  (g) a schedule of the investment managers and custodians used by the Guardians during that financial year and the classes of investments for which each was responsible.
+  (g) a schedule of the investment managers and custodians used by the Guardians in relation to the Fund during that financial year and the classes of investments for which each was responsible.
 
 ### 69 Reporting by Guardians on Fund
 (1) The Guardians must report to the Minister on the Fund at those intervals that the Minister may require.
@@ -648,12 +659,12 @@ The annual report of the Guardians prepared each financial year under Part 4 of 
 **Performance reviews**
 
 ### 71 Performance reviews
-(1) From time to time, there must be conducted a review of how effectively and efficiently the Guardians are performing their functions.
+(1) From time to time, there must be conducted a review of how effectively and efficiently the Guardians are performing their functions in relation to the Fund.
 (2) The first performance review must be conducted as soon as practicable after 1 July 2003.
 (3) Subsequent performance reviews must be conducted at intervals that are no more than 5 years apart (to be set by the Minister) after that.
 (4) The Minister must set the terms of reference for the review, which must include (without limitation) requirements that the reviewer form an opinion about—
-  (a) whether or not the investment policies, standards, and procedures, established by the Guardians are appropriate to the Fund; and
-  (b) whether or not the investment policies, standards, and procedures, established by the Guardians have been complied with in all material respects; and
+  (a) whether or not the investment policies, standards, and procedures, established by the Guardians in relation to the Fund are appropriate to the Fund; and
+  (b) whether or not the investment policies, standards, and procedures, established by the Guardians in relation to the Fund have been complied with in all material respects; and
   (c) the investment performance of the Fund.
 (5) Every performance review must be conducted by an independent person appointed by the Minister.
 (6) Every person who conducts a performance review must, as soon as practicable after conducting it,—
@@ -673,6 +684,7 @@ The annual report of the Guardians prepared each financial year under Part 4 of 
 (2) The Minister must, as soon as practicable after receiving a notification, make a recommendation to the Governor-General for an Order in Council to add or omit the name of the party to or from the relevant Part or Parts of Schedule 4, as the case may be.
 (3) The Minister must also make a recommendation to the Governor-General for an Order in Council to omit the name of a political party from Schedule 4 if the party is no longer represented in Parliament.
 (4) The Governor-General may, by Order in Council made on the recommendation of the Minister under subsection (2) or subsection (3), add names to, and omit names from, Schedule 4 in accordance with this section.
+(5) In this section, a reference to Part 2 is a reference to Part 2 to the extent that it relates to the Fund (rather than to the VCF).
 
 ### 73 Amendments to Act
 (1) The Minister must, on the introduction into the House of Representatives of a Government Bill that proposes an amendment to this Act, bring to the attention of the House the consultation process that was followed in the formulation of the proposed amendment.
@@ -680,6 +692,7 @@ The annual report of the Guardians prepared each financial year under Part 4 of 
   (a) whether consultation has taken place with the parties that are in agreement with the Part proposed to be amended (as listed in Schedule 4):
   (b) whether consultation has taken place with the Guardians (to the extent that the amendment relates to Part 2):
   (c) the results of the consultation.
+(2A) Subsection (2)﻿(a) relates to amendments to Part 2 to the extent that the amendments relate to the Fund (rather than to the VCF).
 (3) If the House of Representatives resolves that the balance in the Fund should be allocated to individual retirement accounts for all eligible contributors, the Guardians must report to the Minister and the Minister of Social Services and Employment, within 12 months of the date of the resolution, on the best means of allocating that balance to residents aged 18 or more having regard to the income tax paid by those individuals since 1 July 2001.
 
 **Amendments to other Acts**
@@ -963,10 +976,14 @@ The board must delegate a deliberation or decision to a committee if the effect 
 **Delegations**
 
 ### 39 Additional persons to whom delegations can be made
-The board may delegate any of the functions or powers of the board or the entity to all or any of the following, despite section 73(1)﻿(d) of the Crown Entities Act 2004:
+(1) The board may, in relation to the Fund, delegate any of the functions or powers of the board or the entity to all or any of the following, despite section 73(1)﻿(d) of the Crown Entities Act 2004:
   (a) a person appointed to undertake the investment of any part of the Fund under section 62:
   (b) a custodian:
   (c) a Fund investment vehicle that is formed or controlled under section 59A.
+(2) The board may, in relation to the VCF, delegate any of the functions or powers of the board or the entity to all or any of the following, despite section 73(1)﻿(d) of the Crown Entities Act 2004:
+  (a) a person appointed to undertake the investment of any part of the VCF under section 29 of the Venture Capital Fund Act 2019:
+  (b) a person appointed under section 30 of the Venture Capital Fund Act 2019 to act as custodian of the VCF, or any part of the VCF:
+  (c) a VCF investment vehicle that is formed or controlled under section 25 of the Venture Capital Fund Act 2019.
 
 ### 40 Certain powers must not be delegated
 [Repealed]
