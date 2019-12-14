@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2019-11-14_
+_Consolidation as at 2019-12-14_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1996,7 +1996,7 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 |  | s 161 | s 162 | s 163 | s 164 |  |
 | Crown Irrigation Investments Limited | ✓ |  |  |  |  |
 | Crown Research Institutes | ✓ | ✓ | ✓ | ✓ | ✓ |
-| New Zealand Venture Investment Fund Limited | ✓ | ✓ | ✓ |  | ✓ |
+| New Zealand Venture Investment Fund Limited | ✓ | ✓ | ✓ |  |  |
 | Radio New Zealand Limited |  |  |  |  | ✓ |
 | Television New Zealand Limited | ✓ | ✓ | ✓ | ✓ | ✓ |
 
