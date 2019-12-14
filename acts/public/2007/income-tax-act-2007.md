@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2019-10-04_
+_Consolidation as at 2019-12-14_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -4348,7 +4348,8 @@ Exclusion: certain public authorities
   (b) State enterprises:
   (c) Crown Research Institutes:
   (d) a Fund investment vehicle as referred to in section 59A of the New Zealand Superannuation and Retirement Income Act 2001:
-  (e) a company that is treated as being wholly owned by the Crown under section HR 4B (Activities relating to New Zealand Superannuation Fund).
+  (db) a VCF investment vehicle as referred to in section 25 of the Venture Capital Fund Act 2019:
+  (e) a company that is treated as being wholly owned by the Crown under section HR 4B (Activities relating to New Zealand Superannuation Fund and VCF).
 Exclusion: mixed-ownership enterprises
 (5B) Subsection (2) does not apply to an amount of income derived by a mixed-ownership enterprise.
 Meaning of public authority
@@ -5334,6 +5335,8 @@ What this section applies to
   (b) the Crown as owner of the New Zealand Superannuation Fund:
   (bb) a Fund investment vehicle, as referred to in section 59A of the New Zealand Superannuation and Retirement Income Act 2001, that is treated as being wholly owned by the Crown under section HR 4B (Activities relating to New Zealand Superannuation Fund):
   (bc) a company that is treated as being wholly owned by the Crown under section HR 4B:
+  (bd) the Crown as owner of the VCF:
+  (be) a VCF investment vehicle, as referred to in section 25 of the Venture Capital Fund Act 2019, that is treated as being wholly owned by the Crown under section HR 4B:
   (c) a life insurer.
 Excluded income
 (2) An amount that the entity derives from the disposal in the income year of a share issued by a company referred to in subsection (3) is—
@@ -29220,15 +29223,17 @@ Pre-1983 investments
 ### HR 4 Government Superannuation Fund
 The Government Superannuation Fund Authority is treated for income tax purposes as if the Government Superannuation Fund were a superannuation scheme that is a trust and the Authority the trustee of that scheme.
 
-### HR 4B Activities relating to New Zealand Superannuation Fund
+### HR 4B Activities relating to New Zealand Superannuation Fund and Venture Capital Fund
 When this section applies
-(1) This section applies to determine for this Act the rules that determine the amounts of income derived and expenditure incurred by the Crown as owner of the New Zealand Superannuation Fund (the Fund).
-Activities of the Crown relating to Fund
-(2) Amounts of income derived and expenditure incurred by the Crown in activities relating to the Fund are determined as if the amounts were being derived or incurred by a company (the Fund company), other than a public authority, that was a special corporate entity wholly owned by the Minister of the Crown who was for the time being responsible for the administration of the New Zealand Superannuation and Retirement Income Act 2001, Parts 2 and 3.
-Fund investment vehicles
-(3) The consolidation rules, continuity provisions, and other rules relating to groups of companies apply to the Crown as owner of the Fund, to a Fund investment vehicle as referred to in section 59A of the New Zealand Superannuation and Retirement Income Act 2001, and to a company in which the Guardians of New Zealand Superannuation (the Guardians) hold interests for the Crown, as if—
-  (a) the Crown were the Fund company; and
-  (b) interests in the Fund investment vehicle or company held by the Guardians were owned by the Crown as the Fund company.
+(1) This section applies to determine for this Act the rules that determine the amounts of income derived and expenditure incurred by the Crown as owner of the New Zealand Superannuation Fund (the Fund) and the VCF.
+Activities of the Crown relating to Fund or VCF
+(2) Amounts of income derived and expenditure incurred by the Crown in activities relating to the Fund or the VCF are determined as if the amounts were being derived or incurred by a company (the Fund/VCF company), other than a public authority, that was a special corporate entity wholly owned by,—
+  (a) in the case of the Fund, the Minister of the Crown who was for the time being responsible for the administration of the New Zealand Superannuation and Retirement Income Act 2001, Parts 2 and 3:
+  (b) in the case of the VCF, the Minister of the Crown who was for the time being responsible for the administration of the Venture Capital Fund Act 2019.
+Fund investment vehicles and VCF investment vehicles
+(3) The consolidation rules, continuity provisions, and other rules relating to groups of companies apply to the Crown as owner of the Fund and of the VCF, to a Fund investment vehicle as referred to in section 59A of the New Zealand Superannuation and Retirement Income Act 2001, to a VCF investment vehicle as referred to in section 25 of the Venture Capital Fund Act 2019, and to a company in which the Guardians of New Zealand Superannuation (the Guardians) hold interests for the Crown, as if—
+  (a) the Crown were the Fund/VCF company; and
+  (b) interests in the Fund investment vehicle, VCF investment vehicle, or company held by the Guardians were owned by the Crown as the Fund/VCF company.
 
 ### HR 5 Airport operators: general
 When this section applies
@@ -44604,6 +44609,7 @@ In this Act, unless the context requires otherwise,—
       (i) advance further amounts to the other party; or
       (ii) require the return of all amounts advanced to the other party, if the other party’s rights and obligations under the financial arrangement are expressed in a foreign currency:
     (b) in the old financial arrangements rules, is defined in section EZ 48 (Definitions)
+  - **VCF** means the Venture Capital Fund established under section 8 of the Venture Capital Fund Act 2019
   - **venture investment agreement** is defined in section CW 13(6) (Proceeds from share or option acquired under venture investment agreement)
   - **Venture Investment Fund** means the company called New Zealand Venture Investment Fund Limited that is listed in Schedule 2 of the Crown Entities Act 2004
   - **veteran’s pension** means a veteran's pension, other than a portable veteran's pension, paid or payable under Part 6 of the Veterans' Support Act 2014
@@ -45815,6 +45821,9 @@ The basic rate of income tax on each dollar of taxable income derived by the Cro
 
 ### 11 Schedular taxable income: life insurance premiums derived by Lloyd’s of London
 The basic rate of income tax for a person on each dollar of the person’s schedular taxable income that is income under section CR 3B (Lloyd’s of London: income from life insurance premiums) is 0.28.
+
+### 12 Taxable income: Venture Capital Fund
+The basic rate of income tax on each dollar of taxable income derived by the Crown through the VCF is the rate applying to companies set out in clause 2.
 
 | Row | Range of dollar in all-inclusive pay | Tax rate |
 | --- | --- | --- |
