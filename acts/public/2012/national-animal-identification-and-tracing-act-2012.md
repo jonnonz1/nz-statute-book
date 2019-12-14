@@ -1,5 +1,5 @@
 # National Animal Identification and Tracing Act 2012
-_Consolidation as at 2018-11-13_
+_Consolidation as at 2019-12-14_
 
 ### 1 Title
 This Act is the National Animal Identification and Tracing Act 2012.
@@ -23,6 +23,9 @@ The purpose of this Act is to establish an animal identification and tracing sys
   (c) improves biosecurity management; and
   (d) manages risks to human health arising from residues in food, food-borne diseases, and diseases that are transmissible between animals and humans; and
   (e) supports improved animal productivity, market assurances, and trading requirements.
+
+### 3A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
@@ -67,12 +70,18 @@ In this Act, unless the context otherwise requires,—
   - **other identification system** means an animal identification system other than an animal identification system approved under the Biosecurity Act 1993 or Animal Products Act 1999
   - **other location** means a place, other than a NAIT location, where 1 or more NAIT animals are kept or held
   - **personal information** has the same meaning as in section 2(1) of the Privacy Act 1993
-  - **PICA** means a natural person in day-to-day charge of a NAIT animal
+  - **PICA** means a natural person or body corporate in day-to-day charge of a NAIT animal
   - **PICA delegate** means a natural person—
     (a) nominated under section 26(2) to undertake specified procedures and obligations under this Act on behalf of a PICA; and
     (b) registered as a PICA delegate in the manner provided for in section 27
   - **place** includes any land, building, conveyance, craft, or structure
+  - **public sector organisation** means—
+    (a) an organisation named or specified in Schedule 1 of the Ombudsmen Act 1975:
+    (b) an organisation named in Schedule 1 of the Official Information Act 1982:
+    (c) a local authority or public body named or specified in Schedule 1 of the Local Government Official Information and Meetings Act 1987:
+    (d) a council-controlled organisation within the meaning of section 6 of the Local Government Act 2002
   - **rating unit** has the same meaning as in section 2 of the Rating Valuations Act 1998
+  - **registered location** means, in relation to a NAIT device, the location that is registered with the NAIT organisation for that device
   - **saleyard** means any place where the core business is the sale of animals, including NAIT animals, by public sale
   - **transit stop** means a NAIT location where a NAIT animal is temporarily held during transport or droving between 2 NAIT locations
   - **transition animal** means a NAIT animal that was born before the species or sub-group of species to which it belongs was subject to the NAIT scheme
@@ -142,7 +151,10 @@ This Act binds the Crown.
       (B) establishing an entity with the participation of other persons.
 
 ### 9 Minister may appoint 1 or more persons to perform functions or duties, or exercise powers, of NAIT organisation
-(1) If the Minister has reasonable grounds to believe that the continued involvement of the NAIT organisation poses a significant risk to the integrity and effective operation of the NAIT scheme or to New Zealand's trading reputation or economic interests, the Minister may—
+(1AAA) This section applies if the Minister has reasonable grounds to believe that—
+  (a) the continued involvement of the NAIT organisation poses a significant risk to the integrity and effective operation of the NAIT scheme or to New Zealand’s trading reputation or economic interests; or
+  (b) a failure by the NAIT organisation to perform a function or duty under this Act poses a risk to the integrity and effective operation of the NAIT scheme or to New Zealand’s trading reputation or economic interests.
+(1) If this section applies, the Minister may—
   (a) appoint, for a specified period, 1 or more suitable persons to—
     (i) perform any or all of the functions or duties of the NAIT organisation under this Act or regulations made under this Act:
     (ii) exercise any or all of the powers of the NAIT organisation under this Act or regulations made under this Act; or
@@ -161,6 +173,20 @@ This Act binds the Crown.
     (ii) in accordance with the requirements of section 8(2).
 (3) Before making an appointment under subsection (1), the Minister must consult the NAIT organisation and any persons or representatives of persons substantially affected by the proposed appointment.
 
+### 9A Minister may appoint person to attend meetings of board
+(1) The Minister may appoint a person to perform the following functions:
+  (a) to observe the decision-making processes and decisions of the board; and
+  (b) to assist the board to understand Government priorities and expectations; and
+  (c) to advise the Minister on any matters relating to the NAIT organisation.
+(2) Before making the appointment, the Minister must, after receiving advice from the Director-General, be satisfied that the person has the appropriate skills and expertise.
+(3) The person appointed may attend any meeting of the board but may not vote.
+(4) The board must give the person appointed sufficient notice of its meetings and copies of all documents and materials to be considered in relation to each meeting.
+(5) The appointment must be made on terms and conditions agreed between the Minister and the person appointed.
+(6) In this section, board means the board or governing body of the NAIT organisation.
+
+### 9B Minister may notify Government priorities and expectations
+The Minister may, by notice in writing to the NAIT organisation, state the Government’s priorities and expectations relating to the organisation’s performance of its functions and duties under this Act.
+
 ### 10 Functions, duties, and powers of NAIT organisation
 (1) The NAIT organisation must—
   (a) meet its obligations under this Act and any regulations made under this Act, including (but not limited to)—
@@ -177,13 +203,21 @@ This Act binds the Crown.
       (A) sets strategic and operational goals; and
       (B) sets objectives and priorities for the NAIT organisation and the NAIT scheme; and
       (C) identifies the expectations of those persons who have an interest in the NAIT scheme; and
+      (D) specify the measures by which the NAIT organisation’s performance of its functions and duties under this Act (including any function or duty specified under subsection (2)) will be assessed; and
+      (E) specify how the NAIT organisation’s activities will be independently audited against those measures; and
   (b) modify its constitution or rules to—
     (i) indicate that it is the NAIT organisation designated under this Act; and
     (ii) indicate that its purpose or object includes meeting its obligations under this Act or any regulations made under this Act on a not-for-profit basis; and
     (iii) reflect its obligations under this Act or any regulations made under this Act; and
     (iv) enable it to meet its obligations under this Act or any regulations made under this Act; and
-  (c) perform any function or duty that the Minister directs under subsection (2).
-(2) The Minister may, after consulting the NAIT organisation and any other persons that the Minister considers appropriate, direct the NAIT organisation in writing to perform a function or duty, other than a function or duty specified in subsection (1), provided the function or duty is consistent with the NAIT organisation's obligations under this Act or any regulations made under this Act.
+  (c) in the event that an appointment is made under section 9(1)﻿(a) or (b), ensure that there is continuity of access to the NAIT information system (before and after the appointment) by persons entitled to access it under Part 4; and
+  (d) arrange for its activities to be independently audited each year against the measures specified in the national operations plan; and
+  (e) perform any function or duty that the Minister directs under subsection (2).
+(2) The Minister may, after consulting the NAIT organisation and any other persons that the Minister considers appropriate, direct the NAIT organisation in writing to perform a function or duty, including a function or duty specified in subsection (1), provided the function or duty is consistent with the NAIT organisation's obligations under this Act or any regulations made under this Act.
+(2A) The Minister must present a direction made under subsection (2) to Parliament.
+(2B) The NAIT organisation must perform its function under subsection (1)﻿(c)—
+  (a) in accordance with the terms of any agreement entered into by the NAIT organisation and the Crown; or
+  (b) if there is no agreement, in accordance with any direction of the Minister given under subsection (2).
 (3) The NAIT organisation—
   (a) may contract out the functions, duties, and powers specified in subsection (1)﻿(a)﻿(i) to (v) and (vii) to (x), but remains responsible and accountable for the performance of those functions and duties and the exercise of those powers; and
   (b) may not contract out the compliance and enforcement functions specified in subsection (1)﻿(a)﻿(vi) unless—
@@ -194,14 +228,25 @@ This Act binds the Crown.
 (4) To avoid doubt, any compliance or enforcement function undertaken by the NAIT organisation under subsection (1)﻿(a)﻿(vi) does not displace or limit the compliance or enforcement functions of the Crown under this Act or any other enactment.
 (5) The NAIT organisation—
   (a) must, on an annual basis, review any national operations plan that is implemented under subsection (1)﻿(a)﻿(x); and
-  (b) must amend the plan if the NAIT organisation considers an amendment necessary or desirable in the light of the purpose of this Act.
+  (b) must amend the plan if the NAIT organisation considers an amendment necessary or desirable in the light of the purpose of this Act; and
+  (c) must, as soon as practicable after the review is completed, provide the Minister with the findings of the review.
 (6) Despite subsection (1)﻿(a)﻿(x) or (5), the Minister—
   (a) may, at any time, review any national operations plan that is implemented under subsection (1)﻿(a)﻿(x); and
   (b) may, after consulting the NAIT organisation, amend the plan if the Minister considers an amendment necessary or desirable in the light of the purpose of this Act.
 (7) The NAIT organisation must, when performing its functions or duties or exercising its powers,—
+  (aaa) have regard to the Government’s priorities and expectations notified under section 9B; and
   (a) have regard to any policies that the Minister issues under section 12; and
   (b) comply with any standards that the Minister issues under section 12.
 (8) In the case of an inconsistency between this Act and any enactment under which the entity that became the NAIT organisation was established, this Act prevails.
+
+### 10A Additional reporting obligations
+(1) The NAIT organisation must, for each financial year,—
+  (a) prepare a written report accounting for how any money appropriated by the Crown has been spent in the financial year; and
+  (b) provide the report to the Minister as soon as practicable after the end of the financial year.
+(2) The NAIT organisation must—
+  (a) prepare a written report on how the NAIT organisation is addressing the Government’s priorities and expectations relating to the organisation’s performance of its functions and duties under this Act; and
+  (b) provide the report to the Minister at the end of the financial year and at any other time at the request of the Minister.
+(3) The NAIT organisation must provide the Minister with the findings of the independent audit required under section 10(1)﻿(d) as soon as practicable after the audit has been completed.
 
 ### 11 Board or governing body of NAIT organisation may delegate functions, duties, and powers
 (1) The board or governing body of the NAIT organisation—
@@ -342,8 +387,9 @@ An information provider may, on behalf of a PICA, perform 1 or more of the follo
 (3) An application for an accreditation under subsection (1) must—
   (a) be made in writing to the NAIT organisation; and
   (b) be in the prescribed form; and
-  (c) be accompanied by the prescribed fee (if any).
+  (c) be accompanied by the fee required by regulations (if any).
 (4) For the purpose of assessing an application, the NAIT organisation may require the applicant to supply information additional to that contained in the application.
+(4A) The NAIT organisation may, if it thinks fit, waive the fee payable for an application, in whole or in part, or in any particular case or class of cases.
 (5) The NAIT organisation must, within 20 working days of the date on which the application was submitted,—
   (a) determine the application; and
   (b) inform the applicant of the determination in writing.
@@ -411,6 +457,11 @@ An information provider may, on behalf of a PICA, perform 1 or more of the follo
 (4) Every information provider and every accredited entity dealing with NAIT animals (as the case may be) must provide, at no cost, the staff necessary to assist the NAIT organisation with its audit of the information that the information provider or accredited entity has provided.
 (5) The Privacy Commissioner may require the NAIT organisation to report on the information-gathering and information-handling practices of information providers and accredited entities dealing with NAIT animals who gather and handle personal information.
 (6) Following an audit under this section, the NAIT organisation may direct an information provider or an accredited entity dealing with NAIT animals to implement changes in relation to the matters audited.
+
+### 23A NAIT organisation must provide copy of core data at Minister’s request
+The NAIT organisation must, at the written request of the Minister, provide the Crown with a copy of all or part of the core data—
+  (a) in accordance with the Minister’s specifications (if any); and
+  (b) at no cost to the Crown.
 
 ## Part 3 — Obligations of persons participating in NAIT scheme
 
@@ -486,7 +537,8 @@ An information provider may, on behalf of a PICA, perform 1 or more of the follo
 (1) A PICA must ensure that the NAIT animals in his or her charge are—
   (a) correctly fitted at all times with the NAIT device required for those animals in accordance with standards issued under section 14 or regulations made under this Act; and
   (b) registered with the NAIT organisation.
-(2) A PICA must not move NAIT animals from the NAIT location or other location which that PICA controls unless those animals are fitted with the prescribed NAIT device.
+(2) A PICA must not fit a NAIT device on an animal outside the registered location for the device.
+(3) A PICA must comply with any other requirements relating to NAIT devices set out in any standards issued or regulations made under this Act.
 
 **Movement and compliance**
 
@@ -496,14 +548,31 @@ An information provider may, on behalf of a PICA, perform 1 or more of the follo
   (a) the PICA at the location from which the animals are moved (point of origin); and
   (b) the PICA at the location to which they are moved (destination).
 
+### 31A Obligation on person who moves NAIT animals
+(1) A person must not move a NAIT animal from a NAIT location or other location unless the animal is fitted with the prescribed NAIT device.
+(2) However, a transport operator or drover is exempt from the obligation in subsection (1) if—
+  (a) the PICA at the location from which the NAIT animal is moved provides the transport operator or drover with a declaration that the animal has been—
+    (i) fitted with the prescribed NAIT device; and
+    (ii) identified and registered with the NAIT organisation in accordance with this Act; and
+  (b) the transport operator or drover carries, or has access to, the declaration at all times while moving the animal.
+
 ### Subpart 2 — Other obligations
 
 **Death, loss, or export of animals**
 
 ### 32 Obligation to declare death, loss, or export
 (1) A PICA must, as soon as practicable, make a declaration to the NAIT organisation if a NAIT animal dies or is lost (an animal exit declaration).
-(2) If a PICA intends to export a NAIT animal from New Zealand, the PICA must make an animal exit declaration at the transitional facility.
-(3) In subsection (2), transitional facility has the meaning given in section 2(1) of the Biosecurity Act 1993.
+(2) If a PICA intends to export a NAIT animal from New Zealand, the PICA must make an animal exit declaration at the port of export.
+(3)
+
+**Certain livestock that are not NAIT animals**
+
+### 32A Obligation to declare certain livestock that are not NAIT animals
+(1) A PICA must, on or before 31 July each year, make a declaration to the NAIT organisation of prescribed livestock under the PICA’s charge.
+(2) In this section, prescribed livestock means livestock that—
+  (a) are not NAIT animals; and
+  (b) are farmed or kept in captivity; and
+  (c) are prescribed in regulations made under this Act.
 
 **Provision of information**
 
@@ -573,19 +642,25 @@ In this Part,—
 (2) The NAIT organisation must appoint a NAIT information system administrator to manage access to the NAIT information system.
 
 ### 40 Purposes of holding core data
-Core data is held in the NAIT information system for the following purposes:
+(1) Core data is held in the NAIT information system for the following purposes:
   (a) to enable the NAIT organisation, a NAIT officer, or a NAIT authorised person to exercise their powers and carry out their functions and duties:
   (b) to assist other persons with duties under this Act to carry out their duties:
-  (c) to facilitate the purposes of the Animal Products Act 1999, Biosecurity Act 1993, Commodity Levies Act 1990, Primary Products Marketing Act 1953, and any other enactment relating to animals or animal health:
+  (c) to facilitate the purposes of the Animal Products Act 1999, Animal Welfare Act 1999, Biosecurity Act 1993, Commodity Levies Act 1990, Primary Products Marketing Act 1953, and any other enactment relating to animals or animal health:
   (d) to respond to the following human health issues:
     (i) food residues associated with animals:
     (ii) food-borne diseases associated with animals:
     (iii) diseases transferable between animals and humans:
   (e) to provide data supporting productivity, market assurance, and trading requirements:
-  (f) to respond to natural disasters or requests from emergency services when rapid access to data on animals and people is needed to manage risks to life and welfare:
+  (f) to respond to natural disasters or requests from emergency services when rapid access to data on animals and people is needed to manage risks to the lives and welfare of animals and people:
   (g) to provide statistical data for policy development and related advice about the industries to which this Act applies:
   (h) to enable the NAIT organisation to publish general agricultural statistics under section 49:
-  (i) to provide data to enable a potential purchaser of a NAIT animal to trace the history of the animal over its life.
+  (i) to provide data to enable a potential purchaser of a NAIT animal to trace the location history of the animal over its life:
+  (j) to respond, or assist others with duties to respond, to inquiries about theft of NAIT animals, wandering NAIT animals, or NAIT animals found dead in public places.
+(2) For the purpose of subsection (1),—
+  - **emergency services** means—
+    (a) the services described in section 4 of the Civil Defence Emergency Management Act 2002; and
+    (b) animal control services of local authorities or other similar services relating to animal control
+  - **location history** means information about the locations in which the animal was registered and the dates during which the animal resided in each location.
 
 ### 41 Non-core data held by agreement
 (1) A person may request the NAIT organisation to make an agreement with the person to hold non-core data in the NAIT information system.
@@ -615,6 +690,7 @@ Core data is held in the NAIT information system for the following purposes:
 (7) Access to data in the NAIT information system is available as follows:
   (a) the NAIT organisation, NAIT officers, and NAIT authorised persons have access to the data when they need it to exercise their powers and carry out their functions and duties:
   (b) the persons described in section 41(4)﻿(c) have access by the means provided for in the agreement:
+  (ba) a person authorised under section 48A has access to core data for a purpose specified in section 40:
   (c) other persons must apply for access under section 43.
 
 ### 43 Method of making applications
@@ -642,7 +718,8 @@ Core data is held in the NAIT information system for the following purposes:
   (b) a permanent resident of New Zealand:
   (c) a body corporate that is incorporated in New Zealand:
   (d) a body corporate that is incorporated outside New Zealand but that has a place of business in New Zealand:
-  (e) a department or other Crown agency.
+  (e) a department or other Crown agency:
+  (f) a public sector organisation.
 (6) The application is an application for confirmation that the person specified by the applicant is the registered PICA for a NAIT animal.
 (7) The administrator must determine the application by confirming or denying that the person is the registered PICA for the animal.
 
@@ -667,7 +744,7 @@ Core data: not personal information
 (6) The application is an application for access to core data that is not personal information.
 (7) The administrator or the panel must grant the application, wholly or partly, if satisfied that access to the data is reasonably necessary to achieve a purpose in section 40.
 Core data: personal information or not personal information
-(8) A department or other Crown agency may make the application described in subsection (9).
+(8) A department or other Crown agency or a public sector organisation may make the application described in subsection (9).
 (9) The application is an application for access to core data, whether or not it is personal information.
 (10) The administrator or the panel must grant the application, wholly or partly, if satisfied that access to the data is reasonably necessary to achieve a purpose in section 40.
 Non-core data: personal information or not personal information
@@ -676,7 +753,8 @@ Non-core data: personal information or not personal information
   (b) a permanent resident of New Zealand:
   (c) a body corporate that is incorporated in New Zealand:
   (d) a body corporate that is incorporated outside New Zealand but that has a place of business in New Zealand:
-  (e) a department or other Crown agency.
+  (e) a department or other Crown agency:
+  (f) a public sector organisation.
 (12) The application is an application for access to non-core data, whether or not it is personal information.
 (13) The administrator or the panel must grant the application, wholly or partly, if satisfied that the applicant has express consent from the person whose data it is to the applicant having access.
 Link into and access
@@ -712,6 +790,11 @@ Link into and access
 (1) The administrator or the panel must inform the applicant of a determination under section 45 or 46 as soon as practicable.
 (2) A determination to decline an application must include reasons and must be accompanied by a copy of the complaints procedure established under section 50.
 
+### 48A Authorised Ministry officers may access core data
+(1) The Director-General may authorise an employee or agent of the Ministry to access core data in the NAIT information system in accordance with this section.
+(2) A person authorised under this section may access core data in the NAIT information system without making an application under section 45 or 46 if the Director-General is satisfied that access to the data is reasonably necessary to achieve a purpose in section 40.
+(3) The NAIT organisation must ensure that core data is able to be accessed at any time by a person authorised under this section.
+
 ### 49 Publication of statistics
 The NAIT organisation may publish general agricultural statistics based on core data and non-core data.
 
@@ -723,6 +806,9 @@ The NAIT organisation must establish and publish a complaints procedure for use 
 ### 51 Relationship with other laws
 (1) Nothing in the Official Information Act 1982 applies to data in the NAIT information system.
 (2) For the purposes of the rules of evidence, the contents of the NAIT information system are proved by the production of a certificate indicating its contents signed by the administrator or a person acting under a delegation from the administrator.
+(3) For the purposes of the rules of evidence, the information in a NAIT device and the manner in which the information is conveyed from the device to the NAIT information system are proved by the production of a certificate—
+  (a) indicating the information and the manner of conveyance; and
+  (b) signed by the administrator or a person acting under a delegation from the administrator.
 
 ## Part 5 — Compliance and enforcement, immunities, cost recovery, regulation-making powers, and transitional, repeal, and amendment provisions
 
@@ -854,6 +940,7 @@ In making decisions under section 57, the Minister must have regard to the follo
 ### 61 Regulations may impose fees or charges
 (1) The Governor-General may, by Order in Council and on the recommendation of the Minister, make regulations prescribing—
   (a) fees or charges of a kind or kinds described in section 59(1)﻿(a) to (n):
+  (aa) a method for calculating a fee payable under section 20(3):
   (b) the persons liable for the payment of the fees or charges:
   (c) the persons, if any, exempt from paying the fees or charges.
 (2) If an exemption is provided under subsection (1)﻿(c), the reasons for it must be set out in the regulations' explanatory note.
@@ -899,6 +986,9 @@ In making decisions under section 57, the Minister must have regard to the follo
     (i) the organisation's financial position as a result of money paid as levy in the year; and
     (ii) the financial results of all of the organisation's activities involving the use of the money paid as levy in the year or the use of assets the organisation has at the end of the year as a result of money paid as levy in the year.
 (2) The NAIT organisation must ensure that the statements are audited within 5 months after the end of the year.
+(3) The NAIT organisation must provide the Minister with—
+  (a) a copy of the statements as soon as practicable after they have been prepared; and
+  (b) the findings of the audit as soon as practicable after the audit is completed.
 
 ### 64 Levy regulations are confirmable instruments
 The explanatory note of regulations made under section 62 must indicate that—
@@ -1043,6 +1133,24 @@ The Animal Identification Act 1993 is repealed.
 ### 75 Amendments to other enactments
 The enactments specified in Schedule 4 are amended in the manner shown in that schedule.
 
+### 76 Exemption from Act for local authorities and rangers acting under Impounding Act 1955
+This Act does not apply to any actions carried out under the Impounding Act 1955 by a local authority or a ranger appointed by the local authority.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to National Animal Identification and Tracing Amendment Act 2019
+
+### 1 Defined terms
+In this Part,—
+  - **commencement date** means the date on which the National Animal Identification and Tracing Amendment Act 2019 comes into force
+  - **transition period** means the period starting on the commencement date and ending 12 months after the commencement date.
+
+### 2 NAIT devices purchased before commencement date
+A PICA who purchased animal identification devices before the commencement date may, despite section 30(2) and (3), use those devices on NAIT animals under the PICA’s charge at any location during the transition period.
+
+### 3 Delayed application of section 31A and clause 18 of Schedule 2 to transport operators and drovers
+Section 31A and clause 18 of Schedule 2 do not apply to transport operators and drovers until the date that is 6 months after the commencement date.
+
 ## Schedule 1 — NAIT animals
 
 | Cattle | All members of the subfamily Bovinae (including bison and buffalo that are farmed or kept in captivity) |
@@ -1051,42 +1159,12 @@ The enactments specified in Schedule 4 are amended in the manner shown in that s
 
 ## Schedule 2 — Compliance and enforcement
 
-### 1 Interpretation
-(1) In this schedule, unless the context otherwise requires,—
-  - **access** , in relation to any computer system, means instruct, communicate with, store data in, receive data from, or otherwise make use of any of the resources of the computer system
-  - **access information** includes codes, passwords, and encryption keys, and any related information that enables access to a computer system or any other data storage device
-  - **call associated data** has the meaning given in section 3 of the Telecommunications (Interception Capability and Security) Act 2013
-  - **computer system** —
-    (a) means—
-      (i) a computer; or
-      (ii) 2 or more interconnected computers; or
-      (iii) any communication links between computers or to remote terminals or another device; or
-      (iv) 2 or more interconnected computers combined with any communication links between computers or to remote terminals or any other device; and
-    (b) includes any part of the items described in paragraph (a) and all related input, output, processing, storage, software, or communication facilities, and stored data
-  - **document** includes call associated data and the content of telecommunications for which, at the time an application is made under clause 14 for a production order against a network operator, the network operator has storage capability, and stores that data and content in the normal course of its business
-  - **evidential material** , in relation to a particular offence, means evidence or any other item, tangible or intangible, of relevance to the investigation of the offence
-  - **issuing officer** means—
-    (a) a Judge:
-    (b) a person such as a Justice of the Peace, Community Magistrate, Registrar, or Deputy Registrar
-  - **law enforcement agency** means the Ministry or the NAIT organisation
-  - **network operator** has the meaning given in section 3 of the Telecommunications (Interception Capability and Security) Act 2013
-  - **Registrar** and mean the Registrar and Deputy Registrar of the District Court
-  - **remote access search** means a search of a thing such as an Internet data storage facility that does not have a physical address that a person can enter and search
-  - **search power** , in relation to any provision in this schedule, means—
-    (a) every search warrant issued under this Act; and
-    (b) every power conferred by or under this Act to enter and inspect (without warrant) any place, vehicle, or other thing
-  - **search warrant** means a search warrant within the meaning of clause 29(2).
-(2) For the purposes of the definition of computer system, a computer is interconnected with another computer if it can be lawfully used to provide access to that other computer—
-  (a) with or without access information; and
-  (b) whether or not either or both computers are currently turned on; and
-  (c) whether or not access is currently occurring.
-
 ### Part 1 — Powers relevant to administration of NAIT scheme
 
 **Requirements for information**
 
-### 2 Production of information
-(1) A NAIT officer or a NAIT authorised person may direct any person, including a person who is otherwise exempt from obligations by regulations made under section 69(3)﻿(g),—
+### 1 Production of information
+(1) A NAIT officer or a NAIT authorised person may direct any person, including a person who is otherwise exempted from obligations by regulations made under section 69(3)﻿(g),—
   (a) to provide personal information about that individual, including identifying information such as the person's name, date of birth, gender, place of residence, and place of business:
   (b) to produce information or documents:
   (c) to answer relevant questions.
@@ -1096,26 +1174,26 @@ The enactments specified in Schedule 4 are amended in the manner shown in that s
     (ii) a person is complying with this Act, regulations made under it, or standards issued under it; or
     (iii) a NAIT officer, a NAIT authorised person, or the Director-General should exercise other powers under this Act for the purpose of ascertaining and ensuring compliance with this Act; or
   (b) ascertaining the movements of NAIT animals.
-(3) This section is subject to clause 64 (which provides for a privilege against self-incrimination).
+(3) This clause is subject to section 138 of the Search and Surveillance Act 2012 (which provides for a privilege against self-incrimination).
 
-### 3 Audit of core data
-(1) A NAIT officer or a NAIT authorised person may, at any time, audit core data for the purpose of ascertaining compliance with—
+### 2 Inspection and audit of core data
+(1) A NAIT officer or a NAIT authorised person may, at any time, inspect or audit core data for the purpose of ascertaining compliance with—
   (a) the obligations set out in Part 3 of this Act:
   (b) any requirements of this Act, of regulations made under it, or of standards issued under it.
-(2) A fee or charge may be charged to recover the cost of the audit.
-(3) Before commencing an audit, the NAIT officer must notify the PICA, the PICA's delegate, and the PICA's information provider (if any) that—
-  (a) an audit is to be carried out; and
-  (b) the audit will be conducted on a cost-recovery basis; and
-  (c) the PICA, the PICA's delegate, or the PICA's information provider may make a written submission before an adverse report is issued on the basis of the audit.
-(4) This section is subject to clause 64 (which provides for a privilege against self-incrimination).
+(2) A fee or charge may be charged to recover the cost of the inspection or audit.
+(3) Before commencing an inspection or audit, the NAIT officer or NAIT authorised person must notify the PICA, the PICA’s delegate, and the PICA’s information provider (if any) that—
+  (a) an inspection or audit (as the case may require) is to be carried out; and
+  (b) the inspection or audit may be conducted on a cost-recovery basis; and
+  (c) the PICA, the PICA's delegate, or the PICA's information provider may make a written submission before an adverse report is issued on the basis of the inspection or audit.
+(4) This clause is subject to section 138 of the Search and Surveillance Act 2012 (which provides for a privilege against self-incrimination).
 
-### 4 Power to determine status of person as PICA
-(1) If there is no PICA registered for a NAIT location, a NAIT officer must determine who the PICA is for that location.
+### 3 Power to determine status of person as PICA
+(1) If there is no PICA registered for a NAIT location or other location, a NAIT officer must determine who the PICA is for that location.
 (2) The NAIT officer must take into account the following factors:
   (a) if a person (person A) is actually in charge of NAIT animals and is employed by another person (person B), whether person B agrees to person A being the PICA for the NAIT location; and
   (b) whether person A has the authority and ability to carry out the obligations arising under this Act, including—
-    (i) the obligation to register as the PICA for the NAIT location; and
-    (ii) the obligations of a PICA such as—
+    (i) the obligation to register as the PICA for the location; and
+    (ii) the obligations of a PICA, such as—
       (A) obtaining and fitting NAIT devices for the species or sub-groups of species of NAIT animals at the location; and
       (B) declaring the movement of NAIT animals to or from the location.
 (3) Subclause (2) does not limit the matters that a NAIT officer may take into account in making a determination under subclause (1).
@@ -1127,57 +1205,21 @@ The enactments specified in Schedule 4 are amended in the manner shown in that s
     (ii) the obligations that apply to that person as the PICA for that location; and
     (iii) the offences and penalties that apply for breaches of this Act or of regulations made under it.
 
-### 5 Power to give directions
+### 4 Power to give directions
 (1) A NAIT officer or a NAIT authorised person may, if he or she considers it necessary,—
   (a) give directions to a PICA, a PICA delegate, or an information provider to ensure that a NAIT animal is identified and registered in the manner and within the time required by or under this Act:
   (b) give any other reasonable direction to ensure compliance with this Act, regulations made under this Act, or standards issued under it.
-(2) Directions must be given in writing but, if it is impracticable to do so in the circumstances, may be given orally, and those directions must be given in writing as soon as practicable after an oral direction has been given.
+(2) Directions must be given in writing but, if it is impracticable to do so in the circumstances, may be given orally. An oral direction must be followed by a written direction as soon as practicable after it has been given.
 
-### 6 Power to act if person defaults
-(1) This clause applies to a person who is directed under clause 5 to take some specified action.
-(2) If the person fails to comply with the direction within the time specified in the notice or, if no time was specified in a notice under clause 5(2), within a reasonable time, a NAIT officer or a NAIT authorised person may take action, or cause action to be taken, that is reasonably necessary and appropriate for achieving the purposes of the notice.
+### 5 Power to act if person defaults
+(1) This clause applies to a person who is directed under clause 4 to take some specified action.
+(2) If the person fails to comply with the direction within the time specified in the notice or, if no time was specified in a notice under clause 4(2), within a reasonable time, a NAIT officer or a NAIT authorised person may take action, or cause action to be taken, that is reasonably necessary and appropriate for achieving the purposes of the notice.
 (3) If a specified action is required to be carried out on Māori land, the notice given to the owners must comply with section 181 of Te Ture Whenua Maori Act 1993.
 (4) The NAIT officer or a NAIT authorised person is entitled to recover the costs and expenses reasonably incurred under subclause (2) as a debt due from the person to whom the notice was given.
 
-### 7 Holding of property seized or produced under this Part
-Any property, other than NAIT animals, seized or produced in the course of exercising a power under this Part may be held by the law enforcement agency, but only for as long as is reasonably necessary for investigation as evidential material.
-
-**Rights in respect of things seized or produced**
-
-### 8 Application for release of, or access to, things seized or produced
-(1) The persons described in subclause (2) may, by written notice to the person who has custody of a thing seized under a search power or produced under a production order, apply for the release of or access to the thing at any time before proceedings are brought for an alleged offence in respect of which the thing was seized or produced.
-(2) The persons are as follows:
-  (a) the person who produced the thing or from whom the thing was seized:
-  (b) the owner or person entitled to possession of the seized or produced thing:
-  (c) any person with a legal or equitable interest in the seized or produced thing.
-(3) The person in whose custody the seized or produced thing is may release the thing to the applicant or provide reasonable access to it.
-(4) A person who receives an application under subclause (1) may refuse that application on the ground that release of the thing or, as the case requires, access to it is likely to prejudice the maintenance of the law.
-(5) A release of, or provision of access to, a thing may be granted unconditionally or subject to conditions.
-(6) A person refusing an application under subclause (1) must inform the applicant of the decision in writing.
-
-### 9 Failure to comply with conditions
-If a person to whom a seized or produced thing is released or who is given access to it under clause 8 fails to comply with any condition imposed under clause 8(5), the thing may be seized again, or required to be produced, or the ability to have access to the thing ended at the direction of the person who released it or provided access to it.
-
-### 10 Application to District Court for access to thing seized or produced
-(1) A person referred to in clause 8(2) may apply to the District Court for access to any thing seized by a person exercising a search power or produced to any person under a production order if the person's application under that section—
-  (a) has been refused; or
-  (b) has been granted, but is subject to conditions that the applicant does not accept.
-(2) The District Court may either—
-  (a) grant the application; or
-  (b) refuse it on the ground that allowing the person to have access to the thing, or varying or cancelling the conditions concerned, is likely to prejudice the maintenance of the law.
-
-### 11 Application to District Court for release of thing seized or produced
-(1) A person referred to in clause 8(2) may apply to the District Court for the release of any thing seized by a person exercising a search power or produced to a person under a production order.
-(2) The court may release the thing to the applicant if it is satisfied that it would be contrary to the interests of justice for the item to be retained in custody, having regard to—
-  (a) the gravity of the alleged offence:
-  (b) any loss or damage to the applicant that is caused or likely to be caused by not returning the thing:
-  (c) the likely evidential value of the thing, having regard to any other evidence held by the law enforcement agency that employed or engaged the person who seized the thing or to whom the thing was produced:
-  (d) whether the evidential value of the thing can be adequately preserved by means other than by keeping it.
-(3) This section is subject to any enactment that requires an amount of any kind to be paid before any seized thing may be returned.
-
 ### Part 2 — Powers applying in relation to all livestock
 
-### 12 Recovery of straying livestock
+### 6 Recovery of straying livestock
 (1) This Part applies to all livestock, whether or not they are NAIT animals.
 (2) If a livestock owner (person A) believes on reasonable grounds that livestock of that person have strayed onto land occupied by another person (person B) or are in the possession of person B, for the purpose of identifying and recovering any livestock,—
   (a) person A may apply in writing to a NAIT officer requesting that written notice be given to person B about the straying livestock; and
@@ -1196,11 +1238,11 @@ If a person to whom a seized or produced thing is released or who is given acces
 (6) The NAIT officer may, if requested to do so by person A, order livestock to be held in the manner that the NAIT officer thinks appropriate until the application is dealt with or the expiration of 7 days, whichever is the earlier.
 (7) If person B refuses or fails to comply with a notice given under subclause (2) or an order given under subclause (6), person B commits an offence and is liable on conviction to a fine not exceeding $1,000.
 
-### 13 Removal of straying livestock
+### 7 Removal of straying livestock
 (1) If an occupier of land (person A) believes on reasonable grounds that livestock owned by another person (person B) have strayed onto person A's land,—
   (a) person A may apply in writing to a NAIT officer requesting that written notice be given to person B, requiring that person to remove livestock that belong to person B at that person's expense; and
   (b) the NAIT officer may give notice to person B, requiring that person, on the date specified in the notice, to remove the livestock.
-(2) If a person who is a party to a covenant established to protect any of the values specified in subclause (3) (person C) believes that there are, on the covenanted land, livestock owned by person B that are likely to affect adversely the values being protected,—
+(2) If a person who is a party to a covenant established to protect any of the values specified in subclause (3) (person C) believes that there are, on the covenanted land, livestock owned by person B that are likely to adversely affect the values being protected,—
   (a) person C may apply in writing to a NAIT officer for, and the NAIT officer may give, written notice to person B requiring the livestock to be removed or destroyed by the date specified in the notice; and
   (b) person C or the NAIT officer may, if the notice is not complied with by the specified date, impound the livestock at the cost of person B, until that person complies with the notice.
 (3) The values are—
@@ -1212,616 +1254,44 @@ If a person to whom a seized or produced thing is released or who is given acces
   (f) the relationship of Māori and their culture and traditions with their ancestral lands, waters, sites, wāhi tapu, and taonga.
 (4) If person B refuses or fails to comply with a notice given under this clause, that person commits an offence and is liable on conviction to a fine not exceeding $1,000.
 
-### Part 3 — Powers of NAIT officers to obtain certain orders
+### Part 3 — Search and inspection powers
 
-**Production orders**
-
-### 14 NAIT officer may apply for production order
-(1) This clause applies to a NAIT officer who is entitled to apply for a search warrant to obtain documents.
-(2) The NAIT officer may apply to an issuing officer for a production order against a person in respect of those documents if the NAIT officer is satisfied that the conditions specified in clause 15 for making the order against the person are met.
-(3) An application must be in writing and must set out the following particulars:
-  (a) the name of the applicant:
-  (b) the provision under this Act authorising the making of an application for a search warrant in respect of the suspected offence:
-  (c) a description of the offence that it is suspected has been, is being, or will be committed:
-  (d) the facts relied on to show reasonable grounds to suspect that an offence has been, is being, or will be committed:
-  (e) a description of the documents for which production is sought:
-  (f) the facts relied on to show reasonable grounds to believe that the documents sought are in the possession, or under the control, of the person against whom the order is sought:
-  (g) whether the person against whom the order is made should be required to produce,—
-    (i) on 1 occasion only, those documents for which production is sought that are in his or her possession or under his or her control when the order is made; or
-    (ii) on an ongoing basis,—
-      (A) those documents for which production is sought that are in the person's possession or under the person's control at the time the order is made; and
-      (B) those documents for which production is sought and that come into the person's possession or under the person's control at any time while the order is in force.
-
-### 15 Conditions for making production order
-(1) The conditions for making a production order are that there are reasonable grounds to—
-  (a) suspect that an offence has been, is being, or will be committed (being an offence in respect of which this Part authorises a NAIT officer to apply for a search warrant); and
-  (b) believe that the documents sought by the proposed order—
-    (i) constitute evidential material in respect of the offence; and
-    (ii) are in the possession or under the control of the person against whom the order is sought, or will come into the possession or under the control of that person while the order is in force.
-(2) A production order does not affect the privilege against self-incrimination provided for in clause 64.
-
-### 16 Issuing officer may make order
-An issuing officer may make a production order against a person if satisfied, on an application made under clause 14, that the conditions specified in clause 15 are met.
-
-### 17 Form and content of production order
-(1) A production order must be in the prescribed form and must require the person against whom it is made (person A)—
-  (a) to give the NAIT officer who applied for the order, or a person identified in the order,—
-    (i) any documents described in the order that are in the possession or under the control of person A; and
-    (ii) if clause 14(3)﻿(g)﻿(ii)﻿(B) applies, documents described in the order that come into the possession or under the control of person A while the order is in force; and
-  (b) if any of those documents are not, or are no longer, in the possession or under the control of person A, to disclose, to the best of person A’s knowledge or belief, the location of those documents to the NAIT officer who applied for the order or to the person identified in the order.
-(2) The production order must set out the following:
-  (a) the name of person A:
-  (b) the grounds on which the order is made:
-  (c) the documents required to be given:
-  (d) whether the documents must be produced on 1 occasion only or on an ongoing basis for the duration of the entire order:
-  (e) the time by which, and the way in which, the documents must be produced.
-(3) The production order may describe the documents required to be given by reference to a class or category of document.
-(4) If the production order is made against a body corporate or unincorporated, the order may specify an individual (whether by name or by reference to a position held in the body) who is to comply with the order as the body’s representative.
-
-### 18 Duration of production order
-A production order is in force for the period specified in the order (not exceeding 30 days after the date on which the order is made).
-
-### 19 Documents produced under production order
-When any document is produced in compliance with a production order, the NAIT officer who applied for the order may—
-  (a) retain the original document produced if it is relevant to the investigation:
-  (b) take copies of the document, or of extracts from the document:
-  (c) if necessary, require the person producing the document to reproduce, or to assist any person nominated by the Director-General or a delegate of the Director-General to reproduce, in usable form, any information recorded or stored in the document.
-
-### 20 Copy of retained document
-If a NAIT officer retains an original document that is produced in compliance with a production order, the officer must, as soon as practicable after the document is produced, take a copy of the document and give the copy to the person who produced the original document under the production order.
-
-### 21 Other provisions applying to production orders
-(1) The following provisions apply to an application for a production order as if any reference in those provisions to a warrant or search warrant were a reference to a production order:
-  (a) clause 30(2) (requirements for further information); and
-  (b) clause 31 (verification of application); and
-  (c) clause 32 (mode of application); and
-  (d) clause 33 (retention of documents).
-(2) Clauses 37 (transmission of search warrants) and 39 (when a search warrant is invalid) apply to production orders as if any reference in those provisions to a warrant or search warrant were a reference to a production order.
-
-### Part 4 — Search and inspection powers
-
-**Exercise of duties**
-
-### 22 Who may carry out duties
+### 8 Who may carry out duties
 Any duty imposed on a NAIT officer under this Part may be carried out instead by an inspector appointed under the Biosecurity Act 1993 by the Ministry.
 
-**Consent searches**
+### 9 Restrictions on issue of search warrant
+(1) An issuing officer may, on application by a NAIT officer made in accordance with subpart 3 of Part 4 of the Search and Surveillance Act 2012, issue a search warrant authorising every NAIT officer to search, inspect, or examine any place, vehicle, or thing described in the application, if the issuing officer is satisfied that there are reasonable grounds—
+  (a) to suspect that an offence against this Act or any regulations made under this Act has been, is being, or will be committed; and
+  (b) to believe the search will find evidence in respect of the offence.
+(2) In this clause, issuing officer has the meaning given in section 3(1) of the Search and Surveillance Act 2012.
 
-### 23 Application of rules about consent searches
-Clauses 24 to 27 apply in respect of consent searches undertaken by a NAIT officer in circumstances where a power of search by a NAIT officer could be exercised if he or she held a particular belief or suspicion specified in this Act.
-
-### 24 Purposes for which consent search may be undertaken
-A NAIT officer may ask a person to consent to undergo a search or to consent to a search being made of a place, vehicle, or other thing apparently in the control of the person, if the officer wishes to conduct the search for 1 or more of the following purposes:
-  (a) to prevent the commission of an offence against this Act:
-  (b) to investigate whether an offence against this Act has been committed:
-  (c) any purpose for which the NAIT officer could exercise a power of search conferred by this Act, if he or she held a particular belief or suspicion specified in this Act.
-
-### 25 Advice that must be given before consent search undertaken
-Before conducting a search by consent, the NAIT officer who proposes to conduct it must—
-  (a) determine that the search is for a purpose authorised by clause 24; and
-  (b) advise the person from whom consent is sought of the reason for the proposed search; and
-  (c) advise the person that he or she may either consent to the search or refuse to consent to the search.
-
-### 26 Circumstances where search by consent unlawful
-A search by consent is unlawful if—
-  (a) it is not for a purpose set out in clause 24; or
-  (b) the NAIT officer fails to comply with clause 25(a), (b), or (c); or
-  (c) the search is undertaken in reliance on a consent given by a person who does not have authority to give that consent.
-
-### 27 Ability of persons under 14 years to consent to searches of places, vehicles, or other things
-(1) A person under 14 years of age is unable to consent to the search of a place, vehicle, or other thing.
-(2) Subclause (1) does not apply to a person under 14 years of age found driving a vehicle with no passenger aged 14 years or older who has authority to consent to the search of the vehicle.
-
-### 28 Exceptions to consent search rules
-Clauses 24 to 27 do not—
-  (a) apply to a search conducted as a condition of entry to any public or private place; or
-  (b) apply to a search conducted in accordance with a power conferred by an enactment; or
-  (c) affect the rule of law relating to the implied licence to enter property.
-
-**Search warrants**
-
-### 29 Power to apply for search warrant
-(1) A NAIT officer may apply for a search warrant in the manner set out in clauses 30 to 33 if the officer has reasonable grounds—
-  (a) to suspect that an offence against this Act has been, is being, or will be committed; and
-  (b) to believe that the search will disclose evidence in respect of that offence.
-(2) The provisions of clauses 30 to 33 apply in respect of every warrant applied for, or issued, under this Act that would enable, in respect of any land, premises, place, vehicle, or other thing,—
-  (a) entry; or
-  (b) entry and search; or
-  (c) entry and inspection; or
-  (d) entry and examination.
-
-### 30 Application for search warrant
-(1) In applying for a search warrant, a NAIT officer must include, in reasonable detail, the following particulars:
-  (a) the name of the applicant:
-  (b) the provision authorising the making of the application:
-  (c) the grounds on which the application is made (including the reasons why the legal requirements for issuing the warrant are believed by the applicant to be satisfied):
-  (d) the address or other description of the place, vehicle, or other thing proposed to be entered, entered and searched, inspected, or examined:
-  (e) a description of the item or items or other evidential material believed to be in or on or part of the place, vehicle, or other thing that is sought by the applicant:
-  (f) the period for which the warrant is sought:
-  (g) if the applicant wants to be able to execute the warrant on more than 1 occasion, the grounds on which execution on more than 1 occasion is believed to be necessary.
-(2) The issuing officer—
-  (a) may require the applicant to supply further information concerning the grounds on which the search warrant is sought; but
-  (b) must not, in any circumstances, require the applicant to disclose the name, address, or any other identifying details of an informant unless, and only to the extent that, such information is necessary for the issuing officer to assess either or both of the following:
-    (i) the credibility of the informant:
-    (ii) whether or not there is a proper basis for issuing the warrant.
-(3) The applicant must disclose in the application—
-  (a) details of any other application for a search warrant that the applicant knows to have been made within the previous 3 months in respect of the place, vehicle, or other thing proposed to be searched; and
-  (b) the result of that application or those applications.
-(4) The applicant must, before making an application for a search warrant, make reasonable inquiries to the Ministry or the NAIT organisation, as appropriate, for the purpose of complying with subclause (3).
-(5) The issuing officer may authorise the search warrant to be executed on more than 1 occasion during the period in which the warrant is in force if he or she is satisfied that this is required for the purposes for which the warrant is being issued.
-
-### 31 Application must be verified
-An application for a search warrant must contain or be accompanied by a statement by the applicant confirming the truth and accuracy of the contents of the application.
-
-### 32 Mode of application for search warrant
-(1) An application for a search warrant—
-  (a) must be in writing, unless subclause (3) applies; and
-  (b) may be transmitted to the issuing officer electronically.
-(2) The applicant must appear in person before, or communicate orally with, the issuing officer, unless subclause (4) applies.
-(3) An issuing officer may allow an application for a search warrant to be made orally (for example, by telephone call) or by personal appearance and excuse the applicant from putting all or any part of the application (including any required material) in writing if—
-  (a) the issuing officer is satisfied that the delay that would be caused by requiring an applicant to put all or any part of the application (including any required material) in writing would compromise the effectiveness of the search; and
-  (b) the issuing officer is satisfied that the question of whether the warrant should be issued can properly be determined on the basis of an oral communication or a personal appearance (and the material described in paragraph (c)); and
-  (c) the information required by clause 30(1) to (3) is supplied (whether orally, or partly orally and partly in writing) to the issuing officer.
-(4) An issuing officer may allow an application for a search warrant to be made without either an appearance in person or an oral communication with the issuing officer if—
-  (a) the issuing officer is satisfied that the question of whether the search warrant should be issued can properly be determined on the basis of any written communication by the applicant (including the material described in paragraph (b)); and
-  (b) the information required by clause 30(1) to (3) has been supplied to the issuing officer; and
-  (c) the issuing officer is satisfied that there is no need to ask any questions of, or seek any further information from, the applicant.
-(5) An issuing officer who allows an application for a search warrant to be made under subclause (3) must record the grounds for the application as soon as practicable.
-
-### 33 Retention of documents
-(1) The Registrar of the District Court where an application is made (or of the District Court closest to that place) must retain control of a copy (whether in electronic form or otherwise) of—
-  (a) every written application for a search warrant; or
-  (b) in the case of an oral application, the record of the application made by the issuing officer.
-(2) The copy must be retained until,—
-  (a) in a case where a search warrant is issued, the completion of any proceedings where the validity of the warrant may be in issue; or
-  (b) in any other case, the expiry of 2 years after the records were first retained under the control of the Registrar of the District Court.
-(3) An applicant to whom a search warrant is issued must retain the warrant (whether in electronic form or otherwise), a copy of the application (if made in written form), copies of all documents tendered by the applicant in support of the application, and a copy of any search warrant report referred to in clause 36 required to be prepared,—
-  (a) in the case of a warrant that is executed, until the completion of any proceedings where the validity of the warrant may be in issue; or
-  (b) in any other case, until the destruction or transfer of the warrant and other documents is required by or under the Public Records Act 2005 or any other enactment or rule of law.
-
-**Issuing of search warrants**
-
-### 34 Restrictions on issue of search warrant
-(1) An issuing officer may issue a search warrant on application by a NAIT officer if the issuing officer is satisfied that there are reasonable grounds—
-  (a) to suspect that an offence against this Act has been, is being, or will be committed; and
-  (b) to believe that the search will find evidence in respect of the offence.
-(2) An issuing officer must not issue a warrant to seize any thing held by a lawyer that is a communication of a kind to which legal professional privilege normally applies, unless the issuing officer is satisfied that there is a prima facie case that the thing was made, received, compiled, or prepared—
-  (a) for a dishonest purpose; or
-  (b) for the purpose of planning to commit or committing an offence.
-
-### 35 Form and content of search warrant
-(1) Every search warrant issued must be in the prescribed form, if any.
-(2) Every search warrant issued must be directed to a NAIT officer who has authority to execute the warrant.
-(3) A search warrant may be—
-  (a) executed by—
-    (i) the NAIT officer to whom it is directed; or
-    (ii) any constable (whether or not the warrant is directed to that constable or generally to constables):
-  (b) subject to any conditions specified in the warrant that the issuing officer considers reasonable, including (without limitation)—
-    (i) any restriction on the time of execution that is reasonable:
-    (ii) a condition that the occupier or person in charge of a place must provide reasonable assistance to a person executing the warrant if, in the absence of such assistance, it would not be practical to execute the warrant without undue delay:
-  (c) executed only once, unless execution on more than 1 occasion has been authorised.
-(4) Every search warrant must contain, in reasonable detail, the following particulars:
-  (a) the name or other individual designation of the issuing officer and the date of issue:
-  (b) the provision or provisions authorising the issue of the warrant, including, where relevant, the suspected offence or offences:
-  (c) that the person executing the warrant may use any assistance that is reasonable in the circumstances:
-  (d) that any person authorised to do so may execute the warrant:
-  (e) that the person executing the warrant may use any force, if authorised by this Act or any other enactment, that is reasonable in the circumstances to enter, break open, or access any area within the place, vehicle, or other thing being searched, or anything found:
-  (f) the address or description of the place, vehicle, or other thing that may be entered, entered and searched, inspected, or examined:
-  (g) a description of what may be seized:
-  (h) the period during which the warrant may be executed, being—
-    (i) a period specified by the issuing officer not exceeding 14 days from the date of issue; or
-    (ii) if the issuing officer is satisfied that a period of longer than 14 days is necessary for execution, a period specified by the issuing officer not exceeding 30 days from the date of issue:
-  (i) any conditions specified by the issuing officer under subclause (3)﻿(b):
-  (j) if the warrant may be executed on more than 1 occasion, the number of times that the warrant may be executed:
-  (k) if the warrant is intended to authorise a remote access search (for example, a search of a thing such as an Internet data storage facility that is not situated at a physical location), the access information that identifies the thing to be searched remotely:
-  (l) an explanation of the availability of relevant privileges and an outline of how any of those privileges may be claimed:
-  (m) a statement that, in the case of any other search authorised by this Act, any person found in the place or vehicle to be searched may be searched if there are reasonable grounds to believe that an item being searched for is on that person.
-(5) A search warrant may authorise the search of more than 1 place, vehicle, or thing.
-(6) An issuing officer may not issue a search warrant authorising the remote access search of a thing unless he or she is satisfied that the thing is not located at a physical address that a person can enter and search.
-(7) A person is not required, as a consequence of a condition imposed under subclause (3)﻿(b)﻿(ii), to give any information tending to incriminate the person.
-
-### 36 Issuing officer may require search warrant report
-(1) An issuing officer may impose a condition under clause 35(3)﻿(b) requiring the employer of any person to whom a search warrant is issued to provide that issuing officer with a search warrant report within a specified period.
-(2) A search warrant report must state—
-  (a) whether the search warrant was executed:
-  (b) whether the execution of the search warrant resulted in the seizure of evidential material, and, if so, whether that material was material specified in the search warrant:
-  (c) whether any other powers exercised in conjunction with the execution of the warrant resulted in the seizure of evidential material:
-  (d) whether any criminal proceedings have been brought, or are under consideration, that relate to any evidential material seized.
-
-### 37 Transmission of search warrant
-If it is not possible or practicable for the person charged with executing the warrant to have it in his or her possession at the time of execution, one of the following documents (which is deemed for all legal purposes to constitute the warrant) may be executed:
-  (a) a facsimile, or a printout of an electronically generated copy, of a warrant issued by the issuing officer:
-  (b) a copy made by the person to whom the warrant is directed, at the direction of the issuing officer and endorsed to that effect.
-
-### 38 When search warrant executed
-A search warrant is executed when the person executing the warrant and any person assisting in the execution of the warrant—
-  (a) has seized all the items specified in the warrant; or
-  (b) leaves the place, vehicle, or other thing being searched and does not return within 4 hours.
-
-### 39 When search warrant invalid
-(1) A search warrant is invalid—
-  (a) if, having regard to the information contained in the application, the grounds or conditions for lawful issue of a warrant set out in clause 34(1) were not satisfied at the time that the search warrant was issued:
-  (b) if the warrant contains a defect, irregularity, omission, or want of form that is likely to mislead anyone executing or affected by the warrant as to its purpose or scope.
-(2) If a warrant is invalid under this clause, section 204 of the Summary Proceedings Act 1957 and section 379 of the Criminal Procedure Act 2011 (which provide that a warrant is not invalid by reason only of a defect, irregularity, omission, or want of form) do not apply to that warrant.
-
-**Carrying out search powers**
-
-### 40 Search powers
-Every search power authorises the person exercising it—
-  (a) to enter and search the place, vehicle, or other thing that the person is authorised to enter and search, and any item or items found at that place or in that vehicle or other thing, at any time that is reasonable:
-  (b) to request any person to assist with the entry and search (including, without limitation, a member of a hapū or an iwi if the place to be entered is of cultural or spiritual significance to that hapū or iwi):
-  (c) to use any force in respect of any property that is reasonable for the purposes of carrying out the entry and search and any lawful seizure:
-  (d) if and only if clause 45(2) applies to the person exercising the power, to detain any person who is at the place or in the vehicle or other thing being searched, or who arrives there while the search is being undertaken, for a reasonable period (using reasonable force if necessary), to enable the person exercising the power to determine whether the person is connected with the object of the search:
-  (e) to seize any thing that may lawfully be seized:
-  (f) to bring and use in or on the place or in the vehicle or other thing searched, any equipment, to use any equipment found on the place or in the vehicle or other thing, and to extract any electricity from the place, vehicle, or other thing to operate the equipment that it is reasonable to use in the circumstances, for the purposes of carrying out the entry and search:
-  (g) to copy any document, or part of a document, that may lawfully be seized:
-  (h) to access and copy intangible material from a computer system or other data storage device located (in whole or in part) at the place or in the vehicle or other thing searched (including copying by means of previewing, cloning, or other forensic methods either before or after removal for examination):
-  (i) to use any reasonable measures to—
-    (i) gain access to any computer system or other data storage device located (in whole or in part) at the place or in the vehicle or other thing to be searched; and
-    (ii) create a forensic copy of any material in such a computer system or other data storage device:
-  (j) to take photographs, sound and video recordings, or drawings of the place, vehicle, or other thing searched, and of any thing found in that place, vehicle, or other thing searched, if the person exercising the power has reasonable grounds to believe that the photographs or sound or video recordings or drawings may be relevant to the purposes of the entry and search.
-
-### 41 Remote access search of thing authorised by warrant
-Every person executing a search warrant authorising a remote access search may—
-  (a) access and copy intangible material from the thing being searched (including copying by means of previewing, cloning, or other forensic methods); and
-  (b) use reasonable measures to—
-    (i) gain access to the thing; and
-    (ii) create a forensic copy of material in the thing.
-
-### 42 Items of uncertain status may be seized
-If a person exercising a search power is uncertain whether any item found may lawfully be seized, and it is not reasonably practicable to determine whether that item can be seized at the place or in the vehicle or other thing where the search takes place, the person exercising the search power may remove the item for the purpose of examination or analysis to determine whether it may be lawfully seized.
-
-### 43 Powers of persons called to assist
-(1) Every person called on to assist a person exercising a search power is subject to the control of the person with overall responsibility for exercising that power.
-(2) Every person called on to assist a person exercising a search power may, in addition to exercising the powers set out in clause 40(a), (d), (e), (f), and (i),—
-  (a) use reasonable force in respect of any property for the purposes of carrying out the entry and search and any lawful seizure, while under the direction of the person exercising the power:
-  (b) search areas within the place, vehicle, or other thing that the person exercising the power has determined may lawfully be searched:
-  (c) take photographs, sound and video recordings, or drawings of the place, vehicle, or other thing, and things found at the place or in the vehicle or other thing, if the person exercising the power has determined that those things may lawfully be taken.
-(3) If a constable is assisting another person exercising the search power, that constable may, without any direction or supervision by the person he or she is assisting, exercise any power ordinarily exercisable by that constable.
-(4) The person exercising the search power must—
-  (a) accompany any assistant on the first occasion when the assistant enters the place, vehicle, or other thing to be searched; and
-  (b) provide such other supervision of any assistant as is reasonable in the circumstances.
-(5) Subclause (4) does not apply if the assistant is a constable.
-
-### 44 Powers of persons called to assist remote access search
-Every person called on to assist a person executing a search warrant authorising a remote access search may—
-  (a) access and copy intangible material from the thing being searched (including copying by means of previewing, cloning, or other forensic methods); and
-  (b) use reasonable measures to—
-    (i) gain access to the thing; and
-    (ii) create a forensic copy of material in the thing.
-
-### 45 Limitation on exercise of powers
-(1) The powers conferred by clauses 40 to 44 are subject to—
-  (a) any conditions imposed under clause 35(3)﻿(b) by an issuing officer who issues a search warrant:
-  (b) clauses 62 to 72 (which relate to privilege and confidentiality).
-(2) The powers conferred by clause 40(d) to detain a person may only be exercised by a person who has power to arrest the person to be detained—
-  (a) for a suspected offence to which the search relates; or
-  (b) for a suspected offence to which evidential material that is discovered in the course of the search relates.
-(3) To avoid doubt, the powers conferred by clauses 40(c) and 43(2)﻿(a) do not authorise the application of force to any person.
-
-### 46 Securing place, vehicle, or other thing to be searched
-(1) The person carrying out a search may, in a manner and for a duration that is reasonable for the purposes of carrying out the search,—
-  (a) secure the place, vehicle, or other thing searched, any area within that place, vehicle, or other thing, or any thing found within that place, vehicle, or other thing:
-  (b) exclude any person from the place, vehicle, or other thing searched, or from any area within the place, vehicle, or other thing, or give any other reasonable direction to such a person, if the person carrying out the search has reasonable grounds to believe that the person will obstruct or hinder the exercise of any power under this Part.
-(2) A person who exercises any power under subclause (1) must, on the request of any person affected by the exercise of the power,—
-  (a) identify himself or herself; and
-  (b) advise the person affected of the reason and authority for the exercise of the power.
-
-**Establishing search scene**
-
-### 47 Special powers where application for search warrant pending
-(1) If an application for a search warrant is about to be made or has been made and has not yet been granted or refused by an issuing officer, a NAIT officer present at the place or in the vehicle or other thing that is or is to be the subject of the application may, if authorised by subclause (2),—
-  (a) enter and secure the place, vehicle, or other thing for which authorisation to enter and search is being sought, and secure any items found at that place or in that vehicle or other thing, at any time that is reasonable in the circumstances:
-  (b) direct any person to assist with the entry and securing of the place, vehicle, or other thing or the securing of items in it (including, without limitation, a member of a hapū or an iwi if the place to be entered is of cultural or spiritual significance to that hapū or iwi).
-(2) The powers conferred by subclause (1) may be exercised if the NAIT officer has reasonable grounds to believe that evidential material may be destroyed, concealed, altered, damaged, or removed before a decision is taken to grant or refuse the issue of a search warrant.
-(3) The powers conferred by subclause (1) may be exercised until the first of the following occurs:
-  (a) the expiry of 6 hours from when the power is first exercised:
-  (b) the warrant is available for execution at that place or in respect of that vehicle or other thing:
-  (c) the application for a search warrant is refused.
-(4) A person who exercises any power under subclause (1) must, on the request of any person affected by the exercise of the power,—
-  (a) identify himself or herself; and
-  (b) advise the person affected of the reason and authority for the exercise of the power.
-
-**Seizure of items in plain view**
-
-### 48 Seizure of items in plain view
-(1) A NAIT officer who exercises a search power or who is lawfully in any place as part of his or her duties may seize any item found by the officer or a person assisting in the course of carrying out the search or as a result of observations at that place, if the officer has reasonable grounds to believe that the item could have been seized under—
-  (a) a search warrant that could have been obtained by him or her under this Act; or
-  (b) any other search power exercisable by him or her under this Act.
-(2) If a NAIT officer seizes an item under subclause (1), in circumstances where the officer is not already exercising a search power, the officer may exercise the relevant power conferred by clause 41 in relation to the seizure.
-
-**Inspection without warrant**
-
-### 49 Power of entry without warrant for inspection
+### 10 Power of entry without warrant for inspection
 (1) At any reasonable time a NAIT officer or a NAIT authorised person may enter and inspect a place without a warrant for the purpose of determining whether or not a person is complying with this Act, regulations made under it, or standards issued under it.
 (2) However, a NAIT officer or a NAIT authorised person must not enter or inspect a dwelling house or marae, or a building associated with a marae, except—
-  (a) with the consent of an occupier; or
-  (b) if a warrant has been issued under clause 34, in compliance with any conditions of the warrant.
+  (a) with the consent of the occupier; or
+  (b) if a warrant has been issued under clause 9, in compliance with any conditions of the warrant.
+(3) The provisions of subparts 1, 4, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 (except for sections 118 and 119) apply.
 
-**Powers relating to vehicles**
+### 11 Disposal of property seized under search warrant
+Subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of any property seized by a constable under a search warrant and, with any necessary modifications, in respect of property seized under a search warrant by a NAIT officer.
 
-### 50 Stopping vehicles with or without warrant for purposes of search
-(1) A NAIT officer or a NAIT authorised person may stop a vehicle to exercise the power conferred by clause 49.
-(2) A NAIT officer may stop a vehicle to conduct a search under a power to search with a warrant issued under this Act if he or she is satisfied that the warrant has been issued and is in force.
-
-### 51 Moving vehicle for purpose of search
-A NAIT officer or a NAIT authorised person may move a vehicle to another place if he or she finds or stops the vehicle and he or she has lawful authority to search the vehicle, but it is impracticable to do so at that place.
-
-### 52 Search warrants to enter and search vehicles
-If a search warrant is issued authorising the entry and search of a vehicle, the person executing the warrant may enter any place for the purpose of locating and searching the vehicle, where the person has reasonable grounds to believe that the vehicle is in that place.
-
-### 53 Duty to remain stopped
-If a NAIT officer or a NAIT authorised person exercises a power to stop or search a vehicle, the officer or authorised person may require the vehicle to remain stopped for as long as is reasonably necessary for the purposes of the stopping or to undertake the search.
-
-### 54 Duty to provide information
-If a NAIT officer or a NAIT authorised person exercises a power to stop a vehicle, he or she must, immediately after stopping the vehicle,—
-  (a) identify himself or herself to the driver of the vehicle, either by name or unique identifier; and
-  (b) inform the driver of the officer's authority to stop the vehicle; and
-  (c) produce evidence of his or her identity if the driver requests proof of identity.
-
-**Personal search power**
-
-### 55 Power to detain and search
-(1) In the circumstances described in subclause (2), a constable may, with a search warrant,—
-  (a) detain a person for as long as is reasonably necessary to carry out a search of that person; and
-  (b) search the person; and
-  (c) take possession of any information to which subclause (2) applies.
-(2) The circumstances when the powers may be exercised under subclause (1) are as follows:
-  (a) if a constable suspects on reasonable grounds that a person—
-    (i) has knowingly accessed, in breach of this Act, information of a kind referred to in subclause (3)﻿(a) or (b) in the NAIT information system; and
-    (ii) is, or may be, holding that information in either or both electronic format or hard copy; or
-  (b) if a constable has been informed by a NAIT officer or NAIT authorised person who has reason to believe that a person—
-    (i) has knowingly accessed, in breach of this Act, information of a kind referred to in subclause (3)﻿(a) or (b); and
-    (ii) is or may be holding that information in either or both electronic format or hard copy.
-(3) The information to which subclause (2) applies is—
-  (a) personal information (within the meaning of the Privacy Act 1993); and
-  (b) commercially sensitive within the meaning of section 9(2)﻿(b) of the Official Information Act 1982:
-(4) A person may not be detained and searched under this clause before the constable has—
-  (a) advised the person that the constable proposes to detain and search the person under this clause; and
-  (b) produced evidence of his or her authority to do so (whether or not the constable is in uniform or on duty at the time).
-(5) This clause does not authorise a constable to undertake an internal search of any part of the person's body.
-(6) If a constable takes possession of any information under subclause (1), that information must be given without delay to a NAIT officer.
-(7) As soon as is reasonably practicable after detaining and searching a person under this clause, the constable must provide to the Commissioner of Police a written report on the search and the circumstance under which it was conducted.
-
-**Computer system searches**
-
-### 56 Duty of persons with knowledge of computer system or other data storage devices to assist access
-(1) In this clause, a specified person is a person who—
-  (a) is the owner or lessee of the computer system or other data storage device or is in possession or control of the computer system or other data storage device, an employee of any of the above, or any service provider who provides service to any of the above and holds access information; and
-  (b) has relevant knowledge of—
-    (i) the computer system or other data storage device; or
-    (ii) measures applied to protect data held in, or accessible from, the computer system or other data storage device.
-(2) A person exercising a search power at any place or in respect of any vehicle or other thing may require a specified person to provide access information and other information or assistance that is reasonable and necessary to allow the person exercising the search power to access data held in—
-  (a) a computer system that is located (in whole or in part) at the place or in the vehicle or other thing being searched:
-  (b) any other data storage device that is located (in whole or in part) at the place or in the vehicle or other thing being searched.
-(3) A specified person may not be required under subclause (2) to give any information tending to incriminate the person.
-(4) Subclause (3) does not prevent a person who is exercising a search power from requiring a specified person to provide information that—
-  (a) is reasonable and necessary to allow the person exercising the search power to access data held in, or accessible from, a computer system or other data storage device that—
-    (i) is at the premises or the place or in the vehicle or other thing to be searched; and
-    (ii) contains or may contain information tending to incriminate the specified person; but
-  (b) does not itself tend to incriminate the specified person.
-(5) Subclause (3) does not prevent a person exercising a search power from requiring a specified person to provide assistance that is reasonable and necessary to allow the person exercising the search power to access data held in, or accessible from, a computer system or other data storage device that—
-  (a) is at the premises or the place or in the vehicle or other thing concerned; and
-  (b) contains or may contain information tending to incriminate the specified person.
-(6) Subclauses (2), (4), and (5) are subject to Part 5 of this schedule (which relates to privilege and confidentiality).
-
-**Identification and notice requirements**
-
-### 57 Identification and notice requirements for person exercising search power (other than remote access search power)
-(1) A person exercising a search power (other than a remote access search power) must,—
-  (a) before initial entry into or onto the place, vehicle, or other thing to be searched,—
-    (i) announce his or her intention to enter and search the place, vehicle, or other thing under a statutory power; and
-    (ii) identify himself or herself; and
-  (b) before or on initial entry into or onto the place, vehicle, or other thing to be searched,—
-    (i) give the occupier of the place or the person in charge of the vehicle or other thing a copy of the search warrant or advice about the enactment (the authority) that authorises him or her to conduct the entry and search; and
-    (ii) produce to the occupier of the place or any person in charge of the vehicle or other thing evidence of his or her identity (which may include details of a unique identifier instead of a name).
-(2) The person exercising the search power is not required to comply with subclause (1) if he or she has reasonable grounds to believe that—
-  (a) no person is lawfully present in or on the place, vehicle, or other thing to be searched; or
-  (b) compliance with subclause (1)﻿(a) would—
-    (i) endanger the safety of any person; or
-    (ii) prejudice the successful exercise of the entry and search power; or
-    (iii) prejudice ongoing investigations.
-(3) The person exercising the search power may use reasonable force in order to effect entry into or onto the place, vehicle, or other thing if—
-  (a) subclause (2) applies; or
-  (b) following a request, the person present refuses entry or does not allow entry within a reasonable time.
-(4) If the occupier of a place is not present at any time during the search, or no person is in charge of the vehicle or other thing during the search, the person carrying out the search must,—
-  (a) on completion of the search, leave a copy of the authority referred to in subclause (1)﻿(b)﻿(i) and the notice referred to in subclause (5) in a prominent position at the place, or in or on the vehicle or other thing; or
-  (b) if the requirement of paragraph (a) is not reasonably practicable, provide the copy of the authority referred to in subclause (1)﻿(b)﻿(i) and the notice referred to in subclause (5) to the occupier of the place or the owner of the vehicle or other thing no later than 7 days after the exercise of the power.
-(5) The notice required by subclause (4) is a written notice containing the following particulars:
-  (a) the date and time of the commencement and completion of the search:
-  (b) the name or unique identifier of the person who had overall responsibility for that search:
-  (c) the address of the office to which inquiries should be made:
-  (d) if nothing is seized, the fact that nothing was seized:
-  (e) if any thing was seized, the fact that seizure occurred and (if an inventory was not provided at the same time under clauses 59 to 61) that an inventory of the things seized will be provided to the occupier of the place or person in charge of the vehicle or other thing no later than 7 days after the seizure.
-(6) For the purposes of this clause and clauses 59 to 61,—
-  (a) the following persons may not be treated as the occupier of the place or the person in charge of a vehicle or other thing:
-    (i) any person who is under 14 years of age (unless clause 27(2) applies to that person):
-    (ii) any person who the person executing the warrant has reasonable grounds to believe is not the occupier of the place or person in charge of the vehicle or other thing:
-  (b) every reference to a copy of the authority referred to in subclause (1)﻿(b)﻿(i) means, in a case where a search is undertaken without a search warrant, written advice about the enactment that authorises the search.
-(7) Subclauses (4) and (5) are subject to clauses 60 and 61.
-(8) This section does not apply to a remote access search.
-
-### 58 Identifications and notice requirements for remote access search
-(1) A person who conducts a remote access search must, on completion of the search, send an electronic message to the email address of the owner of the thing searched—
-  (a) attaching a copy of the search warrant; and
-  (b) setting out the following particulars:
-    (i) the date and time of the commencement and completion of the search:
-    (ii) the name and unique identifier of the person who had overall responsibility for that search:
-    (iii) the address of the office to which inquiries should be made.
-(2) If the person conducting the search is unable to send the electronic message required by subclause (1) (or it is returned undelivered), the person must take all reasonable steps to identify the user of the thing searched and to send the information referred to in subclause (1)﻿(a) and (b) to that person.
-
-### 59 Inventory of items seized
-(1) The person who carries out a search must, at the time he or she seizes any thing, or as soon as practicable after the seizure of any thing, and in any case not later than 7 days after that seizure, provide to the occupier of the place, or the person in charge of the vehicle or other thing, from which the seizure took place, and to every other person who the person who carried out the search has reason to believe is the owner of the thing that was seized,—
-  (a) written notice specifying what was seized; and
-  (b) a copy of the authority referred to in clause 57(1)﻿(b)﻿(i).
-(2) A written notice referred to in subclause (1)﻿(a)—
-  (a) must contain information about the extent to which a person from whom a thing was seized, or the owner of the thing, has a right to apply—
-    (i) to have access to the thing; or
-    (ii) to have access to any document relating to the application for a search warrant or the exercise of any other search power that led to the seizure; and
-  (b) must contain information about the right to bring a claim that any privileged or confidential information has been seized; but
-  (c) need not be provided to the occupier of the place or person in charge of the vehicle or other thing from which the seizure took place if the person who carries out the search is satisfied that none of the items seized are owned by that person.
-(3) If the occupier of the place or person in charge of the vehicle or other thing is not present at the time of seizure, a written notice referred to in subclause (1)﻿(a) and a copy of the authority referred to in clause 57(1)﻿(b)﻿(i) may be provided to that person by leaving the notice in a prominent position at the place, or in or on the vehicle or other thing.
-(4) Subclause (1) is subject to subclauses (2) and (3).
-(5) This clause is subject to clauses 60 and 61.
-
-### 60 Compliance with certain provisions may be postponed
-(1) The Director-General may apply to the District Court for an order to postpone the obligation to comply with clause 57(4) or (5) or 59 on the grounds that compliance would—
-  (a) endanger the safety of any person; or
-  (b) prejudice ongoing investigations.
-(2) An application may be made under subclause (1),—
-  (a) in the case of an entry and search power that is a search warrant, at the time of the initial application or until the expiry of 7 days after the warrant is finally executed; or
-  (b) in the case of any other entry and search power, until the expiry of 7 days after the search power is exercised.
-(3) On an application under subclause (1), the District Court may make an order to postpone for a specified period not exceeding 12 months the obligation to comply with clause 57(4) or (5) or 59 if the District Court is satisfied that there are reasonable grounds for believing that compliance would—
-  (a) endanger the safety of any person; or
-  (b) prejudice ongoing investigations.
-
-### 61 Further postponement of, or dispensation from, obligation to comply with certain provisions
-(1) A person who has obtained an order under clause 60(3) may, before the expiry of that order, apply to the District Court for a further order to postpone or dispense with the obligation to comply with clause 57(4) or (5) or 59 on the grounds that compliance would—
-  (a) endanger the safety of any person; or
-  (b) prejudice ongoing investigations.
-(2) An application for a further order to postpone may only be made on 1 occasion.
-(3) On an application under subclause (1), the District Court may—
-  (a) make an order to postpone, for a further specified period not exceeding 12 months, the obligation to comply with clause 57(4) or (5) or 59; or
-  (b) order a permanent dispensation from that obligation.
-(4) The District Court may exercise the discretion under subclause (3) if satisfied that compliance would—
-  (a) endanger the safety of any person; or
-  (b) prejudice ongoing investigations.
-(5) The District Court may not, under subclause (3), make an order to postpone or dispense with an obligation in respect of anything that has been seized, unless the thing seized is—
-  (a) a copy or clone of any information taken or made; or
-  (b) a thing the possession of which by the person from whom it was seized is unlawful under New Zealand law (for example, a controlled drug that is found in the possession of a member of the public in circumstances in which possession by the person of the controlled drug is an offence against the Misuse of Drugs Act 1975).
-
-### Part 5 — Privilege and confidentiality
-
-### 62 Recognition of privilege
-(1) The following privileges are recognised for the purposes of this Part:
-  (a) legal professional privilege, to the extent that (under section 53(5) of the Evidence Act 2006) it forms part of the general law:
-  (b) privilege for communications with legal advisers (as described in section 54 of the Evidence Act 2006):
-  (c) privilege for preparatory materials for proceedings (as described in section 56 of the Evidence Act 2006):
-  (d) privilege for settlement negotiations or mediation (as described in section 57 of the Evidence Act 2006):
-  (e) privilege for communications with ministers of religion (as described in section 58 of the Evidence Act 2006):
-  (f) privilege in criminal proceedings for information obtained by medical practitioners and clinical psychologists (as described in section 59 of the Evidence Act 2006):
-  (g) to the extent provided in clause 64, and only to that extent, any privilege against self-incrimination (as described in section 60 of the Evidence Act 2006):
-  (h) privilege for informers (as described in section 64 of the Evidence Act 2006):
-  (i) the rights conferred on a journalist under section 68 of the Evidence Act 2006 to protect certain sources.
-(2) For the purposes of this Part, no privilege applies for any communication or information if there is a prima facie case that the communication or information is made or received, or compiled or prepared,—
-  (a) for a dishonest purpose; or
-  (b) to enable or aid any person to commit or plan to commit what the person claiming the privilege knew, or ought reasonably to have known, to be an offence.
-
-### 63 Lawyers' trust accounts
-(1) Subclause (2) applies to documents that are books of account or accounting records kept—
-  (a) by a solicitor in relation to any trust account money that is subject to section 112 of the Lawyers and Conveyancers Act 2006; or
-  (b) by a nominee company that—
-    (i) is subject to practice rules made by the Council of the New Zealand Law Society under section 96 of the Lawyers and Conveyancers Act 2006; and
-    (ii) is operated by a barrister and solicitor or an incorporated law firm as a nominee for securities and documents of title held for clients.
-(2) The application by clause 62 of section 54 of the Evidence Act 2006 (which relates to the privilege for communications with legal advisers) does not prevent, limit, or affect—
-  (a) the making of a production order, issuing of a search warrant, or exercise of any other search power concerning a document to which this subclause applies; or
-  (b) the obligation to comply with that production order, search warrant, or other search power concerning a document to which this subclause applies; or
-  (c) the admissibility, in a criminal proceeding for an offence described in the production order or search warrant or for an offence concerning which any other search power was exercised, of any evidence that relates to the contents of a document obtained under the production order or search warrant, or as the result of the exercise of any other search power.
-
-### 64 Privilege against self-incrimination
-(1) A production order does not affect the privilege against self-incrimination that an individual may have under section 60 of the Evidence Act 2006.
-(2) Any assertion of a privilege against self-incrimination must be based on section 60 of the Evidence Act 2006.
-(3) If any individual refuses to produce any information or document or to answer any question on the ground that it is a privileged communication under section 60 of the Evidence Act 2006, the NAIT officer concerned may apply to the District Court for an order determining whether or not the claim of privilege is valid.
-(4) For the purposes of determining any application referred to in subclause (3), the individual must offer sufficient evidence to enable the District Court to assess whether self-incrimination is reasonably likely if the individual produced the information or the document or answered the question.
-(5) Section 63 of the Evidence Act 2006 does not apply to a production order.
-
-### 65 Other privileges
-(1) If any person refuses to disclose any information on the ground that it is privileged under this clause, the Director-General may apply to the District Court for an order determining whether or not the claim of privilege is valid.
-(2) For the purpose of determining any application, the District Court may require the information or document to be produced.
-(3) The District Court must, on the application of the Director-General, disallow a privilege claim under this clause if satisfied that the claim to privilege would, under section 67(1) of the Evidence Act 2006, be disallowed in a proceeding.
-
-### 66 Effect of privilege on search warrants and search powers
-A person who claims privilege in respect of any thing that is seized or sought to be seized has the right, in accordance with clauses 67 to 72,—
-  (a) to prevent the search under this Act of any communication or information to which the privilege would apply if it were sought to be disclosed in a proceeding, pending determination of the claim to privilege, and subsequently if the claim to privilege is upheld:
-  (b) to require the return of a copy of, or access to, any such communication or information to the person if it is seized or secured by a person exercising a search power, pending determination of the claim to privilege.
-
-### 67 Search warrants that extend to lawyers' premises or material held by lawyers
-(1) This clause applies to the execution of a search warrant that authorises the search of materials held by a lawyer relating to a client.
-(2) If this clause applies, the search warrant may not be executed unless—
-  (a) the lawyer is present; or
-  (b) a representative of the lawyer is present.
-(3) If the person who is to execute the search warrant is unable to contact the lawyer or his or her representative, that person must instead contact the New Zealand Law Society and request that a person be appointed by the Society to represent the interests of the client of the lawyer in relation to the search.
-(4) Before executing the search warrant, the person who is to execute it must give the lawyer or his or her representative, or any person appointed by the New Zealand Law Society under subclause (3),—
-  (a) the opportunity to claim privilege on behalf of the lawyer's client; or
-  (b) the opportunity to make an interim claim of privilege if instructions have not been obtained from the client.
-
-### 68 Search warrant extending to certain other privileged materials
-(1) This clause applies to the execution of a search warrant that authorises the search of professional material held by a minister of religion, medical practitioner, or clinical psychologist.
-(2) If this clause applies, the search warrant may not be executed unless—
-  (a) the minister of religion, medical practitioner, or clinical psychologist is present; or
-  (b) a representative of that person is present.
-(3) If the person who is to execute the search warrant is unable to contact the minister of religion, medical practitioner, or clinical psychologist, or his or her representative, that person must instead contact the church or professional body to whom the minister, medical practitioner, or clinical psychologist belongs and request the church or body to appoint a person to represent the interests of the parishioners, patients, or clients of the minister, medical practitioner, or clinical psychologist, in relation to the search.
-(4) Before executing the search warrant, the person executing it must give the minister of religion, medical practitioner, or clinical psychologist, or his or her personal representative, or a person appointed by the church or professional body under subclause (3),—
-  (a) the opportunity to claim privilege on behalf of the parishioners, patients, or clients of the minister of religion, medical practitioner, or clinical psychologist; or
-  (b) the opportunity to make an interim claim of privilege if the minister, medical practitioner, or clinical psychologist, or his or her personal representative, or a person appointed under subclause (3), is unable immediately to contact the parishioners, patients, or clients.
-
-### 69 Searches otherwise affecting privileged materials
-(1) This clause applies if—
-  (a) a person executes a search warrant; and
-  (b) he or she has reasonable grounds to believe that any thing discovered in the search may be the subject of a privilege recognised by this Part.
-(2) If this clause applies, the person responsible for executing the search warrant or exercising the other search power—
-  (a) must give any person who he or she believes may be able to claim a privilege recognised by this Part a reasonable opportunity to claim it; and
-  (b) may, if the person executing the search warrant or exercising the other search power is unable to identify or contact a person who may be able to claim a privilege, or that person's lawyer, within a reasonable period,—
-    (i) apply to the District Court for a determination as to the status of the thing; and
-    (ii) do anything necessary to enable the District Court to make that determination.
-
-### 70 Interim steps pending resolution of privilege claim
-If a person executing a search warrant is unable, under clause 61, 67, 68, or 69, to search a thing (whether as a result of the requirements of any of those provisions, or because of a claim of privilege made concerning the thing, or for any other reason), the person—
-  (a) may—
-    (i) secure the thing; and
-    (ii) if the thing is intangible (for example, computer data), secure the thing by making a forensic copy; and
-    (iii) deliver the thing, or a copy of it, to the District Court, to enable the determination of a claim to privilege; and
-  (b) must supply the lawyer or other person who may or does claim privilege with a copy of, or access to, the secured thing; and
-  (c) must not search the thing secured, unless no claim of privilege is made, a claim of privilege is withdrawn, or the search is in accordance with the directions of the court determining the claim of privilege.
-
-### 71 Claims for privilege for things seized or sought to be seized
-Any person who wishes to claim privilege concerning any thing seized or sought to be seized by a person executing a search warrant or exercising another search power—
-  (a) must provide the person responsible for executing the search warrant, or exercising the other search power, with a particularised list of the things for which the privilege is claimed, as soon as practicable after being provided with the opportunity to claim privilege or being advised that a search is to be, is being, or has been conducted, as the case requires; and
-  (b) if the thing for which the privilege is claimed cannot be adequately particularised in accordance with paragraph (a), may apply to the District Court for directions or relief (with a copy of the thing provided under clause 70(b)).
-
-### 72 Admission of evidence
-(1) If the District Court upholds a claim to privilege under clause 64, 65, 69, 70, or 71 concerning any communication or information, the communication or information to which the privilege applies is not admissible in any proceedings arising from, or related to, the execution of the search warrant or exercise of the other search power or surveillance power.
-(2) Subject to subclause (1), this Part does not limit or affect the admissibility of any evidence, or the discretion of any court to admit or refuse to admit any evidence, in any proceedings.
-
-### Part 6 — Reporting
-
-### 73 Reporting of exercise of powers within Ministry agency
-(1) A NAIT officer, a NAIT authorised person, or a constable who exercises an entry power or a search power without a warrant must provide a written report on the exercise of that power to the Director-General as soon as practicable after the exercise of the power.
-(2) The report must contain a short summary of the circumstances of the exercise of the power and the reason or reasons why the power needed to be exercised.
-
-### 74 Annual reporting of search powers
-Every annual report prepared by the Director-General for the purposes of section 43 of the Public Finance Act 1989 or any other applicable enactment requiring an annual report to be presented to Parliament, for the period covered by the report, must state the number of occasions on which entry powers (other than searches by consent) were exercised without a warrant.
-
-### Part 7 — Offences and penalties
+### Part 4 — Offences and penalties
 
 **Offences other than infringement offences**
 
-### 75 Offences relating to stopping vehicles
-(1) Every person commits an offence who—
-  (a) fails to stop as soon as practicable when required to do so by a NAIT officer exercising a power to stop or search a vehicle; and
-  (b) knows or ought reasonably to know that the person exercising the power is a NAIT officer.
-(2) Every person commits an offence who—
-  (a) fails to comply with a requirement of a NAIT officer under clause 53; and
-  (b) knows or ought reasonably to know that the person imposing the requirement is a NAIT officer.
-(3) Every person who commits an offence against subclause (1) or (2) is liable on conviction to a term of imprisonment not exceeding 3 months.
-(4) Any constable may arrest without warrant any person who the constable has reasonable grounds to suspect has committed an offence against subclause (1) or (2).
-
-### 76 Offence of failing to carry out obligations in relation to computer system search
-Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months who fails, without reasonable excuse, to assist a person exercising a search power when requested to do so under clause 56.
-
-### 77 Offences relating to exercise of powers
+### 12 Offences relating to exercise of powers
 (1) Every person commits an offence who intentionally—
   (a) threatens, assaults, obstructs, or hinders a person in the exercise of a power or the performance of a function or duty prescribed by or under this Act:
   (b) impersonates or falsely represents himself or herself as a NAIT officer or a NAIT authorised person.
 (2) Every person who commits an offence against this clause is liable on conviction,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or a fine not exceeding $25,000:
-  (b) in the case of a body corporate, to a fine not exceeding $50,000.
+  (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or a fine not exceeding $100,000:
+  (b) in the case of a body corporate, to a fine not exceeding $200,000.
 
-### 78 Offences relating to information required by, or held under, this Act
+### 13 Offences relating to information required by, or held under, this Act
 (1) Every person commits an offence who knowingly provides information that is materially false or misleading to—
   (a) the NAIT organisation; or
   (b) a NAIT officer or a NAIT authorised person exercising powers under this Act.
-(2) A PICA for a NAIT location commits an offence who knowingly provides a materially false or misleading declaration that a NAIT animal consigned for transport or droving has been identified and registered with the NAIT organisation in accordance with this Act.
+(2) A PICA for a NAIT location or other location commits an offence who knowingly provides a materially false or misleading declaration that a NAIT animal consigned for transport or droving has been identified and registered with the NAIT organisation in accordance with this Act.
 (3) Every person commits an offence who, contrary to the provisions of this Act, knowingly accesses, uses, or discloses information on the NAIT information system that is—
   (a) personal information within the meaning of the Privacy Act 1993; or
   (b) commercially sensitive within the meaning of section 9(2)﻿(b)﻿(ii) of the Official Information Act 1982.
@@ -1835,10 +1305,10 @@ Every person commits an offence and is liable on conviction to imprisonment for 
   (a) the action is carried out knowingly and without the prior written approval of the NAIT organisation:
   (b) the action is carried out in a manner that misleads a person or misleadingly suggests that it was carried out with the approval of the NAIT organisation.
 (6) Every person who commits an offence against this clause is liable on conviction,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or a fine not exceeding $25,000:
-  (b) in the case of a body corporate, to a fine not exceeding $50,000.
+  (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or a fine not exceeding $100,000:
+  (b) in the case of a body corporate, to a fine not exceeding $200,000.
 
-### 79 Obligation to maintain confidentiality
+### 14 Obligation to maintain confidentiality
 (1) This clause applies to NAIT officers and NAIT authorised persons exercising powers or performing functions under this Act.
 (2) A person to whom this clause applies must not disclose any information that comes into the person's knowledge while the person is exercising powers or performing functions under this Act, except—
   (a) with the consent of the person to whom the information relates; or
@@ -1847,94 +1317,102 @@ Every person commits an offence and is liable on conviction to imprisonment for 
   (d) as provided for, by, or under this Act; or
   (e) in connection with an investigation or inquiry concerning proceedings for an offence against this Act.
 (3) A person who contravenes subclause (2) commits an offence and is liable on conviction,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 6 months:
-  (b) in the case of a body corporate, to a fine not exceeding $100,000.
+  (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or a fine not exceeding $100,000:
+  (b) in the case of a body corporate, to a fine not exceeding $200,000.
 
-### 80 Offence of failing to comply with production order
-(1) Every person commits an offence if he or she fails to comply with a production order made under clause 16.
-(2) Every person who commits an offence against subclause (1) is liable on conviction,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 1 year:
-  (b) in the case of a body corporate, to a fine not exceeding $40,000.
-
-### 81 False application for production order or search warrant
-Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 1 year who makes an application for a production order or search warrant that contains any assertion or other statement known by the person to be false.
-
-### 82 Offences relating to registration and declarations
+### 15 Offences relating to registration, declarations, and provision of information
 (1) Every person commits an offence who—
-  (a) is, or has been determined to be, a PICA for a NAIT location by a NAIT officer; and
+  (a) is, or has been determined to be, a PICA for a NAIT location or other location by a NAIT officer; and
   (b) in breach of section 26 or 27, fails to register as a PICA in accordance with this Act.
 (2) A PICA for a NAIT location or other location commits an offence who fails, unless an exemption applies,—
   (a) to register a NAIT animal at that location in accordance with this Act:
   (b) to comply with section 31 in relation to animal movements:
   (c) to comply with section 32 in relation to a NAIT animal that dies, is lost, or is exported live.
 (3) Every person who commits an offence against subclause (1) is liable on conviction,—
-  (a) in the case of an individual, to a fine not exceeding $10,000:
-  (b) in the case of a body corporate, to a fine not exceeding $20,000.
+  (a) in the case of an individual, to a fine not exceeding $100,000:
+  (b) in the case of a body corporate, to a fine not exceeding $200,000.
 (4) Every person who commits an offence against subclause (2) is liable on conviction,—
   (a) in the case of an individual, to a fine—
-    (i) not exceeding $10,000; or
-    (ii) not exceeding $1,000 for each animal to which the offence relates, up to a maximum of $10,000:
+    (i) not exceeding $100,000; or
+    (ii) not exceeding $10,000 for each animal to which the offence relates, up to a maximum of $100,000:
   (b) in the case of a body corporate, to a fine—
-    (i) not exceeding $20,000; or
-    (ii) not exceeding $2,000 for each animal to which the offence relates, up to a maximum of $20,000.
+    (i) not exceeding $200,000; or
+    (ii) not exceeding $20,000 for each animal to which the offence relates, up to a maximum of $200,000.
 
-### 83 Offences relating to fitting NAIT devices
-(1) A PICA for a NAIT location commits an offence who, contrary to the requirements prescribed by regulations made under this Act,—
-  (a) fails to fit a NAIT device to a NAIT animal born in that location, before the animal is first moved from the location or within the time specified in regulations made under this Act, whichever is the sooner, unless an exemption applies:
+### 16 Offence relating to declaration required under section 32A
+(1) A PICA commits an offence who fails to provide the declaration required under section 32A.
+(2) Every person who commits an offence against subclause (1) is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $100,000:
+  (b) in the case of a body corporate, to a fine not exceeding $200,000.
+
+### 17 Offences relating to fitting NAIT devices
+(1) A PICA for a NAIT location or other location commits an offence who, contrary to the requirements prescribed by regulations made under this Act,—
+  (a) fails to fit a NAIT device to a NAIT animal born in that location before the animal is first moved from the location or within the time specified in regulations made under this Act, whichever is the sooner, unless an exemption applies:
   (b) in a case where a NAIT device is lost or becomes detached from a NAIT animal in that location, before the animal is moved from that location, fails—
     (i) to apply a replacement device; and
     (ii) to reregister that animal:
   (c) fits a NAIT device prescribed for 1 species or sub-group of species to an animal of another species or sub-group of species:
-  (d) unless an exemption applies, when a NAIT animal arrives at that location without a NAIT device, fails either to—
+  (d) fits a NAIT device on an animal in a location other than a registered location:
+  (e) unless an exemption applies, when a NAIT animal arrives at that location without a NAIT device, fails either to—
     (i) return the animal to the PICA who consigned the animal to the location; or
-    (ii) fit a replacement device on the animal and reregister it in the manner, and within the time, specified in regulations made under this Act.
+    (ii) fit a replacement device to the animal and reregister it in the manner, and within the time, specified in regulations made under this Act.
 (2) Every person who commits an offence against subclause (1) is liable on conviction,—
   (a) in the case of an individual, to a fine—
-    (i) not exceeding $10,000; or
-    (ii) not exceeding $1,000 for each device to which the offence relates, up to a maximum of $10,000:
+    (i) not exceeding $100,000; or
+    (ii) not exceeding $10,000 for each device to which the offence relates, up to a maximum of $100,000:
   (b) in the case of a body corporate, to a fine—
-    (i) not exceeding $20,000; or
-    (ii) not exceeding $2,000 for each device to which the offence relates, up to a maximum of $20,000.
+    (i) not exceeding $200,000; or
+    (ii) not exceeding $20,000 for each device to which the offence relates, up to a maximum of $200,000.
 
-### 84 Offences relating to alteration, removal, reuse, and supply of NAIT devices
+### 18 Offence relating to transporting NAIT animals that are not fitted with NAIT devices
+(1) A person commits an offence who moves from a location any NAIT animal that is not fitted with a prescribed NAIT device, unless an exemption applies.
+(2) Every person who commits an offence against subclause (1) is liable on conviction,—
+  (a) in the case of an individual, to a fine—
+    (i) not exceeding $100,000; or
+    (ii) not exceeding $10,000 for each animal to which the offence relates, up to a maximum of $100,000:
+  (b) in the case of a body corporate, to a fine—
+    (i) not exceeding $200,000; or
+    (ii) not exceeding $20,000 for each animal to which the offence relates, up to a maximum of $200,000.
+
+### 19 Offences relating to alteration, removal, reuse, and supply of NAIT devices
 (1) Every person commits an offence who—
   (a) alters or defaces a NAIT device:
   (b) unless the person is, or has been authorised by, a NAIT officer or a NAIT authorised person, removes a NAIT device from a live animal:
-  (c) fits on a NAIT animal (whether dead or alive) a NAIT device removed from another NAIT animal, whether dead or alive:
+  (c) fits to a NAIT animal (whether dead or alive) a NAIT device removed from another NAIT animal, whether dead or alive:
   (d) manufactures or supplies a device that does not comply with the requirements of regulations made, or standards issued, under this Act, while purporting that it is a NAIT device:
-  (e) without the prior written approval of the NAIT organisation, sells or trades a NAIT device supplied by a manufacturer or importer of NAIT devices:
-  (f) without the prior written approval of the NAIT organisation, reuses, sells, or trades a radio frequency identification device component extracted from a NAIT device.
+  (e) without the prior written approval of the NAIT organisation, sells or trades a NAIT device supplied by a manufacturer or an importer of NAIT devices:
+  (f) without the prior written approval of the NAIT organisation, reuses, sells, or trades a radio-frequency identification device component extracted from a NAIT device.
 (2) Every person who commits an offence against subclause (1) is liable on conviction,—
   (a) in the case of an individual, to a fine—
-    (i) not exceeding $10,000; or
-    (ii) not exceeding $1,000 for each device to which the offence relates, up to a maximum of $10,000:
+    (i) not exceeding $100,000; or
+    (ii) not exceeding $10,000 for each device to which the offence relates, up to a maximum of $100,000:
   (b) in the case of a body corporate, to a fine—
-    (i) not exceeding $20,000; or
-    (ii) not exceeding $2,000 for each device to which the offence relates, up to a maximum of $20,000.
+    (i) not exceeding $200,000; or
+    (ii) not exceeding $20,000 for each device to which the offence relates, up to a maximum of $200,000.
 (3) There is no offence under subclause (1)﻿(b) in the case of removal of a NAIT device at, or immediately before, slaughter.
 
-### 85 Offence of failing to comply with directions
+### 20 Offence of failing to comply with directions
 (1) Every person commits an offence who fails to comply with directions given by a NAIT officer or a NAIT authorised person under—
-  (a) clause 2; or
-  (b) clause 5.
+  (a) clause 1; or
+  (b) clause 4.
 (2) Every person who commits an offence against subclause (1) is liable on conviction,—
-  (a) in the case of an individual, to a fine not exceeding $10,000; or
-  (b) in the case of a body corporate, to a fine not exceeding $20,000.
+  (a) in the case of an individual, to a fine not exceeding $100,000; or
+  (b) in the case of a body corporate, to a fine not exceeding $200,000.
 
 **Infringement offences**
 
-### 86 Offences that may be proceeded with by way of infringement notice
-(1) This section applies when a person is alleged to have committed an infringement offence.
-(2) Proceedings may be taken against a person by serving an infringement notice on the person under clause 87.
+### 21 Offences that may be proceeded with by way of infringement notice
+(1) This clause applies when a person is alleged to have committed an infringement offence.
+(2) Proceedings may be taken against a person by serving an infringement notice on the person under clause 22.
 (3) If an infringement notice is served,—
   (a) proceedings for an offence may be commenced in accordance with section 21 of the Summary Proceedings Act 1957; and
   (b) section 21 of that Act applies with the necessary modifications.
-(4) In this clause and clauses 87 to 89,—
+(4) In this clause and clauses 22 to 24,—
   - **infringement fee** , in relation to an infringement offence, means the amount prescribed by regulations made under this Act to be payable for the offence
   - **infringement offence** means an offence that is declared, by regulations made under section 69, to be an infringement offence for the purposes of this Act.
 
-### 87 Service and cancellation of infringement notices
-(1) An infringement notice may be served on a person if a NAIT officer or a NAIT authorised person—
+### 22 Service and cancellation of infringement notices
+(1) An infringement notice may be served on a person by a NAIT officer or a NAIT authorised person if the officer or authorised person—
   (a) observes the person committing an infringement offence; or
   (b) reasonably believes that the person is committing an infringement offence; or
   (c) reasonably believes that the person has committed an infringement offence.
@@ -1942,7 +1420,7 @@ Every person commits an offence and is liable on conviction to imprisonment for 
   (a) the interests of justice require cancellation; and
   (b) neither the particulars of a reminder notice nor a notice of hearing relating to the infringement notice has been filed in the District Court.
 (3) An infringement notice is cancelled by the service of a cancellation notice.
-(4) An infringement notice or a cancellation notice may be served by a NAIT officer or a NAIT authorised person personally delivering it to the person alleged to have committed the infringement offence, though a different NAIT officer from the one who issued the notice may deliver the notice and the notice served may be a copy.
+(4) An infringement notice or a cancellation notice may be served by a NAIT officer or a NAIT authorised person personally delivering it to the person alleged to have committed the infringement offence, though a different NAIT officer or NAIT authorised person from the one who issued the notice may deliver the notice, and the notice served may be a copy.
 (5) Alternatively, an infringement notice or a cancellation notice may be served by post addressed to,—
   (a) if the person is a natural person,—
     (i) the address of the person's last-known place of residence; or
@@ -1957,7 +1435,7 @@ Every person commits an offence and is liable on conviction to imprisonment for 
     (iii) the address of the person's last-known place of business.
 (6) For the purposes of the Summary Proceedings Act 1957, an infringement notice or a cancellation notice served under subclause (5) is treated as having been served on the person at the time when it was posted.
 
-### 88 Form of infringement notice
+### 23 Form of infringement notice
 (1) An infringement notice must be in the form prescribed by regulations made under section 69.
 (2) The prescribed form must contain the following details:
   (a) sufficient information for the person served with the notice of the time, place, and nature of the alleged infringement offence; and
@@ -1969,34 +1447,34 @@ Every person commits an offence and is liable on conviction to imprisonment for 
   (g) a statement of what will happen if the person does not pay the infringement fee or ask for a hearing or for cancellation of the notice; and
   (h) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957.
 
-### 89 Payment of infringement fees
+### 24 Payment of infringement fees
 All infringement fees paid for infringement offences must be paid to the Ministry.
 
 **General provisions applying to offences under Act**
 
-### 90 Time for filing charging document
+### 25 Time for filing charging document
 Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document for any offence against this Act must be filed within 2 years after the date on which the matter giving rise to the charge first became known, or should have become known, to the Ministry or the NAIT organisation.
 
-### 91 Liability of body corporate
+### 26 Liability of body corporate
 (1) This clause applies when—
   (a) a body corporate is charged with an offence against this Act; and
   (b) for the purpose of the prosecution, it is necessary to establish the body corporate’s state of mind.
 (2) It is sufficient to show that a director, an employee, or an agent of the body corporate, acting within the scope of his or her actual or apparent authority, had the state of mind.
 
-### 92 Liability of principals and agents
+### 27 Liability of principals and agents
 (1) Subclause (2) applies if an offence is committed against this Act by a person (person A) acting as the agent or employee of another (person B).
 (2) Person B is liable for the offence as if person B had personally committed it, if it is proved that person B—
   (a) authorised, permitted, or consented to the act constituting the offence; or
   (b) knew the offence was, or was to be, committed and failed to take all reasonable steps to prevent or stop it.
 (3) Subclause (2) does not prejudice the liability of person A.
 
-### 93 Liability of director or manager of body corporate
+### 28 Liability of director or manager of body corporate
 If a body corporate is convicted of an offence against this Act, a director or manager of the body corporate is also guilty of the offence if it is proved that the director or manager—
   (a) authorised, permitted, consented, or participated in the act or omission that constituted the offence; or
   (b) knew, or could reasonably be expected to have known, that the offence was to be, or was being committed and failed to take all practicable steps to prevent or stop it.
 
-### 94 Defences must be notified to prosecutor
-(1) In a prosecution for an offence against clause 82, 83, 84, or 85, it is a defence if the defendant proves—
+### 29 Defences must be notified to prosecutor
+(1) In a prosecution for an offence against clause 15, 16, 17, 18, 19, or 20, it is a defence if the defendant proves—
   (a) that the defendant took all reasonable steps to avoid committing the offence; or
   (b) that the act or omission constituting the offence—
     (i) took place in circumstances of an adverse event or an emergency; and
@@ -2005,18 +1483,18 @@ If a body corporate is convicted of an offence against this Act, a director or m
   (a) stating that the defendant intends to rely on a defence under subclause (1); and
   (b) specifying, as relevant,—
     (i) for a defence under subclause (1)﻿(a), the reasonable steps that the defendant claims to have taken:
-    (ii) for a defence under subclause (1)﻿(b), the circumstances of an adverse event or emergency and the reasons why the act or omission was necessary for the preservation, protection, or maintenance of animal or human life or for animal welfare purposes.
+    (ii) for a defence under subclause (1)﻿(b), the circumstances of the adverse event or emergency and the reasons why the act or omission was necessary for the preservation, protection, or maintenance of animal or human life or for animal welfare purposes.
 (3) A notice given under subclause (2) must be provided to the prosecutor—
   (a) not later than 7 working days after the summons has been served on the defendant; or
-  (b) with the leave of the court, any further time that the court allows.
+  (b) with the leave of the court, within any further time that the court allows.
 
-### 95 Evidence in proceedings
-(1) In proceedings for an offence against this Act, a certificate or document that purports to be signed by the Director-General or delegate stating that a named person was, at the specified date or period, a NAIT officer or a NAIT authorised person—
+### 30 Evidence in proceedings
+(1) In proceedings for an offence against this Act, a certificate or document that purports to be signed by the Director-General or delegate stating that a named person was, at or within the specified date or period, a NAIT officer or a NAIT authorised person—
   (a) is admissible in evidence; and
   (b) unless the contrary is proved, is sufficient evidence of the contents of the certificate or document.
 (2) A certificate or document referred to in subclause (1) includes an electronic copy of the certificate or document.
 
-### 96 Service of orders or notices
+### 31 Service of orders or notices
 (1) If an order or a notice is to be given to a person for the purposes of this Act, it may be given—
   (a) by delivering it personally to the person; or
   (b) by delivering it at the usual or last-known place of residence or business of the person, including by fax or by electronic mail; or
@@ -2077,18 +1555,3 @@ If a body corporate is convicted of an offence against this Act, a director or m
 [Repealed]
 
 ## Schedule 4 — Enactments amended
-
-### 1 Title
-This Act is the National Animal Identification and Tracing Amendment Act 2018.
-
-### 2 Commencement
-This Act comes into force on the day after the date on which it receives the Royal assent.
-
-### 3 Principal Act
-This Act amends the National Animal Identification and Tracing Act 2012 (the principal Act).
-
-## Part 1 — Amendments to principal Act
-
-### 9 Review
-(1) The Minister must, 12 months after the commencement of this Act, initiate a review of the amendments set out in section 8.
-(2) The Minister must present a report on the review to the House of Representatives within 3 months of the initiation of the review under subsection (1).
