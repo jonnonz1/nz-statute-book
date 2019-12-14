@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2019-12-14_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -3732,6 +3732,9 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  | 62(2) | Constable or authorised person may obtain and execute warrant to enter and inspect place that is not a place of business if issuing officer is satisfied that, as consequence of inspection under section 61 of Meat Board Act 2004, there are reasonable grounds to believe that there are or are likely to be meat products or related documents at that place | All (except that sections 118 and 119 apply to constables only) |
 | Motor Vehicle Sales Act 2003 | 130(1) | Constable or Registrar of Motor Vehicles or person authorised by Registrar may obtain and execute search warrant to search for evidence of offence against Motor Vehicle Sales Act 2003 that has been, or is being, committed or for any related thing | All (except that sections 118 and 119 apply to constables only) |
 | Mutual Assistance in Criminal Matters Act 1992 | 44(1) | Constable authorised by Attorney-General under section 43(2) may obtain and execute warrant to search for and seize any thing in respect of which offence under foreign law has been or may have been committed, or that is evidence, or that may be used in commission of such an offence | All (except subpart 6) |
+| National Animal Identification and Tracing Act 2012 | clause 9, Schedule 2 | NAIT officer may obtain and execute search warrant to search for evidence of offence against National Animal Identification and Tracing Act 2012 or regulations made under it | All (except sections 118 and 119) |
+|  | clause 10, Schedule 2 | NAIT officer or NAIT authorised person may enter and inspect any place (other than dwelling house or marae) to determine whether the National Animal Identification and Tracing Act 2012 and any regulations or standards under that Act are being complied with | Subparts 1, 4, 7, 9, and 10 (except sections 118 and 119) |
+|  | clause 11, Schedule 2 | Property seized under search warrant issued under clause 9 of Schedule 2 of the National Animal Identification and Tracing Act 2012 may be disposed of | Subparts 1, 5, 6, 7, 9, and 10 |
 | National Parks Act 1980 | 61(1) | Ranger may seize article found in possession of any person in national park if ranger has reasonable grounds to believe that the person, in obtaining possession of article, has committed offence against National Parks Act 1980 | All (except subpart 3) |
 |  | 61(6) | Ranger may seize any chainsaw, firearm, trap, net, or similar item found in unlawful possession of any person in national park and any item found on any person and used in commission of offence in national park | All (except subpart 3) |
 |  | 65(1) | Ranger may stop and search boats or vehicles, or certain animals, or aircraft, and search premises and possessions, in national park if he or she has reasonable cause to believe offence has been committed against National Parks Act 1980 or any bylaws under that Act and that evidence will be found in course of search | All (except subpart 3 and sections 118 and 119) |
