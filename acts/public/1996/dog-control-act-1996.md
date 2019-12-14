@@ -1,5 +1,5 @@
 # Dog Control Act 1996
-_Consolidation as at 2019-06-28_
+_Consolidation as at 2019-12-14_
 
 > An Act—ato make better provision for the control of dogs; andbto make better provision in relation to damage caused by dogs; andcto repeal the Dog Control and Hydatids Act 1982 and its amendments
 
@@ -1018,6 +1018,19 @@ The owner of any dog that attacks any person or any protected wildlife and cause
   (i) such other particulars as are prescribed.
 (5) Where an infringement notice has been issued under this section, proceedings in respect of the offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957, and in that case the provisions of that section shall, with the necessary modifications, apply.
 (6) A territorial authority may retain the infringement fee received by it for an infringement offence if the infringement notice was issued by a dog control officer or dog ranger appointed by that territorial authority.
+
+**Category 1 offences**
+
+### 66A Jurisdiction for category 1 offences
+(1) The District Court presided over by 2 or more Justices of the Peace has jurisdiction in respect of any category 1 offence under this Act.
+(2) Subsection (1) does not apply to the offences described in the following sections:
+  (a) section 32(2):
+  (b) section 57(2):
+  (c) section 57A(2):
+  (d) section 61(2):
+  (e) section 62(4):
+  (f) section 78(3).
+(3) In this section, category 1 offence has the same meaning as in section 6(1) of the Criminal Procedure Act 2011.
 
 **Custody of dogs**
 
