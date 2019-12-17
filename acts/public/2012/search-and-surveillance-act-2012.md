@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2019-12-14_
+_Consolidation as at 2019-12-17_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -3594,6 +3594,9 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  | 111(1) | Inspector or authorised person may obtain, and inspector, authorised person, or constable may execute, search warrant to search for evidence of offence against Biosecurity Act 1993 | All (except sections 118 and 119) |
 |  | 118(1) | Person exercising power of search conferred by section 111 of Biosecurity Act 1993 may seize things | Subparts 1, 5, 6, 7, 9, and 10 |
 | Boxing and Wrestling Act 1981 | 9 | Constable may obtain and execute search warrant to obtain evidence of offence against Boxing and Wrestling Act 1981 | Subparts 1, 3, 4, 7, 9, and 10 |
+| Building Act 2004 | 133BQ | Responsible person may obtain and execute a warrant to enter a building to inspect the building and prepare a post-event assessment of risks posed by the building | Subpart 3 |
+|  | 207I | Chief executive may obtain and execute a warrant to enter a household unit and exercise powers of investigation when investigating a building failure | Subpart 3 |
+|  | 207J | Chief executive may take samples or other evidence from the investigation site when investigating a building failure | Sections 152, 154, 155, and 159 |
 | Chemical Weapons (Prohibition) Act 1996 | 23 | Constable or appointed person may apply for search warrant | Subparts 3 and 4 |
 | Civil Aviation Act 1990 | 24(4) | Authorised person may obtain and execute warrant to enter dwellinghouse or marae for purposes of exercising powers of inspection conferred on Director of Civil Aviation by Civil Aviation Act 1990 | Subparts 1, 3, 4, 5, 7, 9, and 10 (except that sections 118 and 119 apply to constables only) |
 | Commerce Act 1986 | 98A(2) | Authorised employee of Commerce Commission may obtain and execute warrant to search for evidence of offence against most provisions of Commerce Act 1986 | All (except sections 118 and 119) |
