@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2019-12-17_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -812,15 +812,27 @@ A warrant issued under section 78 must—
 (2) Nothing in section 80 authorises the seizure of information that is of a kind described in subsection (1).
 
 ### 83 Restriction on disclosure of information
-A person who receives information following a requirement to give information imposed under section 60, 76, 91(2), or 94N(2), or in the execution of a warrant issued under section 78, may use or disclose that information only for the purposes of this Act.
+(1) A person who receives information following a requirement to give information imposed under section 60, 76, 91(2), or 94N(2), or in the execution of a warrant issued under section 78, may use or disclose that information only for the purposes of this Act.
+(2) Despite subsection (1), the person may disclose to a responsible person information that—
+  (a) is relevant to the exercise of powers under subpart 6B of Part 2 of the Building Act 2004 in an area for which a state of emergency has been declared or a notice of transition period has been given; and
+  (b) is to be used in connection with the exercise of those powers in that area.
+(3) In subsection (2), responsible person has the same meaning as in section 133BB(1) of the Building Act 2004.
 
 ### 84 Minister's power of direction
 (1) This section applies if—
   (a) a state of emergency is in force, or the Minister considers that an imminent threat of an emergency exists; and
   (b) the Minister considers that, having regard to all the circumstances, it is expedient to exercise the power in subsection (2).
-(2) If this section applies, the Minister may direct the Director or any Civil Defence Emergency Management Group or person—
+(2) If subsection (1) applies, the Minister may direct the Director or any Civil Defence Emergency Management Group or person—
   (a) to perform or exercise any of the functions, duties, or powers conferred on that person or Group under this Act; or
   (b) to cease to perform or exercise any of the functions, duties, or powers conferred on that person or Group under this Act.
+(2A) Subsection (2B) applies if—
+  (a) an area is subject to—
+    (i) a state of emergency; and
+    (ii) a designation under subpart 6B of Part 2 of the Building Act 2004; and
+  (b) a person who may exercise powers under this Act in relation to the state of emergency is the responsible person under that subpart (see section 133BK of the Building Act 2004).
+(2B) The Minister may direct that responsible person—
+  (a) to exercise any of the powers conferred on the person under that subpart; or
+  (b) to cease to exercise any of those powers.
 (3) If, under this section, the Minister directs any Civil Defence Emergency Management Group or person to perform any function or duty or exercise any power, the Minister may direct that the function, duty, or power must be performed or exercised under the control and to the satisfaction of the Director.
 
 ### 85 Emergency powers of Civil Defence Emergency Management Groups
@@ -1048,9 +1060,17 @@ A Recovery Manager may—
 
 ### 94J Minister's power of direction
 (1) This section applies if the Minister considers that, having regard to all the circumstances, it is expedient to exercise the power in subsection (2).
-(2) If this section applies, the Minister may direct the Director or any Civil Defence Emergency Management Group or person—
+(2) If subsection (1) applies, the Minister may direct the Director or any Civil Defence Emergency Management Group or person—
   (a) to perform any of the functions or duties or exercise any of the powers conferred on the Director, Group, or person under this Part; or
   (b) to cease to perform any of the functions or duties or to exercise any of the powers conferred on the Director, Group, or person under this Part.
+(2A) Subsection (2B) applies if—
+  (a) an area is subject to—
+    (i) a transition period; and
+    (ii) a designation under subpart 6B of Part 2 of the Building Act 2004; and
+  (b) a person who may exercise powers under this Act in relation to the transition period is the responsible person under that subpart (see section 133BK of the Building Act 2004).
+(2B) The Minister may direct that responsible person—
+  (a) to exercise any of the powers conferred on the person under that subpart; or
+  (b) to cease to exercise any of those powers.
 (3) If the Minister directs a person or a Civil Defence Emergency Management Group under this section, the Minister may direct that the functions or duties be performed or the powers be exercised under the control and to the satisfaction of the Director.
 
 ### 94K Evacuation of premises and places
