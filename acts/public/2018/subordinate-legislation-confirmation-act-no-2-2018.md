@@ -1,5 +1,5 @@
 # Subordinate Legislation Confirmation Act (No 2) 2018
-_Consolidation as at 2018-12-18_
+_Consolidation as at 2019-12-20_
 
 ### 1 Title
 This Act is the Subordinate Legislation Confirmation Act (No 2) 2018.
