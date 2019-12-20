@@ -1,5 +1,5 @@
 # State-Owned Enterprises Amendment Act 2012
-_Consolidation as at 2014-03-07_
+_Consolidation as at 2019-12-20_
 
 ### 1 Title
 This Act is the State-Owned Enterprises Amendment Act 2012.
