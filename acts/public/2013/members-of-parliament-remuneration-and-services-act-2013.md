@@ -1,5 +1,5 @@
 # Members of Parliament (Remuneration and Services) Act 2013
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2019-12-20_
 
 ### 1 Title
 This Act is the Members of Parliament (Remuneration and Services) Act 2013.
@@ -93,7 +93,7 @@ Sections 8(3) to (7), 9, 21(1), 25(1) and (3), and 29 of the Remuneration Author
   (c) any other considerations that the Remuneration Authority may determine.
 (3) This section must be read in conjunction with section 16(2).
 (4) Expenses may be incurred, without further appropriation than this section, to meet the salaries and allowances determined under this section and payments under section 45(2) and (3).
-(5) The Remuneration Authority may not make a determination under this section in respect of the salaries and allowances to be paid to members of Parliament for the period from 1 July 2018 to 30 June 2019.
+(5)
 
 ### 9 How salaries and allowances determined
 (1) The salaries and allowances under section 8 must be determined under section 12 of the Remuneration Authority Act 1977, and the relevant sections of that Act apply accordingly (see, for example, sections 16 and 17A to 19).
@@ -186,7 +186,7 @@ Despite anything in this Part, if a person receives a salary as head of mission 
     (i) consult the Commissioner of Inland Revenue about the taxation consequences of that entitlement; and
     (ii) assess the value of the benefit; and
     (iii) include in the determination or direction a statement of the value assessed under subparagraph (ii); and
-  (b) when fixing salaries for a relevant 12-month period (as that term is defined in section 18B(2) of the Remuneration Authority Act 1977), the Remuneration Authority must take into account only the value of any change in personal benefit or potential personal benefit that has arisen because of a change in entitlements compared with entitlements included in the previous determination or direction; and
+  (b) the value must be taken into account by the Remuneration Authority in determining the salaries and allowances of the relevant members of Parliament or Ministers under section 8; and
   (c) the Remuneration Authority must include in its determination of the salaries and allowances under section 8 a statement that sets out how it has taken values assessed under this subsection into account in determining salaries.
 
 **Services determined by Remuneration Authority**
