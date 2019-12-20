@@ -1,5 +1,5 @@
 # Remuneration Authority Act 1977
-_Consolidation as at 2019-11-14_
+_Consolidation as at 2019-12-20_
 
 > Title
 
@@ -92,9 +92,6 @@ There shall from time to time be appointed by the chief executive of the Departm
   (b) the contribution that the member must make to that retirement scheme in order to be entitled to any of the subsidy referred to in paragraph (a), expressed as a ratio of the subsidy to the member's contribution.
 (2AB) For the avoidance of doubt, the superannuation subsidy may only be paid in accordance with subsection (2A)﻿(a) if a member makes a contribution in the actual year to which the subsidy relates, and a member may not, in any year, make a lump sum payment of contributions in respect of past years and claim an entitlement to a subsidy in respect of the contributions paid in that year that relates to past years.
 (2B) For the avoidance of doubt, it is hereby declared that the Crown's liability to any retirement scheme to which a member referred to in subsection (1)﻿(ba) chooses to contribute shall be limited to payment of such subsidy as may be determined pursuant to subsection (2A).
-(2C) The Authority may not make a determination under subsection (1)﻿(b) or (ba) on or after the commencement of the Remuneration Authority (Members of Parliament Remuneration) Amendment Act 2018 that changes—
-  (a) the maximum amount payable by way of superannuation subsidy in respect of a member of Parliament in the period from 1 July 2018 to 30 June 2019; or
-  (b) the contribution that the member must make to the retirement scheme in the period from 1 July 2018 to 30 June 2019 in order to be entitled to any of the subsidy.
 (2C)
 (3) Except as provided in this Act, where the remuneration due to any person is fixed under this Act, no amount in excess of the remuneration so fixed for the time being shall be granted to any person on account of that remuneration.
 
@@ -210,9 +207,7 @@ Before making a determination under section 12(1)﻿(a)﻿(i), the Authority mus
 (2) In determining the remuneration of any persons or group of persons pursuant to any subparagraph of section 12(1)﻿(a) or in determining the remuneration of any persons or group of persons pursuant to section 12B(1) or under any other Act, the Authority shall take into account—
   (a) the requirements of the position concerned; and
   (b) the conditions of service enjoyed by the persons whose remuneration is being determined and those enjoyed by the persons or members of the group of persons whose remuneration and conditions of employment are, in the opinion of the Authority, comparable with those of the persons or members of the group of persons whose remuneration is being determined.
-(3) This section—
-  (a) applies to the Authority when determining the allowances of members of Parliament under section 12(1)﻿(a)﻿(i); but
-  (b) does not apply to the Authority when determining the salaries of members of Parliament under section 12(1)﻿(a)﻿(i).
+(3)
 
 ### 18A Countervailing economic conditions
 (1) Subsection (2) applies in relation to the Authority in determining the remuneration of any person or group of persons under section 12(1)﻿(a) or 12B(1) or under any other enactment.
@@ -221,20 +216,10 @@ Before making a determination under section 12(1)﻿(a)﻿(i), the Authority mus
   (b) may determine the remuneration at a rate lower than it would otherwise have determined.
 (3) A determination of remuneration at a lower rate under subsection (2)﻿(b) must not result in the remuneration of a person or group of persons being lower than the remuneration the person or group of persons is entitled to before the determination.
 (4) To avoid doubt, the provisions of any other enactment relating to the setting of remuneration by the Authority must be read together with, and subject to, this section.
-(5) This section—
-  (a) applies to the Authority when determining the allowances of members of Parliament under section 12(1)﻿(a)﻿(i); but
-  (b) does not apply to the Authority when determining the salaries of members of Parliament under section 12(1)﻿(a)﻿(i).
+(5)
 
 ### 18B Fixing salaries of members of Parliament
-(1) For the purpose of any determination under section 12(1)﻿(a)﻿(i), the Authority must fix the salaries of members of Parliament in accordance with this section.
-(2) A salary rate for a 12-month period from 1 July to 30 June (the relevant 12-month period) must be fixed so that—Sr + Sur = (Sp + Sup) × (a ÷ b) − Prwhere—Sris the salary rate for the relevant 12-month periodSuris the amount of the superannuation subsidy that will be payable (in accordance with the determination made under section 12(1)﻿(b) and (ba)) in the relevant 12-month periodSpis the salary rate for the 12-month period immediately before the relevant 12-month period (the previous 12-month period)Supis the amount of the superannuation subsidy that was payable (in accordance with the determination made under section 12(1)﻿(b) and (ba)) in the previous 12-month periodais the average ordinary time weekly earnings for FTE employees in the public sector as determined by the Quarterly Employment Survey for each of the 4 quarters of the previous 12-month period, added together and divided by 4bis the average ordinary time weekly earnings for FTE employees in the public sector as determined by the Quarterly Employment Survey for each of the 4 quarters of the 12-month period immediately before the 12-month period referred to in item a, added together and divided by 4Pris the amount of any change in the personal benefit or potential personal benefit that the Authority is required to take into account under section 16(2)﻿(b) of the Members of Parliament (Remuneration and Services) Act 2013.
-(3) In subsection (2),—
-  - **FTE** means full-time equivalent as used in the Quarterly Employment Survey, being a measure of hours of work per week
-  - **Quarterly Employment Survey** means the Quarterly Employment Survey published by Statistics New Zealand or, if that survey ceases to be published, any measure certified by the Government Statistician as being equivalent to that survey.
-(4) For the purposes of applying the formula in subsection (2), the number resulting from dividing variable a by variable b must be rounded up or down to 4 decimal places (with 0.00005 or greater being rounded up).
-(5) If the result of the calculation a ÷ b, as those variables are defined in subsection (2), is less than 1, the Authority must fix the rates of salaries for the relevant 12-month period as if the result of the calculation a ÷ b were equal to 1.
-(6) Nothing in subsection (5) limits section 24.
-(7) If the Authority is fixing a salary rate for the first time for a position for which there is no previous determination, the Authority must fix the rate consistently with a comparable position or positions for members of Parliament.
+[Repealed]
 
 ### 19 Frequency of adjustments
 (1A) This section applies to determinations other than those under section 12(1)﻿(b) or section 12(1)﻿(ba) or section 12B(2).
@@ -245,11 +230,19 @@ Before making a determination under section 12(1)﻿(a)﻿(i), the Authority mus
   (a) for the purpose of remedying any defect or removing any ambiguity; or
   (b) to deal with any new matter that was not dealt with at the time of the making of the determination; or
   (c) if the Authority is satisfied that in all the circumstances there are particular and special reasons that justify a period of less than the term specified in the determination.
-(5) Notwithstanding any term included in any determination, the Authority must review and issue a determination for each position that is subject to its jurisdiction,—
-  (a) in the case of the salaries of members of Parliament, at intervals of not more than 12 months in respect of each period of 12 months ending on 30 June; and
-  (b) in the case of the allowances of members of Parliament, at intervals of not more than 3 years; and
-  (c) in any other case, at intervals of not more than 3 years.
-(6) Despite subsection (5), no determination may be issued in respect of the salaries or allowances of members of Parliament for the period from 1 July 2018 to 30 June 2019.
+(5) Notwithstanding any term included in any determination, the Authority must review, and issue a determination for, each position that is subject to its jurisdiction,—
+  (a) in the case of the salaries and allowances of members of Parliament, as set out in subsections (6) to (8); and
+  (b) in any other case, at intervals of not more than 3 years.
+(6) The Authority must begin a review of the salaries and allowances of members of Parliament within 3 months from the return of the writ after a general election, based on the information that is available to the Authority at the time of its review.
+(7) After the review, the Authority must issue a determination that—
+  (a) is deemed to have come into force on the date of the day after polling day for that general election; and
+  (b) expires on polling day for the next general election; and
+  (c) specifies separately the salaries and allowances payable for each of the periods set out in subsection (8).
+(8) The determination under subsection (7) must set out the salaries and allowances of members of Parliament for the following periods:
+  (a) the period beginning on the day after polling day and ending on the next 30 June; and
+  (b) the period beginning on 1 July after the 30 June referred to in paragraph (a) and ending on the next 30 June; and
+  (c) the period beginning on 1 July after the 30 June referred to in paragraph (b) and ending on the next 30 June; and
+  (d) the period beginning on 1 July after the 30 June referred to in paragraph (c) and ending on polling day for the next general election.
 
 ### 20 Interim adjustments
 [Repealed]
@@ -352,6 +345,23 @@ Clause 5 and Schedule 1 of the Parliamentary Salaries and Allowances Determinati
 
 ### 5 Parliamentary Salaries and Allowances Determination 2017 has effect for period 1 July 2018 to 30 June 2019
 The Parliamentary Salaries and Allowances Determination 2017 continues to apply as if the expiry date specified in clause 3 of the determination were 30 June 2019.
+
+### Part 3 — Provisions relating to Remuneration Authority (Members of Parliament Remuneration) Amendment Act 2019
+
+### 6 Remuneration Authority to issue determination of salaries and allowances for period 1 July 2019 to polling date for next general election
+(1) As soon as practicable after the commencement of the Remuneration Authority (Members of Parliament Remuneration) Amendment Act 2019, the Authority must issue a determination of the salaries and allowances of members of Parliament for the whole of the period beginning on 1 July 2019 and ending on polling day for the next general election.
+(2) Section 19(7) and (8) does not apply to the determination to be issued under subclause (1).
+
+### 7 Determination revoked
+Any determination of the salaries and allowances of members of Parliament that is in force on the commencement of the Remuneration Authority (Members of Parliament Remuneration) Amendment Act 2019 is revoked, but must continue in force until it is superseded by the determination issued under clause 6(1).
+
+### 8 Amounts paid to be reconciled
+(1) Subclause (2) applies if the determination issued under clause 6(1) sets salaries or allowances, or both, for members of Parliament from 1 July 2019 that are different to the salaries and allowances paid to members of Parliament from that date under another determination.
+(2) If this subclause applies, the Parliamentary Service must reconcile the salaries and allowances paid to members of Parliament from 1 July 2019 against the salaries and allowances that would have been paid had the determination issued under clause 6(1) been made on 1 July 2019, and any necessary adjustments must be made to pay the amount of any underpayment to affected members of Parliament and to recover the amount of any overpayment from affected members of Parliament.
+
+### 9 Clause 6(1) prevails
+(1) Clause 6(1) overrides section 19(2).
+(2) Sections 18A(3) and 24(1) do not apply to a change in remuneration arising from a determination issued under clause 6(1).
 
 ## Schedule 1 — Corporations and bodies whose highest paid executive officers' remuneration is to be determined by Authority
 
