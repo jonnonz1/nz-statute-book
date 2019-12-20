@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2019-12-20_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -88,6 +88,7 @@ The purpose of this Act is to promote access to justice by establishing a system
     (b) by a patient or proposed patient in respect of proceedings under the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
     (c) by a care recipient or proposed care recipient in respect of proceedings under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; or
     (ca) by a person who is a respondent to an application under the Public Safety (Public Protection Orders) Act 2014, or who is subject to an order under that Act, in respect of an application under that Act; or
+    (cb) by a person who is a respondent to an application under the Terrorism Suppression (Control Orders) Act 2019, or who is subject to an order under that Act, in respect of an application under that Act; or
     (d) in respect of proceedings under the Protection of Personal and Property Rights Act 1988; or
     (e) by a victim in respect of—
       (i) an inquest held by a coroner for the purposes of Part 3 of the Coroners Act 2006; or
