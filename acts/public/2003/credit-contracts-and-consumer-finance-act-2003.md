@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2019-12-20_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -569,7 +569,7 @@ The opening unpaid balance shown in each successive continuing disclosure statem
   (a) reduces the obligations that the debtor would otherwise have, unless the obligations are reduced following an application under section 55; or
   (b) extends the time for payment of any payment to be made under the contract, unless the time for payment is extended following an application under section 55; or
   (c) releases the whole or any part of a security interest relating to the contract; or
-  (d) increases any credit limit under the consumer credit contract.
+  (d) increases or decreases any credit limit under the consumer credit contract.
 (4) The disclosure referred to in subsection (3) may be made, at the creditor's discretion, either—
   (a) within 5 working days of the day on which the change takes effect; or
   (b) if the creditor is required to make continuing disclosure under section 18, at the same time as the creditor provides the debtor with the next continuing disclosure statement (as required under that section) after the change takes effect.
@@ -594,6 +594,7 @@ The opening unpaid balance shown in each successive continuing disclosure statem
 (6) The disclosure referred to in subsection (5) may be made, at the creditor's discretion,—
   (a) within 5 working days of the day on which the change takes effect; or
   (b) if the creditor is required to make continuing disclosure under section 18, at the same time as the creditor provides the debtor with the next continuing disclosure statement (as required under that section) after the change takes effect.
+(7) Disclosure under this section is not required in relation to a particular debtor if the creditor cannot reasonably locate the debtor.
 
 **Request and guarantee disclosure**
 
@@ -638,6 +639,7 @@ The opening unpaid balance shown in each successive continuing disclosure statem
   (a) the change is agreed to by the debtor and the creditor, in the case of subsection (1)﻿(a); or
   (b) the change takes effect, in the case of subsection (1)﻿(b).
 (4) If the creditor has exercised a power under the credit contract to change the amount of an interest rate or to change the amount of any fee or charge payable, the creditor may, instead of complying with section 35, make disclosure in accordance with any publication requirements prescribed by regulations for the purposes of this section.
+(5) Disclosure under this section is not required in relation to a particular guarantor if the creditor cannot reasonably locate the guarantor.
 
 ### 26A Disclosure of transfer of rights of creditor under consumer credit contract
 (1) Every creditor who transfers (whether by assignment or operation of law) the rights of that person under a consumer credit contract to another creditor (the new creditor) must ensure that the disclosure of the following information is made to every debtor and guarantor under the contract:
@@ -649,6 +651,7 @@ The opening unpaid balance shown in each successive continuing disclosure statem
   (f) that the transfer does not affect the terms of the contract that the debtor entered into (other than terms relating to the identity of the creditor).
 (2) Disclosure under this section must be made within 10 working days of the day on which the transfer takes effect.
 (3) This section does not apply in the prescribed circumstances (being circumstances that relate to securitisation or covered bond arrangements or similar arrangements).
+(4) Disclosure under this section is not required in relation to a particular debtor or guarantor if the creditor cannot reasonably locate the debtor or guarantor, as the case may be.
 
 ### Subpart 3 — Debtor's right to cancel
 
@@ -716,7 +719,7 @@ If a consumer credit contract is cancelled under section 27(1)﻿(a), section 30
   (a) may be in a single document or a series of related documents:
   (b) may be included as part of 1 or more other documents.
 (3) If a creditor provides 2 or more credit facilities to a debtor under 1 or more consumer credit contracts, disclosure may be made in 1 or more disclosure statements.
-(4) The requirement to make disclosure in writing may be met by giving the required information in electronic form, whether by means of an electronic communication or otherwise, if—
+(4) The requirement to make disclosure in writing may be met by giving or making available the required information in electronic form, whether by means of an electronic communication or otherwise, if—
   (a) the information is readily accessible so as to be usable for subsequent reference; and
   (b) the person to whom the disclosure is required to be made consents to the disclosure being made in electronic form and by means of an electronic communication, if applicable.
 (5) For the purposes of this section, a person may consent to the information being given in electronic form subject to conditions regarding the form of the information or the means by which the information is produced, sent, received, processed, stored, or displayed.
@@ -734,12 +737,22 @@ If a consumer credit contract is cancelled under section 27(1)﻿(a), section 30
 (1) Disclosure must be made by—
   (a) giving the disclosure statement to the person to whom disclosure is to be made; or
   (b) sending the disclosure statement by post to that person's place of residence last known to the person making disclosure or to an address specified by the person for this purpose; or
-  (c) in the case of an electronic communication, sending the disclosure statement to the information system specified by the person for this purpose.
-(2) If the place of residence referred to in subsection (1)﻿(b) is the same for 2 or more persons, the disclosure statement given or sent to any of those persons is to be treated as having been given or sent to all of those persons.
+  (c) sending the disclosure statement to the information system specified by the person for that purpose; or
+  (d) sending an electronic communication to the information system specified by the person for that purpose that allows the disclosure statement to be accessed; or
+  (e) otherwise making the disclosure statement available in electronic form, and sending an electronic communication to the information system specified by the person notifying the person how to access the disclosure statement.
+(1A) However, subsection (1)﻿(d) and (e) is subject to the conditions that—
+  (a) the statement must be readily accessible at that time the electronic communication is sent, and at all reasonable times over the life of the contract, in accordance with the communication; and
+  (b) that statement can, at that time the electronic communication is sent, and at all reasonable times over the life of the contract, be stored in a permanent and legible form (for example, saved to an electronic file and printed).
+(2) If the place of residence referred to in subsection (1)﻿(b) is the same for 2 or more persons, or if 2 or more persons have specified the same information system for the purposes of subsection (1)﻿(c) to (e), the disclosure statement given or sent to any of those persons is to be treated as having been given or sent to all of those persons.
 (3) For the purposes of sections 27 and 99 to 102, when disclosure is made by sending the disclosure statement to a person by post, the disclosure is to be treated as having been made on the fourth working day after the day on which the statement is posted.
-(4) For the purposes of sections 27 and 99 to 102, when disclosure is made by sending the disclosure statement to a person by means of an electronic communication, the disclosure is to be treated as having been made on the second working day after the day on which the statement is sent.
-(5) For all other purposes, when disclosure is made by sending the disclosure statement to a person by post or by means of an electronic communication, the disclosure is to be treated as having been made on the day on which the statement is posted or sent.
-(6) Without limiting section 32(4) and (5), sending a disclosure statement by means of an electronic communication may involve sending to the person to whom disclosure is made an electronic communication that allows the disclosure statement to be accessed from a website or by means of the Internet if the person consents to the disclosure being made in this manner.
+(4) For the purposes of sections 27 and 99 to 102, when disclosure is made—
+  (a) by sending the disclosure statement to the information system specified by the person for that purpose under subsection (1)﻿(c), the disclosure is to be treated as having been made on the second working day after the day on which the statement is sent:
+  (b) under subsection (1)﻿(d) or (e), the disclosure is to be treated as having been made on the second working day after the day on which the electronic communication is sent.
+(5) For all other purposes, the disclosure is to be treated as having been made to a person—
+  (a) on the day on which the statement is posted to the person; or
+  (b) on the day on which the disclosure statement is sent to the information system specified by the person; or
+  (c) if subsection (1)﻿(d) or (e) applies, on the day on which the electronic communication referred to in that paragraph is sent to the person.
+(6)
 
 ### Subpart 5 — Interest charges
 
@@ -1296,6 +1309,9 @@ This Part sets out—
   (d) any action to recover any amount owing by the debtor to the creditor under the credit contract after the consumer goods are sold under subpart 5 (see sections 83ZI(1)﻿(d) and 83ZM).
 (7) In this section, an application under section 55 is decided when the creditor gives written notice of the creditor's decision under section 57A(1)﻿(c)﻿(ii).
 (8) To avoid doubt, the creditor or the creditor's agent may, subject to this Part, to any court order, and to any terms on which the complaint was resolved, take, or continue, the enforcement action referred to in subsection (1) or (2) from the time that the complaint has been resolved or (in the case of an unsuccessful application under section 55) the application has been decided.
+(9) Despite subsections (1) and (2), the creditor may take an enforcement action referred to in subsection (6)﻿(a) to (c) (but not an action referred to in subsection (6)﻿(d)) if—
+  (a) the person responsible for the dispute resolution scheme to which a complaint has been referred under this section has given notice (which may include a preliminary view) to the effect that the enforcement action would be in the best interests of the debtor; and
+  (b) the debtor and the creditor have agreed in writing to the enforcement action.
 
 ### 83K Subsequent complaints
 (1) This section applies if—
@@ -1667,14 +1683,22 @@ This subpart does not limit the jurisdiction of a dispute resolution scheme in r
 ### Subpart 2 — Statutory damages
 
 ### 88 Creditors, creditors' agents, lessors, transferees, and buy-back promoters liable for statutory damages
-(1) The debtor under a consumer credit contract is entitled to recover from the creditor under the contract the amount of the statutory damages set out in section 89 if the creditor breaches, in connection with the contract, any of the provisions of sections 17 to 24, 32 to 40, and 70.
+(1) The debtor under a consumer credit contract is entitled to recover from the creditor under the contract the amount of the statutory damages set out in section 89 if the creditor breaches, in connection with the contract, any of the following provisions:
+  (a) section 9C(1) with respect to the lender responsibilities in section 9C(3)﻿(a) to (e) or (5):
+  (b) sections 17 to 24, 32 to 40, and 70:
+  (c) subpart 6A of Part 2 (provisions relating to debtors under high-cost consumer credit contracts):
+  (d) section 131B (when person needs to be certified):
+  (e) section 132A (disclosure about debt collection).
+(1AA) In the case of a breach of section 131B (when person needs to be certified), references in this Part to—
+  (a) the creditor include references to a mobile trader:
+  (b) the debtor under a consumer credit contract include references to a person to whom a mobile trader service is provided.
 (1A) The debtor under a credit contract is entitled to recover from—
   (a) the creditor under the contract the amount of the statutory damages set out in section 89 if the creditor or the creditor’s agent breaches, in connection with the contract, any of the provisions of Part 3A; and
   (b) the creditor's agent the amount of the statutory damages set out in section 89 if the creditor's agent breaches, in connection with the contract, any of the provisions of Part 3A.
 (1B) However, if a creditor’s agent breaches, in connection with a contract, any of the provisions of Part 3A, the debtor is not entitled, under subsection (1A), to recover the amount of statutory damages from—
   (a) the creditor’s agent if the debtor has already recovered that amount from the creditor:
   (b) the creditor if the debtor has already recovered that amount from the creditor’s agent.
-(2) The guarantor under a guarantee is entitled to recover from the creditor under a consumer credit contract to which the guarantee applies the amount of the statutory damages set out in section 89 if the creditor breaches, in connection with the guarantee, any of the provisions of sections 24 to 26 and 32 to 35.
+(2) The guarantor under a guarantee is entitled to recover from the creditor under a consumer credit contract to which the guarantee applies the amount of the statutory damages set out in section 89 if the creditor breaches, in connection with the guarantee, any of the provisions of sections 9C(4)﻿(a) to (d), 24 to 26, and 32 to 35.
 (3) The lessee under a consumer lease is entitled to recover from the lessor under the lease the amount of the statutory damages set out in section 89 if the lessor breaches, in connection with the lease, any of the provisions of sections 32 to 35, 64 to 67, and 70.
 (4) The occupier under a buy-back transaction is entitled to recover from the transferee under the transaction the amount of the statutory damages set out in section 89 if the transferee breaches, in connection with the transaction, any of the provisions of sections 32 to 35, 72, and 77 to 79.
 (5) If section 74 applies, the occupier under a buy-back transaction is entitled to recover from the buy-back promoter the amount of the statutory damages set out in section 89 if the buy-back promoter breaches, in connection with the transaction, any of the provisions of sections 32 to 35, and 72.
@@ -1682,6 +1706,10 @@ This subpart does not limit the jurisdiction of a dispute resolution scheme in r
 
 ### 89 Amount of statutory damages
 (1) The amount of the statutory damages is,—
+  (aaa) in the case of a breach of section 9C(3)﻿(a) (failure to make reasonable inquiries before entering into an agreement), an amount equal to the interest charges, credit fees, and default fees that have become payable under the agreement or, in the case of a breach of section 9C(3)﻿(a) that relates to a material change, an amount equal to the interest charges, credit fees, and default fees that have become payable as a result of the change; and
+  (aab) in the case of a breach of section 9C(4)﻿(a) (failure to make reasonable inquiries before a guarantee is given), the amount paid by the guarantor in order to comply with the guarantee; and
+  (aac) in the case of a breach of section 9C(5)﻿(a) (failure to make reasonable inquiries before entering into a relevant insurance contract), the amount paid by the borrower under the contract; and
+  (aad) in the case of a breach of section 45F or 45G, an amount equal to the interest charges, credit fees, and default fees that have become payable under the contract that was entered into in breach of the relevant section; and
   (a) in the case of a breach of section 18, an amount equal to the interest charges, credit fees, and default fees payable under the consumer credit contract during the period to which the breach relates; and
   (b) in the case of a breach of section 24, an amount equal to the interest charges, credit fees, and default fees payable under the consumer credit contract during the period commencing on the date that the request for disclosure was received and ending on the earlier of the following:
     (i) the day on which disclosure was made in accordance with section 24:
@@ -1709,7 +1737,7 @@ This subpart does not limit the jurisdiction of a dispute resolution scheme in r
 ### 92 Guidelines for reducing statutory damages
 In deciding whether to make an order under section 91 and the terms and conditions applying to an order under that section, the court must have regard to the following matters:
   (a) the role that statutory damages have in providing incentives for compliance with this Act:
-  (b) whether the creditor or lessor has an appropriate compliance programme:
+  (b) whether the creditor or lessor had an appropriate compliance programme:
   (c) the extent of, and the reasons for, the breach or breaches:
   (d) the extent to which any person has been prejudiced by the breach or breaches:
   (e) the extent to which the creditor, lessor, transferee, or buy-back promoter has compensated, or agreed to compensate, the persons who are affected by the breach or breaches:
@@ -1747,6 +1775,7 @@ The court may make all or any of the orders referred to in section 94 if the cou
   (cc) any other order that the court thinks fit for the purpose of giving effect to an order under paragraph (ca) or (cb):
   (d) an order for any consequential relief that the court thinks fit.
 (2) The court must not make an order under subsection (1)﻿(c) if a penalty has been imposed against the person in relation to the same conduct under section 103.
+(3) In determining an order under subsection (1)﻿(c), the court must have regard to whether a penalty has been imposed against the person in relation to the same conduct under section 107A.
 
 ### 94A Court orders in relation to repossessions
 (1) The court may make all or any of the orders referred to in this section if the court finds that a person (whether or not that person is a party to any proceedings) has suffered loss or damage by the conduct of any creditor, or creditor's agent, that constitutes, or would constitute, a breach of any of the provisions of Part 3A.
@@ -1765,6 +1794,23 @@ The court may make all or any of the orders referred to in section 94 if the cou
 (2) An application for an order under section 93 or 94A may be made at any time within 3 years after the date on which the loss or damage was discovered or ought reasonably to have been discovered.
 (3) An application made by the Commission for an order under section 93 or 94A may be made on behalf of a person or a class of persons.
 (4) Nothing in section 93 or 94A or this section limits or affects subpart 5 of Part 2 of the Contract and Commercial Law Act 2017.
+
+### 95A Court may reduce effect of failure to make disclosure
+(1) The court may, on the application of a creditor under a class of consumer credit contracts, order that the effect under section 48 or 99(1A) of a failure to make initial disclosure under section 17, or variation disclosure under section 22, be extinguished or reduced to an amount specified by the court if the court considers that it is just and equitable that an order be made.
+(2) The court may, on the application of a lessor under a class of consumer leases, order that the effect under section 101(2) of a failure to make disclosure under section 64 or 65 be extinguished or reduced to an amount specified by the court if the court considers that it is just and equitable that an order be made.
+(3) The court may, on the application of a transferee under a class of buy-back transactions, order that the effect under section 102(2) of a failure to make disclosure under section 72 or 77 be extinguished or reduced to an amount specified by the court if the court considers that it is just and equitable that an order be made.
+(4) The order may be made on the terms and conditions that the court thinks fit.
+
+### 95B Guidelines for reducing effect of failure to make disclosure
+In deciding whether to make an order under section 95A and the terms and conditions applying to the order, the court must have regard to the following matters:
+  (a) the role that sections 99(1A), 101(2), and 102(2) have in providing incentives for compliance with this Act:
+  (b) whether the person applying for the order had an appropriate compliance programme:
+  (c) the extent of, and the reasons for, the breach or breaches:
+  (d) the extent to which any person has been prejudiced by the breach or breaches:
+  (e) whether the breach was due to a reasonable mistake or due to events outside the control of the person applying for the order:
+  (f) whether the breach was remedied (to the extent that it could be remedied) as soon as practicable after the breach was discovered by the person or brought to the notice of the person applying for the order:
+  (g) the extent to which the person applying for the order has compensated or offered to compensate any person who has suffered loss or damage by that breach:
+  (h) any other matters as the court thinks fit.
 
 **Injunctions**
 
@@ -1834,8 +1880,13 @@ If the notice requirements under section 83G or 83V, as the case may be, have no
   (e) that the debtor has no liability for the costs of borrowing that would otherwise have accrued before the date on which the notice was given.
 
 ### 100 Enforcement of guarantee prohibited
+(1AAA) No person may enforce a guarantee after the court finds a breach of section 9C(4)﻿(a) in respect of the guarantee, unless the court grants relief to the creditor under subsection (1AAB).
+(1AAB) The court may, on the application of a creditor under the consumer credit contract, grant relief from the effect of subsection (1AAA) if the court considers it fair and reasonable in the circumstances after having had regard to all relevant matters, including—
+  (a) the nature and seriousness of the breach:
+  (b) the ability of the guarantor to comply with the guarantee without suffering substantial hardship:
+  (c) any statutory damages that have been paid or are payable and the extent to which statutory damages have been, or are to be, extinguished or reduced under section 91.
 (1) If disclosure is required to be made under section 25 or section 26, no person may enforce the guarantee before disclosure is made.
-(2) Failure to comply with section 25 or section 26 does not affect the ability of a person to enforce a consumer credit contract against the debtor.
+(2) Failure to comply with section 9C(4)﻿(a) or section 25 or section 26 does not affect the ability of a person to enforce a consumer credit contract against the debtor.
 (3) Failure to make disclosure to a debtor in accordance with this Act does not affect the ability of a person to enforce a guarantee.
 
 ### 101 Enforcement of consumer lease prohibited
@@ -1959,14 +2010,69 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 ### Subpart 5 — Defence
 
 ### 106 Reasonable mistake defence
-(1) Every person has a defence to a claim for statutory damages under section 88 or a prosecution under section 103(1), in connection with a breach of this Act, if the person proves that—
+(1) Every person has a defence to a claim for statutory damages under section 88, a prosecution under section 103(1), or proceedings for pecuniary penalties under subpart 5A, in connection with a breach of this Act, if the person proves that—
   (a) the breach was due to a reasonable mistake or due to events outside of the person's control; and
   (b) the breach was remedied (to the extent that it could be remedied) as soon as practicable after the breach was discovered by the person or brought to the person's notice; and
   (c) the person has compensated or offered to compensate any person who has suffered loss or damage by that breach.
 (2) For the avoidance of doubt, a mistake does not include a mistake of law or a mistake in the interpretation of any enactment or of any document.
 
 ### 107 Relevance of compliance programme
-The court must, in determining whether the breach is due to a reasonable mistake, take into account whether the person has in place an appropriate compliance programme.
+The court must, in determining whether the breach is due to a reasonable mistake, take into account whether the person had in place an appropriate compliance programme.
+
+### Subpart 5A — Pecuniary penalties
+
+### 107A Pecuniary penalties
+(1) The court may, on the application of the Commission, order a person to pay to the Crown the pecuniary penalty that the court determines to be appropriate if the court is satisfied that the person—
+  (a) has contravened any of the following provisions:
+    (i) section 9C(1) (lender responsibility principles), except to the extent that that provision relates to section 9C(3)﻿(f):
+    (ii) section 9CA (failure to keep records about reasonable inquiries and provide records on request):
+    (iii) section 41 (unreasonable credit fee or default fee):
+    (iv) section 41A (duties in respect of records and reviews about how fees calculated):
+    (v) subpart 6A of Part 2 (provisions relating to debtors under high-cost consumer credit contracts):
+    (vi) section 59B(1) (duty of directors and senior managers of creditors):
+    (vii) section 131B (when person needs to be certified):
+    (viii) section 131D (prohibitions on holding out that person is certified):
+    (ix) section 131R (duty to notify changes):
+    (x) an order made under section 98A (compliance orders) or section 98B (order to disclose information or publish advertisement); or
+  (b) has attempted to contravene such a provision; or
+  (c) has aided, abetted, counselled, or procured any other person to contravene such a provision; or
+  (d) has induced, or attempted to induce, any other person, whether by threats or promises or otherwise, to contravene such a provision; or
+  (e) has been in any way, directly or indirectly, knowingly concerned in, or party to, the contravention by any other person of such a provision; or
+  (f) has conspired with any other person to contravene such a provision.
+(2) In determining an appropriate penalty under this section, the court must have regard to all relevant matters, in particular,—
+  (a) any exemplary damages awarded under section 94(1)﻿(c); and
+  (b) the nature and extent of the contravention; and
+  (c) the nature and extent of any loss or damage suffered by any person because of the contravention; and
+  (d) any gains made or losses avoided by the person in contravention; and
+  (e) the circumstances in which the contravention took place (including whether the contravention was intentional, inadvertent, or caused by negligence).
+(3) The amount of any pecuniary penalty must not, in respect of each act or omission, exceed,—
+  (a) in the case of an individual, $200,000; or
+  (b) in any other case, $600,000.
+(4) Proceedings under this section may be commenced within 3 years after the matter giving rise to the contravention was discovered or ought reasonably to have been discovered.
+(5) Where conduct by any person constitutes a contravention of 2 or more provisions referred to in subsection (1)﻿(a), proceedings may be instituted under this Act against that person in relation to the contravention of any 1 or more of the provisions; but no person is liable to more than 1 pecuniary penalty under this section in respect of the same conduct.
+
+### 107B Proceedings for pecuniary penalties
+In any proceedings under this subpart for a pecuniary penalty,—
+  (a) the standard of proof is the standard of proof that applies in civil proceedings; and
+  (b) the Commission may, by order of the court, obtain discovery and administer interrogatories.
+
+### 107C Relationship between pecuniary penalties and criminal liability
+(1) Once criminal proceedings against a person for an offence under this or any other Act are determined, the High Court may not order the person to pay a pecuniary penalty under this subpart in respect of the conduct, events, transactions, or other matters that were the subject of the criminal proceedings.
+(2) Once civil proceedings against a person for a pecuniary penalty under this subpart are determined, the person may not be convicted of an offence under this or any other Act in respect of the conduct, events, transactions, or other matters that were the subject of the civil proceedings.
+(3) Any uncompleted proceedings for an order under this Act that a person pay a pecuniary penalty must be stayed if criminal proceedings are started or have already been started against the person for the same act or omission, or substantially the same act or omission, in respect of which the pecuniary penalty order is sought.
+
+### 107D Restriction on indemnities
+(1) A body corporate must not indemnify any director, employee, or agent, or former director, employee, or agent, of the body corporate or of any related body corporate (person A) in respect of—
+  (a) any pecuniary penalty imposed on person A under this Act; or
+  (b) any costs incurred by person A in defending any civil proceedings in which the pecuniary penalty referred to in paragraph (a) is imposed.
+(2) An indemnity given in contravention of subsection (1) is void.
+(3) In this section and section 107E, indemnify includes relieve or excuse from liability, whether before or after the liability arises, and indemnity has a corresponding meaning.
+
+### 107E Restriction on insurance
+(1) No person may enter into a contract of insurance that indemnifies or purports to indemnify a person (person A) in respect of—
+  (a) any pecuniary penalty imposed on person A under this Act; or
+  (b) any costs incurred by person A in defending any civil proceedings in which the pecuniary penalty referred to in paragraph (a) is imposed.
+(2) Any contract that does so is void.
 
 ### Subpart 6 — Prohibition on certain creditors, lessors, transferees, and buy-back promoters
 
@@ -2031,6 +2137,7 @@ The court must, in determining whether the breach is due to a reasonable mistake
 ### 113 Application of Commerce Act 1986
 The following provisions of the Commerce Act 1986 apply with all necessary modifications:
   (a) sections 15 to 17 (proceedings of the Commission):
+  (aa) sections 74A to 74C (enforceable undertakings):
   (b) section 90 (conduct by servants or agents):
   (c) section 98 (Commission may require person to supply information or documents or give evidence):
   (d) sections 98A and 98G (Commission's powers of search and seizure):
@@ -2212,43 +2319,133 @@ This Act applies to a credit contract, guarantee, lease, or buy-back transaction
   (a) is governed by the law of New Zealand; or
   (b) would be governed by the law of New Zealand but for a choice of law provision in the contract, guarantee, lease, or transaction.
 
+**Declarations about credit contracts and consumer credit contracts**
+
+### 137A Class declarations about credit contracts and consumer credit contracts
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+  (a) declaring that any class of arrangements or facilities are not credit contracts:
+  (b) declaring any class of arrangements or facilities that has, or is intended to have, the effect of a person receiving a loan, or goods or services with deferred payment, to be consumer credit contracts:
+  (c) declaring any class of consumer credit contracts to be high-cost consumer credit contracts or related consumer credit contracts for the purposes of subpart 6A of Part 2 (provisions relating to debtors under high-cost consumer credit contracts).
+(2) A power in this section to make regulations may be used only on the recommendation of the Minister, and the Minister may make a recommendation only if the Minister—
+  (a) is satisfied, in the case of subsection (1)﻿(a), that the declaration—
+    (i) is necessary or desirable to promote certainty about whether this Act applies; and
+    (ii) is not inconsistent with the purposes of this Act set out in section 3; and
+    (iii) would not cause significant detriment to consumers; and
+  (b) is satisfied, in the case of subsection (1)﻿(b), that the regulations are necessary or desirable in order to promote the purposes of the Act set out in section 3; and
+  (c) is satisfied, in the case of subsection (1)﻿(c), that the regulations are necessary or desirable in order to promote the purpose of subpart 6A of Part 2; and
+  (d) has had regard to the economic substance of the relevant arrangement or facility; and
+  (e) has consulted the persons or representatives of the persons who the Minister considers will be substantially affected by the regulations.
+(3) If the Minister makes a recommendation, the Minister’s reasons for making the recommendation (including why the declaration is appropriate) must be published together with the regulations.
+(4) If a declaration is made under subsection (1)﻿(b) or (c), this Act applies with any modifications specified in the regulations and with all other necessary modifications.
+
+### 137B Declarations about particular arrangements or facilities
+(1) The Minister may declare that the following are not credit contracts:
+  (a) a particular arrangement or facility:
+  (b) a class of arrangements or facilities associated with or involving 1 or more particular persons (for example, a type of product offered by a particular person or group of companies).
+(2) A power in this section may be exercised only if the Minister—
+  (a) is satisfied that the declaration—
+    (i) is necessary or desirable to promote certainty about whether this Act applies; and
+    (ii) is not inconsistent with the purposes of this Act set out in section 3; and
+    (iii) would not cause significant detriment to consumers; and
+  (b) has had regard to the economic substance of the relevant arrangement or facility; and
+  (c) has consulted—
+    (i) the Commission; and
+    (ii) the persons or representatives of the persons who the Minister considers will be substantially affected by the declaration.
+(3) A declaration under this section—
+  (a) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; and
+  (b) must, as soon as practicable after it is made, be—
+    (i) published on an Internet site maintained by or on behalf of the Ministry; and
+    (ii) notified in the Gazette.
+(4) The Minister’s reasons for making a declaration under this section (including why the declaration is appropriate) must be published together with the declaration.
+
+### 137C General provisions about all declarations
+(1) A declaration under section 137A or 137B may be made subject to terms and conditions, including (without limitation) terms and conditions relating to—
+  (a) the circumstances in which the declaration applies, whether by reference to any persons, arrangements, or facilities, or any other circumstances:
+  (b) transitional matters.
+(2) Nothing in this section prevents the granting of an exemption under section 138 that applies to a matter that is the subject of a declaration.
+(3) A failure to consult as required by section 137A or 137B does not affect the validity of a declaration.
+(4) A declaration under section 137A that something is a consumer credit contract prevails over a statement to the contrary in section 15.
+
 **Regulations**
 
 ### 138 Regulations
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing any class of credit contract that is exempted from being a consumer credit contract and the terms and conditions (if any) applying to the exemption:
   (ab) exempting any credit contract or other agreement or class of credit contract or other agreement from the application of any provision or provisions of this Act, and prescribing the terms and conditions (if any) of the exemption:
+  (aba) exempting any person or class of persons from being a creditor under a consumer credit contract or class of consumer credit contracts for the purpose of this Act or applying any provision or provisions of this Act, and prescribing the terms and conditions (if any) of the exemption:
+  (abb) declaring any person or class of persons to be creditors under a consumer credit contract or class of consumer credit contracts:
+  (abc) setting advertising standards for the purposes of section 9C(3)﻿(b)﻿(i) (lender responsibility principles), which may include—
+    (i) what advertisements must or must not contain:
+    (ii) the manner in which advertising must or may be done:
+    (iii) circumstances in which advertising must not be distributed to a person (including prohibitions on advertising):
+  (abd) prescribing, for the purposes of section 9C,—
+    (i) inquiries that must be made before entering into, or making a material change to, an agreement, a guarantee, or an insurance contract:
+    (ii) processes, practices, and procedures that a lender should follow when making reasonable inquiries:
+    (iii) the way in which the results of the inquiries must be taken into account:
+    (iv) circumstances that would prevent a lender from being satisfied as to a matter:
   (ac) prescribing matters for the purposes of section 19(1)﻿(i), including what warning and other information must be contained, how the warning and information must be presented, how amounts or other matters are calculated or determined, and the circumstances (if any) in which the warning or information is not required:
   (b) prescribing any other information that must be disclosed under section 22 or section 23 or section 26:
   (c) prescribing, for the purposes of section 23 or section 26, any alternative publication requirements in relation to disclosing a change to the amount of an interest rate or a change to the amount of any fee or charge payable:
   (d) prescribing any class of change to a matter to which section 23(5) applies:
-  (da) prescribing circumstances for the purposes of section 26A(3):
+  (da) in the case of circumstances that relate to securitisation or covered bond arrangements or similar arrangements,—
+    (i) prescribing circumstances for the purposes of section 26A(3) and how Part 3A applies in those circumstances (which may include treating a contract manager as if they were a creditor for all or any purposes of Part 3A):
+    (ii) prescribing circumstances for the purposes of section 59B(4) and how section 59B applies in those circumstances (which may include requiring the directors and senior managers of a contract manager to exercise due diligence to ensure that a creditor complies with its duties under this Act):
+    (iii) prescribing modifications to other provisions that relate to the application, effect, or enforcement of those provisions:
   (db) prescribing matters for the purposes of section 32(1)﻿(ba), including prescribing—
     (i) 1 or more forms:
     (ii) when a form must be used:
     (iii) information or warnings that must be included in the form that are in addition to the key information set out in Schedule 1 or other information required by this Act:
+  (dba) prescribing for the purposes of section 26B (disclosure about dispute resolution scheme and financial mentoring services),—
+    (i) when information needs to be provided:
+    (ii) what information needs to be provided:
+    (iii) the manner in which that information needs to be provided:
   (dc) prescribing the particular matters required to meet all or any of the requirements under this Act for publication, disclosure, notice, or other provision of information:
   (dd) prescribing the form of statements that must be used to meet all or any of the requirements under this Act for publication, disclosure, notice, or other provision of information:
   (de) prescribing how the information to be disclosed must be presented, including, but not limited to, requirements as to the precise manner of disclosure:
   (e) prescribing model disclosure statements for the purposes of section 34 that comply with section 32, and the terms and conditions on which the model disclosure statements may be used:
   (f) prescribing, for the purposes of section 33, the assumptions that may be made when disclosing information that is required to be disclosed under this Act and the terms and conditions (if any) that apply to those assumptions:
+  (fa) providing for the calculation of matters in paragraph (b) or (c) of the definition of high-cost consumer credit contract:
+  (fb) prescribing a procedure or procedures for calculating the maximum rate of charge for the purposes of section 45H (rate cap):
+  (fc) prescribing, for the purposes of section 45H, the assumptions that may be made when calculating the maximum rate of charge and the terms and conditions (if any) that apply to those assumptions:
   (g) prescribing a procedure or procedures for calculating a reasonable estimate of a creditor's loss arising from full prepayment:
   (h) prescribing, for the purposes of section 52, the procedure for calculating a proportionate rebate of any premium paid for any consumer credit insurance product financed under a consumer credit contract:
   (ha) prescribing, for the purposes of section 52A or 52B, the procedure for calculating a proportionate rebate of any additional consideration paid for a repayment waiver or extended warranty:
+  (hb) prescribing matters relating to Part 5A (certification and fit and proper person requirements), including—
+    (i) persons who, or services that, are exempt for the purposes of section 131C:
+    (ii) matters that the Commission must have regard to for the purposes of section 131H(2):
+    (iii) conditions that certifications are subject to, the kinds of conditions that the Commission may impose on those certifications, or matters to which conditions imposed by the Commission may relate, for the purposes of sections 131K and 131L:
+    (iv) persons for the purposes of section 131I (notice of decisions):
+    (v) information for the purposes of section 131J(2)﻿(c) (Commission must send certification details to Registrar):
+    (vi) changes in circumstances for the purposes of section 131R(1):
+    (vii) requiring the payment to the Commission of fees and charges in connection with applications and notices under Part 5A and the amounts of those fees and charges or the manner in which those fees and charges are to be calculated:
+    (viii) authorising the Commission to require payment of any costs incurred by the Commission in connection with an application or a notice referred to in subparagraph (vii)﻿:
+    (ix) authorising the Commission, in its discretion or on any grounds that are prescribed, to refund or waive all or any part of a prescribed fee, charge, or cost payable in connection with an application or a notice referred to in subparagraph (vii):
   (i) prescribing the procedure for determining the maximum amount payable by a lessee on the termination of a consumer lease before the end of its term:
   (j) prescribing the form of the certificate that must be given under section 73:
   (ja) prescribing consumer goods or documents for the purposes of section 83ZN(1)﻿(c):
+  (jb) prescribing requirements in relation to annual returns for the purposes of section 116AAA, including the date by which the return must be provided and the 12-month period to which it must relate (by reference to annual dates):
+  (jc) prescribing information that must be disclosed under section 132A (disclosure about debt collection):
+  (jd) prescribing, for the purposes of any provision of this Act that requires a thing to be done in a prescribed manner (or for the purposes of any other regulations empowered to prescribe the manner in which something must be done), the manner in which the thing must be done, including prescribing—
+    (i) by whom, when, where, and how the thing must be done:
+    (ii) the form that must be used in connection with doing the thing:
+    (iii) what information or other evidence or documents must be provided in connection with the thing:
+    (iv) requirements with which information, evidence, or documents that are provided in connection with the thing must comply:
+    (v) that fees or charges must be paid in connection with doing the thing:
+    (vi) that the Commission may determine or prescribe any of the matters under subparagraphs (i) to (iv):
   (k) prescribing, for the purposes of Schedule 1, any other information or warnings as key information concerning a consumer credit contract:
   (l) prescribing, for the purposes of Schedule 2, any other information or warnings as information concerning a consumer lease:
   (m) prescribing, for the purposes of Schedule 3, any other information or warnings as information concerning a buy-back transaction:
   (n) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
-(1A) Regulations may be made under subsection (1)﻿(a) or (ab) only on the recommendation of the Minister, and the Minister may make a recommendation only if he or she—
+(1A) Regulations may be made under subsection (1)﻿(a) to (aba) only on the recommendation of the Minister, and the Minister may make a recommendation only if he or she—
   (a) has had regard to the purposes of this Act set out in section 3; and
   (b) is satisfied that the exemption would not cause significant detriment to debtors under credit contracts, lessees under consumer leases, or occupiers under buy-back transactions; and
   (c) is satisfied, in the case of—
-    (i) subsection (1)﻿(a), that compliance with the provisions of this Act relating to consumer credit contracts would, in the circumstances, require a creditor or a class of creditors to comply with requirements that are unduly onerous or burdensome:
+    (i) subsection (1)﻿(a) or (aba), that compliance with the provisions of this Act relating to consumer credit contracts would, in the circumstances, require a creditor or a class of creditors to comply with requirements that are unduly onerous or burdensome:
     (ii) subsection (1)﻿(ab), that compliance with the relevant provision or provisions would, in the circumstances, require a creditor, lessor, or transferee or a class of creditors, lessors, or transferees to comply with requirements that are unduly onerous or burdensome.
-(1B) If the Minister makes a recommendation under subsection (1A) relating to an exemption in regulations made under subsection (1)﻿(a) or (ab), the Minister’s reasons for making the recommendation (including why the exemption is appropriate) must be published together with the regulations.
+(1B) If the Minister makes a recommendation under subsection (1A) relating to an exemption in regulations made under subsection (1)﻿(a) to (aba), the Minister’s reasons for making the recommendation (including why the exemption is appropriate) must be published together with the regulations.
+(1BA) Regulations may be made under subsection (1)﻿(abb) (declaring any person or class of persons to be creditors) or (abc) (advertising) or (abd) (inquiries) only on the recommendation of the Minister, and the Minister may make a recommendation only after consulting the persons or representatives of the persons who the Minister considers will be substantially affected by the regulations.
+(1BB) Regulations may be made under subsection (1)﻿(jb) only on the recommendation of the Minister, and the Minister may make a recommendation only after consulting the Commission and representatives of the creditors that would be affected.
+(1BC) A failure to consult as required by this section does not affect the validity of any regulation.
 (1C) Regulations may be made under subsection (1)﻿(da) only on the recommendation of the Minister, and the Minister may make a recommendation only if he or she is satisfied that the circumstances that are prescribed relate to a securitisation or covered bond arrangement or any similar arrangement.
 (1D) For the purposes of subsection (1)﻿(db) to (de), regulations may prescribe different requirements for different types or classes of disclosure, persons who are required to make disclosure, contracts, leases, transactions, or other circumstances.
 (2) For the purposes of subsection (1)﻿(e), regulations may—
@@ -2260,6 +2457,11 @@ This Act applies to a credit contract, guarantee, lease, or buy-back transaction
   (c) when any advance or payment will be made or will become payable; and
   (d) when any interest charge, fee, or other charge will be paid or become payable; and
   (e) the actions or behaviour of any person.
+(4) Regulations may also contain different provisions in relation to different—
+  (a) classes of lenders or creditors:
+  (b) classes of borrowers or debtors:
+  (c) classes of guarantors:
+  (d) classes of agreements or contracts.
 
 **Acts amended and repealed**
 
@@ -2332,6 +2534,77 @@ In this schedule,—
 (4) In this clause, existing agreement means any credit contract, security agreement, lease, buy-back transaction, or other contract or arrangement—
   (a) to which the principal Act or the Credit (Repossession) Act 1997 (as in force before this clause came into force) applies; and
   (b) that was entered into before this clause came into force.
+
+**Credit Contracts Legislation Amendment Act 2019**
+
+### 6 Interpretation
+In clauses 7 to 11, unless the context otherwise requires,—
+  - **2019 Act** means the Credit Contracts Legislation Amendment Act 2019
+  - **agreement** means any credit contract, security agreement, lease, buy-back transaction, or other contract or arrangement to which the principal Act applies
+  - **commencement** , in relation to any provision of the 2019 Act, means the commencement of that provision
+  - **existing agreement** means an agreement entered into before the commencement of the relevant provision
+  - **new agreement** means an agreement entered into after the commencement of the relevant provision
+  - **principal Act** means the Credit Contracts and Consumer Finance Act 2003 as it read before the relevant provision of the 2019 Act commenced.
+
+**Application to existing agreements**
+
+### 7 General rule: existing agreements
+Except as provided for in clauses 8 to 10,—
+  (a) an amendment to the principal Act in the 2019 Act does not apply to existing agreements:
+  (b) the principal Act continues to apply for the purpose of existing agreements, and for the completion of a matter or thing or the bringing or completion of proceedings that relate to existing agreements, as if the relevant provision of the 2019 Act had not commenced.
+
+### 8 Application to existing agreements: Royal assent commencement
+Disclosure
+(1) The amendment made by section 16(1) (decreases) of the 2019 Act applies to variation disclosure that is required to be made after commencement.
+(2) The amendments made by sections 17(1), 18(1), and 19 (disclosure if creditor cannot locate) of the 2019 Act apply to disclosure that is required to be made after commencement.
+(3) The amendments made by the following sections of the 2019 Act apply to existing agreements in respect of disclosure that is required to be made after commencement:
+  (a) section 22 (amendment to section 32(4)):
+  (b) section 23 (amendments to section 35).
+Statutory damages and other remedies and enforcement
+(4) The amendments made by section 28 (amendments to section 83J) of the 2019 Act apply in respect of enforcement action that occurs after commencement.
+(5) The amendments made by sections 30, 31, 32, and 34(2) of the 2019 Act apply in respect of existing agreements for breaches that occur after commencement.
+(6) The amendments made by section 35 of the 2019 Act apply to existing agreements on or after commencement to the extent that section 95A (court may reduce effect of failure to make disclosure) applies to the costs of borrowing, costs of the lease, or costs of the buy-back transaction (as the case may be) in relation to any period after commencement.ExampleA creditor (C) and Ms S entered into a consumer credit agreement on 1 July 2019.C failed to make initial disclosure. C can rely after commencement on section 95A in respect of that failure, but only in respect of costs of borrowing in relation to the period after commencement.
+(7) The amendments made by section 43 (pecuniary penalties) of the 2019 Act apply in respect of existing agreements for breaches or possible breaches that occur after commencement.
+(8) The amendments made by section 46 (enforceable undertakings) of the 2019 Act apply to breaches in respect of existing agreements, whether those breaches occurred or occur before, on, or after commencement.
+
+### 9 Application to existing high-cost consumer credit contracts: 1 June 2020 commencement
+(1) The amendments made by section 25 (new subpart 6A of Part 2) of the 2019 Act apply to an existing agreement as set out in this clause.
+Costs cap
+(2) Section 45E (costs of borrowing must not exceed loan advance) applies to an existing agreement as follows: ExampleBefore commencement, Ms D borrows $100 from a creditor (C) under a consumer credit contract that has an annual interest rate of 500% pa and a term of 6 weeks. Section 45E does not limit the amount that can be recovered under that contract.As at commencement, Ms D has repaid $92, consisting of $32 in interest and fees and $60 of the principal. Her unpaid balance is $40.After commencement, Ms D refinances by entering into a further high-cost consumer credit contract with C to repay the remaining $40, and will receive a further advance of $50, ie, $90 in total.The first advance of $100 in the pre-commencement contract caps the maximum costs of borrowing under the new contract. The maximum costs of borrowing that Ms D will have to pay under the new contract is $100 - $32 = $68 (ie, the amount in interest and fees charged on the first contract ($32) is subtracted from the first advance of $100 to give a remaining cap of $68).
+  (a) section 45E restricts maximum costs of borrowing under an existing agreement only if the parties to the agreement agree to change the agreement with effect after commencement; and
+  (b) the rules in that section for calculating the first advance and whether a contract is a related consumer credit contract apply equally to all agreements (including those entered into before commencement).
+Sections 45F and 45G
+(3) In section 45F (certain high-cost consumer credit contracts with other creditors prohibited), an existing agreement counts in the same way as a new agreement for the purpose of determining whether a person has had an unpaid balance on any high-cost consumer credit contract at any time within the preceding 15 days.
+(4) In section 45G (high-cost consumer credit contracts with certain repeat debtors prohibited), an existing agreement counts in the same way as a new agreement for the purpose of determining whether a person has entered into a high-cost consumer credit contract at any time within the preceding 90 days.
+
+### 10 Other application to existing agreements
+(1) The amendments to the principal Act made by section 10(1) and (8) of the 2019 Act apply to existing agreements in respect of material changes after commencement.ExampleA creditor (C) increases the credit limit under an existing consumer credit agreement after 1 April 2021.C must make reasonable inquiries about suitability and affordability before making the change. If C fails to comply, the debtor may seek statutory damages and C may be liable for civil pecuniary penalties as provided in Part 5A.
+(2) The amendments made by section 20 of the 2019 Act (disclosure about dispute resolution schemes and financial mentoring services) apply to existing agreements in the same way as they apply to new agreements (for example, disclosure is required if a complaint is made after commencement regardless of whether the agreement is an existing or a new agreement).
+(3) The amendments made by section 27 of the 2019 Act (duty of directors and senior managers of creditors) apply to duties and obligations of the creditor in respect of existing agreements that arise for performance after commencement or that continue to require performance after commencement.
+(4) The amendment made by section 33 of the 2019 Act applies in respect of existing agreements for breaches that occur after commencement.
+(5) The amendments made by sections 36 to 42 of the 2019 Act apply in respect of existing agreements for breaches that occur after commencement.
+(6) The amendments made by section 48 of the 2019 Act (directors and senior managers may also be liable for statutory damages or compensation) apply, in respect of existing agreements, for breaches that occur after commencement of duties or obligations of the creditor that arise for performance after commencement or that continue to require performance after commencement.
+(7) Section 131B (when person needs to be certified) of the principal Act (as inserted by section 50 of the 2019 Act) applies in respect of creditors or mobile traders who enter into a new credit contract, or agree a variation to an existing credit contract, after commencement.
+(8) The amendments made by section 51 of the 2019 Act (disclosure about debt collection) apply to all existing agreements to the extent that debt collection starts after commencement or a new person becomes a debt collector after commencement.ExampleA creditor (C) and Ms S enter into a consumer credit agreement on 1 July 2019.C starts debt collection on 1 May 2021. Section 132A will apply to the debt collector.
+
+**Application to new agreements**
+
+### 11 New agreements
+(1) The amendments to the principal Act in the 2019 Act apply to new agreements.
+(2) Section 41A(3) of the principal Act (as inserted by section 24 of the 2019 Act) applies to new agreements regardless of whether the change occurred before, on, or after commencement.
+
+**Other application**
+
+### 12 Creditors registered as financial service providers before 1 April 2021 and mobile traders
+(1) Subclause (2) applies to every creditor that is registered under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 as at the close of 31 March 2021 and that is required to be certified under Part 5A of this Act.
+(2) Section 131B does not apply until the first due date on or after 1 April 2021 on which the person must supply to the Registrar its annual confirmation of details under section 28 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
+(3) Subclause (5) applies to every creditor—
+  (a) that has made an application to the Commerce Commission in accordance with section 131F no less than 2 months before the first due date referred to in subclause (2); and
+  (b) that is registered under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 as at the close of 31 March 2021.
+(4) Subclause (5) also applies to every mobile trader that has made an application to the Commerce Commission in accordance with section 131F before 1 February 2021.
+(5) Section 131B does not apply to that person before the earlier of the following:
+  (a) the close of the 20th working day after the person has failed to provide to the Commission any information that the Commission has required under section 131F(3) to assist it in determining the application:
+  (b) the date on which the Commission gives a written notice of decision to the person under section 131I.
 
 ## Schedule 1 — Key information concerning consumer credit contract
 
