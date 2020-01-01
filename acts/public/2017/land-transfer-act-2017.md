@@ -1,5 +1,5 @@
 # Land Transfer Act 2017
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2020-01-01_
 
 ### 1 Title
 This Act is the Land Transfer Act 2017.
@@ -800,11 +800,8 @@ On registration of a transfer instrument that transfers or assigns an estate or 
   - **certifier** means a person who provides the certification for a transferor or a transferee in accordance with section 27 for a transfer of a specified estate in land
   - **chief executive** means the chief executive of the department
   - **exempt transfer** means a transfer of a specified estate in land that is specified as exempt from the requirements of section 78 by regulations made under this Act
-  - **main home** means, for a person, the 1 dwelling—
-    (a) that is mainly used as a residence by the person (a home); and
-    (b) with which the person has the greatest connection, if they have more than 1 home
   - **nominee** has the meaning given to it in section YB 21(2) of the Income Tax Act 2007
-  - **offshore person** has the meaning given to it in section 3(1) of the Tax Administration Act 1994
+  - **non-notifiable transfer** means a transfer specified in regulations made under this Act as a non-notifiable transfer
   - **specified estate in land** means—
     (a) freehold estates, including fee simple and life estates; and
     (b) leasehold estates; and
@@ -818,16 +815,7 @@ On registration of a transfer instrument that transfers or assigns an estate or 
   - **tax statement** means a statement that is completed and given in accordance with—
     (a) sections 78 and 79; and
     (b) if applicable, section 80.
-(2) For the purpose of this section and sections 78 to 86, non-notifiable transfer—
-  (a) means,—
-    (i) in relation to a transferee who is a natural person, the transfer of land that is intended to be used predominantly for a dwelling that will be the transferee’s main home:
-    (ii) in relation to a transferor who is a natural person, the transfer of land that has been used predominantly, for most of the time the transferor owned the land, for a dwelling that was the transferor’s main home:
-    (iii) any other transfer specified in regulations made under this Act as a non-notifiable transfer; but
-  (b) does not include—
-    (i) a transfer described in paragraph (a)﻿(i) if the transferee will own the land as a trustee:
-    (ii) a transfer described in paragraph (a)﻿(ii) if the transferor owned the land as a trustee:
-    (iii) a transfer described in paragraph (a)﻿(ii) if the transferor has relied on that paragraph at least 2 times within the 2 years immediately preceding the date of the transfer to claim that transfers were non-notifiable transfers:
-    (iv) any transfer, in relation to a transferee or a transferor who is an offshore person.
+(2)
 
 ### 78 Transferors and transferees must provide tax statement stating that transfer non-notifiable or providing tax information
 (1) An instrument to transfer a specified estate in land is not in order for registration unless—
@@ -845,6 +833,7 @@ On registration of a transfer instrument that transfers or assigns an estate or 
   (b) be dated on the date on which it was signed; and
   (c) state the transferor or transferee’s full name; and
   (d) state whether the transfer is of land that has a home on it; and
+  (da) if the land has a home on it, state whether the transfer is a main home transfer in relation to the transferor or transferee; and
   (e) state whether the transferor or, as the case may be, the transferee, or a member of that person’s immediate family, is a New Zealand citizen or a holder of a resident visa, work visa, or student visa; and
   (f) in the case of a transferee, if the transferee or a member of the transferee’s immediate family is a holder of a work visa or student visa, state whether the transferee or a member of the transferee’s immediate family intends living on the land; and
   (g) either—
@@ -863,8 +852,17 @@ On registration of a transfer instrument that transfers or assigns an estate or 
   (c) acting in the capacity of a partner in a partnership, the information must relate to the partnership; or
   (d) a person acting on behalf of an unincorporated body, the information must relate to the unincorporated body.
 (4) To avoid doubt, a transferor or transferee who does not have an IRD number must request one for the purpose of providing the information required by subsection (2)﻿(a).
-(5) In this section, IRD number has the meaning given to tax file number by section 3(1) of the Tax Administration Act 1994.
-(6) For the purpose of subsection (1)﻿(d), home means a dwelling mainly used as a residence.
+(5) In this section,—
+  - **home** means a dwelling mainly used as a residence
+  - **IRD number** has the meaning given to tax file number by section 3(1) of the Tax Administration Act 1994
+  - **main home transfer** means—
+    (a) in relation to a transferor, a transfer of land that has a home on it if the transferor—
+      (i) is a natural person, is not acting in the capacity of the trustee of a trust, and has resided in the home for more than 50% of the period during which the transferor has been an owner of the land; or
+      (ii) is a trustee of a trust a beneficiary of which is a natural person who has resided in the home for more than 50% of the period during which the land has been the property of that trust:
+    (b) in relation to a transferee, a transfer of land that has a home on it if the transferee—
+      (i) is a natural person, is not acting in the capacity of the trustee of a trust, and intends to reside in the home; or
+      (ii) is a trustee of a trust a beneficiary of which is a natural person who intends to reside in the home.
+(6)
 
 ### 80 Omissions and errors
 (1) An omission or error in any tax information provided in accordance with section 78(2) or (3) must be corrected as follows:
@@ -2658,6 +2656,14 @@ Any charge that was, immediately before the commencement of this clause, registe
 
 ### 13 Application of Interpretation Act 1999
 Except as provided in clauses 1 to 12 or in regulations made under section 228, nothing in this schedule limits the Interpretation Act 1999.
+
+### Part 2 — Provision relating to the Taxation (Annual Rates for 2019–20, GST Offshore Supplier Registration, and Remedial Matters) Act 2019
+
+### 14 Six-month transitional period for existing agreements
+(1) The old regime continues to apply in relation to a transfer of land if—
+  (a) an agreement for the transfer of the land was entered into before 1 January 2020; and
+  (b) the instrument of transfer is lodged for registration on or before 1 July 2020.
+(2) In this section, old regime means this Act as in force immediately before 1 January 2020 (when sections 130 to 133 of the Taxation (Annual Rates for 2019–20, GST Offshore Supplier Registration, and Remedial Matters) Act 2019 came into force).
 
 ## Schedule 2 — Consequential amendments
 
