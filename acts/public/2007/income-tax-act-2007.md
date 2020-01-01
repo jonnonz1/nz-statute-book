@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2019-12-20_
+_Consolidation as at 2020-01-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -4695,8 +4695,8 @@ Some definitions
 ### CW 57 Non-resident company involved in exploration and development activities
 Exempt income
 (1) An amount of income derived by a non-resident company from exploration and development activities in an offshore permit area is exempt income if it is derived in the period that—
-  (a) starts on 1 January 2015; and
-  (b) ends on 31 December 2019.
+  (a) starts on 1 January 2020; and
+  (b) ends on 31 December 2024.
 Some definitions
 (2) In this section,—
   - **exploration and development activities** —
@@ -11247,7 +11247,23 @@ Meaning of prospective bloodstock breeder
 Meaning of premier yearling sale
 (4) A premier yearling sale means a sale of bloodstock yearlings that is listed in schedule 18B (Premier yearling sales).
 Meaning of national minimum price threshold
-(5) National minimum price threshold, for a class of bloodstock and for the 2019 calendar year, means the national minimum price threshold set by section EZ 6B (National minimum price threshold for 2019 calendar year) for bloodstock of the class.
+(5) National minimum price threshold, for a class of bloodstock and for a calendar year, means the national minimum price threshold set under section EC 39C or by section EZ 6B (National minimum price threshold for 2019 calendar year), as applicable, for bloodstock of the class for the calendar year.
+
+### EC 39C Setting and publication of national minimum price threshold
+Setting of national minimum price threshold
+(1) The Commissioner must set a national minimum price threshold for each class of bloodstock set out in schedule 18C, column 2 (Breeds and classes of bloodstock). The national minimum price threshold for a calendar year (the threshold year) must be set at the amount given by,—
+  (a) for each class of the standardbred breed of horses,—
+    (i) for each of the 3 calendar years immediately preceding the threshold year, calculating the value at the 97th percentile of sale prices for that class at the premier yearling sales in the calendar year; and
+    (ii) dividing the sum of the 3 percentile values calculated in subparagraph (i) by 3; and
+    (iii) rounding the amount calculated in subparagraph (ii) to the nearest multiple of $1,000, with the amount being rounded up if it ends in $500:
+  (b) for each class of the thoroughbred breed of horses,—
+    (i) for each of the 3 calendar years immediately preceding the threshold year, calculating the value at the 95th percentile of sale prices for that class at the premier yearling sales in the calendar year; and
+    (ii) dividing the sum of the 3 percentile values calculated in subparagraph (i) by 3; and
+    (iii) rounding the amount calculated in subparagraph (ii) to the nearest multiple of $1,000, with the amount being rounded up if it ends in $500.
+When national minimum price threshold must be set and published
+(2) The Commissioner must set and publish the national minimum price threshold that applies for a calendar year before the first premier yearling sale in that calendar year is held.
+Consequence of late setting and publication of national minimum price threshold
+(3) This subsection applies when the Commissioner does not set and publish the national minimum price threshold that applies for a calendar year before the first premier yearling sale in that calendar year is held. For sales of bloodstock yearlings at the premier yearling sales that occur before the Commissioner has set and published the national minimum price threshold that applies for that calendar year, the national minimum price threshold for each class of bloodstock set out in schedule 18C, column 2 that has most recently been set under section EC 39C or by section EZ 6B (National minimum price threshold for 2019 calendar year) is, for the purposes of section EC 39B(2), treated as being the national minimum price threshold for the calendar year in which the sale occurs.
 
 ### EC 40 Later income years in breeding business
 What this section applies to
