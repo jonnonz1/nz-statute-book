@@ -1,5 +1,5 @@
 # Customs and Excise Act 2018
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2020-01-01_
 
 ### 1 Title
 This Act is the Customs and Excise Act 2018.
@@ -6381,9 +6381,7 @@ The Governor-General—
 (4) A new rate of duty that results from a change made by an order under this clause must not exceed the rate given by the following formula:a ÷ b × cwhere—ais the Index number of the Consumers Price Index All Groups excluding credit services issued by the Government Statistician for—bis the Index number of the quarterly Consumers Price Index All Groups excluding credit services issued by the Government Statistician for the quarter ending 12 months before, and expressed on the same base quarter as, the relevant quarter specified in item a of this formulacis the current rate.
   (a) the quarter ending on 31 March in the calendar year in which the new rate is to come into force, if the rate applies to an alcoholic product; or
   (b) the quarter ending on 30 September immediately before the calendar year in which the new rate is to come into force, if the rate applies to a tobacco product
-(5) If an order is made under this clause changing a rate of duty that applies to a tobacco product and the order comes into force on 1 January in 2019 or 2020, then, despite subclauses (1) and (4),—
-  (a) the new rate of duty is calculated by adding 10% of the current rate to the result achieved by applying the formula in subclause (4); and
-  (b) the order must be called (as the case requires) an Excise and Excise-equivalent Duties Table (Tobacco Products Indexation and Separate 10% Increase) Amendment Order 2018 or 2019.
+(5)
 (6) In this clause,—
   - **alcoholic product** means any goods specified in—
     (a) any of items 99.05 to 99.50 in Part A of the Excise and Excise-equivalent Duties Table; or
@@ -6393,12 +6391,7 @@ The Governor-General—
     (b) item 24.02 or 24.03 in Part B of that table.
 
 ### 22 Rates of duties for tobacco products increased by 10% if not indexed on 1 January in 2018 to 2020
-(1) This clause amends the Excise and Excise-equivalent Duties Table.
-(2) A rate of duty specified in the Excise and Excise-equivalent Duties Table is amended by this clause only if the rate is one that—
-  (a) applies to a tobacco product (as defined in clause 21(6)); and
-  (b) is in force immediately before 1 January in 2019 or 2020; and
-  (c) is not changed on that date by an Order in Council made under clause 21 to which clause 21(5) applies.
-(3) The rate is on that date replaced with a new rate calculated by adding to the rate an amount equal to 10% of the rate.
+[Repealed]
 
 ### 23 Power to change rates of duty on motor spirits
 (1) The Governor-General may, by Order in Council, amend the Excise and Excise-equivalent Duties Table so as to change a rate of duty that applies to a motor spirit.
