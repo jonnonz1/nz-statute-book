@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2020-01-01_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -3455,7 +3455,7 @@ A promoter (including a corporation sole, a body corporate, and an unincorporate
   (a) a constituency candidate:
   (b) a list candidate:
   (c) a party:
-  (d) an overseas person as defined in section 207K:
+  (d) an overseas person as defined in section 207(2):
   (e) a person involved in the administration of—
     (i) the affairs of a candidate in relation to the candidate's election campaign; or
     (ii) the affairs of a party.
@@ -4004,12 +4004,14 @@ Every person is guilty of—
       (ii) could not, in the circumstances, reasonably be expected to know the identity of the donor
   - **candidate donation** means a donation (whether of money or of the equivalent of money or of goods or services or of a combination of those things) that is made to a candidate, or to any person on the candidate's behalf, for use in the candidate's campaign for election and—
     (a) includes,—
-      (i) where goods or services are provided to a candidate, or to any person on the candidate's behalf, under a contract or arrangement at a value less than their reasonable market value, the latter being a value that exceeds $300, the amount of the difference between the former value and the reasonable market value of those goods or services; and
+      (i) where goods or services are provided by a New Zealand person to a candidate, or to any person on the candidate's behalf, under a contract or arrangement at a value less than their reasonable market value, the latter being a value that exceeds $300, the amount of the difference between the former value and the reasonable market value of those goods or services; and
+      (ia) where goods or services are provided by an overseas person to a candidate, or to any person on the candidate’s behalf, under a contract or an arrangement at a value less than their reasonable market value, the latter being a value that exceeds $50, the amount of the difference between the former value and the reasonable market value of those goods and services; and
       (ii) where goods or services are provided by a candidate under a contract or arrangement at a value that is more than their reasonable market value, the amount of the difference between that value and the reasonable market value of those goods or services; and
       (iii) where credit is provided to a candidate on terms and conditions substantially more favourable than the commercial terms and conditions prevailing at the time for the same or similar credit, the value to the candidate of those more favourable terms and conditions; but
     (b) excludes,—
       (i) the labour of any person that is provided to a candidate free of charge by that person; and
-      (ii) goods or services provided free of charge to a candidate, or to any person on the candidate's behalf, that have a reasonable market value of $300 or less
+      (ii) goods or services provided by a New Zealand person free of charge to a candidate, or to any person on the candidate's behalf, that have a reasonable market value of $300 or less; and
+      (iii) goods or services provided by an overseas person free of charge to a candidate, or to any person on the candidate’s behalf, that have a reasonable market value of $50 or less
   - **contribution** means any thing (being money or the equivalent of money or goods or services or a combination of those things) that makes up a donation or is included in a donation or has been used to wholly or partly fund a donation, and that—
     (a) was given—
       (i) to the donor; or
@@ -4021,14 +4023,23 @@ Every person is guilty of—
     (b) provides any services that make up the contribution or are included in the contribution or pays for those services out of money that the person beneficially holds
   - **donation funded from contributions** means a donation that is made up of, includes, or is wholly or partly funded from 1 or more contributions
   - **donor** means a person who makes a donation
+  - **New Zealand person** means a person who is not an overseas person
+  - **overseas person** means—
+    (a) an individual who—
+      (i) resides outside New Zealand; and
+      (ii) is not a New Zealand citizen or registered as an elector; or
+    (b) a body corporate incorporated outside New Zealand; or
+    (c) an unincorporated body that has its head office or principal place of business outside New Zealand
   - **party donation** means a donation (whether of money or of the equivalent of money or of goods or services or of a combination of those things) that is made to a party, or to any person or body of persons on behalf of the party who are involved in the administration of the affairs of the party, and—
     (a) includes,—
-      (i) where goods or services are provided to a party, or to any person on the party's behalf, under a contract or arrangement at a value less than their reasonable market value, the latter being a value that exceeds $1,500, the amount of the difference between the former value and the reasonable market value of those goods or services; and
+      (i) where goods or services are provided by a New Zealand person to a party, or to any person on the party's behalf, under a contract or arrangement at a value less than their reasonable market value, the latter being a value that exceeds $1,500, the amount of the difference between the former value and the reasonable market value of those goods or services; and
+      (ia) where goods or services are provided by an overseas person to a party, or to any person on the party’s behalf, under a contract or an arrangement at a value less than their reasonable market value, the latter being a value that exceeds $50, the amount of the difference between the former value and the reasonable market value of those goods or services; and
       (ii) where goods or services are provided by a party under a contract or arrangement at a value that is more than their reasonable market value, the amount of the difference between that value and the reasonable market value of those goods or services; and
       (iii) where credit is provided to a party on terms and conditions substantially more favourable than the commercial terms and conditions prevailing at the time for the same or similar credit, the value to the party of those more favourable terms and conditions; but
     (b) excludes—
       (i) the labour of any person that is provided to a party free of charge by that person; and
-      (ii) goods or services provided free of charge to a party, or to any person on the party's behalf, that have a reasonable market value of $1,500 or less; and
+      (ii) goods or services provided by a New Zealand person free of charge to a party, or to any person on the party's behalf, that have a reasonable market value of $1,500 or less; and
+      (iia) goods or services provided by an overseas person free of charge to a party, or to any person on the party’s behalf, that have a reasonable market value of $50 or less; and
       (iii) any candidate donation that is included in a return made by a candidate under section 209
   - **receive** , in relation to a donation, means to get a donation that has been given or sent by—
     (a) the donor directly; or
@@ -4051,13 +4062,16 @@ All references to an amount or value of a donation or contribution are inclusive
 (1) This section applies to a donation (other than an anonymous donation) that is funded from contributions.
 (2) If this section applies to a donation, the donor must, at the time of making the donation, disclose—
   (a) the fact that the donation is funded from contributions; and
-  (b) the following information about any contribution that, either on its own or when aggregated with other contributions made by or on behalf of the same contributor to the donation, exceeds $1,500 in sum or value:
-    (i) the name of the contributor; and
-    (ii) the address of the contributor; and
-    (iii) whether the contributor is an overseas person within the meaning of section 207K; and
-    (iv) the amount of the contribution or, in the case of aggregated contributions, the total amount of the aggregated contributions; and
-  (c) the total of all of the amounts disclosed under paragraph (b)﻿(iv) in relation to the donation; and
+  (b) the details specified in subsection (3) in respect of any contribution that, either on its own or when aggregated with other contributions made by or on behalf of the same contributor to the donation, exceeds—
+    (i) $1,500 in sum or value in the case of a contributor who is a New Zealand person; or
+    (ii) $50 in sum or value in the case of a contributor who is an overseas person; and
+  (c) the total of all of the amounts disclosed under paragraph (b) in relation to the donation; and
   (d) the total of all of the other contributions made in relation to the donation.
+(3) The details referred to in subsection (2)﻿(b) are—
+  (a) the name of the contributor; and
+  (b) the address of the contributor; and
+  (c) whether the contributor is an overseas person; and
+  (d) the amount of the contribution or, in the case of aggregated contributions, the total amount of the aggregated contributions.
 (3)
 (4) A candidate must give back to the donor the entire amount of the donation, or its entire value, if the candidate knows, or has reasonable grounds to believe, that the donor has failed to comply with subsection (2) in any respect.
 (5) A party secretary must give back to the donor the entire amount of the donation, or its entire value, if the party secretary knows, or has reasonable grounds to believe, that the donor has failed to comply with subsection (2) in any respect.
@@ -4083,9 +4097,21 @@ A transmitter who fails to comply with section 207E with the intention of concea
 ### 207H Offence relating to contravention of section 207G
 A person who fails to comply with section 207G with the intention of concealing the identity of the donor commits an offence and is liable on conviction to a fine not exceeding $40,000.
 
-### 207I Anonymous donation may not exceed $1,500
-(1) If an anonymous candidate donation exceeding $1,500 is received by a candidate, the candidate must, within 20 working days of receipt of the donation, pay to the Electoral Commission the amount of the donation, or its value, less $1,500.
-(2) If an anonymous party donation exceeding $1,500 is received by a party secretary, the party secretary must, within 20 working days of receipt of the donation, pay to the Electoral Commission the amount of the donation, or its value, less $1,500.
+### 207I Anonymous donations
+(1) If an anonymous candidate donation is received by a candidate, the candidate must, within 20 working days, pay to the Electoral Commission—
+  (a) the amount of the donation, or its value, less $50, if—
+    (i) the candidate believes or has reasonable grounds to suspect the donor is an overseas person; and
+    (ii) the donation exceeds $50; or
+  (b) the amount of the donation, or its value, less $1,500, if—
+    (i) the candidate does not have reasonable grounds to suspect the donor is an overseas person; and
+    (ii) the donation exceeds $1,500.
+(2) If an anonymous party donation is received by a party secretary, the party secretary must, within 20 working days, pay to the Electoral Commission—
+  (a) the amount of the donation, or its value, less $50, if—
+    (i) the party secretary believes or has reasonable grounds to suspect the donor is an overseas person; and
+    (ii) the donation exceeds $50; or
+  (b) the amount of the donation, or its value, less $1,500, if—
+    (i) the party secretary does not have reasonable grounds to suspect the donor is an overseas person; and
+    (ii) the donation exceeds $1,500.
 (3) All amounts received by the Electoral Commission under this section must be paid into a Crown Bank Account.
 
 ### 207J Offence relating to contravention of section 207I
@@ -4094,29 +4120,33 @@ A person who fails to comply with section 207G with the intention of concealing 
   (b) an illegal practice in any other case.
 (2) A candidate or party secretary who contravenes section 207I is guilty of an illegal practice.
 
-### 207K Overseas donation or contribution may not exceed $1,500
-(1) For the purposes of this section, overseas person means—
-  (a) an individual who—
-    (i) resides outside New Zealand; and
-    (ii) is not a New Zealand citizen or registered as an elector; or
-  (b) a body corporate incorporated outside New Zealand; or
-  (c) an unincorporated body that has its head office or principal place of business outside New Zealand.
-(2) If a candidate receives from an overseas person a donation that either on its own or when aggregated with all other donations made by or on behalf of the same overseas person for use in the same campaign exceeds $1,500, the candidate must, within 20 working days of receipt of the donation,—
-  (a) return to the overseas person the total amount donated by the overseas person, or its value, less $1,500; or
-  (b) if this is not possible, pay the total amount donated by the overseas person, or its value, less $1,500 to the Electoral Commission.
-(2A) If a party secretary receives from an overseas person a donation that either on its own or when aggregated with all other donations made by or on behalf of the same overseas person during the same year ending 31 December exceeds $1,500, the party secretary must, within 20 working days of receipt of the donation,—
-  (a) return to the overseas person the total amount donated by the overseas person, or its value, less $1,500; or
-  (b) if this is not possible, pay the total amount donated by the overseas person, or its value, less $1,500 to the Electoral Commission.
-(3) If a candidate or party secretary receives, from a donor who is not an overseas person (as defined in subsection (1)), a donation funded from contributions that includes any contribution exceeding $1,500 made by or on behalf of an overseas person or any contributions made by or on behalf of the same overseas person that when aggregated exceed $1,500, the candidate or party secretary must, within 20 working days after notification of that fact under section 207C,—
+### 207JA Duty to ascertain whether donation from overseas person
+(1) A candidate or party secretary who receives a donation (not being an anonymous donation) that exceeds $50 must take all reasonable steps in the circumstances to ascertain whether—
+  (a) the donation was made by or on behalf of an overseas person; or
+  (b) any contribution to the donation was made by or on behalf of an overseas person.
+(2) If a candidate or party secretary ascertains that a donation or contribution to a donation was made by an overseas person, or that there are reasonable grounds to suspect that the donation or contribution was made by an overseas person, the candidate or party secretary must comply with section 207K.
+
+### 207K Overseas donation or contribution may not exceed $50
+(1)
+(2) If a candidate receives from an overseas person a donation that either on its own or when aggregated with all other donations made by or on behalf of the same overseas person for use in the same campaign exceeds $50, the candidate must, within 20 working days of receipt of the donation,—
+  (a) return to the overseas person the total amount donated by the overseas person, or its value, less $50; or
+  (b) if this is not possible, pay the total amount donated by the overseas person, or its value, less $50 to the Electoral Commission.
+(2A) If a party secretary receives from an overseas person a donation that either on its own or when aggregated with all other donations made by or on behalf of the same overseas person during the same year ending 31 December exceeds $50, the party secretary must, within 20 working days of receipt of the donation,—
+  (a) return to the overseas person the total amount donated by the overseas person, or its value, less $50; or
+  (b) if this is not possible, pay the total amount donated by the overseas person, or its value, less $50 to the Electoral Commission.
+(3) If a candidate or party secretary receives, from a donor who is not an overseas person (as defined in subsection (1)), a donation funded from contributions that includes any contribution exceeding $50 made by or on behalf of an overseas person or any contributions made by or on behalf of the same overseas person that when aggregated exceed $50, the candidate or party secretary must, within 20 working days after notification of that fact under section 207C,—
   (a) give back to the donor the amount of the donation, or its value; or
   (b) if this is not possible, pay the amount of the donation, or its value, to the Electoral Commission.
-(4) All amounts received by the Electoral Commission under subsection (2) or (3) must be paid into a Crown Bank Account.
+(4) All amounts received by the Electoral Commission under subsection (2), (2A), or (3) must be paid into a Crown Bank Account.
 
 ### 207L Offence relating to contravention of section 207K
-(1) A person who enters into an agreement, arrangement, or understanding with any other person that has the effect of circumventing section 207K(2) or (3) is guilty of—
+(1) A person who enters into an agreement, arrangement, or understanding with any other person that has the effect of circumventing section 207K(2), (2A), or (3) is guilty of—
   (a) a corrupt practice if the circumvention is wilful; or
   (b) an illegal practice in any other case.
-(2) A candidate or party secretary who contravenes section 207K(2) or (3) is guilty of an illegal practice.
+(2) A candidate or party secretary who contravenes section 207K(2), (2A), or (3) is guilty of an illegal practice.
+(3) It is a defence to a charge under subsection (2) if the candidate or party secretary proves that he or she took all reasonable steps in the circumstances to ascertain that—
+  (a) a donation exceeding $50, or a contribution exceeding $50 to a donation, was not made by or on behalf of an overseas person; or
+  (b) there were no reasonable grounds to suspect that a donation exceeding $50, or a contribution exceeding $50 to a donation, was made by or on behalf of an overseas person.
 
 ### 207LA Offence relating to splitting party donation or contribution to party donation
 (1) A person is guilty of a corrupt practice who directs or procures, or is actively involved in directing or procuring, 2 or more bodies corporate to split between the bodies corporate a party donation in order to conceal the total amount of the donation and avoid the donation's inclusion by the party secretary in the return of party donations under section 210(1)﻿(a).
@@ -4145,14 +4175,15 @@ In this subpart, unless the context otherwise requires,—
   - **donation protected from disclosure** means a donation made under section 208A(2) in accordance with section 208A(3).
 
 ### 208A Method of making donation protected from disclosure
-(1) This section applies to any person who intends to make a donation in excess of $1,500 to a party while preventing the disclosure of the person's identity to—
+(1) This section applies to any New Zealand person who intends to make a donation in excess of $1,500 to a party while preventing the disclosure of the person's identity to—
   (a) the party concerned; and
   (b) the public generally.
 (2) A person to whom this section applies may send a donation in excess of $1,500 by way of a cheque, cash, or a bank draft to the Electoral Commission.
-(3) A donation under subsection (2) must be accompanied by a statement identifying—
+(3) A donation under subsection (2) must be accompanied by a statement specifying—
   (a) the name of the party that is to receive the donation; and
   (b) the full name and address of the donor; and
-  (c) if the donation made by the donor includes or comprises contributions from others, the name and address of every person who has contributed in excess of $1,500.
+  (c) whether the donor is a New Zealand person; and
+  (d) the matters set out in paragraphs (a) to (c) in respect of every person who has contributed in excess of $1,500 to the donation, if the donation made by the donor includes or comprises contributions from others.
 (4) The Electoral Commission may request the donor to provide any further information the Commission considers necessary to confirm the identity of the donor or other details provided by the donor, and the donor must take all reasonable steps to comply with such a request as soon as is practicable.
 
 ### 208B Limit on maximum amount of donations protected from disclosure
@@ -4172,8 +4203,9 @@ The Electoral Commission—
 ### 208D Duties of Electoral Commission on receipt of donation
 (1) The Electoral Commission, on receiving a donation under section 208A(2), must pay it to the secretary of the party for whom it is intended, unless—
   (a) the requirements of section 208A(3) or (4) have not been complied with; or
-  (b) payment of the donation would contravene a maximum amount referred to in section 208B.
-(2) If subsection (1)﻿(a) applies, the Electoral Commission must,—
+  (b) payment of the donation would contravene a maximum amount referred to in section 208B; or
+  (c) the Electoral Commission believes or has reasonable grounds to believe that the donation is made by an overseas person, or includes or comprises contributions from an overseas person.
+(2) If subsection (1)﻿(a) or (c) applies, the Electoral Commission must,—
   (a) if the name and contact details of the donor are known or can be readily ascertained, return the donation to the donor:
   (b) in any other case, pay the donation into a Crown Bank Account.
 (3) If subsection (1)﻿(b) applies, the Electoral Commission must,—
@@ -4218,10 +4250,12 @@ The Electoral Commission—
 ### 209 Return of candidate donations
 (1) A candidate must, at the same time as filing a return of election expenses under section 205K, file with the Electoral Commission a return setting out—
   (a) the details specified in subsection (2) in respect of every candidate donation (other than a donation of the kind referred to in paragraphs (c) and (d)) received by him or her that, either on its own or when aggregated with all other donations made by or on behalf of the same donor for use in the same campaign, exceeds $1,500 in sum or value; and
-  (b) whether section 207C applies to any donation and, if so, and to the extent known or ascertainable from the information supplied under that section, the details specified in subsection (3) in respect of every contribution that, either on its own or when aggregated with other contributions made by or on behalf of the same contributor to the donation, exceeds $1,500 in sum or value; and
-  (c) the details specified in subsection (4) in respect of every anonymous candidate donation received by him or her exceeding $1,500; and
-  (d) the details specified in subsection (5) in respect of every candidate donation received by him or her from an overseas person that, either on its own or when aggregated with all other donations made by or on behalf of the same overseas person for use in the same campaign, exceeds $1,500; and
-  (e) the details specified in subsection (5A) in respect of every contribution to a candidate donation received by him or her from an overseas person that, either on its own or when aggregated with other contributions made by the same overseas person to the donation, exceeds $1,500.
+  (b) whether section 207C applies to any donation and, if so, and to the extent known or ascertainable from the information supplied under that section, the details specified in subsection (3) in respect of every contribution received from a New Zealand person that, either on its own or when aggregated with other contributions made by or on behalf of the same contributor to the donation, exceeds $1,500 in sum or value; and
+  (c) the details specified in subsection (4) in respect of every anonymous candidate donation received by him or her—
+    (i) exceeding $50, in any case where the candidate believes or has reasonable grounds to suspect the donor is an overseas person; or
+    (ii) exceeding $1,500, in any other case; and
+  (d) the details specified in subsection (5) in respect of every candidate donation received by him or her from an overseas person that, either on its own or when aggregated with all other donations made by or on behalf of the same overseas person for use in the same campaign, exceeds $50; and
+  (e) the details specified in subsection (5A) in respect of every contribution to a candidate donation received by him or her from an overseas person that, either on its own or when aggregated with other contributions made by the same overseas person to the donation, exceeds $50.
 (2) The details referred to in subsection (1)﻿(a) are—
   (a) the name of the donor; and
   (b) the address of the donor; and
@@ -4282,10 +4316,12 @@ If a candidate considers that there is no relevant information to disclose under
 ### 210 Annual return of party donations
 (1) A party secretary must file with the Electoral Commission, for each year, a return of party donations setting out—
   (a) the details specified in subsection (2) for every party donation (other than a donation of the kind referred to in paragraphs (c) to (e)) received by him or her that, either on its own or when aggregated with all other donations made by or on behalf of the same donor during the year, exceeds $15,000 in sum or value; and
-  (b) whether section 207C applies to any donation and, if so, and to the extent known or ascertainable from the information supplied under that section, the details specified in subsection (3) in respect of every contribution that, either on its own or when aggregated with other contributions made by or on behalf of the same contributor to the donation, or to other donations during the year, exceeds $15,000 in sum or value; and
-  (c) the details specified in subsection (4) in respect of every anonymous party donation received by him or her exceeding $1,500; and
-  (d) the details specified in subsection (5) in respect of every party donation received by him or her from an overseas person that, either on its own or when aggregated with all other donations made by or on behalf of the same overseas person during the year, exceeds $1,500; and
-  (da) the details specified in subsection (5A) in respect of every contribution to a party donation received by him or her from an overseas person that, either on its own or when aggregated with other contributions made by the same overseas person to the donation, exceeds $1,500; and
+  (b) whether section 207C applies to any donation and, if so, and to the extent known or ascertainable from the information supplied under that section, the details specified in subsection (3) in respect of every contribution received from a New Zealand person that, either on its own or when aggregated with other contributions made by or on behalf of the same contributor to the donation, or to other donations during the year, exceeds $15,000 in sum or value; and
+  (c) the details specified in subsection (4) in respect of every anonymous party donation received by him or her—
+    (i) exceeding $50, in any case where the party secretary believes or has reasonable grounds to suspect the donor is an overseas person; or
+    (ii) exceeding $1,500, in any other case; and
+  (d) the details specified in subsection (5) in respect of every party donation received by him or her from an overseas person that, either on its own or when aggregated with all other donations made by or on behalf of the same overseas person during the year, exceeds $50; and
+  (da) the details specified in subsection (5A) in respect of every contribution to a party donation received by him or her from an overseas person that, either on its own or when aggregated with other contributions made by the same overseas person to the donation, exceeds $50; and
   (e) the details specified in subsection (6) in respect of every payment of donations received from the Electoral Commission under section 208D; and
   (f) the details specified in subsection (6A) in respect of all other party donations received by him or her.
 (2) The details referred to in subsection (1)﻿(a) are—
@@ -4320,7 +4356,7 @@ If a candidate considers that there is no relevant information to disclose under
   (c) the amount of interest included in the payment.
 (6A) The details referred to in subsection (1)﻿(f) are—
   (a) the number of anonymous party donations received of an amount not exceeding $1,500, and the total amount of all such donations:
-  (b) the number of overseas party donations received of an amount not exceeding $1,500, and the total amount of all such donations:
+  (b)
   (c) the number of all party donations received of an amount exceeding $1,500 but not exceeding $5,000, and the total amount of all such donations:
   (d) the number of all party donations received of an amount exceeding $5,000 but not exceeding $15,000, and the total amount of all such donations.
 (7) A return must—
@@ -4623,10 +4659,16 @@ Where any person knowingly provides money for any purpose which is contrary to t
 [Repealed]
 
 ### 221A Electoral advertisements
-(1) Subject to subsection (2), no person shall publish or cause or permit to be published in any newspaper, periodical, poster, or handbill, or broadcast or cause or permit to be broadcast over any radio or television station, any advertisement relating to an election (not being an election advertisement as defined in section 3A) unless the advertisement contains a statement setting out the true name of the person for whom or at whose direction it is published and the address of that person’s place of residence or business.
-(2) Subsection (1) shall not apply to any advertisement published or broadcast, or caused or permitted to be published or broadcast, by the Electoral Commission, or any other agency charged with responsibilities in relation to the conduct of any official publicity or information campaign to be conducted on behalf of the Government of New Zealand and relating to electoral matters or the conduct of any general election or by-election and which either contains a statement indicating that the advertisement has been authorised by that officer or agency, or contains a symbol indicating that the advertisement has been authorised by that officer or agency.
+(1) A person must not publish or cause or permit to be published in any medium, or broadcast or cause or permit to be broadcast in any medium, any advertisement relating to an election (not being an election advertisement as defined in section 3A) unless the advertisement includes a statement specifying—
+  (a) the true name of the person for whom or at whose direction it is published or broadcast; and
+  (b) the address of that person’s place of residence or business.
+(2) Subsection (1) does not apply to any advertisement published or broadcast, or caused or permitted to be published or broadcast, in any medium, by the Electoral Commission, or any other agency charged with responsibilities in relation to the conduct of any official publicity or information campaign to be conducted on behalf of the Government of New Zealand and relating to electoral matters or the conduct of any general election or by-election and which either contains a statement indicating that the advertisement has been authorised by that officer or agency, or contains a symbol indicating that the advertisement has been authorised by that officer or agency.
 (3) Every person is guilty of an illegal practice who wilfully contravenes any provision of subsection (1).
-(4) Nothing in this section shall restrict the publication of any news or comments relating to an election in a newspaper or other periodical or in a radio or television broadcast made by a broadcaster within the meaning of section 2 of the Broadcasting Act 1989.
+(4) Nothing in this section—
+  (a) restricts the publication or broadcast in any medium of any news or comments relating to an election made in a newspaper or periodical or by a broadcaster (as that term is defined in section 2(1) of the Broadcasting Act 1989); or
+  (b) applies to the editorial content of a publication on a news media Internet site; or
+  (c) applies to any publication on the Internet, or other electronic medium, of personal political views by an individual who does not make or receive a payment in respect of the publication of those views.
+(5) In this section, medium includes the Internet or any other electronic medium.
 
 ### 221B Display of advertisement of a specified kind
 (1) During the period beginning 9 weeks before polling day and ending with the close of the day before polling day, the display of an advertisement of a specified kind is not subject to—
