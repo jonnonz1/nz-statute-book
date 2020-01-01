@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2018-11-13_
+_Consolidation as at 2020-01-01_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -4974,17 +4974,6 @@ The following standard access principles apply to designated access services and
 | Final pricing principle applicable on and after 1 January 2020 | The prices that applied as at 1 January 2020 under Schedule 2 of the Commission’s standard terms determination for Chorus’s unbundled bitstream access backhaul service, with an annual CPI adjustment applied on 1 January in each year |
 | Requirement referred to in section 45 or final pricing principle: | Nil |
 | Additional matters that must be considered regarding application of section 18: | Nil |
-| Chorus's unbundled copper local loop network |  |
-| Description of service: | A service (and its associated functions, including the associated functions of operational support systems) that enables access to, and interconnection with, Chorus's copper local loop network (including any relevant line in Chorus's local telephone exchange or distribution cabinet) |
-| Conditions: | Nil |
-| Access provider: | Chorus |
-| Access seeker: | A service provider who seeks access to the service, except, until 3 years after separation day, Spark |
-| Access principles: | The standard access principles set out in clause 5 |
-| Limits on access principles: | The limits set out in clause 6 |
-| Initial pricing principle: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |
-| Final pricing principle: | TSLRIC |
-| Requirement referred to in section 45 or final pricing principle: | Nil |
-| Additional matters that must be considered regarding application of section 18: | The Commission must consider relativity between this service and Chorus's unbundled bitstream access service (to the extent that the terms and conditions have been determined for that service) |
 | Chorus's unbundled copper local loop network co-location |  |
 | Description of service: | A service (and its associated functions, including the associated functions of operational support systems) that provides co-location facilities for an access seeker’s equipment, and access to the handover point, at Chorus’s local telephone exchange or distribution cabinet (or equivalent facility) for the purposes of providing access to, and interconnection with,—aChorus’s unbundled copper local loop network (including any necessary supporting equipment); andbChorus’s unbundled copper low frequency service (including any necessary supporting equipment)To avoid doubt, the same instance of this service can be used to support both Chorus’s unbundled copper local loop network and Chorus’s unbundled copper low frequency serviceTo avoid doubt, access seeker equipment includes the equipment of any person other than the access seeker (including any line) if that equipment is being used to support the provision of backhaul for the access seekerTo avoid doubt, this service includes access to, and the use of, space in, on, or around Chorus’s local telephone exchange or distribution cabinet (or equivalent facility) for the purposes of installing and maintaining the access seeker’s equipment |
 | Conditions: | Nil |
@@ -4996,17 +4985,6 @@ The following standard access principles apply to designated access services and
 | Final pricing principle applicable before 1 January 2020: | TSLRIC |
 | Initial pricing principle applicable on and after 1 January 2020 | The prices that applied as at 1 January 2020 under Schedule 2 of the Commission’s standard terms determination for Chorus’s unbundled copper local loop network co-location service, with an annual CPI adjustment applied on 1 January in each year |
 | Final pricing principle applicable on and after 1 January 2020 | The prices that applied as at 1 January 2020 under Schedule 2 of the Commission’s standard terms determination for Chorus’s unbundled copper local loop network co-location service, with an annual CPI adjustment applied on 1 January in each year |
-| Requirement referred to in section 45 or final pricing principle: | Nil |
-| Additional matters that must be considered regarding application of section 18: | Nil |
-| Chorus's unbundled copper local loop network backhaul (distribution cabinet to telephone exchange) |  |
-| Description of service: | A service (and its associated functions, including the associated functions of operational support systems) that provides transmission capacity in a network (whether the transmission capacity is copper, fibre, or anything else) between the handover point in Chorus’s distribution cabinet (or equivalent facility) and the handover point in Chorus’s local telephone exchange for the purposes of providing access to, and interconnection with, Chorus’s unbundled copper local loop network (including any necessary supporting equipment) |
-| Conditions: | Nil |
-| Access provider: | Chorus |
-| Access seeker: | A service provider who seeks access to the service |
-| Access principles: | The standard access principles set out in clause 5 |
-| Limits on access principles: | The limits set out in clause 6 |
-| Initial pricing principle: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |
-| Final pricing principle: | TSLRIC |
 | Requirement referred to in section 45 or final pricing principle: | Nil |
 | Additional matters that must be considered regarding application of section 18: | Nil |
 | Chorus's unbundled copper local loop network backhaul (telephone exchange to interconnect point) |  |
