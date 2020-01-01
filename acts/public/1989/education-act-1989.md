@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2019-12-20_
+_Consolidation as at 2020-01-01_
 
 > An Act to reform the administration of education
 
@@ -59,6 +59,7 @@ _Consolidation as at 2019-12-20_
     (a) in relation to a school, means the school's board; and
     (b) in relation to a principal, means the board of the principal's school
   - **Chief Review Officer** means the chief executive of the Education Review Office
+  - **cohort entry policy** means a policy that provides for a child who proposes to enrol in a State school or State integrated school to be assigned to a group of children and for all of the children in that group to be enrolled in the school on the same date, being a date that is determined in accordance with section 5B
   - **composite school** has the same meaning as in section 145(1)
   - **contract of enrolment** , in relation to an international student, means a written contract entered into between the student (or the student’s parent if the student is under the age of 18) and the board of a State school that entitles the student to receive tuition at the school
   - **correspondence school** has the same meaning as in section 145(1)
@@ -209,33 +210,28 @@ The Minister may, by notice in the Gazette, exempt international students of a p
   (a) the school has or will have adequate staff, equipment, and premises to provide it; and
   (b) the standard of instruction provided in it will be no lower than the standard that would be expected in any similar class, course, or programme for domestic students.
 
-### 5 Restrictions on enrolment at primary school
-(1) The following persons must not be enrolled or continue to be enrolled at a primary school or in a class below form 3 at a composite school:
-  (a) a child under 5, unless subsection (2) applies:
-  (b) a child who turned 14 in a previous year:
+### 5 Restrictions on primary school enrolment
+The following persons may not be enrolled in or continue to be enrolled in a primary school or a class below form 3 at a composite school:
+  (a) a child under the age of 5 years:
+  (b) a child who turned 14 years of age in a previous year:
   (c) a child who, in the opinion of the Secretary,—
     (i) has completed the work of form 2; or
     (ii) has completed the work equivalent to form 2.
-(2) A child under 5 may be enrolled or continue to be enrolled at a primary school or in a class below form 3 at a composite school if—
-  (a) the school has adopted a cohort entry policy; and
-  (b) the child is enrolled or continues to be enrolled according to that policy.
-(3) A child under 5 who is enrolled under subsection (2) is entitled to free enrolment and free education in accordance with section 3.
 
 ### 5A Cohort entry policy
-(1) A State school or State integrated school may adopt or revoke a cohort entry policy if the school consults and gives notice in accordance with section 5C.
+(1) A State school or State integrated school may adopt or revoke a cohort entry policy after complying with the requirements in section 5C.
 (2) A cohort entry policy must—
-  (a) apply to all children aged 4 or 5 who have not previously enrolled in a registered school or an enrolling community of online learning; and
-  (b) provide that a child may only be enrolled on a term start date determined in accordance with section 5B.
-(3) Despite a school having a cohort entry policy in place, a child may be enrolled on a date that is later than the date determined under the policy if the later date—
-  (a) is a term start date; and
-  (b) otherwise complies with this Act.
-(4) In this section and section 5B, a term start date for a school means, in relation to a term, the first day in that term that the school is open for instruction.
+  (a) apply to all children aged 5 who have not previously enrolled in a registered school; and
+  (b) provide that all such children may be enrolled only on a date determined in accordance with section 5B.
 
-### 5B Determining term start dates under cohort entry policy
-(1) If a school has a cohort entry policy in place, the term start date on which a child may be enrolled in the school must be determined in accordance with this section.
-(2) A child whose fifth birthday is on or after a mid-term and before the next mid-term, may not be enrolled until the term start date of that next term.
-(3) The Minister may, before 1 July in any year, prescribe the mid-term dates for the next year.
-(4) If the Minister has not prescribed mid-term dates for a year, the same mid-term dates as the year before will apply.
+### 5B Dates for starting school under cohort entry policy
+(1) This section applies to a school that has a cohort entry policy.
+(2) A child may be enrolled not earlier than the child’s fifth birthday on a date that is—
+  (a) a term start date:
+  (b) a mid-term start date.
+(3) In this section,—
+  - **mid-term date** means a date that is published as a mid-term date under section 5D
+  - **term start date** , in relation to a school, means a date that is the first day of a term that the school is open for instruction.
 
 ### 5C Adoption or revocation of cohort entry policy
 (1) When developing a proposed cohort entry policy for a school, a board must take all reasonable steps to discover and consider the views of the following persons about the policy and whether it is generally acceptable:
@@ -821,12 +817,12 @@ For so long as a certificate under section 21 or section 22 continues in force�
 ### 25 Students required to enrol must attend school
 (1) Except as provided in this Act, every student of a registered school who fits into either or both of the following categories is required to attend the school whenever it is open:
   (a) a student who is required by section 20 to be enrolled at a registered school:
-  (b) a student who is aged 4 or 5 and is enrolled at a registered school.
+  (b) a student who is aged 5 and is enrolled at a registered school.
 (2) Every board shall take all reasonable steps to ensure that students who are required by subsection (1) to attend the school whenever it is open do so.
 (3) For the purposes of this section, a student attends a school on any day if, on the day,—
   (a) it has been open for instruction for 4 hours or more; and
   (b) the student has been present for 4 hours or more when it was open for instruction.
-(3A) Despite subsections (1) to (3), if a child is aged 4 or 5 and is enrolled at a registered school,—
+(3A) Despite subsections (1) to (3), if a child is aged 5 and is enrolled at a registered school,—
   (a) the child’s parents, the principal, and the Secretary may agree a plan to help the transition of the child to school, depending on the particular needs of the child; and
   (b) the child is required to attend school in accordance with the plan.
 (4) Nothing in subsections (1) to (3) applies to a participating student who is enrolled at a registered school for the purposes of the secondary component of his or her secondary-tertiary programme, but he or she must attend the school for any portion of the programme as notified by the provider group or lead provider under section 31J.
