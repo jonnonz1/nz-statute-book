@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2020-01-04_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -9,6 +9,7 @@ _Consolidation as at 2019-10-29_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
+  - **accessible format copy** means a copy of a published literary, dramatic, musical, or artistic work, or a part of the work, in an alternative manner or form that gives persons who have a print disability access to the work
   - **adaptation** ,—
     (a) in relation to a literary or dramatic work, includes—
       (i) a translation of the work from one language to another:
@@ -27,10 +28,14 @@ _Consolidation as at 2019-10-29_
   - **authorised** , with respect to anything done in relation to a work, means done—
     (a) by or with the licence of the copyright owner; or
     (b) pursuant to section 62
+  - **authorised entity** means—
+    (a) an entity of a type set out in section 69(1); and
+    (b) in relation to the import into and export from New Zealand of accessible format copies, includes an entity authorised or recognised by the government of the relevant Marrakesh Treaty country as an authorised entity for the purposes of the Treaty
   - **building** includes—
     (a) any fixed structure; and
     (b) a part of a building or fixed structure
   - **business** includes a trade or profession
+  - **charitable entity** has the meaning given in section 4(1) of the Charities Act 2005
   - **chief executive** ,—
     (a) for the purposes of Part 6A, means the chief executive of the Ministry; and
     (b) for the purposes of Part 7, has the meaning set out in section 135
@@ -129,6 +134,7 @@ _Consolidation as at 2019-10-29_
   - **literary work** means any work, other than a dramatic or musical work, that is written, spoken, or sung; and includes—
     (a) a table or compilation; and
     (b) a computer program
+  - **Marrakesh Treaty country** means a Contracting Party to the Marrakesh Treaty to Facilitate Access to Published Works for Persons Who Are Blind, Visually Impaired, or Otherwise Print Disabled, done at Marrakesh on 27 June 2013
   - **material time** ,—
     (a) in relation to a literary, dramatic, musical, or artistic work, means,—
       (i) in the case of an unpublished work, when the work is made or, if the making of the work extends over a period, a substantial part of that period; and
@@ -155,6 +161,9 @@ _Consolidation as at 2019-10-29_
   - **prescribed foreign country** means any country (other than New Zealand)—
     (a) to which section 230 applies; or
     (b) that is declared by Order in Council made under section 232 to be a foreign country to which any provision of this Act applies; and, with respect to the application of any provision of this Act to such a country, the provision shall be read subject to the terms of that Order in Council
+  - **print disability** , in relation to a person,—
+    (a) means an impairment that prevents the person from enjoying a printed copyright work to the same degree as a person who does not have that impairment; but
+    (b) excludes an impairment of visual function that can be improved, by the use of corrective lenses, to a level that is normally acceptable for reading without a special level or kind of light
   - **proceedings** includes a counterclaim; and references to the plaintiff and to the defendant in proceedings shall be construed accordingly
   - **published edition** means a published edition of the whole or any part of 1 or more literary, dramatic, or musical works
   - **regulations** includes instruments published under Part 2 of the Legislation Act 2012 or under any corresponding former enactment
@@ -922,20 +931,55 @@ A copy of a work to which section 53 or 54 applies must not be supplied in a dig
   (c) the use made of the recording or material taken from it is not of a kind prohibited by or on behalf of the speaker or copyright owner before the recording was made; and
   (d) the use is by or with the authority of a person who is lawfully in possession of the recording.
 
-### 69 Provision of Braille copies of literary or dramatic works
-(1) A body prescribed by regulations made under this Act may, if the conditions contained in subsection (2) are complied with, make or communicate copies or adaptations of published literary or dramatic works for the purpose of providing persons who have a print disability with copies that are in Braille or otherwise modified for their special needs, without infringing copyright in those literary or dramatic works.
-(2) The conditions referred to in subsection (1) are—
-  (a) that the prescribed body has made reasonable efforts to obtain a copy of the complete work, in Braille or otherwise modified as required by the person or persons to whom it is to be provided, within a reasonable time at an ordinary commercial price, but has been unable to do so; and
-  (b) that the copies are provided only to persons having a print disability; and
-  (c) that, where any body makes a copy or adaptation of a published literary or dramatic work under this section, the body shall, as soon as is reasonably practicable, take all reasonable steps to notify the owner of the copyright in the work of the making of the copy or adaptation; and
-  (d) that, where any person to whom a copy is provided is required to pay for the copy, the payment required is no higher than a sum consisting of the total cost of the production of the copy and a reasonable contribution to the general expenses of the prescribed body.
-(3) A body shall not be prescribed for the purposes of subsection (1) if it is established or conducted for profit.
-(4) For the purposes of this section, a person has a print disability if he or she—
-  (a) is blind; or
-  (b) suffers severe impairment of his or her sight; or
-  (c) is unable to hold or manipulate books; or
-  (d) is unable to focus or move his or her eyes; or
-  (e) suffers a handicap with respect to visual perception.
+### 69 Authorised entity types
+(1) An entity that is 1 or more of the following may undertake the activities set out in section 69A:
+  (a) an educational establishment:
+  (b) an educational resource supplier:
+  (c) a prescribed library within the meaning given in section 50(1):
+  (d) a charitable entity that has a purpose consistent with making accessible format copies available to persons who have a print disability.
+(2) Before beginning activities under section 69A for the first time, an authorised entity must give notice to the Ministry that it intends to do so.
+
+### 69A Accessible format copy activities by authorised entity
+(1) An authorised entity does not infringe copyright in the relevant work if the entity acts in accordance with this section.
+(2) An authorised entity may make an accessible format copy if the entity—
+  (a) has taken all reasonable steps to notify the owner of the copyright in the work of its intention to make an accessible format copy; and
+  (b) is making the copy to provide it only to persons who have a print disability, persons acting on their behalf, or other authorised entities; and
+  (c) ensures that the copy respects the integrity of the original work, as far as is reasonably possible and taking into account changes needed to make the work accessible in the alternative format.
+(3) An authorised entity (A) may import into New Zealand an accessible format copy from an authorised entity (B) in another Marrakesh Treaty country if A—
+  (a) has taken all reasonable steps to notify the owner of the copyright in the work of its intention to make an accessible format copy; and
+  (b) is importing the copy to provide it only to persons who have a print disability, persons acting on their behalf, or other authorised entities; and
+  (c) has taken all reasonable steps to ensure that the copy respects the integrity of the original work, as far as is reasonably possible and taking into account changes needed to make the work accessible in the alternative format.
+(4) An authorised entity may do 1 or more of the following:
+  (a) export from New Zealand an accessible format copy to an authorised entity, or a person who has a print disability, in another Marrakesh Treaty country:
+  (b) reproduce copies—
+    (i) made or imported into New Zealand under this section; or
+    (ii) provided to the entity under section 69B(2)﻿(c):
+  (c) provide, by communication or otherwise, accessible format copies made or imported under this section or provided to the entity under section 69B(2)﻿(c) to—
+    (i) persons in New Zealand who have a print disability or persons acting on their behalf; and
+    (ii) other authorised entities in New Zealand.
+
+### 69B Accessible format copy activities by person who is not authorised entity
+(1) A person who is not an authorised entity does not infringe copyright in the relevant work if he or she—
+  (a) has a print disability or is acting on behalf of someone who has a print disability; and
+  (b) intends the accessible format copy to be only for the use of the person who has a print disability; and
+  (c) acts in accordance with subsection (2).
+(2) The person may do 1 or more of the following:
+  (a) make an accessible format copy that respects the integrity of the original work, as far as is reasonably possible and taking into account changes needed to make the work accessible in the alternative format:
+  (b) import into New Zealand an accessible format copy from an authorised entity in another Marrakesh Treaty country:
+  (c) provide the accessible format copy that he or she made or imported under paragraph (a) or (b) to an authorised entity.
+
+### 69C Duties of authorised entity in regard to records and fees
+(1) An authorised entity must—
+  (a) make and keep a record of a work of which it has—
+    (i) made, provided, reproduced, imported, or exported an accessible format copy under section 69A; or
+    (ii) received an accessible format copy under section 69B(2)﻿(c); and
+  (b) permit the copyright owner to inspect the record—
+    (i) during normal office hours; or
+    (ii) at any reasonable time, if the entity does not have office hours.
+(2) An authorised entity may charge a fee for providing an accessible format copy to a person, but the fee must not be higher than the sum of the cost to the entity of making, providing, reproducing, importing, or exporting the copy (as applicable) and a reasonable contribution to the general expenses of the entity.
+
+### 69D Ministry must publish list of authorised entities on Internet site
+The Ministry must publish on its Internet site a list of authorised entities that have given notice under section 69(2).
 
 ### 70 Public reading or recitation
 (1) The reading in public or recitation in public by 1 person of a reasonable extract from a published literary or dramatic work shall not be treated as a performance in public for the purposes of section 32(1), if that reading or recitation is accompanied by a sufficient acknowledgement.
@@ -1277,7 +1321,7 @@ A notice referred to in section 92C(3) must—
   (k) section 56 (which relates to copying by librarians or archivists of certain unpublished works):
   (l) sections 56A to 56C (which relate to access to and copying of works in digital format):
   (m) section 58 (which relates to copying by the Parliamentary Library for members of Parliament):
-  (n) section 69 (which relates to the provision of Braille copies of literary or dramatic works):
+  (n) sections 69A and 69B (which relate to accessible format copies):
   (o) section 80A (which relates to the decompilation of computer programs):
   (p) section 80B (which relates to copying or adapting computer programs if necessary for lawful use):
   (q) section 81A (which relates to copying sound recordings for private and domestic use):
@@ -4037,7 +4081,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (a) prescribing a body as a judicial body for the purposes of this Act:
   (b) prescribing classes of libraries for the purposes of section 50:
   (c) prescribing institutions for the purposes of section 117:
-  (d) prescribing bodies for the purposes of section 69 or section 72 or section 89 or section 90 or section 185 or section 190 or section 191:
+  (d) prescribing bodies for the purposes of section 72, 89, 90, 185, 190, or 191:
   (e) prescribing classes of communication works for the purposes of section 90 or section 191:
   (ea) prescribing the form of a notice of infringement for the purposes of section 92D:
   (eb) prescribing the form, content, procedures, requirements, and any other matters relating to infringement notices:
@@ -4464,6 +4508,18 @@ In this subpart, unless the context otherwise requires,—
 (2) If a performance is given before commencement, Part 9 (as in force immediately before commencement) continues to apply to any act done on or after commencement in relation to that performance.
 (3) Despite subclause (2), if Part 9 (as in force immediately before commencement) would not have applied to an act done, or a performance given, before commencement, subclause (2) and Part 9 do not apply to the act or the performance.
 (4) This clause is subject to clauses 49 and 50.
+
+### Part 3 — Provisions relating to Copyright (Marrakesh Treaty Implementation) Amendment Act 2019
+
+### 51 Interpretation
+In this Part,—
+  - **commencement date** means the date on which this Part comes into force
+  - **former section 69** means section 69 as in force immediately before the commencement date
+  - **prescribed body** means a body declared in regulation 5 to be a prescribed body for the purposes of former section 69
+  - **regulation 5** means regulation 5 of the Copyright (General Matters) Regulations 1995 as in force immediately before the commencement date.
+
+### 52 Braille or otherwise modified copies made under former section 69 treated as if made under Act as amended
+A copy or an adaptation made or communicated by a prescribed body before the commencement date in compliance with the conditions of the former section 69 is to be treated on and after the commencement date as an accessible format copy that was made or provided in compliance with sections 69A and 69B.
 
 ## Schedule 2 — Enactments amended
 
