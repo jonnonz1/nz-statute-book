@@ -1,5 +1,5 @@
 # Copyright (Marrakesh Treaty Implementation) Amendment Act 2019
-_Consolidation as at 2019-08-12_
+_Consolidation as at 2020-01-04_
 
 ### 1 Title
 This Act is the Copyright (Marrakesh Treaty Implementation) Amendment Act 2019.
