@@ -1,5 +1,5 @@
 # Trade in Endangered Species Act 1989
-_Consolidation as at 2018-12-21_
+_Consolidation as at 2020-01-09_
 
 > An Act to further the protection and conservation of endangered species of wild fauna and flora by regulating the export and import of such species and any product derived from those species
 
@@ -654,13 +654,13 @@ Amendment(s) incorporated in the Act(s).
 |  |  |  |  | Nanger dama |  | Dama Gazelle |  |  |
 |  |  |  |  | Oryx dammah |  | Scimitar-horned Oryx |  |  |
 |  |  |  |  | Oryx leucoryx |  | Arabian Oryx |  |  |
-|  |  |  |  | Ovis ammon hodgsonii |  | Great Tibetan Sheep |  |  |
-|  |  |  |  | Ovis ammon nigrimontana |  | Kara Tau Argali |  |  |
-|  |  |  |  | Ovis aries ophion |  | Mouflon |  |  |
-|  |  |  |  | Ovis aries vignei |  | Red Sheep |  |  |
-|  |  |  |  | Pantholops hodgsonii |  | Tibetan Antelope |  |  |
+|  |  |  |  | Ovis gmelini |  | Cyprus Mouflon |  | Only population of Cyprus. No other population is included in the schedules |
+|  |  |  |  | Ovis hodgsonii |  | Tibetan Argali |  |  |
+|  |  |  |  | Ovis nigrimontana |  | Kara Tau Argali |  |  |
+|  |  |  |  | Ovis vignei |  | Ladakh Urial, Red Sheep |  |  |
+|  |  |  |  | Pantholops hodgsonii |  | Chiru, Tibetan Antelope |  |  |
 |  |  |  |  | Pseudoryx nghetinhensis |  | Vu Quang Ox |  |  |
-|  |  | Camelidae—Camels, guanacos, vicunas |  | Vicugna vicugna |  | Vicugna |  | Except populations of Argentina (populations of provinces of Jujuy and Catamarca and semi-captive populations of provinces of Jujuy, Salta, Catamarca, La Rioja, and San Juan), Chile (population of Primera Región), Ecuador (whole population), Peru (whole population), and the Plurinational State of Bolivia (whole population), which are included in Schedule 2 |
+|  |  | Camelidae—Camels, guanacos, vicunas |  | Vicugna vicugna |  | Vicugna |  | Except populations of Argentina (populations of provinces of Jujuy, Salta, and Catamarca and semi-captive populations of provinces of Jujuy, Salta, Catamarca, La Rioja, and San Juan), Chile (populations of the region of Tarapacá and of the region of Arica and Parinacota), Ecuador (whole population), Peru (whole population), and the Plurinational State of Bolivia (whole population), which are included in Schedule 2 |
 |  |  | Cervidae—Deer, huemuls, muntjacs, pudus |  | Axis calamianensis |  | Calamian Hog Deer |  |  |
 |  |  |  | Axis kuhlii |  | Bawean Hog Deer |  |  |  |
 |  |  |  |  | Axis porcinus annamiticus |  | Ganges Hog Deer, Indo-Chinese Hog Deer |  |  |
@@ -688,31 +688,37 @@ Amendment(s) incorporated in the Act(s).
 |  |  |  |  | Caracal caracal |  | Caracal |  | Only population of Asia. All other populations are included in Schedule 2 |
 |  |  |  |  | Catopuma temminckii |  | Temminck's Golden Cat |  |  |
 |  |  |  |  | Felis nigripes |  | Black-footed Cat |  |  |
+|  |  |  |  | Herpailurus yagouaroundi |  | Jaguarundi |  | Only populations of Central and North America. All other populations are included in Schedule 2 |
 |  |  |  |  | Leopardus geoffroyi |  | Geoffroy's Cat |  |  |
-|  |  |  |  | Leopardus jacobitus |  | Andean Mountain Cat |  |  |
+|  |  |  |  | Leopardus guttulus |  | Southern tiger cat |  |  |
+|  |  |  |  | Leopardus jacobita |  | Andean Mountain Cat |  |  |
 |  |  |  |  | Leopardus pardalis |  | Ocelot |  |  |
 |  |  |  |  | Leopardus tigrinus |  | Little Spotted Cat |  |  |
 |  |  |  |  | Leopardus wiedii |  | Margay |  |  |
 |  |  |  |  | Lynx pardinus |  | Spanish Lynx |  |  |
+|  |  |  |  | Neofelis diardi |  | Sunda clouded leopard |  |  |
 |  |  |  |  | Neofelis nebulosa |  | Clouded Leopard |  |  |
-|  |  |  |  | Panthera leo persica |  | Asiatic Lion |  |  |
+|  |  |  |  | Panthera leo |  | Asiatic Lion |  | Only populations of India. All other populations are included in Schedule 2 |
 |  |  |  |  | Panthera onca |  | Jaguar |  |  |
 |  |  |  |  | Panthera pardus |  | Leopard |  |  |
 |  |  |  |  | Panthera tigris |  | Tiger |  |  |
+|  |  |  |  | Panthera uncia |  | Snow leopard |  |  |
 |  |  |  |  | Pardofelis marmorata |  | Marbled Cat |  |  |
 |  |  |  |  | Prionailurus bengalensis bengalensis |  | Leopard Cat |  | Only populations of Bangladesh, India, and Thailand. All other populations are included in Schedule 2 |
 |  |  |  |  | Prionailurus planiceps |  | Flat-headed Cat |  |  |
 |  |  |  |  | Prionailurus rubiginosus |  | Rusty-spotted Cat |  | Only population of India. All other populations are included in Schedule 2 |
-|  |  |  |  | Puma concolor costaricensis |  | Costa Rica Cougar |  |  |
+|  |  |  |  | Puma concolor |  | Costa Rica Cougar |  | Only populations of Costa Rica and Panama. All other populations are included in Schedule 2 |
 |  |  |  |  | Puma yagouaroundi |  | Jaguarundi |  | Only populations of Central and North America. All other populations are included in Schedule 2 |
 |  |  |  |  | Uncia uncia |  | Snow Leopard |  |  |
 |  |  | Lutrinae—Otters |  | Aonyx capensis microdon |  | African Clawless Otter |  | Only populations of Cameroon and Nigeria. All other populations are included in Schedule 2 |
+|  |  |  |  | Aonyx cinerea |  | Small-clawed Otter |  |  |
 |  |  |  |  | Enhydra lutris nereis |  | Southern Sea Otter |  |  |
 |  |  |  |  | Lontra felina |  | Marine Otter |  |  |
 |  |  |  |  | Lontra longicaudis |  | Long-tailed Otter |  |  |
 |  |  |  |  | Lontra provocax |  | Southern River Otter |  |  |
 |  |  |  |  | Lutra lutra |  | Eurasian Otter |  |  |
 |  |  |  |  | Lutra nippon |  | Japanese River Otter |  |  |
+|  |  |  |  | Lutrogale perspicillata |  | Smooth-coated Otter |  |  |
 |  |  |  |  | Pteronura brasiliensis |  | Giant Otter |  |  |
 |  |  | Mustelinae—Grisons, honey badgers, martens, tayra, weasels |  | Mustela nigripes |  | Black-footed Ferret |  |  |
 |  |  | Otariidae—Fur seals, sea lions |  | Arctocephalus townsendi |  | Guadelupe Fur Seal |  |  |
@@ -846,10 +852,6 @@ Amendment(s) incorporated in the Act(s).
 | Proboscidea |  | Elephantidae—Elephants |  | Elephas maximus |  | Asiatic Elephant |  |  |
 |  |  | Loxodonta africana |  | African Elephant |  | Except populations of Botswana, Namibia, South Africa, and Zimbabwe, which are included in Schedule 2 |  |  |
 | Rodentia |  | Chinchillidae—Chinchillas |  | Chinchilla spp |  | Chinchillas |  | Except all specimens of domesticated form |
-|  |  | Muridae—Mice, rats |  | Leporillus conditor |  | Stick Nest Rat |  |  |
-|  |  |  |  | Pseudomys fieldi praeconis |  | Shark Bay Mouse |  |  |
-|  |  |  |  | Xeromys myoides |  | False Water Rat |  |  |
-|  |  |  |  | Zyzomys pedunculatus |  | Central Rock Rat |  |  |
 |  |  | Sciuridae—Ground squirrels, tree squirrels |  | Cynomys mexicanus |  | Mexican Prairie Dog |  |  |
 | Sirenia |  | Dugongidae—Dugong |  | Dugong dugon |  | Dugong |  |  |
 |  | Trichechidae—Manatees |  | Trichechus inunguis |  | South American Manatee |  |  |  |
@@ -923,7 +925,8 @@ Amendment(s) incorporated in the Act(s).
 |  |  |  |  | Tragopan blythii |  | Blyth's Tragopan, Grey-bellied Tragopan |  |
 |  |  |  |  | Tragopan caboti |  | Cabot's Tragopan, Yellow-billed Tragopan |  |
 |  |  |  |  | Tragopan melanocephalus |  | Western Tragopan, Western Horned Pheasant |  |
-| Gruiformes |  | Gruidae—Cranes |  | Grus americana |  | Whooping Crane |  |
+| Gruiformes |  | Gruidae—Cranes |  | Balearica pavonina |  | Black-crowned Crane |  |
+|  |  |  | Grus americana |  | Whooping Crane |  |  |
 |  |  |  | Grus canadensis nesiotes |  | Cuban Sandhill Crane |  |  |
 |  |  |  |  | Grus canadensis pulla |  | Mississippi Sandhill Crane |  |
 |  |  |  |  | Grus japonensis |  | Manchurian Crane |  |
@@ -943,10 +946,8 @@ Amendment(s) incorporated in the Act(s).
 |  |  | Fringillidae—Finches |  | Carduelis cucullata |  | Red Siskin |  |
 |  |  | Hirundinidae—Martins |  | Pseudochelidon sirintarae |  | White-eyed River Martin |  |
 |  |  | Icteridae—New World blackbirds |  | Xanthopsar flavus |  | Saffron-cowled Blackbird |  |
-|  |  | Muscicapidae—Old World flycatchers |  | Dasyornis broadbenti litoralis (possibly extinct) |  | Western Rufous Bristlebird |  |
-|  |  |  | Dasyornis longirostris |  | Western Bristlebird |  |  |
-|  |  |  |  | Picathartes gymnocephalus |  | Bare-headed Rockfowl |  |
-|  |  |  |  | Picathartes oreas |  | Grey-necked Rockfowl |  |
+|  |  | Muscicapidae—Old World flycatchers |  | Picathartes gymnocephalus |  | Bare-headed Rockfowl |  |
+|  |  |  | Picathartes oreas |  | Grey-necked Rockfowl |  |  |
 |  |  | Pittidae—Pittas |  | Pitta gurneyi |  | Guerney's Pitta |  |
 |  |  |  |  | Pitta kochi |  | Koch's Pitta |  |
 |  |  | Sturnidae—Mynas, starlings |  | Leucopsar rothschildi |  | Bali Starling, Rothschild's Mynah |  |
@@ -1025,12 +1026,12 @@ Amendment(s) incorporated in the Act(s).
 |  | Caiman crocodilus apaporiensis |  | Rio Apaporis Spectacled Caiman |  |  |  |
 |  | Caiman latirostris |  | Broad-snouted Caiman |  | Except population of Argentina, which is included in Schedule 2 |  |
 |  |  |  | Melanosuchus niger |  | Black Caiman | Except population of Brazil, which is included in Schedule 2, and population of Ecuador, which is included in Schedule 2 and is subject to zero annual export quota until annual export quota has been approved by CITES Secretariat and IUCN/SSC Crocodile Specialist Group |
-|  | Crocodylidae—Crocodiles |  | Crocodylus acutus |  | American Crocodile | Except population of Integrated Management District of Mangroves of the Bay of Cispata, Tinajones, La Balsa and Surrounding Areas, Department of Córdoba, Colombia, and population of Cuba, which are included in Schedule 2 |
+|  | Crocodylidae—Crocodiles |  | Crocodylus acutus |  | American Crocodile | Except population of Integrated Management District of Mangroves of the Bay of Cispata, Tinajones, La Balsa and Surrounding Areas, Department of Córdoba, Colombia, and population of Cuba, which are included in Schedule 2, and population of Mexico, which is included in Schedule 2 and is subject to a zero export quota for wild specimens for commercial purposes |
 |  |  |  | Crocodylus cataphractus |  | African Slender-snouted Crocodile |  |
 |  |  |  | Crocodylus intermedius |  | Orinoco Crocodile |  |
 |  |  |  | Crocodylus mindorensis |  | Mindoro Crocodile |  |
 |  |  |  | Crocodylus moreletii |  | Belize Crocodile | Except population of Belize, which is included in Schedule 2 with a zero quota for wild specimens traded for commercial purposes, and population of Mexico, which is included in Schedule 2 |
-|  |  |  | Crocodylus niloticus |  | Nile Crocodile | Except populations of Botswana, Egypt (subject to zero quota for wild specimens traded for commercial purposes), Ethiopia, Kenya, Madagascar, Malawi, Mozambique, Namibia, South Africa, Uganda, United Republic of Tanzania (subject to annual export quota of no more than 1 600 wild specimens, including hunting trophies, in addition to ranched specimens), Zambia, and Zimbabwe, which are included in Schedule 2 |
+|  |  |  | Crocodylus niloticus |  | Nile Crocodile | Except populations of Botswana, Egypt (subject to zero quota for wild specimens traded for commercial purposes), Ethiopia, Kenya, Madagascar, Malawi, Mozambique, Namibia, South Africa, Uganda, United Republic of Tanzania (subject to annual export quota of no more than 1,600 wild specimens, including hunting trophies, in addition to ranched specimens), Zambia, and Zimbabwe, which are included in Schedule 2 |
 |  |  |  | Crocodylus palustris |  | Marsh Crocodile |  |
 |  |  |  | Crocodylus porosus |  | Saltwater Crocodile | Except populations of Australia, Indonesia, Malaysia (wild harvest restricted to the State of Sarawak and a zero quota for wild specimens for the other States of Malaysia (Sabah and Peninsular Malaysia), with no change in the zero quota unless approved by the Parties) and Papua New Guinea, which are included in Schedule 2 |
 |  |  |  | Crocodylus rhombifer |  | Cuban Crocodile |  |
@@ -1039,15 +1040,21 @@ Amendment(s) incorporated in the Act(s).
 |  |  |  | Tomistoma schlegelii |  | False Gavial |  |
 |  | Gavialidae—Gavials |  | Gavialis gangeticus |  | Gharial |  |
 | Rhynchocephalia | Sphenodontidae—Tuatara |  | Sphenodon spp |  | Tuatara |  |
-| Sauria | Anguidae—Alligator lizards |  | Abronia anzuetoi |  | Anzuetoi Alligator Lizard |  |
+| Sauria | Agamidae—Spiny-tailed lizards, agamas |  | Ceratophora erdeleni |  | Erdelen’s Horned Lizard |  |
+|  |  | Ceratophora karu |  | Karu’s Horned Lizard |  |  |
+|  |  |  | Ceratophora tennentii |  | Tennent’s Leaf-nosed Lizard |  |
+|  |  |  | Cophotis ceylanica |  | Pygmy Lizard |  |
+|  |  |  | Cophotis dumbara |  | Knuckles Pygmy Lizard |  |
+|  | Anguidae—Alligator lizards |  | Abronia anzuetoi |  | Anzuetoi Alligator Lizard |  |
 |  |  |  | Abronia campbelli |  | Campbell's Alligator Lizard |  |
 |  |  |  | Abronia fimbriata |  |  |  |
 |  |  |  | Abronia frosti |  | Frost's Alligator Lizard |  |
 |  |  |  | Abronia meledona |  | Meledona Alligator Lizard |  |
 |  | Chamaeleonidae—Chameleons |  | Brookesia perarmata |  | Antsingy Leaf Chameleon |  |
 |  | Gekkonidae—Geckos |  | Cnemaspis psychedelica |  | Psychedelic Rock Gecko |  |
+|  |  |  | Gonatodes daudini |  | Grenadines Clawed Gecko |  |
 |  |  |  | Lygodactylus williamsi |  | Turquoise Dwarf Gecko |  |
-|  | Helodermatidae—Beaded lizards, gila monsters |  | Heloderma horridum charlesbogerti |  | Guatemalan Beaded Lizard, Blue Beaded Lizard |  |
+|  | Helodermatidae—Beaded lizards, Gila monsters |  | Heloderma horridum charlesbogerti |  | Guatemalan Beaded Lizard, Blue Beaded Lizard |  |
 |  | Iguanidae—Iguanas |  | Brachylophus spp |  | Fiji Iguanas |  |
 |  |  |  | Cyclura spp |  | Ground Iguanas |  |
 |  |  |  | Sauromalus varius |  | Piebald Chuckwalla |  |
@@ -1075,7 +1082,10 @@ Amendment(s) incorporated in the Act(s).
 |  |  | Terrapene coahuila |  | Aquatic Box Turtle |  |  |
 |  | Geoemydidae—Box turtles, freshwater turtles |  | Batagur affinis |  | Southern River Terrapin |  |
 |  |  | Batagur baska |  | Batagur, Four-toed Terrapin, River Terrapin |  |  |
+|  |  |  | Cuora bourreti |  | Bourret’s Box Turtle |  |
+|  |  |  | Cuora picturata |  | Vietnamese Box Turtle |  |
 |  |  |  | Geoclemys hamiltonii |  | Black Pond Turtle |  |
+|  |  |  | Mauremys annamensis |  | Annam Leaf Turtle |  |
 |  |  |  | Melanochelys tricarinata |  | Three-keeled Land Tortoise |  |
 |  |  |  | Morenia ocellata |  | Bengal Eyed Terrapin |  |
 |  |  |  | Pangshura tecta |  | Indian Sawback Turtle, Dura Turtle, Indian Pond Turtle |  |
@@ -1083,8 +1093,10 @@ Amendment(s) incorporated in the Act(s).
 |  | Testudinidae—Tortoises |  | Astrochelys radiata |  | Radiated Tortoise |  |
 |  |  |  | Astrochelys yniphora |  | Madagascar Tortoise |  |
 |  |  |  | Chelonoidis niger |  | Galapagos Giant Tortoise |  |
+|  |  |  | Geochelone elegans |  | Star Tortoise |  |
 |  |  |  | Geochelone platynota |  | Burmese Star Tortoise |  |
 |  |  |  | Gopherus flavomarginatus |  | Yellow-bordered Tortoise |  |
+|  |  |  | Malacochersus tornieri |  | Pancake Tortoise |  |
 |  |  |  | Psammobates geometricus |  | Geometric Tortoise |  |
 |  |  |  | Pyxis arachnoides |  | Spider Tortoise |  |
 |  |  |  | Pyxis planicauda |  | Flat-backed Spider Tortoise |  |
@@ -1130,9 +1142,11 @@ Amendment(s) incorporated in the Act(s).
 
 | Order | Family | Genus, species, or subspecies | Common name | Exceptions/limitations |
 | --- | --- | --- | --- | --- |
-| Lepidoptera | Papilionidae—Birdwing butterflies, swallowtail butterflies | Ornithoptera alexandrae | Queen Alexandra's Birdwing |  |
-|  | Papilio chikae | Luzon Peacock Swallowtail |  |  |
+| Lepidoptera | Papilionidae—Birdwing butterflies, swallowtail butterflies | Achillides chikae chikae | Luzon Peacock Swallowtail |  |
+|  | Achillides chikae hermeli | Mindoro Peacock Swallowtail |  |  |
+|  |  | Ornithoptera alexandrae | Queen Alexandra's Birdwing |  |
 |  |  | Papilio homerus | Homerus Swallowtail |  |
+|  |  | Parides burchellanus | Riverside Swallowtail |  |
 
 | Order | Family | Genus, species, or subspecies | Common name | Exceptions/limitations |
 | --- | --- | --- | --- | --- |
@@ -1180,7 +1194,7 @@ Amendment(s) incorporated in the Act(s).
 |  |  | Aztekium ritteri |  | Aztec Cactus |  |
 |  |  | Coryphantha werdermannii |  | Jabali Pincushion Cactus |  |
 |  |  | Discocactus spp |  | Discocacti |  |
-|  |  | Echinocereus ferreirianus ssp lindsayi |  | Lindsay's Cactus |  |
+|  |  | Echinocereus ferreiranus ssp lindsayorum |  | Lindsay's Cactus |  |
 |  |  | Echinocereus schmollii |  | Lamb's-tail Cactus |  |
 |  |  | Escobaria minima |  | Nellie's Cory Cactus |  |
 |  |  | Escobaria sneedii |  | Lee Pincushion Cactus, Sneed's Cory Cactus |  |
@@ -1220,11 +1234,11 @@ Amendment(s) incorporated in the Act(s).
 | Cycadaceae—Cycads |  | Cycas beddomei |  |  |  |
 | Euphorbiaceae—Spurges |  | Euphorbia ambovombensis |  |  |  |
 |  | Euphorbia capsaintemariensis |  |  |  |  |
-|  |  | Euphorbia cremersii |  |  | Includes forma viridfolia and var rakotozafyi |
-|  |  | Euphorbia cylindrifolia |  |  | Includes Euphorbia cylindrifolia ssp tuberifera |
-|  |  | Euphorbia decaryi |  |  | Includes Euphorbia decaryi vars ampanihyensis, robinsonii, and spirosticha |
+|  |  | Euphorbia cremersii |  |  | Includes forma viridifolia and var rakotozafyi |
+|  |  | Euphorbia cylindrifolia |  |  | Includes ssp tuberifera |
+|  |  | Euphorbia decaryi |  |  | Includes vars ampanihyensis, robinsonii, and spirosticha |
 |  |  | Euphorbia francoisii |  |  |  |
-|  |  | Euphorbia moratii |  |  | Includes Euphorbia moratii vars antsingiensis, bemarahensis, and multiflora |
+|  |  | Euphorbia moratii |  |  | Includes vars antsingiensis, bemarahensis, and multiflora |
 |  |  | Euphorbia parvicyathophora |  |  |  |
 |  |  | Euphorbia quartziticola |  |  |  |
 |  |  | Euphorbia tulearensis |  |  |  |
@@ -1237,13 +1251,13 @@ Amendment(s) incorporated in the Act(s).
 |  |  | Aloe bakeri |  |  |  |
 |  |  | Aloe bellatula |  |  |  |
 |  |  | Aloe calcairophila |  |  |  |
-|  |  | Aloe compressa |  |  | Includes Aloe compressa vars paucituberculata, rugosquamosa, and schistophila |
+|  |  | Aloe compressa |  |  | Includes vars paucituberculata, rugosquamosa, and schistophila |
 |  |  | Aloe delphinensis |  |  |  |
 |  |  | Aloe descoingsii |  |  |  |
 |  |  | Aloe fragilis |  |  |  |
-|  |  | Aloe haworthioides |  |  | Includes Aloe haworthioides var aurantiaca |
+|  |  | Aloe haworthioides |  |  | Includes var aurantiaca |
 |  |  | Aloe helenae |  |  |  |
-|  |  | Aloe laeta |  |  | Includes Aloe laeta var maniaensis |
+|  |  | Aloe laeta |  |  | Includes var maniaensis |
 |  |  | Aloe parallelifolia |  |  |  |
 |  |  | Aloe parvula |  |  |  |
 |  |  | Aloe pillansii |  |  |  |
@@ -1254,14 +1268,15 @@ Amendment(s) incorporated in the Act(s).
 |  |  | Aloe vossii |  |  |  |
 | Nepenthaceae—Pitcher plants (Old World) |  | Nepenthes khasiana |  | Indian Pitcher Plant |  |
 |  | Nepenthes rajah |  | Giant Tropical Pitcher Plant |  |  |
-| Orchidaceae—Orchids |  | Aerangis ellisii |  |  | Seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers are not subject to this Act, but only if specimens meet definition of artificially propagated agreed by the parties to the Convention acting together (Conference of the Parties) |
-|  |  | Dendrobium cruentum |  |  | Seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers are not subject to this Act, but only if specimens meet definition of artificially propagated agreed by Conference of the Parties |
-|  |  | Laelia jongheana |  |  | Seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers are not subject to this Act, but only if specimens meet definition of artificially propagated agreed by Conference of the Parties |
-|  |  | Laelia lobata |  |  | Seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers are not subject to this Act, but only if specimens meet definition of artificially propagated agreed by Conference of the Parties |
-|  |  | Paphiopedilum spp |  | Slipper Orchids, Asian Slipper Orchids | Seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers are not subject to this Act, but only if specimens meet definition of artificially propagated agreed by Conference of the Parties |
-|  |  | Peristeria elata |  | Dove Orchid or Holy Ghost Orchid | Seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers are not subject to this Act, but only if specimens meet definition of artificially propagated agreed by Conference of the Parties |
-|  |  | Phragmipedium spp |  | Slipper Orchids, South American Slipper Orchids | Seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers are not subject to this Act, but only if specimens meet definition of artificially propagated agreed by Conference of the Parties |
-|  |  | Renanthera imschootiana |  | Red Vanda | Seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers are not subject to this Act, but only if specimens meet definition of artificially propagated agreed by Conference of the Parties |
+| Orchidaceae—Orchids |  | Aerangis ellisii |  |  | Seedling or tissue cultures obtained in vitro, in solid or liquid media, and transported in sterile containers are not subject to this Act, but only if specimens meet the definition of artificially propagated agreed by the parties to the Convention acting together (Conference of the Parties) |
+|  |  | Cattleya jongheana |  | Jonghe’s Cattleya | Seedling or tissue cultures obtained in vitro, in solid or liquid media, and transported in sterile containers are not subject to this Act, but only if specimens meet the definition of artificially propagated agreed by Conference of the Parties |
+|  |  | Cattleya lobata |  | Lobed sophronitis | Seedling or tissue cultures obtained in vitro, in solid or liquid media, and transported in sterile containers are not subject to this Act, but only if specimens meet the definition of artificially propagated agreed by Conference of the Parties |
+|  |  | Dendrobium cruentum |  |  | Seedling or tissue cultures obtained in vitro, in solid or liquid media, and transported in sterile containers are not subject to this Act, but only if specimens meet the definition of artificially propagated agreed by Conference of the Parties |
+|  |  | Mexipedium xerophyticum |  |  | Seedling or tissue cultures obtained in vitro, in solid or liquid media, and transported in sterile containers are not subject to this Act, but only if specimens meet the definition of artificially propagated agreed by Conference of the Parties |
+|  |  | Paphiopedilum spp |  | Slipper Orchids, Asian Slipper Orchids | Seedling or tissue cultures obtained in vitro, in solid or liquid media, and transported in sterile containers are not subject to this Act, but only if specimens meet the definition of artificially propagated agreed by Conference of the Parties |
+|  |  | Peristeria elata |  | Dove Orchid or Holy Ghost Orchid | Seedling or tissue cultures obtained in vitro, in solid or liquid media, and transported in sterile containers are not subject to this Act, but only if specimens meet the definition of artificially propagated agreed by Conference of the Parties |
+|  |  | Phragmipedium spp |  | Slipper Orchids, South American Slipper Orchids | Seedling or tissue cultures obtained in vitro, in solid or liquid media, and transported in sterile containers are not subject to this Act, but only if specimens meet the definition of artificially propagated agreed by Conference of the Parties |
+|  |  | Renanthera imschootiana |  | Red Vanda | Seedling or tissue cultures obtained in vitro, in solid or liquid media, and transported in sterile containers are not subject to this Act, but only if specimens meet the definition of artificially propagated agreed by Conference of the Parties |
 | Palmae (Arecaceae)—Palms |  | Dypsis decipiens |  | Manambe Palm |  |
 | Pinaceae—Firs and pines |  | Abies guatemalensis |  | Guatemala Fir or Pinabete |  |
 | Podocarpaceae—Podocarps |  | Podocarpus parlatorei |  | Parlatore's Podocarp |  |
@@ -1289,17 +1304,27 @@ Amendment(s) incorporated in the Act(s).
 |  |  |  |  | Cephalophus zebra |  | Banded Duiker |  |  |
 |  |  |  |  | Damaliscus pygargus pygargus |  | Bontebok |  |  |
 |  |  |  |  | Kobus leche |  | Lechwe |  |  |
-|  |  |  |  | Ovis ammon |  | Argali | Except subspecies included in Schedule 1 |  |
-|  |  |  |  | Ovis aries |  | Urial, Red Sheep | Except the subspecies included in Schedule 1, the subspecies O. a. isphahanica, O. a. laristanica, O. a. musimon and O. a. orientalis, which are not included in the schedules, and the domesticated form Ovis aries aries, which is not subject to this Act |  |
-|  |  |  |  | Ovis canadensis |  | Desert Bighorn | Only population of Mexico. No other population is included in the schedules |  |
+|  |  |  |  | Ovis ammon |  | Altai Argali | Except subspecies included in Schedule 1 |  |
+|  |  |  |  | Ovis arabica |  | Oman Wild Sheep |  |  |
+|  |  |  |  | Ovis bochariensis |  | Bukhara Urial |  |  |
+|  |  |  |  | Ovis canadensis |  | Bighorn Sheep | Only population of Mexico. No other population is included in the schedules |  |
+|  |  |  |  | Ovis collium |  | Kazakhstan Argali |  |  |
+|  |  |  |  | Ovis cycloceros |  | Afghan Urial |  |  |
+|  |  |  |  | Ovis darwini |  | Gobi Argali |  |  |
+|  |  |  |  | Ovis jubata |  | Shansi Argali |  |  |
+|  |  |  |  | Ovis karelini |  | Tianshan Argali |  |  |
+|  |  |  |  | Ovis polii |  | Marco Polo Sheep |  |  |
+|  |  |  |  | Ovis punjabiensis |  | Punjab Urial |  |  |
+|  |  |  |  | Ovis severtzovi |  | Kyzylkum Sheep |  |  |
 |  |  |  |  | Philantomba monticola |  | Blue Duiker |  |  |
 |  |  |  |  | Rupicapra pyrenaica ornata |  | Abruzzo Chamois |  |  |
-|  |  |  |  | Saiga borealis |  | Mongolian Saiga |  |  |
-|  |  |  |  | Saiga tatarica |  | Saiga Antelope |  |  |
+|  |  |  |  | Saiga borealis |  | Mongolian Saiga | A zero export quota for wild specimens traded for commercial purposes |  |
+|  |  |  |  | Saiga tatarica |  | Saiga Antelope | A zero export quota for wild specimens traded for commercial purposes |  |
 |  |  | Camelidae—Camels, guanacos, vicunas |  | Lama guanicoe |  | Guanaco |  |  |
-|  |  |  | Vicugna vicugna |  | Vicuña |  | Only populations of Argentina (populations of provinces of Jujuy and Catamarca and semi-captive populations of provinces of Jujuy, Salta, Catamarca, La Rioja, and San Juan), Chile (population of Primera Región), Ecuador (whole population), Peru (whole population), and Plurinational State of Bolivia (whole population). All other populations are included in Schedule 1. Consult Department of Conservation about labelling conditions |  |
+|  |  |  | Vicugna vicugna |  | Vicuña |  | Only populations of Argentina (populations of provinces of Jujuy, Salta, and Catamarca and semi-captive populations of provinces of Jujuy, Salta, Catamarca, La Rioja, and San Juan), Chile (populations of the region of Tarapacá and of the region of Arica and Parinacota), Ecuador (whole population), Peru (whole population), and Plurinational State of Bolivia (whole population). All other populations are included in Schedule 1. Consult Department of Conservation about labelling conditions |  |
 |  |  | Cervidae—Deer, huemuls, muntjacs, pudus |  | Cervus elaphus bactrianus |  | Bactrian Wapiti |  |  |
 |  |  |  | Pudu mephistophiles |  | Pudu |  |  |  |
+|  |  | Giraffidae—Giraffes |  | Giraffa camelopardalis |  | Giraffe |  |  |
 |  |  | Hippopotamidae—Hippopotamuses |  | Hexaprotodon liberiensis |  | Pygmy Hippopotamus |  |  |
 |  |  |  | Hippopotamus amphibius |  | Hippopotamus |  |  |  |
 |  |  | Moschidae—Musk deer |  | Moschus spp |  | Musk Deer | Except populations of Afghanistan, Bhutan, India, Myanmar, Nepal, and Pakistan, which are included in Schedule 1 |  |
@@ -1343,7 +1368,7 @@ Amendment(s) incorporated in the Act(s).
 |  |  | Equus kiang |  | Kiang |  |  |  |  |
 |  |  |  | Equus zebra hartmannae |  | Hartmann's Mountain Zebra |  |  |  |
 |  |  |  |  | Equus zebra zebra |  | Cape Mountain Zebra |  |  |
-|  |  | Rhinocerotidae—Rhinoceroses |  | Ceratotherium simum simum |  | White Rhinoceros | Only populations of South Africa and Swaziland. All other populations are included in Schedule 1. For exclusive purpose of allowing international trade in live animals to appropriate and acceptable destinations and hunting trophies. All other specimens are deemed to be specimens of species included in Schedule 1 and trade in them is regulated accordingly |  |
+|  |  | Rhinocerotidae—Rhinoceroses |  | Ceratotherium simum simum |  | White Rhinoceros | Only populations of Eswatini and South Africa. All other populations are included in Schedule 1. For exclusive purpose of allowing international trade in live animals to appropriate and acceptable destinations and hunting trophies. All other specimens are deemed to be specimens of species included in Schedule 1 and trade in them is regulated accordingly |  |
 |  |  | Tapiridae—Tapirs |  | Tapirus terrestris |  | Brazilian Tapir |  |  |
 | Pholidota |  | Manidae—Pangolins |  | Manis spp |  | Pangolins | Except species included in Schedule 1 |  |
 | Pilosa |  | Bradypodidae—Three-toed sloths |  | Bradypus pygmaeus |  | Pygmy Three-toed Sloth |  |  |
@@ -1352,7 +1377,7 @@ Amendment(s) incorporated in the Act(s).
 | Primates—Apes, monkeys |  |  |  | Primates spp |  | All Monkeys, Lemurs, etc | Except species included in Schedule 1 |  |
 | Proboscidea |  | Elephantidae—Elephants |  | Loxodonta africana |  | African Elephant | Only populations of Botswana, Namibia, South Africa, and Zimbabwe (all other populations are included in Schedule 1), for the exclusive purpose of allowing— |  |
 |  |  |  |  |  |  |  | (a) | trade in hunting trophies for non-commercial purposes: |
-|  |  |  |  |  |  |  | (b) | trade in live animals to appropriate and acceptable destinations, as defined in Resolution Conf. 11.20 (Rev. CoP17), for Botswana and Zimbabwe and for in situ conservation programmes for Namibia and South Africa: |
+|  |  |  |  |  |  |  | (b) | trade in live animals to appropriate and acceptable destinations, as defined in Resolution Conf. 11.20 (Rev. CoP18), for Botswana and Zimbabwe and for in situ conservation programmes for Namibia and South Africa: |
 |  |  |  |  |  |  |  | (c) | trade in hides: |
 |  |  |  |  |  |  |  | (d) | trade in hair: |
 |  |  |  |  |  |  |  | (e) | trade in leather goods for commercial or non-commercial purposes for Botswana, Namibia, and South Africa and for non-commercial purposes for Zimbabwe: |
@@ -1360,7 +1385,11 @@ Amendment(s) incorporated in the Act(s).
 |  |  |  |  |  |  |  | (g) | trade in registered raw ivory (for Botswana, Namibia, South Africa, and Zimbabwe, whole tusks and pieces) subject to the certain conditions (consult Department of Conservation for details) |
 |  |  |  |  |  |  |  | No further proposals to allow trade in elephant ivory from populations included in Schedule 2 may be submitted for a specified period of time (consult Department of Conservation for details) |  |
 |  |  |  |  |  |  |  | On a proposal from the Secretariat, the Standing Committee can decide to cause this trade to cease partially or completely in the event of non-compliance by exporting or importing countries, or in the case of proven detrimental impacts of the trade on other elephant populations. All other specimens are deemed to be specimens of species included in Schedule 1 and the trade in them is regulated accordingly |  |
-| Rodentia |  | Sciuridae—Ground squirrels, tree squirrels |  | Ratufa spp |  | Giant Squirrels |  |  |
+| Rodentia |  | Muridae—Mice, rats |  | Leporillus conditor |  | Stick Nest Rat |  |  |
+|  |  |  |  | Pseudomys fieldi |  | Shark Bay Mouse |  |  |
+|  |  |  |  | Xeromys myoides |  | False Water Rat |  |  |
+|  |  |  |  | Zyzomys pedunculatus |  | Central Rock Rat |  |  |
+|  |  | Sciuridae—Ground squirrels, tree squirrels |  | Ratufa spp |  | Giant Squirrels |  |  |
 | Scandentia—Tree shrews |  |  |  | Scandentia spp |  | Tree Shrews |  |  |
 
 | Order |  | Family |  | Genus, species, or subspecies |  | Common name | Exceptions/limitations |
@@ -1399,6 +1428,7 @@ Amendment(s) incorporated in the Act(s).
 |  |  |  |  | Polyplectron germaini |  | Germain's Peacock Pheasant |  |
 |  |  |  |  | Polyplectron malacense |  | Malay Peacock Pheasant |  |
 |  |  |  |  | Polyplectron schleiermacheri |  | Bornean Peacock Pheasant |  |
+|  |  |  |  | Syrmaticus reevesii |  | Reeves’ Pheasant |  |
 |  |  |  |  | Tympanuchus cupido attwateri |  | Attwater's Prairie Chicken |  |
 | Gruiformes |  | Gruidae—Cranes |  | Gruidae spp |  | Cranes | Except species included in Schedule 1 |
 |  | Otididae—Bustards |  | Otididae spp |  | Bustards |  | Except species included in Schedule 1 |
@@ -1413,7 +1443,9 @@ Amendment(s) incorporated in the Act(s).
 |  |  | Fringillidae—Finches |  | Carduelis yarrellii |  | Yellow-faced Siskin |  |
 |  |  | Meliphagidae—Honeyeaters |  | Lichenostomus melanops cassidix |  | Helmeted Honeyeaters |  |
 |  |  | Muscicapidae—Old World flycatchers |  | Cyornis ruckii |  | Rueck's Blue Flycatcher, Rueck's Niltava |  |
-|  |  |  | Garrulax canorus |  | Hwamei, Melodious Laughing Thrush |  |  |
+|  |  |  | Dasyornis broadbenti litoralis |  | Western Rufous Bristlebird |  |  |
+|  |  |  |  | Dasyornis longirostris |  | Western Bristlebird |  |
+|  |  |  |  | Garrulax canorus |  | Hwamei, Melodious Laughing Thrush |  |
 |  |  |  |  | Garrulax taewanus |  | Taiwan Hwamei |  |
 |  |  |  |  | Leiothrix argentauris |  | Silver-eared Mesia |  |
 |  |  |  |  | Leiothrix lutea |  | Pekin Robin |  |
@@ -1438,9 +1470,13 @@ Amendment(s) incorporated in the Act(s).
 | Order | Family |  | Genus, species, or subspecies |  | Common name | Exceptions/limitations |
 | --- | --- | --- | --- | --- | --- | --- |
 | Crocodylia—Alligators, caimans, crocodiles |  |  | Crocodylia spp |  | Crocodiles, Alligators, Caimans, Gharials | Except species included in Schedule 1 |
-| Sauria | Agamidae—Spiny-tailed lizards, agamas |  | Saara spp |  | Spiny-tailed Lizards |  |
+|  |  |  |  |  |  | Population of Mexico with a zero export quota for wild specimens for commercial purposes |
+| Sauria | Agamidae—Spiny-tailed lizards, agamas |  | Ceratophora aspera |  | Rough-nosed Horned Lizard | Zero quota for wild specimens for commercial purposes |
+|  |  |  | Ceratophora stoddartii |  | Rhino-horned Lizard | Zero quota for wild specimens for commercial purposes |
+|  |  |  | Lyriocephalus scutatus |  | Hump-nosed Lizard | Zero quota for wild specimens for commercial purposes |
+|  |  |  | Saara spp |  | Spiny-tailed Lizards |  |
 |  |  | Uromastyx spp |  | Spiny-tailed Lizards |  |  |
-|  | Anguidae—Alligator lizards |  | Abronia spp |  | Alligator Lizards | Except the species included in Schedule 1 (zero export quota for wild specimens for Abronia aurita, A. gaiophantasma, A. montecristoi, A. salvadorensis and A. vasconcelosii) |
+|  | Anguidae—Alligator lizards |  | Abronia spp |  | Alligator Lizards | Except species included in Schedule 1 (zero export quota for wild specimens for Abronia aurita, A. gaiophantasma, A. montecristoi, A. salvadorensis and A. vasconcelosii) |
 |  | Chamaeleonidae—Chameleons |  | Archaius spp |  | Seychelles Tiger Chameleon |  |
 |  |  | Bradypodion spp |  | Dwarf Chameleons |  |  |
 |  |  |  | Brookesia spp |  | Leaf Chameleons | Except species included in Schedule 1 |
@@ -1461,8 +1497,11 @@ Amendment(s) incorporated in the Act(s).
 |  |  |  | Ouroborus spp |  | Girdled Lizards |  |
 |  |  |  | Pseudocordylus spp |  | Crag Lizards |  |
 |  |  |  | Smaug spp |  | Girdled Lizards |  |
-|  | Gekkonidae—Geckos |  | Nactus serpensinsula |  | Serpent Island Gecko |  |
+|  | Eublepharidae—Eyelid geckos |  | Goniurosaurus spp |  | Eyelid Geckos | Except species native to Japan |
+|  | Gekkonidae—Geckos |  | Gekko gecko |  | Tokay Gecko |  |
+|  |  |  | Nactus serpensinsula |  | Serpent Island Gecko |  |
 |  |  |  | Naultinus spp |  | New Zealand Tree Geckos |  |
+|  |  |  | Paroedura androyensis |  | Grandidier’s Madagascar Ground Gecko |  |
 |  |  |  | Paroedura masobe |  | Masobe Gecko |  |
 |  |  |  | Phelsuma spp |  | Day Geckos |  |
 |  |  |  | Rhoptropella spp |  | Day Geckos |  |
@@ -1470,10 +1509,7 @@ Amendment(s) incorporated in the Act(s).
 |  | Helodermatidae—Beaded lizards, gila monsters |  | Heloderma spp |  | Poisonous Lizards | Except subspecies included in Schedule 1 |
 |  | Iguanidae—Iguanas |  | Amblyrhynchus cristatus |  | Galapagos Marine Iguana |  |
 |  |  |  | Conolophus spp |  | Galapagos Land Iguanas |  |
-|  |  |  | Ctenosaura bakeri |  | Utila Spiny-tailed Iguana |  |
-|  |  |  | Ctenosaura melanosterna |  | Rio Aguá Spiny-tailed Iguana |  |
-|  |  |  | Ctenosaura oedirhina |  | Roatan Spiny-tailed Iguana |  |
-|  |  |  | Ctenosaura palearis |  | Guatemalan Black Iguana, Spiny-tailed Iguana |  |
+|  |  |  | Ctenosaura spp |  | Spiny-tailed Iguanas |  |
 |  |  |  | Iguana spp |  | Iguanas |  |
 |  |  |  | Phrynosoma blainvillii |  | Blainville's Horned Lizard, San Diego Horned Lizard |  |
 |  |  |  | Phrynosoma cerroense |  | Cedros Island Horned Lizard |  |
@@ -1512,6 +1548,7 @@ Amendment(s) incorporated in the Act(s).
 |  | Tropidophiidae—Wood boas |  | Tropidophiidae spp |  | Wood Boas |  |
 |  | Viperidae—Vipers |  | Atheris desaixi |  | Ashe’s Bush Viper |  |
 |  |  |  | Bitis worthingtoni |  | Kenya Horned Viper |  |
+|  |  |  | Pseudocerastes urarachnoides |  | Spider-tailed Horned Viper |  |
 |  |  |  | Trimeresurus mangshanensis |  | Mangshan Pit Viper |  |
 |  |  |  | Vipera wagneri |  | Iranian Viper |  |
 | Testudines | Carettochelyidae—Pig-nosed turtles |  | Carettochelys insculpta |  | Pig-nosed Turtle |  |
@@ -1526,7 +1563,8 @@ Amendment(s) incorporated in the Act(s).
 |  |  | Batagur dhongoka |  | Three-striped Roof Turtle |  |  |
 |  |  |  | Batagur kachuga |  | Bengal Roof Turtle, Red-crowned Roofed Turtle, Sail Terrapin |  |
 |  |  |  | Batagur trivittata |  | Burmese Roofed Turtle | Zero quota for wild specimens for commercial purposes |
-|  |  |  | Cuora spp |  | Asian Box Turtles | Zero quota for wild specimens for commercial purposes for Cuora aurocapitata, C. bourreti, C. flavomarginata, C. galbinifrons, C. mccordi, C. mouhotii, C. pani, C. picturata, C. trifasciata, C. yunnanensis, and C. zhoui |
+|  |  |  | Cuora spp |  | Asian Box Turtles | Except species included in Schedule 1 |
+|  |  |  |  |  |  | Zero quota for wild specimens for commercial purposes for Cuora aurocapitata, C. flavomarginata, C. galbinifrons, C. mccordi, C. mouhotii, C. pani, C. trifasciata, C. yunnanensis, and C. zhoui |
 |  |  |  | Cyclemys spp |  | Asian Leaf Turtles |  |
 |  |  |  | Geoemyda japonica |  | Ryukyu Black-breasted Leaf Turtle |  |
 |  |  |  | Geoemyda spengleri |  | Black-breasted Leaf Turtle |  |
@@ -1538,7 +1576,7 @@ Amendment(s) incorporated in the Act(s).
 |  |  |  | Leucocephalon yuwonoi |  | Sulawesi Forest Turtle |  |
 |  |  |  | Malayemys macrocephala |  | Malayan Snail-eating Turtle |  |
 |  |  |  | Malayemys subtrijuga |  | Malayan Snail-eating Turtle |  |
-|  |  |  | Mauremys annamensis |  | Annam Leaf Turtle, Annam Pond Turtle | Zero quota for wild specimens for commercial purposes |
+|  |  |  | Mauremys annamensis |  | Annam Pond Turtle | Zero quota for wild specimens for commercial purposes |
 |  |  |  | Mauremys japonica |  | Japanese Pond Turtle |  |
 |  |  |  | Mauremys mutica |  | Yellow Pond Turtle |  |
 |  |  |  | Mauremys nigricans |  | Red-necked Pond turtle, Kwangchung River Turtle |  |
@@ -1606,10 +1644,13 @@ Amendment(s) incorporated in the Act(s).
 |  |  |  | Scaphiophryne gottlebei |  | Rainbow Burrowing Frog |  |
 |  |  |  | Scaphiophyrne marmorata |  | Green Burrowing Frog |  |
 |  |  |  | Scaphiophyrne spinosa |  | Burrowing Frog |  |
-|  | Myobatrachidae —Gastric-brooding frogs |  | Rheobatrachus spp |  | Gastric-brooding Frogs | Except Rheobatrachus silus and Rheobatrachus vitellinus, which are not included in the schedules |
+|  | Myobatrachidae—Gastric-brooding frogs |  | Rheobatrachus spp |  | Gastric-brooding Frogs | Except Rheobatrachus silus and Rheobatrachus vitellinus, which are not included in the schedules |
 | Caudata | Ambystomatidae—Axolotls, mole salamanders |  | Ambystoma dumerilii |  | Lake Patzcuaro Salamander |  |
 |  |  | Ambystoma mexicanum |  | Axolotl |  |  |
-|  | Salamandridae—Newts and salamanders |  | Paramesotriton hongkongensis |  | Hong Kong Warty Newt |  |
+|  | Salamandridae—Newts and salamanders |  | Echinotriton chinhaiensis |  | Chinhai Spiny Newt |  |
+|  |  | Echinotriton maxiquadratus |  | Mountain Spiny Newt |  |  |
+|  |  |  | Paramesotriton spp |  | Asian Warty Newts |  |
+|  |  |  | Tylototriton spp |  | Crocodile Newts |  |
 
 | Order | Family | Genus, species, or subspecies | Common name | Exceptions/limitations |
 | --- | --- | --- | --- | --- |
@@ -1621,10 +1662,14 @@ Amendment(s) incorporated in the Act(s).
 | Lamniformes | Alopiidae—Thresher sharks | Alopias spp | Thresher Sharks |  |
 |  | Cetorhinidae—Basking sharks | Cetorhinus maximus | Basking Shark |  |
 |  | Lamnidae—Mackerel sharks | Carcharodon carcharias | Great White Shark |  |
+|  |  | Isurus oxyrinchus | Shortfin Mako Shark |  |
+|  |  | Isurus paucus | Longfin Mako Shark |  |
 |  |  | Lamna nasus | Porbeagle |  |
 | Myliobatiformes | Myliobatidae—Eagle and mobulid rays | Manta spp | Manta Rays |  |
 |  |  | Mobula spp | Devil Rays |  |
 | Orectolobiformes | Rhincodontidae—Whale sharks | Rhincodon typus | Whale Shark |  |
+| Rhinopristiformes | Glaucostegidae—Giant guitarfishes | Glaucostegus spp | Giant Guitarfish |  |
+|  | Rhinidae—Wedgefishes | Rhinidae spp | Wedgefish |  |
 
 | Order |  | Family |  | Genus, species, or subspecies |  | Common name | Exceptions/limitations |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1645,10 +1690,12 @@ Amendment(s) incorporated in the Act(s).
 | Araneae | Theraphosidae—Red-kneed tarantulas, tarantulas | Aphonopelma albiceps | Curly-hair Tarantula |  |
 |  | Aphonopelma pallidum | Mexican Grey Tarantula |  |  |
 |  |  | Brachypelma spp | Mexican and Central American Tarantulas |  |
-| Scorpiones | Scorpionidae—Scorpions | Pandinus dictator | Scorpion |  |
-|  | Pandinus gambiensis | Giant Senegalese Scorpion |  |  |
+|  |  | Poecilotheria spp | Ornamental Tarantulas |  |
+| Scorpiones | Scorpionidae—Scorpions | Pandinus camerounensis | Cameroon Emperor Scorpion |  |
+|  | Pandinus dictator | Emperor Scorpion |  |  |
+|  |  | Pandinus gambiensis | Giant Senegalese Scorpion |  |
 |  |  | Pandinus imperator | Emperor Scorpion |  |
-|  |  | Pandinus roeseli |  |  |
+|  |  | Pandinus roeseli | Emperor Scorpion |  |
 
 | Order | Family | Genus, species, or subspecies | Common name | Exceptions/limitations |
 | --- | --- | --- | --- | --- |
@@ -1721,10 +1768,11 @@ Amendment(s) incorporated in the Act(s).
 | Caryocaraceae—Ajo |  | Caryocar costaricense |  | Costus | #4 |  |
 | Cucurbitaceae—Melons, gourds, cucurbits |  | Zygosicyos pubescens |  | Tobory |  |  |
 |  | Zygosicyos tripartitus |  | Betoboky |  |  |  |
+| Cupressaceae—Cypresses |  | Widdringtonia whytei |  | Mulanje Cedar |  |  |
 | Cyatheaceae—Tree ferns |  | Cyathea spp |  | Tree Ferns | #4 |  |
 | Cycadaceae—Cycads |  | Cycadaceae spp |  | Cycads | #4; except species included in Schedule 1 |  |
 | Dicksoniaceae—Tree ferns |  | Cibotium barometz |  |  | #4 |  |
-|  |  | Dicksonia spp |  | Tree Ferns | #4; only populations of Americas. No other population is included in the schedules |  |
+|  |  | Dicksonia spp |  | Tree Ferns | #4; only populations of the Americas. No other population is included in the schedules |  |
 | Didiereaceae—Allaudias, didiereas |  | Didiereaceae spp |  | Allaudias, Didiereas | #4 |  |
 | Dioscoreaceae—Elephant’s foot, kniss |  | Dioscorea deltoidea |  | Elephant's Foot | #4 |  |
 | Droseraceae—Venus flytrap |  | Dionaea muscipula |  | Venus Flytrap | #4 |  |
@@ -1738,10 +1786,12 @@ Amendment(s) incorporated in the Act(s).
 |  | Guibourtia demeusei |  | Bubinga |  | #15 |  |
 |  |  | Guibourtia pellegriniana |  | Bubinga | #15 |  |
 |  |  | Guibourtia tessmannii |  | Bubinga | #15 |  |
-|  |  | Pericopsis elata |  | African Teak | #5 |  |
-|  |  | Platymiscium pleiostachyum |  | Quira, Macawood | #4 |  |
+|  |  | Paubrasilia echinata |  | Brazilwood | #10 |  |
+|  |  | Pericopsis elata |  | African Teak | #17 |  |
+|  |  | Platymiscium parviflorum |  | Quira, Macawood | #4 |  |
 |  |  | Pterocarpus erinaceus |  | African Rosewood, Kosso |  |  |
 |  |  | Pterocarpus santalinus |  | Red Sanders | #7 |  |
+|  |  | Pterocarpus tinctorius |  | African Padauk | #6 |  |
 |  |  | Senna meridionalis |  |  |  |  |
 | Liliaceae—Aloes |  | Aloe spp |  | Aloes | #4; except species included in Schedule 1; also excludes Aloe vera, also referenced as Aloe barbadensis, which is not included in the schedules |  |
 | Malvaceae—Includes baobabs |  | Adansonia grandidieri |  | Grandidier's Baobab | #16 |  |
@@ -1794,7 +1844,7 @@ Amendment(s) incorporated in the Act(s).
 | Welwitschiaceae—Welwitschia |  | Welwitschia mirabilis |  | Welwitschia | #4 |  |
 | Zamiaceae—Cycads |  | Zamiaceae spp |  | Cycads | #4; except species included in Schedule 1 |  |
 | Zingiberaceae—Ginger lily, Natal ginger |  | Hedychium philippinense |  | Philippine Garland-flower | #4 |  |
-|  |  | Siphonochilus aethiopicus |  | Natal Ginger | Only populations of Mozambique, South Africa, Swaziland, and Zimbabwe |  |
+|  |  | Siphonochilus aethiopicus |  | Natal Ginger | Only populations of Eswatini, Mozambique, South Africa, and Zimbabwe |  |
 | Zygophyllaceae—Lignum-vitae |  | Bulnesia sarmientoi |  | Palo Santo, Verawood | #11 |  |
 |  | Guaiacum spp |  | Lignum-vitae |  | #2 |  |
 
@@ -1803,7 +1853,7 @@ Amendment(s) incorporated in the Act(s).
 | 1 | All parts and derivatives except—aseeds, spores, and pollen (including pollinia); andbseedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers; andccut flowers of artificially propagated plants; anddfruits, and parts and derivatives thereof, of artificially propagated plants of the genus Vanilla. |
 | 2 | All parts and derivatives except—aseeds and pollen; andbfinished products packaged and ready for the retail trade. |
 | 3 | Whole and sliced roots and parts of roots, excluding manufactured parts or derivatives, such as powders, pills, extracts, tonics, teas, and confectionery. |
-| 4 | All parts and derivatives except—aseeds (including seedpods of Orchidaceae), spores, and pollen (including pollinia). The exemption does not apply to seeds from Cactaceae spp exported from Mexico, or to seeds from Beccariophoenix madagascariensis and Dypsis decaryi exported from Madagascar; andbseedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers; andccut flowers of artificially propagated plants; anddfruits, and parts and derivatives thereof, of naturalised or artificially propagated plants of the genus Vanilla (Orchidaceae) and of the family Cactaceae; andestems, flowers, and parts and derivatives thereof of naturalised or artificially propagated plants of the genera Opuntia, subgenus Opuntia and Selenicereus (Cactaceae); andffinished products of Euphorbia antisyphilitica packaged and ready for retail trade. |
+| 4 | All parts and derivatives except—aseeds (including seedpods of Orchidaceae), spores, and pollen (including pollinia). The exemption does not apply to seeds from Cactaceae spp. exported from Mexico, and to seeds from Beccariophoenix madagascariensis and Dypsis decaryi exported from Madagascar; andbseedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers; andccut flowers of artificially propagated plants; anddfruits, and parts and derivatives thereof, of naturalized or artificially propagated plants of the genus Vanilla (Orchidaceae) and of the family Cactaceae; andestems, flowers, and parts and derivatives thereof, of naturalized or artificially propagated plants of the genera Opuntia subgenus Opuntia and Selenicereus (Cactaceae); andffinished products of Aloe ferox and Euphorbia antisyphilitica packaged and ready for retail trade. |
 | 5 | Logs, sawn wood, and veneer sheets. |
 | 6 | Logs, sawn wood, veneer sheets, and plywood. |
 | 7 | Logs, wood chips, powder, and extracts. |
@@ -1814,8 +1864,9 @@ Amendment(s) incorporated in the Act(s).
 | 12 | Logs, sawn wood, veneer sheets, plywood, and extracts. Finished products containing such extracts as ingredients, including fragrances, are not considered to be covered by this annotation. |
 | 13 | The kernel (also known as endosperm, pulp, or copra) and any derivative thereof. |
 | 14 | All parts and derivatives except—aseeds and pollen; andbseedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers; andcfruits; anddleaves; andeexhausted agarwood powder, including compressed powder in all shapes; andffinished products packaged and ready for retail trade; this exemption does not apply to wood chips, beads, prayer beads, and carvings. |
-| 15 | All parts and derivatives are included, except—aleaves, flowers, pollen, fruits, and seeds; andbnon-commercial exports of a maximum total weight of 10 kg per shipment; andcparts and derivatives of Dalbergia cochinchinensis, which are covered by annotation #4; anddparts and derivatives of Dalbergia spp originating and exported from Mexico, which are covered by annotation #6. |
-| 16 | Seeds, fruits, oil, and live plants. |
+| 15 | All parts and derivatives are included, except—aleaves, flowers, pollen, fruits, and seeds; andbfinished products to a maximum weight of wood of the listed species of up to 10 kg per shipment; andcfinished musical instruments, finished musical instrument parts, and finished musical instrument accessories; anddparts and derivatives of Dalbergia cochinchinensis, which are covered by annotation # 4; andeparts and derivatives of Dalbergia spp. originating and exported from Mexico, which are covered by annotation # 6. |
+| 16 | Seeds, fruits, and oils. |
+| 17 | Logs, sawn wood, veneer sheets, plywood, and transformed wood. |
 
 ## Schedule 3 — Species exploited by trade
 
@@ -1849,7 +1900,6 @@ Amendment(s) incorporated in the Act(s).
 |  | Hyaenidae—Aardwolf, hyenas |  | Hyaena hyaena |  | Striped Hyena |  | Pakistan |
 |  |  |  | Proteles cristata |  | Aardwolf |  | Botswana |
 |  | Mustelinae—Grisons, honey badgers, martens, tayra, weasels |  | Eira barbara |  | Tayra |  | Honduras |
-|  |  | Galictis vittata |  | Greater Grison |  | Costa Rica |  |
 |  |  | Martes flavigula |  | Yellow-throated Marten |  | India |  |
 |  |  |  | Martes foina intermedia |  | Central Asian Stone Marten |  | India |
 |  |  |  | Martes gwatkinsii |  | Nilgiri Marten |  | India |
@@ -1859,10 +1909,8 @@ Amendment(s) incorporated in the Act(s).
 |  |  |  | Mustela kathiah |  | Yellow-bellied Weasel |  | India |
 |  |  |  | Mustela sibirica |  | Siberian Weasel |  | India |
 |  | Odobenidae—Walruses |  | Odobenus rosmarus |  | Walrus |  | Canada |
-|  | Procyonidae—Coatis, kinkajou, olingos |  | Bassaricyon gabbii |  | Bushy-tailed Olingo |  | Costa Rica |
-|  |  | Bassariscus sumichrasti |  | Central American Cacomistle |  | Costa Rica |  |
-|  |  |  | Nasua narica |  | Northern Coati |  | Honduras |
-|  |  |  | Nasua nasua solitaria |  | South Brazilian Coati |  | Uruguay |
+|  | Procyonidae—Coatis, kinkajou, olingos |  | Nasua narica |  | Northern Coati |  | Honduras |
+|  |  | Nasua nasua solitaria |  | South Brazilian Coati |  | Uruguay |  |
 |  |  |  | Potos flavus |  | Kinkajou |  | Honduras |
 |  | Viverridae—Binturong, civets, linsangs, otter-civet, palm civets |  | Arctictis binturong |  | Binturong |  | India |
 |  |  | Civettictis civetta |  | African Civet |  | Botswana |  |
@@ -1873,17 +1921,14 @@ Amendment(s) incorporated in the Act(s).
 |  |  |  | Viverra zibetha |  | Large Indian Civet |  | India |
 |  |  |  | Viverricula indica |  | Small Indian Civet |  | India |
 | Chiroptera | Phyllostomidae—Broad-nosed bats |  | Platyrrhinus lineatus |  | White-lined Bat |  | Uruguay |
-| Cingulata | Dasypodidae—Armadillos |  | Cabassous centralis |  | Naked-tailed Armadillo |  | Costa Rica |
-|  |  |  | Cabassous tatouay |  | Greater Naked-tailed Armadillo |  | Uruguay |
-| Pilosa | Megalonychidae—Two-toed sloths |  | Choloepus hoffmanni |  | Hoffman's Sloth |  | Costa Rica |
-|  | Myrmecophagidae—American anteaters |  | Tamandua mexicana |  | Northern Tamandua |  | Guatemala |
+| Cingulata | Dasypodidae—Armadillos |  | Cabassous tatouay |  | Greater Naked-tailed Armadillo |  | Uruguay |
+| Pilosa | Myrmecophagidae—American anteaters |  | Tamandua mexicana |  | Northern Tamandua |  | Guatemala |
 | Rodentia | Cuniculidae—Pacas |  | Cuniculus paca |  | Paca |  | Honduras |
 |  | Dasyproctidae—Agoutis |  | Dasyprocta punctata |  | Central American Agouti |  | Honduras |
 |  | Erethizontidae—New World porcupines |  | Sphiggurus mexicanus |  | Mexican Porcupine |  | Honduras |
 |  |  | Sphiggurus spinosus |  | Spiny Tree Porcupine |  | Uruguay |  |
 |  | Sciuridae—Ground squirrels, tree squirrels |  | Marmota caudata |  | Longtailed Marmot |  | India |
 |  |  | Marmota himalayana |  | Himalayan Marmot |  | India |  |
-|  |  |  | Sciurus deppei |  | Deppe's Squirrel |  | Costa Rica |
 
 | Order |  | Family |  | Genus, species, or subspecies |  | Common name |  | Exceptions/limitations and countries requiring export permit |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1895,7 +1940,7 @@ Amendment(s) incorporated in the Act(s).
 | Galliformes |  | Cracidae—Chachalacas, curassows, guans |  | Crax alberti |  | Blue-knobbed Curassow |  | Colombia |
 |  |  | Crax daubentoni |  | Yellow-knobbed Curassow |  | Colombia |  |  |
 |  |  | Crax globulosa |  | Wattled Curassow |  | Colombia |  |  |
-|  |  |  |  | Crax rubra |  | Great Curassow |  | Colombia, Costa Rica, Guatemala, Honduras |
+|  |  |  |  | Crax rubra |  | Great Curassow |  | Colombia, Guatemala, Honduras |
 |  |  |  |  | Ortalis vetula |  | Plain Chachalaca |  | Guatemala, Honduras |
 |  |  |  |  | Pauxi pauxi |  | Northern Helmeted Curassow |  | Colombia |
 |  |  |  |  | Penelope purpurascens |  | Crested Guan |  | Honduras |
@@ -1920,9 +1965,33 @@ Amendment(s) incorporated in the Act(s).
 | Sauria |  | Gekkonidae—Geckos |  | Dactylocnemis spp |  | Northern Brown Geckos |  | New Zealand |
 |  |  |  |  | Hoplodactylus spp |  | New Zealand Giant Geckos |  | New Zealand |
 |  |  |  |  | Mokopirirakau spp |  | Forest and Alpine Geckos |  | New Zealand |
+|  |  |  |  | Sphaerodactylus armasi |  | Guantanamo Coastal Gecko |  | Cuba |
+|  |  |  |  | Sphaerodactylus celicara |  | Baracoan Eyespot Sphaero |  | Cuba |
+|  |  |  |  | Sphaerodactylus dimorphicus |  | Yellow-tailed Dwarf Gecko |  | Cuba |
+|  |  |  |  | Sphaerodactylus intermedius |  | Mantanzas Least Gecko |  | Cuba |
+|  |  |  |  | Sphaerodactylus nigropunctatus alayoi |  | Black-spotted Least Gecko |  | Cuba |
+|  |  |  |  | Sphaerodactylus nigropunctatus granti |  | Black-spotted Least Gecko |  | Cuba |
+|  |  |  |  | Sphaerodactylus nigropunctatus lissodesmus |  | Black-spotted Least Gecko |  | Cuba |
+|  |  |  |  | Sphaerodactylus nigropunctatus ocujal |  | Black-spotted Least Gecko |  | Cuba |
+|  |  |  |  | Sphaerodactylus nigropunctatus strategus |  | Black-spotted Least Gecko |  | Cuba |
+|  |  |  |  | Sphaerodactylus notatus atactus |  | Reef Gecko |  | Cuba |
+|  |  |  |  | Sphaerodactylus oliveri |  | Juventud Least Gecko |  | Cuba |
+|  |  |  |  | Sphaerodactylus pimienta |  | Pepper Sphaero |  | Cuba |
+|  |  |  |  | Sphaerodactylus ruibali |  | Ruibal’s Least Gecko |  | Cuba |
+|  |  |  |  | Sphaerodactylus siboney |  | Siboney’s Least Gecko |  | Cuba |
+|  |  |  |  | Sphaerodactylus torrei |  | Barbour’s Least Gecko |  | Cuba |
 |  |  |  |  | Toropuku spp |  | Striped Geckos |  | New Zealand |
 |  |  |  |  | Tukutuku spp |  | Harlequin Geckos |  | New Zealand |
 |  |  |  |  | Woodworthia spp |  | Rock Geckos |  | New Zealand |
+|  |  | Polychrotidae |  | Anolis agueroi |  | Iguanian Lizards or Anoles |  | Cuba |
+|  |  |  |  | Anolis baracoae |  | Iguanian Lizards or Anoles |  | Cuba |
+|  |  |  |  | Anolis barbatus |  | Iguanian Lizards or Anoles |  | Cuba |
+|  |  |  |  | Anolis chamaeleonides |  | Iguanian Lizards or Anoles |  | Cuba |
+|  |  |  |  | Anolis equestris |  | Iguanian Lizards or Anoles |  | Cuba |
+|  |  |  |  | Anolis guamuhaya |  | Iguanian Lizards or Anoles |  | Cuba |
+|  |  |  |  | Anolis luteogularis |  | Iguanian Lizards or Anoles |  | Cuba |
+|  |  |  |  | Anolis pigmaequestris |  | Iguanian Lizards or Anoles |  | Cuba |
+|  |  |  |  | Anolis porcus |  | Iguanian Lizards or Anoles |  | Cuba |
 | Serpentes |  | Colubridae—Typical snakes, water snakes, whipsnakes |  | Atretium schistosum |  | Olive Keel-back Snake |  | India |
 |  |  |  | Cerberus rynchops |  | Dog-faced Water Snake |  | India |  |
 |  |  |  |  | Xenochrophis piscator |  | Checkered Keelback Water Snake |  | India |
@@ -2010,7 +2079,7 @@ Amendment(s) incorporated in the Act(s).
 | 1 | All parts and derivatives except—aseeds, spores, and pollen (including pollinia); andbseedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers; andccut flowers of artificially propagated plants; anddfruits, and parts and derivatives thereof, of artificially propagated plants of the genus Vanilla. |
 | 2 | All parts and derivatives except—aseeds and pollen; andbfinished products packaged and ready for the retail trade. |
 | 3 | Whole and sliced roots and parts of roots, excluding manufactured parts or derivatives, such as powders, pills, extracts, tonics, teas, and confectionery. |
-| 4 | All parts and derivatives except—aseeds (including seedpods of Orchidaceae), spores, and pollen (including pollinia). The exemption does not apply to seeds from Cactaceae spp exported from Mexico, or to seeds from Beccariophoenix madagascariensis and Dypsis decaryi exported from Madagascar; andbseedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers; andccut flowers of artificially propagated plants; anddfruits, and parts and derivatives thereof, of naturalised or artificially propagated plants of the genus Vanilla (Orchidaceae) and of the family Cactaceae; andestems, flowers, and parts and derivatives thereof of naturalised or artificially propagated plants of the genera Opuntia, subgenus Opuntia and Selenicereus (Cactaceae); andffinished products of Euphorbia antisyphilitica packaged and ready for retail trade. |
+| 4 | All parts and derivatives except—aseeds (including seedpods of Orchidaceae), spores, and pollen (including pollinia). The exemption does not apply to seeds from Cactaceae spp. exported from Mexico, and to seeds from Beccariophoenix madagascariensis and Dypsis decaryi exported from Madagascar; andbseedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers; andccut flowers of artificially propagated plants; anddfruits, and parts and derivatives thereof, of naturalized or artificially propagated plants of the genus Vanilla (Orchidaceae) and of the family Cactaceae; andestems, flowers, and parts and derivatives thereof, of naturalized or artificially propagated plants of the genera Opuntia subgenus Opuntia and Selenicereus (Cactaceae); andffinished products of Aloe ferox and Euphorbia antisyphilitica packaged and ready for retail trade. |
 | 5 | Logs, sawn wood, and veneer sheets. |
 | 6 | Logs, sawn wood, veneer sheets, and plywood. |
 | 7 | Logs, wood chips, powder, and extracts. |
@@ -2021,5 +2090,6 @@ Amendment(s) incorporated in the Act(s).
 | 12 | Logs, sawn wood, veneer sheets, plywood, and extracts. Finished products containing such extracts as ingredients, including fragrances, are not considered to be covered by this annotation. |
 | 13 | The kernel (also known as endosperm, pulp, or copra) and any derivative thereof. |
 | 14 | All parts and derivatives except—aseeds and pollen; andbseedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers; andcfruits; anddleaves; andeexhausted agarwood powder, including compressed powder in all shapes; andffinished products packaged and ready for retail trade; this exemption does not apply to wood chips, beads, prayer beads, and carvings. |
-| 15 | All parts and derivatives are included, except—aleaves, flowers, pollen, fruits, and seeds; andbnon-commercial exports of a maximum total weight of 10 kg per shipment; andcparts and derivatives of Dalbergia cochinchinensis, which are covered by annotation #4; anddparts and derivatives of Dalbergia spp originating and exported from Mexico, which are covered by annotation #6. |
-| 16 | Seeds, fruits, oil, and live plants. |
+| 15 | All parts and derivatives are included, except—aleaves, flowers, pollen, fruits, and seeds; andbfinished products to a maximum weight of wood of the listed species of up to 10 kg per shipment; andcfinished musical instruments, finished musical instrument parts, and finished musical instrument accessories; anddparts and derivatives of Dalbergia cochinchinensis, which are covered by annotation # 4; andeparts and derivatives of Dalbergia spp originating and exported from Mexico, which are covered by Annotation # 6. |
+| 16 | Seeds, fruits, and oils. |
+| 17 | Logs, sawn wood, veneer sheets, plywood, and transformed wood. |
