@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2019-11-17_
+_Consolidation as at 2020-01-13_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -1722,6 +1722,8 @@ A company must have 1 or more directors (see section 10(d)).
 (2) The following persons are disqualified from being appointed or holding office as a director of a company:
   (a) a person who is under 18 years of age:
   (b) a person who is an undischarged bankrupt:
+  (baa) a person who is prohibited from being a director of a company under section 299(1)﻿(b) of the Insolvency Act 2006:
+  (bab) a person who is prohibited from directly or indirectly being concerned, or taking part, in the management of a company under section 299(1)﻿(c) of the Insolvency Act 2006:
   (ba)
   (c)
   (d)
@@ -6062,17 +6064,7 @@ When exercising a power described in section 365F or 365G, the Registrar (or a p
 The Registrar must remove a note of warning inserted under section 366A if the Registrar is satisfied that the reasons for inserting it do not exist.
 
 ### 367 Application of Official Information Act 1982 and Privacy Act 1993
-(1) This section applies to—
-  (a) the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act; and
-  (b) the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act; and
-  (c) the Registrar; and
-  (d) a Deputy Registrar; and
-  (e) a District Registrar; and
-  (f) an Assistant Registrar.
-(2) Notwithstanding the Official Information Act 1982 or the Privacy Act 1993, a person to whom this section applies may refuse to disclose a document, information, or report in his or her possession obtained in making, or acquired as a result of, an inspection under section 365, until the purpose for which the inspection is carried out has been satisfied.
-(3) Notwithstanding the Official Information Act 1982, where a person requests disclosure of whether an inspection under section 365 is being, or is proposed to be, or has been carried out, as the case may be, no person to whom this section applies is required to disclose that information under the Official Information Act 1982 unless—
-  (a) the disclosure of that information would not be likely to prejudice the commercial position of any person; and
-  (b) there is no other good reason for withholding that information under that Act.
+[Repealed]
 
 ### 367A Confidentiality of director information
 (1) The Registrar must treat director information as confidential and must not make it available to a member of the public.
@@ -6080,8 +6072,7 @@ The Registrar must remove a note of warning inserted under section 366A if the R
 (3) In this section, director information means a director's date and place of birth.
 
 ### 368 Appeals from decisions under section 367
-(1) A person who is aggrieved by a refusal to disclose a document, information, or report under section 367 may appeal to the court within 15 working days after being notified of that refusal, or within such further time as the court may allow.
-(2) On hearing the appeal, the court may confirm the refusal, or give such directions, or make such determination in the matter as the court thinks fit.
+[Repealed]
 
 ### 369 Inspector's report admissible in liquidation proceedings
 Notwithstanding any other Act or rule of law, a report prepared by a person in relation to an inspection carried out by him or her under section 365, or in relation to a disclosure under section 365F, 365G, or 365H, is admissible in evidence at the hearing of an application to the court to appoint a liquidator.
@@ -6322,8 +6313,10 @@ Any person who, not being incorporated with limited liability, whether alone or 
 
 ### 382 Persons prohibited from managing companies
 (1) Where—that person shall not, during the period of 5 years after the conviction or the judgment, be a director or promoter of, or in any way, whether directly or indirectly, be concerned or take part in the management of, a company, unless that person first obtains the leave of the court which may be given on such terms and conditions as the court thinks fit.
-  (a) a person has been convicted of an offence in connection with the promotion, formation, or management of a company (being an offence that is punishable by a term of imprisonment of not less than 3 months); or
-  (b) a person has been convicted of an offence under any of sections 377 to 380 or of any crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961,—
+  (a) a person has been convicted of an offence in connection with the promotion, formation, or management of a company (being an offence that is punishable by a term of imprisonment of not less than 3 months), including an offence under section 138A; or
+  (b) a person has been convicted of an offence under any of sections 377 to 380 or of any crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961; or
+  (ba) a person has been convicted of an offence under section 143A(1)﻿(d) or 143B(1) of the Tax Administration Act 1994; or
+  (bb) a person has been convicted of an offence under section 148 of the Tax Administration Act 1994 of aiding, abetting, inciting, or conspiring with another person to commit an offence against section 143B(1) of that Act,—
   (c)
 (2) A person intending to apply for the leave of the court under this section shall give to the Registrar not less than 10 days' notice of that person's intention to apply.
 (3) The Registrar, and such other persons as the court thinks fit, may attend and be heard at the hearing of any application under this section.
@@ -6332,8 +6325,10 @@ Any person who, not being incorporated with limited liability, whether alone or 
 
 ### 383 Court may disqualify directors
 (1) Where—the court may make an order that the person must not, without the leave of the court, be a director or promoter of, or in any way, whether directly or indirectly, be concerned or take part in the management of, a company permanently or for a period specified in the order.
-  (a) a person has been convicted of an offence in connection with the promotion, formation, or management of a company (being an offence that is punishable by a term of imprisonment of not less than 3 months), or has been convicted of a crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961; or
+  (a) a person has been convicted of an offence in connection with the promotion, formation, or management of a company (being an offence that is punishable by a term of imprisonment of not less than 3 months), including an offence under section 138A, or has been convicted of a crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961; or
   (b) a person has committed an offence for which the person is liable (whether convicted or not) under this Part; or
+  (ba) a person has been convicted of an offence under section 143A(1)﻿(d) or 143B(1) of the Tax Administration Act 1994; or
+  (bb) a person has been convicted of an offence under section 148 of the Tax Administration Act 1994 of aiding, abetting, inciting, or conspiring with another person to commit an offence against section 143B(1) of that Act; or
   (c) a person has, while a director of a company and whether convicted or not,—
     (i) persistently failed to comply with this Act, the Financial Markets Conduct Act 2013, the Takeovers Act 1993, or the takeovers code in force under that Act or, if the company has failed to so comply, persistently failed to take reasonable steps to obtain compliance with those Acts or the code; or
     (ii) been guilty of fraud in relation to the company or of a breach of duty to the company or a shareholder; or
@@ -6541,7 +6536,8 @@ A document, other than a document in any legal proceedings, may be served on a d
   (c) delivered in such manner as the court directs; or
   (d) delivered in accordance with an agreement made with the body corporate; or
   (e) posted to the address of the principal office of the body corporate or delivered to a box at a document exchange which the body corporate is using at the time; or
-  (f) sent by facsimile machine to a telephone number used for the transmission of documents by facsimile at the principal office or principal place of business of the body corporate.
+  (f) sent by facsimile machine to a telephone number used for the transmission of documents by facsimile at the principal office or principal place of business of the body corporate; or
+  (g) sent by email to an electronic address used by the body corporate.
 (3A) Despite subsections (1) to (3), a shareholder or creditor may notify the company—
   (a) that the shareholder or creditor wishes to receive documents by electronic means; and
   (b) of the electronic address to which documents are to be delivered.
@@ -6730,7 +6726,8 @@ A meeting of shareholders may be held by a quorum of the shareholders—
 (3A) A shareholder may appoint more than 1 proxy for a particular meeting, provided that more than 1 proxy is not appointed to exercise the rights attached to a particular share held by the shareholder.
 (4) No proxy is effective in relation to a meeting unless a copy of the notice of appointment is produced before the start of the meeting.
 (5) The constitution of a company may provide that a proxy is not effective unless it is produced by a specified time before the start of a meeting if the time specified is not earlier than 48 hours before the start of the meeting.
-(6) For the purposes of subclause (5), the constitution may provide for different matters for different kinds of proxies (for example, a different specified time for the production of a proxy by electronic means).
+(5A) However, if a time is specified in the constitution of a company under subclause (5) but the notice of the meeting provides that a proxy may be produced by a later time (being a time before the start of the meeting), a proxy produced by that later time is still effective.
+(6) For the purposes of subclauses (5) and (5A), the constitution or the notice may provide for different matters for different kinds of proxies (for example, a different specified time for the production of a proxy by electronic means).
 
 ### 7 Postal votes
 (1) Subject to the constitution of the company, a shareholder may exercise the right to vote at a meeting by casting a postal vote in accordance with the provisions of this clause.
@@ -6739,8 +6736,8 @@ A meeting of shareholders may be held by a quorum of the shareholders—
 (3) If no person has been authorised to receive and count postal votes at a meeting, or if no person is named as being so authorised in the notice of the meeting, every director is deemed to be so authorised.
 (4) A shareholder may cast a postal vote on all or any of the matters to be voted on at the meeting by sending a notice of the manner in which his or her shares are to be voted to a person authorised to receive and count postal votes at that meeting. The notice must reach that person not less than 48 hours before the start of the meeting.
 (4A) Despite subclause (4),—
-  (a) the constitution of a company may specify a time by which postal votes that are cast using electronic means must reach the person who is authorised to receive and count postal votes at the meeting; and
-  (b) that time may be less than 48 hours before the start of the meeting.
+  (a) the constitution of a company, or the notice of the meeting, may specify a time (being a time less than 48 hours before the start of the meeting) by which postal votes that are cast using electronic means must reach the person who is authorised to receive and count postal votes at the meeting; and
+  (b) such postal votes must reach that person by the specified time (or, if different times are specified in the constitution and the notice, the later of those times).
 (5) It is the duty of a person authorised to receive and count postal votes at a meeting—
   (a) to collect together all postal votes received by him or her or by the company; and
   (b) in relation to each resolution to be voted on at the meeting, to count—
