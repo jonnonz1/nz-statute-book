@@ -1,5 +1,5 @@
 # Geographical Indications (Wine and Spirits) Registration Act 2006
-_Consolidation as at 2017-07-27_
+_Consolidation as at 2020-01-13_
 
 ### 1 Title
 This Act is the Geographical Indications (Wine and Spirits) Registration Act 2006.
@@ -85,6 +85,7 @@ This Act binds the Crown.
 (1) A registered geographical indication is a geographical indication that has been registered under section 8.
 (2) A New Zealand registered geographical indication is a New Zealand geographical indication that has been registered under section 8.
 (3) A foreign registered geographical indication is a foreign geographical indication that has been registered under section 8.
+(4) However, this section is subject to section 47D.
 
 **Registration**
 
@@ -389,7 +390,8 @@ The Registrar may register a geographical indication with conditions as the Regi
   (b) its boundaries, unless it is a foreign registered geographical indication (including a foreign registered geographical indication in Part 3 of the register); and
   (c) any conditions that relate to it; and
   (ca) the name and address of the registrant; and
-  (d) the date of registration (except in the case of an enduring New Zealand geographical indication).
+  (d) the date of registration (except in the case of an enduring New Zealand geographical indication); and
+  (e) if the geographical indication’s status is registered-past expiry date (as defined in section 47D), a statement to that effect.
 (4) The register may be kept in any manner that the Registrar thinks fit, including, either wholly or partly, by means of a device or facility—
   (a) that records or stores information electronically or by other means; and
   (b) that permits the information so recorded or stored to be readily inspected or reproduced in usable form.
@@ -412,10 +414,10 @@ If satisfied that there is an obvious error in, or omission from, the register, 
   (e) it has become a term customary in common language as the common name for a wine or spirit in New Zealand.
 (2) The Registrar may remove a registered geographical indication under subsection (1) on his or her own initiative, or on the application of any interested person.
 (3) The Registrar may refuse an application for removal that in the Registrar's opinion is vexatious or frivolous.
-(4) The Registrar must remove a registered geographical indication from the register on its expiry.
+(4) The Registrar must remove a registered geographical indication from the register when required to do so under section 47C(2).
 
 ### 45A Notice of proposed removal
-(1) If the Registrar proposes on his or her own initiative to remove a registered geographical indication from the register, the Registrar must—
+(1) If the Registrar proposes on his or her own initiative to remove a registered geographical indication from the register under section 45(1), the Registrar must—
   (a) notify the registrant of the grounds of the proposed removal; and
   (b) give public notice of the proposed removal.
 (2) If the Registrar receives an application to remove a registered geographical indication from the register, the Registrar must,—
@@ -470,38 +472,47 @@ If the Registrar gives notice of the proposed alteration of a registered geograp
 **Renewal of registration**
 
 ### 47A Renewal of registration
-(1) The Registrar must renew the registration of a geographical indication on an application by an interested person that is made in accordance with any prescribed requirements.
-(2) The registration of a geographical indication may be renewed for a further period of 10 years.
+(1) On application by an interested person, the Registrar must renew the registration of a registered geographical indication.
+(2) An application for renewal must be made to the Registrar—
+  (a) not more than 12 months before, and not more than 6 months after, the date on which the registration expires (the expiry date); and
+  (b) in the prescribed manner.
+(3) The renewed registration is effective for a period of 10 years commencing on the expiry date.
 
 ### 47B Notice of pending expiration of registration of geographical indication
-(1) If no interested person has made an application under section 47A within a prescribed period before the registration of a geographical indication expires, the Registrar must—
+(1) If no application to renew the registration of a geographical indication has been made, the Registrar must—
   (a) give notice in writing of the pending expiration of the geographical indication—
     (i) to the registrant; and
     (ii) to other persons and organisations that the Registrar considers are representative of the producers of the wine or spirits to which the geographical indication relates; and
   (b) give public notice of the pending expiration of the geographical indication.
 (2) A notice under subsection (1) must—
+  (aaa) be given at least the prescribed period before the registration’s expiry date; and
   (a) be in the prescribed form (if any); and
   (b) at a minimum, state—
     (i) the date on which the registration of the geographical indication will expire; and
-    (ii) any conditions as to the payment of fees on which a renewal of registration may be obtained; and
-    (iii) that, if the conditions referred to in subparagraph (ii) have not been complied with, the geographical indication will be removed from the register.
+    (ii) any conditions as to the payment of fees (including the amount of any renewal fee) on which a renewal of registration may be obtained; and
+    (iii) that,—
+      (A) if the registration is not renewed before its expiry date, the register will be changed to record that the geographical indication’s status is registered-past expiry date; and
+      (B) if the registration has still not been renewed 6 months after the expiry date, the geographical indication will be removed from the register.
 
-### 47C Status of geographical indication or trade mark removed from respective register for non-payment of renewal fee
-(1) A geographical indication or trade mark that has been removed from its respective register for non-payment of the renewal fee must be taken into account for a period of 1 year after the date of expiry of the registered geographical indication or registered trade mark when determining the registrability of a later geographical indication application.
-(2) Subsection (1) does not apply if the Registrar is satisfied that,—
-  (a) in the case of a trade mark that has been removed from its register,—
-    (i) there has been no genuine use of the trade mark during the 2 years immediately before its removal; or
-    (ii) no deception or confusion would be likely to arise from the use of the geographical indication that is the subject of the application by reason of any previous use of the trade mark:
-  (b) in the case of a geographical indication that has been removed from its register,—
-    (i) in the case of a foreign geographical indication, it is not, or has ceased to be, protected in its country of origin; or
-    (ii) the geographical indication has fallen into disuse in its country of origin.
+### 47C Procedure if registration not renewed
+(1) If the registration of a geographical indication is not renewed before its expiry date, the Registrar must record on the register that its status is registered-past expiry date (until the registration is renewed or it is removed from the register).
+(2) The Registrar must remove the geographical indication from the register if—
+  (a) notice has been given under section 47B; and
+  (b) 6 months have elapsed since the registration’s expiry date; and
+  (c) the registration has not been renewed.
 
 **Restoration to register**
 
-### 47D Registrar may restore expired geographical indication to register
-(1) This section applies if a geographical indication has expired and been removed from the register in accordance with section 45(4) within the previous 12 months.
-(2) The Registrar may restore an expired geographical indication to the register in accordance with any prescribed requirements.
-(3) A geographical indication that is restored to the register is taken to have continued in existence as if it had not been removed from the register.
+### 47D Effect of registered-past expiry date status
+(1) A geographical indication has the status of registered-past expiry date if—
+  (a) the geographical indication’s registration expiry date (referred to in section 47A) has passed; but
+  (b) the geographical indication has not yet been removed from the register.
+(2) While the geographical indication’s status is registered-past expiry date, the geographical indication—
+  (a) is not a registered geographical indication for the purposes of sections 21 to 24; but
+  (b) is a registered geographical indication for all other purposes.
+(3) If the geographical indication’s registration is renewed before it is removed from the register under section 47C(2),—
+  (a) the renewed registration takes effect from the expiry date (see section 47A(3)); and
+  (b) the geographical indication is taken to have remained a registered geographical indication for all purposes from that date as if its status had not changed.
 
 **Appeals**
 
