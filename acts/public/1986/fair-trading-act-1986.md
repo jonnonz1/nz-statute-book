@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2020-01-13_
 
 > Title
 
@@ -514,8 +514,8 @@ No provision of this Part limits or affects any other provision of this Part.
 (4) A failure to comply with subsection (3) does not affect the validity of any Order in Council made under this section.
 
 ### 30 Compliance with product safety standards
-(1) If a product safety standard in respect of goods relates to a matter specified in section 29(1), a person must not supply, or offer to supply, or advertise to supply those goods unless that person complies with that product safety standard.
-(2) If 2 or more product safety standards in respect of goods relate to a matter specified in section 29(1), a person must not supply, or offer to supply, or advertise to supply those goods unless that person complies with one of those product safety standards.
+(1) If a product safety standard in respect of goods relates to a matter specified in section 29(1), a person must not supply, or offer to supply, or advertise to supply those goods unless that product safety standard is complied with in respect of those goods.
+(2) If 2 or more product safety standards in respect of goods relate to a matter specified in section 29(1), a person must not supply, or offer to supply, or advertise to supply those goods unless one of those product safety standards is complied with in respect of those goods.
 (3) Nothing in subsection (1) or subsection (2) applies to goods that are intended for use outside New Zealand if there is applied to the goods—and it must be presumed for the purposes of this section, unless the contrary is established, that the goods so identified are intended to be so used.
   (a) a statement that the goods are for export only; or
   (b) a statement indicating, by the use of words authorised by regulations made under this section, that the goods are intended to be used outside New Zealand,—
