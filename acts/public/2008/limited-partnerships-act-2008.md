@@ -1,5 +1,5 @@
 # Limited Partnerships Act 2008
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2020-01-13_
 
 ### 1 Title
 This Act is the Limited Partnerships Act 2008.
@@ -71,17 +71,17 @@ A limited partnership is formed only on its registration and continues in existe
 (4) Subject to subsection (5), a limited partnership must have 1 or more of the following:
   (a) a general partner who is a natural person who—
     (i) lives in New Zealand; or
-    (ii) lives in an enforcement country and is a director of a company that is registered (except as the equivalent of an overseas company) in that enforcement country:
+    (ii) lives in an enforcement country and is a director of a body corporate that is incorporated in that enforcement country under a law that is equivalent to the Companies Act 1993:
   (b) a general partner that is a limited partnership and that has 1 or more general partners who are natural persons who—
     (i) live in New Zealand; or
-    (ii) live in an enforcement country and are directors of a company that is registered (except as the equivalent of an overseas company) in that enforcement country:
+    (ii) live in an enforcement country and are directors of a body corporate that is incorporated in that enforcement country under a law that is equivalent to the Companies Act 1993:
   (c) a general partner that is a partnership governed by the Partnership Act 1908 and that has 1 or more partners who are natural persons who—
     (i) live in New Zealand; or
-    (ii) live in an enforcement country and are directors of a company that is registered (except as the equivalent of an overseas company) in that enforcement country:
+    (ii) live in an enforcement country and are directors of a body corporate that is incorporated in that enforcement country under a law that is equivalent to the Companies Act 1993:
   (d) a general partner that is a company:
   (e) a general partner that is an overseas company registered under the Companies Act 1993 and that has 1 or more directors who are natural persons who—
     (i) live in New Zealand; or
-    (ii) live in an enforcement country and are directors of a company that is registered (except as the equivalent of an overseas company) in that enforcement country.
+    (ii) live in an enforcement country and are directors of a body corporate that is incorporated in that enforcement country under a law that is equivalent to the Companies Act 1993.
 (5) Every natural person who is a general partner, or who is a director, partner, or general partner of a general partner, must be qualified under section 19A.
 
 ### 9 Partnership agreement
@@ -169,6 +169,8 @@ A person is not affected by, or deemed to have notice or knowledge of the conten
   (b) a person who is an undischarged bankrupt:
   (c) a person who is subject to an order made under the Companies Act 1955 that continues to have effect prohibiting him or her from being a director or promoter of, or being concerned or taking part in the management of, a company within the meaning of that Act:
   (d) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, a company under section 382, 383, 385, or 385AA of the Companies Act 1993:
+  (da) a person who is prohibited from being a director of a company under section 299(1)﻿(b) of the Insolvency Act 2006:
+  (db) a person who is prohibited from directly or indirectly being concerned, or taking part, in the management of a company under section 299(1)﻿(c) of the Insolvency Act 2006:
   (e) a person who is prohibited from being a general partner or promoter of, or being concerned or taking part in the management of, a limited partnership under section 103A, 103B, 103D, or 103E of this Act:
   (f) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Financial Markets Conduct Act 2013 or the Takeovers Act 1993:
   (g) a person who is prohibited from 1 or more of the following under an order made, or a notice given, under a law of a prescribed country, State, or territory outside New Zealand:
@@ -397,13 +399,16 @@ Subject to the partnership agreement, a limited partner does not owe the limited
   (d) in relation to every natural person who is a proposed general partner or who is a director, partner, or general partner of a proposed general partner, state—
     (i) his or her full name and date and place of birth; and
     (ii) his or her residential address; and
-    (iii) if the residential address is in an enforcement country, whether the natural person is a director of a company that is registered (except as the equivalent of an overseas company) in that enforcement country and, if so, the prescribed information; and
+    (iii)
   (da) in relation to every proposed general partner who is not a natural person, state the general partner's name and address; and
   (e) contain a list of the full names, residential addresses, and dates and places of birth of the proposed limited partners who are natural persons; and
   (ea) contain a list of the names and addresses of the proposed limited partners who are not natural persons; and
   (f) be accompanied by a certificate by the applicant that the proposed partners of the limited partnership have entered into a partnership agreement that complies with section 10; and
   (g) be accompanied by the prescribed fee (if any).
 (2) For the purposes of subsection (1)﻿(c), the consent of a person may be given by that person’s agent authorised to do so in writing.
+(3) If the requirement under section 8(4) is to be met by virtue of paragraph (a)﻿(ii), (b)﻿(ii), (c)﻿(ii), or (e)﻿(ii) of that section, the application must—
+  (a) confirm that at least 1 of the natural persons referred to in that paragraph is a director of a body corporate that is incorporated in that enforcement country under a law that is equivalent to the Companies Act 1993; and
+  (b) include the prescribed information in relation to that directorship.
 
 ### 53 Certificate of registration
 As soon as practicable after registering a limited partnership, the Registrar must issue a certificate of registration to the limited partnership.
@@ -1055,7 +1060,7 @@ Part 15A of the Companies Act 1993 applies, with all necessary modifications, to
 **Restoration to register**
 
 ### 101 Restoration to register of limited partnerships
-Sections 328 (except section 328(3)﻿(a)) and 329 of the Companies Act 1993 apply, with all necessary modifications, to a limited partnership as if references to—
+Sections 328 and 329 of the Companies Act 1993 apply, with all necessary modifications, to a limited partnership as if references to—
   (a) a company were references to a limited partnership:
   (b) a director were references to a general partner:
   (c) a shareholder were references to a partner:
