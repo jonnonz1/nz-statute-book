@@ -1,5 +1,5 @@
 # Building Societies Act 1965
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2020-01-13_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to building societies
 
@@ -1264,13 +1264,13 @@ A person may, on payment of the prescribed fee (if any), inspect—
 (7) If a society fails to allow an inspector appointed under this section to do anything that he or she is authorised to do thereunder, the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
 
 ### 124 Compulsory cancellation or suspension of registration
-(1) Subject to the provisions of this section, the Registrar, with the approval of the Minister, may cancel or suspend the registration of a society if he or she is satisfied—
+(1) Subject to the provisions of this section, the Registrar may cancel or suspend the registration of a society if he or she is satisfied—
   (a) that a certificate of incorporation has been obtained for the society by fraud or mistake; or
   (b) that the society exists for an illegal purpose; or
-  (c) that the society has wilfully, and after notice from the Registrar, contravened any of the provisions of this Act; or
+  (c) that the society has, after notice from the Registrar, contravened any of the provisions of this Act; or
   (d) that the society has ceased to exist.
 (2) Any cancellation or suspension of registration under this section shall be effected in writing signed by the Registrar.
-(3) Where the registration of a society is suspended under this section, the period of suspension shall in the first instance be a period not exceeding 3 months, but may, with the approval of the Minister, be extended from time to time by not more than 3 months at a time.
+(3) Where the registration of a society is suspended under this section, the period of suspension shall in the first instance be a period not exceeding 3 months, but may be extended from time to time by not more than 3 months at a time.
 (4) Before cancelling or suspending the registration of a society under this section, the Registrar shall give to the society not less than 2 months' notice in writing, specifying briefly the grounds of the proposed cancellation or suspension.
 (5) The Registrar shall consider any representations with respect to the proposed cancellation or suspension that may be made to him or her by the society within the said period of 2 months or such further period as he or she may allow, and, if the society so requests, shall afford to it an opportunity of being heard by him or her within such period or further period as aforesaid.
 (6) The Registrar shall give public notice of any cancellation or suspension, or any extension of a suspension, under this section and must register the cancellation, suspension, or extension of a suspension.
@@ -1444,14 +1444,6 @@ Every society which was an approved society for the purposes of section 57A of t
 
 ### 42 Application of existing regulations
 Any regulations made under the principal Act that are in force immediately before the commencement of this Act, not being regulations referred to in Schedule 2, shall continue in full force and effect after the commencement of this Act, with such modifications as may be necessary, except in so far as they contain any provisions that are inconsistent with the principal Act (as amended by this Act).
-
-### 1 Short Title and commencement
-(1) This Act may be cited as the Building Societies Amendment Act 1993, and shall be read together with and deemed part of the Building Societies Act 1965 (hereinafter referred to as the principal Act).
-(2) This Act shall come into force on 1 July 1994.
-
-### 9 Transitional provisions applying to winding up of societies
-(1) Nothing in section 8 of this Act applies to or affects the winding up of a society commenced before the commencement of this Act or anything done by or in relation to a society under Part 6 of the Companies Act 1955 before the commencement of this Act, and sections 118, 119, and 120 of the principal Act and Part 6 of the Companies Act 1955, as in force before the commencement of this Act, shall continue to apply in relation thereto as if this Act had not been passed.
-(2) In the liquidation of a society under Part 16 of the Companies Act 1993, nothing in any of sections 292 to 299 of that Act shall apply in relation to any transaction entered into by a society, or any matter that arose, before the commencement of this Act, but sections 309, 310, 311, 311A, 311B, and 311C of the Companies Act 1955, as in force before the commencement of this Act, shall continue to apply in respect of that transaction or matter as if this Act had not been passed.
 
 ### 1 Title
 This Act is the Building Societies Amendment Act 2007.
