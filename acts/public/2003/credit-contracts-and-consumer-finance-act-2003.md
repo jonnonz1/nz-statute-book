@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2019-12-20_
+_Consolidation as at 2020-01-13_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -46,7 +46,7 @@ In this Act,—
   (ab) Part 1A contains provisions relating to lenders' responsibilities, including provisions for the development of a Responsible Lending Code and requirements to make publicly available standard form contract terms and information about the costs of borrowing:
   (b) Part 2 contains provisions relating to consumer credit contracts, including provisions relating to when a credit contract is a consumer credit contract, when a lease of goods is to be treated as a consumer credit contract (instead of a consumer lease), disclosure, interest charges, fees, payments, and changes to consumer credit contracts on the grounds of unforeseen hardship:
   (c) Part 3 contains provisions relating to consumer leases, credit-related insurance, repayment waivers, extended warranties, and buy-back transactions of land:
-  (ca) Part 3A contains provisions relating to repossession of consumer goods under credit contracts:
+  (ca) Part 3A contains provisions relating to repossession of consumer goods under consumer credit contracts:
   (d) Part 4 contains provisions relating to civil remedies, injunctions, offences, a defence, and certain provisions concerning the Commerce Commission:
   (e) Part 5 contains provisions relating to the reopening of oppressive credit contracts, consumer leases, and buy-back transactions of land:
   (f) Part 6 contains miscellaneous provisions, including provisions relating to contracting out, regulations, consequential amendments, and transitional arrangements.
@@ -80,7 +80,7 @@ In this Act, unless the context otherwise requires,—
   - **consumer credit insurance** means insurance cover in the event of the insured's disability or death or the insured contracting a sickness, sustaining an injury, or becoming unemployed, if the liability of the insurer is to be determined by reference to the liability of the insured under a credit contract or a consumer lease
   - **consumer goods** means goods that are used or acquired for use primarily for personal, domestic, or household purposes
   - **consumer lease** has the meaning set out in section 60
-  - **costs of borrowing** , in relation to a consumer credit contract or a credit contract to which Part 3A applies, means any or all of the following costs:
+  - **costs of borrowing** , in relation to a consumer credit contract, means any or all of the following costs:
     (a) a credit fee:
     (b) a default fee:
     (c) interest charges
@@ -256,16 +256,14 @@ This Act binds the Crown.
 ### 9B Interpretation
 (1) In this Part, unless the context otherwise requires,—
   - **agreement** means—
-    (a) a consumer credit contract or a credit contract to which Part 3A applies:
+    (a) a consumer credit contract:
     (b) a buy-back transaction
   - **borrower** means any person who has entered into, or is seeking to enter into, an agreement with a lender
   - **finance** means finance provided under a buy-back transaction
   - **lender** means—
-    (a) a creditor under a consumer credit contract or a credit contract to which Part 3A applies:
+    (a) a creditor under a consumer credit contract:
     (b) a transferee under a buy-back transaction
-  - **relevant guarantee** means a guarantee given, or proposed to be given, in respect of—
-    (a) a consumer credit contract; or
-    (b) a credit contract to which Part 3A applies
+  - **relevant guarantee** means a guarantee given, or proposed to be given, in respect of a consumer credit contract
   - **relevant insurance contract** means, in relation to a lender, a credit-related insurance contract entered into, or to be entered into, by a borrower if—
     (a) the borrower has also entered into, or is seeking to enter into, an agreement with the lender; and
     (b) the insurance is arranged by the lender.
@@ -285,9 +283,9 @@ This Act binds the Crown.
 (1) Every lender must comply with the lender responsibility principles.
 (2) The lender responsibility principles are that every lender must, at all times,—
   (a) exercise the care, diligence, and skill of a responsible lender—
-    (i) in any advertisement for providing credit or finance under an agreement; and
-    (ii) before entering into an agreement to provide credit or finance and before taking a relevant guarantee; and
-    (iii) in all subsequent dealings with a borrower in relation to an agreement or a guarantor in relation to a relevant guarantee; and
+    (i) in any advertisement for providing credit or finance under an agreement or for providing credit-related insurance under a relevant insurance contract; and
+    (ii) before entering into an agreement to provide credit or finance or a relevant insurance contract and before taking a relevant guarantee; and
+    (iii) in all subsequent dealings with a borrower in relation to an agreement or a relevant insurance contract or a guarantor in relation to a relevant guarantee; and
   (b) comply with all the lender responsibilities specified in subsections (3), (4), and (5).
 (3) The lender responsibilities are that a lender must, in relation to an agreement with a borrower,—
   (a) make reasonable inquiries, before entering into the agreement, so as to be satisfied that it is likely that—
@@ -407,10 +405,10 @@ This Act binds the Crown.
 (5) The lender may, for the purposes of subsection (4), supply the copy by way of an electronic communication if the person who made the request consents to receive the copy in that manner.
 
 ### 9K Publication of costs of borrowing
-(1) Every creditor must ensure that information about all the costs of borrowing in relation to every class of credit contract offered by that creditor is publicly available in accordance with this section.
-(2) In this section, credit contract means a consumer credit contract or credit contract to which Part 3A applies.
+(1) Every creditor must ensure that information about all the costs of borrowing in relation to every class of consumer credit contract offered by that creditor is publicly available in accordance with this section.
+(2)
 (3) For the purposes of subsection (1),—
-  (a) if the creditor has an Internet site, the creditor must display prominently and clearly on that site the creditor's credit fees, default fees, and annual rates of interest (and default interest charge rates) in relation to every class of credit contract referred to in subsection (1); and
+  (a) if the creditor has an Internet site, the creditor must display prominently and clearly on that site the creditor's credit fees, default fees, and annual rates of interest (and default interest charge rates) in relation to every class of consumer credit contract offered by that creditor; and
   (b) if the creditor operates from business premises that are accessible to the public, the creditor must display prominently and clearly on those premises a notice that a copy of the information about those credit fees, default fees, and rates is available on request (free of charge).
 (4) The creditor must, immediately after receiving the request of any person, supply a copy of the information referred to in subsection (1), free of charge, to that person (regardless of whether subsection (3) applies).
 (5) Information about rates of interest may be expressed by reference to a range.
@@ -1184,12 +1182,12 @@ Sections 32 to 35 apply to disclosure under this subpart.
 ### 83 No limit on Part 2
 Nothing in this subpart limits any provision in Part 2.
 
-## Part 3A — Repossession of consumer goods under credit contract
+## Part 3A — Repossession of consumer goods under consumer credit contract
 
 ### Subpart 1 — Preliminary provisions
 
 ### 83A Outline of Part
-This Part sets out—
+This Part sets out, in relation to a consumer credit contract,—
   (a) the rules that apply—
     (i) before a creditor or creditor’s agent may repossess consumer goods (which includes repossessing keys or other access devices in relation to consumer goods); and
     (ii) at the time of repossession; and
@@ -1197,27 +1195,27 @@ This Part sets out—
   (b) the rights and responsibilities of debtors and creditors in relation to consumer goods that have been, or are liable to be, repossessed; and
   (c) a prohibition against security interests over certain consumer goods.
 
-### 83B References to credit contracts include security agreements
+### 83B References to consumer credit contracts include security agreements
 (1) This section applies, unless the context otherwise requires, for the purposes of—
   (a) this Part; and
-  (b) Part 1A (to the extent that it relates to credit contracts to which this Part applies); and
+  (b) Part 1A (to the extent that it relates to consumer credit contracts to which this Part applies); and
   (c) any other provision of this Act that relates to—
     (i) the enforcement, application, or effect of this Part (for example, the definition of repossession in section 5); or
     (ii) the enforcement, application, or effect of Part 1A (to the extent referred to in paragraph (b)).
-(2) If a security interest in consumer goods is or may be taken in connection with a credit contract,—
-  (a) the contract or arrangement that creates or provides for the security interest is to be treated as forming part of the credit contract; and
+(2) If a security interest in consumer goods is or may be taken in connection with a consumer credit contract,—
+  (a) the contract or arrangement that creates or provides for the security interest is to be treated as forming part of the consumer credit contract; and
   (b) references to a creditor must be treated as including the secured party within the meaning of section 16 of the Personal Property Securities Act 1999; and
   (c) references to a debtor must be treated as including the debtor within the meaning of section 16 of the Personal Property Securities Act 1999.
-(3) Subsection (2) applies even if a party to the contract or arrangement referred to in subsection (2)﻿(a) is not a party to the credit contract (for example, a guarantor who has given a security interest over consumer goods to secure the guarantor’s obligations under a guarantee that was given in respect of the credit contract).
+(3) Subsection (2) applies even if a party to the contract or arrangement referred to in subsection (2)﻿(a) is not a party to the consumer credit contract (for example, a guarantor who has given a security interest over consumer goods to secure the guarantor’s obligations under a guarantee that was given in respect of the consumer credit contract).
 (4) This Part applies whether or not a financing statement has been registered under the Personal Property Securities Act 1999 in respect of the security interest.
 
 ### 83C Application of Part
-(1) This Part applies where a credit contract provides that a creditor has a right to do 1 or more of the following:
+(1) This Part applies where a consumer credit contract provides that a creditor has a right to do 1 or more of the following:
   (a) repossess consumer goods over which there is a security interest:
   (b) enter premises, or enter premises when an occupier is not present, for—
     (i) the purpose of repossessing consumer goods over which there is a security interest; or
     (ii) any other purpose in connection with consumer goods over which there is a security interest.
-(2) If a credit contract creates or provides for a security interest in both consumer goods and other goods, this Part applies only in relation to the consumer goods.
+(2) If a consumer credit contract creates or provides for a security interest in both consumer goods and other goods, this Part applies only in relation to the consumer goods.
 (3) Subsection (1) does not limit subparts 3 and 6.
 
 ### 83D Part does not create right to repossess, etc
@@ -1326,11 +1324,11 @@ This Part sets out—
 ### Subpart 3 — Disabling devices
 
 ### 83L Use of disabling device
-(1) This section applies where a credit contract provides that the creditor—
+(1) This section applies where a consumer credit contract provides that the creditor—
   (a) has a security interest over consumer goods to which a disabling device is connected; and
   (b) has a right to activate the disabling device.
 (2) Neither a creditor nor a creditor's agent may activate a disabling device unless—
-  (a) there has been a breach of the credit contract by the debtor that is sufficient, according to the terms of the contract, to give rise to the creditor’s right to activate the disabling device; and
+  (a) there has been a breach of the consumer credit contract by the debtor that is sufficient, according to the terms of the contract, to give rise to the creditor’s right to activate the disabling device; and
   (b) the creditor or the creditor's agent has given the debtor reasonable notice, in advance of the activation,—
     (i) that the disabling device is to be activated; and
     (ii) about what action the debtor may take to prevent the disabling device being activated.
@@ -1339,17 +1337,17 @@ This Part sets out—
     (a) the debtor is prevented from using the consumer goods; or
     (b) the debtor's use of the consumer goods is limited; or
     (c) the creditor is able to locate the consumer goods; or
-    (d) the creditor is able to achieve any other similar outcome that is of a direct or indirect benefit to the creditor in relation to the relevant credit contract
+    (d) the creditor is able to achieve any other similar outcome that is of a direct or indirect benefit to the creditor in relation to the relevant consumer credit contract
   - **disabling device** means a device that is attached to consumer goods, the functions of which, when activated, include 1 or more of the following:
     (a) preventing the consumer goods from being used:
     (b) limiting the debtor's use of the consumer goods:
     (c) enabling the creditor to locate the consumer goods:
-    (d) achieving any other similar outcome that is of direct or indirect benefit to the creditor in relation to the relevant credit contract.
+    (d) achieving any other similar outcome that is of direct or indirect benefit to the creditor in relation to the relevant consumer credit contract.
 
 ### 83M Connection or use of disabling device in connection with certain goods prohibited
-(1) A credit contract may not provide for the connection of a disabling device to, or the use of a disabling device in connection with, a consumer good described in section 83ZN(1)﻿(a) or prescribed for the purposes of section 83ZN(1)﻿(c).
-(2) A provision of a credit contract that contravenes subsection (1) is of no effect to the extent of the contravention.
-(3) Every creditor under a credit contract must ensure that the contract does not contravene this section.
+(1) A consumer credit contract may not provide for the connection of a disabling device to, or the use of a disabling device in connection with, a consumer good described in section 83ZN(1)﻿(a) or prescribed for the purposes of section 83ZN(1)﻿(c).
+(2) A provision of a consumer credit contract that contravenes subsection (1) is of no effect to the extent of the contravention.
+(3) Every creditor under a consumer credit contract must ensure that the contract does not contravene this section.
 
 ### Subpart 4 — Rules that apply at time of repossession
 
@@ -1587,8 +1585,8 @@ The persons referred to in section 83ZJ are entitled to recover the amount of an
 
 ### Subpart 6 — Prohibitions relating to security interest over certain consumer goods
 
-### 83ZN Credit contract may not provide for security interest over certain consumer goods
-(1) A credit contract may not provide for a security interest over—
+### 83ZN Consumer credit contract may not provide for security interest over certain consumer goods
+(1) A consumer credit contract may not provide for a security interest over—
   (a) consumer goods of the following kind:
     (i) beds and bedding:
     (ii) cooking equipment, including cooking stoves:
@@ -1602,11 +1600,11 @@ The persons referred to in section 83ZJ are entitled to recover the amount of an
     (iii) bank cards:
   (c) any other consumer goods, or documents, prescribed by regulations made under this Act.
 (2) Subsection (1)﻿(a) and (c) do not prevent the consumer goods referred to in those paragraphs from being subject to a purchase money security interest.
-(3) Every creditor under a credit contract must ensure that the contract does not contravene this section.
+(3) Every creditor under a consumer credit contract must ensure that the contract does not contravene this section.
 (4) Nothing in this section prevents a security interest over a good specified in subsection (1)﻿(a)﻿(i) to (vi) that is not a consumer good (for example, a bed that is part of the inventory of a retailer).
 
 ### 83ZO Contravening provision of no effect
-A provision of a credit contract that contravenes section 83ZN is of no effect to the extent of the contravention.
+A provision of a consumer credit contract that contravenes section 83ZN is of no effect to the extent of the contravention.
 
 ### 83ZP Exclusion for fixtures
 Nothing in this subpart applies to a thing that has been affixed to any building or land in such a manner that it becomes part of the structure of the building or otherwise becomes integral to the land.
@@ -1863,7 +1861,7 @@ If the notice requirements under section 83G or 83V, as the case may be, have no
 
 ### 99B Enforcement prohibited if creditor unregistered
 (1) If a creditor who is required to be registered under Part 2 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008 is not registered under that Act,—
-  (a) neither the creditor nor any other person may, in relation to a credit contract to which the creditor is a party,—
+  (a) neither the creditor nor any other person may, in relation to a consumer credit contract to which the creditor is a party,—
     (i) enforce any right in relation to the costs of borrowing; or
     (ii) require the debtor or any other person to make a full prepayment or a part prepayment on the basis of a failure by the debtor or other person to pay the costs of borrowing; and
   (b) neither the debtor nor any other person is liable for the costs of borrowing under such a contract in relation to any period during which the creditor is unregistered.
@@ -1871,7 +1869,7 @@ If the notice requirements under section 83G or 83V, as the case may be, have no
 (3) On becoming registered under the Financial Service Providers (Registration and Dispute Resolution) Act 2008, the creditor may enforce the creditor's rights in relation to the costs of borrowing, but only—
   (a) if the creditor has given written notice to the debtor, containing the information specified in subsection (5); and
   (b) in relation to the costs of borrowing directly attributable to periods after such notice has been given to the debtor.
-(4) Subsection (3) is subject to any other provision of this Act that prohibits enforcement of the credit contract.
+(4) Subsection (3) is subject to any other provision of this Act that prohibits enforcement of the consumer credit contract.
 (5) The notice required under subsection (3)﻿(a) must clearly inform the debtor—
   (a) that the creditor is now registered under the Financial Service Providers (Registration and Dispute Resolution) Act 2008; and
   (b) of the date on which the creditor became registered; and
@@ -1926,6 +1924,10 @@ If the notice requirements under section 83G or 83V, as the case may be, have no
 (2) Subsection (1) does not apply to a complete failure to give or send a disclosure statement to a debtor, guarantor, lessee, or occupier in accordance with a disclosure section (but such a breach is an offence under section 103).
 (3) Every creditor, lessor, or transferee who is subject to section 24, 67, or 79 commits an offence if the creditor, lessor, or transferee breaches that section.
 (4) Every lender who is subject to section 9J commits an offence if the lender breaches section 9J(4).
+(4A) Every creditor who is subject to section 9K commits an offence if the creditor breaches section 9K(4).
+(4B) Every creditor who is subject to section 9K commits an offence if both of the following apply:
+  (a) a paragraph in regulations prescribed under this Act requires particular information to be contained in the information made publicly available:
+  (b) the creditor breaches section 9K(6)﻿(a) by failing to make any information publicly available for the purposes of that paragraph.
 (5) Every creditor who is subject to Part 3A commits an offence if both of the following apply:
   (a) a paragraph in Schedule 3A requires information to be contained in the repossession warning notice that is to be served for the purposes of section 83G; and
   (b) the creditor breaches section 83G by failing to include any information in the repossession warning notice for the purposes of that paragraph.
@@ -1946,7 +1948,7 @@ If the notice requirements under section 83G or 83V, as the case may be, have no
     (e) section 72, the terms of the buy-back transaction referred to in section 72(2).
 
 ### 103 Other offences
-(1) Every creditor, creditor's agent, lessor, transferee, or buy-back promoter who breaches any of the provisions of sections 17 to 74, 76 to 82, 83E, 83F, 83G, 83O, 83P, 83S, 83T, and 83ZN commits an offence and is liable on conviction,—
+(1) Every creditor, lender, creditor's agent, lessor, transferee, or buy-back promoter who breaches any of the provisions of sections 9J, 9K, 17 to 74, 76 to 82, 83E, 83F, 83G, 83O, 83P, 83S, 83T, and 83ZN commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $200,000; and
   (b) in the case of a body corporate, to a fine not exceeding $600,000.
 (2) However, a breach of section 83E(1)﻿(c) is not an offence under subsection (1).
@@ -2508,7 +2510,8 @@ The application, savings, and transitional provisions set out in Schedule 1AA, w
 ### 1 Interpretation
 In this schedule,—
   - **2014 Act** means the Credit Contracts and Consumer Finance Amendment Act 2014
-  - **principal Act** means the Credit Contracts and Consumer Finance Act 2003.
+  - **principal Act** means the Credit Contracts and Consumer Finance Act 2003
+  - **Regulatory Systems Act 2019** means the Regulatory Systems (Economic Development) Amendment Act 2019.
 
 **Credit Contracts and Consumer Finance Amendment Act 2014**
 
@@ -2518,7 +2521,7 @@ In this schedule,—
 (3) The Minister must ensure that the Responsible Lending Code first comes into force no later than 12 months after the date on which the 2014 Act receives the Royal assent.
 
 ### 3 Application of amendments to existing agreements
-(1) Except as provided for in subclauses (2) and (3),—
+(1) Except as provided for in subclauses (2) and (3) and in clause 4,—
   (a) the amendments to the principal Act in the 2014 Act do not apply to existing agreements; and
   (b) the principal Act and the Credit (Repossession) Act 1997, as in force immediately before the commencement of this clause, continue to apply for the purposes of those agreements.
 (2) The amendments referred to in subclause (1) apply in relation to existing agreements as follows:
@@ -2531,9 +2534,34 @@ In this schedule,—
     (i) a variation of a contract where the variation takes effect on or after the commencement of section 9 of the 2014 Act:
     (ii) an application under section 55 of the principal Act made on or after the commencement of section 9 of the 2014 Act.
 (3) If a provision of the principal Act as amended or inserted by the 2014 Act applies in relation to an existing agreement under subclause (2), sections 93 and 96 of the principal Act (as amended by sections 59 and 63 of the 2014 Act) apply to a breach of that provision in relation to the existing agreement if the breach occurs on or after the commencement of this clause.
-(4) In this clause, existing agreement means any credit contract, security agreement, lease, buy-back transaction, or other contract or arrangement—
+(4) In this clause and in clause 4, existing agreement means any credit contract, security agreement, lease, buy-back transaction, or other contract or arrangement—
   (a) to which the principal Act or the Credit (Repossession) Act 1997 (as in force before this clause came into force) applies; and
   (b) that was entered into before this clause came into force.
+
+**Regulatory Systems (Economic Development) Amendment Act 2019**
+
+### 4 Creditor may, by notice to debtors, apply Part 3A to existing agreements
+(1) Part 3A applies to the existing agreements described in this clause.
+(2) The existing agreements are those agreements—
+  (a) to which Part 3A (as in force immediately before the commencement of the Regulatory Systems Act 2019) would have applied if the agreements had been entered into on or after the date on which Part 3A came into force; and
+  (b) in respect of which neither a creditor nor a debtor has taken any action (such as issuing a pre-possession notice) under the principal Act or the Credit (Repossession) Act 1997, as in force immediately before the commencement of Part 3A; and
+  (c) in respect of which any creditor under the agreement has given notice to every debtor under the agreement—
+    (i) stating that Part 3A will apply to the agreement; and
+    (ii) specifying the date on which Part 3A begins to apply to the agreement (which must be at least 5 working days after the last notice is given); and
+    (iii) summarising the rights and obligations of the creditors and the debtors under Part 3A.
+(3) Part 3A applies to an existing agreement on and from the date referred to in subclause (2)﻿(c)﻿(ii) as if that agreement were a consumer credit contract.
+(4) On and from the date on which Part 3A begins to apply to an existing agreement, the Credit (Repossession) Act 1997 (as in force immediately before the commencement of Part 3A) ceases to apply for the purposes of the agreement.
+(5) Section 83ZQ applies to the giving and receiving of a notice under subclause (2).
+
+### 5 Application of Part 3A and related provisions to existing credit contracts
+(1) This clause applies to a credit contract if,—
+  (a) immediately before the Regulatory Systems Act 2019 came into force, Part 3A applied to the contract; but
+  (b) the contract is not a consumer credit contract.
+(2) The following provisions continue to apply to the contract as if that contract were a consumer credit contract:
+  (a) section 5, definition of costs of borrowing:
+  (b) section 9B, definitions of agreement, lender, and relevant guarantee:
+  (c) section 9K:
+  (d) Part 3A.
 
 **Credit Contracts Legislation Amendment Act 2019**
 
