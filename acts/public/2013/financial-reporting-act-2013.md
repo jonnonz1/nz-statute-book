@@ -1,5 +1,5 @@
 # Financial Reporting Act 2013
-_Consolidation as at 2019-04-02_
+_Consolidation as at 2020-01-13_
 
 ### 1 Title
 This Act is the Financial Reporting Act 2013.
@@ -201,7 +201,14 @@ Except as expressly provided otherwise in this or another Act, the Board must ac
 (1) Auditing and assurance standards may—
   (a) have general or specific application:
   (b) differ according to differences in time or circumstance.
-(2) Auditing and assurance standards may (without limitation) include professional and ethical standards that govern the professional conduct of persons who are appointed or engaged to carry out audits or other assurance engagements.
+(2) Auditing and assurance standards may (without limitation) include—
+  (a) professional and ethical standards that govern the professional conduct of audit or assurance practitioners:
+  (b) standards for related services.
+(3) In this section,—
+  - **audit or assurance practitioner** means a person who is appointed or engaged to carry out audits or other assurance engagements
+  - **related services** means services to perform—
+    (a) agreed-upon procedures; or
+    (b) other non-assurance work that may ordinarily be carried out by an audit or assurance practitioner.
 
 **Provisions relating to making of and status of standards and authoritative notices**
 
