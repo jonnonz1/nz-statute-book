@@ -1,5 +1,5 @@
 # Trade Marks Act 2002
-_Consolidation as at 2018-12-30_
+_Consolidation as at 2020-01-13_
 
 ### 1 Title
 This Act is the Trade Marks Act 2002.
@@ -117,7 +117,7 @@ In this Act,—
     (c) that the interests of the creditors of the deceased owner, and of all persons beneficially interested under his or her will or on his or her intestacy, will be adequately safeguarded if the Commissioner registers the qualified person as the owner of the trade mark
   - **register** means the register of trade marks kept under section 181
   - **registered geographical indication** has the same meaning as in section 7(1) of the Geographical Indications (Wine and Spirits) Registration Act 2006
-  - **registered trade mark** means a trade mark that is on the register
+  - **registered trade mark** means, subject to section 60, a trade mark that is on the register
   - **regulations** means, except in sections 54 to 56, 63, 79, and 80, regulations in force under this Act
   - **series of trade marks** means a number of trade marks for the same goods or description of goods or the same services or description of services (as the case may be) that—
     (a) resemble each other in their material particulars; and
@@ -172,6 +172,9 @@ In this Act, unless the context otherwise requires, every reference to—
 (2) References in this Act to use of a trade mark by the owner includes use by a person other than the owner if that use is authorised by, and subject to, the control of the owner.
 (3) The use of the whole of a registered trade mark is also a use of any registered component part of a trade mark registered in the name of the same owner.
 
+### 7A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+
 ### 8 Act binds the Crown
 This Act binds the Crown.
 
@@ -223,10 +226,13 @@ Subject to section 100, the rights referred to in section 10—
   (b) all prescribed fees, if any, must be paid in respect of the application:
   (c) the Commissioner must be satisfied that there are no absolute or relative grounds set out in this Part that would prevent the registration of the trade mark.
 
+### 13A Trade mark not registrable if related certification trade mark owned
+If a person owns a certification trade mark in respect of goods or services, a trade mark in respect of goods or services of the kind certified must not be registered in the name of that person.
+
 ### 14 Additional provisions that relate to registrability of certification trade marks
 A certification trade mark in respect of goods or services—
   (a) may be registered in the name, as owner, of the person who certifies the goods or services; but
-  (b) may not be registered in the name of a person who carries on a trade in goods or in services of the kind certified.
+  (b) may not be registered in the name of a person who owns a trade mark in respect of, or otherwise carries on trade in, goods or in services of the kind certified.
 
 ### 15 Additional provisions that relate to registrability of collective trade marks
 A collective trade mark may be registered in the name of a collective association, as owner, in respect of goods produced by its members, services provided by its members, or both.
@@ -473,9 +479,9 @@ On the registration of a trade mark, the Commissioner must—
 (2) Every qualified person who is registered under this section as the owner of a trade mark must hold it subject to all existing interests and equities affecting it.
 (3) Nothing in section 70 or section 73 of the Administration Act 1969 limits this section.
 
-### 53 Reissuing certificate of registration
-The Commissioner may issue a further certificate of registration if—
-  (a) an application for a further certificate of registration has been made in the prescribed manner; and
+### 53 Replacement of certificate of registration
+The Commissioner must issue a new certificate of registration to replace an existing certificate if—
+  (a) an application for a new certificate of registration has been made in the prescribed manner; and
   (b) the prescribed fee, if any, has been paid.
 
 ### Subpart 5 — Additional matters that relate to certification trade marks
@@ -512,27 +518,37 @@ After the Commissioner has approved the draft regulations, the approved regulati
 ### 58 Renewal of registration
 The registration of a trade mark may be renewed in accordance with section 59 for further periods of 10 years.
 
-### 59 Notice of pending expiration of registration of trade mark
-(1) The Commissioner must, on an application made by the owner of a registered trade mark in the prescribed manner and within the prescribed time, renew the registration of the trade mark from the date that the registration expires.
-(2) Before the registration of a trade mark expires and if an owner has not made an application under subsection (1), the Commissioner must, in the prescribed manner, send to the owner a notice of the—
-  (a) date on which the registration of the trade mark will expire; and
-  (b) conditions as to the payment of fees or otherwise on which a renewal of registration may be obtained; and
-  (c) removal of the registration, subject to any conditions specified by the Commissioner as to the trade mark's restoration to the register if, at the expiration of the period of 10 years, the conditions referred to in paragraph (b) have not been complied with.
-(3) The Commissioner must remove the trade mark from the register, subject to any conditions specified by the Commissioner as to the trade mark's restoration to the register, if, at the expiration of the period of 10 years,—
-  (a) notification of the date of expiry has been sent under subsection (2)﻿(a); and
-  (b) the conditions referred to in subsection (2)﻿(b) have not been complied with.
+### 59 Procedure for renewal of registration
+(1) On application by the owner of a registered trade mark, the Commissioner must renew the registration of the trade mark from the date on which the registration expires (the expiry date).
+(2) An application for renewal must be made to the Commissioner—
+  (a) not more than 12 months before, and not more than 6 months after, the expiry date; and
+  (b) in the prescribed manner.
+(3) If the owner has not applied for renewal, the Commissioner must send to the owner a notice setting out—
+  (a) the date on which the registration of the trade mark will expire; and
+  (b) the conditions (as to the payment of fees or otherwise) on which the registration will be renewed (the renewal conditions); and
+  (c) that,—
+    (i) if the registration is not renewed before the expiry date, the register will be changed to record that the trade mark’s status is registered-past expiry date; and
+    (ii) if the registration has still not been renewed 6 months after the expiry date, the trade mark will be removed from the register.
+(4) The notice must be sent in the prescribed manner before the expiry date.
+(5) If the registration of a trade mark is not renewed before its expiry date, the Commissioner must record on the register that its status is registered-past expiry date (until the registration is renewed or it is removed from the register).
+(6) The Commissioner must remove the trade mark from the register if—
+  (a) notice has been sent under subsection (3); and
+  (b) 6 months have elapsed since the expiry date; and
+  (c) the renewal conditions have not been met.
 
-### 60 Status of trade mark removed from register for non-payment of renewal fee
-(1) A trade mark that has been removed from the register for non-payment of the renewal fee must be taken into account for a period of 1 year after the date of expiry of the registered trade mark when determining the registrability of a later application.
-(2) Subsection (1) does not apply if the Commissioner is satisfied either that—
-  (a) there has been no genuine use of the trade mark that has been removed during the 2 years immediately before its removal; or
-  (b) no deception or confusion would be likely to arise from the use of the trade mark that is the subject of the application by reason of any previous use of the trade mark that has been removed.
+### 60 Effect of registered-past expiry date status
+(1) A trade mark has the status of registered-past expiry date if—
+  (a) the trade mark’s registration expiry date (referred to in section 59) has passed; but
+  (b) the trade mark has not yet been removed from the register.
+(2) While the trade mark’s status is registered-past expiry date, the trade mark—
+  (a) is not a registered trade mark for the purposes of subparts 1 to 3 of Part 4; but
+  (b) is a registered trade mark for all other purposes.
+(3) If the trade mark’s registration is renewed before it is removed from the register under section 59(6),—
+  (a) the renewed registration takes effect from the expiry date (see section 59(1)); and
+  (b) the trade mark is taken to have remained a registered trade mark for all purposes from that date as if its status had not changed.
 
 ### 60A Status of geographical indication removed from register for non-payment of renewal fee
-(1) A geographical indication that has been removed from the register for non-payment of the renewal fee must be taken into account for a period of 1 year after the date of expiry of the registered geographical indication when determining the registrability of a later trade mark application.
-(2) Subsection (1) does not apply if the Commissioner is satisfied that, in the case of a foreign geographical indication,—
-  (a) the geographical indication is not, or has ceased to be, protected in its country of origin; or
-  (b) the geographical indication has fallen into disuse in its country of origin.
+[Repealed]
 
 **Voluntary cancellation of registration of trade mark**
 
@@ -560,11 +576,11 @@ The Commissioner may, on the application of an aggrieved person or on the Commis
 **Revocation of registration of trade mark**
 
 ### 65 Application for revocation of registration of trade mark
-(1) An aggrieved person may apply to the Commissioner or the court for the revocation of the registration of a trade mark.
+(1) An aggrieved person may apply to the Commissioner or the court for the revocation of the registration of a trade mark on any of the grounds set out in section 66.
 (2) The Commissioner or the court may refuse any application for the revocation of the registration of a trade mark that is vexatious.
 
 ### 66 Grounds for revoking registration of trade mark
-(1) The registration of a trade mark may be revoked on any of the following grounds:
+(1) The grounds for revoking the registration of a trade mark are as follows:
   (a) that at no time during a continuous period of 3 years or more was the trade mark put to genuine use in the course of trade in New Zealand, by the owner for the time being, in relation to goods or services in respect of which it is registered:
   (b)
   (c) that, in consequence of acts or inactivity of the owner, the trade mark has become a common name in general public use for a product or service in respect of which it is registered:
@@ -574,8 +590,8 @@ The Commissioner may, on the application of an aggrieved person or on the Commis
     (iii) the word is or the words are the only practicable name or description of the article, substance, or service:
   (e) that, in consequence of the trade mark's use by the owner or with the owner's consent in relation to the goods or services in respect of which the trade mark is registered, the trade mark is likely to deceive or confuse the public, for instance as to the nature, quality, or geographical origin of those goods or services.
 (1A) For the purposes of subsection (1)﻿(a), continuous period means a period that commences from a date after the actual date of registration and continues uninterrupted up to the date 1 month before the application for revocation.
-(2) However, despite subsection (1), a trade mark may not be revoked for its non-use if its non-use is due to special circumstances that are outside the control of the owner of the trade mark.
-(3) The registration of a trade mark must not be revoked on the ground in subsection (1)﻿(a) if that use is commenced or resumed after the expiry of the 3-year period and before the application for revocation is made.
+(2) However, there are not grounds for revoking the registration of a trade mark for its non-use if its non-use is due to special circumstances that are outside the control of the owner of the trade mark.
+(3) Subsection (1)﻿(a) does not apply if the owner commences or resumes genuine use of the trade mark in the course of trade in New Zealand after the expiry of the 3-year period and before the application for revocation is made.
 (4) Any commencement or resumption of use referred to in subsection (3) after the expiry of the 3-year period but within the period of 1 month before the making of the application for revocation must be disregarded unless preparation for the commencement or resumption began before the owner became aware that the application may be made.
 
 ### 67 Onus of proof for revocation of registration of trade mark for non-use
@@ -584,7 +600,9 @@ If an owner or a licensee intends to oppose an application for the revocation of
   (b) raise the special circumstances that justify the non-use of the trade mark if section 66(2) applies.
 
 ### 68 Revocation of registration of trade mark
-(1) If grounds for revocation exist in respect of only some of the goods or services in respect of which the trade mark is registered, revocation relates only to those goods or services.
+(1) If the Commissioner or the court is satisfied that grounds for revocation of the registration of the trade mark exist, the Commissioner or the court must,—
+  (a) if the grounds exist in respect of all of the goods or services in respect of which the trade mark is registered, revoke the registration of the trade mark; or
+  (b) if the grounds exist in respect of only some of the goods or services in respect of which the trade mark is registered, revoke the registration of the trade mark in so far as it relates to those goods or services.
 (2) If the registration of a trade mark is revoked to any extent, the rights of the owner, to that extent, cease on—
   (a) the date of the application for revocation of the registration of the trade mark; or
   (b) if the Commissioner or the court is satisfied that the grounds for revocation of the registration of the trade mark existed at an earlier date, that date.
@@ -1791,9 +1809,11 @@ In an action or proceeding relating to a trade mark or trade name, the court or 
   (a) entered as a judgment of the court; and
   (b) with the leave of the court, may be enforced accordingly.
 
-### 167 Security for costs
-(1) If a party to any legal proceedings under this Act does not reside, and does not carry on business, in New Zealand, the Commissioner or the court, as the case may be, may require the person to give security for the costs of the proceedings.
-(2) If the person does not comply with subsection (1), the Commissioner or the court may treat the proceedings as abandoned by the person and determine the matter accordingly.
+### 167 Commissioner or court may require security for costs
+(1) The Commissioner or the court, as the case may be, may require a party to legal proceedings under this Act to give security for the costs of the proceedings if satisfied that—
+  (a) the party does not reside, and does not carry on business, in New Zealand; or
+  (b) there is reason to believe that the party will be unable to pay the costs of the other party if unsuccessful in the proceedings.
+(2) If the party does not give the security required, the Commissioner or the court may treat the proceedings as abandoned by the party and determine the matter accordingly.
 
 ### 168 No costs on appeal against refusal to certify or to authorise use
 Despite section 167, the Commissioner does not have any jurisdiction to award costs to or against any party on an appeal to the Commissioner against a refusal of the owner of a certification trade mark to certify goods or services or to authorise the use of the trade mark.
@@ -1897,6 +1917,7 @@ Subject to any direction given by the Commissioner, the advisory committee may r
 The register must contain the following:
   (a) all registered trade marks with the names and addresses of their owners:
   (b) the actual date of registration, the deemed date of registration, and the date of application in New Zealand:
+  (ba) if the trade mark’s status is registered-past expiry date (as defined in section 60), a statement to that effect:
   (c) assignments and transmissions:
   (d) memoranda referred to in section 78(c):
   (e) disclaimers:
@@ -1962,14 +1983,7 @@ No person is entitled to compensation from the Crown in respect of any diminutio
 (2) Subsection (1) applies only if the agent is not a prescribed class of person.
 
 ### 191 Declarations, etc, on behalf of certain persons
-(1) Any of the relevant persons described in subsection (2) may make a declaration and do anything required or permitted by or under this Act in the name and on behalf of a person who is not 18 years or over or is incapable of making a declaration or doing that thing.
-(2) The relevant persons referred to in subsection (1) are—
-  (a) the person's guardian:
-  (b) the person's statutory administrator, if any:
-  (c) a person appointed by the court who has jurisdiction in respect of the person's property.
-(3) An appointment may be made by the court for the purposes of this section on the application of—
-  (a) any person acting on behalf of a person who is not 18 years or over or is incapable of making a declaration or doing anything required or permitted by or under this Act; or
-  (b) any other person interested in the making of the declaration or the doing of the thing.
+[Repealed]
 
 **Substitution**
 
@@ -2083,7 +2097,7 @@ For the purpose of giving effect to an international agreement or arrangement to
 **Amendments**
 
 ### 201 Acts amended
-The Acts specified in the Schedule are amended in the manner indicated in that schedule.
+The Acts specified in Schedule 1 are amended in the manner indicated in that schedule.
 
 **Transitional and savings provisions**
 
@@ -2134,4 +2148,16 @@ An Order in Council made under section 72 of the Trade Marks Act 1953 has effect
 (1) Notes on the register that indicate that a trade mark is associated with another trade mark cease to have effect on the commencement of this Act.
 (2) Any other note, disclaimer, or condition entered on the register in relation to a trade mark registered under the Trade Marks Act 1953 is deemed to be entered on the register under this Act.
 
-## Schedule  — Acts amended
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provision relating to Regulatory Systems (Economic Development) Amendment Act 2019
+
+### 1 Restoration provisions continued for trade marks removed before commencement date
+(1) Despite their replacement or revocation by the Amendment Act, the restoration provisions continue to apply in relation to a trade mark that, before the commencement date, was removed from the register for non-payment of the renewal fee.
+(2) This clause is repealed at the close of the day that is 1 year after the commencement date.
+(3) In this clause,—
+  - **Amendment Act** means the Regulatory Systems (Economic Development) Amendment Act 2019
+  - **commencement date** means the date on which section 128 of the Amendment Act comes into force
+  - **restoration provisions** means sections 59 and 60 of this Act and regulation 134 of the Trade Marks Regulations 2003 as in force immediately before the commencement date.
+
+## Schedule 1 — Acts amended
