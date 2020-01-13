@@ -1,5 +1,5 @@
 # Weights and Measures Act 1987
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2020-01-13_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Weights and Measures Act 1987.
@@ -312,7 +312,7 @@ Nothing in section 20 and section 21 shall apply to any automatic weighing machi
   (fa) issue a certificate of accuracy in respect of any weight, measure, or weighing or measuring instrument, or cancel any such certificate:
   (g) examine, weigh, measure, or count, or cause to be weighed, measured, or counted, any goods kept, displayed, offered, or exposed for sale:
   (h) require the production for examination by that Inspector, and take copies of, any book, record, contract, invoice, note, or other document in the possession of any person relating to—
-    (i) any goods kept, displayed, offered, or exposed for sale; or
+    (i) any goods sold, or currently kept, displayed, offered, or exposed for sale; or
     (ii) any weights, measures, or weighing or measuring instruments used for trade:
   (i) require any person by whom any goods are carried for delivery pursuant to or in connection with a contract of sale to state the name and address of—
     (i) that person; and
@@ -459,11 +459,13 @@ Every person commits an offence who—
   (fa) being an accredited person, except as permitted by or under this Act, stamps with a mark of verification, or issues a certificate of accuracy in respect of, any weight, measure, or weighing or measuring instrument; or
   (g) except as permitted by or under this Act, alters, defaces, or obliterates any stamp or mark lawfully impressed on any weight, measure, or weighing or measuring instrument under this Act; or
   (h) alters or tampers with any stamped or marked weight, measure, or weighing or measuring instrument so as to cause it to weigh or measure falsely or unjustly; or
-  (i) uses, sells, or offers or exposes for sale any weight, measure, or weighing or measuring instrument that—
+  (i) uses, sells, leases, or offers or exposes for sale or lease any weight, measure, or weighing or measuring instrument that—
     (i) contains any forged or unauthorised mark or stamp; or
     (ii) has been altered or tampered with after it has been stamped or marked under this Act; or
-  (j) for the purposes of use for trade, makes or sells any weight, measure, or weighing or measuring instrument that is incorrect or that does not comply with this Act or with any regulations made under this Act; or
-  (k) without lawful excuse increases or diminishes any stamped weight or measure, or uses, sells, or offers or exposes for sale any stamped weight or measure that has been increased or diminished; or
+  (j) for the purposes of use for trade, makes, sells, or leases any weight, measure, or weighing or measuring instrument that is incorrect or that does not comply with this Act or with any regulations made under this Act; or
+  (k) without lawful excuse—
+    (i) increases or diminishes any stamped weight or measure; or
+    (ii) uses, sells, leases, or offers or exposes for sale or lease any stamped weight or measure that has been increased or diminished; or
   (l) inserts in any weight, measure, or weighing or measuring instrument any stamp or mark that has been removed from any other weight, measure, or weighing or measuring instrument.
 
 ### 32A Infringement offences
