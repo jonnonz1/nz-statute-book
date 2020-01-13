@@ -1,5 +1,5 @@
 # Public and Community Housing Management Act 1992
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2020-01-13_
 
 > Title
 
@@ -881,7 +881,7 @@ The functions of the agency include the following:
     (i) the total of the amounts that the applicable persons are eligible to receive as family tax credits under those subparts; and
     (ii) a prescribed amount (or an amount calculated by a prescribed means).
 (3) A rent calculated by reference to benefit levels is the sum of—
-  (a) the prescribed proportion of the rate (before reduction on account of income) of jobseeker support stated in clause 1(a) to (f) of Part 1 of Schedule 4 of the Social Security Act 2018 that would be appropriate if the tenant were a beneficiary; and
+  (a) the prescribed proportion of the rate (before reduction on account of income) of jobseeker support stated in clause 1(b) to (j) of Part 1 of Schedule 4 of the Social Security Act 2018 that would be appropriate if the tenant were a beneficiary; and
   (b) if any of the applicable persons is eligible to receive family tax credits under subparts MA to MF and MZ of the Income Tax Act 2007, the prescribed proportion of the lesser of—
     (i) the total of the amounts that the applicable persons are eligible to receive as family tax credits under those subparts; and
     (ii) a prescribed amount (or an amount calculated by a prescribed means).
@@ -1556,12 +1556,13 @@ The authority must, as soon as practicable after receiving an application for re
 (3) The effect of revocation is that the provider is no longer eligible to receive any benefits associated with any specified class or classes of registration that the provider has obtained, and those benefits may, without limitation, include payments under reimbursement agreements or tailored agreements, Crown grants, or assets of the Crown or of a Crown entity.
 
 ### 172 Register of community housing providers
-The authority must establish and maintain a register of community housing providers that includes the following information about each registered provider:
+(1) The authority must establish and maintain a register of community housing providers that includes the following information about each registered provider:
   (a) the current (and any former) full name and address and incorporation details (if applicable) of the provider; and
   (b) the full names and addresses and appointment details of the current (and former) members of its governing body (if applicable); and
-  (c) the full details of any land in respect of which the provider is or was a registered owner, or over which it holds or has held a lease, tenancy agreement, or licence of more than 3 years' duration, or at which it provides or has provided community housing services to the public; and
+  (c) in the case of a registered provider who obtains a class of registration that qualifies that provider as being eligible to receive Crown grants or assets of the Crown or a Crown entity, the full details of any land in respect of which the provider is or was a registered owner, or over which it holds or has held a lease, tenancy agreement, or licence of more than 3 years' duration, or at which it provides or has provided community housing services to the public; and
   (d) its registration details as a registered community housing provider; and
   (e) any prescribed information or documents.
+(2) Subsection (1)﻿(b) does not require the authority to include on the register information about a person whose membership on a provider’s governing body ended before the provider became a registered community housing provider, but the authority has discretion to include that information.
 
 ### 173 Certain community housing providers deemed to be registered
 (1) A community housing provider that on the date of commencement of this section (commencement date) has entered into a Relationship and Grant Agreement with the Ministry of Business, Innovation, and Employment is, on and from the commencement date, deemed to be a registered community housing provider that has obtained a class of registration that qualifies the provider as being eligible to receive the income-related rent subsidy for 1 year after the commencement date.
