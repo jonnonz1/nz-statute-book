@@ -1,5 +1,5 @@
 # Parental Leave and Employment Protection Act 1987
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2020-01-13_
 
 > Title
 
@@ -44,7 +44,7 @@ Spouse/partner entitlements
     (ii) an extension to 52 weeks (see Part 3 (extended leave)), which may need to be shared with the child’s primary carer (see section 28); and
   (c) for an employee who does not meet the 6-month employment test, there is no entitlement under this Act to partner’s leave; and
   (d) for a self-employed person, as much partner’s leave as the person wishes to take.
-(5) It is also possible, in certain circumstances, for a primary carer to transfer their entitlements to their spouse or partner (see section 71E) or for the spouse or partner of a primary carer to succeed to a primary carer’s entitlements (see section 72B).
+(5) It is also possible, in certain circumstances, for a primary carer to transfer their entitlements to their spouse or partner (see section 71E), for the spouse or partner of a primary carer to succeed to a primary carer’s entitlements (see section 72B), or for the spouse or partner of a primary carer to become the primary carer of a child (see section 7(1)﻿(b)﻿(iii)).
 Administrative matters
 (6) Parts 4 to 7 set out further matters relating to the administration of parental leave entitlements, including notice requirements (see Part 4), rights and obligations after parental leave begins (see Part 5), protection of employment (see Part 6), and the remedies available to employees (see Part 7).
 (7) Part 8 contains miscellaneous provisions that relate to the administration of parental leave and parental leave payment entitlements.
@@ -216,6 +216,10 @@ An employee shall not be entitled to parental leave in respect of a child by vir
   (b) the spouse or partner of the biological mother, only if—
     (i) the spouse or partner has succeeded under section 72B to all or part of the biological mother’s entitlement to a parental leave payment; or
     (ii) the biological mother has transferred all or part of her entitlement to a parental leave payment to that spouse or partner under section 71E (in which case the spouse or partner is the primary carer for the period of time in relation to which the entitlement is transferred); or
+    (iii) neither subparagraph (i) nor (ii) applies and all of the following are true:
+      (A) the child is under 1 year of age; and
+      (B) the spouse or partner, because of the death of the biological mother or for any other reason, has taken permanent primary responsibility for the care, development, and upbringing of the child to the exclusion of the biological mother; and
+      (C) at the time the spouse or partner took that permanent primary responsibility, the biological mother either had not applied for, or did not qualify to apply for, a parental leave payment:
   (c) a person, other than the biological mother or her spouse or partner, who takes permanent primary responsibility for the care, development, and upbringing of a child who is under the age of 6 years (and if there is more than 1 such person, the person nominated in accordance with subsection (2)).ExamplesIf a child under the age of 6 years goes to live with their aunt, who intends to raise the child in place of the child’s biological parents, the aunt is the child’s primary carer.If a couple formally adopt a child under the age of 6 years, or undertake to care for the child permanently, the member of the couple that is nominated under subsection (2) is the child’s primary carer.If a child under the age of 6 is temporarily placed with a foster parent, that person is not a primary carer because the placement is not permanent.If a child’s grandmother minds the child every day while his or her parents are at work, the grandmother is not a primary carer, because the child’s parents still have primary responsibility for the child’s upbringing.
 (2) If 2 or more persons meet the criterion in subsection (1)﻿(c),—
   (a) those persons must jointly nominate which one of them is to be the primary carer; and
@@ -229,6 +233,7 @@ An employee shall not be entitled to parental leave in respect of a child by vir
 (2) No employee may take primary carer leave under subsection (1) in respect of a child if the employee has previously taken a period of leave in respect of that child, being—
   (a) parental leave under this Act; or
   (b) a period of leave in the nature of parental leave under any Act other than this Act or under any employment agreement.
+(3) Subsection (2) does not apply to an employee who is a primary carer under section 7(1)﻿(b)﻿(iii).
 
 ### 9 Duration of primary carer leave
 (1) Primary carer leave must be taken in 1 continuous period not exceeding 22 weeks, subject to subsection (2).
@@ -240,6 +245,7 @@ An employee shall not be entitled to parental leave in respect of a child by vir
 ### 10 Date of commencement of primary carer leave
 Primary carer leave begins,—
   (a) in the case of a child born to the employee, on the date of confinement; or
+  (aa) in the case of an employee who is a primary carer under section 7(1)﻿(b)﻿(iii), on the date, within a reasonable period after the date on which the employee becomes the primary carer in respect of the child, that the employee and the employer agree upon; or
   (b) in any other case, on the date on which the employee becomes the primary carer in respect of the child; or
   (c) on such earlier date—
     (i) as is determined in accordance with section 11 or section 12 or section 13; or
@@ -414,6 +420,7 @@ The object of this Part is to—
 (2) An employee to whom this section applies may make a request to his or her employer for negotiated carer leave.
 (3) The request must be made,—
   (a) in the case of an employee who wishes to take negotiated carer leave in respect of a child to be born to the employee or to the employee’s spouse or partner, at least 3 months before the expected date of delivery; or
+  (aa) in the case of an employee who is a primary carer under section 7(1)﻿(b)﻿(iii), within a reasonable period after the employee becomes the primary carer in respect of the child; or
   (b) in any other case, at least 14 days prior to the date on which the employee intends to become the primary carer in respect of the child.
 
 ### 30C Requirements relating to request
@@ -493,6 +500,7 @@ An employer must deal with a request for negotiated carer leave as soon as possi
   (c) if given by the pregnant woman's spouse or partner, shall be accompanied by—
     (i) a certificate or a copy of a certificate from a medical practitioner or a midwife certifying that the woman named in the certificate is pregnant and stating the expected date of delivery; and
     (ii) a written assurance from the woman named in the medical certificate that the employee is her spouse or partner and that the employee intends to assume care of the child to be born to her.
+(4) Despite subsection (3), in the case of an employee who is a primary carer under section 7(1)﻿(b)﻿(iii), the notice under subsection (1) must be given within a reasonable period after the employee becomes the primary carer in respect of the child.
 
 ### 32 Requirements where extended leave sought
 (1) Where any notice is given in accordance with section 31 by an employee wishing to take any period of extended leave under this Act, that notice shall, in addition to the matters required by that section or by section 33,—
@@ -536,6 +544,7 @@ If an employee, or his or her spouse or partner, intends to be the primary carer
     (ii) that the employer will, for the period of 26 weeks beginning with the day after the date on which the parental leave ends, give the employee preference over other applicants for any position which is vacant and which is substantially similar to the position held by the employee at the beginning of the parental leave; and
   (e) informing the employee of the substance of Parts 1 to 3 and of section 45, and, in particular, of the employee's rights and obligations under sections 11, 21, and 29.
 (2) Where an employer receives a notice that is an incomplete notice that employer shall, within 21 days after the date of the receipt by the employer of the additional information, documentation, or assurance specified in the notice given under section 34(2), give to the employee a notice complying with subsection (1) of this section.
+(2A) In the case of an employee who is a primary carer under section 7(1)﻿(b)﻿(iii), the employer must give notice under subsections (1) and (2) within a reasonable period, but not later than within the period provided for in those subsections.
 (3) Where any employee receives a notice given under subsection (1) or under subsection (1) (as applied by subsection (2)) and the employee disputes any statement given in that notice, that employee may invoke any procedure set out in Part 7.
 
 ### 37 Requirement where employee wishes to begin primary carer leave early
@@ -951,6 +960,7 @@ In this Part, a self-employed person is not to be treated as having returned to 
 (2) Despite subsection (1), a person who becomes the primary carer in respect of a child who is under the age of 6 years is not entitled to parental leave payments in respect of that child if—
   (a) the person has previously received parental leave payments in respect of that child; or
   (b) the person’s spouse or partner has previously received parental leave payments in respect of that child (unless the person’s entitlement arises from a transfer under section 71E or by succession under section 72B).
+(2A) Subsection (2) does not apply to a person who is a primary carer under section 7(1)﻿(b)﻿(iii).
 (3) This section is subject to sections 71F to 71IA (restrictions on parental leave payments and making an application for payment).
 
 **Entitlement to preterm baby payments**
@@ -1034,6 +1044,9 @@ A person is not entitled to a parental leave payment in respect of a child if—
   (b) be made in the manner prescribed in regulations; and
   (c) specify the matters, and be accompanied by the documents, prescribed in regulations; and
   (d) state whether or not the person wishes to transfer all or part of the entitlement under section 71E.
+(2A) In the case of an employee or a self-employed person who is a primary carer under section 7(1)﻿(b)﻿(iii), subsection (2)﻿(a) does not apply, and the application must be made before, or within a reasonable period after, the earliest of the following:
+  (a) the date on which the person returns to work; or
+  (b) the date that is the first anniversary of the date on which the person became the primary carer in respect of the child.
 (3) An employer must comply with any provision in the regulations that requires the employer to specify matters in, or attach documents to, or sign, an application under this section.
 (4) This section is subject to section 71IA.
 
@@ -1071,6 +1084,9 @@ A person is not entitled to a parental leave payment in respect of a child if—
 (3) If this subsection applies, the period in relation to which a parental leave payment is payable to the person in respect of the child does not begin until the earlier of—
   (a) the date the person commences parental leave; and
   (b) the original expected date of delivery, had the child not been born prematurely.
+(4) Despite subsections (1) to (3), in the case of a person who is a primary carer under section 7(1)﻿(b)﻿(iii), the parental leave payment period begins,—
+  (a) if the person is an employee who takes a period of paid leave at the start of his or her parental leave period, on the day after the date on which that period of paid leave ends, if the person so elects; and
+  (b) otherwise, on the date that the person designates, which must be on, or within a reasonable period after, the date on which the person becomes the primary carer in respect of the child.
 
 ### 71L End of parental leave payment
 (1) A parental leave payment is payable to a person in respect of a child for a period that ends on the earlier of—
