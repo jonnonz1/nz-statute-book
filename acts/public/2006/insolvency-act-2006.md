@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2019-04-01_
+_Consolidation as at 2020-01-13_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -22,12 +22,16 @@ In this Part and Parts 2 to 7, unless the context otherwise requires,—
     (c) a registered society within the meaning of the Industrial and Provident Societies Act 1908:
     (d) a society incorporated or registered overseas that is similar to any society in paragraphs (a) to (c)
   - **court** means the High Court
-  - **current summary instalment order** has the meaning set out in section 355
+  - **current debt repayment order** has the meaning set out in section 355
   - **document** means a document in any form; and includes—
     (a) any writing on any material; and
     (b) information recorded or stored by means of a tape recorder, computer, or other device; and material subsequently derived from information so recorded or stored; and
     (c) a book, graph, or drawing; and
     (d) a photograph, film, negative, tape, or other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of equipment) of being reproduced
+  - **excluded debt** , in relation to a debt repayment order or the no asset procedure, means—
+    (a) any amount payable under a maintenance order under the Family Proceedings Act 1980; and
+    (b) any amount payable under the Child Support Act 1991; and
+    (c) any student loan balance
   - **goods** has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
   - **Judge** means a Judge of the High Court
   - **lawyer** has the same meaning as in section 6 of the Lawyers and Conveyancers Act 2006
@@ -69,7 +73,7 @@ This Act binds the Crown.
 (1) A corporation, association, or company incorporated or registered under any Act must not—
   (a) be adjudicated bankrupt:
   (b) make a proposal to its creditors:
-  (c) be the subject of a summary instalment order under this Act:
+  (c) be the subject of a debt repayment order under this Act:
   (d) be admitted to the no asset procedure.
 (2) However,—
   (a) Part 16 of the Companies Act 1993 applies to the liquidation of companies, overseas companies, and associations within the meaning of section 2(1) of that Act; and
@@ -89,7 +93,7 @@ This Act binds the Crown.
 ### 8 Alternatives to bankruptcy
 (1) A debtor who is insolvent may have an alternative to bankruptcy, such as—
   (a) making a proposal to creditors (see subpart 2 of Part 5); or
-  (b) paying creditors in instalments under a summary instalment order (see subpart 3 of Part 5); or
+  (b) paying creditors in instalments under a debt repayment order (see subpart 3 of Part 5); or
   (c) entry to the no asset procedure (see subpart 4 of Part 5).
 (2) This section is intended only as a guide to the alternatives to bankruptcy.
 
@@ -310,7 +314,7 @@ If a creditor's application for adjudication relates to more than 1 debtor, the 
 (1) This section applies if the debtor—
   (a) has made a disposition of all, or substantially all, of the debtor's property to a trustee for the benefit of all or any of the debtor's creditors; or
   (b) has made a proposal under Part 5; or
-  (c) has applied for a summary instalment order under Part 5.
+  (c) has applied for a debt repayment order under Part 5.
 (2) The debtor or the trustee or any creditor may apply for an order under this section.
 (3) On the application, the court may make any of the following orders:
   (a) order that the disposition or proposal is not an act of bankruptcy:
@@ -453,7 +457,8 @@ The court may order that the Assignee must not advertise the adjudication if the
 **Bankrupt's statement of affairs**
 
 ### 67 Bankrupt must file statement of affairs with Assignee
-After adjudication, the bankrupt must file with the Assignee a statement of the bankrupt's affairs in the prescribed form, unless the bankrupt has already filed a statement under section 46.
+(1) After adjudication, the bankrupt must file with the Assignee a statement of the bankrupt's affairs in the prescribed form, unless the bankrupt has already filed a statement under section 46.
+(2) The Assignee may reject a statement of affairs that in the Assignee’s opinion is incorrect or incomplete.
 
 ### 68 Notice that bankrupt must file statement of affairs
 (1) As soon as practicable after adjudication, the Assignee must send the bankrupt a notice in the prescribed form stating—
@@ -1022,8 +1027,8 @@ If the bankrupt defaults in making a payment required under section 147, the onu
 ### 149 Prohibition of bankrupt entering business
 (1) An undischarged bankrupt must not, without the consent of the Assignee or the court, either directly or indirectly,—
   (a) enter into, carry on, or take part in the management or control of any business:
-  (b) be employed by a relative of the bankrupt:
-  (c) be employed by a company, trust, trustee, or incorporated society that is owned, managed, or controlled by a relative of the bankrupt.
+  (b) be employed by, or work without reward for, a relative of the bankrupt:
+  (c) be employed by, or work without reward for, a company, trust, trustee, or incorporated society that is owned, managed, or controlled by a relative of the bankrupt.
 (2) Nothing in this section restricts section 151 of the Companies Act 1993.
 
 ### 150 Warrant to search for and seize bankrupt's property
@@ -1105,42 +1110,44 @@ If the bankrupt defaults in making a payment required under section 147, the onu
 **Provision for bankrupt**
 
 ### 158 Bankrupt may retain certain assets
-(1) The bankrupt may choose and retain as the bankrupt's own property certain assets up to a maximum value.
-(2) In this section, and in section 159, maximum value means the maximum value of the assets specified in subsection (3) that the bankrupt may retain.
-(3) The assets and their maximum value are—
-  (a) the bankrupt's necessary tools of trade—the maximum value is fixed in the Assignee's discretion:
-  (b) necessary household furniture and effects, including clothing, for the bankrupt and his or her relatives and dependants—the maximum value is fixed in the Assignee's discretion:
-  (c) motor vehicle—$6,000.
-(4) For the purposes of this section, the value of an asset is the value that the Assignee in his or her discretion places on it.
-(5) The Governor-General may, by Order in Council, amend subsection (3)﻿(c) by increasing the maximum value, to take account of any rise in the all groups index number of the Consumer Price Index.
+(1) The bankrupt may retain as the bankrupt’s own property the following assets:
+  (a) the bankrupt’s necessary tools of trade:
+  (b) necessary household furniture and effects, including clothing, for the bankrupt and the bankrupt’s relatives and dependants:
+  (c) a motor vehicle (up to a maximum value of $6,500).
+(2) For the purposes of subsection (1)﻿(c), the value of a motor vehicle is the value that the Assignee in the Assignee’s discretion places on it.
+(3) The fact that the value of the motor vehicle is less than the maximum value specified in subsection (1)﻿(c) does not give the bankrupt rights in relation to other assets in the bankrupt’s estate.
+(4) The Governor-General may, by Order in Council, amend subsection (1)﻿(c) by increasing the maximum value to take account of any rise in the all groups index number of the New Zealand Consumers Price Index.
 
 ### 159 Bankrupt may retain certain assets with consent of creditors
-The bankrupt may retain necessary tools of trade and necessary household furniture and effects that are worth more than the maximum value, if the creditors consent by an ordinary resolution.
+[Repealed]
 
 ### 160 Retention of assets does not affect rights under charge or hire purchase agreement
-The retention of an asset by the bankrupt under section 158 or 159 does not affect any rights under a valid charge or hire purchase agreement in respect of the asset.
+The retention of an asset by the bankrupt under section 158 does not affect any rights under a valid charge or hire purchase agreement in respect of the asset.
 
 ### 161 Retention provisions do not confer rights to other assets
-The fact that the net value of the assets that the bankrupt retains is less than the maximum values specified in section 158 does not give the bankrupt rights in relation to other assets in the bankrupt's estate.
+[Repealed]
 
 ### 162 Relative or dependant may exercise bankrupt's right to retain assets
-If the bankrupt has died, a relative or dependant of the bankrupt, who has been approved by the Assignee or the court for this purpose, may exercise the right to retain assets under section 158 or 159 for the benefit of the bankrupt's relatives and dependants.
+If the bankrupt has died, a relative or dependant of the bankrupt, who has been approved by the Assignee or the court for this purpose, may exercise the right to retain assets under section 158 for the benefit of the bankrupt's relatives and dependants.
 
 ### 163 Assignee may make allowance to bankrupt
 The Assignee may make an allowance out of the property of the bankrupt to the bankrupt or any relative or dependant of the bankrupt for the support of the bankrupt and his or her relatives and dependants.
 
 ### 164 Assignee may allow bankrupt to retain money
-(1) The Assignee may allow the bankrupt to retain, for the immediate maintenance of the bankrupt and his or her relatives and dependants, any money up to a maximum of $1,200 that the bankrupt has in the bankrupt's possession or in a bank account at the time of adjudication.
+(1) The Assignee may allow the bankrupt to retain, for the immediate maintenance of the bankrupt and his or her relatives and dependants, any money up to a maximum of $1,300 that the bankrupt has in the bankrupt's possession or in a bank account at the time of adjudication.
 (2) The Governor-General may, by Order in Council, amend subsection (1) by increasing the maximum amount that the Assignee may allow the bankrupt to retain, to take account of any rise in the Consumer Price Index.
 
 ### Subpart 5 — Powers of Assignee and court to examine bankrupt and others
 
 **Examination of persons summoned by Assignee**
 
-### 165 Assignee may summon bankrupt and others to be examined
+### 165 Assignee may require bankrupt and others to be examined or provide information or assistance
 (1) The Assignee may at any time, before or after a bankrupt's discharge,—
   (a) summon any of the persons listed in subsection (2) to appear before the Assignee, another Assignee, or a District Court Judge to be examined on oath in relation to the bankrupt's property, conduct, or dealings; and
-  (b) require that person to produce and surrender to the Assignee or District Court Judge before whom that person appears any document in that person's possession or control that relates to the bankrupt's property, conduct, or dealings.
+  (b) require that person to do any 1 or more of the following:
+    (i) produce and surrender to the Assignee or District Court Judge before whom that person appears any document in that person’s possession or control that relates to the bankrupt’s property, conduct, or dealings:
+    (ii) provide the Assignee with any information that the Assignee requests about the bankrupt’s property, conduct, or dealings:
+    (iii) assist the Assignee, to the best of the person’s ability, to carry out the Assignee’s functions and duties under this Act in respect of the bankrupt.
 (1A) A person who is summoned by the Assignee for examination may appear before the Assignee by audio link or audiovisual link if the Assignee and the person agree.
 (2) The persons referred to in subsection (1) are—
   (a) the bankrupt:
@@ -1178,7 +1185,7 @@ A creditor or his or her lawyer may at any reasonable time inspect the record of
 Sections 165 to 169 also apply when the Assignee has been appointed a receiver and manager of all or part of a debtor's property under section 50, and references in sections 165 to 169 to the bankrupt must be read with all necessary modifications as if they were references to the debtor.
 
 ### 171 Assignee may obtain documents
-In addition to the power contained in section 165(1)﻿(b), the Assignee may, by notice in writing, require the bankrupt, the bankrupt's spouse, or any other person to deliver to the Assignee any document relating to the bankrupt's property, conduct, or dealings in that person's possession or under that person's control.
+In addition to the power contained in section 165(1)﻿(b)﻿(i), the Assignee may, by notice in writing, require the bankrupt, the bankrupt's spouse, or any other person to deliver to the Assignee any document relating to the bankrupt's property, conduct, or dealings in that person's possession or under that person's control.
 
 ### 172 No lien over bankrupt's documents and other records
 (1) A person is not entitled as against the Assignee to withhold possession of, or claim a lien over,—
@@ -1225,8 +1232,9 @@ Before the public examination of the bankrupt, the Assignee must file in the cou
 ### 178 Record of examination
 (1) The examination must be recorded in writing as the court directs.
 (2) The record of the examination must be—
-  (a) read over to, and signed by, the bankrupt; and
+  (a) signed by the bankrupt; and
   (b) available for inspection by any creditor or that creditor's lawyer at all reasonable times.
+(3) The court may, if the bankrupt requests, require that the record of the examination be read over to the bankrupt before the bankrupt signs it.
 
 ### 179 When examination ends
 (1) The public examination of a bankrupt ends when the court makes an order that the examination is ended.
@@ -1330,8 +1338,8 @@ The Assignee may recover money paid by a bankrupt, whether before or after adjud
   (f) a contribution by the bankrupt to the property of another person.
 (2) Broadly, the effect of this subpart is that the irregular transactions listed in subsection (1)﻿(a) to (d) may be cancelled on the Assignee's initiative, and that, in appropriate cases, the Assignee may recover property or money from a party to an irregular transaction with the bankrupt.
 
-### 193 Extension of 2 years and 6 months periods
-A reference in this subpart to 2 years or to 6 months means 2 years or 6 months (as the case may be) extended as follows:
+### 193 Extension of 5 years, 2 years, and 6 months periods
+A reference in this subpart to 5 years or to 2 years or to 6 months means 5 years or 2 years or 6 months (as the case may be) extended as follows:
   (a) in the case of adjudication on a creditor's application, extended by the period between the time when the application was served on the bankrupt and the time of adjudication:
   (b) in the case of adjudication on the bankrupt's own application, while a creditor's application is awaiting a hearing, extended by the period between the time when the creditor's application was served on the bankrupt and the time of adjudication.
 
@@ -1995,10 +2003,12 @@ If a person (A) is a partner of a firm and is adjudicated bankrupt, any creditor
 **Undistributed money paid to Public Trust**
 
 ### 282 Definition of undistributed money
-In sections 283 to 289, undistributed money means any money that—
-  (a) was received by the Assignee by the realisation of the property of the bankrupt; and
-  (b) remains after the Assignee deducts the costs of obtaining his or her release under sections 408 to 410, if applicable; and
-  (c) is required to be paid to any person under sections 274 to 281, but is not able to be distributed for any reason.
+In sections 283 to 289, undistributed money means either of the following:
+  (a) any money that—
+    (i) was received by the Assignee by the realisation of the property of the bankrupt; and
+    (ii) remains after the Assignee deducts the costs of obtaining the Assignee’s release under sections 408 to 410, if applicable; and
+    (iii) is required to be paid to any person under sections 274 to 281, but is not able to be distributed for any reason:
+  (b) any money that is required to be distributed under section 358(1), but is not able to be distributed for any reason.
 
 ### 283 Undistributed money to be paid to Public Trust
 The Assignee must pay any undistributed money to Public Trust.
@@ -2019,9 +2029,11 @@ The Assignee must pay any undistributed money to Public Trust.
 
 ### 286 Application of undistributed money held in bankruptcy surplus account
 Undistributed money held in the bankruptcy surplus account may be used as follows:
-  (a) for distribution, in relation to the bankruptcy from which the undistributed money came, to any person who remains to be paid as set out in section 282(c); and
+  (a) for distribution to any person who remains to be paid,—
+    (i) in the case of a bankruptcy, as set out in section 282(a)﻿(iii):
+    (ii) in the case of a debt repayment order, as set out in section 358(1); and
   (b) for the purposes of this Act, to the extent and in the manner allowed by this Act; and
-  (c) subject to section 287, to replace, to the extent of the deficiency, any money misappropriated by an Assignee or any person employed under the provisions of this Act (other than under sections 325 to 360); and
+  (c) subject to section 287, to replace, to the extent of the deficiency, any money misappropriated by an Assignee or any person employed under the provisions of this Act (other than subpart 2 of Part 5); and
   (d) subject to section 288, to meet the costs of court proceedings, obtaining legal advice, or employing an accountant or other experts in circumstances where the creditors of a bankrupt are unable to pay those costs, or it would be unfair or inequitable that they should do so.
 
 ### 287 Requisition of Minister required for payment under section 286(c)
@@ -2050,6 +2062,9 @@ Public Trust may pay undistributed money out of the bankruptcy surplus account u
   (a) the Assignee or a creditor has objected under section 292 and the objection has not been withdrawn by the end of the 3-year period referred to in subsection (1); or
   (b) the bankrupt has to be publicly examined under section 173 and has not completed that examination; or
   (c) the bankrupt is undischarged from an earlier bankruptcy.
+
+### 290A Automatic discharge of bankrupts who die before filing statement of affairs
+If a bankrupt dies before filing a statement of affairs, the bankrupt is automatically discharged from bankruptcy 3 years after the bankrupt’s death.
 
 ### 291 Effect of automatic discharge
 The automatic discharge of the bankrupt has the same effect as if the court made an order for the bankrupt's discharge.
@@ -2209,7 +2224,7 @@ If the court has refused a bankrupt a discharge or discharged the bankrupt but s
   (a) is not prejudiced or affected as to validity by the annulment; and
   (b) has effect as if it had been made or done by the bankrupt while no adjudication was in force.
 
-## Part 5 — Compositions, proposals, summary instalment orders, and no asset procedure
+## Part 5 — Compositions, proposals, debt repayment orders, and no asset procedure
 
 ### Subpart 1 — Composition during bankruptcy
 
@@ -2438,20 +2453,20 @@ After the court has approved the proposal, the insolvent must do everything that
 (4) An order cancelling the proposal, or cancelling the proposal and adjudicating the insolvent bankrupt, does not prejudice or affect the validity of any contract, sale, disposition, or payment duly made or anything duly done under the proposal while it was in force.
 (5) If the insolvent files an application for his or her own adjudication, the proposal is cancelled as if it was cancelled by the court.
 
-### Subpart 3 — Summary instalment orders
+### Subpart 3 — Debt repayment orders
 
-### 340 Summary instalment order
-A summary instalment order is an order by the Assignee that the debtor pay his or her debts—
+### 340 Debt repayment order
+A debt repayment order is an order by the Assignee that the debtor pay their debts—
   (a) in instalments or otherwise; and
   (b) in full or to the extent that the Assignee considers practicable in the circumstances of the case.
 
 ### 341 Who may apply for order
-The Assignee may make a summary instalment order on the application of—
+The Assignee may make a debt repayment order on the application of—
   (a) the debtor; or
   (b) a creditor, with the debtor's consent.
 
 ### 342 Form of application
-(1) An application for a summary instalment order must be in the prescribed form.
+(1) An application for a debt repayment order must be in the prescribed form.
 (2) An application by the debtor—
   (a) must state—
     (i) that the debtor proposes to pay the creditors in full; or
@@ -2471,15 +2486,16 @@ The Assignee may make a summary instalment order on the application of—
     (viii) the name and address of the debtor's employer, if any:
     (ix) any other matter that may be prescribed.
 
-### 343 Assignee may make summary instalment order
-(1) The Assignee may make a summary instalment order if the Assignee is satisfied that—
-  (a) the debtor's total unsecured debts (excluding any student loan balance) that would be provable in the debtor's bankruptcy are not more than $47,000; and
-  (b) the debtor is unable immediately to pay those debts.
+### 343 Assignee may make debt repayment order
+(1) The Assignee may make a debt repayment order if the Assignee is satisfied that—
+  (a) the debtor’s total unsecured debts (apart from any excluded debt) that would be provable in the debtor’s bankruptcy are not more than $50,000; and
+  (b) the debtor is unable immediately to pay those debts; and
+  (c) the order relates only to those debts.
 (2) Before making the order, the Assignee must allow the debtor or a creditor to make representations, if the debtor or creditor wants to do so.
-(3) A summary instalment order is not invalid if the total amount of the debts proved is more than the amount specified in subsection (1)﻿(a), but in that case—
+(3) A debt repayment order is not invalid if the total amount of the debts proved is more than the amount specified in subsection (1)﻿(a), but in that case—
   (a) the supervisor appointed under section 345 may refer the matter to the Assignee; and
   (b) the Assignee may, if the Assignee thinks appropriate, cancel the order.
-(4) The amount in subsection (1)﻿(a) may be varied by the Governor-General by Order in Council to take account of increases in the all groups index number of the Consumer Price Index.
+(4) The amount in subsection (1)﻿(a) may be varied by the Governor-General by Order in Council to take account of increases in the all groups index number of the New Zealand Consumers Price Index.
 
 ### 344 Additional orders
 In addition to an order for the payment of the debts in instalments, the Assignee may make orders—
@@ -2490,14 +2506,14 @@ In addition to an order for the payment of the debts in instalments, the Assigne
     (ii) supervise payment, out of the debtor's earnings or income, of the reasonable living expenses of the debtor and his or her relatives and dependants.
 
 ### 345 Appointment of supervisor
-(1) A summary instalment order must appoint a suitable and willing person to supervise compliance by the debtor with the terms of the order.
+(1) A debt repayment order must appoint a suitable and willing person to supervise compliance by the debtor with the terms of the order.
 (2) The Assignee may dispense with the appointment of a supervisor if the Assignee thinks it appropriate, and in that case—
   (a) the provisions of this subpart apply as if the debtor was the supervisor, except for section 346; and
   (b) section 346 applies as if the Assignee was the supervisor.
 (3) The Assignee may, if the Assignee thinks appropriate, require the supervisor to provide a bond to secure the supervisor's performance of his or her obligations under the Act, and must specify the amount of the bond and the person to whom it must be given.
 
 ### 346 Role of supervisor
-(1) The supervisor must supervise the debtor's compliance with the term's of the summary instalment order and any other orders made under section 344.
+(1) The supervisor must supervise the debtor's compliance with the terms of the debt repayment order and any other orders made under section 344.
 (2) The supervisor may charge the debtor remuneration for carrying out his or her duties as supervisor at the amount or rates fixed or prescribed under subsection (3).
 (3) The Governor-General may, by Order in Council, make regulations that fix or prescribe the amount or rates of remuneration chargeable under subsection (2).
 
@@ -2512,49 +2528,49 @@ The Assignee may—
   (b) appoint a replacement supervisor accordingly.
 
 ### 349 Period of instalments
-The payment of instalments under a summary instalment order may be spread over a period of—
+The payment of instalments under a debt repayment order may be spread over a period of—
   (a) up to 3 years; or
   (b) up to 5 years, if justified by special circumstances.
 
 ### 350 Variation or cancellation of order by Assignee on application from debtor, creditor, or supervisor
-The debtor or any creditor or the supervisor may at any time apply to the Assignee to vary or cancel a summary instalment order, and the Assignee may make an order as the Assignee thinks appropriate.
+The debtor or any creditor or the supervisor may at any time apply to the Assignee to vary or cancel a debt repayment order, and the Assignee may make an order as the Assignee thinks appropriate.
 
 ### 350A Cancellation of order by Assignee without application
-The Assignee may (without an application from any person) cancel a summary instalment order if satisfied that the debtor—
+The Assignee may (without an application from any person) cancel a debt repayment order if satisfied that the debtor—
   (a) is in default under the order; or
-  (b) is able immediately to pay the debtor’s unsecured debts (excluding any student loan balance); or
+  (b) is able immediately to pay the debtor’s unsecured debts (apart from any excluded debt); or
   (c) cannot be located.
 
 ### 351 Effect of order
-All instalments payable under a summary instalment order must be paid in the prescribed manner.
+All instalments payable under a debt repayment order must be paid in the prescribed manner.
 
 ### 352 Proceedings against debtor
-(1) In this section, proceeding means any proceeding against the person or property of the debtor in respect of a debt that has been—
-  (a) shown in the debtor's application for the summary instalment order; or
-  (b) included in the summary instalment order; or
+(1) In this section, proceeding means any proceeding against the person or property of the debtor in respect of a debt (other than an excluded debt) that has been—
+  (a) shown in the debtor's application for the debt repayment order; or
+  (b) included in the debt repayment order; or
   (c) notified to the supervisor.
-(2) After the summary instalment order has been made, a person must not begin or continue a proceeding unless—
+(2) After the debt repayment order has been made, a person must not begin or continue a proceeding unless—
   (a) the Assignee gives permission for a creditor to begin or continue the proceeding (in which case the Assignee may impose any conditions that the Assignee thinks appropriate); or
   (b) the debtor is in default under the order or the order has been cancelled.
 (3) In the case of a proceeding in the District Court, unless subsection (2) applies, the court—
   (a) must halt the proceeding on receiving notice of the order; and
   (b) may award all or part of the creditor's costs incurred up to the time of the court's notification, and may certify accordingly for the purpose of the creditor proving the debt under this subpart.
 
-### 353 Supervisor must give notice of summary instalment order to creditors
-The supervisor must send a notice of the summary instalment order to every creditor—
+### 353 Supervisor must give notice of debt repayment order to creditors
+The supervisor must send a notice of the debt repayment order to every creditor—
   (a) known to the supervisor; or
   (b) whose name is shown on the debtor's application for the order; or
   (c) who has proved a debt under section 356.
 
-### 354 Public register of debtors subject to current summary instalment order
-(1) The Assignee must maintain a public register of persons who are subject to a current summary instalment order.
+### 354 Public register of debtors subject to current debt repayment order
+(1) The Assignee must maintain a public register of persons who are subject to a current debt repayment order.
 (2) The register must be maintained in accordance with subpart 5 of Part 7.
 
-### 355 Meaning of current summary instalment order
-A summary instalment order is not current if it has been cancelled or all the instalments required to be paid under the order have been paid in accordance with the order.
+### 355 Meaning of current debt repayment order
+A debt repayment order is not current if it has been cancelled or all the instalments required to be paid under the order have been paid in accordance with the order.
 
 ### 356 Creditor's claim
-(1) A creditor who has proved his or her debt to the satisfaction of the supervisor is entitled to be included as a creditor in the administration of the debtor's estate under the summary instalment order for the amount of the debt.
+(1) A creditor who has proved his or her debt to the satisfaction of the supervisor is entitled to be included as a creditor in the administration of the debtor's estate under the debt repayment order for the amount of the debt.
 (2) A creditor may object to the supervisor's acceptance or rejection of any creditor's claim by applying to the Assignee.
 (3) If a creditor objects under subsection (2), the Assignee may give any directions the Assignee thinks appropriate as to the acceptance or rejection of the claim.
 (4) A person who becomes a creditor of the debtor after the order has been made, and who proves a debt before the supervisor,—
@@ -2562,22 +2578,39 @@ A summary instalment order is not current if it has been cancelled or all the in
   (b) in that case, may be paid a dividend under the order only after creditors who became creditors of the debtor before the order was made and who have been included as a creditor in the administration have been paid under the order.
 
 ### 357 Payment of debtor's earnings to supervisor
-(1) This section applies if the supervisor, under a power given by a summary instalment order made by the Assignee, directs the debtor's employer to pay the debtor's earnings, or part of them, to the supervisor.
+(1) This section applies if the supervisor, under a power given by a debt repayment order made by the Assignee, directs the debtor's employer to pay the debtor's earnings, or part of them, to the supervisor.
 (2) The amounts that the employer must pay to the supervisor are recoverable as a debt from the employer, and the supervisor's receipt is a complete discharge to the employer for the debt.
 (3) Payment by the employer in contravention of the supervisor's direction to pay the supervisor discharges the liability of the employer to the supervisor for the amount of the payment only if it is made—
   (a) with the consent of the supervisor or the Assignee; or
   (b) to a person who is not the debtor and who has a better legal claim to it than the debtor.
 
 ### 358 Distribution of money paid by debtor
-(1) The supervisor must distribute the money paid by the debtor under the summary instalment order in the following order:
-  (a) first, payment of the costs of administration (including the supervisor's remuneration) in accordance with the prescribed scale:
-  (b) secondly, the Assignee's costs and fees:
+(1) The supervisor must distribute the money paid by the debtor under the debt repayment order in the following order:
+  (a) first, payment of the costs of administration (including the supervisor’s remuneration) in accordance with the prescribed scale:
+  (b) secondly, the Assignee’s costs and fees:
   (c) thirdly, payment of the debts in accordance with the order:
   (d) fourthly, payment of any surplus to the debtor.
-(2) The debtor is discharged from the unsecured debts to which the order relates if the supervisor pays, from the money received under the order, the amounts in subsection (1)﻿(a) to (d) in full.
+(2) For the treatment of money that is not able to be distributed, see sections 282 to 289.
+
+### 358A Discharge of debtor after distribution made
+The debtor is discharged from the unsecured debts to which the debt repayment order relates if the supervisor pays in full, from the money received under the order, the amounts in section 358(1)﻿(a) to (d).
+
+### 358B Effect of discharge
+(1) On discharge under section 358A, the unsecured debts to which the debtor’s debt repayment order relates are cancelled, and the debtor is not liable to pay any part of the debts, including any penalties and interest that may have accrued.
+(2) However, subsection (1) does not apply to—
+  (a) any debt or liability incurred by fraud or fraudulent breach of trust to which the debtor was a party:
+  (b) any debt or liability for which the debtor has obtained forbearance through fraud to which the debtor was a party.
+(3) The debts and liabilities referred to in subsection (2) become again enforceable on discharge under section 358A, and the debtor is liable to pay any penalties and interest that may have accrued.
+
+### 358C Discharge does not release partners and others
+A discharge under section 358A does not release any person who, at the date of discharge, was—
+  (a) a business partner of the discharged debtor; or
+  (b) a co-trustee with the discharged debtor; or
+  (c) jointly bound or had made any contract with the discharged debtor; or
+  (d) a guarantor or in the nature of a guarantor of the discharged debtor.
 
 ### 359 Default by debtor
-(1) A debtor who defaults in paying any sum due under a summary instalment order is presumed, unless the contrary is proved, to have—
+(1) A debtor who defaults in paying any sum due under a debt repayment order is presumed, unless the contrary is proved, to have—
   (a) been able to pay the sum from the date of the order; and
   (b) refused or neglected to pay it.
 (2) If the debtor defaults in making payment in accordance with the order, unless the District Court orders otherwise,—
@@ -2587,14 +2620,14 @@ A summary instalment order is not current if it has been cancelled or all the in
 
 ### 360 Offence of obtaining credit
 (1) A person (A) commits an offence if—
-  (a) A is a debtor in respect of whom a summary instalment order has been made; and
+  (a) A is a debtor in respect of whom a debt repayment order has been made; and
   (b) before all creditors have been paid all amounts to which they are entitled under the order, A,—
     (i) alone or jointly with another person, obtains for the time being credit of $1,000 or more; or
     (ii) incurs liability for the time being to any person of $1,000 or more for the purpose of obtaining credit for another person; or
     (iii) enters into a hire purchase agreement under which A is liable to pay $1,000 or more.
 (2) It is a defence if A proves,—
-  (a) in a case to which subsection (1)﻿(b)﻿(i) applies, that before obtaining the credit of $1,000 A informed the person giving the credit that A was affected by a summary instalment order:
-  (b) in a case to which subsection (1)﻿(b)﻿(ii) applies, that before A incurred the liability of $1,000 the person giving the credit was informed that A was affected by a summary instalment order.
+  (a) in a case to which subsection (1)﻿(b)﻿(i) applies, that before obtaining the credit of $1,000 A informed the person giving the credit that A was affected by a debt repayment order:
+  (b) in a case to which subsection (1)﻿(b)﻿(ii) applies, that before A incurred the liability of $1,000 the person giving the credit was informed that A was affected by a debt repayment order.
 (3) A person who commits an offence under this section is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $5,000 or both.
 (4)
 
@@ -2617,9 +2650,12 @@ This subpart sets out a procedure for dealing with a debtor who has no realisabl
   (a) the debtor has no realisable assets; and
   (b) the debtor has not previously been admitted to the no asset procedure; and
   (c) the debtor has not previously been adjudicated bankrupt; and
-  (d) the debtor has total debts (excluding any student loan balance) that are not less than $1,000 and not more than $47,000; and
-  (e) under a prescribed means test, the debtor does not have the means of repaying any amount towards those debts.
-(2) In this section, realisable assets does not include the assets that a bankrupt is allowed to retain under section 158, but does include any assets (for example, gifted assets) that might be recoverable by the Assignee if the debtor were adjudicated bankrupt on the date of application for entry to the no asset procedure and if the irregular transaction provisions in subpart 7 of Part 3 applied.
+  (d) the debtor has total debts (apart from any excluded debt) that are not less than $1,000 and not more than $50,000; and
+  (e) under a prescribed means test, the debtor does not have the means of repaying any amount towards those debts; and
+  (f) the outcome for any creditor would not be materially better if the debtor were adjudicated bankrupt.
+(2) In this section, realisable assets—
+  (a) excludes the assets that a bankrupt is allowed to retain under section 158; but
+  (b) includes any assets (for example, gifted assets) that might be recoverable by the Assignee if the debtor were adjudicated bankrupt on the date of application for entry to the no asset procedure and if the irregular transaction provisions in subpart 7 of Part 3 applied.
 (3) The amounts in subsection (1)﻿(d) may be varied by the Governor-General by Order in Council to take account of increases in the all groups index number of the Consumer Price Index.
 
 ### 364 Debtor disqualified from entry to no asset procedure in certain cases
@@ -2689,8 +2725,13 @@ A debtor's participation in the no asset procedure terminates when—
 (3) The Assignee must as soon as practicable send a written notice of the termination to each creditor of the debtor known to the Assignee.
 
 ### 374 Assignee may apply for preservation order
-(1) If the Assignee terminates a debtor's participation in the no asset procedure on the ground that the debtor has concealed assets or misled the Assignee, the court on the application of the Assignee may make an order for the preservation of the debtor's assets pending an application for the debtor's adjudication.
-(2) The court may make an order under subsection (1) on the terms and conditions that it sees fit.
+(1) This section applies if—
+  (a) the Assignee intends to terminate, or has terminated, a debtor’s participation in the no asset procedure on the ground that the debtor concealed assets or misled the Assignee; or
+  (b) the Assignee or a creditor intends, under section 377C, to apply for a reversal of the cancellation of a debtor’s debts on the ground that the debtor concealed assets or misled the Assignee.
+(2) The court may, on the application of the Assignee, make an order for the preservation of the debtor’s assets pending an application for the debtor’s adjudication.
+(3) The order—
+  (a) may be on the terms and conditions that the court thinks fit; and
+  (b) is effective, unless the court states otherwise, from the time that the order is made.
 
 ### 375 Effect of termination
 Except in the case of termination by discharge under section 377, the debtor's debts that became unenforceable on the debtor's entry to the no asset procedure become again enforceable on termination of the debtor's participation in the no asset procedure, and the debtor is liable to pay any penalties and interest that may have accrued.
@@ -2727,6 +2768,22 @@ A discharge under section 377 does not release any person who, at the date of di
   (b) a co-trustee with the discharged debtor; or
   (c) jointly bound or had made any contract with the discharged debtor; or
   (d) a guarantor or in the nature of a guarantor of the discharged debtor.
+
+### 377C Court may reverse cancellation of debtor’s debts
+(1) The court may, on the application of the Assignee or a creditor, reverse the cancellation under section 377A of a debtor’s debts.
+(2) The cancellation of debts may be reversed at any time before 2 years after the date of the cancellation.
+
+### 377D Grounds for reversing cancellation of debts
+(1) The court may reverse a cancellation under section 377A of a debtor’s debts if—
+  (a) the debtor has been given notice of the application for cancellation (including the grounds relied on by the applicant); and
+  (b) the court is satisfied that facts have been established that—
+    (i) were not known to the Assignee before the debtor was discharged from the no asset procedure; and
+    (ii) had the Assignee known of them, would have justified the Assignee in terminating the debtor’s participation in the no asset procedure under section 373(1)﻿(a).
+(2) The court must not reverse the cancellation of debts if the applicant is a creditor and the facts relied on by the applicant were known to the applicant at the time the debtor was discharged.
+
+### 377E Effect of reversal of cancellation of debts
+(1) If the court reverses a cancellation under section 377A of a debtor’s debts, the debts that were cancelled under section 377A(1) become again enforceable, and the debtor is liable to pay any penalties and interest that may have accrued during the debtor’s participation in the procedure or after the debtor was discharged.
+(2) However, the reversal does not prejudice or affect the validity of any contract, sale, disposition, or payment made or anything done by the debtor before the cancellation was reversed.
 
 ## Part 6 — Insolvent deceased estates
 
@@ -3193,7 +3250,7 @@ No action may be taken against the Assignee for malicious prosecution in relatio
   (o) prescribing the steps that must be taken by the bankrupt under section 141 in relation to the bankrupt's property and the distribution of the proceeds to the creditors:
   (p) regulating the payment by the Assignee of money into the Assignee's bank account under section 220(1):
   (q) prescribing the time for giving a notice of opposition under section 297:
-  (r) prescribing how instalments under a summary instalment order must be paid:
+  (r) prescribing how instalments under a debt repayment order must be paid:
   (s) providing for the conduct of creditors' meetings under subparts 1 and 2 of Part 5:
   (t) prescribing the criteria for the means test under section 363(1)﻿(e):
   (u) prescribing reasons for refusal by the Assignee under section 447(2) of access to a public register:
@@ -3273,7 +3330,7 @@ This subpart applies to a public register maintained under section 62 or 354 or 
   (a) the purpose of providing information about bankrupts and discharged bankrupts; and
   (b) the further purposes set out in subsection (4).
 (2) A public register maintained under section 354 has—
-  (a) the purpose of providing information about persons subject to a current summary instalment order; and
+  (a) the purpose of providing information about persons subject to a current debt repayment order; and
   (b) the further purposes set out in subsection (4).
 (3) A public register maintained under section 368 has—
   (a) the purpose of providing information about persons currently admitted to the no asset procedure and persons discharged from that procedure under section 377; and
@@ -3281,17 +3338,19 @@ This subpart applies to a public register maintained under section 62 or 354 or 
 (4) The further purposes of the public registers are to—
   (a) facilitate the compliance, audit, and other supporting and administrative functions of the Assignee, Ministry, the courts, or any other person under this Act or any other enactment; and
   (b) facilitate the enforcement functions and the exercise of the powers of the Assignee, Ministry, the courts, or any other person under this Act or any other enactment; and
-  (c) provide statistical information and information for research purposes in relation to bankruptcy, summary instalment orders, and the no asset procedure.
+  (c) provide statistical information and information for research purposes in relation to bankruptcy, debt repayment orders, and the no asset procedure.
 
 ### 449 General information that must be held in public registers
-(1) The public registers must contain the following information in respect of a person (P) who is or has been bankrupt, or who is subject to a current summary instalment order, or who is currently admitted to the no asset procedure, or who has been discharged from that procedure under section 377:
+(1) The public registers must contain the following information in respect of a person (P) who is or has been bankrupt, or who is subject to a current debt repayment order, or who is currently admitted to the no asset procedure, or who has been discharged from that procedure under section 377:
   (a) P's full name:
-  (b) whether P is currently bankrupt, or has been discharged from bankruptcy, or is subject to a current summary instalment order, or is currently admitted to the no asset procedure, or has been discharged from the no asset procedure under section 377, as the case may be:
-  (c) the bankruptcy, summary instalment order, or no asset procedure number, as the case may be:
-  (d) P's address as contained in P's statement of affairs, or application for adjudication, or application for a summary instalment order, or application for admission to the no asset procedure or, if P has notified the Assignee of a change of address, that address, or in the case of adjudication on a creditor's application, P's address contained in that application:
+  (ab) any other name (including any alias or trading name) used by P and known to the Assignee:
+  (b) whether P is currently bankrupt, or has been discharged from bankruptcy, or is subject to a current debt repayment order, or is currently admitted to the no asset procedure, or has been discharged from the no asset procedure under section 377, as the case may be:
+  (c) the bankruptcy, debt repayment order, or no asset procedure number, as the case may be:
+  (d) P's address as contained in P's statement of affairs, or application for adjudication, or application for a debt repayment order, or application for admission to the no asset procedure or, if P has notified the Assignee of a change of address, that address, or in the case of adjudication on a creditor's application, P's address contained in that application:
   (e) P's occupation and current employment status, if known:
   (f) in the case of an adjudication by the court, which court, and the time and date of the adjudication:
   (g) in the case of an automatic adjudication, a statement that P was automatically adjudicated bankrupt under section 47, and the time and date of the adjudication:
+  (ga) if a debt repayment order is made in respect of P, the date of the debt repayment order:
   (h) if P is admitted to the no asset procedure, the date of admission:
   (ha) if P is discharged from the no asset procedure under section 377, the date when P was so discharged:
   (i) if P is a discharged bankrupt, the date, type, and conditions (if any) of discharge:
@@ -3299,7 +3358,7 @@ This subpart applies to a public register maintained under section 62 or 354 or 
   (k) if the court has refused to discharge P from bankruptcy, that information:
   (l) if the court has suspended P's discharge from bankruptcy, that information:
   (m) the place of the office of the Assignee dealing with P's bankruptcy or admission to the no asset procedure and that office's contact number for enquiries:
-  (n) in the case of a person subject to a current summary instalment order, the full name and business postal address of the supervisor:
+  (n) in the case of a person subject to a current debt repayment order, the full name and electronic address of the supervisor:
   (o) any other prescribed information or documents.
 (2) Subject to sections 447(2) and 451(1), the information listed in subsection (1) must be available to any member of the public.
 (3) A public register must not contain any information in relation to a person whose bankruptcy was annulled under section 309(1)﻿(a) or 310(2)﻿(a), and the bankruptcy that was so annulled does not count for the purposes of section 449A.
@@ -3333,16 +3392,16 @@ A person may only search the public registers in accordance with this Act or reg
 
 ### 453 Search criteria
 (1) The public registers may be searched only by reference to the following criteria:
-  (a) the bankruptcy number, summary instalment order, or no asset procedure number:
+  (a) the bankruptcy number, debt repayment order, or no asset procedure number:
   (b) the name, or any part of the name of a person:
   (c) the name of a court:
   (d) insolvency status:
-  (e) the date of adjudication, summary instalment order, admission to the no asset procedure, or discharge, by reference to a range of dates:
+  (e) the date of adjudication, debt repayment order, admission to the no asset procedure, or discharge, by reference to a range of dates:
   (f) any combination of the criteria in paragraphs (a) to (e):
   (g) any other prescribed criteria.
 (2) In subsection (1)﻿(d), insolvency status means that a person (P)—
   (a) is currently bankrupt; or
-  (b) is subject to a current summary instalment order; or
+  (b) is subject to a current debt repayment order; or
   (c) is currently admitted to the no asset procedure; or
   (d) is a discharged bankrupt; or
   (da) is discharged from the no asset procedure under section 377; or
@@ -3354,8 +3413,8 @@ A person may only search the public registers in accordance with this Act or reg
 ### 454 Search purposes
 The public registers may be searched—
   (a) by any individual, or by any person with the consent of that individual, for the purpose of searching for information about that individual:
-  (b) by any person for the purpose of ascertaining whether another person is bankrupt, is a discharged bankrupt, is subject to a current summary instalment order, is currently admitted to the no asset procedure, or is discharged from that procedure under section 377:
-  (c) by any person for any purpose related to the bankruptcy of a person, the making of a current summary instalment order in respect of a person, or the admission of a person to the no asset procedure:
+  (b) by any person for the purpose of ascertaining whether another person is bankrupt, is a discharged bankrupt, is subject to a current debt repayment order, is currently admitted to the no asset procedure, or is discharged from that procedure under section 377:
+  (c) by any person for any purpose related to the bankruptcy of a person, the making of a current debt repayment order in respect of a person, or the admission of a person to the no asset procedure:
   (d) by any person for any of the purposes set out in section 448(4)﻿(a) or (b):
   (e) by any person for the purpose of ascertaining whether section 449A applies to another person.
 
@@ -3402,6 +3461,92 @@ The amendments made by section 118 of the Regulatory Systems (Commercial Matters
 
 ### 7 Assignee’s general powers
 The amendment made by section 121 of the Regulatory Systems (Commercial Matters) Amendment Act 2017 applies only to bankruptcies that commence after the commencement of that section.
+
+### Part 2 — Provisions relating to Regulatory Systems (Economic Development) Amendment Act 2019
+
+### 8 Interpretation
+(1) In this Part,—
+  - **Amendment Act** means the Regulatory Systems (Economic Development) Amendment Act 2019
+  - **commencement date** means the date on which Part 8 of the Amendment Act comes into force
+  - **summary instalment order** means a summary instalment order (as defined in former section 340) that was made under former section 343.
+(2) In this Part,—
+  (a) a reference to a section (for example, section 158) is a reference to that section as in force on and from the commencement date; and
+  (b) a reference to a former section (for example, former section 158) is a reference to that section as in force immediately before the commencement date.
+
+### 9 Application of section 67(2) to statement of affairs filed before commencement date
+Section 67(2) does not apply in relation to a statement of affairs filed with the Assignee before the commencement date.
+
+### 10 Application of section 149
+Section 149 applies to undischarged bankrupts—
+  (a) whether they were adjudicated bankrupt before, on, or after the commencement date; and
+  (b) whether the relevant work began before, on, or after the commencement date.
+
+### 11 Former sections 158 and 159 apply if person adjudicated bankrupt before commencement date
+If a person is adjudicated bankrupt before the commencement date,—
+  (a) section 158 does not apply to the person; and
+  (b) former sections 158(1) to (4), 159, 160, 161, and 162 continue to apply to the person.
+
+### 12 First Order in Council under section 158(4) after commencement date
+The first Order in Council made under section 158(4) after the commencement date may take into account any rise in the all groups index number of the New Zealand Consumers Price Index that occurred on or after 1 July 2019.
+
+### 13 Former section 164 applies if person adjudicated bankrupt before commencement date
+If a person is adjudicated bankrupt before the commencement date,—
+  (a) section 164 does not apply to the person; and
+  (b) former section 164 continues to apply to the person.
+
+### 14 Application of section 165(1)﻿(b)
+Section 165(1)﻿(b) applies whether the bankrupt to whom the requirement relates was adjudicated bankrupt before, on, or after the commencement date.
+
+### 15 Former section 178 applies to public examination started before commencement date
+Section 178 does not apply, and former section 178 continues to apply, to a public examination of a bankrupt that started before the commencement date.
+
+### 16 Application of section 193 if gift or contribution made before commencement date
+(1) For the purposes of section 205,—
+  (a) section 193 does not apply in relation to a gift made by a bankrupt before the commencement date; and
+  (b) former section 193 continues to apply in relation to the gift.
+(2) For the purposes of section 213,—
+  (a) section 193 does not apply in relation to a contribution made by a bankrupt before the commencement date; and
+  (b) former section 193 continues to apply in relation to the contribution.
+
+### 17 Application of section 290A to bankrupt who died before commencement date
+(1) Section 290A applies to a bankrupt who dies after the date that is 3 years before the commencement date.
+(2) A bankrupt is automatically discharged from bankruptcy on the commencement date if the bankrupt died—
+  (a) on or after 3 December 2007 but before or on the date that is 3 years before the commencement date; and
+  (b) before filing a statement of affairs.
+
+**Summary instalment orders**
+
+### 18 Debt repayment order includes summary instalment order
+On and from the commencement date, a reference in this Act, any other enactment, or any instrument or document to a debt repayment order includes a summary instalment order unless—
+  (a) this Part provides otherwise; or
+  (b) the context otherwise requires.
+
+### 19 Outstanding applications for summary instalment orders
+(1) An application made under former section 342 for a summary instalment order must, on and from the commencement date, be treated as an application for a debt repayment order.
+(2) Subclause (1) applies unless the Assignee has, before the commencement date, made a summary instalment order (or, as the case may be, declined to make the order) in response to the application.
+
+### 20 Former section 350A continues to apply to summary instalment orders
+Section 350A does not apply, and former section 350A continues to apply, to summary instalment orders.
+
+### 21 Former section 352 continues to apply to summary instalment orders
+Section 352 does not apply, and former section 352 continues to apply, to a debtor in respect of whom a summary instalment order was made before the commencement date.
+
+### 22 Section 358B(2) and (3) applies if debtor discharged on or after commencement
+Section 358B(2) and (3) applies in relation to the discharge of a debtor from a debt repayment order only if the discharge occurs on or after the commencement date.
+
+**No asset procedure**
+
+### 23 Former section 363 continues to apply if application made before commencement date
+Section 363 does not apply, and former section 363 continues to apply, in relation to a debtor who applied for entry to the no asset procedure before the commencement date.
+
+### 24 Court may not reverse cancellation of debts if discharge occurred before commencement date
+(1) The court may not exercise its powers under sections 377C to 377E in relation to the debts of a person who was discharged from the no asset procedure before the commencement date.
+(2) The court may not exercise its powers under section 374 on the ground in section 374(1)﻿(b) in relation to the assets of a person who was discharged from the no asset procedure before the commencement date.
+
+### 25 Application of section 449
+(1) Section 449(1)﻿(ab) applies in respect of a person (P) who is or has been bankrupt (whether P was adjudicated bankrupt before, on, or after the commencement date and whether the bankruptcy was first entered on the public register before, on, or after the commencement date).
+(2) Section 449(1)﻿(ga) applies in respect of a person who is subject to a current debt repayment order (whether the order was made before, on, or after the commencement date and whether the order was first entered on the public register before, on, or after the commencement date).
+(3) Section 449(1)﻿(n) applies in respect of a person who is subject to a current debt repayment order (whether the order was made before, on, or after the commencement date and whether the order was first entered on the public register before, on, or after the commencement date).
 
 ## Schedule 1 — Assignee's general powers
 
