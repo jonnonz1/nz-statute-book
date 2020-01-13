@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2020-01-13_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -3827,7 +3827,7 @@ Each member of the Authority must, before entering on the exercise of any of his
   (a) a salary at such rate or in accordance with such scale of rates as the Remuneration Authority from time to time determines; and
   (b) subject to subsection (2), such allowances as are from time to time determined by the Remuneration Authority.
 (2) There is to be paid to each member of the Authority, in respect of time spent travelling in the exercise of the Authority's functions, travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951; and the provisions of that Act apply accordingly as if the member were a member of a statutory board and the travelling were in the service of a statutory board.
-(3) In the case of the Chief of the Authority, the rate of salary and the allowances determined may be higher than those for the other members of the Authority.
+(3) In the case of the Chief of the Authority or of a member of the Authority to whom a delegation has been made under section 166B, the rate of salary and the allowances determined may be higher than those for the other members of the Authority.
 (4) Nothing in subsection (1) prevents in an appropriate case payment to a member of the Authority of a salary and allowances on a per diem basis.
 
 ### 172 Temporary appointments
@@ -4568,15 +4568,28 @@ A demand notice may be withdrawn at any time by a Labour Inspector, but the with
 (6) Despite subsection (1), the power of a Labour Inspector to enter any defence area within the meaning of the Defence Act 1990 is subject to any regulations made under section 93 of that Act.
 (7) A Labour Inspector may recover a penalty under this Act in the Authority for a breach of any provision that provides for the imposition of a penalty and is a provision of any of the Acts referred to in section 223(1).
 
+### 229A Investigating question of employment
+(1) For the purpose of performing the Labour Inspector’s functions and duties under any Act specified in section 223(1), a Labour Inspector may, subject to sections 229(5), (5A), and (6) and 230 to 233, also exercise any of the powers under section 229 to investigate whether—
+  (a) any place is a workplace; or
+  (b) any person performing work is an employee (as distinct, for example, from an independent contractor or a volunteer); or
+  (c) any person for whom work is being performed is an employer.
+(2) In relation to the exercise of those powers in such an investigation, section 229 is to be read with any appropriate modifications, including that—
+  (a) the power of entry under section 229(1)﻿(a) applies with respect to any premises where the Labour Inspector has reasonable grounds to believe work is being performed; and
+  (b) the power to interview under section 229(1)﻿(b) applies with respect to any person present in such premises; and
+  (c) employee, except in the reference in section 229(1)﻿(a) to any other employee of the department, includes any person who performs work; and
+  (d) employer includes any person for whom work is performed; and
+  (e) the powers under section 229(1)﻿(c) and (d) apply with respect to any record or document that the Labour Inspector reasonably believes may assist in determining a matter referred to in subsection (1)﻿(a) to (c).
+(3) Every person for whom work is performed and who, without reasonable cause, fails to comply with any requirement made of that person under section 229(1)﻿(c) or (d) as modified by subsection (2)﻿(e) is liable, in an action brought by a Labour Inspector, to a penalty under this Act imposed by the Authority.
+
 ### 230 Entry of dwellinghouses
-No Labour Inspector may, under section 229, enter in or be on any dwellinghouse unless he or she either—
+No Labour Inspector may, under section 229 or 229A, enter in or be on any dwellinghouse unless he or she either—
   (a) has the consent of an occupier of that dwellinghouse; or
   (b) is authorised to do so by a warrant issued under section 231.
 
 ### 231 Entry warrant
 A Judge who, on application made on oath, is satisfied that there is reasonable ground for believing that a dwellinghouse—may issue a warrant authorising a Labour Inspector named in it to enter that dwellinghouse or any part of that dwellinghouse that is, or is the only practicable means through which the Inspector may enter, a place where any person is employed.
-  (a) is a place in which any person is employed; or
-  (b) is the only practicable means through which a place in which any person is employed may be entered,—
+  (a) is a place in which any person is employed or is the only practicable means through which such a place may be entered; or
+  (b) in any case to which section 229A applies, is a place in which any person performs work or is the only practicable means through which such a place may be entered,—
 
 ### 232 Compilation of wages and time record
 (1) Where an employer fails to produce, in response to a requirement under section 229(1)﻿(c)﻿(i), a wages and time record or, in response to a requirement under section 229(1)﻿(d), a copy of a wages and time record, a Labour Inspector may, by written notice given to that employer, require that employer—
@@ -4590,9 +4603,9 @@ A Judge who, on application made on oath, is satisfied that there is reasonable 
 (5) In this section, a wages and time record, if applicable, includes a holiday and leave record kept under section 81 of the Holidays Act 2003.
 
 ### 233 Obligations of Labour Inspectors
-(1) In entering any premises under the authority of section 229(1)﻿(a) or under the authority of a warrant issued under section 231, a Labour Inspector is bound by any existing reasonable safety and health procedures and requirements applying at the premises and, to the extent that such procedures or requirements reasonably limit or prohibit the entry of persons other than employees to particular parts of the premises, may not enter such parts.
-(2) Every Labour Inspector who enters any premises under the authority of section 229(1)﻿(a) or under the authority of a warrant issued under section 231 must, on first entering those premises, and, if requested, at any subsequent time, produce to the employer or a representative of the employer that person's warrant under section 223(2) or the warrant issued under section 231, as the case may require.
-(3) Where a Labour Inspector enters any premises under the authority of section 229(1)﻿(a) or under the authority of a warrant issued under section 231 and is unable, despite reasonable efforts, to find at those premises the employer or any representative of the employer, that Labour Inspector must, after the entry and inspection and before leaving those premises, leave at those premises a written notice addressed to the employer.
+(1) In entering any premises under the authority of section 229(1)﻿(a) or 229A or under the authority of a warrant issued under section 231, a Labour Inspector is bound by any existing reasonable safety and health procedures and requirements applying at the premises and, to the extent that such procedures or requirements reasonably limit or prohibit the entry of persons other than employees to particular parts of the premises, may not enter such parts.
+(2) Every Labour Inspector who enters any premises under the authority of section 229(1)﻿(a) or 229A or under the authority of a warrant issued under section 231 must, on first entering those premises, and, if requested, at any subsequent time, produce to the employer or a representative of the employer that person's warrant under section 223(2) or the warrant issued under section 231, as the case may require.
+(3) Where a Labour Inspector enters any premises under the authority of section 229(1)﻿(a) or 229A or under the authority of a warrant issued under section 231 and is unable, despite reasonable efforts, to find at those premises the employer or any representative of the employer, that Labour Inspector must, after the entry and inspection and before leaving those premises, leave at those premises a written notice addressed to the employer.
 (4) That written notice must state—
   (a) the identity of the person who entered the premises; and
   (b) the fact that the person is a Labour Inspector; and
@@ -4601,7 +4614,7 @@ A Judge who, on application made on oath, is satisfied that there is reasonable 
 (5)
 
 ### 233A Obligation of Labour Inspector and department not to disclose information
-(1) Neither a Labour Inspector who inspects, or is supplied with a copy of, a document under section 229 nor the department may disclose to any person any information obtained as a result of the inspection of the document or the supply of the copy, unless the disclosure is for the purposes of an Act specified in section 223(1).
+(1) Neither a Labour Inspector who inspects, or is supplied with a copy of, a document under section 229 or 229A nor the department may disclose to any person any information obtained as a result of the inspection of the document or the supply of the copy, unless the disclosure is for the purposes of an Act specified in section 223(1).
 (2) This section applies subject to section 233B.
 
 ### 233B Information sharing
