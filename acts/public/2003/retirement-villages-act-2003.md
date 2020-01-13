@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2020-01-13_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
@@ -21,6 +21,9 @@ The purpose of this Act is—
     (iv) to introduce requirements and procedures necessary to give effect to the regulatory and monitoring regime referred to in subparagraph (ii):
     (v) to provide an environment of security and protection of rights for residents of retirement villages:
     (vi) to confer on the Registrar of Retirement Villages and the Retirement Commissioner powers, functions, and duties relating to this Act.
+
+### 3A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 4 Act to bind the Crown
 This Act binds the Crown.
@@ -857,7 +860,7 @@ In accordance with sections 76 to 83, the Disputes Tribunal established under se
 (2) Every person commits an offence who, without reasonable excuse, contravenes any of sections 17, 19(3), 26(1), 27(1), 28(1), 29, 30(1), 34(2), 59(2), 92(2), or 98(5) and is liable on conviction,—
   (a) in the case of a person other than a body corporate, to a fine not exceeding $15,000; or
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
-(3) Every person commits an offence who, without reasonable excuse, contravenes any of sections 13, 16, 26, 70(2), 92(2), 95(2), 96(4), or 98(2) and (3) and is liable on conviction,—
+(3) Every person commits an offence who, without reasonable excuse, contravenes any of sections 13, 16, 70(2), 95(2), 96(4), or 98(2) and (3) and is liable on conviction,—
   (a) in the case of a person other than a body corporate, to a fine not exceeding $5,000; or
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 (4) Every auditor of a retirement village commits an offence who fails to comply with any reasonable request made under section 47 by the statutory supervisor, the Registrar, or the Retirement Commissioner and is liable on conviction to a fine not exceeding $10,000.
@@ -1179,6 +1182,13 @@ Amendment(s) incorporated in the Act(s).
 
 ### 110 Amendment to Securities Act 1978
 Amendment(s) incorporated in the Act(s).
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Regulatory Systems (Housing) Amendment Act 2019
+
+### 1 Application of amendments to section 79 (Contraventions of certain provisions an offence)
+The amendments made by section 7 of the Regulatory Systems (Housing) Amendment Act 2019 do not apply to offences committed before the date on which that section commenced.
 
 ## Schedule 1 — Registration and register
 
