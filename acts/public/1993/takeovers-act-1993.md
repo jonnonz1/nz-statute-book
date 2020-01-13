@@ -1,5 +1,5 @@
 # Takeovers Act 1993
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2020-01-13_
 
 > Title
 
@@ -10,7 +10,10 @@ _Consolidation as at 2017-09-28_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **code company** has the meaning given to it in section 2A
+  - **accounting period** has the same meaning as in section 5(1) of the Financial Reporting Act 2013
+  - **code company** —
+    (a) has the meaning given to it in section 2A; and
+    (b) includes, for the purpose set out in section 2AB, a company for the time being treated as a code company under that section
   - **company** has the same meaning as in section 2(1) of the Companies Act 1993
   - **court** means, in relation to any matter, the court before which the matter is to be determined
   - **director** ,—
@@ -41,6 +44,7 @@ _Consolidation as at 2017-09-28_
     (b) for the purposes of determining any matter or class of matter specified in a determination under section 7A, means the division of the Panel specified in the determination in accordance with section 7C(1)﻿(a)
   - **quoted** , in relation to financial products of a person, means financial products of the person that are approved for trading on a licensed market (and, to avoid doubt, financial products do not cease to be quoted merely because trading in those financial products is suspended)
   - **Registrar** means a person who for the time being holds the office of Registrar of Companies or Deputy Registrar of Companies in accordance with the Companies Act 1993
+  - **subsidiary** has the same meaning as in sections 5 to 8 of the Companies Act 1993
   - **takeovers code** means the regulations made under section 19
   - **voting right** means a currently exercisable right to cast a vote at meetings of shareholders of a company, not being a right to vote that is exercisable only in 1 or more of the following circumstances:
     (a) during a period in which a payment or distribution (or part of a payment or distribution) in respect of the financial product that confers the voting right is in arrears or some other default exists:
@@ -58,12 +62,29 @@ _Consolidation as at 2017-09-28_
   (f) conspiring with any other person to contravene the takeovers code or a term or condition of an exemption from the takeovers code.
 
 ### 2A Meaning of code company
-(1) Code company means a company that—
-  (a) is a listed issuer that has financial products that confer voting rights quoted on a licensed market; or
-  (b) was within paragraph (a) at any time during a period specified in the takeovers code (being a period not exceeding 12 months before any date or the occurrence of any event referred to in the code); or
-  (c) has 50 or more shareholders and 50 or more share parcels.
-(2) However, if, as a result of a transaction or an event regulated under the code, a company that previously satisfied subsection (1)﻿(c) ceases to have 50 or more shareholders and 50 or more share parcels, that company continues to be a code company for the purposes of Part 7 of the code.
+(1) Code company means a company—
+  (a) that is a listed issuer that has financial products that confer voting rights quoted on a licensed market; or
+  (b) that was within paragraph (a) at any time during a period specified in the takeovers code (being a period not exceeding 12 months before any date or the occurrence of any event referred to in the code); or
+  (c) that—
+    (i) has 50 or more shareholders and 50 or more share parcels; and
+    (ii) is at least medium-sized.
+(2)
 (3) In this section, shareholder means a shareholder holding a financial product that confers a voting right.
+(4) In this section, a company is at least medium-sized if—
+  (a) the company has completed 1 or more accounting periods and either or both of the following are true:
+    (i) on the last day of the company’s most recently completed accounting period, the total assets of the company and its subsidiaries (if any) are at least $30 million:
+    (ii) in the most recently completed accounting period, the total revenue of the company and its subsidiaries (if any) is at least $15 million; or
+  (b) the company has not completed its first accounting period and on the last day of the most recently completed month the total assets of the company and its subsidiaries (if any) are at least $30 million.
+
+### 2AB Extended meaning of code company for purpose of completing code-regulated transactions
+(1) This section applies if a company ceases to be a code company within the meaning of section 2A(1) as the result of, or during, a transaction or an event regulated under the takeovers code.
+(2) The company continues to be treated as a code company for the purpose of completing the transaction or event, until the transaction or event is complete and all requirements of the code in relation to the transaction or event have been complied with.
+(3) For the purposes of subsection (2), if, as a result of the transaction or event, a person becomes a dominant owner in the company, completing the transaction or event includes applying the compulsory acquisition rules in Part 7 of the code (and the transaction or event is not complete until those rules are applied).
+(4) Subsection (2) does not prevent the company from again becoming a code company under section 2A(1).
+(5) In this section,—
+  (a) dominant owner, in relation to a company, means a person who becomes the holder or controller, or 2 or more persons acting jointly or in concert who become the holders or controllers, of 90% or more of the voting rights in the company (whether by reason of acceptances of an offer or otherwise):
+  (b) words or expressions used in the definition of dominant owner have the same meanings as they have in the takeovers code:
+  (c) a reference to rules in Part 7 of the code includes any other rules that, with or without modification, replace or correspond to those rules.
 
 ### 2B Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
@@ -1015,7 +1036,20 @@ If the amount to be reimbursed is agreed, the amount is recoverable as a debt du
 (1) Sections 47 to 53 apply in relation to an offer or a takeover notice only if the takeover notice is received by the target company on or after the date on which this clause comes into force (and rule 49 of the takeovers code continues to apply in any other case accordingly).
 (2) In this clause, offer, takeover notice, and target company have the same meanings as in the takeovers code.
 
-## Schedule Schedule 1 — Provisions applying to Takeovers Panel
+### Part 2 — Provision relating to Regulatory Systems (Economic Development) Amendment Act 2019
+
+### 2 Existing transactions unaffected
+(1) This Act, the takeovers code, and any relevant exemptions from the takeovers code, as in force immediately before commencement, continue to apply to every transaction and event regulated under the code (or that would be regulated under the code but for an exemption) that has started but is not completed before commencement (an existing transaction), until the existing transaction is complete and all requirements of the code and any exemptions (as relevant) have been complied with.
+(2) In particular, a company that, because it is not at least medium-sized, ceases to be a code company on commencement continues to be a treated as a code company for the purpose of completing existing transactions (if any).
+(3) For the purposes of this clause, if, as a result of an existing transaction, a person becomes a dominant owner in the company, completing existing transactions includes applying the compulsory acquisition rules in Part 7 of the code (and the existing transaction is not complete until those rules are applied).
+(4) Subclause (2)—
+  (a) does not limit subclause (1); and
+  (b) does not prevent the company from again becoming a code company.
+(5) In this clause,—
+  - **commencement** means commencement of Part 12 of the Regulatory Systems (Economic Development) Amendment Act 2019
+  - **dominant owner** , in relation to a company, means a person who becomes the holder or controller, or 2 or more persons acting jointly or in concert who become the holders or controllers, of 90% or more of the voting rights in the company (whether by reason of acceptances of an offer or otherwise); and words or expressions used in the definition of dominant owner have the same meanings as they have in the takeovers code.
+
+## Schedule 1 — Provisions applying to Takeovers Panel
 
 ### 1 Term of office
 [Repealed]
