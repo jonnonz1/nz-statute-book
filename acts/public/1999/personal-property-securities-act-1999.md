@@ -1,5 +1,5 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2019-08-31_
+_Consolidation as at 2020-01-13_
 
 > An Act to reform the law relating to security interests in personal property and, in particular,—ato provide for the creation and enforceability of security interests in personal property; andbto provide for the determination of priority between security interests in the same personal property; andcto provide for the determination of priority between security interests and other types of interests in the same personal property; anddto provide for the enforcement of security interests in personal property other than consumer goods; andeto provide for the establishment of a register of security interests in personal property
 
@@ -1187,7 +1187,7 @@ The Registrar may refuse access to the register or otherwise suspend the operati
 **Personal property securities register**
 
 ### 139 Personal property securities register
-(1) The Registrar must ensure that a register of personal property security interests known as the personal property securities register is kept in New Zealand.
+(1) The Registrar must keep a register of personal property security interests known as the personal property securities register.
 (2) The register is to be—
   (a) an electronic register; and
   (b) maintained for the purposes of registrations under this Act; and
@@ -1200,7 +1200,10 @@ The register contains the following data:
   (a) if the debtor is an individual, the debtor's name, address, and date of birth or, if the debtor is an organisation,—
     (i) the name and address of the organisation; and
     (ii) the name or job title, and contact details, of the person acting on its behalf:
-  (b) if the debtor is an organisation that is incorporated, the unique number assigned to it on its incorporation:
+  (b) if the debtor is an organisation that is incorporated,—
+    (i) if it is incorporated in New Zealand, the unique number assigned to it on its incorporation; or
+    (ii) if it is registered under Part 18 of the Companies Act 1993 or Part 3 of the Limited Partnerships Act 2008, the unique number assigned to it on its registration under that Act; or
+    (iii) in any other case, the unique number (if any) assigned to it on its incorporation in its place of incorporation:
   (c) if the secured party is an individual, the secured party's name and address or, if the secured party is an organisation,—
     (i) the name and address of the organisation; and
     (ii) the name or job title, and contact details, of the person acting on its behalf:
@@ -1219,7 +1222,7 @@ A person may register a financing statement in accordance with this Act and the 
     (i) the name and address of the organisation; and
     (ii) the name or job title, and contact details, of the person acting on its behalf:
   (b)
-  (c) if the debtor is an organisation that is incorporated, the unique number assigned to it on its incorporation:
+  (c) if the debtor is an organisation that is incorporated, its unique incorporation or registration number referred to in section 140(b):
   (d) if the secured party is an individual, the secured party's name and address or, if the secured party is an organisation,—
     (i) the name and address of the organisation; and
     (ii) the name or job title, and contact details, of the person acting on its behalf:
@@ -1405,9 +1408,9 @@ A person may search the register, and obtain a printed search result, in accorda
 ### 172 Search criteria
 The register may be searched only by reference to the following criteria:
   (a) the name of the debtor:
-  (b) the name and address of the debtor or, if the debtor is an organisation, the name and address of the organisation and the name or job title, and contact details, of the person acting on its behalf:
-  (c) the name and date of birth of the debtor:
-  (d) if the debtor is a company, the unique number assigned to the company by the Registrar of Companies on the registration of the company under the Companies Act 1993:
+  (b) the name and address of the debtor:
+  (c) if the debtor is an individual, the name and date of birth of the debtor:
+  (d) if the debtor is an organisation that is incorporated, its unique incorporation or registration number referred to in section 140(b):
   (e) if collateral is required by this Act or by the regulations to be described by serial number in a financing statement, the serial number of the collateral:
   (f) the registration number assigned to the registration under section 144:
   (g) any other criteria specified in the regulations.
