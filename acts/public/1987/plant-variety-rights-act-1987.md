@@ -1,5 +1,5 @@
 # Plant Variety Rights Act 1987
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2020-01-13_
 
 > An Act to consolidate and amend the law relating to the granting of proprietary rights in respect of plant varieties
 
@@ -49,7 +49,7 @@ This Act shall bind the Crown.
     (ii) a technical questionnaire, supplied by the Commissioner and completed by the applicant, in respect of the botanical taxon to which the subject of the application belongs; and
     (iii) where required by regulations made under section 38, colour photographs of material of the variety to which the application relates; and
   (b) be completed and signed by or on behalf of the applicant; and
-  (c) nominate an address for service in relation to that application (being an address within New Zealand); and
+  (c) nominate an address for service in relation to that application (being an address within New Zealand or Australia); and
   (d) be accompanied by the prescribed application fee.
 (2) Within the prescribed period after making an application, the applicant shall give to the Commissioner—
   (a) if required by the Commissioner, and in such detail as the Commissioner requires, a description—
@@ -327,8 +327,8 @@ Where any person has appealed against any decision of the Commissioner, the oper
 ### 35 Service of notices, etc
 (1) Where any notice has to be given or any document has to be served under this Act, it may be given or served by—
   (a) delivering it to the person to whom it has to be given or on whom it has to be served; or
-  (b) leaving it at the usual or last known place of abode or address for service in New Zealand of that person; or
-  (c) sending it by post in a registered letter addressed to that person at that person's usual or last known place of abode or address for service in New Zealand.
+  (b) leaving it at the usual or last known place of abode or address for service in New Zealand or Australia of that person; or
+  (c) sending it by post in a registered letter addressed to that person at that person's usual or last known place of abode or address for service in New Zealand or Australia.
 (2) Where a notice or document is sent by post in the manner described in subsection (1)﻿(c), it shall be deemed to have been given or served at the time at which the letter would have been delivered in the ordinary course of post.
 
 ### 36 Fees and refunds
