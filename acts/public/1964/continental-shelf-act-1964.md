@@ -1,5 +1,5 @@
 # Continental Shelf Act 1964
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2020-01-13_
 
 > An Act to make provision as to the exploration and exploitation of the continental shelf of New Zealand and for matters connected with that purpose
 
@@ -33,11 +33,11 @@ All rights that are exercisable by New Zealand with respect to the continental s
 
 ### 5 Mining for minerals on continental shelf
 (1) No person shall prospect or mine for, or carry on any operations for the recovery of, minerals in the seabed or subsoil of the continental shelf except in pursuance of a licence issued under this section.
-(2) The Minister of Energy may from time to time, on application in that behalf, grant to any person a licence authorising the licensee to prospect and mine for, and carry on operations for the recovery of, minerals or of minerals of any specified kinds in any specified area of the continental shelf.
+(2) The Minister of Energy and Resources may from time to time, on application in that behalf, grant to any person a licence authorising the licensee to prospect and mine for, and carry on operations for the recovery of, minerals or of minerals of any specified kinds in any specified area of the continental shelf.
 (3) Subject to section 5A, every licence granted under this section shall be subject to such conditions as the Minister, when granting the licence, thinks fit to impose in the circumstances of each particular case, including, but without limiting the generality of the foregoing provisions of this section, conditions requiring the licensee—
   (a) to comply with such conditions as to safety as are specified in the licence, and for this purpose the Minister may require the licensee to comply with all or any of the provisions as to safety of the Mining Act 1926 or the Coal Mines Act 1925 or of any regulations under either of those Acts, with such modifications as the Minister considers necessary:
   (b) to pay to the Crown in respect of minerals recovered by the licensee from the continental shelf such royalties as are specified in the licence.
-(4) The grant of a licence under this section shall in every case be in the absolute discretion of the Minister of Energy.
+(4) The grant of a licence under this section shall in every case be in the absolute discretion of the Minister of Energy and Resources.
 (5) Any number of licences under this section may be granted to the same person.
 (6) Subject to the provisions of subsection (3), nothing in the Mining Act 1926 or in the Coal Mines Act 1925 shall apply with respect to minerals in the seabed or subsoil of the continental shelf.
 (7) Every person commits an offence, and is liable on conviction to a fine not exceeding £100, who prospects or mines for, or carries on operations for the recovery of, minerals in the seabed or subsoil of the continental shelf otherwise than pursuant to a licence under this section and in accordance with the conditions of the licence (not being a condition relating to the payment of royalties to the Crown).
@@ -53,11 +53,11 @@ From the commencement of this section, the Crown Minerals Act 1991 (except secti
 ### 5A Payments and contributions with respect to exploitation of continental shelf beyond 200 nautical miles
 (1) This section applies to—
   (a) every licence granted under section 5 in respect of the exploitation of the non-living resources of the continental shelf beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured; and
-  (b) every permit granted under section 25 of the Crown Minerals Act 1991 in respect of the exploration or prospecting for or the mining of petroleum in the seabed and subsoil of the continental shelf beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured; and
-  (c) every permit granted under section 25 of the Crown Minerals Act 1991, in respect of the exploration or prospecting for, or the mining of, minerals other than petroleum in the seabed and subsoil of the continental shelf beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured.
-(2) The Minister of Energy shall impose in every licence to which this section applies the condition that the licensee pay to the Crown royalties at the rate specified in the licence.
-(3) The Minister of Transport shall impose in every permit to which this section applies the condition that the holder of the permit pay to the Crown royalties at the rate specified in the permit.
-(4) In specifying the rate of royalties for the purposes of subsection (2) or subsection (3), the relevant Minister shall have regard to New Zealand's rights and obligations under article 82 of the Convention.
+  (b) every permit granted under section 25 of the Crown Minerals Act 1991 in respect of the exploration for or the mining of petroleum in the seabed and subsoil of the continental shelf beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured; and
+  (c) every permit granted under section 25 of the Crown Minerals Act 1991, in respect of the exploration for or the mining of minerals other than petroleum in the seabed and subsoil of the continental shelf beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured.
+(2) The Minister of Energy and Resources shall impose in every licence to which this section applies the condition that the licensee pay to the Crown royalties at the rate specified in the licence.
+(3) The Minister of Energy and Resources shall impose in every permit to which this section applies the condition that the holder of the permit pay to the Crown royalties at the rate specified in the permit.
+(4) In specifying the rate of royalties for the purposes of subsection (2) or subsection (3), the Minister shall have regard to New Zealand's rights and obligations under article 82 of the Convention.
 (5) The Crown shall make all payments or contributions in kind required to be made to the Authority from time to time under the terms of article 82 of the Convention.
 
 ### 6 Oysters, other shellfish, and sponges on continental shelf
@@ -103,5 +103,5 @@ From the commencement of this section, the Crown Minerals Act 1991 (except secti
 (1) This Act, except sections 4 and 6, shall be in force in the Cook Islands.
 (2) In the application of this Act to the Cook Islands—
   (a) every reference to New Zealand shall be read as a reference to the Cook Islands:
-  (b) every reference in section 5 to the Minister of Energy shall be read as a reference to the Council of State of the Cook Islands or the Cabinet of Ministers of Niue, as the case may require:
+  (b) every reference in section 5 to the Minister of Energy and Resources shall be read as a reference to the Council of State of the Cook Islands or the Cabinet of Ministers of Niue, as the case may require:
   (c) the powers conferred on the Governor-General in Council may be exercised by the Legislative Assembly of the Cook Islands or the Niue Assembly, as the case may require, by Ordinance.
