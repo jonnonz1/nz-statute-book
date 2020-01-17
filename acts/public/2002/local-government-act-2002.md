@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2019-10-22_
+_Consolidation as at 2020-01-17_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -4774,8 +4774,8 @@ The relevant amendments do not apply to a local government reorganisation for wh
 | Napier City Council | Local Government (Hawke's Bay Region) Reorganisation Order 1989, Gazette 1989, p 2334 |
 | Nelson City Council | Local Government (Nelson–Marlborough Region) Reorganisation Order 1989, Gazette 1989, p 2375 |
 | New Plymouth District Council | Local Government (Taranaki Region) Reorganisation Order 1989, Gazette 1989, p 2445 |
-| Opotiki District Council | Local Government (Bay of Plenty Region) Reorganisation Order 1989, Gazette 1989, p 2275 |
-| Otorohanga District Council | Local Government (Waikato Region) Reorganisation Order 1989, Gazette 1989, p 2460 |
+| Ōpōtiki District Council | Local Government (Bay of Plenty Region) Reorganisation Order 1989, Gazette 1989, p 2275 |
+| Ōtorohanga District Council | Local Government (Waikato Region) Reorganisation Order 1989, Gazette 1989, p 2460 |
 | Palmerston North City Council | Local Government (Manawatu-Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
 | Porirua City Council | Local Government (Wellington Region) Reorganisation Order 1989, Gazette 1989, p 2491 |
 | Queenstown-Lakes District Council | Local Government (Otago Region) Reorganisation Order 1989, Gazette 1989, p 2408 |
