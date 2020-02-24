@@ -311,7 +311,7 @@ Replace Part 15A with:New Zealand Institute of Skills and TechnologyNZIST establ
     (b) the need for institutions to be accountable and to properly use resources allocated to them.
   (5) In performing their functions, NZIST’s council and its chief executive, Ministers, departments of State, authorities, and agencies of the Crown must act in all respects so as to give effect to the intention of Parliament as expressed in this section.
   (6) To avoid doubt,—
-    (a) nothing in subsection (3) limits or affects a workforce development council performing its functions under section 482(1)﻿(b) to (e), and (g); and
+    (a) nothing in subsection (3) limits or affects a workforce development council performing its functions under section 482(1)﻿(b) to (f); and
     (b) the performance of those functions by the workforce development council does not limit or affect the academic freedom of NZIST as set out in subsection (3)﻿(a), (b), or (e).
   (1) NZIST must establish regional divisions for the purposes of—
     (a) appointing members to a staff committee or a students’ committee established under section 222L:
@@ -945,7 +945,7 @@ In this Part, unless the context otherwise requires,—
   (a) the polytechnic is to be treated as a company registered under the Companies Act 1993 with the name specified in the second column of the table in subclause (3) opposite the name of the polytechnic specified in the first column of that table; and
   (b) the Registrar of Companies must, on the commencement date, issue a certificate of incorporation for the company; and
   (c) 100 shares must be treated as having been issued to NZIST.
-(2) The certificate of registration is conclusive evidence that the corresponding NZIST subsidiary was, on and after the commencement date, registered as a company under the Companies Act 1993.
+(2) The certificate of incorporation is conclusive evidence that the corresponding NZIST subsidiary was, on and after the commencement date, registered as a company under the Companies Act 1993.
 (3) For the purposes of subclause (1)﻿(a), the name of the corresponding NZIST subsidiary is:The following table is small in size and has 2 columns. Column 1 is headed Name of polytechnic. Column 2 is headed Name of corresponding NZIST subsidiary.Name of existing polytechnicName of corresponding NZIST subsidiaryAra Institute of Canterbury Ara Institute of Canterbury LimitedEastern Institute of TechnologyEastern Institute of Technology LimitedManukau Institute of Technology Manukau Institute of Technology Limited Nelson Marlborough Institute of Technology Nelson Marlborough Institute of Technology LimitedNorthland PolytechnicNorthland Polytechnic LimitedOtago Polytechnic Otago Polytechnic Limited Southern Institute of TechnologySouthern Institute of Technology LimitedTai Poutini Polytechnic Tai Poutini Polytechnic LimitedThe Open Polytechnic of New Zealand The Open Polytechnic of New Zealand LimitedToi Ohomai Institute of TechnologyToi Ohomai Institute of Technology LimitedUnitec New ZealandUnitec New Zealand Limited Universal College of LearningUniversal College of Learning LimitedWaikato Institute of Technology Waikato Institute of Technology LimitedWellington Institute of Technology Wellington Institute of Technology LimitedWestern Institute of Technology at TaranakiWestern Institute of Technology at Taranaki Limited Whitireia Community PolytechnicWhitireia Community Polytechnic Limited
 
 **Duration of corresponding NZIST subsidiaries**
@@ -1195,7 +1195,7 @@ A transitional ITO is to be treated as an approved standard-setting body for the
 (3) If a transitional ITO fails or refuses to comply with subclause (1), the Commission may develop the transition plan for the transitional ITO and the transitional ITO must implement and maintain that plan.
 
 ### 63 Commission must issue guidance on transition plans
-(1) The Commission must issue guidance to transitional ITOs on what must be contained in a transition plan required by clause 51(1).
+(1) The Commission must issue guidance to transitional ITOs on what must be contained in a transition plan required by clause 62(1).
 (2) The Commission must consult transitional ITOs when developing guidance under subclause (1).
 
 ### 64 Minister may direct funding to provider for work-based training
@@ -1205,7 +1205,7 @@ Despite section 159M(1), the Minister may direct that funding be provided to a p
 (1) The Minister may, by notice in the Gazette, cancel the recognition of a transitional ITO—
   (a) if it asks the Minister to cancel its recognition; or
   (b) if the circumstances described in subclause (2) apply; or
-  (c) if it has breached the requirement set out in section 11E of the 1992 Act (as applied by clause 47(2)﻿(g)); or
+  (c) if it has breached the requirement set out in section 11E of the 1992 Act (as applied by clause 58(2)﻿(g)); or
   (d) if the Minister is satisfied that—
     (i) the transitional ITO is no longer responsible for carrying out any of the activities referred to in clause 55(3); or
     (ii) the body corporate recognised as the transitional ITO no longer exists.
