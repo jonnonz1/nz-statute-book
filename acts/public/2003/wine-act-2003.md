@@ -1,5 +1,5 @@
 # Wine Act 2003
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2020-03-01_
 
 ### 1 Title
 This Act is the Wine Act 2003.
@@ -362,7 +362,7 @@ A person who is required to operate under a wine standards management plan must 
 (1) An application for registration of a wine standards management plan must be made in writing in a form or manner approved by the Director-General, and be accompanied by—
   (a) either—
     (i) a copy of the wine standards management plan (or such greater number of copies as may be required by the Director-General); or
-    (ii) an outline of the contents of the wine standards management plan that complies with the requirements of the Director-General for those outlines; and
+    (ii) if the regulations permit part only of the plan to be lodged, a copy of that part of the plan; and
   (b) a copy of a report of an independent evaluation, carried out not more than 6 months before the date of the application for registration, of the validity of the wine standards management plan, in terms of sections 8 and 14; and
   (c) the name of the verifying agency that has indicated it is prepared to undertake verification of the plan; and
   (d) such further information and other material (including declarations, where appropriate) as may be required by the regulations or any supplementary notice; and
