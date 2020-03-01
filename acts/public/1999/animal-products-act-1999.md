@@ -1,5 +1,5 @@
 # Animal Products Act 1999
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2020-03-01_
 
 > An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
 
@@ -452,7 +452,7 @@ The register of risk management programmes must contain the following particular
 (2) An application for registration must be made in writing in a form or manner approved by the Director-General, and be accompanied by—
   (a) either—
     (i) a copy of the risk management programme (or such number of copies as may be required by the Director-General); or
-    (ii) an outline of the contents of the risk management programme that complies with the requirements of the Director-General for such outlines; and
+    (ii) if the regulations permit part only of the programme to be lodged, a copy of that part of the programme; and
   (b) subject to subsection (3), a copy of a report of an independent evaluation, carried out not more than 6 months before the date of the application for registration, of the validity of the risk management programme in terms of sections 12 and 17; and
   (c) the name of the verifying agency that has indicated it is prepared to undertake verification of the programme; and
   (d) such further information and other material (including declarations, where appropriate) as may be required by the regulations or any supplementary notice; and
