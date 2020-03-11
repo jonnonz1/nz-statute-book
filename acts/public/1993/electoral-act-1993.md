@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2020-01-01_
+_Consolidation as at 2020-03-11_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -903,7 +903,10 @@ Subject to the provisions of this Act, the following persons, and no others, sha
     (i) who is qualified to be registered as an elector of the district; and
     (ii) who is registered as an elector of the district as a result of having applied, since the last preceding election and before polling day, for registration as an elector of the district or, where a change of boundaries has intervened, of some other district in which that person’s then place of residence within the first-mentioned district was then situated:
   (e) any person who is qualified to be registered as an elector of the district pursuant to section 74 and who resides on Campbell Island or Raoul Island or has resided on either of those Islands at any time in the 1 month before polling day:
-  (f) any member of the Defence Force who is outside New Zealand, if he or she is or will be of or over the age of 18 years on polling day, and his or her place of residence immediately before he or she last left New Zealand is within the district.
+  (f) any member of the Defence Force who is outside New Zealand, if he or she is or will be of or over the age of 18 years on polling day, and his or her place of residence immediately before he or she last left New Zealand is within the district:
+  (g) any person present in New Zealand who—
+    (i) is qualified to be registered as an elector of the district; and
+    (ii) applies, on polling day, for registration as an elector of the district.
 
 ### 61 Special voters
 (1) A person who is qualified to vote at any election in any district may vote as a special voter if—
@@ -1314,6 +1317,9 @@ Except as provided in sections 76 to 78,—
     (i) signed; or
     (ii) completed with the details specified in subsection (2)﻿(a), (b), (c), and (h); or
   (b) the application is made under subsection (1)﻿(b) and the information provided does not include the details specified in subsection (2)﻿(a), (b), (c), and (h).
+(3A) The Electoral Commission may treat a special vote declaration as an application for registration as an elector if the declaration—
+  (a) is in a form approved by the Electoral Commission for use as an application for registration as an elector; and
+  (b) is completed by the declarant with the details specified in subsection (2)﻿(a), (b), (c), and (h), and signed.
 (4) If a person does not specify in his or her application whether he or she is a Maori, this Act applies as if the person had specified in his or her application that he or she is not a Maori.
 (5) An application for registration as an elector that is rejected by the Electoral Commission is treated as not having been made.
 (6)
@@ -1369,17 +1375,25 @@ A person who has a physical or mental impairment may apply for registration as a
     (ii) submitted on that day to a person registered as a postal operator under the Postal Services Act 1998 for posting.
 
 ### 88 Applications received after issue of writ
-(1) If a writ has been issued requiring the conduct of an election in a district, then, subject to subsections (2) and (3), the Electoral Commission may not, at any time in the period beginning on polling day and ending with the day of the return of the writ, register any application for registration as an elector that the Electoral Commission receives on or after polling day.
-(2) For the purposes of subsection (1), an application for registration is to be treated as having been received before polling day if—
-  (a) the application or the envelope in which it is contained bears a postmark or date stamp impressed before polling day at a place that the Electoral Commission has designated; or
+(1) If a writ has been issued requiring the conduct of an election in a district, then the Electoral Commission may not, at any time in the period beginning on the day after polling day and ending on the day of the return of the writ, register an application for registration as an elector that the Electoral Commission receives—
+  (a) on polling day from a person outside New Zealand; or
+  (b) after polling day from any person.
+(1A) Subsection (1) is subject to subsections (2) to (4).
+(2) For the purposes of subsection (1), an application for registration is to be treated as having been received before or on polling day if—
+  (a) the application or the envelope in which it is contained bears a postmark or date stamp impressed before or on polling day at a place that the Electoral Commission has designated; or
   (b) the applicant for registration produces a receipt that—
     (i) relates to the application; and
-    (ii) was issued before polling day at a place that the Electoral Commission has designated; and
+    (ii) was issued before or on polling day at a place that the Electoral Commission has designated; and
     (iii) was lodged at a polling place or with an electoral officer issuing special votes.
 (3) If a person applies for registration after the issue of a writ requiring the conduct of an election in a district and before polling day,—
   (a) the Electoral Commission must, if satisfied that the person is qualified to be registered, enter the name of the person on the electoral roll; and
   (b) the Electoral Commission is not required to enter the name of the person on the main roll or any supplementary roll or composite roll used at that election; and
-  (c) the person may, at that election, vote only by way of a special vote.
+  (c) the person may, at that election,—
+    (i) be issued with a ballot paper in accordance with section 167, if the rolls can be marked (either manually or by electronic means) to indicate the person has applied to vote; or
+    (ii) be issued with a special vote ballot paper in any other case.
+(4) If a person who is present in New Zealand applies on polling day for registration as an elector of a district in which an election is being conducted, the Electoral Commission—
+  (a) may issue the person with a special vote ballot paper; and
+  (b) must, if the Electoral Commission subsequently determines that the person is qualified to be registered as an elector, enter the name of the person on the electoral roll.
 
 ### 89 Procedure following application for registration
 (1) If the Electoral Commission is satisfied that any applicant for registration as an elector (whether by transfer from another district, or otherwise) is qualified to be registered, the Electoral Commission must enter the name of the applicant on the roll.
@@ -1648,8 +1662,8 @@ Where, within 14 days after the day on which a notice under section 95A(1) or se
 (4) The Electoral Commission may, subject to subsection (6), place a person’s name on the roll if—
   (a) the person has been registered as an elector of a district other than the district in which the person should have been registered; and
   (b) the person’s name has, under subsection (1)﻿(h) or (i), been removed from the roll of the district for which the person was correctly registered.
-(5) Where, pursuant to this section, the name of a person is removed from the roll in the period commencing on the day after writ day and ending on the day before polling day, the Electoral Commission must, on removing that name, enter it on a list to be known as the list of post-writ day deletions.
-(6) No alteration pursuant to this section shall be made to the roll for a district in the period beginning on polling day and ending on the day after the day of the return of the writ.
+(5) Where, pursuant to this section, the name of a person is removed from the roll in the period commencing on the day after writ day and ending on polling day, the Electoral Commission must, on removing that name, enter it on a list to be known as the list of post-writ day deletions.
+(6) No alteration pursuant to this section shall be made to the roll for a district in the period beginning on the day after polling day and ending on the day after the day of the return of the writ.
 
 ### 99 Notice of alterations to roll
 (1) Where, pursuant to any of the provisions of paragraphs (c) to (i) of section 98(1), the name of a person is removed from the roll, the Electoral Commission must, in accordance with subsection (3) or subsection (4), deliver or send to that person, notice in writing of the removal of that person’s name from the roll.
@@ -1659,7 +1673,7 @@ Where, within 14 days after the day on which a notice under section 95A(1) or se
   (b) shall be so delivered or sent not later than 14 days after the date on which,—
     (i) where the notice is required by subsection (1), the person’s name is removed; or
     (ii) where the notice is required by subsection (2), the person’s name is entered.
-(4) Where the name of a person is removed or entered, as the case may be, in the period beginning on the day after writ day and ending on the day before polling day, the notice required by subsection (1) or subsection (2) shall forthwith be delivered to that person personally.
+(4) Where the name of a person is removed or entered, as the case may be, in the period beginning on the day after writ day and ending on polling day, the notice required by subsection (1) or (2) must immediately be delivered to the person personally or sent to the person by post.
 
 ### 100 Corrupt Practices List
 (1) Where it is proved before the Electoral Commission that any person who is registered or who applies for registration as an elector of a district has, within the immediately preceding period of 3 years,—the Electoral Commission must enter the name, residence, and description of that person and particulars of the conviction or report on a list to be called the Corrupt Practices List.
@@ -1756,9 +1770,9 @@ The Electoral Commission—
     (ii) by the father, mother, spouse, civil union partner, de facto partner, sister, or brother of the person; or
     (iii) by the administrator of the estate of the person; or
   (d) the expiration of the period of 3 years beginning with the date on which the person’s name was placed on the dormant roll.
-(3) The Electoral Commission must keep, for the purposes of the next election to be held in the district to which the dormant roll relates, a copy of the dormant roll as it exists on the day before polling day.
-(4) The Electoral Commission must from time to time cause to be printed a computer-compiled list showing, in relation to each person whose name appears on the dormant roll, the person’s name and place of residence.
-(5) The dormant roll as it exists on the day before polling day may be used for the purpose of determining whether any person is qualified, under section 60(c) or (d), to vote at any election held in the district to which the roll relates.
+(3) The Electoral Commission must keep, for the purposes of the next election to be held in the district to which the dormant roll relates, a copy of the dormant roll as it exists on polling day.
+(4) The Electoral Commission must from time to time cause to be printed a computer-compiled list showing, in relation to each person whose name appears on the dormant roll, the person’s name and place of residence last shown on the roll.
+(5) The dormant roll as it exists on polling day may be used for the purpose of determining whether any person is qualified, under section 60(c) or (d), to vote at any election held in the district to which the roll relates.
 
 ### 110 Public inspection of rolls, etc
 (1) A copy or copies of—shall be kept for inspection by the public at the office of the Electoral Commission for the district, and at such other places within the district as the Electoral Commission directs.
@@ -2040,11 +2054,13 @@ Every person shall be liable on conviction to a fine not exceeding $2,000 who, h
   (b) must give the Electoral Commission any information the Electoral Commission requests relating to the qualifications of any person for registration as an elector.
 (2) All constables must also assist the Electoral Commission by making such inquiries and obtaining such information as he or she requests.
 
-### 123 Copies of rolls for Returning Officer
-(1) The Electoral Commission must supply to the Returning Officer for the district—
-  (a) as many copies as he or she may require of the main roll and the supplementary rolls, showing all deletions (except deletions made in the period beginning on the day after writ day and ending on the day before polling day) from the electoral roll; and
-  (b) a copy of the list of post-writ day deletions referred to in section 98(5).
-(2) Despite section 106, the Electoral Commission may modify the form of any rolls supplied under this section, and the elector particulars on those rolls, if that is necessary to facilitate the use of technology for finding an elector on the roll or for the scrutiny of the rolls under this Act.
+### 123 Copies of rolls, etc, for Returning Officer
+(1) The Electoral Commission—
+  (a) must supply to the Returning Officer for an electoral district—
+    (i) as many copies as the Returning Officer may require of the main roll and supplementary rolls for the district and any other district; and
+    (ii) a copy of the list of post-writ day deletions referred to in section 98(5); and
+  (b) may supply to the Returning Officer for an electoral district any other information that the Electoral Commission holds that may assist with the identification of electors.
+(2) Despite sections 105 to 107 and 110, the Electoral Commission may modify the form or format of any copies of rolls or information supplied under this section if that is necessary to facilitate the use of technology for finding an elector on a roll, or for the scrutiny of the rolls under this Act.
 
 ### 124 Power to destroy records
 (1) Subject to subsection (3), the Electoral Commission may destroy any of the records described in subsection (2) if—
@@ -2200,9 +2216,9 @@ Where any vacancy is filled under section 137, or the Electoral Commission deter
   (a) the latest day for the nomination of constituency candidates; and
   (b) a day for the polling to take place if a poll is required, being a Saturday; and
   (c) the latest day for the return of the writ.
-(2) Polling day shall not be earlier than the 20th day after nomination day nor later than the 27th day after nomination day.
+(2) Polling day must not be earlier than the 20th day after nomination day.
 (3)
-(4) The latest day for the return of the writ (other than a writ issued under section 153E(2)) shall be the 50th day after its issue.
+(4) The latest day for the return of the writ (other than a writ issued under section 153E(2)) shall be the 60th day after its issue.
 (5) The latest day for the return of a writ issued under section 153E(2) shall be the 78th day after its issue.
 
 ### 140 Chief Registrar to be notified of writ
@@ -2462,7 +2478,7 @@ A poll shall be taken by secret ballot at the several polling places of the dist
 ### 151A Interpretation
 For the purposes of sections 152A to 153H, a candidate is incapacitated if the Returning Officer or, as the case requires, the Electoral Commission is satisfied that, because the candidate is suffering from a serious illness or has sustained a serious injury,—
   (a) if section 152A applies, the candidate is unable to personally withdraw his or her nomination; and
-  (b) in any case, the candidate, if elected, would be unlikely to be capable of taking the Oath of Allegiance as a member of Parliament on the 51st day after writ day.
+  (b) in any case, the candidate, if elected, would be unlikely to be capable of taking the Oath of Allegiance as a member of Parliament on the 61st day after writ day.
 
 ### 152 Death before close of nominations
 (1) If a constituency candidate who has been nominated and has not withdrawn his or her nomination dies before the close of nominations,—
@@ -2623,10 +2639,16 @@ The provisions of this Act as to an equality of votes between constituency candi
 ### 155 Power to appoint polling places
 (1) In respect of each election, the Electoral Commission may from time to time, subject to subsections (2) to (4), appoint polling places for any district, and may revoke, alter, or add to any such appointment.
 (2) The polling places appointed for any district may include polling places that are not within the limits of that district.
-(3) No polling place shall be appointed in any licensed premises under the Sale and Supply of Alcohol Act 2012 that will, at any time on polling day, be open for the sale, supply, or consumption of alcohol (within the meaning of section 5(1) of the Sale and Supply of Alcohol Act 2012).
+(3)
 (4) At least 12 polling places within the limits of each district shall have access that is suitable for persons who are physically disabled.
 (5) The Electoral Commission may make the details of every appointment, revocation, alteration, or addition publicly available by any means that the Electoral Commission considers appropriate.
 (6) Subsection (5) does not limit section 147.
+
+### 155A Use of licensed premises as polling places
+(1) Any licensed premises may be appointed as a polling place under section 155, but only if—
+  (a) alcohol will not be available for sale, supply, or consumption in that part of the licensed premises where voting papers are issued; and
+  (b) that part of the licensed premises where voting papers are issued may be accessed without passing through any other part of the licensed premises in which alcohol is being consumed.
+(2) In this section, alcohol and licensed premises have the same meanings as in section 5(1) of the Sale and Supply of Alcohol Act 2012.
 
 ### 156 Use of public schools as polling places
 (1) Any public primary school or intermediate school or secondary school may be appointed to be a polling place under section 155, and in every such case it shall be the duty of the governing body of the school to place it at the free disposal of the Returning Officer from 4 pm on the day before polling day and for the whole of polling day.
@@ -2711,6 +2733,7 @@ The provisions of this Act as to an equality of votes between constituency candi
 (4) Where a ballot box is opened pursuant to subsection (3), the manager of the polling place shall, after compressing the papers and in sight of any of the scrutineers present,—
   (a) close the ballot box; and
   (b) ensure that the ballot box is sealed or locked in such a manner as to prevent it being opened without breaking the seal or lock.
+(5) In this section, ballot box means a box in which ballot papers issued in accordance with section 167 are deposited.
 
 ### 164 Persons not to remain in polling places
 No person not actually engaged in voting may remain in a polling place other than the following:
@@ -2809,7 +2832,17 @@ If any person proposing to vote at any election gives as his or her name the nam
 **Preliminary count of votes**
 
 ### 174 Preliminary count of votes cast in polling place
-(1) The manager of every polling place must, as soon as practicable after the close of the poll, in the presence of any scrutineers (including those lawfully in the polling place under any other Act) and the polling place officials, but of no other person, arrange for a preliminary count of the votes to be conducted in accordance with this section.
+(1) The manager of every polling place must, as soon as practicable after the close of the poll, in the presence of any scrutineers (including those lawfully in the polling place under any other Act) and the polling place officials, but of no other person, arrange for a preliminary count of the votes cast in that polling place to be conducted in accordance with this section—
+  (a) at the polling place; or
+  (b) at any other place designated by the Electoral Commission.
+(1A) The Electoral Commission may, under subsection (1)﻿(b), designate for a polling place some other place where the preliminary count of votes cast in the polling place may be conducted only if the Commission is satisfied that it is necessary to do so because the preliminary count of votes will not be able to be conducted at the polling place in the absence of unauthorised persons.
+(1B) If the Electoral Commission designates for a polling place some other place where the preliminary count of votes cast in the polling place may be conducted,—
+  (a) the Returning Officer must—
+    (i) give notice to the constituency candidates or their scrutineers of that place at which the preliminary count of votes will be conducted (the counting place); and
+    (ii) afford to the scrutineers present at the polling place the opportunity to accompany the ballot boxes to the counting place; and
+  (b) all ballot boxes containing ballot papers must be taken from the polling place to the counting place accompanied by—
+    (i) a polling place official appointed as an official for the polling place; and
+    (ii) any scrutineers wishing to take up the opportunity afforded by paragraph (a)﻿(ii).
 (2) For the purposes of the preliminary count, all ballot papers must be taken from the ballot boxes to ascertain, as the case may require,—
   (a) the number of votes received by each party listed in the part of the ballot paper that relates to the party vote; or
   (b) the number of votes received by each candidate listed in the part of the ballot paper that relates to the electorate vote; or
@@ -3180,12 +3213,72 @@ Nothing in section 180 or section 181 requires the electorate votes or the party
   (b) cause to be removed a person who obstructs the approaches to the polling place or wilfully and unnecessarily obstructs the proceedings at the polling or conducts himself or herself in a disorderly manner or causes a disturbance or wilfully acts in any manner in defiance of the lawful directions of the manager of the polling place.
 (2) All constables must aid and assist the manager of the polling place in the performance of his or her duty.
 
-**Adjournment of poll**
+**Polling disruptions**
 
-### 195 Adjournment of poll
-(1) Subject to the concurrence of the Electoral Commission, where the polling at any polling place cannot start or has to be suspended whether by reason of riot or open violence, natural disaster, or any other cause, the Returning Officer may adjourn the taking of the poll at that polling place to the following day, and if necessary from day to day until the poll can be taken, and shall, if he or she adjourns the taking of the poll, forthwith give public notice of the adjournment in such manner as he or she thinks fit.
-(2) Notwithstanding subsection (1), the poll shall not be kept open for more than 10 hours in all at any polling place.
-(3) Where the close of the poll at any polling place is adjourned under this section for any number of days, the day on or before which the writ is made returnable shall be postponed by the same number of days.
+### 195 Meaning of unforeseen or unavoidable disruption
+(1) In sections 195A, 195B, and 195D, an unforeseen or unavoidable disruption means a disruption that is likely to—
+  (a) prevent voters voting at a polling place; or
+  (b) pose a risk to the proper conduct of an election.
+(2) An unforeseen or unavoidable disruption includes, but is not limited to, a disruption arising as a result of—
+  (a) a natural disaster:
+  (b) adverse weather conditions:
+  (c) a riot or disorder, or a threat of a riot or disorder:
+  (d) a terrorist act (as defined in section 5 of the Terrorism Suppression Act 2002):
+  (e) an epidemic notice given under section 5(1) of the Epidemic Preparedness Act 2006 being in force:
+  (f) a cyberattack on the Electoral Commission’s electronic operating systems.
+
+### 195A Adjournment of poll on polling day
+(1) The Chief Electoral Officer may direct that the voting at 1 or more polling places on polling day be adjourned because of an unforeseen or unavoidable disruption.
+(2) Voting may be adjourned on the direction of the Chief Electoral Officer for—
+  (a) an initial period of no more than 3 days; and
+  (b) 1 or more subsequent periods of no more than 7 days each.
+(3) Before making a direction under subsection (2)﻿(b) adjourning the voting for a subsequent period, the Chief Electoral Officer must—
+  (a) consult—
+    (i) the Prime Minister; and
+    (ii) the Leader of the Opposition; and
+    (iii) any person or organisation that in the Chief Electoral Officer’s opinion is able to give information about the scale and duration of the unforeseen or unavoidable disruption; and
+  (b) be satisfied that the adjournment is necessary in all the circumstances.
+(4) The Chief Electoral Officer must, as soon as is reasonably practicable after making a direction under subsection (2)﻿(a), notify the following persons of the adjournment:
+  (a) the Prime Minister; and
+  (b) the Leader of the Opposition.
+(5) The Chief Electoral Officer must, as soon as is reasonably practicable after making a direction under subsection (2)﻿(a) or (b), give public notice of the adjournment in any manner that the Chief Electoral Officer considers appropriate.
+(6) If voting at 1 or more polling places is adjourned under this section for any number of days, the day on or before which the writ must be returned is postponed by the same number of days.
+
+### 195B Alternative voting processes to respond to polling disruption
+(1) This section applies if—
+  (a) an unforeseen or unavoidable disruption occurs at 1 or more advance polling places that may reasonably be expected to continue until polling day; or
+  (b) an unforeseen or unavoidable disruption occurs at 1 or more polling places on polling day.
+(2) The Chief Electoral Officer may manage an unforeseen or unavoidable disruption to which this section applies by using alternative voting processes if the Chief Electoral Officer considers that doing so is the most appropriate and efficient way to address the disruption.
+(3) The alternative voting processes referred to in subsection (2) may modify or adapt any requirements, processes, or procedures specified by or prescribed under this Act (for example, the Chief Electoral Officer may extend the polling hours, or extend to voters in New Zealand the procedure for the electronic issue of voting papers that is available to voters outside New Zealand).
+(4) In this section, advance polling place has the same meaning given to it in section 197A(10).
+
+### 195C Matters Chief Electoral Officer must have regard to when exercising discretion under section 195A or 195B
+When considering whether to exercise his or her discretion under section 195A or 195B, the Chief Electoral Officer must have regard to the following matters:
+  (a) the need to ensure the safety of voters and electoral officials; and
+  (b) the need to ensure that the election process is free from corrupt or illegal practices; and
+  (c) the need to ensure that the election process is concluded in a timely and expeditious manner.
+
+### 195D Deferral of release of information about result of preliminary count of votes at polling place if close of poll delayed
+(1) If, as a result of an unforeseen or unavoidable disruption, the close of the poll at any polling place is delayed, the Chief Electoral Officer must not disclose any information about the results of a preliminary count of votes cast at that polling place, or any other polling place, until the close of the poll at all polling places.
+(2) However, the Chief Electoral Officer may disclose that information if he or she considers that the disclosure of the information will not unduly influence—
+  (a) the overall result of the poll in an electoral district; or
+  (b) the number of seats in Parliament that a party is entitled to be allocated under sections 191 and 192, and the selection of list candidates under section 193.
+(3) A person commits an offence and is guilty of a corrupt practice if—
+  (a) the person knows that,—
+    (i) as a result of an unforeseen or unavoidable disruption, the close of the poll at any polling place has been delayed; and
+    (ii) the Chief Electoral Officer has not disclosed the results of a preliminary count of votes cast at that polling place or any other polling place; and
+  (b) the person discloses information about those results.
+(4) Subsection (3) does not apply to disclosures of information between—
+  (a) electoral officials; or
+  (b) members of the Electoral Commission; or
+  (c) electoral officials and members of the Electoral Commission.
+
+### 195E Interfering with or influencing voters at resumed poll
+If, under section 195A, voting at any polling place is adjourned, then, when polling resumes at that polling place or any alternative polling place and until the close of the poll at that place,—
+  (a) section 197(1)﻿(i) and (j) applies with all necessary modifications as if references in those paragraphs to any polling place were references to the polling place at which polling has resumed; and
+  (b) section 197A applies with all necessary modifications as if—
+    (i) references in that section to an advance voting place were references to the polling place at which polling has resumed; and
+    (ii) references in that section to a buffer zone for the advance voting place were references to the buffer zone for the polling place at which polling has resumed.
 
 **Custody of ballot papers**
 
