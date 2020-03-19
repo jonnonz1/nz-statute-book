@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2019-12-01_
+_Consolidation as at 2020-03-19_
 
 > Title
 
@@ -1342,7 +1342,7 @@ Every award and every agreement relating to the terms and conditions of employme
 | Cancer Control Agency | Ministry of Health |
 | National Emergency Management Agency | Department of the Prime Minister and Cabinet |
 | Office for Māori Crown Relations—Te Arawhiti | Ministry of Justice |
-| Social Investment Agency | State Services Commission |
+| Social Wellbeing Agency | State Services Commission |
 
 ## Schedule 2 — State enterprises
 
