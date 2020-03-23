@@ -1,5 +1,5 @@
 # Taxation (Annual Rates for 2019–20, GST Offshore Supplier Registration, and Remedial Matters) Act 2019
-_Consolidation as at 2019-06-26_
+_Consolidation as at 2020-03-23_
 
 ### 1 Title
 This Act is the Taxation (Annual Rates for 2019–20, GST Offshore Supplier Registration, and Remedial Matters) Act 2019.
@@ -748,7 +748,7 @@ In section EH 1(2), words before paragraph (a), replace 3 with 2.
     (b) the increase arises from a policy benefit that produces an increase, under a formula in the agreement, in the sum assured under the policy; and
     (c) the increase in the sum assured under the policy during the year does not exceed the greater of 3% and the percentage change in the consumer price index during the period consisting of the last 4 quarters preceding the year.
 (3) In section EY 30, list of defined terms, insert life insurance policy, premium, quarter, and year.
-(4) Subsections (1) and (2) apply for a person for the income year that includes 1 July 2010 and later income years, except for an income year for which the person has, before the date of Royal assent to this Act, taken a tax position that is inconsistent with the amendments made by subsections (1) and (2).
+(4) Subsections (1) and (2) apply for a person for the income year that includes 1 July 2010 and later income years, except for an income year for which the person notifies the Commissioner on or after 26 June 2019 that the person chooses to rely on a tax position that is inconsistent with the amendments made by subsections (1) and (2).
 
 ### 66 Section FE 4 amended (Some definitions)
 In section FE 4, in the definition of excess debt outbound company, replace section FE 2(1)﻿(a) to (d) with section FE 2(1)﻿(a) to (db).
