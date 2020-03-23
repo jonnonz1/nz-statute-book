@@ -1,5 +1,5 @@
 # Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial Matters) Act 2019
-_Consolidation as at 2019-06-26_
+_Consolidation as at 2020-03-23_
 
 ### 1 Title
 This Act is the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial Matters) Act 2019.
@@ -785,7 +785,7 @@ In section 32E(2)﻿(k), replace CW 38(2), with CW 38(2), CW 38B(2),.
 Repeal section 34B.
 
 ### 34 Section 36BB amended (Electronic format for details required for tax pooling intermediaries)
-In section 36BB, replace sections 15N to 15S with sections 124O to 124S and 124ZB.
+[Repealed]
 
 ### 35 Section 36BD amended (Electronic filing requirements for registered persons)
 In section 36BD(5), replace employer with registered person.
@@ -3152,7 +3152,7 @@ Replace section KD 2AB(1)﻿(a) and (b) with:
   (b) a person, their spouse, civil union partner, or de facto partner does not receive, at any time in the parental entitlement period, a parental leave payment under Part 7A of the Parental Leave and Employment Protection Act 1987.
 
 ### 362 Section MD 1 amended (Refund of excess tax)
-Replace section MD 1(b) with:
+Replace MD 1(1)﻿(b) with:
   (b) either—
     (i) the amount has arisen on an original assessment; or
     (ii) the amount has arisen on an amended assessment and the 4-year period under section 108(1) of the Tax Administration Act 1994 for amendment of an assessment has not ended.
@@ -3177,7 +3177,7 @@ Replace section MD 1(b) with:
     (c) the Commissioner was unable to make the refund within the 4-year period referred to in section 108(1); and
     (d) after the expiry of the 4-year period, the refund could not be made under section RM 2 as it was before it was amended by section 87(1) of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013.
   (2) The Commissioner may pay the refund to the person.
-(2) Subsection (1) applies for income years from the 2008–09 income year to the 2012–13 income year.
+(2)
 
 **Accident Compensation Act 2001**
 
@@ -3215,7 +3215,7 @@ Replace section KD 2AB(1)﻿(a) and (b) of the Income Tax Act 1994 with:
   (b) a person does not receive, at any time in the parental entitlement period, a parental leave payment under Part 7A of the Parental Leave and Employment Protection Act 1987.
 
 ### 370 Section MD 1 amended (Refund of excess tax)
-Replace section MD 1(b) with:
+Replace section MD 1(1)﻿(b) with:
   (b) either—
     (i) the amount has arisen on an original assessment; or
     (ii) the amount has arisen on an amended assessment and the 4-year period under section 108(1) of the Tax Administration Act 1994 for amendment of an assessment has not ended.
@@ -3248,7 +3248,7 @@ In regulation 36(5) of the Taxation Review Authorities Regulations 1998, replace
 Sections 375 to 378 amend the Tax Administration (Binding Rulings) Regulations 1999.
 
 ### 375 Regulation 2 amended (Interpretation)
-In regulation 2 of the Tax Administration (Binding Rulings) Regulations 1999, insert, in appropriate alphabetical order:
+In regulation 2, insert, in appropriate alphabetical order:
   - **short-process ruling** means a ruling of the Commissioner under section 91EK of the Act
 
 ### 376 Regulation 3 amended (Fees)
@@ -3728,6 +3728,9 @@ Section 18 does not prevent the Commissioner disclosing such information as is r
 
 ###  Exclusion
 (2) An amount of tax does not qualify for a write off under clause 1(b) if the amount is derived by an individual who has been assessed in the tax year as receiving an entitlement and a tax credit under the family scheme under subparts MA to MG and MZ of the Income Tax Act 2007.
+
+### 3 Small amounts of tax payable
+Despite clause 2, the Commissioner may write off an amount of tax under section 22J if the amount is not substantial and represents an underpayment of tax that is attributable to a function or operation of the tax collection rules.
 
 ## Schedule 2 — New schedules 18B and 18C inserted
 
