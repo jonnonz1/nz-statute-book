@@ -1,5 +1,5 @@
 # Income Tax Act 1976
-_Consolidation as at 2016-02-24_
+_Consolidation as at 2020-03-23_
 
 | The Income Tax Act 1976 is not available on this website. For more information, see http://www.legislation.govt.nz/howitworks.aspx#whatonsite |
 | --- |
