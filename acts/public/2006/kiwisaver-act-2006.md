@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2019-08-27_
+_Consolidation as at 2020-03-23_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -149,7 +149,7 @@ This Act is the KiwiSaver Act 2006.
       (v) for the purposes of subpart 3A of Part 3 of this Act,—
         (A) salary or wages described in section RD 5(1)﻿(b)﻿(iii), (6)﻿(bd) to (bg), and (7) of the Income Tax Act 2007; and
         (B) payments of weekly compensation, as defined in the Accident Compensation Act 2001, made by an employer, unless the employer chooses to not exclude the payments from this definition of salary or wages; and
-      (vi) the amount of a benefit that an employee receives under section CE 2(2) or (4) of the Income Tax Act 2007 under a share purchase agreement when the amount is treated as an amount of extra pay of the employee:
+      (vi) the amount of a benefit that an employee receives under section CE 2 of the Income Tax Act 2007 under an employee share scheme when the amount is treated as an amount of extra pay of the employee:
     (b) it includes extra pay (as defined in section YA 1 of the Income Tax Act 2007), unless—
       (i) otherwise excluded under paragraph (a) of this definition; or
       (ii) the amount is a redundancy payment for the purposes of the Income Tax Act 2007
@@ -559,7 +559,7 @@ A person may, at any time, choose the KiwiSaver scheme of which he or she will b
 
 ### 51 Completion of allocation to default KiwiSaver scheme if person does not choose his or her own KiwiSaver scheme
 (1) This section and section 52 apply, at the final allocation date specified in subsection (4), to a person (A) who has been provisionally allocated under section 50 if the Commissioner has not been notified by that date by a provider that A has applied to become a member of a KiwiSaver scheme.
-(1B) Despite subsection (1), subsections (4) and (5) do not apply if section 50(4)﻿(b) or (bb) applies. Instead, the allocation under section 50(3) is treated as completed on the day on which it occurs.
+(1B) Despite subsection (1), subsections (4) and (5) do not apply if section 50(4)﻿(b) or (ba) applies. Instead, the allocation under section 50(3) is treated as completed on the day on which it occurs.
 (2) The Commissioner must give notice to A that the allocation of A is now completed as per the provisional allocation.
 (3) The Commissioner must give notice to the provider of the default KiwiSaver scheme that A has been allocated to the scheme, and A’s name, address, date of birth (if known to the Commissioner), tax file number, and any other personal information that the Commissioner considers relevant.
 (4) The final allocation date is,—
