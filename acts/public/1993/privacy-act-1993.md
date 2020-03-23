@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2019-12-12_
+_Consolidation as at 2020-03-23_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -1907,7 +1907,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Social Security Act 2018 | Clauses 13 to 15 of Schedule 6 |
 | Social Welfare (Transitional Provisions) Act 1990 | Section 19D(3)﻿(b) |
 | Student Loan Scheme Act 2011 | Section 208 |
-| Tax Administration Act 1994 | Sections 46A, 82, 85A, 85B, 85E, and 85H |
+| Tax Administration Act 1994 | Clauses 41 to 43 and 45 of schedule 7 |
 
 ## Schedule 4 — Information matching rules
 
