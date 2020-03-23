@@ -1,5 +1,5 @@
 # Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018
-_Consolidation as at 2019-04-01_
+_Consolidation as at 2020-03-23_
 
 ### 1 Title
 This Act is the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018.
@@ -2775,7 +2775,7 @@ In section 70(2), replace an imputation return with an annual ICA return.
 In section 74(1)﻿(b)﻿(iii), replace an imputation group: with an imputation group; and.
 
 ### 332 Section 78D amended (Evidential requirements for tax credits)
-In section 78D, replace taxpayer who with taxpayer who has a non-notified tax code and who.
+[Repealed]
 
 ### 333 Section 80A amended (Application)
 (1) In section 80A(1)﻿(a)﻿(ii), replace (k) to (n) with (k) to (p).
