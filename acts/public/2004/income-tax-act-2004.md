@@ -1,5 +1,5 @@
 # Income Tax Act 2004
-_Consolidation as at 2019-03-18_
+_Consolidation as at 2020-03-23_
 
 ### A 1 Title
 This Act is the Income Tax Act 2004.
@@ -3795,14 +3795,17 @@ An amount of income derived by the trustee of a community trust is exempt income
 
 ### CW 45 Non-resident aircraft operators
 Exempt income
-(1) An amount of income derived by a non-resident aircraft operator from air transport from New Zealand is exempt income to the extent to which the Commissioner determines that an aircraft operator resident in New Zealand is, in circumstances corresponding to the circumstances of the non-resident aircraft operator, exempt from, or not liable to, income tax imposed by the laws of the country or territory in which the non-resident aircraft operator is resident.
+(1) An amount of income derived by a non-resident aircraft operator from air transport from New Zealand, or from air transport to New Zealand, is exempt income to the extent to which the Commissioner determines that an aircraft operator resident in New Zealand is, in circumstances corresponding to the circumstances of the non-resident aircraft operator, exempt from, or not liable to, income tax imposed by the laws of the country or territory in which the non-resident aircraft operator is resident.
 Determination
 (2) A determination by the Commissioner for the purposes of subsection (1) may relate to a class of non-resident aircraft operators or a class of resident aircraft operators.
 Some definitions
 (3) In this section,—
   - **air transport from New Zealand** —
     (a) means the carriage outside New Zealand by an aircraft of cargo, mail, or passengers emplaned or embarked on the aircraft at an airport in New Zealand; and
-    (b) if the aircraft calls at another airport in New Zealand before leaving New Zealand on the flight for which the emplaning or embarking occurred, includes that New Zealand portion of the flight
+    (b) includes a flight by the aircraft between the airport in New Zealand where the emplaning or embarking occurred and another airport in New Zealand at which the aircraft calls before leaving New Zealand on the international flight for which the emplaning or embarking occurred
+  - **air transport to New Zealand** —
+    (a) means the carriage to an airport in New Zealand by an aircraft of cargo, mail, or passengers emplaned or embarked on the aircraft at an airport in a country or territory outside New Zealand; and
+    (b) includes a flight by the aircraft to the airport in New Zealand for carriage to which the emplaning or embarking occurred from another airport in New Zealand at which the aircraft calls en route
   - **non-resident aircraft operator** means a person who—
     (a) is engaged in the business of operating an aircraft for air transport from an airport; and
     (b) is resident in a country or territory outside New Zealand and is not resident in New Zealand.
@@ -23292,9 +23295,7 @@ In this subpart—
 ### MD 1 Refund of excess tax
 (1) Subject to sections MD 2, MD 2A, MD 2B, MD 3 and NH 4, and subsection (2), the Commissioner must refund an amount that a taxpayer has paid as tax if—
   (a) the Commissioner is satisfied that the amount represents an excess over the tax properly payable by the taxpayer; and
-  (b) either—
-    (i) the amount has arisen on an original assessment; or
-    (ii) the amount has arisen on an amended assessment and the 4-year period under section 108(1) of the Tax Administration Act 1994 for amendment of an assessment has not ended.
+  (b) the amount has arisen on an amended assessment, and the Commissioner is satisfied, or is notified, that the person is entitled to the refund before the end of the 4-year period under section 108 of the Tax Administration Act 1994 for amendment of an assessment.
 (1A) If, as a result of the issue of an income statement, the amount of tax paid in excess and required to be refunded is more than $50, or such greater amount as the Governor-General by Order in Council prescribes, the Commissioner must not refund the tax until the taxpayer has confirmed the income statement is correct.
 (1B) The Commissioner must not pay a refund under subsection (1) to the extent that the excess tax is applied to a nil period under either section MZ 5 or MZ 6.
 (2) Subject to sections MD 2, MD 2A, MD 2B, MD 3, and NH 4, the Commissioner must refund an amount that a taxpayer has paid as tax if—
@@ -23331,7 +23332,7 @@ In this subpart—
 (1) This section applies for the period that includes the 2005–06, 2006–07, and 2007–08 income years when—
   (a) a person overpaid their tax for an income year that falls in the period and was entitled to a refund of tax; and
   (b) the refund arose from the person’s return of income and not from an amended assessment; and
-  (c) the Commissioner was unable to make the refund within the 4-year period referred to in section 108(1); and
+  (c) the Commissioner was unable to make the refund within the 4-year period referred to in section 108(1) of the Tax Administration Act 1994; and
   (d) after the expiry of the 4-year period, the refund could not be made under section RM 2 as it was before it was amended by section 87(1) of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013.
 (2) The Commissioner may pay the refund to the person.
 
@@ -27470,6 +27471,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
       (ii) obtain or supply services; and
     (b) does not include a forward contract, a futures contract, an option, or a specified option
   - **air transport from New Zealand** is defined in section CW 45(3) (Non-resident aircraft operators) for the purposes of that section
+  - **air transport to New Zealand** is defined in section CW 45(3) (Non-resident aircraft operators) for the purposes of that section
   - **airport** is defined in section OC 1(6) (Airport operators) for the purposes of that section
   - **airport asset** is defined in section OC 1(6) (Airport operators) for the purposes of that section
   - **airport authority** is defined in section 2 of the Airport Authorities Act 1966
