@@ -1,5 +1,5 @@
 # Serious Fraud Office Act 1990
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2020-03-23_
 
 > An Act—ato facilitate the detection and investigation by the Serious Fraud Office of cases of serious or complex fraud; andbto enable proceedings relating to such fraud to be taken expeditiously; andcto provide for matters incidental upon the establishment of the Serious Fraud Office
 
@@ -23,8 +23,8 @@ In this Act, unless the context otherwise requires,—
     (c) does not include a person appointed under section 34
   - **information** includes data, documents, and forecasts
   - **inland revenue offence** means—
-    (a) any offence against any Act specified in the Schedule of the Tax Administration Act 1994; and
-    (b) any offence against any Act in relation to any tax imposed or payable, or any refund made or claimed, under any of the Acts specified in the Schedule of the Tax Administration Act 1994
+    (a) any offence against any Act specified in Schedule 1 of the Tax Administration Act 1994; and
+    (b) any offence against any Act in relation to any tax imposed or payable, or any refund made or claimed, under any of the Acts specified in Schedule 1 of the Tax Administration Act 1994
   - **Judge** means any Judge of the High Court or the District Court
   - **member** , in relation to the Serious Fraud Office,—
     (a) means any employee of the Serious Fraud Office; and
