@@ -1,5 +1,5 @@
 # Health Practitioners Competence Assurance Act 2003
-_Consolidation as at 2019-04-12_
+_Consolidation as at 2020-03-24_
 
 ### 1 Title
 This Act is the Health Practitioners Competence Assurance Act 2003.
@@ -1970,9 +1970,15 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 
 ### 174 Duty of health practitioners in respect of reproductive health services
 (1) This section applies whenever—
-  (a) a person requests a health practitioner to provide a service (including, without limitation, advice) with respect to contraception, sterilisation, or other reproductive health services; and
-  (b) the health practitioner objects on the ground of conscience to providing the service.
-(2) When this section applies, the health practitioner must inform the person who requests the service that he or she can obtain the service from another health practitioner or from a family planning clinic.
+  (a) a person requests a health practitioner to provide a service (including, without limitation, advice) with respect to contraception, sterilisation, abortion, or other reproductive health services; and
+  (b) the health practitioner has an objection on the ground of conscience to providing the service (a conscientious objection).
+(2) When this section applies, the health practitioner must tell the person requesting the service at the earliest opportunity—
+  (a) of their conscientious objection; and
+  (b) how to access the contact details of another person who is the closest provider of the service requested.
+(3) In subsection (2)﻿(b), the closest provider is to be determined taking into account—
+  (a) the physical distance between the providers; and
+  (b) the date and time that the person has requested the service; and
+  (c) the operating hours of the provider of the service requested.
 
 **Consequential amendments, repeals, and revocations**
 
