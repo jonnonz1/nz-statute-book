@@ -1,5 +1,5 @@
 # Health and Disability Commissioner Act 1994
-_Consolidation as at 2019-02-28_
+_Consolidation as at 2020-03-24_
 
 > An Act to promote and protect the rights of health consumers and disability services consumers, and, in particular,—ato secure the fair, simple, speedy, and efficient resolution of complaints relating to infringements of those rights; andbto provide for the appointment of a Health and Disability Commissioner to investigate complaints against persons or bodies who provide health care or disability services; and to define the Commissioner’s functions and powers; andcto provide for the establishment of a Health and Disability Services Consumer Advocacy Service; anddto provide for the promulgation of a Code of Health and Disability Services Consumers’ Rights; andeto provide for matters incidental thereto
 
@@ -57,9 +57,13 @@ _Consolidation as at 2019-02-28_
       (vii) diagnostic services; and
     (b) includes—
       (i) psychotherapy and counselling services:
-      (ii) contraception services and advice:
-      (iii) fertility services:
-      (iv) sterilisation services
+      (ii) reproductive health services, including—
+        (A) contraception services and advice:
+        (B) fertility services:
+        (C) sterilisation services:
+        (D) abortion services
+      (iii)
+      (iv)
   - **health treatment** , to avoid doubt, includes treatment of a person () that is, or is related to, the taking of human tissue from A for all or any of the following purposes:
     (a) transplantation, or another therapeutic purpose, for the benefit of 1 or more persons other than A:
     (b) educational purposes or research purposes
