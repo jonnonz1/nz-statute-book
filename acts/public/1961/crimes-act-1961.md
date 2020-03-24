@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2020-03-24_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -1631,23 +1631,27 @@ Every one is liable to imprisonment for a term not exceeding 7 years who is an a
 ### 181 Concealing dead body of child
 Every one is liable to imprisonment for a term not exceeding 2 years who disposes of the dead body of any child in any manner with intent to conceal the fact of its birth, whether the child died before, or during, or after birth.
 
-**Abortion**
+**Killing unborn child**
 
 ### 182 Killing unborn child
 (1) Every one is liable to imprisonment for a term not exceeding 14 years who causes the death of any child that has not become a human being in such a manner that he or she would have been guilty of murder if the child had become a human being.
-(2) No one is guilty of any offence who before or during the birth of any child causes its death by means employed in good faith for the preservation of the life of the mother.
+(2) Nothing in subsection (1) applies to any person who before or during the birth of any child causes its death by—
+  (a) a means employed in good faith to preserve the life of the child’s mother; or
+  (b) providing abortion services in accordance with section 10 or 11 of the Contraception, Sterilisation, and Abortion Act 1977.
 
 ### 182A Miscarriage defined
-For the purposes of sections 183 to 187 the term miscarriage means—
-  (a) the destruction or death of an embryo or fetus after implantation; or
-  (b) the premature expulsion or removal of an embryo or fetus after implantation, otherwise than for the purpose of inducing the birth of a fetus believed to be viable or removing a fetus that has died.
+[Repealed]
 
-### 183 Procuring abortion by any means
-(1) Every one is liable to imprisonment for a term not exceeding 14 years who, with intent to procure the miscarriage of any woman or girl, whether she is pregnant or not,—
-  (a) unlawfully administers to or causes to be taken by her any poison or any drug or any noxious thing; or
-  (b) unlawfully uses on her any instrument; or
-  (c) unlawfully uses on her any means other than any means referred to in paragraph (a) or paragraph (b).
-(2) The woman or girl shall not be charged as a party to an offence against this section.
+**Abortion services**
+
+### 183 Abortion procured by person other than health practitioner
+(1) A person commits an offence and is liable on conviction to a term of imprisonment not exceeding 5 years if the person is not a health practitioner and—
+  (a) procures, or attempts to procure, an abortion for a woman; or
+  (b) performs, or attempts to perform, an abortion on a woman.
+(2) The woman is not guilty of an offence under this section.
+(3) In this section,—
+  - **abortion** has the meaning given to it by section 2 of the Contraception, Sterilisation, and Abortion Act 1977
+  - **health practitioner** has the meaning given to it by section 5(1) of the Health Practitioners Competence Assurance Act 2003.
 
 ### 184 Procuring abortion by other means
 [Repealed]
@@ -1656,26 +1660,13 @@ For the purposes of sections 183 to 187 the term miscarriage means—
 [Repealed]
 
 ### 186 Supplying means of procuring abortion
-Every one is liable to imprisonment for a term not exceeding 7 years who unlawfully supplies or procures any poison or any drug or any noxious thing, or any instrument or other thing, whether of a like nature or not, believing that it is intended to be unlawfully used to procure miscarriage.
+[Repealed]
 
 ### 187 Effectiveness of means used immaterial
-The provisions of section 183 to 186 shall apply whether or not the poison, drug, thing, instrument, or means administered, taken, used, supplied, or procured was in fact capable of procuring miscarriage.
+[Repealed]
 
 ### 187A Meaning of unlawfully
-(1) For the purposes of sections 183 and 186, any act specified in either of those sections is done unlawfully unless, in the case of a pregnancy of not more than 20 weeks' gestation, the person doing the act believes—
-  (a) that the continuance of the pregnancy would result in serious danger (not being danger normally attendant upon childbirth) to the life, or to the physical or mental health, of the woman or girl; or
-  (aa) that there is a substantial risk that the child, if born, would be so physically or mentally abnormal as to be seriously handicapped; or
-  (b) that the pregnancy is the result of sexual intercourse between—
-    (i) a parent and child; or
-    (ii) a brother and sister, whether of the whole blood or of the half blood; or
-    (iii) a grandparent and grandchild; or
-  (c) that the pregnancy is the result of sexual intercourse that constitutes an offence against section 131(1); or
-  (d) that the woman or girl is severely subnormal within the meaning of section 138(2).
-(2) The following matters, while not in themselves grounds for any act specified in section 183 or section 186, may be taken into account in determining for the purposes of subsection (1)﻿(a), whether the continuance of the pregnancy would result in serious danger to her life or to her physical or mental health:
-  (a) the age of the woman or girl concerned is near the beginning or the end of the usual child-bearing years:
-  (b) the fact (where such is the case) that there are reasonable grounds for believing that the pregnancy is the result of sexual violation.
-(3) For the purposes of sections 183 and 186, any act specified in either of those sections is done unlawfully unless, in the case of a pregnancy of more than 20 weeks' gestation, the person doing the act believes that the miscarriage is necessary to save the life of the woman or girl or to prevent serious permanent injury to her physical or mental health.
-(4) Where a medical practitioner, in pursuance of a certificate issued by 2 certifying consultants under section 33 of the Contraception, Sterilisation, and Abortion Act 1977, does any act specified in section 183 or section 186 of this Act, the doing of that act shall not be unlawful for the purposes of the section applicable unless it is proved that, at the time when he or she did that act, he or she did not believe it to be lawful in terms of subsection (1) or subsection (3), as the case may require.
+[Repealed]
 
 **Assaults and injuries to the person**
 
