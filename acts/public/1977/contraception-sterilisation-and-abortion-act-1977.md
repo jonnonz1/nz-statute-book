@@ -1,7 +1,7 @@
 # Contraception, Sterilisation, and Abortion Act 1977
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2020-03-24_
 
-> An Act to specify the circumstances in which contraceptives and information relating to contraception may be supplied and given to young persons, to define the circumstances under which sterilisations may be undertaken, and to provide for the circumstances and procedures under which abortions may be authorised after having full regard to the rights of the unborn child
+> Title
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Contraception, Sterilisation, and Abortion Act 1977.
@@ -11,28 +11,37 @@ _Consolidation as at 2013-07-01_
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **abortion** means a medical or surgical procedure carried out or to be carried out for the purpose of procuring—
-    (a) the destruction or death of an embryo or fetus after implantation; or
-    (b) the premature expulsion or removal of an embryo or fetus after implantation, otherwise than for the purpose of inducing the birth of a fetus believed to be viable or removing a fetus that has died
-  - **abortion law** means every provision of—
-    (a) sections 10 to 46 of this Act; and
-    (b) sections 182 to 187A of the Crimes Act 1961
-  - **approved counselling service** means any person or agency appointed or approved by the Supervisory Committee under section 31
-  - **contraceptive** means a substance or device or technique intended to prevent conception or implantation
-  - **holder** , in relation to a licence issued under this Act, means,—
-    (a) in the case of a hospital, the person who is for the time being in charge of the hospital, whether or not that person was in charge of it when the licence was issued:
-    (b) in the case of any other institution, the person who is for the time being in charge of the institution, whether or not that person was in charge of it when the licence was issued
+  - **abortion** —
+    (a) means intentionally causing the termination of a woman’s pregnancy by any means, including—
+      (i) by using a drug or combination of drugs; or
+      (ii) by using an instrument; but
+    (b) does not include—
+      (i) any procedure intended to induce the birth of a live fetus believed to be viable; or
+      (ii) any procedure to remove a dead fetus; or
+      (iii) any contraceptive
+  - **abortion service provider** means an entity that provides abortion services
+  - **abortion services** means services provided by a qualified health practitioner to facilitate an abortion
+  - **conscientious objection** means an objection on the ground of conscience to the provision of contraception, sterilisation, or abortion services
+  - **contraceptive** means a substance, device, or technique intended to prevent conception or implantation
+  - **Director-General** means the Director-General of Health
+  - **employer** includes any person acting or purporting to act on behalf of an employer
+  - **entity** means—
+    (a) a body corporate:
+    (b) a corporation sole:
+    (c) an unincorporated body:
+    (d) a sole trader
+  - **health practitioner** has the meaning given to it by section 5(1) of the Health Practitioners Competence Assurance Act 2003
   - **hospital** means a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001
-  - **institution** means any hospital, clinic, or other premises in which it is proposed to perform abortions
-  - **licence** means a licence issued under this Act
-  - **licensed institution** means an institution in respect of which a licence is for the time being in force under this Act
+  - **medical emergency** includes a surgical emergency
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
-  - **practising obstetrician** or means a medical practitioner—
-    (a) whose scope of practice includes obstetrics or gynaecology; or
-    (b) who, in the opinion of the Supervisory Committee, is experienced in one or both of those branches of medicine
-  - **scope of practice** has the same meaning as in section 5(1) of the Health Practitioners Competence Assurance Act 2003
-  - **Secretary** , in relation to the Supervisory Committee, means the officer of the Ministry of Justice for the time being acting as Secretary of the Committee
-  - **Supervisory Committee** means the Abortion Supervisory Committee constituted under section 10.
+  - **qualified health practitioner** , in relation to the provision of abortion services, means a health practitioner who is acting in accordance with the Health Practitioners Competence Assurance Act 2003
+  - **safe area** means any premises at which abortion services are provided, and any area around those premises, prescribed in regulations made under section 17(1) as a safe area.
+
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
+
+### 2B Act binds the Crown
+This Act binds the Crown.
 
 **Contraception**
 
@@ -48,9 +57,12 @@ In this Act, unless the context otherwise requires,—
 ### 5 Supply of contraceptives to sexual violation complainants
 (1) Where any person makes a complaint of sexual violation to any constable and that constable, or any other constable, calls a medical practitioner to examine the complainant, it shall be the duty of that medical practitioner (unless the complainant expresses a contrary wish or unless the medical practitioner is satisfied that the sexual violation did not involve the penetration of the complainant's genitalia by a penis)—
   (a) to advise the complainant of a contraceptive precaution she may take in order to avoid the risk of pregnancy, and to supply to her or authorise the supply to her of any contraceptive for that purpose; or
-  (b) to advise her of her right to obtain such service from another medical practitioner or a family planning clinic.
+  (b) to advise her of her right to obtain such service from an alternative person who is a provider of contraceptive services and how to access the contact details of such a person.
 (2) Without limiting subsection (1), where any patient complains of sexual violation to any medical practitioner (whether or not she also lays a complaint of sexual violation with the Police), it shall be the duty of that medical practitioner to comply with the terms of that subsection.
 (3) Without limiting anything in Part 4 of the Health Practitioners Competence Act 2003, every medical practitioner who fails to comply with subsection (1) or subsection (2) is guilty of professional misconduct, and must be dealt with under that Act accordingly.
+(3A) If a medical practitioner referred to in subsection (1) or (2) has a conscientious objection to supplying or authorising the supply to the complainant of any contraceptive, the medical practitioner must tell the complainant—
+  (a) of their conscientious objection at the earliest opportunity; and
+  (b) how to access the contact details of another person who is a provider of contraceptive services.
 (4) In this section sexual violation has the same meaning as it has in section 128 of the Crimes Act 1961.
 
 ### 6 Standards for manufacture of condoms
@@ -83,275 +95,238 @@ Notwithstanding anything in any enactment or rule of law to the contrary, no per
 
 **Abortion**
 
-### 10 Constitution of Abortion Supervisory Committee
-(1) For the purposes of this Act there shall be a committee, to be known as the Abortion Supervisory Committee.
-(2) The Supervisory Committee shall consist of 3 members, of whom 2 shall be medical practitioners.
-(3) Subject to section 12, every member shall be appointed by the Governor-General on the recommendation of the House of Representatives, and 1 member shall be so appointed as chairman of the Supervisory Committee.
-(4) The powers of the Supervisory Committee shall not be affected by any vacancy in its membership.
+### 10 Provision of abortion services to women not more than 20 weeks pregnant
+A qualified health practitioner may provide abortion services to a woman who is not more than 20 weeks pregnant.
 
-### 11 Term of office of members of Supervisory Committee
-(1) Subject to the succeeding provisions of this section, every member of the Supervisory Committee shall hold office for a term of 3 years, but may from time to time be reappointed.
-(2) Any member of the Supervisory Committee may resign his office at any time by written notice given to the Speaker of the House of Representatives, or to the Prime Minister if there is no Speaker or the Speaker is absent from New Zealand.
-(3) Any member of the Supervisory Committee may be removed from office at any time by the Governor-General upon an address from the House of Representatives for inability to perform the functions of the office, bankruptcy, neglect of duty, or misconduct.
-(4) If any member of the Supervisory Committee dies, resigns, or is removed from office, the vacancy so created shall be filled in the manner in which the appointment to the vacant office was originally made, and every person appointed under this subsection shall hold office for the remainder of the term for which his predecessor was appointed.
-(5) Every member of the Supervisory Committee, unless he sooner vacates his office under subsection (2) or subsection (3), shall continue in office until his successor comes into office.
+### 11 Provision of abortion services to women more than 20 weeks pregnant
+(1) A qualified health practitioner may only provide abortion services to a woman who is more than 20 weeks pregnant if the health practitioner reasonably believes that the abortion is clinically appropriate in the circumstances.
+(2) In considering whether the abortion is clinically appropriate in the circumstances, the qualified health practitioner must—
+  (a) consult at least 1 other qualified health practitioner; and
+  (b) have regard to—
+    (i) all relevant legal, professional, and ethical standards to which the qualified health practitioner is subject; and
+    (ii) the woman’s—
+      (A) physical health; and
+      (B) mental health; and
+      (C) overall well-being; and
+    (iii) the gestational age of the fetus.
+(3) Subsection (2) does not apply in a medical emergency.
 
-### 12 Manner of appointments
-(1) If any member of the Supervisory Committee dies, or resigns his office, or is removed from office, the vacancy thereby created shall be filled in accordance with this section.
-(2) If any such vacancy occurs at any time while Parliament is in session, it shall be filled by appointment by the Governor-General on the recommendation of the House of Representatives:
-  provided that if the vacancy occurs less than 2 months before the close of that session and no such recommendation is made in that session, the provisions of subsection (3) shall apply as if the vacancy had occurred while Parliament was not in session.
-(3) If any such vacancy occurs at any time while Parliament is not in session, the following provisions shall apply:
-  (a) the Governor-General in Council may appoint a person to fill the vacancy, and the person so appointed shall, unless his office sooner becomes vacant, hold office until his appointment is confirmed by the House of Representatives:
-  (b) if the appointment is not so confirmed within 2 months after the commencement of the next ensuing session, the appointment shall lapse and there shall be deemed to be a further vacancy in the membership of the Supervisory Committee.
+### 12 Counselling
+(1) A health practitioner must advise a woman of the availability of counselling services if the woman—
+  (a) seeks advice or information about whether to continue or terminate a pregnancy; or
+  (b) advises the health practitioner of the wish to terminate a pregnancy; or
+  (c) has terminated a pregnancy.
+(2) A qualified health practitioner may not, as a condition of providing abortion services to a woman, require the woman to attend counselling before or after the provision of those services.
 
-### 13 Deputies of members
-(1) In any case where any member of the Supervisory Committee is incapacitated by illness, absence, or other sufficient cause from performing the duties of his office, the Governor-General may appoint a person to act in the place of that member during his incapacity.
-(2) The power conferred by subsection (1) shall be exercised only on a certificate signed by the chairman of the Supervisory Committee to the effect that, in his opinion, the temporary appointment is necessary for the due conduct of the business of the Committee.
-(3) The provisions of section 12 shall apply, with any necessary modifications, to the temporary appointment of a member under this section as if the member were being appointed under that section to fill a vacancy.
-(4) Any person appointed under this section shall, while he acts as such, be deemed to be a member of the Supervisory Committee, and any person appointed in the place of the chairman shall have all the powers of the chairman.
-(5) No appointment of a person under this section and no acts done by him while acting as a member of the Supervisory Committee, and no acts done by the Supervisory Committee while any person is acting as such, shall in any proceedings be questioned on the ground that the occasion for his appointment had not arisen or had ceased.
+### 13 Self-referral to abortion services
+A qualified health practitioner may not, as a condition of providing abortion services to a woman, require the woman to be referred from a health practitioner.
 
-### 14 Functions and powers of Supervisory Committee
-(1) The Supervisory Committee shall have the following functions:
-  (a) to keep under review all the provisions of the abortion law, and the operation and effect of those provisions in practice:
-  (b) to receive, consider, grant, and refuse applications for licences or for the renewal of licences under this Act, and to revoke any such licence:
-  (c) to prescribe standards in respect of facilities to be provided in licensed institutions for the performance of abortions:
-  (d) to take all reasonable and practicable steps to ensure—
-    (i) that licensed institutions maintain adequate facilities for the performance of abortions; and
-    (ii) that all staff employed in licensed institutions in connection with the performance of abortions are competent:
-  (e) to take all reasonable and practicable steps to ensure that sufficient and adequate facilities are available throughout New Zealand for counselling women who may seek advice in relation to abortion:
-  (f) to recommend maximum fees that may be charged by any person in respect of the performance of an abortion in any licensed institution or class of licensed institutions, and maximum fees that may be charged by any licensed institution or class of licensed institutions for the performance of any services or the provision of any facilities in relation to any abortion:
-  (g) to obtain, monitor, analyse, collate, and disseminate information relating to the performance of abortions in New Zealand:
-  (h) to keep under review the procedure, prescribed by sections 32 and 33, whereby it is to be determined in any case whether the performance of an abortion would be justified:
-  (i) to take all reasonable and practicable steps to ensure that the administration of the abortion law is consistent throughout New Zealand, and to ensure the effective operation of this Act and the procedures thereunder:
-  (j) from time to time to report to and advise the Minister of Health and any district health board established by or under the New Zealand Public Health and Disability Act 2000 on the establishment of clinics and centres, and the provision of related facilities and services, in respect of contraception and sterilisation:
-  (k) to report annually to Parliament on the operation of the abortion law.
-(2) The Supervisory Committee shall have all such reasonable powers, rights, and authorities as may be necessary to enable it to carry out its functions.
+**Miscellaneous provisions**
 
-### 15 Supervisory Committee may appoint advisory and technical committees
-(1) The Supervisory Committee may from time to time appoint advisory committees, technical committees, and other committees to advise it on such matters as it may refer to them.
-(2) Every such committee may, in addition and on its own initiative, furnish to the Supervisory Committee reports on any matter in respect of which the members of the committee have special knowledge or experience.
-(3) Any person may be appointed to be a member of any such committee, notwithstanding that he is not a member of the Supervisory Committee.
-(4) Every such committee shall in all matters be subject to the control of the Supervisory Committee, and shall carry out all directions, general or special, of the Supervisory Committee in relation to the Supervisory Committee or its affairs.
-(5) Subject to the provisions of this Act, every committee appointed under this section may regulate its procedure in such manner as it thinks fit.
+### 14 Conscientious objection
+(1) This section applies to a person (A) who is requested by another person (B) to provide, or assist with providing, any of the following services:
+  (a) contraception services:
+  (b) sterilisation services:
+  (c) abortion services:
+  (d) information or advisory services about whether to continue or terminate a pregnancy.
+(2) If A has a conscientious objection to providing, or to assisting with providing, to B the service requested, A must tell B at the earliest opportunity—
+  (a) of their conscientious objection; and
+  (b) how to access the contact details of another person who is the closest provider of the service requested.
+(3) In subsection (2)﻿(b), the closest provider is to be determined taking into account—
+  (a) the physical distance between the providers; and
+  (b) the date and time that B makes the request under subsection (1); and
+  (c) the operating hours of the provider of the service requested.
+(4) This section does not override a health practitioner’s professional and legal duty to provide prompt and appropriate medical assistance to any person in a medical emergency.
 
-### 16 Supervisory Committee may co-opt specialist advice
-(1) The Supervisory Committee, and any advisory or technical committee appointed by the Supervisory Committee, may from time to time invite any person, or any officer employed in any government department, or a representative of any organisation who, in its opinion, possesses expert knowledge or is otherwise able to assist it in connection with the exercise of its functions, to attend any of its meetings or to advise it on any matter with which it is concerned.
-(2) Any person attending a meeting under this section may, if invited, take part in any discussion at the meeting, but shall not participate in the determination of any question before the meeting.
+### 15 Employer providing certain services must accommodate conscientious objection of applicant or employee unless it would cause unreasonable disruption
+(1) An employer that provides any of the services specified in section 14(1) may not take any of the following actions on the basis that an applicant for employment, or an employee, who is qualified for work in connection with the provision of those services, has a conscientious objection:
+  (a) refuse or omit to employ the applicant for work that is available; or
+  (b) offer or afford the applicant or the employee less favourable terms of employment, conditions of work, superannuation or other fringe benefits, and opportunities for training, promotion, and transfer than are made available to applicants or employees of the same or substantially similar capabilities employed in the same or substantially similar work; or
+  (c) terminate the employment of the employee in circumstances in which the employment of other employees employed in the same or substantially similar work would not be terminated; or
+  (d) subject the employee to any detriment in circumstances in which other employees employed in the same or substantially similar work would not be subjected to such detriment; or
+  (e) retire the employee, or to require or cause the employee to retire or resign.
+(2) However, if accommodating an applicant’s or employee’s conscientious objection would unreasonably disrupt the employer’s provision of health services, the employer may take any of the actions described in subsection (1).
+(3) Accommodating an applicant’s or employee’s conscientious objection may include arranging for the duties in respect of which the applicant or employee has an objection to be carried out by an existing employee.
+(4) An applicant or employee who alleges that an employer has contravened this section may make a complaint under the Human Rights Act 1993 as if the complaint were a complaint of unlawful discrimination under section 22 of that Act.
+(5) If an applicant or employee who alleges that an employer has contravened this section is entitled to pursue a personal grievance under the Employment Relations Act 2000, the applicant or employee may take either, but not both, of the following steps:
+  (a) apply to the Employment Relations Authority for the resolution of the grievance under that Act; or
+  (b) make a complaint under the Human Rights Act 1993.
+(6) In this section, employer has the meaning given in section 2 and also includes—
+  (a) the person for whom work is done by an independent contractor; and
+  (b) the person for whom work is done by contract workers under a contract between that person and the person who supplies the contract workers; and
+  (c) the person for whom work is done by an unpaid worker.
 
-### 17 Crown may provide services for Supervisory Committee
-(1) The Crown, acting through any department of State, may from time to time, at the request of the Supervisory Committee, execute any work or enter into arrangements for the execution or provision by the department for the Supervisory Committee of any work or service, or for the supply to the Supervisory Committee of any goods, stores, or equipment, on and subject to such terms and conditions as may be agreed.
-(2) Without limiting subsection (1), the Secretary for Justice shall from time to time, at the request of the Supervisory Committee, provide the Supervisory Committee with all such secretarial and clerical services as may be necessary or desirable to enable the Supervisory Committee to perform its functions efficiently.
-(2A)
-(3) Any hospital care operator (within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001) may from time to time, at the request of the Supervisory Committee, execute any work or enter into any arrangements for the execution or provision by that operator for the Supervisory Committee of any work or service, or for the supply to the Supervisory Committee of any goods, stores, or equipment, on and subject to such terms and conditions as may be agreed.
+### 16 Minister of Health to ensure availability of certain services
+(1) The Minister of Health must, when entering into Crown funding agreements under the New Zealand Public Health and Disability Act 2000, take reasonable steps to ensure that—
+  (a) the following services are available throughout New Zealand:
+    (i) the services specified in section 14(1); and
+    (ii) counselling services in relation to, or in connection with, the provision of abortion services; and
+  (b) the following services are provided in accordance with the standards published by the Director-General under section 19(1)﻿(b):
+    (i) abortion services:
+    (ii) counselling services in relation to, or in connection with, the provision of abortion services.
+(2) To meet the obligation under subsection (1)﻿(a)﻿(i), the Minister of Health must ensure that access to emergency contraception is available throughout New Zealand within 48 hours of it being requested by any person.
+(3) In this section, emergency contraception means a contraceptive precaution to avoid the risk of pregnancy to be taken after a sexual connection has occurred.
 
-### 18 Restrictions on where abortions may be performed
-(1) Subject to the provisions of this Act, no abortion shall be performed elsewhere than in an institution licensed for the purpose in accordance with this Act.
-(2) Subject to the provisions of this Act, no abortion shall be performed, after the pregnancy has subsisted for at least 12 weeks, elsewhere than in an institution in respect of which a full licence is for the time being in force under this Act.
+### 17 Duty of Director-General to undertake periodic reviews of certain matters
+(1) Not later than 5 years after the commencement of this section, and then at subsequent intervals of not more than 5 years, the Director-General must—
+  (a) review whether there is timely and equitable access to—
+    (i) the services specified in section 14(1); and
+    (ii) counselling services in relation to, or in connection with, the provision of abortion services; and
+  (b) report to the Minister of Health on—
+    (i) the outcomes of the review; and
+    (ii) the recommendations that the Director-General considers appropriate (if any) for improving the timely and equitable access to those services.
+(2) The review and report under subsection (1) must include consideration of the relative costs throughout New Zealand for women accessing those services.
 
-### 19 Types and effect of licences
-(1) The Supervisory Committee may from time to time, in accordance with this Act, issue in respect of any institution—
-  (a) a full licence; or
-  (b) a limited licence.
-(2) A full licence shall authorise the holder to permit the performance of abortions in the institution to which the licence relates regardless of the length of time for which the pregnancy has been continuing.
-(3) A limited licence shall authorise the holder to permit the performance of abortions in the institution to which the licence relates only during the first 12 weeks of the pregnancy.
+### 18 Duty of Director-General to compile, maintain, and make available list of abortion service providers
+(1) The Director-General must compile and maintain a list of the names and contact details of abortion service providers in New Zealand.
+(2) The Director-General may not include in the list the name and contact details of any abortion service provider who advises the Director-General that they do not want their name and contact details included in the list.
+(3) The Director-General must ensure that the list, or the information on the list, is accessible to any person on request.
 
-### 20 Applications for licences
-(1) An application for a licence may be made by—
-  (a) in the case of a hospital, the person for the time being in charge of it; or
-  (b)
-  (c) in the case of any other institution, the person for the time being in charge of the institution.
-(2) Every application shall—
-  (a) be addressed to the Supervisory Committee; and
-  (b) be in the prescribed form; and
-  (c) state which type of licence is desired; and
-  (d) be accompanied by the prescribed fee.
+### 19 Duty of Director-General to collect, collate, analyse, and publish information
+(1) The Director-General must—
+  (a) collect, collate, analyse, and publish information about the provision of—
+    (i) abortion services in New Zealand; and
+    (ii) counselling services in relation to, or in connection with, the provision of abortion services; and
+  (b) develop and publish standards for the services described in paragraph (a).
+(2) However, the Director-General must not publish, under subsection (1)﻿(a), any information in a form that could reasonably be expected to identify a woman who has been, or is being, provided with abortion services or counselling services.
 
-### 21 Grant of licences
-(1) On receiving an application for a full licence in respect of any institution, the Supervisory Committee shall grant such a licence in respect of that institution only if it is satisfied—
-  (a) that there are, in the institution, adequate facilities for the accommodation of patients for 1 or more nights; and
-  (b) that there are, in the institution, adequate surgical and other facilities, and adequate and competent staff, for the safe performance of abortions; and
-  (c) that there are, in the institution, adequate accommodation, surgical and other facilities, and competent staff to provide treatment and care of patients suffering complications arising while they are awaiting, undergoing, or recuperating from an abortion; and
-  (d) that the person who will be the holder of the licence if the application is granted is a fit and proper person to hold such a licence; and
-  (e) that adequate counselling services are available to women considering having an abortion in the institution, and are offered to such women whether or not they ultimately have an abortion.
-(2) On receiving an application for a limited licence in respect of any institution, the Supervisory Committee shall grant such a licence in respect of that institution only if it is satisfied—
-  (a) there is a need for a or another licensed institution in the area in which the institution to which the application relates is situated; and
-  (b) that there are, in the institution, adequate surgical and other facilities, and adequate and competent staff, for the safe performance of abortions; and
-  (c) that adequate arrangements have been made with any other hospital or institution for the transfer of any patient suffering complications arising while she is awaiting, undergoing, or recuperating from an abortion to that other hospital or institution for treatment and care; and
-  (d) that the person who will be the holder of the licence if the application is granted is a fit and proper person to hold such a licence; and
-  (e) that adequate counselling services are available to women considering having an abortion in the institution, and are offered to such women whether or not they ultimately have an abortion.
-(3) Notwithstanding anything in subsection (1) or subsection (2), on considering an application for a full licence, the Supervisory Committee may, with the consent of the applicant, grant a limited licence if it is satisfied in respect of the matters specified in subsection (2) but is not satisfied in respect of the matters specified in subsection (1).
-(4) Subject to the provisions of sections 26 and 27, the decision of the Supervisory Committee in respect of every application for a licence shall be final.
-(5) Where the Supervisory Committee refuses to grant an application for a licence, it shall, if requested to do so by the applicant, give to the applicant a written statement of its reasons for refusing the application.
+### 20 Abortion service provider to notify Director-General about abortion services provided
+(1) An abortion service provider must notify the Director-General after the following services are provided by or through the provider:
+  (a) a surgical abortion; or
+  (b) a medicine is prescribed or administered for the purpose of inducing an abortion.
+(2) A notification must include, in relation to the provision of the services referred to in subsection (1),—
+  (a) the information specified in Schedule 2; and
+  (b) such other information the Director-General may require.
+(3) However, in no case may the information provided under this section include the name of the woman to whom the abortion service was provided.
+(4) A notification must be given—
+  (a) not later than 1 month after the provision of the abortion service; and
+  (b) in the form or manner required by the Director-General.
+(5) This section is repealed on the expiry of 18 months after the date on which it comes into force.
 
-### 22 Issue of licences
-Where the Supervisory Committee grants an application for a licence, it shall, on payment to it of the prescribed fee, issue to the applicant a full licence or, as the case may require, a limited licence in the prescribed form.
+### 21 Abortion for sole purpose of sex selection
+(1) This Parliament opposes the performance of abortions being sought solely because of a preference for the fetus to be of a particular sex.
+(2) Not later than 5 years after the commencement of this section, and then at subsequent intervals of not more than 5 years, the Director-General must—
+  (a) review whether there is any evidence of abortions being sought solely because of a preference for the fetus to be of a particular sex; and
+  (b) report to the Minister of Health on—
+    (i) the outcome of the review; and
+    (ii) if there is such evidence, any recommendations that the Director-General considers appropriate for preventing abortions being sought solely because of a preference for the fetus to be of a particular sex.
 
-### 23 Duration of licences
-Subject to the provisions of section 24, every licence shall, unless sooner cancelled under this Act, continue in force for 1 year commencing with the date of its issue, and shall then expire.
+### 22 Reports to be presented to House of Representatives
+As soon as practicable after receiving a report under section 17(1) or 21(2), the Minister of Health must present a copy of the report to the House of Representatives.
+
+### 23 General regulation-making power
+The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+  (a) enabling the Director-General of Health to collect information that may be required to enable the Director-General to discharge the Director-General’s duties specified in section 17, 18, 19, or 21:
+  (b) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 
 ### 24 Renewal of licences
-(1) Every holder of a licence may from time to time apply to the Supervisory Committee for the renewal of the licence for a further period of 1 year.
-(2) Every such application shall be made not earlier than 3 months and not later than 1 month before the date of expiry of the licence, and shall be accompanied by the prescribed fee.
-(3) On receiving an application for the renewal of a licence, the Supervisory Committee shall grant the application unless it is satisfied—
-  (a) that the institution no longer complies with the requirements of subsection (1) or (as the case may require) subsection (2) of section 21; and
-  (b) that the holder of the licence has not, during the currency of the licence, taken all reasonable and practicable steps to ensure that the provisions of the abortion law were complied with in the institution.
-(4) Subject to the provisions of sections 26 and 27, the decision of the Supervisory Committee in respect of every application for the renewal of a licence shall be final.
-(5) Where the Supervisory Committee refuses to grant an application for the renewal of a licence, it shall notify the applicant of its decision, and shall, if requested to do so by the applicant, give to the applicant a written statement of its reasons for refusing to renew the licence.
-(6) Where an application for the renewal of a licence is made in accordance with subsection (2) but is not determined before the date on which the licence is due to expire, the licence shall continue in force until the application is determined.
+[Repealed]
 
 ### 25 Cancellation of licences
-(1) In any case where the Supervisory Committee believes, in respect of any licensed institution,—it may, by notice in writing addressed to the holder, call upon him to show cause why the licence should not be cancelled.
-  (a) that it no longer meets the requirements of subsection (1) or (as the case may require) subsection (2) of section 21; or
-  (b) that the holder of the licence has failed to take all reasonable and practicable steps to ensure that the provisions of the abortion law were complied with in the institution,—
-(2) If, after considering any representations made to it and evidence put before it by the holder of the licence, and all such other matters as it considers relevant, the Supervisory Committee is satisfied of either of the matters specified in subsection (1), it may cancel the licence.
-(3) Where the Supervisory Committee cancels any licence, it shall notify the holder accordingly, and shall, if requested to do so by the holder, give to the holder a written statement of its reasons for cancelling the licence.
+[Repealed]
 
 ### 26 Appeals on questions of law to High Court
-(1) A person who is dissatisfied with a decision of the Supervisory Committee—as being erroneous in law, may appeal to the High Court by way of case stated for the opinion of the court on a question of law only.
-  (a) refusing an application for the issue or renewal of a licence; or
-  (b) cancelling a licence,—
-(2)
-(3) Within 28 days after the date of the determination or decision, the appellant shall lodge a notice of appeal with the Secretary.
-(4) Within 14 days after the lodging of the notice of appeal, or within such further time as the chairman of the Supervisory Committee may in his discretion allow, the appellant shall state in writing and lodge with the Secretary a case setting out the facts and the grounds of the determination or decision and specifying the question of law on which the appeal is made.
-(5) As soon as practicable after the lodging of the case, the Secretary shall cause it to be submitted to the chairman of the Supervisory Committee.
-(6) The chairman shall, as soon as practicable, and after hearing the applicant if he considers it necessary to do so, settle the case, sign it, and cause it to be sent to the Secretary. The settling and signing of the case shall be deemed to be the statement of the case by the Supervisory Committee.
-(7) The Secretary shall send the signed case to the proper office of the High Court, and shall make a copy available to the appellant.
-(8) If, within 14 days after the filing of the notice of appeal, or within such further time as may be allowed, the appellant does not lodge a case pursuant to subsection (4), the chairman of the Supervisory Committee may certify that the appeal has not been prosecuted.
-(9) The court or a Judge thereof may in its or his discretion, on the application of the appellant or the intending appellant, extend any time prescribed or allowed under this section for the filing of a notice of appeal or the stating of any case.
+[Repealed]
 
 ### 27 Appeals against decisions of High Court
-(1) If the appellant before the High Court is dissatisfied with any final determination of the court in respect of the appeal as being erroneous in law, he may appeal to the Court of Appeal by way of case stated for the opinion of that court on a question of law.
-(2) Within 14 days after the date of the determination or decision, the appellant shall file a notice of appeal with the Registrar of the High Court at Wellington. The appellant shall forthwith deliver or post a copy of the notice to the Secretary.
-(3) Within 14 days after the filing of the notice of appeal, or within such further time as the Judge before whom the proceedings were heard may in his discretion allow, the appellant shall state in writing and file with the Registrar a case setting out the facts and the grounds of the determination or decision and specifying the question of law on which the appeal is made. The appellant shall forthwith deliver or post a copy of the case to the Secretary.
-(4) As soon as practicable after the filing of the case, the Registrar shall cause it to be submitted to the Judge before whom the proceedings were heard.
-(5) The Judge shall, as soon as practicable, and after hearing the parties if he considers it necessary to do so, settle the case, sign it, and cause it to be sent to the Registrar. The settling and signing of the case shall be deemed to be the statement of the case by the court.
-(6) Where, since the date of the determination or decision, the Judge before whom the proceedings were heard has ceased to hold office as such or died or left New Zealand, or is incapable by reason of sickness or otherwise from acting as such, the case may be submitted to any Judge of the High Court and may be settled and signed by him.
-(7) The Registrar shall send the signed case to the Registrar of the Court of Appeal, and shall make a copy available to the appellant.
-(8) If within 14 days after the filing of the notice of appeal, or within such further time as may be allowed, the appellant does not file a case pursuant to subsection (3), the Judge may certify that the appeal has not been prosecuted.
-(9) The High Court or a Judge of that court may in its or his discretion, on the application of the appellant or intending appellant, extend any time prescribed or allowed under this section for the filing of a notice of appeal or the stating of any case.
-(10) Subject to the foregoing provisions of this section, appeals under this section shall be heard in accordance with the rules of court.
+[Repealed]
 
 ### 28 Supervisory Committee may state case for High Court
-(1) The Supervisory Committee may, of its own motion or on the application of any interested party, state a case for the opinion of the High Court on any question of law arising in any matter before the Supervisory Committee.
-(2)
+[Repealed]
 
 ### 29 Abortions not to be performed unless authorised by 2 certifying consultants
-Subject to the provisions of this Act, no abortion shall be performed unless and until it is authorised by 2 certifying consultants.
+[Repealed]
 
 ### 30 Supervisory Committee to set up and maintain list of certifying consultants
-(1) The Supervisory Committee shall set up and maintain a list of medical practitioners (in this Act termed certifying consultants) who may be called upon to consider cases referred to them by any medical practitioner and determine, in accordance with section 33, whether to authorise an abortion.
-(2) Before drawing up the list, the Supervisory Committee shall determine the minimum number of certifying consultants required to ensure, so far as possible, that every woman seeking an abortion has her case considered expeditiously, and shall make that number of appointments in accordance with this section. Thereafter, the Committee shall keep that number under review, and shall from time to time make such further appointments, or revoke such number of appointments, as it considers necessary to meet any change in the circumstances.
-(3) Having determined the number of appointments to be made, the Supervisory Committee shall consult with the New Zealand Medical Association, and may consult with any other professional or other body, before determining whom to appoint.
-(4) In making appointments to the list, the Supervisory Committee shall ensure that the following requirements are met:
-  (a) at least one-half of the total number of appointees shall be practising obstetricians or gynaecologists, and the list shall be marked in such a way as to indicate which of the appointees are so qualified:
-  (b) there shall be a sufficient number of appointees practising in each area of New Zealand to ensure that every woman seeking an abortion can have her case considered without involving her in considerable travelling or other inconvenience.
-(5) In addition, in making such appointments, the Supervisory Committee shall have regard to the desirability of appointing medical practitioners whose assessment of cases coming before them will not be coloured by views in relation to abortion generally that are incompatible with the tenor of this Act. Without otherwise limiting the discretion of the Supervisory Committee in this regard, the following views shall be considered incompatible in that sense for the purposes of this subsection:
-  (a) that an abortion should not be performed in any circumstances:
-  (b) that the question of whether an abortion should or should not be performed in any case is entirely a matter for the woman and a doctor to decide.
-(6) Every appointment to the list of certifying consultants shall be for a term of 1 year, but the Supervisory Committee may reappoint any practitioner on the expiry of his term.
-(7) The Supervisory Committee may at any time, at its discretion, revoke the appointment of any certifying consultant.
+[Repealed]
 
 ### 31 Supervisory Committee to appoint or approve counselling services
-(1) For the purposes of this Act, the Supervisory Committee shall from time to time—
-  (a) appoint suitably qualified persons to provide counselling services for persons considering having an abortion; or
-  (b) approve any agency for the provision of such counselling services.
-(2) In appointing or approving persons or agencies for the provision of counselling services under this section, the Supervisory Committee shall have regard to the following matters:
-  (a) every counselling service should be directed by an experienced and professionally trained social worker:
-  (b) that suitably trained lay counsellors may also be used where there are insufficient professional social workers:
-  (c) every counsellor should be thoroughly familiar with all relevant social services and agencies, and able to advise patients, or refer them to appropriate agencies for advice, on alternatives to abortion, such as adoption and solo parenthood.
+[Repealed]
 
 ### 32 Procedure where woman seeks abortion
-(1) Every medical practitioner (in this section referred to as the woman's own doctor) who is consulted by or in respect of a female who wishes to have an abortion shall, if requested to do so by or on behalf of that female, arrange for the case to be considered and dealt with in accordance with the succeeding provisions of this section and of section 33.
-(2) If, after considering the case, the woman's own doctor considers that it may be one to which any of paragraphs (a) to (d) of subsection (1), or (as the case may require) subsection (3), of section 187A of the Crimes Act 1961 applies, he shall comply with whichever of the following provisions is applicable, namely:
-  (a) where he does not propose to perform the abortion himself, he shall refer the case to another medical practitioner (in this section referred to as the operating surgeon) who may be willing to perform an abortion (in the event of it being authorised in accordance with this Act); or
-  (b) where he proposes to perform the abortion himself (in the event of it being authorised in accordance with this Act), he shall—
-    (i) if he is himself a certifying consultant, refer the case to one other certifying consultant (who shall be a practising obstetrician or gynaecologist if the woman's own doctor is not) with a request that he, together with the woman's own doctor, determine, in accordance with section 33, whether or not to authorise the performance of an abortion; or
-    (ii) if he is not himself a certifying consultant, refer the case to 2 certifying consultants (of whom at least 1 shall be a practising obstetrician or gynaecologist) with a request that they determine, in accordance with section 33, whether or not to authorise the performance of an abortion.
-(3) Where an operating surgeon to whom a case is referred under subsection (2)﻿(a) is satisfied, after considering the case, that it is one to which any of paragraphs (a) to (d) of subsection (1), or (as the case may require) subsection (3), of section 187A of the Crimes Act 1961 applies, he shall, if he is willing to perform the abortion, either—
-  (a) if he is himself a certifying consultant, refer the case to 1 other certifying consultant (who shall be a practising obstetrician or gynaecologist if the operating surgeon is not, and who shall not be the woman's own doctor) with a request that he, together with the operating surgeon, determine, in accordance with section 33, whether or not to authorise an abortion; or
-  (b) if he is not himself a certifying consultant, refer the case to 2 certifying consultants (of whom at least 1 shall be a practising obstetrician or gynaecologist, and of whom 1 may be the woman's own doctor) with a request that they determine, in accordance with section 33, whether or not to authorise the performance of an abortion.
-(4) Where any medical practitioner is required to refer any case to any other practitioner under this section, he shall refer it in accordance with the procedure for the time being prescribed by the Supervisory Committee.
-(5) As soon as practicable after a case is referred to him, each certifying consultant shall consider the case and shall, if requested to do so by the patient, interview her; and at any such interview she shall be entitled to be accompanied by her own doctor (if he agrees).
-(6) The woman's own doctor and the proposed operating surgeon shall be entitled (with the patient's consent) to make such representations and to adduce such medical or other reports concerning the case as he thinks fit to each certifying consultant.
-(7) Every certifying consultant may, in considering any case, with the consent of the patient, consult with any other person (whether or not a medical practitioner) as he thinks fit in order to assist him in his consideration of the case, but he shall not disclose the patient's identity without her consent.
-(8) Notwithstanding anything in this section, or in section 33, no certifying consultant shall be obliged to determine any case without first interviewing and examining the patient.
+[Repealed]
 
 ### 33 Determination of case
-(1) If, after considering the case, the certifying consultants are of the opinion that the case is one to which any of paragraphs (a) to (d) of subsection (1), or (as the case may require) subsection (3), of section 187A of the Crimes Act 1961 applies, they shall forthwith issue in accordance with subsection (5) of this section, a certificate in the prescribed form authorising the performance of an abortion.
-(2) If the certifying consultants are of the contrary opinion, they shall refuse to authorise the performance of an abortion.
-(3) If one of the certifying consultants is of the opinion that the case is one to which any of the said provisions applies and the other consultant is of the contrary opinion, they shall refer the case to another medical practitioner for his opinion, being a medical practitioner who is on the list of certifying consultants maintained under section 30(1).
-(4) If that other medical practitioner is of the opinion that the case is one to which any of the said provisions applies, the certifying consultant who is of the same opinion shall issue, in accordance with subsection (5), a certificate in the prescribed form authorising the performance of an abortion.
-(5) Where 2 certifying consultants determine that they should authorise an abortion, they shall forward the said certificate to the holder of the licence in respect of the licensed institution in which the abortion is to be performed.
-(5A) Where the operating surgeon is not one of the certifying consultants issuing the certificate, he shall endorse on the certificate a statement that he is willing to perform an abortion on the patient to whom the certificate relates, but a failure to comply with this requirement shall not invalidate the certificate for the purposes of section 37(1)﻿(b) of this Act or section 187A(4) of the Crimes Act 1961.
-(6) If, in respect of any case, any certifying consultant has not reached a decision within 14 days after it was referred to him, he shall advise the Supervisory Committee in writing of the matter, and of the reasons for the delay.
+[Repealed]
 
 ### 33A Performance of abortion by other practitioner
-Nothing in section 32 or section 33 shall prohibit the performance of an abortion duly authorised in accordance with those sections by any medical practitioner who is not the operating surgeon within the meaning of section 32.
+[Repealed]
 
 ### 34 Special provisions where patient mentally subnormal
-In any case where the patient lacks the capacity to consent, by reason of any mental incapacity, to an abortion, the persons charged, under section 33, with determining whether to authorise the abortion shall, before determining the case, consult with a medical practitioner or other person believed by them to be qualified and experienced in the field and able to make an assessment of the patient's condition and the likely effect on it of the continuance of the pregnancy or an abortion.
+[Repealed]
 
 ### 35 Counselling
-When the certifying consultants have made a decision in any case (whether they have decided to authorise or to refuse to authorise the performance of an abortion), they shall (in consultation, where practicable, with the woman's own doctor) advise her of her right to seek counselling from any appropriate person or agency.
+[Repealed]
 
 ### 36 Certifying consultants to keep records and submit reports
-(1) Every certifying consultant shall keep such records and submit to the Supervisory Committee such reports relating to cases considered by him and the performance of his functions in relation to such cases as the Supervisory Committee may from time to time require.
-(2) No such report shall give the name or address of any patient.
+[Repealed]
 
 ### 37 Offences
-(1) Every person who—commits an offence and is liable on conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $1,000.
-  (a) performs an abortion elsewhere than in a licensed institution; or
-  (b) performs an abortion otherwise than in pursuance of a certificate issued by 2 certifying consultants under section 33,—
-(2) Nothing in subsection (1) shall apply to the performance of an abortion by a medical practitioner who believes that abortion is immediately necessary to save the life of the patient or to prevent serious permanent injury to her physical or mental health.
-(3) It shall be a defence to a charge brought under subsection (1)﻿(b) if the defendant shows that he believed that a certificate had been issued in respect of the patient.
+[Repealed]
 
 ### 38 Crimes Act 1961 not affected
-Nothing in sections 11 to 37 shall limit or affect any of the provisions of the Crimes Act 1961.
+[Repealed]
 
 ### 39 Annual report
-Once in every year the Supervisory Committee shall prepare and submit to Parliament a report of its activities during the preceding 12 months.
+[Repealed]
 
 ### 40 Protection of persons acting in good faith
-No member of the Supervisory Committee, and no certifying consultant, shall be personally liable for any act done or omitted to be done by it or him in good faith in pursuance of the powers conferred on it or him by this Act.
+[Repealed]
 
 ### 41 Fees and travelling allowances
-(1) The Supervisory Committee is hereby declared to be a statutory board within the meaning of the Fees and Travelling Allowances Act 1951.
-(2) There shall be paid to the members of the Supervisory Committee, and of every committee appointed by it, and to every person co-opted under section 16 by the Supervisory Committee or any committee appointed by it, and to every certifying consultant, out of money from time to time appropriated by Parliament for the purpose, remuneration by way of salary, fees, and allowances and travelling allowances and expenses, in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if, in the case of each such committee, the committee were a statutory board within the meaning of that Act, and as if, in the case of every certifying consultant, he were a member of such a board.
+[Repealed]
 
 ### 42 Costs of administration
-(1) The costs of and incidental to the administration and operation of this Act shall be met out of money from time to time appropriated by Parliament for the purpose.
-(2) All fees from time to time payable under this Act shall be paid into a Departmental Bank Account.
+[Repealed]
 
 ### 43 Regulations
-The Governor-General may from time to time by Order in Council make regulations for all or any of the following purposes:
-  (a) prescribing forms to be used for the purposes of this Act:
-  (b) prescribing fees to be paid on applications under this Act:
-  (c) prescribing maximum fees that may be charged by any person or institution or class of persons or institutions in respect of the performance of abortions and the provision of services in respect thereof:
-  (d) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
+[Repealed]
 
 ### 44 Female procuring her own miscarriage
-(1) Every female commits an offence and is liable on conviction to a fine not exceeding $200 who, with intent to procure miscarriage, whether she is pregnant or not,—
-  (a) unlawfully administers to herself, or permits to be administered to her, any poison or any drug or any noxious thing; or
-  (b) unlawfully uses on herself, or permits to be used on her, any instrument; or
-  (c) unlawfully uses on herself, or permits to be used on her, any other means whatsoever.
-(2) For the purposes of subsection (1) the term miscarriage means—
-  (a) the destruction or death of an embryo or fetus after implantation; or
-  (b) the premature expulsion or removal of an embryo or fetus after implantation, otherwise than for the purpose of inducing the birth of a fetus believed to be viable or removing a fetus that has died.
-(3) For the purpose of determining whether any act referred to in subsection (1) is or is not done unlawfully the provisions of section 187A of the Crimes Act 1961, so far as they are applicable and with the necessary modifications, shall apply.
-(4) The provisions of subsection (1) shall apply whether or not the poison, drug, thing, instrument, or means administered or used was in fact capable of procuring miscarriage.
+[Repealed]
 
 ### 45 Records of abortions to be forwarded to Supervisory Committee
-(1) Without limiting anything in section 36, every medical practitioner who performs an abortion, or any other medical or surgical procedure that could lead to or effect a subsequent unnatural miscarriage, shall make a record thereof and of the reasons therefor, and shall, within 1 month after performing the abortion or other procedure, forward a copy of the record to the Supervisory Committee.
-(2) No such record shall give the name or address of the patient.
-(3) The Hospitals Amendment Act 1975 is hereby repealed.
+[Repealed]
 
 ### 46 Conscientious objection
-(1) Notwithstanding anything in any other enactment, or any rule of law, or the terms of any oath or of any contract (whether of employment or otherwise), no medical practitioner, nurse, or other person shall be under any obligation—if he objects to doing so on grounds of conscience.
-  (a) to perform or assist in the performance of an abortion or any operation undertaken or to be undertaken for the purpose of rendering the patient sterile:
-  (b) to fit or assist in the fitting, or supply or administer or assist in the supply or administering, of any contraceptive, or to offer or give any advice relating to contraception,—
-(2) It shall be unlawful for any employer—
-  (a) to deny to any employee or prospective employee any employment, accommodation, goods, service, right, title, privilege, or benefit merely because that employee or prospective employee objects on grounds of conscience to do any act referred to in subsection (1); or
-  (b) to make the provision or grant to any employee or prospective employee of any employment, accommodation, goods, service, right, title, privilege, or benefit conditional upon that other person doing or agreeing to do any thing referred to in that subsection.
-(3) Every person who suffers any loss by reason of any act or omission rendered unlawful by subsection (2) shall be entitled to recover damages from the person responsible for the act or omission.
-(4) Nothing in this section limits or affects the provisions of section 5.
+[Repealed]
+
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Abortion Legislation Act 2020
+
+### 1 Interpretation
+In this Part,—
+  - **Act** means the Abortion Legislation Act 2020
+  - **commencement date** means the date on which the Act comes into force
+  - **Ministry** means the Ministry of Health.
+
+### 2 Abortion Supervisory Committee disestablished
+(1) On the commencement date, the Abortion Supervisory Committee is disestablished and the term of office of every member of the committee ends.
+(2) No member of the committee is entitled to any compensation in respect of the termination of the member’s office.
+
+### 3 Advisory, technical, and other committees dissolved
+(1) On the commencement date, all advisory, technical, and other committees appointed by the Abortion Supervisory Committee are dissolved and the term of office of every member of a committee ends.
+(2) No member of a committee is entitled to any compensation in respect of the termination of the member’s office.
+
+### 4 Assets, liabilities, and information of Abortion Supervisory Committee
+(1) On the commencement date, all assets and liabilities of the Abortion Supervisory Committee in existence immediately before the commencement date are vested in the Crown as assets and liabilities of the Ministry.
+(2) All information held by the Committee immediately before the commencement date is transferred to the Ministry.
+
+### 5 Final report of Abortion Supervisory Committee
+(1) As soon as is reasonably practicable after the commencement date, the Abortion Supervisory Committee must arrange for the final annual report of the Committee to be submitted to Parliament.
+(2) The final annual report must be in respect of the Committee’s activities for the period—
+  (a) commencing on 1 July immediately preceding the commencement date; and
+  (b) ending with the close of the day immediately preceding the commencement date.
+(3) Despite clause 2, the Abortion Supervisory Committee continues in existence for the purpose only of submitting a report to Parliament in accordance with this clause.
+
+### 6 Certifying consultants to submit reports to Director-General of Health
+(1) This clause applies to a person who immediately before the commencement date was a certifying consultant.
+(2) A person to whom this clause applies must, as soon as is reasonably practicable after the commencement date, send to the Director-General of Health any information that the Director-General of Health may require relating to—
+  (a) the cases considered by the person during the pre-commencement reporting period; and
+  (b) the performance of the person’s functions in relation to those cases during the pre-commencement reporting period.
+(3) In this clause, pre-commencement reporting period means the period—
+  (a) commencing on the day after the date on which the person last submitted a report to the Abortion Supervisory Committee under section 36 of the Contraception, Sterilisation, and Abortion Act 1977 (as it read immediately before its repeal by section 8 of the Act); and
+  (b) ending with the close of the day immediately preceding the commencement date.
+
+## Schedule 2 — Information to be included in notification of provision of abortion service
