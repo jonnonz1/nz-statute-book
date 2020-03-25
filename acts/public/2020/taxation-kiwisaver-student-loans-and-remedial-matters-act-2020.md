@@ -1,5 +1,5 @@
 # Taxation (KiwiSaver, Student Loans, and Remedial Matters) Act 2020
-_Consolidation as at 2020-03-23_
+_Consolidation as at 2020-03-25_
 
 ### 1 Title
 This Act is the Taxation (KiwiSaver, Student Loans, and Remedial Matters) Act 2020.
@@ -39,7 +39,7 @@ This Act is the Taxation (KiwiSaver, Student Loans, and Remedial Matters) Act 20
 (32) Sections 190 and 265 come into force on 1 October 2019.
 (33) Sections 243, 244, 249, 250, 251, 252, and 254 come into force on 1 December 2019.
 (34) Section 274 comes into force on 31 March 2020.
-(35) Sections 4(1), (2), and (4), 5, 6, 7, 8, 9, 10(1), 11(1), 12, 13(2) and (3), 14, 15, 16, 17, 18, 19, 20(2), 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 83, 103, 141(2), 147, 148, 150, 151, 152, 155, 156, 161, 163(2), (3), (4), (5), and (6), 165, 167, 170(1) and (3), 172, 173, 175, 176, 178, 180, 181, 183, 185(3), (6), (9), (10), (14), (15), (17), (18), (19), (21), and (24), 188, 192(3), 195, 196, 197(1), (2), (3), (4), and (6), 199 to 202, 203, 206, 207, 208, 209, 220(2), 224(2) and (5), 228, 233, 238, and 271 come into force on 1 April 2020.
+(35) Sections 4(1), (2), and (4), 5, 6, 7, 8, 9, 10(1), 11(1), 12, 13(2) and (3), 14, 15, 16, 17, 18, 19, 20(2), 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 83, 103, 141(2), 147, 148, 150, 151, 152, 156, 161, 163(2), (3), (4), (5), and (6), 165, 167, 170(1) and (3), 172, 173, 175, 176, 178, 180, 181, 183, 185(3), (6), (9), (10), (14), (15), (17), (18), (19), (21), and (24), 188, 192(3), 195, 196, 197(1), (2), (3), (4), and (6), 199 to 202, 203, 206, 207, 208, 209, 220(2), 224(2) and (5), 228, 233, 238, and 271 come into force on 1 April 2020.
 (36) Sections 10(2), 11(2), and 20(1) come into force on 1 April 2022 or on an earlier date set by Order in Council.
 (37) Sections 235 and 239(3) come into force on a date to be set by Order in Council.
 
@@ -1049,24 +1049,7 @@ After section HZ 10, insert:Protection from non-compliance: Taxation (KiwiSaver,
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 155 Section LA 5 amended (Treatment of remaining credits)
-(1) Replace section LA 5(4B), other than the heading, with:
-  (4B) A person’s research and development tax credit is used by—
-    (a) first, the Commissioner refunding the tax credit up to the maximum limit of the person’s refundability cap, by treating it as a refundable tax credit and applying section LA 6(2). There is no maximum limit for refunding the tax credit, if and to the extent to which—
-      (i) the person is a levy body researcher:
-      (ii) the tax credit is for eligible research and development expenditure on approved research providers:
-    (b) secondly, applying section LY 8 (Carry forward for remaining research and development tax credits), to the extent to which paragraph (a) does not apply to the tax credit.
-(2) After section LA 5(5), insert:Meaning of refundability capDefinition of items in formula
-  (5B) For the purposes of this section, refundability cap is the amount calculated for the tax year using the formula—own tax + other wholly-owned tax + other controller tax − double-dip allocation + transitional 2020–21 amount.
-  (5C) In the formula,—
-    (a) own tax is the total amount of PAYE, ESCT, and FBT that the person (person A) pays for the tax year to the extent to which the total amount has not been allocated under paragraph (b) or (c) to another person for the purposes of calculating their refundability cap for the tax year:
-    (b) other wholly-owned tax is zero or, if person A is a company and is a member of a wholly-owned group of companies, is the amount of PAYE, ESCT, and FBT that the other members pay for the tax year and that is allocated to person A for the purposes of calculating person A’s refundability cap for the tax year:
-    (c) other controller tax is zero or, if person A is a company, is the total amount of PAYE, ESCT, and FBT that companies that directly or indirectly control person A pay for the tax year and that is allocated to person A for the purposes of calculating their refundability cap for the tax year:
-    (d) double-dip allocation means the total amount allocated to person A under paragraphs (b) and (c) that has been allocated to a person other than person A for the purposes of calculating the other person’s refundability cap for the tax year:
-    (e) transitional 2020–21 amount is zero or, if the tax year is 2020–21, is the amount that would have arisen applying the formula in subsection (5B) in relation to person A for the 2019–20 tax year, ignoring this paragraph.
-(3) In section LA 5, list of defined terms,—
-  (a) insert approved research provider, eligible research and development expenditure, ESCT, FBT, levy body researcher, PAYE, and refundability cap:
-  (b) delete associated person, exempt income, and listed company.
-(4) Subsections (1) and (2) apply for the 2020–21 and later income years.
+[Repealed]
 
 ### 156 Section LA 6 amended (Remaining refundable credits: PAYE, RWT, and certain other items)
 (1) Replace section LA 6(1)﻿(g) with:
@@ -1661,7 +1644,7 @@ After section 184A(5)﻿(f), insert:
   (i) an amount in an environmental restoration account.
 
 ### 238 Schedule 4 amended (Reporting of employment income information)
-In schedule 4, table 1, row 5, after item e, insert:This table adds 1 row to the items of information that an employer is required to provide for payday reportingfthe amount of salary or wages, as defined in section 4(1) of the KiwiSaver Act 2006, if required under section 63B of that Act
+In schedule 4, table 1, row 5, after item e, insert:This table is an amendment to the table in Schedule 4 of the Tax Administration Act 1994 and should be read with that table to provide understanding of the context.fthe amount of salary or wages, as defined in section 4(1) of the KiwiSaver Act 2006, if required under section 63B of that Act
 
 ### 239 Schedule 7 amended (Disclosure rules)
 (1) In schedule 7, part A, replace the heading to clause 3 with Tax advisors, tax agents, and representatives.
