@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2020-03-23_
+_Consolidation as at 2020-03-25_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -12293,7 +12293,9 @@ When this section applies
 Threshold value for item
 (2) The threshold value for an item is—
   (a) $200, if the item is acquired before 19 May 2005:
-  (b) $500, if the item is acquired on or after 19 May 2005.
+  (b) $500, if the item is acquired on or after 19 May 2005 and before 17 March 2020:
+  (c) $5,000, if the item is acquired on or after 17 March 2020 and before 17 March 2021:
+  (d) $1,000, if the item is acquired on or after 17 March 2021.
 Amount of depreciation loss
 (3) If the person chooses to deal with the item under this section, the amount of depreciation loss that the person has for the item for the income year is the item’s cost.
 How election made
@@ -30811,14 +30813,22 @@ Credits for imputation credits
 (4) A person uses a tax credit for an imputation credit by applying section LE 2, LE 2B, or LE 3 (which relate to the use of remaining tax credits).
 Research and development tax credits
 (4B) A person’s research and development tax credit is used by—
-  (a) first, the Commissioner refunding the tax credit up to a maximum of $255,000, by treating it as a refundable tax credit and applying section LA 6(2), if the person—
-    (i) meets the corporate eligibility criteria in section MX 2 (Corporate eligibility criteria); and
-    (ii) meets the wage intensity criteria in section MX 3 (Wage intensity criteria); and
-    (iii) does not derive exempt income, ignoring exempt income under sections CW 9 and CW 10 (which relate to income from dividends); and
-    (iv) is not associated with a person that derives exempt income, ignoring exempt income under sections CW 9 and CW 10:
+  (a) first, the Commissioner refunding the tax credit up to the maximum limit of the person’s refundability cap, by treating it as a refundable tax credit and applying section LA 6(2). There is no maximum limit for refunding the tax credit, if and to the extent to which—
+    (i) the person is a levy body researcher:
+    (ii) the tax credit is for eligible research and development expenditure on approved research providers:
   (b) secondly, applying section LY 8 (Carry forward for remaining research and development tax credits), to the extent to which paragraph (a) does not apply to the tax credit.
 Refundable credits
 (5) The Commissioner refunds a refundable tax credit by applying section LA 6, LA 7, or LA 8.
+Meaning of refundability cap
+(5B) For the purposes of this section, refundability cap is the amount calculated for the tax year using the following formula:own tax + other wholly-owned tax + other controller tax − double-dip allocation.
+Definition of items in formula
+(5C) In the formula,—
+  (a) own tax is the total amount of PAYE, ESCT, and FBT that the person (person A) pays for the tax year to the extent to which the total amount has not been allocated under paragraph (b) or (c) to another person for the purposes of calculating their refundability cap for the tax year:
+  (b) other wholly-owned tax is zero or, if person A is a company and is a member of a wholly-owned group of companies, is the amount of PAYE, ESCT, and FBT that the other members pay for the tax year and that is allocated to person A for the purposes of calculating person A’s refundability cap for the tax year:
+  (c) other controller tax is zero or, if person A is a company, is the total amount of PAYE, ESCT, and FBT that companies that directly or indirectly control person A pay for the tax year and that is allocated to person A for the purposes of calculating their refundability cap for the tax year:
+  (d) double-dip allocation means the total amount allocated to person A under paragraphs (b) and (c) that has been allocated to a person other than person A for the purposes of calculating the other person’s refundability cap for the tax year.
+Relationship with material
+(5D) Section LZ 14 (Research and development tax credits’ refundability: option for 2019–20 income year) may modify this section for a person’s research and development tax credits for the 2019–20 income year.
 
 ### LA 6 Remaining refundable credits: PAYE, RWT, and certain other items
 What this section applies to
@@ -32339,6 +32349,17 @@ In sections LZ 6 and LZ 7, home vendor mortgage means a mortgage—
 
 ### LZ 12 Meaning of increase in savings
 [Repealed]
+
+### LZ 14 Research and development tax credits’ refundability: option for 2019–20 income year
+When this section applies
+(1) This section applies for a person’s 2019–20 income year when a person chooses to apply this section in their return of income for the 2019–20 income year.
+(2) Despite section LA 5(4B), (5B), and (5C), a person’s research and development tax credit is used by—
+  (a) first, the Commissioner refunding the tax credit up to a maximum of $255,000, by treating it as a refundable tax credit and applying section LA 6(2), if the person—
+    (i) meets the corporate eligibility criteria in section MX 2 (Corporate eligibility criteria); and
+    (ii) meets the wage intensity criteria in section MX 3 (Wage intensity criteria); and
+    (iii) does not derive exempt income, ignoring exempt income under sections CW 9 and CW 10 (which relate to income from dividends); and
+    (iv) is not associated with a person that derives exempt income, ignoring exempt income under sections CW 9 and CW 10:
+  (b) secondly, applying section LY 8 (Carry forward for remaining research and development tax credits), to the extent to which paragraph (a) does not apply to the tax credit.
 
 ## Part M — Tax credits paid in cash
 
@@ -44069,6 +44090,7 @@ In this Act, unless the context requires otherwise,—
   - **redemption payment** means the amount by which a payment made on the redemption of a commercial bill by the person who issued it is more than the money lent to the person, , in this definition, having the meaning given to it by section 2 of the Bills of Exchange Act 1908
   - **reduced deficit debit**
   - **redundancy payment**
+  - **refundability cap** is defined in section LA 5(5B) (Treatment of remaining credits) for the purposes of that section
   - **refundable tax credit** means a tax credit under a provision that is listed in section LA 6(1)﻿(a) to (j) (Remaining refundable credits: PAYE, RWT, and certain other items)
   - **registered as a charitable entity**
   - **registered bank** means a registered bank as defined in section 2 of the Reserve Bank of New Zealand Act 1989
