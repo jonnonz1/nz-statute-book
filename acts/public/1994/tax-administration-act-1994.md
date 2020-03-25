@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2020-03-23_
+_Consolidation as at 2020-03-25_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -212,7 +212,9 @@ _Consolidation as at 2020-03-23_
   - **gift-exempt body** , in sections 18K, 32, and 58, means—
     (a) any society, institution, association, organisation, trust, or fund specifically named in Schedule 32 of the Income Tax Act 2007; or
     (b) any other person issued with an RWT exemption certificate under section 32E as a result of an application made claiming the basis for exemption set out in section 32E(2)﻿(k) or (l), in relation to any tax year in which such person holds the certificate
-  - **government agency** , in section 6, includes any department or Crown entity (as those terms are defined in the Public Finance Act 1989) and any public authority (as defined in the Income Tax Act 2007)
+  - **government agency** ,—
+    (a) in section 6, includes any department or Crown entity (as those terms are defined in the Public Finance Act 1989) and any public authority (as defined in the Income Tax Act 2007):
+    (b) is defined in schedule 7, part C, subpart 1, clause 23B(6) for the purposes of that clause
   - **government screen production payment** means a payment that—
     (a) is in the nature of a large budget screen production grant, post-production digital and visual effects grant, or New Zealand screen production incentive; and
     (b) is authorised by the New Zealand Film Commission in relation to a company that—
@@ -8648,6 +8650,30 @@ An amount that is interest under section 120D, or a late payment penalty relatin
     (ii) if no such period is given, 6 months from the promulgation of the order:
   (c) may be renewed or replaced from time to time by an Order in Council made before or after the date on which the order would otherwise expire.
 
+### 183ABAB Remission for taxpayers affected by COVID-19
+(1) This section applies for a taxpayer if—
+  (a) the taxpayer’s ability to make a payment required by a tax law on or before the due date for the payment is significantly adversely affected by COVID-19; and
+  (b) the due date for the payment is no earlier than 14 February 2020; and
+  (c) the taxpayer is charged with interest under Part 7 for failing to make the payment by the due date.
+(2) The taxpayer may ask the Commissioner to remit interest accrued after 14 February 2020 (the interest) on the payment.
+(3) The Commissioner may remit the interest if—
+  (a) the Commissioner is satisfied that the taxpayer—
+    (i) asked for the relief as soon as practicable; and
+    (ii) made the payment as soon as practicable; and
+  (b) no more than 24 months have passed since the date on which this section comes into force.
+(4) The time limit imposed by subsection (3)﻿(b) may be extended by Order in Council made—
+  (a) on the recommendation of the Minister of Revenue; and
+  (b) within 24 months of the date on which this section comes into force.
+(5) An Order in Council (the order) made under subsection (4) or this subsection—
+  (a) expires, if not renewed under paragraph (b), after—
+    (i) the period given in the order, if such a period is given; or
+    (ii) if no such period is given, 6 months after the order comes into force:
+  (b) may be renewed or replaced from time to time by an Order in Council made—
+    (i) on the recommendation of the Minister of Revenue; and
+    (ii) before the date on which the order would otherwise expire.
+(6) The Minister of Revenue may recommend the making of an Order in Council under subsection (4) or (5) to extend the time limit only if satisfied that the ability of taxpayers to pay tax on time is likely to continue, beyond the expiry of the existing time limit, to be significantly adversely affected by COVID-19.
+(7) An Order in Council made under subsection (4) or (5) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012, and must be presented to the House of Representatives under section 41 of that Act.
+
 ### 183AB Cancellation of late payment penalties imposed before 1 April 2002
 (1) The Commissioner must cancel a taxpayer's liability to pay—
   (a) 60% of an initial late payment penalty; or
@@ -9668,6 +9694,32 @@ Section 18 does not prevent the Commissioner allowing the Director-General of an
 
 ### 23 Government agencies: AML/CFT purposes
 Section 18 does not prevent the Commissioner disclosing to a government agency or an AML/CFT supervisor (as defined in section 5 of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009) information supplied or obtained under an enactment referred to in section 140(2)﻿(k), (l), and (v) of that Act that is necessary or desirable for the purpose of ensuring compliance with AML/CFT legislation.
+
+### 23B Government agencies: COVID-19 response purposes
+(1) Section 18 does not prevent the Commissioner disclosing to a government agency information about a person or entity for the purpose of enabling the government agency to provide or fulfil any duty, obligation, or other thing in relation to any person or entity in connection with COVID-19 (including, without limitation, for the purpose of enabling the government agency to carry out an audit, review, or other enforcement function in relation to COVID-19-related assistance provided to any person or entity).
+(2) Despite subclause (1), the Commissioner may disclose the information only if—
+  (a) the Commissioner considers that—
+    (i) the information is readily available; and
+    (ii) it is reasonable and practicable to disclose the information; and
+    (iii) it is not undesirable to disclose the information; and
+    (iv) the information is reasonably necessary for the purpose referred to in subclause (1); and
+  (b) no more than 24 months have passed since the date on which this clause comes into force.
+(3) The time limit imposed by subclause (2)﻿(b) may be extended by Order in Council made—
+  (a) on the recommendation of the Minister of Revenue; and
+  (b) within 24 months of the date on which this clause comes into force.
+(4) An Order in Council (the order) made under subclause (3) or this subclause—
+  (a) expires, if not renewed under paragraph (b), after—
+    (i) the period given in the order, if such a period is given; or
+    (ii) if no such period is given, 6 months after the order comes into force:
+  (b) may be renewed or replaced from time to time by an Order in Council made—
+    (i) on the recommendation of the Minister of Revenue; and
+    (ii) before the date on which the order would otherwise expire.
+(5) An Order in Council made under subclause (3) or (4) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012, and must be presented to the House of Representatives under section 41 of that Act.
+(6) In this clause, government agency means—
+  (a) a department named in schedule 1 of the State Sector Act 1988:
+  (b) the New Zealand Police:
+  (c) the Accident Compensation Corporation:
+  (d) Kāinga Ora–Homes and Communities.
 
 ### 24 New Zealand Customs Service: value of imported goods
 Section 18 does not prevent the Commissioner disclosing to the chief executive of the New Zealand Customs Service information for the purpose of assessing the suitability of an arrangement relating to the use of provisional values under the Customs and Excise Act 2018, including the determination of an application to use provisional values.
