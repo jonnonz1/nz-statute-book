@@ -12,7 +12,7 @@ This Act comes into force on the day after the date on which it receives the Roy
 ### 3 Amendment to Education Act 1989
 This Part amends the Education Act 1989.
 
-### 4 New Part 34 inserted
+### 4 New Part 33A inserted
 After Part 33, insert:Directions relating to COVID-19Application and purpose of PartInterpretationPower for Secretary to direct institutions in relation to COVID-19 measuresEffect of directionsPublication and review of directionsAcademic freedom unaffected
   (1) This Part applies while an epidemic notice is in force for COVID-19 under section 5 of the Epidemic Preparedness Act 2006.
   (2) The purpose of this Part is to provide a response to the outbreak of COVID-19, and a recovery from it, that—
