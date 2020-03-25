@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2020-03-23_
+_Consolidation as at 2020-03-25_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -3123,6 +3123,9 @@ Where—the supplier may increase the consideration for the supply by an amount 
   (d) the supply of the asset to the recipient occurs less than 5 years after the supply of the asset by the original owner.
 (7) Despite section 3A(2) and (3), the input tax for the recipient does not exceed the output tax for the original owner on the supply of the asset by the original owner.
 (8) A person who is referred to in subsection (6) as the original owner for an asset, or who is an associate of the original owner and has access to the requested information, must provide details of the output tax for the original owner on the supply of the asset if requested by a person who is referred to in subsection (6) as the recipient of the asset.
+
+### 89 COVID-19-related payments made before commencement of Goods and Services Tax (Grants and Subsidies) Amendment Order 2020
+A payment of the kind specified in clause 10 or 11 of the Schedule of the Goods and Services Tax (Grants and Subsidies) Order 1992 (SR 1992/323) that is made in the period commencing on 17 March 2020 and ending on 23 March 2020 is not a taxable grant or subsidy for the purposes of section 5(6D).
 
 ### 1 Short Title
 This Act may be cited as the Goods and Services Tax Amendment Act (No 3) 1991, and shall be read together with and deemed part of the Goods and Services Tax Act 1985 (hereinafter referred to as the principal Act).
