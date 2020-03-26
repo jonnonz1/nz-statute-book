@@ -1,5 +1,5 @@
 # Epidemic Preparedness Act 2006
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2020-03-26_
 
 ### 1 Title
 This Act is the Epidemic Preparedness Act 2006.
@@ -218,6 +218,7 @@ An immediate modification order cannot be disallowed under Part 3 of the Legisla
 (2) This subsection applies to—
   (a) a Judge of the High Court (whether acting as a Judge of the High Court or a Judge of the Court of Appeal or the Supreme Court):
   (b) an Associate Judge of the High Court:
+  (ba) a District Court Judge:
   (c) a Judge of the Employment Court:
   (d) a Judge of the Maori Land Court.
 (3) A modification—
