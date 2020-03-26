@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2020-01-01_
+_Consolidation as at 2020-03-26_
 
 > An Act to reform the administration of education
 
@@ -9731,6 +9731,44 @@ Any obligation or other commitment entered into by the managers of a private sch
   (a) prescribing a form of integration agreement:
   (b) providing for the control, management, organisation, finance, and conduct of State integrated schools.
 (2) Where there is a conflict between regulations made under this section and regulations made under another section of this Act or under the Education Act 1964 or any enactment repealed by this Act or the Education Act 1964, the regulations made under this section apply.
+
+## Part 33A — Directions relating to COVID-19
+
+### 476A Application and purpose of Part
+(1) This Part applies while an epidemic notice is in force for COVID-19 under section 5 of the Epidemic Preparedness Act 2006.
+(2) The purpose of this Part is to provide a response to the outbreak of COVID-19, and a recovery from it, that—
+  (a) avoids, remedies, or mitigates the actual or potential adverse effects of the outbreak; and
+  (b) facilitates co-ordinated processes and planning.
+
+### 476B Interpretation
+In this Part, unless the context otherwise requires,—
+  - **education entity** means—
+    (a) a registered school (as defined in section 2(1)):
+    (b) a service provider (as defined in section 309):
+    (c) a hostel (as defined in section 2(1)):
+    (d) a private training establishment (as defined in section 159(1)):
+    (e) an institution (as defined in section 159(1)):
+    (f) an educational body (as defined in section 320)
+  - **governing authority** , in relation to an education entity, means the body that is primarily responsible for the governance of the education entity.
+
+### 476C Power for Secretary to direct institutions in relation to COVID-19 measures
+The Secretary may, for the purpose of this Part, direct the governing authority of an education entity (or the governing authorities of a class of education entities) to comply with any specified requirements—
+  (a) to close or open the education entity or any part of it (including in relation to all, or any specified category, class, or year group, of students):
+  (b) for the operation, control, or management of the education entity:
+  (c) to provide education or instruction through the education entity in any specified ways (for example, through distance or online learning).
+
+### 476D Effect of directions
+(1) Every education entity to which a direction applies must give effect to the direction on the date on which the direction is given or on any later date that is specified in the direction.
+(2) A direction overrides every other provision of this Act (apart from the provisions in this Part).
+
+### 476E Publication and review of directions
+(1) As soon as practicable after a direction is given, the Secretary must ensure that it is published in the Gazette and on an Internet site maintained by or on behalf of the Ministry.
+(2) A direction expires on the earlier of—
+  (a) its expiry date:
+  (b) the end of the period for which the epidemic management notice for COVID-19 is in force.
+
+### 476F Academic freedom unaffected
+Nothing in this Part limits the academic freedom of institutions set out in section 161.
 
 ## Schedule 1 — Transitional, savings, and related provisions
 
