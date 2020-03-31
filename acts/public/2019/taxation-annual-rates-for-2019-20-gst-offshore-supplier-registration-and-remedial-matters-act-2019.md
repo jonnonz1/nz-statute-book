@@ -1,5 +1,5 @@
 # Taxation (Annual Rates for 2019–20, GST Offshore Supplier Registration, and Remedial Matters) Act 2019
-_Consolidation as at 2020-03-23_
+_Consolidation as at 2020-03-31_
 
 ### 1 Title
 This Act is the Taxation (Annual Rates for 2019–20, GST Offshore Supplier Registration, and Remedial Matters) Act 2019.
@@ -1120,16 +1120,7 @@ In Schedule 1, after Part 2, insert:Taxation (Annual Rates for 2019–20, GST Of
 Sections 115 to 125 amend the Student Loan Scheme Act 2011.
 
 ### 115 Section 4 amended (Interpretation)
-(1) In section 4(1), definition of primary employment earnings, before paragraph (a), insert:
-  (aa) includes a schedular payment paid to the borrower in the pay period; and
-(2) In section 4(1), definition of salary or wages, replace paragraphs (a) and (b) with:
-  (a) includes an extra pay; and
-  (b) includes a schedular payment, except as provided in section 202A
-(3) In section 4(1), insert in its appropriate alphabetical order:
-  - **schedular payment** has the same meaning as in section RD 8 (Schedular payments) of the Income Tax Act 2007
-(4) In section 4(1), definition of secondary employment earnings, replace paragraphs (a) and (b) with:
-  (a) includes an extra pay; but
-  (b) does not include a schedular payment
+[Repealed]
 
 ### 116 Section 22 amended (Meaning of New Zealand-based)
 Replace section 22(1) with:
@@ -1152,7 +1143,7 @@ Replace section 23(1) with:
   (1B) A day on which a borrower is treated as being physically in New Zealand under section 24 or 25 counts in the same way as a day on which the borrower is actually physically in New Zealand.
 
 ### 118 Section 73 amended (Meaning of adjusted net income, Schedule 3 adjustments, and related terms)
-In section 73(1), definition of adjusted net income, paragraph (b), after “excludes salary and wages”, insert (but see section 202A in relation to schedular payments).
+[Repealed]
 
 ### 119 Cross-heading above section 134 replaced
 Replace the cross-heading above section 134 with:Loan interest charged for all overseas-based borrowers
@@ -1174,14 +1165,10 @@ Replace section 135(1) with:
 Repeal section 137.
 
 ### 123 New section 202A inserted (Treatment of schedular payments)
-After section 202, insert:Treatment of schedular payments
-  (1) Sections 63 to 68C do not apply in respect of schedular payments.
-  (2) In section 73(1), definition of adjusted net income, paragraph (b), schedular payments are excluded only to the extent that deductions have been made as required by subpart 1 of Part 2.
-  (3) Schedular payments are disregarded for the purpose of calculating the amount of interim payments that a borrower is obliged to pay towards the 2020–21 and later tax years’ end-of-year repayment obligation in accordance with section 82 or 83 and section 84 or 85.
+[Repealed]
 
 ### 124 Schedule 2 amended (Application of PAYE rules for purposes of section 70)
-(1) In Schedule 2, clause 2(a), replace RD 8 with RD 9.
-(2) In Schedule 2, clause 2(a), replace RD 17(2) and (3), and RD 18 to RD 20 with and RD 17(2) and (3).
+[Repealed]
 
 ### 125 Schedule 3 amended (Adjustments to net income for purposes of section 73, applying from 1 April 2014 for 2014–2015 and later tax years)
 Excluded income
