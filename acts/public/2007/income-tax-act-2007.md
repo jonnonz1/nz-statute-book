@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2020-03-25_
+_Consolidation as at 2020-04-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -118,6 +118,8 @@ Multiple schedular income
 (3) If a person has more than 1 kind of schedular income for a tax year, their schedular income tax liability for the year is the total of the amounts calculated for each kind of schedular income.
 Income tax liability of multi-rate PIEs
 (4) The income tax liability for a tax year of a multi-rate PIE is determined under subpart HM (Portfolio investment entities).
+Special rule for natural person investors in multi-rate PIEs
+(5) The schedular income tax liability of a natural person investor in a multi-rate PIE who derives income under section CP 1 (Attributed income of investors in multi-rate PIEs) is calculated under section HM 36B (Calculating PIE schedular income adjustments for natural person investors) to provide an adjustment to the amount of the person’s income tax liability referred to in subsection (1)﻿(b).
 
 ### BC 8 Satisfaction of income tax liability
 Use of tax credits
@@ -4476,6 +4478,7 @@ Definition
 ### CW 42 Charities: business income
 Exempt income
 (1) Income derived directly or indirectly from a business carried on by, or for, or for the benefit of a trust, society, or institution of a kind referred to in section CW 41(1) is exempt income if—Subsections (3) to (8) expand on this subsection.
+  (aa) the entity carrying on the business is, at the time that the income is derived, registered as a charitable entity under the Charities Act 2005; and
   (a) the trust, society, or institution carries out its charitable purposes in New Zealand; and
   (b) the trustee or trustees of the trust, the society, or the institution is or are, at the time that the income is derived, a tax charity; and
   (c) no person with some control over the business is able to direct or divert an amount derived from the business to the benefit or advantage of,—
@@ -5393,7 +5396,7 @@ Exclusion
 
 ### CX 56 Attributed income of certain investors in multi-rate PIEs
 When this section applies
-(1) This section applies when an investor in a multi-rate PIE derives income attributed under section CP 1 (Attributed income of investors in multi-rate PIEs) in an income year, and—
+(1) This section applies when an investor in a multi-rate PIE, other than an investor who is a natural person, derives income attributed under section CP 1 (Attributed income of investors in multi-rate PIEs) in an income year, and—
   (a) the prescribed investor rate for the investor in the relevant calculation period is more than zero; and
   (b) that rate is not more than the notified investor rate in relation to the investor when the PIE calculates—
     (i) its income tax liability under section HM 47 (Calculation of tax liability or tax credit of multi-rate PIEs) in relation to the income; or
@@ -5404,11 +5407,14 @@ When this section also applies
   (b) a transitional resident who has chosen a prescribed investor rate referred to in schedule 6, table 1, row 10 (Prescribed rates: PIE investments and retirement scheme contributions):
   (c) a transitional resident when the calculation period falls in the tax year in which the person becomes or ceases to be a transitional resident:
   (d) an investor in the PIE when the calculation period falls in the tax year in which the person either becomes or ceases to be resident in New Zealand.
+When this section also applies
+(1C) When a trustee of a trust is an investor in a multi-rate PIE and an election is made in an income year (the election year) for the trust under section HC 33 (Choosing to satisfy income tax liability of trustee), this section also applies to the trustee for the income years that end before the election year and for which the election applies.
 When this section does not apply
 (2) This section does not apply when—
   (a) the PIE calculates its income tax liability using the quarterly calculation option under section HM 43 (Quarterly calculation option) and the amount is attributed to an investor who is treated under section HM 61 (Certain exiting investors zero-rated) as zero-rated:
   (b) an amount of attributed PIE income is derived by a trustee who has chosen a prescribed investor rate referred to in schedule 6, table 1, row 5 or 7, as applicable:
-  (c) a person to whom section HM 57B (Prescribed investor rates for new residents) applies chooses not to apply the section to determine their prescribed investor rate for a resident year.
+  (c) a person to whom section HM 57B (Prescribed investor rates for new residents) applies chooses not to apply the section to determine their prescribed investor rate for a resident year:
+  (d) an amount of PIE schedular income is derived by a natural person who is an investor in the PIE.
 Excluded income
 (3) The amount is excluded income of the investor.
 
@@ -7129,32 +7135,7 @@ Links with subpart DA
 (3) This section overrides the general permission.
 
 ### DB 65 Allowance for certain commercial buildings
-When this section applies
-(1) This section applies when—
-  (a) a person owns an item that is a commercial building (the building), and the building is depreciable property with an annual rate of 0%, in an income year; and
-  (b) the item starting pool described in subsection (3)﻿(a) is greater than the total of all deductions allowed under this section for income years before the income year; and
-  (c) the person has been allowed a deduction for an amount of depreciation loss for the building for the 2010–11 income year and the person has not disposed of it since then; and
-  (d) the person has never had a deduction for an amount of depreciation loss for a separate item of depreciable property that is commercial fit-out and that was acquired at the same time as the building and relates to the building; and
-  (e) the building was acquired in the 2010–11 or earlier income years; and
-  (f) the person is not allowed a deduction under any other provision in relation to the building, for the income year.
-Deduction
-(2) Except as provided by subsection (6), the person is treated as having a loss for the income year equal to the amount calculated using the formula—starting pool × 0.02 × whole months ÷ 12.
-Definition of items in formula
-(3) In the formula in subsection (2),—
-  (a) starting pool is the amount given by the formula in subsection (4):
-  (b) whole months is the number of whole months in the income year in which the item is used, or is available for use, by the person in deriving assessable income or carrying on a business for the purpose of deriving assessable income.
-Starting pool: formula
-(4) For the purposes of subsection (3)﻿(a), the amount is calculated using the formula—(0.15 × building atv) − fitout atv.
-Definition of items in formula
-(5) In the formula in subsection (4),—
-  (a) building atv is the adjusted tax value of the building that results for the 2010–11 income year after all relevant amounts for that income year have been subtracted under subpart EE (Depreciation):
-  (b) fitout atv is the total adjusted tax value of all items of commercial fit-out that results for the 2010–11 income year after all relevant amounts for that income year have been subtracted under subpart EE, if—
-    (i) the items of commercial fit-out relate to the building and were acquired after the building was acquired; and
-    (ii) the person has had a deduction for an amount of depreciation loss for the items of commercial fit-out.
-Exception: deductible amount
-(6) Despite subsection (2), if the item starting pool described in subsection (3)﻿(a), reduced by the total of all deductions allowed under this section for income years before the income year, is equal to an amount (the deductible amount) that is smaller than the amount given by the formula in subsection (2) (the formula amount), then the person is treated as having a loss for the income year equal to the deductible amount instead of the formula amount.
-Treatment of amounts under specific and general rules for deductions
-(7) The capital limitation does not apply to a loss under this section merely because the item of property is itself of a capital nature.
+[Repealed]
 
 ### Subpart DC — Employee or contractor expenditure
 
@@ -12149,7 +12130,7 @@ Rate for item acquired on or before 20 May 2010
     (iii) is not a used imported car; and
     (iv) is not an international aircraft:
   (c) a diminishing value rate of 15% or a straight-line rate of 10%, for an international aircraft:
-  (d) 0% for a building that has an economic rate or provisional rate of more than 0% due to an estimated useful life of 50 years or more.
+  (d) 0% for a residential building that has an economic rate or provisional rate of more than 0% due to an estimated useful life of 50 years or more.
 Requirements for subsection (3) rate
 (3A) This subsection applies, and the rate is 1 of the rates given by subsection (3), if subsections (2A) and (2) do not apply and the person—
   (a) acquires the item after 20 May 2010; or
@@ -12160,7 +12141,7 @@ Rate for item acquired after 20 May 2010
 (3) If subsection (3A) applies, the rate is 1 of the following:
   (a) the item's economic rate, special rate, or provisional rate, for an item not described in paragraph (b) or (c):
   (b) a diminishing value rate of 15% or a straight-line rate of 10% for an international aircraft:
-  (c) 0%, for a building that has an economic rate or provisional rate of more than 0% due to an estimated useful life of 50 years or more.
+  (c) 0%, for a residential building that has an economic rate or provisional rate of more than 0% due to an estimated useful life of 50 years or more.
 Administrative requirements
 (4) For the purposes of subsection (2A)﻿(b), a person must—
   (a) have available for the Commissioner documents dated on or before 20 May 2010 that evidence that the person had, on or before 20 May 2010, decided to acquire or construct the relevant item:
@@ -12230,8 +12211,8 @@ How rate expressed
 ### EE 35 Special rate or provisional rate
 Rate set for item of depreciable property
 (1) A special rate or a provisional rate is set for an item of depreciable property under sections 91AAG to 91AAJ of the Tax Administration Act 1994.
-No special rate for excluded depreciable property, special excluded depreciable property, or building
-(2) A special rate may not be set for an item of excluded depreciable property, an item of special excluded depreciable property, or a building.
+No special rate for excluded depreciable property or residential building
+(2) A special rate may not be set for an item of excluded depreciable property or a residential building.
 No provisional rate for fixed life intangible property or excluded depreciable property
 (3) A provisional rate may not be set for an item of fixed life intangible property or an item of excluded depreciable property.
 Exception
@@ -12257,13 +12238,11 @@ Income year in which improvement made
   (b) ends at the end of the income year.
 Following income years
 (3) For income years following the income year in which the person makes the improvement,—
-  (a) a person who uses the diminishing value method or the straight-line method for the item that was improved may choose to apply subsection (4) or (5), if paragraph (ab) does not apply:
-  (ab) a person who uses the diminishing value method or the straight-line method for the item that was improved must use subsection (3B) if—
-    (i) treating the improvement as an item, section EE 31(2A) does not apply, but section EE 31(3A) does apply; and
-    (ii) the item that was improved is a grandparented structure, or is not a building, is not a used import car, is not an international aircraft, or has not been used or held for use in New Zealand as an item of depreciable property before the date on which the person acquires it:
+  (a) a person who uses the diminishing value method or the straight-line method for the item that was improved may choose to apply subsection (4) or (5):
+  (ab)
   (b) a person who uses the pool method for the item that was improved must apply subsections (6) and (7).
 Improvement compulsorily treated as separate item
-(3B) For the purposes of subsection (3)﻿(ab), a person must treat the improvement as a separate item of depreciable property.
+(3B)
 Improvement treated as separate item
 (4) For the purposes of subsection (3)﻿(a), a person may choose to treat the improvement as a separate item of depreciable property.
 Improvement treated as part of item
@@ -12736,7 +12715,8 @@ Total deductions
 (1) Total deductions is the total, calculated as at a particular time, of—
   (a) the amount described in subsection (2); and
   (b) the amount described in subsection (3); and
-  (c) the amount of a deduction under section EE 25.
+  (c) the amount of a deduction under section EE 25; and
+  (d) the total amount of previous deductions under section DB 65 (Allowance for certain commercial buildings).
 First amount for purposes of subsection (1)
 (2) The amount is all amounts that 1 or more of the following provisions has required to be subtracted from the item’s adjusted tax value since the start of the 1993–94 income year:
   (a) section EE 52(2):
@@ -12782,8 +12762,8 @@ Meaning
   (b) the item is not dealt with in any of subsections (3) to (5).
 1995–96 income year or later: international aircraft
 (3) The rate is the rate set by section EE 31(2)﻿(c), or by section EE 31(3)﻿(b), as applicable, if the item is an international aircraft that the person acquires in their 1995–96 income year or a later income year.
-1995–1996 income year or later: buildings with estimated useful lives of 50 years or more
-(3B) The rate is the rate set by section EE 31(2)﻿(d), or by section EE 31(3)﻿(c), as applicable, if the item is a building that—
+1995–1996 income year or later: residential buildings with estimated useful lives of 50 years or more
+(3B) The rate is the rate set by section EE 31(2)﻿(d), or by section EE 31(3)﻿(c), as applicable, if the item is a residential building that—
   (a) has an economic rate or provisional rate of more than 0% due to an estimated useful life of 50 years or more; and
   (b) the person acquires in their 1995–96 income year or a later income year.
 Fixed life intangible property
@@ -12801,8 +12781,8 @@ Design registrations, applications
   (c) the item is not an item of excluded depreciable property.
 Excluded depreciable property
 (7) The rate is the rate set by section EZ 15 (Annual rate for excluded depreciable property: 1992–93 tax year) if the item is an item of excluded depreciable property.
-Special excluded depreciable property
-(7B) The rate is 0% for all depreciation methods, if the item is an item of special excluded depreciable property that would be an item of excluded depreciable property but for the exclusion in section EE 64(3).
+Residential buildings
+(7B) The rate is 0% for all depreciation methods, if the item is a residential building.
 Exception
 (8) Section FA 11B(7) (Adjustments for certain operating leases) overrides this section.
 
@@ -12837,7 +12817,7 @@ Exclusion
   (a) it existed at the end of the 1992–93 income year; and
   (b) the Commissioner allowed it to be accounted for in that income year using the standard value method, the replacement value method, or the annual revaluation method.
 Another exclusion
-(3) Excluded depreciable property does not include special excluded depreciable property.
+(3)
 
 ### EE 65 Meaning of maximum pooling value
 Meaning
@@ -12891,7 +12871,7 @@ In this Act,—
   - **pool** means items of depreciable property that a person chooses under section EE 12 to depreciate as a pool using the pool method
   - **pool method** means the method of calculating an amount of depreciation loss set out in section EE 21
   - **provisional rate** means a provisional rate as described in section EE 35
-  - **special excluded depreciable property** means all buildings that are items not specified in schedule 39 (Items for purposes of definition of special excluded depreciable property)
+  - **special excluded depreciable property**
   - **special rate** means a special rate as described in section EE 35
   - **straight-line method** means the method of calculating an amount of depreciation loss for an item of depreciable property by subtracting, in each income year, a constant percentage of the item’s cost, to its owner, from the item’s adjusted tax value
   - **straight-line rate** means the rate that a person using the straight-line method applies to an item of depreciable property.
@@ -19771,13 +19751,13 @@ What this section is about
 (1) This section is about the annual rate that applies to an item of depreciable property that a person acquires before the end of their 1994–95 income year (not including fixed life intangible property or excluded depreciable property, for which rates are set in sections EE 33 (Annual rate for fixed life intangible property) and EZ 15 respectively).
 Rate
 (2) The rate is—
-  (a) the item's economic rate, if the item is not a building that has an economic rate or provisional rate of more than 0% due to an estimated useful life of 50 years or more; or
+  (a) the item's economic rate, if the item is not a residential building that has an economic rate or provisional rate of more than 0% due to an estimated useful life of 50 years or more; or
   (b) the pre-1993 depreciation rate described in section EZ 14, if the person chooses under that section; or
-  (c) 0%, for a building that has an economic rate or provisional rate of more than 0% due to an estimated useful life of 50 years or more.
+  (c) 0%, for a residential building that has an economic rate or provisional rate of more than 0% due to an estimated useful life of 50 years or more.
 
 ### EZ 14 Pre-1993 depreciation rate
 Scope of election
-(1) A person may choose the pre-1993 depreciation rate for all items, or any item, that they acquire before the end of their 1994–95 income year excluding buildings that have an economic rate or provisional rate of more than 0% due to an estimated useful life of 50 years or more.
+(1) A person may choose the pre-1993 depreciation rate for all items, or any item, that they acquire before the end of their 1994–95 income year excluding residential buildings that have an economic rate or provisional rate of more than 0% due to an estimated useful life of 50 years or more.
 How election made
 (2) The election is made by applying the pre-1993 depreciation rate for the item to the item in the person’s return of income for the income year for which the election is made.
 Election unchangeable
@@ -26197,7 +26177,7 @@ Credit accounts
 (2) For the purposes of sections OB 30 to OB 59 (which relate to imputation debits), if an imputation credit is attached to the dividend, the amount of the credit is debited to the company’s imputation account. The debit arises on the day the company pays the dividend.
 Dividend statements
 (3) For all dividends, whether or not credits have been attached, the company must complete the following statements detailing the extent to which the dividends are assessable income or exempt income:
-  (a) a company dividend statement under section 67(1) of the Tax Administration Act 1994; and
+  (a) a company dividend statement under section 25G of the Tax Administration Act 1994; and
   (b) a shareholder dividend statement under section 29 of that Act.
 Date for completing statements
 (4) The company must complete the statements in subsection (3) by 31 May after the end of the tax year in which the dividends were paid.
@@ -27053,6 +27033,10 @@ Indirect settlement
 (4) A person may make a transfer of value, or provision of financial assistance, referred to in subsection (2) directly or indirectly and by 1 transaction or a number of connected transactions.
 Nil value of beneficiary relationship
 (5) The fact that a person is, or will become, a beneficiary of a trust does not constitute the giving or receiving of value.
+Amounts owing to beneficiaries
+(6) When a trustee of a trust owes an amount to a beneficiary of the trust, the beneficiary does not become a settlor of the trust under subsection (2) solely as a result of being owed the amount if—
+  (a) the amount owing at the end of the income year is not more than $25,000, after adjustments to include the effect of transactions that are made after the end of the income year and by the date given for the income year by section HC 6(1B) and are included in the financial statements of the trust for the income year:
+  (b) the trustee pays to the beneficiary, for each income year in which the amount is owing and by the date given for the income year by section HC 6(1B), interest on the amount at a rate equal to the prescribed rate of interest or the market rate.
 
 ### HC 28 Activities treated as those of settlor
 When this section applies
@@ -27653,7 +27637,7 @@ Maori authority rules
   (d) subpart OK (Maori authority credit accounts (MACA)):
   (e) section RM 22 to RM 27 (which relate to limits on refunds of tax in relation to Maori authorities):
   (f) schedule 1, part A, clause 6 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
-  (g) sections 31, 57, 68B, 69B, 70B, 97B, 140CB, 140DB, and 181B of the Tax Administration Act 1994.
+  (g) sections 25I, 31, 57, 69B, 70B, 97B, 140CB, 140DB, and 181B of the Tax Administration Act 1994.
 
 ### HF 2 Who is eligible to be a Maori authority?
 What this section does
@@ -28261,10 +28245,11 @@ Intended effects for entity
 Intended effects for investors
 (2) The intended effects for an investor in the multi-rate PIE are that—
   (a) the investor has no tax liability on income arising from proceeds for which the PIE has a tax liability, unless—
-    (i) the investor has given the PIE a rate that is lower than the correct rate:
+    (i) the PIE has applied a rate that is lower than the investor’s prescribed investor rate:
     (ii) the investor has been treated by a foreign investment PIE as a notified foreign investor for a period in which they do not in fact meet the requirements of section HM 55D for notified foreign investor status:
   (b) the investor is liable for tax on any assessable income arising from proceeds for which the PIE has no tax liability:
-  (c) the investor receives on the investment in the PIE an economic return that the investor would receive after payment of tax liabilities if personally making investments similar to those made by the PIE in which they have an investor interest.
+  (c) the investor receives on the investment in the PIE an economic return that the investor would receive after payment of tax liabilities if personally making investments similar to those made by the PIE in which they have an investor interest:
+  (d) despite paragraphs (a) and (b), an adjustment may be made to the schedular income tax liability of an investor who derives PIE schedular income.
 
 ### HM 6B Optional look-through rules for certain PIEs
 When this section applies
@@ -28676,6 +28661,27 @@ Treatment of attributed loss for PIEs paying provisional tax
 When derived or incurred
 (5) The investor is treated as deriving the attributed PIE income or incurring the attributed PIE loss in the income year of the investor in which the end of the PIE's income year falls.
 
+### HM 36B Calculating PIE schedular income adjustments for natural person investors
+When this section applies
+(1) This section applies for the purposes of calculating the income tax liability under section BC 7 (Income tax liability of person with schedular income) of a natural person who is an investor in a multi-rate PIE to determine whether an adjustment must be made to the person’s terminal tax for an amount of PIE schedular income derived for a tax year.
+Calculating adjustments
+(2) The adjustment for the amount of PIE schedular income referred to in the definition of schedular income, paragraph (dc), is equal to the amount calculated using the formula—(amount of PIE income × investor’s PIR) − (credits used + amount of tax credit).
+Definition of items in formula
+(3) In the formula,—
+  (a) amount of PIE income is the amount of the investor’s attributed PIE income for the tax year:
+  (b) investor’s PIR is the investor’s prescribed investor rate applying for the tax year under schedule 6, clause 1 (Prescribed rates: PIE investments and retirement scheme contributions):
+  (c) credits used is the amount of any tax credits used by the PIE to satisfy the investor’s income tax liability for the amount of attributed PIE income referred to in paragraph (a):
+  (d) amount of tax credit is the amount of the investor’s tax credit determined for the tax year under section LS 2 (Tax credits for investors in multi-rate PIEs).
+Positive adjustment
+(4) If the result of the calculation in subsection (3) is positive, the amount of the adjustment is included in the investor’s schedular income tax liability for the tax year under section BC 7(5).
+Negative adjustment
+(5) If the result of the calculation in subsection (3) is negative,—
+  (a) the amount of the adjustment is first applied to reduce the terminal tax payable by the person for the tax year:
+  (b) any amount of adjustment remaining is refundable under sections RB 4, RM 2 to RM 8, and RM 10 (which relate to refunds and their use), as applicable:
+  (c) the investor’s schedular income tax liability for the tax year under section BC 7(5) is zero.
+Meaning of PIE schedular income
+(6) For the purposes of this section, and sections CX 56 and HM 6, and the definition of residual income tax, PIE schedular income means an amount of attributed PIE income that a natural person who is an investor in a multi-rate PIE derives under section CP 1 (Attributed income of investors in multi-rate PIEs) to which the prescribed rates of tax set out in schedule 6, clause 1 (Prescribed rates: PIE investments and retirement scheme contributions) apply.
+
 ### HM 37 When income cannot be attributed
 When this section applies
 (1) This section applies when a multi-rate PIE has income or property in which no investor has an interest, or income or property in which no person has a conditional entitlement under section HM 38.
@@ -28873,6 +28879,20 @@ Date of adjustment
   (c) for the provisional tax calculation option, within 3 months of the end of the income year.
 Extending time limits
 (4) On application by a multi-rate PIE, the Commissioner may extend a time limit imposed under subsection (3) if it is reasonable in the circumstances.
+Adjustments for errors
+(5) When a multi-rate PIE, through an error, does not calculate and pay its income tax liability in relation to its investors for a tax year correctly, the PIE may make an adjustment under subsection (1)﻿(c) within 1 month of the discovery of the error.
+Maximum adjustments
+(6) For the purposes of subsection (5),—
+  (a) the adjustment may be made in the tax year in which the error is made (year 1) without any limit on the total amount of adjustments for errors:
+  (b) the adjustment may be made in the tax year following that in which the error is made (year 2), but the total of all adjustments for errors made in year 2 relating to an error made in year 1 must be no more than the greater of—
+    (i) $2000; or
+    (ii) 5% of the income tax liability of the PIE for year 1.
+When adjustments treated as made
+(7) An adjustment that meets the requirements of subsections (5) and (6) is treated as made on the due date for the amount referred to in section HM 41(3) and calculated under sections HM 42 to HM 44B.
+Notifying Commissioner of adjustments
+(8) Following the discovery of an error to which subsection (6)﻿(b) applies, the PIE must notify the Commissioner of the error at the time of making the adjustment, including in their notification—
+  (a) the information in schedule 6, table 1, rows 1 to 8, 10, 12, 13, 16, 21, and 22 of the Tax Administration Act 1994; and
+  (b) the adjustment to the item referred to in schedule 6, table 1, row 9 of that Act.
 
 **Using tax credits**
 
@@ -29077,6 +29097,8 @@ When amount not included in taxable income
 (2) In the determination of a person's prescribed investor rate under subsection (1), the person's taxable income does not include an amount that—
   (a) arises because their notified investor rate is lower than their prescribed investor rate; and
   (b) is treated as taxable income because section CX 56 (Attributed income of certain investors in multi-rate PIEs) does not apply.
+Increased assessment of trustee arising from election
+(3) In the determination of a trustee’s prescribed investor rate under subsection (1), the amount of the trustee’s assessed taxable income for an income year is treated as not including the amount of an increase in the assessed taxable income that results from an election under section HC 33 (Choosing to satisfy income tax liability of trustee), if the election is made after the beginning of the income year and has an effective date that is or precedes the beginning of the income year.
 
 ### HM 57 Prescribed investor rates for certain investors: 0%
 An investor (a zero-rated investor) in a multi-rate PIE has a prescribed investor rate of 0% if they are resident in New Zealand and are—
@@ -29131,11 +29153,23 @@ Exception for 2010–11 income year
 Consistent application of rates
 (3D) In applying notified investor rates, a multi-rate PIE must use the same approach under subsections (3) and (3C) for all investors for an income year.
 When chosen rate lower than rate in sections HM 56 to HM 58
-(4) If an investor advises a notified investor rate that is lower than their prescribed investor rate that would apply under sections HM 56 to HM 58, income attributed to them by the PIE is not excluded income of the investor under section CX 56 (Attributed income of certain investors in multi-rate PIEs).
+(4) If an investor other than an investor who is a natural person advises a notified investor rate that is lower than their prescribed investor rate that would apply under sections HM 56 to HM 58, income attributed to them by the PIE is not excluded income of the investor under section CX 56 (Attributed income of certain investors in multi-rate PIEs).
 When rate disregarded
-(5) The Commissioner may notify a PIE to disregard an investor's notified investor rate if the Commissioner considers the rate is incorrect. The notification must include a rate for the investor that the Commissioner considers appropriate.
+(5)
 When no rate notified
-(6) If an investor does not advise a multi-rate PIE of their notified investor rate, the rate applying for a period is 28%.
+(6) If an investor does not advise a multi-rate PIE of their notified investor rate, and the Commissioner has not provided a rate for the investor under section HM 60B, the rate applying for a period is 28%.
+
+### HM 60B Investor rates provided by Commissioner
+Rates provided by Commissioner
+(1) Despite section HM 60, the Commissioner may, in relation to an investor in a multi-rate PIE, provide a tax rate for the PIE to apply to the investor’s attributed PIE income for a calculation period if—
+  (a) the Commissioner—
+    (i) considers that the investor’s notified investor rate is inconsistent with the investor’s prescribed investor rate; and
+    (ii) holds information about the investor that is sufficient to enable the Commissioner to determine the appropriate rate for the investor:
+  (b) the investor does not have a notified investor rate.
+Application of rate
+(2) For the purposes of section HM 60(3), as soon as reasonably practicable after having been notified of the rate provided by the Commissioner, the PIE must apply the rate provided by the Commissioner as if it were the most recent notified investor rate.
+Subsequent notification of rate by investor
+(3) Despite subsection (2), if the Commissioner provides a tax rate for an investor to the PIE under subsection (1), and the investor subsequently notifies the PIE under section HM 60(1) of a different investor rate, the PIE must apply the rate notified by the investor.
 
 ### HM 61 Certain exiting investors zero-rated
 When tax rate zero
@@ -30842,7 +30876,9 @@ What this section applies to
   (db)
   (e) subpart LO (Tax credits for Maori authority credits):
   (f) section LS 1 (Tax credits for multi-rate PIEs):
-  (g) section LS 2 (Tax credits for investors in multi-rate PIEs), and the person is not a natural person or is a natural person having the tax credit as a beneficiary of a trust:
+  (g) section LS 2 (Tax credits for investors in multi-rate PIEs) and the person is not a natural person, or is a natural person who—
+    (i) has the tax credit as a beneficiary of a trust:
+    (ii) uses the tax credit in the calculation of their PIE schedular income under section HM 36B (Calculating PIE schedular income adjustments for natural person investors):
   (h) section LS 3 (Tax credits for zero-rated investors), and the person is not a natural person or is a natural person having the tax credit as a beneficiary of a trust:
   (i) section LS 4 (Tax credits for certain exiting investors), and the person is not a natural person or is a natural person having the tax credit as a beneficiary of a trust:
   (ib) subpart LT (Tax credits for petroleum miners):
@@ -31110,7 +31146,10 @@ Section LD 1 does not apply to—
 ### LD 3 Meaning of charitable or other public benefit gift
 Meaning
 (1) For the purposes of sections DB 41 and DV 12 (which relate to deductions for gifts of money), and this subpart, a charitable or other public benefit gift—
-  (a) means a gift of money of $5 or more that is paid to a society, institution, association, organisation, trust, or fund, described in subsection (2) or listed in schedule 32 (Recipients of charitable or other public benefit gifts) (the entity):
+  (a) means a gift of money of $5 or more that is paid to a society, institution, association, organisation, trust, or fund (the entity), if—
+    (i) the entity is described in subsection (2)﻿(a), (ab), (b), (c), or (d), and the name of the entity is on the list published by the Commissioner under section 41A(14) to (16) of the Tax Administration Act 1994:
+    (ii) the entity is described in subsection (2)﻿(ac), (bb), or (bc):
+    (iii) the name of the entity is listed in schedule 32 (Recipients of charitable or other public benefit gifts):
   (b) includes a subscription of $5 or more paid to an entity only if the subscription does not confer any rights arising from membership in that entity or any other society, institution, association, organisation, trust, or fund:
   (c) does not include—
     (i) a testamentary gift:
@@ -31127,6 +31166,10 @@ Description of organisations
   (bc) a tertiary education institution:
   (c) a fund established and maintained exclusively for the purpose of providing money for any 1 or more of the purposes within New Zealand set out in paragraph (a), by a society, institution, association, organisation, or trust that is not carried on for the private pecuniary profit of an individual:
   (d) a public fund established and maintained exclusively for the purpose of providing money for any 1 or more of the purposes within New Zealand set out in paragraph (a).
+Exception for certain entities
+(3) Despite subsection (2)﻿(a), (b), (c), and (d), a society, institution, association, organisation, trust, or fund is not a relevant entity for the purposes of subsection (1) if the society, institution, association, organisation, trust, or fund,—
+  (a) is not a tax charity, because it is not registered as a charitable entity under the Charities Act 2005; and
+  (b) in the opinion of the Commissioner, is eligible to be registered as a charitable entity under that Act.
 
 ### LD 4 Tax credits for payroll donations
 Who this section applies to
@@ -31979,9 +32022,11 @@ When this section applies
     (ii) for an investor who is a trustee, the rate set out in schedule 6, table 1, row 5 or 7 (Prescribed rates: PIE investments and retirement scheme contributions), as applicable; and
   (c) the income is not excluded income of the investor because—
     (i) the test in section CX 56(1)﻿(b) (Attributed income of certain investors in multi-rate PIEs) is not met; or
-    (ii) section CX 56(2)﻿(b) or (c) applies.
+    (ii) section CX 56(2)﻿(b), (c), or (d) applies.
 Amount of credit
 (2) The investor has a tax credit for the income year in which the PIE's tax year ends. The amount of the credit is equal to the amount of income tax liability satisfied by the PIE in relation to the attributed PIE income, and may be used to satisfy the investor's income tax liability for the tax year.
+Relationship with section HM 36B
+(3) Despite subsection (2), when the amount of an investor’s tax credit is taken into account in calculating an adjustment for PIE schedular income under section HM 36B (Calculating PIE schedular income adjustments for natural person investors), the amount of the credit is extinguished for any other purpose.
 
 ### LS 3 Tax credits for zero-rated investors
 When this section applies
@@ -32151,7 +32196,7 @@ When this subpart applies
     (i) owned by the person:
     (ii) if the person is a company, owned by another company that is resident in New Zealand or in a country with which New Zealand has a double tax treaty, and the other company is in the same group of companies as the person:
     (iii) owned by a joint venture of which the person is a member; and
-  (d) where the person is part of the in-year approval pilot under section 68CB or 68CC of the Tax Administration Act 1994, the relevant research and development activity and the person, as applicable, are approved under those sections. If the Commissioner declines to approve the relevant research and development activity or the person under the in-year approval pilot, the person may choose to ignore this paragraph.
+  (d) the relevant research and development activity and the person, as applicable, are approved under section 68CB or 68CC of the Tax Administration Act 1994 (which relate to in-year approval).
 When this subpart does not apply
 (2) Despite subsection (1), this subpart does not apply for a person, for an income year,—
   (a) if they fail to file a return of income for the income year on or before the date that is 1 year after the latest date for them to file the return of income for the year under section 37 of the Tax Administration Act 1994:
@@ -32161,12 +32206,15 @@ When this subpart does not apply
     (i) a Crown research institute:
     (ii) a district health board:
     (iii) a tertiary education organisation, including a foreign tertiary education organisation:
-    (iv) Callaghan Innovation.
-  (e) if the person is a member of a joint venture or a partner in a partnership or has owner’s interests for a look-through company, and the person is not resident in New Zealand in the tax year.
+    (iv) Callaghan Innovation:
+  (e) if the person is a member of a joint venture or a partner in a partnership or has owner’s interests for a look-through company, and the person is not resident in New Zealand in the tax year:
+  (f) if the person is not a levy body researcher and the person derives exempt income under section CW 38, CW 39, CW 40, CW 41, CW 42, or CW 55BA (which relate to exempt income).
 Exception: carry forward
 (3) Despite subsection (1), sections LY 1(3)﻿(b) and LY 8 may apply to carry forward a person’s research and development tax credit.
-Special rule: non-business researcher
-(4) For the purposes of subsection (1), a person that is a non-business researcher is treated as carrying on a business in New Zealand through a fixed establishment in New Zealand.
+Special rule: levy body researcher
+(4) For the purposes of subsection (1), a person that is a levy body researcher is treated as carrying on a business in New Zealand through a fixed establishment in New Zealand.
+Relationship with subject matter
+(5) Section LZ 13 (Part-year override of section LY 3(2)﻿(b)) overrides subsection (2)﻿(c) for the 2020–21 income year.
 
 ### LY 4 Calculation of tax credit
 When this section applies: thresholds
@@ -32349,6 +32397,14 @@ In sections LZ 6 and LZ 7, home vendor mortgage means a mortgage—
 
 ### LZ 12 Meaning of increase in savings
 [Repealed]
+
+### LZ 13 Part-year override of section LY 3(2)﻿(b)
+When this section applies
+(1) This section applies for a person’s 2020–21 income year if—
+  (a) the person’s 2020–21 income year starts after 1 April 2020; and
+  (b) the person receives a Callaghan Innovation Growth Grant for only part of the 2020–21 income year.
+Part-year override of section LY 3(2)﻿(b)
+(2) Despite section LY 3(2)﻿(b) (When this subpart applies), subpart LY may apply to a person for the part of the year after their Callaghan Innovation Growth Grant contract ends, to the extent to which they appropriately apportion their eligible research and development expenditure to the research and development tax credit and not to the Callaghan Innovation Growth Grant for that part of the year.
 
 ### LZ 14 Research and development tax credits’ refundability: option for 2019–20 income year
 When this section applies
@@ -32740,17 +32796,19 @@ The first requirement is that the person referred to in section MC 2 is 16 or ol
 ### MC 4 Second requirement: principal care
 The second requirement is that the person referred to in section MC 2 is the principal caregiver for 1 or more dependent children.
 
-### MC 5 Third requirement: residence
+### MC 5 Third requirement: residence or entitlement to emergency benefit
 Third requirement
-(1) The third requirement is that either the person referred to in section MC 2 or the child referred to in section MC 4 meets the residence requirements of subsections (2) and (3), as applicable.
+(1) The third requirement is that—
+  (a) the person referred to in section MC 2 or the child referred to in section MC 4 meets the residence requirements of subsections (2) and (3), as applicable:
+  (b) the person referred to in section MC 2 is entitled to receive an emergency benefit under section 63 or 64 of the Social Security Act 2018.
 When person meets residence requirements
-(2) The person meets the residence requirements of subsection (1) if the person—
+(2) The person meets the residence requirements of subsection (1)﻿(a) if the person—
   (a) has been—
     (i) both a New Zealand resident and present in New Zealand for a continuous period of 12 months at any time; and
     (ii) resident in New Zealand under section YD 1 (Residence of natural persons) on the days for which a tax credit arises under section MD 1 (Abating WFF tax credit), ME 1 (Minimum family tax credit entitlement), or MG 1 (Best Start tax credit entitlement); and
   (b) is not a transitional resident and is not the spouse, civil union partner, or de facto partner of a transitional resident.
 When child meets residence requirements
-(3) The child meets the residence requirements of subsection (1) if the child is both a New Zealand resident and present in New Zealand for the entitlement period.
+(3) The child meets the residence requirements of subsection (1)﻿(a) if the child is both a New Zealand resident and present in New Zealand for the entitlement period.
 
 ### MC 6 When person does not qualify
 Despite sections MC 3 to MC 5, a person does not qualify for—
@@ -33108,7 +33166,7 @@ Formula
 (2) The formula is—(prescribed amount − net family scheme income) × weekly periods ÷ 52.
 Definition of items in formula
 (3) In the formula,—
-  (a) prescribed amount is $26,572:
+  (a) prescribed amount is $27,768:
   (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3, for a relationship period containing the entitlement period, of—
     (i) the person; or
     (ii) their spouse, civil union partner, or de facto partner; or
@@ -33450,6 +33508,7 @@ Requirements for person
   (a) they must be 18 years or older; and
   (b) they must have a creditable membership of a complying superannuation fund or a KiwiSaver scheme; and
   (c) they must not be entitled under schedule 1, clause 4 of the KiwiSaver Act 2006 or an equivalent provision to withdraw an amount from the scheme or fund; and
+  (cb) they must not have made a withdrawal under clause 12B of the KiwiSaver scheme rules (which relates to life-shortening congenital condition withdrawals); and
   (d) they must reside mainly in New Zealand, or otherwise they must—
     (i) be an employee of the State services under the State Sector Act 1988 serving outside New Zealand; or
     (ii) work overseas as a volunteer or for token payment for a charity (within the meaning of section 4(1) of the Student Loan Scheme Act 2011) and the work meets 1 or more of the requirements in schedule 1, clause 2(1) of that Act.
@@ -37174,40 +37233,50 @@ Premiums and levies
 ### RA 11 Adjustment to correct errors: certain underpayments
 When this section applies
 (1) This section applies when—
-  (a) a person (the payer) is required to withhold and pay to the Commissioner—
-    (i) RWT in relation to a payment to another person (the payee) of resident passive income that is interest or a dividend treated as interest; or
-    (ii) NRWT in relation to a payment to the payee of non-resident passive income; and
+  (a) a person (the payer) is required to withhold an amount of tax for resident passive income or non-resident passive income in relation to a payment to another person (the payee); and
   (b) the payer, through an error, does not withhold some or all of the amount.
-Amount withheld from later payment or recovered
-(2) The payer may—
-  (a) subtract from a later payment to the payee an amount to correct the deficiency; or
-  (b) recover from the payee an amount to correct the deficiency.
-Requirements when withholding from later payment
-(3) For the purposes of subsection (2)﻿(a),—
-  (a) the later payment must be a payment of interest, a dividend treated as interest, or a payment of non-resident passive income, as applicable; and
-  (b) the payment must be made in the same tax year in which the first payment is made.
+Adjustments for errors
+(2) To correct the error, the payer may make an adjustment by—
+  (a) subtracting from a later payment to the payee an amount to correct the deficiency; or
+  (b) recovering from the payee an amount to correct the deficiency; or
+  (c) for a non-cash dividend, adjusting the amount that is subject to tax.
+Timing of and limitations on adjustments
+(3) Subject to subsection (4),—
+  (a) for an adjustment for an error discovered in the tax year in which it is made (year 1), the payer must, if it is reasonably practical to do so, make the adjustment under subsection (2) by the next regular reporting date for the delivery of investment income information relating to the payee:
+  (b) for an adjustment for an error discovered in a tax year following that in which the error is made (year 2), the payer may make an adjustment under subsection (2) by the next regular reporting date in year 2 but only to the extent to which the total adjustments made by the payer in year 2 relating to year 1 are no more than the greater of—
+    (i) $2,000; or
+    (ii) 5% of the payer’s withholding liability for RWT or NRWT, as applicable, for the tax year in which the first payment is made to the payee.
+Requirements when recovering amounts from payees
+(4) For the purposes of subsection (2)﻿(b), the recovery action must be taken in the same tax year in which the error is made.
+When adjustments made
+(5) An adjustment under this section is treated as made on the due date for the amount of tax referred to in subsection (1)﻿(a).
+Notifying Commissioner of adjustments
+(6) The payer must notify the Commissioner of an adjustment made under subsection (3)﻿(b) at the time it is made, including in their notification—
+  (a) the information in schedule 6, table 1, rows 1 to 7, 10, 16, and 22 of the Tax Administration Act 1994, as applicable; and
+  (b) adjustments to the items referred to in schedule 6, table 1, rows 8, 9, 11, 14, 15, and 21 of that Act, as applicable.
 
 ### RA 12 Adjustment to correct errors: certain excess amounts
 When this section applies
 (1) This section applies when—
   (a) a person (the payer) is required to withhold and pay to the Commissioner an amount of RWT or NRWT for a payment to another person (the payee); and
   (b) the payer, through an error, withholds an amount (the excess amount) that is more than the amount required under this Part.
-Refunding excess amount of resident passive income
-(2) For a payment of resident passive income, the payer may pay the excess amount to the payee at any time before the end of the tax year in which the amount of tax is withheld if,—
-  (a) for a payment of interest or a dividend treated as interest, an RWT withholding certificate relating to the amount has either not been sent out or has been returned and cancelled:
-  (b) for a payment of a dividend other than a dividend treated as interest, a shareholder dividend statement relating to the amount has either not been sent out for the purposes of section 29 of the Tax Administration Act 1994 or has been returned and cancelled:
-  (c) for a taxable Maori authority distribution, a notice relating to the amount has either not been given to a member of the Maori authority under section 31 of that Act or has been returned and cancelled.
+Refunding excess amounts of resident and non-resident passive income
+(2) For a payment of resident passive income or non-resident passive income, the payer may pay the excess amount to the payee at any time before the 20th of April after the end of the tax year in which the amount is withheld if the payer has not reported to the payee under section 26C, 29, or 31 of the Tax Administration Act 1994, providing the details set out in those provisions.
 Treatment of amount
-(3) For the purposes of this section, when the payer pays the excess amount under subsection (2), the amount is no longer treated as RWT.
-Amendments to notices
-(4) If the RWT withholding certificate, shareholder dividend statement, or notice referred to in subsection (2)﻿(c) has been returned or cancelled, the payer must provide the payee with an amended certificate, statement, or notice, as applicable.
+(3) For the purposes of this section, when the payer pays the excess amount under subsection (2), the amount is no longer treated as RWT or NRWT, as applicable.
+Notifying payee and Commissioner of excess amounts
+(4) If the payer has not refunded the amount to the payee, the payer must notify the following of the excess amount by the date referred to in subsection (2):
+  (a) the payee:
+  (b) the Commissioner.
+Notifying Commissioner of refunds paid
+(4B) If the payer has refunded the amount to the payee, the payer must notify the Commissioner of the payment and of the amount of the refund at the time of paying the refund.
 Commissioner refunding overpayment
 (5) If the excess amount has been paid to the Commissioner, the Commissioner must refund the amount of the overpayment to—
   (a) the payee; or
   (b) the payer, if they have not subtracted the amount under subsection (6)﻿(a) from a later payment made in relation to the payee.
 Payer’s options
-(6) For the purposes of subsection (5), if the excess amount has been refunded to the payee, the payer may—
-  (a) subtract the amount from an amount paid later to the Commissioner under section RE 21 or RF 13 (which relate to resident passive income and non-resident passive income), noting the action in the statement required under section 50 of the Tax Administration Act 1994; or
+(6) For the purposes of subsection (5), if the payer has refunded the excess amount to the payee and has not received a refund from the Commissioner, the payer may—
+  (a) subtract the amount from an amount paid later to the Commissioner under section RE 21 or RF 13 (which relate to resident passive income and non-resident passive income), noting the action in the investment income information required under subpart 3E of the Tax Administration Act 1994; or
   (b) apply for a refund of the amount under section RM 8 (Overpaid RWT or NRWT).
 Overpayment through payee’s act or omission
 (7) Despite subsections (2) and (5), if the excess amount arises from an act or omission by the payee, the payer must pay the full amount withheld to the Commissioner and is not liable to repay the excess amount to the payee or another person.
@@ -37258,17 +37327,11 @@ Relevant end dates
     (i) for the first instalment, the last day of September; and
     (ii) for the second instalment, the last day of March.
 When payment due in December
-(4) Despite subsection (2), for the purposes of this section and the payment of PAYE and ESCT to the Commissioner, if the month referred to in subsection (3) is December, the payment is due by 15 January.
+(4) Despite subsection (2), for the purposes of this section and the payment of PAYE and ESCT to the Commissioner, if the month referred to in subsection (3)﻿(a)﻿(ii) is December, the payment is due by 15 January.
 Discrepancies
-(5) Subsection (6)—
-  (a) applies when a discrepancy arises in the information that a person is required to provide under,—
-    (i) for resident passive income, section 51(1), (4), or (5) of the Tax Administration Act 1994:
-    (ii) for non-resident passive income, section 49(1) or (2) of that Act:
-  (b) does not apply to an unpaid amount that the Commissioner assesses for a particular return period.
+(5)
 Payment dates
-(6) If an amount of RWT or NRWT remains unpaid, the person required to withhold the amount must pay it to the Commissioner no later than—
-  (a) 20 April after the end of the tax year in relation to information provided under section 49(1) or 51(1) of the Tax Administration Act 1994:
-  (b) the last date for providing the information, in relation to information provided under section 49(2) or 51(4) or (5) of that Act.
+(6)
 Non-resident passive income
 (7) The Commissioner may extend the time for payment of NRWT.
 
@@ -37280,13 +37343,13 @@ When this section applies
 Payment to Commissioner
 (2) The person must pay to the Commissioner by the 20th day of the next month the total amount of tax for all payments relating to the taxable activity to the extent to which an amount of tax remains unpaid.
 Exemption continuing
-(3) This section does not apply for resident passive income if the person continues to hold an RWT exemption certificate.
+(3) This section does not apply for resident passive income if the person’s RWT-exempt status continues.
 
-### RA 17 Payment date when RWT exemption certificate expires
+### RA 17 Payment date when RWT-exempt status ends
 When this section applies
-(1) This section applies in relation to a month of a tax year when an RWT exemption certificate of a person expires.
+(1) This section applies in relation to a month of a tax year when a person’s RWT-exempt status ends.
 Payment to Commissioner
-(2) The person must pay to the Commissioner by the 20th day of the month following that in which the certificate expires the total amount of tax withheld by them to the extent to which the amount remains unpaid.
+(2) The person must pay to the Commissioner by the 20th day of the month following that in which the status ends the total amount of tax withheld by them to the extent to which the amount remains unpaid.
 Exclusion
 (3) This section does not apply if the person continues to be required to withhold RWT through the carrying on of a taxable activity.
 
@@ -37407,7 +37470,7 @@ Application
 ### RC 3 Who is required to pay provisional tax?
 Threshold or election
 (1) A person who is liable to pay provisional tax for a tax year is—
-  (a) a person whose residual income tax for the tax year is more than $2,500; or
+  (a) a person whose residual income tax for the tax year is more than $5,000; or
   (b) a person who chooses under section RC 4 to pay provisional tax.
 Exclusions
 (2) Despite subsection (1), the following persons do not pay provisional tax:
@@ -37416,12 +37479,12 @@ Exclusions
   (c) a non-resident contractor who has not been given an exemption by the Commissioner for the tax year:
   (d) a multi-rate PIE that does not choose to calculate and pay tax using the provisional tax calculation option under section HM 44 (Provisional tax calculation option).
 No obligation
-(3) A person has no obligation to pay provisional tax for a tax year if their residual income tax for the preceding tax year is $2,500 or less.
+(3) A person has no obligation to pay provisional tax for a tax year if their residual income tax for the preceding tax year is $5,000 or less.
 
 ### RC 4 Choosing to pay provisional tax
 Election
 (1) A person, when first providing a return of income for a tax year, may choose to pay provisional tax for the tax year if—
-  (a) they have paid provisional tax of more than $2,500 on or before—
+  (a) they have paid provisional tax of more than $5,000 on or before—
     (i) the date of instalment F for the corresponding income year; or
     (ii) the final instalment date in a transitional year; and
   (b) they have, on the day on which the first payment of provisional tax is made for the tax year, a reasonable expectation that they are liable to pay provisional tax for the tax year, other than by this election.
@@ -37480,7 +37543,7 @@ Commissioner’s assessment for preceding tax year
 Residual income tax for preceding tax year
 (4) The amount of provisional tax payable for a tax year is the amount of the person’s residual income tax for the preceding tax year if—
   (a) they are not required to provide a return of income for the preceding tax year; or
-  (b) their residual income tax for the tax year before the preceding tax year was $2,500 or less, and they were not required to provide, and have not provided, a return of income for the tax year by the date of instalment F for the corresponding income year.
+  (b) their residual income tax for the tax year before the preceding tax year was $5,000 or less, and they were not required to provide, and have not provided, a return of income for the tax year by the date of instalment F for the corresponding income year.
 Later increased assessment
 (5) If the Commissioner’s assessment of a person’s income tax liability occurs after the payment date for an instalment of provisional tax and would result in an increase in the person’s residual income tax for the preceding tax year, the residual income tax is treated for the purposes of the provisional tax rules as if it had not been increased.
 Transitional years and consolidated groups
@@ -37587,7 +37650,7 @@ Exclusions
     (i) pays GST on a 6-monthly basis; or
     (ii) pays GST on a monthly or 2-monthly basis, and starts a taxable activity within 30 days before the date of instalment B in their corresponding income year:
   (bb) to a person that uses the AIM method for the tax year:
-  (c) to a person liable to pay provisional tax who has not provided a return of income for the preceding tax year, and whose residual income tax for the tax year before the preceding tax year was $2,500 or less:
+  (c) to a person liable to pay provisional tax who has not provided a return of income for the preceding tax year, and whose residual income tax for the tax year before the preceding tax year was $5,000 or less:
   (d) in a transitional year.
 AIM method
 (4B) A person liable to pay provisional tax who uses the AIM method for the current tax year must pay provisional tax—
@@ -37605,14 +37668,14 @@ Changing calculation method
 Changing cycle of taxable periods
 (8) A person who changes the cycle of their taxable periods under section 15C of the Goods and Services Tax Act 1985 must pay provisional tax for the tax year on the instalment dates set out in section RC 27 after the change in taxable period takes effect. The amount of each instalment is calculated under section RC 10.
 Persons with initial provisional tax liability
-(9) A person with a new provisional tax liability who starts a taxable activity in a tax year is liable to pay interest calculated under section 120KC of the Tax Administration Act 1994 as if they were liable to pay provisional tax for the tax year—
+(9) A person with an initial provisional tax liability who starts a taxable activity in a tax year is liable to pay interest calculated under section 120KC of the Tax Administration Act 1994 as if they were liable to pay provisional tax for the tax year—
   (a) in 3 instalments under subsection (3) if they start a taxable activity at some time in the period that starts at the beginning of the corresponding income year and ends 30 days before the date of instalment B:
   (b) in 2 instalments—
     (i) in a case to which section RC 13 applies; or
     (ii) if they pay GST on a 6-monthly basis and start a taxable activity at some time in the period that starts at the beginning of the corresponding income year and ends 30 days before the date of instalment C:
   (c) in 1 instalment in a case to which section RC 14 applies.
 Extension of time for return
-(10) A person who has not provided a return of income for a preceding tax year and whose residual income tax for the tax year before the preceding tax year was $2,500 or less must pay provisional tax for the tax year on the instalment dates set out in section RC 13 or RC 14, as applicable.
+(10) A person who has not provided a return of income for a preceding tax year and whose residual income tax for the tax year before the preceding tax year was $5,000 or less must pay provisional tax for the tax year on the instalment dates set out in section RC 13 or RC 14, as applicable.
 Transitional years
 (11) In a transitional year, provisional tax is payable as set out in section RC 21 and schedule 3, part B. The amount of each instalment is calculated under sections RC 22 to RC 24.
 Voluntary payments
@@ -37681,11 +37744,11 @@ Who this section applies to
   (a) a person with an initial provisional tax liability whose first business day occurs in the period that starts 30 days before the date of instalment B and ends 30 days before the date of instalment D; or
   (b) a person liable to pay provisional tax whose return of income for the preceding tax year is provided in the period that starts on the date of instalment B and ends on the date of instalment D if—
     (i) they were required to provide a return for the preceding tax year but, under section 37 of the Tax Administration Act 1994 or an extension under that section, are not required to provide the return by the date of instalment B; and
-    (ii) their residual income tax for the tax year before the preceding tax year was $2,500 or less.
+    (ii) their residual income tax for the tax year before the preceding tax year was $5,000 or less.
 Exclusion
 (2) Despite subsection (1), this section does not apply to a person liable to pay provisional tax who pays GST on a 6-monthly basis.
 When instalments are payable
-(3) For the purposes of section RC 9(9)﻿(b), the instalments are payable on the date of instalments D and F for the person’s corresponding income year.
+(3) The instalments are payable on the date of instalments D and F for the person’s corresponding income year.
 Formula for amount of instalment
 (4) The amount of each instalment is calculated under section RC 10.
 
@@ -37695,12 +37758,12 @@ Who this section applies to
   (a) a person with an initial provisional tax liability whose first business day occurs in the period that starts 30 days before the date of instalment D and ends at the end of the corresponding income year:
   (b) a person liable to pay provisional tax whose return of income for the preceding tax year is not provided on or before the date of instalment D if—
     (i) they were required to provide a return for the preceding tax year but, under section 37 of the Tax Administration Act 1994 or an extension under that section, are not required to provide the return by the date of instalment D; and
-    (ii) their residual income tax for the tax year before the preceding tax year was $2,500 or less:
+    (ii) their residual income tax for the tax year before the preceding tax year was $5,000 or less:
   (c) a person who pays GST on a 6-monthly basis if—
     (i) their first business day occurs in the period that starts 30 days before the date of instalment C and ends at the end of the corresponding income year; or
     (ii) they meet the requirements of paragraph (b)﻿(i) and (ii) as if the reference to instalment D in paragraph (b)﻿(i) were a reference to instalment C.
 When instalment payable
-(2) For the purposes of section RC 9(9)﻿(c), the instalment is payable on the date of instalment F for the person’s corresponding income year.
+(2) The instalment is payable on the date of instalment F for the person’s corresponding income year.
 Amount of instalment
 (3) The amount of the instalment is calculated under section RC 10.
 
@@ -37712,7 +37775,7 @@ General eligibility
 (1) A person liable to pay provisional tax may choose to use a GST ratio to determine under section RC 5(6) the amount of provisional tax payable for a tax year only if they meet all the requirements of subsections (2) and (3) in relation to the same entity.
 Requirements for preceding tax year
 (2) For the purposes of determining their eligibility for a tax year, the person must meet the following requirements in the preceding tax year and corresponding income year:
-  (a) their residual income tax, as calculated, was more than $2,500 but no more than $150,000; and
+  (a) their residual income tax, as calculated, was more than $5,000 but no more than $150,000; and
   (b) they were a registered person for the whole income year, and provided a return under the Goods and Services Tax Act 1985 for an entity whose taxable activity did not begin operations in that tax year; and
   (c) the ratio of their residual income tax to total taxable supplies, as calculated under section RC 11 and expressed as a percentage, is between zero and 100%.
 Requirement for current year
@@ -37960,9 +38023,9 @@ Relationship with section FM 4
 
 ### RC 29 Residual income tax of consolidated groups
 When this section applies
-(1) This section applies for the purposes of the provisional tax rules if a company is part of a consolidated group of companies in a tax year but was not part of the group for some or all of the preceding tax year.
+(1) This section applies for the purposes of the provisional tax rules if a company is part of a consolidated group of companies in a tax year but was not part of the group for some or all of the preceding tax year, or some or all of the tax year before the preceding tax year, as applicable.
 Increased residual income tax
-(2) The residual income tax of the consolidated group for the preceding tax year is treated as increased by an amount equal to the residual income tax of the company for the preceding tax year. If the company is part of the group for part of the current tax year, the amount of residual income tax is increased as a proportion on the basis of the part of the tax year during which the company is part of the group.
+(2) The residual income tax of the consolidated group for the preceding tax year, or for the tax year before the preceding tax year, as applicable is treated as increased by an amount equal to the residual income tax of the company for the preceding tax year, or for the tax year before the preceding tax year, as applicable. If the company is part of the group for part of the current tax year, the amount of residual income tax is increased as a proportion on the basis of the part of the tax year during which the company is part of the group.
 Instalments after company joins group
 (3) If the company is part of a group for part of the tax year, this section applies only to instalments of provisional tax payable after the date on which the company becomes part of the group.
 
@@ -38013,7 +38076,7 @@ When transfer made, and how transfer treated
 When this section applies
 (1) This section applies for a tax year when an amalgamating company ends its existence on an amalgamation.
 Residual income tax for preceding tax year
-(2) The residual income tax of the amalgamated company for the preceding tax year is the amount that would have been the residual income tax of the amalgamated company for the preceding tax year if the amalgamating company and the amalgamated company had been 1 company.
+(2) The residual income tax of the amalgamated company for the preceding tax year, or for the tax year before the preceding tax year, as applicable is the amount that would have been the residual income tax of the amalgamated company for the preceding tax year, or for the tax year before the preceding tax year, as applicable if the amalgamating company and the amalgamated company had been 1 company.
 Exclusion
 (3) Subsection (2) does not apply for the purposes of the provisional tax rules in relation to instalments of provisional tax payable before the amalgamation.
 
@@ -38070,7 +38133,7 @@ Maximum amount
 [Repealed]
 
 ### RC 37 Availability of early-payment discounts
-Sections RC 38 and RC 39 apply for an income year to a small-business person who is not liable to pay provisional tax for the income year and, for earlier income years,—
+Sections RC 38 and RC 39 apply for an income year to a small-business person who has no obligation to pay provisional tax under section RC 3(3) and, for earlier income years,—
   (a) has never been liable to pay provisional tax and either—
     (i) has never received an early-payment discount; or
     (ii) has not derived assessable income from a business in a period of 4 income years starting after the latest income year for which they received an early-payment discount; or
@@ -38132,7 +38195,7 @@ Meaning
   (b) sections LA 6, LB 1, and LD 4 (which relate to tax credits); and
   (c) sections RD 3 to RD 24; and
   (d) sections RP 2 to RP 16 (which relate to PAYE intermediaries); and
-  (e) subparts 3C and 3D, sections 22AA, 124H to 124R, 133, Part 9, sections 167 to 169, and schedules 4 and 5 of the Tax Administration Act 1994.
+  (e) subparts 3C and 3D, sections 22AA, 124H to 124K, 124O to 124Q, 133, Part 9, sections 167 to 169, and schedules 4 and 5 of the Tax Administration Act 1994.
 Application
 (2) The PAYE rules apply to a person who makes or is required to make a PAYE income payment and, in certain circumstances, to the person to whom the PAYE income payment is made.
 Deceased employers
@@ -39219,7 +39282,7 @@ Meaning
 (1) The ESCT rules means—
   (a) section CX 49 (Employer’s superannuation contributions); and
   (b) sections RD 65 to RD 71; and
-  (c) subparts 3C and 3D, sections 22AA, 47, 124H to 124R, Part 9, and schedules 4 and 5 of the Tax Administration Act 1994.
+  (c) subparts 3C and 3D, sections 22AA, 47, 124H to 124K, 124O to 124Q, Part 9, and schedules 4 and 5 of the Tax Administration Act 1994.
 Application
 (2) The ESCT rules apply to an employer or a person who makes an employer's superannuation cash contribution.
 
@@ -39308,7 +39371,7 @@ Meaning
 (1) The RWT rules means—
   (a) this subpart; and
   (b) sections LA 4, LA 6, and LB 3 (which relate to tax credits for RWT); and
-  (c) sections 25 to 28, 32E to 32L, 50 to 55, 78D, 99, and 124ZF, Part 9, sections 170 to 172, and 185 of the Tax Administration Act 1994.
+  (c) subpart 3E, sections 26B, 26C, 27, 28, 28B, 54B to 54E, 55, 55B, 78D, 99, and 124ZF, Part 9, sections 170 to 172, and 185 of the Tax Administration Act 1994.
 Application
 (2) The RWT rules apply to a person who pays an amount of resident passive income.
 
@@ -39324,7 +39387,7 @@ Exclusions and inclusions
 Exclusions from interest
 (3) The following amounts are excluded from interest under this section:
   (a) exempt interest:
-  (b) interest derived by a person who holds an RWT exemption certificate issued under section RE 27:
+  (b) interest derived by a person who has RWT-exempt status under section RE 27:
   (c) interest that is non-resident passive income:
   (d) interest derived from outside New Zealand by a non-resident:
   (e) interest that is exempt income under section CW 27 (Certain income derived by transitional resident):
@@ -39343,13 +39406,13 @@ Exclusions from dividends
   (a) a dividend that is exempt income—
     (i) through the application of either of sections CW 9 and CW 10 (which relate to income from equity); or
     (ii) under section CW 27 (Certain income derived by transitional resident); or
-    (iii) under section CW 64 (Exemption under other Acts):
+    (iii)
   (b) an amount treated as a dividend under—
     (i) section CB 34(5)﻿(a) (Amounts derived by members from mutual associations); or
     (ii) sections GB 23 to GB 25 (which relate to excessive remuneration):
   (bb) a dividend from a portfolio investment entity:
   (c)
-  (d) a dividend derived by a person who holds an RWT exemption certificate issued under section RE 27:
+  (d) a dividend derived by a person who has RWT-exempt status under section RE 27:
   (e) a dividend that is non-resident passive income:
   (f) a dividend derived by a non-resident other than a dividend that has a source in New Zealand:
   (fb) a dividend paid by a company and derived by another company, if the dividend is fully imputed and the paying company chooses to exclude the dividend from being resident passive income:
@@ -39387,11 +39450,12 @@ Requirement for person
     (ii) not excluded under subsection (4).
 Requirements for person and payment
 (3) In addition to meeting a requirement of subsection (2), 1 of the following requirements must be met at the time the payment is made:
-  (a) the person holds an RWT exemption certificate:
+  (a) the person has RWT-exempt status under section RE 27:
   (b) the payment is made in whole or in part in carrying on a taxable activity, whether or not the person acts as agent or trustee for another person:
   (c) the payment is a dividend:
   (d) the payment is a taxable Maori authority distribution:
-  (e) the payment is a replacement payment under a share-lending arrangement.
+  (e) the payment is a replacement payment under a share-lending arrangement:
+  (f) the person is a custodial institution that pays on or transfers an amount of investment income to an end investor, see section RE 10C.
 When person not treated as resident or carrying on taxable activity
 (4) For the purposes of subsection (2), a person who is not resident in New Zealand and is carrying on a taxable activity in New Zealand through a fixed establishment in New Zealand, is treated as not meeting the requirements of the subsection if they establish that, at the time the payment is made,—
   (a) for an amount payable in relation to money lent or to shares issued by another person,—
@@ -39407,7 +39471,8 @@ Conversion rates: credit
 Conversion rates: payment
 (7) For the purposes of subsection (5), in the calculation of the amount of RWT to be paid to the Commissioner, the amount must be converted to New Zealand currency either at—
   (a) the close of trading spot exchange rate on the first working day of the month after the month in which the day the RWT is withheld; or
-  (b) a conversion rate applying under section OB 60(6) (Imputation credits attached to dividends) if the resident passive income is a dividend and the person required to withhold RWT under subsection (5) is an Australian ICA company that chooses to use that rate.
+  (b) a conversion rate applying under section OB 60(6) (Imputation credits attached to dividends) if the resident passive income is a dividend and the person required to withhold RWT under subsection (5) is an Australian ICA company that chooses to use that rate; or
+  (c) the exchange rate on the date on which the payment of income is received.
 
 ### RE 5 No withholding obligation in certain circumstances
 When this section applies
@@ -39415,7 +39480,7 @@ When this section applies
   (a) pays an amount to another person (person B); or
   (b) receives a payment while acting as agent or bare trustee for person B.
 No obligation if person B exempt
-(2) For the purposes of determining whether person A is required under section RE 4 to withhold RWT, the payment is treated as not consisting of resident passive income if person A has established that person B holds an RWT exemption certificate issued under section RE 27.
+(2) For the purposes of determining whether person A is required under section RE 4 to withhold RWT, the payment is treated as not consisting of resident passive income if person A has established that person B has RWT-exempt status under section RE 27.
 No obligation in relation to non-cash dividends
 (2B) Section RE 4 does not apply in relation to a dividend referred to in section RE 14C.
 No obligation if person B transitional resident
@@ -39442,7 +39507,7 @@ Who this section applies to
   (a) an amount is paid to a person (person A) who is acting as trustee for another person (person B) at the time; and
   (b) some or all of the amount is resident passive income other than a replacement payment under a share-lending arrangement; and
   (c) person A—
-    (i) does not hold an RWT exemption certificate at the time of the payment; and
+    (i) does not have RWT-exempt status under section RE 27 at the time of the payment; and
     (ii) is paid the amount in the conduct of a taxable activity carried on by them; and
     (iii) is not a nominee to whom section RE 8 applies.
 Obligation to withhold
@@ -39456,7 +39521,7 @@ Who this section applies to
   (a) an amount is paid to a person (person A) who is a nominee for another person (person B) at the time; and
   (b) some or all of the amount is resident passive income; and
   (c) person A—
-    (i) holds an RWT exemption certificate at the time of the payment; or
+    (i) has RWT-exempt status under section RE 27 at the time of the payment; or
     (ii) is paid the amount in the conduct of a taxable activity carried on by them.
 Obligation to withhold
 (2) At the time the payment is received and to the extent to which it has not already been withheld, person A must withhold RWT for the payment and pay it to the Commissioner.
@@ -39477,11 +39542,13 @@ Obligation of person paying not overridden
 Threshold for amounts of interest
 (1) This section applies to a person who—
   (a) pays resident passive income consisting of interest; and
-  (b) either does not hold an RWT exemption certificate at the time of the payment, or is described in section 32E(2)﻿(k) or (l) of the Tax Administration Act 1994 or holds a certificate under section 32I of that Act; and
-  (c) has paid an amount of resident passive income consisting of interest that totals less than $5,000 in the tax year before the tax year in which the payment is made; and
+  (b) either does not have RWT-exempt status under section RE 27 at the time of the payment or is a person described in section 32E(2)﻿(k) or (l) of the Tax Administration Act 1994 or is a person with RWT-exempt status under section 32I of that Act; and
+  (c) has paid an amount of resident passive income consisting of interest that is equal to or less than $5,000 in the tax year before the tax year in which the payment is made; and
   (d) would be liable to withhold RWT for the resident passive income in the absence of this section.
 Minimum amount
 (2) Despite section RE 4(3), the person is required to withhold the amount of tax for the payment only if the total resident passive income consisting of interest paid by the person in the tax year in which the payment is made is more than $5,000.
+Interest payments made in relation to taxable activities
+(3) For the purposes of subsection (2), and despite section RE 4(3)﻿(b), a person who pays an amount of resident passive income consisting of interest in relation to the carrying on of a taxable activity in a tax year is required to withhold RWT for the resident passive income only if the amount that relates to the taxable activity is more than $5,000 for the tax year. This subsection does not apply in relation to a person referred to in subsection (1)﻿(b) other than a person who does not have RWT-exempt status.
 
 ### RE 10B Amounts withheld from distributions to holders of FIF attributing interests
 When this section applies
@@ -39497,6 +39564,40 @@ Treatment of distribution
 (3) The distribution is treated as resident passive income for the purposes of the sections listed in subsection (2).
 Refunds
 (4) Subsection (2) does not apply if the payer or the holder applies under section RM 8(4) or (5) (Overpaid RWT or NRWT), as applicable, for a refund in relation to the amount withheld before the next 31 March after the date on which the amount of tax was withheld.
+
+### RE 10C Obligations of custodial institutions in relation to certain payments of investment income
+When this section applies
+(1) This section applies for the purposes of sections RE 4 and RF 4 (Non-resident passive income received by agents and others) when—
+  (a) a person who is a custodial institution receives a payment of investment income; and
+  (b) the institution has RWT-exempt status; and
+  (c) the institution pays on or transfers the amount received to an end investor.
+When this section does not apply
+(2) This section does not apply to a custodial institution that is the specified operator of a designated settlement system under the Reserve Bank of New Zealand Act 1989. The exclusion extends to a nominee or agent of the specified operator.
+Obligation to withhold
+(3) At the time the payment or transfer is made and to the extent to which the amount of tax has not already been withheld, the custodial institution that makes the payment to the end investor must withhold RWT for the payment and pay it to the Commissioner.
+Agreements to transfer withholding obligations: outsourcing withholding
+(4) A custodial institution that is required to withhold an amount of tax for a payment may, before the date on which the payment is received by the institution, enter into an agreement with another person (person B) for person B to withhold the amount of tax and pay it to the Commissioner. However, if person B does not withhold the amount of tax and pay it to the Commissioner, the withholding obligation remains with the custodial institution.
+Agreements to transfer withholding obligations: passing obligation to other custodial institutions
+(5) When a payment of investment income is paid on or transferred through interposed custodial institutions before being paid to an end investor, the custodial institution that is last in the chain may enter into an agreement with another custodial institution that precedes them in the chain, for the latter institution to withhold the amount of tax for the payment and pay it to the Commissioner. In this case, the withholding obligation passes to the latter institution, and the final custodial institution’s obligation is discharged.
+Meaning of custodial institution
+(6) For the purposes of this section and sections RE 4 and RF 4, a custodial institution means an entity—
+  (a) that holds financial assets or financial instruments as a bare trustee on account for another person; and
+  (b) whose activities,—
+    (i) for a resident entity, are supervised or regulated under the Financial Markets Conduct Act 2013, the Financial Markets Authority Act 2011, the Financial Advisers Act 2008, or the Reserve Bank of New Zealand Act 1989:
+    (ii) for a non-resident entity, other than an institution that is carrying on a business in New Zealand through a fixed establishment in New Zealand, are supervised or regulated under corresponding legislation in the relevant jurisdiction, or legislation that is substantially similar.
+Meaning of end investor
+(7) For the purposes of this section and sections RE 4 and RF 4, an end investor—
+  (a) means an investor to whom a payment of investment income is made who is—
+    (i) a direct investor, whether resident or non-resident, who is the beneficial owner of the investment:
+    (ii) a non-resident custodial institution, other than an institution that is carrying on a business in New Zealand through a fixed establishment in New Zealand; and
+  (b) includes a trustee, PIE, or PIE proxy if the person or entity has an obligation to provide investment income information to the Commissioner.
+Meaning of investment income
+(8) For the purposes of this section, and sections RE 4 and RF 4, investment income means—
+  (a) resident passive income under section RE 2(1)﻿(a) to (c) subject to the withholding obligations set out in sections RE 3 and RE 4:
+  (b) non-resident passive income under section RF 2(1) (Non-resident passive income) subject to the withholding obligations set out in section RF 3 (Obligation to withhold amounts of tax for non-resident passive income):
+  (c) attributed income of investors in portfolio investment entities under sections CP 1, CX 56, and CX 56B (which relate to attributed PIE income).
+Relationship with sections RE 7 and RE 8
+(9) This section overrides sections RE 7 and RE 8 (which relate to amounts paid to trustees and nominees).
 
 ### RE 11 Notification by companies
 When this section applies
@@ -39726,52 +39827,37 @@ Imputation credit
 ### RE 26 Payment by proxy
 An RWT proxy who is required to withhold RWT in relation to a payment of resident passive income is treated as having withheld the amount from the payment at the time the payment is made.
 
-### RE 27 RWT exemption certificates
+### RE 27 RWT-exempt status
 Application
-(1) A person may apply to the Commissioner for an RWT exemption certificate if—
-  (a) they are a person listed in section 32E(2) of the Tax Administration Act 1994; and
-  (b) they meet the requirements of section 32G of that Act.
-When certificate expires
-(2) An RWT exemption certificate expires if—
-  (a) the holder loses the basis of their exemption; or
-  (b) the Commissioner cancels the certificate under section 32L of the Tax Administration Act 1994.
+(1) A person may apply to the Commissioner for RWT-exempt status if they are a person listed in section 32E(2) of the Tax Administration Act 1994.
+When status ends
+(2) A person ceases to have RWT-exempt status if—
+  (a) they no longer meet the requirements in subsection (1); or
+  (b) the Commissioner revokes the status under section 32L of the Tax Administration Act 1994.
 Notifying Commissioner
-(3) If the holder of an RWT exemption certificate becomes aware they no longer meet the requirements, they must notify the Commissioner under section 32K of the Tax Administration Act 1994.
+(3) If a person who has RWT-exempt status becomes aware they no longer meet the requirements, they must notify the Commissioner under section 32K of the Tax Administration Act 1994.
+Notifying investment providers
+(4) A person who has RWT-exempt status must notify their investment provider of their status and of a change in their status. For a list of investment providers, see section 25E(1) of the Tax Administration Act 1994.
 
-### RE 28 When certificates expire
+### RE 28 When RWT-exempt status ends
 When this section applies
-(1) This section applies in a month when a person’s RWT exemption certification expires. But the section does not apply if the person continues to be required to withhold RWT in the course of carrying out a taxable activity.
+(1) This section applies in a month when a person’s RWT-exempt status ends. But the section does not apply if the person continues to be required to withhold RWT in the course of carrying out a taxable activity.
 Payment of outstanding amounts of tax
-(2) The person must pay to the Commissioner all amounts of RWT withheld and not paid to the Commissioner by the 20th day of the month following the month in which the certificate expired.
+(2) The person must pay to the Commissioner all amounts of RWT withheld and not paid to the Commissioner by the 20th day of the month following the month in which the status ends.
 
-### RE 29 Establishing whether person holds certificate
-When this section applies
-(1) This section applies for the purposes of section RE 5(2) to set out the ways available to person A to establish whether person B is a person holding an RWT exemption certificate.
-Requirements
+### RE 29 Establishing whether persons have RWT-exempt status
+(1) This section applies for the purposes of section RE 5(2) to set out the ways for person A to establish—
+  (a) whether person B is a person who has RWT-exempt status; and
+  (b) that the status has not ended.
 (2) Person A may establish that—
-  (a) they have taken reasonable steps to confirm that person B is a person listed in section 32E(2)﻿(a) to (h) of the Tax Administration Act 1994; or
-  (b) except in relation to a person listed in section 32E(2)﻿(k) or (l) or to whom a certificate has been provided under section 32I, they have been given person B’s tax file number and have been notified that person B holds an RWT exemption certificate; or
-  (c) they have seen person B’s certificate and have taken reasonable steps to confirm that person B is the person named in the certificate.
-Additional requirements
-(3) In addition to the requirements of subsection (2), the following requirements must be met in relation to person B’s RWT exemption certificate:
-  (a) no notice of cancellation has been published in the Gazette—
-    (i) for interest, more than 5 working days before the date on which the money was lent:
-    (ii) for a dividend or a taxable Maori authority distribution, more than 5 working days before the date on which payment was made:
-  (b) person A has not been advised by the Commissioner or person B of a cancellation of a certificate more than 5 working days before the date on which payment is made:
-  (c) person A has no other grounds for believing that person B is not eligible for a certificate.
-Later certificate
-(4) For the purposes of subsection (3)﻿(a) and (b), if a notice of cancellation has been published or if person A has been advised as described, the requirements are still met if—
-  (a) a certificate has been provided to person B and notified in the Gazette in the period that is after the notice of cancellation and more than 5 working days before the date on which the payment is made; or
-  (b) person A has seen a certificate provided to person B after the date of publication of the notice of cancellation.
-When person B listed or income of particular type
-(5) For the purposes of this section, person A has no ground for believing that the payment is income derived by a person other than person B when—
-  (a) person B is a person listed in section 32E(2)﻿(a) to (h) of the Tax Administration Act 1994; and
-  (b) the payment is not interest, a dividend, or a taxable Maori authority distribution derived by person B as trustee on behalf of a third person.
+  (a) they have made a search of the electronic register that the Commissioner provides on which the details of persons with RWT-exempt status are listed; or
+  (b) they have taken reasonable steps to confirm that person B is a person listed in section 32E(2)﻿(a) to (h) of the Tax Administration Act 1994; or
+  (c) except in relation to a person listed in section 32E(2)﻿(k) or (l) of that Act or to whom the Commissioner has provided RWT-exempt status under section 32I of that Act, they have been given person B’s tax file number and have been notified that person B has RWT-exempt status.
 
-### RE 30 When unincorporated bodies hold certificates
+### RE 30 When unincorporated bodies have RWT-exempt status
 When this section applies
 (1) This section applies when—
-  (a) an unincorporated body that is carrying on a taxable activity holds an RWT exemption certificate; and
+  (a) an unincorporated body that is carrying on a taxable activity has RWT-exempt status; and
   (b) the exemption relates to the carrying on of the taxable activity.
 Treatment of payments made by unincorporated bodies
 (2) For the purposes of the RWT rules, a payment that the body makes in the course of carrying on the taxable activity is treated as a payment made by the body and not by a member of the body. This subsection overrides subsection (7).
@@ -39938,12 +40024,16 @@ Exclusion
 ### RF 4 Non-resident passive income received by agents and others
 When this section applies
 (1) This section applies when—
-  (a) an agent or other person in New Zealand receives a payment of non-resident passive income on behalf of a person entitled to the payment; and
+  (a) an agent, custodial institution, or other person in New Zealand receives a payment of non-resident passive income on behalf of a person entitled to the payment; and
   (b) some or all of the amount of tax for the payment has not been withheld.
-Obligation to withhold: agent or other person
-(2) The agent or other person must withhold the amount of tax referred to in subsection (1)﻿(b) for the payment and pay it to the Commissioner. The obligation to withhold arises at the time of receipt.
-Notifying agent or other person
-(3) If, in the circumstances described in subsection (1)﻿(a), the person paying the non-resident passive income has withheld the amount of tax for the payment, they must notify the agent or other person of the amount withheld. Notification must be made at the time the payment is made.
+Obligation to withhold: agent, custodial institution, or other person
+(2) The agent, custodial institution, or other person must withhold the amount of tax referred to in subsection (1)﻿(b) for the payment and pay it to the Commissioner. The obligation to withhold arises at the time of receipt.
+Notifying agent, custodial institution, or other person
+(3) If, in the circumstances described in subsection (1)﻿(a), the person paying the non-resident passive income has withheld the amount of tax for the payment, they must notify the agent, custodial institution, or other person of the amount withheld. Notification must be made at the time the payment is made.
+Agreements to transfer withholding obligations: outsourcing withholding
+(4) A custodial institution that is required to withhold an amount of tax for a payment may, before the date on which the payment is received by the institution, enter into an agreement with another person (person B) for person B to withhold the amount of tax and pay it to the Commissioner. However, if person B does not withhold the amount of tax and pay it to the Commissioner, the withholding obligation remains with the custodial institution.
+Agreements to transfer withholding obligations: passing obligation to other custodial institutions
+(5) When a payment of investment income is paid on or transferred through interposed custodial institutions before being paid to an end investor, the custodial institution that is last in the chain may enter into an agreement with another custodial institution that precedes them in the chain, for the latter institution to withhold the amount of tax for the payment and pay it to the Commissioner. In this case, the withholding obligation passes to the latter institution, and the final custodial institution’s obligation is discharged.
 
 ### RF 5 When amounts of tax already withheld
 A person is not required to withhold NRWT when some or all of the payment consists of resident passive income to the extent to which the amount of tax has already been collected.
@@ -40514,9 +40604,7 @@ Certain FIF income: application by payer
 (5) The person making the distribution may apply for a refund if—
   (a) they apply before the next 31 March after the date on which the amount was withheld, with supporting information to show the payment has been made to the holder without any subtraction permitted by section RA 12(5) and (6) (Adjustment to correct errors: certain excess amounts); and
   (b) the holder has not applied for a refund under subsection (4) in relation to the amount; and
-  (c) they provide, in relation to the amount,—
-    (i) a statement that they will not include particulars in an RWT withholding reconciliation statement made under section 51 of the Tax Administration Act 1994; and
-    (ii) the disclosure information required by section 52 of that Act.
+  (c) they provide, in relation to the amount, a statement that they will not include particulars in their investment income information under sections 25F to 25H and make disclosure under section 25N of the Tax Administration Act 1994.
 Use of refund
 (6) An amount of a refund paid under subsection (4) or (5) may be used under section RM 10 to satisfy a liability under the Inland Revenue Acts.
 
@@ -40552,7 +40640,7 @@ Reduction in amount of provisional tax payable
   (a) apply the overpayment as the person asks under section 173T of the Tax Administration Act 1994 or, if no request is made, in a way that the Commissioner determines in payment of tax or another amount that is payable by them; and
   (b) refund any balance of the overpayment.
 Reduction in assessment
-(3) If the person’s residual income tax for the relevant tax year is no more than $2,500, and they apply for the refund of an amount of provisional tax that has been determined under section RC 9 (Provisional tax payable in instalments) and already paid, other than on a final instalment, the Commissioner must—
+(3) If the person’s residual income tax for the relevant tax year is no more than $5,000, and they apply for the refund of an amount of provisional tax that has been determined under section RC 9 (Provisional tax payable in instalments) and already paid, other than on a final instalment, the Commissioner must—
   (a) apply the amount as the person asks under section 173T of the Tax Administration Act 1994 or, if no request is made, in a way the Commissioner determines in payment of tax or another amount that is payable by them; and
   (b) refund any balance of the amount.
 Treatment of amount refunded or credited
@@ -40725,61 +40813,24 @@ This subpart establishes the obligations of PAYE intermediaries and tax pooling 
 
 ### RP 2 PAYE intermediaries
 Transferring obligations
-(1) An employer may arrange to transfer their pay-as-you-earn (PAYE) and employer’s superannuation contribution tax (ESCT) obligations to a person approved under section 124I or 124L of the Tax Administration Act 1994 as a PAYE intermediary or a listed PAYE intermediary.
+(1) An employer may arrange to transfer their pay-as-you-earn (PAYE) and employer’s superannuation contribution tax (ESCT) obligations to a person approved under section 124I or 124L of the Tax Administration Act 1994 as a PAYE intermediary.
 Paying amounts of tax and filing returns
-(2) A PAYE intermediary or listed PAYE intermediary must, on behalf of an employer who has transferred an obligation to them under subsection (1),—
+(2) A PAYE intermediary must, on behalf of an employer who has transferred an obligation to them under subsection (1),—
   (a) withhold and pay to the Commissioner the amount of tax for a payment under the PAYE rules and the ESCT rules; and
   (b) file a return of income relating to the payment and the amount of tax for the payment.
 When person no longer intermediary
-(3) A person who stops being a PAYE intermediary or a listed PAYE intermediary for an employer has the rights and obligations under the PAYE rules and ESCT rules of a PAYE intermediary or listed PAYE intermediary, as applicable, in relation to funds that—
+(3) A person who stops being a PAYE intermediary for an employer has the rights and obligations under the PAYE rules and ESCT rules of a PAYE intermediary in relation to funds that—
   (a) the employer pays to the person as intermediary; and
   (b) the person holds at the time they stop being an intermediary.
 
 ### RP 3 Requirements for listed PAYE intermediaries
-For a period in which a person remains a listed PAYE intermediary, they must—
-  (a) continue to qualify under section 124I of the Tax Administration Act 1994 as a PAYE intermediary; and
-  (b) meet all the obligations under this subpart of a PAYE intermediary; and
-  (c) continue to meet the requirements of section 124K of the Tax Administration Act 1994; and
-  (d) operate technology systems to enable them to return by electronic means a subsidy claim form that contains a correct calculation of the amount of a subsidy under section RP 5 and section 124R of the Tax Administration Act 1994.
+[Repealed]
 
 ### RP 4 Payment of subsidies to certain PAYE intermediaries
-Requirements for payment of subsidy
-(1) The Commissioner may pay a subsidy to a listed PAYE intermediary for a payroll service that they provide to an employer to whom subsection (1B) applies if the listed PAYE intermediary—
-  (a) has a contract with the employer to provide the services; and
-  (b) has met their obligations under sections RP 13 to RP 16; and
-  (c) files a correct subsidy claim form under section 124R of the Tax Administration Act 1994.
-Requirements for employers
-(1B) For the purposes of subsection (1), the employer must have, for the preceding tax year, a total gross amount of tax of less than $50,000 withheld under section RA 5(1)﻿(a) and (c) (Tax obligations for employment-related taxes) for—
-  (a) PAYE income payments:
-  (b) employer’s superannuation cash contributions.
-New employers
-(1C) For the purposes of the threshold amount in subsection (1B), an employer who is a new employer may estimate whether the total gross amount of tax for the tax year is likely to be less than the threshold amount.
-Commissioner’s discretion
-(1D) Despite subsection (1B), the Commissioner may regard the employer as continuing to meet the requirements of that subsection even though the total gross amount of tax exceeds the threshold amount if the excess relates to an amount that is not a recurring amount, for example, a redundancy payment or a payment on retirement.
-Notification requirements
-(2) If a subsidy under subsection (1) is paid to a listed PAYE intermediary, the Commissioner must notify the intermediary of the following matters within 14 days of the date of the payment:
-  (a) the amount of the subsidy paid in relation to each employer; and
-  (b) the period to which the subsidy relates; and
-  (c) other information that may be relevant to the payroll services provided as the Commissioner considers appropriate.
-Calculating amount of subsidy
-(3) The listed PAYE intermediary must calculate the amount of the subsidy in the manner provided by regulations made under this section.
-Paying amount of subsidy
-(4) The Commissioner must pay the amount of the subsidy within 30 days of receiving the last of—
-  (a) the employment income information to which the subsidy claim form relates:
-  (b) the payment of the amounts of tax for a PAYE income payment to which the subsidy claim form relates:
-  (c) the subsidy claim form.
-Bank accounts
-(5) The Commissioner must pay the subsidy to a bank account nominated by the listed PAYE intermediary for the purpose or, if an overpayment has been made to the listed PAYE intermediary, to the listed PAYE intermediary’s bank account.
-Prescribing amount of subsidy
-(6) The Governor-General may from time to time by Order in Council prescribe the amount of the subsidy to be paid for an employee of an employer who contracts the services of a listed PAYE intermediary under section 124O of the Tax Administration Act 1994.
+[Repealed]
 
 ### RP 5 Subsidy claims
-When this section applies
-(1) This section applies when a listed PAYE intermediary files a subsidy claim form under section 124R of the Tax Administration Act 1994 and the Commissioner amends the details to correct an error.
-Overpaid or underpaid amounts
-(2) If an overpayment or underpayment results from the amendment, the intermediary or Commissioner, as applicable, must pay the amount overpaid or underpaid within 30 days of the date of notice under section 124R(3) of that Act.
-Using overpayment to pay subsidy
-(3) Despite subsection (2), the Commissioner may choose to use the amount of an overpayment resulting from an amendment to pay a subsidy claim made after the end of the 14-day period referred to in section 124R(3) of that Act.
+[Repealed]
 
 ### RP 6 Operation of PAYE intermediaries’ trust accounts
 Nature of account
@@ -41204,6 +41255,9 @@ Foreign exchange treatment
 (3) For the purposes of subsection (2) and an arrangement that is denominated in a foreign currency, the calculation of total interest and total expenditure must be made in the currency of the arrangement and the excess converted to New Zealand dollars under subpart YF (Currency conversion).
 ExampleOn 1 April 2010, X Ltd borrowed $1m from Foreign Parent Ltd, repayable on 31 March 2025. Foreign Parent also has a New Zealand branch. On 31 March each year from 2011 to 2016, X makes an interest payment of $60,000 to Foreign Parent. As Foreign Parent has a New Zealand branch, these interest payments are not non-resident passive income, so no NRWT is required to be withheld. Once the amendments to section RF 2(1)﻿(d) are enacted, any interest payments by X to Foreign Parent will be non-resident passive income. On 30 September 2016, X makes a one-off interest payment of $400,000 and agrees with Foreign Parent that no further interest will be paid. X calculates that $35,000 of this payment covers the period from 1 April 2016 to the date on which the amendments to section RF 2(1)﻿(d) are enacted. The remaining $365,000 is treated as a prepayment that is paid on the date of enactment, so X is required to withhold NRWT of $36,500.
 
+### RZ 14 Listed PAYE intermediaries: transitional provision
+Despite the repeal of sections RP 4 and RP 5, sections 124L, 124M, 124N, 124R, 185C, and 185D of the Tax Administration Act 1994, and the Income Tax (Payroll Subsidy) Regulations 2006 (which relate to the payment of subsidies to certain PAYE intermediaries) by the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018, those provisions continue to apply in relation to the payment of an amount of a subsidy or a claim for a subsidy to which a listed PAYE intermediary becomes entitled before the date of the repeal.
+
 ### RZ 15 Treatment of certain refunds made on income statements: 1 April 2008 to 31 March 2019
 When this section applies
 (1) This section applies for the period that starts on 1 April 2008 and ends on 31 March 2019 when—
@@ -41528,9 +41582,7 @@ In this Act, unless the context requires otherwise,—
   - **bribe** is defined in section DB 45(4) (Bribes) for the purposes of that section
   - **bright-line date** is defined in section CB 6A (Disposal within 5 years: bright-line test for residential land) for the purposes of that section, section CB 16A (Main home exclusion for disposal within 5 years), and section 54C of the Tax Administration Act 1994
   - **broodmare** means a broodmare that is bloodstock
-  - **building** , in subparts EE and EZ, does not include—
-    (a) a grandparented structure:
-    (b) commercial fit-out
+  - **building**
   - **building society** is defined in section 2 of the Building Societies Act 1965
   - **business** —
     (a) includes any profession, trade, or undertaking carried on for profit:
@@ -41703,7 +41755,7 @@ In this Act, unless the context requires otherwise,—
     (i) includes a building society:
     (j) is further defined in section EX 30(7) (Direct income interests in FIFs) for the purposes of that section:
     (k) is defined in section HD 15(9) (Asset stripping of companies) for the purposes of that section
-  - **company dividend statement** means a statement required by section 67 of the Tax Administration Act 1994 to be completed and retained by a company for a dividend
+  - **company dividend statement** means a statement required by section 25G of the Tax Administration Act 1994 to be completed and retained by a company for a dividend
   - **comparative value method** means the method of calculating FIF income or FIF loss in section EX 51 (Comparative value method)
   - **compensation**
   - **completed** , for a film, means the completion of the film to—
@@ -41885,6 +41937,7 @@ In this Act, unless the context requires otherwise,—
   - **current accounting year**
   - **current market value** is defined in section HR 12 (Non-exempt charities: treatment of tax-exempt accumulations) for the purposes of that section
   - **current value** is defined in section HR 3(4) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
+  - **custodial institution** is defined in section RE 10C(6) (Obligations of custodial institutions in relation to certain payments of investment income) for the purposes of that section and sections RE 4 and RF 4
   - **date of acquisition** is defined in section CB 6A (Disposal within 5 years: bright-line test for residential land) for the purposes of that section, section CB 16A (Main home exclusion for disposal within 5 years), and section 54C of the Tax Administration Act 1994
   - **date of transfer** , in subpart FB (Transfers of relationship property), and in the definitions of , for property transferred under a relationship agreement, means the date on which the property was transferred
   - **date the deposit ends** —
@@ -42169,6 +42222,7 @@ In this Act, unless the context requires otherwise,—
   - **end date** —
     (a) is defined in section HR 12(7) (Non-exempt charities: treatment of tax-exempt accumulations) for the purposes of that section:
     (b) is defined in section RA 15(3) (Payment dates for interim and other tax payments) for the purposes of that section
+  - **end investor** is defined in section RE 10C(7) (Obligations of custodial institutions in relation to certain payments of investment income) for the purposes of that section and sections RE 4 and RF 4
   - **engaged in full-time work**
   - **entering owner** —
     (a) means a person who acquires an owner's interests for a look-through company:
@@ -42258,7 +42312,7 @@ In this Act, unless the context requires otherwise,—
   - **exempt interest** means interest that is—
     (a) payable for a debt entered into under generally accepted commercial practice for the purchase of goods or services, if the purchase is made in the ordinary course of the purchaser’s taxable activity; or
     (b) payable under a hire purchase agreement, the definition of which applies, for this purpose, as if it did not contain paragraph (g); or
-    (c) exempt income under section CW 8 (Money lent to government of New Zealand) or CW 64 (Exemption under other Acts); or
+    (c) exempt income under section CW 8 (Money lent to government of New Zealand); or
     (d) payable under a specified lease or a finance lease; or
     (e) payable for bonus bonds or Post Office bonus bonds (as each of those terms is defined in section 2 of the Post Office Bank Act 1987); or
     (f) payable on an overpaid levy under section 173 of the Accident Compensation Act 2001; or
@@ -42622,13 +42676,7 @@ In this Act, unless the context requires otherwise,—
     (a) is an owner of the entity:
     (b) has entered into an arrangement to become an owner of the entity:
     (c) is a beneficiary of a trust that is an owner of the entity
-  - **grandparented structure** means, for a person, any item on the following list, if the person acquired the item, or entered into a binding contract for the purchase or construction of the item, on or before 30 July 2009:
-    (a) barns, including barns (drying):
-    (b) carparks (buildings):
-    (c) chemical works:
-    (d) fertiliser works:
-    (e) powder drying buildings:
-    (f) site huts
+  - **grandparented structure**
   - **grandparenting income year** is defined in section HA 5(5) (Elections to become qualifying company)
   - **grandparenting start day** is defined in section EY 30 (Transitional adjustments: life risk)
   - **grant-related suspensory loan** means a loan—
@@ -42821,7 +42869,7 @@ In this Act, unless the context requires otherwise,—
       (i) they did not derive income from a taxable activity in any of the 4 previous tax years; and
       (ii) they have residual income tax of $60,000 or more in the tax year; and
     (b) for a person who is a natural person, a provisional tax liability for a tax year when—
-      (i) they did not have residual income tax of more than $2,500 in any of the 4 previous tax years; and
+      (i) they did not have residual income tax of more than $5,000 in any of the 4 previous tax years; and
       (ii) they have residual income tax of $60,000 or more in the tax year; and
       (iii) in the tax year, they stopped deriving income from employment and then started to derive income from a taxable activity
   - **initial treatment** is defined in section CU 7(3) (Some definitions)
@@ -42903,6 +42951,7 @@ In this Act, unless the context requires otherwise,—
       (xvi) section YD 3 (Country of residence of foreign companies); and
     (b) section 61 of the Tax Administration Act 1994
   - **investment activity** is defined in section MB 3 (When person carries on 1 or more businesses or investment activities) for the purpose of that section
+  - **investment income** is defined in section RE 10C(8) (Obligations of custodial institutions in relation to certain payments of investment income) for the purposes of that section and sections RE 4 and RF 4
   - **investment society dividend** means—
     (a) a dividend declared by a friendly society; or
     (b) a dividend declared by a registered society as defined in section 2 of the Industrial and Provident Societies Act 1908; or
@@ -43019,6 +43068,7 @@ In this Act, unless the context requires otherwise,—
       (i) means the person who grants to the lessee the use of, or the right to use, a hire purchase asset under the agreement; and
       (ii) includes an assignee of the person in relation to the hire purchase agreement
   - **levy** , for a statutory producer board, means a sum payable by a member of the board under a power of the board to require or request the member to pay an amount of levy
+  - **levy body researcher** means an industry organisation to which a levy is payable under an Act
   - **liabilities** —
     (a) is defined in section EZ 68 (Definitions) for the purposes of sections EZ 64 to EZ 67 (which relate to New Zealand Railways Corporation restructure):
     (b) is defined in section HR 12(6) (Non-exempt charities: treatment of tax-exempt accumulations) for the purposes of that section
@@ -43097,7 +43147,7 @@ In this Act, unless the context requires otherwise,—
   - **listed limited partnership** means an entity or group of persons that is listed on a recognised exchange, and that entity or group of persons—
     (a) is a limited partnership registered under the Limited Partnerships Act 2008; or
     (b) meets the definition of overseas limited partnership in section 4 of that Act
-  - **listed PAYE intermediary** means a person which the Commissioner may list as an intermediary under section 15G of the Tax Administration Act 1994
+  - **listed PAYE intermediary**
   - **listed PIE** means a company that—
     (a) is listed on a recognised exchange in New Zealand or meets the requirements of section HM 18 (Requirements for listed PIEs: unlisted companies) or is unlisted but has not lost PIE status under section HM 28 (When listed PIE no longer meets requirements), is delisted without notice of election, or has exit period expire; and
     (b) meets the requirements of section HM 7 (Requirements); and
@@ -43275,7 +43325,7 @@ In this Act, unless the context requires otherwise,—
     (c) in subpart HE (Mutual associations) in relation to a statutory producer board and to an income year, means a person who—
       (i) is liable for the year to pay a levy to the statutory producer board; or
       (ii) during the year, supplies produce or goods to the statutory producer board, in terms of the body’s primary statutory functions:
-    (d) is defined in section RE 30(10) (When unincorporated bodies hold certificates) for the purposes of that section:
+    (d) is defined in section RE 30(10) (When unincorporated bodies have RWT-exempt status) for the purposes of that section:
     (e) in the Maori authority rules, means a person, or group of persons, who is—
       (i) a shareholder of a Maori authority that is a company:
       (ii) a beneficiary of a Maori authority that is the trustees of a trust
@@ -43456,9 +43506,7 @@ In this Act, unless the context requires otherwise,—
   - **nominee** , in sections RE 7 and RE 8 (which relate to resident passive income paid to trustees and nominees) means a person described in section YB 21(2) (Transparency of nominees)
   - **non-attributing active CFC** is defined in section EX 21B (Non-attributing active CFCs)
   - **non-attributing Australian CFC** is defined in section EX 22 (Non-attributing Australian CFCs)
-  - **non-business researcher** means—
-    (a) a tax charity:
-    (b) an industry organisation to which a levy is payable under New Zealand statute
+  - **non-business researcher**
   - **non-cash dividend** means a dividend to the extent to which it does not consist of—
     (a) an unconditional payment in money; or
     (b) an unconditional credit in money to the balance of a shareholder’s current or other form of account with the company
@@ -43530,6 +43578,7 @@ In this Act, unless the context requires otherwise,—
   - **non-resident trader** means a person who—
     (a) is in New Zealand; and
     (b) carries on business here without having a fixed and permanent place of business or home here
+  - **non-residential building** means a building that is not a residential building
   - **non-residents’ foreign-sourced income** is defined in section BD 1(4) (Income, exempt income, excluded income, non-residents’ foreign-sourced income, and assessable income)
   - **non-residents’ foreign-sourced income limitation** is defined in section DA 2(6) (General limitations)
   - **non-specified livestock** means livestock other than bloodstock, high-priced livestock, and specified livestock
@@ -43782,6 +43831,7 @@ In this Act, unless the context requires otherwise,—
       (ix) subpart LS (Tax credits for multi-rate PIEs and investors):
       (x) section OB 9B (ICA attributed PIE income with imputation credit):
     (b) sections 28B, 28D, 31B, 31C, 33(1C), 38(1B), 57B, and 61(1C) of the Tax Administration Act 1994
+  - **PIE schedular income** is defined in section HM 36B (Calculating PIE schedular income adjustments for natural person investors) for the purposes of that section and sections CX 56 and HM 6 (which relate to attributed PIE income and the treatment of investors) and the definition of residual income tax
   - **plant** does not include an item that is structural in relation to a building
   - **plant variety rights** means proprietary rights granted for a plant variety under the Plant Variety Rights Act 1987 or similar rights given similar protection under the laws of a country or territory other than New Zealand
   - **planting** is defined in section DO 8 (Meaning of planting and plot) for the purposes of sections DO 5 to DO 8 (which relate to horticultural plants)
@@ -44163,7 +44213,7 @@ In this Act, unless the context requires otherwise,—
   - **research and development activity** is defined in section LY 2 (Key terms)
   - **research and development contractor** —
     (a) means, for a research and development activity and a person (person A), another person (the contractor) that performs the research and development activity on behalf of person A:
-    (b) does not include a non-business researcher described in the definition of non-business researcher, paragraph (b)
+    (b) does not include a levy body researcher
   - **research and development project**
   - **research and development tax credit** means a tax credit under section LY 1 (Research and development tax credits)
   - **resident foreign trustee** is defined in section 3(1) of the Tax Administration Act 1994
@@ -44175,6 +44225,9 @@ In this Act, unless the context requires otherwise,—
   - **resident passive income** —
     (a) is defined in section RE 2(1) (Resident passive income); and
     (b) unless the context otherwise requires, includes RWT required to be withheld under the RWT rules
+  - **residential building** —
+    (a) means a dwelling; and
+    (b) includes a building intended to ordinarily provide accommodation for periods of less than 28 days at a time, if the building, together with other buildings on the same land, has less than 4 units for separate accommodation
   - **residential income** is defined in section EL 3 (Definitions for this subpart) for the purposes of subpart EL (Allocation of deductions for excess residential land expenditure)
   - **residential land** ,—
     (a) means—
@@ -44221,6 +44274,7 @@ In this Act, unless the context requires otherwise,—
     (c) the amount of any credit allowed against the income tax liability arising under subpart LP (Tax credits for supplementary dividends), other than through section LP 3(3) (Use of remaining credits)
     (d)
     (e)
+    (f) the amount of an adjustment under section HM 36B (Calculating PIE schedular income adjustments for natural person investors) in relation to the PIE schedular income of a natural person who is an investor in a multi-rate PIE arising from income attributed to them by the PIE
   - **resource consent** means a resource consent as defined in section 2 of the Resource Management Act 1991
   - **restitution** is defined in section DB 44(3) (Restitution of stolen property) for the purposes of that section
   - **retained earnings**
@@ -44267,11 +44321,12 @@ In this Act, unless the context requires otherwise,—
   - **RSCT** means retirement scheme contribution tax
   - **RSCT rules** is defined in section RH 1 (RSCT rules and their application)
   - **RWT** means resident withholding tax and refers to an amount payable as income tax under the RWT rules
-  - **RWT exemption certificate** means a certificate described in section 32E of the Tax Administration Act 1994
+  - **RWT-exempt status** means the status of an eligible person under section RE 27 (RWT-exempt status) relating to the treatment of resident passive income derived by the person
+  - **RWT exemption certificate**
   - **RWT proxy** is defined in section 124ZF of the Tax Administration Act 1994
   - **RWT rules** means the provisions listed in section RE 1(1) (RWT rules and their application)
   - **RWT substitution payment** means an RWT substitution payment described in section RE 2(7) (Resident passive income)
-  - **RWT withholding certificate** means a form provided under section 25 of the Tax Administration Act 1994
+  - **RWT withholding certificate** means a form provided under section 26C of the Tax Administration Act 1994
   - **salary or wages** —
     (a) is defined in section RD 5 (Salary or wages):
     (b) is further defined in schedule 28, clause 7 (Requirements for complying fund rules) for the purposes of that schedule
@@ -44287,6 +44342,7 @@ In this Act, unless the context requires otherwise,—
     (c)
     (d) category A income derived by a trustee of a group investment fund:
     (db) income derived by a multi-rate PIE:
+    (dc) attributed PIE income derived by natural person who is an investor in a multi-rate PIE:
     (e) income derived by a portfolio tax rate entity:
     (f) non-resident passive income of the kind referred to in section RF 2(3) (Non-resident passive income):
     (g) income to which section YD 6 (Apportionment of income from sea transport) applies:
@@ -44478,7 +44534,7 @@ In this Act, unless the context requires otherwise,—
       (i) the statutory body is established by an Act of the Parliament of New Zealand or by a statute of the legislature, whether federal or state or provincial, of any territory outside New Zealand; and
       (ii) the Commissioner, having regard to the terms of the statute by which the body is established, is satisfied that it would be appropriate to treat the body as a special corporate entity for the purposes of those provisions of this Act whose application is dependent on the measurement of voting and market value interests:
     (j) any body incorporated under the Incorporated Societies Act 1908, for an income year in which the body on no day in the income year has shares on issue to the members of the body
-  - **special excluded depreciable property** is defined in section EE 67 (Other definitions)
+  - **special excluded depreciable property**
   - **special home ownership account**
   - **special rate** is defined in section EE 67 (Other definitions)
   - **specified activity**
@@ -44551,13 +44607,7 @@ In this Act, unless the context requires otherwise,—
     (b) the employer or group company provides the transport or the entitlement to the employee in the course of transporting the public; and
     (c) the transport or entitlement is not transport in a motor vehicle; and
     (d) the amount, if any, the employee pays is less than the highest amount the employer or group company charges the public, in the quarter or income year in which the provision to the employee occurs, for transport that is equivalent in terms of class, extent, and occasion to the transport or entitlement the employer or group company provides to the employee
-  - **subsidy claim form** means a form that a listed PAYE intermediary must provide to the Commissioner in an electronic format prescribed by the Commissioner showing,—
-    (a) the tax file number of the listed PAYE intermediary; and
-    (b) the tax file number and name of each employer in relation to which a subsidy is claimed; and
-    (c) the tax file number and name of each employee of each employer in relation to whom a subsidy is claimed under sections RP 4 (Payment of subsidies to certain PAYE intermediaries) and 15M of the Tax Administration Act 1994; and
-    (d) the period to which the form relates; and
-    (e) the number of PAYE income payments made by the listed PAYE intermediary to each employee in the period to which the form relates; and
-    (f) the amount of subsidy that the listed PAYE intermediary claims for the period to which the form relates
+  - **subsidy claim form**
   - **substantial business assets** is defined in section GB 28(6) (Interpretation of terms used in section GB 27) for the purposes of section GB 27 (Attribution rule for income from personal services)
   - **substituting debenture**
   - **superannuation category 1 scheme** means a scheme or fund that was at the relevant time a superannuation category 1 scheme under the Income Tax Act 1976
@@ -44622,7 +44672,7 @@ In this Act, unless the context requires otherwise,—
     (b) is defined in section GB 43(5) (Reconstruction of Maori authority credit arrangements to obtain tax advantage) for the purposes of that section
   - **tax file number** means an identification number that the Commissioner has allocated to a person—
     (a) generally for the purposes of this Act; or
-    (b) specifically for the purpose of the issue to the person of an RWT exemption certificate under section RE 27 (RWT exemption certificates)
+    (b) specifically for the purposes of RWT-exempt status under section RE 27 (RWT-exempt status)
   - **tax loss** means an amount described in section IA 2(1) (Tax losses) and includes unused tax loss components arising in the current tax year or in an earlier tax year
   - **tax loss component** is defined in section IA 2(7) (Tax losses)
   - **tax pooling account** is defined in section RP 17B (Tax pooling accounts and their use)
@@ -44636,7 +44686,8 @@ In this Act, unless the context requires otherwise,—
     (a) means a period starting on 1 April and ending on 31 March:
     (b) is defined in section IW 1(6) (Shortfall penalties) for the purposes of that section
   - **taxable activity** ,—
-    (a) in the provisional tax rules, the RWT rules, and the NRWT rules, is defined in section 6 of the Goods and Services Tax Act 1985, except that section 6(3)﻿(d) does not apply:
+    (a) in the RWT rules and the NRWT rules, is defined in section 6 of the Goods and Services Tax Act 1985, except that section 6(3)﻿(d) does not apply:
+    (ab) in the provisional tax rules, is defined in section 6 of that Act, except that sections 6(3)﻿(d) and 57(2) do not apply:
     (b) is defined in section DB 3(3) (Determining tax liabilities) for the purposes of that section
   - **taxable bonus issue** means—
     (a) a bonus issue in lieu:
@@ -44707,7 +44758,7 @@ In this Act, unless the context requires otherwise,—
     (a) at the end of a period specified on the issue of the shares; or
     (b) on the attainment of a result specified on the issue of the shares
   - **tertiary education institution** means an institution that is—
-    (a) established under Part 14 of the Education Act 1989 and has not been disestablished under that Act; and
+    (a) established under Part 14 or 15A, or subpart 1 of Part 10 of Schedule 1 of the Education Act 1989 and has not been disestablished under that Act; and
     (b) not carried on for the private pecuniary profit of any individual
   - **tertiary education subsidiary** is defined in section CW 55BA(2) (Tertiary education institutions and subsidiaries) for the purposes of that section
   - **tertiary institution**
@@ -46079,38 +46130,38 @@ For the purposes of section RD 67(a), the amount of tax is determined by applyin
 [Repealed]
 
 ### 3 Interest: general
-If clause 4 does not apply, the payment rate for a payment of resident passive income that consists of interest is set out in table 2. Table 2This is a medium table on 2 pages having 3 columns. The first row on each page is the headings for the columns. The entries in column 2 have more than 1 line of text and several have paragraphs, sometimes with subparagraphs. The entries in column 3 are on the same line as the last line of the entry in column 2.RowConditionsPayment rate1The payer of the interest has not been supplied with the tax file number of a person who is paid the interest.0.3302The payer of the interest—0.3303The payer of the interest—0.3304The payer of the interest—0.3005The payer of the interest—0.1756The payer of the interest—0.1757The payer of the interest—0.1058The payer of the interest—0.105 How to use this table:Find the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
+If clause 4 does not apply, the payment rate for a payment of resident passive income that consists of interest is set out in table 2. Table 2This is a medium table on 2 pages having 3 columns. The first row on each page is the headings for the columns. The entries in column 2 have more than 1 line of text and several have paragraphs, sometimes with subparagraphs. The entries in column 3 are on the same line as the last line of the entry in column 2.RowConditionsPayment rate1The payer of the interest has not been supplied with the tax file number of a person who is paid the interest.0.4502The payer of the interest—0.3303The payer of the interest—0.3304The payer of the interest—0.3005The payer of the interest—0.1756The payer of the interest—0.1757The payer of the interest—0.1058The payer of the interest—0.105 How to use this table:Find the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
   (a) has been supplied with the tax file number of a person who opens a new account after 31 March 2010 and who is paid the interest; and
   (b) has not received a payment rate election from the recipient of the interest:
-  (c) is not required to use a rate notified by the Commissioner under section 25A of the Tax Administration Act 1994.
+  (c) is not required to use a rate notified by the Commissioner under section 26B of the Tax Administration Act 1994.
   (a) has been supplied with the tax file number of a person who is paid the interest; and
   (b) has received a payment rate election from the recipient of the interest—
-  (i) before 1 October 2010, choosing the 0.390 or 0.380 payment rate, and the payer is not required to use a rate notified by the Commissioner under section 25A of the Tax Administration Act 1994:
+  (i) before 1 October 2010, choosing the 0.390 or 0.380 payment rate, and the payer is not required to use a rate notified by the Commissioner under section 26B of the Tax Administration Act 1994:
   (ii) on or after 1 October 2010, choosing the 0.330 payment rate.
   (a) has been supplied with the tax file number of a person who is paid the interest; and
   (b) has received a payment rate election from the recipient of the interest—
-  (i) before 1 October 2010, choosing the 0.330 payment rate, and the payer is not required to use a rate notified by the Commissioner under section 25A of the Tax Administration Act 1994:
+  (i) before 1 October 2010, choosing the 0.330 payment rate, and the payer is not required to use a rate notified by the Commissioner under section 26B of the Tax Administration Act 1994:
   (ii) on or after 1 October 2010, choosing the 0.300 payment rate.
   (a) has been supplied with the tax file number of a person who has not opened a new account after 31 March 2010 and who is paid the interest; and
   (b) has not received a payment rate election from the recipient of the interest; and
-  (c) is not required to use a rate notified by the Commissioner under section 25A of the Tax Administration Act 1994.
+  (c) is not required to use a rate notified by the Commissioner under section 26B of the Tax Administration Act 1994.
   (a) has been supplied with the tax file number of a person who is paid the interest; and
   (b) has received a payment rate election from the recipient of the interest—
-  (i) before 1 October 2010, choosing the 0.195 or 0.210 payment rate, and the payer is not required to use a rate notified by the Commissioner under section 25A of the Tax Administration Act 1994:
+  (i) before 1 October 2010, choosing the 0.195 or 0.210 payment rate, and the payer is not required to use a rate notified by the Commissioner under section 26B of the Tax Administration Act 1994:
   (ii) on or after 1 October 2010, choosing the 0.175 payment rate.
   (a) has been supplied with the tax file number of a person, other than a trustee, who is paid the interest; and
   (b) has received a payment rate election from the recipient of the interest—
-  (i) before 1 October 2010, choosing the 0.125 payment rate, and the payer is not required to use a rate notified by the Commissioner under section 25A of the Tax Administration Act 1994:
+  (i) before 1 October 2010, choosing the 0.125 payment rate, and the payer is not required to use a rate notified by the Commissioner under section 26B of the Tax Administration Act 1994:
   (ii) on or after 1 October 2010, choosing the 0.105 payment rate; and
   (c) the recipient has a reasonable expectation at the time of the election that their income for the income year will be $14,000 or less.
   (a) has been supplied with the tax file number of a person who is paid the interest as a trustee of a testamentary trust to which section HC 37 applies; and
   (b) has received a payment rate election from the recipient of the interest—
-  (i) before 1 October 2010, choosing the 0.125 payment rate, and the payer of the interest is not required to use a rate notified by the Commissioner under section 25A of the Tax Administration Act 1994:
+  (i) before 1 October 2010, choosing the 0.125 payment rate, and the payer of the interest is not required to use a rate notified by the Commissioner under section 26B of the Tax Administration Act 1994:
   (ii) on or after 1 October 2010, choosing the 0.105 payment rate.
 
 ### 4 Interest: most companies
 (1) The payment rate for a payment of resident passive income that consists of interest is set out in table 3 if the recipient of the payment is a company that is not a Maori authority.
-(2) For the purposes of subclause (1), a company includes a company that is acting in the capacity of trustee for a portfolio investment entity. Table 3This is a small table having 3 columns. The first row is the headings for the columns. The entries in column 2 have more than 1 line of text and several have paragraphs, sometimes with subparagraphs. The entries in column 3 are on the same line as the last line of the entry in column 2.RowConditionsPayment rate1The payer of the interest—0.282The payer of the interest—0.283The payer of the interest—0.334The payer of the interest has not been supplied with the tax file number of a person who is paid the interest.0.33 How to use this table:Find the applicable condition, in the second column, in order to find the relevant rate to apply, in the third column.
+(2) For the purposes of subclause (1), a company includes a company that is acting in the capacity of trustee for a portfolio investment entity. Table 3This is a small table having 3 columns. The first row is the headings for the columns. The entries in column 2 have more than 1 line of text and several have paragraphs, sometimes with subparagraphs. The entries in column 3 are on the same line as the last line of the entry in column 2.RowConditionsPayment rate1The payer of the interest—0.282The payer of the interest—0.283The payer of the interest—0.334The payer of the interest has not been supplied with the tax file number of a person who is paid the interest.0.45 How to use this table:Find the applicable condition, in the second column, in order to find the relevant rate to apply, in the third column.
   (a) has been supplied with the tax file number of a person who is paid interest; and
   (b) has not received a payment rate election from the recipient of the interest, ignoring the receipt of an election for the 0.33 payment rate before 1 October 2010 (if any).
   (a) has been supplied with the tax file number of a person who is paid interest; and
