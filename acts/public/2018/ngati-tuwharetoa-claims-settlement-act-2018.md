@@ -1,5 +1,5 @@
 # Ngāti Tūwharetoa Claims Settlement Act 2018
-_Consolidation as at 2018-12-18_
+_Consolidation as at 2020-04-01_
 
 ### 1 Title
 This Act is the Ngāti Tūwharetoa Claims Settlement Act 2018.
@@ -1750,7 +1750,7 @@ In this subpart and Schedule 5,—
 (2) The land referred to in subsection (1)﻿(a) is—
   (a) any Collective RFR property; and
   (b) any Ngāti Tūrangitukua RFR property; and
-  (c) Part No 2 playing fields/Wairiki Bay of Plenty Polytechnic Campus, Horomatangi Street, Taupo.
+  (c) Part No 2 playing fields/Wairiki Bay of Plenty Polytechnic Limited Campus, Horomatangi Street, Taupo.
 (3) Land ceases to be RFR land if—
   (a) the fee simple estate in the land transfers from the RFR landowner to—
     (i) the trustees or their nominee (for example, under section 127 in the case of the deferred selection property or under a contract formed under section 148); or
