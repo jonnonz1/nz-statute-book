@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2020-03-23_
+_Consolidation as at 2020-04-01_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -180,7 +180,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   - **place of education** —
     (a) means—
       (i) a composite school or a secondary school as defined by section 2(1) of the Education Act 1989 or a secondary school registered under section 35A of that Act; and
-      (ii) an institution, such as a polytechnic, teachers college, university or wananga, as defined by section 159(1) of the Education Act 1989; and
+      (ii) an institution, such as the New Zealand Institute of Skills and Technology and its Crown entity subsidiaries, teachers college, university or wananga, as defined by section 159(1) of the Education Act 1989; and
       (iii) a registered establishment as defined by section 159(1) of the Education Act 1989; and
     (b) includes any other prescribed place of education
   - **place of employment** means any premises or place—
