@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2020-03-23_
+_Consolidation as at 2020-04-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -55,9 +55,7 @@ This Act is the KiwiSaver Act 2006.
   - **employer contribution** —
     (a) means an employer’s superannuation contribution made by an employer for an employee’s KiwiSaver scheme or complying superannuation fund; and
     (b) includes a compulsory employer contribution under subpart 3A of Part 3; and
-    (c) does not include—
-      (i) an amount that does not count as a contribution under section 68(2); and
-      (ii) for the purposes of section 99, a compulsory employer contribution to the extent provided by that section
+    (c) does not include an amount that does not count as a contribution under section 68(2)
   - **employer contributor** , in relation to a KiwiSaver scheme, means an employer who—
     (a) contributes in respect of some or all of the employees of the employer who are members of the scheme; or
     (b) pays any of the administration costs or costs in relation to benefits to be provided under the scheme in respect of the employees of the employer who are members of the scheme
@@ -125,6 +123,7 @@ This Act is the KiwiSaver Act 2006.
     (c) whose sole guardianship of B arises under section 119 of that Act (about the death of a guardian appointed under section 110(1)﻿(e) of that Act who, on his or her death, was B’s sole guardian)
   - **participation agreement** means an agreement or any instrument in writing related to an arrangement between an employer and a provider of a scheme that determines some of the conditions on which the employer’s employees may be members of the scheme as amended from time to time
   - **pay period** has the same meaning as in section YA 1 of the Income Tax Act 2007
+  - **payday** has the same meaning as in section 3(1) of the Tax Administration Act 1994
   - **PAYE period** means, as applicable, a first payment period as defined in the Income Tax Act 2007, a second payment period as defined in that Act, or a month in which PAYE is withheld in relation to an employee
   - **PAYE rules** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **permitted withdrawal** means a withdrawal that is permitted under the KiwiSaver scheme rules
@@ -161,7 +160,7 @@ This Act is the KiwiSaver Act 2006.
   - **trust deed** , in relation to a scheme, means the governing document of the scheme within the meaning of section 6(1) of the Financial Markets Conduct Act 2013
   - **workplace savings scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013.
 (2) References in a provision to a period after the Commissioner receives the first contribution in respect of a person are references to the expiry of the relevant number of days or months after the date on which the first amount of contribution is received, or treated as received, by the Commissioner for the person in the current context of the provision, ignoring any earlier contribution received in a prior context (for example, a prior automatic enrolment and opt out of the person).
-(3) References in this Act to 3 months are references to a period of 92 days.
+(3)
 (4) An outline provision in this Act is only a guide to the general scheme and effect of the part of the Act that it describes.
 
 ### 5 Meaning of provider
@@ -285,7 +284,7 @@ Every employee to whom the automatic enrolment rules apply when starting new emp
   (b) the date on which the opt-out notice is—
     (i) accepted by the Commissioner, in the case of a notice given to the Commissioner; or
     (ii) received by the employer, in the case of a notice given to the employer.
-(5) An employer who receives an opt-out notice must give notice of that opt-out to the Commissioner no later than the time the employer is next required to provide their employment income information for payday reporting to the Commissioner under section RD 22 of the Income Tax Act 2007 and sections 23E to 23I of the Tax Administration Act 1994.
+(5) An employer who receives an opt-out notice from an employee must give notice of that opt-out to the Commissioner no later than the time the employer is next required to deliver employment income information in relation to the employee to the Commissioner under section RD 22 of the Income Tax Act 2007 and sections 23E to 23H and 23J of the Tax Administration Act 1994.
 (6) For the purposes of sections 17 to 20, a PAYE intermediary (within the meaning of section YA 1 of the Income Tax Act 2007) acting under sections RP 2 and RP 6 to RP 16 of that Act is treated as an employer.
 
 ### 18 Extension of opt-out period
@@ -297,7 +296,7 @@ Every employee to whom the automatic enrolment rules apply when starting new emp
     (iii) the employer did not supply the product disclosure statement under section 43 (if an employer’s choice of KiwiSaver scheme is effective); or
     (iv) events outside the control of the employee meant that the opt-out notice could not be given within the time limit and, in the opinion of the Commissioner, it is reasonable that a late opt-out notice be accepted; or
     (v) a mistake described in section 59A(b)﻿(i) has occurred.
-(2) The Commissioner may accept the opt-out notice, if it is received by the Commissioner or the employer in the period that ends 3 months after the date on which the Commissioner receives the first contribution in respect of the employee.
+(2) The Commissioner may accept the opt-out notice, if it is received by the Commissioner or the employer in the period that ends 92 days after the date on which the Commissioner receives the first contribution in respect of the employee.
 (3) If an opt-out notice is received by the Commissioner outside the time limit in section 16, and the Commissioner does not exercise his or her discretion to accept it under this section, the Commissioner must treat the notice as if it were an application for a savings suspension under section 102, if the person could have applied under that provision.
 
 ### 19 Commissioner must give notice to employer of opting out
@@ -319,7 +318,8 @@ An opt-out notice given in respect of one employment terminates the application 
 
 ### 22 Employees giving information to employers
 (1) Every person who starts new employment must give notice to the employer of—
-  (a) his or her name and address; and
+  (a) his or her name; and
+  (ab) his or her address; and
   (b) his or her tax file number; and
   (c) whether or not he or she is already a member of a KiwiSaver scheme and, if that person is a member, must either—
     (i) notify his or her employer of their KiwiSaver status; or
@@ -328,9 +328,15 @@ An opt-out notice given in respect of one employment terminates the application 
 (2) That information must be given, in a form authorised by the Commissioner, as soon as practicable after the person starts the new employment.
 (3) A person who is in temporary employment and who is a member of a KiwiSaver scheme may notify their temporary employer of their KiwiSaver status.
 
-### 23 Employers must give information to Commissioner
-(1) Every employer of a person who starts new employment must give notice to the Commissioner of the information referred to in section 22(1)﻿(a) and (b) that the employee gives the employer, if the employer is satisfied that the employee is subject to the automatic enrolment rules.
-(2) That information must be given no later than the time that the employer is next required to deliver their employment income information for payday reporting to the Commissioner under sections RA 5, RA 20, RD 2(3), RD 4(1), and RD 22 of the Income Tax Act 2007 and sections 23E to 23I of the Tax Administration Act 1994 after the information is given to the employer.
+### 23 Employers must give information about new employees to Commissioner
+(1) This section applies if—
+  (a) a person starts new employment with an employer; and
+  (b) the employer is satisfied that the person is subject to the automatic enrolment rules.
+(2) The employer must give notice to the Commissioner of—
+  (a) the person’s name; and
+  (b) the person’s tax file number; and
+  (c) the person’s address, if required by the Commissioner.
+(3) That information must be given no later than the time that the employer is next required to deliver employment income information in relation to the person to the Commissioner under section RD 22 of the Income Tax Act 2007 and sections 23E to 23H and 23J of the Tax Administration Act 1994 after the information is given to the employer.
 
 ### 23A PAYE intermediaries
 For the purposes of sections 22 and 23, a PAYE intermediary (within the meaning of section YA 1 of the Income Tax Act 2007) acting under sections RP 2 and RP 6 to RP 16 of that Act is treated as an employer.
@@ -377,10 +383,14 @@ A person may opt in at any time provided—
   (a) contract directly with a provider of a KiwiSaver scheme to become a member of a KiwiSaver scheme:
   (b) if the person is an employee, notify his or her employer of a change in their KiwiSaver status.
 (2) A person who opts in by notifying his or her employer of a change in their KiwiSaver status must give the employer—
-  (a) his or her name and address; and
+  (a) his or her name; and
+  (ab) his or her address; and
   (b) his or her tax file number.
-(3) The employer must give notice to the Commissioner of the information that the employee gives the employer under subsection (2), if the employer is satisfied that the employee is eligible to opt in under section 33.
-(4) That information must be given no later than the time that the employer is next required to deliver their employment income information for payday reporting to the Commissioner under sections RA 5, RA 20, RD 2(3), RD 4(1), and RD 22 of the Income Tax Act 2007 and sections 23E to 23I of the Tax Administration Act 1994.
+(3) If an employer who receives a notice from a person under this section is satisfied that the person is eligible to opt in under section 33, the employer must give notice to the Commissioner of—
+  (a) the person’s name; and
+  (b) the person’s tax file number; and
+  (c) the person’s address, if required by the Commissioner.
+(4) That information must be given no later than the time that the employer is next required to deliver employment income information in relation to the person to the Commissioner under section RD 22 of the Income Tax Act 2007 and sections 23E to 23H and 23J of the Tax Administration Act 1994.
 (5) For the purposes of sections 34 to 37, a PAYE intermediary (within the meaning of section YA 1 of the Income Tax Act 2007) acting under sections RP 2 and RP 6 to RP 16 of that Act is treated as an employer.
 
 ### 35 Opting in by persons under 18
@@ -428,14 +438,12 @@ A person other than an employee who opts in must continue to be a member of a Ki
   (a) A’s name and address; and
   (b) A’s tax file number; and
   (c) the date of the first contribution received by the provider in respect of A (if any); and
-  (d) if A is an employee,—
-    (i) the name and address of each of A’s employers in respect of whom deductions of contributions are to be made from salary or wages; and
-    (ii) the contribution rate in relation to each of those employers; and
+  (d) if A is an employee, A’s contribution rate; and
   (e) the name and address and tax file number of both the provider and the scheme; and
   (f) any other information that the Commissioner requires.
 
 ### 39 Commissioner must give notice to employer if provider gives notice that employee has opted in under section 38
-The Commissioner must, as soon as practicable after receiving a notice under section 38 in respect of an employee who has opted in, give notice to each of the person’s employers to whom the opt-in notice relates, stating—
+The Commissioner must, as soon as practicable after receiving a notice under section 38 in respect of an employee who has opted in, give notice to each of the person’s employers, stating—
   (a) that the employer must start to make deductions of contributions from each payment of the person’s salary or wages that is calculated by the employer after the date on which the employer receives the notice under this section; and
   (b) the contribution rate; and
   (c) the person’s name and tax file number.
@@ -517,7 +525,7 @@ A person may, at any time, choose the KiwiSaver scheme of which he or she will b
   (c) the employee is an employee—
     (i) to whom the automatic enrolment rules apply; or
     (ii) who opted in under section 34(1)﻿(b); and
-  (d) more than 3 months have passed since the Commissioner received the first contribution in respect of the employee; and
+  (d) more than 62 days have passed since the Commissioner received the first contribution in respect of the employee; and
   (e) there is no relevant dispute under section 212 or 213 in relation to Part 2 or 3.
 (2) On the first day that this section applies to an employee, the employee is treated, for the purposes of this Act and the Financial Markets Conduct Act 2013, as having—
   (a) been given a product disclosure statement for the offer of interests in the employer’s chosen KiwiSaver scheme; and
@@ -554,6 +562,7 @@ A person may, at any time, choose the KiwiSaver scheme of which he or she will b
   (a) the Commissioner receives notice under section 58 of the person having ceased to be eligible to be a member of his or her employer’s chosen KiwiSaver scheme; or
   (b) the Commissioner receives notice under section 212(1)﻿(b) of the Financial Markets Conduct Act 2013 (which relates to transfers to another scheme on a scheme’s winding up) and paragraph (ba) does not apply; or
   (ba) a scheme winds up, if that winding up is after the Commissioner receives notice under that section; or
+  (bb)
   (c) the Commissioner receives notice under section 131(1); or
   (d) the Commissioner receives notice of any other situation where a person is not, or is no longer, eligible to become or be a member of a certain KiwiSaver scheme and needs to be allocated to a KiwiSaver scheme under this section in order to comply with this Act.
 
@@ -563,8 +572,8 @@ A person may, at any time, choose the KiwiSaver scheme of which he or she will b
 (2) The Commissioner must give notice to A that the allocation of A is now completed as per the provisional allocation.
 (3) The Commissioner must give notice to the provider of the default KiwiSaver scheme that A has been allocated to the scheme, and A’s name, address, date of birth (if known to the Commissioner), tax file number, and any other personal information that the Commissioner considers relevant.
 (4) The final allocation date is,—
-  (a) in the case of a person referred to in section 50(1)﻿(a) or (b), as soon as practicable after 3 months after the Commissioner receives the first contribution in respect of A:
-  (b) in the case of a person referred to in section 50(4)﻿(a), (c), or (d), 3 months after the date on which the Commissioner receives that notice.
+  (a) in the case of a person referred to in section 50(1)﻿(a) or (b), as soon as practicable after the 62nd day after the Commissioner receives the first contribution in respect of A:
+  (b) in the case of a person referred to in section 50(4)﻿(a), (c), or (d), 62 days after the date on which the Commissioner receives that notice.
 (5) However, if a dispute in relation to Part 2 or 3 is underway under section 212 or 213 as at the date which would otherwise be the final allocation date, the final allocation date is the effective date of the notice given by the Commissioner to the effect that the dispute has been resolved or has otherwise been terminated.
 
 ### 52 Effect of completion of allocation
@@ -618,7 +627,7 @@ A person may, at any time, choose the KiwiSaver scheme of which he or she will b
     (iv) as to whether the Crown contribution under section 226 is included in the member’s accumulation transferred to the new scheme; and
     (v)
     (vi) of any information held by a provider of the old scheme that would be relevant to a provider of the new scheme making a claim under section 68C of the Tax Administration Act 1994, including information as to the periods for which claims have already been made.
-(4) The provider must comply with subsection (3) within 35 days of receiving that notice or any longer period agreed between the providers of the old and new schemes.
+(4) The provider must comply with subsection (3) within 10 working days of receiving that notice or any longer period agreed between the providers of the old and new schemes.
 (5) Despite subsections (3) and (4), in the circumstances described in subsection (6), the provider of the old scheme must not transfer the member’s accumulation to the new scheme other than by way of distributing the assets of the old scheme as the scheme is wound up.
 (6) The circumstances are that—
   (a) members have been notified of a proposal to transfer all of the members of the old scheme to another scheme under section 180 of the Financial Markets Conduct Act 2013; or
@@ -631,12 +640,13 @@ A person may, at any time, choose the KiwiSaver scheme of which he or she will b
   (a) the Commissioner has received a notice under section 58 that an employee has ceased to be eligible to be a member of an employer’s chosen scheme; or
   (b) the Commissioner receives notice under section 212(1)﻿(b) of the Financial Markets Conduct Act 2013 (which relates to transfers to another scheme on a scheme’s winding-up) and paragraph (ba) of this section does not apply; or
   (ba) a scheme winds up, if that winding-up is after the Commissioner receives notice under section 212(1)﻿(b) of the Financial Markets Conduct Act 2013; or
+  (bb)
   (c) the Commissioner receives notice under section 131(1); or
   (d) the Commissioner has received notice in accordance with clauses 4(a) and 5(a) in schedule 28 of the Income Tax Act 2007.
 (2) However, this section does not apply to a transfer to which section 181 of the Financial Markets Conduct Act 2013 applies.
 (3) The person must be allocated to a new scheme in accordance with the principles in section 44, but excluding section 44(b) (which relates to allocation to an employer’s chosen KiwiSaver scheme).
 (4) The Commissioner must take whatever steps the Commissioner thinks appropriate to ensure that, so far as practicable, the process for an involuntary transfer follows the process for a voluntary transfer under section 56.
-(5) Section 56(3) and (4) applies to an involuntary transfer, but as if the requirement in section 56(4) referred to 3 months instead of 35 days.
+(5) Section 56(3) and (4) applies to an involuntary transfer, but as if the requirement in section 56(4) referred to 62 days instead of 10 working days.
 (6) Sections 45 to 53 apply to an involuntary transfer with necessary modifications.
 (7) Subsections (5) and (6) do not limit subsection (4).
 
@@ -663,24 +673,26 @@ This subpart applies when, because of a mistake,—
 (1) As soon as practicable after anyone discovers the mistake, they must notify the Commissioner or the relevant KiwiSaver scheme provider.
 (2) The person described in section 59A is treated as a person who meets the requirements of section 6, the requirements for the application of the automatic enrolment rules, or the age requirement for the application of the opt-in rule in section 34, for a period—
   (a) starting on the earliest day on which this Act applies, the automatic enrolment rules, or the rule allowing opt-in were applied to the person because of the mistake described in section 59A; and
-  (b) for a person referred to in section 59A(a), (b)﻿(i), and (d), ending on the earlier of—
-    (i) 3 months after the mistake is discovered by the person’s KiwiSaver scheme provider:
-    (ii) 3 months after the mistake is notified to the provider by the Commissioner or another person:
+  (ab) for a person referred to in section 59A(a), ending on the earlier of—
+    (i) the day the mistake is discovered by the person’s KiwiSaver scheme provider:
+    (ii) the day the mistake is notified to the provider by the Commissioner or another person; and
+  (b) for a person referred to in section 59A(b)﻿(i), and (d), ending on the earlier of—
+    (i) the 92nd day after the mistake is discovered by the person’s KiwiSaver scheme provider:
+    (ii) the 92nd day after the mistake is notified to the provider by the Commissioner or another person:
     (iii) the day the provider pays the amount of the member's accumulation, less the amount that was transferred from an Australian complying superannuation scheme for the person to the Commissioner; and
   (c) for a person referred to in section 59A(b)﻿(ii), ending on the earlier of—
     (i) the day the person reaches 19 years of age; and
     (ii) the day the provider pays the amount of the member’s accumulation less the amount that was transferred from an Australian complying superannuation scheme for the person to the Commissioner.
 
 ### 59C Confirmed back-dated validation
-(1) This section applies if, during the period of initial back-dated validation under section 59B, the person described in section 59A—
-  (a) is a person to whom this Act has been applied because of a mistake described in section 59A(a), and they meet the requirements of section 6 or become a person who meets the requirements of section 6:
-  (b) is a person to whom the automatic enrolment rules were applied because of the mistake described in section 59A(b)﻿(i), and—
-    (i) they meet the requirements of section 6 or become a person who meets the requirements of section 6; and
-    (ii) they are less than the New Zealand superannuation qualification age; and
-    (iii) they do not opt out.
+(1) This section applies if,—
+  (a) during the period of initial back-dated validation under section 59B, the person described in section 59A is a person to whom the automatic enrolment rules were applied because of the mistake described in section 59A(b)﻿(i), and—
+    (i) they are less than the New Zealand superannuation qualification age; and
+    (ii) they do not opt out; and
+  (b) the person described in section 59A is not a person to whom this Act has been applied because of a mistake described in section 59A(a).
 (2) The person is treated as a person—
-  (a) in relation to whom no mistake described in section 59A(a) and (b)﻿(i) was made; and
-  (b) who, at the time, met the requirements of section 6 or the requirements of the automatic enrolment rules described in section 59A(b)﻿(i).
+  (a) in relation to whom no mistake described in section 59A(b)﻿(i) was made; and
+  (b) who, at the time, met the requirements of the automatic enrolment rules described in section 59A(b)﻿(i).
 (3) The Commissioner must notify the provider that this section applies.
 (4) The relevant provider does not pay the member’s accumulation for the person to the Commissioner.
 
@@ -710,7 +722,8 @@ This subpart applies when, because of a mistake,—
 
 ### 59D No confirmed backdated validation
 (1) This section applies when—
-  (a) in relation to a person described in section 59C(1)﻿(a) or (b)﻿(i), confirmed backdated validation under section 59C does not occur in the period of initial back-dated validation under section 59B:
+  (aa) in relation to a person described in section 59A(a), the period described in section 59B(2)﻿(a) and (ab) has ended:
+  (a) in relation to a person to whom the automatic enrolment rules were applied because of the mistake described in section 59A(b)﻿(i), confirmed backdated validation under section 59C does not occur in the period of initial back-dated validation under section 59B:
   (b) in relation to a person described in section 59CB(1), the person opts out under section 59CB(3).
 (2) The relevant provider must immediately—
   (a) provide the Commissioner with a notice stating, for the relevant person,—
@@ -768,6 +781,11 @@ This Part applies to a PAYE intermediary (within the meaning of section YA 1 of 
 ### 63A How subpart applies to private domestic workers
 For the purposes of this subpart, a private domestic worker who is an employer under paragraph (b) of the definition of employer is treated as making payments of salary or wages to themselves in the capacity of employee. Consequently, the private domestic worker may be both employer and employee.
 
+### 63B Information on salary or wages from which deductions are made
+An employer who makes a deduction under this subpart must specify the amount of salary or wages from which the deduction was made in their employment income information for the payment of salary or wages from which the deduction was made, if—
+  (a) that amount differs from the information required under schedule 4, table 1, row 4, item d of the Tax Administration Act 1994; and
+  (b) the deduction is the first that the employer has made under this subpart for the relevant employee.
+
 **Deduction rules**
 
 ### 64 Contribution rate
@@ -781,7 +799,7 @@ For the purposes of this subpart, a private domestic worker who is an employer u
 (2) Despite subsection (1), the employee may choose a contribution rate of 3%, 4%, 6%, 8%, or 10% of their gross salary or wages by giving notice to their employer of the rate they choose.
 (3) The new rate applies to the next payment of salary or wages that is calculated after the employer receives that notice.
 (3B) For a contribution rate under subsection (1)﻿(a), when a change occurs to a rate in this Act, or in regulations made under this Act, affecting the contribution that must be deducted from a payment of salary or wages, the calculation of the amount of the contribution must be made at the rate applying on the day on which the salary or wages are paid.
-(4) An employee may not change his or her contribution rate in relation to an employer at intervals that are less than 3 months apart unless the employer agrees.
+(4) An employee may not change his or her contribution rate in relation to an employer at intervals that are less than 92 days apart unless the employer agrees.
 
 ### 65 Contribution rates may be changed by Order in Council
 (1) The Governor-General may, by Order in Council, do either or both of the following:
@@ -831,9 +849,12 @@ The employer must make deductions of contributions from each payment of the empl
 
 ### 69 Unremitted deductions made by employers
 (1) This section applies if—
-  (a) the Commissioner is satisfied that a deduction has been made in any PAYE period by an employer under this subpart; and
-  (b) the amount of the deduction is not paid to the Commissioner by the employer on or before the date on which an employer is required to pay the deduction to the Commissioner under section RA 15 of the Income Tax Act 2007 (as applied by section 67 of this Act).
-(2) The amount of the deduction is treated, for the purposes of this Act, as having been received by the Commissioner on the 15th day of the month in which the deduction is made.
+  (a) an amount is included in employment income information received by the Commissioner as a deduction made by an employer under this subpart; and
+  (b) the Commissioner is satisfied that the employer has deducted the amount under this subpart; and
+  (c) the amount of the deduction is not paid to the Commissioner by the employer on or before the date by which the employer is required to pay the deduction to the Commissioner under section RD 4 of the Income Tax Act 2007 (as applied by section 67 of this Act).
+(2) The amount of the deduction is treated, for the purposes of this Act, as having been received by the Commissioner,—
+  (a) for employment income information that includes the date of the payday on which the deduction was made, on that date; or
+  (b) otherwise, on the 15th day of the month in which the deduction was made.
 
 ### 70 Unexplained remittances of deductions received from employers
 (1) This section applies if—
@@ -842,7 +863,7 @@ The employer must make deductions of contributions from each payment of the empl
   (c) the Commissioner is unable to ascertain to the Commissioner’s satisfaction, in sufficient time prior to the cut-off day for the making of on-payments to the providers of KiwiSaver schemes, the portion of the received amount attributable to each of the persons from whom an amount was deducted by the employer.
 (2) The Commissioner may, for the purposes of this Part, hold the received amount until the amount attributable to each of the persons from whom an amount has been deducted by the employer has been established to the satisfaction of the Commissioner.
 
-### 71 Time at which unexplained remittances deemed to be received
+### 71 Time at which unexplained remittances of deductions deemed to be received
 Any amount that is held by the Commissioner under section 70(2) is treated, for the purposes of this Act (other than sections 84 to 91 (interest on contributions) and clause 8 of the KiwiSaver scheme rules (withdrawal for purpose of purchase of first home)), as not having been received by the Commissioner until the day on which the amount attributable to each of the persons from whom an amount has been deducted by the employer has been established to the satisfaction of the Commissioner.
 
 ### Subpart 2 — Miscellaneous provisions relating to contributions
@@ -853,45 +874,55 @@ Any amount that is held by the Commissioner under section 70(2) is treated, for 
 (1) The Commissioner must establish a memorandum account, called the Inland Revenue KiwiSaver Holding Account (the holding account), for the purpose of recording the receipt, deduction, payment, and refund of contributions and interest under this Act.
 (2) The holding account established under subsection (1) is not a facility for the purposes of the Financial Transactions Reporting Act 1996.
 
-### 73 Deductions entered in and paid out of holding account
-(1) This section applies to any amount—
-  (a) that the Commissioner is satisfied has been deducted from salary or wages under this Act; and
-  (b) that is included in employment income information provided under section RD 22 of the Income Tax Act 2007 as a deduction made from an employee’s salary or wages under subpart 1.
-(2) As soon as practicable after receiving that employment income information, the Commissioner must enter that amount in the holding account in respect of the person from whose salary or wages the deduction was made.
-(3) Subject to sections 75 to 77, as soon as practicable after entering an amount in the holding account under this section, the Commissioner must pay the amount to the provider of the relevant KiwiSaver scheme, without further authority than this section.
+### 73 Certain unremitted deductions and employer contributions entered in and paid out of holding account
+(1) This section applies to any amount that—
+  (a) is included in employment income information provided under section RD 22 of the Income Tax Act 2007 as—
+    (i) a deduction made from an employee’s salary or wages under subpart 1; or
+    (ii) an employer contribution for an employee; and
+  (b) is not received by the Commissioner at the same time as, or before, the Commissioner receives the information described in paragraph (a); and
+  (c) the Commissioner is satisfied,—
+    (i) for an amount included in the information as a deduction, has been deducted from salary or wages under subpart 1:
+    (ii) for an amount included in the information as an employer contribution, that the employer to whom the information relates has sufficient funds available, at the time at which that employer makes the payment of salary or wages to which the contribution relates, to be able to pay to the Commissioner.
+(2) As soon as practicable after receiving employment income information in relation to an amount described in subsection (1), the Commissioner must enter the amount in the holding account in respect of the person, as applicable,—
+  (a) from whose salary or wages the deduction was made; or
+  (b) whom the employer contribution is for.
+(3) Subject to sections 75 and 77, as soon as practicable after entering an amount in the holding account under this section, the Commissioner must pay the amount to the provider of the relevant KiwiSaver scheme, without further authority than this section.
 (4) Money entered in the holding account under this section is not trust money for the purposes of sections 66 to 68 of the Public Finance Act 1989.
-(5) This section is subject to sections 70 and 71.
-(6) The Commissioner is entitled, for the purpose of subsection (1)﻿(a), to assume, in the absence of information to the contrary, that amounts included in employment income information have been deducted from salary or wages.
+(5) This section is subject to sections 70, 71, 95C, and 95D.
+(6)
 
 ### 74 Other contributions entered in and paid out of holding account
 (1) This section applies to any amount of contribution that is received by the Commissioner other than an amount referred to in section 73.
 (2) As soon as practicable after receiving the amount, the Commissioner must enter that amount in the holding account in respect of the person to whom the contribution relates.
-(3) Subject to sections 75 to 77, as soon as practicable after entering an amount in the holding account under this section, the Commissioner must pay the amount to the provider of the relevant KiwiSaver scheme.
+(3) Subject to sections 75 and 77, as soon as practicable after entering an amount in the holding account under this section, the Commissioner must pay the amount to the provider of the relevant KiwiSaver scheme.
 (4) Money entered in the holding account under this section is trust money for the purposes of sections 66 to 68 of the Public Finance Act 1989.
 
-### 75 Initial contributions stay in holding account for 3 months
-(1) This section applies to all contributions received by the Commissioner in respect of a person in the 3-month period starting on the earlier of—
+### 75 Initial contributions stay in holding account for 62 days
+(1) This section applies to all contributions received by the Commissioner in respect of a person in the 62-day period starting on the earlier of—
   (a) the day on which the Commissioner receives the first contribution in respect of the person:
   (b) the day on which the Commissioner is given notice or otherwise knows that the person is a member of a KiwiSaver scheme.
 (2) The Commissioner must hold those contributions in the holding account.
-(3) The Commissioner must pay those contributions to the provider of the person’s KiwiSaver scheme as soon as practicable after the expiry of that 3 months (without further authority than this section where those contributions meet the requirements of section 73(1)).
+(3) The Commissioner must pay those contributions to the provider of the person’s KiwiSaver scheme as soon as practicable after the expiry of that 62-day period (without further authority than this section where those contributions meet the requirements of section 73(1)).
 (4) The Commissioner must give notice to the person as soon as practicable after paying those contributions to the provider of the person’s KiwiSaver scheme.
 (5) The provider must give notice to the person as soon as practicable after receiving those contributions.
 (6) Subsection (3) is subject to section 77.
 
 ### 76 Employer contributions may stay in holding account until deducted contributions paid
-(1) This section applies if the Commissioner receives a contribution under subpart 3 (contributions other than deductions from salary or wages) from an employer in respect of a person to whom subpart 1 (deductions from salary or wages) also applies.
-(2) The Commissioner may hold the contribution made under subpart 3 in the holding account, and then pay it to the provider of the person’s KiwiSaver scheme at the same time as the contribution that is deducted under subpart 1 is paid by the Commissioner to the KiwiSaver scheme.
+[Repealed]
 
 ### 77 Small amounts of contributions may be held until big enough to be on-paid
 (1) This section applies if the Commissioner and the provider of a KiwiSaver scheme agree on a minimum threshold for the payment of contributions to the provider.
 (2) The Commissioner may hold in the holding account any amount of contribution that relates to a person until the amount meets that minimum threshold.
 (3) Then the Commissioner must pay that amount to the provider of the person’s KiwiSaver scheme (without further authority than this section where that amount meets the requirements of section 73(1)).
 
-### 78 Treatment of unremitted deductions in holding account
-To the extent that an amount referred to in section 73(1)﻿(a) is not paid to the Commissioner on or before the date on which the employer is required to pay the deduction to the Commissioner under section RD 4 of the Income Tax Act 2007,—
-  (a) the Commissioner must pay the amount out of a Crown Bank Account, without further authority than this section; and
-  (b) the amount is treated, for the purposes of section 73, as having been received by the Commissioner on the 15th day of the month in which the deduction is made.
+### 78 Treatment of certain unremitted deductions and employer contributions in holding account
+(1) This section applies to an amount referred to in section 73(1) to the extent to which it is not paid to the Commissioner on or before the date by which the employer is required to pay the deduction or employer contribution to the Commissioner under, as applicable,—
+  (a) section RD 4 of the Income Tax Act 2007 (as applied by section 67 of this Act); or
+  (b) section 93(3) or (4), as applicable.
+(2) The Commissioner must pay the amount out of a Crown Bank Account, without further authority than this section.
+(3) The amount is treated, for the purposes of section 73, as having been received by the Commissioner,—
+  (a) for employment income information received by the Commissioner that includes the date of the payday for the payment of salary or wages to which the deduction or employer contribution relates, on that date; or
+  (b) otherwise, on the 15th day of the month in which the payment of salary or wages to which the deduction or employer contribution relates was made.
 
 ### 79 Information that Commissioner must supply to providers when paying contributions
 The Commissioner must supply, to the provider of a KiwiSaver scheme to which the Commissioner makes any payment under this subpart, any information, and in any format, that the Commissioner determines after consultation with the provider of the KiwiSaver scheme.
@@ -903,9 +934,11 @@ The Commissioner must supply, to the provider of a KiwiSaver scheme to which the
   (c) the person has opted out and the contribution was deducted from salary or wages but was not refunded to the person or paid to the Commissioner.
 (2) However, if a request is made under section 173L of the Tax Administration Act 1994, the Commissioner may apply any amount of that contribution in accordance with that request.
 
-### 81 Refund by provider of amounts paid in excess of required amount of contribution
-(1) A provider must refund to the Commissioner no more than the amount of contribution paid to the provider by the Commissioner in respect of a member of that provider’s KiwiSaver scheme that is in excess of the amount that is required to be paid to the provider under the KiwiSaver scheme and this Act.
-(2) The Commissioner must refund or give credit for the amount refunded under subsection (1) in the manner that the Commissioner thinks fit.
+### 81 Refund by provider of amounts paid in excess of required amount of contribution or if member opts out
+(1) A provider must refund to the Commissioner any amount of contribution paid to the provider by the Commissioner in respect of a member of that provider’s KiwiSaver scheme if—
+  (a) the member opts out; or
+  (b) the contribution is in excess of the amount that is required to be paid to the provider under the KiwiSaver scheme and this Act.
+(2) The Commissioner must refund or give credit for any amount refunded under subsection (1) in the manner that the Commissioner thinks fit.
 (3) However, if a request is made under section 173L of the Tax Administration Act 1994, the Commissioner may apply any amount of that contribution in accordance with that request.
 
 ### 81B Residual refunds
@@ -933,10 +966,18 @@ Part 2 of the Trustee Act 1956 does not apply to the Commissioner in respect of 
 (2) Sections 68(2) and 69 of the Public Finance Act 1989 do not apply to the holding account.
 (3) Despite subsection (1), the Commissioner is not liable to pay interest on any amount described in that subsection, if the relevant person has notified the Commissioner in writing of their wish to not be paid interest.
 
-### 85 Time when contributions treated as received for interest purposes
-(1) Every amount of contribution that is deducted from salary or wages under this Act is treated, for the purpose of the payment of interest, as received by the Commissioner on the 15th day of the month in which the deduction is made.
-(2) Subsection (1) applies if the Commissioner is satisfied that a deduction has been made in any month under this Act.
-(3) Every amount of employer contribution is treated, for the purpose of the payment of interest, as received by the Commissioner on the first day of the month in which the Commissioner receives the amount of employer contribution.
+### 85 Time when deductions and employer contributions treated as received for interest purposes
+(1) This section applies to any amount that—
+  (a) is included in employment income information provided under section RD 22 of the Income Tax Act 2007 as—
+    (i) a deduction made from an employee’s salary or wages under subpart 1; or
+    (ii) an employer contribution for an employee; and
+  (b) the Commissioner is satisfied,—
+    (i) for an amount included in the information as a deduction, has been deducted from salary or wages under subpart 1:
+    (ii) for an amount included in the information as an employer contribution, that the employer to whom the information relates has sufficient funds available, at the time at which that employer makes the payment of salary or wages to which the contribution relates, to be able to pay to the Commissioner.
+(2) The amount is treated, for the purpose of the payment of interest, as received by the Commissioner, as applicable,—
+  (a) for employment income information that includes the date of the payday on which the deduction was made, on that date if the Commissioner is satisfied that the deduction has been made on that date; or
+  (b) for employment income information that includes the date of the payday for the payment of salary or wages to which the employer contribution relates, on that date; or
+  (c) otherwise, on the 15th day of the month in which the payment of salary or wages to which the deduction or employer contribution relates was made.
 
 ### 86 Interest rate
 (1) The interest rate at which interest is payable under sections 84 to 91 is—Commissioner’s paying rate × (1 − lowest tax rate)where—
@@ -951,7 +992,7 @@ The amount of interest payable by the Commissioner in respect of a person is cal
   - **interest rate** is the rate calculated under section 86.
 
 ### 88 How and when interest is paid on on-payments
-Interest that is payable under section 84 on an amount of contribution that is on-paid to a provider must be paid to the provider of the person’s KiwiSaver scheme, in respect of the person, within 3 months of when the amount of contribution is on-paid to the provider.
+Interest that is payable under section 84 on an amount of contribution that is on-paid to a provider must be paid to the provider of the person’s KiwiSaver scheme, in respect of the person, within 92 days of when the amount of contribution is on-paid to the provider.
 
 ### 89 How and when interest is paid on refunds
 (1) This section applies to interest that would be payable under section 84 in respect of an amount of contribution that is refunded under this Part (except section 81).
@@ -979,7 +1020,7 @@ For the purposes of this subpart, a private domestic worker who is an employer u
 (2) The payment of an amount of employer contribution must be accompanied by the relevant employment income information.
 (3) If the employer is not a private domestic worker, the contribution must be paid to the Commissioner within the time prescribed in section RA 15 of the Income Tax Act 2007 for the payment of amounts of tax withheld relating to the payment of salary or wages to which the contribution relates, as if the contribution were an amount of tax.
 (4) If the employer is a private domestic worker, the contribution must be paid to the Commissioner within the time prescribed in sections RA 8, RA 10, and RD 4(4) of that Act for the payment of tax relating to the payment of salary or wages to which the contribution relates, as if the contribution were tax.
-(5) The employer must include details of employer contributions paid in respect of each employee in their employment income information for the payments of salary or wages to which the contribution relates.
+(5) The employer must include details of employer contributions in respect of each employee in their employment income information for the payments of salary or wages to which the contribution relates.
 (6) For the purposes of the Tax Administration Act 1994, to the extent to which an employer fails to comply with subsection (5) in respect of an amount of employer contribution that the employer must pay to the Commissioner, that amount is treated as a short payment for the PAYE period for which the failure occurs.
 
 ### 94 Employer must give notice that employer contributions to be paid via Commissioner
@@ -991,7 +1032,26 @@ A person other than an employer (including a member of a KiwiSaver scheme) may m
   (b) A’s tax file number; and
   (c) any other information that the Commissioner may require.
 
-### 96 What Commissioner must do with contributions received under this subpart
+### 95B Unremitted employer contributions
+(1) This section applies if—
+  (a) an amount is included in employment income information received by the Commissioner as an employer contribution for an employee; and
+  (b) the Commissioner is satisfied that the employer to whom the information relates has sufficient funds available, at the time at which that employer makes the payment of salary or wages to which the contribution relates, to be able to pay the amount of the employer contribution to the Commissioner; and
+  (c) the amount of the employer contribution is not paid to the Commissioner by that employer on or before the date by which that employer is required to pay the amount of employer contribution to the Commissioner under section 93(3) or (4), as applicable.
+(2) The amount of the employer contribution is treated, for the purposes of this Act, as having been received by the Commissioner,—
+  (a) for employment income information that includes the date of the payday for the payment of salary or wages to which the contribution relates, on that date; or
+  (b) otherwise, on the 15th day of the month in which the payment of salary or wages to which the contribution relates was made.
+
+### 95C Unexplained remittances of employer contributions
+(1) This section applies if—
+  (a) the Commissioner receives an amount (the received amount) of employer contributions from an employer; and
+  (b) the employer has failed to supply to the Commissioner the particulars required by the Commissioner in relation to the received amount; and
+  (c) the Commissioner is unable to ascertain to the Commissioner’s satisfaction, in sufficient time prior to the cut-off day for the making of on-payments to the providers of KiwiSaver schemes, the portion of the received amount attributable to each of the persons in relation to whom an employer contribution has been made by the employer.
+(2) The Commissioner may, for the purposes of this Part, hold the received amount until the amount attributable to each of the persons in relation to whom an employer contribution has been made by the employer has been established to the satisfaction of the Commissioner.
+
+### 95D Time at which unexplained remittances of employer contributions deemed to be received
+Any amount that is held by the Commissioner under section 95C(2) is treated, for the purposes of this Act (other than sections 84 to 91 (interest on contributions)), as not having been received by the Commissioner until the day on which the amount attributable to each of the persons in relation to whom an employer contribution has been made by the employer has been established to the satisfaction of the Commissioner.
+
+### 96 What Commissioner must do with contributions received, or treated as received, under this subpart
 (1) The Commissioner must, in accordance with subpart 2,—
   (a) first, pay the contribution into the holding account; and
   (b) secondly, on-pay the contribution to the provider of the person’s KiwiSaver scheme.
@@ -1004,39 +1064,31 @@ A person other than an employer (including a member of a KiwiSaver scheme) may m
 (2) The Commissioner must notify the employer that the payment has not been received.
 
 ### 98 Short payments by employers if not enough money remitted to Commissioner to cover all of employees’ deductions and employer contributions
-(1) This section applies if—
-  (a) an employer, for a PAYE period, shows payments of employer contribution under this subpart in their employment income information; and
-  (b) the total amount received by the Commissioner for that PAYE period by way of total deductions and employer contribution in respect of all of the employer’s employees is less than the amounts shown in the employment income information in respect of those matters.
-(2) The amount of employer contribution (gross of any ESCT payable under the ESCT rules) that is treated as received by the Commissioner for the purpose of this subpart is so much of the payment that is actually received by the Commissioner that exceeds the amounts shown in their employment income information in respect of total deductions.
-(3) In this section, total deductions means the total of the following:
-  (a) the total amount of combined tax and earner-related payments (within the meaning of the Income Tax Act 2007); and
-  (b) the total child support deductions; and
-  (c) the total salary or wage deductions made under the Student Loan Scheme Act 2011; and
-  (d) the total contributions deducted under subpart 1; and
-  (e) employer contributions that are not compulsory employer contributions.
+[Repealed]
 
-### 98A Quantifying short payments for the purposes of Income Tax Act 2007 and Tax Administration Act 1994
-For the purposes of the Income Tax Act 2007 and the Tax Administration Act 1994, an employer is treated as having an amount of short payment for a PAYE period equal to the difference between—
-  (a) the amount of employer contribution that is treated as received by the Commissioner under section 98(2) of this Act for the PAYE period; and
+### 98A Short payments of employer contributions
+For the purposes of the Tax Administration Act 1994, an employer is treated as having an amount of short payment for a PAYE period equal to the difference between—
+  (a) the amount of employer contribution that is received by the Commissioner for the PAYE period; and
   (b) the amount, for the PAYE period, of employer contribution included in their employment income information in accordance with this subpart.
 
 ### 99 Short payments if not enough employer contribution remitted to cover all employees
-(1) This section applies if—
-  (a) an employer, for a PAYE period, shows payments of employer contribution under this subpart in their employment income information in respect of more than 1 of the employer’s employees; and
-  (b) the total amount received by the Commissioner for that PAYE period in respect of employer contribution under this subpart is less than the amounts shown in the employment income information in respect of all of those employees.
-(2) For the purposes of this subpart, the amount of employer contribution (gross of any ESCT) that the Commissioner is treated as receiving for any one employee is given by the following formula:a × b ÷ cwhere—
-  (a) is the total employer contributions received by the Commissioner under this subpart for all of the employer’s employees for the month:
-  (b) is the employer contribution included in their employment income information for the relevant employee for the month referred to in item a:
-  (c) is the total employer contributions included in their employment income information for all the employer’s employees for the month referred to in item a.
-(3) Subsection (2) does not prevent the provider of a KiwiSaver scheme from crediting amounts on the basis provided for in the trust deed or other document governing employer contributions, rather than in accordance with the calculation under subsection (2).
-(4) For the purposes of this section, employer contribution does not include compulsory employer contribution to the extent of the employer’s entitlement to a tax credit under section MK 1(2) of the Income Tax Act 2007 in relation to the contribution.
+[Repealed]
 
 ### 100 Refunds of employer contribution by Commissioner if employee opts out
 If an employee opts out after an employer contribution is paid to the Commissioner, the Commissioner must, if it is still in his or her possession, refund the employer contribution to the employer.
 
 ### 101 Refunds of employer contribution by provider
 (1) The provider of a KiwiSaver scheme must refund to the Commissioner any amount of employer contribution that was paid under this Act by the Commissioner in excess of the amount of the employer contribution that this Act requires.
+(1B) If an employee opts out after an employer contribution is paid to a provider by the Commissioner, the provider must refund the employer contribution to the Commissioner.
 (2)
+
+### 101AA What Commissioner must do with employer contribution refunded by provider
+(1) This section applies if an amount of employer contribution is refunded to the Commissioner by a provider under section 101(1B).
+(2) The Commissioner must—
+  (a) refund the amount to a Crown Bank Account, if—
+    (i) the amount has been paid out of a Crown Bank Account under section 78; and
+    (ii) the amount has not been paid to the Commissioner by the employer to whom the employer contribution relates; or
+  (b) otherwise, refund the amount to the employer who made the employer contribution.
 
 ### Subpart 3A — Compulsory employer contributions to KiwiSaver schemes and complying superannuation funds
 
@@ -1068,6 +1120,7 @@ For the purposes of section 101A(1), the requirements are that the employee—
   (a) is paid salary or wages from which the employer deducts or is required to deduct an amount for the employee’s KiwiSaver scheme or complying superannuation fund; and
   (b) is aged 18 or over; and
   (c) is not entitled to withdraw an amount from a fund or scheme under clause 4 of the KiwiSaver scheme rules (which relates to lock-in of funds) or a rule the same as that clause; and
+  (cb) must not have made a withdrawal under clause 12B of the KiwiSaver scheme rules (which relates to life-shortening congenital condition withdrawals); and
   (d) is not a defined benefit scheme member.
 
 ### 101D Compulsory employer contribution amount: general rule
@@ -1165,16 +1218,16 @@ A person to whom subpart 1 (deductions of contributions from salary or wages) ap
 (2) The application must tell the Commissioner—
   (a) the person’s name and address; and
   (b) the person’s tax file number; and
-  (c) the name and address of each of the person’s employers to whom the person intends that the suspension will apply; and
+  (c) the name and address of each of the person’s employers to whom the person intends that the suspension will apply, if required by the Commissioner; and
   (d) the period of time for which the suspension is required; and
   (e) in the case of an application made under section 102(a), details of the financial hardship; and
   (f) any other information that the Commissioner requires.
 
 ### 104 Granting of savings suspension
 (1) The Commissioner must accept an application for a savings suspension, and grant a savings suspension, if the Commissioner is satisfied that the person meets the requirements of section 102, and the application is made in accordance with section 103.
-(2) A savings suspension granted in respect of an application made under section 102(a) must be granted for a period of 3 months, unless the Commissioner agrees to a longer period.
+(2) A savings suspension granted in respect of an application made under section 102(a) must be granted for a period of 92 days, unless the Commissioner agrees to a longer period.
 (3) A savings suspension granted in respect of an application made under section 102(b) must be granted for—
-  (a) a minimum period of 3 months; and
+  (a) a minimum period of 92 days; and
   (b) a maximum period of whichever is the shorter of—
     (i) 1 year; or
     (ii) the period specified in the application.
@@ -1191,7 +1244,7 @@ A person to whom subpart 1 (deductions of contributions from salary or wages) ap
     (i) that a savings suspension has been granted in respect of the person; and
     (ii) of the names of the relevant employers; and
     (iii) that deductions of contributions may not be made from the salary or wages paid to the person by the relevant employers during the period of the suspension.
-(2) In this section, relevant employer means each employer to whom the person stated, in the application for the savings suspension, that the savings suspension was intended to apply.
+(2) In this section, relevant employer, for an application for a savings suspension that was required by the Commissioner to contain the information described in section 103(2)﻿(c), means each employer to whom the person stated, in the application, that the savings suspension was intended to apply.
 
 ### 106 When deductions stop at start of savings suspension
 If an employer is notified under section 105, subpart 1 ceases to apply—
@@ -1200,12 +1253,12 @@ If an employer is notified under section 105, subpart 1 ceases to apply—
 
 ### 107 Employers to whom savings suspension applies
 A savings suspension granted under this subpart, while it is in force,—
-  (a) has effect, subject to section 108, in respect of each employer to whom the person stated, in the application for the savings suspension, that the savings suspension was intended to apply; and
+  (a) has effect, subject to section 108, in respect of each employer to whom the person stated, in the application for the savings suspension, that the savings suspension was intended to apply, if the application was required by the Commissioner to contain the information described in section 103(2)﻿(c); and
   (b) may be used, if the person chooses, in respect of any other employer.
 
-### 108 Savings suspensions have 3-month minimum life
+### 108 Savings suspensions have 92-day minimum life
 (1) The purpose of this section is to prevent employees requesting employers to stop and start deductions of contributions too often.
-(2) No savings suspension may be used in respect of an employer for less than 3 months unless the employer agrees.
+(2) No savings suspension may be used in respect of an employer for less than 92 days unless the employer agrees.
 
 **End of savings suspension**
 
@@ -1233,7 +1286,7 @@ The Commissioner must give notice to each affected employer known to the Commiss
 ### 112B Non-deduction notices
 (1) A person who may withdraw an amount from a fund or scheme under clause 4 of the KiwiSaver rules or a rule the same as that clause may give to their employer a notice (a non-deduction notice) stating that the employer must stop making deductions of contributions from the person's salary or wages under subpart 1.
 (2) The non-deduction notice is valid, for the purposes of section 62(bb), for the first payment of salary or wages after the non-deduction notice is given to the person's employer. It is valid for subsequent payments of salary or wages, until the person revokes that non-deduction notice by giving to the employer another notice (a revocation notice), in accordance with subsection (3), stating that the employer must start making deductions of contributions from the person's salary or wages under subpart 1.
-(3) A person must not give a revocation notice to the employer within 3 months of giving a non-deduction notice to them, unless the employer agrees to receive the revocation notice within those 3 months.
+(3) A person must not give a revocation notice to the employer within 92 days of giving a non-deduction notice to them, unless the employer agrees to receive the revocation notice within those 92 days.
 
 ### 113 Refund of initial contributions
 (1) A person may apply to the Commissioner for a refund of any contributions that are being held in the holding account under section 75 if the person is suffering, or likely to suffer, significant financial hardship or is suffering serious illness.
@@ -2065,6 +2118,12 @@ Sections 217 to 219 apply to the giving or supplying of a product disclosure sta
 (3) However, if the Commissioner is satisfied that the application of subsections (1) and (2) would result in undue hardship to a person, or is not practicable, the refund of contribution may be made by other means acceptable to the Commissioner.
 (4) In this section, bank account means an account with a bank that is a registered bank within the meaning of the Reserve Bank of New Zealand Act 1989 or a private savings bank or a credit union or a building society or the PSIS Limited.
 
+### 221B Commissioner may make certain assumptions
+The Commissioner is entitled, in the absence of information to the contrary, to assume the following:
+  (a) for the purposes of sections 69(1)﻿(b), 73(1)﻿(c), and 85(1)﻿(b), that an amount included in employment income information has been deducted from salary or wages:
+  (b) for the purposes of section 85(2)﻿(a), if employment income information includes the date of the payday on which an amount was deducted from salary or wages, that the amount was deducted from salary or wages on that date:
+  (c) for the purposes of sections 73(1)﻿(c), 85(1)﻿(b), and 95B(1)﻿(b), that an employer to whom an amount included in employment income information relates has sufficient funds available at the relevant time to be able to pay the amount to the Commissioner.
+
 ### 222 Role of Commissioner under this Act
 (1) The Commissioner has the function of ensuring oversight of those provisions of this Act that are administered in the Inland Revenue Department under section 224.
 (2) Without limitation, this includes the functions and powers of—
@@ -2087,12 +2146,12 @@ Despite anything in any other Act, nothing prevents the Commissioner or any offi
 ### 226 Crown contribution: kick-start contributions
 (1)
 (1A) The contribution must be paid as soon as practicable after the date provided by subsection (1B) or (1C).
-(1B) Unless subsection (1C) applies, the date for the purposes of subsection (1A) is the last day of the 3-month period that starts on either the date under paragraph (a) or the date under paragraph (b)—
+(1B) Unless subsection (1C) applies, the date for the purposes of subsection (1A) is the last day of the 62-day period that starts on either the date under paragraph (a) or the date under paragraph (b)—
   (a) the date under this paragraph is the earlier of—
     (i) the date, decided by the Commissioner, when the Commissioner receives the first contribution in respect of A, if A is a person to whom subpart 1 of Part 3 applies:
     (ii) the date that the Commissioner is given notice or otherwise knows that A is a member of the KiwiSaver scheme:
   (b) the date under this paragraph is the date, decided by the Commissioner, when A is first a member or must first become a member as provided by section 15(1)﻿(b) or 36(1)﻿(b).
-(1C) If A has transferred to their first KiwiSaver scheme from a complying superannuation fund, and A was a member of the complying superannuation fund for more than 3 months before transferring, the date for the purposes of subsection (1A) is the day on which the Commissioner is given notice that A has transferred or the day, decided by the Commissioner, that A has transferred.
+(1C) If A has transferred to their first KiwiSaver scheme from a complying superannuation fund, and A was a member of the complying superannuation fund for more than 62 days before transferring, the date for the purposes of subsection (1A) is the day on which the Commissioner is given notice that A has transferred or the day, decided by the Commissioner, that A has transferred.
 (2) The provider must use the contribution allocation for A to credit the contribution across the investment products of the KiwiSaver scheme to which A has subscribed or been allocated.
 (2B) The contribution must vest in A immediately after it is paid to the provider, despite any provision to the contrary.
 (3)
@@ -2121,8 +2180,10 @@ A Crown contribution paid in respect of a member of a KiwiSaver scheme under sec
   (k) prescribing circumstances in which the purchase of an estate in land enables a withdrawal under clause 8 of the KiwiSaver scheme rules:
   (l) prescribing circumstances for the purposes of clause 8(3)﻿(a) and (3B)﻿(a) of the KiwiSaver scheme rules or prescribing who is a qualifying person for the purpose of clause 8(3)﻿(c)﻿(ii) and (3B)﻿(c)﻿(ii) of the KiwiSaver scheme rules:
   (m) prescribing matters that may be regarded as matters from which significant financial difficulties have arisen for the purposes of clause 11 of the KiwiSaver scheme rules:
+  (mb) prescribing conditions that are regarded as life-shortening congenital conditions for the purposes of clause 12B of the KiwiSaver scheme rules:
   (n) recognising specific foreign superannuation schemes or classes of specific foreign superannuation schemes that are based in named countries as schemes to which funds can be transferred on permanent emigration under the provision implied by clause 14 of the KiwiSaver scheme rules:
   (o) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(1B) For the purposes of subsection (1)﻿(mb), life-shortening congenital condition means a condition that exists for a person from the date of their birth and is likely to reduce the life expectancy for persons in general with the condition below the New Zealand superannuation qualification age.
 (2) Regulations may be made under this section for the purpose of a matter dealt with in Part 4 only on the recommendation of the Minister.
 (3) A provision prescribed for the purposes of subsection (1)﻿(c) may, without limitation, do any of the following (including to supplement, or to add to, duties and powers prescribed by this Act):
   (a) specify the duties and powers of the supervisor of the scheme:
@@ -2241,6 +2302,12 @@ Non-compliance with financial markets legislation, as defined in section 6(1) of
   (a) the non-compliance does not continue on or after the expiry of the 2-month period that starts on the date of Royal assent of that Act; or
   (b) the non-compliance relates to a product disclosure statement under the Financial Markets Conduct Act 2013 and the period of the non-compliance ends before the expiry of the 4-month period that starts on the date of Royal assent of the KiwiSaver (Oranga Tamariki Guardians) Amendment Act 2019.
 
+### 243 Protection from non-compliance: Taxation (KiwiSaver, Student Loans, and Remedial Matters) Act 2020
+Non-compliance with an enactment related to securities is ignored if the non-compliance—
+  (a) results from the enactment of sections 39, 48, 50, 83, 103(1) and (3), 148, 167, and 188 of the Taxation (KiwiSaver, Student Loans, and Remedial Matters) Act 2020; and
+  (b) relates to a product disclosure statement, or to information lodged on the relevant disclosure register, under the Financial Markets Conduct Act 2013; and
+  (c) comes to an end before 31 January 2021.
+
 ## Schedule 1 — KiwiSaver scheme rules
 
 ### 1 Application
@@ -2302,10 +2369,12 @@ The KiwiSaver scheme rules apply to all KiwiSaver schemes.
   - **grandparented end payment date** means the later of—
     (a) the date on which the member reaches the New Zealand superannuation qualification age:
     (b) the 5-year grandparenting date
-  - **grandparented member** means a member for whom 1 of the following dates is before 1 July 2019:
-    (a) the date on which the member first became a member of a KiwiSaver scheme:
-    (b) the date, under section 85, on which the Commissioner first received a contribution for a KiwiSaver scheme in relation to the member:
-    (c) the date on which the member first became a member of a complying superannuation fund, if the member has become a member of the KiwiSaver scheme as a result of a transfer from a complying superannuation fund.
+  - **grandparented member** —
+    (a) means a member for whom 1 of the following dates is before 1 July 2019:
+      (i) the date on which the member first became a member of a KiwiSaver scheme:
+      (ii) the date, under section 85, on which the Commissioner first received a contribution for a KiwiSaver scheme in relation to the member:
+      (iii) the date on which the member first became a member of a complying superannuation fund, if the member has become a member of the KiwiSaver scheme as a result of a transfer from a complying superannuation fund; but
+    (b) does not include a person who has given their KiwiSaver scheme provider notice of the person’s election that this definition does not apply to them.
 
 ### 4A No external financial advantages from funds
 (1) The manager must ensure that the entire value, benefit, or other return derived in respect of the member's accumulation is credited to the member's accumulation and is not received as an external financial advantage.
@@ -2338,7 +2407,9 @@ A manager may reasonably require a member who applies to make a permitted withdr
   (a) at least 3 years have expired after the Commissioner received the first contribution in respect of the person (whether or not a contribution in relation to the scheme of which the member is currently a member); or
   (ab)
   (b) the person has been a member of 1 or more KiwiSaver schemes or complying superannuation funds for a combined total period of 3 years or more.
-(2) Every amount of contribution that is deducted from salary or wages under this Act is treated, for the purpose of subclause (1)﻿(a), as received by the Commissioner on the 15th day of the month in which the deduction is made.
+(2) An amount of contribution that is deducted from salary or wages under this Act is treated, for the purposes of subclause (1)﻿(a), as received by the Commissioner,—
+  (a) for employment income information received by the Commissioner that includes the date of the payday on which the deduction was made, on that date; or
+  (b) otherwise, on the 15th day of the month in which the deduction was made.
 (3) A member to whom this clause applies may make a withdrawal from the KiwiSaver scheme of which the member is currently a member for the purchase of an estate in land located in New Zealand (whether alone or as a joint tenant or tenant in common) if—
   (a) the purchase is made in the prescribed circumstances; or
   (b) both of the following apply:
@@ -2416,9 +2487,32 @@ If a member dies, the manager must,—
   (a) that results in the member being totally and permanently unable to engage in work for which he or she is suited by reason of experience, education, or training, or any combination of those things; or
   (b) that poses a serious and imminent risk of death.
 
-### 13 Application for withdrawal for significant financial hardship or serious illness
-(1) The application for a withdrawal under clause 10 or 12 must be in the form required by the manager (in the case of a restricted KiwiSaver scheme) or the supervisor (in the case of any other KiwiSaver scheme).
+### 12B Withdrawal in cases of life-shortening congenital conditions
+(1) A member may apply under this clause for a withdrawal, in addition to a withdrawal on the grounds of serious illness under clause 11(1)﻿(g) or 12, when the member suffers from a condition that exists from the date of their birth—
+  (a) that is identified as a life-shortening congenital condition by a regulation made under section 228(1)﻿(mb) (a listed condition); or
+  (b) for which the member has medical evidence to verify that the congenital condition is expected to reduce life expectancy below the New Zealand superannuation qualification age for the member or for persons in general with the condition (a non-listed condition).
+(2) The member may apply under clause 13 for a congenital condition withdrawal to the manager (in the case of a restricted KiwiSaver scheme) or supervisor (in the case of any other KiwiSaver scheme) if,—
+  (a) for a listed condition that exists for a person from the date of their birth, the manager or the supervisor, as applicable, is satisfied that a medical certificate issued by a medical practitioner verifies that the member suffers from the condition:
+  (b) for a non-listed condition that exists for a person from the date of their birth, the manager or the supervisor, as applicable, is satisfied that a medical certificate issued by a medical practitioner verifies that—
+    (i) the condition is a life-shortening congenital condition for the member or for persons in general with the condition; and
+    (ii) the member suffers from the condition.
+(3) The member may choose the amount of the congenital condition withdrawal, which may be up to the value of their accumulation.
+(4) For the purposes of the KiwiSaver scheme rules, a member who makes a congenital condition withdrawal is treated as if—
+  (a) they are not a grandparented member; and
+  (b) they have reached the New Zealand superannuation qualification age referred to in clause 4(1).
+(5) A withdrawal under this clause does not prevent a member continuing in paid employment. However, no Crown contribution or compulsory employer contribution is payable in relation to the member’s continuing contributions.
+
+### 13 Application for withdrawal for significant financial hardship, serious illness, or life-shortening congenital condition
+(1) The application for a withdrawal under clause 10, 12, or 12B must be in the form required by the manager (in the case of a restricted KiwiSaver scheme) or the supervisor (in the case of any other KiwiSaver scheme).
 (1B) The application for a withdrawal under clause 10 must include a completed statutory declaration in respect of the member’s assets and liabilities.
+(1C) The application by a member for a withdrawal under clause 12B must include—
+  (a) a completed statutory declaration by the member to acknowledge that they understand—
+    (i) first, that their KiwiSaver funds are to be released to them as if they had reached the New Zealand superannuation qualification age; and
+    (ii) secondly, that after the withdrawal of the funds, they are no longer eligible to receive Crown contributions or compulsory employer contributions in relation to their future contributions, if any; and
+  (b) a medical certificate issued by a medical practitioner that verifies that the member suffers from—
+    (i) a listed condition:
+    (ii) a non-listed condition that is a life-shortening congenital condition.
+(1D) For the purposes of subclause (1C)﻿(b)﻿(i) and clause 12B(2), medical practitioner has the meaning given in the definition set out in the Social Security Act 2018, schedule 2.
 (2) The manager (in the case of a restricted KiwiSaver scheme) or the supervisor (in the case of any other KiwiSaver scheme)—
   (a) may require that any medical matter asserted in support of the application for withdrawal be verified by medical evidence:
   (b) may require that any other documents, things, or information produced in support of the application be verified by oath, statutory declaration, or otherwise.
