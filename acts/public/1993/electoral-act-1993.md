@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2020-03-11_
+_Consolidation as at 2020-04-01_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -88,10 +88,7 @@ This Act may be cited as the Electoral Act 1993.
   - **party advertisement** means an advertisement in any medium that may reasonably be regarded as encouraging or persuading voters to do either or both of the following:
     (a) to vote for a party (whether or not the name of the party is stated):
     (b) not to vote for a party (whether or not the name of the party is stated)
-  - **party secretary** or , in relation to a party, means the person who is responsible for the administration and correspondence of the party and who has been (or is required to be) designated under any of the following provisions as secretary of the party for the purposes of this Act:
-    (a) section 63(2)﻿(c)﻿(iii) or (iv):
-    (b) section 67(3)﻿(c):
-    (c) section 67AA(2)
+  - **party secretary** or has the meaning given to it by section 3EA
   - **permanent resident of New Zealand** has the meaning assigned thereto by section 73
   - **personation** has the meaning assigned to that term by section 215
   - **polling day** , in relation to any election, means the day appointed in the writ for that election for the polling to take place if a poll is required
@@ -265,6 +262,13 @@ In this Act, unless the context otherwise requires, publish, in relation to an e
       (B) the occurrence of an event beyond the control of person A, or any person acting on behalf of person A.
 (2) To avoid doubt, advertising expenses does not include the cost (including running costs) of any vehicle used to display an election advertisement if the use of the vehicle for that purpose is not the subject of a contract, arrangement, or understanding for the payment of money or money's worth.
 (3) In this section, vehicle has the meaning given to it by section 2(1) of the Land Transport Act 1998.
+
+### 3EA Meaning of party secretary
+(1) In this Act, party secretary or secretary, in relation to a party, means the person who is responsible for the administration and correspondence of the party and who has been (or is required to be) designated under any of the following provisions as secretary of the party for the purposes of this Act:
+  (a) section 63(2)﻿(c)﻿(iii) or (iv):
+  (b) section 67(3)﻿(c):
+  (c) section 67AA(2).
+(2) The person designated as party secretary must live in New Zealand.
 
 **Extraterritorial application**
 
@@ -748,7 +752,7 @@ A member of Parliament ceasing to be registered as an elector shall not from tha
   (a) to carry out satisfactorily his or her duties as a State servant; or
   (b) to be seen as independent in relation to particular duties,—
 (5) During the period of his or her leave, the State servant shall not be required or permitted to carry out any of his or her official duties, nor shall he or she be entitled to receive any salary or other remuneration as a State servant in respect of that period or any part thereof, except to the extent to which he or she takes during that period any leave with pay to which he or she is entitled:
-  provided that a candidate who, at the time of his or her nomination or of the inclusion of his or her name in a list submitted under section 127, is a member of the staff of a university or a university college or a technical institute or a community college or a teachers college may continue to teach or supervise the studies of students at that university or university college or technical institute or community college or teachers college who are preparing for an examination and may engage in marking the examination papers of such students, and may receive remuneration in respect of such teaching, supervision, and marking.
+  provided that a candidate who, at the time of his or her nomination or of the inclusion of his or her name in a list submitted under section 127, is a member of the staff of a university or a university college, or the New Zealand Institute of Skills and Technology (NZIST) or an NZIST subsidiary that provides education or training (or both), or a wananga, community college, or teachers college may continue to teach or supervise the studies of students at that university, or university college, NZIST, an NZIST subsidiary, a wananga, a community college, or a teachers college who are preparing for an examination and may engage in marking the examination papers of such students, and may receive remuneration in respect of such teaching, supervision, and marking.
 (6) Except as provided in the foregoing provisions of this section, a candidate’s rights as a State servant shall not be affected by his or her candidature.
 
 ### 53 Members disqualified from being State servants
