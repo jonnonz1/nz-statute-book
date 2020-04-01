@@ -1,5 +1,5 @@
 # Financial Advisers Act 2008
-_Consolidation as at 2019-03-18_
+_Consolidation as at 2020-04-01_
 
 ### 1 Title
 This Act is the Financial Advisers Act 2008.
@@ -155,7 +155,7 @@ In this Act, unless the context otherwise requires,—
   - **investment planning service** has the meaning set out in section 11
   - **issuer** has the same meaning as in section 11(1)﻿(b) of the Financial Markets Conduct Act 2013
   - **lawyer** has the same meaning as in section 6 of the Lawyers and Conveyancers Act 2006
-  - **lecturer** means a person who is employed by a university, polytechnic, or college of education to teach or instruct students of the university, polytechnic, or college of education
+  - **lecturer** means a person who is employed by a university, the New Zealand Institute of Skills and Technology and its subsidiaries, or a college of education to teach or instruct students of the university, New Zealand Institute of Skills and Technology and its subsidiaries, or college of education
   - **licensed market** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **licensed service** has the same meaning as in section 4 of the FSP Act
   - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
@@ -164,13 +164,13 @@ In this Act, unless the context otherwise requires,—
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **nominated representative** means an individual who has been nominated by a QFE or by a partner entity in accordance with section 74 and whose nomination has not been terminated under that section
   - **non-profit organisation** means any organisation, whether incorporated or not, that is carried on other than for the purposes of profit or gain to an owner, member, or shareholder
+  - **NZIST** means the New Zealand Institute of Skills and Technology established by section 222A of the Education Act 1989, and includes its Crown entity subsidiaries
   - **offeror** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **on behalf of the business of another person** or has the meaning set out in section 5I(1)
   - **overseas regulator** means a body in another country with functions corresponding to those of the FMA under this Act
   - **partner entity** , in relation to a QFE, means an entity that is part of the QFE
   - **personalised DIMS** has the meaning set out in section 15
   - **personalised service** has the meaning set out in section 15
-  - **polytechnic** has the same meaning as in section 159(1) of the Education Act 1989
   - **prescribed** means prescribed by regulations made under this Act
   - **principal officer** means a director or a person who occupies a position equivalent to that of a director (such as a trustee or partner)
   - **product disclosure statement** or has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
