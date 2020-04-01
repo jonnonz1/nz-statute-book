@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2020-04-01_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -1488,7 +1488,6 @@ A veteran with total lower body mobility impairment or with severe lower body mo
     (c) does not include any employer’s superannuation contribution (within the meaning of section YA 1 of the Income Tax Act 2007)
   - **full-time employment** has the same meaning as in Schedule 2 of the Social Security Act 2018
   - **income** has the same meaning as in Schedule 2 of the Social Security Act 2018
-  - **Income Test 3** means that the applicable rate of veterans’ pension must be reduced by 70 cents for every $1 of the combined income of the person receiving a veteran’s pension and his or her spouse or partner that is in excess of $100 per week
   - **living alone** , in relation to a single person, has the meaning given to it by section 159
   - **New Zealand superannuation** means New Zealand superannuation paid or payable under the New Zealand Superannuation and Retirement Income Act 2001
   - **ordinarily resident** , in relation to any person, does not include being unlawfully resident in New Zealand
@@ -1661,17 +1660,17 @@ A veteran’s pension commences on the later of—
   (b) must not reduce any of the rates of veteran's pension:
   (c) come into force, or are to be treated as having come into force, on 1 April of the calendar year in which they are made, and apply to veterans' pensions payable on and after that date.
 
-### 171 Abatement of veteran's pension
-(1) The amount payable to a veteran who is entitled to a veteran’s pension under section 161 at the relationship (partner not receiving superannuation or pension) rate or the relationship (partner not receiving superannuation or pension) legacy rate is subject to abatement in accordance with Income Test 3.
-(2) The amount payable to a veteran who is entitled to a veteran’s pension under section 164 is subject to abatement in accordance with—
-  (a) subsection (3), if the veteran receives the veteran’s pension at the relationship rate, the single living alone rate, or the single sharing accommodation rate:
-  (b) subsection (4), if the veteran receives the veteran’s pension at the relationship (partner not receiving superannuation or pension) rate or the relationship (partner not receiving superannuation or pension) legacy rate.
-(3) VANZ must, in calculating the veteran’s pension payable to a veteran to whom this subsection applies, reduce the amount of the pension payable by—
-  (a) 30 cents for every $1 of the employment income derived by the veteran (before the deduction of income tax) that is in excess of $100 per week, but not in excess of $200 per week; and
-  (b) 70 cents for every $1 of the employment income derived by the veteran (before the deduction of income tax) that is in excess of $200 per week.
-(4) VANZ must, in calculating the veteran’s pension payable to a veteran to whom this subsection applies, reduce the amount of the pension payable by—
-  (a) 30 cents for every $1 of the combined income derived by the veteran and the veteran’s spouse or partner in excess of $100 per week, but not in excess of $200 per week; and
-  (b) 70 cents for every $1 of the combined income derived by the veteran and the veteran’s spouse or partner in excess of $200 per week.
+### 171 Abatement of veteran’s pension
+(1) The amount payable to a veteran who is entitled to a veteran’s pension under section 161 or 164 is subject to abatement in accordance with regulations made under section 265.
+(2) Regulations made under section 265 may require different abatement (for example, different income tests, abatement rates, and abatement thresholds (for example, amounts, ranges, or both, of income per week)) for—
+  (a) a veteran’s pension under section 161 and a veteran’s pension under section 164:
+  (b) a veteran’s pension under section 164 if the veteran receives the veteran’s pension at—
+    (i) the relationship rate, the single living alone rate, or the single sharing accommodation rate:
+    (ii) the relationship (partner not receiving superannuation or pension) rate or the relationship (partner not receiving superannuation or pension) legacy rate.
+(3) Regulations made under section 265 that increase an amount of an abatement threshold (prescribed by regulations of that kind) for abatement of a veteran’s pension under section 161 or 164—
+  (a) must state the date on which they are to have effect (which may be a date before the date on which they were made); and
+  (b) apply to abatement thresholds as applicable on or after the date on which the regulations have effect.
+(4) Subsection (3) does not authorise any payment to be made before the date on which the regulations that increase the abatement threshold are made.
 
 ### 172 Election if spouse or partner not entitled to superannuation or veteran's pension
 (1) This section applies to a veteran—
@@ -2508,6 +2507,7 @@ VANZ must provide the resources and administrative support necessary to enable t
   (27) section 157 (provision of financial advice):
   (28) section 169 (rates of veteran's pension):
   (29) section 170 (annual adjustment of rates of veteran's pension):
+  (29A) section 171 (abatement of veteran’s pension):
   (30) section 174 (lump sum payment on death):
   (31) section 208 (payments to persons other than claimants):
   (32) section 212 (fees and allowances of assessors):
