@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2019-12-14_
+_Consolidation as at 2020-04-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -30,7 +30,9 @@ The purpose of this Act is to reform the law relating to Crown entities to provi
 (2) Otherwise this Act does not apply to school boards of trustees and their Crown entity subsidiaries.
 
 ### 6 Application of this Act to tertiary education institutions
-(1) The provisions set out in Schedule 4 of this Act and Schedule 13A of the Education Act 1989 apply to tertiary education institutions and their Crown entity subsidiaries.
+(1) The provisions set out in Part 1 of Schedule 4 of this Act and Part 1 of Schedule 13A of the Education Act 1989 apply to all tertiary education institutions and their Crown entity subsidiaries.
+(1A) The provisions set out in Part 2 of Schedule 4 of this Act and Part 2 of Schedule 13A of the Education Act 1989 apply to the New Zealand Institute of Skills and Technology and its council in addition to the provisions referred to in subsection (1).
+(1B) For the purpose of applying the provisions referred to in subsection (1A), NZIST must be treated as a statutory entity.
 (2) Otherwise this Act does not apply to tertiary education institutions and their Crown entity subsidiaries.
 
 ### 7 Meaning of Crown entity and categories of Crown entities
@@ -41,7 +43,7 @@ The purpose of this Act is to reform the law relating to Crown entities to provi
     (a) a subsidiary of another Crown entity under sections 5 to 8 of the Companies Act 1993; or
     (b) a multi-parent subsidiary of 2 or more Crown entities
   (d) school boards of trustees:The following table is small in size and has 2 columns. Column 1 is headed What are they? Column 2 is headed Definition.What are they?DefinitionThese are boards that are bodies corporate constituted under the Education Act 1989 (including correspondence schools)A body that is a board of trustees constituted under Part 9 of the Education Act 1989 and includes a board of a school designated as a correspondence school by the Minister of Education under section 152 of the Education Act 1989
-  (e) tertiary education institutions:The following table is small in size and has 2 columns. Column 1 is headed What are they? Column 2 is headed Definition.What are they?DefinitionThese are tertiary institutions (for example, colleges of education, polytechnics, specialist colleges, universities, or wananga) that are bodies corporate established under the Education Act 1989An institution established under Part 14 of the Education Act 1989
+  (e) tertiary education institutions:The following table is small in size and has 2 columns. Column 1 is headed What are they? Column 2 is headed Definition.What are they?DefinitionThese are tertiary institutions (for example, colleges of education, the New Zealand Institute of Skills and Technology, specialist colleges, universities, or wananga) that are bodies corporate established under the Education Act 1989An institution established under Part 14 of the Education Act 1989
 (1A) Despite section 5(3) of the Companies Act 1993, a Crown entity subsidiary must be a company incorporated under that Act.
 (2) The words in brackets in subsection (1) about the effect of the different types of statutory entities are intended only as a guide.
 
@@ -2035,6 +2037,8 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 
 ## Schedule 4 — Application of Crown Entities Act 2004 to tertiary education institutions
 
+### Part 1 — Provisions relating to all tertiary education institutions
+
 | Section | Brief description |
 | --- | --- |
 | Section 3 to 8 | Crown entities and categories |
@@ -2058,6 +2062,30 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Section 176 | Application of provisions of the Public Finance Act 1989 |
 | Section 178 | Application of Archives Act 1957 |
 | Sections 181, 188, 191, 193, 194, 198, 199, 200 | Transitional and savings provisions and associated consequential amendments |
+
+### Part 2 — Additional provisions that apply to New Zealand Institute of Skills and Technology
+
+| Section | Brief description |
+| --- | --- |
+| Section 37 | Removal of members of autonomous Crown entities |
+| Section 38 | Removal of elected members of Crown agents and autonomous Crown entities |
+| Section 40 | Definition of just cause |
+| Section 41 | Process for removal |
+| Section 43 | No compensation for loss of office |
+| Sections 44 and 45 | Resignation of members and members ceasing to hold office |
+| Sections 47 and 48 | Remuneration and expenses of members |
+| Sections 49 to 52 | Collective duties of board |
+| Sections 53 to 57 | Individual duties of members |
+| Sections 58 to 61 | Effect of non-compliance with duties and reliance on information and advice |
+| Sections 73 to 76 | Delegation |
+| Section 77 | Vacancies in membership of board |
+| Sections 96 to 102 | Crown entity subsidiaries |
+| Sections 120 to 126 | Liability of members, office holders, and employees |
+| Sections 127 to 130 | Dealings with third parties |
+| Sections 138 to 149A | Statement of intent |
+| Sections 149B to 149M | Statement of performance expectations |
+| Sections 150 to 156 | Reporting: annual reports |
+| Section 158 | Bank accounts of Crown entities |
 
 ## Schedule 5 — Appointment of chairperson, etc, and board procedure for statutory entities (other than corporations sole)
 
