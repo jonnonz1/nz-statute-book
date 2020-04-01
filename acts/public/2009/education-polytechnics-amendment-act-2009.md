@@ -1,5 +1,5 @@
 # Education (Polytechnics) Amendment Act 2009
-_Consolidation as at 2010-12-21_
+_Consolidation as at 2020-04-01_
 
 ### 1 Title
 This Act is the Education (Polytechnics) Amendment Act 2009.
@@ -16,7 +16,7 @@ This Act amends the Education Act 1989.
 **Amendments to existing provisions of principal Act relating to tertiary education**
 
 ### 4 Interpretation
-Section 159(1) is amended by inserting the following definitions in their appropriate alphabetical order:.
+Section 159(1) is amended by inserting the following definitions in their appropriate alphabetical order:
   - **combined council** means a body constituted under section 222AM
   - **constitutents** , in relation to an institution, means the people who (by virtue of section 163) constitute it
   - **designated polytechnic** ,—
@@ -32,7 +32,7 @@ Section 159(1) is amended by inserting the following definitions in their approp
 ### 5 Institutions to be governed by councils
 Section 165 is amended by inserting the following subsection after subsection (1):
   (1A) On and after its reconstitution day,—
-    (a) subsection (1)(a) does not apply to a polytechnic; and
+    (a) subsection (1)﻿(a) does not apply to a polytechnic; and
     (b) except in relation to matters that occurred before the commencement of this section, a reference in any law to the council or other governing body of an institution must, in relation to the polytechnic, be construed as a reference to its council as constituted under this Part or Part 15A (as the case requires).
 
 ### 6 Section 168 repealed
@@ -128,8 +128,8 @@ The following Part is inserted after Part 15:Special provisions relating to poly
     (b) the council—
       (i) must not perform any of those functions; and
       (ii) must provide the information and access, and do all other things, reasonably necessary to enable the Crown manager to perform those functions and exercise those powers.
-  (7) The Crown manager must perform any function under subsection (6)(a) (and exercise any power in order to do so) in accordance with this Act; and, in particular, have regard to sections 160 and 161.
-  (8) Subsection (7) does not limit the generality of subsection (6)(a)(ii).
+  (7) The Crown manager must perform any function under subsection (6)﻿(a) (and exercise any power in order to do so) in accordance with this Act; and, in particular, have regard to sections 160 and 161.
+  (8) Subsection (7) does not limit the generality of subsection (6)﻿(a)﻿(ii).
   (9) The council must pay the Crown manager's reasonable fees and expenses.
   (10) If the Crown manager's appointment has not earlier been revoked, the Minister must consider whether the reasons for it still apply—
     (a) no later than 12 months after it was made; and
@@ -147,7 +147,7 @@ The following Part is inserted after Part 15:Special provisions relating to poly
     (c) may then (if any necessary conditions are satisfied) act under another of those sections giving him or her power to act.
 
 ### 16 New headings and sections 222AA to 222AR inserted
-The following headings and sections are inserted before section 222A (as inserted by section 15):Polytechnic councilsConstitution of polytechnic councilsStatutes relating to appointment of members by polytechnic councilsMembership of more than one polytechnic councilMatters to be considered when appointments madeTerm of officeReappointment and re-electionChairperson and deputy chairpersonDuties of members of polytechnic councilsAccountability for individual dutiesRemoval of membersProcess for removalCombination of polytechnic councilsVoluntary combination of councilsConstitution of combined councilsEffect of combinationDissolution of combined councilEffect of dissolutionInitial membership of polytechnic councils after dissolution of combined councilCombined academic boardsPolytechnic councils may establish combined academic boardsInterventions.
+The following headings and sections are inserted before section 222A (as inserted by section 15):Polytechnic councilsConstitution of polytechnic councilsStatutes relating to appointment of members by polytechnic councilsMembership of more than one polytechnic councilMatters to be considered when appointments madeTerm of officeReappointment and re-electionChairperson and deputy chairpersonDuties of members of polytechnic councilsAccountability for individual dutiesRemoval of membersProcess for removalCombination of polytechnic councilsVoluntary combination of councilsConstitution of combined councilsEffect of combinationDissolution of combined councilEffect of dissolutionInitial membership of polytechnic councils after dissolution of combined councilCombined academic boardsPolytechnic councils may establish combined academic boardsInterventions
   (1) The council of a designated polytechnic must comprise—
     (a) 4 members appointed by the Minister:
     (b) 4 members appointed by the council in accordance with its statutes.
@@ -163,7 +163,7 @@ The following headings and sections are inserted before section 222A (as inserte
     (b) a disqualification of a member of the council or committee; or
     (c) a defect in the convening of a meeting; or
     (d) a vacancy or vacancies in the membership of the council or committee.
-  (1) Every polytechnic council must have in place statutes relating to the appointment of members under section 222AA(1)(b).
+  (1) Every polytechnic council must have in place statutes relating to the appointment of members under section 222AA(1)﻿(b).
   (2) The statutes may (in respect of any of the 4 appointments it has power to make)—
     (a) require the appointment of a member—
       (i) of a stated description; or
@@ -190,7 +190,7 @@ The following headings and sections are inserted before section 222A (as inserte
     (a) the day on which his or her appointment takes effect:
     (b) the expiry of the term of office of his or her predecessor.
   (4) Notwithstanding subsection (3), if the term of office of a member of the council of a designated polytechnic expires before a successor is appointed, the member continues in office until the day on which the appointment of a successor takes effect.
-  (5) Subsection (4) does not apply to a member who was before 1 May 2011 appointed under section 222AA(1)(b).
+  (5) Subsection (4) does not apply to a member who was before 1 May 2011 appointed under section 222AA(1)﻿(b).
   Any member of the council of a designated polytechnic can be reappointed for a second or later term.
   (1) The Minister may at any time the council of a designated polytechnic has no chairperson or no deputy chairperson, by written notice to the member concerned stating the term for which the member is appointed, appoint as chairperson or deputy chairperson (as the case requires) of the council any member who is not one of the following:
     (a) a student enrolled at the polytechnic:
@@ -206,8 +206,8 @@ The following headings and sections are inserted before section 222A (as inserte
       (i) ceases to be a member of the council; or
       (ii) becomes the chief executive or a member of the staff of the polytechnic, or a student enrolled at the polytechnic.
   (6) The chairperson or deputy chairperson of the council of a designated polytechnic who resigns must give a copy of the notice of resignation to the council.
-  (7) The chairperson or deputy chairperson of the council of a designated polytechnic holds office as chairperson or deputy chairperson for the term for which he or she was appointed (but may be reappointed), unless earlier he or she dies, is dismissed, resigns, or ceases to hold office by virtue of subsection (5)(b).
-  (8) Notwithstanding subsection (7), if the term of office of the chairperson or deputy chairperson of the council of a designated polytechnic expires before a successor is appointed, he or she continues in office until a successor is appointed, unless earlier he or she dies, is dismissed, resigns, or ceases to hold office by virtue of subsection (5)(b).
+  (7) The chairperson or deputy chairperson of the council of a designated polytechnic holds office as chairperson or deputy chairperson for the term for which he or she was appointed (but may be reappointed), unless earlier he or she dies, is dismissed, resigns, or ceases to hold office by virtue of subsection (5)﻿(b).
+  (8) Notwithstanding subsection (7), if the term of office of the chairperson or deputy chairperson of the council of a designated polytechnic expires before a successor is appointed, he or she continues in office until a successor is appointed, unless earlier he or she dies, is dismissed, resigns, or ceases to hold office by virtue of subsection (5)﻿(b).
   (9) The chairperson or deputy chairperson of the council of a designated polytechnic may be referred to by any title (other than Chancellor or Pro-Chancellor) the council determines.
   (1) A member of the council of a designated polytechnic, when acting as a member of the council in any circumstances,—
     (a) must—
@@ -224,7 +224,7 @@ The following headings and sections are inserted before section 222A (as inserte
       (ii) as required or permitted by law; or
       (iii) in accordance with subsection (3); or
       (iv) in complying with requirements for members to disclose interests.
-  (2) The fact that a member of the council of a designated polytechnic was appointed by the council in accordance with a statute providing for the appointment of a member (or 2 or more members) to represent the interests of a stated institution or of people or institutions of a stated description does not displace or limit the member's duty under subsection (1)(a)(ii) to act in the interests of the polytechnic as a whole.
+  (2) The fact that a member of the council of a designated polytechnic was appointed by the council in accordance with a statute providing for the appointment of a member (or 2 or more members) to represent the interests of a stated institution or of people or institutions of a stated description does not displace or limit the member's duty under subsection (1)﻿(a)﻿(ii) to act in the interests of the polytechnic as a whole.
   (3) A member of the council of a designated polytechnic may disclose, make use of, or act on information to which subsection (4) applies if—
     (a) he or she has earlier been authorised to do so by the council; or
     (b) disclosing, making use of, or acting on it will not, or will be unlikely to, prejudice the council or the polytechnic.
@@ -266,13 +266,13 @@ The following headings and sections are inserted before section 222A (as inserte
     (a) the resulting combined council—
       (i) is the successor of each of them; and
       (ii) has all the obligations and rights each of them had immediately before their combination:
-    (b) every statute of any of them (other than a statute relating to the appointment of members under section 222AA(1)(b))—
+    (b) every statute of any of them (other than a statute relating to the appointment of members under section 222AA(1)﻿(b))—
       (i) becomes a statute of the combined council (and may be amended or repealed accordingly); but
       (ii) until amended so as to apply to the others, applies only to the polytechnic by whose council it was made:
     (c) every member of any of the polytechnic councils combined goes out of office:
     (d) the assets and liabilities of each of the polytechnics concerned immediately before their combination continue to be assets and liabilities of that polytechnic:
     (e) a person who immediately before their combination was the chief executive of any of the polytechnics concerned is still the chief executive of that polytechnic, but (without having been made or otherwise become redundant) becomes an employee of the combined council.
-  (3) Neither the Crown nor a combined council is liable to make a payment to, or otherwise compensate, a person in respect of the person's going out of office as a member of a polytechnic council under subsection (2)(c).
+  (3) Neither the Crown nor a combined council is liable to make a payment to, or otherwise compensate, a person in respect of the person's going out of office as a member of a polytechnic council under subsection (2)﻿(c).
   (1) The Minister may, on the recommendation of a combined council, dissolve it.
   (2) A combined council must not recommend that the Minister dissolve it without first consulting the constituents of the polytechnics concerned.
   (3) The Minister dissolves a combined council by notice in the Gazette stating the day on which the dissolution takes effect.
@@ -282,14 +282,14 @@ The following headings and sections are inserted before section 222A (as inserte
     (b) each polytechnic council has—
       (i) any of the obligations and rights the former polytechnic council of the polytechnic had immediately before the establishment of the combined council; and
       (ii) any of the obligations and rights the combined council had immediately before the dissolution that have arisen in relation to the polytechnic:
-    (c) every statute of the combined council that relates to all the polytechnics concerned (other than a statute relating to the appointment of members under section 222AA(1)(b)) becomes a statute of each of them:
-    (d) every statute of the combined council that does not relate to all the polytechnics concerned (other than a statute relating to the appointment of members under section 222AA(1)(b)) becomes a statute of the polytechnic to which it does relate (or, as the case requires, of each of the polytechnics concerned to which it does relate):
+    (c) every statute of the combined council that relates to all the polytechnics concerned (other than a statute relating to the appointment of members under section 222AA(1)﻿(b)) becomes a statute of each of them:
+    (d) every statute of the combined council that does not relate to all the polytechnics concerned (other than a statute relating to the appointment of members under section 222AA(1)﻿(b)) becomes a statute of the polytechnic to which it does relate (or, as the case requires, of each of the polytechnics concerned to which it does relate):
     (e) every member of the combined council goes out of office:
     (f) a person who immediately before the dissolution was the chief executive of any of the polytechnics concerned is still the chief executive of that polytechnic, but (without having been made or otherwise become redundant) becomes an employee of the polytechnic council established or to be established for it.
-  (2) For the purposes of subsection (1)(b)(ii),—
+  (2) For the purposes of subsection (1)﻿(b)﻿(ii),—
     (a) a combined council may, after the publication of the notice dissolving it, and before the day stated in the notice, determine that any of its obligations or rights have arisen in relation to a particular polytechnic; and
     (b) the combined council's determination is binding on all the polytechnic councils established or to be established for the polytechnics concerned.
-  (3) Neither the Crown nor a polytechnic council is liable to make a payment to, or otherwise compensate, a person in respect of the person's going out of office as a member of a combined council under subsection (1)(e).
+  (3) Neither the Crown nor a polytechnic council is liable to make a payment to, or otherwise compensate, a person in respect of the person's going out of office as a member of a combined council under subsection (1)﻿(e).
   (1) Before the dissolution of a combined council, the Minister must appoint the members of each of the new polytechnic councils required by its constitution to be appointed by the Minister.
   (2) Other members of a new polytechnic council—
     (a) may be appointed before the dissolution; and
@@ -312,8 +312,8 @@ The following headings and sections are inserted before section 222A (as inserte
   (5) As soon as is practicable after a combined academic board established under subsection (1) has been disestablished, each of the polytechnic councils concerned must establish an academic board for itself.
   (6) Section 182(1) applies to a combined academic board as if it were a board established within each of the polytechnics concerned.
   (7) For the purposes of section 222,—
-    (a) a combined academic board established under subsection (1) must, in relation to each of the polytechnic councils concerned, be treated as if it were a committee appointed by the council under section 193(2)(i):
-    (b) a combined academic board established under subsection (2) must be treated as if it were a committee appointed by the combined council concerned under section 193(2)(i).
+    (a) a combined academic board established under subsection (1) must, in relation to each of the polytechnic councils concerned, be treated as if it were a committee appointed by the council under section 193(2)﻿(i):
+    (b) a combined academic board established under subsection (2) must be treated as if it were a committee appointed by the combined council concerned under section 193(2)﻿(i).
   (8) In relation to every polytechnic council for which a combined academic board is established (and to its polytechnic), a reference to the academic board of an institution in a provision of this Act other than this section is a reference to the combined academic board.
 
 **Enabling school students to attend tertiary high school at Manukau Institute of Technology**
@@ -334,11 +334,11 @@ In this Part,—
 (2) Other members of a reconstituted polytechnic council—
   (a) may be appointed before its reconstitution day; and
   (b) must be appointed within 3 months after that day.
-(3) Every member of a reconstituted polytechnic council who is before 1 May 2011 appointed under section 222AA(1)(b) of the principal Act must be appointed for a term ending no later than the close of 30 April 2011.
+(3) Every member of a reconstituted polytechnic council who is before 1 May 2011 appointed under section 222AA(1)﻿(b) of the principal Act must be appointed for a term ending no later than the close of 30 April 2011.
 (4) A reconstituted polytechnic council must ensure that every vacancy of either of the following kinds is filled no later than 11 June 2011:
-  (a) a vacancy that arises at the close of 30 April 2011 because a member appointed under section 222AA(1)(b) of the principal Act goes out of office at that time:
+  (a) a vacancy that arises at the close of 30 April 2011 because a member appointed under section 222AA(1)﻿(b) of the principal Act goes out of office at that time:
   (b) a vacancy that—
-    (i) arises at a time before the close of 30 April 2011 because a member appointed under section 222AA(1)(b) of the principal Act goes out of office at that time; and
+    (i) arises at a time before the close of 30 April 2011 because a member appointed under section 222AA(1)﻿(b) of the principal Act goes out of office at that time; and
     (ii) has not been filled before the close of 30 April 2011.
 (5) Subsection (3) overrides section 222AE(2) of the principal Act.
 (6) The appointment of a member of a reconstituted polytechnic council takes effect on the later of the day on which it occurs and its reconstitution day.
@@ -354,7 +354,7 @@ In this Part,—
 (2) Subsection (1)—
   (a) is subject to section 19(7); and
   (b) overrides section 222AE(4) of the principal Act.
-(3) Neither the Crown nor a polytechnic council is liable to make a payment to, or otherwise compensate, a person in respect of the person's going out of office as a member of the council under subsection (1)(a).
+(3) Neither the Crown nor a polytechnic council is liable to make a payment to, or otherwise compensate, a person in respect of the person's going out of office as a member of the council under subsection (1)﻿(a).
 
 ### 21 Council continues to be same body
 (1) On and after its reconstitution day, a polytechnic council—
