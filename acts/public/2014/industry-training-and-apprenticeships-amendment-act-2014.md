@@ -1,5 +1,5 @@
 # Industry Training and Apprenticeships Amendment Act 2014
-_Consolidation as at 2014-04-22_
+_Consolidation as at 2020-04-01_
 
 ### 1 Title
 This Act is the Industry Training and Apprenticeships Amendment Act 2014.
@@ -38,16 +38,16 @@ After the Part 1 heading, insert:Purpose
 (3) In section 2, definition of industry, delete and, in relation to any industry training organisation, means the industry in respect of which the organisation is for the time being recognised.
 (4) In section 2, definition of industry training, after systematic training,, insert including apprenticeship training,.
 (5) In section 2, definition of qualifications authority, replace qualifications authority with Qualifications Authority.
-(6) In section 2, insert in their appropriate alphabetical order:.
+(6) In section 2, insert in their appropriate alphabetical order:
   - **apprentice** means a person receiving apprenticeship training
   - **apprenticeship training** has the meaning given to it by section 13C
   - **apprenticeship training agreement** means an agreement between an employee and his or her employer that relates to the employee's receipt of, or that provides for the employee to receive, apprenticeship training
   - **apprenticeship training code** means the code of practice (if any) for the time being issued under section 13F
-  - **condition of recognition** means a condition imposed on an industry training organisation by the Minister under section 5(2) or (5)(b)
+  - **condition of recognition** means a condition imposed on an industry training organisation by the Minister under section 5(2) or (5)﻿(b)
   - **Directory of Assessment Standards** means the Directory of Assessment Standards described in section 248A of the Education Act 1989
   - **funding agreement** means a written agreement entered into under section 11A between the Commission and 1 or more persons
   - **listed skill standard** means a skill standard that is listed on the Directory of Assessment Standards
-  - **prescribed quality assurance requirements** means the quality assurance requirements prescribed by the Qualifications Authority under section 253(1)(gb) of the Education Act 1989 (which may relate to the matters in section 13B)
+  - **prescribed quality assurance requirements** means the quality assurance requirements prescribed by the Qualifications Authority under section 253(1)﻿(gb) of the Education Act 1989 (which may relate to the matters in section 13B)
   - **qualification** means a qualification listed on the New Zealand Qualifications Framework described in section 248 of the Education Act 1989
   - **specified industry** means,—
     (a) in relation to an industry training organisation, the industry or industries in respect of which the industry training organisation is recognised; or
@@ -70,7 +70,7 @@ Replace sections 5 to 8 with:Minister may recognise industry training organisati
   (2) Recognition under subsection (1) may be subject to any conditions that, in the Minister's opinion, are reasonably necessary to maintain the quality and effectiveness of industry training in the specified industry.
   (3) Before recognising an organisation under subsection (1), the Minister must—
     (a) take into account the matters set out in section 7; and
-    (b) be satisfied that the organisation has, or will have, the skill and knowledge to be able to carry out the core activities of an industry training organisation under section 11B(1)(a); and
+    (b) be satisfied that the organisation has, or will have, the skill and knowledge to be able to carry out the core activities of an industry training organisation under section 11B(1)﻿(a); and
     (c) be satisfied, following consultation with the Qualifications Authority, that the organisation has, or will have, and is likely to maintain—
       (i) systems and processes to enable the organisation to comply with the prescribed quality assurance requirements; and
       (ii) the capability, knowledge, and experience to enable the organisation to comply with the prescribed quality assurance requirements.
@@ -84,11 +84,11 @@ Replace sections 5 to 8 with:Minister may recognise industry training organisati
       (i) revoke a condition of recognition; or
       (ii) amend a condition of recognition, or impose a new condition, if, in the Minister's opinion, the amended or new condition is reasonably necessary to maintain the quality and effectiveness of industry training in the specified industry.
   (1) A body corporate may apply to the Minister for recognition as an industry training organisation.
-  (2) An application under subsection (1) must be accompanied by the fee (if any) charged by the Qualifications Authority under section 254(2)(d) of the Education Act 1989.
+  (2) An application under subsection (1) must be accompanied by the fee (if any) charged by the Qualifications Authority under section 254(2)﻿(d) of the Education Act 1989.
   (3) The Minister need not consider an application if the applicant has failed to provide, within 30 days of receiving a request, any information requested in relation to the application by—
     (a) the Qualifications Authority; or
     (b) the Commission.
-  The matters that the Minister must take into account under section 5(3)(a) are, without limitation,—
+  The matters that the Minister must take into account under section 5(3)﻿(a) are, without limitation,—
     (a) whether the organisation provides services to, or will provide services to, a sufficient number of employers in the specified industry; and
     (b) whether the organisation is, or will be, adequately funded by employers in the specified industry; and
     (c) whether the organisation has in place adequate arrangements for involving employers in the governance of the organisation; and
@@ -101,9 +101,9 @@ Replace sections 5 to 8 with:Minister may recognise industry training organisati
       (ii) Qualifications Authority consent, under section 252 of the Education Act 1989, to assess its students against listed skill standards; and
     (g) whether the organisation has performed satisfactorily at other times when the organisation has been recognised; and
     (h) whether the organisation has taken reasonable steps to avoid fragmentation and to provide a clear and representative industry focus.
-  (1) The Minister may, by notice in the Gazette, grant provisional recognition to an industry training organisation that does not satisfy the matters described in section 5(3)(c).
+  (1) The Minister may, by notice in the Gazette, grant provisional recognition to an industry training organisation that does not satisfy the matters described in section 5(3)﻿(c).
   (2) Before granting provisional recognition, the Minister must be satisfied that—
-    (a) the organisation has, or will have, the skill and knowledge to be able to carry out the core activities of an industry training organisation under section 11B(1)(a); and
+    (a) the organisation has, or will have, the skill and knowledge to be able to carry out the core activities of an industry training organisation under section 11B(1)﻿(a); and
     (b) if the applicant completes the actions specified in the Gazette notice, the applicant will satisfy the Minister that it should be recognised under section 5(1); and
     (c) in all the circumstances, it is appropriate that the Commission should be able to fund the applicant via a plan.
   (3) A Gazette notice under subsection (1) must specify—
@@ -116,22 +116,22 @@ Replace sections 5 to 8 with:Minister may recognise industry training organisati
 
 ### 12 Section 9 amended (Expiry and cancellation of recognition)
 (1) In section 9(3), replace this Act with section 5(1) or 8(1).
-(2) After section 9(3)(ab), insert:.
+(2) After section 9(3)﻿(ab), insert:
   (ac) if it has breached the requirement in section 11E; or
-(3) Replace section 9(3A)(a) with:.
+(3) Replace section 9(3A)﻿(a) with:
   (a) the Minister has issued a notice to the organisation, in accordance with subsection (3B), stating that he or she considers that the organisation's performance is inadequate for any of the following reasons:
-    (i) it is not carrying out at least 1 of the core activities set out in section 11B(1)(a):
+    (i) it is not carrying out at least 1 of the core activities set out in section 11B(1)﻿(a):
     (ii) it is failing to comply with 1 or more conditions of recognition:
     (iii) it is failing to comply with a compliance notice issued by the Qualifications Authority under section 11D; and
-(4) In section 9(3B)(b)(i), delete , with reference to the requirements under section 6(a) to (d).
+(4) In section 9(3B)﻿(b)﻿(i), delete , with reference to the requirements under section 6(a) to (d).
 
 ### 13 New cross-heading above section 10 inserted
-After section 9, insert:Funding of industry training.
+After section 9, insert:Funding of industry training
 
 ### 14 Section 10 amended (Industry training organisation’s proposed plan must identify activities for which it seeks funding)
-(1) In section 10(2)(a), replace setting with developing and maintaining.
-(2) In section 10(2)(c), replace qualifications authority with Qualifications Authority in each place.
-(3) Replace section 10(2)(d) and (e) with:.
+(1) In section 10(2)﻿(a), replace setting with developing and maintaining.
+(2) In section 10(2)﻿(c), replace qualifications authority with Qualifications Authority in each place.
+(3) Replace section 10(2)﻿(d) and (e) with:
   (d) the apprenticeship training activities described in section 13D(2) (which, if funded, must be carried out as a package); and
 
 ### 15 New sections 11A to 11F and cross-heading inserted
@@ -140,7 +140,7 @@ After section 11, insert:Persons other than industry training organisations may 
     (a) to make arrangements, in respect of an industry or industries described in the agreement, for the delivery of industry training that will enable trainees to attain listed skill standards, including arrangements accepted by the Qualifications Authority for—
       (i) monitoring the training to ensure that the training enables trainees to attain those standards; and
       (ii) assessing trainees and the extent to which they have attained those standards; and
-    (b) to perform, in respect of an industry or industries described in the agreement, the apprenticeship training activities described in section 13D(2)(c) to (h) (which, if funded, must be carried out as a package); and
+    (b) to perform, in respect of an industry or industries described in the agreement, the apprenticeship training activities described in section 13D(2)﻿(c) to (h) (which, if funded, must be carried out as a package); and
     (c) to receive funding from the Commission for the purposes described in paragraphs (a) and (b).
   (2) A funding agreement must—
     (a) specify agreed levels of performance for the person receiving funding under the agreement; and
@@ -152,7 +152,7 @@ After section 11, insert:Persons other than industry training organisations may 
     (b) comply with any conditions of recognition applying to the organisation; and
     (c) comply with any prescribed quality assurance requirements that apply to the activities carried out by the organisation; and
     (d) develop and maintain arrangements for the collective representation of employees in the governance of the organisation.
-  (2) In carrying out the activity described in subsection (1)(a)(ii), an industry training organisation must have regard to the needs of Māori and other population groups identified in the tertiary education strategy issued under section 159AA of the Education Act 1989.
+  (2) In carrying out the activity described in subsection (1)﻿(a)﻿(ii), an industry training organisation must have regard to the needs of Māori and other population groups identified in the tertiary education strategy issued under section 159AA of the Education Act 1989.
   (1) The Qualifications Authority may, if satisfied that such action is reasonably necessary to maintain the quality and effectiveness of industry training in a specified industry, issue a quality assurance improvement notice to an industry training organisation.
   (2) A quality assurance improvement notice must—
     (a) set out any concerns the Qualifications Authority has about the organisation's systems, practices, training, or procedures; and
@@ -165,7 +165,7 @@ After section 11, insert:Persons other than industry training organisations may 
   (2) Section 255(3) to (6) of the Education Act 1989 applies to compliance notices issued under this section.
   (3) If an industry training organisation fails to comply with a notice issued under subsection (1), the Qualifications Authority may recommend to the Minister that the Minister do 1 or both of the following things:
     (a) issue a notice in accordance with section 9(3B) (which may lead to cancellation of the organisation's recognition under section 9(3)):
-    (b) impose a new condition of recognition, or amend an existing condition, under section 5(5)(b).
+    (b) impose a new condition of recognition, or amend an existing condition, under section 5(5)﻿(b).
   (4) A compliance notice may be issued to an industry training organisation whether or not a quality assurance improvement notice has been issued under section 11C.
   (5) Nothing in this section limits the power of the Qualifications Authority to issue a compliance notice to an industry training organisation in accordance with section 255 of the Education Act 1989.
   (1) An industry training organisation must not operate or hold any interest in a registered private training establishment.
@@ -173,9 +173,9 @@ After section 11, insert:Persons other than industry training organisations may 
     (a) before the commencement of this section, the organisation operated or held an interest in a registered private training establishment; and
     (b) the organisation continues to operate, or continues to hold the same interest in, the registered private training establishment.
   (3) In this section, registered private training establishment means a private training establishment that has been granted registration by the Qualifications Authority under Part 18 of the Education Act 1989, other than a registration that has been cancelled.
-  (1) Every industry training organisation must pay to the Qualifications Authority an annual fee prescribed by or determined under rules made under section 253(1)(ga) of the Education Act 1989.
+  (1) Every industry training organisation must pay to the Qualifications Authority an annual fee prescribed by or determined under rules made under section 253(1)﻿(ga) of the Education Act 1989.
   (2) The annual fee may recover no more than the reasonable costs, excluding those costs that are recoverable through fees charged under section 254 of the Education Act 1989, incurred by the Qualifications Authority for—
-    (a) prescribing quality assurance requirements under section 253(1)(gb) of the Education Act 1989; and
+    (a) prescribing quality assurance requirements under section 253(1)﻿(gb) of the Education Act 1989; and
     (b) monitoring compliance, and addressing non-compliance, with those requirements in accordance with its function under section 13A(a); and
     (c) issuing quality assurance improvement notices under section 11C.
   (3) The fee is—
@@ -195,17 +195,17 @@ Replace section 13 with:Functions of Commission and Qualifications AuthorityAddi
   In addition to the functions given to the Qualifications Authority by or under enactments other than this Act, the Qualifications Authority has the following functions:
     (a) to monitor, through the exercise of its powers under this Act, compliance by industry training organisations with the prescribed quality assurance requirements, and to address non-compliance:
     (b) to monitor the quality and results of an industry training organisation's system and procedures for the moderation of vocational training.
-  (1) Rules made under section 253(1)(gb) of the Education Act 1989 to prescribe quality assurance requirements for industry training organisations may include, without limitation other than subsection (2), requirements relating to—
+  (1) Rules made under section 253(1)﻿(gb) of the Education Act 1989 to prescribe quality assurance requirements for industry training organisations may include, without limitation other than subsection (2), requirements relating to—
     (a) the quality of the management, operation, and governance of industry training organisations; and
     (b) the quality of the skill standards developed and maintained by industry training organisations; and
     (c) the quality of the arrangements made by industry training organisations for the delivery of industry training (including apprenticeship training); and
     (d) the ability of industry training organisations to acquire, and to maintain,—
       (i) Qualifications Authority approval for programmes or training schemes for the specified industry; and
       (ii) Qualifications Authority consent, under section 252 of the Education Act 1989, to assess their students against listed skill standards.
-  (2) Rules made under section 253(1)(gb) of the Education Act 1989 may not prescribe quality assurance requirements relating to the governance of industry training organisations unless the quality of governance affects a matter described in subsection (1)(b), (c), or (d).
+  (2) Rules made under section 253(1)﻿(gb) of the Education Act 1989 may not prescribe quality assurance requirements relating to the governance of industry training organisations unless the quality of governance affects a matter described in subsection (1)﻿(b), (c), or (d).
 
 ### 17 New Part 2A inserted
-After section 13B, as inserted by section 16 of this Act, insert:Apprenticeship trainingApprenticeship training definedApprenticeship training activities must be included in proposed plan2000 No 94 ss 15(1), 16(1)Obligations of persons carrying out apprenticeship training activities2000 No 94 ss 15(2), 17(a)Apprenticeship training codeMinister may issue apprenticeship training codeAvailability of apprenticeship training code2000 No 94 s 27Apprenticeship training code to be taken into account by mediation personnel, Employment Relations Authority, and Employment Court2000 No 94 s 7Application of Legislation Act 2012 to apprenticeship training code2000 No 94 s 29.
+After section 13B, as inserted by section 16 of this Act, insert:Apprenticeship trainingApprenticeship training definedApprenticeship training activities must be included in proposed plan2000 No 94 ss 15(1), 16(1)Obligations of persons carrying out apprenticeship training activities2000 No 94 ss 15(2), 17(a)Apprenticeship training codeMinister may issue apprenticeship training codeAvailability of apprenticeship training code2000 No 94 s 27Apprenticeship training code to be taken into account by mediation personnel, Employment Relations Authority, and Employment Court2000 No 94 s 7Application of Legislation Act 2012 to apprenticeship training code2000 No 94 s 29
   For the purposes of this Act, apprenticeship training is a type of industry training that—
     (a) is provided for a person who is working in an industry while undertaking training in that industry; and
     (b) is provided wholly or partly at the person's workplace, mainly by or on behalf of the person's employer; and
@@ -274,12 +274,12 @@ The enactments specified in Schedule 2 are amended in the manner indicated in th
 This Part amends the Education Act 1989 (the principal Act).
 
 ### 25 Section 253 amended (Rules)
-After section 253(1)(g), insert:.
+After section 253(1)﻿(g), insert:
   (ga) prescribing the amount of, or the method for determining, the annual registration fee required under section 11F of the Industry Training and Apprenticeships Act 1992, and when and how that fee is payable:
   (gb) prescribing quality assurance requirements for industry training organisations, including, without limitation, requirements relating to the matters described in section 13B of the Industry Training and Apprenticeships Act 1992:
 
 ### 26 Section 254 amended (Fees)
-Replace section 254(2)(c) with:
+Replace section 254(2)﻿(c) with:
   (c) charge fees to any person or institution for any quality assurance activities undertaken by the Authority (including quality assurance activities undertaken in accordance with the Authority's functions under the Industry Training and Apprenticeships Act 1992):
   (d) charge an application fee to a body corporate applying for recognition as an industry training organisation under section 6 of the Industry Training and Apprenticeships Act 1992.
 
