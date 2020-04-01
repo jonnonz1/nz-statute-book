@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2020-03-25_
+_Consolidation as at 2020-04-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -112,6 +112,7 @@ _Consolidation as at 2020-03-25_
     (b) includes the Commissioner
   - **competent objection** , for the purposes of Part 8 and in relation to a person, being a taxpayer, and to any assessment, means an objection made by the person, to the assessment, in accordance with section 126; but does not include any non-qualifying objection
   - **consideration** , in section 91, has the same meaning as in paragraph (a) of the definition of that term in section YA 1 of the Income Tax Act 2007
+  - **contact address** in schedule 3, tables 1 and 2, schedule 4, tables 2 and 3, and schedule 6, table 1 has the meaning given in section 14G
   - **contested act of assistance** is defined in section 173B
   - **contract payment** , for the purpose of section 141AA, has the meaning given by section YA 1 of the Income Tax Act 2007
   - **co-operative company** , in section 64, has the same meaning as in section YA 1 of the Income Tax Act 2007
@@ -166,7 +167,6 @@ _Consolidation as at 2020-03-25_
   - **disputant's statement of position** means the statement of position that a disputant provides under section 89M(6) in response to a disclosure notice; and includes any additional information the disputant provides in respect of the statement under section 89M(11)
   - **disqualifying offence** is defined in section 141FB(3) for the purpose of section 141FB
   - **disqualifying penalty** is defined in section 141FB(3) for the purpose of section 141FB
-  - **dividend treated as interest** , in sections 25 and 51 of this Act, has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **document** means—
     (a) a thing that is used to hold, in or on the thing and in any form, items of information:
     (b) an item of information held in or on a thing referred to in paragraph (a):
@@ -192,7 +192,6 @@ _Consolidation as at 2020-03-25_
     (a) is defined in section 89K(3) for the purposes of that section:
     (b) is defined in section 89L(3) for the purposes of that section:
     (c) is defined in section 138D(2) for the purposes of that section
-  - **exempt person** is defined in section 53(1) for the purposes of that section and section 27(2)
   - **exploratory well** , in section 91(1)﻿(e), has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **exploratory well expenditure** , in section 91(1), has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **family notice of entitlement** , in relation to any person, means a notice issued by the Commissioner under section 80KD for the estimated entitlement of the person to a tax credit under the family scheme
@@ -211,7 +210,7 @@ _Consolidation as at 2020-03-25_
     (b) does not include removal to make copies under sections 17C and 17D
   - **gift-exempt body** , in sections 18K, 32, and 58, means—
     (a) any society, institution, association, organisation, trust, or fund specifically named in Schedule 32 of the Income Tax Act 2007; or
-    (b) any other person issued with an RWT exemption certificate under section 32E as a result of an application made claiming the basis for exemption set out in section 32E(2)﻿(k) or (l), in relation to any tax year in which such person holds the certificate
+    (b) any other person who has RWT-exempt status following an application made under section 32E(2)﻿(k) or (l) in relation to a tax year in which they have that status
   - **government agency** ,—
     (a) in section 6, includes any department or Crown entity (as those terms are defined in the Public Finance Act 1989) and any public authority (as defined in the Income Tax Act 2007):
     (b) is defined in schedule 7, part C, subpart 1, clause 23B(6) for the purposes of that clause
@@ -244,6 +243,8 @@ _Consolidation as at 2020-03-25_
   - **interest liability period** is defined in section 121 for the purposes of that section
   - **interest paid to a taxpayer** is defined in section 120C for the purposes of Part 7
   - **interest period** is defined in section 120C for the purposes of Part 7
+  - **investment income** is defined in section 25C for the purposes of subpart 3E, sections 142G, and 227E, and schedule 6
+  - **investment income information** is defined in section 25D for the purposes of subpart 3E, sections 32H, 57, 57B, 139AA, 142G, and 227E, schedule 6, and sections RA 11, RA 12, and RM 8 of the Income Tax Act 2007
   - **issuing officer** is defined in section 17D(6) for the purposes of that section
   - **large multinational group** , for an income year or a period set by the Commissioner under section 78G, means a consolidated accounting group that, in the income year or period,—
     (a) has a member resident in New Zealand or income with a source in New Zealand; and
@@ -282,7 +283,6 @@ _Consolidation as at 2020-03-25_
       (ii) their social policy entitlements and obligations; and
     (b) is treated by the Commissioner as a nominated person; and
     (c) does not later have their status as a nominated person disallowed by the Commissioner
-  - **non-exempt person** is defined in section 53(1) for the purposes of that section and section 27
   - **non-filing taxpayer** , for a person and a tax year, means—
     (a) a person whose only income having a source in New Zealand for the tax year is a schedular payment derived in their capacity as a non-resident entertainer and who chooses not to file a return of income for the tax year; or
     (b) a person who for the tax year, derives only non-resident passive income referred to in section RF 2(3) of the Income Tax Act 2007; or
@@ -331,7 +331,7 @@ _Consolidation as at 2020-03-25_
     (j) an amount received under a cash value insurance contract
   - **payday** in subpart 3C and schedule 4, means the day on which an employer makes a PAYE income payment to an employee
   - **PAYE period** means or , as applicable
-  - **payment** , in sections 67 and 120U, has a corresponding meaning to paragraph (a) of the definition of pay in section YA 1 of the Income Tax Act 2007
+  - **payment** , in section 120U, and for the purposes of section 25G and schedule 6, table 1, row 18, has a corresponding meaning to paragraph (a) of the definition of pay in section YA 1 of the Income Tax Act 2007
   - **payroll software** is defined in section 23P for the purposes of that section and section 23F
   - **period of deferral** , in respect of deferrable tax, means the period that starts on the later of—and ends at the expiry of the day that, in relation to the deferrable tax, is the day of determination of final liability
     (a) the day on which the notice of an assessment of tax, to which a competent objection is made under Part 8 or in relation to which proceedings challenging the assessment are issued under Part 8A, is given to the taxpayer or the Commissioner; and
@@ -375,11 +375,10 @@ _Consolidation as at 2020-03-25_
   - **public services** is defined in section 18E(5) for the purposes of that section and sections 16B and 18F
   - **qualifying individual** is defined in section 22D(2) for the purposes of Part 3, subpart 3B, sections 4A, 22, and 120C, in the definition of date interest starts, paragraph (a), and schedule 8
   - **ratio instalment date** has the same meaning as in section YA 1 of the Income Tax Act 2007
-  - **reconciliation statement** means a reconciliation statement under section 49
   - **record** —
     (a) is defined in section 152(18) for the purposes of that section:
-    (b) is defined in section 22(7) for the purposes of that section and section 26
-  - **record holder** is defined in section 220(18) for the purposes of that section and section 26
+    (b) is defined in section 22(7) for the purposes of that section and section 22AAB
+  - **record holder** is defined in section 220(18) for the purposes of that section
   - **registered person** has the meaning given by section 2(1) of the Goods and Services Tax Act 1985
   - **registration Act** is defined in section 169(11) for the purposes of that section
   - **reject** , for the purposes of Parts 4A and 8A, means to reject something in whole or in part
@@ -396,6 +395,7 @@ _Consolidation as at 2020-03-25_
     (b) is approved by the Commissioner as a representative; and
     (c) does not later have their approval of representative status disallowed by the Commissioner
   - **request** , for a mode of communication, has the meaning set out in section 14B
+  - **research and development certificate** means a research and development certificate described in section 124ZI
   - **resident foreign trustee** means a person who,—
     (a) either alone or jointly with another person, acts as a trustee of a foreign trust; and
     (b) is resident in New Zealand within the meaning of section YD 1, YD 2, or YD 3 (excluding section YD 2(2)) of the Income Tax Act 2007
@@ -411,7 +411,6 @@ _Consolidation as at 2020-03-25_
   - **revenue information** is defined in section 16C(2) for the purposes of Part 3, subpart 3A and schedule 7
   - **revenue law** is defined in section 16C(1) for the purposes of Part 3, subpart 3A and schedule 7
   - **revenue officer** is defined in section 16C(4) for the purposes of Part 3, subpart 3A
-  - **RWT exemption certificate** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **RWT rate** , for a person and resident passive income, means the basic rate for RWT given by the Income Tax Act 2007, in Schedule 1, Part D, for the person and the resident passive income
   - **second payment period** , in sections 47 and 173(1)﻿(b), has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **secondary employment earnings** , for an employee and for a pay period, means a PAYE income payment that—
@@ -432,6 +431,13 @@ _Consolidation as at 2020-03-25_
   - **START tax type** means—
     (aa) income tax:
     (a) GST:
+    (abb) PAYE:
+    (abc) employees’ child support deducted by employers:
+    (abd) salary or wage deductions (as defined in section 4(1) of the Student Loan Scheme Act 2011):
+    (abe) KiwiSaver deductions made by employers under Part 3, subpart 1 of the KiwiSaver Act 2006:
+    (abf) compulsory employer contributions made by employers under Part 3, subpart 3A of the KiwiSaver Act 2006:
+    (abg) ESCT:
+    (abh) RSCT:
     (ab) WFF tax credits:
     (ac) tax credits under section 41A:
     (b) FBT:
@@ -466,7 +472,7 @@ _Consolidation as at 2020-03-25_
       (x) an end-of-year repayment obligation or an overseas-based repayment obligation (as those terms are defined in section 4(1) of the Student Loan Scheme Act 2011):
       (xi)
       (xii) is a tax prescribed in section 173D:
-      (xiii) the amount of a subsidy payable under section RP 4 of the Income Tax Act 2007 to a listed PAYE intermediary:
+      (xiii)
       (xiv) a fee described in section 226C:
     (ab) for the purposes of the application of this Act in relation to a regulation made under section CV 8 of the Income Tax Act 2007, includes an Australian wine producer rebate:
     (b) for the purposes of section 4A and Parts 7, 8, 8A, 9, 10, and 11, also includes a civil penalty:
@@ -530,8 +536,8 @@ _Consolidation as at 2020-03-25_
     (kb) the use of the AIM method for provisional tax and the software product of an approved AIM provider:
     (l) whether the taxpayer must provide information to the Commissioner on the income other than reportable income that they derive for a tax year:
     (m) the application of Part 3, subpart 3B:
-    (n) a right to a tax credit:
-    (o) the amount of a subsidy claimed under section RP 4 of the Income Tax Act 2007 to a listed PAYE intermediary
+    (n) a right to a tax credit
+    (o)
   - **tax recovery agreement** is defined in section 173B
   - **tax return** —
     (a) means a form or document that a taxpayer is required to complete and return to the Commissioner whether provided in relation to a period or not; and
@@ -1758,6 +1764,21 @@ An information holder who is required to disclose information in relation to a p
   (b) the employer or PAYE intermediary has delivered the records to the Commissioner as required by this Act or the Income Tax Act 2007.
 (4) On application by the person, the Commissioner may authorise the keeping of records under this section in a language other than English or te reo Maori.
 
+### 22AAB Records to be kept by payers of passive income
+(1) This section applies when a person—
+  (a) is liable under the RWT rules to withhold RWT for resident passive income paid to or derived by another person:
+  (b) is liable under the NRWT rules to withhold NRWT for non-resident passive income paid to or derived by another person.
+(2) The person must keep proper records in English or te reo Maori relating to the income paid by them, and RWT or NRWT withheld by them, or liable to be withheld by them, sufficient to enable the Commissioner to ascertain readily at any time the information set out in schedule 3, table 2.
+(3) A person referred to in subsections (1) and (2) must take reasonable steps to ensure the safe-keeping of their records for a period of not less than 7 years after the making of the payments to which the records relate, except to the extent to which—
+  (a) the Commissioner has notified the person that retention of the records is not required; or
+  (b) the records are required by law to be delivered to a person other than the Commissioner; or
+  (c) the person is a company that has been liquidated.
+(4) The Commissioner may, before the end of the 7-year period referred to in subsection (3), notify the person that they are required to retain records specified by the Commissioner for a further period of up to 3 years after the end of the 7-year period if—
+  (a) the affairs of the person are or have been under audit or investigation by the Commissioner; or
+  (b) the affairs of a person to whom the records relate are or have been under audit or investigation by the Commissioner; or
+  (c) the Commissioner intends to conduct, or is actively considering, an audit or investigation before the end of the extended retention period.
+(5) On application by the person, the Commissioner may authorise the keeping of records under this section in a language other than English or te reo Maori.
+
 ### 22AAC Keeping of returns where information transmitted electronically
 (1) Where information contained in a taxpayer's return has been transmitted by electronic means in the prescribed electronic format in accordance with section 36, the taxpayer shall retain or cause to be retained—
   (a) the return in the form of—
@@ -1797,7 +1818,7 @@ An information holder who is required to disclose information in relation to a p
 
 ### 22C Outline of subpart
 What this subpart does
-(1) This subpart provides the administrative settings that underpin an individual’s obligations under sections BB 2, BC 1 to BC 6, and BC 8 of the Income Tax Act 2007 to calculate and satisfy their income tax liability for a tax year. It sets out the requirements for the provision of information about an individual’s income, including—
+(1) This subpart provides the administrative settings that underpin an individual’s obligations under sections BB 2, BC 1 to BC 8 of the Income Tax Act 2007 to calculate and satisfy their income tax liability for a tax year. It sets out the requirements for the provision of information about an individual’s income, including—
   (a) the obligations of individuals to provide certain income information to the Commissioner:
   (b) what is meant by certain key terms such as reportable income, other income, pre-populated account, and final account:
   (c) when and how information must be provided to the Commissioner:
@@ -1823,7 +1844,7 @@ Flowchart 1: Scheme of subpart 3B
 
 ### 22D Key terms
 Meaning of individual
-(1) For the purposes of this subpart and sections 22, 33, 37, 38, 42C, 89D, 92, 106, 110, 143, and 227G, and schedule 8, individual—
+(1) For the purposes of this subpart and sections 22, 33, 37, 38, 42C, 89D, 92, 106, 110, 142AC, 143, and 227G, and schedule 8, individual—
   (a) means a natural person; and
   (b) includes a natural person who is non-resident, other than a person whose only income for the corresponding income year is non-residents’ foreign-sourced income; and
   (c) excludes, from the date of their death, a deceased natural person.
@@ -1837,13 +1858,16 @@ Meaning of reportable income
     (i) a PAYE income payment:
     (ii) a payment of resident passive income:
     (iii) a payment of non-resident passive income:
-    (iv) a benefit under an employee share scheme described in schedule 4, table 1, rows 4 and 7; and
+    (iv) a benefit under an employee share scheme described in schedule 4, table 1, rows 4 and 7:
+    (v) attributed PIE income; and
   (b) for which the person paying the amount has been provided the individual’s tax file number, however this requirement does not apply if the amount is income derived jointly with another person and the Commissioner is able to allocate an amount to the individual for the income year; and
-  (c) in relation to which information must be provided under this Act to the Commissioner by 31 May in the next tax year.
+  (c) in relation to which information must be provided under this Act to the Commissioner by—
+    (i) for the items referred to in paragraph (a)﻿(i) to (iv), 31 May in the next tax year:
+    (ii) for the item referred to in paragraph (a)﻿(v), the date referred to in section 25K.
 Meaning of other income
 (4) For the purposes of this subpart and section 141JA and schedule 8, other income or income other than reportable income, for an individual and a tax year, means an amount of income paid or payable to, or treated as income of, the individual for the corresponding income year that is not their reportable income.
 Meaning of pre-populated account
-(5) For the purposes of this subpart, and sections 4A, 106, and CX 27 of the Income Tax Act 2007, a pre-populated account, for an individual and a tax year, means the account—
+(5) For the purposes of this subpart, and sections 4A, 106, 142AC, and CX 27 of the Income Tax Act 2007, a pre-populated account, for an individual and a tax year, means the account—
   (a) provided by the Commissioner for the tax year; and
   (b) containing the income information held by the Commissioner, including any income information provided by the individual, quantifying—
     (i) the amount of reportable income derived for the corresponding income year; and
@@ -2295,30 +2319,216 @@ The Commissioner may vary the requirements of section 24B and schedule 5, part A
 ### 24P Variation of requirements
 [Repealed]
 
-### Subpart 3E — RWT rates, certificates, and records
+### Subpart 3E — Investment income information
+
+### 25B Investment income information: outline of provisions
+What this subpart does
+(1) This subpart sets out the information that a person who makes a payment of investment income is required to provide to the Commissioner and, in particular,—
+  (a) what is meant for reporting purposes by investment income and investment income information:
+  (b) who must provide investment income information to the Commissioner:
+  (c) when investment income information must be provided and how it must be delivered:
+  (d) when information is required in relation to certain types of investment:
+  (e) the correction of errors:
+  (f) when information may be filed in non-electronic form.
+Meaning of payer and payee
+(2) In this subpart, and in schedule 6,—
+  (a) a person who makes a payment of investment income is called the payer:
+  (b) a person who derives or receives a payment of investment income is called the payee.
+Related provisions
+(3) For the provisions related to—
+  (a) the use of inconsistent RWT rates, see section 26B:
+  (b) RWT withholding certificates, see section 26C:
+  (c) shareholder dividend statements, see section 29:
+  (d) Maori authority notices, see section 31:
+  (e) notification requirements for multi-rate PIEs, see section 31C:
+  (f) further requirements for multi-rate PIEs, see section 57B:
+  (g) non-electronic filing penalties, see section 139AA.
+Custodial institutions
+(4) For the purposes of subsection (2), a custodial institution that pays on or transfers an amount of investment income to an end investor is treated as a payer.
+
+### 25C Investment income
+For the purposes of this subpart and section 227E, and schedule 6, investment income means—
+  (a) resident passive income under section RE 2(1)﻿(a) to (c) of the Income Tax Act 2007, subject to the withholding obligations set out in sections RE 3 and RE 4 of that Act:
+  (b) non-resident passive income under section RF 2(1) of that Act:
+  (c) attributed income of investors in portfolio investment entities under sections CP 1, CX 56, and CX 56B of that Act.
+
+### 25D Investment income information
+Meaning of investment income information
+(1) Investment income information means the items of information listed in schedule 6, table 1 relating to an amount of investment income, that a payer referred to in section 25E must either provide to the Commissioner under this subpart or retain under section 22AAB.
+Not cumulative
+(2) The information must be provided for each relevant reporting period rather than on a cumulative basis.
+Joint ownership
+(3) If an investment is owned jointly by 2 or more investors, and the payer of the investment income holds the relevant information, the payer must include in their investment income information the information set out in schedule 6, table 1, row 16 in relation to each owner.
+When requirements for joint owners do not apply
+(4) Subsection (3) does not apply to a payer in relation to a payment to or for joint owners that is received in their capacity as—
+  (a) beneficiaries of a trust:
+  (b) shareholders in a company:
+  (c) partners in a partnership, unless the partnership is not required to file a separate return.
+When information obtained before April 2018
+(5) Despite subsection (1), if the following items of information have been obtained before 1 April 2018, the requirement to include the item in investment income information provided to the Commissioner applies only when it is held in electronic form:
+  (a) a person’s date of birth:
+  (b) for joint owners, the names, tax file numbers, dates of birth, and contact addresses.
+
+### 25E Who must provide investment income information to Commissioner
+Persons
+(1) The persons who must provide their investment income information to the Commissioner by the relevant date set out in this subpart are—
+  (a) a person who is required to withhold an amount of tax for a payment of interest, see section 25F:
+  (b) a person who chooses under section 32M to pay approved issuer levy in relation to a debt, other than a debt in relation to which the interest payments are administered by an offshore paying agent:
+  (c) a company that pays a taxable dividend to a person, including a dividend described in section RE 9 of the Income Tax Act 2007, see section 25G:
+  (d) a person who pays a royalty to a non-resident person, see section 25H:
+  (e) a Maori authority that makes a taxable distribution to a member of the authority, other than a retirement scheme contribution, see section 25I:
+  (f) a multi-rate PIE, other than a superannuation fund or retirement savings scheme, that attributes income to an investor or a proxy for an investor, see section 25J:
+  (g) a multi-rate PIE that is a superannuation fund or retirement savings scheme that attributes income to an investor or a proxy for an investor, see section 25K:
+  (h) a public unit trust that pays an amount that is treated as a taxable dividend on a withdrawal from the trust, see section 25L:
+  (i) an emigrating company that is treated under section FL 2 of the Income Tax Act 2007 as paying a dividend to shareholders, see section 25M:
+  (ib) a custodial institution that pays on or transfers an amount of investment income to an end investor, see section 25MB:
+  (j) a person who would be liable to pay an amount referred to in paragraph (a) but for the circumstances described in subsection (2).
+Circumstances when withholding not required
+(2) The circumstances referred to in subsection (1)﻿(j) are that a person who pays interest for which RWT is not required to be withheld because—
+  (a) the amount—
+    (i) is not paid by the person in the course or furtherance of a taxable activity; or
+    (ii) is an amount to which section RE 10 of the Income Tax Act 2007 applies; and
+  (b) the amount is allowed as a deduction under that Act; and
+  (c) the amount is paid to a person other than a person with RWT-exempt status.
+(3) If a person who has an obligation under this section to provide investment income information to the Commissioner makes a payment to a custodial institution referred to in subsection (1)﻿(ib), whether or not the institution pays on or transfers the amount to an end investor, the person must, for the purposes of this subpart, treat the institution as a payee.
+
+### 25F Information on interest
+Delivery of investment income information
+(1) A payer referred to in section 25E(1)﻿(a) and (b) must deliver the investment income information for the payment of interest as set out in schedule 6, table 1, rows 1 to 11, 16, 21, and 22, as applicable, to the Commissioner—
+  (a) in electronic form and by means of an electronic communication as prescribed by the Commissioner; and
+  (b) by the 20th of the month following the month in which the amount of investment income is paid to or derived by the payee.
+Nominees
+(2) Despite subsection (1), when an investor is a nominee, the investment income information required from a payer referred to in section 25E(1)﻿(b) is limited to information held in relation to the nominee unless the payer has access to information on the ultimate investor.
+
+### 25G Information on dividends
+A payer referred to in section 25E(1)﻿(c) must deliver the investment income information for the payment of the dividend as set out in schedule 6, table 1, rows 1 to 11, 14, and 16 to 22, as applicable, to the Commissioner—
+  (a) in electronic form and by means of an electronic communication as prescribed by the Commissioner; and
+  (b) by the 20th of the month following the month in which the amount of investment income is paid to or derived by the payee.
+
+### 25H Information on royalties paid to non-residents
+A payer referred to in section 25E(1)﻿(d) must deliver the investment income information for the payment of the royalty as set out in schedule 6, table 1, rows 1 to 11, 16, 21, and 22, as applicable, to the Commissioner—
+  (a) in electronic form and by means of an electronic communication as prescribed by the Commissioner; and
+  (b) by 31 May after the end of the tax year.
+
+### 25I Information on Maori authority distributions
+A payer referred to in section 25E(1)﻿(e) must deliver the investment income information for the payment of a Maori authority distribution as set out in schedule 6, table 1, rows 1 to 10, 15, 16, 21, and 22, as applicable, to the Commissioner—
+  (a) in electronic form and by means of an electronic communication as prescribed by the Commissioner; and
+  (b) by the 20th of the month following the month in which the amount of investment income is paid to or derived by the payee.
+
+### 25J Information on attributed PIE income: non-locked-in funds
+A payer referred to in section 25E(1)﻿(f) must deliver the investment income information for the relevant attributed PIE income as set out in schedule 6, table 1, rows 1 to 10, 12, 13, 14, 16, 21, and 22, as applicable, for a tax year to the Commissioner—
+  (a) in electronic form and by means of an electronic communication as prescribed by the Commissioner; and
+  (b) by the following relevant date:
+    (i) 15 May after the end of the tax year, if the PIE has a corresponding income year that does not end after the end of the tax year:
+    (ii) the end of the second month after that in which the PIE’s corresponding income year ends, if the PIE has a corresponding income year that ends after the end of the tax year:
+    (iii) the end of the third month after that in which the PIE loses PIE status, if the cessation occurs in the corresponding income year.
+
+### 25K Information on attributed PIE income: locked-in funds
+A payer referred to in section 25E(1)﻿(g) must deliver the investment income information for the relevant attributed PIE income as set out in schedule 6, table 1, rows 1 to 10, 12, 13, 14, 16, 21, and 22, as applicable, for a tax year to the Commissioner—
+  (a) in electronic form and by means of an electronic communication as prescribed by the Commissioner; and
+  (b) by the following relevant date:
+    (i) 30 June after the end of the tax year, if the PIE has a corresponding income year that does not end after the end of the tax year:
+    (ii) the end of the second month after that in which the PIE’s corresponding income year ends, if the PIE has a corresponding income year that ends after the end of the tax year:
+    (iii) the end of the third month after that in which the PIE loses PIE status, if the cessation occurs in the corresponding income year.
+
+### 25L Information from public unit trusts
+A payer referred to in section 25E(1)﻿(h) must deliver the investment income information set out in schedule 6, table 1, rows 1 to 11, 14, 16, 21, and 22 for a tax year—
+  (a) in electronic form and by means of an electronic communication as prescribed by the Commissioner; and
+  (b) by 15 May after the end of the tax year.
+
+### 25M Information from emigrating companies
+A payer referred to in section 25E(1)﻿(i) must deliver the investment income information set out in schedule 6, table 1, rows 1 to 11, 14, 16, 21, and 22, as applicable, for a tax year to the Commissioner—
+  (a) in electronic form and by means of an electronic communication as prescribed by the Commissioner; and
+  (b) within 3 months after the time of emigration.
+
+### 25MB Information from custodial institutions
+When this section applies
+(1) This section applies when—
+  (a) a person who is a custodial institution receives a payment of investment income; and
+  (b) the institution pays on or transfers the amount received to an end investor.
+Specified operators of designated settlement systems
+(2) Despite subsection (1) and section 25E(1), the rules in this subpart do not apply to a custodial institution that is the specified operator of a designated settlement system under the Reserve Bank of New Zealand Act 1989. The exclusion extends to a nominee or agent of the specified operator.
+Providing investment income information
+(3) The custodial institution must provide investment income information relating to the payment of investment income to the Commissioner under section 25E(1).
+Agreements to transfer reporting obligations: outsourcing obligations
+(4) The custodial institution may, before the date on which the payment is received by the institution, enter into an agreement with another person (person B) for person B to provide to the Commissioner the information referred to in subsection (3). However, if person B does not provide the information to the Commissioner, the reporting obligation remains with the custodial institution.
+Agreements to transfer reporting obligations: passing up information
+(5) When a payment of investment income is paid on or transferred through interposed custodial institutions before being paid to an end investor, the custodial institution that is last in the chain may enter into an agreement with another custodial institution that precedes them in the chain, for the latter institution to provide to the Commissioner the information referred to in subsection (3). In this case, the reporting obligation passes to the latter institution, and the final custodial institution’s obligation is discharged.
+Limited information
+(6) Despite subsection (3),—
+  (a) when an end investor is a non-resident custodial institution, the information required under section 25E may be aggregated:
+  (b) the investment income information set out in schedule 6, rows 9 (in relation to approved issuer levy), 17, and 20 that a custodial institution is required to provide is limited to information held by the institution.
+Meaning of custodial institution
+(7) For the purposes of this subpart, a custodial institution means an entity—
+  (a) that holds financial assets or financial instruments as a bare trustee on account for another person; and
+  (b) whose activities,—
+    (i) for a resident entity, are supervised or regulated under the Financial Markets Conduct Act 2013, the Financial Markets Authority Act 2011, the Financial Advisers Act 2008, or the Reserve Bank of New Zealand Act 1989:
+    (ii) for a non-resident entity, other than an institution that is carrying on a business in New Zealand through a fixed establishment in New Zealand, are supervised or regulated under the corresponding legislation in the relevant jurisdiction, or under legislation that is substantially similar.
+Meaning of end investor
+(8) For the purposes of this subpart, an end investor —
+  (a) means an investor to whom a payment of investment income is made who is—
+    (i) a direct investor, whether resident or non-resident, who is the beneficial owner of the investment:
+    (ii) a non-resident custodial institution, other than an institution that is carrying on a business in New Zealand through a fixed establishment in New Zealand; and
+  (b) includes a trustee, PIE, or PIE proxy if the person or entity has an obligation to provide investment income information to the Commissioner under this subpart.
+
+### 25N Information from payers with no withholding obligation
+A payer referred to in section 25E(1)﻿(j) must deliver the investment income information described in schedule 6, table 1, rows 4 to 8, 16, 21, and 22, as applicable, for a tax year to the Commissioner—
+  (a) in electronic form and by means of an electronic communication as prescribed by the Commissioner; and
+  (b) with their return of income for the corresponding income year.
+
+### 25O Correction of errors in investment income information
+An adjustment may be made under section RA 11 or RA 12 of the Income Tax Act 2007 to correct certain errors that a payer has made in relation to an amount of tax for RWT or NRWT.
+
+### 25P Non-electronic filing of investment income information
+Exemption
+(1) Despite sections 25F to 25N, the Commissioner may exempt a payer from the requirement to deliver their investment income information in electronic form and by means of an electronic communication. The Commissioner must provide a statement of reasons for the exemption.
+Relevant considerations
+(2) In determining whether to exempt a payer under subsection (1), the Commissioner must have regard to—
+  (a) the nature and availability of digital services to the payer, including the reliability of those services for the purposes of the payer; and
+  (b) the capability of the payer relating to the use of computers; and
+  (c) the costs that the payer would incur in complying with the requirements, if those costs would be unreasonable in the circumstances.
+Valid until cancellation
+(3) Subject to subsection (4), an exemption under this section remains valid until the Commissioner notifies the payer that the exemption is to be cancelled. The exemption expires on the date that is 6 months after that given in the Commissioner’s notice.
+Time limits
+(4) In making an exemption under this section, the Commissioner may set a time limit on the exemption, stating a start date and an end date, as applicable, for the exemption and the reason for setting a time limit.
+Legislative treatment
+(5) An exemption under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+
+### 25Q Setting electronic and non-electronic filing requirements
+For the delivery of investment income information, the Commissioner—
+  (a) must prescribe—
+    (i) an electronic form and means of electronic communication:
+    (ii) a form or mode of delivery other than by electronic means:
+  (b) may from time to time set specifications for software for use in the delivery of that information.
+
+### 25R Investment income information: variation of requirements
+The Commissioner may vary the requirements set out in subpart 3E and schedule 6 for a person or a class of persons, and the requirements apply as varied.
 
 **RWT rates, certificates, and records**
 
-### 25A Use of unsuitable RWT rates
+### 26 Records to be kept for RWT purposes
+[Repealed]
+
+### 26B Use of unsuitable RWT rates
 (1) If the Commissioner considers that a more suitable or more accurate RWT rate could have been used in relation to a payment of resident passive income consisting of interest, the Commissioner—
   (a) may recommend a prospective change of RWT rate to the payee; and
   (b) with the consent of the payee, notify the payer of the change.
 (2) The payer must use the RWT rate provided by the Commissioner in relation to the payee as soon as reasonably practicable after the date of notification. However, if the payee subsequently notifies the payer of a different RWT rate, the payer must apply the rate notified by the payee.
 
-### 25 RWT withholding certificates
-(1) Subsection (1B) applies when a person withholds RWT for resident passive income paid to or derived by any other person that is—
-  (a) interest; or
-  (b) a dividend treated as interest; or
+### 26C RWT withholding certificates
+(1) Subsection (1B) applies for a tax year when a payer withholds RWT for resident passive income for the following amounts paid to or derived by a payee who has not provided the payer with their tax file number:
+  (a) interest:
+  (b) a dividend treated as interest:
   (c) a dividend to which section RE 9(2) of the Income Tax Act 2007 applies.
 (1B) The person must prepare an RWT withholding certificate that contains the information set out in subsection (6).
 (2) Every person (in this section referred to as the payer) who is required to prepare an RWT withholding certificate in respect of any amount of resident passive income paid to or derived (as applicable) by any other person (in this section referred to as the recipient) shall, at the discretion of the payer, either—and in either case shall provide the RWT withholding certificate to the recipient not later than the 20 May that follows the end of the relevant year.
   (a) prepare the RWT withholding certificate with respect to all such amounts of resident passive income of that type (being either interest or dividends) paid to or derived (as applicable) by the recipient during the relevant tax year; or
   (b) prepare the RWT withholding certificate with respect to each such amount of resident passive income of that type paid to or derived (as applicable) by the recipient,—
 (3) Notwithstanding subsection (2), the recipient may at any time during the relevant year notify the payer that they are required to prepare and provide an RWT withholding certificate in relation to RWT withheld during that year for resident passive income that relates to a financial arrangement, if the financial arrangement has matured, been remitted, or been disposed of by the recipient, and in such event the payer shall prepare the withholding certificate and provide it to the recipient not later than 20 working days after the receipt by the payer of the notice.
-(4) Notwithstanding subsection (2), where any person (not being a person who continues to hold an RWT exemption certificate issued to that person notwithstanding the cessation in carrying on a taxable activity) in any month—that person shall prepare and provide to the recipients an RWT withholding certificate required to be prepared by that person with respect to that taxable activity not later than the 20th of the following month.
+(4) Notwithstanding subsection (2), where any person (not being a person with RWT-exempt status notwithstanding the cessation in carrying on a taxable activity) in any month—that person shall prepare and provide to the recipients an RWT withholding certificate required to be prepared by that person with respect to that taxable activity not later than the 20th of the following month.
   (a) ceases to carry on any taxable activity in respect of which that person has been required to withhold RWT; or
   (b) ceases to carry on any such taxable activity in New Zealand,—
-(5) Notwithstanding subsection (2), where any person in any month ceases to be a person holding an RWT exemption certificate issued to that person (not being a person who continues to be required to withhold RWT by virtue of making payments in the course of or furtherance of a taxable activity notwithstanding such cessation in holding an RWT exemption certificate) that person shall prepare and provide to the recipients an RWT withholding certificate required to be prepared by that person not later than the 20th of the following month.
+(5) Notwithstanding subsection (2), where any person in any month ceases to be a person with RWT-exempt status (not being a person who continues to be required to withhold RWT by virtue of making payments in the course of or furtherance of a taxable activity despite the ending of the person’s RWT-exempt status) that person shall prepare and provide to the recipients an RWT withholding certificate required to be prepared by that person not later than the 20th of the following month.
 (6) An RWT withholding certificate must include the following:
   (a) a statement as to whether the resident passive income is interest, a dividend treated as interest, or a dividend to which section RE 9(2) of the Income Tax Act 2007 applies; and
   (b) the date on which the RWT was withheld, or if there is more than 1 instance, the year in which the amounts were withheld; and
@@ -2341,35 +2551,6 @@ The Commissioner may vary the requirements of section 24B and schedule 5, part A
   (a) the recipient; or
   (b) a person authorised to act on behalf of the recipient.
 (11) In this section, a dividend that is resident passive income paid by an RWT proxy as described in section RE 3(1)﻿(c) of the Income Tax Act 2007 is treated as being interest.
-
-### 26 Records to be kept for RWT purposes
-(1) Every person required, in accordance with the RWT rules, to pay RWT for resident passive income paid to or derived (as applicable) by any other person shall keep in English or te reo Maori proper records sufficient to enable the Commissioner to ascertain readily at any time the following information in relation to each amount of resident passive income:
-  (a) the amount of the resident passive income before withholding RWT:
-  (b) the amount of RWT withheld:
-  (c) the date on which the RWT was required to be withheld:
-  (d) the full name and last known address of the recipient of the payment or the person deriving the resident passive income, as applicable:
-  (e) in the case of a payment of interest, any number used by the person to identify the financial arrangement in relation to which the interest was paid:
-  (f) such other information as the Commissioner may require.
-(2) Every person liable under the Income Tax Act 2007 to pay RWT for an amount of resident passive income paid to or derived (as applicable) by any other person had that other person not held an RWT exemption certificate given under section RE 27 of that Act shall keep in English or te reo Maori proper records in relation to such amount sufficient to enable the Commissioner to ascertain readily at any time the following information in relation to each such amount:
-  (a) the amount and the date upon which the payment of RWT would have been required; and
-  (b) the full name and last known address of the other person; and
-  (c) the other person's tax file number.
-(3) Every person required to keep records by virtue of the application of subsections (1) and (2) shall record at the end of each year, in relation to each recipient to whom interest or dividends treated as interest were paid by that person during that year, sufficient information to enable the Commissioner to ascertain readily—
-  (a) the total amount of interest and dividends treated as interest paid; and
-  (b) details of all other financial arrangements under which interest has been paid by that person to that recipient at any time during that year.
-(4) Every person required by section 52 or section 54 to provide information to the Commissioner shall keep in English or te reo Maori proper records to allow verification readily by the Commissioner of such information.
-(5) Every person required by this section to retain records shall—
-  (a) take all reasonable precautions for the safe custody of all records that the person is required to keep under this section; and
-  (b) retain those records for not less than 7 years after the end of the year in which were made the payments to which they relate, except to the extent that—
-    (i) the Commissioner has given notice that retention is not required; or
-    (ii) those records are required by law to be delivered to any other person; or
-    (iii) the person is a company which has been liquidated; and
-  (c) where the Commissioner so notifies the person in accordance with subsection (7), retain such of those records as may be specified by the Commissioner for such further period as the Commissioner may specify under that subsection.
-(6) The Commissioner may, on application made in that behalf, authorise any person, by notice, to keep such records required by this section as the Commissioner determines in a language other than English or te reo Maori.
-(7) The Commissioner may, by notice given before the expiry of the 7-year retention period specified in subsection (5), require a person to retain any records specified by the Commissioner for a further period not exceeding 3 years following the expiry of the 7-year period where—
-  (a) the affairs of the person are or have been under audit or investigation by the Commissioner; or
-  (b) the affairs of any person to whom the records relate are or have been under audit or investigation by the Commissioner; or
-  (c) the Commissioner intends to conduct such an audit or investigation before the expiry of the retention period as so extended, or is actively considering any such audit or investigation.
 
 ### 27 Provision of tax file numbers
 (1) Every recipient who receives resident passive income from which RWT must be withheld and who has a tax file number must, if notified by the payer, provide their tax file number to the payer within 10 working days of receiving the notice.
@@ -2538,8 +2719,9 @@ A life insurer (the transferor) that transfers a life insurance policy to anothe
 
 **Resident passive income**
 
-### 32E Applications for RWT exemption certificates
-(1) A person listed in subsection (2) may apply to the Commissioner for an RWT exemption certificate.
+### 32E Applications for RWT-exempt status
+(1A) A person who is registered as a charitable trust under the Charities Act 2005 is treated as having RWT-exempt status for the duration of the registration.
+(1) A person listed in subsection (2) may apply to the Commissioner for RWT-exempt status.
 (2) The persons are—
   (a) a registered bank:
   (b) a building society:
@@ -2576,74 +2758,64 @@ For the purposes of section 32E(2)﻿(i), when the person is part of a group of 
   (b) excluding an amount of assessable income derived by the company or another company in the same group from a transaction or series of related or connected transactions with another company in the group.
 
 ### 32G Evidence of annual gross income and consequences of failure to meet threshold
-(1) This section applies when a person’s application for an RWT exemption certificate is based on their meeting the requirements in section 32E(2)﻿(j).
+(1) This section applies when a person’s application for RWT-exempt status is based on their meeting the requirements in section 32E(2)﻿(j).
 (2) The person must provide evidence to satisfy the Commissioner of their annual gross income for the accounting year. They must provide the evidence within the 3-month period after the end of the accounting year.
 (3) For the purposes of subsection (2), the Commissioner may require further evidence, and also for the purposes of section 32L.
-(4) If the person’s annual gross income for the tax year referred to in section 32E(2)﻿(j) is less than $2,000,000, they are liable for late payment penalties in relation to an amount received or derived by them that would have been withheld under the RWT rules, had they not held an RWT exemption certificate. Section 139B applies to the person as if—
+(4) If the person’s annual gross income for the tax year referred to in section 32E(2)﻿(j) is less than $2,000,000, they are liable for late payment penalties in relation to an amount received or derived by them that would have been withheld under the RWT rules, had they not had RWT-exempt status. Section 139B applies to the person as if—
   (a) they had failed to withhold an amount of tax; and
   (b) the default occurred on each day on which they received or derived a payment from which RWT would otherwise have been withheld.
 (5) In the calculation of estimated annual gross income of a company that anticipates that it will be part of a group of companies for the tax year referred to in section 32E(2)﻿(j), the estimated annual gross income of all other group companies is included.
 (6) Despite subsection (5), in the calculation of the annual gross income of a company for the purposes of this section, an amount of income derived by them or another company in the same group of companies from a transaction or series of related or connected transactions with another company in the group is excluded.
-(7) Despite subsections (2) and (4), the Commissioner may provide an RWT exemption certificate to, or allow it to be retained by, a person who does not meet the requirements of section 32E(2)﻿(j) if the Commissioner considers that the failure is solely a consequence of extraordinary circumstances that are—
+(7) Despite subsections (2) and (4), the Commissioner may provide RWT-exempt status to, or allow RWT-exempt status to be retained by, a person who does not meet the requirements of section 32E(2)﻿(j) if the Commissioner considers that the failure is solely a consequence of extraordinary circumstances that are—
   (a) beyond the person’s reasonable control; and
   (b) unlikely to be repeated in later accounting years.
 (8) For the purposes of subsection (6), the Commissioner may remit some or all of a late payment penalty if the Commissioner considers that the failure is solely a consequence of extraordinary circumstances that the person could not reasonably be expected to have foreseen.
 
-### 32H Providing RWT exemption certificate when person meets requirements
-(1) This section applies when the Commissioner has received an application for an RWT exemption certificate from a person who meets the requirements of section 32E.
-(2) The Commissioner must provide the certificate to the person, setting out the person’s tax file number. The certificate is valid on and after the starting date set out in the certificate, and is valid for an unlimited period if no end date is specified under subsection (3).
-(3) An end date—
-  (a) must be set out in the certificate by the Commissioner if the person is described in section 32E(2)﻿(j):
-  (b) may be set out in the certificate by the Commissioner in exceptional circumstances.
-(4) The Commissioner may provide a replacement certificate if an original certificate is lost or destroyed.
+### 32H RWT-exempt status when persons meet requirements
+(1) When a person who meets the requirements of section 32E applies to the Commissioner for RWT-exempt status, the Commissioner must—
+  (a) publish the person’s tax file number and the start date and, if applicable, the end date on the electronic register of persons with RWT-exempt status; and
+  (b) notify the person of the issue of the status, and the start and end date, as applicable.
+(2) A person’s RWT-exempt status takes effect on the start date provided in the electronic register.
+(3) For the purposes of the provisions relating to investment income information, if a person has been issued with, or holds, or retains, or is allowed to retain, an RWT exemption certificate that remains current, they are treated as having RWT-exempt status if their details appear on the electronic register referred to in subsection (1).
 
-### 32I Providing RWT exemption certificate to person who does not meet requirements
-(1) Despite section 32H, the Commissioner may provide an RWT exemption certificate for a period, including an unlimited period, to a person who does not meet the requirements in section 32E(2) if the person—
+### 32I Providing RWT-exempt status to person who does not meet requirements
+(1) Despite section 32H, the Commissioner may provide RWT-exempt status to the person when they do not meet the requirements in section 32E(2) if the person—
   (a) will, or is likely to, have for the period, total deductions under the Income Tax Act 2007 that are not less than the total amount of assessable income of the person for the period; or
   (b) would have, or would likely have, in a part of a tax year that falls in the period, total tax credits under section LB 3 of the Income Tax Act 2007 for resident passive income that are more than the income tax liability of the person for the tax year by an amount not less than $500.
-(2) Despite subsection (1), the Commissioner may not provide an RWT exemption certificate to a person unless they have applied as described in section 32E(3), and include in the application a set of budgeted accounts with details, for the period, of the person’s projected—
+(2) Despite subsection (1), the Commissioner may not provide RWT-exempt status to a person unless they have applied as described in section 32E(3), and include in the application a set of budgeted accounts with details, for the period, of the person’s projected—
   (a) total amount of assessable income:
   (b) total deductions:
   (c) tax credits for resident passive income:
   (d) income tax liability.
 (3) For the purposes of subsection (2), the Commissioner may require the person to provide further information.
-(4) A certificate provided under this section is cancelled under section 32L at the end date set out in the certificate, or at the date notified to the person by the Commissioner if no end date is set out in the certificate.
-(5) If a person provided with a certificate under this section notifies another person that they hold the certificate, the notification must include a copy of the certificate.
+(4)
+(5)
 
-### 32J RWT exemption certificates for unincorporated bodies
-(1) This section applies when the Commissioner provides an RWT exemption certificate to an unincorporated body under section RE 30 of the Income Tax Act 2007.
-(2) The certificate must name the body as the holder. If the body is a trustee, the certificate must name the trust as the holder.
-(3) No member of the body can be provided with an RWT exemption certificate in relation to the taxable activity carried on by the body.
-(4) For the purposes of the RWT rules, a notice to the body as holder is treated as served on the body and on each member of the body.
+### 32J RWT-exempt status for unincorporated bodies
+(1) When the Commissioner provides RWT-exempt status to an unincorporated body described in section RE 30 of the Income Tax Act 2007,—
+  (a) the named body has the RWT-exempt status; and
+  (b) no member of the body may have RWT-exempt status in relation to a taxable activity carried on by the body.
+(2) For the purposes of the RWT rules and RWT-exempt status, a notice to the body is treated as served on the body and on each member of the body.
 
 ### 32K Failing to meet basis of exemption
-(1) This section applies when a holder of an RWT exemption certificate no longer meets the requirements on which their exemption is based.
-(2) If the holder becomes aware that they no longer meet the requirements, they must notify the Commissioner within a period of 5 days after the day on which they became aware, and they must deliver the certificate to the Commissioner.
-(3) The Commissioner may ask the holder to provide the full name and last known address of all persons to whom they have shown the certificate for the purposes of obtaining an exemption from withholding the amount of tax from a payment of resident passive income. The person must respond to the Commissioner’s request within 5 days.
+(1) This section applies when a person who has RWT-exempt status no longer meets the requirements on which their exemption is based.
+(2) If the person becomes aware that they no longer meet the requirements, they must notify the Commissioner within a period of 5 days after the day on which they become aware.
+(3) The Commissioner may ask the person to provide the full name and last known address of all persons to whom they have advised their RWT-exempt status for the purposes of obtaining an exemption from withholding the amount of tax from a payment of resident passive income. The person must respond to the Commissioner’s request within 5 days.
 
-### 32L Cancellation of RWT exemption certificates
-(1) The Commissioner may cancel a person’s RWT exemption certificate at any time, and notify any person of the fact of the cancellation, when—
-  (a) the Commissioner reasonably believes the person no longer meets the requirements on which their exemption is based; or
-  (b) the person did not meet the requirements on which their exemption was based and obtained the certificate through misleading information; or
-  (c) the person should not have been provided with the certificate; or
-  (d) the person’s exemption was based on a ground set out in section 32E(2)﻿(i) or (j), and the evidence provided under section 32G—
+### 32L Revocation of RWT-exempt status
+(1) The Commissioner may revoke a person’s RWT-exempt status at any time if—
+  (a) the Commissioner reasonably believes that the person no longer meets the requirements on which their exemption is based; or
+  (b) the person did not meet the requirements on which their exemption was based, having acquired the status through misleading information; or
+  (c) the person should not have been provided with RWT-exempt status; or
+  (d) the person’s RWT-exempt status was based on a ground set out in section 32E(2)﻿(i) or (j), and the evidence provided under section 32G—
     (i) shows the person did not meet the threshold; or
     (ii) is unsatisfactory; or
     (iii) is materially incorrect or misleading; or
   (e) the person is liable for income tax that remains unpaid by the due date for payment.
-(2) If the Commissioner cancels a certificate under subsection (1), the Commissioner must notify the person who must deliver the certificate to the Commissioner within a period of 5 days after the date of notification. The person must also comply with a request under section 32K(3) if asked by the Commissioner.
-(3) Despite subsection (1), if the Commissioner considers that a person referred to in subsection (1)﻿(a) to (d) is a person to whom section 32G applies and who has a further basis of exemption apart from that set out in the certificate, the Commissioner must not cancel the certificate except to provide a substitute certificate that has immediate effect.
-(4) A person who receives a notice under subsection (2) must, within a period of 5 days after the date of receipt, notify all persons to whom they have shown the certificate for the purposes of obtaining an exemption under the RWT rules and from whom they expect to receive further payments of resident passive income of the cancellation.
-(5) The Commissioner must publish in the Gazette—
-  (a) on or before 30 June in each tax year—
-    (i) a list of all certificates cancelled in the previous tax year, other than a certificate held by a person before cancellation that was later reissued to the person; and
-    (ii) a list of all certificates provided during the previous tax year to a person who had previously held a certificate, other than a certificate provided to a person who previously held a certificate that was cancelled; and
-  (b) in April, July, October, and January (the month of publication)—
-    (i) a list of all certificates cancelled during the 3-month period immediately before the month of publication, other than a certificate held by a person before cancellation that was later reissued to the person in the 3-month period; and
-    (ii) a list of all certificates provided during the 3-month period immediately before the month of publication to a person who had previously held a certificate, other than a certificate provided to a person who previously in the 3-month period held a certificate that was cancelled.
-(6) The Commissioner may publish a list referred to in subsection (5) by electronic means at any time after the publication referred to in that subsection.
-(7) A person who is required to deliver an RWT exemption certificate to the Commissioner must deliver all original certificates provided to them by the Commissioner.
-(8) An RWT exemption certificate ceases to be valid on the 5th working day after the date of publication in the Gazette referred to in subsection (5). For a person who is notified of a cancellation by the Commissioner or by the previous holder of a certificate, a certificate ceases to be valid after a period of 5 working days from the date of notification.
+(2) The Commissioner must notify the person whose status has been revoked within 30 working days of the revocation. The Commissioner may also make a request under section 32K(3) with which the person must comply.
+(3) Despite subsection (1), if the Commissioner considers that a person referred to in subsection (1)﻿(a) to (d) is a person to whom section 32G applies and has a further basis for RWT-exempt status, the Commissioner must not revoke the status.
+(4) A person referred to in subsection (2) must, within 5 days of being notified by the Commissioner, notify every person that they have advised of their RWT-exempt status and from whom they expect to receive further payments of resident passive income that their status has been revoked.
+(5) The Commissioner must publish on an electronic register, a list of all persons whose RWT-exempt status has been revoked.
 
 **Non-resident passive income**
 
@@ -2737,13 +2909,13 @@ A return purporting to be made by or on behalf of any person shall for all purpo
 [Repealed]
 
 ### 36AB Electronic return requirements for multi-rate PIEs
-The Commissioner must prescribe 1 or more electronic formats in which a return required under section 57B must be provided by a multi-rate PIE or a proxy for an investor in the PIE. The Commissioner may specify conditions relating to the format, either general or in a particular case.
+[Repealed]
 
 ### 36B Other formats of employer monthly schedule
 [Repealed]
 
 ### 36BB Electronic format for details required for tax pooling intermediaries
-The Commissioner may prescribe 1 or more electronic formats in which details that must be provided under sections RP 17 to RP 21 of the Income Tax Act 2007, and sections 15N to 15S may be provided by electronic means.
+The Commissioner may prescribe 1 or more electronic formats in which details that must be provided under sections RP 17 to RP 21 of the Income Tax Act 2007, and sections 124S to 124W and 124ZF may be provided by electronic means.
 
 ### 36BC Electronic format for details required under subpart EK of Income Tax Act 2007
 The Commissioner may prescribe 1 or more electronic formats in which details that must be provided under subpart EK of the Income Tax Act 2007 may be provided by electronic means.
@@ -2758,7 +2930,7 @@ The Commissioner may prescribe 1 or more electronic formats in which details tha
   (a) the nature and availability of digital services to the person or persons in the class, including the reliability of those services for the purposes of the person or persons; and
   (b) the capability of the person or persons in the class relating to the use of computers; and
   (c) the costs that the person or persons in the class would incur in complying with the requirements if those costs would be unreasonable in the circumstances.
-(5) Subject to subsection (6), an exemption under this section remains valid until the Commissioner notifies the employer that the exemption is to be cancelled. The exemption expires on the date that is 6 months after that given in the Commissioner’s notice.
+(5) Subject to subsection (6), an exemption under this section remains valid until the Commissioner notifies the registered person that the exemption is to be cancelled. The exemption expires on the date that is 6 months after that given in the Commissioner’s notice.
 (6) In making an exemption under this section, the Commissioner may set a time limit on the exemption, stating a start date and an end date, as applicable, for the exemption and the reason for setting the limit.
 (7) An exemption under subsection (3) is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
 
@@ -2907,8 +3079,11 @@ The Commissioner may prescribe 1 or more electronic formats in which details tha
 (11) A tax credit may not be refunded to an absentee, a company, a public authority, a Maori authority, an unincorporated body, or a trustee liable for income tax under sections HC 16, HC 32, or HZ 2 of that Act.
 (12) A refund under subsection (1) must be paid as if it were tax paid in excess.
 (13) A refund under subsection (1), to the extent to which it is more than the correct amount of refund, is recoverable as an excess tax credit under section 142D.
-(14) Part 7 does not apply to a refund or an excess refund made under this section.
-(15) Part 9 applies to applications made under this section.
+(14) The Commissioner must publish, from time to time, in a publication chosen by the Commissioner, a list of the names of entities that—
+  (a) have provided the information required under subsection (16):
+  (b) the Commissioner considers appropriate to include on the list (for example, an entity registered under the Charities Act 2005).
+(15) Despite subsection (14), the name of an entity must not be published on the list if the Commissioner determines that the entity is not described in section LD 3(2)﻿(a), (ab), (b), (c), or (d) of the Income Tax Act 2007.
+(16) An entity may request that their name is included on the list by providing information to the Commissioner in the form prescribed by the Commissioner.
 
 ### 41B Return by person applying for tax credit on redundancy payment
 (1) A person who has a tax credit under section ML 2 of the Income Tax Act 2007 may apply to the Commissioner for a refund.
@@ -3166,115 +3341,22 @@ A person that uses the AIM method as described in section RC 5(5B) of the Income
 (4) The reconciliation statement required by subsection (1) for an income year must be received by the Commissioner on or before the end of the second month following the end of the income year.
 
 ### 49 NRWT withholding certificates and annual reconciliations
-(1) Subsection (1B) applies when a person in a year—
-  (a) withholds, or is required by the NRWT rules to withhold, NRWT for non-resident passive income paid to or derived by any other person; or
-  (b) pays to, or is required to pay to, the Commissioner under section RF 10 of the Income Tax Act 2007 NRWT for non-resident passive income that is a dividend.
-(1B) The person must prepare and provide to the Commissioner, no later than 15 May in the following year, in the form approved by the Commissioner,—
-  (a) an NRWT withholding certificate for all NRWT withheld or paid in relation to each recipient during the year; and
-  (b) an annual reconciliation statement for all NRWT withheld or paid during the year.
-(2) Every NRWT withholding certificate shall include the following information:
-  (a) the full name, relevant address, and tax file number of the person withholding or paying the NRWT:
-  (b) the full name, last known address, and tax file number of the recipient of the payment (except where, after making reasonable inquiries, the payer is unable to obtain such details of the recipient):
-  (c) the country code of the recipient:
-  (d) the year in which the NRWT to which the certificate relates was withheld:
-  (e) the type of non-resident passive income to which the certificate relates:
-  (f) the amount of NRWT withheld and the amount of non-resident passive income to which it relates:
-  (g) the amount of NRWT paid:
-  (h) the payer's signature and date of signing:
-  (i) such further information as may be required by the Commissioner.
-(3) Every annual reconciliation statement shall include such information as the Commissioner may require, whether particularly or in any class or classes of case.
-(4) Where in any month a person—the person must furnish to the Commissioner any NRWT withholding certificates required to be prepared by the person with respect to the taxable activity, and an annual reconciliation statement, as if the end of that month were the end of a year.
-  (a) ceases to carry on any taxable activity in respect of which the person has been required to withhold NRWT; or
-  (b) ceases to carry on any such taxable activity in New Zealand,—
-(4B) An emigrating company that is treated under section FL 2(1) of the Income Tax Act 2007 as paying a dividend to shareholders must furnish to the Commissioner, as if the time of emigration were the end of a year,—
-  (a) any NRWT withholding certificates required to be prepared by the company; and
-  (b) an annual reconciliation statement.
-(4C) A company must furnish to the Commissioner the withholding certificates and annual reconciliation statement required under this section for a year—
-  (a) by not later than 15 May in the year following the year to which the certificates and statement relate, if paragraphs (b) and (c) do not apply; or
-  (b) before the date that is 40 working days after the end of the month referred to in subsection (4), if that subsection applies and paragraph (c) does not apply; or
-  (c) before the date that is 3 months after the time of emigration, if the company is an emigrating company.
-(4D) Despite subsections (1B) and (4C)﻿(a), the information required to be provided for a royalty paid to a non-resident person must be provided by 31 May after the end of the tax year.
-(5) The Commissioner may vary any of the requirements of this section in relation to any person or class of persons in such cases and to such extent as the Commissioner thinks fit, and where the Commissioner does so this section shall apply as so varied.
+[Repealed]
 
 ### 50 Statement of payment of RWT
-Every person who at any time is required to make a payment of RWT shall, at the time at which the payment was (or, in the case of a failure to make such a required payment, would have been) required to be paid to the Commissioner or within such further time as the Commissioner may allow, deliver to the Commissioner a statement in a form authorised by the Commissioner showing such details in relation to the payment of RWT as the Commissioner may prescribe.
+[Repealed]
 
 ### 51 RWT withholding reconciliation statements
-(1) Subsection (1B) applies when a person withholds (or is required by the RWT rules to withhold, but fails to do so) RWT for resident passive income paid to or derived by another person that is—
-  (a) interest; or
-  (b) a dividend treated as interest; or
-  (c) a dividend to which section RE 9(2) of the Income Tax Act 2007 applies.
-(1B) The person must provide to the Commissioner, in the form prescribed by the Commissioner, the information that the Commissioner may require in relation to the RWT by 15 May after the end of the tax year in which the amount is withheld.
-(2) The Commissioner may require the following information in relation to RWT withheld:
-  (a) the full name, address and tax file number of the person (the payer); and
-  (b) the full name and last known address of the recipient unless, after making reasonable inquiries, the payer is unable to obtain those details; and
-  (c) the tax file number of the recipient, if known to the payer; and
-  (d) whether the resident passive income is interest, a dividend treated as interest, or a dividend to which section RE 9(2) of the Income Tax Act 2007 applies; and
-  (e) the date on which the RWT was withheld, or if more than 1 amount is withheld, the year in which the amounts were withheld; and
-  (f) the amount of resident passive income and the amount of RWT withheld; and
-  (g) if, for an inflation-indexed instrument, the recipient derives an interest payment for which RWT is capped by the application of section RE 18B(1)﻿(a) of the Income Tax Act 2007, a statement to that effect; and
-  (h) further information that the Commissioner considers relevant.
-(2A) If the person has paid interest, a dividend treated as interest, or a dividend to which section RE 9(2) of the Income Tax Act 2007 applies to another person (the recipient) and has not withheld RWT because the person holds an RWT exemption certificate, the Commissioner may require the following information:
-  (a) the full name and last known address of the recipient; and
-  (b) the total interest, dividends treated as interest, or dividends to which section RE 9(2) of the Income Tax Act 2007 applies that are paid to the recipient; and
-  (c) the recipient’s tax file number, unless the recipient is, at the time of payment, a person to whom any of section 32E(2)﻿(a) to (c) applies; and
-  (d) further information that the Commissioner considers relevant.
-(2B) Information that may be required under subsection (2) or subsection (2A) must be provided in a form approved by the Commissioner.
-(3) Where any person is required to provide any information to the Commissioner under subsection (2) or subsection (2A), that person shall provide such information to the Commissioner—
-  (a) in any case where the Commissioner has requested such information not less than 20 working days before the date upon which that person is required to furnish a statement under subsection (1), with that statement; or
-  (b) in any other case, within 20 working days of the request from the Commissioner.
-(4) Notwithstanding any provisions of this section, where any person in any month of any year—that person shall provide to the Commissioner the information required to be provided by virtue of the application of this section as if the end of that month were the end of that year.
-  (a) ceases to carry on any taxable activity in relation to which that person (not being a person who continues to hold an RWT exemption certificate issued to that person notwithstanding the cessation in carrying on a taxable activity) has been required to withhold RWT from payments made to any other person; or
-  (b) ceases to carry on any such business in New Zealand,—
-(5) Notwithstanding the provisions of this section, where any person in any month in any year ceases to be a person holding an RWT exemption certificate issued to that person (not being a person who continues to be required to withhold RWT by virtue of making payments in the course of or furtherance of a taxable activity notwithstanding such cessation in holding an RWT exemption certificate), that person shall provide to the Commissioner the information required to be provided by virtue of the application of this section as if the end of that month were the end of the year.
-(5B) An emigrating company that is treated under section FL 2(1) of the Income Tax Act 2007 as paying a dividend to shareholders must provide to the Commissioner the information required under this section, as if the time of emigration were the end of a year.
-(5C) A company must furnish to the Commissioner the information required under subsection (4), (5), or (5B)—
-  (a) on or before the date that is 40 working days after the end of the month referred to in subsection (4), if that subsection applies and paragraphs (b) and (c) do not apply; or
-  (b) on or before the date that is 40 working days after the end of the month referred to in subsection (5), if that subsection applies and paragraph (c) does not apply; or
-  (c) before the date that is 3 months after the time of emigration, if the company is an emigrating company.
-(6) The Commissioner may vary any of the requirements of this section in relation to any person or class of persons in such cases and to such extent as the Commissioner thinks fit, and in every such case this section shall apply as so varied.
-(7) In this section, a dividend to which section RE 3(1)﻿(c) of the Income Tax Act 2007 applies is treated as being interest.
+[Repealed]
 
 ### 52 Disclosure of interest payments when no requirement to withhold RWT
-A person who in a year pays an amount of resident passive income that is interest,—shall, in the return of income that the payer is required under this Act to furnish in relation to that year, provide the Commissioner with the following information in relation to each person (in this section called the recipient) to whom such a payment was made in that year:
-  (a) for which RWT is not required to be withheld because—
-    (i) the payment was not made by the person in the course of or furtherance of a taxable activity; or
-    (ii) section RE 10 of the Income Tax Act 2007 applies; and
-  (b) that is allowed as a deduction for the purposes of the Income Tax Act 2007; and
-  (c) that is paid to a person other than a person who holds an RWT exemption certificate,—
-  (d) the full name and last known address of the recipient; and
-  (e) the total resident passive income, being interest, paid by the payer to the recipient in that tax year; and
-  (f) the tax file number of the recipient; and
-  (g) such further information as the Commissioner may require.
+[Repealed]
 
 ### 53 Disclosure of certain financial arrangement transactions where interest payable to exempt person, etc
-(1) Where, in relation to any year,—the exempt person shall, in the return of income which that person is required under this Act to furnish in relation to that year, provide the Commissioner with the following information, in relation to each such other person (in this section and section 27(1) called the non-exempt person) and each such acquisition, disposition, or redemption payment made during that year:
-  (a) any person (in this section and section 27(1) called the exempt person) holds at any time during that year an RWT exemption certificate; and
-  (b) the exempt person, during that year,—and that other person was not either—
-    (i) acquires a financial arrangement from, or disposes of a financial arrangement to, any other person; or
-    (ii) makes a redemption payment to any other person in respect of a financial arrangement,—
-    (iii) a party to the financial arrangement; or
-    (iv) a person holding at the time of acquisition, disposition, or redemption, as the case may be, an RWT exemption certificate; and
-  (c) the financial arrangement is one in relation to which interest is payable, which interest, if derived by the exempt person, would have been subject to RWT had the exempt person not held an RWT exemption certificate; and
-  (d) in the case of a redemption payment, the redemption payment is a payment from which RWT has not been withheld under section RE 6 of the Income Tax Act 2007,—
-  (e) the full name and last known address of the non-exempt person:
-  (f) the date of the acquisition, disposition, or redemption:
-  (g) the consideration paid or received by the exempt person in respect of the acquisition, disposition, or redemption, exclusive of any fees:
-  (h) the tax file number (if any) of the non-exempt person:
-  (i) such further information as the Commissioner may prescribe.
-(2) For the purposes of subsection (1), except where the Commissioner otherwise requires, the information specified in paragraphs (f) to (i) of that subsection may, with respect to each such non-exempt person and that year, be provided in the form of—
-  (a) summary totals in relation to all such acquisitions:
-  (b) summary totals in relation to all such dispositions:
-  (c) summary totals in relation to all such redemptions.
-(3) Where any exempt person is not required under this Act to furnish a return of income in relation to any tax year during which is made an acquisition or disposition to which subsection (1) applies, that exempt person shall furnish to the Commissioner the information described in subsection (1) in such form as the Commissioner may prescribe and within 2 months after the end of that tax year.
+[Repealed]
 
 ### 54 Information in relation to recipients of resident passive income
-(1) Any person (in this section called the payer) who in any year is required to withhold RWT for an amount of resident passive income paid to or derived (as applicable) by any other person (in this section called the recipient) shall in such form and at such time as the Commissioner may require, provide the Commissioner with the following information in relation to each recipient:
-  (a) the full name and last known address of the recipient:
-  (b) the total resident passive income of the recipient in the tax year for which RWT was required to be withheld by the payer:
-  (c) the tax file number (if any) of the recipient:
-  (d) such further information as the Commissioner may require.
-(2) The Commissioner may exempt any person or persons from any or all of the requirements to furnish information to the Commissioner under this section, and in the case of any such exemption this section shall apply subject to that exemption.
+[Repealed]
 
 ### 54B Return of statement for RLWT
 (1) A person that must make a payment of RLWT must give the Commissioner a statement in relation to their RLWT obligations (the return), in the form prescribed by the Commissioner, at the time at which the RLWT must be paid to the Commissioner or within such further time as the Commissioner may allow.
@@ -3325,7 +3407,7 @@ A person who in a year pays an amount of resident passive income that is interes
 
 ### 55 Consequence of inability to provide tax file numbers
 Where any person at any time—that person shall, notwithstanding any other provision of the RWT rules, be relieved from that obligation to provide the Commissioner with that tax file number.
-  (a) is required in accordance with section 52 or section 53 or section 54 to provide the Commissioner with any other person's tax file number; and
+  (a) is required under the reporting requirements in sections 25F to 25I and 25N to provide the Commissioner with any other person's tax file number; and
   (b) having made reasonable efforts to obtain that tax file number, is unable to do so,—
 
 ### 55B Information relating to offshore persons and tax file numbers
@@ -3348,21 +3430,23 @@ Where any person at any time—that person shall, notwithstanding any other prov
 (1) This section applies for the purposes of section RE 24 of the Income Tax Act 2007 when an amount of tax for a taxable Maori authority distribution is treated as a Maori authority credit attached to the distribution.
 (2) The company paying the dividend and withholding the amount of tax under section RA 6(1) of that Act must provide to the Commissioner information in relation to the amount of tax in its annual ICA return under section 69.
 (3) For the purposes of subsection (2) and the payment of the dividend, the company must provide to the Commissioner information in relation to the dividend in—
-  (a) its dividend statement under section 67 if it is an ICA company; or
+  (a) its dividend statement under section 25G if it is an ICA company; or
   (b) if paragraph (a) does not apply, a form approved by the Commissioner, containing the information set out in section 67(a) to (c) and (f) and filed no later than 31 May after the end of the tax year.
 (4) The Maori authority making the distribution and withholding the amount of tax under section RA 6(1) of the Income Tax Act 2007 must provide to the Commissioner information in relation to the amount of tax in its annual Maori authority credit account return.
-(5) For the purposes of subsection (4) and the making of the distribution, the Maori authority must provide to the Commissioner information in relation to the distribution in the distribution statement prepared under section 68B.
+(5) For the purposes of subsection (4) and the making of the distribution, the Maori authority must provide to the Commissioner information in relation to the distribution in the distribution statement prepared under section 25I.
 
 ### 57 Maori authority to make returns of income
 (1) Every year a Maori authority must furnish a return in the prescribed form that is a complete statement of the Maori authority's taxable income for the preceding year.
+(1B) Section 25I sets out how and when investment income information for a Maori authority distribution must be delivered to the Commissioner.
 (2) The return must be furnished to the Commissioner on or before the date by which returns of income are required under this Act.
 
-### 57B Return requirements for multi-rate PIEs
-(1) This section sets out the return requirements for a multi-rate PIE or a proxy for an investor in the PIE.
+### 57B Requirements for multi-rate PIEs
+(1) This section sets out the responsibilities for a multi-rate PIE or a proxy for an investor in the PIE. Sections 25J and 25K set out how and when investment income information on attributed PIE income must be delivered to the Commissioner.
 (2) The responsibilities for each period are—
-  (a) to file a return in the prescribed form showing—
-    (i) the amount of the tax liability of the entity for the period; and
-    (ii) further information that the Commissioner considers relevant; and
+  (a) to file a return in the prescribed form—
+    (i) showing the amount of the tax liability of the entity for the period; and
+    (ii) providing the investment income information required under sections 25J and 25K, as applicable; and
+    (iii) providing further information that the Commissioner considers relevant; and
   (b) to pay an amount of tax equal to the PIE’s tax liability for the investor for the period.
 (3) If the PIE does not calculate and pay its tax liability using the exit calculation or provisional tax calculation option in section HM 42 or HM 44 of the Income Tax Act 2007 for a tax year, the PIE must carry out their responsibilities for a calculation period in the tax year by the end of the month that follows the month in which the calculation period ends.
 (4) If the PIE calculates and pays its income tax liability using the provisional tax calculation option under section HM 44 of that Act for a tax year, the PIE must carry out their responsibilities for the tax year as a person with a provisional tax liability under the provisional tax rules.
@@ -3375,19 +3459,8 @@ Where any person at any time—that person shall, notwithstanding any other prov
 (6) If the PIE voluntarily makes a payment of income tax under section HM 45 of that Act for a period in a tax year that is not included in a return required under subsection (5), the PIE must file a return in the prescribed form as described in subsection (2)—
   (a) the end of the month that follows the month in which the period ends:
   (b) 15 January after the end of the period, if the period ends in November.
-(7) For a tax year, the PIE must file a return in the prescribed form in relation to information prescribed by the Commissioner—
-  (a) by the 15 May after the end of the tax year if—
-    (i) the PIE has a corresponding income year that does not end after the end of the tax year; and
-    (ii) the PIE is not a superannuation fund or retirement savings scheme; and
-    (iii) the PIE continues to meet the requirements for PIE status at the end of the corresponding income year; or
-  (ab) by the 30 June after the end of the tax year if—
-    (i) the PIE has a corresponding income year that does not end after the end of the tax year; and
-    (ii) the PIE is a superannuation fund or retirement savings scheme; and
-    (iii) the PIE continues to meet the requirements for PIE status at the end of the corresponding income year; or
-  (b) by the end of the second month after that in which the PIE’s corresponding income year ends, if—
-    (i) the PIE has a corresponding income year that ends after the end of the tax year; and
-    (ii) the PIE continues to meet the requirements for PIE status at the end of the corresponding income year; or
-  (c) by the end of the third month after that in which the PIE loses PIE status, if the cessation occurs in the corresponding income year.
+(7)
+(8) The Commissioner must prescribe 1 or more electronic forms and means of electronic communication in which or by which a return must be provided under this section. The Commissioner may specify conditions relating to the format, either general or in a particular case.
 
 ### 58 Returns of specified charitable, benevolent, philanthropic, or cultural bodies
 Every gift-exempt body must, when notified by the Commissioner, furnish a return of its funds derived or received in any tax year and showing the source and application of those funds, together with such other particulars as may be required by the Commissioner.
@@ -3489,7 +3562,7 @@ Every gift-exempt body must, when notified by the Commissioner, furnish a return
   (b) such other information as may be required by the Commissioner in respect of that interest for the purposes of the administration of the Income Tax Act 2007:
   provided that, unless the Commissioner requires, no person shall be required to disclose a control interest to the extent to which such control interest exists only by virtue of the application of section EX 3(1)﻿(b) or (d) of the Income Tax Act 2007.
 (1B) A resident foreign trustee of a foreign trust who makes the disclosure required by section 59B is exempt from the requirements of subsection (1).
-(1C) A multi-rate PIE that does not calculate and pay tax using the provisional tax calculation option under section HM 44 of the Income Tax Act 2007 must make a disclosure under subsection (1) in the prescribed form within the time allowed by section 37 for filing its return for the corresponding tax year under section 57B(7).
+(1C) A multi-rate PIE that does not calculate and pay tax using the provisional tax calculation option under section HM 44 of the Income Tax Act 2007 must make a disclosure under subsection (1) in the prescribed form within the time allowed by section 37 for filing its return for the corresponding tax year under section 25J or 25K, as applicable.
 (2) The Commissioner may exempt any person or class of persons from the requirements of subsection (1) where, in the opinion of the Commissioner, disclosure by that person or class or classes of persons is not necessary for the administration of the international tax rules.
 (3) The Commissioner may at any time cancel any exemption granted to any person or class or classes of persons under subsection (2).
 
@@ -3528,15 +3601,7 @@ A company or person apportioning its interest expenditure under section FE 6B of
 [Repealed]
 
 ### 67 Company dividend statement when ICA company declares dividend
-(1) An ICA company that declares any dividend shall, at the time it declares the dividend, complete and retain a company dividend statement in a form approved by the Commissioner showing—
-  (a) the number of shares in respect of which the dividend is declared or, in the case of a dividend that is a bonus issue, the number of shares included in the bonus issue:
-  (b) the date the dividend is declared and the date of payment of the dividend:
-  (c) the total amount paid as dividends in respect of the shares or, in the case of a dividend that is a bonus issue, the amount of the bonus issue as determined in accordance with section CD 7 or CD 8 of the Income Tax Act 2007:
-  (d) the total amount of the imputation credits attached in respect of the dividend (which amount shall be shown as a nil amount where no credits are attached):
-  (e) the imputation ratio of the dividend:
-  (eb) if the dividend was paid in Australian currency by an Australian ICA company, the exchange rate between the New Zealand dollar and the Australian dollar that was used to calculate the imputation ratio:
-  (f) such further information as may be required by the Commissioner.
-(2) Every company to which this section applies shall, not later than the time allowed in accordance with section 37 for the furnishing of a return of income in respect of an income year, furnish to the Commissioner any company dividend statement required to be completed in the tax year.
+[Repealed]
 
 ### 68 Statement when FDP credit attached to dividend
 [Repealed]
@@ -3545,13 +3610,7 @@ A company or person apportioning its interest expenditure under section FE 6B of
 [Repealed]
 
 ### 68B Distribution statement required when Maori authority makes distribution
-(1) A Maori authority that makes a distribution to a member must, at the time it makes the distribution, complete and retain a distribution statement that contains the following:
-  (a) the date on which the distribution is made:
-  (b) the total amount of distributions made:
-  (c) the total amount of Maori authority credits attached to the distributions (to be shown as a nil amount if Maori authority credits are not attached):
-  (d) the Maori authority credit ratio of the distribution:
-  (e) such further information as the Commissioner may require.
-(2) A Maori authority must, no later than the time allowed by section 37 for furnishing a return of income for a tax year, furnish to the Commissioner the distribution statement for the imputation year that corresponds with the tax year.
+[Repealed]
 
 ### 68C Tax credit relating to KiwiSaver and complying superannuation fund members: member credit form
 (1) This section applies to a person's fund provider.
@@ -3568,40 +3627,46 @@ A company or person apportioning its interest expenditure under section FE 6B of
 
 **Research and development**
 
-### 68CB Research and development tax credits: general approval 2019–20 income year pilot
-(1) This section applies in accordance with section LY 3(1)﻿(d) of the Income Tax Act 2007, for the purpose of instituting an in-year approval pilot for a representative group of taxpayers for the 2019–20 income year. For a taxpayer to be part of the in-year approval pilot, the taxpayer and the Commissioner must agree that they are part of it.
-(2) A person’s research and development activities are approved for the income year, if the Commissioner approves the activities, as provided by subsections (3) to (7), and—
+### 68CB Research and development tax credits: general approval
+(1) For the purposes of section LY 3(1)﻿(d) of the Income Tax Act 2007, a person’s research and development activities are approved for the income year, if the Commissioner approves the activities, as provided by subsections (2) to (7), and—
   (a) the person’s application for approval does not contain a material omission or misrepresentation; and
   (b) the person complies with any conditions in the Commissioner’s approval; and
-  (c) there is no material change in the provisions in subpart LY of that Act and any associated provisions.
-(3) The Commissioner may, in accordance with this section, approve a person’s research and development activities for the 2019–20 income year, if the person makes an application in accordance with subsection (4) on or before the date prescribed by the Commissioner for the purpose of the pilot approval scheme.
-(4) A person must apply to the Commissioner for approval in the form prescribed by the Commissioner, including—
+  (c) there is no material change in the provisions in subpart LY of that Act and any associated provisions; and
+  (d) if the Commissioner approves a person and their activities for more than 1 income year, the person has given the Commissioner, on or before the 7th day of the 2nd month after the end of the relevant income year, notice that there have been no material changes for their business for the relevant income year.
+(2) The Commissioner may, in accordance with this section, approve a person’s research and development activities for an income year (the first income year) and up to 2 further consecutive income years, if the person makes an application in accordance with subsection (3) on or before the 7th day of the 2nd month after the end of the first income year.
+(3) A person must apply to the Commissioner for approval in the form prescribed by the Commissioner, including—
   (a) the activities the person wants the Commissioner to approve; and
-  (b) any other information required by the Commissioner.
-(5) The Commissioner may only approve a person’s activities to the extent to which, in the opinion of the Commissioner, the relevant activity is a core research and development activity or a supporting research and development activity.
-(6) If the Commissioner approves a person’s activities for the income year, the Commissioner must notify the person what activities of the person the Commissioner approves of as core research and development activities or supporting research and development activities, and any conditions upon which the approval is made.
-(7) The Commissioner must notify the person of the intention to decline the application before the application is declined.
+  (b) the income years for which approval is sought; and
+  (c) any other information required by the Commissioner.
+(4) The Commissioner may only approve a person’s activities to the extent to which, in the opinion of the Commissioner, the relevant activity is a core research and development activity or a supporting research and development activity.
+(5) If the Commissioner approves a person’s activities for an income year, the Commissioner must notify the person what activities of the person the Commissioner approves of as core research and development activities or supporting research and development activities, for which income years, and any conditions upon which the approval is made.
+(6) The Commissioner must notify the person of the intention to decline the application before the application is declined.
+(7) The Commissioner may vary an approval, upon application, if the variation application meets the requirements in subsection (1)﻿(a), the variation applied for meets the requirements of subsection (4), and the application is made on or before the 7th day of the 2nd month after the end of the relevant income year. If the Commissioner accepts the variation, then the Commissioner must notify the person in accordance with subsection (5).
 (8) The Commissioner’s approval under this section binds the Commissioner in accordance with the provisions of this section.
 
-### 68CC Research and development tax credits: greater than $2 million approval 2019–20 income year pilot
-(1) This section applies in accordance with section LY 3(1)﻿(d) of the Income Tax Act 2007, for the purpose of instituting an in-year approval pilot for a representative group of taxpayers for the 2019–20 income year. For a taxpayer to be part of the in-year approval pilot, the taxpayer and the Commissioner must agree that they are part of it.
-(2) This section applies ignoring, for purposes of this subsection only, sections HB 1 and HG 2 of the Income Tax Act 2007 (which relate to entity transparency) and substituting as the relevant person the person’s partnership or look-through company, if a person chooses to apply this section, and—
+### 68CC Research and development tax credits: greater than $2 million approval
+(1) This section applies ignoring, for purposes of this subsection only, sections HB 1 and HG 2 of the Income Tax Act 2007 (which relate to entity transparency) and substituting as the relevant person the person’s partnership or look-through company, if a person chooses to apply this section, and—
   (a) has, or reasonably estimates that the person, together with any joint venture of which the person is a member, will have eligible research and development expenditure greater than $2 million for an income year; or
-  (b) is a member of a group of companies that has, or reasonably estimates that they will have, eligible research and development expenditure greater than $2 million for an income year.
-(3) A person is approved for the income year to the extent to which the Commissioner approves the person’s criteria and methodologies, as provided by subsections (4) to (8), and—
-  (a) the person’s application for approval does not contain a material omission or misrepresentation; and
-  (b) the person complies with any conditions in the Commissioner’s approval; and
-  (c) there is no material change in the provisions in subpart LY of the Income Tax Act 2007 and any associated provisions.
-(4) The Commissioner may, in accordance with this section, approve a person’s criteria and methodologies for the 2019–20 income year, if the person makes an application in accordance with subsection (5) on or before the date prescribed by the Commissioner for the purposes of the pilot.
-(5) A person must apply to the Commissioner for approval in the form prescribed by the Commissioner, including—
+  (b) is a member of a group of companies that has or reasonably estimates that they will have eligible research and development expenditure greater than $2 million for an income year.
+(2) For the purposes of section LY 3(1)﻿(d) of that Act, a person is approved for the income year to the extent to which—
+  (a)
+  (b) the Commissioner approves the person’s criteria and methodologies, as provided by subsections (3) to (8), and—
+    (i) the person’s application for approval does not contain a material omission or misrepresentation; and
+    (ii) the person complies with any conditions in the Commissioner’s approval; and
+    (iii) there is no material change in the provisions in subpart LY of the Income Tax Act 2007 and any associated provisions; and
+    (iv) has, for the income year, given to the Commissioner a research and development certificate with the person’s research and development supplementary return (see: sections 33E and 124ZI).
+(3) The Commissioner may, in accordance with this section, approve a person’s criteria and methodologies for an income year (the first income year) and up to 2 further consecutive income years, if the person makes an application in accordance with subsection (4) on or before the 7th day of the 2nd month after the end of the first income year.
+(4) A person must apply to the Commissioner for approval in the form prescribed by the Commissioner, including—
   (a) the criteria and methodologies the person wants the Commissioner to approve; and
-  (b) any other information required by the Commissioner.
-(6) The Commissioner may approve—
+  (b) the income years for which approval of a criterion or methodology is sought; and
+  (c) any other information required by the Commissioner.
+(5) The Commissioner may approve—
   (a) appropriate criteria and methodologies for determining whether an activity is a core research and development activity, a supporting research and development activity, or not a research and development activity at all:
   (b) appropriate criteria and methodologies for determining whether an amount of expenditure or loss is or is not an amount of eligible research and development expenditure.
-(7) If the Commissioner approves a person’s criteria and methodologies for the income year, the Commissioner must notify to the person those criteria and methodologies of the person that the Commissioner approves of, and any conditions upon which the approval is made.
-(8) The Commissioner must notify the person of the intention to decline the application before the application is declined.
-(9) The Commissioner may revoke an approval, with effect from the beginning of the income year in which the revocation is made, if the Commissioner considers that the person has classified an activity, or an expenditure or loss, in such a way so as to defeat the purpose and application of subpart LY of the Income Tax Act 2007.
+(6) If the Commissioner approves a person’s criteria and methodologies for an income year, the Commissioner must notify to the person those criteria and methodologies of the person that the Commissioner approves of, for which income years, and any conditions upon which the approval is made.
+(7) The Commissioner must notify the person of the intention to decline the application before the application is declined.
+(8) The Commissioner may vary an approval, upon application, if the variation application meets the requirements in subsection (2)﻿(b), the variation applied for meets the requirements of subsection (5), and the application is made on or before the 7th day of the 2nd month after the end of the relevant income year. If the Commissioner accepts the variation, then the Commissioner must notify the person in accordance with subsection (6).
+(9) The Commissioner may revoke an approval, with effect from the beginning of the income year in which the revocation is made, if the Commissioner considers that the person has classified an activity, or an expenditure or loss in such a way so as to defeat the purpose and application of subpart LY of the Income Tax Act 2007.
 
 ### 68CD Research and development tax credits: approved research and development cap
 (1) For the purposes of section LY 4 of the Income Tax Act 2007, the Commissioner may, in accordance with this section, approve for a person an amount greater than $120 million as the person’s approved research and development cap for an income year.
@@ -3744,7 +3809,7 @@ A taxpayer must provide to the Commissioner, as soon as possible, all relevant i
   (b) the change occurs after the taxpayer has made an application under section 78B.
 
 ### 78D Evidential requirements for tax credits
-A taxpayer who has a tax credit under section LB 3 or subparts LE or LO of the Income Tax Act 2007, must provide the Commissioner with sufficient evidence of the credit, including, as applicable—
+A taxpayer who has not provided their investment income payer with their tax file number and who has a tax credit under section LB 3 or subparts LE or LO of the Income Tax Act 2007, must provide the Commissioner with sufficient evidence of the credit, including, as applicable—
   (a) for an imputation credit, a shareholder dividend statement:
   (b)
   (c) for a credit for RWT, an RWT withholding certificate for the amount of RWT:
@@ -3945,7 +4010,7 @@ A notice of entitlement issued under section 80KD—
 ### 80KLB Recovery of excess tax credits
 (1) This section applies when—
   (a) the Commissioner pays a person a tax credit by instalment under section MF 1 of the Income Tax Act 2007 in a tax year; and
-  (b) in paying a tax credit by instalment in an earlier tax year, the Commissioner has overpaid the tax credit as described in section MF 6 of that Act.
+  (b) in paying a tax credit by instalment in an earlier tax year, the Commissioner or the chief executive of the administering department has overpaid the tax credit as described in section MF 6 of that Act.
 (2) The Commissioner may use the amount of an instalment payable to the person to satisfy an amount added under section MF 6(2) of that Act to the tax payable by the person for the earlier tax year.
 
 ### 80KM Summary of instalments paid
@@ -4989,14 +5054,14 @@ In this Part—
     (ii) section RD 24 of the Income Tax Act 2007.
 (1A) The Commissioner may make a binding ruling under section 91GB.
 (1B) The Commissioner may make a binding ruling on how the record-keeping requirements of this Act apply. The provisions are—
-  (a) section 15M:
+  (a)
   (b) section 17G:
   (c) section 22:
   (d) section 22AA:
   (e) section 22AAB:
   (f) section 22A:
   (g) section 22B:
-  (h) section 26:
+  (h)
   (i) section 32:
   (j) section 87:
   (k) section 152.
@@ -5950,7 +6015,8 @@ Nothing in this Part applies to—
     (e) for tax paid, being a deposit to a tax pooling account in accordance with sections RP 17 to RP 21 of the Income Tax Act 2007, means the date on which the deposit is made, unless the Commissioner refunds the deposit as required by section RP 18(5) of that Act, in which case there is not a date on which interest starts:
     (f) for unpaid tax, being terminal tax for the tax year in which a taxpayer dies, the due date for the deceased person's terminal tax, if—
       (i) each instalment of provisional tax payable by the deceased person for that tax year is paid by the due date under section RC 6 for the instalment; and
-      (ii) the terminal tax payable by the deceased person for that tax year is paid by the due date under section RA 13 for the terminal tax
+      (ii) the terminal tax payable by the deceased person for that tax year is paid by the due date under section RA 13 for the terminal tax:
+    (g) for unpaid tax, being terminal tax for which a taxpayer has a new due date for payment of the tax because section 142AC applies, means the day after the date fixed by the Commissioner under section 142AB(2) for the payment of the tax
   - **interest paid to a taxpayer** means interest credited to, or dealt with in the interests of or on behalf of, the taxpayer; and and have corresponding meanings
   - **interest period** —
     (a) for unpaid tax, means the period beginning on the date interest starts and ending on the date the tax is paid or credited as paid (both dates inclusive):
@@ -6140,6 +6206,7 @@ Despite a provisional taxpayer underpaying an instalment by $20 or less, the pro
 ### 120L Meaning of unpaid tax and overpaid tax for provisional tax purposes
 (1) For the purposes of determining amounts of unpaid tax and overpaid tax in respect of instalment dates for a tax year, a taxpayer's residual income tax is to be calculated in accordance with the definition of that term in section 120KB(4).
 (2) If a taxpayer makes a payment, the Commissioner must apply the payment towards the provisional tax that is due on the earliest instalment date on which there is an unpaid amount, and then in order from earliest to latest.
+(2B) For the purposes of this section, provisional tax includes late payment penalties charged in relation to the provisional tax.
 (3)
 
 ### 120LB Meaning of unpaid tax and overpaid tax for certain transferees under AIM method
@@ -6400,9 +6467,9 @@ Effective date
 
 **PAYE intermediaries**
 
-### 124H PAYE intermediaries and listed PAYE intermediaries
+### 124H PAYE intermediaries
 (1) A person who meets the requirements of section 124K may apply under section 124I to the Commissioner for approval to become a PAYE intermediary.
-(2) A PAYE intermediary may apply under section 15G to the Commissioner to become a listed PAYE intermediary. To make an application, the PAYE intermediary must meet, on a continuing basis, the requirements for a PAYE intermediary.
+(2)
 
 ### 124I Application for approval as PAYE intermediary
 (1) In order to become a PAYE intermediary, a person must—
@@ -6436,27 +6503,13 @@ Effective date
   (c) must be eligible to be a company director.
 
 ### 124L Application for approval as listed PAYE intermediary
-(1) In order to become a listed PAYE intermediary, a PAYE intermediary must—
-  (a) meet the requirements of section 124I; and
-  (b) have completed and filed the returns of income required from them; and
-  (c) have paid the required amounts of tax due from them.
-(2) A PAYE intermediary is a listed PAYE intermediary only for a period that is no more than the period for which they have been approved as a PAYE intermediary.
-(3) On approval of an application under this section and before acting as a listed PAYE intermediary for an employer, the listed PAYE intermediary must inform an employer who contracts their services as a listed PAYE intermediary that the Commissioner does not guarantee payment by the intermediary to an employee of the employer, or the performance of a service provided by them.
-(4) The Commissioner may approve a PAYE intermediary as a listed PAYE intermediary for a set period.
+[Repealed]
 
 ### 124M Grounds for revocation of listing
-The Commissioner may revoke the listing of a listed PAYE intermediary if—
-  (a) an approval of the person as a PAYE intermediary is revoked:
-  (b) the person no longer meets the requirements of section 124K:
-  (c) the person does not provide a subsidy claim form by the date and in the format required by the Commissioner:
-  (d) the person does not comply with an obligation of a listed PAYE intermediary:
-  (e) the Commissioner considers revocation is necessary in order to protect the integrity of the tax system.
+[Repealed]
 
 ### 124N Procedure for revocation of listing
-(1) The Commissioner must notify a listed PAYE intermediary of an intended revocation under section 124M, and must provide reasons for the intended revocation.
-(2) If the listed PAYE intermediary who is notified by the Commissioner under subsection (1) does not resolve the matters set out in the notice to the satisfaction of the Commissioner within 30 days of the date on which they are notified, the Commissioner may give 14 days' notice of revocation.
-(3) At the end of the 14-day notice period under subsection (2), the listing of the listed PAYE intermediary is revoked.
-(4) A decision by the Commissioner under this section is not open to challenge under Part 8A.
+[Repealed]
 
 ### 124O Employers’ arrangements with PAYE intermediaries
 (1) An employer who wishes to enter an arrangement with a PAYE intermediary must notify the Commissioner of the proposed arrangement, providing—
@@ -6476,10 +6529,7 @@ The PAYE intermediary must operate and maintain systems to protect the personal 
 The PAYE intermediary may provide the amended employment income information relating to the employee and a payday, and is then responsible for the accuracy of the amendments.
 
 ### 124R Subsidy claim forms
-(1) A listed PAYE intermediary must file a subsidy claim form within 1 month of the date of filing an employer monthly schedule to which the form relates.
-(2) The Commissioner may amend the details in a subsidy claim form to correct an error. The amendment must be made within 2 years of receiving the form.
-(3) For the purposes of subsection (2), the Commissioner must give the listed PAYE intermediary 14 days' notice of a proposed amendment.
-(4) For the purposes of section 22, a listed PAYE intermediary must keep the necessary records to verify the information in a subsidy claim form.
+[Repealed]
 
 **Tax pooling intermediaries**
 
@@ -6609,6 +6659,25 @@ For the purposes of section RC 5(5B)﻿(c)﻿(ii) of the Income Tax Act 2007, th
 (5) A person may apply for approval as an approved research provider by providing information to the Commissioner in the prescribed form. They may also apply for a revocation of approval.
 (6) If the Commissioner approves a person, the Commissioner must notify the person and publish the approval, in a publication chosen by the Commissioner.
 (7) The Commissioner may, at the Commissioner’s discretion, revoke approval as an approved research provider. The Commissioner must give the person reasons for the exercise of the Commissioner’s discretion, and specify the date from which the revocation takes effect.
+
+### 124ZI Certificates for research and development
+(1) For the purposes of section 68CC, a research and development certificate is a certificate, in the form prescribed by the Commissioner, in relation to a person’s research and development tax credit for an income year given to the person by another person who is an accepted research and development certifier that is not associated with the person.
+(2) For the purposes of this section, an accepted research and development certifier means any person that the Commissioner has approved as an accepted research and development certifier, if the person makes a statutory declaration of the following matters and gives it to the Commissioner, namely a declaration—
+  (a) that the person is competent in applying appropriate accounting and legal standards in relation to research and development tax credits; and
+  (b) declaring any other matters required by the Commissioner to be declared for the purposes of assuring the Commissioner that the person has the legal, accounting, and scientific or technical expertise to complete a research and development certificate.
+(3) A person may request approval as an accepted research and development certifier by providing information to the Commissioner in the prescribed form. They may also surrender approval.
+(4) The Commissioner must not approve a person whose approval—
+  (a) would adversely affect the integrity of the tax system:
+  (b) the Commissioner has revoked under subsection (7) in the last 2 years:
+  (c) was surrendered by the person in the last 2 years in anticipation of a revocation.
+(5) If the Commissioner approves a person, the Commissioner must notify the person, and publish the approval in a publication chosen by the Commissioner. The approval starts from the date that the person requests approval.
+(6) The Commissioner may, at the Commissioner’s discretion, revoke approval as an accepted research and development certifier. If the Commissioner revokes a person’s approval, the Commissioner must notify the person, and publish the revocation in a publication chosen by the Commissioner. The revocation starts from the date that the revocation is published.
+(7) The Commissioner must revoke a person’s approval if—
+  (a) the person is liable for a promoter penalty under section 141EB:
+  (b) the person has given a research and development certificate to another person who has, in the 2 years before the income year,—
+    (i) been liable to a shortfall penalty under section 141D or 141E in relation to research and development tax credits:
+    (ii) entered into a tax avoidance arrangement in relation to research and development tax credits:
+  (c) the person’s approval would adversely affect the integrity of the tax system.
 
 ## Part 8 — Objections
 
@@ -6848,7 +6917,7 @@ A disputant is entitled to challenge a disputable decision that is not an assess
     (i) the PAYE rules; or
     (ii) the provisional tax rules; or
     (iii) any of sections CD 15, CD 19, HD 2, HD 3(2), HD 5(4), HD 15, HD 24, HD 26 to HD 29, LA 6 to LA 8, LJ 1 to LJ 7, RD 3, RM 2 to RM 4, RM 8, and RM 10 of the Income Tax Act 2007 and sections 18K, 33, 92A, 139 (insofar as it applies to unpaid tax for periods before 1 April 1997) and 184 of the Tax Administration Act 1994; or
-    (iv) any of sections 17F, 17G, 18I, 21B to 23, 36 to 46, 58, 62, 63, 68CB, 68CC, and 68CD, 78B, 78C, 80, 89C, 89K, 89L, 89M, 89N(1)﻿(c)﻿(viii) and (3), 92, 106, 107, 108A, 108B, 109, 110, 111, 113, 114, 120A to 120U, 124ZH, Part 7B, 138I(2B), 138N, 139B, 142A, 142C, 146, 150A, 157, 160, 166, 166B, 167, 174AA, 176, 177, 177A to 177D, 183A, 183D, 183F, and 225B of this Act; or
+    (iv) any of sections 17F, 17G, 18I, 21B to 23, 36 to 46, 58, 62, 63, 68CB, 68CC, and 68CD, 78B, 78C, 80, 89C, 89K, 89L, 89M, 89N(1)﻿(c)﻿(viii) and (3), 92, 106, 107, 108A, 108B, 109, 110, 111, 113, 114, 120A to 120U, 124ZH, 124ZI, Part 7B, 138I(2B), 138N, 139B, 142A, 142C, 146, 150A, 157, 160, 166, 166B, 167, 174AA, 176, 177, 177A to 177D, 183A, 183D, 183F, and 225B of this Act; or
     (ivb) any of Parts 1 to 3 of the KiwiSaver Act 2006; or
     (v) any of Parts 4, 6, 7 and 11 (other than section 76) of the Goods and Services Tax Act 1985—
   (ea) the Commissioner's interpretation of how a taxation law applies to a person, whether or not the person has come into legal existence, and to an arrangement, whether or not a single or a recurring arrangement, as set out in a binding ruling made under Part 5A; or
@@ -7027,6 +7096,7 @@ The purposes of this Part are—
 ### 139AA Non-electronic filing penalty
 (1) This section applies to—
   (a) an employer who must comply, in a prescribed electronic format, with section 23E; and
+  (aba) a person who is required to provide investment income information to the Commissioner under sections 25F to 25M and 25N; and
   (ab) a portfolio investment entity; and
   (ac) a portfolio investor proxy; and
   (ad) a registered person; and
@@ -7035,6 +7105,10 @@ The purposes of this Part are—
 (3) Subsection (2) does not apply if the employer is authorised under sections 23D(4) and 23G to provide their employment income information in a format that is not prescribed.
 (4) For employment income information, the maximum penalty that may be imposed in relation to a month, regardless of the number of failures to provide employment income information, is the greater of $250 or $1 for each employee whose employment income information is not in the prescribed electronic form or delivered by the prescribed means of electronic communication at any time in the month.
 (5) For GST purposes, the non-electronic filing penalty is $250.
+(6) For investment income information, the non-electronic filing penalty is $250.
+(7) Despite subsection (2), a person is not liable to pay a non-electronic filing penalty if the Commissioner considers that, in a particular case or class of cases, a penalty should not be imposed. However, the Commissioner’s discretion may be exercised only if—
+  (a) it is necessary because of resource constraints imposed on the Commissioner during the period of co-existence of 2 Inland Revenue software platforms; and
+  (b) the taxpayer’s non-compliance is not serious or unreasonable.
 
 ### 139AB Penalty for member of large multinational group failing to provide information
 (1) A member of a large multinational group is liable to pay a penalty under this section if—
@@ -7609,6 +7683,17 @@ Despite sections 141A to 141E, a provisional taxpayer who uses a GST ratio in a 
 (5) This section comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more orders may be made appointing different dates for different tax types and for different purposes. To the extent to which it is not previously brought into force, this section comes into force on 1 April 2023.
 (6) For a tax type in relation to which an order is made under subsection (5), this section applies to a new assessment for the tax type or an increased assessment for the tax type and section 142A does not apply for that tax type.
 
+### 142AC New due date for payment of terminal tax by certain individuals
+(1) This section applies when—
+  (a) an individual (person A) has, or reasonably expects that they may have, for a period or periods in a tax year, whether the period or periods consist of some or all of the days in the tax year,—
+    (i) a tax credit under section LC 13 of the Income Tax Act 2007:
+    (ii) an entitlement to a tax credit under the family scheme; and
+  (b) person A has met their obligations, if any, under sections 22F(1) and 41 for the tax year within the time allowed; and
+  (c) person A’s pre-populated account for the tax year cannot be finalised under section 22H until the Commissioner receives information from another individual who is or was the spouse, civil union partner, or de facto partner of person A; and
+  (d) person A’s pre-populated account for the tax year is finalised under section 22H on or after the 30th day before their terminal tax date for the tax year; and
+  (e) person A has terminal tax due for the tax year.
+(2) The assessment that person A would be treated as having made under section 22I(1) in the absence of this section is treated, for the purposes of section 142AB, as if it were a new assessment of tax for person A made by the Commissioner.
+
 ### 142B Due date for shortfall penalties
 (1) A shortfall penalty is due and payable—
   (a) if the tax shortfall is an amount of unpaid tax—
@@ -7641,7 +7726,8 @@ Deferrable tax is due and payable on the day which is the 30th day after the las
 ### 142G Due date for payment of non-electronic filing penalties
 A non-electronic filing penalty under section 139AA is due and payable,—
   (a) for employment income information, 30 days after the end of the month in which the employer is required to provide to the Commissioner the information in the prescribed electronic form or by means of the prescribed electronic communication:
-  (b) for GST purposes, 30 days after the end of the month in which the registered person is required to provide to the Commissioner the GST information in the prescribed electronic form or by means of the prescribed electronic communication.
+  (b) for GST purposes, 30 days after the end of the month in which the registered person is required to provide to the Commissioner the GST information in the prescribed electronic form or by means of the prescribed electronic communication:
+  (c) for investment income information, 30 days after the end of the month in which the payer of investment income is required to provide to the Commissioner the information in the prescribed electronic form or by means of the prescribed electronic communication.
 
 ### 142GB Due date for payment of penalty by member of large multinational group
 The due date for payment, by a member of a large multinational group, of a penalty under section 139AB is the date that the Commissioner specifies in the notice of assessment for the penalty, which must be 30 days or more after the date on which the notice of assessment is issued.
@@ -8826,8 +8912,8 @@ The Governor-General may, by Order in Council, specify the date from which a typ
   (c) by way of interest under this Act or the Income Tax Act 2007; or
   (d)
   (e) by way of credits of tax under the family scheme; or
-  (f) in accordance with section RM 8 of that Act; or
-  (g) in accordance with section RP 4 of that Act—
+  (f) in accordance with section RM 8 of that Act—
+  (g)
 (2) On the recovery under Part 10A of an amount of unpaid tax, the amount recovered may be paid to the government of the territory outside New Zealand out of a Crown Bank Account without further appropriation than this section.
 
 ### 185B Application of particular provisions in this Part to PAYE intermediaries
@@ -8838,12 +8924,10 @@ The Governor-General may, by Order in Council, specify the date from which a typ
   (b) paragraph (d) had not been enacted.
 
 ### 185C Establishment of Listed PAYE Intermediary Bank Account
-An account called the Listed PAYE Intermediary Bank Account is established by this section.
+[Repealed]
 
 ### 185D Payments into, and out of, Listed PAYE Intermediary Bank Account
-(1) All payments received by the Commissioner from a listed PAYE intermediary and made under sections RP 2 to RP 5 of the Income Tax Act 2007 must be paid into the Listed PAYE Intermediary Bank Account.
-(2) Such amount as is necessary to meet the payments required to be made under section RP 4 of the Income Tax Act 2007 must be paid into the Listed PAYE Intermediary Bank Account.
-(3) The money standing to the credit of the Listed PAYE Intermediary Bank Account must be applied in making payments under section RP 4 of the Income Tax Act 2007.
+[Repealed]
 
 ## Part 11B — Foreign account information-sharing agreements
 
@@ -9417,6 +9501,7 @@ The person who, on 1 April 1995, holds office as Commissioner of Inland Revenue 
 |  | c | the amount of salary or wage deductions made under the Student Loan Scheme Act 2011 |
 |  | d | the amount of employer KiwiSaver contributions made under the KiwiSaver Act 2006, part 3, subpart 3 less ESCT |
 |  | e | the amount of employee KiwiSaver contribution deductions under the KiwiSaver Act 2006, part 3, subpart 1 |
+|  | f | the amount of salary or wages, as defined in section 4(1) of the KiwiSaver Act 2006, if required under section 63B of that Act |
 | 6 | The amount of ESCT payable |  |
 | 7 | Particulars of the following for every former employee who receives a benefit under an employee share scheme when the employer has chosen under section RD 7B of the Income Tax Act 2007 to withhold an amount of tax for the benefit: |  |
 |  | a | the name of the employee |
@@ -9555,6 +9640,33 @@ The standard rates of tax for schedular payments are set out in schedule 4 of th
   (b) notify the payer of the incorrect rate; and
   (c) provide the rate that should apply to the schedular payment.
 (2) After being notified, the payer must use the rate provided by the Commissioner. However, the rate does not apply if the payee notifies the payer that their circumstances have changed and, as a result, a different rate should apply.
+
+## Schedule 6 — Reporting of investment income information
+
+| Row | Items |
+| --- | --- |
+| 1 | The name of the payer |
+| 2 | The tax file number of the payer |
+| 3 | The contact address of the payer |
+| 4 | The name of the investor |
+| 5 | The tax file number of the investor, if held by the payer |
+| 6 | The contact address of the investor and, if the investor is non-resident, the country code of the investor |
+| 7 | The date of birth of the investor, if held by the payer |
+| 8 | The amount and type of income of the investor for the period |
+| 9 | The tax withheld on behalf of, or approved issuer levy paid in relation to, the investor for the period |
+| 10 | The date on which or period in which the tax was withheld or levy paid |
+| 11 | The tax rate of the investor for the period as notified to the payer, if applicable |
+| 12 | The notified investor rate of the investor, if applicable |
+| 13 | Whether the PIE is a superannuation fund or a retirement savings scheme or not |
+| 14 | The imputation credits attached, if applicable |
+| 15 | The Maori authority credits attached, if applicable |
+| 16 | The names, tax file numbers, dates of birth, and contact addresses of persons who are joint owners, if held by the payer |
+| 17 | The number of shares for which the dividend is declared, or in the case of a dividend that is a bonus issue, the number of shares included in the bonus issue |
+| 18 | The date on which the dividend is declared and the payment date of the dividend |
+| 19 | In the case of a dividend that is a bonus issue, the amount of the bonus issue as determined under section CD 7 or CD 8 of the Income Tax Act 2007 |
+| 20 | If the dividend is paid in Australian currency by an Australian ICA company, the exchange rate between the NZ dollar and the Australian dollar that was used to calculate the imputation ratio |
+| 21 | The total amounts of income, tax withheld, credits, imputation ratio, and Maori authority ratio, as applicable, for the items in rows 8, 9, 14, 15, and 19 |
+| 22 | Further information as required by the Commissioner |
 
 ## Schedule 7 — Disclosure rules
 
@@ -10047,20 +10159,44 @@ Section 18 does not prevent the Commissioner disclosing such information as is r
 
 ### Part B — Treatment of certain amounts
 
-###  Writing off certain amounts of tax payable
-(1) Subject to clause 2, the Commissioner must write off the following amounts under section 22J:
+### 1 Writing off certain amounts of tax payable
+Subject to clause 2, the Commissioner must write off the following amounts under section 22J:
   (a) an amount of tax relating to income derived for a tax year by a qualifying individual that is equal to or less than $50:
-  (b) an amount of tax relating to reportable income derived for a tax year by an individual solely from—
+  (b) an amount of tax relating to reportable income that is derived for a tax year by an individual solely from—
     (i) an income-tested benefit:
     (ii) an education grant:
     (iii) a payment of New Zealand superannuation:
-    (iv) a veteran’s pension.
+    (iv) a veteran’s pension:
+  (c) an amount of tax relating to the income of an individual for a tax year that arises solely because the individual has an extra pay period in the corresponding income year, being—
+    (i) 53 pay periods in the income year for a person paid weekly; or
+    (ii) 27 pay periods in the income year for a person paid fortnightly; or
+    (iii) 14 pay periods in the income year for a person paid in 4-weekly periods.
 
-###  Exclusion
-(2) An amount of tax does not qualify for a write off under clause 1(b) if the amount is derived by an individual who has been assessed in the tax year as receiving an entitlement and a tax credit under the family scheme under subparts MA to MG and MZ of the Income Tax Act 2007.
+### 2 Exclusions
+(1) An amount of tax does not qualify for a write off under clause 1(b) and (c) if the amount is derived by an individual who has been assessed in the tax year as receiving an entitlement and a tax credit under the family scheme under subparts MA to MG and MZ of the Income Tax Act 2007.
+(2) An amount of tax does not qualify for a write off under clause 1(c) if, for the tax year and an amount of income referred to in subclause (3),—
+  (a) the Commissioner has recommended for the individual, and the individual has consented to, a change of tax code under section 24DB or change of tax rate under section 25A giving the individual a higher tax code or higher RWT rate:
+  (b) the individual has used a tailored tax code under schedule 5, part A in relation to the income.
+(3) For the purposes of subclause (2), the income is—
+  (a) an amount of income for which the obligations of the individual under the PAYE rules are not met:
+  (b) an amount of investment income from which RWT is withheld at a rate that is lower than the correct rate:
+  (c) an amount from which tax is withheld at a rate that is lower than the correct rate when the amount of income is—
+    (i) schedular income:
+    (ii) income from employment that is an extra pay:
+    (iii) income from employment that is secondary employment earnings:
+  (d) an amount derived by an individual whose annual gross income is more than $48,000 when the amount of income is—
+    (i) a taxable Maori authority distribution:
+    (ii) an amount of salary or wages from employment as an election day worker, when the individual has used the EDW code:
+    (iii) an amount of salary or wages from employment as a casual agricultural employee, when the individual has used the CAE code:
+  (e) an amount of a benefit under an employee share agreement in relation to which an employer has not made an election under section RD 7B of the Income Tax Act 2007 to withhold tax.
+(4) For the purposes of subclause (3), the correct rate is—
+  (a) 0.105, if the individual’s annual gross income is $14,000 or less; or
+  (b) 0.175, if the individual’s annual gross income is more than $14,000 and not more than $48,000; or
+  (c) 0.300, if the individual’s annual gross income is more than $48,000 and not more than $70,000; or
+  (d) 0.330, if the individual’s annual gross income is more than $70,000.
 
-###  Small amounts of tax payable
-(3) Despite clause 2, the Commissioner may write off an amount of tax under section 22J if the amount is not substantial and represents an underpayment of tax that is attributable to a function or operation of the tax collection rules.
+### 3 Small amounts of tax payable
+Despite clause 2, the Commissioner may write off an amount of tax under section 22J if the amount is not substantial and represents an underpayment of tax that is attributable to a function or operation of the tax collection rules.
 
 ### 1 Short Title
 This Act may be cited as the Tax Administration Amendment Act (No 2) 1996, and shall be read together with and deemed part of the Tax Administration Act 1994 (in this Act referred to as the principal Act).
