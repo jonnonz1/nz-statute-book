@@ -1,5 +1,5 @@
 # Industry Training Amendment Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2020-04-01_
 
 ### 1 Title
 This Act is the Industry Training Amendment Act 2003.
