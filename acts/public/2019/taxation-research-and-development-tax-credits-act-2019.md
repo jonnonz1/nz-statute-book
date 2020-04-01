@@ -1,5 +1,5 @@
 # Taxation (Research and Development Tax Credits) Act 2019
-_Consolidation as at 2019-05-07_
+_Consolidation as at 2020-04-01_
 
 ### 1 Title
 This Act is the Taxation (Research and Development Tax Credits) Act 2019.
@@ -500,7 +500,7 @@ Replace sections 68CB and 68CC, as inserted by this Act, with:Research and devel
 
 ### 46 Section 138E amended (Certain rights of challenge not conferred)
 (1) In section 138E(1)﻿(e)﻿(iv), replace 124ZH with 124ZH, 124ZI.
-(2) In section 138E(1)﻿(e)﻿(iv), replace 63 with 63, 68CB, 68CC.
+(2)
 
 ## Schedule 1 — New schedules 21 and 21B inserted
 
