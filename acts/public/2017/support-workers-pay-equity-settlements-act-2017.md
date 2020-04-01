@@ -1,5 +1,5 @@
 # Care and Support Workers (Pay Equity) Settlement Act 2017
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2020-04-01_
 
 ### 1 Title
 This Act is the Care and Support Workers (Pay Equity) Settlement Act 2017.
@@ -70,13 +70,13 @@ In this Act, unless the context otherwise requires,—
       (iii) Residential Support Services
   - **level 2 qualification** means—
     (a) a level 2 New Zealand Certificate in Health and Wellbeing issued by NZQA; or
-    (b) a qualification (whether from New Zealand or overseas) that is recognised by the relevant industry training organisation (within the meaning of that term in section 2 of the Industry Training and Apprenticeships Act 1992) as being equivalent to the qualification described in paragraph (a)
+    (b) a qualification (whether from New Zealand or overseas) that is recognised by the relevant workforce development council (as that term is defined in section 477 of the Education Act 1989) as being equivalent to the qualification described in paragraph (a)
   - **level 3 qualification** means—
     (a) a level 3 New Zealand Certificate in Health and Wellbeing issued by NZQA; or
-    (b) a qualification (whether from New Zealand or overseas) that is recognised by the relevant industry training organisation (within the meaning of that term in section 2 of the Industry Training and Apprenticeships Act 1992) as being equivalent to the qualification described in paragraph (a)
+    (b) a qualification (whether from New Zealand or overseas) that is recognised by the relevant workforce development council (as that term is defined in section 477 of the Education Act 1989) as being equivalent to the qualification described in paragraph (a)
   - **level 4 qualification** means—
     (a) a level 4 New Zealand Certificate in Health and Wellbeing issued by NZQA; or
-    (b) a qualification (whether from New Zealand or overseas) that is recognised by the relevant industry training organisation (within the meaning of that term in section 2 of the Industry Training and Apprenticeships Act 1992) as being equivalent to the qualification described in paragraph (a)
+    (b) a qualification (whether from New Zealand or overseas) that is recognised by the relevant workforce development council (as that term is defined in section 477 of the Education Act 1989) as being equivalent to the qualification described in paragraph (a)
   - **Ministry of Health** means the department of the Public Service referred to by that name
   - **NZQA** means the New Zealand Qualifications Authority established under Part 20 of the Education Act 1989
   - **ordinary hourly wage** , in relation to a care and support worker,—
