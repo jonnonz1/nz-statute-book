@@ -1,5 +1,5 @@
 # Industry Training and Apprenticeships Act 1992
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2020-04-01_
 
 > Title
 
