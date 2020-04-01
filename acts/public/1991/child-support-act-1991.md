@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2020-04-01_
 
 > Title
 
@@ -220,7 +220,7 @@ The objects of this Act are—
     (i) any formula assessment applying at that time ceases to apply; and
     (ii) the election under section 70 is deemed to be revoked (despite section 70(4)) on the following day.
 (5) If the person is in receipt of an unsupported child's benefit in respect of 1 or more children, but is not in receipt of any other social security benefit, subsection (2) applies only in relation to the child or children in respect of whom the unsupported child's benefit is paid.
-(5B) A social security beneficiary is not required to apply for a formula assessment in relation to a parent of the child if the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018 is satisfied that—
+(5B) A social security beneficiary is not required to apply for a formula assessment in relation to a parent of the child if either the Commissioner or the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018 is satisfied that—
   (a) there is insufficient evidence available to establish who in law that parent is:
   (b) if the beneficiary made an application for a formula assessment of child support or took steps to make an application for a formula assessment of child support in relation to that parent, there would be a risk of violence—
     (i) to the beneficiary:
@@ -229,9 +229,9 @@ The objects of this Act are—
   (c) that parent died before the application for social security benefit was made:
   (d) the child was conceived as a result of incest or sexual violation:
   (e) the beneficiary cannot make an application for a formula assessment of child support in relation to that parent because of a compelling circumstance, other than a circumstance mentioned elsewhere in this subsection.
-(6) Unless subsection (6B) applies, a social security beneficiary who does not comply with their obligations under this section, and who is described in section 192(1)﻿(a) and (b) of the Social Security Act 2018, is liable to have their rate of benefit reduced under that section.
-(6B) A social security beneficiary who does not apply for a formula assessment of child support in relation to a parent of a qualifying child when required by this section, and who is described in section 192(1)﻿(a) and (b) of the Social Security Act 2018, is not liable to have their rate of benefit reduced under that section if the chief executive of the department for the time being responsible for the administration of that Act is satisfied that the beneficiary is taking active steps to identify who in law that parent is.
-(7) In order to ensure the enforcement of section 192 of the Social Security Act 2018, the Commissioner may notify the chief executive of the department responsible for the administration of that Act if any social security beneficiary who is described in section 192(1)﻿(a) and (b) of that Act fails to comply with his or her obligations under this section, or if his or her application for a formula assessment is not properly completed.
+(6)
+(6B)
+(7)
 (8) In this section,—
   - **sole parent** has the same meaning as in Schedule 2 of the Social Security Act 2018
   - **violence** has the same meaning as in section 9 of the Family Violence Act 2018.
@@ -2214,7 +2214,7 @@ Where a court is considering an appeal under this Act against the disallowance b
 (1) Notwithstanding any rule of law to the contrary, in any proceeding under this Act a person—shall be a compellable witness for the Commissioner against the person who, in relation to that eligible applicant, is the liable parent, and for the liable parent against the Commissioner.
   (a) who is a parent or carer of a qualifying child; and
   (b) who is in receipt of a social security benefit at any time during any period to which the proceeding relates,—
-(2) A person who fails to comply with this section, and who is described in section 192(1)﻿(a) and (b) of the Social Security Act 2018, is liable to have their rate of benefit reduced under that section.
+(2)
 
 ### 123 Conduct of proceedings
 (1) The business of courts and of Judges shall, so far as is consistent with the due despatch of business, be arranged in such a manner as may be necessary for the separating of the hearing of proceedings under this Act from other business.
