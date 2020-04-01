@@ -1,5 +1,5 @@
 # Industry Training Amendment Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2020-04-01_
 
 ### 1 Title
 (1) This Act is the Industry Training Amendment Act 2002.
@@ -30,7 +30,7 @@ The purpose of this Act is to improve the effectiveness and responsiveness of th
 (4) Section 5(2) of the principal Act is amended by omitting the word Commission, and substituting the word Minister.
 
 ### 6 Board to be satisfied of organisation's abilities
-(1) The heading to section 6 of the principal Act is amended by omitting the words Commission to, and substituting the words Minister must.
+(1) The heading to section 6 is amended by omitting the words Commission to, and substituting the words Minister must.
 (2) Section 6 of the principal Act is amended by omitting the word Commission, and substituting the word Minister.
 (3) Section 6 of the principal Act is amended by adding to paragraph (b) the word ; and and also by adding the following paragraphs:
   (c) provide leadership within the industry on matters relating to skill and training needs by—
@@ -50,7 +50,7 @@ The purpose of this Act is to improve the effectiveness and responsiveness of th
 
 ### 8 Provisional recognition
 (1) Section 8(1) of the principal Act is amended by omitting the words applicant organisation, and substituting the words organisation seeking recognition.
-(2) Section 8(1)(b) of the principal Act is amended by omitting the words enter into funding agreements with, and substituting the word fund.
+(2) Section 8(1)﻿(b) of the principal Act is amended by omitting the words enter into funding agreements with, and substituting the word fund.
 (3) Section 8(1) of the principal Act is amended by omitting the words Commission may, and substituting the words Minister may.
 
 ### 9 Expiry and cancellation of recognition
@@ -58,7 +58,7 @@ The purpose of this Act is to improve the effectiveness and responsiveness of th
 (2) Section 9(3) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:
   (ab) if the circumstances in subsection (3A) apply; or.
 (3) Section 9 of the principal Act is amended by inserting, after subsection (3), the following subsections:
-  (3A) The circumstances referred to in subsection (3)(ab) are that—
+  (3A) The circumstances referred to in subsection (3)﻿(ab) are that—
     (a) the Commission has issued a notice to the organisation, in accordance with subsection (3B), stating that it considers that the organisation's performance is inadequate because it is not meeting 1 or more of the requirements under section 6(a) to (d); and
     (b) the period of time specified in the notice within which the organisation must improve its performance has elapsed; and
     (c) the Commission is satisfied that the organisation's performance continues to be inadequate for the reason specified in the notice.
@@ -68,11 +68,11 @@ The purpose of this Act is to improve the effectiveness and responsiveness of th
       (i) the areas in which the Commission considers the organisation's performance to be inadequate, with reference to the requirements under section 6(a) to (d); and
       (ii) what actions that the organisation should take to improve its performance; and
       (iii) the period, which must be a reasonable period, within which the organisation must improve its performance; and
-      (iv) the fact that the Commission may cancel the organisation's recognition, under subsection (3)(ab), if it fails to improve its performance within that period.
+      (iv) the fact that the Commission may cancel the organisation's recognition, under subsection (3)﻿(ab), if it fails to improve its performance within that period.
 (4) Section 9 of the principal Act is amended by repealing subsection (4), and substituting the following subsection:
-  (4) Nothing in this section prevents an organisation whose recognition has expired under subsection (1) or subsection (2), or been cancelled under subsection (3)(a) or (ab), from seeking recognition in accordance with section 5 and being recognised in accordance with that section or section 8(1).
+  (4) Nothing in this section prevents an organisation whose recognition has expired under subsection (1) or subsection (2), or been cancelled under subsection (3)﻿(a) or (ab), from seeking recognition in accordance with section 5 and being recognised in accordance with that section or section 8(1).
 (5) Section 9(3A) of the principal Act is amended by omitting the word Commission in both places where it occurs, and substituting in each case the word Minister.
-(6) Section 9(3A)(a) of the principal Act is amended by omitting the words it considers, and substituting the words he or she considers.
+(6) Section 9(3A)﻿(a) of the principal Act is amended by omitting the words it considers, and substituting the words he or she considers.
 (7) Section 9(3B) of the principal Act is amended by omitting the word Commission in both places where it occurs, and substituting in each case the word Minister.
 
 ### 10 Board may agree with industry training organisation to fund setting of standards and administration of training
@@ -145,7 +145,7 @@ An industry training organisation that, immediately before the commencement of t
 The principal Act is amended by inserting, after section 23, the following Part:Training leviesPurposeInterpretationImposition of levyGovernor-General may impose levyRestrictions on making of levy ordersMatters to be specified in levy ordersPurposes for which levy may be requiredLevy order may require provision of informationBallotsIndependent returning officer must conduct ballotIndustry training organisation must identify potential members of levy groupReturning officer must notify potential members of levy groupCommission resolves coverage disputesPopulation to be ballotedRequirements of ballot papersReturning officer must count votesReturning officer must keep ballot papers, etcCollection of levyLevy is payable by qualifying members to industry training organisationCertificate of exemptionMethod of collecting levyLevy order may provide for collection by agentCollection of levy if person switches industry training organisationDuties of industry training organisations and others in relation to leviesLevy funds must be kept in separate bank accounts and used only for authorised purposesDuty to keep recordsDuty to provide annual reportDuty to protect commercially sensitive informationDisputesArbitration or mediation system must be establishedDisputes about coverageAppeals to District CourtConfirmation and expiry of ordersOrders must be confirmedExpiry of levy orders
   The purpose of this Part is to enable the making of Orders in Council imposing a training levy on the members of an industry, payable to an industry training organisation, if there is sufficient support for the imposition of that levy following a ballot of those members.
   For the purposes of this Part,—qualifying member, in relation to a levy group, means a member who does not have a certificate of exemption under section 40
-    - **ballot** means a ballot under section 27(1)(a)
+    - **ballot** means a ballot under section 27(1)﻿(a)
     - **closing date** means the date, specified in the ballot paper under section 36(b), by which ballot papers must be returned
     - **levy group** means the members of an industry described in a levy order, or proposed to be described in a levy order, who have to, or will have to, pay that levy or proposed levy
     - **member of an industry** means a person who employs persons who work in that industry or a self-employed person in that industry
@@ -178,7 +178,7 @@ The principal Act is amended by inserting, after section 23, the following Part:
     (a) meeting the costs of arranging delivery of industry training; or
     (b) undertaking any commercial or trading activity; or
     (c) any matter that directly benefits 1 or more individual members of the levy group, as opposed to generally benefiting the relevant industry as a whole.
-  (5) Nothing in subsection (4)(b) prevents an industry training organisation from—
+  (5) Nothing in subsection (4)﻿(b) prevents an industry training organisation from—
     (a) using any part of a levy to publish or sell any educational, informative, or promotional material (whether or not at a profit); or
     (b) investing any part of a levy pending its expenditure.
   A levy order may require qualifying members of the levy group to provide information to the industry training organisation, or some other person or body, for the purpose of enabling or assisting the determination of the amount of levy payable.
@@ -198,7 +198,7 @@ The principal Act is amended by inserting, after section 23, the following Part:
       (ii) will be required to pay the levy if there is sufficient support for it in the ballot and the levy order is made; and
     (d) that the person must notify the returning officer if the person disputes that he or she or it is a member of the industry intended to be covered by the proposed levy order (a coverage dispute); and
     (e) the date by which that notification of a coverage dispute must be received.
-  If the returning officer is notified by a person under section 33(2)(d) that the person wishes to raise a coverage dispute, the returning officer must refer that issue to the Commission for determination in accordance with section 49.
+  If the returning officer is notified by a person under section 33(2)﻿(d) that the person wishes to raise a coverage dispute, the returning officer must refer that issue to the Commission for determination in accordance with section 49.
   As soon as practicable after all coverage disputes have been finally determined (including any appeals under section 50(2)), the returning officer must send a ballot paper to each person in the levy group.
   A ballot paper must state—
     (a) the address to which ballot papers must be returned; and
