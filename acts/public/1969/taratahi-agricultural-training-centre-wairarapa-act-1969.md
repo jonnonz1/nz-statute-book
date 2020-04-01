@@ -1,5 +1,5 @@
 # Taratahi Agricultural Training Centre (Wairarapa) Act 1969
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2020-04-01_
 
 > An Act to make provision for the control and management of the Taratahi Agricultural Training Centre (Wairarapa) and for matters incidental thereto
 
@@ -31,7 +31,7 @@ In this Act, unless the context otherwise requires,—
   (a) 1 member to be appointed on the nomination of the committee of the Masterton Agricultural and Pastoral Association:
   (b) 1 member to be appointed on the nomination of the committee of the Wairarapa and East Coast Pastoral and Agricultural Society:
   (c) 1 member to be appointed on the nomination of the Federated Farmers of New Zealand Wairarapa Provincial District Incorporated:
-  (d) 1 member to be appointed on the nomination of the Agriculture Industry Training Organisation Incorporated:
+  (d) 1 member appointed on the nomination of the workforce development council whose specified industry coverage includes agriculture:
   (e)
   (f) 1 member to be appointed on the nomination of the Minister of Education:
   (g) the chief executive of the new Ministry:
