@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2020-03-26_
+_Consolidation as at 2020-04-01_
 
 > An Act to reform the administration of education
 
@@ -73,7 +73,6 @@ _Consolidation as at 2020-03-26_
   - **enrolment scheme** means a scheme adopted (and not since abandoned) under section 11H or developed under section 11IA; and includes any amendments to the scheme that have been adopted under section 11M
   - **government training establishment** has the same meaning as it has in section 159
   - **hostel** means a boarding establishment used mainly or solely for the accommodation of students enrolled at a registered school
-  - **industry training organisation** has the same meaning as in section 2 of the Industry Training and Apprenticeships Act 1992
   - **institution** has the same meaning as it has in section 159
   - **integration** means the conditions and procedures on and by which a private school may become established as part of the State system of education. and remain part of that system, on a basis that preserves and safeguards the special character of the education that the school provides, and has a corresponding meaning
   - **intermediate school** has the same meaning as in section 145(1)
@@ -106,7 +105,7 @@ _Consolidation as at 2020-03-26_
     (b) has been established as a State integrated school under section 421
   - **State school** means a school that is a primary school, a composite school, a secondary school, or a special school
   - **student** , in relation to a school or institution, means a person enrolled at the school or institution
-  - **tertiary component** , in relation to a secondary-tertiary programme, means the portion of the programme that consists of the participating student's apprenticeship training (as defined in section 13C of the Industry Training and Apprenticeships Act 1992), or participation in tertiary education that—
+  - **tertiary component** , in relation to a secondary-tertiary programme, means the portion of the programme that consists of the participating student's apprenticeship training (as defined in section 492), or participation in tertiary education that—
     (a) is provided by any 1 or more of the following:
       (i) a board of a secondary school, a composite school, or a special school that is a relevant school within the meaning of section 246:
       (ii) the managers of a school registered under section 35A, other than a school registered under that section only as a primary school:
@@ -945,7 +944,7 @@ A secondary-tertiary programme means a full-time programme for a participating s
     (ii) a body corporate that is the manager of a school registered under section 35A, other than a school registered under that section only as a primary school; and
   (b) any 1 or more of the following:
     (i) a government training establishment:
-    (ii) an industry training organisation:
+    (ii)
     (iii) an institution:
     (iv) a registered establishment.
 (2) Each member of a provider group is jointly and severally liable with the other members of the group in respect of the group's obligations and responsibilities.
@@ -980,7 +979,7 @@ The Minister may, by notice in the Gazette, recognise as a lead provider of seco
   (ab)
   (b) a body corporate that is the manager of a school registered under section 35A, other than a school registered under that section only as a primary school:
   (c) a government training establishment:
-  (d) an industry training organisation:
+  (d)
   (e) an institution:
   (f) a registered establishment.
 
@@ -3752,14 +3751,12 @@ The Minister may at any time appoint a person to—and in that case the Minister
     (c) a certificate granted in recognition of a student's achievement in scholarship examinations at secondary education
   - **chief executive** , in relation to an institution, means the person who, by whatever name the person is called, is the chief executive of the institution and includes a person for the time being performing the duties of the chief executive of the institution
   - **college of education** means, subject to subsection (3), a body referred to in section 162(1)﻿(b) or a body established as a college of education under section 162(2)
-  - **combined council** means a body constituted under section 222AM
   - **Commission** means the Tertiary Education Commission established under section 159C
   - **community tertiary education provider** means a registered establishment that has been recognised by the Minister under section 232AA
   - **constituents** , in relation to an institution, means the people who (by virtue of section 163) constitute it
-  - **council** , in relation to an institution, means the body that governs the institution in accordance with section 165
-  - **designated polytechnic** ,—
-    (a) after 28 February 2010 and before 1 May 2010, means a polytechnic designated for the purposes of Part 15A by the Governor-General by Order in Council:
-    (b) on or after 1 May 2010, means any polytechnic
+  - **council** ,—
+    (a) in relation to an institution other than NZIST, means the body that governs the institution in accordance with section 165:
+    (b) in relation to NZIST, means NZIST’s council members appointed under section 222G
   - **domestic student** , at any time, means a person who is then—
     (a) a New Zealand citizen; or
     (b) the holder of a residence class visa granted under the Immigration Act 2009 who satisfies the criteria (if any) prescribed by regulations made under subsection (4); or
@@ -3770,9 +3767,7 @@ The Minister may at any time appoint a person to—and in that case the Minister
     (c) recognition for successfully meeting the learning outcomes of a standard listed on the Directory of Assessment Standards
   - **enrol** includes admit and and have corresponding meanings
   - **equivalent full-time student formula** means the formula of that name that is based on the student workload that would normally be carried out by a full-time student in a single academic year
-  - **existing institution** means—
-    (a) a body specified in Part 1 or Part 2 of Schedule 13; or
-    (b) a body that was established immediately before the day on which the Education Amendment Act 1990 received the Royal assent, or is established on or after that day and before 1 January 1991, as a polytechnic, institute of technology, technical institute or community college under the Education Act 1964
+  - **existing institution** means a body specified in Part 1 or 2 of Schedule 13
   - **existing non-university institution** means an existing institution other than a body specified in Part 1 of Schedule 13
   - **functions** , except where the expression occurs in a provision setting out the functions of a body, includes duties
   - **funding approval** means a decision made by the Commission under section 159YA to fund (in whole or in part) some or all of the tertiary education programmes and activities described in an organisation's proposed plan under section 159P(d)﻿(i) and (ii)
@@ -3785,10 +3780,9 @@ The Minister may at any time appoint a person to—and in that case the Minister
     (c) the New Zealand Defence Force constituted by section 11(1) of the Defence Act 1990; or
     (d) the New Zealand Police
   - **grant** , in relation to an award, includes confer and issue
-  - **industry training organisation** means a body corporate for the time being recognised under section 5 or section 8(1) of the Industry Training and Apprenticeships Act 1992
   - **institution** means—
     (a) a college of education; or
-    (b) a polytechnic; or
+    (b) NZIST (including, as the case requires, its subsidiaries that provide education or training, or both); or
     (ba) a specialist college; or
     (c) a university; or
     (d) a wananga
@@ -3796,40 +3790,37 @@ The Minister may at any time appoint a person to—and in that case the Minister
   - **land** includes any legal or equitable estate or interest in, or right, power or privilege over, or in connection with, land
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
+  - **New Zealand Institute of Skills and Technology** or means the New Zealand Institute of Skills and Technology established by section 222A
+  - **NZIST subsidiary** means a Crown entity subsidiary of NZIST
   - **permanent member** , in relation to the teaching or general staff of an institution, means a member of the staff who—
     (a) is employed, on either a full-time or part-time basis, for a period ending, unless sooner terminated, on his or her resignation or retirement; or
     (b) has been employed, on either a full-time or part-time basis, whether under an employment agreement for a fixed term or otherwise, for at least 3 months; or
     (c) has been employed, on either a full-time or part-time basis, whether under an employment agreement for a fixed term or otherwise, for less than 3 months and whose employment is, in the opinion of the chief executive of the institution, likely to continue for at least 3 months from the date of commencement of that employment
   - **personal property** includes money
   - **plan** means a plan in relation to which funding approval has been given
-  - **polytechnic** means, subject to subsection (3),—
-    (a) a body that was established immediately before the day on which the Education Amendment Act 1990 received the Royal assent, or is established on or after that day and before 1 January 1991, as a polytechnic, institute of technology, technical institute or community college under the Education Act 1964; or
-    (b) a body established as a polytechnic under section 162(2)
-  - **polytechnic council** —
-    (a) means the council of a polytechnic; and
-    (b) includes a combined council
-  - **private training establishment** means an establishment, other than an institution, that provides post-school education or vocational training
+  - **private training establishment** means an establishment, other than an institution, that provides post-school education or training, including vocational education and training
   - **proceeding** means any legal or administrative proceeding, and includes an arbitration
   - **programme** , in relation to an institution within the meaning of section 249(1), means a programme of study or training leading to a qualification listed on the Qualifications Framework
   - **proposed plan** means a proposed plan in relation to which an organisation is seeking funding approval
   - **Qualifications Authority** means the New Zealand Qualifications Authority established by Part 20
   - **Qualifications Framework** means the framework referred to in section 248
-  - **reconstitution day** ,—
-    (a) in relation to a polytechnic designated for the purposes of Part 15A by the Governor-General by Order in Council, means the day on which the order comes into force:
-    (b) in relation to any other polytechnic, means 1 May 2010
-  - **record of achievement** means a record of a student’s educational outcomes maintained by the Qualifications Authority, a tertiary education provider, or an industry training organisation
+  - **record of achievement** means a record of a student’s educational outcomes maintained by the Qualifications Authority or a tertiary education provider
   - **Regional Employment and Access Council** means a council of that name established under section 7 of the Access Training Scheme Act 1988
   - **registered establishment** means a private training establishment that has been granted registration by the Qualifications Authority under Part 18, other than a registration that has been cancelled
   - **Secretary** means the chief executive of the Ministry
   - **specialist college** means, subject to subsection (3), a body established as a specialist college under section 162(2)
   - **staff** , in relation to an institution, does not include the chief executive of the institution
   - **student member** , in relation to the council of an institution, means a member of that council referred to in section 171(2)﻿(e)
-  - **tertiary education provider** means all or any of the following, but does not include an industry training organisation:
+  - **tertiary education provider** means all or any of the following:
     (a) an institution:
     (b) a registered establishment:
     (c) a government training establishment:
     (d) any other person or body that provides, or proposes to provide, tertiary education and that is funded through non-departmental output classes from Vote Education
   - **tertiary education strategy** means the latest strategy document issued under section 159AA
+  - **trainee** —
+    (a) means an employee who has a training agreement; and
+    (b) includes an apprentice as defined in section 492
+  - **training agreement** means an agreement between an employer and an employee that relates to the employee’s receipt of, or provides for the employee to receive, vocational education and training (whether provided by the employer or some other person)
   - **training scheme** means study or training that—
     (a) leads to an award; but
     (b) does not, of itself, lead to an award of a qualification listed on the Qualifications Framework
@@ -3837,11 +3828,16 @@ The Minister may at any time appoint a person to—and in that case the Minister
   - **University Grants Committee** means the University Grants Committee established under Part 1 of the Universities Act 1961
   - **Vice-Chancellor** , in relation to a university, means the chief executive of the university, by whatever name called
   - **Vice-Chancellors Committee** means the New Zealand Vice-Chancellors Committee established by Part 19
-  - **wananga** means, subject to subsection (3), a body established as a wananga under section 162(2).
+  - **vocational education and training** —
+    (a) means education and training that leads to the achievement of industry-developed skill standards, qualifications, or other awards; and
+    (b) includes work-based training
+  - **wananga** means, subject to subsection (3), a body established as a wananga under section 162(2)
+  - **work-based training** has the same meaning as in section 477
+  - **workforce development council** means a workforce development council established under section 479.
 (2) In the absence of proof to the contrary,—is, for the purposes of the definitions of assisted student and exempt student in subsection (1), conclusive evidence of the matter certified; and judicial notice shall be taken of the signature on any such certificate of the chief executive or (as the case may be) the Secretary.
   (a) a certificate signed by the chief executive of the Ministry of Foreign Affairs and Trade that on a specified day, or for a specified period, a specified person was or was not, or will or will not be, in New Zealand to study under an assistance programme administered by the New Zealand Government; or
   (b) a certificate signed by the Secretary that on a specified day, or for a specified period, a specified person was or was not, or will or will not be, in New Zealand to study under an exchange programme approved by the New Zealand Government,—
-(3) The definitions of the terms college of education, polytechnic, specialist college, university and wananga do not apply for the purposes of subsections (1), (2), and (4) of section 162.
+(3) The definitions of the terms college of education, specialist college, university and wananga do not apply for the purposes of subsections (1), (2), and (4) of section 162.
 (4) The Governor-General may, by Order in Council, make regulations prescribing criteria that the holder of a residence class visa granted under the Immigration Act 2009 must satisfy in order to fulfil the requirements of paragraph (b) of the definition of domestic student in subsection (1).
 (5) The explanatory note of regulations made under subsection (4) must indicate that—
   (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
@@ -3923,7 +3919,7 @@ The purpose of this Part is to establish—
 ### 159B Definition of organisation
 (1) In this Part, unless the context otherwise requires, organisation means—
   (a) a tertiary education provider:
-  (b) an industry training organisation:
+  (b) a workforce development council:
   (c) a person or body that provides tertiary education-related services and is identified in accordance with subsection (2) as an organisation for the purposes of this Part.
 (2) The Minister may, by notice in the Gazette, identify organisations for the purpose of this Part, and may do so by describing a type of person or body that is an organisation, or by naming individual persons or bodies as organisations.
 
@@ -3982,15 +3978,43 @@ The purpose of this Part is to establish—
   (d) to monitor the performance of organisations that receive funding from the Commission including by measuring performance against specified outcomes; and
   (da) to undertake any functions that the Minister directs the Commission to undertake under section 159J; and
   (e) to undertake any functions delegated to the Commission, including (without limitation) functions relating to the funding of organisations other than under section 159YA or 159ZC; and
-  (f) to undertake any other function given by this Act, the Industry Training Act 1992, the Modern Apprenticeship Training Act 2000, or any other enactment.
+  (ea) to ensure the availability within industry of high-quality vocational education and training; and
+  (eb) to promote the availability of vocational education and training to people of a kind or description specified in the Commission’s statement of intent as people to whom that training has not traditionally been available (whether within a particular industry or industries, or generally); and
+  (ec) to develop and recommend to the Minister an apprenticeship training code for the purposes of section 495; and
+  (ed) to make the apprenticeship training code available as required by section 496; and
+  (ee) to monitor the performance of persons carrying out apprenticeship training activities (whether or not under a plan) to ensure that they comply with the apprenticeship training code; and
+  (ef) to exercise the powers and perform the functions of the Commission under subpart 3 of Part 34 (which relates to work-based training levies); and
+  (f) to undertake any other function given by this Act or any other enactment.
   (g)
 (2) In addition, the Commission may provide information and other tertiary-related services to the Crown, provided that these functions are consistent with the Commission's statement of intent and are consistent with, and do not displace, any of its functions under subsection (1).
+
+### 159FA Duties of Commission in relation to workforce development council
+(1) The Commission must—
+  (a) have regard to advice from a workforce development council in relation to its 1 or more specified industries when assessing any proposed plan under section 159YA or when considering funding an organisation other than via a plan under section 159ZC in relation to vocational education and training; and
+  (b) give effect to advice from a workforce development council about the mix of vocational education and training needed for the 1 or more industries covered by the workforce development council when deciding to give funding approval to organisations under section 159YA(5).
+(2) The duty in subsection (1)﻿(b) is subject to—
+  (a) any funding limits set by the Minister under section 159L and the Commission under section 159O; and
+  (b) any capacity or capability constraints of organisations to provide, arrange, and support the mix of vocational education and training.
+(3) The Commission must advise a workforce development council, in writing, if it is unable to give effect to the workforce development council’s advice about the mix of vocational education and training needed for the council’s specified industries due to any limits or constraints referred to in subsection (2)﻿(b) and advise the workforce development council about—
+  (a) what specific actions the Commission intends to take to address those limits or constraints within the next 3 years; and
+  (b) its right to object to the Minister if the workforce development council reasonably believes that the Commission has not adequately responded to its advice about the mix of vocational education and training required to meet the needs of its specified industries.
 
 ### 159FA Offers of employment in equivalent positions for Careers New Zealand employees
 [Repealed]
 
+### 159FB Power of Commission to require information from workforce development council
+(1) The chief executive of the Commission may, by written notice to a workforce development council, require it to provide the chief executive with any information about the financial position or operations (or both) of the workforce development council (whether or not funded under a plan under section 159YA).
+(2) A workforce development council that receives a notice under subsection (1) must provide the chief executive of the Commission with the required information within the time period specified in the notice.
+(3) The chief executive of the Commission may, at any time, revoke or amend a notice given under subsection (1).
+
 ### 159FB Effect of offers on certain agreements and entitlements
 [Repealed]
+
+### 159FC Power of Commission to audit workforce development council
+(1) For the purpose of ascertaining whether a workforce development council is complying, or has complied, with the provisions of this Act, the chief executive of the Commission may commission an independent audit of the workforce development council.
+(2) The audit may (without limitation) include an assessment of—
+  (a) the performance of the workforce development council’s functions:
+  (b) the application of funding provided to the workforce development council by the Commission.
 
 ### 159FC No compensation for technical redundancy of employees of Careers New Zealand
 [Repealed]
@@ -4001,8 +4025,8 @@ The purpose of this Part is to establish—
 ### 159G Principles guiding how Commission operates
 In performing its functions, the Commission must, in addition to complying with section 159AB,—
   (a) comply with any direction of the Minister given under section 103 of the Crown Entities Act 2004; and
-  (b) work closely with the stakeholders of tertiary education providers and industry training organisations; and
-  (c) work closely with tertiary education providers and industry training organisations.
+  (b) work closely with the stakeholders of tertiary education providers and workforce development councils; and
+  (c) work closely with tertiary education providers and workforce development councils.
 
 ### 159H Minister may review performance of Commission
 [Repealed]
@@ -4045,6 +4069,14 @@ The chief executive must—
 The chief executive of the Commission—
   (a) must, on an ongoing basis, monitor institutions that receive funding under this Part in order to assess whether the operation or long-term viability of any of those institutions is at risk; and
   (b) may report from time to time to the Minister on the outcome of that monitoring.
+
+### 159KBB Additional requirement of NZIST’s council to provide information
+(1) The chief executive of the Commission may, by written notice to NZIST’s council, require it to provide any information that the chief executive considers is reasonably required in relation to the operation of NZIST or any related entity of NZIST for the purpose of determining whether there is a risk to, or arising from,—
+  (a) the governance, management, or financial position of NZIST or a related entity of NZIST; or
+  (b) the education and training performance of students enrolled at NZIST or a related entity of NZIST.
+(2) If NZIST’s council receives a notice under subsection (1), it must provide the chief executive of the Commission with the required information within the time period specified in the notice.
+(3) The chief executive of the Commission may revoke or amend any notice given under subsection (1).
+(4) For the purposes of subsection (1), related entity, in relation to NZIST, has the same meaning as in section 164A.
 
 ### 159KC Declaration of interests
 (1) A person who is proposed to be appointed as chief executive must declare any interests (within the meaning of that term in section 10 of the Crown Entities Act 2004) to the Commission before accepting appointment to the position of chief executive.
@@ -4103,19 +4135,22 @@ The chief executive of the Commission—
   (a) specify the amount of money, or the proportion of an amount of money, available under any particular funding mechanism; and
   (b) provide for funding to different groups of organisations or types of organisation; and
   (c) provide for different versions of, or modifications to, a funding mechanism when applying it to different groups of organisations or types of organisation; and
-  (d) specify conditions that the Commission must attach to funding that is provided under any funding mechanism including, without limitation, conditions setting limits on the fees that an organisation may charge domestic students; and
+  (d) specify the conditions that the Commission must attach to funding that is provided under funding mechanisms, including (without limitation) conditions setting limits on fees that—
+    (i) organisations may charge domestic students:
+    (ii) organisations may charge employers for supporting their employees’ work-based training; and
   (e) provide for funding that targets particular groups of students.
 
 ### 159M Restrictions on design of funding mechanisms
-In determining a design for a funding mechanism under section 159L or in varying a determination under section 159OA, the Minister may not—
+(1) In determining a design for a funding mechanism under section 159L or in varying a determination under section 159OA, the Minister may not—
   (a) identify a specified organisation or organisations to which funding is to be provided or denied under any funding mechanism; or
-  (b) specify conditions under section 159L(3)﻿(d) that set limits on the fees that organisations may charge domestic students until—
+  (b) specify conditions under section 159L(3)﻿(d) that set limits on the fees that organisations may charge domestic students or that organisations may charge employers until—
     (i) the Minister has published a notice in the Gazette that—
       (A) states that the Minister proposes to specify conditions of that kind; and
       (B) sets out the proposed conditions; and
       (C) invites submissions on the proposed conditions; and
       (D) specifies the date by which submissions must be received, which must be a date no later than 21 days after the date of the Gazette notice; and
     (ii) the date by which submissions must be received has passed.
+(2) However, the Minister may direct that funding be provided to NZIST via a funding mechanism if the Minister reasonably considers that it is consistent with the efficient use of national resources and in the national interest to do so.
 
 ### 159N Funding mechanisms consistent with quality assurance principle
 Every funding mechanism must be consistent with the principle that receiving public funds is dependent on an organisation meeting the quality assurance requirements in this Act.
@@ -4133,7 +4168,7 @@ The Commission must—
 (3) Before deciding to vary a determination, the Minister must consult—
   (a) all organisations that would be affected by a variation that the Minister proposes; and
   (b) all other persons and organisations that the Minister considers ought to be consulted.
-(4) However, the Minister is not required to consult under subsection (3) in relation to a variation of the conditions under section 159L(3)﻿(d) that set limits on the fees that organisations may charge domestic students.
+(4) However, the Minister is not required to consult under subsection (3) in relation to a variation of the conditions under section 159L(3)﻿(d) that set limits on the fees that organisations may charge domestic students and that organisations may charge employers.
 (5) If the Minister varies a determination, an organisation affected by the variation must—
   (a) consider whether any amendments are needed to its plan as a result of the variation; and
   (b) if it considers that a significant amendment is needed to its plan, or that its plan needs to be replaced, ask the Commission to approve the significant amendment to, or the replacement of, its plan under section 159YK.
@@ -4470,8 +4505,8 @@ A significant amendment made to a plan under section 159YM—
 ### 160 Object
 The object of the provisions of this Act relating to institutions is to give them as much independence and freedom to make academic, operational, and management decisions as is consistent with the nature of the services they provide, the efficient use of national resources, the national interest, and the demands of accountability.
 
-### 161 Academic freedom
-(1) It is declared to be the intention of Parliament in enacting the provisions of this Act relating to institutions that academic freedom and the autonomy of institutions are to be preserved and enhanced.
+### 161 Academic freedom and institutional autonomy of institutions (other than NZIST)
+(1) It is declared to be the intention of Parliament in enacting the provisions of this Act relating to universities, wananga, colleges of education, and specialist colleges that academic freedom and the autonomy of those institutions are to be preserved and enhanced.
 (2) For the purposes of this section, academic freedom, in relation to an institution, means—
   (a) the freedom of academic staff and students, within the law, to question and test received wisdom, to put forward new ideas and to state controversial or unpopular opinions:
   (b) the freedom of academic staff and students to engage in research:
@@ -4482,18 +4517,19 @@ The object of the provisions of this Act relating to institutions is to give the
   (a) the need for the maintenance by institutions of the highest ethical standards and the need to permit public scrutiny to ensure the maintenance of those standards; and
   (b) the need for accountability by institutions and the proper use by institutions of resources allocated to them.
 (4) In the performance of their functions the Councils and chief executives of institutions, Ministers, and authorities and agencies of the Crown shall act in all respects so as to give effect to the intention of Parliament as expressed in this section.
+(5) This section does not apply to NZIST (for which section 222E provides).
 
 ### 162 Establishment of institutions
 (1) Upon the commencement of this section, this Act has effect as if—and a reference in any other Act to an institution established under this Act shall be read as including a reference to a body referred to in paragraph (a), paragraph (b), or paragraph (c).
   (a) each body specified in Part 1 of Schedule 13 was established as a university under subsection (2); and
-  (b) each body specified in Part 2 of that schedule was established as a college of education under subsection (2); and
-  (c) each body that, immediately before that commencement, was established as a polytechnic, institute of technology, technical institute or community college under the Education Act 1964, was established as a polytechnic under subsection (2),—
-(2) Subject to subsections (3) to (5), the Governor-General may, by Order in Council made on the written recommendation of the Minister, establish a body as a college of education, a polytechnic, a specialist college, a university, or a wananga, as the Governor-General considers appropriate.
+  (b) each body specified in Part 2 of that schedule was established as a college of education under subsection (2),—
+  (c)
+(2) Subject to subsections (3) to (5), the Governor-General may, by Order in Council made on the written recommendation of the Minister, establish a body as a college of education, a specialist college, a university, or a wananga, as the Governor-General considers appropriate.
 (3) Before deciding whether or not to recommend to the Governor-General the making of an Order in Council under subsection (2), the Minister shall—
   (a) give the Qualifications Authority a reasonable period in which to give advice to the Minister on the matter and consider any advice so given; and
   (ab) satisfy himself or herself that the establishment of the institution is in the interests of the tertiary education system and the nation as a whole; and
   (b) consult with such institutions, organisations representing institutions, and other relevant bodies, as the Minister considers appropriate.
-(4) In recommending to the Governor-General under subsection (2) that a body should be established as a college of education, a polytechnic, a specialist college, a university, or a wananga, the Minister shall take into account—
+(4) In recommending to the Governor-General under subsection (2) that a body should be established as a college of education, a specialist college, a university, or a wananga, the Minister shall take into account—
   (a) that universities have all the following characteristics and other tertiary institutions have 1 or more of those characteristics:
     (i) they are primarily concerned with more advanced learning, the principal aim being to develop intellectual independence:
     (ii) their research and teaching are closely interdependent and most of their teaching is done by people who are active in advancing knowledge:
@@ -4502,18 +4538,19 @@ The object of the provisions of this Act relating to institutions is to give the
     (v) they accept a role as critic and conscience of society; and
   (b) that—
     (i) a college of education is characterised by teaching and research required for the pre-school, compulsory and post-compulsory sectors of education, and for associated social and educational service roles:
-    (ii) a polytechnic is characterised by a wide diversity of continuing education, including vocational training, that contributes to the maintenance, advancement, and dissemination of knowledge and expertise and promotes community learning, and by research, particularly applied and technological research, that aids development:
+    (ii)
     (iia) a specialist college is characterised by teaching and (if relevant) research of a specialist nature that maintains, enhances, disseminates, and assists in the application of knowledge and expertise:
     (iii) a university is characterised by a wide diversity of teaching and research, especially at a higher level, that maintains, advances, disseminates, and assists the application of, knowledge, develops intellectual independence, and promotes community learning:
     (iv) a wananga is characterised by teaching and research that maintains, advances, and disseminates knowledge and develops intellectual independence, and assists the application of knowledge regarding ahuatanga Maori (Maori tradition) according to tikanga Maori (Maori custom).
-(5) In the case of a college of education, polytechnic, specialist college, or wananga, the Minister may, on the recommendation of its council, change the name of the college of education, polytechnic, specialist college, or wananga by notice published in the Gazette.
+(5) In the case of a college of education, specialist college, or wananga, the Minister may, on the recommendation of its council, change the name of the college of education, specialist college, or wananga by notice published in the Gazette.
 (6) In the case of a university, its name may be changed if the procedure set out in subsections (7) to (9) is followed.
 (7) The university must give written notice to the Minister of the proposed name change.
 (8) If notice is given, the Minister must present the proposal to the House of Representatives.
 (9) If the House of Representatives, by resolution, accepts the proposed name change, the Minister must change the name of the university by notice published in the Gazette.
+(10) Subsection (5) does not apply to NZIST (for which section 222A(2) provides).
 
 ### 163 Constitution of institutions
-(1) Each body referred to in paragraph (b) or paragraph (c) of section 162(1) shall consist of its governing body, the chief executive, the teaching staff, general staff, the graduates and students, and such other people as the governing body may from time to time determine.
+(1) Each body referred to in section 162(1)﻿(b) consists of its governing body, the chief executive, the teaching staff, general staff, the graduates and students, and such other people as the governing body may from time to time determine.
 (2) Each Order in Council establishing an institution shall make provision for determining the people who are to constitute the institution.
 
 ### 164 Disestablishment of institutions
@@ -4525,7 +4562,7 @@ The object of the provisions of this Act relating to institutions is to give the
   (b) specifies the reasons in the recommendation.
 (4) When an institution is, or 2 or more institutions are, disestablished, the Governor-General may, by Order in Council made on the written recommendation of the Minister, incorporate the disestablished institution or any 1 or more of the disestablished institutions in another institution, whether the other institution is—
   (a) an existing institution or a new institution established for the purpose:
-  (b) an institution of the same class as the disestablished institution or institutions or an institution of a different class from it or them (for example, a disestablished polytechnic may be incorporated in a university).
+  (b) an institution of the same class as the disestablished institution or institutions or an institution of a different class from it or them.
 (5) Before deciding whether or not to recommend the making of an Order in Council under subsection (1) or subsection (4), or both subsections (1) and (4), the Minister shall—
   (a) give to the council of the institution or the councils of the institutions concerned, and to every other body that the Minister considers is likely to be directly affected, written notice—
     (i) setting out the action that the Minister is considering whether to take and the reasons for that action; and
@@ -4533,6 +4570,7 @@ The object of the provisions of this Act relating to institutions is to give the
   (b) publish such notices as the Minister considers appropriate inviting members of the public to make written submissions in relation to the matter; and
   (c) consider any submissions made within a reasonable period in response to the notices referred to in paragraphs (a) and (b).
 (6) If an Order in Council is made under subsection (1) or subsection (4), or both subsections (1) and (4), the Minister must present to the House of Representatives a copy of the Order in Council and a statement of the reasons for the making of the Order in Council.
+(7) To avoid doubt, nothing in this section applies to NZIST.
 
 ## Part 15 — Administration of tertiary institutions
 
@@ -4545,16 +4583,13 @@ In this Part, unless the context otherwise requires,—
 **Councils**
 
 ### 165 Institutions to be governed by councils
-(1) After the commencement of this section,—
-  (a) the governing body of each institution shall be a council constituted in accordance with this Part; and
-  (b) a reference in any law to the council or other governing body of an institution shall be construed, except in relation to matters that occurred before that commencement, as a reference to the council of that institution as so constituted.
-(1A) On and after its reconstitution day,—
-  (a) subsection (1)﻿(a) does not apply to a polytechnic; and
-  (b) except in relation to matters that occurred before the commencement of this section, a reference in any law to the council or other governing body of an institution must, in relation to the polytechnic, be construed as a reference to its council as constituted under this Part or Part 15A (as the case requires).
-(2) Subject to section 193(2), all acts or things done in the name of, or on behalf of, an institution with the authority of, or of a delegate of, the council or the chief executive shall be deemed to have been done by the institution.
+(1) The governing body of NZIST is its council, the members of which are appointed under section 222G.
+(2) The governing body of every other institution is its council constituted in accordance with this Part.
+(3) A reference in any enactment to the council or other governing body of an institution referred to in subsection (2) must be construed as a reference to the council of the institution.
+(4) Subject to section 193(2), all acts or things done in the name of, or on behalf of, an institution with the authority of, or of a delegate of, the council or the chief executive are to be treated as being done by the institution.
 
 ### 166 Incorporation
-(1) Each body that is established as a university under section 162(2) after the commencement of section 162, and each college of education, polytechnic, specialist college, or wananga, is a body corporate with perpetual succession and a common seal; and is capable of—
+(1) Each body that is established as a university under section 162(2) after the commencement of section 162, NZIST, and each college of education, specialist college, or wananga, is a body corporate with perpetual succession and a common seal; and is capable of—
   (a) holding real and personal property; and
   (b) suing and being sued; and
   (c) otherwise doing and suffering all that bodies corporate may do and suffer.
@@ -4567,6 +4602,7 @@ In this Part, unless the context otherwise requires,—
   (b) specify the type or class of documents that may be executed only by affixing the common seal to them; and
   (c) specify any member or members of the council, and any member or members of the staff of the institution, who may countersign documents (or a specified type or class of documents) to which the common seal is affixed.
 (3) The common seal of an institution must be judicially noticed in all courts and for all purposes.
+(4) This section does not apply to NZIST or its subsidiaries.
 
 ### 167A Method of contracting
 (1) An institution may enter into a contract or other enforceable obligation as provided in this section.
@@ -4576,6 +4612,7 @@ In this Part, unless the context otherwise requires,—
 (5) This section applies to a contract or other enforceable obligation—
   (a) whether or not that obligation was entered into in New Zealand; and
   (b) whether or not the law governing that obligation is the law of New Zealand.
+(6) This section does not apply to NZIST or its subsidiaries.
 
 **Constitution of councils**
 
@@ -4586,15 +4623,15 @@ In this Part, unless the context otherwise requires,—
 (1) For the purpose of advising the Minister as to the constitution for the council of a body that is, or is to be, established under section 162(2), the Minister shall appoint a committee (in this section referred to as an establishment committee) consisting of 3 persons.
 (2) The establishment committee shall recommend to the Minister a constitution for the council that is, in the opinion of that committee, appropriate for the institution and complies with the requirements of section 171.
 (3) When the establishment committee has recommended a constitution for the council in accordance with subsection (2), the Minister shall, by notice published in the Gazette, determine the constitution of the council in accordance with the recommendation.
-(4) Subsections (1) to (3) do not apply to the constitution for the council of a body that is, or is to be, established under section 162(2) as a polytechnic (for which sections 222AA and 222AM provide).
+(4) This section does not apply to the membership of NZIST’s council.
 
 ### 170 Amendment of constitution
 (1) If, after the constitution of a council has been determined, the council recommends to the Minister that the constitution be amended in a manner that complies with the requirements of section 171, the Minister shall, by notice published in the Gazette, amend the constitution in accordance with the recommendation.
-(2) Subsection (1) does not apply to the council of a designated polytechnic.
+(2) Subsection (1) does not apply to NZIST’s council.
 
 ### 170A Constitution to provide for membership of council
 (1) The constitution of a council must provide that it has 8, 9, 10, 11, or 12 members.
-(2) Subsection (1) does not apply to the constitution of the council of a designated polytechnic.
+(2) Subsection (1) does not apply to the membership of NZIST’s council (for which section 222G provides).
 
 ### 171 Membership of council
 (1) The council of an institution must have a total of 8, 9, 10, 11, or 12 members, as provided in its constitution, comprising—
@@ -4602,7 +4639,7 @@ In this Part, unless the context otherwise requires,—
     (i) 4 members (in the case of a council comprising 10, 11, or 12 members):
     (ii) 3 members (in the case of a council comprising 8 or 9 members); and
   (b) enough members appointed by the council by resolution, in accordance with its statutes, to bring the membership up to that total number.
-(2) Subsection (1) does not apply to the membership of the council of a designated polytechnic (for which sections 222AA and 222AM provide).
+(2) Subsection (1) does not apply to the membership of NZIST’s council (for which section 222G provides).
 
 ### 171A Certain people disqualified from appointment
 (1) A person cannot be appointed as a member of the council of an institution if he or she—
@@ -4614,7 +4651,7 @@ In this Part, unless the context otherwise requires,—
   (d) is a bankrupt—
     (i) who has not obtained his or her order of discharge; or
     (ii) whose order of discharge has been suspended for a term not yet expired or is subject to conditions not yet fulfilled.
-(2) Subsection (1) does not apply to the membership of the council of a designated polytechnic (for which section 222AA provides).
+(2) Subsection (1) does not apply to the membership of NZIST’s council (for which section 222G(2) provides).
 
 ### 171B Matters to be considered when appointing members
 (1) It is desirable that the council of an institution should, so far as is reasonably practicable, reflect—
@@ -4641,10 +4678,10 @@ In this Part, unless the context otherwise requires,—
   (a) the permanent members of the teaching or general staff of the institution; or
   (b) the students of the institution.
 (2E) Before making an appointment under this section, the Minister must seek, and consider, nominations from the relevant council.
-(3) This section does not apply to the membership of the council of a designated polytechnic (for which section 222AD provides).
+(3) This section does not apply to the membership of NZIST’s council (for which section 222H provides).
 
 ### 171C Statutes relating to appointment of members by councils of institutions
-(1) The council of an institution may make statutes relating to the appointment of members under section 171(1)﻿(b) (or, as the case requires, section 222AA(1)﻿(b)).
+(1) The council of an institution may make statutes relating to the appointment of members under section 171(1)﻿(b).
 (2) In respect of any of the appointments the council has power to make, the statutes—
   (a) may provide for direct appointment by the council of a member chosen by the council; or
   (b) may require the council to appoint a member—
@@ -4661,6 +4698,7 @@ In this Part, unless the context otherwise requires,—
     (ii) is likely to be able to fulfil his or her individual duties to the council; and
     (iii) together with the other members of the council, is capable of undertaking its responsibilities, duties, and functions.
 (6) Subsections (2) to (4) do not limit the generality of section 194.
+(7) This section does not apply to the membership of NZIST’s council.
 
 ### 171D Limitations on number of occasions on which people may be appointed as members of councils
 (1) The constitution of the council of an institution must contain a provision limiting the number of occasions on which a person may be appointed as a member of the council.
@@ -4669,7 +4707,7 @@ In this Part, unless the context otherwise requires,—
   (a) appointed, elected, or co-opted, (otherwise than to fill a casual vacancy) before the commencement of section 7 of the Education Amendment Act 2015; or
   (b) appointed on or after that commencement.
 (4) Except as provided in subsection (2), a person is not ineligible for appointment as a member of the council of an institution just because he or she has previously been a member of the council.
-(5) Subsections (1) to (3) do not apply to the council of a designated polytechnic (for which section 222AF provides).
+(5) This section does not apply to NZIST’s council.
 
 ### 171E Membership of more than 1 council
 A person who is a member of the council of an institution may be appointed as a member of the council of another institution (whether or not they are institutions of the same kind).
@@ -4682,7 +4720,7 @@ A person who is a member of the council of an institution may be appointed as a 
   (d) a disqualification of a member of the council or committee; or
   (e) a vacancy or vacancies in the membership of the council or committee; or
   (f) a defect in the convening of any meeting.
-(2) Subsection (1) does not apply to the council of a designated polytechnic (for which section 222AA provides).
+(2) This section does not apply to NZIST’s council (for which section 222G(3) provides).
 
 ### 172 Transitional provisions relating to an institution's first council
 [Repealed]
@@ -4694,6 +4732,7 @@ A person who is a member of the council of an institution may be appointed as a 
     (i) the day on which his or her appointment takes effect; and
     (ii) the term for which he or she is appointed.
 (2) If the term of office of a member of a council expires before a successor is appointed, he or she continues in office until his or her successor's appointment takes effect.
+(3) This section does not apply to appointments to NZIST’s council (for which section 222J provides).
 
 ### 174 Vacation of office
 (1) A member of a council may resign as a member by written notice signed by the member and given to the chief executive.
@@ -4715,6 +4754,7 @@ A person who is a member of the council of an institution may be appointed as a 
   (b) the member is not capable of acting as a member during the period of suspension; and
   (c) the suspension continues until the property order made under section 30 of the Protection of Personal and Property Rights Act 1988 ceases to be in force (but this does not affect any powers of the council under subsection (3) in respect of the member).
 (4) The chief executive shall send to the member concerned a letter setting out the terms of the resolution dismissing or suspending the member.
+(5) This section does not apply to a member of NZIST’s council.
 
 ### 175 Disclosure of interest
 (1) A member of, or of a committee of, a council who has an interest in a matter being considered or about to be considered by the council or committee, as the case may be, shall, as soon as possible after the relevant facts have come to the member's knowledge, disclose the nature of the interest at a meeting of the council or committee.
@@ -4731,6 +4771,7 @@ A person who is a member of the council of an institution may be appointed as a 
     (ii) appoint another person using it.
 (2) If the office becomes vacant within 6 months before the end of the member's term of office, the Minister or council (as the case may be) may decide that the vacancy does not need to be filled under this section.
 (3) Sections 173 and 174 apply to an appointment under this section.
+(4) This section does not apply to appointments to NZIST’s council.
 
 ### 176A Individual duties of members of councils
 (1) A member of the council of an institution, when acting as a member of the council in any circumstances,—
@@ -4754,15 +4795,17 @@ A person who is a member of the council of an institution may be appointed as a 
   (a) a member of the council of an institution has in his or her capacity as a member of the council; and
   (b) would not otherwise be available to him or her.
 (4) Subparagraphs (i) to (iii) of paragraph (b) of subsection (1) do not limit the generality of that paragraph.
+(5) This section does not apply to a member of NZIST’s council.
 
 ### 176B Accountability for individual duties
 (1) The duties of a member of the council of an institution (council member) under section 176A (individual duties) are duties owed to the Minister and the council.
-(2) A council member who does not comply with his or her individual duties may be removed from office under section 176C or 222AJ (as the case requires).
+(2) A council member who does not comply with his or her individual duties may be removed from office under section 176C.
 (3) The council of an institution may bring an action against a council member for breach of any individual duty.
 (4) Except as provided in subsections (2) and (3), a council member is not liable for a breach of an individual duty.
 (5) This section does not affect any other ground for removing a council member from office.
 (6) Subsection (4) does not affect anything for which a council member may be liable under any other Act or rule of law arising from the act or omission that constitutes the breach concerned.
 (7) Subsection (4) does not affect anything for which a council member who is the chief executive of the institution concerned may, as chief executive, be liable under this Act or any other Act or rule of law, arising from the act or omission that constitutes the breach concerned.
+(8) This section does not apply to a member of NZIST’s council.
 
 ### 176C Removal of members
 (1) If the council of an institution believes that the actions of a member may justify his or her removal from office, it must give the Minister a written report stating—
@@ -4777,7 +4820,7 @@ A person who is a member of the council of an institution may be appointed as a 
 (5) The Minister must notify the removal in the Gazette as soon as practicable after giving the notice.
 (6) This section does not limit or affect section 174.
 (7) For the purposes of subsection (2), just cause includes misconduct, inability to perform the functions of office, neglect of duty, and breach of any of the collective duties of the council or the individual duties of members (depending on the seriousness of the breach).
-(8) Subsections (1) to (7) do not apply to the removal from office of a member of the council of a designated polytechnic (for which section 222AJ provides).
+(8) This section does not apply to the removal from office of a member of NZIST’s council.
 
 ### 176D Process for removal
 The Minister may remove a member of the council of an institution under section 176C with as little formality and technicality, and as much expedition, as is permitted by—
@@ -4808,7 +4851,7 @@ The Minister may remove a member of the council of an institution under section 
 (6A) Subsection (6) overrides subsections (4) and (5).
 (7) The chairperson of the council of a university may be referred to as the Chancellor or by such other title as the council determines and the chairperson of the council of an institution other than a university may be referred to by such title (other than Chancellor or another title that includes the word Chancellor) as the council determines.
 (8) The deputy chairperson of the council of a university may be referred to as the Pro-Chancellor or by such other title as the council determines and the deputy chairperson of the council of an institution other than a university may be referred to by such title (other than Pro-Chancellor or another title that includes the word Chancellor) as the council determines.
-(9) Subsections (1) to (8) do not apply to the chairperson and deputy chairperson of the council of a designated polytechnic (for which section 222AG provides).
+(9) This section does not apply to the chairperson or deputy chairperson of NZIST’s council (for which section 222I provides).
 
 ### 178 Meetings of councils
 (1) The chairperson of a council may convene meetings to be held at such places and times as he or she determines.
@@ -4831,6 +4874,7 @@ The Minister may remove a member of the council of an institution under section 
 (1) A member of a council other than the chief executive may be paid fees at such rates (not exceeding maximum rates fixed by the Minister in accordance with the fees framework) as the council determines.
 (2) A member of a council of an institution is entitled, in accordance with the fees framework, to be reimbursed, out of the funds of the entity, for actual and reasonable travelling and other expenses incurred in carrying out his or her office as a member.
 (3) For the purposes of this section, fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest, including statutory entities and their subsidiaries and tertiary education institutions.
+(4) This section does not apply to a member of NZIST’s council.
 
 **Functions and duties of councils**
 
@@ -4846,7 +4890,7 @@ The Minister may remove a member of the council of an institution under section 
 (2)
 
 ### 181 Duties of councils
-It is the duty of the council of an institution, in the performance of its functions and the exercise of its powers,—
+(1) It is the duty of the council of an institution, in the performance of its functions and the exercise of its powers,—
   (a) to strive to ensure that the institution attains the highest standards of excellence in education, training, and research:
   (b) to acknowledge the principles of the Treaty of Waitangi:
   (c) to encourage the greatest possible participation by the communities served by the institution so as to maximise the educational potential of all members of those communities with particular emphasis on those groups in those communities that are under-represented among the students of the institution:
@@ -4855,6 +4899,7 @@ It is the duty of the council of an institution, in the performance of its funct
   (f) to ensure that proper standards of integrity, conduct, and concern for—are maintained.
     (i) the public interest; and
     (ii) the well-being of students attending the institution—
+(2) In addition, NZIST’s council must comply with section 97 of the Crown Entities Act 2004 in respect of its subsidiaries.
 
 ### 182 Determination of policy
 (1) In determining the policy of an institution with respect to any matter relating to the institution, the council of the institution shall consult with any board, committee, or other body established within the institution that has responsibility for giving advice in relation to, or for giving effect to, the policy of the institution with respect to that matter.
@@ -4864,6 +4909,7 @@ It is the duty of the council of an institution, in the performance of its funct
 (3) The academic board shall be deemed for the purposes of section 222 to be a committee appointed by the council under section 193(2)﻿(i).
 (4) Without limiting the generality of subsection (1), the council of an institution shall not make any decision or statute in respect of any academic matter referred to in subsection (2) unless it has requested the advice of the academic board and considered any advice given by the academic board.
 (5) Without derogating from the duties of the council of an institution under subsections (1) and (4), a decision or statute made by the council is not invalid merely because of a failure of the council to comply with either of those subsections.
+(6) This section does not apply to NZIST (for which section 222K provides).
 
 ### 183 Personal liability
 No member of the council of an institution is personally liable for any act done or omitted by the member or by the council—
@@ -4948,17 +4994,18 @@ No member of the council of an institution is personally liable for any act done
   (b) to grant fellowships, scholarships, bursaries, or prizes:
   (c) to authorise the making of grants or loans out of the money of the institution to the chief executive, to members of the staff or students of the institution, or to any association of staff or students, on such terms and conditions as the council thinks fit and guarantee loans made by other persons to the chief executive or members of the staff of the institution for housing purposes:
   (d) to accept gifts, devises, and bequests made to the institution, whether on trust or otherwise:
-  (e) to agree to the disestablishment of the institution and its incorporation in another institution of the same class or a different class (for example, the council of a polytechnic may agree to the disestablishment of the polytechnic and its incorporation in a university):
-  (ea) to agree to the incorporation in the institution of another institution or other institutions, whether of the same class as itself or a different class from itself (for example, the council of a university may agree to the incorporation of a polytechnic in the university):
+  (e) to agree to the disestablishment of the institution and its incorporation in another institution of the same class or a different class:
+  (ea) to agree to the incorporation in the institution of another institution or other institutions, whether of the same class as itself or a different class from itself:
   (f) to arrange for the manufacture of, and distribute (whether by way of sale or otherwise), any article or thing bearing a mark, symbol or writing that is associated with the institution:
   (g) to arrange for the provision of (whether by sale or otherwise) goods and services to staff or students of the institution or other persons using, or otherwise attending at, facilities of the institution:
   (h) to prescribe fees payable by students of the institution or any of them:
   (i) to establish boards or other bodies within the institution to give advice to the council:
   (j) to do anything incidental to the exercise of any of the preceding powers.
+(2A) Subsection (2)﻿(e) and (ea) does not apply to NZIST’s council.
 (3) The council of an institution has power to appoint committees consisting of such persons, whether or not members of the council, as the council determines to exercise such powers as are delegated to them under section 222 and such powers as are conferred on them by statutes made by the council, and to alter, discharge, and reconstitute committees so appointed.
 
 ### 194 Statutes
-(1) The council of an institution may make statutes, not inconsistent with this Act or the State Sector Act 1988, with respect to any of the following matters:
+(1) The council of an institution and the board of an NZIST subsidiary may make statutes, not inconsistent with this Act or the State Sector Act 1988, with respect to any of the following matters:
   (a) the good government and discipline of the institution:
   (b) the imposition, by or on behalf of the council, of penalties upon staff or students of the institution for contravention of or failure to comply with a statute with respect to a matter referred to in paragraph (a):
   (c)
@@ -4970,14 +5017,15 @@ No member of the council of an institution is personally liable for any act done
   (i) the provision of superannuation or retirement benefits for, or in respect of, the chief executive or members of the staff of the institution:
   (ia) any of the matters stated in section 171C:
   (j) any other matter required or permitted by this Act to be provided for by statutes.
+(1A) Subsection (1)﻿(ia) does not apply to NZIST’s council or the board of an NZIST subsidiary.
 (2) If the council of an institution makes a statute under subsection (1)﻿(b) providing for the imposition of penalties upon staff or students of the institution, the statute shall provide for the council, if so requested by a member of the staff or a student upon whom a penalty is imposed, to review, or arrange for the review of, the amount of the penalty, the imposition of the penalty, or both.
 
 ### 195 Trust property
-Notwithstanding anything contained in this Act or any other enactment relating to the institution, any real or personal property held by an institution upon trust shall be dealt with in accordance with the powers and duties of the institution as trustee.
+Despite anything to the contrary in this Act or any other enactment relating to the institution (including NZIST and its subsidiaries), any real or personal property held by the institution upon trust must be dealt with in accordance with the powers and duties of the institution as trustee.
 
 **Institutions at risk**
 
-### 195A Criteria for risk assessment of institutions
+### 195A Criteria for risk assessment of institutions (other than NZIST)
 (1) The Secretary must, after consulting institution councils, determine—
   (a) criteria for assessing the level of risk to the operation and long-term viability of institutions; and
   (b) criteria for assessing the level of risk to the education performance of the students enrolled at polytechnics.
@@ -4987,6 +5035,7 @@ Notwithstanding anything contained in this Act or any other enactment relating t
   (b) the criteria determined may be in addition to, or instead of, those determined for other institutions.
 (2) The Secretary must publish criteria determined under subsection (1) in the Gazette.
 (3) Criteria determined under this section must be reviewed at least once in every 2 years following the date of their publication in the Gazette.
+(4) This section does not apply to NZIST’s council (for which section 222P provides).
 
 ### 195B Institutions to provide information if required
 (1) The chief executive of the Commission may, if he or she has reasonable grounds to believe that an institution may be at risk, by written notice to the council of an institution, require the council to provide either or both of the following:
@@ -4996,6 +5045,7 @@ Notwithstanding anything contained in this Act or any other enactment relating t
 (3) A council that receives a notice under subsection (1) must provide the chief executive of the Commission with the required information within or at the time or times specified in the notice.
 (4) The chief executive of the Commission may revoke or amend any notice given under subsection (1).
 (5) In this section, Commission means the Tertiary Education Commission established under section 159C.
+(6) This section does not apply to NZIST’s council (for which section 222Q provides).
 
 ### 195C Minister may appoint Crown observer
 (1) If the Minister considers on reasonable grounds that the operation or long-term viability of an institution is at risk, he or she may appoint a Crown observer to the council of the institution.
@@ -5012,6 +5062,7 @@ Notwithstanding anything contained in this Act or any other enactment relating t
 (6) A Crown observer is not a member of the council or any committee of the council, and may not—
   (a) vote on any matter; or
   (b) exercise any of the powers, or perform any of the functions or duties, of a member of the council.
+(7) This section does not apply to NZIST or its subsidiaries (for which section 222R provides).
 
 ### 195D Minister may dissolve council and appoint commissioner
 (1) The Minister may, by written notice, dissolve the council of an institution and appoint a commissioner to act in place of the council if the Minister believes on reasonable grounds that—
@@ -5034,6 +5085,7 @@ Notwithstanding anything contained in this Act or any other enactment relating t
 (6) When a commissioner is appointed under this section, the Minister must review the appointment at least once in every 12 months following the appointment.
 (7) As soon as the Minister is satisfied (following an annual review or at any other time) that the risk that gave rise to the appointment of the commissioner has reduced to such an extent that it is appropriate that the institution be administered by a council, a new council must be appointed in accordance with the constitution of the council most recently notified in the Gazette.
 (8) A commissioner's appointment ends on the close of the day before a new council takes office.
+(9) This section does not apply to NZIST or its subsidiaries (for which section 222X provides).
 
 ### 195DA Protection of commissioners
 A commissioner appointed under section 195D(1) is not personally liable for an act he or she has done or omitted to do, or for any loss arising from that act or omission, if he or she was acting—
@@ -5094,6 +5146,7 @@ No later than 5 years from the date on which sections 195A to 195F come into for
 (1) The council of an institution may establish, maintain and operate bank accounts in the name of the institution at any registered bank or any registered building society with which a Crown entity may establish, maintain, or operate a bank account under section 158 of the Crown Entities Act 2004.
 (2) As soon as is practicable after receiving any money, the council shall pay it into one or other of the institution's bank accounts.
 (3) The council shall properly authorise every withdrawal and payment of money from any of the institution's bank accounts.
+(4) This section does not apply to NZIST’s council.
 
 ### 201 Proper accounts to be kept
 Section 168(1) and (2) of the Crown Entities Act 2004 applies to a council of an institution.
@@ -5157,8 +5210,8 @@ The money of an institution shall be applied only—
 
 ### 203 Institutions are Crown entities
 (1) Every institution is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) However, that Act applies to tertiary education institutions only to the extent that subsection (3) provides.
-(3) The provisions of that Act set out in Schedule 4 of that Act and Schedule 13A of this Act apply to tertiary education institutions and their Crown entity subsidiaries (within the meaning of that Act).
+(2) However, that Act applies to tertiary education institutions and their Crown entity subsidiaries only to the extent that subsection (3) provides.
+(3) The provisions of the Crown Entities Act 2004 set out in Part 1 of Schedule 4 of that Act and Part 1 of Schedule 13A of this Act apply to all tertiary education institutions and their Crown entity subsidiaries (within the meaning of the Crown Entities Act 2004).
 (4) Section 65I(1) and (2) of the Public Finance Act 1989—
   (a) applies, with all necessary modifications, to tertiary education institutions and, accordingly, every institution must invest in the same manner as the Treasury invests money under that section; but
   (b) does not apply in respect of any investment made by an institution in the financial products of a related entity.
@@ -5420,28 +5473,14 @@ The council of an institution shall ensure that copies of its annual report are 
 (11) This section applies to the academic board of an institution (established under section 182(2)) as if—
   (a) it is a committee of the institution's council; and
   (b) all its powers are powers of the council, conferred on the committee by the council by delegation.
+(12) This section does not apply to NZIST’s council.
 
-## Part 15A — Special provisions relating to polytechnics
+## Part 15A — New Zealand Institute of Skills and Technology
 
 **Polytechnic councils**
 
 ### 222AA Constitution of polytechnic councils
-(1) The council of a designated polytechnic must have a total of 8, 9, or 10 members, as provided in its constitution, comprising—
-  (a) 4 members appointed by the Minister; and
-  (b) enough members appointed by the council by resolution, in accordance with its statutes, to bring the membership up to that total number.
-(1A) However, once the council of a designated polytechnic is established, it may, in accordance with its statutes, vary its size provided that the council has at least 8 members and no more than 10 members.
-(2) A person is not eligible for appointment or election as a member of the council of a designated polytechnic if—
-  (a) he or she is subject to a property order under the Protection of Personal and Property Rights Act 1988; or
-  (b) there has been made under that Act in respect of him or her a personal order that reflects adversely on his or her—
-    (i) competence to manage his or her own affairs in relation to his or her property; or
-    (ii) capacity to make or to communicate decisions relating to any particular aspect or aspects of his or her personal care and welfare; or
-  (c) he or she is a bankrupt who has not obtained his or her order of discharge, or whose order of discharge has been suspended for a term not yet expired or is subject to conditions not yet fulfilled; or
-  (d) he or she has at any time been removed from office as a member of a polytechnic council under section 222AJ.
-(3) No act or proceeding of, or of any committee of, the council of a designated polytechnic is invalid because of—
-  (a) a defect in the appointment or election of a member of the council or committee; or
-  (b) a disqualification of a member of the council or committee; or
-  (c) a defect in the convening of a meeting; or
-  (d) a vacancy or vacancies in the membership of the council or committee.
+[Repealed]
 
 ### 222AB Statutes relating to appointment of members by polytechnic councils
 [Repealed]
@@ -5450,54 +5489,16 @@ The council of an institution shall ensure that copies of its annual report are 
 [Repealed]
 
 ### 222AD Matters to be considered when appointments made
-(1) It is desirable in principle—
-  (a) that the council of a designated polytechnic should include Māori; and
-  (b) that, so far as is possible, the council of a designated polytechnic should reflect the ethnic and socio-economic diversity of the community it serves.
-(2) The Minister—
-  (a) must have regard to the principles in subsection (1) when appointing members of the council of a designated polytechnic; but
-  (b) must appoint people who (in the Minister's opinion) have enough experience of governance to fulfil their individual duties as members of the council and the functions, duties, and responsibilities of the council.
-(2A) Before making an appointment under this section, the Minister must seek, and consider, nominations from the relevant council.
-(3) The council of a designated polytechnic must appoint as members people who (in the council's opinion)—
-  (a) have relevant knowledge, skills, or experience; and
-  (b) are likely to be able to fulfil their individual duties as members of the council and the functions, duties, and responsibilities of the council.
-(4) When appointing members of a council, the council must ensure that—
-  (a) at least—
-    (i) 1 member is a permanent member of the teaching or general staff of the designated polytechnic that the permanent members of the teaching and general staff of the designated polytechnic have elected to represent them; or
-    (ii) 1 member is a permanent member of the teaching staff of the designated polytechnic that the permanent members of the teaching staff of the designated polytechnic have elected to represent them and 1 member is a permanent member of the general staff of the designated polytechnic that the permanent members of the general staff of the designated polytechnic have elected to represent them; and
-  (b) at least 1 member is a student—
-    (i) who is enrolled in the designated polytechnic; and
-    (ii) whom the students of the designated polytechnic have elected to represent them.
-(5) An elected person specified in subsection (4)—
-  (a) is to be treated as meeting any relevant knowledge, skills, or experience requirements; and
-  (b) must be appointed unless the person is ineligible for appointment under section 222AA(2).
-(6) A designated polytechnic or its council may not specify who is eligible to stand for election as a representative of—
-  (a) permanent members of the teaching or general staff of the designated polytechnic; or
-  (b) students of the designated polytechnic.
+[Repealed]
 
 ### 222AE Term of office
 [Repealed]
 
 ### 222AF Reappointment and re-election
-Any member of the council of a designated polytechnic can be reappointed for a second or later term.
+[Repealed]
 
 ### 222AG Chairperson and deputy chairperson
-(1) The Minister may at any time the council of a designated polytechnic has no chairperson or no deputy chairperson, by written notice to the member concerned stating the term for which the member is appointed, appoint as chairperson or deputy chairperson (as the case requires) of the council any member who is not one of the following:
-  (a) a student enrolled at the polytechnic:
-  (b) the chief executive of the polytechnic (or in the case of a combined council, of one of the polytechnics concerned):
-  (c) in the case of a council that is not a combined council, an employee of the polytechnic's chief executive:
-  (d) in the case of a combined council, an employee of the chief executive of one of the polytechnics concerned.
-(2) The Minister may at any time, by written notice to the member concerned, dismiss the chairperson or deputy chairperson of the council of a designated polytechnic from office as chairperson or deputy chairperson.
-(3) The Minister must not dismiss the chairperson or deputy chairperson without first consulting him or her on the proposed dismissal.
-(4) The Minister must give to the polytechnic council a copy of a notice under subsection (1) or (2).
-(5) The chairperson or deputy chairperson of the council of a designated polytechnic—
-  (a) may by written notice to the Minister resign as chairperson or deputy chairperson; and
-  (b) ceases to hold office as chairperson or deputy chairperson if he or she—
-    (i) ceases to be a member of the council; or
-    (ii) becomes the chief executive or a member of the staff of the polytechnic, or a student enrolled at the polytechnic.
-(6) The chairperson or deputy chairperson of the council of a designated polytechnic who resigns must give a copy of the notice of resignation to the council.
-(7) The chairperson or deputy chairperson of the council of a designated polytechnic holds office as chairperson or deputy chairperson for the term for which he or she was appointed (but may be reappointed), unless earlier he or she dies, is dismissed, resigns, or ceases to hold office by virtue of subsection (5)﻿(b).
-(8) Notwithstanding subsection (7), if the term of office of the chairperson or deputy chairperson of the council of a designated polytechnic expires before a successor is appointed, he or she continues in office until a successor is appointed, unless earlier he or she dies, is dismissed, resigns, or ceases to hold office by virtue of subsection (5)﻿(b).
-(9) The chairperson or deputy chairperson of the council of a designated polytechnic may be referred to by any title (other than Chancellor or Pro-Chancellor) the council determines.
+[Repealed]
 
 ### 222AH Duties of members of polytechnic councils
 [Repealed]
@@ -5506,182 +5507,338 @@ Any member of the council of a designated polytechnic can be reappointed for a s
 [Repealed]
 
 ### 222AJ Removal of members
-(1) The Minister may at any time, for just cause, remove a member of the council of a designated polytechnic from office.
-(2) The removal must be made by written notice to the member (with a copy to the council).
-(3) The notice must state—
-  (a) the day on which the removal takes effect, which must not be earlier than the day on which the notice is received; and
-  (b) the reasons for the removal.
-(4) The Minister must notify the removal in the Gazette as soon as is practicable after giving the notice.
-(5) This section does not limit or affect section 174.
-(6) For the purposes of subsection (1), just cause includes misconduct, inability to perform the functions of office, neglect of duty, and breach of any of the collective duties of the polytechnic council or the individual duties of members (depending on the seriousness of the breach).
+[Repealed]
 
 ### 222AK Process for removal
-The Minister may remove a member of the council of a designated polytechnic under section 222AJ with as little formality and technicality, and as much expedition, as is permitted by—
-  (a) the principles of natural justice; and
-  (b) a proper consideration of the matter; and
-  (c) the requirements of that section.
+[Repealed]
 
 **Combination of polytechnic councils**
 
 ### 222AL Voluntary combination of councils
-(1) The Minister may combine the polytechnic councils of 2 or more designated polytechnics if—
-  (a) each of them has (in a written report complying with subsection (2)) recommended that they should be combined; and
-  (b) he or she is satisfied that each of them has consulted the constituents of its polytechnic on the desirability of the combination of the councils.
-(2) Each report must recommend a constitution for any combined council that might be constituted, and state—
-  (a) the council's reasons for wishing to combine; and
-  (b) the results of the council's consultations.
+[Repealed]
 
 ### 222AM Constitution of combined councils
-(1) The Minister combines polytechnic councils by notice in the Gazette, stating—
-  (a) a constitution for the resulting combined council; and
-  (b) the day on which the combination takes effect.
-(2) The Minister must ensure that at least 50%, but no more than 60%, of the members of the combined council are members appointed by the council.
+[Repealed]
 
 ### 222AN Effect of combination
-(1) The combination of any polytechnic councils does not affect the individual status, identity, or character of the polytechnics concerned.
-(2) On the combination of any polytechnic councils,—
-  (a) the resulting combined council—
-    (i) is the successor of each of them; and
-    (ii) has all the obligations and rights each of them had immediately before their combination:
-  (b) every statute of any of them (other than a statute relating to the appointment of members under section 222AA(1)﻿(b))—
-    (i) becomes a statute of the combined council (and may be amended or repealed accordingly); but
-    (ii) until amended so as to apply to the others, applies only to the polytechnic by whose council it was made:
-  (c) every member of any of the polytechnic councils combined goes out of office:
-  (d) the assets and liabilities of each of the polytechnics concerned immediately before their combination continue to be assets and liabilities of that polytechnic:
-  (e) a person who immediately before their combination was the chief executive of any of the polytechnics concerned is still the chief executive of that polytechnic, but (without having been made or otherwise become redundant) becomes an employee of the combined council.
-(3) Neither the Crown nor a combined council is liable to make a payment to, or otherwise compensate, a person in respect of the person's going out of office as a member of a polytechnic council under subsection (2)﻿(c).
+[Repealed]
 
 ### 222AO Dissolution of combined council
-(1) The Minister may, on the recommendation of a combined council, dissolve it.
-(2) A combined council must not recommend that the Minister dissolve it without first consulting the constituents of the polytechnics concerned.
-(3) The Minister dissolves a combined council by notice in the Gazette stating the day on which the dissolution takes effect.
-(4) After the publication of the notice, and before the day stated in it, the combined council may make in respect of any of the polytechnics concerned any statutes it thinks necessary or desirable to enable the swift and efficient establishment of a polytechnic council for it.
+[Repealed]
 
 ### 222AP Effect of dissolution
-(1) On the dissolution of a combined council,—
-  (a) each of the polytechnics concerned must have a polytechnic council, as required by this Act:
-  (b) each polytechnic council has—
-    (i) any of the obligations and rights the former polytechnic council of the polytechnic had immediately before the establishment of the combined council; and
-    (ii) any of the obligations and rights the combined council had immediately before the dissolution that have arisen in relation to the polytechnic:
-  (c) every statute of the combined council that relates to all the polytechnics concerned (other than a statute relating to the appointment of members under section 222AA(1)﻿(b)) becomes a statute of each of them:
-  (d) every statute of the combined council that does not relate to all the polytechnics concerned (other than a statute relating to the appointment of members under section 222AA(1)﻿(b)) becomes a statute of the polytechnic to which it does relate (or, as the case requires, of each of the polytechnics concerned to which it does relate):
-  (e) every member of the combined council goes out of office:
-  (f) a person who immediately before the dissolution was the chief executive of any of the polytechnics concerned is still the chief executive of that polytechnic, but (without having been made or otherwise become redundant) becomes an employee of the polytechnic council established or to be established for it.
-(2) For the purposes of subsection (1)﻿(b)﻿(ii),—
-  (a) a combined council may, after the publication of the notice dissolving it, and before the day stated in the notice, determine that any of its obligations or rights have arisen in relation to a particular polytechnic; and
-  (b) the combined council's determination is binding on all the polytechnic councils established or to be established for the polytechnics concerned.
-(3) Neither the Crown nor a polytechnic council is liable to make a payment to, or otherwise compensate, a person in respect of the person's going out of office as a member of a combined council under subsection (1)﻿(e).
+[Repealed]
 
 ### 222AQ Initial membership of polytechnic councils after dissolution of combined council
-(1) Before the dissolution of a combined council, the Minister must appoint the members of each of the new polytechnic councils required by its constitution to be appointed by the Minister.
-(2) Other members of a new polytechnic council—
-  (a) may be appointed before the dissolution; and
-  (b) must be appointed within 3 months after the dissolution.
-(3) The appointment of a member of a new polytechnic council takes effect on the later of the day on which it is made and the dissolution.
-(4) If on the dissolution there is a vacancy in a polytechnic's new council, the Minister may, by written notice to any person who was a member of the combined council immediately before that day, authorise him or her to act as a member of the council until the vacancy is filled.
-(5) The Minister must give a copy of every notice under subsection (4) to the council concerned.
-(6) A person authorised under subsection (4) must for all purposes be treated as a member of the council concerned until the vacancy concerned is filled.
+[Repealed]
 
 **Combined academic boards**
 
 ### 222AR Polytechnic councils may establish combined academic boards
-(1) The councils of 2 or more designated polytechnics may, by written agreement,—
-  (a) establish a single, combined academic board for all the polytechnics concerned; or
-  (b) disestablish a combined academic board that (whether or not it was originally established for other polytechnics too) is now established for all the polytechnics concerned.
-(2) A combined council may, by resolution,—
-  (a) establish a single, combined academic board for all the polytechnics concerned; or
-  (b) disestablish a combined academic board that it has established for them.
-(3) A combined board must include—
-  (a) the chief executive of each of the polytechnics concerned; and
-  (b) at least one member of the staff of each of the polytechnics concerned; and
-  (c) at least one student of each of the polytechnics concerned.
-(4) The polytechnic council of a polytechnic for which a combined academic board has been established under subsection (1) may, by written notice to the other polytechnic council or councils concerned, opt out of the board (and if the board would then serve only one polytechnic, opting out disestablishes it).
-(5) As soon as is practicable after a combined academic board established under subsection (1) has been disestablished, each of the polytechnic councils concerned must establish an academic board for itself.
-(6) Section 182(1) applies to a combined academic board as if it were a board established within each of the polytechnics concerned.
-(7) For the purposes of section 222,—
-  (a) a combined academic board established under subsection (1) must, in relation to each of the polytechnic councils concerned, be treated as if it were a committee appointed by the council under section 193(2)﻿(i):
-  (b) a combined academic board established under subsection (2) must be treated as if it were a committee appointed by the combined council concerned under section 193(2)﻿(i).
-(8) In relation to every polytechnic council for which a combined academic board is established (and to its polytechnic), a reference to the academic board of an institution in a provision of this Act other than this section is a reference to the combined academic board.
+[Repealed]
 
 **Interventions**
 
-### 222A Specialist help
-(1) If he or she believes on reasonable grounds that a polytechnic, or the education performance of the students at a polytechnic, may be at risk, the chief executive of the Tertiary Education Commission may, by written notice to its polytechnic council, require the council to obtain specialist help.
-(2) The notice must state—
+### 222A NZIST established
+(1) This section establishes the New Zealand Institute of Skills and Technology (NZIST) as a tertiary education institution.
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister given after receiving a recommendation from NZIST’s council, do either or both of the following:
+  (a) change the name of NZIST:
+  (b) amend this Act or any other enactment by omitting from it the name of NZIST and substituting some other name.
+(3) To avoid doubt, NZIST does not cease to be a tertiary education institution merely because its name is changed under subsection (2).
+
+### 222B Functions of NZIST
+NZIST has the following functions:
+  (a) to provide or arrange, and support, a variety of education and training, including vocational, foundation, and degree-level or higher education and training:
+  (b) to conduct research, with a focus on applied and technological research:
+  (c) to be responsive to and to meet the needs of the regions of New Zealand and their learners, industries, employers, and communities by utilising NZIST’s national network of tertiary education programmes and activities:
+  (d) to improve the consistency of vocational education and training by using skill standards and working in collaboration with workforce development councils:
+  (e) to improve outcomes in the tertiary education system as a whole, including (without limitation) by making connections with schools and other organisations involved in tertiary education and by promoting and supporting life-long learning:
+  (f) to improve outcomes for Māori learners and Māori communities in collaboration with Māori and iwi partners, hapū, and other stakeholders:
+  (g) to carry out any other functions consistent with its role as a tertiary education institution.
+
+### 222C NZIST’s charter
+(1) NZIST must give effect to its charter as set out in Schedule 22.
+(2) NZIST must report in its annual report on how it has given effect to the charter.
+(3) The duty in subsection (1) is owed to the Minister.
+
+### 222D Minister may specify administrative regions for NZIST
+The Minister may, by notice in the Gazette, specify administrative regions of government with which NZIST must make arrangements to operate effectively with.
+
+### 222E Academic freedom of NZIST
+(1) It is declared to be the intention of Parliament in enacting the provisions of this Act relating to NZIST that NZIST’s academic freedom is to be preserved and enhanced.
+(2) NZIST’s academic freedom also applies in relation to every NZIST subsidiary that provides education or training, or both.
+(3) For the purposes of this section, academic freedom, in relation to NZIST, means—
+  (a) the freedom of academic staff and students, within the law, to question and test received wisdom, to put forward new ideas, and to state controversial or unpopular opinions; and
+  (b) the freedom of academic staff and students to engage in research; and
+  (c) the freedom of NZIST and its staff to regulate the subject matter of its courses; and
+  (d) the freedom of NZIST and its staff to teach and assess students in the manner they consider best promotes learning; and
+  (e) the freedom of NZIST through its chief executive to appoint its own staff.
+(4) In exercising academic freedom, NZIST must act in a manner that is consistent with—
+  (a) the need for institutions to maintain the highest ethical standards and the need to permit public scrutiny to ensure the maintenance of those standards; and
+  (b) the need for institutions to be accountable and to properly use resources allocated to them.
+(5) In performing their functions, NZIST’s council and its chief executive, Ministers, departments of State, authorities, and agencies of the Crown must act in all respects so as to give effect to the intention of Parliament as expressed in this section.
+(6) To avoid doubt,—
+  (a) nothing in subsection (3) limits or affects a workforce development council performing its functions under section 482(1)﻿(b) to (f); and
+  (b) the performance of those functions by the workforce development council does not limit or affect the academic freedom of NZIST as set out in subsection (3)﻿(a), (b), or (e).
+
+### 222F NZIST must establish regional divisions
+(1) NZIST must establish regional divisions for the purposes of—
+  (a) appointing members to a staff committee or a students’ committee established under section 222L:
+  (b) appointing directors to an NZIST subsidiary.
+(2) NZIST may make statutes for the purposes of subsection (1).
+
+**NZIST’s council**
+
+### 222G Membership of NZIST’s council
+(1) NZIST’s council must have at least 8, but not more than 12, members, as follows:
+  (a) 1 member must be a person who is a member of, and elected by, its staff committee; and
+  (b) 1 member must be a person who is a member of, and elected by, its students’ committee; and
+  (c) 1 member must be a person who is a member of, and elected by, its Māori advisory committee; and
+  (d) the rest of the members must be appointed by the Minister.
+(2) A person is not eligible for appointment under subsection (1) if—
+  (a) the person is subject to a property order under the Protection of Personal and Property Rights Act 1988; or
+  (b) a personal order has been made under that Act in respect of the person that reflects adversely on their—
+    (i) competence to manage their own affairs in relation to their property; or
+    (ii) capacity to make or to communicate decisions relating to any particular aspect or aspects of their personal care and welfare; or
+  (c) the person is a bankrupt who has not obtained an order of discharge, or whose order of discharge has been suspended for a term that has not yet expired or is subject to any conditions that have not yet been fulfilled; or
+  (d) the person has at any time been removed from office as a member of a council.
+(3) No act or proceeding of NZIST’s council, or any member or any committee of NZIST’s council, is invalid because of—
+  (a) a defect in the appointment or election of a member of the council or committee; or
+  (b) a disqualification of a member of the council or committee; or
+  (c) a defect in the convening of a meeting; or
+  (d) a vacancy or vacancies in the membership of a council or committee.
+(4) For the purposes of this section,—
+  (a) a person referred to in subsection (1)﻿(a) is a member of the council only while the person is a permanent member of the staff of NZIST or an NZIST subsidiary:
+  (b) a person referred to in subsection (1)﻿(b) is a member of the council only if the person is a student enrolled at NZIST or an NZIST subsidiary, but may continue to be a member of the council for a period of up to 12 months after the date on which their enrolment ends.
+(5) To avoid doubt,—
+  (a) all permanent members of NZIST’s or an NZIST subsidiary’s staff are eligible for appointment under subsection (1)﻿(a):
+  (b) all students enrolled at NZIST or an NZIST subsidiary are eligible for appointment under subsection (1)﻿(b), regardless of the delivery mode by which the student receives education or training (for example, on-campus learning, distance learning, or work-based training).
+
+### 222H Matters to be considered when Minister appoints members to NZIST’s council
+(1) It is desirable in principle that, as far as possible, NZIST’s council should reflect—
+  (a) the ethnic, gender, and socio-economic diversity, and the diversity of abilities, of New Zealand’s population; and
+  (b) the fact that New Zealand is made up of a number of regions.
+(2) When appointing members of NZIST’s council, the Minister must have regard to subsection (1) and must appoint people who (in the Minister’s opinion)—
+  (a) have relevant knowledge, skills, and experience in relation to governance, cultural competency, and the importance of diversity; and
+  (b) are likely to be able to fulfil their individual duties to the council; and
+  (c) together with the other members of the council, are capable of undertaking its responsibilities, duties, and functions.
+(3) A person specified in section 222G(1)﻿(a) and (b) is appointed by the council in accordance with the council’s statute unless the person is ineligible for appointment under section 222G(2).
+
+### 222I Chairperson and deputy chairperson
+(1) The Minister may appoint a chairperson and deputy chairperson of NZIST’s council from among its members by giving written notice to the member concerned stating the term for which the member is appointed as chairperson or deputy chairperson.
+(2) The Minister may, by written notice to the member concerned, dismiss the chairperson or deputy chairperson of NZIST’s council from office as chairperson or deputy chairperson.
+(3) However, the Minister must not dismiss the chairperson or deputy chairperson without first consulting them on the proposed dismissal.
+(4) The chairperson or deputy chairperson of NZIST’s council—
+  (a) may resign as chairperson or deputy chairperson by giving written notice to the Minister; and
+  (b) ceases to hold office if they—
+    (i) cease to be a member of NZIST’s council; or
+    (ii) become the chief executive of NZIST or a member of the staff of NZIST or an NZIST subsidiary; or
+    (iii) become a student enrolled at NZIST or an NZIST subsidiary.
+(5) A chairperson or deputy chairperson who resigns must give a copy of the notice of resignation to NZIST’s council.
+(6) The chairperson or deputy chairperson of NZIST’s council holds office as chairperson or deputy chairperson for the term for which they were appointed (but may be reappointed), unless the person earlier dies, is dismissed, resigns, or ceases to hold office under subsection (4)﻿(b).
+(7) If the term of office of the chairperson or deputy chairperson expires before a successor is appointed, the chairperson or deputy chairperson continues in office until their successor is appointed.
+
+### 222J Term of office
+(1) A member of NZIST’s council is appointed for a period not exceeding 4 years.
+(2) When appointing members of NZIST’s council under section 222G(1)﻿(d), the Minister must state in the notice appointing the member—
+  (a) the day on which the member’s appointment takes effect; and
+  (b) the term for which the member is appointed.
+
+**Additional provisions applying to NZIST’s council and NZIST subsidiaries**
+
+### 222K Determination of policy
+(1) In determining the policy of NZIST with respect to any matter, NZIST’s council must consult any board, committee, or other body established within NZIST that has responsibility for giving advice in relation to, or for giving effect to, the policy of NZIST with respect to the matter.
+(2) For the purposes of subsection (1), NZIST’s council must establish an academic board consisting of its chief executive and members of the staff and students of NZIST or an NZIST subsidiary to—
+  (a) advise it on matters relating to work-based learning, courses of study or training, awards, and other academic matters; and
+  (b) exercise powers delegated to it by the council.
+(3) Without limiting subsection (1), NZIST’s council must not make any decision or statute in respect of any academic matter referred to in subsection (2) unless it has requested the advice of the academic board and considered any advice given by the academic board.
+(4) However, a decision or statute made by NZIST’s council is not invalid merely because of a failure of the council to comply with either of subsections (1) and (3).
+
+### 222L NZIST’s council must establish advisory committees
+(1) NZIST’s council must establish a staff committee, a students’ committee, and a Māori advisory committee.
+(2) Each committee established under subsection (1) must be treated as a board established by the council under section 193(2)﻿(i).
+(3) Without limiting section 222K(1), NZIST’s council must—
+  (a) consult each committee established under subsection (1) on significant matters relating to its strategic direction that are relevant to the class of people represented by that committee; and
+  (b) consider any advice given on those matters or any other matters by the committee.
+(4) However, a decision or statute made by NZIST’s council is not invalid merely because of a failure of the council to comply with subsection (3).
+
+### 222M Membership of advisory committees
+(1) When appointing members of its staff committee or its students’ committee, NZIST’s council must ensure that—
+  (a) each committee consists of persons representing a minimum of each regional division of NZIST established under section 222F; and
+  (b) each member of the staff committee is a permanent member of the teaching or general staff of NZIST or an NZIST subsidiary whom the permanent members of the teaching and general staff of NZIST or an NZIST subsidiary have elected to represent them; and
+  (c) each member of the students’ committee is a student enrolled at NZIST or an NZIST subsidiary whom the students have elected to represent them.
+(2) When appointing members of its Māori advisory committee, NZIST’s council must determine in consultation with its Māori and iwi partners and stakeholders, the size and composition of the committee, but must ensure that the composition includes—
+  (a) representation from NZIST or any of its subsidiaries; and
+  (b) external people.
+
+### 222N NZIST must obtain consent for certain capital projects of NZIST or NZIST subsidiary
+(1) A capital project may be undertaken by NZIST or an NZIST subsidiary only if—
+  (a) the cost of, or level of risk of, the project to NZIST is below thresholds set by the Secretary under subsection (2); or
+  (b) the project is within a capital plan of NZIST approved in writing by the Secretary; or
+  (c) NZIST has obtained the written consent of the Secretary for the project.
+(2) The Secretary must, after consulting NZIST, set thresholds for the purposes of subsection (1)﻿(a) and publish those thresholds on an Internet site maintained by or on behalf of the Ministry.
+(3) This section applies despite section 201A (which relates to how institutions may use capital and income).
+
+### 222O NZIST subsidiary must obtain consent before exercising powers under section 192(4)
+Unless section 192(5) applies, an NZIST subsidiary must not exercise any of the powers in section 192(4) unless—
+  (a) it has notified NZIST in writing of the proposed exercise of the power; and
+  (b) NZIST has obtained the consent of the Secretary to the proposed exercise of the power by the NZIST subsidiary.
+
+**Interventions**
+
+### 222P Criteria for risk assessment of NZIST and related entities
+(1) For the purpose of exercising a power under any of sections 222R to 222X, the Secretary must, after consulting NZIST’s council, determine criteria for assessing the levels of risks to—
+  (a) NZIST and any related entity of NZIST; or
+  (b) the education and training performance of students enrolled at NZIST and any related entity of NZIST.
+(2) The Secretary must publish the criteria in the Gazette.
+(3) The criteria must be reviewed at least once in every 2 years following the date of their publication in the Gazette.
+(4) In this section and sections 222Q to 222U, related entity, in relation to NZIST, has the same meaning as in section 164A.
+
+### 222Q NZIST or related entity must provide information if required
+(1) If the chief executive of the Commission has reasonable grounds to believe that NZIST or a related entity of NZIST may be at risk, the chief executive may, by written notice to NZIST’s council, require the council to provide either or both of the following:
+  (a) specified information about the operation, management, or financial position of NZIST or a related entity of NZIST at a given time:
+  (b) reports at specified intervals on specific aspects of the operation, management, or financial position of NZIST or a related entity of NZIST.
+(2) If the chief executive of the Commission requires information under subsection (1), the information required must be information that relates to the risks to NZIST or the related entity that the chief executive of the Commission is concerned about.
+(3) If NZIST’s council receives a notice under subsection (1) it must provide the chief executive of the Commission with the required information within the period specified in the notice.
+(4) The chief executive of the Commission may revoke or amend any notice given under subsection (1).
+
+### 222R Minister may appoint Crown observer
+(1) This section applies if the Minister believes on reasonable grounds that—
+  (a) NZIST or a related entity of NZIST may be at risk; or
+  (b) the education and training performance of the students enrolled at NZIST or a related entity of NZIST may be at risk.
+(2) The Minister may appoint a Crown observer to NZIST’s council.
+(3) However, a Crown observer must not be appointed unless the Minister has first—
+  (a) consulted NZIST’s council; and
+  (b) advised NZIST’s council that the Minister is considering appointing a Crown observer; and
+  (c) given NZIST’s council an opportunity to comment on the proposal.
+(4) An appointment under this section must be in writing and must state the date on which it takes effect.
+(5) A Crown observer may—
+  (a) attend any meeting of NZIST’s council (or a committee or board of NZIST’s council) to which the Crown observer is appointed; and
+  (b) offer advice to NZIST’s council (or a committee or board of NZIST’s council); and
+  (c) report to the Minister on any matter raised or discussed at any meeting that the person attends as a Crown observer.
+(6) Except as authorised by subsection (5)﻿(c), a Crown observer must, at all times, maintain confidentiality with respect to the affairs of NZIST’s council.
+(7) A Crown observer is not a member of NZIST’s council (or a committee or board of NZIST’s council), and may not—
+  (a) vote on any matter; or
+  (b) exercise any of the powers, or perform any of the functions or duties, of a member of NZIST’s council.
+
+### 222S Specialist help
+(1) This section applies if the chief executive of the Commission believes on reasonable grounds that—
+  (a) NZIST or a related entity of NZIST may be at risk; or
+  (b) the education and training performance of the students enrolled at NZIST or a related entity of NZIST may be at risk.
+(2) The chief executive may, by written notice to NZIST’s council, require it—
+  (a) to obtain specialist help; or
+  (b) to obtain specialist help for a related entity of NZIST.
+(3) The notice must state—
   (a) the help or kind of help to be obtained; and
-  (b) the person or organisation, or kind of person or organisation, from whom or which it is to be obtained.
-(3) As soon as is reasonably practicable after receiving the notice, the council must comply with it.
-(4) The council must—
+  (b) the person or organisation, or kind of person or organisation, from whom or from which it is to be obtained.
+(4) As soon as is reasonably practicable after receiving the notice, NZIST’s council must comply with it.
+(5) NZIST’s council must—
   (a) provide the information and access, and do all other things, reasonably necessary to enable the person or organisation engaged to provide the help; and
   (b) to the extent that the help provided is advice, take the advice into account in performing its functions and duties; and
-  (c) pay the person or organisation's reasonable fees and expenses.
+  (c) pay the person or organisation’s reasonable fees and expenses.
 
-### 222B Performance improvement plans
-(1) If he or she believes on reasonable grounds that a polytechnic, or the education performance of the students at a polytechnic, may be at risk, the chief executive of the Tertiary Education Commission may, by written notice to its polytechnic council, require the council to prepare and give to him or her a draft performance improvement plan for the polytechnic.
-(2) The notice must state—
+### 222T Performance improvement plan
+(1) This section applies if the chief executive of the Commission believes on reasonable grounds that—
+  (a) NZIST or a related entity of NZIST may be at risk; or
+  (b) the education and training performance of the students enrolled at NZIST or a related entity of NZIST may be at risk.
+(2) The chief executive may, by written notice to NZIST’s council, require it to prepare and give to the chief executive a draft performance improvement plan for NZIST or a related entity of NZIST.
+(3) The notice must state—
   (a) the matters to be addressed by the draft plan; and
   (b) the outcomes that implementation of the draft plan is intended to achieve; and
   (c) the times by which those outcomes should be achieved; and
   (d) the performance measures that will be used to determine whether those outcomes have been achieved; and
-  (e) the day by which the draft plan must be given to him or her.
-(3) The council must prepare, and give to the chief executive of the Tertiary Education Commission by the stated day, a draft plan complying with subsection (2).
-(4) If the council complies with subsection (3), the chief executive of the Tertiary Education Commission may—
-  (a) approve the draft plan concerned; or
-  (b) after considering the draft plan, approve for the polytechnic some other plan complying with subsection (2) (whether a modified version of the draft plan or a different plan).
-(5) If the council does not comply with subsection (3), the chief executive of the Tertiary Education Commission may approve for the polytechnic any plan complying with subsection (2) the chief executive thinks appropriate.
-(6) The chief executive of the Tertiary Education Commission must not approve any plan other than a draft plan given to him or her by the council before discussing it with the council.
-(7) The council must take all reasonably practicable steps to implement a plan approved under this section.
+  (e) the date by which the draft plan must be given to the chief executive.
+(4) NZIST’s council must prepare, and give to the chief executive by the stated date, a draft plan that complies with subsection (3).
+(5) The chief executive may—
+  (a) approve the draft plan; or
+  (b) after considering the draft plan, approve for NZIST or the related entity some other plan that complies with subsection (3) (whether a modified version of the draft plan or a different plan).
+(6) If the council does not comply with subsection (4), the chief executive may approve for NZIST or the related entity (as the case may be) any plan that complies with subsection (3) that the chief executive thinks appropriate.
+(7) The chief executive must not approve any plan other than a draft plan given to the chief executive before discussing it with NZIST’s council.
+(8) NZIST’s council must take all reasonably practicable steps to implement a plan approved under this section.
 
-### 222C Crown manager
-(1) If he or she believes on reasonable grounds that there is a serious risk to the operation or long-term viability of a polytechnic, or that the education performance of the students at a polytechnic is at risk, the Minister may, by written notice to its polytechnic council, appoint a Crown manager for the polytechnic.
-(2) The Minister must not appoint the Crown manager without—
-  (a) giving the polytechnic's council written notice of—
-    (i) his or her intention to do so; and
-    (ii) his or her reasons for intending to do so; and
-  (b) allowing the council a reasonable time to respond to the notice; and
-  (c) considering any written submissions received from the council within that time.
-(3) Whether a time is reasonable in any particular case may depend (among other things) on the urgency of the matters the Crown manager will have to deal with.
-(4) The notice must state—
-  (a) the name of the Crown manager and the day on which his or her appointment takes effect; and
-  (b) the functions of the council to be performed by the Crown manager; and
+### 222U Minister may appoint Crown manager
+(1) This section applies if the Minister believes on reasonable grounds—
+  (a) that there is a risk to the operation or long-term viability of NZIST or a related entity of NZIST; or
+  (b) that the education and training performance of the students enrolled at NZIST or a related entity of NZIST is at risk.
+(2) The Minister may, by written notice to NZIST’s council, appoint a Crown manager for NZIST.
+(3) The Minister must not appoint a Crown manager under subsection (2) without—
+  (a) giving NZIST’s council written notice of the Minister’s intention to do so and the Minister’s reasons for intending to do so; and
+  (b) allowing NZIST’s council a reasonable time to respond to the notice; and
+  (c) considering any written submissions received from NZIST’s council within that time.
+(4) Whether a time is reasonable in any particular case may depend (among other things) on the urgency of the matters the Crown manager will have to deal with.
+(5) The notice must state—
+  (a) the name of the Crown manager and the day on which their appointment takes effect; and
+  (b) the functions of NZIST’s council to be performed by the Crown manager; and
   (c) any conditions subject to which the Crown manager may perform those functions; and
-  (d) any matters the Crown manager may advise the council on.
-(5) As soon as is practicable after appointing the Crown manager, the Minister must publish in the Gazette a notice stating that he or she has done so.
-(6) While there is a Crown manager appointed for the polytechnic,—
-  (a) the Crown manager may perform any of the functions stated in the notice appointing him or her; and—
-    (i) for that purpose has all the powers of the council; but
-    (ii) in performing any such function (and exercising any of those powers in order to do so) the Crown manager must comply with all relevant duties of the council; and
-  (b) the council—
-    (i) must not perform any of those functions; and
+  (d) any matters about which the Crown manager may advise NZIST’s council.
+(6) As soon as practicable after appointing a Crown manager, the Minister must notify the appointment in the Gazette.
+(7) While there is a Crown manager appointed for NZIST,—
+  (a) the Crown manager may perform any of the functions stated in the notice appointing them, and—
+    (i) for that purpose the Crown manager has all the powers of NZIST’s council; but
+    (ii) in performing any of those functions (and exercising any of those powers in order to do so), the Crown manager must comply with all relevant duties of NZIST’s council; and
+  (b) NZIST’s council—
+    (i) must not perform any of those functions; but
     (ii) must provide the information and access, and do all other things, reasonably necessary to enable the Crown manager to perform those functions and exercise those powers.
-(7) The Crown manager must perform any function under subsection (6)﻿(a) (and exercise any power in order to do so) in accordance with this Act; and, in particular, have regard to sections 160 and 161.
-(8) Subsection (7) does not limit the generality of subsection (6)﻿(a)﻿(ii).
-(9) The council must pay the Crown manager's reasonable fees and expenses.
-(10) If the Crown manager's appointment has not earlier been revoked, the Minister must consider whether the reasons for it still apply—
+(8) The Crown manager must perform any function under subsection (7)﻿(a) (and exercise any power in order to do so) in accordance with this Act and, in particular, must have regard to section 222E.
+(9) NZIST’s council must pay the Crown manager’s reasonable fees and expenses.
+(10) If the Crown manager’s appointment has not earlier been revoked, the Minister must consider whether the reasons for the appointment still apply—
   (a) no later than 12 months after it was made; and
-  (b) no later than 12 months after he or she last considered whether they still apply.
-(11) For the purpose of subsection (1),—
-  (a) there is a serious risk to the operation or long-term viability of a polytechnic if, according to criteria determined under section 195A(1), there is or is likely to be a serious level of risk to its operation or long-term viability; and
-  (b) the education performance of the students at a polytechnic is at risk if, according to criteria determined under section 195A(1), their education performance is at risk.
-(12) Subsection (11) does not limit or affect the generality of subsection (1).
+  (b) no later than 12 months after the Minister last considered whether they still apply.
 
-### 222D Protection of Crown managers
-A Crown manager is not personally liable for any act done or omitted by him or her, or for any loss arising out of any act done or omitted by him or her, if he or she did or omitted the act in good faith, in the course of performing his or her functions.
+### 222V Protection of Crown manager
+A Crown manager is not personally liable for any act done or omitted to be done by the Crown manager, or for any loss arising from that act or omission, if the Crown manager was acting—
+  (a) in good faith; and
+  (b) in the course of carrying out their functions.
 
-### 222E Powers may be used concurrently
-(1) Sections 222A to 222C do not limit or affect sections 195B to 195D.
-(2) To the extent that it is possible in practice, powers given by 2 or more of sections 195B, 195C, and 222A to 222C may be exercised concurrently in respect of the same polytechnic or polytechnic council.
+### 222W Powers may be used concurrently
+To the extent that it is possible in practice, powers given by 2 or more of sections 222Q to 222U may be exercised concurrently.
 
-### 222F Polytechnic council may request intervention
-If a polytechnic council requests the Minister or chief executive of the Tertiary Education Commission (as the case requires) to act under any of sections 195C and 195D and 222A to 222C, he or she—
-  (a) must consider any argument or evidence supplied by the council; and
+### 222X Minister may dissolve NZIST’s council and appoint commissioner
+(1) The Minister may, by written notice, dissolve NZIST’s council and appoint a commissioner to act in place of the council if the Minister believes on reasonable grounds that—
+  (a) there is a serious risk to the operation or long-term viability of NZIST; and
+  (b) other methods of reducing the risk have failed or appear likely to fail.
+(2) A notice under subsection (1) must specify—
+  (a) the date on which the dissolution and appointment take effect; and
+  (b) the name of the person appointed as commissioner.
+(3) The Minister may not exercise the power under subsection (1) unless the Minister has first—
+  (a) consulted NZIST’s council and any other interested parties over the possible need to dissolve the council and appoint a commissioner; and
+  (b) following that consultation, given the council written notice of the Minister’s preliminary decision that NZIST’s council should be dissolved and a commissioner appointed in its place; and
+  (c) allowed NZIST’s council at least 21 days in which to respond to the preliminary decision; and
+  (d) considered any submissions made by NZIST’s council about why the preliminary decision should not be confirmed.
+(4) As soon as practicable after giving a notice under subsection (1), the Minister must—
+  (a) publish a copy of it in the Gazette; and
+  (b) present a copy of it to the House of Representatives.
+(5) When a commissioner is appointed under this section, the Minister must review the appointment at least once in every 12 months following the appointment.
+(6) As soon as the Minister is satisfied (following an annual review or at any other time) that the risk that gave rise to the appointment of the commissioner has reduced to such an extent that it is appropriate that NZIST be administered by a council, a new council must be appointed in accordance with sections 222G to 222J.
+(7) A commissioner’s appointment ends on the close of the day before a new council takes office.
+(8) Sections 195DA, 195E, and 195F apply, with any necessary modifications, as if a commissioner appointed under subsection (1) were appointed under section 195D.
+
+### 222Y NZIST’s council may request intervention
+If NZIST’s council requests the Minister or the chief executive of the Commission (as the case may be) to act under any of sections 222R to 222X, the Minister or the chief executive—
+  (a) must consider any argument or evidence supplied by NZIST’s council; and
   (b) must consider whether or not to act under that section; but
-  (c) may then (if any necessary conditions are satisfied) act under another of those sections giving him or her power to act.
+  (c) may then (if any necessary conditions are satisfied) act under another of those sections giving them power to act.
+
+**Application of Crown Entities Act 2004 to NZIST’s council**
+
+### 222Z Additional provisions of Crown Entities Act 2004 that apply to NZIST’s council
+(1) The provisions of the Crown Entities Act 2004 specified in Part 2 of Schedule 4 of that Act and Part 2 of Schedule 13A of this Act apply to NZIST and NZIST’s council.
+(2) NZIST must be treated as a statutory entity for the purpose of applying those provisions.
+
+**Further provisions relating to NZIST subsidiaries**
+
+### 222ZA Formation of NZIST subsidiaries
+(1) NZIST may, with the written approval of the Minister, form 1 or more NZIST subsidiaries.
+(2) Schedule 25 specifies further provisions of this Act that apply and do not apply to an NZIST subsidiary formed under subsection (1) that provides education or training, or both.
+(3) The Governor-General may, by Order in Council made on the recommendation of the Minister, specify further provisions of this Act that apply to an NZIST subsidiary formed under subsection (1) that does not provide education or training, or both.
+
+### 222ZB Application of Schedule 23
+Schedule 23 applies to an NZIST subsidiary on its dissolution date (as defined in clause 1 of that schedule).
 
 ## Part 16 — Programmes and students
 
 ### 223 Programmes
-(1) Subject to subsection (2) and Part 20, the council of each institution may determine the programmes of study and training to be provided at the institution.
+(1) Subject to subsection (2), section 222E(6), and Part 20, the council of each institution may determine the programmes of study and training to be provided at the institution.
 (2) If the Minister believes on reasonable grounds that the provision or the continued provision of a particular programme of study or training at a particular institution would have significant implications for the allocation of the national resources available for tertiary education or vocational training, and would be contrary to the efficient use of those resources, the Minister may, after consulting the council of the institution and such other persons as the Minister considers appropriate, by written notice to the council setting out the reasons for giving the direction, direct the council that the institution is not to provide, or to continue to provide, that programme.
 (3) The power of the Minister under subsection (2) may be exercised only in relation to a programme of study or training as a whole and that subsection does not entitle the Minister to give a direction limited to particular subjects or other constituent elements of a programme of study or training.
 (4) The council of an institution shall comply with a direction given to it under subsection (2).
@@ -6109,10 +6266,10 @@ Every registered private training establishment must pay the Authority an annual
 
 **Fees for domestic students**
 
-### 234A Fees for domestic students must not exceed maximums set in conditions of funding
+### 234A Fees for domestic students and employers must not exceed maximums set in conditions of funding
 (1) A registered private training establishment that receives funding under section 159YA or 159ZC must not exceed the maximum amount when fixing a tuition fee or a fee of a particular kind for any programme or training scheme at the establishment.
-(2) If a registered private training establishment is given a direction under section 235D(4), the establishment must not fix, in relation to the amount that students may be charged for student services, a fee that exceeds the maximum amount specified in the direction.
-(3) In subsection (1), the maximum amount means the maximum specified in a condition imposed under section 159YC or 159ZD(2) (whichever is applicable) as being the maximum fee (or fee of that kind) that can be charged to a domestic student.
+(2) If a registered private training establishment is given a direction under section 235D(4), the establishment must not fix, in relation to the amount that students or employers may be charged for student services, a fee that exceeds the maximum amount specified in the direction.
+(3) In subsection (1), the maximum amount means the maximum specified in a condition imposed under section 159YC or 159ZD(2) (whichever is applicable) as being the maximum fee (or fee of that kind) that can be charged to a domestic student or an employer.
 
 **Information that must be given to prospective students**
 
@@ -6679,6 +6836,8 @@ In this Part, unless the context otherwise requires,—
   (b) to monitor and regularly review, and advise the Minister on, the standards for qualifications in relevant schools and in tertiary education, either generally or in relation to a particular organisation (within the meaning of section 159B) or a particular programme or training scheme:
   (c) to maintain mechanisms for the recognition of learning (for example, the recognition of learning through qualifications gained and standards met):
   (d) to maintain the Qualifications Framework and Directory of Assessment Standards:
+  (da) to monitor, through the exercise of its powers under this Act, compliance by workforce development councils with the prescribed quality assurance requirements, and to address non-compliance:
+  (db) to monitor the quality and results of a workforce development council’s systems and procedures for its moderation activities:
   (e) to make rules, not inconsistent with this Act, under any provision of this Part that empowers the Authority to make rules:
   (f) to ensure there are mechanisms in place to guarantee that relevant schools and tertiary education providers that provide programmes or training schemes that, in the view of the Authority, require national consistency have assessment and moderation procedures that are fair, equitable, and consistent, and comply with the appropriate standards:
   (g) to assist overseas governments, and agencies of those governments, by—
@@ -6728,7 +6887,7 @@ In this Part, unless the context otherwise requires,—
 
 ### 248B Standard-setting bodies
 (1) An approved standard-setting body includes—
-  (a) an industry training organisation within the meaning of the Industry Training and Apprenticeships Act 1992; and
+  (a) a workforce development council established under section 479; and
   (b) the Ministry of Education; and
   (c) the Authority; and
   (d) any other body approved by the Authority under subsection (3).
@@ -6741,7 +6900,7 @@ In this Part, unless the context otherwise requires,—
 **Approval of programmes**
 
 ### 249 Approval of programmes
-(1) In this section, institution includes any institution, government training establishment, registered establishment, relevant school, industry training organisation, or other body.
+(1) In this section, institution includes any institution, government training establishment, registered establishment, relevant school, or other body.
 (2) An institution may apply to the Authority for approval of a programme.
 (3) The Authority—
   (a) may grant or refuse to grant approval of the programme to the applicant; and
@@ -6786,7 +6945,7 @@ In this Part, unless the context otherwise requires,—
   (c) may grant accreditation without limitation as to time or for a specified period.
 (6) This section—
   (a) does not apply to any secondary school qualification or class of secondary school qualification that the Authority exempts, by notice in the Gazette, from the application of this section:
-  (b) does not apply to any workplace training components of any programmes:
+  (b)
   (c) is subject to section 253A.
 
 ### 250A Conditions on accreditation
@@ -6822,17 +6981,17 @@ In this Part, unless the context otherwise requires,—
 **Training schemes and consents to assess against standards**
 
 ### 251 Application for training scheme approval
-(1) In this section, institution includes any institution, government training establishment, registered establishment, relevant school, industry training organisation, or other body.
+(1) In this section, institution includes any institution, government training establishment, registered establishment, relevant school, or other body.
 (2) An institution may apply to the Authority for a grant of approval to provide a training scheme under this section.
-(3) An industry training organisation may apply jointly with an institution for a grant of approval to provide a training scheme if the scheme will be provided by the institution on behalf of the organisation.
+(3)
 (4) The Authority—
   (a) may grant or refuse to grant approval to the training scheme; and
   (b) must give the institution and any joint applicant written notice of its decision to grant or refuse approval; and
   (c) may grant approval without limitation as to time or for a specified period.
 (5) If the training scheme incorporates assessment standards listed on the Directory of Assessment Standards, the Authority must not grant training scheme approval until the institution has obtained consent to assess against those standards.
 (6) This section does not apply to—
-  (a) any secondary school qualification or class of secondary school qualification that the Authority exempts, by notice in the Gazette, from the application of this section:
-  (b) any workplace training component of any training scheme.
+  (a) any secondary school qualification or class of secondary school qualification that the Authority exempts, by notice in the Gazette, from the application of this section.
+  (b)
 
 ### 251A Conditions of training scheme approval
 (1) Every training scheme approval is subject to the condition that the institution will at all times comply with the relevant rules made under section 253 except to the extent that the Authority exempts the institution, by a condition on the approval, from compliance.
@@ -6858,7 +7017,7 @@ In this Part, unless the context otherwise requires,—
 **Consent to assess against standards**
 
 ### 252 Consent to assess against standards
-(1) In this section, institution includes any institution, government training establishment, registered establishment, relevant school, industry training organisation, or other body.
+(1) In this section, institution includes any institution, government training establishment, registered establishment, relevant school, or other body.
 (2) An institution that proposes to assess its students against standards listed on the Directory of Assessment Standards must apply to the Authority for a grant of consent to assess against those standards.
 (3) The Authority may grant or refuse consent to assess against those standards.
 (4) The Authority may withdraw a consent, but only after complying with subsection (5).
@@ -6900,14 +7059,15 @@ In this Part, unless the context otherwise requires,—
   (e) prescribing the requirements for the protection of student fees that must be met by a private training establishment, any person to whom section 234D applies, any agent or person purporting to act as an agent for a student or private training establishment, and any independent trustee:
   (f) prescribing matters relating to the general operation of the Qualifications Framework and the Directory of Assessment Standards:
   (g) prescribing the quality assurance requirements that must be met by providers of adult and community education:
-  (ga) prescribing the amount of, or the method for determining, the annual registration fee required under section 11F of the Industry Training and Apprenticeships Act 1992, and when and how that fee is payable:
-  (gb) prescribing quality assurance requirements for industry training organisations, including, without limitation, requirements relating to the matters described in section 13B of the Industry Training and Apprenticeships Act 1992:
+  (ga) prescribing the amount of, or the method for determining, the annual fee payable by a workforce development council and when and how that fee is payable:
+  (gb) prescribing quality assurance requirements for workforce development councils, including (without limitation) requirements relating to the performance of the relevant functions of workforce development councils:
+  (gc) prescribing matters relating to training packages:
   (h) providing for the review, amendment, removal, or alteration of the status of qualifications and standards, including their components (including where amendments to titles occur, consequential amendments to programmes of study or training titles, accreditations, and consents to assess against standards):
   (i) providing any special requirements for NCEA and other secondary school qualifications or awards for the purposes of the Qualifications Framework:
   (j) providing for the conduct of assessments and examinations relating to any qualifications or awards:
   (k) prescribing the details for credits, cross credits, recognition of prior learning, and moderation:
   (l) prescribing requirements for qualifications in respect of which the Authority is the qualifications developer:
-  (m) prescribing requirements relating to workplace training:
+  (m) prescribing requirements relating to work-based training:
   (n) providing for the following matters for the purposes of section 236A:
     (i) the kinds of enrolment and academic records that must be kept:
     (ii) the manner in which the records must be kept:
@@ -6963,15 +7123,15 @@ In this Part, unless the context otherwise requires,—
 
 ### 253C Minister may consent to use of certain terms in name or description of registered establishment or wananga
 (1)
-(2) A registered establishment may apply to the Minister for consent to describe itself using the term university, college of education, polytechnic, or institute of technology.
-(2A) A wananga may apply to the Minister for consent to describe itself using the term university, college of education, polytechnic, or institute of technology.
+(2) A registered establishment may apply to the Minister for consent to describe itself using the term university or college of education.
+(2A) A wananga may apply to the Minister for consent to describe itself using the term university or college of education.
 (3) Before deciding whether to grant consent under subsection (2) or (2A), the Minister must—
   (a) take into account the characteristics of institutions as described in section 162(4); and
   (b) receive advice on the application from the Authority and from the Commission; and
   (c) be satisfied that consenting to the application is in the interests of the tertiary education system and the nation as a whole; and
   (d) consult with the institutions, organisations representing institutions, and other relevant bodies that the Minister considers appropriate; and
   (e) in the case of a wananga, consult with such persons or bodies who are knowledgeable in āhuatanga Māori (Māori tradition) and tikanga Māori (Māori custom) within a kaupapa Māori pedagogy as the Minister considers appropriate.
-(4) In deciding whether to grant consent under subsection (2) or (2A) to the use of the term “institute of technology”, the relevant characteristics that the Minister must take into account are the characteristics of a polytechnic.
+(4)
 (5) The Minister may grant consent under subsection (2) or (2A) subject to conditions that the Minister considers reasonably necessary to—
   (a) ensure that students, employers, and members of the public are adequately informed of the legal status or characteristics of the registered establishment or wananga to which the consent is granted; and
   (b) ensure adequate protection of the quality and reputation of the institutions that may use the term without applying to do so; and
@@ -6984,7 +7144,7 @@ In this Part, unless the context otherwise requires,—
 **Fees**
 
 ### 254 Fees
-(1) In this section, institution includes any institution, government training establishment, registered establishment, relevant school, industry training organisation, or other body.
+(1) In this section, institution includes any institution, government training establishment, registered establishment, relevant school, workforce development council, or other body.
 (2) The Authority may—
   (a) charge fees to any person or institution for any of the following:
     (i) programme approval:
@@ -6999,8 +7159,8 @@ In this Part, unless the context otherwise requires,—
     (x) consent for the use by a registered establishment of certain terms in its name:
     (xi) reporting credits for the purposes of rules made under section 253(1)﻿(o) and (p):
   (b) charge fees to any person or institution for any services provided by the Authority, including fees in relation to sitting for an examination conducted by the Authority, in relation to the making of any assessment by the Authority, or in relation to the granting to any person of an award certifying that the person had passed such an examination or been so assessed:
-  (c) charge fees to any person or institution for any quality assurance activities undertaken by the Authority (including quality assurance activities undertaken in accordance with the Authority's functions under the Industry Training and Apprenticeships Act 1992):
-  (d) charge an application fee to a body corporate applying for recognition as an industry training organisation under section 6 of the Industry Training and Apprenticeships Act 1992.
+  (c) charge fees to any person or institution for any quality assurance activities undertaken by the Authority.
+  (d)
 (3) A fee may not be charged under subsection (2)﻿(b) to a person who is a student at a relevant school unless the Minister has consented to the charging of the fee.
 (4) All fees that are to be charged under subsection (2) must be—
   (a) published on an Internet site maintained by or on behalf of the Authority; and
@@ -7009,7 +7169,7 @@ In this Part, unless the context otherwise requires,—
 **Enforcement powers of Authority**
 
 ### 254A Power to obtain information
-(1) In this section, institution includes any institution, government training establishment, registered establishment, relevant school, industry training organisation, or other body.
+(1) In this section, institution includes any institution, government training establishment, registered establishment, relevant school, workforce development council, or other body.
 (2) The chief executive or a person authorised by the chief executive may, subject to subsection (3),—
   (a) by written notice to the Secretary, require the Secretary, within such period (being a reasonable period) as is specified in the notice, to supply to the Authority such information or documents relating to institutions, being information or documents in the possession of the Secretary, as are specified in the notice; and
   (b) by written notice to the chief executive of an institution, require the chief executive, within such period (being a reasonable period) as is specified in the notice, to supply to the Authority such information or documents relating to the institution as are specified in the notice.
@@ -7028,12 +7188,12 @@ In this Part, unless the context otherwise requires,—
 [Repealed]
 
 ### 255 Compliance notices
-(1) In this section, institution includes any institution, government training establishment, registered establishment, relevant school, industry training organisation, or other body.
+(1) In this section, institution includes any institution, government training establishment, registered establishment, relevant school, workforce development council, or other body.
 (2) The Authority may issue a compliance notice to an institution requiring the institution to do, or refrain from doing, a particular thing in relation to—
   (a) the institution's registration as a registered establishment; or
   (b) the institution's programme approvals, training scheme approvals, or accreditation; or
   (c) any consent that the institution has to assess against standards; or
-  (d) any quality assurance conditions on workplace training; or
+  (d) any quality assurance conditions on work-based training; or
   (e) any notice issued under section 254A(2)﻿(b).
 (3) Every compliance notice must be in writing and must—
   (a) state the date on which it is issued; and
@@ -7047,7 +7207,7 @@ In this Part, unless the context otherwise requires,—
   (b) if the notice related to a programme or training scheme approval, withdraw the approval, or impose new, or amend or revoke any existing, conditions on the approval; or
   (c) if the notice related to an accreditation, withdraw the accreditation, or impose new conditions, or amend or revoke any existing conditions on the accreditation; or
   (d) if the notice related to a consent to assess against standards, withdraw the consent, impose new conditions, or amend or revoke any existing conditions on the consent; or
-  (e) if the notice related to any quality assurance conditions on workplace training, withdraw the programme or training scheme approval to which the training relates, impose new conditions, or amend or revoke any existing conditions.
+  (e) if the notice related to any quality assurance conditions on work-based training, withdraw the programme or training scheme approval to which the training relates, impose new conditions, or amend or revoke any existing conditions.
 (8) The Authority may not do any of the things specified in subsection (7) until the later of—
   (a) 10 days from the date of issue of the notice; or
   (b) the expiry of the time or period referred to in subsection (3)﻿(b).
@@ -7399,14 +7559,8 @@ The chief executive is responsible for—
     (i) is a college of education; or
     (ii) is a registered establishment or wananga that has the Minister's consent under section 253C to use the term; or
     (iii) was a college of education but, despite being incorporated under section 164(4) into another institution, retains the characteristics of a college of education as set out in section 162(4)﻿(b)﻿(i):
-  (c) uses the term polytechnic to describe an educational establishment or facility unless the educational establishment or facility—
-    (i) is a polytechnic or institute of technology; or
-    (ii) is a registered establishment or wananga that has the Minister's consent under section 253C to use the term; or
-    (iii) was a polytechnic or institute of technology but, despite being incorporated under section 164(4) into another institution, retains the characteristics of a polytechnic as set out in section 162(4)﻿(b)﻿(ii):
-  (d) uses the term institute of technology to describe an educational establishment or facility unless the educational establishment or facility—
-    (i) is an institute of technology or a polytechnic; or
-    (ii) is a registered establishment or wananga that has the Minister's permission under section 253C to use the term; or
-    (iii) was an institute of technology or a polytechnic but, despite being incorporated under section 164(4) into another institution, retains the characteristics of a polytechnic as set out in section 162(4)﻿(b)﻿(ii).
+  (c) uses the term polytechnic to describe an educational establishment or facility unless the educational establishment or facility is NZIST or an NZIST subsidiary:
+  (d) uses the term institute of technology to describe an educational establishment or facility unless the educational establishment or facility is NZIST or an NZIST subsidiary.
 (2) A person (other than a university) commits an offence who grants or purports to grant an award that is described as a degree, or the description of which includes the word bachelor, master, doctor, or postgraduate, unless—
   (a) the person has the consent of the Qualifications Authority; or
   (b) as provided by section 192(11).
@@ -7594,7 +7748,7 @@ The chief executive is responsible for—
 (7) The Qualifications Authority shall give to the previous Authority and a Course Committee any assistance that the previous Authority or Course Committee requires for the purpose of complying with its obligations under or arising by virtue of subsection (6) and is responsible for paying any expenses incurred by the previous Authority or Course Committee (including remuneration and expenses of members of the previous Authority or Course Committee) in so complying.
 
 ### 299A Transitional and savings provisions relating to councils of tertiary institutions consequential on enactment of Education Amendment Act 2015
-The transitional and savings provisions relating to councils of tertiary institutions set out in Schedule 19 have effect for the purposes of the Education Amendment Act 2015.
+[Repealed]
 
 ### 299B Transitional and savings provisions relating to other matters consequential on enactment of Education Amendment Act 2015
 The transitional and savings provisions relating to other matters set out in Schedule 20 have effect for the purposes of the Education Amendment Act 2015.
@@ -8309,7 +8463,7 @@ In this Part, unless the context otherwise requires,—
 
 ### 321 Grants to educational bodies
 (1) An educational body may be paid grants out of public money appropriated by Parliament for the purpose on such conditions as the Minister thinks fit.
-(2) However, a grant may not be paid under this section to a tertiary education provider or an industry training organisation (as those terms are defined in section 159) unless the Minister is satisfied that payment under this section is in the national interest.
+(2) However, a grant may not be paid under this section to a tertiary education provider or a workforce development council (as those terms are defined in section 159) unless the Minister is satisfied that payment under this section is in the national interest.
 (3) The amount of every grant and the conditions subject to which it will be paid shall be determined by the Minister.
 (4) Before a grant is paid, the Minister may give the body written notice that the grant, or a part or parts of the grants (specified as a particular sum or as a proportion of the total grant), is not to be used except for purposes specified in the notice.
 (5) A body that has been given notice under subsection (4) shall ensure that no part of the grant to which the notice relates is used for purposes other than those specified for it in the notice.
@@ -9770,6 +9924,435 @@ The Secretary may, for the purpose of this Part, direct the governing authority 
 ### 476F Academic freedom unaffected
 Nothing in this Part limits the academic freedom of institutions set out in section 161.
 
+## Part 34 — Vocational education and training
+
+### 477 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **capstone assessment** , in relation to a student or trainee enrolled in a programme that leads to a qualification, means a final assessment that requires the student or trainee to demonstrate their overall achievement of knowledge, skills, and attributes set out in the graduate profile for the qualification
+  - **Commission** has the same meaning as in section 159(1)
+  - **employment agreement** has the same meaning as in the Employment Relations Act 2000
+  - **funding approval** has the same meaning as in section 159(1)
+  - **industry** means 2 or more enterprises that use—
+    (a) the same or similar inputs and methods of production to produce the same or similar products; or
+    (b) the same or similar methods to provide the same or similar services
+  - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
+  - **plan** has the same meaning as in section 159(1)
+  - **programme** has the same meaning as in section 159(1)
+  - **provider** means any of the following:
+    (a) NZIST:
+    (b) an NZIST subsidiary that provides education or training, or both:
+    (c) a government training establishment, a registered establishment, or a wananga within the meaning of those terms in section 159(1):
+    (d) a relevant school within the meaning of section 246
+  - **qualification** means a qualification listed on the Qualifications Framework
+  - **Qualifications Authority** has the same meaning as in section 159(1)
+  - **Qualifications Framework** means the framework described in section 248
+  - **registered establishment** has the same meaning as in section 159(1)
+  - **skill standard** —
+    (a) means a specification of skills, and levels of performance in those skills; and
+    (b) in relation to any vocational education and training (or proposed vocational education and training), means a specification of some or all of the skills in which training is (or is proposed to be) received, and the levels of performance in those skills intended to be attained by people receiving the training
+  - **specified industries** , in relation to a workforce development council, means the 1 or more specified industries covered by the workforce development council
+  - **trainee** —
+    (a) means an employee who has a training agreement; and
+    (b) includes an apprentice as defined in section 492
+  - **training agreement** has the same meaning as in section 159(1)
+  - **training package** , in relation to an industry-developed qualification,—
+    (a) means materials developed by a workforce development council that are designed to assist providers in developing and delivering programmes leading to the industry qualification and to enhance consistency of graduate outcomes in respect of the qualification; and
+    (b) includes (without limitation) core content, delivery modes, and assessment methods in respect of those programmes
+  - **training scheme** has the same meaning as in section 159(1)
+  - **vocational education and training** has the same meaning as in section 159(1)
+  - **work-based training** means systematic training and assessment (including apprenticeship training) in the skills characteristic of, or likely to be valuable to, persons engaged in an industry (or 2 or more industries) that is provided to persons engaged in that industry (or those industries)—
+    (a) by or on behalf of employers in that industry (or those industries); or
+    (b) for the benefit of employers and employees in that industry (or those industries).
+
+### 478 Training agreements and apprenticeship training agreements part of employment agreement
+Training agreements and apprenticeship training agreements are part of the employment agreement between the employee and employer concerned.
+
+### Subpart 1 — Workforce development councils
+
+### 479 Establishment of workforce development councils
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, establish a workforce development council for 1 or more specified industries.
+(2) An order made under subsection (1)—
+  (a) must—
+    (i) state the name of the workforce development council; and
+    (ii) state the 1 or more specified industries that the workforce development council covers; and
+    (iii) set out the governance arrangements for the workforce development council, including arrangements relating to the appointment, composition, suspension, or removal of members of the council; and
+    (iv) state the additional functions (if any) conferred on the workforce development council by the Minister in accordance with section 482(1)﻿(l); and
+  (b) may—
+    (i) outline the means by which the 1 or more specified industries covered by the workforce development council may engage with the council in relation to the performance or exercise of its functions, duties, or powers; and
+    (ii) prescribe matters relating to the workforce development council’s use of its assets, including any assets allocated to the council from a transitional ITO under clause 55 of Schedule 1 or to any other industry body; and
+    (iii) impose conditions on the performance or exercise of the workforce development council’s functions, duties, or powers; and
+    (iv) provide for any other matters that are necessary or desirable to clarify the governance arrangements of the workforce development council.
+(3) In making a recommendation relating to the governance arrangements for a workforce development council, the Minister must, as far as is reasonably practicable, ensure that those arrangements provide for—
+  (a) the collective representation of employers and employees in the 1 or more specified industries covered by the workforce development council in the governance of the council; and
+  (b) the representation on the council of Māori employers from any or all of the 1 or more specified industries.
+(4) The Minister must not recommend the making of an order under subsection (1) or a significant amendment to an order made under subsection (1) unless the Minister has—
+  (a) consulted the representatives of the 1 or more specified industries covered or proposed to be covered by the workforce development council; and
+  (b) taken into account any views expressed by those representatives regarding—
+    (i) the proposed name and governance arrangements of the workforce development council; and
+    (ii) the desirability of avoiding duplication in the coverage of workforce development councils in relation to the specified industries; and
+    (iii) the capability required by the proposed workforce development council to perform and exercise its functions, duties, and powers efficiently and effectively.
+
+### 480 Disestablishment of workforce development councils
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, disestablish a workforce development council and provide for the distribution of its assets and liabilities.
+(2) The Minister must not recommend the disestablishment of a workforce development council under subsection (1) unless—
+  (a) the Minister has received a request from the workforce development council or 1 or more of the specified industries covered by the workforce development council for it to be disestablished and is satisfied on reasonable grounds that there are good reasons to do so; or
+  (b) the Minister is satisfied that it is necessary to do so because—
+    (i) the workforce development council has persistently engaged in unlawful activity; or
+    (ii) the workforce development council has persistently failed to perform its functions or duties; or
+    (iii) there has been a persistent pattern of complaints to the Commission or the Minister from the 1 or more specified industries covered by the workforce development council regarding the council’s performance or exercise of its functions, duties, or powers.
+
+### 481 Incorporation
+Each workforce development council established under section 479 is a body corporate with perpetual succession and a common seal, and is capable of—
+  (a) holding real and personal property; and
+  (b) suing and being sued; and
+  (c) otherwise doing and suffering all that bodies corporate may do and suffer.
+
+### 482 Functions of workforce development councils
+(1) The functions of a workforce development council, in relation to the specified industries covered by it, are—Leadership Developing and setting standards, capstone assessments, and qualificationsEndorsing programmes and moderating assessmentsAdvisory and representative roleOther functions
+  (a) to provide skills and workforce leadership for the specified industries, including by identifying their current and future needs and advocating for those needs to be met through its work with the industries and with providers, regional bodies, and the Government:
+  (b) to develop, set, and maintain skill standards:
+  (c) to develop and maintain industry qualifications for listing on the Qualifications Framework and to maintain qualifications for which the council has become the qualifications developer:
+  (d) to develop and maintain training schemes:
+  (e) to develop and maintain training packages:
+  (f) to develop, set, and maintain capstone assessments based on the needs of the specified industries:
+  (g) to decide whether to endorse programmes developed by providers for approval by the Qualifications Authority under section 249:
+  (h) to carry out moderation activities in relation to any standards and capstone assessments it sets:
+  (i) to provide employers with brokerage and advisory services approved by the Commission:
+  (j) to advise the Commission, as provided for in section 159FA,—
+    (i) about the Commission’s overall investment in vocational education and training:
+    (ii) about the mix of vocational education and training needed for the 1 or more specified industries covered by the workforce development council in the manner required by the Commission:
+  (k) to represent the interests of the specified industries:
+  (l) to perform any other functions conferred on it by the Minister in relation to the specified industries.
+(2) The Minister must not confer any additional function on a workforce development council under subsection (1)﻿(l) without first consulting the workforce development council.
+
+### 483 Workforce development council’s functions in relation to wananga
+(1) Subject to subsection (2),—
+  (a) a workforce development council may endorse a programme developed by a wananga only if requested by the wananga:
+  (b) a capstone assessment developed by a workforce development council applies to a wananga only if requested by the wananga.
+(2) If a programme includes a component of work-based training, a workforce development council may perform its functions in section 482 in relation to the programme.
+
+### 484 Workforce development council must not operate registered establishment
+(1) A workforce development council must not operate or hold any interest whether financial or otherwise in a registered establishment.
+(2) A workforce development council must not, whether directly or through an agent,—
+  (a) provide any education and training approved by the Qualifications Authority; or
+  (b) operate, or hold an interest in, any organisation that provides education and training approved by the Qualifications Authority.
+
+### 485 Duties of workforce development councils
+(1) A workforce development council must comply with any prescribed quality assurance requirements set by the Qualifications Authority relating to the performance of its functions.
+(2) In performing its functions, a workforce development council—
+  (a) must take into account the needs of employers and employees in the 1 or more specified industries covered by the workforce development council but, in doing so, must also consider national and regional interests:
+  (b) must have regard to the needs of Māori and other population groups identified in the tertiary education strategy issued under section 159AA:
+  (c) must, to the extent that is necessary or desirable in the circumstances, work collaboratively with—
+    (i) providers in relation to the functions set out in section 482(1)﻿(b) and (c) and, in the case of wananga, while respecting their special character under section 162(4)﻿(b)﻿(iv):
+    (ii) other workforce development councils, particularly on matters of common interest:
+    (iii) the Qualifications Authority, in relation to qualifications development, programme endorsement, or developing, setting, or maintaining skill standards:
+    (iv) any relevant regulatory body that performs or exercises any functions, duties, or powers under an enactment in relation to entry to an occupation in any of the specified industries covered by the workforce development council:
+  (d) must, when performing its functions under section 482(1)﻿(i) to (k), take all reasonable steps to avoid any adverse impact on its relationship with a provider or providers.
+
+### 486 Annual fee payable by workforce development council
+(1) A workforce development council must pay to the Qualifications Authority an annual fee prescribed by or determined under rules made under section 253(1)﻿(ga).
+(2) The annual fee may recover no more than the reasonable costs, excluding those costs that are recoverable through fees charged under section 254, incurred by the Qualifications Authority for—
+  (a) prescribing quality assurance requirements under section 253(1)﻿(gb); and
+  (b) monitoring compliance, and addressing non-compliance, with those requirements in accordance with its functions under section 246A(1)﻿(da); and
+  (c) issuing quality assurance improvement notices under section 487.
+(3) The fee is—
+  (a) payable by the due date prescribed in the rules; and
+  (b) recoverable as a debt due to the Qualifications Authority.
+
+### 487 Qualifications Authority may issue quality assurance improvement notice
+(1) The Qualifications Authority may, if satisfied that such action is reasonably necessary to maintain the quality and effectiveness of a workforce development council’s performance of its functions, issue a quality assurance improvement notice to a workforce development council.
+(2) A quality assurance improvement notice must—
+  (a) set out any concerns the Qualifications Authority has about the workforce development council’s systems, practices, or procedures; and
+  (b) specify the time within which the workforce development council is expected to address the Qualifications Authority’s concerns (which must be a reasonable time, having regard to the nature and complexity of the action required); and
+  (c) state that, if the Qualifications Authority’s concerns are not addressed within the specified time, the Qualifications Authority may issue a compliance notice under section 488; and
+  (d) state the consequence of a failure to comply with a compliance notice.
+
+### 488 Qualifications Authority may issue compliance notice
+(1) The Qualifications Authority may issue a compliance notice to a workforce development council requiring it to do either or both of the following:
+  (a) do, or refrain from doing, a particular thing in relation to a prescribed quality assurance requirement:
+  (b) address any concerns set out in a quality assurance improvement notice issued under section 487 that were not addressed within the time specified in that notice.
+(2) Section 255(3) to (6) applies to a compliance notice issued under this section.
+(3) If a workforce development council fails to comply with a compliance notice issued under this section, the Qualifications Authority may notify the Minister in writing.
+(4) A compliance notice may be issued to a workforce development council whether or not a quality assurance improvement notice has been issued under section 487.
+(5) Nothing in this section limits the power of the Qualifications Authority to issue a compliance notice to a workforce development council in accordance with section 255.
+
+**Audit**
+
+### 489 Application of Public Audit Act 2001
+Each workforce development council established under section 479 is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+
+**Validity of acts**
+
+### 490 Act in breach of statute invalid
+(1) An act of a workforce development council is invalid, unless section 491 applies, if —
+  (a) the act is contrary to, or outside the authority of, an Act; or
+  (b) the act is done otherwise than for the purpose of performing its functions.
+(2) Subsection (1) does not limit any discretion of a court to grant relief in respect of a minor or technical breach.
+
+### 491 Some natural person acts protected
+(1) Section 490, or any rule of law to similar effect, does not prevent a person dealing with a workforce development council from enforcing a transaction that is a natural person act unless the person dealing with the entity knew, or ought reasonably to have known,—
+  (a) that an express restriction in an Act makes the act contrary to, or outside the authority of, the Act; or
+  (b) that the act was done otherwise than for the purpose of performing the workforce development council’s functions.
+(2) A person who relies on subsection (1) has the onus of proving that the person did not have, and ought not reasonably to have had, the knowledge referred to in that subsection.
+(3) A workforce development council must report, in its financial report required by section 159YD(2), each transaction that the council has performed in the year to which the report relates that was invalid under section 490 but enforced in reliance on subsection (1).
+(4) To avoid doubt, this section does not affect any person’s other remedies (for example, remedies in contract) under the general law.
+
+### Subpart 2 — Apprenticeships
+
+### 492 Interpretation
+In this subpart, unless the context otherwise requires,—
+  - **apprentice** means a person receiving apprenticeship training
+  - **apprenticeship training** means a type of vocational education and training that—
+    (a) is provided for a person who is working in an industry while undertaking training in that industry; and
+    (b) is provided wholly or partly at the person’s workplace, mainly by or on behalf of the person’s employer; and
+    (c) consists of a programme of study or training, or both, leading to a qualification in the skills of an industry that provides entry into an occupation in that industry; and
+    (d) is facilitated by a person that receives funding from the Commission
+  - **apprenticeship training agreement** means an agreement between an employee and their employer that relates to the employee’s receipt of, or that provides for the employee to receive, apprenticeship training.
+
+### 493 Apprenticeship training activities must be included in proposed plan
+(1) A provider that seeks funding for an apprenticeship training activity (as described in subsection (2)) via a plan must specify in its proposed plan how it intends to carry out that activity.
+(2) The apprenticeship training activities are—
+  (a) to promote apprenticeship training generally through providing information, guidance, and advice to employers and prospective apprentices about the benefits of an apprenticeship:
+  (b) to identify—
+    (i) prospective apprentices; and
+    (ii) employers able to offer apprenticeship training that satisfies all of the work-based requirements of the approved programme of the provider:
+  (c) to provide or arrange training or employment that may lead to apprenticeship training for prospective apprentices:
+  (d) to help prospective apprentices enter into apprenticeship training agreements:
+  (e) to produce, and facilitate (in consultation with the apprentice and the apprentice’s employer) the implementation of, individual training plans consistent with an apprentice’s apprenticeship training agreement:
+  (f) to monitor individual apprentices to ensure that their apprenticeship training leads them to attain, within a reasonable time, the level of skills necessary to complete a qualification in the skills of the specified industry:
+  (g) to ensure, as far as is reasonably practicable, that apprenticeship training, and every apprenticeship training agreement, within the specified industry is consistent with any apprenticeship training code:
+  (h) to provide or procure appropriate pastoral care and support for apprentices, having regard to the age and experience of the apprentice and the contents of any apprenticeship training code.
+
+### 494 Duties of persons carrying out apprenticeship training activities
+(1) Persons carrying out apprenticeship training activities (whether or not via a plan) must,—
+  (a) in performing any apprenticeship training activity described in section 493(2), comply with every part of the apprenticeship training code that affects that activity:
+  (b) before helping a person to enter into an apprenticeship training agreement, advise that person to seek advice about the agreement from an independent person.
+(2) A provider must give written notice to an apprentice under the provider’s care if the provider becomes aware that it is impracticable for the apprentice to continue their apprenticeship training with their current employer.
+(3) A notice under subsection (2) must advise the apprentice—
+  (a) that the provider is able to assist the apprentice with finding a new employer with whom the apprentice can complete their apprenticeship training; and
+  (b) if the apprentice so requests, the provider will make reasonable endeavours to find a new employer with whom the apprentice can complete their training.
+
+### 495 Minister may issue apprenticeship training code
+(1) The Minister may, by notice in the Gazette, issue an apprenticeship training code that—
+  (a) is consistent with this subpart; and
+  (b) sets out the responsibilities of apprentices, their employers, and persons carrying out apprenticeship training activities under this subpart.
+(2) The apprenticeship training code may, but need not, be a code recommended by the Commission.
+(3) Before issuing an apprenticeship training code, the Minister may consult any persons or organisations as the Minister considers appropriate.
+(4) The notice under subsection (1) must—
+  (a) specify the date on which the apprenticeship training code comes into force (which must be at least 28 days after the date on which the notice is published); and
+  (b) either—
+    (i) set out the apprenticeship training code in full; or
+    (ii) give enough information to identify the code and state where copies of the code may be obtained.
+(5) Before issuing an apprenticeship training code under subsection (1), the Minister must consult the relevant workforce development council that covers the 1 or more specified industries to which the code relates.
+
+### 496 Availability of apprenticeship training code
+An apprenticeship training code issued by the Minister must be published on an Internet site maintained by or on behalf of the Commission.
+
+### 497 Apprenticeship training code to be taken into account by mediator, Employment Relations Authority, and Employment Court
+In exercising or performing, in relation to a matter concerning an apprentice, any power or function under the Employment Relations Act 2000, the following must take into account every applicable element of any apprenticeship training code:
+  (a) a person providing mediation services under that Act:
+  (b) the Employment Relations Authority:
+  (c) the Employment Court.
+
+### 498 Application of Legislation Act 2012 to apprenticeship training code
+An apprenticeship training code is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012, and must be presented to the House of Representatives under section 41 of that Act.
+
+### Subpart 3 — Training levy
+
+### 499 Interpretation
+For the purposes of this subpart,—
+  - **ballot** means a ballot under section 508
+  - **closing date** means the date, specified in the ballot paper under section 513(b), by which ballot papers must be returned
+  - **levy group** means the members of an industry described in a levy order, or proposed to be described in a levy order, who have to, or will have to, pay that levy or proposed levy
+  - **member of an industry** means a person who employs persons who work in that industry or a self-employed person in that industry
+  - **qualifying member** , in relation to a levy group, means a member who does not have a certificate of exemption under section 517
+  - **relevant industry** means the industry described in the levy order, or proposed levy order.
+
+### 500 Purpose of levy
+The purpose of this subpart is to enable the making of Orders in Council imposing a training levy on the members of an industry, payable to a workforce development council, if a ballot of those members shows sufficient support for the imposition of the levy.
+
+**Imposition of levy**
+
+### 501 Levy may be imposed by Order in Council
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, impose a levy on qualifying members of a levy group that is payable to a workforce development council.
+(2) The Minister must not recommend the making of an Order in Council unless the Minister is satisfied on reasonable grounds of the matters in section 502.
+(3) A levy may be payable to—
+  (a) 1 workforce development council by all qualifying members of the industry that is covered by that council; or
+  (b) 1 workforce development council by all qualifying members of a specific industry that is within the range of industries covered by that council; or
+  (c) more than 1 workforce development council, jointly, by all qualifying members of an industry that is covered by those councils.
+(4) A levy order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### 502 Restrictions on making of levy orders
+(1) The Minister must not recommend the making of a levy order unless satisfied on reasonable grounds that—
+  (a) the workforce development council to which the levy will be payable has, within the previous 12 months, balloted all known members of the levy group, in accordance with sections 508 to 515, in relation to a proposal that the levy should be imposed on those members; and
+  (b) at least 60% of the ballot papers distributed were validly completed and returned before the closing date to the independent returning officer conducting the ballot; and
+  (c) of the ballot papers validly completed and returned,—
+    (i) more than 60% of the total supported the imposition of the levy; and
+    (ii) more than 60%, weighted according to the size of the industry member that returned the ballot paper (calculated at the date on which the ballot closed and on the same basis as the levy is proposed to be charged, as set out in the ballot paper), supported the imposition of the levy; and
+  (d) the details specified in the order do not differ in any material way from those specified in the ballot paper; and
+  (e) the details specified in the order are acceptable to the Minister; and
+  (f) the workforce development council has or will have in place adequate systems for accounting to qualifying members of the levy group for the expenditure of levy funds; and
+  (g) all other relevant matters known to the Minister have been properly considered.
+(2) When considering the matters in subsection (1), the Minister must consult the Commission and may consult any other persons that the Minister considers appropriate.
+
+### 503 Matters to be specified in levy orders
+A levy order must specify the matters set out in Schedule 24.
+
+### 504 Purposes for which levy may be required
+(1) A levy order must specify the purposes for which levy funds are to be used.
+(2) A levy order may also specify any purpose or purposes for which no amount of levy may be used.
+(3) In specifying how levy funds are to be used, a levy order may specify 1 or more purposes that will benefit the levy group as a whole and that are related to meeting the costs of the relevant workforce development council performing its functions under section 482.
+(4) No levy order may specify a purpose for which levy funds may be used that is related to—
+  (a) meeting the costs of arranging delivery of work-based training; or
+  (b) undertaking any commercial or trading activity; or
+  (c) any matter that directly benefits 1 or more individual members of the levy group, as opposed to generally benefiting the relevant industry as a whole.
+(5) Subsection (4)﻿(b) does not prevent a workforce development council from—
+  (a) using any part of a levy to publish or sell any educational, informative, or promotional material (whether or not at a profit); or
+  (b) investing any part of a levy pending its expenditure.
+
+### 505 Levy order may require provision of information
+A levy order may require qualifying members of the levy group to provide information to the workforce development council, or some other person or body, for the purpose of enabling or assisting the determination of the amount of levy payable.
+
+### 506 Orders are confirmable instruments
+(1) The explanatory note of a levy order made under section 501 must indicate that—
+  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+(2) The Minister on whose recommendation a levy order was made must, by notice published in the Gazette at least 6 months before the time at which the order may be revoked under section 47C(1)﻿(a) or (b) of the Legislation Act 2012, indicate the Minister’s intentions with regard to its continuing in force unless the levy order is sooner—
+  (a) revoked; or
+  (b) disallowed under Part 3 of the Legislation Act 2012; or
+  (c) confirmed by an Act of Parliament.
+
+### 507 Expiry of levy orders
+(1) A levy order expires 5 years after the day on which it was made unless it is sooner—
+  (a) revoked; or
+  (b) disallowed under Part 3 of the Legislation Act 2012.
+(2) A levy order is revoked if the workforce development council responsible for administering the levy is disestablished under section 480.
+
+**Ballots**
+
+### 508 Independent returning officer must conduct ballot
+A ballot must be conducted by an independent returning officer appointed by the workforce development council and approved by the Minister.
+
+### 509 Workforce development council must identify potential members of levy group
+(1) A workforce development council that proposes to impose a levy must take reasonable steps to ensure that it identifies all potential members of the levy group, including—
+  (a) obtaining from that council’s records, and from records that may be available from other workforce development councils, information that can be used to identify potential members; and
+  (b) giving adequate notice of the ballot in public newspapers and industry-specific publications, and inviting members of the relevant industry to register to receive information about the ballot and ballot papers.
+(2) After satisfying the requirements of subsection (1), the workforce development council must provide to the independent returning officer who is administering the ballot a list of all potential members of the levy group of whom it is aware.
+
+### 510 Returning officer must notify potential members of levy group
+(1) The returning officer must give notice of the ballot to—
+  (a) every person named on the list of potential members of the levy group provided by the workforce development council under section 509(2); and
+  (b) any other person who the independent returning officer considers may be a member of the levy group.
+(2) The notice under subsection (1) must advise the person about the ballot and must—
+  (a) describe the industry that is intended to be covered by the proposed levy order; and
+  (b) state that the returning officer considers that the person is or may be a member of that industry; and
+  (c) state that membership of the industry means that the person—
+    (i) is entitled to participate in the ballot; and
+    (ii) will be required to pay the levy if there is sufficient support for it in the ballot and the levy order is made; and
+  (d) state that the person must notify the returning officer if the person disputes that the person is a member of the industry intended to be covered by the proposed levy order (a coverage dispute); and
+  (e) state the date by which that notification of a coverage dispute must be received.
+
+### 511 Commission must resolve coverage disputes
+If the returning officer receives a notice under section 510(2)﻿(d) that the person wishes to raise a coverage dispute, the returning officer must refer that issue to the Commission for determination in accordance with section 525.
+
+### 512 Population to be balloted
+As soon as practicable after all coverage disputes have been finally determined (including any appeals under section 526(2)), the returning officer must send a ballot paper to each person in the levy group.
+
+### 513 Requirements of ballot papers
+A ballot paper must state—
+  (a) the address to which ballot papers must be returned; and
+  (b) the date by which ballot papers must be returned; and
+  (c) full information on the nature of the levy power being sought, including all the matters listed in Schedule 24.
+
+### 514 Returning officer must count votes
+The returning officer must collect all validly completed ballot papers received by the returning officer at the closing date and calculate—
+  (a) the proportion of the total number of ballot papers sent by the returning officer under section 512 that have been validly completed and received by them at the closing date; and
+  (b) the proportion of the validly completed ballot papers received by the returning officer the closing date that are in favour of the proposal to impose the levy; and
+  (c) the proportion of the validly completed ballot papers received by the returning officer at the closing date that are in favour of the proposal to impose the levy if the votes are weighted according to the size of the member of the industry that returned the ballot paper (calculated at the date on which the ballot closed and on the same basis as the levy is proposed to be charged as set out in the ballot paper).
+
+### 515 Returning officer must keep ballot papers, etc
+The returning officer must take all reasonable steps to ensure that all ballot papers, envelopes, lists, and other documents used in connection with a ballot conducted under this Part are preserved and kept for a period of 1 year after the completion of the ballot.
+
+**Collection of levy**
+
+### 516 Levy is payable by qualifying members to workforce development council
+If a levy order is made, the levy specified in the order is payable by every qualifying member of the levy group to the workforce development council named in the levy order.
+
+### 517 Certificate of exemption
+(1) The chief executive of the Commission may issue a certificate of exemption from payment of a levy to a member of the relevant industry who—
+  (a) was a member of the industry at the time the ballot was held in relation to that levy; and
+  (b) was, through no fault or neglect on that person’s part, not included in the ballot.
+(2) The chief executive may revoke a certificate of exemption if—
+  (a) the person to whom it has been issued agrees; or
+  (b) it was issued in error.
+
+### 518 Method of collecting levy
+(1) A workforce development council may collect levies directly from qualifying members of the levy group or by using a collection agent specified in the levy order in accordance with section 519.
+(2) A workforce development council may recover levies due from any qualifying member of the levy group—
+  (a) by deducting the amount due from any amount the workforce development council owes that qualifying member; or
+  (b) as a debt due to the workforce development council in any court of competent jurisdiction.
+
+### 519 Levy order may provide for collection by agent
+(1) A levy order may specify persons, other than the persons who are primarily responsible for paying the levy, who must collect levy money due from qualifying members and pay it to the workforce development council.
+(2) If a levy order specifies a person who must act as a collection agent under subsection (1), the levy order must also specify an amount from, or a percentage of, the levy money collected that the person may retain as a fee for providing the collection service.
+
+**Duties of workforce development councils and others in relation to levies**
+
+### 520 Levy funds must be kept in separate bank accounts and used only for authorised purposes
+(1) A workforce development council that receives a levy under a levy order must open 1 or more bank accounts for the purpose of the levy and must use the account or those accounts for only the following purposes:
+  (a) depositing amounts of levy paid or recovered; and
+  (b) making payments out of levy funds.
+(2) Only people expressly authorised by the workforce development council may operate the account or those accounts.
+(3) No money may be paid out of the account or those accounts except for a purpose authorised in the levy order.
+
+### 521 Duty to keep records
+A workforce development council that receives a levy must ensure that accurate and up-to-date records are kept of—
+  (a) the names of all members of the levy group from whom the levy has been collected or recovered; and
+  (b) the amount of the levy collected or recovered from those members; and
+  (c) the names of all members of the levy group who are or may be liable to pay the levy but have not done so; and
+  (d) the use to which the levy funds have been put.
+
+### 522 Duty to provide annual report
+(1) As soon as practicable after the end of a financial year during which a levy has been paid to a workforce development council under a levy order, the workforce development council—
+  (a) must prepare, in respect of that year, financial statements in accordance with generally accepted accounting practice (within the meaning of section 8 of the Financial Reporting Act 2013); and
+  (b) must include in the financial statements required by paragraph (a) all the necessary information to explain—
+    (i) the balance of the levy fund; and
+    (ii) the movements in the levy fund over the course of the year, including receipts of money collected and payments of money made under the levy order; and
+    (iii) the use of assets acquired or built up with or out of money received under the levy order.
+(2) The workforce development council must ensure that the financial statements prepared under subsection (1) are audited within 90 days of the end of that financial year.
+(3) Financial statements prepared under subsection (1) must be included in the workforce development council’s annual report for that year.
+(4) A workforce development council that is required by subsection (3) to include financial statements in its annual report must, as soon as that report has been completed, give a copy to the Minister, and the Minister must present a copy to the House of Representatives not later than 6 sitting days after receiving it.
+(5) Despite subsection (4), if an enactment other than this Act requires a workforce development council to give a Minister a copy of its annual report and requires the Minister to present a copy to the House of Representatives, that organisation must, to the extent that the enactment and subsection (4) impose different requirements, comply with the enactment instead of subsection (4).
+(6) A workforce development council that is required by subsection (3) to include financial statements in its annual report must take all reasonable steps to ensure that every person primarily liable for paying the levy that is reflected in those financial statements receives a copy of the annual report as soon as is reasonably practicable after the report has been completed.
+
+### 523 Duty to protect commercially sensitive information
+A person who receives commercially sensitive information for the purposes of carrying out a function or an activity under this Part, or under a levy order, must take reasonable steps to protect that information.
+
+**Disputes**
+
+### 524 Arbitration or mediation system must be established
+(1) A workforce development council that receives a levy under a levy order must establish a method of arbitration or mediation in the case of disputes regarding—
+  (a) whether a person was included in the ballot relating to that levy; and
+  (b) whether a person has paid the levy; and
+  (c) the amount of levy payable; and
+  (d) any other matter relating to the levy, except disputes about whether a person is within the levy group.
+(2) Details of the arbitration or mediation system must be specified in the levy order, including—
+  (a) the method of appointment of arbitrators or mediators; and
+  (b) the procedures to be followed by arbitrators or mediators; and
+  (c) the remuneration of arbitrators or mediators; and
+  (d) the payment of costs in relation to arbitration or mediation; and
+  (e) any other matters relating to the resolution of disputes.
+
+### 525 Disputes about coverage
+(1) If a returning officer refers a dispute to the Commission under section 511, the Commission must determine the matter.
+(2) The workforce development council that is proposing to impose a levy or, if a levy order has been made, that is responsible for administering the levy must pay the reasonable costs of the Commission for determining the dispute.
+
+### 526 Appeals to District Court
+(1) If a dispute is unresolved after arbitration or mediation in accordance with the method specified in the levy order, or if a party wishes to appeal against a decision of an arbitrator or mediator, the dispute may be referred, or the decision may be appealed, to the District Court.
+(2) A determination by the Commission under section 525 may be appealed against on grounds of procedural error only.
+(3) An appeal under subsection (2) may be made to the District Court by the person disputing membership of the levy group or by the workforce development council that is proposing to impose, or responsible for administering, the levy.
+
 ## Schedule 1 — Transitional, savings, and related provisions
 
 ### Part 1 — Provision relating to use of off-site locations by schools
@@ -9918,7 +10501,7 @@ Despite the Education Amendment Act 2018, a council in existence immediately bef
   (a) prepare a new draft constitution for the council for its institution; and
   (b) give a copy to the Minister.
 (2) The copy must be given to the Minister at least 2 months before the close of the transition period.
-(3) Alternatively, in the case of an institution that is not a designated polytechnic, the institution may have its constitution amended in accordance with section 170 so that it complies with section 171B(2A) and, in that case, clauses 18 to 24 do not apply.
+(3)
 (4) The recommendation required by section 170(1) must be given to the Minister at least 2 months before the end of the transition period.
 
 ### 18 Draft constitutions to be approved by Minister
@@ -10000,6 +10583,383 @@ In this Part,—
 (2) Part 18A (as substituted by the Education (Pastoral Care) Amendment Act 2019) applies to any code in respect of international students issued under Part 18A (as it stood immediately before the commencement of this clause) as if the code were made under Part 18A (as substituted by the Education (Pastoral Care) Amendment Act 2019).
 (3) Despite subclause (2), Part 18A (as it stood immediately before the commencement of this clause) continues to apply for the purposes of concluding any proceedings commenced before the commencement of this clause, and the fine and pecuniary penalty set out in sections 238S and 238T are unavailable.
 (4) Terms used in this clause and defined in section 238D (as substituted by the Education (Pastoral Care) Amendment Act 2019) have the same meanings as in that section.
+
+### Part 10 — Provisions relating to Education (Vocational Education and Training Reform) Amendment Act 2020
+
+### 28 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **amendment Act** means the Education (Vocational Education and Training Reform) Amendment Act 2020
+  - **commencement date** means the date on which the amendment Act comes into force
+  - **Commission** means the Tertiary Education Commission established under section 159C
+  - **corresponding NZIST subsidiary** , in relation to an existing polytechnic, means the Crown entity subsidiary specified in the second column of the table in clause 29(3) opposite the name of the existing polytechnic specified in the first column of the table
+  - **existing polytechnic** or means each polytechnic listed in the first column of the table in clause 29(3) that was established or deemed to have been established under section 162 before the commencement date and in existence immediately before that date
+  - **NZIST** means the New Zealand Institute of Skills and Technology established by section 222A (as inserted by section 53 of the amendment Act)
+  - **Qualifications Authority** means the New Zealand Qualifications Authority continued by section 256A.
+
+#### Subpart 1 — Transitional provisions relating to polytechnics
+
+**Conversion of polytechnics to corresponding NZIST subsidiaries**
+
+### 29 Polytechnics converted to corresponding NZIST subsidiaries
+(1) On and after the commencement date, an existing polytechnic becomes a Crown entity subsidiary of NZIST and the following provisions apply for that purpose:
+  (a) the polytechnic is to be treated as a company registered under the Companies Act 1993 with the name specified in the second column of the table in subclause (3) opposite the name of the polytechnic specified in the first column of that table; and
+  (b) the Registrar of Companies must, on the commencement date, issue a certificate of incorporation for the company; and
+  (c) 100 shares must be treated as having been issued to NZIST.
+(2) The certificate of incorporation is conclusive evidence that the corresponding NZIST subsidiary was, on and after the commencement date, registered as a company under the Companies Act 1993.
+(3) For the purposes of subclause (1)﻿(a), the name of the corresponding NZIST subsidiary is:The following table is small in size and has 2 columns. Column 1 is headed Name of polytechnic. Column 2 is headed Name of corresponding NZIST subsidiary.Name of existing polytechnicName of corresponding NZIST subsidiaryAra Institute of Canterbury Ara Institute of Canterbury LimitedEastern Institute of TechnologyEastern Institute of Technology LimitedManukau Institute of Technology Manukau Institute of Technology Limited Nelson Marlborough Institute of Technology Nelson Marlborough Institute of Technology LimitedNorthland PolytechnicNorthland Polytechnic LimitedOtago Polytechnic Otago Polytechnic Limited Southern Institute of TechnologySouthern Institute of Technology LimitedTai Poutini Polytechnic Tai Poutini Polytechnic LimitedThe Open Polytechnic of New Zealand The Open Polytechnic of New Zealand LimitedToi Ohomai Institute of TechnologyToi Ohomai Institute of Technology LimitedUnitec Institute of TechnologyUnitec New Zealand Limited Universal College of LearningUniversal College of Learning LimitedWaikato Institute of Technology Waikato Institute of Technology LimitedWellington Institute of Technology Wellington Institute of Technology LimitedWestern Institute of Technology at TaranakiWestern Institute of Technology at Taranaki Limited Whitireia Community PolytechnicWhitireia Community Polytechnic Limited
+
+**Duration of corresponding NZIST subsidiaries**
+
+### 30 Duration of corresponding NZIST subsidiaries
+(1) Each corresponding NZIST subsidiary continues in existence until the close of 31 December 2022.
+(2) However, the Governor-General may, by Order in Council made on the recommendation of the Minister, extend the period that any particular corresponding NZIST subsidiary may continue to exist to a date specified in the order.
+(3) Before making a recommendation under subclause (2), the Minister must consult NZIST on the proposed extension and take into account NZIST’s views.
+(4) The Minister must not recommend an extension under subclause (2) unless the Minister is satisfied on reasonable grounds that the extension is—
+  (a) consistent with NZIST’s responsibilities under the charter set out in Schedule 22 (as inserted by section 74(2) of the amendment Act); and
+  (b) in the interests of the tertiary education system and the nation as a whole.
+
+### 31 NZIST’s council may dissolve corresponding NZIST subsidiary
+NZIST’s council may, by resolution, at any time before the date specified in clause 30(1) or by Order in Council under clause 30(2), dissolve a corresponding NZIST subsidiary and transfer some or all of the rights, assets, or liabilities of that subsidiary to NZIST or another NZIST subsidiary (whether established under clause 29(1) or formed by NZIST under section 222ZA).
+
+**Consequences of conversion of polytechnics to corresponding NZIST subsidiaries**
+
+### 32 Directors of corresponding NZIST subsidiary
+(1) The directors of each corresponding NZIST subsidiary must comprise at least 4, but not more than 8, directors.
+(2) In appointing directors under subclause (1), NZIST must ensure that at least half of the initial directors reside in the region in which the corresponding NZIST subsidiary predominantly operates.
+
+### 33 Application of this Act to corresponding NZIST subsidiary
+The provisions of this Act as far as they relate to an NZIST subsidiary that provides education or training (or both) apply, with any necessary modifications, to each corresponding NZIST subsidiary during the period that the corresponding NZIST subsidiary exists in accordance with clause 30 or 31.
+
+### 34 Corresponding NZIST subsidiary is organisation, provider, and institution for purposes of this Act
+(1) Without limiting clause 33, each corresponding NZIST subsidiary is to be treated, during the period that it exists in accordance with clause 30 or 31, as—
+  (a) an organisation within the meaning of section 159B(1), and the provisions of this Act relating to an organisation apply to it accordingly as if those provisions included a reference to the corresponding NZIST subsidiary:
+  (b) a provider within the meaning of section 238D, and the provisions of this Act relating to providers apply to it accordingly as if those provisions included a reference to the corresponding NZIST subsidiary:
+  (c) an institution within the meaning of section 159(1), and sections 31B, 31F, and 31G, and Parts 16, 16A, and 20 apply to it accordingly as if—
+    (i) those provisions included a reference to the corresponding NZIST subsidiary; and
+    (ii) any reference in those provisions to the council of an institution were a reference to the board of the corresponding NZIST subsidiary.
+(2) For the purposes of subclause (1)﻿(a), the Commission may consider a proposed plan of an NZIST subsidiary and fund that subsidiary for an academic year beginning on or after 1 January 2021 but only if requested by NZIST.
+
+### 35 Members of existing polytechnic council cease to hold office
+(1) Every member of an existing polytechnic council holding office immediately before the commencement date ceases to hold office on the close of the day before that date.
+(2) Neither the Crown nor any existing polytechnic council is liable to make a payment to, or otherwise compensate, a person referred to in subclause (1) in respect of the loss of office.
+
+### 36 Rights, assets, and liabilities of existing polytechnics
+(1) This clause applies to all rights, assets, and liabilities that an existing polytechnic had immediately before the commencement date.
+(2) On and after the commencement date,—
+  (a) the rights, assets, and liabilities of the existing polytechnic vest in the existing polytechnic’s corresponding NZIST subsidiary; and
+  (b) unless the context otherwise requires, every reference to the existing polytechnic in any enactment (other than this Act), or instrument, agreement, deed, lease, application, notice, or other document before the commencement date must be read as a reference to the polytechnic’s corresponding NZIST subsidiary.
+(3) In this clause, assets, liabilities, and rights have the same meanings as in section 216(1).
+
+### 37 Same person for purposes of Inland Revenue Acts
+For the purposes of the Inland Revenue Acts (as defined in section 3(1) of the Tax Administration Act 1994), a corresponding NZIST subsidiary must be treated as the same person as the existing polytechnic.
+
+### 38 Employees of existing polytechnics
+(1) On and after the commencement date, every employee of an existing polytechnic becomes an employee of the polytechnic’s corresponding NZIST subsidiary on the same terms and conditions that applied to the person immediately before they became an employee of the corresponding NZIST subsidiary.
+(2) For the purposes of every enactment, law, determination, contract, and agreement relating to the employment of that employee,—
+  (a) the employee’s employment agreement is to be treated as unbroken; and
+  (b) the employee’s period of service with the existing polytechnic, and every other period of service of the employee that is recognised by the polytechnic as continuous service, is to be treated as a period of service with the polytechnic’s corresponding NZIST subsidiary.
+(3) To avoid doubt, the employment of an employee to whom this clause applies by a polytechnic’s corresponding NZIST subsidiary does not constitute new employment for the purposes of any service-related benefits, whether legislative or otherwise.
+(4) An employee to whom this clause applies is not entitled to receive any payment or benefit from an existing polytechnic or its corresponding NZIST subsidiary on the grounds that the person’s position in the polytechnic has ceased to exist or the person has ceased to be an employee of the polytechnic as a result of the transfer to its corresponding NZIST subsidiary.
+(5) This clause overrides—
+  (a) Part 6A of the Employment Relations Act 2000; and
+  (b) any employment protection provision in any relevant employment agreement.
+
+### 39 Government Superannuation Fund
+(1) This clause applies to a person who, immediately before becoming an employee of a corresponding NZIST subsidiary, was a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956.
+(2) For the purposes of the Government Superannuation Fund Act 1956, the person is treated as being employed in the Government service as long as the person continues to be an employee of the corresponding NZIST subsidiary.
+(3) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person’s service as an employee of the corresponding NZIST subsidiary were Government service.
+(4) Subclause (1) does not entitle a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
+(5) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the corresponding NZIST subsidiary is the controlling authority.
+
+### 40 Students of existing polytechnics
+(1) This clause applies to every student enrolled at an existing polytechnic immediately before the commencement date.
+(2) On and after the commencement date, the student must be treated as having been enrolled at the existing polytechnic’s corresponding NZIST subsidiary.
+(3) A student who would, but for the conversion of the existing polytechnic into its corresponding NZIST subsidiary, have been entitled to be granted an award of the existing polytechnic is entitled to be granted a like award of the corresponding NZIST subsidiary.
+(4) In subclause (3), award has the same meaning as in section 159(1).
+
+### 41 Visas granted under Immigration Act 2009
+(1) This clause applies to a visa granted under the Immigration Act 2009 in respect of—
+  (a) a student, for the purposes of enrolment at an existing polytechnic; or
+  (b) a staff member of an existing polytechnic.
+(2) On and after the commencement date, any reference to the existing polytechnic in a condition imposed on the visa must be read as a reference to the polytechnic’s corresponding NZIST subsidiary.
+
+### 42 Existing Qualifications Authority approvals, accreditations, and consents
+(1) This clause applies to the following matters granted to an existing polytechnic by the Qualifications Authority under Part 20 before the commencement date and in effect immediately before that date:
+  (a) an approval of a programme under section 249:
+  (b) an accreditation to provide all or part of a programme under section 250:
+  (c) an approval to provide a training scheme under section 251:
+  (d) a consent to assess against the standards listed on the Directory of Assessment Standards under section 252:
+  (e) a consent to award a degree or a post-graduate qualification under section 253B.
+(2) On and after the commencement date,—
+  (a) except as provided in subclause (3), the approval, accreditation, or consent (including any conditions imposed on an approval, an accreditation, or a consent) must be treated as if it were granted to the existing polytechnic’s corresponding NZIST subsidiary; and
+  (b) unless the context otherwise requires, every reference to the existing polytechnic in the approval, accreditation, or consent must be read as a reference to the polytechnic’s corresponding NZIST subsidiary.
+(3) On and after 1 January 2023, the approval of a programme under section 249 and the consent to award a degree or a post-graduate qualification under section 253B must be treated as if they were granted to NZIST.
+
+### 43 Existing funding paid by Commission under funding mechanism
+(1) This clause applies to funding (including any conditions imposed on the funding) payable by the Commission to an existing polytechnic—
+  (a) in accordance with an approval granted under section 159YA(2); or
+  (b) other than via a plan under section 159ZC.
+(2) On and after the commencement date,—
+  (a) the Commission must treat the funding as if it were payable to the polytechnic’s corresponding NZIST subsidiary until the close of 31 December 2020, unless that funding is earlier suspended, revoked, or withdrawn under section 159YG or 159ZF or the subsidiary is earlier dissolved in accordance with clause 31; and
+  (b) for the purposes of paragraph (a), every reference to the existing polytechnic in an approval granted under section 159YA(2) must, unless the context otherwise requires, be read as a reference to the polytechnic’s corresponding NZIST subsidiary.
+
+### 44 Other references to existing polytechnics
+On and after the commencement date, every reference to an existing polytechnic in any enactment (other than this Act) or document must, unless the context otherwise requires, be read as a reference to the polytechnic’s corresponding NZIST subsidiary.
+
+### 45 Existing proceedings and other matters
+(1) On and after the commencement date,—
+  (a) the continuation or enforcement of any proceedings by or against an existing polytechnic may instead be continued or enforced by or against its corresponding NZIST subsidiary without amendment to the proceedings; and
+  (b) the completion of a matter or thing that would, but for this clause, have been completed by the existing polytechnic may be completed by its corresponding NZIST subsidiary; and
+  (c) anything done, or omitted to be done, or that is to be done, by or in relation to the existing polytechnic is to be treated as having been done, or having been omitted to be done, or to be done, by or in relation to its corresponding NZIST subsidiary.
+(2) In subclause (1)﻿(a), proceedings—
+  (a) means civil and criminal proceedings; and
+  (b) includes any enforcement or compliance action by the Commission or the Qualifications Authority.
+
+### 46 Final report of existing polytechnics
+(1) Each corresponding NZIST subsidiary must provide a final report to the Minister in relation to the polytechnic from which the corresponding NZIST subsidiary was formed in accordance with clause 29.
+(2) For the purposes of section 45L of the Public Finance Act 1989, an existing polytechnic that is converted into a corresponding NZIST subsidiary must be treated as if it were disestablished and its operations were transferred to the corresponding subsidiary.
+(3) Despite subpart 1 of Part 5 of the Public Finance Act 1989, the Minister may specify the contents of the final report and the date or dates by which the contents of the report must be provided.
+(4) The Minister must present a copy of the final report to the House of Representatives as soon as is reasonably practicable after receiving it.
+
+#### Subpart 2 — Transitional provisions relating to NZIST
+
+### 47 Validation of pre-commencement actions and processes regarding Ministerial appointments to NZIST’s council
+(1) This clause applies to any action or process undertaken by the Minister before the commencement date in appointing members to NZIST’s council.
+(2) An appointment is valid if the action or process substantially complies with the provisions of this Act (as amended by the amendment Act).
+
+### 48 Interim chief executive of NZIST
+Despite anything in Part 7B of the State Sector Act 1988, NZIST’s council may appoint a person, whether by way of an employment agreement or otherwise, as chief executive of NZIST during the period beginning on the commencement date and ending on the close of 6 July 2020 on terms and conditions agreed with the State Services Commissioner.
+
+### 49 Membership of NZIST’s council reduced until all appointments made
+(1) The number of NZIST council members is proportionately reduced until the date on which each member referred to in section 222G(1)﻿(a), (b), and (c) is appointed to the council.
+(2) No action of NZIST’s council is invalid merely because any member referred to in subclause (1) has not been appointed to NZIST’s council on the commencement date.
+
+### 50 Restriction on NZIST forming new subsidiaries
+The requirement for NZIST to obtain Ministerial approval before forming a subsidiary under section 222ZA(1) (as inserted by section 53 of the amendment Act) ceases to apply on the close of 31 December 2024.
+
+### 51 NZIST subsidiary is organisation, provider, and institution
+(1) This clause applies to an NZIST subsidiary formed by NZIST on or after the commencement date under section 222ZA(1) that provides education or training, or both.
+(2) The NZIST subsidiary must be treated as—
+  (a) an organisation within the meaning of section 159B(1), and the provisions of this Act relating to an organisation apply to it accordingly as if those provisions included a reference to the NZIST subsidiary:
+  (b) a provider within the meaning of section 238D, and the provisions of this Act relating to providers apply to it accordingly as if those provisions included a reference to the NZIST subsidiary:
+  (c) an institution within the meaning of section 159(1), and sections 31B, 31F, and 31G, and Parts 16, 16A, and 20 apply to it accordingly as if—
+    (i) those provisions included a reference to the NZIST subsidiary; and
+    (ii) any reference in those provisions to the council of an institution were a reference to the board of the NZIST subsidiary.
+(3) For the purposes of subclause (2)﻿(a), the Commission may consider a proposed plan of the NZIST subsidiary and fund that subsidiary for an academic year beginning on or after 1 January 2021 but only if requested by NZIST.
+
+#### Subpart 3 — Transitional arrangements for work-based training
+
+### 52 Interpretation
+(1) In this subpart, unless the context otherwise requires,—
+  - **1992 Act** means the Industry Training and Apprenticeships Act 1992
+  - **assets** has the same meaning as in section 216(1)
+  - **former ITO** means an industry training organisation listed in clause 54(a) that was recognised under Part 2 of the 1992 Act and whose recognition was in force immediately before that date
+  - **transition period** means the period beginning on the commencement date and ending on the close of 31 December 2022
+  - **transitional ITO** means—
+    (a) a former ITO:
+    (b) a body corporate that is recognised by the Minister under clause 54(b)
+  - **workforce development council** means a workforce development council established under section 479 (as inserted by section 70 of the amendment Act).
+(2) In this subpart, unless the context otherwise requires, provider, specified industry, trainee, and work-based training have the same meanings as in section 477 (as inserted by section 70 of the amendment Act).
+
+### 53 Application of clauses 54 to 67
+Clauses 54 to 67 apply during the transition period.
+
+### 54 Recognition of transitional ITOs
+The following are recognised as transitional ITOs for the purposes of this subpart:
+  (a) each of the following former ITOs:
+    (i) Boating Industries Association of New Zealand Incorporated:
+    (ii) Building and Construction Industry Training Organisation Incorporated:
+    (iii) Community Support Services ITO Limited:
+    (iv) Competenz Trust:
+    (v) Infrastructure Industry Training Organisation Incorporated:
+    (vi) MITO New Zealand Incorporated:
+    (vii) New Zealand Hair and Beauty Industry Training Organisation Incorporated:
+    (viii) Primary Industry Training Organisation Incorporated:
+    (ix) Service Skills Institute Incorporated:
+    (x) Skills Active Aotearoa Limited:
+    (xi) The Skills Organisation Incorporated:
+  (b) any body corporate recognised by the Minister, by notice in the Gazette, as a transitional ITO for the purposes of this subpart.
+
+### 55 Effect of recognition
+(1) A transitional ITO recognised under clause 54(a)—
+  (a) is recognised for the 1 or more specified industries for which it was recognised under Part 2 of the 1992 Act immediately before the commencement date; and
+  (b) must carry out the 1 or more activities described in subclause (3) in relation to the specified industries for which it was previously recognised under the 1992 Act.
+(2) A transitional ITO recognised under clause 54(b)—
+  (a) is recognised for the 1 or more specified industries specified in the notice given by the Minister recognising the transitional ITO; and
+  (b) must carry out the 1 or more activities described in subclause (3) and specified in the notice.
+(3) For the purposes of this clause, the activities are—
+  (a) developing, setting, and maintaining skill standards to be listed on the Directory of Assessment Standards; and
+  (b) developing and maintaining arrangements for the delivery of work-based training that will enable trainees to achieve the relevant skill standards; and
+  (c) the apprenticeship training activities described in section 493(2) (as inserted by section 70 of the amendment Act).
+
+### 56 Minister may impose conditions on recognition of transitional ITO
+(1) The Minister may, by written notice to a transitional ITO, impose conditions on that recognition that the Minister considers are reasonably necessary—
+  (a) to maintain the quality and effectiveness of vocational education and training in the transitional ITO’s specified industries; and
+  (b) to ensure the success of the transfer of responsibility for the activities of the transitional ITO.
+(2) The Minister may amend or revoke a condition imposed under subclause (1) by written notice to the transitional ITO.
+(3) However, no condition may be imposed under subclause (1) that requires the assets of a transitional ITO to be allocated to a workforce development council under clause 67.
+
+### 57 Minister may change specified industries or activities of transitional ITO
+The Minister may, by notice in the Gazette, change—
+  (a) the specified industries covered by a transitional ITO; or
+  (b) the activities that must be carried out by the transitional ITO in relation to those industries.
+
+### 58 Application of provisions of 1992 Act to transitional ITO
+(1) Despite the repeal of the 1992 Act, the provisions of the 1992 Act listed in subclause (2) continue in force, with any necessary modifications, and apply to a transitional ITO as if the amendment Act had not been passed and as if—
+  (a) references in those provisions to an industry training organisation were references to the transitional ITO; and
+  (b) references in those provisions to industry training were references to work-based training.
+(2) The provisions are—
+  (a) section 10 (industry training organisation’s proposed plan must identify activities for which it seeks funding):
+  (b) section 10A (power to fund if employer switches industry training organisation):
+  (c) section 11 (matters to which Commission must have regard in determining whether to give funding approval to proposed plan):
+  (d) section 11B (obligations of industry training organisations):
+  (e) section 11C (Qualifications Authority may issue quality assurance improvement notice):
+  (f) section 11D (Qualifications Authority may issue compliance notice):
+  (g) section 11E (industry training organisation not to operate registered private training establishment):
+  (h) section 11F (annual fee):
+  (i) section 13A (additional functions of Qualifications Authority):
+  (j) section 13B (Qualifications Authority may prescribe quality assurance requirements):
+  (k) Part 2A (apprenticeship training):
+  (l) Part 5 and Schedule 4 (training levies).
+(3) Despite subclause (1), section 11E of the 1992 Act (as applied by subclause (2)﻿(g)) applies to a transitional ITO only while the transitional ITO continues to exercise any standard-setting powers for the specified industries covered by the transitional ITO.
+
+### 59 Existing approvals and consents granted to former ITO
+(1) This clause applies to the following matters granted to a former ITO by the Qualifications Authority under Part 20 before the commencement date and in effect immediately before that date:
+  (a) an approval of a programme under section 249:
+  (b) an approval to provide a training scheme under section 251:
+  (c) a consent to assess against the standards listed on the Directory of Assessment Standards under section 252.
+(2) On and after the commencement date,—
+  (a) an approval or a consent (including any conditions imposed on the approval or consent) must be treated as if it were granted to the former ITO’s corresponding transitional ITO; and
+  (b) unless the context otherwise requires, every reference in the approval or consent must be read as a reference to the corresponding transitional ITO.
+
+### 60 Transitional ITO is organisation
+A transitional ITO is to be treated as an organisation within the meaning of section 159B, and the provisions of this Act relating to an organisation apply to it accordingly.
+
+### 61 Transitional ITO is approved standard-setting body
+A transitional ITO is to be treated as an approved standard-setting body for the purposes of section 248B in relation to the specified industries for which it is recognised under this subpart until—
+  (a) a notice is given under clause 57 that removes the activity described in clause 55(3)﻿(a) for a specified industry covered by the transitional ITO; or
+  (b) the recognition of the transitional ITO is cancelled under clause 65 or lapses under clause 66.
+
+### 62 Transitional ITOs must develop transition plan
+(1) As soon as practicable after the commencement date, every transitional ITO must—
+  (a) develop a transition plan for approval by the Commission that provides for the transfer of—
+    (i) responsibility for the activity described in clause 55(3)﻿(a) (or any part of the activity) to any 1 or more workforce development councils:
+    (ii) responsibility for the activities described in clause 55(3)﻿(b) and (c) (or any part of those activities) to any 1 or more providers specified by the Commission:
+    (iii) responsibility for any of activities described in clause 55(3) (or any part of those activities) to another transitional ITO:
+    (iv) the assets of the transitional ITO to any 1 or more providers, workforce development councils, or other transitional ITO; and
+  (b) implement and maintain that plan; and
+  (c) support providers specified by the Commission in transferring the responsibility for the activities described in clause 55(3)﻿(b) and (c).
+(2) When approving a transition plan under subclause (1), the Commission—
+  (a) may make any amendments to the plan that it considers necessary or desirable by giving written notice to the transitional ITO; but
+  (b) must not amend that part of the plan that relates to transfer of the assets to any 1 or more providers, workforce development councils, or other transitional ITO.
+(3) If a transitional ITO fails or refuses to comply with subclause (1), the Commission may develop the transition plan for the transitional ITO and the transitional ITO must implement and maintain that plan.
+
+### 63 Commission must issue guidance on transition plans
+(1) The Commission must issue guidance to transitional ITOs on what must be contained in a transition plan required by clause 62(1).
+(2) The Commission must consult transitional ITOs when developing guidance under subclause (1).
+
+### 64 Minister may direct funding to provider for work-based training
+Despite section 159M(1), the Minister may direct that funding be provided to a provider to support work-based training on behalf of employers if the Minister believes it is reasonably necessary for facilitating or ensuring the successful transfer of responsibility for the activities referred to in clause 55(3)﻿(b) and (c).
+
+### 65 Cancellation of recognition of transitional ITO
+(1) The Minister may, by notice in the Gazette, cancel the recognition of a transitional ITO—
+  (a) if it asks the Minister to cancel its recognition; or
+  (b) if the circumstances described in subclause (2) apply; or
+  (c) if it has breached the requirement set out in section 11E of the 1992 Act (as applied by clause 58(2)﻿(g)); or
+  (d) if the Minister is satisfied that—
+    (i) the transitional ITO is no longer responsible for carrying out any of the activities referred to in clause 55(3); or
+    (ii) the body corporate recognised as the transitional ITO no longer exists.
+(2) For the purpose of subclause (1)﻿(b), the circumstances are that—
+  (a) the Minister has issued a notice to the transitional ITO stating that the Minister considers its performance is inadequate for any of the following reasons:
+    (i) it is not carrying out at least 1 of the activities for the specified industries for which it is recognised:
+    (ii) it is failing to comply with 1 or more conditions of its recognition:
+    (iii) it is failing to comply with a compliance notice issued by the Qualifications Authority; and
+  (b) the period of time specified in the notice within which the transitional ITO must improve its performance has elapsed; and
+  (c) the Minister is satisfied that the transitional ITO’s performance continues to be inadequate for the reason specified in the notice.
+(3) For the purpose of subclause (2)﻿(a), the notice must be in writing and state—
+  (a) the areas in which the Minister considers the transitional ITO’s performance to be inadequate; and
+  (b) what actions the transitional ITO should take to improve its performance; and
+  (c) the period (which must be a reasonable period) within which the transitional ITO must improve its performance; and
+  (d) the fact that the Minister may cancel the recognition of the transitional ITO under subclause (1) if it fails to improve its performance within that period.
+(4) If the recognition of a transitional ITO is cancelled under subclause (1), any approval or consent associated with that recognition is withdrawn on the date on which the recognition is cancelled.
+(5) No notice is required to be given to a transitional ITO for a withdrawal under subclause (4).
+
+### 66 Recognition lapses at end of transition period
+(1) This clause applies to any transitional ITO in existence at the close of the day immediately before the end of the transition period.
+(2) The recognition of the transitional ITO lapses at the end of the transition period.
+(3) If the recognition of a transitional ITO lapses under subclause (2), any approval or consent associated with that recognition is withdrawn on the date on which the recognition lapses.
+(4) No notice is required to be given to a transitional ITO for a withdrawal under subclause (3).
+
+### 67 Allocation of assets of transitional ITO
+(1) This clause applies to any assets of a transitional ITO during the transition period.
+(2) Despite any enactment to the contrary or anything in the transitional ITO’s founding document, those assets may be allocated to 1 or more providers, workforce development councils, or other transitional ITOs to which the activities of the transitional ITO have been transferred in accordance with the transition plan.
+(3) In this clause, founding document means,—
+  (a) for a transitional ITO that is a company, the transitional ITO’s constitution (if any):
+  (b) for a transitional ITO that is an incorporated society, the transitional ITO’s rules:
+  (c) for a transitional ITO that is a charitable trust, the transitional ITO’s trust deed.
+
+#### Subpart 4 — Other matters
+
+### 68 Employment of transitional ITO employees by NZIST, NZIST subsidiary, wananga, workforce development council, or other transitional ITO
+(1) This clause applies if the activities of a transitional ITO are transferred to NZIST, an NZIST subsidiary, a wananga, a workforce development council, or another transitional ITO in accordance with a transition plan developed under clause 62.
+(2) The chief executive of NZIST or the NZIST subsidiary, wananga, workforce development council, or other transitional ITO (as the case may be) to which those activities are transferred must identify the employees of the transitional ITO—
+  (a) whose duties overall are required by NZIST or the NZIST subsidiary, wananga, workforce development council, or other transitional ITO (as the case may be) to carry out its functions; and
+  (b) whose positions will cease to exist as a result of the transfer of responsibility of the transitional ITO’s activities to NZIST or the NZIST subsidiary, wananga, workforce development council, or other transitional ITO.
+(3) An employee who is identified under subclause (2) may be offered equivalent employment by NZIST or the NZIST subsidiary, wananga, workforce development council, or other transitional ITO (as the case may be), being employment that is—
+  (a) in substantially the same position; and
+  (b) in the same general locality; and
+  (c) on terms and conditions (including any terms and conditions relating to redundancy and superannuation) that are no less favourable than those applying to the employee immediately before the date on which the offer of employment is made to the employee; and
+  (d) on terms that treat the period of service with the transitional ITO (and every other period of service recognised by the transitional ITO as continuous service) as if it were continuous service with NZIST or the NZIST subsidiary, wananga, workforce development council, or other transitional ITO.
+(4) If the employee accepts an offer of employment under subclause (3), the employee’s employment by NZIST or the NZIST subsidiary, wananga, workforce development council, or other transitional ITO (as the case may be) is to be treated as continuous employment, including for the purpose of service-related entitlements, whether legislative or otherwise.
+(5) An employee of a transitional ITO who is offered employment under subclause (3) is not entitled to receive any payment or other benefit on the ground that the employee’s position in the transitional ITO has ceased to exist, whether or not the employee accepts the offer.
+(6) This clause overrides—
+  (a) Part 6A of the Employment Relations Act 2000; and
+  (b) any employee protection provision in any relevant employment agreement.
+(7) In this clause, transitional ITO has the same meaning as in clause 52.
+
+### 69 Employment of Qualifications Authority employees by workforce development council
+(1) This clause applies if the functions of the Qualifications Authority in developing, setting, and maintaining skill standards in relation to 1 or more specified industries are to be transferred to a workforce development council that covers those industries in accordance with a transition plan developed by the Qualifications Authority for the purpose of this clause.
+(2) The chief executive of the workforce development council to which the functions of the Qualifications Authority are transferred must identify the employees of the Qualifications Authority—
+  (a) whose duties overall are required by the workforce development council to carry out its functions; and
+  (b) whose positions will cease to exist as a result of the transfer of responsibility of the Qualifications Authority’s functions to the workforce development council.
+(3) An employee who is identified under subclause (2) may be offered equivalent employment by the workforce development council, being employment that is—
+  (a) in substantially the same position; and
+  (b) in the same general locality; and
+  (c) on terms and conditions (including any terms and conditions relating to redundancy and superannuation) that are no less favourable than those applying to the employee immediately before the date on which the offer of employment is made to the employee; and
+  (d) on terms that treat the period of service with the Qualifications Authority (and every other period of service recognised by the Qualifications Authority as continuous service) as if it were continuous service with the workforce development council.
+(4) If the employee accepts an offer of employment under subclause (3), the employee’s employment by the workforce development council is to be treated as continuous employment, including for the purpose of service-related entitlements, whether legislative or otherwise.
+(5) An employee of the Qualifications Authority who is offered employment under subclause (3) is not entitled to receive any payment or other benefit on the ground that the employee’s position in the Qualifications Authority has ceased to exist, whether or not the employee accepts the offer.
+(6) This clause overrides—
+  (a) Part 6A of the Employment Relations Act 2000; and
+  (b) any employee protection provision in any relevant employment agreement.
+
+### 70 Provider must not charge fee for compulsory student services during specified period
+(1) A provider must not charge a trainee a compulsory student services fee during the specified period.
+(2) The Minister may, by notice published on an Internet site maintained by or on behalf of the Ministry, specify any class of trainees to whom subclause (1) does not apply.
+(3) In subclause (1),—
+  - **compulsory student services fee** means a fee determined under section 227(1B) or as defined in section 235D(6)
+  - **provider** has the same meaning as in section 477
+  - **specified period** means the period beginning on the commencement date and ending on the close of 31 December 2021.
+
+### 71 Existing training contracts
+(1) This clause applies to a training contract between an employer and employee that is in force immediately before the commencement date.
+(2) On and after the commencement date, the training contract must be treated as if it were a training agreement for the purposes of section 478.
+
+### 72 References to industry training organisation to be treated as references to transitional ITO
+Despite the amendments made by the amendment Act, a reference to an industry training organisation in any enactment or document, as it read immediately before the commencement date, must, on and after that date, be read as a reference to a transitional ITO for the period that transitional ITOs remain in existence under the amendment Act.
+
+### 73 Transitional regulations
+(1) The Governor-General may, by Order in Council made on recommendation of the Minister, make regulations prescribing transitional provisions, savings provisions, or both, for either or both of the following purposes:
+  (a) facilitating or ensuring the orderliness of the transition of the amendments made to this Act by the amendment Act:
+  (b) ensuring that existing rights or obligations continue as part of, or despite, that transition.
+(2) The Minister must not recommend the making of regulations under subclause (1) unless satisfied that those regulations—
+  (a) are reasonably necessary for either or both of the purposes in subclause (1)﻿(a) and (b); and
+  (b) are consistent with the purposes of those amendments.
+(3) The transitional provisions or savings provisions prescribed by regulations under subclause (1) may be provisions in addition to or instead of those set out in this Part, and may—
+  (a) provide that, for a transitional period, in any circumstances, or subject to any conditions, specified in the regulations, 1 or more provisions (including definitions) of those amendments to this Act do not apply, or apply with modifications or additions:
+  (b) provide that, for a transitional period, in any circumstances, or subject to any conditions, specified in the regulations, 1 or more provisions repealed, amended, or revoked by those amendments to this Act continue to apply, or apply with modifications or additions, as if they had not been repealed, amended, or revoked:
+  (c) provide for any other matter necessary for either or both of the purposes in subclause (1)﻿(a) and (b).
+(4) No regulations made under this clause may be made, or continue in force, after the close of 31 December 2022.
 
 ## Schedule 2 — Administrative provisions applying to Board continued by section 37
 
@@ -10405,6 +11365,8 @@ Except as provided in clause 33, a board must not acquire an interest in land, o
 
 ## Schedule 13A — Application of Crown Entities Act 2004 to tertiary education institutions
 
+### Part 1 — Provisions relating to all tertiary education institutions
+
 | Section | Brief description |
 | --- | --- |
 | Section 3 to 8 | Crown entities and categories |
@@ -10429,6 +11391,30 @@ Except as provided in clause 33, a board must not acquire an interest in land, o
 | Section 176 | Application of provisions of the Public Finance Act 1989 |
 | Section 178 | Application of Archives Act 1957 |
 | Sections 181, 188, 191, 193, 194, 198, 199, 200 | Transitional and savings provisions and associated consequential amendments |
+
+### Part 2 — Additional provisions of Crown Entities Act 2004 applying to NZIST
+
+| Section | Brief description |
+| --- | --- |
+| Section 37 | Removal of members of autonomous Crown entities |
+| Section 38 | Removal of elected members of Crown agents and autonomous Crown entities |
+| Section 40 | Definition of just cause |
+| Section 41 | Process for removal |
+| Section 43 | No compensation for loss of office |
+| Sections 44 and 45 | Resignation of members and members ceasing to hold office |
+| Sections 47 and 48 | Remuneration and expenses of members |
+| Sections 49 to 52 | Collective duties of board |
+| Sections 53 to 57 | Individual duties of members |
+| Sections 58 to 61 | Effect of non-compliance with duties and reliance on information and advice |
+| Sections 73 to 76 | Delegation |
+| Section 77 | Vacancies in membership of board |
+| Sections 96 to 102 | Crown entity subsidiaries |
+| Sections 120 to 126 | Liability of members, office holders, and employees |
+| Sections 127 to 130 | Dealings with third parties |
+| Sections 138 to 149A | Statement of intent |
+| Sections 149B to 149M | Statement of performance expectations |
+| Sections 150 to 156 | Reporting: annual report |
+| Section 158 | Bank accounts of Crown entities |
 
 ## Schedule 14 — Administrative provisions applying to Vice-Chancellors Committee
 
@@ -10508,55 +11494,31 @@ Subject to any other enactment, the Committee may invest any of its money in any
 ## Schedule 19 — Transitional and savings provisions relating to councils of tertiary institutions
 
 ### 1 Interpretation
-For the purposes of this schedule, unless the context otherwise requires,—
-  (a) council means the council of an institution that is not a designated polytechnic:
-  (b) transition period, in relation to a council, means the period commencing on the commencement of this schedule, and ending on—
-    (i) the close of 30 June 2016; or
-    (ii) if the council fixes an earlier day for its successor council to take office, the close of the day before the day fixed:
-  (c) terms defined in section 159(1) have the meanings given by that section.
+[Repealed]
 
 ### 2 Existing councils to prepare draft constitutions
-(1) Every council must, in accordance with this Act,—
-  (a) prepare a draft constitution for a new council for its institution; and
-  (b) give a copy to the Minister.
-(2) The copy must be given to the Minister at least 2 months before the end of the transition period, and the draft constitution must be prepared early enough for this to be done.
+[Repealed]
 
 ### 3 Draft constitutions to be approved by Minister
-The Minister must, by notice in the Gazette setting out the constitution, confirm a draft constitution for a new council of an institution if—
-  (a) the council has given a copy to the Minister at least 2 months before the end of the transition period; and
-  (b) he or she is satisfied that it complies with the requirements of this Act.
+[Repealed]
 
 ### 4 Minister may establish new constitution if council does not act in time
-The Minister may, by notice in the Gazette setting out the constitution, establish a constitution for a new council if the council has not given a copy of a draft constitution to the Minister at least 2 months before the end of the transition period.
+[Repealed]
 
 ### 5 When new constitution established
-A constitution of an institution—
-  (a) is established when a notice under clause 3 or 4 is published; and
-  (b) comes into effect at the close of the council's transition period.
+[Repealed]
 
 ### 6 New councils to be appointed
-(1) As soon as practicable after a constitution for a new council of an institution is established, the Minister and the existing council must, in accordance with this Act, appoint members of a new council.
-(2) The Minister must make appointments before the close of the council's transition period.
-(3) The council must make appointments no later than 3 months after the close of that period.
+[Repealed]
 
 ### 7 New councils to replace existing councils at close of transition period
-(1) At the close of its transition period,—
-  (a) the members of every council go out of office and are replaced by members appointed pursuant to clause 6(1); and
-  (b) the chairperson and deputy chairperson of every council go out of office as chairperson or deputy chairperson (even if they are members appointed pursuant to clause 6(1)).
-(2) Neither the Crown nor the council is liable to make a payment to, or otherwise compensate, a person in respect of the person's going out of office as a member of the council under subclause (1).
-(3) At the first meeting of a council after the close of its transition period, a council must elect one of its members to be the chairperson, and another of its members to be the deputy chairperson, of the council.
+[Repealed]
 
 ### 8 Council continues to be same body
-(1) After the close of its transition period, a council—
-  (a) is the same body it was immediately before that close; and
-  (b) continues to have the rights and obligations it then had.
-(2) Subclause (1) is subject to clause 9.
+[Repealed]
 
 ### 9 Temporary power of direction
-(1) Before the close of a council's transition period, the Minister may, by written notice to the chief executive of the institution concerned, give any directions he or she thinks reasonably necessary to ensure that the council as reconstituted can deal effectively with the business before it after the close of that period, and—
-  (a) the chief executive must give the council notice of the directions as soon as practicable after the close of that period; and
-  (b) the council must comply with the directions.
-(2) The Minister must consult the council before giving the directions.
+[Repealed]
 
 ## Schedule 20 — Transitional and savings provisions relating to other matters
 
@@ -10761,6 +11723,125 @@ No member of the Teaching Council is personally liable for any act done or omitt
 (5) In this clause, matter means—
   (a) the Teaching Council’s performance of its functions or exercise of its powers; or
   (b) an arrangement, agreement, or contract made or entered into, or proposed to be entered into, by the Teaching Council.
+
+## Schedule 22 — NZIST’s charter
+
+## Schedule 23 — Provisions applying on dissolution of NZIST subsidiary
+
+### 1 Interpretation
+In this schedule, unless the context otherwise requires,—
+  - **Commission** means the Tertiary Education Commission established under section 159C
+  - **dissolution date** —
+    (a) means, in relation to a corresponding NZIST subsidiary established under clause 29(1) of Schedule 1,—
+      (i) the date specified in clause 30(1) of that schedule:
+      (ii) the date specified by Order in Council under clause 30(2) of that schedule:
+      (iii) the date on which the subsidiary is dissolved in accordance with a resolution of NZIST’s council under clause 31 of Schedule 1:
+    (b) means, in relation to a subsidiary formed by NZIST under section 222ZA(1), the date on which the subsidiary is dissolved in accordance with a resolution of NZIST’s council
+  - **NZIST** means the New Zealand Institute of Skills and Technology established by section 222A
+  - **NZIST subsidiary** means—
+    (a) a corresponding NZIST subsidiary established under clause 29(1) of Schedule 1:
+    (b) a subsidiary formed by NZIST under section 222ZA(1)
+  - **Qualifications Authority** means the New Zealand Qualifications Authority continued by section 256A.
+
+**Dissolution**
+
+### 2 Dissolution of NZIST subsidiary
+(1) An NZIST subsidiary is dissolved on the dissolution date.
+(2) As soon as possible after the dissolution date, the Registrar of Companies must remove the NZIST subsidiary from the New Zealand register of companies kept under the Companies Act 1993.
+
+**Consequences of dissolution**
+
+### 3 Members of NZIST subsidiary board cease to hold office
+(1) Every member of an NZIST subsidiary’s board who holds office immediately before the dissolution date ceases to hold office on the close of the day before that date.
+(2) Neither the Crown, NZIST, nor the NZIST subsidiary is liable to make a payment to, or otherwise compensate, a person referred to in subclause (1) for the loss of office.
+
+### 4 Transfer of rights, assets, and liabilities to NZIST
+(1) This clause applies to all rights, assets, and liabilities that an NZIST subsidiary had immediately before the dissolution date.
+(2) On and after the dissolution date,—
+  (a) all rights, assets, and liabilities of the NZIST subsidiary vest in NZIST; and
+  (b) unless the context otherwise requires, every reference to the NZIST subsidiary in any enactment or any instrument, register, agreement, deed, lease, application, notice, or other document before the dissolution date must be read as a reference to NZIST.
+(3) In this clause, assets, liabilities, and rights have the same meanings as in section 216(1).
+
+### 5 Employment of NZIST subsidiary employees by NZIST
+(1) The chief executive of NZIST must identify the employees of the NZIST subsidiary—
+  (a) whose duties overall are required by NZIST to carry out its functions; and
+  (b) whose positions will cease to exist as a result of the dissolution of the NZIST subsidiary.
+(2) An employee who is identified under subclause (1) must be offered equivalent employment by NZIST, being employment that is—
+  (a) in substantially the same position; and
+  (b) in the same general locality; and
+  (c) on terms and conditions (including any terms and conditions relating to redundancy and superannuation) that are no less favourable than those applying to the employee immediately before the date on which the offer of employment is made to the employee; and
+  (d) on terms that treat the period of service with the NZIST subsidiary (and every other period of service recognised by the NZIST subsidiary as continuous service) as if it were continuous service with NZIST.
+(3) If the employee of the NZIST subsidiary accepts an offer of employment under subclause (2), the employee’s employment by NZIST is to be treated as continuous employment, including for the purpose of service-related entitlements, whether legislative or otherwise.
+(4) An employee of an NZIST subsidiary who is offered employment under subclause (2) is not entitled to receive any payment or other benefit on the ground that the employee’s position in the NZIST subsidiary has ceased to exist whether or not the employee accepts the offer.
+(5) This clause overrides—
+  (a) Part 6A of the Employment Relations Act 2000; and
+  (b) any employee protection provision in any relevant employment agreement.
+
+### 6 Government Superannuation Fund
+(1) This clause applies to a person who, immediately before becoming an employee of NZIST, was a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956.
+(2) For the purposes of the Government Superannuation Fund Act 1956, the person is treated as being employed in the Government service as long as the person continues to be an employee of NZIST.
+(3) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person’s service as an employee of NZIST were Government service.
+(4) Subclause (1) does not entitle a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
+(5) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of NZIST is the controlling authority.
+
+### 7 Students of NZIST subsidiary
+(1) This clause applies to every student enrolled at an NZIST subsidiary immediately before the dissolution date.
+(2) On and after the dissolution date, the student must be treated as having been enrolled at NZIST.
+(3) A student who would, but for the dissolution of the NZIST subsidiary, have been entitled to be granted an award of the NZIST subsidiary is entitled to be granted a like award of NZIST.
+(4) In subclause (3), award has the same meaning as in section 159(1).
+
+### 8 Visas granted under Immigration Act 2009
+(1) This clause applies to a visa granted under the Immigration Act 2009 in respect of—
+  (a) a student, for the purposes of enrolment at an NZIST subsidiary; or
+  (b) a staff member of an NZIST subsidiary.
+(2) On and after the dissolution date, any reference to the NZIST subsidiary in a condition imposed on the visa must be read as a reference to NZIST.
+
+### 9 Existing approvals, accreditations, and consents
+(1) This clause applies to the following matters granted to an NZIST subsidiary or treated as having been granted to the subsidiary by the Qualifications Authority under Part 20 before the dissolution date and in effect immediately before that date:
+  (a) an approval of a programme under section 249:
+  (b) an accreditation to provide all or part of a programme under section 250:
+  (c) an approval to provide a training scheme under section 251:
+  (d) a consent to assess against the standards listed on the Directory of Assessment Standards under section 252:
+  (e) a consent to award a degree or a post-graduate qualification under section 253B.
+(2) On and after the dissolution date,—
+  (a) the approval, accreditation, or consent (including any conditions imposed on an approval or accreditation) continues to apply and must be treated as if it were granted to NZIST; and
+  (b) unless the context otherwise requires, every reference in the approval, accreditation, or consent must be read as a reference to NZIST.
+
+### 10 Existing funding paid by Commission under funding mechanism
+(1) This clause applies to funding (including any conditions imposed on the funding) payable by the Commission to an NZIST subsidiary or that is treated as being payable to the subsidiary under clause 43 of Schedule 1—
+  (a) in accordance with an approval granted under section 159YA(2); or
+  (b) other than via a plan under section 159ZC.
+(2) On and after the dissolution date,—
+  (a) the Commission must treat the funding, unless it is earlier suspended, revoked, or withdrawn under section 159YG or 159ZF, as if it were payable to NZIST; and
+  (b) for the purposes of paragraph (a), every reference to the NZIST subsidiary in an approval granted under section 159YA(2) must, unless the context otherwise requires, be read as a reference to NZIST.
+
+### 11 Existing proceedings and other matters
+(1) On and after the dissolution date,—
+  (a) the continuation or enforcement of any proceedings by or against an NZIST subsidiary may instead be continued or enforced by or against NZIST without amendment to the proceedings; and
+  (b) the completion of a matter or thing that would, but for this clause, have been completed by the NZIST subsidiary may be completed by NZIST; and
+  (c) anything done, or omitted to be done, or that is to be done, by or in relation to the NZIST subsidiary is to be treated as having been done, or having been omitted to be done, or to be done, by or in relation to NZIST.
+(2) In subclause (1)﻿(a), proceedings—
+  (a) means civil and criminal proceedings; and
+  (b) includes any enforcement or compliance activities by the Commission or the Qualifications Authority.
+
+### 12 Final report of dissolved NZIST subsidiary
+(1) As soon as is reasonably practicable after the dissolution date, NZIST must prepare and forward to the Minister a final report on the dissolved NZIST subsidiary’s operations.
+(2) The final report must be for the period (the report period)—
+  (a) commencing at the start of the financial year in which the NZIST subsidiary was dissolved; and
+  (b) ending with the close of the day immediately before the date on which the subsidiary was dissolved.
+(3) The final report must include audited financial statements for the report period.
+(4) The Minister must present a copy of the final report to the House of Representatives as soon as is reasonably practicable after receiving it.
+
+### 13 Transfers of contracts does not give rise to claims
+No person may claim against NZIST or an NZIST subsidiary for breach of contract on the ground that contract, or any benefit of the contract, is vested in NZIST, whether or not the vesting involves NZIST and its employees gaining access to any information, data, programme, intellectual property right knowledge, chattel, equipment, transmission device, or facility of the claimant or any other person.
+
+### 14 Provisions that apply if corresponding NZIST subsidiary dissolved and assets, etc, transferred to another NZIST subsidiary
+(1) This clause applies if NZIST’s council dissolves a corresponding NZIST subsidiary under clause 31 of Schedule 1 and transfers some or all of the rights, assets, and liabilities of that subsidiary to another NZIST subsidiary under that clause.
+(2) Clauses 4 to 11 and 13 of this schedule apply, with any necessary modifications, as if a reference in those provisions to NZIST were to the other NZIST subsidiary to which those rights, assets, and liabilities are transferred.
+
+## Schedule 24 — Matters to be specified in levy orders
+
+## Schedule 25 — Further provisions of Act that apply and do not apply to NZIST subsidiaries
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Education Amendment Act (No 4) 1991, and shall be read together with and deemed part of the Education Act 1989 (hereinafter referred to as “the principal Act”).
