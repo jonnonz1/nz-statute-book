@@ -1,5 +1,5 @@
 # Legislation Act 2019
-_Consolidation as at 2019-10-28_
+_Consolidation as at 2020-04-01_
 
 ### 1 Title
 This Act is the Legislation Act 2019.
@@ -1569,13 +1569,13 @@ A failure to comply with this schedule does not invalidate secondary legislation
 | Customs and Excise Act 2018 | cl 23 of Schedule 3 | Only if the order increases a rate of duty |
 | Education Act 1989 | 2(4) |  |
 | Education Act 1989 | 159(4) |  |
+| Education Act 1989 | 501(1) |  |
 | Energy (Fuels, Levies, and References) Act 1989 | 33(1) |  |
 | Energy Resources Levy Act 1976 | 5(1) |  |
 | Fisheries Act 1996 | 74(7) |  |
 | Food Act 2014 | 207 |  |
 | Forests Act 1949 | 67ZM |  |
 | Gambling Act 2003 | 319(1) |  |
-| Industry Training and Apprenticeships Act 1992 | 26(1) |  |
 | KiwiSaver Act 2006 | 65(1) |  |
 | Land Transport Act 1998 | 269 and 269A | Only if the regulations prescribe fees or charges that are identified, or are to be treated, as land transport revenue for the purposes of the Land Transport Management Act 2003 |
 | Land Transport Management Act 2003 | 65ZJ(1) |  |
