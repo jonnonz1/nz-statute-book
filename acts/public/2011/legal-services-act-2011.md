@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2019-12-20_
+_Consolidation as at 2020-04-03_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -131,7 +131,8 @@ Legal aid may be granted in respect of the following criminal matters:
   (c) proceedings before the New Zealand Parole Board that—
     (i) are held under section 27, 65, or 107 of the Parole Act 2002 (which relate to postponement orders, recall orders, and orders under section 107 of that Act); or
     (ii) otherwise concern an offender who is entitled, under section 49(3)﻿(c) of the Parole Act 2002, to be represented by counsel in the proceeding:
-  (d) proceedings in the High Court on an application under section 68 of the Parole Act 2002 (which relates to appeals against postponement orders, section 107 orders, and final recall orders).
+  (d) proceedings in the High Court on an application under section 68 of the Parole Act 2002 (which relates to appeals against postponement orders, section 107 orders, and final recall orders):
+  (e) applications to the Criminal Cases Review Commission under section 21 of the Criminal Cases Review Commission Act 2019.
 
 ### 7 Proceedings for which legal aid may be granted: civil matters
 (1) Legal aid may be granted in respect of the following civil matters:
