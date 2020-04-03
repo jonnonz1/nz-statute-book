@@ -1,5 +1,5 @@
 # Criminal Cases Review Commission Act 2019
-_Consolidation as at 2019-11-16_
+_Consolidation as at 2020-04-03_
 
 ### 1 Title
 This Act is the Criminal Cases Review Commission Act 2019.
