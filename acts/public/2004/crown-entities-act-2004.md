@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2020-04-01_
+_Consolidation as at 2020-04-03_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1976,6 +1976,7 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Children's Commissioner |  |  |  |  |  |
 | Climate Change Commission |  |  |  |  |  |
 | Commerce Commission |  |  |  |  |  |
+| Criminal Cases Review Commission |  |  |  |  |  |
 | Drug Free Sport New Zealand |  |  |  |  |  |
 | Electoral Commission |  |  |  |  |  |
 | Electricity Authority |  |  |  |  | ✓ |
