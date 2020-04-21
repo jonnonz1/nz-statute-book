@@ -1,5 +1,5 @@
 # New Zealand Business Number Act 2016
-_Consolidation as at 2019-06-06_
+_Consolidation as at 2020-04-21_
 
 ### 1 Title
 This Act is the New Zealand Business Number Act 2016.
@@ -47,7 +47,7 @@ In this Act, unless the context otherwise requires,—
     (b) any other body corporate:
     (c) a corporation sole:
     (d) a sole trader:
-    (e) a partnership (within the meaning of section 4(1) of the Partnership Act 1908), or association of persons, whether incorporated or not:
+    (e) a partnership (within the meaning of section 8(1) of the Partnership Law Act 2019), or association of persons, whether incorporated or not:
     (f) in the case of a trust,—
       (i) if the trust has only 1 trustee, the trustee acting in his, her, or its capacity as trustee; and
       (ii) if the trust has more than 1 trustee, the trustees acting jointly in their capacity as trustees:
