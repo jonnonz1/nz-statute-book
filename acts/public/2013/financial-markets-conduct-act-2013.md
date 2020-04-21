@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2020-04-21_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -547,7 +547,7 @@ This Act has the following additional purposes:
 (1) In this Act, a person (A) is associated with, or an associated person of, another person (B) if—
   (a) A is a body corporate and B has the power, directly or indirectly, to exercise, or control the exercise of, the rights to vote attaching to 25% or more of the voting products of the body corporate (or vice versa):
   (b) A and B are relatives or related bodies corporate:
-  (c) A and B are partners to whom the Partnership Act 1908 applies:
+  (c) A and B are partners to whom the Partnership Law Act 2019 applies:
   (d) A is a director or senior manager of B (or vice versa):
   (e) A and B are acting jointly or in concert:
   (f) A acts, or is accustomed to act, in accordance with the wishes of B (or vice versa):
@@ -6083,7 +6083,7 @@ This Part is subject to a declaration under section 562(1)﻿(d) (FMA's power to
   (b) A holds or controls 5% or more of the voting products of the offeror; or
   (c) A is a related body corporate of the offeror; or
   (d) A holds or controls 20% or more of the voting products of a related body corporate of the offeror; or
-  (e) A is a partner of the offeror or of a director of the offeror (under the Partnership Act 1908); or
+  (e) A is a partner of the offeror or of a director of the offeror (under the Partnership Law Act 2019); or
   (f) A is a spouse, civil union partner, or de facto partner of a person who is a close business associate of the offeror under any of paragraphs (a) to (e) or subclause (3); or
   (g) A is a child, parent, brother, or sister of a person who is a close business associate of the offeror under any of paragraphs (a) to (f) or subclause (3) (whether or not by a step relationship).
 (3) A person (A) is also a close business associate of the offeror, in relation to an offer of financial products, if A has a close professional or business relationship with the offeror, or a director or senior manager of the offeror, that allows A to—
