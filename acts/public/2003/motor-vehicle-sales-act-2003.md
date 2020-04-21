@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2020-04-21_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -109,7 +109,7 @@ This Act binds the Crown.
   - **motor vehicle trader** has the meaning given to it by section 7
   - **motor vehicle trading** means the sale of motor vehicles by a person (whether or not the person is a principal or agent)
   - **new motor vehicle** means a motor vehicle that is not a used motor vehicle
-  - **partnership** has the meaning set out in section 4 of the Partnership Act 1908; and has a corresponding meaning
+  - **partnership** has the meaning set out in sections 8 and 9 of the Partnership Law Act 2019; and has a corresponding meaning
   - **possession** , in relation to a motor vehicle, includes custody and control of the motor vehicle
   - **register** means the register of motor vehicle traders established and maintained under section 52
   - **Registrar** means the officer appointed under section 60 who is responsible for the register
