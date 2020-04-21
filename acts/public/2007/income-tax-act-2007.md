@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2020-04-01_
+_Consolidation as at 2020-04-21_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -24968,7 +24968,7 @@ When contracts genuine
   (b) the contract is signed by all the parties to it; and
   (c) in the case of a contract of employment or engagement, each person employed or engaged under the contract is 20 years or older on the date of signing the contract; and
   (d) in the case of a contract of partnership, each partner is 20 years or older on the date of signing the contract; and
-  (e) the contract is binding for at least 3 years, except for the reasons set out in sections 36 and 38 of the Partnership Act 1908; and
+  (e) the contract is binding for at least 3 years, except for the reasons set out in sections 69, 70, 72, and 73 of the Partnership Law Act 2019; and
   (f) in the case of a contract of employment or engagement, each person employed or engaged has real control over their income under the contract; and
   (g) in the case of a contract of partnership, each partner has—
     (i) real control over their share of profits under the contract; and
@@ -43711,7 +43711,7 @@ In this Act, unless the context requires otherwise,—
   - **partner’s associate** is defined in section HG 11(12) (Limitation on deductions by partners in limited partnerships) for the purposes of that section
   - **partner’s interests** means the relevant interests in rights and obligations and other property, status, and things that a partner has as a result of applying section HG 2 (Partnerships are transparent)
   - **partnership** means—
-    (a) a group of 2 or more persons who have, between themselves, the relationship described in section 4(1) of the Partnership Act 1908:
+    (a) a group of 2 or more persons who have, between themselves, the relationship described in section 8(1) of the Partnership Law Act 2019:
     (b) a joint venture, if the joint venturers all choose to be treated as a partnership for the purposes of this Act and the Tax Administration Act 1994:
     (c) co-owners of property, other than persons who are co-owners only because they are shareholders of the same company, or settlors, trustees, or beneficiaries of the same trust, if the co-owners all choose to be treated as a partnership for the purposes of this Act and the Tax Administration Act 1994:
     (d) a limited partnership
@@ -44005,7 +44005,7 @@ In this Act, unless the context requires otherwise,—
     (a) a person (person A) makes specified livestock available, without specifying a fee for doing so, to another person (person B) who carries on a business in which the livestock are used; and
     (b) any return or compensation that person A receives for making the livestock available depends on the profits of the business; and
     (c) person A participates in the profits and losses of the business; and
-    (d) if a partnership between person A and person B arises, person A is bound by the requirements of the Partnership Act 1908 for third parties
+    (d) if a partnership between person A and person B arises, person A is bound by the requirements of the Partnership Law Act 2019 for third parties
   - **project of limited duration** is defined in section CW 16B(5) (Accommodation expenditure: out-of-town secondments and projects)
   - **projected transactions shareholding** is defined in section CD 34B (Distributions to members of co-operative companies)
   - **property** ,—
