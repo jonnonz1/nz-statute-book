@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2019-04-01_
+_Consolidation as at 2020-04-21_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -1140,11 +1140,11 @@ A person is not affected by, or deemed to have notice or knowledge of the conten
     (ii) the product or service is for the purposes of a business being, or to be, carried on by the enterprise.
 (3) In this section, enterprise means any of the following:
   (a) a body corporate:
-  (b) a firm under the Partnership Act 1908:
+  (b) a firm under the Partnership Law Act 2019:
   (c) the trustee or trustees of a trust.
 (4) For the purposes of this section, an enterprise is related to a member (M) if—
   (a) the enterprise is a body corporate and M has the power, directly or indirectly, to exercise, or to control the exercise of, the rights to vote attaching to 25% or more of the voting products (as defined in section 6(1) of the Financial Markets Conduct Act 2013) of the body corporate; or
-  (b) the enterprise is a firm under the Partnership Act 1908 in which M is a partner and—
+  (b) the enterprise is a firm under the Partnership Law Act 2019 in which M is a partner and—
     (i) M’s share of the firm’s profits in accordance with the terms of the partnership is 25% or more; or
     (ii) if M’s share of the firm’s profits cannot be determined in accordance with the terms of the partnership, M’s share of the most recent distribution of the firm’s profits was 25% or more; or
   (c) the enterprise is the trustee or trustees of a trust and M has, or the members of M’s family (taken together) have, a beneficial entitlement to 25% or more of the trust’s assets.
