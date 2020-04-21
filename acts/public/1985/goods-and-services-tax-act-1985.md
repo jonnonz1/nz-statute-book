@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2020-03-25_
+_Consolidation as at 2020-04-21_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -142,7 +142,7 @@ _Consolidation as at 2020-03-25_
     (d) the Controller and Auditor-General
   - **officer of the department** means an officer of the department as defined in the Tax Administration Act 1994
   - **output tax** , in relation to any registered person, means the tax charged pursuant to section 8(1) in respect of the supply of goods and services made by that person
-  - **partnership** and have the meanings set out in the Partnership Act 1908
+  - **partnership** and have the meanings set out in the Partnership Law Act 2019
   - **percentage actual use** is defined in section 21G(1)﻿(a) for the purposes of sections 8(4B)﻿(b), 9(2)﻿(h), 20(3JC), 20G, and 21 to 21H
   - **percentage difference** is defined in section 21G(1)﻿(c) for the purposes of sections 20G and 21 to 21H
   - **percentage intended use** is defined in section 21G(1)﻿(b) for the purposes of sections 8(4B)﻿(b), 20(3H), 20(3JC), 20G, and 21 to 21H
