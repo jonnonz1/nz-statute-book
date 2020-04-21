@@ -1,5 +1,5 @@
 # Limited Partnerships Act 2008
-_Consolidation as at 2020-01-13_
+_Consolidation as at 2020-04-21_
 
 ### 1 Title
 This Act is the Limited Partnerships Act 2008.
@@ -10,7 +10,7 @@ This Act comes into force on a date to be appointed by the Governor-General by O
 ## Part 1 — Preliminary provisions
 
 ### 3 Purpose of Act
-The purpose of this Act is to repeal the special partnership provisions of the Partnership Act 1908 and to establish a modern regulatory regime for limited partnerships that—
+The purpose of this Act is to establish a modern regulatory regime for limited partnerships that—
   (a) gives the business community in New Zealand the option of a flexible and internationally recognised business structure similar to limited partnerships in use in overseas jurisdictions; and
   (b) facilitates the development of the venture capital industry in New Zealand.
 
@@ -75,7 +75,7 @@ A limited partnership is formed only on its registration and continues in existe
   (b) a general partner that is a limited partnership and that has 1 or more general partners who are natural persons who—
     (i) live in New Zealand; or
     (ii) live in an enforcement country and are directors of a body corporate that is incorporated in that enforcement country under a law that is equivalent to the Companies Act 1993:
-  (c) a general partner that is a partnership governed by the Partnership Act 1908 and that has 1 or more partners who are natural persons who—
+  (c) a general partner that is a partnership governed by the Partnership Law Act 2019 and that has 1 or more partners who are natural persons who—
     (i) live in New Zealand; or
     (ii) live in an enforcement country and are directors of a body corporate that is incorporated in that enforcement country under a law that is equivalent to the Companies Act 1993:
   (d) a general partner that is a company:
@@ -156,7 +156,7 @@ A person is not affected by, or deemed to have notice or knowledge of the conten
 ### 18 Who may be partner
 (1) Subject to section 8(4), any person may be a general partner of a limited partnership.
 (1A) Any person may be a limited partner of a limited partnership.
-(2) Subject to subsection (1) and section 8(4), a partnership governed by the Partnership Act 1908 or an overseas limited partnership may be a partner of a limited partnership.
+(2) Subject to subsection (1) and section 8(4), a partnership governed by the Partnership Law Act 2019 or an overseas limited partnership may be a partner of a limited partnership.
 
 ### 19 General partner
 (1) A general partner is responsible for the management of the limited partnership.
