@@ -1,5 +1,5 @@
 # Electricity Industry Act 2010
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2020-04-21_
 
 ### 1 Title
 This Act is the Electricity Industry Act 2010.
@@ -42,7 +42,7 @@ In this Act, unless the context otherwise requires,—
   - **distribution** means the conveyance of electricity on lines other than lines that are part of the national grid
   - **distributor** means a business engaged in distribution
   - **domestic consumer** means a person who purchases or uses electricity in respect of domestic premises
-  - **domestic premises** means premises that are used or intended for occupation by a person principally as a place of residence; but does not include premises that constitute any part of premises described in section 5(c) to (k) of the Residential Tenancies Act 1986 (which refers to places such as jails, hospitals, hostels, hotels, and other places providing temporary accommodation)
+  - **domestic premises** means premises that are used or intended for occupation by a person principally as a place of residence; but does not include premises that constitute any part of premises described in section 5(1)﻿(c) to (k) of the Residential Tenancies Act 1986 (which refers to places such as jails, hospitals, hostels, hotels, and other places providing temporary accommodation)
   - **generation** means the generation of electricity that is fed into the national grid or a network
   - **generator** means a business engaged in generation
   - **industry participant** , or , means a person, or a person belonging to a class of persons, identified in section 7 as being a participant in the electricity industry
@@ -1765,7 +1765,7 @@ No account is to be taken, for the purpose of determining under Part 3 whether a
     (ii) a related body corporate of that body corporate (within the meaning in section 12(2) of the Financial Markets Conduct Act 2013); or
     (iii) a director of a related body corporate of that body corporate (within that same meaning); or
   (b) person A is a spouse, civil union partner, de facto partner, child, or parent of person B; or
-  (c) person A is a partner, to whom the Partnership Act 1908 applies, of person B; or
+  (c) person A is a partner, to whom the Partnership Law Act 2019 applies, of person B; or
   (d) person A is a limited partnership or an overseas limited partnership and person B is a general partner or a limited partner who takes part in the management of the limited partnership (within the meaning of the Limited Partnerships Act 2008); or
   (e) person A is a nominee or trustee for person B in relation to interests in a business; or
   (f) person A is a director of a company, or holds more than 10% of the control rights in the company, and person A and person B are parties to an agreement relating to—
