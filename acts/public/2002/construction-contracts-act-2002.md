@@ -1,5 +1,5 @@
 # Construction Contracts Act 2002
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2020-04-21_
 
 ### 1 Title
 This Act is the Construction Contracts Act 2002.
@@ -136,7 +136,7 @@ In this Act, unless the context otherwise requires,—
     (iii) a director of a related body corporate of that body corporate (within that same meaning); or
   (b) person A is a spouse, civil union partner, de facto partner, child, or parent of person B; or
   (c)
-  (d) person A is a partner, to whom the Partnership Act 1908 applies, of person B; or
+  (d) person A is a partner, to whom the Partnership Law Act 2019 applies, of person B; or
   (e) person A is a nominee or trustee for person B; or
   (f) person A is a director of a company, or person A holds more than 10% of the control rights in the company, and person A and person B are parties to an agreement or arrangement relating to—
     (i) the control of that company; or
