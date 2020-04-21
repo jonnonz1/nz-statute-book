@@ -1,5 +1,5 @@
 # Partnership Act 1908
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2020-04-21_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the law of partnership
 
