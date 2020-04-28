@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2020-04-28_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -54,7 +54,8 @@ This Act is the Corrections Act 2004.
   - **disciplinary proceedings** means a hearing conducted by a hearing adjudicator or a Visiting Justice under subpart 5 of Part 2
   - **drug** means—
     (a) a controlled drug within the meaning of the Misuse of Drugs Act 1975:
-    (b) a prescription medicine or restricted medicine within the meaning of the Medicines Act 1981
+    (b) a prescription medicine or restricted medicine within the meaning of the Medicines Act 1981:
+    (c) a psychoactive substance within the meaning of section 9 of the Psychoactive Substances Act 2013
   - **electronic communication device** —
     (a) means an electronic communication device (other than a device used to assist with a disability) that is capable of any or all of the following actions:
       (i) transmitting sound:
@@ -671,10 +672,17 @@ A prisoner must promptly obey every lawful order given to him or her by—
 (5) The chief executive must ensure that, if the prisoner is a person accused of an offence and subsequently acquitted, all information collected or taken from the prisoner under this section during the prisoner’s detention in respect of the charge, and any record of identifying information created in reliance on subsection (1) during that period, are immediately destroyed.
 
 ### 42 Certain information to be given to recently received prisoners
-(1) The manager of a prison must ensure that, on the reception of a prisoner in the prison, or reasonably promptly after the prisoner is received, the prisoner is given, in writing, relevant information on the operation and rules of the prison made under section 33, rules about authorised property made under section 45A, and the entitlements of prisoners.
+(1) The manager of a prison must ensure that, on the reception of a prisoner, or reasonably promptly after the prisoner is received, the prisoner is given, in writing, relevant and sufficient information about—
+  (a) the operation of the prison; and
+  (b) the rules of the prison made under section 33; and
+  (c) the rules about authorised property made under section 45A; and
+  (d) the entitlements of prisoners; and
+  (e) offences against discipline under sections 128 to 131; and
+  (f) the complaints system operating at the prison.
 (2) The manager of a prison must ensure that, on the reception into the prison of a prisoner who is a citizen of another country, or promptly after the prisoner is received, the prisoner is given, in writing, advice that—
   (a) the prisoner may require the manager to inform a consular representative of the country of which the prisoner is a citizen of his or her detention; and
   (b) any correspondence addressed to a representative by the prisoner will be forwarded to that representative without delay.
+(3) The manager of a prison must, as far as is practicable, also provide the information and advice in a form and language that are accessible and appropriate to the prisoner.
 
 **Prisoners' property**
 
@@ -792,9 +800,10 @@ A prisoner must promptly obey every lawful order given to him or her by—
 **Assessment, use of time, management plans, and programmes**
 
 ### 49 Prisoners must be assessed on reception and have needs addressed
-The chief executive must ensure that—
+(1) The chief executive must ensure that—
   (a) every prisoner is assessed promptly after reception at a prison to identify any immediate physical or mental health, safety, or security needs; and
   (b) any needs identified by that assessment are addressed.
+(2) The assessment under subsection (1)﻿(a) must include an at-risk assessment to determine whether the prisoner is at risk of self-harm.
 
 ### 50 Prisoners' use of time
 The chief executive must ensure that, as far as is practicable, every prisoner is provided with an opportunity to make constructive use of his or her time in prison.
@@ -877,8 +886,8 @@ The chief executive must ensure that, to the extent consistent with the resource
 
 **Denial or restriction of ability to associate**
 
-### 57 Segregation
-The opportunity of a prisoner to associate with other prisoners may be restricted or denied in accordance with sections 58 to 60.
+### 57 Denial or restriction of prisoner’s opportunity to associate with other prisoners
+The opportunity of a prisoner to associate with other prisoners must not be denied or restricted, except in accordance with this Act.
 
 ### 58 Segregation for purpose of security, good order, or safety
 (1) The prison manager may direct that the opportunity of a prisoner to associate with other prisoners be restricted or denied if, in the opinion of the manager,—
@@ -916,18 +925,16 @@ The opportunity of a prisoner to associate with other prisoners may be restricte
 
 ### 60 Segregation for purpose of medical oversight
 (1) A prison manager may direct that the opportunity of a prisoner to associate with other prisoners be restricted or denied if the health centre manager of the prison recommends that a direction of this kind is desirable for either or both of the following reasons:
-  (a) in order to assess or ensure the prisoner's physical health:
-  (b) in order to assess or ensure the prisoner's mental health (including, without limitation, the risk of self-harm).
+  (a) in order to assess or ensure the prisoner's physical health, except against the risk of self-harm:
+  (b) in order to assess or ensure the prisoner's mental health.
 (1A) Before a health centre manager makes a recommendation under subsection (1) that relates to a matter outside his or her scope of practice, he or she must consult a medical practitioner whose scope of practice includes that matter.
 (2) If a direction is given under this section,—
   (a) the prisoner concerned must promptly be given the reasons for the direction in writing:
   (b) the chief executive must promptly be informed of the direction and the reasons for it.
 (3) A direction under this section continues in force while the prisoner continues to be detained in the prison unless the prison manager or the chief executive revokes it.
 (4) The prison manager may not revoke a direction under this section unless the health centre manager advises that there has ceased to be any justification, under subsection (1), for continuing to restrict or deny the opportunity of the prisoner to associate with other prisoners.
-(5) While a direction under this section is in force, the health centre manager must, unless he or she is satisfied that it is not necessary in the circumstances, ensure that a registered health professional visits the prisoner concerned—
-  (a) at least once per day; or
-  (b) if the prisoner is assessed to be at risk of self-harm, at least twice per day.
-(6) In this section, scope of practice has the same meaning as in section 5(1) of the Health Practitioners Competence Assurance Act 2003.
+(5) While a direction under this section is in force, the health centre manager must, unless he or she is satisfied that it is not necessary in the circumstances, ensure that a registered health professional visits the prisoner concerned at least once a day.
+(6)
 
 ### 61 Accommodation to be provided if segregation direction in force
 (1) A prisoner who is subject to a direction under section 58, section 59, or section 60 must be provided with accommodation with prescribed items and features that meets prescribed standards.
@@ -935,6 +942,53 @@ The opportunity of a prisoner to associate with other prisoners may be restricte
   (a) differ from the items and features provided in, or the standards required to be met for, accommodation for prisoners who are not subject to a direction under section 58, section 59, or section 60:
   (b) differ depending on whether the direction was issued under section 58, section 59, or section 60:
   (c) differ depending on the particular reason for the issue of a direction under any of those sections.
+
+**Prisoners at risk of self-harm**
+
+### 61A Ongoing assessment for risk of self-harm
+A prisoner who has been assessed, in accordance with section 49(2), as not at risk of self-harm or whose at-risk assessment has been revoked must be re-assessed if there are material changes in the prisoner’s circumstances that are relevant to the risk of self-harm.
+
+### 61B Initial steps that prison manager and health centre manager must take in respect of at-risk prisoner
+The initial steps that must be taken in respect of an at-risk prisoner are—
+  (a) the prison manager must ensure that the prisoner is promptly placed in an at-risk cell or alternative accommodation that the prison manager considers adequate to protect the prisoner from self-harm; and
+  (b) the prison manager must ensure that the prisoner is observed by an officer at the intervals that the prison manager specifies; and
+  (c) the health centre manager must ensure that a registered health professional visits the prisoner at least twice per day (unless the health centre manager is satisfied that it is not necessary in the circumstances).
+
+### 61C Confirmation of at-risk prisoner assessment
+(1) The prison manager must, in respect of an at-risk prisoner, obtain the advice of the health centre manager within 24 hours after the prisoner’s at-risk assessment.
+(2) After considering the advice, the prison manager must—
+  (a) reverse the at-risk assessment, if the prison manager considers that the prisoner is not at risk of self-harm; or
+  (b) confirm the at-risk assessment, if the prison manager considers that the prisoner is at risk of self-harm.
+
+### 61D At-risk management plan established
+(1) If a prison manager confirms a prisoner’s at-risk assessment, the prison manager must ensure that an at-risk management plan is established for the prisoner as soon as practicable.
+(2) The plan must be established in consultation with—
+  (a) the health centre manager; and
+  (b) any other person within or outside the department that the prison manager considers has relevant expertise or knowledge.
+
+### 61E Content of at-risk management plan
+(1) An at-risk management plan must specify—
+  (a) the restrictions (if any) on the opportunity of the prisoner to associate with other prisoners; and
+  (b) the steps to be taken to address the prisoner’s risk of self-harm; and
+  (c) the situations in which the prisoner must be strip searched.
+(2) The plan may specify restrictions on the opportunity of the prisoner to associate with other prisoners only to the extent that those restrictions are necessary for the safety of the prisoner or the safety of other prisoners.
+(3) If the plan specifies restrictions on the opportunity of the prisoner to associate with other prisoners, the prison manager must ensure that—
+  (a) the prisoner is promptly informed in writing of the reasons for the restrictions; and
+  (b) the chief executive is promptly informed in writing of the restrictions and of the reasons for those restrictions.
+(4) The chief executive may, at any time, revoke or modify a restriction on the opportunity of a prisoner to associate with other prisoners and amend the plan accordingly.
+(5) The plan must be revised as necessary at regular intervals, in accordance with any requirements prescribed by regulations made under this Act and any relevant instructions issued under section 196.
+
+### 61F Revocation of confirmed at-risk assessment
+(1) The prison manager must revoke the confirmed at-risk assessment of an at-risk prisoner if the prison manager is satisfied, after obtaining the advice of the health centre manager, that the prisoner is no longer at risk of self-harm.
+(2) On the revocation of a prisoner’s at-risk assessment by the prison manager, the at-risk management plan for that prisoner ends.
+
+### 61G Health centre manager must consult registered health professional if advice outside scope of practice
+A health centre manager must not give advice under section 61C or 61F in relation to a matter that is outside his or her scope of practice, unless the health centre manager has first consulted a registered health professional whose scope of practice includes the matter in question.
+
+### 61H Designation of at-risk cell
+(1) The prison manager may designate a cell as an at-risk cell.
+(2) The designation must be in writing and may be revoked at any time.
+(3) An at-risk cell must have items and features, including items and features necessary for the safety of the prisoner, prescribed by regulations made under this Act and must meet prescribed standards.
 
 **Temporary release from custody and temporary removal of prisoners**
 
@@ -1475,6 +1529,7 @@ Authority conferred by this Act to search any person includes the authority to d
 (6) The situations referred to in subsection (3)﻿(b) are as follows:
   (a) immediately before the prisoner is locked in a cell to undergo a penalty of cell confinement imposed under subpart 5 of Part 2:
   (b) on the return of the prisoner to the prison after the prisoner is temporarily released from custody:
+  (ba) on the return of the prisoner to the prison after the prisoner has been outside the prison in the control of an officer, a probation officer, or a staff member who is not an officer:
   (c) on the return of the prisoner from work or from a part of the prison that is not supervised:
   (d) immediately before the prisoner leaves the prison:
   (e) at any time while the prisoner is being transferred to another prison:
@@ -1489,16 +1544,12 @@ Authority conferred by this Act to search any person includes the authority to d
   (j) if the prisoner is required under section 124 to submit to a prescribed procedure in the situation referred to in section 124(2)﻿(d), immediately before the prisoner submits to that procedure.
 (7) Every prisoner must be required to undergo a strip search conducted by an officer—
   (a) on first being admitted to a prison; and
-  (b) on the return of the prisoner to the prison—
-    (i) after the prisoner has been outside the prison in the control of an officer, probation officer, or staff member who is not an officer; but
-    (ii) not if the prisoner is returning to the prison from work; and
+  (b)
   (c) on being received in a prison on transfer from another prison.
-(7A) Every prisoner who is subject to a direction under section 60(1)﻿(b) because of risk of self-harm must be required to undergo a strip search conducted by an officer—
-  (a) when the prisoner is first placed in a segregation area pursuant to the direction; and
-  (b) each time the prisoner is returned to the segregation area after the prisoner has been in a part of the prison that is used by prisoners who are not subject to a segregation direction.
-(7B) In this subsection and subsection (7A),—
-  - **segregation area** means any confined area of the prison for the accommodation of prisoners who are subject to a segregation direction
-  - **segregation direction** means any direction under section 60.
+(7A) Every at-risk prisoner must be required to undergo a strip search conducted by an officer—
+  (a) each time the prisoner enters an at-risk cell, until an at-risk management plan is established for the prisoner:
+  (b) in the situations set out in the at-risk management plan for the prisoner.
+(7B)
 (8) A prisoner who is required under section 124 (other than in the situation referred to in section 124(2)﻿(d)) to submit to a prescribed procedure for the purpose of detecting whether or not the prisoner has used drugs or consumed alcohol, or both, may, immediately before the prisoner supplies a sample in accordance with that procedure, be required to undergo a strip search conducted by an officer, but only if—
   (a) the nature of the prescribed procedure is such that there is a risk that the prisoner may dilute, contaminate, or otherwise tamper with the sample; and
   (b) a strip search is necessary to ensure that such dilution, contamination, or tampering does not occur.
