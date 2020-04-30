@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2020-04-01_
+_Consolidation as at 2020-04-30_
 
 > Title
 
@@ -35,6 +35,7 @@ _Consolidation as at 2020-04-01_
     (b) the year commencing on 1 April 1993 and ending with 31 March 1994; or
     (c) any subsequent year commencing on 1 April and ending with 31 March
   - **Commissioner** means the Commissioner of Inland Revenue as defined in the Tax Administration Act 1994
+  - **COVID-19 New Zealanders Stranded Overseas Support Programme** means the welfare programme of that name approved and established under section 101 of the Social Security Act 2018 on 17 April 2020
   - **domestic maintenance** means any payment required to be made under this Act by any person towards the support of another person under section 58(2) or section 68(2)
   - **employee** has the same meaning as in paragraph (a) of the definition of employee in section YA 1 of the Income Tax Act 2007
   - **employer** has the same meaning as in paragraphs (a) and (b) of the definition of employer in section YA 1 of the Income Tax Act 2007
@@ -95,7 +96,9 @@ _Consolidation as at 2020-04-01_
       (i) a supported living payment under section 34 on the ground of restricted work capacity or total blindness:
       (ii) jobseeker support (other than jobseeker support under section 25(3) or (4) of that Act):
       (iii) young parent payment:
-    (d) an emergency benefit under section 63 of that Act, but only if granted to a sole parent (within the meaning of that Act)
+    (d) an emergency benefit under section 63 of that Act, but only if granted to a sole parent (within the meaning of that Act):
+    (e) special assistance under the COVID-19 New Zealanders Stranded Overseas Support Programme that corresponds to a benefit of a kind specified in paragraph (a), (c), or (d), but only if granted to a sole parent (within the meaning of that Act):
+    (f) special assistance under that programme that corresponds to a benefit of the kind specified in paragraph (b)
   - **source deduction payment** means a PAYE income payment (as defined in section RD 3 of the Income Tax Act 2007)
   - **step-parent** , in relation to any child, means, in applying any provision of this Act relating to the liability of a person to pay child support, any person who has been declared to be a step-parent of the child by the Family Court under section 99
   - **tax year** has the meaning in section YA 1 of the Income Tax Act 2007
@@ -234,6 +237,7 @@ The objects of this Act are—
 (7)
 (8) In this section,—
   - **sole parent** has the same meaning as in Schedule 2 of the Social Security Act 2018
+  - **unsupported child’s benefit** includes special assistance under the COVID-19 New Zealanders Stranded Overseas Support Programme that corresponds to an unsupported child’s benefit under section 46 of the Social Security Act 2018
   - **violence** has the same meaning as in section 9 of the Family Violence Act 2018.
 
 ### 10 Form of application
@@ -398,8 +402,8 @@ The objects of this Act are—
   (a) person P is a recognised carer of child C by virtue of subsection (6)﻿(a); and
   (b) every other recognised carer of child C (if any) agrees to the election.
 (4) However, the election does not qualify for acceptance if a recognised carer of child C is, or is expected to be, on the day referred to in section 25(5)﻿(a) or (b) (as the case may be),—
-  (a) a social security beneficiary by virtue of paragraph (a), (c), or (d) of the definition of social security benefit in section 2(1); or
-  (b) a social security beneficiary by virtue of paragraph (b) of that definition where the unsupported child’s benefit is granted in respect of child C.
+  (a) a social security beneficiary by virtue of paragraph (a), (c), (d), or (e) of the definition of social security benefit in section 2(1); or
+  (b) a social security beneficiary by virtue of paragraph (b) or (f) of that definition where the unsupported child’s benefit or special assistance is granted in respect of child C.
 (5) In determining whether to accept the election, the Commissioner—
   (a) may act on the basis of any information accompanying the notice of election and any other information in the Commissioner’s possession; and
   (b) is not required to conduct any enquiries or investigations into the matter.
@@ -495,7 +499,7 @@ A parent's income percentage, in relation to a qualifying child, is the percenta
   (b) annualised.
 (2) The amount of living allowance is as follows:
   (a) for a person not identified in paragraph (b), the rate set out in clause 1 of Part 2 of Schedule 4 of the Social Security Act 2018 (ignoring the reference to Income Test 1):
-  (b) for a person granted a supported living payment under subpart 4 of Part 2 of the Social Security Act 2018, the rate set out in clause 1(c) of Part 3 of Schedule 4 of that Act (ignoring the reference to Income Test 1).
+  (b) for a person granted a supported living payment under subpart 4 of Part 2 of the Social Security Act 2018, special assistance under the COVID-19 New Zealanders Stranded Overseas Support Programme that corresponds to such a payment, or both, the rate set out in clause 1(c) of Part 3 of Schedule 4 of that Act (ignoring the reference to Income Test 1).
 (3) The version of the appropriate schedule of the Social Security Act 2018 that applies in a child support year is the version in force on 1 January in the immediately preceding child support year.
 (4) The Commissioner must ensure that notice of the applicable living allowances under this section that apply to the current and (if applicable) the previous child support year is available at all reasonable times on an Internet site maintained by or on behalf of the Inland Revenue Department.
 
@@ -2664,6 +2668,7 @@ All money received by the Commissioner by way of child support in respect of a q
       (B) the aggregate of all payments of child support received by the Commissioner in respect of that child or children that are payable to the receiving carer (after any deductions have been made in accordance with subparagraph (ia)); and
     (iii) pay any remaining child support in respect of that child or children to the receiving carer.
 (3) This section does not limit the application of section 137 to the liable parent.
+(4) In this section and section 143, unsupported child’s benefit includes special assistance under the COVID-19 New Zealanders Stranded Overseas Support Programme that corresponds to an unsupported child’s benefit under section 46 of the Social Security Act 2018.
 
 ### 143 Payment of voluntary agreement child support to receiving carers who are social security beneficiaries
 (1) Where—the Commissioner shall—
