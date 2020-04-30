@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2020-04-30_
 
 > Title
 
@@ -1150,6 +1150,15 @@ The chief executive of a department is responsible for—
 (2) However, the Minister must not grant an extension unless the Minister is satisfied that the extension will enable the department to improve the quality of the information on strategic intentions that the department provides to its responsible Minister.
 (3) If a department is likely to be disestablished, the Minister may grant the department a waiver of the requirements in section 38.
 (4) As soon as practicable after granting an extension or a waiver, the Minister must present to the House of Representatives notice of the extension or waiver and the Minister's reasons for granting it.
+
+### 41AA Minister may grant extension of time requirement to provide information on strategic intentions: COVID-19
+(1) If a department is due to provide information on strategic intentions for a period beginning on 1 July 2020, the responsible Minister may grant the department an extension, of up to 3 months, of the period specified in section 38(4)﻿(a).
+(2) However, the responsible Minister must not grant an extension under subsection (1) unless the responsible Minister is satisfied that, as a consequence of the effects of COVID-19,—
+  (a) the department is unable to, or will experience significant difficulties if required to, provide the information on or before 1 July 2020; or
+  (b) the department is unable to adequately assess how its future operations will be affected and the extension will enable it to provide better information on strategic intentions than it would be able to if the extension were not granted.
+(3) If a department provides its information on strategic intentions after 1 July 2020 in reliance on an extension under this section, the information provided by the department must, despite section 38(2)﻿(a), relate to the then current financial year and at least the following 3 financial years.
+(4) As soon as practicable after granting an extension, the responsible Minister must present to the House of Representatives notice of the extension and the responsible Minister’s reasons for granting it.
+(5) This section is repealed on 1 October 2020.
 
 ### 41A Special provisions in relation to annual financial statements of school Board of Trustees
 [Repealed]
