@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2020-04-21_
+_Consolidation as at 2020-04-30_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -4308,7 +4308,10 @@ The following are exempt income:
 ### CW 33 Allowances and benefits
 Exempt income
 (1) The following are exempt income:
-  (a) a monetary benefit under the Social Security Act 2018, except an income-tested benefit:
+  (a) a monetary benefit under the Social Security Act 2018, except any of the following kinds:
+    (i) an income-tested benefit:
+    (ii) a payment of New Zealand superannuation equivalent assistance:
+    (iii) a payment of veteran’s pension equivalent assistance:
   (b) a payment under Part 5 or 13 of the Accident Insurance Act 1998, or under Part 11 of the Accident Compensation Act 2001, of any of the following kinds:
     (i) a payment to an insured person for treatment or rehabilitation:
     (ii) an independence allowance:
@@ -7617,6 +7620,7 @@ When this section applies
     (i) is in the nature of a grant or subsidy to the person; or
     (ii) is a grant-related suspensory loan to the person; and
   (c) the payment is not in the nature of an advance or loan other than a grant-related suspensory loan; and
+  (cb) the payment is not an amount of a loan under the small business cashflow scheme under section 7AA of the Tax Administration Act 1994; and
   (d) the person does not make an election that section CX 47(4) (Government grants to businesses) apply to the payment.
 When this section does not apply
 (1BA) This section does not apply to the extent to which a payment described in subsection (1) is the payment of an R&D loss tax credit and the person’s expenditure is attributable to that payment.
@@ -16019,7 +16023,8 @@ When this section applies
   (b) the release occurs under—
     (i) section 304 of the Insolvency Act 2006; or
     (ii) any of the Inland Revenue Acts; or
-    (iii) a loan described in subsection (2).
+    (iii) a loan described in subsection (2); or
+    (iv) the terms of a loan under the small business cashflow scheme under section 7AA of the Tax Administration Act 1994.
 Social assistance suspensory loan
 (2) A loan referred to in subsection (1)﻿(b)﻿(iii) is a loan that—
   (a) is made by a department or instrument of the executive government of New Zealand; and
@@ -24650,14 +24655,23 @@ When this section applies
 Company treated as not meeting requirements
 (2) The loss company is treated as not meeting the requirements of section IA 5 in relation to the share.
 
+### GB 3B Arrangements for carrying back net losses: companies
+When this section applies
+(1) This section applies when—
+  (a) a share in a company (the loss company) or another company has been subject to an arrangement, including an arrangement directly or indirectly altering rights attached to the shares; and
+  (b) the arrangement allows the loss company to meet the requirements of section IZ 8 (Election to use net loss for 2019–20 or 2020–21 year as tax loss in preceding year); and
+  (c) a purpose of the arrangement is to defeat the intent and application of section IZ 8.
+Company treated as not meeting requirements
+(2) The loss company is treated as not meeting the requirements of section IZ 8 in relation to the shares.
+
 ### GB 4 Arrangements for grouping tax losses: companies
 When this section applies
 (1) This section applies when—
   (a) a share in a company (the offset company) or another company has been subject to an arrangement, including an arrangement directly or indirectly altering rights attached to the shares; and
-  (b) the arrangement allows the offset company to meet the requirements of subparts IC and IP, and section IZ 7 (which relate to the use of tax losses by group companies), as applicable; and
+  (b) the arrangement allows the offset company to meet the requirements of subparts IC and IP, and sections IZ 7 and IZ 8 (which relate to the use of tax losses by group companies), as applicable; and
   (c) a purpose of the arrangement is to defeat the intent and application of those provisions.
 Company treated as not meeting requirements
-(2) The offset company is treated as not meeting the requirements of subparts IC and IP and section IZ 7, as applicable, in relation to the share.
+(2) The offset company is treated as not meeting the requirements of subparts IC and IP and section IZ 7 or IZ 8, as applicable, in relation to the share.
 
 ### GB 5 Arrangements involving trust beneficiaries
 When this section applies
@@ -30160,6 +30174,8 @@ Date and method for notifying Commissioner
 (2) Company A must notify the Commissioner of an election or payment under section IC 5(2) by the extended return date or, if applicable, a later date allowed by the Commissioner for the notice. The notification may be made in the company’s annual return of income.
 Extended return date
 (3) In subsections (1) and (2), extended return date means the 31 March that, for company A and the tax year in which the amount of the tax loss is subtracted, is the latest date to which the time for providing the return of income may be extended under section 37(5) of the Tax Administration Act 1994.
+Exception for payment arising from election under section IZ 8
+(4) Despite subsection (3), for a company that is a member of a group of companies and a tax year in which the company uses a tax loss that arises from an election by another group member under section IZ 8 (Election to use net loss for 2019–20 or 2020–21 year as tax loss in preceding year) and is made available by the other group member, the extended return date is determined using the tax year in which the net loss affected by the election arises for the other group member.
 
 ### IC 10 When companies have different balance dates
 When this section applies
@@ -30221,7 +30237,7 @@ Application of order
 
 ### ID 1 Treatment of tax losses by consolidated groups
 Consolidated group’s net losses
-(1) A tax loss of a consolidated group of companies is treated as the consolidated group’s tax loss, not the tax loss of a company that is part of the consolidated group. Subparts IA and IC (which relate to the general use and grouping of tax losses), as modified by this subpart, apply as if the consolidated group were 1 company.
+(1) A tax loss of a consolidated group of companies is treated as the consolidated group’s tax loss, not the tax loss of a company that is part of the consolidated group. Subparts IA and IC (which relate to the general use and grouping of tax losses) and section IZ 8 (Election to use net loss for 2019–20 or 2020–21 year as tax loss in preceding year), as modified by this subpart, apply as if the consolidated group were 1 company.
 Ring-fenced tax losses
 (2) Nothing in this subpart applies to a consolidated group whose companies are mining companies or mineral miners.
 
@@ -30803,6 +30819,72 @@ Residence of company A
   (b) resident in New Zealand, and not treated under a double tax agreement, and for the purposes of the agreement, as not resident in New Zealand, or liable by the law of another country or territory to income tax in that country or territory through domicile, residence, or place of incorporation.
 Relationship with sections IC 5 and IC 6
 (5) Subsections (1) and (2) override sections IC 5(1)﻿(a) and IC 6 (which relate to grouping requirements) and subsection (4) overrides sections IC 5(1)﻿(b) and IC 6.
+
+### IZ 8 Election to use net loss for 2019–20 or 2020–21 year as tax loss in preceding year
+Terms used in this section
+(1) This section provides that a person who has taxable income in the 2018–19 or 2019–20 income year and a net loss in the following income year may choose to reduce the taxable income in the first year by an amount, which is treated as being available tax loss that can be used in the first income year, and subtracting the same amount from the net loss that would otherwise be available in the second income year, subject to restrictions that are expressed in terms of—
+  (a) the offset years, which refers to the period of 2 years that is affected by the election and begins with either the 2018–19 or the 2019–20 income year:
+  (b) the taxable income year, which refers to the first of the offset years:
+  (c) the initial taxable income, which refers to the amount of taxable income given by subsection (2)﻿(a) for the person and the taxable income year:
+  (d) the net loss year, which refers to the second of the offset years:
+  (e) the elected amount, which refers to the amount by which an election under this section reduces both the initial taxable income and the net loss that, in the absence of the election, the person would have in the net loss year:
+  (f) the offset ownership period, which refers to the period in the offset years for which a person that is a company meets requirements relating to continuity of ownership for carrying forward loss balances from 1 tax year to the next:
+  (g) the income ownership period, which refers to the part of the offset ownership period that occurs in the taxable income year:
+  (h) the loss ownership period, which refers to the part of the offset ownership period that occurs in the net loss year:
+  (i) the group loss excess, which is the amount of the excess of net loss given by subsection (3)﻿(b) for the members of a wholly-owned group of companies and the loss ownership period.
+Who may make election under this section: general rule
+(2) A person, other than a person who is a member of a wholly-owned group of companies during the offset ownership period, may make an election under this section for the period consisting of 2 income years beginning with the 2018–19 or the 2019–2020 income year if,—
+  (a) in the absence of an election under this section, the person would have an amount of taxable income remaining in the taxable income year after subtracting the total amount of charitable donations for which the person has a tax credit for the taxable year under subpart LD (Tax credits for gifts and donations); and
+  (b) in the absence of an election under this section, the person would have a net loss in the net loss year; and
+  (c) the person is not a qualifying individual, as defined in section 3 of the Tax Administration Act 1994, in the net loss year and is not a multi-rate PIE in the offset years; and
+  (d) when the person is a company, the person meets the requirements relating to continuity of ownership given by section IA 5 or IP 3 (which give the requirements for companies to carry forward loss balances) during the offset ownership period.
+Who may make election under this section: rule for member of wholly-owned group
+(3) A person who is a member of a wholly-owned group of companies during the offset ownership period may make an election under this section for the offset years if,—
+  (a) in the absence of an election under this section, the person would have a net loss in the net loss year; and
+  (b) in the absence of an election under this section, an excess of net loss would remain for the loss ownership period if the total amount of the net loss of the person and the other group members were reduced by the total amount of the net income of the person and the other group members for which the other group members have not used non-refundable tax credits to meet income tax liabilities; and
+  (c) the person meets the requirements relating to continuity of ownership given by section IA 5 or IP 3 during the offset ownership period.
+Making election
+(4) The person makes the election by including the elected amount, which must not exceed the amount given for the person by subsection (5), (6), or (7), as an available tax loss in calculating the person’s taxable income for the taxable income year, in—
+  (a) a return of income for the taxable income year; or
+  (b) a request that the Commissioner amend under section 113 of the Tax Administration Act 1994 the assessment for the taxable income year.
+Effect of election: person other than company
+(5) If the person is not a company, the person’s net loss for the net loss year is reduced, and the person’s available tax loss for the taxable income year is increased, by an amount that is the smallest of—
+  (a) the initial taxable income referred to in subsection (2)﻿(a):
+  (b) the amount of the net loss referred to in subsection (2)﻿(b):
+  (c) the elected amount.
+Effect of election: company not in group
+(6) If the person is a company, other than a company that is a member of a group of companies at a time in the offset ownership period, the person’s net loss for the net loss year is reduced, and the person’s available tax loss for the taxable income year is increased, by an amount that is the smallest of—
+  (a) the initial taxable income referred to in subsection (2)﻿(a):
+  (b) the amount of the net income of the person for the income ownership period:
+  (c) the amount of the net loss referred to in subsection (2)﻿(b):
+  (d) the amount of the net loss of the person for the loss ownership period:
+  (e) the elected amount.
+Effect of election: member of group of companies
+(7) If the person is a member of a group of companies at a time in the offset ownership period, the person’s net loss for the loss ownership period is reduced, and the person’s available tax loss for the income ownership period is increased, by an amount that is the smallest of—
+  (a) the total amount of—
+    (i) the smaller of the initial taxable income referred to in subsection (2)﻿(a) and the net income of the person for the income ownership period:
+    (ii) the part of the elected amount that is made available under subparts IC and IP (which relate to the use and grouping of tax losses) to other members of the group of companies in the taxable income year:
+  (b) if the person is a member of a wholly-owned group in the loss ownership period, the group loss excess referred to in subsection (3)﻿(b) reduced by the total amount of the reductions in net loss for the period for the other members of the group from elections under this section:
+  (c) the elected amount.
+Application of subparts IC and IP to amounts made available to members of group
+(8) In the application of subparts IC and IP to the making available by a person, to another member of a group of companies, of an amount of available tax loss arising for the person under subsection (7),—
+  (a) the amount of available tax loss that exceeds the person’s initial taxable income is a tax loss for the taxable income year for the purposes of section IC 1 (Company A making tax loss available to company B):
+  (b) the commonality period referred to in section IC 6 (Common ownership for period) is the period consisting of the offset years:
+  (c) the requirements in section IP 4(2)﻿(d) and (4) and section IP 5 (which relate to breaches of continuity or commonality requirements) are not applied:
+  (d) the requirements in section IP 4(2)﻿(a), (ab), and (c) (Breach in income year in which tax loss component arises) are replaced by the requirements given by subsection (9).
+Replacement requirements in applying section IP 4(2)
+(9) The replacement requirements in section IP 4(2) are—
+  (a) the net loss giving rise to the available tax loss arises in the portion of the loss ownership period that is included in the common span; and
+  (b) the amount of the available tax loss is no more than the net income that the group company derives in the portion of the income ownership period that is included in the common span; and
+  (c) the person and the group company provide the Commissioner with adequate financial statements under section IP 6 (Financial statements required).
+When allocation of net loss effective
+(10) The increase in the person’s available tax loss for the taxable income year is not effective until the person—
+  (a) files a return of income for the taxable income year that includes a figure for the elected amount or an updated figure replacing a figure for the elected amount; or
+  (b) makes a request that the Commissioner amend under section 113 of the Tax Administration Act 1994 the assessment for the taxable income year based on a figure or an updated figure for the elected amount.
+Requests required for some amended assessments
+(11) A person who makes an election under this section must make a request that the Commissioner amend under section 113 of the Tax Administration Act 1994 the assessment for the taxable income year if the elected amount used in the most recent assessment of that income year exceeds the amount permitted by this section in the return of income for the net loss year.
+Accounting for part years in ownership continuity period
+(12) If the offset ownership period for a company includes a part, but not all, of an income year, the company must provide to the Commissioner adequate financial statements for the relevant part of the income year complying with the requirements of sections IP 3(2) and (4) (Continuity breach: tax loss components of companies carried forward) and IP 6.
 
 ## Part L — Tax credits and other credits
 
@@ -32964,7 +33046,7 @@ The first requirement for an entitlement to an in-work tax credit is that the pe
 When child financially dependent
 (1) The second requirement for an entitlement to an in-work tax credit is that the person referred to in section MD 4 is the principal caregiver for a child who is financially dependent on them.
 Inclusions
-(2) A child for whom payments are made under section 363 of the Oranga Tamariki Act 1989, or a child for whom an orphan’s benefit or an unsupported child’s benefit is paid under section 43 or 46 of the Social Security Act 2018, is treated as financially dependent on the person.
+(2) A child for whom payments are made under section 363 of the Oranga Tamariki Act 1989, or a child for whom an orphan’s benefit or an unsupported child’s benefit is paid, is treated as financially dependent on the person.
 Relationship with section MC 8
 (3) Subsection (2) overrides section MC 8 (Continuing requirements).
 
@@ -37556,6 +37638,8 @@ Fair and reasonable estimate
 (2) On or before an instalment date, the person may make a fair and reasonable estimate of their residual income tax for the tax year by informing the Commissioner of the estimate. The amount of provisional tax payable for a tax year is the amount of the estimated residual income tax.
 Revising estimates
 (3) On or before an instalment date, the person may choose to revise an estimate made under subsection (2). The amount last estimated is the amount taken into account under section RC 5(5).
+Exception for person making election under section IZ 8
+(3B) A person, including a person who otherwise does not use the estimation method in the tax year, who makes an election under section IZ 8 (Election to use net loss for 2019–20 or 2020–21 year as tax loss in preceding year), and a shareholder-employee of such a person, may make or revise an estimate made under subsection (2), for the tax year corresponding to the income year referred to in section IZ 8 as the taxable income year, before the earlier of the date on which the person files the return of income for the tax year and the date on which the return is due.
 Reasonable care in making and maintaining assessment
 (4) A person who makes an estimate under subsection (2) must take reasonable care in making it, and must revise the estimate for the tax year if, at some time in the tax year, the amount estimated is no longer fair and reasonable.
 Estimation higher than provisional tax payable
@@ -40622,7 +40706,7 @@ Request for particular application
 Commissioner applying refund
 (3) If no request is made under subsection (2), the Commissioner may apply the amount of the refund to satisfy a liability that the person has under the Inland Revenue Acts.
 Exclusion
-(4) Despite subsection (3), the Commissioner must not apply the amount of a refund under section LA 7(1)﻿(a) (Remaining refundable credits: tax credits for social policy and other initiatives) or RM 8 to satisfy a liability of the person.
+(4) Despite subsection (3), the Commissioner must not apply the amount of a refund under section LA 7(1)﻿(a) (Remaining refundable credits: tax credits for social policy and other initiatives) or RM 8, or arising from an election under section IZ 8 (Election to use net loss for 2019–20 or 2020–21 year as tax loss in preceding year), to satisfy a liability of the person.
 
 ### RM 11 Using GST refund to pay instalment of provisional tax
 When this section applies
@@ -41524,7 +41608,8 @@ In this Act, unless the context requires otherwise,—
     (a) a loss balance carried forward that, under Part I (Treatment of tax losses), is required to be subtracted from the net income:
     (b) an amount of another company’s tax loss that, under Part I, the person, if it is a company, is allowed to subtract from the net income:
     (c) an attributed CFC net loss or FIF net loss carried forward that, under subpart IQ (Attributed controlled foreign company net losses and foreign investment fund net losses), is required to be subtracted from the net income:
-    (d) the amount of another company's attributed CFC net loss or FIF net loss that, under subpart IQ, is subtracted from the net income
+    (d) the amount of another company's attributed CFC net loss or FIF net loss that, under subpart IQ, is subtracted from the net income:
+    (e) an amount treated as being an amount of available tax loss under section IZ 8 (Election to use net loss for 2019–20 or 2020–21 year as tax loss in preceding year) for a tax year referred to in that section as the taxable income year
   - **balance date** , for the purposes of sections FG 3 (Notional interest) and RC 10 (Calculating amount of instalment under standard and estimation methods) and subpart RC (Provisional tax), section RP 17B (Tax pooling accounts and their use), and schedule 3 (Payment of provisional tax and terminal tax) means the date of the annual balance of a person’s financial statements for their tax year
   - **balloted loan right** is defined in section DV 10(3) (Building societies) for the purposes of that section
   - **banking company** means a person carrying on in New Zealand the business of banking
@@ -41908,6 +41993,7 @@ In this Act, unless the context requires otherwise,—
   - **counted associate** is defined in section CD 22(9) (Returns of capital: off-market share cancellations) for the purposes of that section
   - **country-by-country report** is the report that must be provided to the Commissioner under section 78G of the Tax Administration Act 1994
   - **cover review period** is defined in section EY 30 (Transitional adjustments: life risk)
+  - **COVID-19 New Zealanders Stranded Overseas Support Programme** means the welfare programme of that name approved and established under section 101 of the Social Security Act 2018 on 17 April 2020
   - **credit account continuity provisions** means section OB 41 (ICA debit for loss of shareholder continuity)
   - **credit card repayment insurance** is defined in section EY 30 (Transitional adjustments: life risk)
   - **credit of tax** has the same meaning as
@@ -42004,7 +42090,7 @@ In this Act, unless the context requires otherwise,—
       (iii) who is financially dependent on that person:
     (b) for the purposes of the child tax credit and WFF tax credits other than the Best Start tax credit, does not include a child in relation to whom—
       (i) a payment is made under section 363 of the Oranga Tamariki Act 1989:
-      (ii) an orphan’s benefit or unsupported child’s benefit is being paid under section 43 or 46 of the Social Security Act 2018:
+      (ii) an orphan’s benefit or unsupported child’s benefit is being paid:
     (c) despite paragraph (b)﻿(i), for the purposes of the child tax credit and WFF tax credits other than the Best Start tax credit, includes a child or a young person, as defined in section 2(1) of the Oranga Tamariki Act 1989,—
       (i) of whom the person is a parent within the meaning of that Act; and
       (ii) to whom section 361 of that Act applies; and
@@ -42467,7 +42553,8 @@ In this Act, unless the context requires otherwise,—
       (iii) for any number of hours that is regarded as full-time employment for the purpose of an agreement, award, or contract relating to the employment; or
     (b) in receipt of a basic grant or an independent circumstances grant under the Student Allowances Regulations 1998 (SR 1998/277) or any regulations in substitution for those regulations; or
     (c) receiving payments under a Government-assisted scheme that the chief executive of the administering department considers analogous to a benefit payable under the Social Security Act 2018 (as the term benefit is defined in Schedule 2 of that Act); or
-    (d) receiving a benefit as defined in Schedule 2 of the Social Security Act 2018
+    (d) receiving a benefit as defined in Schedule 2 of the Social Security Act 2018; or
+    (e) receiving New Zealand superannuation equivalent assistance or veteran’s pension equivalent assistance
   - **first business day** , in relation to provisional tax, means—
     (a) the first day in an income year on which a person with a provisional tax liability derives income or incurs expenditure as a result of carrying on a taxable activity, if the person is not a natural person; and
     (b) the day following the last day in an income year on which a person with a provisional tax liability derived income from employment, if the person is a natural person
@@ -42838,7 +42925,8 @@ In this Act, unless the context requires otherwise,—
     (c) supported living payment:
     (d) youth payment:
     (e) young parent payment:
-    (f) emergency benefit
+    (f) emergency benefit:
+    (g) main benefit equivalent assistance
   - **increase in savings**
   - **independent living** means occupancy of a place under an arrangement that—
     (a) does not have a level of compulsory care:
@@ -43230,6 +43318,9 @@ In this Act, unless the context requires otherwise,—
   - **low-turnover trader** is defined in section EB 13(2) (Low-turnover valuation) for the purposes of subpart EB (Valuation of trading stock (including dealer’s livestock))
   - **lump sum payment** is defined in section EI 3(6) (Assigning or granting copyright) for the purposes of that section
   - **MACA** means
+  - **main benefit equivalent assistance** means special assistance granted under—
+    (a) clause 9 of the COVID-19 New Zealanders Stranded Overseas Support Programme that corresponds to a main benefit, as defined in schedule 2 of the Social Security Act 2018; or
+    (b) clause 11 of that programme
   - **main deposit** is defined in section EH 36 (Other definitions)
   - **main home** means, for a person, the 1 dwelling—
     (a) that is mainly used as a residence by the person (a home); and
@@ -43483,7 +43574,9 @@ In this Act, unless the context requires otherwise,—
       (ii) sections YD 1 to YD 3B (which relate to residence):
     (b) is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **New Zealand superannuation** —
-    (a) means New Zealand superannuation payable under Part 1 of the New Zealand Superannuation and Retirement Income Act 2001; and
+    (a) means any of the following:
+      (i) New Zealand superannuation payable under Part 1 of the New Zealand Superannuation and Retirement Income Act 2001:
+      (ii) New Zealand superannuation equivalent assistance; and
     (b) includes—
       (i)
       (ii)
@@ -43491,6 +43584,7 @@ In this Act, unless the context requires otherwise,—
     (c) does not include—
       (i) portable New Zealand superannuation; or
       (ii) a supplement or benefit paid or payable under any of sections 65 (accommodation supplement), 85 (disability allowance), 90 (funeral grants, see also regulations made under section 427), and 96 (temporary additional support) of the Social Security Act 2018
+  - **New Zealand superannuation equivalent assistance** means special assistance granted under clause 9 or 10 of the COVID-19 New Zealanders Stranded Overseas Support Programme that corresponds to New Zealand superannuation, ignoring paragraph (a)﻿(ii) of the definition of
   - **New Zealand superannuitant** , for a tax year,—
     (a) means a person who receives New Zealand superannuation in the tax year; and
     (b) does not include a person who receives New Zealand superannuation at a rate specified in—
@@ -43674,6 +43768,10 @@ In this Act, unless the context requires otherwise,—
       (ii) has all of the assets they transferred to the debt funding special purpose vehicle included in consolidated financial statements prepared for financial reporting purposes by the person or a member of a wholly-owned group of companies that includes the person; and
     (c) is a member of the same wholly-owned group of companies as all other persons who have transferred some or all of their assets to the debt funding special purpose vehicle, if more than 1 person has transferred some or all of their assets to the debt funding special purpose vehicle; and
     (d) is a New Zealand resident
+  - **orphan’s benefit** means any of the following:
+    (a) an orphan’s benefit payable under section 43 of the Social Security Act 2018:
+    (b) orphan’s benefit equivalent assistance
+  - **orphan’s benefit equivalent assistance** means special assistance granted under clause 9 or 12 of the COVID-19 New Zealanders Stranded Overseas Support Programme that corresponds to an orphan’s benefit payable under section 43 of the Social Security Act 2018
   - **other amortisation provision** means a provision of this Act that has similar intent and application to sections EE 1 (What this subpart does), EZ 7 (Acquiring patent rights before 1 April 1993), and EZ 8 (Premium paid on land leased before 1 April 1993)
   - **out-of-town secondment** is defined in section CW 16B(5) (Accommodation expenditure: out-of-town secondments and projects)
   - **output tax** is defined in section 2 of the Goods and Services Tax Act 1985
@@ -44512,6 +44610,7 @@ In this Act, unless the context requires otherwise,—
     (b) excludes an activity that enables a change in the intensity of a farming practice employed in a farming activity on the land
   - **significant financial hardship**
   - **slice rule** means the rule set out in section CD 23(3) (Ordering rule and slice rule) for calculating the amount of available subscribed capital per share
+  - **small business cashflow scheme** means the Small Business Cashflow (Loan) Scheme established by the Crown to provide loans to assist small-to-medium businesses in the circumstances arising from the continuing impact of COVID-19 related measures or circumstances
   - **small-business person** is defined in section RC 40 (Some definitions) for the purposes of subpart RC (Provisional tax)
   - **small partnership** means a partnership that is not a limited partnership and has 5 or less partners, none of whom are companies or partnerships
   - **small passenger service vehicle** has the same meaning as in section 2(1) of the Land Transport Act 1998
@@ -44884,6 +44983,10 @@ In this Act, unless the context requires otherwise,—
   - **unlisted widely-held trust** means a widely-held trust the units or interests in which are not quoted on the official list of a recognised exchange
   - **unpriced aircraft engine** , for a person and an aircraft, means an aircraft engine that the person acquires with the aircraft and that does not have, for the person, a price identified separately from the rest of the aircraft
   - **unrepaid PAYE income overpayment** is defined in section RD 8B(3) (Treatment of PAYE-related overpayments)
+  - **unsupported child’s benefit** means any of the following:
+    (a) an unsupported child’s benefit payable under section 46 of the Social Security Act 2018:
+    (b) unsupported child’s benefit equivalent assistance
+  - **unsupported child’s benefit equivalent assistance** means special assistance granted under clause 9 or 12 of the COVID-19 New Zealanders Stranded Overseas Support Programme that corresponds to an unsupported child’s benefit payable under section 46 of the Social Security Act 2018
   - **unused specified activity net loss** is the amount of specified activity net loss, under section IZ 1 as that section was immediately before its repeal by section 148 of the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018, that—
     (a) existed at the close of the 2017–18 income year; and
     (b) had not been included in the tax loss for the 2017–18 tax year or for an earlier tax year
@@ -44897,7 +45000,10 @@ In this Act, unless the context requires otherwise,—
   - **VCF** means the Venture Capital Fund established under section 8 of the Venture Capital Fund Act 2019
   - **venture investment agreement** is defined in section CW 13(6) (Proceeds from share or option acquired under venture investment agreement)
   - **Venture Investment Fund** means the company called New Zealand Venture Investment Fund Limited that is listed in Schedule 2 of the Crown Entities Act 2004
-  - **veteran’s pension** means a veteran's pension, other than a portable veteran's pension, paid or payable under Part 6 of the Veterans' Support Act 2014
+  - **veteran’s pension** means any of the following:
+    (a) a veteran’s pension, other than a portable veteran’s pension, paid or payable under Part 6 of the Veterans’ Support Act 2014:
+    (b) veteran’s pension equivalent assistance
+  - **veteran’s pension equivalent assistance** means special assistance granted under clause 9 or 10 of the COVID-19 New Zealanders Stranded Overseas Support Programme that corresponds to a veteran’s pension, ignoring paragraph (b) of the definition of
   - **volunteer** is defined in section CW 62B (Voluntary activities) for the purposes of that section
   - **voting interest** —
     (a) means, for a person and a company and a time, the percentage voting interest that the person is treated as holding in the company at the time under sections YC 2 to YC 20 (which relate to the measurement of company ownership):
