@@ -1,14 +1,26 @@
 # Credit Contracts Legislation Amendment Act 2019
-_Consolidation as at 2019-12-19_
+_Consolidation as at 2020-04-30_
 
 ### 1 Title
 This Act is the Credit Contracts Legislation Amendment Act 2019.
 
 ### 2 Commencement
 (1) Sections 16(1), 17(1), 18(1), 19, 22, 23, 28, 30 to 32, 34(2), 35, 38, 41 to 43, 46, 52, 53, and 54 come into force on the day after the date on which this Act receives the Royal assent.
-(2) Sections 15, 25, and 55(1) and (3) come into force on 1 June 2020.
+(1A) The following provisions come into force on the day after the date on which the COVID-19 Response (Taxation and Other Regulatory Urgent Measures) Act 2020 receives the Royal assent:
+  (a) sections 6 and 7:
+  (b) sections 16(2), 17(2), and 18(2):
+  (c) section 25 to the extent that it relates to sections 45A, 45C, 45E, 45I, 45J, and 45K of the Credit Contracts and Consumer Finance Act 2003:
+  (d) sections 34(1) and 37:
+  (e) section 40(1):
+  (f) section 49:
+  (g) section 55(1) to the extent that it relates to new paragraphs (na) and (nb) of Schedule 1 of the Credit Contracts and Consumer Finance Act 2003:
+  (h) section 55(3):
+  (i) section 69(4) to the extent that it relates to regulation 6A of the Credit Contracts and Consumer Finance Regulations 2004.
+(2) The following provisions come into force on 1 June 2020:
+  (a) sections 3, 5(1), 8, 9(2), 10(2) and (6), 12, 13, 14, 15, 29, 44, 56, 57, and 58:
+  (b) sections 25, 55, and 69(4) to the extent that they have not previously been brought into force.
 (3) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more orders may be made appointing different dates for different provisions and for different purposes.
-(4) To the extent that it is not previously brought into force under subsections (1) to (3), the rest of this Act comes into force on 1 April 2021.
+(4) To the extent that it is not previously brought into force under subsections (1) to (3), the rest of this Act comes into force on 1 April 2023.
 (5) In this section, provision includes any item, or any part of an item, in any of the schedules.
 
 ## Part 1 — Amendments to Credit Contracts and Consumer Finance Act 2003
@@ -949,7 +961,8 @@ Sections 45F and 45G
 
 ### Part 2 — Provision relating to Credit Contracts Legislation Amendment Act 2019
 
-### 4 Creditors registered as financial service providers before 1 April 2021
-(1) This clause applies to every creditor that is registered under this Act as at the close of 31 March 2021 and that is required to be certified under Part 5A of the Credit Contracts and Consumer Finance Act 2003.
+### 4 Creditors registered as financial service providers before commencement
+(1) This clause applies to every creditor that is registered under this Act as at the close of the day before commencement and that is required to be certified under Part 5A of the Credit Contracts and Consumer Finance Act 2003.
 (2) The date on and from which the creditor must be certified is the date in clause 12(2) or (5) (as the case may be) of Schedule 1AA of the Credit Contracts and Consumer Finance Act 2003, as amended by the Credit Contracts Legislation Amendment Act 2019.
 (3) After that date, section 18(1)﻿(a) (which relates to deregistration) applies if the person is not certified.
+(4) In this clause, commencement means the commencement of section 131B of the Credit Contracts and Consumer Finance Act 2003.
