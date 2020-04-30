@@ -1,18 +1,21 @@
 # Animal Welfare Amendment Act (No 2) 2015
-_Consolidation as at 2016-08-25_
+_Consolidation as at 2020-04-30_
 
 ### 1 Title
 This Act is the Animal Welfare Amendment Act (No 2) 2015.
 
 ### 2 Commencement
-(1) Sections 5(1), (5), and (6), 9, 11(2), 13(1), 14 to 19, 23 to 25, 26, 29(1), 56, and 68(2) come into force on the earlier of the following:
+(1) Sections 5(5), 23 to 26, and 56 come into force on the earlier of the following:
   (a) a date appointed by the Governor-General by Order in Council:
   (b) 5 years after the date on which this Act receives the Royal assent.
+(1A) Sections 5(1) and (6), 9, 11(2), 13(1), 14 to 19, 29(1), and 68(2) come into force on the earlier of the following:
+  (a) a date appointed by the Governor-General by Order in Council:
+  (b) 9 May 2021.
 (2) Sections 6, 8, and 41(1), (2), and (4) come into force on 1 January following the second anniversary of the date on which this Act receives the Royal assent.
 (3) Section 41(3) comes into force on the day that is 6 months after the date on which this Act receives the Royal assent.
 (4) Section 46(1) comes into force on the day that is 3 months after the date on which this Act receives the Royal assent.
 (5) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
-(6) One or more Orders in Council may be made under subsection (1) or (2) appointing different dates for different provisions.
+(6) One or more Orders in Council may be made under subsection (1), (1A), or (2) appointing different dates for different provisions.
 
 ### 3 Principal Act
 This Act amends the Animal Welfare Act 1999 (the principal Act).
