@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2020-04-01_
+_Consolidation as at 2020-04-30_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -159,7 +159,9 @@ _Consolidation as at 2020-04-01_
       (i) to decline to issue a binding ruling under Part 5A; or
       (ii) that cannot be the subject of an objection under Part 8; or
       (iii) that cannot be challenged under Part 8A; or
-      (iv) to issue a Commissioner's notice of proposed adjustment under section 89B, a Commissioner's disclosure notice or statement of position under section 89M, or a challenge notice
+      (iv) to issue a Commissioner's notice of proposed adjustment under section 89B, a Commissioner's disclosure notice or statement of position under section 89M, or a challenge notice; or
+      (v) to issue, or to decline to issue, a Commissioner’s COVID-19 response variation under section 6I; or
+      (vi) to grant, or to decline to grant, a loan under the small business cashflow scheme under section 7AA
   - **disputant** means a person—under a tax law
     (a) who may issue a notice of proposed adjustment to the Commissioner; or
     (b) to whom the Commissioner issues a notice of proposed adjustment or an assessment; or
@@ -800,6 +802,39 @@ For the purposes of this subpart, obvious error means an error of a type that ar
   (b) the intended purpose or object cannot be carried into effect by the relevant provision; and
   (c) the substance of the provision that Parliament would have made, had the error become known or had the circumstances been allowed for, is clear.
 
+**COVID-19 response variations**
+
+### 6H COVID-19 response: powers to vary provisions of Inland Revenue Acts
+Commissioner’s discretionary power
+(1) Section 6I provides the Commissioner with a discretionary power to extend a due date, deadline, time period, or timeframe set out in an Inland Revenue Act, or to vary a procedural or administrative requirement of an Inland Revenue Act, to apply in certain circumstances and for a limited time.
+Purpose of section 6I
+(2) The purpose of section 6I is to provide the Commissioner with some flexibility to mitigate the effect of a provision of the Inland Revenue Acts when compliance is impossible, impractical, or unreasonable for a person or a class of persons in circumstances arising either from the imposition of COVID-19 response measures or as a consequence of COVID-19.
+Supplementary discretionary power
+(3) The discretionary power to make a variation under section 6I supplements the powers of the Commissioner under the provisions of this Act. The power to vary a provision is intended to be used only when the Commissioner considers that an appropriate outcome is not possible or is difficult to achieve under the terms of an existing provision.
+Application of section 6I
+(4) Section 6I applies in relation to a variation of a provision for some or all of the period starting on 17 March 2020 and ending on 30 September 2021. However, the Governor-General may, by Order in Council made on the recommendation of the Minister of Revenue, extend the application of section 6I if it is reasonably necessary in the circumstances because of the continuing impact of COVID-19 related measures or circumstances.
+Extended meaning of Inland Revenue Acts
+(5) For the purpose of this section and section 6I, Inland Revenue Acts includes the Unclaimed Money Act 1971.
+
+### 6I COVID-19 response: Commissioner’s variations
+Power to vary
+(1) The Commissioner may vary the application of a provision in an Inland Revenue Act by—
+  (a) extending a due date, deadline, time period, or timeframe by, within, or in relation to which—
+    (i) a person must comply with a requirement set out in the provision:
+    (ii) a person must make an election under the provision:
+    (iii) a person’s entitlements, rights, or obligations are affected:
+  (b) modifying a procedural or administrative requirement that a person must meet under the provision, for example, modifying the nature or form of information or action required under the provision.
+Person treated as meeting requirements
+(2) A person who complies with a variation made under this section is treated as having met their requirements under the relevant Act.
+General application
+(3) A variation made under subsection (1) applies generally unless it is expressly stated that the variation—
+  (a) applies to a particular class of persons or circumstances; or
+  (b) requires certain conditions to be met for the variation to apply.
+Optional application
+(4) Despite subsection (3), a person to whom a variation is available may choose whether or not to apply the variation by taking a tax position, for example, in a return of income, or by informing the Commissioner of their election. If the person chooses not to apply a variation, the law applies as if the variation did not apply in relation to the person.
+Publication
+(5) The Commissioner must publish a variation made under this section in a manner chosen by the Commissioner.
+
 ### Subpart 2C — Functions and powers of Commissioner
 
 ### 7 Delegation of powers by Commissioner
@@ -812,6 +847,23 @@ For the purposes of this subpart, obvious error means an error of a type that ar
   (c) the Commissioner’s functions or powers in relation to deducting amounts from payments due (section 157 of this Act, section 193 of the Student Loan Scheme Act 2011 but in respect only of the powers in section 157 of this Act, and section 154 of the Child Support Act 1991); and
   (d) the Commissioner’s functions or powers in relation to tax recovery agreements negotiated between the government of a territory outside New Zealand and the Government of New Zealand (Part 10A of this Act).
 (3) Sections 41 and 42 of the State Sector Act 1988 apply to delegations under this section as if those delegations were made under section 41(1) of that Act.
+
+### 7AA Authorisation to make payments under small business cashflow loan scheme
+(1) The Commissioner, on behalf of the Crown, may grant a loan under the small business cashflow scheme (the scheme) to a person who—
+  (a) meets the eligibility requirements for a loan under the scheme; and
+  (b) makes a loan application to the Commissioner; and
+  (c) enters into a loan contract with the Commissioner.
+(2) For the purposes of subsection (1)﻿(b), the Commissioner must publish the eligibility requirements for a loan under the scheme on an internet site administered by the Commissioner.
+(3) The person in whose name the loan application is made—
+  (a) must provide the information to the Commissioner required by the loan contract; and
+  (b) is bound by the terms of the loan contract and must pay or repay all amounts payable by the person under the loan contract at the times and in the manner provided in the loan contract.
+(4) If a person who receives a payment from the Commissioner does not meet the required eligibility requirements, the person must repay the total amount to the Commissioner immediately.
+(5) A loan contract under this section is not a credit contract or a consumer credit contract for the purposes of the Credit Contracts and Consumer Finance Act 2003.
+(6) For the purposes of this section,—
+  - **loan contract** means a loan contract or agreement that—
+    (a) is provided by or on behalf of the Commissioner to a person in whose name a loan application has been made; and
+    (b) records the terms on which a loan under the small business cashflow scheme is, or will be, made
+  - **small business cashflow scheme** means the Small Business Cashflow (Loan) Scheme established by the Crown to provide loans to assist small-to-medium businesses in the circumstances arising from the continuing impact of COVID-19 related measures or circumstances.
 
 ### 7A Authorisation to take securities
 (1) The Commissioner may—
@@ -3984,7 +4036,7 @@ A notice of entitlement issued under section 80KD—
   (b) the Best Start tax credit.
 (3) The period—
   (a) starts on the day following the day that the chief executive says is the last day that the person is entitled to—
-    (i) an income-tested benefit, an orphan’s benefit, or an unsupported child’s benefit paid or payable under the Social Security Act 1964 or the Social Security Act 2018; or
+    (i) an income-tested benefit, an orphan’s benefit, or an unsupported child’s benefit; or
     (ii) a WFF tax credit paid under section 80KN; and
   (b) ends on the earlier of—
     (i) the day before the first day stated in a notice of entitlement that is provided later:
@@ -5908,6 +5960,12 @@ A notice of assessment issued on or after 1 April 1995 and relating to return pe
 (1) This section applies when a person chooses under section HC 33 of the Income Tax Act 2007 to satisfy the income tax liability of the trustee of a trust and the election applies to an income year (the affected year) ending before the income year in which the person makes the election.
 (2) The Commissioner may from time to time and at any time make an assessment or reassessment for the trustee and the affected year as a consequence of the election notwithstanding that tax already assessed may have been paid.
 (3) The person who makes the election must provide the Commissioner with the information required by the Commissioner for determining the correct assessment for the affected year.
+
+### 113G Amended assessments: tax year to which net loss carried back under section IZ 8
+(1) This section applies if—
+  (a) a person elects to carry back a net loss from a tax year (the loss year) to the preceding tax year under section IZ 8 of the Income Tax Act 2007; and
+  (b) the Commissioner amends the assessment for the loss year because the person’s assessment for the loss year is based on an amount for the net loss carried back that does not meet the requirements of that section.
+(2) Despite the time bar, the Commissioner may amend the assessment for the tax year preceding the loss year at the same time as the Commissioner amends the assessment for the loss year.
 
 ### 114 Validity of assessments
 An assessment made by the Commissioner is not invalidated—
@@ -8740,7 +8798,8 @@ An amount that is interest under section 120D, or a late payment penalty relatin
 (1) This section applies for a taxpayer if—
   (a) the taxpayer’s ability to make a payment required by a tax law on or before the due date for the payment is significantly adversely affected by COVID-19; and
   (b) the due date for the payment is no earlier than 14 February 2020; and
-  (c) the taxpayer is charged with interest under Part 7 for failing to make the payment by the due date.
+  (c) the taxpayer is charged with interest under Part 7 for failing to make the payment by the due date; and
+  (d) the requirement for the payment does not arise from an election under section IZ 8 of the Income Tax Act 2007 by the taxpayer, or by a company in the same group of companies as the taxpayer.
 (2) The taxpayer may ask the Commissioner to remit interest accrued after 14 February 2020 (the interest) on the payment.
 (3) The Commissioner may remit the interest if—
   (a) the Commissioner is satisfied that the taxpayer—
@@ -10104,6 +10163,14 @@ Section 18 does not prevent the Commissioner from disclosing sensitive revenue i
     (ii) making an assessment of the amount of tax due by any person:
     (iii) detecting tax fraud or tax evasion:
   (b) may not supply that information to any other country without the prior notified consent of the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 and subject to such conditions as that chief executive sets.
+
+### 45B Social Development: wage subsidy scheme information
+(1) The purpose of this clause is to facilitate the exchange of information between the Inland Revenue Department and the Ministry of Social Development for the purpose of the administration by the Commissioner of the small business cashflow scheme.
+(2) For the purposes of this clause, the chief executive of the Ministry of Social Development may from time to time provide the Commissioner with information relating to the wage subsidy scheme administered by the Ministry.
+(3) The Commissioner may use the information supplied under this clause in connection with the exercise or performance of any of the Commissioner’s duties, powers, or functions under the Inland Revenue Acts.
+(4) For the purposes of this section,—
+  - **small business cashflow scheme** means the Small Business Cashflow (Loan) Scheme established by the Crown to provide loans to assist small-to-medium businesses in the circumstances arising from the continuing impact of COVID-19 related measures or circumstances
+  - **wage subsidy scheme** means the subsidy scheme that is established as part of the Government’s COVID-19 response measures and which the Ministry administers on behalf of the Government.
 
 ### 46 Business, Innovation, and Employment: parental leave payments
 (1) Section 18 does not prevent the Commissioner communicating information to a person who is an officer, employee, or agent of the department for the time being responsible for the administration of the Parental Leave and Employment Protection Act 1987 and who is authorised to receive the information by the chief executive of that department.
