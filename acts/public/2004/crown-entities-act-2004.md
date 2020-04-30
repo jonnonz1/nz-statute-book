@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2020-04-03_
+_Consolidation as at 2020-04-30_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1219,6 +1219,20 @@ The purpose of a statement of intent is to promote the public accountability of 
   (b) the Crown entity must, as soon as practicable after receiving notice under paragraph (a), publish notice of the extension or waiver, and the Minister's reasons for granting it, on an Internet site maintained by or on behalf of the Crown entity; and
   (c) the Crown entity must include, in the next annual report that it provides to its responsible Minister for presentation to the House of Representatives under section 150, a statement of the extension or waiver and the Minister's reasons for granting it.
 
+### 139C Responsible Minister may grant extension of time for requirement to provide statement of intent: COVID-19
+(1) If a Crown entity is due to provide a statement of intent for a period beginning on 1 July 2020, the responsible Minister may grant the Crown entity an extension, of up to 3 months, of the period specified in section 139(3).
+(2) However, the responsible Minister must not grant an extension unless the responsible Minister is satisfied that, as a consequence of the effects of COVID-19,—
+  (a) the Crown entity is unable to, or will experience significant difficulties if required to, provide the information on or before 1 July 2020; or
+  (b) the Crown entity is unable to adequately assess how its future operations will be affected and the extension will enable it to provide a better statement of intent than it would be able to if the extension were not granted.
+(3) If the responsible Minister grants an extension under this section,—
+  (a) the time for providing a draft statement of intent to the responsible Minister under section 146(2)﻿(a)﻿(i) is extended by the same period; and
+  (b) the entity must (despite section 146(2)﻿(c)﻿(i)) provide the final statement of intent to its responsible Minister as soon as practicable after receiving the responsible Minister’s comments (if any) but before the end of the period of the extension; and
+  (c) the statement of intent must, if provided after 1 July 2020, relate to the then current financial year and at least the following 3 financial years (despite section 139(2)); and
+  (d) the responsible Minister must, as soon as practicable after granting the extension, notify the Crown entity of the extension and the Minister’s reasons for granting it; and
+  (e) the Crown entity must, as soon as practicable after receiving notice under paragraph (d), publish notice of the extension, and the Minister’s reasons for granting it, on an Internet site maintained by or on behalf of the Crown entity; and
+  (f) the Crown entity must include, in the next annual report that it provides to its responsible Minister for presentation to the House of Representatives under section 150, a statement of the extension and the Minister’s reasons for granting it.
+(4) This section is repealed on 1 October 2020.
+
 ### 140 Statement of intent for newly established Crown entities
 (1) As soon as practicable after a Crown entity is established, the Crown entity must comply with section 139 as if it were the start of the financial year.
 (2)
@@ -1345,6 +1359,19 @@ The purpose of a statement of performance expectations for a Crown entity is to�
 (2) However, if the Crown entity does not propose to supply any reportable classes of outputs in that financial year, the entity's statement of performance expectations—
   (a) must comply with section 149E(1)﻿(b) to (d) and (3); but
   (b) need not comply with section 149E(1)﻿(a) or (2).
+
+### 149CA Responsible Minister may grant extension of time for obligation to prepare statement of performance expectations: COVID-19
+(1) A responsible Minister may grant an extension, of up to 3 months, for a Crown entity to prepare the Crown entity’s statement of performance expectations that is due to be prepared for the financial year beginning on 1 July 2020.
+(2) However, the responsible Minister must not grant an extension unless the responsible Minister is satisfied that, as a consequence of the effects of COVID-19,—
+  (a) the Crown entity is unable to, or will experience significant difficulties if required to, prepare the statement of performance expectations before 1 July 2020; or
+  (b) the Crown entity is unable to adequately assess how its operations in the forthcoming financial year will be affected and the extension will enable it to provide a better statement of performance expectations than it would be able to if the extension were not granted.
+(3) If the responsible Minister grants an extension under this section,—
+  (a) the time for providing a draft statement of performance expectations to the responsible Minister under section 149I(2)﻿(a)﻿(i) is extended by the same period; and
+  (b) the entity must (despite section 149I(2)﻿(c)﻿(i)) provide the final statement of performance expectations to its responsible Minister as soon as practicable after receiving the responsible Minister’s comments (if any) but before the end of the period of the extension; and
+  (c) the responsible Minister must, as soon as practicable after granting the extension, notify the Crown entity of the extension and the Minister’s reasons for granting it; and
+  (d) the Crown entity must, as soon as practicable after receiving notice under paragraph (c), publish notice of the extension, and the Minister’s reasons for granting it, on an Internet site maintained by or on behalf of the Crown entity; and
+  (e) the Crown entity must include, in the next annual report that it provides to its responsible Minister for presentation to the House of Representatives under section 150, a statement of the extension and the Minister’s reasons for granting it.
+(4) This section is repealed on 1 October 2020.
 
 ### 149D Statement of performance expectations for newly established Crown entities
 (1) As soon as practicable after a Crown entity is established, the Crown entity must comply with section 149C as if it were the start of the financial year.
