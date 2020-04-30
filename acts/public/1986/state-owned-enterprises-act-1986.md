@@ -1,5 +1,5 @@
 # State-Owned Enterprises Act 1986
-_Consolidation as at 2019-12-20_
+_Consolidation as at 2020-04-30_
 
 > An Act to promote improved performance in respect of Government trading activities and, to this end, to—aspecify principles governing the operation of State enterprises; andbauthorise the formation of companies to carry on certain Government activities and control the ownership thereof; andcestablish requirements about the accountability of State enterprises, and the responsibility of Ministers
 
@@ -136,6 +136,20 @@ Nothing in this Act shall permit the Crown to act in a manner that is inconsiste
 (3) Each statement of corporate intent shall also include the board's estimate of the current commercial value of the Crown's investment in the group and a statement of the manner in which that value was assessed.
 (4) The board shall consider any comments on the draft statement of corporate intent that are made to it not later than 14 days before the commencement of the financial year by the shareholding Ministers, and shall deliver the completed statement of corporate intent to the shareholding Ministers on or before the commencement of the financial year or such later date as the shareholding Ministers may determine.
 (5) A statement of corporate intent for a State enterprise may be modified at any time by written notice from the board to the shareholding Ministers, so long as the board has first given written notice to the shareholding Ministers of the proposed modification and considered any comments made thereon by the shareholding Ministers within 1 month of the date on which that notice was given.
+
+### 14A Shareholding Ministers may grant extension of time for delivery of statement of corporate intent: COVID-19
+(1) The shareholding Ministers of a State enterprise may grant an extension, of up to 3 months, for the State enterprise to deliver the completed statement of corporate intent relating to the financial year beginning on 1 July 2020 (and each of the immediately following 2 financial years) to the shareholding Ministers.
+(2) However, the shareholding Ministers must not grant an extension unless they are satisfied that, as a consequence of the effects of COVID-19,—
+  (a) the State enterprise is unable to, or will experience significant difficulties if required to, deliver the completed statement of corporate intent before 1 July 2020; or
+  (b) the State enterprise is unable to adequately assess how its future operations will be affected and the extension will enable it to provide a better statement of corporate intent than it would be able to if the extension were not granted.
+(3) If the shareholding Ministers grant an extension under this section,—
+  (a) the time for providing a draft statement of corporate intent to the shareholding Ministers under section 14(1) is extended by the same period; and
+  (b) the board must (despite section 14(4)) consider comments on the draft statement of corporate intent that are made to it not later than 14 days before the new date by which the completed statement of corporate intent is to be delivered; and
+  (c) the statement of corporate intent must, if delivered after 1 July 2020, relate to the then current financial year and each of the immediately following 2 financial years (despite section 14(2)); and
+  (d) the shareholding Ministers must, as soon as practicable after granting the extension, notify the State enterprise of the extension and the Ministers’ reasons for granting it; and
+  (e) the State enterprise must, as soon as practicable after receiving notice under paragraph (d), publish notice of the extension, and the Ministers’ reasons for granting it, on an Internet site maintained by or on behalf of the State enterprise; and
+  (f) the State enterprise must include, in the next annual report that it provides to its responsible Minister for presentation to the House of Representatives under section 17(2), a statement of the extension and the shareholding Ministers’ reasons for granting it.
+(4) This section is repealed on 1 October 2020.
 
 ### 15 Annual report, financial statements, and dividend
 (1) Within 3 months after the end of each financial year of a State enterprise, the board of the State enterprise shall deliver to the shareholding Ministers—
