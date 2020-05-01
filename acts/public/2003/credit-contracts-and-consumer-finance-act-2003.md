@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2020-04-30_
+_Consolidation as at 2020-05-01_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -74,6 +74,7 @@ In this Act, unless the context otherwise requires,—
   - **cash price** , in relation to property sold or leased, or to services provided under a contract, means—
     (a) the lowest price at which a person could have purchased that property or those services from the vendor, lessor, or provider on the basis of payment in full at the time the contract was made; or
     (b) if there is no price in accordance with paragraph (a), the fair market value of that property or those services at the time the contract was made
+  - **certified** means certified under Part 5A
   - **charge for an optional service** means a fee or charge for a service or benefit that is offered to the debtor in connection with a credit contract if the debtor does not have to accept the service or benefit as a condition of entering into the contract
   - **Commission** means the Commerce Commission established by the Commerce Act 1986
   - **consumer credit contract** has the meaning set out in section 11
@@ -104,20 +105,27 @@ In this Act, unless the context otherwise requires,—
       (ii) charges for an optional service:
       (iii) default fees:
       (iv) government charges, duties, taxes, or levies:
-      (v) fees and charges payable as referred to in section 45 if the other person, body, or agency referred to in that section is not an associated person of the creditor
+      (v) fees and charges payable as referred to in section 45 if the other person, body, or agency referred to in that section is not an associated person of the creditor:
+      (vi) cancellation charges as referred to in section 36F of the Fair Trading Act 1986
   - **credit limit** means the maximum unpaid balance permitted under the credit contract
   - **credit-related insurance** means, in connection with a credit contract or consumer lease,—
     (a) insurance over secured property or leased goods; or
     (b) insurance that provides cover for the shortfall that occurs if secured property or leased goods are totally or substantially destroyed and the insurance proceeds from another insurance contract are insufficient to pay any outstanding obligations of the debtor under the credit contract or the lessee under the consumer lease; or
     (c) consumer credit insurance
   - **credit sale** means a contract involving the sale of property or the provision of services under which payment of the whole or a part of the purchase price is deferred; and includes a lease that is to be treated as a credit sale under section 16
-  - **creditor** means a person who provides, or may provide, credit under a credit contract; and, if the rights of that person are transferred by assignment or by operation of law, includes the person for the time being entitled to those rights
+  - **creditor** —
+    (a) means a person who provides, or may provide, credit under a credit contract; and
+    (b) if the rights of that person are transferred by assignment or by operation of law, includes the person for the time being entitled to those rights; and
+    (c) includes a person declared by regulations to be a creditor; but
+    (d) does not include a person exempted by regulations from being a creditor
   - **creditor's agent** means a person authorised by a creditor to repossess consumer goods on behalf of the creditor, and includes such a person who is an employee of the creditor
   - **daily interest rate** means the rate determined by dividing the annual interest rate by 365
+  - **debt collection** has the meaning set out in section 132A
   - **debtor** means a person to whom credit has been provided, or may be provided, under a credit contract; and, if the rights of that person are transferred by assignment or by operation of law, includes the person for the time being entitled to those rights
   - **default** , in Part 3A, means 1 or more breaches of a credit contract by the debtor sufficient, according to the terms of the contract, to give rise to the creditor’s right to repossess the consumer goods
   - **default fees** means fees or charges payable on a breach of a credit contract by a debtor or on the enforcement of a credit contract by a creditor; but does not include default interest charges
   - **default interest charges** means additional interest charges payable on a breach of a credit contract by a debtor
+  - **director** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **dispute resolution scheme** means an approved dispute resolution scheme within the meaning of section 50 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008
   - **electronic** includes electrical, digital, magnetic, optical, electromagnetic, biometric, and photonic
   - **electronic communication** means a communication by electronic means
@@ -138,21 +146,28 @@ In this Act, unless the context otherwise requires,—
       (ii) indemnifies a creditor against any loss that the creditor may incur in connection with the contract; or
       (iii) assumes liability for performing the obligations of a debtor under the contract; but
     (b) does not include such a person to the extent that the person indemnifies a creditor against any loss that the creditor may incur in connection with the contract under a contract of insurance
+  - **high-cost consumer credit contract** has the meaning set out in section 45C
   - **information system** means a system for producing, sending, receiving, storing, displaying, or otherwise processing electronic communications
   - **infringement fee** and have the meanings set out in section 105A
   - **infringement offence** has the meaning set out in section 102A
   - **interest charge** means a charge that accrues over time and is determined by applying a rate to an amount owing under a credit contract (and includes a default interest charge)
   - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
+  - **layby sale agreement** has the same meaning as in section 36B of the Fair Trading Act 1986
   - **lease** means a contract for the hire of goods
   - **lender** has the meaning set out in section 9B
   - **lender responsibility principles** means the principles set out in section 9C(2)
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **mobile trader** means a person who carries on a business of offering or agreeing to supply, in person and outside of fixed premises, consumer goods to a natural person—(whether or not the business is the provider’s only business or the provider’s principal business)
+    (a) under a credit sale (regardless of whether the contract is a consumer credit contract); or
+    (b) where all or a part of the supply of the consumer goods is to be financed by a consumer credit contract under which a creditor is an associated person of that person—
+  - **mobile trader service** means the financial service of being a mobile trader under section 5(1) of the Financial Service Providers (Registration and Dispute Resolution) Act 2008
   - **occupier** has the meaning set out in section 8
   - **oppressive** has the meaning set out in section 118
   - **paid adviser** means a person who acts for consideration as an adviser to, or as a trustee, nominee, or agent of, 1 or more of the parties; but does not include a person who is an employee of 1 or more of the parties
   - **part prepayment** means the payment of an amount that is less than the unpaid balance before that amount is payable under the credit contract
   - **payment** , in relation to a credit sale, includes a deposit or a trade-in allowance
+  - **payment reminder** has the meaning set out in section 132A
   - **post-repossession notice** means a notice under section 83V
   - **prescribed** means prescribed by regulations made under this Act
   - **property** means land, money, goods, choses in action, goodwill, and every valuable thing, whether real or personal, and whether situated in New Zealand or elsewhere
@@ -172,6 +187,7 @@ In this Act, unless the context otherwise requires,—
   - **security interest** means an interest in property created or provided for by a transaction that, in substance, secures payment or performance of an obligation under a credit contract or buy-back transaction, without regard to—
     (a) the form of the transaction; and
     (b) the identity of the person who has title to the property that is subject to the security
+  - **senior manager** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **standard form contract terms** —
     (a) means standard form contract terms that are intended to be contained (in whole or in part) in a class of agreements (as defined in section 9B) and that—
       (i) have been printed or otherwise prepared by, or on behalf of, the lender; and
@@ -180,6 +196,7 @@ In this Act, unless the context otherwise requires,—
   - **transferee** has the meaning set out in section 8
   - **unpaid balance** means the amount owing under a credit contract at a particular time, being the difference between all amounts credited and all amounts debited to the debtor under the contract at that time
   - **unpaid daily balance** , in relation to a day, means the unpaid balance under a credit contract at the end of that day
+  - **weighted average annual interest rate** has the meaning given in the regulations
   - **working day** means a day of the week other than—
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
@@ -235,6 +252,10 @@ In this Act, unless the context otherwise requires, credit is provided under a c
 
 ### 8B Provisions affecting application of amendments to this Act
 Schedule 1AA contains application, savings, and transitional provisions relating to amendments made to this Act after 1 January 2014 (see section 141A).
+
+### 8C Status of examples
+(1) An example used in this Act is only illustrative of the provision to which it relates. It does not limit the provision.
+(2) If an example and the provision to which it relates are inconsistent, the provision prevails.
 
 ### 9 Act binds the Crown
 This Act binds the Crown.
@@ -571,6 +592,7 @@ The opening unpaid balance shown in each successive continuing disclosure statem
 (4) The disclosure referred to in subsection (3) may be made, at the creditor's discretion, either—
   (a) within 5 working days of the day on which the change takes effect; or
   (b) if the creditor is required to make continuing disclosure under section 18, at the same time as the creditor provides the debtor with the next continuing disclosure statement (as required under that section) after the change takes effect.
+(5) Subsection (4) does not apply to a high-cost consumer credit contract.
 
 ### 23 Disclosure of changes following exercise of power
 (1) Every creditor under a consumer credit contract must ensure that disclosure of the information set out in subsection (2) is made to every debtor under the contract if the creditor exercises a power under the contract to change any of the following matters:
@@ -593,6 +615,7 @@ The opening unpaid balance shown in each successive continuing disclosure statem
   (a) within 5 working days of the day on which the change takes effect; or
   (b) if the creditor is required to make continuing disclosure under section 18, at the same time as the creditor provides the debtor with the next continuing disclosure statement (as required under that section) after the change takes effect.
 (7) Disclosure under this section is not required in relation to a particular debtor if the creditor cannot reasonably locate the debtor.
+(8) Subsections (4) and (6) do not apply to a high-cost consumer credit contract.
 
 **Request and guarantee disclosure**
 
@@ -638,6 +661,7 @@ The opening unpaid balance shown in each successive continuing disclosure statem
   (b) the change takes effect, in the case of subsection (1)﻿(b).
 (4) If the creditor has exercised a power under the credit contract to change the amount of an interest rate or to change the amount of any fee or charge payable, the creditor may, instead of complying with section 35, make disclosure in accordance with any publication requirements prescribed by regulations for the purposes of this section.
 (5) Disclosure under this section is not required in relation to a particular guarantor if the creditor cannot reasonably locate the guarantor.
+(6) Subsection (4) does not apply to a high-cost consumer credit contract.
 
 ### 26A Disclosure of transfer of rights of creditor under consumer credit contract
 (1) Every creditor who transfers (whether by assignment or operation of law) the rights of that person under a consumer credit contract to another creditor (the new creditor) must ensure that the disclosure of the following information is made to every debtor and guarantor under the contract:
@@ -847,6 +871,74 @@ For the purposes of this subpart, evidence of a creditor’s compliance with the
   (a) the creditor requires the debtor to obtain the insurance from a particular insurer or particular insurers; or
   (b) the creditor has in place any arrangement that has the effect of requiring the debtor to obtain the insurance from a particular insurer or particular insurers; or
   (c) the insurance is financed under the credit contract and the creditor has, in relation to the credit-related insurance contract, breached section 9C(5) in any respect.
+
+### Subpart 6A — Provisions relating to debtors under high-cost consumer credit contracts
+
+**Purpose, outline, and interpretation**
+
+### 45A Purpose of this subpart
+The purpose of this subpart is—
+  (a) to protect consumers from the harm caused by accumulating excessive debts from default on high-interest loans or from rolling over or extending payment terms of high-interest loans; and
+  (b) to protect consumers from the harm caused by excessive interest and fees from repeat borrowing under high-interest loans.
+
+### 45C Meaning of high-cost consumer credit contract
+In this Act, unless the context otherwise requires,—
+  - **high-cost consumer credit contract** means a consumer credit contract of any of the following types:
+    (a) a contract that provides for an annual interest rate of 50% or greater:
+    (b) a contract under which the weighted average annual interest rate applied to the unpaid balance is, or is likely to be, 50% or greater on any day during the term of the contract:
+    (c) a contract under which the total rate of the interest charges (including default interest charges) that may be applied cumulatively to the same part of an unpaid balance in the event of a default in payment or the credit limit being exceeded is, or is likely to be, a rate of 50% or greater:ExampleA creditor’s normal annual interest rate is 40% pa, and an additional default interest charge of 20% pa is applied to the part of the unpaid balance that is in default. The annual interest rate and any default interest charge rate are together 60% pa on the part of the unpaid balance in default. The contract is therefore a high-cost consumer credit contract.
+    (d) a contract declared by regulations to be a type of contract that is a high-cost consumer credit contract
+  - **interest rate that defines a high-cost consumer credit contract** means the interest rate set out in paragraphs (a) to (c) of the definition of high-cost consumer credit contract.
+
+**Rules**
+
+### 45E Costs of borrowing must not exceed loan advance
+(1) The maximum costs of borrowing that are recoverable under a high-cost consumer credit contract and all related consumer credit contracts is an amount equal to the first advance.
+(2) A consumer credit contract must not provide for an amount to be recoverable that will result in that maximum amount being exceeded or that is capable of resulting in that maximum amount being exceeded.
+(3) No person may be a creditor under a contract that contravenes this section or accept a payment, or debit a fee or charge to the debtor’s account, that will result in that maximum amount being exceeded.
+(4) Section 48 also applies if a payment results in that maximum amount being exceeded.
+(5) In this section,—ExampleOn 2 February, Ms D borrows $100 from a creditor (C) under a consumer credit contract that has an annual interest rate of 500% pa and a term of 6 weeks. The maximum costs of borrowing that Ms D will have to pay under that contract and any contract that replaces that contract is $100.On 2 March, Ms D has paid $92, consisting of $32 in interest and fees and $60 of the principal. Her unpaid balance is $40.Ms D refinances by entering into a further high-cost consumer credit contract with C to repay the remaining $40, and will receive a further advance of $50, ie, $90 in total. The first advance of $100 caps the maximum costs of borrowing. The maximum costs of borrowing that Ms D will have to pay under the new contract is $100 - $32 = $68 (ie, the amount in interest and fees charged on the first contract ($32) is subtracted from the first advance of $100 to give a remaining cap of $68).C is not entitled to receive more than $68. If Ms D does pay $120 (instead of $68), C must refund $52 to Ms D, or give Ms D a credit for $52 against other money owing (see section 48).In addition, C is liable in other ways, for example, to a pecuniary penalty, statutory damages, and other court orders.
+  - **costs of borrowing** , in relation to a consumer credit contract, means any or all of the following costs:
+    (a) a credit fee:
+    (b) a default fee:
+    (c) interest charges:
+    (d) charges for an optional service:
+    (e) fees or charges passed on by the creditor (other than default fees)
+  - **fees or charges passed on by the creditor** means fees and charges payable as referred to in section 45 regardless of whether the other person, body, or agency referred to in that section is an associated person of the creditor
+  - **first advance** means,—
+    (a) in respect of a high-cost consumer credit contract that has no related consumer credit contracts, the first advance (excluding any credit fees, charges for optional services, and fees or charges passed on by the creditor) under that high-cost consumer credit contract:
+    (b) in respect of a high-cost consumer credit contract that has 1 or more related consumer credit contracts, the first advance (excluding any credit fees, charges for optional services, and fees or charges passed on by the creditor) under the earliest high-cost consumer credit contract in the series
+  - **related consumer credit contract** , in respect of a high-cost consumer credit contract (), means all other consumer credit contracts where—and includes a contract declared by regulations to be a type of contract that is a related consumer credit contract.
+    (a) a debtor is the same person as a debtor under contract A; and
+    (b) a creditor is the same person as, or an associated person of, a creditor under contract A; and
+    (c) the consumer credit contracts (including contract A) are entered into during a period—
+      (i) that begins with a high-cost consumer credit contract being entered into; and
+      (ii) that ends with the expiry of 15 continuous days during which there was no unpaid balance on any of the consumer credit contracts entered into since the start of the period,—
+
+### 45I Compound interest prohibited
+(1) A high-cost consumer credit contract must not provide for compound interest.
+(2) No person may be a creditor under a high-cost consumer credit contract that provides for compound interest or accept a payment, or debit a fee or charge to the debtor’s account, in respect of compound interest.
+(3) Section 48 also applies if a payment is in respect of compound interest.
+(4) In this section, compound interest, to avoid doubt, includes interest on any amount of additional credit that has been provided to repay accrued interest.
+
+### 45J Default fees
+(1) This section applies, for the purposes of sections 41, 41A, and 44A and this subpart, in respect of a high-cost consumer credit contract.
+(2) Subsection (3) applies if—
+  (a) the contract provides for a default fee that is more than the prescribed amount; or
+  (b) the creditor accepts a payment, or debits a fee or charge to the debtor’s account, in respect of a default fee that, taken together with any previous default fees charged under the contract or any related consumer credit contract (within the meaning of section 45E) is more than the prescribed amount.
+(3) The fee must be presumed to be unreasonable, and to be in breach of this section and section 41, unless the creditor rebuts the presumption by proving, on the balance of probabilities, that the fee is reasonable.
+(4) The requirement to rebut in subsection (3) includes proving the things in section 44A, including that it was reasonable to take the action that incurred the cost to which the fee relates (for example, sending the default to a debt collection agency).
+(5) The Governor-General may, by Order in Council, make regulations prescribing the amount for the purpose of this section.
+(6) The power in subsection (5) to make regulations may be used only on the recommendation of the Minister, and the Minister may make a recommendation only if the Minister—
+  (a) has had regard to the purpose of this subpart; and
+  (b) has consulted the Commission and the persons or representatives of the persons who the Minister considers will be substantially affected by the regulations.
+(7) If no regulations have been made, the prescribed amount is $30.
+
+### 45K Prohibition on avoidance
+(1) A person must not enter into a scheme if it is reasonable to conclude that a purpose of the scheme is to defeat, evade, or circumvent the operation of a provision in this subpart.
+(2) In this section, scheme means any contract, arrangement, or other act that has the effect of, or any contracts, arrangements, or other acts that together have the effect of, in any way, directly or indirectly,—
+  (a) resulting in a transaction that is in substance or economic effect a high-cost consumer credit contract or related contract being, instead, a transaction to which this subpart does not apply; or
+  (b) otherwise avoiding the application of a provision of this subpart.
 
 ### Subpart 7 — Payments
 
@@ -1759,6 +1851,10 @@ The court may make all or any of the orders referred to in section 94 if the cou
   (a) an order directing the person to refund or credit a payment in accordance with section 48:
   (b) an order directing the person to pay to any person who has suffered loss or damage by that conduct an amount not exceeding the amount of the loss or damage (to the extent that any statutory damages that are to be paid do not adequately compensate the person for the loss or damage):
   (c) an order directing the person to pay exemplary damages to any person who has suffered loss or damage by that conduct:
+  (caa) in the case of a breach of section 9C(3)﻿(a) to (e) or (5) (lender responsibility principles) or subpart 6A of Part 2 (provisions relating to debtors under high-cost consumer credit contracts),—
+    (i) an order that allows for the affordable repayment of any unpaid debt, including the amount and timing of payments:
+    (ii) an order that prohibits the creditor from charging further interest, fees, or other charges under the contract:
+    (iii) any other order that the court thinks necessary to remedy the breach (which may include any of the orders referred to in section 127(2) as if the court were reopening the consumer credit contract):
   (ca) an order that—
     (i) a fee imposed in contravention of section 41, 80, or 82, and any interest paid or payable in relation to that fee, must be reduced by a specified amount, in which case—
       (A) only the reduced fee or interest is payable to the creditor, transferee, buy-back promoter, or associated person (as the case may be); or
@@ -1839,6 +1935,23 @@ In deciding whether to make an order under section 95A and the terms and conditi
   (b) whether or not there is an imminent danger of substantial damage to any person if that person engages in conduct of that kind.
 (3) If the Commission applies to the court for the grant of an interim injunction, the court must not, as a condition of granting an interim injunction, require the Commission to give an undertaking as to damages.
 (4) However, in determining the Commission's application for the grant of an interim injunction, the court must not take into account that the Commission is not required to give an undertaking as to damages.
+
+**Compliance and similar orders**
+
+### 98A Compliance orders
+(1) The court may, on the application of the Commission, make an order to do 1 or more of the things in subsection (2) if, in the opinion of the court, a person has engaged in conduct, or is likely to engage in conduct, that constitutes, or would constitute, any of the things referred to in section 96 (a breach).
+(2) An order may—
+  (a) direct a person to comply with a provision referred to in section 96:
+  (b) require a person to remedy or mitigate any adverse effect arising from the breach:
+  (c) require a person to do something that, in the opinion of the court, is necessary or desirable in order to comply with that provision or to avoid, remedy, or mitigate any actual or likely adverse effect arising from the breach.
+(3) A compliance order may be made on any terms and conditions as the court thinks fit.
+
+### 98B Order to disclose information or publish advertisement
+(1) The court may, on the application of the Commission, make an order that a person do 1 or more of the things in subsection (2) if, in the opinion of the court, the person has engaged in conduct, or is likely to engage in conduct, that constitutes, or would constitute, any of the things referred to in section 96 (a breach).
+(2) An order may—
+  (a) require that person, or any other person involved in the contravention, to disclose, at that person’s own expense, to the public, or to a particular person or to persons included in a particular class of persons, in the manner specified in the order, the information, or information of a kind, that is specified, being information that is in the possession of the person to whom the order is directed or to which that person has access:
+  (b) require that person, or any other person involved in the contravention, to publish, at that person’s own expense, in the manner and at the times that are specified in the order, corrective statements the terms of which are specified in, or are to be determined in accordance with, the order.
+(3) The court may hear and determine an application under subsection (1) in conjunction with any other proceedings under this Act.
 
 **Prohibited enforcement**
 
@@ -1948,7 +2061,7 @@ If the notice requirements under section 83G or 83V, as the case may be, have no
     (e) section 72, the terms of the buy-back transaction referred to in section 72(2).
 
 ### 103 Other offences
-(1) Every creditor, lender, creditor's agent, lessor, transferee, or buy-back promoter who breaches any of the provisions of sections 9J, 9K, 17 to 74, 76 to 82, 83E, 83F, 83G, 83O, 83P, 83S, 83T, and 83ZN commits an offence and is liable on conviction,—
+(1) Every creditor, lender, creditor's agent, lessor, transferee, or buy-back promoter who breaches any of the provisions of sections 9J, 9K, 17 to 74 (except sections 41 and 41A, subpart 6A of Part 2, and section 59B), 76 to 82, 83E, 83F, 83G, 83O, 83P, 83S, 83T, and 83ZN commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $200,000; and
   (b) in the case of a body corporate, to a fine not exceeding $600,000.
 (2) However, a breach of section 83E(1)﻿(c) is not an offence under subsection (1).
@@ -2219,6 +2332,7 @@ A credit contract, a consumer lease, a buy-back transaction, a term of a credit 
   (c) the relative bargaining power of the parties; and
   (d) whether, taking account of the particular characteristics of the debtor, lessee, or occupier (for example, his or her age or physical or mental condition), that person, or the person's representative, was reasonably able to protect that person's interests; and
   (e) in the case of a credit contract, whether the contract is a consumer credit contract; and
+  (ea) in the case of a contract to which subpart 6A of Part 2 applies, the need to protect consumers in accordance with the purpose of that subpart; and
   (f) whether, before entering into the arrangement, the debtor, lessee, or occupier obtained independent legal or other professional advice in relation to that arrangement; and
   (g) whether the creditor, lessor, or transferee, or any person acting in the interests of that person, subjected the debtor, lessee, or occupier to unfair pressure or tactics or otherwise unfairly influenced the debtor, lessee, or occupier to enter into the arrangement and, if so, the nature and extent of that unfair conduct; and
   (h) the terms of other arrangements under which the debtor, lessee, or occupier could have obtained the same or substantially similar credit, hired goods, or finance from a person other than the creditor, lessor, or transferee, including—
