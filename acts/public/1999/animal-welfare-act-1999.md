@@ -1,5 +1,5 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2020-05-09_
 
 > An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—(i)to recognise that animals are sentient:(ia)to require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
@@ -65,7 +65,8 @@ _Consolidation as at 2018-09-08_
   - **ill-treat** , in relation to an animal, means causing the animal to suffer, by any act or omission, pain or distress that in its kind or degree, or in its object, or in the circumstances in which it is inflicted, is unreasonable or unnecessary
   - **infringement offence** means—
     (a) an offence against section 36(3):
-    (b) any other offence created by or under this Act that is declared by regulations made under this Act to be an infringement offence for the purposes of this Act
+    (b) an offence against section 156I(1):
+    (c) any other offence created by or under this Act that is declared by regulations made under this Act to be an infringement offence for the purposes of this Act
   - **inspector** means an inspector appointed under section 124(1) or section 124(2); and includes every constable
   - **manipulation** , in relation to an animal, has the meaning given to it by section 3
   - **marae** —
@@ -1943,6 +1944,7 @@ An appeal under section 156F or 156G has the following effects:
 (2) A person who commits an offence against this section is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; or
   (b) in the case of a body corporate, to a fine not exceeding $25,000.
+(3) An offence against this section is also an infringement offence.
 
 **Miscellaneous provisions**
 
