@@ -1,5 +1,5 @@
 # Oranga Tamariki Act 1989
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2020-05-13_
 
 > Title
 
@@ -3479,13 +3479,14 @@ Sections 37 and 38 (which relate to privilege and the publication of the proceed
   (b) manslaughter; or
   (baa) if the young person is aged 17 years, an offence specified in Schedule 1A; or
   (ba) an infringement offence against the Psychoactive Substances Act 2013; or
+  (bb) an infringement offence against the COVID-19 Public Health Response Act 2020; or
   (c) a traffic offence that is an infringement offence; or
   (d) an infringement offence against the Sale and Supply of Alcohol Act 2012 or the Summary Offences Act 1981, or section 239A of the Local Government Act 2002.
 (4) If a young person is charged with murder or manslaughter, section 275 applies.
 (4A) If a young person aged 17 years is charged with an offence specified in Schedule 1A,—
   (a) sections 275, 276AA to 276AC, and 276A apply; and
   (b) sections 274 and 276 do not apply.
-(5) Notwithstanding subsection (3)﻿(ba) or (c) or (d), where a young person is charged with an infringement offence referred to in subsection (3)﻿(ba) or a traffic offence that is an infringement offence referred to in subsection (3)﻿(c) or an infringement offence referred to in subsection (3)﻿(d), the Youth Court shall hear and determine that charge if—
+(5) Notwithstanding subsection (3)﻿(ba), (bb), (c), or (d), where a young person is charged with an infringement offence referred to in subsection (3)﻿(ba) or an infringement offence against the COVID-19 Public Health Response Act 2020 referred to in subsection (3)﻿(bb) or a traffic offence that is an infringement offence referred to in subsection (3)﻿(c) or an infringement offence referred to in subsection (3)﻿(d), the Youth Court shall hear and determine that charge if—
   (a) the young person is charged with any other offence, being an offence in respect of which the young person is required to be brought before the Youth Court to be dealt with; and
   (b) both offences arise out of the same event or series of events; and
   (c) the court considers—
