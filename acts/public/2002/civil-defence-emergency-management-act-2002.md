@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2019-12-17_
+_Consolidation as at 2020-05-13_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -665,6 +665,8 @@ Emergency services must—
   (b) the emergency is, or is likely to be, of such extent, magnitude, or severity that the civil defence emergency management necessary or desirable in respect of it is, or is likely to be, beyond the resources of the Civil Defence Emergency Management Groups whose areas may be affected by the emergency.
 (2) The Minister must advise the House of Representatives as soon as practicable where a state of national emergency has been declared or extended.
 (3) If a declaration of a state of national emergency is made, any other state of emergency then in force in the area to which the state of national emergency applies ceases to have effect.
+(4) Despite subsection (3), if a state of national emergency for COVID-19 is declared after the commencement of this subsection, subsection (3) does not terminate any local state of emergency for other emergencies that are not related to COVID-19.
+(5) Subsection (4) is repealed when the COVID-19 Public Health Response Act 2020 is repealed.
 
 ### 67 Parliament must meet if state of national emergency declared
 (1) Subsection (3) applies if—
@@ -695,6 +697,9 @@ Emergency services must—
 (3) A state of local emergency may be declared in respect of an area that is not affected by an emergency if, in the opinion of any person authorised to declare a state of local emergency in respect of that area, the resources of that area are needed to assist any other area where a state of local emergency is in force.
 (4) The fact that a person purporting to be authorised by section 25 declares a state of local emergency is, in the absence of proof to the contrary, conclusive evidence that the person is a person authorised under that section to do so.
 (5) Nothing in this section authorises a person to declare a state of local emergency for any part of New Zealand while a state of national emergency is in force in respect of that part.
+(6) Nothing in this section authorises a state of local emergency to be declared for COVID-19 without the prior approval of the Minister, but this subsection does not prevent a state of local emergency being declared for any purpose that is not related to COVID-19.
+(7) Despite subsection (5), if a state of national emergency is in force for COVID-19, subsection (5) does not prevent a state of local emergency being declared for any other emergency that is not related to COVID-19.
+(8) Subsections (6) and (7) are repealed when the COVID-19 Public Health Response Act 2020 is repealed.
 
 ### 69 Minister may declare state of local emergency in certain cases
 (1) If at any time it appears to the Minister that an emergency has occurred or may occur in the area of any Civil Defence Emergency Management Group and a state of local emergency has not been declared under section 68, the Minister may declare a state of local emergency for that area.
@@ -966,6 +971,9 @@ A person exercising a power conferred on him or her by this Part must—
 (9) After notice of a local transition period has been given for an area (the first area) in accordance with subsections (1) to (3), a further notice of a local transition period may be given, in accordance with those subsections, for another district or ward in the area of the relevant Civil Defence Emergency Management Group that is not affected by an emergency if it appears to the person giving notice that the resources of that other district or ward are needed to assist the first area.
 (10) The fact that a person purporting to be authorised under section 25 gives notice of a local transition period is, in the absence of proof to the contrary, conclusive evidence that the person is authorised to do so.
 (11) However, nothing in this section authorises notice of a local transition period to be given for any part of New Zealand while a national transition period is in force for that part.
+(12) Nothing in this section authorises notice of a local transition period to be given for any part of New Zealand for COVID-19 without the prior approval of the Minister, but this subsection does not prevent notice of a local transition period being given for any other purpose.
+(13) Despite subsection (11), if a national transition period is in force for COVID-19, subsection (11) does not prevent a local transition period being given for any other emergency that is not related to COVID-19.
+(14) Subsections (12) and (13) are repealed when the COVID-19 Public Health Response Act 2020 is repealed.
 
 ### 94C Commencement and duration of transition periods
 (1) A transition period for an area, or part of an area, for which a state of emergency has been declared comes into force—
@@ -1011,6 +1019,8 @@ A person exercising a power conferred on him or her by this Part must—
   (a) immediately notify the public by any means of communication that are reasonably practicable in the circumstances of the case; and
   (b) ensure that the notice of termination is published in the Gazette as soon as practicable after it is given.
 (7) If a state of emergency is declared over an area (or any part of an area) to which a transition period applies, the transition period ends without a termination notice being given.
+(8) Subsection (7) does not terminate any national transition period that relates to COVID-19 if a state of local emergency is declared as a result of an emergency that is not related to COVID-19.
+(9) Subsection (8) is repealed when the COVID-19 Public Health Response Act 2020 is repealed.
 
 ### 94F Content and publication of transition period notices and their extensions
 (1) A notice of a transition period must—
