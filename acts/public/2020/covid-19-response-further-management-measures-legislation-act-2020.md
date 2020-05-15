@@ -6,8 +6,8 @@ This Act is the COVID-19 Response (Further Management Measures) Legislation Act 
 
 ### 2 Commencement
 (1) This Act comes into force on the day after the date on which it receives the Royal assent, except as provided in this section.
-(2) Schedule 18, Part 1, clause 2 and schedule 18, Part 2, clause 8 come into force on 15 April 2020.
-(3) Schedule 18, Part 1, clauses 3 and 4, and schedule 18, Part 2, clauses 6, 7, 9, and 10 come into force on 30 April 2020.
+(2) Schedule 18, Part 1, clause 2 and Schedule 18, Part 2, clause 8 come into force on 15 April 2020.
+(3) Schedule 18, Part 1, clauses 3 and 4, and Schedule 18, Part 2, clauses 6, 7, 9, and 10 come into force on 30 April 2020.
 
 ### 3 Amendments to Acts as set out by ministerial portfolio in Schedules 1 to 19
 Amend the Acts specified in Schedules 1 to 19 of this Act as set out in those schedules.
@@ -186,7 +186,7 @@ After the cross-heading above section 292, insert:Meaning of related party
   (a) replace subsection (1) with subsections (1AA) and (1A):
   (b) replace specified period with related party period:
   (c) replace paragraph (a) or paragraph (b) of section 241(2) with section 241(2)﻿(a) or (b).
-(10) Repeal section 292(7).
+(10) Repeal section 293(7).
 
 ### 10 Schedule 1AA amended
 After Part 2 of Schedule 1AA, insert:Provision relating to COVID-19 Response (Further Management Measures) Legislation Act 2020Application of changes to voidable transactions provisions
