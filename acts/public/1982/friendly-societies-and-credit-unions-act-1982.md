@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2020-04-21_
+_Consolidation as at 2020-05-16_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -785,6 +785,10 @@ It shall be the duty of every branch of a registered society to supply the secre
 (1) If, after an investigation carried out or meeting held pursuant to section 89, or otherwise howsoever, it appears to the Registrar that it is in the best interests of members of the society or of the public that the society should be put into liquidation, then, unless the society has already been put into liquidation, the Registrar may apply to the High Court for the society to be put into liquidation in accordance with the Companies Act 1993 if the court thinks it just and equitable that this should be done.
 (2) The provisions of this section shall apply in relation to a branch of a registered society as they apply in relation to such a society.
 
+### 90A COVID-19 business debt hibernation may apply
+(1) Section 395A and Schedule 13 of the Companies Act 1993 (which establish a COVID-19 business debt hibernation regime) may apply to a society under clause 3 of that schedule.
+(2) This section is repealed on the close of 31 May 2022.
+
 ### 90A Transitional provisions applying to liquidation of societies
 [Repealed]
 
@@ -1453,6 +1457,10 @@ Section 89 (which relates to the appointment of inspectors or the calling of spe
 (3) Part 16 of the Companies Act 1993 applies, with any necessary modifications,—
   (a) to an application under this section as if the application were an application under section 241(2)﻿(c) of that Act; and
   (b) to the liquidation as if the liquidator had been appointed under section 241(2)﻿(c) of that Act.
+
+### 138A COVID-19 business debt hibernation may apply
+(1) Section 395A and Schedule 13 of the Companies Act 1993 (which establish a COVID-19 business debt hibernation regime) may apply to a credit union under clause 3 of that schedule.
+(2) This section is repealed on the close of 31 May 2022.
 
 ### 138A Transitional provisions applying to liquidation of credit unions
 [Repealed]
