@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2020-03-26_
+_Consolidation as at 2020-05-16_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -165,6 +165,18 @@ In order to recognise and respect the Crown's responsibility to take appropriate
 (3) If a local authority or a council-controlled organisation is required under this Act to make a document or other information publicly available, it must take reasonable steps to—
   (a) ensure that the document or other information or a copy of the document or other information is accessible to the general public in a manner appropriate to the purpose of the document or other information, including, where practicable, on the local authority’s Internet site; and
   (b) publicise, in a manner appropriate to the purpose and significance of the document or other information, both the fact that the document or other information is available and the manner in which the document or other information may be accessed.
+
+### 5A Temporary definition of public notice as result of outbreak of COVID-19
+(1) This section provides a temporary definition of public notice, which applies (instead of the definition in section 5(1)) as a result of the outbreak of COVID-19.
+(2) In this Act, unless the context otherwise requires, public notice, in relation to a public notice given by a local authority, means a notice that—
+  (a) is made publicly available on the local authority’s Internet site until the relevance of the notice, or any opportunity for review or appeal in relation to the matter notified, has lapsed; and
+  (b) is published in at least—
+    (i) 1 daily newspaper circulating in the region or district of the local authority; or
+    (ii) 1 or more other newspapers that have a combined circulation in that region or district at least equivalent to that of a daily newspaper circulating in that region or district.
+(3) However, a local authority is not required to publish a notice in 1 or more newspapers if it is satisfied that, as a result of the outbreak of COVID-19, it is not reasonably practicable to do so, taking into account—
+  (a) the cost of publication; and
+  (b) the reduced effectiveness of publication.
+(4) This section is repealed on 1 November 2020.
 
 ### 6 Meaning of council-controlled organisation and council organisation
 (1) In this Act, unless the context otherwise requires,—
@@ -1450,6 +1462,20 @@ A summary of the information contained in a statement of proposal must—
   (a) applies except to the extent that this Act or any other enactment expressly provides otherwise; and
   (b) is for the avoidance of doubt.
 
+### 83B Use of special consultative procedure during outbreak of COVID-19
+(1) A local authority that is required, by this Act or any other enactment, to use or adopt the special consultative procedure, may take the modified approach to using the special consultative procedure that is set out in this section.
+(2) When making decisions about the timing and manner of consultation steps in the course of using the special consultative procedure, the local authority may rely on 1 or more of the modifications set out in subsection (4).
+(3) The local authority may take the modified approach at any relevant point of the special consultative procedure if, and only to the extent that, it is satisfied that to do so is necessary or desirable to support measures taken to contain or mitigate the outbreak of COVID-19 or its effects, including, without limitation, by addressing the impacts and consequences of the outbreak for any aspect of the well-being of the community.
+(4) The modifications to the special consultative procedure are as follows:
+  (a) the minimum period referred to in section 83(1)﻿(b)﻿(iii) is 7 days:
+  (b) the matters set out in section 83(1)﻿(d) and (e) are highly desirable but not mandatory.
+
+### 83C Long-term plan commencing on 1 July 2021
+Section 83B does not apply to the requirement that a local authority use or adopt the special consultative procedure for the long-term plan that must be adopted under section 93 for the period commencing on 1 July 2021.
+
+### 83D Repeal of sections 83B and 83C and this section
+Sections 83B and 83C and this section are repealed on 1 October 2020.
+
 ### 84 Special consultative procedure in relation to long-term plan
 [Repealed]
 
@@ -1579,6 +1605,13 @@ The purpose of the consultation document is to provide an effective basis for pu
   (b) the quality of the information and assumptions underlying the information provided in the consultation document.
 (5) The report under subsection (4) must not comment on the merits of any policy content of the consultation document.
 
+### 93DA Amendments to long-term plan during outbreak of COVID-19
+(1) This section applies to a local authority using the special consultative procedure in making an amendment to the authority’s current long-term plan.
+(2) Despite section 93D(4), the local authority may adopt a consultation document that does not contain a report from the Auditor-General as required by that provision if—
+  (a) the proposed amendment of the long-term plan is necessary or desirable to support measures taken to contain or mitigate the outbreak of COVID-19 or its effects including, without limitation, by addressing the impacts and consequences of the outbreak for any aspect of the well-being of the community; and
+  (b) the local authority is satisfied that obtaining and including the report will prevent the authority from amending the long-term plan by 30 June 2020.
+(3) This section is repealed on 1 August 2020.
+
 ### 93E Additional content of consultation document for adoption or amendment of long-term plan where section 97 applies to proposed decision
 If a consultation document under section 93C or 93D relates to a proposal to provide for the making of a decision to which section 97 applies, that consultation document must include—
   (a) the details of the proposed decision:
@@ -1604,6 +1637,15 @@ Before adopting a consultation document under section 93A, the local authority m
   (c)
 (2) In the case of an amended long-term plan, the report under subsection (1) must contain a report by the Auditor-General confirming or amending the report made when the long-term plan was adopted.
 (3) A report under subsection (1) must not comment on the merits of any policy content of the plan.
+
+### 94A Long-term plan amended during outbreak of COVID-19
+(1) This section applies to a long-term plan that is amended using a special consultative procedure in which the local authority adopts a consultation document of a kind authorised by section 93DA(2).
+(2) Despite section 94(2), the amended long-term plan is not required to contain a report by the Auditor-General of the kind required by that provision.
+(3) However, the amended long-term plan must contain a statement—
+  (a) that the plan incorporates an amendment that has not been audited; and
+  (b) that includes the reasons why the amendment was not audited.
+(4) The local authority must include a statement under subsection (3) in the amended long-term plan immediately before the Auditor-General’s report under section 94(1).
+(5) This section is repealed on 1 August 2020.
 
 ### 95 Annual plan
 (1) A local authority must prepare and adopt an annual plan for each financial year.
@@ -2529,6 +2571,13 @@ A local authority must review a bylaw made by it under this Act, the Maritime Tr
 
 ### 160A Bylaw not reviewed within specified time frame revoked
 A bylaw that is not reviewed as required under section 158 or 159, if not earlier revoked by the local authority concerned, is revoked on the date that is 2 years after the last date on which the bylaw should have been reviewed under that section.
+
+### 160B Bylaw revocation postponed as result of outbreak of COVID-19
+(1) Subsection (2) applies instead of section 160A during the period starting on the date on which this section comes into force and ending on 30 June 2021.
+(2) A bylaw that is not reviewed as required under section 158 or 159, and that is not earlier revoked by the relevant local authority, is revoked on the later of—
+  (a) the date that is 2 years after the last date on which the bylaw should have been reviewed under section 158 or 159; and
+  (b) 30 June 2021.
+(3) This section is repealed on 1 July 2021.
 
 **Transfer of bylaw-making power**
 
@@ -4720,6 +4769,21 @@ The relevant amendments do not apply to a local government reorganisation for wh
 (4) If the Commission determines that the application was made on behalf of a group that comprises at least 10% of electors in the affected area, the application must be progressed as follows:
   (a) in accordance with clause 19(2), if the circumstances described in clause 19(1)﻿(b) apply; and
   (b) in accordance with clause 20(2), if the circumstances described in clause 20(1)﻿(b) apply.
+
+### Part 4 — Provisions relating to COVID-19 Response (Further Management Measures) Legislation Act 2020
+
+### 22 Special consultative procedure commenced before 17 May 2020
+(1) Subclause (2) applies if, in meeting a requirement to use or adopt the special consultative procedure, a local authority has complied with section 83(1)﻿(b)﻿(i) before 17 May 2020.
+(2) Section 83B does not apply and the local authority must continue and conclude the special consultative procedure set out in section 83 without modification.
+(3) Subclause (4) applies if, in meeting a requirement to use or adopt the special consultative procedure, a local authority has not yet complied with section 83(1)﻿(b)﻿(i) before 17 May 2020.
+(4) Section 83B applies and the local authority may continue and conclude consultation by using the special consultative procedure as modified by that section.
+
+### 23 Modified special consultative procedure commenced after 17 May but before 1 October 2020
+(1) This clause applies if, in meeting a requirement to use or adopt the special consultative procedure, a local authority commences the procedure after 17 May 2020 and complies with section 83(1)﻿(b)﻿(i) before 1 October 2020.
+(2) Despite clause 24 and section 83D, the local authority may continue using the special consultative procedure as modified by section 83B until the procedure is concluded.
+
+### 24 Repeal of this Part
+This Part is repealed on 1 October 2020.
 
 ## Schedule 1 — Acts under which responsibilities, powers, and duties are conferred or imposed on Minister of Local Government and Secretary for Local Government
 
