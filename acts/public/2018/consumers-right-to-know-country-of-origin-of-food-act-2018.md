@@ -1,5 +1,5 @@
 # Consumers’ Right to Know (Country of Origin of Food) Act 2018
-_Consolidation as at 2018-12-03_
+_Consolidation as at 2020-05-16_
 
 ### 1 Title
 This Act is the Consumers’ Right to Know (Country of Origin of Food) Act 2018.
@@ -36,7 +36,7 @@ This Act binds the Crown.
   (a) would be unduly onerous; or
   (b) would not help consumers to make informed decisions about purchasing the food.
 (5) The food that is excluded may be defined in any way (for example, as a food that is supplied, or offered or advertised for supply, in specified circumstances).
-(6) The Minister must make the recommendation as soon as practicable after the commencement of this Act, but no later than 18 months after its commencement.
+(6) The Minister must make the recommendation before 4 June 2021.
 (7) The requirements of this section continue to apply even if the deadline in subsection (6) has passed or this section has been repealed by section 6.
 (8) To avoid doubt,—
   (a) the Minister may satisfy this section by recommending regulations that amend other regulations; and
@@ -45,4 +45,4 @@ This Act binds the Crown.
     (ii) may be amended or repealed later.
 
 ### 6 Repeal of this Act
-This Act is repealed 18 months after its commencement.
+This Act is repealed on 4 June 2021.
