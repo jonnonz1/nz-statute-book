@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2020-01-13_
+_Consolidation as at 2020-05-16_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -1343,12 +1343,45 @@ A reference in this subpart to 5 years or to 2 years or to 6 months means 5 year
   (a) in the case of adjudication on a creditor's application, extended by the period between the time when the application was served on the bankrupt and the time of adjudication:
   (b) in the case of adjudication on the bankrupt's own application, while a creditor's application is awaiting a hearing, extended by the period between the time when the creditor's application was served on the bankrupt and the time of adjudication.
 
+### 193A Meaning of related party
+(1) In this subpart, a person is related to a bankrupt (A) if the person is any of the following:
+  (a) A’s spouse:
+  (b) A’s grandparent, parent, child, grandchild, brother, sister, nephew, niece, uncle, aunt, or first cousin, whether or not by a step relationship:
+  (c) the spouse of a person who is related to A under paragraph (b):
+  (d) a company of which A is a director or senior manager:
+  (e) a company, if A has a direct or indirect interest in 5 percent or more of any class of the company’s shares:
+  (f) a person with whom A is in partnership in a firm:
+  (g) a close business associate of A:
+  (h) the spouse of a person who is related to A under paragraphs (f) to (g):
+  (i) a parent, child, brother, or sister (whether or not by a step relationship) of a person who is related to A under paragraphs (f) to (g):
+  (j) a trustee of a trust under which A, or a person related to A (under paragraphs (a) to (i)), is a beneficiary who—
+    (i) is presently entitled to a share of the trust estate or of the income of the trust estate; or
+    (ii) is, individually or together with other beneficiaries, in a position to control the trustee:
+  (k) a trustee of a trust if—
+    (i) the trust is a family trust within the meaning of section 173M(5) of the Tax Administration Act 1994; and
+    (ii) a majority of the individuals who are beneficiaries under the trust are related to A (under paragraphs (a) to (i)):
+  (l) a nominee of a person who is related to A under paragraphs (a) to (k).
+(2) In this subpart, a person is a related party of A in relation to a transaction or charge if the person is related to A at the time the transaction is made or the charge given.
+(3) However, in the case of a transaction referred to in section 197(a), a person is a related party of A if the person is related to A at any point during the continuing business relationship.
+(4) In this section,—
+  - **close business associate** , in relation to A, means a person who has a close professional or business relationship with A that allows the person to—
+    (a) assess the solvency of A; or
+    (b) obtain information from A or any other person involved with A that will enable the person to assess the solvency of A
+  - **company** means a company as defined in section 3, but also includes a limited partnership
+  - **director** has the same meaning as in section 126(1)﻿(a) to (c), (1A), and (4) of the Companies Act 1993 (applied with all necessary modifications)
+  - **limited partnership** has the meaning set out in section 6 of the Limited Partnerships Act 2008
+  - **partnership** and have the same meanings as in section 7(1) of the Partnership Law Act 2019
+  - **senior manager** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013.
+
 **Insolvent transactions**
 
 ### 194 Insolvent transaction may be cancelled
-A transaction by the bankrupt may be cancelled on the Assignee's initiative if it—
+(1) A transaction by the bankrupt may be cancelled on the Assignee's initiative if it—
   (a) is an insolvent transaction; and
-  (b) was made within 2 years immediately before the bankrupt's adjudication.
+  (b) was made within 6 months immediately before the bankrupt's adjudication.
+(2) A transaction by the bankrupt may be cancelled on the Assignee’s initiative if it—
+  (a) is an insolvent transaction; and
+  (b) was made with a related party of the bankrupt within 2 years immediately before the bankrupt’s adjudication.
 
 ### 195 Meaning of insolvent transaction
 (1) An insolvent transaction is a transaction by the bankrupt that—
@@ -1375,13 +1408,19 @@ Where—then—
 **Insolvent charges**
 
 ### 198 Insolvent charge may be cancelled
-A charge over any property of a bankrupt may be cancelled on the Assignee's initiative if—
-  (a) the charge was given within 2 years immediately before the bankrupt's adjudication; and
+(1) A charge over any property of a bankrupt may be cancelled on the Assignee's initiative if—
+  (a) the charge was given within 6 months immediately before the bankrupt's adjudication; and
+  (b) immediately after the charge was given, the bankrupt was unable to pay his or her due debts.
+(2) A charge over any property of a bankrupt may be cancelled on the Assignee’s initiative if—
+  (a) the charge was given to a related party of the bankrupt within 2 years immediately before the bankrupt’s adjudication; and
   (b) immediately after the charge was given, the bankrupt was unable to pay his or her due debts.
 
 ### 199 Charge for new consideration or charge in substitution not affected
 (1) A charge may not be cancelled under section 198 if the charge secures money actually advanced or paid, or the actual price or value of property sold or supplied, or any other valuable consideration given in good faith, by the secured creditor to the bankrupt at the time when, or at any time after, the bankrupt gave the charge.
-(2) A charge may not be cancelled under section 198 if the charge is a substitute for an existing charge that was given by the bankrupt more than 2 years before adjudication, except to the extent that—
+(2) A charge may not be cancelled under section 198(1) if the charge is a substitute for an existing charge that was given by the bankrupt more than 6 months before adjudication, except to the extent that—
+  (a) the amount secured by the substituted charge is greater than the amount that was secured by the existing charge; or
+  (b) the value of the property subject to the substituted charge at the date of substitution was greater than the value of the property subject to the existing charge at that date.
+(3) A charge may not be cancelled under section 198(2) if the charge is a substitute for an existing charge that was given by the bankrupt more than 2 years before adjudication, except to the extent that—
   (a) the amount secured by the substituted charge is greater than the amount that was secured by the existing charge; or
   (b) the value of the property subject to the substituted charge at the date of substitution was greater than the value of the property subject to the existing charge at that date.
 
@@ -1389,7 +1428,9 @@ A charge over any property of a bankrupt may be cancelled on the Assignee's init
 A bankrupt who gives a charge within 6 months immediately before adjudication is presumed, unless the contrary is proved, to have been unable to pay his or her due debts immediately after giving the charge.
 
 ### 201 Charge for unpaid purchase price given after sale of property
-(1) This section applies if the bankrupt, after purchasing property, has within 2 years immediately before adjudication given the seller a charge over the property.
+(1) This section applies—
+  (a) if the bankrupt, after purchasing property, has within 2 years immediately before adjudication given the seller a charge over the property; and
+  (b) to the extent that section 198 would otherwise affect the charge.
 (2) Section 198 does not affect the charge to the extent that it secures unpaid purchase money, whether it is unpaid in relation to the property over which the charge is given or some other property, if the charge was given not more than 15 working days after the date of the sale of the property to the bankrupt.
 
 ### 202 Appropriation of payments by bankrupt to secured creditor
@@ -1401,7 +1442,9 @@ A bankrupt who gives a charge within 6 months immediately before adjudication is
 (3) Nothing in this section applies to any payments received by any registered bank within the meaning of the Reserve Bank of New Zealand Act 1989 in good faith in the ordinary course of business and without negligence.
 
 ### 203 Charge agreed before specified period may not be cancelled
-A charge given by the bankrupt under an agreement to give the charge that was made before the period of 2 years immediately before adjudication may not be cancelled under section 198.
+A charge given by the bankrupt under an agreement to give the charge—
+  (a) may not be cancelled under section 198(1) if the agreement to give the charge was made before the period of 6 months immediately before adjudication:
+  (b) may not be cancelled under section 198(2) if the agreement to give the charge was made before the period of 2 years immediately before adjudication.
 
 **Insolvent gifts**
 
@@ -3547,6 +3590,12 @@ Section 363 does not apply, and former section 363 continues to apply, in relati
 (1) Section 449(1)﻿(ab) applies in respect of a person (P) who is or has been bankrupt (whether P was adjudicated bankrupt before, on, or after the commencement date and whether the bankruptcy was first entered on the public register before, on, or after the commencement date).
 (2) Section 449(1)﻿(ga) applies in respect of a person who is subject to a current debt repayment order (whether the order was made before, on, or after the commencement date and whether the order was first entered on the public register before, on, or after the commencement date).
 (3) Section 449(1)﻿(n) applies in respect of a person who is subject to a current debt repayment order (whether the order was made before, on, or after the commencement date and whether the order was first entered on the public register before, on, or after the commencement date).
+
+### Part 3 — Provision relating to COVID-19 Response (Further Management Measures) Legislation Act 2020
+
+### 26 Application of changes to subpart 7 of Part 3 (Irregular transactions before adjudication)
+(1) The amendments made to subpart 7 of Part 3 of this Act by the COVID-19 Response (Further Management Measures) Legislation Act 2020 apply only in respect of bankruptcies that commence on or after the date on which those amendments came into force.
+(2) Subpart 7 of Part 3 of this Act, as in force immediately before those amendments come into force, continues to apply in respect of bankruptcies that commenced before those amendments came into force.
 
 ## Schedule 1 — Assignee's general powers
 
