@@ -1,5 +1,5 @@
 # Mental Health (Compulsory Assessment and Treatment) Act 1992
-_Consolidation as at 2018-02-21_
+_Consolidation as at 2020-05-16_
 
 > An Act to redefine the circumstances in which and the conditions under which persons may be subjected to compulsory psychiatric assessment and treatment, to define the rights of such persons and to provide better protection for those rights, and generally to reform and consolidate the law relating to the assessment and treatment of persons suffering from mental disorder
 
@@ -77,12 +77,25 @@ _Consolidation as at 2018-02-21_
   - **welfare guardian** has the same meaning as it has in section 2 of the Protection of Personal and Property Rights Act 1988.
 (2)
 
+### 2AA Meaning of mental health practitioner during COVID-19 response
+In this Act, unless the context otherwise requires,—
+  - **mental health practitioner** means—
+    (a) a medical practitioner; or
+    (b) a nurse practitioner; or
+    (c) a registered nurse practising in mental health
+  - **registered nurse practising in mental health** means a health practitioner who—
+    (a) is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing and whose scope of practice includes the assessment of the presence of mental disorder as defined under this Act; and
+    (b) holds a current practising certificate.
+
 ### 2A Meaning of proposed patient
 A person—
   (a) starts being a proposed patient when an application is made under section 8A; and
   (b) stops being a proposed patient when a health practitioner records a finding—
     (i) under section 10(1)﻿(b)﻿(i), in which case the person does not become a patient; or
     (ii) under section 10(1)﻿(b)﻿(ii), in which case the person becomes a patient.
+
+### 2B Modification to section 2A during COVID-19 response
+In section 2A(b), health practitioner is modified to mental health practitioner.
 
 ### 3 Act to bind Crown
 This Act shall bind the Crown.
@@ -115,6 +128,15 @@ The procedures prescribed by Parts 1 and 2 shall not be invoked in respect of an
   (b) it is practicable to provide the services of an interpreter.
 (3) The court, tribunal, or person must ensure, as far as reasonably practicable, that the interpreter provided is competent.
 
+### 6A Use of audiovisual links permitted during COVID-19 response
+(1) This section applies if—
+  (a) a clinician, psychiatrist, or mental health practitioner exercises a power under this Act that requires access to a person; or
+  (b) a Judge, any person directed by a Judge, or a member of a Review Tribunal is required to examine a person under this Act.
+(2) If the clinician, psychiatrist, or mental health practitioner considers that it is not practicable for the person to be physically present, the clinician, psychiatrist, or mental health practitioner may use an audiovisual link to access the person to exercise a power under this Act.
+(3) If the Judge or member of the Review Tribunal considers that it is not practicable for the person to be physically present for an examination, the Judge, a person directed by a Judge, or a member of a Review Tribunal may use an audiovisual link to examine the person under this Act.
+(4) In this section, audiovisual link, in relation to the exercise of a power in respect of a person under this Act, means facilities that enable both audio and visual communication with the person.
+(5) To avoid doubt, an examination may not be carried out under this section by audio link.
+
 ### 7 Obligation to assign patient to responsible clinician
 For the purposes of this Act, the Director of Area Mental Health Services shall ensure that at all times there is assigned in respect of each patient a responsible clinician, who shall be—
   (a) a psychiatrist approved by the Director of Area Mental Health Services; or
@@ -133,6 +155,9 @@ For the purposes of this Act, the Director of Area Mental Health Services shall 
   (a) deciding when and how to consult the family or whanau, or the proposed patient or patient; and
   (b) deciding whether or not consultation with the family or whanau is reasonably practicable; and
   (c) deciding whether or not consultation with the family or whanau is in the best interests of the proposed patient or patient.
+
+### 7B Modification to section 7A during COVID-19 response
+In section 7A(1)﻿(a), health practitioner is modified to mental health practitioner.
 
 ## Part 1 — Compulsory assessment and treatment
 
@@ -175,6 +200,9 @@ An application is made under this section when the Director of Area Mental Healt
     (a) is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing and whose scope of practice includes the assessment of a person’s mental capacity; and
     (b) holds a current practising certificate.
 
+### 8C Modification to section 8B during COVID-19 response
+In section 8B(1) to (5), health practitioner is modified to mental health practitioner in each place.
+
 ### 9 Assessment examination to be arranged and conducted
 (1) When the Director of Area Mental Health Services or a duly authorised officer receives notice of an application made under section 8A from the health practitioner who issued the certificate accompanying that application, the Director of Area Mental Health Services must make the necessary arrangements for the proposed patient to immediately undergo an assessment examination.
 (1A) Notice of an application made under section 8A may be given by any means, including by telephone.
@@ -191,6 +219,10 @@ An application is made under this section when the Director of Area Mental Healt
   (a) a psychiatrist approved by the Director of Area Mental Health Services for the purposes of the assessment examination, or of assessment examinations generally; or
   (b) if no such psychiatrist is reasonably available, a medical practitioner or nurse practitioner (not being a medical practitioner or nurse practitioner who issued the certificate under section 8B(4)﻿(b)) who, in the opinion of the Director of Mental Health, is suitably qualified to conduct the assessment examination or assessment examinations generally.
 (4) The Director of Mental Health may delegate his or her function under subsection (3)﻿(b) to the Director of Area Mental Health Services.
+
+### 9A Modifications to section 9 during COVID-19 response
+(1) In section 9(1), the Director of Area Mental Health Services must make is modified to the Director of Area Mental Health Services or duly authorised officer must make.
+(2) In section 9(1) and (3), health practitioner is modified to mental health practitioner.
 
 ### 10 Certificate of preliminary assessment
 (1) After completing the assessment examination, the health practitioner must record his or her findings in a certificate of preliminary assessment, stating—
@@ -214,6 +246,9 @@ An application is made under this section when the Director of Area Mental Healt
   (b) give or send, to each of the persons specified in paragraph (a), a statement of the legal consequences of the finding set out in the certificate of preliminary assessment, and of the recipient's right to apply to the court for a review of the patient's condition; and
   (c) otherwise deal with the case in accordance with section 11.
 
+### 10A Modification to section 10 during COVID-19 response
+In section 10, health practitioner is modified to mental health practitioner in each place.
+
 ### 11 Further assessment and treatment for 5 days
 (1) If the health practitioner records a finding under section 10(1)﻿(b)﻿(ii), the health practitioner must require the patient to undergo further assessment and treatment throughout the first period. The health practitioner must give the patient written notice of this requirement.
 (2) In the notice, the health practitioner must—
@@ -232,6 +267,9 @@ An application is made under this section when the Director of Area Mental Healt
     (ii) in a written notice given to the patient and to the person in charge of the hospital.
 (6) If, at any time during the first period, the responsible clinician considers that a patient is fit to be released from compulsory status, the clinician must give a written notice to the patient and, if necessary, to the person in charge of the hospital directing that the patient be released from that status immediately.
 (7) At any time during the first period, the patient, or a person specified in section 10(4)﻿(a)﻿(ii) to (v), may apply to the court to have the patient's condition reviewed under section 16 (without limiting anything in this section).
+
+### 11A Modification to section 11 during COVID-19 response
+In section 11(1) and (2), health practitioner is modified to mental health practitioner in each place.
 
 ### 12 Certificate of further assessment
 (1) Before the expiry of the first period of assessment and treatment, the responsible clinician shall record his or her findings in a certificate of further assessment, stating—
@@ -526,6 +564,10 @@ So far as practicable, duly authorised officers shall act as a ready point of co
 (5) A duly authorised officer who receives a request need not comply with subsections (3)﻿(a) or (4)﻿(a) to (d) if that officer has available to him or her a certificate issued under section 8B(4)﻿(b) by a medical practitioner who examined the person who is the subject of the request within the 72 hours before the receipt of the request.
 (6) A medical practitioner doing an examination under subsections (3)﻿(a) or (4)﻿(b) or (d) need not issue another certificate if that medical practitioner has available to him or her a certificate issued under section 8B(4)﻿(b) by a medical practitioner who examined the person who is the subject of the request within the 72 hours before the receipt of the request.
 
+### 38A Modifications to section 38 during COVID-19 response
+(1) In section 38(2)﻿(b), (3), and (4), medical examination is modified to examination.
+(2) In section 38(3) to (6), medical practitioner is modified to mental health practitioner in each place.
+
 ### 39 Assistance in respect of outpatients and inpatients on leave
 (1) This section applies to—
   (a) every patient who is subject to assessment otherwise than in a hospital; and
@@ -585,6 +627,9 @@ So far as practicable, duly authorised officers shall act as a ready point of co
 (6) A constable who enters premises under subsection (2) may, for the purposes of section 40(2)﻿(b), take the patient back to the hospital.
 (7) The constable must not exercise the power in subsection (2) without a warrant, if it would be reasonably practicable to obtain a warrant.
 
+### 41A Modification to section 41 during COVID-19 response
+In section 41(3)﻿(b), (4)﻿(a), and (4)﻿(b)﻿(ii), medical examination is modified to examination.
+
 ## Part 4 — Special patients and restricted patients
 
 **Notice of admission, discharge, and transfer of special patients and restricted patients**
@@ -597,6 +642,9 @@ So far as practicable, duly authorised officers shall act as a ready point of co
   (c) a copy of every medical certificate and other document that accompanied the order:
   (d) a statement of both the mental condition and the physical condition of the patient at the time of the patient's admission.
 (3) The person in charge of the hospital must send the information within 14 days after the patient is admitted.
+
+### 42A Modification to section 42 during COVID-19 response
+In section 42(2)﻿(c), medical certificate is modified to assessment certificate.
 
 ### 43 Notice of events concerning patient
 (1) The Director of Area Mental Health Services must ensure that the person in charge of a hospital sends a notice to the Director of any of the events described in subsection (2) that concerns a special or restricted patient admitted to the hospital.
@@ -656,6 +704,9 @@ Subject to the provisions of any other enactment, every special patient shall be
   (f) if the certificate of further assessment contains a finding of the kind described in section 12(1)﻿(b)﻿(ii), the responsible clinician giving the certificate shall give a notice in accordance with section 13(1), directing that the person be admitted to and detained in a specified hospital for the purposes of assessment and treatment during the second period of assessment and treatment:
   (g) the court shall not make a community treatment order in respect of the person.
 (5) Neither the making of an application under subsection (2) nor the making of a compulsory treatment order, in relation to a person detained in a prison, prevents the bringing of the person before a court for hearing or trial, or operates to delay the hearing or trial.
+
+### 45A Modification to section 45 during COVID-19 response
+In section 45(4)﻿(d), medical practitioner is modified to mental health practitioner.
 
 ### 46 Detained persons in need of care and treatment
 If it appears to the chief executive of the Department of Corrections that any person who is detained in a prison or in a residence established under section 114 of the Public Safety (Public Protection Orders) Act 2014, whether or not that person is mentally disordered, would benefit from psychiatric care and treatment available in a hospital but not available in the institution in which the person is detained, the chief executive of the Department of Corrections may, with the consent of that person, make arrangements with the Director for the person to be admitted to and detained in that hospital, and, subject to section 50, the person shall be so detained accordingly.
@@ -1186,12 +1237,27 @@ Wherever practicable, for the purposes of a review by a Review Tribunal of the c
 (4) On any such visit, the district inspector or the official visitor may, if the Director so permits or requires, be accompanied by a health practitioner named by the Director.
 (5) Any district inspector, and any official visitor, may, in respect of any specific matter, obtain advice from a health practitioner appointed for the purpose by the Director, and that health practitioner shall, for that purpose, have all the powers of visitation and inspection conferred on district inspectors and official visitors by this Act.
 
+### 96A Modification to section 96 during COVID-19 response
+In section 96(4) and (5), health practitioner is modified to mental health practitioner in each place.
+
 ### 97 Extent of inspection
 (1) Every district inspector, and every official visitor, shall, when visiting any hospital or service for the purposes of this Act, have access to every part of the hospital or service and to every person in it, whether detained or not.
 (2) On every visit by a district inspector or an official visitor to any hospital or service for the purposes of this Act, there shall be laid before the district inspector or the official visitor by the responsible clinicians—
   (a) such of the registers and records required to be kept by or under this Act, and such orders and other documents relating to any of the patients, as the district inspector or the official visitor requires to be so produced; and
   (b) all letters and other postal packets withheld by the responsible clinician pursuant to section 123 or section 124.
 (3) The district inspector or the official visitor may sign any such registers, records, and books under the last entry.
+
+### 97A Visitations by remote technology permitted while epidemic notice in force for COVID-19
+(1) A district inspector or an official visitor may make a visit required by section 96 using remote technology, if the district inspector or official visitor considers that it is not practicable to make the visit in person.
+(2) If a district inspector or an official visitor makes a visit required by section 96 using remote technology,—
+  (a) the hospital or service must provide them with the means to—
+    (i) visually inspect all areas of the hospital or service; and
+    (ii) communicate with every person in the hospital or service, whether detained or not; and
+  (b) any information required to be provided under section 97(2) may be provided by electronic means.
+(3) In this section, remote technology means technology that enables a person to—
+  (a) view a place at which they are not physically present; and
+  (b) communicate with a person at that place.
+(4) This section is repealed when the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
 
 ### 98 Reports on visits
 A district inspector or an official visitor who visits any hospital or service must give a report on the visit to the Director of Area Mental Health Services within 14 days after the visit.
@@ -1305,6 +1371,9 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
   (a) for the purposes of subsections (1) to (3A), 6 hours or the time it takes to carry out the actions described in those subsections, whichever is shorter:
   (b) for the purposes of subsection (4), 6 hours or the time it takes to conduct the assessment examination, whichever is shorter.
 
+### 109A Modification to section 109 during COVID-19 response
+In section 109(1)﻿(b), (2), (3), (3A), and (4)﻿(b), medical practitioner is modified to mental health practitioner.
+
 ### 110 Powers of medical practitioner when urgent examination required
 (1) Subsection (2) applies to a medical practitioner who—
   (a) conducts a medical examination of a person who is acting in a manner that could give rise to a reasonable belief that he or she may be mentally disordered; and
@@ -1316,6 +1385,11 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
   (b) make an application under section 8A.
 (3) A medical practitioner acting under this section must make every reasonable effort to get the advice and assistance of a duly authorised officer.
 (4) A medical practitioner who needs assistance to conduct a medical examination under subsection (1)﻿(a) may call for Police assistance under section 110C.
+
+### 110AA Modifications to section 110 during COVID-19 response
+(1) In the heading to section 110, “medical practitioner” is modified to “mental health practitioner”.
+(2) In section 110, medical practitioner is modified to mental health practitioner in each place.
+(3) In section 110(1)﻿(a) and (4), medical examination is modified to examination.
 
 ### 110A Power of medical practitioner who issues certificate to sedate when sedation urgently required
 (1) This section applies to a medical practitioner who—
@@ -1335,6 +1409,10 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
 (3) A medical practitioner acting under this section must make every reasonable effort to get the advice and assistance of a duly authorised officer.
 (4) A medical practitioner who needs assistance to conduct an assessment examination under subsection (2) may call for Police assistance under section 110C.
 
+### 110BA Modifications to section 110B during COVID-19 response
+(1) In the heading to section 110B, “medical practitioner” is modified to “mental health practitioner”.
+(2) In section 110B, medical practitioner is modified to mental health practitioner in each place.
+
 ### 110C Powers of Police when urgent assistance required
 (1) A constable called to the assistance of a medical practitioner under section 110(4), section 110A(5), or section 110B(4)—
   (a) may enter the premises where the person or proposed patient is; and
@@ -1347,6 +1425,10 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
   (b) for the purposes of section 110A(2), 6 hours or the time it takes to administer the sedative drug, whichever is shorter:
   (c) for the purposes of section 110B(2), 6 hours or the time it takes to conduct the assessment examination, whichever is shorter.
 
+### 110D Modifications to section 110C during COVID-19 response
+(1) In section 110C(1) and (2), medical practitioner is modified to mental health practitioner in each place.
+(2) In section 110C(3)﻿(a), medical examination is modified to examination.
+
 ### 111 Powers of nurse where urgent assessment required
 (1) If—the nurse shall arrange as soon as practicable for a medical practitioner to examine the patient with a view to the issue of a certificate by that medical practitioner under section 8B(4)﻿(b).
   (a) any person who has been admitted to hospital (not being a patient who is already subject to assessment or treatment under this Act) is acting in a manner that gives rise to a reasonable belief that he or she may be mentally disordered, or such a person is brought to a hospital; and
@@ -1357,6 +1439,9 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
   (a) detain the person where he or she is until a medical practitioner has examined the patient; or
   (b) take the person to some other place to enable a medical practitioner to examine the patient, and detain the person at that other place until a medical practitioner has examined the patient.
 (3) No person shall be detained under this section for more than 6 hours from the time when the nurse first calls for a medical practitioner to examine the person.
+
+### 111A Modification to section 111 during COVID-19 response
+In section 111, medical practitioner is modified to mental health practitioner in each place.
 
 ### 112 Judge may authorise apprehension of patients and proposed patients
 [Repealed]
@@ -1525,6 +1610,9 @@ Sections 32(1), 38(4)﻿(d), 40(2), 41(4), 41(5), 41(6), 50(4), 51(3), 53, 109(1
 (8) On the transfer of a patient from one hospital or service to another in accordance with any provision of this Act, a copy (certified to be a true copy by or on behalf of the person in charge of the hospital or service from which the patient is transferred) of the compulsory treatment order, and of the medical certificates and of the copy of the application that accompanied the order, or of any other instrument of authority under which the patient was admitted or detained, shall be delivered to the person in charge of the hospital or service to which the patient is transferred, together with such copy of the clinical records of the patient as may be appropriate or an adequate summary of the clinical condition of the patient immediately before the patient's transfer.
 (9) The compulsory treatment order or other instrument of authority shall remain in force in the same manner as if the patient had been ordered to be received in the hospital or service to which the patient is so transferred.
 
+### 127A Modification to section 127 during COVID-19 response
+In section 127(8), medical certificates is modified to assessment certificates.
+
 ### 128 Removal from New Zealand
 (1) If it appears to the Minister that it would be for the benefit of any patient who is subject to a compulsory treatment order that he or she be removed to any place outside New Zealand, whether by reason of the fact that the patient has a relative or friend in that place who is willing to undertake the care and charge of the patient or for any other reason, the Minister may by warrant authorise and direct the removal of the patient accordingly, and make such order as the Minister thinks fit concerning the patient's custody pending his or her removal.
 (2) In any such case, the Minister may—
@@ -1586,6 +1674,9 @@ The responsible clinician shall send to the Director-General of Health, or to su
 (4) Fees payable under subsection (2) are met from any appropriation by Parliament for the purpose.
 (5) No fees are payable under this section to a medical practitioner employed by a service or by the Ministry of Health, for anything done in the course of that employment.
 
+### 134A Modification to section 134 during COVID-19 response
+In section 134(1), (2), and (5), medical practitioner is modified to mental health practitioner.
+
 ### 135 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing forms, registers, records, particulars, and notices for the purposes of this Act and the method of keeping such registers and records:
@@ -1607,6 +1698,14 @@ Except as expressly provided in this Act, nothing in this Act shall limit or aff
 ### 137 Repeals and consequential amendments
 (1) The enactments specified in Schedule 2 are hereby repealed.
 (2) The enactments specified in Schedule 3 are hereby amended in the manner indicated in that schedule.
+
+### 137A Temporary COVID-19 response provisions repealed
+(1) Sections 2AA, 2B, 6A, 7B, 8C, 9A, 10A, 11A, 38A, 41A, 42A, 45A, 96A, 109A, 110AA, 110BA, 110D, 111A, 127A, 134A, and clauses 3A and 8A of Schedule 1 are repealed on the earlier of the following:
+  (a) 31 October 2021:
+  (b) a date set by the Governor-General by Order in Council on the recommendation of the Minister.
+(2) The Minister may recommend the making of an Order in Council under subsection (1)﻿(b) only if the Minister is satisfied that it is unnecessary for the provisions specified in subsection (1) to remain in force because—
+  (a) the effects of COVID-19 have diminished to such an extent that it is no longer necessary to rely on the changes made to the law by those provisions; or
+  (b) for any other reason arising since the commencement of those provisions, it is no longer necessary for those provisions to remain in force.
 
 ### 138 Savings
 [Repealed]
@@ -1676,6 +1775,22 @@ Where a Review Tribunal is to review the condition of any patient under any of t
 (1) The patient, and any person referred to in clause 2(6), shall be entitled to be heard by the Tribunal, whether in person or through a barrister or solicitor, and to call witnesses, and to cross-examine any witness called by any other party to the proceedings.
 (2) Without limiting anything in subclause (1), where the patient is present and appears capable of addressing the Tribunal, the Tribunal shall give the patient an opportunity to do so; and, in any such case, the Tribunal may, if it thinks it desirable to do so, require any parent or guardian of the patient, or any other person with whom the patient is living, or any barrister or solicitor representing any such parent, guardian, or other person, to withdraw from the Tribunal while the patient is addressing the Tribunal.
 
+### 3A Attendance by remote technology during COVID-19 response
+(1) A Review Tribunal may determine that a participant be permitted to appear at a hearing by remote technology if the Tribunal considers that it is not practicable for the participant to be physically present.
+(2) The Tribunal must take into account the following criteria when making a determination:
+  (a) the available remote technology must allow, wherever reasonably practicable, the person to be both heard and seen:
+  (b) the potential impact of the use of the technology on the effective maintenance of the rights of the person under clause 3, including the right to assess the credibility of witnesses and the reliability of evidence presented to the Tribunal:
+  (c) any other relevant matters.
+(3) In this clause,—
+  (a) participant, in relation to a hearing, means a person who is, in that hearing, any of the following:
+    (i) a party:
+    (ii) the patient:
+    (iii) a person referred to in clause 2(6):
+    (iv) counsel:
+    (v) a witness:
+    (vi) a member of the Review Tribunal; and
+  (b) remote technology, in relation to a participant’s appearance at a hearing, means technology that enables communication between participants, when some or all of them are not physically present at the place of the hearing.
+
 ### 4 Tribunal may call for report on patient
 (1) A Review Tribunal may, if it is satisfied that it is necessary for the proper review of a patient's condition, request any person whom it considers qualified to do so to prepare a medical, psychiatric, psychological, or other report on the patient.
 (2) In deciding whether or not to request a report under subclause (1), the Tribunal may ascertain and have regard to the wishes of the patient and any other party to the proceedings.
@@ -1716,6 +1831,9 @@ For the purposes of any review of a patient's condition, a Review Tribunal may r
     (ii) psychologists:
     (iii) social workers:
     (iv) employees of a service or the Ministry of Health.
+
+### 8A Clause 8 modified during COVID-19 response
+In clause 8(2)﻿(b)﻿(i), medical professions is modified to health professions.
 
 ### 9 Tribunal may dispense with hearing in certain circumstances
 Notwithstanding any of the preceding provisions of this schedule, a Review Tribunal may review a patient's condition without a formal hearing if it is satisfied that no person wishes to be heard in respect of the review.
