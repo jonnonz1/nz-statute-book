@@ -1,5 +1,5 @@
 # Freedom Camping Act 2011
-_Consolidation as at 2019-10-22_
+_Consolidation as at 2020-05-16_
 
 ### 1 Title
 This Act is the Freedom Camping Act 2011.
@@ -138,6 +138,13 @@ Freedom camping is permitted in any local authority area unless it is restricted
   (b) the reasons for the proposal; and
   (c) a report of any relevant determinations by the local authority under section 11(2) of this Act.
 (6) A bylaw that is not reviewed as required by this section, if not earlier revoked by the local authority concerned, is revoked on the day that is 2 years after the last date on which the bylaw should have been reviewed under this section.
+
+### 13A Bylaw revocation postponed as result of outbreak of COVID-19
+(1) Subsection (2) applies instead of section 13(6) during the period starting on the date on which this section comes into force and ending on 30 June 2021.
+(2) A bylaw that is not reviewed as required by section 13, and that is not earlier revoked by the local authority concerned, is revoked on the later of—
+  (a) the date that is 2 years after the last date on which the bylaw should have been reviewed under that section; and
+  (b) 30 June 2021.
+(3) This section is repealed on 1 July 2021.
 
 ### 14 Application of Local Government Act 2002 to bylaws
 (1) To the extent that the Local Government Act 2002 applies to bylaws made under other enactments, that Act also applies to a bylaw made under this Act.
