@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2019-03-21_
+_Consolidation as at 2020-05-16_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -102,6 +102,16 @@ In this Act, unless the context otherwise requires,—
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **Te Urewera Board** and have the meanings given in section 7 of the Te Urewera Act 2014
   - **uniform annual general charge** means a rate set under section 15.
+
+### 5A Temporary definition of public notice as result of outbreak of COVID-19
+(1) This section provides a temporary definition of public notice, which applies (instead of the definition in section 5) as a result of the outbreak of COVID-19.
+(2) In this Act, unless the context otherwise requires, public notice means a notice that—
+  (a) is made publicly available on the local authority’s Internet site until the relevance of the notice, or any opportunity for review or appeal in relation to the matter notified, has lapsed; and
+  (b) is published in a newspaper circulating generally in the district to which the subject matter of the notice relates.
+(3) However, a local authority is not required to publish a notice in a newspaper if it is satisfied that, as a result of the outbreak of COVID-19, it is not reasonably practicable to do so, taking into account—
+  (a) the cost of publication; and
+  (b) the reduced effectiveness of publication.
+(4) This section is repealed on 1 November 2020.
 
 ### 6 Act binds the Crown
 This Act binds the Crown.
