@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2020-04-01_
+_Consolidation as at 2020-05-16_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -1670,9 +1670,14 @@ Before making a recommendation under section 77(1), the Minister may have regard
 
 ### 79 Suspension of permit for non-payment of deemed value
 (1) If the total amount of deemed values owed by any commercial fisher exceeds $1,000 and has not been satisfied within the time limit specified in section 76(5), the current fishing permit of the commercial fisher and any person included with the commercial fisher under subsection (5), and any permit subsequently issued to the commercial fisher or included person, are, on the expiration of that time limit, to be treated as being suspended until the total amount of all outstanding deemed values owed by the commercial fisher is $1,000 or less.
+(1A) However, the chief executive may cease the suspension if—
+  (a) the total amount of deemed values owed by the commercial fisher includes an amount demanded under section 76 during the period that begins on 20 April 2020 and ends on 30 September 2021; and
+  (b) the chief executive and the commercial fisher enter into an agreement (a repayment agreement) for repayment of the total amount owed within a new specified time limit.
+(1B) For the purpose of subsection (1), any amount for which there is a repayment agreement does not count towards the total amount of deemed values owed by a commercial fisher, unless there has been a failure to pay the amount within the time limit specified in the agreement.
 (2) The chief executive must—but any delay or failure to give that notification or make that record does not affect the suspension or cessation.
   (a) notify every suspension or cessation of suspension of a fishing permit under subsection (1) to the commercial fisher concerned and any included person of whom the chief executive is aware; and
   (b) record on the Permit Register details of any suspension or cessation of suspension of a fishing permit under subsection (1);—
+(2A) Subsection (2) also applies to the cessation of suspension of a fishing permit under subsection (1A).
 (3) A fishing permit suspended under this section does not authorise any person to take any fish, aquatic life, or seaweed under the authority of that permit, but all other provisions of this Act continue to apply as if the fishing permit had not been suspended.
 (4) A commercial fisher who has requested a review under section 80(2) or lodged an appeal under section 80(6) may, pending determination of the review or appeal, apply to the District Court for an order lifting any suspension imposed under this section, and the court may make such an order subject to such sureties and conditions as the court may specify.
 (5) For the purposes of subsections (1) and (2), a person or entity is to be treated as a person included with the commercial fisher if the person or entity is—
@@ -1688,6 +1693,7 @@ Before making a recommendation under section 77(1), the Minister may have regard
       (C) Te Wai Maori Trust; and
   (b) Aotearoa Fisheries Limited is not to be regarded as being included with another person merely because the other person holds, or benefits from, income shares in Aotearoa Fisheries Limited; and
   (c) no bank registered under the Reserve Bank of New Zealand Act 1989 is to be regarded as being included with any other person merely because the bank has, in the ordinary course of its business as a financier, been granted any interest in quota owned by that person.
+(7) Subsections (1A), (1B), and (2A) and this subsection are repealed on 1 October 2021.
 
 ### 79A Suspension of fishing permit of other persons
 (1) Where a fishing permit of a person (person A) is suspended under section 79(1), the chief executive may suspend the fishing permit of another person (person B) if the chief executive believes, on reasonable grounds specified on oath in writing, that—
@@ -1709,10 +1715,12 @@ Before making a recommendation under section 77(1), the Minister may have regard
 (5) The suspension imposed under subsection (1) takes effect from the date of notification.
 (6) A fishing permit suspended under this section does not authorise any person to take any fish, aquatic life, or seaweed under the authority of that permit, but all other provisions of this Act continue to apply as if the fishing permit had not been suspended.
 (7) A suspension of a fishing permit under subsection (1) ceases to be of effect once the total amount of all outstanding deemed values owed by the person who incurred the deemed value liability referred to in section 79(1) is $1,000 or less.
+(7A) A suspension of a fishing permit under subsection (1) also ceases to be of effect if the chief executive ceases suspension of person A’s licence under section 79(1A).
 (8) If—then each of person A and person B commits an offence and is liable to the penalty set out in section 252(3).
   (a) a person (person B) is, in respect of commercial fishing, in substance the same person as a person (person A) whose fishing permit is suspended under section 79(1); and
   (b) person B, knowing of the suspension, is conducting commercial fishing,—
 (9) If a person (person B) knowingly allows another person (person A) to conduct commercial fishing under person B's permit for the purpose of assisting person A to fish despite the suspension of person A's permit under section 79(1), and person A does so, then each of person A and person B commits an offence and is liable to the penalty set out in section 252(3).
+(10) Subsection (7A) and this subsection are repealed on 1 October 2021.
 
 ### 79B Removal of suspension, or direction to issue permit
 (1) This section applies to any person—
@@ -6161,6 +6169,10 @@ Section 369L(3) expires with the close of 31 January 2007.
   (d) the Fisheries Authority.
 
 ## Schedule 1AA — Transitional, savings, and related provisions
+
+### 2 Continuation of certain amendments to section 79 while repayment agreements remain in effect
+(1) This clause applies if any amount for which there is a repayment agreement under section 79(1A)﻿(b) has not been paid by 1 October 2021.
+(2) For the purpose of section 79(1), and until the amount is paid, the amount does not count towards the total amount of deemed values owed by a commercial fisher, unless there has been a failure to pay the amount within the time limit specified in the agreement.
 
 ## Schedule 1A — Agreement for the implementation of the provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 relating to the conservation and management of straddling fish stocks and highly migratory fish stocks
 
