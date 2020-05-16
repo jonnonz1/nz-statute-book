@@ -1,5 +1,5 @@
 # Parental Leave and Employment Protection Act 1987
-_Consolidation as at 2020-01-13_
+_Consolidation as at 2020-05-16_
 
 > Title
 
@@ -486,6 +486,139 @@ An employer must deal with a request for negotiated carer leave as soon as possi
 ### 30J Penalty
 (1) An employer who does not comply with section 30D is liable to a penalty not exceeding $2,000, imposed by the Employment Relations Authority.
 (2) The penalty is payable to the employee concerned.
+
+## Part 3B — COVID-19 response workers
+
+### 30JA Repeal of this Part
+This Part is repealed immediately after the expiry of the 2-year period that starts at the end of the COVID-19 response period.
+
+### 30JB Retrospective application of this Part
+This Part applies on and from 25 March 2020 as if it were in force on and from that date.
+
+### 30JC Interpretation
+In this Part,—
+  - **COVID-19 response period** means the period starting on 25 March 2020 and ending 3 months after the date on which the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked
+  - **COVID-19 response work** means work that occurs (all or in part) during the COVID-19 response period
+  - **COVID-19 response worker** has the meaning given in section 30JD
+  - **parental leave** does not include partner’s leave.
+
+### 30JD Meaning of COVID-19 response worker
+(1) This section applies to a person if—
+  (a) the person is entitled to parental leave; and
+  (b) the person is—
+    (i) an employee who has agreed with their employer to temporarily return to work to respond to circumstances related to the outbreak of COVID-19; or
+    (ii) a self-employed person who wants to temporarily return to work to respond to circumstances related to the outbreak of COVID-19.
+(2) A person to whom this section applies is a COVID-19 response worker if, in circumstances related to the outbreak of COVID-19,—
+  (a) their role cannot reasonably be filled by another person (because of the person’s skill, qualifications, or experience); or
+  (b) there is higher demand than usual for workers doing their role.
+
+### 30JE COVID-19 response work day is not keeping-in-touch day
+A day of COVID-19 response work is not a keeping-in-touch day.
+
+**Parental leave payments**
+
+### 30JF Application for parental leave payments after period of COVID-19 response work
+(1) This section applies to a COVID-19 response worker who has not yet received all the parental leave payments to which the worker is entitled under—
+  (a) section 71D; and
+  (b) section 71J (as that section applies to a COVID-19 response worker in accordance with section 30JK); and
+  (c) section 71L (as that section applies to a COVID-19 response worker in accordance with section 30JI).
+(2) The worker is entitled to parental leave payments if—
+  (a) the worker has applied for parental leave payments under section 71I; and
+  (b) the worker temporarily returns to work for COVID-19 response work; and
+  (c) the worker applies for payment in accordance with subsection (5).
+(3) The temporary return—
+  (a) may not be for longer than 12 weeks (unless a Labour Inspector determines that a longer period is reasonable under section 30JS); and
+  (b) must be in 1 continuous period (unless a Labour Inspector determines that more than 1 period is reasonable under section 30JS).
+(4) The worker may apply to the department for parental leave payments to be paid for the period for which the worker resumes parental leave after finishing COVID-19 response work.
+(5) The application must include—
+  (a) the date on which the worker will resume (or has resumed) parental leave; and
+  (b) confirmation that the worker—
+    (i) is a COVID-19 response worker; and
+    (ii) is applying in relation to COVID-19 response work; and
+    (iii) has not yet received all the parental leave payments referred to in subsection (1).
+
+### 30JG COVID-19 response worker must notify temporary return to work if receiving payment
+(1) A COVID-19 response worker must notify the department under this section and not under section 71U(1) if, during the period for which the worker is receiving a parental leave payment or preterm baby payment, the worker temporarily returns to work for COVID-19 response work.
+(2) The worker may notify at the same time as the worker applies under section 30JF for payments to resume after the temporary return to work.
+(3) This section overrides the obligation in section 71U(1) for the worker to notify the department of the worker’s return to work.
+
+### 30JH No payments in relation to period of COVID-19 response work
+(1) The department must not pay parental leave payments or preterm baby payments to a COVID-19 response worker in relation to the period of COVID-19 response work.
+(2) Any payments received by the worker in respect of that period are recoverable under section 71X as an overpayment.
+
+### 30JI End of parental leave payments
+(1) Section 71L(1) does not apply to a COVID-19 response worker and this section applies instead.
+(2) A parental leave payment is payable to the worker in respect of a child for a period that ends on the earlier of—
+  (a) the date on which the worker has received all the parental leave payments to which the worker is entitled under section 71D and section 71J (as that section applies to a COVID-19 response worker in accordance with section 30JK); and
+  (b) the date on which the worker permanently returns to work as an employee or a self-employed person (as notified under section 71U).
+
+### 30JJ Primary carer leave need not be for 1 continuous period
+(1) The requirement in section 9 that primary carer leave be taken in 1 continuous period does not apply to a COVID-19 response worker and instead there may be more than 1 period of primary carer leave.
+(2) However, the periods must not together exceed the maximum period allowed under section 9.
+(3) This Act applies accordingly so that references to a period of leave must be read as references to periods.
+
+### 30JK Payment need not relate to 1 continuous period
+(1) The requirement in sections 71DA(2) and 71J that payment be made for 1 continuous period does not apply to a COVID-19 response worker and instead there may be more than 1 period.
+(2) However, the periods must not together exceed the maximum period for which payments are payable under section 71DA(2) or 71J.
+(3) This Act applies accordingly so that references to a period during which payments are payable must be read as references to periods.
+
+**Extended leave**
+
+### 30JL Applicable end date for extended leave
+For the purposes of section 27, the applicable end date for a COVID-19 response worker’s extended leave means,—
+  (a) in relation to employees who meet the 6-month employment test, the date on which the worker has had 6 months of parental leave; and
+  (b) in relation to employees who meet the 12-month employment test, the date on which the worker has had 12 months of parental leave.
+
+**Preterm baby payments**
+
+### 30JM Preterm baby payments
+(1) This section applies (and section 71DA(5A)﻿(a)﻿(i) does not) to a COVID-19 response worker who is entitled to a preterm baby payment under section 71DA.
+(2) If the worker temporarily returns to work for COVID-19 response work, the department must not pay preterm baby payments to the worker in relation to the period of COVID-19 response work.
+(3) Any preterm baby payments received by the worker in respect of that period are recoverable under section 71X as an overpayment.
+(4) However, if the return to work finishes before the end of the preterm baby payment period, the worker’s preterm baby payments—
+  (a) resume on the date on which the worker resumes parental leave; and
+  (b) continue until the end of what would have been the 36th week of pregnancy had the child not been born prematurely.
+
+**Remuneration and holiday pay for COVID-19 response workers**
+
+### 30JN Remuneration and holiday pay for COVID-19 response workers
+(1) A temporary return to work by a COVID-19 response worker for COVID-19 response work is not a return to work for the purposes of section 42(2)﻿(c).
+(2) Section 21(2) of the Holidays Act 2003 must be used to calculate an employee’s holiday pay entitlements in respect of any portion of annual holidays that relates to a period of COVID-19 response work.
+
+**Subsequent children**
+
+### 30JO Parental leave within 6 months of end of previous period of parental leave in respect of another child
+Section 6 does not apply to a COVID-19 response worker (in respect of a subsequent child) if a period of 6 months has elapsed after the end of the period for which a COVID-19 response worker would have taken parental leave (but for the COVID-19 response work).
+
+### 30JP Subsequent parental leave payments
+Section 71F(a) does not apply to a COVID-19 response worker if a period of 6 months has elapsed after the end of the period for which the worker would have received a parental leave payment (but for the COVID-19 response work).
+
+**Regulations**
+
+### 30JQ Regulations
+Regulations may be made under section 73 prescribing the information that must be given in, or the documents that must be attached to,—
+  (a) an application under section 30JF by a COVID-19 response worker for parental leave payments:
+  (b) a notice relating to a return to work by a COVID-19 response worker.
+
+**Department’s discretion in relation to this Part**
+
+### 30JR Department’s discretion about irregular applications
+Section 71IA applies to an application made under section 30JF as if an irregularity includes—
+  (a) an application being made after the COVID-19 response worker has begun COVID-19 response work; and
+  (b) an application under section 71I being made at the same time as an application under section 30JF; and
+  (c) an application being made after the COVID-19 response worker has begun parental leave again after completing COVID-19 response work; and
+  (d) an application being made after the commencement of this section and in respect of COVID-19 response work that occurred at any time during the COVID-19 response period (whether the work was performed before or after the commencement of this section); and
+  (e) an application being made after a notice was given in accordance with section 71U (and the department may treat the notice as sufficient to comply with section 30JG).
+
+**Role of Labour Inspectors in relation to this Part**
+
+### 30JS Labour Inspectors may make determinations
+(1) A Labour Inspector may determine, for the purposes of an application made under section 30JF,—
+  (a) that a temporary return to work for longer than 12 weeks is a temporary return to work and is a reasonable period in the circumstances; or
+  (b) that more than 1 temporary return to work is reasonable in the circumstances and is a temporary return to work, as long as the returns do not together exceed a period of 12 weeks (or any other period determined under paragraph (a)).
+(2) A Labour Inspector must, as soon as practicable after making a determination, serve a copy on the worker and any employer.
+(3) The consequences of a determination are that it is prima facie evidence of the matter determined.
+(4) Sections 70C and 70E apply to a determination under this section in the same way as those sections apply to a determination under section 70A.
 
 ## Part 4 — Requirements concerning notice
 
