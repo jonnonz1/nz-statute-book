@@ -1,5 +1,5 @@
 # Incorporated Societies Act 1908
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2020-05-16_
 
 > An Act to make provision for the incorporation of societies which are not established for the purpose of pecuniary gain
 
@@ -168,6 +168,10 @@ Any summons, notice, order, or other document required to be served upon a socie
 (4) Where a society makes default in complying with any requirement of this section, the society and every officer of the society who is in default shall be liable on conviction to a fine not exceeding $1,000, and, for the purpose of this subsection, any liquidator of the society and any trustees appointed on behalf of creditors of the society shall be deemed to be officers of the society:
   provided that a person shall not be liable under this subsection if that person shows that the default was due to the refusal of any other person, being an officer of the society or a trustee appointed on behalf of creditors, to supply the necessary particulars as to his or her interests.
 (5) It shall be the duty of any officer of the society and of any trustee appointed on behalf of creditors of the society to give notice to the society of such matters relating to himself or herself as may be necessary for the purposes of this section, and any person who makes default in complying with this subsection shall be liable on conviction to a fine not exceeding $100.
+
+### 23C COVID-19 business debt hibernation may apply
+(1) Section 395A and Schedule 13 of the Companies Act 1993 (which establish a COVID-19 business debt hibernation regime) may apply to a society under clause 3 of that schedule.
+(2) This section is repealed on the close of 31 May 2022.
 
 ### 24 Members may resolve to put society into liquidation
 (1) A society may be put into liquidation if the society, at a general meeting of its members, passes a resolution appointing a liquidator, and the resolution is confirmed at a subsequent general meeting called together for that purpose and held not earlier than 30 days after the date on which the resolution to be confirmed was passed.
