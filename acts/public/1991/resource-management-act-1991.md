@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2020-05-16_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -401,6 +401,26 @@ _Consolidation as at 2019-10-29_
     (ii) is in the prescribed form (if any); and
   (b) publish a short summary of the notice, along with details of the Internet site where the notice can be accessed, in 1 or more newspapers circulating in the entire area likely to be affected by the matter to which the notice relates.
 (2) The notice and the short summary of the notice must be worded in a way that is clear and concise.
+
+### 2AC Availability of documents during COVID-19 response
+Interpretation
+(1) In this section, document includes the following if they are required to be made available for inspection to the public, a class of members of the public, a person, or a class of persons, whether free of charge or at a reasonable cost:
+  (a) information of any kind; and
+  (b) public notices of any kind; and
+  (c) reports and evidence of any kind; and
+  (d) policy statements and plans of any kind, together with any changes or variations of those documents.
+Application of this section
+(2) This section applies if this Act requires a document to be made available for inspection in physical form to the public, a class of members of the public, a person, or a class of persons at a specified place such as council offices or a library.
+(3) This section applies on and from 25 March 2020.
+How documents may be made available
+(4) The requirement referred to in subsection (2) is satisfied if the person responsible for making the document available—
+  (a) makes it available in electronic form free of charge on an Internet site; and
+  (b) provides advice on how the document may be obtained or accessed.
+(5) In addition, the person responsible for making a document available may—
+  (a) make it available for inspection; and
+  (b) upon request, make a physical copy of the document available for purchase at a reasonable cost.
+Repeal
+(6) This section is repealed on 31 October 2021.
 
 ### 2A Successors
 (1) In this Act, unless the context otherwise requires, any reference to a person, however described or referred to (including applicant and consent holder), includes the successor of that person.
@@ -1400,6 +1420,38 @@ The following bodies have the powers of a consent authority under sections 37 an
   (c) not permit any person other than the chairperson or other member of the hearing body to question any party or witness; and
   (d) not permit cross-examination.
 (3) Despite subsection (2), nothing in paragraph (c) or (d) of that subsection applies to a board of inquiry appointed under section 149J.
+
+### 39AA Hearing using remote access facilities during COVID-19 response
+Interpretation
+(1) In this section,—
+  - **audio link** means a facility (such as a telephone facility) that enables audio communication between an authority and 1 or more persons with a right to be heard at a hearing
+  - **audiovisual link** means a facility that enables both audio and visual communication between an authority and 1 or more persons with a right to be heard at a hearing
+  - **remote access facility** means any of the following:
+    (a) audio link:
+    (b) audiovisual link:
+    (c) any other similar facility.
+Direction to use remote access facilities
+(2) For the purposes of section 39, an authority may direct that a hearing or part of a hearing may be conducted using 1 or more remote access facilities.
+(3) A direction may be made under subsection (2)—
+  (a) on the initiative of the authority itself; or
+  (b) at the request of any person with a right to be heard at the hearing under section 40.
+(4) An authority may make a direction under subsection (2) provided that the authority—
+  (a) considers it appropriate and fair to do so; and
+  (b) is satisfied that the necessary remote access facilities are available.
+(5) If a hearing is conducted in full or in part using a remote access facility, the authority must,—
+  (a) if it is reasonably practicable to do so, enable access to the hearing by making the hearing available live and free of charge to the public, for example, on an Internet site; or
+  (b) as soon as practicable after the hearing closes, make available free of charge on its Internet site—
+    (i) an audio or a video recording of the hearing; or
+    (ii) a written transcript of the hearing.
+Exclusions
+(6) This section does not apply—
+  (a) to a public hearing if the relevant authority is represented by 1 or more persons appearing in person at the hearing and 1 or more persons make submissions or give evidence by means of a remote access facility; or
+  (b) to a hearing to which section 47A of the Local Government Official Information and Meetings Act 1987 applies.
+Deemed compliance
+(7) A hearing conducted in full or in part before 25 March 2020 using a remote access facility is deemed to comply with this section.
+Period for which this section applies
+(8) This section applies on and from 25 March 2020.
+(9) This section is repealed on 31 October 2021.
 
 ### 39A Accreditation
 The Minister must—
