@@ -1,5 +1,5 @@
 # Unit Titles Act 2010
-_Consolidation as at 2019-08-27_
+_Consolidation as at 2020-05-16_
 
 ### 1 Title
 This Act is the Unit Titles Act 2010.
@@ -931,6 +931,11 @@ An owner of a principal unit—
 ### 88 Meetings
 (1) All meetings of a body corporate are general meetings.
 (2) A general meeting is either an annual general meeting or extraordinary general meeting.
+(3) Members of a body corporate may attend a general meeting (and members of a body corporate committee may attend a committee meeting) in person, by audio link, or by audiovisual link despite—
+  (a) any limitation or condition on the use of an audio link or audiovisual link that is contained in the body corporate operational rules; or
+  (b) anything to the contrary in this Act or the regulations.
+(4) Subsection (3) applies on and from 25 March 2020.
+(5) This subsection and subsections (3) and (4) are repealed immediately after the expiry of the 12-week period that starts on the date on which the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
 
 ### 89 Requirement for annual general meeting
 (1) The first annual general meeting of a body corporate must be held as soon as practicable, and in any event within 6 months after the earlier of the following dates:
