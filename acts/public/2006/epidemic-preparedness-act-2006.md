@@ -1,5 +1,5 @@
 # Epidemic Preparedness Act 2006
-_Consolidation as at 2020-03-26_
+_Consolidation as at 2020-05-16_
 
 ### 1 Title
 This Act is the Epidemic Preparedness Act 2006.
@@ -29,6 +29,9 @@ This Act comes into force on the day after the date on which it receives the Roy
 (2) For the purposes of this Act,—
   (a) the Minister of the Crown and department of State responsible for the administration of an enactment that is or forms part of subordinate legislation are the Minister of the Crown and department of State responsible for the administration of the enactment under whose authority the legislation was made; and
   (b) the New Zealand Police is a department of State and the Commissioner of Police is its chief executive.
+
+### 4A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
 
 **Epidemic notices and epidemic management notices**
 
@@ -234,3 +237,26 @@ An immediate modification order cannot be disallowed under Part 3 of the Legisla
 
 ### 26 Effect of modification orders on requirements to tell people of their rights
 While a person’s rights, available remedies or courses of action, or legal situation under an enactment are affected by the effect of a modification order, a requirement in any enactment (whether that enactment or another) to the effect that a person must be told of those rights, those remedies or courses of action, or that situation, must be read as a requirement that he or she must be told of those rights, those remedies or courses of action, or that situation, as modified by the effect of the order.
+
+### 27 Provisions regarding COVID-19 set out in Schedule 2
+(1) Provisions regarding COVID-19 are set out in Schedule 2.
+(2) This section and Schedule 2 are repealed on the earlier of the following:
+  (a) 31 October 2021:
+  (b) a date set by the Governor-General by Order in Council made on the recommendation of the Minister of Health with the agreement of the Minister of Justice.
+(3) The Minister of Health may recommend the making of an Order in Council under subsection (2)﻿(b) only if the Minister is satisfied that it is unnecessary for this section to remain in force because—
+  (a) the effects of COVID-19 have diminished to such an extent that it is no longer necessary to rely on the changes made to the law by this section; or
+  (b) for any other reason arising since the commencement of this section, it is no longer necessary for this section to remain in force.
+
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provision relating to COVID-19 Response (Further Management Measures) Legislation Act 2020
+
+### 1 Savings provision relating to clause 1 of Schedule 2
+(1) This clause applies to clause 1 of Schedule 2.
+(2) Any extension or shortening of time arising out of the application of clause 1 of Schedule 2 (as it read immediately after the commencement of this clause) and applied to proceedings continues to apply to the proceedings until they are concluded, whether or not clause 1 of Schedule 2 is repealed before the proceedings are concluded.
+
+## Schedule 2 — Provision regarding COVID-19
+
+### 1 Power of courts to extend or shorten time
+(1) In relation to a proceeding before it, a court may, in its discretion, extend or shorten the time appointed by rules of court or an enactment, or fixed by a court order, for doing an act or taking a step on the terms that the court thinks just if satisfied that it is necessary or desirable to do so because of circumstances relating to COVID-19.
+(2) In this clause, court includes a tribunal.
