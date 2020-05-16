@@ -1,5 +1,5 @@
 # Insolvency Practitioners Regulation (Amendments) Act 2019
-_Consolidation as at 2019-08-31_
+_Consolidation as at 2020-05-16_
 
 ### 1 Title
 This Act is the Insolvency Practitioners Regulation (Amendments) Act 2019.
@@ -7,7 +7,7 @@ This Act is the Insolvency Practitioners Regulation (Amendments) Act 2019.
 ### 2 Commencement
 (1) Section 56 (which enables the making of regulations) comes into force on the day after the date of Royal assent.
 (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) Any provision that is not earlier brought into force under subsection (2) comes into force on the first anniversary of the date of Royal assent.
+(3) Any provision that is not earlier brought into force under subsection (2) comes into force on 1 June 2021.
 
 ## Part 1 — Amendments to Companies Act 1993
 
