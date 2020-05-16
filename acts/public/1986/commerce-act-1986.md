@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2019-08-14_
+_Consolidation as at 2020-05-16_
 
 > Title
 
@@ -2210,6 +2210,49 @@ Nothing in section 59 or section 59A prevents conduct that occurred before an au
   (c) a condition upon which the authorisation was granted has not been complied with,—
 (2) The Commission shall not revoke or amend an authorisation or revoke an authorisation and substitute a further authorisation pursuant to subsection (1) unless the person to whom the authorisation was granted and any other person who in the opinion of the Commission is likely to have an interest in the matter is given a reasonable opportunity to make submissions to the Commission and the Commission has regard to those submissions.
 
+### 65AA Applications during epidemic period
+(1) In this section and sections 65AB to 65AD, epidemic period means a period—
+  (a) commencing on the day on which this section comes into force; and
+  (b) ending at the close of the 6-month period that starts on the date on which the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
+(2) A person who wishes to enter into a contract or arrangement, or arrive at an understanding, that the person considers would contain, or may contain, a cartel provision may, during the epidemic period, apply to the Commission for an authorisation to do so and the Commission may grant an authorisation for that person to enter into the contract or arrangement, or arrive at the understanding.
+(3) A person who wishes to give effect to a provision of a contract or arrangement or understanding that the person considers would contain, or may contain, a cartel provision, may, during the epidemic period, apply to the Commission for an authorisation to do so, and the Commission may grant an authorisation for that person to give effect to the provision of the contract or arrangement or understanding.
+(4) Subject to the modifications set out in sections 65AB and 65AC,—
+  (a) an authorisation under subsection (2) is to be treated as if it were an authorisation under section 58(1):
+  (b) an authorisation under subsection (3) is to be treated as if it were an authorisation under section 58(2).
+
+### 65AB Modifications in relation to application under section 65AA
+(1) The modifications set out in this section apply in relation to an application for an authorisation under section 65AA(2) or (3).
+(2) For the purposes of section 59, a contract that contains a cartel provision must be treated as if it were a contract to which section 27 applies.
+(3) Section 61(6) must be treated as if it provides that the Commission shall not make a determination granting an authorisation pursuant to an application under section 65AA(2) or (3) unless it is satisfied that—as the case may be, to which the application relates, will in all the circumstances result, or be likely to result, in such a benefit to the public that—
+  (a) the entering into of the contract or arrangement or the arriving at the understanding; or
+  (b) the giving effect to the cartel provision of the contract, arrangement, or understanding,—
+  (c) the entering into of the contract or arrangement or the arriving at the understanding should be permitted; or
+  (d) the giving effect to the cartel provision should be permitted.
+(4) For the purpose of subsection (3), it is not necessary for the Commission to determine whether a particular provision is in fact a cartel provision, providing there are reasonable grounds for believing it might be.
+
+### 65AC Modifications in relation to certain applications made during epidemic period
+(1) The modifications set out in this section apply in relation to—
+  (a) an application for authorisation under section 58(1) or (2) made during the epidemic period; or
+  (b) an application for an authorisation under section 65AA(2) or (3).
+(2) Despite section 60(1), the Commission may, in its discretion, waive all or part of any fee payable for the application.
+(3) Despite section 61(5), the Commission may, in its discretion, determine the application without complying with section 62.
+
+### 65AD Provisional authorisations for certain applications made during epidemic period
+(1) This section applies if the Commission receives an application under section 58(1) or (2) or 65AA(2) or (3) during the epidemic period.
+(2) The Commission may make a determination in writing granting a provisional authorisation for an application under section 58(1) or (2) or 65AA(2) or (3) if the Commission considers it is appropriate to do so—
+  (a) for the purpose of enabling due consideration to be given to the application; or
+  (b) for any other reason.
+(3) The Commission is not required to comply with section 61(5) to (6A) before granting a provisional authorisation.
+(4) For the purposes of this section, a reference in any of sections 58A, 58B, 59(1)﻿(a) and (2)﻿(a), 59A, 59B, 61(2), 65, 92, 100, 104, 105, or 106(10) to an authorisation must be treated as if it is a reference to a provisional authorisation.
+(5) A provisional authorisation remains in force until—
+  (a) the applicant withdraws its application for an authorisation; or
+  (b) the Commission revokes the provisional authorisation under section 65; or
+  (c) the Commission declines or grants the application for an authorisation under section 58(1) or (2) or 65AA(2) or (3).
+(6) Subsection (5) does not limit the Commission’s ability to grant a provisional authorisation for such period as the Commission sees fit.
+
+### 65AE Repeal of sections 65AA to 65AE
+This section and sections 65AA to 65AD are repealed immediately after the expiry of the 6-month period that starts on the date on which the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
+
 ### 65A Commission may give clearances relating to cartel provisions
 (1) A person who proposes to enter into a contract or arrangement, or arrive at an understanding, that contains, or may contain, a cartel provision may apply to the Commission for a clearance under this section.
 (2) The Commission must give a clearance under this section if it is satisfied that—
@@ -3222,6 +3265,13 @@ Former sections 74A to 74C remain in force for the purposes of allowing a Commis
 (2) The High Court—
   (a) must determine the appeal under section 93; and
   (b) despite section 94, must not refer any matter relating to the appeal back to the Commissioners to reconsider.
+
+### Part 3 — Provision relating to COVID-19 Response (Further Management Measures) Legislation Act 2020
+
+### 12 Application of provisions after repeal
+For the purposes of an application that is made during the epidemic period, sections 65AA to 65AD continue to apply as if they remained in force, despite their repeal by section 65AE, to the application including in relation to—
+  (a) any authorisation or provisional authorisation granted on the application:
+  (b) any appeal in relation to a determination of the Commission on the application.
 
 ## Schedule 1 — Classes of merger or takeover proposals requiring prior clearance or authorisation by the Commission
 
