@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2020-05-16_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -3591,6 +3591,14 @@ All costs recoverable by a chief technical officer, principal officer, or manage
 (5) An inspector or authorised person may, at any time while the declaration of a restricted place is in force, direct that specified organisms, risk goods, or other goods in the restricted place must be—
   (a) isolated, confined, or stored in such manner as the inspector or authorised person directs:
   (b) identified in a manner specified in the direction, or with an identification applied by the inspector or authorised person.
+
+### 130A Modifications to section 130 while epidemic notice in force for COVID-19
+(1) Section 130(3) is modified as set out in subsections (2) to (5) while the Epidemic Preparedness (COVID-19) Notice 2020 is in force.
+(2) An inspector or authorised person may serve a notice declaring a place to be a restricted place by giving notice in accordance with section 164A(1) (which includes delivery by sending the notice by fax or email to the person’s fax number or email address).
+(3) The notice must be given by serving a copy on the occupier of each place included in the area of the restricted place or by delivering a copy of the notice to the occupier in accordance with section 164A(1).
+(4) However, a notice may be given in accordance with section 164A(2) if the inspector or authorised person cannot with reasonable diligence discover an occupier of the place who can be found quickly.
+(5) Section 164A(3), which provides for when a notice delivered by post is deemed to be given or made, applies to a written notice that is delivered in accordance with this section by post.
+(6) This section is repealed when the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
 
 ### 131 Declaration of controlled area
 (1) The purpose of this section is to enable the institution of movement and other controls in order to—
