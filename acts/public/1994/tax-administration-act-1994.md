@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2020-04-30_
+_Consolidation as at 2020-05-16_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -487,6 +487,7 @@ _Consolidation as at 2020-04-30_
       (ii) a repayment obligation, as defined in section 4(1) of the Student Loan Scheme Act 2011:
       (iii)
     (cb) for the purposes of sections 156 to 165, includes a combined tax and earner-related payment:
+    (cc) for the purposes of sections 6, 6A, 6B, 156 to 165, 174AA, 176, 177, and 177A to 177CA, includes an amount payable in relation to a loan made under the small business cashflow scheme:
     (d) for the purpose of sections 176, 177, and 177A to 177D, means—but does not include—
       (i) a tax, levy or duty of any type imposed by a tax law, regardless of how the tax, levy or duty is described:
       (ii) an amount deemed by a tax law to be a tax, levy or duty:
@@ -858,12 +859,15 @@ Publication
   (a) must provide the information to the Commissioner required by the loan contract; and
   (b) is bound by the terms of the loan contract and must pay or repay all amounts payable by the person under the loan contract at the times and in the manner provided in the loan contract.
 (4) If a person who receives a payment from the Commissioner does not meet the required eligibility requirements, the person must repay the total amount to the Commissioner immediately.
+(4B) For the purposes of this section, the chief executive of the Ministry of Social Development is authorised to provide the Commissioner with any information relating to the wage subsidy scheme administered by the Ministry.
+(4C) The Commissioner may use the information provided under subsection (4B) in connection with the exercise or performance of any of the Commissioner’s duties, powers, or functions under the Inland Revenue Acts.
 (5) A loan contract under this section is not a credit contract or a consumer credit contract for the purposes of the Credit Contracts and Consumer Finance Act 2003.
 (6) For the purposes of this section,—
   - **loan contract** means a loan contract or agreement that—
     (a) is provided by or on behalf of the Commissioner to a person in whose name a loan application has been made; and
     (b) records the terms on which a loan under the small business cashflow scheme is, or will be, made
-  - **small business cashflow scheme** means the Small Business Cashflow (Loan) Scheme established by the Crown to provide loans to assist small-to-medium businesses in the circumstances arising from the continuing impact of COVID-19 related measures or circumstances.
+  - **small business cashflow scheme** means the Small Business Cashflow (Loan) Scheme established and administered by the Crown to provide loans to assist small-to-medium businesses in the circumstances arising from the continuing impact of COVID-19 related measures or circumstances
+  - **wage subsidy scheme** means a subsidy scheme that is established as part of the Government’s COVID-19 response measures and which the Ministry administers on behalf of the Government.
 
 ### 7A Authorisation to take securities
 (1) The Commissioner may—
@@ -6169,7 +6173,10 @@ The Governor-General may from time to time, by Order in Council,—
 (1) This section applies if, for a tax year and a provisional taxpayer (the person),—
   (a) section 120KE does not apply for the person for the tax year (for example: a person does not make a required payment, so section 120KE does not apply); and
   (b) the person is an interest concession provisional taxpayer; and
-  (c) all provisional tax associates of the person that are liable to pay provisional tax are either interest concession provisional taxpayers or use, for the tax year, the GST ratio method described in section RC 5(6) of the Income Tax Act 2007; and
+  (c) the provisional tax associates of the person that are liable to pay provisional tax—
+    (i) are interest concession provisional taxpayers:
+    (ii) use, for the tax year, the GST ratio method described in section RC 5(6) of the Income Tax Act 2007:
+    (iii) use, for the tax year, the estimation method described in section RC 7 of the Income Tax Act 2007, and have elected to use a net loss under section IZ 8 of that Act for the tax year; and
   (d) there is no provisional tax interest avoidance arrangement in relation to the person.
 (2) If the person pays the amount of the instalments for the tax year other than the last 1, on or before those relevant instalment dates for the tax year in accordance with sections RC 9 and RC 10 of the Income Tax Act 2007, then, despite section 120KB(2) and (2B) of this Act,—
   (a) the person’s residual income tax for the tax year is not due and payable as set out in section RC 9 of the Income Tax Act 2007 for those relevant instalment dates; and
@@ -8218,7 +8225,8 @@ In any proceedings against a person for refusing or failing to provide a tax ret
     (f) an amount of unpaid tax subject to Part 10A:
     (g) an amount of unpaid contribution that was payable under subpart 1 of Part 3 of the KiwiSaver Act 2006:
     (h) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006 that relates to a compulsory employer contribution:
-    (i) an amount of compulsory employer contributions unpaid, specified in a notice under section 101I(5) of the KiwiSaver Act 2006
+    (i) an amount of compulsory employer contributions unpaid, specified in a notice under section 101I(5) of the KiwiSaver Act 2006:
+    (j) an amount payable in relation to a loan made under the small business cashflow scheme
   - **taxpayer** —
     (a) in relation to income tax within the meaning of paragraphs (b) and (d) of the definition of income tax in this subsection, includes an employer and a PAYE intermediary; and
     (b) in relation to income tax within the meaning of paragraph (e) of the definition of income tax in this subsection, includes an employer.
@@ -10165,12 +10173,7 @@ Section 18 does not prevent the Commissioner from disclosing sensitive revenue i
   (b) may not supply that information to any other country without the prior notified consent of the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 and subject to such conditions as that chief executive sets.
 
 ### 45B Social Development: wage subsidy scheme information
-(1) The purpose of this clause is to facilitate the exchange of information between the Inland Revenue Department and the Ministry of Social Development for the purpose of the administration by the Commissioner of the small business cashflow scheme.
-(2) For the purposes of this clause, the chief executive of the Ministry of Social Development may from time to time provide the Commissioner with information relating to the wage subsidy scheme administered by the Ministry.
-(3) The Commissioner may use the information supplied under this clause in connection with the exercise or performance of any of the Commissioner’s duties, powers, or functions under the Inland Revenue Acts.
-(4) For the purposes of this section,—
-  - **small business cashflow scheme** means the Small Business Cashflow (Loan) Scheme established by the Crown to provide loans to assist small-to-medium businesses in the circumstances arising from the continuing impact of COVID-19 related measures or circumstances
-  - **wage subsidy scheme** means the subsidy scheme that is established as part of the Government’s COVID-19 response measures and which the Ministry administers on behalf of the Government.
+[Repealed]
 
 ### 46 Business, Innovation, and Employment: parental leave payments
 (1) Section 18 does not prevent the Commissioner communicating information to a person who is an officer, employee, or agent of the department for the time being responsible for the administration of the Parental Leave and Employment Protection Act 1987 and who is authorised to receive the information by the chief executive of that department.
