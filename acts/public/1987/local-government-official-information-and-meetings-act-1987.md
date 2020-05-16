@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Act 1987
-_Consolidation as at 2020-04-01_
+_Consolidation as at 2020-05-16_
 
 > An Act to make official information held by local authorities more freely available, to provide for proper access by each person to official information relating to that person which is held by local authorities, to provide for the admission of the public to meetings of local authorities, to protect official information held by local authorities and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy, and to establish procedures for the achievement of those purposes
 
@@ -61,6 +61,18 @@ _Consolidation as at 2020-04-01_
 (4) Nothing in subsection (3) applies in respect of any information that any officer or employee or member of a local authority would not hold but for that person's membership of, or connection with, a body other than a local authority, except where that membership or connection is in that person's capacity as such an officer or employee or member of that local authority or as a statutory officer.
 (5)
 (6) Any information held by an independent contractor engaged by any local authority in his or her capacity as an independent contractor is, for the purposes of this Act, deemed to be held by the local authority.
+
+### 2A Temporary definition of publicly notified as result of outbreak of COVID-19
+(1) This section provides a temporary definition of publicly notified, which applies (instead of the definition in section 2(1)) as a result of the outbreak of COVID-19.
+(2) In this Act, unless the context otherwise requires, publicly notified means made known by means of a notice that—
+  (a) is made publicly available on the local authority’s Internet site until the relevance of the notice, or any opportunity for review or appeal in relation to the matter notified, has lapsed; and
+  (b) is published in at least—
+    (i) 1 daily newspaper circulating in the region or district of the local authority; or
+    (ii) 1 or more other newspapers that have a combined circulation in that region or district at least equivalent to that of a daily newspaper circulating in that region or district.
+(3) However, a local authority is not required to publish a notice in 1 or more newspapers if it is satisfied that, as a result of the outbreak of COVID-19, it is not reasonably practicable to do so, taking into account—
+  (a) the cost of publication; and
+  (b) the reduced effectiveness of publication.
+(4) This section is repealed on 1 November 2020.
 
 ### 3 Act to bind the Crown
 This Act binds the Crown.
