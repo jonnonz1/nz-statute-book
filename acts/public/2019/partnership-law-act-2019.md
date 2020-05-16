@@ -1,5 +1,5 @@
 # Partnership Law Act 2019
-_Consolidation as at 2019-10-21_
+_Consolidation as at 2020-05-16_
 
 ### 1 Title
 This Act is the Partnership Law Act 2019.
@@ -229,6 +229,10 @@ If a person (A) becomes a partner of an existing firm, that does not make A liab
   (a) a continuing guarantee given to the firm in respect of the firm’s transactions:
   (b) a continuing guarantee given to a third person in respect of the firm’s transactions.
 (2) This section does not apply if there is an agreement to the contrary.
+
+### 34A COVID-19 business debt hibernation may apply
+(1) Section 395A and Schedule 13 of the Companies Act 1993 (which establish a COVID-19 business debt hibernation regime) may apply to a partnership under clause 3 of that schedule.
+(2) This section is repealed on the close of 31 May 2022.
 
 ### Subpart 2 — Relationship of partners to one another
 
