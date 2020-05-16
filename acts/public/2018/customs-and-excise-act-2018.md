@@ -1,5 +1,5 @@
 # Customs and Excise Act 2018
-_Consolidation as at 2020-01-01_
+_Consolidation as at 2020-05-16_
 
 ### 1 Title
 This Act is the Customs and Excise Act 2018.
@@ -5841,7 +5841,10 @@ A notice issued under section 9 of the 1996 Act that is in force immediately bef
 
 ### 7 Prohibition orders
 (1) Any Order in Council that is in force immediately before the specified date under section 54 or 56 of the 1996 Act continues in force as if it had been made under section 96 of this Act (and may be amended or revoked accordingly).
-(2) An order to which subclause (1) applies is revoked at the time at which, apart from this Act, it would have expired under section 55 or 57 of the 1996 Act (unless the order is revoked earlier).
+(1A) Unless revoked earlier, the following orders continue in force until the close of 30 September 2021, at which time they are revoked:
+  (a) Customs Import Prohibition Order 2017:
+  (b) Customs Export Prohibition Order 2017.
+(2) Any other order to which subclause (1) applies is revoked at the time at which, apart from this Act, it would have expired under section 55 or 57 of the 1996 Act (unless the order is revoked earlier).
 
 ### 8 Prohibited imports: goods prohibited under Schedule 1 of 1996 Act
 [Repealed]
