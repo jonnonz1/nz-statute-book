@@ -1,5 +1,5 @@
 # Food Act 2014
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2020-05-16_
 
 ### 1 Title
 This Act is the Food Act 2014.
@@ -5395,6 +5395,21 @@ In this schedule, unless the context otherwise requires,—
 ### 3 Renewal of registration
 (1) A registration may be renewed by paying the prescribed fee (if any) to the proper authority at any time during the period that the registration is effective.
 (2) On payment of the prescribed fee, the proper authority may renew the registration for a further period determined by the proper authority unless the proper authority is satisfied that any 1 or more of the criteria specified in section 56 or 86(b) or, as the case may be, section 116 are no longer being met.
+
+### 3A Renewal of registrations that expire during, or in 4 weeks after, COVID-19 lockdown period
+(1) Despite clause 3, a registration may be renewed under this clause—
+  (a) after the expiry of the period during which the registration is effective; and
+  (b) whether the expiry occurs before, on, or after the date on which this clause comes into force.
+(2) To avoid doubt, an affected person must not operate the affected business until the registration is renewed.
+(3) A registration that expires during a COVID-19 lockdown period may be renewed by paying the prescribed fee (if any) to the proper authority within 1 month after the end of the COVID-19 lockdown period.
+(4) A registration that expires during the 4 weeks that immediately follow any COVID-19 lockdown period may be renewed—
+  (a) if the proper authority, having considered the impact of the COVID-19 lockdown period on affected persons generally and their ability to meet registration requirements, is satisfied that it is appropriate to extend the deadline for renewal by 1 month; and
+  (b) if the prescribed fee (if any) is paid within 1 month after the date on which the registration expired.
+(5) On payment of the prescribed fee, the proper authority may renew the registration for a further period determined by the authority, unless the proper authority is satisfied that any 1 or more of the criteria specified in section 56 or 86(b) or, as the case may be, section 116 are no longer being met.
+(6) In this clause, COVID-19 lockdown period means the period during which any order or other restriction is in force under section 70(1)﻿(f), (g), (h), (i), (la), or (m) of the Health Act 1956, or section 11 of the COVID-19 Public Health Response Act 2020, that—
+  (a) relates to COVID-19; and
+  (b) results in an affected person being unable to operate the affected food business.
+(7) This clause is repealed immediately after the expiry of the 2-month period that starts on the date on which the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
 
 ### Part 3 — Suspension of operations
 
