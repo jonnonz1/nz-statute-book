@@ -1,5 +1,5 @@
 # Insolvency Practitioners Regulation Act 2019
-_Consolidation as at 2019-06-17_
+_Consolidation as at 2020-05-16_
 
 ### 1 Title
 This Act is the Insolvency Practitioners Regulation Act 2019.
@@ -13,7 +13,7 @@ This Act is the Insolvency Practitioners Regulation Act 2019.
   (e) sections 57 to 59 (which provide an exemption from membership of an accredited body for certain overseas practitioners, members of recognised bodies, and members of religious societies and orders):
   (f) sections 69 to 82 (which relate to miscellaneous matters).
 (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) Any provision that is not earlier brought into force under subsection (2) comes into force on the first anniversary of the date of Royal assent.
+(3) Any provision that is not earlier brought into force under subsection (2) comes into force on 1 June 2021.
 
 ## Part 1 — Preliminary provisions
 
