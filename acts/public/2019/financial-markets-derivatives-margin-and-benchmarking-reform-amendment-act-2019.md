@@ -1,5 +1,5 @@
 # Financial Markets (Derivatives Margin and Benchmarking) Reform Amendment Act 2019
-_Consolidation as at 2019-08-30_
+_Consolidation as at 2020-05-16_
 
 ### 1 Title
 This Act is the Financial Markets (Derivatives Margin and Benchmarking) Reform Amendment Act 2019.
@@ -8,7 +8,7 @@ This Act is the Financial Markets (Derivatives Margin and Benchmarking) Reform A
 (1) Part 1 comes into force on the day after the date of Royal assent.
 (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council.
 (3) One or more orders may be made under subsection (2) bringing different provisions into force on different dates.
-(4) Any provision that has not earlier been brought into force comes into force on the expiry of the 12-month period that starts on the date of Royal assent.
+(4) Any provision that has not earlier been brought into force comes into force on 30 August 2021.
 
 ## Part 1 — Amendments relating to derivative margins
 
