@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2020-04-30_
+_Consolidation as at 2020-05-16_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -30822,7 +30822,7 @@ Relationship with sections IC 5 and IC 6
 
 ### IZ 8 Election to use net loss for 2019–20 or 2020–21 year as tax loss in preceding year
 Terms used in this section
-(1) This section provides that a person who has taxable income in the 2018–19 or 2019–20 income year and a net loss in the following income year may choose to reduce the taxable income in the first year by an amount, which is treated as being available tax loss that can be used in the first income year, and subtracting the same amount from the net loss that would otherwise be available in the second income year, subject to restrictions that are expressed in terms of—
+(1) This section provides that a person who has taxable income in the 2018–19 or 2019–20 income year and a net loss in the following income year may choose to reduce the taxable income in the first year by an amount, which is treated as being an available tax loss that can be used in the first income year, and subtracting the same amount from the net loss that would otherwise be available in the second income year, subject to restrictions that are expressed in terms of—
   (a) the offset years, which refers to the period of 2 years that is affected by the election and begins with either the 2018–19 or the 2019–20 income year:
   (b) the taxable income year, which refers to the first of the offset years:
   (c) the initial taxable income, which refers to the amount of taxable income given by subsection (2)﻿(a) for the person and the taxable income year:
@@ -30836,7 +30836,7 @@ Who may make election under this section: general rule
 (2) A person, other than a person who is a member of a wholly-owned group of companies during the offset ownership period, may make an election under this section for the period consisting of 2 income years beginning with the 2018–19 or the 2019–2020 income year if,—
   (a) in the absence of an election under this section, the person would have an amount of taxable income remaining in the taxable income year after subtracting the total amount of charitable donations for which the person has a tax credit for the taxable year under subpart LD (Tax credits for gifts and donations); and
   (b) in the absence of an election under this section, the person would have a net loss in the net loss year; and
-  (c) the person is not a qualifying individual, as defined in section 3 of the Tax Administration Act 1994, in the net loss year and is not a multi-rate PIE in the offset years; and
+  (c) the person is not a qualifying individual, as defined in section 3(1) of the Tax Administration Act 1994, in the net loss year and is not a multi-rate PIE in the offset years; and
   (d) when the person is a company, the person meets the requirements relating to continuity of ownership given by section IA 5 or IP 3 (which give the requirements for companies to carry forward loss balances) during the offset ownership period.
 Who may make election under this section: rule for member of wholly-owned group
 (3) A person who is a member of a wholly-owned group of companies during the offset ownership period may make an election under this section for the offset years if,—
@@ -30870,7 +30870,7 @@ Application of subparts IC and IP to amounts made available to members of group
 (8) In the application of subparts IC and IP to the making available by a person, to another member of a group of companies, of an amount of available tax loss arising for the person under subsection (7),—
   (a) the amount of available tax loss that exceeds the person’s initial taxable income is a tax loss for the taxable income year for the purposes of section IC 1 (Company A making tax loss available to company B):
   (b) the commonality period referred to in section IC 6 (Common ownership for period) is the period consisting of the offset years:
-  (c) the requirements in section IP 4(2)﻿(d) and (4) and section IP 5 (which relate to breaches of continuity or commonality requirements) are not applied:
+  (c) the requirements in section IP 4(4) and section IP 5 (which relate to breaches of continuity or commonality requirements) are not applied:
   (d) the requirements in section IP 4(2)﻿(a), (ab), and (c) (Breach in income year in which tax loss component arises) are replaced by the requirements given by subsection (9).
 Replacement requirements in applying section IP 4(2)
 (9) The replacement requirements in section IP 4(2) are—
@@ -32829,6 +32829,7 @@ Payments and benefits excluded from family scheme income
   (h) a grant for the payment of expenses relating to medical treatment or a funeral:
   (i) a payment under an insurance contract, other than a payment for a loss of income:
   (j) compensation for a loss other than a loss of income:
+  (jb) a loan made under the small business cashflow scheme:
   (k) lump sum compensation under the Accident Compensation Act 2001:
   (kb) a payment of a foster care allowance under section 363 of the Oranga Tamariki Act 1989:
   (kc) a payment under section 386AAG or 386B of the Oranga Tamariki Act 1989:
@@ -42400,6 +42401,7 @@ In this Act, unless the context requires otherwise,—
     (b) payable under a hire purchase agreement, the definition of which applies, for this purpose, as if it did not contain paragraph (g); or
     (c) exempt income under section CW 8 (Money lent to government of New Zealand); or
     (d) payable under a specified lease or a finance lease; or
+    (db) payable in relation to a loan made under the small business cashflow scheme; or
     (e) payable for bonus bonds or Post Office bonus bonds (as each of those terms is defined in section 2 of the Post Office Bank Act 1987); or
     (f) payable on an overpaid levy under section 173 of the Accident Compensation Act 2001; or
     (g) payable by the Commissioner under section 84 of the KiwiSaver Act 2006
@@ -44610,7 +44612,7 @@ In this Act, unless the context requires otherwise,—
     (b) excludes an activity that enables a change in the intensity of a farming practice employed in a farming activity on the land
   - **significant financial hardship**
   - **slice rule** means the rule set out in section CD 23(3) (Ordering rule and slice rule) for calculating the amount of available subscribed capital per share
-  - **small business cashflow scheme** means the Small Business Cashflow (Loan) Scheme established by the Crown to provide loans to assist small-to-medium businesses in the circumstances arising from the continuing impact of COVID-19 related measures or circumstances
+  - **small business cashflow scheme** means the Small Business Cashflow (Loan) Scheme established and administered by the Crown to provide loans to assist small-to-medium businesses in the circumstances arising from the continuing impact of COVID-19 related measures or circumstances
   - **small-business person** is defined in section RC 40 (Some definitions) for the purposes of subpart RC (Provisional tax)
   - **small partnership** means a partnership that is not a limited partnership and has 5 or less partners, none of whom are companies or partnerships
   - **small passenger service vehicle** has the same meaning as in section 2(1) of the Land Transport Act 1998
