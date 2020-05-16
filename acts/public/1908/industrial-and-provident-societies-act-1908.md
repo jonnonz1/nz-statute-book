@@ -1,5 +1,5 @@
 # Industrial and Provident Societies Act 1908
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2020-05-16_
 
 > An Act to consolidate certain enactments of the General Assembly relating to industrial and provident societies
 
@@ -367,6 +367,10 @@ Where a society is registered as a company, or amalgamates with, or transfers al
     (v) the Registrar shall cause a notice of the dissolution to be advertised at the expense of the society in the Gazette, and in some newspaper circulating in the city, town, or place in which the registered office of the society is situated; and unless, within 3 months from the date of the Gazette in which such advertisement appears, a member or other person interested in or having any claim on the funds of the society commences proceedings to set aside the dissolution of the society in the District Court in or near to the locality where the registered office of the society is situate, and such dissolution is set aside accordingly, the society shall be legally dissolved from the date of such advertisement, and the requisite consents to the instrument of dissolution shall be considered to have been duly obtained without proof of the signatures thereto:
     (vi) notice shall be sent to the Registrar of any proceeding to set aside the dissolution of a society, not less than 7 days before such proceeding is commenced, by the person by whom it is taken, and notice of any order setting it aside shall be similarly sent by the society within 7 days after such order is made.
 (2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under subsection (1)﻿(c)﻿(iii).
+
+### 15A COVID-19 business debt hibernation may apply
+(1) Section 395A and Schedule 13 of the Companies Act 1993 (which establish a COVID-19 business debt hibernation regime) may apply to a registered society under clause 3 of that schedule.
+(2) This section is repealed on the close of 31 May 2022.
 
 ### 16 Penalties
 (1) With respect to penalties under this Act the following provisions shall have effect:
