@@ -1,5 +1,5 @@
 # Contract and Commercial Law Act 2017
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2020-05-16_
 
 ### 1 Title
 This Act is the Contract and Commercial Law Act 2017.
@@ -1607,6 +1607,40 @@ An electronic communication is taken to be received at—
   (c) the provisions of enactments specified in Part 2 of Schedule 5:
   (d) the provisions of enactments that are described in Part 3 of Schedule 5:
   (e) the provisions of enactments that are described in Part 4 of Schedule 5 except to the extent that rules of a court, or guidelines issued with the authority of a court, tribunal, or any other body, specified in that Part of Schedule 5 provide for the use of electronic technology in accordance with this subpart.
+
+### 218A Temporary modification relating to powers of attorney and outbreak of COVID-19
+(1) Despite section 218(2)﻿(d) and paragraph (e) of Part 3 of Schedule 5, this subpart applies to a deed—
+  (a) that creates a power of attorney in connection with a security interest; and
+  (b) that is made during the period specified in section 218B.
+(2) In subsection (1), security interest means an interest in property created or provided for by a transaction that, in substance, secures payment or performance of an obligation, without regard to—
+  (a) the form of the transaction; and
+  (b) the identity of the person who has title to the property that is subject to the security interest.
+
+### 218B Period for which temporary modification applies
+(1) The modification in section 218A(1)—
+  (a) applies on and from 21 March 2020; and
+  (b) ceases to apply—
+    (i) immediately after the expiry of the 6-month period that starts on the day on which this section comes into force; or
+    (ii) if an order is made under subsection (3), immediately after the expiry of the period specified in that order.
+(2) Despite subsection (1)﻿(b), if an order is made under subsection (5), the modification ceases to apply on the date appointed in that order.
+(3) The Governor-General may, by Order in Council made on the recommendation of the Ministers, extend the application period by up to 6 months from the end of the initial period.
+(4) The application period may be extended under subsection (3) only once.
+(5) The Governor-General may, by Order in Council made on the recommendation of the Ministers, appoint a date (within the initial period or, if an order is made under subsection (3), within the further period) on which the modification ceases to apply.
+(6) In this section and section 218C,—
+  - **initial period** means the initial 6-month period during which the modification applies in accordance with subsection (1)﻿(a) and (b)﻿(i)
+  - **Ministers** means the Minister of Finance and the Minister of Commerce and Consumer Affairs.
+
+### 218C Requirements relating to orders made under section 218B
+(1) The Ministers must not recommend the making of an order under section 218B(3) extending the application of the modification unless the Ministers are satisfied that the extension—
+  (a) is necessary or desirable to address the effects of COVID-19; and
+  (b) is no longer than is reasonably necessary to address those effects.
+(2) The Ministers’ reasons for making the recommendation in subsection (1) (including why the order is necessary or desirable) must be published together with the order.
+(3) An order made under section 218B(3) must be notified in the Gazette at least 7 days before the end of the initial period.
+(4) The Ministers must not recommend the making of an order under section 218B(5) unless the Ministers are satisfied that the modification is no longer necessary or desirable to address the effects of COVID-19.
+(5) An order under section 218B(3) or (5) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### 218D Repeal of temporary modification provisions
+This section and sections 218A to 218C are repealed on the close of 30 June 2021.
 
 ### 219 When legal requirement can be met by electronic means
 (1) A legal requirement can be met by electronic means if the applicable provisions in sections 222 to 236, and any applicable regulations made under section 239(1), are complied with.
