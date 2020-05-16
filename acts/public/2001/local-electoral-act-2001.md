@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2019-04-09_
+_Consolidation as at 2020-05-16_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -121,6 +121,16 @@ The purpose of this Act is to modernise the law governing the conduct of local e
   - **ward** means a ward established under this Act and resulting from the division, for electoral purposes, of the district of a territorial authority.
 (2) In this Act, every reference to the electoral officer is, unless the context otherwise requires, a reference to the electoral officer responsible for the conduct or undertaking of the election or poll or other thing to which the reference relates.
 (3) In this Act, every reference to an election on a specified date or day is, unless the context otherwise requires, a reference to an election, the polling day for which is on that date or day.
+
+### 5AA Temporary definition of public notice as result of outbreak of COVID-19
+(1) This section provides a temporary definition of public notice, which applies as a result of the outbreak of COVID-19.
+(2) In this Act, unless the context otherwise requires, public notice means a notice that—
+  (a) is made available on the local authority’s Internet site until the relevance of the notice, or any opportunity for review or appeal in relation to the matter notified, has lapsed; and
+  (b) is published in 1 or more newspapers circulating in the region or district of the relevant local authority.
+(3) However, a local authority is not required to publish a notice in 1 or more newspapers if it is satisfied that, as a result of the outbreak of COVID-19, it is not reasonably practicable to do so, taking into account—
+  (a) the cost of publication; and
+  (b) the reduced effectiveness of publication.
+(4) This section is repealed on 1 November 2020.
 
 ### 5A General description of First Past the Post electoral system
 For local electoral purposes, the First Past the Post electoral system,—
@@ -1355,6 +1365,40 @@ Any 10 or more electors who are in favour of or opposed to any one proposal at a
   (b) this Act and any regulations made under this Act apply to the election with any necessary modifications.
 (8) The electoral officer must, as soon as practicable, give public notice of every change of date made by the Order in Council, and may give any other notice that the electoral officer considers desirable.
 
+### 73AB Adjournment of electoral processes and conduct of polls while epidemic notice in force for COVID-19
+(1) The Governor-General may, by Order in Council, in the period during which the Epidemic Preparedness (COVID-19) Notice 2020 is in force, specify a later date for 1 or more of the following in respect of an election to fill an extraordinary vacancy:
+  (a) the date by which, or dates during which, a certain qualification entitles an elector to be included on the electoral roll:
+  (b) the nomination day:
+  (c) the voting period:
+  (d) the polling day:
+  (e) the date by which anything else may or must be done under this Act or regulations made under this Act.
+(2) The Governor-General may, by Order in Council, in the period during which the Epidemic Preparedness (COVID-19) Notice 2020 is in force, specify a later date for 1 or more of the following in respect of a poll:
+  (a) the date by which, or dates during which, a certain qualification entitles an elector to be included on the electoral roll:
+  (b) the voting period:
+  (c) the polling day:
+  (d) the date by which anything else may or must be done under this Act or regulations made under this Act.
+(3) A date specified by an order—
+  (a) may be outside the period during which the Epidemic Preparedness (COVID-19) Notice 2020 is in force; but
+  (b) must be no more than 6 weeks after the date that would otherwise have applied.
+(4) A date may be specified by an order only if the order commences on or before the date that would otherwise have applied.
+(5) One or more further orders may be made under this section specifying a later date for a matter that has been the subject of an earlier order.
+(6) An order must be made on the recommendation of the Minister.
+(7) Before recommending the making of an order, the Minister—
+  (a) must be satisfied, on reasonable grounds, that it is necessary to ensure that the adverse effects of COVID-19, or measures related to COVID-19 such as restrictions on the movement of electors, do not deny electors a reasonable opportunity to cast a valid vote in the election or poll, or to nominate a candidate or accept nomination as a candidate for the election; and
+  (b) must have consulted every local authority and electoral officer that will be affected.
+(8) On commencement of an order,—
+  (a) a date specified in the order has effect in relation to—
+    (i) the election of members of the 1 or more local authorities, local boards, and community boards to which the order applies; or
+    (ii) the poll to which the order applies; and
+  (b) this Act and any regulations made under it apply to the election or poll with any necessary modifications.
+(9) The relevant electoral officer must, as soon as practicable, give public notice of every change of date made by an order under this section and may give any other notice they consider desirable.
+(10) In subsections (3)﻿(b) and (4), the date that would otherwise have applied, for a further order relating to a matter that has been the subject of an earlier order, means the date that was specified in that earlier order.
+
+### 73AC Repeal and revocation
+(1) Section 73AB and this section are repealed and any orders made under section 73AB are revoked when the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
+(2) Those repeals and the revocation of an order made under section 73AB do not affect the completion of anything done or yet to be done under the authority of such an order.
+(3) Subsection (2) does not limit section 18 of the Interpretation Act 1999.
+
 ### 73B Electoral officer may abandon voting method
 (1) The electoral officer may abandon a voting method if, at any time during the voting period, the electoral officer has reasonable grounds to consider that the method has failed or been compromised.
 (2) Without limiting subsection (1), a voting method fails or is compromised if—
@@ -2035,6 +2079,39 @@ If, under section 117(3)﻿(b), a local authority or local board or community bo
   (b) give fresh notice appointing the polling day for an election to fill all the vacancies.
 (4) All nominations received in respect of the countermanded election that are still in effect on the date of the giving of the fresh public notice continue in effect as if they had been made in respect of the election to be held on the substituted day appointed by the electoral officer.
 (5) Any qualified person who was not nominated as a candidate at the countermanded election may be nominated as a candidate at the election to be held on the substituted date.
+
+### 120A Change of voting period for election to fill extraordinary vacancy in Ōtorohanga District Council during COVID-19 restricted movement period
+(1) This section applies—
+  (a) to the election underway to fill the current extraordinary vacancy in the Ōtorohanga ward of the Ōtorohanga District Council; and
+  (b) if a COVID-19 restricted movement period is in existence on the day this section comes into force (the existing COVID-19 period).
+(2) Despite any other provision in this Act, the voting period for that election is a period of 22 and a half days starting at least 10 days after the last day of the existing COVID-19 period but is not to begin earlier than 28 May 2020.
+(3) The voting period in subsection (2) may be changed by an Order in Council under section 73AB if 1 or more further COVID-19 restricted movement periods follow the existing COVID-19 period.
+(4) The electoral officer for the Ōtorohanga District Council—
+  (a) must give public notice, as soon as practicable after this section comes into force, of the effect of subsection (2); and
+  (b) must give public notice, as soon as practicable following the last day of the existing COVID-19 period, of the actual dates for the voting period and polling day (see also section 73AB(9) for the requirement for public notice to be given if dates are changed by Order in Council under that section); and
+  (c) may give any other notice they consider desirable.
+(5) In this section, COVID-19 restricted movement period means a period during which the movement of electors for the election described in subsection (1)﻿(a) is restricted to an extent that may deny them a reasonable opportunity to cast a valid vote in the election, or premises on which functions related to that election will be undertaken are required to be closed, because of—
+  (a) an order or other restriction under section 70(1) of the Health Act 1956 that relates to COVID-19; or
+  (b) an order under section 11 of the COVID-19 Public Health Response Act 2020.
+
+### 120B Modification to section 120 if new extraordinary vacancy to be filled by election while epidemic notice in force for COVID-19
+(1) Despite section 120(1)﻿(a), if an extraordinary vacancy is to be filled by an election under section 117(1) before the end date, the chief executive of the relevant local authority may defer giving notice of the vacancy to the relevant electoral officer.
+(2) Before doing so, the chief executive must consult with the electoral officer and must have regard to—
+  (a) the need to ensure the safety of voters and electoral officials, including in relation to public health considerations; and
+  (b) the extent to which the principles in section 4 can be met in the circumstances; and
+  (c) the need to ensure that the election process is free from corrupt or illegal practices; and
+  (d) the need to ensure that the election process is concluded in a timely and expeditious manner.
+(3) If a chief executive decides to defer notifying an electoral officer under this section, the chief executive must—
+  (a) give public notice of the deferment as soon as practicable, and may give any other notice the chief executive considers desirable; and
+  (b) give the notice required by section 120(1)﻿(a) to the electoral officer—
+    (i) when the chief executive considers it is appropriate to do so having regard to the matters in subsection (2)﻿(a) to (d); but
+    (ii) no later than as soon as practicable after the end date.
+(4) In this section, end date means the date on which the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
+
+### 120C Repeal
+(1) Sections 120A and 120B and this section are repealed when the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
+(2) Those repeals do not affect the completion of anything done or yet to be done under section 120A or 120B.
+(3) Subsection (2) does not limit section 18 of the Interpretation Act 1999.
 
 ## Part 7 — Offences
 
