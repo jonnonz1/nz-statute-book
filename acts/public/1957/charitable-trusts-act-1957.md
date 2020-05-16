@@ -1,5 +1,5 @@
 # Charitable Trusts Act 1957
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2020-05-16_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to charitable trusts
 
@@ -154,6 +154,10 @@ Nothing in this Act shall prevent any company, society, or corporation from bein
 (4) Subject to this Act and to any regulations made under this Act, Parts 16 and 17 of the Companies Act 1993 shall apply, with such modifications as may be necessary,—
   (a) to the application for the appointment of a liquidator as if the application was an application under section 241(2)﻿(c) of that Act; and
   (b) to the liquidation as if the liquidator had been appointed under section 241(2)﻿(c) of that Act.
+
+### 25A COVID-19 business debt hibernation may apply
+(1) Section 395A and Schedule 13 of the Companies Act 1993 (which establish a COVID-19 business debt hibernation regime) may apply to a board under clause 3 of that schedule.
+(2) This section is repealed on the close of 31 May 2022.
 
 ### 26 Dissolution by Registrar
 (1) The Registrar may make a declaration (a declaration of dissolution) that a board is dissolved, if the Registrar is satisfied that the board—
