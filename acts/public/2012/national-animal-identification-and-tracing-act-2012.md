@@ -1,5 +1,5 @@
 # National Animal Identification and Tracing Act 2012
-_Consolidation as at 2019-12-14_
+_Consolidation as at 2020-05-16_
 
 ### 1 Title
 This Act is the National Animal Identification and Tracing Act 2012.
@@ -1434,6 +1434,12 @@ Subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012
     (ii) the person's address in the latest telephone directory; or
     (iii) the address of the person's last-known place of business.
 (6) For the purposes of the Summary Proceedings Act 1957, an infringement notice or a cancellation notice served under subclause (5) is treated as having been served on the person at the time when it was posted.
+
+### 22A Modifications to clause 22 while epidemic notice in force for COVID-19
+(1) Clause 22 is modified as set out in subclauses (2) and (3) while the Epidemic Preparedness (COVID-19) Notice 2020 is in force.
+(2) Despite clause 22(5), an infringement notice or a cancellation notice referred to in that subclause may be served by sending it by email or other electronic means to the person, instead of the notice being personally delivered or served by post.
+(3) Clause 22(6) is modified so that if an infringement notice or a cancellation notice is served under clause 22(5) by sending it by email or other electronic means to a person, for the purposes of the Summary Proceedings Act 1957, the notice is treated as being served on the person at the time the email or other electronic communication first enters an information system that is outside the control of the NAIT officer or NAIT authorised person.
+(4) This clause is repealed when the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
 
 ### 23 Form of infringement notice
 (1) An infringement notice must be in the form prescribed by regulations made under section 69.
