@@ -1,0 +1,94 @@
+# Smoke-free Environments (Prohibiting Smoking in Motor Vehicles Carrying Children) Amendment Act 2020
+_Consolidation as at 2020-05-28_
+
+### 1 Title
+This Act is the Smoke-free Environments (Prohibiting Smoking in Motor Vehicles Carrying Children) Amendment Act 2020.
+
+### 2 Commencement
+This Act comes into force on the day that is 18 months after the date on which it receives the Royal assent.
+
+### 3 Principal Act
+This Act amends the Smoke-free Environments Act 1990 (the principal Act).
+
+## Part 1 — Amendments to principal Act
+
+### 4 Section 2 amended (Interpretation)
+In section 2(1), replace the definition of enforcement officer with:
+  - **enforcement officer** means—
+    (a) a person for the time being appointed under section 14 to enforce Parts 1 and 2, or provisions of Parts 1 and 2; or
+    (b) for the purposes of Part 1A, a constable
+
+### 5 Section 3A amended (Purposes of this Act)
+In section 3A(2), replace 4 and 21, of Parts 1 and 2 with 4, 20B, and 21, of Parts 1, 1A, and 2.
+
+### 6 Section 5 amended (Smoking in workplaces prohibited)
+After section 5(2), insert:
+  (3) Nothing in this section permits smoking in a vehicle carrying child occupants (see section 20D).
+
+### 7 Section 5A amended (Employer may permit smoking in vehicle with consent of users)
+In section 5A, insert as subsection (2):
+  (2) Nothing in this section permits smoking in a vehicle carrying child occupants (see section 20D).
+
+### 8 Section 9 amended (Smoking restricted in passenger service vehicles)
+After section 9(4), insert:
+  (5) Nothing in this section permits smoking in a vehicle carrying child occupants (see section 20D).
+
+### 9 New Part 1A inserted
+After section 20A, insert:Smoke-free motor vehicles carrying child occupantsPurpose of this PartInterpretation for this PartSmoking prohibited in motor vehicle carrying child occupantConstable’s powersOffencesOffences in respect of constables
+  The purpose of this Part is to limit children’s exposure to second-hand smoke by prohibiting smoking when they are in motor vehicles.
+  In this Part, unless the context otherwise requires,—
+    - **child occupant** means a person under the age of 18 years who is in a motor vehicle
+    - **motor vehicle** has the meaning given to it in section 2(1) of the Land Transport Act 1998
+    - **road** has the meaning given to it in section 2(1) of the Land Transport Act 1998.
+  (1) A person must not smoke in a motor vehicle, whether moving or stationary, that is on a road and has a child occupant.
+  (2) However, a person may smoke in a motor vehicle if—
+    (a) the person is the only occupant of the motor vehicle who is under the age of 18 years; or
+    (b) the motor vehicle is—
+      (i) manufactured for use as an occasional or permanent dwelling; and
+      (ii) stationary on a road and in use as a dwelling.
+  (3) A person who contravenes subsection (1) commits an infringement offence and is liable to—
+    (a) an infringement fee of $50; or
+    (b) a fine imposed by a court not exceeding $100.
+  (4) Sections 38B to 39 apply to the infringement offence in subsection (3) as if—
+    (a) the infringement offence were an infringement offence defined in section 38A; and
+    (b) the infringement fee in subsection (3)﻿(a) were an infringement fee specified in section 38A for the infringement offence (although the fee is a set fee and not a maximum fee as contemplated by section 38A); and
+    (c) a constable were the enforcement officer referred to in those sections.
+  (1) A constable who sees a person smoking in a motor vehicle that is on a road and that appears to have a child occupant may do 1 or more of the following, if the constable is in uniform, or wearing a distinctive cap, hat, or helmet, with a badge of authority affixed to it:
+    (a) signal or request the driver of the motor vehicle to stop the vehicle as soon as practicable:
+    (b) require the driver to remain stopped for as long as is reasonably necessary for the constable to make the inquiries and complete the exercise of powers under this section:
+    (c) require the person who is smoking to stop smoking in the motor vehicle:
+    (d) require any person who is smoking or appears to be aged under 18 years to provide the person’s—
+      (i) full name; and
+      (ii) full address; and
+      (iii) date of birth; and
+      (iv) occupation; and
+      (v) telephone number.
+  (2) A constable who sees a person smoking in a motor vehicle that is on a road and that appears to have a child occupant may do 1 or more of the following, if the constable is in another vehicle following the motor vehicle:
+    (a) by displaying flashing blue, or blue and red, lights or sounding a siren, require the driver of the other vehicle to stop:
+    (b) require the driver to remain stopped for as long as is reasonably necessary for the constable to make the inquiries and complete the exercise of powers under this section:
+    (c) require the person who is smoking to stop smoking in the motor vehicle:
+    (d) require any person who is smoking or appears to be aged under 18 years to provide the person’s—
+      (i) full name; and
+      (ii) full address; and
+      (iii) date of birth; and
+      (iv) occupation; and
+      (v) telephone number.
+  (3) Despite subsection (1), a constable must not take either of the actions referred to in subsection (1)﻿(c) and (d) if the motor vehicle is—
+    (a) manufactured for use as an occasional or permanent dwelling; and
+    (b) stationary on a road and in use as a dwelling.
+  A person commits an offence, and is liable on conviction to a fine not exceeding $1,000, if the person—
+    (a) intentionally obstructs, hinders, or resists a constable exercising or attempting to exercise powers under section 20E; or
+    (b) intentionally fails to comply with a requirement under section 20E; or
+    (c) when required under section 20E(1)﻿(d) or (2)﻿(d) to give information, gives information the person knows to be false or misleading.
+
+### 10 Section 38B amended (Commission of infringement offences)
+In section 38B, insert as subsections (2) and (3):
+  (2) Proceedings commenced in the way described in subsection (1)﻿(a) do not require the leave of a District Court Judge or Registrar under section 21(1)﻿(a) of the Summary Proceedings Act 1957.
+  (3) See section 21 of the Summary Proceedings Act 1957 for the procedure that applies if an infringement notice is issued.
+
+## Part 2 — Amendment to Summary Proceedings Act 1957
+
+### 11 Summary Proceedings Act 1957 amended
+(1) This section amends the Summary Proceedings Act 1957.
+(2) In section 2(1), definition of infringement notice, after paragraph (je), insert:
+  (jf) section 20D or 38C of the Smoke-free Environments Act 1990; or
