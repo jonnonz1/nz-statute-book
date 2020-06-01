@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-06-01_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -47,7 +47,7 @@ In this Act,—
   (b) Part 2 contains provisions relating to consumer credit contracts, including provisions relating to when a credit contract is a consumer credit contract, when a lease of goods is to be treated as a consumer credit contract (instead of a consumer lease), disclosure, interest charges, fees, payments, and changes to consumer credit contracts on the grounds of unforeseen hardship:
   (c) Part 3 contains provisions relating to consumer leases, credit-related insurance, repayment waivers, extended warranties, and buy-back transactions of land:
   (ca) Part 3A contains provisions relating to repossession of consumer goods under consumer credit contracts:
-  (d) Part 4 contains provisions relating to civil remedies, injunctions, offences, a defence, and certain provisions concerning the Commerce Commission:
+  (d) Part 4 contains provisions relating to civil remedies, injunctions, offences, a defence, enforceable undertakings, pecuniary penalties, and certain provisions concerning the Commerce Commission:
   (e) Part 5 contains provisions relating to the reopening of oppressive credit contracts, consumer leases, and buy-back transactions of land:
   (f) Part 6 contains miscellaneous provisions, including provisions relating to contracting out, regulations, consequential amendments, and transitional arrangements.
 
@@ -265,10 +265,11 @@ This Act binds the Crown.
 ### 9A Outline of Part
 (1) This Part provides for lender responsibility principles that must be complied with by creditors under certain credit contracts and transferees under buy-back transactions.
 (2) In relation to those principles, this Act provides for—
-  (a) the court to make compensation and other orders, or to grant an injunction, in respect of a breach of the principles (see sections 93(aa) and 96(1)﻿(aa)):
+  (a) the court to make compensation and other orders, or to grant an injunction, in respect of a breach of the principles (see sections 93(aa), 96(1)﻿(aa), 98A, 98B, and 107A):
+  (aa) the debtor to be entitled to recover statutory damages if the creditor breaches certain of the principles (see section 88):
   (b) creditors to make decisions on hardship applications under section 55 in compliance with the principles (see section 57A):
   (c) creditors to comply with the principles in relation to a repossession of consumer goods (see sections 83E(1)﻿(c) and 83Q):
-  (d) the District Court to order persons not to act as creditors, lessors, or transferees if those persons have failed, more than once, to comply with the principles (see section 108(1)﻿(a)﻿(v)):
+  (d) the District Court to order persons not to act as creditors, lessors, or transferees if those persons have failed to comply with the principles (see section 108(1)﻿(a)﻿(v)):
   (e) the court to have regard to compliance with the principles when deciding whether to reopen an agreement under Part 5 (see section 124(1)﻿(b)).
 (3) This Part also provides for requirements to make publicly available standard form contract terms and information about the costs of borrowing.
 
@@ -284,7 +285,7 @@ This Act binds the Crown.
   - **lender** means—
     (a) a creditor under a consumer credit contract:
     (b) a transferee under a buy-back transaction
-  - **relevant guarantee** means a guarantee given, or proposed to be given, in respect of a consumer credit contract
+  - **relevant guarantee** means a guarantee given, or proposed to be given, by a natural person in respect of a consumer credit contract, but does not include a guarantee under which the guarantor is a trustee acting in their capacity as a trustee of a family trust or as a partner of a partnership under the Partnership Act 1908
   - **relevant insurance contract** means, in relation to a lender, a credit-related insurance contract entered into, or to be entered into, by a borrower if—
     (a) the borrower has also entered into, or is seeking to enter into, an agreement with the lender; and
     (b) the insurance is arranged by the lender.
@@ -313,7 +314,9 @@ This Act binds the Crown.
     (i) the credit or finance provided under the agreement will meet the borrower's requirements and objectives; and
     (ii) the borrower will make the payments under the agreement without suffering substantial hardship; and
   (b) assist the borrower to reach an informed decision as to whether or not to enter into the agreement and to be reasonably aware of the full implications of entering into the agreement, including by ensuring that—
-    (i) any advertising is not, or is not likely to be, misleading, deceptive, or confusing to borrowers; and
+    (i) any advertising—
+      (A) complies with the advertising standards set out in the regulations; and
+      (B) is not, or is not likely to be, misleading, deceptive, or confusing to borrowers; and
     (ii) the terms of the agreement are expressed in plain language in a clear, concise, and intelligible manner; and
     (iii) any information provided by the lender to the borrower is not presented in a manner that is, or is likely to be, misleading, deceptive, or confusing; and
   (c) assist the borrower to reach informed decisions in all subsequent dealings in relation to the agreement, including by ensuring that—
@@ -349,6 +352,7 @@ This Act binds the Crown.
   (b) assist the borrower to reach an informed decision as to whether or not to enter into the contract and to be reasonably aware of the full implications of entering into the contract, including by ensuring that—
     (i) any advertising distributed by the lender is not, or is not likely to be, misleading, deceptive, or confusing to borrowers; and
     (ii) any information provided by the lender to the borrower is not presented in a manner that is, or is likely to be, misleading, deceptive, or confusing.
+(5A) In subsections (3)﻿(a), (4)﻿(a), and (5)﻿(a), the requirement to make reasonable inquiries so as to be satisfied of a matter includes a requirement to comply with regulations made under section 138(1)﻿(abd).
 (6) Subsections (3)﻿(b)﻿(iii) and (c)﻿(ii), (4)﻿(b)﻿(ii), and (5)﻿(b)﻿(ii) do not apply to information that is subject to section 32(1).
 (7) For the purposes of the inquiries required under subsections (3)﻿(a), (4)﻿(a), and (5)﻿(a), the lender may rely on information provided by the borrower or guarantor unless the lender has reasonable grounds to believe the information is not reliable.
 
@@ -373,15 +377,16 @@ This Act binds the Crown.
 (1) In order to achieve its purpose, the Responsible Lending Code may set out any, or all, of the following:
   (a) the nature and extent of inquiries a lender should make before entering into an agreement, before a relevant guarantee is given, or before a relevant insurance contract is entered into:
   (b) the processes, practices, or procedures that a lender should follow—
-    (i) to ensure that advertising for providing credit or finance under agreements is not, or is not likely to be, misleading, deceptive, or confusing to borrowers:
-    (ii) when making reasonable inquiries referred to in section 9C(3)﻿(a), (4)﻿(a), and (5)﻿(a) so as to be satisfied of the matters referred to in those paragraphs:
-    (iii) to give the assistance referred to in section 9C(3)﻿(b) and (c), (4)﻿(b), and (5)﻿(b) (including where the borrower's or guarantor's first language is not English):
+    (i) to ensure that advertising for providing credit or finance under agreements complies with the advertising standards set in the regulations and is not, or is not likely to be, misleading, deceptive, or confusing to borrowers:
+    (ii) when making reasonable inquiries referred to in section 9C(3)﻿(a), (4)﻿(a), and (5)﻿(a) so as to be satisfied of the matters referred to in those paragraphs and to comply with the regulations relating to those requirements:
+    (iii) to give the assistance referred to in section 9C(3)﻿(b) and (c), (4)﻿(b), and (5)﻿(b) (including where the borrower or guarantor may not have a good understanding of the language in which the lender is otherwise providing information):
     (iv) to ensure that the lender treats borrowers, guarantors, and their property (or property in their possession) reasonably and in an ethical manner:
     (v) in the case of an agreement or a guarantee to which Part 5 applies, to ensure that the agreement or guarantee is not oppressive, the lender does not exercise a right or power conferred by the agreement or guarantee in an oppressive manner, and the lender does not induce the borrower to enter into the agreement, or the guarantor to give the guarantee, by oppressive means:
     (vi) to promote or facilitate compliance with the legal obligations referred to in section 9C(3)﻿(f) and (4)﻿(e) (for example, by reference to compliance programmes):
     (vii) to ensure that fees are not unreasonable in terms of section 41, 80, or 82:
   (c) the circumstances in which the lender should require or recommend independent legal advice to be obtained:
   (d) the processes, practices, or procedures that a lender should follow for the purposes of Part 3A:
+  (da) the processes, practices, or procedures that a lender should follow for the purposes of debt collection:
   (e) any other matter that promotes or facilitates the lender responsibility principles (set out in section 9C(2)) and that is not inconsistent with any other enactment.
 (2) The Code may also contain different provisions in relation to particular—
   (a) lenders or classes of lenders:
@@ -425,7 +430,7 @@ This Act binds the Crown.
   (a) if the lender has an Internet site, the lender must display prominently and clearly a copy of the standard form contract terms on that site; and
   (b) if the lender operates from business premises that are accessible to the public, the lender must display prominently and clearly on those premises a notice that a copy of those terms is available on request (free of charge).
 (4) The lender must, immediately after receiving the request of any person, supply a copy of its standard form contract terms, free of charge, to that person (regardless of whether subsection (3) applies).
-(5) The lender may, for the purposes of subsection (4), supply the copy by way of an electronic communication if the person who made the request consents to receive the copy in that manner.
+(5)
 
 ### 9K Publication of costs of borrowing
 (1) Every creditor must ensure that information about all the costs of borrowing in relation to every class of consumer credit contract offered by that creditor is publicly available in accordance with this section.
@@ -467,6 +472,7 @@ This Part applies to consumer credit contracts.
   (a) the purpose for which more than 50% of the credit is intended to be used; or
   (b) if the credit is intended to be used to obtain goods or services for use for different purposes, the purpose for which the goods or services are intended to be most used.
 (1B) The reference to intention in subsections (1)﻿(b) and (1A) is a reference to the debtor's intention.
+(1C) An arrangement or a facility is also a consumer credit contract if regulations declare it to be a consumer credit contract.
 (2) This section is subject to sections 14 and 15.
 
 ### 12 Investment purposes
@@ -521,6 +527,14 @@ In any proceedings in which a party claims that a credit contract is a consumer 
   (a) the lease is to be treated as a credit contract; and
   (b) the lessor under the lease is to be treated as a creditor; and
   (c) that Act applies with all other necessary modifications as if the lease were a credit contract.
+
+### 16A Mobile trader credit sales treated as consumer credit contract
+(1) For the purposes of this Act, a credit sale under which a mobile trader supplies consumer goods to a natural person is to be treated as a credit contract and a consumer credit contract.
+(2) If subsection (1) applies,—
+  (a) the mobile trader under the credit sale is to be treated as a creditor; and
+  (b) the person to whom the goods are supplied is to be treated as a debtor; and
+  (c) this Act applies with all other necessary modifications as if the credit sale were a credit contract and a consumer credit contract.
+(3) This section prevails over section 15.
 
 ### Subpart 2 — Required disclosure
 
@@ -883,6 +897,21 @@ The purpose of this subpart is—
   (a) to protect consumers from the harm caused by accumulating excessive debts from default on high-interest loans or from rolling over or extending payment terms of high-interest loans; and
   (b) to protect consumers from the harm caused by excessive interest and fees from repeat borrowing under high-interest loans.
 
+### 45B Outline of this subpart
+(1) This subpart provides for rules about the following matters:
+  (a) the maximum costs of borrowing that are recoverable under certain high-cost consumer credit contracts and related consumer credit contracts:
+  (b) restrictions on entry into further high-cost consumer credit contracts:
+  (c) the maximum rate of charge that is recoverable under a high-cost consumer credit contract:
+  (d) no compound interest under high-cost consumer credit contracts.
+(2) In relation to those matters, this Act provides for—
+  (a) compensation, other orders, or injunctions (see sections 93(a) and 96(1)﻿(a)):
+  (b) statutory damages (see section 88):
+  (c) other court orders (see section 94):
+  (d) pecuniary penalties (see subpart 5A of Part 4).
+(3) In addition,—
+  (a) section 48 applies in some cases:
+  (b) see section 124(1)﻿(ea) (guidelines for reopening credit contracts).
+
 ### 45C Meaning of high-cost consumer credit contract
 In this Act, unless the context otherwise requires,—
   - **high-cost consumer credit contract** means a consumer credit contract of any of the following types:
@@ -891,6 +920,14 @@ In this Act, unless the context otherwise requires,—
     (c) a contract under which the total rate of the interest charges (including default interest charges) that may be applied cumulatively to the same part of an unpaid balance in the event of a default in payment or the credit limit being exceeded is, or is likely to be, a rate of 50% or greater:ExampleA creditor’s normal annual interest rate is 40% pa, and an additional default interest charge of 20% pa is applied to the part of the unpaid balance that is in default. The annual interest rate and any default interest charge rate are together 60% pa on the part of the unpaid balance in default. The contract is therefore a high-cost consumer credit contract.
     (d) a contract declared by regulations to be a type of contract that is a high-cost consumer credit contract
   - **interest rate that defines a high-cost consumer credit contract** means the interest rate set out in paragraphs (a) to (c) of the definition of high-cost consumer credit contract.
+
+### 45D Power to increase interest rate that defines high-cost consumer credit contract
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, increase the interest rate that defines a high-cost consumer credit contract (the increase).
+(2) However, the Minister may make a recommendation only if he or she—
+  (a) is satisfied that the increase is no greater than is necessary to take account of a rise in market interest rates; and
+  (b) is satisfied that the increase is necessary or desirable in order to avoid harm or disruption to credit markets that would otherwise be caused by the rise in market interest rates (that is, because more credit contracts would be within the bracket than would be the case if the rise in market rates had not occurred); and
+  (c) is satisfied that the increase is not inconsistent with the purpose of this subpart; and
+  (d) has consulted the Reserve Bank of New Zealand and the Commission.
 
 **Rules**
 
@@ -917,6 +954,30 @@ In this Act, unless the context otherwise requires,—
       (i) that begins with a high-cost consumer credit contract being entered into; and
       (ii) that ends with the expiry of 15 continuous days during which there was no unpaid balance on any of the consumer credit contracts entered into since the start of the period,—
 
+### 45F Certain high-cost consumer credit contracts with other creditors prohibited
+(1) No creditor (C) may enter into a high-cost consumer credit contract with—
+  (a) a debtor who has an unpaid balance on any high-cost consumer credit contract under which the creditor is a person other than C; or
+  (b) a person who has had, at any time within the preceding 15 days, an unpaid balance on any high-cost consumer credit contract under which the creditor is a person other than C.ExampleIn the example above, Ms D would not be able to refinance on 2 March by entering into a further high-cost consumer credit contract with another creditor.
+(2) A creditor (C) has a defence in connection with a breach of this section if C proves that, before entering into the contract,—
+  (a) C complied with section 9C in respect of the requirement to make reasonable inquiries; and
+  (b) C had reasonable grounds to believe that during the relevant period the person did not have an unpaid balance on any high-cost consumer credit contract under which the creditor is a person other than C.
+
+### 45G High-cost consumer credit contracts with certain repeat debtors prohibited
+(1) No creditor (C) may enter into a high-cost consumer credit contract with a debtor who has entered into 2 or more high-cost consumer credit contracts at any time within the preceding 90 days.
+(2) A creditor (C) has a defence in connection with a breach of this section if C proves that, before entering into the contract,—
+  (a) C complied with section 9C in respect of the requirement to make reasonable inquiries; and
+  (b) C had reasonable grounds to believe that the debtor had not entered into 2 or more high-cost consumer credit contracts during the relevant period.
+
+### 45H Rate cap
+(1) The maximum rate of charge that is recoverable under a high-cost consumer credit contract is 0.8% per day, calculated in accordance with the regulations as a proportion of the amount of credit provided.
+(2) A high-cost consumer credit contract must not provide for an amount to be recoverable that will result in that maximum rate being exceeded or that is capable of resulting in that maximum rate being exceeded.
+(3) No person may be a creditor under a high-cost consumer credit contract that contravenes this section or accept a payment, or debit a fee or charge to the debtor’s account, in a way that results in that maximum rate being exceeded.
+(4) Section 48 also applies if a payment results in that maximum rate being exceeded.
+(5) In this section,—
+  - **charge** means the costs of borrowing within the meaning of section 45E, excluding default fees
+  - **credit provided** means the unpaid balance excluding any amount that the regulations state must be excluded.
+(6) A contract or creditor does not contravene this section if the maximum rate is exceeded only because of a part prepayment or full prepayment.
+
 ### 45I Compound interest prohibited
 (1) A high-cost consumer credit contract must not provide for compound interest.
 (2) No person may be a creditor under a high-cost consumer credit contract that provides for compound interest or accept a payment, or debit a fee or charge to the debtor’s account, in respect of compound interest.
@@ -941,6 +1002,15 @@ In this Act, unless the context otherwise requires,—
 (2) In this section, scheme means any contract, arrangement, or other act that has the effect of, or any contracts, arrangements, or other acts that together have the effect of, in any way, directly or indirectly,—
   (a) resulting in a transaction that is in substance or economic effect a high-cost consumer credit contract or related contract being, instead, a transaction to which this subpart does not apply; or
   (b) otherwise avoiding the application of a provision of this subpart.
+
+**Review of subpart**
+
+### 45L Review of subpart
+(1) The Minister must, as soon as practicable after the expiry of 3 years from the commencement of this section,—
+  (a) review the operation and effectiveness of this subpart; and
+  (b) prepare a report on that review.
+(2) The review must consider, in particular, whether the interest rate that defines a high-cost consumer credit contract should be reduced to a rate between 30% and 50%.
+(3) The Minister must present the report to the House of Representatives as soon as practicable after it has been completed.
 
 ### Subpart 7 — Payments
 
@@ -1633,11 +1703,11 @@ If the right to reinstate the credit contract is exercised under section 83ZB,�
   (d) any interest subordinate to that of the creditor.
 (2) Subsection (1) applies whether or not registrations relating to any security interests referred to in subsection (1) have been removed from the register of personal property securities established under the Personal Property Securities Act 1999.
 
-### 83ZH Extinguishment of creditor's security interest and subordinate security interests on sale
+### 83ZH Extinguishment of creditor’s security interest and subordinate security interests on sale
 (1) If consumer goods have been sold under section 83Z or 83ZF, the following interests are extinguished on the sale of the consumer goods:
-  (a) the security interest of the creditor who sold the consumer goods:
-  (b) all security interests in the consumer goods and their proceeds that are subordinate to the security interest of the creditor who sold the consumer goods.
-(2) In subsection (1), proceeds has the same meaning as in section 16 of the Personal Property Securities Act 1999.
+  (a) the security interest in the consumer goods of the creditor who sold the consumer goods:
+  (b) all security interests in the consumer goods that are subordinate to the security interest of the creditor who sold the consumer goods.
+(2) See the Personal Property Securities Act 1999 in respect of security interests in the proceeds of the consumer goods.
 
 ### 83ZI Creditor to give statement of account to debtor, guarantor, and other interested persons
 (1) If consumer goods are sold pursuant to section 83Z or 83ZF, the creditor must, within 7 days after the sale of the consumer goods, give the debtor and every other person referred to in section 83G(1) a statement of account in writing, showing—
@@ -2200,20 +2270,18 @@ In any proceedings under this subpart for a pecuniary penalty,—
     (ii) is, or has been, a creditor under a credit contract that has been reopened under the Credit Contracts Act 1981; or
     (iii) is, or has been, a creditor under a credit contract, a lessor under a consumer lease, or a transferee under a buy-back transaction that has been reopened under section 120; or
     (iv) is, or has been, a buy-back promoter in connection with a buy-back transaction that has been reopened under section 120; or
-    (v) has failed, more than once, to comply with any of the provisions of this Act (including, to avoid doubt, the lender responsibility principles (see section 9C(2)); or
-    (vi) was a director or principal officer of a body corporate at the time the body corporate acted in the manner referred to in subparagraphs (i) to (v); and
+    (v) has failed to comply with any of the provisions of this Act (including, to avoid doubt, the lender responsibility principles (see section 9C(2)); or
+    (va) has failed to comply with any of the provisions of any of the following Acts or of any equivalent overseas legislation:
+      (A) the Fair Trading Act 1986:
+      (B) the Financial Service Providers (Registration and Dispute Resolution) Act 2008:
+      (C) the Secondhand Dealers and Pawnbrokers Act 2004; or
+    (vi) was a director or principal officer of a body corporate at the time the body corporate acted in the manner referred to in subparagraphs (i) to (va); and
   (b) in the opinion of the District Court, the person is not a fit and proper person to—
     (i) enter into consumer credit contracts as a creditor; or
     (ii) enter into consumer leases as a lessor; or
     (iii) enter into buy-back transactions as a transferee; or
     (iv) act as a buy-back promoter in connection with a buy-back transaction.
-(1A) However, the District Court may not make an order under subsection (1) on the basis of—
-  (a) a conviction referred to in subsection (1)﻿(a)﻿(i) if—
-    (i) the court is satisfied that the direct and indirect consequences of the order would be out of all proportion to the gravity of the offence for which the person was convicted; and
-    (ii) the person has no other convictions for an offence against this Act or for a crime involving dishonesty (as defined in section 2(1) of the Crimes Act 1961):
-  (b) the person being a buy-back promoter referred to in subsection (1)﻿(a)﻿(iv) if—
-    (i) the court is satisfied that the direct and indirect consequences of the order would be out of all proportion to the gravity of any misconduct of the buy-back promoter in connection with the buy-back transaction; and
-    (ii) the buy-back promoter has not been connected with any other reopening of a buy-back transaction under section 120.
+(1A)
 (2) The matters are—
   (a) providing credit under consumer credit contracts, leasing goods under consumer leases, purchasing land under buy-back transactions, or acting as a buy-back promoter in connection with a buy-back transaction either alone or in partnership with any person and whether or not through agents:
   (b) acting as a director or taking part directly or indirectly in the management or control of any company or business that provides credit under consumer credit contracts, leases goods under consumer leases, purchases land under buy-back transactions, or acts as a buy-back promoter in connection with a buy-back transaction:
