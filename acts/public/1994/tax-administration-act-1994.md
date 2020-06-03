@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-06-03_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -10231,7 +10231,7 @@ Section 18 does not prevent the Commissioner disclosing such information as is r
 
 ### 1 Writing off certain amounts of tax payable
 Subject to clause 2, the Commissioner must write off the following amounts under section 22J:
-  (a) an amount of tax relating to income derived for a tax year by a qualifying individual that is equal to or less than $50:
+  (a) an amount of tax relating to income derived for a tax year by a qualifying individual that is equal to or less than $200:
   (b) an amount of tax relating to reportable income that is derived for a tax year by an individual solely from—
     (i) an income-tested benefit:
     (ii) an education grant:
