@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2020-04-01_
+_Consolidation as at 2020-06-08_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -4959,6 +4959,20 @@ A purported winter energy payment made for the winter period for the 2018 calend
   (b) subpart 5 of Part 4 of the Social Security Regulations 2018.
 (4) However, the repeal or revocation on 1 April 2020 of those enactments does not limit or affect any reduction or additional reduction MSD is required to make under those enactments because of their previous operation (in respect of any period, or periods, before or on 31 March 2020).
 
+### Part 4 — Provisions relating to Social Security (COVID-19 Income Relief Payment to be Income) Amendment Act 2020
+
+### 80 Repeals and amendment
+(1) This clause takes effect when the COVID-19 Income Relief Payment Programme is revoked and not replaced.
+(2) In Schedule 2, repeal the definitions of COVID-19 income relief payment and COVID-19 Income Relief Payment Programme.
+(3) In Schedule 3, clause 8(a), delete (but see clause 8A).
+(4) In Schedule 3, repeal clause 8A.
+(5) In this clause, COVID-19 Income Relief Payment Programme has the meaning in section 4 of the Social Security (COVID-19 Income Relief Payment to be Income) Amendment Act 2020.
+
+### 81 Effect of repeal or amendment of provisions ensuring COVID-19 income relief payment is income
+The repeal or amendment, by clause 80, of any provisions does not affect their previous operation—
+  (a) on or after 8 June 2020; and
+  (b) before they are repealed or amended by clause 80.
+
 ## Schedule 2 — Dictionary
 
 ## Schedule 3 — Income and liabilities
@@ -5026,7 +5040,7 @@ A person’s income includes the following payments made to the person:
 
 ### 8 Income excludes specified benefits, etc
 A person’s income excludes the following payments:
-  (a) any benefit, grant, allowance, or concession received by the person under this Act, Part 6 of the Veterans’ Support Act 2014, or Part 1 of the New Zealand Superannuation and Retirement Income Act 2001:
+  (a) any benefit, grant, allowance, or concession received by the person under this Act (but see clause 8A), Part 6 of the Veterans’ Support Act 2014, or Part 1 of the New Zealand Superannuation and Retirement Income Act 2001:
   (b) any pension or allowance (other than weekly income compensation or weekly compensation) under the Veterans’ Support Act 2014 received by any person because of the person’s own disablement:
   (c) any surviving spouse or partner pension received by the person under section 66 of the Veterans’ Support Act 2014:
   (d) any, or any part of any, pension or other periodical allowance received by any person from the Government of any Commonwealth country (other than New Zealand) that MSD determines is analogous to a pension or allowance specified in paragraph (b) or (c):
@@ -5046,6 +5060,10 @@ A person’s income excludes the following payments:
   (n) any money received by the Commissioner of Inland Revenue by way of child support which is paid to the person under section 142 of the Child Support Act 1991:
   (o) any amount of output tax charged in respect of a supply of goods and services made by that person:
   (p) any amount of goods and services tax payable by the Commissioner of Inland Revenue to that person.
+
+### 8A Exception to exclusion in clause 8(a): income includes COVID-19 income relief payment
+(1) Despite clause 8(a), a person’s income includes a COVID-19 income relief payment received by the person.
+(2) However, a payment of that kind is not income of the person for the purposes of the COVID-19 Income Relief Payment Programme.
 
 ### 9 Income excludes amounts, etc, declared not to be income
 A person’s income excludes any amount, item, payment, or income from specified source, declared by regulations made under section 422 not to be income.
