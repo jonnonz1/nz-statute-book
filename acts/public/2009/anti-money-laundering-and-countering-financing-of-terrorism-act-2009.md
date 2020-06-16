@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2020-06-16_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -1692,6 +1692,7 @@ An AML/CFT supervisor may only use information obtained under section 137 if the
   (n) the Lawyers and Conveyancers Act 2006:
   (o) the New Zealand Institute of Chartered Accountants Act 1996:
   (p) the Non-bank Deposit Takers Act 2013:
+  (pa) the Overseas Investment Act 2005:
   (q) the Proceeds of Crime Act 1991:
   (r) the Racing Act 2003:
   (s) the Real Estate Agents Act 2008:
