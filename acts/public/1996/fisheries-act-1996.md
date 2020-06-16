@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-06-16_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -1126,7 +1126,7 @@ The purpose of the overseas investment fishing provisions is to acknowledge that
   - **relevant Ministers** means the Minister and the Minister of Finance.
 (2) In relation to the overseas investment fishing provisions,—
   (a) the Overseas Investment Act 2005 incorporates those provisions as if they were part of that Act, so that a reference in that Act to this Act includes a reference to those provisions; and
-  (b) the terms associate, give effect to an overseas investment, overseas person, securities, transaction, and 25% or more ownership or control interest, and any other term or expression that is defined in the Overseas Investment Act 2005 and used in those provisions, has the same meaning as in that Act; and
+  (b) any term or expression that is defined in the Overseas Investment Act 2005 and used in those provisions has the same meaning as in that Act; and
   (c) a term or expression that is defined in this Act and that is used in those provisions (and is not defined in the Overseas Investment Act 2005) has the same meaning in those provisions.
 
 ### 57B Consent required for overseas investments in fishing quota
@@ -1139,10 +1139,7 @@ A transaction requires consent under the overseas investment fishing provisions 
 ### 57D What are overseas investments in fishing quota
 An overseas investment in fishing quota is the acquisition by an overseas person, or an associate of an overseas person, of—
   (a) an interest in fishing quota; or
-  (b) rights or interests in securities of a person (A) if A owns or controls (directly or indirectly) an interest in fishing quota and, as a result of the acquisition,—
-    (i) the overseas person or the associate (either alone or together with its associates) has a 25% or more ownership or control interest in A; or
-    (ii) the overseas person or the associate (either alone or together with its associates) has an increase in an existing 25% or more ownership or control interest in A; or
-    (iii) A becomes an overseas person.
+  (b) rights or interests in securities of a person (A) if A owns or controls (directly or indirectly) an interest in fishing quota and, as a result of the acquisition, 1 or more of the things referred to in section 12(b)﻿(i) to (iii) of the Overseas Investment Act 2005 happens.
 
 ### 57E Approach to criteria for consent
 (1) The relevant Ministers, in considering whether or not to grant consent to an overseas investment transaction under the overseas investment fishing provisions,—
@@ -1158,7 +1155,7 @@ An overseas investment in fishing quota is the acquisition by an overseas person
   (a) the person making the overseas investment (A), whether A is an overseas person or an associate of an overseas person:
   (b) any associate of A in relation to the overseas investment.
 (2) The relevant Ministers may determine which 1 or more of the following categories of persons are the individuals with control of the relevant overseas person for an overseas investment:
-  (a) the individual or individuals who each have a 25% or more ownership or control interest in the relevant overseas person:
+  (a) the individual or individuals who each have a more than 25% ownership or control interest in the relevant overseas person:
   (b) the member or members of the governing body of the relevant overseas person:
   (c) the individual or body of individuals who the Ministers consider to have that control (whether directly or indirectly).
 
@@ -1170,7 +1167,8 @@ An overseas investment in fishing quota is the acquisition by an overseas person
   (d) all the individuals with control of the relevant overseas person are of good character:
   (e) none of the individuals with control of the relevant overseas person are individuals of the kind referred to in section 15 or 16 of the Immigration Act 2009 (which list certain persons not eligible for visas or entry permission under that Act):
   (f) the interest in fishing quota is capable of being registered in the Quota Register or the Annual Catch Entitlement Register:
-  (g) the granting of consent is in the national interest, as determined by the relevant Ministers under section 57H.
+  (g) the granting of consent is in the national interest, as determined by the relevant Ministers under section 57H:
+  (h) if the overseas investment in fishing quota is a transaction of national interest, the Minister has not declined consent to the transaction (see section 20C of the Overseas Investment Act 2005).
 (2) See section 57I in relation to subsection (1)﻿(d) and (e).
 
 ### 57H Factors for determining whether or not overseas investment in fishing quota is in national interest
