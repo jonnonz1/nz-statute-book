@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2020-06-03_
+_Consolidation as at 2020-06-16_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -10032,6 +10032,15 @@ Section 18 does not prevent the Commissioner communicating to a person’s fund 
 (3) The information that may be provided under subclause (2) is all information relevant to—
   (a) the claim by a New Zealand resident wine producer for payment of an Australian wine producer rebate in respect of wine produced in New Zealand that is sold in Australia:
   (b) the approval or verification of the entitlement of a New Zealand resident wine producer to a payment of an Australian wine producer rebate.
+
+### 39B Regulator under Overseas Investment Act 2005
+(1) Section 18 does not prevent the Commissioner from disclosing sensitive revenue information to any officer or employee of the regulator under the Overseas Investment Act 2005 (the OIA) if the officer or employee is authorised by the regulator to receive the information and if the regulator has reasonable grounds to believe that the disclosure of that information is necessary for all or any of the following purposes:
+  (a) enabling the regulator to consider whether an investor meets the investor test under the OIA:
+  (b) managing national security and public order risks associated with transactions by overseas persons:
+  (c) any purpose set out in section 41(1A) of the OIA.
+(2) Information provided for the purpose in subclause (1)﻿(a) may include, for example, information on tax defaults, tax-related penalties, and tax settlement agreements made with the Commissioner.
+(3) Section 18 does not prevent the regulator from disclosing sensitive revenue information to any officer or employee of an agency referred to in section 126(2) of the OIA, if the officer or employee is authorised by the agency to receive the information and the regulator has reasonable grounds to believe that the disclosure of that information is necessary for the purpose of managing national security and public order risks associated with transactions by overseas persons.
+(4) Despite subclause (1), the Commissioner may disclose information to the regulator only where it is reasonable and practical to do so, the information is readily available, and it is not undesirable to disclose the information.
 
 #### Subpart 2 — Disclosures in provisions related to exchanges of information
 
