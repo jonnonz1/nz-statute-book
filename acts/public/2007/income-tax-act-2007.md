@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-06-23_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -852,15 +852,23 @@ Surrender of unit: deforestation of some pre-1990 forest land
 Surrender of post-1989 forest land emissions unit or forest sink emissions unit: for other purposes
 (6) The person is treated as selling a post-1989 forest land emissions unit or forest sink emissions unit for an amount equal to the unit's market value if the person surrenders the emissions unit other than—
   (a) for emissions in relation to post-1989 forest land:
-  (b) by a transfer to the Crown under a forest sink covenant under section 67Y of the Forests Act 1949.
+  (b) by a transfer to the Crown required by a permanent forestry scheme.
 Surrender of unit: free unit other than forest land unit
 (7) The person is treated as selling a unit that is not a forest land emissions unit for an amount equal to the unit's market value if—
   (a) the person surrenders the unit when it has a value of zero; and
   (b) the unit was transferred to the person under Part 4, subpart 2 of the Climate Change Response Act 2002 at a price of zero.
 Converted unit treated as sold
-(8) If a person converts a New Zealand emissions unit, other than a forest land emissions unit, into a Kyoto unit as defined in section 4(1) of the Climate Change Response Act 2002, the person is treated as having sold the converted unit for an amount equal to—
+(8) If a person converts a New Zealand emissions unit, other than a forest land emissions unit, into something else under the Climate Change Response Act 2002, the person is treated as having sold the converted unit for an amount equal to—
   (a) the unit's value under section ED 1(7B), if that subsection applies; or
   (b) the unit's cost, otherwise.
+Cancellation of historic approved overseas unit and replacement with New Zealand emissions unit
+(8B) If a person transfers an approved overseas unit as defined in section 4(1) of the Climate Change Response Act 2002 for cancellation under schedule 1AA, clause 14(2) of that Act and is transferred a New Zealand emissions unit under schedule 1AA, clause 14(3) of that Act, the person is treated as having sold the approved overseas unit for an amount equal to—
+  (a) the unit’s value under section ED 1(7B), if that subsection applies; or
+  (b) the unit’s cost, otherwise.
+Surrender of forest sink emissions unit for entitlement to New Zealand emissions unit
+(8C) If a person surrenders a forest sink emissions unit under schedule 1AA, clause 30(2) of the Climate Change Response Act 2002 and receives an entitlement to a New Zealand emissions unit under schedule 1AA, clause 30(4) of that Act, the person is treated as having sold the forest sink emissions unit for an amount equal to—
+  (a) the unit’s value under section ED 1(7B), if that subsection applies; or
+  (b) the unit’s cost, otherwise.
 Excluded income: pre-1990 forest land emissions unit
 (9) Section CX 51B (Disposal of pre-1990 forest land emissions units) applies to the disposal to another person of a pre-1990 forest land emissions unit.
 Excluded income: fishing quota emissions unit
@@ -7070,7 +7078,7 @@ Link with subpart DA
 When this section applies
 (1) This section applies when an emissions unit is transferred to a person for a price of zero—
   (a) under section 64, or Part 4, subpart 2, of the Climate Change Response Act 2002:
-  (b) in relation to a forest sink covenant under section 67Y of the Forests Act 1949 entered by the person.
+  (b) under a permanent forestry scheme.
 No deduction
 (2) The person is denied a deduction for an amount of expenditure or loss incurred as consideration for the emissions unit.
 Link with subpart DA
@@ -7080,7 +7088,7 @@ Link with subpart DA
 When this section applies
 (1) This section applies when a person incurs a liability—
   (a) under the Climate Change Response Act 2002 for emissions relating to post-1989 forest land or pre-1990 forest land:
-  (b) to transfer emissions units to the Crown under a forest sink covenant under section 67Y of the Forests Act 1949 entered by the person.
+  (b) to transfer emissions units to the Crown under a permanent forestry scheme.
 No deduction
 (2) The person is denied a deduction for the liability.
 Link with subpart DA
@@ -13342,7 +13350,7 @@ The amount of a tax credit to which a person is entitled under section EH 30 is 
 Income
 (1) Income from forestry—
   (a) means income derived from either or both of the disposals described in subsection (2) in the circumstances described in subsection (3):
-  (b) includes PFSI forestry income.
+  (b) includes permanent forestry income.
 Disposals
 (2) The disposals are—
   (a) the disposal of timber:
@@ -25576,7 +25584,7 @@ When section GC 1 applies
 Exclusions
 (2) Section GC 1 does not apply to a disposal of an emissions unit if the disposal is—
   (a) the surrender of the unit under the Climate Change Response Act 2002:
-  (b) the transfer of the unit to the Crown under a forest sink covenant under section 67Y of the Forests Act 1949:
+  (b) the transfer of the unit to the Crown under a permanent forestry scheme:
   (c) the transfer of a forest land emissions unit—
     (i) from the person (the transferor) who receives the unit from the Crown; and
     (ii) to a person (the transferee) as a party to a forestry rights agreement as defined in the Forestry Rights Registration Act 1983; and
@@ -41938,7 +41946,7 @@ In this Act, unless the context requires otherwise,—
     (a) 90% or more in value of the trust is owned, directly or indirectly, by or for 5 or fewer persons; and
     (b) the market value of a petroleum permit, including an asset of the kind described in section CT 7(1)﻿(b) or (c) (Meaning of petroleum mining asset) attributable to the permit, held by the trust is at least 75% of the value of its assets minus its liabilities, as shown in the trust’s accounts prepared under generally accepted accounting practice
   - **controlling shareholder** is defined in section HD 15(9) (Asset stripping of companies) for the purposes of that section
-  - **convert** , for a New Zealand emissions unit, means convert as defined in section 4(1) of the Climate Change Response Act 2002
+  - **convert** , for a New Zealand emissions unit, means convert as defined in regulations made under section 30G of the Climate Change Response Act 2002
   - **convertible credit**
   - **convertible note** means a document or a combination of documents that—
     (a) is issued or given by a company; and
@@ -43855,6 +43863,15 @@ In this Act, unless the context requires otherwise,—
     (b) is given an extended meaning in section CW 16D(4) (Accommodation expenditure: conferences and overnight stays) for the purposes of that section
   - **period of restriction**
   - **permanent establishment** is defined in section YD 4B (Meaning of permanent establishment)
+  - **permanent forestry business** means the forestry activities, as defined in the Climate Change Response Act 2002, carried on in relation to land by a person having entitlements and obligations relating to the land under a permanent forestry scheme
+  - **permanent forestry income** , for a person, means the income for a permanent forestry business—
+    (a) relating to a permanent forestry scheme; and
+    (b) derived by the person from—
+      (i) receiving an emissions unit under the permanent forestry scheme; or
+      (ii) entering into a transaction in relation to an emissions unit received under the permanent forestry scheme
+  - **permanent forestry scheme** means—
+    (a) the permanent forest sink initiative under which an owner of post-1989 forest land who entered into a forest sink covenant that was registered under section 67ZD of the Forests Act 1949 in relation to the land was entitled under the covenant to receive emissions units, other than under section 64 of the Climate Change Response Act 2002, for the land and was liable under the covenant to surrender emissions units to the Crown when required:
+    (b) the scheme under which a person who is registered under the Climate Change Response Act 2002 as a participant in permanent forestry relating to post-1989 forest land is entitled to receive emissions units for the land and is liable to surrender emissions units to the Crown when required by that Act
   - **permit** is defined in section 2 of the Crown Minerals Act 1991
   - **permit area** means an area of land, and may include more than 1 area, of, as applicable,—
     (a) a petroleum permit:
@@ -43909,12 +43926,8 @@ In this Act, unless the context requires otherwise,—
     (c) a petroleum mining permit:
     (d) an existing privilege that is a prospecting licence or mining licence granted under Part 1 of the Petroleum Act 1937
   - **petroleum-related depreciable property** is defined in section EE 67 (Other definitions)
-  - **PFSI forestry business** means the forestry activities carried on by a person who, as landowner, is subject to obligations under a forest sink covenant referred to in section 67X of the Forests Act 1949 in relation to the land specified in the covenant
-  - **PFSI forestry income** , for a person, means the income from a PFSI forestry business—
-    (a) relating to a forest sink covenant entered into by the person; and
-    (b) derived by the person from—
-      (i) receiving an emissions unit under the covenant; or
-      (ii) entering into a transaction in relation to an emissions unit received under the covenant
+  - **PFSI forestry business**
+  - **PFSI forestry income**
   - **physical cost of production** is defined in section DZ 11(3) (Film reimbursement scheme on or before 30 June 2001) for the purposes of that section
   - **PIE** means a portfolio investment entity
   - **PIE rules** means—
