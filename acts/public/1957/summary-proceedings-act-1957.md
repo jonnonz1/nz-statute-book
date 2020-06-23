@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2020-06-23_
 
 > Title
 
@@ -71,6 +71,7 @@ _Consolidation as at 2019-10-29_
     (jca) section 219 of the Food Act 2014; or
     (jd) section 125B of the Animal Products Act 1999; or
     (je) section 96B of the Wine Act 2003; or
+    (jf) section 30Q of the Climate Change Response Act 2002; or
     (k) any provision of any other Act providing for the use of the infringement notice procedure under section 21
   - **infringement offence** means any offence under any Act in respect of which a person may be issued with an infringement notice
   - **Police employee** has the same meaning as in section 4 of the Policing Act 2008
