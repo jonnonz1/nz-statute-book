@@ -1,5 +1,5 @@
 # Climate Change Response (Emissions Trading) Amendment Act 2008
-_Consolidation as at 2013-01-01_
+_Consolidation as at 2020-06-23_
 
 ### 1 Title
 This Act is the Climate Change Response (Emissions Trading) Amendment Act 2008.
@@ -47,8 +47,8 @@ Section 3 is amended by repealing subsection (1) and substituting the following 
 
 ### 6 Interpretation
 (1) Section 4(1) is amended by repealing the definitions of Minister, Minister responsible for the inventory agency, Minister responsible for the Registry, and representative identifier.
-(2) Section 4(1) is amended by inserting the following definitions in their appropriate alphabetical order:.
-  - **account number** means a unique account number assigned to a holding account by the Registrar under section 15(1)(a)
+(2) Section 4(1) is amended by inserting the following definitions in their appropriate alphabetical order:
+  - **account number** means a unique account number assigned to a holding account by the Registrar under section 15(1)﻿(a)
   - **allocation plan** means an allocation plan issued under section 79 or 80
   - **animal material** has the same meaning as in section 4(1) of the Animal Products Act 1999
   - **animal product** has the same meaning as in section 4(1) of the Animal Products Act 1999
@@ -159,7 +159,7 @@ Section 3 is amended by repealing subsection (1) and substituting the following 
       (iii) where the forest species on the forest land on 31 December 2007 consisted predominantly of exotic forest species; but
     (b) does not include any forest land that met the definition in paragraph (a), but—
       (i) has been deforested and in respect of which any liability to surrender units arising in respect of an activity listed in Part 1 of Schedule 3 has been satisfied; or
-      (ii) was declared to be exempt land, has been deforested, and the number of units that would have been required to be surrendered in respect of an activity listed in Part 1 of Schedule 3 had the land not been exempt land have been surrendered under section 187(2)(b)
+      (ii) was declared to be exempt land, has been deforested, and the number of units that would have been required to be surrendered in respect of an activity listed in Part 1 of Schedule 3 had the land not been exempt land have been surrendered under section 187(2)﻿(b)
   - **primary representative** means an individual appointed by an account holder as a primary representative of the account holder in accordance with any regulations made under Part 2
   - **public notice** means a notice published in a daily newspaper in each of the cities of Auckland, Wellington, Christchurch, and Dunedin, and made accessible via the Internet
   - **recover** , in relation to dispose,—
@@ -187,7 +187,7 @@ Section 3 is amended by repealing subsection (1) and substituting the following 
     (b) includes waste that is defined by its composition or source (for example, organic waste, electronic waste, or construction and demolition waste)
   - **year** means a calendar year ending on 31 December
 (3) The definition of assigned amount unit in section 4(1) is amended by omitting (or AAU).
-(4) The definition of cancel in section 4(1) is repealed and the following definition substituted:.
+(4) The definition of cancel in section 4(1) is repealed and the following definition substituted:
   - **cancel** , in relation to a unit, means the transfer of the unit to a cancellation account in the Registry with the effect specified in section 18CA(1)
 (5) The definition of carbon dioxide equivalent in section 4(1) is amended by omitting metric in each place where it appears.
 (6) The definition of carry over in section 4(1) is amended by—
@@ -200,19 +200,19 @@ Section 3 is amended by repealing subsection (1) and substituting the following 
 (11) The definition of holding account in section 4(1) is amended by omitting retired or cancelled and substituting retired, surrendered, converted, or cancelled.
 (12) The definition of independent transaction log in section 4(1) is repealed.
 (13) The definition of initial assigned amount in section 4(1) is amended by omitting metric.
-(14) The definition of inventory agency in section 4(1) is repealed and the following definition substituted:.
+(14) The definition of inventory agency in section 4(1) is repealed and the following definition substituted:
   - **inventory agency** means the chief executive of the department that is, with the authority of the Prime Minister, responsible for the administration of Part 3
 (15) The definition of long-term certified emission reduction unit in section 4(1) is amended by omitting (or lCER).
-(16) The definition of overseas registry in section 4(1) is amended by adding the following paragraph:.
+(16) The definition of overseas registry in section 4(1) is amended by adding the following paragraph:
   (c) any other prescribed registry
 (17) Paragraph (b) of the definition of relevant commitment period in section 4(1) is amended by inserting Kyoto after account or.
 (18) Paragraph (b) of the definition of removal unit in section 4(1) is amended by omitting (or RMU).
 (19) The definition of representative identifier in section 4(1) is repealed.
-(20) The definition of retire in section 4(1) is repealed and the following definition substituted:.
+(20) The definition of retire in section 4(1) is repealed and the following definition substituted:
   - **retire** , in relation to a Kyoto unit, means the transfer of that Kyoto unit to a retirement account in the Registry with the effect specified in section 18CA(2)
 (21) The definition of retirement account in section 4(1) is amended by inserting Kyoto after of holding.
 (22) The definition of temporary certified emission reduction unit in section 4(1) is amended by omitting (or tCER).
-(23) The definition of units in section 4(1) is repealed and the following definition substituted:.
+(23) The definition of units in section 4(1) is repealed and the following definition substituted:
   - **unit** means a Kyoto unit, a New Zealand unit, or an approved overseas unit
 (24) Section 4 is amended by adding the following subsections:
   (3) A person is an associated person in relation to 1 or more other persons if—
@@ -231,13 +231,13 @@ Section 3 is amended by repealing subsection (1) and substituting the following 
     (b) no other merchantable timber from exotic forest species.
 
 ### 7 Minister of Finance may give directions to Registrar regarding accounts and units
-(1) Section 7(1)(a) is amended by adding the following subparagraphs:.
+(1) Section 7(1)﻿(a) is amended by adding the following subparagraphs:
   (vii) a surrender account:
   (viii) a conversion account:
-(2) Section 7(1)(d) is amended by inserting , subject to any prescribed restriction or prohibition, after transfer.
-(3) Section 7(1)(d) is amended by inserting the surrender account, the conversion account, after retirement account,.
-(4) Section 7(1)(e) is amended by omitting carry over and substituting carry-over.
-(5) Section 7(2)(b) is repealed and the following paragraphs are substituted:
+(2) Section 7(1)﻿(d) is amended by inserting , subject to any prescribed restriction or prohibition, after transfer.
+(3) Section 7(1)﻿(d) is amended by inserting the surrender account, the conversion account, after retirement account,.
+(4) Section 7(1)﻿(e) is amended by omitting carry over and substituting carry-over.
+(5) Section 7(2)﻿(b) is repealed and the following paragraphs are substituted:
   (b) if written consent is not given, the Minister of Finance gives the account holder reasonable notice and—
     (i) the transfer is required to comply with New Zealand's obligations under the Protocol; or
     (ii) the account holder has failed to comply with Part 2 or any regulations made under section 30G; or
@@ -247,15 +247,15 @@ Section 3 is amended by repealing subsection (1) and substituting the following 
 Section 8 is amended by omitting section 50 and substituting section 30G.
 
 ### 9 Minister of Finance may obtain information from inventory agency and Registrar
-Section 9(b)(ii) is amended by omitting carried over and substituting carried-over.
+Section 9(b)﻿(ii) is amended by omitting carried over and substituting carried-over.
 
 ### 10 Purpose of Registry
 (1) Section 10 is amended by inserting in relation to Kyoto units after purpose of the Registry.
 (2) Section 10(a) is amended by inserting , transparent, and efficient after accurate.
-(3) Section 10(a)(i) is amended by inserting surrender, after retirement,.
-(4) Section 10(a)(i) is amended by inserting Kyoto after cancellation of.
-(5) Section 10(b)(ii) is amended by omitting independent and substituting international.
-(6) Section 10(b)(ii) is amended by omitting ; and and substituting ..
+(3) Section 10(a)﻿(i) is amended by inserting surrender, after retirement,.
+(4) Section 10(a)﻿(i) is amended by inserting Kyoto after cancellation of.
+(5) Section 10(b)﻿(ii) is amended by omitting independent and substituting international.
+(6) Section 10(b)﻿(ii) is amended by omitting ; and and substituting ..
 (7) Section 10(c) is repealed.
 (8) Section 10 is amended by adding the following subsections as subsections (2) and (3):
   (2) The purpose of the Registry in relation to New Zealand units and approved overseas units is to ensure—
@@ -292,19 +292,19 @@ Section 14 is repealed.
 (2) Section 17(2) is amended by inserting Kyoto after cancellations of.
 
 ### 16 Form and content of unit register
-(1) Section 18(2)(b)(i) is amended by inserting surrender, conversion, after retirement,.
-(2) Section 18(3) is amended by repealing paragraph (a) and substituting the following paragraph:.
+(1) Section 18(2)﻿(b)﻿(i) is amended by inserting surrender, conversion, after retirement,.
+(2) Section 18(3) is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) indivisible with respect to the issue, holding, transfer, retirement, replacement, surrender, carry-over, cancellation, and conversion of a unit within the unit register; and
 
 ### 17 Opening holding accounts
-Section 18A(3)(b) is amended by omitting a representative identifier and substituting an account number.
+Section 18A(3)﻿(b) is amended by omitting a representative identifier and substituting an account number.
 
 ### 18 Closing holding accounts
 (1) Section 18B(2) is amended by omitting Minister responsible for the Registry in each place where it appears and substituting in each case chief executive.
-(2) Section 18B(2)(b)(ii)(B) is amended by omitting with this Act and substituting with this Part.
-(3) Section 18B(2)(b)(ii)(B) is amended by omitting under this Act and substituting regarding the matters specified in section 30G.
+(2) Section 18B(2)﻿(b)﻿(ii)﻿(B) is amended by omitting with this Act and substituting with this Part.
+(3) Section 18B(2)﻿(b)﻿(ii)﻿(B) is amended by omitting under this Act and substituting regarding the matters specified in section 30G.
 (4) Section 18B is amended by repealing subsection (6) and substituting the following subsection:
-  (6) For the purposes of subsection (2)(b)(i), reasonable notice means sufficient opportunity in the circumstances to—
+  (6) For the purposes of subsection (2)﻿(b)﻿(i), reasonable notice means sufficient opportunity in the circumstances to—
     (a) transfer the units to another account before the holding account that is the subject of the closure direction is closed; or
     (b) in the case of non-compliance, comply with this Part or any regulations made under section 30G; or
     (c) if the chief executive is satisfied that an account holder no longer requires a holding account, make a written submission to the chief executive, before the account is closed, regarding the account holder’s need to retain the account.
@@ -312,8 +312,8 @@ Section 18A(3)(b) is amended by omitting a representative identifier and substit
 ### 19 Transfer of units
 (1) Section 18C(3) is amended by inserting Kyoto after to transfer.
 (2) Section 18C(3) is amended by omitting the general cancellation and substituting a retirement.
-(3) Section 18C(3)(a) is amended by omitting the general cancellation and substituting a retirement.
-(4) Section 18C(3)(b) is amended by omitting the general cancellation and substituting a retirement.
+(3) Section 18C(3)﻿(a) is amended by omitting the general cancellation and substituting a retirement.
+(4) Section 18C(3)﻿(b) is amended by omitting the general cancellation and substituting a retirement.
 
 ### 20 New sections 18CA, 18CB, 18CC, and 18CD inserted
 The following sections are inserted after section 18C:Effect of surrender, retirement, cancellation, and conversionRestriction on surrender of assigned amount unitsRestriction on surrender of assigned amount units issued during first commitment periodEffect of surrendering restricted assigned amount units
@@ -323,7 +323,7 @@ The following sections are inserted after section 18C:Effect of surrender, retir
     (a) a retirement account or a cancellation account; or
     (b) a participant’s holding account, if the direction was given on receipt of a notice from the chief executive under section 124 (which relates to reimbursement of Kyoto units).
   (4) A New Zealand unit or an approved overseas unit that is transferred to a surrender account may be further transferred only in accordance with a direction from the Minister of Finance given on receipt of a notice from the chief executive under section 124 (which relates to reimbursement of New Zealand units or approved overseas units).
-  (5) A New Zealand unit that is transferred to a conversion account may not be surrendered, cancelled, or otherwise further transferred except as required by section 30E(4)(b).
+  (5) A New Zealand unit that is transferred to a conversion account may not be surrendered, cancelled, or otherwise further transferred except as required by section 30E(4)﻿(b).
   (1) No participant may surrender, or permit to be surrendered, an imported assigned amount unit to meet the participant’s obligations under section 63 unless the assigned amount unit meets the conditions or requirements prescribed in regulations made under this Part.
   (2) In this section and section 18CD, imported assigned amount unit means an assigned amount unit that is issued out of the initial assigned amount of a Party other than New Zealand.
   (1) No participant may surrender, or permit to be surrendered, a CP1 imported assigned amount unit to meet the participant’s obligations under section 63 in respect of any emissions from any activities listed in Schedule 3 or 4 carried out by the participant after 31 December 2012.
@@ -336,7 +336,7 @@ The following sections are inserted after section 18C:Effect of surrender, retir
     (b) notify the participant and the chief executive of the department responsible for the administration of Part 4 that the transfer has been reversed.
   (3) If a transfer is reversed under subsection (2),—
     (a) the chief executive of the department responsible for the administration of Part 4 must treat the transfer as never taking place for the purpose of assessing whether a participant has surrendered the required number of units by the due date as required under any section of this Act; and
-    (b) if the chief executive of the department responsible for the administration of Part 4 considers that the person has not surrendered the required number of units by the due date, give a notice to the participant under section 134(3)(a).
+    (b) if the chief executive of the department responsible for the administration of Part 4 considers that the person has not surrendered the required number of units by the due date, give a notice to the participant under section 134(3)﻿(a).
 
 ### 21 New section 19 substituted
 Section 19 is repealed and the following section substituted:Retirement of Kyoto units by the Crown
@@ -346,7 +346,7 @@ Section 19 is repealed and the following section substituted:Retirement of Kyoto
 
 ### 22 Transactions must be registered
 (1) Section 20(1) is amended by inserting surrender, convert, after retire,.
-(2) Section 20(2)(a) is amended by omitting independent and substituting international.
+(2) Section 20(2)﻿(a) is amended by omitting independent and substituting international.
 
 ### 23 Registration procedure
 (1) The heading to section 21 is amended by adding for Kyoto units.
@@ -360,7 +360,7 @@ Section 19 is repealed and the following section substituted:Retirement of Kyoto
       (A) in the case of a direction, the Minister of Finance and, if the direction specifies that Kyoto units are to be transferred to a holding account of an account holder other than the Crown, the account holder:
       (B) in the case of an application, the account holder who submitted the application and the account holder specified in the application as the account holder to whose holding account Kyoto units are to be transferred.
 (5) Section 21 is amended by repealing subsection (2) and substituting the following subsection:
-  (2) If the Registrar sends a record of the proposed transaction to the international transaction log under subsection (1)(b) and receives notification back from the international transaction log that there are no discrepancies in the transaction, the Registrar must, as soon as practicable,—
+  (2) If the Registrar sends a record of the proposed transaction to the international transaction log under subsection (1)﻿(b) and receives notification back from the international transaction log that there are no discrepancies in the transaction, the Registrar must, as soon as practicable,—
     (a) record in the unit register the particulars of the transaction set out in the direction or the application; and
     (b) send notification that the transaction has been recorded in the unit register to the international transaction log; and
     (c) send electronic notification that the transaction has been recorded in the unit register to,—
@@ -385,7 +385,7 @@ The following section is inserted after section 21:Registration procedure for Ne
       (ii) send electronic notification that the transaction has been recorded in the unit register to,—
         (A) in the case of a direction, the Minister of Finance and, if the direction specifies that New Zealand units or approved overseas units are to be transferred to the holding account of an account holder other than the Crown, the account holder:
         (B) in the case of an application, the account holder who submitted the application and the account holder specified in the application as the account holder to whose holding account New Zealand units or approved overseas units are to be transferred.
-  (2) If the Registrar sends a record of the proposed transaction to an overseas registry under subsection (1)(b) and receives notification back from the overseas registry that there are no discrepancies in the transaction, the Registrar must, as soon as practicable,—
+  (2) If the Registrar sends a record of the proposed transaction to an overseas registry under subsection (1)﻿(b) and receives notification back from the overseas registry that there are no discrepancies in the transaction, the Registrar must, as soon as practicable,—
     (a) record in the unit register the particulars of the transaction set out in the direction or the application; and
     (b) send notification to the overseas registry that the transaction has been recorded in the unit register; and
     (c) send electronic notification that the transaction has been recorded in the unit register to,—
@@ -400,7 +400,7 @@ The following section is inserted after section 21:Registration procedure for Ne
       (ii) in the case of an application, the account holder.
 
 ### 25 Defective applications
-Section 21B(1)(a) is repealed.
+Section 21B(1)﻿(a) is repealed.
 
 ### 26 Receiving units from overseas registries
 (1) The heading to section 23 is amended by inserting Kyoto after Receiving.
@@ -429,7 +429,7 @@ The following section is inserted after section 23:Receiving New Zealand units a
     (a) the Minister of Finance, if the Registrar registered the transaction following receipt of a direction from the Minister of Finance; or
     (b) the account holder who applied to register the transaction.
 (2) Section 25(3) is amended by omitting must and substituting may.
-(3) Section 25(3)(c) is amended by repealing subparagraphs (ii) and (iii) and substituting the following subparagraphs:.
+(3) Section 25(3)﻿(c) is amended by repealing subparagraphs (ii) and (iii) and substituting the following subparagraphs:
   (ii) the international transaction log (if required to do so); and
   (iii) an overseas registry (if required to do so).
 
@@ -498,8 +498,8 @@ Section 27 is repealed and the following section substituted:Information accessi
 
 ### 33 Crown or Registrar not liable in relation to searches in certain cases
 (1) The heading to section 30A is amended by omitting Crown and substituting The Crown.
-(2) Section 30A(b)(i) is amended by omitting independent and substituting international.
-(3) Section 30A(b) is amended by inserting the following subparagraphs after subparagraph (i):.
+(2) Section 30A(b)﻿(i) is amended by omitting independent and substituting international.
+(3) Section 30A(b) is amended by inserting the following subparagraphs after subparagraph (i):
   (ia) an overseas registry; or
   (ib) a third party; or
 
@@ -517,14 +517,14 @@ The following heading and sections are inserted after section 30D:Miscellaneous 
   (3) Upon receipt of an application under subsection (2) the Registrar must, as soon as practicable,—
     (a) transfer the New Zealand units specified in the application from the account holder’s account to the conversion account; and
     (b) transfer to the account holder’s account an equivalent number of designated assigned amount units; and
-    (c) subject to section 21(3), register the transaction applied for under subsection (2)(b).
-  (4) If the Registrar receives notification from the international transaction log under section 21(3) that there are discrepancies in the transaction relating to the application submitted under subsection (2)(b), the Registrar must—
+    (c) subject to section 21(3), register the transaction applied for under subsection (2)﻿(b).
+  (4) If the Registrar receives notification from the international transaction log under section 21(3) that there are discrepancies in the transaction relating to the application submitted under subsection (2)﻿(b), the Registrar must—
     (a) comply with section 21(3); and
-    (b) reverse the transfers in subsection (3)(a) and (b).
+    (b) reverse the transfers in subsection (3)﻿(a) and (b).
   (5) For the purposes of this section, designated assigned amount unit means an assigned amount unit that—
     (a) was issued by the Registrar on the basis of New Zealand’s initial assigned amount; and
     (b) is held by the Crown in a Crown holding account.
-  (1) This section applies to any New Zealand units referred to in section 71(2)(b)(ii) that are allocated in accordance with an allocation plan made under section 79 that relates to those units.
+  (1) This section applies to any New Zealand units referred to in section 71(2)﻿(b)﻿(ii) that are allocated in accordance with an allocation plan made under section 79 that relates to those units.
   (2) Despite anything in section 18C or 30E, the Registrar may not transfer any New Zealand units to which this section applies to a surrender account or a conversion account until—
     (a) 1 January 2013; or
     (b) any later date specified in the allocation plan.
@@ -562,20 +562,20 @@ The following heading and sections are inserted after section 30D:Miscellaneous 
     (j) prescribing, for the purpose of the definition of overseas registry, overseas registries from which and to which units may be transferred to and from accounts in the Registry:
     (k) prescribing the units issued by an overseas registry that may be transferred to accounts in the Registry:
     (l) prescribing procedures for transactions involving approved overseas units:
-    (m) prescribing matters in respect of the taking of possession of an emissions unit for the purposes of section 18(1A)(b) of the Personal Property Securities Act 1999:
+    (m) prescribing matters in respect of the taking of possession of an emissions unit for the purposes of section 18(1A)﻿(b) of the Personal Property Securities Act 1999:
     (n) in respect of this Part, giving effect to the terms of the Convention and the Protocol, including any decisions, rules, guidelines, principles, measures, methodologies, modalities, procedures, mechanisms, or other matters adopted, agreed on, made, or approved in accordance with the Convention or the Protocol:
     (o) providing for the matters that are contemplated by, or necessary for, giving full effect to this Part and for its due administration.
   (2) Regulations made under subsection (1) may be made in respect of different units, transactions, persons, classes of units, subclasses of units, classes of transactions, or classes of persons.
-  (3) Any regulation made under subsection (1)(b)(i) or (c) does not apply to the transfer of units that are held in an account in the Registry at the time that the regulation comes into force.
+  (3) Any regulation made under subsection (1)﻿(b)﻿(i) or (c) does not apply to the transfer of units that are held in an account in the Registry at the time that the regulation comes into force.
   (4) Any regulations made under subsection (1) must be consistent with the Convention and the Protocol.
-  (1) Before making a recommendation under section 30G(1) relating to regulations under section 30G(1)(b)(i), (c), (d), (j) or (k), the Minister must consult, or be satisfied that the chief executive has consulted, the persons (or representatives of those persons) that appear to the Minister or the chief executive likely to be substantially affected by any regulations made in accordance with the recommendation.
+  (1) Before making a recommendation under section 30G(1) relating to regulations under section 30G(1)﻿(b)﻿(i), (c), (d), (j) or (k), the Minister must consult, or be satisfied that the chief executive has consulted, the persons (or representatives of those persons) that appear to the Minister or the chief executive likely to be substantially affected by any regulations made in accordance with the recommendation.
   (2) The process for consultation must, to the extent practicable in the circumstances, include—
     (a) giving adequate and appropriate notice of the proposed terms of the recommendation, and of the reasons for it; and
     (b) the provision of a reasonable opportunity for interested persons to consider the recommendation and make submissions; and
     (c) adequate and appropriate consideration of submissions.
   (3) Unless subsection (4) applies or a later date is specified in the regulations, regulations referred to in this section come into force 3 months after the date of their notification in the Gazette.
   (4) Subsections (1) and (3) do not apply in respect of any regulations if the Minister considers it is in the national interest that they be made urgently.
-  (5) A failure to comply with this section does not affect the validity of regulations made under section 30G(1)(b)(i), (c), (d), (j), or (k).
+  (5) A failure to comply with this section does not affect the validity of regulations made under section 30G(1)﻿(b)﻿(i), (c), (d), (j), or (k).
   (1) The following written material may be incorporated by reference in regulations made under section 30G:
     (a) decisions, rules, guidelines, principles, measures, methodologies, modalities, procedures, mechanisms, or other matters adopted, agreed on, made, or approved by any international or national organisation in accordance with the Convention or the Protocol; and
     (b) any standards, requirements, or recommended practices—
@@ -595,10 +595,10 @@ The following heading and sections are inserted after section 30D:Miscellaneous 
   (2) Every person who recklessly provides false or misleading information to the Registrar commits an offence, and is liable on conviction to a fine not exceeding $2,000.
 
 ### 35 New Part 3 heading substituted
-The subpart 3 heading above section 31 is repealed and the following heading substituted:Inventory agency.
+The subpart 3 heading above section 31 is repealed and the following heading substituted:Inventory agency
 
 ### 36 Primary functions of inventory agency
-Section 32(2)(b)(iii) is amended by omitting Act and substituting Part.
+Section 32(2)﻿(b)﻿(iii) is amended by omitting Act and substituting Part.
 
 ### 37 Inventory agency under direction of Minister responsible for inventory agency
 (1) The heading to section 33 is amended by omitting responsible for inventory agency.
@@ -625,8 +625,8 @@ The following section is inserted after section 45:Protection of persons acting 
 
 ### 43 Obstructing, hindering, resisting, or deceiving person exercising power under Act
 (1) The heading to section 47 is amended by omitting Act and substituting Part.
-(2) Section 47(a)(i) is amended by omitting Act in each place where it appears and substituting in each case Part.
-(3) Section 47(a)(ii) is amended by omitting Act and substituting Part.
+(2) Section 47(a)﻿(i) is amended by omitting Act in each place where it appears and substituting in each case Part.
+(3) Section 47(a)﻿(ii) is amended by omitting Act and substituting Part.
 
 ### 44 Signing false declaration
 The heading to section 48 is amended by adding in respect of regulations made under section 50.
@@ -638,16 +638,16 @@ Section 48A is repealed.
 Section 49 is amended by inserting responsible for the administration of this Act after Minister in the first place where it appears.
 
 ### 47 Regulations
-(1) Section 50(1)(a) is repealed.
-(2) Section 50(1)(c) is repealed.
-(3) Section 50(1)(ca) is repealed.
-(4) Section 50(1)(d) is repealed.
-(5) Section 50(1)(e) is repealed.
-(6) Section 50(1)(f) is repealed.
-(7) Section 50(1)(g) is repealed.
-(8) Section 50(1)(h) is repealed.
-(9) Section 50(1)(i) is amended by omitting Act and substituting Part.
-(10) Section 50(1)(k) is amended by omitting Act and substituting Part.
+(1) Section 50(1)﻿(a) is repealed.
+(2) Section 50(1)﻿(c) is repealed.
+(3) Section 50(1)﻿(ca) is repealed.
+(4) Section 50(1)﻿(d) is repealed.
+(5) Section 50(1)﻿(e) is repealed.
+(6) Section 50(1)﻿(f) is repealed.
+(7) Section 50(1)﻿(g) is repealed.
+(8) Section 50(1)﻿(h) is repealed.
+(9) Section 50(1)﻿(i) is amended by omitting Act and substituting Part.
+(10) Section 50(1)﻿(k) is amended by omitting Act and substituting Part.
 (11) Section 50(2) and (3) is amended by omitting responsible for the inventory agency.
 (12) Section 50 is amended by repealing subsection (5) and substituting the following subsection:
   (5) Regulations made under subsection (1) or (2) may be made in respect of different persons or classes of persons.
@@ -672,7 +672,7 @@ Section 51 is repealed and the following section substituted:Incorporation by re
 (4) Section 52(4) is amended by omitting who is responsible for the inventory agency.
 
 ### 50 New Parts 4 and 5 inserted
-The following Parts are inserted after section 53:New Zealand greenhouse gas emissions trading schemeParticipantsParticipantsAssociated personsRegistration as participant in respect of activities listed in Schedule 3Applications to be registered as participant in respect of activities listed in Schedule 4Removal from register of participants in respect of activities listed in Schedule 4Removal from register of participants in respect of activities listed in Schedules 3 and 4Exemptions in respect of activities listed in Schedule 3Participants must have holding accountsMonitoring of emissions and removalsLiability to surrender units to cover emissionsEntitlement to receive New Zealand units for removal activitiesAnnual emissions returnsQuarterly returns for other removal activitiesRetention of emissions recordsIssuance and allocation of New Zealand unitsInterpretationIssuance of New Zealand unitsNotification of intention regarding New Zealand unitsAllocation in respect of pre-1990 forest landMinister to appoint person to hold certain New Zealand unitsAllocation to industryEstablishment of Innovation FundAllocation to fishing vessel operatorsAllocation to agricultureOther matters with respect to allocation plansDraft allocation plansGovernor-General may issue allocation plansCorrection and publication of allocation plansContent of criteria and methodologies in allocation plansDeterminations made in accordance with allocation planMinister may require further information after determination madeNew determination made in accordance with allocation planEffect of new determinationBalance of units at end of true-up period or other balance dateChief executiveGeneral administrative provisionsFunctions of chief executiveDirections to chief executiveChief executive to publish certain informationChief executive may prescribe form of certain documentsApproval of unique emissions factorsRecognition of verifiersVerification and inquiryAppointment of enforcement officersPower to require informationPower to inquireInquiry before District Court JudgeNo criminal proceedings for statements under section 95 or 96Expenses in relation to inquiries by chief executive or District Court JudgeObligation to maintain confidentialityPower of entry for investigationApplications for warrantsProof of authority must be producedNotice of entryInformation obtained under section 100 or 101 only admissible in proceedings for alleged breach of obligations imposed under this Part and Part 5Return of items seizedProtection of persons acting under authority of this PartEmissions rulingsApplications for emissions rulingsMatters in relation to which chief executive may decline to make emissions rulingsMaking of emissions rulingsNotice of emissions rulingsConfirmation of basis of emissions rulingsNotifying chief executive of changes relevant to or failure to comply with emissions rulingsCorrection of emissions rulingsCessation of emissions rulingsAppeal from decisions of chief executiveEffect of emissions rulingsChief executive may publish certain aspects of emissions rulingsEmissions returnsSubmission of final emissions returnsPower to extend date for emissions returnsAmendment to emissions returns by chief executiveAssessment if default made in submitting emissions returnAmendment or assessment presumed to be correctEffect of amendment or assessmentReimbursement of units by chief executiveRepayment of units by persons in case of errorObligation to surrender or repay units not suspended by review or appealTime bar for amendment of emissions returnsAmendments and assessments made by electronic meansOffences and penaltiesStrict liability offencesOffence for breach of section 99Offence for failure to provide information or documentsOther offencesEvasion or similar offencesPenalty for failing to surrender or repay unitsReductions in penaltyAdditional penalty for knowing failure to complyInterest for late paymentObligation to pay penalty not suspended by appealLiability of body corporateLiability of directors and managers of companiesLiability of companies and persons for actions of director, agent, or employeeLimitation period for commencement of proceedingsEvidence in proceedingsReview and appeal provisionsRequest for review of decisionsRight of appeal to District CourtAppeals to High Court on questions of law onlyMiscellaneous provisionsGiving of notices by chief executiveGiving of notices to chief executiveSharing informationFormation of consolidated groupChanges to consolidated groupsNominated entitiesEffect of being member of consolidated groupEmissions returns by consolidated group in respect of activities in Part 1 of Schedule 4Ceasing to be member of consolidated groupEffect of ceasing to be member of consolidated groupJoint activitiesCompensation for participants where public works result in liability to surrender unitsChief executive must surrender or repay units for person who is in default or insolventReviews of operation of emissions trading schemeAppointment and conduct of review panelRegulations adding further activity to Part 2 of Schedule 4Regulations relating to methodologies and verifiersRegulations relating to unique emissions factorsRegulations relating to offsetting of pre-1990 forest landProcedure for regulations relating to methodologies, verification, unique emissions factors, and offsettingRegulations relating to fees and chargesOther regulationsIncorporation by reference in regulations made under section 163Effect of amendments to, or replacement of, material incorporated by reference in regulationsProof of material incorporated by referenceEffect of expiry of material incorporated by referenceRequirement to consultPublic access to material incorporated by referenceActs and Regulations Publication Act 1989 not applicable to material incorporated by referenceApplication of Regulations (Disallowance) Act 1989 to material incorporated by referenceApplication of Standards Act 1988 not affectedRecovery of fees or chargesSector specific provisionsForestry sectorGeneralForest land to be treated as deforested in certain casesPre-1990 forest landParticipant in respect of pre-1990 forest landWhen deforestation to be treated as occurring in respect of pre-1990 forest landOffsetting in relation to pre-1990 forest landApplications for exemption for land holdings of less than 50 hectares of pre-1990 forest landExemptions for deforestation of land with tree weedsEffect of exemptionMethodology for pre-1990 forest landPost-1989 forest landConditions on registration as participant in respect of certain activities relating to post-1989 forest landRegistration as participant in respect of post-1989 forest landEmissions returns for post-1989 forest land activitiesSpecial rules regarding surrender of units in relation to post-1989 forest landCeasing to be registered as participant in respect of post-1989 forest landTransfer of registration as participant in respect of post-1989 forest landTransfer of registration on expiry or termination of registered forestry right, registered lease, or Crown conservation contract in relation to post-1989 forest landInformation about status of forest landPost-1989 forest land and pre-1990 forest landNotification of status of forest landTransitional provisionsFirst emissions return for pre-1990 forest land activitiesFirst emissions return for post-1989 forest land activitiesLiquid fossil fuels sectorRegistration as participant by purchasers of jet fuelHistorical information sufficient to satisfy chief executiveEffect of purchasing less than the threshold level of obligation jet fuelEffect of registration by purchasers of jet fuelActivities added to Part 2 of Schedule 3Treatment of obligation fuelsStationary energy sectorParticipant with respect to mining coal or natural gasMining natural gas in exclusive economic zone and continental shelfObligation with respect to combusting used oil, waste oil, and wasteObligation with respect to mining coalPurchase of coal or natural gas from wholly owned subsidiary of Part 3 of Schedule 3 participantRegistration as participant by purchasers of coal or natural gasHistorical information sufficient to satisfy chief executive Effect of purchasing less than threshold level of coal or natural gasEffect of registration by purchasers of coal or natural gasAgricultureRegistration as participants by persons carrying out activities listed in Part 5 of Schedule 4Historical information sufficient to satisfy chief executiveEffect of purchasing or farming less than threshold level Effect of registration by farmers Transitional provisionsTransitional provision for penaltiesTransitional provision for voluntary reportingTransitional provision for mandatory reporting by certain participantsAdditional transitional provision for mandatory reporting for subpart 3 of Part 2 of Schedule 4 participantsAdditional transitional provisions for Part 3 of Schedule 4 participantsTransitional provisions regarding regulations that replace existing unit register regulationsOther mattersEstablishment of Household FundGazetting of targets
+The following Parts are inserted after section 53:New Zealand greenhouse gas emissions trading schemeParticipantsParticipantsAssociated personsRegistration as participant in respect of activities listed in Schedule 3Applications to be registered as participant in respect of activities listed in Schedule 4Removal from register of participants in respect of activities listed in Schedule 4Removal from register of participants in respect of activities listed in Schedules 3 and 4Exemptions in respect of activities listed in Schedule 3Participants must have holding accountsMonitoring of emissions and removalsLiability to surrender units to cover emissionsEntitlement to receive New Zealand units for removal activitiesAnnual emissions returnsQuarterly returns for other removal activitiesRetention of emissions recordsIssuance and allocation of New Zealand unitsInterpretationIssuance of New Zealand unitsNotification of intention regarding New Zealand unitsAllocation in respect of pre-1990 forest landMinister to appoint person to hold certain New Zealand unitsAllocation to industryEstablishment of Innovation FundAllocation to fishing vessel operatorsAllocation to agricultureOther matters with respect to allocation plansDraft allocation plansGovernor-General may issue allocation plansCorrection and publication of allocation plansContent of criteria and methodologies in allocation plansDeterminations made in accordance with allocation planMinister may require further information after determination madeNew determination made in accordance with allocation planEffect of new determinationBalance of units at end of true-up period or other balance dateChief executiveGeneral administrative provisionsFunctions of chief executiveDirections to chief executiveChief executive to publish certain informationChief executive may prescribe form of certain documentsApproval of unique emissions factorsRecognition of verifiersVerification and inquiryAppointment of enforcement officersPower to require informationPower to inquireInquiry before District Court JudgeNo criminal proceedings for statements under section 95 or 96Expenses in relation to inquiries by chief executive or District Court JudgeObligation to maintain confidentialityPower of entry for investigationApplications for warrantsProof of authority must be producedNotice of entryInformation obtained under section 100 or 101 only admissible in proceedings for alleged breach of obligations imposed under this Part and Part 5Return of items seizedProtection of persons acting under authority of this PartEmissions rulingsApplications for emissions rulingsMatters in relation to which chief executive may decline to make emissions rulingsMaking of emissions rulingsNotice of emissions rulingsConfirmation of basis of emissions rulingsNotifying chief executive of changes relevant to or failure to comply with emissions rulingsCorrection of emissions rulingsCessation of emissions rulingsAppeal from decisions of chief executiveEffect of emissions rulingsChief executive may publish certain aspects of emissions rulingsEmissions returnsSubmission of final emissions returnsPower to extend date for emissions returnsAmendment to emissions returns by chief executiveAssessment if default made in submitting emissions returnAmendment or assessment presumed to be correctEffect of amendment or assessmentReimbursement of units by chief executiveRepayment of units by persons in case of errorObligation to surrender or repay units not suspended by review or appealTime bar for amendment of emissions returnsAmendments and assessments made by electronic meansOffences and penaltiesStrict liability offencesOffence for breach of section 99Offence for failure to provide information or documentsOther offencesEvasion or similar offencesPenalty for failing to surrender or repay unitsReductions in penaltyAdditional penalty for knowing failure to complyInterest for late paymentObligation to pay penalty not suspended by appealLiability of body corporateLiability of directors and managers of companiesLiability of companies and persons for actions of director, agent, or employeeLimitation period for commencement of proceedingsEvidence in proceedingsReview and appeal provisionsRequest for review of decisionsRight of appeal to District CourtAppeals to High Court on questions of law onlyMiscellaneous provisionsGiving of notices by chief executiveGiving of notices to chief executiveSharing informationFormation of consolidated groupChanges to consolidated groupsNominated entitiesEffect of being member of consolidated groupEmissions returns by consolidated group in respect of activities in Part 1 of Schedule 4Ceasing to be member of consolidated groupEffect of ceasing to be member of consolidated groupJoint activitiesCompensation for participants where public works result in liability to surrender unitsChief executive must surrender or repay units for person who is in default or insolventReviews of operation of emissions trading schemeAppointment and conduct of review panelRegulations adding further activity to Part 2 of Schedule 4Regulations relating to methodologies and verifiersRegulations relating to unique emissions factorsRegulations relating to offsetting of pre-1990 forest landProcedure for regulations relating to methodologies, verification, unique emissions factors, and offsettingRegulations relating to fees and chargesOther regulationsIncorporation by reference in regulations made under section 163Effect of amendments to, or replacement of, material incorporated by reference in regulationsProof of material incorporated by referenceEffect of expiry of material incorporated by referenceRequirement to consultPublic access to material incorporated by referenceActs and Regulations Publication Act 1989 not applicable to material incorporated by referenceApplication of Regulations (Disallowance) Act 1989 to material incorporated by referenceApplication of Standards Act 1988 not affectedRecovery of fees or chargesSector specific provisionsForestry sectorGeneralForest land to be treated as deforested in certain casesPre-1990 forest landParticipant in respect of pre-1990 forest landWhen deforestation to be treated as occurring in respect of pre-1990 forest landOffsetting in relation to pre-1990 forest landApplications for exemption for land holdings of less than 50 hectares of pre-1990 forest landExemptions for deforestation of land with tree weedsEffect of exemptionMethodology for pre-1990 forest landPost-1989 forest landConditions on registration as participant in respect of certain activities relating to post-1989 forest landRegistration as participant in respect of post-1989 forest landEmissions returns for post-1989 forest land activitiesSpecial rules regarding surrender of units in relation to post-1989 forest landCeasing to be registered as participant in respect of post-1989 forest landTransfer of registration as participant in respect of post-1989 forest landTransfer of registration on expiry or termination of registered forestry right, registered lease, or Crown conservation contract in relation to post-1989 forest landInformation about status of forest landPost-1989 forest land and pre-1990 forest landNotification of status of forest landTransitional provisionsFirst emissions return for pre-1990 forest land activitiesFirst emissions return for post-1989 forest land activitiesLiquid fossil fuels sectorRegistration as participant by purchasers of jet fuelHistorical information sufficient to satisfy chief executiveEffect of purchasing less than the threshold level of obligation jet fuelEffect of registration by purchasers of jet fuelActivities added to Part 2 of Schedule 3Treatment of obligation fuelsStationary energy sectorParticipant with respect to mining coal or natural gasMining natural gas in exclusive economic zone and continental shelfObligation with respect to combusting used oil, waste oil, and wasteObligation with respect to mining coalPurchase of coal or natural gas from wholly owned subsidiary of Part 3 of Schedule 3 participantRegistration as participant by purchasers of coal or natural gasHistorical information sufficient to satisfy chief executiveEffect of purchasing less than threshold level of coal or natural gasEffect of registration by purchasers of coal or natural gasAgricultureRegistration as participants by persons carrying out activities listed in Part 5 of Schedule 4Historical information sufficient to satisfy chief executiveEffect of purchasing or farming less than threshold levelEffect of registration by farmersTransitional provisionsTransitional provision for penaltiesTransitional provision for voluntary reportingTransitional provision for mandatory reporting by certain participantsAdditional transitional provision for mandatory reporting for subpart 3 of Part 2 of Schedule 4 participantsAdditional transitional provisions for Part 3 of Schedule 4 participantsTransitional provisions regarding regulations that replace existing unit register regulationsOther mattersEstablishment of Household FundGazetting of targets
   (1) A person is a participant,—
     (a) in respect of an activity listed in Schedule 3, if the person—
       (i) is required under section 180 or 204 to be treated as the person carrying out the activity; or
@@ -681,7 +681,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
       (i) carries out the activity, is registered as a participant under section 57 in respect of the activity, and that registration has taken effect; or
       (ii) becomes a participant under section 192 or 193 in respect of the activity and is not removed from the register in respect of that activity.
   (2) Any reference in this Part or Part 5 to a person or participant carrying out an activity must be read as referring to the person who is to be treated under section 180 or 204 as carrying out the activity, or if those sections do not apply, to the person or participant carrying out the activity.
-  (3) Subsection (1)(a) is subject to any exemption under an Order in Council made under section 60.
+  (3) Subsection (1)﻿(a) is subject to any exemption under an Order in Council made under section 60.
   (4) A person who was a participant under subsection (1) continues to be a participant for the purposes of this Act in respect of any obligations, or entitlements under section 64, arising in respect of an activity listed in Schedule 3 or 4 that the person carried out while a participant.
   (5) The chief executive must ensure that the registers, or the information contained in the registers, kept for the purposes of section 56 or 57 are open for public inspection, without fee, on the Internet site of the department of the chief executive, and in any other form that the chief executive considers appropriate.
   (1) This section applies if an activity listed in Schedule 3 has a threshold below or above which a person becomes a participant.
@@ -697,7 +697,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (b) if the person does not already have a holding account—
       (i) apply to open a holding account under section 18A at the time the person notifies the chief executive under paragraph (a); and
       (ii) supply the account number of the holding account, or ensure that the account number of the holding account is supplied, to the chief executive within 10 working days of receiving the account number from the Registrar.
-  (2) A notice under subsection (1)(a) must—
+  (2) A notice under subsection (1)﻿(a) must—
     (a) be submitted to the chief executive within 20 working days of the person becoming a participant in respect of the activity; and
     (b) be in the prescribed form; and
     (c) contain—
@@ -705,12 +705,12 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
       (ii) the details of the activity that the person carries out; and
       (iii) any other information that the chief executive may require; and
       (iv) if the person already has 1 or more holding accounts, the account number of the holding account that the person wishes to use for the purpose of section 61(1).
-  (3) The chief executive must, as soon as practicable after receiving a notice under subsection (1)(a),—
+  (3) The chief executive must, as soon as practicable after receiving a notice under subsection (1)﻿(a),—
     (a) enter on a register kept by the chief executive for the purpose of this section—
       (i) the name of the person; and
       (ii) the activity that the person carries out; and
     (b) notify the person that the person’s name and the activity the person carries out have been entered on the register.
-  (4) If the chief executive receives a notice under subsection (1)(a) from a person whose name is already on the register kept in accordance with subsection (3), the chief executive need not re-enter the person’s name on the register, but must enter next to the person’s name the activity that is specified in the notice, and notify the person that the activity has been entered on the register next to the person's name.
+  (4) If the chief executive receives a notice under subsection (1)﻿(a) from a person whose name is already on the register kept in accordance with subsection (3), the chief executive need not re-enter the person’s name on the register, but must enter next to the person’s name the activity that is specified in the notice, and notify the person that the activity has been entered on the register next to the person's name.
   (1) A person who carries out an activity listed in Schedule 4, or who will do so at the time that the person’s registration takes effect, may apply to be registered as a participant in respect of the activity by application to the chief executive in accordance with subsection (2).
   (2) An application under subsection (1) must—
     (a) be in the prescribed form; and
@@ -732,11 +732,11 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (c) the date from which the applicant’s registration as a participant in respect of the activity will take effect in accordance with subsection (8).
   (6) After registering a person under subsection (5), the chief executive must notify the following persons that the person has been registered as a participant in respect of the activity and the date from which the registration will take effect:
     (a) the applicant; and
-    (b) by notice issued on the same date as the notice to the applicant, any other persons required to be notified under section 188(6)(a), 198(2)(a), 209(2)(a), or 213(2)(a), as the case may require.
+    (b) by notice issued on the same date as the notice to the applicant, any other persons required to be notified under section 188(6)﻿(a), 198(2)﻿(a), 209(2)﻿(a), or 213(2)﻿(a), as the case may require.
   (7) If the chief executive receives an application under subsection (1) in respect of an activity listed in Part 2, 3, 4, or 5 of Schedule 4, then the chief executive must, within 20 working days of receiving the application,—
     (a) decline the application; or
     (b) register the applicant under subsection (5), unless the chief executive requires further information from the applicant in order to satisfy himself or herself that the person is carrying out the activity specified in the application, in which case the chief executive must either register the person within 20 working days of receiving the further information or decline the application.
-  (8) The registration of a person takes effect from the date the person’s name is entered on the register under subsection (5) or any later date required by section 198(2)(b), 209(2)(b), or 213(2)(b).
+  (8) The registration of a person takes effect from the date the person’s name is entered on the register under subsection (5) or any later date required by section 198(2)﻿(b), 209(2)﻿(b), or 213(2)﻿(b).
   (9) If the chief executive receives an application under subsection (1) from a person whose name is already on the register kept in accordance with subsection (5), and registers the person in respect of the activity specified in the application, the chief executive need not re-enter the person’s name on the register, but must enter next to the person’s name the activity that is specified in the application, and notify the person that the activity has been entered on the register next to the person's name.
   (1) A person who is registered under section 57 as a participant in respect of an activity listed in Schedule 4 may apply to have that person’s name removed from the register in respect of the activity by application to the chief executive in accordance with subsection (2).
   (2) An application under subsection (1) must—
@@ -747,14 +747,14 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
       (i) that the applicant has applied to be removed from the register as a participant in respect of the activity; and
       (ii) the date on which the applicant’s name is to be removed in accordance with subsection (4); and
     (b) notify the applicant of the date on which the applicant’s name was, or is to be, removed from the register in accordance with subsection (4); and
-    (c) notify, by notice issued on the same date as the notice to the applicant under paragraph (b), any other persons required to be notified under section 188(7)(a)(i), 198(3)(a), 209(3)(a), or 213(3)(a), as the case may require,—
+    (c) notify, by notice issued on the same date as the notice to the applicant under paragraph (b), any other persons required to be notified under section 188(7)﻿(a)﻿(i), 198(3)﻿(a), 209(3)﻿(a), or 213(3)﻿(a), as the case may require,—
       (i) that the applicant has applied to have the applicant’s name removed from the register as a participant in respect of the activity; and
       (ii) the date that the applicant’s name was, or is to be, removed in accordance with subsection (4).
-  (4) The chief executive must remove the name of an applicant under subsection (1) from the register in respect of the activity specified in the application immediately or on any later date required by section 188(7)(a)(ii), 198(3)(b), 209(3)(b), or 213(3)(b).
+  (4) The chief executive must remove the name of an applicant under subsection (1) from the register in respect of the activity specified in the application immediately or on any later date required by section 188(7)﻿(a)﻿(ii), 198(3)﻿(b), 209(3)﻿(b), or 213(3)﻿(b).
   (1) A person who is registered under section 56 or 57 in respect of an activity listed in Schedule 3 or 4 must notify the chief executive as soon as practicable if the person ceases, or will cease, to carry out the activity.
   (2) The chief executive must, after receiving notice under subsection (1), or otherwise being satisfied that the person has ceased to carry out the activity,—
     (a) remove the name of the person from the register in respect of the activity immediately or, if the notice specifies that the person will cease the activity on a future date, on that date; and
-    (b) notify the person, and any other person specified in section 188(7)(a)(i), 198(3)(a), 209(3)(a), or 213(3)(a), as the case may require, that the person’s name—
+    (b) notify the person, and any other person specified in section 188(7)﻿(a)﻿(i), 198(3)﻿(a), 209(3)﻿(a), or 213(3)﻿(a), as the case may require, that the person’s name—
       (i) has been removed from the register in respect of the activity; or
       (ii) if the person’s name will be removed from the register in respect of the activity on a future date, that the person’s name will be removed from the register in respect of the activity on that date.
   (3) This section is subject to sections 200, 211, and 215.
@@ -786,9 +786,9 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
   (1) A participant must have a holding account for the purpose of—
     (a) surrendering units as required under this Part and Part 5; and
     (b) receiving New Zealand units to which the participant becomes entitled under this Part or Part 5.
-  (2) Despite anything in subsection (1), a person who does not have a holding account at the time the person becomes a participant complies with subsection (1) if the person complies with section 56(1)(b) or 57(3), as the case may require.
+  (2) Despite anything in subsection (1), a person who does not have a holding account at the time the person becomes a participant complies with subsection (1) if the person complies with section 56(1)﻿(b) or 57(3), as the case may require.
   (3) Despite anything in this Act, the Registrar must, subject to section 18A(5), open a holding account in the name of a person—
-    (a) who applies to open a holding account in accordance with section 56(1)(b) or 57(3); and
+    (a) who applies to open a holding account in accordance with section 56(1)﻿(b) or 57(3); and
     (b) whose name has been entered on a register kept for the purposes of section 56 or 57.
   A participant must, in respect of each activity listed in Schedule 3 or 4 that is carried out by the participant in a year,—
     (a) collect the prescribed data or other prescribed information (which data or information must, if required by regulations made under this Act, be verified by a person or organisation recognised by the chief executive under section 92); and
@@ -817,7 +817,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (e) be accompanied by the prescribed fee (if any); and
     (f) be signed by the participant.
   (3) The participant must submit the annual emissions return under subsection (1) by submitting it in the prescribed manner and format.
-  (4) Following the submission of an annual emissions return under subsection (1), a participant must, by 30 April, surrender the number of units listed in the participant’s assessment under subsection (2)(c)(i).
+  (4) Following the submission of an annual emissions return under subsection (1), a participant must, by 30 April, surrender the number of units listed in the participant’s assessment under subsection (2)﻿(c)﻿(i).
   (5) A participant who carries out an activity listed in Part 1 of Schedule 4 must submit emissions returns as set out in section 189(2).
   (1) Despite anything in this Act, a person who is a participant in respect of an activity listed in Part 2 of Schedule 4 may, within 20 working days after the following dates, submit an emissions return that complies with subsection (2):
     (a) 31 March:
@@ -845,7 +845,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (b) in the case where they relate to an activity listed in Part 1 of Schedule 3 or 4, be retained for a period of at least 20 years after the end of the year to which they relate; and
     (c) in every other case, be retained for a period of at least 7 years after the end of the year to which they relate.
   In this subpart,—
-    - **determination** means a determination made by the Minister under section 82(7)(b)
+    - **determination** means a determination made by the Minister under section 82(7)﻿(b)
     - **draft determination** means a draft determination made by the Minister under section 82(4)
     - **eligible land** means pre-1990 forest land other than land that has been declared to be exempt land under section 183 or 184
     - **eligible person** means a person who meets any requirements specified in this subpart, and in an allocation plan, for receiving an allocation of New Zealand units free of charge
@@ -873,7 +873,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (a) publish a copy of the direction in the Gazette; and
     (b) make a copy of the direction accessible via the Internet site of the department of the chief executive responsible for the administration of this Act; and
     (c) present a copy of the direction to the House of Representatives.
-  (5) The copies of the direction under subsection (4) must be accompanied by a statement setting out how the Minister has had regard to the matters specified in subsection (2)(b) and (c).
+  (5) The copies of the direction under subsection (4) must be accompanied by a statement setting out how the Minister has had regard to the matters specified in subsection (2)﻿(b) and (c).
   (1) The Minister must recommend that the Governor-General make an Order in Council containing notification of the Crown's intentions to issue and sell or allocate free of charge New Zealand units at least 9 months before the end of each of the following periods:
     (a) the first commitment period and each subsequent commitment period (if any); and
     (b) if there is no subsequent commitment period,—
@@ -890,7 +890,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
   (2) The matters that an allocation plan must provide for are—
     (a) an allocation of New Zealand units free of charge to—
       (i) landowners, or former landowners, of eligible land who are eligible persons; or
-      (ii) a person appointed in accordance with section 72 to hold any New Zealand units allocated in respect of the eligible land covered in paragraph (c)(i)(A); and
+      (ii) a person appointed in accordance with section 72 to hold any New Zealand units allocated in respect of the eligible land covered in paragraph (c)﻿(i)﻿(A); and
     (b) a total number of New Zealand units available for allocation free of charge under the allocation plan consisting of—
       (i) 21 million New Zealand units in the period from 1 January 2008 to 31 December 2012, reduced by 1 New Zealand unit for each tonne of emissions that the Minister estimates will result from the activities specified in subsection (5) in that period; and
       (ii) 34 million New Zealand units in the period from 1 January 2013 to 31 December 2021, reduced by 1 New Zealand unit for each tonne of emissions that the Minister estimates will result from the activities specified in subsection (5) in that period; and
@@ -901,27 +901,27 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
       (ii) 39 New Zealand units for each hectare of eligible land that was transferred to the landowner, or former landowner, of the land—
         (A) after 31 October 2002; or
         (B) prior to 1 November 2002 if, since that date, ownership of any body corporate owning the land has changed in the manner and to the extent specified in the allocation plan:
-      (iii) for any hectare of eligible land not covered in subparagraph (i) or (ii), the number of New Zealand units calculated in accordance with the following formula: A=B − C D whereAis the number of units for each hectare of eligible land not covered in subparagraph (i) or (ii)Bis the total number of New Zealand units available for allocation under subsection (2)(b)Cis the total number of New Zealand units to be allocated in accordance with subparagraph (i) and (ii)Dis the number of hectares of eligible land not covered in subparagraph (i) or (ii).
+      (iii) for any hectare of eligible land not covered in subparagraph (i) or (ii), the number of New Zealand units calculated in accordance with the following formula: A=B − C D whereAis the number of units for each hectare of eligible land not covered in subparagraph (i) or (ii)Bis the total number of New Zealand units available for allocation under subsection (2)﻿(b)Cis the total number of New Zealand units to be allocated in accordance with subparagraph (i) and (ii)Dis the number of hectares of eligible land not covered in subparagraph (i) or (ii).
   (3) In addition to the matters provided for in subsection (2), an allocation plan—
-    (a) must also specify the manner in which, and the extent to which, the ownership of any body corporate owning eligible land must have changed for the purposes of subsection (2)(c)(ii)(B); and
+    (a) must also specify the manner in which, and the extent to which, the ownership of any body corporate owning eligible land must have changed for the purposes of subsection (2)﻿(c)﻿(ii)﻿(B); and
     (b) may specify, for the purposes of subsection (7), a date or event other than the settlement date upon which any or all eligible land is to be treated as transferred for the purposes of this section.
-  (4) Despite subsection (2)(c), the allocation plan must treat any Crown forest licence land transferred pursuant to the Te Uri o Hau Claims Settlement Act 2002 as if it were eligible land covered by subsection (2)(c)(iii).
-  (5) For the purposes of subsection 2(b)(i) and (ii), the activities are—
+  (4) Despite subsection (2)﻿(c), the allocation plan must treat any Crown forest licence land transferred pursuant to the Te Uri o Hau Claims Settlement Act 2002 as if it were eligible land covered by subsection (2)﻿(c)﻿(iii).
+  (5) For the purposes of subsection 2(b)﻿(i) and (ii), the activities are—
     (a) deforestation on exempt land; and
     (b) deforestation of 2 hectares or less of pre-1990 forest land for which no obligation to surrender units is imposed under this Act.
   (6) An allocation plan that provides for the matters in this section may—
-    (a) provide for the New Zealand units referred to in subsection (2)(b)(ii) to be allocated at any time; and
+    (a) provide for the New Zealand units referred to in subsection (2)﻿(b)﻿(ii) to be allocated at any time; and
     (b) specify dates before which some or all of those New Zealand units may not be surrendered or converted by any person.
   (7) For the purposes of this section, eligible land is to be treated as transferred on the settlement date, unless the allocation plan specifies another date or event upon which any or all eligible land is to be treated as transferred.
   (8) For the purposes of this section, Crown forest licence land means eligible land subject to a Crown forestry licence under section 14 of the Crown Forest Assets Act 1989.
-  (1) The Minister must, prior to making a determination in respect of eligible land covered by section 71(2)(c)(i)(A), by notice in the Gazette,—
+  (1) The Minister must, prior to making a determination in respect of eligible land covered by section 71(2)﻿(c)﻿(i)﻿(A), by notice in the Gazette,—
     (a) appoint a person to—
       (i) apply for an allocation of New Zealand units in respect of the land; and
       (ii) hold on trust for the future owners of the land any New Zealand units allocated in respect of the land; and
     (b) determine—
       (i) the structure, composition, and functions of the person; and
       (ii) the terms and conditions upon which the person is to hold the New Zealand units.
-  (2) If the Minister has not appointed a person in accordance with subsection (1) prior to issuing a notice under section 82(1) inviting persons to apply for an allocation of New Zealand units under an allocation plan providing for the matters in section 71, then the Minister must, by notice in the Gazette, appoint a person to apply for an allocation of New Zealand units in respect of the land covered by section 71(2)(c)(i)(A) on behalf of the person to be appointed under subsection (1).
+  (2) If the Minister has not appointed a person in accordance with subsection (1) prior to issuing a notice under section 82(1) inviting persons to apply for an allocation of New Zealand units under an allocation plan providing for the matters in section 71, then the Minister must, by notice in the Gazette, appoint a person to apply for an allocation of New Zealand units in respect of the land covered by section 71(2)﻿(c)﻿(i)﻿(A) on behalf of the person to be appointed under subsection (1).
   (1) The Minister must exercise his or her powers under this subpart to ensure that an allocation plan that provides for the matters in this section and section 78(2) is in force for each of the following periods—
     (a) the first commitment period:
     (b) each subsequent commitment period, but expiring no later than 31 December 2029:
@@ -949,7 +949,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
       (ii) if the person does compete with firms that operate from outside New Zealand, whether the person—
         (A) faces higher costs in respect of the person’s emissions than the firm or firms with which the person competes face in respect of their emissions; and
         (B) is unable to pass-on some or all of the person’s costs due to the competition the person faces.
-  (3) If, after 31 December 2018, a person becomes eligible for an allocation of New Zealand units in accordance with an allocation plan providing for the matters in this section, the allocation plan may provide for the matters in subsection (2)(c) as if the person had been eligible for an allocation of New Zealand units in accordance with an allocation plan providing for the matters in this section that was in force in 2018.
+  (3) If, after 31 December 2018, a person becomes eligible for an allocation of New Zealand units in accordance with an allocation plan providing for the matters in this section, the allocation plan may provide for the matters in subsection (2)﻿(c) as if the person had been eligible for an allocation of New Zealand units in accordance with an allocation plan providing for the matters in this section that was in force in 2018.
   (4) Nothing in subsection (3) entitles a person who becomes an eligible person after 31 December 2018 to an allocation of New Zealand units free of charge in any year before the year in which the person becomes an eligible person.
   (1) The Minister must establish a fund (the Innovation Fund) for the purpose of facilitating deployment of innovative technology that significantly reduces or avoids, or has the potential to significantly reduce or avoid, greenhouse gas emissions from the industrial sector, or a part of the industrial sector.
   (2) The Innovation Fund consists of the New Zealand units allocated to it in accordance with subsection (4).
@@ -966,10 +966,10 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (b) may, if the Innovation Fund is continued after 31 December 2012, provide for any number of New Zealand units available for allocation under the plan to be allocated to the Innovation Fund.
   (5) The Minister may make grants of New Zealand units from the Innovation Fund.
   (6) Grants under subsection (5) must be made available on a contestable basis—
-    (a) to persons who meet the requirements of section 73(2)(a)(i) and—
-      (i) meet the requirements of section 73(2)(a)(iii), but are not receiving an allocation of New Zealand units in accordance with an allocation plan; or
+    (a) to persons who meet the requirements of section 73(2)﻿(a)﻿(i) and—
+      (i) meet the requirements of section 73(2)﻿(a)﻿(iii), but are not receiving an allocation of New Zealand units in accordance with an allocation plan; or
       (ii) carry out an activity listed in Part 4 of Schedule 3 or Part 4 of Schedule 4, but are not receiving an allocation of New Zealand units in accordance with an allocation plan in respect of that activity; or
-      (iii) face cost increases in respect of the matters referred to in section 73(2)(a)(iii)(B), but are not receiving an allocation of New Zealand units in accordance with an allocation plan in respect of those costs; and
+      (iii) face cost increases in respect of the matters referred to in section 73(2)﻿(a)﻿(iii)﻿(B), but are not receiving an allocation of New Zealand units in accordance with an allocation plan in respect of those costs; and
     (b) in accordance with any criteria the Minister considers appropriate.
   (7) If in any year the number of New Zealand units in the Innovation Fund are not fully granted and the Innovation Fund—
     (a) is to continue in the following year, the remaining New Zealand units may be granted under subsection (5) in any subsequent year in which the Innovation Fund is continued; or
@@ -998,21 +998,21 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
       (i) persons who—
         (A) meet any tests or thresholds that are specified in the allocation plan; and
         (B) subject to subsection (3), in any year or years specified in the allocation plan, are participants in respect of an activity listed in Part 5 of Schedule 3 or Part 5 of Schedule 4, or are not participants in respect of an activity listed in Part 5 of Schedule 3, but who farm, raise, grow, or keep ruminant animals, pigs, horses, or poultry for reward or for the purpose of trade in those animals or in animal material or animal products taken or derived from those animals, or who purchase, other than for on-selling, synthetic fertiliser containing nitrogen; or
-      (ii) bodies corporate or trusts representing the persons specified in subparagraph (i)(B); and
+      (ii) bodies corporate or trusts representing the persons specified in subparagraph (i)﻿(B); and
     (b) if the allocation plan is in force in any year from 1 January 2013 to 31 December 2018, a total number of New Zealand units available for allocation free of charge under the allocation plan, in each year that the allocation plan is in force, consisting of 90 New Zealand units for each 100 tonnes of emissions that the Minister is satisfied resulted from the activities listed in Part 5 of Schedule 3 in 2005; and
     (c) if the allocation plan is in force in any year from 1 January 2019 to 31 December 2029, a total number of New Zealand units available for allocation free of charge under the allocation plan that is equal to eleven-twelfths of N in 2019, and then declining in each subsequent year at a linear rate to reach a number equal to one-twelfth of N in 2029, where N equals the number of New Zealand units available for allocation under paragraph (b) in 2018.
-  (3) Despite subsection (2)(a)(i)(B), an allocation plan may only provide for an allocation of New Zealand units to one or the other, but not both, of the following persons:
+  (3) Despite subsection (2)﻿(a)﻿(i)﻿(B), an allocation plan may only provide for an allocation of New Zealand units to one or the other, but not both, of the following persons:
     (a) persons who are participants in respect of an activity listed in Part 5 of Schedule 3 or Part 5 of Schedule 4; or
     (b) persons who are not participants in respect of an activity listed in Part 5 of Schedule 3, but who farm, raise, grow, or keep ruminant animals, pigs, horses, or poultry for reward or for the purpose of trade in those animals or in animal material or animal products taken or derived from those animals, or who purchase, other than for on-selling, synthetic fertiliser containing nitrogen.
   (1) An allocation plan may not provide for an allocation of New Zealand units free of charge to any person other than a person specified in sections 71 to 76.
   (2) Nothing in this subpart requires—
     (a) an allocation plan to provide for the allocation free of charge of the total number of New Zealand units available for allocation under the allocation plan; and
     (b) the Minister, in making a determination, to allocate the total number of New Zealand units available for allocation under an allocation plan unless required to do so by the allocation plan.
-  (3) Despite section 71(2)(a), 73(2)(a), 75(2)(a), or 76(2)(a), a draft allocation plan, or an allocation plan,—
+  (3) Despite section 71(2)﻿(a), 73(2)﻿(a), 75(2)﻿(a), or 76(2)﻿(a), a draft allocation plan, or an allocation plan,—
     (a) is not required to specify—
       (i) the identity of persons who are eligible to receive an allocation of New Zealand units; or
       (ii) the amount of any person’s allocation; and
-    (b) may, in accordance with section 78(2) or 79(2)(b), specify the criteria, methodologies, and other things that the Minister must apply to make a determination specifying—
+    (b) may, in accordance with section 78(2) or 79(2)﻿(b), specify the criteria, methodologies, and other things that the Minister must apply to make a determination specifying—
       (i) the identity of each eligible person; and
       (ii) the amount of each eligible person’s allocation.
   (1) Before recommending that an allocation plan be issued, the Minister must prepare a draft allocation plan.
@@ -1051,12 +1051,12 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
   (3) An allocation plan providing for the matters in—
     (a) section 71 comes into force on the day after it is presented to the House of Representatives:
     (b) section 73, 75, or 76 comes into force 15 sitting days after it is presented to the House of Representatives unless the House resolves, in that period, to disapply the allocation plan.
-  (4) If Parliament is dissolved or expires before the end of the period of sitting days within which the House of Representatives must resolve to disapply an allocation plan under subsection (3)(b), and the House has not, by that time, resolved to disapply the allocation plan, then the allocation plan comes into force on the day the House is dissolved or expires.
+  (4) If Parliament is dissolved or expires before the end of the period of sitting days within which the House of Representatives must resolve to disapply an allocation plan under subsection (3)﻿(b), and the House has not, by that time, resolved to disapply the allocation plan, then the allocation plan comes into force on the day the House is dissolved or expires.
   (1) For the purpose of correcting any minor mistakes or defects in an allocation plan, the Minister may, without complying with section 78, recommend that the Governor-General revoke that allocation plan and replace it with a corrected allocation plan.
   (2) A corrected allocation plan—
     (a) comes into force at the time it is issued; and
     (b) must, for advisory purposes, be presented to the House of Representatives as soon as practicable after it is issued; and
-    (c) to avoid doubt, may not be disapplied by the House of Representatives under section 79(3)(b).
+    (c) to avoid doubt, may not be disapplied by the House of Representatives under section 79(3)﻿(b).
   (3) The Minister must, as soon as practicable after an allocation plan or a corrected allocation plan comes into force, ensure that—
     (a) the allocation plan or corrected allocation plan is made available in hard copy at the office of, and is accessible via the Internet site of, the department of the chief executive responsible for the administration of the Act; and
     (b) the allocation plan or corrected allocation plan is published in whatever other form the Minister considers appropriate; and
@@ -1094,11 +1094,11 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (c) that the person has an opportunity to identify any errors, mistakes, or miscalculations that have been made in the application of the criteria and methodologies to make the draft determination; and
     (d) if the person identifies any errors, mistakes, or miscalculations, that the person may provide the Minister with information concerning what the person considers should be the correct application of the criteria and methodologies; and
     (e) of the date by which the person must supply the information (which date must not be earlier than 20 working days after the date on which notice is given).
-  (6) The Minister may consult further with any person the Minister thinks fit either before or after the expiry of the period specified in subsection (5)(e) for providing information.
+  (6) The Minister may consult further with any person the Minister thinks fit either before or after the expiry of the period specified in subsection (5)﻿(e) for providing information.
   (7) Taking into account any information supplied under subsection (5), and any consultation under subsection (6), the Minister must—
     (a) make a new draft determination under subsection (4); or
     (b) make a determination of the matters specified in subsection (4).
-  (8) As soon as practicable after making a determination under subsection (7)(b), the Minister must—
+  (8) As soon as practicable after making a determination under subsection (7)﻿(b), the Minister must—
     (a) publish the determination in the Gazette; and
     (b) make the determination accessible via the Internet site of the department of the chief executive responsible for the administration of this Act; and
     (c) provide for the transfer of New Zealand units to each eligible person in accordance with the determination.
@@ -1114,10 +1114,10 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (a) by notice to the person (which notice must specify that the records, data, or information supplied are subject to the Official Information Act 1982); and
     (b) in accordance with any relevant policies, procedures, and provisions specified in the applicable allocation plan.
   (3) A person who—
-    (a) receives a notice issued under subsection (2)(a) must supply the records, data, or information requested within the time frame specified in the notice; and
+    (a) receives a notice issued under subsection (2)﻿(a) must supply the records, data, or information requested within the time frame specified in the notice; and
     (b) fails to respond within the specified time frame for supply of records, data, or information under subsection 2(a) may—
       (i) not receive any further allocation of New Zealand units until the person supplies the information; and
-      (ii) commit an offence under section 131(1)(a) or 133(1)(d) as if the reference to the chief executive in those sections were to the Minister, and the reference to section 94 in section 131(1)(a) was to this section.
+      (ii) commit an offence under section 131(1)﻿(a) or 133(1)﻿(d) as if the reference to the chief executive in those sections were to the Minister, and the reference to section 94 in section 131(1)﻿(a) was to this section.
   (1) The Minister may (but is not required to) revoke and replace any existing determination with a new determination at any time if—
     (a) the allocation plan under which the existing determination was made has been revoked and replaced with a new allocation plan; or
     (b) the existing determination has resulted, or will result, in a person receiving an incorrect allocation owing to—
@@ -1128,18 +1128,18 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (e) a person who is not specified as an eligible person under the existing determination has—
       (i) reasonable grounds to believe that he or she is an eligible person; and
       (ii) applied to the Minister for an allocation in accordance with the applicable allocation plan.
-  (2) However, the Minister may only make a new determination in accordance with an allocation plan that provides for the matters in section 71 if subsection (1)(a) or (b) applies.
+  (2) However, the Minister may only make a new determination in accordance with an allocation plan that provides for the matters in section 71 if subsection (1)﻿(a) or (b) applies.
   (3) In making a new determination, the Minister must,—
     (a) if the Minister considers that he or she has sufficient information to make the new determination of the matters specified in section 82(4), comply with subsection (4); or
     (b) if the Minister considers that he or she does not have sufficient information to make the new determination of the matters specified in section 82(4), follow the process in section 82, except that the reference to—
-      (i) 40 working days in section 82(2)(c) must be read as 20 working days; and
-      (ii) 20 working days in section 82(5)(e) must be read as 10 working days.
-  (4) If subsection (3)(a) applies, the Minister must—
+      (i) 40 working days in section 82(2)﻿(c) must be read as 20 working days; and
+      (ii) 20 working days in section 82(5)﻿(e) must be read as 10 working days.
+  (4) If subsection (3)﻿(a) applies, the Minister must—
     (a) give notice of the matters specified in section 82(5) to the following persons:
       (i) persons specified as eligible persons under the existing determination who would, once the new determination replaces the existing determination, receive greater or fewer New Zealand units than if the new determination did not replace the existing determination; and
       (ii) persons not specified as eligible persons under the existing determination whom the new determination specifies as eligible persons; and
     (b) comply with section 82(6) to (8) as if the notice given under paragraph (a) had been given under section 82(5).
-  (5) If the Minister has provided notice of the matters specified in section 82(5) in accordance with subsection (4), the reference to 20 working days in section 82(5)(e) must be read as 10 working days.
+  (5) If the Minister has provided notice of the matters specified in section 82(5) in accordance with subsection (4), the reference to 20 working days in section 82(5)﻿(e) must be read as 10 working days.
   (6) Any new determination made in accordance with subsection (3)—
     (a) may specify all of the matters specified in section 82(4), and may—
       (i) specify the correct allocation of a person whose allocation is specified incorrectly in the existing determination; or
@@ -1162,7 +1162,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
   (6) If a new determination shows that a person received more New Zealand units than the person was entitled to receive under a revoked determination, and the person’s incorrect allocation was due to the person providing altered, false, incomplete or misleading information in response to a notice issued under section 82(2) or 82(5), then the chief executive may give a notice to the person under section 125(1) specifying the number of New Zealand units the person received that the person was not entitled to, and requiring the person to repay that number of New Zealand units in accordance with section 125(2).
   (1) By the end of the true-up period, the Minister must ensure that the Crown holds, in any Crown holding account in the Registry, or in any retirement or surrender account, a number of Kyoto units equal to the number of New Zealand units issued into a Crown holding account during the first commitment period but not including New Zealand units that are, during the first commitment period,—
     (a) transferred to a conversion account in accordance with section 30E; or
-    (b) allocated to pre-1990 forest land owners in accordance with section 71(2)(b)(ii) and that have not been transferred to a cancellation account; or
+    (b) allocated to pre-1990 forest land owners in accordance with section 71(2)﻿(b)﻿(ii) and that have not been transferred to a cancellation account; or
     (c) transferred to a cancellation account.
   (2) Subsection (3) applies if New Zealand has received, or if the Minister expects New Zealand to receive, units under—
     (a) the Protocol during a subsequent commitment period; or
@@ -1170,7 +1170,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
   (3) If this subsection applies the Governor-General may, by Order in Council made on the recommendation of the Minister, specify a date by which the Crown must hold, in any Crown holding account in the Registry, or in any retirement or surrender account, a number of Kyoto units or approved overseas units received under any international agreement as calculated under subsection (4).
   (4) The number of Kyoto or approved overseas units held in accordance with subsection (3) must be equal to the number of New Zealand units issued into a Crown holding account up to the date specified in the order but not including New Zealand units that up to the date specified in the order are—
     (a) transferred to a conversion account in accordance with section 30E; or
-    (b) allocated to pre-1990 forest land owners in accordance with section 71(2)(b)(ii) and that have not been transferred to a cancellation account and are held subject to section 71(6)(b); or
+    (b) allocated to pre-1990 forest land owners in accordance with section 71(2)﻿(b)﻿(ii) and that have not been transferred to a cancellation account and are held subject to section 71(6)﻿(b); or
     (c) transferred to a cancellation account.
   (5) If an order is made under subsection (3), the Minister must ensure that the Crown holds the required number of units by the date specified in the order.
   (6) For the purposes of subsection (1), true-up period means the 100 days, beginning on a date determined by the Conference of the Parties (acting as the Meeting of the Parties to the Protocol), providing Parties with an additional period for fulfilment of their obligation under Article 3.1 of the Protocol.
@@ -1208,7 +1208,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
   (2) The chief executive—
     (a) must publish the information specified in subsection (1) by 30 June in each year; and
     (b) may publish the information specified in subsection (1), in whole or in part, at any other time and in whatever manner and format that the chief executive considers appropriate.
-  (3) The chief executive is not required to publish the information required under subsection (1)(e) in respect of an activity if the chief executive is satisfied that publishing the information would result in the disclosure of a participant’s individual emissions, unless—
+  (3) The chief executive is not required to publish the information required under subsection (1)﻿(e) in respect of an activity if the chief executive is satisfied that publishing the information would result in the disclosure of a participant’s individual emissions, unless—
     (a) the participant to whom the information relates has consented to the publication of the information; or
     (b) the information is already in the public domain.
   (1) The chief executive may, for the purposes of this Part and Part 5, prescribe—
@@ -1304,7 +1304,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (b) the purpose for which the entry is required; and
     (c) that the entry is authorised under this section.
   (5) An enforcement officer who exercises the power of investigation under this section may be accompanied by any person or persons reasonably necessary to assist the enforcement officer with the investigation.
-  (6) A person who provides assistance under subsection (5) may exercise the powers provided to enforcement officers under subsection (2)(a) to (c).
+  (6) A person who provides assistance under subsection (5) may exercise the powers provided to enforcement officers under subsection (2)﻿(a) to (c).
   (7) Nothing in this section limits the privilege against self-incrimination.
   (1) A District Court Judge, Justice of the Peace, Community Magistrate, or Registrar of any court who, on written application made on oath by an enforcement officer authorised by the chief executive, is satisfied that there are reasonable grounds to believe that there are in or on or under or over any land, premises, dwellinghouse, or marae any documents or other records or things (including samples) that may be evidence of the commission of an offence under section 129, 132, or 133 may issue a warrant authorising the entry and search of the land, premises, dwellinghouse, or marae.
   (2) Every search warrant may authorise the enforcement officer executing the warrant to do any of the following things:
@@ -1317,7 +1317,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (e) use any force to enter (whether by breaking doors or otherwise) that is reasonable in the circumstances:
     (f) carry out surveys, investigations, tests, inspections, or measurements (including those that involve leaving measuring equipment on the land or premises).
   (3) An enforcement officer may not enter a dwellinghouse or marae unless that enforcement officer is accompanied by a member of the police.
-  (4) A person who provides assistance under subsection (2)(d) may exercise the powers provided to enforcement officers under subsection (2)(a), (b), (c), and (f).
+  (4) A person who provides assistance under subsection (2)﻿(d) may exercise the powers provided to enforcement officers under subsection (2)﻿(a), (b), (c), and (f).
   If powers are exercised under section 100 or 101, an enforcement officer must, on initial entry, and if asked by the occupier at any time afterward, produce for inspection—
     (a) the enforcement officer’s warrant of authorisation and evidence of his or her identity; and
     (b) any notice given under section 100(3) or a search warrant issued under section 101, as the case may be.
@@ -1345,8 +1345,8 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
       (i) is doing is an activity listed in Schedule 3 or 4; or
       (ii) proposes to do would be an activity listed in Schedule 3 or 4:
     (b) whether the person is a participant in respect of an activity listed in Schedule 3 or is eligible to register as a participant in respect of an activity listed in Schedule 4:
-    (c) the correct application of any provision contained in regulations made under section 163(1)(a) to (c) in respect of a particular matter specified in the person’s application:
-    (d) any other matters prescribed in regulations made under section 168(1)(b).
+    (c) the correct application of any provision contained in regulations made under section 163(1)﻿(a) to (c) in respect of a particular matter specified in the person’s application:
+    (d) any other matters prescribed in regulations made under section 168(1)﻿(b).
   (2) Every application under subsection (1) must—
     (a) be in the prescribed form; and
     (b) state the name and address of the applicant; and
@@ -1430,7 +1430,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
   (4) A final emissions return submitted under subsection (2) or (3) must—
     (a) contain all of the information required in an annual emissions return under section 65(2), but only for the period specified by the chief executive, or if the return is made under subsection (3), the period determined by the submitter; and
     (b) be submitted in accordance with section 65(3).
-  (5) Following the submission of a final emissions return under this section, the person submitting the return must, within 20 working days, surrender the number of units in the assessment under section 65(2)(c)(i).
+  (5) Following the submission of a final emissions return under this section, the person submitting the return must, within 20 working days, surrender the number of units in the assessment under section 65(2)﻿(c)﻿(i).
   The chief executive may extend the time for the submission of an emissions return by a period of no more than 20 working days if—
     (a) the participant has applied for an extension before the date upon which the emissions return is due; and
     (b) the chief executive is satisfied that the participant is unable to submit the required emissions return by the due date.
@@ -1444,7 +1444,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (a) the particulars of the amendment or assessment; and
     (b) any grounds or information upon which the amendment or assessment was based; and
     (c) the right of the person to seek a review of the decision under section 144.
-  (2) A notice under subsection (1) must, if relevant, be accompanied by a penalty notice under section 134(3)(b).
+  (2) A notice under subsection (1) must, if relevant, be accompanied by a penalty notice under section 134(3)﻿(b).
   (3) If the amendment or assessment results in a liability for the person to surrender units or any additional units, the participant must surrender those units within 90 days after the date of the notice under subsection (1).
   (4) If the amendment shows that a participant has surrendered too many units, the chief executive must, within 20 working days after the date of the notice under subsection (1), arrange for reimbursement to the participant, in accordance with section 124, of the number of units incorrectly surrendered.
   (5) If the amendment or assessment results in an entitlement for a participant to receive New Zealand units for the participant’s removal activities, the chief executive must notify the Minister of Finance under section 64(2) of the entitlement.
@@ -1465,7 +1465,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
   (2) A person who receives a notice under subsection (1) must—
     (a) repay any units transferred in error that are still in the person’s holding account, or are otherwise under the person's control, by transferring those units as soon as practicable to the Crown holding account designated in the notice; and
     (b) if not all the units transferred in error are repaid under paragraph (a), repay, within 30 working days of the date of the notice, the outstanding number of units by transferring units to the Crown holding account designated in the notice.
-  (3) Units repaid by any person under subsection (2)(b) must be of a type that may be transferred to a surrender account at the time the unit is repaid.
+  (3) Units repaid by any person under subsection (2)﻿(b) must be of a type that may be transferred to a surrender account at the time the unit is repaid.
   (1) The obligation to surrender or repay units under section 123 or 125 is not suspended by any review or legal proceedings.
   (2) If the applicant for a review or the appellant in proceedings is successful in the review or the proceedings, the chief executive must arrange for the reimbursement to the applicant or appellant of the number of units surrendered or repaid in excess of those that are determined to be required to be surrendered or repaid.
   (3) However, any obligation on the chief executive under subsection (2) is suspended pending the outcome of any appeal filed by the chief executive under section 146.
@@ -1513,7 +1513,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (f) knowingly provides altered, false, incomplete, or misleading information (including emissions returns) to the chief executive or any other person in respect of any matter in this Part or Part 5; or
     (g) wilfully obstructs, hinders, resists, or deceives a person exercising a power conferred on that person under this Part or Part 5; or
     (h) wilfully interferes with any survey, investigation, test, or measurement carried out by an enforcement officer or a person assisting an enforcement officer under section 100; or
-    (i) refuses to provide information that an enforcement officer has demanded from that person under section 100(2)(d).
+    (i) refuses to provide information that an enforcement officer has demanded from that person under section 100(2)﻿(d).
   (2) Every person who is convicted of an offence against subsection (1) is liable on summary conviction,—
     (a) in the case of an individual, to a fine not exceeding $25,000; or
     (b) in the case of a body corporate, to a fine not exceeding $50,000.
@@ -1536,24 +1536,24 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
   (2) Subject to section 135, if this section applies, the person is liable to—
     (a) surrender or repay the units as required under the relevant section; and
     (b) pay to the chief executive an excess emissions penalty of $30 for each unit that,—
-      (i) if subsection (1)(a) applies, the person fails to surrender by the due date; or
-      (ii) if subsection (1)(b) applies, the person is required to surrender under section 123(3) or repay under section 123(6); or
-      (iii) if subsection (1)(c) applies, the person fails to repay by the due date.
+      (i) if subsection (1)﻿(a) applies, the person fails to surrender by the due date; or
+      (ii) if subsection (1)﻿(b) applies, the person is required to surrender under section 123(3) or repay under section 123(6); or
+      (iii) if subsection (1)﻿(c) applies, the person fails to repay by the due date.
   (3) If a person is liable to an excess emissions penalty under subsection (2), the chief executive must give a notice to the person that,—
-    (a) if subsection (1)(a) or (c) applies,—
+    (a) if subsection (1)﻿(a) or (c) applies,—
       (i) refers to the person’s failure to surrender units by the due date as required under section 65(4), 118(5), 189, 191, or 193, as applicable, or repay units by the due date under section 125; and
       (ii) sets out the number of units required to be surrendered or repaid; and
-      (iii) sets out the amount of the excess emissions penalty to which the person is liable under subsection (2)(b); and
+      (iii) sets out the amount of the excess emissions penalty to which the person is liable under subsection (2)﻿(b); and
       (iv) requires the person to surrender or repay the units specified in subparagraph (ii), and pay the penalty specified in subparagraph (iii) to the chief executive, within 20 working days of the date of the notice; and
       (v) advises that, unless both the units are surrendered or repaid and the penalty paid in full by the due date, interest on the amount of the penalty will accrue in accordance with section 137; or
-    (b) if subsection (1)(b) applies,—
+    (b) if subsection (1)﻿(b) applies,—
       (i) refers to the relevant notice under section 123(1); and
-      (ii) sets out the amount of the excess emissions penalty to which the person is liable under subsection (2)(b); and
+      (ii) sets out the amount of the excess emissions penalty to which the person is liable under subsection (2)﻿(b); and
       (iii) requires the person to pay the penalty specified in subparagraph (ii) within the period in which the person must surrender units under section 123(3) or repay units under section 123(6); and
       (iv) advises that, unless both the units are surrendered or repaid and the penalty paid in full by the due date, interest on the amount of the penalty will accrue in accordance with section 137.
   (4) The amount of the excess emissions penalty, together with any interest that accrues on that penalty, constitutes a debt due to the Crown and is recoverable by the chief executive in a court of competent jurisdiction.
-  (1) The chief executive may reduce the excess emissions penalty imposed by section 134(2)(b)(i) or (iii) by up to 100%, if the person voluntarily discloses the failure to surrender or repay units before receiving a penalty notice under section 134.
-  (2) The chief executive may reduce the excess emissions penalty imposed by section 134(2)(b)(ii) by up to 100%, if—
+  (1) The chief executive may reduce the excess emissions penalty imposed by section 134(2)﻿(b)﻿(i) or (iii) by up to 100%, if the person voluntarily discloses the failure to surrender or repay units before receiving a penalty notice under section 134.
+  (2) The chief executive may reduce the excess emissions penalty imposed by section 134(2)﻿(b)﻿(ii) by up to 100%, if—
     (a) the person voluntarily disclosed that an emissions return submitted by the person contained incorrect information, or that the person failed to file a return when required to do so, before the chief executive or an enforcement officer—
       (i) requested any information under section 94 or 95 in relation to the return; or
       (ii) gave notice of an intention to enter land or premises under section 100(3); or
@@ -1561,7 +1561,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (b) the chief executive is satisfied that the person formed a view as to the information on which the return was based or as to whether a return was required, that, while incorrect, was reasonable, having regard to the information available to that person at the time the emissions return was required.
   (1) This section applies to a person who—
     (a) is or was liable following an amendment under section 120 or an assessment under section 121 to surrender units (or additional units) or to repay units, in respect of any period covered by, or that should have been covered by, an emissions return; and
-    (b) is convicted of an offence against section 132(1)(c) to (f) or 133 in relation to that period.
+    (b) is convicted of an offence against section 132(1)﻿(c) to (f) or 133 in relation to that period.
   (2) If this section applies, the person is liable, in addition to any penalty imposed in respect of the offence, to—
     (a) surrender a number of units equivalent to the number of units determined by the chief executive in the amendment under section 120 or the assessment under section 121, or in any review or appeal proceedings relating to that determination; and
     (b) pay an excess emissions penalty of $30 for each unit the person is liable to surrender under paragraph (a).
@@ -1574,8 +1574,8 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
   (4) To avoid doubt, any liability to surrender units or pay a penalty under subsection (2) is additional to, and does not affect, the liability of a person to surrender or repay units under any other section of this Act or to pay a penalty under a penalty notice given by the chief executive under section 134.
   (5) The amount of the excess emissions penalty, together with any interest that accrues on that penalty, constitutes a debt due to the Crown and is recoverable by the chief executive in a court of competent jurisdiction.
   (1) This section applies if a person—
-    (a) has failed to surrender or repay units when required to do so and is liable to pay an excess emissions penalty in relation to those units under section 134(2)(b)(i) or (iii); or
-    (b) is required to surrender or repay units under section 123 and is liable to pay an excess emissions penalty in relation to those units under section 134(2)(b)(ii); or
+    (a) has failed to surrender or repay units when required to do so and is liable to pay an excess emissions penalty in relation to those units under section 134(2)﻿(b)﻿(i) or (iii); or
+    (b) is required to surrender or repay units under section 123 and is liable to pay an excess emissions penalty in relation to those units under section 134(2)﻿(b)﻿(ii); or
     (c) is required to surrender units and pay an excess emissions penalty under section 136; or
     (d) does not comply, or comply in full, with the requirement to surrender or repay units and to pay the penalty by the relevant date.
   (2) If this section applies, the person is liable to pay interest on the full amount of the excess emissions penalty—
@@ -1598,7 +1598,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
   (1) The obligation to pay and the right to receive and recover any excess emissions penalty or interest imposed under section 134, 136, or 137, and the obligation to surrender any additional units under section 136, are not suspended by any review or appeal.
   (2) If the applicant or appellant is successful in the review or appeal, the amount of any excess emissions penalty or interest paid by the applicant must be refunded to the applicant or appellant by the chief executive, and any units not required to be surrendered must be reimbursed in accordance with the procedure specified in section 124.
   (3) However, any obligation on the chief executive under subsection (2) is suspended pending the outcome of any appeal filed under section 146.
-  (4) The chief executive must pay interest on any refunded excess emissions penalty and interest calculated in accordance with the following formula:((X × Y) ÷ 365) × Zwhere—Xis the number of days in the period that—Yis the amount of penalty and interest that, having been paid, is caused to be refunded in accordance with the outcome of a successful appeal; andZis the rate of interest specified by the Governor-General by Order in Council made under section 137(2)(a).
+  (4) The chief executive must pay interest on any refunded excess emissions penalty and interest calculated in accordance with the following formula:((X × Y) ÷ 365) × Zwhere—Xis the number of days in the period that—Yis the amount of penalty and interest that, having been paid, is caused to be refunded in accordance with the outcome of a successful appeal; andZis the rate of interest specified by the Governor-General by Order in Council made under section 137(2)﻿(a).
     (a) commences on the day on which the relevant penalty is lodged to the credit of the chief executive; and
     (b) ends on the day on which the relevant penalty is refunded by the chief executive; and
   If, in the course of proceedings against a body corporate for an offence under this Part, it is necessary to establish the state of mind of the body corporate, it is sufficient to show that a director, employee, or agent of the body corporate, acting within the scope of the person’s actual or apparent authority, had that state of mind.
@@ -1606,7 +1606,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (a) the act or omission that constituted the offence took place with the authority, permission, or consent of the director or person; or
     (b) the director or person knew that the offence was to be, or was being, committed and failed to take all reasonable steps to prevent or stop it.
   (1) Any act or omission on behalf of a body corporate or other person (the principal) by a director, agent, or employee of the principal is to be treated for the purposes of this Act as being also the act or omission of the principal.
-  (2) Despite subsection (1), if a principal is charged under this Part in relation to the act or omission of an agent for an offence against any of sections 132(1)(c) to (f) or 133, it is a defence to the charge if the principal proves that the principal took all reasonable steps to prevent the commission of the offence or the commission of offences of that kind.
+  (2) Despite subsection (1), if a principal is charged under this Part in relation to the act or omission of an agent for an offence against any of sections 132(1)﻿(c) to (f) or 133, it is a defence to the charge if the principal proves that the principal took all reasonable steps to prevent the commission of the offence or the commission of offences of that kind.
   Despite section 14 of the Summary Proceedings Act 1957, an information for an offence against—
     (a) section 131 or 132(a), (b), (g), (h), or (i) may be laid at any time within 2 years from the time when the matter of the information arose:
     (b) section 129, 130, or 132(c) to (f) may be commenced at any time within 7 years from the time when the matter of the information arose.
@@ -1645,7 +1645,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
         (A) the street address of the person’s usual or last known place of residence; or
         (B) the street address of any of the person’s usual or last known places of business; or
         (C) any other address, if the person has notified the chief executive that the person accepts notices at the address.
-  (3) A notice given by post under subsection (2)(b)(iv) is to be treated as having been given at the time the notice would have been delivered in the ordinary course of the post.
+  (3) A notice given by post under subsection (2)﻿(b)﻿(iv) is to be treated as having been given at the time the notice would have been delivered in the ordinary course of the post.
   (1) This section applies if this Act requires a person to give a notice to the chief executive.
   (2) If this section applies, the person must—
     (a) give the notice in writing; and
@@ -1655,7 +1655,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
         (A) personal delivery, if the personal delivery is made during working hours:
         (B) an electronic means of communication, if the person complies with the Electronic Transactions Act 2002:
         (C) post to the post office box number for the office.
-  (3) A notice given by post under subsection (2)(b)(ii)(C) is treated as having been given at the time the notice would have been delivered in the ordinary course of the post.
+  (3) A notice given by post under subsection (2)﻿(b)﻿(ii)﻿(C) is treated as having been given at the time the notice would have been delivered in the ordinary course of the post.
   (1) The purpose of this section is to facilitate the exchange of information between any person with functions or powers under this Act, the Registrar, and the inventory agency.
   (2) A person referred to in subsection (1) (person A) must provide information to another person referred to in that subsection (person B) if the information—
     (a) is requested by person B; and
@@ -1704,8 +1704,8 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (a) have a holding account in the name of the consolidated group for the purposes of meeting the members’ obligations under this Part and Part 5; and
     (b) record in that holding account the names of all the members of the consolidated group; and
     (c) submit a single annual emissions return for the consolidated group in respect of a year, which must—
-      (i) meet the requirements of section 65(2) in respect of the activities listed in the notice under section 150(4)(a)(ii) or 151(2)(a)(ii) carried out by each member of the consolidated group:
-      (ii) be signed by the nominated entity in accordance with section 65(2)(f) on behalf of the consolidated group.
+      (i) meet the requirements of section 65(2) in respect of the activities listed in the notice under section 150(4)﻿(a)﻿(ii) or 151(2)﻿(a)﻿(ii) carried out by each member of the consolidated group:
+      (ii) be signed by the nominated entity in accordance with section 65(2)﻿(f) on behalf of the consolidated group.
   (2) Each member of a consolidated group is jointly and severally liable to surrender the amount of units assessed in relation to the consolidated group in any year, and that joint and several liability is in substitution for any liability of those members under this Part or Part 5 individually in respect of units to be surrendered for that year (to the extent that the surrender obligation relates to a period when the entity is a member of the consolidated group).
   (3) The liability of every member of the consolidated group to surrender units in respect of any year is met by the transfer of the units assessed in relation to the consolidated group from the consolidated group’s holding account to a surrender account designated by the chief executive.
   (4) Each member of a consolidated group is jointly entitled to any New Zealand units assessed in relation to the removal activities of the consolidated group in any year, and that joint entitlement is in substitution for any entitlement of those members under this Part or Part 5 individually in respect of units to be transferred for that year (to the extent that the entitlement relates to a period when the entity is a member of the consolidated group).
@@ -1719,7 +1719,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (a) may submit a single emissions return under section 189(3) in respect of any activity listed in Part 1 of Schedule 4 carried out by a member in a year; and
     (b) must submit a single emissions return in respect of any activity listed in Part 1 of Schedule 4 carried out by any members when required to do so by section 189(4); and
     (c) must submit any emissions return required by section 191 or 193 on behalf of any member when a member is required to do so; and
-    (d) must sign any emissions return referred to above in accordance with section 65(2)(f) on behalf of the consolidated group.
+    (d) must sign any emissions return referred to above in accordance with section 65(2)﻿(f) on behalf of the consolidated group.
   (2) Section 153(2) to (5) apply to the liability to surrender units or entitlement to be transferred units in relation to an emissions return referred to in this section as if the references to a year were a reference to the period covered by the emissions return.
   (1) An entity that is a member of a consolidated group ceases to be a member of the consolidated group if—
     (a) the entity so elects, by notice to the chief executive in a form that the chief executive approves; or
@@ -1728,20 +1728,20 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (d) the entity ceases to be the nominated entity and is not a participant; or
     (e) the entity is a member of a consolidated group that has ceased to have a nominated entity.
   (2) An entity is treated as having ceased to be a member of a consolidated group,—
-    (a) if subsection (1)(a) applies, with effect from the date of receipt by the chief executive of the notice of election to cease to be a member of the consolidated group; and
-    (b) if subsection (1)(b) applies, with effect from the date on which the entity ceased to be a member of the group in respect of which it is eligible to be a member of the consolidated group; and
-    (c) if subsection (1)(c) applies, with effect from the date the participant’s name is removed from the register of participants under section 58 or 59; and
-    (d) if subsection (1)(d) applies, with effect from the date of receipt by the chief executive of the notice under section 152(3) notifying that the entity has ceased to be the nominated entity for the group; and
-    (e) if subsection (1)(e) applies, with effect from the date on which the consolidated group ceased to have a nominated entity.
-  (3) Subsection (1)(e) does not apply if—
+    (a) if subsection (1)﻿(a) applies, with effect from the date of receipt by the chief executive of the notice of election to cease to be a member of the consolidated group; and
+    (b) if subsection (1)﻿(b) applies, with effect from the date on which the entity ceased to be a member of the group in respect of which it is eligible to be a member of the consolidated group; and
+    (c) if subsection (1)﻿(c) applies, with effect from the date the participant’s name is removed from the register of participants under section 58 or 59; and
+    (d) if subsection (1)﻿(d) applies, with effect from the date of receipt by the chief executive of the notice under section 152(3) notifying that the entity has ceased to be the nominated entity for the group; and
+    (e) if subsection (1)﻿(e) applies, with effect from the date on which the consolidated group ceased to have a nominated entity.
+  (3) Subsection (1)﻿(e) does not apply if—
     (a) the nominated entity ceases to be the nominated entity by reason of being liquidated; and
     (b) within 20 working days after that liquidation, or within such further period as the chief executive may allow, the other entities in the consolidated group have selected another nominated entity and notified the chief executive accordingly (in which case the selected entity is treated as the nominated entity with effect from the time of the liquidation).
   (4) An entity that ceases to be a member of a group in respect of which it is eligible to be a member of the consolidated group, or is a member of a consolidated group that ceases to have a nominated entity, must as soon as practicable give notice to the chief executive of this change of circumstances.
   (5) The chief executive must acknowledge the cessation of membership of a member of a consolidated group by notice to that member and the other members of the consolidated group given within 1 month of—
     (a) the chief executive receiving a notice under—
-      (i) subsection (1)(a); or
+      (i) subsection (1)﻿(a); or
       (ii) section 152(3); or
-    (b) the chief executive becoming aware that subsection (1)(b) or (e) applies; or
+    (b) the chief executive becoming aware that subsection (1)﻿(b) or (e) applies; or
     (c) the member being removed from the register of participants under section 58 or 59.
   If an entity ceases to be a member of a consolidated group, the entity—
     (a) continues to be jointly and severally liable with other members of the consolidated group for any obligations under this Part or Part 5 in respect of emissions and removals from the activities of the members of the consolidated group, and jointly entitled to any units transferred for the removal activities of the consolidated group, during the period in which the entity was a member of the consolidated group; but
@@ -1751,7 +1751,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (a) are together the participant in respect of an activity listed in Schedule 3 or may together register as the participant in relation to an activity listed in Schedule 4; and
     (b) are jointly and severally liable for the obligations of a participant in respect of the activity and are jointly entitled to any benefits of a participant resulting from the activity; and
     (c) may, if there are 25 or more persons (other than trustees) who jointly carry out an activity that relates to owning land, be described on the register of participants under section 56 or 57 in a manner prescribed in regulations.
-  (3) To avoid doubt, this section does not apply to persons who jointly carry out an activity listed in Schedule 3 but would not if they carried out that activity individually be a participant under section 54(1)(a).
+  (3) To avoid doubt, this section does not apply to persons who jointly carry out an activity listed in Schedule 3 but would not if they carried out that activity individually be a participant under section 54(1)﻿(a).
   (1) This section applies if a person becomes a participant in respect of an activity listed in Schedule 3 after being required to carry out the activity as a result of the exercise of a power that relates to a public work.
   (2) If this section applies, the person who exercised the power must, to the extent that the participant is not compensated under any other Act, compensate the participant for any liability to surrender units that the participant incurs as a result of the exercise of the power.
   (3) All claims for compensation under subsection (2) must, unless settled by agreement, be determined in the manner provided by the Public Works Act 1981, and the provisions of that Act relating to compensation apply accordingly.
@@ -1851,16 +1851,16 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (a) generally or with respect to different classes of activity, persons, parts of New Zealand, or other things; or
     (b) in respect of the same classes of activity, persons, parts of New Zealand, or other things, in different circumstances; or
     (c) generally or at any specified time of each year.
-  (3) A regulation made under subsection (1)(a) to (d) may have retrospective effect if the regulation is expressed to apply from the commencement of the year in which it is made, or in respect of a period after any particular date within the year in which it is made.
-  (4) A regulation made under subsection (1)(b), and any associated regulations made under other paragraphs of subsection (1),—
+  (3) A regulation made under subsection (1)﻿(a) to (d) may have retrospective effect if the regulation is expressed to apply from the commencement of the year in which it is made, or in respect of a period after any particular date within the year in which it is made.
+  (4) A regulation made under subsection (1)﻿(b), and any associated regulations made under other paragraphs of subsection (1),—
     (a) may, without limiting subsection (1), relate to emissions or removals that—
       (i) stem directly from an activity; or
       (ii) are associated with a product or other thing that is the subject of the activity; and
     (b) may require the use of a computer programme available via the Internet site of the department of the chief executive; and
     (c) must not cover any emissions in respect of which another person is required to surrender units or any removals of greenhouse gases in respect of which another person is entitled to a transfer of New Zealand units under this Act.
-  (5) In making a recommendation in relation to a regulation under subsection (1)(a) or (b), the Minister must have regard to New Zealand’s international obligations (if any) in respect of the collection of data and information relating to, and the measurement of, emissions and removals from the activity.
-  (6) Any guidelines or standards issued by the chief executive under regulations made under subsection (1)(d) are regulations for the purposes of the Regulations (Disallowance) Act 1989, but not for the purposes of the Acts and Regulations Publication Act 1989.
-  If regulations made under section 163(1)(b) require emissions or removals to be calculated by reference to a default emissions factor, the Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
+  (5) In making a recommendation in relation to a regulation under subsection (1)﻿(a) or (b), the Minister must have regard to New Zealand’s international obligations (if any) in respect of the collection of data and information relating to, and the measurement of, emissions and removals from the activity.
+  (6) Any guidelines or standards issued by the chief executive under regulations made under subsection (1)﻿(d) are regulations for the purposes of the Regulations (Disallowance) Act 1989, but not for the purposes of the Acts and Regulations Publication Act 1989.
+  If regulations made under section 163(1)﻿(b) require emissions or removals to be calculated by reference to a default emissions factor, the Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
     (a) providing for a process by which a participant may apply to the chief executive for approval to use a unique emissions factor:
     (b) prescribing the information that must be collected to support an application for use of a unique emissions factor:
     (c) prescribing the criteria for a unique emissions factor, which may include (but are not limited to)—
@@ -1909,7 +1909,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
   (1) The Governor-General may, by Order in Council, make regulations for 1 or more of the following purposes:
     (a) specifying the fuel that is obligation fuel and the jet fuel that is obligation jet fuel for the purposes of this Act; and
     (b) prescribing matters in respect of which applications for emissions rulings may be made; and
-    (c) prescribing the manner in which 25 or more owners of land may be described in the register of participants under section 56 or 57, for the purposes of section 157(2)(c); and
+    (c) prescribing the manner in which 25 or more owners of land may be described in the register of participants under section 56 or 57, for the purposes of section 157(2)﻿(c); and
     (d) prescribing forest species that are tree weeds for the purposes of section 184; and
     (e) prescribing criteria for carbon accounting areas; and
     (f) requiring notification by the chief executive of the status of forest land or any changes to the status of forest land under section 195; and
@@ -1990,7 +1990,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
   (1) If the activity listed in Part 1 of Schedule 3 is carried out, the landowner of the pre-1990 forest land is to be treated as the person carrying out the activity unless the chief executive is satisfied that—
     (a) the right to decide to deforest the pre-1990 forest land was vested in a third party, whether before or after 1 January 2008; and
     (b) the landowner had no control over the decision.
-  (2) If the chief executive is satisfied that the criteria specified in subsection (1)(a) and (b) are met, the third party is to be treated as the person carrying out the activity.
+  (2) If the chief executive is satisfied that the criteria specified in subsection (1)﻿(a) and (b) are met, the third party is to be treated as the person carrying out the activity.
   (3) To avoid doubt, for the purposes of this Act, no person, other than a landowner or, in the circumstances in subsection (2), a third party, is to be treated as carrying out an activity listed in Part 1 of Schedule 3.
   (1) Subject to subsection (3), a landowner (or in the circumstances in section 180(2), a third party) converting a hectare of pre-1990 forest land to land that is not forest land, is to be treated as carrying out an activity listed in Part 1 of Schedule 3 on the date the hectare is cleared as part of the deforestation process.
   (2) Subsection (3) applies to a landowner converting a hectare of pre-1990 forest land that was cleared but not deforested prior to—
@@ -2031,8 +2031,8 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
   (4) If the chief executive is satisfied that the applicant is a person to whom this section applies, the land is pre-1990 forest land, and each of the criteria specified in subsection 2(a) to (c) is met, the chief executive must—
     (a) declare the land to be exempt land; and
     (b) notify the applicant that the land has been declared exempt land.
-  (5) Despite subsection (3)(a), the chief executive may, at his or her discretion, accept applications after the date specified in that subsection.
-  (6) The following rules apply for the purposes of determining, under subsection (2)(b), whether an area of pre-1990 forest land was owned on 1 September 2007 by a person or persons who, along with any associated persons, owned in total less than 50 hectares of pre-1990 forest land:
+  (5) Despite subsection (3)﻿(a), the chief executive may, at his or her discretion, accept applications after the date specified in that subsection.
+  (6) The following rules apply for the purposes of determining, under subsection (2)﻿(b), whether an area of pre-1990 forest land was owned on 1 September 2007 by a person or persons who, along with any associated persons, owned in total less than 50 hectares of pre-1990 forest land:
     (a) the chief executive must consider only pre-1990 forest land in respect of which the person or associated person was a landowner on 1 September 2007; and
     (b) if land was owned by persons as joint tenants,—
       (i) in the case where 1 or more of the joint tenants is a professional trustee, each of the joint tenants other than the professional trustee or trustees must individually have been a landowner of less than 50 hectares of pre-1990 forest land; or
@@ -2050,7 +2050,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (c) the date by which applications for exemptions under this section must be received by the chief executive.
   (3) If a notice has been given under subsection (1), the landowner of pre-1990 forest land on which there is a specified type of tree weed or, in the circumstances referred to in section 180, a third party may apply to the chief executive for the land to be declared exempt land.
   (4) An application for an exemption under subsection (3) must—
-    (a) be submitted to the chief executive before the date notified under subsection (2)(c); and
+    (a) be submitted to the chief executive before the date notified under subsection (2)﻿(c); and
     (b) be in the prescribed form and accompanied by the prescribed fee (if any); and
     (c) contain details of the land to which the application relates; and
     (d) be accompanied by evidence that—
@@ -2081,7 +2081,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
   The status of pre-1990 forest land as exempt land runs with the land and is not affected by any change in the ownership of the land.
   (1) Subsection (2) applies where the trees cleared from pre-1990 forest land by a person carrying out the activity in Part 1 of Schedule 3 are 8 years or younger.
   (2) If this subsection applies, the participant must,—
-    (a) for the purposes of sections 62(b) and 65(2)(b), apply any prescribed methodology and calculate and record the emissions from the activity as if the trees cleared from the pre-1990 forest land were trees of the age and species of the oldest trees of the predominant species (as determined by regulations made under section 163) cleared from the pre-1990 forest land during the previous 9 years; and
+    (a) for the purposes of sections 62(b) and 65(2)﻿(b), apply any prescribed methodology and calculate and record the emissions from the activity as if the trees cleared from the pre-1990 forest land were trees of the age and species of the oldest trees of the predominant species (as determined by regulations made under section 163) cleared from the pre-1990 forest land during the previous 9 years; and
     (b) surrender units under this Act based on emissions calculated and recorded in accordance with paragraph (a).
   (3) A methodology for calculating emissions from the activity in Part 1 of Schedule 3 prescribed in regulations under section 163 must relate to the trees that are cleared from the pre-1990 forest land as part of the deforestation activity.
   (1) A person may not be registered as a participant under section 57 in respect of an activity listed in Part 1 of Schedule 4 that relates to—
@@ -2099,7 +2099,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
       (ii) contains an assessment of the liability to surrender units that would have arisen in relation to the deforestation had the land not been declared to be exempt land; and
       (iii) is accompanied by the prescribed fee (if any) and any other prescribed information; and
       (iv) is signed by the person submitting the application; and
-    (b) has surrendered, within 20 working days of submission of the emissions return under paragraph (a), the number of units listed in the assessment under paragraph (a)(ii); and
+    (b) has surrendered, within 20 working days of submission of the emissions return under paragraph (a), the number of units listed in the assessment under paragraph (a)﻿(ii); and
     (c) complies with subsection (1), if applicable.
   (3) To avoid doubt, and subject to sections 191 and 193, if there is a person registered as a participant in respect of carrying out an activity listed in Part 1 of Schedule 4 in respect of any post-1989 forest land, no other person may be registered as a participant in respect of carrying out a different activity listed in Part 1 of Schedule 4 in respect of that land.
   (1) An application under section 57 to be registered as a participant in respect of an activity listed in Part 1 of Schedule 4—
@@ -2118,9 +2118,9 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (b) accompanied by any prescribed fee and any prescribed information.
   (5) The chief executive may not add a carbon accounting area to the post-1989 forest land in respect of which a person is recorded as a participant, unless satisfied that the person would (if appropriate) qualify to be registered as a participant in respect of that land under section 187.
   (6) If the chief executive—
-    (a) registers a person as a participant under section 57 in relation to an activity listed in Part 1 of Schedule 4, the chief executive must notify under section 57(6)(b),—
-      (i) if section 187(1)(a) applies, any person with a registered forestry right or registered lease in respect of the post-1989 forest land; or
-      (ii) if section 187(1)(b) applies, the landowner of the post-1989 forest land; or
+    (a) registers a person as a participant under section 57 in relation to an activity listed in Part 1 of Schedule 4, the chief executive must notify under section 57(6)﻿(b),—
+      (i) if section 187(1)﻿(a) applies, any person with a registered forestry right or registered lease in respect of the post-1989 forest land; or
+      (ii) if section 187(1)﻿(b) applies, the landowner of the post-1989 forest land; or
     (b) receives an application to add a carbon accounting area and is satisfied as to the matters specified in subsection (5), the chief executive must—
       (i) notify,—
         (A) if the activity relates to owning post-1989 forest land, any person with a registered forestry right or registered lease in respect of the land in the carbon accounting area; or
@@ -2128,18 +2128,18 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
       (ii) update the participant’s record to reflect the addition of the carbon accounting area and notify the participant accordingly.
   (7) If the chief executive receives—
     (a) an application under section 58 for the removal of a person’s name from the register as a participant in relation to an activity listed in Part 1 of Schedule 4, or is satisfied under section 59(2) that the person has ceased to carry out the activity, the chief executive must—
-      (i) notify under section 58(3)(c) or 59(2)(b),—
+      (i) notify under section 58(3)﻿(c) or 59(2)﻿(b),—
         (A) if the landowner is the participant, the holder of any registered forestry right or registered lease in respect of the post-1989 forest land; or
         (B) if a holder of a registered forestry right or registered lease, or a party to a Crown conservation contract is the participant, the landowner of the post-1989 forest land; and
       (ii) remove the person’s name from the register—
-        (A) 10 working days after the date of the notification under section 58(3)(c); or
+        (A) 10 working days after the date of the notification under section 58(3)﻿(c); or
         (B) as required under section 59(2):
     (b) an application to remove a carbon accounting area, or remove land from a carbon accounting area in respect of which a person is recorded as a participant, or a notification that the person has ceased to carry out the activity in respect of a carbon accounting area or part of a carbon accounting area, the chief executive must—
       (i) notify,—
         (A) if the landowner is the participant, any holder of a registered forestry right or registered lease in respect of the post-1989 forest land; or
         (B) if a holder of a registered forestry right or registered lease, or a party to a Crown conservation contract is the participant, the landowner of the post-1989 forest land; and
       (ii) update the participant's record to reflect the changes made to the participant's carbon accounting areas and notify the participant accordingly.
-  (8) A change made to the participant’s record under subsection (6)(b)(ii) or (7)(b)(ii) has effect on and from the date of the relevant notice given under subsection (6)(b)(ii) or (7)(b)(ii), as the case may be.
+  (8) A change made to the participant’s record under subsection (6)﻿(b)﻿(ii) or (7)﻿(b)﻿(ii) has effect on and from the date of the relevant notice given under subsection (6)﻿(b)﻿(ii) or (7)﻿(b)﻿(ii), as the case may be.
   (9) Despite section 57(8), a person who has terminated a forest sink covenant registered under section 67ZD of the Forests Act 1949 and then registers as a participant in respect of that land is to be treated as being a participant in respect of the post-1989 forest land from the date the covenant was registered on the land under section 67ZD of the Forests Act 1949.
   (1) This section applies to a person who is a participant in respect of an activity listed in Part 1 of Schedule 4.
   (2) A person to whom this section applies—
@@ -2164,18 +2164,18 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
       (ii) ending on the last day of the mandatory emissions return period that has just ended.
   (5) An emissions return submitted under subsection (3) or (4)—
     (a) must, in respect of each carbon accounting area covered by the return,—
-      (i) contain the information specified in section 65(2)(a) to (d); and
+      (i) contain the information specified in section 65(2)﻿(a) to (d); and
       (ii) assess liability to surrender units, taking into account section 190; and
       (iii) contain any information required by subsection (6); and
     (b) may contain an assessment of the participant’s net liability to surrender or repay units or net entitlement to receive New Zealand units as referred to in subsection (8); and
-    (c) must comply with section 65(2)(e) and (f); and
+    (c) must comply with section 65(2)﻿(e) and (f); and
     (d) must be submitted in accordance with section 65(3).
   (6) If a person submits an emissions return under subsection (4) that covers a carbon accounting area in respect of a period for which a return has already been submitted under subsection (3), the return submitted under subsection (4) must—
     (a) record the number of units transferred for removals or surrendered for emissions in respect of the carbon accounting area in respect of the return or returns submitted under subsection (3); and
     (b) contain an assessment of the difference between—
       (i) the net number of units transferred for removals or surrendered for emissions from the carbon accounting area in respect of the return or returns submitted under subsection (3) (which must be determined by subtracting the number of units surrendered for emissions from the carbon accounting area from the number of units transferred in respect of removals from the carbon accounting area); and
       (ii) the net number of units assessed as the participant’s liability to surrender or entitlement to receive in respect of the carbon accounting area under the return submitted under subsection (4).
-  (7) If the assessment referred to in subsection (6)(b) shows that the person would be—
+  (7) If the assessment referred to in subsection (6)﻿(b) shows that the person would be—
     (a) entitled to fewer units for removals from the carbon accounting area in respect of the return submitted under subsection (4) than the net units that have been transferred in respect of returns under subsection (3), the person is liable to repay the number of units transferred in excess of the entitlement in the return under subsection (4); or
     (b) entitled to receive more units for removals from the carbon accounting area in respect of the return submitted under subsection (4) than the net number of units that have been transferred in respect of returns under subsection (3), the person is entitled to receive the number of units that is the difference between the entitlement in respect of the return under subsection (4) and the net number of units already transferred in respect of returns under subsection (3); or
     (c) liable to surrender more units for emissions from the carbon accounting area in respect of the return submitted under subsection (4) than the net number of units already surrendered in respect of returns under subsection (3), the person is liable to surrender the number of units that is the difference between the net number surrendered and the number assessed as being required to be surrendered under the return under subsection (4); or
@@ -2220,7 +2220,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (c) state the maximum number of units that could be required to be surrendered in respect of each carbon accounting area, or part of a carbon accounting area, covered by the return calculated in accordance with section 190(2); and
     (d) be accompanied by any prescribed fee and other prescribed information; and
     (e) be signed by the participant or former participant.
-  (3) A person required to submit an emissions return in accordance with this section must, by the same date by which a return is required to be submitted under subsection (1), surrender the total number of units that could be required to be surrendered for the post-1989 forest land covered by the return (calculated by adding together the figures for each carbon accounting area referred to in subsection (2)(c) together).
+  (3) A person required to submit an emissions return in accordance with this section must, by the same date by which a return is required to be submitted under subsection (1), surrender the total number of units that could be required to be surrendered for the post-1989 forest land covered by the return (calculated by adding together the figures for each carbon accounting area referred to in subsection (2)﻿(c) together).
   (4) An emissions return under this section must be submitted in the prescribed manner and format.
   (1) Despite anything in this Act,—
     (a) if any post-1989 forest land, registered forestry right, registered lease, or Crown conservation contract in respect of which a person is a participant in respect of an activity listed in Part 1 of Schedule 4 is transferred, including by way of sale, assignment, or transmission,—
@@ -2229,7 +2229,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (b) if a forestry right or lease is registered, or a Crown conservation contract is entered into, in respect of post-1989 forest land in respect of which the landowner is registered as a participant in respect of owning that land,—
       (i) the landowner ceases, from the date of registration of the forestry right or lease, or the date of entry into the Crown conservation contract, as applicable, to be the participant under this Act; and
       (ii) the holder of the registered forestry right or registered lease, or the other party to the Crown conservation contract, as applicable (the new participant), is, from the date of registration of the forestry right or lease or the date of entry into the contract, the participant in respect of the relevant activity listed in Part 1 of Schedule 4 in respect of the post-1989 forest land.
-  (2) If subsection (1)(a) or (b) applies,—
+  (2) If subsection (1)﻿(a) or (b) applies,—
     (a) in the case of a transferor and transferee, the transferor and transferee must, within 10 working days of the date of transfer of the land, registered forestry right, or registered lease, or the Crown conservation contract (or, in the case of transmission, as soon as practicable), notify the chief executive of the transfer; and
     (b) in the case of a landowner and a new participant, the landowner and new participant must, within 10 working days of the date of registration of the forestry right or lease, or the date of entry into the Crown conservation contract, notify the chief executive of the registration of the forestry right or lease, or the entry into the contract; and
     (c) the transferor or landowner (as the case may be) is not required to comply with section 191.
@@ -2293,19 +2293,19 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
   (1) Despite anything in this Act, a participant who carries out an activity listed in Part 1 of Schedule 3—
     (a) is not required to submit an annual emissions return under section 65 in relation to the year ending 31 December 2008; but
     (b) must submit an emissions return in respect of the period commencing on 1 January 2008 and ending on 31 December 2009.
-  (2) Section 65 applies to the return submitted under subsection (1)(b) with all necessary modifications, as if each reference to a year were a reference to the period commencing on 1 January 2008 and ending on 31 December 2009.
-  (3) For all other purposes of this Act, the emissions return submitted under subsection (1)(b) is to be treated as an annual emissions return.
+  (2) Section 65 applies to the return submitted under subsection (1)﻿(b) with all necessary modifications, as if each reference to a year were a reference to the period commencing on 1 January 2008 and ending on 31 December 2009.
+  (3) For all other purposes of this Act, the emissions return submitted under subsection (1)﻿(b) is to be treated as an annual emissions return.
   (4) Despite anything in this Act, a participant who carries out an activity listed in Part 1 of Schedule 3 may not submit an emissions return before 1 January 2010.
   (5) Despite anything in section 56, if an activity listed in Part 1 of Schedule 3 is carried out in 2008, the person who carried out the activity has until 31 January 2009 to give notice to the chief executive under section 56(1).
   (6) To avoid doubt, a person who carried out an activity listed in Part 1 of Schedule 3 on or after 1 January 2008, but before this section came into force, must register as a participant under section 56(1) in accordance with subsection (5).
   Despite anything in this Act, the first emissions return submitted by a person to whom section 189 applies in respect of an activity listed in Part 1 of Schedule 4 may not be submitted before 1 January 2009.
   (1) An application under section 57 to be registered as a participant in respect of an activity listed in Part 3 of Schedule 4 may be submitted to the chief executive at any time.
   (2) If the chief executive registers a person as a participant under section 57 in respect of an activity listed in Part 3 of Schedule 4,—
-    (a) the chief executive must notify, under section 57(6)(b), every person who is registered under section 56 in respect of an activity in Part 2 of Schedule 3; and
+    (a) the chief executive must notify, under section 57(6)﻿(b), every person who is registered under section 56 in respect of an activity in Part 2 of Schedule 3; and
     (b) the registration takes effect 12 months from the date of the notice issued under section 57(6).
   (3) If the chief executive has received an application under section 58 for removal of a person’s name from the register as a participant in respect of an activity listed in Part 3 of Schedule 4, the chief executive must—
-    (a) notify, under section 58(3)(c), every person who is registered under section 56 in respect of an activity listed in Part 2 of Schedule 3; and
-    (b) remove, under section 58(4), the applicant’s name from the register on the date that is 48 months after the notice issued under section 58(3)(b) and (c).
+    (a) notify, under section 58(3)﻿(c), every person who is registered under section 56 in respect of an activity listed in Part 2 of Schedule 3; and
+    (b) remove, under section 58(4), the applicant’s name from the register on the date that is 48 months after the notice issued under section 58(3)﻿(b) and (c).
   (1) A person who carries out an activity listed in Part 3 of Schedule 4 may, in an application to register as a participant in respect of that activity submitted under section 57, include with the application information about the total volume of obligation jet fuel purchased by the person in the year prior to the year in which the person submits the application (and any other prior years the person wishes).
   (2) If the chief executive receives an application under section 57 that includes the information specified in subsection (1), the chief executive may, for the purposes of section 57(4), satisfy him or herself that the person is, or will be when the person’s registration takes effect, carrying out the activity listed in Part 3 of Schedule 4 on the basis of that information.
   (3) Nothing in this section prevents the chief executive from requiring a person specified in subsection (1) to provide any further information that the chief executive requires to satisfy him or herself that the person is, (or will, when the person's registration takes effect, be) carrying out the activity listed in Part 3 of Schedule 4.
@@ -2356,20 +2356,20 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
   (2) In subsection (1), subsidiary has the same meaning as in section 5 of the Companies Act 1993.
   (1) An application under section 57 to be registered as a participant in respect of an activity listed in Part 4 of Schedule 4 may be submitted to the chief executive at any time.
   (2) If the chief executive registers a person as a participant under section 57 in respect of an activity listed in Part 4 of Schedule 4,—
-    (a) the chief executive must notify, under section 57(6)(b), every person who—
+    (a) the chief executive must notify, under section 57(6)﻿(b), every person who—
       (i) mines—
         (A) coal, if the activity specified in the application is purchasing coal; or
         (B) natural gas, if the activity specified in the application is purchasing natural gas; and
       (ii) is registered under section 56; and
     (b) the registration takes effect 12 months from the date of the notice issued under section 57(6).
   (3) If the chief executive has received an application under section 58 for removal of a person’s name from the register as a participant in respect of an activity listed in Part 4 of Schedule 4, the chief executive must—
-    (a) notify, under section 58(3)(c), every person who—
+    (a) notify, under section 58(3)﻿(c), every person who—
       (i) mines—
         (A) coal, if the activity specified in the application is purchasing coal; or
         (B) natural gas, if the activity specified in the application is purchasing natural gas; and
       (ii) is registered under section 56; and
-    (b) remove, under section 58(4), the applicant’s name from the register on the date that is 48 months after the date of the notice issued under section 58(3)(b) and (c).
-  (4) Despite anything in subsection (2)(b), if the chief executive receives an application submitted under subsection (1) by 31 January 2009, registration of the applicant as a participant may take effect from 1 January 2010 if—
+    (b) remove, under section 58(4), the applicant’s name from the register on the date that is 48 months after the date of the notice issued under section 58(3)﻿(b) and (c).
+  (4) Despite anything in subsection (2)﻿(b), if the chief executive receives an application submitted under subsection (1) by 31 January 2009, registration of the applicant as a participant may take effect from 1 January 2010 if—
     (a) the applicant requests in the application that registration take effect from 1 January 2010; and
     (b) the chief executive has provided notification under section 57(6) by 31 March 2009 (which notice must specify 1 January 2010 as the date from which registration takes effect).
   (1) A person who carries out an activity listed in Part 4 of Schedule 4 may, in an application to register as a participant in respect of that activity submitted under section 57, include with the application information about the total volume of coal or natural gas, as the case may be, purchased by the person in the year prior to the year in which the person submits the application (and any other prior years the person wishes).
@@ -2382,15 +2382,15 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
   A participant who mines coal or mines natural gas is not required to comply with section 62, report in an emissions return, or surrender units, in respect of coal or natural gas that is purchased by a person who is a participant in respect of an activity listed in Part 4 of Schedule 4.
   (1) An application under section 57 to be registered as a participant in respect of an activity listed in Part 5 of Schedule 4 may be submitted to the chief executive at any time.
   (2) If the chief executive registers a person as a participant under section 57 in respect of an activity listed in Part 5 of Schedule 4,—
-    (a) the chief executive must notify, under section 57(6)(b),—
+    (a) the chief executive must notify, under section 57(6)﻿(b),—
       (i) if the activity is listed in subpart 1 of Part 5 of Schedule 4, every person who is registered under section 56 in respect of an activity in subpart 1 of Part 5 of Schedule 3; or
       (ii) if the activity is listed in subpart 2 of Part 5 of Schedule 4, every person who is registered under section 56 in respect of an activity in subpart 3 of Part 5 of Schedule 3; and
     (b) the registration takes effect 12 months from the date of the notice to the applicant for registration issued under section 57(6).
   (3) If the chief executive has received an application under section 58 for removal of a person’s name from the register as a participant in respect of an activity listed in Part 5 of Schedule 4, the chief executive must—
-    (a) notify, under section 58(3)(c),—
+    (a) notify, under section 58(3)﻿(c),—
       (i) if the activity is listed in subpart 1 of Part 5 of Schedule 4, every person who is registered under section 56 in respect of an activity in subpart 1 of Part 5 of Schedule 3; or
       (ii) if the activity is listed in subpart 2 of Part 5 of Schedule 4, every person who is registered under section 56 in respect of an activity in subpart 3 of Part 5 of Schedule 3; and
-    (b) remove, under section 58(4), the applicant’s name from the register on the date that is 12 months after the date of the notice issued under section 58(3)(b) and (c).
+    (b) remove, under section 58(4), the applicant’s name from the register on the date that is 12 months after the date of the notice issued under section 58(3)﻿(b) and (c).
   (1) A person who carries out an activity listed in Part 5 of Schedule 4 may, in an application to register as a participant in respect of that activity submitted under section 57, include with the application information about the total volume of fertiliser purchased or number of animals farmed, as the case may require, by the person in the year prior to the year in which the person submits the application (and any other prior years the person wishes).
   (2) If the chief executive receives an application under section 57 that includes the information specified in subsection (1), the chief executive may, for the purposes of section 57(4), satisfy him or herself that the person is (or will, when the person's registration takes effect, be) carrying out the activity listed in Part 5 of Schedule 4 that is specified in the application on the basis of that information.
   (3) Nothing in this section prevents the chief executive from requiring a person specified in subsection (1) to provide any further information that the chief executive requires to satisfy him or herself that the person is, or will be when the person’s registration takes effect, carrying out the activity listed in Part 5 of Schedule 4 that is specified in the application.
@@ -2407,13 +2407,13 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (c) Part 3 of Schedule 3, subpart 1 of Part 4 of Schedule 3, and Part 4 of Schedule 4 that relates to the year from 1 January 2010 to 31 December 2010; or
     (d) subpart 2 of Part 4 of Schedule 3, Part 5 or 6 of Schedule 3, or Part 5 of Schedule 4 that relates to the year from 1 January 2013 to 31 December 2013.
   (2) Despite anything in this Act,—
-    (a) a participant to whom subsection (1)(a) applies is not liable under section 129(1)(a) for a failure to comply with section 62 in relation to the period before—
+    (a) a participant to whom subsection (1)﻿(a) applies is not liable under section 129(1)﻿(a) for a failure to comply with section 62 in relation to the period before—
       (i) section 62 comes into force; and
       (ii) any regulations setting out the data or other prescribed information to be collected in relation to an activity listed in Part 1 of Schedule 3 come into force:
     (b) if the emissions return of a participant to whom subsection (1) applies is amended by the chief executive under section 120, the participant—
       (i) is liable to surrender any units or additional units required to be surrendered under section 123(3); but
-      (ii) is not liable to pay an excess emissions penalty under section 134(2)(b)(ii) in relation to those units:
-    (c) if a participant to whom subsection (1) applies fails to surrender units or additional units as required under section 123(3), section 159(1)(a) applies as if the date of the notice given under section 123(3) were the date of the penalty notice given under section 134 or 136.
+      (ii) is not liable to pay an excess emissions penalty under section 134(2)﻿(b)﻿(ii) in relation to those units:
+    (c) if a participant to whom subsection (1) applies fails to surrender units or additional units as required under section 123(3), section 159(1)﻿(a) applies as if the date of the notice given under section 123(3) were the date of the penalty notice given under section 134 or 136.
   (1) This section applies to—
     (a) a person who carries out an activity listed in—
       (i) Part 2 of Schedule 3 in the period 1 January 2009 to 31 December 2009:
@@ -2424,12 +2424,12 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
       (ii) subpart 3 of Part 2 of Schedule 4 in the period 1 January 2011 to 31 December 2011:
       (iii) subpart 1 or 2 of Part 5 of Schedule 4, if an Order in Council is made under section 2A(15) or (16), in the period 1 January 2011 to 31 December 2011.
   (2) Despite anything in this Act, a person to whom this section applies—
-    (a) may (but is not required to), if the person carries out an activity in subsection (1)(a) during the relevant period, notify the chief executive under section 56 that the person is a participant in respect of the activity:
-    (b) may (but is not required to), if the person has notified the chief executive that the person carries out an activity in subsection (1)(a), or is a person to whom subsection (1)(b) applies, submit an annual emissions return under section 65 or an emissions return under section 66 or 118 in respect of the activity and the period in subsection (1):
+    (a) may (but is not required to), if the person carries out an activity in subsection (1)﻿(a) during the relevant period, notify the chief executive under section 56 that the person is a participant in respect of the activity:
+    (b) may (but is not required to), if the person has notified the chief executive that the person carries out an activity in subsection (1)﻿(a), or is a person to whom subsection (1)﻿(b) applies, submit an annual emissions return under section 65 or an emissions return under section 66 or 118 in respect of the activity and the period in subsection (1):
     (c) may not surrender units in relation to any emissions, and is not entitled to New Zealand units in relation to any removals, in respect of the relevant activity and period in subsection (1):
     (d) is not required to comply with any of the obligations of a participant under this Act in respect of the relevant activity and period in subsection (1):
     (e) is not liable under the offence provisions in sections 129 to 133 for any acts or omissions in relation to the relevant activity and period in subsection (1).
-  (3) The chief executive must not include information obtained from an emissions return submitted in accordance with subsection (2)(b) in the information published under section 89.
+  (3) The chief executive must not include information obtained from an emissions return submitted in accordance with subsection (2)﻿(b) in the information published under section 89.
   (1) This section applies to—
     (a) a person who carries out an activity listed in—
       (i) Part 2 of Schedule 3 in the period 1 January 2010 to 31 December 2010:
@@ -2443,7 +2443,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
     (b) under section 118(5) in relation to any emissions reported in an emissions return submitted under section 118 that relates to the relevant period referred to in subsection (1).
   Despite anything in this Act, a person who is a participant in relation to an activity listed in subpart 3 of Part 2 of Schedule 4 and submits an annual emissions return for the period 1 January 2012 to 31 December 2012, or any other emissions return that relates to dates within that period, is not entitled to be transferred units under section 64 in relation to any removals reported in that return.
   (1) A person who purchases more than 10 million litres per year of obligation jet fuel from 1 or more persons who are likely to become participants in respect of an activity listed in Part 2 of Schedule 3 from 1 January 2010 is, during the period from the date of commencement of this section until 31 December 2009, to be treated for the purposes of this Act as a person carrying out an activity listed in Part 3 of Schedule 4.
-  (2) Despite section 198(2)(b), the registration of a person who registers as a participant in respect of the activity in Part 3 of Schedule 4 during the period from the date of commencement of this section until 31 December 2008 takes effect from the date of entry of the person's name as a participant in the register under section 57.
+  (2) Despite section 198(2)﻿(b), the registration of a person who registers as a participant in respect of the activity in Part 3 of Schedule 4 during the period from the date of commencement of this section until 31 December 2008 takes effect from the date of entry of the person's name as a participant in the register under section 57.
   (3) A person who is a participant in relation to an activity listed in Part 3 of Schedule 4 during the period from the date of commencement of this section until 31 December 2008 may not submit an annual emissions return or an emissions return under section 118 in respect of that activity for the period up to 31 December 2008.
   (4) The provisions of this Act apply with any necessary modifications to an application to register as a participant by a person referred to in subsection (1) as if the person or persons from whom the applicant purchases jet fuel were a participant carrying out an activity listed in Part 2 of Schedule 3.
   Section 30H(1) and (3) do not apply to any regulations that—
@@ -2473,8 +2473,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
   (5) To avoid doubt, any number of targets may be set using the process under this section.
 
 ### 51 Regulations upon which consultation has been undertaken before commencement of this section
-(1) Any consultation undertaken before the commencement of section 50 in respect of the making of any order or regulations or any other matter requiring consultation under the Climate Change Response Act 2002 is to be treated as consultation for the purposes of that Act.
-(2) However, section 166(1) and (3) of the Climate Change Response Act 2002 do not apply to any regulations that come into force after the commencement of section 50 but are based on consultation undertaken prior to the commencement of section 50.
+[Repealed]
 
 ### 52 New Schedules 3 and 4 added
 The Schedules 3 and 4 set out in the Schedule of this Act are added.
@@ -2486,29 +2485,29 @@ The Schedules 3 and 4 set out in the Schedule of this Act are added.
 
 ### 54 Amendments to Forests Act 1949
 (1) This section amends the Forests Act 1949.
-(2) Section 67Y(1) is amended by inserting the following paragraph after paragraph (j):.
+(2) Section 67Y(1) is amended by inserting the following paragraph after paragraph (j):
   (ja) prescribe the persons or organisations, or classes of persons or organisations, who have been recognised under section 92 of the Climate Change Response Act 2002 as being able to carry out verification functions under that Act, and who may carry out verification functions in relation to a forest sink or forest sink covenant:
 (3) Section 67Y is amended by inserting the following subsection after subsection (2):
-  (2A) Regulations made under subsection (1)(b) may incorporate by reference any relevant—
-    (a) methodologies prescribed in regulations made under section 163(1)(b) of the Climate Change Response Act 2002; or
-    (b) guidelines or standards issued under regulations made under section 163(1)(d) of the Climate Change Response Act 2002.
+  (2A) Regulations made under subsection (1)﻿(b) may incorporate by reference any relevant—
+    (a) methodologies prescribed in regulations made under section 163(1)﻿(b) of the Climate Change Response Act 2002; or
+    (b) guidelines or standards issued under regulations made under section 163(1)﻿(d) of the Climate Change Response Act 2002.
 (4) Section 67Y is amended by inserting the following subsection after subsection (3):
-  (3A) Regulations made under subsection (1)(k) may incorporate by reference any form or format for a record, return, or information prescribed under section 80, or in regulations made under section 168(1)(k) of the Climate Change Response Act 2002 or in any guidelines or standards issued under regulations made under section 163(1)(d) of that Act.
+  (3A) Regulations made under subsection (1)﻿(k) may incorporate by reference any form or format for a record, return, or information prescribed under section 80, or in regulations made under section 168(1)﻿(k) of the Climate Change Response Act 2002 or in any guidelines or standards issued under regulations made under section 163(1)﻿(d) of that Act.
 
 ### 55 Amendments to Forestry Rights Registration Act 1983
 (1) This section amends the Forestry Rights Registration Act 1983.
 (2) Section 2 is amended by repealing the definitions of carbon sequestration, forest sink, and greenhouse gas.
-(3) Section 2A(2)(b) is amended by omitting units based on carbon sequestration that are received in accordance with a forest sink covenant and substituting the right to receive and the obligation to surrender units.
+(3) Section 2A(2)﻿(b) is amended by omitting units based on carbon sequestration that are received in accordance with a forest sink covenant and substituting the right to receive and the obligation to surrender units.
 
 ### 56 Amendments to Summary Proceedings Act 1957
 (1) This section amends the Summary Proceedings Act 1957.
-(2) Part 2 of Schedule 1 is amended by inserting the following item in its appropriate alphabetical order:Climate Change Response Act 2002120Evasion or similar offence
+(2) Part 2 of Schedule 1 is amended by inserting the following item in its appropriate alphabetical order: Climate Change Response Act 2002120Evasion or similar offence
 
 ### 57 Amendments to Income Tax Act 2004
 Sections 58 to 66 amend the Income Tax Act 2004.
 
 ### 58 New heading and section CB 29 inserted
-After section CB 28, the following is inserted:Emissions trading schemeDisposal of ETS unitsWhen this section appliesIncomeSurrender of unit: generally zero incomeSurrender of unit: pre-1990 forest land deforestationSurrendered unit treated as sold for costConverted unit treated as soldExempt income: pre-1990 forest land unitDisposal at below market valueamountconvertETS unitexcluded incomeexempt incomeforest land unitincomeKyoto unitNew Zealand unitpre-1990 forest land unitpost-1989 forest land unitpre-1990 forest landsurrender.
+After section CB 28, the following is inserted:Emissions trading schemeDisposal of ETS unitsWhen this section appliesIncomeSurrender of unit: generally zero incomeSurrender of unit: pre-1990 forest land deforestationSurrendered unit treated as sold for costConverted unit treated as soldExempt income: pre-1990 forest land unitDisposal at below market valueamount, convert, ETS unit, excluded income, exempt income, forest land unit, income, Kyoto unit, New Zealand unit, pre-1990 forest land unit, post-1989 forest land unit, pre-1990 forest land, surrender
   (1) This section applies when a person disposes of an ETS unit.
   (2) The amount that a person derives on disposal by the person of an ETS unit is income.
   (3) If the person disposes of the unit by surrender under the Climate Change Response Act 2002, the person is treated as deriving no income, unless subsection (4) applies.
@@ -2522,7 +2521,7 @@ After section CB 28, the following is inserted:Emissions trading schemeDisposal 
   (8) Section GD 16 (Disposals of ETS units at below market value) may apply to treat a disposal (other than a surrender) as being for market value.
 
 ### 59 New section CW 3B inserted
-After section CW 3, the following is inserted:Pre-1990 forest land units: emissions trading schemeWhen this section appliesExempt income: issueExempt income: disposal amountETS unitexcluded incomeexempt incomeincomepre-1990 forest landpre-1990 forest land unitsurrender.
+After section CW 3, the following is inserted:Pre-1990 forest land units: emissions trading schemeWhen this section appliesExempt income: issueExempt income: disposal amount, ETS unit, excluded income, exempt income, income, pre-1990 forest land, pre-1990 forest land unit, surrender
   (1) This section applies when a person:
     (a) is issued a pre-1990 forest land unit:
     (b) disposes of a pre-1990 forest land unit other than by surrender under the Climate Change Response Act 2002.
@@ -2530,12 +2529,12 @@ After section CW 3, the following is inserted:Pre-1990 forest land units: emissi
   (3) An amount of income that the person derives from the disposal is exempt income if, at the time of the disposal, the person would not derive income, other than exempt income or excluded income, from a disposal, without timber, of the pre-1990 forest land to which the ETS unit relates.
 
 ### 60 New section CX 44F inserted
-After section CX 44E, the following is inserted:Issue of post-1989 forest land unitsWhen this section appliesExcluded income amountexcluded incomeincomepost-1989 forest land unit.
+After section CX 44E, the following is inserted:Issue of post-1989 forest land unitsWhen this section appliesExcluded income amount, excluded income, income, post-1989 forest land unit
   (1) This section applies when a person is issued a post-1989 forest land unit.
   (2) An amount of income derived by the person from the issue is excluded income, if the person is treated as deriving an amount of income from the issue.
 
 ### 61 New heading and sections DB 46 and DB 47 inserted
-After section DB 45, the following is added:Emissions trading schemeAcquisition of ETS unitsWhen this section appliesNo expenditure or loss on issue of forest land unitsDeduction: acquisition from another personDeduction: acquisition of Kyoto unit on conversion of New Zealand unitLink with subpart DA capital limitationconvertETS unitforest land unitgeneral limitationgeneral permissionKyoto unitlossNew Zealand unitSurrender of pre-1990 forest land units for post-1989 forest land deforestationWhen this section appliesTreated as disposal and reacquisitionamountpost-1989 forest landpre-1990 forest land unitsurrender.
+After section DB 45, the following is added:Emissions trading schemeAcquisition of ETS unitsWhen this section appliesNo expenditure or loss on issue of forest land unitsDeduction: acquisition from another personDeduction: acquisition of Kyoto unit on conversion of New Zealand unitLink with subpart DA capital limitation, convert, ETS unit, forest land unit, general limitation, general permission, Kyoto unit, loss, New Zealand unitSurrender of pre-1990 forest land units for post-1989 forest land deforestationWhen this section appliesTreated as disposal and reacquisitionamount, post-1989 forest land, pre-1990 forest land unit, surrender
   (1) This section applies when a person acquires an ETS unit.
   (2) The person is treated as incurring no expenditure or loss on the acquisition, if the acquisition is on issue of a forest land unit.
   (3) The person is allowed a deduction for expenditure or loss incurred on acquiring the ETS unit from another person, if it is not the issue of a forest land unit.
@@ -2543,14 +2542,14 @@ After section DB 45, the following is added:Emissions trading schemeAcquisition 
     (a) not more than the cost, if any, to the person of the New Zealand unit; and
     (b) not less than the cost, if any, to the person of the New Zealand unit.
   (5) The link between this section and subpart DA (General rules) is as follows:
-    (a) subsections (2) and (4)(a) override the general permission:
+    (a) subsections (2) and (4)﻿(a) override the general permission:
     (b) subsection (3) overrides the capital limitation. The other general limitations still apply:
-    (c) subsection (4)(b) supplements the general permission and overrides the capital limitation. The other general limitations still apply.
+    (c) subsection (4)﻿(b) supplements the general permission and overrides the capital limitation. The other general limitations still apply.
   (1) This section applies when a person surrenders a pre-1990 forest land unit under the Climate Change Response Act 2002 to meet a liability to surrender units in relation to post-1989 forest land.
   (2) The person is treated as having disposed of the pre-1990 forest land unit to an unrelated person and as having then reacquired it, in each case, immediately before the surrender and for an amount equal to the unit’s market value at the time.
 
 ### 62 Meaning of trading stock
-In section EB 2(3)(g), exchange. is replaced by exchange: and the following is added:
+In section EB 2(3)﻿(g), exchange. is replaced by exchange: and the following is added:
   (h) an ETS unit.
 
 ### 63 Valuation of excepted financial arrangements
@@ -2564,7 +2563,7 @@ In section EB 2(3)(g), exchange. is replaced by exchange: and the following is a
 (2) In section EW 5, in the list of defined terms, ETS unit is inserted.
 
 ### 65 New section GD 16 inserted
-After section GD 15, the following is inserted:Disposals of ETS units at below market valueWhen this section appliesDisposal treated as being for market value amountconvertETS unitsurrender.
+After section GD 15, the following is inserted:Disposals of ETS units at below market valueWhen this section appliesDisposal treated as being for market value amount, convert, ETS unit, surrender
   (1) This section applies when—
     (a) a person (the transferor) disposes of an ETS unit to another person (the transferee):
     (b) the disposal is not a surrender or conversion under the Climate Change Response Act 2002:
@@ -2575,45 +2574,45 @@ After section GD 15, the following is inserted:Disposals of ETS units at below m
 
 ### 66 Definitions
 (1) This section amends section OB 1.
-(2) After the definition of controlling shareholder, the following is inserted:.
+(2) After the definition of controlling shareholder, the following is inserted:
   - **convert** , for a New Zealand unit, is defined in section 4(1) of the Climate Change Response Act 2002
-(3) After the definition of estimated useful life, the following is inserted:.
+(3) After the definition of estimated useful life, the following is inserted:
   - **ETS unit** means:
     (a) a New Zealand unit:
     (b) an approved overseas unit, as defined in section 4(1) of the Climate Change Response Act 2002:
     (c) a Kyoto unit
-(4) After the definition of foreign withholding tax, the following is inserted:.
+(4) After the definition of foreign withholding tax, the following is inserted:
   - **forest land unit** means a pre-1990 forest land unit or a post-1989 forest land unit
-(5) After the definition of KiwiSaver scheme, the following is inserted:.
+(5) After the definition of KiwiSaver scheme, the following is inserted:
   - **Kyoto unit** is defined in section 4(1) of the Climate Change Response Act 2002
-(6) After the definition of New Zealand tax, the following is inserted:.
+(6) After the definition of New Zealand tax, the following is inserted:
   - **New Zealand unit** is defined in section 4(1) of the Climate Change Response Act 2002
-(7) After the definition of possession, the following is inserted:.
+(7) After the definition of possession, the following is inserted:
   - **post-1989 forest land** is defined in section 4(1) of the Climate Change Response Act 2002
   - **post-1989 forest land unit** , for a person, means a unit—
     (a) issued to the person under section 64 of the Climate Change Response Act 2002 for removals for post-1989 forest land; and
     (b) held continuously by the person since the issue
-(8) After the definition of pre-1983 mortgage repayment insurance policy, the following is inserted:.
+(8) After the definition of pre-1983 mortgage repayment insurance policy, the following is inserted:
   - **pre-1990 forest land** is defined in section 4(1) of the Climate Change Response Act 2002
   - **pre-1990 forest land unit** , for a person, means a unit—
     (a) issued to the person under an allocation plan under section 73 of the Climate Change Response Act 2002; and
     (b) held continuously by the person since the issue
-(9) After the definition of replaced area fraction, the following is inserted:.
+(9) After the definition of replaced area fraction, the following is inserted:
   - **replacement ETS unit** means an ETS unit acquired by a person if—
     (a) the person has previously disposed of an ETS unit; and
     (b) the ETS unit disposed of was a post-1989 forest land unit; and
     (c) the person has not, since the disposal, acquired another ETS unit that replaces the unit disposed of; and
     (d) when paragraph (c) is applied, an acquisition following the disposal is treated as resulting in a replacement for the unit except to the extent treated as resulting in a replacement for another forest land ETS unit disposed of at the same time
-(10) In the definition of revenue account property, paragraph (b), or event)) is replaced by or event)); or, and the following is added:.
+(10) In the definition of revenue account property, paragraph (b), or event)) is replaced by or event)); or, and the following is added:
   (c) an ETS unit of the person
-(11) After the definition of surplus refundable credits, the following is inserted:.
+(11) After the definition of surplus refundable credits, the following is inserted:
   - **surrender** , for an ETS unit, is defined in section 4(1) of the Climate Change Response Act 2002
 
 ### 67 Amendments to Income Tax Act 2007
 Sections 68 to 76 amend the Income Tax Act 2007.
 
 ### 68 New heading and section CB 36 inserted
-After section CB 35, the following is added:Emissions trading schemeDisposal of ETS unitsWhen this section appliesIncomeSurrender of unit: generally zero incomeSurrender of unit: pre-1990 forest land deforestationSurrendered unit treated as sold for costConverted unit treated as soldExempt income: pre-1990 forest land unitDisposal at below market valueamountconvertETS unitexcluded incomeexempt incomeforest land unitincomeKyoto unitNew Zealand unitpre-1990 forest land unitpost-1989 forest land unitpre-1990 forest landsurrender.
+After section CB 35, the following is added:Emissions trading schemeDisposal of ETS unitsWhen this section appliesIncomeSurrender of unit: generally zero incomeSurrender of unit: pre-1990 forest land deforestationSurrendered unit treated as sold for costConverted unit treated as soldExempt income: pre-1990 forest land unitDisposal at below market valueamount, convert, ETS unit, excluded income, exempt income, forest land unit, income, Kyoto unit, New Zealand unit, pre-1990 forest land unit, post-1989 forest land unit, pre-1990 forest land, surrender
   (1) This section applies when a person disposes of an ETS unit.
   (2) The amount that a person derives on disposal by the person of an ETS unit is income.
   (3) If the person disposes of the unit by surrender under the Climate Change Response Act 2002, the person is treated as deriving no income, unless subsection (4) applies.
@@ -2627,7 +2626,7 @@ After section CB 35, the following is added:Emissions trading schemeDisposal of 
   (8) Section GC 4B (Disposals of ETS units at below market value) may apply to treat a disposal (other than a surrender) as being for market value.
 
 ### 69 New section CW 3B inserted
-After section CW 3, the following is inserted:Pre-1990 forest land units: emissions trading schemeWhen this section appliesExempt income: issueExempt income: disposalamountETS unitexempt incomeincomepre-1990 forest landpre-1990 forest land unitsurrender.
+After section CW 3, the following is inserted:Pre-1990 forest land units: emissions trading schemeWhen this section appliesExempt income: issueExempt income: disposalamount, ETS unit, exempt income, income, pre-1990 forest land, pre-1990 forest land unit, surrender
   (1) This section applies when a person:
     (a) is issued a pre-1990 forest land unit:
     (b) disposes of a pre-1990 forest land unit other than by surrender under the Climate Change Response Act 2002.
@@ -2635,12 +2634,12 @@ After section CW 3, the following is inserted:Pre-1990 forest land units: emissi
   (3) An amount of income that the person derives from the disposal is exempt income if, at the time of the disposal, the person would not derive income, other than exempt income or excluded income, from a disposal, without timber, of the pre-1990 forest land to which the ETS unit relates.
 
 ### 70 New section CX 48B inserted
-After section CX 48, the following is inserted:Issue of post-1989 forest land unitsWhen this section appliesExcluded income amountexcluded incomeincomepost-1989 forest land unit.
+After section CX 48, the following is inserted:Issue of post-1989 forest land unitsWhen this section appliesExcluded income amount, excluded income, income, post-1989 forest land unit
   (1) This section applies when a person is issued a post-1989 forest land unit.
   (2) An amount of income derived by the person from the issue is excluded income, if the person is treated as deriving an amount of income from the issue.
 
 ### 71 New heading and sections DB 60 and DB 61 inserted
-After section DB 59, the following is inserted:Emissions trading schemeAcquisition of ETS unitsWhen this section appliesNo expenditure or loss on issue of forest land unitsDeduction: acquisition from another personDeduction: acquisition of Kyoto unit on conversion of New Zealand unitLink with subpart DA capital limitationconvertETS unitforest land unitgeneral limitationgeneral permissionKyoto unitlossNew Zealand unitSurrender of pre-1990 forest land units for post-1989 forest land emissionsWhen this section appliesTreated as disposal and reacquisitionamountpost-1989 forest landpre-1990 forest land unitsurrender.
+After section DB 59, the following is inserted:Emissions trading schemeAcquisition of ETS unitsWhen this section appliesNo expenditure or loss on issue of forest land unitsDeduction: acquisition from another personDeduction: acquisition of Kyoto unit on conversion of New Zealand unitLink with subpart DA capital limitation, convert, ETS unit, forest land unit, general limitation, general permission, Kyoto unit, loss, New Zealand unitSurrender of pre-1990 forest land units for post-1989 forest land emissionsWhen this section appliesTreated as disposal and reacquisitionamount, post-1989 forest land, pre-1990 forest land unit, surrender
   (1) This section applies when a person acquires an ETS unit.
   (2) The person is treated as incurring no expenditure or loss on the acquisition if the acquisition is on issue of a forest land unit.
   (3) The person is allowed a deduction for expenditure or loss incurred on acquiring the ETS unit from another person if it is not the issue of a forest land unit.
@@ -2648,14 +2647,14 @@ After section DB 59, the following is inserted:Emissions trading schemeAcquisiti
     (a) not more than the cost, if any, to the person of the New Zealand unit; and
     (b) not less than the cost, if any, to the person of the New Zealand unit.
   (5) The link between this section and subpart DA (General rules) is as follows:
-    (a) subsections (2) and (4)(a) override the general permission:
+    (a) subsections (2) and (4)﻿(a) override the general permission:
     (b) subsection (3) overrides the capital limitation. The other general limitations still apply:
-    (c) subsection (4)(b) supplements the general permission and overrides the capital limitation. The other general limitations still apply.
+    (c) subsection (4)﻿(b) supplements the general permission and overrides the capital limitation. The other general limitations still apply.
   (1) This section applies when a person surrenders a pre-1990 forest land unit under the Climate Change Response Act 2002 to meet a liability to surrender units in relation to post-1989 forest land.
   (2) The person is treated as having disposed of the pre-1990 forest land unit to an unrelated person and as having then reacquired it, in each case, immediately before the surrender and for an amount equal to the unit’s market value at the time.
 
 ### 72 Meaning of trading stock
-(1) In section EB 2(3)(h), exchange. is replaced by exchange: and the following is added:
+(1) In section EB 2(3)﻿(h), exchange. is replaced by exchange: and the following is added:
   (i) an ETS unit.
 (2) In section EB 2, in the list of defined terms, ETS unit is inserted.
 
@@ -2670,7 +2669,7 @@ After section DB 59, the following is inserted:Emissions trading schemeAcquisiti
 (2) In section EW 5, in the list of defined terms, ETS unit is inserted.
 
 ### 75 New section GC 4B inserted
-After section GC 4, the following is inserted:Disposals of ETS units at below market valueWhen this section appliesDisposal treated as being for market valueamountconvertETS unitsurrender.
+After section GC 4, the following is inserted:Disposals of ETS units at below market valueWhen this section appliesDisposal treated as being for market valueamount, convert, ETS unit, surrender
   (1) This section applies when—
     (a) a person (the transferor) disposes of an ETS unit to another person (the transferee):
     (b) the disposal is not a surrender or conversion under the Climate Change Response Act 2002:
@@ -2681,45 +2680,45 @@ After section GC 4, the following is inserted:Disposals of ETS units at below ma
 
 ### 76 Definitions
 (1) This section amends section YA 1.
-(2) After the definition of controlling shareholder, the following is inserted:.
+(2) After the definition of controlling shareholder, the following is inserted:
   - **convert** , for a New Zealand unit, is defined in section 4(1) of the Climate Change Response Act 2002
-(3) After the definition of estimated useful life, the following is inserted:.
+(3) After the definition of estimated useful life, the following is inserted:
   - **ETS unit** means:
     (a) a New Zealand unit:
     (b) an approved overseas unit, as defined in section 4(1) of the Climate Change Response Act 2002:
     (c) a Kyoto unit
-(4) After the definition of foreign withholding tax, the following is inserted:.
+(4) After the definition of foreign withholding tax, the following is inserted:
   - **forest land unit** means a pre-1990 forest land unit or a post-1989 forest land unit
-(5) After the definition of KiwiSaver scheme, the following is inserted:.
+(5) After the definition of KiwiSaver scheme, the following is inserted:
   - **Kyoto unit** is defined in section 4(1) of the Climate Change Response Act 2002
-(6) After the definition of New Zealand tax, the following is inserted:.
+(6) After the definition of New Zealand tax, the following is inserted:
   - **New Zealand unit** is defined in section 4(1) of the Climate Change Response Act 2002
-(7) After the definition of possession, the following is inserted:.
+(7) After the definition of possession, the following is inserted:
   - **post-1989 forest land** is defined in section 4(1) of the Climate Change Response Act 2002
   - **post-1989 forest land unit** , for a person, means a unit—
     (a) issued to the person under section 64 of the Climate Change Response Act 2002 for removals for post-1989 forest land; and
     (b) held continuously by the person since the issue
-(8) After the definition of pre-1983 investments, the following is inserted:.
+(8) After the definition of pre-1983 investments, the following is inserted:
   - **pre-1990 forest land** is defined in section 4(1) of the Climate Change Response Act 2002
   - **pre-1990 forest land unit** , for a person, means a New Zealand unit—
     (a) issued to the person under an allocation plan under section 73 of the Climate Change Response Act 2002; and
     (b) held continuously by the person since the issue
-(9) After the definition of replaced area fraction, the following is inserted:.
+(9) After the definition of replaced area fraction, the following is inserted:
   - **replacement ETS unit** means an ETS unit acquired by a person if—
     (a) the person has previously disposed of an ETS unit; and
     (b) the ETS unit disposed of was a forest land unit other than a pre-1990 forest land unit; and
     (c) the person has not since the disposal acquired another ETS unit that replaces the unit disposed of; and
     (d) when paragraph (c) is applied, an acquisition following the disposal is treated as resulting in a replacement for the unit except to the extent treated as resulting in a replacement for another forest land unit disposed of at the same time
-(10) In the definition of revenue account property, paragraph (b), acquiring asset) is replaced by acquiring asset); or, and the following is added:.
+(10) In the definition of revenue account property, paragraph (b), acquiring asset) is replaced by acquiring asset); or, and the following is added:
   (c) an ETS unit of the person
-(11) After the definition of supply, the following is inserted:.
+(11) After the definition of supply, the following is inserted:
   - **surrender** , for an ETS unit, is defined in section 4(1) of the Climate Change Response Act 2002
 
 ### 77 Goods and Services Tax Act 1985
 Sections 78 to 80 amend the Goods and Services Tax Act 1985.
 
 ### 78 Interpretation
-In section 2(1), the following are inserted in their appropriate alphabetical order:.
+In section 2(1), the following are inserted in their appropriate alphabetical order:
   - **emissions unit** means—
     (a) a New Zealand unit:
     (b) a Kyoto unit as defined in section 4(1) of the Climate Change Response Act 2002:
@@ -2727,12 +2726,12 @@ In section 2(1), the following are inserted in their appropriate alphabetical or
   - **New Zealand unit** means a New Zealand unit as defined in section 4(1) of the Climate Change Response Act 2002
 
 ### 79 Zero-rating of goods
-(1) In section 11(1)(n), item. is replaced by item; or and the following is added:
-  (o) the goods are supplied as consideration for a supply that is chargeable at the rate of 0% under section 11A(1)(s) or (t).
+(1) In section 11(1)﻿(n), item. is replaced by item; or and the following is added:
+  (o) the goods are supplied as consideration for a supply that is chargeable at the rate of 0% under section 11A(1)﻿(s) or (t).
 (2) Subsection (1) applies to supplies made on or after 1 January 2009.
 
 ### 80 Zero-rating of services
-(1) In section 11A(1)(r)(ii), paragraph (q). is replaced by paragraph (q); or and the following is added:
+(1) In section 11A(1)﻿(r)﻿(ii), paragraph (q). is replaced by paragraph (q); or and the following is added:
   (s) the services are a New Zealand unit, and the supply is the transfer of the emissions unit under section 64 of the Climate Change Response Act 2002 or under Part 4, subpart 2 of that Act; or
   (t) the services are an emissions unit, and the supply is the surrender of the emissions unit under section 63 of the Climate Change Response Act 2002; or
   (u) the services are supplied as consideration for a supply that is chargeable at the rate of 0% under paragraph (s) or (t); or
@@ -2741,9 +2740,9 @@ In section 2(1), the following are inserted in their appropriate alphabetical or
 
 ### 81 Amendments to Personal Property Securities Act 1999
 (1) This section amends the Personal Property Securities Act 1999.
-(2) Section 16(1) is amended by inserting the following definition in its appropriate alphabetical order:.
+(2) Section 16(1) is amended by inserting the following definition in its appropriate alphabetical order:
   - **emissions unit** means a unit as defined in section 4(1) of the Climate Change Response Act 2002
-(3) The definition of investment security in section 16(1) is amended by repealing paragraph (a) and substituting the following paragraph:.
+(3) The definition of investment security in section 16(1) is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) means—
     (i) a writing (whether or not in the form of a security certificate) that is recognised in the place in which it is issued or dealt with as evidencing a futures contract, or a warrant or option or share, right to participate, or other interest in property or an enterprise, or that evidences an obligation of the issuer, and that, in the ordinary course of business, is transferred or withdrawn by—
       (A) delivery with any necessary endorsement, assignment, or registration in the records of the issuer or agent of the issuer, or by compliance with restrictions on transfer or withdrawal; or
