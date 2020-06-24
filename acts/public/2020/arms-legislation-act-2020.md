@@ -918,7 +918,7 @@ Replace section 35A(2) with:
   (2) A person commits an offence and is liable on conviction to a fine not exceeding $2,000 if the person, without reasonable excuse, contravenes subsection (1).
 
 ### 63 New Parts 6 and 7 inserted
-After section 38, insert:Shooting clubs and shooting rangesInterpretationShooting clubsShooting club must have certificate of approvalShooting club must be incorporated society if ammunition or firearms sold on its behalfApplication to have shooting club approvedCommissioner may make inquiries and request further informationDecision on application for certificate of approvalIssue of certificate of approvalDuration of certificate of approvalCancellation of certificate of approvalClub may have to reapply for certificate of approvalAnnual reportsShooting rangesShooting ranges must be certifiedApplication to have shooting range certifiedCommissioner may make inquiries and request further informationDecision on application to have shooting range certifiedGrant of certificationCertification granted subject to conditionsDuration of certificationCancellation of certificationRenewal of certificationComplianceInspections of shooting clubs and shooting ranges1989 No 80 s 319; 2002 No 40 s 39Improvement notices2015 No 70 s 101 Temporary suspension of shooting club’s operations pending possible cancellation of certificate of approvalTemporary suspension of shooting range’s operations pending possible cancellation of certificationDirect access by certain government agencies to registryInterpretationRelationship between this Part and other lawDirect access to licence informationDirect access to import and export information recorded in registryDirect access must be in accordance with direct access agreementMatters to which Ministers must have regard before entering into direct access agreementConsultation before entering into direct access agreementContent of direct access agreementsVariation of direct access agreementPublication of direct access agreements
+After section 38, insert:Shooting clubs and shooting rangesInterpretationShooting clubsShooting club must have certificate of approvalShooting club must be incorporated society if ammunition or firearms sold on its behalfApplication to have shooting club approvedCommissioner may make inquiries and request further informationDecision on application for certificate of approvalIssue of certificate of approvalDuration of certificate of approvalCancellation of certificate of approvalClub may have to reapply for certificate of approvalAnnual reportsShooting rangesShooting ranges must be certifiedApplication to have shooting range certifiedCommissioner may make inquiries and request further informationDecision on application to have shooting range certifiedGrant of certificationCertification granted subject to conditionsDuration of certificationCancellation of certificationRenewal of certificationComplianceInspections of shooting clubs and shooting ranges1989 No 80 s 319B; 2002 No 40 s 39Improvement notices2015 No 70 s 101 Temporary suspension of shooting club’s operations pending possible cancellation of certificate of approvalTemporary suspension of shooting range’s operations pending possible cancellation of certificationDirect access by certain government agencies to registryInterpretationRelationship between this Part and other lawDirect access to licence informationDirect access to import and export information recorded in registryDirect access must be in accordance with direct access agreementMatters to which Ministers must have regard before entering into direct access agreementConsultation before entering into direct access agreementContent of direct access agreementsVariation of direct access agreementPublication of direct access agreements
   In this Part,—
     - **application for approval** means an application made under section 38D to have a shooting club approved
     - **application for certification** means an application made under section 38L to have a shooting range certified
@@ -1047,7 +1047,7 @@ After section 38, insert:Shooting clubs and shooting rangesInterpretationShootin
       (a) search the registry:
       (b) copy any information stored in the registry
     - **import and export information** , in relation to a licence holder, means details relating to—
-      (a) any permit to import issued to the licence holder under section 18(2) or (3):
+      (a) any permit to import issued to the licence holder under section 18(2) or (4):
       (b) any class or classes of arms items exported by the licence holder
     - **licence holder** means—
       (a) a person who is the holder of a firearms licence; and
@@ -1450,12 +1450,12 @@ Replace section 62 with:Right of review of official decisionsHow review to be co
   (3) On hearing an appeal under subsection (1), the District Court Judge may, subject to subsection (5), confirm, vary, or reverse the decision appealed against.
   (4) Subsection (5) applies if—
     (a) an application for a firearms licence has been refused on the ground set out in section 24(2); or
-    (b) a firearms licence has been revoked on the ground set out in section 27(1).
+    (b) a firearms licence has been revoked on the ground set out in section 27(2).
   (5) If this subsection applies, the District Court Judge may, even though the Judge finds that ground established, vary or reverse the decision appealed against if satisfied that, since the decision was given, adequate measures have been taken to deny access to the firearm to the person whose likelihood of access to it was the basis of the refusal or revocation.
   (1) Despite the fact that any appeal under section 62B may have been determined in favour of the appellant, any commissioned officer of Police, in the exercise of powers conferred on the officer by this Act, may, subject to the like right of appeal, revoke any licence or permit to which the appeal related, or any licence or permit granted in compliance with the decision of the District Court Judge on the appeal, on any sufficient grounds supported by facts or evidence discovered since the hearing of the appeal.
   (2) The decision of the District Court Judge on any appeal under section 62B is final and conclusive, subject to subsection (1) and to section 64.
   (3) No person is excused from complying with any of the provisions of this Act on the ground that—
-    (a) the person has applied for a review under section 62B and the review is pending; or
+    (a) the person has applied for a review under section 62 and the review is pending; or
     (b) the person has appealed under section 62B and the appeal or the decision on the appeal is pending.
 
 ### 91 Section 63 amended (Appeal to District Court Judge in respect of compensation)
@@ -1467,8 +1467,8 @@ In section 64(1), replace section 62 with section 62B.
 ### 93 Section 65 amended (Restoration of articles seized)
 In section 65, after pistol,, insert pistol carbine conversion kit,.
 
-### 94 Cross-heading above section 66 replaced
-Replace the cross-heading above section 66 with:Other miscellaneous provisions
+### 94 Cross-heading above section 65I replaced
+Replace the cross-heading above section 65I with:Other miscellaneous provisions
 
 ### 95 New sections 66A to 66D inserted
 After section 66, insert:Loss, theft, or destruction of firearm, etcPerson in possession of firearm, etc, must give identifying information to PolicePowers of Police to require surrender of airguns or antique firearmsObligations of owner or operator of craft temporarily visiting New Zealand and carrying firearms, etc
@@ -1488,7 +1488,7 @@ After section 66, insert:Loss, theft, or destruction of firearm, etcPerson in po
     (a) without reasonable excuse, refuses to give their name, address, or date of birth; or
     (b) willingly gives false particulars about their name, address, or date of birth.
   (1) If any person who is not the holder of a firearms licence or a dealer’s licence is in possession of an airgun or antique firearm, a commissioned officer of Police may, by notice in writing served on that person, require that person to surrender the airgun or antique firearm to a member of the Police, if that officer is of the opinion that that person is not a fit and proper person to be in possession of the airgun or antique firearm.
-  (2) If any person is served with a notice under subsection (1), that person must, on demand, deliver the airgun or antique firearm to a member of the Police, and section 28(3) to (5) applies accordingly with all necessary modifications.
+  (2) If any person is served with a notice under subsection (1), that person must, on demand, deliver the airgun or antique firearm to a member of the Police, and section 28(4) to (7) applies accordingly with all necessary modifications.
   (3) Any person required under this section to surrender an airgun or antique firearm may appeal under section 62B against the requirement, and that section applies accordingly with all necessary modifications.
   (4) A person commits an offence and is liable on conviction to imprisonment for a term not exceeding 6 months, or to a fine not exceeding $10,000, if the person, without reasonable excuse, fails to comply with a notice given to them under subsection (1).
   (1) If a craft arriving from a foreign country is, at any time, temporarily berthed, moored, or anchored in any harbour or territorial waters of New Zealand, and has on board any arms items that are not being off-loaded, the owner or operator of the craft must—
@@ -1709,7 +1709,7 @@ After section 78, insert:Cost recoveryPurpose of sections 80 to 862008 No 72 s 7
     (c) whether the practitioner believes the licence holder poses an immediate or imminent danger of self-harm or harm to others.
   (3) If the Police have been notified by a health practitioner under subsection (2), the Commissioner may require a licence holder to undergo a further medical assessment by a health practitioner who is independent from the practitioner who made the initial assessment and, in that case, the licence holder must either—
     (a) undergo the further assessment; or
-    (b) surrender their licence under section 27(2).
+    (b) surrender their licence under section 27(1).
   (4) Regulations made under section 74(1)﻿(jb) (if any) apply in relation to any notice given for the purpose of this section and to any action required under subsection (3).
   (5) A health practitioner is not liable to criminal, civil, or disciplinary proceedings by disclosing personal information in the course of performing any function or responsibility under this section, as long as the practitioner acts in good faith.
   The Commissioner must keep and operate a registry for the purposes of this Act.
@@ -1837,7 +1837,7 @@ In this Part,—
 ### 12 Shooting clubs
 (1) Subclause (2) applies to an incorporated pistol shooting club that, immediately before the date of commencement of Part 6, was recognised by the Commissioner for the purposes of section 29 (as in force immediately before the commencement of section 49 of the amendment Act).
 (2) On and after the commencement of Part 6, the incorporated pistol shooting club is to be treated as if the club has been issued with a certificate of approval under section 38G.
-(3) In the case of any other shooting club that existed as a shooting club immediately before the commencement of Part 6, an application under section 38B must be made within 12 months after the date of commencement of Part 6.
+(3) In the case of any other shooting club that existed as a shooting club immediately before the commencement of Part 6, an application under section 38D must be made within 12 months after the date of commencement of Part 6.
 (4) If an application for certification of the club is made within that 12-month period, the club is to be treated, as from the time the Commissioner receives the application until the application has been decided, as if the club has been issued with a certificate of approval under section 38G.
 
 ### 13 Shooting ranges
@@ -1847,7 +1847,7 @@ In this Part,—
   (b) ends on whichever of the following dates first occurs:
     (i) the date of cancellation of the Commissioner’s approval of the shooting range given before the commencement of Part 6:
     (ii) the date that is 5 years after the date of commencement of Part 6.
-(3) In the case of any other shooting range that existed as a shooting range immediately before the commencement of Part 6, an application under section 38L must be made within 12 months after the commencement of Part 6.
+(3) In the case of any other shooting range that existed as a shooting range immediately before the commencement of Part 6, an application under section 38M must be made within 12 months after the commencement of Part 6.
 (4) If an application for certification of the range is made within that 12-month period, the range is to be treated, as from the time the Commissioner receives the application until the application has been decided, as if the range has been issued with a certificate under section 38P.
 
 ### 14 Obligations relating to registry
