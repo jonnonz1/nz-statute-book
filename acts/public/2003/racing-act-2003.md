@@ -1,5 +1,5 @@
 # Racing Act 2003
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2020-06-25_
 
 ### 1 Title
 This Act is the Racing Act 2003.
@@ -91,7 +91,7 @@ The purpose of this Act is—
   - **territorial authority consent** means consent granted by a territorial authority under section 65C
   - **territorial authority district** means a district in respect of which a territorial authority is constituted
   - **totalisator racing betting** means a form of betting in which bets are made by means of a totalisator on horses or greyhounds competing in 1 or more races, and in which the dividends payable are determined in the manner prescribed by the relevant racing betting rules.
-  - **transition period** means the period commencing on 1 July 2019 and ending with the close of 30 June 2020 or any later date specified by Order in Council made under section 68A.
+  - **transition period** means the period commencing on 1 July 2019 and ending with the close of 30 June 2021 or any later date specified by Order in Council made under section 68A.
 (2) A reference in this Act to a named body is a reference to the body in existence with that name immediately before the commencement of this Act, whether or not the body subsequently changes its name, and nothing in this Act prevents the body changing its name.
 
 ### 6 Act binds the Crown
