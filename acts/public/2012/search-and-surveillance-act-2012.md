@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2020-03-23_
+_Consolidation as at 2020-06-25_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -488,11 +488,11 @@ Nothing in this Part affects the common law defence of necessity as it applies t
 ### 45 Restrictions on some trespass surveillance and use of interception device
 (1) Nothing in this subpart authorises any enforcement officer to undertake trespass surveillance (other than by means of a tracking device) except in order to obtain evidential material in relation to an offence—
   (a) that is punishable by a term of imprisonment of 7 years or more; or
-  (b) against section 44, 44A, 45, 50, 50A, 50B, 50D, 51, 53A, 54, 54A, or 55 of the Arms Act 1983; or
+  (b) against section 16(4), 16A, 43, 43AA, 44, 44AA, 44A, 45, 50, 50A, 50AA, 50B, 50C, 50CA, 50D, 51, 53A(2), 54, 55, or 55A of the Arms Act 1983; or
   (c) against section 25, 26, or 70 of the Psychoactive Substances Act 2013.
 (2) Nothing in this subpart authorises any enforcement officer to use an interception device except in order to obtain evidential material in relation to an offence—
   (a) that is punishable by a term of imprisonment of 7 years or more; or
-  (b) against section 44, 45, 50, 51, 54, or 55 of the Arms Act 1983; or
+  (b) against section 16(4), 16A, 44, 44A, 45, 50, 50A, 50B, 50C, 50D, 51, 53A(2), 54, 55, or 55A of the Arms Act 1983; or
   (c) against section 25, 26, or 70 of the Psychoactive Substances Act 2013.
 
 **Surveillance device warrants**
