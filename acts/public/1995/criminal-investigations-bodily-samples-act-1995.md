@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Act 1995
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2020-06-25_
 
 > An Act—ato make provision for the taking of bodily samples for use in criminal investigations; andbto authorise—ithe establishment of a databank of information derived from the analysis of bodily samples taken from certain persons; andiithe use of information from that databank in criminal investigations; andcto provide for matters incidental thereto
 
@@ -1874,6 +1874,10 @@ For the purpose of this clause, a related offence in section 61 includes a relat
 | Wilful ill-treatment of animals | section 28 |
 | Reckless ill-treatment of animals | section 28A |
 |  | Arms Act 1983 |
+| Offence to import firearms, etc, without permit | section 16(4) |
+| Offence to import prohibited ammunition | section 16A |
+| Offence to sell or supply pistol or restricted weapon to person who does not hold permit to import or permit to possess | section 44 |
+| Offence to sell or supply prohibited firearm or prohibited magazine | section 44A |
 | Carrying or possessing firearms, etc, except for lawful, proper, and sufficient purpose | section 45 |
 | Unlawful possession of pistol or restricted weapon | section 50 |
 | Unlawful possession of prohibited firearm | section 50A |
@@ -1884,6 +1888,11 @@ For the purpose of this clause, a related offence in section 61 includes a relat
 | Use or attempted use of firearm, etc, to resist or prevent arrest or commit offence | section 54(2) |
 | Carrying prohibited firearm with criminal intent | section 54A |
 | Carrying firearm, etc, with criminal intent | section 55 |
+| Offence to assemble prohibited firearm | section 55A |
+| Offences relating to illegal manufacturing of arms items | section 55D |
+| Offences relating to illegal trafficking of firearms, parts, or ammunition | section 55E |
+| Offences relating to falsifying firearm markings | section 55F |
+| Offences relating to removing or altering firearm markings | section 55G |
 |  | Crimes Act 1961 |
 | Indecent act in public place | section 125 |
 | Indecent act with intent to insult or offend | section 126 |
