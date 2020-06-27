@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2020-01-13_
+_Consolidation as at 2020-06-27_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -107,6 +107,9 @@ In this Act, unless the context otherwise requires,—
     (b) 1 or more employers; and
     (c) 2 or more employees
   - **compliance order** means an order made by the Authority or the court under section 137 or section 139
+  - **controlling third party** means a person—
+    (a) who has a contract or other arrangement with an employer under which an employee of the employer performs work for the benefit of the person; and
+    (b) who exercises, or is entitled to exercise, control or direction over the employee that is similar or substantially similar to the control or direction that an employer exercises, or is entitled to exercise, in relation to the employee
   - **court** means the Employment Court constituted under this Act
   - **coverage clause** ,—
     (a) in relation to a collective agreement,—
@@ -2730,6 +2733,9 @@ An employee who believes that he or she has a personal grievance may pursue that
     (i) has authority over the employee alleging the grievance; or
     (ii) is in a position of authority over other employees in the workplace of the employee alleging the grievance.
 (3) In subsection (1)﻿(b), unjustifiable action by the employer does not include an action deriving solely from the interpretation, application, or operation, or disputed interpretation, application, or operation, of any provision of any employment agreement.
+(4) For the purposes of sections 103B, 115A, and 123A, the provisions of this Act that describe, define terms relating to, and provide for the application of the grounds for a personal grievance under subsection (1) apply with all necessary modifications as if—
+  (a) references to the employer were references to the controlling third party; and
+  (b) references to the employee’s employment included work the employee has performed under the control or direction of a controlling third party.
 
 ### 103A Test of justification
 (1) For the purposes of section 103(1)﻿(a) and (b), the question of whether a dismissal or an action was justifiable must be determined, on an objective basis, by applying the test in subsection (2).
@@ -2743,6 +2749,21 @@ An employee who believes that he or she has a personal grievance may pursue that
 (5) The Authority or the court must not determine a dismissal or an action to be unjustifiable under this section solely because of defects in the process followed by the employer if the defects were—
   (a) minor; and
   (b) did not result in the employee being treated unfairly.
+
+### 103B Joining controlling third party to personal grievance
+(1) This section applies if—
+  (a) an employee has—
+    (i) raised a personal grievance in accordance with section 114; and
+    (ii) applied to the Authority to resolve a personal grievance with the employee’s employer; and
+  (b) the personal grievance relates to an action that is alleged to have occurred while the employee was working under the control or direction of a controlling third party.
+(2) The employee or the employer, or both, may apply to the Authority or the court to join the controlling third party to the proceedings to resolve the personal grievance.
+(3) The Authority or the court must grant the application to join a controlling third party if the Authority or the court is satisfied—
+  (a) that the requirement to notify the controlling third party in accordance with section 115A has been complied with; and
+  (b) that an arguable case has been made out—
+    (i) that the party to be joined to the proceedings is a controlling third party; and
+    (ii) that the party’s actions caused or contributed to the personal grievance.
+(4) The Authority or the court may, at any stage of the proceedings, of its own motion join a controlling third party to the proceedings by order.
+(5) If the Authority or the court joins the controlling third party to the proceedings, the Authority or the court must consider whether to direct the employer, the employee, and the controlling third party to use mediation services to seek to resolve the personal grievance.
 
 ### 104 Discrimination
 (1) For the purposes of section 103(1)﻿(c), an employee is discriminated against in that employee's employment if the employee's employer or a representative of that employer, by reason directly or indirectly of any of the prohibited grounds of discrimination specified in section 105, or the employee’s union membership status or involvement in union activities in terms of section 107,—
@@ -2905,6 +2926,25 @@ For the purposes of section 114(4)﻿(a), exceptional circumstances include—
   (c) where the employee's employment agreement does not contain the explanation concerning the resolution of employment relationship problems that is required by section 54 or section 65, as the case may be; or
   (d) where the employer has failed to comply with the obligation under section 120(1) to provide a statement of reasons for dismissal.
 
+### 115A Notifying controlling third party of personal grievance
+(1) For the purposes of section 103B, this section is complied with—
+  (a) when an employee—
+    (i) considers that the actions of a controlling third party caused or contributed to the personal grievance; and
+    (ii) notifies the controlling third party of that fact within the 90-day employee notification period; or
+  (b) when an employer—
+    (i) considers that the actions of a controlling third party caused or contributed to the personal grievance; and
+    (ii) notifies the controlling third party of that fact within the 90-day employer notification period; or
+  (c) if the controlling third party has consented to being notified under subsection (2); or
+  (d) if the Authority has granted leave to notify the controlling third party under subsection (4).
+(2) Subsection (1)﻿(a) or (b) does not apply if the controlling third party consents to being notified after the expiration of the relevant 90-day notification period.
+(3) If the controlling third party does not consent to being notified after the relevant 90-day notification period, the employee or the employer may apply to the Authority for leave to notify the controlling third party after the expiration of that period.
+(4) On an application under subsection (3), the Authority, after giving the controlling third party an opportunity to be heard, may grant leave accordingly, subject to any conditions that it thinks fit, if the Authority considers it just to do so.
+(5) In any case where the Authority grants leave under subsection (4), the Authority must direct the employee, the employer, and the controlling third party to use mediation to seek to resolve the personal grievance.
+(6) In this section,—
+  - **90-day employee notification period** means the period of 90 days beginning with the date on which the action alleged to amount to a personal grievance occurred or came to the notice of the employee, whichever is later
+  - **90-day employer notification period** means the period of 90 days beginning with the date on which the employer’s employee raised the personal grievance with the employer
+  - **relevant 90-day notification period** means the 90-day employee notification period or the 90-day employer notification period.
+
 ### 116 Special provision where sexual harassment alleged
 Where a personal grievance involves allegations of sexual harassment, no account may be taken of any evidence of the complainant's sexual experience or reputation.
 
@@ -2955,6 +2995,17 @@ Nothing in this Part or in any employment agreement prevents a finding that a pe
     (i) concerning the action the employer should take in respect of the person who made the request referred to in section 108(1)﻿(a) or was guilty of the harassing behaviour or of the adverse treatment on that ground, which action may include the transfer of that person, the taking of disciplinary action against that person, or the taking of rehabilitative action in respect of that person:
     (ii) about any other action that it is necessary for the employer to take to prevent further harassment, or adverse treatment on that ground, of the employee concerned or any other employee.
 (2) When making an order under subsection (1)﻿(b) or (c), the Authority or the court may order payment to the employee by instalments, but only if the financial position of the employer requires it.
+
+### 123A Remedies where controlling third party caused or contributed to personal grievance
+(1) This section applies if the Authority or the court—
+  (a) determines that an employee has a personal grievance; and
+  (b) has, under section 103B, joined a controlling third party to the proceedings to resolve the personal grievance; and
+  (c) determines that the actions of the controlling third party caused or contributed to the situation that gave rise to the personal grievance.
+(2) The Authority or the court may, if satisfied that it is just to do so, order the controlling third party to provide to the employee either or both of the remedies in section 123(1)﻿(b) and (c).
+(3) The Authority or the court must consider the extent to which the actions of the controlling third party caused or contributed to the situation that gave rise to the personal grievance.
+(4) The Authority or the court must award any remedies against the employer under section 123 and against the controlling third party under subsection (2) in a way that reflects the extent to which the actions of each contributed to the situation that gave rise to the personal grievance.
+(5) The Authority or the court may, if making an order under subsection (2), order payment to the employee by instalments, but only if the financial position of the controlling third party requires it.
+(6) Subsection (2) applies subject to subsections (3) to (5).
 
 ### 124 Remedy reduced if contributing behaviour by employee
 Where the Authority or the court determines that an employee has a personal grievance, the Authority or the court must, in deciding both the nature and the extent of the remedies to be provided in respect of that personal grievance,—
@@ -3481,6 +3532,7 @@ The object of this Part is to establish procedures and institutions that—
 
 ### 144 Mediation services
 (1) The chief executive must employ or engage persons to provide mediation services to support all employment relationships.
+(1A) For the purposes of this section, employment relationships include those between an employer and an employee employed by the employer where the work performed is under the control or direction of a controlling third party.
 (2) Those mediation services may include—
   (a) the provision of general information about employment rights and obligations:
   (b) the provision of information about what services are available for persons (including unions and other bodies corporate) who have employment relationship problems:
@@ -3718,6 +3770,7 @@ If a matter before the Authority relates principally to an alleged breach of emp
   (dab) determining whether an employer has complied with section 69ABE (including, without limitation, whether the employer has avoided non-compliance with section 69ABE, as that term is defined in section 69ABA):
   (da) investigating bargaining under section 69O and, if necessary, determining redundancy entitlements under that section:
   (e) personal grievances:
+  (ea) joining a controlling third party to a personal grievance under section 103B:
   (f) matters about whether the good faith obligations imposed by this Act (including those that apply where a union and an employer bargain for a collective agreement) have been complied with in a particular case:
   (g) matters about the recovery of wages or other money under section 131:
   (ga) determining the apportionment of liability for the costs of service-related entitlements under section 69LB(4):
@@ -5023,6 +5076,11 @@ A trial provision contained in an employment agreement entered into before the c
 (1) Any personal grievance proceedings brought before the Authority or the court (or a court on appeal), but not finally determined or completed, before the commencement of this clause must be determined or completed under the law as it was at the time the proceedings were brought.
 (2) Any personal grievance proceedings brought before the Authority or the court (or a court on appeal) on or after the commencement of this clause must be determined in accordance with section 125 as replaced by section 47 of the 2018 Act.
 (3) Subclause (2) applies irrespective of whether the action alleged to amount to a personal grievance occurred or came to the notice of the employee before, on, or after the commencement of section 47 of the 2018 Act.
+
+### Part 3 — Provision relating to Employment Relations (Triangular Employment) Amendment Act 2019
+
+### 16 Application of sections 103(4), 103B, 115A, and 123A
+Sections 103(4), 103B, 115A, and 123A apply if the date on which the action alleged to amount to a personal grievance occurred or came to the notice of the employee, whichever is later, after the commencement of the Employment Relations (Triangular Employment) Amendment Act 2019.
 
 ## Schedule 1 — Essential services
 
