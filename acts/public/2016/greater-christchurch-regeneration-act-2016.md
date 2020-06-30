@@ -1,5 +1,5 @@
 # Greater Christchurch Regeneration Act 2016
-_Consolidation as at 2019-10-22_
+_Consolidation as at 2020-06-30_
 
 ### 1 Title
 This Act is the Greater Christchurch Regeneration Act 2016.
@@ -14,7 +14,7 @@ This Act is the Greater Christchurch Regeneration Act 2016.
 (1) This Act supports the regeneration of greater Christchurch through the following purposes:
   (a) enabling a focused and expedited regeneration process:
   (b) facilitating the ongoing planning and regeneration of greater Christchurch:
-  (c) enabling community input into decisions on the exercise of powers under section 71 and the development of Regeneration Plans:
+  (c) enabling community input into the development of Regeneration Plans:
   (d) recognising the local leadership of Canterbury Regional Council, Christchurch City Council, Regenerate Christchurch, Selwyn District Council, Te Rūnanga o Ngāi Tahu, and Waimakariri District Council and providing them with a role in decision making under this Act:
   (e) enabling the Crown to efficiently and effectively manage, hold, and dispose of land acquired by the Crown under the Canterbury Earthquake Recovery Act 2011 or this Act.
 (2) In this Act,—
@@ -85,7 +85,9 @@ This Act binds the Crown.
 (3) For the purpose of the Ngāi Tahu Claims Settlement Act 1998, an amalgamation of land under this Act is a disposition of land.
 
 ### 8 Geographical application of Act
-The powers and functions conferred by or under this Act are conferred in respect of greater Christchurch and do not apply outside of that area.
+(1) The powers and functions conferred by or under this Act are conferred in respect of greater Christchurch and do not apply outside of that area.
+(2) Between 1 July 2021 and the repeal date determined under section 151(3), the provisions listed in that subsection apply only in respect of land in the Ōtākaro Avon River Corridor.
+(3) In this section, Ōtākaro Avon River Corridor means the area described in Schedule 3A.
 
 ### 9 Effect of Plans on exercise of powers under Act
 (1) Unless expressly required in this Act, when exercising a particular power under this Act, the person exercising it need not consider any Recovery Plan or Regeneration Plan relating to the matter.
@@ -118,8 +120,8 @@ If powers are available under this Act to a Minister or a chief executive,—
   (g) the effect of Plans, which includes—
     (i) requiring persons exercising powers or performing functions under the Resource Management Act 1991 not to act inconsistently with a Plan in relation to certain matters under that Act (see section 60); and
     (ii) requiring councils to amend RMA documents if a Plan requires it (see section 61):
-  (h) further provisions concerning Plans, their effect, and their status (see sections 62 to 64):
-  (i) the Minister’s power to suspend, amend, or revoke all or part of an RMA document or other plan, strategy, or policy (see sections 65 to 73).
+  (h) further provisions concerning Plans, their effect, and their status (see sections 62 to 64).
+  (i)
 (2) This section is only a guide to the general scheme and effect of this subpart.
 
 ### 13 Interpretation in this subpart
@@ -128,8 +130,8 @@ In this subpart,—
   - **proponent** means a party that proposes—
   (a) the development of a Regeneration Plan:
   (b) the amendment of a Recovery Plan or Regeneration Plan:
-  (c) the revocation of all or part of a Recovery Plan or Regeneration Plan:
-  (d) the exercise of the power in section 71
+  (c) the revocation of all or part of a Recovery Plan or Regeneration Plan
+  (d)
   - **publicly available** means available on an Internet site to which the public has free access
   - **publish** , in relation to a notice or any other document, means to publish the notice or document—
   (a) in the Gazette; and
@@ -142,11 +144,11 @@ In this subpart,—
   (b) Regenerate Christchurch:
   (c) the chief executive.
 (2) Subsection (1) is subject to subsections (3) to (6).
-(3) Regenerate Christchurch may not be a proponent in relation to a Plan or the exercise of the power in section 71 unless the Plan or the exercise of the power relates to an area of Christchurch district.
-(4) Only Regenerate Christchurch may be the proponent in relation to a Plan or the exercise of the power in section 71 that—
+(3) Regenerate Christchurch may not be a proponent in relation to a Plan unless the Plan relates to an area of Christchurch district.
+(4) Only Regenerate Christchurch may be the proponent in relation to a Plan that—
   (a) relates to an area that includes any of the Christchurch residential red zone; and
   (b) does not relate to any area outside Christchurch district.
-(5) A territorial authority may not be a proponent in relation to a Plan or an exercise of the power in section 71 that relates to more than 1 district unless the territorial authority does so jointly with every other territorial authority to whose district the Plan or the exercise of power relates.
+(5) A territorial authority may not be a proponent in relation to a Plan that relates to more than 1 district unless the territorial authority does so jointly with every other territorial authority to whose district the Plan relates.
 (6) If subsection (5) applies,—
   (a) every reference to a proponent in this subpart must be read as a reference to the joint proponents (and the provisions of this subpart apply accordingly, with any necessary modifications); and
   (b) the joint proponents must agree before taking any step that a proponent may or must take under this subpart.
@@ -624,83 +626,31 @@ A Plan is a disallowable instrument, but not a legislative instrument, for the p
 **Suspension, amendment, or revocation of RMA document, council plan, etc**
 
 ### 65 Proposal for exercise of power in section 71
-(1) A proponent who proposes the exercise of the power to suspend, amend, or revoke an RMA document, council plan, or other document in section 71 must prepare a concise draft proposal that complies with subsection (2).
-(2) The draft proposal must contain the following:
-  (a) an explanation of what the exercise of the power is intended to achieve; and
-  (b) a description of which instrument the exercise of the power will apply to, and for how long; and
-  (c) an explanation of how the proponent expects the exercise of the power to meet 1 or more of the purposes of this Act; and
-  (d) an explanation of why the proponent considers the exercise of the power is necessary and preferable to any alternatives to the exercise of the power; and
-  (e) a draft of the notice that would be published under section 68 if the proposal were approved; and
-  (f) a draft of the notice that would be published under section 71 if the power were exercised.
+[Repealed]
 
 ### 66 Proponent must seek views and finalise proposal
-(1) The proponent must seek the views of each of the following parties that is not the proponent:
-  (a) the strategic partners:
-  (b) Regenerate Christchurch:
-  (c) the chief executive.
-(2) The proponent must—
-  (a) finalise the proposal, making any modifications that the proponent thinks appropriate; and
-  (b) submit the proposal to the Minister for approval, together with a concise statement recording the views provided under subsection (1).
-(3) Subsection (4) applies if—
-  (a) the proposal relates to an RMA document, council plan, or other document as it applies in an area of Christchurch district (and not to any area outside that district); and
-  (b) Regenerate Christchurch is not the proponent.
-(4) If this subsection applies,—
-  (a) the proponent must provide the finalised proposal to Regenerate Christchurch; and
-  (b) Regenerate Christchurch must provide its views on the finalised proposal to the Minister as soon as practicable.
+[Repealed]
 
 ### 67 Minister may decide to proceed with proposal
-(1) The Minister must decide whether to proceed with a proposal that has been finalised in accordance with section 66 no later than 30 working days after receiving the proposal.
-(2) In making a decision, the Minister must—
-  (a) have particular regard to the views of the strategic partners and Regenerate Christchurch recorded in the statement provided under section 66(2) (and the views of Regenerate Christchurch provided under section 66(4), if applicable); and
-  (b) consider the views of the chief executive recorded in that statement.
-(3) If the Minister declines the proposal, the Minister must provide reasons for his or her decision to the proponent.
+[Repealed]
 
 ### 68 Minister must invite public comment
-If the Minister decides to proceed with the proposal, the Minister must publish a notice that—
-  (a) includes a summary of the matters contained in the proposal:
-  (b) advises where the full proposal can be inspected:
-  (c) invites written comments on the proposal in the manner and by the date specified in the notice.
+[Repealed]
 
 ### 69 Approval of proposal for exercise of power
-In considering whether to exercise the power in section 71, the Minister must—
-  (a) take into account the comments provided under section 68(c); and
-  (b) have particular regard to any views of the strategic partners and Regenerate Christchurch that are expressed in the comments provided under section 68(c); and
-  (c) make a decision no later than 30 working days after the date specified in the notice published under section 68.
+[Repealed]
 
 ### 70 Minister must provide reasons for declining proposal to exercise power
-If the Minister declines to exercise the power in section 71, the Minister must provide reasons for his or her decision to the proponent.
+[Repealed]
 
 ### 71 Minister may suspend, amend, or revoke RMA document, council plan, etc
-(1) This section applies if the Minister has decided to exercise the power under this section in accordance with section 69.
-(2) The Minister may, by notice in the Gazette, suspend, amend, or revoke all or part of any of the following, so far as they relate to any area within greater Christchurch:
-  (a) an RMA document:
-  (b) a plan or policy of a council under the Local Government Act 2002, except a funding impact statement in an annual plan or a long-term plan:
-  (c) a regional land transport plan under the Land Transport Management Act 2003:
-  (d) all or any of the following:
-    (i) general policies approved under section 17C of the Conservation Act 1987 and general policies approved under section 15A of the Reserves Act 1977:
-    (ii) conservation management strategies approved under section 17F of the Conservation Act 1987:
-    (iii) conservation management plans approved under section 17G of the Conservation Act 1987, or under section 40B of the Reserves Act 1977, or under section 14E of the Wildlife Act 1953:
-    (iv) management plans approved under section 41 of the Reserves Act 1977 (with the exception of the Hagley Park Management Plan):
-    (v) any other management plan for a reserve under any other enactment:
-  (e) a bylaw made under any Act.
-(3) The Minister may, by notice in the Gazette,—
-  (a) revoke any changes or variations approved to a plan under the Conservation Act 1987, the Land Transport Management Act 2003, the Local Government Act 2002, the Reserves Act 1977, or the Wildlife Act 1953 (but not changes or variations to the Hagley Park Management Plan under the Reserves Act 1977); or
-  (b) impose a moratorium on further changes or variations for a specified period.
-(4) The Minister may, by notice in the Gazette, vary or revoke a notice given under subsection (2) or (3).
-(5) No compensation is payable under this Act in respect of any action taken under this section.
+[Repealed]
 
 ### 72 Contents of notice under section 71
-(1) A Gazette notice under section 71 must specify, in respect of an exercise of the power in that section,—
-  (a) the RMA document, council plan, or other document affected by the exercise of the power:
-  (b) how the exercise of the power affects the RMA document, council plan, or other document:
-  (c) the date on which the exercise of the power takes effect.
-(2) As soon as practicable after publishing a Gazette notice under section 71, the Minister must publish, in 1 or more newspapers circulating in greater Christchurch and on an Internet site to which the public has free access, a notice that—
-  (a) summarises the matters in subsection (1):
-  (b) specifies where the Gazette notice can be inspected.
-(3) This section applies despite section 13.
+[Repealed]
 
 ### 73 Status of notice under Legislation Act 2012
-A Gazette notice given under section 71 is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### Subpart 2 — Dealing with land and other property
 
@@ -1081,7 +1031,7 @@ Nothing in this Act, apart from this subpart or section 83 or 84, confers any ri
 (2) Regenerate Christchurch—
   (a) is a body corporate; and
   (b) is accordingly a legal entity separate from its members, office holders, employees, the Crown, and Christchurch City Council; and
-  (c) continues in existence until it is disestablished on the close of 30 June 2021.
+  (c) continues in existence until it is disestablished on the close of 30 June 2020.
 
 ### 122 Purpose and objectives of Regenerate Christchurch
 (1) Regenerate Christchurch’s purpose is to support a vibrant, thriving Christchurch that has economic, social, and lifestyle opportunities for residents, businesses, visitors, investors, and developers.
@@ -1093,7 +1043,7 @@ Nothing in this Act, apart from this subpart or section 83 or 84, confers any ri
 ### 123 Functions of Regenerate Christchurch
 The functions of Regenerate Christchurch are—
   (a) to develop visions, strategies, and Regeneration Plans to assist in achieving regeneration:
-  (b) to make recommendations and to provide advice to the Minister on the development, revocation, and amendment of Plans under sections 28 to 39 and 49 to 59 and the exercise of powers under section 71:
+  (b) to make recommendations and to provide advice to the Minister on the development, revocation, and amendment of Plans under sections 28 to 39 and 49 to 59:
   (c) to facilitate increased investment:
   (d) to provide advice to Ōtākaro Limited, Development Christchurch Limited, and others on the regeneration outcomes being sought:
   (e) to comment on regeneration outcomes and interventions, and the contribution of Ōtākaro Limited and Development Christchurch Limited:
@@ -1124,12 +1074,16 @@ Regenerate Christchurch may perform and exercise its functions and powers in rel
   (a) participate effectively in the board; and
   (b) contribute to achieving the purpose and objectives of Regenerate Christchurch.
 (3) The Minister must ensure that 1 member of the board appointed by the Minister under subsection (1)﻿(b) is a person nominated for appointment by Te Rūnanga o Ngāi Tahu.
-(4) An appointer may appoint a member to the board for any period of time (provided that the period ends on or before 30 June 2021).
+(4) An appointer may appoint a member to the board for any period of time (provided that the period ends on or before 30 June 2020).
+(4A) A board member ceases to hold office at the earlier of the following dates (despite anything to the contrary in the member's letter of appointment):
+  (a) the close of 30 June 2020:
+  (b) the end date of the member’s appointment specified in the member’s letter of appointment.
 (5) This section is subject to Part 1 of Schedule 5.
 
 ### 128 Chairperson of board
 (1) The Minister must appoint a member as the chairperson of the board for the period ending on the close of 30 June 2019.
-(2) Christchurch City Council must appoint a member as the chairperson of the board for the period beginning on 1 July 2019 and ending on the close of 30 June 2021.
+(2) Christchurch City Council must appoint a member as the chairperson of the board for the period beginning on 1 July 2019 and ending on the close of 30 June 2020.
+(3) The chairperson of the board ceases to hold office at the close of 30 June 2020 (despite anything to the contrary in the chairperson’s letter of appointment).
 
 **Further provisions relating to Regenerate Christchurch**
 
@@ -1209,7 +1163,7 @@ In this subpart,—
 (2) An agreement under this section has no effect until it is approved by Christchurch City Council and the Minister.
 (3) An agreement under this section must provide that any transfer provided for in the agreement takes place—
   (a) no earlier than the date on which the agreement is presented to the House of Representatives in accordance with section 139; and
-  (b) no later than the close of 30 June 2021.
+  (b) no later than the close of 30 June 2020.
 (4) Any of the following may be a transferee for the purposes of subsection (1):
   (a) Christchurch City Council:
   (b) a council organisation:
@@ -1222,9 +1176,9 @@ In this subpart,—
 (3) The presentation of an agreement in accordance with subsection (1) is to be treated as notice of the transfer and any third party must, after the date specified in the agreement for the transfer, deal with the transferee in place of the transferor.
 
 ### 140 Residual assets and liabilities transferred to successor organisation
-(1) Any asset or liability that, immediately before 1 July 2021, belongs to Regenerate Christchurch (and that is not subject to an agreement under section 138) is, on and from 1 July 2021, an asset or a liability of the successor organisation.
-(2) If an asset or a liability is transferred to the successor organisation under subsection (1), the successor organisation must, as soon as practicable after 1 July 2021, notify any third party of the transfer.
-(3) Any third party must, on and from 1 July 2021, deal with the successor organisation in place of Regenerate Christchurch.
+(1) Any asset or liability that, immediately before 1 July 2020, belongs to Regenerate Christchurch (and that is not subject to an agreement under section 138) is, on and from 1 July 2020, an asset or a liability of the successor organisation.
+(2) If an asset or a liability is transferred to the successor organisation under subsection (1), the successor organisation must, as soon as practicable after 1 July 2020, notify any third party of the transfer.
+(3) Any third party must, on and from 1 July 2020, deal with the successor organisation in place of Regenerate Christchurch.
 
 ### 141 Transfer of Crown agreements, etc
 (1) The Minister or chief executive may transfer to a party specified in subsection (2) any of the Crown’s rights, obligations, or liabilities under any agreement or undertaking entered into by the Crown for any purpose of the Canterbury Earthquake Recovery Act 2011 or this Act.
@@ -1322,19 +1276,17 @@ Nothing effected or authorised by a transfer under this subpart—
 **Annual review**
 
 ### 150 Annual review of Act
-(1) The Minister must, within 12 months after the commencement of this subpart and once in every 12-month period after that, commission an annual review of the operation and effectiveness of this Act.
-(2) The person or persons conducting the review must prepare for the Minister a report on the review.
-(3) The report must include—
-  (a) a description of powers exercised by or on behalf of a Minister or a chief executive under this Act during the period reported on:
-  (b) any recommendations for amendments to this Act.
-(4) The Minister must present the report to the House of Representatives as soon as practicable after it has been completed.
+[Repealed]
 
 **Repeal, amendments, and revocations**
 
 ### 151 Repeal of this Act and revocations
-(1) This Act, except for section 1 and subpart 6 of Part 2, is repealed on the close of 30 June 2021.
-(2) Section 1 and subpart 6 of Part 2 are repealed at the close of 30 June 2022.
-(3) At the close of 30 June 2021, every Order in Council continued by section 147 that is in force is revoked.
+(1) This Act, except for the provisions listed in subsections (2) and (3), is repealed on the close of 30 June 2021.
+(2) Subpart 6 of Part 2 is repealed on the close of 30 June 2022.
+(3) This section and sections 1, 3 to 7, 8(2), 10, 11, 75, 76, 87(3), (4), (5), and (6), 91 to 101, 107 to 109, 118, 119, 120, and 145 and the cross-headings above sections 91, 92, and 107 are repealed at the earlier of—
+  (a) the close of 30 June 2023; and
+  (b) a date set by Order in Council, made by the Governor-General on the recommendation of the Minister.
+(4) At the close of 30 June 2021, every Order in Council continued by section 147 that is in force is revoked.
 
 ### 152 Consequential amendments and revocation
 (1) Amend the enactments specified in Part 1 of Schedule 8 as set out in that schedule.
@@ -1465,6 +1417,17 @@ For the purposes of subpart 1 of Part 2, the Christchurch residential red zone c
 (1) The following maps are indicative only, and if there is any inconsistency between the maps, subclause (2), and the description in clause 1, the description in clause 1 prevails.
 (2) The area of the Christchurch residential red zone is the area shaded dark grey in the following 2 maps.
 
+## Schedule 3A — Description of Ōtākaro Avon River Corridor
+
+### 1 Description of Ōtākaro Avon River Corridor
+For the purposes of section 8, the Ōtākaro Avon River Corridor comprises all land that, on 1 July 2021,—
+  (a) is held by the Crown under this Act or under the Canterbury Earthquake Recovery Act 2011; or
+  (b) is owned by a council, and adjoins or is adjacent to land described in paragraph (a).
+
+### 2 Map of Ōtākaro Avon River Corridor
+(1) The map in subclause (2) is indicative only, and if there is any inconsistency between the map, subclause (2), and the description in clause 1, the description in clause 1 prevails.
+(2) The area of the Ōtākaro Avon River Corridor is the area shaded dark grey in the following map.
+
 ## Schedule 4 — Form
 
 ## Schedule 5 — Provisions applying in relation to Regenerate Christchurch
@@ -1512,7 +1475,7 @@ The acts of a person as a member or as the chairperson of the board are valid ev
   (b) state the reasons for the removal.
 (6) The appointer must notify the removal of a member from office in the Gazette as soon as practicable after giving the notice.
 (7) The Minister must notify the removal of the chairperson from that role in the Gazette as soon as practicable after giving the notice.
-(8) A member is not entitled to any compensation or other payment or benefit relating to his or her ceasing, for any reason, to hold office as a member.
+(8) A member is not entitled to any compensation or other payment or benefit relating to his or her ceasing, for any reason (including because of section 127(4A) or 128(3)), to hold office as a member.
 
 ### 6 Vacancies
 (1) If a member is removed, or resigns, or is disqualified under clause 2, or if the office of a member otherwise becomes vacant, there is a vacancy on the board.
@@ -2012,7 +1975,7 @@ The statement of responsibility must—
 
 ### 69 Final annual report of Regenerate Christchurch
 (1) Section 45J of the Public Finance Act 1989 (which relates to final annual reports of disestablished entities) applies to the final annual report of Regenerate Christchurch.
-(2) Despite section 45J(3) of that Act, the Minister of Finance must, by the close of 30 June 2021, approve the transfer of the responsibility for preparing and providing the final annual report under that section to another party.
+(2) Despite section 45J(3) of that Act, the Minister of Finance must, by the close of 30 June 2020, approve the transfer of the responsibility for preparing and providing the final annual report under that section to another party.
 
 **Other financial provisions**
 
