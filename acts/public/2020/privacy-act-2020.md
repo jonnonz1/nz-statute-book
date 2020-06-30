@@ -384,11 +384,11 @@ IPPs 2, 3, and 4(b) do not apply to personal information collected by an intelli
 (6) The Commissioner may grant an authorisation sought by an applicant only if the Commissioner is satisfied that, in the special circumstances of the case,—
   (a) the public interest in granting the authorisation outweighs, to a substantial degree, the possibility of—
     (i) any loss, detriment, damage, or injury to the individuals concerned; or
-    (ii) any adverse affect on the rights, benefits, privileges, obligations, or interests of the individuals concerned; or
+    (ii) any adverse effect on the rights, benefits, privileges, obligations, or interests of the individuals concerned; or
     (iii) any significant humiliation, significant loss of dignity, or significant injury to the feelings of the individuals concerned; or
   (b) granting the authorisation would result in a clear benefit to the individuals concerned that outweighs the possibility of—
     (i) any loss, detriment, damage, or injury to the individuals concerned; or
-    (ii) any adverse affect on the rights, benefits, privileges, obligations, or interests of the individuals concerned; or
+    (ii) any adverse effect on the rights, benefits, privileges, obligations, or interests of the individuals concerned; or
     (iii) any significant humiliation, significant loss of dignity, or significant injury to the feelings of the individuals concerned.
 (7) The Commissioner may not grant an authorisation under subsection (6) in respect of any specified personal information if the individual concerned objected.
 (8) An authorisation granted under subsection (6) may be subject to any conditions that the Commissioner considers appropriate.
@@ -1979,7 +1979,7 @@ If an agency derives or receives information produced by an authorised informati
   (b) before or immediately after the decision to suspend the benefit, the department gives the individual written notice that—
     (i) specifies the particulars of the discrepancy and the suspension of benefit, and any other adverse action that the department proposes to take; and
     (ii) states that the individual has 5 working days from the receipt of the notice to show cause why the benefit ought not to have been suspended or why the adverse action should not be taken, or both.
-(3) An adverse action must not be taken under subsection (2) until the expiry of the 5 working days referred to in paragraph (b)﻿(ii).
+(3) An adverse action must not be taken under subsection (2) until the expiry of the 5 working days referred to in subsection (2)﻿(b)﻿(ii).
 (4) Subsection (1) does not prevent the Commissioner of Inland Revenue from immediately taking action to recover amounts relating to—
   (a) unpaid amounts owed to the Commissioner by an individual who is in serious default and who is identified in information supplied to the Commissioner under section 306 of the Customs and Excise Act 2018; or
   (b) financial support under the Child Support Act 1991 owed to the Commissioner by an individual who is identified in information supplied to the Commissioner under section 307 or 313 of the Customs and Excise Act 2018.
