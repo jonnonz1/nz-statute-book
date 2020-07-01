@@ -1,5 +1,5 @@
 # Imprest Supply (Second for 2019/20) Act 2019
-_Consolidation as at 2019-09-23_
+_Consolidation as at 2020-07-01_
 
 ### 1 Title
 This Act is the Imprest Supply (Second for 2019/20) Act 2019.
