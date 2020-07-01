@@ -1,5 +1,5 @@
 # Greater Christchurch Regeneration Act 2016
-_Consolidation as at 2020-06-30_
+_Consolidation as at 2020-07-01_
 
 ### 1 Title
 This Act is the Greater Christchurch Regeneration Act 2016.
@@ -15,7 +15,7 @@ This Act is the Greater Christchurch Regeneration Act 2016.
   (a) enabling a focused and expedited regeneration process:
   (b) facilitating the ongoing planning and regeneration of greater Christchurch:
   (c) enabling community input into the development of Regeneration Plans:
-  (d) recognising the local leadership of Canterbury Regional Council, Christchurch City Council, Regenerate Christchurch, Selwyn District Council, Te Rūnanga o Ngāi Tahu, and Waimakariri District Council and providing them with a role in decision making under this Act:
+  (d) recognising the local leadership of Canterbury Regional Council, Christchurch City Council, Selwyn District Council, Te Rūnanga o Ngāi Tahu, and Waimakariri District Council and providing them with a role in decision making under this Act:
   (e) enabling the Crown to efficiently and effectively manage, hold, and dispose of land acquired by the Crown under the Canterbury Earthquake Recovery Act 2011 or this Act.
 (2) In this Act,—
   - **regeneration** means—
@@ -53,7 +53,6 @@ In this Act, unless the context otherwise requires,—
       (iii) Residential Red Zone Offer Recovery Plan notified in the Gazette on 23 April 2015, 2015-go4483:
       (iv) Lyttelton Port Recovery Plan:
     (b) includes, on and from its notification in the Gazette in accordance with clause 4 of Schedule 1, the Waimakariri Residential Red Zone Recovery Plan
-  - **Regenerate Christchurch** means the entity established by section 121
   - **regeneration** has the meaning given to it in section 3(2)
   - **Regeneration Plan** means a Regeneration Plan approved under section 26 or 38
   - **requiring authority** has the same meaning as in section 2(1) of the Resource Management Act 1991
@@ -65,7 +64,6 @@ In this Act, unless the context otherwise requires,—
       (iv) a plan; and
     (b) includes a change or variation to any document listed in paragraph (a)
   - **strategic partners** means Canterbury Regional Council, Christchurch City Council, Selwyn District Council, Te Rūnanga o Ngāi Tahu, and Waimakariri District Council
-  - **successor organisation** means the council-controlled organisation approved in accordance with section 134
   - **urban renewal** has the meaning given to it in section 3(2)
   - **working day** means a day of the week other than—
   (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, and Labour Day; and
@@ -126,7 +124,6 @@ If powers are available under this Act to a Minister or a chief executive,—
 
 ### 13 Interpretation in this subpart
 In this subpart,—
-  - **Christchurch residential red zone** means the area described in Schedule 3
   - **proponent** means a party that proposes—
   (a) the development of a Regeneration Plan:
   (b) the amendment of a Recovery Plan or Regeneration Plan:
@@ -141,13 +138,11 @@ In this subpart,—
 ### 14 Who may be proponent
 (1) Any of the following parties may be a proponent:
   (a) a strategic partner:
-  (b) Regenerate Christchurch:
+  (b)
   (c) the chief executive.
-(2) Subsection (1) is subject to subsections (3) to (6).
-(3) Regenerate Christchurch may not be a proponent in relation to a Plan unless the Plan relates to an area of Christchurch district.
-(4) Only Regenerate Christchurch may be the proponent in relation to a Plan that—
-  (a) relates to an area that includes any of the Christchurch residential red zone; and
-  (b) does not relate to any area outside Christchurch district.
+(2) Subsection (1) is subject to subsections (5) and (6).
+(3)
+(4)
 (5) A territorial authority may not be a proponent in relation to a Plan that relates to more than 1 district unless the territorial authority does so jointly with every other territorial authority to whose district the Plan relates.
 (6) If subsection (5) applies,—
   (a) every reference to a proponent in this subpart must be read as a reference to the joint proponents (and the provisions of this subpart apply accordingly, with any necessary modifications); and
@@ -191,7 +186,7 @@ Nothing in section 32 or Schedule 1 of the Resource Management Act 1991 applies 
 ### 20 Proponent must seek views and finalise outline
 (1) The proponent must provide the draft outline prepared under section 19 to, and seek the views of, each of the following parties that is not the proponent:
   (a) the strategic partners:
-  (b) Regenerate Christchurch:
+  (b)
   (c) the chief executive:
   (d) in the case of a proposal to amend the Lyttelton Port Recovery Plan, Lyttelton Port Company Limited.
 (2) The proponent must—
@@ -201,7 +196,7 @@ Nothing in section 32 or Schedule 1 of the Resource Management Act 1991 applies 
 ### 21 Minister may approve outline for Plan or amendment
 (1) The Minister must approve or decline an outline that has been finalised in accordance with section 20.
 (2) In making a decision, the Minister must—
-  (a) have particular regard to the views of the strategic partners and Regenerate Christchurch recorded in the statement provided under section 20(2); and
+  (a) have particular regard to the views of the strategic partners recorded in the statement provided under section 20(2); and
   (b) consider the views of the chief executive and, if section 20(1)﻿(d) applies, Lyttelton Port Company Limited recorded in that statement.
 (3) If the Minister approves the outline, the proponent must publish a notice that—
   (a) summarises the matters contained in the outline; and
@@ -217,7 +212,7 @@ Nothing in section 32 or Schedule 1 of the Resource Management Act 1991 applies 
 (1) If the Minister approves an outline under section 21, the proponent must develop a draft Plan or amendment in accordance with the outline.
 (2) The proponent must, in developing the draft Plan or amendment, seek the views of each of the following that is not the proponent:
   (a) the strategic partners:
-  (b) Regenerate Christchurch:
+  (b)
   (c) the chief executive:
   (d) in the case of a proposal to amend the Lyttelton Port Recovery Plan, Lyttelton Port Company Limited.
 
@@ -241,7 +236,7 @@ Nothing in section 32 or Schedule 1 of the Resource Management Act 1991 applies 
 ### 26 Approval of Plan or amendment relating to greater Christchurch
 (1) The Minister must approve or decline a draft Plan or amendment that has been finalised in accordance with section 25.
 (2) In making a decision, the Minister must—
-  (a) seek and have particular regard to the views of the strategic partners and Regenerate Christchurch:
+  (a) seek and have particular regard to the views of the strategic partners:
   (b) seek and consider the views of the chief executive and, if section 23(2)﻿(d) applies, Lyttelton Port Company Limited:
   (c) consider whether the draft Plan or amendment has been developed in accordance with the outline approved under section 21:
   (d) consider the advice and the statement provided under section 25(1)﻿(c):
@@ -272,7 +267,7 @@ Nothing in section 32 or Schedule 1 of the Resource Management Act 1991 applies 
   (d) the proposed process for the development of the Plan or amendment, including—
     (i) the expected time frames for developing the draft Plan or amendment:
     (ii) the time frame for the Minister to decide whether to approve the draft Plan or amendment under section 38:
-    (iii) if applicable, time frames for Regenerate Christchurch to perform the functions set out in sections 36 and 37:
+    (iii)
     (iv) the opportunities for public engagement in relation to the draft Plan or amendment:
     (v) who will draft the Plan or amendment and carry out public engagement:
     (vi) how the cost of developing the draft Plan or amendment will be met; and
@@ -284,37 +279,31 @@ Nothing in section 32 or Schedule 1 of the Resource Management Act 1991 applies 
   (a) Christchurch City Council:
   (b) Canterbury Regional Council:
   (c) Te Rūnanga o Ngāi Tahu:
-  (d) Regenerate Christchurch:
+  (d)
   (e) Ōtākaro Limited:
   (f) the chief executive.
 (2) The proponent must—
   (a) finalise the draft outline, making any modifications that the proponent thinks appropriate:
   (b) submit the outline, together with a concise statement recording the views provided under subsection (1),—
-    (i) to the Minister for approval under section 31 if the proponent is Regenerate Christchurch; or
-    (ii) in every other case, to Regenerate Christchurch for review under section 30.
-(3) If section 14(4) applies, Regenerate Christchurch must not submit an outline to the Minister without Ōtākaro Limited’s consent.
-(4) Ōtākaro Limited may not withhold its consent except for reasons that are consistent with 1 or more of the purposes of this Act.
+    (i) to the Minister for approval under section 31.
+    (ii)
+(3)
+(4)
 
 ### 30 Regenerate Christchurch must review outline and may recommend outline to Minister
-(1) Regenerate Christchurch must review an outline that has been submitted to it under section 29(2) and decide whether to recommend the outline to the Minister for approval.
-(2) In making a decision, Regenerate Christchurch must consider the views recorded in the statement provided under section 29(2).
-(3) Regenerate Christchurch may amend the outline (including by changing the proponent for the purposes of sections 32 to 39 to itself or to another party who could have prepared the outline) before recommending the outline to the Minister.
-(4) Regenerate Christchurch must—
-  (a) recommend the outline to the Minister and submit it to the Minister for approval; or
-  (b) decline to recommend the outline to the Minister for approval.
-(5) If Regenerate Christchurch declines to recommend the outline to the Minister for approval, Regenerate Christchurch must provide reasons for its decision to the proponent.
+[Repealed]
 
 ### 31 Minister must approve outline for Plan or amendment if conditions in section 11 are met
-(1) The Minister must approve or decline an outline that has been submitted in accordance with section 29(2) or 30.
+(1) The Minister must approve or decline an outline that has been submitted in accordance with section 29(2).
 (2) If the Minister considers that approving the outline is an exercise of power permitted by section 11, he or she must approve the outline.
-(3) If the Minister approves the outline, Regenerate Christchurch must publish a notice that—
+(3) If the Minister approves the outline, the proponent must publish a notice that—
   (a) summarises the matters contained in the outline; and
   (b) specifies where the full outline can be inspected.
-(4) If the Minister declines the outline, the Minister must provide reasons for his or her decision to Regenerate Christchurch.
+(4) If the Minister declines the outline, the Minister must provide reasons for his or her decision to the proponent.
 
 ### 32 Proponent may modify outline for Plan or amendment if outline declined
 (1) Subsections (2) and (3) apply if—
-  (a) Regenerate Christchurch declines to recommend an outline to the Minister for approval under section 30; or
+  (a)
   (b) the Minister declines an outline under section 31.
 (2) The proponent may make any modifications to the outline that the proponent thinks fit.
 (3) If the proponent modifies the outline in accordance with subsection (2), sections 29 to 31 and this section apply accordingly.
@@ -324,56 +313,44 @@ Nothing in section 32 or Schedule 1 of the Resource Management Act 1991 applies 
 (1) If the Minister approves an outline under section 31, the proponent must develop a draft Plan or amendment in accordance with the outline.
 (2) The proponent must, in developing the draft Plan or amendment, seek the views of each party specified in section 29(1).
 
-### 34 Regenerate Christchurch must notify draft Plan or amendment and invite comment
-(1) When the proponent has developed the draft Plan or amendment under section 33, Regenerate Christchurch must publish a notice that—
+### 34 Proponent must notify draft Plan or amendment and invite comment
+(1) When the proponent has developed the draft Plan or amendment under section 33, the proponent must publish a notice that—
   (a) advises where the draft Plan or amendment can be inspected; and
   (b) invites written comments on the draft Plan or amendment to be provided to the proponent in the manner and by the date specified in the notice.
 (2) The notice must also advise of any other opportunity for public engagement in relation to the draft Plan or amendment (including any opportunity identified in the outline approved under section 31).
-(3) The proponent must, at the time Regenerate Christchurch publishes the notice, ensure that a concise statement recording the views provided under section 33 is made publicly available.
+(3) The proponent must, at the time the proponent publishes the notice, ensure that a concise statement recording the views provided under section 33 is made publicly available.
 
 ### 35 Proponent must finalise and submit draft Plan or amendment
 (1) The proponent must—
   (a) consider the comments and other input provided under section 34; and
   (b) finalise the draft Plan or amendment, making any changes that the proponent thinks appropriate; and
   (c) submit the draft Plan or amendment, together with the material specified in subsection (2),—
-    (i) to the Minister for approval under section 38 if the proponent is Regenerate Christchurch; or
-    (ii) in every other case, to Regenerate Christchurch for review under section 36.
+    (i) to the Minister for approval under section 38.
+    (ii)
 (2) The material referred to in subsection (1)﻿(c) is—
   (a) a concise statement recording the views provided under section 33:
   (b) a concise statement summarising the comments and other input provided under section 34:
-  (c) if the proponent is Regenerate Christchurch,—
-    (i) advice on whether the draft Plan or amendment has been developed in accordance with the outline approved under section 31:
-    (ii) advice on how the views and comments provided under sections 33 and 34 have been considered and, if relevant, addressed.
+  (c) the proponent’s advice on—
+    (i) whether the draft Plan or amendment has been developed in accordance with the outline approved under section 31:
+    (ii) how the views and comments provided under sections 33 and 34 have been considered and, if relevant, addressed.
 (3) The proponent must, at the time the proponent submits the draft Plan or amendment, ensure that the statement summarising the comments and other input is made publicly available.
-(4) If section 14(4) applies, Regenerate Christchurch must not submit a draft Plan or amendment to the Minister without Ōtākaro Limited’s consent.
-(5) Ōtākaro Limited may not withhold its consent except for reasons that are consistent with 1 or more of the purposes of this Act.
+(4)
+(5)
 
 ### 36 Regenerate Christchurch must review draft Plan or amendment
-(1) Regenerate Christchurch must review a draft Plan or amendment that has been submitted to it under section 35(1).
-(2) In reviewing the draft Plan or amendment, Regenerate Christchurch must—
-  (a) consider the views and comments recorded in each of the statements provided under section 35(2):
-  (b) consider whether the draft Plan or amendment has been developed in accordance with the outline approved under section 31.
-(3) Regenerate Christchurch may amend the draft Plan or amendment.
-(4) Regenerate Christchurch must seek the views of the following on any material amendment it proposes to make to the draft Plan or amendment:
-  (a) each party specified in section 29(1):
-  (b) any other party that Regenerate Christchurch thinks appropriate.
+[Repealed]
 
 ### 37 Regenerate Christchurch must provide recommendation to Minister
-(1) Regenerate Christchurch must submit a draft Plan or amendment it has reviewed under section 36 (as amended under section 36(3), if applicable) to the Minister, together with a report that contains Regenerate Christchurch’s recommendation on whether the Minister should approve the draft Plan or amendment.
-(2) The report must also contain the following:
-  (a) advice on whether the draft Plan or amendment has been developed in accordance with the outline approved under section 31:
-  (b) the statements provided under section 35(2):
-  (c) a description of any amendments to the draft Plan or amendment that are made by Regenerate Christchurch under section 36(3) (including its reasons for making those amendments):
-  (d) a concise statement recording the views provided in relation to any material amendments under section 36(4):
-  (e) advice on how the views and comments provided to the proponent under sections 33 and 34 and the views provided to Regenerate Christchurch under section 36(4) have been considered and, if relevant, addressed.
+[Repealed]
 
 ### 38 Approval of Plan or amendment relating to Christchurch district
-(1) The Minister must approve or decline a draft Plan or amendment that has been submitted to the Minister in accordance with section 35 or 37.
+(1) The Minister must approve or decline a draft Plan or amendment that has been submitted to the Minister in accordance with section 35.
 (2) In making a decision, the Minister must,—
-  (a) if Regenerate Christchurch is the proponent,—
-    (i) have particular regard to the views of Regenerate Christchurch:
-    (ii) consider the material specified in section 35(2):
-  (b) if any other party is the proponent, have particular regard to Regenerate Christchurch’s report:
+  (a) have particular regard to the views of each of the following parties that is not the proponent:
+    (i) Christchurch City Council:
+    (ii) Canterbury Regional Council:
+    (iii) Te Rūnanga o Ngāi Tahu:
+  (b) consider the material specified in section 35(2):
   (c) consider whether the draft Plan or amendment has been developed in accordance with the outline approved under section 31:
   (d) consider the fiscal and financial implications of the draft Plan or amendment:
   (e) consider whether the draft Plan or amendment is in the public interest.
@@ -383,7 +360,7 @@ Nothing in section 32 or Schedule 1 of the Resource Management Act 1991 applies 
   (c) where the Plan or amended Plan can be inspected.
 
 ### 39 Proponent may modify draft Plan or amendment
-(1) If the Minister declines to approve a draft Plan or amendment under section 38, the Minister must provide reasons for his or her decision to Regenerate Christchurch.
+(1) If the Minister declines to approve a draft Plan or amendment under section 38, the Minister must provide reasons for his or her decision to the proponent.
 (2) The proponent may make any modifications to the draft Plan or amendment that the proponent thinks appropriate.
 (3) If the proponent modifies the draft Plan or amendment in accordance with subsection (2), sections 33(2) and 34 to 38 and this section apply accordingly.
 (4) However, if the proponent modifies a discrete part or discrete parts of the draft Plan or amendment, it is not necessary, in relation to any unmodified part of the draft Plan or amendment, to—
@@ -411,7 +388,7 @@ Nothing in section 32 or Schedule 1 of the Resource Management Act 1991 applies 
 ### 42 Proponent must seek views and finalise outline
 (1) The proponent must provide the draft outline prepared under section 41 to, and seek the views of, each of the following parties that is not the proponent:
   (a) the strategic partners:
-  (b) Regenerate Christchurch:
+  (b)
   (c) the chief executive:
   (d) in the case of a proposal to revoke all or part of the Lyttelton Port Recovery Plan, Lyttelton Port Company Limited.
 (2) The proponent must—
@@ -421,7 +398,7 @@ Nothing in section 32 or Schedule 1 of the Resource Management Act 1991 applies 
 ### 43 Minister may approve outline for revocation
 (1) The Minister must approve or decline an outline that has been finalised in accordance with section 42.
 (2) In making a decision, the Minister must—
-  (a) have particular regard to the views of the strategic partners and Regenerate Christchurch recorded in the statement provided under section 42(2); and
+  (a) have particular regard to the views of the strategic partners recorded in the statement provided under section 42(2); and
   (b) consider the views of the chief executive and, if section 42(1)﻿(d) applies, Lyttelton Port Company Limited recorded in that statement.
 
 ### 44 Proponent may modify outline for revocation if outline declined
@@ -448,7 +425,7 @@ If the Minister approves an outline under section 43, the proponent must publish
 ### 47 Approval of revocation of Plan relating to greater Christchurch
 (1) The Minister must approve or decline a proposed revocation that has been finalised in accordance with section 46.
 (2) In making a decision, the Minister must—
-  (a) seek and have particular regard to the views of the strategic partners and Regenerate Christchurch:
+  (a) seek and have particular regard to the views of the strategic partners:
   (b) seek and consider the views of the chief executive and, if section 42(1)﻿(d) applies, Lyttelton Port Company Limited:
   (c) consider whether the proposed revocation has been developed in accordance with the outline approved under section 43:
   (d) consider the advice and the statement provided under section 46(1)﻿(c):
@@ -470,40 +447,34 @@ If the Minister declines to approve a proposed revocation, the Minister must pro
   (a) a description of the Plan or the parts of a Plan that the proponent proposes be revoked; and
   (b) an explanation of what the revocation is intended to achieve; and
   (c) an explanation of how the proponent expects the revocation to meet 1 or more of the purposes of this Act; and
-  (d) the time frame for the Minister to decide whether to approve the revocation under section 58; and
-  (e) if applicable, time frames for Regenerate Christchurch to perform the functions set out in sections 56 and 57.
+  (d) the time frame for the Minister to decide whether to approve the revocation under section 58.
+  (e)
 
 ### 50 Proponent must seek views and finalise outline
 (1) The proponent must provide the draft outline prepared under section 49 to, and seek the views of, each of the following parties that is not the proponent:
   (a) Christchurch City Council:
   (b) Canterbury Regional Council:
   (c) Te Rūnanga o Ngāi Tahu:
-  (d) Regenerate Christchurch:
+  (d)
   (e) Ōtākaro Limited:
   (f) the chief executive.
 (2) The proponent must—
   (a) finalise the draft outline, making any modifications that the proponent thinks appropriate; and
   (b) submit the outline, together with a concise statement recording the views provided under subsection (1),—
-    (i) to the Minister for approval under section 52 if the proponent is Regenerate Christchurch; or
-    (ii) in every other case, to Regenerate Christchurch for review under section 51.
+    (i) to the Minister for approval under section 52.
+    (ii)
 
 ### 51 Regenerate Christchurch must review outline and may recommend outline to Minister
-(1) Regenerate Christchurch must review an outline that has been submitted to it under section 50(2) and decide whether to recommend the outline to the Minister for approval.
-(2) In making a decision, Regenerate Christchurch must consider the views recorded in the statement provided under section 50(2).
-(3) Regenerate Christchurch may amend the outline before recommending the outline to the Minister.
-(4) Regenerate Christchurch must—
-  (a) recommend the outline to the Minister and submit it to the Minister for approval; or
-  (b) decline to recommend the outline to the Minister for approval.
-(5) If Regenerate Christchurch declines to recommend the outline to the Minister for approval, Regenerate Christchurch must provide reasons for its decision to the proponent.
+[Repealed]
 
 ### 52 Minister must approve outline for revocation if conditions in section 11 are met
-(1) The Minister must approve or decline an outline that has been submitted in accordance with section 50(2) or 51.
+(1) The Minister must approve or decline an outline that has been submitted in accordance with section 50(2).
 (2) If the Minister considers that approving the outline is an exercise of power permitted by section 11, he or she must approve the outline.
-(3) If the Minister declines the outline, the Minister must provide reasons for his or her decision to Regenerate Christchurch.
+(3) If the Minister declines the outline, the Minister must provide reasons for his or her decision to the proponent.
 
 ### 53 Proponent may modify outline for revocation if outline declined
 (1) Subsections (2) and (3) apply if—
-  (a) Regenerate Christchurch declines to recommend an outline to the Minister for approval under section 51; or
+  (a)
   (b) the Minister declines an outline under section 52.
 (2) The proponent may make any modifications to the outline that the proponent thinks fit.
 (3) If the proponent modifies the outline in accordance with subsection (2), sections 50 to 52 and this section apply accordingly.
@@ -519,41 +490,29 @@ If the Minister approves the outline under section 52, the proponent must publis
   (a) consider the comments provided under section 54; and
   (b) finalise the proposed revocation, making any modifications to the proposed revocation that the proponent thinks appropriate; and
   (c) submit the proposed revocation, together with the material specified in subsection (2),—
-    (i) to the Minister for approval under section 58 if the proponent is Regenerate Christchurch; or
-    (ii) in every other case, to Regenerate Christchurch for review under section 56.
+    (i) to the Minister for approval under section 58.
+    (ii)
 (2) The material referred to in subsection (1) is,—
   (a) a concise statement summarising the comments provided under section 54; and
-  (b) if the proponent is Regenerate Christchurch,—
-    (i) advice on whether the proposed revocation has been developed in accordance with the outline approved under section 52; and
-    (ii) advice on how the comments received under section 54 have been considered and, if relevant, addressed.
+  (b) the proponent’s advice on—
+    (i) whether the proposed revocation has been developed in accordance with the outline approved under section 52; and
+    (ii) how the comments received under section 54 have been considered and, if relevant, addressed.
 (3) The proponent must, at the time the proponent submits the proposed revocation, ensure that the statement summarising the comments is made publicly available.
 
 ### 56 Regenerate Christchurch must review proposed revocation
-(1) Regenerate Christchurch must review a proposed revocation that has been submitted to it under section 55(1).
-(2) In reviewing the proposed revocation, Regenerate Christchurch must—
-  (a) consider the statement provided under section 55(2):
-  (b) consider whether the proposed revocation has been developed in accordance with the outline approved under section 52.
-(3) Regenerate Christchurch may amend the proposed revocation.
-(4) Regenerate Christchurch must seek the views of the following on any material amendment it proposes to make to the proposed revocation:
-  (a) each party specified in section 50(1):
-  (b) any other party that Regenerate Christchurch thinks appropriate.
+[Repealed]
 
 ### 57 Regenerate Christchurch must provide recommendation to Minister
-(1) Regenerate Christchurch must submit a proposed revocation it has received under section 55 (as amended under section 56(3), if applicable) to the Minister, together with a report that contains Regenerate Christchurch’s recommendation on whether the Minister should approve the proposed revocation.
-(2) The report must also contain the following:
-  (a) advice on whether the proposed revocation has been developed in accordance with the outline approved under section 52:
-  (b) the statement provided under section 55(2):
-  (c) a description of any amendments made to the proposed revocation by Regenerate Christchurch under section 56(3) (including its reasons for making those amendments):
-  (d) a concise statement recording the views provided in relation to any material amendments under section 56(4):
-  (e) advice on how the comments provided to the proponent under section 54 and the views provided to Regenerate Christchurch under section 56(4) have been considered and, if relevant, addressed.
+[Repealed]
 
 ### 58 Approval of revocation of Plan relating to Christchurch district
-(1) The Minister must approve or decline a proposed revocation that has been submitted to the Minister in accordance with section 55 or 57.
+(1) The Minister must approve or decline a proposed revocation that has been submitted to the Minister in accordance with section 55.
 (2) In making a decision, the Minister must,—
-  (a) if Regenerate Christchurch is the proponent,—
-    (i) have particular regard to the views of Regenerate Christchurch:
-    (ii) consider the material specified in section 55(2):
-  (b) if any other party is the proponent, have particular regard to Regenerate Christchurch’s report:
+  (a) have particular regard to the views of each of the following parties that is not the proponent:
+    (i) Christchurch City Council:
+    (ii) Canterbury Regional Council:
+    (iii) Te Rūnanga o Ngāi Tahu:
+  (b) consider the material specified in section 55(2):
   (c) consider whether the proposed revocation has been developed in accordance with the outline approved under section 52:
   (d) consider the fiscal and financial implications of the proposed revocation:
   (e) consider whether the proposed revocation is in the public interest.
@@ -563,7 +522,7 @@ If the Minister approves the outline under section 52, the proponent must publis
   (c) in the case of the revocation of part of a Plan, where the amended Plan can be inspected.
 
 ### 59 Minister must provide reasons for declining proposed revocation
-If the Minister declines to approve a proposed revocation, the Minister must provide reasons for his or her decision to Regenerate Christchurch.
+If the Minister declines to approve a proposed revocation, the Minister must provide reasons for his or her decision to the proponent.
 
 **Effect of Plans**
 
@@ -999,7 +958,7 @@ Nothing in this Act, apart from this subpart or section 83 or 84, confers any ri
 ### 118 Appeal
 (1) There is no right of appeal against a decision of the Minister or the chief executive acting, or purporting to act, under this Act, except as provided in sections 119 and 120.
 (2) A proceeding must not be brought, and a court must not hear any proceeding, that is in breach of this section.
-(3) To avoid doubt, there is no right of appeal, whether under this Act or the Resource Management Act 1991, against any decision under section 21, 26, 30, 31, 37, 38, 43, 47, 51, 52, 57, 58, 67, 69, 93, or 94.
+(3) To avoid doubt, there is no right of appeal, whether under this Act or the Resource Management Act 1991, against any decision under section 21, 26, 31, 38, 43, 47, 52, 58, 93, or 94.
 
 ### 119 Exceptions to exclusion of appeals
 (1) Any person referred to in subsection (2) may appeal to the High Court—
@@ -1027,126 +986,56 @@ Nothing in this Act, apart from this subpart or section 83 or 84, confers any ri
 ### Subpart 5 — Regenerate Christchurch
 
 ### 121 Establishment and status of Regenerate Christchurch
-(1) This section establishes Regenerate Christchurch.
-(2) Regenerate Christchurch—
-  (a) is a body corporate; and
-  (b) is accordingly a legal entity separate from its members, office holders, employees, the Crown, and Christchurch City Council; and
-  (c) continues in existence until it is disestablished on the close of 30 June 2020.
+[Repealed]
 
 ### 122 Purpose and objectives of Regenerate Christchurch
-(1) Regenerate Christchurch’s purpose is to support a vibrant, thriving Christchurch that has economic, social, and lifestyle opportunities for residents, businesses, visitors, investors, and developers.
-(2) Regenerate Christchurch’s objectives are—
-  (a) to lead regeneration in the area of Christchurch district that falls within greater Christchurch:
-  (b) to engage and advocate effectively with communities, stakeholders, and decision makers to achieve its purpose:
-  (c) to collaboratively work with others in achieving regeneration.
+[Repealed]
 
 ### 123 Functions of Regenerate Christchurch
-The functions of Regenerate Christchurch are—
-  (a) to develop visions, strategies, and Regeneration Plans to assist in achieving regeneration:
-  (b) to make recommendations and to provide advice to the Minister on the development, revocation, and amendment of Plans under sections 28 to 39 and 49 to 59:
-  (c) to facilitate increased investment:
-  (d) to provide advice to Ōtākaro Limited, Development Christchurch Limited, and others on the regeneration outcomes being sought:
-  (e) to comment on regeneration outcomes and interventions, and the contribution of Ōtākaro Limited and Development Christchurch Limited:
-  (f) to provide independent advice on regeneration activities to Christchurch City Council and to the Minister.
+[Repealed]
 
 ### 124 Powers of Regenerate Christchurch
-(1) Regenerate Christchurch has full capacity and all the powers reasonably necessary to achieve its purpose and objectives and to perform its functions.
-(2) In performing its functions, Regenerate Christchurch must not act inconsistently with—
-  (a) this Act; and
-  (b) any Plan; and
-  (c) any other lawful requirement.
+[Repealed]
 
 ### 125 Area of Regenerate Christchurch
-Regenerate Christchurch may perform and exercise its functions and powers in relation to the area of Christchurch district that falls within greater Christchurch.
+[Repealed]
 
 **Board of Regenerate Christchurch**
 
 ### 126 Board’s role
-(1) The board is the governing body of Regenerate Christchurch, with the authority, in Regenerate Christchurch’s name, to exercise the powers and perform the functions of Regenerate Christchurch.
-(2) All decisions relating to the operation of Regenerate Christchurch must be made by, or under the authority of, the board in accordance with this subpart and Schedule 5.
-(3) Except as provided in this subpart or Schedule 5, the board may determine its own procedure.
+[Repealed]
 
 ### 127 Membership of board
-(1) The board comprises 7 members, as follows:
-  (a) 3 members appointed by Christchurch City Council; and
-  (b) 4 members appointed by the Minister.
-(2) In making an appointment, an appointer must consider whether the proposed member has the skills, knowledge, or experience to—
-  (a) participate effectively in the board; and
-  (b) contribute to achieving the purpose and objectives of Regenerate Christchurch.
-(3) The Minister must ensure that 1 member of the board appointed by the Minister under subsection (1)﻿(b) is a person nominated for appointment by Te Rūnanga o Ngāi Tahu.
-(4) An appointer may appoint a member to the board for any period of time (provided that the period ends on or before 30 June 2020).
-(4A) A board member ceases to hold office at the earlier of the following dates (despite anything to the contrary in the member's letter of appointment):
-  (a) the close of 30 June 2020:
-  (b) the end date of the member’s appointment specified in the member’s letter of appointment.
-(5) This section is subject to Part 1 of Schedule 5.
+[Repealed]
 
 ### 128 Chairperson of board
-(1) The Minister must appoint a member as the chairperson of the board for the period ending on the close of 30 June 2019.
-(2) Christchurch City Council must appoint a member as the chairperson of the board for the period beginning on 1 July 2019 and ending on the close of 30 June 2020.
-(3) The chairperson of the board ceases to hold office at the close of 30 June 2020 (despite anything to the contrary in the chairperson’s letter of appointment).
+[Repealed]
 
 **Further provisions relating to Regenerate Christchurch**
 
 ### 129 Further provisions relating to Regenerate Christchurch
-The provisions in Schedule 5 have effect in relation to Regenerate Christchurch.
+[Repealed]
 
 ### 130 Role of Christchurch City Council and Minister
-(1) The role of Christchurch City Council and the Minister is to—
-  (a) oversee and manage Christchurch City Council’s and the Crown’s interests in, and relationship with, Regenerate Christchurch; and
-  (b) perform the functions and exercise the powers set out in this subpart and in Schedule 5, including those functions and powers relating to—
-    (i) appointing and removing members under section 127 and Part 1 of Schedule 5:
-    (ii) setting Regenerate Christchurch’s strategic direction and performance expectations, including by—
-      (A) engaging with Regenerate Christchurch on the preparation of its statement of intent and statement of performance expectations:
-      (B) producing a letter of expectations under section 131:
-      (C) commenting on Regenerate Christchurch’s draft statement of intent and draft statement of performance expectations under Part 2 of Schedule 5:
-      (D) directing Regenerate Christchurch to amend its final statement of intent or final statement of performance expectations under section 132:
-    (iii) reviewing the performance of Regenerate Christchurch under Part 2 of Schedule 5.
-(2) Christchurch City Council and the Minister may agree on how they will exercise their respective roles and responsibilities in relation to Regenerate Christchurch.
+[Repealed]
 
 ### 131 Letter of expectations
-(1) Christchurch City Council and the Minister may provide a letter of expectations that sets out their expectations of Regenerate Christchurch’s strategic direction and their specific priorities.
-(2) Christchurch City Council and the Minister must endeavour to produce any letter of expectations jointly.
-(3) However, the Minister may provide a letter of expectations to Regenerate Christchurch on behalf of both parties if—
-  (a) Christchurch City Council or the Minister has given notice to the other party that they are unable to agree on a joint letter of expectations; and
-  (b) 30 working days after notice has been given under paragraph (a),—
-    (i) Christchurch City Council and the Minister remain unable to agree on a joint letter of expectations; and
-    (ii) the Minister considers that it is unlikely that agreement will be reached within a reasonable period of time.
-(4) If a letter of expectations is provided under this section, Regenerate Christchurch must consider the letter of expectations when preparing its statement of intent and statement of performance expectations.
+[Repealed]
 
 ### 132 Direction to amend statement of intent or statement of performance expectations
-(1) Christchurch City Council and the Minister may agree to direct Regenerate Christchurch to amend—
-  (a) any provision that is included in Regenerate Christchurch’s final statement of intent under clause 50(1) or (2)﻿(a), (b), (d), or (e) of Schedule 5:
-  (b) any provision of Regenerate Christchurch’s final statement of performance expectations, excluding the forecast financial statements included under clause 58 of Schedule 5.
-(2) Christchurch City Council and the Minister must consult Regenerate Christchurch before giving a direction.
-(3) The direction must be given in writing.
-(4) Regenerate Christchurch must comply with the direction.
-(5) The amendment to the statement of intent or statement of performance expectations, as specified in the direction, is in force from the effective date of the direction.
-(6) As soon as practicable after a direction has been given under this section, the Minister must present a copy of it to the House of Representatives.
-(7) Clauses 50(3) and 52 of Schedule 5 apply to a statement of intent amended under this section.
-(8) Clauses 57(3)﻿(b) and (c) and 60 of Schedule 5 apply to a statement of performance expectations amended under this section.
+[Repealed]
 
 ### 133 Acts done before commencement
-(1) This section applies to acts done before the commencement of this subpart (including acts done before the enactment of this subpart).
-(2) An act is valid if it is done—
-  (a) in accordance with the provisions of this subpart or Schedule 5; and
-  (b) to facilitate the establishment of Regenerate Christchurch.
-(3) This section does not limit section 11 of the Interpretation Act 1999.
+[Repealed]
 
 ### 134 Successor organisation
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, approve a successor organisation to which assets and liabilities of Regenerate Christchurch may be transferred in accordance with section 140.
-(2) The successor organisation must—
-  (a) be a council-controlled organisation that is owned or controlled by Christchurch City Council; and
-  (b) be nominated for the purpose by Christchurch City Council.
-(3) Section 58 of the Local Government Act 2002 does not apply to the establishment of the successor organisation.
+[Repealed]
 
 ### 135 Regenerate Christchurch’s income exempt from income tax
-Income derived by Regenerate Christchurch is exempt income for the purposes of the Income Tax Act 2007.
+[Repealed]
 
 ### 136 Application of certain Acts
-The following Acts apply to Regenerate Christchurch:
-  (a) the Official Information Act 1982:
-  (b) the Ombudsmen Act 1975:
-  (c) the Public Audit Act 2001.
+[Repealed]
 
 ### Subpart 6 — Transfer of assets, liabilities, and land
 
@@ -1159,33 +1048,20 @@ In this subpart,—
   - **third party** , in relation to an asset or liability, means a party that has an interest, a right, or an obligation in relation to the asset or liability.
 
 ### 138 Regenerate Christchurch may transfer assets and liabilities
-(1) Regenerate Christchurch may, under an agreement with a transferee, transfer any assets and liabilities of Regenerate Christchurch to the transferee under this section.
-(2) An agreement under this section has no effect until it is approved by Christchurch City Council and the Minister.
-(3) An agreement under this section must provide that any transfer provided for in the agreement takes place—
-  (a) no earlier than the date on which the agreement is presented to the House of Representatives in accordance with section 139; and
-  (b) no later than the close of 30 June 2020.
-(4) Any of the following may be a transferee for the purposes of subsection (1):
-  (a) Christchurch City Council:
-  (b) a council organisation:
-  (c) Ōtākaro Limited:
-  (d) a department specified in Schedule 1 of the State Sector Act 1988.
+[Repealed]
 
 ### 139 Notice of transfer
-(1) The Minister must present an agreement referred to in section 138 to the House of Representatives within 12 sitting days after the date on which the agreement is entered.
-(2) Regenerate Christchurch must provide any agreement it enters into under section 138 to the Minister as soon as practicable after the agreement is entered into, in order that the Minister can comply with subsection (1).
-(3) The presentation of an agreement in accordance with subsection (1) is to be treated as notice of the transfer and any third party must, after the date specified in the agreement for the transfer, deal with the transferee in place of the transferor.
+[Repealed]
 
 ### 140 Residual assets and liabilities transferred to successor organisation
-(1) Any asset or liability that, immediately before 1 July 2020, belongs to Regenerate Christchurch (and that is not subject to an agreement under section 138) is, on and from 1 July 2020, an asset or a liability of the successor organisation.
-(2) If an asset or a liability is transferred to the successor organisation under subsection (1), the successor organisation must, as soon as practicable after 1 July 2020, notify any third party of the transfer.
-(3) Any third party must, on and from 1 July 2020, deal with the successor organisation in place of Regenerate Christchurch.
+[Repealed]
 
 ### 141 Transfer of Crown agreements, etc
 (1) The Minister or chief executive may transfer to a party specified in subsection (2) any of the Crown’s rights, obligations, or liabilities under any agreement or undertaking entered into by the Crown for any purpose of the Canterbury Earthquake Recovery Act 2011 or this Act.
 (2) The parties are—
   (a) a council:
-  (b) a council organisation:
-  (c) Regenerate Christchurch.
+  (b) a council organisation.
+  (c)
 (3) Rights, obligations, or liabilities may be transferred under this section only if the transferee has agreed to accept the rights, obligations, or liabilities.
 (4) A transfer under this section is made by notice in writing delivered to the transferee and every other party to the agreement or undertaking.
 (5) From the date of transfer, any rights, obligations, or liabilities transferred under this section—
@@ -1411,11 +1287,10 @@ In clause 1, a reference to a ward, area unit, or meshblock is a reference to a 
 ## Schedule 3 — Description of Christchurch residential red zone
 
 ### 1 Description of Christchurch residential red zone
-For the purposes of subpart 1 of Part 2, the Christchurch residential red zone comprises all land in the Christchurch district in respect of which the Crown made an offer to purchase because, as a consequence of the Canterbury earthquakes, the area suffered severe land damage or was affected by rock-roll or cliff collapse.
+[Repealed]
 
 ### 2 Maps of Christchurch residential red zone
-(1) The following maps are indicative only, and if there is any inconsistency between the maps, subclause (2), and the description in clause 1, the description in clause 1 prevails.
-(2) The area of the Christchurch residential red zone is the area shaded dark grey in the following 2 maps.
+[Repealed]
 
 ## Schedule 3A — Description of Ōtākaro Avon River Corridor
 
@@ -1437,554 +1312,249 @@ For the purposes of section 8, the Ōtākaro Avon River Corridor comprises all l
 **Validity of acts**
 
 ### 1 Validity of acts
-Sections 19 to 24 of the Crown Entities Act 2004 apply to Regenerate Christchurch (as if Regenerate Christchurch were a Crown entity) subject to the following modifications:
-  (a) the reference in section 21(a) of that Act to section 60 of that Act must be read as a reference to clause 19 of this schedule:
-  (b) the reference in section 21(e) of that Act to section 69 of that Act must be read as a reference to clause 28 of this schedule.
+[Repealed]
 
 **Board of Regenerate Christchurch**
 
 ### 2 Qualification of members
-(1) A natural person who is not disqualified by this clause may be a member.
-(2) Each of the following persons is disqualified from being a member:
-  (a) a person who is an undischarged bankrupt:
-  (b) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Financial Markets Conduct Act 2013, or the Takeovers Act 1993:
-  (c) a person who is subject to a property order under the Protection of Personal and Property Rights Act 1988:
-  (d) a person in respect of whom a personal order has been made under the Protection of Personal and Property Rights Act 1988 that reflects adversely on the person's—
-    (i) competence to manage his or her own affairs in relation to his or her property; or
-    (ii) capacity to make or to communicate decisions relating to any particular aspect or aspects of his or her personal care and welfare:
-  (e) a person who has been convicted of an offence punishable by imprisonment for a term of 2 years or more, or who has been sentenced to imprisonment for any other offence, unless that person has obtained a pardon, served the sentence, or otherwise suffered the penalty imposed on the person:
-  (f) a member of Parliament:
-  (g) a member of Christchurch City Council.
-(3) A member ceases to hold office if he or she becomes disqualified from being a member under any of paragraphs (a) to (g) of subclause (2).
+[Repealed]
 
 ### 3 Quorum
-The quorum for a meeting of the board is 4 members of the board.
+[Repealed]
 
 ### 4 Validity of members’ acts
-The acts of a person as a member or as the chairperson of the board are valid even though—
-  (a) a defect existed in the appointment of the person; or
-  (b) the person is or was disqualified from being a member under clause 2.
+[Repealed]
 
 ### 5 Removal of members
-(1) An appointer may, at any time and for any reason that in the appointer’s opinion justifies the removal, remove a member appointed by the appointer from office.
-(2) However, before removing the member from office, the appointer must consult the other appointer.
-(3) If Christchurch City Council and the Minister agree, they may, at any time and for any reason that in their opinion justifies the removal, remove the chairperson from that role.
-(4) The removal of a member from office or of the chairperson from that role must be made by written notice to the member or the chairperson (with a copy to Regenerate Christchurch).
-(5) The notice must—
-  (a) state the date on which the removal takes effect, which must not be earlier than the date on which the notice is received; and
-  (b) state the reasons for the removal.
-(6) The appointer must notify the removal of a member from office in the Gazette as soon as practicable after giving the notice.
-(7) The Minister must notify the removal of the chairperson from that role in the Gazette as soon as practicable after giving the notice.
-(8) A member is not entitled to any compensation or other payment or benefit relating to his or her ceasing, for any reason (including because of section 127(4A) or 128(3)), to hold office as a member.
+[Repealed]
 
 ### 6 Vacancies
-(1) If a member is removed, or resigns, or is disqualified under clause 2, or if the office of a member otherwise becomes vacant, there is a vacancy on the board.
-(2) A vacancy must be filled in the same manner as the appointment giving rise to the vacancy was made.
-(3) The ability of the board to perform its functions is not affected by—
-  (a) a vacancy; or
-  (b) a failure by an appointer to make an appointment or a replacement appointment.
+[Repealed]
 
 **Members’ remuneration and expenses**
 
 ### 7 Members’ remuneration and expenses
-(1) Each member of the board is entitled, in accordance with the fees framework,—
-  (a) to receive, from the funds of Regenerate Christchurch, remuneration for services as a member at a rate and of a kind determined by the Minister and Christchurch City Council; and
-  (b) to be reimbursed, from the funds of Regenerate Christchurch, for actual and reasonable travelling and other expenses incurred in carrying out his or her office as a member.
-(2) For the purposes of subclause (1), fees framework has the same meaning as in section 10 of the Crown Entities Act 2004.
+[Repealed]
 
 **Collective duties of board**
 
 ### 8 Regenerate Christchurch must act consistently with purpose, objectives, functions, statement of intent, and statement of performance expectations
-The board must ensure that Regenerate Christchurch acts in a manner consistent with its purpose, objectives, and functions, and its current statement of intent and current statement of performance expectations under Part 2.
+[Repealed]
 
 ### 9 Manner in which functions must be performed
-The board must ensure that Regenerate Christchurch performs its functions—
-  (a) efficiently and effectively; and
-  (b) in a manner consistent with the spirit of service to the public; and
-  (c) in collaboration with other public entities (within the meaning of that term in the Public Audit Act 2001) where practicable.
+[Repealed]
 
 ### 10 Regenerate Christchurch must operate in financially responsible manner
-(1) The board must ensure that Regenerate Christchurch operates in a financially responsible manner and, for this purpose, that it—
-  (a) prudently manages its assets and liabilities; and
-  (b) endeavours to ensure—
-    (i) its long-term financial viability; and
-    (ii) that it acts as a successful going concern.
-(2) Section 158 of the Crown Entities Act 2004 (relating to bank accounts of Crown entities) applies to Regenerate Christchurch as if Regenerate Christchurch were a Crown entity.
+[Repealed]
 
 ### 11 Subsidiaries and other interests
-The board must ensure that Regenerate Christchurch acquires or forms a subsidiary only after it has given notice of its intention to do so to Christchurch City Council and the Minister.
+[Repealed]
 
 **Individual duties of members**
 
 ### 12 Duty to comply with this Act
-A member of the board must not contravene, or cause the contravention of, or agree to Regenerate Christchurch contravening, this Act.
+[Repealed]
 
 ### 13 Duty to act with honesty and integrity
-A member of the board must, when acting as a member, act with honesty and integrity.
+[Repealed]
 
 ### 14 Duty to act in good faith and not at expense of Regenerate Christchurch's interests
-A member of the board must, when acting as a member, act in good faith and not pursue his or her own interests at the expense of Regenerate Christchurch’s interests.
+[Repealed]
 
 ### 15 Duty to act with reasonable care, diligence, and skill
-A member of the board must, when acting as a member, exercise the care, diligence, and skill that a reasonable person would exercise in the same circumstances, taking into account (without limitation)—
-  (a) the nature of Regenerate Christchurch; and
-  (b) the nature of the action; and
-  (c) the position of the member and the nature of the responsibilities undertaken by him or her.
+[Repealed]
 
 ### 16 Duty not to disclose information
-(1) A member of the board who has information in his or her capacity as a member that would not otherwise be available to him or her must not disclose that information to any person, or make use of, or act on, that information, except—
-  (a) in the performance of Regenerate Christchurch's functions; or
-  (b) as required or permitted by law; or
-  (c) in accordance with subclause (2); or
-  (d) in complying with the requirements for members to disclose interests.
-(2) A member may disclose, make use of, or act on the information if—
-  (a) the member is first authorised to do so by the board; and
-  (b) the disclosure, use, or act in question will not, or will be unlikely to, prejudice Regenerate Christchurch.
+[Repealed]
 
 **Effect of non-compliance with duties**
 
 ### 17 Accountability for collective board duties
-(1) The duties of the board and members of the board under clauses 8 to 11 (collective duties) are duties owed to the Minister and to Christchurch City Council.
-(2) If a board does not comply with any of its collective duties, all or any of the members may be removed from office (subject to any requirements in clause 5 that are applicable to the member).
-(3) However, subclause (2) does not apply to a member if—
-  (a) he or she did not know and could not reasonably be expected to know that the duty was to be or was being breached; or
-  (b) he or she took all reasonable steps in the circumstances to prevent the duty being breached.
-(4) The taking of reasonable steps does not require a member to apply to a court for an order under clause 19.
-(5) A member is not liable for a breach of a collective duty under this Act.
-(6) However, subclause (5) does not limit subclause (2).
-(7) This clause does not affect any other ground for removing a member from office.
-(8) Subclause (5) does not affect—
-  (a) anything else for which the member may be liable under any other Act or rule of law arising from the act or omission that constitutes the breach; or
-  (b) the right to apply for a court order under clause 19.
+[Repealed]
 
 ### 18 Accountability for individual duties
-(1) The duties of the members of the board under clauses 12 to 16 (individual duties) are duties owed to the Minister, Christchurch City Council, and Regenerate Christchurch.
-(2) If a member does not comply with his or her individual duties, that member may be removed from office (subject to any requirements in clause 5 that are applicable to the member).
-(3) Regenerate Christchurch may bring an action against a member for breach of any individual duty.
-(4) Except as provided in subclauses (2) and (3), a member is not liable for a breach of an individual duty under this Act.
-(5) This clause does not affect any other ground for removing a member from office.
-(6) Subclause (4) does not affect—
-  (a) anything else for which the member may be liable under any other Act or rule of law arising from the act or omission that constitutes the breach; or
-  (b) the right to apply for a court order under clause 19.
+[Repealed]
 
 ### 19 Court actions requiring or restraining board or members
-(1) The Minister, Christchurch City Council, or a member of the board may apply to a court for an order—
-  (a) restraining the board or a member of the board from engaging in conduct that would contravene any requirement under this Act; and
-  (b) granting any consequential relief.
-(2) The Minister or Christchurch City Council may apply to a court for an order—
-  (a) requiring the board or a member of the board to take any action that is required to be taken under this Act:
-  (b) granting any consequential relief.
-(3) The court may make an order on the application subject to the following rules:
-  (a) an order may be made only if it is just and equitable to do so:
-  (b) no order may be made in respect of conduct that has been completed.
-(4) The court may, at any time before the final determination of an application under this clause, make as an interim order any order that it is empowered to make as a final order.
+[Repealed]
 
 **Reliance on information and advice**
 
 ### 20 When members may rely on certain information and advice
-(1) A member of the board, when acting as a member, may rely on reports, statements, financial data, and other information prepared or supplied, and on professional or expert advice given, by any of the following persons:
-  (a) an employee of Regenerate Christchurch whom the member believes on reasonable grounds to be reliable and competent in relation to the matters concerned:
-  (b) a professional adviser or an expert in relation to matters that the member believes on reasonable grounds to be within the person's professional or expert competence:
-  (c) any other member or a committee on which the member did not serve in relation to matters within the member's or committee's designated authority.
-(2) A member, when acting as a member, may rely on reports, statements, financial data, and other information supplied by the Crown or by Christchurch City Council.
-(3) This clause applies to a member only if the member—
-  (a) acts in good faith; and
-  (b) makes proper inquiry if the need for inquiry is indicated by the circumstances; and
-  (c) has no knowledge that the reliance is unwarranted.
+[Repealed]
 
 **Conflict of interest disclosure rules**
 
 ### 21 When interests must be disclosed
-(1) In this clause, matter means—
-  (a) the board's performance of its functions or exercise of its powers; or
-  (b) an agreement made or entered into, or proposed to be entered into, by Regenerate Christchurch.
-(2) A person is interested in a matter if he or she—
-  (a) may derive a financial benefit from the matter; or
-  (b) is the spouse, civil union partner, de facto partner, child, or parent of a person who may derive a financial benefit from the matter; or
-  (c) may have a financial interest in a person to whom the matter relates; or
-  (d) is a partner, director, officer, board member, or trustee of a person who may have a financial interest in a person to whom the matter relates; or
-  (e) is otherwise directly or indirectly interested in the matter.
-(3) However, a person is not interested in a matter—
-  (a) if his or her interest is so remote or insignificant that it cannot reasonably be regarded as likely to influence him or her in carrying out his or her responsibilities under this Act or another Act; or
-  (b) only because he or she has past or current involvement in the relevant sector, industry, or practice.
+[Repealed]
 
 ### 22 Obligation to disclose interest
-(1) A member who is interested in a matter relating to Regenerate Christchurch must disclose details of the interest in accordance with clause 23 as soon as practicable after the member becomes aware that he or she is interested.
-(2) A general notice of an interest in a matter relating to Regenerate Christchurch, or in a matter that may in future relate to Regenerate Christchurch, that is disclosed in accordance with clause 23 is a standing disclosure of that interest for the purposes of this clause.
-(3) A standing disclosure ceases to have effect if the nature of the interest materially alters or the extent of the interest materially increases.
+[Repealed]
 
 ### 23 Who disclosure of interests must be made to
-The member must disclose details of the interest in an interests register kept by Regenerate Christchurch and to—
-  (a) the chairperson; or
-  (b) if the chairperson is unavailable or interested,—
-    (i) Christchurch City Council, if the member was appointed by Christchurch City Council; or
-    (ii) the Minister, if the member was appointed by the Minister.
+[Repealed]
 
 ### 24 What must be disclosed
-The details that must be disclosed under clause 23 are—
-  (a) the nature of the interest and the monetary value of the interest (if the monetary value can be quantified); or
-  (b) the nature and extent of the interest (if the monetary value cannot be quantified).
+[Repealed]
 
 ### 25 Consequences of being interested in matter
-A member who is interested in a matter relating to Regenerate Christchurch—
-  (a) must not vote or take part in any discussion or decision of the board or any committee relating to the matter, or otherwise participate in any activity of Regenerate Christchurch that relates to the matter; and
-  (b) must not sign any document relating to the entry into a transaction or the initiation of the matter; and
-  (c) is to be disregarded for the purpose of forming a quorum for that part of a meeting of the board or committee during which a discussion or decision relating to the matter occurs or is made.
+[Repealed]
 
 ### 26 Consequences of failing to disclose interest
-(1) The board must notify Christchurch City Council and the Minister of a failure to comply with clause 22 or 25, and of the acts affected, as soon as practicable after becoming aware of the failure.
-(2) A failure to comply with clause 22 or 25 does not affect the validity of an act or matter.
-(3) However, subclause (2) does not limit the right of any person to apply, in accordance with law, for judicial review.
+[Repealed]
 
 ### 27 Permission to act despite being interested in matter
-(1) The chairperson of Regenerate Christchurch may, by prior written notice to the board, permit 1 or more members, or members with a specified class of interest, to do anything otherwise prohibited by clause 25, if the chairperson is satisfied that it is in the public interest to do so.
-(2) The permission may state conditions that the member must comply with.
-(3) Christchurch City Council and the Minister may give the permission if the chairperson is unavailable or interested.
-(4) The permission may be amended or revoked in the same way as it may be given.
-(5) The board must disclose an interest to which a permission relates in its annual report, together with a statement of who gave the permission and any conditions or amendments to, or revocation of, the permission.
+[Repealed]
 
 ### 28 Regenerate Christchurch may avoid certain acts done in breach of conflict of interest rules
-(1) The board may avoid a natural person act done by Regenerate Christchurch in respect of which a member was in breach of clause 25.
-(2) However, the act—
-  (a) may be avoided only within 3 months of the affected act being disclosed to Christchurch City Council and the Minister under clause 26; and
-  (b) cannot be avoided if Regenerate Christchurch receives fair value in respect of the act.
-(3) An act in which a member is interested can be avoided on the ground of the member's interest only in accordance with this clause.
+[Repealed]
 
 ### 29 What is fair value
-(1) Regenerate Christchurch is presumed to receive fair value in respect of an act that is done by Regenerate Christchurch in the ordinary course of its business and on usual terms and conditions.
-(2) Whether Regenerate Christchurch receives fair value in respect of an act must be determined on the basis of the information known to Regenerate Christchurch and to the interested member at the time the act is done.
+[Repealed]
 
 ### 30 Onus of proving fair value
-(1) A person seeking to prevent an act being avoided, and who knew, or ought reasonably to have known, of the member's interest at the time the act was done, has the onus of establishing fair value.
-(2) In any other case, the board has the onus of establishing that Regenerate Christchurch did not receive fair value.
+[Repealed]
 
 ### 31 Effect of avoidance on third parties
-The avoidance of an act under clause 28 does not affect the title or interest of a person to or in property that that person has acquired if the property was acquired—
-  (a) from a person other than Regenerate Christchurch; and
-  (b) for valuable consideration; and
-  (c) without knowledge of the circumstances of the act under which the person referred to in paragraph (a) acquired the property from Regenerate Christchurch.
+[Repealed]
 
 **Delegation**
 
 ### 32 Ability to delegate
-(1) The board may delegate any of the functions or powers of the board, either generally or specifically, to any of the following persons by resolution and written notice to the person or persons:
-  (a) a member or members:
-  (b) the chief executive or any other employee or employees, or office holder or holders, of Regenerate Christchurch:
-  (c) a committee:
-  (d) any other person or persons approved by Christchurch City Council and the Minister:
-  (e) any class of persons comprised of any of the persons listed in paragraphs (a) to (d).
-(2) The board must not delegate the general power of delegation.
+[Repealed]
 
 ### 33 Powers of delegate
-(1) A delegate to whom any functions or powers of the board are delegated—
-  (a) may, unless the delegation provides otherwise, perform the function or exercise the power in the same manner, subject to the same restrictions, and with the same effect as if the delegate were the board; and
-  (b) may delegate the function or power only—
-    (i) with the prior written consent of the board; and
-    (ii) subject to the same restrictions, and with the same effect, as if the subdelegate were the delegate.
-(2) A delegate who purports to perform a function or exercise a power under a delegation—
-  (a) is, in the absence of proof to the contrary, presumed to do so in accordance with the terms of that delegation; and
-  (b) must produce evidence of his or her authority to do so, if reasonably requested to do so.
+[Repealed]
 
 ### 34 Effect of delegation
-No delegation in accordance with this Act—
-  (a) affects or prevents the performance of any function or the exercise of any power by the board; or
-  (b) affects the responsibility of the board for the actions of any delegate acting under the delegation; or
-  (c) is affected by any change in the membership of the board or of any committee or class of persons or by any change in an office holder, chief executive, or employee.
+[Repealed]
 
 ### 35 Revocations of delegations
-(1) A delegation under clause 32 may be revoked at will by—
-  (a) resolution of the board and written notice to the delegate; or
-  (b) any other method provided for in the delegation.
-(2) A delegation under clause 33(1)﻿(b) may be revoked at will by written notice of the delegate to the subdelegate.
+[Repealed]
 
 **Employees**
 
 ### 36 Employment of chief executive
-(1) Regenerate Christchurch must not agree to the terms and conditions of employment for a chief executive, or to an amendment of those terms and conditions, without consulting the State Services Commissioner and the chief executive of Christchurch City Council.
-(2) Regenerate Christchurch must have particular regard to any recommendations that the Commissioner makes to it within a reasonable time of being consulted.
-(3) A failure to comply with this clause does not invalidate the acts of a chief executive.
+[Repealed]
 
 ### 37 Regenerate Christchurch to be good employer
-(1) Regenerate Christchurch must—
-  (a) operate a personnel policy that complies with the principle of being a good employer; and
-  (b) make that policy (including the equal employment opportunities programme) available to its employees; and
-  (c) ensure its compliance with that policy (including its equal employment opportunities programme) and report in its annual report on the extent of its compliance.
-(2) For the purposes of this clause, good employer and equal employment opportunities programme have the same meanings as in section 118(2) and (3) of the Crown Entities Act 2004.
+[Repealed]
 
 **Protections from liability of members, office holders, and employees**
 
 ### 38 Definitions for protections from liability
-In clauses 39 to 44,—
-  - **effect insurance** includes pay, whether directly or indirectly, the costs of the insurance
-  - **employee** includes a person who was an employee at any time after the commencement of this Part but who is no longer an employee
-  - **excluded act or omission** means an act or omission by the member, office holder, or employee in good faith and in performance or intended performance of Regenerate Christchurch’s functions
-  - **indemnify** includes relieve or excuse from liability, whether before or after the liability arises, and has a corresponding meaning
-  - **member** includes a person who was a member at any time after the commencement of this Part but who is no longer a member
-  - **office holder** includes a person who was an office holder at any time after the commencement of this Part but who is no longer an office holder.
+[Repealed]
 
 ### 39 Protections from liabilities of Regenerate Christchurch
-A member of the board or an office holder or employee of Regenerate Christchurch is not liable for any liability of Regenerate Christchurch by reason only of being a member, office holder, or employee.
+[Repealed]
 
 ### 40 Immunity from civil liability
-(1) A member of the board is not liable, in respect of an excluded act or omission,—
-  (a) to Regenerate Christchurch, unless it is also a breach of an individual duty under any of clauses 12 to 16:
-  (b) to any other person.
-(2) An office holder or employee is not liable to any person in respect of an excluded act or omission.
-(3) Nothing in this clause affects—
-  (a) the making of an order under clause 19:
-  (b) the liability of any person that is not a civil liability:
-  (c) the right of any person to apply, in accordance with the law, for judicial review.
+[Repealed]
 
 ### 41 Indemnities in relation to excluded act or omission
-Regenerate Christchurch may only indemnify a member, an office holder, or an employee in respect of an excluded act or omission (including costs incurred in defending or settling any claim or proceeding relating to that excluded act or omission).
+[Repealed]
 
 ### 42 Insurance for liability of member, office holder, or employee
-Regenerate Christchurch may effect insurance cover for a member, office holder, or employee in relation to his or her acts or omissions, except an act or omission that is—
-  (a) in bad faith:
-  (b) not in the performance or intended performance of Regenerate Christchurch's functions.
+[Repealed]
 
 ### 43 Breach of indemnity and insurance limits
-(1) A member, office holder, or employee who is indemnified or insured by Regenerate Christchurch in breach of this Act must repay to Regenerate Christchurch the cost of providing or effecting that indemnity or insurance cover, to the extent that the indemnity or insurance cover exceeds that which could have been provided or effected under this Act.
-(2) Regenerate Christchurch may recover the amount as a debt due in a court of competent jurisdiction.
+[Repealed]
 
 ### 44 Members, office holders, and employees are officials
-(1) A member, an office holder, or an employee of Regenerate Christchurch is an official for the purposes of sections 105 and 105A of the Crimes Act 1961.
-(2) For the purposes of this section, an individual working for Regenerate Christchurch as a contractor or secondee in relation to a function, duty, or power of Regenerate Christchurch is to be treated as if he or she were an employee.
+[Repealed]
 
 **Dealings with third parties**
 
 ### 45 Method of contracting, attorneys, and address for service
-The following provisions of the Crown Entities Act 2004 apply to Regenerate Christchurch as if it were a statutory entity (that is not a corporation sole):
-  (a) section 127 (method of contracting):
-  (b) section 129 (attorneys):
-  (c) section 130 (address for service).
+[Repealed]
 
 ### 46 Power to request information
-The board must supply to the Minister or to Christchurch City Council any information relating to the operations and performance of Regenerate Christchurch that the Minister or Christchurch City Council requests.
+[Repealed]
 
 ### Part 2 — Reporting and financial obligations
 
 ### 47 Interpretation for this Part
-(1) In this Part, unless the context otherwise requires,—
-  - **financial year** means the 12 months ending on the close of 30 June
-  - **outputs** means the goods or services that are supplied by Regenerate Christchurch
-  - **reportable class of outputs** , in respect of a financial year, means a class of outputs—
-    (a) that Regenerate Christchurch proposes to supply in the financial year; and
-  (b) that is directly funded (in whole or in part) by—
-    (i) the Crown in accordance with an appropriation for the purpose; or
-    (ii) Christchurch City Council; or
-    (iii) grants distributed under any Act; or
-    (iv) levies, fees, or charges prescribed by or under any Act.
-(2) Unless the context otherwise requires,—
-  (a) any word or expression used in this Part but not defined in this clause has the same meaning as it has in section 4 of this Act; and
-  (b) any word or expression used in this Part but not defined in this clause or in section 4 of this Act has the same meaning as in the Public Finance Act 1989.
+[Repealed]
 
 **Planning: statement of intent**
 
 ### 48 Purpose of statement of intent
-The purpose of a statement of intent is to promote the public accountability of Regenerate Christchurch by—
-  (a) enabling Christchurch City Council and the Minister to participate in the process of setting Regenerate Christchurch’s strategic intentions and medium-term undertakings:
-  (b) setting out for the House of Representatives, Christchurch City Council, and the public those intentions and undertakings:
-  (c) providing a base against which Regenerate Christchurch’s actual performance can later be assessed.
+[Repealed]
 
 ### 49 Obligation to prepare statement of intent
-(1) Regenerate Christchurch must prepare statements of intent that comply with clause 50 as follows:
-  (a) a statement of intent that relates to the 2016/17 financial year and at least the following 3 financial years:
-  (b) a statement of intent that relates to the 2019/20 financial year and at least the period beginning on 1 July 2020 and ending on the close of 30 June 2021.
-(2) Regenerate Christchurch may prepare additional statements of intent.
+[Repealed]
 
 ### 50 Content of statement of intent
-(1) A statement of intent must, for the period to which it relates, set out the strategic objectives that Regenerate Christchurch intends to achieve or contribute to (strategic intentions).
-(2) A statement of intent must also, for the period to which it relates,—
-  (a) explain the nature and scope of Regenerate Christchurch's functions and intended operations:
-  (b) explain how Regenerate Christchurch intends to manage its functions and operations to meet its strategic intentions:
-  (c) explain how Regenerate Christchurch proposes to manage its organisational health and capability:
-  (d) explain how Regenerate Christchurch proposes to assess its performance:
-  (e) set out and explain any other matters that are reasonably necessary to achieve an understanding of Regenerate Christchurch’s strategic intentions and capability.
-(3) A statement of intent—
-  (a) must be in writing, be dated, and be signed on behalf of the board by 2 members; and
-  (b) is a final statement of intent when it has been signed in accordance with paragraph (a).
+[Repealed]
 
 ### 51 Process for providing statement of intent to Christchurch City Council and Minister
-(1) Regenerate Christchurch must provide a statement of intent to Christchurch City Council and the Minister.
-(2) The process that must be followed in providing a statement of intent is as follows:
-  (a) Regenerate Christchurch must provide a draft statement of intent to Christchurch City Council and the Minister,—
-    (i) in the case of the statement of intent prepared under clause 49(1)﻿(a), as soon as practicable after the commencement of this schedule; or
-    (ii) no later than 2 months before the start of the first financial year to which the statement of intent relates; and
-  (b) Christchurch City Council and the Minister must each provide to Regenerate Christchurch any comments that they may have on the draft no later than 20 working days after receiving it; and
-  (c) Regenerate Christchurch must consider the comments (if any) on the draft; and
-  (d) Regenerate Christchurch must provide the final statement of intent to Christchurch City Council and the Minister,—
-    (i) in the case of the statement of intent prepared under clause 49(1)﻿(a), as soon as practicable after receiving the comments (if any); or
-    (ii) as soon as practicable after receiving the comments (if any), but in any event before the start of the first financial year to which the statement of intent relates.
+[Repealed]
 
 ### 52 Obligation to publish and present statement of intent
-(1) Regenerate Christchurch must, as soon as practicable after providing a final statement of intent to Christchurch City Council and the Minister, publish the statement of intent on its Internet site.
-(2) Despite subclause (1), if a final statement of intent relates to a period commencing on or after the next Budget day, the Minister may require Regenerate Christchurch not to publish the statement in the pre-Budget period.
-(3) The Minister must present a copy of the final statement of intent to the House of Representatives.
-(4) The statement of intent may be presented or published in a document that includes any other statement or information, but only if each statement or set of information is separately identifiable within that document.
+[Repealed]
 
 ### 53 Amendments to final statement of intent
-(1) Regenerate Christchurch may amend its final statement of intent.
-(2) Regenerate Christchurch must amend its final statement of intent if—
-  (a) the information contained in the statement of intent is false or misleading in a material particular; or
-  (b) the intentions and undertakings in the statement of intent are significantly altered or affected by—
-    (i) any change in the law:
-    (ii) any other change in Regenerate Christchurch’s operating environment.
-(3) Regenerate Christchurch must make the amendment required under subclause (2) as soon as practicable after it becomes aware of the facts that give rise to the obligation to amend under this clause.
-(4) The following process applies to an amendment under subclause (1) or (2):
-  (a) Regenerate Christchurch must provide a draft amendment to Christchurch City Council and the Minister; and
-  (b) Christchurch City Council and the Minister must each provide to Regenerate Christchurch any comments on the draft that they may have no later than 20 working days after receiving it; and
-  (c) Regenerate Christchurch must consider the comments (if any) and must provide the final amendment to Christchurch City Council and the Minister as soon as practicable.
-(5) Clauses 50(3) and 52 apply to the amended statement of intent.
+[Repealed]
 
 **Planning: statement of performance expectations**
 
 ### 54 Purpose of statement of performance expectations
-The purpose of a statement of performance expectations for Regenerate Christchurch is to—
-  (a) enable Christchurch City Council and the Minister to participate in the process of setting annual performance expectations; and
-  (b) enable the House of Representatives, Christchurch City Council, and the public to be informed of those expectations; and
-  (c) provide a base against which actual performance can be assessed.
+[Repealed]
 
 ### 55 Obligation to prepare statement of performance expectations
-(1) Before the start of each financial year, Regenerate Christchurch must prepare a statement of performance expectations for that financial year that complies with clause 57.
-(2) However, if Regenerate Christchurch does not propose to supply any reportable classes of outputs in that financial year, the statement of performance expectations—
-  (a) must comply with clause 57(1)﻿(b) and (3); but
-  (b) need not comply with clause 57(1)﻿(a) or (2).
+[Repealed]
 
 ### 56 Initial statement of performance expectations
-(1) As soon as practicable after the commencement of this schedule, Regenerate Christchurch must prepare a statement of performance expectations that covers the period from the commencement of this schedule to the close of 30 June 2017.
-(2) Clauses 55(2) and 57 to 61 apply, with any necessary modifications, to the statement of performance expectations prepared under this clause.
+[Repealed]
 
 ### 57 Content of statement of performance expectations
-(1) Each statement of performance expectations must, in relation to a financial year,—
-  (a) identify each reportable class of outputs for the financial year; and
-  (b) state whether Regenerate Christchurch proposes to supply any class of outputs in the financial year that is not a reportable class of outputs.
-(2) For each reportable class of outputs, the statement of performance expectations must—
-  (a) include a concise explanation of what the class of outputs is intended to achieve; and
-  (b) identify the expected revenue and proposed expenses for the class of outputs; and
-  (c) include a concise explanation of how the performance of the class of outputs will be assessed.
-(3) A statement of performance expectations—
-  (a) must comply with generally accepted accounting practice; and
-  (b) must be in writing, be dated, and be signed on behalf of the board by 2 members; and
-  (c) is a final statement of performance expectations when it has been signed in accordance with paragraph (b).
+[Repealed]
 
 ### 58 Forecast financial statements
-(1) Each statement of performance expectations, in relation to a financial year, must contain forecast financial statements for the financial year, prepared in accordance with generally accepted accounting practice.
-(2) The forecast financial statements must include—
-  (a) a statement of all significant assumptions underlying the forecast financial statements; and
-  (b) any additional information and explanations needed to fairly reflect the forecast financial operations and financial position of Regenerate Christchurch.
+[Repealed]
 
 ### 59 Process for providing statement of performance expectations to Christchurch City Council and Minister
-(1) Regenerate Christchurch must provide a statement of performance expectations to Christchurch City Council and the Minister.
-(2) The process that must be followed in providing a statement of performance expectations is as follows:
-  (a) Regenerate Christchurch must provide a draft statement of performance expectations to Christchurch City Council and the Minister,—
-    (i) in the case of the statement of performance expectations prepared under clause 56, as soon as practicable after the commencement of this schedule; or
-    (ii) no later than 2 months before the start of the financial year to which the statement of performance expectations relates; and
-  (b) Christchurch City Council and the Minister must each provide to Regenerate Christchurch any comments that they may have on the draft no later than 20 working days after receiving it; and
-  (c) Regenerate Christchurch must consider the comments (if any) on the draft; and
-  (d) Regenerate Christchurch must provide the final statement of performance expectations to Christchurch City Council and the Minister,—
-    (i) in the case of the statement of performance expectations prepared under clause 56, as soon as practicable after receiving the comments (if any); or
-    (ii) as soon as practicable after receiving the comments (if any), but in any event before the start of the financial year to which the statement of performance expectations relates.
+[Repealed]
 
 ### 60 Obligation to publish and present statement of performance expectations
-(1) Regenerate Christchurch must, as soon as practicable after providing a final statement of performance expectations to Christchurch City Council and the Minister, publish the statement on its Internet site.
-(2) However, if the final statement of performance expectations relates to a period commencing on or after the next Budget day, the Minister may require Regenerate Christchurch not to publish the statement in the pre-Budget period.
-(3) The Minister must present a copy of the final statement of performance expectations to the House of Representatives.
-(4) The statement of performance expectations may be presented or published in a document that includes any other statement or information, but only if each statement or set of information is separately identifiable within that document.
+[Repealed]
 
 ### 61 Amendments to statement of performance expectations
-(1) Regenerate Christchurch may amend its final statement of performance expectations.
-(2) Regenerate Christchurch must amend its final statement of performance expectations if—
-  (a) the information contained in the statement of performance expectations is false or misleading in a material particular; or
-  (b) the intentions and undertakings in the statement of performance expectations are significantly altered or affected by—
-    (i) any change in the law:
-    (ii) any other change in Regenerate Christchurch’s operating environment.
-(3) Regenerate Christchurch must make the amendment required under subclause (2) as soon as practicable after it becomes aware of the facts that give rise to the obligation to amend under this clause.
-(4) The following process applies to an amendment under subclause (1) or (2):
-  (a) Regenerate Christchurch must provide a draft amendment to Christchurch City Council and the Minister; and
-  (b) Christchurch City Council and the Minister must each provide to Regenerate Christchurch any comments on the draft that they may have no later than 20 working days after receiving it; and
-  (c) Regenerate Christchurch must consider the comments (if any) and must provide the final amendment to Christchurch City Council and the Minister as soon as practicable.
-(5) Clauses 57(3)﻿(b) and (c) and 60 apply to the amended statement of performance expectations.
+[Repealed]
 
 **Reporting: annual report**
 
 ### 62 Obligation to prepare, present, and publish annual report
-(1) Regenerate Christchurch must,—
-  (a) as soon as practicable after the end of each financial year (not including the financial year ending 30 June 2016), prepare a report on the affairs of Regenerate Christchurch (an annual report); and
-  (b) within 3 months after the end of the financial year and no later than 15 working days after receiving the audit report provided under clause 68, provide the annual report to Christchurch City Council and the Minister.
-(2) The Minister must present the annual report to the House of Representatives within 5 working days after the Minister receives the annual report or, if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
-(3) Regenerate Christchurch must publish the annual report as soon as practicable after it has been presented to the House of Representatives, but in any case not later than 10 working days after the annual report is received by the Minister.
-(4) The annual report may be presented or published in a document that includes any other report or information but only if each report or set of information is separately identifiable within that document.
+[Repealed]
 
 ### 63 Form and content of annual report
-(1) An annual report must contain the following information and reports in respect of the financial year to which it relates:
-  (a) information on operations that complies with subclause (4); and
-  (b) a statement of performance in accordance with clause 65; and
-  (c) the annual financial statements for Regenerate Christchurch in accordance with clause 66; and
-  (d) a statement of responsibility in accordance with clause 67; and
-  (e) the audit report in accordance with clause 68; and
-  (f) information on compliance with its obligation to be a good employer (including its equal employment opportunities programme); and
-  (g) information required by clause 64 (which relates to payments in respect of members, committee members, and employees during that financial year); and
-  (h) information required by clause 27(5) (which relates to permission to act despite being interested in a matter); and
-  (i) any matters that relate to or affect Regenerate Christchurch’s operations that Regenerate Christchurch is otherwise required, or has undertaken, or wishes to report on in its annual report.
-(2) The annual report prepared in respect of the financial year ending with the close of 30 June 2017 must also include the information and reports specified in subclause (1) in respect of the period beginning on 18 April 2016 and ending with the close of 30 June 2016.
-(3) For the purpose of subclause (2), each reference to a financial year in this clause and clauses 62 to 68 must be read as a reference to the period beginning on 18 April 2016 and ending with the close of 30 June 2017.
-(4) The annual report must provide the information that is necessary to enable an informed assessment to be made of Regenerate Christchurch’s operations and performance for that financial year, including an assessment of Regenerate Christchurch’s progress in relation to its strategic intentions as set out in the most recent statement of intent.
-(5) An annual report must be in writing, be dated, and be signed on behalf of the board by 2 members.
+[Repealed]
 
 ### 64 Disclosure of payments in respect of members, committee members, and employees
-(1) The annual report must include,—
-  (a) for each board member, the total value of the remuneration (other than compensation or other benefits referred to in paragraph (d)) paid or payable to the member in his or her capacity as a member from Regenerate Christchurch during that financial year; and
-  (b) for each committee member who is not a board member or an employee, the total value of the remuneration (other than compensation or other benefits referred to in paragraph (d)) paid or payable to the member in his or her capacity as a committee member from Regenerate Christchurch during that financial year; and
-  (c) the number of employees to whom, during the financial year, remuneration (other than compensation or other benefits referred to in paragraph (d)) was paid or payable in their capacity as employees, the total value of which is or exceeds $100,000 per annum, and the number of those employees in brackets of $10,000; and
-  (d) the total value of any compensation or other benefits paid or payable to persons who ceased to be members, committee members, or employees during the financial year in relation to that cessation and the number of persons to whom all or part of that total was paid or payable; and
-  (e) details of any indemnity provided by Regenerate Christchurch during the financial year to any member, office holder, or employee; and
-  (f) details of any insurance cover effected by Regenerate Christchurch during the financial year in respect of the liability or costs of any member, office holder, or employee.
-(2) In subclause (1), member, office holder, and employee include a person who was a member or office holder or employee at any time after the commencement of this Part but who is no longer a member, office holder, or employee.
+[Repealed]
 
 ### 65 Form and content of statement of performance
-A statement of performance must, in relation to a financial year,—
-  (a) be prepared in accordance with generally accepted accounting practice; and
-  (b) describe each reportable class of outputs for the financial year; and
-  (c) include, for each reportable class of outputs identified in the statement of performance expectations for the financial year,—
-    (i) the standards of delivery performance achieved by Regenerate Christchurch, as compared with the forecast standards included in the statement of performance expectations for the financial year; and
-    (ii) the actual revenue earned and output expenses incurred, as compared with the expected revenues and proposed output expenses included in the statement of performance expectations for the financial year.
+[Repealed]
 
 ### 66 Annual financial statements
-(1) As soon as practicable after the end of each financial year, Regenerate Christchurch must prepare financial statements in relation to that financial year.
-(2) The financial statements must—
-  (a) comply with generally accepted accounting practice; and
-  (b) include any other information or explanations needed to fairly reflect the financial operations and financial position; and
-  (c) include the forecast financial statements prepared at the start of the financial year, for comparison with the actual financial statements.
+[Repealed]
 
 ### 67 Statement of responsibility
-The statement of responsibility must—
-  (a) contain a statement of the signatories' responsibility for the preparation of the financial statements and statement of performance and for the judgements in them; and
-  (b) contain a statement of the signatories' responsibility for establishing and maintaining a system of internal control designed to provide reasonable assurance as to the integrity and reliability of financial reporting; and
-  (c) contain a statement that, in the opinion of the signatories, the financial statements and statement of performance for the financial year fairly reflect the financial position and operations of Regenerate Christchurch; and
-  (d) be dated and signed on behalf of the board by 2 members.
+[Repealed]
 
 ### 68 Audit report
-(1) Regenerate Christchurch must, as soon as practicable after the end of each financial year (not including the financial year ending 30 June 2016), forward to the Auditor-General—
-  (a) the annual financial statements and statement of performance; and
-  (b) the draft annual report; and
-  (c) any other information that the Auditor-General has agreed, or is required, to audit.
-(2) The Auditor-General must—
-  (a) audit the statements and information referred to in subclause (1)﻿(a) and (c); and
-  (b) provide an audit report to Regenerate Christchurch.
+[Repealed]
 
 ### 69 Final annual report of Regenerate Christchurch
-(1) Section 45J of the Public Finance Act 1989 (which relates to final annual reports of disestablished entities) applies to the final annual report of Regenerate Christchurch.
-(2) Despite section 45J(3) of that Act, the Minister of Finance must, by the close of 30 June 2020, approve the transfer of the responsibility for preparing and providing the final annual report under that section to another party.
+[Repealed]
 
 **Other financial provisions**
 
 ### 70 Restrictions on acquisition of financial products, borrowing, guarantees, indemnities, and derivatives
-(1) Sections 160 to 164 of the Crown Entities Act 2004 apply to Regenerate Christchurch as if Regenerate Christchurch were a Crown entity.
-(2) For the purposes of subclause (1), an approval under section 160(1)﻿(b) of that Act must be given jointly by the responsible Minister, the Minister of Finance, and Christchurch City Council.
+[Repealed]
 
 ### 71 Liability for debts
-Section 49 of the Public Finance Act 1989 applies to Regenerate Christchurch as if Regenerate Christchurch were a Crown entity.
+[Repealed]
 
 ## Schedule 6 — Legislative instruments revoked
 
