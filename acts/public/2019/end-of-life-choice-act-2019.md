@@ -428,7 +428,7 @@ A welfare guardian appointed under the Protection of Personal and Property Right
 ### 35 Effect on contracts of death under this Act
 A person who dies as a result of assisted dying is, for the purposes of any life insurance contract, or any other contract,—
   (a) taken to have died as if assisted dying had not been provided; and
-  (b) taken to have died from the terminal illness referred to in section 5(c) from which they suffered.
+  (b) taken to have died from the terminal illness referred to in section 5(1)﻿(c) from which they suffered.
 
 ### 36 Restrictions on making public details of assisted dying deaths
 (1) This section applies in respect of a death that was, or appears to be, the result of assisted dying under this Act.
