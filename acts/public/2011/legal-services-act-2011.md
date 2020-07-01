@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2020-04-03_
+_Consolidation as at 2020-07-01_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -117,6 +117,9 @@ The purpose of this Act is to promote access to justice by establishing a system
 (4) In this Act, a reference to an application by a person or a grant to a person includes a reference to an application made by one person on behalf of another, or a grant made in respect of a person other than the person to whom the grant is made.
 (5) In this Act, and in any regulations made under it, references to such things as fees, charges, disbursements, grants, and rates are references to those things exclusive of GST.
 
+### 4A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+
 ### 5 Act binds the Crown
 This Act binds the Crown.
 
@@ -167,22 +170,8 @@ Legal aid may be granted in respect of the following criminal matters:
   (a) an inquest held by a coroner for the purposes of Part 3 of the Coroners Act 2006; and
   (b) a hearing of the New Zealand Parole Board (other than one in a proceeding specified in section 6(c)﻿(i)) that concerns an offender and is a hearing at which a victim may appear as of right or with the Board's leave.
 (3) Paragraphs (o) and (p) of subsection (1) do not restrict any other paragraph of that subsection.
-(3A) Despite subsection (1), legal aid is only available in proceedings under the Care of Children Act 2004 that are to be heard and determined in the Family Court if—
-  (a) a lawyer is acting in the proceedings as permitted by any of the following sections of that Act:
-    (i) section 7A(2); or
-    (ii) section 7A(4)﻿(b)﻿(ii) or (iii); or
-    (iii) section 7A(4)﻿(c); or
-    (iv) section 7A(6); or
-  (b) a lawyer is acting in the proceedings as permitted by section 7A(4)﻿(a) or (b)﻿(i) of that Act, but the proceedings are not of a kind specified in subsection (3B); or
-  (c) a lawyer is providing legal advice to a party who—
-    (i) has indicated at a settlement conference an intention to consent to the making of an order settling 1 or more of the issues in dispute in the proceedings; and
-    (ii) has been advised by the Judge to obtain legal advice before that order is made.
-(3B) The kinds of proceedings referred to in subsection (3A)﻿(b) are—
-  (a) proceedings commenced by an application that—
-    (i) affects the applicant only; or
-    (ii) is in respect of a routine matter; or
-    (iii) is about a matter that does not affect the interests of any other person; or
-  (b) proceedings where every person in respect of whom the order is sought has either died or cannot be found.
+(3A)
+(3B)
 (4) Despite subsection (1), but subject to subsection (5)﻿(e), legal aid is not available in proceedings under Part 4 of the Family Proceedings Act 1980 (which relates to proceedings relating to the status of marriage or civil union) unless the Commissioner is of the opinion—
   (a) that the unusual complexity of the case requires that the applicant be legally represented; or
   (b) that the applicant would suffer substantial hardship if aid were not granted.
@@ -195,7 +184,7 @@ Legal aid may be granted in respect of the following criminal matters:
   (f) any appeal to the Immigration and Protection Tribunal against a decision concerning a residence class visa under section 187 of the Immigration Act 2009 (or any appeal to the Residence Appeal Authority under section 18C of the Immigration Act 1987):
   (g) any appeal to the Immigration and Protection Tribunal on humanitarian grounds against liability for deportation by a person liable for deportation under section 154 of the Immigration Act 2009 (or any appeal to the Removal Review Authority under Part 2 of the Immigration Act 1987):
   (h) proceedings before a Commission of Inquiry under the Commissions of Inquiry Act 1908 (other than a Commission of Inquiry established or appointed by or under another enactment but deemed to be a Commission of Inquiry under the Commissions of Inquiry Act 1908).
-(6) Subsections (3A) and (3B) do not apply in respect of any proceedings commenced under the Care of Children Act 2004 before the date of commencement of section 5 of the Care of Children Amendment Act (No 2) 2013.
+(6)
 
 ### 8 When legal aid may be granted: criminal matters
 (1) The Commissioner may grant legal aid to an applicant in respect of proceedings to which section 6 applies (criminal matters) if—
@@ -1708,6 +1697,18 @@ The Legal Services Act 2000 (2000 No 42) is repealed.
 
 ### 146 Revocation of Legal Services Regulations 2006
 The Legal Services Regulations 2006 (SR 2006/180) are revoked.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Family Court (Supporting Families in Court) Legislation Act 2020
+
+### 1 Interpretation
+In this Part,—
+  - **2020 Act** means the Family Court (Supporting Families in Court) Legislation Act 2020
+  - **pending proceedings** means any proceedings commenced under the Care of Children Act 2004 before 1 July 2020 but not completed by that date.
+
+### 2 Legal aid may be granted for pending proceedings
+Legal aid may be granted under section 7 in respect of pending proceedings even though before the repeal of section 7(3A), (3B), and (6) on 1 July 2020 (by section 9 of the 2020 Act) legal aid could not have been granted in respect of those proceedings.
 
 ## Schedule 1 — Definition of income and disposable capital
 
