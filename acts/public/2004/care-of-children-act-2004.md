@@ -1,5 +1,5 @@
 # Care of Children Act 2004
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2020-07-01_
 
 ### 1 Title
 This Act is the Care of Children Act 2004.
@@ -84,32 +84,7 @@ A court may appoint, or direct the Registrar of the court to appoint, a lawyer t
   (b) considers an appointment necessary.
 
 ### 7A Lawyers acting for parties
-(1) A lawyer may act for a party to a proceeding under this Act that is to be heard and determined in the Family Court only as provided in subsections (2) to (6).
-(2) A lawyer may act for a party to a proceeding commenced by an application made under subpart 4 of Part 2.
-(3) A lawyer may act for a party to a proceeding if that party is the Crown.
-(4) A lawyer may act for a party to a proceeding that is—
-  (a) commenced by an application made without notice until such time (if at all) as a Family Court Judge directs that the application proceed on notice:
-  (b) commenced by an application made on notice from such time (if at all) as a Family Court Judge directs that—
-    (i) the application proceed as if it were an application made without notice; or
-    (ii) the application be heard by the court in conjunction with an application that is filed under any other Act; or
-    (iii) the application proceed to a hearing:
-  (c) commenced by an application made without notice that a Family Court Judge has directed proceed on notice, from such time (if at all) as the Judge makes a direction of a kind specified in paragraph (b)﻿(ii) or (iii).
-(5) A lawyer may act for a child who is a party to a proceeding if the lawyer has been appointed by the court under section 7 to represent that child.
-(6) A lawyer may act for a party at a settlement conference convened under section 46Q if a Judge directs that the parties may be represented at that conference.
-(7) A direction referred to in subsection (6) may be made by a Judge if the Judge considers that—
-  (a) at least 1 of the parties needs legal representation at the settlement conference; and
-  (b) the parties having legal representation at the settlement conference will be likely to facilitate settlement of the issues in dispute by agreement between the parties.
-(8) In this section,—
-  - **act** , in relation to a party, means—
-    (a) to sign any document for the party:
-    (b) to file any document for the party:
-    (c) to accept service for the party:
-    (d) to represent the party in court, or otherwise attend with the party before a Judge or Registrar
-  - **party to a proceeding** includes a party to a proposed proceeding.
-(9) To avoid doubt, nothing in this section prevents a lawyer from—
-  (a) giving legal advice to a party:
-  (b) preparing any document for a party:
-  (c) conducting negotiations for a party.
+[Repealed]
 
 ### 7B Duties of lawyer when giving advice
 A lawyer providing legal advice to a person about arrangements for the guardianship or care of a child, or both, must ensure that the person is aware of—
@@ -1742,8 +1717,8 @@ The court may dismiss proceedings before it under this Act if it is satisfied—
   (b) a decision under—
     (i) section 7 to appoint, or to direct the Registrar of the court to appoint, a lawyer to represent a child; or
     (ii) section 130 to appoint, or to direct the Registrar of the court to appoint, a lawyer to assist the court; or
-    (iii) section 133 to obtain a written cultural report, medical report, psychiatric report, or psychological report; or
-  (c) a direction under section 7A(6) that the parties may, or may not, be represented at a settlement conference.
+    (iii) section 133 to obtain a written cultural report, medical report, psychiatric report, or psychological report.
+  (c)
 (4) The High Court Rules 2016 and sections 125 to 130 of the District Court Act 2016, with all necessary modifications, apply to an appeal under this section as if it were an appeal under section 124 of that Act.
 (5) On the ex parte application of the appellant, the Family Court or District Court (as the case may be) may order that the appellant must not be required under section 126(1) of the District Court Act 2016 to give the Registrar of the High Court security for costs.
 (6) Subsection (5) overrides subsection (4).
@@ -1906,6 +1881,16 @@ In this Part,—
 
 ### 2 Consents given under section 46A before commencement date
 Consents given under section 46A before the commencement date continue to have effect as if the 2018 Act had not been enacted.
+
+### Part 2 — Provisions relating to Family Court (Supporting Families in Court) Legislation Act 2020
+
+### 3 Interpretation
+In this Part,—
+  - **2020 Act** means the Family Court (Supporting Families in Court) Legislation Act 2020
+  - **pending proceedings** means any proceedings commenced under this Act before 1 July 2020 but not completed by that date.
+
+### 4 Lawyers may act in pending proceedings
+On and from 1 July 2020 a lawyer may act for any party to a pending proceeding (including representing a party at a settlement conference) even though before the repeal on that date of section 7A of this Act (by section 4 of the 2020 Act) a lawyer could not act for the party.
 
 ## Schedule 1 — Convention on the Civil Aspects of International Child Abduction
 
