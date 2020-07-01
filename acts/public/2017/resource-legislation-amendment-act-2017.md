@@ -1,12 +1,12 @@
 # Resource Legislation Amendment Act 2017
-_Consolidation as at 2017-04-18_
+_Consolidation as at 2020-07-01_
 
 ### 1 Title
 This Act is the Resource Legislation Amendment Act 2017.
 
 ### 2 Commencement
 (1) Subpart 2 of Part 1 (amendments to Resource Management Act 1991) and Part 4 (amendments to Conservation Act 1987) come into force on the day that is 6 months after the date on which this Act receives the Royal assent.
-(2) Subpart 3 of Part 1 (amendments to Resource Management Act 1991 relating to financial contributions) comes into force on the day that is 5 years after the date on which this Act receives the Royal assent.
+(2)
 (3) Part 5 (amendments to Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012) comes into force on 1 June 2017.
 (4) The rest of this Act comes into force on the day after the date on which this Act receives the Royal assent.
 
@@ -1844,44 +1844,42 @@ After section 360F (as inserted by section 116 of the Resource Legislation Amend
 **Amendments to Part 6 of principal Act**
 
 ### 175 Section 108 amended (Conditions of resource consents)
-Repeal section 108(2)﻿(a), (9), and (10).
+[Repealed]
 
 ### 176 Section 108AA amended (Requirements for conditions of resource consents)
-Repeal section 108AA(5) (as inserted by section 147 of the Resource Legislation Amendment Act 2017).
+[Repealed]
 
 ### 177 Section 110 repealed (Refund of money and return of land where activity does not proceed)
-Repeal section 110.
+[Repealed]
 
 ### 178 Section 111 repealed (Use of financial contributions)
-Repeal section 111.
+[Repealed]
 
 **Amendments to Part 10 of principal Act**
 
 ### 179 Section 222 amended (Completion certificates)
-In section 222(1),—
-  (a) delete or on the making of a financial contribution (as defined in section 108(9)); and
-  (b) delete or make the financial contribution (as the case may be).
+[Repealed]
 
 **Amendments to Part 15 of principal Act**
 
 ### 180 Section 407 amended (Subdivision consent conditions)
-In section 407(1), delete 108(2)﻿(a) or.
+[Repealed]
 
 ### 181 Section 409 repealed (Financial contributions for developments)
-Repeal section 409.
+[Repealed]
 
 ### 182 Section 411 repealed (Restriction on imposition of conditions as to financial contributions)
-Repeal section 411.
+[Repealed]
 
 **Amendment to Schedule 12 of principal Act**
 
 ### 183 Schedule 12 amended
-In Schedule 12, after clause 16 (as inserted by section 122 of the Resource Legislation Amendment Act 2017), insert the clauses set out in Schedule 4 of this Act.
+[Repealed]
 
 **Consequential amendments**
 
 ### 184 Consequential amendments relating to financial contributions
-Amend the enactments specified in Schedule 5 as set out in that schedule.
+[Repealed]
 
 ## Part 2 — Amendments to Reserves Act 1977
 
@@ -3781,26 +3779,6 @@ An amendment made by the amendment Act does not apply to any proceeding lodged w
 ## Schedule 3 — Consequential amendments commencing on day after Royal assent
 
 ## Schedule 4 — Amendments to Schedule 12 of Resource Management Act 1991 commencing 5 years after Royal assent
-
-### 17 Matters relating to financial contributions
-(1) An amendment specified in subclause (2) does not apply in respect of an application for a resource consent that is lodged before the commencement of the amendment.
-(2) The amendments referred to in subclause (1) are the amendments, made by the amendment Act, that repeal or amend the following provisions:
-  (a) section 108(2)﻿(a), (9), and (10):
-  (b) sections 110 and 111:
-  (c) section 222(1):
-  (d) section 407(1):
-  (e) section 409:
-  (f) section 411:
-  (g) the provisions of the enactments set out in Schedule 5 of the amendment Act.
-
-### 18 Local authorities must amend plans to remove financial contributions provisions
-(1) This clause applies to a plan or proposed plan that, for the purpose of section 108(10), includes any provision that—
-  (a) specifies the purposes for which conditions requiring a financial contribution may be included in a resource consent; or
-  (b) describes the manner in which the level of a financial contribution is to be determined.
-(2) A local authority must, before the expiry of 5 years after the date of Royal assent of the amendment Act, change the plan or proposed plan to remove the provisions described in subclause (1).
-(3) The local authority—
-  (a) need not make the change in the manner set out in Schedule 1; but
-  (b) must give public notice of the change as soon as practicable after it has been made.
 
 ## Schedule 5 — Consequential amendments commencing 5 years after Royal assent
 
