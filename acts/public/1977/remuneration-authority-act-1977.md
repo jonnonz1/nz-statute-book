@@ -1,5 +1,5 @@
 # Remuneration Authority Act 1977
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-07-01_
 
 > Title
 
@@ -121,7 +121,7 @@ There shall from time to time be appointed by the chief executive of the Departm
 (1) The Authority shall have the function of considering and determining the salaries and principal allowances of—
   (a) the Chief Justice, the other Judges of the Supreme Court, the President of the Court of Appeal, the other Judges of the Court of Appeal, the Chief High Court Judge, and the other Judges of the High Court; and
   (aa) the appointed Judges of the Court Martial Appeal Court; and
-  (b) the Chief District Court Judge, the Principal Family Court Judge, the Principal Youth Court Judge, the Principal Environment Judge, and the other District Court Judges; and
+  (b) the Chief District Court Judge, the Principal Family Court Judge, the Principal Youth Court Judge, the Chief Environment Court Judge, and the other District Court Judges; and
   (ba) the Chief Judge of the Court Martial and the other Judges of the Court Martial; and
   (c) the Chief Judge of the Employment Court and the other Judges of the Employment Court; and
   (d) the Chief Judge and the Deputy Chief Judge of the Maori Land Court and the other Judges of the Maori Land Court; and
