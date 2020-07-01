@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2020-04-30_
+_Consolidation as at 2020-07-01_
 
 > Title
 
@@ -686,7 +686,7 @@ The Minister may, in addition to the information referred to in sections 15 to 1
 (5) If the Vote or authorisation is included in an Appropriation Bill for that year, this Part applies, with all necessary modifications, as if references to a department were references to an Office of Parliament.
 (6) An alteration to the Vote or authorisation during that year is subject to the provisions of this section.
 
-## Part 2 — Fiscal responsibility
+## Part 2 — Fiscal responsibility and wellbeing
 
 **Preliminary**
 
@@ -758,6 +758,11 @@ All financial statements and forecast financial statements included in reports a
   (a) the outcomes sought from new or reallocated expenditure, assets, and liabilities; and
   (b) any expected change over time in the major components of expenditure, assets, and liabilities.
 
+### 26KB Contents of fiscal strategy report: wellbeing objectives
+The fiscal strategy report must—
+  (a) explain how wellbeing objectives have guided the Government’s Budget decisions; and
+  (b) if the wellbeing objectives that guided the Government’s Budget decisions differ from those indicated in the budget policy statement most recently prepared under section 26M, indicate the differences.
+
 ### 26L Contents of fiscal strategy report: other matters
 (1) The fiscal strategy report must include—
   (a) an assessment of the extent to which the economic and fiscal update prepared under section 26O(1) is consistent with the short-term intentions referred to in section 26K(1); and
@@ -781,12 +786,15 @@ All financial statements and forecast financial statements included in reports a
   (b) if Parliament is not in session on 31 March and a budget policy statement has not been presented in that financial year, as soon as possible after the commencement of the next session of Parliament.
 (2) The budget policy statement must, for the financial year commencing on 1 July after the statement is presented, state the broad strategic priorities by which the Government will be guided in preparing the Budget for that financial year, including—
   (a) the overarching policy goals that will guide the Government's Budget decisions; and
+  ((aa)) the wellbeing objectives that will guide the Government’s Budget decisions; and
   (b) the policy areas that the Government will focus on in that year; and
   (c) how the Budget for that year accords with the short-term intentions referred to in the most recent fiscal strategy report or the amended short-term intentions under subsection (3).
 (3) The budget policy statement must,—
   (a) if the long-term objectives referred to in section 26J(1)﻿(a) have changed from those stated in the most recent fiscal strategy report, indicate those amended long-term objectives and explain how they accord with the principles of responsible fiscal management; and
   (b) if the short-term intentions referred to in section 26K(1) have changed from those indicated in the most recent fiscal strategy report, indicate those amended short-term intentions and explain how they accord with the principles of responsible fiscal management and the long-term objectives in the most recent fiscal strategy report or the amended long-term objectives under paragraph (a); and
   (c) if the details of the Government's strategy for managing expenditure, assets, and liabilities (see section 26KA) have changed from those stated in the most recent fiscal strategy report, indicate those amended details.
+(4) The wellbeing objectives referred to in subsection (2)﻿(aa) must relate to social, economic, environmental, and cultural wellbeing and to any other matters that the Government considers support long-term wellbeing in New Zealand.
+(5) The budget policy statement must explain how the wellbeing objectives are intended to support long-term wellbeing in New Zealand.
 
 **Statement on long-term fiscal position**
 
@@ -809,6 +817,19 @@ All financial statements and forecast financial statements included in reports a
   (b) state how those assets and liabilities have changed in value over time; and
   (c) forecast how those assets and liabilities are expected to change in value in each of at least the next 2 financial years after the financial year in which the investment statement is presented; and
   (d) identify any significant differences between the information specified in paragraphs (a) to (c) and the equivalent information reported in the most recent previous investment statement.
+(3) The investment statement must be accompanied by a statement of responsibility signed by the Secretary.
+(4) The statement of responsibility must state that the investment statement has been prepared by the Treasury using its best professional judgements.
+
+**Wellbeing report**
+
+### 26NB Wellbeing report
+(1) The Minister must, before the end of 2022 and then at intervals not exceeding 4 years, present to the House of Representatives a report on wellbeing prepared by the Treasury.
+(2) Using indicators, the report must describe—
+  (a) the state of wellbeing in New Zealand; and
+  (b) how the state of wellbeing in New Zealand has changed over time; and
+  (c) the sustainability of, and any risk to, the state of wellbeing in New Zealand.
+(3) The report must be accompanied by a statement of responsibility signed by the Secretary.
+(4) The statement of responsibility must state that the indicators have been selected, and the report prepared, by the Treasury using its best professional judgements.
 
 **Economic and fiscal updates**
 
@@ -934,7 +955,9 @@ Sections 26Q(2)﻿(b) and 26U(1) do not apply to a decision, circumstance, or st
 ### 26X Certain statements and updates may be published in advance of presentation to House of Representatives
 The Minister may arrange for the following to be published in advance of their being presented to the House of Representatives:
   (a) a budget policy statement under section 26M(1):
-  (aa) an investment statement under section 26NA(1):
+  (aa) a statement on the long-term fiscal position under section 26N(1):
+  (ab) an investment statement under section 26NA(1):
+  (ac) a wellbeing report under section 26NB(1):
   (b) a half-year economic and fiscal update under section 26S(1):
   (c) a pre-election economic and fiscal update under section 26T(1).
 
@@ -949,6 +972,7 @@ The Minister may arrange for the following to be published in advance of their b
   (b) a budget policy statement (see section 26M):
   (c) a statement on the long-term fiscal position (see section 26N):
   (d) an investment statement (see section 26NA):
+  (da) a wellbeing report (see section 26NB(1)):
   (e) an economic and fiscal update (see section 26O):
   (f) a half-year economic and fiscal update (see section 26S):
   (g) a pre-election economic and fiscal update (see section 26T).
