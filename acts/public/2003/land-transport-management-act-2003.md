@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2019-10-22_
+_Consolidation as at 2020-07-01_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -77,6 +77,7 @@ In order to recognise and respect the Crown’s responsibility to take appropria
   - **financial year** means a period of 12 months beginning on 1 July and ending on 30 June
   - **GPS on land transport** means the government policy statement on land transport issued under section 66; and includes any amendments made to the statement under section 90
   - **impact** means the contribution made to an objective or outcome, including by a specified activity class or activity classes
+  - **KiwiRail** means KiwiRail Holdings Limited or any subsidiary of, or successor to, that company
   - **land transport** —
     (a) means—
       (i) transport on land by any means:
@@ -110,7 +111,9 @@ In order to recognise and respect the Crown’s responsibility to take appropria
   - **passenger service** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **personal information** has the same meaning as in section 2(1) of the Privacy Act 1993
   - **Police** means the Police of New Zealand within the meaning of the Policing Act 2008
-  - **procurement procedure** means a procurement procedure approved under section 25
+  - **procurement procedure** means a procurement procedure—
+    (a) approved by the Agency under section 25, in relation to money spent by the Agency or an approved organisation:
+    (b) approved by KiwiRail under section 22H, in relation to the delivery of rail activities and combinations of rail activities funded under section 10(3)﻿(aa)
   - **public organisation** means—
     (a) a Minister of the Crown:
     (b) a department of State:
@@ -135,8 +138,13 @@ In order to recognise and respect the Crown’s responsibility to take appropria
     (b) in relation to Part 5, does not include—
       (i) an excluded passenger service; or
       (ii) a shuttle service
+  - **rail activity** has the meaning set out in section 5A
+  - **rail network investment programme** means a rail network investment programme—
+    (a) prepared by KiwiRail under section 22A; and
+    (b) approved by the Minister under section 22B (and section 22D, if any variations are included)
   - **rail vehicle** has the same meaning as in section 4(1) of the Railways Act 2005
   - **railway line access provider** means a person who controls the use of a railway line by rail operators (including that person if it is also a rail operator), whether or not that person engages rail personnel to exercise or assist in exercising that control on its behalf; but does not include those rail personnel
+  - **region** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **regional council** —
     (a) means a regional council within the meaning of section 5(1) of the Local Government Act 2002; but
     (b) when used in—
@@ -164,6 +172,7 @@ In order to recognise and respect the Crown’s responsibility to take appropria
   - **Route K** has the same meaning as in section 3 of the Tauranga District Council (Route K Toll) Empowering Act 2000 (despite the repeal of that Act or any subsequent renaming of the road)
   - **Secretary** means the chief executive of the Ministry
   - **service** includes an operation carried out on 1 occasion only
+  - **shareholding Ministers** has the same meaning as in section 2 of the State-Owned Enterprises Act 1986
   - **shuttle** means a motor vehicle that—
     (a) is a small passenger vehicle that was originally designed to carry at least 8 persons but not more than 12 persons (including the driver); and
     (b) is used for hire or reward for the carriage of passengers who must begin or end their journey at an airport, a bus or ferry terminal, or a railway station
@@ -198,11 +207,21 @@ In order to recognise and respect the Crown’s responsibility to take appropria
 (5) All references to a main highway in any other Act, or in any regulation, rule, bylaw, order, or other enactment, or in any contract, agreement, deed, instrument, application, licence, notice, declaration, or other document are, unless inconsistent with the context or with the provisions of this Act or the Government Roading Powers Act 1989, to be read as references to a State highway.
 (6) All references to a regional land transport programme in any other Act, or in any regulation, rule, bylaw, order, or other enactment, or in any contract, agreement, deed, instrument, application, licence, notice, declaration, or other document are, unless inconsistent with the context or with the provisions of this Act, to be read as references to a regional land transport plan.
 
+### 5A Meaning of rail activity
+(1) In this Act, unless the context otherwise requires, rail activity—
+  (a) means—
+    (i) any activity provided by KiwiRail (whether itself or on its behalf) that relates to railway infrastructure, railway premises, or rail maintenance vehicles (whether or not self-propelled); and
+    (ii) any combinations of activities described in subparagraph (i); and
+    (iii) any activity or combinations of activities specified as a rail activity in regulations made under subsection (3); but
+  (b) excludes any activity or combinations of activities specified as not a rail activity in regulations made under subsection (3).
+(2) For the purposes of subsection (1), railway infrastructure and railway premises have the meanings given in section 4(1) of the Railways Act 2005.
+(3) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the purposes of subsection (1)﻿(a)﻿(iii) and (b).
+
 ### 6 Meaning of land transport revenue
 In this Act, unless the context otherwise requires, land transport revenue means—
   (a) all road user charges (excluding applicable refunds, and goods and services tax payable under the Goods and Services Tax Act 1985) calculated in accordance with regulations made under section 85 of the Road User Charges Act 2012 and any assessments for unpaid road user charges under Part 3 of that Act:
   (b) all excise duty and excise-equivalent duty on motor spirits, compressed natural gas, or liquefied petroleum gas under the Customs and Excise Act 2018 (excluding applicable refunds or drawbacks of duties, and goods and services tax payable under the Goods and Services Tax Act 1985):
-  (c) all fees and charges (excluding applicable refunds, and goods and services tax payable under the Goods and Services Tax Act 1985) identified, in regulations made for the purposes of Part 1 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or Part 17 of the Land Transport Act 1998, as land transport revenue for the purposes of this Act:
+  (c) all fees and charges (excluding applicable refunds, and goods and services tax payable under the Goods and Services Tax Act 1985) identified, in regulations made for the purposes of Part 11 or Part 17 of the Land Transport Act 1998, as land transport revenue for the purposes of this Act:
   (d) the amount of interest, calculated according to a formula determined by the Minister and the Minister of Finance, earned from the investment of cash held by the Crown from the revenues referred to in paragraphs (a) to (c):
   (e) all other public money that is required by any enactment to be treated as land transport revenue for the purposes of this Act.
 
@@ -242,6 +261,7 @@ This Act binds the Crown.
   (d) administration by the Secretary in relation to the activities and services described in paragraphs (a) to (c).
 (2) The Crown may utilise land transport revenue to fund—
   (a) Police activities or combinations of Police activities up to the amount approved by the responsible Minister under section 18L:
+  (aa) rail activities or combinations of rail activities up to the amount approved by the Minister under section 22F:
   (b) activities carried out by the Ministry or the Agency that are related to the protection of the land transport revenue base and the maintenance of the integrity of the revenue system (up to the amount approved by the responsible Minister and the Minister of Finance), including—
     (i) the management of—
       (A) fuel excise duty refunds under section 41 of this Act:
@@ -249,7 +269,10 @@ This Act binds the Crown.
     (ii) the assessment of unpaid road user charges under Part 3 of the Road User Charges Act 2012 (including administrative and legal work associated with the independent review of, and appeal against, assessments of unpaid road user charges):
     (iii) forecasting of land transport revenue:
     (iv) land transport revenue-related strategy and policy activities:
-    (v) monitoring the performance of the land transport revenue system.
+    (v) monitoring the performance of the land transport revenue system:
+  (c) investment strategy and policy activities (up to the amount approved by the Minister and the Minister of Finance) that—
+    (i) are carried out by the Ministry; and
+    (ii) relate to matters that could have a significant impact on the national land transport fund.
 (3) The Crown may, without further appropriation than this subsection, incur expenses or capital expenditure up to an amount equal to the land transport revenue for that financial year less the amounts for the year that are referred to in subsections (1) and (2) for—
   (a) activities and combinations of activities approved under section 20; and
   (b) expenses resulting from, and repayment of, any borrowing in accordance with section 10(1)﻿(b).
@@ -277,6 +300,7 @@ This Act binds the Crown.
   (e) any other public money provided to meet expenses or capital expenditure, incurred or to be incurred in accordance with an appropriation or other authority by or under an Act in respect of approved activities or combinations of activities of a type described in subsection (3).
 (3) The national land transport fund must be used to pay for—
   (a) Police activities or combinations of Police activities approved under section 18L:
+  (aa) rail activities or combinations of rail activities approved under section 22F:
   (b) activities or combinations of activities (including those relating to State highways) approved under section 20 for which the Agency is responsible for delivery or managing delivery:
   (c) regional councils’ activities or combinations of activities approved under section 20:
   (d) territorial authorities’ activities or combinations of activities approved under section 20 (other than public transport services activities):
@@ -369,7 +393,11 @@ Before a regional transport committee submits a regional land transport plan to 
   (e) a description of how monitoring will be undertaken to assess implementation of the regional land transport plan; and
   (f) a summary of the consultation carried out in the preparation of the regional land transport plan; and
   (g) a summary of the policy relating to significance adopted by the regional transport committee under section 106(2); and
+  (ga) in the case of the plan for Auckland, a list of any significant rail activities or combinations of rail activities proposed by KiwiRail for Auckland; and
+  (gb) in the case of the plan for the Wellington region, any significant rail activities or combinations of rail activities proposed by KiwiRail for the Wellington region; and
+  (gc) in the case of the plan for any other region that has a regional transport committee within the meaning of section 105A(1)﻿(c), any significant rail activities or combinations of rail activities proposed by KiwiRail for that region; and
   (h) any other relevant matters.
+(6A) Any matter included in a regional land transport plan under subsection (6)﻿(ga), (gb), or (gc) is for the purposes of co-ordinated planning and does not limit or affect the process by which any rail activities or combinations of rail activities may be included or excluded, as the case may be, from a rail network investment programme and its funding processes.
 (7) For the purposes of this section, existing public transport services means the level of public transport services in place in the financial year before the commencement of the regional land transport plan, and any minor changes to those services.
 
 ### 17 Form and content of Auckland Transport's regional land transport programmes
@@ -533,6 +561,8 @@ A national land transport programme must include the following matters:
   (c) a list of the activity classes identified in the GPS on land transport to be funded from the national land transport fund, and their proposed level of funding; and
   (d) approved activities and combinations of activities; and
   (e) any Police activities or combinations of Police activities approved under section 18L to be delivered by the Commissioner; and
+  (ea) a list of rail activities or combinations of rail activities included in the current rail network investment programme; and
+  (eb) a list of rail activities or combinations of rail activities approved under section 22F; and
   (f) activities and combinations of activities that the Agency anticipates being funded from the national land transport fund if they are—
     (i) included in a regional land transport plan; or
     (ii) activities or combinations of activities (other than those relating to State highways) for which the Agency is responsible for delivery or managing delivery; and
@@ -608,6 +638,104 @@ The Agency must set the rate of funding assistance from the national land transp
 (1) The Agency may, in accordance with this Part, approve an activity relating to a Māori roadway as qualifying for payments to the Agency from the national land transport fund as if the roadway were a State highway.
 (2) The Agency may, in accordance with this Part, approve an activity relating to a Māori roadway as qualifying for payments to a territorial authority from the national land transport fund as if the roadway were a local road.
 (3) The Agency and territorial authorities may receive funding for a Māori roadway if the activity is included in a regional land transport plan.
+
+**Rail network investment programme**
+
+### 22A KiwiRail must prepare rail network investment programme
+(1) Every 3 financial years, KiwiRail must prepare a rail network investment programme to apply for the following 3 financial years.
+(2) The programme must set out KiwiRail’s recommendations for the rail activities or combinations of rail activities—
+  (a) to be provided by KiwiRail (whether itself or on its behalf); and
+  (b) to be funded or partially funded by the national land transport fund in accordance with section 10(3)﻿(aa).
+(3) The programme must—
+  (a) take into account the purpose of this Act; and
+  (b) take into account the GPS on land transport; and
+  (c) indicate any significant rail activities or combinations of rail activities likely to be included in the next programme; and
+  (d) include sufficient information to allow the Agency to give advice to the Minister on the matters set out in section 22C; and
+  (e) include any other information that the Minister requires KiwiRail to provide.
+(4) KiwiRail must prepare the programme by a date set by the Minister.
+(5) Despite subsections (1) and (4), KiwiRail must prepare the first programme to take effect from 1 July 2021.
+
+### 22B Minister must decide whether to approve rail network investment programme
+(1) The Minister must decide whether to approve (or not approve) each rail network investment programme prepared by KiwiRail under section 22A.
+(2) The Minister must make reasonable efforts to make a decision before the start of the first financial year to which the programme applies.
+(3) The Minister must not make a decision unless the Minister has first—
+  (a) consulted KiwiRail’s shareholding Ministers; and
+  (b) considered the Agency’s advice given under section 22C.
+(4) The Minister may at any time refer a programme back to KiwiRail with a request that KiwiRail reconsider 1 or more aspects of it.
+(5) Subsection (6) applies if, after the Minister has completed the requirements of subsection (3),—
+  (a) the Minister refers a programme back under subsection (4); and
+  (b) KiwiRail submits a revised programme.
+(6) The Minister must repeat the requirements of subsection (3) unless the Minister considers that the revisions to the programme are not significant.
+(7) The Minister must notify the shareholding Ministers, the Ministry, the Agency, and KiwiRail of whether a programme has been approved (or not approved).
+(8) A programme approved under this section is to be treated as if it were approved before the start of the first financial year to which it applies.
+
+### 22C Agency must advise on rail network investment programme
+(1) The Agency must give advice to the Minister for the purposes of section 22B(3)﻿(b) on the following matters:
+  (a) whether the rail network investment programme—
+    (i) contributes to the purposes of this Act; and
+    (ii) is consistent with the GPS on land transport; and
+    (iii) takes into account any relevant regional land transport plan:
+  (b) whether the Agency is satisfied that the programme includes the following information:
+    (i) a recommendation on the maximum contribution to be made from the national land transport fund under section 10(3)﻿(aa):
+    (ii) a statement of the specific rail activities or combinations of rail activities to be funded or partially funded using that contribution:
+    (iii) a statement of the revenue (if any) KiwiRail expects to receive in relation to the activities other than from the fund:
+    (iv) a financial forecast, for the 10-year period starting from the date on which the programme takes effect, of anticipated revenue and expenditure in relation to the activities:
+  (c) whether the Agency considers that KiwiRail has provided the information that the Minister has required under section 22A(3)﻿(e) (if any):
+  (d) whether, based on the matters set out in paragraphs (a) to (c), and any other matter the Agency thinks relevant, the Agency considers that the Minister should approve the programme.
+(2) The Agency must give—
+  (a) its advice to the Minister by a date set by the Minister; and
+  (b) a copy of that advice to the Ministry and KiwiRail as soon as practicable after giving it to the Minister.
+
+### 22D Rail network investment programme may be varied during its currency
+(1) KiwiRail may prepare a variation to a rail network investment programme for approval during its currency.
+(2) For that purpose, sections 22A to 22C apply as far as they are relevant and with any necessary modification.
+(3) Subsection (2) applies unless the Minister considers the variation is not significant, in which case the Minister must simply approve (or not approve) the variation.
+
+### 22E Rail network investment programmes to be available on Agency and KiwiRail Internet sites
+The Agency and KiwiRail must make available on their Internet sites each rail network investment programme approved by the Minister under section 22B, including any variations to a programme (irrespective of whether the variations are included by way of section 22D(2) or (3)).
+
+### 22F Minister may approve funding of rail network investment programme activities
+(1) At KiwiRail’s request, the Minister may approve a rail activity or combinations of rail activities to be funded or partially funded by the national land transport fund.
+(2) The Minister must not make a decision to approve (or not approve) the funding unless—
+  (a) the activity or combinations of activities are included in—
+    (i) the current rail network investment programme; or
+    (ii) any programme being considered for approval under section 22B (as a process carried out in tandem with that consideration); and
+  (b) the Minister has first—
+    (i) consulted KiwiRail’s shareholding Ministers; and
+    (ii) considered the Agency’s advice given under section 22G.
+(3) The Minister may approve a rail activity or combinations of rail activities for funding or partial funding by the national land transport fund without satisfying the requirements of subsection (2) if—
+  (a) either or both of the following apply:
+    (i) the activity or combinations of activities are in the urgent interests of public safety:
+    (ii) the activity or combinations of activities are necessary to immediately or temporarily repair damage caused by a sudden and unexpected event; and
+  (b) the activity or combinations of activities will be provided by KiwiRail (whether itself or on its behalf); and
+  (c) before making a decision, the Minister has sought advice from the Agency on whether it considers that the Minister should approve the funding.
+(4) The Minister must notify the shareholding Ministers, the Ministry, the Agency, and KiwiRail of all activities that, under this section, the Minister—
+  (a) approves to be funded or partially funded; or
+  (b) does not approve to be funded or partially funded.
+
+### 22G Agency must advise on rail activities to be funded
+(1) The Agency must give advice to the Minister for the purposes of section 22F(2)﻿(b)﻿(ii) on the following matters:
+  (a) whether the rail activity or combinations of rail activities are included in the current rail network investment programme or, as the case may be, a programme being considered for approval under section 22B:
+  (b) whether the activity or combinations of activities take into account—
+    (i) any relevant regional land transport plan; and
+    (ii) any national energy efficiency and conservation strategy; and
+    (iii) any relevant national policy statements or regional policy statements for the time being in force under the Resource Management Act 1991:
+  (c) whether the activity or combinations of activities will contribute to the purpose of this Act and are consistent with the GPS on land transport:
+  (d) whether the activity or combinations of activities are efficient and effective:
+  (e) whether, based on the matters set out in paragraphs (a) to (d), and any other matter the Agency thinks relevant, the Agency considers that the Minister should approve the funding of the activity or combinations of activities.
+(2) If the advice relates to an activity or combinations of activities included in a programme being considered for approval under section 22B, the Agency must also give advice on whether there is reference to the activity or combinations of activities in the statement required by section 22C(1)﻿(b)﻿(ii).
+(3) The Agency must develop, and make available on its Internet site, 1 or more assessment methods to use when giving advice in relation to the matters set out in subsection (1)﻿(c) and (d).
+(4) The Agency must give—
+  (a) its advice to the Minister by a date set by the Minister; and
+  (b) a copy of that advice to the Ministry and KiwiRail as soon as practicable after giving it to the Minister.
+
+### 22H KiwiRail must use specified procurement procedure for delivering certain activities
+(1) KiwiRail must approve 1 or more procurement procedures that will apply to the delivery of rail activities and combinations of rail activities funded under section 10(3)﻿(aa).
+(2) The procedures must—
+  (a) be designed to obtain the best value for the money funded under that provision; and
+  (b) take into account current government procurement practices.
+(3) KiwiRail must consult the Agency before approving the procedures.
+(4) KiwiRail and the Agency must make available the procurement procedures on their Internet sites.
 
 **Public organisations**
 
@@ -1734,6 +1862,8 @@ The objective of the Agency is to undertake its functions in a way that contribu
     (ii) auditing the performance of approved organisations in relation to activities approved by the Agency and the operation of the land transport disbursement accounts of approved organisations:
   (f) to manage regulatory requirements for transport on land, including (but not limited to) maintaining and preserving records and documents concerning activities within the land transport system, and maintaining registers:
   (g) to assist, advise, and co-operate with approved organisations:
+  (ga) to assist, advise, and co-operate with KiwiRail in relation to KiwiRail’s role in preparing each rail network investment programme:
+  (gb) to monitor and report to the Minister on the matters set out in section 102A:
   (h) to co-operate with, or to provide advice and assistance to, any government agency or local government agency when requested to do so by the Minister, but only if the Minister and the Agency are satisfied that the performance of the Agency’s functions and duties will not be compromised:
   (i) to provide the Minister with any advice relating to the Agency’s functions that the Minister may request:
   (ia) to issue guidelines for, and monitor the development of, regional public transport plans:
@@ -1820,6 +1950,15 @@ In the course of performing its functions and exercising its powers, the Agency 
 (5)
 (6) An agreement entered into by the responsible Minister and the Minister of Police under subsection (2) must be published or made available to the public in the manner that those Ministers jointly consider appropriate.
 
+### 102A Monitoring and reporting on matters relating to rail network investment programme
+(1) The Agency must—
+  (a) monitor the provision of rail activities or combinations of rail activities approved by the Minister under section 22F; and
+  (b) monitor the extent to which the rail network investment programme—
+    (i) contributes to the purposes of this Act; and
+    (ii) is consistent with the GPS on land transport; and
+  (c) report annually on its findings to the Minister.
+(2) KiwiRail must, when reasonably requested to do so, provide the Agency with sufficient relevant information for the Agency to fulfil its obligations under this section.
+
 ### 103 Agency may declare State highways
 (1) The Agency, with the consent of the Secretary,—
   (a) may, by notice in the Gazette, declare a road to be a State highway; and
@@ -1893,8 +2032,19 @@ In the course of performing its functions and exercising its powers, the Agency 
 (11) If the area of a territorial authority falls into the regions of more than 1 regional council, the territorial authority must decide (after consulting the relevant regional councils) which regional transport committee to join.
 (12) If subsection (11) applies, and a territorial authority fails to decide to join a regional transport committee, the Minister must direct the territorial authority to be represented by a particular regional transport committee.
 (13)
-(14) For the purposes of subsection (11), region has the same meaning as in section 5(1) of the Local Government Act 2002.
+(14)
 (15) Nothing in this section applies to the Auckland Council or Auckland.
+(16) This section is subject to the requirements for additional membership under section 105A (if any).
+
+### 105A KiwiRail representation on regional transport committees
+(1) In this section, regional transport committee means—
+  (a) the regional transport committee for Auckland; and
+  (b) the regional transport committee for the Wellington region (or any joint committee that includes members for the Wellington region); and
+  (c) a regional transport committee or joint committee named by the Minister, by notice in the Gazette.
+(2) A regional transport committee must include 1 additional member to represent KiwiRail (the KiwiRail member).
+(3) KiwiRail must appoint the KiwiRail member.
+(4) The KiwiRail member has no voting rights at any meeting of the committee and must not be appointed as the chairperson or deputy chairperson (or by any other process preside at any meeting).
+(5) The Minister may name a committee under subsection (1)﻿(c) only if the Minister considers that the consequence of doing so will contribute to the purpose of this Act.
 
 ### 106 Functions of regional transport committees
 (1) The functions of each regional transport committee (other than the regional transport committee for Auckland) are—
