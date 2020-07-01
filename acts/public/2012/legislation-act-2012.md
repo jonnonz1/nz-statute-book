@@ -1,5 +1,5 @@
 # Legislation Act 2012
-_Consolidation as at 2020-04-01_
+_Consolidation as at 2020-07-01_
 
 ### 1 Title
 This Act is the Legislation Act 2012.
@@ -1235,6 +1235,7 @@ Every matter approved or prescribed under this Act that is required to be publis
 | Forests Act 1949 | 67ZM |
 | Gambling Act 2003 | 319(1) |
 | KiwiSaver Act 2006 | 65(1) |
+| Land Transport Act 1998 | 167(1)﻿(j)—restriction: only if the regulations prescribe fees or charges that are identified as land transport revenue for the purposes of the Land Transport Management Act 2003 |
 | Land Transport Act 1998 | 269 and 270—restriction: only if the regulations prescribe fees or charges that are identified or to be treated as land transport revenue for the purposes of the Land Transport Management Act 2003 |
 | Land Transport Act 1998 | 269A and 270—restriction: only if the regulations prescribe fees or charges that are identified or to be treated as land transport revenue for the purposes of the Land Transport Management Act 2003 |
 | Land Transport Management Act 2003 | 65ZJ(1) |
