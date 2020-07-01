@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-07-01_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -65,6 +65,7 @@ _Consolidation as at 2020-05-16_
   - **boundary activity** and have the meanings given in section 87AAB
   - **certificate of compliance** means a certificate granted by a consent authority or the Environmental Protection Authority under section 139
   - **change** has the meaning given in section 43AA
+  - **Chief Freshwater Commissioner** means the Chief Freshwater Commissioner appointed under clause 65(3) of Schedule 1
   - **climate change** means a change of climate that is attributed directly or indirectly to human activity that alters the composition of the global atmosphere and that is in addition to natural climate variability observed over comparable time periods
   - **coastal marine area** means the foreshore, seabed, and coastal water, and the air space above the water—
     (a) of which the seaward boundary is the outer limits of the territorial sea:
@@ -75,8 +76,6 @@ _Consolidation as at 2020-05-16_
   - **coastal water** means seawater within the outer limits of the territorial sea and includes—
     (a) seawater with a substantial fresh water component; and
     (b) seawater in estuaries, fiords, inlets, harbours, or embayments
-  - **collaborative group** has the meaning given in clause 36 of Schedule 1
-  - **collaborative planning process** means the process by which a proposed policy statement or plan is prepared or changed in accordance with Part 4 of Schedule 1
   - **combined document** means any instrument for which section 80 makes provision
   - **commercial fishing** has the same meaning as in section 2(1) of the Fisheries Act 1996
   - **common marine and coastal area** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
@@ -122,7 +121,9 @@ _Consolidation as at 2020-05-16_
   - **employee** includes,—
     (a) in relation to a Crown organisation, the chief executive or principal officer (however described) of the organisation; and
     (b) in relation to the New Zealand Defence Force, a member of the Armed Forces (as defined in section 2(1) of the Defence Act 1990)
-  - **enforcement officer** means any person authorised under section 38
+  - **enforcement officer** ,—
+    (a) in sections 327, 328, and 333, means an enforcement officer authorised under section 38; and
+    (b) in the rest of this Act, means an enforcement officer authorised under section 38 or 343I
   - **enforcement order** means an order made under section 319 for any of the purposes set out in section 314; and includes an interim enforcement order made under section 320
   - **environment** includes—
     (a) ecosystems and their constituent parts, including people and communities; and
@@ -145,7 +146,11 @@ _Consolidation as at 2020-05-16_
   - **fisheries resources** has the same meaning as in section 2(1) of the Fisheries Act 1996
   - **fishing** has the same meaning as in section 2(1) of the Fisheries Act 1996
   - **foreshore** means any land covered and uncovered by the flow and ebb of the tide at mean spring tides and, in relation to any such land that forms part of the bed of a river, does not include any area that is not part of the coastal marine area
-  - **fresh water** means all water except coastal water and geothermal water
+  - **freshwater** or means all water except coastal water and geothermal water
+  - **freshwater commissioner** means a person appointed by the Minister under clause 65 of Schedule 1
+  - **freshwater hearings panel** means a panel convened under clause 38 of Schedule 1
+  - **freshwater planning instrument** has the meaning given to it by section 80A(2) and (8)
+  - **freshwater planning process** means the process set out in subpart 4 of Part 5 (section 80A) and Part 4 of Schedule 1
   - **geothermal energy** means energy derived or derivable from and produced within the earth by natural heat phenomena; and includes all geothermal water
   - **geothermal water** means water heated within the earth by natural phenomena to a temperature of 30 degrees Celsius or more; and includes all steam, water, and water vapour, and every mixture of all or any of them that has been heated by natural phenomena
   - **greenhouse gas** has the meaning given to it in section 4(1) of the Climate Change Response Act 2002
@@ -402,7 +407,7 @@ _Consolidation as at 2020-05-16_
   (b) publish a short summary of the notice, along with details of the Internet site where the notice can be accessed, in 1 or more newspapers circulating in the entire area likely to be affected by the matter to which the notice relates.
 (2) The notice and the short summary of the notice must be worded in a way that is clear and concise.
 
-### 2AC Availability of documents during COVID-19 response
+### 2AC Availability of documents
 Interpretation
 (1) In this section, document includes the following if they are required to be made available for inspection to the public, a class of members of the public, a person, or a class of persons, whether free of charge or at a reasonable cost:
   (a) information of any kind; and
@@ -420,7 +425,7 @@ How documents may be made available
   (a) make it available for inspection; and
   (b) upon request, make a physical copy of the document available for purchase at a reasonable cost.
 Repeal
-(6) This section is repealed on 31 October 2021.
+(6)
 
 ### 2A Successors
 (1) In this Act, unless the context otherwise requires, any reference to a person, however described or referred to (including applicant and consent holder), includes the successor of that person.
@@ -456,7 +461,7 @@ The transitional, savings, and related provisions set out in Schedule 12 have ef
   (b) the notice or direction is served or issued against the Crown organisation in its own name.
 (6) An enforcement order may be made against an instrument of the Crown, in accordance with this Act, only if—
   (a) it is a Crown organisation; and
-  (b) a local authority applies for the order; and
+  (b) a local authority or the EPA applies for the order; and
   (c) the order is made against the Crown organisation in its own name.
 (7) Subsections (5) and (6) apply despite section 17(1)﻿(a) of the Crown Proceedings Act 1950.
 (8) An instrument of the Crown may be served with an infringement notice, in accordance with this Act, only if—
@@ -466,7 +471,7 @@ The transitional, savings, and related provisions set out in Schedule 12 have ef
   (a) it is a Crown organisation; and
   (b) the offence is alleged to have been committed by the Crown organisation; and
   (c) the proceedings are commenced—
-    (i) by a local authority or an enforcement officer; and
+    (i) by a local authority, the EPA, or an enforcement officer; and
     (ii) against the Crown organisation in its own name and the proceedings do not cite the Crown as a defendant; and
     (iii) in accordance with the Crown Organisations (Criminal Liability) Act 2002.
 (10) However, subsections (8) and (9) are subject to section 8(4) of the Crown Organisations (Criminal Liability) Act 2002 (which provides that a court may not sentence a Crown organisation to pay a fine in respect of an offence against this Act).
@@ -588,20 +593,17 @@ In achieving the purpose of this Act, all persons exercising functions and power
 
 ### 11 Restrictions on subdivision of land
 (1) No person may subdivide land, within the meaning of section 218, unless the subdivision is—
-  (a) a subdivision permitted by subsection (1A); or
+  (a) first, expressly allowed by a national environmental standard, a rule in a district plan as well as a rule in a proposed district plan for the same district (if there is one), or a resource consent; and second, is shown on one of the following:
+    (i) a survey plan, as defined in paragraph (a)﻿(i) of the definition of survey plan in section 2(1), deposited under Part 10 by the Registrar-General of Land; or
+    (ii) a survey plan, as defined in paragraph (a)﻿(ii) of the definition of survey plan in section 2(1), approved as described in section 228 by the Chief Surveyor; or
+    (iii) a survey plan, as defined in paragraph (b) of the definition of survey plan in section 2(1), deposited under Part 10 by the Registrar-General of Land; or
   (b) effected by the acquisition, taking, transfer, or disposal of part of an allotment under the Public Works Act 1981 (except that, in the case of the disposition of land under the Public Works Act 1981, each existing separate parcel of land shall, unless otherwise provided by that Act, be disposed of without further division of that parcel of land); or
   (c) effected by the establishment, change, or cancellation of a reserve under section 338 of Te Ture Whenua Maori Act 1993; or
   (ca) effected by a transfer under section 23 of the State-Owned Enterprises Act 1986 or a resumption under section 27D of that Act; or
   (cb) effected by any vesting in or transfer or gift of any land to the Crown or any local authority or administering body (as defined in section 2 of the Reserves Act 1977) for the purposes (other than administrative purposes) of the Conservation Act 1987 or any other Act specified in Schedule 1 of that Act; or
   (cc) effected by transfer or gift of any land to Heritage New Zealand Pouhere Taonga or the Queen Elizabeth the Second National Trust for the purposes of the Heritage New Zealand Pouhere Taonga Act 2014 or the Queen Elizabeth the Second National Trust Act 1977; or
   (d) effected by any transfer, exchange, or other disposition of land made by an order under subpart 3 of Part 6 of the Property Law Act 2007 (which relates to the granting of access to landlocked land).
-(1A) A person may subdivide land under subsection (1)﻿(a) if—
-  (a) either—
-    (i) the subdivision is expressly allowed by a resource consent; or
-    (ii) the subdivision does not contravene a national environmental standard, a rule in a district plan, or a rule in a proposed district plan for the same district (if there is one); and
-  (b) the subdivision is shown on a survey plan that is—
-    (i) deposited under Part 10 by the Registrar-General of Land, in the case of a survey plan described in paragraph (a)﻿(i) or (b) of the definition of survey plan in section 2(1); or
-    (ii) approved as described in section 228 by the Chief Surveyor, in the case of a survey plan described in paragraph (a)﻿(ii) of the definition of survey plan in section 2(1).
+(1A)
 (2) Subsection (1) does not apply in respect of Maori land within the meaning of Te Ture Whenua Maori Act 1993 unless that Act otherwise provides.
 
 **Coastal marine area**
@@ -933,7 +935,7 @@ The Minister of Aquaculture has the following functions under this Act:
   (i) approving an applicant as a heritage protection authority under section 188:
   (j) recommending the issue or amendment of a water conservation order under section 214 or 216:
   (k) recommending the appointment of an Environment Judge or alternate Environment Judge under section 250:
-  (l) recommending the appointment of the Principal Environment Judge under section 251:
+  (l) recommending the appointment of the Chief Environment Court Judge under section 251:
   (m) recommending the appointment of an Environment Commissioner or Deputy Environment Commissioner under section 254:
   (n) recommending the making of regulations under section 360:
   (o) approving a regional coastal plan under clause 19 of Schedule 1:
@@ -1250,6 +1252,7 @@ The Minister may not give a direction under section 103 of the Crown Entities Ac
     (iii) the review is carried out under section 128(1)﻿(c); or
     (iv) the review is carried out under section 128(2):
   (cc) charges payable by a person who carries out a permitted activity, for the monitoring of that activity, if the local authority is empowered to charge for the monitoring in accordance with section 43A(8):
+  (cd) charges payable by the farm operator of a farm that is required to have a certified freshwater farm plan, for the carrying out by the local authority of its functions under section 217J:
   (d) charges payable by requiring authorities and heritage protection authorities, for the carrying out by the local authority of any 1 or more of its functions in relation to designations and heritage orders:
   (e) charges for providing information in respect of plans and resource consents, payable by the person requesting the information:
   (f) charges for supply of documents, payable by the person requesting the document:
@@ -1398,8 +1401,8 @@ The following bodies have the powers of a consent authority under sections 37 an
   (b)
   (c)
 (4) Any authorisation under subsection (3) to an officer of a local authority is subject to such terms and conditions as to payment of salary and expenses and as to appointment of his or her duties as may be agreed between the Minister and the local authority.
-(5) The local authority or Minister shall supply every enforcement officer with a warrant, and that warrant shall clearly state the functions and powers that the person concerned has been authorised to exercise and carry out under this Act.
-(6) Every enforcement officer who exercises or purports to exercise any power conferred on him or her by this Act shall have with him or her, and shall produce if required to do so, his or her warrant and evidence of his or her identity.
+(5) The local authority or Minister shall supply every enforcement officer authorised under this section with a warrant, and that warrant shall clearly state the functions and powers that the person concerned has been authorised to exercise and carry out under this Act.
+(6) Every enforcement officer authorised under this section who exercises or purports to exercise any power conferred on him or her by this Act shall have with him or her, and shall produce if required to do so, his or her warrant and evidence of his or her identity.
 (7) Every enforcement officer who holds a warrant issued under this section shall, on the termination of his or her appointment as such, surrender the warrant to the local authority or Minister, as the case may be.
 
 **Powers and duties in relation to hearings**
@@ -1421,7 +1424,7 @@ The following bodies have the powers of a consent authority under sections 37 an
   (d) not permit cross-examination.
 (3) Despite subsection (2), nothing in paragraph (c) or (d) of that subsection applies to a board of inquiry appointed under section 149J.
 
-### 39AA Hearing using remote access facilities during COVID-19 response
+### 39AA Hearing using remote access facilities
 Interpretation
 (1) In this section,—
   - **audio link** means a facility (such as a telephone facility) that enables audio communication between an authority and 1 or more persons with a right to be heard at a hearing
@@ -1449,9 +1452,9 @@ Exclusions
   (b) to a hearing to which section 47A of the Local Government Official Information and Meetings Act 1987 applies.
 Deemed compliance
 (7) A hearing conducted in full or in part before 25 March 2020 using a remote access facility is deemed to comply with this section.
-Period for which this section applies
+When this section applies
 (8) This section applies on and from 25 March 2020.
-(9) This section is repealed on 31 October 2021.
+(9)
 
 ### 39A Accreditation
 The Minister must—
@@ -1619,7 +1622,9 @@ The functions of the Environmental Protection Authority are—
   (dac) if requested by the Minister, to provide advice and secretarial and support services to the Minister in relation to the Minister’s functions under the streamlined planning process (see subpart 5 of Part 5 and Part 5 of Schedule 1).
   (da) to provide technical advice to the Minister on the development of a national environmental standard:
   (e) to exercise any powers or perform any functions or duties delegated to it by the Minister under section 29(4):
-  (f) to exercise any other functions specified in this Act.
+  (f) to perform the enforcement functions conferred by section 343F; and
+  (g) if requested by the Minister, to provide secretarial and support services to assist the Chief Freshwater Commissioner in the exercise of his or her functions and powers in respect of the freshwater planning process; and
+  (h) to exercise any other functions specified in this Act.
 
 ### 42CA Cost recovery for specified function of EPA
 (1) If the Minister asks the EPA under section 42C(dab) to provide secretarial and support services to a person (a supported person),—
@@ -1814,6 +1819,9 @@ A national environmental standard for an activity that is a discharge may descri
   (b) prepare an evaluation report for the standard in accordance with section 32; and
   (c) have particular regard to that report when deciding whether to recommend the making of the standard; and
   (d) publicly notify the report and recommendation made under section 46A(4)﻿(c) or 51(2), as the case requires.
+(2) For the purposes of subsection (1)﻿(a), the Minister—
+  (a) must consider a report and any recommendations made to the Minister under section 46A(4)﻿(c) or 51, as the case requires; and
+  (b) may make any changes, or no changes, to the proposed national environmental standard as the Minister thinks fit.
 (2)
 (3) The Minister need not follow the steps in section 46A if the Minister is recommending the making of an amendment—
   (a) that has no more than a minor effect; or
@@ -1906,7 +1914,7 @@ A national environmental standard for an activity that is a discharge may descri
     (iv) plans:
   (c) the extent and timing of public debate and consultation that took place before the proposed national direction was prepared:
   (d) any other relevant matter.
-(7) If the Minister decides, after consulting as required by subsection (3), to recommend that regulations on the same subject matter as that consulted on be made under any of sections 360 to 360H, the consultation under subsection (3) satisfies the requirement to consult the public and iwi authorities in relation to those regulations.
+(7) If the Minister decides, after consulting as required by subsection (3), to recommend that regulations on the same subject matter as that consulted on be made under any of sections 360 to 360C, the consultation under subsection (3) satisfies the requirement to consult the public and iwi authorities in relation to those regulations.
 (8) A national policy statement prepared in accordance with this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 46B Incorporation of material by reference in national direction
@@ -1953,7 +1961,7 @@ A national direction may incorporate material by reference under Schedule 1AA.
   (a) the matters in Part 2; and
   (b) the proposed national direction; and
   (c) any submissions received on the proposed national direction; and
-  (ca) any additional material provided by the Minister under section 47A(1)﻿(b); and
+  (ca) if applicable, any additional material provided by the Minister under section 47A(1)﻿(b); and
   (d) any evidence received; and
   (e) any other relevant matter.
 (2) After considering the matters, the board of inquiry must arrange for a report and recommendations to be made to the Minister within any terms of reference set by the Minister.
@@ -2264,7 +2272,7 @@ If an invitation is initiated under section 58O(1), the participating authoritie
   (a) be recorded in writing; and
   (b) identify the participating authorities; and
   (c) record the agreement of the participating authorities about—
-    (i) how an iwi authority may participate in the preparation or change of a policy statement or plan, including the use of any of the pre-notification, collaborative, or streamlined planning processes under Schedule 1; and
+    (i) how an iwi authority may participate in the preparation or change of a policy statement or plan, including the use of any of the pre-notification or streamlined planning processes under Schedule 1; and
     (ii) how the participating authorities will undertake consultation requirements, including the requirements of section 34A(1A) and clause 4A of Schedule 1; and
     (iii) how the participating authorities will work together to develop and agree on methods for monitoring under this Act; and
     (iv) how the participating authorities will give effect to the requirements of any relevant iwi participation legislation, or of any agreements associated with, or entered into under, that legislation; and
@@ -2790,15 +2798,42 @@ A local authority may make a rule specifying the activities for which the consen
 (10) Subsection (9)﻿(b) applies whether or not the combined document is approved by any of the other local authorities concerned.
 (11) Clauses 30 and 30A of Schedule 7 of the Local Government Act 2002 apply to the appointment and conduct of any joint committee set up for the purposes of preparing, implementing, or administering a combined document under this section.
 
-### Subpart 4 — Collaborative planning process
+### Subpart 4 — Freshwater planning process
 
-### 80A Use of collaborative planning process
-(1) This subpart, subpart 7, and Part 4 of Schedule 1 apply if a local authority gives public notice in accordance with clause 38 of Schedule 1 of its intention to use the collaborative planning process—
-  (a) to prepare or change a proposed policy statement or plan:
-  (b) to prepare or change a combined regional and district document under section 80.
-(2) If this subpart applies,—
-  (a) clauses 1, 1A(1), 1B, 20, and 20A of Schedule 1 apply; but
-  (b) the rest of Part 1 of Schedule 1 does not apply, except to the extent that it is expressly applied by this subpart or Part 4 of Schedule 1.
+### 80A Freshwater planning process
+(1) The purpose of this subpart is to require all freshwater planning instruments prepared by a regional council to undergo the freshwater planning process.
+(2) A freshwater planning instrument means—
+  (a) a proposed regional plan or regional policy statement for the purpose of giving effect to any national policy statement for freshwater management:
+  (b) a proposed regional plan or regional policy statement that relates to freshwater (other than for the purpose described in paragraph (a)):
+  (c) a change or variation to a proposed regional plan or regional policy statement if the change or variation—
+    (i) is for the purpose described in paragraph (a); or
+    (ii) otherwise relates to freshwater.
+(3) A regional council must prepare a freshwater planning instrument in accordance with this subpart and Part 4 of Schedule 1. However, if the council is satisfied that only part of the instrument relates to freshwater, the council must—
+  (a) prepare that part in accordance with this subpart and Part 4 of Schedule 1; and
+  (b) prepare the parts that do not relate to freshwater in accordance with Part 1 of Schedule 1 or, if applicable, subpart 5 of this Part.
+(4) A regional council must—
+  (a) publicly notify the freshwater planning instrument; and
+  (b) if the purpose of the freshwater planning instrument is to give effect to the National Policy Statement for Freshwater Management 2020, publicly notify the freshwater planning instrument by 31 December 2024; and
+  (c) no later than 6 months after it has publicly notified the freshwater planning instrument, submit the documents required by clause 37(1) of Schedule 1 (the required documents) to the Chief Freshwater Commissioner; and
+  (d) at least 20 working days before submitting the required documents, provide to the Chief Freshwater Commissioner in writing—
+    (i) its notice of intention to submit those documents; and
+    (ii) the regional council and local tangata whenua nominations for appointment to the freshwater hearings panel required by clause 59(1)﻿(b) and (c) of Schedule 1.
+(5) The following is an outline of the rest of the freshwater planning process set out in Part 4 of Schedule 1:
+  (a) the Chief Freshwater Commissioner must convene a freshwater hearings panel to conduct the public hearing of submissions on the freshwater planning instrument:
+  (b) the freshwater hearings panel must conduct the public hearing of submissions in accordance with its powers and the procedures set out in Part 4 of Schedule 1:
+  (c) after the public hearing of submissions is concluded, the freshwater hearings panel must make recommendations to the regional council on the freshwater planning instrument:
+  (d) the regional council may accept or reject any recommendation. However,—
+    (i) the regional council must provide reasons for rejecting a recommendation; and
+    (ii) a person who made a submission on the freshwater planning instrument may make an appeal in accordance with subpart 2 of Part 4 of Schedule 1.
+(6) For the purpose of this subpart the following provisions of Schedule 1 apply:
+  (a) clauses 1(3), 1A, 1B, 2(1), 3 to 3C, 4A, 5, 6, 7(1) and (2), 8, 8A, and 8D; and
+  (b) clauses 16, 16A, 16B, 17, 20, and 20A; and
+  (c) if a request is made by a person under clause 21(1) in relation to a freshwater planning instrument, Part 2 of Schedule 1 applies to the request.
+(7) This section does not affect the Minister’s ability to call in a matter that the Minister considers is or is part of a proposal of national significance under section 142.
+(8) In subsection (2), a proposed regional plan does not include a proposed regional coastal plan or a change or variation to that plan.
+(9) Section 37(1)﻿(a) does not apply to any time period specified in this subpart or Part 4 of Schedule 1.
+(10) In subsection (4), publicly notify, in relation to a freshwater planning instrument, means to publicly notify the instrument in accordance with clause 5 of Schedule 1.
+(11) Subsection (5) is by way of explanation only and does not limit or affect the other provisions of this Act.
 
 ### Subpart 5 — Streamlined planning process
 
@@ -2827,7 +2862,7 @@ A local authority may make a rule specifying the activities for which the consen
 
 ### 80C Application to responsible Minister for direction
 (1) If a local authority determines that, in the circumstances, it would be appropriate to use the streamlined planning process to prepare a planning instrument, it may apply in writing to the responsible Minister in accordance with clause 75 of Schedule 1 for a direction to proceed under this subpart.
-(2) However, a local authority may apply for a direction only if the local authority is satisfied that the application satisfies at least 1 of the following criteria:
+(2) However, a local authority may apply for a direction only if the planning instrument or proposed planning instrument is not a freshwater planning instrument and the local authority is satisfied that the application satisfies at least 1 of the following criteria:
   (a) the proposed planning instrument will implement a national direction:
   (b) as a matter of public policy, the preparation of a planning instrument is urgent:
   (c) the proposed planning instrument is required to meet a significant community need:
@@ -2837,7 +2872,7 @@ A local authority may make a rule specifying the activities for which the consen
 (3) In relation to a private plan change accepted under clause 25(2)﻿(b) of Schedule 1, a local authority must obtain the agreement of the person requesting the change before the local authority applies for a direction under this section.
 (4) If an application is made under this section, it must be submitted to the responsible Minister before the local authority gives notice—
   (a) under clause 5 or 5A of Schedule 1, in relation to a proposed planning instrument; or
-  (b) under clause 38 of Schedule 1, if it intends to use the collaborative planning process; or
+  (b)
   (c) under clauses 25(2)﻿(a)﻿(i) and 26(b) of Schedule 1, in relation to a request for a private plan change.
 
 ### Subpart 6 — Miscellaneous matters
@@ -3015,11 +3050,9 @@ This Part applies subject to Part 6A.
   - **public boundary** means a boundary between an allotment and any road, river, lake, coast, esplanade reserve, esplanade strip, other reserve, or land owned by the local authority or by the Crown.
 
 ### 87AAC Meaning of fast-track application
-(1) An application is a fast-track application if—
-  (a) the application is for a resource consent for 1 or both of the following, but no other, activities:
-    (i) a controlled activity that requires consent under a district plan (other than a subdivision of land):
-    (ii) an activity prescribed, or identified in the manner prescribed, under section 360G(1)﻿(a); and
-  (b) the application includes an address for service that is an electronic address.
+(1) An application is a fast-track application if the application—
+  (a) is for a resource consent for a controlled activity (but no other activity) that requires consent under a district plan (other than a subdivision of land); and
+  (b) includes an address for service that is an electronic address.
 (2) An application described in subsection (1) ceases to be a fast-track application if—
   (a) a consent authority gives public or limited notification of the application; or
   (b) a hearing is to be held for the application; or
@@ -3211,12 +3244,12 @@ The consent authority that would have determined the application had the Environ
   (b) agrees that the applications may be made jointly.
 (2) An application must—
   (a) be made in the prescribed form and manner; and
-  (b) in the case of a fast-track application, include the prescribed information relating to the activity (if any) (see section 360G(1)﻿(b)); and
-  (c) in the case of any other application or a fast-track application where there are no prescribed information requirements relating to the activity, include the information relating to the activity, including an assessment of the activity's effects on the environment, that is required by Schedule 4.
+  (b) include the information relating to the activity, including an assessment of the activity’s effects on the environment, that is required by Schedule 4.
+  (c)
 (2A) An application for a coastal permit to undertake an aquaculture activity must include a copy for the Ministry of Fisheries.
 (3) A consent authority may, within 10 working days after an application was first lodged, determine that the application is incomplete if the application does not—
   (a) include the information prescribed by regulations; or
-  (b) include the information required by subsection (2)﻿(b) or (c) (as applicable).
+  (b) include the information required by subsection (2)﻿(b).
 (3A) The consent authority must immediately return an incomplete application to the applicant, with written reasons for the determination.
 (4) If, after an application has been returned as incomplete, that application is lodged again with the consent authority, that application is to be treated as a new application.
 (5) Sections 357 to 358 apply to a determination that an application is incomplete.
@@ -3529,13 +3562,9 @@ Step 2: if not required by step 1, limited notification precluded in certain cir
   (b) if the answer is no, go to step 3.
 (6) The criteria for step 2 are as follows:
   (a) the application is for a resource consent for 1 or more activities, and each activity is subject to a rule or national environmental standard that precludes limited notification:
-  (b) the application is for a resource consent for either or both of the following, but no other, activities:
-    (i) a controlled activity that requires consent under a district plan (other than a subdivision of land):
-    (ii) a prescribed activity (see section 360H(1)﻿(a)﻿(ii)).
+  (b) the application is for a controlled activity (but no other activities) that requires a resource consent under a district plan (other than a subdivision of land).
 Step 3: if not precluded by step 2, certain other affected persons must be notified
-(7) Determine whether, in accordance with section 95E, the following persons are affected persons:
-  (a) in the case of a boundary activity, an owner of an allotment with an infringed boundary; and
-  (b) in the case of any activity prescribed under section 360H(1)﻿(b), a prescribed person in respect of the proposed activity.
+(7) In the case of a boundary activity, determine in accordance with section 95E whether an owner of an allotment with an infringed boundary is an affected person.
 (8) In the case of any other activity, determine whether a person is an affected person in accordance with section 95E.
 (9) Notify each affected person identified under subsections (7) and (8) of the application.
 Step 4: further notification in special circumstances
@@ -4122,7 +4151,9 @@ If a resource consent is subject to the grant of an application to exchange recr
   (a) a boundary activity, unless the boundary activity is a non-complying activity:
   (b) a subdivision, unless the subdivision is a non-complying activity:
   (c) a residential activity as defined in section 95A(6), unless the residential activity is a non-complying activity.
-(1B) A person who has a right of appeal under subsection (1)﻿(b) may appeal only in respect of a matter raised in the person’s submission (excluding any part of the submission that is struck out under section 41D).
+(1B) A person exercising a right of appeal under subsection (1)﻿(b) may appeal—
+  (a) any matter that was raised in the person’s submission except any part of the submission that is struck out under section 41D; and
+  (b) any matter that was not raised in the person’s submission.
 (2) This section is in addition to the rights provided for in sections 357A, 357AB, 357C, and 357D (which provide for objections to the consent authority).
 
 ### 121 Procedure for appeal
@@ -4279,11 +4310,16 @@ Except as provided in section 123A or 125,—
     (i) to deal with any adverse effect on the environment which may arise from the exercise of the consent and which it is appropriate to deal with at a later stage; or
     (ii) to require a holder of a discharge permit or a coastal permit to do something that would otherwise contravene section 15 or 15B to adopt the best practicable option to remove or reduce any adverse effect on the environment; or
     (iii) for any other purpose specified in the consent; or
-  (b) in the case of a coastal, water, or discharge permit, when a regional plan has been made operative which sets rules relating to maximum or minimum levels or flows or rates of use of water, or minimum standards of water quality or air quality, or ranges of temperature or pressure of geothermal water, and in the regional council's opinion it is appropriate to review the conditions of the permit in order to enable the levels, flows, rates, or standards set by the rule to be met; or
+  (b) in the case of a coastal, water, or discharge permit, or a land use consent granted by a regional council, if—
+    (i) a regional plan contains a rule that relates to maximum or minimum levels or flows or rates of use of water, or minimum standards of water quality or air quality, or ranges of temperature or pressure of geothermal water; and
+    (ii) the rule has been made operative; and
+    (iii) the regional council considers that it is appropriate to review the conditions of the permit or consent in order to enable the levels, flows, rates, or standards set by the rule to be met; or
   (ba) in the case of a coastal, water, or discharge permit, or a land use consent granted by a regional council, when relevant national environmental standards or national planning standards have been made; or
   (bb) in the case of a land use consent, in relation to a relevant regional rule; or
-  (c) if the information made available to the consent authority by the applicant for the consent for the purposes of the application contained inaccuracies which materially influenced the decision made on the application and the effects of the exercise of the consent are such that it is necessary to apply more appropriate conditions.
+  (c) if the information made available to the consent authority by the applicant for the consent for the purposes of the application contained inaccuracies which materially influenced the decision made on the application and the effects of the exercise of the consent are such that it is necessary to apply more appropriate conditions; or
+  (d) if the review is part of a review carried out under subsection (2A).
 (2) A consent authority must, in accordance with section 129, serve notice on a consent holder of its intention to review the conditions of a resource consent if required by an order made under section 339(5)﻿(b).
+(2A) If more than 1 resource consent is affected by the rule referred to in subsection (1)﻿(b)﻿(i), the consent authority may review the conditions of those resource consents together for the purpose of managing the effects of the activities carried out under those resource consents.
 (3) A regional council must notify the chief executive of the Ministry of Fisheries as soon as is reasonably practicable if it intends to review a condition of a coastal permit authorising an aquaculture activity to be undertaken in the coastal marine area and the condition has been specified under section 186H(1A) of the Fisheries Act 1996 as a condition that may not be changed or cancelled until the chief executive of the Ministry of Fisheries makes a further aquaculture decision.
 
 ### 129 Notice of review
@@ -4294,7 +4330,8 @@ Except as provided in section 123A or 125,—
   (d) may propose, and invite the consent holder to propose within 20 working days of service of the notice, new consent conditions; and
   (e) must advise a consent holder by whom a charge is payable under section 36(1)﻿(cb)—
     (i) of the fact that the charge is payable; and
-    (ii) of the estimated amount of the charge.
+    (ii) of the estimated amount of the charge; and
+  (f) must, if section 128(2A) applies, advise that the consent authority intends to review the conditions of the resource consent together with its review of the conditions of other resource consents that are also affected by the rule referred to in section 128(1)﻿(b)﻿(i).
 (2) If notification of the review is required under section 130, the notification must include a summary of the notice served under section 128, and must be served within—
   (a) 30 working days after the service of the notice (if the consent holder is invited to propose new conditions); or
   (b) 10 working days after the service of the notice (if the consent holder is not invited to propose new conditions).
@@ -4501,7 +4538,7 @@ A consent authority that grants a resource consent may, within 20 working days o
 
 ### 140 Outline of this Part
 (1) This section sets out the general scheme and effect of this Part. This section is by way of explanation only and does not limit or affect the other provisions of this Part or this Act.
-(2) This Part provides the Minister with specific powers in relation to applications for resource consents, applications for changes to or cancellation of resource consent conditions, local authority plan changes or variations, requests for plan changes, requests for the preparation of regional plans, and notices of requirement that are or are part of a proposal of national significance.
+(2) This Part provides the Minister with specific powers in relation to applications for resource consents, applications for changes to or cancellation of resource consent conditions, local authority plan changes or variations, requests for plan changes, requests for the preparation of regional plans, matters relating to regional policy statements, and notices of requirement that are or are part of a proposal of national significance.
 (3) If exercised by the Minister, these powers set in motion one of 2 procedures by which the application, change, variation, request, or notice (the matter) is decided. Instead of the normal procedures set out in the Act, either a board of inquiry or the Environment Court decides the matter. A decision by a board of inquiry or the Environment Court may be challenged only by an appeal to the High Court on a question of law. If that decision is challenged, a further appeal may be taken to the Supreme Court or the Court of Appeal on a question of law, but only with the leave of the Supreme Court.
 (4) There are 3 ways in which a matter may come to the Minister for his or her decision on whether to make a direction to refer a matter to a board of inquiry or the Environment Court for decision. If the matter has been lodged with a local authority, the Minister may decide to make a direction on his or her own initiative or in response to a request from the local authority or the applicant. If the matter has been lodged with the Environmental Protection Authority, the Minister may decide to make a direction after receiving a recommendation from the EPA.
 (5) If the Minister decides not to make a direction to refer a matter to a board of inquiry or the Environment Court for decision, the matter will be processed by the local authority that, in the normal course of the Act, would be responsible for dealing with it. However, the Minister may still intervene in the process, for example, by making a submission on the matter for the Crown, appointing a project co-ordinator to advise the local authority on any thing relating to the matter, or appointing an additional hearings commissioner.
@@ -4521,13 +4558,17 @@ In this Part, unless the context requires another meaning,—
     (d) the requiring authority that lodged the notice of requirement, for a matter that is a notice of requirement for a designation or to alter a designation:
     (e) the heritage protection authority that lodged the notice of requirement, for a matter that is a notice of requirement for a heritage order or to alter a heritage order:
     (f) the local authority, for a matter that is—
-      (i) a change to its plan (including a request for a change that has been adopted by the local authority); or
+      (i) a change to its plan or policy statement (including a request for a change that has been adopted by the local authority); or
       (ii) a request for the preparation of a regional plan that has been adopted by a local authority; or
-      (iii) a variation to its proposed plan
+      (iii) a variation to its proposed plan or policy statement; or:
+    (g) the Minister of the Crown or the territorial authority making the request, for a matter that is a request for a change to a regional policy statement,—
+      (i) including a request that has been accepted by a board of inquiry under section 149M or a local authority under clause 25(2)﻿(b) of Schedule 1; but
+      (ii) excluding a request that has been adopted by the local authority
   - **local authority** means—
     (a) the consent authority that would process an application lodged under section 88 or 127 or, if an application is lodged with the EPA, the consent authority that would have been responsible for processing the application if it had been lodged under section 88 or 127, for a matter that is an application for a resource consent or for a change to or cancellation of the conditions of a resource consent:
     (b) the territorial authority responsible for the district plan or proposed district plan, for a matter that is a request for a change to a district plan, a change to a district plan, or a variation to a proposed district plan:
     (c) the regional council responsible for the regional plan or proposed regional plan, for a matter that is a request for the preparation of a regional plan, a request for a change to a regional plan, a change to a regional plan, or a variation to a proposed regional plan:
+    (ca) the regional council responsible for the regional policy statement or proposed policy statement, for a matter relating to a regional policy statement:
     (d) the territorial authority responsible for dealing with a notice of requirement given under Part 8 or, if a notice of requirement is lodged with the EPA, the territorial authority that would have been responsible for dealing with the notice if it had been given under Part 8, for a matter that is a notice of requirement
   - **matter** means—
     (a) an application for a resource consent; or
@@ -4538,7 +4579,12 @@ In this Part, unless the context requires another meaning,—
     (f) a variation to a proposed plan or part of a variation to a proposed plan; or
     (g) a notice of requirement for a designation; or
     (h) a notice of requirement for a heritage order; or
-    (i) a notice of requirement to alter a designation or a heritage order.
+    (i) a notice of requirement to alter a designation or a heritage order; or
+    (j) a request for a change to a regional policy statement (including a request that has been accepted or adopted in whole or in part by a local authority) or part of such a request; or
+    (k) a change to a regional policy statement or part of a change; or
+    (l) a variation to a proposed regional policy statement or part of a variation; or
+    (m) a combination of any 2 or more matters described in paragraphs (c) to (f) and (j) to (l)
+  - **matter relating to a regional policy statement** means a matter specified in paragraphs (j) to (l) of the definition of matter
 
 ### 141A Minister's power to intervene
 [Repealed]
@@ -4565,7 +4611,7 @@ In this Part, unless the context requires another meaning,—
     (i) has aroused widespread public concern or interest regarding its actual or likely effect on the environment (including the global environment); or
     (ii) involves or is likely to involve significant use of natural and physical resources; or
     (iii) affects or is likely to affect a structure, feature, place, or area of national significance; or
-    (iiia) gives effect to a national policy statement and is one that is specified in any of paragraphs (c) to (f) of the definition of matter in section 141; or
+    (iiia) gives effect to a national policy statement and is one that is specified in any of paragraphs (c) to (f) and (j) to (m) of the definition of matter in section 141; or
     (iv) affects or is likely to affect or is relevant to New Zealand's international obligations to the global environment; or
     (v) results or is likely to result in or contribute to significant or irreversible changes to the environment (including the global environment); or
     (vi) involves or is likely to involve technology, processes, or methods that are new to New Zealand and that may affect its environment; or
@@ -4584,12 +4630,12 @@ In this Part, unless the context requires another meaning,—
 (6) If a local authority or an applicant requests the Minister to call in a matter (by making a direction under subsection (2)) and the Minister decides not to do so, the EPA must give notice of the Minister's decision to the local authority and the applicant.
 (6A) When requesting the Minister to call in a matter (by making a direction under subsection (2)), a local authority or an applicant must at the same time serve the other party (the local authority or the applicant, as the case may be) with notice of the request.
 (7) To avoid doubt, the Minister may make a direction under subsection (2) that differs from the direction recommended by the EPA under section 144A.
-(8) The Minister must not make a direction under subsection (2)﻿(b) if section 149C(2)﻿(a) or (b) applies (which relates to a request for the preparation of a regional plan or a request for a change to a plan).
+(8) The Minister must not make a direction under subsection (2)﻿(b) if section 149C(2)﻿(a) or (b) applies (which relates to a request for the preparation of a regional plan or a request for a change to a plan or regional policy statement).
 
 ### 143 Restriction on when local authority may request call in
 A local authority (whether acting as an applicant or a local authority) may not make a request to the Minister in respect of either of the following matters unless it has complied with the consultation provisions in clauses 2, 3, and, if relevant, 4 of Schedule 1, and with clause 5(1)﻿(a) of Schedule 1, in relation to the matter:
-  (a) a change to a plan proposed by the local authority under clause 2 of Schedule 1; or
-  (b) a variation to a proposed plan.
+  (a) a change to a plan or regional policy statement proposed by the local authority under clause 2 of Schedule 1; or
+  (b) a variation to a proposed plan or regional policy statement.
 
 ### 144 Restriction on when Minister may call in matter
 The Minister must not call in a matter (by making a direction under section 142(2))—
@@ -4727,7 +4773,7 @@ As soon as practicable after the Minister makes a direction under section 142(2)
 ### 149C EPA must give public notice of Minister's direction
 (1) The EPA must give public notice of a direction the Minister makes under section 142(2) or 147(1)﻿(a) or (b).
 (2) Subsection (1) does not apply if—
-  (a) the matter is a request for the preparation of a regional plan, or a request for a change to a plan, lodged with the local authority under clause 21 of Schedule 1 and, at the time the Minister makes the direction, the local authority—
+  (a) the matter is a request for the preparation of a regional plan, a request for a change to a plan, or a request for a change to a regional policy statement, lodged with the local authority under clause 21 of Schedule 1 and, at the time the Minister makes the direction, the local authority—
     (i) has not yet made a decision on the request under clause 25 of Schedule 1; or
     (ii) has made a decision to accept the request, but has not yet prepared the proposed plan or change under clause 26(a) of Schedule 1; or
     (iii) has made a decision to adopt the request, but has not yet notified the proposed plan or change under clause 5 of Schedule 1; or
@@ -4774,20 +4820,20 @@ As soon as practicable after the Minister makes a direction under section 142(2)
 (5) If the person is a trade competitor of the applicant, the person may make a submission only if directly affected by an effect of the activity to which the matter relates, and the effect—
   (a) adversely affects the environment; and
   (b) does not relate to trade competition or the effects of trade competition.
-(6) However, subsection (5) does not apply if the matter is a notice of requirement for a heritage order (or to alter a heritage order), a request for the preparation of a regional plan, a request for a change to a plan, a change to a plan, or a variation to a proposed plan.
-(7) If the matter is a change to a plan proposed by a local authority under clause 2 of Schedule 1, or a variation to a proposed plan, the person—
+(6) However, subsection (5) does not apply if the matter is a notice of requirement for a heritage order (or to alter a heritage order), a request for the preparation of a regional plan, a request for a change to a plan, a change to a plan, a variation to a proposed plan, a request for a change to a regional policy statement, a change to a regional policy statement, or a variation to a proposed regional policy statement.
+(7) If the matter is a change to a plan proposed by a local authority under clause 2 of Schedule 1, a variation to a proposed plan, a change to a regional policy statement, or a variation to a proposed regional policy statement, the person—
   (a) must not make a submission if the person could gain an advantage in trade competition through the submission; and
   (b) may make a submission only if directly affected by an effect of the change or variation that—
     (i) adversely affects the environment; and
     (ii) does not relate to trade competition or the effects of trade competition.
-(8) If the matter is a request for the preparation of a regional plan, or a request for a change to a plan, a person who is a trade competitor of the person who made the request may make a submission only if directly affected by an effect of the proposed plan or change that—
+(8) If the matter is a request for the preparation of a regional plan, a request for a change to a plan or a regional policy statement, a person who is a trade competitor of the person who made the request may make a submission only if directly affected by an effect of the proposed plan or change that—
   (a) adversely affects the environment; and
   (b) does not relate to trade competition or the effects of trade competition.
 (9) The closing date for making a submission is 30 working days after the day on which public notice of the direction is given.
 (10) Any submissions on the matter received by the local authority before the matter is called in (by a direction being made under section 142(2)) must be treated as having been made to the EPA under this section.
 
 ### 149F EPA to receive further submissions if matter is request, change, or variation
-(1) Subsection (2) applies if the matter for which the Minister makes a direction under section 142(2) or 147(1)﻿(a) or (b) is a request for the preparation of a regional plan, a request for a change to a plan, a change to a plan, or a variation to a proposed plan.
+(1) Subsection (2) applies if the matter for which the Minister makes a direction under section 142(2) or 147(1)﻿(a) or (b) is a request for the preparation of a regional plan, a request for a change to a plan, a change to a plan, a variation to a proposed plan, or a matter relating to a regional policy statement.
 (2) The EPA must produce a summary of all the submissions on the matter received under section 149E and give public notice of—
   (a) the availability of a summary of submissions on the matter; and
   (b) where the summary and the submissions can be inspected; and
@@ -4797,7 +4843,7 @@ As soon as practicable after the Minister makes a direction under section 142(2)
   (e) the address for service of the EPA.
 (3) The following persons may make a further submission on the matter:
   (a) any person representing a relevant aspect of the public interest; and
-  (b) any person that has an interest in the request, change, or variation greater than the interest that the general public has; and
+  (b) any person that has an interest in the matter greater than the interest that the general public has; and
   (c) the local authority.
 (4) However, a further submission—
   (a) may only be in support of or in opposition to a submission made on a matter under section 149E:
@@ -4830,11 +4876,12 @@ As soon as practicable after the Minister makes a direction under section 142(2)
 If the Minister makes a direction under section 142(2) or 147(1)﻿(a) or (b) to refer any of the following matters to a board of inquiry or the Environment Court, the local authority must not notify a further change or variation relating to the same issue until after the board or the court, as the case may be, has made a decision on the matter:
   (a) a matter that is a change to a plan; or
   (b) a matter that is a variation to a proposed plan; or
-  (c) a matter that is a request for the preparation of a regional plan or a request for a change to a plan (including a request that has been accepted or adopted by the local authority or accepted by a board of inquiry).
+  (c) a matter that is a request for the preparation of a regional plan or a request for a change to a plan (including a request that has been accepted or adopted by the local authority or accepted by a board of inquiry); or
+  (d) a matter relating to a regional policy statement.
 
 ### 149I Limitation on withdrawal of change or variation
-(1) A local authority may withdraw a change that was notified under clause 5 of Schedule 1, or a variation to a proposed plan, for which the Minister has made a direction under section 142(2) no later than 5 working days after the close of the last day on which further submissions may be made under section 149F.
-(2) An applicant may withdraw the applicant's request for a proposed regional plan, or request for a change to a plan, for which the Minister has made a direction under section 142(2) or 147(1)﻿(a) or (b) no later than 5 working days after the close of the last day on which further submissions may be made under section 149F.
+(1) A local authority may withdraw a change that was notified under clause 5 of Schedule 1, a variation to a proposed plan, or matter relating to a regional policy statement, for which the Minister has made a direction under section 142(2) no later than 5 working days after the close of the last day on which further submissions may be made under section 149F.
+(2) An applicant may withdraw the applicant's request for a proposed regional plan, a request for a change to a plan, or a matter relating to a regional policy statement, for which the Minister has made a direction under section 142(2) or 147(1)﻿(a) or (b) no later than 5 working days after the close of the last day on which further submissions may be made under section 149F.
 (3) If the applicant withdraws a request for a change to the plan that is a plan change request made under subpart 4 of Part 7A, the concurrent application that relates to the plan change request is to be treated as having been withdrawn.
 
 ### Subpart 2 — How matter decided if direction made to refer matter to board of inquiry or court
@@ -4904,7 +4951,7 @@ If the Minister makes a direction under section 142(2) or 147(1)﻿(a) or (b) to
   (b) the issues raised by the matter being considered by the board.
 
 ### 149M Process if matter is request for regional plan or change and particular circumstances apply
-(1) This section applies if the matter before a board of inquiry is a request for the preparation of a regional plan, or a request for a change to a plan, and—
+(1) This section applies if the matter before a board of inquiry is a request for the preparation of a regional plan, or a request for a change to a plan or a regional policy statement, and—
   (a) the request is lodged with the EPA under section 145; or
   (b) the request is lodged with the local authority under clause 21 of Schedule 1 but, at the time the Minister made the direction under section 142(2) in relation to the request, the local authority had not yet made a decision on the request under clause 25 of Schedule 1.
 (2) The board may only—
@@ -4929,14 +4976,14 @@ If the Minister makes a direction under section 142(2) or 147(1)﻿(a) or (b) to
 
 ### 149N Process if section 149M applies or proposed plan or change not yet prepared
 (1) Subsections (2) to (4) apply if—
-  (a) a board of inquiry has accepted a request for the preparation of a regional plan, or a request for a change to a plan, under section 149M; or
-  (b) a local authority has accepted a request for the preparation of a regional plan, or a request for a change to a plan, under clause 25(2)﻿(b) of Schedule 1 but, at the time the Minister made the direction under section 142(2) in relation to the request, the local authority had not yet prepared the proposed plan or change under clause 26(a) of Schedule 1.
+  (a) a board of inquiry has accepted a request for the preparation of a regional plan, or a request for a change to a plan, or a request for a change to a regional policy statement under section 149M; or
+  (b) a local authority has accepted a request for the preparation of a regional plan, or a request for a change to a plan, or a request for a change to a regional policy statement under clause 25(2)﻿(b) of Schedule 1 but, at the time the Minister made the direction under section 142(2) in relation to the request, the local authority had not yet prepared the proposed plan or change under clause 26(a) of Schedule 1.
 (2) The local authority must prepare the proposed plan or change in consultation with the applicant as if clause 26(a) of Schedule 1 applied.
 (3) The local authority must then serve a copy of the proposed plan or change on the EPA,—
   (a) if the circumstances in subsection (1)﻿(a) apply, no later than 4 months after the local authority was served with notice of the board's decision under section 149M(4):
   (b) if the circumstances in subsection (1)﻿(b) apply, no later than 4 months after the local authority was served with the Minister's direction under section 149A.
 (4) The local authority must also give notice to the EPA of any rules in the proposed plan or change that will have legal effect under subsection (8)﻿(b) on and from the date on which the EPA gives public notice of the proposed plan or change under section 149O.
-(5) Subsections (6) to (8) apply if a local authority has adopted a request for the preparation of a regional plan, or a request for a change to a plan, under clause 25(2)﻿(a) of Schedule 1 but, at the time the Minister made the direction under section 142(2) in relation to the request, the local authority had not yet notified the proposed plan or change under clause 5 of Schedule 1.
+(5) Subsections (6) to (8) apply if a local authority has adopted a request for the preparation of a regional plan, or a request for a change to a plan, or a request for a change to a regional policy statement, under clause 25(2)﻿(a) of Schedule 1 but, at the time the Minister made the direction under section 142(2) in relation to the request, the local authority had not yet notified the proposed plan or change under clause 5 of Schedule 1.
 (6) The local authority must, no later than 4 months after the local authority was served with the Minister's direction under section 149A,—
   (a) serve a copy of the proposed plan or change on the EPA; and
   (b) give notice to the EPA of any rules in the proposed plan or change that will have legal effect under subsection (8) on and from the date on which the EPA gives public notice of the proposed plan or change under section 149O.
@@ -4951,7 +4998,7 @@ If the Minister makes a direction under section 142(2) or 147(1)﻿(a) or (b) to
 (9)
 
 ### 149O Public notice and submissions where EPA receives proposed plan or change from local authority under section 149N
-(1) This section applies where the EPA receives a proposed plan or change proposed by a local authority under section 149N.
+(1) This section applies where the EPA receives a proposed plan or change to a plan or regional policy statement proposed by a local authority under section 149N.
 (2) On receiving a copy of the proposed plan or change, the EPA must give public notice of the proposed plan or change that—
   (a) states the Minister's reasons for making a direction in relation to the matter; and
   (b) states where the proposed plan or change, accompanying information, and any further information may be viewed; and
@@ -4976,8 +5023,8 @@ If the Minister makes a direction under section 142(2) or 147(1)﻿(a) or (b) to
   (a) have regard to the Minister's reasons for making a direction in relation to the matter; and
   (b) consider any information provided to it by the EPA under section 149G; and
   (c) act in accordance with subsection (2), (3), (4), (5), (6), (7), (8), or (9) as the case may be.
-(2) A board of inquiry considering a matter that is an application for a resource consent must apply sections 104 to 112 and 138A as if it were a consent authority.
-(3) A board of inquiry considering a matter that is an application for a change to or cancellation of the conditions of a resource consent must apply sections 104 to 112 as if—
+(2) A board of inquiry considering a matter that is an application for a resource consent must apply sections 104 to 104D, 105 to 112, and 138A as if it were a consent authority.
+(3) A board of inquiry considering a matter that is an application for a change to or cancellation of the conditions of a resource consent must apply sections 104 to 104D and 105 to 112 as if—
   (a) it were a consent authority and the application were an application for resource consent for a discretionary activity; and
   (b) every reference to a resource consent and to the effects of the activity were a reference to the change or cancellation of a condition and the effects of the change or cancellation, respectively.
 (4) A board of inquiry considering a matter that is a notice of requirement for a designation or to alter a designation—
@@ -4987,6 +5034,7 @@ If the Minister makes a direction under section 142(2) or 147(1)﻿(a) or (b) to
     (ii) confirm the requirement; or
     (iii) confirm the requirement, but modify it or impose conditions on it as the board thinks fit; and
   (c) may waive the requirement for an outline plan to be submitted under section 176A.
+(4A) However, if the requiring authority is the Minister of Education or the Minister of Defence, the board of inquiry may not impose a condition under subsection (4)﻿(b)﻿(iii) requiring a financial contribution (as defined in section 108(9)).
 (5) A board of inquiry considering a matter that is a notice of requirement for a heritage order or to alter a heritage order—
   (a) must have regard to the matters set out in section 191(1); and
   (b) may—
@@ -4996,7 +5044,7 @@ If the Minister makes a direction under section 142(2) or 147(1)﻿(a) or (b) to
 (6) A board of inquiry considering a matter that is a variation to a proposed regional plan, a proposed regional plan, or a change to a regional plan—
   (a) must apply clause 10(1) to (3) of Schedule 1 as if it were a local authority; and
   (b) may exercise the powers under section 293 as if it were the Environment Court; and
-  (c) must apply sections 66 to 70B and 77A to 77D as if it were a regional council; and
+  (c) must apply sections 66 to 70 and 77A to 77D as if it were a regional council; and
   (d) must apply section 165H as if it were a regional council, if the matter involves a rule in a regional coastal plan or proposed regional coastal plan that relates to the allocation of space in a common marine and coastal area for the purposes of an activity.
 (7) A board of inquiry considering a matter that is a change to a district plan or a variation to a proposed district plan—
   (a) must apply clause 10(1) to (3) of Schedule 1 as if it were a local authority; and
@@ -5006,6 +5054,10 @@ If the Minister makes a direction under section 142(2) or 147(1)﻿(a) or (b) to
   (a) firstly, determine matters in relation to the plan change request; and
   (b) secondly, determine matters in relation to the concurrent application, based on its determination of matters in relation to the plan change request.
 (9) For the purposes of subsection (8)﻿(b), a board of inquiry must process, consider, and determine the concurrent application as if it were a regional council acting under section 165ZW and that section applies accordingly with all necessary modifications.
+(9A) A board of inquiry considering a matter relating to a regional policy statement—
+  (a) must apply clause 10(1) to (3) of Schedule 1 as if it were a local authority; and
+  (b) may exercise the powers under section 293 as if it were the Environment Court; and
+  (c) must apply sections 61 and 62 as if it were a regional council.
 (10) A board of inquiry must decline a concurrent application if, as a result of the board's determination on the plan change request, the aquaculture activity that the concurrent application relates to remains a prohibited activity.
 
 ### 149Q Board to produce draft report
@@ -5017,7 +5069,7 @@ If the Minister makes a direction under section 142(2) or 147(1)﻿(a) or (b) to
   (b) produce a written report.
 (2) The board must perform the duties in subsection (1) no later than 9 months after—
   (a) the day on which the EPA gave public notice under section 149C of the Minister's direction under section 142(2) or 147(1)﻿(a) in relation to the matter, unless paragraph (b) or (c) applies; or
-  (b) the day on which the EPA gave public notice under section 149O of the proposed plan or change, if that section applies to the matter before the board; or
+  (b) the day on which the EPA gave public notice under section 149O of the proposed plan or change to a plan or regional policy statement, if that section applies to the matter before the board; or
   (c) the day on which the EPA gave limited notification under section 149ZC(4), if the EPA gave that notice for the matter before the board.
 (2A) For the purposes of subsection (2), the 9-month period excludes—
   (a) the period starting on 20 December in any year and ending with 10 January in the following year:
@@ -5051,6 +5103,9 @@ If the Minister makes a direction under section 142(2) or 147(1)﻿(a) or (b) to
 (2) The board may correct a resource consent as if the board were a consent authority acting under section 133A (which applies within 20 working days of the grant of the resource consent).
 (3) The board may amend a proposed plan as if the board were a local authority acting under clause 16(2) of Schedule 1 before the earlier of the following:
   (a) the day on which the local authority approves the proposed plan under clause 17 of Schedule 1 or the day on which the Minister of Conservation approves the proposed regional coastal plan under clause 19 of Schedule 1, whichever applies:
+  (b) the day that is 40 working days after the day on which any appeals relating to the matter have been determined and all rights of appeal have expired.
+(3A) The board may amend a proposed regional policy statement as if the board were a local authority acting under clause 16(2) of Schedule 1 before the earlier of the following:
+  (a) the day on which the local authority approves the proposed regional policy statement under clause 17 of Schedule 1:
   (b) the day that is 40 working days after the day on which any appeals relating to the matter have been determined and all rights of appeal have expired.
 (4) The board may correct a requirement before the earlier of the following:
   (a) the day on which the local authority includes the relevant designation or heritage order in its district plan and any proposed district plan under section 175(2):
@@ -5093,8 +5148,8 @@ If the Minister makes a direction under section 142(2) or 147(1)﻿(a) or (b) to
   (a) have regard to the Minister's reasons for making a direction in relation to the matter; and
   (b) consider any information provided to it by the EPA under section 149G; and
   (c) act in accordance with subsection (2), (3), (4), (5), (6), or (7), as the case may be.
-(2) If considering a matter that is an application for a resource consent, the court must apply sections 104 to 112 and 138A as if it were a consent authority.
-(3) If considering a matter that is an application for a change to or cancellation of the conditions of a resource consent, the court must apply sections 104 to 112 as if—
+(2) If considering a matter that is an application for a resource consent, the court must apply sections 104 to 104D and 105 to 112 and 138A as if it were a consent authority.
+(3) If considering a matter that is an application for a change to or cancellation of the conditions of a resource consent, the court must apply sections 104 to 104D and 105 to 112 as if—
   (a) it were a consent authority and the application were an application for resource consent for a discretionary activity; and
   (b) every reference to a resource consent and to the effects of the activity were a reference to the change or cancellation of a condition and the effects of the change or cancellation, respectively.
 (4) If considering a matter that is a notice of requirement for a designation or to alter a designation, the court—
@@ -5104,6 +5159,7 @@ If the Minister makes a direction under section 142(2) or 147(1)﻿(a) or (b) to
     (ii) confirm the requirement; or
     (iii) confirm the requirement, but modify it or impose conditions on it as the court thinks fit; and
   (c) may waive the requirement for an outline plan to be submitted under section 176A.
+(4A) However, if the requiring authority is the Minister of Education or the Minister of Defence, the court may not impose a condition under subsection (4)﻿(b)﻿(iii) requiring a financial contribution (as defined in section 108(9)).
 (5) If considering a matter that is a notice of requirement for a heritage order or to alter a heritage order, the court—
   (a) must have regard to the matters set out in section 191(1); and
   (b) may—
@@ -5113,11 +5169,15 @@ If the Minister makes a direction under section 142(2) or 147(1)﻿(a) or (b) to
 (6) If considering a matter that is a variation to a proposed regional plan, a proposed regional plan, or a change to a regional plan, the court—
   (a) must apply clause 10(1) to (3) of Schedule 1 as if it were a local authority; and
   (b) may exercise the powers under section 293; and
-  (c) must apply sections 66 to 70B and 77A to 77D as if it were a regional council.
+  (c) must apply sections 66 to 70, 77A, and 77D as if it were a regional council.
 (7) If considering a matter that is a change to a district plan or a variation to a proposed district plan, the court—
   (a) must apply clause 10(1) to (3) of Schedule 1 as if it were a local authority; and
   (b) may exercise the powers under section 293; and
   (c) must apply sections 74 to 77D as if it were a territorial authority.
+(7A) If considering a matter relating to a regional policy statement, the court—
+  (a) must apply clause 10(1) to (3) of Schedule 1 as if it were a local authority; and
+  (b) may exercise the powers under section 293; and
+  (c) must apply sections 61 and 62 as if it were a regional council.
 (8) Part 11 applies to proceedings under this section, except if inconsistent with any provision of this section.
 
 **Appeals**
@@ -5143,12 +5203,12 @@ If the Minister makes a direction under section 142(2) or 147(1)﻿(a) or (b) to
 **Process after decision of board of inquiry or court on certain matters**
 
 ### 149W Local authority to implement decision of board or court about proposed regional plan or change or variation
-(1) Subsections (2) and (3) apply to a local authority if—
-  (a) a board of inquiry or the Environment Court considers a matter that is a proposed regional plan or a change to a plan or a variation to a proposed plan; and
-  (b) the board or the court, as the case may be, decides that changes must be made to the proposed plan, change, or variation.
+(1) Subsections (2) and (3) apply to a local authority if a board of inquiry or the Environment Court—
+  (a) considers a matter that is a proposed regional plan, a change to a plan, a variation to a proposed plan, a change to a regional policy statement, or a variation to a proposed regional policy statement; and
+  (b) decides that changes must be made to that matter.
 (2) As soon as practicable after receiving notice of the decision of the board or the court under section 149R(4) or 149U, as the case may be,—
-  (a) the local authority must amend the proposed plan, change, or variation under clause 16(1) of Schedule 1, and that clause applies accordingly as if the decision were a direction of the Environment Court under section 293; and
-  (b) if the decision is in respect of a proposed regional plan, or a change or variation to a district or regional plan (other than a regional coastal plan), the local authority must—
+  (a) the local authority must amend the proposed regional plan or a change or variation to a plan or regional policy statement under clause 16(1) of Schedule 1, and that clause applies accordingly as if the decision were a direction of the Environment Court under section 293; and
+  (b) if the decision is in respect of a proposed regional plan, or a change or variation to a district or regional plan (other than a regional coastal plan), or a regional policy statement, the local authority must—
     (i) approve the proposed plan, change, or variation under clause 17 of Schedule 1; and
     (ii) make the plan, change, or variation operative by giving public notice in accordance with clause 20 of Schedule 1; and
   (c) if the decision is in respect of a change or variation to a regional coastal plan, the local authority must—
@@ -6364,19 +6424,15 @@ In this Act—
 
 ### 170 Discretion to include requirement in proposed plan
 (1) If a territorial authority is given notice of a requirement under section 168, and proposes to notify a proposed plan under clause 5 of Schedule 1 within 40 working days of receipt of that requirement, the territorial authority may, with the consent of the requiring authority, include the requirement in its proposed plan instead of complying with section 169.
-(2) To obtain consent for the purposes of subsection (1), (4), or (8), the territorial authority must—
+(2) To obtain consent for the purposes of subsection (1) or (8), the territorial authority must—
   (a) notify the requiring authority as to which planning process it intends to use under Schedule 1; and
-  (b) seek the consent of the requiring authority to use that planning process for considering the requirement; and
-  (c) if a collaborative planning process is to be used, inform the requiring authority that it must nominate a representative for appointment to the collaborative group.
+  (b) seek the consent of the requiring authority to use that planning process for considering the requirement.
+  (c)
 Where proposal is to use collaborative planning process
-(3) Subsection (4) applies if a territorial authority—
-  (a) receives notice of a requirement under section 168; and
-  (b) proposes to notify that it will use a collaborative planning process under clause 38 of Schedule 1 within 40 working days of receiving the requirement.
-(4) If this subsection applies, the territorial authority may, if the requiring authority consents,—
-  (a) include the requirement with the matters that will be subject to the proposed plan when it gives a notice under clause 38 of Schedule 1; and
-  (b) include the requirement in the terms of reference set under clause 41 of Schedule 1, instead of complying with section 169.
-(5) If the requiring authority agrees to be part of the relevant collaborative group, the provisions of Part 4 of Schedule 1 apply to the notice of requirement.
-(6) If the requiring authority does not agree to be part of the collaborative group, or withdraws from the group before the group delivers its report under clause 44 of Schedule 1, the notice of requirement must not proceed using the collaborative planning process proposed under subsection (3)﻿(b).
+(3)
+(4)
+(5)
+(6)
 Where proposal is to use streamlined planning process
 (7) Subsection (8) applies if a territorial authority—
   (a) receives a notice of requirement under section 168; and
@@ -6402,6 +6458,7 @@ Where proposal is to use streamlined planning process
   (b) modify the requirement:
   (c) impose conditions:
   (d) withdraw the requirement.
+(2A) However, if the requiring authority is the Minister of Education or the Minister of Defence, the territorial authority may not recommend imposing a condition requiring a financial contribution (as defined in section 108(9)).
 (3) The territorial authority must give reasons for its recommendation under subsection (2).
 
 ### 172 Decision of requiring authority
@@ -6431,6 +6488,7 @@ Where proposal is to use streamlined planning process
   (a) cancel a requirement; or
   (b) confirm a requirement; or
   (c) confirm a requirement, but modify it or impose conditions on it as the court thinks fit.
+(5) However, if the requiring authority is the Minister of Education or the Minister of Defence, the court may not impose a condition under subsection (4)﻿(c) requiring a financial contribution (as defined in section 108(9)).
 
 ### 175 Designation to be provided for in district plan
 (1) Subsection (2) applies to a territorial authority if—
@@ -6594,7 +6652,7 @@ In this Act—
   - **heritage protection authority** means—
     (a) any Minister of the Crown including—
       (i) the Minister of Conservation acting either on his or her own motion or on the recommendation of the New Zealand Conservation Authority, a local conservation board, the New Zealand Fish and Game Council, or a Fish and Game Council; and
-      (ii) the Minister of Maori Affairs acting either on his or her own motion or on the recommendation of an iwi authority:
+      (ii) the Minister for Māori Development acting either on his or her own motion or on the recommendation of an iwi authority:
     (b) a local authority acting either on its own motion or on the recommendation of an iwi authority:
     (c) Heritage New Zealand Pouhere Taonga, in so far as it carries out its functions under section 13(1)﻿(i) of the Heritage New Zealand Pouhere Taonga Act 2014:
     (d) a body corporate that is approved as a heritage protection authority under section 188.
@@ -7013,6 +7071,7 @@ Referral to mediation
     (ii) confirm the requirement; or
     (iii) confirm the requirement, but modify it or impose conditions on it as the court thinks fit; and
   (c) may waive the requirement for an outline plan to be submitted under section 176A.
+(6A) However, if the requiring authority is the Minister of Education or the Minister of Defence, the court may not impose a condition under subsection (6)﻿(b)﻿(iii) requiring a financial contribution (as defined in section 108(9)).
 (7) If considering a matter that is a notice of requirement for a heritage order or to alter a heritage order, the court—
   (a) must have regard to the matters set out in section 191(1); and
   (b) may—
@@ -7084,6 +7143,7 @@ The territorial authority that would have dealt with the requirement had the Env
     (ii) confirm the requirement; or
     (iii) confirm the requirement, but modify it or impose conditions on it as the court thinks fit; and
   (c) may waive the requirement for an outline plan to be submitted under section 176A.
+(5A) However, if the requiring authority is the Minister of Education or the Minister of Defence, the court may not impose a condition under subsection (5)﻿(b)﻿(iii) requiring a financial contribution (as defined in section 108(9)).
 (6) If considering a matter that is a notice of requirement for a heritage order or to alter a heritage order, the court—
   (a) must have regard to the matters set out in section 191(1); and
   (b) may—
@@ -7136,7 +7196,7 @@ In this Act, the term water conservation order means an order made under section
 (1) After receipt of an application (and any further information required by the Minister) under section 201 and after making such inquiry in respect of the application as the Minister considers necessary, the Minister shall as soon as practicable either—and notify the applicant of his or her decision, and where the application is rejected, of his or her reasons for the rejection.
   (a) appoint a special tribunal to hear and report on the application; or
   (b) reject the application—
-(2) Before appointing a special tribunal under subsection (1)﻿(a), the Minister shall, where appropriate, consult with the Minister of Maori Affairs and the Minister of Conservation regarding the membership of the tribunal.
+(2) Before appointing a special tribunal under subsection (1)﻿(a), the Minister shall, where appropriate, consult with the Minister for Māori Development and the Minister of Conservation regarding the membership of the tribunal.
 
 ### 203 Special tribunal
 (1) A special tribunal appointed under section 202 shall—
@@ -7275,6 +7335,202 @@ If a special tribunal reports under section 208, or the Environment Court recomm
   (a) shall not grant a water permit, coastal permit, or discharge permit if the grant of that permit would be contrary to any restriction or prohibition or any other provision of the order:
   (b) shall not grant a water permit, a coastal permit, or a discharge permit to discharge water or contaminants into water, unless the grant of any such permit or the combined effect of the grant of any such permit and of existing water permits and discharge permits and existing lawful discharges into the water or taking, use, damming, or diversion of the water is such that the provisions of the water conservation order can remain without change or variation:
   (c) shall, in granting any water permit, coastal permit, or discharge permit to discharge water or contaminants into water, impose such conditions as are necessary to ensure that the provisions of the water conservation order are maintained.
+
+## Part 9A — Freshwater farm plans
+
+### 217A Purpose
+The purpose of this Part is to better control the adverse effects of farming on freshwater and freshwater ecosystems within specified districts, regions, or parts of New Zealand through the use of certified freshwater farm plans.
+
+### 217B Interpretation
+In this Part, unless the context otherwise requires,—
+  - **arable land use** means the use of land to grow any of the following crops for harvest:
+    (a) grain cereal, legumes, or pulse grain:
+    (b) herbage seed:
+    (c) oilseed:
+    (d) maize grain, maize silage, cereal silage, or mangels:
+    (e) crops grown for seed multiplication:
+    (f) a crop prescribed in regulations made under section 217M(1)﻿(a)
+  - **auditor** means a person who—
+    (a) is appointed under section 217K; and
+    (b) meets the criteria prescribed in regulations made under section 217M(1)﻿(h)
+  - **certified freshwater farm plan** means a freshwater farm plan certified under section 217G, as amended from time to time in accordance with section 217E(2) or (3)
+  - **certifier** means a person who—
+    (a) is appointed under section 217K; and
+    (b) meets the criteria prescribed in regulations made under section 217M(1)﻿(h)
+  - **farm** means a farm where all or part of the farm is—
+    (a) arable land use; or
+    (b) horticultural land use; or
+    (c) pastoral land use; or
+    (d) other agricultural land use prescribed in regulations made under section 217M(1)﻿(b); or
+    (e) any combination of the above
+  - **farm operator** means the person with ultimate responsibility for the operation of a farm
+  - **horticultural land use** means the use of land to grow food or beverage crops for human consumption (other than arable crops), or flowers for commercial supply
+  - **pastoral land use** means the use of land for the grazing of livestock
+  - **regulations** means regulations made under section 217M
+  - **relevant regional council** means the regional council (as defined in section 2) in whose jurisdiction the farm is located
+  - **specified instrument** means any designation, national environmental standard, national planning standard, regulations made under Part 14, resource consent, rule in a plan, or water conservation order.
+
+### 217C Application of this Part
+(1) This Part applies only—
+  (a) to a region, district, or part of New Zealand specified in an Order in Council under this section; and
+  (b) on and from the date specified in the Order in Council.
+(2) The Governor-General may, by Order in Council, on the recommendation of the Minister, determine—
+  (a) that this Part applies to a specified district, region, or part of New Zealand; and
+  (b) the date on which this Part applies to that district, region, or part of New Zealand.
+(3) Before making a recommendation under subsection (2), the Minister must—
+  (a) be satisfied that regulations are necessary to achieve the purpose of this Part in the specified district, region, or part of New Zealand; and
+  (b) consult the Minister of Agriculture.
+
+### 217D Farm must have certified freshwater farm plan if it meets land use threshold
+(1) A farm must have a certified freshwater farm plan if—
+  (a) 20 or more hectares of the farm is arable land use; or
+  (b) 5 or more hectares of the farm is horticultural land use; or
+  (c) 20 or more hectares of the farm is pastoral land use; or
+  (d) a prescribed area of the farm is other agricultural land use prescribed in regulations made under section 217M(1)﻿(b); or
+  (e) 20 or more hectares of the farm is a combination of any 2 or more of the land uses described above.
+(2) A certified freshwater farm plan applies to the entire farm.
+
+### 217E Main duties of farm operators
+(1) A farm operator of a farm that is required to have a certified freshwater farm plan must—
+  (a) prepare a freshwater farm plan in accordance with this Part and regulations; and
+  (b) submit the plan to a certifier for certification; and
+  (c) ensure that the farm operates in compliance with the certified freshwater farm plan; and
+  (d) arrange for the farm to be audited in accordance with this Part and regulations for compliance with the certified freshwater farm plan.
+(2) A farm operator must keep the certified freshwater farm plan fit for purpose by—
+  (a) amending the plan as necessary to reflect any changes in the farm; and
+  (b) amending the plan as necessary to comply with this Part and regulations.
+(3) A farm operator must amend and recertify a certified freshwater farm plan if any circumstances prescribed by regulations apply.
+
+### 217F Contents of freshwater farm plan
+A freshwater farm plan must—
+  (a) identify any adverse effects of activities carried out on the farm on freshwater and freshwater ecosystems; and
+  (b) specify requirements that—
+    (i) are appropriate for the purpose of avoiding, remedying, or mitigating the adverse effects of those activities on freshwater and freshwater ecosystems; and
+    (ii) are clear and measurable; and
+  (c) demonstrate how any outcomes prescribed in regulations are to be achieved; and
+  (d) comply with any other requirements in regulations; and
+  (e) comply with section 217L.
+
+### 217G Certification of freshwater farm plan
+(1) The farm operator must, within the prescribed time frame, submit a freshwater farm plan to a certifier.
+(2) The certifier must certify a freshwater farm plan if the certifier is satisfied that the plan complies with the requirements in section 217F.
+(3) The certifier must, as soon as practicable, notify the relevant regional council—
+  (a) that the freshwater farm plan has been certified; and
+  (b) the date on which it was certified.
+(4) This section applies, with any necessary modifications, to a certified freshwater farm plan that is required by regulations to be amended and recertified.
+
+### 217H Audit of farm for compliance with certified freshwater farm plan
+(1) A farm operator must—
+  (a) arrange, within the prescribed time frame, for an auditor to audit the farm for compliance with the certified freshwater farm plan; and
+  (b) arrange for further audits to be carried out at the frequency required by regulations.
+(2) The audit must be completed in the manner prescribed in regulations.
+(3) The farm operator must provide the auditor with—
+  (a) an up-to-date copy of the certified freshwater farm plan and any relevant information; and
+  (b) any further information that the auditor reasonably requests for the purpose of the audit; and
+  (c) reasonable access to the farm (or any part of it) for the purpose of any audit inspection.
+(4) After completing the audit, the auditor must—
+  (a) provide the farm operator with a report of the auditor’s findings on whether the farm achieves compliance with the certified freshwater farm plan; and
+  (b) if the auditor finds that the farm achieves compliance, provide that report to the relevant regional council.
+(5) If the auditor finds that the farm fails to achieve compliance with the certified freshwater farm plan,—
+  (a) the auditor’s report—
+    (i) must include reasons why the farm failed to achieve compliance; and
+    (ii) specify reasonable time frames by which compliance must be achieved; and
+    (iii) may include recommendations on how compliance may be achieved; and
+  (b) the auditor must give the farm operator a reasonable opportunity to respond to the report; and
+  (c) the auditor must, after the prescribed period has expired, provide the farm operator and the relevant regional council with a final report—
+    (i) setting out the auditor’s findings (including the findings of the first report); and
+    (ii) stating whether compliance was achieved; and
+    (iii) including any recommendations from the auditor.
+
+### 217I Functions of regional councils
+(1) For the purposes of this Part, a regional council has the following functions:
+  (a) to enforce the observance of the requirements of this Part and regulations to the extent that their powers under this Act enable them to do so; and
+  (b) to monitor compliance by farm operators with their duties under this Part and with any requirements in regulations; and
+  (c) to receive notifications of freshwater farm plans that have been certified; and
+  (d) to receive audit reports and related notifications from auditors.
+(2) A regional council may require a farm operator to produce a certified freshwater farm plan for inspection.
+
+### 217J Records that must be kept by regional council
+A regional council must keep and maintain, in relation to each farm in its jurisdiction, a record of—
+  (a) whether the farm has a certified freshwater farm plan; and
+  (b) the date the plan was last certified; and
+  (c) the date the farm was last audited for compliance with the plan; and
+  (d) any other information required by regulations.
+
+### 217K Regional council must appoint certifiers and auditors
+(1) A regional council must—
+  (a) appoint 1 or more certifiers; and
+  (b) appoint 1 or more auditors.
+(2) A regional council may make an appointment under this section only if satisfied that criteria prescribed in regulations have been met.
+
+### 217L Relationship between certified freshwater farm plan and specified instruments
+(1) A certified freshwater farm plan may contain a requirement that—
+  (a) relates to an activity carried out on the farm (an activity) even if there is no similar requirement relating to that activity in a provision of a specified instrument:
+  (b) restricts an activity more than a provision of a specified instrument.
+(2) However, if a provision of a specified instrument restricts an activity more than a requirement of a freshwater farm plan, the provision of the specified instrument prevails.
+(3) To avoid doubt, compliance with a requirement of a certified freshwater farm plan—
+  (a) does not of itself authorise a person to undertake an activity:
+  (b) may be specified or included as a requirement or condition in any specified instrument relating to an activity.
+
+### 217M Regulations relating to freshwater farm plans
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister after consulting the Minister of Agriculture, make regulations that—
+  (a) prescribe crops for the purpose of the definition of arable land use in section 217B:
+  (b) prescribe agricultural land uses for the purpose of the definition of farm in section 217B:
+  (c) prescribe the area of land described in section 217D(1)﻿(d) (in relation to agricultural land use prescribed under paragraph (b)):
+  (d) provide for the content of a freshwater farm plan, including (without limitation) specifying—
+    (i) any requirements, including any actions, criteria, methods, or thresholds for the purpose of identifying, measuring, avoiding, remedying, or mitigating any adverse effects of activities carried out on the farm on freshwater and freshwater ecosystems; and
+    (ii) outcomes that must be achieved for the purpose of avoiding, remedying, or mitigating those adverse effects on freshwater and freshwater ecosystems; and
+    (iii) any other information that must be included in the plan for the purpose of this Part:
+  (e) provide for the form and manner in which a freshwater farm plan must be certified, including (without limitation) prescribing—
+    (i) time frames that must be complied with by the farm operator and certifier; and
+    (ii) any fees payable by the farm operator or the manner of calculating those fees:
+  (f) prescribe the circumstances in which a certified freshwater farm plan must be amended and recertified:
+  (g) for the purpose of audits of farms for compliance with certified freshwater farm plans, prescribe—
+    (i) the time frame by which a farm must be audited; and
+    (ii) the frequency at which those audits must be carried out; and
+    (iii) the manner in which an audit must be completed; and
+    (iv) the period after which the auditor must provide their final report under section 217H(5)﻿(c); and
+    (v) any matters that an auditor must take into account when considering whether the farm achieves compliance with the certified freshwater farm plan; and
+    (vi) any fees payable by the farm operator or the manner of calculating those fees:
+  (h) prescribe criteria that apply to the appointment of a person as an auditor or certifier and their continuation in that role:
+  (i) require auditors, certifiers, and farm operators to supply prescribed information to regional councils for the purpose of section 217I:
+  (j) prescribe information that a regional council must keep in relation to farms in its jurisdiction:
+  (k) prescribe infringement offences for the contravention of, or non-compliance with, a provision of this Part or of any regulations made under this section:
+  (l) provide for any other matters that are contemplated by, or necessary for giving full effect to, this Part and for its due administration.
+(2) Regulations under this section may apply generally or to specified districts, regions, or parts of New Zealand.
+(3) Regulations under this section may incorporate material by reference under Schedule 1AA (which applies as if references in that schedule to a national environmental standard, national policy statement, or New Zealand coastal policy statement were references to regulations under this section).
+
+## Part 9B — Effect of nitrogenous fertiliser on freshwater quality and freshwater ecosystems
+
+### 217N Purpose of this Part
+The purpose of this Part is to enable better monitoring of the actions being taken to improve freshwater quality and freshwater ecosystems, through the collection of sales information on nitrogenous fertiliser to inform freshwater management and planning under this Act.
+
+### 217O Nitrogenous fertiliser defined
+In this Part, nitrogenous fertiliser means fertiliser containing any nitrogenous substance (whether solid or fluid in form) applied to plants or soil as a source of nitrogen nutrition for plants, and with more than 5% of nitrogen weight for weight.
+
+### 217P Obligation to comply with regulations
+If regulations made under section 217Q are in force, a person of a class specified in regulations must comply with any requirements in regulations relating to—
+  (a) the collection of information relating to or arising from the sale and purchase of nitrogenous fertiliser; and
+  (b) the provision of that information to the EPA, a regional council, a specified agency, or a specified person or class of persons.
+
+### 217Q Regulations relating to sales information on nitrogenous fertiliser
+The Governor-General may, by Order in Council made on the recommendation of the Minister after consulting the Minister of Agriculture, make regulations that—
+  (a) require persons of a specified class to collect any of the following information relating to or arising from the sale and purchase of nitrogenous fertiliser:
+    (i) the date of purchase:
+    (ii) where the purchase took place:
+    (iii) the name of the seller:
+    (iv) the name of the purchaser:
+    (v) the type of fertiliser purchased:
+    (vi) the volume of fertiliser purchased:
+    (vii) where the fertiliser is intended to be applied; and
+  (b) prescribe how the information is to be collected; and
+  (c) require persons who are required under paragraph (a) to collect the information to provide it to any 1 or more of the following:
+    (i) the EPA:
+    (ii) a regional council:
+    (iii) a specified person or class of persons:
+    (iv) a specified agency; and
+  (d) specify the manner in which, and the frequency at which, that information is to be provided; and
+  (e) allow the collection of personal information of a purchaser only if their purchase exceeds a prescribed volume of nitrogenous fertiliser.
 
 ## Part 10 — Subdivision and reclamations
 
@@ -7714,18 +7970,30 @@ There shall continue to be a court of record called the Environment Court which 
 
 ### 248 Membership of Environment Court
 The Environment Court shall consist of the following members:
-  (a) Environment Judges appointed in accordance with section 250:
+  (a) Environment Judges appointed in accordance with sections 249 and 250:
   (b) Environment Commissioners appointed in accordance with section 254.
 
 **Environment Judges and alternate Environment Judges**
 
 ### 249 Eligibility for appointment as an Environment Judge or alternate Environment Judge
 (1) A person shall not be appointed or hold office as an Environment Judge unless he or she is, or is eligible to be, a District Court Judge. If an appointee is not a District Court Judge at the time of appointment as an Environment Judge, he or she shall be appointed as a District Court Judge at that time.
-(2) A person shall not be appointed or hold office as an alternate Environment Judge unless he or she is a District Court Judge or a Maori Land Court Judge.
+(2) A person may not be appointed or hold office as an alternate Environment Judge unless—
+  (a) the person is a District Court Judge, an acting District Court Judge, a Maori Land Court Judge, or an acting Maori Land Court Judge; or
+  (b) the person is a retired Environment Judge under the age of 75 years and the Chief Environment Court Judge certifies to the Attorney-General that the appointment is necessary for the proper conduct of the Environment Court.
 
 ### 250 Appointment of Environment Judges and alternate Environment Judges
-(1) The Governor-General may, on the recommendation of the Attorney-General, after consultation with the Minister for the Environment and the Minister of Maori Affairs, appoint a person as an Environment Judge or an alternate Environment Judge.
-(2) A person shall hold office as an Environment Judge or as an alternate Environment Judge for such term as he or she holds office as a District Court Judge or Maori Land Court Judge, unless he or she sooner resigns or is removed from office under this Act.
+(1) The Governor-General may, on the recommendation of the Attorney-General, after consulting the Minister for the Environment and the Minister for Māori Development,—
+  (a) appoint a person as an Environment Judge in accordance with section 249(1); or
+  (b) appoint a person as an alternate Environment Judge—
+    (i) in accordance with section 249(2)﻿(a); or
+    (ii) in accordance with section 249(2)﻿(b).
+(2) A person appointed under subsection (1)﻿(a) or (b)﻿(i) holds office as an Environment Judge or as an alternate Environment Judge for the term that the person holds office as a District Court Judge, an acting District Court Judge, a Maori Land Court Judge, or an acting Maori Land Court Judge, unless the person sooner resigns or is removed from office under this Act.
+(2A) When acting as an Environment Judge, an alternate Environment Judge appointed under subsection (1)﻿(b)﻿(ii) has the jurisdiction, powers, protections, privileges, and immunities of a District Court Judge under the District Court Act 2016.
+(2B) A retired Environment Judge—
+  (a) may be appointed as an alternate Environment Judge for a term of not more than 2 years and may be reappointed for 1 or more terms; but
+  (b) must not be appointed—
+    (i) for a term that extends beyond the date on which the Judge reaches the age of 75 years; or
+    (ii) for multiple terms collectively totalling more than 5 years.
 (3) At any one time—
   (a) no more than 10 Environment Judges shall hold office; and
   (b) any number of alternate Environment Judges shall hold office.
@@ -7739,31 +8007,31 @@ The Environment Court shall consist of the following members:
 (6) Environment Judges and alternate Environment Judges must not practise as lawyers.
 
 ### 250A Judge not to undertake other employment or hold other office
-(1) Environment Judges and alternate Environment Judges must not undertake any other paid employment or hold any other office (whether paid or not) without the approval of the Principal Environment Judge.
-(2) An approval under subsection (1) may be given only if the Principal Environment Judge is satisfied that undertaking the employment or holding the office is consistent with the Judge's judicial office.
+(1) Environment Judges and alternate Environment Judges must not undertake any other paid employment or hold any other office (whether paid or not) without the approval of the Chief Environment Court Judge.
+(2) An approval under subsection (1) may be given only if the Chief Environment Court Judge is satisfied that undertaking the employment or holding the office is consistent with the Judge's judicial office.
 (3) However, subsection (1) does not apply to another office if an enactment permits or requires the office to be held by a Judge.
 
 ### 250B Protocol relating to activities of Judges
 (1) The Chief Justice must develop and publish a protocol containing guidance on—
   (a) the employment, or types of employment, that he or she considers may be undertaken consistent with being an Environment Judge or alternate Environment Judge; and
   (b) the offices, or types of offices, that he or she considers may be held consistent with being an Environment Judge or alternate Environment Judge.
-(2) The Chief Justice may develop and publish a protocol under subsection (1) only after consultation with the Principal Environment Judge.
+(2) The Chief Justice may develop and publish a protocol under subsection (1) only after consultation with the Chief Environment Court Judge.
 
-### 251 Principal Environment Judge
-(1) The Governor-General may, on the recommendation of the Attorney-General, appoint an Environment Judge as the Principal Environment Judge.
-(2) The Principal Environment Judge shall be responsible for ensuring the orderly and expeditious discharge of the business of the court and accordingly may, subject to the provisions of this or any other Act and to such consultation with the Environment Judges as is appropriate and practicable, make arrangements as to the Environment Judge or Judges and member or members who is or are to exercise the court's jurisdiction in particular matters or classes of matters and in particular places and areas.
+### 251 Chief Environment Court Judge
+(1) The Governor-General may, on the recommendation of the Attorney-General, appoint an Environment Judge as the Chief Environment Court Judge.
+(2) The Chief Environment Court Judge shall be responsible for ensuring the orderly and expeditious discharge of the business of the court and accordingly may, subject to the provisions of this or any other Act and to such consultation with the Environment Judges as is appropriate and practicable, make arrangements as to the Environment Judge or Judges and member or members who is or are to exercise the court's jurisdiction in particular matters or classes of matters and in particular places and areas.
 
-### 251A Appointment of acting Principal Environment Judge
+### 251A Appointment of acting Chief Environment Court Judge
 (1) This section applies if—
-  (a) the Principal Environment Judge is unable to exercise the duties of office because of illness or absence from New Zealand, or for any other reason; or
-  (b) the office of Principal Environment Judge is vacant.
-(2) The Governor-General may appoint another Environment Judge to act in place of the Principal Environment Judge until the Principal Environment Judge resumes the duties of that office or a successor is appointed, as the case may be.
-(3) While acting in place of the Principal Environment Judge, the acting Principal Environment Judge—
-  (a) may perform the functions and duties of the Principal Environment Judge; and
-  (b) may for that purpose exercise all the powers of the Principal Environment Judge.
+  (a) the Chief Environment Court Judge is unable to exercise the duties of office because of illness or absence from New Zealand, or for any other reason; or
+  (b) the office of Chief Environment Court Judge is vacant.
+(2) The Governor-General may appoint another Environment Judge to act in place of the Chief Environment Court Judge until the Chief Environment Court Judge resumes the duties of that office or a successor is appointed, as the case may be.
+(3) While acting in place of the Chief Environment Court Judge, the acting Chief Environment Court Judge—
+  (a) may perform the functions and duties of the Chief Environment Court Judge; and
+  (b) may for that purpose exercise all the powers of the Chief Environment Court Judge.
 
 ### 252 When an alternate Environment Judge may act
-(1) An alternate Environment Judge may act as an Environment Judge when the Principal Environment Judge, in consultation with the Chief District Court Judge or Chief Maori Land Court Judge, considers it necessary for the alternate Environment Judge to do so.
+(1) An alternate Environment Judge may act as an Environment Judge when the Chief Environment Court Judge, in consultation with the Chief District Court Judge or Chief Maori Land Court Judge, considers it necessary for the alternate Environment Judge to do so.
 (2) When an alternate Environment Judge acts as an Environment Judge he or she is to be considered a member of the Environment Court for all purposes.
 
 **Environment Commissioners and Deputy Environment Commissioners**
@@ -7778,7 +8046,7 @@ When considering whether a person is suitable to be appointed as an Environment 
   (e) matters relating to the Treaty of Waitangi and kaupapa Maori.
 
 ### 254 Appointment of Environment Commissioner or Deputy Environment Commissioner
-(1) The Governor-General may, on the recommendation of the Attorney-General, after consultation with the Minister for the Environment and the Minister of Maori Affairs, appoint a person as an Environment Commissioner or a Deputy Environment Commissioner of the Environment Court for a period not exceeding 5 years.
+(1) The Governor-General may, on the recommendation of the Attorney-General, after consultation with the Minister for the Environment and the Minister for Māori Development, appoint a person as an Environment Commissioner or a Deputy Environment Commissioner of the Environment Court for a period not exceeding 5 years.
 (2) A person may be reappointed as an Environment Commissioner or a Deputy Environment Commissioner any number of times.
 (3) At any one time any number of Environment Commissioners or Deputy Environment Commissioners may hold office.
 (4) If an Environment Commissioner or Deputy Environment Commissioner is not reappointed, he or she may continue in office until his or her successor comes into office, notwithstanding that the term for which he or she was appointed may have expired.
@@ -7786,7 +8054,7 @@ When considering whether a person is suitable to be appointed as an Environment 
 ### 255 When a Deputy Environment Commissioner may act
 (1) A Deputy Environment Commissioner may act in place of an Environment Commissioner when—
   (a) the Environment Commissioner is unavailable; or
-  (b) the Principal Environment Judge considers it necessary that the Deputy Environment Commissioner do so.
+  (b) the Chief Environment Court Judge considers it necessary that the Deputy Environment Commissioner do so.
 (2) When a Deputy Environment Commissioner is acting for an Environment Commissioner, the Deputy Environment Commissioner shall be considered as an Environment Commissioner of the Environment Court for all purposes.
 
 ### 256 Oath of office
@@ -7804,7 +8072,7 @@ An Environment Judge, alternate Environment Judge, Environment Commissioner, or 
 **Special advisors**
 
 ### 259 Special advisors
-(1) The Principal Environment Judge may appoint as a special advisor a person who is able to assist the Environment Court in a proceeding before it.
+(1) The Chief Environment Court Judge may appoint as a special advisor a person who is able to assist the Environment Court in a proceeding before it.
 (2) A special advisor is not a member of the court but may sit with it and assist it in any way the court determines.
 
 **Officers of court**
@@ -7826,6 +8094,7 @@ An Environment Judge, alternate Environment Judge, Environment Commissioner, or 
 (1) No action lies against any member of the Environment Court for anything they say, do, or omit to say or do, while acting in good faith in the performance of their duties.
 (2) In addition, a member of the Environment Court who is a District Court Judge also has the immunities conferred by section 23 of the District Court Act 2016 (which confers on District Court Judges, at all times, the same immunities as a Judge of the High Court).
 (3) No action lies against the Registrar for anything the Registrar says or does, or omits to say or do, while acting in good faith under section 278(3), section 281(5), or section 281A.
+(4) No action lies against a special advisor appointed under section 259 for anything the special advisor says or does, or omits to say or do, while acting in good faith in the performance of the special advisor’s duties.
 
 ### 262 Environment Court members who are ratepayers
 A member of the Environment Court is not to be considered to have an interest in a proceeding before the court solely on the ground that the member is a ratepayer.
@@ -7845,7 +8114,7 @@ There shall be paid, out of money appropriated by Parliament for the purpose, to
 (1) The quorum for the Environment Court is—
   (a) 1 Environment Judge and 1 Environment Commissioner sitting together; or
   (b) 1 Environment Judge sitting alone for the purposes of section 279 or proceedings under Part 12; or
-  (c) 1 Environment Commissioner sitting alone in accordance with a direction of the Principal Environment Judge or an Environment Judge under section 280.
+  (c) 1 Environment Commissioner sitting alone in accordance with a direction of the Chief Environment Court Judge or an Environment Judge under section 280.
 (2) When an Environment Judge sits with an Environment Commissioner or special advisor, the Environment Judge shall preside at the sitting.
 (3) A decision of a majority of the members of the Environment Court present at a sitting is the decision of the court but, if there is no majority, the decision of the presiding member is the decision of the court.
 
@@ -8021,7 +8290,7 @@ A copy of, or extract from, a policy statement or plan, certified to be a true c
   (j) a declaration relating to any inconsistency between a plan and a policy statement:
   (k) an order directing that any determination under section 91 (deferral pending application for additional consents) be revoked.
 (2) An Environment Judge sitting alone may—
-  (a) exercise any powers conferred by the Principal Environment Judge that could have been conferred on an Environment Commissioner under section 280; and
+  (a) exercise any powers conferred by the Chief Environment Court Judge that could have been conferred on an Environment Commissioner under section 280; and
   (b) waive a requirement or give a direction under section 281.
 (3) An Environment Judge sitting alone may, having regard to the matters set out in section 42 and to such other matters as the Environment Judge thinks fit,—or may decline to make any such order.
   (a) on an application made under section 42(4), and on such terms as the Judge thinks fit, make an order cancelling or varying any order made by a local authority under that section:
@@ -8032,11 +8301,11 @@ A copy of, or extract from, a policy statement or plan, certified to be a true c
   (b) that it discloses no reasonable or relevant case in respect of the proceedings; or
   (c) that it would otherwise be an abuse of the process of the Environment Court to allow the case to be taken further.
 (5) In the case of an appeal under section 120, in addition to exercising the powers conferred by subsections (1) to (4), an Environment Judge sitting alone may—
-  (a) exercise any other powers of the Environment Court that may be conferred by the Principal Environment Judge either generally or in relation to a particular matter; and
-  (b) exercise those powers on any terms and conditions that the Principal Environment Judge may think fit.
+  (a) exercise any other powers of the Environment Court that may be conferred by the Chief Environment Court Judge either generally or in relation to a particular matter; and
+  (b) exercise those powers on any terms and conditions that the Chief Environment Court Judge may think fit.
 
 ### 280 Powers of Environment Commissioner sitting without Environment Judge
-(1) An Environment Commissioner or Environment Commissioners sitting without an Environment Judge may exercise such powers as may be conferred by the Principal Environment Judge either generally or in relation to a particular matter, and on such terms and conditions as the Principal Environment Judge may think fit, including a power to—
+(1) An Environment Commissioner or Environment Commissioners sitting without an Environment Judge may exercise such powers as may be conferred by the Chief Environment Court Judge either generally or in relation to a particular matter, and on such terms and conditions as the Chief Environment Court Judge may think fit, including a power to—
   (a) issue summonses requiring the attendance of witnesses; and
   (b) convene a conference under section 267.
 (1AA) If proceedings relate to an appeal under section 120, 1 or more Environment Commissioners sitting without an Environment Judge may,—
@@ -8067,7 +8336,7 @@ A copy of, or extract from, a policy statement or plan, certified to be a true c
   (a) the appellant or applicant and the respondent consent to that waiver; or
   (b) any of those parties who have not so consented will not be unduly prejudiced.
 (4) Without limiting subsections (2) and (3), the Environment Court may waive a requirement as to time under this section whether or not an application is made under this section before the requirement has been breached.
-(5) A Registrar may exercise a power in this section if conferred by the Principal Environment Judge either generally or in relation to a specific matter and, in either case, on such terms and conditions as the Principal Environment Judge thinks fit.
+(5) A Registrar may exercise a power in this section if conferred by the Chief Environment Court Judge either generally or in relation to a specific matter and, in either case, on such terms and conditions as the Chief Environment Court Judge thinks fit.
 
 ### 281A Registrar may waive, reduce, or postpone payment of fee
 (1) A person may apply to the Registrar for a waiver, reduction, or postponement of the payment to the court of any fee prescribed by regulations made under this Act.
@@ -8140,13 +8409,13 @@ An order for costs made by the Environment Court may be filed in the District Co
 Witnesses and counsel appearing before the Environment Court have the same privileges and immunities as they have when they appear in the same capacity in proceedings in the District Court.
 
 ### 288A Information regarding reserved judgments
-The Principal Environment Judge must, in consultation with the Chief Justice,—
+The Chief Environment Court Judge must, in consultation with the Chief Justice,—
   (a) publish information about the process by which parties to proceedings before the court may obtain information about the status of any reserved judgment in those proceedings; and
   (b) periodically publish information about the number of judgments of the court that he or she considers are outstanding beyond a reasonable time for delivery; and
   (c) publish information about reserved judgments that he or she considers is useful.
 
 ### 288B Recusal guidelines
-The Principal Environment Judge must, in consultation with the Chief Justice, develop and publish guidelines to assist Judges to decide if they should recuse themselves from a proceeding.
+The Chief Environment Court Judge must, in consultation with the Chief Justice, develop and publish guidelines to assist Judges to decide if they should recuse themselves from a proceeding.
 
 ### 288C Judge may make order restricting commencement or continuation of proceeding
 (1) A Judge may make an order restricting a person from commencing or continuing civil proceedings in the Environment Court.
@@ -8448,7 +8717,7 @@ A declaration may declare—
 
 ### 311 Application for declaration
 (1) Subject to subsections (2) and (3), any person may at any time apply to the Environment Court in the prescribed form for a declaration.
-(2) No person (other than the consent authority or the Minister) may apply to the Environment Court for a declaration that a consent holder or any other person is contravening any condition of a resource consent or a rule in a plan or proposed plan that requires the holder to adopt the best practicable option to avoid or minimise any adverse effect of the discharge to which the consent or rule relates.
+(2) No person (other than the consent authority, the EPA, or the Minister) may apply to the Environment Court for a declaration that a consent holder or any other person is contravening any condition of a resource consent or a rule in a plan or proposed plan that requires the holder to adopt the best practicable option to avoid or minimise any adverse effect of the discharge to which the consent or rule relates.
 (3) No person (other than a local authority, consent authority, or the Minister of Conservation) may apply to the Environment Court for a declaration under section 310(e).
 
 ### 312 Notification of application
@@ -8501,12 +8770,14 @@ After hearing the applicant, and any person served with notice of the applicatio
 
 ### 316 Application for enforcement order
 (1) Any person may at any time apply to the Environment Court in the prescribed form for an enforcement order of a kind specified in paragraphs (a) to (d) of section 314(1), or in section 314(2).
-(2) A local authority or consent authority may at any time apply to the Environment Court in the prescribed form for an enforcement order of the kind specified in paragraph (da) or paragraph (e) of section 314(1).
+(2) An application may at any time be made in the prescribed form to the Environment Court by—
+  (a) a local authority, a consent authority, or the EPA for an enforcement order of the kind specified in section 314(1)﻿(da); and
+  (b) a local authority or consent authority for an enforcement order of the kind specified in section 314(1)﻿(e).
 (3) An application for an enforcement order under section 314(1)﻿(f) may be lodged—
   (a) by a local authority (or the Minister of Conservation in regard to a regional coastal plan) at any time; or
   (b) by any other person, no later than 3 months after the date on which the policy statement or plan becomes operative.
 (4) Any person who applies for an enforcement order under any provision of this section may request that the enforcement order be made on any terms and conditions permitted by section 314(3) or section 314(4).
-(5) No person (other than the consent authority or the Minister) may apply to the Environment Court for an enforcement order to enforce any condition of a resource consent or a rule in a plan or proposed plan that requires the holder to adopt the best practicable option to avoid or minimise any adverse effect of the discharge to which the consent or rule relates.
+(5) No person (other than the consent authority, the EPA, or the Minister) may apply to the Environment Court for an enforcement order to enforce any condition of a resource consent or a rule in a plan or proposed plan that requires the holder to adopt the best practicable option to avoid or minimise any adverse effect of the discharge to which the consent or rule relates.
 
 ### 317 Notification of application
 (1) Except as provided in section 320 (which relates to interim enforcement orders), where an application for an enforcement order is made, the applicant shall serve notice of the application in the prescribed form on every person directly affected by the application.
@@ -8584,15 +8855,15 @@ Every abatement notice shall be in the prescribed form and shall state—
   (d) the period within which the action must be taken or cease, having regard to the circumstances giving rise to the abatement notice, being a reasonable period to take the action required or cease the action; but must not be less than 7 days after the date on which the notice is served if the abatement notice is within the scope of section 322(1)﻿(a)﻿(ii) and the person against whom the notice is served is complying with this Act, any regulation, a rule in a plan, or a resource consent; and
   (e) the consequences of not complying with the notice or lodging a notice of appeal; and
   (f) the rights of appeal under section 325; and
-  (g) in the case of a notice under section 322(1)﻿(c), the rights of the local authority under section 323(2) on failure of the recipient to comply with the notice within the time specified in the notice; and
-  (h) the name and address of the local authority or consent authority whose enforcement officer issued the notice.
+  (g) in the case of a notice under section 322(1)﻿(c), the rights of an enforcement officer under section 323(2) on failure of the recipient to comply with the notice within the time specified in the notice; and
+  (h) the name and address of the local authority or consent authority whose enforcement officer issued the notice or the address of the EPA, if the notice is issued by an enforcement officer appointed by the EPA.
 
 ### 325 Appeals
 (1) Any person on whom an abatement notice is served may appeal to the Environment Court in accordance with subsection (2) against the whole or any part of the notice.
 (2) Notice of an appeal under subsection (1) shall be in the prescribed form and shall—
   (a) state the reasons for the appeal and the relief sought; and
   (b) state any matters required by regulations; and
-  (c) be lodged with the Environment Court and served on the local authority or consent authority whose decision is appealed within 15 working days of service of the abatement notice on the appellant.
+  (c) be lodged with the Environment Court and served on the relevant authority (whose abatement notice is appealed against) within 15 working days of service of the abatement notice on the appellant.
 (3) An appeal against an abatement notice does not operate as a stay of the notice unless—
   (a) the abatement notice is within the scope of section 322(1)﻿(a)﻿(ii) and the person against whom the notice is served is complying with this Act, any regulation, a rule in a plan, or a resource consent; or
   (b) a stay is granted by an Environment Judge under subsection (3D).
@@ -8600,17 +8871,17 @@ Every abatement notice shall be in the prescribed form and shall state—
 (3B) An application for a stay must be in the prescribed form and must—
   (a) state the reasons why the person considers it is unreasonable for the person to comply with the abatement notice; and
   (b) state the likely effect on the environment if the stay is granted; and
-  (c) be lodged with the Environment Court and served immediately on the local authority or consent authority whose abatement notice is appealed against.
+  (c) be lodged with the Environment Court and served immediately on the relevant authority whose abatement notice is appealed against.
 (3C) Where a person applies for a stay under subsection (3A), an Environment Judge must consider the application for a stay as soon as practicable after the application has been lodged.
 (3D) Before granting a stay, an Environment Judge must consider—
   (a) what the likely effect of granting a stay would be on the environment; and
   (b) whether it is unreasonable for the person to comply with the abatement notice pending the decision on the appeal; and
   (c) whether to hear—
     (i) the applicant:
-    (ii) the local authority or consent authority whose abatement notice is appealed against; and
+    (ii) the relevant authority whose abatement notice is appealed against; and
   (d) such other matters as the Judge thinks fit.
 (3E) An Environment Judge may grant or refuse a stay and may impose any terms and conditions the Judge thinks fit.
-(3F) Any person to whom a stay is granted under subsection (3E) must serve a copy of it on the local authority or consent authority whose abatement notice is appealed against; and no such stay has legal effect until so served.
+(3F) Any person to whom a stay is granted under subsection (3E) must serve a copy of it on the relevant authority whose abatement notice is appealed against; and no such stay has legal effect until so served.
 (3G) Any stay granted under subsection (3E) remains in force until an order is made otherwise by the Environment Court.
 (3H) Notwithstanding section 309, any powers which may be exercised by an Environment Judge under this section may be exercised by an Environment Commissioner.
 (4)
@@ -8621,9 +8892,13 @@ Every abatement notice shall be in the prescribed form and shall state—
     (iii) a designation; and
   (b) the adverse effects in respect of which the notice was served were expressly recognised by the person who approved the plan, or notified the proposed plan, or granted the resource consent, or approved the designation, at the time of the approval, notification, or granting, as the case may be.
 (6) The Environment Court may confirm an abatement notice, that is the subject of an appeal, if the court considers it appropriate after having regard to the time that has elapsed and any change in circumstances since the approval, notification, or granting, as the case may be.
+(7) In this section, relevant authority means the local authority, the consent authority, or the EPA.
 
 ### 325A Cancellation of abatement notice
-(1) For the purposes of this section, relevant authority means the local authority or Minister of Conservation which or who authorised, under section 38, the enforcement officer who issued the abatement notice.
+(1) In this section, relevant authority means any of the following which or who authorised the enforcement officer who issued the abatement notice:
+  (a) the local authority:
+  (b) the Minister of Conservation:
+  (c) the EPA.
 (2) Where a relevant authority considers that an abatement notice is no longer required, the relevant authority may cancel the abatement notice at any time.
 (3) The relevant authority shall give written notice of its decision under subsection (2) to cancel an abatement notice to any person subject to that abatement notice.
 (4) Any person who is directly affected by an abatement notice may apply in writing to the relevant authority to change or cancel the abatement notice.
@@ -8637,7 +8912,7 @@ Every abatement notice shall be in the prescribed form and shall state—
   (b) by or on behalf of any person in accordance with any instructions issued under either of those sections of that Act; or
   (c) by or on behalf of any on-scene commander under section 305 or section 311 of that Act or in accordance with a direction given under section 310 of that Act; or
   (d) by or on behalf of the master or owner of any ship, or the owner or operator of any oil transfer site or offshore installation, or any other person, in accordance with a direction given under section 305 or section 311 of that Act.
-(2) No person (other than the Minister, the Director of Maritime New Zealand, a local authority, or a consent authority) may apply to the Environment Court for an enforcement order to require any person to comply with or cease contravening section 15B (which imposes restrictions on discharges of harmful substances, contaminants, and water from ships and offshore installations).
+(2) No person (other than the Minister, the Director of Maritime New Zealand, a local authority, a consent authority, or the EPA) may apply to the Environment Court for an enforcement order to require any person to comply with or cease contravening section 15B (which imposes restrictions on discharges of harmful substances, contaminants, and water from ships and offshore installations).
 (3) No person may apply for an enforcement order of a kind specified in section 314(1)﻿(d) in respect of any actual or reasonable costs and expenses, where the costs and expenses which a person has incurred or is likely to incur constitute pollution damage (as defined in section 342 of the Maritime Transport Act 1994) in respect of which the owner of a CLC ship (as so defined) is liable in damages under Part 25 of that Act; and no order relating to such damage may be made by the Environment Court or any other court in any proceedings (including prosecutions for offences) under this Act.
 
 **Excessive noise**
@@ -8727,7 +9002,7 @@ Every abatement notice shall be in the prescribed form and shall state—
 ### 330B Emergency works under Civil Defence Emergency Management Act 2002
 (1) If any activity is undertaken by any person exercising emergency powers during a state of emergency declared, or transition period notified, under the Civil Defence Emergency Management Act 2002, the provisions of sections 9, 12, 13, 14, and 15 do not apply to any activity undertaken by or on behalf of that person to remove the cause of, or mitigate any actual or adverse effect of, the emergency.
 (2) If an activity is undertaken to which subsection (1) applies, the person who authorised the activity must advise the appropriate consent authority, within 7 days, that the activity has been undertaken.
-(3) If such an activity, but for this section, would contravene any of sections 9, 12, 13, 14, and 15 and the adverse effects of the activity continue, the person who authorised the activity must apply in writing to the appropriate consent authority for any necessary resource consents required in respect of the activity, within 20 working days of the notification under subsection (2).
+(3) If such an activity, but for this section, would contravene any of sections 9, 12, 13, 14, and 15 and the adverse effects of the activity continue, the person who authorised the activity must apply in writing to the appropriate consent authority for any necessary resource consents required in respect of the activity, within 60 working days of the notification under subsection (2).
 (4) If the application is made within the time stated in subsection (3), the activity may continue until the application for a resource consent and any appeals have been finally determined.
 (5) A person does not commit an offence under section 338(1)﻿(a) by acting in accordance with this section.
 
@@ -8742,7 +9017,7 @@ Every abatement notice shall be in the prescribed form and shall state—
 **Powers of entry and search**
 
 ### 332 Power of entry for inspection
-(1) Any enforcement officer, specifically authorised in writing by any local authority or consent authority to do so, may at all reasonable times go on, into, under, or over any place or structure, except a dwellinghouse, for the purpose of inspection to determine whether or not—
+(1) Any enforcement officer, specifically authorised in writing by any local authority, consent authority, or by the EPA to do so, may at all reasonable times go on, into, under, or over any place or structure, except a dwellinghouse, for the purpose of inspection to determine whether or not—
   (a) this Act, any regulations, a rule of a plan, a resource consent, section 10 (certain existing uses protected), or section 10A (certain existing activities allowed), or section 20A (certain lawful existing activities allowed) is being complied with; or
   (b) an enforcement order, interim enforcement order, abatement notice, or water shortage direction is being complied with; or
   (c) any person is contravening a rule in a proposed plan in a manner prohibited by any of sections 9, 12(3), 14(1), 15(2), and 15(2A).
@@ -8788,17 +9063,17 @@ Every abatement notice shall be in the prescribed form and shall state—
 **Return of property**
 
 ### 336 Return of property seized under sections 323 and 328
-(1) Where any property is seized and impounded under section 323 or 328 (which relate to failure to comply with an abatement notice to reduce noise or an excessive noise direction), the owner of the property or the person from whom it was seized may apply to the local authority, consent authority, or Police station where the property is held, at any time, to have the property returned to him or her.
-(2) Where an application is made under subsection (1), the local authority, consent authority, or constable with authority to do so must arrange for the return of the property if—
+(1) Where any property is seized and impounded under section 323 or 328 (which relate to failure to comply with an abatement notice to reduce noise or an excessive noise direction), the owner of the property or the person from whom it was seized may apply to the relevant authority or Police station where the property is held, at any time, to have the property returned to him or her.
+(2) Where an application is made under subsection (1), the relevant authority or constable with authority to do so must arrange for the return of the property if—
   (a) satisfied that the return of the property is not likely to lead to a resumption of the emission of noise beyond a reasonable level; and
-  (b) the applicant has paid all costs incurred by the local authority, consent authority, or Police in seizing, impounding, transporting, and storing the property.
-(3) Where the local authority, consent authority, or constable with authority to do so refuses to return the property for the reason specified in subsection (2)﻿(a), the applicant may make an application to the Environment Court, and section 325(2) applies as if—
+  (b) the applicant has paid all costs incurred by the relevant authority or Police in seizing, impounding, transporting, and storing the property.
+(3) Where the relevant authority or constable with authority to do so refuses to return the property for the reason specified in subsection (2)﻿(a), the applicant may make an application to the Environment Court, and section 325(2) applies as if—
   (a) the reference to service of the abatement notice on the appellant were reference to any refusal under this section; and
   (b) the time limit for lodging the application were 6 months from the date of seizure.
 (4) The Environment Court, on an application under subsection (3), may—
   (a) order the return of the property subject to any conditions relating to the continued reduction of noise as it thinks fit; or
   (b) refuse the application for the return of the property.
-(5) Where—the local authority, the consent authority, or the Police may dispose of the property in accordance with subsection (6).
+(5) Where—the relevant authority or the Police may dispose of the property in accordance with subsection (6).
   (a) any property seized under section 323 or 328 is not claimed within 6 months of its seizure; or
   (b) the return of the property has been refused under subsection (3) and no application has been lodged within 6 months of the date of seizure; or
   (c) the Environment Court has refused the return of the property under subsection (4)﻿(b),—
@@ -8807,6 +9082,7 @@ Every abatement notice shall be in the prescribed form and shall state—
   (b) may sell or cause the property to be otherwise disposed of; and
   (c) may, where any proceeds are realised, apply these to the payment of costs and expenses incurred in selling the property under this section and any costs incurred in seizing, impounding, transporting, and storing the property; and
   (d) must, on demand, pay the remainder of the proceeds to the person from whom the property was seized.
+(7) In this section, relevant authority means the local authority, the consent authority, or the EPA.
 
 ### 337 Return of property seized under warrant
 [Repealed]
@@ -8835,7 +9111,7 @@ Every abatement notice shall be in the prescribed form and shall state—
     (i) section 283, which relates to non-attendance or refusal to co-operate with the Environment Court:
     (ii) any summons or order to give evidence issued or made pursuant to section 41:
   (c) contravenes, or permits a contravention of, any provision (as provided in Schedule 10) specified in an instrument for the creation of an esplanade strip or in an easement for an access strip, or enters a strip which is closed under section 237C.
-(4) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against subsection (1), (1A), or (1B) ends on the date that is 6 months after the date on which the contravention giving rise to the charge first became known, or should have become known, to the local authority or consent authority.
+(4) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against subsection (1), (1A), or (1B) ends on the date that is 12 months after the date on which the contravention giving rise to the charge first became known, or should have become known, to the local authority or consent authority.
 
 ### 339 Penalties
 (1) Every person who commits an offence against section 338(1), (1A), or (1B) is liable on conviction,—
@@ -8869,6 +9145,7 @@ Every abatement notice shall be in the prescribed form and shall state—
 (2) Without limiting subsection (1), where any master or owner of a ship—the agent of the ship shall be civilly liable to pay to the Crown or, if the proceedings in relation to the offence were commenced by or on behalf of a local authority, to that local authority, such amount of that fine or monetary penalty as remains unpaid and the Crown or that local authority may recover that amount from that agent as a debt.
   (a) is convicted of an offence against section 338 in respect of any contravention of section 15A or section 15B or section 15C; and
   (b) fails to pay the full amount of any fine or other monetary penalty imposed by the court under section 339 or section 339B,—
+(2A) For the purpose of subsection (2), any proceedings in relation to the offence that were commenced by or on behalf of a local authority include any proceedings in which the EPA was assisting the local authority (see section 343F(b)).
 (3) Every agent of a ship who, under this section, pays the whole or part of any fine or other monetary penalty imposed on the master or owner of the ship shall be entitled to recover the amount so paid from that master or owner as a debt or deduct that amount out of or from any money which is or becomes payable by that agent to that master or owner; and any amount so paid by the agent shall, for the purposes of section 4(1)﻿(p) of the Admiralty Act 1973, be deemed to be a disbursement made on account of the ship.
 (4) The District Court has jurisdiction to hear and determine proceedings for the recovery, in accordance with this section, of any money from any agent or master or owner of a ship whatever the amount of money involved.
 (5) This section shall apply notwithstanding any enactment or rule of law.
@@ -8928,6 +9205,9 @@ It is a defence to prosecution for an offence of contravening or permitting a co
 (3) Notwithstanding anything in subsection (2), where any money awarded by a court in respect of any loss or damage is recovered as a fine, and that fine is ordered to be paid to a local authority under subsection (1), no deduction shall be made under subsection (2) in respect of that money.
 (4) Subject to subsection (2), an order of the court made under subsection (1) shall be sufficient authority for the Registrar receiving the fine to pay that fine to the local authority entitled to it under the order.
 (5) Nothing in section 73 of the Public Finance Act 1989 shall apply to any fine ordered to be paid to any local authority under subsection (1).
+(6) If the court orders the payment of a fine for an offence prosecuted by the EPA acting under section 343F(b),—
+  (a) 10% of the fine must be credited to a Crown Bank Account; and
+  (b) the balance of the fine must be credited to the local authority that the EPA was assisting.
 
 ### 343 Discharges from ships
 [Repealed]
@@ -8961,7 +9241,85 @@ Where any person is alleged to have committed an infringement offence, that pers
   (b) proceedings in respect of the offence to which the infringement notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957, and the provisions of that section apply with all necessary modifications.
 
 ### 343D Entitlement to infringement fees
-A local authority shall be entitled to retain all infringement fees received by it in respect of infringement offences where the infringement notice was issued by an enforcement officer of that authority.
+(1) A local authority shall be entitled to retain all infringement fees received by it in respect of infringement offences where the infringement notice was issued by an enforcement officer of that authority.
+(2) However, any infringement fee relating to an infringement notice issued by an enforcement officer appointed by the EPA must be paid into a Crown Bank Account.
+
+## Part 12A — Enforcement functions of EPA
+
+### 343E Terms used in this Part
+(1) In this Part,—
+  - **enforcement action** means—
+    (a) an inspection, investigation, or other activity carried out in accordance with this Act for the purpose of determining whether there is or has been—
+      (i) a contravention of a provision of this Act, any regulations, a rule in a plan, a rule in a proposed plan that has legal effect, a national environmental standard, or a resource consent; or
+      (ii) a failure to comply with a requirement of an enforcement order or abatement notice; or
+    (b) an application for an enforcement order under section 316; or
+    (c) an application for an interim enforcement order under section 320; or
+    (d) the service of an abatement notice under section 322; or
+    (e) the filing of a charging document relating to an offence described in section 338; or
+    (f) the issuing of an infringement notice under section 343C; or
+    (g) an inspection, investigation, or other activity carried out in accordance with this Act for the purpose of an enforcement action described in paragraphs (b) to (f)
+  - **enforcement function** means a function of the EPA described in section 343F
+  - **incident** means an occurrence that may, directly or indirectly, be linked to—
+    (a) a contravention or possible contravention of a provision of this Act, any regulations, a rule in a plan, a national environmental standard, or a resource consent; or
+    (b) a failure or possible failure to comply with a requirement of an enforcement order or an abatement notice
+  - **subsequent action** —
+    (a) means a prosecution, proceeding, application, or other activity that the EPA or a local authority may carry out under this Act in relation to an enforcement action that has been executed; and
+    (b) includes an inspection, investigation, or other activity carried out in accordance with this Act for the purpose of an activity described in paragraph (a).
+(2) In paragraph (a) of the definition of enforcement action in subsection (1), other activity includes, without limitation, an application for a declaration under section 311.
+(3) In this Part, an enforcement action is executed when, as the case may be, the application for the enforcement order or interim order is made, the abatement notice is served, the charge is laid, or the infringement notice is issued.
+
+### 343F Enforcement functions of EPA
+The EPA may perform any of the following enforcement functions if satisfied that the performance of the function is necessary or desirable to promote the purpose of this Act:
+  (a) the EPA may take an enforcement action and any subsequent action in relation to an incident if the local authority has not commenced taking any enforcement action in relation to the same incident:
+  (b) the EPA may, with the agreement of a local authority, assist the local authority with an enforcement action in relation to an incident and any subsequent action:
+  (c) the EPA may intervene in an enforcement action of a local authority in relation to an incident by taking over the enforcement action and taking any subsequent action.
+
+### 343G Intervention by EPA
+(1) If the EPA intervenes in an enforcement action of a local authority in relation to an incident,—
+  (a) the EPA must notify the chief executive of the local authority in writing of the incident to which the intervention relates and the date on which the intervention takes effect; and
+  (b) the local authority must,—
+    (i) on receipt of the notice, cease any enforcement action in relation to the incident, except for an enforcement action described in paragraph (a) or (g) of the definition of enforcement action in section 343E(1); and
+    (ii) from the date specified in the notice, cease all enforcement action in relation to the incident; and
+  (c) the EPA takes over all enforcement action in relation to the incident from the date specified in the notice; and
+  (d) only the EPA may take any enforcement action or subsequent action in relation to the incident unless subsection (3) applies.
+(2) When intervening in an enforcement action of a local authority, the EPA must not intervene in relation to an enforcement action that the local authority has already executed in respect of a person.
+(3) If the EPA decides to cease its intervention,—
+  (a) it must notify the chief executive of the local authority in writing of its decision and the date on which it takes effect; and
+  (b) it must specify in the notice the date on which the intervention will cease; and
+  (c) the local authority may, from the date referred to in paragraph (b),—
+    (i) take an enforcement action or subsequent action in relation to the incident; or
+    (ii) resume any enforcement action that it had commenced before the intervention.
+(4) To avoid doubt, subsection (2) does not prevent the EPA from taking an enforcement action in relation to another incident in respect of the same person.
+
+### 343H EPA may change enforcement functions
+(1) The EPA may change its enforcement function in relation to an incident to another function described in section 343F if the EPA considers that the circumstances require it.
+(2) If the EPA decides to change to an intervention function described in section 343F(c), it must include its reasons for the change in the notice required under section 343G(1).
+
+### 343I EPA enforcement officers
+(1) The EPA may authorise a person described in subsection (2) to be an enforcement officer for the purpose of carrying out its enforcement functions under this Act.
+(2) A person may be authorised as an enforcement officer if the person—
+  (a) has appropriate experience, technical competence, and qualifications relevant to the area of responsibilities proposed to be allocated to the person; or
+  (b) is an employee of the EPA who is suitably qualified and trained.
+(3) The EPA must supply each enforcement officer with a warrant that—
+  (a) states the full name of the person; and
+  (b) includes a summary of the powers conferred on the person under this Act.
+(4) An enforcement officer may exercise the powers under this Act, in accordance with his or her warrant, only for the purposes for which he or she was appointed.
+(5) An enforcement officer exercising a power under this Act must have with him or her, and must produce if required to do so, his or her warrant and evidence of his or her identity.
+(6) An enforcement officer who holds a warrant issued under this section must, on the termination of the officer’s appointment, surrender the warrant to the EPA.
+
+### 343J EPA may require information from local authority
+(1) The EPA may require a local authority to provide information that the EPA requires for taking an enforcement action in relation to an incident.
+(2) The EPA must notify the chief executive of the local authority in writing and specify the incident for which information is required.
+(3) A local authority must provide the required information to the EPA as soon as is reasonably practicable, but no later than 10 working days after the chief executive is notified.
+
+### 343K Additional reporting requirements
+(1) The annual report of the EPA under section 150 of the Crown Entities Act 2004 must include information about the performance of the EPA’s enforcement functions, including the number and type of enforcement actions executed by the EPA.
+(2) The EPA is not required to provide information under subsection (1) that would prejudice the maintenance of law, including the prevention, investigation, or detection of offences, or the right to a fair trial.
+
+### 343L Order for payment of EPA’s costs in bringing a prosecution
+(1) On the application of the EPA, the court may order a person convicted of an offence under this Act to pay to the EPA a sum that the court thinks just and reasonable towards the costs of the prosecution (including the costs of investigating the offence and any associated costs).
+(2) If the court makes an order under subsection (1), it must not make an order under section 4 of the Costs in Criminal Cases Act 1967.
+(3) If the court makes an order under subsection (1) in respect of a Crown organisation, any costs and fees awarded must be paid from the funds of that organisation.
 
 ## Part 13 — Hazards Control Commission
 
@@ -9027,7 +9385,7 @@ A local authority shall be entitled to retain all infringement fees received by 
   - **Registrar** has the same meaning as in section 5 of the Criminal Procedure Act 2011.
 
 ### 353 Notices and consents in relation to Maori land
-Part 10 of Te Ture Whenua Maori Act 1993 shall apply to the service of notices under this Act on owners of Maori land, except that in no case shall the period fixed for anything to be done by the owners be extended by more than 20 working days under section 181(4) of that Act, unless otherwise provided by the local authority.
+Part 10 of Te Ture Whenua Maori Act 1993 shall apply to the service of notices under this Act on owners of Maori land, except that in no case shall the period fixed for anything to be done by the owners be extended by more than 20 working days under section 181(4) of that Act, unless otherwise provided by the local authority or the EPA.
 
 ### 354 Crown's existing rights to resources to continue
 (1) Without limiting the Interpretation Act 1999 but subject to subsection (2), it is hereby declared that the repeal by this Act or the Crown Minerals Act 1991 of any enactment, including in particular—shall not affect any right, interest, or title, to any land or water acquired, accrued, established by, or vested in, the Crown before the date on which this Act comes into force, and every such right, interest, and title shall continue after that date as if those enactments had not been repealed.
@@ -9068,9 +9426,9 @@ Part 10 of Te Ture Whenua Maori Act 1993 shall apply to the service of notices u
 (2) The provisions of Part 6 apply in respect of any application made under subsection (1).
 
 ### 355B Enforcement powers against unlawful reclamations
-(1) Where, since the date of commencement of this Act, any land has been unlawfully reclaimed from the coastal marine area, the powers of the Minister of Conservation and a regional council under Part 12 apply to that reclaimed land as if the land were still situated within the coastal marine area.
-(2) Where any land has been unlawfully reclaimed from the coastal marine area before the commencement of this Act, the Minister of Conservation or a regional council may seek an enforcement order against the person who reclaimed the land, or the occupier of the reclaimed land, requiring that person to take such action as, in the opinion of the Environment Court, is necessary in order to avoid, remedy, or mitigate any actual or likely adverse effect on the environment caused by the carrying out of the reclamation or by the reclaimed land; and in any such case Part 12 applies with all necessary modifications.
-(3) Whether or not an enforcement order has been sought or granted under subsection (2), the Minister of Conservation or a regional council, either jointly or severally, may take any necessary action to remove the unlawfully reclaimed land from the coastal marine area.
+(1) Where, since the date of commencement of this Act, any land has been unlawfully reclaimed from the coastal marine area, the powers of the Minister of Conservation, a regional council, and the EPA under Part 12 apply to that reclaimed land as if the land were still situated within the coastal marine area.
+(2) Where any land has been unlawfully reclaimed from the coastal marine area before the commencement of this Act, the Minister of Conservation, a regional council, or the EPA may seek an enforcement order against the person who reclaimed the land, or the occupier of the reclaimed land, requiring that person to take such action as, in the opinion of the Environment Court, is necessary in order to avoid, remedy, or mitigate any actual or likely adverse effect on the environment caused by the carrying out of the reclamation or by the reclaimed land; and in any such case Part 12 applies with all necessary modifications.
+(3) Whether or not an enforcement order has been sought or granted under subsection (2), the Minister of Conservation, a regional council, and the EPA, either jointly or severally, may take any necessary action to remove the unlawfully reclaimed land from the coastal marine area.
 (4) For the avoidance of doubt, any action taken under subsection (3) to remove any reclaimed land requires a resource consent unless expressly allowed by a rule in a regional coastal plan and any relevant proposed regional coastal plan.
 
 ### 356 Matters may be determined by arbitration
@@ -9184,12 +9542,14 @@ All rents, royalties, and other sums of money which the holders of resource cons
   (baa) prescribing, for the purpose of the Registrar deciding whether to waive, reduce, or postpone the payment of a fee under section 281A, the criteria that the Registrar must apply to—
     (i) assess a person’s ability to pay a fee; and
     (ii) identify proceedings that concern matters of public interest:
-  (ba) prescribing those offences under this Act (including offences prescribed under paragraph (ho)) that constitute infringement offences against this Act:
-  (bb) prescribing forms for infringement notices and any particulars to be contained in infringement notices, including infringement fees (which may be different fees for different offences)—
-    (i) not exceeding a fee of $2,000 for each infringement offence prescribed under paragraph (ho):
-    (ii) not exceeding a fee of $100 per stock unit for each infringement offence prescribed under paragraph (ho) that is differentiated on the basis of the number of stock units, to a maximum fee of $2,000 for each infringement offence:
-    (iii) not exceeding a fee of $1,000 in any other case:
-  (bc) prescribing forms of reminder notices to be used in respect of infringement offences against this Act:
+  (ba) prescribing those offences under this Act (including offences prescribed under paragraph (ho) or section 217M(1)﻿(k)) that constitute infringement offences against this Act:
+  (bb) prescribing infringement fees (which may be different fees for different offences)—
+    (i) not exceeding $2,000, in the case of a natural person, for an infringement offence prescribed under this subsection:
+    (ii) not exceeding $4,000, in the case of a person other than a natural person, for an infringement offence prescribed under this subsection:
+    (iii) not exceeding $100 per stock unit for each infringement offence prescribed under paragraph (ho) that is differentiated on the basis of the number of stock units, to a maximum fee of—
+      (A) $2,000 for each infringement offence in the case of a natural person; and
+      (B) $4,000 for each infringement offence in the case of a person other than a natural person:
+  (bc) prescribing, in relation to infringement offences against this Act, the form and content of infringement notices and reminder notices:
   (c) prescribing the amount, methods for calculating the amount, and circumstances and manner in which holders of resource consents are liable to pay for—
     (i) the occupation of the coastal marine area, to the extent that it is within the common marine and coastal area; and
     (ii) the occupation of the bed of any river or lake that is land of the Crown; and
@@ -9221,10 +9581,10 @@ All rents, royalties, and other sums of money which the holders of resource cons
   (hm) prescribing, for the purposes of sections 87E, 165ZFE, and 198C,—
     (i) threshold amounts, which may differ for proposals of different types or in different locations; and
     (ii) matters to which an authority is required to have regard in determining whether exceptional circumstances exist:
-  (hn) prescribing measures for the purpose of excluding stock from water bodies, estuaries, and coastal lakes and lagoons, including regulations that—
+  (hn) prescribing measures for the purpose of excluding stock from water bodies, estuaries, coastal lakes and lagoons, and the margins of those water bodies, estuaries, and coastal lakes and lagoons, including regulations that—
     (i) apply generally in relation to stock or to specified kinds of stock (for example, dairy cattle):
-    (ii) apply generally in relation to water bodies, estuaries, and coastal lakes and lagoons or to specified kinds of water bodies, estuaries, and coastal lakes and lagoons:
-    (iii) apply different measures to different kinds of stock or to different kinds of water bodies, estuaries, and coastal lakes and lagoons:
+    (ii) apply generally in relation to water bodies, estuaries, coastal lakes and lagoons, and their margins or to specified kinds of water bodies, estuaries, coastal lakes and lagoons, and their margins:
+    (iii) apply different measures to different kinds of stock or to different kinds of water bodies, estuaries, coastal lakes and lagoons, and their margins:
     (iv) prescribe technical requirements for the purposes of the regulations (for example, the minimum height and other specifications with which any required means of exclusion must comply, such as requirements for fencing or riparian planting):
   (ho) prescribing infringement offences for the contravention of, or non-compliance with, any regulations made under paragraph (hn):
   (hp) prescribing requirements that apply to the use of models (being simplified representations of systems, for example, farms, catchments, and regions) under this Act by—
@@ -9307,33 +9667,10 @@ As soon as practicable after regulations are made under section 360A(1), the reg
     (ii) by any date specified in the regulations for that purpose or, if no date is specified, as soon as practicable after the regulations come into force.
 
 ### 360D Regulations that prohibit or remove certain rules
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister but subject to subsection (2), make regulations to prohibit or remove specified rules or types of rules that would duplicate, overlap with, or deal with the same subject matter that is included in other legislation.
-(2) Subsection (1) does not apply to rules or types of rules that regulate the growing of crops that are genetically modified organisms.
-(3) In subsection (2), genetically modified organisms has the meaning given in section 2(1) of the Hazardous Substances and New Organisms Act 1996.
-(4) Regulations made under this section may require that rules inconsistent with those regulations be withdrawn or amended—
-  (a) to the extent necessary to remove the inconsistency; and
-  (b) as soon as practicable after the date on which the regulations come into force; but
-  (c) without using any of the processes under Schedule 1 for changing a plan or proposed plan.
-(5) If regulations include a requirement under subsection (4), their withdrawal or amendment must be publicly notified by the local authority not later than 5 working days after they have been withdrawn or amended.
-(6) Regulations made under this section—
-  (a) may specify, in relation to a rule made before the commencement of the regulations,—
-    (i) the extent to which a matter that the regulations apply to continues to have effect; or
-    (ii) the period for which a matter that the regulations apply to continues to have effect; and
-  (b) may apply—
-    (i) generally; or
-    (ii) to any specified district or region; or
-    (iii) to any specified part of New Zealand.
-(7) Section 360(2) and (4) applies to regulations made under this section.
+[Repealed]
 
 ### 360E Procedures relevant to making rules under section 360D
-Before recommending that regulations be made under section 360D, the Minister must—
-  (a) notify the public, relevant local authorities, and relevant iwi authorities of the proposed regulations; and
-  (b) establish a process that—
-    (i) the Minister considers gives the public, the relevant local authorities, and the relevant iwi authorities adequate time and opportunity to comment on the proposed regulations; and
-    (ii) requires a report and recommendation to be made to the Minister on the comments received under subparagraph (i); and
-  (c) ensure that an evaluation report is prepared under section 32; and
-  (d) have particular regard to that report when deciding whether to recommend that regulations be made; and
-  (e) publicly notify the report and recommendation required under paragraph (b)﻿(ii).
+[Repealed]
 
 ### 360F Regulations relating to administrative charges and other amounts
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the purpose of specifying the charges that a local authority is required to fix under section 36(1) (see section 36(4)).
@@ -9352,29 +9689,10 @@ Before recommending that regulations be made under section 360D, the Minister mu
   (c) may specify a class or classes of additional charges that may apply.
 
 ### 360G Regulations relating to fast-track applications
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
-  (a) prescribing, for the purpose of section 87AAC (meaning of fast-track application), particular activities or classes of activities, or the methods or criteria that a consent authority must use to identify particular activities or classes of activities; and
-  (b) prescribing, for the purpose of section 88(2)﻿(b) (making an application), the information that an application for a resource consent must include if it is a fast-track application.
-(2) The Minister—
-  (a) must not recommend that regulations be made under subsection (1)﻿(a) unless he or she is satisfied that the scale and complexity of the activities are unlikely to warrant a consent authority taking more than 10 working days to notify an applicant of the authority's decision on a relevant application; and
-  (b) must not recommend that regulations be made under subsection (1)﻿(b) unless he or she is satisfied that the prescribed information requirements are proportional to the likely effects of activities that may be the subject of a fast-track application.
-(3) In subsection (2), relevant application, in relation to an activity, means an application for a resource consent for the activity.
-(4) Section 360(2) and (4) applies to regulations made under this section.
+[Repealed]
 
 ### 360H Regulations relating to notification of consent applications
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
-  (a) prescribing particular activities or classes of activities, or the methods or criteria that a consent authority must use to identify particular activities or classes of activities,—
-    (i) for the purpose of section 95A(5)﻿(b)﻿(iv) (to preclude public notification of an application for a resource consent for the activity):
-    (ii) for the purpose of section 95B(6)﻿(b)﻿(ii) (to preclude limited notification of an application for a resource consent for the activity):
-  (b) prescribing, for the purpose of section 95B(7) (to limit who may be considered an affected person in respect of an application for a resource consent),—
-    (i) particular activities or classes of activities, or the methods or criteria that a consent authority must use to identify particular activities or classes of activities:
-    (ii) particular persons or classes of persons, or the methods or criteria that a consent authority must use to identify particular persons or classes of persons.
-(2) The Minister must not—
-  (a) make a recommendation for the purpose of subsection (1)﻿(a)﻿(i) unless the Minister is satisfied that the nature and likely effects of the activities are unlikely to warrant public notification of a relevant application or review in accordance with section 95D; or
-  (b) make a recommendation for the purpose of subsection (1)﻿(a)﻿(ii) unless the Minister is satisfied that the nature and likely effects of the activities are unlikely to warrant limited notification of a relevant application or review in accordance with section 95B(1) to (9); or
-  (c) make a recommendation for the purpose of subsection (1)﻿(b) unless the Minister is satisfied that the nature and likely effects of the activities referred to in subsection (1)﻿(b)﻿(i) are unlikely to warrant limited notification of a relevant application or review in accordance with section 95B to affected persons referred to in section 95B(8) other than persons or classes of persons referred to in subsection (1)﻿(b)﻿(ii).
-(3) In subsection (2), relevant application or review, in relation to an activity, means an application for a resource consent for the activity, a review of a resource consent for the activity, or an application to change or cancel a condition of a resource consent for the activity.
-(4) Section 360(2) and (4) applies to regulations made under this section.
+[Repealed]
 
 ### 361 Repeals and revocations
 (1) The enactments specified in Schedule 6 are hereby repealed.
@@ -10352,6 +10670,8 @@ All charges fixed by special order made under section 24K of the Water and Soil 
 
 ## Schedule 1 — Preparation, change, and review of policy statements and plans
 
+### Part 1 — Preparation and change of policy statements and plans by local authorities
+
 ### 1 Time limits
 (1)
 (2) Where any time limit is set in this schedule, a local authority may extend it under section 37.
@@ -10427,24 +10747,16 @@ A local authority is not required to comply with clause 3 to the extent that any
 (1B) The purpose of the notice is to invite those requiring authorities to give written notice to the territorial authority stating whether the requiring authority requires the designation to be included, with or without modification, in the proposed plan.
 (1C) Subclause (1A) applies before the territorial authority—
   (a) notifies the district plan, change, or variation under clause 5; or
-  (b) notifies a decision to use a collaborative planning process under clause 38; or
+  (b)
   (c) applies to the Minister for a direction under section 80C to enter the streamlined planning process.
 (1D) The written notice must—
   (a) give the requiring authority at least 30 working days to respond; and
   (b) state which planning process under this schedule it proposes to use or request; and
-  (c) specify the final date for the requiring authority to provide its written notice; and
-  (d) advise the requiring authority whether the territorial authority intends to include the designation in the matters that the collaborative group may consider under the terms of reference set under clause 41.
-(2) If a territorial authority intends to use a collaborative planning process under clause 38, the written notice it gives under subclause (1A) requesting the requiring authority or heritage protection authority to advise the territorial authority of the following matters must also be given to any heritage protection authority that has a heritage order that has not lapsed:
-  (a) whether the requiring authority or heritage protection authority wishes to be part of the collaborative group; and
-  (b) if so, the name of the person to represent the requiring authority or heritage protection authority on the collaborative group.
-(2A) If the requiring authority or heritage protection authority agrees to be part of the collaborative group, the provisions of Part 4 of this schedule apply to the processes for review, the making of submissions, hearings, decision making on the designation or heritage order, and appeal rights.
-(2B) If the requiring authority or heritage protection authority does not agree to be part of the collaborative group,—
-  (a) the collaborative group may consider the designation or heritage order, but only if it is within the terms of reference of the collaborative group; and
-  (b) the territorial authority must include in the proposed plan—
-    (i) the designation or heritage order; and
-    (ii) any consensus recommendations on the designation or heritage order; and
-  (c) the provisions of Part 4 of this schedule apply to the processes for review, the making of submissions, and hearings; and
-  (d) the provisions of Part 1 of this schedule apply to decision making on a designation or heritage order and on any appeal rights.
+  (c) specify the final date for the requiring authority to provide its written notice.
+  (d)
+(2)
+(2A)
+(2B)
 (3) Where the requiring authority states that a designation is to be included in the proposed plan, with modifications, the requiring authority shall include in its written notice the nature of the modifications, and the reasons for the modifications.
 (4) If the requiring authority fails to notify the territorial authority in accordance with subclause (1), no provision for the designation shall be included in the proposed plan.
 (5) A territorial authority shall include in its proposed plan provision for any designation it receives notice of under this clause, any existing heritage orders, and any requirements for designations and heritage orders to which sections 170 and 192 apply or any requirement to which clause 42 applies.
@@ -10479,6 +10791,11 @@ A local authority is not required to comply with clause 3 to the extent that any
   (c) the process for public participation in the consideration of the proposed policy statement or plan; and
   (d) the closing date for submissions; and
   (e) the address for service of the local authority.
+(2A) If the proposed policy statement or plan is a freshwater planning instrument, the public notice under subclause (1) must also—
+  (a) state whether all or part of the instrument is subject to the freshwater planning process; and
+  (b) if applicable, state—
+    (i) which part will undergo the freshwater planning process and the reasons why; and
+    (ii) which part will undergo the processes in Part 1 of this schedule and the reasons why.
 (3) The closing date for submissions—
   (a) shall, in the case of a proposed policy statement or plan, be at least 40 working days after public notification; and
   (b) shall, in the case of a proposed change or variation to a policy statement or plan, be at least 20 working days after public notification.
@@ -10728,11 +11045,13 @@ Where submissions are made but no person indicates they wish to be heard, or the
 ### 20A Correction of operative policy statement or plan
 A local authority may amend, without using the process in this schedule, an operative policy statement or plan to correct any minor errors.
 
+### Part 2 — Requests for changes to policy statements and plans of local authorities and requests to prepare regional plans
+
 ### 21 Requests
 (1) Any person may request a change to a district plan or a regional plan (including a regional coastal plan).
 (2) Any person may request the preparation of a regional plan, other than a regional coastal plan.
 (3) Any Minister of the Crown or any territorial authority in the region may request a change to a policy statement.
-(3A) However, in relation to a policy statement or plan approved under Part 4 of this schedule, no request may be made to change the policy statement or plan earlier than 3 years after the date on which it becomes operative under clause 20 (as applied by section 80A(2)﻿(a)).
+(3A)
 (4) Where a local authority proposes to prepare or change its policy statement or plan, the provisions of this Part shall not apply and the procedure set out in Part 1, 4, or 5 applies.
 (5) If a request for a plan change is made jointly with an application to exchange recreation reserve land (as permitted by section 65(4A) or 73(2A)), the application must be—
   (a) processed, with the request for a plan change, in accordance with this Part, other than clauses 27 and 29(4) to (8); then
@@ -10834,6 +11153,8 @@ In exercising or performing any powers, functions, or duties under this Part, a 
   (b) the decision on the exchange will be made under the Reserves Act 1977 after the time allowed for appeals against the decision on the plan change has expired and any appeals have been completed.
 (9) With the agreement of the person who made the request, the local authority may, at any time before its decision on the plan or change, initiate a variation under clause 16A.
 
+### Part 3 — Incorporation of documents by reference in plans and proposed plans
+
 ### 30 Incorporation of documents by reference in plans and proposed plans
 (1) The following written material may be incorporated by reference in a plan or proposed plan:
   (a) standards, requirements, or recommended practices of international or national organisations:
@@ -10892,410 +11213,422 @@ Material incorporated by reference in a plan or proposed plan that expires or th
   (b) any amendment to, or replacement of, that material that is incorporated in the plan or proposed plan or the material referred to in paragraph (a) with the amendments or replacement material incorporated:
   (c) if the material referred to in paragraph (a) or paragraph (b) is not in an official New Zealand language, as well as the material itself, an accurate translation in an official New Zealand language of the material.
 
+### Part 4 — Freshwater planning process
+
 ### 36 Interpretation
 In this Part,—
-  - **appointer** means the local authority that appoints a review panel for the purposes of this Part
-  - **collaborative group** means a group of persons appointed by a local authority under clause 40 for the purpose of assisting the local authority to prepare or change a proposed policy statement or plan that relates to its functions under section 30 or 31, as the case may be
-  - **review panel** and mean a panel established under clause 64.
+  - **hearings** means any hearing or part of a hearing of submissions on a freshwater planning instrument conducted by a freshwater hearings panel
+  - **relevant regional council** means the regional council responsible for a freshwater planning instrument.
 
-### 37 Considerations relevant to decision on choice of process
-(1) A local authority may decide to use the collaborative planning process to prepare or change a policy statement or plan.
-(2) In determining whether the collaborative planning process is to be used to prepare or change a policy statement or plan, a local authority must consider—
-  (a) whether the resource management issues to be dealt with in the policy statement or plan would benefit from the use of the collaborative planning process, having regard to the scale and significance of the relevant resource management issues; and
-  (b) the views and preferences expressed by persons who are likely to be affected by those resource management issues or who have an interest in them; and
-  (c) whether the local authority has the capacity to support the collaborative planning process, having regard to the financial and other costs of the process; and
-  (d) whether a requirement, designation, or heritage order could be considered within a collaborative planning process; and
-  (e) whether there are people in the community able and willing to participate effectively in the collaborative planning process as members of a collaborative group; and
-  (f) whether any matters of national significance are likely to arise and, if so, whether these could be dealt with in the collaborative planning process; and
-  (g) whether the relevant provisions of any iwi participation legislation that applies in an area could be accommodated within the collaborative planning process, as required by this Part.
-(3) Before determining to use the collaborative planning process, a local authority must be satisfied that use of the process is not inconsistent with the local authority’s obligations under any relevant iwi participation legislation or Mana Whakahono a Rohe.
+#### Subpart 1 — Freshwater planning process
 
-### 38 Notification of planning process to be adopted
-(1) A local authority must give public notice of its decision made under clause 37, stating—
-  (a) the extent of the area that will be subject to the proposed policy statement or plan and the subject matter, including any requirement, designation, or heritage order; and
-  (b) where the decision and reasons for the decision of the local authority may be inspected.
-(2) If a local authority gives notice that it intends to use the collaborative planning process to prepare or change a policy statement or plan, it is not permitted to withdraw from that process at any stage and progress the preparation of a policy statement or plan under any of the other processes in this schedule.
-(3) However, subclause (2) does not apply if—
-  (a) a local authority has been unable to appoint a collaborative group in accordance with clause 40; or
-  (b) a collaborative group has breached its terms of reference and the local authority has followed the process specified for dispute resolution in the terms of reference, but the dispute is not resolved; or
-  (c) the collaborative group and the local authority, after following the dispute resolution process specified in the terms of reference, agree that there are insufficient consensus recommendations on which to proceed to prepare a policy statement or plan.
+**Commencement of freshwater planning process**
 
-### 39 Collaborative group to be established
-If a local authority gives notice under clause 38 of its decision to use the collaborative planning process, it must establish a collaborative group.
+### 37 Regional council must submit freshwater planning documents and give nominations to Chief Freshwater Commissioner
+(1) A regional council must, no later than 6 months after it has publicly notified a freshwater planning instrument, submit the following documents to the Chief Freshwater Commissioner:
+  (a) the freshwater planning instrument that was publicly notified:
+  (b) any variation made to the freshwater planning instrument under clause 16A:
+  (c) the regional council’s evaluation report prepared under section 32:
+  (d) the submissions on the freshwater planning instrument received by the closing date for submissions:
+  (e) the regional council’s summary of the decisions requested by submitters:
+  (f) any further submissions on the freshwater planning instrument received by the closing date for further submissions:
+  (g) any submissions received after the closing date for submissions or further submissions:
+  (h) any information about when the submissions described in paragraph (g) were received:
+  (i) the planning documents that are recognised by an iwi authority and lodged with the regional council:
+  (j) any documentation relevant to any obligations arising under any relevant iwi participation legislation, joint management agreement, or Mana Whakahono a Rohe:
+  (k) any other relevant information.
+(2) A regional council must, at least 20 working days before it submits the documents under subclause (1), provide the Chief Freshwater Commissioner in writing with—
+  (a) a notice of its intention to submit those documents to the Chief Freshwater Commissioner; and
+  (b) nominations for appointments to the freshwater hearings panel that are required by clause 59(1)﻿(b) and (c).
 
-### 40 Appointments
-(1) In establishing a collaborative group, a local authority must appoint—
-  (a) at least 1 person chosen by iwi authorities to represent the views of tangata whenua; and
-  (b) in the case of a regional policy statement or plan (other than one prepared by a unitary authority), at least 1 person to represent the views of territorial authorities within the relevant area; and
-  (c) in the case of a regional coastal plan, 1 person chosen by any customary marine title holder to represent the views of any customary marine title groups within the relevant area; and
-  (d) other persons who, in the opinion of the local authority, have the knowledge, experience, and skills (including skills in collaboration) that are relevant to the resource management issues to be considered by the group; and
-  (e) the nominated representative of a requiring authority or heritage protection authority, as the case requires, if the relevant authority has indicated its willingness to be a member of the collaborative group under section 170(2)﻿(c) or clause 4(2) of this schedule.
-(2) If the terms of reference under clause 41 include a requirement, designation, or heritage order, the local authority must invite the following persons to nominate representatives for the collaborative group:
-  (a) landowners and occupiers likely to be directly affected by decisions relating to the requirement, designation, or heritage order; and
-  (b) any other person that the local authority identifies as being affected.
-(3) The local authority may, as it considers necessary, appoint 1 or more representatives from those nominated under Part 1, 4, or 5.
-(4) A local authority may appoint as many persons as it considers appropriate, having regard to—
-  (a) the scale and significance of the resource management issues to be dealt with; and
-  (b) the need to comply with subclauses (6) and (8).
-(5) A local authority must not appoint persons who are employees or officers of any local authority within the relevant area.
-(6) However, the collaborative group may include 1, but not more than 1, elected or appointed member from the local authority that is using the collaborative planning process to prepare or change a policy statement or plan.
-(7) If a combined instrument is to be prepared under section 80, the collaborative group may include 1, but not more than 1, elected or appointed member from each local authority that is using the collaborative planning process to prepare or change a policy statement or plan.
-(8) The appointments made under this clause must result in a collaborative group whose membership, collectively, reflects a balanced range of the community’s interests, values, and investments in the relevant area as they relate to the resource management issues to be considered by the group.
-(9) The Local Government Official Information and Meetings Act 1987 applies to a collaborative group established under this Part as if it were a committee of the local authority under the Local Government Act 2002.
+### 38 Chief Freshwater Commissioner must convene freshwater hearings panel
+As soon as practicable after receiving the documents described in clause 37(1), the Chief Freshwater Commissioner must, in accordance with clause 59, convene a freshwater hearings panel for the freshwater planning instrument to which those documents relate.
 
-### 41 Terms of reference for collaborative group
-(1) A local authority must set the terms of reference for a collaborative group that it establishes, in consultation with that group.
-(2) The terms of reference must direct a collaborative group—
-  (a) to consider specified matters; and
-  (b) to report to a local authority with consensus recommendations for a proposed policy statement or plan within a specified time; and
-  (c) to consider how to comply with the obligations identified by the local authority that arise under this Act or any other enactment that applies to the preparation or changing of a policy statement or plan under this Act; and
-  (d) to consider how to give effect to the provisions of a national policy statement, a New Zealand coastal policy statement, or a national planning standard that are identified by the local authority as relevant; and
-  (e) to consider how to comply with the provisions in regulations (including any national environmental standards) and water conservation orders that are identified by the local authority as relevant; and
-  (f) to consider how to comply with the obligations that are identified by the local authority as arising under—
-    (i) the provisions of any relevant iwi participation legislation, or any agreement entered into under that legislation:
-    (ii) the provisions of any relevant legislation that require a local authority, in preparing or changing a policy statement or plan under this Act, to give particular consideration to a document prepared under other legislation; and
-  (g) to establish and use a process for seeking the views of the community of the relevant area on the work that the collaborative group is carrying out and to specify how the local authority will support the collaborative group; and
-  (h) to prepare an evaluation of the costs and benefits of any recommendations it makes to the local authority.
-(3) The terms of reference must include—
-  (a) the period for which a collaborative group is established (including the period until any appeals are completed); and
-  (b) whether, and, if so, how much, members of a group are to be paid; and
-  (c) how the local authority will provide resources to a group for the period between the establishment of a collaborative group and the date on which the local authority’s decision is made under clause 55; and
-  (d) a dispute resolution process that the local authority must use if necessary in relation to a collaborative group, including—
-    (i) the process for removing and replacing any of the group's members or discharging the group:
-    (ii) the decisions that are required to withdraw from the collaborative planning process under clause 38(3)﻿(c).
-(4) A local authority may, at any time after consulting a collaborative group, amend the terms of reference that apply to the group.
-(5) The local authority must give public notice and notice to the chairperson of the collaborative group if amendments are made to the terms of reference under subclause (4).
-(6) A notice given under subclause (5) must state where a copy of the amended terms of reference may be inspected.
-(7) The terms of reference are binding on both the local authority and the collaborative group.
+**Hearing of submissions on freshwater planning instrument**
 
-### 42 Discretion to include requirements in collaborative planning process
-(1) This clause applies if, after a notice is given under clause 38 and before the collaborative group reports under clause 44, a territorial authority—
-  (a) receives a notice of requirement under section 168 or 189; or
-  (b) issues a notice of requirement under section 168A or 189A.
-(2) If the collaborative group, requiring authority, and territorial authority agree,—
-  (a) a notice of requirement may proceed through the collaborative planning process instead of using the procedures of Part 8 of this Act; and
-  (b) the requiring authority responsible for the notice of requirement must nominate, and the territorial authority must appoint, a representative for the collaborative group; and
-  (c) the territorial authority must apply the provisions of clause 40(2) and (3).
-(3) However, if the requiring authority does not agree to be part of the collaborative group, or withdraws from the group before the collaborative group delivers its report under clause 44, the notice of requirement may not proceed using a collaborative process, but must proceed using another process under this Act.
-(4) The terms of reference set under clause 41 must be amended as necessary to reflect the new notice of requirement.
-(5) The territorial authority must give public notice in accordance with clause 43 of the new notice of requirement.
+### 39 Functions of freshwater hearings panel
+The functions of every freshwater hearings panel are—
+  (a) to conduct a hearing of submissions on a freshwater planning instrument referred to it by the Chief Freshwater Commissioner; and
+  (b) to make recommendations, after the hearing of submissions is concluded, to the relevant regional council; and
+  (c) to hear any objections made in accordance with clause 40(2).
 
-### 43 Other matters relevant to collaborative group
-(1) As soon as practicable after establishing a collaborative group and providing the terms of reference, a local authority must give public notice that it has appointed a collaborative group and has set its terms of reference.
-(2) The public notice must—
-  (a) include details of the appointments; and
-  (b) state where the terms of reference may be inspected.
-(3) A collaborative group must determine its own procedure.
-(4) A collaborative group may commission 1 or more reports on a matter relevant to its terms of reference without the approval of the local authority.
-(5) However, the local authority must approve a commission if the local authority is to meet the costs of the commission.
-(6) Officers and employees of the local authority may, at the request of a collaborative group, provide technical, executive, or secretarial support to a collaborative group.
-(7) Officers and employees of any other local authority may attend the meetings of a collaborative group as technical advisers, if the chairperson of the group agrees.
-(8) Section 43 of the Local Government Act 2002 (which relates to indemnification) applies to the members of a collaborative group as if the group were a committee of a local authority.
-
-### 44 Report of collaborative group
-(1) A collaborative group must report to the local authority in accordance with the terms of reference.
-(2) The report must include—
-  (a) a record of the recommendations on which the collaborative group has reached consensus and the reasons for the consensus position; and
-  (b) a summary of the costs and benefits that the collaborative group has identified in relation to those recommendations; and
-  (c) a summary of any alternative options that the collaborative group considered; and
-  (d) a record of the matters that the collaborative group considered but on which it did not reach consensus; and
-  (e) a summary of how the collaborative group obtained and considered the views of the community of the relevant area.
-
-### 45 Notification of report of collaborative group
-A local authority must publicly notify the report received under clause 44, stating where the report may be inspected.
-
-### 46 Preparation of proposal
-(1) As soon as is reasonably practicable after the report of a collaborative group is publicly notified under clause 45, the local authority must—
-  (a) prepare a proposed policy statement or plan or change in conjunction with the collaborative group; and
-  (b) comply with subclauses (2) and (3) and clauses 2 and 3.
-(2) A proposed policy statement or plan—
-  (a) must give effect to the consensus position reached by a collaborative group; and
-  (b) may include provisions—
-    (i) that are necessary or appropriate for giving effect to or implementing the consensus position; and
-    (ii) for matters on which the collaborative group did not reach a consensus position, provided those matters were within the terms of reference given to the collaborative group.
-(3) However, subclause (2)﻿(a) does not apply if, in giving effect to the consensus position, the proposed policy statement or plan would not comply with—
-  (a) the relevant provisions of Parts 4 and 5 of this Act; or
-  (b) any other provisions of this Act or of any other enactment that apply to the preparation or changing of a policy statement or plan under this Act.
-(4) A requirement, designation, or heritage order must be included in a proposed plan notified by the requiring authority under section 168 or 189 or clause 4, unless—
-  (a) the requirement, designation, or heritage order is included in the terms of reference set under clause 41; and
-  (b) there are consensus recommendations that apply (see subclause (2)﻿(a)).
-
-### 47 Advice from iwi authorities
-(1) Before notifying a proposed policy statement or plan prepared or changed under clause 46(1), a local authority must—
-  (a) provide a copy of the relevant draft proposed policy statement or draft plan to tangata whenua of the relevant area through the relevant iwi authorities, ensuring that the iwi authorities have adequate time and opportunity to provide advice to the local authority; and
-  (b) have particular regard to any advice received on the draft policy statement or draft plan from the iwi authorities if, and to the extent that, the advice is not inconsistent with the consensus position.
-(2) This section applies only if the local authority does not have a Mana Whakahono a Rohe with any relevant iwi authority.
-
-### 48 Evaluation report
-(1) Before a local authority may notify a proposed policy statement or plan prepared or changed under clause 46(1), it must prepare an evaluation report under section 32 for the proposed policy statement or plan or a change to a policy statement or plan.
-(2) The evaluation report must state the extent (if any) to which the proposed policy statement, plan, or change does not give effect to the consensus position, and the reasons for that.
-(3) The local authority must have particular regard to the evaluation report before notifying a proposed policy statement or plan or change.
-
-### 49 Notification of proposed policy statement or plan or change
-(1) A local authority must publicly notify a proposed policy statement or plan prepared or changed under clause 46.
-(2) A proposed policy statement or plan notified under subclause (1) must be treated as if it were publicly notified under clause 5(1)﻿(b)﻿(i).
-(3) In carrying out its obligation to give public notice under subclause (1), the local authority must comply with—
-  (a) clause 5(2) and (3) (which relates to the contents and timing of the notice); and
-  (b) clause 5 (other than subclause (1)).
-
-### 50 Submissions on proposed policy statement or plan or change
-(1) Clauses 6 to 8A apply to the making of submissions to a local authority on a proposed policy statement, plan, or change notified under clause 49.
-(2) A challenge to any part of a proposed policy statement or plan or change on the grounds that it does not comply with clause 46(2) may be made only in a submission to the relevant local authority under clause 6 or 8 (as applied by subclause (1)).
-
-### 51 Local authority report on submissions
-(1) Not later than 3 months after the closing date for further submissions as notified under clause 7(1)﻿(d) (as applied by clause 50), a local authority must prepare a report that includes—
-  (a) an analysis of whether the decisions requested by submitters are consistent or inconsistent with the consensus position of the collaborative group; and
-  (b) the response of the local authority to the decisions requested.
-(2) The local authority must—
-  (a) provide a copy of that report to the collaborative group and to tangata whenua of the relevant area through iwi authorities; and
-  (b) invite comments on the report and the proposed policy statement or plan from the collaborative group and the iwi authorities.
-
-### 52 Hearing of submissions by review panel
-(1) A review panel established by a local authority under clause 64 must hold a hearing on any submissions lodged under clause 6 or 8 (as applied by clause 50).
-(2) Notice of the date, time, and place of any hearing must be given to every submitter and to the chairperson of the collaborative group at least 10 working days before the hearing.
-(3) Clauses 64 to 74 apply to the establishment and procedures of a review panel.
-
-### 53 Role of collaborative group in procedures of review panel
-(1) At the same time as a collaborative group gives comments to a local authority under clause 51(2)﻿(b), the collaborative group may give notice to the local authority that the group has appointed one of its members to attend the hearing of the review panel in order to assist the panel by—
-  (a) clarifying matters included in the proposed policy statement or plan:
-  (b) discussing with the panel issues raised in submissions:
-  (c) providing any relevant information that the panel may request.
-(2) Subclause (1) does not exclude any member of the collaborative group from making a submission to the panel on the proposed policy statement or plan.
-
-### 54 Recommendations of review panel
-(1) A review panel established by the local authority must provide a report to the local authority with recommendations on—
-  (a) the proposed policy statement or plan; and
-  (b) the matters raised in submissions.
-(2) The report must include—
-  (a) a statement about the extent to which a proposed policy statement or plan, as notified, is inconsistent with the consensus position of the collaborative group; and
-  (b) the panel's reasons for accepting or rejecting submissions and, for that purpose, the panel may group submissions according to—
-    (i) the provisions of the proposed policy statement or plan to which they relate; or
-    (ii) any other provisions of this Act or of any other Act that apply to the preparation or changing of a policy statement or plan under this Act; and
-  (c) a further evaluation of the proposed policy statement or plan in accordance with section 32AA; and
-  (d) the panel's recommendations in respect of—
-    (i) any changes it proposes to the policy statement or plan; and
-    (ii) whether the recommended changes would be consistent with the consensus position of the relevant collaborative group; and
-    (iii) a requirement, designation, or heritage order that complies with sections 168A(2A) and (3), 171, 189A(10), and 191.
-(3) The review panel must not recommend changes to a proposed policy statement or plan—
-  (a) unless it is satisfied that the changes are needed to ensure that the proposed policy statement or plan complies with—
-    (i) the relevant provisions of Parts 4, 5, and 8 of this Act; or
-    (ii) the provisions in any other enactment that require a local authority, in preparing or changing a policy statement or plan under this Act, to give particular consideration to a document prepared under that other enactment; or
-  (b) unless—
-    (i) the collaborative group is given the opportunity to comment on the review panel’s proposed changes; and
-    (ii) those comments, whether in support or otherwise, are included in the report.
-(4) If a review panel proposes to change a requirement, designation, or heritage order,—
-  (a) the review panel must seek comments from the relevant requiring authority or heritage protection authority (including an authority that is a territorial authority); and
-  (b) the relevant authority must advise the review panel whether it—
-    (i) supports the proposed changes; or
-    (ii) seeks further changes; or
-    (iii) disagrees with the changes proposed by the review panel; and
-  (c) the review panel must include the comments of the authority in the report the panel provides under subclause (1).
-(5) A review panel must not recommend changes to an existing designation or heritage order—
-  (a) that is included without modification in a proposed plan; and
-  (b) on which no submissions have been received.
-(6) In making recommendations to the local authority, the review panel may only make recommendations that are within the scope of—
-  (a) the proposed policy statement or plan as notified; and
-  (b) the submissions on the proposed policy statement or plan; and
-  (c) any comments—
-    (i) received under clause 51(2)﻿(b); or
-    (ii) provided to the review panel under clause 74.
-(7) A review panel is not required to deal individually with each submission, and may group submissions according to the provisions or matter to which they relate.
-
-### 55 Decision of local authority following recommendations of review panel
-(1) As soon as is reasonably practicable after receiving a report from a review panel, a local authority must decide whether to accept or reject each recommendation in the report.
-(2) If a local authority rejects a recommendation, it must develop an alternative provision for its proposed policy statement or plan, giving reasons for the alternative provision.
-(3) An alternative provision must be within the scope of—
-  (a) a matter raised in a submission; or
-  (b) the reports and comments provided to a review panel under clause 74; or
-  (c) comments received under clause 51(2)﻿(b) or 54(3)﻿(b).
-(4) Before deciding on an alternative provision, a local authority must—
-  (a) prepare an evaluation of the alternative provision under section 32; and
-  (b) ascertain whether the alternative provision is inconsistent with the consensus position; and
-  (c) ascertain whether any inconsistency is necessary to ensure that the proposed policy statement or plan complies with—
-    (i) the relevant provisions of Parts 4, 5, and 8 of this Act; and
-    (ii) the provisions of any relevant enactment, including any enactment specified in Schedule 3 of the Treaty of Waitangi Act 1975, that require a local authority, in preparing or changing a proposed policy statement or plan under this Act, to give particular consideration to a document prepared under any other enactment; and
-  (d) specify any other reasons why the alternative provision is preferred.
-(5) When making a decision under subclause (1), a local authority—
-  (a) is not required to consult any person or to consider the submissions or other evidence of any person; and
-  (b) must not consider any submission or other evidence unless it was made available to the review panel before the panel made the recommendation on which the local authority makes its decision.
-(6) A territorial authority must not make a recommendation or decision in respect of an existing designation or heritage order that—
-  (a) is included without modification in a proposed plan; and
-  (b) on which no submissions were received.
-(7) Subclause (8) applies to a designation or heritage order—
-  (a) that must be included in a proposed plan under clause 4(5) (because the requiring authority or heritage protection authority gave notice under clause 4(3)); and
-  (b) to which clause 4(2B) applies.
-(8) The territorial authority must—
-  (a) recommend to the requiring authority or heritage protection authority that it confirm, modify, impose conditions on, or withdraw the designation or heritage order concerned; and
-  (b) provide the recommendations to the requiring authority or heritage protection authority for its decision under clause 13.
-(9) If subclause (8) applies, the designation or heritage order must be considered in accordance with Part 1 of this schedule from the point when the recommendations of the territorial authority are sent to the requiring authority for its decision under clause 13.
-
-### 56 Approval of regional coastal plan
-(1) If the collaborative planning process is used by a regional council to prepare or change a regional coastal plan, the Minister of Conservation must approve the proposed plan.
-(2) Clauses 18 and 19 apply, with the necessary modifications, to the consideration and approval of a proposed regional coastal plan prepared or changed using the collaborative planning process.
-
-### 57 Notification of local authority’s decision
-(1) Not later than 2 years after notifying a proposed policy statement or plan or change under clause 49(1), a local authority must—
-  (a) publicly notify—
-    (i) its decision under clause 55(1) and (2); and
-    (ii) the report and recommendations of the review panel; and
-    (iii) the place where the decision and reasons may be inspected; and
-  (b) serve copies of the public notice electronically on each person who made a submission under clause 50.
-(2) When publicly notifying a decision in respect of a requirement, designation, or heritage order under this clause, the territorial authority must serve the notice on landowners and occupiers identified under clause 40(2) who, in the opinion of the local authority, are likely to be directly affected by the decision.
-(3) On and from the date on which the decision is publicly notified, the proposed policy statement or plan is amended in accordance with the decision.
-
-### 58 Early use of collaborative planning process
-Clause 14 of Schedule 12 provides the transitional arrangements for the early use of a collaborative planning process.
-
-### 59 Overview
-The only rights of appeal that are available in respect of decisions made under clause 55 are—
-  (a) by way of a rehearing under clause 60:
-  (b) on a question of law under clause 61.
-
-### 60 Appeals by way of rehearing
-(1) An appeal by way of rehearing may be made in respect of a decision by a local authority under clause 55(1) or (2)—
-  (a) to change a provision of a proposed policy statement or plan in a way that is inconsistent with the recommendations of the review panel under clause 54:
-  (b) to include a matter in the proposed policy statement or plan that was not based on a consensus position, because—
-    (i) it had been included under clause 46(2)﻿(b)﻿(ii); or
-    (ii) it was recommended by the review panel but opposed by the collaborative group under clause 54(3)﻿(b):
-  (c) to accept or reject a recommendation of the review panel under clause 54(1) for a provision in the proposed plan in relation to a requirement, designation, or heritage order that the requiring authority or heritage protection authority did not support, or supported with changes under clause 54(4)﻿(b).
-(2) The following groups and persons may appeal to the Environment Court under subclause (1):
-  (a) a collaborative group that provided, in relation to the provision or matter that is the subject of the appeal,—
-    (i) comments to a local authority under clause 51(2)﻿(b):
-    (ii) information to a panel under clause 53:
-  (b) an iwi authority that provided comments to a local authority under clause 51(2)﻿(b), but only in relation to a provision or matter on which it provided those comments:
-  (c) a person who made a submission to the local authority under clause 6 or 8 (as applied by clause 50), but only in relation to a provision or matter on which the person made a submission:
-  (d) the relevant requiring authority or heritage protection authority, in relation to a decision under subclause (1)﻿(c).
-(3) However, there is no right of appeal under this clause if the local authority records in its decision that a change has been made (or not made) to a provision of a proposed policy statement or plan to ensure that the proposed policy statement or plan complies with—
-  (a) Parts 4, 5, and 8 of this Act, as relevant:
-  (b) the provisions in any enactment, including any enactment specified in Schedule 3 of the Treaty of Waitangi Act 1975, that require a local authority, in preparing or changing a policy statement or plan under this Act, to give particular consideration to a document prepared under any other enactment.
-(4) Section 277A applies to an appeal under this clause.
-
-### 61 Appeals on questions of law
-(1) A group or person specified in clause 60(2) may appeal to the Environment Court against a decision of a local authority made under clause 55(1) if there is no right of appeal in relation to that matter under clause 60.
-(2) An appeal under this clause is an appeal on a question of law only.
-
-### 62 Procedural matters
-(1) A notice of appeal under clause 60 or 61 must,—
-  (a) not later than 30 working days after a local authority publicly notifies a decision under clause 57,—
-    (i) be lodged with the Environment Court in the prescribed form; and
-    (ii) be served on the local authority whose decision is the subject of the appeal; and
-    (iii) in relation to a designation or heritage order included in the proposed plan, be served on the relevant requiring authority or heritage protection authority; and
-  (b) if the notice of appeal relates to the coastal marine area, be served on the Minister of Conservation not later than 5 working days after the notice of appeal is lodged with the Environment Court.
-(2) Parts 11 and 11A of this Act apply to appeals under clauses 60 and 61.
-
-### 63 Amendment, variation, merger, and approval
-(1) The following provisions of Part 1 of this schedule apply, as far as they are relevant and with the necessary modifications, to a proposed policy statement or plan:
-  (a) clauses 16 to 16B (which relate to amending, varying, or merging a variation with, a proposed policy statement or plan); and
-  (b) clause 17 (which relates to the final consideration and approval of a proposed policy statement or plan, other than a regional coastal plan); and
-  (c) clauses 18 and 19 (which relate to the consideration and ministerial approval of a regional coastal plan).
-(2) If a proposed policy statement or plan is prepared in accordance with the collaborative planning process, any variation to that statement or plan must also be undertaken in accordance with the collaborative planning process.
-
-### 64 Establishment of panel
-A review panel must be established by a local authority (the appointer) to hear submissions and make recommendations on a proposed policy statement, plan, or change in the course of the collaborative planning process undertaken under this Part.
-
-### 65 Membership of panel
-(1) Every panel established under clause 64 must comprise at least 3, but not more than 8, members, including the chairperson of the panel.
-(2) The majority of the members of a panel must be persons who are not elected or appointed members of an appointer.
-(3) A panel must consist of members who collectively have the appropriate knowledge, skills, and experience in relation to—
-  (a) this Act; and
-  (b) the matter or type of matter that is to be the subject of the hearing; and
-  (c) the conduct of cross-examination in legal proceedings; and
-  (d) the local community.
-(4) All the members of a panel must be accredited.
-(5) Every panel must include at least 1 member who—
-  (a) has an understanding of tikanga Māori and the perspective of tangata whenua; and
-  (b) is appointed after consultation with tangata whenua through the relevant iwi authorities.
-(6) A panel (other than one provided for in subclause (7)) must include the chairperson or other member nominated by the Minister if the Minister gives notice, not later than 5 working days after the date by which further submissions must be lodged under clause 7(1)﻿(d), of his or her intention to make a nomination.
-(7) A panel established to hear submissions that relate to a proposed regional coastal plan must include the chairperson or other member nominated jointly by the Minister and the Minister of Conservation if the Ministers give notice, not later than 5 working days after the date by which further submissions must be lodged under clause 7(1)﻿(d), of their intention to make a nomination.
-(8) Members must be appointed in accordance with clause 66.
-
-### 66 How members are appointed
-(1) In making appointments as required by clauses 64 and 65, an appointer must give written notice to each member appointed, stating—
-  (a) the date on which the appointment takes effect; and
-  (b) the term of the appointment.
-(2) As soon as practicable after the members of a panel have been appointed, the appointer concerned must notify the appointments on an Internet site to which the public has free access, stating—
-  (a) that the panel has been established; and
-  (b) the purpose for which the panel is established.
-(3) An appointer may appoint—
-  (a) a member to replace a member who ceases to hold office:
-  (b) additional members, after the initial appointments, if the total number of members on a panel is not more than 8, including the chairperson.
-(4) This clause applies, to the extent that it is relevant, to the appointment of a replacement member or an additional member.
-
-### 67 Term of panel and term of office of members
-(1) Every panel continues until it has performed its functions and exercised its powers in relation to the matters for which the panel is established (including the period required to complete any appeals).
-(2) A member of a panel remains a member until the earliest of the following:
-  (a) the panel to which the member is appointed ceases to exist:
-  (b) the member's term of office ends:
-  (c) the member dies or is no longer able to perform the functions and duties of a member on account of ill health or other indisposition:
-  (d) the member resigns by giving 20 working days' written notice to the appointer:
-  (e) the member is removed from office under subclause (3).
-(3) An appointer may, at any time for just cause, remove a member from a panel by providing written notice to the member, and a copy of that notice to the chairperson of the panel, that states—
-  (a) the date on which the member's removal takes effect, which must not be earlier than the date on which the notice is received by the member; and
-  (b) the reasons for the removal.
-(4) A member of a panel is not entitled to any compensation or other payment or benefit relating to his or her ceasing, for any reason, to hold office as a member.
-(5) In subclause (3), just cause includes misconduct, an inability to perform the functions of office, a neglect of duty, and any breach of the collective duties of the panel or the individual duties of members.
-
-### 68 Liability of members of panel
-A member of a panel is not liable for anything the member does, or omits to do, in good faith in performing the functions and duties or exercising the powers of a panel.
-
-### 69 Functions of panel
-The function of every panel is—
-  (a) to conduct a public hearing of submissions; and
-  (b) to make recommendations to a local authority on a proposed policy statement or plan under the collaborative planning process.
-
-### 70 Powers of panel
-(1) A panel has the same powers and duties as a local authority under the following provisions:
+### 40 Powers of freshwater hearings panel
+(1) A freshwater hearings panel has the same duties and powers as a local authority under the following provisions to the extent applicable:
   (a) section 39 (which provides for how hearings are to be conducted), except section 39(2)﻿(c) and (d):
   (b) section 39C (which sets out the effect of a lack of accreditation):
-  (c) section 40 (which provides for the persons who may be heard at hearings):
+  (c) section 40 (which provides for the persons who may be heard at a hearing):
   (d) section 41 (which provides for the application of certain provisions of the Commissions of Inquiry Act 1908):
   (e) section 41A (which relates to the control of hearings):
   (f) section 41B (which provides for the giving of directions as to the time for providing evidence in relation to a hearing):
   (g) section 41C (which sets out the directions and requests that may be given before or at a hearing), except section 41C(4):
-  (h) section 41D (which provides for submissions to be struck out before or at a hearing).
-(1A) If a panel exercises a power under section 41D,—
-  (a) a person whose submission is struck out has a right to objection under section 357 as if the references in that section to an authority were references to the panel; and
-  (b) sections 357C to 358 apply to the panel as the body to which the objection is made under section 357.
-(2) A panel may exercise the powers conferred by clause 8AA, except that in clause 8AA(2) to (6) the references to a local authority are to be read as references to a panel.
-(3) Subclause (2) applies for the purpose of clarifying or facilitating the resolution of a matter relating to a proposed policy statement or plan.
-(4) If a panel considers it appropriate, it may on its own initiative, or if requested, invite anyone who made a submission on a proposed policy statement or plan to meet with the local authority.
+  (h) section 41D (which provides for submissions to be struck out before or at a hearing):
+  (i) section 42 (which provides for the protection of sensitive information):
+  (j) section 42A (which provides for the ability to commission hearing reports).
+(2) If a freshwater hearings panel exercises a power under section 41D,—
+  (a) a person whose submission is struck out has a right of objection under section 357 as if the references in that section to an authority were a reference to a freshwater hearings panel; and
+  (b) sections 357C, 357D, and 358 apply to the freshwater hearings panel as the body to which an objection is made under section 357.
+(3) A freshwater hearings panel may decide to accept or reject any late submission.
+(4) A freshwater hearings panel may recommend to a relevant regional council that a variation be made to a freshwater planning instrument.
+
+### 41 Pre-hearing meetings
+(1) The chairperson of a freshwater hearings panel may convene a pre-hearing meeting for the purpose of—
+  (a) clarifying a matter or an issue; or
+  (b) facilitating resolution of a matter or an issue; or
+  (c) dealing with any matter of an administrative or a procedural nature.
+(2) The chairperson may invite to the meeting—
+  (a) any person who made a submission on the freshwater planning instrument:
+  (b) the relevant regional council:
+  (c) any person who the chairperson considers has relevant expertise.
+(3) The chairperson must appoint a person to chair the pre-hearing meeting.
+(4) The chairperson of the pre-hearing meeting must provide the freshwater hearings panel with a report that—
+  (a) sets out any clarification or resolution of a matter or an issue agreed between the persons who attended the meeting; and
+  (b) sets out any outstanding matter or issue between them; and
+  (c) addresses any matter or issue identified by the chairperson to the freshwater hearings panel.
+
+### 42 Council’s role during hearings
+(1) The relevant regional council must attend the hearings to assist a freshwater hearings panel in 1 or more of the following ways:
+  (a) to clarify or discuss matters in the freshwater planning instrument:
+  (b) to give evidence:
+  (c) to speak to submissions or address issues raised by them:
+  (d) to provide any other relevant information as requested by the panel.
+(2) Despite subclause (1), the freshwater hearings panel may excuse the relevant regional council from attending or remaining at any particular hearing.
+(3) A failure by a relevant regional council or a freshwater hearings panel to comply with this clause does not invalidate the hearing or the hearings session.
+(4) To avoid doubt, this clause does not limit or prevent the relevant regional council from—
+  (a) making a submission on the freshwater planning instrument:
+  (b) being heard on that submission.
+(5) A regional council must comply with any requirement by the freshwater hearings panel to provide a hearing report in accordance with section 42A.
+
+### 43 Conference of experts
+(1) A freshwater hearings panel may, at any time during a hearing, direct that a conference of experts be held for the purpose of—
+  (a) clarifying a matter or an issue relating to the freshwater planning instrument; or
+  (b) facilitating resolution of a matter or an issue relating to the freshwater planning instrument.
+(2) Without limiting the panel’s discretion under subclause (1), the panel may authorise a representative of the relevant regional council with appropriate expertise to attend the conference.
+(3) The persons attending the conference must provide the freshwater hearings panel with a report of the outcomes of the conference.
+(4) If a conference requires a facilitator, the panel must appoint an independent facilitator.
+(5) The facilitator of a conference must, after the conference, prepare a report on the conference and provide it in writing or electronically to—
+  (a) the freshwater hearings panel; and
+  (b) the persons who attended the conference.
+(6) A facilitator must act under subclause (5) only if the freshwater hearings panel requires him or her to do so.
+(7) A report prepared under subclause (5) must not, without a person’s consent, include any material that the person communicated or made available at the conference on a without prejudice basis.
+
+### 44 Alternative dispute resolution
+(1) A freshwater hearings panel may, at any time during a hearing, refer to mediation or any other alternative dispute resolution process the persons listed in subclause (2) if—
+  (a) the panel considers that it is—
+    (i) appropriate to do so; and
+    (ii) likely to resolve issues between the parties that relate to the freshwater planning instrument; and
+  (b) each person has consented (other than the relevant regional council, which must participate if referred by the panel).
+(2) The persons are—
+  (a) 1 or more submitters; and
+  (b) the relevant regional council; and
+  (c) any other person that the freshwater hearings panel considers appropriate.
+(3) The freshwater hearings panel must appoint the mediator or person facilitating the mediation or other dispute resolution process (the mediator).
+(4) The mediator must report the outcome to the freshwater hearings panel.
+(5) The outcome reported under subclause (4) must not include any material without the consent of the relevant person, if the material was communicated or made available by the person at the mediation or other process on a without prejudice basis.
+
+**Notification of report and preparation of proposed policy statement, plan, or change**
+
+### 45 Freshwater hearings panel may commission reports
+(1) A freshwater hearings panel may, at any time before or during a hearing, require the relevant regional council, or commission a consultant or any other person, to prepare a report on—
+  (a) 1 or more submissions; or
+  (b) any matter arising from a hearing; or
+  (c) any other matter that the panel considers necessary for the purpose of the panel making its recommendations.
+(2) The report does not need to repeat information included in any submission.
+(3) Instead, the report may—
+  (a) adopt all of the information; or
+  (b) adopt any part of the information by referring to the part adopted.
+(4) The freshwater hearings panel—
+  (a) may consider the report at the hearing or when making its recommendations, or both; and
+  (b) must require the relevant regional council to make the report available for inspection on its Internet site and at its offices.
+(5) The freshwater hearings panel may request and receive, from the person who prepared the report, any information and advice that is relevant and reasonably necessary for the panel to make its recommendations under clause 49.
+
+### 46 Freshwater hearings panel may appoint special advisor and friend of submitter
+(1) The chairperson of a freshwater hearings panel may appoint as a special advisor a person who is able to assist the panel in any hearing.
+(2) A special advisor is not a member of the panel but may assist the panel in any way that the panel thinks fit.
+(3) The chairperson of a freshwater hearings panel—
+  (a) may appoint a friend of submitter for the purpose of providing support to the submitter in relation to the hearings; but
+  (b) must consult the relevant regional council before making an appointment.
+
+**Extensions of time**
+
+### 47 Chief Freshwater Commissioner may extend time frame
+(1) A regional council or the chairperson of a freshwater hearings panel may request the Chief Freshwater Commissioner for an extension of a time frame specified in clauses 37, 40, 51, and 52 in relation to a freshwater planning instrument.
+(2) The person applying must state why the extension is sought, the proposed time frame, and how the person intends to meet the proposed time frame.
+(3) The Chief Freshwater Commissioner may—
+  (a) decline the request; or
+  (b) fully accept the request (including the proposed time frame); or
+  (c) partially accept the request and determine a different time frame.
+(4) The Chief Freshwater Commissioner may grant a regional council or a freshwater hearings panel an extension more than once (in relation to the same or a different provision specified in subclause (1)).
+(5) However, the total period of any extension (regardless of who applied for it) must not exceed 12 months in relation to a freshwater planning instrument.
+
+**Other procedural matters**
+
+### 48 Procedures of freshwater hearings panel
+(1) Every freshwater hearings panel must—
+  (a) regulate its own proceedings in a manner that is appropriate and fair in the circumstances; and
+  (b) keep a full record of proceedings.
+(2) At a hearing, a freshwater hearings panel may—
+  (a) permit a party to question another party or witness:
+  (b) prohibit cross-examination:
+  (c) permit cross-examination at the request of a party but only if the panel is satisfied that it is in the interests of justice:
+  (d) regulate the conduct of any cross-examination.
+
+**Process for recommendations of freshwater hearings panel**
+
+### 49 Freshwater hearings panel must make recommendations to regional council on freshwater planning instrument
+(1) A freshwater hearings panel must make recommendations on the freshwater planning instrument.
+(2) The freshwater hearings panel—
+  (a) is not limited in making recommendations only within the scope of submissions made on the freshwater planning instrument; and
+  (b) may make recommendations on any other matters relating to the freshwater planning instrument identified by the panel or any other person during the hearing.
+Recommendations must be provided in reports
+(3) The freshwater hearings panel must provide its recommendations to the relevant regional council in 1 or more written reports.
+(4) Each report must include—
+  (a) the panel’s recommendations on the provisions of the freshwater planning instrument covered by the report, and identify any recommendations that are out of scope of the submissions made in respect of those provisions; and
+  (b) the panel’s recommendations on the provisions and matters raised in submissions made in respect of the provisions covered by the report; and
+  (c) the panel’s reasons for accepting or rejecting submissions and, for this purpose, may address the submissions by grouping them according to—
+    (i) the provisions of the freshwater planning instrument to which they relate; or
+    (ii) the matters to which they relate.
+(5) Each report may also include—
+  (a) matters relating to any consequential alterations necessary to the freshwater planning instrument arising from submissions; and
+  (b) any other matter that the panel considers relevant to the freshwater planning instrument that arises from submissions or otherwise.
+(6) To avoid doubt, a panel is not required to make recommendations in a report that address each submission individually.
+
+**Public submissions**
+
+### 50 Matters that affect recommendations
+A freshwater hearings panel, in formulating its recommendations, must—
+  (a) have regard to—
+    (i) any reports prepared under section 42A and clauses 41, 43, 45, and 46; and
+    (ii) any reports produced as a result of mediation or other alternative dispute resolution directed by the panel; and
+    (iii) any technical or other reports commissioned by the panel; and
+    (iv) any advice or other assistance provided by a special advisor appointed under clause 46; and
+  (b) take account of any alternative dispute resolution outcomes reported under clause 44; and
+  (c) include in its recommendations a further evaluation of the freshwater planning instrument undertaken in accordance with section 32AA; and
+  (d) be sure that if the relevant regional council were to accept the panel’s recommendations, the following would be complied with:
+    (i) sections 43B, 59 to 68, 69 to 70B, 85A, and 85B(2); and
+    (ii) any other provision of any enactment (including this Act) that applies to the council’s preparation of the plan.
+
+### 51 Deadline for recommendations
+A freshwater hearings panel must provide its report under clause 49 to the relevant regional council no later than the date that is 40 working days before the expiry of 2 years after the date on which the freshwater planning instrument was publicly notified by the relevant regional council.
+
+**Regional council’s response to recommendations**
+
+### 52 Relevant regional council to consider recommendations and notify decisions on them
+(1) The relevant regional council must—
+  (a) decide whether to accept or reject each recommendation of the freshwater hearings panel; and
+  (b) for each rejected recommendation that is within the scope of submissions, decide an alternative solution, which—
+    (i) may or may not include elements of both the freshwater planning instrument as notified and the freshwater hearings panel’s recommendation in respect of that part of the freshwater planning instrument; but
+    (ii) must be within the scope of the submissions; and
+  (c) for each rejected recommendation that is outside the scope of submissions, decide an alternative solution, which may be within or outside the scope of submissions; and
+  (d) include an assessment of each alternative solution to a rejected recommendation in the further evaluation report required under section 32AA.
+(2) The regional council must make decisions under subclause (1) in a manner that is consistent with any relevant iwi participation legislation, Mana Whakahono a Rohe, or joint management agreement.
+(3) When making decisions under subclause (1), the relevant regional council—
+  (a) is not, subject to subclause (2), required to consult any person or consider submissions or other evidence from any person; and
+  (b) must not consider any submission or other evidence unless it was made available to the freshwater hearings panel before the panel made the recommendation that is the subject of the relevant regional council’s decision.
+(4) To avoid doubt, the relevant regional council may accept recommendations of the freshwater hearings panel that are beyond the scope of the submissions made on the freshwater planning instrument.
+(5) The relevant regional council must, no later than 40 working days after it is provided with the report, publicly notify its decisions under subclause (1) in a way that sets out the following information:
+  (a) each recommendation of the freshwater hearings panel that it accepts:
+  (b) each recommendation of the freshwater hearings panel that it rejects and the reasons for doing so:
+  (c) the alternative solution for each rejected recommendation.
+(6) After the regional council publicly notifies its decisions, it must comply with clause 11 as if the decisions were notified under clause 10(4)﻿(b).
+(7) On and from the date the decisions are publicly notified, the freshwater planning instrument is amended in accordance with the decisions.
+(8) A regional council must publicly notify the availability of the report of the freshwater hearings panel, the council’s decisions, and where the report and the decisions may be viewed or accessed.
+
+### 53 Variations to freshwater planning instrument
+(1) If at any time after complying with clause 37(1), a relevant regional council considers that a variation to the freshwater planning instrument is needed, the council must—
+  (a) notify the Chief Freshwater Commissioner in writing of the need for the variation; and
+  (b) provide any additional information requested by the Chief Freshwater Commissioner for the purpose of subclause (3).
+(2) A regional council must also comply with subclause (1)﻿(a) and (b) if it considers that a variation to a freshwater instrument recommended by the freshwater hearings panel is needed (see clause 40(4)).
+(3) The Chief Freshwater Commissioner must, after consulting the relevant freshwater hearings panel, determine whether to accept or reject the variation.
+(4) In making a determination, the Chief Freshwater Commissioner must consider—
+  (a) whether the variation is needed to correct a significant defect in the freshwater planning instrument; and
+  (b) whether the variation is needed for the effective functioning of the freshwater planning instrument; and
+  (c) the impact that accepting the variation would have on the decision date of the freshwater planning instrument.
+(5) The Chief Freshwater Commissioner must advise the relevant regional council in writing of the outcome of the determination.
+(6) Clauses 16A and 16B apply, with any necessary modifications, to the variation. However, a variation that is initiated before the regional council complies with clause 37(1) must be merged into the freshwater planning instrument in accordance with clause 16B before the council complies with that clause.
+
+#### Subpart 2 — Appeals
+
+### 54 Appeal rights
+(1) The appeal rights available in respect of a freshwater planning instrument are as provided in clauses 55 and 56.
+(2) To avoid doubt, no further appeal lies to the Supreme Court (by leave or otherwise).
+
+**Decision**
+
+### 55 Right of appeal in relation to rejected recommendation
+(1) A person who made a submission on a freshwater planning instrument may appeal to the Environment Court in respect of a provision or matter relating to the freshwater planning instrument—
+  (a) that the person addressed in the submission; and
+  (b) in relation to which the relevant regional council rejected a recommendation of the freshwater hearings panel and decided an alternative solution which resulted in—
+    (i) a provision or matter being included in the freshwater planning instrument; or
+    (ii) a provision or matter being excluded from the freshwater planning instrument.
+(2) If a regional council decides to reject a recommendation of the freshwater hearings panel that is outside the scope of submissions, a person who made a submission may appeal to the Environment Court in respect of that decision or the alternative solution proposed by the council.
+(3) The Environment Court must treat an appeal under this clause as if it were a hearing under clause 15(1) or (2).
+(4) Except as provided in this clause, the following provisions apply with all necessary modifications:
+  (a) Parts 11 and 11A but not section 308; and
+  (b) clauses 14(4) and (5) and 15(1) and (2) of this schedule.
+
+### 56 Right of appeal in relation to accepted recommendation
+(1) A person who made a submission on a freshwater planning instrument may appeal to the High Court in respect of a provision or matter relating to the freshwater planning instrument—
+  (a) that the person addressed in the submission; and
+  (b) in relation to which the relevant regional council accepted a recommendation of the freshwater hearings panel which resulted in—
+    (i) a provision or matter being included in a freshwater planning instrument; or
+    (ii) a provision or matter being excluded from a freshwater planning instrument.
+(2) If a regional council decides to accept a recommendation of the freshwater hearings panel that is outside the scope of submissions, a person who made a submission may appeal to the High Court in respect of that decision.
+(3) An appeal under this clause may be on a question of law only.
+(4) Except as otherwise provided in this clause, sections 299(2), 300 to 308, and Part 11A apply with all necessary modifications.
+
+### 57 Judicial review
+(1) Nothing in this Part limits or affects any right of judicial review a person may have in respect of any matter to which this Part applies except as provided in clause 55(4) (which applies section 296, that section being in Part 11).
+(2) However, a person must not both apply for judicial review of a decision made under this Part and appeal to the High Court under clause 56 in respect of the decision unless the person lodges the applications for judicial review and appeal together.
+(3) If applications for judicial review and appeal are lodged together, the High Court must try to hear the judicial review and appeal proceedings together, but need not if the court considers it impracticable to do so in the circumstances of the particular case.
+
+**Transitional arrangement**
+
+#### Subpart 3 — Freshwater hearings panels
+
+### 58 Chief Freshwater Commissioner’s powers and functions in relation to freshwater hearings panels
+(1) The Chief Freshwater Commissioner has the following powers and functions:
+  (a) to decide when freshwater hearings panels are to be convened:
+  (b) to determine, after considering the documents submitted by a regional council under clause 37(1) in relation to a freshwater planning instrument, the appropriate size and composition of a freshwater hearings panel in accordance with clause 59:
+  (c) to consider nominations for appointment to a freshwater hearings panel made under clause 59(1)﻿(b) and (c):
+  (d) to appoint members of a freshwater hearings panel in accordance with clause 59:
+  (e) to appoint the chairperson of a freshwater hearings panel.
+(2) The Chief Freshwater Commissioner may direct that a freshwater hearings panel be split into 2 panels if the Commissioner considers it appropriate in the circumstances.
+
+**Rights of appeal under collaborative planning process**
+
+### 59 Composition of freshwater hearings panel
+(1) Each freshwater hearings panel must comprise 5 members as follows:
+  (a) 2 freshwater commissioners; and
+  (b) 2 persons who—
+    (i) are nominated by the relevant regional council; and
+    (ii) may or may not be elected regional council members; and
+  (c) 1 person with an understanding of tikanga Māori and mātauranga Māori who—
+    (i) is nominated by local tangata whenua; or
+    (ii) if no nomination is made, is appointed by the Chief Freshwater Commissioner.
+(2) However, the number of members on a freshwater hearings panel—
+  (a) may exceed 5 if the Chief Freshwater Commissioner considers there are special circumstances in the region to which the freshwater planning instrument applies; or
+  (b) may be fewer than 5 (but no fewer than 3) if the Chief Freshwater Commissioner considers that the scale and complexity of the freshwater planning instrument does not warrant the appointment of 5 members.
+(3) When appointing fewer than 5 members to a freshwater hearings panel, the Chief Freshwater Commissioner must ensure that the panel includes—
+  (a) 1 person described in subclause (1)﻿(b); and
+  (b) 1 person described in subclause (1)﻿(c); and
+  (c) 1 freshwater commissioner.
+(4) When appointing more than 5 members to a freshwater hearings panel, the Chief Freshwater Commissioner must ensure that the panel includes the 5 members referred to in subclause (1)﻿(a) to (c).
+(5) The Chief Freshwater Commissioner must convene each freshwater hearings panel in a manner that is consistent with any relevant iwi participation legislation, Mana Whakahono a Rohe, or joint management agreement.
+(6) When convening a freshwater hearings panel, the Chief Freshwater Commissioner must consider the need for the panel to collectively have knowledge of and expertise in relation to—
+  (a) judicial processes and cross-examination; and
+  (b) freshwater quality, quantity, and ecology; and
+  (c) this Act; and
+  (d) tikanga Māori and mātauranga Māori; and
+  (e) Te Mana o te Wai; and
+  (f) water use in the local community; and
+  (g) subject areas likely to be relevant to the work of the panel.
+(7) A freshwater hearings panel member must be accredited under section 39A unless the Chief Freshwater Commissioner is satisfied there are special circumstances in relation to the freshwater hearings panel to which the commissioner is appointed.
+
+### 60 Appointment of chairperson of freshwater hearings panel
+(1) The Chief Freshwater Commissioner must appoint the chairperson of a freshwater hearings panel.
+(2) Before appointing a chairperson, the Chief Freshwater Commissioner must consider the desirability of the chairperson having knowledge and expertise in relation to judicial processes and cross-examination.
+(3) The chairperson must be a freshwater commissioner and may be the Chief Freshwater Commissioner.
+(4) In the event of an equality of votes, the chairperson has a casting vote.
+
+### 61 Liability of members of freshwater hearings panel
+A member of a freshwater hearings panel is not liable for anything the member does, or omits to do, in good faith in performing the functions and duties or exercising the powers of a panel.
+
+### 62 Other duties of Chief Freshwater Commissioner in relation to panel members
+(1) The Chief Freshwater Commissioner may,—
+  (a) at any time, for just cause, remove a member from a freshwater hearings panel; and
+  (b) appoint new members to the freshwater hearings panel in accordance with clause 59.
+(2) The Chief Freshwater Commissioner must notify members of their appointment to a freshwater hearings panel and when their appointment commences.
+(3) When removing a member from a freshwater hearings panel, the Chief Freshwater Commissioner must tell the member in writing of the date on which the removal takes effect and the reasons for the removal.
+(4) A member is not entitled to any compensation or other payment or benefit relating to the person ceasing, for any reason, to be a member of the panel.
+(5) In subclause (1), just cause includes misconduct, inability to perform the functions of office, neglect of duty, and breach of the collective duties of the freshwater hearings panel or the individual duties of members of the panel.
+
+**Approval of proposed policy statement or plan**
+
+### 63 Funding of freshwater hearings panel and related activities
+(1) The relevant regional council is responsible for all costs incurred by a freshwater hearings panel and for the activities related to the performance or exercise of the panel’s functions and powers under this Part.
+(2) Subclause (1) applies from the date that members are appointed to the freshwater hearings panel.
+(3) Without limiting subclause (1), the relevant regional council is responsible for—
+  (a) the remuneration and expenses of the members of the freshwater hearings panel; and
+  (b) the administrative costs of each hearing session, including venue hire and public notices; and
+  (c) the remuneration of any expert, mediator or other dispute resolution facilitator, or other person whose services are engaged by the panel under this Part; and
+  (d) the allowances payable to any witness called by the panel; and
+  (e) the costs of any special advisor or friend of submitter appointed by the panel; and
+  (f) providing administrative and secretarial support services to the panel as required.
+(4) For the purposes of subclause (1), each member of the freshwater hearings panel, other than members of a regional council, must be paid—
+  (a) remuneration by way of salary, fees, or allowances at a rate determined by the Minister; and
+  (b) actual and reasonable travelling and other expenses incurred in carrying out his or her office in accordance with the Fees and Travelling Allowances Act 1951, and that Act applies as if the members were members of a statutory Board within the meaning of that Act.
+(5) Members of a regional council who are appointed to a freshwater hearings panel must be paid at a rate determined by the relevant council.
+
+**Review panels**
+
+### 64 Continued existence of freshwater hearings panel
+A freshwater hearings panel exists until it has completed the performance and exercise of its functions and powers under this Part in relation to the hearing of submissions, including any related appeals that are filed in any court.
+
+#### Subpart 4 — Freshwater commissioners
+
+### 65 Minister may appoint freshwater commissioners
+(1) The Minister may appoint freshwater commissioners.
+(2) The Minister must appoint freshwater commissioners who—
+  (a) are accredited under section 39A; and
+  (b) collectively have knowledge of and expertise in relation to—
+    (i) judicial processes and cross-examination; and
+    (ii) freshwater quality, quantity, and ecology; and
+    (iii) this Act; and
+    (iv) tikanga Māori and mātauranga Māori.
+(3) The Minister must appoint as Chief Freshwater Commissioner a freshwater commissioner who is an Environment Court Judge or retired Environment Court Judge.
+
+### 66 How freshwater commissioners appointed
+(1) The Minister must give a person appointed as a freshwater commissioner a written notice of appointment.
+(2) The notice of appointment must—
+  (a) state the date on which the appointment takes effect; and
+  (b) state the term of the appointment; and
+  (c) specify that the costs of the freshwater commissioner—
+    (i) that are for purposes specific to a freshwater hearings panel will be met by the relevant regional council; and
+    (ii) that are for other purposes directed by the Chief Freshwater Commissioner will be met by the Crown.
+
+**Terms and liabilities**
+
+### 67 When freshwater commissioner’s appointment ceases
+(1) A person appointed as a freshwater commissioner will remain in that office until the earliest of the following:
+  (a) the person’s term of appointment ends:
+  (b) the person dies:
+  (c) the person resigns by giving 20 working days’ written notice to the Minister.
+(2) The Minister may, at any time for just cause, by written notice, terminate the appointment of a freshwater commissioner.
+(3) The Minister may, at any time for just cause, remove a freshwater commissioner by written notice to that person (with a copy to the Chief Freshwater Commissioner).
+(4) The notice must state—
+  (a) the date on which the removal takes effect, which must not be earlier than the date on which the notice is received by the freshwater commissioner; and
+  (b) the reasons for the removal.
+(5) A freshwater commissioner is not entitled to any compensation or other payment or benefit relating to the person ceasing, for any reason, to hold office as a freshwater commissioner or the Chief Freshwater Commissioner.
+(6) In subclause (2), just cause includes misconduct, inability to perform the functions of office, neglect of duty, and breach of the collective duties of the freshwater hearings panel or the individual duties of members of the panel.
+
+### 68 Liability of members of panel
+[Repealed]
+
+**Functions and powers**
+
+### 69 Functions of panel
+[Repealed]
+
+### 70 Powers of panel
+[Repealed]
+
+**Procedural matters**
 
 ### 71 Procedures of panel
-(1) Every panel must—
-  (a) regulate its own procedure in a manner that is appropriate and fair in the circumstances; and
-  (b) keep a full record of its proceedings.
-(2) Parts 1 to 6 and sections 48 and 53 of the Local Government Official Information and Meetings Act 1987 apply to a panel as if that panel were a committee appointed by a local authority under the Local Government Act 2002.
-(3) In the event of an equality of votes, the chairperson of the panel has a casting vote.
+[Repealed]
+
+**Evidentiary matters**
 
 ### 72 Reports
-(1) At any time before or during a hearing, a panel may commission, or require an appointer to commission, a report on any matter, including a report by an officer of a local authority, as the panel considers necessary.
-(2) A report does not need to repeat material included in submissions.
-(3) An appointer must—
-  (a) make any report commissioned under this clause available for inspection as soon as practicable at its offices or on an Internet site to which the public has free access; and
-  (b) give written notice to the persons who made submissions that a report has been commissioned and is available for inspection.
-(4) A panel may request, from the person making a report under this clause, any information and advice that the panel considers is relevant and reasonably necessary to enable the panel to make recommendations under clause 69(b).
+[Repealed]
 
 ### 73 Conference of experts
-(1) A panel may, at any time during a hearing, direct that a conference of experts be convened for the purpose of—
-  (a) clarifying a matter relating to the proposed policy statement or plan:
-  (b) facilitating the resolution of a matter relating to a proposed policy statement or plan.
-(2) A member of the panel, or a person appointed for the purpose by the panel, must be appointed to act as the facilitator of the conference.
-(3) If directed by the panel to do so, the facilitator must prepare a report on the conference and provide it to the panel and persons attending the conference.
-(4) No information given or made available to the conference on a without prejudice basis may be included in a report given under subclause (3).
-(5) The appointer or his or her representatives may not attend a conference unless authorised to do so by the panel.
+[Repealed]
 
 ### 74 Information provided to review panel
-(1) An appointer must provide a review panel with copies of—
-  (a) the publicly notified proposed policy statement or plan that is the subject of a hearing before the panel; and
-  (b) the report of the relevant collaborative group provided under clause 44; and
-  (c) an evaluation report required by clause 48; and
-  (d) the submissions that were received on the proposed policy statement or plan by the closing date for submissions; and
-  (e) the report prepared by the relevant local authority under clause 51; and
-  (f) any planning documents recognised by an iwi authority and lodged with the relevant local authority; and
-  (g) any documentation relevant to obligations arising for the relevant local authority under any relevant iwi participation legislation or Mana Whakahono a Rohe; and
-  (h) any comments provided to the relevant local authority under clause 51(2)﻿(b) by an iwi authority or the relevant collaborative group; and
-  (i) any other relevant information held by the local authority and requested by the panel.
-(2) Information may be provided under this clause electronically or on an Internet site to which the review panel has access.
+[Repealed]
+
+### Part 5 — Streamlined planning process
 
 ### 75 Contents of application for directions
 An application to a Minister for a direction under section 80C to use the streamlined planning process must—
@@ -11369,6 +11702,8 @@ An application to a Minister for a direction under section 80C to use the stream
 (3) The responsible Minister may amend his or her direction as the Minister thinks appropriate.
 (4) Unless an amendment made under this clause has no more than a minor effect or is made to correct a technical error, clauses 76(2) to (6), 77(2), 78(3), and 79 apply.
 
+**Other matters relevant to direction**
+
 ### 81 Time limits
 (1) A local authority may apply in writing to request that the responsible Minister approve an extension to any time frames that apply to the local authority under the Minister’s direction.
 (2) The Minister must consider and determine the application.
@@ -11381,6 +11716,8 @@ An application to a Minister for a direction under section 80C to use the stream
   (a) must comply with the terms of a direction given under clause 78 (other than in respect of the Minister’s statement of expectations included in the direction); but
   (b) must have regard to that statement.
 (2) The direction applies as from time to time amended in accordance with clause 80 and subject to any extension of time allowed under clause 81.
+
+**Process for approval of proposed planning instrument**
 
 ### 83 Local authority must submit proposed planning instrument to responsible Minister
 (1) A local authority that is subject to a direction under clause 78 must submit to the responsible Minister, within the time required by the direction,—
@@ -11451,6 +11788,8 @@ An application to a Minister for a direction under section 80C to use the stream
 (2) If a direction is revoked, the proposed planning instrument is withdrawn.
 (3) The relevant local authority must give public notice if the proposed planning instrument is withdrawn.
 
+**Notification and operation of planning instrument**
+
 ### 90 Notification of responsible Minister’s decision
 (1) This clause applies when the responsible Minister has made a decision on a proposed planning instrument under clause 84(1)﻿(a)﻿(i) or (b).
 (2) The local authority concerned must give public notice of the responsible Minister’s decision on the proposed planning instrument as follows:
@@ -11469,6 +11808,8 @@ An application to a Minister for a direction under section 80C to use the stream
   (a) make a copy of the public notice and the reports prepared under clause 83(1) publicly available (whether physically or by electronic means) at all of its offices, and all public libraries in the district (if it relates to a district plan) or region (in all other cases); and
   (b) include with the notice a statement of the places where a copy of the decision is available; and
   (c) send or provide, on request, a copy of the decision within 3 working days after the request is received.
+
+**Effect of decisions under this Part**
 
 ### 91 Scope of appeal rights
 (1) There is no right of appeal under this Act against any decision or action of the responsible Minister, a local authority, or any other person under this Part, except as provided under clauses 92 and 93.
@@ -11873,6 +12214,79 @@ Nothing in section 69(4) (as inserted by the amendment Act) affects any plan app
 
 ### 16 Matters before the Environment Court
 An amendment made by the amendment Act does not apply to any proceeding lodged with the Environment Court immediately before the commencement of that amendment.
+
+### Part 3 — Provisions relating to Resource Management Amendment Act 2020
+
+### 17 Interpretation
+In this Part,—
+  - **amendment Act** means the Resource Management Amendment Act 2020
+  - **commencement date** means the day after the date on which the amendment Act received the Royal assent.
+
+### 18 Planning instruments relating to freshwater notified after commencement date
+(1) This clause applies to the following planning instruments:
+  (a) a proposed regional plan or regional policy statement for the purpose of giving effect to any national policy statement for freshwater management:
+  (b) a proposed regional plan or regional policy statement that relates to freshwater but not for the purpose of giving effect to any national policy statement for freshwater management:
+  (c) a change or variation to a proposed regional plan or regional policy statement if the change or variation—
+    (i) is for the purpose of giving effect to any national policy statement for freshwater management; or
+    (ii) relates to freshwater in the manner described in paragraph (b).
+(2) A planning instrument to which this clause applies must, if it was publicly notified after the commencement date, undergo the freshwater planning process.
+
+### 19 Planning instruments relating to freshwater notified before commencement
+(1) In this clause, planning instrument means a proposed regional plan or regional policy statement that—
+  (a) is for the purpose of giving effect to any national policy statement for freshwater management or otherwise relates to freshwater; and
+  (b) was publicly notified before the commencement date.
+(2) This Act applies to the planning instrument as if the amendment Act had not been enacted.
+(3) A variation to a planning instrument must be dealt with as if the amendment Act had not been enacted, regardless of whether—
+  (a) the variation was publicly notified before or after the commencement date; or
+  (b) the variation in any way gives effect to any national policy statement for freshwater management.
+
+### 20 Application of sections 120(1A) and (1B) to appeal rights
+(1) Section 120(1A) applies only in relation to resource consents lodged on or after the date on which section 37(1) of the amendment Act comes into force.
+(2) Section 120(1B) applies only in relation to resource consents lodged on or after the commencement date.
+
+### 21 Conditions that may be imposed on notices of requirement
+Sections 149P, 149U, 171, 174, 198E, and 198K, as amended by the amendment Act, apply to notices of requirement given under section 168 or 181 or lodged under section 145 on or after the commencement date.
+
+### 22 New time frames for resource consents relating to emergency work
+Section 330B(3), as amended by the amendment Act, applies to an activity if the appropriate consent authority was advised of the activity on or after the commencement date.
+
+### 23 Application of limitation period in section 338(4)
+Section 338(4), as amended by the amendment Act, applies to an offence committed on or after the commencement date.
+
+### 24 Performance of EPA enforcement functions
+The EPA may, in the performance of its enforcement functions specified in section 343F, take an enforcement action in relation to an incident (within the meaning of section 343E) that occurred or started to occur before, on, or after the commencement date.
+
+### 25 National environmental standards and boards of inquiry
+Sections 44, 46A, and 48, as amended by the amendment Act, apply only in respect of—
+  (a) a board of inquiry appointed under section 47 on or after the commencement date; or
+  (b) a process established under section 46A(4) on or after the commencement date.
+
+### 26 Transitional effect of climate change amendments
+(1) This clause applies to a proposed policy statement or plan, change, or variation that, immediately before the effective date,—
+  (a) has been publicly notified under clause 5 or 26(1)﻿(b) of Schedule 1; but
+  (b) has not proceeded to the stage at which no further appeal is possible.
+(2) This clause also applies to applications for resource consents that were lodged with a local authority immediately before the effective date.
+(3) The proposed policy statement, plan, change, or variation, or resource consent must be determined as if the climate change amendments had not been enacted.
+(4) In this clause,—
+  - **climate change amendments** means the amendments made by sections 17 to 21, 35, and 36 of the amendment Act
+  - **effective date** means the date on which the climate change amendments come into force by virtue of section 2(3) and (4) of the amendment Act.
+
+### 27 Transitional effect of amendments to sections 149P and 149U
+(1) This clause applies to a matter described in paragraph (a), (b), (c), (d), (e), or (f) of the definition of matter in section 141.
+(2) If the matter has been called in under section 142 before the amendments made by sections 52 and 55 of the amendment Act take effect, the matter must be determined as if those amendments had not been made.
+
+### 28 References to clause 10 of Schedule 1 in specified Treaty Settlement legislation
+A reference, immediately before the commencement date, to clause 10 of Schedule 1 in the following provisions must, on and from the commencement date, be read as a reference to clauses 10 and 51 of Schedule 1:
+  (a) sections 13(6)﻿(d) and 46(2)﻿(d) of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010:
+  (b) sections 14(6)﻿(d) and 48(2)﻿(d) of the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010:
+  (c) section 22(2)﻿(d) of the Nga Wai o Maniapoto (Waipa River) Act 2012.
+
+### 29 Effect of amendments on resource consent applications lodged with local authority or EPA
+An amendment made by section 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 99, or 100 of the amendment Act does not affect a resource consent application if, before the date that section came into force (see section 2 of the amendment Act), the application was lodged with a local authority or the EPA.
+
+### 30 Effect of amendments on notice of intention to review resource consent conditions
+(1) An amendment made by section 38 or 39 of the amendment Act does not affect a notice of intention to review resource consent conditions if, before the date that section came into force (see section 2 of the amendment Act), the notice was served on a consent holder.
+(2) In this clause, a notice of intention to review resource consent conditions means a notice under section 128.
 
 ### 1 Title
 (1) This Act is the Resource Management Amendment Act 2003.
