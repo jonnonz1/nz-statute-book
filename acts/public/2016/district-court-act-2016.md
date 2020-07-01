@@ -1,5 +1,5 @@
 # District Court Act 2016
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2020-07-01_
 
 ### 1 Title
 This Act is the District Court Act 2016.
@@ -270,7 +270,7 @@ A Judge may resign from office at any time by written notice to the Attorney-Gen
 ### 30 Attorney-General may authorise permanent Judge to sit part-time
 (1) The Attorney-General may, on application by a permanent Judge, authorise the Judge to sit on a part-time basis for a specified period.
 (2) The Attorney-General must not authorise a Judge to sit part-time unless the Chief District Court Judge agrees and, in considering whether to agree, the Chief District Court Judge must have regard to the need to ensure the orderly and efficient conduct of the court’s business.
-(3) In the case of an Environment Judge, the Chief District Court Judge must first consult the Principal Environment Judge before agreeing to the Judge sitting part-time.
+(3) In the case of an Environment Judge, the Chief District Court Judge must first consult the Chief Environment Court Judge before agreeing to the Judge sitting part-time.
 (4) The Attorney-General may authorise a Judge to sit part-time with effect from—
   (a) the date on which the Judge takes up office; or
   (b) any other date.
@@ -300,15 +300,21 @@ A Judge may resign from office at any time by written notice to the Attorney-Gen
 
 **Remuneration**
 
-### 34 Remuneration of Chief District Court Judge, principal Judges, and permanent Judges
-The Chief District Court Judge, each principal Judge, and each permanent Judge must be paid, out of public money, without further appropriation than this section,—
+### 34 Remuneration of Judges
+(1) A Judge must be paid, out of public money, without further appropriation than this section,—
   (a) a salary at the rate determined by the Remuneration Authority; and
   (b) allowances (if any) as determined by the Remuneration Authority; and
-  (c) any additional allowances, such as travelling allowances or other incidental or minor allowances, as the Government determines.
+  (c) any additional allowances, such as travelling allowances or other incidental or minor allowances, as the Governor-General determines.
+(2) In this section, Judge means—
+  (a) the Chief District Court Judge:
+  (b) each principal Judge:
+  (c) the Principal Environment Judge:
+  (d) each permanent Judge (including each permanent Judge authorised to sit on a part-time basis):
+  (e) each acting Judge.
 
-### 35 Remuneration of part-time or acting Judge
+### 35 Salary and allowances of part-time or acting Judge
 (1) The salary and allowances of a part-time Judge must be calculated and paid as a pro rata proportion of the salary and allowances of a full-time Judge.
-(2) For the period that an acting Judge acts as authorised under section 33, the acting Judge must be paid a salary and allowances calculated as a pro rata proportion of the salary and allowances of a full-time Judge under section 34(a) and (c).
+(2) For the period that an acting Judge acts as authorised under section 33, the acting Judge must be paid a salary and allowances calculated as a pro rata proportion of the salary and allowances of a full-time Judge under section 34(1)﻿(a) and (c).
 
 ### 36 Superannuation of acting Judges
 (1) A superannuation subsidy must not be paid to a person who is appointed as an acting Judge under section 31.
