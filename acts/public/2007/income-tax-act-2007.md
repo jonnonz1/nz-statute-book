@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2020-06-23_
+_Consolidation as at 2020-07-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -32533,15 +32533,19 @@ In determining a person’s entitlement to a tax credit under subparts MB to MG 
 ### MA 6 Avoidance arrangements
 Section GB 44 (Arrangements involving tax credits for families) may apply to reduce a tax credit under subparts MB to MG and MZ.
 
-### MA 7 Meaning of full-time earner for family scheme
-Weekly employment
+### MA 7 Meaning of full-time earner and earner for family scheme
+Weekly employment: full-time earner
 (1) In subparts MB to MG and MZ, a full-time earner means a person who, for a week,—
   (a) is employed for 20 hours or more and does not have a spouse, civil union partner, or de facto partner during the week; or
   (b) has a spouse, civil union partner, or de facto partner (the partner) during the week, and either the person or the partner or both of them in total are employed for 30 hours or more.
+Weekly employment: earner
+(1B) In subparts MB to MG and MZ, an earner means a person who, for a week—
+  (a) is employed during the week; or
+  (b) has a spouse, civil union partner, or de facto partner (the partner) during the week and the partner or both of them are employed during the week.
 Modifications to weekly employment
-(2) For the purposes of subsection (1),—
+(2) For the purposes of subsections (1) and (1B),—
   (a) a person who is employed in a pay period that is longer than 1 week is treated as undertaking the employment activities to a uniform daily extent for the period:
-  (b) a person who is employed becomes incapacitated as described in subsection (3) and is unable to undertake employment in a week in which but for the incapacity they would be employed for the number of hours set out in subsection (1)﻿(a) and (b) is treated as having been employed for the hours referred to:
+  (b) a person who is employed becomes incapacitated as described in subsection (3) and is unable to undertake employment in a week in which but for the incapacity they would be employed as provided by subsection (1B)﻿(a) and (b) or would be employed for the number of hours set out in subsection (1)﻿(a) and (b) is treated as having been employed or as having been employed for the hours referred to, as the case may be:
   (bb) a person who has a payment period under the Compensation for Live Organ Donors Act 2016 and is employed at the start of the period is treated as being employed during the period for the hours for which the person would have been employed during the period but for the organ donation:
   (c) a person is treated as employed in any week in relation to which the person receives parental leave payments or preterm baby payments under Part 7A of the Parental Leave and Employment Protection Act 1987 for the number of hours that the person would have worked in a week that the person normally worked in their last period of employment before that week:
   (d) a person who receives or will receive weekly compensation from the Accident Compensation Corporation, Veterans' Affairs New Zealand, or both, as a surviving spouse or partner of a deceased claimant is treated as being employed, during the week to which that compensation relates, for the number of hours that the deceased claimant would have been employed for in a week before dying, but for their incapacity. The number of hours under this paragraph are in addition to the person's own hours.
@@ -33077,11 +33081,11 @@ The fourth requirement for an entitlement to an in-work tax credit is that the p
   (b) a basic grant and an independent circumstances grant made under regulations made under section 193 of the Education Act 1964, section 303 of the Education Act 1989, or an enactment substituted for those sections; or
   (c) a parent's allowance continued by clause 3 of Schedule 1 of the Veterans' Support Act 2014 or a children's pension under section 72 or 75 of that Act.
 
-### MD 9 Fifth requirement: full-time earner
-Normally full-time earner
-(1) The fifth requirement for an entitlement to an in-work tax credit is that either or both the person referred to in section MD 4 and their spouse, civil union partner, or de facto partner, is normally a full-time earner (the earner). Also, the earner must—
-  (a) derive income as set out in subsections (2) and (3) as a full-time earner or derive an amount of compensation described in subsection (4); or
-  (b) if they are a full-time earner in relation to a close company, be a major shareholder in the close company, and the company must derive gross income in the income year.
+### MD 9 Fifth requirement: earner
+Normally earner
+(1) The fifth requirement for an entitlement to an in-work tax credit is that either or both the person referred to in section MD 4 and their spouse, civil union partner, or de facto partner, is normally an earner (the earner). Also, the earner must—
+  (a) derive income as set out in subsections (2) and (3) as an earner or derive an amount of compensation described in subsection (4); or
+  (b) if they are an earner in relation to a close company, be a major shareholder in the close company, and the company must derive gross income in the income year.
 Income
 (2) The income referred to in subsection (1)﻿(a) is—
   (a) a PAYE income payment that is—
@@ -33121,8 +33125,8 @@ Definition of items in formula
     (i) 3; and
     (ii) the number of children for whom the person is allowed the in-work tax credit:
   (d) weekly periods—
-    (i) for 2 or more entitlement periods forming 1 continuous period, is the number of whole periods of 1 week in the continuous period for which the person or their spouse, civil union partner, or de facto partner has, from the work activity, income to which section MD 9(2) refers or is a full-time earner described in section MD 9(1)﻿(b):
-    (ii) for an entitlement period to which subparagraph (i) does not apply, is the number of whole periods of 1 week in the entitlement period for which the person or their spouse, civil union partner, or de facto partner has, from the work activity, income to which section MD 9(2) refers or is a full-time earner described in section MD 9(1)﻿(b).
+    (i) for 2 or more entitlement periods forming 1 continuous period, is the number of whole periods of 1 week in the continuous period for which the person or their spouse, civil union partner, or de facto partner has, from the work activity, income to which section MD 9(2) refers or is an earner described in section MD 9(1)﻿(b):
+    (ii) for an entitlement period to which subparagraph (i) does not apply, is the number of whole periods of 1 week in the entitlement period for which the person or their spouse, civil union partner, or de facto partner has, from the work activity, income to which section MD 9(2) refers or is an earner described in section MD 9(1)﻿(b).
 Order in Council increasing amount
 (4) In subsection (3)﻿(a) and (b), the amount referred to may be increased as prescribed by the Governor-General by Order in Council under section MF 7 (Orders in Council).
 
@@ -42233,6 +42237,7 @@ In this Act, unless the context requires otherwise,—
   - **early balance date** has the meaning given in section YE 1(6) (References to balance dates and years)
   - **early life regime application day** means, for a life insurer that chooses to apply the new life insurance rules, as provided in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009, for an income year that includes 1 July 2010, the first day of that income year
   - **early-payment discount** is defined in section RC 40 (Some definitions) for the purposes of sections RC 37 to RC 39 (which relate to discounts of income tax)
+  - **earner** is defined in section MA 7 (Meaning of full-time earner and earner for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **economic rate** is defined in section EE 67 (Other definitions)
   - **education grant** is defined in section CF 1(2) (Benefits, pensions, compensation, and government grants) for the purposes of that section
   - **effective interest** is defined in section HA 43 (Meaning of effective interest)
