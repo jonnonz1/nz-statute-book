@@ -1,5 +1,5 @@
 # Senior Courts Act 2016
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2020-07-01_
 
 ### 1 Title
 This Act is the Senior Courts Act 2016.
@@ -519,14 +519,14 @@ A judgment, an order, or a decree of the Court of Appeal may be enforced by the 
 
 **Registrar and other officers of Court of Appeal**
 
-### 63 Appointment of Registrar, Deputy Registrar, and other officers of Court of Appeal
-A Registrar, a Deputy Registrar, and other officers may be appointed under the State Sector Act 1988 for the conduct of the business of the Court of Appeal.
+### 63 Appointment of Registrar, Deputy Registrars, and other officers of Court of Appeal
+A Registrar, Deputy Registrars, and other officers may be appointed under the State Sector Act 1988 for the conduct of the business of the Court of Appeal.
 
-### 64 Powers of Registrar and Deputy Registrar
+### 64 Powers of Registrar and Deputy Registrars
 (1) The Registrar has the powers and duties—
   (a) conferred by this Act, any other enactment, or rules made under section 148:
   (b) necessary or desirable to ensure the efficient and effective administration of the business of the Court of Appeal.
-(2) The Deputy Registrar has the same duties and powers as the Registrar.
+(2) A Deputy Registrar has the same duties and powers as the Registrar.
 (3) Subsection (2) is subject to a provision to the contrary in any rules made under section 148 or any other enactment.
 
 ## Part 4 — Supreme Court
@@ -1064,19 +1064,29 @@ Before written notice is given to the Attorney-General under section 131(1), the
 
 **Salaries and allowances**
 
-### 135 Salaries and allowances of permanent Judges and Associate Judges
-Permanent Judges and Associate Judges must be paid, out of public money, without further appropriation than this section,—
+### 135 Remuneration of Judges
+(1) Judges must be paid, out of public money, without further appropriation than this section,—
   (a) salaries at such rates as the Remuneration Authority from time to time determines; and
   (b) such allowances as the Remuneration Authority from time to time determines; and
   (c) such additional allowances, being travelling allowances or other incidental or minor allowances, as the Governor-General may from time to time determine.
+(2) In this section,—
+  - **Judge** means—
+    (a) a permanent or an acting Judge of a senior court:
+    (b) a Judge authorised to sit part-time in a senior court:
+    (c) a permanent or an acting Associate Judge:
+    (d) an Associate Judge authorised to sit part-time
+  - **senior court** means—
+    (a) the Supreme Court:
+    (b) the Court of Appeal:
+    (c) the High Court.
 
 ### 136 Salaries and allowances of part-time Judges
 The salary and allowances payable for a period during which a Judge or an Associate Judge acts on a part-time basis must be calculated and paid as a pro rata proportion of the salary and allowances for a permanent Judge of that court (other than the head of that court) or an Associate Judge.
 
 ### 137 Salaries and allowances of acting Judges
-An acting Judge or acting Associate Judge, while acting as a member of a court to the extent authorised, but not otherwise, must be paid, out of public money, without further appropriation than this section,—
+An acting Judge or acting Associate Judge, while acting as a member of a court to the extent authorised, but not otherwise, must be paid—
   (a) a salary at the rate for the time being payable to a permanent Judge of that court (other than the head of that court) or an Associate Judge; and
-  (b) the allowances referred to in section 135(c) payable to a Judge of that court (other than the head of that court) or an Associate Judge.
+  (b) the allowances referred to in section 135(1)﻿(c) payable to a Judge of that court (other than the head of that court) or an Associate Judge.
 
 ### 138 Superannuation of acting Judges
 (1) A superannuation subsidy must not be paid to a person who is appointed as an acting Judge or acting Associate Judge under section 111, 112, 113(2)﻿(a), or 114(2)﻿(c) (which relate to retired Judges and Judges who have resigned from office).
