@@ -1,5 +1,5 @@
 # Victims' Rights Act 2002
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2020-07-01_
 
 ### 1 Title
 This Act is the Victims' Rights Act 2002.
@@ -142,7 +142,7 @@ Sections 7 to 9, and the principles in them guiding the treatment of victims, do
   (c) any trial relating to the offence:
   (d) any hearings set down for sentencing for the offence:
   (e) any hearings of appeals (if any) against conviction of the offence, or against the sentence imposed, or to be imposed, for the offence, or both:
-  (f) any hearing of a question of conviction or sentence referred by the Governor-General under section 406(a) of the Crimes Act 1961 and any hearing of an appeal against the determination of that question.
+  (f) any referral of the conviction or sentence by the Criminal Cases Review Commission under section 17 of the Criminal Cases Review Commission Act 2019.
 (3) Nothing in this section prevents information of a kind that, under this section, must be given to a victim of an offence, from also being given to any other person (for example, to a person who was disadvantaged by the offence).
 (4) In this section, investigating authorities means persons or bodies investigating the offence in the performance or exercise of their official functions, powers, or duties; but does not include a person exercising or performing functions, powers, or duties of a probation officer under any enactment.
 
