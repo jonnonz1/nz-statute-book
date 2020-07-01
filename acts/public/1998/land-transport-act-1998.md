@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2020-01-02_
+_Consolidation as at 2020-07-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -4230,9 +4230,20 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (d) provide for the refund, waiver, or rebate or enabling the refund, waiver, or rebate, of any fee or charge, or both:
   (e) fix, or empower the fixing of, a date by which any fee or charge is to be paid:
   (f) fix, or enable the fixing of, discounts for early payment of any fee or charge, and penalties for late payment:
-  (g) prescribe any returns, and the conditions relating to such returns, to be made by persons by whom any fees, charges, or penalties are payable.
+  (g) prescribe any returns, and the conditions relating to such returns, to be made by persons by whom any fees, charges, or penalties are payable:
+  (h) identify those fees and charges that are land transport revenue for the purposes of the Land Transport Management Act 2003.
 (5)
 (6)
+
+### 168AA Land transport revenue to be paid into national land transport fund
+All fees and charges (excluding applicable refunds and goods and services tax) identified in regulations made under this Part as land transport revenue for the purposes of the Land Transport Management Act 2003 must be paid into a Crown Bank Account and treated as land transport revenue.
+
+### 168AAB Certain orders are confirmable instruments
+(1) This section applies to regulations made by Order in Council under this Part that identify fees or charges as land transport revenue for the purposes of the Land Transport Management Act 2003.
+(2) The explanatory note of the Order in Council must indicate that—
+  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 168A Agency may declare that vehicle is mobility device or is not motor vehicle
 (1) If a vehicle or type of vehicle is powered solely by a motor that has a maximum power output not exceeding 1 500 W, the Agency may, by notice in the Gazette, declare that the vehicle or type of vehicle is a mobility device.
