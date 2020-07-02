@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2020-07-01_
+_Consolidation as at 2020-07-02_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -1272,7 +1272,7 @@ Except as provided in sections 76 to 78,—
     (ii) a sentence of preventive detention; or
     (iii) a sentence of imprisonment for a term of 3 years or more:
   (e) a person whose name is on the Corrupt Practices List made out for any district.
-(1A) For the purposes of subsection (1)﻿(d)﻿(iii) and sections 86A and 86B, 2 or more sentences of imprisonment for a fixed term that are at any time directed to be served cumulatively are to be treated as a single sentence of imprisonment for a term equal to the sum of the term of imprisonment of each sentence.
+(1A) For the purposes of subsection (1)﻿(d)﻿(iii) and sections 86A, 86AB, and 86B, 2 or more sentences of imprisonment for a fixed term that are at any time directed to be served cumulatively are to be treated as a single sentence of imprisonment for a term equal to the sum of the term of imprisonment of each sentence.
 (2) The Registrar of the court in which a compulsory treatment order or any order under section 24 or 34 of the Criminal Procedure (Mentally Impaired Persons) Act 2003 is made or in which any person is convicted of a corrupt practice must, not later than the fifth day of the month following the date of the order or conviction, forward to the Electoral Commission a certificate showing—
   (a) the name, date of birth, place of abode, and description of the patient or offender; and
   (b) the particulars of the order or conviction.
@@ -1358,22 +1358,33 @@ A person who has a physical or mental impairment may apply for registration as a
 
 ### 86A Registration of prisoners serving sentence of imprisonment of less than 3 years
 (1) This section applies when—
-  (a) a prisoner who is 18 years or older is received into a prison to serve a sentence of imprisonment; or
-  (b) a prisoner turns 18 years while serving a sentence of imprisonment.
+  (a) a prisoner who is 18 years or older—
+    (i) is received into a prison to serve a sentence of imprisonment for a term of less than 3 years; or
+    (ii) has their sentence of imprisonment reduced or altered on appeal, or following a retrial, to a term of less than 3 years; or
+  (b) a prisoner turns 18 years while serving a sentence of imprisonment for a term of less than 3 years.
 (2) If this section applies, the prison manager must, as soon as is reasonably practicable,—
   (a) advise the prisoner that if they are a New Zealand citizen or a permanent resident of New Zealand (as defined in section 73) and have at some time resided continuously in New Zealand for a period of not less than 1 year they are qualified to be registered as an elector of an electoral district, and are required by section 82 to apply to the Electoral Commission for registration; and
   (b) ask the prisoner whether they want their enrolment details sent to the Electoral Commission to facilitate their registration as an elector.
 (3) If the prisoner wants their enrolment details sent to the Electoral Commission to facilitate their registration as an elector, section 86B applies.
 
+### 86AB Registration of prisoners released after serving sentence of imprisonment of 3 years or more
+(1) Before a prisoner who is serving a sentence of imprisonment for a term of 3 years or more is released on parole or after serving the full sentence, the prison manager must, if the prisoner is 18 years or older,—
+  (a) advise the prisoner that if they are a New Zealand citizen or a permanent resident of New Zealand (as defined in section 73) they will, on release, be qualified to be registered as an elector of an electoral district, and are required by section 82 to apply to the Electoral Commission, within 1 month after their release, for registration; and
+  (b) ask the prisoner whether they want their enrolment details sent to the Electoral Commission to facilitate their registration as an elector.
+(2) If the prisoner wants their enrolment details sent to the Electoral Commission to facilitate their registration as an elector, section 86B applies.
+
 ### 86B Prison manager to collect and send enrolment information to Electoral Commission
-(1) If a prisoner referred to in section 86A wants their enrolment details sent to the Electoral Commission to facilitate their registration as an elector, the prisoner must provide to the prison manager the following information for that purpose:
+(1) If a prisoner referred to in section 86A or 86AB wants their enrolment details sent to the Electoral Commission to facilitate their registration as an elector, the prisoner must provide to the prison manager the following information for that purpose:
   (a) the prisoner’s details specified in section 83(2)﻿(a), (b), (c), (d), (g), and (h); and
   (b) if the prisoner is of Maori descent and at the time of providing their enrolment details is, in accordance with section 76(2), eligible to exercise the option referred to in section 76(1), whether the prisoner’s preference is to be enrolled on the Maori electoral roll or General electoral roll.
-(2) The prison manager must collect the enrolment information provided by a prisoner and send that information to the Electoral Commission as soon as is reasonably practicable after collecting the information.
+(2) The prison manager must collect the enrolment information provided by a prisoner and send that information to the Electoral Commission as soon as is reasonably practicable—
+  (a) after collecting the information, if the information is collected from a prisoner referred to in section 86A; or
+  (b) after the prisoner’s release from prison, if the information is collected from a prisoner referred to in section 86AB.
 (3) If a prisoner wishes to apply for a direction under section 115 (unpublished names), the prison manager must—
   (a) assist the prisoner to prepare an application accompanied by supporting information; and
   (b) send the application and supporting information to the Electoral Commission with the prisoner’s enrolment information.
 (4) A prison manager may not use or disclose the information collected from a prisoner other than in accordance with subsection (2) or (3).
+(5) If, at any time after a prison manager sends a prisoner’s information to the Electoral Commission, the overall length of a prisoner’s sentence or sentences of imprisonment changes in a way that results in the prisoner becoming disqualified for registration as an elector under section 80(1)﻿(d), the prison manager must advise the Electoral Commission.
 
 ### 86C Enrolment information received from prison manager treated as application for registration
 (1) The Electoral Commission must, for the purposes of this Act, treat—
@@ -1381,14 +1392,14 @@ A person who has a physical or mental impairment may apply for registration as a
   (b) the receipt of a person’s preference referred to in section 86B(1)﻿(b) to be enrolled on the Maori electoral roll as a request by the person to be registered as an elector of a Maori electoral district.
 (2) This section overrides section 83(1) to (4).
 
-### 86D Delegation of prison manager’s functions under sections 86A and 86B
-(1) A prison manager may delegate to 1 or more prison officers the prison manager’s functions under sections 86A and 86B.
-(2) Subject to any directions or conditions imposed by the prison manager, a prison officer to whom the prison manager’s functions are delegated under this section may carry out those functions in the same manner and with the same effect as if they had been conferred on the prison officer directly by sections 86A and 86B.
+### 86D Delegation of prison manager’s functions under sections 86A, 86AB, and 86B
+(1) A prison manager may delegate to 1 or more prison officers the prison manager’s functions under sections 86A, 86AB, and 86B.
+(2) Subject to any directions or conditions imposed by the prison manager, a prison officer to whom the prison manager’s functions are delegated under this section may carry out those functions in the same manner and with the same effect as if they had been conferred on the prison officer directly by sections 86A, 86AB, and 86B.
 (3) A delegation must be in writing and may be revoked at any time.
 (4) In this section, prison officer means an officer within the meaning of paragraph (a)﻿(ii) of the definition of that term in section 3(1) of the Corrections Act 2004.
 
 ### 86E Prison manager to communicate with prisoner in way prisoner can understand
-When carrying out their duties under sections 86A and 86B, a prison manager must communicate with a prisoner in a way that the prisoner can reasonably be expected to understand.
+When carrying out their duties under sections 86A, 86AB, and 86B, a prison manager must communicate with a prisoner in a way that the prisoner can reasonably be expected to understand.
 
 ### 87 Procedure if immigration status means applicant apparently not qualified to be registered
 (1) This section applies if, as a result of a comparison carried out under section 263A, the Electoral Commission believes that a person who has applied to be (but is not yet) registered as an elector of an electoral district is—
@@ -1682,7 +1693,8 @@ Where, within 14 days after the day on which a notice under section 95A(1) or se
   (d) the name of every person who, as a result of an inquiry made at that person’s address on the roll, the Electoral Commission has reason to believe has ceased for 1 month or upwards to reside in the district:
   (e) the name of every person whose name is entered on the Corrupt Practices List made out for any district:
   (f) the name of every person whose disqualification under section 80—
-    (i) is duly certified to the Electoral Commission:
+    (i) is duly certified to the Electoral Commission; or
+    (ii) is notified to the Electoral Commission under section 81:
     (ii)
   (g) the name of every person who, being a Maori,—
     (i) has indicated his or her choice, pursuant to section 78, to be registered as an elector for a different type of electoral district; or
