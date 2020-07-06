@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2020-06-08_
+_Consolidation as at 2020-07-06_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -5238,12 +5238,12 @@ The following table is small in size and has 4 columns. The columns have no head
 ### Part 4 — Orphan’s benefit
 
 ###
-The following table is small in size and contains 4 columns. The columns have no headings.1(a)In respect of a child aged 14 years or over$237.59 a week(b)In respect of a child aged over 10 years and under 14 years$219.11 a week(c)In respect of a child aged over 5 years and under 10 years$200.55 a week(d)In respect of a child aged under 5 years$175.71 a week2The amount specified in clause 1 must be diminished by $1 for every complete $1 of the annual income of the child (other than personal earnings of the child) in excess of 50% of the appropriate amount specified under that clause.3On and after 1 July 2018, in addition to the applicable rate in clause 1, a clothing allowance in respect of the child in the same amount or at the same rate as any clothing allowance specified under section 363 of the Oranga Tamariki Act 1989 for the rates of payment to persons or organisations in whose charge a child or young person is placed under section 362 of that Act.
+The following table is small in size and contains 4 columns. The columns have no headings.1(a)In respect of a child aged 14 years or over$262.59 a week(b)In respect of a child aged over 10 years and under 14 years$244.11 a week(c)In respect of a child aged over 5 years and under 10 years$225.55 a week(d)In respect of a child aged under 5 years$200.71 a week2The amount specified in clause 1 must be diminished by $1 for every complete $1 of the annual income of the child (other than personal earnings of the child) in excess of 50% of the appropriate amount specified under that clause.3On and after 1 July 2018, in addition to the applicable rate in clause 1, a clothing allowance in respect of the child in the same amount or at the same rate as any clothing allowance specified under section 363 of the Oranga Tamariki Act 1989 for the rates of payment to persons or organisations in whose charge a child or young person is placed under section 362 of that Act.
 
 ### Part 5 — Unsupported child’s benefit
 
 ###
-The following table is small in size and contains 4 columns. The columns have no headings.1(a)In respect of a child aged 14 years or over$237.59 a week(b)In respect of a child aged over 10 years and under 14 years$219.11 a week(c)In respect of a child aged over 5 years and under 10 years$200.55 a week(d)In respect of a child aged under 5 years$175.71 a week2The amount specified in clause 1 must be diminished by $1 for every complete $1 of the annual income of the child (other than personal earnings of the child) in excess of 50% of the appropriate amount specified under that clause.3On and after 1 July 2018, in addition to the applicable rate in clause 1, a clothing allowance in respect of the child in the same amount or at the same rate as any clothing allowance specified under section 363 of the Oranga Tamariki Act 1989 for the rates of payment to persons or organisations in whose charge a child or young person is placed under section 362 of that Act.
+The following table is small in size and contains 4 columns. The columns have no headings.1(a)In respect of a child aged 14 years or over$262.59 a week(b)In respect of a child aged over 10 years and under 14 years$244.11 a week(c)In respect of a child aged over 5 years and under 10 years$225.55 a week(d)In respect of a child aged under 5 years$200.71 a week2The amount specified in clause 1 must be diminished by $1 for every complete $1 of the annual income of the child (other than personal earnings of the child) in excess of 50% of the appropriate amount specified under that clause.3On and after 1 July 2018, in addition to the applicable rate in clause 1, a clothing allowance in respect of the child in the same amount or at the same rate as any clothing allowance specified under section 363 of the Oranga Tamariki Act 1989 for the rates of payment to persons or organisations in whose charge a child or young person is placed under section 362 of that Act.
 
 ### Part 6 — Rates and component of youth payment and young parent payment, and criteria for incentive payments
 
