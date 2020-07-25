@@ -1,5 +1,5 @@
 # New Zealand Maori Arts and Crafts Institute Act 1963
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2020-07-25_
 
 > An Act to establish the New Zealand Maori Arts and Crafts Institute and to prescribe its functions and powers
 
