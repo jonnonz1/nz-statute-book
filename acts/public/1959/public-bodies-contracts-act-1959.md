@@ -1,5 +1,5 @@
 # Public Bodies Contracts Act 1959
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2020-07-25_
 
 > An Act to make provision for the making of contracts by local authorities and other public bodies
 
@@ -91,7 +91,6 @@ This Act may be cited as the Public Bodies Contracts Act 1959.
 | New Zealand Council for Educational Research | New Zealand Council for Educational Research Act 1972 (1972 No 35) |
 | New Zealand Film Commission | New Zealand Film Commission Act 1978 (1978 No 61) |
 | New Zealand Horticulture Export Authority | New Zealand Horticulture Export Authority Act 1987 (1987 No 93) |
-| New Zealand Maori Arts and Crafts Institute | New Zealand Maori Arts and Crafts Institute Act 1963 (1963 No 51) |
 | New Zealand Milk Board | Milk Act 1967 (1967 No 53) |
 | New Zealand Pork Industry Board | Pork Industry Board Act 1982 (1982 No 138) |
 | New Zealand Potato Board | Potato Industry Act 1977 (1977 No 77) |
