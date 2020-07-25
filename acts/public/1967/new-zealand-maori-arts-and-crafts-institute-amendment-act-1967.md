@@ -1,5 +1,5 @@
 # New Zealand Maori Arts and Crafts Institute Amendment Act 1967
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2020-07-25_
 
 > An Act to amend the Rotorua Maori Arts and Crafts Institute Act 1963
 
