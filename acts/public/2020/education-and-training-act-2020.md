@@ -356,7 +356,7 @@ The purpose of this Act is to establish and regulate an education system that—
     (a) the principal:
     (b) in the case of an early childhood service, the professional leader of the service:
     (c) in the case of any other educational institution, the chief executive or person occupying an equivalent position
-  - **programme** , in relation to an institution within the meaning of section 439(7), means a programme of study or training that leads to a qualification listed on the Qualifications Framework
+  - **programme** , in relation to an institution within the meaning of section 10(5)﻿(a), means a programme of study or training that leads to a qualification listed on the Qualifications Framework
   - **property** means real and personal property of every description
   - **proprietor** means the body corporate that—
     (a) has the primary responsibility for determining the special character of a private school or State integrated school and for supervising the maintenance of that special character; and
@@ -2106,7 +2106,7 @@ A board, by resolution, may specify additional standards of conduct for its memb
   (i) the dismissal of a board by the Minister and the appointment of a commissioner:
   (j) the dismissal of a board by the Secretary and the appointment of a commissioner.
 (2) The Secretary or the Minister may use an intervention only if the Secretary has reasonable grounds for concern about the operation of the school or the welfare or educational performance of its students.
-(3) The Secretary or the Minister may use an intervention described in subsection (1)﻿(d) to (j) in relation to a school only if the Secretary or the Minister has reasonable grounds to believe that there is a risk to the operation of the school or to the welfare or educational performance of its students.
+(3) The Secretary or the Minister may use an intervention described in subsection (1)﻿(g) to (i) in relation to a school only if the Secretary or the Minister has reasonable grounds to believe that there is a risk to the operation of the school or to the welfare or educational performance of its students.
 (4) The Secretary or the Minister may use an intervention described in subsection (1) in relation to a school if either of the following requests the intervention:
   (a) the board:
   (b) for a State integrated school, the school's proprietors.
@@ -2372,11 +2372,11 @@ This subpart concerns—
 (6) If a school is closed under this section,—
   (a) its board must be treated as having been dissolved; and
   (b) all assets, liabilities, and debts that the board had immediately before dissolution must be treated as assets, liabilities, and debts of the Minister.
-(7) Without limiting subsection (3)﻿(b), the following provisions apply to property that was, immediately before dissolution, held by the board in trust for the benefit of the school:
+(7) Without limiting subsection (6)﻿(b), the following provisions apply to property that was, immediately before dissolution, held by the board in trust for the benefit of the school:
   (a) the Minister may apply to Public Trust to devise a scheme to modify the trust for the benefit of another school:
   (b) if the Minister applies under paragraph (a), section 208(2) to (8) applies with any necessary modifications (as if the property were property to which that section applies).
 (8) A school that has been closed may not be reopened, except by being established again under this Act.
-(9) This section is subject to section 209 (which sets out consultation requirements) and clause 24 of Schedule 6.
+(9) This section is subject to section 209 (which sets out consultation requirements) and clause 22 of Schedule 6.
 
 ### 200 Minister may designate and redesignate schools
 (1) The Minister may, by notice in the Gazette, after consultation with the board of the affected school, do any of the following:
@@ -2520,7 +2520,7 @@ This subpart concerns—
   (f) closing a school under section 199:
   (g) redesignating, or removing a designation from, a school under section 200:
   (h) merging a school or schools with another under section 206.
-(3) Subsection (2)﻿(g) and (h) does not apply if the relevant boards have already been consulted on a closure or merger option as part of a review of the provision of schooling in a particular area.
+(3) Subsection (2)﻿(f) and (h) does not apply if the relevant boards have already been consulted on a closure or merger option as part of a review of the provision of schooling in a particular area.
 
 ### 210 Community education forums
 (1) The Minister may appoint a person to—
@@ -2906,7 +2906,7 @@ Any information collected by TEC or NZQA—
   (a) the types of student services described in subsection (1)﻿(c)﻿(i) must fall within the listed categories; and
   (b) the categories of student services described in subsection (1)﻿(c)﻿(ii) must be listed categories.
 (3) A direction given under subsection (1)—
-  (a) may include any of the things specified in subsection (1)﻿(a) to (e):
+  (a) may include any of the things specified in subsection (1):
   (b) must specify when the direction must be complied with.
 (4) If an institution does not comply with a direction given under subsection (1), the Minister may give a written direction to that institution specifying—
   (a) the types of student services that the institution may make available to students; and
@@ -4072,7 +4072,7 @@ The requirement that funds paid by or on behalf of a student be deposited with a
   (a) the types of student services described in subsection (1)﻿(c)﻿(i) must fall within the listed categories; and
   (b) the categories of student services described in subsection (1)﻿(c)﻿(ii) must be listed categories.
 (3) A direction given under subsection (1)—
-  (a) may include 1 or more of the things specified in subsection (1)﻿(a) to (e):
+  (a) may include 1 or more of the things specified in subsection (1):
   (b) must specify when it must be complied with.
 (4) If a registered establishment does not comply with a direction given under subsection (1), the Minister may give a written direction to that establishment specifying—
   (a) the types of student services that the establishment may make available to students; and
@@ -6310,7 +6310,7 @@ The submission in respect of any land or interest in land of a claim under secti
   (b) otherwise, the Secretary,—
 
 ### 574 Taxes and duties where disestablished institution incorporated into another institution
-(1) For the purposes of the Acts specified in the Schedule of the Tax Administration Act 1994 and any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge,—
+(1) For the purposes of the Acts specified in Schedule 1 of the Tax Administration Act 1994 and any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge,—
   (a) a disestablished institution referred to in section 573(5) and the other institution referred to in that section must be treated as being the same person with effect on and from the date on which the real and personal property of the disestablished institution vests in the other institution under that section; and
   (b) in respect of the liability under 1 or more of those enactments for, and the assessment, determination, or imposition of, taxes, duties, levies, or other charges accruing on and from the day on which the real and personal property of the disestablished institution so vests in the other institution, all transactions entered into by, and acts of, the disestablished institution before the vesting under section 573(5) must be treated as having been entered into by, or to be those of, the other institution and to have been entered into or performed by the other institution at the time when they were entered into or performed by the disestablished institution.
 (2) For the purposes of determining a matter referred to in subsection (3), shares held by a disestablished institution in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting under section 573(6) must be treated as having been acquired by the Minister at the time when they were acquired by the disestablished institution.
@@ -6322,7 +6322,7 @@ The submission in respect of any land or interest in land of a claim under secti
 (5) Nothing in subsection (2) or (4) limits the generality of subsection (1).
 
 ### 575 Taxes and duties in other cases
-(1) For the purposes of the Acts specified in the Schedule of the Tax Administration Act 1994 and any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge,—
+(1) For the purposes of the Acts specified in Schedule 1 of the Tax Administration Act 1994 and any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge,—
   (a) a disestablished institution referred to in section 573(6) and the Minister must be treated as being the same person with effect on and from the date on which the real and personal property of the disestablished institution vests in the Minister under that section; and
   (b) in respect of the liability under 1 or more of those enactments for, and the assessment, determination, or imposition of, taxes, duties, levies, or other charges accruing on and from the day on which the real and personal property of the disestablished institution so vests in the Minister, all transactions entered into by, and acts of, the disestablished institution before the vesting under section 573(6) must be treated as having been entered into by, or to be those of, the Minister and to have been entered into or performed by the Minister at the time when they were entered into or performed by the disestablished institution.
 (2) For the purposes of determining a matter referred to in subsection (3), shares held by a disestablished institution in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting under section 573(6) must be treated as having been acquired by the Minister at the time when they were acquired by the disestablished institution.
@@ -6405,10 +6405,10 @@ Despite section 583,—
 Except as otherwise provided in this subpart, the Employment Relations Act 2000 applies in relation to the education service.
 
 ### 586 Negotiation of conditions of employment
-(1) Except as provided in section 593, the State Services Commissioner is responsible for negotiating under the Employment Relations Act 2000 every collective agreement applicable to employees of the education service as if the Commissioner were the employer.
+(1) Except as provided in section 593, the State Services Commissioner is responsible for negotiating under the Employment Relations Act 2000 every collective agreement applicable to employees in the education service as if the Commissioner were the employer.
 (2) Without limiting subsection (1), for the purposes of initiating bargaining for a collective agreement, good-faith bargaining for a collective agreement, and entering into collective agreements,—
   (a) the State Services Commissioner has the same rights, duties, and obligations under the Employment Relations Act 2000 as the Commissioner would have if the Commissioner were the employer; and
-  (b) employees of the education service are to be treated as if they were all employees of the Commissioner.
+  (b) employees in the education service are to be treated as if they were all employees of the Commissioner.
 (3) Unless otherwise directed in writing by the State Services Commissioner, an employer in the education service may not lock out employees or suspend striking employees in relation to negotiations by the Commissioner for a collective agreement applicable to those employees.
 (4) The State Services Commissioner must conduct the negotiations—
   (a) with a union of which the employees are members; and
@@ -6473,8 +6473,8 @@ Except as otherwise provided in this subpart, the Employment Relations Act 2000 
 
 ### 591 Personal grievances and disputes
 Despite section 586,—
-  (a) in relation to a personal grievance, the employer is the employer as defined in subsection (2); and
-  (b) in relation to a dispute about the interpretation, application, or operation of any collective agreement, the employer is the employer as defined in subsection (2), acting, if the State Services Commissioner so requires, together or in consultation with the Commissioner; and
+  (a) in relation to a personal grievance, the employer is the employer as defined in section 10(7); and
+  (b) in relation to a dispute about the interpretation, application, or operation of any collective agreement, the employer is the employer as defined in section 10(7), acting, if the State Services Commissioner so requires, together or in consultation with the Commissioner; and
   (c) in relation to any other employment relationship problem (within the meaning of section 5 of the Employment Relations Act 2000), the employer is the employer as defined in section 10(7).
 
 ### 592 Delegation of State Services Commissioner's powers
@@ -8916,7 +8916,7 @@ In this schedule, unless the context otherwise requires,—
   - **allowance** means—
     (a) a bursary, grant, or scholarship:
     (b) an allowance established by regulations made under section 645, or identified by Gazette notice under clause 10
-  - **allowance information** means any information that the Ministry holds about a person who has applied for or has been granted an allowance
+  - **allowance information** means any information that MSD holds about a person who has applied for or has been granted an allowance
   - **beneficiary** means any person who is receiving, or has received, any benefit and includes an applicant for a benefit
   - **beneficiary information** means information held by MSD about a beneficiary
   - **benefit** means any of the following:
@@ -8936,7 +8936,7 @@ In this schedule, unless the context otherwise requires,—
   - **specified period** means any period specified in a notice under clause 8 or 9
   - **statutory allowance** means an allowance established by regulations made under section 645
   - **student loan** has the same meaning as in section 4(1) of the Student Loan Scheme Act 2011
-  - **student loan information** means information held by the Ministry for the purposes of the administration of the student loan scheme under the Student Loan Scheme Act 2011
+  - **student loan information** means information held by MSD for the purposes of the administration of the student loan scheme under the Student Loan Scheme Act 2011
   - **student loan scheme** has the same meaning as in section 4(1) of the Student Loan Scheme Act 2011
   - **tax file number** has the same meaning as in section YA 1 of the Income Tax Act 2007.
 
@@ -9616,7 +9616,7 @@ The returning officer must collect all validly completed ballot papers received 
   (c) the proportion of the validly completed ballot papers received by the returning officer at the closing date that are in favour of the proposal to impose the levy if the votes are weighted according to the size of the member of the industry that returned the ballot paper (calculated at the date on which the ballot closed and on the same basis as the levy is proposed to be charged as set out in the ballot paper).
 
 ### 12 Returning officer must keep ballot papers, etc
-The returning officer must take all reasonable steps to ensure that all ballot papers, envelopes, lists, and other documents used in connection with a ballot conducted under this Part are preserved and kept for a period of 1 year after the completion of the ballot.
+The returning officer must take all reasonable steps to ensure that all ballot papers, envelopes, lists, and other documents used in connection with a ballot conducted under this schedule are preserved and kept for a period of 1 year after the completion of the ballot.
 
 ### 13 Levy is payable by qualifying members to workforce development council
 If a levy order is made, the levy specified in the order is payable by every qualifying member of the levy group to the workforce development council named in the levy order.
@@ -10061,7 +10061,7 @@ A significant amendment made to a plan under clause 22—
 (4) A person may be reappointed as deputy chairperson for a further term.
 (5) The deputy chairperson may, without resigning as a member, resign from that office by written notice to the Minister (with a copy to the Teaching Council).
 (6) The notice of resignation must state the date on which the resignation takes effect.
-(7) The Minister may, after consultation with the person concerned, remove a chairperson of the Teaching Council from that office by written notice to the person (with a copy to the Teaching Council).
+(7) The Minister may, after consultation with the person concerned, remove a deputy chairperson of the Teaching Council from that office by written notice to the person (with a copy to the Teaching Council).
 (8) The notice of removal must state the date on which the removal takes effect.
 
 ### 8 Administrative provisions
@@ -10421,7 +10421,7 @@ The Secretary must, at least once every 3 years after the date on which an enrol
   (b) set out the manner in which vacancies are to be filled:
   (c) provide for the appointment of returning officers and set out their functions:
   (d) set out other formal and procedural provisions for the purposes of any election, appointment, or co-optation of board members.
-(2) While a notice under clause 4(1) that approves an alternative constitution is in force, clauses 1 to 4 and 6 of this schedule and clauses 1, 3, 8, 12, and 13 of Schedule 23 do not apply in respect of the board concerned and the schools governed by it.
+(2) While a notice under clause 4(1) that approves an alternative constitution is in force, sections 119 to 122, clauses 1 to 3 of this schedule and clauses 1, 3, 8, 12, and 13 of Schedule 23 do not apply in respect of the board concerned and the schools governed by it.
 (3) In their application to a board that has an alternative constitution under clause 4, the other clauses and any schedules of this Act relating to boards must be read subject to (and subject also to all modifications necessary to give effect to) clause 4 and to this clause.
 
 ### 6 Actions of boards not affected by informality in membership
