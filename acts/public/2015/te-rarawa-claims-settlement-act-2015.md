@@ -1,5 +1,5 @@
 # Te Rarawa Claims Settlement Act 2015
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Te Rarawa Claims Settlement Act 2015.
@@ -430,7 +430,7 @@ In this Act, unless the context otherwise requires,—
   (e) for the benefit of Te Rarawa or a representative entity.
 (2) The enactments are—
   (a) Part 3 of the Crown Forest Assets Act 1989:
-  (b) sections 211 to 213 of the Education Act 1989:
+  (b) sections 568 to 570 of the Education and Training Act 2020:
   (c) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990:
   (d) sections 27A to 27C of the State-Owned Enterprises Act 1986:
   (e) sections 8A to 8HJ of the Treaty of Waitangi Act 1975.
@@ -544,8 +544,8 @@ The fee simple estate in the Part former Awanui (Kaitaia) Riverbed vests in the 
 
 ### 30 Vesting and alternative description of Pukepoto School property in specified circumstances
 (1) In this section, Pukepoto School House site means the area labelled School House site on OTS-074-42 in part 2.2 of the attachments.
-(2) If the board of trustees of Pukepoto School relinquishes the beneficial interest it has in the Pukepoto School House site as provided for in clause 9.41 of the deed of settlement, section 29(2) and (3) applies, but in relation to the Pukepoto School property as described in Part 2 of Schedule 2.
-(3) However, if the board of trustees of Pukepoto School does not relinquish the beneficial interest it has in the Pukepoto School House site as provided for in clause 9.41 of the deed of settlement, section 29(2) and (3) applies in relation to the Pukepoto School property as described in Part 1 of Schedule 2.
+(2) If the board of Pukepoto School relinquishes the beneficial interest it has in the Pukepoto School House site as provided for in clause 9.41 of the deed of settlement, section 29(2) and (3) applies, but in relation to the Pukepoto School property as described in Part 2 of Schedule 2.
+(3) However, if the board of Pukepoto School does not relinquish the beneficial interest it has in the Pukepoto School House site as provided for in clause 9.41 of the deed of settlement, section 29(2) and (3) applies in relation to the Pukepoto School property as described in Part 1 of Schedule 2.
 
 ### 31 Rotokakahi property
 (1) The reservation of the Rotokakahi property as a local purpose reserve subject to the Reserves Act 1977 is revoked.
@@ -2331,7 +2331,7 @@ The RFR landowner may, by notice to the trustees of the 1 or more offer trusts, 
 (1) An RFR landowner may dispose of RFR land to—
   (a) the Crown; or
   (b) a Crown body.
-(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 143(5) or 206 of the Education Act 1989.
+(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 563 of the Education and Training Act 2020.
 
 ### 191 Disposal of existing public works to local authorities
 (1) An RFR landowner may dispose of RFR land that is a public work, or part of a public work, in accordance with section 50 of the Public Works Act 1981 to a local authority, as defined in section 2 of that Act.
