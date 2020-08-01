@@ -1,5 +1,5 @@
 # Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009.
@@ -256,7 +256,7 @@ In this Act, unless the context requires another meaning,—
 (2) The enactments are—
   (a) sections 8A to 8HJ of the Treaty of Waitangi Act 1975:
   (b) sections 27A to 27C of the State-Owned Enterprises Act 1986:
-  (c) sections 211 to 213 of the Education Act 1989:
+  (c) sections 568 to 570 of the Education and Training Act 2020:
   (d) Part 3 of the Crown Forest Assets Act 1989:
   (e) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990.
 (3) However, this section applies to—
@@ -602,7 +602,7 @@ The fee simple estate in the former Waiwhetu School site vests in the trustees.
 **Sites vest in fee simple subject to conservation covenant**
 
 ### 49 Bed of Lake Kohangatera and Lake Kohangatera esplanade land
-(1) The reservation of the Lake Kohangatera esplanade land as a local purpose (esplanade) reserve subject to section 23 of the Reserves Act 1977 is revoked.
+(1) The reservation of the Lake Kohangatera esplanade land as a local purpose (esplanade) reserve subject to section 23 of the Reserves Act 1977is revoked.
 (2) The fee simple estate in the Lake Kohangatera esplanade land vests in the Crown as Crown land subject to the Land Act 1948.
 (3) The reservation of Lake Kohangatera as a government purpose reserve for wildlife management purposes subject to section 22 of the Reserves Act 1977 is revoked.
 (4) The fee simple estate in the bed of Lake Kohangatera and the Lake Kohangatera esplanade land vests in the trustees.
@@ -1081,7 +1081,7 @@ An RFR landowner may dispose of RFR land in accordance with—
 ### 102 Disposals by the Crown under certain legislation
 The Crown may dispose of RFR land in accordance with—
   (a) section 54(1)﻿(d) of the Land Act 1948; or
-  (b) section 206 of the Education Act 1989; or
+  (b) section 563 of the Education and Training Act 2020; or
   (c) section 355(3), 355AA, or 355AB of the Resource Management Act 1991.
 
 ### 103 Disposals of land held for public works
