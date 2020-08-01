@@ -1,5 +1,5 @@
 # Education Amendment Act 2013
-_Consolidation as at 2013-06-12_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Education Amendment Act 2013.
@@ -16,41 +16,41 @@ This Act amends the Education Act 1989 (the principal Act).
 **Right to free primary and secondary education**
 
 ### 4 Section 2 amended (Interpretation)
-(1) In section 2(1), insert in their appropriate alphabetical order:.
+(1) In section 2(1), insert in their appropriate alphabetical order:
   - **partnership school contract** means a contract for the operation of a partnership school kura hourua entered into under section 158D and, in relation to a sponsor, means the partnership school contract to which the sponsor is a party
   - **partnership school kura hourua** means a school in respect of which—
     (a) the Minister has approved a sponsor under section 158B; and
     (b) a partnership school contract is in force
   - **primary partnership school kura hourua** means a partnership school kura hourua designated as a primary partnership school kura hourua by notice under section 158B
   - **sponsor** means a body approved by the Minister under section 158B to operate a partnership school kura hourua
-(2) In section 2(1), replace the definition of principal with:.
+(2) In section 2(1), replace the definition of principal with:
   - **principal** means the chief executive of a State school; and, in relation to a school, a person enrolled at the school, or the enrolment of a person at a school, means the principal of the school
-(3) In section 2(1), replace the definition of registered school with:.
+(3) In section 2(1), replace the definition of registered school with:
   - **registered school** means a school that is a State school, a partnership school kura hourua, or a school registered under section 35A
 
 ### 5 Section 3 amended (Right to free primary and secondary education)
 In section 3, after State school, insert or partnership school kura hourua.
 
 ### 6 Section 7A amended (Certain domestic students may be required to pay fees for tuition from correspondence schools)
-Replace section 7A(1)(ab) with:.
+Replace section 7A(1)﻿(ab) with:
   (ab) domestic student enrolled at a school registered under section 35A; or
 
 **Expulsion and exclusion of students and attendance at school**
 
 ### 7 Section 16 amended (Secretary's powers when excluded student younger than 16)
-(1) After section 16(1)(b), insert: .
+(1) After section 16(1)﻿(b), insert:
   (ba) arrange for and, if necessary, direct the sponsor of a partnership school kura hourua to enrol the student at the partnership school kura hourua; or
 (2) After section 16(2), insert:
-  (2A) The Secretary may not give a direction under subsection (1)(ba) unless—
+  (2A) The Secretary may not give a direction under subsection (1)﻿(ba) unless—
     (a) the student's parents agree to the direction; and
     (b) the Secretary has made all reasonable attempts to consult the student, the sponsor, and any other person or organisation that, in the opinion of the Secretary, may be interested in, or be able to advise on or help with, the student's education or welfare.
 (3) After section 16(4), insert:
-  (5) A sponsor must comply with a direction under subsection (1)(ba), and the direction overrides any enrolment process the partnership school kura hourua may have in place.
+  (5) A sponsor must comply with a direction under subsection (1)﻿(ba), and the direction overrides any enrolment process the partnership school kura hourua may have in place.
 
 ### 8 Section 17D amended (Re-enrolment of excluded or expelled student)
 (1) Replace section 17D(2) with:
-  (2) Subject to sections 16(1)(b) and 158R(1)(b), the board of a State school may refuse to enrol a student who is for the time being excluded or expelled (whether under section 15 or 17) from another State school or a partnership school kura hourua.
-(2) In section 17D(3)(a), after expelled, insert from a State school.
+  (2) Subject to sections 16(1)﻿(b) and 158R(1)﻿(b), the board of a State school may refuse to enrol a student who is for the time being excluded or expelled (whether under section 15 or 17) from another State school or a partnership school kura hourua.
+(2) In section 17D(3)﻿(a), after expelled, insert from a State school.
 (3) After section 17D(3), insert:
   (3A) The Secretary may, in the case of a student who has turned 16, direct the sponsor of a partnership school kura hourua to enrol the student at the school if—
     (a) the student has been expelled from a State school under section 17; and
@@ -86,19 +86,19 @@ Replace section 7A(1)(ab) with:.
 **Secondary-tertiary programmes**
 
 ### 11 Section 31B amended (Provider group for secondary-tertiary programme)
-After section 31B(1)(a)(i), insert:.
+After section 31B(1)﻿(a)﻿(i), insert:
   (ia) a sponsor of a partnership school kura hourua, other than a partnership school kura hourua that is only a primary partnership school kura hourua:
 
 ### 12 Section 31F amended (Recognition as lead provider of secondary-tertiary programme)
-After section 31F(a), insert:.
+After section 31F(a), insert:
   (ab) a sponsor of a partnership school kura hourua, other than a partnership school kura hourua that is only a primary partnership school kura hourua:
 
 ### 13 Section 31G amended (Lead provider to co-ordinate secondary-tertiary programme)
-After section 31G(2)(a), insert:.
+After section 31G(2)﻿(a), insert:
   (ab) a sponsor of a partnership school kura hourua, other than a partnership school kura hourua that is only a primary partnership school kura hourua:
 
 ### 14 Section 31I amended (Entry into secondary-tertiary programme)
-After section 31I(1)(b), insert:.
+After section 31I(1)﻿(b), insert:
   (ba) a partnership school kura hourua, other than a partnership school kura hourua that is only a primary partnership school kura hourua:
 
 **Multiple timetable arrangements**
@@ -169,20 +169,20 @@ Replace section 105A(1) with:
   (1C) Subsection (1B) does not apply if—
     (a) the alternative constitution is the successor constitution for a board that was appointed or elected under section 98(1); or
     (b) the alternative constitution is approved for a combined board before the date specified in a notice under section 110(1); or
-    (c) the alternative constitution is for the board of a continuing school and the Minister has given notice under section 156A(4)(b).
+    (c) the alternative constitution is for the board of a continuing school and the Minister has given notice under section 156A(4)﻿(b).
 
 ### 22 Section 110 amended (Boards may combine)
-Repeal section 110(1)(ba).
+Repeal section 110(1)﻿(ba).
 
 **Teacher registration**
 
 ### 23 Section 120 amended (Interpretation)
-(1) In section 120, definition of employer, after paragraph (a), insert:.
+(1) In section 120, definition of employer, after paragraph (a), insert:
   (ab) the sponsor of a partnership school kura hourua:
 (2) In section 120, definition of professional leader, paragraph (a), after school, insert other than a partnership school kura hourua.
-(3) In section 120, definition of professional leader, after paragraph (a), insert:.
+(3) In section 120, definition of professional leader, after paragraph (a), insert:
   (ab) in the case of a partnership school kura hourua, the person to whom the sponsor has assigned the role of supervising teaching practice:
-(4) In section 120, insert in their appropriate alphabetical order:.
+(4) In section 120, insert in their appropriate alphabetical order:
   - **partnership school kura hourua** has the meaning given by section 2(1)
   - **sponsor** has the meaning given by section 2(1)
 
@@ -194,21 +194,21 @@ In section 120A(2), after employer, insert , other than a sponsor,.
 (2) In section 120B(3), after No employer, insert , other than a sponsor,.
 
 ### 26 Section 137 amended (Offences)
-(1) In section 137(1)(fb), delete and the board of a State school, the managers of a school registered under section 35A, or the person or body who appoints staff at an early childhood education and care service,.
-(2) In section 137(1)(h), after an employer, insert other than a sponsor.
+(1) In section 137(1)﻿(fb), delete and the board of a State school, the managers of a school registered under section 35A, or the person or body who appoints staff at an early childhood education and care service,.
+(2) In section 137(1)﻿(h), after an employer, insert other than a sponsor.
 
 **Corporal punishment**
 
 ### 27 Section 139A amended (No corporal punishment in early childhood services or registered schools)
-(1) After section 139A(1)(b), insert:.
+(1) After section 139A(1)﻿(b), insert:
   (ba) is employed by the sponsor of a partnership school kura hourua at or in respect of the school; or
-(2) After section 139A(2)(b), insert:.
+(2) After section 139A(2)﻿(b), insert:
   (ba) on behalf of a sponsor of a partnership school kura hourua any student enrolled at or attending the school; or
 
 **Surrender and retention of property and searches**
 
 ### 28 New sections 139AAA to 139AAI inserted
-After section 139A, insert:Surrender and retention of propertySearches of clothing and bags or other containersRestrictions on searches under section 139AABLimitations on sections 139AAA and 139AABProhibitions on searches by contractorsRefusal to reveal, produce, or surrender item Power to search storage containers not affectedRules about surrender and retention of property and searchesGuidelines about surrender and retention of property and searches
+After section 139A, insert:Surrender and retention of propertySearches of clothing and bags or other containersRestrictions on searches under section 139AABLimitations on sections 139AAA and 139AABProhibitions on searches by contractorsRefusal to reveal, produce, or surrender itemPower to search storage containers not affectedRules about surrender and retention of property and searchesGuidelines about surrender and retention of property and searches
   (1) This section applies if a teacher or an authorised staff member has reasonable grounds to believe that a student has hidden or in clear view on or about the student's person, or in any bag or other container under the student's control, an item that is likely to—
     (a) endanger the safety of any person; or
     (b) detrimentally affect the learning environment.
@@ -219,9 +219,9 @@ After section 139A, insert:Surrender and retention of propertySearches of clothi
   (4) A teacher or an authorised staff member may do either or both of the following to an item surrendered under this section:
     (a) retain the item for a reasonable period:
     (b) dispose of the item (if appropriate).
-  (5) A teacher or an authorised staff member may retain a computer or other electronic device surrendered under subsection (3)(b) for a reasonable period.
+  (5) A teacher or an authorised staff member may retain a computer or other electronic device surrendered under subsection (3)﻿(b) for a reasonable period.
   (6) If an item or a computer or other electronic device is retained under this section, it must be stored in an appropriate manner.
-  (7) At the end of any period of retention, any computer or other electronic device, or any item that is not disposed of under subsection (4)(b), must be—
+  (7) At the end of any period of retention, any computer or other electronic device, or any item that is not disposed of under subsection (4)﻿(b), must be—
     (a) returned to the student; or
     (b) passed to another person or agency, as appropriate.
   (8) A teacher or an authorised staff member who exercises a power under this section must comply with any rules made under section 139AAH.
@@ -284,9 +284,9 @@ After section 139A, insert:Surrender and retention of propertySearches of clothi
     (a) providing for the keeping of written records relating to the use of the powers under section 139AAA; and
     (b) prescribing requirements relating to the keeping of written records under section 139AAB; and
     (c) prescribing the procedure for authorising staff members to exercise powers or carry out functions under sections 139AAA to 139AAI; and
-    (d) specifying the circumstances in which items may be disposed of under section 139AAA(4)(b); and
+    (d) specifying the circumstances in which items may be disposed of under section 139AAA(4)﻿(b); and
     (e) setting out requirements for the storage of items and computers and other electronic devices under section 139AAA(6); and
-    (f) making provision for the return of items and computers and other electronic devices under section 139AAA(7)(a).
+    (f) making provision for the return of items and computers and other electronic devices under section 139AAA(7)﻿(a).
   (2) Rules made under this section are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
   (1) The Secretary must issue guidelines for the exercise of powers and carrying out of functions under sections 139AAA to 139AAH.
   (2) Boards, principals, teachers, and authorised staff members must have regard to guidelines issued under subsection (1).
@@ -294,7 +294,7 @@ After section 139A, insert:Surrender and retention of propertySearches of clothi
 **Secretary may require information for proper administration of Act**
 
 ### 29 Section 144A amended (Secretary may require information for proper administration of Act)
-(1) After section 144A(1)(a), insert:.
+(1) After section 144A(1)﻿(a), insert:
   (ab) the sponsor of any partnership school kura hourua; or
 (2) In section 144A(1), after the board,, insert sponsor, in each place.
 
@@ -376,7 +376,7 @@ After section 158, insert:Partnership schools kura houruaInterpretationApproval 
     (a) objectives and performance standards for the sponsor in relation to the operation of the school; and
     (b) reporting requirements of the sponsor in relation to—
       (i) the objectives and performance standards of the sponsor under the contract; and
-      (ii) any relevant national standards published under section 60A(1)(ba); and
+      (ii) any relevant national standards published under section 60A(1)﻿(ba); and
     (c) the maximum roll of the school; and
     (d) the number or percentage of teaching positions (within the meaning of section 120) that must be filled by registered teachers or holders of limited authority to teach; and
     (e) the curriculum to be taught at the school; and
@@ -404,7 +404,7 @@ After section 158, insert:Partnership schools kura houruaInterpretationApproval 
   (2) A sponsor may not operate a partnership school kura hourua unless there is in place a partnership school contract between the Minister and the sponsor.
   A sponsor of a partnership school kura hourua must—
     (a) provide a safe physical and emotional environment for students; and
-    (b) ensure that the school delivers a curriculum that is in line with any foundation curriculum policy statements published under section 60A(1)(aa); and
+    (b) ensure that the school delivers a curriculum that is in line with any foundation curriculum policy statements published under section 60A(1)﻿(aa); and
     (c) assign the functions of the principal under the sections specified in section 158U(1) to an appropriately qualified person or to appropriately qualified persons; and
     (d) assign the role of supervising teaching practice to an appropriately qualified person; and
     (e) at intervals specified in the partnership school contract, inform parents of—
@@ -432,7 +432,7 @@ After section 158, insert:Partnership schools kura houruaInterpretationApproval 
     (b) affects the responsibility of the sponsor for the actions of any delegate acting under the delegation; or
     (c) is affected by any change in the constitution of the sponsor.
   (8) A delegation may be revoked at will by written notice to the delegate.
-  (9) A delegation under subsection (5)(b) may be revoked at will by written notice of the delegate to the subdelegate.
+  (9) A delegation under subsection (5)﻿(b) may be revoked at will by written notice of the delegate to the subdelegate.
   (1) On a date specified in the partnership school contract, a sponsor of a partnership school kura hourua must give to the Secretary annual financial statements relating to the school for the year ending on a date specified in the contract.
   (2) The financial statements must be prepared in accordance with the partnership school contract.
   (3) The financial statements must have been audited by a chartered accountant.
@@ -473,20 +473,20 @@ After section 158, insert:Partnership schools kura houruaInterpretationApproval 
     (a) the multiple timetable arrangement; and
     (b) the time periods for each day during which the affected student's timetable will run.
   (3) In this section, affected student and multiple timetable arrangement have the meanings given by section 25(8).
-  (1) If the Secretary is satisfied that the sponsor of a partnership school kura hourua has excluded a student who is younger than 16 from the school under section 15(1)(c) (as applied by section 158U), and that no person to whom the sponsor has assigned the functions of the principal under section 15(5) (as so applied) has arranged for the student to attend another school, the Secretary must,—
+  (1) If the Secretary is satisfied that the sponsor of a partnership school kura hourua has excluded a student who is younger than 16 from the school under section 15(1)﻿(c) (as applied by section 158U), and that no person to whom the sponsor has assigned the functions of the principal under section 15(5) (as so applied) has arranged for the student to attend another school, the Secretary must,—
     (a) if satisfied that it is appropriate for the student to return to the school from which the student has been excluded, lift the exclusion; or
     (b) arrange for and, if necessary, direct the board of a State school (that is not an integrated school) to enrol the student at the State school; or
     (c) arrange for and, if necessary, direct a sponsor of another partnership school kura hourua to enrol the student at the other school; or
     (d) direct a parent of the student to enrol the student at a correspondence school.
-  (2) The Secretary may not give a direction under subsection (1)(b), or lift an exclusion under subsection (1)(a), unless the Secretary has also made all reasonable attempts to consult the student, the student's parents, the board, and any other person or organisation that, in the opinion of the Secretary, may be interested in, or be able to advise on or help with, the student's education or welfare.
-  (3) The Secretary may not give a direction under subsection (1)(c) unless—
+  (2) The Secretary may not give a direction under subsection (1)﻿(b), or lift an exclusion under subsection (1)﻿(a), unless the Secretary has also made all reasonable attempts to consult the student, the student's parents, the board, and any other person or organisation that, in the opinion of the Secretary, may be interested in, or be able to advise on or help with, the student's education or welfare.
+  (3) The Secretary may not give a direction under subsection (1)﻿(c) unless—
     (a) the student's parents agree; and
     (b) the Secretary has made all reasonable attempts to consult the student, the sponsor, and any other person or organisation that, in the opinion of the Secretary, may be interested in, or be able to advise on or help with, the student's education or welfare.
-  (4) If the sponsor of the school from which the student has been excluded is also the sponsor of another school, the Secretary (in exercising the power conferred by subsection (1)(c)) may direct the sponsor to enrol the student at that other school.
-  (5) A board must comply with a direction under subsection (1)(b), and the direction overrides the provisions of any enrolment scheme the school may have in place.
-  (6) A sponsor must comply with a direction under subsection (1)(c), and the direction overrides the provisions of any enrolment scheme the school may have in place.
-  (1) The sponsor of a partnership school kura hourua from which a student has ever been excluded or expelled (whether under section 15 or 17 as applied by section 158U) may refuse to enrol the student at the school (unless, in the case of an exclusion, the Secretary has lifted the exclusion under section 158R(1)(a)).
-  (2) Subject to sections 16(1)(ba) and 158R(1)(c), the sponsor of a partnership school kura hourua may refuse to enrol a student who is for the time being excluded or expelled (whether under section 15 or 17 as applied by section 158U) from a State school or another partnership school kura hourua.
+  (4) If the sponsor of the school from which the student has been excluded is also the sponsor of another school, the Secretary (in exercising the power conferred by subsection (1)﻿(c)) may direct the sponsor to enrol the student at that other school.
+  (5) A board must comply with a direction under subsection (1)﻿(b), and the direction overrides the provisions of any enrolment scheme the school may have in place.
+  (6) A sponsor must comply with a direction under subsection (1)﻿(c), and the direction overrides the provisions of any enrolment scheme the school may have in place.
+  (1) The sponsor of a partnership school kura hourua from which a student has ever been excluded or expelled (whether under section 15 or 17 as applied by section 158U) may refuse to enrol the student at the school (unless, in the case of an exclusion, the Secretary has lifted the exclusion under section 158R(1)﻿(a)).
+  (2) Subject to sections 16(1)﻿(ba) and 158R(1)﻿(c), the sponsor of a partnership school kura hourua may refuse to enrol a student who is for the time being excluded or expelled (whether under section 15 or 17 as applied by section 158U) from a State school or another partnership school kura hourua.
   (3) The Secretary may, in the case of a student who has turned 16, direct the sponsor of another partnership school kura hourua to enrol the student at the school if—
     (a) the student has been expelled from a partnership school kura hourua under section 17 (as so applied); and
     (b) the student's parents agree to the enrolment; and
@@ -498,8 +498,8 @@ After section 158, insert:Partnership schools kura houruaInterpretationApproval 
     (a) undertake courses of education; or
     (b) obtain work experience; or
     (c) make visits.
-  (1) Sections 4 to 6, 13 to 15, 17 to 17C, 18 to 19, 25A (except subsection (1B)), 25AA, 25B, 27, 33, 78C to 78CD, and 139AAA to 139AAI (except section 139AAE(1)(a)) apply to partnership schools kura hourua with any necessary modifications.
-  (2) In their application to partnership schools kura hourua under subsection (1), sections 4 to 6, 13 to 15, 17 to 17C, 18 to 19, 25A (except subsection (1B)), 25AA, 25B, 27, 33, 78C to 78CD, and 139AAA to 139AAI (except section 139AAE(1)(a)) must be read as if—
+  (1) Sections 4 to 6, 13 to 15, 17 to 17C, 18 to 19, 25A (except subsection (1B)), 25AA, 25B, 27, 33, 78C to 78CD, and 139AAA to 139AAI (except section 139AAE(1)﻿(a)) apply to partnership schools kura hourua with any necessary modifications.
+  (2) In their application to partnership schools kura hourua under subsection (1), sections 4 to 6, 13 to 15, 17 to 17C, 18 to 19, 25A (except subsection (1B)), 25AA, 25B, 27, 33, 78C to 78CD, and 139AAA to 139AAI (except section 139AAE(1)﻿(a)) must be read as if—
     (a) any references to a State school were references to a partnership school kura hourua; and
     (b) any references to a board or a board of a State school were references to a sponsor; and
     (c) any references to a principal were references to the person or persons to whom a sponsor has assigned the function or functions of the principal under the section in question; and
@@ -527,11 +527,11 @@ After section 158, insert:Partnership schools kura houruaInterpretationApproval 
 **New Zealand Qualifications Authority**
 
 ### 32 Section 246 amended (Interpretation)
-In section 246, definition of relevant school, after paragraph (b), insert:.
+In section 246, definition of relevant school, after paragraph (b), insert:
   (ba) a partnership school kura hourua (as that term is defined in section 2(1)), other than a partnership school kura hourua that is only a primary partnership school kura hourua (as that term is defined in section 2(1)); or
 
 ### 33 Section 246A amended (Functions of Authority)
-In section 246A(1)(f), replace secondary schools with relevant schools.
+In section 246A(1)﻿(f), replace secondary schools with relevant schools.
 
 **Early childhood education and care centres**
 
@@ -542,7 +542,7 @@ Replace section 319J with:Centres situated on property owned by, or leased to, t
     (b) a lease or licence between a board and the service provider under section 70B of the Education Act 1989; or
     (c) a lease between a third party (to whom a lease has been granted by the Crown) and the service provider; or
     (d) an occupancy document notified to the service provider who operates the centre by the Secretary.
-  (2) If subsection (1)(d) applies to an early childhood education and care centre, the following provisions also apply:
+  (2) If subsection (1)﻿(d) applies to an early childhood education and care centre, the following provisions also apply:
     (a) the Secretary may direct the building of any capital works on that land that are intended for the centre's use:
     (b) the service provider who operates the centre must—
       (i) pay to the Secretary the rent for the time being charged by the Secretary; and
@@ -556,7 +556,7 @@ Replace section 319J with:Centres situated on property owned by, or leased to, t
 **National student numbers**
 
 ### 35 Section 342 amended (Interpretation)
-(1) In section 342, insert in its appropriate alphabetical order:.
+(1) In section 342, insert in its appropriate alphabetical order:
   - **early childhood service** means a licensed early childhood service (as defined in section 309)
 (2) In section 342, definition of education provider, paragraph (a), delete as defined in section 120.
 
@@ -567,7 +567,7 @@ After section 343(1), insert:
     (b) the child is likely to benefit from attending such a service.
 
 ### 37 Section 344 amended (Use of national student numbers)
-After section 344(2)(a), insert:.
+After section 344(2)﻿(a), insert:
   (ab) encouraging attendance at early childhood services:
 
 ### 38 Section 345 amended (Student may use or disclose own national student number)
@@ -592,7 +592,7 @@ Until the commencement of section 77(2) of the Legislation Act 2012, section 139
 
 ### 42 Amendment to Accident Compensation Act 2001
 (1) This section amends the Accident Compensation Act 2001.
-(2) In section 6(1), definition of place of education, replace paragraph (a)(i) with:.
+(2) In section 6(1), definition of place of education, replace paragraph (a)﻿(i) with:
   (i) a composite school or a secondary school as defined by section 2(1) of the Education Act 1989, or a secondary school registered under section 35A of the Education Act 1989, or a secondary partnership school kura hourua or composite partnership school kura hourua (within the meaning of section 158A of the Education Act 1989); and
 
 ### 43 Amendment to Births, Deaths, Marriages, and Relationships Registration Act 1995
@@ -601,23 +601,23 @@ Until the commencement of section 77(2) of the Legislation Act 2012, section 139
 
 ### 44 Amendments to Health Act 1956
 (1) This section amends the Health Act 1956.
-(2) In section 125(1), insert in its appropriate alphabetical order:.
+(2) In section 125(1), insert in its appropriate alphabetical order:
   - **partnership school kura hourua** has the meaning given by section 2(1) of the Education Act 1989
 (3) In section 125(2), after public school, insert , partnership school kura hourua,.
 
 ### 45 Amendments to Immigration Act 2009
 (1) This section amends the Immigration Act 2009.
 (2) In section 4, definition of compulsory education, paragraph (a), after integrated, insert , or at a partnership school kura hourua (within the meaning of section 2(1) of that Act).
-(3) In section 4, definition of course of study, paragraph (a)(i), after integrated, insert , or by a partnership school kura hourua (within the meaning of section 2(1) of that Act).
+(3) In section 4, definition of course of study, paragraph (a)﻿(i), after integrated, insert , or by a partnership school kura hourua (within the meaning of section 2(1) of that Act).
 
 ### 46 Amendment to Income Tax Act 2007
 (1) This section amends the Income Tax Act 2007.
-(2) After section CW 55BB(1)(b)(i), insert:.
+(2) After section CW 55BB(1)﻿(b)﻿(i), insert:
   (ia) a partnership school kura hourua (within the meaning of section 2(1) of the Education Act 1989):
 
 ### 47 Amendment to Local Government (Rating) Act 2002
 (1) This section amends the Local Government (Rating) Act 2002.
-(2) In Schedule 1, after clause 6(b)(v), insert:.
+(2) In Schedule 1, after clause 6(b)﻿(v), insert:
   (vi) a partnership school kura hourua (within the meaning of section 2(1) of the Education Act 1989), excluding any partnership school kura hourua that operates for profit:
 
 ### 48 Amendment to Official Information Act 1982
@@ -627,5 +627,5 @@ Until the commencement of section 77(2) of the Legislation Act 2012, section 139
 ### 49 Amendments to Ombudsmen Act 1975
 (1) This section amends the Ombudsmen Act 1975.
 (2) After section 2(4), insert:
-  (5) For the purposes of Part 2 of Schedule 1, a sponsor performs a standing-down, suspension, exclusion, or expulsion function if the sponsor performs a function under any of sections 14, 15, 16(1)(ba), and (5), 17 to 17C, 17D(3A), and (5), 18, 158R(1)(c), (4), and (6), and 158S(1) to (3) of the Education Act 1989 or under rules made under section 18AA of that Act.
-(3) In Schedule 1, Part 2, insert the following in its appropriate alphabetical order:sponsors (within the meaning of section 2(1) of the Education Act 1989) when performing a standing-down, suspension, exclusion, or expulsion function.
+  (5) For the purposes of Part 2 of Schedule 1, a sponsor performs a standing-down, suspension, exclusion, or expulsion function if the sponsor performs a function under any of sections 14, 15, 16(1)﻿(ba), and (5), 17 to 17C, 17D(3A), and (5), 18, 158R(1)﻿(c), (4), and (6), and 158S(1) to (3) of the Education Act 1989 or under rules made under section 18AA of that Act.
+(3) In Schedule 1, Part 2, insert the following in its appropriate alphabetical order:sponsors (within the meaning of section 2(1) of the Education Act 1989) when performing a standing-down, suspension, exclusion, or expulsion function
