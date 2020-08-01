@@ -1,5 +1,5 @@
 # Finance Act (No 2) 1992
-_Consolidation as at 1992-12-19_
+_Consolidation as at 2020-08-01_
 
 > An Act to make provision with respect to public finances and other matters
 
@@ -34,7 +34,7 @@ For the purposes of section 4,—
 (1) In this section,—
   - **authorised scheme** means any scheme whose preparation and carrying into effect was authorised under the empowering section
   - **the empowering section** means section 6 of the Maori Affairs Amendment Act 1974
-  - **the training Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of Part 21 of the Education Act 1989.
+  - **the training Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of subpart 5 of Part 5 of the Education and Training Act 2020.
 (2) Amendment(s) incorporated in the Act(s).
 (3) The repeal of the empowering section by subsection (2) does not limit or affect—
   (a) any direction given by the Minister of Maori Affairs—
@@ -54,7 +54,7 @@ For the purposes of section 4,—
   (b) all rights (including rights of ownership or possession), powers, duties, and liabilities of Te Puni Kokiri, any of its predecessor departments of State, or the chief executive of Te Puni Kokiri or any of its predecessor departments of State, under or in respect of the contract shall become rights, powers, duties, and liabilities of—to which the administration of the contract has been transferred.
     (i) the body corporate; or
     (ii) the chief executive of the department of State,—
-(7) The chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of Part 21 of the Education Act 1989 shall take all reasonably practicable steps to ensure that, as soon as is practicable after the publication in the Gazette of a notice under subsection (5), all parties to each contract the administration of which is transferred (other than a party specified in any of paragraphs (a) to (c) of that subsection) are given written notice of the publication of the notice and its effect.
+(7) The chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of subpart 5 of Part 5 of the Education and Training Act 2020 shall take all reasonably practicable steps to ensure that, as soon as is practicable after the publication in the Gazette of a notice under subsection (5), all parties to each contract the administration of which is transferred (other than a party specified in any of paragraphs (a) to (c) of that subsection) are given written notice of the publication of the notice and its effect.
 
 **Whitebait stands**
 
