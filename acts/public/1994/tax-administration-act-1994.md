@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2020-06-16_
+_Consolidation as at 2020-08-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -450,7 +450,7 @@ _Consolidation as at 2020-06-16_
     (g) gaming-machine duty:
     (h) income tax liability of portfolio investment entities to which section HM 42 or HM 43 of the Income Tax Act 2007 applies
   - **status ruling** means a ruling made under section 91GA
-  - **student allowance** means an allowance paid under regulations made under section 303 of the Education Act 1989
+  - **student allowance** means an allowance paid under regulations made under section 645 of the Education and Training Act 2020
   - **tax** —
     (a) means—but does not include—
       (i) a tax, levy, or duty of any type imposed by a tax law, regardless of how the tax, levy, or duty is described:
@@ -2799,8 +2799,8 @@ A life insurer (the transferor) that transfers a life insurance policy to anothe
     (ii) whose annual gross income for the tax year for which they last filed a return of income is more than $2,000,000:
   (j) a person in an accounting year who reasonably believes their annual gross income for the tax year that corresponds to the next accounting year will be more than $2,000,000:
   (k) a person who derives in a tax year an amount that is exempt income under sections CW 38(2), CW 38B(2), CW 39(2), CW 40 to CW 52, and CW 64 of the Income Tax Act 2007 in relation to their activities in the capacity in which they derive the exempt income:
-  (kb) a Board of Trustees that is constituted under Part 9 of the Education Act 1989 and is not carried on for the private pecuniary profit of any individual:
-  (kc) a tertiary education institution that is established under Part 14 of the Education Act 1989 and is not carried on for the private pecuniary profit of any individual:
+  (kb) a board that is constituted under subpart 5 of Part 3 of the Education and Training Act 2020 and is not carried on for the private pecuniary profit of any individual:
+  (kc) a tertiary education institution that is established under subpart 3 of Part 4 of the Education and Training Act 2020 and is not carried on for the private pecuniary profit of any individual:
   (kd) a tertiary education subsidiary that derives exempt income under section CW 55BA of the Income Tax Act 2007:
   (l) a person to whom section DV 8 of the Income Tax Act 2007 applies and who would, but for that section, have net income of an amount less than the amount set out in the section for their most recently ended accounting year.
 (3) The person must apply to the Commissioner, and the application must—
@@ -9993,6 +9993,11 @@ Section 18 does not prevent the Commissioner communicating to any Registrar, in 
 Section 18 does not prevent the Commissioner communicating to a person who is an employee of the Department of Internal Affairs or the Ministry of Health information that—
   (a) the person is authorised by the department or Ministry to receive; and
   (b) the Commissioner considers is not undesirable to disclose and is essential to enable the person to carry out any duty lawfully conferred on the person relating to the determination of the problem gambling levy rate.
+
+### 34A Department of Internal Affairs: offshore betting charges
+Section 18 does not prevent the Commissioner communicating information to a person who is an employee of the Department of Internal Affairs that—
+  (a) the person is authorised by the department to receive; and
+  (b) the Commissioner considers is not undesirable to disclose and is essential to enable the person to carry out any duty lawfully conferred on the person relating to offshore betting charges payable under subpart 1 of Part 5 of the Racing Industry Act 2020 and liable for GST.
 
 ### 35 NZ Film Commission: government screen production payments
 (1) Section 18 does not prevent the Commissioner communicating information to a person who is an officer, employee, or agent of the New Zealand Film Commission responsible for the administration of a scheme under which government screen production payments are made and who is authorised to receive the information by the chief executive of the New Zealand Film Commission.
