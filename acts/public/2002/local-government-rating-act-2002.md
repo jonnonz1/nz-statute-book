@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -279,7 +279,7 @@ A report complies with this section if—
     (i) in assessing rates for sewage disposal under section 9 in relation to the land referred to in clause 6(a) or (b) of Part 1 of Schedule 1; and
     (ii) in remitting those rates; and
   (c) in preparing the report, the Minister has consulted—
-    (i) the Minister responsible for the administration of Part 8 of the Education Act 1989; and
+    (i) the Minister responsible for the administration of Part 6 of the Education and Training Act 2020; and
     (ii) New Zealand Local Government Association Incorporated; and
     (iii) any other organisations that the Minister considers have a particular interest in the review; and
   (d) the report is presented to Parliament by the Minister.
@@ -1601,16 +1601,14 @@ Land owned or used by, and for the purposes of,—
 (e) the Royal New Zealand Foundation of the Blind, except as an endowment.
 
 ### 6
-Land owned or used by, and for the purposes of,—
-(a) a special school established under section 98(1) of the Education Act 1964:
-(b) an educational establishment defined as—
-  (i) a state school under section 2(1) of the Education Act 1989:
-  (ii) an integrated school under section 2(1) of the Private Schools Conditional Integration Act 1975:
-  (iii) a special institution under section 92(1) of the Education Act 1989:
-  (iv) an early childhood education and care centre under section 309 of the Education Act 1989, excluding any early childhood centres that operate for profit:
-  (v) a school under section 35A of the Education Act 1989, excluding any registered schools that operate for profit:
-  (vi)
-(c) an institution under section 159(1) of the Education Act 1989.
+Land owned or used by, and for the purposes of, any of the following as defined in section 10(1) of the Education and Training Act 2020:
+(a) a State school:
+(b) a State integrated school:
+(c) a specialist school:
+(d) a special institution:
+(e) an early childhood education and care centre, except an early childhood education and care centre that operates for profit:
+(f) a private school, except a registered school that operates for profit:
+(g) an institution.
 
 ### 7
 Land owned or used by, and for the purposes of, an institution for the instruction and training of students in theology and associated subjects, being land that does not exceed 1.5 hectares for any one institution.
