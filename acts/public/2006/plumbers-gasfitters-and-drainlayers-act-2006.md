@@ -1,5 +1,5 @@
 # Plumbers, Gasfitters, and Drainlayers Act 2006
-_Consolidation as at 2020-04-01_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Plumbers, Gasfitters, and Drainlayers Act 2006.
@@ -1557,7 +1557,7 @@ The Minister must present a copy of the annual report given to him or her under 
 ### 157 Minister may require output agreement to include matters relating to Board’s relationship with workforce development council
 (1) The Minister may require the output agreement referred to in section 156 to include matters relating to the Board’s relationship with any workforce development council.
 (2) The purpose of the matters referred to in subsection (1) is to assist the Board and the workforce development council to clarify, align, and manage their respective expectations and responsibilities in relation to their respective functions and powers.
-(3) In this section, workforce development council means a workforce development council established under section 479 of the Education Act 1989.
+(3) In this section, workforce development council means a workforce development council established under section 363 of the Education and Training Act 2020.
 
 ### 158 Annual financial statements and statement of responsibility
 (1) The Board must ensure that, within 3 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are—
