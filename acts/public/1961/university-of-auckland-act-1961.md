@@ -1,5 +1,5 @@
 # University of Auckland Act 1961
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2020-08-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the University of Auckland
 
@@ -9,13 +9,13 @@ _Consolidation as at 2010-11-29_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **assisted student** means a foreign student who is in New Zealand to study under an assistance programme administered by the New Zealand Government
-  - **the Council** means the Council of the University of Auckland constituted in accordance with Part 15 of the Education Act 1989
-  - **domestic student** means a person who is not a foreign student
-  - **exempt student** means a foreign student who—
+  - **assisted student** means an international student who is in New Zealand to study under an assistance programme administered by the New Zealand Government
+  - **the Council** means the Council of the University of Auckland constituted in accordance with subpart 3 of Part 4 of the Education and Training Act 2020
+  - **domestic student** means a person who is not an international student
+  - **exempt student** means an international student who—
     (a) is in New Zealand under an exchange programme approved by the New Zealand Government; or
     (b) is for the time being exempted under section 47B(2)
-  - **foreign student** means a person who is not a New Zealand citizen and is—
+  - **international student** means a person who is not a New Zealand citizen and is—
     (a) a person to whom section 15 or 16 of the Immigration Act 2009 applies; or
     (b) a person obliged by or under that Act or any other enactment to leave New Zealand immediately or within a specified time; or
     (c) treated for the purposes of that Act as being unlawfully in New Zealand
@@ -45,7 +45,7 @@ _Consolidation as at 2010-11-29_
   (b) being a graduate of the University of New Zealand, either by examination at any time or by reason of having been admitted ad eundem gradum before 1 January 1943, is not, by reason of that qualification, enrolled on the register of the Court of Convocation for any other University, and is otherwise qualified in accordance with statutes made by the Council to be enrolled on the register of the Court of Convocation of the University; or
   (c) not being such a graduate, is a professor or graduate full-time member of the staff of the University or a graduate member, approved by the Council as being of University status, of the staff of an institution affiliated to the University; or
   (d) is otherwise entitled in accordance with statutes made by the Council to have his name enrolled on the said register.
-(6) The power of the Council under section 194 of the Education Act 1989 to make statutes extends to making statutes for the keeping of the register of the Court of Convocation, which statutes may include provisions prescribing the persons and classes of persons who are eligible under paragraph (b) or paragraph (d) of subsection (5) for membership of the said Court of Convocation and the conditions (whether as to payment of fee or otherwise) on which persons are entitled to have their names enrolled in the register of the said court; and, subject to this Act and to the said statutes, if any, the said court shall have power to make such rules for the conduct of its business as it thinks fit and until rules governing its meetings are so made shall meet at such times and places as the Council may determine.
+(6) The power of the Council under section 284 of the Education and Training Act 2020 to make statutes extends to making statutes for the keeping of the register of the Court of Convocation, which statutes may include provisions prescribing the persons and classes of persons who are eligible under paragraph (b) or paragraph (d) of subsection (5) for membership of the said Court of Convocation and the conditions (whether as to payment of fee or otherwise) on which persons are entitled to have their names enrolled in the register of the said court; and, subject to this Act and to the said statutes, if any, the said court shall have power to make such rules for the conduct of its business as it thinks fit and until rules governing its meetings are so made shall meet at such times and places as the Council may determine.
 (7) The said court may make representations to the Council on any matter concerning the interests of the University.
 
 ### 5 Visitor of the University
