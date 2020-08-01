@@ -1,5 +1,5 @@
 # Education Act 1964
-_Consolidation as at 2019-05-14_
+_Consolidation as at 2020-08-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the education of the people of New Zealand
 
