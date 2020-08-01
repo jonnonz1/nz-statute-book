@@ -1,5 +1,5 @@
 # Education Legislation Act 2016
-_Consolidation as at 2016-10-28_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Education Legislation Act 2016.
