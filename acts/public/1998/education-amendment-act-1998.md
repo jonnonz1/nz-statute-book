@@ -1,5 +1,5 @@
 # Education Amendment Act 1998
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2020-08-01_
 
 > An Act to amend the Education Act 1989
 
@@ -25,8 +25,8 @@ _Consolidation as at 2007-09-03_
 (3) This section amended s 164(6) of the principal Act.
 
 ### 4 Powers of institutions
-(1) This subsection inserted s 192(2)(aa) of the principal Act.
-(2) This subsection amended s 192(2)(b)(ii) of the principal Act.
+(1) This subsection inserted s 192(2)﻿(aa) of the principal Act.
+(2) This subsection amended s 192(2)﻿(b)﻿(ii) of the principal Act.
 
 ### 5 Powers of Councils
-This section substituted s 193(2)(e) and inserted s 193(2)(ea) of the principal Act.
+This section substituted s 193(2)﻿(e) and inserted s 193(2)﻿(ea) of the principal Act.
