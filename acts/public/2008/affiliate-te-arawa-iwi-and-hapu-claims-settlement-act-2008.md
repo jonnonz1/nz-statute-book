@@ -1,5 +1,5 @@
 # Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2020-08-01_
 
 ## Preamble
 (1) The Affiliate (comprising the Iwi and Hapu of Te Arawa that are now affiliated to the Te Pumautanga o Te Arawa trust) traditionally operated as independent entities, coming together when prompted by common interests. Together they exercised customary interests within the approximately 1 150 000-acre area from the Bay of Plenty coast to the inland Rotorua lakes and into the interior to the Mamaku Ranges and Kaingaroa Forest. Other iwi and hapu also exercised customary interests within this area. The Affiliate engaged with the opportunities created by the arrival of Pakeha traders and missionaries in its rohe from the 1830s. By the late 1860s, however, few Pakeha had settled in the area, and the Affiliate still held almost all of its land in customary title:
@@ -130,7 +130,7 @@ In this Act, unless the context otherwise requires,—
     (ba) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) the days observed as the anniversaries of the provinces of Wellington and Auckland
   - **collective group** means any group that is—
-    (a) listed in section 11(1)(a); and
+    (a) listed in section 11(1)﻿(a); and
     (b) defined in Part 1 of Schedule 1
   - **commercial redress property** means—
     (a) the licensed land; and
@@ -160,16 +160,16 @@ In this Act, unless the context otherwise requires,—
       (ii) any amendments to the deed, its schedules, and attachments
   - **deferred selection property** means the fee simple estate in a property described in Part 1 of Schedule 5 of the deed of settlement
   - **Director-General** means the Director-General of Conservation
-  - **DOC protocol** means a protocol issued by the Minister of Conservation under section 21(1)(a) that—
+  - **DOC protocol** means a protocol issued by the Minister of Conservation under section 21(1)﻿(a) that—
     (a) sets out how the Department of Conservation and the trustees will interact in relation to matters specified in the protocol; and
-    (b) is in the form set out in Part 1 of Schedule 1 of the deed of settlement, or as the protocol is amended under section 21(1)(b)
+    (b) is in the form set out in Part 1 of Schedule 1 of the deed of settlement, or as the protocol is amended under section 21(1)﻿(b)
   - **DOC protocol area** means the area shown on the map attached to the DOC protocol in Part 1 of Schedule 1 of the deed of settlement, but excludes the DOC protocol area as defined in section 11 of the Te Arawa Lakes Settlement Act 2006
   - **effective date** means the date that is 6 months after the settlement date
   - **encumbrance** means a lease, tenancy, licence, licence to occupy, easement, covenant, or other right affecting a property
   - **esplanade land** has the meaning given to it in section 120
-  - **fisheries protocol** means a protocol issued by the Minister of Fisheries under section 21(1)(a) that—
+  - **fisheries protocol** means a protocol issued by the Minister of Fisheries under section 21(1)﻿(a) that—
     (a) sets out how the Ministry of Fisheries and the trustees will interact in relation to matters specified in the protocol; and
-    (b) is in the form set out in Part 1 of Schedule 1 of the deed of settlement, or as the protocol is amended under section 21(1)(b)
+    (b) is in the form set out in Part 1 of Schedule 1 of the deed of settlement, or as the protocol is amended under section 21(1)﻿(b)
   - **fisheries protocol area** means the area shown on the map attached to the fisheries protocol in Part 1 of Schedule 1 of the deed of settlement, together with the adjacent waters, but excludes the fisheries protocol area as defined in section 11 of the Te Arawa Lakes Settlement Act 2006
   - **geothermal resource** —
     (a) means the geothermal energy and geothermal water (within the meaning given to them in section 2(1) of the Resource Management Act 1991) located in the Rotorua region geothermal system; but
@@ -193,7 +193,7 @@ In this Act, unless the context otherwise requires,—
   - **local authority** has the meaning given to it in section 5(1) of the Local Government Act 2002
   - **MAF forest land** means the land described in Part 1 of Schedule 5 of the deed of settlement as Horohoro Forest
   - **Matawhaura (part of the Lake Rotoiti Scenic Reserve)** has the meaning given to it in section 118
-  - **member of the Affiliate** means every individual referred to in section 11(1)(b)
+  - **member of the Affiliate** means every individual referred to in section 11(1)﻿(b)
   - **national park management plan** means a management plan as defined in section 2 of the National Parks Act 1980
   - **New Zealand Conservation Authority** has the meaning given to it in section 49
   - **Ngati Makino settlement legislation** has the meaning given to it in section 118
@@ -211,9 +211,9 @@ In this Act, unless the context otherwise requires,—
   - **representative entity** means—
     (a) the trustees:
     (b) a person (including any trustees) acting for, or on behalf of,—
-      (i) 1 or more of the collective groups referred to in section 11(1)(a); or
-      (ii) 1 or more of the individuals referred to in section 11(1)(b); or
-      (iii) 1 or more of the iwi, hapu, whanau, or groups of individuals that together form a collective group referred to in section 11(1)(a)
+      (i) 1 or more of the collective groups referred to in section 11(1)﻿(a); or
+      (ii) 1 or more of the individuals referred to in section 11(1)﻿(b); or
+      (iii) 1 or more of the iwi, hapu, whanau, or groups of individuals that together form a collective group referred to in section 11(1)﻿(a)
   - **reserve site** has the meaning given to it in section 112(1)
   - **resource consent** has the meaning given to it in section 2(1) of the Resource Management Act 1991
   - **responsible department** means, as the case may be, one of the following departments of State:
@@ -239,9 +239,9 @@ In this Act, unless the context otherwise requires,—
   - **taonga tūturu** —
     (a) has the meaning given to it in section 2(1) of the Protected Objects Act 1975; and
     (b) includes ngā taonga tūturu (which has the meaning given to it in section 2(1) of that Act)
-  - **taonga tūturu protocol** means a protocol issued by the Minister for Arts, Culture and Heritage under section 21(1)(a) that—
+  - **taonga tūturu protocol** means a protocol issued by the Minister for Arts, Culture and Heritage under section 21(1)﻿(a) that—
     (a) sets out how the chief executive of the Ministry for Culture and Heritage will interact with the trustees in relation to the matters specified in that protocol; and
-    (b) is in the form set out in Part 1 of Schedule 1 of the deed of settlement, or as the protocol is amended under section 21(1)(b)
+    (b) is in the form set out in Part 1 of Schedule 1 of the deed of settlement, or as the protocol is amended under section 21(1)﻿(b)
   - **Te Arawa lakes** has the meaning given to it in section 11 of the Te Arawa Lakes Settlement Act 2006
   - **Te Ariki trust** has the meaning given to it in section 93(1)
   - **Te Pumautanga o Te Arawa trust** means the trust established by the Te Pumautanga o Te Arawa trust deed
@@ -306,7 +306,7 @@ In this Act, unless the context otherwise requires,—
     (i) all claims that relate exclusively to the Affiliate (or a representative entity), including those listed in Part 1 of Schedule 2; and
     (ii) in the case of claims that relate both to the Affiliate (or a representative entity) and others, the claims listed in Part 2 of Schedule 2.
 (2) However, Affiliate historical claims does not include the claims listed in Part 3 of Schedule 2.
-(3) Subsection (1)(a) is not limited by subsection (1)(b).
+(3) Subsection (1)﻿(a) is not limited by subsection (1)﻿(b).
 (4) To avoid doubt, Affiliate historical claims includes Wai 32 and Wai 94, but only the parts of those claims that—
   (a) relate to the Affiliate (or a representative entity); and
   (b) have not been settled by the deeds or agreements referred to in clauses 4 and 5 of Part 3 of Schedule 2.
@@ -346,7 +346,7 @@ Schedule 3 of the Treaty of Waitangi Act 1975 is amended by inserting the follow
 (2) The enactments are—
   (a) sections 8A to 8HJ of the Treaty of Waitangi Act 1975:
   (b) sections 27A to 27C of the State-Owned Enterprises Act 1986:
-  (c) sections 211 to 213 of the Education Act 1989:
+  (c) sections 568 to 570 of the Education and Training Act 2020:
   (d) Part 3 of the Crown Forest Assets Act 1989:
   (e) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990.
 (3) However, this section does not apply—
@@ -601,7 +601,7 @@ If a statutory acknowledgement relates to a river, the river—
 (1) Except as expressly provided in this subpart,—
   (a) a statutory acknowledgement, a geothermal statutory acknowledgement, or a deed of recognition does not affect, and may not be taken into account by, any person exercising a power or performing a function or duty under legislation or a bylaw:
   (b) no person, in considering a matter or making a decision or recommendation under legislation or a bylaw, may give greater or lesser weight to the association of the Affiliate with a statutory area (as described in section 27) or a geothermal resource (as described in section 36) than that person would give under the relevant legislation or bylaw if no statutory acknowledgement, geothermal statutory acknowledgement, or deed of recognition existed in respect of the statutory area or geothermal resource, as the case may be.
-(2) Subsection (1)(b) does not affect the operation of subsection (1)(a).
+(2) Subsection (1)﻿(b) does not affect the operation of subsection (1)﻿(a).
 
 ### 45 Rights not affected
 Except as expressly provided in this subpart, the statutory acknowledgement, geothermal statutory acknowledgement, or a deed of recognition does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
@@ -715,7 +715,7 @@ The purpose of, or classification of an area as, a national park, conservation a
   (b) the area concerned is disposed of by the Crown; or
   (c) the responsibility for managing the area concerned is transferred to another Minister of the Crown.
 (3) Subsection (4) applies if—
-  (a) either of subsection (2)(b) or (c) applies; or
+  (a) either of subsection (2)﻿(b) or (c) applies; or
   (b) there is a change in the statutory management regime that applies to all or part of the whenua rahui.
 (4) The Crown must take reasonable steps to ensure that the trustees continue to have input into the management of the whenua rahui, or that part of it affected by the disposal of the area or change in the management responsibility, through negotiation with the trustees by—
   (a) the Minister responsible for the new statutory management regime or regimes; or
@@ -988,19 +988,19 @@ In this Act, cultural redress property means any of the following sites, and eac
 ### 104 Rangitoto site
 (1) The reservation of the Rangitoto site as a scenic reserve subject to section 19 of the Reserves Act 1977 is revoked.
 (2) The fee simple estate in the Rangitoto site vests in the trustees.
-(3) The Rangitoto site is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) The Rangitoto site is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The reserve created by subsection (3) is named Rangitoto Scenic Reserve, despite section 16(10) of the Reserves Act 1977.
 
 ### 105 Sites on Paeroa Range
 (1) The reservation of the sites on Paeroa Range as a scenic reserve subject to section 19 of the Reserves Act 1977 is revoked.
 (2) The fee simple estate in the sites on Paeroa Range vests in the trustees.
-(3) The sites on Paeroa Range are declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) The sites on Paeroa Range are declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The reserve created by subsection (3) is named Ruatihi o Paeroa Scenic Reserve, despite section 16(10) of the Reserves Act 1977.
 
 ### 106 Wai-o-Tapu site
 (1) The reservation of the Wai-o-Tapu site as a scenic reserve subject to section 19 of the Reserves Act 1977 is revoked.
 (2) The fee simple estate in the Wai-o-Tapu site vests in the trustees.
-(3) The Wai-o-Tapu site is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) The Wai-o-Tapu site is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The reserve created by subsection (3) is named Wai-o-Tapu Scenic Reserve, despite section 16(10) of the Reserves Act 1977.
 (5) Subsections (1) to (4) are subject to the trustees granting a registrable right of way easement in favour of Lot 1 DPS 45063 over the area shown marked A on SO 395143 in the form set out in Part 5 of Schedule 2 of the deed of settlement.
 (6) An easement granted in accordance with subsection (5) is—
@@ -1097,8 +1097,8 @@ The vesting of each cultural redress property is subject to any encumbrances lis
     (vi) a school site under section 109(1); and
   (b) the marginal strip reserved by section 24 of the Conservation Act 1987 from the vesting of the Punaromia site under section 95(2) is reduced to a width of 10 metres; and
   (c) Part 4A of the Conservation Act 1987 does not apply to the vesting of the beds of Lakes Rotongata (Mirror Lake) and Rotoatua under section 101(2).
-(4) If the reservation, under this Part, of a reserve site is revoked in relation to all or part of the site, then the site’s vesting referred to in subsection (3)(a)(v) is no longer exempt from the rest of section 24 of the Conservation Act 1987 in relation to all or that part of the site, as the case may be.
-(5) If a lease referred to in section 109(2) (or a renewal of that lease) terminates, or expires without being renewed, in relation to all or part of a school site, then the site’s vesting referred to in subsection (3)(a)(vi) is no longer exempt from the rest of section 24 of the Conservation Act 1987 in relation to all or that part of the site, as the case may be.
+(4) If the reservation, under this Part, of a reserve site is revoked in relation to all or part of the site, then the site’s vesting referred to in subsection (3)﻿(a)﻿(v) is no longer exempt from the rest of section 24 of the Conservation Act 1987 in relation to all or that part of the site, as the case may be.
+(5) If a lease referred to in section 109(2) (or a renewal of that lease) terminates, or expires without being renewed, in relation to all or part of a school site, then the site’s vesting referred to in subsection (3)﻿(a)﻿(vi) is no longer exempt from the rest of section 24 of the Conservation Act 1987 in relation to all or that part of the site, as the case may be.
 
 ### 113 Recording application of Part 4A of Conservation Act 1987 and sections of this Act
 (1) The Registrar-General must record on the computer freehold register for—
@@ -1125,12 +1125,12 @@ The vesting of each cultural redress property is subject to any encumbrances lis
   (b) if only part of the site remains subject to such a lease (the leased part), amend the notifications on the computer freehold register for the site to record that, in relation to only the leased part,—
     (i) section 24 of the Conservation Act 1987 does not apply to that part; and
     (ii) that part is subject to section 112(5) of this Act.
-(5) The Registrar-General must comply with an application received in accordance with subsection (3)(a) or (4).
+(5) The Registrar-General must comply with an application received in accordance with subsection (3)﻿(a) or (4).
 
 ### 114 Application of Reserves Act 1977 to reserve sites
 (1) The trustees of the Te Pumautanga o Te Arawa trust are the administering body of a reserve site for the purposes of the Reserves Act 1977.
 (2) Sections 48A, 114, and 115 of the Reserves Act 1977 apply to a reserve site, despite sections 48A(6), 114(5), and 115(6) of that Act.
-(3) Sections 78(1)(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve site.
+(3) Sections 78(1)﻿(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve site.
 (4) If the reservation, under this Part, of a reserve site is revoked under section 24 of the Reserves Act 1977 in relation to all or part of the site, section 25 of that Act, except subsection (2), does not apply to the revocation.
 
 ### 115 Application of other enactments
@@ -1145,7 +1145,7 @@ The vesting of each cultural redress property is subject to any encumbrances lis
 (4) The permission of a council under section 348 of the Local Government Act 1974 is not required for laying out, forming, granting, or reserving a private road, private way, or right of way required to fulfil the terms of the deed of settlement in relation to a cultural redress property.
 
 ### 116 Application of certain payments
-(1) The Minister of Conservation may direct that any intra-Crown payment for a site listed in subsection (2) be paid and applied in the manner specified in section 82(1)(a) of the Reserves Act 1977.
+(1) The Minister of Conservation may direct that any intra-Crown payment for a site listed in subsection (2) be paid and applied in the manner specified in section 82(1)﻿(a) of the Reserves Act 1977.
 (2) The sites are—
   (a) Pateko Island:
   (b) Te Koutu Pa:
@@ -1203,7 +1203,7 @@ In this Act,—
 (1) This section takes effect on the Pikiao vesting date.
 (2) The reservation of Matawhaura (part of the Lake Rotoiti Scenic Reserve) as a scenic reserve subject to section 19 of the Reserves Act 1977 is revoked.
 (3) The fee simple estate in Matawhaura (part of the Lake Rotoiti Scenic Reserve) vests in the Pikiao entity.
-(4) Matawhaura (part of the Lake Rotoiti Scenic Reserve) is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(4) Matawhaura (part of the Lake Rotoiti Scenic Reserve) is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (5) The fee simple estate in Otari Pa vests in the Pikiao entity.
 (6) The statutory acknowledgement under section 27 ceases to apply in relation to Otari Pa.
 (7) The vesting of Matawhaura (part of the Lake Rotoiti Scenic Reserve) and Otari Pa is subject to any encumbrances that affect each property on the Pikiao vesting date.
@@ -1214,7 +1214,7 @@ In this Act,—
   (d) section 111(9) defined authorised person to mean a person authorised by—
     (i) the Director-General, in the case of Matawhaura (part of the Lake Rotoiti Scenic Reserve); or
     (ii) the chief executive of LINZ, in the case of Otari Pa; and
-  (e) Matawhaura (part of the Lake Rotoiti Scenic Reserve) were a reserve site, and the vesting of that reserve site were referred to in section 112(3)(a)(v).
+  (e) Matawhaura (part of the Lake Rotoiti Scenic Reserve) were a reserve site, and the vesting of that reserve site were referred to in section 112(3)﻿(a)﻿(v).
 (9) The Minister in Charge of Treaty of Waitangi Negotiations must, as soon as practicable after Matawhaura (part of the Lake Rotoiti Scenic Reserve) and Otari Pa vest in the Pikiao entity, notify the vesting and the date of vesting in the Gazette.
 
 **Karamuramu Baths land**
@@ -1239,10 +1239,10 @@ In sections 121 to 123,—
   (b) the setting aside of the esplanade land as an esplanade reserve; and
   (c) the special classification of the Karamuramu Baths land; and
   (d) the special classification of the esplanade land.
-(5) Subsection (4)(a) and (c) does not apply if the Karamuramu Baths land is set aside under subsection (2) on the day specified in subsection (1)(b).
+(5) Subsection (4)﻿(a) and (c) does not apply if the Karamuramu Baths land is set aside under subsection (2) on the day specified in subsection (1)﻿(b).
 
 ### 122 Karamuramu Baths land vests in trustees in fee simple
-(1) If the Karamuramu Baths land is set aside under section 121(2) on the day specified in section 121(1)(a), then the chief executive of the Rotorua District Council may, at any time, give written notice to the Director-General—
+(1) If the Karamuramu Baths land is set aside under section 121(2) on the day specified in section 121(1)﻿(a), then the chief executive of the Rotorua District Council may, at any time, give written notice to the Director-General—
   (a) that the Karamuramu Baths land is to vest in fee simple in the trustees; and
   (b) specifying the date of the vesting in the trustees, which must be 5 business days after the date that the notice is given.
 (2) Subsections (3) to (9) take effect on the earlier of—
@@ -1260,7 +1260,7 @@ In sections 121 to 123,—
   (a) the revocation of the esplanade reserve status of the Karamuramu Baths land; and
   (b) the cessation of the special classification of the Karamuramu Baths land; and
   (c) the vesting of the Karamuramu Baths land in the trustees.
-(9) Subsection (8)(a) and (b) does not apply if the Karamuramu Baths land is set aside under section 121(2) on the day specified in section 121(1)(b).
+(9) Subsection (8)﻿(a) and (b) does not apply if the Karamuramu Baths land is set aside under section 121(2) on the day specified in section 121(1)﻿(b).
 (10) To avoid doubt, Part 4A of the Conservation Act 1987 does not apply to the vesting of the Karamuramu Baths land under subsection (5).
 
 ### 123 Easement may be granted in favour of Karamuramu Baths land
@@ -1330,20 +1330,20 @@ In sections 121 to 123,—
 (2) The effect of subsection (1) is that—
   (a) the trustees are entitled to the rental proceeds payable since the commencement of the Crown forestry licence; and
   (b) all the provisions of the Crown forestry rental trust deed apply on the basis that the trustees are the confirmed beneficiaries.
-(3) The Crown must give notice under section 17(4)(b) of the Crown Forest Assets Act 1989 in respect of the Crown forestry licence, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land.
+(3) The Crown must give notice under section 17(4)﻿(b) of the Crown Forest Assets Act 1989 in respect of the Crown forestry licence, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land.
 (4) Notice given by the Crown under subsection (3) has effect as if—
-  (a) the Waitangi Tribunal had made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land; and
+  (a) the Waitangi Tribunal had made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land; and
   (b) the recommendation had become final on the settlement date.
 (5) The trustees are the licensors under the Crown forestry licence as if the licensed land had been returned to Maori ownership—
   (a) on the settlement date; and
   (b) under section 36 of the Crown Forest Assets Act 1989.
-(6) However, section 36(1)(b) of the Crown Forest Assets Act 1989 does not apply to the licensed land.
+(6) However, section 36(1)﻿(b) of the Crown Forest Assets Act 1989 does not apply to the licensed land.
 
 ### 130 Effect of transfer of licensed land
 (1) Section 129 applies whether or not, by the settlement date,—
   (a) the transfer of the fee simple estate in the licensed land has been registered; or
   (b) the processes described in clause 17.4 of the Crown forestry licence have been completed.
-(2) To the extent that the Crown has not completed the processes referred to in subsection (1)(b) before the settlement date, it must continue those processes—
+(2) To the extent that the Crown has not completed the processes referred to in subsection (1)﻿(b) before the settlement date, it must continue those processes—
   (a) after the settlement date; and
   (b) until the processes are completed.
 (3) For the period from the settlement date until the completion of the processes referred to in subsections (1) and (2), the licence fee payable under the Crown forestry licence in respect of the licensed land is the amount calculated in the manner described in clause 12.7 of the deed of settlement.
@@ -1428,7 +1428,7 @@ In sections 121 to 123,—
 (1) This subpart does not apply to the MAF forest land if—
   (a) the trustees fail to elect to purchase the MAF forest land under clause 12.18.2 of the deed of settlement; or
   (b) the agreement referred to in clause 12.20 of the deed of settlement is cancelled.
-(2) In subsection (1)(b), cancelled means cancelled in accordance with paragraph 11 of Part 5 of Schedule 5 of the deed of settlement.
+(2) In subsection (1)﻿(b), cancelled means cancelled in accordance with paragraph 11 of Part 5 of Schedule 5 of the deed of settlement.
 
 ## Schedule 1 — Definitions of each collective group that together constitute Affiliate, and other related definitions
 
@@ -1520,8 +1520,8 @@ The historical CNI forests land claims (as defined in section 4 of the Central N
 | Pateko Island | South Auckland Land District—Rotorua District2023 square metres, more or less, being Pateko Island. SO 21321/3. Part Proclamation 5125. |  |
 | Te Koutu Pa | South Auckland Land District—Rotorua District 3.1230 hectares, more or less, being Section 1 SO 384521. Part Gazette 1931 page 1685. |  |
 | Okataina Lodge site | South Auckland Land District—Rotorua District 1.5260 hectares, more or less, being Section 7 Block XVI Rotoiti Survey District. SO 47823 (formerly Section 5 Block XVI Rotoiti Survey District and Pt Okataina 4). Part Proclamation 8001 and Part computer freehold register SA1D/857. | Subject to the leasehold interest held in computer interest register SA23A/1000 referred to in section 91(4). Subject to the water pipeline easement in gross in favour of Her Majesty the Queen held in computer interest register SA23A/1001. Subject to the lease referred to in section 91(3). |
-| Okataina Outdoor Education Centre site | South Auckland Land District—Rotorua District 10.1905 hectares, more or less, being Sections 1 and 2 SO 384758. Part computer freehold register 356274 and Part Gazette 1931 page 1685. | Subject to the Western Okataina Walkway held in H.275294. |
-| Te Ariki site | South Auckland Land District—Rotorua District 44.9432 hectares, more or less, being Sections 1, 2, and 3 Block XII Tarawera Survey District, and Sections 1 and 2 SO 354515. Part Gazette 1908 pages 612 and 2086. | Subject to the management deed referred to in section 94(3)(a). Subject to the public walkway easement referred to in section 94(3)(b). Subject to the unregistered deed of lease dated 13 October 1999 granting Waimangu Volcanic Valley Limited the right to cross the land. |
+| Okataina Outdoor Education Centre site | South Auckland Land District—Rotorua District 10.1905 hectares, more or less, being Sections 1 and 2 SO 384758. Part computer freehold register 356274 and Part Gazette 1931 page 1685. | Subject to the Western Okataina Walkway held in H﻿.﻿275294. |
+| Te Ariki site | South Auckland Land District—Rotorua District 44.9432 hectares, more or less, being Sections 1, 2, and 3 Block XII Tarawera Survey District, and Sections 1 and 2 SO 354515. Part Gazette 1908 pages 612 and 2086. | Subject to the management deed referred to in section 94(3)﻿(a). Subject to the public walkway easement referred to in section 94(3)﻿(b). Subject to the unregistered deed of lease dated 13 October 1999 granting Waimangu Volcanic Valley Limited the right to cross the land. |
 | Punaromia site | South Auckland Land District—Rotorua District 10.1520 hectares, more or less, being Section 1 SO 384376. Part Gazette 1906 page 2996. |  |
 
 | Name of site | Legal description | Encumbrances |
@@ -1537,9 +1537,9 @@ The historical CNI forests land claims (as defined in section 4 of the Central N
 
 | Name of site | Legal description | Encumbrances |
 | --- | --- | --- |
-| Rangitoto site | South Auckland Land District—Rotorua District46.2200 hectares, more or less, being Section 1 SO 389001. Part computer freehold register 356274. | To be administered as a scenic reserve subject to section 19(1)(a) of the Reserves Act 1977. Subject to the unregistered licence to Rotorua VHF Marine Radio Association Incorporated held in TEL 008 dated 24 August 1998. Subject to the Western Okataina Walkway held in GN H.275294. |
-| Sites on Paeroa Range | South Auckland Land District—Rotorua District 42.0495 hectares, more or less, being Section 1 SO 389459. Part Gazette 1989 page 3398. 41.5743 hectares, more or less, being Section 1 SO 387596. Part Gazette 1911 page 1577. | To be administered as a scenic reserve subject to section 19(1)(a) of the Reserves Act 1977. Subject to the right of Kordia Limited (formerly known as Broadcast Communications Limited) to construct, maintain, and use a track, as described in an unregistered National Deed for Existing Telecommunication Sites dated 22 November 1993 between the Crown and Broadcast Communications Limited. Subject to the right of Kordia Limited (formerly known as Broadcast Communications Limited) to construct, maintain, and use overhead and underground power cables. |
-| Wai-o-Tapu site | South Auckland Land District—Rotorua District 125.4319 hectares, more or less, being Sections 1 and 2 SO 395143 and Sections 7, 9, 12, and 18 Block VII Paeroa Survey District. Balance GN S550285. | To be administered as a scenic reserve subject to section 19(1)(a) of the Reserves Act 1977. Subject to the right of way easement referred to in section 106(5).Subject to the unregistered lease to Waiotapu Thermal Tourist Park Limited, which was granted by deed of renewal dated 25 September 2000 and incorporating the terms of the lease dated 22 October 1969. |
+| Rangitoto site | South Auckland Land District—Rotorua District46.2200 hectares, more or less, being Section 1 SO 389001. Part computer freehold register 356274. | To be administered as a scenic reserve subject to section 19(1)﻿(a) of the Reserves Act 1977. Subject to the unregistered licence to Rotorua VHF Marine Radio Association Incorporated held in TEL 008 dated 24 August 1998. Subject to the Western Okataina Walkway held in GN H﻿.﻿275294. |
+| Sites on Paeroa Range | South Auckland Land District—Rotorua District 42.0495 hectares, more or less, being Section 1 SO 389459. Part Gazette 1989 page 3398. 41.5743 hectares, more or less, being Section 1 SO 387596. Part Gazette 1911 page 1577. | To be administered as a scenic reserve subject to section 19(1)﻿(a) of the Reserves Act 1977. Subject to the right of Kordia Limited (formerly known as Broadcast Communications Limited) to construct, maintain, and use a track, as described in an unregistered National Deed for Existing Telecommunication Sites dated 22 November 1993 between the Crown and Broadcast Communications Limited. Subject to the right of Kordia Limited (formerly known as Broadcast Communications Limited) to construct, maintain, and use overhead and underground power cables. |
+| Wai-o-Tapu site | South Auckland Land District—Rotorua District 125.4319 hectares, more or less, being Sections 1 and 2 SO 395143 and Sections 7, 9, 12, and 18 Block VII Paeroa Survey District. Balance GN S550285. | To be administered as a scenic reserve subject to section 19(1)﻿(a) of the Reserves Act 1977. Subject to the right of way easement referred to in section 106(5).Subject to the unregistered lease to Waiotapu Thermal Tourist Park Limited, which was granted by deed of renewal dated 25 September 2000 and incorporating the terms of the lease dated 22 October 1969. |
 
 | Name of site | Legal description | Encumbrances |
 | --- | --- | --- |
@@ -1548,11 +1548,11 @@ The historical CNI forests land claims (as defined in section 4 of the Central N
 
 | Name of site | Legal description | Encumbrances |
 | --- | --- | --- |
-| Rotokawa School | South Auckland Land District—Rotorua District2.4281 hectares, more or less, being Section 4 Block XIV Rotoiti Survey District. Part Proclamation S.544775. | Subject to a lease referred to in section 109(2). |
-| Lynmore Primary School | South Auckland Land District—Rotorua District 3.9940 hectares, more or less, being Lots 1 to 16, 56, and 76 DPS 8. All Proclamation S.31525 and Part GN S.61376. | Subject to a lease referred to in section 109(2). |
-| Mokoia Intermediate School/Owhata School | South Auckland Land District—Rotorua District 6.0703 hectares, more or less, being Section 1 SO 41638. All Proclamation S.241230. | Subject to a lease referred to in section 109(2). |
-| Ngongotaha School | South Auckland Land District—Rotorua District 2.8101 hectares, more or less, being Lots 46 to 51 DP 18362, Section 1 SO 37126, Section 1 SO 37238, and Part Section 1 Block XVI Rotorua Survey District. All computer interest register 310488. All computer freehold register SA279/276. All Proclamation S.94569 and All Proclamation S.89694. | Subject to a lease referred to in section 109(2). |
-| Horohoro School | South Auckland Land District—Rotorua District 2.5243 hectares, more or less, being Section 1 SO 406235. Balance GN S.279834. | Subject to a lease referred to in section 109(2). |
+| Rotokawa School | South Auckland Land District—Rotorua District2.4281 hectares, more or less, being Section 4 Block XIV Rotoiti Survey District. Part Proclamation S﻿.﻿544775. | Subject to a lease referred to in section 109(2). |
+| Lynmore Primary School | South Auckland Land District—Rotorua District 3.9940 hectares, more or less, being Lots 1 to 16, 56, and 76 DPS 8. All Proclamation S﻿.﻿31525 and Part GN S﻿.﻿61376. | Subject to a lease referred to in section 109(2). |
+| Mokoia Intermediate School/Owhata School | South Auckland Land District—Rotorua District 6.0703 hectares, more or less, being Section 1 SO 41638. All Proclamation S﻿.﻿241230. | Subject to a lease referred to in section 109(2). |
+| Ngongotaha School | South Auckland Land District—Rotorua District 2.8101 hectares, more or less, being Lots 46 to 51 DP 18362, Section 1 SO 37126, Section 1 SO 37238, and Part Section 1 Block XVI Rotorua Survey District. All computer interest register 310488. All computer freehold register SA279/276. All Proclamation S﻿.﻿94569 and All Proclamation S﻿.﻿89694. | Subject to a lease referred to in section 109(2). |
+| Horohoro School | South Auckland Land District—Rotorua District 2.5243 hectares, more or less, being Section 1 SO 406235. Balance GN S﻿.﻿279834. | Subject to a lease referred to in section 109(2). |
 | Lake Rotoma School | South Auckland Land District—Rotorua District1.5996 hectares, more or less, being Lot 1 DP 34929 and Section 5 Block X Rotoma Survey District. All computer freehold register SA900/237 and Part Gazette 1937 page 1137. | Subject to a lease referred to in section 109(2). |
 
 ## Schedule 7 — Other land related to cultural redress properties
