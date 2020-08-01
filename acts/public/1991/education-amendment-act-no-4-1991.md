@@ -1,5 +1,5 @@
 # Education Amendment Act (No 4) 1991
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2020-08-01_
 
 > An Act to amend the Education Act 1989
 
@@ -23,7 +23,7 @@ _Consolidation as at 2007-09-03_
 
 ### 5 New Zealand citizens and residents between 6 and 16 to go to school
 (1) This subsection amended section 20(1) of the principal Act.
-(2) This subsection amended sections 7A(1)(a), 16 to 18, 28(2)(b), 30 and 31(4) of the principal Act.
+(2) This subsection amended sections 7A(1)﻿(a), 16 to 18, 28(2)﻿(b), 30 and 31(4) of the principal Act.
 (3)
 (4) Sections 20(1) and 30 of the principal Act (as amended, respectively, by subsections (1) and (2) of this section) shall apply to every person who—as if that person has turned 16.
   (a) Turned 15 in 1992; and
@@ -46,7 +46,7 @@ _Consolidation as at 2007-09-03_
 (3) This subsection substituted section 61(2) of the principal Act.
 (4) This subsection substituted section 61(12) of the principal Act.
 (5) All national education guidelines under section 60 of the principal Act that were in force immediately before the commencement of this Act shall continue in force as if they are national administration guidelines; but may be amended or revoked accordingly.
-(6) Section 6(2)(c) of the Education Amendment Act 1991 is hereby consequentially repealed.
+(6) Section 6(2)﻿(c) of the Education Amendment Act 1991 is hereby consequentially repealed.
 
 ### 10
 [Repealed]
@@ -79,10 +79,10 @@ _Consolidation as at 2007-09-03_
 [Repealed]
 
 ### 19 Certain persons ineligible to be trustees
-(1) This subsection inserted section 103(1)(da) of the principal Act.
-(2) This subsection amended section 103(1)(e)(ii) of the principal Act.
+(1) This subsection inserted section 103(1)﻿(da) of the principal Act.
+(2) This subsection amended section 103(1)﻿(e)﻿(ii) of the principal Act.
 (3) This subsection inserted section 203(2A) of the principal Act.
-(4) No parent representative who, immediately before the commencement of this section, was a member of the Board staff shall go out of office by virtue of section 103(1)(da) of the principal Act (as inserted by subsection (1) of this section).
+(4) No parent representative who, immediately before the commencement of this section, was a member of the Board staff shall go out of office by virtue of section 103(1)﻿(da) of the principal Act (as inserted by subsection (1) of this section).
 
 ### 20
 [Repealed]
