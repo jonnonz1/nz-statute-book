@@ -1,5 +1,5 @@
 # Parental Leave and Employment Protection Act 1987
-_Consolidation as at 2020-07-01_
+_Consolidation as at 2020-08-01_
 
 > Title
 
@@ -126,12 +126,11 @@ An employee's entitlement to rights and benefits in respect of parental leave mu
 (4) This section overrides section 2A.
 
 ### 2AC Multiple employments of teachers
-(1) For the purposes of determining the entitlement of a teacher to rights and benefits in respect of parental leave, if, during a 12-month period (or 6-month period as the case may be), the teacher is employed by more than 1 board of trustees to work in more than 1 State school or integrated school (whether concurrently or consecutively), those employments must be treated as 1 employment.
+(1) For the purposes of determining the entitlement of a teacher to rights and benefits in respect of parental leave, if, during a 12-month period (or 6-month period as the case may be), the teacher is employed by more than 1 board to work in more than 1 State school or integrated school (whether concurrently or consecutively), those employments must be treated as 1 employment.
 (2) In subsection (1),—
-  - **board of trustees** means a board of trustees constituted under Part 9 of the Education Act 1989
-  - **integrated school** has the same meaning as in section 145 of the Education Act 1989
-  - **State school** has the same meaning as in section 2(1) of the Education Act 1989
-  - **teacher** has the same meaning as in section 91A of the Education Act 1989.
+  - **board** means a board constituted under subpart 5 of Part 3 of the Education and Training Act 2020
+  - **integrated school** has the same meaning as State integrated school in section 10(1) of the Education and Training Act 2020
+  - **State school** and have the same meanings as in section 10(1) of the Education and Training Act 2020.
 (3) This section overrides section 2A.
 
 ### 2AD Concurrent employment and self-employment
