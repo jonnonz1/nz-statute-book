@@ -1,5 +1,5 @@
 # Summary Offences Act 1981
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2020-08-01_
 
 > An Act to reform and restate the law relating to summary offences, and to replace the Police Offences Act 1927 and its amendments
 
@@ -181,8 +181,8 @@ Every person is liable to imprisonment for a term not exceeding 3 months or a fi
 (1) A person who sells a spraycan to a person under the age of 18 years is liable to a fine not exceeding $1,500.
 (2) In any proceedings for an offence against subsection (1) in respect of selling a spraycan to a person (the buyer), it is a defence if the defendant proves that—
   (a) the defendant is—
-    (i) a Board (within the meaning of section 2(1) of the Education Act 1989), or an employee of a Board; or
-    (ii) the governing body of a tertiary education provider (within the meaning of section 159(1) of the Education Act 1989), or an employee of a tertiary education provider; and
+    (i) a Board (within the meaning of section 10(1) of the Education and Training Act 2020), or an employee of a Board; or
+    (ii) the governing body of a tertiary education provider (within the meaning of section 10(1) of the Education and Training Act 2020), or an employee of a tertiary education provider; and
   (b) when the spraycan was sold, the buyer was enrolled at a school or institution managed by the Board or tertiary education provider; and
   (c) the spraycan was sold to the buyer to enable him or her to undertake the work of his or her course at the school or institution, or to complete an assignment or project for the school or institution.
 (3) In any proceedings for an offence against subsection (1) in respect of selling a spraycan to a person (the buyer), it is a defence if the defendant proves that,—
