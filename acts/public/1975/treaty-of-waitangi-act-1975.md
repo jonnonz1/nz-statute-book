@@ -1,5 +1,5 @@
 # Treaty of Waitangi Act 1975
-_Consolidation as at 2019-08-01_
+_Consolidation as at 2020-08-01_
 
 > An Act to provide for the observance, and confirmation, of the principles of the Treaty of Waitangi by establishing a Tribunal to make recommendations on claims relating to the practical application of the Treaty and to determine whether certain matters are inconsistent with the principles of the Treaty
 
@@ -51,7 +51,7 @@ The appointment of a Judge as Chairperson, the deputy of the Chairperson, or as 
 ### 5 Functions of Tribunal
 (1) The functions of the Tribunal shall be—
   (a) to inquire into and make recommendations upon, in accordance with this Act, any claim submitted to the Tribunal under section 6:
-  (aa) to make recommendations, in accordance with section 8D, that land or interests in land be no longer subject to resumption under section 27B of the State-Owned Enterprises Act 1986 or section 212 of the Education Act 1989:
+  (aa) to make recommendations, in accordance with section 8D, that land or interests in land be no longer subject to resumption under section 27B of the State-Owned Enterprises Act 1986 or section 569 of the Education and Training Act 2020:
   (ab) to make any recommendation or determination that the Tribunal is required or empowered to make under Schedule 1 of the Crown Forest Assets Act 1989:
   (ac) to make recommendations in accordance with section 8HE that land, or any part of any land, that is subject to a Crown forestry licence under the Crown Forest Assets Act 1989, be no longer liable to be returned to Maori ownership under section 36 of that Act:
   (ad) to make recommendations in accordance with section 8D (as applied by section 8HJ) that land or any interest in land that, immediately before being vested in a Crown transferee company pursuant to section 6 of the New Zealand Railways Corporation Restructuring Act 1990, was land owned by the Crown or an interest owned by the Crown in land, be no longer subject to resumption under section 39 of that Act:
@@ -161,23 +161,23 @@ The appointment of a Judge as Chairperson, the deputy of the Chairperson, or as 
 ### 8A Recommendations in respect of land transferred to or vested in State enterprise
 (1) This section applies in relation to—
   (a) any land or interest in land transferred to a State enterprise under section 23 of the State-Owned Enterprises Act 1986 or vested in a State enterprise by a notice in the Gazette under section 24 of that Act or by an Order in Council made under section 28 of that Act, whether or not the land or interest in land is still vested in a State enterprise:
-  (b) any land or interest in land transferred to an institution within the meaning of section 159 of the Education Act 1989 under section 207 of that Act or vested in such an institution by an Order in Council made under section 215 of that Act, whether or not the land or interest in land is still vested in that institution.
+  (b) any land or interest in land transferred to an institution within the meaning of section 10(1) of the Education and Training Act 2020 under section 564 of that Act or vested in such an institution by an Order in Council made under section 572 of that Act, whether or not the land or interest in land is still vested in that institution.
 (2) Subject to section 8B, where a claim submitted to the Tribunal under section 6 relates in whole or in part to land or an interest in land to which this section applies, the Tribunal may,—
   (a) if it finds—include in its recommendation under section 6(3), a recommendation that that land or that part of that land or that interest in land be returned to Maori ownership (which recommendation shall be on such terms and conditions as the Tribunal considers appropriate and shall identify the Maori or group of Maori to whom that land or that part of that land or that interest in land is to be returned); or
     (i) that the claim is well-founded; and
     (ii) that the action to be taken under section 6(3) to compensate for or remove the prejudice caused by the ordinance or Act, or the regulations, order, proclamation, notice, or other statutory instrument, or the policy or practice, or the act or omission that was inconsistent with the principles of the Treaty, should include the return to Maori ownership of the whole or part of that land or of that interest in land,—
-  (b) if it finds—recommend to the Minister within the meaning of section 4 of the Cadastral Survey Act 2002 that that land or that part of that land or that interest in land be no longer subject to resumption under section 27B of the State-Owned Enterprises Act 1986 or section 212 of the Education Act 1989; or
+  (b) if it finds—recommend to the Minister within the meaning of section 4 of the Cadastral Survey Act 2002 that that land or that part of that land or that interest in land be no longer subject to resumption under section 27B of the State-Owned Enterprises Act 1986 or section 569 of the Education and Training Act 2020; or
     (i) that the claim is well-founded; but
     (ii) that a recommendation for return to Maori ownership is not required, in respect of that land or any part of that land or that interest in land, by paragraph (a)﻿(ii),—
-  (c) if it finds that the claim is not well-founded, recommend to the Minister within the meaning of section 4 of the Cadastral Survey Act 2002 that that land or that part of that land or that interest in land be no longer subject to resumption under section 27B of the State-Owned Enterprises Act 1986 or section 212 of the Education Act 1989.
-(3) In deciding whether to recommend the return to Maori ownership of any land or interest in land to which this section applies, the Tribunal shall not have regard to any changes that, since immediately before the date of the transfer of the land or interest in land from the Crown to a State enterprise, or an institution within the meaning of section 159 of the Education Act 1989, have taken place in—
+  (c) if it finds that the claim is not well-founded, recommend to the Minister within the meaning of section 4 of the Cadastral Survey Act 2002 that that land or that part of that land or that interest in land be no longer subject to resumption under section 27B of the State-Owned Enterprises Act 1986 or section 569 of the Education and Training Act 2020.
+(3) In deciding whether to recommend the return to Maori ownership of any land or interest in land to which this section applies, the Tribunal shall not have regard to any changes that, since immediately before the date of the transfer of the land or interest in land from the Crown to a State enterprise, or an institution within the meaning of section 10(1) of the Education and Training Act 2020, have taken place in—
   (a) the condition of the land or of the land in which the interest exists and any improvements to it; or
   (b) its ownership or possession or any other interests in it.
 (4) Nothing in subsection (2) prevents the Tribunal making in respect of any claim that relates in whole or in part to any land or interest in land to which this section applies any other recommendation under subsection (3) or subsection (4) of section 6.
 (5) Notwithstanding section 24(4) of the State-Owned Enterprises Act 1986, on the making of a recommendation for the return of any land or interest in land to Maori ownership under subsection (2), sections 40 and 41 of the Public Works Act 1981 shall cease to apply in relation to that land or that interest in land.
 (6) Where any interest in land exists in respect of any land to which this section applies being—as the case may be, no recommendation under this section shall relate to that interest in land.
   (a) an interest in land which was in existence immediately before the land was transferred to the State enterprise under section 23 of the State-Owned Enterprises Act 1986 or vested in the State enterprise by a notice in the Gazette under section 24 of that Act or by an Order in Council made under section 28 of that Act but which was not so transferred to or vested in the State enterprise; or
-  (b) an interest in land which was in existence immediately before the land was transferred to an institution within the meaning of section 159 of the Education Act 1989 under section 207 of that Act or vested in such an institution by an Order in Council made under section 215 of that Act but which was not so transferred to or vested in the institution,—
+  (b) an interest in land which was in existence immediately before the land was transferred to an institution within the meaning of section 10(1) of the Education and Training Act 2020 under section 564 of that Act or vested in such an institution by an Order in Council made under section 572 of that Act but which was not so transferred to or vested in the institution,—
 
 ### 8B Interim recommendations in respect of land transferred to or vested in State enterprise
 (1) Where the recommendations made by the Tribunal include a recommendation made under section 8A(2)﻿(a) or section 8A(2)﻿(b), all of those recommendations shall be in the first instance interim recommendations.
@@ -207,7 +207,7 @@ The appointment of a Judge as Chairperson, the deputy of the Chairperson, or as 
   (b) any other agent or representative authorised in writing.
 
 ### 8D Special power of Tribunal to recommend that land be no longer liable to resumption
-(1) The Tribunal may, in its discretion, on the application of a State enterprise or other owner of any land or interest in land to which section 8A applies, recommend to the Minister within the meaning of section 4 of the Cadastral Survey Act 2002 that the whole or part of that land or that that interest in land be no longer subject to resumption under section 27B of the State-Owned Enterprises Act 1986 or section 212 of the Education Act 1989 if—
+(1) The Tribunal may, in its discretion, on the application of a State enterprise or other owner of any land or interest in land to which section 8A applies, recommend to the Minister within the meaning of section 4 of the Cadastral Survey Act 2002 that the whole or part of that land or that that interest in land be no longer subject to resumption under section 27B of the State-Owned Enterprises Act 1986 or section 569 of the Education and Training Act 2020 if—
   (a) public notice has been given, in accordance with section 8G, of the making of an application under this section in respect of that land or interest in land; and
   (b) either—
     (i) no claim in relation to that land or interest in land has been submitted to the Tribunal under section 6 before the date specified in the notice; or
@@ -218,13 +218,13 @@ The appointment of a Judge as Chairperson, the deputy of the Chairperson, or as 
   (b) the public notice to be given under section 8G,—
 
 ### 8E Issue of certificate on recommendation of Tribunal
-(1) The Minister within the meaning of section 4 of the Cadastral Survey Act 2002 shall, on receiving in respect of any land or interest in land a recommendation under—issue a certificate to the effect that the land or interest in land is no longer subject to resumption under section 27B of the State-Owned Enterprises Act 1986 or section 212 of the Education Act 1989.
+(1) The Minister within the meaning of section 4 of the Cadastral Survey Act 2002 shall, on receiving in respect of any land or interest in land a recommendation under—issue a certificate to the effect that the land or interest in land is no longer subject to resumption under section 27B of the State-Owned Enterprises Act 1986 or section 569 of the Education and Training Act 2020.
   (a) section 8A(2)﻿(a) or section 8A(2)﻿(b) or section 8A(2)﻿(c); or
   (b) section 8D(1),—
 (2) Where the land or the land in which the interest in land exists is subject to the Land Transfer Act 2017, the Minister within the meaning of section 4 of the Cadastral Survey Act 2002 shall cause a copy of the certificate to be lodged with the Registrar-General of Land.
 (3) The Registrar-General of Land shall, without fee,—
   (a) register the certificate against the record of title to the land or interest in land; and
-  (b) take all steps necessary to discharge or cancel any memorials or entries showing that the land or interest in land is subject to resumption under section 27B of the State-Owned Enterprises Act 1986 or section 212 of the Education Act 1989.
+  (b) take all steps necessary to discharge or cancel any memorials or entries showing that the land or interest in land is subject to resumption under section 27B of the State-Owned Enterprises Act 1986 or section 569 of the Education and Training Act 2020.
 (4) Where—the Minister within the meaning of section 4 of the Cadastral Survey Act 2002 shall cause a copy of the certificate to be lodged in the office of the Surveyor-General, and the Surveyor-General shall note the certificate upon the proper plans and records of the district affected.
   (a) the land or the land in which the interest in land exists is not subject to the Land Transfer Act 2017; and
   (b) instruments relating to the land or the interest in land are not registrable under the Deeds Registration Act 1908,—
@@ -251,10 +251,10 @@ The appointment of a Judge as Chairperson, the deputy of the Chairperson, or as 
   (b) state that an application has been made under section 8D in respect of the land or interest in land; and
   (c) indicate that—as the case may be; and
     (i) the land or interest in land has been or was transferred to a State enterprise under section 23 of the State-Owned Enterprises Act 1986 or vested in a State enterprise by a notice in the Gazette under section 24 of that Act or by an Order in Council made under section 28 of that Act; or
-    (ii) the land or interest in land has been or was transferred to an institution within the meaning of section 159 of the Education Act 1989 under section 207 of that Act or vested in such an institution by an Order in Council made under section 215 of that Act—
+    (ii) the land or interest in land has been or was transferred to an institution within the meaning of section 10(1) of the Education and Training Act 2020 under section 564 of that Act or vested in such an institution by an Order in Council made under section 572 of that Act—
   (d) invite any Maori who considers that he or she, or any group of Maori of which he or she is a member, has grounds for a claim under section 6 in relation to the land or interest in land, to submit that claim to the Tribunal before a date specified in the notice (which date shall be not less than 90 days after the first or only publication of the notice in the Gazette ); and
   (e) describe briefly any claims already submitted under section 6 in respect of the land or interest in land; and
-  (f) where no claim has been submitted under section 6 in respect of the land or interest in land, state that if no claim in relation to the land or interest in land is submitted to the Tribunal under section 6 before the date specified in the notice, the Tribunal may recommend that the land or interest in land be no longer liable to resumption under section 27B of the State-Owned Enterprises Act 1986 or section 212 of the Education Act 1989; and
+  (f) where no claim has been submitted under section 6 in respect of the land or interest in land, state that if no claim in relation to the land or interest in land is submitted to the Tribunal under section 6 before the date specified in the notice, the Tribunal may recommend that the land or interest in land be no longer liable to resumption under section 27B of the State-Owned Enterprises Act 1986 or section 569 of the Education and Training Act 2020; and
   (g) contain such other information as the Tribunal directs.
 
 ### 8H Service of decision
