@@ -1,5 +1,5 @@
 # Financial Advisers Act 2008
-_Consolidation as at 2020-04-01_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Financial Advisers Act 2008.
@@ -99,7 +99,6 @@ In this Act, unless the context otherwise requires,—
   - **client money** has the meaning set out in section 77B
   - **client property** has the meaning set out in section 77B
   - **code** means the code of professional conduct brought into force under section 94
-  - **college of education** has the same meaning as in section 159 of the Education Act 1989
   - **conduct obligation** means,—
     (a) in relation to a financial adviser, a QFE, or a member of a QFE group, an obligation described in section 32:
     (b) in relation to a broker, an obligation described in section 77J
@@ -146,7 +145,6 @@ In this Act, unless the context otherwise requires,—
     (c) a managed investment product:
     (d) a derivative
   - **FSP Act** means the Financial Service Providers (Registration and Dispute Resolution) Act 2008
-  - **general education system** has the same meaning as in section 120 of the Education Act 1989
   - **incorporated law firm** has the meaning given by section 6 of the Lawyers and Conveyancers Act 2006
   - **individual** means a natural person
   - **information** includes a document
@@ -155,7 +153,7 @@ In this Act, unless the context otherwise requires,—
   - **investment planning service** has the meaning set out in section 11
   - **issuer** has the same meaning as in section 11(1)﻿(b) of the Financial Markets Conduct Act 2013
   - **lawyer** has the same meaning as in section 6 of the Lawyers and Conveyancers Act 2006
-  - **lecturer** means a person who is employed by a university, the New Zealand Institute of Skills and Technology and its subsidiaries, or a college of education to teach or instruct students of the university, New Zealand Institute of Skills and Technology and its subsidiaries, or college of education
+  - **lecturer** means a person who is employed by a university, the New Zealand Institute of Skills and Technology (), or an NZIST subsidiary to teach or instruct students of the university, NZIST, or NZIST subsidiary
   - **licensed market** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **licensed service** has the same meaning as in section 4 of the FSP Act
   - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
@@ -164,7 +162,7 @@ In this Act, unless the context otherwise requires,—
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **nominated representative** means an individual who has been nominated by a QFE or by a partner entity in accordance with section 74 and whose nomination has not been terminated under that section
   - **non-profit organisation** means any organisation, whether incorporated or not, that is carried on other than for the purposes of profit or gain to an owner, member, or shareholder
-  - **NZIST** means the New Zealand Institute of Skills and Technology established by section 222A of the Education Act 1989, and includes its Crown entity subsidiaries
+  - **NZIST** means the New Zealand Institute of Skills and Technology continued by section 314 of the Education and Training Act 2020, and includes its Crown entity subsidiaries
   - **offeror** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **on behalf of the business of another person** or has the meaning set out in section 5I(1)
   - **overseas regulator** means a body in another country with functions corresponding to those of the FMA under this Act
@@ -215,12 +213,12 @@ In this Act, unless the context otherwise requires,—
   - **Takeovers Code** means the takeovers code in force under the Takeovers Act 1993
   - **tax agent** has the same meaning as in section 3(1) of the Tax Administration Act 1994 and, for the purposes of this Act, includes a representative and nominated person as those terms are defined in section 3(1) of the Tax Administration Act 1994
   - **teacher** means a person in a teaching position in the general education system
-  - **teaching position** has the same meaning as in section 120 of the Education Act 1989
+  - **teaching position** has the same meaning as in section 10(1) of the Education and Training Act 2020
   - **trust account records** —
     (a) means records relating to a trust account; and
     (b) includes any information that relates to a trust account and that is recorded or stored by means of any tape recorder, computer, or other device, and any material subsequently derived from information so recorded or stored
   - **trustee corporation** means Public Trust, the Māori Trustee, or any corporation authorised by an Act to administer the estates of deceased persons and other trust estates (and any wholly owned subsidiary of that corporation that is guaranteed by the corporation)
-  - **university** has the same meaning as in section 159 of the Education Act 1989
+  - **university** has the same meaning as in section 10(1) of the Education and Training Act 2020
   - **wholesale client** has the meaning set out in section 5C.
 
 ### 5A Who are clients
