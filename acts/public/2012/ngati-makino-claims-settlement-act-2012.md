@@ -1,5 +1,5 @@
 # Ngāti Mākino Claims Settlement Act 2012
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2020-08-01_
 
 ## Preamble
 (1) Ngāti Mākino are part of the Te Arawa confederation of tribes and have strong connections to Ngāti Awa. Traditionally, they occupied the area between the Rotorua lakes and the Bay of Plenty coast where they existed as an independent iwi:
@@ -144,7 +144,7 @@ In this Act, unless the context otherwise requires,—
   - **Crown mineral** means a mineral as defined in section 2(1) of the Crown Minerals Act 1991—
     (a) that is the property of the Crown under section 10 or 11 of the Crown Minerals Act 1991; or
     (b) over which the Crown has jurisdiction under the Continental Shelf Act 1964
-  - **Crown minerals protocol** means a protocol issued by the Minister of Energy and Resources under section 18(1)(a), and includes any amendments made under section 18(1)(b)
+  - **Crown minerals protocol** means a protocol issued by the Minister of Energy and Resources under section 18(1)﻿(a), and includes any amendments made under section 18(1)﻿(b)
   - **Crown minerals protocol area** means the area shown on the map attached to the Crown minerals protocol
   - **cultural redress property** has the meaning given in section 57
   - **date of the deed of settlement** means 2 April 2011
@@ -180,7 +180,7 @@ In this Act, unless the context otherwise requires,—
   - **licensor** means the licensor for the time being of the Crown forestry licence
   - **LINZ** means Land Information New Zealand
   - **local authority** has the meaning given in section 5(1) of the Local Government Act 2002
-  - **member of Ngāti Mākino** means an individual referred to in section 9(1)(a)
+  - **member of Ngāti Mākino** means an individual referred to in section 9(1)﻿(a)
   - **Moutoroi Pā site** has the meaning given in section 78(1)
   - **Ngāti Mākino area of interest** and mean the area that Ngāti Mākino identifies as its area of interest, as set out in Part 1 of the attachments to the deed of settlement
   - **Ngāti Mākino Iwi Authority** means the trust established by the Deed of Trust of Ngāti Mākino Iwi Authority dated 23 March 2011
@@ -190,7 +190,7 @@ In this Act, unless the context otherwise requires,—
   - **property redress schedule** means the schedule of that name that forms part of the deed of settlement
   - **protected site** has the meaning given in section 91
   - **protection principles** has the meaning given in section 37
-  - **protocol** means a protocol issued under section 18(1)(a), including any amendments made under section 18(1)(b)
+  - **protocol** means a protocol issued under section 18(1)﻿(a), including any amendments made under section 18(1)﻿(b)
   - **regional council** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **Registrar-General** means the Registrar-General of Land appointed under section 4 of the Land Transfer Act 1952
   - **related company** has the meaning given in section 2(3) of the Companies Act 1993
@@ -224,7 +224,7 @@ In this Act, unless the context otherwise requires,—
   - **taonga tūturu** —
     (a) has the meaning given in section 2(1) of the Protected Objects Act 1975; and
     (b) includes ngā taonga tūturu (which has the meaning given in section 2(1) of that Act)
-  - **taonga tūturu protocol** means a protocol issued by the Minister for Arts, Culture and Heritage under section 18(1)(a), and includes any amendments made to the protocol under section 18(1)(b)
+  - **taonga tūturu protocol** means a protocol issued by the Minister for Arts, Culture and Heritage under section 18(1)﻿(a), and includes any amendments made to the protocol under section 18(1)﻿(b)
   - **trustees** means the trustees of the Ngāti Mākino Iwi Authority
   - **whenua rāhui** has the meaning given in section 37(1)
   - **whenua rāhui site** has the meaning given in section 37(2).
@@ -270,7 +270,7 @@ In this Act, unless the context otherwise requires,—
     (ii) Wai 334—Matata land claim; and
   (b) every other claim to the Waitangi Tribunal to which subsection (2) applies, so far as it relates to Ngāti Mākino (or a representative entity).
 (4) However, historical claims does not include—
-  (a) a claim that a member of Ngāti Mākino, or a whānau, hapū, or group referred to in section 9(1)(c), had or may have that is, or is founded on, a right arising as a result of being descended from an ancestor who is not referred to in section 9(1)(a); or
+  (a) a claim that a member of Ngāti Mākino, or a whānau, hapū, or group referred to in section 9(1)﻿(c), had or may have that is, or is founded on, a right arising as a result of being descended from an ancestor who is not referred to in section 9(1)﻿(a); or
   (b) a claim that a representative entity had or may have to the extent that it is founded on a claim referred to in paragraph (a).
 
 ### Subpart 3 — Settlement of historical claims
@@ -307,7 +307,7 @@ In this Act, unless the context otherwise requires,—
 (2) The enactments are—
   (a) sections 8A to 8HJ of the Treaty of Waitangi Act 1975:
   (b) sections 27A to 27C of the State-Owned Enterprises Act 1986:
-  (c) sections 211 to 213 of the Education Act 1989:
+  (c) sections 568 to 570 of the Education and Training Act 2020:
   (d) Part 3 of the Crown Forest Assets Act 1989:
   (e) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990.
 
@@ -316,7 +316,7 @@ In this Act, unless the context otherwise requires,—
   (a) is all or part of land described in section 13(1); and
   (b) is contained in a certificate of title or computer register that has a memorial entered under any enactment referred to in section 13(2).
 (2) The chief executive of LINZ must issue a certificate under subsection (1) as soon as is reasonably practicable after—
-  (a) the settlement date, in the case of land described in section 13(1)(a), (b), (c), and (e); and
+  (a) the settlement date, in the case of land described in section 13(1)﻿(a), (b), (c), and (e); and
   (b) the Ōtamarākau School site settlement date, in the case of the Ōtamarākau School site.
 (3) Each certificate must state that it is issued under this section.
 (4) The Registrar-General must, as soon as is reasonably practicable after receiving a certificate issued under subsection (1),—
@@ -446,10 +446,10 @@ The taonga tūturu protocol does not have the effect of granting, creating, or p
   (a) if the application is received by the consent authority, a summary of the application; or
   (b) if notice of the application is served on the consent authority under section 145(10) of the Resource Management Act 1991, a copy of the notice.
 (2) The information provided in a summary of an application must be the same as would be given to an affected person by limited notification under section 95B of the Resource Management Act 1991, or may be agreed between the trustees and the relevant consent authority.
-(3) A summary of an application must be provided under subsection (1)(a)—
+(3) A summary of an application must be provided under subsection (1)﻿(a)—
   (a) as soon as is reasonably practicable after the consent authority receives the application; and
   (b) before the consent authority decides under section 95(a) of the Resource Management Act 1991 whether to notify the application.
-(4) A copy of the notice of an application must be provided to the trustees under subsection (1)(b) no later than 10 business days after the day on which the consent authority receives the notice.
+(4) A copy of the notice of an application must be provided to the trustees under subsection (1)﻿(b) no later than 10 business days after the day on which the consent authority receives the notice.
 (5) This section does not affect a relevant consent authority's obligation,—
   (a) under section 95(a) of the Resource Management Act 1991, to decide whether to notify an application:
   (b) under section 95E of that Act, to decide whether the trustees are affected persons in relation to an application.
@@ -490,7 +490,7 @@ The taonga tūturu protocol does not have the effect of granting, creating, or p
 (1) Except as expressly provided in this subpart,—
   (a) neither the statutory acknowledgement nor a deed of recognition affects, or may be taken into account by, a person exercising a power or performing a function or duty under legislation or a bylaw; and
   (b) no person, in considering a matter or making a decision or recommendation under legislation or a bylaw, may give greater or lesser weight to the association of Ngāti Mākino with a statutory area than that person would give if there were no statutory acknowledgement or deed of recognition for the statutory area.
-(2) Subsection (1)(b) does not affect the operation of subsection (1)(a).
+(2) Subsection (1)﻿(b) does not affect the operation of subsection (1)﻿(a).
 
 ### 34 Rights not affected
 Except as expressly provided in this subpart, neither the statutory acknowledgement nor a deed of recognition affects the lawful rights or interests of any person who is not a party to the deed of settlement.
@@ -626,7 +626,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (b) the area concerned is to be or has been disposed of by the Crown; or
   (c) the responsibility for managing the area concerned is to be or has been transferred to a different Minister of the Crown or the Commissioner of Crown Lands.
 (3) Subsection (4) applies if—
-  (a) subsection (2)(c) applies; or
+  (a) subsection (2)﻿(c) applies; or
   (b) there is a change in the statutory management regime that applies to all or part of the whenua rāhui site.
 (4) The Crown must take reasonable steps to try to ensure that the trustees continue to have the opportunity to contribute to the management of the area concerned.
 
@@ -731,18 +731,18 @@ In this Part,—
 ### 63 Lake Rotoehu Scenic Reserve site
 (1) The reservation of the Lake Rotoehu Scenic Reserve site as a scenic reserve subject to section 19 of the Reserves Act 1977 is revoked.
 (2) The fee simple estate in the Lake Rotoehu Scenic Reserve site vests in the trustees.
-(3) The Lake Rotoehu Scenic Reserve site is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) The Lake Rotoehu Scenic Reserve site is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The name of the reserve created under subsection (3) is Lake Rotoehu Scenic Reserve.
 
 ### 64 Balance of Matawhāura site
 (1) The reservation of the Balance of Matawhāura site as a scenic reserve subject to section 19 of the Reserves Act 1977 is revoked.
 (2) The fee simple estate in the Balance of Matawhāura site vests in the trustees.
-(3) The Balance of Matawhāura site is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) The Balance of Matawhāura site is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 
 ### 65 Ngā Pōrōtai-o-Waitaha-a-Hei site
 (1) Ngā Pōrōtai-o-Waitaha-a-Hei site ceases to be a conservation area under the Conservation Act 1987.
 (2) The fee simple estate in Ngā Pōrōtai-o-Waitaha-a-Hei site vests in the trustees.
-(3) Ngā Pōrōtai-o-Waitaha-a-Hei site is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) Ngā Pōrōtai-o-Waitaha-a-Hei site is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The name of the reserve created under subsection (3) is Ngā Pōrōtai-o-Waitaha-a-Hei Scenic Reserve.
 (5) The Minister of Conservation must, by or on the settlement date, provide the trustees with a registrable right of way easement that provides the trustees with access to Ngā Pōrōtai-o-Waitaha-a-Hei site over the route the general location of which is shown marked A on the diagram attached to the form of easement in subpart C of Part 8 of the documents schedule (Ngā Pōrōtai-o-Waitaha-a-Hei site easement) and which is subject to survey.
 
@@ -808,7 +808,7 @@ Each cultural redress property vests under subpart 5 subject to, or together wit
     (i) section 24 of the Conservation Act 1987 does not apply to the site; and
     (ii) the site is subject to sections 70(3) and 74(1) to (7) of this Act; or
   (b) part of the site, the Registrar-General must ensure that the notifications referred to in paragraph (a) remain on the computer freehold register only for the part of the site that remains a reserve.
-(5) The Registrar-General must comply with an application received in accordance with subsection (3)(a) or (4)(a).
+(5) The Registrar-General must comply with an application received in accordance with subsection (3)﻿(a) or (4)﻿(a).
 
 ### 72 Application of other enactments
 (1) Sections 24 and 25 of the Reserves Act 1977 do not apply to the revocation, under subpart 5, of the reserve status of a cultural redress property.
@@ -825,7 +825,7 @@ Each cultural redress property vests under subpart 5 subject to, or together wit
 ### 73 Application of Reserves Act 1977 to reserve sites
 (1) The trustees are the administering body of a reserve site for the purposes of the Reserves Act 1977.
 (2) Despite sections 48A(6), 114(5), and 115(6) of the Reserves Act 1977, sections 48A, 114, and 115 of that Act apply to a reserve site.
-(3) Sections 78(1)(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve site.
+(3) Sections 78(1)﻿(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve site.
 (4) If the reservation under subpart 5 of a reserve site is revoked under section 24 of the Reserves Act 1977 in relation to all or part of the site, section 25 of that Act, except subsection (2) of that provision, does not apply to the revocation.
 
 ### 74 Subsequent transfer of reserve land
@@ -848,7 +848,7 @@ Each cultural redress property vests under subpart 5 subject to, or together wit
   (c) the instrument to transfer the reserve land is accompanied by a certificate given by the transferees, or the transferees’ solicitor, verifying that paragraphs (a) and (b) apply.
 (8) Despite subsections (1) and (2),—
   (a) subsection (3) does not apply to the transfer of the fee simple estate in the Balance of Matawhāura site to the joint entity in accordance with clause 5.18 of the deed of settlement; and
-  (b) subsection (4) applies to the transfer as if subsection (5)(b) had not been enacted.
+  (b) subsection (4) applies to the transfer as if subsection (5)﻿(b) had not been enacted.
 
 ### 75 Trustees must not mortgage reserves
 The registered proprietors of a reserve site must not mortgage, or give a security interest in, all or any part of the site that, at any time after vesting in the trustees under subpart 5, remains a reserve under the Reserves Act 1977.
@@ -864,7 +864,7 @@ The registered proprietors of a reserve site must not mortgage, or give a securi
   (a) that official geographic name is discontinued; and
   (b) the Board must ensure that, as soon as is reasonably practicable, the official geographic name is removed from the Gazetteer.
 (2) However, if a site vested under subpart 5 comprises only part of a reserve or conservation area,—
-  (a) subsection (1)(a) applies only to the part of the site that is vested under subpart 5; and
+  (a) subsection (1)﻿(a) applies only to the part of the site that is vested under subpart 5; and
   (b) the Board must amend the Gazetteer so that the official geographic name applies only to the part of the reserve or conservation area that is not vested under subpart 5.
 (3) If a site is vested under subpart 5 and reserved and classified as a scenic reserve under that subpart, the scenic reserve does not become a Crown protected area.
 (4) In this section,—
@@ -936,20 +936,20 @@ To give effect to Part 6 of the deed of settlement, the Crown (acting by and thr
 (2) The effect of subsection (1) is that—
   (a) the trustees are entitled to the rental proceeds payable since the commencement of the Crown forestry licence; and
   (b) all the provisions of the Crown forestry rental trust deed apply on the basis that the trustees are the confirmed beneficiaries.
-(3) The Crown must give notice under section 17(4)(b) of the Crown Forest Assets Act 1989 in respect of the Crown forestry licence, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land.
+(3) The Crown must give notice under section 17(4)﻿(b) of the Crown Forest Assets Act 1989 in respect of the Crown forestry licence, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land.
 (4) Notice given by the Crown under subsection (3) has effect as if—
-  (a) the Waitangi Tribunal had made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land; and
+  (a) the Waitangi Tribunal had made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land; and
   (b) the recommendation had become final on the settlement date.
 (5) The trustees are the licensor under the Crown forestry licence as if the licensed land had been returned to Māori ownership—
   (a) on the settlement date; and
   (b) under section 36 of the Crown Forest Assets Act 1989.
-(6) However, section 36(1)(b) of the Crown Forest Assets Act 1989 does not apply to the licensed land.
+(6) However, section 36(1)﻿(b) of the Crown Forest Assets Act 1989 does not apply to the licensed land.
 
 ### 87 Effect of transfer of licensed land
 (1) Section 86 applies whether or not—
   (a) the transfer of the fee simple estate in the licensed land has been registered; or
   (b) the processes described in clause 17.4 of the Crown forestry licence have been completed.
-(2) To the extent that the Crown has not completed the processes referred to in subsection (1)(b) before the settlement date, it must continue those processes—
+(2) To the extent that the Crown has not completed the processes referred to in subsection (1)﻿(b) before the settlement date, it must continue those processes—
   (a) after the settlement date; and
   (b) until the processes are completed.
 (3) For the period from the settlement date until the completion of the processes referred to in subsections (1) and (2), the licence fee payable under the Crown forestry licence in respect of the licensed land is the amount calculated in the manner described in paragraphs 6.24 and 6.25 of the property redress schedule.
@@ -1033,7 +1033,7 @@ In this subpart and Schedule 4, unless the context requires another meaning,—
 ### 96 Meaning of RFR land
 (1) In this Act, RFR land means—
   (a) land described in attachment 5 of the deed of settlement if, on the settlement date, the land is vested in the Crown or the Crown holds the fee simple estate in the land; and
-  (b) land obtained in exchange for RFR land disposed of under section 109(1)(c) or 110.
+  (b) land obtained in exchange for RFR land disposed of under section 109(1)﻿(c) or 110.
 (2) However, land ceases to be RFR land if—
   (a) the RFR landowner transfers the fee simple estate in the land to—
     (i) the trustees or their nominee (for example, under section 102); or
@@ -1096,7 +1096,7 @@ The RFR landowner may, by notice to the trustees, withdraw an offer at any time 
 (1) An RFR landowner may dispose of RFR land to—
   (a) the Crown; or
   (b) a Crown body.
-(2) To avoid doubt, if the RFR landowner is the Crown, it may dispose of RFR land to a Crown body in accordance with section 143(5) or 206 of the Education Act 1989.
+(2) To avoid doubt, if the RFR landowner is the Crown, it may dispose of RFR land to a Crown body in accordance with section 563 of the Education and Training Act 2020.
 
 ### 104 Disposal of existing public works to local authority
 (1) An RFR landowner may dispose of RFR land that is a public work, or part of a public work, in accordance with section 50 of the Public Works Act 1981 to a local authority (as defined in section 2 of that Act).
@@ -1128,7 +1128,7 @@ An RFR landowner may dispose of RFR land in accordance with—
 
 ### 108 Disposal by the Crown under certain legislation
 The Crown may dispose of RFR land in accordance with—
-  (a) section 54(1)(d) of the Land Act 1948; or
+  (a) section 54(1)﻿(d) of the Land Act 1948; or
   (b) section 355(3) of the Resource Management Act 1991; or
   (c) subpart 3 of Part 2 of the Marine and Coastal Area (Takutai Moana) Act 2011.
 
@@ -1136,8 +1136,8 @@ The Crown may dispose of RFR land in accordance with—
 (1) An RFR landowner may dispose of RFR land in accordance with—
   (a) section 40(2) or (4) or 41 of the Public Works Act 1981 (including as applied by another enactment); or
   (b) section 52, 105(1), 106, 114(3), 117(7), or 119 of the Public Works Act 1981; or
-  (c) section 117(3)(a) of the Public Works Act 1981; or
-  (d) section 117(3)(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
+  (c) section 117(3)﻿(a) of the Public Works Act 1981; or
+  (d) section 117(3)﻿(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
   (e) section 23(1) or (4), 24(4), or 26 of the New Zealand Railways Corporation Restructuring Act 1990.
 (2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under section 134 of Te Ture Whenua Maori Act 1993 after an application by an RFR landowner under section 41(e) of the Public Works Act 1981.
 
@@ -1166,7 +1166,7 @@ The Crown may dispose of RFR land—
     (i) that prevents or limits an RFR landowner’s disposal of RFR land to the trustees; and
     (ii) that the RFR landowner cannot satisfy by taking reasonable steps; and
   (c) the terms of a mortgage over, or security interest in, RFR land.
-(2) Reasonable steps, for the purposes of subsection (1)(b)(ii), do not include steps to promote the passing of an enactment.
+(2) Reasonable steps, for the purposes of subsection (1)﻿(b)﻿(ii), do not include steps to promote the passing of an enactment.
 (3) This subpart does not limit any of the things referred to in subsection (1).
 
 **Notices**
@@ -1271,9 +1271,9 @@ This subpart does not limit the ability of the Crown, or a Crown body, to sell o
 
 | Name of site | Description | Encumbrances |
 | --- | --- | --- |
-| Ngā Pōrōtai-o-Waitaha-a-Hei site | South Auckland Land District–Western Bay of Plenty District.23 hectares, approximately, being part Section 1 SO 60652. Part Gazette 1940 page 2595. Subject to survey. | Scenic reserve subject to section 19(1)(a) of the Reserves Act 1977. |
+| Ngā Pōrōtai-o-Waitaha-a-Hei site | South Auckland Land District–Western Bay of Plenty District.23 hectares, approximately, being part Section 1 SO 60652. Part Gazette 1940 page 2595. Subject to survey. | Scenic reserve subject to section 19(1)﻿(a) of the Reserves Act 1977. |
 |  | As shown on OTS-275-08. | Together with the right of way easement referred to in section 65(5). |
-| Lake Rotoehu Scenic Reserve site | South Auckland Land District–Rotorua District.41.2779 hectares, more or less, being Section 20 Block VI Rotoma Survey District. All Gazette 1973page 1693. | Scenic reserve subject to section 19(1)(a) of the Reserves Act 1977.Subject to a water supply easement held in computer interest register SA 48C/94 (affecting Section 20 Block VI Rotoma Survey District). |
+| Lake Rotoehu Scenic Reserve site | South Auckland Land District–Rotorua District.41.2779 hectares, more or less, being Section 20 Block VI Rotoma Survey District. All Gazette 1973page 1693. | Scenic reserve subject to section 19(1)﻿(a) of the Reserves Act 1977.Subject to a water supply easement held in computer interest register SA 48C/94 (affecting Section 20 Block VI Rotoma Survey District). |
 |  | 33.5000 hectares, more or less, being Section 27 Block VI Rotoma Survey District.All Gazette 1977 page 2638. |  |
 |  | 26.0560 hectares, more or less, being Sections 28, 29, and 30 Block VI Rotoma Survey District.All Gazette 1978page 2532. |  |
 |  | 18.9700 hectares, more or less, being Section 31 Block VI Rotoma Survey District.All Gazette 1978 page 2532. |  |
@@ -1281,7 +1281,7 @@ This subpart does not limit the ability of the Crown, or a Crown body, to sell o
 |  | 0.2800 hectares, more or less, being Sections 1, 3, 5, 6, 7, and 8 SO 47354. |  |
 |  | 0.6194 hectares, more or less, being Sections 3 and 5 SO 47355. |  |
 |  | 0.1077 hectares, more or less, being Sections 1 and 2 SO 47356. |  |
-| Balance of Matawhāura site | South Auckland Land District–Rotorua District.53 hectares, approximately, being part Section 2 SO 382301. Part Proclamation 5125. Subject to survey. | Scenic reserve subject to section 19(1)(a) of the Reserves Act 1977. |
+| Balance of Matawhāura site | South Auckland Land District–Rotorua District.53 hectares, approximately, being part Section 2 SO 382301. Part Proclamation 5125. Subject to survey. | Scenic reserve subject to section 19(1)﻿(a) of the Reserves Act 1977. |
 |  | As shown on OTS-275-02. |  |
 
 | Name of site | Description | Encumbrances |
