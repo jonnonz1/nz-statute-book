@@ -1,5 +1,5 @@
 # Education Amendment Act 2019
-_Consolidation as at 2019-05-13_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Education Amendment Act 2019.
