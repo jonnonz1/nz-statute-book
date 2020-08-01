@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2020-06-16_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -302,7 +302,7 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
       (ii) a designated non-financial business or profession:
       (iii) a financial institution:
       (iv) a high-value dealer:
-      (v) the Racing Industry Transition Agency; and
+      (v) TAB NZ; and
     (b) includes—
       (i) a person or class of persons declared by regulations to be a reporting entity for the purposes of this Act; and
       (ii) any other person that is required by any enactment to comply with this Act as if it were a reporting entity; but
@@ -329,8 +329,8 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
       (i) any payment made in satisfaction, in whole or in part, of any contractual or other legal obligation; and
       (ii) a transaction or class of transactions declared by regulations to be a transaction for the purposes of this Act; but
     (c) excludes the following:
-      (i) the placing of any bet unless authorised under the Racing Act 2003:
-      (ii) participation in gambling (as defined in section 4(1) of the Gambling Act 2003) unless authorised under the Racing Act 2003:
+      (i) the placing of any bet unless authorised under the Racing Industry Act 2020:
+      (ii) participation in gambling (as defined in section 4(1) of the Gambling Act 2003) unless authorised under the Racing Industry Act 2020:
       (iii) a transaction or class of transactions declared by regulations not to be a transaction for the purposes of this Act
   - **trust and company service provider** means a person (other than a law firm, a conveyancing practitioner, an incorporated conveyancing firm, an accounting practice, or a real estate agent) who carries out any of the activities described in paragraphs (a)﻿(i) to (vi) of the definition of designated non-financial business or profession
   - **trustee** has the same meaning as in section 2(1) of the Trustee Act 1956
@@ -362,13 +362,13 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
   (a) does not apply to a law firm, a conveyancing practitioner, or an incorporated conveyancing firm until 1 July 2018 or an earlier date set by the Governor-General by Order in Council:
   (b) does not apply to an accounting practice until 1 October 2018 or an earlier date set by the Governor-General by Order in Council:
   (c) does not apply to a real estate agent until 1 January 2019 or an earlier date set by the Governor-General by Order in Council:
-  (d) does not apply to the Racing Industry Transition Agency or a high-value dealer until 1 August 2019 or an earlier date set by the Governor-General by Order in Council:
+  (d) does not apply to TAB NZ or a high-value dealer until 1 August 2019 or an earlier date set by the Governor-General by Order in Council:
   (e) in the case of a trust and company service provider that immediately before the commencement of this section was a reporting entity under regulation 17 of the Anti-Money Laundering and Countering Financing of Terrorism (Definitions) Regulations 2011, applies on and after the date on which this section comes into force:
   (f) in the case of a trust or company service provider to which paragraph (e) does not apply, applies on 1 July 2018 or an earlier date set by the Governor-General by Order in Council.
 (4) This Act applies to a reporting entity only to the extent that,—
   (a) in the case of a reporting entity that is a financial institution, the financial activities undertaken by that entity fall within the activities described in the definition of financial institution in section 5(1):
-  (b) in the case of the Racing Industry Transition Agency, it carries out the following:
-    (i) the conduct of betting under section 50 of the Racing Act 2003:
+  (b) in the case of TAB NZ, it carries out the following:
+    (i) the conduct of betting under section 74 of the Racing Industry Act 2020:
     (ii) the operation of accounts or provision of vouchers:
   (c) in the case of a law firm, conveyancer, incorporated conveyancing firm, accounting practice, real estate agent, or other designated non-financial business or profession, the activities carried out by that reporting entity are activities described in the definition of designated non-financial business or profession in section 5(1):
   (d) in the case of a high-value dealer,—
@@ -1567,7 +1567,7 @@ In this subpart, unless the context otherwise requires,—
   (a) for registered banks, life insurers, and non-bank deposit takers, the Reserve Bank of New Zealand (Reserve Bank) is the relevant AML/CFT supervisor:
   (b) for persons referred to in subsection (1A) (other than banks, life insurers, and non-bank deposit takers), the Financial Markets Authority is the relevant AML/CFT supervisor:
   (c) for designated non-financial businesses or professions and high-value dealers, the Department of Internal Affairs, or another AML/CFT supervisor prescribed for the purpose, is the relevant AML/CFT supervisor:
-  (d) for the Racing Industry Transition Agency, casinos, non-deposit-taking lenders, money changers, and other reporting entities that are not covered by paragraphs (a) to (c), the Department of Internal Affairs is the relevant AML/CFT supervisor.
+  (d) for TAB NZ, casinos, non-deposit-taking lenders, money changers, and other reporting entities that are not covered by paragraphs (a) to (c), the Department of Internal Affairs is the relevant AML/CFT supervisor.
 (1A) For the purposes of subsection (1)﻿(b), the persons are any of the following:
   (a) persons registered, or required to be registered, under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 by virtue of providing any of the services referred to in—
     (i) section 5(1)﻿(a), (ab), (d), or (i) to (id) of that Act; or
@@ -1652,8 +1652,8 @@ The functions of an AML/CFT supervisor are to—
 (3) The Reserve Bank may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the Reserve Bank of New Zealand Act 1989, the Insurance (Prudential Supervision) Act 2010, and the Non-bank Deposit Takers Act 2013.
 (4) The Financial Markets Authority may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the Financial Markets Authority Act 2011, the Financial Markets Conduct Act 2013, and the Financial Advisers Act 2008 for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
 (5) The Financial Markets Authority may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the Financial Markets Authority Act 2011, the Financial Markets Conduct Act 2013, and the Financial Advisers Act 2008.
-(6) The Department of Internal Affairs may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the Gambling Act 2003, the Racing Act 2003, and the Charities Act 2005 for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
-(7) The Department of Internal Affairs may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the Gambling Act 2003, the Racing Act 2003, and the Charities Act 2005.
+(6) The Department of Internal Affairs may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the Gambling Act 2003, the Racing Industry Act 2020, and the Charities Act 2005 for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
+(7) The Department of Internal Affairs may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the Gambling Act 2003, the Racing Industry Act 2020, and the Charities Act 2005.
 
 ### 138 Restriction on power to use information under section 137
 An AML/CFT supervisor may only use information obtained under section 137 if the person providing the information was advised of the purpose or purposes for which the information was obtained at the time he or she provided that information.
@@ -1694,7 +1694,7 @@ An AML/CFT supervisor may only use information obtained under section 137 if the
   (p) the Non-bank Deposit Takers Act 2013:
   (pa) the Overseas Investment Act 2005:
   (q) the Proceeds of Crime Act 1991:
-  (r) the Racing Act 2003:
+  (r) the Racing Industry Act 2020:
   (s) the Real Estate Agents Act 2008:
   (t) the Reserve Bank of New Zealand Act 1989:
   (u) the Secondhand Dealers and Pawnbrokers Act 2004:
