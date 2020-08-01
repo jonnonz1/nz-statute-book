@@ -1,5 +1,5 @@
 # Central North Island Forests Land Collective Settlement Act 2008
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2020-08-01_
 
 ## Preamble
 (1) The historical CNI forests land claims made by the Central North Island iwi to the Central North Island (CNI) forests land are based on historical breaches of the Treaty of Waitangi by the Crown and the desire of those iwi to secure the return of that land and to achieve an enduring settlement of those claims:
@@ -107,12 +107,12 @@ This Act binds the Crown.
 (1) On and from the settlement date, the CNI forests land—
   (a) ceases to be Crown forest land; and
   (b) vests in the company.
-(2) The vesting referred to in subsection (1)(b) and the subsequent administration of the CNI forests land are subject to—
+(2) The vesting referred to in subsection (1)﻿(b) and the subsequent administration of the CNI forests land are subject to—
   (a) the terms of the deed of trust; and
   (b) section 16; and
   (c) the Crown agreed proportion; and
   (d) the rights of the licensees under the Crown forestry licences listed in the third column of Schedule 1.
-(3) The Crown (acting through the chief executive of LINZ) is authorised to sign any document, or do any other thing necessary or reasonably incidental, to give effect to the vesting referred to in subsection (1)(b).
+(3) The Crown (acting through the chief executive of LINZ) is authorised to sign any document, or do any other thing necessary or reasonably incidental, to give effect to the vesting referred to in subsection (1)﻿(b).
 (4) The Registrar-General must, on written application by an authorised person, comply with subsections (5) and (6).
 (5) To the extent that the fee simple estate in a parcel of CNI forests land subject to a single Crown forestry licence comprises all the land in a certificate of title or computer freehold register, the Registrar-General must, in accordance with the application,—
   (a) register the company as the proprietor of the parcel of CNI forests land; and
@@ -131,8 +131,8 @@ This Act binds the Crown.
   (b) the deed of settlement; or
   (c) this Act.
 (2) Subsection (1) does not exclude the jurisdiction of a court, tribunal, or other judicial body in respect of the interpretation or implementation of the deed of settlement or this Act.
-(3) Subsection (1)(a), in so far as it relates to the Waitangi Tribunal, is subject to sections 22 to 24.
-(4) Subsection (1)(a) does not exclude the jurisdiction of the Waitangi Tribunal in so far as it relates to the steps that are necessary for the Tribunal to complete its inquiries and report on the following:
+(3) Subsection (1)﻿(a), in so far as it relates to the Waitangi Tribunal, is subject to sections 22 to 24.
+(4) Subsection (1)﻿(a) does not exclude the jurisdiction of the Waitangi Tribunal in so far as it relates to the steps that are necessary for the Tribunal to complete its inquiries and report on the following:
   (a) the Tongariro National Park Inquiry (Wai 1130):
   (b) the Te Urewera Inquiry (Wai 894).
 
@@ -140,7 +140,7 @@ This Act binds the Crown.
 (1) Section 11 and Part 10 of the Resource Management Act 1991 do not apply to—
   (a) the vesting of the CNI forests land by the Crown in the company; or
   (b) any matter incidental to, or required for the purpose of, that vesting.
-(2) The vesting of the CNI forests land referred to in subsection (1)(a)—
+(2) The vesting of the CNI forests land referred to in subsection (1)﻿(a)—
   (a) does not limit section 10 or 11 of the Crown Minerals Act 1991; and
   (b) does not affect other rights to subsurface minerals; and
   (c) does not limit the rights and obligations of the Crown or a local authority in respect of geothermal energy and geothermal water (as both terms are defined in section 2(1) of the Resource Management Act 1991) under any enactment or rule of law; and
@@ -159,7 +159,7 @@ This Act binds the Crown.
 (5) The permission of a council under section 348 of the Local Government Act 1974 is not required to lay out, form, grant, or reserve a private road, private way, or right of way under this section.
 
 ### 10 Public access to continue
-(1) Despite clause 16.5 of each Crown forestry licence, clause 6.2 of each Crown forestry licence (which relates to public entry for recreational purposes) must continue to apply even though the Crown is no longer the licensor under the licence because the CNI forests land has been vested in the company under section 6(1)(b).
+(1) Despite clause 16.5 of each Crown forestry licence, clause 6.2 of each Crown forestry licence (which relates to public entry for recreational purposes) must continue to apply even though the Crown is no longer the licensor under the licence because the CNI forests land has been vested in the company under section 6(1)﻿(b).
 (2) A notification to the same effect as described in subsection (1) must—
   (a) be recorded against the computer freehold register for the CNI forests land; and
   (b) on application by the registered proprietor, be removed from each computer freehold register for the CNI forests land on the expiry of the Crown forestry licence.
@@ -193,11 +193,11 @@ This Act binds the Crown.
 
 ### 13 Transfer of accumulated rentals
 (1) On and from the settlement date, the company will become entitled to the accumulated rentals as a confirmed beneficiary of the Crown Forestry Rental Trust and all the provisions of that trust will apply accordingly.
-(2) The Crown must, in respect of each Crown forestry licence listed in the third column of Schedule 1, give a notice under section 17(4)(b) of the Crown Forest Assets Act 1989 as if—
-  (a) the Waitangi Tribunal had made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 that the CNI forests land be returned to Māori ownership; and
+(2) The Crown must, in respect of each Crown forestry licence listed in the third column of Schedule 1, give a notice under section 17(4)﻿(b) of the Crown Forest Assets Act 1989 as if—
+  (a) the Waitangi Tribunal had made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 that the CNI forests land be returned to Māori ownership; and
   (b) the recommendation had become final.
 (3) The Crown must comply with subsection (2) as soon as is reasonably practicable after the settlement date.
-(4) Accordingly, the company will be the licensor under each Crown forestry licence listed in the third column of Schedule 1 as if the CNI forests land had been returned to Māori ownership under section 36 of the Crown Forest Assets Act 1989 (except that section 36(1)(b) of that Act does not apply).
+(4) Accordingly, the company will be the licensor under each Crown forestry licence listed in the third column of Schedule 1 as if the CNI forests land had been returned to Māori ownership under section 36 of the Crown Forest Assets Act 1989 (except that section 36(1)﻿(b) of that Act does not apply).
 (5) The subsequent administration of the accumulated rentals is subject to—
   (a) the terms of the deed of trust; and
   (b) section 18; and
@@ -284,13 +284,13 @@ The iwi of the CNI Iwi Collective may, in accordance with the resolution process
 The modifications to sections 8HA to 8HD of the Treaty of Waitangi Act 1975 referred to in sections 22(3) and 23(2) are as follows:
   (a) the jurisdiction of the Waitangi Tribunal is limited to the extent of the Crown agreed proportion that the Crown holds at any given time during the Crown initial period and the settlement of, or the making of a recommendation under section 22(2) or 23(1) in respect of, the historical claims of any other CNI claimant as it occurs from time to time will result in a corresponding change to the Tribunal's jurisdiction; and
   (b) the Crown must advise the Waitangi Tribunal of any change to the Crown agreed proportion in order to inform the Tribunal of the extent of its jurisdiction for the purposes of paragraph (a); and
-  (c) any recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of land to the ownership of the claimant must be taken to apply only to CNI forests land comprised in part or all of the Crown agreed proportion; and
+  (c) any recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of land to the ownership of the claimant must be taken to apply only to CNI forests land comprised in part or all of the Crown agreed proportion; and
   (d) despite section 8HD of that Act, any iwi of the CNI Iwi Collective is entitled to appear and be heard by the Waitangi Tribunal on the question of the historical claim of the other CNI claimant to CNI forests land; and
   (e) the CNI forests land must be treated as if it remained Crown forest land and a reference to a return of land to Māori ownership must be treated as a reference to a return of land to the claimant.
 
 ### 25 Company must give effect to Waitangi Tribunal recommendation
 (1) Subsection (2) applies if, during the Crown initial period,—
-  (a) the Waitangi Tribunal, in inquiring into the historical claims of any other CNI claimant in accordance with section 22(2) or 23(1), makes an interim recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return to ownership of the claimant of a specific area of CNI forests land comprised in part or all of the Crown agreed proportion; and
+  (a) the Waitangi Tribunal, in inquiring into the historical claims of any other CNI claimant in accordance with section 22(2) or 23(1), makes an interim recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return to ownership of the claimant of a specific area of CNI forests land comprised in part or all of the Crown agreed proportion; and
   (b) the interim recommendation becomes a final recommendation under section 8HC of that Act.
 (2) The company must give effect to the final recommendation by transferring to the claimant in question, or the claimant's nominee, the following comprised in part or all of the Crown agreed proportion:
   (a) the specific area of CNI forests land; and
@@ -351,7 +351,7 @@ To give effect to clauses 8.1 to 8.18 of the deed of settlement, the Crown (acti
 (2) The enactments are—
   (a) sections 8A to 8HJ of the Treaty of Waitangi Act 1975:
   (b) sections 27A to 27C of the State-Owned Enterprises Act 1986:
-  (c) sections 211 to 213 of the Education Act 1989:
+  (c) sections 568 to 570 of the Education and Training Act 2020:
   (d) Part 3 of the Crown Forest Assets Act 1989:
   (e) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990.
 (3) Subsection (1) is subject to subpart 4 of Part 2.
@@ -372,13 +372,13 @@ To give effect to clauses 8.1 to 8.18 of the deed of settlement, the Crown (acti
 **Eligibility of Trust to become Māori authority**
 
 ### 32 Trust must be treated as being eligible to become Māori authority
-The Trust must be treated as being eligible, under section HF 2(3)(e) of the Income Tax Act 2007, to make an election to become a Māori authority despite the Crown holding the Crown agreed proportion.
+The Trust must be treated as being eligible, under section HF 2(3)﻿(e) of the Income Tax Act 2007, to make an election to become a Māori authority despite the Crown holding the Crown agreed proportion.
 
 **Consequential amendment**
 
 ### 33 Consequential amendment to Treaty of Waitangi Act 1975
 (1) This section amends the Treaty of Waitangi Act 1975.
-(2) Schedule 3 is amended by inserting the following item in its appropriate alphabetical order:Central North Island Forests Land Collective Settlement Act 2008, section 7.
+(2) Schedule 3 is amended by inserting the following item in its appropriate alphabetical order: Central North Island Forests Land Collective Settlement Act 2008, section 7.
 
 ### Subpart 2 — Consequential amendments to this Act if Ngāti Rangitihi becomes signatory to deed of settlement
 
@@ -477,7 +477,7 @@ Amendment(s) incorporated in the Act(s).
   (c) areas of land for which agreement has not been reached, and the iwi that are claiming that land; and
   (d) areas of land that the Crown has advised are or may be subject to claims by other CNI claimants to the Crown agreed proportion.
 (6) Areas of CNI forests land that may be subject to the Crown agreed proportion cannot proceed through the resolution process or be included in the Collective’s final allocation agreement unless and until the Crown has confirmed that the area of land is not part of the Crown agreed proportion. If the Crown does so confirm, the CNI forests land will be subject to the resolution process provided for in this schedule, with any appropriate modifications to the time lines and process determined by the board of the company.
-(7) Subject to subclause (6), the company will record in its draft final allocation agreement the agreed allocations under subclause (5)(a) and (b).
+(7) Subject to subclause (6), the company will record in its draft final allocation agreement the agreed allocations under subclause (5)﻿(a) and (b).
 (8) Subject to subclause (6), all CNI forests land for which allocation is not agreed will be the subject of the Stage 2 process of negotiation between iwi kanohi ki te kanohi.
 
 ### 5 Stage 2: Kanohi ki te kanohi negotiation: 1 October 2009 to 30 June 2010
