@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2020-07-01_
+_Consolidation as at 2020-08-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -450,7 +450,7 @@ _Consolidation as at 2020-07-01_
 (7E)
 (8A) For the purposes of this Act, a levy or other amount paid to a unit title body corporate by a member of the body corporate is treated as being consideration received for services supplied by the body corporate to the member.
 (8AB) For the purposes of this Act, a unit title body corporate is treated as receiving, on the day when the body corporate becomes a registered person (the registration day), consideration for a service, supplied on the registration day by the body corporate in the course of its taxable activity, equal in value to the total value held by the body corporate on the registration day of money and of assets that are not common property and were received by the body corporate as exempt supplies.
-(8) Despite any other provision of this Act, for the purposes of this Act, if any racing betting or sports betting (within the meaning of section 5 of the Racing Act 2003) is conducted by the Agency (as defined in section 5 of the Racing Act 2003), the betting must be regarded as a supply of services by the Agency.
+(8) Despite any other provision of this Act, for the purposes of this Act, if any racing betting or sports betting (within the meaning of section 5(1) of the Racing Industry Act 2020) is conducted by TAB NZ (as defined in section 5(1) of that Act), the betting must be regarded as a supply of services by TAB NZ.
 (9)
 (10) For the purposes of this Act, an amount of money paid by a person to participate in gambling (including a New Zealand lottery) or in a prize competition is treated as a payment for a supply of services by the following:
   (a) for gambling, by the person, society, licensed promoter, or organiser who under the Gambling Act 2003 conducts the gambling:
@@ -465,7 +465,7 @@ _Consolidation as at 2020-07-01_
   (b) as commission for participating in gambling played or conducted in a casino venue,—
 (11C) For the purposes of subsection (11B), the terms casino venue, chip, and gambling have the meanings set out in section 4(1) of the Gambling Act 2003.
 (11CB) For the purposes of this Act, if a registered person in the course of a taxable activity receives a prize from a racing club or racing code for the performance in a race of a horse or greyhound owned by the registered person, the prize is treated as being consideration for a service provided by the registered person to the racing club or racing code in the course of the taxable activity.
-(11CC) For the purposes of subsection (11CB), race, racing club, and racing code have the meaning set out in section 5(1) of the Racing Act 2003.
+(11CC) For the purposes of subsection (11CB), race, racing club, and racing code have the meaning set out in section 5(1) of the Racing Industry Act 2020.
 (11D) Subsections (11E) to (11I) apply to a token, stamp or voucher that gives the recipient the right to receive goods and services, other than a token, stamp or voucher issued for no consideration.
 (11E) The issue or sale of a token, stamp or voucher is treated as a supply of goods and services.
 (11EA) A supply does not include the issue or sale of a token, stamp or voucher by a registered person to another registered person who subsequently issues or sells the token, stamp or voucher, unless the first-mentioned registered person is the person who supplies the goods and services on redemption of the token, stamp or voucher.
@@ -765,10 +765,10 @@ This Act shall bind the Crown.
 (10) Notwithstanding anything in this section, where goods and services are, or are deemed to be, supplied by any public authority pursuant to section 5(6), the value of any such supply shall be an amount equal to any amount that is brought to charge as revenue from the Crown for the supply of outputs by the public authority.
 (11) Notwithstanding anything in this section, where goods and services are, or are deemed to be, supplied to any person by any local authority pursuant to section 5(7), the consideration in money for any such supply shall be an amount equal to any amount from time to time paid or payable by or on behalf of that person for that supply.
 (12) The consideration in money for the supply of services for—
-  (a) racing betting or sports betting is treated as the amount received by the Racing Industry Transition Agency or its agents, plus the net return of bets laid off by the Board less the sum of all refunds and winning dividends; and
+  (a) racing betting or sports betting is treated as the amount received by TAB NZ or its agents, plus the net return of bets laid off by TAB NZ less the sum of all refunds and winning dividends; and
   (b) equalisator betting is treated as the amount received by a racing club.
 (12A)
-(13) In subsection (12), equalisator betting, Racing Industry Transition Agency, racing club, racing betting, and sports betting have the meanings set out in section 5 of the Racing Act 2003.
+(13) In subsection (12), equalisator betting, TAB NZ, racing club, racing betting, and sports betting have the meanings set out in section 5(1) of the Racing Industry Act 2020.
 (14) If a supply of services is treated as having been made under section 5(10), the consideration for the supply is calculated using the formula—amounts received − prizeswhere—(a)amounts received is the total of all amounts in money received in relation to the supply—(b)prizes is the total amount of all prizes paid and payable in money in relation to the supply, reduced by the total amount of input tax for supplies for which the prizes are treated as being consideration.
   (i) for gambling, by the person, society, licensed promoter, or organiser who under the Gambling Act 2003 conducts the gambling:
   (ii) for a prize competition, by the person who conducts the prize competition:
@@ -2862,11 +2862,11 @@ Section HD 15 of the Income Tax Act 2007, with any necessary modifications, appl
     (iii) any supply made to the registered person that is a supply of secondhand goods to which section 3A(1)﻿(c) of the input tax definition applies; or
     (iv) any supply made by the registered person that is a specified supply within the meaning of section 86; and
   (aa) in relation to a person who, as at the date on which the new rate of tax comes into force, is required to account for tax payable on a hybrid basis,—
-    (ia) any supply that is made by the registered person as a private training establishment granted registration by the Qualifications Authority under section 236 of the Education Act 1989 and for which consideration is held in trust on the day before that date, if the registered person includes such supplies in the form referred to in subsection (2); or
+    (ia) any supply that is made by the registered person as a private training establishment granted registration by the Qualifications Authority under section 387 of the Education and Training Act 2020 and for which consideration is held in trust on the day before that date, if the registered person includes such supplies in the form referred to in subsection (2); or
     (i) any taxable supply made to the registered person; or
     (ii) any supply made to the registered person that is a supply of secondhand goods to which section 3A(1)﻿(c) of the input tax definition applies; and
   (b) in relation to a person who, as at the date on which the new rate of tax comes into force, is required to account for tax payable on an invoice basis,—
-    (i) any supply made by the registered person as a private training establishment granted registration by the Qualifications Authority under section 236 of the Education Act 1989 and for which consideration is held in trust on the day before that date, if the registered person includes such supplies in the form referred to in subsection (2); or
+    (i) any supply made by the registered person as a private training establishment granted registration by the Qualifications Authority under section 387 of the Education and Training Act 2020 and for which consideration is held in trust on the day before that date, if the registered person includes such supplies in the form referred to in subsection (2); or
     (ii) any supply made to the registered person that is a supply of secondhand goods to which section 3A(1)﻿(c) applies,—
   (c) as at the commencement of the day on which the new rate of tax comes into force, the consideration for the supply—
     (i) remains unpaid; and
@@ -2882,7 +2882,7 @@ Section HD 15 of the Income Tax Act 2007, with any necessary modifications, appl
     (ii) a tax invoice is not required to be issued pursuant to section 24(5) or section 24(6), or a debit note or credit note is not required to be issued pursuant to section 25; or
     (iii) sufficient records are maintained as required pursuant to section 24(7), where the supply is a supply of secondhand goods to which that section relates.
 (2B) For the purposes of this section, a taxable supply made by a registered person on or after the date on which the new rate of tax comes into force is treated as being made before that date if—
-  (a) the registered person makes the supply as a private training establishment granted registration by the Qualifications Authority under section 236 of the Education Act 1989; and
+  (a) the registered person makes the supply as a private training establishment granted registration by the Qualifications Authority under section 387 of the Education and Training Act 2020; and
   (b) the consideration for the supply is held in trust on the day before that date; and
   (c) the registered person includes such supplies in the form referred to in subsection (2).
 (3) The adjustment required by this section shall be calculated as follows:
