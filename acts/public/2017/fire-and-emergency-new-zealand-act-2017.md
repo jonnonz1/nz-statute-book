@@ -1,5 +1,5 @@
 # Fire and Emergency New Zealand Act 2017
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Fire and Emergency New Zealand Act 2017.
@@ -904,7 +904,7 @@ FENZ may check, and require checks to be made as to, the adequacy of firefightin
   (h) providing accommodation for persons under lawful detention (not being persons serving a sentence of home detention or community detention, or serving a sentence of imprisonment on home detention, or on parole subject to residential restrictions imposed under section 15 of the Parole Act 2002):
   (i) any other prescribed purpose.
 (2) However, in sections 76 to 79, relevant building does not include premises of a mission (as defined in section 2(1) of the Diplomatic Privileges and Immunities Act 1968).
-(3) In this section, early childhood education and care centre has the same meaning as in section 310 of the Education Act 1989.
+(3) In this section, early childhood education and care centre has the same meaning as in section 10(1) of the Education and Training Act 2020.
 
 ### 76 Owner must provide and maintain evacuation scheme for relevant building
 (1) The owner of a relevant building must provide an evacuation scheme that is designed to enable evacuation from the scene of a fire or an alarm of fire safely to a place of safety within a reasonable time.
