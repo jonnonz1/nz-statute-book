@@ -1,5 +1,5 @@
 # Ngāti Whātua o Kaipara Claims Settlement Act 2013
-_Consolidation as at 2014-08-01_
+_Consolidation as at 2020-08-01_
 
 ## Preamble
 Background
@@ -336,7 +336,7 @@ In this Act, unless the context otherwise requires,—
   (g) for the benefit of Ngāti Whātua o Kaipara or a representative entity.
 (2) The enactments are—
   (a) Part 3 of the Crown Forest Assets Act 1989:
-  (b) sections 211 to 213 of the Education Act 1989:
+  (b) sections 568 to 570 of the Education and Training Act 2020:
   (c) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990:
   (d) sections 27A to 27C of the State-Owned Enterprises Act 1986:
   (e) sections 8A to 8HJ of the Treaty of Waitangi Act 1975.
@@ -1270,7 +1270,7 @@ The RFR landowner may, by notice to the relevant governance entity, withdraw an 
 (1) An RFR landowner may dispose of RFR land to—
   (a) the Crown; or
   (b) a Crown body.
-(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 143(5) or 206 of the Education Act 1989.
+(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 563 of the Education and Training Act 2020.
 
 ### 106 Disposal of existing public works to local authority
 (1) An RFR landowner may dispose of RFR land that is a public work or part of a public work, in accordance with section 50 of the Public Works Act 1981, to a local authority (as defined in section 2 of that Act).
@@ -1382,7 +1382,7 @@ The Crown may dispose of RFR land—
   (b) identify any computer register that contains the land; and
   (c) specify the street address for the land or, if it does not have a street address, include a description or a diagram with enough information to enable a person not familiar with the land to locate and inspect it.
 (4) To avoid doubt, a notice given under this section does not, of itself, mean that an obligation has arisen under—
-  (a) section 207(4) of the Education Act 1989 (concerning the application of sections 40 to 42 of the Public Works Act 1981 to transfers of land under the Education Act 1989); or
+  (a) section 564(3) of the Education and Training Act 2020 (concerning the application of sections 40 to 42 of the Public Works Act 1981 to transfers of land under the Education and Training Act 2020); or
   (b) sections 23(1) and 24(4) of the New Zealand Railways Corporation Restructuring Act 1990 (concerning the disposal of land of the Corporation); or
   (c) section 40 of the Public Works Act 1981 (concerning the requirement to offer back surplus land to a previous owner), or that section as applied by another enactment.
 
