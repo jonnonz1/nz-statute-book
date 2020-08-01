@@ -1,5 +1,5 @@
 # Oranga Tamariki Act 1989
-_Consolidation as at 2020-05-13_
+_Consolidation as at 2020-08-01_
 
 > Title
 
@@ -43,7 +43,7 @@ _Consolidation as at 2020-05-13_
     (i) every registered community housing provider (as defined in section 2(1) of the Housing Restructuring and Tenancy Matters Act 1992):
     (j) every DHB:
     (k) every school board (as defined in section 15(1) of the Children’s Act 2014):
-    (l) every early childhood service (as defined in section 309 of the Education Act 1989):
+    (l) every early childhood service (as defined in section 10(1) of the Education and Training Act 2020):
     (m) any person, body, or organisation that provides regulated services (as specified in Schedule 1 of the Children’s Act 2014):
     (n) any organisation or class of organisation designated as a child welfare and protection agency by regulations made under section 447(1)﻿(ga)﻿(i)
   - **Commissioner** means the Children's Commissioner continued under section 6 of the Children's Commissioner Act 2003
@@ -1161,7 +1161,7 @@ The Code is a legislative instrument and a disallowable instrument for the purpo
 (2) The collection, storage, and use of information under sections 66 to 66J of this Act must comply with principles 1, 4, 5, 6, 7, 8, 9, and 12 of section 6 of the Privacy Act 1993.
 (3) Sections 66 to 66P do not limit principle 11 in section 6 of the Privacy Act 1993 (which permits certain disclosures in addition to those authorised under those sections).
 (4) However, if there is any other inconsistency between sections 66 to 66P of this Act and any provisions of the Privacy Act 1993, sections 66 to 66P prevail.
-(5) Despite section 344(2) of the Education Act 1989, the chief executive of the Ministry of Education may use national student numbers to gather information for any of the purposes set out in section 66A(1), and the information so gathered may be used for any of those purposes.
+(5) Despite clause 4(1)﻿(c) of Schedule 24 of the Education and Training Act 2020, the chief executive of the Ministry of Education may use national student numbers to gather information for any of the purposes set out in section 66A(1), and the information so gathered may be used for any of those purposes.
 
 **Proceedings in respect of children and young persons in need of care or protection**
 
