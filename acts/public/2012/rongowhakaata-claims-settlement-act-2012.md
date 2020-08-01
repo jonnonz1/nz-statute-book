@@ -1,5 +1,5 @@
 # Rongowhakaata Claims Settlement Act 2012
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Rongowhakaata Claims Settlement Act 2012.
@@ -173,7 +173,7 @@ In this Act, unless the context requires another meaning,—
     (b) the enactments listed in Schedule 1 of that Act
   - **conservation management plan** has the meaning given in section 2(1) of the Conservation Act 1987
   - **conservation management strategy** has the meaning given in section 2(1) of the Conservation Act 1987
-  - **conservation protocol** means a protocol issued by the responsible Minister under section 24(1)(a), including any amendments made under section 24(1)(b)
+  - **conservation protocol** means a protocol issued by the responsible Minister under section 24(1)﻿(a), including any amendments made under section 24(1)﻿(b)
   - **conservation protocol area** means the area shown in the map attached to the conservation protocol
   - **control** , for the purposes of paragraph (d) of the definition of Crown body, means,—
     (a) in relation to a company, control of the composition of its board of directors; and
@@ -192,7 +192,7 @@ In this Act, unless the context requires another meaning,—
   - **Crown mineral** means, for the purposes of the Crown minerals protocol, a mineral (as defined by section 2(1) of the Crown Minerals Act 1991)—
     (a) that is the property of the Crown under section 10 or 11 of that Act; or
     (b) over which the Crown has jurisdiction under the Continental Shelf Act 1964
-  - **Crown minerals protocol** means a protocol issued by the responsible Minister under section 24(1)(a), and includes amendments made under section 24(1)(b)
+  - **Crown minerals protocol** means a protocol issued by the responsible Minister under section 24(1)﻿(a), and includes amendments made under section 24(1)﻿(b)
   - **Crown minerals protocol area** means the area shown on the map attached to the Crown minerals protocol, together with the adjacent waters
   - **cultural redress property** has the meaning given in section 45(1)
   - **date of the deed of settlement** means 30 September 2011
@@ -207,7 +207,7 @@ In this Act, unless the context requires another meaning,—
   - **documents schedule** means the documents schedule attached to the deed of settlement
   - **effective date** means the date that is 6 months after the settlement date
   - **encumbrance** , in relation to a settlement property, means a covenant, easement, lease, licence, licence to occupy, tenancy, or other right or obligation affecting that property
-  - **fisheries protocol** means a protocol issued by the responsible Minister under section 24(1)(a), and includes any amendments made under section 24(1)(b)
+  - **fisheries protocol** means a protocol issued by the responsible Minister under section 24(1)﻿(a), and includes any amendments made under section 24(1)﻿(b)
   - **fisheries protocol area** means the area subject to the fisheries protocol, as shown on the map attached to that protocol, together with the adjacent waters
   - **freshwater fisheries management plan** has the meaning given in section 2(1) of the Conservation Act 1987
   - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
@@ -226,7 +226,7 @@ In this Act, unless the context requires another meaning,—
       (ii) any amendments to the deed of trust or its schedules
   - **Ngā Uri o Te Kooti Rikirangi trustees** means the trustees of the Ngā Uri o Te Kooti Rikirangi Settlement Trust acting in their capacity as trustees
   - **property redress schedule** means the property redress schedule of the deed of settlement
-  - **protocol** means a protocol issued under section 24(1)(a), including any amendments made under section 24(1)(b)
+  - **protocol** means a protocol issued under section 24(1)﻿(a), including any amendments made under section 24(1)﻿(b)
   - **regional council** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **Registrar-General** means the Registrar-General of Land appointed under section 4 of the Land Transfer Act 1952
   - **related company** has the meaning given in section 2(3) of the Companies Act 1993
@@ -234,8 +234,8 @@ In this Act, unless the context requires another meaning,—
   - **representative entity** means—
     (a) the trustees; and
     (b) any person (including any trustees) acting for, or on behalf of,—
-      (i) the collective groups referred to in section 13(1)(a); or
-      (ii) 1 or more of the whānau, hapū, or groups referred to in section 13(1)(b) that together form that collective group; or
+      (i) the collective groups referred to in section 13(1)﻿(a); or
+      (ii) 1 or more of the whānau, hapū, or groups referred to in section 13(1)﻿(b) that together form that collective group; or
       (iii) 1 or more members of Rongowhakaata
   - **reserve site** has the meaning given in section 45
   - **resource consent** has the meaning given in section 2(1) of the Resource Management Act 1991
@@ -248,7 +248,7 @@ In this Act, unless the context requires another meaning,—
   - **RFR deferred selection property** has the meaning given in section 68
   - **RFR land** has the meaning given in section 69
   - **RFR redress** means the redress provided for in subpart 2 of Part 3
-  - **Rongowhakaata** and mean every individual referred to in section 13(1)(a)
+  - **Rongowhakaata** and mean every individual referred to in section 13(1)﻿(a)
   - **Rongowhakaata Settlement Trust** means the trust of that name established by Rongowhakaata under the Rongowhakaata Settlement Trust deed
   - **Rongowhakaata Settlement Trust deed** —
     (a) means the deed of trust establishing Rongowhakaata Settlement Trust dated 19 September 2011; and
@@ -269,7 +269,7 @@ In this Act, unless the context requires another meaning,—
   - **taonga tūturu** —
     (a) has the meaning given in section 2(1) of the Protected Objects Act 1975; and
     (b) includes ngā taonga tūturu (which has the meaning given in section 2(1) of that Act)
-  - **taonga tūturu protocol** means a protocol issued by the responsible Minister under section 24(1)(a), including any amendments made under section 24(1)(b)
+  - **taonga tūturu protocol** means a protocol issued by the responsible Minister under section 24(1)﻿(a), including any amendments made under section 24(1)﻿(b)
   - **Te Ruruku** is the document of that name provided for in clause 6.44 of the deed of settlement and set out in part 7 of the documents schedule
   - **trustees of Rongowhakaata Settlement Trust** and means the trustees of the Rongowhakaata Settlement Trust acting in their capacity as trustees.
 
@@ -294,7 +294,7 @@ In this Act, unless the context requires another meaning,—
       (ii) in the case of Ngā Uri o Te Kooti Rikirangi, the tikanga of Ngā Uri o Te Kooti Rikirangi
   - **Rongowhakaata ancestor** means, in relation to persons who exercised customary interests within the area of interest after 6 February 1840,—
     (a) Rongowhakaata and, in particular, his wives Turahiri, Uetupuke, and Moetai and their issue:
-    (b) any other ancestor of the hapū named in subsection (1)(b)
+    (b) any other ancestor of the hapū named in subsection (1)﻿(b)
   - **tikanga** means customary values and practices.
 
 ### 14 Meaning of historical claims
@@ -327,7 +327,7 @@ In this Act, unless the context requires another meaning,—
       (I) Wai 1025 (the Ngāti Ruapani Ki Turanga—Ngai Tawhiri claim); and
       (J) Wai 1086 (the Ngāti Ruapani Ki Manutuke lands and resources claim).
 (2) However, historical claims does not include any claim—
-  (a) that a member of Rongowhakaata, or a whānau, hapū, or other group referred to in section 13(1)(b) may have that is founded on a right arising as a result of being descended from an ancestor not referred to in section 13(1)(a); or
+  (a) that a member of Rongowhakaata, or a whānau, hapū, or other group referred to in section 13(1)﻿(b) may have that is founded on a right arising as a result of being descended from an ancestor not referred to in section 13(1)﻿(a); or
   (b) that a representative entity may have, to the extent that the claim is, or is founded on, a claim referred to in paragraph (a).
 
 ### Subpart 3 — Settlement of historical claims
@@ -360,7 +360,7 @@ In this Act, unless the context requires another meaning,—
 (2) The enactments are—
   (a) sections 8A to 8HJ of the Treaty of Waitangi Act 1975:
   (b) sections 27A to 27C of the State-Owned Enterprises Act 1986:
-  (c) sections 211 to 213 of the Education Act 1989:
+  (c) sections 568 to 570 of the Education and Training Act 2020:
   (d) Part 3 of the Crown Forest Assets Act 1989:
   (e) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990.
 (3) To avoid doubt, those enactments continue to apply to a deferred selection property if—
@@ -389,7 +389,7 @@ In this Act, unless the context requires another meaning,—
     (i) the Rongowhakaata Settlement Trust or the Ngā Uri o Te Kooti Settlement Trust may exist in law; or
     (ii) the trustees of either or both of those trusts may hold or deal with property (including income derived from property); or
   (b) apply to a document entered into to give effect to the deed of settlement if the application of that rule or the provisions of that Act would otherwise make the document, or a right conferred by the document, invalid or ineffective.
-(2) However, if a trust referred to in subsection (1)(a)(i) is, or becomes, a charitable trust, the application (if any) of the rule against perpetuities or any provision of the Perpetuities Act 1964 to that trust must be determined under the general law.
+(2) However, if a trust referred to in subsection (1)﻿(a)﻿(i) is, or becomes, a charitable trust, the application (if any) of the rule against perpetuities or any provision of the Perpetuities Act 1964 to that trust must be determined under the general law.
 
 **Timing of actions or matters**
 
@@ -528,12 +528,12 @@ The taonga tūturu protocol does not have the effect of granting, creating, or p
 (1) Each relevant consent authority must, for a period of 20 years from the effective date, provide the following to the trustees for each resource consent application lodged with it for an activity within, adjacent to, or directly affecting a statutory area:
   (a) a summary of the application, if the application is received by the consent authority; or
   (b) a copy of the notice, if the application is served on the consent authority under section 145(10) of the Resource Management Act 1991.
-(2) A summary provided under subsection (1)(a) must—
+(2) A summary provided under subsection (1)﻿(a) must—
   (a) be the same as would be given to an affected person under section 95B of the Resource Management Act 1991, or as may be agreed between the trustees and the relevant consent authority; and
   (b) be provided as soon as is reasonably practicable—
     (i) after an application is received by the relevant consent authority; and
     (ii) before the relevant consent authority decides under section 95 of the Resource Management Act 1991 whether to notify the application.
-(3) A copy of the notice given under subsection (1)(b) must be provided not later than 10 business days after the day on which the consent authority receives the notice.
+(3) A copy of the notice given under subsection (1)﻿(b) must be provided not later than 10 business days after the day on which the consent authority receives the notice.
 (4) The trustees may, by notice in writing to a relevant consent authority,—
   (a) waive their rights to be notified under this section; and
   (b) state the scope of that waiver and the period it applies for.
@@ -572,7 +572,7 @@ If any part of a statutory acknowledgement applies to a river or stream (includi
 (1) Except as expressly provided in sections 32 to 39,—
   (a) a statutory acknowledgement does not affect, and may not be taken into account by, a person exercising a power or performing a function or duty under an enactment or a bylaw; and
   (b) no person, in considering a matter or making a decision or recommendation under an enactment or a bylaw, may give greater or lesser weight to the association of Rongowhakaata with a statutory area (as described in a statement of association) than that person would give under the relevant enactment or bylaw if no statutory acknowledgement existed for the statutory area.
-(2) Subsection (1)(b) does not affect the operation of subsection (1)(a).
+(2) Subsection (1)﻿(b) does not affect the operation of subsection (1)﻿(a).
 
 ### 41 Rights not affected
 Except as expressly provided in sections 32 to 39, the statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
@@ -612,7 +612,7 @@ The Director-General must give notice in writing to the Ngā Uri o Te Kooti Riki
 **Sites vesting in fee simple**
 
 ### 46 Part AML site
-(1) The reservation of the Part AML site referred to in section 45(1)(a) as a general utility reserve subject to the Reserves Act 1977 is revoked.
+(1) The reservation of the Part AML site referred to in section 45(1)﻿(a) as a general utility reserve subject to the Reserves Act 1977 is revoked.
 (2) The fee simple estate in the Part AML site referred to in subsection (1) vests in the trustees.
 (3) The Part AML site that is not vested in the trustees but is held in trust as a site for a public abattoir ceases to be held subject to that trust.
 (4) The legal description of the Part AML site referred to in subsection (3) is set out in Part 3 of Schedule 2.
@@ -646,7 +646,7 @@ The fee simple estate in the ex-railway land vests in the trustees.
 ### 53 Rakaukaka
 (1) The reservation of Rakaukaka (being the Rakaukaka Scenic Reserve) as a scenic reserve subject to the Reserves Act 1977 is revoked.
 (2) The fee simple estate in Rakaukaka vests in the trustees.
-(3) Rakaukaka is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) Rakaukaka is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The reserve created by subsection (3) is named Rakaukaka Scenic Reserve.
 
 ### 54 Waikanae Creek site
@@ -703,7 +703,7 @@ Each cultural redress property vests under this subpart subject to, or together 
     (i) section 24 of the Conservation Act 1987 does not apply to the site; and
     (ii) the site is subject to sections 57(3) and 61 of this Act; or
   (b) part of the site, then the Registrar-General must ensure that the notifications referred to in paragraph (a) remain only on the computer freehold register for the part of the site that remains a reserve.
-(4) The Registrar-General must comply with an application received in accordance with subsection (3)(a).
+(4) The Registrar-General must comply with an application received in accordance with subsection (3)﻿(a).
 
 ### 59 Application of other enactments
 (1) The vesting of the fee simple estate in a cultural redress property under this subpart does not—
@@ -723,7 +723,7 @@ Each cultural redress property vests under this subpart subject to, or together 
   (a) Rakaukaka and the Waikanae Creek site is the trustees; and
   (b) Matawhero site A is the Ngā Uri o Te Kooti Rikirangi trustees.
 (2) Despite sections 48A(6), 114(5), and 115(6) of the Reserves Act 1977, sections 48A, 114, and 115 of that Act apply to a reserve site.
-(3) Sections 78(1)(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve site.
+(3) Sections 78(1)﻿(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve site.
 (4) If the reservation of a reserve site by this subpart is revoked under section 24 of the Reserves Act 1977 in relation to all or part of the site,—
   (a) section 25(2) of that Act applies to the revocation; but
   (b) the other provisions of section 25 of that Act do not apply to the revocation.
@@ -803,7 +803,7 @@ The registered proprietors of a reserve site must not mortgage, or give a securi
   (a) the transfer of a relevant property; or
   (b) a matter incidental to, or required for the purpose of, that transfer.
 (4) In exercising the powers conferred by this subpart, the Crown is not required to comply with any other enactment that would otherwise regulate or apply to the transfer of a relevant property to the trustees.
-(5) Subsection (4) is subject to subsections (2)(a) and (b).
+(5) Subsection (4) is subject to subsections (2)﻿(a) and (b).
 
 ### Subpart 2 — Right of first refusal in relation to RFR land
 
@@ -846,7 +846,7 @@ In this subpart and Schedule 3, unless the context requires another meaning,—
 (1) In this subpart, RFR land means—
   (a) the general RFR land; and
   (b) an RFR deferred selection property; and
-  (c) land obtained in exchange for a disposal of RFR land under section 82 or 83(1)(c).
+  (c) land obtained in exchange for a disposal of RFR land under section 82 or 83(1)﻿(c).
 (2) However, land ceases to be RFR land if—
   (a) the RFR landowner transfers the fee simple estate in the land to—
     (i) the trustees or their nominee (for example, under section 75); or
@@ -911,7 +911,7 @@ The RFR landowner may, by notice to the trustees, withdraw an offer at any time 
 (1) An RFR landowner may dispose of RFR land to—
   (a) the Crown; or
   (b) a Crown body.
-(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 143(5) or 206 of the Education Act 1989.
+(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 563 of the Education and Training Act 2020.
 
 ### 77 Disposal of existing public works to local authority
 (1) An RFR landowner may dispose of RFR land that is a public work, or part of a public work, in accordance with section 50 of the Public Works Act 1981 to a local authority (as defined in section 2 of the Public Works Act 1981).
@@ -943,7 +943,7 @@ An RFR landowner may dispose of RFR land in accordance with—
 
 ### 81 Disposal by the Crown under certain legislation
 The Crown may dispose of RFR land in accordance with—
-  (a) section 54(1)(d) of the Land Act 1948; or
+  (a) section 54(1)﻿(d) of the Land Act 1948; or
   (b) section 355(3) of the Resource Management Act 1991; or
   (c) section 34 of the Marine and Coastal Area (Takutai Moana) Act 2011 (concerning reclaimed land).
 
@@ -951,8 +951,8 @@ The Crown may dispose of RFR land in accordance with—
 (1) An RFR landowner may dispose of RFR land in accordance with—
   (a) section 40(2) or (4) or 41 of the Public Works Act 1981 (including as those provisions are applied by another enactment); or
   (b) section 52, 105(1), 106, 114(3), 117(7), or 119 of the Public Works Act 1981; or
-  (c) section 117(3)(a) of the Public Works Act 1981; or
-  (d) section 117(3)(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
+  (c) section 117(3)﻿(a) of the Public Works Act 1981; or
+  (d) section 117(3)﻿(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
   (e) section 23(1) or (4), 24(4), or 26 of the New Zealand Railways Corporation Restructuring Act 1990.
 (2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under section 134 of Te Ture Whenua Maori Act 1993 after an application by an RFR landowner under section 41(e) of the Public Works Act 1981.
 
@@ -981,7 +981,7 @@ The Crown may dispose of RFR land that was held—
     (i) that prevents or limits an RFR landowner’s disposal of RFR land to the trustees; and
     (ii) that the RFR landowner cannot satisfy by taking reasonable steps; and
   (c) the terms of a mortgage over, or security interest in, RFR land.
-(2) Reasonable steps, for the purposes of subsection (1)(b)(ii), do not include steps to promote the passing of an enactment.
+(2) Reasonable steps, for the purposes of subsection (1)﻿(b)﻿(ii), do not include steps to promote the passing of an enactment.
 (3) This subpart does not limit subsection (1).
 
 **Notices**
@@ -1082,16 +1082,16 @@ This subpart does not limit the ability of the Crown, or a Crown body, to sell o
 | Name of site | Description (All Gisborne Land District—Gisborne District) | Encumbrances |
 | --- | --- | --- |
 | Part AML site | 1.9285 hectares, more or less, being Lot 1 DP 6263. All Computer Freehold Register GS 4B/409. | 226828.1 Gazette Notice declaring part adjoining road to be a limited access road. |
-| 75 Birrell Street | 0.0783 hectares, more or less, being Lot 5 DP 7625. All Computer Freehold Register GS 5B/25. | Subject to a right (in gross) to transmit electric current over part marked F on DP 7625 in favour of the Poverty Bay Electric Power Board created by Transfer 173576.3. Subject to section 309(1)(a) of the Local Government Act 1974. |
+| 75 Birrell Street | 0.0783 hectares, more or less, being Lot 5 DP 7625. All Computer Freehold Register GS 5B/25. | Subject to a right (in gross) to transmit electric current over part marked F on DP 7625 in favour of the Poverty Bay Electric Power Board created by Transfer 173576.3. Subject to section 309(1)﻿(a) of the Local Government Act 1974. |
 | London Street site | 0.1361 hectares, more or less, being Lot 3 DP 5589. All GN 103173. |  |
 | Matawhero site B | 1.3775 hectares, more or less, being Section 50, Block I, Turanganui Survey District. All Computer Interest Register 69502. | 5427983.1 Gazette Notice declaring the adjoining State highway No 2 to be a limited access road.5399552.1 Notice pursuant to section 91 of the Government Roading Powers Act 1989.Subject to an unregistered lease with Concession (lease) number ECHB-17568-OTH dated 27/8/2007 to Ecoworks (NZ) Ltd. Subject to the right of way easement in gross referred to in section 49(3). |
 | 295 Palmerston Road, Gisborne | 0.0891 hectares, more or less, being Part Section 219 Town of Gisborne. Balance Computer Freehold Register GS 2B/1022. |  |
-| Ex-Railway land | 1.2772 hectares, more or less, being Lot 1 DP 9549. All Computer Freehold Register GS 6C/1000. | 226426.3 Consent notice pursuant to section 221(1) of the Resource Management Act 1991.Together with a right to drain sewage specified in Easement Certificate 230659.3 subject to section 243(a) of the Resource Management Act 1991.Subject to development plans for archaeological sites and to conditions relating to any new vehicle crossings in consent notice G.226426.3.Subject to an unregistered Lease No. 55190 of Railway premises at Gisborne, HM the Queen to Gisborne Village Railway Society. |
+| Ex-Railway land | 1.2772 hectares, more or less, being Lot 1 DP 9549. All Computer Freehold Register GS 6C/1000. | 226426.3 Consent notice pursuant to section 221(1) of the Resource Management Act 1991.Together with a right to drain sewage specified in Easement Certificate 230659.3 subject to section 243(a) of the Resource Management Act 1991.Subject to development plans for archaeological sites and to conditions relating to any new vehicle crossings in consent notice G﻿.﻿226426.3.Subject to an unregistered Lease No. 55190 of Railway premises at Gisborne, HM the Queen to Gisborne Village Railway Society. |
 
 | Name of site | Description (All Gisborne Land District—Gisborne District) | Encumbrances |
 | --- | --- | --- |
 | Matawhero site A | 1.5327 hectares, more or less, being Lots 3 and 4 DP 4751. All GN 146886.1.46.5927 hectares, more or less, being Section 23, Block I, Turanganui Survey District and Lots 2, 5, 6, and 7 DP 4751. All GN 114343.4. | Recreation Reserve subject to section 17 of the Reserves Act 1977. |
-| Rakaukaka | 5.6922 hectares, more or less, being Section 26, Block VIII, Patutahi Survey District. All Gazette 1956 p 1228. | Scenic Reserve subject to section 19(1)(a) of the Reserves Act 1977. |
+| Rakaukaka | 5.6922 hectares, more or less, being Section 26, Block VIII, Patutahi Survey District. All Gazette 1956 p 1228. | Scenic Reserve subject to section 19(1)﻿(a) of the Reserves Act 1977. |
 | Waikanae Creek site | 3.6900 hectares, more or less, being Sections 48, 50, and 57, Block II, Turanganui Survey District. | Recreation Reserve subject to section 17 of the Reserves Act 1977. |
 
 | Name of site | Description |
