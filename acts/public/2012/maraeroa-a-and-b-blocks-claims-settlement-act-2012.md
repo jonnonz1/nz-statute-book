@@ -1,5 +1,5 @@
 # Maraeroa A and B Blocks Claims Settlement Act 2012
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2020-08-01_
 
 ## Preamble
 Background
@@ -288,7 +288,7 @@ In this Act, unless the context otherwise requires,—
   (b) for the benefit of the settling group or a representative entity.
 (2) The enactments are—
   (a) Part 3 of the Crown Forest Assets Act 1989:
-  (b) sections 211 to 213 of the Education Act 1989:
+  (b) sections 568 to 570 of the Education and Training Act 2020:
   (c) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990:
   (d) sections 27A to 27C of the State-Owned Enterprises Act 1986:
   (e) sections 8A to 8HJ of the Treaty of Waitangi Act 1975.
@@ -387,12 +387,12 @@ The Crown acknowledges the statements of association.
 (1) Each relevant consent authority must, for a period of 20 years on and from the effective date, provide to the trustees the following for each resource consent application for an activity within, adjacent to, or that directly affects a statutory area:
   (a) a summary of the application, if the application is received by the consent authority; or
   (b) a copy of the notice served under section 145(10) of the Resource Management Act 1991, if the application is served on the consent authority.
-(2) The information provided under subsection (1)(a) must be—
+(2) The information provided under subsection (1)﻿(a) must be—
   (a) the same as would be given to an affected person under section 95B of the Resource Management Act 1991, or as may be agreed between the trustees and the relevant consent authority; and
   (b) provided—
     (i) as soon as is reasonably practicable after an application is received by the relevant consent authority; and
     (ii) before the relevant consent authority decides under section 95 of that Act whether to notify the application.
-(3) A copy of the notice given under subsection (1)(b) must be provided not later than 10 business days after the day on which the consent authority receives the notice.
+(3) A copy of the notice given under subsection (1)﻿(b) must be provided not later than 10 business days after the day on which the consent authority receives the notice.
 (4) The trustees may, by notice in writing to a relevant consent authority,—
   (a) waive their rights to be notified under this section; and
   (b) state the scope of that waiver and the period it applies for.
@@ -535,7 +535,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (b) the area concerned is disposed of by the Crown; or
   (c) the responsibility for managing the area concerned is transferred to a different Minister of the Crown or the Commissioner of Crown Lands.
 (3) Subsection (4) applies if—
-  (a) subsection (2)(c) applies; or
+  (a) subsection (2)﻿(c) applies; or
   (b) there is a change in the statutory management regime that applies to all or part of the overlay site.
 (4) The Crown must take reasonable steps to ensure that the trustees continue to have input into the management of the site or the area concerned through negotiation between the trustees and—
   (a) the Minister responsible for the new statutory management regime; or
@@ -615,7 +615,7 @@ In this Act, cultural redress property means each of the following named sites, 
   (b) a registrable right of way easement in gross over the areas shown as C and D on SO 442898 in favour of the Minister of Conservation, in the form set out in part 4.3 of the documents schedule; and
   (c) a registrable easement in gross for a right to convey electricity, telecommunications, and computer media over the area shown as D on SO 442898 in favour of the Minister of Conservation, in the form set out in part 4.4A of the documents schedule.
 (5) Subsections (1) to (3) apply subject to subsection (4).
-(6) The covenant provided under subsection (4)(a) is to be treated as a conservation covenant for the purposes of section 77 of the Reserves Act 1977.
+(6) The covenant provided under subsection (4)﻿(a) is to be treated as a conservation covenant for the purposes of section 77 of the Reserves Act 1977.
 
 ### 60 Pikiariki
 (1) Pikiariki ceases to be part of the Pureora Conservation Park.
@@ -636,7 +636,7 @@ In this Act, cultural redress property means each of the following named sites, 
   (e) a registrable right of way easement in gross over the areas shown as G on SO 311007 and RA, RB, and RD on SO 442816 in favour of the Minister of Conservation, in the form set out in part 4.8 of the documents schedule.
 (4) Subsections (1) and (2) apply subject to subsection (3).
 (5) The Minister of Conservation must provide to the Maraeroa A and B Blocks Incorporation a registrable right of way easement over the areas shown as RC on SO 442816, A, AA, AB, AC, AD, C, and D on SO 441383, B, BA, and BB on SO 442898, and E and F on SO 311007 in favour of Waimiha Kei Runga, in the form set out in part 4.11 of the documents schedule.
-(6) The covenant provided under subsection (3)(a) is to be treated as a conservation covenant for the purposes of section 77 of the Reserves Act 1977.
+(6) The covenant provided under subsection (3)﻿(a) is to be treated as a conservation covenant for the purposes of section 77 of the Reserves Act 1977.
 
 ### 62 Whareana
 (1) Whareana ceases to be part of the Pureora Conservation Park.
@@ -646,7 +646,7 @@ In this Act, cultural redress property means each of the following named sites, 
   (a) a registrable covenant in relation to that part of Whareana shown as Z on SO 442898 for the preservation of the reserve values of that land, in the form set out in part 4.5 of the documents schedule; and
   (b) a registrable easement in gross for a right to convey electricity, telecommunications, and computer media over the areas shown as E and F on SO 442898 in favour of the Minister of Conservation, in the form set out in part 4.5A of the documents schedule.
 (5) Subsections (1) to (3) are subject to subsection (4).
-(6) The covenant provided under subsection (4)(a) is to be treated as a conservation covenant for the purposes of section 77 of the Reserves Act 1977.
+(6) The covenant provided under subsection (4)﻿(a) is to be treated as a conservation covenant for the purposes of section 77 of the Reserves Act 1977.
 
 **Provisions of general application to vesting of cultural redress properties**
 
@@ -691,7 +691,7 @@ Each cultural redress property vests under this subpart subject to, or together 
   (a) that official geographic name is discontinued; and
   (b) the Board must ensure that, as soon as is reasonably practicable, the official geographic name is removed from the Gazetteer.
 (2) However, if a site vested under this Part comprises only part of a reserve or conservation area to which an official geographic name has been assigned,—
-  (a) subsection (1)(a) applies only to the part of the site that is vested under this Part; and
+  (a) subsection (1)﻿(a) applies only to the part of the site that is vested under this Part; and
   (b) the Board must amend the Gazetteer so that the official geographic name applies only to the part of the reserve or conservation area that is not vested under this Part.
 (3) In this section,—
   - **Board** means the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa continued by section 7 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008
@@ -704,7 +704,7 @@ Each cultural redress property vests under this subpart subject to, or together 
   (a) transfer the fee simple estate in the licensed land to the Maraeroa A and B Blocks Incorporation:
   (b) sign a transfer instrument or other document, or do anything else necessary to effect the transfer.
 (2) In exercising the powers under subsection (1), the Crown is not required to comply with any other enactment that would regulate or apply to a transfer of the licensed land.
-(3) Subsection (2) is subject to section 70(3)(a) and (b)(i) and (ii).
+(3) Subsection (2) is subject to section 70(3)﻿(a) and (b)﻿(i) and (ii).
 
 ### 69 Registrar-General to create computer freehold register
 (1) The Registrar-General must, in accordance with a written application by an authorised person,—
@@ -739,20 +739,20 @@ Each cultural redress property vests under this subpart subject to, or together 
 (2) The effect of subsection (1) is that—
   (a) the trustees of the Settlement Trust are entitled to the rental proceeds payable since the commencement of the Crown forestry licence; and
   (b) all the provisions of the Crown forestry rental trust deed apply on the basis that the trustees of the Settlement Trust are the confirmed beneficiaries.
-(3) The Crown must give notice under section 17(4)(b) of the Crown Forest Assets Act 1989 in respect of the Crown forestry licence, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land.
+(3) The Crown must give notice under section 17(4)﻿(b) of the Crown Forest Assets Act 1989 in respect of the Crown forestry licence, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land.
 (4) Notice given by the Crown under subsection (3) has effect as if—
-  (a) the Waitangi Tribunal had made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land; and
+  (a) the Waitangi Tribunal had made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land; and
   (b) the recommendation had become final on the settlement date.
 (5) The Maraeroa A and B Blocks Incorporation is the licensor under the Crown forestry licence as if the licensed land had been returned to Māori ownership—
   (a) on the settlement date; and
   (b) under section 36 of the Crown Forest Assets Act 1989.
-(6) However, section 36(1)(b) of the Crown Forest Assets Act 1989 does not apply to the licensed land.
+(6) However, section 36(1)﻿(b) of the Crown Forest Assets Act 1989 does not apply to the licensed land.
 
 ### 73 Effect of transfer of licensed land
 (1) Section 72 applies whether or not—
   (a) the transfer of the fee simple estate in the licensed land has been registered; or
   (b) the processes described in clause 17.4 of the Crown forestry licence have been completed.
-(2) To the extent that the Crown has not completed the processes referred to in subsection (1)(b) before the settlement date, it must continue those processes—
+(2) To the extent that the Crown has not completed the processes referred to in subsection (1)﻿(b) before the settlement date, it must continue those processes—
   (a) after the settlement date; and
   (b) until the processes are completed.
 (3) For the period from the settlement date until the completion of the processes referred to in subsections (1) and (2), the licence fee payable under the Crown forestry licence in respect of the land is the amount calculated in the manner described in paragraph 5.23 of part 5 of the property redress schedule.
@@ -835,7 +835,7 @@ The governance entity, when seeking to sell or gift protected land, must give th
 
 ### 84 Lodgement of instruments
 (1) Any instrument lodged to give effect to a sale, gift, or long-term lease must include a certificate given by the solicitor for the transferor or grantor certifying that the requirements of section 83 have been complied with.
-(2) Any instrument lodged to give effect to a sale or gift to a transferee that is not the Maraeroa A and B Blocks Incorporation or the trustees of the Settlement Trust must include a request to the Registrar-General to remove the notation entered under section 64(2)(c).
+(2) Any instrument lodged to give effect to a sale or gift to a transferee that is not the Maraeroa A and B Blocks Incorporation or the trustees of the Settlement Trust must include a request to the Registrar-General to remove the notation entered under section 64(2)﻿(c).
 (3) On receiving a request to do so, the Registrar-General must remove the notation referred to in subsection (2).
 
 ### Subpart 3 — Provisions relating to protected land
@@ -848,7 +848,7 @@ The governance entity, when seeking to sell or gift protected land, must give th
   (c) Part 4 of the Local Government (Rating) Act 2002:
   (d) section 13B of the Maori Trustee Act 1953:
   (e) section 30A of the Soil Conservation and Rivers Control Act 1941:
-  (f) sections 18(1)(a) to (d), 19, 20, 26, 137, 138, 140, 141, 142, 342, 344, and 346 of Te Ture Whenua Maori Act 1993:
+  (f) sections 18(1)﻿(a) to (d), 19, 20, 26, 137, 138, 140, 141, 142, 342, 344, and 346 of Te Ture Whenua Maori Act 1993:
   (g) section 27 of the Walking Access Act 2008.
 
 ### 86 Māori Land Court's jurisdiction
@@ -883,15 +883,15 @@ The Māori Land Court has and may exercise in respect of the protected land any 
 | --- | --- | --- |
 | Nga Herenga | South Auckland Land District—Waitomo District1.1098 hectares, more or less, being Section 2 SO 441383. Part Computer Interest Register SAPR185/49. |  |
 | Koromiko | South Auckland Land District—Waitomo District22.6445 hectares, more or less, being Section 2 SO 442898. Part Gazette 1978 page 2463. | Subject to the right of way easement in gross referred to in section 58(4). |
-| Kotukunui | South Auckland Land District—Waitomo District35.4552 hectares, more or less, being Section 3 SO 442898. Part Gazette 1978 page 2463. | Subject to the conservation covenant referred to in section 59(4)(a).Subject to the right of way easement in gross referred to in section 59(4)(b). Subject to the easement in gross for a right to convey electricity, telecommunications, and computer media referred to in section 59(4)(c). |
+| Kotukunui | South Auckland Land District—Waitomo District35.4552 hectares, more or less, being Section 3 SO 442898. Part Gazette 1978 page 2463. | Subject to the conservation covenant referred to in section 59(4)﻿(a).Subject to the right of way easement in gross referred to in section 59(4)﻿(b). Subject to the easement in gross for a right to convey electricity, telecommunications, and computer media referred to in section 59(4)﻿(c). |
 | Pikiariki | South Auckland Land District—Waitomo District130.6281 hectares, more or less, being Section 1 SO 441383. Part Computer Interest Register SAPR185/49. | Subject to the conservation covenant referred to in section 60(4). |
 | Waimiha Kei Runga | South Auckland Land District—Waitomo and Taupo Districts1566.8160 hectares, more or less, being Section 1 SO 442816. Part Computer Freehold Register 532173. | Subject to an unregistered licence to occupy the HF radio site in favour of the Director-General of Conservation dated 3 November 2009. |
 |  |  | Subject to a right of way over part marked V and W on DP 310734 created by Deed of Easement 6869282.7 and held in Computer Interest Register 293507. |
 |  |  | Subject to the forestry right registered under the Forestry Rights Registration Act 1983. |
-|  |  | Subject to the conservation covenant referred to in section 61(3)(a). |
-|  |  | Subject to the right of way easement in gross referred to in section 61(3)(b). |
-|  |  | Subject to the right of way easement in gross referred to in section 61(3)(c). |
-|  |  | Subject to the right of way easement in gross referred to in section 61(3)(d). |
-|  |  | Subject to the right of way easement in gross referred to in section 61(3)(e). |
+|  |  | Subject to the conservation covenant referred to in section 61(3)﻿(a). |
+|  |  | Subject to the right of way easement in gross referred to in section 61(3)﻿(b). |
+|  |  | Subject to the right of way easement in gross referred to in section 61(3)﻿(c). |
+|  |  | Subject to the right of way easement in gross referred to in section 61(3)﻿(d). |
+|  |  | Subject to the right of way easement in gross referred to in section 61(3)﻿(e). |
 |  |  | Together with the right of way easement referred to in section 61(5). |
-| Whareana | South Auckland Land District—Waitomo District31.8715 hectares, more or less, being Section 1 SO 442898. Part Gazette 1978 page 2463. | Subject to the conservation covenant referred to in section 62(4)(a). Subject to the easement in gross for a right to convey electricity, telecommunications, and computer media referred to in section 62(4)(b). |
+| Whareana | South Auckland Land District—Waitomo District31.8715 hectares, more or less, being Section 1 SO 442898. Part Gazette 1978 page 2463. | Subject to the conservation covenant referred to in section 62(4)﻿(a). Subject to the easement in gross for a right to convey electricity, telecommunications, and computer media referred to in section 62(4)﻿(b). |
