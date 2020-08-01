@@ -1,5 +1,5 @@
 # Ngāti Kuri Claims Settlement Act 2015
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Ngāti Kuri Claims Settlement Act 2015.
@@ -418,7 +418,7 @@ In this Act, unless the context otherwise requires,—
   (d) for the benefit of Ngāti Kuri or a representative entity.
 (2) The enactments are—
   (a) Part 3 of the Crown Forest Assets Act 1989:
-  (b) sections 211 to 213 of the Education Act 1989:
+  (b) sections 568 to 570 of the Education and Training Act 2020:
   (c) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990:
   (d) sections 27A to 27C of the State-Owned Enterprises Act 1986:
   (e) sections 8A to 8HJ of the Treaty of Waitangi Act 1975.
@@ -516,8 +516,8 @@ In this subpart,—
 
 ### 26 Vesting and alternative description of Te Hāpua School site B in specified circumstances
 (1) In this section, Te Hāpua School House site means the areas shown labelled A, B, and C on the Te Hāpua School House site plan (OTS-088-41) in part 2.2 of the attachments.
-(2) If the board of trustees of Te Hāpua School relinquishes the beneficial interest it has in Te Hāpua School House site as provided for in clause 8.3 of the deed of settlement, section 25(2) and (3)﻿(a) applies, but in relation to Te Hāpua School site B as described in Part 2 of Schedule 1.
-(3) However, if the board of trustees of Te Hāpua School does not relinquish the beneficial interest it has in Te Hāpua School House site as provided for in clause 8.3 of the deed of settlement, section 25(2) and (3) applies in relation to Te Hāpua School site B as described in Part 1 of Schedule 1.
+(2) If the board of Te Hāpua School relinquishes the beneficial interest it has in Te Hāpua School House site as provided for in clause 8.3 of the deed of settlement, section 25(2) and (3)﻿(a) applies, but in relation to Te Hāpua School site B as described in Part 2 of Schedule 1.
+(3) However, if the board of Te Hāpua School does not relinquish the beneficial interest it has in Te Hāpua School House site as provided for in clause 8.3 of the deed of settlement, section 25(2) and (3) applies in relation to Te Hāpua School site B as described in Part 1 of Schedule 1.
 
 ### 27 Tirirangi Urupā
 (1) The reservation of the Tirirangi Urupā (being part of Te Paki Recreation Reserve) as a recreation reserve subject to the Reserves Act 1977 is revoked.
@@ -2053,7 +2053,7 @@ The RFR landowner may, by notice to the trustees of the 1 or more offer trusts, 
 (1) An RFR landowner may dispose of RFR land to—
   (a) the Crown; or
   (b) a Crown body.
-(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 143(5) or 206 of the Education Act 1989.
+(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 563 of the Education and Training Act 2020.
 
 ### 161 Disposal of existing public works to local authorities
 (1) An RFR landowner may dispose of RFR land that is a public work, or part of a public work, in accordance with section 50 of the Public Works Act 1981 to a local authority, as defined in section 2 of that Act.
