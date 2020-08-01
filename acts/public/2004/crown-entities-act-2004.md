@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2020-04-30_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -25,13 +25,13 @@ The purpose of this Act is to reform the law relating to Crown entities to provi
 (2) This Act applies to a Crown entity, and prevails over the entity's Act, except to the extent that the entity's Act expressly provides otherwise.
 (3) Subsection (2) is subject to sections 5 and 6.
 
-### 5 Application of this Act to school boards of trustees
-(1) The provisions set out in Schedule 3 of this Act and Schedule 5A of the Education Act 1989 apply to school boards of trustees and their Crown entity subsidiaries.
-(2) Otherwise this Act does not apply to school boards of trustees and their Crown entity subsidiaries.
+### 5 Application of this Act to school boards
+(1) Schedule 3 applies to school boards and their Crown entity subsidiaries.
+(2) Otherwise this Act does not apply to school boards and their Crown entity subsidiaries.
 
 ### 6 Application of this Act to tertiary education institutions
-(1) The provisions set out in Part 1 of Schedule 4 of this Act and Part 1 of Schedule 13A of the Education Act 1989 apply to all tertiary education institutions and their Crown entity subsidiaries.
-(1A) The provisions set out in Part 2 of Schedule 4 of this Act and Part 2 of Schedule 13A of the Education Act 1989 apply to the New Zealand Institute of Skills and Technology and its council in addition to the provisions referred to in subsection (1).
+(1) The provisions set out in Part 1 of Schedule 4 apply to all tertiary education institutions and their Crown entity subsidiaries.
+(1A) The provisions set out in Part 2 of Schedule 4 apply to the New Zealand Institute of Skills and Technology and its council in addition to the provisions referred to in subsection (1).
 (1B) For the purpose of applying the provisions referred to in subsection (1A), NZIST must be treated as a statutory entity.
 (2) Otherwise this Act does not apply to tertiary education institutions and their Crown entity subsidiaries.
 
@@ -42,8 +42,8 @@ The purpose of this Act is to reform the law relating to Crown entities to provi
   (c) Crown entity subsidiaries:The following table is small in size and has 2 columns. Column 1 is headed What are they? Column 2 is headed Definition.What are they?DefinitionThese are companies incorporated under the Companies Act 1993 that are controlled by Crown entitiesA company that is—
     (a) a subsidiary of another Crown entity under sections 5 to 8 of the Companies Act 1993; or
     (b) a multi-parent subsidiary of 2 or more Crown entities
-  (d) school boards of trustees:The following table is small in size and has 2 columns. Column 1 is headed What are they? Column 2 is headed Definition.What are they?DefinitionThese are boards that are bodies corporate constituted under the Education Act 1989 (including correspondence schools)A body that is a board of trustees constituted under Part 9 of the Education Act 1989 and includes a board of a school designated as a correspondence school by the Minister of Education under section 152 of the Education Act 1989
-  (e) tertiary education institutions:The following table is small in size and has 2 columns. Column 1 is headed What are they? Column 2 is headed Definition.What are they?DefinitionThese are tertiary institutions (for example, colleges of education, the New Zealand Institute of Skills and Technology, specialist colleges, universities, or wananga) that are bodies corporate established under the Education Act 1989An institution established under Part 14 of the Education Act 1989
+  (d) school boards:The following table is small in size and has 2 columns. Column 1 is headed What are they? Column 2 is headed Definition.What are they?DefinitionThese are boards that are bodies corporate constituted under the Education and Training Act 2020 (including distance schools)A body that is a board constituted under subpart 5 of Part 3 of the Education and Training Act 2020 and includes a board of a school designated as a distance school by the Minister of Education under section 196 of that Act
+  (e) tertiary education institutions:The following table is small in size and has 2 columns. Column 1 is headed What are they? Column 2 is headed Definition.What are they?DefinitionThese are tertiary institutions (for example, universities, New Zealand Institute of Skills and Technology, or wānanga) that are bodies corporate established or continued under the Education and Training Act 2020An institution established or continued under subparts 3 or 4 of Part 4 of the Education and Training Act 2020
 (1A) Despite section 5(3) of the Companies Act 1993, a Crown entity subsidiary must be a company incorporated under that Act.
 (2) The words in brackets in subsection (1) about the effect of the different types of statutory entities are intended only as a guide.
 
@@ -56,7 +56,7 @@ ExampleCrown entities A, B, and C each own 20% of the issued shares of Company L
 
 ### 8 Meaning of parent Crown entity
 A Crown entity (A) is a parent Crown entity or parent of another Crown entity (B) if—
-  (a) A is a statutory entity or Crown entity company or school board of trustees or tertiary education institution; and
+  (a) A is a statutory entity or Crown entity company or school board or tertiary education institution; and
   (b) B is a subsidiary of A, or a multi-parent subsidiary of A and 1 or more other Crown entities, under the definition of Crown entity subsidiaries in the second column of section 7(1)﻿(c).
 
 ### 9 Power to amend Schedules 1 and 2
@@ -67,7 +67,7 @@ A Crown entity (A) is a parent Crown entity or parent of another Crown entity (B
   (d) omit the name of an autonomous Crown entity from Part 2 of Schedule 1 and add that name to Part 3 of that schedule:
   (e) omit the name of an entity or company and substitute another name in recognition of a change in the entity's or company's name:
   (f) omit the name of an entity or company in recognition of the entity's dissolution or the company's removal from the register under the Companies Act 1993.
-(2) An Order in Council cannot be made under this section in relation to a school board of trustees or a tertiary education institution.
+(2) An Order in Council cannot be made under this section in relation to a school board or a tertiary education institution.
 (3) An Order in Council cannot be made under this section to add a Crown entity subsidiary to Schedule 1 or Schedule 2.
 
 ### 10 Interpretation
@@ -81,7 +81,7 @@ A Crown entity (A) is a parent Crown entity or parent of another Crown entity (B
     (b) means, in relation to a statutory entity that does not have a board or other governing body under the entity's Act, persons who constitute the entity and who number not less than the required quorum acting together; and
     (c) means, in relation to a corporation sole, the person who is the sole member of that entity; and
     (d) in relation to a Crown entity company and Crown entity subsidiary, has the same meaning as in section 127 of the Companies Act 1993; and
-    (e) means, in relation to a school board of trustees, the persons who comprise that board and who number not less than the required quorum acting together; and
+    (e) means, in relation to a school board, the persons who comprise that board and who number not less than the required quorum acting together; and
     (f) means, in relation to a tertiary education institution, the members of its Council who number not less than the required quorum acting together
   - **borrow** has the meaning set out in section 136
   - **class of outputs** or has the meaning set out in section 136
@@ -102,7 +102,7 @@ A Crown entity (A) is a parent Crown entity or parent of another Crown entity (B
       (ii) if relevant, any other Act that expressly provides for the functions, powers, or duties of the entity (other than this Act); and
     (b) in relation to a Crown entity company, the Act (if any) that specifically provides for the formation or shareholding of the Crown entity company by Ministers or for its governance, operation, or accountability (but does not include a generic Act, like the Companies Act 1993 or this Act); and
     (c) in relation to a Crown entity subsidiary, the entity's Act of its parent Crown entity; and
-    (d) in relation to a school board of trustees or a tertiary education institution, the Education Act 1989 or the Education Act 1964
+    (d) in relation to a school board or a tertiary education institution, the Education and Training Act 2020
   - **excluded act or omission** , for the purposes of sections 120 to 126, has the meaning set out in section 126
   - **fees framework** means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest, including statutory entities and their subsidiaries and tertiary education institutions
   - **financial year** has the meaning set out in section 136
@@ -122,7 +122,7 @@ A Crown entity (A) is a parent Crown entity or parent of another Crown entity (B
     (b) means, in relation to a statutory entity that does not have a board or other governing body under the entity's Act, a person who is one of the persons who constitute that entity; and
     (c) means, in relation to a corporation sole, the person who is the sole member of that entity; and
     (d) means, in relation to a Crown entity company and Crown entity subsidiary, a director within the meaning of section 126(1)﻿(a) of the Companies Act 1993; and
-    (e) means, in relation to a school board of trustees, a trustee; and
+    (e) means, in relation to a school board, a member of the board; and
     (f) means, in relation to a tertiary education institution, a member of its Council; and
     (g) has, for the purposes of sections 120 to 125, the meaning set out in section 126; and
     (h) except to the extent that the entity's Act otherwise provides, includes any person appointed or elected under another Act as an alternate member, a deputy member, a co-opted member, a designate for a member, or an acting member
@@ -141,7 +141,7 @@ A Crown entity (A) is a parent Crown entity or parent of another Crown entity (B
       (i) a Minister who is expressly specified, in an Act or a warrant or with the authority of the Prime Minister, to be a Minister who is for the time being responsible for the exercise and performance of the functions, powers, and duties of a responsible Minister in relation to the entity; or
       (ii) if subparagraph (i) does not apply, a Minister who is for the time being responsible, under the authority of an Act or a warrant or with the authority of the Prime Minister, for the administration of the Act, or Part of the Act, by or under which the entity is established; and
     (c) in relation to a Crown entity subsidiary, a responsible Minister of the parent Crown entity of that Crown entity subsidiary
-  - **school board of trustees** has the meaning set out in section 7(1)﻿(d)
+  - **school board** has the meaning set out in section 7(1)﻿(d)
   - **shareholding Ministers** means the Ministers who hold shares in a Crown entity company under section 79
   - **statutorily independent function** means, in relation to a Crown entity or a member, employee, or office holder of a Crown entity, any matter in respect of which the entity's Act provides that—
     (a) the function must be carried out independently; or
@@ -170,7 +170,7 @@ This Act binds the Crown.
 (3) Part 4 deals with the accountability of Crown entities to Parliament and the Crown, and sets out rules on planning, financial statements, reporting, acquisition of financial products, borrowing, payment of net surpluses to the Crown, capital charges, and taxation.
 (4) Part 5 contains miscellaneous, transitional, and savings provisions.
 (5) Schedules 1 and 2 list the Crown entities in the various categories.
-(6) Schedules 3 and 4 list the provisions that apply to school boards of trustees and tertiary education institutions and their Crown entity subsidiaries.
+(6) Schedules 3 and 4 list the provisions that apply to school boards and tertiary education institutions and their Crown entity subsidiaries.
 (7) Schedule 5 sets out the board procedure for statutory entities (other than corporations sole).
 (8) Subsections (1) to (7) are only a guide to the general scheme and effect of this Act.
 
@@ -892,7 +892,7 @@ A responsible Minister of an independent Crown entity or a Crown entity company 
   (d) to ensure business continuity:
   (e) to manage risks to the Government's financial position.
 (2) The direction may be given only—
-  (a) to 1 or more categories of Crown entities (for example, to all statutory entities, all Crown entity companies, or all school boards of trustees); or
+  (a) to 1 or more categories of Crown entities (for example, to all statutory entities, all Crown entity companies, or all school boards); or
   (b) to 1 or more types of statutory entity (for example, to all Crown agents); or
   (c) to a group of Crown entities (whether made up of categories or types) if—
     (i) the group is made up of at least 3 Crown entities; and
@@ -1126,7 +1126,7 @@ Amendment(s) incorporated in the Act(s).
   (a) members, office holders, and employees of the following Crown entities:
     (i) a statutory entity:
     (ii) a Crown entity company:
-    (iii) a school board of trustees:
+    (iii) a school board:
     (iv) a Crown entity subsidiary that is wholly owned by 1 or more Crown entities referred to in subparagraphs (i) to (iii):
   (b) office holders and employees of—
     (i) a tertiary education institution:
@@ -1164,7 +1164,7 @@ Amendment(s) incorporated in the Act(s).
     (c) a managed investment product within the meaning of that Act (except a managed investment product in a superannuation scheme, a workplace savings scheme, or a KiwiSaver scheme):
     (d) a derivative
   - **financial year** means,—
-    (a) in relation to a school board of trustees or a tertiary education institution, an academic year as defined in section 159(1) of the Education Act 1989; and
+    (a) in relation to a school board or a tertiary education institution, an academic year as defined in section 10(1) of the Education and Training Act 2020; and
     (b) in relation to any other Crown entity, the 12 months ending on the close of 30 June or any other date determined for that entity by the Minister of Finance
   - **forecast financial statements** has the meaning set out in section 2(1) of the Public Finance Act 1989
   - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
@@ -1599,8 +1599,8 @@ The statement of responsibility must—
 
 **Multi-parent subsidiaries: exemptions from reporting requirements under this subpart**
 
-### 157 Multi-parent subsidiaries part-owned by school board of trustees
-(1) This section applies to a multi-parent subsidiary if any of its parent Crown entities is a school board of trustees.
+### 157 Multi-parent subsidiaries part-owned by school board
+(1) This section applies to a multi-parent subsidiary if any of its parent Crown entities is a school board.
 (2) The Minister of Finance may, by notice in writing, exempt the multi-parent subsidiary from the requirement to prepare a statement or report (as defined in section 156A(4)) if the Minister is satisfied that—
   (a) it would be unduly onerous for the multi-parent subsidiary to comply with the requirement; and
   (b) the exemption is consistent with maintaining reasonable public accountability of the multi-parent subsidiary.
@@ -2030,7 +2030,7 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Radio New Zealand Limited |  |  |  |  | ✓ |
 | Television New Zealand Limited | ✓ | ✓ | ✓ | ✓ | ✓ |
 
-## Schedule 3 — Application of Crown Entities Act 2004 to school boards of trustees
+## Schedule 3 — Application of Crown Entities Act 2004 to school boards
 
 | Section | Brief description |
 | --- | --- |
@@ -2076,14 +2076,14 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Section 135 (but only in respect of office holders and employees of tertiary education institutions and Crown entity subsidiaries) | Officials for the purposes of sections of the Crimes Act 1961 |
 | Section 136 | Interpretation for Part 4 |
 | Section 137 | Application of subpart 2 of Part 4 |
-| Section 154, as amended by the Education Act 1989 section 220(2)–(2B), in Schedule 6 | Financial statements |
-| Section 155, as modified by the Education Act 1989, section 220(2AA)﻿(a) | Statement of responsibility for financial statements |
-| Section 156, as modified by the Education Act 1989, section 220(2B) | Audit report |
-| Section 156A, as modified by the Education Act 1989, section 220(2AA)﻿(b) | Application of subpart 2 of Part 4 to Crown entity groups |
+| Section 154, as modified by the Education and Training Act 2020, section 306(2)–(5), in Schedule 6 | Financial statements |
+| Section 155, as modified by the Education and Training Act 2020, section 306(3)﻿(a) | Statement of responsibility for financial statements |
+| Section 156, as modified by the Education and Training Act 2020, section 306(5) | Audit report |
+| Section 156A, as modified by the Education and Training Act 2020, section 306(3)﻿(b) | Application of subpart 2 of Part 4 to Crown entity groups |
 | Section 156B | Minister of Finance may require additional reporting |
 | Section 157A | Other multi-parent subsidiaries |
-| Section 220 Education Act 1989 | Inclusion of financial statements in annual report |
-| Section 220 Education Act 1989 | Laying before House of Representatives of financial statements |
+| Section 306 Education and Training Act 2020 | Inclusion of financial statements in annual report |
+| Section 306 Education and Training Act 2020 | Laying before House of Representatives of financial statements |
 | Section 167 | Gifts |
 | Section 168(1) and (2) | Accounting records |
 | Sections 171(1)﻿(b) and (2) and 172 | Offences and penalties |
