@@ -1,5 +1,5 @@
 # Education (Teaching Council of Aotearoa New Zealand) Amendment Act 2018
-_Consolidation as at 2018-09-28_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Education (Teaching Council of Aotearoa New Zealand) Amendment Act 2018.
