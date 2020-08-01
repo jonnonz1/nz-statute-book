@@ -1,5 +1,5 @@
 # Children’s Act 2014
-_Consolidation as at 2018-12-21_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Children’s Act 2014.
@@ -34,7 +34,7 @@ The duties of the responsible Minister set out in sections 6D(1)﻿(d) and 7C(2)
     (c) a person who is under the age of 25 years and is receiving transition support from the department under Part 7 of the Oranga Tamariki Act 1989
   - **children’s agencies** means those departments of State or instruments of the Crown that are, with the authority of the Prime Minister, for the time being responsible (alone, or with 1 or more other departments or instruments) for the administration of all or any provisions of 1 or more of the following Acts:
     (a) Domestic Violence Act 1995:
-    (b) Education Act 1989:
+    (b) Education and Training Act 2020:
     (c) New Zealand Public Health and Disability Act 2000:
     (d) Oranga Tamariki Act 1989:
     (e) Policing Act 2008:
@@ -268,9 +268,8 @@ The purpose of this Part is to require child protection policies (that must cont
     (g) the New Zealand Police:
     (h) every other instrument for the time being prescribed under subsection (4)
   - **school board** means a board or body that is, or 1 or more managers who are,—
-    (a) a board as defined in section 60, and for the purposes of Part 7 (control and management of State schools), of the Education Act 1989; or
-    (b)
-    (c) the manager or managers of a private school that is registered under section 35A of that Act.
+    (a) a board as defined in section 10(1) of the Education and Training Act 2020; or
+    (b) the manager or managers of a private school that is registered under section 214 of that Act.
 (2) The Governor-General may, by Order in Council, prescribe, for the purposes of paragraph (c)﻿(ii) of the definition of children's services in subsection (1), classes, descriptions, or kinds of services—
   (a) provided to adults living in households that include 1 or more children; and
   (b) that do or may affect significantly any 1 or more aspects of the well-being of those children.
