@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2020-06-23_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -1059,7 +1059,7 @@ The Minister must, no later than 6 months after the date on which the Minister r
   (a) the Public Service, as defined in section 27 of the State Sector Act 1988:
   (b) local authorities, as defined in section 5(1) of the Local Government Act 2002:
   (c) council-controlled organisations, as defined in section 6(1) of the Local Government Act 2002:
-  (d) Crown entities, as defined in section 7(1) of the Crown Entities Act 2004, but excluding school boards of trustees:
+  (d) Crown entities, as defined in section 7(1) of the Crown Entities Act 2004, but excluding school boards:
   (e) companies listed in Schedule 4A of the Public Finance Act 1989:
   (f) organisations listed in Schedule 1 of the State-Owned Enterprises Act 1986:
   (g) lifeline utilities listed in Schedule 1 of the Civil Defence Emergency Management Act 2002:
