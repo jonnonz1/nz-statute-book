@@ -1,5 +1,5 @@
 # Maungaharuru-Tangitū Hapū Claims Settlement Act 2014
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Maungaharuru-Tangitū Hapū Claims Settlement Act 2014.
@@ -216,7 +216,7 @@ In this Act, unless the context otherwise requires,—
   - **LINZ** means Land Information New Zealand
   - **local authority** has the meaning given in section 5(1) of the Local Government Act 2002
   - **Maungaharuru-Tangitū Trust** means the trust of that name established by a trust deed dated 18 December 2012
-  - **member of the Maungaharuru-Tangitū Hapū** means an individual referred to in section 12(1)(a)
+  - **member of the Maungaharuru-Tangitū Hapū** means an individual referred to in section 12(1)﻿(a)
   - **national park management plan** has the meaning given to management plan in section 2 of the National Parks Act 1980
   - **property redress schedule** means the property redress schedule of the deed of settlement
   - **regional council** has the meaning given in section 2(1) of the Resource Management Act 1991
@@ -225,9 +225,9 @@ In this Act, unless the context otherwise requires,—
   - **representative entity** means—
     (a) the trustees; and
     (b) any person (including any trustee) acting for or on behalf of—
-      (i) the collective group referred to in section 12(1)(a); or
+      (i) the collective group referred to in section 12(1)﻿(a); or
       (ii) 1 or more members of the Maungaharuru-Tangitū Hapū; or
-      (iii) 1 or more of the whānau, hapū, or groups referred to in section 12(1)(b)
+      (iii) 1 or more of the whānau, hapū, or groups referred to in section 12(1)﻿(b)
   - **reserve** has the meaning given in section 2(1) of the Reserves Act 1977
   - **reserve property** has the meaning given in section 71
   - **resource consent** has the meaning given in section 2(1) of the Resource Management Act 1991
@@ -296,7 +296,7 @@ In this Act, unless the context otherwise requires,—
 (4) However, the historical claims do not include—
   (a) Wai 55—Te Whanganui-ā-Orotu claim (negotiated by another Crown-approved mandated body on behalf of Marangatūhetaua and Ngāi Te Ruruku ki Tangoio); or
   (b) Wai 692—Napier Hospital and Health Services claim (negotiated by another Crown-approved mandated body on behalf of the Hapū); or
-  (c) a claim that a member of the Maungaharuru-Tangitū Hapū, or a whānau, hapū, or group referred to in section 12(1)(b), had or may have that is founded on a right arising by virtue of being descended from a tipuna who is not a Maungaharuru-Tangitū Hapū tipuna; or
+  (c) a claim that a member of the Maungaharuru-Tangitū Hapū, or a whānau, hapū, or group referred to in section 12(1)﻿(b), had or may have that is founded on a right arising by virtue of being descended from a tipuna who is not a Maungaharuru-Tangitū Hapū tipuna; or
   (d) a claim that a representative entity had or may have that is based on a claim referred to in paragraph (c).
 (5) A claim may be a historical claim whether or not the claim has arisen or been considered, researched, registered, notified, or made on or before the settlement date.
 
@@ -328,7 +328,7 @@ In this Act, unless the context otherwise requires,—
   (c) for the benefit of the Maungaharuru-Tangitū Hapū or a representative entity.
 (2) The enactments are—
   (a) Part 3 of the Crown Forest Assets Act 1989:
-  (b) sections 211 to 213 of the Education Act 1989:
+  (b) sections 568 to 570 of the Education and Training Act 2020:
   (c) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990:
   (d) sections 27A to 27C of the State-Owned Enterprises Act 1986:
   (e) sections 8A to 8HJ of the Treaty of Waitangi Act 1975.
@@ -446,10 +446,10 @@ Not later than the settlement date, the Minister of Conservation, the Director-G
 ### 31 Interpretation
 In this subpart,—
   - **protocol** —
-    (a) means each of the following protocols issued under section 32(1)(a):
+    (a) means each of the following protocols issued under section 32(1)﻿(a):
       (i) the Crown minerals protocol:
       (ii) the taonga tūturu protocol; and
-    (b) includes any amendments made under section 32(1)(b)
+    (b) includes any amendments made under section 32(1)﻿(b)
   - **responsible Minister** means,—
     (a) for the Crown minerals protocol, the Minister of Energy and Resources:
     (b) for the taonga tūturu protocol, the Minister for Arts, Culture and Heritage:
@@ -563,11 +563,11 @@ The only purposes of the statutory acknowledgement are to—
 (1) Each relevant consent authority must, for a period of 20 years on and from the effective date, provide the following to the trustees for each resource consent application for an activity within, adjacent to, or directly affecting a statutory area:
   (a) if the application is received by the consent authority, a summary of the application; or
   (b) if notice of the application is served on the consent authority under section 145(10) of the Resource Management Act 1991, a copy of the notice.
-(2) A summary provided under subsection (1)(a) must be the same as would be given to an affected person by limited notification under section 95B of the Resource Management Act 1991 or as may be agreed between the trustees and the relevant consent authority.
+(2) A summary provided under subsection (1)﻿(a) must be the same as would be given to an affected person by limited notification under section 95B of the Resource Management Act 1991 or as may be agreed between the trustees and the relevant consent authority.
 (3) The summary must be provided—
   (a) as soon as is reasonably practicable after the relevant consent authority receives the application; but
   (b) before the relevant consent authority decides under section 95 of the Resource Management Act 1991 whether to notify the application.
-(4) A copy of a notice must be provided under subsection (1)(b) not later than 10 working days after the day on which the consent authority receives the notice.
+(4) A copy of a notice must be provided under subsection (1)﻿(b) not later than 10 working days after the day on which the consent authority receives the notice.
 (5) The trustees may, by written notice to a relevant consent authority,—
   (a) waive the right to be provided with a summary or copy of a notice under this section; and
   (b) state the scope of that waiver and the period it applies for.
@@ -732,7 +732,7 @@ The Minister of Conservation may make bylaws for 1 or more of the following purp
   (b) the relevant area is to be, or has been, disposed of by the Crown; or
   (c) the responsibility for managing the relevant area is to be, or has been, transferred to a different Minister of the Crown or the Commissioner of Crown Lands.
 (3) The Crown must take reasonable steps to ensure that the trustees continue to have input into the management of a relevant area if—
-  (a) subsection (2)(c) applies; or
+  (a) subsection (2)﻿(c) applies; or
   (b) there is a change in the statutory management regime that applies to all or part of the Tātai Tūāpapa area.
 
 ### 64 Exercise of powers and performance of functions and duties
@@ -854,9 +854,9 @@ Despite the Reserves Act 1977, the reserve status of Te Pohue Domain Recreation 
 (1) The reservation of bed of Lake Opouahi (being part of Opouahi Scenic Reserve) as a scenic reserve subject to the Reserves Act 1977 is revoked.
 (2) The fee simple estate in bed of Lake Opouahi vests in the trustees.
 (3) The stratum above bed of Lake Opouahi vests in the trustees—
-  (a) as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977; and
+  (a) as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977; and
   (b) as if it were vested under section 26 of the Reserves Act 1977.
-(4) Bed of Lake Opouahi is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(4) Bed of Lake Opouahi is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (5) The reserve comprising bed of Lake Opouahi and the stratum above bed of Lake Opouahi is named Lake Opouahi Scenic Reserve.
 (6) The Minister of Conservation must provide the trustees with a registrable right of way easement in relation to the bed of Lake Opouahi and the stratum above bed of Lake Opouahi on the terms and conditions set out in part 6.3 of the documents schedule.
 (7) The easement is—
@@ -923,7 +923,7 @@ Despite section 83(b), the trustees are not—
   (c) of a lake property that occurred before the settlement date; or
   (d) if liability for contamination arises only because the trustees are the owners of a lake property.
 (2) Subsection (1) does not apply to the extent that any contamination is caused by an intentional, reckless, or negligent act or omission of the trustees.
-(3) In subsection (1)(b), natural and physical resources has the meaning given in section 2(1) of the Resource Management Act 1991.
+(3) In subsection (1)﻿(b), natural and physical resources has the meaning given in section 2(1) of the Resource Management Act 1991.
 
 ### 86 Boundaries relating to lake properties
 To the extent that a lake property has moveable boundaries, the boundaries are governed by the common law rules of accretion, erosion, and avulsion.
@@ -1010,7 +1010,7 @@ Each cultural redress property vested under this subpart is subject to, or has t
 (4) If section 27 of the Reserves Act 1977 is invoked in relation to the stratum above bed of Lake Opouahi, the stratum above bed of Lake Orakai, the stratum above part bed of Lake Tūtira, or the stratum above bed of Lake Waikopiro for—
   (a) all of the stratum, the Director-General must apply in writing to the Registrar-General to remove from the computer freehold register for the stratum the notifications that the stratum is subject to sections 95(3) and 101:
   (b) part of the stratum, the Registrar-General must ensure that the notifications referred to in paragraph (a) remain only on the computer freehold register for that part of the stratum that remains a reserve.
-(5) The Registrar-General must comply with an application received in accordance with subsection (3)(a) or (4)(a) (as the case may be).
+(5) The Registrar-General must comply with an application received in accordance with subsection (3)﻿(a) or (4)﻿(a) (as the case may be).
 
 ### 97 Application of other enactments
 (1) The vesting of the fee simple estate in a cultural redress property under this subpart does not—
@@ -1034,7 +1034,7 @@ Each cultural redress property vested under this subpart is subject to, or has t
 ### 99 Application of other enactments to reserve properties
 (1) Except as provided in section 74, the trustees are the administering body for a reserve property.
 (2) Sections 48A, 114, and 115 of the Reserves Act 1977 apply to a reserve property, despite sections 48A(6), 114(5), and 115(6) of that Act.
-(3) Sections 78(1)(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve property.
+(3) Sections 78(1)﻿(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve property.
 (4) If the reservation of a reserve property under this subpart is revoked under section 24 of the Reserves Act 1977 for all or part of the property, section 25(2) of that Act applies to the revocation, but not the rest of section 25 of that Act.
 (5) To avoid doubt, subsection (4) does not apply to—
   (a) the stratum above bed of Lake Opouahi:
@@ -1140,7 +1140,7 @@ In subparts 1 to 3,—
 (1) To give effect to part 6 of the deed of settlement, the Crown (acting by and through the chief executive of the land holding agency) is authorised to—
   (a) transfer the fee simple estate in a commercial redress property to the trustees; and
   (b) sign a transfer instrument or other document, or do anything else, as necessary to effect the transfer.
-(2) To avoid doubt, subsection (1)(b) authorises the chief executive of the Ministry of Justice to accept, on behalf of Her Majesty the Queen, a transfer of Opouahi Station (as described in part 3 of the property redress schedule) from Landcorp Holdings Limited to Her Majesty the Queen.
+(2) To avoid doubt, subsection (1)﻿(b) authorises the chief executive of the Ministry of Justice to accept, on behalf of Her Majesty the Queen, a transfer of Opouahi Station (as described in part 3 of the property redress schedule) from Landcorp Holdings Limited to Her Majesty the Queen.
 
 ### 110 Minister of Conservation may grant easements
 (1) The Minister of Conservation may grant any easement over a conservation area or reserve that is required to fulfil the terms of the deed of settlement in relation to a commercial redress property.
@@ -1197,20 +1197,20 @@ In subparts 1 to 3,—
 (2) The effect of subsection (1) is that—
   (a) the trustees are entitled to the rental proceeds payable for the licensed land to the trustees of the Crown forestry rental trust under a Crown forestry licence since the commencement of the licence; and
   (b) all the provisions of the Crown forestry rental trust deed apply on the basis that the trustees are the confirmed beneficiaries in relation to the licensed land.
-(3) The Crown must give notice under section 17(4)(b) of the Crown Forest Assets Act 1989 in respect of a Crown forestry licence, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land.
+(3) The Crown must give notice under section 17(4)﻿(b) of the Crown Forest Assets Act 1989 in respect of a Crown forestry licence, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land.
 (4) Notice given by the Crown under subsection (3) has effect as if—
-  (a) the Waitangi Tribunal had made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land; and
+  (a) the Waitangi Tribunal had made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land; and
   (b) the recommendation had become final on the settlement date.
 (5) The trustees are the licensors under the Crown forestry licence as if the licensed land had been returned to Māori ownership—
   (a) on the settlement date; and
   (b) under section 36 of the Crown Forest Assets Act 1989.
-(6) However, section 36(1)(b) of the Crown Forest Assets Act 1989 does not apply to the licensed land.
+(6) However, section 36(1)﻿(b) of the Crown Forest Assets Act 1989 does not apply to the licensed land.
 
 ### 117 Effect of transfer of licensed land
 (1) Section 116 applies whether or not—
   (a) the transfer of the fee simple estate in the licensed land has been registered; or
   (b) the processes described in clause 17.4 of the Crown forestry licence have been completed.
-(2) To the extent that the Crown has not completed the processes referred to in subsection (1)(b) before the settlement date, it must continue those processes—
+(2) To the extent that the Crown has not completed the processes referred to in subsection (1)﻿(b) before the settlement date, it must continue those processes—
   (a) on and after the settlement date; and
   (b) until the processes are completed.
 (3) For the period starting on the settlement date until the completion of the processes referred to in subsections (1) and (2), the licence fee payable under the Crown forestry licence in respect of the licensed land is the amount calculated in the manner described in paragraphs 4.23 and 4.24 of the property redress schedule.
@@ -1268,7 +1268,7 @@ In this subpart and Schedule 6,—
       (ii) grant an easement over the land; or
       (iii) consent to an assignment of a lease, or to a sublease, of the land; or
       (iv) remove an improvement, a fixture, or a fitting from the land
-  - **expiry date** , in relation to an offer, means its expiry date under sections 124(2)(a) and 125
+  - **expiry date** , in relation to an offer, means its expiry date under sections 124(2)﻿(a) and 125
   - **notice** means a notice given under this subpart
   - **offer** means an offer by an RFR landowner, made in accordance with section 124, to dispose of RFR land to the trustees
   - **public work** has the meaning given in section 2 of the Public Works Act 1981
@@ -1288,7 +1288,7 @@ In this subpart and Schedule 6,—
     (i) vested in the Crown; or
     (ii) held in fee simple by the Crown; or
     (iii) a reserve vested in an administering body that derived title to the reserve from the Crown and that would, on the application of section 25 or 27 of the Reserves Act 1977, revest in the Crown; and
-  (b) any land obtained in exchange for a disposal of RFR land under section 135(1)(c) or 136.
+  (b) any land obtained in exchange for a disposal of RFR land under section 135(1)﻿(c) or 136.
 (2) RFR land does not include a commercial redress property.
 (3) Land ceases to be RFR land if—
   (a) the fee simple estate in the land transfers from the RFR landowner to—
@@ -1356,7 +1356,7 @@ The RFR landowner may, by notice to the trustees, withdraw an offer at any time 
 (1) An RFR landowner may dispose of RFR land to—
   (a) the Crown; or
   (b) a Crown body.
-(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 143(5) or 206 of the Education Act 1989.
+(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 563 of the Education and Training Act 2020.
 
 ### 130 Disposal of existing public works to local authorities
 (1) An RFR landowner may dispose of RFR land that is a public work, or part of a public work, in accordance with section 50 of the Public Works Act 1981 to a local authority, as defined in section 2 of that Act.
@@ -1388,7 +1388,7 @@ An RFR landowner may dispose of RFR land in accordance with—
 
 ### 134 Disposal under certain legislation
 An RFR landowner may dispose of RFR land in accordance with—
-  (a) section 54(1)(d) of the Land Act 1948; or
+  (a) section 54(1)﻿(d) of the Land Act 1948; or
   (b) section 34, 43, or 44 of the Marine and Coastal Area (Takutai Moana) Act 2011; or
   (c) section 355(3) of the Resource Management Act 1991; or
   (d) an Act that—
@@ -1399,8 +1399,8 @@ An RFR landowner may dispose of RFR land in accordance with—
 (1) An RFR landowner may dispose of RFR land in accordance with—
   (a) section 40(2) or (4) or 41 of the Public Works Act 1981 (including as applied by another enactment); or
   (b) section 52, 105(1), 106, 114(3), 117(7), or 119 of the Public Works Act 1981; or
-  (c) section 117(3)(a) of the Public Works Act 1981; or
-  (d) section 117(3)(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
+  (c) section 117(3)﻿(a) of the Public Works Act 1981; or
+  (d) section 117(3)﻿(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
   (e) section 23(1) or (4), 24(4), or 26 of the New Zealand Railways Corporation Restructuring Act 1990.
 (2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under section 134 of Te Ture Whenua Maori Act 1993, after an application by an RFR landowner under section 41(e) of the Public Works Act 1981.
 
@@ -1429,7 +1429,7 @@ The Crown may dispose of RFR land—
     (i) prevents or limits an RFR landowner’s disposal of RFR land to the trustees; and
     (ii) the RFR landowner cannot satisfy by taking reasonable steps; and
   (c) the terms of a mortgage over, or security interest in, RFR land.
-(2) For the purposes of subsection (1)(b)(ii), reasonable steps do not include steps to promote the passing of an enactment.
+(2) For the purposes of subsection (1)﻿(b)﻿(ii), reasonable steps do not include steps to promote the passing of an enactment.
 
 **Notices about RFR land**
 
@@ -1607,13 +1607,13 @@ This subpart does not limit the ability of the Crown, or a Crown body, to sell o
 | Name of property | DescriptionHawke's Bay Land District—Hastings District | Interests |
 | --- | --- | --- |
 | Te Pohue Domain Recreation Reserve | 2.2328 hectares, more or less, being Section 8 Block XIII Maungaharuru Survey District. Part computer freehold register HBJ1/1292. | Subject to being a recreation reserve as referred to in section 74(3). |
-| Lake Opouahi property | Bed of Lake Opouahi6.2630 hectares, more or less, being Section 1 SO 465245. Part computer freehold register HBK4/1278. | Subject to being a scenic reserve as referred to in section 79(3)(a).Subject to a right to convey water created by computer interest register HBH4/596.Together with a right of way easement specified in section 79(6). |
+| Lake Opouahi property | Bed of Lake Opouahi6.2630 hectares, more or less, being Section 1 SO 465245. Part computer freehold register HBK4/1278. | Subject to being a scenic reserve as referred to in section 79(3)﻿(a).Subject to a right to convey water created by computer interest register HBH4/596.Together with a right of way easement specified in section 79(6). |
 |  | Stratum above bed of Lake Opouahi6.2630 hectares, more or less, being Section 2 SO 465245. Part computer freehold register HBK4/1278. | Subject to being a scenic reserve as referred to in section 79(4).Subject to an unregistered research and collection permit with concession number ECHB-23012-FAU.Subject to a right to convey water created by computer interest register HBH4/596.Together with a right of way easement specified in section 79(6). |
-| Lake Orakai property | Bed of Lake Orakai4.1260 hectares, more or less, being Section 1 SO 465244. Part Gazette Notice 189845. | Subject to being a recreation reserve as referred to in section 80(3)(a).Subject to Lakes Orakai, Tutira and Waikopiro Wildlife Refuge Order 1973 (SR 1973/274).Together with a right of way easement specified in section 80(6). |
+| Lake Orakai property | Bed of Lake Orakai4.1260 hectares, more or less, being Section 1 SO 465244. Part Gazette Notice 189845. | Subject to being a recreation reserve as referred to in section 80(3)﻿(a).Subject to Lakes Orakai, Tutira and Waikopiro Wildlife Refuge Order 1973 (SR 1973/274).Together with a right of way easement specified in section 80(6). |
 |  | Stratum above bed of Lake Orakai4.1260 hectares, more or less, being Section 2 SO 465244. Part Gazette Notice 189845. | Subject to being a recreation reserve as referred to in section 80(4).Subject to Lakes Orakai, Tutira and Waikopiro Wildlife Refuge Order 1973 (SR 1973/274).Together with a right of way easement specified in section 80(6). |
-| Part Lake Tūtira property | Part bed of Lake Tūtira166.2800 hectares, more or less, being Section 1 SO 465246. Part Gazette Notice 189845. | Subject to being a recreation reserve as referred to in section 81(3)(a).Subject to Lakes Orakai, Tutira and Waikopiro Wildlife Refuge Order 1973 (SR 1973/274).Together with a right of way easement specified in section 81(6). |
+| Part Lake Tūtira property | Part bed of Lake Tūtira166.2800 hectares, more or less, being Section 1 SO 465246. Part Gazette Notice 189845. | Subject to being a recreation reserve as referred to in section 81(3)﻿(a).Subject to Lakes Orakai, Tutira and Waikopiro Wildlife Refuge Order 1973 (SR 1973/274).Together with a right of way easement specified in section 81(6). |
 |  | Stratum above part bed of Lake Tūtira166.2800 hectares, more or less, being Section 2 SO 465246. Part Gazette Notice 189845. | Subject to being a recreation reserve as referred to in section 81(4).Subject to an unregistered research and collection permit with concession number ECHB-23012-FAU.Subject to an unregistered guiding concession to M A Skeet T/A One Cast Adventures with concession number WE-27667-GUI.Subject to Lakes Orakai, Tutira, and Waikopiro Wildlife Refuge Order 1973 (SR 1973/274).Together with a right of way easement specified in section 81(6). |
-| Lake Waikopiro property | Bed of Lake Waikopiro11.6800 hectares, more or less, being Section 1 SO 465247. Part Gazette Notice 189845. | Subject to being a recreation reserve as referred to in section 82(3)(a).Subject to Lakes Orakai, Tutira, and Waikopiro Wildlife Refuge Order 1973 (SR 1973/274).Together with a right of way easement specified in section 82(6). |
+| Lake Waikopiro property | Bed of Lake Waikopiro11.6800 hectares, more or less, being Section 1 SO 465247. Part Gazette Notice 189845. | Subject to being a recreation reserve as referred to in section 82(3)﻿(a).Subject to Lakes Orakai, Tutira, and Waikopiro Wildlife Refuge Order 1973 (SR 1973/274).Together with a right of way easement specified in section 82(6). |
 |  | Stratum above bed of Lake Waikopiro11.6800 hectares, more or less, being Section 2 SO 465247. Part Gazette Notice 189845. | Subject to being a recreation reserve as referred to in section 82(4).Subject to an unregistered research and collection permit with concession number ECHB-23012-FAU.Subject to an unregistered guiding concession to M A Skeet T/A One Cast Adventures with concession number WE-27667-GUI.Subject to Lakes Orakai, Tutira, and Waikopiro Wildlife Refuge Order 1973 (SR 1973/274).Together with a right of way easement specified in section 82(6). |
 
 ## Schedule 5 — Gifting-back properties
