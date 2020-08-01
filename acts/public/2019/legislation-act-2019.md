@@ -1,5 +1,5 @@
 # Legislation Act 2019
-_Consolidation as at 2020-04-01_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Legislation Act 2019.
@@ -615,7 +615,7 @@ In this section and sections 74 to 76,—
   - **maker’s website** means an Internet site (other than the legislation website) maintained by or on behalf of the maker
   - **relevant central government entity** means any of the following (or a decision-making person or body in or related to, or acting through or for, any of the following):
     (a) a department named in Schedule 1 of the State Sector Act 1988, including any departmental agency that, under section 27A and Schedule 1A of that Act, is part of that department:
-    (b) a Crown entity (as defined in section 7(1) of the Crown Entities Act 2004, but excluding a school board of trustees and a tertiary education institution):
+    (b) a Crown entity (as defined in section 7(1) of the Crown Entities Act 2004, but excluding a school board and a tertiary education institution):
     (c) the Reserve Bank of New Zealand:
     (d) any other instrument of the Crown prescribed, for the purposes of this paragraph, by regulations made under this Act (if any).
 
@@ -1567,9 +1567,8 @@ A failure to comply with this schedule does not invalidate secondary legislation
 | Customs and Excise Act 2018 | cl 20 of Schedule 3 |  |
 | Customs and Excise Act 2018 | cl 21 of Schedule 3 |  |
 | Customs and Excise Act 2018 | cl 23 of Schedule 3 | Only if the order increases a rate of duty |
-| Education Act 1989 | 2(4) |  |
-| Education Act 1989 | 159(4) |  |
-| Education Act 1989 | 501(1) |  |
+| Education and Training Act 2020 | 10(2) |  |
+| Education and Training Act 2020 | 382(1) |  |
 | Energy (Fuels, Levies, and References) Act 1989 | 33(1) |  |
 | Energy Resources Levy Act 1976 | 5(1) |  |
 | Fisheries Act 1996 | 74(7) |  |
