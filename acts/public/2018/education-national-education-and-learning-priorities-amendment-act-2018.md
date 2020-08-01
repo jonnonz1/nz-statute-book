@@ -1,5 +1,5 @@
 # Education (National Education and Learning Priorities) Amendment Act 2018
-_Consolidation as at 2018-11-06_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Education (National Education and Learning Priorities) Amendment Act 2018.
