@@ -1,5 +1,5 @@
 # Education (Te Aho Matua) Amendment Act 1999
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2020-08-01_
 
 > An Act to amend the Education Act 1989 by acknowledging the role of Te Aho Matua in Kura Kaupapa Maori
 
