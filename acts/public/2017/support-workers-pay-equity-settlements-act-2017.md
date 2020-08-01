@@ -1,5 +1,5 @@
 # Care and Support Workers (Pay Equity) Settlement Act 2017
-_Consolidation as at 2020-04-01_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Care and Support Workers (Pay Equity) Settlement Act 2017.
@@ -70,15 +70,15 @@ In this Act, unless the context otherwise requires,—
       (iii) Residential Support Services
   - **level 2 qualification** means—
     (a) a level 2 New Zealand Certificate in Health and Wellbeing issued by NZQA; or
-    (b) a qualification (whether from New Zealand or overseas) that is recognised by the relevant workforce development council (as that term is defined in section 477 of the Education Act 1989) as being equivalent to the qualification described in paragraph (a)
+    (b) a qualification (whether from New Zealand or overseas) that is recognised by the relevant workforce development council (as defined in section 10(1) of the Education and Training Act 2020) as being equivalent to the qualification described in paragraph (a)
   - **level 3 qualification** means—
     (a) a level 3 New Zealand Certificate in Health and Wellbeing issued by NZQA; or
-    (b) a qualification (whether from New Zealand or overseas) that is recognised by the relevant workforce development council (as that term is defined in section 477 of the Education Act 1989) as being equivalent to the qualification described in paragraph (a)
+    (b) a qualification (whether from New Zealand or overseas) that is recognised by the relevant workforce development council (as defined in section 10(1) of the Education and Training Act 2020) as being equivalent to the qualification described in paragraph (a)
   - **level 4 qualification** means—
     (a) a level 4 New Zealand Certificate in Health and Wellbeing issued by NZQA; or
-    (b) a qualification (whether from New Zealand or overseas) that is recognised by the relevant workforce development council (as that term is defined in section 477 of the Education Act 1989) as being equivalent to the qualification described in paragraph (a)
+    (b) a qualification (whether from New Zealand or overseas) that is recognised by the relevant workforce development council (as defined in section 10(1) of the Education and Training Act 2020) as being equivalent to the qualification described in paragraph (a)
   - **Ministry of Health** means the department of the Public Service referred to by that name
-  - **NZQA** means the New Zealand Qualifications Authority established under Part 20 of the Education Act 1989
+  - **NZQA** means the New Zealand Qualifications Authority continued by section 430 of the Education and Training Act 2020
   - **ordinary hourly wage** , in relation to a care and support worker,—
     (a) means the worker’s wage for an hour’s work in the worker’s substantive position; and
     (b) does not include any other amounts paid, including an amount paid for working overtime, for working at night or on a weekend, or for acting in a position for which there is a higher hourly wage.
