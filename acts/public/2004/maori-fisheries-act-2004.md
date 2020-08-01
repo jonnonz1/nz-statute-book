@@ -1,5 +1,5 @@
 # Maori Fisheries Act 2004
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2020-08-01_
 
 ## Preamble
 (1) By the Treaty of Waitangi, the Queen of England confirmed and guaranteed to the chiefs, tribes, and individual Maori the full, exclusive, and undisturbed possession of their fisheries for so long as they wished to retain them:
@@ -193,7 +193,7 @@ In this Act, unless the context otherwise requires,—
   - **total allowable commercial catch** has the meaning given to it in section 2(1) of the Fisheries Act 1996
   - **Treaty of Waitangi Fisheries Commission** means the Commission established under section 4 of the Maori Fisheries Act 1989
   - **voting share** means a voting share in Aotearoa Fisheries Limited
-  - **wananga** has the meaning given to it in section 159 of the Education Act 1989.
+  - **wānanga** has the same meaning as in section 10(1) of the Education and Training Act 2020.
 
 ### 6 Act binds the Crown
 This Act binds the Crown.
@@ -1202,9 +1202,9 @@ In achieving the purpose of Te Putea Whakatupu Trust, Te Putea Whakatupu Trustee
     (i) promoting educational and training programmes, courses, and schemes within New Zealand for Maori, with a view to providing educational and training opportunities, including those that have application to the fishing industry:
     (ii) funding the development of the skills of Maori, including those relevant to the fishing industry:
     (iii) promoting the advancement of Maori by—
-      (A) offering or funding scholarships and grants to enable Maori students to meet the entry requirements of wananga, universities, or other tertiary institutions in New Zealand or overseas; and
-      (B) establishing scholarships and grants, or funding wananga, universities, or other tertiary institutions in New Zealand to offer scholarships and grants, with a view to encouraging Maori to develop their education and skills:
-    (iv) promoting research and development by wananga, universities, or other tertiary institutions in New Zealand or overseas into (but not limited to)—
+      (A) offering or funding scholarships and grants to enable Maori students to meet the entry requirements of wānanga, universities, or other tertiary institutions in New Zealand or overseas; and
+      (B) establishing scholarships and grants, or funding wānanga, universities, or other tertiary institutions in New Zealand to offer scholarships and grants, with a view to encouraging Maori to develop their education and skills:
+    (iv) promoting research and development by wānanga, universities, or other tertiary institutions in New Zealand or overseas into (but not limited to)—
       (A) the involvement of Maori in fishing and fisheries-related activities; and
       (B) matters affecting Maori fishing:
     (v) facilitating access of Maori working in, or wishing to work in industry (including the fishing industry), to—
