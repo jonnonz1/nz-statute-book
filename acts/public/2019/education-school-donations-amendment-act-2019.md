@@ -1,5 +1,5 @@
 # Education (School Donations) Amendment Act 2019
-_Consolidation as at 2019-10-21_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Education (School Donations) Amendment Act 2019.
