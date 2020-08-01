@@ -1,5 +1,5 @@
 # Ngāti Apa (North Island) Claims Settlement Act 2010
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2020-08-01_
 
 ## Preamble
 Background
@@ -170,11 +170,11 @@ In this Act, unless the context otherwise requires,—
     (a) means a property described in Part 18 of the Schedule of the deed of settlement; and
     (b) includes, for the purposes of subpart 1 of Part 3, any undivided half share in the fee simple estate in the Whanganui (Kaitoke) Prison to be transferred to the trustees under the deed of settlement
   - **Director-General** means the Director-General of Conservation
-  - **DOC protocol** means a protocol issued by the Minister of Conservation under section 20(1)(a), including any amendments made under section 20(1)(b)
+  - **DOC protocol** means a protocol issued by the Minister of Conservation under section 20(1)﻿(a), including any amendments made under section 20(1)﻿(b)
   - **DOC protocol area** means the area shown on the map attached to the DOC protocol
   - **effective date** means the date that is 6 months after the settlement date
   - **encumbrance** means a lease, tenancy, licence, licence to occupy, easement, covenant, or other right affecting a property
-  - **fisheries protocol** means a protocol issued by the Minister of Fisheries under section 20(1)(a), including any amendments made under section 20(1)(b)
+  - **fisheries protocol** means a protocol issued by the Minister of Fisheries under section 20(1)﻿(a), including any amendments made under section 20(1)﻿(b)
   - **fisheries protocol area** means the area shown on the map attached to the fisheries protocol, together with the adjacent waters
   - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **historical claims** has the meaning given to it in section 12
@@ -185,18 +185,18 @@ In this Act, unless the context otherwise requires,—
   - **licensor** means the licensor for the time being of the Crown forestry licence
   - **LINZ** means Land Information New Zealand
   - **local authority** has the meaning given to it in section 5(1) of the Local Government Act 2002
-  - **member of Ngāti Apa (North Island)** means every individual referred to in section 11(1)(a)
+  - **member of Ngāti Apa (North Island)** means every individual referred to in section 11(1)﻿(a)
   - **national park management plan** has the same meaning as in section 2 of the National Parks Act 1980
   - **protected site** has the meaning given to it in section 83
-  - **protocol** means a protocol issued under section 20(1)(a), including any amendments made under section 20(1)(b)
+  - **protocol** means a protocol issued under section 20(1)﻿(a), including any amendments made under section 20(1)﻿(b)
   - **regional council** has the meaning given to it in section 2(1) of the Resource Management Act 1991
   - **Registrar-General** means the Registrar-General of Land appointed under section 4 of the Land Transfer Act 1952
   - **relevant consent authority** means a consent authority of a region or district that contains, or is adjacent to, a statutory area
   - **representative entity** means—
     (a) the trustees; and
     (b) any person (including any trustees) acting for, or on behalf of,—
-      (i) the collective group referred to in section 11(1)(a); or
-      (ii) 1 or more of the whānau, hapū, or groups that together form the collective group referred to in section 11(1)(a); or
+      (i) the collective group referred to in section 11(1)﻿(a); or
+      (ii) 1 or more of the whānau, hapū, or groups that together form the collective group referred to in section 11(1)﻿(a); or
       (iii) 1 or more members of Ngāti Apa (North Island)
   - **reserve land** has the meaning given to it in section 62(1)
   - **reserve site** has the meaning given to it in section 43
@@ -232,7 +232,7 @@ In this Act, unless the context otherwise requires,—
   - **taonga tūturu** —
     (a) has the meaning given to it in section 2(1) of the Protected Objects Act 1975; and
     (b) includes ngā taonga tūturu (which has the meaning given to it in section 2(1) of that Act)
-  - **taonga tūturu protocol** means a protocol issued by the Minister for Arts, Culture and Heritage under section 20(1)(a), including any amendments made under section 20(1)(b)
+  - **taonga tūturu protocol** means a protocol issued by the Minister for Arts, Culture and Heritage under section 20(1)﻿(a), including any amendments made under section 20(1)﻿(b)
   - **Taukoro** means the land as shown on SO 402249 for which a deed of recognition applies
   - **Te Runanga o Ngāti Apa** means the trust established by the Te Runanga o Ngāti Apa trust deed
   - **Te Runanga o Ngāti Apa trust deed** —
@@ -253,7 +253,7 @@ In this Act, unless the context otherwise requires,—
 (1) In this Act, Ngāti Apa (North Island)—
   (a) means the collective group composed of—
     (i) individuals who descend from 1 or more Ngāti Apa (North Island) ancestors; and
-    (ii) individuals who are members of a group referred to in paragraph (c)(i); and
+    (ii) individuals who are members of a group referred to in paragraph (c)﻿(i); and
   (b) means every individual referred to in paragraph (a); and
   (c) includes the following groups:
     (i) the groups referred to in Part 2 of the Schedule of the deed of settlement; and
@@ -261,12 +261,12 @@ In this Act, unless the context otherwise requires,—
 (2) In this section and section 12, Ngāti Apa (North Island) ancestor means an individual who—
   (a) exercised customary rights by virtue of being descended from—
     (i) any of the individuals referred to in Part 3 of the Schedule of the deed of settlement; or
-    (ii) a recognised ancestor of a group referred to in subsection (1)(a); and
+    (ii) a recognised ancestor of a group referred to in subsection (1)﻿(a); and
   (b) exercised the customary rights predominantly in relation to the Ngāti Apa (North Island) area of interest at any time after 6 February 1840.
-(3) In subsection (2)(a), customary rights means rights according to tikanga Māori (Māori customary values and practices), including—
+(3) In subsection (2)﻿(a), customary rights means rights according to tikanga Māori (Māori customary values and practices), including—
   (a) rights to occupy land; and
   (b) rights in relation to the use of land or other natural or physical resources.
-(4) For the purposes of subsections (1)(a) and (2)(a), a person is descended from another person if descended from the other person by any 1 or more of the following:
+(4) For the purposes of subsections (1)﻿(a) and (2)﻿(a), a person is descended from another person if descended from the other person by any 1 or more of the following:
   (a) birth:
   (b) legal adoption:
   (c) Māori customary adoption in accordance with Ngāti Apa (North Island) tikanga (customary values and practices).
@@ -287,8 +287,8 @@ In this Act, unless the context otherwise requires,—
     (i) Wai 265; and
     (ii) Wai 655.
 (2) However, historical claims does not include the following claims:
-  (a) a claim that a member of Ngāti Apa (North Island), or a whānau, hapū, or group referred to in section 11(1)(c) may have that is, or is founded on, a right arising as a result of being descended from an ancestor who is not a Ngāti Apa (North Island) ancestor; or
-  (b) a claim that a member of Ngāti Apa (North Island), or a whānau, hapū, or group referred to in section 11(1)(c), may have to the South Island; or
+  (a) a claim that a member of Ngāti Apa (North Island), or a whānau, hapū, or group referred to in section 11(1)﻿(c) may have that is, or is founded on, a right arising as a result of being descended from an ancestor who is not a Ngāti Apa (North Island) ancestor; or
+  (b) a claim that a member of Ngāti Apa (North Island), or a whānau, hapū, or group referred to in section 11(1)﻿(c), may have to the South Island; or
   (c) a claim that a representative entity for Ngāti Apa (North Island) may have to the extent that the claim is, or is based on, a claim referred to in paragraph (a) or (b).
 (3) To avoid doubt, subsection (1) is not limited by subsection (2).
 
@@ -322,7 +322,7 @@ In this Act, unless the context otherwise requires,—
 (2) The enactments are—
   (a) sections 8A to 8HJ of the Treaty of Waitangi Act 1975:
   (b) sections 27A to 27C of the State-Owned Enterprises Act 1986:
-  (c) sections 211 to 213 of the Education Act 1989:
+  (c) sections 568 to 570 of the Education and Training Act 2020:
   (d) Part 3 of the Crown Forest Assets Act 1989:
   (e) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990.
 (3) However, subsection (1) does not apply to a deferred selection property if—
@@ -475,10 +475,10 @@ The taonga tūturu protocol does not have the effect of granting, creating, or p
   (a) if the application is received by the consent authority, a summary of the application; or
   (b) if notice of the application is served on the consent authority under section 145(10) of the Resource Management Act 1991, a copy of the notice.
 (2) The information provided in a summary of an application must be the same as would be given to an affected person by limited notification under section 95B of the Resource Management Act 1991, or as may be agreed between the trustees and the relevant consent authority.
-(3) A summary of an application must be provided under subsection (1)(a)—
+(3) A summary of an application must be provided under subsection (1)﻿(a)—
   (a) as soon as is reasonably practicable after the consent authority receives the application; and
   (b) before the consent authority decides under section 95 of the Resource Management Act 1991 whether to notify the application.
-(4) A copy of a notice of an application must be provided under subsection (1)(b) no later than 10 business days after the day on which the consent authority receives the notice.
+(4) A copy of a notice of an application must be provided under subsection (1)﻿(b) no later than 10 business days after the day on which the consent authority receives the notice.
 (5) This section does not affect a relevant consent authority's obligation,—
   (a) under section 95 of the Resource Management Act 1991, to decide whether to notify an application, and to notify the application if it decides to do so; or
   (b) under section 95E of that Act, to decide if the trustees are affected persons in relation to an activity.
@@ -531,7 +531,7 @@ If any part of the statutory acknowledgement applies to a river or stream, that 
 (1) Except as expressly provided in this subpart,—
   (a) the statutory acknowledgement and the deed of recognition do not affect, and may not be taken into account by, a person exercising a power or performing a function or duty under legislation or a bylaw; and
   (b) no person, in considering a matter or making a decision or recommendation under legislation or a bylaw, may give greater or lesser weight to the association of Ngāti Apa (North Island) with a statutory area (as described in a statement of association) than that person would give under the relevant legislation or bylaw if no statutory acknowledgement or deed of recognition existed in respect of the statutory area or Whitiau Scientific Reserve or Taukoro (as the case may be).
-(2) Subsection (1)(b) does not affect the operation of subsection (1)(a).
+(2) Subsection (1)﻿(b) does not affect the operation of subsection (1)﻿(a).
 
 ### 39 Rights not affected
 Except as expressly provided in this subpart, the statutory acknowledgement and the deed of recognition do not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
@@ -652,7 +652,7 @@ In this Act,—Papakainga propertiesWāhi tapu properties
 ### 51 Lake Koitiata site
 (1) The reservations of the Lake Koitiata site as a government purpose wildlife management reserve subject to section 22 of the Reserves Act 1977 and as a wildlife management reserve subject to section 14A of the Wildlife Act 1953 are revoked.
 (2) The fee simple estate in the Lake Koitiata site vests in the trustees.
-(3) The Lake Koitiata site is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) The Lake Koitiata site is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) Despite section 16(10) of the Reserves Act 1977, the name of the reserve created under subsection (3) is Lake Koitiata Scenic Reserve.
 (5) The vesting of the Lake Koitiata site in the trustees under subsection (2) does not give any rights to, or impose any obligations on, the trustees in relation to—
   (a) the waters of Lake Koitiata; and
@@ -663,12 +663,12 @@ In this Act,—Papakainga propertiesWāhi tapu properties
 ### 52 Mōtū Karaka
 (1) The reservation of Mōtū Karaka as a scenic reserve subject to section 19 of the Reserves Act 1977 is revoked.
 (2) The fee simple estate in Mōtū Karaka vests in the trustees.
-(3) Mōtū Karaka is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) Mōtū Karaka is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 
 ### 53 Pākiki
 (1) The reservation of Pākiki as a scenic reserve subject to section 19 of the Reserves Act 1977 is revoked.
 (2) The fee simple estate in Pākiki vests in the trustees.
-(3) Pākiki is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) Pākiki is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) Despite section 16(10) of the Reserves Act 1977, the name of the reserve created under subsection (3) is Pākiki Scenic Reserve.
 
 **Site vesting in fee simple to be administered as recreation reserve**
@@ -734,7 +734,7 @@ Each cultural redress property vests under subpart 4 of this Part subject to, or
   (b) the Lake Hickson site; or
   (c) the Lake William site; or
   (d) the Lake Ngaruru site.
-(3) If the reservation, under subpart 4 of this Part of a reserve site is revoked in relation to all or part of the site, then the vesting of the site referred to in subsection (2)(a) is no longer exempt from the rest of section 24 of the Conservation Act 1987 in relation to all or that part of the site, as the case may be.
+(3) If the reservation, under subpart 4 of this Part of a reserve site is revoked in relation to all or part of the site, then the vesting of the site referred to in subsection (2)﻿(a) is no longer exempt from the rest of section 24 of the Conservation Act 1987 in relation to all or that part of the site, as the case may be.
 
 ### 60 Recording application of Part 4A of Conservation Act 1987 and sections of this Act
 (1) The Registrar-General must record on the computer freehold register for—
@@ -752,12 +752,12 @@ Each cultural redress property vests under subpart 4 of this Part subject to, or
     (i) section 24 of the Conservation Act 1987 does not apply to the site; and
     (ii) the site is subject to sections 59(3) and 62 of this Act; or
   (b) part of the site, then the Registrar-General must ensure that the notifications referred to in paragraph (a) remain only on the computer freehold register for the part of the site that remains a reserve.
-(4) The Registrar-General must comply with an application received in accordance with subsection (3)(a).
+(4) The Registrar-General must comply with an application received in accordance with subsection (3)﻿(a).
 
 ### 61 Application of Reserves Act 1977 to reserve sites
 (1) Subject to sections 55(5) and 56(5), the trustees are the administering body of a reserve site for the purposes of the Reserves Act 1977.
 (2) Despite sections 48A(6), 114(5), and 115(6) of the Reserves Act 1977, sections 48A, 114, and 115 of that Act apply to a reserve site.
-(3) Sections 78(1)(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve site.
+(3) Sections 78(1)﻿(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve site.
 (4) If the reservation under subpart 4 of this Part of a reserve site is revoked under section 24 of the Reserves Act 1977 in relation to all or part of the site, section 25 of that Act, except subsection (2) of that provision, does not apply to the revocation.
 (5) Subsections (2) and (3) do not apply to the Pakapakatea and Waitapu reserve sites.
 
@@ -795,7 +795,7 @@ Each cultural redress property vests under subpart 4 of this Part subject to, or
   (b) is enforceable in accordance with its terms, despite Part 3B of that Act.
 
 ### 64 Application of certain payments
-(1) The Minister of Conservation may direct that any intra-Crown payment for a site listed in subsection (2) be paid and applied in the manner specified in section 82(1)(a) of the Reserves Act 1977.
+(1) The Minister of Conservation may direct that any intra-Crown payment for a site listed in subsection (2) be paid and applied in the manner specified in section 82(1)﻿(a) of the Reserves Act 1977.
 (2) The sites are—
   (a) Mōtū Karaka:
   (b) Pākiki:
@@ -885,20 +885,20 @@ Despite section 16(10) of the Reserves Act 1977, the name of Round Bush Scenic R
 (2) The effect of subsection (1) is that—
   (a) the trustees are entitled to the rental proceeds payable since the commencement of the Crown forestry licence; and
   (b) all the provisions of the Crown forestry rental trust deed apply on the basis that the trustees are the confirmed beneficiaries.
-(3) The Crown must give notice under section 17(4)(b) of the Crown Forest Assets Act 1989 in respect of each Crown forestry licence, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the settlement licensed land.
+(3) The Crown must give notice under section 17(4)﻿(b) of the Crown Forest Assets Act 1989 in respect of each Crown forestry licence, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the settlement licensed land.
 (4) Notice given by the Crown under subsection (3) has effect as if—
-  (a) the Waitangi Tribunal had made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the settlement licensed land; and
+  (a) the Waitangi Tribunal had made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the settlement licensed land; and
   (b) the recommendation had become final on the settlement date.
 (5) The trustees are the licensor under each Crown forestry licence as if the settlement licensed land had been returned to Māori ownership—
   (a) on the settlement date; and
   (b) under section 36 of the Crown Forest Assets Act 1989.
-(6) However, section 36(1)(b) of the Crown Forest Assets Act 1989 does not apply to the settlement licensed land.
+(6) However, section 36(1)﻿(b) of the Crown Forest Assets Act 1989 does not apply to the settlement licensed land.
 
 ### 79 Effect of transfer of settlement licensed land
 (1) Section 78 applies whether or not, by the settlement date,—
   (a) the transfer of the fee simple estate in the settlement licensed land has been registered; or
   (b) the processes described in clause 17.4 of the Crown forestry licence have been completed.
-(2) To the extent that the Crown has not completed the processes referred to in subsection (1)(b) before the settlement date, it must continue those processes—
+(2) To the extent that the Crown has not completed the processes referred to in subsection (1)﻿(b) before the settlement date, it must continue those processes—
   (a) after the settlement date; and
   (b) until the processes are completed.
 (3) For the period from the settlement date until the completion of the processes referred to in subsections (1) and (2), the licence fee payable under the Crown forestry licence in respect of the settlement licensed land is the amount calculated in the manner described in clause 7.15 of the deed of settlement.
@@ -992,13 +992,13 @@ This subpart does not apply to the unlicensed Crown forest land if—
 | --- | --- | --- |
 | Pukepuke Lagoon House site | 0.3036 hectares, more or less, being Section 1 SO 428401. Part B 212575.1. | Together with a right of way easement in gross over C on DP 70917. Created by B 212575.3 (to be varied). Together with the right of way easement referred to in section 45(3).Together with the right of way easement in gross referred to in section 45(5). |
 | Waimahora Stream site | 19.2142 hectares, more or less, being Section 1 SO 419788. Part GN 893837.1. | Subject to the conservation covenant referred to in section 46(3). |
-| Lake Koitiata site | 41.4650 hectares, more or less, being Section 492 Rangitikei District. All GN 6143991.1. | Subject to section 19(1)(a) of the Reserves Act 1977 for the purposes of a scenic reserve. |
+| Lake Koitiata site | 41.4650 hectares, more or less, being Section 492 Rangitikei District. All GN 6143991.1. | Subject to section 19(1)﻿(a) of the Reserves Act 1977 for the purposes of a scenic reserve. |
 | Marton Golf Course | 50.8260 hectares, more or less, being Section 356 Rangitikei District. All Computer Freehold Register WN 9D/277. | Subject to section 17 of the Reserves Act 1977 for the purposes of a recreation reserve. Subject to the existing lease (B. 193460.1) dated 10 September 1991 between the Marton Golf Club Incorporated and Her Majesty the Queen. Subject to unregistered variation of lease B. 193460.1 dated 11 September 2003. |
 | Lake Hickson site | 5.3218 hectares, more or less, being Lot 1 DP 403965. Part transfer 7870340.1. | Subject to open space covenant 7557271.1.Subject to right to drain sewage created by Transfer B. 287722.1. Appurtenant right to convey water and a right of way created by Transfer B. 287722.2. Appurtenant pedestrian right of way created by Easement Instrument 7860242.3.The easements created by Easement Instrument 7860242.3 are subject to section 243(a) of the Resource Management Act 1991.Subject to consent notice pursuant to section 221 of the Resource Management Act 1991–7860242.2. |
 | Lake William site | 5.2511 hectares, more or less, being Lot 2 DP 403965. Part Transfer 7870340.1.4.8300 hectares, more or less, being Section 1 SO 421378. Part Transfer 320033. | The following encumbrances apply only in relation to Lot 2 DP 403965:Subject to open space covenant 7522341.1. Subject to right to convey water and right to convey electricity created by Easement Instrument 7860242.5. Appurtenant right to convey water created by Transfer B. 287722.2. Appurtenant pedestrian right of way created by Easement Instrument 7860242.4. The easements created by Easement Instruments 7860242.4 and 7860242.5 are subject to section 243(a) of the Resource Management Act 1991.Subject to consent notice pursuant to section 221 of the Resource Management Act 1991–7860242.2.Subject to an unregistered licence to occupy to the Manawatu Water Ski Club. |
-| Mōtū Karaka | 28.7000 hectares, more or less, being Section 1 SO 421260. Part Gazette Notice 875442.1. | Subject to section 19(1)(a) of the Reserves Act 1977 for the purposes of a scenic reserve. |
-| Ruatangata site | 8.4354 hectares, more or less, being Section 5 SO 417422. All computer freehold register 490036. | Subject to the unregistered lease dated 23 February 1972 between Her Majesty the Queen and John Donald Wilkie.Subject to the easements referred to in section 49(2)(a) and (b). Together with a right of way easement over A on SO 417422 created by Easement Instrument 8468780.1. |
-| Pākiki | 19.8480 hectares, more or less, being Lots 1, 2, and 3 DP 47116 and Section 10 Block XI Mangawhero Survey District. All Transfer 416726.4 and all GN 506931.1. | Subject to section 19(1)(a) of the Reserves Act 1977 for the purposes of a scenic reserve. |
+| Mōtū Karaka | 28.7000 hectares, more or less, being Section 1 SO 421260. Part Gazette Notice 875442.1. | Subject to section 19(1)﻿(a) of the Reserves Act 1977 for the purposes of a scenic reserve. |
+| Ruatangata site | 8.4354 hectares, more or less, being Section 5 SO 417422. All computer freehold register 490036. | Subject to the unregistered lease dated 23 February 1972 between Her Majesty the Queen and John Donald Wilkie.Subject to the easements referred to in section 49(2)﻿(a) and (b).Together with a right of way easement over A on SO 417422 created by Easement Instrument 8468780.1. |
+| Pākiki | 19.8480 hectares, more or less, being Lots 1, 2, and 3 DP 47116 and Section 10 Block XI Mangawhero Survey District. All Transfer 416726.4 and all GN 506931.1. | Subject to section 19(1)﻿(a) of the Reserves Act 1977 for the purposes of a scenic reserve. |
 | Lake Ngaruru site | 1.5456 hectares, more or less, being Sections 1 and 2 SO 420609. Part Gazette 1874 p 692. | Subject to the covenant referred to in section 50(3). |
 | Pakapakatea | 14.9526 hectares, more or less, being Section 1 SO 420870. Part Gazette 1879 p 469 and all GN 335904.1. | Subject to section 23 of the Reserves Act 1977 for the purposes of a local purpose reserve (soil conservation and river control), being controlled and managed by Manawatu-Wanganui Regional Council. |
 | Waitapu | 11.0474 hectares, more or less, being Section 1 SO 420489. All Gazette 1974 p 754. | Subject to section 23 of the Reserves Act 1977 for the purposes of a local purpose reserve (soil conservation and river control), being controlled and managed by Manawatu-Wanganui Regional Council. |
