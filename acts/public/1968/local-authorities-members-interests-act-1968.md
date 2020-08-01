@@ -1,5 +1,5 @@
 # Local Authorities (Members' Interests) Act 1968
-_Consolidation as at 2020-07-25_
+_Consolidation as at 2020-08-01_
 
 > An Act to consolidate and amend the law relating to the making of contracts between local authorities and the members thereof, and to the restrictions on the actions of such members when matters in which they have a pecuniary interest are under consideration
 
@@ -135,10 +135,6 @@ The Auditor-General shall, either on investigation following receipt of a compla
 | Community Boards | Local Government Act 2002 (2002 No 84) |
 | Domain Boards | Reserves and Domains Act 1953 (1953 No 69) |
 | Drainage Boards | Land Drainage Act 1908 (1908 No 96) |
-| Education Boards | Education Act 1964 (1964 No 135) |
-| Governing bodies of community colleges | Education Act 1964 (1964 No 135) |
-| Governing bodies of teachers' colleges | Education Act 1964 (1964 No 135) |
-| Governing bodies of technical institutes | Education Act 1964 (1964 No 135) |
 | Harbour Boards | Harbours Act 1950 (1950 No 34), and special Acts constituting individual Boards |
 | Industry Training Boards | Vocational Training Council Act 1982 (1982 No 54) |
 | Licensing Trusts | Sale of Liquor Act 1989 (1989 No 63) |
@@ -153,7 +149,6 @@ The Auditor-General shall, either on investigation following receipt of a compla
 | Regional Planning Authorities | Town and Country Planning Act 1977 (1977 No 121) |
 | Regional Water Boards | Water and Soil Conservation Act 1967 (1967 No 135) |
 | River Boards | River Boards Act 1908 (1908 No 165) |
-| Secondary Schools Councils | Education Act 1964 (1964 No 135) |
 | Territorial authorities | Local Government Act 2002 (2002 No 84) |
 | Town Councils | Local Government Act 1974 (1974 No 66) |
 
@@ -206,7 +201,6 @@ The Auditor-General shall, either on investigation following receipt of a compla
 | The South Canterbury Wallaby Board | Agricultural Pests Destruction Amendment Act 1971 (1971 No 74) |
 | The Taratahi Agricultural Training Centre (Wairarapa) Trust Board | Taratahi Agricultural Training Centre (Wairarapa) Act 1969 (1969 No 138) |
 | The Tourist Hotel Corporation of New Zealand | Tourist Hotel Corporation Act 1974 (1974 No 59) |
-| The University Grants Committee | Universities Act 1961 (1961 No 54) |
 | The Wellington Regional Water Board | Wellington Regional Water Board Act 1972 (1972 No 3 (L)) |
 | The Winston Churchill Memorial Trust Board | Winston Churchill Memorial Trust Board Act 1965 (1965 No 39) |
 
