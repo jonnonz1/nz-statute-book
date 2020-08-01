@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2020-06-16_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -139,7 +139,7 @@ This Act is the Overseas Investment Act 2005.
   - **long-term accommodation facility** —
     (a) means—
       (i) a retirement village or rest home; or
-      (ii) a hostel within the meaning of section 2 of the Education Act 1989, or other facility used or intended to be used to provide accommodation to students in accordance with the requirements of section 5B of the Residential Tenancies Act 1986; but
+      (ii) a hostel within the meaning of section 10(1) of the Education and Training Act 2020, or other facility used or intended to be used to provide accommodation to students in accordance with the requirements of section 5B of the Residential Tenancies Act 1986; but
     (b) does not include any facility to the extent that it is, or is part of, an excluded accommodation facility
   - **managed investment scheme** has the meaning set out in section 9 of the Financial Markets Conduct Act 2013
   - **marine and coastal area** has the meaning set out in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011, but any reference to land is to land that adjoins this land on the landward side only
