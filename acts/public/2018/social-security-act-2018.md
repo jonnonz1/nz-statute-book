@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2020-07-06_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -659,7 +659,7 @@ MSD may grant a young parent payment to a young person (P) who meets all of the 
 A person (P) is ineligible for an accommodation supplement (on the ground of the other funding exclusion) if—
   (a) P is the spouse or partner of a person who is already receiving an accommodation supplement (except as provided in section 68); or
   (b) P—
-    (i) is receiving a basic grant or an independent circumstances grant under the Student Allowances Regulations 1998 (or under other regulations made under section 303 of the Education Act 1989); or
+    (i) is receiving a basic grant or an independent circumstances grant under the Student Allowances Regulations 1998 (or under other regulations made under section 645 of the Education and Training Act 2020); or
     (ii) would be eligible to receive one of those grants if P were to apply for the grant; or
     (iii) would be eligible to receive one of those grants were it not for the level of income of P or of P’s parent or parents or spouse or partner; or
   (c) P is a resident assessed as requiring care in respect of whom a funder is paying some or all of the cost of contracted care services under section 54, 55, 56, 57, or 58 of the Residential Care and Disability Support Services Act 2018; or
@@ -1232,7 +1232,7 @@ A beneficiary is subject to the obligations set out in sections 131 to 135 in re
 
 ### 133 Attendance of dependent child aged 6 to 15 years at registered school
 (1) A person to whom this section applies must take all reasonable steps to ensure that each dependent child aged 6 to 15 years is enrolled at and regularly attends a registered school (as defined by regulations made under section 430).
-(2) This section does not apply if the child is exempted under section 21, 22, or 22A of the Education Act 1989 from enrolment at a registered school.
+(2) This section does not apply if the child is exempted under section 38, 39, or 41 of the Education and Training Act 2020 from enrolment at a registered school.
 
 ### 134 Health care enrolment and compliance with core health checks
 (1) A person to whom this section applies must take all reasonable steps to ensure that each dependent child is enrolled with a primary health care provider (for example, a primary health organisation, or a prescribed health practitioner who is a provider of primary health care).
@@ -1454,7 +1454,7 @@ The procedure for the granting of an exemption under section 158, including the 
   - **approved training** means an employment-related training course approved by MSD
   - **full-time course** has the same meaning as in—
     (a) regulation 2(1) of the Student Allowances Regulations 1998; or
-    (b) the corresponding provision of replacement regulations made under all or any of sections 303, 306, and 307 of the Education Act 1989.
+    (b) the corresponding provision of replacement regulations made under all or any of sections 645 and 646 and clause 3 of Schedule 9 of the Education and Training Act 2020.
 (4) In this section and in sections 164 to 167 and 200, work-based learning, in relation to any person, means a course or programme undertaken (or to be undertaken), in the course of or by virtue of his or her employment, that comprises, or includes a component of, practical or on-the-job vocational learning (for example, an industry training programme or apprenticeship).
 (5) A failure without good and sufficient reason to comply with obligations under this section is subject to sanctions, as provided in Part 5.
 
@@ -1468,7 +1468,7 @@ The procedure for the granting of an exemption under section 158, including the 
     (ii) a suitable place is available for the young person in a teen parent unit; and
     (iii) MSD is satisfied that there are no special circumstances justifying the obligation's beginning to apply later:
   (b) the day on which the child becomes 12 months old.
-(3) In this section, teen parent unit means an educational facility for teenage parents attached to a State school (within the meaning of the Education Act 1989).
+(3) In this section, teen parent unit means an educational facility for teenage parents attached to a State school (within the meaning of the Education and Training Act 2020).
 
 **Specific obligations: social obligations of young person granted young parent payment**
 
@@ -2265,9 +2265,9 @@ If a person’s specified benefit (as defined in section 331) is reduced under s
 
 **Special cases: variations on ordinary sanctions rules**
 
-### 243 Exclusion of sanction if failure is subject of prosecution under Education Act 1989
+### 243 Exclusion of sanction if failure is subject of prosecution under Education and Training Act 2020
 MSD must not impose a sanction for a person’s failure to comply with the obligation under section 133(1) (which relates to the attendance of a dependent child aged 6 to 15 years at a registered school) if—
-  (a) the failure is the subject of a prosecution against P for an offence under section 24(1) or 29(1) of the Education Act 1989, as the case may be; and
+  (a) the failure is the subject of a prosecution against P for an offence under section 243(1) or 244(1) of the Education and Training Act 2020, as the case may be; and
   (b) the prosecution has not been withdrawn before being finally resolved.
 
 ### 244 Variation for failure to comply with work-test obligation to accept offer of suitable employment
@@ -5564,12 +5564,12 @@ Information may be obtained under clause 2 for all or any of the following purpo
 
 ### 16 Disclosure for services to young people not in education or training
 (1) MSD may enter into an agreement under Part 9A of the Privacy Act 1993 with the chief executive of the Ministry of Education relating to the sharing, for the purposes of facilitating the provision of services of a kind described in section 365(1)﻿(a), of information about young people who have ceased to be enrolled at 1 or both of the following:
-  (a) a registered school (as defined in section 2 of the Education Act 1989); or
-  (b) a tertiary education organisation (being an organisation as defined in section 159B(1) of that Act).
+  (a) a registered school (as defined in section 10(1) of the Education and Training Act 2020); or
+  (b) a tertiary education organisation (being an organisation as defined in section 10(1) of that Act).
 (2) While the agreement is in force, the chief executive of the Ministry of Education—
   (a) may provide to MSD any information to which subclause (1) applies and that the chief executive of the Ministry of Education considers may facilitate the provision by MSD of services of a kind described in section 365(1)﻿(a); and
   (b) may use national student numbers for the purpose of gathering the information.
-(3) Subclause (2) overrides section 344(2) of the Education Act 1989.
+(3) Subclause (2) overrides clause 4(1)﻿(c) of Schedule 24 of the Education and Training Act 2020.
 
 ### 17 Purpose of clause 18
 The purpose of clause 18 is to authorise local agencies (for example, schools, primary health organisations, and the New Zealand Police) to disclose relevant personal information about a young person to MSD or a contracted service provider if the agency concerned considers it relevant to the performance or exercise of duties, functions, or powers under this Act in respect of the young person.
