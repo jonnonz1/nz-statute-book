@@ -1,5 +1,5 @@
 # Education (National Standards) Amendment Act 2008
-_Consolidation as at 2008-12-16_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Education (National Standards) Amendment Act 2008.
@@ -30,8 +30,8 @@ Section 31(7) is amended by omitting or any person appointed by a board and subs
 The definition of national education guidelines in section 60 is amended by inserting national standards, after national curriculum statements,.
 
 ### 8 National education guidelines
-Section 60A(1) is amended by inserting the following paragraph after paragraph (b):.
+Section 60A(1) is amended by inserting the following paragraph after paragraph (b):
   (ba) national standards, which are standards, in regard to matters such as literacy and numeracy, that are applicable to all students of a particular age or in a particular year of schooling:
 
 ### 9 School charter
-Section 61(4)(a) is amended by adding , including the assessment of students against any national standard published under section 60A(1)(ba).
+Section 61(4)﻿(a) is amended by adding , including the assessment of students against any national standard published under section 60A(1)﻿(ba).
