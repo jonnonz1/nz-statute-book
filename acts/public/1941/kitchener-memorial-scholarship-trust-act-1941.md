@@ -1,5 +1,5 @@
 # Kitchener Memorial Scholarship Trust Act 1941
-_Consolidation as at 2002-03-01_
+_Consolidation as at 2020-08-01_
 
 > An Act to make provision for the administration of the Kitchener Memorial Scholarship Fund
 
@@ -21,7 +21,7 @@ In this Act, the Fund means the Kitchener Memorial Scholarship Fund established 
 (5) Capital moneys forming part of the Fund may from time to time be invested by Public Trust, with the approval of the advisory trustees, in any investment authorised by law for the investment of trust funds, but, save as aforesaid, all such moneys available for investment shall fall into and form part of the common fund of Public Trust.
 
 ### 4 Advisory trustees
-(1) Subject to the provisions of this section, the New Zealand Vice-Chancellors Committee (established by section 240(1) of the Education Act 1989) and the donor shall be advisory trustees for the purposes of this Act.
+(1) Subject to the provisions of this section, the New Zealand Vice-Chancellors Committee (continued by section 311(1) of the Education and Training Act 2020) and the donor shall be advisory trustees for the purposes of this Act.
 (2) The donor may at any time and from time to time, by writing under his hand, nominate any person to act as an advisory trustee in his stead.
 (3) On the death of the donor, and thereafter from time to time, the personal representative of the donor, or, if there is no such personal representative, the Rector of the Canterbury University College, may appoint an advisory trustee who shall be a person related to the donor in a degree of relationship not more remote than the third degree. If there shall be no person so related to the donor and able and willing to act as advisory trustee the Rector of the Canterbury University College for the time being shall act as advisory trustee.
 (4) If at any time there is no advisory trustee in office other than the New Zealand Vice-Chancellors Committee,—
@@ -43,7 +43,7 @@ In this Act, the Fund means the Kitchener Memorial Scholarship Fund established 
 ### 7 Scholarships to be held at university providing higher education in agriculture
 (1) Every scholarship awarded under this Act shall be held at a university (within the meaning of the Universities Act 1961) providing higher education in subjects relating to agriculture.
 (2) Except in special circumstances, of which the advisory trustees shall be the judge, scholarships awarded under this Act shall be awarded alternately for tenure at a university in the South Island and a university in the North Island.
-(3) So far as in the opinion of the advisory trustees it is practicable so to do, scholarships shall be held on conditions corresponding as nearly as may be to the conditions for the time being applicable to bursaries in agriculture awarded in accordance with any regulations for the time being in force under the Education Act 1914, in relation to such bursaries.
+(3) So far as in the opinion of the advisory trustees it is practicable so to do, scholarships shall be held on conditions corresponding as nearly as may be to the conditions for the time being applicable to bursaries in agriculture awarded in accordance with any regulations for the time being in force under the Education and Training Act 2020, in relation to such bursaries.
 
 ### 8 Existing scholarships
 All scholarships payable out of the Fund and in force on the passing of this Act shall be deemed to have been awarded in accordance with this Act.
