@@ -1,5 +1,5 @@
 # Government Superannuation Fund Act 1956
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2020-08-01_
 
 > An Act to consolidate and amend the law relating to superannuation
 
@@ -30,9 +30,9 @@ _Consolidation as at 2019-10-24_
     (a) a contributor employed in the Public Service, means the chief executive of the department concerned:
     (b) a contributor employed in the education service, means the employer as defined in section 2 of the State Sector Act 1988:
     (c)
-    (ca) a contributor employed by the New Zealand Qualifications Authority established under Part 20 of the Education Act 1989, means the chief executive of that Authority:
+    (ca) a contributor employed by the New Zealand Qualifications Authority continued by section 430 of the Education and Training Act 2020, means the chief executive of that Authority:
     (cb)
-    (cc) a contributor employed by the Tertiary Education Commission established under Part 13A of the Education Act 1989 means the chief executive of the Commission:
+    (cc) a contributor employed by the Tertiary Education Commission continued by section 401 of the Education and Training Act 2020, means the chief executive of the Commission:
     (d)
     (e) a contributor employed in a State enterprise, means the chief executive of that enterprise:
     (ea) a contributor employed in a subsidiary of a State enterprise, means the chief executive of that subsidiary:
@@ -43,7 +43,7 @@ _Consolidation as at 2019-10-24_
   - **Crown entity subsidiary** has the same meaning as in section 7 of the Crown Entities Act 2004
   - **custodian** means a person appointed under section 19A(1) to act as custodian of the Fund, or any part of the Fund
   - **department** means any branch of the Government service that is administered separately
-  - **education service** has the meaning given to it by section 2 of the State Sector Act 1988
+  - **education service** has the meaning given to it by section 10(7) of the Education and Training Act 2020
   - **endowed college or school** means any educational institution which is not established under the Education Act 1914, but is maintained wholly or partly by grants from public moneys or by the proceeds of public endowments granted by the Crown, and is for the time being approved by the Minister of Education for the purposes of this Act
   - **financial year** means the period of 12 months ending with 30 June
   - **Fund** means the Government Superannuation Fund established under this Act
