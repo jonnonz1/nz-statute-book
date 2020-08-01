@@ -1,5 +1,5 @@
 # Smoke-free Environments Act 1990
-_Consolidation as at 2018-03-14_
+_Consolidation as at 2020-08-01_
 
 > Title
 
@@ -34,7 +34,7 @@ _Consolidation as at 2018-03-14_
   - **dedicated smoking room** means an internal area in a hospital care institution, a residential disability care institution, or a rest home that is used solely to enable patients or residents who smoke to smoke, or to socialise with each other in a place where smoking is permitted
   - **Director-General** means the Director-General of Health
   - **distributor** means a person engaged in the business of selling tobacco products, or (as the case may be) herbal smoking products, otherwise than at retail only
-  - **early childhood education and care centre** has the meaning given to it by section 309 of the Education Act 1989
+  - **early childhood education and care centre** has the meaning given to it by section 10(1) of the Education and Training Act 2020
   - **employee** means any person of any age employed under a contract of service by an employer to do any work for hire or reward
   - **employer** —
     (a) means a person who employs 1 or more employees; and
@@ -90,7 +90,7 @@ _Consolidation as at 2018-03-14_
     (h) distribute by any means; or
     (ha) display by way of a sign, notice, poster, or other means; or
     (i) bring to the notice of the public in New Zealand in any other manner
-  - **registered school** has the meaning given to it by section 2(1) of the Education Act 1989
+  - **registered school** has the meaning given to it by section 10(1) of the Education and Training Act 2020
   - **residential disability care institution** has the meaning given to that term by section 58(4) of the Health and Disability Services (Safety) Act 2001
   - **rest home** has the meaning given to it by section 58(4) of the Health and Disability Services (Safety) Act 2001
   - **restaurant** means any premises, or any part of any premises, where the principal business is the selling of meals or refreshments to the general public for consumption on the premises, whether or not liquor is or may be sold on those premises or that part of those premises; and includes any room or area on a ship or train where meals or refreshments are provided for passengers to consume
