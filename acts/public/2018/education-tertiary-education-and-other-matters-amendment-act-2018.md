@@ -1,5 +1,5 @@
 # Education (Tertiary Education and Other Matters) Amendment Act 2018
-_Consolidation as at 2018-03-03_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Education (Tertiary Education and Other Matters) Amendment Act 2018.
