@@ -1,5 +1,5 @@
 # Ngatikahu ki Whangaroa Claims Settlement Act 2017
-_Consolidation as at 2017-08-21_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Ngatikahu ki Whangaroa Claims Settlement Act 2017.
@@ -312,7 +312,7 @@ In this Act, unless the context otherwise requires,—
   (b) for the benefit of Ngatikahu ki Whangaroa or a representative entity.
 (2) The enactments are—
   (a) Part 3 of the Crown Forest Assets Act 1989:
-  (b) sections 211 to 213 of the Education Act 1989:
+  (b) sections 568 to 570 of the Education and Training Act 2020:
   (c) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990:
   (d) sections 27A to 27C of the State-Owned Enterprises Act 1986:
   (e) sections 8A to 8HJ of the Treaty of Waitangi Act 1975.
