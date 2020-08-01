@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2020-07-01_
+_Consolidation as at 2020-08-01_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -921,7 +921,7 @@ In this Part, unless the context otherwise requires,—
   - **bribe** means any money, valuable consideration, office, or employment, or any benefit, whether direct or indirect
   - **judicial officer** means a Judge of any court, or a District Court Judge, Coroner, Justice of the Peace, or Community Magistrate, or any other person holding any judicial office, or any person who is a member of any tribunal authorised by law to take evidence on oath
   - **law enforcement officer** means any constable, or any person employed in the detection or prosecution or punishment of offenders
-  - **official** means any person in the service of the Sovereign in right of New Zealand (whether that service is honorary or not, and whether it is within or outside New Zealand), or any member or employee of any local authority or public body, or any person employed in the education service within the meaning of the State Sector Act 1988.
+  - **official** means any person in the service of the Sovereign in right of New Zealand (whether that service is honorary or not, and whether it is within or outside New Zealand), or any member or employee of any local authority or public body, or any person employed in the education service within the meaning of section 10(7) of the Education and Training Act 2020.
 
 ### 100 Judicial corruption
 (1) Every judicial officer is liable to imprisonment for a term not exceeding 14 years who corruptly accepts or obtains, or agrees or offers to accept or attempts to obtain, any bribe for himself or herself or any other person in respect of any act done or omitted, or to be done or omitted, by him or her in his or her judicial capacity.
@@ -2707,7 +2707,7 @@ Every one is liable to imprisonment for a term not exceeding 10 years who contam
 (2) The effect is causing a significant disruption of 1 or more of the following things:
   (a) the activities of the civilian population of New Zealand:
   (b) something that is or forms part of an infrastructure facility in New Zealand:
-  (c) civil administration in New Zealand (whether administration undertaken by the Government of New Zealand or by institutions such as local authorities, District Health Boards, or boards of trustees of schools):
+  (c) civil administration in New Zealand (whether administration undertaken by the Government of New Zealand or by institutions such as local authorities, District Health Boards, or boards of schools):
   (d) commercial activity in New Zealand (whether commercial activity in general or commercial activity of a particular kind).
 (3) The results are—
   (a) creating a risk to the health of 1 or more people:
