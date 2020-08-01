@@ -1,5 +1,5 @@
 # Music Teachers Act 1981
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2020-08-01_
 
 > An Act to consolidate and amend the Music Teachers Registration Act 1928, and to make better provision for the registration and control of music teachers and the advancement of music teaching
 
@@ -11,11 +11,11 @@ _Consolidation as at 2017-03-01_
 In this Act, unless the context otherwise requires,—
   - **board** or means the Music Teachers Registration Board
   - **council** means the Council of the Institute
-  - **Director-General** means the Director-General of Education appointed under the Education Act 1964
   - **federation** means the Federation of Societies of Registered Music Teachers of New Zealand (Incorporated) a society incorporated immediately before the passing of this Act under the Incorporated Societies Act 1908
   - **institute** means the Institute of Registered Music Teachers of New Zealand
   - **Minister** means the Minister of Education
-  - **registered** means registered under this Act, and has a corresponding meaning.
+  - **registered** means registered under this Act, and has a corresponding meaning
+  - **Secretary** has the same meaning as in section 10(1) of the Education and Training Act 2020.
 
 ## Part 1 — Institute of Registered Music Teachers of New Zealand
 
@@ -213,7 +213,7 @@ The Registrar shall, on request by any person registered under this Act, send th
 (8) Except as provided in subsections (5) and (7), nothing in this section shall derogate from the provisions of the Land Transfer Act 1952.
 
 ### 30 Affairs of institute to be managed temporarily by officers of federation
-Until the council is first constituted in accordance with the rules of the institute as first approved after the commencement of this Act by the Director-General, the affairs of the institute shall be managed by the persons who immediately before the commencement of this Act were the officers of the federation and those persons shall, until the constitution of the council, have all the powers of the council.
+Until the council is first constituted in accordance with the rules of the institute as first approved after the commencement of this Act by the Secretary, the affairs of the institute shall be managed by the persons who immediately before the commencement of this Act were the officers of the federation and those persons shall, until the constitution of the council, have all the powers of the council.
 
 ### 31 Offences
 Every person commits an offence and is liable on conviction to a fine not exceeding $500 who—
