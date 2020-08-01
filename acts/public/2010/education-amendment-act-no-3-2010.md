@@ -1,5 +1,5 @@
 # Education Amendment Act (No 3) 2010
-_Consolidation as at 2010-12-20_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Education Amendment Act (No 3) 2010.
@@ -12,7 +12,7 @@ This Act is the Education Amendment Act (No 3) 2010.
 This Act amends the Education Act 1989.
 
 ### 4 Interpretation
-Section 2(1) is amended by inserting the following definitions in their appropriate alphabetical order:.
+Section 2(1) is amended by inserting the following definitions in their appropriate alphabetical order:
   - **crime involving dishonesty** has the same meaning as in section 2(1) of the Crimes Act 1961
   - **criteria for registration** , in relation to a private school or proposed private school, means the criteria set out in section 35C
   - **government training establishment** has the same meaning as it has in section 159
@@ -59,9 +59,9 @@ Section 25 is amended by adding the following subsection:
   (4) Nothing in subsections (1) to (3) applies to a participating student who is enrolled at a registered school for the purposes of the secondary component of his or her secondary-tertiary programme, but he or she must attend the school for any portion of the programme as notified by the provider group or lead provider under section 31J.
 
 ### 8 Employment of school-age children
-(1) Section 30(1) is amended by inserting the following paragraph after paragraph (a):.
+(1) Section 30(1) is amended by inserting the following paragraph after paragraph (a):
   (ab) in the case of a person who is a student participating in a secondary-tertiary programme, when the employment interferes with the person's ability to undertake the secondary-tertiary programme; or
-(2) Section 30(1)(d) is amended by inserting the following subparagraph after subparagraph (i):.
+(2) Section 30(1)﻿(d) is amended by inserting the following subparagraph after subparagraph (i):
   (ia) in the case of a person who is a participating student, interferes with the person's ability to undertake his or her secondary-tertiary programme; or
 
 ### 9 Ensuring attendance of students
@@ -98,7 +98,7 @@ The following sections are inserted after section 31:Nature of secondary-tertiar
   (1) A provider group must—
     (a) prepare and maintain a plan that contains short-term and long-term goals for each secondary-tertiary programme that it co-ordinates; and
     (b) provide the Secretary with a copy of the plan.
-  (2) A provider group that alters any plan provided to the Secretary under subsection (1)(b) must provide the Secretary with a copy of the changed plan as soon as practicable.
+  (2) A provider group that alters any plan provided to the Secretary under subsection (1)﻿(b) must provide the Secretary with a copy of the changed plan as soon as practicable.
   (1) A provider group must report at least annually to the Secretary regarding its performance and progress.
   (2) The Secretary may, by notice in the Gazette, specify the format, or content, or both, required for reports that are to be made under subsection (1).
   The Minister may, by notice in the Gazette, recognise as a lead provider of secondary-tertiary programmes any of the following:
@@ -118,7 +118,7 @@ The following sections are inserted after section 31:Nature of secondary-tertiar
     (d) an institution:
     (e) a registered establishment:
     (f) an employer providing work experience under the programme.
-  (3) The Secretary may withdraw his or her agreement under subsection (1)(a), or his or her approval under subsection (1)(b), by giving at least 6 months' notice in writing to the lead provider.
+  (3) The Secretary may withdraw his or her agreement under subsection (1)﻿(a), or his or her approval under subsection (1)﻿(b), by giving at least 6 months' notice in writing to the lead provider.
   (1) The Minister may, by notice in the Gazette, publish Government policies, or priorities, or both that apply in relation to any 1 or more of the following:
     (a) secondary-tertiary programmes:
     (b) provider groups, or specified types of provider groups:
@@ -214,7 +214,7 @@ Sections 35A to 35C are repealed and the following headings and sections substit
   The Secretary may at any time suspend the registration of a school registered under section 35A if he or she has reasonable grounds to believe that the welfare of the students at the school is at risk, and—
     (a) that it is unlikely that the risk can be managed by any practicable means other than by suspension of the registration; or
     (b) that, although the risk could be managed by means other than by suspension of the registration, the amount of time necessary to do so is likely, in the opinion of the Secretary, to be excessive.
-  (1) Suspension under section 35J(2)(d) continues until the Secretary—
+  (1) Suspension under section 35J(2)﻿(d) continues until the Secretary—
     (a) is satisfied that the managers of the school have complied with all requirements imposed by him or her under any of paragraphs (a) to (c) of section 35J(2); or
     (b) cancels the school's registration under section 35M.
   (2) Suspension under section 35K continues until the Secretary—
@@ -265,7 +265,7 @@ Sections 35A to 35C are repealed and the following headings and sections substit
     (b) direct the board of a State school that is not an integrated school to enrol the student at the school; and, in that case, the board must do so; or
     (c) direct a parent of the student to have the student enrolled at a correspondence school.
   (3) The Secretary must not give a direction under subsection (2) unless he or she has also made all reasonable attempts to consult the student, the student's parents, the board, and any other person or organisation that, in the opinion of the Secretary, may be interested in, or able to advise on or help with, the student's education or welfare.
-  (4) A direction under subsection (2)(b) overrides section 11M.
+  (4) A direction under subsection (2)﻿(b) overrides section 11M.
   (5) To the extent that there is any inconsistency between this section and a contract of enrolment at the school, this section prevails.
   (1) A manager of a private school that is not registered under section 35A commits an offence if it operates as a school.
   (2) A manager of a private school that is registered under section 35A as a school of a particular description or descriptions commits an offence if the school operates as a school of another description or of other descriptions.
@@ -287,11 +287,11 @@ Section 120A is amended by repealing subsection (1) and substituting the followi
     (a) any person—
       (i) whose registration has been cancelled; and
       (ii) who has not since been registered again; or
-    (b) any person whose practising certificate is suspended under section 139AU or 139AW(1)(d); or
+    (b) any person whose practising certificate is suspended under section 139AU or 139AW(1)﻿(d); or
     (c) any person whose authorisation has been cancelled, and who has not since—
       (i) been authorised again; or
       (ii) been registered as a teacher; or
-    (d) any person whose limited authority to teach is suspended under section 139AU or 139AW(1)(d).
+    (d) any person whose limited authority to teach is suspended under section 139AU or 139AW(1)﻿(d).
 
 ### 15 Restrictions on continued employment of teachers
 Section 120B is amended by repealing subsection (1) and substituting the following subsection:
@@ -299,11 +299,11 @@ Section 120B is amended by repealing subsection (1) and substituting the followi
     (a) any person—
       (i) whose registration has been cancelled; and
       (ii) who has not since been registered again; or
-    (b) any person whose practising certificate is suspended under section 139AW(1)(d); or
+    (b) any person whose practising certificate is suspended under section 139AW(1)﻿(d); or
     (c) any person whose authorisation has been cancelled, and who has not since—
       (i) been authorised again; or
       (ii) been registered as a teacher; or
-    (d) any person whose limited authority to teach is suspended under section 139AW(1)(d).
+    (d) any person whose limited authority to teach is suspended under section 139AW(1)﻿(d).
 
 ### 16 New section 120C inserted
 The following section is inserted after section 120B:Restrictions on activities of teachers whose practising certificate or limited authority to teach subject to interim suspension
@@ -316,14 +316,14 @@ The following section is inserted after section 120B:Restrictions on activities 
   (3) While subsection (1) applies to a person, he or she must not carry out any of the duties of the teaching position concerned.
 
 ### 17 Matching of register information and information about payment of teacher salaries at payrolled schools
-(1) Section 128A(1)(b) is amended by inserting and relieving teachers after regular teachers.
-(2) Section 128A(2)(a) is amended by inserting and relieving teachers after regular teachers.
-(3) Section 128A(3)(b) is amended by omitting teachers and substituting regular teachers and relieving teachers in receipt of salaries at payrolled schools.
+(1) Section 128A(1)﻿(b) is amended by inserting and relieving teachers after regular teachers.
+(2) Section 128A(2)﻿(a) is amended by inserting and relieving teachers after regular teachers.
+(3) Section 128A(3)﻿(b) is amended by omitting teachers and substituting regular teachers and relieving teachers in receipt of salaries at payrolled schools.
 (4) Section 128A(4) is amended by inserting relieving teacher, after regular teacher,.
 
 ### 18 Cancellation of registration as teacher and cancellation of limited authority to teach
-(1) Section 129(1)(d) is amended by omitting 139AZC(8)(c) and substituting 139AZCB(b).
-(2) Section 129(4) is amended by omitting 139AZC(8)(c) and substituting 139AZCB(b).
+(1) Section 129(1)﻿(d) is amended by omitting 139AZC(8)﻿(c) and substituting 139AZCB(b).
+(2) Section 129(4) is amended by omitting 139AZC(8)﻿(c) and substituting 139AZCB(b).
 
 ### 19 Practising certificates
 Section 130 is amended by adding the following subsections:
@@ -335,13 +335,13 @@ Section 130 is amended by adding the following subsections:
   (8) A renewed practising certificate to which subsection (7) applies must be treated as being suspended under section 139AU; and its suspension expires when the suspension of the previous practising certificate held by its holder would have expired.
 
 ### 20 Offences
-Section 137(1) is amended by inserting the following paragraphs after paragraph (f):.
+Section 137(1) is amended by inserting the following paragraphs after paragraph (f):
   (fa) being the employer of a person to whom section 120C(1) applies, fails or refuses to ensure that the person does not carry out any of the duties of the teaching position in which he or she is employed; or
   (fb) being the employer of a person to whom section 120C(1) applies, and the board of a State school, the managers of a school registered under section 35A, or the person or body who appoints staff at an early childhood education and care service, fails or refuses to take all reasonably practicable steps to ensure that the person does not undertake any activities that might bring him or her into contact with students enrolled at the school or, as the case may be, children who attend the service; or
   (fc) being a person to whom section 120C(1) applies, carries out any of the duties of the teaching position in which he or she is employed; or
 
 ### 21 Interpretation
-Section 139AB is amended by repealing the definition of authorised person and substituting the following definitions:.
+Section 139AB is amended by repealing the definition of authorised person and substituting the following definitions:
   - **authorised person** means the holder of an authority
   - **authority** means a limited authority to teach given under Part 10
 
@@ -378,11 +378,11 @@ The following sections are inserted after section 139AZC:Investigation of mandat
     (b) order that the teacher's registration or authority be cancelled (see section 129(1)).
 
 ### 27 No corporal punishment in early childhood services or registered schools
-(1) Section 139A(1)(b) is amended by omitting (within the meaning of section 35A(1)) of a private school and substituting of a school registered under section 35A.
-(2) Section 139A(2)(b) is amended by omitting (within the meaning of section 35A(1)) of a private school and substituting of a school registered under section 35A.
+(1) Section 139A(1)﻿(b) is amended by omitting (within the meaning of section 35A(1)) of a private school and substituting of a school registered under section 35A.
+(2) Section 139A(2)﻿(b) is amended by omitting (within the meaning of section 35A(1)) of a private school and substituting of a school registered under section 35A.
 
 ### 28 Secretary may require information for proper administration of Act
-(1) Section 144A(1)(c) is amended by omitting (within the meaning of section 35A(1)) of any private school registered under that section and substituting of any school registered under section 35A.
+(1) Section 144A(1)﻿(c) is amended by omitting (within the meaning of section 35A(1)) of any private school registered under that section and substituting of any school registered under section 35A.
 (2) Section 144A is amended by repealing subsection (2) and substituting the following subsection:
   (2) For the purposes of the provisions of this Act relating to the registration and inspection of private schools, the following information is relevant to the question of whether or not a school meets the criteria for registration as a private school:
     (a) information that is required under subsection (1) to be given to the Secretary; and
@@ -393,24 +393,24 @@ Section 159AD is amended by inserting the following subsection before subsection
   (1) The Ministry is the Minister's principal policy adviser on tertiary education matters.
 
 ### 30 Functions of Commission
-(1) Section 159F(1) is amended by repealing paragraph (b) and substituting the following paragraph:.
+(1) Section 159F(1) is amended by repealing paragraph (b) and substituting the following paragraph:
   (b) to provide advice to the Minister on the activities and performance of tertiary education organisations and the tertiary education sector generally; and
-(2) Section 159F(1) is amended by repealing paragraph (c) and substituting the following paragraph:.
+(2) Section 159F(1) is amended by repealing paragraph (c) and substituting the following paragraph:
   (c) to provide advice to the Minister on the implementation of policy and on the operational implications of new policy initiatives; and
 
 ### 31 Grant or refusal of application
-(1) Section 236(1)(c) is amended by inserting and the notice made under section 236AB after section 236A.
-(2) Section 236(1)(d)(ii) is amended by inserting domestic after every.
-(3) Section 236(1)(d)(iii) is amended by inserting domestic after every.
-(4) Section 236(1)(d) is amended by inserting the following subparagraphs after subparagraph (iii):.
+(1) Section 236(1)﻿(c) is amended by inserting and the notice made under section 236AB after section 236A.
+(2) Section 236(1)﻿(d)﻿(ii) is amended by inserting domestic after every.
+(3) Section 236(1)﻿(d)﻿(iii) is amended by inserting domestic after every.
+(4) Section 236(1)﻿(d) is amended by inserting the following subparagraphs after subparagraph (iii):
   (iiia) allows, or will allow, every foreign student enrolled for a course of study or training (other than a course of less than 3 months' duration) to withdraw from it at any time within the period specified in the notice made under section 236AB; and
   (iiib) refunds, or will refund, to every foreign student who so withdraws, without deduction, at least so much of any payment, or of the sum of any payments, made by the student to the establishment in respect of that course, and, if withdrawal from that course also constitutes withdrawal from the establishment as a whole, in respect of enrolment at the establishment, as exceeds the percentage specified in the notice made under section 236AB; and
 (5) Section 236 is amended by adding the following subsection:
   (5) For the purposes of this section, first day of the course for which the attendance of students at the establishment is required means, in relation to a student enrolled for a course of study or training at the establishment, the first day on which the establishment requires the student to attend the establishment to begin the course of study or training.
 
 ### 32 Information, withdrawals, and refunds
-(1) Section 236A(1)(c) is amended by inserting domestic after every.
-(2) Section 236A(1)(d) is amended by—
+(1) Section 236A(1)﻿(c) is amended by inserting domestic after every.
+(2) Section 236A(1)﻿(d) is amended by—
   (a) inserting domestic after every; and
   (b) adding ; and.
 (3) Section 236A(1) is amended by adding the following paragraphs:
@@ -419,16 +419,16 @@ Section 159AD is amended by inserting the following subsection before subsection
   (g) allow every foreign student enrolled for a course of study or training that is of less than 3 months' duration to withdraw from it within a period (being less than 7 days) specified by the Qualifications Authority; and
   (h) refund to every foreign student who so withdraws a minimum amount or proportion, specified by the Authority, of any payments made by the student to the establishment in respect of the course.
 (4) Section 236A is amended by repealing subsection (2) and substituting the following subsection:
-  (2) If a student has made any payment or payments to an establishment in respect of the student's enrolment or participation in a course of study or training before the expiry of the period for withdrawal from the course specified in subsection (1)(c), (e), or (g) (as the case may be),—
+  (2) If a student has made any payment or payments to an establishment in respect of the student's enrolment or participation in a course of study or training before the expiry of the period for withdrawal from the course specified in subsection (1)﻿(c), (e), or (g) (as the case may be),—
     (a) the establishment must ensure that there is paid to an independent person approved by the Qualifications Authority for the purpose out of that payment or those payments, to be held in trust to be available for refund to the student under paragraph (d), (f), or (h) of subsection (1) (as the case may be), an amount equal to the amount required to be refunded to the student under that paragraph; and
-    (b) if satisfied that the student withdrew from the course within the period specified in subsection (1)(c), (e), or (g) (as the case may be), the person must pay the amount held to the student; and
-    (c) if satisfied that the student did not withdraw from the course within the period specified in subsection (1)(c), (e), or (g) (as the case may be), the person must (as the case requires) pay the amount held to the establishment, or hold it for the establishment's creditors.
+    (b) if satisfied that the student withdrew from the course within the period specified in subsection (1)﻿(c), (e), or (g) (as the case may be), the person must pay the amount held to the student; and
+    (c) if satisfied that the student did not withdraw from the course within the period specified in subsection (1)﻿(c), (e), or (g) (as the case may be), the person must (as the case requires) pay the amount held to the establishment, or hold it for the establishment's creditors.
 (5) Section 236A is amended by adding the following subsection:
   (3) For the purposes of this section, first day of the course for which the attendance of students at the establishment is required means, in relation to a student enrolled for a course of study or training at an establishment, the first day on which the establishment requires the student to attend the establishment to begin the course of study or training.
 
 ### 33 New section 236AB inserted
 The following section is inserted after section 236A:Refund requirements set by Gazette notice
-  (1) The Minister must specify, by notice in the Gazette, for the purposes of refunds under section 236A(1)(f),—
+  (1) The Minister must specify, by notice in the Gazette, for the purposes of refunds under section 236A(1)﻿(f),—
     (a) the period within which a foreign student may withdraw from a course of 3 months or more and be entitled to a refund under that section; and
     (b) the maximum percentage of the payment or payments that an establishment may retain; and
     (c) the cost components of the fee total on which the maximum percentage is determined; and
@@ -440,7 +440,7 @@ The following section is inserted after section 236A:Refund requirements set by 
   (3) A notice under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989 and for the purposes of the Acts and Regulations Publication Act 1989.
 
 ### 34 Meaning of early childhood education and care centre
-(1) Section 310(2) is amended by inserting the following paragraph after paragraph (h):.
+(1) Section 310(2) is amended by inserting the following paragraph after paragraph (h):
   (ha) any premises, during any period of use for the education or care of 3 or more children under the age of 6, none of whom attends for any period exceeding 2 hours per day, in circumstances where the children's parents or caregivers are—
     (i) in close proximity to the children and are able to be contacted; and
     (ii) able to resume responsibility for the children at short notice:
