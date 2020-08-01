@@ -1,5 +1,5 @@
 # Te Awa Tupua (Whanganui River Claims Settlement) Act 2017
-_Consolidation as at 2017-03-20_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017.
@@ -1139,7 +1139,7 @@ In sections 84 to 86,—
   (c) to land vested in Te Awa Tupua by section 53(3) or 55(3)﻿(a) on and from the date of the vesting.
 (2) The enactments are—
   (a) Part 3 of the Crown Forest Assets Act 1989:
-  (b) sections 211 to 213 of the Education Act 1989:
+  (b) sections 568 to 570 of the Education and Training Act 2020:
   (c) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990:
   (d) sections 27A to 27C of the State-Owned Enterprises Act 1986:
   (e) sections 8A to 8HJ of the Treaty of Waitangi Act 1975.
