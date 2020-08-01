@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2020-04-01_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -179,9 +179,9 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
     (b) a controlled drug as defined in the Misuse of Drugs Act 1975
   - **place of education** —
     (a) means—
-      (i) a composite school or a secondary school as defined by section 2(1) of the Education Act 1989 or a secondary school registered under section 35A of that Act; and
-      (ii) an institution, such as the New Zealand Institute of Skills and Technology and its Crown entity subsidiaries, teachers college, university or wananga, as defined by section 159(1) of the Education Act 1989; and
-      (iii) a registered establishment as defined by section 159(1) of the Education Act 1989; and
+      (i) a composite school or a secondary school as defined by section 10(1) of the Education and Training Act 2020 or a private school registered under section 214 of that Act; and
+      (ii) an institution as defined by section 10(1) of that Act; and
+      (iii) a registered establishment as defined by section 10(1) of that Act; and
     (b) includes any other prescribed place of education
   - **place of employment** means any premises or place—
     (a) occupied for the purposes of employment; or
@@ -278,7 +278,7 @@ Acute treatment, in relation to a claimant, means—
   (a) any income-tested benefit, veteran's pension, New Zealand superannuation, or schedular payment; or
   (aa) any parental leave payments paid under Part 7A of the Parental Leave and Employment Protection Act 1987; or
   (ab) any payment paid under the Compensation for Live Organ Donors Act 2016; or
-  (b) any student allowance established in accordance with regulations made under section 303 of the Education Act 1989; or
+  (b) any student allowance established in accordance with regulations made under section 645 of the Education and Training Act 2020; or
   (c) any amount allocated to a person or persons, other than the person who is the employee in question, under sections CD 11, CW 63, DB 58, GB 23, and GB 24 of the Income Tax Act 2007; or
   (cb) any benefit arising from a employee share scheme under section CE 2 of the Income Tax Act 2007 when the employer makes an election under section RD 7B of that Act to withhold and pay tax in relation to the benefit; or
   (d) any amount deemed to be a dividend paid by any person, to the person who is the employee in question, under section GB 25 of the Income Tax Act 2007; or
@@ -3127,7 +3127,7 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
   (a) a benefit as defined in Schedule 2 of the Social Security Act 2018:
   (b) a funeral grant lump sum payable under section 90 of that Act:
   (c) any special assistance payable under a programme approved under section 100 or 101 of that Act:
-  (d) an allowance established by regulations made under section 303 of the Education Act 1989.
+  (d) an allowance established by regulations made under section 645 of the Education and Training Act 2020.
 (2) The purpose of this section is to facilitate the disclosure of information by the Corporation to the department for the time being responsible for the administration of the Social Security Act 2018 for all or any of the following purposes:
   (a) to verify the entitlement or eligibility of any person to or for any benefit:
   (b) to verify the amount of any benefit to which a person is or was entitled or for which a person is or was eligible:
@@ -4541,13 +4541,13 @@ In clauses 13 to 23,—
   - **education support** —
     (a) means the provision of support or assistance for a claimant to assist him or her to achieve independence in educational participation; and
     (b) includes resource preparation and planning assessed as necessary for the provision of that support or assistance
-  - **educational participation** means participation within the claimant's school day or period of attendance at an early childhood education service by a claimant who is—
-    (a) entitled to free enrolment and free education under the Education Act 1989 and is—
+  - **educational participation** means participation within the claimant’s school day or period of attendance at an early childhood service by a claimant who is—
+    (a) entitled to free enrolment and free education under the Education and Training Act 2020 and is—
       (i) enrolled at a registered school within the meaning of that Act; or
-      (ii) exempted under section 21 or 22A of that Act from the requirement to be enrolled; or
-      (iii) exempted under section 26 (but not subsection (1)﻿(b)﻿(iii)) of that Act from attending a school; or
-    (b) attending a licensed early childhood service within the meaning of section 309 of the Education Act 1989; or
-    (c) enrolled at a State school, special school, special class, or special clinic, under an agreement to which section 9 of the Education Act 1989 applies
+      (ii) exempted under section 38 or 41 of that Act from the requirement to be enrolled; or
+      (iii) exempted under section 44 (but not section 44(1)﻿(c)) of that Act from attending a school; or
+    (b) attending a licensed early childhood service within the meaning of section 10(1) of that Act; or
+    (c) enrolled at a State school or specialist school under an agreement to which section 37 of that Act applies
   - **home** —
     (a) means residential premises in New Zealand in which the claimant lives and which are owned, rented, or otherwise lawfully occupied by the claimant or his or her parent, guardian, or spouse or partner; and
     (b) includes residential premises in New Zealand in which the claimant proposes to live after they are built and which will be owned, rented, or otherwise lawfully occupied by the claimant or his or her parent, guardian, or spouse or partner; but
