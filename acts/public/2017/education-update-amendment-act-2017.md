@@ -1,5 +1,5 @@
 # Education (Update) Amendment Act 2017
-_Consolidation as at 2019-05-14_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Education (Update) Amendment Act 2017.
