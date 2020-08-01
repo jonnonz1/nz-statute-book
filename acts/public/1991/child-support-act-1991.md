@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2020-04-30_
+_Consolidation as at 2020-08-01_
 
 > Title
 
@@ -157,7 +157,7 @@ The objects of this Act are—
   (c) is not financially independent; and
   (d) is a New Zealand citizen or is ordinarily resident in New Zealand.
 (2) In subsection (1)﻿(a), school means—
-  (a) a registered school (as defined in section 2(1) of the Education Act 1989); or
+  (a) a registered school (as defined in section 10(1) of the Education and Training Act 2020); or
   (b) an overseas school.
 (3) A child who is enrolled at a registered school and attends it until the end of the school's academic year is deemed to be enrolled at and attending the school until 31 December in that year.
 (4) In relation to the child support year commencing on 1 April 2015, subsection (1) must be read as if the whole of paragraph (a) were replaced by a reference to a child under 19 years of age.
