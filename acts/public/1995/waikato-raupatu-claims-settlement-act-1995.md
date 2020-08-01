@@ -1,5 +1,5 @@
 # Waikato Raupatu Claims Settlement Act 1995
-_Consolidation as at 2008-05-23_
+_Consolidation as at 2020-08-01_
 
 > An Act—ato record the apology given by the Crown to Waikato in the deed of settlement signed on 22 May 1995 by both representatives of the Crown and representatives of Waikato, being an apology by the Crown for, among other things, sending its forces across the Mangatawhiri river in July 1863, unfairly labelling Waikato as rebels, and subsequently confiscating their land; andbto give effect to certain provisions of that deed of settlement, being a deed that settles the Raupatu claims
 
@@ -257,7 +257,7 @@ Where a settlement property becomes residual Crown land by virtue of Waikato ele
   (b) sections 27A to 27C of the State-Owned Enterprises Act 1986; or
   (c) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990; or
   (d) the amendments made to the Treaty of Waitangi Act 1975 by Part 4 of the New Zealand Railways Corporation Restructuring Act 1990; or
-  (e) sections 211 to 213 of the Education Act 1989; or
+  (e) sections 568 to 570 of the Education and Training Act 2020:
   (f) any enactment equivalent to any of the enactments specified in paragraphs (a) to (e),—
 (2) Subsection (1) of this section shall apply in relation to any claim submitted to the Waitangi Tribunal under section 6 of the Treaty of Waitangi Act 1975, whether before or after the commencement of this section.
 (3) The Director-General shall, as soon as reasonably practicable after the commencement of this subsection, issue to the District Land Registrar 1 or more certificates that identify each certificate of title relating to land within the Waikato claim area that contains a memorial entered pursuant to any of the enactments referred to in subsection (1).
@@ -456,7 +456,7 @@ For the purposes of section 16 of this Act, the following provisions of Part 2 o
 (d) form B in Schedule 3.
 
 ### 2
-For the purposes of section 16 of this Act, section 23(1)﻿(b) of the Public Works Act 1981 shall have effect as if, for subparagraphs (ii) and (iii), there were substituted the following subparagraph:.
+For the purposes of section 16 of this Act, section 23(1)﻿(b) of the Public Works Act 1981 shall have effect as if, for subparagraphs (ii) and (iii), there were substituted the following subparagraph:
 (ii) a statement that the land is to be acquired under section 16 of the Waikato Raupatu Claims Settlement Act 1995; and
 
 ### 3
