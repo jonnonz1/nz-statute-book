@@ -1,5 +1,5 @@
 # Ngai Tāmanuhiri Claims Settlement Act 2012
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Ngai Tāmanuhiri Claims Settlement Act 2012.
@@ -140,7 +140,7 @@ In this Act, unless the context requires another meaning,—
   - **conservation document** means a conservation management plan, conservation management strategy, freshwater fisheries management plan, or national park management plan
   - **conservation management plan** has the meaning given in section 2(1) of the Conservation Act 1987
   - **conservation management strategy** has the meaning given in section 2(1) of the Conservation Act 1987
-  - **conservation protocol** means a protocol issued by the Minister of Conservation under section 21(1)(a), and includes any amendments made under section 21(1)(b)
+  - **conservation protocol** means a protocol issued by the Minister of Conservation under section 21(1)﻿(a), and includes any amendments made under section 21(1)﻿(b)
   - **conservation protocol area** means the area shown in the map attached to the conservation protocol
   - **control** , for the purposes of paragraph (d) of the definition of Crown body, means,—
     (a) in relation to a company, control of the composition of its board of directors; and
@@ -161,7 +161,7 @@ In this Act, unless the context requires another meaning,—
   - **Crown mineral** means, for the purposes of the Crown minerals protocol, a mineral (as defined by section 2(1) of the Crown Minerals Act 1991)—
     (a) that is the property of the Crown under section 10 or 11 of that Act; or
     (b) over which the Crown has jurisdiction under the Continental Shelf Act 1964
-  - **Crown minerals protocol** means a protocol issued by the Minister of Energy and Resources under section 21(1)(a), and includes any amendments made under section 21(1)(b)
+  - **Crown minerals protocol** means a protocol issued by the Minister of Energy and Resources under section 21(1)﻿(a), and includes any amendments made under section 21(1)﻿(b)
   - **Crown minerals protocol area** means the area shown on the map attached to the Crown minerals protocol, together with the adjacent waters
   - **cultural redress property** has the meaning given in section 53
   - **date of the deed of settlement** means 5 March 2011
@@ -175,7 +175,7 @@ In this Act, unless the context requires another meaning,—
   - **documents schedule** means the schedule of that name attached to the deed of settlement
   - **effective date** means the date that is 6 months after the settlement date
   - **encumbrance** means a lease, tenancy, licence, licence to occupy, easement, covenant, or other right or obligation affecting a property
-  - **fisheries protocol** means a protocol issued under section 21(1)(a) by the Minister within the meaning of the Fisheries Act 1996, and includes any amendments made under section 21(1)(b)
+  - **fisheries protocol** means a protocol issued under section 21(1)﻿(a) by the Minister within the meaning of the Fisheries Act 1996, and includes any amendments made under section 21(1)﻿(b)
   - **fisheries protocol area** means the area shown on the map attached to the fisheries protocol, together with the adjacent waters
   - **freshwater fisheries management plan** has the meaning given in section 2(1) of the Conservation Act 1987
   - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
@@ -196,7 +196,7 @@ In this Act, unless the context requires another meaning,—
   - **national park management plan** has the meaning given to management plan in section 2 of the National Parks Act 1980
   - **Ngai Tāmanuhiri** has the meaning given in section 11(1)
   - **property redress schedule** means the schedule of that name in the deed of settlement
-  - **protocol** means a protocol issued under section 21(1)(a), including any amendments made under section 21(1)(b)
+  - **protocol** means a protocol issued under section 21(1)﻿(a), including any amendments made under section 21(1)﻿(b)
   - **regional council** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **Registrar-General** means the Registrar-General of Land appointed under section 4 of the Land Transfer Act 1952
   - **related company** has the meaning given in section 2(3) of the Companies Act 1993
@@ -239,7 +239,7 @@ In this Act, unless the context requires another meaning,—
     (a) mean the deed of trust of the Tāmanuhiri Tutu Poroporo Trust dated 2 March 2011 and signed by Na Rongowhakaata Raihania, Reweti Ratu Ropiha, Pauline Norah Hill, Lisa Janet Maynard, Lynnettee Rerehau Pounsford, Hope Nga Taare Tupare, and Keith Tausia Tarsau; and
     (b) includes the schedules to the trust deed and any amendments to the trust deed or its schedules
   - **taonga tūturu** and have the meanings given in section 2(1) of the Protected Objects Act 1975
-  - **taonga tūturu protocol** means a protocol issued by the Minister for Arts, Culture and Heritage under section 21(1)(a), and includes any amendments under section 21(1)(b)
+  - **taonga tūturu protocol** means a protocol issued by the Minister for Arts, Culture and Heritage under section 21(1)﻿(a), and includes any amendments under section 21(1)﻿(b)
   - **Te Wherowhero** means the property of that name described in Part 2 of Schedule 2
   - **tikanga** means customary values and practices
   - **trustees** means the governance entity of Ngai Tāmanuhiri for the purposes of this Act, being the trustees from time to time of the Tāmanuhiri Tutu Poroporo Trust
@@ -254,7 +254,7 @@ In this Act, unless the context requires another meaning,—
   (b) members of 1 or more of those hapū or descent groups; and
   (c) every whānau, hapū, or other group of individuals to the extent that that whānau, hapū, or other group includes individuals referred to in paragraph (a); and
   (d) every individual referred to in paragraph (a).
-(2) In subsection (1)(a),—
+(2) In subsection (1)﻿(a),—
   (a) a person is descended from another person if the first person is descended from the other by—
     (i) birth; or
     (ii) legal adoption:
@@ -284,7 +284,7 @@ In this Act, unless the context requires another meaning,—
       (C) Wai 878, Wastewater and Social Services claim; and
     (iii) any other claim to the Waitangi Tribunal to which paragraph (a) applies, so far as it relates to Ngai Tāmanuhiri or a representative entity.
 (2) However, historical claims does not include any claim that—
-  (a) a member of Ngai Tāmanuhiri, or a whānau, hapū, or other group referred to in section 11(1)(c) may have that is founded on a right arising as a result of being descended from an ancestor not referred to in section 11(1)(a); or
+  (a) a member of Ngai Tāmanuhiri, or a whānau, hapū, or other group referred to in section 11(1)﻿(c) may have that is founded on a right arising as a result of being descended from an ancestor not referred to in section 11(1)﻿(a); or
   (b) a representative entity may have, to the extent that the claim is, or is based on, a claim referred to in paragraph (a).
 
 ### Subpart 3 — Settlement of historical claims
@@ -318,7 +318,7 @@ In this Act, unless the context requires another meaning,—
   (c) for the benefit of Ngai Tāmanuhiri or a representative entity.
 (2) The enactments are—
   (a) Part 3 of the Crown Forest Assets Act 1989:
-  (b) sections 211 to 213 of the Education Act 1989:
+  (b) sections 568 to 570 of the Education and Training Act 2020:
   (c) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990:
   (d) sections 27A to 27C of the State-Owned Enterprises Act 1986:
   (e) sections 8A to 8HJ of the Treaty of Waitangi Act 1975.
@@ -467,12 +467,12 @@ The taonga tūturu protocol does not have the effect of granting, creating, or p
 (1) Each relevant consent authority must, for a period of 20 years on and from the effective date, provide the following to the trustees for each resource consent application for an activity within, adjacent to, or directly affecting a statutory area:
   (a) a summary of the application, if the application is received by the consent authority; or
   (b) a copy of the notice, if the application is served on the consent authority under section 145(10) of the Resource Management Act 1991.
-(2) A summary provided under subsection (1)(a) must be—
+(2) A summary provided under subsection (1)﻿(a) must be—
   (a) the same as would be given to an affected person under section 95B of the Resource Management Act 1991, or as may be agreed between the trustees and the relevant consent authority; and
   (b) provided as soon as is reasonably practicable—
     (i) after an application is received by the consent authority; and
     (ii) before the relevant consent authority decides under section 95 of the Resource Management Act 1991 whether to notify the application.
-(3) A copy of the notice given under subsection (1)(b) must be provided not later than 10 business days after the day on which the consent authority receives the notice.
+(3) A copy of the notice given under subsection (1)﻿(b) must be provided not later than 10 business days after the day on which the consent authority receives the notice.
 (4) The trustees may, by notice in writing to a relevant consent authority,—
   (a) waive their rights to be notified under this section; and
   (b) state the scope of that waiver and the period it applies for.
@@ -510,7 +510,7 @@ If any part of a statutory acknowledgement applies to a river or stream (includi
 (1) Except as expressly provided in this subpart,—
   (a) the statutory acknowledgement does not affect, and may not be taken into account by, a person exercising a power or performing a function or duty under legislation or a bylaw; and
   (b) no person, in considering a matter or making a decision or recommendation under legislation or a bylaw, may give greater or lesser weight to the association of Ngai Tāmanuhiri with a statutory area (as described in a statement of association) than that person would give under the relevant legislation or bylaw if no statutory acknowledgement or deed of recognition existed in respect of the statutory area.
-(2) Subsection (1)(b) does not affect the operation of subsection (1)(a).
+(2) Subsection (1)﻿(b) does not affect the operation of subsection (1)﻿(a).
 
 ### 38 Rights not affected
 Except as expressly provided in this subpart, the statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
@@ -544,7 +544,7 @@ In this subpart, unless the context otherwise requires,—
 
 ### 42 Establishment and status of Local Leadership Body
 (1) The LLB is established as a statutory body.
-(2) Despite the membership of the LLB provided for by section 44(1)(a) to (c), the LLB is a joint committee of the Council for the purposes of clause 30(1)(b) of Schedule 7 of the Local Government Act 2002.
+(2) Despite the membership of the LLB provided for by section 44(1)﻿(a) to (c), the LLB is a joint committee of the Council for the purposes of clause 30(1)﻿(b) of Schedule 7 of the Local Government Act 2002.
 (3) Despite Schedule 7 of the Local Government Act 2002, the LLB—
   (a) is a permanent committee; and
   (b) must not be discharged without the agreement of the specified appointers and the Council.
@@ -572,13 +572,13 @@ In this subpart, unless the context otherwise requires,—
 
 ### 45 Initial appointments
 (1) The trustees may, on or after the settlement date, notify the Crown of the initial members of the LLB appointed in accordance with—
-  (a) section 44(1)(a) to (c) and (2); and
+  (a) section 44(1)﻿(a) to (c) and (2); and
   (b) clauses 5.28D to 5.28H of the deed of settlement.
 (2) When the trustees have notified the Crown of the initial members of the LLB appointed under subsection (1),—
   (a) the Crown must, not later than 2 business days after receiving notice of those appointments, notify the appointments to the Council; and
   (b) the Council must, after receiving that notice from the Crown,—
     (i) appoint 6 initial members of the LLB in accordance with—
-      (A) section 44(1)(d); and
+      (A) section 44(1)﻿(d); and
       (B) clause 31 of Schedule 7 of the Local Government Act 2002; and
     (ii) not later than 20 business days after being notified under paragraph (a), notify the trustees and the Crown of the Council's appointments.
 
@@ -612,8 +612,8 @@ In this subpart, unless the context otherwise requires,—
 (1) A member may be discharged by the specified appointer or the Council that appointed that member, as the case may be.
 (2) A member appointed by a specified appointer may resign on the date specified in a written notice given to that specified appointer.
 (3) If there is a vacancy on the LLB, the relevant specified appointer or the Council, as the case may be, must fill the vacancy as soon as is reasonably practicable.
-(4) To avoid doubt, members of the LLB who are appointed in accordance with section 44(1)(a) to (c) are not, by virtue of that membership, members of the Council.
-(5) The LLB ceases to exist and the term of office of all the remaining members expires if a specified appointer ceases to exist and a vacancy in the membership of the LLB is unable to be filled in accordance with the requirements of section 44(1)(a) to (c).
+(4) To avoid doubt, members of the LLB who are appointed in accordance with section 44(1)﻿(a) to (c) are not, by virtue of that membership, members of the Council.
+(5) The LLB ceases to exist and the term of office of all the remaining members expires if a specified appointer ceases to exist and a vacancy in the membership of the LLB is unable to be filled in accordance with the requirements of section 44(1)﻿(a) to (c).
 
 ### 48 Decision making
 The members of the LLB must, individually and collectively, approach decision making in a manner that is consistent with, and reflects, the purpose of the LLB.
@@ -622,7 +622,7 @@ The members of the LLB must, individually and collectively, approach decision ma
 (1) The LLB must, except as provided in this subpart, regulate its own procedures.
 (2) The LLB must, at its first meeting,—
   (a) appoint a chairperson or co-chairpersons and a deputy chairperson of the LLB and state the terms of those appointments; and
-  (b) state the terms of the appointments of the members appointed under section 44(1)(a) to (c); and
+  (b) state the terms of the appointments of the members appointed under section 44(1)﻿(a) to (c); and
   (c) adopt a quorum for meetings of the LLB; and
   (d) adopt a set of standing orders for the operations of the LLB; and
   (e) agree—
@@ -648,7 +648,7 @@ A member of the LLB is not precluded by the Local Authorities (Members' Interest
   (a) are each responsible for supporting the persons that each has appointed to the LLB; and
   (b) must, no later than 12 months after the date of the first meeting of the LLB, enter into an agreement on the terms of reference of the LLB; and
   (c) may agree to extend that time frame by a period that does not exceed a further 6 months after the date of the first meeting of the LLB.
-(2) In subsection (1)(b), agreement is the same as an agreement referred to in clause 28I of the deed of settlement.
+(2) In subsection (1)﻿(b), agreement is the same as an agreement referred to in clause 28I of the deed of settlement.
 
 ### 52 Application of other Acts to LLB
 (1) To the extent that they are relevant for the purpose and functions of the LLB, the provisions of the following Acts apply to the LLB, with the necessary modifications, except as provided otherwise in this subpart:
@@ -656,8 +656,8 @@ A member of the LLB is not precluded by the Local Authorities (Members' Interest
   (b) the Local Government Act 1974; and
   (c) the Local Authorities (Members' Interests) Act 1968; and
   (d) the Local Government Official Information and Meetings Act 1987.
-(2) Clauses 6(1)(b), 12, 30(3) and (7), and 31(1) and (2) of Schedule 7 of the Local Government Act 2002 apply only to the members of the LLB appointed by the Council.
-(3) Clauses 23(3)(b), 26(1), (3), and (4), 27, 30(5) and (9)(b), and 31(3), (4), and (6) of Schedule 7 of the Local Government Act 2002 do not apply to the LLB.
+(2) Clauses 6(1)﻿(b), 12, 30(3) and (7), and 31(1) and (2) of Schedule 7 of the Local Government Act 2002 apply only to the members of the LLB appointed by the Council.
+(3) Clauses 23(3)﻿(b), 26(1), (3), and (4), 27, 30(5) and (9)﻿(b), and 31(3), (4), and (6) of Schedule 7 of the Local Government Act 2002 do not apply to the LLB.
 (4) To the extent that the rest of Schedule 7 of the Local Government Act 2002 is applicable, it applies to the LLB subject to all references to—
   (a) a local authority being read as references to the LLB; and
   (b) a member of a committee of a local authority being read as references to the persons appointed by the specified appointers in accordance with section 44(1).
@@ -680,7 +680,7 @@ The fee simple estate in Mangapoike vests in the trustees.
 (1) Young Nick's Head/Te Kuri a Paoa Historic Reserve vests in the trustees as if it were vested under section 26 of the Reserves Act 1977.
 (2) Young Nick's Head/Te Kuri a Paoa Historic Reserve is declared a national reserve for the purposes of section 13 of the Reserves Act 1977.
 (3) The national historic reserve created by subsection (2) is named Te Kuri a Paoa/Young Nick's Head National Historic Reserve.
-(4) Despite section 13(5)(b) of the Reserves Act 1977, the trustees must hold and administer Te Kuri a Paoa /Young Nick's Head National Historic Reserve as a national historic reserve subject to the Reserves Act 1977.
+(4) Despite section 13(5)﻿(b) of the Reserves Act 1977, the trustees must hold and administer Te Kuri a Paoa /Young Nick's Head National Historic Reserve as a national historic reserve subject to the Reserves Act 1977.
 (5) To avoid doubt, section 24(7B) of the Conservation Act 1987 applies to the vesting of Young Nick's Head/Te Kuri a Paoa Historic Reserve under subsection (1).
 
 **Provisions of general application to vesting of cultural redress properties**
@@ -800,7 +800,7 @@ The vesting in the trustees of the fee simple estate in Mangapoike under this su
   (a) the transfer of a relevant property; or
   (b) any matter incidental to, or required for the purpose of, that transfer.
 (4) In exercising the powers conferred by this subpart, the Crown is not required to comply with any other enactment that would otherwise regulate or apply to the transfer of a relevant property.
-(5) Subsection (4) is subject to subsection (2)(a) and (b)(i) and (ii).
+(5) Subsection (4) is subject to subsection (2)﻿(a) and (b)﻿(i) and (ii).
 
 ### Subpart 2 — Licensed land
 
@@ -848,14 +848,14 @@ To give effect to clauses 6.10 and 6.11 of the deed of settlement, the Crown (ac
   (a) Wharerata Forest Limited is entitled to the rental proceeds payable since the commencement of the Crown forestry licence; and
   (b) all the provisions of the Crown forestry rental trust deed apply on the basis that Wharerata Forest Limited is the confirmed beneficiary; and
   (c) Wharerata Forest is to be managed in accordance with the Wharerata shareholders' agreement and trust deed.
-(3) The Crown must give notice under section 17(4)(b) of the Crown Forest Assets Act 1989 in respect of the Crown forestry licence, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land.
+(3) The Crown must give notice under section 17(4)﻿(b) of the Crown Forest Assets Act 1989 in respect of the Crown forestry licence, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land.
 (4) Notice given by the Crown under subsection (3) has effect as if—
-  (a) the Waitangi Tribunal had made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land; and
+  (a) the Waitangi Tribunal had made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land; and
   (b) the recommendation had become final on the settlement date.
 (5) Wharerata Forest Limited is the licensor under the Crown forestry licence as if the licensed land had been returned to Māori ownership—
   (a) on the settlement date; and
   (b) under section 36 of the Crown Forest Assets Act 1989.
-(6) However, section 36(1)(b) of the Crown Forest Assets Act 1989 (which relates to the payment of compensation) does not apply to the licensed land.
+(6) However, section 36(1)﻿(b) of the Crown Forest Assets Act 1989 (which relates to the payment of compensation) does not apply to the licensed land.
 
 ### 72 Registrar-General to create computer freehold register for Wharerata Forest
 (1) This section applies to the Wharerata Forest that is to be transferred to Wharerata Forest Limited under Part 6 of the deed of settlement and Part 6 of the property redress schedule.
@@ -927,14 +927,14 @@ For a period of up to 9 years from the settlement date, if Wharerata Forest Limi
 ### 80 Modifications to jurisdiction of Waitangi Tribunal
 (1) The jurisdiction of the Waitangi Tribunal under section 79 is limited to determining matters relating to the transfer of all or part of the Crown interest.
 (2) The Crown must advise the Waitangi Tribunal of any change to the Crown interest in order to inform the Tribunal of the extent of the Tribunal's jurisdiction for the purpose of subsection (1).
-(3) The recommendations that the Waitangi Tribunal may make under section 8HB(1)(a) of the Treaty of Waitangi Act 1975—
+(3) The recommendations that the Waitangi Tribunal may make under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975—
   (a) are limited to recommendations on the transfer of the Crown interest; but
   (b) for the purposes of making any such recommendation, the Waitangi Tribunal may inquire into, and make findings on, the actions of the Crown in relation to all or any part of the Wharerata Forest.
 (4) Despite section 8HD of the Treaty of Waitangi Act 1975, any or all of the other Wharerata claimants may appear and be heard by the Tribunal in relation to the historical Treaty claims of any other Wharerata claimant.
 
 ### 81 Obligations in event of interim recommendation of Waitangi Tribunal
 (1) This section applies at any time during the period referred to in section 76 if, in inquiring into the historical Treaty claims of any other Wharerata claimant under section 79,—
-  (a) the Waitangi Tribunal makes an interim recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the transfer of the whole or part of the Crown interest to 1 or more of the other Wharerata claimants; and
+  (a) the Waitangi Tribunal makes an interim recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the transfer of the whole or part of the Crown interest to 1 or more of the other Wharerata claimants; and
   (b) that interim recommendation becomes final under section 8HC of that Act.
 (2) The Crown must give effect to the final recommendation by transferring all or part of the Crown interest as directed by the Waitangi Tribunal.
 
@@ -1009,7 +1009,7 @@ In this subpart and Schedule 3, unless the context requires another meaning,—
   (a) Pakowhai Scenic Reserve; and
   (b) Muriwai School House site RFR land; and
   (c) deferred Muriwai School RFR land; and
-  (d) land obtained in exchange for a disposal of RFR land under section 100(1)(c) or 101.
+  (d) land obtained in exchange for a disposal of RFR land under section 100(1)﻿(c) or 101.
 (2) However, land ceases to be RFR land if—
   (a) the RFR landowner transfers the fee simple estate in the land to—
     (i) the trustees or their nominee (for example, under section 92); or
@@ -1074,7 +1074,7 @@ The RFR landowner may, by notice to the trustees, withdraw an offer at any time 
 (1) An RFR landowner may dispose of RFR land to—
   (a) the Crown; or
   (b) a Crown body.
-(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 143(5) or 206 of the Education Act 1989.
+(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 563 of the Education and Training Act 2020.
 
 ### 95 Disposal of existing public works to local authority
 (1) An RFR landowner may dispose of RFR land that is a public work, or part of a public work, in accordance with section 50 of the Public Works Act 1981 to a local authority (as defined in section 2 of the Public Works Act 1981).
@@ -1106,7 +1106,7 @@ An RFR landowner may dispose of RFR land in accordance with—
 
 ### 99 Disposal by the Crown under certain legislation
 The Crown may dispose of RFR land in accordance with—
-  (a) section 54(1)(d) of the Land Act 1948; or
+  (a) section 54(1)﻿(d) of the Land Act 1948; or
   (b) section 355(3) of the Resource Management Act 1991; or
   (c) section 34 of the Marine and Coastal Area (Takutai Moana) Act 2011.
 
@@ -1114,8 +1114,8 @@ The Crown may dispose of RFR land in accordance with—
 (1) An RFR landowner may dispose of RFR land in accordance with—
   (a) section 40(2) or (4) or 41 of the Public Works Act 1981 (including as those provisions are applied by another enactment); or
   (b) section 52, 105(1), 106, 114(3), 117(7), or 119 of the Public Works Act 1981; or
-  (c) section 117(3)(a) of the Public Works Act 1981; or
-  (d) section 117(3)(b) of the Public Works Act 1981, if the land is disposed of to the owner of adjoining land; or
+  (c) section 117(3)﻿(a) of the Public Works Act 1981; or
+  (d) section 117(3)﻿(b) of the Public Works Act 1981, if the land is disposed of to the owner of adjoining land; or
   (e) section 23(1) or (4), 24(4), or 26 of the New Zealand Railways Corporation Restructuring Act 1990.
 (2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under section 134 of Te Ture Whenua Maori Act 1993 after an application by an RFR landowner under section 41(e) of the Public Works Act 1981.
 
@@ -1144,7 +1144,7 @@ The Crown may dispose of RFR land—
     (i) prevents or limits an RFR landowner’s disposal of RFR land to the trustees; and
     (ii) the RFR landowner cannot satisfy by taking reasonable steps; and
   (c) the terms of a mortgage over, or security interest in, RFR land.
-(2) Reasonable steps, for the purposes of subsection (1)(b)(ii), do not include steps to promote the passing of an enactment.
+(2) Reasonable steps, for the purposes of subsection (1)﻿(b)﻿(ii), do not include steps to promote the passing of an enactment.
 (3) This subpart does not limit subsection (1).
 
 **Notices**
