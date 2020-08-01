@@ -1,5 +1,5 @@
 # Ngāti Pāhauwera Treaty Claims Settlement Act 2012
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2020-08-01_
 
 ## Preamble
 (1) The Treaty of Waitangi (Te Tiriti o Waitangi) was signed in 1840. The terms of the Treaty of Waitangi (Te Tiriti o Waitangi) in English and Māori are set out in Schedule 1 of the Treaty of Waitangi Act 1975:
@@ -205,7 +205,7 @@ It is the intention of Parliament that the provisions of this Act are interprete
   - **licensor** means the licensor for the time being of the Crown forestry licence
   - **LINZ** means Land Information New Zealand
   - **local authority** has the meaning given to it in section 5(1) of the Local Government Act 2002
-  - **member of Ngāti Pāhauwera** means every individual referred to in section 12(1)(a)
+  - **member of Ngāti Pāhauwera** means every individual referred to in section 12(1)﻿(a)
   - **Ngāti Pāhauwera Development Trust** means the trust established by the Ngāti Pāhauwera Development Trust deed
   - **Ngāti Pāhauwera Development Trust deed—**
     (a) means the deed of trust establishing the Ngāti Pāhauwera Development Trust, dated 27 September 2008; and
@@ -227,8 +227,8 @@ It is the intention of Parliament that the provisions of this Act are interprete
   - **representative entity** means—
     (a) the trustees; and
     (b) any person (including any trustee) acting for, or on behalf of,—
-      (i) the collective group referred to in section 12(1)(a); or
-      (ii) 1 or more of the whānau, hapū, or groups that together form the collective group referred to in section 12(1)(a); or
+      (i) the collective group referred to in section 12(1)﻿(a); or
+      (ii) 1 or more of the whānau, hapū, or groups that together form the collective group referred to in section 12(1)﻿(a); or
       (iii) 1 or more members of Ngāti Pāhauwera
   - **resource consent** has the meaning given to it in section 2(1) of the Resource Management Act 1991
   - **RFR area** means the area shown on SO 433356
@@ -248,7 +248,7 @@ It is the intention of Parliament that the provisions of this Act are interprete
   (b) every whānau, hapū, or group to the extent that it is composed of individuals referred to in paragraph (a); and
   (c) every individual referred to in paragraph (a).
 (2) In this section, Ngāti Pāhauwera ancestor means a recognised ancestor of any of the Ngāti Pāhauwera hapū who exercised the customary rights predominantly in relation to the core area of interest at any time after 6 February 1840.
-(3) For the purposes of subsection (1)(a), a person is descended from another person if descended from that other person by—
+(3) For the purposes of subsection (1)﻿(a), a person is descended from another person if descended from that other person by—
   (a) birth; or
   (b) legal adoption.
 (4) In this section, customary rights means rights according to tikanga Māori (Māori customary values and practices), including—
@@ -278,7 +278,7 @@ It is the intention of Parliament that the provisions of this Act are interprete
   (d) a claim that a member of Ngāi Te Ruruku may have based on descent from Wharerakau or Te Hiku:
   (e) a claim that a representative entity may have to the extent the claim is, or is founded on, a claim referred to in paragraph (a):
   (f) an application under subpart 1 or 2 of Part 4 of the Marine and Coastal Area (Takutai Moana) Act 2011.
-(4) Subsection (3)(f) is to avoid doubt.
+(4) Subsection (3)﻿(f) is to avoid doubt.
 
 ### Subpart 3 — Settlement of historical claims
 
@@ -310,7 +310,7 @@ It is the intention of Parliament that the provisions of this Act are interprete
 (2) The enactments are—
   (a) sections 8A to 8HJ of the Treaty of Waitangi Act 1975:
   (b) sections 27A to 27C of the State-Owned Enterprises Act 1986:
-  (c) sections 211 to 213 of the Education Act 1989:
+  (c) sections 568 to 570 of the Education and Training Act 2020:
   (d) Part 3 of the Crown Forest Assets Act 1989:
   (e) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990.
 
@@ -486,25 +486,25 @@ In this Act, Te Heru o Tūreia, Te Heru o Tūreia (Area B), Te Heru o Tūreia Gi
 ### 36 Mangawhārangi
 (1) The reservation of Mangawhārangi (being part of Mangawharangi Scenic Reserve) as a scenic reserve subject to the Reserves Act 1977 is revoked.
 (2) The fee simple estate in Mangawhārangi vests in the trustees of the Ngāti Pāhauwera Tiaki Trust.
-(3) Mangawhārangi is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) Mangawhārangi is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The reserve created by subsection (3) is named Mangawhārangi Scenic Reserve.
 
 ### 37 Ngākōauau (Area B)
 (1) Ngākōauau (Area B) (being part of Maulders Conservation Area) ceases to be a conservation area under the Conservation Act 1987.
 (2) The fee simple estate in Ngākōauau (Area B) vests in the trustees of the Ngāti Pāhauwera Tiaki Trust.
-(3) Ngākōauau (Area B) is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) Ngākōauau (Area B) is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The reserve created by subsection (3) is named Ngākōauau Scenic Reserve.
 
 ### 38 Tānga Kākāriki
 (1) The reservation of Tānga Kākāriki (being part of Kakariki Scenic Reserve) as a scenic reserve subject to the Reserves Act 1977 is revoked.
 (2) The fee simple estate in Tānga Kākāriki vests in the trustees of the Ngāti Pāhauwera Tiaki Trust.
-(3) Tānga Kākāriki is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) Tānga Kākāriki is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The reserve created by subsection (3) is named Tānga Kākāriki Scenic Reserve.
 
 ### 39 Pūtere
 (1) The reservation of Pūtere (being the Putere Scenic Reserve) as a scenic reserve subject to the Reserves Act 1977 is revoked.
 (2) The fee simple estate in Pūtere vests in the trustees of the Ngāti Pāhauwera Tiaki Trust.
-(3) Pūtere is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) Pūtere is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The reserve created by subsection (3) is named Pūtere Scenic Reserve.
 
 **Site vested in fee simple to be administered as local purpose reserve**
@@ -544,7 +544,7 @@ In this Act, Te Heru o Tūreia, Te Heru o Tūreia (Area B), Te Heru o Tūreia Gi
 (2) Despite subsection (1), the rest of section 24 of the Conservation Act 1987 does not apply to the vesting of—
   (a) a reserve site under subpart 1 or 2; or
   (b) Kuwatawata under section 31(2), the bed of Lake Rotongaio under section 34(2), and the bed of part of Lake Rotoroa under section 35(2).
-(3) If the reservation under subpart 1 or 2 of a reserve site is revoked in relation to all or part of the site, then the sites referred to in subsection (2)(a) are no longer exempt from the rest of section 24 of the Conservation Act 1987 in relation to all or that part of the site.
+(3) If the reservation under subpart 1 or 2 of a reserve site is revoked in relation to all or part of the site, then the sites referred to in subsection (2)﻿(a) are no longer exempt from the rest of section 24 of the Conservation Act 1987 in relation to all or that part of the site.
 
 ### 44 Recording application of Part 4A of Conservation Act 1987
 (1) The Registrar-General must record on the computer freehold register for—
@@ -559,7 +559,7 @@ In this Act, Te Heru o Tūreia, Te Heru o Tūreia (Area B), Te Heru o Tūreia Gi
     (i) section 24 of the Conservation Act 1987 does not apply to the site; and
     (ii) the site is subject to sections 43(3) and 54 of this Act; or
   (b) part of the site, then the Registrar-General must ensure that the notifications referred to in paragraph (a) remain only on the computer freehold register for the part of the site that remains a reserve.
-(4) The Registrar-General must comply with an application received in accordance with subsection (3)(a).
+(4) The Registrar-General must comply with an application received in accordance with subsection (3)﻿(a).
 
 ### 45 Application of other enactments
 (1) Sections 24 and 25 of the Reserves Act 1977 do not apply to the revocation, under subpart 1 or 2, of the reserve status of a cultural redress property.
@@ -576,7 +576,7 @@ In this Act, Te Heru o Tūreia, Te Heru o Tūreia (Area B), Te Heru o Tūreia Gi
   (a) that official geographic name is discontinued; and
   (b) the Board must ensure that, as soon as is reasonably practicable, the official geographic name is removed from the Gazetteer.
 (2) However, if a site vested under subpart 1 or 2 comprises only part of a reserve or conservation area to which an official geographic name has been assigned,—
-  (a) subsection (1)(a) applies only to the part of the site that is vested under subpart 1 or 2; and
+  (a) subsection (1)﻿(a) applies only to the part of the site that is vested under subpart 1 or 2; and
   (b) the Board must amend the Gazetteer so that the official geographic name applies only to the part of the reserve or conservation area that is not vested under subpart 1 or 2.
 (3) If a site is vested under subpart 1 or 2 and reserved and classified as a historic reserve or scenic reserve under that subpart, the historic reserve or scenic reserve does not become a Crown protected area.
 (4) The Minister must not change the name of a reserve site under section 16(10) of the Reserves Act 1977 without the written consent of the administering body of the site, and section 16(10A) of that Act does not apply to the proposed change.
@@ -637,7 +637,7 @@ The registered proprietors of the lakebeds are not liable for an existing struct
 ### 53 Application of Reserves Act 1977 to reserve sites
 (1) The trustees of the Ngāti Pāhauwera Tiaki Trust are the administering body of a reserve site for the purposes of the Reserves Act 1977.
 (2) Sections 48A, 114, and 115 of the Reserves Act 1977 apply to a reserve site, despite sections 48A(6), 114(5), and 115(6) of that Act.
-(3) Sections 78(1)(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve site.
+(3) Sections 78(1)﻿(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve site.
 (4) If the reservation of a reserve site under this Part is revoked under section 24 of the Reserves Act 1977 in relation to all or part of the site, section 25 of that Act, except subsection (2) of that provision, does not apply to the revocation.
 
 ### 54 Subsequent transfer of reserve land
@@ -689,7 +689,7 @@ In this subpart,—
   (c) if the trustees so direct, to another place in the vicinity of their original position.
 
 ### 59 Trustees' consent
-(1) The trustees of the Ngāti Pāhauwera Development Trust are not obliged to give a consent to extract relevant hāngi stones under section 58(1)(b), but may give it on any terms and conditions they see fit.
+(1) The trustees of the Ngāti Pāhauwera Development Trust are not obliged to give a consent to extract relevant hāngi stones under section 58(1)﻿(b), but may give it on any terms and conditions they see fit.
 (2) Despite any enactment, any person who has obtained the consent of the trustees to extract relevant hāngi stones may extract the stones without obtaining any consent from a local authority.
 
 ### 60 Appointment of tangata tiaki
@@ -718,8 +718,8 @@ The Governor-General may, on the recommendation of the Minister of Justice after
 (1) This section applies if the Minister for the Environment appoints a special tribunal under section 202 of the Resource Management Act 1991 (a special tribunal) to hear and report on a relevant application where—
   (a) the waters to be protected fall entirely within the core area of interest; or
   (b) the waters to be protected fall partly within the core area of interest.
-(2) If subsection (1)(a) applies, the trustees of the Ngāti Pāhauwera Development Trust may nominate for appointment up to half of the members of the special tribunal.
-(3) If subsection (1)(b) applies, the trustees of the Ngāti Pāhauwera Development Trust may nominate for appointment 1 member of the special tribunal.
+(2) If subsection (1)﻿(a) applies, the trustees of the Ngāti Pāhauwera Development Trust may nominate for appointment up to half of the members of the special tribunal.
+(3) If subsection (1)﻿(b) applies, the trustees of the Ngāti Pāhauwera Development Trust may nominate for appointment 1 member of the special tribunal.
 (4) The Minister for the Environment must not refuse to accept any nomination under subsection (2) or (3) unless the Minister is satisfied on reasonable grounds that—
   (a) the nominee's duties and responsibilities as a member of the special tribunal may be affected by some other interest or duty that the nominee has; or
   (b) there may be a perception on the part of any person with an interest in the application, or the general public, that the nominee—
@@ -809,10 +809,10 @@ The Crown acknowledges the statement of association.
   (a) if the application is received by the consent authority, a summary of the application; or
   (b) if notice of the application is served on the consent authority under section 145(10) of the Resource Management Act 1991, a copy of the notice.
 (2) The information provided in a summary of an application must be the same as would be given to an affected person by limited notification under section 95B of the Resource Management Act 1991, or as may be agreed between the trustees of the Ngāti Pāhauwera Development Trust and the relevant consent authority.
-(3) A summary of an application must be provided under subsection (1)(a)—
+(3) A summary of an application must be provided under subsection (1)﻿(a)—
   (a) as soon as is reasonably practicable after the consent authority receives the application; and
   (b) before the consent authority decides under section 95 of the Resource Management Act 1991 whether to notify the application.
-(4) A copy of a notice of an application must be provided under subsection (1)(b) no later than 10 business days after the date on which the consent authority receives the notice.
+(4) A copy of a notice of an application must be provided under subsection (1)﻿(b) no later than 10 business days after the date on which the consent authority receives the notice.
 (5) This section does not affect a relevant consent authority's obligation,—
   (a) under section 95 of the Resource Management Act 1991, to decide whether to notify an application, and to notify the application if it decides to do so; or
   (b) under section 95E of that Act, to decide if the trustees of the Ngāti Pāhauwera Development Trust are affected persons in relation to an activity.
@@ -844,7 +844,7 @@ The Crown acknowledges the statement of association.
 (1) Except as expressly provided in this subpart,—
   (a) the statutory acknowledgement does not affect, and may not be taken into account by, a person exercising a power or performing a function or duty under legislation or a bylaw; and
   (b) no person, in considering a matter or making a decision or recommendation under legislation or a bylaw, may give greater or lesser weight to the association of Ngāti Pāhauwera with the relevant part of the Earthquake Slip Marginal Strip (as described in the statement of association) than that person would give under the relevant legislation or bylaw if no statutory acknowledgement existed in respect of the relevant part of the Earthquake Slip Marginal Strip.
-(2) Subsection (1)(b) does not affect the operation of subsection (1)(a).
+(2) Subsection (1)﻿(b) does not affect the operation of subsection (1)﻿(a).
 
 ### 77 Rights not affected
 Except as expressly provided in this subpart, the statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
@@ -922,14 +922,14 @@ To give effect to Part 6 of the deed of settlement and Part 4 of the provisions 
 (2) The effect of subsection (1) is that—
   (a) the trustees of the Ngāti Pāhauwera Development Trust are entitled to the rental proceeds payable since the commencement of the Crown forestry licence; and
   (b) all the provisions of the Crown forestry rental trust deed apply on the basis that the trustees of the Ngāti Pāhauwera Development Trust are the confirmed beneficiaries.
-(3) The Crown must give notice under section 17(4)(b) of the Crown Forest Assets Act 1989 in respect of the Crown forestry licence, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land.
+(3) The Crown must give notice under section 17(4)﻿(b) of the Crown Forest Assets Act 1989 in respect of the Crown forestry licence, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land.
 (4) Notice given by the Crown under subsection (3) has effect as if—
-  (a) the Waitangi Tribunal had made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the settlement licensed land; and
+  (a) the Waitangi Tribunal had made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the settlement licensed land; and
   (b) the recommendation had become final on the settlement date.
 (5) The trustees of the Ngāti Pāhauwera Development Trust are the licensor under the Crown forestry licence as if the licensed land had been returned to Māori ownership—
   (a) on the settlement date; and
   (b) under section 36 of the Crown Forest Assets Act 1989.
-(6) However, section 36(1)(b) of the Crown Forest Assets Act 1989 does not apply to the settlement licensed land.
+(6) However, section 36(1)﻿(b) of the Crown Forest Assets Act 1989 does not apply to the settlement licensed land.
 
 ### 88 Effect of transfer of licensed land
 Section 87 applies whether or not, on the settlement date, the transfer of the fee simple estate in the licensed land has been registered.
@@ -1012,7 +1012,7 @@ In this subpart and Schedule 4, unless the context otherwise requires,—
     (i) vested in the Crown; or
     (ii) held in fee simple by the Crown; or
     (iii) a reserve vested in an administering body that derived title from the Crown; and
-  (b) includes land obtained in exchange for a disposal of RFR land under section 109(1)(c) or 110; but
+  (b) includes land obtained in exchange for a disposal of RFR land under section 109(1)﻿(c) or 110; but
   (c) does not include a commercial redress property.
 (2) However, land ceases to be RFR land if—
   (a) the RFR landowner transfers the fee simple estate in the land to—
@@ -1078,7 +1078,7 @@ The RFR landowner may, by notice to the trustees of the Ngāti Pāhauwera Develo
 (1) An RFR landowner may dispose of RFR land to—
   (a) the Crown; or
   (b) a Crown body.
-(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 143(5) or 206 of the Education Act 1989.
+(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 563 of the Education and Training Act 2020.
 
 ### 104 Disposal of existing public works to local authority
 (1) An RFR landowner may dispose of RFR land that is a public work, or part of a public work, in accordance with section 50 of the Public Works Act 1981 to a local authority (as defined in section 2 of the Public Works Act 1981).
@@ -1110,7 +1110,7 @@ An RFR landowner may dispose of RFR land in accordance with—
 
 ### 108 Disposal by the Crown under certain legislation
 The Crown may dispose of RFR land in accordance with—
-  (a) section 54(1)(d) of the Land Act 1948; or
+  (a) section 54(1)﻿(d) of the Land Act 1948; or
   (b) section 355(3) of the Resource Management Act 1991; or
   (c) subpart 3 of Part 2 of the Marine and Coastal Area (Takutai Moana) Act 2011.
 
@@ -1118,8 +1118,8 @@ The Crown may dispose of RFR land in accordance with—
 (1) An RFR landowner may dispose of RFR land in accordance with—
   (a) section 40(2) or (4) or 41 of the Public Works Act 1981 (including as those provisions are applied by another enactment); or
   (b) section 52, 105(1), 106, 114(3), 117(7), or 119 of the Public Works Act 1981; or
-  (c) section 117(3)(a) of the Public Works Act 1981; or
-  (d) section 117(3)(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
+  (c) section 117(3)﻿(a) of the Public Works Act 1981; or
+  (d) section 117(3)﻿(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
   (e) section 23(1) or (4), 24(4), or 26 of the New Zealand Railways Corporation Restructuring Act 1990.
 (2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under section 134 of Te Ture Whenua Maori Act 1993, after an application by an RFR landowner under section 41(e) of the Public Works Act 1981.
 
@@ -1148,7 +1148,7 @@ The Crown may dispose of RFR land—
     (i) that prevents or limits an RFR landowner’s disposal of RFR land to the trustees of the Ngāti Pāhauwera Development Trust; and
     (ii) that the RFR landowner cannot satisfy by taking reasonable steps; and
   (c) the terms of a mortgage over, or security interest in, RFR land.
-(2) Reasonable steps, for the purposes of subsection (1)(b)(ii), do not include steps to promote the passing of an enactment.
+(2) Reasonable steps, for the purposes of subsection (1)﻿(b)﻿(ii), do not include steps to promote the passing of an enactment.
 (3) This subpart does not limit subsection (1).
 
 **Notices**
@@ -1221,8 +1221,6 @@ Schedule 4 applies to notices given under this subpart by or to—
 (2) The chief executive must provide a copy of each certificate to the trustees of the Ngāti Pāhauwera Development Trust as soon as is reasonably practicable after issuing the certificate.
 (3) The Registrar-General must, as soon as is reasonably practicable after receiving a certificate issued under this section, remove a memorial recorded under section 118 from any computer register identified in the certificate.
 
-### Subpart
-
 **General provisions**
 
 ### 121 Waiver and variation
@@ -1254,7 +1252,7 @@ This subpart does not limit the ability of the Crown, or a Crown body, to sell o
 ## Schedule 1 — Ngāti Pāhauwera hapū
 
 ###  Nga hapū o Ngāti Pāhauwera
-For the purposes of section 12(1)(a), the hapū of Ngāti Pāhauwera are—
+For the purposes of section 12(1)﻿(a), the hapū of Ngāti Pāhauwera are—
   (1) Ngā Uri-ō-Māmangu:
   (2) Ngāi Tāne:
   (3) Ngāi Tāpui:
@@ -1368,17 +1366,17 @@ For the purposes of section 12(1)(a), the hapū of Ngāti Pāhauwera are—
 | --- | --- | --- |
 | Tauwhareroa | Hawke's Bay Land District: Wairoa District.8.9720 hectares, more or less, being Mohaka B15. All Computer Freehold Register HBL4/253. | Subject to the conservation covenant referred to in section 30(3). |
 | Kuwatawata | Hawke's Bay Land District: Hastings District.0.0441 hectares, more or less, being Section 1 SO 441789. Part Deed 46 and Part GN 337680.1. | Subject to the conservation covenant referred to in section 31(3). |
-| Ngākōauau (Area A) | Hawke's Bay Land District: Wairoa District.56.9200 hectares, more or less, being Section 1 SO 431384. Part Computer Freehold Register HBL3/257. | Subject to the right of way easement referred to in section 32(3)(a).Subject to the conservation covenant referred to in section 32(3)(b). |
+| Ngākōauau (Area A) | Hawke's Bay Land District: Wairoa District.56.9200 hectares, more or less, being Section 1 SO 431384. Part Computer Freehold Register HBL3/257. | Subject to the right of way easement referred to in section 32(3)﻿(a).Subject to the conservation covenant referred to in section 32(3)﻿(b). |
 | Paaka Te Ahu | Hawke's Bay Land District: Wairoa District.16.1874 hectares, more or less, being Section 18 Block XII Mohaka Survey District. All GN388123.2. | Subject to the conservation covenant referred to in section 33(3). |
 | Bed of Lake Rotongaio | Gisborne Land District: Wairoa District.12.4600 hectares, more or less, being Section 1 SO 430169, which excludes the Crown stratum as defined in section 26(2). | Subject to the conservation covenant referred to in section 34(6). |
 | Bed of part of Lake Rotoroa | Gisborne Land District: Wairoa District.10.7370 hectares, more or less, being Section 1 SO 430206, which excludes the Crown stratum as defined in section 26(2). | Subject to the conservation covenant referred to in section 34(6). |
 
 | Name of site | Description | Encumbrances |
 | --- | --- | --- |
-| Ngākōauau (Area B) | Hawke's Bay Land District: Wairoa District.300.8000 hectares, more or less, being Section 2 SO 431384. All Computer Freehold Register HBL2/561, Balance Computer Freehold Registers HBL3/257 and HBL1/942 and Part Transfer 313229.3. | Subject to section 19(1)(a) of the Reserves Act 1977 for the purposes of a scenic reserve.Subject to an unregistered beehive permit to G L Janson with a concession number ECHB–20754–OTH.Subject to savings and excluding all minerals within the meaning of the Land Act 1924 on or under the land and reserving to Her Majesty the Queen and all persons lawfully entitled to work those minerals a right of ingress, egress, and regress over the land (affects former Lot 1 DP 19152). |
-| Mangawhārangi | Hawke's Bay Land District: Wairoa District.60.0600 hectares, more or less, being Section 2 SO 430226. Part GN570972.1. | Subject to section 19(1)(a) of the Reserves Act 1977 for the purposes of a scenic reserve. |
-| Tānga Kākāriki | Hawke's Bay Land District: Wairoa District.108.6400 hectares, more or less, being Section 53 Block VII Mohaka Survey District. Part GN392786.1. | Subject to section 19(1)(a) of the Reserves Act 1977 for the purposes of a scenic reserve.Subject to a right to convey water created by 525840.7 and contained in register M4/428. |
-| Pūtere | Gisborne Land District: Wairoa District.47.7529 hectares, more or less, being Section 5 Block XXIV Waiau Survey District. All Gazette 1927 page 3537. | Subject to section 19(1)(a) of the Reserves Act 1977 for the purposes of a scenic reserve. |
+| Ngākōauau (Area B) | Hawke's Bay Land District: Wairoa District.300.8000 hectares, more or less, being Section 2 SO 431384. All Computer Freehold Register HBL2/561, Balance Computer Freehold Registers HBL3/257 and HBL1/942 and Part Transfer 313229.3. | Subject to section 19(1)﻿(a) of the Reserves Act 1977 for the purposes of a scenic reserve.Subject to an unregistered beehive permit to G L Janson with a concession number ECHB–20754–OTH.Subject to savings and excluding all minerals within the meaning of the Land Act 1924 on or under the land and reserving to Her Majesty the Queen and all persons lawfully entitled to work those minerals a right of ingress, egress, and regress over the land (affects former Lot 1 DP 19152). |
+| Mangawhārangi | Hawke's Bay Land District: Wairoa District.60.0600 hectares, more or less, being Section 2 SO 430226. Part GN570972.1. | Subject to section 19(1)﻿(a) of the Reserves Act 1977 for the purposes of a scenic reserve. |
+| Tānga Kākāriki | Hawke's Bay Land District: Wairoa District.108.6400 hectares, more or less, being Section 53 Block VII Mohaka Survey District. Part GN392786.1. | Subject to section 19(1)﻿(a) of the Reserves Act 1977 for the purposes of a scenic reserve.Subject to a right to convey water created by 525840.7 and contained in register M4/428. |
+| Pūtere | Gisborne Land District: Wairoa District.47.7529 hectares, more or less, being Section 5 Block XXIV Waiau Survey District. All Gazette 1927 page 3537. | Subject to section 19(1)﻿(a) of the Reserves Act 1977 for the purposes of a scenic reserve. |
 
 | Name of site | Description | Encumbrances |
 | --- | --- | --- |
