@@ -1,5 +1,5 @@
 # Education Amendment Act (No 2) 2015
-_Consolidation as at 2015-12-09_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Education Amendment Act (No 2) 2015.
