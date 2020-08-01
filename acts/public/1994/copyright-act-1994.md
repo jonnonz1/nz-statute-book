@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2020-01-04_
+_Consolidation as at 2020-08-01_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -80,19 +80,14 @@ _Consolidation as at 2020-01-04_
     (a) a work of dance or mime; and
     (b) a scenario or script for a film
   - **educational establishment** means—
-    (a) any school to which the Education Act 1989 or the Private Schools Conditional Integration Act 1975 applies:
-    (b) any—established under section 98(1) of the Education Act 1964:
-      (i) special school; or
-      (ii) special class; or
-      (iii) special clinic; or
-      (iv) special service—
-    (c) any special institution within the meaning of section 92(1) of the Education Act 1989:
-    (d) any early childhood service within the meaning of section 309 of the Education Act 1989:
-    (e) any—within the meaning of section 159(1) of the Education Act 1989, that is not conducted for profit:
-      (i) institution; or
-      (ii) private training establishment; or
-      (iii) government training establishment—
-    (f) any body, or class of body, that is not conducted for profit and that is approved by the Minister of Education as an educational establishment for the purposes of this Act by a notice published in the Gazette
+    (a) a school to which the Education and Training Act 2020 applies:
+    (b) a specialist school or special service established under section 197 of the Education and Training Act 2020:
+    (c) an early childhood service within the meaning of section 10(1) of the Education and Training Act 2020:
+    (d) any of the following within the meaning of section 10(1) of the Education and Training Act 2020 that is not conducted for profit:
+      (i) an institution:
+      (ii) a private training establishment:
+      (iii) a government training establishment:
+    (e) any body, or class of body, that is not conducted for profit and that is approved by the Minister of Education as an educational establishment for the purposes of this Act by notice published in the Gazette
   - **educational resource supplier** means any person—
     (a) whose principal function is the copying of communication works and the supply of the copies it makes to educational establishments for educational purposes; and
     (b) who does not conduct its business for profit; and
@@ -1719,7 +1714,7 @@ Where under a bequest (whether specific or general) a person is entitled, benefi
   (b) the institution having possession of the manuscript, copy, or work; or
   (c) any other person—
 (3) Nothing in this section applies to any publication with the consent of the person who would be the owner of the copyright in the work if the copyright had not expired.
-(4) In this section, the term institution means the Crown, a local body, a prescribed library or archive within the meaning of section 50, an institution within the meaning of section 159 of the Education Act 1989, or any other institution prescribed by regulations made under this Act.
+(4) In this section, the term institution means the Crown, a local body, a prescribed library or archive within the meaning of section 50, an institution within the meaning of section 10(1) of the Education and Training Act 2020, or any other institution prescribed by regulations made under this Act.
 
 **Moral rights**
 
