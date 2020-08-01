@@ -1,5 +1,5 @@
 # Flags, Emblems, and Names Protection Act 1981
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2020-08-01_
 
 > An Act to declare the New Zealand Ensign to be the New Zealand Flag and to make provision relating to its use and to the use of certain other flags, and to make better provision for the protection of certain names and emblems of Royal, national, international, commercial, or other significance
 
@@ -320,7 +320,7 @@ Where any association (whether incorporated or unincorporated) is guilty of an o
 | Prohibited Marks Order 1957 (SR 1957/179) | Green Cross for Safety symbol |
 | Prohibited Marks Order 1961 (SR 1961/120) | Symbol of the International Olympic Committee |
 | Prohibited Marks Order 1982 (SR 1982/127) | TELARC |
-| Racing Act 2003: section 24 | Racing Industry Transition Agency, Totalisator Agency Board, TAB, Racing Conference, New Zealand Thoroughbred Racing, Trotting Conference, Harness Racing New Zealand, and New Zealand Greyhound Racing Association |
+| Racing Industry Act 2020: section 125 | TAB NZ, Totalisator Agency Board, TAB, New Zealand Racing Board, NZRB, Racing Industry Transition Agency, Racing Integrity Board, Racing New Zealand, Racing Conference, New Zealand Thoroughbred Racing, Trotting Conference, Harness Racing New Zealand, and New Zealand Greyhound Racing Association |
 | Returned Services Associations Badge Order 1950 (Gazette 1950, p 1870) | Badge of the Returned Services Associations |
 | Scout Association of New Zealand Amendment Act 1967: section 5 | Scout Association |
 | Sport and Recreation New Zealand Act 2002: section 12 | Sport and Recreation New Zealand |
