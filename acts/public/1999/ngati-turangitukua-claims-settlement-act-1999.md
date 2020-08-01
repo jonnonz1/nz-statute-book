@@ -1,5 +1,5 @@
 # Ngāti Tūrangitukua Claims Settlement Act 1999
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2020-08-01_
 
 > An Act—ato record the apology given by the Crown to Ngāti Tūrangitukua in the deed of settlement executed on 26 September 1998 by the Minister in Charge of Treaty of Waitangi Negotiations, the Right Honourable Sir Douglas Arthur Montrose Graham, for the Crown, and Ngāti Tūrangitukua; andbto give effect to certain provisions of that deed of settlement, being a deed that settles the Ngāti Tūrangitukua claims
 
@@ -176,7 +176,7 @@ In this Act, unless the context otherwise requires,—
   (a) sections 8A to 8H of the Treaty of Waitangi Act 1975; or
   (b) the amendments made to the Treaty of Waitangi Act 1975 by Part 4 of the New Zealand Railways Corporation Restructuring Act 1990; or
   (c) sections 27A to 27C of the State-Owned Enterprises Act 1986; or
-  (d) sections 211 to 213 of the Education Act 1989; or
+  (d) sections 568 to 570 of the Education and Training Act 2020; or
   (e) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990.
 (2) Subsection (1)﻿(c) does not apply to the land comprised in certificate of title 34C/191 (Wellington Registry).
 
