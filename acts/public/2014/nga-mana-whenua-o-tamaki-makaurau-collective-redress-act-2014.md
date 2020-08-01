@@ -1,5 +1,5 @@
 # Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014
-_Consolidation as at 2019-01-17_
+_Consolidation as at 2020-08-01_
 
 ## Preamble
 (1) The iwi and hapū constituting the collective known as Ngā Mana Whenua o Tāmaki Makaurau have claims to Tāmaki Makaurau based on historical breaches of the Treaty of Waitangi (Te Tiriti o Waitangi) by the Crown:
@@ -260,7 +260,7 @@ In this Act, unless the context requires another meaning, maunga means—
 (2) The enactments are—
   (a) sections 8A to 8HJ of the Treaty of Waitangi Act 1975:
   (b) sections 27A to 27C of the State-Owned Enterprises Act 1986:
-  (c) sections 211 to 213 of the Education Act 1989:
+  (c) sections 568 to 570 of the Education and Training Act 2020:
   (d) Part 3 of the Crown Forest Assets Act 1989:
   (e) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990.
 
@@ -1429,8 +1429,8 @@ This section establishes the Tūpuna Maunga o Tāmaki Makaurau Authority.
     (d) to avoid doubt, does not include an administering body in which RFR land is vested on the effective date or (under section 130(1)) after the effective date
   - **RFR period** means the period of 172 years starting on the effective date
   - **subsidiary** has the meaning given in section 5 of the Companies Act 1993
-  - **tertiary education institution** means an institution as that term is defined in section 159(1) of the Education Act 1989
-  - **Unitec** means the Unitec Institute of Technology.
+  - **tertiary education institution** means an institution as that term is defined in section 10(1) of the Education and Training Act 2020
+  - **Unitec** means Unitec New Zealand Limited.
 
 ### 118 Meaning of RFR land
 (1) In this Act, RFR land means—
@@ -1502,7 +1502,7 @@ This section establishes the Tūpuna Maunga o Tāmaki Makaurau Authority.
   (b) specify a street address for the land (if applicable); and
   (c) if the land does not have a street address, include a narrative or diagrammatic description of the land with enough information so that a person who is not familiar with the land can locate it.
 (4) The giving of the notice does not, of itself, mean that an obligation has arisen under—
-  (a) section 207(4) of the Education Act 1989; or
+  (a) section 564(3) of the Education and Training Act 2020; or
   (b) section 23(1) or 24(4) of the New Zealand Railways Corporation Restructuring Act 1990; or
   (c) section 40 of the Public Works Act 1981 or that section as applied by another enactment.
 
@@ -1556,7 +1556,7 @@ An RFR landowner may, by notice to the Limited Partnership, withdraw an offer at
 (1) An RFR landowner may dispose of RFR land to—
   (a) the Crown; or
   (b) a Crown body.
-(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 143(5) or 206 of the Education Act 1989.
+(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 563 of the Education and Training Act 2020.
 
 ### 129 Disposals of existing public works to local authorities
 (1) An RFR landowner may dispose of RFR land that is a public work, or part of a public work, in accordance with section 50 of the Public Works Act 1981 to a local authority (as defined by section 2 of that Act).
