@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2020-08-01_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights
 
@@ -433,8 +433,8 @@ Nothing in section 22 shall prevent different treatment based on sex, religious 
 ### 28 Exceptions for purposes of religion
 (1) Nothing in section 22 shall prevent different treatment based on sex where the position is for the purposes of an organised religion and is limited to one sex so as to comply with the doctrines or rules or established customs of the religion.
 (2) Nothing in section 22 shall prevent different treatment based on religious or ethical belief where—
-  (a) that treatment is accorded under section 464 of the Education Act 1989; or
-  (b) the sole or principal duties of the position (not being a position to which section 464 of the Education Act 1989 applies)—
+  (a) that treatment is accorded under clause 47 of Schedule 6 of the Education and Training Act 2020; or
+  (b) the sole or principal duties of the position (not being a position to which clause 47 of Schedule 6 of the Education and Training Act 2020 applies)—
     (i) are, or are substantially the same as, those of a clergyman, priest, pastor, official, or teacher among adherents of that belief or otherwise involve the propagation of that belief; or
     (ii) are those of a teacher in a private school; or
     (iii) consist of acting as a social worker on behalf of an organisation whose members comprise solely or principally adherents of that belief.
