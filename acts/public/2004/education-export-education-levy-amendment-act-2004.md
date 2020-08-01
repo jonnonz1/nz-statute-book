@@ -1,5 +1,5 @@
 # Education (Export Education Levy) Amendment Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 (1) This Act is the Education (Export Education Levy) Amendment Act 2004.
@@ -14,7 +14,7 @@ This Act comes into force on the day after the date on which it receives the Roy
 Section 238H(2) of the principal Act is amended by repealing paragraph (e).
 
 ### 4 Purpose and administration of export education levy
-(1) Section 238I(1) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:.
+(1) Section 238I(1) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:
   (ab) the making of payments as set out in subsections (1A) and (1B):
 (2) Section 238I is amended by inserting, after subsection (1), the following subsections:
   (1A) Subsection (1B) applies if—
