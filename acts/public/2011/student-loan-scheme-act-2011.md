@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2020-04-01_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -198,7 +198,7 @@ The purposes of this Act are to—
   (b) the recipient of the scholarship were a borrower; and
   (c) the scholarship agreement were a loan contract.
 (2) Despite any enactment or rule of law, if a provision in an agreement for a bonded scholarship conflicts with this section, this section prevails.
-(3) In this section, bonded scholarship means an allowance or agreement that is declared under section 307AC of the Education Act 1989 to be a bonded scholarship.
+(3) In this section, bonded scholarship means an allowance or agreement that is declared under clause 11 of Schedule 9 of the Education and Training Act 2020 to be a bonded scholarship.
 
 ### 8 Act binds the Crown
 This Act binds the Crown.
@@ -730,8 +730,8 @@ In sections 54 to 60,—
     (a) is undertaking a programme of study; or
     (b) will start a programme of study in the tax year referred to in section 54(1)﻿(a)
   - **programme of study** means a programme of study that—
-    (a) is 32 weeks or longer in duration in any 52-week period and at least 0.8 of equivalent full-time student units, as determined in accordance with the formula used for the purposes of section 159 of the Education Act 1989; or
-    (b) is 12 weeks or longer in duration in any 52-week period and at least 0.3 of equivalent full-time student units, as determined in accordance with the formula used for the purposes of section 159 of the Education Act 1989 or the equivalent on a pro-rata basis (as set out in the loan entry threshold table that is used for student loan entitlement purposes).
+    (a) is 32 weeks or longer in duration in any 52-week period and at least 0.8 of equivalent full-time student units, as determined in accordance with the formula used for the purposes of section 10(1) of the Education and Training Act 2020; or
+    (b) is 12 weeks or longer in duration in any 52-week period and at least 0.3 of equivalent full-time student units, as determined in accordance with the formula used for the purposes of section 10(1) of the Education and Training Act 2020 or the equivalent on a pro-rata basis (as set out in the loan entry threshold table that is used for student loan entitlement purposes).
 
 ### 54 Borrowers who are eligible for exemption from standard deductions
 (1) This section applies to a New Zealand-based borrower who—
@@ -2123,9 +2123,9 @@ The Student Loan Scheme Act 1992 (1992 No 141) is repealed.
 ### 1 Definitions
 In this schedule,—
   - **Crown agent** means a statutory entity named in Part 1 of Schedule 1 of the Crown Entities Act 2004
-  - **ENZ** means Education New Zealand established under Part 21 of the Education Act 1989
+  - **ENZ** means Education New Zealand continued by section 510 of the Education and Training Act 2020
   - **government department** means a department named in Schedule 1 of the State Sector Act 1988
-  - **NZQA** means the New Zealand Qualifications Authority continued under Part 20 of the Education Act 1989
+  - **NZQA** means the New Zealand Qualifications Authority continued by section 430 of the Education and Training Act 2020
   - **qualifying government-funded scholarship** means a scholarship, in respect of study or an internship,—
     (a) that is partially or fully funded by a government department or a Crown agent; and
     (b) that is assessed by ENZ as being a qualifying scholarship for the purposes of this Act.
@@ -2186,14 +2186,14 @@ A borrower who makes an application under section 25(1)﻿(e) must—
   (b) provide the Commissioner with the following:
     (i) evidence from the NZQA verifying that the borrower's course is study at postgraduate or undergraduate level; and
     (ii) evidence from the borrower's overseas education provider verifying that the borrower is enrolled full-time in the course verified by the NZQA.
-(2) In this clause, study at postgraduate or undergraduate level means study that is assessed by the NZQA as being equivalent to level 7, 8, 9, or 10 on the New Zealand Register of Quality Assured Qualifications developed by the NZQA under section 253(1)﻿(c) of the Education Act 1989.
+(2) In this clause, study at postgraduate or undergraduate level means study that is assessed by the NZQA as being equivalent to level 7, 8, 9, or 10 on the New Zealand Register of Quality Assured Qualifications developed by the NZQA under section 452(1)﻿(c) of the Education and Training Act 2020.
 
 ### 8 Condition to full-time overseas study under formal exchange programme or formal agreement application
 (1) A borrower who makes an application under section 25(1)﻿(h) must—
   (a) be undertaking study that—
     (i) the borrower is enrolled in with a New Zealand tertiary education provider; and
     (ii) if it is completed successfully, will count towards a qualification offered by a New Zealand tertiary education provider; and
-    (iii) is assessed by the NZQA as being equivalent to level 7 or above on the New Zealand Register of Quality Assured Qualifications developed by the NZQA under section 253(1)﻿(c) of the Education Act 1989; and
+    (iii) is assessed by the NZQA as being equivalent to level 7 or above on the New Zealand Register of Quality Assured Qualifications developed by the NZQA under section 452(1)﻿(c) of the Education and Training Act 2020; and
     (iv) is full-time and undertaken overseas as part of either—
       (A) a formal exchange programme approved by the New Zealand Government; or
       (B) a formal agreement between a New Zealand tertiary education provider and an overseas tertiary provider; and
@@ -2208,7 +2208,7 @@ A borrower who makes an application under section 25(1)﻿(i) must—
   (a) be undertaking study that—
     (i) the borrower is enrolled in with a New Zealand tertiary education provider; and
     (ii) if it is completed successfully, will count towards a qualification offered by a New Zealand tertiary education provider; and
-    (iii) is assessed by the NZQA as being equivalent to level 8 or above on the New Zealand Register of Quality Assured Qualifications developed by the NZQA under section 253(1)﻿(c) of the Education Act 1989; and
+    (iii) is assessed by the NZQA as being equivalent to level 8 or above on the New Zealand Register of Quality Assured Qualifications developed by the NZQA under section 452(1)﻿(c) of the Education and Training Act 2020; and
     (iv) is full-time and undertaken overseas; and
     (v) cannot be completed in New Zealand; and
   (b) provide the Commissioner with evidence from the borrower's New Zealand tertiary education provider verifying that the borrower's study meets the requirements of paragraph (a).
