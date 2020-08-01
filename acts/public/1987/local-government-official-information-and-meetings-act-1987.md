@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Act 1987
-_Consolidation as at 2020-07-01_
+_Consolidation as at 2020-08-01_
 
 > An Act to make official information held by local authorities more freely available, to provide for proper access by each person to official information relating to that person which is held by local authorities, to provide for the admission of the public to meetings of local authorities, to protect official information held by local authorities and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy, and to establish procedures for the achievement of those purposes
 
@@ -538,7 +538,7 @@ The only provisions of this Part that apply to the following local authorities a
 (6) Where a local authority becomes aware that any meeting of that local authority has not been publicly notified in accordance with this section, that local authority shall, as soon as practicable, give public notice that that meeting was not so notified, and shall, in that notice,—
   (a) state the general nature of the business transacted at that meeting; and
   (b) give the reasons why that meeting was not so notified.
-(7) Nothing in subsections (1) to (6) applies to a Board of Trustees constituted under Part 9 of the Education Act 1989; but every such Board shall take all reasonable steps to ensure that parents (within the meaning of that Part) of students enrolled at schools that the Board administers can readily find out, within a reasonable time before those meetings, where and when meetings of the Board are to be held.
+(7) Nothing in subsections (1) to (6) applies to a board constituted under subpart 5 of Part 3 of the Education and Training Act 2020, but every board must take all reasonable steps to ensure that parents (within the meaning of that Act) of students enrolled at schools that the board administers can readily find out, within a reasonable time before those meetings, where and when meetings of the board are to be held.
 (8) Nothing in this section applies to—
   (a) the New Zealand Conservation Authority established under section 6A of the Conservation Act 1987:
   (b)
