@@ -1,5 +1,5 @@
 # Ngāti Whātua Ōrākei Claims Settlement Act 2012
-_Consolidation as at 2014-08-01_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Ngāti Whātua Ōrākei Claims Settlement Act 2012.
@@ -119,13 +119,13 @@ In this Act, unless the context requires another meaning,—
     (c) any freshwater fisheries management plan (within the meaning of section 2(1) of the Conservation Act 1987) affecting the conservation protocol area:
     (d) any management plan (within the meaning of section 2 of the National Parks Act 1980) affecting the conservation protocol area
   - **conservation protocol** —
-    (a) means the protocol issued by the Minister of Conservation under section 22(1)(a); and
-    (b) includes any amendments made to the protocol under section 22(1)(b)
+    (a) means the protocol issued by the Minister of Conservation under section 22(1)﻿(a); and
+    (b) includes any amendments made to the protocol under section 22(1)﻿(b)
   - **conservation protocol area** means the area shown on the map attached to the conservation protocol
   - **Crown** has the meaning given by section 2(1) of the Public Finance Act 1989
   - **Crown minerals protocol** —
-    (a) means the protocol issued by the Minister of Energy and Resources under section 22(1)(a); and
-    (b) includes any amendments made to the protocol under section 22(1)(b)
+    (a) means the protocol issued by the Minister of Energy and Resources under section 22(1)﻿(a); and
+    (b) includes any amendments made to the protocol under section 22(1)﻿(b)
   - **deed of settlement** —
     (a) means the deed of settlement for Ngāti Whātua Ōrākei dated 5 November 2011, entered into by the Crown, the Statutory Trust Board (on behalf of Ngāti Whātua Ōrākei), and Ngati Whatua Orakei Trustee Limited; and
     (b) includes any schedules of or attachments to the deed; and
@@ -148,15 +148,15 @@ In this Act, unless the context requires another meaning,—
   - **Pourewa Creek site** means the land described in Schedule 1
   - **primary area of interest of Ngāti Whātua Ōrākei** means the primary area of interest shown in attachment 1 to the deed of settlement
   - **protocol** —
-    (a) means a protocol issued under section 22(1)(a); and
-    (b) includes any amendments made to the protocol under section 22(1)(b)
+    (a) means a protocol issued under section 22(1)﻿(a); and
+    (b) includes any amendments made to the protocol under section 22(1)﻿(b)
   - **Registrar-General** means the Registrar-General of Land appointed under section 4 of the Land Transfer Act 1952
   - **representative entity** means—
     (a) the trustee; and
     (b) a person (including the trustee) acting for, or on behalf of,—
-      (i) the collective group referred to in section 11(1)(a); or
+      (i) the collective group referred to in section 11(1)﻿(a); or
       (ii) 1 or more members of Ngāti Whātua Ōrākei; or
-      (iii) 1 or more of the whānau, hapū, or groups referred to in section 11(1)(c)
+      (iii) 1 or more of the whānau, hapū, or groups referred to in section 11(1)﻿(c)
   - **resource consent** has the meaning given by section 2(1) of the Resource Management Act 1991
   - **responsible Minister** means,—
     (a) for the conservation protocol, the Minister of Conservation:
@@ -170,8 +170,8 @@ In this Act, unless the context requires another meaning,—
     (a) has the meaning given by section 2(1) of the Protected Objects Act 1975; and
     (b) includes ngā taonga tūturu (as defined by section 2(1) of that Act)
   - **taonga tūturu protocol** —
-    (a) means the protocol issued by the Minister for Arts, Culture and Heritage under section 22(1)(a); and
-    (b) includes any amendments made to the protocol under section 22(1)(b)
+    (a) means the protocol issued by the Minister for Arts, Culture and Heritage under section 22(1)﻿(a); and
+    (b) includes any amendments made to the protocol under section 22(1)﻿(b)
   - **trustee** means the trustee or trustees of the Ngāti Whātua Ōrākei Trust in its or their capacity as trustee or trustees of the Ngāti Whātua Ōrākei Trust.
 
 ### 11 Meaning of Ngāti Whātua Ōrākei
@@ -226,7 +226,7 @@ In this Act, unless the context requires another meaning,—
     (iv) Māngere Mountain as defined in section 8(1) of that Act; and
     (v) the Maungakiekie / One Tree Hill northern land as defined in section 8(1) of that Act.
 (4) However, the historical claims do not include—
-  (a) a claim that a member of Ngāti Whātua Ōrākei, or a whānau, hapū, or group referred to in section 11(1)(c), had or may have that is founded on—
+  (a) a claim that a member of Ngāti Whātua Ōrākei, or a whānau, hapū, or group referred to in section 11(1)﻿(c), had or may have that is founded on—
     (i) being descended from an ancestor other than Tuperiri; or
     (ii) a customary right exercised by members of 1 or more hapū of Ngā Oho, Te Uringutu, and Te Tāōū predominantly outside the primary area of interest of Ngāti Whātua Ōrākei at any time after 6 February 1840; or
   (b) a claim in relation to the Ōrākei Block to the extent that the claim relates to Ngāti Whātua Ōrākei or a representative entity and was settled by section 19(2) of the Orakei Act 1991; or
@@ -235,8 +235,8 @@ In this Act, unless the context requires another meaning,—
 
 **Settlement of historical claims**
 
-### 13 Settlement of section 12(2) and (3)(a) to (c) historical claims final
-(1AA) In this section, historical claims means the claims described in section 12(2) and (3)(a) to (c).
+### 13 Settlement of section 12(2) and (3)﻿(a) to (c) historical claims final
+(1AA) In this section, historical claims means the claims described in section 12(2) and (3)﻿(a) to (c).
 (1) The historical claims are settled.
 (2) The settlement of the historical claims is final and, on and from the settlement date, the Crown is released and discharged from all obligations and liabilities in respect of those claims.
 (3) Subsections (1) and (2) do not limit the acknowledgements expressed in, or the provisions of, the deed of settlement.
@@ -247,11 +247,11 @@ In this Act, unless the context requires another meaning,—
   (d) the redress provided under the deed of settlement or this Act.
 (5) Subsection (4) does not exclude the jurisdiction of a court, tribunal, or other judicial body in respect of the interpretation or implementation of the deed of settlement or this Act.
 
-### 13A Settlement of section 12(3)(d) historical claims
+### 13A Settlement of section 12(3)﻿(d) historical claims
 (1) In this section,—
   - **collective deed** has the same meaning as in section 8(1) of the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014
   - **effective date** has the same meaning as in section 8(1) of the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014
-  - **historical claims** means the claims described in section 12(3)(d) of this Act.
+  - **historical claims** means the claims described in section 12(3)﻿(d) of this Act.
 (2) The historical claims are settled.
 (3) The settlement of the historical claims is final and, on and from the effective date, the Crown is released and discharged from all obligations and liabilities in respect of those claims.
 (4) Subsections (1) and (2) do not limit the acknowledgements expressed in, or the provisions of, the collective deed.
@@ -276,7 +276,7 @@ In this Act, unless the context requires another meaning,—
 (2) The enactments are—
   (a) sections 8A to 8HJ of the Treaty of Waitangi Act 1975:
   (b) sections 27A to 27C of the State-Owned Enterprises Act 1986:
-  (c) sections 211 to 213 of the Education Act 1989:
+  (c) sections 568 to 570 of the Education and Training Act 2020:
   (d) Part 3 of the Crown Forest Assets Act 1989:
   (e) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990.
 
@@ -438,10 +438,10 @@ The Crown acknowledges the statement of association.
   (a) if the application is received by the Auckland Council, a summary of the application; or
   (b) if notice of the application is served on the Auckland Council under section 145(10) of the Resource Management Act 1991, a copy of the notice.
 (2) The information provided in a summary of an application must be the same as would be given to an affected person by limited notification under section 95B of the Resource Management Act 1991, or as may be agreed between the trustee and the Auckland Council.
-(3) A summary of an application must be provided under subsection (1)(a)—
+(3) A summary of an application must be provided under subsection (1)﻿(a)—
   (a) as soon as is reasonably practicable after the Auckland Council receives the application; and
   (b) before the Auckland Council decides under section 95 of the Resource Management Act 1991 whether to notify the application.
-(4) A copy of a notice of an application must be provided under subsection (1)(b) no later than 10 business days after the day on which the Auckland Council receives the notice.
+(4) A copy of a notice of an application must be provided under subsection (1)﻿(b) no later than 10 business days after the day on which the Auckland Council receives the notice.
 (5) This section does not affect the Auckland Council's obligation,—
   (a) under section 95 of the Resource Management Act 1991, to decide whether to notify an application, and to notify the application if it decides to do so; or
   (b) under section 95E of that Act, to decide whether the trustee is an affected person in relation to an activity.
@@ -553,13 +553,13 @@ The Pourewa Creek Recreation Reserve is not a Crown protected area, despite sect
 (3) A computer freehold register must be created under this section as soon as is reasonably practicable after the settlement date, but no later than—
   (a) 24 months after the settlement date; or
   (b) any later date that may be agreed in writing by the Crown and the trustee.
-(4) A notification made under subsection (1)(c)(ii) that the land is subject to Part 4A of the Conservation Act 1987 is to be treated as having been made in compliance with section 24D(1) of that Act.
+(4) A notification made under subsection (1)﻿(c)﻿(ii) that the land is subject to Part 4A of the Conservation Act 1987 is to be treated as having been made in compliance with section 24D(1) of that Act.
 (5) If the reservation of the Pourewa Creek site under section 42(3) is revoked in relation to—
   (a) all of the site, then the Director-General must apply in writing to the Registrar-General to remove from any computer freehold register for the site—
     (i) the notification that section 24 of the Conservation Act 1987 does not apply to the site; and
     (ii) the notification that the site is subject to section 45(2); or
   (b) part of the site, then the Registrar-General must ensure that the notifications referred to in paragraph (a) remain only on any computer freehold register for the part of the site that remains a reserve.
-(6) The Registrar-General must comply with an application received in accordance with subsection (5)(a).
+(6) The Registrar-General must comply with an application received in accordance with subsection (5)﻿(a).
 
 ### Subpart 4 — Assignment of official geographic name to Pourewa Creek
 
@@ -684,9 +684,9 @@ The hapū reservation is held by the trustee—
   (c) lease the development land for commercial purposes—
     (i) as if the land were General land within the meaning of section 4 of Te Ture Whenua Maori Act 1993; and
     (ii) on the terms it thinks fit.
-(4) However, at any time, no more than one-fifth of the development land may be leased by the trustee under subsection (3)(c).
-(5) The trustee must transfer to the Auckland Council any road formed as part of a subdivision and development under subsection (3)(b).
-(6) To avoid doubt, land used or subdivided in accordance with subsection (3)(a) or (b) is not development land for the purposes of subsection (4) regardless of whether any improvements on the land are leased, tenanted, or otherwise occupied.
+(4) However, at any time, no more than one-fifth of the development land may be leased by the trustee under subsection (3)﻿(c).
+(5) The trustee must transfer to the Auckland Council any road formed as part of a subdivision and development under subsection (3)﻿(b).
+(6) To avoid doubt, land used or subdivided in accordance with subsection (3)﻿(a) or (b) is not development land for the purposes of subsection (4) regardless of whether any improvements on the land are leased, tenanted, or otherwise occupied.
 
 ### 64 Prohibited dealings with hapū land
 Except as provided in section 63, the trustee must not sell, lease, mortgage, charge, or otherwise dispose of any hapū land.
@@ -742,8 +742,8 @@ Except as provided in section 63, the trustee must not sell, lease, mortgage, ch
   (b) becomes part of the adjoining hapū land (as papakāinga or whenua rangatira, as the case may be).
 
 ### 71 Application of Resource Management Act 1991
-(1) Section 63(3)(a) applies despite anything in the relevant district plan or regional plan.
-(2) Any subdivision of the development land under section 63(3)(b) is subject to the Resource Management Act 1991.
+(1) Section 63(3)﻿(a) applies despite anything in the relevant district plan or regional plan.
+(2) Any subdivision of the development land under section 63(3)﻿(b) is subject to the Resource Management Act 1991.
 
 ### 72 Exemption from payment of rates and other charges
 The whenua rangatira, the hapū reservation, and, to the extent that it remains undeveloped, the development land—
