@@ -1,5 +1,5 @@
 # Real Estate Agents Act 2008
-_Consolidation as at 2020-04-01_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Real Estate Agents Act 2008.
@@ -129,7 +129,7 @@ This section establishes the Real Estate Agents Authority.
   (n) carry out any other function that the Minister may direct the Authority to perform in accordance with section 112 of the Crown Entities Act 2004; and
   (o) carry out any other functions that may be conferred on the Authority by this Act or any other enactment.
 (2) The Authority may, where it considers it appropriate to do so, consult with representatives of the real estate industry about any matter that relates to the functions of the Authority.
-(3) To avoid doubt, nothing in subsection (1) affects the role of a workforce development council established under section 479 of the Education Act 1989 for the real estate industry.
+(3) To avoid doubt, nothing in subsection (1) affects the role of a workforce development council established under section 363 of the Education and Training Act 2020 for the real estate industry.
 
 **Membership of Authority**
 
