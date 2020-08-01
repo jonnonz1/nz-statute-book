@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -83,7 +83,7 @@ In this Act, unless the context otherwise requires,—
   - **commercial craft** means a craft that travels for a commercial purpose or as part of a commercial operation
   - **compulsion order** means an order made by a District Court Judge under section 290(1) requiring a person to allow the collection of specified biometric information from him or her
   - **compulsory education** means education that is—
-    (a) provided at any primary, intermediate, composite, secondary, or special school (within the meaning of the Education Act 1989), whether state, private, or integrated (within the meaning of section 2(1) of that Act); and
+    (a) provided at any primary school, intermediate school, composite school, secondary school, or specialist school (within the meaning of the Education and Training Act 2020), whether at a State school, a private school, or an integrated school (within the meaning of section 10(1) of that Act); and
     (b) provided to a person at any time during the period beginning on the person’s fifth birthday and ending on 1 January following the person’s 19th birthday
   - **conditions** include conditions precedent as well as conditions subsequent (whether imposed by an immigration officer, the Minister, or the Tribunal)
   - **conservation** has the meaning given to it in section 2(1) of the Conservation Act 1987
@@ -92,7 +92,7 @@ In this Act, unless the context otherwise requires,—
   - **counsel assisting the court** means a person appointed as counsel assisting the court under section 269
   - **course of study** —
     (a) means—
-      (i) any course of tuition or instruction for people entitled to free enrolment and education under section 3 of the Education Act 1989, conducted by any primary, intermediate, composite, secondary, or special school, whether state, private, or integrated (within the meaning of section 2(1) of that Act); and
+      (i) any course of tuition or instruction for people entitled to free enrolment and education under section 33 of the Education and Training Act 2020, conducted by any primary school, intermediate school, composite school, secondary school, or specialist school, whether at a State school, a private school, or an integrated school (within the meaning of section 10(1) of that Act); and
       (ii) any other course of tuition or instruction conducted by any school, college, institute, university, or other body or person, and leading to any educational or vocational qualification the attainment of which by any person would be likely to enhance the employment prospects of that person, either generally or in respect of any particular profession or occupation; and
       (iii) in relation to any particular person, any other course of tuition or instruction if the undertaking of that course is the principal reason why that person wishes to be or is in New Zealand; but
     (b) does not include any course of tuition or instruction excluded, or excluded for a particular purpose, from this definition by immigration instructions
@@ -113,8 +113,8 @@ In this Act, unless the context otherwise requires,—
   - **designated agency** means the agency designated by the Prime Minister under section 264(1) for the purpose of recognising lawyers as special advocates
   - **disembarkation** means the process of physically leaving a craft, whether onto land or otherwise
   - **education provider** means a provider of a course of study, and—
-    (a) in relation to any institution controlled by a board of trustees constituted under Part 9 of the Education Act 1989, means that board:
-    (b) in relation to any institution controlled by the chief executive of the department of State that, with the authority of the Prime Minister, is responsible for the administration of the Education Act 1989, means that chief executive:
+    (a) in relation to any institution controlled by a board constituted under subpart 5 of Part 3 of the Education and Training Act 2020, means that board:
+    (b) in relation to any institution controlled by the chief executive of the department of State that, with the authority of the Prime Minister, is responsible for the administration of the Education and Training Act 2020, means that chief executive:
     (c) in relation to any university, means the appropriate university council:
     (d) in any other case, means the institution, body, or person that or who is entitled to the fees payable by or on behalf of the persons undertaking the course, or that or who would be so entitled if any such fees were payable
   - **employee** means a person who does work for an employer (whether under a contract of service or a contract for services)
@@ -477,7 +477,7 @@ No person who is unlawfully in New Zealand may apply for a visa and, where any s
 ### 21 No right for person unlawfully in New Zealand to work or study
 A person who is unlawfully in New Zealand may not—
   (a) work in New Zealand or in the exclusive economic zone of New Zealand; or
-  (b) study in New Zealand, except in compulsory education (but subject to the Education Act 1989).
+  (b) study in New Zealand, except in compulsory education (but subject to the Education and Training Act 2020).
 
 **Immigration instructions**
 
