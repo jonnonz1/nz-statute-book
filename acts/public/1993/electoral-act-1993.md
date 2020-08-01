@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2020-07-02_
+_Consolidation as at 2020-08-01_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -105,7 +105,7 @@ This Act may be cited as the Electoral Act 1993.
   - **public servant** —
     (a) means a person employed in the service of the Crown, not being honorary service; and
     (b) includes a person employed in—
-      (i) the Education service as defined in the State Sector Act 1988; or
+      (i) the education service as defined in section 10(7) of the Education and Training Act 2020; or
       (ii) the Cook Islands Public Service; or
       (iii) the Western Samoan Public Service; and
     (ba) includes an electoral official; but
@@ -753,7 +753,7 @@ A member of Parliament ceasing to be registered as an elector shall not from tha
   (a) to carry out satisfactorily his or her duties as a State servant; or
   (b) to be seen as independent in relation to particular duties,—
 (5) During the period of his or her leave, the State servant shall not be required or permitted to carry out any of his or her official duties, nor shall he or she be entitled to receive any salary or other remuneration as a State servant in respect of that period or any part thereof, except to the extent to which he or she takes during that period any leave with pay to which he or she is entitled:
-  provided that a candidate who, at the time of his or her nomination or of the inclusion of his or her name in a list submitted under section 127, is a member of the staff of a university or a university college, or the New Zealand Institute of Skills and Technology (NZIST) or an NZIST subsidiary that provides education or training (or both), or a wananga, community college, or teachers college may continue to teach or supervise the studies of students at that university, or university college, NZIST, an NZIST subsidiary, a wananga, a community college, or a teachers college who are preparing for an examination and may engage in marking the examination papers of such students, and may receive remuneration in respect of such teaching, supervision, and marking.
+  provided that a candidate who, at the time of his or her nomination or of the inclusion of his or her name in a list submitted under section 127, is a member of the staff of an institution (as defined in the Education and Training Act 2020) may continue to teach or supervise the studies of students at that institution who are preparing for an examination and may engage in marking the examination papers of such students, and may receive remuneration in respect of such teaching, supervision, and marking.
 (6) Except as provided in the foregoing provisions of this section, a candidate’s rights as a State servant shall not be affected by his or her candidature.
 
 ### 53 Members disqualified from being State servants
