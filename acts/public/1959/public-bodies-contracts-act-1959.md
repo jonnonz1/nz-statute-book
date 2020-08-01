@@ -1,5 +1,5 @@
 # Public Bodies Contracts Act 1959
-_Consolidation as at 2020-07-25_
+_Consolidation as at 2020-08-01_
 
 > An Act to make provision for the making of contracts by local authorities and other public bodies
 
@@ -45,14 +45,14 @@ This Act may be cited as the Public Bodies Contracts Act 1959.
 | Approved organisations under the Hydatids Act 1959 | Hydatids Act 1959 (1959 No 93) |
 | Area electricity authorities | Electricity Distribution Commission Act 1967 (1967 No 160) |
 | Borough councils | Municipal Corporations Act 1954 (1954 No 76) |
-| Committees of management of secondary schools | Education Act 1964 (1964 No 135) |
+| Committees of management of secondary schools | Education and Training Act 2020 |
 | County councils | Counties Act 1956 (1956 No 64) (1957 Reprint, Vol 3, p 1) |
 | District noxious plants authorities | Noxious Plants Act 1978 (1978 No 15) |
-| Education boards | Education Act 1914 (1914 No 56) (1931 Reprint, Vol 2, p 1007) |
+| Education boards | Education and Training Act 2020 |
 | Fire boards | Fire Services Act 1949 (1949 No 18) (1957 Reprint, Vol 5, p 179) |
-| Governing bodies of community colleges | Education Act 1964 (1964 No 135) |
-| Governing bodies of teachers colleges | Education Act 1964 (1964 No 135) |
-| Governing bodies of technical institutes | Education Act 1964 (1964 No 135) |
+| Governing bodies of community colleges | Education and Training Act 2020 |
+| Governing bodies of teachers colleges | Education and Training Act 2020 |
+| Governing bodies of technical institutes | Education and Training Act 2020 |
 | Harbour boards | Harbours Act 1950 (1950 No 34) (1957 Reprint, Vol 5, p 813) |
 | Licensing trusts | Licensing Trusts Act 1949 (1949 No 43) |
 | Nassella tussock boards | Noxious Plants Act 1978 (1978 No 15) |
@@ -60,8 +60,8 @@ This Act may be cited as the Public Bodies Contracts Act 1959.
 | Railway boards | Local Railways Act 1914 (1914 No 32) (1931 Reprint, Vol 7, p 935) |
 | Regional water boards | Water and Soil Conservation Act 1967 (1967 No 135) |
 | Road boards | Counties Act 1956 (1956 No 64) (1957 Reprint, Vol 3, p 1) |
-| Secondary schools councils | Education Act 1964 (1964 No 135) |
-| Secondary schools governing bodies | Education Act 1914 (1914 No 56) (1931 Reprint, Vol 2, p 1007) and, in case of the secondary schools named in Schedule 9 of that Act, the several Acts constituting those schools |
+| Secondary schools councils | Education and Training Act 2020 |
+| Secondary schools governing bodies | Education and Training Act 2020 and, in case of the secondary schools named in Schedule 9 of that Act, the several Acts constituting those schools |
 | Town councils | Municipal Corporations Act 1954 (1954 No 76) |
 | United councils | Local Government Act 1974 (1974 No 66) |
 | Urban fire authorities | Fire Services Act 1949 (1949 No 18) (1957 Reprint, Vol 5, p 179) |
