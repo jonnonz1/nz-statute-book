@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2020-04-01_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -827,13 +827,13 @@ Schedule 1 contains transitional provisions relating to dependants of veterans w
 ### 81 Entitlement to children's bursary
 (1) Every child described in subsection (2) is entitled to a children's bursary if they are undertaking—
   (a) full-time study at a secondary school; or
-  (b) full-time or part-time study at a tertiary institution.
+  (b) full-time or part-time study at a tertiary education organisation.
 (2) The children are—
   (a) children who are entitled to a children's pension:
   (b) children of veterans who are receiving weekly income compensation under subpart 4 of this Part or the veteran's pension under Part 6.
 (3) The entitlement to a children's bursary ceases at the end of the year in which a child reaches 23 years of age.
 (4) The rate of the children's bursary is to be prescribed in regulations made under section 265, and more than 1 rate may be specified for different circumstances.
-(5) In this section, secondary school and tertiary institution have the same meaning as in the Education Act 1989.
+(5) In this section, secondary school and tertiary education organisation have the same meanings as in section 10(1) of the Education and Training Act 2020.
 
 ### 82 Transitional provisions
 Schedule 1 contains transitional provisions relating to children who, before the commencement of this Part, were entitled to a war bursary under the War Pensions Act 1954.
