@@ -1,5 +1,5 @@
 # Customs and Excise Act 2018
-_Consolidation as at 2020-07-01_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Customs and Excise Act 2018.
@@ -4116,7 +4116,7 @@ Nothing in this subpart limits, or prevents, the disclosure of information that 
     (a) a benefit as defined in Schedule 2 of the Social Security Act 2018:
     (b) a funeral grant lump sum payable under section 90 of that Act:
     (c) any special assistance payable under a programme approved under section 100 or 101 of that Act:
-    (d) an allowance established by regulations made under section 303 of the Education Act 1989
+    (d) an allowance established by regulations made under section 645 of the Education and Training Act 2020
   - **department** means the department for the time being responsible for the administration of the Social Security Act 2018
   - **specified person** —
     (a) means a person—
@@ -4243,7 +4243,7 @@ Nothing in this subpart limits, or prevents, the disclosure of information that 
     (a) a benefit as defined in Schedule 2 of the Social Security Act 2018:
     (b) a funeral grant lump sum payable under section 90 of that Act:
     (c) any special assistance payable under a programme approved under section 100 or 101 of that Act:
-    (d) an allowance established by regulations made under section 303 of the Education Act 1989
+    (d) an allowance established by regulations made under section 645 of the Education and Training Act 2020
   - **department** means the department for the time being responsible for the administration of the Social Security Act 2018
   - **specified person** —
     (a) means a person—
