@@ -1,5 +1,5 @@
 # Reserves and Other Lands Disposal Act 1995
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2020-08-01_
 
 > An Act to provide for various matters relating to Crown land and other land held for public or special purposes
 
@@ -42,11 +42,11 @@ This Act may be cited as the Reserves and Other Lands Disposal Act 1995.
 (3) The board shall consist of the following members:
   (a) 5 members appointed by the Trustees of Pukeroa-Oruawhata:
   (b) 1 member appointed by the Trustees of Pukeroa-Oruawhata who shall be the Chairperson:
-  (c) 1 member appointed by the Board of Trustees of Rotorua Boys High School:
-  (d) 1 member appointed by the Board of Trustees of Rotorua Girls High School:
-  (e) 1 member appointed by the Board of Trustees of Western Heights High School:
-  (f) 1 member appointed by the Board of Trustees of Rotorua Lakes High School:
-  (g) 1 member appointed by the Board of Trustees of John Paul College.
+  (c) 1 member appointed by the Board of Rotorua Boys High School:
+  (d) 1 member appointed by the Board of Rotorua Girls High School:
+  (e) 1 member appointed by the Board of Western Heights High School:
+  (f) 1 member appointed by the Board of Rotorua Lakes High School:
+  (g) 1 member appointed by the Board of John Paul College.
 (4) The members of the Board shall from time to time appoint one of their number to be the Deputy Chairperson.
 
 ### 7 Trust property
