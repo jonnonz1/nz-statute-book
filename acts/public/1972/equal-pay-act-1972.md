@@ -1,5 +1,5 @@
 # Equal Pay Act 1972
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2020-08-01_
 
 > An Act to make provision for the removal and prevention of discrimination, based on the sex of the employees, in the rates of remuneration of males and females in paid employment, and for matters incidental thereto
 
@@ -19,7 +19,7 @@ This Act may be cited as the Equal Pay Act 1972.
     (b)
     (c) any person whose rate of remuneration is fixed under section 52 of the Hospitals Act 1957 (as substituted by section 4(1) of the Hospitals Amendment Act 1976):
     (d)
-    (e) any person whose rate of remuneration is fixed pursuant to regulations made under section 22 of the Education Act 1964 or under section 60A of that Act (as inserted by section 8(1) of the Education Amendment Act 1976)
+    (e)
   - **employer** means any person employing an employee or employees
   - **Employment Relations Authority** means the Employment Relations Authority established by section 156 of the Employment Relations Act 2000
   - **equal pay** means a rate of remuneration for work in which rate there is no element of differentiation between male employees and female employees based on the sex of the employees
