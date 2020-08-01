@@ -1,5 +1,5 @@
 # Privacy Act 2020
-_Consolidation as at 2020-06-30_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Privacy Act 2020.
@@ -2453,7 +2453,7 @@ A transfer prohibition notice that was given by the Commissioner under section 1
 | Citizenship Act 1977 | Section 26A |
 | Corrections Act 2004 | Sections 180 to 180D and 181 |
 | Customs and Excise Act 2018 | Sections 306 to 310 |
-| Education Act 1989 | Sections 226A, 235F, 307D, and 360 |
+| Education and Training Act 2020 | clause 9 of Schedule 3 and clauses 7, 8, and 9 of Schedule 9 |
 | Electoral Act 1993 | Sections 263A and 263B |
 | Electronic Identity Verification Act 2012 | Section 39 |
 | Immigration Act 2009 | Sections 294, 295, 298, 299, and 300 |
