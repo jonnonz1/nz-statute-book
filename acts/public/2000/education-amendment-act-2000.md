@@ -1,5 +1,5 @@
 # Education Amendment Act 2000
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 (1) This Act is the Education Amendment Act 2000.
@@ -48,7 +48,7 @@ The principal Act is amended by repealing sections 11A to 11P, and substituting 
     (a) define a home zone for the school; and
     (b) set out the pre-enrolment procedures for selecting applicants who live outside the home zone; and
     (c) identify any special programmes offered by the school and the criteria on which students will be accepted onto any special programme.
-  (2) The procedures described in subsection (1)(b) must be consistent with section 11F and any relevant instructions issued by the Secretary under section 11G.
+  (2) The procedures described in subsection (1)﻿(b) must be consistent with section 11F and any relevant instructions issued by the Secretary under section 11G.
   (1) Subject to the provisions of this Act, a person who lives in the home zone of a school that has an enrolment scheme is entitled at any time to enrol at that school.
   (2) An applicant for enrolment at a school with an enrolment scheme who lives outside the school's home zone is entitled to enrol at the school only—
     (a) if he or she is offered a place at the school in accordance with the procedure set out in the enrolment scheme; or
@@ -85,7 +85,7 @@ The principal Act is amended by repealing sections 11A to 11P, and substituting 
     (b) may apply to all or specified schools or classes of school; and
     (c) must be notified in the Gazette, either in full, or by a notice outlining the content of the instructions and saying where a copy can be obtained, and the date on which the instructions take effect; and
     (d) may be amended or revoked, in which case notice of the amendment or revocation must be given in the Gazette, as described in paragraph (c).
-  (3) The Secretary may issue guidelines describing the basis on which the Secretary's powers in relation to enrolment schemes may be exercised (including, in particular, the power in section 11P(2)(a) relating to the determination of whether an applicant lives within a home zone or outside it).
+  (3) The Secretary may issue guidelines describing the basis on which the Secretary's powers in relation to enrolment schemes may be exercised (including, in particular, the power in section 11P(2)﻿(a) relating to the determination of whether an applicant lives within a home zone or outside it).
   (1) If the Secretary gives a written notice to a state school that there is, or is likely to be, overcrowding at the school, the Board of the school must develop an enrolment scheme for the school.
   (2) A Board may not begin developing an enrolment scheme unless it has received a written notice of the type referred to in subsection (1).
   (3) When developing a proposed enrolment scheme, a Board must consult with whatever persons and organisations it considers appropriate and, in particular, must take all reasonable steps to discover and consider the views of—
@@ -153,7 +153,7 @@ The principal Act is amended by repealing sections 11A to 11P, and substituting 
   (2) The Secretary may direct the Board of any state school to enrol an applicant whose application for enrolment it has declined if the Secretary is satisfied that—
     (a) the Board has declined the application on the ground that the applicant is not living in the school's home zone, but in fact the applicant is living in the school's home zone; or
     (b) the consequences of not giving the direction would be so disadvantageous to the applicant that overriding the enrolment scheme in this case is justified.
-  (3) The Secretary must not give a direction about a person under subsection (1) or subsection (2)(b) unless he or she has taken all reasonable steps to consult the person's parents, the Board of the proposed school, and (if appropriate, having regard to the age and maturity of the person) the person.
+  (3) The Secretary must not give a direction about a person under subsection (1) or subsection (2)﻿(b) unless he or she has taken all reasonable steps to consult the person's parents, the Board of the proposed school, and (if appropriate, having regard to the age and maturity of the person) the person.
   (4) The Secretary may not direct the Board of a Kura Kaupapa Maori, a designated character school, or an integrated school to enrol a person under this section unless the person's parents agree, and accept the special character of that school.
   (5) A Board must comply with a direction under this section, and the direction overrides the provisions of any enrolment scheme the school may have in place.
   (1) The Board of a state school that has an enrolment scheme in place on 1 February in any year must, before 1 May of that year,—
@@ -167,7 +167,7 @@ The principal Act is amended by repealing sections 11A to 11P, and substituting 
     (c) section 11J is modified as follows:
       (i) subsection (1) applies as if paragraph (a) read a general description of the enrolment scheme; and
       (ii) subsection (2) applies as if paragraphs (a) to (c) were replaced with the words the likely number of places available and the significant pre-enrolment dates and procedures that will apply; and
-      (iii) subsection (3)(b) does not apply; and
+      (iii) subsection (3)﻿(b) does not apply; and
     (d) in the case of a Kura Kaupapa Maori, the application of the sections must not result in inconsistency with section 155; and
     (e) in the case of a designated character school, the application of the sections must not result in inconsistency with the school's charter or section 156; and
     (f) in the case of an integrated school, the application of the sections must not result in inconsistency with the school's integration agreement or the Private Schools Conditional Integration Act 1975.
@@ -209,12 +209,12 @@ Section 91I of the principal Act is amended by omitting the words in accordance 
 **Provisions relating to school governance**
 
 ### 11 Constitution of Boards of state schools
-Section 94(1) of the principal Act is amended by repealing paragraph (b), and substituting the following paragraph:.
+Section 94(1) of the principal Act is amended by repealing paragraph (b), and substituting the following paragraph:
   (b) the principal of the school or, in the case of a combined Board, the principals of the schools administered by the Board; and
 
 ### 12 Boards may alter their own constitutions
-(1) Section 94B of the principal Act is amended by repealing subsections (1)(g) and (7) (which provide that a Board may alter its constitution to preclude or remove a student representative).
-(2) Section 94B(1)(h) of the principal Act is consequentially repealed.
+(1) Section 94B of the principal Act is amended by repealing subsections (1)﻿(g) and (7) (which provide that a Board may alter its constitution to preclude or remove a student representative).
+(2) Section 94B(1)﻿(h) of the principal Act is consequentially repealed.
 (3) Section 94B(8) is consequentially amended by omitting the words to have a member who is a student representative or.
 
 ### 13 Staff and student representatives
@@ -257,7 +257,7 @@ The principal Act is amended by inserting, after section 101, the following sect
   (e) by omitting from subsection (11) the expression section 104, and substituting the expression sections 101A and 104.
 
 ### 17 Certain persons ineligible to be trustees
-Section 103 of the principal Act is amended by repealing subsections (1)(a) and (2).
+Section 103 of the principal Act is amended by repealing subsections (1)﻿(a) and (2).
 
 ### 18 New section 105A inserted
 The principal Act is amended by inserting, after section 105, the following section:Minister may approve alternative constitution in certain cases
@@ -267,7 +267,7 @@ The principal Act is amended by inserting, after section 105, the following sect
       (ii) 20% or more of the parents of children enrolled at the school or schools have requested an alternative constitution; or
       (iii) the Board has requested an alternative constitution; and
     (b) the Minister has consulted such persons or organisations as the Minister considers appropriate about whether an alternative constitution is in the best interests of the school or schools.
-  (2) In the case of an integrated school, the Minister must consult with the proprietor of the school when conducting the consultation required under subsection (1)(b).
+  (2) In the case of an integrated school, the Minister must consult with the proprietor of the school when conducting the consultation required under subsection (1)﻿(b).
   (3) A constitution approved under this section applies instead of a constitution under section 94.
   (4) A notice under this section must establish a Board comprising 1 or more persons who are to be elected or appointed as trustees in the manner specified in the notice; and the notice may (without limitation)—
     (a) set out a procedure for any election, appointment, or co-option of trustees:
@@ -285,7 +285,7 @@ The principal Act is amended by inserting, after section 109, the following sect
   (4) If the date that the commissioner has appointed under section 109(5) is a date that is within 6 months before the date on which an election is due to be held, the Board does not have to hold an election on that date and this section applies as if that election were not due to be held.
 
 ### 20 Boards may combine
-Section 110(1) of the principal Act is amended by inserting, after paragraph (b), the following paragraph:.
+Section 110(1) of the principal Act is amended by inserting, after paragraph (b), the following paragraph:
   (ba) the number of trustees on the Board who are parent representatives will exceed the number of other trustees on the Board; and
 
 ### 21 Restrictions on combining
@@ -306,7 +306,7 @@ Section 156A of the principal Act is amended by repealing subsection (4), and su
 **Tertiary students associations**
 
 ### 24 Requirements as to constitutions of Councils
-(1) Section 171(2) of the principal Act is amended by repealing paragraphs (e) and (ea), and substituting the following paragraph:.
+(1) Section 171(2) of the principal Act is amended by repealing paragraphs (e) and (ea), and substituting the following paragraph:
   (e) at least 1, but not more than 3, persons who must be appointed,—
     (i) in the case of an institution at which membership of a students association is compulsory, in accordance with the constitution or rules of the association; or
     (ii) in any other case, following an election (conducted in accordance with statutes made by the Council) by the students at the institution:
@@ -315,7 +315,7 @@ Section 156A of the principal Act is amended by repealing subsection (4), and su
 ### 25 New sections 229A to 229D substituted
 The principal Act is amended by repealing sections 229A to 229R and the Part heading above section 229A, and substituting the following sections:Institutions at which membership of students association is compulsoryInitiating change relating to compulsory membership of students associationCouncil to conduct vote on issue of compulsory membership of students associationSections 229A to 229C apply to private training establishments
   (1) This section applies to every institution at which membership of a students association is compulsory.
-  (2) The students association that, at the commencement of this section, is recognised by the Council of the institution as being the institution's students association for the purpose of representation on the Council, is the students association at that institution for the purposes of section 171(2)(e), this section, and sections 229B and 229C.
+  (2) The students association that, at the commencement of this section, is recognised by the Council of the institution as being the institution's students association for the purpose of representation on the Council, is the students association at that institution for the purposes of section 171(2)﻿(e), this section, and sections 229B and 229C.
   (3) The Council must, if asked to by the institution's student association, collect the membership fees of the association, but only if the association provides the Council with—
     (a) a copy of its current constitution; and
     (b) an independently audited set of financial accounts of the association for the last financial year.
@@ -348,7 +348,7 @@ The principal Act is amended by repealing sections 229A to 229R and the Part hea
   (3) A Board must comply with a direction under subsection (1), and the direction overrides the provisions of any enrolment scheme the school may have in place.
 (5) Section 156(8) of the principal Act is consequentially amended by omitting the expression section 11P, and substituting the expression section 11PB.
 (6) Section 159(1) of the principal Act is amended by repealing the definition of association of students.
-(7) Section 236A(1)(a)(i) of the principal Act is amended by omitting the words fees as provided in Part 16A for students who become members of associations of students, and substituting the words students association membership fees.
+(7) Section 236A(1)﻿(a)﻿(i) of the principal Act is amended by omitting the words fees as provided in Part 16A for students who become members of associations of students, and substituting the words students association membership fees.
 
 ### 27 Repeal
 The Education (Tertiary Students Association Voluntary Membership) Amendment Act 1998 (1998 No 90) is repealed.
