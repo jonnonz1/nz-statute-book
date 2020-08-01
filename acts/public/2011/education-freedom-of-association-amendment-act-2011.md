@@ -1,5 +1,5 @@
 # Education (Freedom of Association) Amendment Act 2011
-_Consolidation as at 2011-09-30_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Education (Freedom of Association) Amendment Act 2011.
@@ -14,7 +14,7 @@ This Act amends the Education Act 1989.
 The purpose of this Act is to uphold students’ rights to freedom of association, by removing any requirement for students to join students associations.
 
 ### 5 Requirements as to constitutions of councils
-Section 171(2) is amended by repealing paragraph (e) and substituting the following paragraph:.
+Section 171(2) is amended by repealing paragraph (e) and substituting the following paragraph:
   (e) at least 1, but not more than 3, persons who must be appointed following an election (conducted in accordance with statutes made by the council) by the students at the institution:
 
 ### 6 New sections 229A to 229CA substituted
@@ -55,7 +55,7 @@ Sections 229A to 229C are repealed and the following sections substituted:Member
 (2) Section 229D is amended by omitting 229C and substituting 229CA.
 
 ### 8 Information, withdrawals, and refunds
-Section 236A(1)(a)(i) is amended by omitting , and including any students association membership fees.
+Section 236A(1)﻿(a)﻿(i) is amended by omitting , and including any students association membership fees.
 
 ### 9 Transitional provision
 (1) This section applies to any student who on 1 January 2012—
