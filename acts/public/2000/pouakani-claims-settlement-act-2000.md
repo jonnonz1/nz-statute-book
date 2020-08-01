@@ -1,5 +1,5 @@
 # Pouakani Claims Settlement Act 2000
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2020-08-01_
 
 ## Preamble
 (1) E mau ake nei te Rārangi Tāpiri Tuatahi mō tēnei ture, e whakaūpoko ana i roto i te reo Māori me te reo Pākehā i ngā tikanga o te Tiriti o Waitangi:
@@ -181,13 +181,13 @@ In this Act, Pouakani boundary claims means all claims (whether or not researche
   (a) sections 8A to 8HA of the Treaty of Waitangi Act 1975:
   (b) the amendments made to the Treaty of Waitangi Act 1975 by Part 4 of the New Zealand Railways Corporation Restructuring Act 1990:
   (c) sections 27A to 27C of the State-Owned Enterprises Act 1986:
-  (d) sections 211 to 213 of the Education Act 1989:
+  (d) sections 568 to 570 of the Education and Training Act 2020:
   (e) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990.
 (3) Subsection (1) does not apply to the land described in ML Plan 14984.
 
 ### 15 Removal of resumptive memorials
 (1) The chief executive must, as soon as reasonably practicable after the settlement date, issue to the Registrar a certificate that identifies each certificate of title that—
-  (a) relates solely to land referred to in section 14(1)(a) and (b) (other than the land described in section 14(3)); and
+  (a) relates solely to land referred to in section 14(1)﻿(a) and (b) (other than the land described in section 14(3)); and
   (b) contains a memorial entered under any of the enactments referred to in section 14(2).
 (2) Each certificate must state that it is issued under this section.
 (3) The Registrar must, as soon as reasonably practicable after receiving a certificate issued under subsection (1), and without fee to the registered proprietor or to the Pouakani governance entity,—
@@ -295,8 +295,8 @@ The permission of a council (within the meaning of Part 21 of the Local Governme
 
 ### 30 Issue of certificate of title for Block B9B
 (1) The Registrar must issue a certificate of title under the Land Transfer Act 1952 for the fee simple estate in Block B9B in the name of Pouakani B9B Trust as Māori freehold land, the boundaries of which are shown on ML Plan 22432.
-(2) The certificate of title must be issued as soon as reasonably practicable after the date of vesting under section 31(1)(b), and, in any event, no later than—
-  (a) 12 months after the date of vesting under section 31(1)(b); or
+(2) The certificate of title must be issued as soon as reasonably practicable after the date of vesting under section 31(1)﻿(b), and, in any event, no later than—
+  (a) 12 months after the date of vesting under section 31(1)﻿(b); or
   (b) such later date as may be agreed to in writing between the Pouakani governance entity and the Crown.
 (3) Subject to subsection (4), that certificate of title must include—
   (a) a sufficient description of any easement, mortgage, or other registrable or notifiable encumbrance over Block B9B; and
@@ -318,8 +318,8 @@ The permission of a council (within the meaning of Part 21 of the Local Governme
 
 ### 32 Issue of certificate of title for stewardship land
 (1) The Registrar must issue a certificate of title under the Land Transfer Act 1952 for the fee simple estate in the stewardship land as Māori freehold land.
-(2) The certificate of title must be issued as soon as reasonably practicable after the date of vesting under section 31(1)(b), and, in any event, no later than—
-  (a) 12 months after the date of vesting under section 31(1)(b); or
+(2) The certificate of title must be issued as soon as reasonably practicable after the date of vesting under section 31(1)﻿(b), and, in any event, no later than—
+  (a) 12 months after the date of vesting under section 31(1)﻿(b); or
   (b) such later date as may be agreed to in writing between the Pouakani governance entity and the Crown.
 (3) Subject to subsection (4), that certificate of title must include—
   (a) a sufficient description of any easement, mortgage, or other registrable or notifiable encumbrance over the stewardship land; and
