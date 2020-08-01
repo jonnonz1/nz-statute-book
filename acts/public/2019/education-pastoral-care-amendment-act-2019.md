@@ -1,5 +1,5 @@
 # Education (Pastoral Care) Amendment Act 2019
-_Consolidation as at 2019-12-19_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Education (Pastoral Care) Amendment Act 2019.
