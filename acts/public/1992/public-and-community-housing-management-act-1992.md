@@ -1,5 +1,5 @@
 # Public and Community Housing Management Act 1992
-_Consolidation as at 2020-01-13_
+_Consolidation as at 2020-08-01_
 
 > Title
 
@@ -77,7 +77,7 @@ _Consolidation as at 2020-01-13_
   - **social housing** means Kāinga Ora housing or community housing
   - **social housing provider** means Kāinga Ora–Homes and Communities or a registered community housing provider
   - **standard tax** means the amount of tax reckoned on a weekly basis that would be deductible in accordance with tax code M specified in schedule 5, part A, clause 4, table row 1 of the Tax Administration Act 1994
-  - **study grant** means a basic grant or independent circumstances grant under regulations under section 303 of the Education Act 1989 (or an allowance, award, bursary, grant, or scholarship that the agency considers to have been established under that section in place of a basic grant or independent circumstances grant)
+  - **study grant** means a basic grant or independent circumstances grant under regulations under section 645 of the Education and Training Act 2020 (or an allowance, award, bursary, grant, or scholarship that the agency considers to have been established under that section in place of a basic grant or independent circumstances grant)
   - **tailored agreement** means an agreement under section 137A
   - **tenant** ,—
     (a) in relation to social housing in general,—
@@ -404,7 +404,7 @@ In this Part, unless the context otherwise requires,—
     (a) a benefit as defined in Schedule 2 of the Social Security Act 2018:
     (b) a funeral grant lump sum payable under section 90 of that Act:
     (c) any special assistance payable under a programme approved under section 100 or 101 of that Act:
-    (d) an allowance established by regulations made under section 303 of the Education Act 1989
+    (d) an allowance established by regulations made under section 645 of the Education and Training Act 2020
   - **department** means the department for the time being responsible for the administration of the Social Security Act 2018
   - **partner** , in the phrase spouse or partner and in related contexts, means, in relation to any person (A), a person—
     (a) who is A's civil union partner or de facto partner; and
