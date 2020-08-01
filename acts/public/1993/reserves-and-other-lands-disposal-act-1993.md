@@ -1,5 +1,5 @@
 # Reserves and Other Lands Disposal Act 1993
-_Consolidation as at 1999-05-20_
+_Consolidation as at 2020-08-01_
 
 > An Act to provide for various matters relating to Crown land, reserves, and other land held for public or special purposes
 
@@ -7,9 +7,9 @@ _Consolidation as at 1999-05-20_
 This Act may be cited as the Reserves and Other Lands Disposal Act 1993.
 
 ### 2 Ruakura Animal Research Station land
-Whereas the Crown land described in subsection (3) was, by Orders in Council made pursuant to section 10(1) of the Reserves and Other Lands Disposal Act 1952 (the Gazette 1961 at pages 207 and 675, and 1963 at page 1496), set apart for the purposes of the Ruakura Animal Research Station: And whereas it is desired that the land described in paragraph (a) of subsection (3) be set apart for a university and college of education: And whereas it is desired to empower the Minister of Agriculture to grant leases or licences over the land described in paragraphs (b), (c), and (d) of subsection (3) for the purposes of agricultural research and any other research compatible with the purposes for which the Station has been established: And whereas it is desired to enable the land described in paragraphs (e) and (f) of subsection (3) to be declared to be road under section 114 of the Public Works Act 1981: And whereas the proposals are not permitted by the said section 10(1): Be it therefore enacted as follows:
+Whereas the Crown land described in subsection (3) was, by Orders in Council made pursuant to section 10(1) of the Reserves and Other Lands Disposal Act 1952 (the Gazette 1961 at pages 207 and 675, and 1963 at page 1496), set apart for the purposes of the Ruakura Animal Research Station: And whereas it is desired that the land described in paragraph (a) of subsection (3) be set apart for a university: And whereas it is desired to empower the Minister of Agriculture to grant leases or licences over the land described in paragraphs (b), (c), and (d) of subsection (3) for the purposes of agricultural research and any other research compatible with the purposes for which the Station has been established: And whereas it is desired to enable the land described in paragraphs (e) and (f) of subsection (3) to be declared to be road under section 114 of the Public Works Act 1981: And whereas the proposals are not permitted by the said section 10(1): Be it therefore enacted as follows:
 (1) Notwithstanding anything in section 10 of the Reserves and Other Lands Disposal Act 1952 or any other enactment,—
-  (a) the land described in paragraph (a) of subsection (3) may be set apart under section 52 of the Public Works Act 1981 for a university and college of education, and when so set apart shall cease to be subject to section 10 of the Reserves and Other Lands Disposal Act 1952; and
+  (a) the land described in paragraph (a) of subsection (3) may be set apart under section 52 of the Public Works Act 1981 for a university, and when so set apart shall cease to be subject to section 10 of the Reserves and Other Lands Disposal Act 1952; and
   (b) the Minister of Agriculture may grant leases or licences in respect of any land described in paragraph (b) or paragraph (c) or paragraph (d) of subsection (3), for the purposes of agricultural research and other research that is compatible with the purposes for which the Ruakura Animal Research Station has been established; and
   (c) the land described in paragraphs (e) and (f) of subsection (3), or any part of that land, may be declared to be road under section 114 of the Public Works Act 1981.
 (2) Any lease or licence granted under subsection (1)﻿(b) may be made subject to such terms and conditions as the Minister considers appropriate in each case.
@@ -84,7 +84,7 @@ Whereas this section relates to 5 pieces of land vested in the University of Ota
 (4) The land described in paragraph (e) of subsection (7) is hereby—
   (a) freed and discharged from the provisions of the University of Otago Endowment Ordinance 1870; and
   (b) vested in the University of Otago for an estate in fee simple as an endowment for the benefit of the University.
-(5) The University of Otago may sell the land described in paragraph (e) of subsection (7) or any part thereof, and the proceeds of any sale shall be applied in accordance with the provisions of section 202 of the Education Act 1989.
+(5) The University of Otago may sell the land described in paragraph (e) of subsection (7) or any part thereof, and the proceeds of any sale shall be applied in accordance with section 304 of the Education and Training Act 2020.
 (6) The land to which this section relates is hereby released from the endowment for which it was vested in the University of Otago by the University of Otago Endowment Ordinance 1870 (Province of Otago).
 (7) This section relates to all that land,—
   (a) comprising 56.9970 hectares, more or less, being Section 1, Block VIII, Benmore Survey District, and being part of the land comprised and described in certificate of title, Volume 223, folio 10 (Otago Registry); and
