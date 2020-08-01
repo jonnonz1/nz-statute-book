@@ -1,5 +1,5 @@
 # Education Standards Act 2001
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 (1) This Act is the Education Standards Act 2001.
