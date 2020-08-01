@@ -1,5 +1,5 @@
 # Ngati Ruanui Claims Settlement Act 2003
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2020-08-01_
 
 ## Preamble
 (1) The Treaty of Waitangi, as set out in English and in Maori in Schedule 1 of the Treaty of Waitangi Act 1975, was signed in 1840:
@@ -289,7 +289,7 @@ In this Act, unless the context otherwise requires,—
     (a) sets out how the Ministry of Economic Development will interact with the governance entity in relation to the matters specified in that protocol; and
     (b) is in the form set out in Part 1 of the Cultural Redress Schedule, or as the protocol is amended under section 26
   - **MED protocol area** means the area shown on the map attached to the MED protocol, together with the adjacent waters
-  - **member of Ngati Ruanui** means every individual referred to in section 13(1)(b)
+  - **member of Ngati Ruanui** means every individual referred to in section 13(1)﻿(b)
   - **national park management plan** has the same meaning as management plan in section 2 of the National Parks Act 1980
   - **New Zealand Conservation Authority** has the meaning given to it in section 2(1) of the Conservation Act 1987
   - **Nga Taonga a Tane raua ko Tangaroa** means the species referred to in section 109
@@ -385,10 +385,10 @@ In this Act, unless the context otherwise requires,—
     (v) Wai 143 (Nga Iwi o Taranaki Lands); and
     (vi) Wai 552 (Ahitahi and Araukuku Lands, Forest and Fisheries); and
     (vii) Wai 859 (Waimate Plain Block).
-(2) Subsection (1)(a) is not limited by subsection (1)(b) or subsection (1)(c).
+(2) Subsection (1)﻿(a) is not limited by subsection (1)﻿(b) or subsection (1)﻿(c).
 (3) In this Act, Ngati Ruanui historical claims does not include—
-  (a) a claim that an individual referred to in section 13(1)(b) may have as a result of being descended from an ancestor who is not a Ngati Ruanui ancestor; or
-  (b) a claim that a hapu, group, family, or whanau referred to in section 13(1)(c) may have as a result of being descended from an ancestor who is not a Ngati Ruanui ancestor; or
+  (a) a claim that an individual referred to in section 13(1)﻿(b) may have as a result of being descended from an ancestor who is not a Ngati Ruanui ancestor; or
+  (b) a claim that a hapu, group, family, or whanau referred to in section 13(1)﻿(c) may have as a result of being descended from an ancestor who is not a Ngati Ruanui ancestor; or
   (c) a claim that Ngati Ruanui may have as a result of loss of interest in land, or natural or physical resources, in the land area outside Taranaki; or
   (d) a claim that a representative entity may have, to the extent that the claim is, or is based on, a claim referred to in paragraph (a), paragraph (b), or paragraph (c).
 (4) In this section,—
@@ -398,9 +398,9 @@ In this Act, unless the context otherwise requires,—
     (a) the governance entity; and
     (b) a person appointed as an agent for Ngati Ruanui under clause 3.4 of the deed of settlement; and
     (c) a person (including a trust or trustees) acting for, or on behalf of,—
-      (i) the iwi or collective group referred to in section 13(1)(a):
-      (ii) 1 or more of the individuals referred to in section 13(1)(b):
-      (iii) 1 or more of the hapu, groups, families, or whanau referred to in section 13(1)(c).
+      (i) the iwi or collective group referred to in section 13(1)﻿(a):
+      (ii) 1 or more of the individuals referred to in section 13(1)﻿(b):
+      (iii) 1 or more of the hapu, groups, families, or whanau referred to in section 13(1)﻿(c).
 
 ## Part 3 — Settlement of historical claims and miscellaneous matters
 
@@ -430,7 +430,7 @@ In this Act, unless the context otherwise requires,—
 (2) The enactments are—
   (a) sections 8A to 8HJ of the Treaty of Waitangi Act 1975:
   (b) sections 27A to 27C of the State-Owned Enterprises Act 1986:
-  (c) sections 211 to 213 of the Education Act 1989:
+  (c) sections 568 to 570 of the Education and Training Act 2020:
   (d) Part 3 of the Crown Forest Assets Act 1989:
   (e) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990.
 
@@ -453,7 +453,7 @@ In this Act, unless the context otherwise requires,—
     (i) may exist in law; or
     (ii) may deal with property (including income from property); or
   (b) apply to a document entered into to give effect to the deed of settlement (including the deeds that grant a right of first refusal referred to in clauses 8.7 and 9.7 of the deed of settlement) if the application of that rule or the provisions of that Act would otherwise make the document, or a right conferred by the document, invalid or ineffective.
-(2) Subsection (1)(a) does not apply if the governance entity is, or becomes, a charitable trust.
+(2) Subsection (1)﻿(a) does not apply if the governance entity is, or becomes, a charitable trust.
 
 **Date when actions or matters required under Act occur**
 
@@ -609,7 +609,7 @@ In this Act,—
 **Vesting of scenic reserve**
 
 ### 40 Makino scenic reserve
-(1) The Makino scenic reserve vests in the governance entity to hold and administer as a scenic reserve under section 26 of the Reserves Act 1977, subject to section 19(1)(a) of that Act.
+(1) The Makino scenic reserve vests in the governance entity to hold and administer as a scenic reserve under section 26 of the Reserves Act 1977, subject to section 19(1)﻿(a) of that Act.
 (2) The governance entity is an administering body, as defined in section 2(1) of the Reserves Act 1977, for the Makino scenic reserve.
 (3) Section 24(7B) of the Conservation Act 1987 applies to the vesting under subsection (1).
 
@@ -897,7 +897,7 @@ The purpose or classification of an area as a national park, reserve, or conserv
 (1) Except as expressly provided in this subpart,—
   (a) the declaration under section 72 and the acknowledgement under section 73 do not affect, and may not be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
   (b) no person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to Ngati Ruanui values than that person would give under the relevant statute, regulation, or bylaw if the site had not been declared a Taki Poipoia o Ngati Ruanui and Ngati Ruanui values had not been acknowledged.
-(2) Subsection (1)(b) does not limit subsection (1)(a).
+(2) Subsection (1)﻿(b) does not limit subsection (1)﻿(a).
 
 ### 86 Rights not affected
 Except as expressly provided in this subpart, sections 72 and 73 do not affect the lawful rights or interests of a person who is not a party to the deed of settlement.
@@ -1023,7 +1023,7 @@ Neither the provision of a statutory acknowledgement nor the entry into a deed o
 (1) Except as expressly provided in sections 89 to 92, 95, 97, and 98,—
   (a) neither a statutory acknowledgement nor a deed of recognition affects, or may be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
   (b) no person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to the association of Ngati Ruanui with a statutory area (as described in the relevant statutory acknowledgement) than that person would give under the relevant statute, regulation, or bylaw if no statutory acknowledgement or deed of recognition existed in respect of the statutory area.
-(2) Subsection (1)(b) does not limit subsection (1)(a).
+(2) Subsection (1)﻿(b) does not limit subsection (1)﻿(a).
 
 ### 105 Rights not affected
 Except as expressly provided in this subpart, neither a statutory acknowledgement nor a deed of recognition affects the lawful rights or interests of a person who is not a party to the deed of settlement.
@@ -1077,7 +1077,7 @@ The only purpose of the acknowledgement given in relation to the indigenous spec
 (1) Except as expressly provided in this subpart,—
   (a) the acknowledgements given under sections 109, 111, and 112 do not affect, and must not be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
   (b) no person, in considering a matter or making a decision under a statute, regulation, or bylaw, may give greater or lesser weight to the association of Ngati Ruanui with Nga Taonga a Tane raua ko Tangaroa, purangi, or the interest of Ngati Ruanui in the paua fishery, as acknowledged in sections 109, 111, and 112, than the person would give under the statute, regulation, or bylaw if no acknowledgement of that association existed.
-(2) Subsection (1)(b) does not limit subsection (1)(a).
+(2) Subsection (1)﻿(b) does not limit subsection (1)﻿(a).
 
 ### 114 Rights not affected
 Except as expressly provided in this subpart, the acknowledgements given under sections 109, 111, and 112 do not affect the lawful rights or interests of a person who is not party to the deed of settlement.
@@ -1098,7 +1098,7 @@ In this subpart,—
       (i) purchased by the governance entity under the deed granting a right of first refusal over shellfish quota that is to be entered into by the Minister and the governance entity under clauses 9.7.1 and 9.7.4 of the deed of settlement; and
       (ii) received by the governance entity from the Treaty of Waitangi Fisheries Commission
   - **Minister** has the meaning given to it in section 2(1) of the Fisheries Act 1996
-  - **shellfish quota** has the meaning given to it in the deed granting a right of first refusal over shellfish quota referred to in paragraph (b)(i).
+  - **shellfish quota** has the meaning given to it in the deed granting a right of first refusal over shellfish quota referred to in paragraph (b)﻿(i).
 
 ### 117 Consent to holding excess quota
 (1) The Minister must be treated as having consented under section 60(1) of the Fisheries Act 1996 to the governance entity owning excess shellfish quota.
@@ -1121,7 +1121,7 @@ In this subpart,—
 (1) The authorisations that the governance entity has a preferential right to purchase under section 119 must—
   (a) not exceed in area 10% of the authorisations granted or proposed to be granted by the Minister in the tender round for the specified coastal area; and
   (b) be of not less than fair average quality in terms of the relevant portion of the specified coastal area, relative to the quality of those portions for all other authorisations that are the subject of the tender round.
-(2) The limit specified in subsection (1)(a) may be exceeded if the size and shape of the part of the specified coastal area for the authorisations to which that tender round relates make it impractical to comply with the limitation.
+(2) The limit specified in subsection (1)﻿(a) may be exceeded if the size and shape of the part of the specified coastal area for the authorisations to which that tender round relates make it impractical to comply with the limitation.
 
 ### 121 Governance entity treated as having made tender
 (1) If the governance entity has a preferential right under section 119 to purchase authorisations, the governance entity must be treated as having lodged a valid tender for the authorisations, for $1 consideration, in compliance with section 158 of the Resource Management Act 1991.
