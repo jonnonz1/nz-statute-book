@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2020-04-01_
+_Consolidation as at 2020-08-01_
 
 > An Act to reform the administration of education
 
