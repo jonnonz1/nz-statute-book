@@ -1,5 +1,5 @@
 # Education Amendment Act (No 2) 1998
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2020-08-01_
 
 > An Act to amend the Education Act 1989
 
@@ -15,8 +15,8 @@ This section substituted the definition Enrolment scheme in s 2(1) of the princi
 This section amended s 9(2) of the principal Act.
 
 ### 4 Right of reconsideration
-(1) This subsection inserted s 10(6)(ma) of the principal Act.
-(2) This subsection amended s 10(6)(n) of the principal Act.
+(1) This subsection inserted s 10(6)﻿(ma) of the principal Act.
+(2) This subsection amended s 10(6)﻿(n) of the principal Act.
 
 ### 5 New heading and sections substituted
 This section substituted ss 11A to 11Q in the principal Act.
@@ -122,7 +122,7 @@ This section inserted s 78B in the principal Act.
 This section amended s 94(2) and 94(4) of the principal Act.
 
 ### 27 Boards of newly established schools
-This section substituted s 98(2)(a) of the principal Act.
+This section substituted s 98(2)﻿(a) of the principal Act.
 
 ### 28 When casual vacancies arise
 This section amended s 104(6) of the principal Act.
@@ -135,7 +135,7 @@ This section amended s 104(6) of the principal Act.
 This section amended s 110(1) of the principal Act.
 
 ### 31 Each school to be represented on combined Board
-(1) This subsection amended s 116(1)(a) of the principal Act.
+(1) This subsection amended s 116(1)﻿(a) of the principal Act.
 (2) Section 116(2) of the principal Act is repealed.
 
 ### 32 Repeal of spent section
@@ -177,7 +177,7 @@ This section substituted s 156A in the principal Act.
 This section inserted s 228A in the principal Act.
 
 ### 43 Grants to private training establishments
-This section amended s 238A(8)(a) of the principal Act.
+This section amended s 238A(8)﻿(a) of the principal Act.
 
 ## Part  — Education and training support
 
@@ -186,7 +186,7 @@ This section substituted the definition of Agency in s 269 of the principal Act.
 
 ### 45 New sections substituted
 (1) This subsection substituted ss 270 to 272 of the principal Act.
-(2) This subsection amended s 253(c)(i) of the principal Act.
+(2) This subsection amended s 253(c)﻿(i) of the principal Act.
 (3) This subsection amended Schedule 16 of the principal Act.
 (4) Even though the term for which a member was appointed may not have expired, each appointed member holding office immediately before the commencement of this section must, if the member's office has not earlier become vacant under clause 2(2) of Schedule 16 of the principal Act, go out of office on the earlier of the following days:
   (a) The day on which the appointment of a successor takes effect:
@@ -254,7 +254,7 @@ The following enactments are consequentially repealed:
   (a) Section 130F of the Education Act 1964:
   (b) So much of the Schedule 9 of the principal Act as relates to section 130F of the Education Act 1964:
   (c) Sections 8 and 9 of the Education Amendment Act 1990:
-  (d) Section 6(2)(b) of the Education Amendment Act 1991:
+  (d) Section 6(2)﻿(b) of the Education Amendment Act 1991:
   (e) Section 18 of the Education Amendment Act 1993.
 
 ### 61 Amendment to Education Lands Act 1949
