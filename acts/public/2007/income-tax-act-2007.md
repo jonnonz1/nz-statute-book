@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2020-07-10_
+_Consolidation as at 2020-08-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -2347,7 +2347,7 @@ Some definitions
     (g) a payment under section 81(1)﻿(b) of the Accident Compensation Act 2001 paid by the Corporation as defined in that Act, for attendant care as defined in schedule 1, clause 12 of that Act:
     (h) a personal service rehabilitation payment for a person under the Accident Compensation Act 2001
     (i)
-  - **education grant** means a basic grant or an independent circumstances grant under regulations made under section 303 of the Education Act 1989
+  - **education grant** means a basic grant or an independent circumstances grant under regulations made under section 645 of the Education and Training Act 2020
   - **pension** —
     (a) includes a gratuitous payment made to a person in return for services that the person, or their parent, child, spouse, civil union partner or de facto partner, former spouse, civil union partner or de facto partner, or dependant, provided to the payer when the payment would not have been made if the services had not been provided; and
     (b) does not include a payment made to the person because of, and within 1 year after, the death of that parent, child, spouse, civil union partner or de facto partner, former spouse, civil union partner or de facto partner, or dependant.
@@ -4367,7 +4367,7 @@ Meaning of reimbursement payment
   (b) is paid to them in an income year that is later than the income year in which they were provided the rehabilitation.
 
 ### CW 36 Scholarships and bursaries
-A basic grant or an independent circumstances grant under regulations made under section 303 of the Education Act 1989 is not exempt income, but any other scholarship or bursary for attendance at an educational institution is exempt income.
+A basic grant or an independent circumstances grant under regulations made under section 645 of the Education and Training Act 2020 is not exempt income, but any other scholarship or bursary for attendance at an educational institution is exempt income.
 
 ### CW 37 Film production grants
 [Repealed]
@@ -4613,15 +4613,15 @@ An amount of income derived by a club, society, association, or trustee or trust
   (b) the game or sport is conducted for the recreation or entertainment of the general public; and
   (c) no part of the funds of the promoter is used or is available to be used for the private pecuniary profit of a member, proprietor, shareholder, beneficiary, or associate of any of them.
 
-### CW 47 TAB and racing clubs
+### CW 47 TAB NZ and racing clubs
 Exempt income: racing organisations
 (1) An amount of income derived by any of the following bodies is exempt income:
-  (a) the Racing Industry Transition Agency:
+  (a) TAB NZ:
   (b) New Zealand Thoroughbred Racing:
   (c) Harness Racing New Zealand:
   (d) the New Zealand Greyhound Racing Association (Incorporated).
 Exempt income: racing clubs
-(2) An amount of income derived by a racing club, as defined in section 5 of the Racing Act 2003, is exempt income, if none of the club’s funds is used or is available to be used for the private pecuniary profit of a member of the club or an associate of a member.
+(2) An amount of income derived by a racing club, as defined in section 5(1) of the Racing Industry Act 2020, is exempt income, if none of the club’s funds is used or is available to be used for the private pecuniary profit of a member of the club or an associate of a member.
 
 ### CW 48 Income from conducting gaming-machine gambling
 An amount of income derived by a person that is gross gambling proceeds from gaming-machine gambling is exempt income if—
@@ -4696,11 +4696,7 @@ When this section applies
 When this section applies
 (1) This section applies for a tax year to a person, other than an absentee, when the person is—
   (a) younger than 15:
-  (b) younger than 18, and attends—
-    (i) a private primary school, state primary school, private secondary school, or state secondary school, in each case as defined in the Education Act 1964:
-    (ia)
-    (ii) an integrated school as defined in section 2 of the Private Schools Conditional Integration Act 1975:
-    (iii) a school providing special education as defined in the Education Act 1964 and the Education Act 1989:
+  (b) younger than 18, and attends a registered school as defined in section 10(1) of the Education and Training Act 2020:
   (c) younger than 19, and—
     (i) was a person to whom paragraph (b) applied during the previous tax year; and
     (ii) turned 18 on or after 1 January in that previous tax year; and
@@ -4799,7 +4795,7 @@ An amount of life reinsurance claim derived by a life insurer is exempt income t
 
 ### CW 60 Stake money
 Stake or prize money for a dog race, horse race, or trotting race is exempt income if—
-  (a) it is paid by a club that is licensed to use the totalisator under the Racing Act 2003; or
+  (a) it is paid by a club that is licensed to use the totalisator under the Racing Industry Act 2020; or
   (b) the race is held outside New Zealand.
 
 ### CW 61 Providing standard-cost household service
@@ -15137,8 +15133,8 @@ Annuity
   (b) an annuity for a term not contingent on human life to which section EY 8(2)﻿(c) (Meaning of life insurance) applies.
 Bet
 (3) A bet on any of the following is an excepted financial arrangement:
-  (a) a race, as defined in section 5 of the Racing Act 2003:
-  (b) a sporting event under a sports betting system administered under Part 6 of the Racing Act 2003:
+  (a) a race, as defined in section 5(1) of the Racing Industry Act 2020:
+  (b) a sporting event under a sports betting system administered under Part 4 of the Racing Industry Act 2020:
   (c) gambling, including a New Zealand lottery, as those terms are defined in section 4(1) of the Gambling Act 2003.
 Emissions unit
 (3B) An emissions unit is an excepted financial arrangement.
@@ -20746,8 +20742,8 @@ For the purposes of the old financial arrangements rules, each of the following 
     (g) in relation to a holder or an issuer, shares, other than withdrawable shares, or an option to acquire or to sell or otherwise dispose of shares, other than withdrawable shares, where those shares were or that option was acquired or issued by the person after 8.00 pm New Zealand Standard Time on 18 June 1987:
     (h) a lease:
     (i) a bet on any—
-      (i) race, as defined in section 5 of the Racing Act 2003; or
-      (ii) sporting event under a sports-betting system administered under Part 6 of the Racing Act 2003; or
+      (i) race, as defined in section 5(1) of the Racing Industry Act 2020; or
+      (ii) sporting event under a sports-betting system administered under Part 4 of the Racing Industry Act 2020; or
       (iii) gambling, including a New Zealand lottery, as those terms are defined in section 4(1) of the Gambling Act 2003:
     (j) in relation to an issuer or a holder, an option to acquire or to sell or otherwise dispose of property (other than an interest in a financial arrangement) where the option was issued or acquired by the person after 8.00 pm New Zealand Standard Time on 18 June 1987 for private or domestic purposes only:
     (k) a short term agreement for the sale and purchase of property:
@@ -31252,7 +31248,7 @@ Description of organisations
     (ii) the day on which all reasonably contemplated administrative appeals and Court proceedings, including appeal rights, are finalised or exhausted in relation to the person's charitable status.
   (ac) a community housing entity, if the gift is made at a time the entity is eligible to derive exempt income under section CW 42B (Community housing trusts and companies):
   (b) a public institution maintained exclusively for any 1 or more of the purposes within New Zealand set out in paragraph (a):
-  (bb) a Board of Trustees that is constituted under Part 9 of the Education Act 1989 and is not carried on for the private pecuniary profit of any individual:
+  (bb) a board that is constituted under subpart 5 of Part 3 of the Education and Training Act 2020 and is not carried on for the private pecuniary profit of any individual:
   (bc) a tertiary education institution:
   (c) a fund established and maintained exclusively for the purpose of providing money for any 1 or more of the purposes within New Zealand set out in paragraph (a), by a society, institution, association, organisation, or trust that is not carried on for the private pecuniary profit of an individual:
   (d) a public fund established and maintained exclusively for the purpose of providing money for any 1 or more of the purposes within New Zealand set out in paragraph (a).
@@ -32584,7 +32580,7 @@ In subparts MB to MG and MZ,—
     (a) an income-tested benefit; or
     (b) a veteran’s pension; or
     (c) New Zealand superannuation; or
-    (d) a basic grant or an independent circumstances grant, made under regulations made under section 193 of the Education Act 1964, section 303 of the Education Act 1989, or a substituted provision; or
+    (d) a basic grant or an independent circumstances grant, made under regulations made under section 645 of the Education and Training Act 2020, or a substituted provision; or
     (e) an accident compensation earnings-related payment, when the compensation relates to a day forming part of a continuous period of eligibility for the compensation and the day falls after the earlier of—
       (i) the day with the same date as the first day of the continuous period of eligibility for compensation and occurring in the third calendar month after that first day; and
       (ii) the last day of the third calendar month after the first day of the continuous period of eligibility for compensation
@@ -33078,7 +33074,7 @@ When child meets residence requirements
 ### MD 8 Fourth requirement: person not receiving benefit
 The fourth requirement for an entitlement to an in-work tax credit is that the person referred to in section MD 4 and their spouse, civil union partner, or de facto partner, do not receive—
   (a) an income-tested benefit; or
-  (b) a basic grant and an independent circumstances grant made under regulations made under section 193 of the Education Act 1964, section 303 of the Education Act 1989, or an enactment substituted for those sections; or
+  (b) a basic grant and an independent circumstances grant made under regulations made under section 645 of the Education and Training Act 2020 or an enactment substituted for that section; or
   (c) a parent's allowance continued by clause 3 of Schedule 1 of the Veterans' Support Act 2014 or a children's pension under section 72 or 75 of that Act.
 
 ### MD 9 Fifth requirement: earner
@@ -33722,7 +33718,7 @@ For the purposes of section MX 1(1)﻿(b), a person meets the corporate eligibil
   (a) the person is a company that is resident in New Zealand; and
   (b) there is no double tax agreement under which the person is treated as being resident in a foreign country or territory; and
   (c) the person is not an entity established by or subject to—
-    (i) the Education Act 1989:
+    (i) the Education and Training Act 2020:
     (ii) the New Zealand Public Health and Disability Act 2000:
     (iii) the Crown Entities Act 2004; and
   (d) a total of less than 50% of the shares in the person are held by entities that are each—
@@ -38418,7 +38414,7 @@ Certain benefits and grants
   (bf) weekly compensation paid under Part 4, subpart 5 of the Veterans’ Support Act 2014:
   (bg) weekly compensation or aggregated payments, as applicable, paid under schedule 2, part 4, clause 54, 55, 58, or 59 of the Veterans’ Support Act 2014:
   (bh) the amount of an honorarium that is paid by Fire and Emergency New Zealand to a volunteer as defined in section CW 62B(4) (Voluntary activities):
-  (c) a basic grant and independent circumstances grant made under regulations made under section 193 of the Education Act 1964, section 303 of the Education Act 1989, or an enactment substituted for those sections.
+  (c) a basic grant and independent circumstances grant made under regulations made under section 645 of the Education and Training Act 2020 or an enactment substituted for that section.
 Parental leave and preterm baby payments
 (7) A parental leave payment or preterm baby payment made under Part 7A of the Parental Leave and Employment Protection Act 1987 is included in salary or wages.
 Accommodation benefits
@@ -38613,7 +38609,7 @@ Special circumstances
 When schedule or regulations inapplicable
 (2) If the amount of tax for a PAYE income payment cannot be determined under schedule 2 (Basic tax rates for PAYE income payments) or under regulations made under this Act because of the size of the PAYE income payment, or the number of the employee’s dependants, or for any other reason, the amount of tax for the payment must be determined by the Commissioner, taking into account the factors considered in fixing the amount of tax for other similar payments.
 Income-tested benefits and education allowances
-(3) The amount of tax for a PAYE income payment that is an income-tested benefit or an allowance paid under regulations made under section 303 of the Education Act 1989 must be determined by the Commissioner in consultation with the chief executive of the administering department or the Secretary of Education.
+(3) The amount of tax for a PAYE income payment that is an income-tested benefit or an allowance paid under regulations made under section 645 of the Education and Training Act 2020 must be determined by the Commissioner in consultation with the chief executive of the administering department or the Secretary of Education.
 When Commissioner makes determination under section RD 8(3)
 (4) If the Commissioner makes a determination under section RD 8(3) in relation to the amount or proportion of expenditure that a person incurs in deriving a schedular payment, the basis for calculating the amount of tax for the schedular payment is the reduced amount found after subtracting the amount or proportion of expenditure determined by the Commissioner from the amount of the payment. This subsection overrides section RD 10(3).
 
@@ -44680,7 +44676,7 @@ In this Act, unless the context requires otherwise,—
     (a) an income-tested benefit; or
     (b) a veteran’s pension; or
     (c) New Zealand superannuation; or
-    (d) a basic grant or an independent circumstances grant, made under regulations made under section 193 of the Education Act 1964, section 303 of the Education Act 1989, or an enactment substituted for those sections; or
+    (d) a basic grant or an independent circumstances grant, made under regulations made under section 645 of the Education and Training Act 2020 or an enactment substituted for that section; or
     (e) compensation described in section RD 5(1)﻿(b)﻿(iii) (Salary or wages) if the compensation relates to a day forming part of a continuous period of eligibility for such compensation and the day falls after the earlier of—
       (i) the day having the same date as the first day of the continuous period of eligibility for compensation and occurring in the third calendar month after that first day; and
       (ii) the last day of the third calendar month after the first day of the continuous period of eligibility for compensation
@@ -44877,7 +44873,7 @@ In this Act, unless the context requires otherwise,—
     (a) at the end of a period specified on the issue of the shares; or
     (b) on the attainment of a result specified on the issue of the shares
   - **tertiary education institution** means an institution that is—
-    (a) established under Part 14 or 15A, or subpart 1 of Part 10 of Schedule 1 of the Education Act 1989 and has not been disestablished under that Act; and
+    (a) established or continued under subpart 3 or 4 of Part 4 of the Education and Training Act 2020 and has not been disestablished under that Act; and
     (b) not carried on for the private pecuniary profit of any individual
   - **tertiary education subsidiary** is defined in section CW 55BA(2) (Tertiary education institutions and subsidiaries) for the purposes of that section
   - **tertiary institution**
