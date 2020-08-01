@@ -1,5 +1,5 @@
 # Ngāti Tūwharetoa Claims Settlement Act 2018
-_Consolidation as at 2020-04-01_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Ngāti Tūwharetoa Claims Settlement Act 2018.
@@ -539,7 +539,7 @@ In this Act, unless the context otherwise requires,—
   (d) for the benefit of Ngāti Tūwharetoa or a representative entity.
 (2) The enactments are—
   (a) Part 3 of the Crown Forest Assets Act 1989:
-  (b) sections 211 to 213 of the Education Act 1989:
+  (b) sections 568 to 570 of the Education and Training Act 2020:
   (c) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990:
   (d) sections 27A to 27C of the State-Owned Enterprises Act 1986:
   (e) sections 8A to 8HJ of the Treaty of Waitangi Act 1975.
@@ -1750,7 +1750,7 @@ In this subpart and Schedule 5,—
 (2) The land referred to in subsection (1)﻿(a) is—
   (a) any Collective RFR property; and
   (b) any Ngāti Tūrangitukua RFR property; and
-  (c) Part No 2 playing fields/Wairiki Bay of Plenty Polytechnic Limited Campus, Horomatangi Street, Taupo.
+  (c) Part No 2 playing fields/Toi Ohomai Institute of Technology Limited Campus, Horomatangi Street, Taupo.
 (3) Land ceases to be RFR land if—
   (a) the fee simple estate in the land transfers from the RFR landowner to—
     (i) the trustees or their nominee (for example, under section 127 in the case of the deferred selection property or under a contract formed under section 148); or
@@ -1764,7 +1764,7 @@ In this subpart and Schedule 5,—
   - **CNI Forests Iwi Collective Deed** means the Deed of Settlement of the Historical Claims of CNI (Central North Island) Forests Iwi Collective to the Central North Island Forests Land, between the CNI (Central North Island) Forests Iwi Collective and the Crown, dated 25 June 2008
   - **Collective RFR property** means a property within the meaning of Collective RFR property in the CNI Forests Iwi Collective Deed
   - **Ngāti Tūrangitukua RFR property** means a property described in section 5 of the Deed of Settlement between Her Majesty the Queen in right of New Zealand and Ngāti Tūrangitukua dated 26 September 1998
-  - **Part No 2 playing fields/Wairiki Bay of Plenty Polytechnic Campus, Horomatangi Street, Taupo** means the property being 1.6192 hectares, more or less, being Sections 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, and 16 Block XIX Town of Taupo. All Gazette 1951, p 1840.
+  - **Part No 2 playing fields/Toi Ohomai Institute of Technology Limited Campus, Horomatangi Street, Taupo** means the property being 1.6192 hectares, more or less, being Sections 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, and 16 Block XIX Town of Taupo. All Gazette 1951, p 1840.
 
 **Restrictions on disposal of RFR land**
 
@@ -1823,7 +1823,7 @@ The RFR landowner may, by notice to the trustees, withdraw an offer at any time 
 (1) An RFR landowner may dispose of RFR land to—
   (a) the Crown; or
   (b) a Crown body.
-(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 143(5) or 206 of the Education Act 1989.
+(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 563 of the Education and Training Act 2020.
 
 ### 150 Disposal of existing public works to local authorities
 (1) An RFR landowner may dispose of RFR land that is a public work or part of a public work, in accordance with section 50 of the Public Works Act 1981, to a local authority, as defined in section 2 of that Act.
@@ -1869,7 +1869,7 @@ An RFR landowner may dispose of RFR land in accordance with—
   (c) section 117(3)﻿(a) of the Public Works Act 1981; or
   (d) section 117(3)﻿(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
   (e) section 23(1) or (4), 24(4), or 26 of the New Zealand Railways Corporation Restructuring Act 1990.
-(2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under section 134 of Te Ture Whenua Maori Act 1993, after an application by an RFR landowner under section 41(e) of the Public Works Act 1981.
+(2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under section 134 of Te Ture Whenua Maori Act 1993, after an application by an RFR landowner under section 41(1)﻿(e) of the Public Works Act 1981.
 
 ### 156 Disposal for reserve or conservation purposes
 An RFR landowner may dispose of RFR land in accordance with—
