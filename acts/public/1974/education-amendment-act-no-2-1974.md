@@ -1,5 +1,5 @@
 # Education Amendment Act (No 2) 1974
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2020-08-01_
 
 > An Act to amend the Education Act 1964
 
@@ -12,7 +12,7 @@ _Consolidation as at 2007-09-03_
 [Repealed]
 
 ### 3 Constitution of Education Boards
-(1) This subsection inserted section 15(2)(c) of the principal Act.
+(1) This subsection inserted section 15(2)﻿(c) of the principal Act.
 (2) This subsection inserted section 15(2A) of the principal Act.
 (3) This subsection amended section 15(2) of the principal Act.
 (4) Notwithstanding anything in subsections (1) to (3) of this section, the members of each Education Board holding office at the commencement of this Act shall, subject to sections 17 to 19 of the principal Act and to the provisions of any other Act, continue to hold office for the term of their appointment, and neither the offices of those members nor the powers of any Board shall be affected by the change in membership of the Board as provided by those subsections, nor by the fact of any vacancy in the appointment of any member pursuant to those subsections.
