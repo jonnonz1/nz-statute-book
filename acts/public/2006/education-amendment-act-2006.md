@@ -1,5 +1,5 @@
 # Education Amendment Act 2006
-_Consolidation as at 2008-12-01_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Education Amendment Act 2006.
@@ -22,13 +22,13 @@ Section 4D is amended by inserting the following subsections after subsection (3
   (3B) The Minister must, by notice in the Gazette, prescribe a formula for the payment of money under subsection (3A), and may prescribe different formulae to apply to different schools or classes of school.
 
 ### 5 Principal may stand-down or suspend students
-Section 14(1)(b) is amended by omitting for an unspecified period.
+Section 14(1)﻿(b) is amended by omitting for an unspecified period.
 
 ### 6 Effect of school charter
 Section 63(a) is amended by omitting or deemed to be contained.
 
 ### 7 Delegations
-Section 66(8) is amended by omitting subsection (1)(b) and substituting subsection (4)(b).
+Section 66(8) is amended by omitting subsection (1)﻿(b) and substituting subsection (4)﻿(b).
 
 ### 8 New sections 70A to 70C inserted
 (1) The following sections are inserted after section 70:Minister may declare land to be no longer needed for educational purposes1949 No 24 s 5ALeases and licences granted by Boards1949 No 24 ss 6, 6AOther agreements to occupy school land or buildings
@@ -49,7 +49,7 @@ Section 66(8) is amended by omitting subsection (1)(b) and substituting subsecti
   (3) The Secretary must determine the terms and conditions of any lease or licence granted by a Board, and may do so by either or both of the following:
     (a) by notice in the Gazette specifying general terms and conditions that apply to all, or specified classes of, leases or licences:
     (b) by written notice to the Board.
-  (4) Section 70(5) applies to a Gazette notice under subsection (3)(a).
+  (4) Section 70(5) applies to a Gazette notice under subsection (3)﻿(a).
   (5) In relation to an integrated school, this section applies subject to the Private Schools Conditional Integration Act 1975 and to any integration agreement in force between the Minister and the proprietors of the school.
   (1) In this section, agreement means an agreement, other than a lease or a licence to occupy under section 70B, between a Board and any other person for the use of land, buildings, or facilities occupied by the Board.
   (2) A Board may not enter into an agreement unless—
@@ -60,11 +60,11 @@ Section 66(8) is amended by omitting subsection (1)(b) and substituting subsecti
   (5) The Secretary may, by notice in the Gazette,—
     (a) identify the kinds of agreements (such as, for example, agreements for the use of playing fields) that Boards may enter into; and
     (b) specify conditions to which agreements, or specified types of agreements, are subject.
-  (6) Section 70(5) applies to a Gazette notice under subsection (5)(b).
+  (6) Section 70(5) applies to a Gazette notice under subsection (5)﻿(b).
   (7) In relation to an integrated school, this section applies subject to the Private Schools Conditional Integration Act 1975 and to any integration agreement in force between the Minister and the proprietors of the school.
 (2) A lease or licence to occupy entered into under Part 1 of the Education Lands Act 1949 is unaffected by the repeal of that Part by this Act or by section 70B of the principal Act.
 (3) An agreement to which section 70C of the principal Act applies that is in force immediately before that section comes into force is unaffected by section 70C until the end of the year in which that section comes into force. From the beginning of the following year, section 70C of the principal Act applies to the agreement.
-(4) Section 205(1)(b)(i) of the Local Government Act 2002 is consequentially amended by inserting or section 70B of the Education Act 1989 after Education Lands Act 1949.
+(4) Section 205(1)﻿(b)﻿(i) of the Local Government Act 2002 is consequentially amended by inserting or section 70B of the Education Act 1989 after Education Lands Act 1949.
 
 ### 9 New section 88A inserted
 The following section is inserted after section 88:Rent for teachers' residences
@@ -96,7 +96,7 @@ Section 101 is amended by repealing subsection (4) and substituting the followin
 (2) Section 102(3) is repealed.
 
 ### 14 Certain persons ineligible to be trustees
-(1) Section 103(1)(da) is repealed.
+(1) Section 103(1)﻿(da) is repealed.
 (2) Section 103 is amended by repealing subsections (2A), (3), and (4) and substituting the following subsections:
   (3) Any permanently appointed member of the Board staff may, if otherwise eligible for election, be elected as a staff representative; but no permanently appointed member of the Board staff may be otherwise elected to the Board or be appointed or co-opted on to the Board.
   (4) A non-permanently appointed member of the Board staff may, if otherwise eligible, be elected, appointed, or co-opted on to the Board.
@@ -112,7 +112,7 @@ Section 101 is amended by repealing subsection (4) and substituting the followin
   (6) A Board may not resolve to fill a casual vacancy by selection if the effect would be that the number of elected parent representatives on the Board is less than, or equal to, the number of parent representatives on the Board who have not been elected.
   (7) Despite resolving to fill a vacancy by selection, the Board must hold an election to fill the vacancy if, within 28 days of the publication of the notice referred to in subsection (5), a total of at least 10% of the people entitled to vote in an election for trustees advises the Board, in writing, that they wish the vacancy to be filled by an election.
   (8) An election to fill a casual vacancy for an elected trustee must be held,—
-    (a) if the Board resolved under subsection (4)(a) to hold an election, on the 15th Friday after the date on which the vacancy occurred, or on any earlier date fixed by the Board at least 6 weeks before the election date; or
+    (a) if the Board resolved under subsection (4)﻿(a) to hold an election, on the 15th Friday after the date on which the vacancy occurred, or on any earlier date fixed by the Board at least 6 weeks before the election date; or
     (b) if the Board holds an election as a result of a request under subsection (7), on the 10th Friday after receiving the request, or on any earlier date fixed by the Board at least 6 weeks before the election date.
   (9) If the Board resolved under subsection (4) to fill a casual vacancy by selection, then, once the last date for lodging a request under subsection (7) has passed, the Board must select a person within 6 weeks of that date, and the person selected takes office on the day of selection by the Board.
   (10) This Act applies to a trustee selected under this section to fill a casual vacancy of an elected trustee as if the person had been elected, and every reference to an elected trustee (except in subsection (6)) includes a reference to a trustee so selected.
@@ -121,22 +121,22 @@ Section 101 is amended by repealing subsection (4) and substituting the followin
 
 ### 16 Boards may combine
 (1) Section 110(1) is amended by omitting establish a combined Board for the schools or institutions that the applicant Boards administer and substituting establish a single Board (called a combined Board) to administer all the schools or institutions concerned.
-(2) Section 110 is amended by omitting applicant from subsections (3)(b) and (4) and substituting in each case existing.
+(2) Section 110 is amended by omitting applicant from subsections (3)﻿(b) and (4) and substituting in each case existing.
 
 **Teacher registration**
 
 ### 17 Interpretation
-(1) Section 120 is amended by repealing paragraphs (a) and (b) of the definition of early childhood education and care service and substituting the following paragraphs:.
+(1) Section 120 is amended by repealing paragraphs (a) and (b) of the definition of early childhood education and care service and substituting the following paragraphs:
   (a) a free kindergarten that is an early childhood service whose licence permits no child to attend for a period of more than 4 hours on any day; and
   (b) any other early childhood service that is declared by regulations made under section 69(2) of the Education Standards Act 2001 to be an early childhood education and care service for the purposes of this Part
-(2) Regulation 4 of the Education (Registration of Early Childhood Services Teachers) Regulations 2004 is consequentially amended by revoking subclause (2)(a) and substituting the following paragraph:.
+(2) Regulation 4 of the Education (Registration of Early Childhood Services Teachers) Regulations 2004 is consequentially amended by revoking subclause (2)﻿(a) and substituting the following paragraph:
   (a) a free kindergarten that is an early childhood service whose licence permits no child to attend for a period of more than 4 hours on any day:
 
 ### 18 Restrictions on continued employment of teachers
-Section 120B(4)(b) is amended by omitting Board and substituting Teachers Council.
+Section 120B(4)﻿(b) is amended by omitting Board and substituting Teachers Council.
 
 ### 19 Appeals from decisions of Teachers Council
-(1) Section 126(1) is amended by omitting 127(5), or 129(1)(a), (b), or (c) and substituting 129(1)(a) or (b), or 130.
+(1) Section 126(1) is amended by omitting 127(5), or 129(1)﻿(a), (b), or (c) and substituting 129(1)﻿(a) or (b), or 130.
 (2) Section 126(7) is amended by omitting the High Court in the second place where it appears and substituting the District Court.
 
 ### 20 Expiry of registration
@@ -169,20 +169,20 @@ Section 129 is repealed and the following section substituted:Cancellation of re
       (i) in the case of a teacher, the teacher no longer satisfies the requirements for registration as a teacher (as set out in section 122); or
       (ii) in the case of an authorised person, the person no longer satisfies the requirements for holding a limited authority to teach (as set out in section 130B(2)); or
     (b) the Teachers Council is satisfied on reasonable grounds that the registration or authorisation was effected by mistake or obtained by fraud; or
-    (c) the Disciplinary Tribunal has ordered, under section 139AW(1)(g), that the registration or limited authority to teach be cancelled; or
-    (d) the Teachers Council has ordered, under section 139AZC(8)(c), that the registration or limited authority to teach be cancelled.
-  (2) The Teachers Council may not cancel a teacher's registration or an authorised person's limited authority to teach under subsection (1)(a) or (b) without first—
+    (c) the Disciplinary Tribunal has ordered, under section 139AW(1)﻿(g), that the registration or limited authority to teach be cancelled; or
+    (d) the Teachers Council has ordered, under section 139AZC(8)﻿(c), that the registration or limited authority to teach be cancelled.
+  (2) The Teachers Council may not cancel a teacher's registration or an authorised person's limited authority to teach under subsection (1)﻿(a) or (b) without first—
     (a) taking all reasonable steps to ensure that the teacher or authorised person is given notice of the reasons for the proposed cancellation; and
     (b) giving the teacher or authorised person a reasonable opportunity to make submissions and be heard, either in person or by counsel or other representative, on the proposed cancellation.
   (3) The fact that a teacher's registration or an authorised person's limited authority to teach has been cancelled does not prevent the teacher or authorised person from again being registered or being given a limited authority to teach.
-  (4) If a person's registration is ordered to be cancelled under section 139AZC(8)(c), and the person later applies for registration or for a limited authority to teach, he or she must be treated as a person who has not held a practising certificate for 5 years.
+  (4) If a person's registration is ordered to be cancelled under section 139AZC(8)﻿(c), and the person later applies for registration or for a limited authority to teach, he or she must be treated as a person who has not held a practising certificate for 5 years.
   (5) The Teachers Council must take all reasonable steps to ensure that employers are informed of the name of every person whose registration or limited authority to teach is cancelled—
     (a) under this section; or
     (b) as a result of the Teachers Council refusing to renew the person's registration, or to grant a limited authority to teach, on the ground that the person is not of good character or is not fit to be a teacher.
 
 ### 24 New section 129A inserted
 The following section is inserted after section 129:Reclassification of teacher's registration
-  (1) The Teachers Council may, instead of cancelling a teacher's registration under section 129(1)(a), reclassify the registration if the Teachers Council is satisfied that the only requirement that the teacher does not meet is the requirement for recent teaching experience (as required by section 122(d)).
+  (1) The Teachers Council may, instead of cancelling a teacher's registration under section 129(1)﻿(a), reclassify the registration if the Teachers Council is satisfied that the only requirement that the teacher does not meet is the requirement for recent teaching experience (as required by section 122(d)).
   (2) If a teacher's registration is reclassified, the registration must show that it is subject to confirmation; and this Act applies as if the teacher were registered under section 124(1).
 
 ### 25 Authorisation may be renewed
@@ -192,11 +192,11 @@ Section 130E is amended by omitting the heading and substituting the heading Per
 
 ### 26 No corporal punishment in early childhood centres or registered schools
 (1) The heading to section 139A is amended by omitting centres and substituting services.
-(2) Section 139A(1) is amended by repealing paragraphs (c) and (d) and substituting the following paragraphs:.
+(2) Section 139A(1) is amended by repealing paragraphs (c) and (d) and substituting the following paragraphs:
   (c) is employed at an early childhood service (as defined in section 309); or
   (d) owns, manages, or controls an early childhood service (as so defined),—
 (3) Section 139A(1) is amended by omitting centre where it appears after paragraph (d) and substituting service.
-(4) Section 139A(2) is amended by repealing paragraph (c) and substituting the following paragraph:.
+(4) Section 139A(2) is amended by repealing paragraph (c) and substituting the following paragraph:
   (c) on behalf of the service provider of an early childhood service (as defined in section 309) any child enrolled at or attending the service,—
 
 **Teachers Council**
@@ -210,8 +210,8 @@ Section 139AQ is amended by repealing subsections (2) and (3) and substituting t
   (3C) The majority of members on the Disciplinary Tribunal, and on every panel of the Disciplinary Tribunal, must be registered teachers.
 
 ### 28 Complaints and reports relating to teacher conduct
-(1) Section 139AS(1)(a) is amended by omitting relate and substituting relates.
-(2) Section 139AS(1)(b) is repealed.
+(1) Section 139AS(1)﻿(a) is amended by omitting relate and substituting relates.
+(2) Section 139AS(1)﻿(b) is repealed.
 
 ### 29 Powers of Complaints Assessment Committee
 (1) Section 139AT(2) is amended by omitting a complaint or report referred to it under section 139AS,— and substituting any matter other than a conviction to which section 139AV relates, do any of the following:.
@@ -243,7 +243,7 @@ Section 139AQ is amended by repealing subsections (2) and (3) and substituting t
 Section 139AU(1) is amended by inserting possible after a complaint of.
 
 ### 32 Powers of Disciplinary Tribunal
-Section 139AW(1) is amended by repealing paragraph (g) and substituting the following paragraph:.
+Section 139AW(1) is amended by repealing paragraph (g) and substituting the following paragraph:
   (g) order that the teacher's registration or authority be cancelled (see section 129(1)):
 
 ### 33 Offences relating to witnesses
@@ -329,16 +329,16 @@ Section 155 is amended by inserting the following subsection after subsection (3
 (2) Section 156A(4A) is repealed.
 
 ### 41 Consultations
-Section 157(3) is amended by inserting the following paragraph after paragraph (f):.
+Section 157(3) is amended by inserting the following paragraph after paragraph (f):
   (fa) redesignate, or remove a designation from, a school under section 154A; or
 
 **Tertiary education**
 
 ### 42 Preparing charters
-Section 159O(1)(a) is amended by omitting and publish a list of them in at least 1 daily newspaper circulating in each area served by the organisation.
+Section 159O(1)﻿(a) is amended by omitting and publish a list of them in at least 1 daily newspaper circulating in each area served by the organisation.
 
 ### 43 Expiry of charters
-Section 159T(1)(b) is amended by adding , or any earlier date as agreed with the Minister.
+Section 159T(1)﻿(b) is amended by adding , or any earlier date as agreed with the Minister.
 
 ### 44 Disclosure of enrolment information by institutions
 Section 226A(1) is amended by adding , or identified by Gazette notice under section 307AB to the definition of allowance.
@@ -351,7 +351,7 @@ Section 238B(1) is amended by adding , or identified by Gazette notice under sec
 ### 46 Interpretation
 The definition of provider in section 238D is amended by—
   (a) adding ; or to the end of paragraph (c); and
-  (b) adding the following paragraph:.
+  (b) adding the following paragraph:
     (d) an organisation that provides adult and community education and receives funding under section 159ZC
 
 **Student allowances**
@@ -465,7 +465,7 @@ Part 26 is repealed, and the following Part substituted:Early childhood educatio
     (c) may be withheld in whole or in part if the service provider fails to comply with any regulations made under section 317 or section 319 or any conditions of the licence or certificate.
   (6) The service provider must ensure that—
     (a) where a grant has been paid subject to conditions, the conditions are complied with; and
-    (b) if a grant has been paid to be used only for purposes specified by the Minister under subsection (5)(b), the grant is used only for those purposes.
+    (b) if a grant has been paid to be used only for purposes specified by the Minister under subsection (5)﻿(b), the grant is used only for those purposes.
   The Minister may, on any terms and conditions the Minister considers appropriate, lend to the service provider for any licensed early childhood service public money appropriated by Parliament for the purpose.
   The service provider for every licensed early childhood service must keep, and make available to the Secretary on request,—
     (a) a register of the children who attend or have attended the service, specifying the date of birth of each; and
@@ -491,8 +491,8 @@ Part 26 is repealed, and the following Part substituted:Early childhood educatio
     (b) the service provider ceases to operate an early childhood education and care centre for which it holds a current licence under regulations made under section 317 authorising the operation of the centre, in circumstances other than an emergency, without first telling the Secretary that it will stop operating the centre; or
     (c) the service provider ceases to operate the early childhood education and care centre for which it holds a current licence under regulations made under section 317 authorising the operation of the centre, in circumstances involving an emergency, and fails to tell the Secretary as soon as is reasonably practicable after the closure.
   (3) An offence against subsection (2) is punishable on summary conviction,—
-    (a) in the case of an offence under subsection (2)(a), by a fine not exceeding $200 for every day or part of a day on which the offence took place; or
-    (b) in the case of an offence under subsection (2)(b) or (c), by a fine not exceeding $200.
+    (a) in the case of an offence under subsection (2)﻿(a), by a fine not exceeding $200 for every day or part of a day on which the offence took place; or
+    (b) in the case of an offence under subsection (2)﻿(b) or (c), by a fine not exceeding $200.
   (4) This section is subject to section 319O.
   A service provider for a home-based education and care service or a hospital-based education and care service may, but need not, apply for a licence under regulations made under section 317 in respect of the home-based education and care service or hospital-based education and care service provided by the service provider.
   (1) The Governor-General may, by Order in Council, make regulations providing for either or both of the following—
@@ -550,7 +550,7 @@ Part 26 is repealed, and the following Part substituted:Early childhood educatio
     (a) enter and inspect any premises that are or contain a licensed early childhood education and care centre or that are used to provide a licensed home-based education and care service or a licensed hospital-based education and care service, or that are used by a certificated playgroup:
     (b) inspect, photocopy, print out, or copy onto disk any documents (whether held in electronic or paper form) that the person believes on reasonable grounds to be those of the licensed early childhood service or certificated playgroup:
     (c) remove any document described in paragraph (b), whether in its original form or as an electronic or paper copy.
-  (2) If any document is removed from premises under subsection (1)(c), the person who removes it must—
+  (2) If any document is removed from premises under subsection (1)﻿(c), the person who removes it must—
     (a) leave at the premises a list of the documents removed; and
     (b) return the documents, or a copy of them, to the premises as soon as practicable, unless to do so would prejudice any investigation being or to be carried out by the Ministry.
   (3) The Secretary may authorise in writing any person, who in the opinion of the Secretary is suitably qualified and trained in the exercise of powers under subsection (1), to exercise those powers.
@@ -577,7 +577,7 @@ Part 26 is repealed, and the following Part substituted:Early childhood educatio
     (b) whenever subsequently reasonably required to do so by that occupier.
   (6) Every warrant issued under subsection (2) expires on the earlier of the following dates:
     (a) the date when the purpose for which it was issued has been satisfied; or
-    (b) the date specified as the date of expiry under subsection (3)(d).
+    (b) the date specified as the date of expiry under subsection (3)﻿(d).
   (1) Before appointing a person who is not a registered teacher or holder of a limited authority to teach to a permanent position at a licensed early childhood service, the service provider for the service must obtain a police vet of the person from the New Zealand Teachers Council.
   (2) The service provider for every licensed early childhood service must apply to the New Zealand Teachers Council for a police vet of every person who is employed by the service provider but is not a registered teacher or holder of a limited authority to teach—
     (a) within 2 weeks of first employing the person on a casual or temporary basis at the service; or
@@ -620,14 +620,14 @@ Part 26 is repealed, and the following Part substituted:Early childhood educatio
     (c) an occupancy document notified to the service provider who operates the centre by the Secretary.
   (3) The Secretary may from time to time amend an occupancy document by written notice to the service provider who operates the centre.
   (1) Subject to subsections (2), (3), and (6), every early childhood centre that, immediately before the commencement of this section, was licensed as an early childhood centre is deemed to be licensed as an early childhood education and care centre under this subsection, and continues to be so licensed—
-    (a) for the relevant period, and in accordance with the regulations referred to in section 319N(1)(a) and (b); or
+    (a) for the relevant period, and in accordance with the regulations referred to in section 319N(1)﻿(a) and (b); or
     (b) if the service provider who operates that centre applies within the relevant period for a licence in accordance with regulations made under section 317, until that application is determined.
   (2) Despite subsection (1), the Secretary may give written notice to the service provider of an early childhood education and care centre that is deemed to be licensed under subsection (1), requiring the service provider who operates that centre to apply for a licence under regulations made under section 317 within 3 months of the date of that notice, and—
     (a) if that service provider fails to make such an application within the specified period, the centre ceases to be licensed under subsection (1) at the end of that period; or
     (b) if that service provider makes such an application within the required period, the centre continues to be licensed under subsection (1) until that application has been determined.
   (3) Despite subsection (1), if subsection (4) applies, the Secretary may, by written notice to the service provider who operates an early childhood education and care centre that is deemed to be licensed under subsection (1), declare that the centre is no longer licensed under subsection (1) and the notice has effect accordingly.
   (4) The Secretary may give a notice under subsection (3) only if the Secretary is satisfied that the service provider or the centre—
-    (a) does not comply with the regulations referred to in section 319N(1)(a) and (b); or
+    (a) does not comply with the regulations referred to in section 319N(1)﻿(a) and (b); or
     (b) does not comply with any conditions of the licence.
   (5) The Secretary may, despite the fact that the centre concerned does not meet the minimum requirements for the issue of a licence under regulations made under section 317, issue to the service provider operating the centre a transitional licence under those regulations that—
     (a) expires on a date specified in the licence (being a date that is not later than 18 months after the date of issue); and
@@ -635,11 +635,11 @@ Part 26 is repealed, and the following Part substituted:Early childhood educatio
   (6) If the Secretary is not satisfied that the conditions specified in a licence issued in circumstances described in subsection (5) are being complied with, the Secretary may, by written notice to the service provider operating the centre, cancel the licence.
   (7) Every notice under subsection (3) or subsection (6) must give reasons for the action taken.
   (8) Every early childhood centre must, while it is deemed to be licensed under subsection (1), be treated for the purposes of this Act as an early childhood centre licensed under regulations made under section 317 (as inserted by section 53 of the Education Amendment Act 2006).
-  (9) Subsections (1) to (6) do not limit any powers to cancel, suspend, or reclassify a licence conferred by the regulations referred to in section 319N(1)(a) and (b).
+  (9) Subsections (1) to (6) do not limit any powers to cancel, suspend, or reclassify a licence conferred by the regulations referred to in section 319N(1)﻿(a) and (b).
   (10) In this section, relevant period means,—
     (a) in relation to an early childhood centre for which a probationary licence was in force immediately before the commencement of this section, the period expiring on—
       (i) the date specified in the probationary licence as the date on which it expires; or
-      (ii) if a full licence is obtained under the regulations referred to in section 319N(1)(a) and (b) before the expiry of that probationary licence, the date that is 6 years after the commencement of this section:
+      (ii) if a full licence is obtained under the regulations referred to in section 319N(1)﻿(a) and (b) before the expiry of that probationary licence, the date that is 6 years after the commencement of this section:
     (b) in relation to an early childhood centre for which a provisional or full licence was in force immediately before the commencement of this section, the date that is 6 years after the commencement of this section.
   (1) Subject to subsections (2) and (3), every care arranger who, immediately before the commencement of this section, was a chartered care arranger is deemed to be a service provider who is licensed to operate a home-based education and care service for—
     (a) a period of 6 years after the commencement of this section; or
@@ -648,8 +648,8 @@ Part 26 is repealed, and the following Part substituted:Early childhood educatio
     (a) if that service provider fails to make such an application within the specified period, the home-based education and care service provided by that service provider ceases to be licensed under subsection (1) at the end of that period; or
     (b) if that service provider makes such an application within the required period, the service continues to be licensed under subsection (1) until that application has been determined.
   (3) Despite subsection (1), if subsection (4) applies, the Secretary may by written notice to the service provider who provides the home-based education and care service that is deemed to be licensed under subsection (1), declare that the service is no longer licensed under subsection (1) and the notice has effect accordingly.
-  (4) The Secretary may give a notice under subsection (3) only if the Secretary is satisfied that the service is not provided in a way that complies with the code of practice set out in the order referred to in section 319N(1)(c).
-  (5) The Secretary may, despite the fact that the service provider or service concerned does not meet the minimum requirements for the issue of a licence under regulations made under section 317 or the service concerned is not provided in a way that complies with the code of practice set out in the order referred to in section 319N(1)(c), issue to the service provider providing the service a transitional licence under those regulations that—
+  (4) The Secretary may give a notice under subsection (3) only if the Secretary is satisfied that the service is not provided in a way that complies with the code of practice set out in the order referred to in section 319N(1)﻿(c).
+  (5) The Secretary may, despite the fact that the service provider or service concerned does not meet the minimum requirements for the issue of a licence under regulations made under section 317 or the service concerned is not provided in a way that complies with the code of practice set out in the order referred to in section 319N(1)﻿(c), issue to the service provider providing the service a transitional licence under those regulations that—
     (a) expires on a date specified in the licence (being a date that is not later than 18 months after the date of issue); and
     (b) is subject to any conditions specified on it.
   (6) If the Secretary is not satisfied that the conditions specified in a licence issued in circumstances described in subsection (5), are being complied with, the Secretary may, by written notice to the service provider providing the service, cancel the licence.
@@ -665,8 +665,8 @@ Part 26 is repealed, and the following Part substituted:Early childhood educatio
     (b) the Education (Early Childhood Centres) Fees Regulations 1990 (SR 1990/262):
     (c) the Education (Home-Based Care) Order 1992 (SR 1992/238).
   (2) Despite subsection (1), the regulations referred to in subsection (1) are not to be treated as regulations made under section 317 (as inserted by section 53 of the Education Amendment Act 2006) for the purposes of the following provisions:
-    (a) section 319K(1)(b), (2), and (5); and
-    (b) section 319L(1)(b), (2), and (5); and
+    (a) section 319K(1)﻿(b), (2), and (5); and
+    (b) section 319L(1)﻿(b), (2), and (5); and
     (c) section 319O(1).
   (3) The regulations and order referred to in subsection (1) may be amended under section 317.
   (1) The service provider for an early childhood education and care centre, that immediately before the commencement of this section was a licence-exempt centre, may continue to operate that centre without a licence issued under regulations made under section 317 for a period that expires 6 years after the date of the commencement of this section.
@@ -727,9 +727,9 @@ Clause 7 of Schedule 6 is repealed and the following clause substituted:One trus
 
 ### 56 Education Standards Act 2001 amended
 (1) Section 69(2) of the Education Standards Act 2001 is amended by inserting (as defined in section 120 of the principal Act) after early childhood services where it first appears.
-(2) Section 69(2) of the Education Standards Act 2001 is amended by repealing paragraph (b)(ii) and substituting the following:
+(2) Section 69(2) of the Education Standards Act 2001 is amended by repealing paragraph (b)﻿(ii) and substituting the following:
   (ii) early childhood services or persons employed in teaching positions at those early childhood services:
-(3) Section 69(2)(c) of the Education Standards Act 2001 is amended by omitting education and care services (other than free kindergartens) and substituting services.
+(3) Section 69(2)﻿(c) of the Education Standards Act 2001 is amended by omitting education and care services (other than free kindergartens) and substituting services.
 
 ### 57 Consequential amendments to principal Act
 The principal Act is consequentially amended in the manner set out in Schedule 1.
