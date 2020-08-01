@@ -1,5 +1,5 @@
 # Maori Soldiers Trust Act 1957
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2020-08-01_
 
 > An Act to provide for the establishment and administration of a trust for the benefit of Maori veterans of the First World War and for the establishment and administration of a scholarship fund to commemorate the services of the late Sir Apirana Ngata to the Maori people
 
@@ -71,7 +71,7 @@ The money which, in accordance with section 3, is held by the Maori Trustee for 
 (4) Subject to the provisions of this section, every member of the Committee appointed under paragraph (c) of subsection (2) shall be appointed for a term of 2 years but any member retiring from office may from time to time be reappointed.
 (4A) At the expiration of 3 years after the date of the initial appointment of any such members in office at the commencement of this subsection, 3 of those members, who shall be selected by the Committee by unanimous vote of the Committee or, failing any such vote, by lot, shall retire from office. At the end of the next succeeding year the remaining 3 members shall retire and thereafter the members shall retire at the expiration of 2 years after the date of their appointment.
 (4B) Any such member may be removed from office by the Minister for inability to perform the functions of the office, bankruptcy, neglect of duty, or misconduct proved to the satisfaction of the Minister, or may at any time resign his office by writing addressed to the Minister. In the case of a vacancy in the membership of the Committee, the Minister may appoint some qualified person to fill the vacancy. Any such appointment shall be made in the same manner as the appointment of the vacating member. Every person so appointed shall hold office for the residue of the term for which his predecessor was appointed.
-(5) For the purpose of advising the Trust Committee with respect to the expenditure of money from the Scholarship Fund, the Trust Committee may invite to any of its meetings the Director of Education and the chairman of the University Grants Committee or any person nominated by either of them for the purpose.
+(5) For the purpose of advising the Trust Committee with respect to the expenditure of money from the Scholarship Fund, the Trust Committee may invite to any of its meetings the Secretary for Education and the chairman of the University Grants Committee or any person nominated by either of them for the purpose.
 (6) The powers of the Trust Committee shall not be affected by any vacancy in the membership thereof.
 
 ### 9 Application of money in Soldiers Fund Account
