@@ -1,5 +1,5 @@
 # Food Act 2014
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Food Act 2014.
@@ -4365,7 +4365,7 @@ The chief executive must enter the outcome of each review of a decision describe
   (d) the Medicines Act 1981; or
   (e) the Fair Trading Act 1986; or
   (f) the New Zealand Horticulture Export Authority Act 1987; or
-  (g) the Education Act 1989; or
+  (g) the Education and Training Act 2020; or
   (h) the Commodity Levies Act 1990; or
   (i) the Resource Management Act 1991; or
   (j) the Biosecurity Act 1993; or
