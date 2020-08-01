@@ -1,5 +1,5 @@
 # Education (Student Allowances Indexation—Budget Measures) Amendment Act 2012
-_Consolidation as at 2012-10-23_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Education (Student Allowances Indexation—Budget Measures) Amendment Act 2012.
