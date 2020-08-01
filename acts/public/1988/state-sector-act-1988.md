@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2020-03-19_
+_Consolidation as at 2020-08-01_
 
 > Title
 
@@ -42,29 +42,12 @@ In this Act, unless the context otherwise requires,—
   - **department** has the meaning given to it by section 27A
   - **departmental agency** has the meaning given to it by section 27A
   - **Deputy Commissioner** means the Deputy State Services Commissioner appointed under section 12
-  - **education service** means—
-    (a) service in the employment of—
-      (i) any State school; or
-      (ii) any integrated school within the meaning of Part 33 of the Education Act 1989; or
-      (iii) any tertiary institution; or
-      (iv) any other educational institution for which a separate employer for the purposes of this Act is designated by any enactment or by the Minister:
-    (b) service as a registered teacher in the employment of any free kindergarten association that controls a free kindergarten within the meaning of section 120 of the Education Act 1989:
-    (c) service as a teacher in the employment of the Secretary under section 91N of the Education Act 1989
+  - **education service** has the same meaning as in section 10(7) of the Education and Training Act 2020
   - **employee** , in relation to the State services,—
     (a) means an employee in any part of the State services, whether paid by salary, wages, or otherwise; but
     (b) does not include any chief executive
       (i)
       (ii)
-  - **employer** ,—
-    (a) in relation to any institution that is subject to Part 9 of the Education Act 1989, means—
-      (i) the Board of Trustees; or
-      (ii) where a Commissioner has been appointed under the Education Act 1989 to act in place of the Board of Trustees, that Commissioner:
-    (b) in relation to any free kindergarten within the meaning of section 120 of the Education Act 1989, means the free kindergarten association by which that free kindergarten is controlled:
-    (c) in relation to any tertiary education institution, means the chief executive of that institution:
-    (d) in relation to any other institution, means—
-      (i) the person or body designated by any enactment as the employer for the purposes of this Act in respect of that institution; and
-      (ii) where no such person or body is so designated, means any person or body designated for that purpose by the Minister:
-    (e) in relation to the employment of a person as a teacher under section 91N of the Education Act 1989, means the Secretary (as defined in section 2(1) of that Act)
   - **employment agreement** means a contract of service
   - **host department** has the meaning given to it by section 27A
   - **individual employment agreement** means an employment agreement that is binding on only 1 employer and 1 employee who is not bound by a collective agreement that binds the employer
@@ -97,7 +80,7 @@ In this Act, unless the context otherwise requires,—
       (vi) any tertiary education institution
   - **stewardship** means active planning and management of medium- and long-term interests, along with associated advice
   - **strike** has the meaning given to it by section 81 of the Employment Relations Act 2000
-  - **tertiary education institution** means an institution within the meaning of section 159(1) of the Education Act 1989
+  - **tertiary education institution** has the same meaning as institution in section 10(1) of the Education and Training Act 2020
   - **union** means a union registered under Part 4 of the Employment Relations Act 2000.
 
 ### 2A Status of examples
@@ -885,119 +868,43 @@ Despite the provisions of section 68,—
 ## Part 7 — Education service
 
 ### 73 Application of Employment Relations Act 2000
-Except as otherwise provided in this Act, the Employment Relations Act 2000 applies in relation to the education service.
+[Repealed]
 
 ### 74 Negotiation of conditions of employment
-(1) Except as provided in section 74C, the Commissioner is responsible for negotiating under the Employment Relations Act 2000 every collective agreement applicable to employees of the education service as if the Commissioner were the employer.
-(2) Without limiting subsection (1), it is declared that, for the purposes of initiating bargaining for a collective agreement, good faith bargaining for a collective agreement, and entering into collective agreements,—
-  (a) the Commissioner has the same rights, duties, and obligations under the Employment Relations Act 2000 as the Commissioner would have if the Commissioner were the employer; and
-  (b) employees of the education service are to be treated as if they were all employees of the Commissioner.
-(3) Unless otherwise directed in writing by the Commissioner, an employer in the education service must not lock out employees or suspend striking employees in relation to negotiations by the Commissioner for a collective agreement applicable to those employees.
-(4) The Commissioner must conduct the negotiations—
-  (a) with a union of which the employees are members; and
-  (b) in consultation with—
-    (i) the chief executive of the Ministry of Education; and
-    (ii) representatives of the employer or employers who will be bound by the collective agreement, which representatives must be employers or organisations of employers, of persons employed in the education service.
-(5) Every collective agreement must be entered into between—
-  (a) the Commissioner; and
-  (b) a union of which the employees to whom the collective agreement is applicable are members.
-(6) Every collective agreement entered into between the Commissioner and any union and relating to employees in the education service is binding on—
-  (a) the employers of the employees to whom the collective agreement is applicable; and
-  (b) the employees in the education service who are, or who become, members of the union.
-(7) Except as provided in this section, an employer who is bound by a collective agreement under subsection (6) has the rights, obligations, and duties that that employer would have, in respect of that collective agreement, under the Employment Relations Act 2000 as if that employer were a party to that agreement.
+[Repealed]
 
 ### 74AA Commissioner's powers when collective agreements are negotiated
-(1) During the negotiations for a collective agreement that is to bind any employees of a Board of Trustees, the Commissioner has, for the purpose of those negotiations, all the rights, duties, and powers of an employer under the Employment Relations Act 2000 in respect of those employees.
-(2) To avoid doubt and without limiting the generality of subsection (1), it is declared that the powers referred to in that subsection include the power to lock out or suspend employees.
-(3) Despite subsection (1), in the case of employees who are members of a union, the Commissioner may, where there is a strike, exercise the power of suspension by advising the union of the class or classes of employees who are, or are to be, suspended, and, if the union is so advised, the suspension takes effect on the date specified for the purpose in the advice, and the Commissioner need not—
-  (a) separately advise any employee who is included in any such class; or
-  (b) comply with section 89 of the Employment Relations Act 2000.
-(4) In any case where the Commissioner has suspended or locked out an employee by virtue of this section, the Commissioner may, at his or her discretion, give either or both of the following directions:
-  (a) that the employee is not to be remunerated in respect of the period of the suspension or lockout:
-  (b) that any amount paid to the employee in respect of that period be deducted from any remuneration otherwise payable to the employee.
-(5) Any direction under subsection (4)—
-  (a) may be given to any person responsible for effecting payments or transfers of sums of money required for the remuneration of the employee; and
-  (b) must be followed by the person.
-(6) The Commissioner may give any notice that, as a result of a direction under subsection (4)﻿(b), is required to be given to an employee under section 6(3)﻿(b) of the Wages Protection Act 1983.
-(7) Subsection (1)—
-  (a) overrides section 77E(2); and
-  (b) is subject to sections 74AC and 74AD.
-(8) In this section and in sections 74AB to 74AD, Board of Trustees means a Board of Trustees constituted under Part 9 of the Education Act 1989, and includes any Commissioner appointed under that Act to act in place of the Board of Trustees.
+[Repealed]
 
 ### 74AB Boards of Trustees indemnified by Commissioner
-(1) If, in any claim or proceedings, a Board of Trustees becomes liable for costs or damages that arise from the exercise or purported exercise of any of the powers conferred on the Commissioner by section 74AA, the Commissioner must, out of an appropriation by Parliament, indemnify the Board for those costs or damages.
-(2) However, a Board of Trustees may not be indemnified for any costs or damages to the extent that those costs or damages arise out of conduct of the Board that, in the reasonable opinion of the Commissioner,—
-  (a) is not in good faith; or
-  (b) is engaged in without reasonable care.
+[Repealed]
 
 ### 74AC Strikes in schools to be notified
-(1) A strike by employees of any Board of Trustees is not lawful for the purposes of the Employment Relations Act 2000 unless the Commissioner and each Board of Trustees is given notice in written or electronic form of the proposed strike 3 days before the commencement of the proposed strike.
-(2) The notice required by subsection (1) must state—
-  (a) the nature of the proposed strike, including whether or not the proposed action will be continuous; and
-  (b) the school or schools that will be affected by the proposed strike; and
-  (c) the period of the proposed strike, which is to be specified by giving—
-    (i) the date and time on which the proposed strike is to commence; and
-    (ii) the date and time on which, or an event on the occurrence of which, the proposed strike is to end.
-(3) The notice must be signed by a representative of the employees' union.
-(4) Unless the notice is withdrawn before the commencement of the strike, every employee is, throughout the period stated in the notice, deemed to participate in the strike if—
-  (a) the employee's duties are normally performed in a school affected by the strike; and
-  (b) the strike relates to the negotiation of a collective agreement that will bind the employee; and
-  (c) the employee's name has not been notified to the Commissioner in a current notice given under section 74AD.
-(4A) A notice required under subsection (1) may be withdrawn at any time by a representative of the employees' union giving written or electronic notice of the withdrawal to the Commissioner and each Board of Trustees.
-(5) The provisions of this section are in addition to, and not in derogation of, the provisions of the Employment Relations Act 2000.
+[Repealed]
 
 ### 74AD Employers to notify Commissioner about participation in strikes
-(1) As soon as reasonably practicable after the commencement of a strike notified under section 74AC, the Board of Trustees of each school to which the notice relates must—
-  (a) provide the Commissioner with a list of the names of the employees of the Board who are not participating in the strike notified by the notice; and
-  (b) notify each of those employees that he or she has been included in the list.
-(2) A Board of Trustees that has complied, or is to comply, with subsection (1) must, at the written direction of the Commissioner, provide the Commissioner with any information required by the Commissioner about the conduct of the strike to which the notice under section 74AC relates.
-(3) Information under subsection (2) may, without limitation, include, or consist of, information about the number of hours worked by any employee or any class of employee.
-(4) The Commissioner may, at the Commissioner's discretion, require a Board of Trustees to inform the Commissioner, by a specified date, as to the Board of Trustees' compliance with the provisions of, or any directions given under, this section.
-(5) If the Commissioner has reasonable grounds for believing that a Board of Trustees has failed to comply with the provisions of, or any directions given under, this section, the Commissioner may report those grounds to the Minister of the Crown who is for the time being responsible for the administration of Part 8A of the Education Act 1989.
+[Repealed]
 
 ### 74A Personal grievances and disputes
-Despite the provisions of section 74,—
-  (a) in relation to a personal grievance, the employer is the employer as defined in section 2; and
-  (b) in relation to a dispute about the interpretation, application, or operation of any collective agreement, the employer is the employer as defined in section 2, acting, if the Commissioner so requires, together or in consultation with the Commissioner; and
-  (c) in relation to any other employment relationship problem (within the meaning of the Employment Relations Act 2000), the employer is the employer as defined in section 2.
+[Repealed]
 
 ### 74B Delegation of Commissioner's powers
-(1) The Commissioner may from time to time delegate, in writing, to—any of the Commissioner's powers under section 74.
-  (a) an employer; or
-  (b) any organisation of employers of persons employed in the education service—
-(2) Where the Commissioner, acting under subsection (1), delegates to an employer or an organisation of employers the function, under section 74(1), of conducting negotiations with a union of which the employees are members, the employer or organisation of employers must conduct those negotiations in consultation with—
-  (a) the Commissioner; and
-  (b) the chief executive of the Ministry of Education.
-(3) Nothing in this section limits the provisions of section 23.
+[Repealed]
 
 ### 74C Negotiation of conditions of employment for employees of tertiary education institutions
-(1) For the period beginning with the commencement of this section and ending with the close of 31 December 1991, the Commissioner shall be responsible for negotiating under the Employment Contracts Act 1991 collective employment contracts that cover or that are proposed to cover any group of employees in any tertiary education institution. The negotiations conducted by the Commissioner under this subsection shall be conducted in consultation with the representatives of the employer or employers who will be bound by the proposed collective employment contracts, which representatives shall be employers, or organisations of employers, of persons employed in a tertiary education institution.
-(2) On and after 1 January 1992, the chief executive of each tertiary education institution shall be responsible either—for negotiating under the Employment Relations Act 2000 collective agreements that are applicable to any group of employees in any tertiary education institution.
-  (a) individually; or
-  (b) jointly through any organisation of employers of persons employed in any tertiary education institution—
-(3) Before entering into any collective agreement under the Employment Relations Act 2000, the chief executive of each tertiary education institution or any organisation of employers representing jointly such chief executives, must consult with the State Services Commissioner over the conditions of employment to be included in the collective agreement.
+[Repealed]
 
 ### 74D Senior positions at tertiary education institutions
-(1) The conditions of employment of every person appointed to a senior position at a tertiary education institution who is not bound by any collective employment agreement shall be determined in each case by agreement between the employer and the person to be appointed but the employer shall consult with the State Services Commissioner before finalising the conditions of employment.
-(2) For the purposes of subsection (1), a senior position means the position or positions immediately below, in seniority, the position of the chief executive of the tertiary education institution, and such other positions as the Council of the institution may from time to time designate as being senior positions within the institution.
+[Repealed]
 
 ### 75 Actual conditions of employment
-(1) The Commissioner may declare that all or any part of the conditions of employment fixed under a collective agreement for persons employed in the education service are to be the actual conditions of employment.
-(1A) The Commissioner may, in addition to the actual conditions declared under subsection (1), approve further conditions of employment for an individual employee who is employed in the education service under a collective agreement if the conditions are—
-  (a) mutually agreed by the employee and his or her employer; and
-  (b) not inconsistent with the conditions of the collective agreement.
-(2) The conditions of employment of employees in the education service who are not bound by any collective agreement shall be determined in each case by agreement between the employer and the individual employee, but the employer shall obtain the written concurrence of the Commissioner to the conditions of employment with that individual employee.
-(3) The Commissioner, in carrying out the function under subsection (2), may promulgate in writing to employers, either generally or specifically, the conditions of employment for persons who are to have their conditions of employment determined in accordance with that subsection. Where the conditions of employment agreed between the employer and the person to be appointed comply with the conditions of employment promulgated by the Commissioner, the employer shall, without any further action, be deemed to have obtained the written concurrence of the Commissioner to those conditions of employment.
-(4) In this section, education service excludes service in the employment of a tertiary education institution.
+[Repealed]
 
 ### 76 Offence to attempt to influence employer
-(1) Every person commits an offence against this section who directly or indirectly solicits or endeavours to influence, with respect to decisions on the matters described in section 77F, any employer or any other person or persons to whom the employer has, under this Act or any other Act, delegated powers.
-(2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $2,000.
-(3) Nothing in this section shall apply to any person giving information or advice or making representations to the employer or to any other person or persons acting under delegation from the employer in respect of any matter at the request or invitation of the employer or to any other person or persons acting under delegation.
-(4) Nothing in this section is to be construed so as to prevent any union from making representations to the employer or to any other person or persons acting under delegation from the employer on any matter affecting the salaries, wages, or conditions of employment of any employees who are members of that union.
+[Repealed]
 
 ### 77 Immunity for education service chief executives and employees
-Education service chief executives and employees are immune from liability in civil proceedings for good-faith actions or omissions in pursuance or intended pursuance of their duties, functions, or powers.
+[Repealed]
 
 ### 77AA Offence to attempt to influence employer
 [Repealed]
@@ -1008,130 +915,57 @@ Education service chief executives and employees are immune from liability in ci
 ## Part 7A — Personnel provisions in relation to education service
 
 ### 77A General principles
-(1) Every employer in the education service must—
-  (a) operate a personnel policy that complies with the principle of being a good employer; and
-  (b) make that policy (including the equal employment opportunities programme) available to its employees; and
-  (c) ensure its compliance with that policy (including its equal employment opportunities programme) and report in its annual report (if any) on the extent of its compliance.
-(2) For the purposes of this section a good employer is an employer who operates a personnel policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including provisions requiring—
-  (a) good and safe working conditions; and
-  (b) an equal employment opportunities programme; and
-  (c) the impartial selection of suitably qualified persons for appointment; and
-  (d) recognition of—
-    (i) the aims and aspirations of the Maori people; and
-    (ii) the employment requirements of the Maori people; and
-    (iii) the need for greater involvement of the Maori people in the education service; and
-  (e) opportunities for the enhancement of the abilities of individual employees; and
-  (f) recognition of the aims and aspirations and employment requirements, and the cultural differences, of ethnic or minority groups; and
-  (g) recognition of the employment requirements of women; and
-  (h) recognition of the employment requirements of persons with disabilities.
-(3) In addition to the requirements specified in subsections (1) and (2), each employer shall ensure that all employees maintain proper standards of integrity, conduct, and concern for—
-  (a) the public interest; and
-  (b) the well-being of students attending the institution.
+[Repealed]
 
 ### 77B Code of conduct
-(1) The chief executive of the Ministry of Education may from time to time issue a code of conduct covering the minimum standards of integrity and conduct that are to apply in the education service.
-(2) The chief executive of the Ministry may issue separate codes of conduct under this section to apply to different parts of the education service.
-(3) Before the chief executive of the Ministry issues a code of conduct under this section, the chief executive of the Ministry shall consult with—
-  (a) representatives of the employers whose employees will be bound by the code of conduct, which representatives shall be employers, or organisations of employers, of persons employed in the education service; and
-  (b) the organisations of employees employed in the education service that represent the employees who will be bound by the code of conduct; and
-  (c) the Commissioner, and must have regard to any code of conduct issued by the Commissioner under section 57.
-(4) Nothing in this section prevents the prescribing by an employer of standards of integrity or conduct that are to apply to that employer's employees (being standards which are not inconsistent with any code of conduct issued by the chief executive of the Ministry under this section and which apply in relation to employees of that employer).
-(5) Nothing in this section shall apply to any tertiary education institution.
+[Repealed]
 
 ### 77C Performance of teachers
-(1) The chief executive of the Ministry of Education may from time to time prescribe matters that are to be taken into account by employers in assessing the performance of teachers.
-(2) Before the chief executive of the Ministry of Education prescribes any matters under subsection (1), the chief executive of the Ministry shall consult with—
-  (a) the Teaching Council of Aotearoa New Zealand; and
-  (b) the chief executive of the Education Review Office; and
-  (c) representatives of employers of teachers; and
-  (d) the organisations of teachers that represent teachers who will be subject to the matters prescribed under this section.
-(3) Nothing in this section prevents the prescribing by an employer of matters to be taken into account in assessing the performance of teachers employed by that employer (being matters which are not inconsistent with any matters prescribed under this section by the chief executive of the Ministry and which apply to teachers employed by that employer).
-(4) Nothing in this section shall apply to any teachers employed in any tertiary education institution, or early childhood institution that is not a free kindergarten.
+[Repealed]
 
 ### 77D Equal employment opportunities
-(1) The chief executive of the Ministry of Education shall be responsible for promoting, developing, and monitoring equal employment opportunities policies and programmes in the education service.
-(2)
-(3)
-(4)
-(5) For the purposes of this section and section 77A, an equal employment opportunities programme means a programme that is aimed at the identification and elimination of all aspects of policies, procedures, and other institutional barriers that cause or perpetuate, or tend to cause or perpetuate, inequality in respect to the employment of any persons or group of persons.
+[Repealed]
 
 ### 77E Employees of institutions
-(1) Subject to the provisions of any Act relating to the registration of teachers, each employer—
-  (a) may from time to time appoint such employees (including acting or temporary or casual or relieving employees) as the employer thinks necessary for the efficient exercise of the functions, duties, and powers of the institution; and
-  (b) may, subject to any conditions of employment included in the employment agreement applying to the employee, at any time remove any employee from that employee's employment.
-(2) Unless expressly provided to the contrary in this Act, the employer shall have all the rights, duties, and powers of an ordinary employer in respect of the persons employed in that institution.
+[Repealed]
 
 ### 77F Duty to act independently
-In matters relating to decisions on individual employees (whether matters relating to the appointment, promotion, demotion, transfer, disciplining, or the cessation of the employment of any employee, or other matters), the employer shall act independently.
+[Repealed]
 
 ### 77G Appointments on merit
-An employer in making an appointment under this Act shall give preference to the person who is best suited to the position.
+[Repealed]
 
 ### 77H Obligation to notify vacancies
-Where an employer intends to fill a position that is vacant or is to become vacant in the institution (other than with an acting or temporary or casual or relieving employee), the employer shall, wherever practicable, notify the vacancy or prospective vacancy in a manner sufficient to enable suitably qualified persons to apply for the position.
+[Repealed]
 
 ### 77HA Restriction of compensation for technical redundancy arising from closure or merger of schools
-(1) An employee in a school is not entitled to receive any payment or other benefit on the ground that his or her position in the school (the previous position) has ceased to exist because the school is affected by a merger under section 156A of the Education Act 1989 or is closed under section 154 of that Act and, before the date on which the merger or the closure takes effect,—
-  (a) the employee is offered in writing employment in an equivalent position (whether or not the employee accepts the offer) in the continuing school or in the replacement school or in another school directly affected by the merger or the closure; or
-  (b) the employee is offered in writing, and accepts, employment in any other position in the continuing school or in the replacement school or in another school directly affected by the merger or the closure.
-(2) Employment in an equivalent position in relation to the employee's previous position is employment that—
-  (a) is generally similar in role, duties, and status; and
-  (b) requires similar qualifications, training, skills, and experience, but may have a different title; and
-  (c) is in the same general locality; and
-  (d) is on terms and conditions of employment that are no less favourable than those that apply to the employee immediately before the offer of employment (including any service-related redundancy conditions and superannuation conditions); and
-  (e) is on terms that treat the period of service with the school in which the previous position was held (and any other period of service recognised for the purposes of the previous position as continuous service) as if it were continuous service for the purposes of the position offered to the employee.
-(3) The Minister of Education may determine whether a school is directly affected by a closure or merger, and that determination is binding on all parties.
-(4) Subsection (1)﻿(b) is subject to any contrary provision in an employment agreement that provides for a payment on the ground that the employee's position has ceased to exist, but only if that payment is less than the amount that would otherwise be payable in any case to which subsection (1) does not apply.
-(5) A collective employment agreement that binds employees in schools may provide, consistently with subsections (1) and (2), for the manner in which those subsections are to apply to those employees.
+[Repealed]
 
 ### 77HB Appointment of employees following closure or merger of schools
-(1) Sections 77G and 77H do not apply to an appointment to a position in a school if—
-  (a) the appointment is made in connection with the closure of a school under section 154 of the Education Act 1989 or the merger of schools under section 156A of that Act; and
-  (b) the position that the person previously held has ceased to exist as a result of the closure or merger.
-(2) Subsection (1) does not apply to the appointment of an employee to the position of principal.
+[Repealed]
 
 ### 77I Acting appointments
-(1) In the case of absence from duty of any employee (from whatever cause arising) or on the occurrence from any cause of a vacancy in any position with an employer (whether by reason of death, resignation, or otherwise) and from time to time while the absence or vacancy continues, all or any of the powers and duties of the employee or pertaining to the position may be exercised and performed by any other employee for the time being directed by the employer to exercise and perform them, whether the direction has been given before the absence or vacancy occurs or while it continues.
-(2) No such direction and no acts done by any employee acting pursuant to any such direction shall in any proceedings be questioned on the ground that the occasion for the direction had not arisen or had ceased, or on the ground that the employee has not been appointed to any position to which the direction relates.
+[Repealed]
 
 ## Part 7B — Senior appointments in education service
 
 ### 77IA Chief executives of institutions
-Notwithstanding anything to the contrary in any other enactment, the appointment and conditions of employment of every chief executive of a tertiary education institution shall be determined under this Act and not otherwise.
+[Repealed]
 
 ### 77IB Appointment of chief executive
-(1) Subject to section 77IC, each Council of a tertiary education institution shall appoint its chief executive in accordance with the provisions of this section.
-(2) Where there is a vacancy or an impending vacancy in the position of chief executive of a tertiary education institution, the Council of the institution shall notify the vacancy or impending vacancy in such manner as it thinks sufficient to enable suitably qualified persons to apply for the position.
-(3) The Council may—
-  (a) examine applicants for the position; and
-  (b) seek advice from such sources as it considers relevant.
-(4) The Council may invite such other persons as it thinks fit to assist it to decide on the person to be appointed and any person so invited may take part in the examination of applicants or in the Council's deliberations on the matter or in both.
-(5) In deciding upon the person to be appointed as chief executive, the Council shall have regard to the need to appoint a person who—
-  (a) can discharge the specific responsibilities placed on the chief executive; and
-  (b) will imbue the employees with a spirit of service to the institution and to the community; and
-  (c) will promote efficiency; and
-  (d) will manage the institution in a responsible manner that reflects the needs of academic freedom, accountability, and the proper use of resources; and
-  (e) will maintain appropriate standards of integrity and conduct among employees and ensure the well-being of students attending the institution; and
-  (f) will ensure that the institution is a good employer; and
-  (g) will promote equal employment opportunities.
+[Repealed]
 
 ### 77IC Reappointment of chief executive
-A Council may reappoint its existing chief executive for a further term without first notifying the impending vacancy or examining other applicants.
+[Repealed]
 
 ### 77ID Conditions of employment of chief executive
-(1) Every chief executive shall be appointed for a term of not more than 5 years.
-(2) Every chief executive shall be eligible for reappointment from time to time.
-(3) Except where specific conditions of employment for a chief executive are provided in this Act, the conditions of employment of a chief executive shall be determined in each case by agreement between the Council of the institution and the chief executive, but the Council shall obtain the written concurrence of the State Services Commissioner to the conditions of employment before finalising the conditions of employment with the chief executive or amending any or all of the conditions once they have been finalised.
+[Repealed]
 
 ### 77IE Removal from office
-The Council, for just cause or excuse, may remove the chief executive from office.
+[Repealed]
 
 ### 77IF Acting chief executive
-(1) Where—all or any of the functions, powers, and duties of the chief executive or pertaining to the position may be exercised and performed by an employee, for the time being directed by the Council of the tertiary education institution to exercise and perform them, whether the direction has been given before the absence or vacancy occurs or while it continues.
-  (a) there is a vacancy in the position of a chief executive of a tertiary education institution; or
-  (b) a chief executive of a tertiary education institution is absent from duty (from whatever cause arising),—
-(2) No such direction and no acts done by any person acting pursuant to any such direction shall in any proceedings be questioned on the ground that the occasion for the direction had not arisen or had ceased, or on the ground that the person had not been appointed to the position of chief executive.
-(3) The Council of the tertiary education institution shall determine the conditions of employment that are to apply to any person directed under subsection (1) to exercise and perform any of the functions, powers, and duties of a chief executive.
+[Repealed]
 
 ### 77J Appointments of senior staff
 [Repealed]
@@ -1176,9 +1010,10 @@ For the purposes of sections 84A and 84B,—
   - **employee** includes a chief executive
   - **employer** —
     (a) means a person who pays, or is liable to pay, to any person (being an employee) any earnings as an employer; but
-    (b) means the chief executive of the Ministry within the meaning of section 91A(1) of the Education Act 1989, for the duration of the application period in that section, in relation to—
-      (i) an institution that is subject to Part 9 of that Act; or
-      (ii) a free kindergarten within the meaning of section 120 of that Act; and
+    (b) means the chief executive of the Ministry (as defined in section 10(1) of the Education and Training Act 2020), for the duration of the application period in that section, in relation to—
+      (i) a State school (as defined in section 10(1) and (9)﻿(b) of that Act); or
+      (ii) a special institution (as defined in section 10(1) of that Act); or
+      (iii) a free kindergarten (as defined in section 10(1) of that Act); and
     (c) includes any person or organisation whose officers or employees were, immediately before 1 July 1992, entitled to elect or required to become contributors to the Government Superannuation Fund established under the Government Superannuation Fund Act 1956
   - **State services** includes—
     (a) any tertiary education institution:
