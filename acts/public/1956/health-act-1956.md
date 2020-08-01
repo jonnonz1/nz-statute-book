@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2020-03-11_
+_Consolidation as at 2020-08-01_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -24,7 +24,7 @@ _Consolidation as at 2020-03-11_
   - **dwellinghouse** means any building, tent, caravan, or other structure or erection, whether permanent or temporary, that is used or intended to be used in whole or in part for human habitation, and includes the land and any outbuildings and appurtenances belonging thereto or usually enjoyed therewith
   - **educational institution** —
     (a) means any place where people gather for the purpose of education or training; and
-    (b) includes an early childhood education and care centre within the meaning of section 310(1) of the Education Act 1989
+    (b) includes an early childhood education and care centre within the meaning of section 10(1) of the Education and Training Act 2020
   - **environmental health officer** means an environmental health officer appointed under section 28 or a health protection officer
   - **epidemic management notice** means a notice under section 8(1) of the Epidemic Preparedness Act 2006
   - **epidemic notice** means a notice under section 5(1) of the Epidemic Preparedness Act 2006
@@ -3279,11 +3279,10 @@ The Minister may apply to the High Court for a writ of mandamus to compel a loca
 [Repealed]
 
 ### 125 Medical examination of children
-(1) In this section—
-  - **early childhood education and care centre** has the same meaning as in section 310(1) of the Education Act 1989
-  - **private school** means a school registered under section 186 of the Education Act 1964 and any premises, not being so registered and being neither an early childhood education and care centre nor a public school, which are or purport to be mainly for the care or training of children, whether for reward or not
-  - **public school** means a school established under Part 3 of the Education Act 1964; and includes a kindergarten or other institution providing pre-school education recognised under regulations made pursuant to section 70 of that Act.
-(2) Any medical officer employed in the Ministry or other person authorised by the Minister to exercise the powers conferred by this section on an officer so authorised, or any nurse employed by the Royal New Zealand Society for the Health of Women and Children (Incorporated) engaged in work pursuant to a contract in that behalf between the said Society and the Minister, may at all reasonable times enter any public school or early childhood education and care centre and examine the children attending the school or centre, and may notify the parent or guardian of any such child, or any other person whom he reasonably believes to be concerned with the welfare of the child, of any condition which in his opinion is affecting the health or normal development of the child or of any disease or defect from which in his opinion the child may be suffering.
+(1) In this section,—
+  - **early childhood education and care centre** and have the meanings given in section 10(1) of the Education and Training Act 2020
+  - **private school** means a school registered under section 214 of the Education and Training Act 2020.
+(2) Any medical officer employed in the Ministry or other person authorised by the Minister to exercise the powers conferred by this section on an officer so authorised, or any nurse employed by the Royal New Zealand Society for the Health of Women and Children (Incorporated) engaged in work pursuant to a contract in that behalf between the said Society and the Minister, may at all reasonable times enter any State school or early childhood education and care centre and examine the children attending the school or centre, and may notify the parent or guardian of any such child, or any other person whom he reasonably believes to be concerned with the welfare of the child, of any condition which in his opinion is affecting the health or normal development of the child or of any disease or defect from which in his opinion the child may be suffering.
 (3) The powers conferred by subsection (2) may be exercised in respect of any private school, and in respect of the children attending there, if application in that behalf is made in writing to the medical officer of health by the controlling authority thereof. Any such application may be revoked in like manner at any time.
 
 ### 126 Infirm and neglected persons
