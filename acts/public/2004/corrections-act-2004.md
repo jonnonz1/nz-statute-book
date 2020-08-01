@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -1226,7 +1226,7 @@ Any money paid to the chief executive under section 67 to the credit of a prison
     (ii) a reduction in his or her reoffending; or
     (iii) his or her reintegration into the community.
 (2) The Crown is not required to provide a prisoner with any of the education referred to in subsection (1)﻿(c) free of charge unless—
-  (a) there is an entitlement to receive that education free of charge (whether under the Education Act 1989 or under another enactment); or
+  (a) there is an entitlement to receive that education free of charge (whether under the Education and Training Act 2020 or under another enactment); or
   (b) the education is—
     (i) provided to a prisoner with poor literacy skills; and
     (ii) designed to improve those skills.
@@ -2494,12 +2494,12 @@ In this section and sections 179D and 179E, unless the context otherwise require
 (1) The purpose of section 180A is to facilitate the disclosure of information, by the chief executive to the requesting department, for the purposes of the operation of all or any of the following provisions:
   (a) section 217(1) of the Social Security Act 2018 (under which a benefit is, in general, not payable in respect of any period during which a beneficiary is imprisoned or detained in, or is an escaper from, a prison, pursuant to a sentence of imprisonment):
   (b) regulations made under section 444 of the Social Security Act 2018 (which provide for the recovery, including by way of deductions, of debts due to the Crown):
-  (c) section 307B of the Education Act 1989 (which provides for the recovery of debts in respect of the payment to a person of allowances, student loans, or other money to which he or she was not, or is no longer, entitled):
+  (c) clause 6 of Schedule 9 of the Education and Training Act 2020 (which provides for the recovery of debts in respect of the payment to a person of allowances, student loans, or other money to which he or she was not, or is no longer, entitled):
   (d) regulation 28 of the Student Allowances Regulations 1998 (under which a student imprisoned or detained in a prison, pursuant to a sentence of imprisonment is not entitled to receive any payment under those regulations in respect of any period of any such imprisonment):
   (e) section 180C.
 (2) Requesting department, in subsection (1) and sections 180A and 180C, means—
   (a) the department for the time being responsible for the administration of the Social Security Act 2018, in relation to information requested for the purposes of the operation of a provision of that Act:
-  (b) the department for the time being responsible for the administration of Part 25 of the Education Act 1989, in relation to information requested for the purposes of the operation of section 307B of that Act, or regulation 28 of the Student Allowances Regulations 1998.
+  (b) the department for the time being responsible for the administration of Schedule 9 of the Education and Training Act 2020, in relation to information requested for the purposes of clause 6 of Schedule 9 of that Act, or regulation 28 of the Student Allowances Regulations 1998.
 
 ### 180A Prisoner information may be disclosed for social assistance purposes
 (1) For the purpose stated in section 180, the chief executive of the requesting department may from time to time request the chief executive to supply all or any information specified in section 180B in respect of prisoners detained in a prison during the period specified in the request.
@@ -2524,7 +2524,7 @@ The information referred to in section 180A(1) is, for each prisoner detained in
   (d) immediately after the suspension is effected, the requesting department gives the person written notice of the kind specified in section 180D.
 (2) In this section and section 180D,—
   - **adverse action** has the same meaning as in section 97 of the Privacy Act 1993
-  - **allowance** means an allowance established (whether established for the first time or continued) by regulations made under section 303 of the Education Act 1989
+  - **allowance** means an allowance established (whether established for the first time or continued) by regulations made under section 645 of the Education and Training Act 2020
   - **benefit** has the same meaning as in Schedule 2 of the Social Security Act 2018
   - **discrepancy** has the same meaning as in section 97 of the Privacy Act 1993
   - **student loan** has the meaning given to it by section 4(1) of the Student Loan Scheme Act 2011
