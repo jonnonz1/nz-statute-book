@@ -1,5 +1,5 @@
 # Education Amendment Act 1983
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2020-08-01_
 
 > An Act to amend the Education Act 1964
 
@@ -7,7 +7,7 @@ _Consolidation as at 2007-09-03_
 This Act may be cited as the Education Amendment Act 1983, and shall be read together with and deemed part of the Education Act 1964 (hereinafter referred to as the principal Act).
 
 ### 2 Interpretation
-(1) Section 2 (1) of the principal Act is hereby amended by omitting from the definition of the term school year the expression 31st, and substituting the expression 27th.
+(1) Section 2(1) of the principal Act is hereby amended by omitting from the definition of the term school year the expression 31st, and substituting the expression 27th.
 (2) Notwithstanding the definition of the term school year contained in the said section 2(1) (as amended by subsection (1) of this section), the period commencing on the 1st day of February 1983 and ending with the 27th day of January 1984 is hereby deemed to be a school year.
 
 ### 3
