@@ -1,5 +1,5 @@
 # Education (Tertiary Reforms) Amendment Act 2007
-_Consolidation as at 2007-12-21_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Education (Tertiary Reforms) Amendment Act 2007.
@@ -33,8 +33,8 @@ Section 159AAA(2) is amended by omitting the service continued by Part 22 and su
 
 ### 6 Interpretation
 (1) The definitions of charter, profile, and statement of tertiary education priorities in section 159(1) are repealed.
-(2) Section 159(1) is amended by inserting the following definitions in their appropriate alphabetical order:.
-  - **funding approval** means a decision made by the Commission under section 159YA to fund (in whole or in part) some or all of the tertiary education programmes and activities described in an organisation's proposed plan under section 159P(d)(i) and (ii)
+(2) Section 159(1) is amended by inserting the following definitions in their appropriate alphabetical order:
+  - **funding approval** means a decision made by the Commission under section 159YA to fund (in whole or in part) some or all of the tertiary education programmes and activities described in an organisation's proposed plan under section 159P(d)﻿(i) and (ii)
   - **plan** means a plan in relation to which funding approval has been given
   - **proposed plan** means a proposed plan in relation to which an organisation is seeking funding approval
 (3) The definition of tertiary education strategy in section 159(1) is amended by omitting approved and substituting issued.
@@ -98,7 +98,7 @@ Section 159A is repealed and the following sections are substituted:Purpose of P
 Section 159D(2) is amended by omitting (other than a replacement member appointed under clause 11(1) of Schedule 13A).
 
 ### 14 Functions of Commission
-(1) Section 159F(1) is amended by repealing paragraph (a) and substituting the following paragraph:.
+(1) Section 159F(1) is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) to give effect to the tertiary education strategy by—
     (i) prescribing and publishing guidance on the content of, and processes associated with seeking funding approval for, proposed plans; and
     (ii) prescribing and publishing guidance on the criteria the Commission will use to assess proposed plans; and
@@ -108,16 +108,16 @@ Section 159D(2) is amended by omitting (other than a replacement member appointe
     (vi) allocating funding to organisations that are not required to have plans in order to receive funding; and
     (vii) prescribing what plan summaries must contain for the purposes of public inspection; and
     (viii) building the capability of organisations; and
-(2) Section 159F(1)(b) is amended by repealing subparagraphs (i) and (ii) and substituting the following subparagraphs:.
+(2) Section 159F(1)﻿(b) is amended by repealing subparagraphs (i) and (ii) and substituting the following subparagraphs:
   (i) the tertiary education strategy; and
   (ii) the activities and performance of the tertiary education sector generally; and
-(3) Section 159F(1) is amended by inserting the following paragraphs after paragraph (b):.
+(3) Section 159F(1) is amended by inserting the following paragraphs after paragraph (b):
   (ba) to develop details of how to implement funding mechanisms; and
   (bb) to implement funding mechanisms; and.
-(4) Section 159F(1) is amended by repealing paragraph (d) and substituting the following paragraphs:.
+(4) Section 159F(1) is amended by repealing paragraph (d) and substituting the following paragraphs:
   (d) to monitor the performance of organisations that receive funding from the Commission including by measuring performance against specified outcomes; and
   (da) to undertake any functions that the Minister directs the Commission to undertake under section 159J; and
-(5) Section 159F(1)(e) is amended by omitting section 159ZC and substituting section 159YA or 159ZC.
+(5) Section 159F(1)﻿(e) is amended by omitting section 159ZC and substituting section 159YA or 159ZC.
 
 ### 15 Delegation of functions or powers of Minister
 Section 159I is amended by repealing subsection (1) and substituting the following subsection:
@@ -135,7 +135,7 @@ The following section is inserted after section 159KB:Monitoring and reporting f
     (b) may report from time to time to the Minister on the outcome of that monitoring.
 
 ### 18 Statement of intent
-Section 159KE(1)(a)(i) is amended by omitting statement of tertiary education priorities and substituting tertiary education strategy.
+Section 159KE(1)﻿(a)﻿(i) is amended by omitting statement of tertiary education priorities and substituting tertiary education strategy.
 
 ### 19 Annual report
 Section 159KF(1) is amended by omitting implementing and substituting giving effect to.
@@ -157,7 +157,7 @@ Sections 159L to 159Z and the headings above sections 159L and 159W are repealed
     (e) provide for funding that targets particular groups of students.
   In determining a design for a funding mechanism under section 159L, the Minister may not—
     (a) identify a specified organisation or organisations to which funding is to be provided or denied under any funding mechanism; or
-    (b) specify conditions under section 159L(3)(d) that set limits on the fees that organisations may charge domestic students until 2 months after the date on which the Minister has published a notice in the Gazette that—
+    (b) specify conditions under section 159L(3)﻿(d) that set limits on the fees that organisations may charge domestic students until 2 months after the date on which the Minister has published a notice in the Gazette that—
       (i) states that the Minister proposes to specify conditions of that kind; and
       (ii) sets out the proposed conditions; and
       (iii) invites submissions on the proposed conditions; and
@@ -173,7 +173,7 @@ Sections 159L to 159Z and the headings above sections 159L and 159W are repealed
     (d) set out a description of all—
       (i) tertiary education programmes run by the organisation for which the organisation is seeking funding under section 159YA and specify the amount of funding sought in relation to those programmes; and
       (ii) activities (including, without limitation, programmes and initiatives that will be undertaken by the organisation in order to build its capability) for which the organisation is seeking funding under section 159YA and specify the amount of funding sought in relation to those activities; and
-    (e) describe an organisation's proposed outcomes (including, without limitation, in relation to the tertiary education programmes and activities described in paragraph (d)(i) and (ii) in relation to which funding is sought) and the performance indicators that the organisation will use to measure whether those outcomes have been achieved; and
+    (e) describe an organisation's proposed outcomes (including, without limitation, in relation to the tertiary education programmes and activities described in paragraph (d)﻿(i) and (ii) in relation to which funding is sought) and the performance indicators that the organisation will use to measure whether those outcomes have been achieved; and
     (f) set out a description of all tertiary education programmes run by the organisation other than those in relation to which funding is sought.
   (1) The Commission may, by notice in writing, exempt an organisation from having to comply with the requirements in section 159P(f).
   (2) The Commission may not exercise the power in subsection (1) in relation to an institution.
@@ -194,7 +194,7 @@ Sections 159L to 159Z and the headings above sections 159L and 159W are repealed
   (3) Notices given under subsection (1) may be—
     (a) given at different times; and
     (b) amended by the Commission.
-  (4) The Commission must give public notice of a significant amendment made under subsection (3)(b).
+  (4) The Commission must give public notice of a significant amendment made under subsection (3)﻿(b).
   The Commission may, by notice in writing, exempt an organisation from complying with any of the matters it has prescribed under section 159R(1).
   (1) An organisation that is seeking funding from the Commission under a funding mechanism that provides for funding via plans must submit a proposed plan.
   (2) Subsection (1) does not apply to an organisation that is exempt under section 159U.
@@ -221,16 +221,16 @@ Sections 159L to 159Z and the headings above sections 159L and 159W are repealed
   (4) Notices given under subsection (1) may be—
     (a) given at different times; and
     (b) amended by the Commission.
-  (5) The Commission must give public notice of a significant amendment made under subsection (4)(b).
+  (5) The Commission must give public notice of a significant amendment made under subsection (4)﻿(b).
   (1) The Commission must assess whether a proposed plan will receive funding approval by applying the assessment criteria prescribed under section 159Y.
   (2) After applying the assessment criteria, the Commission may decide to—
-    (a) fund (in whole or in part) all of the tertiary education programmes and activities described in the proposed plan under section 159P(d)(i) and (ii) in relation to which funding is sought; or
-    (b) fund (in whole or in part) some of the tertiary education programmes and activities described in the proposed plan under section 159P(d)(i) and (ii) in relation to which funding is sought; or
-    (c) not fund any of the tertiary education programmes or activities described in the proposed plan under section 159P(d)(i) and (ii) in relation to which funding is sought.
-  (3) Before deciding not to fund some or any, or part of some or any, of the tertiary education programmes or activities described in the proposed plan under section 159P(d)(i) and (ii) in relation to which funding is sought, the Commission must—
+    (a) fund (in whole or in part) all of the tertiary education programmes and activities described in the proposed plan under section 159P(d)﻿(i) and (ii) in relation to which funding is sought; or
+    (b) fund (in whole or in part) some of the tertiary education programmes and activities described in the proposed plan under section 159P(d)﻿(i) and (ii) in relation to which funding is sought; or
+    (c) not fund any of the tertiary education programmes or activities described in the proposed plan under section 159P(d)﻿(i) and (ii) in relation to which funding is sought.
+  (3) Before deciding not to fund some or any, or part of some or any, of the tertiary education programmes or activities described in the proposed plan under section 159P(d)﻿(i) and (ii) in relation to which funding is sought, the Commission must—
     (a) notify the organisation of its proposed decision; and
     (b) give the organisation a reasonable opportunity to be heard.
-  (4) The Commission must give its reasons to the affected organisation if it decides not to fund some or any, or part of some or any, of the tertiary education programmes or activities described in the proposed plan under section 159P(d)(i) and (ii) in relation to which funding is sought.
+  (4) The Commission must give its reasons to the affected organisation if it decides not to fund some or any, or part of some or any, of the tertiary education programmes or activities described in the proposed plan under section 159P(d)﻿(i) and (ii) in relation to which funding is sought.
   (5) In deciding to give funding approval, the Commission must—
     (a) specify the date from which that funding approval has effect; and
     (b) determine the amount of funding payable to the organisation by applying the appropriate funding mechanism; and
@@ -240,7 +240,7 @@ Sections 159L to 159Z and the headings above sections 159L and 159W are repealed
   (3) The Commission must give its reasons to the affected organisation if it declines to assess the organisation's proposed plan.
   (1) It is a condition of an organisation receiving funding under section 159YA that the organisation will supply to the Commission or Ministry, from time to time as required by the Commission or Ministry, and in a form specified by the Commission or Ministry, any financial, statistical, or other information that the Commission or Ministry requires the organisation to supply.
   (2) The Commission may give funding approval subject to conditions, but only if the conditions are—
-    (a) conditions the Minister has determined the Commission must attach to funding under section 159L(3)(d); or
+    (a) conditions the Minister has determined the Commission must attach to funding under section 159L(3)﻿(d); or
     (b) conditions that the Commission considers necessary to ensure that the specified outcomes in a plan that relate to tertiary education programmes and activities in relation to which funding is being given are being achieved or will be achieved.
   (3) The Commission may at any time (including during a funding period) amend any condition imposed under subsection (2).
   (4) The amendment to the condition takes effect when the organisation has been given reasonable notice of it.
@@ -253,7 +253,7 @@ Sections 159L to 159Z and the headings above sections 159L and 159W are repealed
     (a) a financial report of the organisation for that year, including a statement of financial performance, a statement of financial position, a statement of movements in equity, a statement of cash flows, and a statement of service performance that compares the performance of the organisation with the outcomes specified in the organisation's plan as measured by the performance indicators specified in the organisation's plan; and
     (b) any financial reports, or statistical or other information, required by the Commission; and
     (c) any information necessary to demonstrate compliance with any condition attached to the funding.
-  (3) A report required under subsection (2)(a) must be prepared in accordance with generally accepted accounting practice and must be audited by an independent chartered accountant.
+  (3) A report required under subsection (2)﻿(a) must be prepared in accordance with generally accepted accounting practice and must be audited by an independent chartered accountant.
   (4) The Commission may exempt any organisation, group of organisations, or types of organisation from complying with 1 or more of the requirements set out in subsections (2) and (3).
   (5) In exercising the powers conferred on it by subsection (4), the Commission must have regard to—
     (a) the amount of funding sought by the organisation; and
@@ -281,15 +281,15 @@ Sections 159L to 159Z and the headings above sections 159L and 159W are repealed
     (a) the date on which the suspension will end and, as a consequence, some or all funding will be revoked; and
     (b) what action the organisation must take in order to have the suspension lifted and avoid some or all funding being revoked.
   (5) A suspension must be for a period that the Commission considers reasonable, having considered—
-    (a) the specific matters referred to in subsection (2)(a); and
-    (b) the action referred to in subsection (4)(b).
-  (1) The date on which a suspension ends under section 159YG(4)(a) may be extended by the Commission.
+    (a) the specific matters referred to in subsection (2)﻿(a); and
+    (b) the action referred to in subsection (4)﻿(b).
+  (1) The date on which a suspension ends under section 159YG(4)﻿(a) may be extended by the Commission.
   (2) The Commission must advise an organisation of the following matters if it decides to extend the date on which a suspension will end:
     (a) the date on which the extended suspension will end and, as a consequence, some or all funding for all or part of the plan will be revoked; and
     (b) what action the organisation must take in order to have the extended suspension lifted and avoid some or all funding for all or part of the plan being revoked.
   (3) An extension of a suspension must be for a period that the Commission considers reasonable, having considered—
-    (a) the specific matters referred to in section 159YG(2)(a); and
-    (b) the action referred to in section 159YG(4)(b).
+    (a) the specific matters referred to in section 159YG(2)﻿(a); and
+    (b) the action referred to in section 159YG(4)﻿(b).
   (1) The effect of suspending funding given under section 159YA is that the Commission must cease payment, or cease any or all further payments, of funding given under section 159YA in respect of the plan or part of the plan in relation to which funding has been suspended.
   (2) The effect of revoking funding given under section 159YA is that—
     (a) the plan or part of the plan to which the funding relates is revoked; and
@@ -355,7 +355,7 @@ Sections 159ZA to 159ZF and the heading above section 159ZA are repealed and the
     (a) a financial report of the organisation for that year, including a statement of financial performance, a statement of financial position, a statement of movements in equity, a statement of cash flows, and a statement of service performance that compares the performance of the organisation with the outcomes agreed with the Commission as measured by any performance indicators agreed with the Commission; and
     (b) any financial reports, or statistical or other information, required by the Commission; and
     (c) any information necessary to demonstrate compliance with any condition attached to the funding.
-  (3) A report required under subsection (2)(a) must be prepared in accordance with generally accepted accounting practice and must be audited by an independent chartered accountant.
+  (3) A report required under subsection (2)﻿(a) must be prepared in accordance with generally accepted accounting practice and must be audited by an independent chartered accountant.
   (4) The Commission may exempt any organisation, group of organisations, or type of organisation from complying with 1 or more of the requirements set out in subsections (2) and (3).
   (5) In exercising the powers conferred on it by subsection (4), the Commission must have regard to—
     (a) the amount of funding sought by the organisation; and
@@ -373,13 +373,13 @@ Sections 159ZA to 159ZF and the heading above section 159ZA are repealed and the
   (4) The Commission must specify the following matters if it decides to suspend funding under subsection (1):
     (a) the date on which the suspension will end and, as a consequence, the funding will be revoked; and
     (b) what action the organisation must take in order to have the suspension lifted and avoid funding being revoked.
-  (1) The date on which a suspension ends under section 159ZF(4)(a) may be extended by the Commission.
+  (1) The date on which a suspension ends under section 159ZF(4)﻿(a) may be extended by the Commission.
   (2) The Commission must advise an organisation of the following matters if it decides to extend the date on which a suspension will end:
     (a) the date on which the extended suspension will end and, as a consequence, funding will be revoked; and
     (b) what action the organisation must take in order to have the extended suspension lifted and avoid funding being revoked.
   (3) An extension of a suspension must be for a period that the Commission considers reasonable having considered—
-    (a) the specific matters referred to in section 159ZF(2)(a); and
-    (b) the action referred to in section 159ZF(4)(b).
+    (a) the specific matters referred to in section 159ZF(2)﻿(a); and
+    (b) the action referred to in section 159ZF(4)﻿(b).
   (1) Subsection (2) applies to an organisation in relation to which a person has exercised any of the following powers under a delegation from the Commission under section 73 of the Crown Entities Act 2004:
     (a) suspending the organisation's funding under section 159ZF; or
     (b) revoking the organisation's funding under section 159ZF; or
@@ -400,7 +400,7 @@ Sections 159ZA to 159ZF and the heading above section 159ZA are repealed and the
 Section 191A and the heading above section 191A are repealed.
 
 ### 24 Powers of institutions
-Section 192(5)(b) is amended by omitting 5 years and substituting 15 years.
+Section 192(5)﻿(b) is amended by omitting 5 years and substituting 15 years.
 
 ### 25 Institutions to provide information if required
 (1) Section 195B(1) is amended by omitting Secretary and substituting chief executive of the Commission.
@@ -420,16 +420,16 @@ The following section is inserted after section 195D:Protection of commissioners
 Section 195E(1) is amended by omitting the institution's charter and substituting , in the case of an institution that has a plan, that plan.
 
 ### 28 How institutions may use income and capital
-Section 201A(1) is amended by repealing paragraph (a) and substituting the following paragraph:.
+Section 201A(1) is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) apply its income and capital in doing whatever the council thinks will—
     (i) enable the institution to carry out the functions characteristic of an institution of the class to which the institution belongs; and
     (ii) in the case of an institution that has a plan, enable the institution to achieve the outcomes set out in that plan; and
 
 ### 29 Transfer of Crown assets and liabilities to institutions
-Section 206(2) is amended by omitting subsection (1) of this section and substituting subsection (1)(a) and (b).
+Section 206(2) is amended by omitting subsection (1) of this section and substituting subsection (1)﻿(a) and (b).
 
 ### 30 Annual report
-Section 220(2A)(f) is repealed and the following paragraph substituted:
+Section 220(2A)﻿(f) is repealed and the following paragraph substituted:
   (f) in the case of an institution that has a plan, a statement of service performance for that financial year reporting on the performance of the institution as compared with the proposed outcomes described in that plan.
 
 ### 31 Fees for domestic students
@@ -449,10 +449,10 @@ Section 236C is amended by—
 The definition of provider in section 238D is amended by omitting section 159ZC and substituting section 159YA or 159ZC.
 
 ### 35 Functions of Authority
-(1) Section 253(1) is amended by inserting the following paragraph after paragraph (e):.
+(1) Section 253(1) is amended by inserting the following paragraph after paragraph (e):
   (ea) to establish policies and criteria relating to the quality assurance of providers of adult and community education:
 (2) Section 253(2) is amended by omitting or (e) and substituting (e), or (ea).
-(3) Section 253(2) is amended by inserting the following paragraph after paragraph (a):.
+(3) Section 253(2) is amended by inserting the following paragraph after paragraph (a):
   (ab) in the case of criteria or policies in respect of bodies that are providing adult and community education, consult—
     (i) those bodies; or
     (ii) a body that represents the interests of those bodies; and
@@ -469,7 +469,7 @@ Section 255 is amended by inserting the following subsection before subsection (
   (6) The Service is the same body as the Service that existed under this section immediately before the commencement of section 49 of the Education Amendment Act (No 2) 1998.
 
 ### 38 Functions of Service
-Section 280(1)(a) is amended by omitting data base and substituting database.
+Section 280(1)﻿(a) is amended by omitting data base and substituting database.
 
 ### 39 Duties of Board
 Section 282(a) is amended by omitting data base and substituting database.
@@ -532,7 +532,7 @@ Sections 49 to 52 amend the Industry Training Act 1992.
 
 ### 49 Interpretation
 (1) The definitions of profile and statement of tertiary education priorities in section 2 are repealed.
-(2) Section 2 is amended by inserting the following definitions in their appropriate alphabetical order:.
+(2) Section 2 is amended by inserting the following definitions in their appropriate alphabetical order:
   - **funding approval** means a decision made by the Commission under section 159YA of the Education Act 1989 to fund (in whole or in part) some or all of the activities described in section 10(2) in relation to which funding is sought
   - **plan** means a plan in relation to which funding approval has been given
   - **proposed plan** means a proposed plan in relation to which an organisation is seeking funding for activities in section 10(2) under section 159YA of the Education Act 1989
@@ -540,7 +540,7 @@ Sections 49 to 52 amend the Industry Training Act 1992.
 ### 50 Industry training organisation's profile must identify activities for which it seeks funding
 (1) The heading to section 10 is amended by omitting profile and substituting proposed plan.
 (2) Section 10 is amended by repealing subsection (1) and substituting the following subsection:
-  (1) An industry training organisation that seeks funding under a funding mechanism that provides for funding via plans (as indicated by the Minister under section 159L(2)(b) of the Education Act 1989) must—
+  (1) An industry training organisation that seeks funding under a funding mechanism that provides for funding via plans (as indicated by the Minister under section 159L(2)﻿(b) of the Education Act 1989) must—
     (a) prepare a proposed plan in accordance with section 159X of the Education Act 1989; and
     (b) specify in the proposed plan the activities set out in subsection (2) in relation to which funding is sought; and
     (c) submit the proposed plan for consideration of funding approval under section 159YA of that Act.
