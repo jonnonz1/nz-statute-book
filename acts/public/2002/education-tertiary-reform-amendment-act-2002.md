@@ -1,5 +1,5 @@
 # Education (Tertiary Reform) Amendment Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 (1) This Act is the Education (Tertiary Reform) Amendment Act 2002.
@@ -208,13 +208,13 @@ The principal Act is amended by inserting, after Part XIII, the following Part:T
     (b) prepare a proposed charter; and
     (c) consult with its stakeholders over the proposed charter; and
     (d) consult with any other person or group of persons with whom the Minister requires the organisation to consult.
-  (2) After completing the consultation required under subsection (1)(c) and (d), the organisation must submit the proposed charter to the Commission for comment and consultation.
+  (2) After completing the consultation required under subsection (1)﻿(c) and (d), the organisation must submit the proposed charter to the Commission for comment and consultation.
   (3) Following consultation with the Commission over, and (if necessary) modification of, the proposed charter, the organisation must submit the proposed charter to the Commission for approval by the Minister.
   (1) The Minister must assess a proposed charter against the criteria prescribed under section 159M(1).
   (2) The Minister must approve a proposed charter unless satisfied on reasonable grounds that he or she should not do so.
   (3) A charter comes into effect on the date specified by the Minister.
   (4) If the Minister rejects a proposed charter, he or she must give reasons for the rejection.
-  (5) An organisation may submit a revised proposed charter to the Minister as many times as is necessary, but only if, before resubmitting it, the organisation has consulted further with the Commission and, if the revisions are significant, with the people or groups with whom it is required to consult under section 159O(1)(c) and (d).
+  (5) An organisation may submit a revised proposed charter to the Minister as many times as is necessary, but only if, before resubmitting it, the organisation has consulted further with the Commission and, if the revisions are significant, with the people or groups with whom it is required to consult under section 159O(1)﻿(c) and (d).
   (1) If the Minister and an institution cannot agree over the content of the institution's charter, the Minister must, after consulting as he or she thinks appropriate, determine the matter.
   (2) The Minister may, at any time, on his or her own initiative, propose amendments to an institution's charter or proposed charter.
   (3) If the Minister proposes an amendment to a charter or proposed charter, he or she must notify the institution of the proposal and give the institution a reasonable period in which to make submissions in response to it.
@@ -244,7 +244,7 @@ The principal Act is amended by inserting, after Part XIII, the following Part:T
     (f) sets out the basis on which funding will be sought or received from the Commission; and
     (g) demonstrates how the organisation will give effect to its charter (unless it is exempt under section 159N(4) from the requirement to have one); and
     (h) identifies the information that the organisation will supply on an annual basis to the Commission; and
-    (i) includes the content prescribed under section 159X(1)(a), and is in the form prescribed under that section.
+    (i) includes the content prescribed under section 159X(1)﻿(a), and is in the form prescribed under that section.
   (1) The Commission must, at least once every 3 years, prescribe and give public notice of—
     (a) the content and form of profiles; and
     (b) the criteria on which the Commission will approve profiles, or parts of profiles, for funding purposes; and
@@ -276,7 +276,7 @@ The principal Act is amended by inserting, after Part XIII, the following Part:T
   (3) However, the Minister may not identify a specified organisation or organisations to which funding is to be provided or denied under any mechanism.
   (4) Every mechanism must be consistent with the principle that receipt by an organisation of public funds is dependent on the organisation meeting quality assurance requirements under this Act.
   (5) The Commission must develop the details of how to implement the Minister's determinations under this section.
-  (6) The Minister may not, under subsection (2)(e), specify conditions setting limits on the fees that organisations may charge domestic students until 2 months after the date on which the Minister has published a notice in the Gazette that—
+  (6) The Minister may not, under subsection (2)﻿(e), specify conditions setting limits on the fees that organisations may charge domestic students until 2 months after the date on which the Minister has published a notice in the Gazette that—
     (a) states that the Minister proposes to specify such conditions; and
     (b) sets out the proposed conditions; and
     (c) invites submissions on the proposed conditions; and
@@ -303,7 +303,7 @@ The principal Act is amended by inserting, after Part XIII, the following Part:T
     (a) a financial report of the organisation for that year, including a statement of financial performance, a statement of financial position, a statement of movements in equity, a statement of cash flows, and a statement of service performance that compares the performance of the organisation with the objectives and targets specified in the organisation's profile for that year; and
     (b) any financial reports, or statistical or other information, required by the Commission; and
     (c) any information necessary to demonstrate compliance with any condition attached to any funding.
-  (3) The reports required under subsection (2)(a) must be prepared in accordance with generally accepted accounting practice and must be audited by an independent chartered accountant.
+  (3) The reports required under subsection (2)﻿(a) must be prepared in accordance with generally accepted accounting practice and must be audited by an independent chartered accountant.
   (4) Section 203 sets out the accountability requirements for institutions.
   The Commission may suspend or terminate payment, or any or all further payments, of any funding to an organisation if the Commission is satisfied on reasonable grounds that the organisation—
     (a) has not complied, or is not complying, with a condition on which the funding was provided; or
@@ -316,7 +316,7 @@ The principal Act is amended by inserting, after Part XIII, the following Part:T
 (2) Section 162(3) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:
   (ab) satisfy himself or herself that the establishment of the institution is in the interests of the tertiary education system and the nation as a whole; and.
 (3) Section 162(4) of the principal Act is amended by inserting, after the words a polytechnic,, the words a specialist college,.
-(4) Section 162(4)(b) of the principal Act is amended by inserting, after subparagraph (ii), the following subparagraph:
+(4) Section 162(4)﻿(b) of the principal Act is amended by inserting, after subparagraph (ii), the following subparagraph:
   (iia) a specialist college is characterised by teaching and (if relevant) research of a specialist nature that maintains, enhances, disseminates, and assists in the application of knowledge and expertise:
 
 ### 11 Disestablishment of institutions
@@ -364,7 +364,7 @@ The principal Act is amended by inserting, after section 201, the following sect
   (1) An institution may, subject to the provisions of any enactment and the terms of any trust or endowment,—
     (a) apply its income and capital in doing whatever the Council of the institution thinks will accomplish the goals and purposes set out in the institution's charter; and
     (b) create, maintain, or add to, out of income, a fund or funds for any 1 or more of the purposes for which the income may be applied.
-  (2) Subsection (1)(b) does not limit the generality of subsection (1)(a).
+  (2) Subsection (1)﻿(b) does not limit the generality of subsection (1)﻿(a).
 
 ### 19 Application of Public Finance Act 1989
 (1) Section 203 of the principal Act is amended by repealing subsection (2), and substituting the following subsections:
@@ -385,7 +385,7 @@ The principal Act is amended by repealing section 232, and substituting the foll
   (1) A person must not permit a foreign student to begin to undertake a course of study or training at a private training establishment unless—
     (a) the course is an approved course and the establishment is accredited to provide it; or
     (b) the course is of less than 3 months' duration and is an exempt course, as provided for in subsection (2).
-  (2) The Qualifications Authority may, by notice in the Gazette, exempt courses of study or training for the purpose of subsection (1)(b).
+  (2) The Qualifications Authority may, by notice in the Gazette, exempt courses of study or training for the purpose of subsection (1)﻿(b).
   (3) A notice under subsection (2)—
     (a) may exempt only courses of study or training that are, or are likely to be, of less than 3 months' duration; and
     (b) may identify courses, or classes of courses, that are exempt; and
@@ -399,16 +399,16 @@ The principal Act is amended by repealing section 232, and substituting the foll
 (2) Section 236(1) of the principal Act is amended by—
   (a) omitting from paragraph (e) the word education,—, and substituting the word education.; and
   (b) omitting all the words after paragraph (e).
-(3) Section 236(1)(b) of the principal Act is amended by inserting, after the word has, the words , or will at the relevant time have,.
-(4) Section 236(1)(d)(ii) of the principal Act is amended by inserting, after the words study or training, the words (other than a course of less than 3 months' duration).
-(5) Section 236(1)(d) of the principal Act is amended by adding the following subparagraph:
+(3) Section 236(1)﻿(b) of the principal Act is amended by inserting, after the word has, the words , or will at the relevant time have,.
+(4) Section 236(1)﻿(d)﻿(ii) of the principal Act is amended by inserting, after the words study or training, the words (other than a course of less than 3 months' duration).
+(5) Section 236(1)﻿(d) of the principal Act is amended by adding the following subparagraph:
   (iv) allows, or will allow, every foreign student enrolled for a course of study or training that is of less than 3 months' duration to withdraw from it within a period (being less than 7 days) specified by the Authority, and refunds, or will refund, to any student who so withdraws a minimum amount or proportion, specified by the Authority, of any payments made by the student to the establishment in respect of the course; and
 (6) Section 236 of the principal Act is amended by adding the following subsection:
   (4) The Authority must give written notice to a private training establishment when it grants or refuses to grant registration and, if it refuses registration, it must give reasons for the refusal.
 
 ### 23 New section 236AA inserted
 The principal Act is amended by inserting, after section 236, the following section:Conditions on registration
-  (1) It is a condition of registration that the establishment will at all times comply with the relevant policies and criteria established by the Qualifications Authority under section 253(1)(ca) that are currently in force, except to the extent that the Authority exempts the establishment, by a condition on its registration, from compliance.
+  (1) It is a condition of registration that the establishment will at all times comply with the relevant policies and criteria established by the Qualifications Authority under section 253(1)﻿(ca) that are currently in force, except to the extent that the Authority exempts the establishment, by a condition on its registration, from compliance.
   (2) When granting registration to an establishment, the Qualifications Authority may impose conditions on the registration that are specific to that establishment.
   (3) The Qualifications Authority may at any time, with the agreement of a registered establishment, impose new conditions on its registration, and may amend or revoke any existing conditions.
   (4) The Qualifications Authority may, without the agreement of a registered establishment, impose conditions on its registration, or amend or revoke any existing conditions, but only if the Authority has first—
@@ -490,8 +490,8 @@ Section 241(b) of the principal Act is amended by omitting the words sections 25
 ### 33 Functions of Authority
 (1) Section 253(1) of the principal Act is amended by inserting, after paragraph (c), the following paragraph:
   (ca) subject to subsection (2), to establish policies and criteria for the registration of private training establishments:.
-(2) Section 253(2) of the principal Act is amended by omitting the words paragraph (d) or paragraph (e) of subsection (1) of this section, and substituting the words subsection (1)(ca), (d), or (e).
-(3) Section 253(3) of the principal Act is amended by omitting the words paragraph (d) or paragraph (e) of subsection (1) of this section, and substituting the words subsection (1)(ca), (d), and (e).
+(2) Section 253(2) of the principal Act is amended by omitting the words paragraph (d) or paragraph (e) of subsection (1) of this section, and substituting the words subsection (1)﻿(ca), (d), or (e).
+(3) Section 253(3) of the principal Act is amended by omitting the words paragraph (d) or paragraph (e) of subsection (1) of this section, and substituting the words subsection (1)﻿(ca), (d), and (e).
 
 ### 34 New section 255A inserted
 The principal Act is amended by inserting, after section 255, the following section:Compliance notices
@@ -503,14 +503,14 @@ The principal Act is amended by inserting, after section 255, the following sect
     (c) state the consequences or possible consequences of non-compliance with the notice.
   (4) The Authority may publish any compliance notice, or a summary of a compliance notice, in a manner designed to give public notice of the compliance notice.
   (5) An institution that receives a compliance notice must comply with it within the time or during the period specified in the notice.
-  (6) The Authority may, before the expiry of the time or period referred to in subsection (3)(b), extend that time or period, in which case the extended time or period is for all purposes the time or period within or during which the notice must be complied with.
+  (6) The Authority may, before the expiry of the time or period referred to in subsection (3)﻿(b), extend that time or period, in which case the extended time or period is for all purposes the time or period within or during which the notice must be complied with.
   (7) If the institution does not comply with the compliance notice, the Authority may immediately,—
     (a) if the notice was issued to a registered establishment and related to a registration matter, cancel the registration of the establishment, or impose new, or amend or revoke any existing, conditions on the establishment's registration; or
     (b) if the notice related to a course approval, withdraw any course approvals held by the institution, or impose new, or amend or revoke any existing, conditions on any course approval held by the institution; or
     (c) if the notice related to an accreditation, withdraw any accreditations held by the institution, or impose new, or amend or revoke any existing, conditions on any accreditation.
   (8) The Authority may not do any of the things specified in subsection (7) until the later of—
     (a) 10 days from the date of issue of the notice; and
-    (b) the expiry of the time or period referred to in subsection (3)(b).
+    (b) the expiry of the time or period referred to in subsection (3)﻿(b).
 
 ### 35 Approval of courses
 (1) Section 258 of the principal Act is amended by inserting, after subsection (9), the following subsections:
@@ -520,7 +520,7 @@ The principal Act is amended by inserting, after section 255, the following sect
 
 ### 36 New section 258A inserted
 The principal Act is amended by inserting, after section 258, the following section:Conditions on course approvals
-  (1) Every course approval is subject to the condition that the institution will at all times comply with the relevant policies and criteria established by the Authority under section 253(1)(d) that are currently in force, except to the extent that the Authority exempts the institution, by a condition on the approval, from compliance.
+  (1) Every course approval is subject to the condition that the institution will at all times comply with the relevant policies and criteria established by the Authority under section 253(1)﻿(d) that are currently in force, except to the extent that the Authority exempts the institution, by a condition on the approval, from compliance.
   (2) When approving a course, the Authority may impose conditions on the approval that are specific to the approval for that particular course.
   (3) The Authority may at any time, with the agreement of the institution that holds the course approval, impose new conditions on the approval and may amend or revoke any existing conditions.
   (4) The Authority may, without the agreement of the institution, impose conditions on a course approval, or amend or revoke any existing conditions, but only if the Authority has first—
@@ -536,7 +536,7 @@ Section 259 of the principal Act is amended by adding the following subsections:
 
 ### 38 New section 259A inserted
 The principal Act is amended by inserting, after section 259, the following section:Conditions on accreditation to provide approved courses
-  (1) Every accreditation is subject to the condition that the institution will at all times comply with the relevant policies and criteria established by the Authority under section 253(1)(e) that are currently in force, except to the extent that the Authority exempts the institution, by a condition on the accreditation, from compliance.
+  (1) Every accreditation is subject to the condition that the institution will at all times comply with the relevant policies and criteria established by the Authority under section 253(1)﻿(e) that are currently in force, except to the extent that the Authority exempts the institution, by a condition on the accreditation, from compliance.
   (2) When granting accreditation to an institution to provide an approved course of study or training, the Authority may impose conditions on the accreditation that are specific to the accreditation.
   (3) The Authority may at any time, with the agreement of the accredited institution, impose new conditions on the accreditation and may amend or revoke any existing conditions.
   (4) The Authority may, without the agreement of the institution, impose conditions on an accreditation, or amend or revoke any existing conditions, but only if the Authority has first—
@@ -599,19 +599,19 @@ Section 320 of the principal Act is amended by inserting, before the definition 
     (a) use the term university to describe an educational establishment or facility unless the educational establishment and facility—
       (i) is a university; or
       (ii) is a registered establishment that has the Minister's permission under section 264A to use the term; or
-      (iii) was a university but, despite being incorporated under section 164(4) into another institution, retains the characteristics of a university as set out in section 162(4)(a) and (b)(iii):
+      (iii) was a university but, despite being incorporated under section 164(4) into another institution, retains the characteristics of a university as set out in section 162(4)﻿(a) and (b)﻿(iii):
     (b) use the term college of education to describe an educational establishment or facility unless the educational establishment or facility—
       (i) is a college of education; or
       (ii) is a registered establishment and the Minister has consented under section 264A to the establishment using the term; or
-      (iii) was a college of education but, despite being incorporated under section 164(4) into another institution, retains the characteristics of a college of education as set out in section 162(4)(b)(i):
+      (iii) was a college of education but, despite being incorporated under section 164(4) into another institution, retains the characteristics of a college of education as set out in section 162(4)﻿(b)﻿(i):
     (c) use the term polytechnic to describe an educational establishment or facility unless the educational establishment or facility—
       (i) is a polytechnic or institute of technology; or
       (ii) is a registered establishment that has the Minister's permission under section 264A to use the term; or
-      (iii) was a polytechnic or institute of technology but, despite being incorporated under section 164(4) into another institution, retains the characteristics of a polytechnic as set out in section 162(4)(b)(ii):
+      (iii) was a polytechnic or institute of technology but, despite being incorporated under section 164(4) into another institution, retains the characteristics of a polytechnic as set out in section 162(4)﻿(b)﻿(ii):
     (d) use the term institute of technology to describe an educational establishment or facility unless the educational establishment or facility—
       (i) is an institute of technology or a polytechnic; or
       (ii) is a registered establishment that has the Minister's permission under section 264A to use the term; or
-      (iii) was an institute of technology or a polytechnic but, despite being incorporated under section 164(4) into another institution, retains the characteristics of a polytechnic as set out in section 162(4)(b)(ii).
+      (iii) was an institute of technology or a polytechnic but, despite being incorporated under section 164(4) into another institution, retains the characteristics of a polytechnic as set out in section 162(4)﻿(b)﻿(ii).
   (5) A person (other than a university) must not grant or purport to grant an award that is described as a degree, or the description of which includes the word bachelor, master, or doctor, unless—
     (a) the person has the consent of the Qualifications Authority or body subject to a delegation under section 254(5); or
     (b) as provided by section 192(11).
@@ -991,14 +991,14 @@ The Commission may enter into a contract or other enforceable obligation as foll
   (c) an obligation that is required to be entered into by deed must be signed by 2 members of the Commission.
 
 ### 55 Statement of intent
-(1) In fulfilling the requirements under section 41D(1) of the Public Finance Act 1989, the Commission must, instead of including in its statement of intent the information described in subsection (1)(a), (b), and (c) of that section (which is about objectives, activities, and performance targets), include the following information in its statement of intent:
+(1) In fulfilling the requirements under section 41D(1) of the Public Finance Act 1989, the Commission must, instead of including in its statement of intent the information described in subsection (1)﻿(a), (b), and (c) of that section (which is about objectives, activities, and performance targets), include the following information in its statement of intent:
   (a) contextual information about the Commission, including its functions, its current organisational structure, any notable features of its operating environment, and the likely implications of those features; and
   (b) a general description of the things that the Commission proposes to do, achieve, or work towards during the period covered by the statement of intent, which—
     (i) must be consistent with the statement of tertiary education priorities and the Commission's functions; and
     (ii) must include a summary of the nature and scope of the Commission's proposed operations; and
     (iii) may cover both financial and non-financial matters; and
   (c) a general description of the Commission's proposed strategies and activities for giving effect to, or achieving, the things referred to in paragraph (b), including a list of the intended principal activities of the Commission and how they relate to the things referred to in paragraph (b); and
-  (d) a description of how the statement of output objectives (as required by section 41D(1)(h) of the Public Finance Act 1989) links to the things referred to in paragraph (b); and
+  (d) a description of how the statement of output objectives (as required by section 41D(1)﻿(h) of the Public Finance Act 1989) links to the things referred to in paragraph (b); and
   (e) a general description of the manner in which the Commission proposes to operate and, in particular,—work it proposes to liaise with, and how it proposes to liaise with those other persons or bodies; and
     (i) which other persons or bodies engaged in similar or related
     (ii) what capability it needs to do its work, and how it will develop that capability; and
@@ -1014,7 +1014,7 @@ The Commission may enter into a contract or other enforceable obligation as foll
       (iii) forecast financial statements, including a forecast statement of financial performance, statement of financial position, forecast statement of movements in equity, and statement of cash flows, prepared in accordance with generally accepted accounting practice for each financial year to which the statement of intent relates:
       (iv) an outline of the proposed strategy for managing any recently reported or anticipated material net deficit (as determined in accordance with generally accepted accounting practice); and
       (i) any other information material to understanding and assessing the information provided in the statement of intent without which that information is false or misleading in a material particular.
-(2) The grouping of outputs in the statement of output objectives referred to in section 41D(1)(h) of the Public Finance Act 1989 must be done so that, in the case of outputs funded by appropriation, a group of outputs does not contain outputs funded from more than 1 appropriation in the Estimates.
+(2) The grouping of outputs in the statement of output objectives referred to in section 41D(1)﻿(h) of the Public Finance Act 1989 must be done so that, in the case of outputs funded by appropriation, a group of outputs does not contain outputs funded from more than 1 appropriation in the Estimates.
 (3) The Minister may, in relation to the Commission, exercise his or her powers under section 41G(1) of the Public Finance Act 1989 as if that section included a reference to paragraphs (b), (f), and (g) of subsection (1); and that section applies accordingly.
 
 ### 56 Annual report
