@@ -1,5 +1,5 @@
 # Reserves and Other Lands Disposal Act 1979
-_Consolidation as at 1981-01-07_
+_Consolidation as at 2020-08-01_
 
 > An Act to provide for various matters relating to Crown land, reserves, and other land held for public purposes
 
@@ -62,7 +62,7 @@ Whereas the land to which this section relates is held by the Tauranga City Coun
 ### 6 Empowering Rotorua High Schools Board to purchase certain land
 Whereas the land to which this section relates is a stopped street vested in the Rotorua City Council: And whereas the Rotorua High Schools Board is the owner of certain adjoining land: And whereas it is expedient that the Rotorua High Schools Board should be empowered to purchase the land: And whereas the Rotorua High Schools Board has no power to purchase land: Be it therefore enacted as follows:
 (1) The Rotorua High Schools Board is hereby empowered to purchase the land to which this section relates and to hold the land in trust as an endowment for the Rotorua High School.
-(2) Notwithstanding anything to the contrary in the Education Act 1964, or in any other Act or rule of law, the net revenue (after payment of all administration charges) received by the Board from the land shall be applied for purposes connected with secondary schools controlled by the Board in accordance with arrangements to be made from time to time in that behalf between the Minister of Education and the Board.
+(2) Despite anything in the Education and Training Act 2020, or in any other Act or rule of law, the net revenue (after payment of all administration charges) received by the Board from the land shall be applied for purposes connected with secondary schools controlled by the Board in accordance with arrangements to be made from time to time in that behalf between the Minister of Education and the Board.
 (3) If at any time after the commencement of this section the Rotorua High Schools Board grants a lease of the land to which this section relates to any person, nothing in section 17 of the Public Bodies Leases Act 1969 shall apply with respect to the first such lease.
 (4) This section relates to all that piece of land in the South Auckland Land District, Rotorua District, containing 425 square metres, more or less, being Section 16, Block XLVII, Town of Rotorua, situated in Block I, Tarawera Survey District, and being the whole of the land comprised and described in certificate of title No 13C/21, (South Auckland Registry).
 
