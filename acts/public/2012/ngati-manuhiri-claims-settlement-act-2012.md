@@ -1,5 +1,5 @@
 # Ngāti Manuhiri Claims Settlement Act 2012
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Ngāti Manuhiri Claims Settlement Act 2012.
@@ -157,8 +157,8 @@ In this Act, unless the context requires another meaning,—
   - **conservation management plan** has the meaning given by section 2(1) of the Conservation Act 1987
   - **conservation management strategy** has the meaning given by section 2(1) of the Conservation Act 1987
   - **conservation protocol** —
-    (a) means the protocol issued by the Minister of Conservation under section 20(1)(a); and
-    (b) includes any amendments made to the protocol under section 20(1)(b)
+    (a) means the protocol issued by the Minister of Conservation under section 20(1)﻿(a); and
+    (b) includes any amendments made to the protocol under section 20(1)﻿(b)
   - **conservation protocol area** means the area shown on the map attached to the conservation protocol
   - **control** , for the purposes of paragraph (d) of the definition of Crown body, means,—
     (a) for a company, control of the composition of its board of directors; and
@@ -180,8 +180,8 @@ In this Act, unless the context requires another meaning,—
   - **Crown forestry rental trust** means the trust established by the Crown forestry rental trust deed
   - **Crown forestry rental trust deed** means the trust deed made on 30 April 1990 establishing the Crown forestry rental trust under section 34 of the Crown Forest Assets Act 1989
   - **Crown minerals protocol** —
-    (a) means the protocol issued by the Minister of Energy and Resources under section 20(1)(a); and
-    (b) includes any amendments made to the protocol under section 20(1)(b)
+    (a) means the protocol issued by the Minister of Energy and Resources under section 20(1)﻿(a); and
+    (b) includes any amendments made to the protocol under section 20(1)﻿(b)
   - **Crown minerals protocol area** means the area shown on the map attached to the Crown minerals protocol, together with the adjacent waters
   - **cultural redress property** has the meaning given by section 61
   - **deed of recognition** —
@@ -207,14 +207,14 @@ In this Act, unless the context requires another meaning,—
       (iii) all improvements made by the purchaser or the licensee after the purchaser acquires the trees on the land
   - **LINZ** means Land Information New Zealand
   - **local authority** has the meaning given by section 5(1) of the Local Government Act 2002
-  - **member of Ngāti Manuhiri** means an individual referred to in section 12(1)(a)
+  - **member of Ngāti Manuhiri** means an individual referred to in section 12(1)﻿(a)
   - **national park management plan** has the same meaning as management plan in section 2 of the National Parks Act 1980
   - **Ngāti Manuhiri** has the meaning given by section 12(1)
   - **Ngāti Manuhiri Settlement Trust** means the trust with that name established by a deed of trust dated 5 December 2011
   - **property redress schedule** means the property redress schedule of the deed of settlement
   - **protocol** —
-    (a) means a protocol issued under section 20(1)(a); and
-    (b) includes any amendments made to the protocol under section 20(1)(b)
+    (a) means a protocol issued under section 20(1)﻿(a); and
+    (b) includes any amendments made to the protocol under section 20(1)﻿(b)
   - **public work** has the meaning given by section 2 of the Public Works Act 1981
   - **regional council** has the meaning given by section 2(1) of the Resource Management Act 1991
   - **Registrar-General** means the Registrar-General of Land appointed under section 4 of the Land Transfer Act 1952
@@ -222,9 +222,9 @@ In this Act, unless the context requires another meaning,—
   - **representative entity** means—
     (a) the trustees; and
     (b) a person (including a trustee) acting for, or on behalf of,—
-      (i) the collective group referred to in section 12(1)(a); or
+      (i) the collective group referred to in section 12(1)﻿(a); or
       (ii) 1 or more members of Ngāti Manuhiri; or
-      (iii) 1 or more of the whānau, hapū, or groups referred to in section 12(1)(c)
+      (iii) 1 or more of the whānau, hapū, or groups referred to in section 12(1)﻿(c)
   - **resource consent** has the meaning given by section 2(1) of the Resource Management Act 1991
   - **responsible Minister** means,—
     (a) for the conservation protocol, the Minister of Conservation; or
@@ -242,8 +242,8 @@ In this Act, unless the context requires another meaning,—
     (a) has the meaning given by section 2(1) of the Protected Objects Act 1975; and
     (b) includes ngā taonga tūturu (as defined by section 2(1) of that Act)
   - **taonga tūturu protocol** —
-    (a) means the protocol issued by the Minister for Arts, Culture and Heritage under section 20(1)(a); and
-    (b) includes any amendments made to the protocol under section 20(1)(b)
+    (a) means the protocol issued by the Minister for Arts, Culture and Heritage under section 20(1)﻿(a); and
+    (b) includes any amendments made to the protocol under section 20(1)﻿(b)
   - **Te Hauturu-o-Toi / Little Barrier Island gift area** means the area shown as A on deed plan OTS–125–02, comprising 2 815.7630 hectares, more or less, being Section 2 SO 440008 (balance of the land in Gazette notice 631196.1)
   - **tikanga** means customary values and practices
   - **transfer** means the transfer of a property's beneficial ownership upon settlement for the property
@@ -299,7 +299,7 @@ In this Act, unless the context requires another meaning,—
     (ii) Wai 1811—Māori Representation in Government claim:
     (iii) Wai 2181—Nga Uri o Maki lands and resources claims.
 (4) However, the historical claims do not include—
-  (a) a claim that a member of Ngāti Manuhiri, or a whānau, hapū, or group referred to in section 12(1)(c), had or may have that is, or is founded on, a right arising by virtue of being descended from a person other than an ancestor of Ngāti Manuhiri (as defined in section 12(2)); or
+  (a) a claim that a member of Ngāti Manuhiri, or a whānau, hapū, or group referred to in section 12(1)﻿(c), had or may have that is, or is founded on, a right arising by virtue of being descended from a person other than an ancestor of Ngāti Manuhiri (as defined in section 12(2)); or
   (b) a claim that a representative entity had or may have that is, or is founded on, a claim described in paragraph (a).
 
 **Settlement of historical claims**
@@ -330,7 +330,7 @@ In this Act, unless the context requires another meaning,—
 (2) The enactments are—
   (a) sections 8A to 8HJ of the Treaty of Waitangi Act 1975:
   (b) sections 27A to 27C of the State-Owned Enterprises Act 1986:
-  (c) sections 211 to 213 of the Education Act 1989:
+  (c) sections 568 to 570 of the Education and Training Act 2020:
   (d) Part 3 of the Crown Forest Assets Act 1989:
   (e) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990.
 
@@ -472,10 +472,10 @@ The only purposes of the statutory acknowledgement are—
   (a) if the application is received by the consent authority, a summary of the application; or
   (b) if notice of the application is served on the consent authority under section 145(10) of the Resource Management Act 1991, a copy of the notice.
 (2) The information provided in a summary of an application must be the same as would be given to an affected person by limited notification under section 95B of the Resource Management Act 1991, or as may be agreed between the trustees and the relevant consent authority.
-(3) A summary of an application must be provided under subsection (1)(a)—
+(3) A summary of an application must be provided under subsection (1)﻿(a)—
   (a) as soon as is reasonably practicable after the consent authority receives the application; but
   (b) before the consent authority decides under section 95 of the Resource Management Act 1991 whether to notify the application.
-(4) A copy of a notice of an application must be provided under subsection (1)(b) no later than 10 working days after the day on which the consent authority receives the notice.
+(4) A copy of a notice of an application must be provided under subsection (1)﻿(b) no later than 10 working days after the day on which the consent authority receives the notice.
 (5) This section does not affect a relevant consent authority's obligation,—
   (a) under section 95 of the Resource Management Act 1991, to decide whether to notify an application, and to notify the application if it decides to do so; or
   (b) under section 95E of that Act, to decide whether the trustees are affected persons in relation to an activity.
@@ -651,7 +651,7 @@ The Minister of Conservation may make bylaws for 1 or more of the following purp
   (b) the relevant area is to be, or has been, disposed of by the Crown; or
   (c) the responsibility for managing the relevant area is to be, or has been, transferred to another Minister of the Crown or to the Commissioner of Crown Lands.
 (3) Subsection (4) applies if—
-  (a) subsection (2)(c) applies; or
+  (a) subsection (2)﻿(c) applies; or
   (b) there is a change in the statutory management regime that applies to all or part of the whenua rāhui site.
 (4) The Crown must take reasonable steps to try to ensure that the trustees continue to have input into the management of the relevant area.
 
@@ -788,7 +788,7 @@ In this Act, unless the context requires another meaning,—
     (i) the notification that section 24 of the Conservation Act 1987 does not apply to the site; and
     (ii) the notifications that the site is subject to sections 70(3) and 74 of this Act; or
   (b) part of the site, then the Registrar-General must ensure that the notifications referred to in paragraph (a) remain only on any computer freehold register for the part of the site that remains a reserve.
-(5) The Registrar-General must comply with an application received in accordance with subsection (4)(a).
+(5) The Registrar-General must comply with an application received in accordance with subsection (4)﻿(a).
 
 ### 72 Application of other enactments
 (1) Sections 24 and 25 of the Reserves Act 1977 do not apply to the revocation, under subpart 4, of the reserve status of a cultural redress property.
@@ -805,7 +805,7 @@ In this Act, unless the context requires another meaning,—
 ### 73 Application of Reserves Act 1977 to reserve sites
 (1) The trustees are the administering body of a reserve site for the purposes of the Reserves Act 1977.
 (2) Sections 48A, 114, and 115 of the Reserves Act 1977 apply to a reserve site, despite sections 48A(6), 114(5), and 115(6) of that Act.
-(3) Sections 78(1)(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve site.
+(3) Sections 78(1)﻿(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve site.
 (4) If the reservation, under subpart 4, of a reserve site is revoked under section 24 of the Reserves Act 1977 in relation to all or part of the site, section 25 (except subsection (2)) of that Act does not apply to the revocation.
 
 ### 74 Subsequent transfer of reserve site
@@ -890,7 +890,7 @@ In this subpart,—
 In this subpart,—
   - **Conservation Board** means the board established under section 6L of the Conservation Act 1987 that has jurisdiction over the Te Hauturu-o-Toi / Little Barrier Island gift area
   - **Hauturu plan** has the meaning given by section 85(1)
-  - **summary of submissions** means a summary prepared under section 89(5)(a) of the submissions received, and any public opinion obtained, on a draft Hauturu plan.
+  - **summary of submissions** means a summary prepared under section 89(5)﻿(a) of the submissions received, and any public opinion obtained, on a draft Hauturu plan.
 
 ### 85 Process for preparation and approval of Hauturu plan
 (1) A conservation management plan for the Te Hauturu-o-Toi / Little Barrier Island gift area (the Hauturu plan) must be prepared and approved in accordance with this subpart.
@@ -917,7 +917,7 @@ The Director-General must prepare a draft Hauturu plan in consultation with—
 (1) Any person or organisation may make written submissions to the Director-General on the draft Hauturu plan at the place, and on or before the date, specified in a notice given for the draft plan under section 87.
 (2) The Director-General may, after consulting the trustees and the Conservation Board, obtain public opinion of the draft plan from any person or organisation by any other means.
 (3) The Director-General must make the draft plan available for public inspection between 9 am and 5 pm on any working day—
-  (a) on and from the date the notice was given under section 87(1)(a) until the last date for written submissions specified in the notice; and
+  (a) on and from the date the notice was given under section 87(1)﻿(a) until the last date for written submissions specified in the notice; and
   (b) in places and quantities that are likely to encourage public participation in the development of the plan.
 
 ### 89 Hearing of submissions
@@ -937,7 +937,7 @@ The Director-General must prepare a draft Hauturu plan in consultation with—
 (3) The trustees and the Conservation Board,—
   (a) on receiving the draft plan, must together consider the draft plan and the summary of submissions; and
   (b) no later than 4 months after receiving the draft plan and the summary, may request the Director-General to revise the draft plan.
-(4) If the Director-General receives a request under subsection (3)(b), he or she must—
+(4) If the Director-General receives a request under subsection (3)﻿(b), he or she must—
   (a) revise the draft plan in accordance with the request; and
   (b) provide the revised draft plan to the trustees and the Conservation Board no later than 2 months after receiving the request.
 
@@ -946,8 +946,8 @@ The Director-General must prepare a draft Hauturu plan in consultation with—
   (a) the Conservation Authority for its comments on matters relating to the national public conservation interest in the Te Hauturu-o-Toi / Little Barrier Island gift area; and
   (b) the Minister of Conservation for his or her comments.
 (2) The draft plan must be provided in the form of, and on receipt of,—
-  (a) the draft plan provided by the Director-General under section 90(2)(b), if a request is not made under section 90(3)(b); or
-  (b) the revised draft plan provided by the Director-General under section 90(4)(b), if a request is made under section 90(3)(b).
+  (a) the draft plan provided by the Director-General under section 90(2)﻿(b), if a request is not made under section 90(3)﻿(b); or
+  (b) the revised draft plan provided by the Director-General under section 90(4)﻿(b), if a request is made under section 90(3)﻿(b).
 (3) The Conservation Authority and the Minister of Conservation must provide their comments on the draft plan to the trustees and the Conservation Board no later than 4 months after receiving the draft plan.
 
 ### 92 Approval of draft plan
@@ -959,7 +959,7 @@ The Director-General must prepare a draft Hauturu plan in consultation with—
   (b) refer any disagreement about the draft plan to the Conservation Authority by providing a written statement of the matters of disagreement and the reasons for them.
 
 ### 93 Referral of disagreement to Conservation Authority
-(1) If a disagreement is referred to the Conservation Authority under section 92(2)(b), the Conservation Authority must—
+(1) If a disagreement is referred to the Conservation Authority under section 92(2)﻿(b), the Conservation Authority must—
   (a) make a recommendation on any matter of disagreement; and
   (b) give written notice of the recommendation to the trustees and the Conservation Board.
 (2) The notice of recommendation must be given no later than 3 months after the disagreement is referred to the Conservation Authority.
@@ -1007,7 +1007,7 @@ The Director-General must prepare a draft Hauturu plan in consultation with—
 (5) The trustees and the Conservation Board—
   (a) must consider the proposed amendment; and
   (b) may amend the Hauturu plan as proposed and approve the amended plan.
-(6) Any approval under subsection (5)(b) must be given no later than 2 months after receiving the proposed amendment.
+(6) Any approval under subsection (5)﻿(b) must be given no later than 2 months after receiving the proposed amendment.
 
 ### 97 Involvement of other iwi
 This subpart does not exclude representatives of other iwi from being involved with the Hauturu plan, if other enactments provide for that.
@@ -1091,14 +1091,14 @@ The Crown (acting by and through the chief executive of the land holding agency)
 (2) The effect of subsection (1) is that—
   (a) the trustees are entitled to the rental proceeds paid for the licensed land to the trustees of the Crown forestry rental trust under the Crown forestry licence since the commencement of the licence; and
   (b) all the provisions of the Crown forestry rental trust deed apply on the basis that the trustees are the confirmed beneficiaries in relation to the licensed land.
-(3) The Crown must give notice under section 17(4)(b) of the Crown Forest Assets Act 1989 in respect of the Crown forestry licence, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land.
+(3) The Crown must give notice under section 17(4)﻿(b) of the Crown Forest Assets Act 1989 in respect of the Crown forestry licence, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land.
 (4) Notice given by the Crown under subsection (3) has effect as if—
-  (a) the Waitangi Tribunal had made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land; and
+  (a) the Waitangi Tribunal had made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land; and
   (b) the recommendation had become final on the settlement date.
 (5) The trustees are the licensors under the Crown forestry licence as if the licensed land had been returned to Māori ownership—
   (a) on the settlement date; and
   (b) under section 36 of the Crown Forest Assets Act 1989.
-(6) However, section 36(1)(b) of the Crown Forest Assets Act 1989 does not apply to the licensed land.
+(6) However, section 36(1)﻿(b) of the Crown Forest Assets Act 1989 does not apply to the licensed land.
 (7) This section applies whether or not the transfer of the fee simple estate in the licensed land has been registered.
 
 ### Subpart 3 — Right of access to protected sites
@@ -1165,7 +1165,7 @@ In this subpart and Schedule 4, unless the context requires another meaning,—
     (i) is vested in the Crown; or
     (ii) is held in fee simple by the Crown; or
     (iii) is a reserve vested in an administering body that derived title to the reserve from the Crown; and
-  (b) includes land obtained in exchange for a disposal of RFR land under section 126(1)(c) or 127; but
+  (b) includes land obtained in exchange for a disposal of RFR land under section 126(1)﻿(c) or 127; but
   (c) does not include a commercial redress property.
 (2) However, land ceases to be RFR land if—
   (a) the fee simple estate in the land transfers from the RFR landowner to—
@@ -1234,7 +1234,7 @@ The RFR landowner may, by notice to the trustees, withdraw an offer at any time 
 (1) An RFR landowner may dispose of RFR land to—
   (a) the Crown; or
   (b) a Crown body.
-(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 143(5) or 206 of the Education Act 1989.
+(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 563 of the Education and Training Act 2020.
 
 ### 121 Disposals of existing public works to local authorities
 (1) An RFR landowner may dispose of RFR land that is a public work, or part of a public work, in accordance with section 50 of the Public Works Act 1981 to a local authority (as defined by section 2 of that Act).
@@ -1266,7 +1266,7 @@ An RFR landowner may dispose of RFR land in accordance with—
 
 ### 125 Disposals by the Crown under certain legislation
 The Crown may dispose of RFR land in accordance with—
-  (a) section 54(1)(d) of the Land Act 1948; or
+  (a) section 54(1)﻿(d) of the Land Act 1948; or
   (b) section 355(3) of the Resource Management Act 1991; or
   (c) subpart 3 of Part 2 of the Marine and Coastal Area (Takutai Moana) Act 2011.
 
@@ -1274,8 +1274,8 @@ The Crown may dispose of RFR land in accordance with—
 (1) An RFR landowner may dispose of RFR land in accordance with—
   (a) section 40(2) or (4) or 41 of the Public Works Act 1981 (including as applied by another enactment); or
   (b) section 52, 105(1), 106, 114(3), 117(7), or 119 of the Public Works Act 1981; or
-  (c) section 117(3)(a) of the Public Works Act 1981; or
-  (d) section 117(3)(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
+  (c) section 117(3)﻿(a) of the Public Works Act 1981; or
+  (d) section 117(3)﻿(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
   (e) section 23(1) or (4), 24(4), or 26 of the New Zealand Railways Corporation Restructuring Act 1990.
 (2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under section 134 of Te Ture Whenua Maori Act 1993 after an application by an RFR landowner under section 41(e) of the Public Works Act 1981.
 
@@ -1302,7 +1302,7 @@ The Crown may dispose of RFR land—
     (i) that prevents or limits an RFR landowner’s disposal of RFR land to the trustees; and
     (ii) that the RFR landowner cannot satisfy by taking reasonable steps; and
   (c) the terms of a mortgage over, or security interest in, RFR land.
-(2) Reasonable steps, for the purposes of subsection (1)(b)(ii), do not include steps to promote the passing of an enactment.
+(2) Reasonable steps, for the purposes of subsection (1)﻿(b)﻿(ii), do not include steps to promote the passing of an enactment.
 (3) This subpart does not limit anything referred to in subsection (1).
 
 **Notices**
@@ -1440,7 +1440,7 @@ This subpart does not limit the ability of the Crown, or a Crown body, to sell o
 | Pākiri Domain Recreation Reserve site | North Auckland Land District—Auckland Council2.0148 hectares, more or less, being Section 1 SO 440006. All Gazette 1979, p 1393. | Recreation reserve subject to section 17 of the Reserves Act 1977.Subject to an unregistered grazing licence to Pākiri Hall Advisory Committee. |
 | Pākiri Block conservation area | North Auckland Land District—Auckland Council47.3836 hectares, more or less, being Section 43 Block VI Pākiri Survey District. | Subject to the conservation covenant referred to in section 65(3). |
 | Pākiri riverbed site | North Auckland Land District—Auckland Council4.8700 hectares, more or less, being Sections 1, 2, and 3 SO 442817. | Subject to the conservation covenant referred to in section 66(2).Subject to a deed of lease to Ngati Wai Trust Board dated 1 August 1996 as renewed by an unregistered deed of renewal of lease dated 2006. |
-| Te Maraeroa | North Auckland Land District—Auckland Council1.2370 hectares, more or less, being Section 1 SO 440008. Part Gazette notice 631196.1. | Subject to the conservation covenant referred to in section 67(3)(a).Subject to the right of way easement referred to in section 67(3)(b).Subject to the easement for a right to convey water, electricity, telecommunications, and computer media, and to drain sewage and waste water, referred to in section 67(3)(c).Subject to the easement for a right to drain sewage and waste water referred to in section 67(3)(d).Subject to an unregistered guiding concession to the Manuhiri Omaha Kaitiakitanga Ora Charitable Trust with concession number AK–17145–GUI and dated 22 July 2009.Subject to an unregistered guiding concession to Tom McMurdo with concession number AK–27618–GUI and dated 2 August 2010. |
+| Te Maraeroa | North Auckland Land District—Auckland Council1.2370 hectares, more or less, being Section 1 SO 440008. Part Gazette notice 631196.1. | Subject to the conservation covenant referred to in section 67(3)﻿(a).Subject to the right of way easement referred to in section 67(3)﻿(b).Subject to the easement for a right to convey water, electricity, telecommunications, and computer media, and to drain sewage and waste water, referred to in section 67(3)﻿(c).Subject to the easement for a right to drain sewage and waste water referred to in section 67(3)﻿(d).Subject to an unregistered guiding concession to the Manuhiri Omaha Kaitiakitanga Ora Charitable Trust with concession number AK–17145–GUI and dated 22 July 2009.Subject to an unregistered guiding concession to Tom McMurdo with concession number AK–27618–GUI and dated 2 August 2010. |
 
 ## Schedule 4 — Notices in relation to RFR land
 
