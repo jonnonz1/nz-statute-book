@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2020-06-27_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -1752,7 +1752,7 @@ To avoid doubt, any failure by an employee's employer to comply with the obligat
 
 ### 69L Agreements excluding entitlements for technical redundancy not affected
 (1) To avoid doubt, this subpart does not limit or affect any terms and conditions of employment under which the employee's entitlement to redundancy entitlements is excluded where the employee may transfer to the new employer but elects not to do so.
-(2) This subpart does not limit or affect section 77HA of the State Sector Act 1988.
+(2) This subpart does not limit or affect section 605 of the Education and Training Act 2020.
 
 ### 69LA Liability for costs of service-related entitlements of transferring employee
 (1) This section applies if—
@@ -2408,7 +2408,7 @@ Participation in a strike or lockout is lawful if the employees who strike have,
 (4) To avoid doubt, this section does not apply if notice is required under any of the following provisions:
   (a) section 90 (strikes in essential services):
   (b) section 93 (procedure to provide public with notice before strike in certain passenger transport services):
-  (c) section 74AC of the State Sector Act 1988 (strikes in schools to be notified).
+  (c) section 589 of the Education and Training Act 2020 (strikes in schools to be notified).
 
 ### 86B Notice of lockout
 (1) No employer may lock out any employees—
@@ -3156,12 +3156,13 @@ The chief executive or a Labour Inspector may recover in the District Court as a
     (iiia) an enforceable undertaking that section 223C(1) provides may be enforced by compliance order; or
     (iiib) an improvement notice that section 223D(6) provides may be enforced by compliance order; or
     (iv) a demand notice that section 225(4) provides may be enforced by compliance order; or
-    (v) sections 56, 58, 77A, and 77D of the State Sector Act 1988; or
-    (vi) Parts 6 and 7 of the State Sector Act 1988; or
+    (v) sections 56 and 58 of the State Sector Act 1988; or
+    (vi) Part 6 of the State Sector Act 1988; or
     (vii) section 11(3)﻿(c) of the Health and Disability Services Act 1993; or
     (viii) clauses 5 and 6 of Schedule 1 of the Broadcasting Act 1989; or
     (ix) sections 83, 83A, and 83B of the Fire Service Act 1975; or
     (x) clauses 18, 19, and 21 of Schedule 5 of the Accident Compensation Act 2001; or
+    (xi) Part 3 and sections 589 and 600 of the Education and Training Act 2020; or
     (xi)
   (b) any order, determination, direction, or requirement made or given under this Act by the Authority or a member or officer of the Authority.
 (2) Where this section applies, the Authority may, in addition to any other power it may exercise, by order require, in or in conjunction with any matter before the Authority under this Act to which that person is a party or in respect of which that person is a witness, that person to do any specified thing or to cease any specified activity, for the purpose of preventing further non-observance of or non-compliance with that provision, order, determination, direction, or requirement.
@@ -4185,7 +4186,7 @@ The provisions of Schedule 3 have effect in relation to the court and matters wi
   (c) the court acts in bad faith.
 
 ### 194 Application for review
-(1) If any person wishes to apply for review under the Judicial Review Procedure Act 2016, or bring proceedings seeking a writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction, in relation to the exercise, refusal to exercise, or proposed or purported exercise by—of a statutory power or statutory power of decision (as defined by section 4 of the Judicial Review Procedure Act 2016) conferred by or under this Act or any of the provisions of Parts 5, 6, 7, or 7A of the State Sector Act 1988, the provisions of subsections (2) to (4) of this section apply.
+(1) If any person wishes to apply for review under the Judicial Review Procedure Act 2016, or bring proceedings seeking a writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction, in relation to the exercise, refusal to exercise, or proposed or purported exercise by—of a statutory power or statutory power of decision (as defined by section 4 of the Judicial Review Procedure Act 2016) conferred by or under this Act or any of the provisions of Parts 5 and 6 of the State Sector Act 1988 or subpart 4 of Part 6 of the Education and Training Act 2020, the provisions of subsections (2) to (4) of this section apply.
   (a) the Authority; or
   (b) an officer of the Authority or the court; or
   (c) an employer, or that employer's representative; or
@@ -4195,7 +4196,7 @@ The provisions of Schedule 3 have effect in relation to the court and matters wi
   (g) the chief executive; or
   (h) any other person—
 (2) Despite any other Act or rule of law, but subject to section 184(1A), the court has full and exclusive jurisdiction to hear and determine any application or proceedings of the type referred to in subsection (1) and all such applications or proceedings must be made to or brought in the court.
-(3) Where a right of appeal (which includes, for the purposes of this subsection, the right to make an election under section 179) is conferred on any person under this Act or the State Sector Act 1988 in respect of any matter, that person may not make an application under subsection (1) in respect of that matter unless any appeal brought by that person in the exercise of that right of appeal has first been determined.
+(3) Where a right of appeal (which includes, for the purposes of this subsection, the right to make an election under section 179) is conferred on any person under this Act or the State Sector Act 1988 or the Education and Training Act 2020 in respect of any matter, that person may not make an application under subsection (1) in respect of that matter unless any appeal brought by that person in the exercise of that right of appeal has first been determined.
 (4) A Judge may at any time and after hearing such persons, if any, as the Judge thinks fit, give such directions prescribing the procedure to be followed in any particular case under this section as the Judge deems expedient having regard to the exigencies of the case and the interests of justice.
 
 ### 194A Application for review by certain employees
