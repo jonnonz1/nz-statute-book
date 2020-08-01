@@ -1,5 +1,5 @@
 # NgāiTakoto Claims Settlement Act 2015
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the NgāiTakoto Claims Settlement Act 2015.
@@ -288,7 +288,7 @@ In this Act, unless the context otherwise requires,—
   (e) for the benefit of NgāiTakoto or a representative entity.
 (2) The enactments are—
   (a) Part 3 of the Crown Forest Assets Act 1989:
-  (b) sections 211 to 213 of the Education Act 1989:
+  (b) sections 568 to 570 of the Education and Training Act 2020:
   (c) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990:
   (d) sections 27A to 27C of the State-Owned Enterprises Act 1986:
   (e) sections 8A to 8HJ of the Treaty of Waitangi Act 1975.
@@ -1941,7 +1941,7 @@ The RFR landowner may, by notice to the trustees of the 1 or more offer trusts, 
 (1) An RFR landowner may dispose of RFR land to—
   (a) the Crown; or
   (b) a Crown body.
-(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 143(5) or 206 of the Education Act 1989.
+(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 563 of the Education and Training Act 2020.
 
 ### 162 Disposal of existing public works to local authorities
 (1) An RFR landowner may dispose of RFR land that is a public work, or part of a public work, in accordance with section 50 of the Public Works Act 1981 to a local authority, as defined in section 2 of that Act.
