@@ -1,5 +1,5 @@
 # Taranaki Scholarships Trust Board Act 1957
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2020-08-01_
 
 > An Act to incorporate the Taranaki Scholarships Trust Board, and to provide for the administration of the Taranaki Scholarships endowment and the award of scholarships
 
@@ -99,15 +99,15 @@ In this Act, unless the context otherwise requires,—
 (3) No candidate shall be awarded a Taranaki Scholarship unless he has—
   (a) obtained an A award in the University Bursaries Examination, or attained a standard approved by the Board for the purpose in the Entrance Scholarships Examination, conducted by the Universities Entrance Board; or
   (b) as a student enrolled at a tertiary institution at which such a scholarship is tenable, in any year been credited with passes, at a level of attainment acceptable to the Board for the purpose, in subjects or units that together constitute a full-time programme within the meaning of the Tertiary Assistance Grants Regulations 1980 or regulations passed in amendment of or substitution for those regulations.
-(4) No candidate shall be awarded a Taranaki Scholarship unless, for a continuous period of at least 2 years, he either was enrolled at a school situated within the Provincial District of Taranaki, or was resident in that District and enrolled at a correspondence school established by the Minister of Education, and—
+(4) No candidate shall be awarded a Taranaki Scholarship unless, for a continuous period of at least 2 years, he either was enrolled at a school situated within the Provincial District of Taranaki, or was resident in that District and enrolled at a distance school established by the Minister of Education, and—
   (a) in the case of a candidate qualified under subsection (3)﻿(a), that period included 31 July in the year in which he sat the examination concerned; or
   (b) in the case of a candidate qualified under subsection (3)﻿(b), that period either—
     (i) included 31 July in the year before the year in which he first attended a tertiary institution; or
     (ii) if the Board is satisfied that the candidate had good reason for delaying his enrolment at that institution, included 31 July in the year 2 years before the year in which he first attended a tertiary institution.
-(5) Notwithstanding subsection (4)﻿(b), where the Board is satisfied that special reasons exist for doing so, it may award a Taranaki Scholarship to a candidate who is qualified under subsection (3)﻿(b) and who for any continuous period of at least 2 years either was enrolled at a secondary school situated in the Provincial District of Taranaki or was resident in that District and enrolled at a correspondence school established by the Minister of Education.
+(5) Notwithstanding subsection (4)﻿(b), where the Board is satisfied that special reasons exist for doing so, it may award a Taranaki Scholarship to a candidate who is qualified under subsection (3)﻿(b) and who for any continuous period of at least 2 years either was enrolled at a secondary school situated in the Provincial District of Taranaki or was resident in that District and enrolled at a distance school established by the Minister of Education.
 (6) A Taranaki Scholarship is tenable—
-  (a) at any institution established under Part 14 of the Education Act 1989:
-  (b) at any private training establishment (within the meaning of section 159(1) of the Education Act 1989) approved for the purposes of this Act by the Minister of Education by notice in the Gazette.
+  (a) at any institution established under subpart 3 of Part 4 of the Education and Training Act 2020:
+  (b) at any private training establishment (within the meaning of section 10(1) of the Education and Training Act 2020) approved for the purposes of this Act by the Minister of Education by notice in the Gazette.
 (7) A Taranaki Scholarship (other than a scholarship without emoluments) shall not be tenable with a University Junior Scholarship awarded by the Universities Entrance Board.
 (8) Subject to subsection (7), the value and conditions of tenure of Taranaki Scholarships shall be specified by bylaws from time to time made by the Board.
 
