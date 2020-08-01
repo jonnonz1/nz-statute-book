@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2020-08-01_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -26,7 +26,15 @@ In this Act, unless the context otherwise requires,—
   - **Government work** means a work or an intended work that is to be constructed, undertaken, established, managed, operated, or maintained by or under the control of the Crown or any Minister of the Crown for any public purpose; and includes land held or to be acquired for the purposes of the Conservation Act 1987 or any of the Acts specified in Schedule 1 of that Act (except the common marine and coastal area), even where the purpose of holding or acquiring the land is to ensure that it remains in an undeveloped state
   - **intellectual property** includes all property rights constituted by the Patents Act 2013, the Designs Act 1953, the Trade Marks Act 2002, and the Plant Variety Rights Act 1987, and includes any trade secret; but does not include any property rights constituted by the Copyright Act 1994
   - **land** includes any estate or interest in land
-  - **local authority** means any regional council, territorial authority, catchment authority or regional water board, harbour board, electric power board, education authority within the meaning of the Education Act 1964, council of any university within the meaning of the Education Act 1989, airport authority, and any other person or body, however designated, having authority, under any Act, to undertake the construction or execution of any public work
+  - **local authority** means—
+    (a) any regional council, territorial authority, catchment authority or regional water board, harbour board, or electric power board:
+    (b) any of the following as constituted, established, or continued by the Education and Training Act 2020:
+      (i) a board:
+      (ii) the council of a university:
+      (iii) a wānanga:
+      (iv) the New Zealand Institute of Skills and Technology or any of its subsidiaries that provide education or training (or both):
+    (c) an airport authority:
+    (d) any other person or body (however designated) having authority, under any Act, to undertake the construction or execution of any public work
   - **local work** means a work constructed or intended to be constructed by or under the control of a local authority, or for the time being under the control of a local authority
   - **motorway** means a motorway declared as such by the Governor-General in Council under section 138; and includes all bridges, drains, culverts, or other structures or works forming part of any motorway so declared; but does not include any local road, access way, or service lane (or the supports of any such road, way, or lane) that crosses over or under a motorway on a different level
   - **notice** means a statement conveying the general effect of a matter or thing done or intended to be done
@@ -34,8 +42,10 @@ In this Act, unless the context otherwise requires,—
   - **public reserve** and have the same meaning as in the Reserves Act 1977
   - **public work** and mean—
     (a) every Government work or local work that the Crown or any local authority is authorised to construct, undertake, establish, manage, operate, or maintain, and every use of land for any Government work or local work which the Crown or any local authority is authorised to construct, undertake, establish, manage, operate, or maintain by or under this or any other Act; and include anything required directly or indirectly for any such Government work or local work or use:
-    (b) every Government work or local work constructed, undertaken, established, managed, operated, or maintained by any education authority within the meaning of the Education Act 1964 and every use of land for any Government work or local work which such education authority constructs, undertakes, establishes, manages, operates, or maintains, and include anything required directly or indirectly for any such Government work or local work or use:
-    (c) any Government work or local work that is, or is required, for any university within the meaning of the Education Act 1989
+    (b) every Government work or local work constructed, undertaken, established, managed, operated, or maintained by any board (as defined in section 10(1) of the Education and Training Act 2020) and every use of land for any Government work or local work that the board constructs, undertakes, establishes, manages, operates, or maintains, and includes anything required (whether directly or indirectly) for any such Government work or local work or use:
+    (c) any Government work or local work that is, or is required, for—
+      (i) a university or wānanga as defined in section 10(1) of the Education and Training Act 2020; or
+      (ii) the New Zealand Institute of Skills and Technology (as continued by that Act) or any of its subsidiaries that provide education or training (or both)
   - **railway** includes—
     (a) the land upon which any railway is made or authorised to be made under this Act, and all buildings and erections of every kind thereon, and all land held for railway purposes; and
     (b) all buildings, erections, wharves, jetties, works, rolling stock, motor vehicles, vessels, plant, machinery, goods, chattels, and other fixed or moveable property of every description or kind capable of being used in respect of a railway, and situated or to be situated on any such land or held or used, or reputed to be held or used in connection with or for the purposes of a railway; and
