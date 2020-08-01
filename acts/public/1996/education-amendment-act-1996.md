@@ -1,5 +1,5 @@
 # Education Amendment Act 1996
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2020-08-01_
 
 > An Act to amend the Education Act 1989
 
@@ -30,7 +30,7 @@ This section substituted section 125 of the principal Act.
 This section amended section 126(1) of the principal Act.
 
 ### 7 Expiry of registration
-(1) This subsection amended section 127(1)(a) of the principal Act.
+(1) This subsection amended section 127(1)﻿(a) of the principal Act.
 (2) This subsection substituted section 127(5) of the principal Act.
 (3) This section amended section 126(1) of the principal Act.
 
