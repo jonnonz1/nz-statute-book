@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2020-07-25_
+_Consolidation as at 2020-08-01_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -1317,9 +1317,9 @@ In this Part, unless the context otherwise requires,—
     (ha) the Registrar of Motor Vehicle Traders:
     (i) the Regulator, as defined in the Accident Insurance Act 1998:
     (ia) WorkSafe New Zealand:
-    (j) any tertiary institution, secondary school, or private training establishment (as those terms are defined in the Education Act 1989) to which section 226A or section 238B of that Act applies, as from time to time notified to the Commissioner by the department for the time being responsible for the administration of the Social Security Act 2018:
+    (j) a tertiary education organisation, a secondary school, or a private training establishment (as those terms are defined in section 10(1) of the Education and Training Act 2020) to which clause 8 of Schedule 9 of that Act applies, as notified to the Commissioner by the department for the time being responsible for the administration of the Social Security Act 2018:
     (k) the Ministry of Education:
-    (l) the Teaching Council of Aotearoa New Zealand continued under Part 32 of the Education Act 1989:
+    (l) the Teaching Council of Aotearoa New Zealand continued under section 474 of the Education and Training Act 2020:
     (m) the agency or agencies appointed under section 100 of the Public and Community Housing Management Act 1992.
 
 ### 97A Relationship between Part 10 and other law relating to information disclosure
@@ -1899,7 +1899,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Citizenship Act 1977 | Section 26A |
 | Corrections Act 2004 | Sections 180 to 180D, 181, 182, and 204 |
 | Customs and Excise Act 2018 | Sections 306 to 310 |
-| Education Act 1989 | Sections 128A, 226A, 238B, and 307D |
+| Education and Training Act 2020 | clauses 7 and 8 of Schedule 9 |
 | Electoral Act 1993 | Sections 263A and 263B |
 | Electronic Identity Verification Act 2012 | Section 39 |
 | Public and Community Housing Management Act 1992 | Section 68 |
