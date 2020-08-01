@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2020-04-01_
+_Consolidation as at 2020-08-01_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -151,7 +151,7 @@ This Act applies to every tenancy for residential purposes except as specificall
   (f) where the premises constitute any barracks conducted by the Armed Forces for the accommodation of persons subject to the Armed Forces Discipline Act 1971:
   (g) where the premises constitute any barracks or hostel conducted by an employer for the accommodation of employees of that employer or (where the employer is a company) for the accommodation of employees of any associated company (within the meaning of section 2(2)):
   (h) where the premises are used to provide accommodation to students—
-    (i) at a school hostel (being a hostel within the meaning of section 2 of the Education Act 1989); or
+    (i) at a school hostel (being a hostel within the meaning of section 10(1) of the Education and Training Act 2020); or
     (ii) in accordance with the requirements of section 5B:
   (i) where the premises constitute part of a building occupied by a club and used by the club for the provision of temporary or transient accommodation to members of the club:
   (j) where the premises constitute part of any hotel in respect of which an on-licence is in force under the Sale and Supply of Alcohol Act 2012:
@@ -214,7 +214,7 @@ This Act applies to every tenancy for residential purposes except as specificall
 (5) An agreement referred to in subsection (1)﻿(b) is one that sets out—
   (a) the rights and obligations of the accommodation provider and the tertiary education provider; and
   (b) a dispute resolution process by which disputes between the accommodation provider and the tertiary education provider may be resolved.
-(6) In this section, tertiary education provider has the same meaning as in section 159(1) of the Education Act 1989, and, accordingly, includes universities, the New Zealand Institute of Skills and Technology and its Crown entity subsidiaries, colleges of education, wananga, specialist colleges, private training establishments registered under Part 18 of that Act, and government training establishments.
+(6) In this section, tertiary education provider has the same meaning as in section 10(1) of the Education and Training Act 2020.
 
 ### 6 Long fixed-term tenancies
 [Repealed]
@@ -962,7 +962,7 @@ With the consent of the Tribunal, the parties to a tenancy agreement may provide
   (c) in the case of a service tenancy granted by the Armed Forces to any person subject to the Armed Forces Discipline Act 1971, a certificate by the Secretary of Defence to the effect that operational requirements necessitated the giving of notice of less than 14 days shall be accepted by the Tribunal as conclusive proof of that matter.
 
 ### 53A Special provisions for notice terminating certain student tenancies
-(1) In this section, student tenancy means a tenancy to which this Act applies that is granted by an institution (as defined in section 159(1) of the Education Act 1989) to a person who is eligible to be a tenant by virtue of the person being—
+(1) In this section, student tenancy means a tenancy to which this Act applies that is granted by an institution (as defined in section 10(1) of the Education and Training Act 2020) to a person who is eligible to be a tenant by virtue of the person being—
   (a) a student; or
   (b) a student of a particular educational institution.
 (2) The landlord of a student tenancy, or the tenant of a student tenancy, may terminate the tenancy on 14 days’ notice if the tenant ceases to be eligible to be granted the tenancy.
