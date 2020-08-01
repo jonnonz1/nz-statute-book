@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -1606,11 +1606,7 @@ The purpose of the consultation document is to provide an effective basis for pu
 (5) The report under subsection (4) must not comment on the merits of any policy content of the consultation document.
 
 ### 93DA Amendments to long-term plan during outbreak of COVID-19
-(1) This section applies to a local authority using the special consultative procedure in making an amendment to the authority’s current long-term plan.
-(2) Despite section 93D(4), the local authority may adopt a consultation document that does not contain a report from the Auditor-General as required by that provision if—
-  (a) the proposed amendment of the long-term plan is necessary or desirable to support measures taken to contain or mitigate the outbreak of COVID-19 or its effects including, without limitation, by addressing the impacts and consequences of the outbreak for any aspect of the well-being of the community; and
-  (b) the local authority is satisfied that obtaining and including the report will prevent the authority from amending the long-term plan by 30 June 2020.
-(3) This section is repealed on 1 August 2020.
+[Repealed]
 
 ### 93E Additional content of consultation document for adoption or amendment of long-term plan where section 97 applies to proposed decision
 If a consultation document under section 93C or 93D relates to a proposal to provide for the making of a decision to which section 97 applies, that consultation document must include—
@@ -1639,13 +1635,7 @@ Before adopting a consultation document under section 93A, the local authority m
 (3) A report under subsection (1) must not comment on the merits of any policy content of the plan.
 
 ### 94A Long-term plan amended during outbreak of COVID-19
-(1) This section applies to a long-term plan that is amended using a special consultative procedure in which the local authority adopts a consultation document of a kind authorised by section 93DA(2).
-(2) Despite section 94(2), the amended long-term plan is not required to contain a report by the Auditor-General of the kind required by that provision.
-(3) However, the amended long-term plan must contain a statement—
-  (a) that the plan incorporates an amendment that has not been audited; and
-  (b) that includes the reasons why the amendment was not audited.
-(4) The local authority must include a statement under subsection (3) in the amended long-term plan immediately before the Auditor-General’s report under section 94(1).
-(5) This section is repealed on 1 August 2020.
+[Repealed]
 
 ### 95 Annual plan
 (1) A local authority must prepare and adopt an annual plan for each financial year.
@@ -3205,8 +3195,8 @@ A territorial authority must supply all secretarial and administrative services 
 ### 205 Use of development contributions for reserves
 A territorial authority must use a development contribution received for reserves purposes for the purchase or development of reserves within its district, which may include—
   (a) the development of community or recreational facilities associated with the use of a reserve:
-  (b) the provision or improvement of recreational facilities at a school established or about to be established under Part 12 of the Education Act 1989, if—
-    (i) a licence has been granted under section 6A of the Education Lands Act 1949 or section 70B of the Education Act 1989 in relation to the use or occupation of the community recreational facilities; and
+  (b) the provision or improvement of recreational facilities at a school established or about to be established under subpart 6 of Part 3 of the Education and Training Act 2020, if—
+    (i) a licence has been granted under section 6A of the Education Lands Act 1949 in relation to the use or occupation of the community recreational facilities; and
     (ii) the Minister for Sport and Recreation has notified the local authority in writing that he or she is satisfied that the licence provides for the reasonable use of the community recreational facilities by members of the public:
   (c) the purchase of land or an interest in land—
     (i) to be held for conservation purposes under the Reserves Act 1977:
