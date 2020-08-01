@@ -1,5 +1,5 @@
 # Gaming Duties Act 1971
-_Consolidation as at 2020-07-01_
+_Consolidation as at 2020-08-01_
 
 > An Act to consolidate and amend the law relating to totalisator duty and lottery duty
 
@@ -15,15 +15,15 @@ _Consolidation as at 2020-07-01_
 
 ### 3 Interpretation
 In this Act, unless the context otherwise requires,—Terms defined in sections 12B and 12M have the meanings so defined.
-  - **Agency** has the same meaning as in section 5(1) of the Racing Act 2003
   - **Commissioner** means the Commissioner of Inland Revenue as defined in the Tax Administration Act 1994
-  - **fixed-odds racing betting** means betting conducted by the Board or its agents under section 50 of the Racing Act 2003
+  - **fixed-odds racing betting** means betting conducted by TAB NZ or its agents under section 74 of the Racing Industry Act 2020
   - **New Zealand lottery** has the meaning set out in section 4(1) of the Gambling Act 2003
   - **officer of the department** means an officer of the department as defined in the Tax Administration Act 1994
   - **organiser** , in relation to a New Zealand lottery, means the New Zealand Lotteries Commission continued by section 236 of the Gambling Act 2003
   - **prescribed** , in relation to any form, means prescribed either by the Commissioner or by regulations made under the Tax Administration Act 1994
-  - **sports betting** has the same meaning as in section 5 of the Racing Act 2003
-  - **totalisator racing betting** has the same meaning as in section 5 of the Racing Act 2003; but does not include equalisator betting within the meaning of section 51 of that Act
+  - **sports betting** has the same meaning as in section 5(1) of the Racing Industry Act 2020
+  - **TAB NZ** has the same meaning as in section 5(1) of the Racing Industry Act 2020
+  - **totalisator racing betting** has the same meaning as in section 5(1) of the Racing Industry Act 2020; but does not include equalisator betting within the meaning of section 75 of that Act
   - **winning dividend** —
     (a) means the amount paid to a person for placing a winning bet; and
     (b) includes an amount paid to a person from an accumulated dividend prize pool, but only when that prize pool is paid out
@@ -33,17 +33,17 @@ In this Act, unless the context otherwise requires,—Terms defined in sections 
 
 ### 4 Totalisator duty
 (1) A totalisator duty is payable to the Crown at the rate of 1.33% of betting profits.
-(2) Betting profits for totalisator racing betting, sports betting, and fixed-odds racing betting is calculated in accordance with the formula:amounts − refunds − winning dividendswhere—amountsis the total of all amounts received by the Agency or its agents (including the net return from bets laid off) for—refundsis the amount of refunds paidwinning dividendsis the amount of all winning dividends paid out in respect of amounts described above.
+(2) Betting profits for totalisator racing betting, sports betting, and fixed-odds racing betting is calculated in accordance with the formula:amounts − refunds − winning dividendswhere—amountsis the total of all amounts received by TAB NZ or its agents (including the net return from bets laid off) for—refundsis the amount of refunds paidwinning dividendsis the amount of all winning dividends paid out in respect of amounts described above.
   (a) totalisator racing betting:
   (b) sports betting:
   (c) fixed-odds racing betting
 
-### 5 Board must provide returns and pay duty
-(1) The Board must, no later than the 20th day of each month,—
-  (a) provide to the Commissioner a return in the prescribed form of the totalisator duty payable by the Board for all racing betting and sports betting on events for which results have been declared during the previous month; and
+### 5 TAB NZ must provide returns and pay duty
+(1) TAB NZ must, no later than the 20th day of each month,—
+  (a) provide to the Commissioner a return in the prescribed form of the totalisator duty payable by TAB NZ for all racing betting and sports betting on events for which results have been declared during the previous month; and
   (b) pay the amount of that duty to the Commissioner.
 (2) For the purposes of subsection (1), if an event is held over 2 or more days, the event must be regarded as having been held in the month in which the last day occurs.
-(3) Totalisator duty payable by the Board constitutes a debt due and payable to the Crown by the Board.
+(3) Totalisator duty payable by TAB NZ constitutes a debt due and payable to the Crown by TAB NZ.
 
 ### 6 Payment of totalisator duty by racing club
 [Repealed]
