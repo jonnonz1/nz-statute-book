@@ -1,5 +1,5 @@
 # Ngāi Tahu Claims Settlement Act 1998
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2020-08-01_
 
 > An Act—ato record the apology given by the Crown to Ngāi Tahu in the deed of settlement executed on 21 November 1997 by the then Prime Minister the Right Honourable James Brendan Bolger, for the Crown, and Te Rūnanga o Ngāi Tahu; andbto give effect to certain provisions of that deed of settlement, being a deed that settles the Ngāi Tahu claims
 
@@ -79,7 +79,7 @@ This Part records the apology given by the Crown to Ngāi Tahu in the deed of se
 
 ### 5 Text in Māori
 The text of the apology in Māori is as follows:
-  (1) Kei te mōhio te Karauna i te tino roa o ngā tūpuna o Ngāi Tahu e totohe ana kia utu mai rātou e te Karauna—tata atu ki 150 ngā tau i puta ai tēnei pēpeha a Ngāi Tahu arā: He mahi kai tākata, he mahi kai hoaka. Nā te whai mahara o ngā tūpuna o Ngāi Tahu ki ngā āhuatanga o ngā kawenga a te Karauna i kawea ai e Matiaha Tiramōrehu tana petihana ki a Kuini Wikitoria i te tau 1857. I tuhia e Tiramōrehu tana petihana arā:‘Koia nei te whakahau a tōu aroha i whiua e koe ki runga i ēnei kāwana... tērā kia whakakotahitia te ture, kia whakakotahitia ngā whakahau, kia ōrite ngā āhuatanga mō te kiri mā kia rite ki tō te kiri waitutu, me te whakatakoto i te aroha o tōu ngākau pai ki runga i te iwi Māori kia noho ngākau pai tonu ai rātou me te mau mahara tonu ki te mana o tōu ingoa.’Nā konei te Karauna i whakaae ai tērā, te taumaha o ngā mahi a ngā tūpuna o Ngāi Tahu, nā rēira i tū whakaiti atu ai i nāianei i mua i ā rātou mokopuna.
+  (1) Kei te mōhio te Karauna i te tino roa o ngā tūpuna o Ngāi Tahu e totohe ana kia utu mai rātou e te Karauna—tata atu ki 150 ngā tau i puta ai tēnei pēpeha a Ngāi Tahu arā: He mahi kai tākata, he mahi kai hoaka. Nā te whai mahara o ngā tūpuna o Ngāi Tahu ki ngā āhuatanga o ngā kawenga a te Karauna i kawea ai e Matiaha Tiramōrehu tana petihana ki a Kuini Wikitoria i te tau 1857. I tuhia e Tiramōrehu tana petihana arā: ‘Koia nei te whakahau a tōu aroha i whiua e koe ki runga i ēnei kāwana... tērā kia whakakotahitia te ture, kia whakakotahitia ngā whakahau, kia ōrite ngā āhuatanga mō te kiri mā kia rite ki tō te kiri waitutu, me te whakatakoto i te aroha o tōu ngākau pai ki runga i te iwi Māori kia noho ngākau pai tonu ai rātou me te mau mahara tonu ki te mana o tōu ingoa.’Nā konei te Karauna i whakaae ai tērā, te taumaha o ngā mahi a ngā tūpuna o Ngāi Tahu, nā rēira i tū whakaiti atu ai i nāianei i mua i ā rātou mokopuna.
   (2) E whakaae ana te Karauna ki tōna tino hēanga, tērā i takakino tāruaruatia e ia ngā kaupapa o te Tiriti o Waitangi i roto i āna hokonga mai i ngā whenua o Ngāi Tahu. Tēnā, ka whakaae anō te Karauna tērā i roto i ngā āhuatanga i takoto ki roto i ngā pukapuka ā-herenga whakaatu i aua hokonga mai, kāore te Karauna i whai whakaaro ki tāna hoa nā rāua rā i haina te Tiriti, kāore hoki ia i whai whakaaro ki te wehe ake i ētahi whenua hei whai oranga tinana, whai oranga ngākau rānei mō Ngāi Tahu.
   (3) E whakaae ana te Karauna tērā, i roto i tāna takakino i te wāhanga tuarua o te Tiriti, kāore ia i whai whakaaro ki te manaaki, ki te tiaki rānei i ngā mauanga whenua a Ngāi Tahu me ngā tino taonga i hiahia a Ngāi Tahu ki te pupuri.
   (4) E mōhio ana te Karauna tērā, kāore ia i whai whakaaro ki a Ngāi Tahu i runga i te ngākau pono o roto i ngā tikanga i pūtake mai i te mana o te Karauna. Nā tāua whakaaro kore a te Karauna i puaki mai ai tēnei pēpeha a Ngāi Tahu: Te Hapa o Niu Tīreni. E mōhio ana te Karauna i tāna hē ki te kaipono i ngā āhuatanga whai oranga mō Ngāi Tahu i noho pōhara noa ai te iwi ia whakatupuranga heke iho. Te whakatauākī i pūtake mai i aua āhuatanga: Te mate o te iwi.
@@ -90,7 +90,7 @@ The text of the apology in Māori is as follows:
 
 ### 6 Text in English
 The text of the apology in English is as follows:
-  (1) The Crown recognises the protracted labours of the Ngāi Tahu ancestors in pursuit of their claims for redress and compensation against the Crown for nearly 150 years, as alluded to in the Ngāi Tahu proverb He mahi kai tākata, he mahi kai hoaka (It is work that consumes people, as greenstone consumes sandstone). The Ngāi Tahu understanding of the Crown's responsibilities conveyed to Queen Victoria by Matiaha Tiramōrehu in a petition in 1857, guided the Ngāi Tahu ancestors. Tiramōrehu wrote:‘This was the command thy love laid upon these Governors… that the law be made one, that the commandments be made one, that the nation be made one, that the white skin be made just equal with the dark skin, and to lay down the love of thy graciousness to the Māori that they dwell happily… and remember the power of thy name.’The Crown hereby acknowledges the work of the Ngāi Tahu ancestors and makes this apology to them and to their descendants.
+  (1) The Crown recognises the protracted labours of the Ngāi Tahu ancestors in pursuit of their claims for redress and compensation against the Crown for nearly 150 years, as alluded to in the Ngāi Tahu proverb He mahi kai tākata, he mahi kai hoaka (It is work that consumes people, as greenstone consumes sandstone). The Ngāi Tahu understanding of the Crown's responsibilities conveyed to Queen Victoria by Matiaha Tiramōrehu in a petition in 1857, guided the Ngāi Tahu ancestors. Tiramōrehu wrote: ‘This was the command thy love laid upon these Governors… that the law be made one, that the commandments be made one, that the nation be made one, that the white skin be made just equal with the dark skin, and to lay down the love of thy graciousness to the Māori that they dwell happily… and remember the power of thy name.’The Crown hereby acknowledges the work of the Ngāi Tahu ancestors and makes this apology to them and to their descendants.
   (2) The Crown acknowledges that it acted unconscionably and in repeated breach of the principles of the Treaty of Waitangi in its dealings with Ngāi Tahu in the purchases of Ngāi Tahu land. The Crown further acknowledges that in relation to the deeds of purchase it has failed in most material respects to honour its obligations to Ngāi Tahu as its Treaty partner, while it also failed to set aside adequate lands for Ngāi Tahu's use, and to provide adequate economic and social resources for Ngāi Tahu.
   (3) The Crown acknowledges that, in breach of Article Two of the Treaty, it failed to preserve and protect Ngāi Tahu's use and ownership of such of their land and valued possessions as they wished to retain.
   (4) The Crown recognises that it has failed to act towards Ngāi Tahu reasonably and with the utmost good faith in a manner consistent with the honour of the Crown. That failure is referred to in the Ngāi Tahu saying Te Hapa o Niu Tireni! (The unfulfilled promise of New Zealand). The Crown further recognises that its failure always to act in good faith deprived Ngāi Tahu of the opportunity to develop and kept the tribe for several generations in a state of poverty, a state referred to in the proverb Te mate o te iwi (The malaise of the tribe).
@@ -205,7 +205,7 @@ In this Act, unless the context otherwise requires,—
   - **Mararoa Valley area** has the meaning given to it in section 102
   - **marginal strip** has the same meaning as in section 2 of the Conservation Act 1987
   - **Māwhera Incorporation** means the Proprietors of Māwhera constituted as a Māori incorporation pursuant to and subject to Part 4 of the Maori Affairs Amendment Act 1967 by clause 3(1) of the Māwhera Incorporation Order 1976 and continued pursuant to section 357 of Te Ture Whenua Maori Act 1993
-  - **memorials** means resumptive memorials imposed on land under the State-Owned Enterprises Act 1986, the Education Act 1989, or the New Zealand Railways Corporation Restructuring Act 1990
+  - **memorials** means resumptive memorials imposed on land under the State-Owned Enterprises Act 1986, the Education and Training Act 2020, or the New Zealand Railways Corporation Restructuring Act 1990
   - **Minister** ,—
     (a) for the purposes of Part 13, means the Minister of Conservation; and
     (b) for the purposes of Part 15, means the Minister in Charge of Treaty of Waitangi Negotiations
@@ -598,7 +598,7 @@ The purpose of this Part is to provide for the legislative matters contemplated 
     (c) the land in the Ngāi Tahu claim area in respect of which the registered proprietor, or the person entitled to be the registered proprietor, of an estate in fee simple or of a leasehold estate in respect of a lease the unexpired term of which (including rights of renewal or of extensions, whether in the lease or granted separately) is, or could be, for 50 years or longer, was on 21 November 1997 and, on the commencement of this Act, still is—
       (i) a Crown health enterprise; or
       (ii) a Crown research institute; or
-      (iii) an institution established under Part 14 of the Education Act 1989; or
+      (iii) an institution established under subpart 3 of Part 4 of the Education and Training Act 2020; or
       (iv) Landcorp Farming Limited or a company that is wholly-owned by Landcorp Farming Limited; or
       (v) the New Zealand Fire Service Commission; or
       (vi) New Zealand Transport Agency:
@@ -622,7 +622,7 @@ Section 49 does not apply to the disposal or attempted disposal of relevant land
   (a) another Crown body; or
   (b) Te Rūnanga o Ngāi Tahu or another person to give effect to the deed of settlement; or
   (c) a person who is entitled to receive an offer made pursuant to:
-    (i) section 207(4) of the Education Act 1989; or
+    (i) section 564(3) of the Education and Training Act 2020; or
     (ii) section 23(1) or section 24(4) of the New Zealand Railways Corporation Restructuring Act 1990; or
     (iii) section 40 of the Public Works Act 1981 or that section as applied by any other Act; or
   (d) the existing tenant of a house on relevant land that is—
@@ -673,7 +673,7 @@ A notice given pursuant to section 52 must—
 
 ### 54 Preliminary notice not to imply obligation pursuant to other Acts
 The giving of a notice pursuant to section 52 does not, of itself, mean that an obligation has arisen pursuant to—
-  (a) section 207(4) of the Education Act 1989; or
+  (a) section 564(3) of the Education and Training Act 2020; or
   (b) section 23(1) or section 24(4) of the New Zealand Railways Corporation Restructuring Act 1990; or
   (c) section 40 of the Public Works Act 1981 or that section as applied by any other enactment.
 
@@ -3287,7 +3287,7 @@ Nothing in—applies in relation to any land within the Ngāi Tahu claim area.
   (a) sections 8A to 8H of the Treaty of Waitangi Act 1975; or
   (b) the amendments made to the Treaty of Waitangi Act 1975 by Part 4 of the New Zealand Railways Corporation Restructuring Act 1990; or
   (c) sections 27A to 27C of the State-Owned Enterprises Act 1986; or
-  (d) sections 211 to 213 of the Education Act 1989; or
+  (d) sections 568 to 570 of the Education and Training Act 2020:
   (e) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990—
 
 ### 464 Removal of resumptive memorials
@@ -3620,7 +3620,7 @@ Where an action is required to be undertaken by the Registrar under this Part, i
 | Pakoau | All that land situated in Canterbury Land District, Selwyn District, comprising 2 hectares, approximately, being Part Section 1, Block X, Reserve 959 (SO 3188) adjoining Johnstons Road. Part Certificate of Title 25A/471. Subject to survey, as shown on Allocation Plan MS 253 (SO 19869). |
 | Waikirikiri | All that land situated in Canterbury Land District, Selwyn District, comprising 2 hectares, approximately, being Part Section 18, Block X, Reserve 959 (SO 3185). Part Certificate of Title 25A/204. Subject to survey, as shown on Allocation Plan MS 255 (SO 19871). |
 
-## Schedule 8 — Attachment 11.7 of deed of settlementRestrictions, terms, and conditions on which Banks Peninsula District Council is to manage and control Ōkeina (Okains Bay)
+## Schedule 8 — Attachment 11.7 of deed of settlement Restrictions, terms, and conditions on which Banks Peninsula District Council is to manage and control Ōkeina (Okains Bay)
 
 ## Schedule 9 — Description of reserves in respect of which name or purpose changed
 
@@ -3672,7 +3672,7 @@ Where an action is required to be undertaken by the Registrar under this Part, i
 | M36/486 | 60.7028 | II, IV Ellesmere | Reserve 682 | Kaitorete, Timber Depot and Landing Area, Reserve, including land to be vested pursuant to clause 11.2.5 of the deed of settlement. |
 | M37/10 | 80.6639 | V Ellesmere | Reserve 683 | Waihora Scientific Reserve. |
 
-## Schedule 12 — Clauses 11.6.19 to 11.6.23 of deed of settlementJoint Management Plan for Te Waihora (Lake Ellesmere)
+## Schedule 12 — Clauses 11.6.19 to 11.6.23 of deed of settlement Joint Management Plan for Te Waihora (Lake Ellesmere)
 
 ### 11.6.19 Process for preparation of Joint Management Plan
 Te Rūnanga and the Crown agree that a Joint Management Plan in respect of the areas described in clause 11.6.15 will be prepared and approved pursuant to the following process and with the following purposes:
@@ -3967,7 +3967,7 @@ The Crown hereby creates and grants in favour of Te Rūnanga an entitlement to o
 (6.2) Limitation of rightsPursuant to section 268 of the Ngāi Tahu Claims Settlement Act 1998, except as expressly provided in this Entitlement, the existence of this Entitlement will not, of itself, have the effect of granting, creating or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, the entitlement land.
 
 ### 7 SPECIAL CONDITIONS
-[including special purpose specification]SIGNED for and on behalf of HER MAJESTY)THE QUEEN in right of New Zealand by [])Landholding Agent in the presence of:)WitnessSignatureOccupationAddressSIGNED for and on behalf of HER MAJESTY)THE QUEEN in right of New Zealand by [])Minister of Māori Affairs in the presence of:)WitnessSignatureOccupationAddressTHE SEAL of TE RŪNANGA O NGĀI TAHU)was affixed to this document in the presence of:)Te Rūnanga o Ngāi Tahu RepresentativeSecretary
+[including special purpose specification] SIGNED for and on behalf of HER MAJESTY)THE QUEEN in right of New Zealand by [])Landholding Agent in the presence of:)WitnessSignatureOccupationAddressSIGNED for and on behalf of HER MAJESTY)THE QUEEN in right of New Zealand by [])Minister of Māori Affairs in the presence of:)WitnessSignatureOccupationAddressTHE SEAL of TE RŪNANGA O NGĀI TAHU)was affixed to this document in the presence of:)Te Rūnanga o Ngāi Tahu RepresentativeSecretary
 
 ## Schedule 95 — Sites over which Nohoanga Entitlements to be granted
 
@@ -4299,7 +4299,7 @@ The Crown hereby creates and grants in favour of Te Rūnanga an entitlement to o
 | Tuatua | Tuatua | Paphies subtriangulata, Paphies donacina |
 | Waikaka/Pūpū | Mudsnail | Amphibola crenata, Turbo smaragdus, Zedilom spp |
 
-## Schedule 99 — Clauses 12.14.18 and 12.14.19 of deed of settlementRight of first refusal to purchase shellfish quota
+## Schedule 99 — Clauses 12.14.18 and 12.14.19 of deed of settlement Right of first refusal to purchase shellfish quota
 
 ### 12.14.18 Exercise of right of first refusal
 The Crown agrees that the Settlement Legislation will provide for the terms of exercise of the right of first refusal for Quota described in clause 12.14.14 as follows:
@@ -4395,13 +4395,13 @@ Te Rūnanga and the Crown agree that the following provisions shall apply in the
 | Rarotoka | The island known as Rarotoka or Centre Island, being the land described as Southland Land District, Southland District, comprising 96.8780 hectares, more or less, being Sections 1 and 2, SO 12175. All Document 246554.1. As shown on Allocation Plan SS 430 (SO 12250) down to the mean high water mark. | None. |
 | Top section | All that land situated in Westland Land District, Westland District comprising, 12435.6950 hectares, more or less, being Sections 1, 2 and 3, SO 12438, but excluding the following properties:aRural Section 801, Certificate of Title 2C/801:bLot 1 DP 2095, Certificate of Title 3D/1382:cLot 2 DP 2095, Certificate of Title 3D/1383:dLot 3 DP 2095, Certificate of Title 3D/1384:As shown on Allocation Plan SS 429/5 (SO 12499). | None. |
 
-## Schedule 107 — Attachment 13.1 of deed of settlementSpecial conditions and restrictions subject to which Waitaiki Historic Reserve is vested
+## Schedule 107 — Attachment 13.1 of deed of settlement Special conditions and restrictions subject to which Waitaiki Historic Reserve is vested
 
 ## Schedule 108 — Statutory acknowledgement for Whenua Hou
 
-## Schedule 109 — Attachment 13.8 of deed of settlementTerms and conditions of administering body controlling and managing Crown Tītī Islands
+## Schedule 109 — Attachment 13.8 of deed of settlement Terms and conditions of administering body controlling and managing Crown Tītī Islands
 
-## Schedule 110 — Attachment 13.9 of deed of settlementProcess for developing management plans for Crown Tītī Islands
+## Schedule 110 — Attachment 13.9 of deed of settlement Process for developing management plans for Crown Tītī Islands
 
 ## Schedule 111 — Ancillary claims
 
@@ -4511,7 +4511,7 @@ Pursuant to section 346 of the Ngāi Tahu Claims Settlement Act 1998, except as 
 Pursuant to section 369 of the Ngāi Tahu Claims Settlement Act 1998, except as expressly provided in this Entitlement, the existence of this Entitlement will not, of itself, have the effect of granting, creating or providing evidence of any estate or interest in or any rights of any kind whatsoever relating to the entitlement area.
 
 ### 8 SPECIAL CONDITIONS
-[including special purpose specification]SIGNED for and on behalf of HER MAJESTY)THE QUEEN in right of New Zealand by [])Landholding Agent in the presence of:)WitnessSignatureOccupationAddressSIGNED for and on behalf of HER MAJESTY)THE QUEEN in right of New Zealand by [])Minister of Māori Affairs in the presence of:)WitnessSignatureOccupationAddressTHE SEAL of TE RŪNANGA O NGĀI TAHU)was affixed to this document in the presence of:)Te Rūnanga o Ngāi Tahu RepresentativeSecretary
+[including special purpose specification] SIGNED for and on behalf of HER MAJESTY)THE QUEEN in right of New Zealand by [])Landholding Agent in the presence of:)WitnessSignatureOccupationAddressSIGNED for and on behalf of HER MAJESTY)THE QUEEN in right of New Zealand by [])Minister of Māori Affairs in the presence of:)WitnessSignatureOccupationAddressTHE SEAL of TE RŪNANGA O NGĀI TAHU)was affixed to this document in the presence of:)Te Rūnanga o Ngāi Tahu RepresentativeSecretary
 
 ## Schedule 113 — Land over which Fenton Entitlements to be granted
 
@@ -4575,11 +4575,11 @@ Pursuant to section 384 of the Ngāi Tahu Claims Settlement Act 1998, except as 
 Pursuant to section 385 of the Ngāi Tahu Claims Settlement Act 1998, except as expressly provided in this Entitlement, the existence of this Entitlement does not, of itself, have the effect of granting, creating or providing evidence of any estate or interest in or any rights of any kind whatsoever relating to the entitlement area.
 
 ### 8 SPECIAL CONDITIONS
-[including special purpose specification]SIGNED for and on behalf of HER MAJESTY)THE QUEEN in right of New Zealand by [])Landholding Agent in the presence of:)WitnessSignatureOccupationAddressSIGNED for and on behalf of HER MAJESTY)THE QUEEN in right of New Zealand by [])Minister of Māori Affairs in the presence of:)WitnessSignatureOccupationAddressTHE SEAL of TE RŪNANGA O NGĀI TAHU)was affixed to this document in the presence of:)Te Rūnanga o Ngāi Tahu RepresentativeSecretary
+[including special purpose specification] SIGNED for and on behalf of HER MAJESTY)THE QUEEN in right of New Zealand by [])Landholding Agent in the presence of:)WitnessSignatureOccupationAddressSIGNED for and on behalf of HER MAJESTY)THE QUEEN in right of New Zealand by [])Minister of Māori Affairs in the presence of:)WitnessSignatureOccupationAddressTHE SEAL of TE RŪNANGA O NGĀI TAHU)was affixed to this document in the presence of:)Te Rūnanga o Ngāi Tahu RepresentativeSecretary
 
 ## Schedule 115 — Customary Fishing Entitlement areas
 
-## Schedule 116 — Attachment 14.15 of deed of settlementManagement procedures and aims for Taiaroa Head Sites
+## Schedule 116 — Attachment 14.15 of deed of settlement Management procedures and aims for Taiaroa Head Sites
 
 ## Schedule 117 — South Island Landless Natives Act
 
