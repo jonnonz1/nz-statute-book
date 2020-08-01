@@ -1,5 +1,5 @@
 # Harmful Digital Communications Act 2015
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Harmful Digital Communications Act 2015.
@@ -52,8 +52,8 @@ In this Act, unless the context otherwise requires,—
       (i) any information, whether truthful or untruthful, about the victim; or
       (ii) an intimate visual recording of another individual; and
     (b) includes an attempt to do anything referred to in paragraph (a)
-  - **professional leader** has the same meaning as in section 120 of the Education Act 1989
-  - **registered school** has the same meaning as in section 2(1) of the Education Act 1989.
+  - **professional leader** has the same meaning as in section 10(1) of the Education and Training Act 2020
+  - **registered school** has the same meaning as in section 10(1) of the Education and Training Act 2020.
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
