@@ -1,5 +1,5 @@
 # Ngāti Rangiteaorere Claims Settlement Act 2014
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Ngāti Rangiteaorere Claims Settlement Act 2014.
@@ -143,16 +143,16 @@ In this Act, unless the context otherwise requires,—
   - **interest** means a covenant, easement, lease, licence, licence to occupy, tenancy, or other right or obligation affecting a property
   - **LINZ** means Land Information New Zealand
   - **local authority** has the meaning given in section 5(1) of the Local Government Act 2002
-  - **member of Ngāti Rangiteaorere** means an individual referred to in section 14(1)(a)
+  - **member of Ngāti Rangiteaorere** means an individual referred to in section 14(1)﻿(a)
   - **Ngāti Rangiteaorere Koromatua Council** means the trust of that name established by a trust deed dated 14 June 2013
   - **Registrar-General** means the Registrar-General of Land appointed under section 4 of the Land Transfer Act 1952
   - **related company** has the meaning given in section 2(3) of the Companies Act 1993
   - **representative entity** means—
     (a) the trustees; and
     (b) any person (including any trustee) acting for or on behalf of—
-      (i) the collective group referred to in section 14(1)(a); or
+      (i) the collective group referred to in section 14(1)﻿(a); or
       (ii) 1 or more members of Ngāti Rangiteaorere; or
-      (iii) 1 or more of the whānau, hapū, or groups referred to in section 14(1)(c)
+      (iii) 1 or more of the whānau, hapū, or groups referred to in section 14(1)﻿(c)
   - **reserve** has the meaning given in section 2(1) of the Reserves Act 1977
   - **reserve property** has the meaning given in section 45
   - **resource consent** has the meaning given in section 2(1) of the Resource Management Act 1991
@@ -216,7 +216,7 @@ In this Act, unless the context otherwise requires,—
     (iii) Wai 153:
     (iv) Wai 319.
 (4) However, the historical claims do not include—
-  (a) a claim that a member of Ngāti Rangiteaorere, or a whānau, hapū, or group referred to in section 14(1)(c), had or may have that is founded on a right arising by virtue of being descended from an ancestor who is not an ancestor of Ngāti Rangiteaorere; or
+  (a) a claim that a member of Ngāti Rangiteaorere, or a whānau, hapū, or group referred to in section 14(1)﻿(c), had or may have that is founded on a right arising by virtue of being descended from an ancestor who is not an ancestor of Ngāti Rangiteaorere; or
   (b) a claim that a representative entity had or may have that is based on a claim referred to in paragraph (a).
 (5) A claim may be a historical claim whether or not the claim has arisen or been considered, researched, registered, notified, or made on or before the settlement date.
 
@@ -248,7 +248,7 @@ In this Act, unless the context otherwise requires,—
   (c) for the benefit of Ngāti Rangiteaorere or a representative entity.
 (2) The enactments are—
   (a) Part 3 of the Crown Forest Assets Act 1989:
-  (b) sections 211 to 213 of the Education Act 1989:
+  (b) sections 568 to 570 of the Education and Training Act 2020:
   (c) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990:
   (d) sections 27A to 27C of the State-Owned Enterprises Act 1986:
   (e) sections 8A to 8HJ of the Treaty of Waitangi Act 1975.
@@ -433,11 +433,11 @@ The only purposes of the statutory acknowledgement are—
 (1) Each relevant consent authority must, for a period of 20 years on and from the effective date, provide the following to the trustees for each resource consent application for an activity within, adjacent to, or directly affecting a statutory area:
   (a) a summary of the application, if the application is received by the consent authority; or
   (b) if notice of the application is served on the consent authority under section 145(10) of the Resource Management Act 1991, a copy of the notice.
-(2) A summary provided under subsection (1)(a) must be the same as would be given to an affected person by limited notification under section 95B of the Resource Management Act 1991 or as may be agreed between the trustees and the relevant consent authority.
+(2) A summary provided under subsection (1)﻿(a) must be the same as would be given to an affected person by limited notification under section 95B of the Resource Management Act 1991 or as may be agreed between the trustees and the relevant consent authority.
 (3) The summary must be provided—
   (a) as soon as is reasonably practicable after the relevant consent authority receives the application; but
   (b) before the relevant consent authority decides under section 95 of the Resource Management Act 1991 whether to notify the application.
-(4) A copy of a notice must be provided under subsection (1)(b) not later than 10 working days after the date on which the consent authority receives the notice.
+(4) A copy of a notice must be provided under subsection (1)﻿(b) not later than 10 working days after the date on which the consent authority receives the notice.
 (5) The trustees may, by written notice to a relevant consent authority,—
   (a) waive the right to be provided with a summary or copy of a notice under this section; and
   (b) state the scope of that waiver and the period it applies for.
@@ -533,7 +533,7 @@ The fee simple estate in the Waiohewa site vests in the trustees.
 ### 48 Whakapoungakau
 (1) The reservation of Whakapoungakau (being part of the Lake Okataina Scenic Reserve) as a scenic reserve subject to the Reserves Act 1977 is revoked.
 (2) The fee simple estate in Whakapoungakau vests in the trustees.
-(3) Whakapoungakau is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) Whakapoungakau is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The reserve is named Whakapoungakau Scenic Reserve.
 (5) Subsections (1) to (4) do not take effect until the trustees have provided the Crown with a registrable easement in gross over the reserve for use as a walkway on the terms and conditions set out in part 5 of the documents schedule.
 (6) Despite the provisions of the Reserves Act 1977, the easement—
@@ -590,7 +590,7 @@ Each cultural redress property vested under this subpart is subject to, or has t
     (i) section 24 of the Conservation Act 1987 does not apply to the property; and
     (ii) the property is subject to sections 52(4) and 56; or
   (b) part of the property, the Registrar-General must ensure that the notifications referred to in paragraph (a) remain only on the computer freehold register for the part of the property that remains a reserve.
-(4) The Registrar-General must comply with an application received in accordance with subsection (3)(a).
+(4) The Registrar-General must comply with an application received in accordance with subsection (3)﻿(a).
 
 ### 54 Application of other enactments
 (1) The vesting of the fee simple estate in a cultural redress property under this subpart does not—
@@ -607,7 +607,7 @@ Each cultural redress property vested under this subpart is subject to, or has t
 ### 55 Application of other enactments to reserve properties
 (1) The trustees are the administering body of a reserve property.
 (2) Sections 48A, 114, and 115 of the Reserves Act 1977 apply to a reserve property, despite sections 48A(6), 114(5), and 115(6) of that Act.
-(3) Sections 78(1)(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve property.
+(3) Sections 78(1)﻿(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve property.
 (4) If the reservation of a reserve property under this subpart is revoked under section 24 of the Reserves Act 1977 for all or part of the property, section 25(2) of that Act applies to the revocation, but not the rest of section 25 of that Act.
 (5) A reserve property is not a Crown protected area under the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, despite anything in that Act.
 (6) The name of a reserve property must not be changed by the Minister under section 16(10) of the Reserves Act 1977 without the written consent of the registered proprietor of the property, and section 16(10A) of that Act does not apply to the proposed change.
@@ -678,7 +678,7 @@ In this Part and Schedule 3,—
       (ii) to grant an easement over the land; or
       (iii) to consent to an assignment of a lease, or to a sublease, of the land; or
       (iv) to remove an improvement, a fixture, or a fitting from the land
-  - **expiry date** , in relation to an offer, means its expiry date under sections 65(2)(a) and 66
+  - **expiry date** , in relation to an offer, means its expiry date under sections 65(2)﻿(a) and 66
   - **notice** means a notice given under this subpart
   - **offer** means an offer by an RFR landowner, made in accordance with section 65, to dispose of RFR land to the trustees
   - **public work** has the meaning given in section 2 of the Public Works Act 1981
@@ -695,7 +695,7 @@ In this Part and Schedule 3,—
   (a) the land described in part 3 of the attachments if, on the settlement date, the land is—
     (i) vested in the Crown; or
     (ii) held in fee simple by the Crown or the New Zealand Transport Agency; and
-  (b) any land obtained in exchange for a disposal of RFR land under section 76(1)(c) or 77.
+  (b) any land obtained in exchange for a disposal of RFR land under section 76(1)﻿(c) or 77.
 (2) However, land ceases to be RFR land if—
   (a) the fee simple estate in the land transfers from the RFR landowner to—
     (i) the trustees or their nominee (for example, under a contract formed under section 69); or
@@ -762,7 +762,7 @@ The RFR landowner may, by notice to the trustees, withdraw an offer at any time 
 (1) An RFR landowner may dispose of RFR land to—
   (a) the Crown; or
   (b) a Crown body.
-(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 143(5) or 206 of the Education Act 1989.
+(2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with section 563 of the Education and Training Act 2020.
 
 ### 71 Disposal of existing public works to local authorities
 (1) An RFR landowner may dispose of RFR land that is a public work, or part of a public work, in accordance with section 50 of the Public Works Act 1981 to a local authority, as defined in section 2 of that Act.
@@ -794,7 +794,7 @@ An RFR landowner may dispose of RFR land in accordance with—
 
 ### 75 Disposal by the Crown under certain legislation
 The Crown may dispose of RFR land in accordance with—
-  (a) section 54(1)(d) of the Land Act 1948; or
+  (a) section 54(1)﻿(d) of the Land Act 1948; or
   (b) section 355(3) of the Resource Management Act 1991; or
   (c) section 34, 43, or 44 of the Marine and Coastal Area (Takutai Moana) Act 2011; or
   (d) an Act that—
@@ -805,8 +805,8 @@ The Crown may dispose of RFR land in accordance with—
 (1) An RFR landowner may dispose of RFR land in accordance with—
   (a) section 40(2) or (4) or 41 of the Public Works Act 1981 (including as applied by another enactment); or
   (b) section 52, 105(1), 106, 114(3), 117(7), or 119 of the Public Works Act 1981; or
-  (c) section 117(3)(a) of the Public Works Act 1981; or
-  (d) section 117(3)(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
+  (c) section 117(3)﻿(a) of the Public Works Act 1981; or
+  (d) section 117(3)﻿(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
   (e) section 23(1) or (4), 24(4), or 26 of the New Zealand Railways Corporation Restructuring Act 1990.
 (2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under section 134 of Te Ture Whenua Maori Act 1993, after an application by an RFR landowner under section 41(e) of the Public Works Act 1981.
 
@@ -834,7 +834,7 @@ The Crown may dispose of RFR land—
     (i) prevents or limits an RFR landowner’s disposal of RFR land to the trustees; and
     (ii) the RFR landowner cannot satisfy by taking reasonable steps; and
   (c) the terms of a mortgage over, or security interest in, RFR land.
-(2) Reasonable steps, for the purposes of subsection (1)(b)(ii), does not include steps to promote the passing of an enactment.
+(2) Reasonable steps, for the purposes of subsection (1)﻿(b)﻿(ii), does not include steps to promote the passing of an enactment.
 
 **Notices about RFR land**
 
@@ -955,7 +955,7 @@ This Part does not limit the ability of the Crown, or a Crown body, to sell or d
 | Name of property | Description | Interests |
 | --- | --- | --- |
 | Rangiteaorere site | 0.3505 hectares, approximately, being Part Whakapoungakau 1B3J. Balance Gazette notice H055473. Subject to survey.0.7290 hectares, approximately, being Part Whakapoungakau 2D4D. Balance computer freehold register SA1108/232. Subject to survey.1.3127 hectares, more or less, being Whakapoungakau 2D1A. All computer freehold register SA922/85.As shown on OTS-209-52. | Recreation reserve subject to section 17 of the Reserves Act 1977.Subject to a limited access road created by Certificate S547091.Subject to a drainage easement created by Transfer S67603 (affecting Part Whakapoungakau 1B3J).Subject to a management agreement for weed control to K. Vuletic with permission record number BP-30472-OTH (dated 1/10/2010).Subject to a right to drain sewage in gross in favour of the Rotorua District Council with concession number BP-31910-OTH (dated 1/8/2005). |
-| Whakapoungakau | 310 hectares, approximately, being Part Section 2 SO 389001. Part computer freehold register 356274. Subject to survey.10.3460 hectares, more or less, being Lot 1 DP 379374. All computer freehold register 318524.As shown on OTS-209-51. | Scenic reserve subject to section 19(1)(a) of the Reserves Act 1977.Subject to a walkway easement referred to in section 48.Subject to a walkway easement created by Gazette notice H275924. |
+| Whakapoungakau | 310 hectares, approximately, being Part Section 2 SO 389001. Part computer freehold register 356274. Subject to survey.10.3460 hectares, more or less, being Lot 1 DP 379374. All computer freehold register 318524.As shown on OTS-209-51. | Scenic reserve subject to section 19(1)﻿(a) of the Reserves Act 1977.Subject to a walkway easement referred to in section 48.Subject to a walkway easement created by Gazette notice H275924. |
 
 ## Schedule 3 — Notices in relation to RFR land of Ngāti Rangiteaorere
 
