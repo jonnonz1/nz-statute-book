@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Veteran’s Pension Legislation Amendment Act 2020
-_Consolidation as at 2020-07-24_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Veteran’s Pension Legislation Amendment Act 2020.
@@ -378,7 +378,7 @@ Sections 45 and 46 amend the Income Tax Act 2007.
     (a) an income-tested benefit:
     (b) New Zealand superannuation:
     (c) a veteran’s pension.
-  (3B) Despite section RD 10(1), the amount of tax for a PAYE income payment that is a payment of an allowance under regulations made under section 303 of the Education Act 1989 must be determined by the Commissioner in consultation with the Secretary for Education.
+  (3B) Despite section RD 10(1), the amount of tax for a PAYE income payment that is a payment of an allowance under regulations made under section 645 of the Education and Training Act 2020 must be determined by the Commissioner in consultation with the Secretary for Education.
 
 ### 46 Section YA 1 amended (Definitions)
 In section YA 1, definition of New Zealand superannuitant, replace paragraph (b) with:
@@ -397,7 +397,7 @@ Replace section 24B(3) and the heading above section 24B(3) with:Income-tested b
     (a) an income-tested benefit:
     (b) New Zealand superannuation:
     (c) a veteran’s pension.
-  (3B) The amount of tax for a payment of an allowance under regulations made under section 303 of the Education Act 1989 is determined under section RD 11(3B) of the Income Tax Act 2007.
+  (3B) The amount of tax for a payment of an allowance under regulations made under section 645 of the Education and Training Act 2020 is determined under section RD 11(3B) of the Income Tax Act 2007.
 
 ### Subpart 2 — Consequential amendments to legislative instruments
 
