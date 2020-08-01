@@ -1,5 +1,5 @@
 # Racing Act 2003
-_Consolidation as at 2020-06-25_
+_Consolidation as at 2020-08-01_
 
 ### 1 Title
 This Act is the Racing Act 2003.
