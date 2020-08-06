@@ -1,0 +1,287 @@
+# Taumata Arowai–the Water Services Regulator Act 2020
+_Consolidation as at 2020-08-06_
+
+### 1 Title
+This Act is the Taumata Arowai–the Water Services Regulator Act 2020.
+
+### 2 Commencement
+(1) This Act comes into force on the earlier of—
+  (a) a date appointed by the Governor-General by Order in Council; and
+  (b) the 15-month anniversary of the date of Royal assent.
+(2) One or more Orders in Council may be made appointing different dates for different provisions.
+
+## Part 1 — Preliminary provisions
+
+### 3 Purpose
+The purpose of this Act is to establish Taumata Arowai–the Water Services Regulator and provide for its objectives, functions, and governance arrangements.
+
+### 4 Interpretation
+In this Act, unless the context otherwise requires,—
+  - **board** means the board of Taumata Arowai–the Water Services Regulator
+  - **council-controlled organisation** has the meaning given to it by section 6 of the Local Government Act 2002
+  - **domestic dwelling** —
+    (a) means premises, the principal use of which is as residential premises; and
+    (b) includes residential premises that are tenanted on a long- or short-term basis; and
+    (c) includes residential premises that are occupied permanently or temporarily (for example, a holiday home)
+  - **domestic self-supplier** means a stand-alone or single domestic dwelling that has its own supply of waterExamplesA single property, with tenants on a lease, that is supplied by a rainwater tank is a domestic self-supplier.A single holiday house that is supplied by a rainwater tank and is rented to tourists on a short-term basis is a domestic self-supplier.A multi-dwelling building (for example, multiple separate apartments contained in a single building) that has its own bore water supply is not a domestic self-supplier.A marae wharekai (dining hall) or community hall that has its own river water supply is not a domestic self-supplier.A café building supplied by a rainwater tank is not a domestic self-supplier.
+  - **drinking water** —
+    (a) means water that is available to consumers from a point of supply, and used, for—
+      (i) human consumption; or
+      (ii) oral hygiene; or
+      (iii) the preparation of food, drink, or other products for human consumption; or
+      (iv) washing utensils that are used for eating and drinking, or for preparing, serving, or storing food or drink for human consumption; but
+    (b) does not include bottled water that is prepared or manufactured by a food business and is regulated under the Food Act 2014
+  - **drinking water supplier** —
+    (a) means a person who supplies drinking water to consumers through a drinking water supply; and
+    (b) includes a person who ought reasonably to know they are supplying drinking water to consumers; and
+    (c) includes the owner and the operator of a drinking water supply; and
+    (d) includes a drinking water supplier who supplies drinking water to another drinking water supplier; but
+    (e) does not include a domestic self-supplier
+  - **Māori Advisory Group** means the Māori Advisory Group established by section 14
+  - **premises** and have the meanings given in section 2 of the Residential Tenancies Act 1986
+  - ****
+  - **responsible Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
+  - **stormwater network** means the infrastructure and processes that are used to collect, treat, drain, and discharge stormwater from a built area or transport corridor in an urban area
+  - **stormwater network operator** means each of the following, to the extent that they operate a stormwater network:
+    (a) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
+    (b) a department named in Schedule 1 of the State Sector Act 1988:
+    (c) the New Zealand Defence Force
+  - **Taumata Arowai** means Taumata Arowai–the Water Services Regulator established by section 8
+  - **Te Mana o te Wai** has the meaning set out in the National Policy Statement for Freshwater Management issued in 2014 (the ) under section 52 of the Resource Management Act 1991 and any statement issued under that section that amends or replaces the 2014 statement
+  - **urban area** —
+    (a) means an area identified in a district plan or proposed district plan as being primarily zoned for residential, industrial, or commercial activities, together with adjoining special-purpose and open-space zones, however described; but
+    (b) does not include an area zoned primarily for rural or rural-residential activities, however described
+  - **wastewater network** means the infrastructure and processes that are used to collect, transmit through reticulation, treat, and discharge wastewater
+  - **wastewater network operator** means each of the following, to the extent that they operate a wastewater network:
+    (a) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation that operates a wastewater network:
+    (b) a department named in Schedule 1 of the State Sector Act 1988:
+    (c) the New Zealand Defence Force.
+
+### 5 Māori interests
+In order to recognise and respect the Crown’s responsibility to consider and provide for Māori interests,—
+  (a) section 10 provides that it is an objective of Taumata Arowai to give effect to Te Mana o te Wai, to the extent that Te Mana o te Wai applies to the functions and duties of Taumata Arowai:
+  (b) section 12 provides that the board must include members who, collectively, have knowledge and experience of, and capability in,—
+    (i) the Treaty of Waitangi (Te Tiriti o Waitangi) and its principles; and
+    (ii) perspectives of Māori and tikanga Māori:
+  (c) section 14 establishes the Māori Advisory Group:
+  (d) section 17(1) and (2) provides that the role of the Māori Advisory Group is to advise on Māori interests and knowledge, which includes—
+    (i) developing and maintaining a framework on how to interpret and give effect to Te Mana o te Wai; and
+    (ii) providing advice on how to enable mātauranga Māori, tikanga Māori, and kaitiakitanga to be exercised:
+  (e) section 17(3) requires the board to—
+    (i) have regard to the advice of the Māori Advisory Group; and
+    (ii) demonstrate in its annual report how it has had regard to this advice:
+  (f) section 18 provides that the operating principles of Taumata Arowai include—
+    (i) building and maintaining credibility and integrity, so that Taumata Arowai is trusted by Māori (among others); and
+    (ii) partnering and engaging early and meaningfully with Māori, including to inform how Taumata Arowai can—
+      (A) give effect to Te Mana o te Wai; and
+      (B) understand, support, and enable the exercise of mātauranga Māori and tikanga Māori and kaitiakitanga:
+  (g) section 19 requires the board to maintain systems and processes to ensure that, for the purposes of carrying out its functions under this Act, Taumata Arowai has the capability and capacity—
+    (i) to uphold the Treaty of Waitangi (Te Tiriti o Waitangi) and its principles; and
+    (ii) to engage with Māori and to understand perspectives of Māori.
+
+### 6 Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
+
+### 7 Act binds the Crown
+This Act binds the Crown.
+
+## Part 2 — Establishment of Taumata Arowai–the Water Services Regulator, board, and Māori Advisory Group
+
+### Subpart 1 — Establishment, objectives, and functions of Taumata Arowai
+
+### 8 Taumata Arowai–the Water Services Regulator established
+This section establishes Taumata Arowai–the Water Services Regulator.
+
+### 9 Taumata Arowai is Crown entity
+(1) Taumata Arowai is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
+(2) The Crown Entities Act 2004 applies to Taumata Arowai except to the extent that this Act expressly provides otherwise.
+
+### 10 Objectives of Taumata Arowai
+Taumata Arowai’s objectives are to—
+  (a) protect and promote drinking water safety and related public health outcomes; and
+  (b) effectively administer the drinking water regulatory system; and
+  (c) build and maintain capability among drinking water suppliers and across the wider industry; and
+  (d) give effect to Te Mana o te Wai, to the extent that Te Mana o te Wai applies to the functions and duties of Taumata Arowai; and
+  (e) provide oversight of, and advice on, the regulation, management, and environmental performance of wastewater and stormwater networks; and
+  (f) promote public understanding of the environmental performance of wastewater and stormwater networks.
+
+### 11 Functions of Taumata Arowai
+Taumata Arowai’s general functions are to—
+  (a) provide national-level oversight, leadership, communication, and co-ordination in relation to—
+    (i) drinking water safety and regulation, including the management of risks to sources of drinking water; and
+    (ii) the environmental performance, management, and regulation of wastewater and stormwater networks; and
+  (b) identify and monitor matters that affect the safety of drinking water, and the environmental performance of wastewater and stormwater networks, including current and emerging contaminants; and
+  (c) develop and consult on draft standards and compliance rules that relate to drinking water composition and develop other regulatory requirements and measures necessary to fulfil its responsibilities under this or any other enactment; and
+  (d) provide oversight of, and information to central and local government in relation to,—
+    (i) the development, operation, and effectiveness of standards, regulations, and other statutory requirements for wastewater and stormwater; and
+    (ii) compliance with, monitoring of, and enforcement of standards, regulations, and other statutory requirements affecting wastewater networks, stormwater networks, wastewater network operators, and stormwater network operators; and
+  (e) monitor and enforce compliance with relevant drinking water legislation and standards, and other regulatory requirements for which Taumata Arowai has responsibility; and
+  (f) facilitate, promote, or support research, education, and training, to support drinking water safety and regulation, the management of risks to sources of drinking water, and the environmental performance, management, and regulation of wastewater and stormwater networks; and
+  (g) build and maintain the capability of drinking water suppliers to fulfil their regulatory responsibilities; and
+  (h) provide guidance, advice, or information on matters that relate to drinking water safety and regulation, the management of risks to sources of drinking water, and the environmental performance, management, and regulation of wastewater and stormwater networks; and
+  (i) identify, prepare, or promote national guidelines and good practices that relate to—
+    (i) drinking water; and
+    (ii) wastewater networks, stormwater networks, wastewater network operators, and stormwater network operators; and
+  (j) perform or exercise the functions, duties, and powers conferred or imposed on it by this Act or any other enactment; and
+  (k) perform any other functions or activities that are consistent with its objectives and that Taumata Arowai considers are necessary or desirable to enable the achievement of those objectives, except functions or activities performed by any central government agency or another regulator; and
+  (l) perform any other functions relevant to its objectives that the responsible Minister directs in accordance with section 112 of the Crown Entities Act 2004.
+
+### Subpart 2 — Board of Taumata Arowai, and Māori Advisory Group
+
+**Board**
+
+### 12 Board
+(1) The board consists of not fewer than 5, and not more than 7, members.
+(2) The responsible Minister must appoint members to the board who, collectively, have knowledge and experience of, and capability in,—
+  (a) the compliance, monitoring, and enforcement activities of regulatory agencies; and
+  (b) public health, particularly in relation to the objectives and functions of Taumata Arowai; and
+  (c) the Treaty of Waitangi (Te Tiriti o Waitangi) and its principles; and
+  (d) perspectives of Māori and tikanga Māori; and
+  (e) performance monitoring and governance.
+
+### 13 Board’s power to delegate
+The board may delegate any of its functions or powers in accordance with section 73 of the Crown Entities Act 2004, except the power to appoint or remove the chief executive.
+
+**Māori Advisory Group**
+
+### 14 Māori Advisory Group established
+(1) This section establishes the Māori Advisory Group.
+(2) The Māori Advisory Group consists of not fewer than 5, and not more than 7, members.
+
+### 15 Appointment of members of Māori Advisory Group
+(1) The responsible Minister must appoint members to the Māori Advisory Group.
+(2) The responsible Minister must consult the Ministers with portfolio responsibilities that relate to Māori Development and Māori Crown Relations before making any appointments.
+(3) The responsible Minister must appoint 1 of the members as chairperson of the Māori Advisory Group.
+(4) The responsible Minister must appoint only persons who, in the responsible Minister’s opinion, have the appropriate knowledge, skills, and experience to assist the Māori Advisory Group to perform its role (see section 17).
+
+### 16 Further provisions relating to Māori Advisory Group
+(1) The following provisions of the Crown Entities Act 2004 apply to members of the Māori Advisory Group as if they were members of the board of a Crown agent:
+  (a) section 28 (method of appointment of members):
+  (b) section 30 (qualifications of members):
+  (c) section 31 (requirements before appointment):
+  (d) section 32 (term of office of members):
+  (e) section 35 (validity of appointments):
+  (f) section 36 (removal of members of Crown agents):
+  (g) section 41 (process for removal):
+  (h) section 43 (no compensation for loss of office):
+  (i) section 44 (resignation of members):
+  (j) section 45 (members ceasing to hold office).
+(2) The members are entitled to—
+  (a) receive remuneration, in accordance with the fees framework; and
+  (b) be reimbursed for actual and reasonable travelling expenses incurred in carrying out their roles as members.
+
+### 17 Role of Māori Advisory Group
+(1) The role of the Māori Advisory Group is to advise the board and Taumata Arowai on Māori interests and knowledge, as they relate to the objectives, functions, and operating principles of Taumata Arowai and the collective duties of the board.
+(2) That role includes—
+  (a) developing and maintaining a framework that provides advice and guidance for Taumata Arowai on how to interpret and give effect to Te Mana o te Wai; and
+  (b) providing advice on how to enable mātauranga Māori, tikanga Māori, and kaitiakitanga to be exercised; and
+  (c) any other matters requested by the board.
+(3) The board must—
+  (a) have regard to the advice of the Māori Advisory Group; and
+  (b) demonstrate how it has had regard to that advice in Taumata Arowai’s annual report (prepared under section 150 of the Crown Entities Act 2004), which must include—
+    (i) information on the situations in which it did not act on the advice; and
+    (ii) the reasons for that; and
+    (iii) the alternative actions that were taken, if any; and
+  (c) provide the Māori Advisory Group with an opportunity to include commentary in Taumata Arowai’s annual report on the Māori Advisory Group’s role and the advice it provided to Taumata Arowai over the period covered by the annual report.
+(4) The board and the Māori Advisory Group, acting jointly, must—
+  (a) prepare a memorandum of understanding, setting out how they will work together; and
+  (b) prepare and agree the terms of reference for the Māori Advisory Group.
+(5) Taumata Arowai must publish the memorandum of understanding and the terms of reference on Taumata Arowai’s website.
+(6) The board and the Māori Advisory Group, acting jointly, must review both the memorandum of understanding and the terms of reference at intervals of not more than 3 years.
+
+### Subpart 3 — Operations of Taumata Arowai
+
+### 18 Operating principles
+(1) Taumata Arowai must ensure that its performance and delivery of its objectives, functions, and duties are guided and informed by the operating principles set out in subsection (2).
+(2) The operating principles are—
+  (a) building and maintaining credibility and integrity, so that Taumata Arowai is trusted by consumers, drinking water suppliers, wastewater network operators, stormwater network operators, Māori, and government:
+  (b) ensuring that Taumata Arowai has suitable expertise to build and maintain confidence in its capability as a regulator:
+  (c) developing sector capability, by promoting collaboration, education, and training:
+  (d) partnering and engaging meaningfully with other people and organisations:
+  (e) partnering and engaging early and meaningfully with Māori, including to inform how Taumata Arowai can—
+    (i) give effect to Te Mana o te Wai; and
+    (ii) understand, support, and enable the exercise of mātauranga Māori and tikanga Māori and kaitiakitanga.
+
+### 19 Additional collective duties of board
+(1) The board must ensure that Taumata Arowai—
+  (a) acts in a manner consistent with the operating principles in section 18; and
+  (b) maintains systems and processes to ensure that, for the purposes of carrying out its functions under this Act, Taumata Arowai has the capability and capacity—
+    (i) to uphold the Treaty of Waitangi (Te Tiriti o Waitangi) and its principles; and
+    (ii) to engage with Māori and to understand perspectives of Māori.
+(2) The duties in subsection (1)—
+  (a) apply in addition to the duties of the board in sections 49 to 52 of the Crown Entities Act 2004; and
+  (b) are collective duties owed to the responsible Minister for the purposes of section 58 of the Crown Entities Act 2004.
+
+### 20 Taumata Arowai may establish technical advisory group
+(1) Taumata Arowai may establish 1 or more technical advisory groups to provide independent advice to Taumata Arowai on any matters relating to its objectives or the performance or exercise of its functions, duties, and powers.
+(2) The members of a technical advisory group must be appointed by Taumata Arowai, on terms and conditions that Taumata Arowai determines, by written notice to each member.
+(3) A person must not be appointed as a member of a technical advisory group unless, before appointment, the person discloses to Taumata Arowai the nature and extent (including monetary value, if quantifiable) of all interests that the person has at that time, or is likely to have, in matters relating to the group.
+(4) A technical advisory group must comply with any terms of reference given by Taumata Arowai.
+(5) A technical advisory group may determine its own procedures.
+(6) Taumata Arowai must have regard to the advice it receives from a technical advisory group.
+(7) In this section, interests has the meaning given to it by section 62(2) and (3) of the Crown Entities Act 2004.
+
+## Part 3 — Miscellaneous provisions
+
+### 21 Consequential amendments
+Amend the Acts specified in Schedule 2 as set out in that schedule.
+
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to this Act as enacted
+
+**Transfer of contracts**
+
+### 1 Transfer of contracts to Taumata Arowai
+(1) This clause applies to a contract (other than an employment agreement) that—
+  (a) was made between the Department of Internal Affairs (the DIA) and another person before the commencement of this clause; and
+  (b) is identified by the DIA as relating principally or solely to the operation of Taumata Arowai, or to a matter for which Taumata Arowai assumes responsibility, on the commencement of this clause.
+(2) On and after the commencement of this clause,—
+  (a) the contract must be treated as if Taumata Arowai were the party to the contract instead of the DIA; and
+  (b) unless the context otherwise requires, every reference in the contract to the DIA must be read as a reference to Taumata Arowai.
+
+### 2 Consequences of transfer of contracts to Taumata Arowai
+(1) This clause applies only in relation to a contract transferred to Taumata Arowai under clause 1.
+(2) On and from the commencement of clause 1,—
+  (a) all rights, liabilities, and entitlements of the DIA under the contract become the rights, liabilities, and entitlements of Taumata Arowai; and
+  (b) anything done, or omitted to be done, or that is to be done, by, or in relation to, the DIA is to be treated as having been done, or omitted to be done, or to be done, by, or in relation to, Taumata Arowai; and
+  (c) the commencement, continuation, or enforcement of proceedings by or against the DIA may instead be carried out by or against Taumata Arowai without amendment to the proceedings.
+
+**Transfer of employment**
+
+### 3 Transfer of employment from DIA to Taumata Arowai
+(1) This clause applies to a person—
+  (a) who is employed by the Department of Internal Affairs (the DIA) immediately before the commencement of this clause; and
+  (b) whose position is identified by the DIA as relating principally or solely to the operation of Taumata Arowai, or to a matter for which Taumata Arowai assumes responsibility, on the commencement of this clause.
+(2) Each person this clause applies to becomes an employee of Taumata Arowai on the same terms and conditions as applied immediately before they became an employee of Taumata Arowai.
+
+### 4 Terms of transfer of employment
+(1) This clause applies to a person who becomes an employee of Taumata Arowai under clause 3 (a transferred employee).
+(2) The terms and conditions of employment of a transferred employee immediately before the commencement of this clause continue to apply in relation to that employee until—
+  (a) those terms and conditions are varied by agreement between the transferred employee and Taumata Arowai; or
+  (b) the transferred employee accepts a subsequent appointment with Taumata Arowai.
+(3) For the purposes of every enactment, law, determination, contract, and agreement relating to the employment of a transferred employee,—
+  (a) the employment agreement of that employee is to be treated as unbroken; and
+  (b) the employee’s period of service with the DIA, and every other period of service of that employee that is recognised by the DIA as continuous service, is to be treated as a period of service with Taumata Arowai.
+(4) To avoid doubt, the employment of a transferred employee by Taumata Arowai does not constitute new employment for the purposes of the Holidays Act 2003 or the KiwiSaver Act 2006.
+(5) A transferred employee is not entitled to receive any payment or benefit from the DIA or Taumata Arowai on the grounds that the person’s position in the DIA has ceased to exist or the person has ceased to be an employee of the DIA as a result of the transfer to Taumata Arowai.
+(6) This clause overrides Part 6A of the Employment Relations Act 2000.
+
+**Sharing or transfer of information**
+
+### 5 Sharing or transfer of information relating to Part 2A of Health Act 1956
+(1) Despite anything in any other Act, a transferor may, at any time on or after the commencement of this clause, share with, or transfer to, Taumata Arowai any information held by the transferor immediately before the commencement of this clause that relates to the performance or exercise of functions, duties, or powers under Part 2A of the Health Act 1956.
+(2) Sharing, or a transfer of, information under subclause (1) is not an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(3) In this clause, transferor means—
+  (a) the Ministry of Health:
+  (b) the Director-General of Health:
+  (c) designated officers (as defined in section 69G of the Health Act 1956):
+  (d) drinking-water assessors appointed under section 69ZK of the Health Act 1956:
+  (e) employers of designated officers and drinking-water assessors.
+
+## Schedule 2 — Consequential amendments to other enactments
+
+| Name | Exemption from acquisition of financial products, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
+| --- | --- | --- | --- | --- | --- |
+|  | s 161 | s 162 | s 163 | s 164 |  |
+| Taumata Arowai–the Water Services Regulator |  |  |  |  |  |
