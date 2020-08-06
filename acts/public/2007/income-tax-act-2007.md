@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-06_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -7625,6 +7625,7 @@ When this section applies
     (ii) is a grant-related suspensory loan to the person; and
   (c) the payment is not in the nature of an advance or loan other than a grant-related suspensory loan; and
   (cb) the payment is not an amount of a loan under the small business cashflow scheme under section 7AA of the Tax Administration Act 1994; and
+  (cc) the payment is not an amount of a loan made under the research and development loan scheme; and
   (d) the person does not make an election that section CX 47(4) (Government grants to businesses) apply to the payment.
 When this section does not apply
 (1BA) This section does not apply to the extent to which a payment described in subsection (1) is the payment of an R&D loss tax credit and the person’s expenditure is attributable to that payment.
@@ -44328,6 +44329,7 @@ In this Act, unless the context requires otherwise,—
   - **research and development contractor** —
     (a) means, for a research and development activity and a person (person A), another person (the contractor) that performs the research and development activity on behalf of person A:
     (b) does not include a levy body researcher
+  - **research and development loan scheme** means the research and development loan scheme established by Ministerial direction to Callaghan Innovation under section 112 of the Crown Entities Act 2004, notice number 2020–go2811
   - **research and development project**
   - **research and development tax credit** means a tax credit under section LY 1 (Research and development tax credits)
   - **resident foreign trustee** is defined in section 3(1) of the Tax Administration Act 1994
