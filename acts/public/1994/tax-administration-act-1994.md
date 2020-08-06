@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-06_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -807,7 +807,7 @@ For the purposes of this subpart, obvious error means an error of a type that ar
 
 ### 6H COVID-19 response: powers to vary provisions of Inland Revenue Acts
 Commissioner’s discretionary power
-(1) Section 6I provides the Commissioner with a discretionary power to extend a due date, deadline, time period, or timeframe set out in an Inland Revenue Act, or to vary a procedural or administrative requirement of an Inland Revenue Act, to apply in certain circumstances and for a limited time.
+(1) Section 6I provides the Commissioner with a discretionary power to extend or otherwise modify a due date, deadline, time period, or timeframe set out in an Inland Revenue Act, or to vary a procedural or administrative requirement of an Inland Revenue Act, to apply in certain circumstances and for a limited time.
 Purpose of section 6I
 (2) The purpose of section 6I is to provide the Commissioner with some flexibility to mitigate the effect of a provision of the Inland Revenue Acts when compliance is impossible, impractical, or unreasonable for a person or a class of persons in circumstances arising either from the imposition of COVID-19 response measures or as a consequence of COVID-19.
 Supplementary discretionary power
@@ -820,11 +820,13 @@ Extended meaning of Inland Revenue Acts
 ### 6I COVID-19 response: Commissioner’s variations
 Power to vary
 (1) The Commissioner may vary the application of a provision in an Inland Revenue Act by—
-  (a) extending a due date, deadline, time period, or timeframe by, within, or in relation to which—
+  (a) extending or otherwise modifying a due date, deadline, time period, or timeframe by, within, or in relation to which—
     (i) a person must comply with a requirement set out in the provision:
     (ii) a person must make an election under the provision:
     (iii) a person’s entitlements, rights, or obligations are affected:
   (b) modifying a procedural or administrative requirement that a person must meet under the provision, for example, modifying the nature or form of information or action required under the provision.
+Meaning of modifying
+(1B) For the purposes of subsection (1), modifying a due date, deadline, time period, or timeframe may include shortening or reducing it if the Commissioner considers it would be advantageous for persons generally or for a particular class of persons.
 Person treated as meeting requirements
 (2) A person who complies with a variation made under this section is treated as having met their requirements under the relevant Act.
 General application
@@ -9898,7 +9900,8 @@ Section 18 does not prevent the Commissioner disclosing to a government agency o
   (a) a department named in schedule 1 of the State Sector Act 1988:
   (b) the New Zealand Police:
   (c) the Accident Compensation Corporation:
-  (d) Kāinga Ora–Homes and Communities.
+  (d) Kāinga Ora–Homes and Communities:
+  (e) Callaghan Innovation.
 
 ### 24 New Zealand Customs Service: value of imported goods
 Section 18 does not prevent the Commissioner disclosing to the chief executive of the New Zealand Customs Service information for the purpose of assessing the suitability of an arrangement relating to the use of provisional values under the Customs and Excise Act 2018, including the determination of an application to use provisional values.
@@ -10026,7 +10029,9 @@ Section 18 does not prevent the Commissioner communicating to a person’s fund 
 
 ### 38 Agencies for research and development
 (1) Section 18 does not prevent the Commissioner communicating to an officer, employee, or agent of the Treasury (as defined in section 2 of the Public Finance Act 1989), of Callaghan Innovation, of the Ministry of Business, Innovation and Employment, or of a state sector entity responsible for any function related to research and development advice or incentives, information reasonably necessary for that person to perform their work in relation to evaluating (in accordance with section LY 10 of the Income Tax Act 2007), administering, statistical reporting on, and policy formation for, tax credits provided in subparts LY and MX of that Act.
-(2) Section 18 does not prevent the Commissioner communicating to an officer, employee, or agent of Callaghan Innovation or of the Ministry of Business, Innovation and Employment, information reasonably necessary for that person to perform their work in relation to offering research and development advice and incentives.
+(2) Section 18 does not prevent the Commissioner communicating to an officer, employee, or agent of Callaghan Innovation or of the Ministry of Business, Innovation, and Employment information reasonably necessary for that person to perform their work in relation to—
+  (a) the offer of research and development advice and incentives, including tax incentives, grants, loans, and any related measures aimed at incentivising research and development:
+  (b) the grant and administration of a loan made under the research and development loan scheme established by Ministerial direction to Callaghan Innovation under section 112 of the Crown Entities Act 2004, notice number 2020–go2811.
 (3) Section 18 does not prevent the Commissioner allowing an officer, employee, or agent of Callaghan Innovation access to information reasonably necessary for that person to perform their work in relation to administering tax credits provided in subparts LY and MX of the Income Tax Act 2007.
 
 ### 39 Agencies for Australian wine producer rebate
