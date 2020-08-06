@@ -1,5 +1,5 @@
 # Kāinga Ora–Homes and Communities Act 2019
-_Consolidation as at 2019-09-23_
+_Consolidation as at 2020-08-06_
 
 ### 1 Title
 This Act is the Kāinga Ora–Homes and Communities Act 2019.
@@ -327,6 +327,7 @@ In this Part, unless the context otherwise requires,—
   (g) proceedings that may be commenced, continued, or enforced by or against the Corporation may instead be commenced, continued, or enforced by or against Kāinga Ora–Homes and Communities without amendment to the proceedings; and
   (h) a matter or thing that could, but for this clause, have been completed by the Corporation may be completed by Kāinga Ora–Homes and Communities.
 (2) The transfer of information from the Corporation to Kāinga Ora–Homes and Communities under subclause (1) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(2A) For the purposes of the Inland Revenue Acts (as defined in section 3(1) of the Tax Administration Act 1994), the Corporation and Kāinga Ora–Homes and Communities are treated as the same person.
 (3) The disestablishment of the Corporation does not, by itself, affect any of the following matters:
   (a) any decision made, or anything done or omitted to be done, by the Corporation in relation to the performance or exercise of its functions, powers, or duties under any enactment:
   (b) any proceedings commenced by or against the Corporation:
