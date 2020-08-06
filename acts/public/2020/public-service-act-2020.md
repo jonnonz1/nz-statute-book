@@ -1089,8 +1089,8 @@ Replace the definition of department with:
       (ii) the New Zealand Transport Agency
 
 ### 128 Section 201 amended (Privacy officers)
-In section 201, insert as subsection (2):
-  (2) In relation to the functions of a departmental agency, the responsibility under this section lies with the departmental agency.
+After section 201(2), insert:
+  (3) In relation to the functions of a departmental agency, the responsibility under this section lies with the departmental agency.
 
 ### 129 New section 201A inserted (Responsibility under this Part for interdepartmental executive board)
 After section 201, insert:Responsibility under Parts 4 to 6 for interdepartmental executive board
@@ -1297,12 +1297,12 @@ The Commissioner has all the powers that are reasonably necessary or desirable t
 ### 5 Functions and powers may be carried out for other State services
 (1) This clause applies to State services that are not part of the public service.
 (2) The Commissioner,—
-  (a) if directed to do so by the Prime Minister, must perform functions or exercise powers under section 44 and clauses 1 to 4 and 7 to 11 in relation to an agency:
-  (b) if requested by the head of an agency, may, and, if requested by the Minister responsible for an agency, must, perform functions or exercise powers under section 44 and clauses 1 to 4 and 7 to 11 in relation to an agency:
+  (a) if directed to do so by the Prime Minister, must perform functions or exercise powers under section 44 and clauses 1 to 4 and 8 to 11 in relation to an agency:
+  (b) if requested by the head of an agency, may, and, if requested by the Minister responsible for an agency, must, perform functions or exercise powers under section 44 and clauses 1 to 4 and 8 to 11 in relation to an agency:
   (c) if requested by the head of an agency, or of any organisation listed in Schedule 1 of the State-Owned Enterprises Act 1986, may provide assistance for the setting or application of conditions of employment of its employees.
 (3) A direction by the Prime Minister must be in writing and must specify which functions or powers are to be performed or exercised by the Commissioner.
-(4) When performing a function or exercising a power in relation to an agency under section 44(b) (relating to promoting integrity, accountability, and transparency), or section 17 or 18 (relating to integrity and conduct), the Commissioner may also perform functions or exercise powers under clauses 1 to 4 and 7 to 11.
-(5) In this clause, section 44 and clauses 1 to 4 and 7 to 11 apply as if the relevant agency were a department, with any necessary modifications.
+(4) When performing a function or exercising a power in relation to an agency under section 44(b) (relating to promoting integrity, accountability, and transparency), or section 17 or 18 (relating to integrity and conduct), the Commissioner may also perform functions or exercise powers under clauses 1 to 4 and 8 to 11.
+(5) In this clause, section 44 and clauses 1 to 4 and 8 to 11 apply as if the relevant agency were a department, with any necessary modifications.
 (6) This clause does not—
   (a) limit or affect any provision of this Act or another Act; or
   (b) affect or prevent the performance or exercise of any function or power by an agency or an officer or employee of that agency.
@@ -1367,11 +1367,11 @@ The Commissioner has all the powers that are reasonably necessary or desirable t
 
 ### 10 Information privacy principles 6 and 7 do not apply during inquiry or investigation
 (1) This clause applies to an inquiry or an investigation for which a certificate has been issued under clause 8(1)﻿(b).
-(2) Information privacy principles 6 and 7 do not apply to personal information contained in evidence given or submissions made to an inquiry or investigation conducted under clause 7, until the Commissioner publishes a final report or otherwise concludes the inquiry or investigation.
+(2) Information privacy principles 6 and 7 do not apply to personal information contained in evidence given or submissions made to an inquiry or investigation conducted under clause 2, until the Commissioner publishes a final report or otherwise concludes the inquiry or investigation.
 (3) In subclause (2), information privacy principle and personal information have the meanings given to them in section 2(1) of the Privacy Act 1993.
 
 ### 11 Immunities and privileges of participants in inquiry or investigation
-(1) Witnesses and other persons (other than counsel) participating in an inquiry or investigation under clause 7 have the same immunities and privileges as if they were appearing in civil proceedings, and subpart 8 of Part 2 of the Evidence Act 2006 applies to the inquiry or investigation, to the extent that it is relevant, as if the inquiry or investigation were a civil proceeding.
+(1) Witnesses and other persons (other than counsel) participating in an inquiry or investigation under clause 2 have the same immunities and privileges as if they were appearing in civil proceedings, and subpart 8 of Part 2 of the Evidence Act 2006 applies to the inquiry or investigation, to the extent that it is relevant, as if the inquiry or investigation were a civil proceeding.
 (2) The Commissioner may make any order or direction that a Judge may make under section 52, 53, 69, or 70 of that Act with the same effect as if it were an order or a direction of a Judge.
 (3) Counsel appearing before an inquiry or investigation have the same immunities and privileges as they would have if appearing before a court.
 
