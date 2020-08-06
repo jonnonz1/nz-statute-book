@@ -44,7 +44,7 @@ In this Act, unless the context otherwise requires,—
   - **stormwater network** means the infrastructure and processes that are used to collect, treat, drain, and discharge stormwater from a built area or transport corridor in an urban area
   - **stormwater network operator** means each of the following, to the extent that they operate a stormwater network:
     (a) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
-    (b) a department named in Schedule 1 of the State Sector Act 1988:
+    (b) a department named in Part 1 of Schedule 2 of the Public Service Act 2020:
     (c) the New Zealand Defence Force
   - **Taumata Arowai** means Taumata Arowai–the Water Services Regulator established by section 8
   - **Te Mana o te Wai** has the meaning set out in the National Policy Statement for Freshwater Management issued in 2014 (the ) under section 52 of the Resource Management Act 1991 and any statement issued under that section that amends or replaces the 2014 statement
@@ -54,7 +54,7 @@ In this Act, unless the context otherwise requires,—
   - **wastewater network** means the infrastructure and processes that are used to collect, transmit through reticulation, treat, and discharge wastewater
   - **wastewater network operator** means each of the following, to the extent that they operate a wastewater network:
     (a) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation that operates a wastewater network:
-    (b) a department named in Schedule 1 of the State Sector Act 1988:
+    (b) a department named in Part 1 of Schedule 2 of the Public Service Act 2020:
     (c) the New Zealand Defence Force.
 
 ### 5 Māori interests
