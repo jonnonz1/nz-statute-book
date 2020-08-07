@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2020-01-01_
+_Consolidation as at 2020-08-07_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -2368,7 +2368,7 @@ Every person on whom any duty is imposed by this Act—the means required by the
   (b) specify circumstances in which any ship or class or description of ship is exempt from liability in respect of maritime levies, either totally or partially.
 
 ### 193 Power to appoint agents to collect maritime levies
-(1) The Director may appoint the chief executive of the New Zealand Customs Service or the holder for the time being of any office (whether or not within the Public Service) or any other person to be the agent of the Director for the purpose of collecting maritime levies or any class of maritime levies.
+(1) The Director may appoint the chief executive of the New Zealand Customs Service or the holder for the time being of any office (whether or not within the public service) or any other person to be the agent of the Director for the purpose of collecting maritime levies or any class of maritime levies.
 (2) Any appointment under subsection (1) may—
   (a) provide for the payment of a fee by the Director for the collection of maritime levies; or
   (b) permit the agent to retain a specified proportion of the maritime levies as a collection fee; or
@@ -5027,7 +5027,7 @@ Before making any emergency rule under section 37 or section 391, the Director s
   (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
   (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see sections 448(2) and 449 of this Act).
 (7) So far as the bylaws of any local authority are inconsistent with or repugnant to any rule in force in the same locality, the bylaws shall be construed subject to the rule.
-(8) Notwithstanding section 28 of the State Sector Act 1988, the Minister shall not delegate his or her power to make rules under this Act.
+(8) Notwithstanding clause 5 of Schedule 6 of the Public Service Act 2020, the Minister shall not delegate his or her power to make rules under this Act.
 
 ### 452 Incorporation by reference
 (1) The following, whether in written or electronic form, may be incorporated by reference in a rule made by the Minister, the Governor-General, or the Director:
