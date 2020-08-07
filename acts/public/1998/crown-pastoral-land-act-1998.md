@@ -1,5 +1,5 @@
 # Crown Pastoral Land Act 1998
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2020-08-07_
 
 > An Act—ato establish a system for reviewing the tenure of Crown land held under certain perpetually renewable leases; andbto establish a system for determining how Crown land formerly held under pastoral occupation licence, and certain other Crown land, should be dealt with; andcotherwise to provide for the administration of Crown pastoral land
 
@@ -451,7 +451,7 @@ An expert determiner is not liable for any act done or omitted to be done by the
   (b) have regard to the purpose of this Part.
 
 ### 23M Delegation of Valuer-General's functions, duties, and powers
-The Valuer-General may, in accordance with section 41 of the State Sector Act 1988, delegate to employees of the department, in the same manner and to the same extent as if the Valuer-General were its chief executive,—
+The Valuer-General may, in accordance with clauses 2 and 3 of Schedule 6 of the Public Service Act 2020, delegate to employees of the department, in the same manner and to the same extent as if the Valuer-General were its chief executive,—
   (a) any function, duty, or power conferred on the Valuer-General by this Act (other than the power to make rules under section 23O) or any other enactment:
   (b) any function, duty, or power delegated to the Valuer-General by any Minister of the Crown (other than a power that is subject to a delegation that provides that the power may not be delegated).
 
