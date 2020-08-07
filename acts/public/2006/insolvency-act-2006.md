@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -2995,7 +2995,7 @@ Nothing in this Act invalidates any payment made, or any act or thing done, in g
 ### Subpart 1 — The Assignee
 
 ### 399 Appointment of Official Assignee for New Zealand and others
-(1) Suitable persons must be appointed under the State Sector Act 1988 to the following positions under this Act:
+(1) Suitable persons must be appointed under the Public Service Act 2020 to the following positions under this Act:
   (a) the Official Assignee for New Zealand:
   (b) the Deputy Official Assignee for New Zealand:
   (c) Official Assignees:
@@ -3028,8 +3028,8 @@ The Assignee, in addition to rights and remedies under this Act, has the rights 
 
 ### 404 Vacation of office by Assignee
 (1) An Assignee must vacate his or her office if he or she is adjudicated bankrupt.
-(2) An Assignee is eligible, subject to the provisions of the State Sector Act 1988, to be reappointed an Assignee when discharged from bankruptcy.
-(3) This section does not affect the question of the employment of an Assignee who is adjudicated bankrupt whilst in any other position in the Public Service.
+(2) An Assignee is eligible, subject to the provisions of the Public Service Act 2020, to be reappointed an Assignee when discharged from bankruptcy.
+(3) This section does not affect the question of the employment of an Assignee who is adjudicated bankrupt whilst in any other position in the public service.
 
 ### 405 Protection of Assignee
 An Assignee is not liable in any action or proceeding for any thing the Assignee may have done or omitted to do by reason only that the bankrupt is discharged or the bankruptcy is annulled.
