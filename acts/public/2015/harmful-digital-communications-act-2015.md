@@ -1,5 +1,5 @@
 # Harmful Digital Communications Act 2015
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Harmful Digital Communications Act 2015.
@@ -100,7 +100,7 @@ A digital communication should not denigrate an individual by reason of his or h
   (c) prescribe any reporting requirements, accountability measures, or other terms or conditions that the Approved Agency must comply with.
 (2) Before recommending the making of an Order in Council under subsection (1), the Minister must be satisfied that the appointee has the appropriate knowledge, skills, and experience to carry out some or all of the functions of the Approved Agency under this Act.
 (3) The Approved Agency holds office for the term specified in the order made under subsection (1).
-(4) A person is not to be regarded as being employed in the service of the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 solely because of his or her appointment as the Approved Agency.
+(4) A person is not to be regarded as being employed in the service of the Crown for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 solely because of his or her appointment as the Approved Agency.
 (5) The Approved Agency is subject to the Ombudsmen Act 1975, the Official Information Act 1982, and the Public Records Act 2005 in respect of functions that the Agency or any delegate of the Agency performs under this Act.
 
 ### 8 Functions and powers of Approved Agency
