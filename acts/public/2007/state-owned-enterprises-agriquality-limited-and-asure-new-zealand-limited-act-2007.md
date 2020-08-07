@@ -1,5 +1,5 @@
 # State-Owned Enterprises (AgriQuality Limited and Asure New Zealand Limited) Act 2007
-_Consolidation as at 2009-06-27_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the State-Owned Enterprises (AgriQuality Limited and Asure New Zealand Limited) Act 2007.
@@ -94,4 +94,4 @@ The Commerce Commission must carry out its investigation and report to the Minis
 (1) The Crown will continue to negotiate with New Zealand's international trading partners for the acceptance of international guidelines on meat hygiene as set out in the Codex Alimentarius's Code of Practice, Code of Hygienic Practice for Meat (CAC/RCP 58-2005) (the Code).
 (2) If more than 66.6% of the total value of New Zealand's post-mortem red meat exports (of both ovine and bovine origin) are made to international trading partners of New Zealand who have agreed to accept the international guidelines on meat hygiene as set out in the Code, the Executive Government of New Zealand must permit—
   (a) competitive tendering for the provision of examination services to occur; and
-  (b) examination services to be provided by persons who are not employed under the State Sector Act 1988.
+  (b) examination services to be provided by persons who are not employed under the Public Service Act 2020.
