@@ -1,5 +1,5 @@
 # Antarctica (Environmental Protection) Act 1994
-_Consolidation as at 2018-06-28_
+_Consolidation as at 2020-08-07_
 
 > An Act to provide for the comprehensive protection of the Antarctic environment and to recognise Antarctica as a natural reserve devoted to peace and science and to implement the Protocol on Environmental Protection to the Antarctic Treaty
 
@@ -327,7 +327,7 @@ Articles 2 to 7 of Annex III to the Protocol shall be part of the law of New Zea
 (3) Every inspector shall be appointed for such term as the Minister thinks fit, and may be reappointed.
 (4) Any inspector may at any time have his or her warrant revoked at the discretion of the Minister, or may at any time surrender his or her warrant to the Minister.
 (5) Any inspector shall, on the expiration of the term of the appointment, or on removal from office, surrender his or her warrant to the Minister.
-(6) No inspector shall, by virtue of appointment as an inspector under this Act, be deemed to be employed in the service of Her Majesty for the purpose of the State Sector Act 1988.
+(6) No inspector shall, by virtue of appointment as an inspector under this Act, be deemed to be employed in the service of Her Majesty for the purpose of the Public Service Act 2020.
 
 ### 41 Inspectors' general power of entry and inspection
 (1) Any inspector may at any time enter and inspect any area of Antarctica, and have access to any things, for the purpose of carrying out his or her functions under this Act or any regulations made under this Act.
