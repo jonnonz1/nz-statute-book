@@ -1,5 +1,5 @@
 # Building Societies Act 1965
-_Consolidation as at 2020-01-13_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to building societies
 
@@ -63,10 +63,10 @@ _Consolidation as at 2020-01-13_
 The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 3 Registrar of Building Societies
-For the purposes of this Act, there shall from time to time be appointed under the State Sector Act 1988 a Registrar of Building Societies.
+For the purposes of this Act, there shall from time to time be appointed under the Public Service Act 2020 a Registrar of Building Societies.
 
 ### 4 Deputy Registrars of Building Societies
-(1) There may also be 1 or more Deputy Registrars of Building Societies appointed under the State Sector Act 1988.
+(1) There may also be 1 or more Deputy Registrars of Building Societies appointed under the Public Service Act 2020.
 (2) A Deputy Registrar has and may exercise the powers, duties, and functions of the Registrar under this Act (subject to the control of the Registrar).
 (3) The fact that a Deputy Registrar exercises those powers, duties, or functions is conclusive evidence of the authority to do so.
 
