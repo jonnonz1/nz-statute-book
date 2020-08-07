@@ -1,5 +1,5 @@
 # Parliamentary Service Act 2000
-_Consolidation as at 2019-11-17_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Parliamentary Service Act 2000.
@@ -17,7 +17,7 @@ In this Act, unless the context otherwise requires,—
     (a) the building known as Bowen House situated on the corner of Lambton Quay and Bowen Street in Wellington; or
     (b) any land adjoining that building
   - **Chief Executive** means the Chief Executive of the Parliamentary Service
-  - **department** has the same meaning as in section 2 of the State Sector Act 1988
+  - **department** has the same meaning as in section 5 of the Public Service Act 2020
   - **Deputy Speaker** means—
     (a) the Deputy Speaker of the House of Representatives; or
     (b) in relation to the period commencing immediately after the dissolution or expiry of a Parliament and ending with the first meeting of the House of Representatives after the general election, the person who held the office of Deputy Speaker at the time of the dissolution or expiry of the Parliament
@@ -36,7 +36,7 @@ In this Act, unless the context otherwise requires,—
     (c) any other land or premises added to the parliamentary precincts by a resolution of the House of Representatives under section 25
   - **Parliamentary Service** or means the Parliamentary Service continued by section 6
   - **Parliamentary Service Commission** or means the Parliamentary Service Commission established by section 13
-  - **Public Service** has the same meaning as in section 2 of the State Sector Act 1988
+  - **public service** has the same meaning as in section 10 of the Public Service Act 2020
   - **qualifying electoral candidate** has the same meaning as in section 5 of the Members of Parliament (Remuneration and Services) Act 2013
   - **recognised party** means a political party for the time being recognised for parliamentary purposes under the Standing Orders of the House of Representatives
   - **referendum advertisement** means an advertisement in any medium that may reasonably be regarded as encouraging or persuading voters to vote, or not to vote, in a particular way in a government initiated referendum
@@ -404,7 +404,7 @@ Amendment(s) incorporated in the Act(s).
   (a) the Speaker, who chairs the committee constituted under this clause:
   (b) a member of the Parliamentary Service Commission appointed for the purpose by the Leader of the House:
   (c) a member of the Parliamentary Service Commission appointed for the purpose by the Leader of the Opposition:
-  (d) the State Services Commissioner:
+  (d)
   (e) not more than 2 additional members appointed by the members specified in paragraphs (a) to (d), if those members decide, in a particular case, that the exercise of the power conferred by this paragraph is appropriate.
 (2) The committee may examine applicants and seek advice from any sources it considers relevant.
 (3) At every meeting of the committee,—
@@ -419,7 +419,7 @@ No person may be appointed as the Chief Executive of the Parliamentary Service u
 
 ### 3 Remuneration and conditions of employment
 (1) The remuneration of the Chief Executive is determined from time to time by the Remuneration Authority under the Remuneration Authority Act 1977.
-(2) The terms and conditions of employment of the Chief Executive (other than remuneration) are determined from time to time by the State Services Commissioner with the agreement of the Speaker.
+(2) The terms and conditions of employment of the Chief Executive (other than remuneration) are determined from time to time by the Speaker.
 
 ### 4 Term of office
 (1) The Chief Executive is appointed for a term of 5 years; but is eligible for reappointment from time to time.
@@ -428,7 +428,7 @@ No person may be appointed as the Chief Executive of the Parliamentary Service u
   (b) a successor to that person is appointed.
 
 ### 5 Removal of Chief Executive from office
-The State Services Commissioner may, with the agreement of the Speaker, for just cause or excuse, remove the Chief Executive from office.
+The Speaker may, for just cause or excuse, remove the Chief Executive from office.
 
 ### 6 Acting Chief Executive of Parliamentary Service
 (1) When there is a vacancy in the position of Chief Executive or when the Chief Executive is (for whatever reason) absent from duty, the functions, duties, and powers of the Chief Executive must be exercised or performed by a person whom the Speaker directs to exercise those functions, duties, and powers.
@@ -438,13 +438,13 @@ The State Services Commissioner may, with the agreement of the Speaker, for just
 
 **Employment in Parliamentary Service**
 
-### 7 Application of State Sector Act 1988
-(1) The provisions of Parts 5, 6, and 8 of the State Sector Act 1988 apply in respect of employment within the Parliamentary Service as if—
+### 7 Application of Public Service Act 2020
+(1) The provisions of sections 65 to 80, 85, 88, 89, 103, and 104 of the Public Service Act 2020 apply in respect of employment within the Parliamentary Service as if—
   (a) the Service were a department; and
   (b) the Chief Executive of the Service were the chief executive of that department.
-(2) Nothing in any other Part of the State Sector Act 1988 applies in respect of the Service or persons employed in the Service.
+(2) No other provision of the Public Service Act 2020 applies in respect of the Service or persons employed in the Service.
 (3) Subclause (2) is subject to clause 15.
-(4) Despite section 68 of the State Sector Act 1988, the Chief Executive is responsible for negotiating a collective agreement under the Employment Relations Act 2000 and the Chief Executive must consult with the State Services Commissioner about the conditions of employment to be included in the collective agreement.
+(4) Despite sections 78 and 79 of the Public Service Act 2020, the Chief Executive is responsible for negotiating a collective agreement under the Employment Relations Act 2000 and the Chief Executive must consult with the Public Service Commissioner about the conditions of employment to be included in the collective agreement.
 
 ### 8 Delegation of powers by Chief Executive
 (1) The Chief Executive may delegate any function, duty, or power the Chief Executive may exercise under an enactment or under a delegation made under an enactment, other than this power of delegation, to—
@@ -493,10 +493,10 @@ The Parliamentary Library forms part of the Parliamentary Service.
 ### 14 Audit
 The Parliamentary Service Commission is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
-### 15 Functions of State Services Commissioner in relation to Parliamentary Service
-(1) The State Services Commissioner may from time to time, at the request of the Speaker, exercise in respect of the Parliamentary Service any of the functions conferred on the State Services Commissioner by section 6 of the State Sector Act 1988.
-(1A) The State Services Commissioner must exercise functions requested by the Speaker in accordance with subsection (1) consistently with the role of the Parliamentary Service and its separation from the executive government.
-(2) For the purposes of this clause, section 6 of the State Sector Act 1988 applies, with all necessary modifications, as if—
+### 15 Functions of Public Service Commissioner in relation to Parliamentary Service
+(1) The Public Service Commissioner may from time to time, at the request of the Speaker, exercise in respect of the Parliamentary Service any of the functions conferred on the Public Service Commissioner by section 44 of the Public Service Act 2020.
+(1A) The Public Service Commissioner must exercise functions requested by the Speaker in accordance with subsection (1) consistently with the role of the Parliamentary Service and its separation from the executive government.
+(2) For the purposes of this clause, section 44 of the Public Service Act 2020 applies, with all necessary modifications, as if—
   (a) the Service were a department; and
   (b) the Chief Executive of the Service were the chief executive of that department.
 
