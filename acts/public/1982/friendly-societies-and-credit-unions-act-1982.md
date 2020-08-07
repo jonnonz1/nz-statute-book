@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -62,12 +62,12 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
 ## Part 1 — Registrar and officers
 
 ### 3 Registrar of Friendly Societies and Credit Unions
-(1) There shall from time to time be appointed, pursuant to the State Sector Act 1988, a Registrar of Friendly Societies and Credit Unions.
+(1) There shall from time to time be appointed, pursuant to the Public Service Act 2020, a Registrar of Friendly Societies and Credit Unions.
 (2)
 (3) The Registrar shall have a seal of office of which judicial notice shall be taken.
 
 ### 4 Deputy Registrar of Friendly Societies and Credit Unions
-(1) There may from time to time be appointed, pursuant to the State Sector Act 1988, 1 or more Deputy Registrars of Friendly Societies and Credit Unions.
+(1) There may from time to time be appointed, pursuant to the Public Service Act 2020, 1 or more Deputy Registrars of Friendly Societies and Credit Unions.
 (2)
 (3) Subject to the control of the Registrar, a Deputy Registrar shall have and may exercise all the functions, duties, and powers of the Registrar.
 (4) On the occurrence from any cause of a vacancy in the office of Registrar (whether by reason of death, resignation, or otherwise), and in the case of absence from duty of the Registrar (from whatever cause arising), and so long as any such vacancy or absence continues, a Deputy Registrar shall have and may exercise all the functions, duties, and powers of the Registrar.
@@ -93,7 +93,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
 (5) The Governor-General may from time to time, by Order in Council, extend or restrict the range of accounting records and documents that are open to inspection by the public.
 
 ### 6 Appointment of officers and employees
-There shall from time to time be appointed under the State Sector Act 1988 such officers and employees as may be necessary for the effective and efficient carrying out of the functions and duties of the Registrar.
+There shall from time to time be appointed under the Public Service Act 2020 such officers and employees as may be necessary for the effective and efficient carrying out of the functions and duties of the Registrar.
 
 ### 7 Functions of Registrar
 (1) Subject to the general direction and control of the Minister, the functions of the Registrar shall be to administer this Act and to carry out such duties as may be imposed upon him by this or any other enactment.
