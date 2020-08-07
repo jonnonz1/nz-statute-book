@@ -1,5 +1,5 @@
 # Land Transfer Act 2017
-_Consolidation as at 2020-01-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Land Transfer Act 2017.
@@ -2363,10 +2363,10 @@ The Crown must meet the cost of a survey certified by the Surveyor-General as re
 **Registrar-General of Land**
 
 ### 231 Registrar-General of Land
-(1) There must be a Registrar-General of Land appointed under the State Sector Act 1988.
+(1) There must be a Registrar-General of Land appointed under the Public Service Act 2020.
 (2) Unless the person is a barrister and solicitor of the High Court, no person may be—
   (a) appointed Registrar-General of Land; or
-  (b) directed under section 62(1) of the State Sector Act 1988 to exercise or perform a power or duty of the Registrar-General.
+  (b) directed under clause 2(1) of Schedule 8 of the Public Service Act 2020 to exercise or perform a power or duty of the Registrar-General.
 (3) In exercising or performing the powers and duties of the Registrar, the Registrar and every delegate of the Registrar must have regard to the following objectives:
   (a) to ensure an efficient and effective system for registering dealings in land:
   (b) to manage the risk of fraud and improper dealings:
@@ -2390,7 +2390,7 @@ The Crown must meet the cost of a survey certified by the Surveyor-General as re
   (a) general; or
   (b) specific; or
   (c) limited to performing a duty or exercising a power in relation to a particular activity or operation or class of activity or operation.
-(4) A delegation may be made to a person whether or not that person is an employee of the department or of any other department or ministry of the Public Service.
+(4) A delegation may be made to a person whether or not that person is an employee of the department or of any other department or ministry of the public service.
 (5) A delegation—
   (a) does not affect or prevent the performance of a duty or the exercise of a power by the Registrar:
   (b) does not affect the responsibility of the Registrar for the actions of a person to whom a duty or power is delegated:
