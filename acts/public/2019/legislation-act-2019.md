@@ -1,5 +1,5 @@
 # Legislation Act 2019
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Legislation Act 2019.
@@ -134,7 +134,7 @@ In legislation,—
   - **Commonwealth country** and mean a country that is a member of the Commonwealth; and include a territory for the international relations of which the member is responsible
   - **consular officer** means a person who has authority to exercise consular functions
   - **de facto partner** means a person who is a party to a de facto relationship (as defined in section 14)
-  - **department** , in relation to any legislation, means the department or departmental agency (within the meaning of section 27A of the State Sector Act 1988) that, with the authority of the Prime Minister, is responsible for the administration of the legislation
+  - **department** , in relation to any legislation, means the department, departmental agency, or interdepartmental venture (as named in Part 1, 2, or 4 of Schedule 2 of the Public Service Act 2020) that, with the authority of the Prime Minister, is responsible for the administration of the legislation
   - **enactment** means the whole or a part of an Act or any secondary legislation
   - **Gazette** means the New Zealand Gazette (or a supplement to the New Zealand Gazette) published or purporting to be published under the authority of the New Zealand Government
   - **Governor-General in Council** or a similar expression means the Governor-General acting on the advice and with the consent of the Executive Council
@@ -436,7 +436,7 @@ If legislation refers to a period described in the following way, the period mus
 A thing that, under legislation, must or may be done on a particular day or within a limited period of time may, if that day or the last day of that period is not a working day, be done on the next working day.
 
 ### 56 Calculating periods of months (except for commencement of legislation)
-(1) A reference to 1 or more months in legislation is a reference to a period calculated as follows:ExamplesIf the legislation refers to a period of 1 month starting on 15 February, the period starts on 15 February and ends at the close of 14 March (because March has a corresponding day).If the legislation refers to a period of 6 months starting on 31 October, the period starts on 31 October and ends at the close of 30 April (because April does not have 31 days).If the legislation refers to a period of 3 months after the date on which notice is sent and notice is sent on 2 August, the period starts on 3 August (under item 2 in section 54) and ends at the close of 2 October.
+(1) A reference to 1 or more months in legislation is a reference to a period calculated as follows:ExamplesIf the legislation refers to a period of 1 month starting on 15 February, the period starts on 15 February and ends at the close of 14 March (because March has a corresponding day).If the legislation refers to a period of 6 months starting on 31 October, the period starts on 31 October and ends at the close of 30 April (because April does not have 31 days).If the legislation refers to a period of 3 months after the date on which notice is sent and notice is sent on 2 August, the period starts on 3 August (under item 2 in section 54) and ends at the close of 2 November.
   (a) the period starts at the start of the relevant day in the month; and
   (b) the relevant number of months must then be counted to find the ending month; and
   (c) the period ends immediately before the corresponding day in the ending month or (if there is no such day) at the close of the last day of the ending month.
@@ -614,7 +614,8 @@ In this section and sections 74 to 76,—
   - **links** , in relation to any secondary legislation at any time, means all information necessary or desirable to enable a user at that time to access, using the legislation website, the secondary legislation as published and made available on the maker’s website
   - **maker’s website** means an Internet site (other than the legislation website) maintained by or on behalf of the maker
   - **relevant central government entity** means any of the following (or a decision-making person or body in or related to, or acting through or for, any of the following):
-    (a) a department named in Schedule 1 of the State Sector Act 1988, including any departmental agency that, under section 27A and Schedule 1A of that Act, is part of that department:
+    (a) a department named in Part 1 of Schedule 2 of the Public Service Act 2020, including any departmental agency named in Part 2 of that schedule that is part of that department:
+    (aa) an interdepartmental venture named in Part 4 of that schedule:
     (b) a Crown entity (as defined in section 7(1) of the Crown Entities Act 2004, but excluding a school board and a tertiary education institution):
     (c) the Reserve Bank of New Zealand:
     (d) any other instrument of the Crown prescribed, for the purposes of this paragraph, by regulations made under this Act (if any).
@@ -869,7 +870,7 @@ In this Part, unless the context otherwise requires,—
 
 ### 106 Chief executives must act independently and include statement of responsibility
 (1) The chief executive of the relevant policy agency is responsible for acting independently (and is not responsible to a Minister) when performing the duties under section 103 and when acting under section 105(2)﻿(c) and (3).
-(2) Subsection (1) applies despite section 32 of the State Sector Act 1988 or any other legislation to the contrary.
+(2) Subsection (1) applies despite section 52 of the Public Service Act 2020 or any other legislation to the contrary.
 (3) The chief executive must ensure that the disclosure statement includes a statement of responsibility in the form required by the notice under section 107.
 
 ### 107 Government notice must be issued to support consistent approach across agencies
@@ -1122,11 +1123,11 @@ The Chief Parliamentary Counsel has all the rights, duties, and powers of an emp
 ### 141 Collective agreements
 (1) The Chief Parliamentary Counsel must conduct any negotiations for a collective agreement under the Employment Relations Act 2000—
   (a) with a union of which employees are members; and
-  (b) in consultation with the State Services Commissioner.
+  (b) in consultation with the Public Service Commissioner.
 (2) In this section, union has the meaning given to that term by section 5 of the Employment Relations Act 2000.
 
 ### 142 Employment principles
-The Chief Parliamentary Counsel must operate a personnel policy that complies with the principle of being a good employer by following, as if the Chief Parliamentary Counsel were the chief executive of a department, sections 56 and 58 of the State Sector Act 1988.
+The Chief Parliamentary Counsel must operate a personnel policy that complies with the principle of being a good employer by following, as if the Chief Parliamentary Counsel were the chief executive of a department, sections 73 and 74 of the Public Service Act 2020.
 
 ### 143 Appointments on merit
 In making an appointment under section 136 or 138, the Chief Parliamentary Counsel must give preference to the person who is best suited to the position.
@@ -1138,7 +1139,7 @@ The Chief Parliamentary Counsel must put in place a procedure that provides for�
   (c) reviewing those appointments made to an advertised vacant position within the PCO that are the subject of any complaint by an employee of the PCO.
 
 ### 145 Secondments from elsewhere in State Services for developing senior leadership and management capability
-Sections 143 and 144 of this Act do not apply to any secondment arranged under section 49 of the State Sector Act 1988.
+Sections 143 and 144 of this Act do not apply to any secondment arranged under section 64 of the Public Service Act 2020.
 
 ### 146 Protection from liability
 (1) This section applies to the Chief Parliamentary Counsel and every employee of the PCO.
