@@ -1,5 +1,5 @@
 # Land Act 1948
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to the lands of the Crown in New Zealand
 
@@ -160,11 +160,11 @@ Nothing in the foregoing provisions of this Act relating to appeals shall author
 **Commissioners of Crown Lands**
 
 ### 24AA Commissioner of Crown Lands
-(1) A person must be appointed under the State Sector Act 1988 to hold office as the Commissioner of Crown Lands.
+(1) A person must be appointed under the Public Service Act 2020 to hold office as the Commissioner of Crown Lands.
 (2) The Commissioner must report directly to the Minister on the exercise and performance of the Commissioner's statutory powers and functions.
 
 ### 24AB Delegation of Commissioner's functions, duties, and powers
-The Commissioner may, under section 41 of the State Sector Act 1988, delegate to the employees of the department, in the same manner and to the same extent as if the Commissioner were the chief executive of the department, any power—
+The Commissioner may, under clauses 2 and 3 of Schedule 6 of the Public Service Act 2020, delegate to the employees of the department, in the same manner and to the same extent as if the Commissioner were the chief executive of the department, any power—
   (a) conferred by statute on the Commissioner; or
   (b) delegated under statute to the Commissioner by a Minister of the Crown.
 
