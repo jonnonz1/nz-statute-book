@@ -1,5 +1,5 @@
 # Land Valuation Proceedings Act 1948
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to provide for the constitution of a Land Valuation Court, and to define the jurisdiction, powers, and procedure of the court; and for matters incidental thereto
 
@@ -233,7 +233,7 @@ The Land Valuation Tribunal may at any time dismiss any claim, objection, applic
 For the purpose of enforcing any order of a Land Valuation Tribunal (other than an award on a claim for compensation under the Public Works Act 1981), a copy of the order signed by the District Court Judge who is the Chairman of the Tribunal may be filed upon payment of such fee as may be prescribed in any office of the High Court or of the District Court, as the Tribunal directs, whereupon the order shall have the effect of a judgment of the High Court or of the District Court, as the case may be, and may be enforced accordingly.
 
 ### 39 Members of court or of Land Valuation Tribunals not to be deemed to be public servants
-No person shall be deemed to be employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or of the Government Superannuation Fund Act 1956 by reason of his being a member of the court or of any Land Valuation Tribunal.
+No person shall be deemed to be employed in the service of Her Majesty for the purposes of the Public Service Act 2020 or of the Government Superannuation Fund Act 1956 by reason of his being a member of the court or of any Land Valuation Tribunal.
 
 ### 40 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make all such regulations as in his opinion may be necessary or expedient for giving full effect to the provisions of this Act and for the due administration thereof.
