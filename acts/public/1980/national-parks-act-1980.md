@@ -1,5 +1,5 @@
 # National Parks Act 1980
-_Consolidation as at 2018-12-21_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend the law relating to national parks
 
@@ -344,13 +344,13 @@ The Minister shall consult the Authority in respect of any notice requesting an 
 ## Part 4 — Administration
 
 ### 40 Rangers
-(1) There may from time to time be appointed under the State Sector Act 1988 suitable persons to be rangers for the purposes of this Act.
+(1) There may from time to time be appointed under the Public Service Act 2020 suitable persons to be rangers for the purposes of this Act.
 (2) The Minister may from time to time appoint a suitable person to be a ranger in an honorary capacity for the purposes of this Act.
 (3) Any ranger may be appointed for a particular park or parks or to exercise his powers generally throughout New Zealand.
 (4) The Director-General shall supply to every ranger a written warrant signed by or on behalf of the Director-General evidencing the appointment, and the production of that warrant shall, in the absence of proof to the contrary, be sufficient proof of the appointment.
 (5) Every ranger shall, on the expiration of the term of his appointment, or on the sooner vacation of his office, surrender to the Director-General his warrant of appointment and any badge of office that may have been issued to him.
 (6) Every honorary ranger shall be appointed to hold office during the pleasure of the Minister or for such specified term as the Minister thinks fit.
-(7) No person appointed to be an honorary ranger shall, by virtue of that appointment, be deemed to be employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or of the Government Superannuation Fund Act 1956.
+(7) No person appointed to be an honorary ranger shall, by virtue of that appointment, be deemed to be employed in the service of Her Majesty for the purposes of the Public Service Act 2020 or of the Government Superannuation Fund Act 1956.
 (8) Every constable, every warranted officer appointed under subsection (1) or deemed to have been appointed by subsection (9) of section 59 of the Conservation Act 1987, and every ranger appointed under the Wildlife Act 1953, shall, by virtue of his office, have all the powers of a ranger under this Act.
 
 ### 41 Delegation of Minister's powers and functions
