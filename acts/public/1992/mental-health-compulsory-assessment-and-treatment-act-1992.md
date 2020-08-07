@@ -1,5 +1,5 @@
 # Mental Health (Compulsory Assessment and Treatment) Act 1992
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-08-07_
 
 > An Act to redefine the circumstances in which and the conditions under which persons may be subjected to compulsory psychiatric assessment and treatment, to define the rights of such persons and to provide better protection for those rights, and generally to reform and consolidate the law relating to the assessment and treatment of persons suffering from mental disorder
 
@@ -1135,7 +1135,7 @@ Wherever practicable, for the purposes of a review by a Review Tribunal of the c
 **Officials**
 
 ### 91 Director and Deputy Director of Mental Health
-(1) There shall from time to time be appointed under the State Sector Act 1988 the following officers in the Ministry of Health:
+(1) There shall from time to time be appointed under the Public Service Act 2020 the following officers in the Ministry of Health:
   (a) a Director of Mental Health, who shall be responsible for the general administration of this Act under the direction of the Minister and the Director-General of Health:
   (b) a Deputy Director of Mental Health, who shall, under the control of the Director, perform such general official duties as the Director may from time to time require.
 (2) On the occurrence from any cause of a vacancy in the office of Director, whether by reason of death, resignation, or otherwise, and in case of the absence from duty of the Director from whatever cause arising, and so long as the vacancy or absence continues, the Deputy Director shall have and may exercise and perform all the powers, duties, and functions of the Director.
