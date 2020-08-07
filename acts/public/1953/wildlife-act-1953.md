@@ -1,5 +1,5 @@
 # Wildlife Act 1953
-_Consolidation as at 2019-08-02_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend the law relating to the protection and control of wild animals and birds, the regulation of game shooting seasons, and the constitution and powers of acclimatisation societies
 
@@ -545,9 +545,9 @@ In determining the maximum allowable level of fishing-related mortality for thre
 **Rangers**
 
 ### 38 Rangers
-(1) There may from time to time be appointed under the provisions of the State Sector Act 1988 suitable persons to be rangers for the purposes of this Act.
+(1) There may from time to time be appointed under the provisions of the Public Service Act 2020 suitable persons to be rangers for the purposes of this Act.
 (2) The Director-General may from time to time appoint—
-  (a) any suitable person (not being an employee of the Public Service) to be a ranger in a part-time capacity for the purposes of this Act:
+  (a) any suitable person (not being an employee of the public service) to be a ranger in a part-time capacity for the purposes of this Act:
   (b) any suitable person to be a ranger in an honorary capacity for the purposes of this Act:
   (c) any servant of a Fish and Game Council to be a ranger for the purposes of this Act.
 (3) A ranger may be appointed for a particular district or area or to exercise his duties generally throughout New Zealand.
@@ -555,7 +555,7 @@ In determining the maximum allowable level of fishing-related mortality for thre
 (5) Every ranger appointed under subsection (2) shall be appointed for such term, not exceeding 3 years, as the Director-General thinks fit, and may be reappointed.
 (6) Any ranger appointed under subsection (2) may at any time be removed from office by the Director-General for incapacity, neglect of duty, or misconduct, or may at any time resign his office by writing addressed to the Director-General.
 (7) Any ranger appointed under subsection (2) shall, on the expiration of the term of his appointment, or on the sooner expiry of his appointment by removal from office or resignation, surrender to the Director-General his warrant of appointment.
-(8) No person appointed by the Director-General under this section to be a ranger shall by virtue of that appointment be deemed to be employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or of the Government Superannuation Fund Act 1956.
+(8) No person appointed by the Director-General under this section to be a ranger shall by virtue of that appointment be deemed to be employed in the service of Her Majesty for the purposes of the Public Service Act 2020 or of the Government Superannuation Fund Act 1956.
 (9) Every person (not being a constable) who at the commencement of this Act holds an appointment as a ranger under section 35 of the Animals Protection and Game Act 1921–22 shall be deemed to have ceased to hold that appointment as from the commencement of this Act.
 
 ### 38A Fish and game rangers to be rangers under this Act
@@ -664,7 +664,7 @@ Part 4 of the Search and Surveillance Act 2012 applies, with any necessary modif
 (3) Where any fence within the meaning of the Fencing Act 1978 is erected pursuant to an agreement with any such occupier, the occupier shall be liable, notwithstanding anything to the contrary in that Act, to pay such amount as may have been agreed upon by the Minister and the occupier, and that amount may be recovered from the occupier as a debt due to the Crown.
 
 ### 43 Tenancies
-Subject to the Tenancy Act 1955, the Minister may grant tenancies or occupancies of dwellings on land held by the Crown for the purposes of this Act to employees of the Department at such rent and upon such terms and conditions as may be approved by the State Services Commission, or to any Fish and Game Council or to any other person under such circumstances, at such rent, and upon such terms and conditions as the Minister determines.
+Subject to the Tenancy Act 1955, the Minister may grant tenancies or occupancies of dwellings on land held by the Crown for the purposes of this Act to employees of the Department at such rent and upon such terms and conditions as may be approved by the Public Service Commission, or to any Fish and Game Council or to any other person under such circumstances, at such rent, and upon such terms and conditions as the Minister determines.
 
 ### 44 Delegation of Minister's powers
 (1) The Minister may from time to time delegate in writing to the Director-General or to any other officer of the Department any of his powers under this Act, including the power of delegation conferred by this section.
