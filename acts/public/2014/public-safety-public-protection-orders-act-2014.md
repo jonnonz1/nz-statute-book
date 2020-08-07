@@ -1,5 +1,5 @@
 # Public Safety (Public Protection Orders) Act 2014
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Public Safety (Public Protection Orders) Act 2014.
@@ -579,13 +579,16 @@ The Privacy Act 1993 applies to the monitoring of resident calls under sections 
 (2) Despite subsection (1), if the Privacy Commissioner has notified the chief executive in writing that a complaint has been made under the Privacy Act 1993 in relation to the recording, the recording must not be destroyed or erased in accordance with that subsection until the Privacy Commissioner has notified the chief executive in writing that the complaint has—
   (a) not been proceeded with; or
   (b) been finally disposed of.
-(3) The Commissioner of Police or, as the case may be, the chief executive of a department of State specified in Schedule 1 of the State Sector Act 1988 must take all practicable steps to ensure that every recording of a resident call held by the Police or that department that was obtained by the monitoring of the call under this Act is destroyed, or completely erased, as soon as it appears that no proceedings (or no further proceedings) will be taken in which any information contained in it would be likely to be required to be produced in evidence.
+(3) The Commissioner of Police or, as the case may be, the chief executive or board of a public service agency must take all practicable steps to ensure that every recording of a resident call held by the Police or that department that was obtained by the monitoring of the call under this Act is destroyed, or completely erased, as soon as it appears that no proceedings (or no further proceedings) will be taken in which any information contained in it would be likely to be required to be produced in evidence.
 (4) Nothing in subsections (1) and (3) applies to any record of any information adduced in proceedings in any court or tribunal.
 (5) Subsection (6) applies if—
   (a) 2 or more recordings of resident calls are stored in such a way that it is not practicable to destroy or completely erase one without destroying or completely erasing the others; and
   (b) subsection (1) requires the destruction or complete erasure of 1 or more, but not all, of them.
 (6) If this subsection applies, an authorised person may arrange for the recording or recordings that are not required to be destroyed or completely erased to be copied, so that the copy or copies may be retained and all the recordings may be destroyed or completely erased.
 (7) Any copy made in accordance with subsection (6) is admissible in evidence to the same extent that the destroyed recording it is a copy of would have been.
+(8) For the purpose of subsection (3),—
+  (a) public service agency has the meaning given to it in section 5 of the Public Service Act 2020:
+  (b) if the recording referred to in subsection (3) is held by a departmental agency or an interdepartmental executive board (within the meaning of those terms in section 5 of the Public Service Act 2020), compliance with that subsection is the responsibility of its host department or, as the case may be, servicing department.
 
 ### 60 Notice to be given of intention to produce evidence of recording
 Particulars of a recording of a resident call must not be received in evidence by any court against any person unless the party intending to offer it has given the person reasonable notice of the party's intention to do so, together with—
@@ -1160,7 +1163,7 @@ For the purposes of any review under section 15 or 87, the review panel must int
 (6) The building or the part of the building and any adjacent land declared to be a residence may be described in the notice in any way that is sufficient to identify it.
 
 ### 115 Appointment of residence manager
-(1) For every residence that is not subject to a residence management contract, the chief executive must appoint under the State Sector Act 1988—
+(1) For every residence that is not subject to a residence management contract, the chief executive must appoint under the Public Service Act 2020—
   (a) a suitable person as the residence manager; and
   (b) a suitable person as the deputy residence manager; and
   (c) as many other suitable persons as are required as employees for the purposes of the residence.
@@ -1267,7 +1270,7 @@ For the purposes of any review under section 15 or 87, the review panel must int
 ### 125 Remuneration and expenses of members
 (1) The remuneration of any member of the review panel who is a District Court Judge or a Judge of the High Court must, so far as it relates to the Judge's membership of the review panel, be determined by the Remuneration Authority.
 (2) Every other member of the review panel must be paid fees and expenses in accordance with the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies.
-(3) A person is not employed in the service of the Crown, for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956, merely as a result of being a member of the review panel.
+(3) A person is not employed in the service of the Crown, for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956, merely as a result of being a member of the review panel.
 
 ### 126 Immunity of members
 No member of the review panel is personally liable for any act or omission done in pursuance, or intended pursuance, of the panel's functions, unless the act or omission was done in bad faith.
@@ -1318,10 +1321,10 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
   (b) the requirements of the New Zealand Bill of Rights Act 1990, as if the residence were a residence managed by the department; and
   (c) the requirements of the Public Records Act 2005, as if records relating to the residence and to residents in the residence were records created or received by the department; and
   (d) all relevant international obligations and standards; and
-  (e) the requirements of sections 56(1) and (2) and 58(3) of the State Sector Act 1988 (which relate to personnel and equal employment policies), as if the contractor were the chief executive of a department within the meaning of that Act and as if those requirements applied, not only in respect of employees of a contractor, but in respect of all staff members of a contract residence.
+  (e) the requirements of sections 73 and 74(2) of the Public Service Act 2020 (which relate to personnel and equal employment policies), as if the contractor were the chief executive of a department within the meaning of that Act and as if those requirements applied, not only in respect of employees of a contractor, but in respect of all staff members of a contract residence.
 
 ### 132 Delegation of powers and functions of contractor
-Without limiting sections 41 and 42 of the State Sector Act 1988, those sections of that Act apply in relation to a contract residence as if—
+Without limiting clauses 2 to 4 of Schedule 6 of the Public Service Act 2020, those sections of that Act apply in relation to a contract residence as if—
   (a) the contractor were the chief executive of the department; and
   (b) each staff member of the residence were an employee of the department.
 
