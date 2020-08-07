@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -1533,7 +1533,7 @@ A veteran with total lower body mobility impairment or with severe lower body mo
   (a) this Part; and
   (b) any provision in the Social Security Act 2018 that relates to the veteran's pension.
 (2) Subsection (1) applies to any of the functions, duties, and powers that are the general manager's functions, duties, and powers in accordance with section 201.
-(3) Sections 41 and 42 of the State Sector Act 1988 apply to a delegation under subsection (1) as if the delegation were made under section 41 of that Act.
+(3) Clauses 2 to 4 of Schedule 6 of the Public Service Act 2020 apply to a delegation under subsection (1) as if the delegation were made under clause 2 of that schedule.
 
 **Entitlement**
 
@@ -1960,9 +1960,9 @@ Every function, duty, and power of VANZ under this Act is a function, duty, or p
 
 ### 203 General manager may delegate functions, duties, and powers outside Defence Force with approval
 (1) The general manager may delegate any of his or her functions, duties, and powers under this Act,—
-  (a) with the written approval of the Chief of Defence Force, to a person described in section 41(1A) of the State Sector Act 1988:
-  (b) with the written approval of the Chief of Defence Force and the Minister, to a person described in section 41(2A) of the State Sector Act 1988.
-(2) Sections 41 and 42 of the State Sector Act 1988 apply, with any necessary modifications, to a delegation under subsection (1), as if the general manager were a Public Service chief executive.
+  (a) with the written approval of the Chief of Defence Force, to a person described in clause 2(4) of Schedule 6 of the Public Service Act 2020:
+  (b) with the written approval of the Chief of Defence Force and the Minister, to a person described in clause 2(5) of Schedule 6 of the Public Service Act 2020.
+(2) Clauses 2 to 4 of Schedule 6 of the Public Service Act 2020 apply, with any necessary modifications, to a delegation under subsection (1) as if the general manager were a public service chief executive.
 (3) This section does not limit section 160.
 
 ### 204 Immunity from civil liability
