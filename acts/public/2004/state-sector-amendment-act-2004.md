@@ -1,5 +1,5 @@
 # State Sector Amendment Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 (1) This Act is the State Sector Amendment Act 2004.
@@ -35,7 +35,7 @@ The principal Act is amended by inserting, after section 74, the following secti
   (5) Any direction under subsection (4)—
     (a) may be given to any person responsible for effecting payments or transfers of sums of money required for the remuneration of the employee; and
     (b) must be followed by the person.
-  (6) The Commissioner may give any notice that, as a result of a direction under subsection (4)(b), is required to be given to an employee under section 6(3)(b) of the Wages Protection Act 1983.
+  (6) The Commissioner may give any notice that, as a result of a direction under subsection (4)﻿(b), is required to be given to an employee under section 6(3)﻿(b) of the Wages Protection Act 1983.
   (7) Subsection (1)—
     (a) overrides section 77E(2); and
     (b) is subject to sections 74AC and 74AD.
@@ -75,7 +75,7 @@ The principal Act is amended by inserting, after section 77H, the following sect
     (d) is on terms and conditions of employment that are no less favourable than those that apply to the employee immediately before the offer of employment (including any service-related redundancy conditions and superannuation conditions); and
     (e) is on terms that treat the period of service with the school in which the previous position was held (and any other period of service recognised for the purposes of the previous position as continuous service) as if it were continuous service for the purposes of the position offered to the employee.
   (3) The Minister of Education may determine whether a school is directly affected by a closure or merger, and that determination is binding on all parties.
-  (4) Subsection (1)(b) is subject to any contrary provision in an employment agreement that provides for a payment on the ground that the employee's position has ceased to exist, but only if that payment is less than the amount that would otherwise be payable in any case to which subsection (1) does not apply.
+  (4) Subsection (1)﻿(b) is subject to any contrary provision in an employment agreement that provides for a payment on the ground that the employee's position has ceased to exist, but only if that payment is less than the amount that would otherwise be payable in any case to which subsection (1) does not apply.
   (5) A collective employment agreement that binds employees in schools may provide, consistently with subsections (1) and (2), for the manner in which those subsections are to apply to those employees.
   (1) Sections 77G and 77H do not apply to an appointment to a position in a school if—
     (a) the appointment is made in connection with the closure of a school under section 154 of the Education Act 1989 or the merger of schools under section 156A of that Act; and
