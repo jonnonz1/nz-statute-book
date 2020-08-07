@@ -1,5 +1,5 @@
 # State Sector Amendment Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 (1) This Act is the State Sector Amendment Act 2003.
@@ -107,7 +107,7 @@ Section 27 of the principal Act is amended by repealing subsection (2).
   (b) by inserting, after the item Serious Fraud Office., the item Ministry of Social Development. ; and
   (c) by omitting the item Department of Social Welfare. ; and
   (d) by omitting the item Department of Work and Income..
-(2) To avoid doubt, it is declared that the amendments made by subsection (1)(b) and (d) are made solely to facilitate the change in name of the Department of Work and Income, which continues to exist under the name of the Ministry of Social Development.
+(2) To avoid doubt, it is declared that the amendments made by subsection (1)﻿(b) and (d) are made solely to facilitate the change in name of the Department of Work and Income, which continues to exist under the name of the Ministry of Social Development.
 
 ### 8 Effect of reorganisation on employees
 The transfer of functions from an abolished department to the appropriate successor department does not transfer the chief executive or an employee of the abolished department to the appropriate successor department, despite section 14.
