@@ -1,5 +1,5 @@
 # Citizenship Act 1977
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2020-08-07_
 
 > An Act to make better provision with respect to the status of New Zealand citizenship, and to consolidate and amend the British Nationality and New Zealand Citizenship Act 1948
 
@@ -11,8 +11,8 @@ _Consolidation as at 2019-10-24_
 (1) In this Act, unless the context otherwise requires,—
   - **alien** means a person who does not have the status of a New Zealand citizen, a Commonwealth citizen (British subject), a British protected person, or an Irish citizen
   - **Armed Forces** has the meaning given to it by section 2 of the Defence Act 1990
-  - **Crown service under the New Zealand Government** means the service of the Crown under the Government of New Zealand or under the Government of a New Zealand mandated territory or New Zealand trust territory, whether that service is in any part of Her Majesty's realms and territories or elsewhere; and includes employment in any of the State Services, as that term is defined in section 2 of the State Sector Act 1988
-  - **employee** has the meaning given to it by section 2 of the State Sector Act 1988, except that it includes—
+  - **Crown service under the New Zealand Government** means the service of the Crown under the Government of New Zealand or under the Government of a New Zealand mandated territory or New Zealand trust territory, whether that service is in any part of Her Majesty's realms and territories or elsewhere; and includes employment in any of the State Services, as that term is defined in section 5 of the Public Service Act 2020
+  - **employee** has the meaning given to it by section 5 of the Public Service Act 2020, except that it includes—
     (a) any chief executive
     (b)
   - **Minister** means the Minister of Internal Affairs
