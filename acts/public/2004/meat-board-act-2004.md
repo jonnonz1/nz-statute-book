@@ -1,5 +1,5 @@
 # Meat Board Act 2004
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Meat Board Act 2004.
@@ -472,7 +472,7 @@ The quota compliance audit must be conducted in accordance with the terms of ref
   (a) prepare a written report on the conclusions reached and recommendations formulated as a result of conducting the audit; and
   (b) give a copy of that report to the Minister, the chief executive of the Ministry, the chairman and the chief executive officer of the Board, and the person (if any) to whom the chief executive officer of the Board has delegated responsibility for quota management.
 (2) The Minister may give directions as to any further distribution of the report or any part of the report, and as to its availability for viewing.
-(3) The Minister must consult with the Board before giving directions as to the distribution or availability of the report or any part of it to persons other than other Ministers or persons within the public service (as defined in section 27 of the State Sector Act 1988).
+(3) The Minister must consult with the Board before giving directions as to the distribution or availability of the report or any part of it to persons other than other Ministers or persons within the public service (as defined in section 10 of the Public Service Act 2020).
 
 ### 45 Confidentiality of report
 (1) Subject to any direction by the Minister under section 44(2), the report on the quota compliance audit, including any draft reports and related working papers—
@@ -625,7 +625,7 @@ Subject to section 54, any person who, immediately before the commencement of th
 (4) A notice may request information—
   (a) in relation to meat products generally; or
   (b) in relation to livestock or meat products of kinds specified in the request.
-(5) Instead of requesting any information under subsection (1), the Board may request it from the person holding office under the State Sector Act 1988 as the chief executive of the department of State referred to in section 268 of the Customs and Excise Act 2018; and in that case (notwithstanding any enactment to the contrary) the chief executive may cause to be supplied to the Board such of that information as is available to the chief executive.
+(5) Instead of requesting any information under subsection (1), the Board may request it from the person holding office under the Public Service Act 2020 as the chief executive of the department of State referred to in section 268 of the Customs and Excise Act 2018; and in that case (notwithstanding any enactment to the contrary) the chief executive may cause to be supplied to the Board such of that information as is available to the chief executive.
 (6) The Board may require information under this section, and use the information obtained, only for the purpose of carrying out its function described in section 8(1)﻿(a).
 (7) The Board—
   (a) must not publish or disclose to any person any information obtained under this section that enables the identity of the person to whom it relates to be identified, except—
