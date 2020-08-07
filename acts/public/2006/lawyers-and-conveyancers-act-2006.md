@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -44,7 +44,7 @@ In this Act, unless the context otherwise requires,—
   - **chief executive** , in relation to a Crown organisation,—
     (a) means the chief executive or principal officer (however described) of that organisation; and
     (b) includes,—
-      (i) in the case of a department, the head of the department and a chief executive appointed under the State Sector Act 1988; and
+      (i) in the case of a department, the head of the department and a chief executive appointed under the Public Service Act 2020; and
       (ii) in the case of a Crown entity, the chief executive officer of the Crown entity; and
       (iii) in the case of the Police of New Zealand, the Commissioner of Police; and
       (iv) in the case of the New Zealand Defence Force, the Chief of Defence Force; and
@@ -2167,7 +2167,7 @@ Every counsel appearing before a Standards Committee has the same privileges and
 ### 190 Legal Complaints Review Officer
 (1) A person who is not a lawyer or a conveyancing practitioner is to be appointed to be the Legal Complaints Review Officer.
 (2) The Legal Complaints Review Officer is to be appointed by the Minister, after consultation with the New Zealand Law Society and the New Zealand Society of Conveyancers.
-(3) No person is deemed to be appointed in the service of the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason of the person's appointment as the Legal Complaints Review Officer.
+(3) No person is deemed to be appointed in the service of the Crown for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason of the person's appointment as the Legal Complaints Review Officer.
 
 ### 191 Criteria for appointment
 In appointing any person as the Legal Complaints Review Officer, the Minister must have regard, among other things to—
@@ -2462,14 +2462,14 @@ The purpose of sections 217 to 221 is to provide for the recovery from the New Z
 **Annual reports**
 
 ### 222 Reports in relation to cost recovery
-(1) The annual report of the Ministry of Justice prepared in accordance with the provisions of the State Sector Act 1988 must include, in relation to the financial year to which the report relates, a statement of—
+(1) The annual report of the Ministry of Justice prepared in accordance with the provisions of the Public Service Act 2020 must include, in relation to the financial year to which the report relates, a statement of—
   (a) the amount received from the New Zealand Law Society by way of levy under section 217; and
   (b) the amount received from the New Zealand Law Society by way of levy under section 219; and
   (c) the amount received from the New Zealand Society of Conveyancers by way of levy under section 217; and
   (d) the amount received from the New Zealand Society of Conveyancers by way of levy under section 219; and
   (e) the amount paid under section 218(5) into a Departmental Bank Account operated by the Ministry of Justice; and
   (f) the amount held in the Legal Complaints Review Officer Trust Account at the end of that financial year.
-(2) The annual report of the Ministry of Justice prepared in accordance with the provisions of the State Sector Act 1988 must include a statement of the total amount expended by that Ministry in the financial year to which the report relates in meeting the cost to the Crown of the performance of the functions of the Legal Complaints Review Officer.
+(2) The annual report of the Ministry of Justice prepared in accordance with the provisions of the Public Service Act 2020 must include a statement of the total amount expended by that Ministry in the financial year to which the report relates in meeting the cost to the Crown of the performance of the functions of the Legal Complaints Review Officer.
 
 ### 223 Annual report
 (1) The Legal Complaints Review Officer must, in each year, furnish to the Minister and the New Zealand Law Society and the New Zealand Society of Conveyancers a report on the performance of his or her functions under this Act.
@@ -4271,7 +4271,7 @@ Each member of the Disciplinary Tribunal must, before entering on the performanc
 The chairperson of the Disciplinary Tribunal, the deputy chairperson of the Disciplinary Tribunal, and every lay member of the Disciplinary Tribunal are to be paid, out of public money, remuneration by way of fees, salary, or allowances and travelling allowances and travelling expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act apply accordingly as if the chairperson or deputy chairperson or member were a member of a statutory board within the meaning of that Act.
 
 ### 5 Chairperson, deputy chairperson, and lay members not in service of Crown
-No person holding office as the chairperson or deputy chairperson of the Disciplinary Tribunal or as a lay member of the Disciplinary Tribunal is deemed by reason of his or her holding of that office to be employed in the Government service for the purposes of the Government Superannuation Fund Act 1956 or in the State services for the purposes of the State Sector Act 1988.
+No person holding office as the chairperson or deputy chairperson of the Disciplinary Tribunal or as a lay member of the Disciplinary Tribunal is deemed by reason of his or her holding of that office to be employed in the Government service for the purposes of the Government Superannuation Fund Act 1956 or in the State services for the purposes of the Public Service Act 2020.
 
 ### 6 Power to summon witnesses
 (1) For the purposes of its proceedings, the Disciplinary Tribunal may, on its own initiative or at the request of a party, issue in writing a summons requiring any person—
@@ -4365,7 +4365,7 @@ The members of the Council, and the members of any committee appointed by the Co
 (1) The Council may appoint a chief executive and any other employees it thinks necessary for the efficient performance of its functions.
 (2) Subject to the employee's terms and conditions of employment, the Council may, at any time, terminate or suspend the employment of any employee.
 (3) Subject to subclause (4), employees appointed under subclause (1) are to be employed on such terms and conditions of employment, and are to be paid such salaries and allowances, as the Council from time to time determines.
-(4) The terms and conditions of employment of the chief executive and the salary and allowances paid to the chief executive are to be determined by the Council after consultation with the State Services Commission.
+(4) The terms and conditions of employment of the chief executive and the salary and allowances paid to the chief executive are to be determined by the Council after consultation with the Public Service Commission.
 (5) Any determination under subclause (3) or subclause (4) takes effect on a day (whether the day it is made or any earlier or later day) specified in it.
 (6) If no day is specified, the determination takes effect on the date on which it is made.
 
@@ -4398,7 +4398,7 @@ The members of the Council, and the members of any committee appointed by the Co
 (4) For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), to a person who is in the service of the Council as an employee and is a contributor to the Government Superannuation Fund, controlling authority, in relation to that person, means the Council.
 
 ### 10 Application of certain Acts to members and employees
-No person is to be treated as being employed in the service of the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason only of that person's membership of the Council or by reason only of that person's employment under clause 6.
+No person is to be treated as being employed in the service of the Crown for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason only of that person's membership of the Council or by reason only of that person's employment under clause 6.
 
 ### 11 Crown may provide services for Council
 The Crown, acting through any department of State, may, from time to time, at the request of the Council, execute any work or enter into any arrangements for the execution or provision by the department for the Council of any work or service, or for the supply to the Council of any goods, stores, or equipment, on and subject to any terms and conditions agreed between the Council and the department's chief executive.
