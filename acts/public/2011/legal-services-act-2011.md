@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2020-07-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -652,7 +652,7 @@ In this section and in sections 41B to 41J, unless the context otherwise require
 (7) Every deduction notice is subject to sections 41C to 41J.
 
 ### 41C Issue of deduction notice to State sector employer
-In any case where an aided person is employed within a department (within the meaning of the State Sector Act 1988), a deduction notice may be issued to the chief executive of that department in respect of any salary or wages payable to the aided person.
+In any case where an aided person is employed within a department (as defined in section 5 of the Public Service Act 2020), a deduction notice may be issued to the chief executive of that department in respect of any salary or wages payable to the aided person.
 
 ### 41D Discharge of obligation
 In any case where a third party deducts, under a deduction notice, any money payable to an aided person, the aided person is, to the extent of the amount deducted, discharged from his or her obligation to pay the overdue amount.
@@ -992,7 +992,7 @@ Without limiting section 68(2)﻿(c), the methods of delivery of legal services 
 **Legal Services Commissioner**
 
 ### 70 Legal Services Commissioner
-(1) A person must be appointed under the State Sector Act 1988 to hold office as Legal Services Commissioner.
+(1) A person must be appointed under the Public Service Act 2020 to hold office as Legal Services Commissioner.
 (2) The person to be appointed Commissioner must be an existing employee of the Ministry or be appointed an employee of the Ministry when appointed Commissioner.
 (3) The Commissioner must, except to the extent that section 71(2) applies, act under the direction of the Minister and the Secretary.
 
@@ -1856,7 +1856,7 @@ Civil proceedings may not be brought against members of the committee in respect
 Civil proceedings may not be brought against any person who supplies information to a committee on request and in good faith.
 
 ### 14 Members not in service of the Crown
-A person is not employed in the service of the Crown, for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956, merely as a result of being a member of a committee.
+A person is not employed in the service of the Crown, for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956, merely as a result of being a member of a committee.
 
 ### 15 Vacation of office
 (1) A member of a committee may at any time be removed from office by the Secretary for incapacity affecting performance of duty, neglect of duty, or misconduct proved to the satisfaction of the Secretary.
