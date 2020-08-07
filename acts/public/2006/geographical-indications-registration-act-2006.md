@@ -1,5 +1,5 @@
 # Geographical Indications (Wine and Spirits) Registration Act 2006
-_Consolidation as at 2020-01-13_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Geographical Indications (Wine and Spirits) Registration Act 2006.
@@ -302,7 +302,7 @@ A person who contravenes any of sections 21 to 24 contravenes section 9 of the F
 **Registrar**
 
 ### 34 Registrar
-(1) The chief executive of the ministry must, under the State Sector Act 1988, appoint a Registrar of Geographical Indications.
+(1) The chief executive of the ministry must, under the Public Service Act 2020, appoint a Registrar of Geographical Indications.
 (2) The Registrar must be an officer or employee of the ministry, and his or her appointment may be held either separately or in conjunction with any other office in the ministry.
 
 ### 35 Registrar's seal
