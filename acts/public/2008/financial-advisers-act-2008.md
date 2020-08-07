@@ -1,5 +1,5 @@
 # Financial Advisers Act 2008
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Financial Advisers Act 2008.
@@ -204,7 +204,7 @@ In this Act, unless the context otherwise requires,—
   - **relevant service** has the meaning set out in section 14(3)
   - **retail client** has the meaning set out in section 5B
   - **standard conditions** means standard terms and conditions for the time being approved by the FMA under section 147A or 147C and in force under section 147D
-  - **State services** has the meaning given to it in section 2 of the State Sector Act 1988
+  - **State services** has the meaning given to it in section 5 of the Public Service Act 2020
   - **State services employee** means an employee or chief executive in any part of the State services, whether paid by salary, wages, or otherwise
   - **statutory officer** means a person—
     (a) holding or performing the duties of an office established by an enactment; or
