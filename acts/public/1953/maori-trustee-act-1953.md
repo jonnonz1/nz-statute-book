@@ -1,5 +1,5 @@
 # Māori Trustee Act 1953
-_Consolidation as at 2009-11-16_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend certain provisions of the law relating to the Māori Trustee
 
@@ -12,8 +12,8 @@ _Consolidation as at 2009-11-16_
 (2) The powers conferred on the Māori Trustee by this Act are in addition to the powers conferred on him by the Maori Affairs Act 1953, and nothing in either of the said Acts shall be construed to limit the provisions of the other Act.
 (3) Without limiting subsection (1), in this Act, unless the context otherwise requires,—
   - **Appropriation Account** means the account provided for under section 23
-  - **Common Fund** means the separate fund authorised by section 23(1)(b)
-  - **General Purposes Fund** means the separate fund authorised by section 23(1)(c)
+  - **Common Fund** means the separate fund authorised by section 23(1)﻿(b)
+  - **General Purposes Fund** means the separate fund authorised by section 23(1)﻿(c)
   - **Māori Trustee** —
     (a) means the Māori Trustee established by section 3; and
     (b) includes, as the context requires, the Māori Trustee who—
@@ -87,8 +87,8 @@ Despite section 6, the person holding office as the Maori Trustee immediately be
 ### 6D Other employees
 (1) The Māori Trustee may appoint the employees that the Māori Trustee considers appropriate to enable the Māori Trustee to exercise the powers and perform the functions and duties of office under this Act effectively and efficiently.
 (2) The Governor-General may, by Order in Council, provide that the Māori Trustee must not, in relation to any or all employees (including the Deputy Māori Trustee), agree to terms and conditions of employment in a collective employment agreement, or an amendment to those terms and conditions, without—
-  (a) consulting the State Services Commissioner; and
-  (b) having regard to the recommendations that the State Services Commissioner may make to the Māori Trustee within a reasonable time of being consulted.
+  (a) consulting the Public Service Commissioner; and
+  (b) having regard to the recommendations that the Public Service Commissioner may make to the Māori Trustee within a reasonable time of being consulted.
 
 **Delegation**
 
@@ -305,7 +305,7 @@ Where the Māori Trustee in his capacity as executor or administrator of any est
 
 ### 26 Money held in Common Fund invested in Fund
 (1) All money held in trust in the Common Fund is invested in that fund, and any income derived from investment of the money forms part of the Common Fund.
-(2) Unless an exception is provided for in regulations made under section 52(a)(i), the Māori Trustee must pay distributable income at least annually on that money, in accordance with subsection (3) and as provided for in regulations made under section 52(a)(ii).
+(2) Unless an exception is provided for in regulations made under section 52(a)﻿(i), the Māori Trustee must pay distributable income at least annually on that money, in accordance with subsection (3) and as provided for in regulations made under section 52(a)﻿(ii).
 (3) Distributable income payable under subsection (2) must be calculated in accordance with the following formula:a − b = cwhere—ais the total amount of money received by the Māori Trustee as income, including amounts properly determined to be realised capital gains less capital losses, from the money held by the Māori Trustee in trust in the Common Fundbis the total amount of the management fees that the Māori Trustee is entitled to charge or retain under section 26Acis the amount of distributable income that must be paid annually under subsection (2), which must be apportioned in accordance with regulations made under section 52(b).
 (4) The Māori Trustee must review, on a quarterly basis, the extent to which the distributable income payable under subsection (2) is commensurate with fair market distributable income paid for the relevant quarter, relative to funds that are—
   (a) comparable in size to those held in trust in the Common Fund; and
