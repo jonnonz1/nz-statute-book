@@ -1,5 +1,5 @@
 # Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004
-_Consolidation as at 2020-07-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004.
@@ -71,7 +71,7 @@ This Act binds the Crown.
 (1) An office called the Judicial Conduct Commissioner is established.
 (2) The Commissioner is appointed by the Governor-General on the recommendation of the House of Representatives.
 (3) Before a recommendation may be made under subsection (2), the Attorney-General must consult the Chief Justice about the proposed appointment and must advise the House of Representatives that the Chief Justice has been consulted.
-(4) A person is not to be regarded as being employed in the service of the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 solely because of his or her appointment as the Commissioner.
+(4) A person is not to be regarded as being employed in the service of the Crown for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 solely because of his or her appointment as the Commissioner.
 
 ### 8 Functions and powers of Commissioner
 (1) The functions of the Commissioner are—
@@ -92,7 +92,7 @@ This Act binds the Crown.
 (1) An office called the Deputy Judicial Conduct Commissioner is established.
 (2) The Deputy Commissioner is appointed by the Governor-General on the recommendation of the House of Representatives.
 (3) Before a recommendation may be made under subsection (2), the Attorney-General must consult the Chief Justice about the proposed appointment and must advise the House of Representatives that the Chief Justice has been consulted.
-(4) A person is not to be regarded as being employed in the service of the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 solely because of his or her appointment as the Deputy Commissioner.
+(4) A person is not to be regarded as being employed in the service of the Crown for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 solely because of his or her appointment as the Deputy Commissioner.
 
 ### 8B Function and powers of Deputy Commissioner
 (1) The function of the Deputy Commissioner is to carry out the functions of the Commissioner in relation to the following complaints (and no others):
