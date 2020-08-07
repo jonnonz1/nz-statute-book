@@ -1,5 +1,5 @@
 # State-Owned Enterprises Act 1986
-_Consolidation as at 2020-04-30_
+_Consolidation as at 2020-08-07_
 
 > An Act to promote improved performance in respect of Government trading activities and, to this end, to—aspecify principles governing the operation of State enterprises; andbauthorise the formation of companies to carry on certain Government activities and control the ownership thereof; andcestablish requirements about the accountability of State enterprises, and the responsibility of Ministers
 
@@ -66,7 +66,7 @@ Where the Crown wishes a State enterprise to provide goods or services to any pe
 
 ### 8 Application of Employment Relations Act 2000
 (1) Except as otherwise provided in this Act, the Employment Relations Act 2000 applies in relation to every State enterprise.
-(2) Before entering into any collective agreement under the Employment Relations Act 2000, every State enterprise to which this subsection applies must consult with the State Services Commissioner over the conditions of employment to be included in the collective agreement.
+(2) Before entering into any collective agreement under the Employment Relations Act 2000, every State enterprise to which this subsection applies must consult with the Public Service Commissioner over the conditions of employment to be included in the collective agreement.
 (3) The Governor-General may, by Order in Council, apply subsection (2) to any State enterprise named in Schedule 2.
 (4) On the commencement of that order, that subsection applies accordingly.
 
@@ -159,6 +159,10 @@ Nothing in this Act shall permit the Crown to act in a manner that is inconsiste
 (2) Every report under subsection (1)﻿(a) shall—
   (a) contain such information as is necessary to enable an informed assessment of the operations of the State enterprise and its subsidiaries, including a comparison of the performance of the State enterprise and subsidiaries with the relevant statement of corporate intent; and
   (b) state the dividend payable to the Crown by the State enterprise for the financial year to which the report relates.
+
+### 15A Extension of time limit for 2019/20 financial year reports and audits: COVID-19
+(1) Despite the time limit in section 15(1), in relation to the financial year ending with 30 June 2020, the information specified in section 15(1) must be delivered to the shareholding Ministers before the close of 30 November 2020.
+(2) This section is repealed at the close of 30 June 2021.
 
 ### 16 Half-yearly reports
 (1) Within 2 months after the end of the first half of each financial year of a State enterprise, the board of the State enterprise shall deliver to the shareholding Ministers a report of its operations during that half-year.
