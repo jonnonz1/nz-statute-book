@@ -1,5 +1,5 @@
 # Agricultural Compounds and Veterinary Medicines Act 1997
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to reform and restate the law relating to agricultural compounds, and to repeal—athe Stock Foods Act 1946; andbthe Fertilisers Act 1960; andcthe Animal Remedies Act 1967; anddthe Fertilisers Act 1982
 
@@ -274,7 +274,7 @@ The importer of any goods may, for the purposes of section 6(3)﻿(a)﻿(i), mak
 (1) The Director-General must, upon receipt of an application, notify the nature and proposed use of the trade name product or the proposed variation of conditions to—
   (a) the Minister; and
   (b) the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011; and
-  (c) those departments listed in Schedule 1 of the State Sector Act 1988 that have notified the Director-General that they have an interest in applications made under this Act.
+  (c) those departments defined in section 5 of the Public Service Act 2020 that have notified the Director-General that they have an interest in applications made under this Act.
 (2) The Director-General must supply further information to any person notified under this section, if requested to do so by that person, unless that information is protected in accordance with section 74A.
 
 ### 14 Notification of application
@@ -695,7 +695,7 @@ In this Part,—
 ### 44D Recognition of certain agencies without application
 (1) The Director-General may, without receiving an application under section 44C(1), recognise any of the following, or any group of persons within each of the following, as an agency that is responsible for the management and carrying out of specified functions and activities:
   (a) the Ministry:
-  (b) a department of the public service listed in Schedule 1 of the State Sector Act 1988:
+  (b) a department as defined in section 5 of the Public Service Act 2020:
   (c) a Crown entity:
   (d) a State enterprise:
   (e) a territorial authority (as defined in section 5(1) of the Local Government Act 2002).
@@ -718,7 +718,7 @@ In this Part,—
 ### 44F Recognition of certain persons without application
 (1) The Director-General may, without receiving an application under section 44E(1), recognise any of the following natural persons to carry out specified functions and activities:
   (a) any officer or employee of the Ministry:
-  (b) any officer or employee of any department of the public service listed in Schedule 1 of the State Sector Act 1988:
+  (b) any officer or employee of any department as defined in section 5 of the Public Service Act 2020:
   (c) any officer or employee of a Crown entity or a State enterprise.
 (2) Section 44E(2) and (3) apply to subsection (1) accordingly, with all necessary modifications.
 
@@ -964,7 +964,7 @@ A suspension under section 44Y or an extension of a suspension under section 44Z
   (d) the agency or person has ceased to operate as a recognised agency or a recognised person; or
   (e) the agency or person has continued to fail to pay an ongoing recognition fee, charge, or levy after the agency's or person's recognition has been suspended on the ground set out in section 44Y(1)﻿(d); or
   (f) the agency or person has failed to comply with or maintain any criteria or competencies that led to the recognition of the agency or person; or
-  (g) the agency is no longer the appropriate agency to hold the recognition, but only if the agency is, or is within, the Ministry or a department of the public service listed in Schedule 1 of the State Sector Act 1988.
+  (g) the agency is no longer the appropriate agency to hold the recognition, but only if the agency is, or is within, the Ministry or a department as defined in section 5 of the Public Service Act 2020.
 (2) However, before withdrawing recognition, the Director-General must consult the agency or person in accordance with section 44ZM about the proposed withdrawal of recognition, unless the agency is, or is within, the Ministry or the person is within the Ministry.
 (3) The notification given to the agency or person in accordance with section 44ZM(a)﻿(i) must—
   (a) specify the grounds for the proposed withdrawal; and
@@ -1256,7 +1256,7 @@ Where any body corporate is convicted of an offence against this Act, every dire
 ### 60 Appointment of ACVM officers
 (1) The Director-General may from time to time appoint persons as agricultural compounds and veterinary medicines officers (ACVM officers) for the purposes of administering and enforcing the provisions of this Act.
 (2) An ACVM officer may be authorised, on his or her appointment, to exercise all of the powers and functions conferred on ACVM officers under this Act, or only those powers and functions specified in his or her instrument of appointment, or subsequently by written notice to the ACVM officer.
-(3) ACVM officers must be persons employed under the State Sector Act 1988.
+(3) ACVM officers must be persons employed under the Public Service Act 2020.
 (4) The Director-General may from time to time establish performance standards and technical standards for ACVM officers; and every ACVM officer, when performing his or her functions, powers, or duties under this Act, must use his or her best endeavours to comply with and give effect to the relevant performance standards or technical standards.
 (5) The Director-General may suspend or revoke any appointment made under this section at any time.
 
