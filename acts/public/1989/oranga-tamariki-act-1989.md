@@ -1,5 +1,5 @@
 # Oranga Tamariki Act 1989
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 > Title
 
@@ -63,18 +63,20 @@ _Consolidation as at 2020-08-01_
     (e) any photograph, film, negative, tape, or other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced
   - **enforcement agency** means—
     (a) the New Zealand Police:
-    (b) any department (as defined in section 2(1) of the State Sector Act 1988):
+    (b) any department as defined in section 5 of the Public Service Act 2020, including any departmental agency hosted by the department:
+    (ba) any interdepartmental venture as defined in section 5 of the Public Service Act 2020:
     (c) a local authority
   - **enforcement agency office** means—
     (a) a Police station:
     (b) any premises occupied by—
-      (i) any department (as defined in section 2(1) of the State Sector Act 1988):
+      (i) any department as defined in section 5 of the Public Service Act 2020, including any departmental agency hosted by the department:
+      (ia) any interdepartmental venture as defined in section 5 of the Public Service Act 2020:
       (ii) any local authority
   - **enforcement officer** means—
     (a) any constable:
     (b) an enforcement officer (as defined in section 2(1) of the Land Transport Act 1998):
     (c) any person acting in the course of their official duties (being duties that consist of or include the detection, investigation, or prosecution of offences) as an officer or employee of—
-      (i) the Public Service (as defined in section 2(1) of the State Sector Act 1988); or
+      (i) the public service as defined in section 5 of the Public Service Act 2020 (other than an officer or employee of the public service performing the functions of an agency referred to in section 10(a)﻿(iii) of that Act; or
       (ii) a local authority
   - **ex parte** application means an application made without notice to the respondent to the application
   - **family group** , in relation to a child or young person, means a family group, including an extended family,—
@@ -122,7 +124,7 @@ _Consolidation as at 2020-08-01_
       (iv) a children's health camp operated by Children's Health Camps—The New Zealand Foundation for Child and Family Health and Development
   - **Schedule 1A offence** means an offence specified in Schedule 1A
   - **secure care** , in relation to a child or young person in a residence established under section 364, means containment in that residence within a locked room or enclosure with visible physical barriers
-  - **social worker** means a person employed under Part 5 of the State Sector Act 1988 in the department as a social worker
+  - **social worker** means a person employed in the department as a social worker
   - **special guardian** means a guardian of a child or young person appointed under section 110 who is appointed as a special guardian under section 113A
   - **subsequent child** means a child, born or unborn, who has a parent who is a person described in section 18B
   - **tikanga Māori** means Māori customary law and practices
@@ -283,7 +285,7 @@ This Act binds the Crown.
     (ii) adopt a common approach to evaluating the set of outcomes sought and, where possible, determining the return on investment by the Government in those services and activities; and
     (iii) are available to meet the needs of children and young persons of different ages and at different developmental stages, and include processes to support children and young persons to move between services and activities as they get older and develop:
   (bac) comply with regulations (relating to standards of care) made under section 447(1)﻿(fa):
-  (bad) establish, amend, or replace, after consulting the State Services Commissioner, 1 or more complaints mechanisms to enable children and young persons, their parents, whānau, families, and caregivers—
+  (bad) establish, amend, or replace, after consulting the Public Service Commissioner, 1 or more complaints mechanisms to enable children and young persons, their parents, whānau, families, and caregivers—
     (i) to complain about actions or omissions under this Act or regulations made under this Act in relation to those children and young persons by the chief executive, the chief executive’s delegates, and employees of the department; and
     (ii) to receive responses to those complaints that are—
       (A) timely and fair; and
@@ -338,24 +340,24 @@ This Act binds the Crown.
 (5) The chief executive must report to the public at least once a year on the measures taken by the chief executive to carry out the duties in subsections (2) and (4), including the impact of those measures in improving outcomes for Māori children and young persons who come to the attention of the department under this Act and the steps to be taken in the immediate future.
 (6) A copy of each report under subsection (5) must be published on an Internet site maintained by the department.
 
-### 7A Delegations made under section 41 of State Sector Act 1988 to social workers
-(1) A delegation made under section 41 of the State Sector Act 1988 by the chief executive of any of the functions or powers in the Act to a social worker is subject to this section.
-(2) Despite section 41(2) of that Act, a social worker may not subdelegate any functions or powers delegated to them.
+### 7A Delegations made under clauses 2 and 3 of Schedule 6 of Public Service Act 2020 to social workers
+(1) A delegation made under clauses 2 and 3 of Schedule 6 of the Public Service Act 2020 by the chief executive of any of the functions or powers in the Act to a social worker is subject to this section.
+(2) Despite clause 2(3) of that schedule, a social worker may not subdelegate any functions or powers delegated to them.
 (3) Section 7F applies to any delegation made to a social worker.
 
-### 7B Delegations made under section 41 of State Sector Act 1988 to persons who are not social workers
-A delegation made under section 41 of the State Sector Act 1988 by the chief executive of any of the functions or powers in the Act to a person who is not a social worker is subject to section 7D, and sections 7F and 7G apply to the delegation.
+### 7B Delegations made under clauses 2 and 3 of Schedule 6 of Public Service Act 2020 to persons who are not social workers
+A delegation made under clauses 2 and 3 of Schedule 6 of the Public Service Act 2020 by the chief executive of any of the functions or powers in the Act to a person who is not a social worker is subject to section 7D, and sections 7F and 7G apply to the delegation.
 
 ### 7C Delegation of functions and powers conferred by court order or warrant
 (1) The chief executive may delegate the chief executive’s functions and powers under all or any of sections 39, 40, 122, 157, 181, 205, or 386 to a social worker or to any other person, even though those functions and powers are conferred by a court order or a warrant that is made or issued after the delegation is made.
 (2) The following apply to a delegation referred to in this section:
-  (a) section 41 of the State Sector Act 1988, as if the delegation were made under that section; and
+  (a) clauses 2 and 3 of Schedule 6 of the Public Service Act 2020, as if the delegation were made under that section; and
   (b) if the delegation is to a social worker, sections 7A and 7F; and
   (c) if the delegation is to a person who is not a social worker, sections 7B, 7D, 7F, and 7G.
 
 ### 7D Requirements for delegation to persons who are not social workers
 (1) This section applies to a delegation referred to in section 7B or 7C.
-(2) Before making a delegation to a person who is not a social worker, the chief executive must be satisfied that, in addition to any relevant requirements of section 41 of the State Sector Act 1988 being met,—
+(2) Before making a delegation to a person who is not a social worker, the chief executive must be satisfied that, in addition to any relevant requirements of clauses 2 and 3 of Schedule 6 of the Public Service Act 2020 being met,—
   (a) the person is appropriately qualified to perform the function or exercise the power, taking into account the person’s training, experience, and interpersonal skills; and
   (b) if the person is outside the State services, the person will be bound by contractual obligations that are sufficient to support the appropriate exercise of the delegation.
 (3) The chief executive may make a delegation to a person who does not meet the requirement in subsection (2)﻿(a) if the delegation is made for the sole purpose of that delegate subdelegating the function or power to a person—
@@ -366,7 +368,7 @@ A delegation made under section 41 of the State Sector Act 1988 by the chief exe
 (1) This section applies if a delegation referred to in section 7B or 7C is made to a person—
   (a) for the sole purpose of subdelegation (see section 7D(3)); or
   (b) to whom the chief executive otherwise gives approval to subdelegate.
-(2) A subdelegation by the delegate of a function or power under section 41(2) of the State Sector Act 1988 is subject to subsection (3).
+(2) A subdelegation by the delegate of a function or power under clause 2(3) of Schedule 6 of the Public Service Act 2020 is subject to subsection (3).
 (3) Before subdelegating any function or power to a person, the delegate must be satisfied that the person is a social worker or meets the requirement in section 7D(2)﻿(a).
 
 ### 7F Delegations and subdelegations to be publicly notified
@@ -377,8 +379,8 @@ A delegation made under section 41 of the State Sector Act 1988 by the chief exe
   (c) a reference to the provision in this Act that provides for the function or power that has been delegated or subdelegated.
 (3) A failure to notify a delegation or a subdelegation does not affect its validity.
 
-### 7G Immunity for delegates outside Public Service
-Section 86 of the State Sector Act 1988 applies to a person outside the Public Service acting under a delegation referred to in section 7B or 7C as if the person were a Public Service employee.
+### 7G Immunity for delegations outside public service
+Section 104 of the Public Service Act 2020 applies to a person outside the public service acting under a delegation referred to in section 7B or 7C as if the person were a public service employee.
 
 ### 8 Parents and others to be informed of decisions
 (1) Where any person takes any action, or makes any decision, under this Act that significantly affects any child or young person, that person shall ensure that, wherever practicable, the following persons are informed, as soon as practicable, of that action or decision and of the reasons for it:
@@ -2863,7 +2865,7 @@ Where, in respect of any offence alleged or admitted or proved to have been comm
 (3) Every enforcement officer who arrests a child or young person without warrant shall, within 3 days of making the arrest, furnish a written report—
   (a) where that enforcement officer is a constable, to the Commissioner of Police:
   (b) where that enforcement officer is a traffic officer who is a Police employee who is not a constable, to the Commissioner of Police:
-  (c) where that enforcement officer is an officer or employee of the Public Service, to the chief executive of the department of which that person is an officer or employee:
+  (c) where that enforcement officer is an officer or employee of the public service, to the chief executive of the department of which that person is an officer or employee:
   (d) where that enforcement officer is an officer of a local authority, to the chief executive of that local authority.
 (4) Every report furnished pursuant to subsection (3) in respect of the arrest of any child or young person shall state the reason why the child or young person was arrested without warrant.
 
@@ -3984,7 +3986,7 @@ If a young person is placed under the supervision of the chief executive by an o
 (3) Information may be collected during the whole of the period of the order under section 296G but may be used only if it was collected for 1 or more of the purposes set out in this section and, except for information collected for the purpose in subsection (2)﻿(d), was collected during the curfew duration.
 (4) Any information obtained by electronic monitoring outside the curfew duration must be destroyed as soon as practicable.
 (5) The chief executive may from time to time, either generally or particularly, with the agreement of the Commissioner of Police delegate to that Commissioner all or any of the chief executive's functions or powers under this Act relating to implementation of electronic monitoring conditions imposed under section 296J(6).
-(6) Section 41(3), (5), and (7) of the State Sector Act 1988 apply with all necessary modifications to a delegation under subsection (5); but nothing in this section limits or affects section 41 of that Act or its application to the functions or powers that may be delegated under subsection (5).
+(6) Clause 2(10), (13), and (15) of Schedule 6 of the Public Service Act 2020 applies with all necessary modifications to a delegation under subsection (5); but nothing in this section limits or affects clauses 2 and 3 of Schedule 6 of the Public Service Act 2020 or its application to the functions or powers that may be delegated under subsection (5).
 (7) Functions or powers delegated under subsection (5) must be regarded as functions or powers of the Commissioner of Police for the purposes of section 17(1) of the Policing Act 2008.
 
 ### 296L Powers to detain and return, and arrest, young person breaching curfew condition
@@ -5327,7 +5329,7 @@ The chief executive may from time to time, on behalf of the Crown, enter into a 
 ### 423 Appointment of care and protection co-ordinators
 (1) The chief executive must appoint a sufficient number of care and protection co-ordinators.
 (1A) Care and protection co-ordinators may—
-  (a) be appointed under the State Sector Act 1988; or
+  (a) be appointed under the Public Service Act 2020; or
   (b) be employees of an approved service, which in this section and sections 425 and 427 means any of the following:
     (i) an iwi social service:
     (ii) a cultural social service:
@@ -5355,7 +5357,7 @@ The duties of a care and protection co-ordinator are as follows:
 ### 425 Appointment of youth justice co-ordinators
 (1) The chief executive must appoint a sufficient number of youth justice co-ordinators.
 (1A) Youth justice co-ordinators may—
-  (a) be appointed under the State Sector Act 1988; or
+  (a) be appointed under the Public Service Act 2020; or
   (b) be employees of an approved service (as defined in section 423(1A)﻿(b)).
 (2) A person shall not be appointed to be a youth justice co-ordinator unless that person is, by reason of their personality, training, and experience, suitably qualified to exercise or perform the functions, duties, and powers conferred or imposed on a youth justice co-ordinator by or under this Act.
 (3) An employee of an approved service—
@@ -5468,7 +5470,7 @@ Sections 11B to 11D of the Family Court Act 1980 apply to the publication of a r
 (2) Nothing in subsection (1) applies to the publication of—
   (a) any report in any publication that—
     (i) is of a bona fide professional or technical nature; and
-    (ii) is intended for circulation among members of the legal, medical, or teaching professions, officers of the Public Service, psychologists, counsellors carrying out duties under this Act, counsellors and mediators carrying out duties under the Care of Children Act 2004 or the Family Proceedings Act 1980, or social workers, or other delegates of the chief executive or subdelegates:
+    (ii) is intended for circulation among members of the legal, medical, or teaching professions, officers of the public service, psychologists, counsellors carrying out duties under this Act, counsellors and mediators carrying out duties under the Care of Children Act 2004 or the Family Proceedings Act 1980, or social workers, or other delegates of the chief executive or subdelegates:
   (b) statistical information relating to proceedings under this Act:
   (c) the results of any bona fide research relating to proceedings under this Act.
 (3) In no case shall it be lawful to publish, in any report of proceedings under Part 4,—
