@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2020-07-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -916,7 +916,7 @@ The Minister of Aquaculture has the following functions under this Act:
   (c) recommending the making of regulations under sections 360A to 360C that amend regional coastal plans in relation to aquaculture activities in the coastal marine area.
 
 ### 29 Delegation of functions by Ministers
-(1) Any Minister of the Crown may, either generally or particularly, delegate to the chief executive of that Minister's department in accordance with section 28 of the State Sector Act 1988, any of that Minister's functions, powers, or duties under this Act other than the following:
+(1) Any Minister of the Crown may, either generally or particularly, delegate to the chief executive of that Minister's department in accordance with clause 5 of Schedule 6 of the Public Service Act 2020, any of that Minister's functions, powers, or duties under this Act other than the following:
   (a) certifying any work or activity under section 4:
   (b) appointing persons to exercise powers or perform functions or duties in place of a local authority under section 25:
   (c) recommending the making of a national environmental standard under section 44:
@@ -941,8 +941,8 @@ The Minister of Aquaculture has the following functions under this Act:
   (o) approving a regional coastal plan under clause 19 of Schedule 1:
   (p)
   (q) this power of delegation.
-(2) A chief executive may, in accordance with section 41 of the State Sector Act 1988, subdelegate any function, power, or duty delegated to him or her by a Minister under section 28 of that Act.
-(3) Any delegation or subdelegation made under this section may be revoked in accordance with section 29 or section 42 of the State Sector Act 1988, as the case may be.
+(2) A chief executive may, in accordance with clauses 2 and 3 of Schedule 6 of the Public Service Act 2020, subdelegate any function, power, or duty delegated to him or her by a Minister under clause 5 of that schedule.
+(3) Any delegation or subdelegation made under this section may be revoked in accordance with clause 4 or 6 of Schedule 6 of the Public Service Act 2020, as the case may be.
 (4) The Minister may, in writing, delegate to the Environmental Protection Authority his or her functions, powers, and duties under section 24(f), Part 6AA, and sections 357B to 357D except the following:
   (a) deciding whether to make a direction under section 142(2) or 147(1) in relation to a matter that is or is part of a proposal of national significance:
   (b) appointing a board of inquiry under section 149J to consider a matter for which a direction has been made under section 142(2) or 147(1)﻿(a):
@@ -2453,6 +2453,7 @@ The purpose of a regional policy statement is to achieve the purpose of the Act 
     (iia) relevant entry on the New Zealand Heritage List/Rārangi Kōrero required by the Heritage New Zealand Pouhere Taonga Act 2014; and
     (iii) regulations relating to ensuring sustainability, or the conservation, management, or sustainability of fisheries resources (including regulations or bylaws relating to taiapure, mahinga mataitai, or other non-commercial Maori customary fishing); and
     (iv)
+    (v) relevant project area and project objectives (as those terms are defined in section 9 of the Urban Development Act 2020), if section 98 of that Act applies,—
   (d) the extent to which the regional plan needs to be consistent with the regional policy statements and plans, or proposed regional policy statements and proposed plans, of adjacent regional councils; and
   (e) to the extent to which the regional plan needs to be consistent with regulations made under the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; and
 (2A) When a regional council is preparing or changing a regional plan, it must deal with the following documents, if they are lodged with the council, in the manner specified, to the extent that their content has a bearing on the resource management issues of the region:
@@ -2609,7 +2610,8 @@ The purpose of the preparation, implementation, and administration of district p
     (i) management plans and strategies prepared under other Acts; and
     (ii)
     (iia) relevant entry on the New Zealand Heritage List/Rārangi Kōrero required by the Heritage New Zealand Pouhere Taonga Act 2014; and
-    (iii) regulations relating to ensuring sustainability, or the conservation, management, or sustainability of fisheries resources (including regulations or bylaws relating to taiapure, mahinga mataitai, or other non-commercial Maori customary fishing),—
+    (iii) regulations relating to ensuring sustainability, or the conservation, management, or sustainability of fisheries resources (including regulations or bylaws relating to taiapure, mahinga mataitai, or other non-commercial Maori customary fishing); and
+    (iv) relevant project area and project objectives (as those terms are defined in section 9 of the Urban Development Act 2020), if section 98 of that Act applies,—
   (c) the extent to which the district plan needs to be consistent with the plans or proposed plans of adjacent territorial authorities.
 (2A) A territorial authority, when preparing or changing a district plan, must take into account any relevant planning document recognised by an iwi authority and lodged with the territorial authority, to the extent that its content has a bearing on the resource management issues of the district.
 (3) In preparing or changing any district plan, a territorial authority must not have regard to trade competition or the effects of trade competition.
@@ -3272,6 +3274,7 @@ The consent authority that would have determined the application had the Environ
 (1) This section provides for the deferral of certain time limits relating to applications.
 (2) The first column of the table lists the provisions specifying time limits from which certain time periods must be excluded.
 (3) The second column lists the provisions describing time periods that must be excluded from the corresponding time limits.The following table is small in size and has 2 columns. Column 1 is headed Provisions specifying time limits. Column 2 is headed Provisions describing time periods to be excluded.Provisions specifying time limitsProvisions describing time periods to be excludedSection 95 (which relates to the time limit for notification)Section 88C(2), (4), or (6)Section 88E(2) or (4)Section 88F(2)Section 87F(3) (which relates to the time limit for a consent authority report on an application to be directly referred to the Environment Court)Section 88C(4) or (6)Section 88E(2), (6), or (8)Section 88F(2)Section 101(2) (which relates to the time limit for commencement of a hearing of a non-notified application)Section 88C(2), (4), or (6)Section 88E(2) or (4)Section 88F(2)Section 103A (which relates to the time limit for completion of a hearing of a notified application)Section 88C(4) or (6)Section 88D(2), (4), or (6)Section 88E(2), (6), or (8)Section 88F(2)Section 115(3) (which relates to the time limit for notification of the decision on a non-notified application for which no hearing is held)Section 88C(2), (4), or (6)Section 88E(2) or (4)Section 88F(2)Section 115(4) (which relates to the time limit for notification of the decision on a notified application for which no hearing is held)Section 88C(4) or (6)Section 88D(2), (4), or (6)Section 88E(2), (6), or (8)Section 88F(2)
+(4) See also section 103(4) and (5) of the Urban Development Act 2020.
 
 ### 88C Excluded time periods relating to provision of further information
 Request for further information
@@ -3367,6 +3370,9 @@ Suspension of application processing
   (b) ending with the earlier of the following:
     (i) the 80th working day after the date on which the request is made:
     (ii) the date on which the applicant notifies the consent authority that the applicant wishes the consent authority to continue determining the application that the request related to.
+
+### 88I Excluded time periods under Urban Development Act 2020
+The period described in section 103(4) of the Urban Development Act 2020 is excluded from any time limits under this Act relating to a consent application received by a local authority.
 
 ### 89 Applications to territorial authorities for resource consents where land is in coastal marine area
 (1) Where an application for a subdivision consent is made to a territorial authority and any part, or all, of the land proposed to be subdivided is in the coastal marine area, the territorial authority shall decide the application as if the whole of that land were part of the district, and the provisions of this Act shall apply accordingly.
@@ -3791,6 +3797,7 @@ A hearing need not be held in accordance with this Act in respect of an applicat
     (iv) wāhi tapu conditions included in a customary marine title order or agreement:
     (v) section 55(2) of the Marine and Coastal Area (Takutai Moana) Act 2011:
   (d) grant a resource consent if the application should have been notified and was not.
+(3A) See also section 103(3) of the Urban Development Act 2020 (which relates to resource consents in project areas in transitional periods for specified development projects (as those terms are defined in section 9 of that Act)).
 (4) A consent authority considering an application must ignore subsection (3)﻿(a)﻿(ii) if the person withdraws the approval in a written notice received by the consent authority before the date of the hearing, if there is one, or, if there is not, before the application is determined.
 (5) A consent authority may grant a resource consent on the basis that the activity is a controlled activity, a restricted discretionary activity, a discretionary activity, or a non-complying activity, regardless of what type of activity the application was expressed to be for.
 (6) A consent authority may decline an application for a resource consent on the grounds that it has inadequate information to determine the application.
@@ -6294,9 +6301,10 @@ The regional council must make and publicly notify its decision on the concurren
 
 **Designations**
 
-### 166 Meaning of designation, network utility operator, and requiring authority
+### 166 Definitions
 In this Act—
   - **designation** means a provision made in a district plan to give effect to a requirement made by a requiring authority under section 168 or section 168A or clause 4 of Schedule 1
+  - **eligible infrastructure** has the same meaning as in section 8 of the Infrastructure Funding and Financing Act 2020
   - **network utility operator** means a person who—and the words have a corresponding meaning
     (a) undertakes or proposes to undertake the distribution or transmission by pipeline of natural or manufactured gas, petroleum, biofuel, or geothermal energy; or
     (b) operates or proposes to operate a network for the purpose of—
@@ -6308,11 +6316,21 @@ In this Act—
     (f) constructs, operates, or proposes to construct or operate, a road or railway line; or
     (g) is an airport authority as defined by the Airport Authorities Act 1966 for the purposes of operating an airport as defined by that Act; or
     (h) is a provider of any approach control service within the meaning of the Civil Aviation Act 1990; or
+    (ha) is a responsible SPV that is constructing or proposing to construct eligible infrastructure; or
     (i) undertakes or proposes to undertake a project or work prescribed as a network utility operation for the purposes of this definition by regulations made under this Act,—
+  - **public work** includes work that relates to the construction of eligible infrastructure
   - **requiring authority** means—
     (a) a Minister of the Crown; or
     (b) a local authority; or
-    (c) a network utility operator approved as a requiring authority under section 167.
+    (c) a network utility operator approved as a requiring authority under section 167
+  - **responsible infrastructure authority** has the same meaning as in section 7 of the Infrastructure Funding and Financing Act 2020
+  - **responsible SPV** has the same meaning as in section 7 of the Infrastructure Funding and Financing Act 2020
+  - **SPV** means a responsible SPV that is identified by a levy order made under the Infrastructure Funding and Financing Act 2020 as having responsibility for the construction of eligible infrastructure.
+(2) In this Part, work relates to the construction of eligible infrastructure if the work—
+  (a) involves such construction for which an SPV has financial responsibility; or
+  (b) is work—
+    (i) that is required to facilitate the future construction of eligible infrastructure; and
+    (ii) for which the local authority or the territorial authority giving notice of its requirement for a designation (under section 168 or 168A) has financial responsibility.
 
 ### 167 Application to become requiring authority
 (1) A network utility operator may apply to the Minister in the prescribed form for approval as a requiring authority.
@@ -6323,6 +6341,7 @@ In this Act—
 (4) The Minister shall not issue a notice under subsection (3) unless he or she is satisfied that—
   (a) the approval of the applicant as a requiring authority is appropriate for the purposes of carrying on the project, work, or network utility operation; and
   (b) the applicant is likely to satisfactorily carry out all the responsibilities (including financial responsibilities) of a requiring authority under this Act and will give proper regard to the interests of those affected and to the interests of the environment.
+(4A) If the applicant is a network utility operator described in paragraph (ha) of the definition of that term in section 166(1), the applicant need not have financial responsibility for the construction work for the purpose of the Minister being satisfied of the matters in subsection (4)﻿(b).
 (5) Where the Minister is satisfied that—the Minister shall, by notice in the Gazette, revoke the relevant approval given under subsection (3).
   (a) a requiring authority is unlikely to undertake or complete a project, work, or network utility operation for which approval as a requiring authority was given; or
   (b) a requiring authority is unlikely to satisfactorily carry out any responsibility as a requiring authority under this Act; or
@@ -6336,6 +6355,7 @@ In this Act—
 (2) A requiring authority for the purposes approved under section 167 may at any time give notice in the prescribed form to a territorial authority of its requirement for a designation—
   (a) for a project or work; or
   (b) in respect of any land, water, subsoil, or airspace where a restriction is reasonably necessary for the safe or efficient functioning or operation of such a project or work.
+(3) In addition, a local authority may at any time give notice in the prescribed form to a territorial authority of its requirement for a designation for a work that relates to the construction of eligible infrastructure for which the local authority is a responsible infrastructure authority.
 (3)
 (4) A requiring authority may at any time withdraw a requirement by giving notice in writing to the territorial authority affected.
 (5) Upon receipt of notification under subsection (4), the territorial authority shall—
@@ -6345,6 +6365,7 @@ In this Act—
 ### 168A Notice of requirement by territorial authority
 (1) This section applies if a territorial authority decides to issue a notice of requirement for a designation—
   (a) for a public work within its district and for which it has financial responsibility; or
+  (ab) for work within its district that relates to the construction of eligible infrastructure for which the territorial authority is a responsible infrastructure authority; or
   (b) in respect of any land, water, subsoil, or airspace where a restriction is necessary for the safe or efficient functioning or operation of a public work.
 (1A) The territorial authority must decide whether to notify the notice of requirement under—
   (a) subsection (1AA); or
@@ -6574,6 +6595,18 @@ Where proposal is to use streamlined planning process
 (1) Where the financial responsibility for a project or work or network utility operation is transferred from one requiring authority to another, responsibility for any relevant designation shall also be transferred.
 (2) The requiring authority which transfers responsibility for the designation shall advise the Minister for the Environment and the relevant territorial authority, and, for the purposes of section 175(2)﻿(b), the transfer shall, without using the process in Schedule 1, be noted in the district plan.
 
+### 180A When financial responsibility is transferred to responsible SPV
+(1) This section applies if—
+  (a) a local authority or territorial authority holds a designation for work that relates to the construction of eligible infrastructure within the meaning of paragraph (b) of the definition of relates to the construction of eligible infrastructure in section 166(2); and
+  (b) a responsible SPV has taken over, or proposes to take over, the construction; and
+  (c) a designation continues to be required for the construction; and
+  (d) the responsible SPV is not a requiring authority; and
+  (e) the authority is the responsible infrastructure authority in relation to the construction.
+(2) The designation continues to apply to the construction work.
+(3) The responsible infrastructure authority may, by written notice, delegate to the responsible SPV those functions, duties, and powers in relation to the designation that relate to the construction of eligible infrastructure.
+(4) The responsible SPV must perform those delegated functions and duties and exercise those delegated powers in accordance with any conditions attached to the designation.
+(5) A delegation does not affect the performance or exercise of any function, duty, or power by the responsible infrastructure authority.
+
 ### 181 Alteration of designation
 (1) A requiring authority that is responsible for a designation may at any time give notice to the territorial authority of its requirement to alter the designation.
 (2) Subject to subsection (3), sections 168 to 179 and 198AA to 198AD shall, with all necessary modifications, apply to a requirement referred to in subsection (1) as if it were a requirement for a new designation.
@@ -6642,6 +6675,9 @@ Where proposal is to use streamlined planning process
 (5) Any claim for compensation under the Public Works Act 1981 in respect of land acquired or taken in accordance with this section shall be made against the Minister of Lands.
 (6) All costs and expenses incurred by the Minister of Lands in respect of the acquisition or taking of land in accordance with this section (including any compensation payable by the Minister) shall be recoverable from the network utility operator as a debt due to the Crown.
 (7) Sections 40 and 41 of the Public Works Act 1981 shall apply to land acquired or taken in accordance with this section as if the network utility operator concerned were the Crown.
+(7A) This section does not apply if—
+  (a) the network utility operator is a responsible SPV; and
+  (b) the land is protected Māori land.
 (8) For the purposes of this section, an interest in land, including a leasehold interest, may be acquired or taken as if references to land were references to an interest in land.
 
 **Heritage orders**
@@ -8083,10 +8119,10 @@ An Environment Judge, alternate Environment Judge, Environment Commissioner, or 
   (aa) may have 1 or more Deputy Registrars; and
   (b) may have other persons to assist it in an administrative capacity.
 (2) The Registrar, a Deputy Registrar, and every other person assisting the court shall—
-  (a) be appointed under the State Sector Act 1988; and
+  (a) be appointed under the Public Service Act 2020; and
   (b) be officers of the court.
 (2A) A Deputy Registrar has all the powers, functions, duties, and immunity of the Registrar subject to the control of the Registrar.
-(3) An officer of the court may also hold another office or employment in the Public Service.
+(3) An officer of the court may also hold another office or employment in the public service.
 
 **Miscellaneous provisions relating to court**
 
@@ -9361,7 +9397,7 @@ The EPA may perform any of the following enforcement functions if satisfied that
     (vi) sending it to the fax number that the person has specified as an address for service.
 (1AA) However, if the document is to be served on a person to commence, or in the course of, court proceedings, subsection (1) does not apply if the court, whether expressly or in its rules or practices, requires a different method of service.
 (1A) Nothing in subsection (1) overrides the provisions of the Electronic Courts and Tribunals Act 2016.
-(2) Where a notice or other document is to be served on a Minister of the Crown for the purposes of this Act, service on the chief executive of the appropriate department of the Public Service in accordance with subsection (1) shall be deemed to be service on the Minister.
+(2) Where a notice or other document is to be served on a Minister of the Crown for the purposes of this Act, service on the chief executive of the appropriate department of the public service in accordance with subsection (1) shall be deemed to be service on the Minister.
 (3) Where a notice or other document is to be served on a body (whether incorporated or not) for the purposes of this Act, service on an officer of the body, or on the registered office of the body, in accordance with subsection (1) shall be deemed to be service on the body.
 (4) Where a notice or other document is to be served on a partnership for the purposes of this Act, service on any one of the partners in accordance with subsections (1) and (3) shall be deemed to be service on the partnership.
 (4A) Despite subsection (1), if a notice or other document is to be served on a Crown organisation for the purposes of this Act, it may be served—
@@ -11013,12 +11049,14 @@ Where submissions are made but no person indicates they wish to be heard, or the
 (1B) A variation to a proposed policy statement or plan approved under subclause (1A) must be treated as if it were a change to the policy statement or plan unless the variation has merged in and become part of the proposed policy statement or plan under clause 16B(1).
 (2) A local authority may approve part of a policy statement or plan, if all submissions or appeals relating to that part have been disposed of.
 (3) Every approval under this clause shall be effected by affixing the seal of the local authority to the proposed policy statement or plan.
+(4) See also section 99 of the Urban Development Act 2020 (which requires notice of plan changes, at least 20 working days before approval, to Kāinga Ora–Homes and Communities, in certain circumstances).
 
 ### 18 Consideration of a regional coastal plan by regional council
 (1) A regional council shall adopt a proposed regional coastal plan for reference to the Minister of Conservation once it has made amendments under clause 16 or variations under clause 16A (if any).
 (2) Every adoption of a proposed regional coastal plan under this clause shall be effected by affixing the seal of the regional council to the proposed regional coastal plan.
 (3) As soon as practicable after a regional council adopts a proposed regional coastal plan it shall send the plan to the Minister of Conservation for his or her approval.
 (4) A regional council may adopt part of a proposed regional coastal plan if all submissions or inquiries relating to that part have been disposed of.
+(5) See also section 99 of the Urban Development Act 2020 (which requires notice of plan changes, at least 20 working days before adopting them, to Kāinga Ora–Homes and Communities, in certain circumstances).
 
 ### 19 Ministerial approval of regional coastal plan
 (1) Prior to his or her approval of a regional coastal plan, the Minister of Conservation may require the regional council to make any amendments to the plan specified by that Minister.
@@ -11731,6 +11769,7 @@ An application to a Minister for a direction under section 80C to use the stream
     (ii) this Act or regulations made under it; and
   (g) any other information and documentation that is specified in the direction.
 (2) However, the territorial authority must consult the relevant requiring authority or heritage protection authority on the recommendations before it submits to the Minister information required by subclause (1)﻿(a) that relates to a requirement, designation, or heritage order.
+(2A) See also section 99 of the Urban Development Act 2020 (which requires notice of plan changes, at least 20 working days before submitting, to Kāinga Ora–Homes and Communities, in certain circumstances).
 (3) The local authority may provide any further information in addition to the requirements of subclause (1).
 
 ### 84 Responsible Minister to consider proposed planning instrument
