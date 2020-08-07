@@ -1,5 +1,5 @@
 # New Zealand Railways Corporation Act 1981
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to establish a corporation to maintain, operate, and develop the services at present carried on by the New Zealand Government Railways Department and to consolidate and amend the law relating thereto
 
@@ -66,7 +66,7 @@ The Corporation shall not be an instrument of the Executive Government of New Ze
 (6) The Minister and the Minister of Finance may jointly, at any time and entirely at their discretion, remove any director from office.
 (7) The deputy chairperson has and may exercise all the functions and powers of the chairperson if the chairperson is absent or otherwise unable to act.
 (8) The powers of the Corporation shall not be affected by any vacancy in its membership.
-(9) No person shall be deemed to be employed in the Government service for the purposes of the Government Superannuation Fund Act 1956, or in the State services for the purposes of the State Sector Act 1988, by reason only of his being a director of the Corporation.
+(9) No person shall be deemed to be employed in the Government service for the purposes of the Government Superannuation Fund Act 1956, or in the State services for the purposes of the Public Service Act 2020, by reason only of his being a director of the Corporation.
 (10) The Corporation shall be a body corporate with perpetual succession and a common seal and, subject to this Act, is capable of acquiring, holding, and disposing of real and personal property, and of suing and being sued, and of doing and suffering all other acts and things that bodies corporate may do and suffer.
 (11) No company or other body shall be incorporated or registered under any Act or otherwise with a name that is identical with the name of the Corporation or that, in the opinion of the Registrar of Companies, so nearly resembles that name as to be likely to deceive.
 
