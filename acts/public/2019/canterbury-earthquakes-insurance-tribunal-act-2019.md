@@ -1,5 +1,5 @@
 # Canterbury Earthquakes Insurance Tribunal Act 2019
-_Consolidation as at 2019-05-31_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Canterbury Earthquakes Insurance Tribunal Act 2019.
@@ -844,7 +844,7 @@ The following information must be published on an Internet site that is maintain
 
 ### 27 Term of appointment
 (1) A member takes office on the date and for the term stated in the member’s notice of appointment.
-(2) A person who is appointed as a member is not an employee as defined in section 2 of the State Sector Act 1988.
+(2) A person who is appointed as a member is not an employee as defined in section 5 of the Public Service Act 2020.
 (3) A person appointed as a member may hold that office concurrently with any other office.
 
 ### 28 Oath of office
