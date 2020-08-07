@@ -1,5 +1,5 @@
 # Privacy Act 2020
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Privacy Act 2020.
@@ -65,9 +65,12 @@ This Act binds the Crown.
   - **Commissioner** means the Privacy Commissioner holding office under section 13 and appointed in accordance with section 28(1)﻿(b) of the Crown Entities Act 2004
   - **correct** , in relation to personal information, means to alter that information by way of correction, deletion, or addition, and has a corresponding meaning
   - **country** includes a self-governing State, province, or territory
-  - **department** —
-    (a) means a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975; and
-    (b) includes a departmental agency
+  - **department** means—
+    (a) a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975:
+    (b) an interdepartmental venture:
+    (c) a departmental agency hosted by a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975:
+    (d) an interdepartmental executive board serviced by a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975 (see also section 201A)
+  - **departmental agency** has the meaning given in section 5 of the Public Service Act 2020
   - **Deputy Commissioner** means the Deputy Privacy Commissioner appointed under section 14
   - **Director of Human Rights Proceedings** or means the Director of Human Rights Proceedings or alternate Director of Human Rights Proceedings appointed under section 20A of the Human Rights Act 1993
   - **document** means a document in any form, and includes—
@@ -93,6 +96,8 @@ This Act binds the Crown.
   - **intelligence and security agency** means—
     (a) the New Zealand Security Intelligence Service; and
     (b) the Government Communications Security Bureau
+  - **interdepartmental executive board** has the meaning given in section 5 of the Public Service Act 2020
+  - **interdepartmental venture** has the meaning given in section 5 of the Public Service Act 2020
   - **international organisation** means any organisation of States or Governments of States or any organ or agency of any such organisation, and includes the Commonwealth Secretariat
   - **local authority** —
     (a) means a local authority or public body named or specified in Schedule 1 of the Local Government Official Information and Meetings Act 1987; and
@@ -197,6 +202,7 @@ In this Act, overseas agency means an overseas person, body corporate, or uninco
   (b) personal information held by an officer, an employee, or a member of a private sector agency (B) if—
     (i) the information is held only because of the person’s connection with another agency (whether a public sector agency or private sector agency); and
     (ii) that connection is not in the person’s capacity as an officer, an employee, or a member of B.
+(3) Despite subsection (1), information that is held by an employee of a department carrying out the functions of a departmental agency must be treated for the purposes of this Act as held by the departmental agency.
 
 ### 11 Personal information treated as being held by another agency in certain circumstances
 (1) This section applies if an agency (A) holds information as an agent for another agency (B) (for example, the information is held by A on behalf of B for safe custody or processing).
@@ -1546,9 +1552,14 @@ In this subpart, unless the context otherwise requires,—
     (a) a public sector agency; or
     (b) a New Zealand private sector agency
   - **approved information sharing agreement** means an information sharing agreement approved by an Order in Council that is for the time being in force
-  - **department** has the meaning given to it in section 7 and also includes—
-    (a) the New Zealand Police:
-    (b) the New Zealand Transport Agency
+  - **department** —
+    (a) means—
+      (i) a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975:
+      (ii) an interdepartmental venture:
+      (iii) a departmental agency hosted by a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975; and
+    (b) includes—
+      (i) the New Zealand Police:
+      (ii) the New Zealand Transport Agency
   - **information sharing agreement** or means an agreement between or within agencies that enables the sharing of personal information (whether or not the sharing also includes information that is not personal information) to facilitate the provision of a public service
   - **lead agency** means a department, part of a public sector agency that is a department, or specified organisation that enters into an information sharing agreement and is designated as the lead agency in—
     (a) the agreement; and
@@ -2168,6 +2179,11 @@ The Governor-General may, by Order in Council,—
   (c) working with the Commissioner in relation to investigations conducted under Part 5 in relation to the agency:
   (d) ensuring that the agency complies with the provisions of this Act.
 (2) Subsection (1) does not apply to an agency that is an individual who is collecting and holding personal information solely for the purposes of, or in connection with, the individual’s personal or domestic affairs.
+(3) In relation to the functions of a departmental agency, the responsibility under this section lies with the departmental agency.
+
+### 201A Responsibility under Parts 4 to 6 for interdepartmental executive board
+(1) The department that is the servicing department for an interdepartmental executive board is responsible for dealing with all matters arising under Parts 4 to 6 in relation to personal information held by that board.
+(2) This section applies despite the definition of department in section 7(1).
 
 ### 202 Commissioner may require agency to supply information
 For the purpose of enabling the Commissioner to respond to inquiries from the public about personal information held by an agency, the Commissioner may require an agency to supply—
