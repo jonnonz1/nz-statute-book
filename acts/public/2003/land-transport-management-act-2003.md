@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2020-07-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -77,6 +77,7 @@ In order to recognise and respect the Crown’s responsibility to take appropria
   - **financial year** means a period of 12 months beginning on 1 July and ending on 30 June
   - **GPS on land transport** means the government policy statement on land transport issued under section 66; and includes any amendments made to the statement under section 90
   - **impact** means the contribution made to an objective or outcome, including by a specified activity class or activity classes
+  - **Kāinga Ora–Homes and Communities** means the Crown entity established under section 8 of the Kāinga Ora–Homes and Communities Act 2019
   - **KiwiRail** means KiwiRail Holdings Limited or any subsidiary of, or successor to, that company
   - **land transport** —
     (a) means—
@@ -122,7 +123,8 @@ In order to recognise and respect the Crown’s responsibility to take appropria
     (cb) a company named in Schedule 4A of the Public Finance Act 1989:
     (d) a State enterprise (as defined in section 2 of the State-Owned Enterprises Act 1986):
     (e) a local authority:
-    (f) a council-controlled organisation
+    (f) a council-controlled organisation:
+    (g) a responsible SPV (as defined in section 7 of the Infrastructure Funding and Financing Act 2020)
   - **public road controlling authority** , in relation to a concession road or a toll road, means the following persons, regardless of whether any other person is also a controlling authority for the road:
     (a) the Agency; or
     (b) a territorial authority; or
@@ -178,6 +180,7 @@ In order to recognise and respect the Crown’s responsibility to take appropria
     (b) is used for hire or reward for the carriage of passengers who must begin or end their journey at an airport, a bus or ferry terminal, or a railway station
   - **shuttle service** means a passenger service carried on by means of a shuttle or shuttles
   - **small passenger service vehicle** has the same meaning as in section 2(1) of the Land Transport Act 1998
+  - **specified development project** has the same meaning as in section 9 of the Urban Development Act 2020
   - **State highway** means a road, whether or not constructed or vested in the Crown, that is declared to be a State highway under section 11 of the National Roads Act 1953, section 60 of the Government Roading Powers Act 1989 (formerly known as the Transit New Zealand Act 1989), or under section 103; and includes—
     (a) all land along or contiguous with its route that is the road; and
     (b) any part of an intersection that is within the route of the State highway; and
@@ -750,6 +753,7 @@ The Agency and KiwiRail must make available on their Internet sites each rail ne
   (a) grant an approval in relation to particular land transport purposes:
   (b) grant an approval subject to conditions specified in the order.
 (4) The Department of Conservation and the Waitangi National Trust Board and Auckland Transport are deemed to be approved public organisations under this section.
+(5) Kāinga Ora–Homes and Communities is deemed to be an approved public organisation under this section in relation to its activities related to specified development projects.
 
 **Land transport disbursement accounts**
 
@@ -1976,7 +1980,9 @@ In the course of performing its functions and exercising its powers, the Agency 
     (iii) in any other case, every iwi or hapū that in the opinion of the Agency will or may be affected by the declaration, variation, or revocation; and
   (b) is satisfied that the declaration, variation, or revocation should be made.
 (7) Subsection (6) does not limit the ability of the Agency to take similar action in respect of any other population group.
-(8) Before making a declaration under subsection (1) or varying or revoking a declaration under subsection (4), the Agency must consult any regional council or territorial authority that may be affected by the proposed declaration, variation, or revocation and, if the road concerned is within Auckland, the Agency must also consult Auckland Transport and the Auckland Council.
+(8) Before making a declaration under subsection (1) or varying or revoking a declaration under subsection (4), the Agency must consult any regional council or territorial authority that may be affected by the proposed declaration, variation, or revocation and,—
+  (a) if the road concerned is within Auckland, the Agency must also consult Auckland Transport and the Auckland Council; and
+  (b) if the road concerned is within a project area for a specified development project, the Agency must also consult Kāinga Ora–Homes and Communities.
 (9) A declaration, variation, or revocation made under this section comes into force on a date to be specified in the relevant Gazette notice.
 (10) A road declared to be a State highway under section 11 of the National Roads Act 1953 or section 60 of the Government Roading Powers Act 1989 (formerly known as the Transit New Zealand Act 1989), and having that status under either Act immediately before the commencement of this section, is to be treated as having been declared to be a State highway under this section.
 
@@ -2125,6 +2131,7 @@ For the purposes of this Act, sections 76 to 83A, 87, and 89 of the Local Govern
     (iii) approving the approach to procurement under section 120(3):
   (b) the Environment Court when it considers an appeal against a regional public transport plan under section 140:
   (c) the Minister when the Minister considers making a recommendation under section 150.
+(3) In this section, territorial authority includes Kāinga Ora–Homes and Communities if there are any specified development projects in the region.
 
 ### 116 Public transport services must be provided under contract
 (1) Any public transport service operated in a region must be provided under contract with a regional council as part of a unit unless it is an exempt service.
@@ -2198,6 +2205,7 @@ A regional public transport plan is not invalid merely because the regional coun
       (C) the Minister of Education:
       (D) the relevant railway line access provider:
       (E) territorial authorities in the region:
+      (EA) if there are any specified development projects in the region, Kāinga Ora–Homes and Communities:
       (F) the relevant regional transport committee:
       (G) in the case of a plan or a variation adopted by Auckland Transport, the Auckland Council; and
     (ii) ensure that—
@@ -2239,7 +2247,8 @@ A regional council must, before adopting a regional public transport plan,—
   (d) every person who has notified the regional council of a proposal to operate an exempt service in the region; and
   (e) the Minister of Education; and
   (f) the territorial authorities in the region; and
-  (g) the relevant railway line access provider.
+  (g) the relevant railway line access provider; and
+  (h) if there are any specified development projects in the region, Kāinga Ora–Homes and Communities.
 (2) Before adopting a regional public transport plan, a regional council or Auckland Transport (as the case may be)—
   (a) must consult in accordance with the consultative principles specified in section 82 of the Local Government Act 2002; and
   (b) may use the special consultative procedure specified in sections 83, 87, and 89 of the Local Government Act 2002, and those sections apply for the purposes of this section with the necessary modifications.
