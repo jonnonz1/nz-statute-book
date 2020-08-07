@@ -1,5 +1,5 @@
 # Local Government (Auckland Council) Act 2009
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Local Government (Auckland Council) Act 2009.
@@ -600,6 +600,10 @@ Auckland Transport must not borrow any funds without the written agreement of th
   (c) is not required to comply with section 68(b) of the Local Government Act 2002; and
   (d) must have regard for public safety (for example, the safety of children in urban areas) in relation to its structures.
 (2) However, subsection (1)﻿(b) does not prevent an Auckland water organisation from making a taxable bonus issue (as defined in section YA 1 of the Income Tax Act 2007).
+(3) An Auckland water organisation does not breach its obligation under subsection (1)﻿(a) merely by—
+  (a) giving an infrastructure endorsement under section 20 of the Infrastructure Funding and Financing Act 2020; or
+  (b) accepting a transfer of eligible infrastructure under section 90 of that Act; or
+  (c) contributing funding to the construction of eligible infrastructure that has been, or is intended to be, transferred to that organisation under that section.
 
 ### 58 Auckland water organisation must give effect to LTP and act consistently with other specified plans and strategies of Council
 (1) An Auckland water organisation must give effect to the relevant aspects of the LTP.
