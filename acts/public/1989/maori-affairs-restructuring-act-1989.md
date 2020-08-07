@@ -1,5 +1,5 @@
 # Maori Affairs Restructuring Act 1989
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to provide for the restructuring of the Department of Maori Affairs to form the Iwi Transition Agency, to abolish the Board of Maori Affairs and transfer its programmes to the General Manager of the Iwi Transition Agency, and to transfer the administration of the Maori Land Courts to the Department of Justice
 
@@ -15,7 +15,7 @@ _Consolidation as at 2019-10-01_
   - **improvements effected by a lessee** , or any expression of similar effect, has the same meaning as in Part 11 of Te Ture Whenua Maori Act 1993
   - **Maori** means a person of the Maori race of New Zealand; and includes a descendant of any such person
   - **Minister** means the Minister of Maori Affairs
-  - **Ministry** means the Ministry of Maori Development that, by virtue of the State Sector Order 1991, becomes, on 1 January 1992, a department of the Public Service
+  - **Ministry** means the Ministry of Maori Development that, by virtue of the State Sector Order 1991, becomes, on 1 January 1992, a department of the public service
   - **operative date** means 1 October 1989
   - **ownership** , in relation to any land or any interest in land, includes the equitable ownership of that land or interest.
 (2) For the purposes of this Act, any land and any interest in land that is owned as joint tenants or tenants in common by 2 persons who are married to, or in a civil union with, one another and of whom one is Maori shall be deemed to be owned by a Maori.
@@ -390,7 +390,7 @@ Without prejudice to any provision of this Part, the chief executive may from ti
 
 ### 67 Chief executive may engage advisers for Maori farmers
 (1) The chief executive may from time to time employ or engage any person as an adviser to give advice and instruction to Maori who are engaged in the development, improvement, or farming of any land that is subject to this Part. Any such adviser may be required by the chief executive to make recommendations for the more efficient and economic development, improvement, farming, or settlement of any such land.
-(2) There may be paid to advisers employed or engaged under this section (not being officers of the Public Service) such remuneration and such travelling and other allowances and expenses as the chief executive may approve.
+(2) There may be paid to advisers employed or engaged under this section (not being officers of the public service) such remuneration and such travelling and other allowances and expenses as the chief executive may approve.
 
 ### 68 Right to cut timber, etc
 (1) For the purposes of this Part, the chief executive may from time to time cut and remove trees or timber or take any other substance from any land that is subject to this Part.
@@ -420,7 +420,7 @@ Where in the opinion of the chief executive it would be advisable to use any lan
 
 ### 73 Surveys
 (1) The chief executive may from time to time authorise such surveys as the chief executive considers necessary or expedient of any land that is subject to this Part. Nothing in Part 16 of Te Ture Whenua Maori Act 1993 shall apply with respect to surveys under this section.
-(2) Surveys under this section shall be carried out, in accordance with the directions of the chief executive, by licensed cadastral surveyors (whether or not they are officers of the Public Service).
+(2) Surveys under this section shall be carried out, in accordance with the directions of the chief executive, by licensed cadastral surveyors (whether or not they are officers of the public service).
 
 ### 74 Power to pay revenue from land to owners
 (1) Any money received by the chief executive in respect of any Maori freehold land or of General land owned by Maori as the result of farming operations or otherwise in accordance with this Part may, if the chief executive thinks fit, be paid to any person owning any interest in the land instead of being applied in reduction of any money charged or secured on the land, notwithstanding that the annual receipts in respect of the land may be less than the annual expenditure in respect of the land.
