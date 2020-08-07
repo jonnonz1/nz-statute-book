@@ -1,5 +1,5 @@
 # Parental Leave and Employment Protection Act 1987
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 > Title
 
@@ -1332,7 +1332,7 @@ The department may not recover any payment or part of a payment under this Part 
 ### 71ZA Chief executive may delegate
 (1) The chief executive may delegate the administration of all or any part of this Part to 1 or more persons.
 (2) The delegation must be in writing.
-(3) Section 41 of the State Sector Act 1988 applies if the delegation is to a chief executive or to an employee (as those terms are defined in that Act).
+(3) Clauses 2 and 3 of Schedule 6 of the Public Service Act 2020 applies if the delegation is to a chief executive or to an employee (as those terms are defined in that Act).
 (4) If the delegation is to another person,—
   (a) the delegation may not include the power to delegate under this section; and
   (b) subject to any general or special directions given or conditions imposed by the chief executive, the person to whom the delegation is made may administer this Part in the same manner and with the same effect as if this Act (and not the delegation) so provided; and
