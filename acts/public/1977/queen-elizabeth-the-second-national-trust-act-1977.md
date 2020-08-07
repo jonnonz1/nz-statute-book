@@ -1,5 +1,5 @@
 # Queen Elizabeth the Second National Trust Act 1977
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2020-08-07_
 
 > An Act to commemorate the Silver Jubilee of Her Majesty Queen Elizabeth the Second by establishing a national trust to encourage and promote the provision, protection, and enhancement of open space for the benefit and enjoyment of the people of New Zealand
 
@@ -172,18 +172,18 @@ No director, or member of the Trust, or member of any committee, shall be person
   (a) a chief executive officer, who shall have such designation as the board may from time to time determine; and
   (b) such other officers and employees of the Trust as may be necessary for the administration of its affairs.
 (2) The chief executive officer shall be the chief administrative officer of the Trust and, subject to the other provisions of this Act, shall be responsible to the board for the efficient and economical administration of the affairs of the Trust.
-(3) Any office held by any person appointed under subsection (1) may be held in conjunction with any office held in the Public Service.
-(4) Any person appointed under subsection (1)﻿(a) shall be employed on such terms and conditions of employment as the board from time to time determines in agreement with the State Services Commission.
-(5) The persons appointed under subsection (1)﻿(b) shall be employed on such terms and conditions of employment as the board from time to time determines after consultation with the State Services Commission.
+(3) Any office held by any person appointed under subsection (1) may be held in conjunction with any office held in the public service.
+(4) Any person appointed under subsection (1)﻿(a) shall be employed on such terms and conditions of employment as the board from time to time determines in agreement with the Public Service Commission.
+(5) The persons appointed under subsection (1)﻿(b) shall be employed on such terms and conditions of employment as the board from time to time determines after consultation with the Public Service Commission.
 (6) Subject to the rules of the Trust, the board may from time to time enter into contracts with persons, on such terms and conditions as it thinks fit, to provide such services or perform such work for the Trust as the board may require.
 (7) Subject to the rules of the Trust, the persons engaged on contract under subsection (6) shall be paid such remuneration as the board may determine.
-(8) Except as otherwise provided in this Act, nothing in the State Sector Act 1988 shall apply in relation to any officer or employee of the board, or to any person engaged on contract under subsection (6).
+(8) Except as otherwise provided in this Act, nothing in the Public Service Act 2020 shall apply in relation to any officer or employee of the board, or to any person engaged on contract under subsection (6).
 
 ### 18A Employment principles
-The board shall operate a personnel policy that complies with the principle of being a good employer by following, subject to this Act, as closely as possible and as if the board were the chief executive of a department, the provisions of sections 56 and 58 of the State Sector Act 1988.
+The board shall operate a personnel policy that complies with the principle of being a good employer by following, subject to this Act, as closely as possible and as if the board were the chief executive of a department, the provisions of sections 73 and 74 of the Public Service Act 2020.
 
 ### 19 Status of directors, members, committees, and persons engaged on contract
-No person, by reason only of his being a director, or a member of the Trust, or a member of a committee, or a person engaged on contract under section 18(6), shall be deemed to be employed in the State services for the purpose of the State Sector Act 1988, or in the Government service for the purpose of the Government Superannuation Fund Act 1956.
+No person, by reason only of his being a director, or a member of the Trust, or a member of a committee, or a person engaged on contract under section 18(6), shall be deemed to be employed in the State services for the purpose of the Public Service Act 2020, or in the Government service for the purpose of the Government Superannuation Fund Act 1956.
 
 ## Part 2 — Functions and powers of Trust
 
