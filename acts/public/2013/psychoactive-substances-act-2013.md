@@ -1,5 +1,5 @@
 # Psychoactive Substances Act 2013
-_Consolidation as at 2019-08-13_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Psychoactive Substances Act 2013.
@@ -822,8 +822,8 @@ All infringement fees paid in respect of infringement offences must be paid into
   (a) a person appointed by name; or
   (b) the holder for the time being of a particular position.
 (3) A person appointed under subsection (1) is not by virtue of that appointment alone—
-  (a) an officer or employee of the Public Service; or
-  (b) a person to whom the State Sector Act 1988 or the Government Superannuation Fund Act 1956 applies.
+  (a) an officer or employee of the public service; or
+  (b) a person to whom the Public Service Act 2020 or the Government Superannuation Fund Act 1956 applies.
 (4) The Authority must not appoint a person under subsection (1) unless the Authority is satisfied that the person is suitably qualified and trained and is a fit and proper person for appointment as an enforcement officer.
 (5) The Authority may do 1 or more of the following:
   (a) appoint persons to enforce only some of the provisions of this Act:
