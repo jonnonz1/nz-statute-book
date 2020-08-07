@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2018-12-30_
+_Consolidation as at 2020-08-07_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -46,7 +46,7 @@ _Consolidation as at 2018-12-30_
     (b) includes an organisation named or described in Schedule 4, or a company named in Schedule 4A, of the Public Finance Act 1989
   - **Customs officer** means any person holding office as a Customs officer appointed under the Customs and Excise Act 2018
   - **Customs place** has the same meaning as in section 5(1) of the Customs and Excise Act 2018
-  - **department** has the same meaning as in section 2 of the State Sector Act 1988
+  - **department** has the same meaning as in section 5 of the Public Service Act 2020
   - **develop** ,—
     (a) in relation to organisms other than incidentally imported new organisms,—
       (i) means—
@@ -549,7 +549,7 @@ The Authority may from time to time request any person who in the Authority's op
 (4) A determination under subsection (3) must be publicly notified.
 (5) Before issuing a determination under this section, the Authority must have regard to—
   (a) any information held by the Authority; and
-  (b) any information held by any department listed in Schedule 1 of the State Sector Act 1988 and any Crown entity; and
+  (b) any information held by any department as defined in section 5 of the Public Service Act 2020 and any Crown entity; and
   (c) any information provided by the applicant.
 (6) The Authority may revoke or reissue a determination issued by it under this section if it receives further information.
 
@@ -1045,7 +1045,7 @@ In sections 49B to 49K,—
   - **adverse event** includes, but is not limited to, any of the events or emergencies specified in section 46(1)
   - **agricultural compound** means an agricultural compound (as defined in section 2(1) of the Agricultural Compounds and Veterinary Medicines Act 1997) that is or contains a hazardous substance or a new organism
   - **government agency** means—
-    (a) a department specified in Schedule 1 of the State Sector Act 1988:
+    (a) a department as defined in section 5 of the Public Service Act 2020:
     (b) a Crown entity specified in Schedule 4 or 4A of the Public Finance Act 1989
   - **interested government agency** means a government agency that, in the opinion of the Authority, is likely to have an interest in the approval of an agricultural compound or medicine in a special emergency
   - **medicine** means a medicine (as defined in section 3 of the Medicines Act 1981) that is or contains a hazardous substance or new organism
@@ -1210,7 +1210,7 @@ On the expiry of an approval under section 49F that relates to a hazardous subst
     (ii) in accordance with this Act.
 (4) The Authority shall, upon receipt of the application, notify—
   (a) the Minister; and
-  (b) any department listed in Schedule 1 of the State Sector Act 1988 and any Crown entity which, in the opinion of the Authority, is likely to have an interest in the application; and
+  (b) any department as defined in section 5 of the Public Service Act 2020 and any Crown entity which, in the opinion of the Authority, is likely to have an interest in the application; and
   (c) if the application is an application for approval of a new organism,—
     (i) the Department of Conservation; and
     (ii) any local authority (within the meaning of the Local Government Act 2002) if, in the opinion of the Authority, the local authority is likely to have an interest in the application; and
@@ -2011,7 +2011,7 @@ An inspector appointed under section 163 of the Health and Safety at Work Act 20
 (3) The Authority may from time to time, as the Authority thinks fit,—to appoint enforcement officers to enforce the provisions of this Act in or on any premises specified by the Authority.
   (a) appoint enforcement officers to enforce the provisions of this Act in such premises as the Authority thinks fit:
   (b) authorise the chief executive of—
-    (i) any department specified in Schedule 1 of the State Sector Act 1988:
+    (i) any department defined in section 5 of the Public Service Act 2020:
     (ii) any Crown entity:
     (iii) any local authority—
 (4) In this section, hazardous substance includes gases under pressure, whether intrinsically hazardous or not.
