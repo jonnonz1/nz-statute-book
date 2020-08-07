@@ -1,5 +1,5 @@
 # Marine Mammals Protection Act 1978
-_Consolidation as at 2018-12-21_
+_Consolidation as at 2020-08-07_
 
 > An Act to make provision for the protection, conservation, and management of marine mammals within New Zealand and within New Zealand fisheries waters
 
@@ -216,7 +216,7 @@ The Minister, in his discretion, may grant a permit under this Act or refuse to 
 (3) Every person appointed under subsection (2) shall be appointed for such term, not exceeding 3 years, as the Director-General thinks fit, and may be reappointed.
 (4) Any person appointed under subsection (2) may at any time be removed from office by the Director-General for incapacity, neglect of duty, or misconduct, or may at any time resign his office by writing addressed to the Director-General.
 (5) Any person appointed under subsection (2) shall, on the expiration of the term of his appointment, or on the sooner expiry of his appointment by removal from office or resignation, surrender to the Director-General his warrant of appointment.
-(6) No person appointed under subsection (2) shall, by virtue of that appointment, be deemed to be employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956.
+(6) No person appointed under subsection (2) shall, by virtue of that appointment, be deemed to be employed in the service of Her Majesty for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956.
 (7) Every person declared to be an officer under subsection (1) shall have and may exercise, in respect of supervising, administering, and enforcing the provisions of this Act, all the powers that a warranted officer has in relation to supervising, administering, and enforcing the provisions of the Conservation Act 1987.
 (8) Every officer appointed under subsection (2) shall have such duties and may exercise such powers in relation to marine mammals as the Director-General may direct, being powers of no greater extent than those exercised by a warranted officer.
 (9) The Director-General shall issue to every officer (except a constable) a warrant showing the officer's authority to exercise any powers conferred on him pursuant to this section.
