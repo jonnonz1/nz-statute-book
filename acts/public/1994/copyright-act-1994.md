@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -3664,7 +3664,7 @@ The Tribunal constituted by section 30 of the Copyright Act 1962 and known as th
   (a) shall be appointed as chairperson by the Governor-General on the recommendation of the Minister made after consultation with the Minister of Justice; and
   (b) shall be a barrister or solicitor of the High Court of not less than 7 years' practice, whether or not the barrister or solicitor holds or has held judicial office.
 (3) The other persons shall be appointed as members of the Tribunal by the Governor-General on the recommendation of the Minister.
-(4) No person shall be deemed to be employed in the service of the Crown for the purposes of the State Sector Act 1988 by virtue merely of his or her appointment to the Tribunal.
+(4) No person shall be deemed to be employed in the service of the Crown for the purposes of the Public Service Act 2020 by virtue merely of his or her appointment to the Tribunal.
 (5) For the purposes of this Part, except for the reference in subsection (3), a reference to a member or members includes the chairperson.
 
 ### 207 Term of office of members of Tribunal
