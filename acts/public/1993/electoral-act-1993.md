@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -485,7 +485,7 @@ A delegation under section 20C may be revoked at will by—
 (1) The Electoral Commission may seek assistance from any State sector agency in order to facilitate the effective administration of elections.
 (2) Any agency approached by the Electoral Commission for assistance must have regard to the public interest in a whole-of-government approach to support the effective administration of elections in considering the assistance it can provide.
 (3) Any assistance that a State sector agency provides must be provided in a manner that is consistent with the statutory framework establishing that agency.
-(4) For the purposes of this section, a State sector agency means any part of the State services as defined in section 2 of the State Sector Act 1988, any Crown entity within the meaning of section 7 of the Crown Entities Act 2004, and any State enterprise within the meaning of the State-Owned Enterprises Act 1986.
+(4) For the purposes of this section, a State sector agency means any part of the State services as defined in section 5 of the Public Service Act 2020, any Crown entity within the meaning of section 7 of the Crown Entities Act 2004, and any State enterprise within the meaning of the State-Owned Enterprises Act 1986.
 
 ### 21 Chief Registrar of Electors
 [Repealed]
@@ -560,10 +560,10 @@ There shall be paid out of money appropriated by Parliament for the purpose to t
 (2) The Deputy Surveyor-General appointed pursuant to section 8 of the Survey Act 1986 shall have and may exercise, subject to the control of the Surveyor-General, all the functions, duties, and powers of the Surveyor-General in his or her capacity as a member of the Commission.
 (3) Any Deputy Government Statistician appointed pursuant to section 17 of the Statistics Act 1975 shall have and may exercise, subject to the control of the Government Statistician, all the functions, duties, and powers of the Government Statistician in his or her capacity as a member of the Commission.
 (4) The Deputy Electoral Commissioner appointed under section 4I as the deputy for the Chief Electoral Officer has and may exercise, subject to the control of the Chief Electoral Officer, all the functions, duties, and powers of the Chief Electoral Officer in his or her capacity as a member of the Commission.
-(5) Where the chief executive who holds office under section 28(3)﻿(a) as a member of the Commission is unable or likely to be unable to perform his or her duties as such a member because of illness, absence, or any other reason, or where there is a vacancy in the position of that chief executive, that chief executive or any acting chief executive acting under section 40(1) of the State Sector Act 1988 may appoint a deputy nominated by the chief executive to perform all the functions, duties, and powers of the chief executive in his or her capacity as a member of the Representation Commission.
+(5) Where the chief executive who holds office under section 28(3)﻿(a) as a member of the Commission is unable or likely to be unable to perform his or her duties as such a member because of illness, absence, or any other reason, or where there is a vacancy in the position of that chief executive, that chief executive or any acting chief executive acting under clause 9(1) to (3) of Schedule 7 of the Public Service Act 2020 may appoint a deputy nominated by the chief executive to perform all the functions, duties, and powers of the chief executive in his or her capacity as a member of the Representation Commission.
 (6) Every deputy appointed under subsection (1) or subsection (5) shall hold office during the pleasure of the person by which that deputy was appointed.
 (7) No act done by any deputy to which this section applies and no act done by the Commission while any such deputy is so acting, shall in any proceedings be questioned on the ground that the occasion for so acting had not arisen or had ceased.
-(8) Nothing in section 41(1) of the State Sector Act 1988 authorises a chief executive or acting chief executive or deputy of a chief executive to delegate to any other person any of the functions, duties, or powers of the chief executive or acting chief executive or deputy of the chief executive in his or her capacity as a member of the Representation Commission.
+(8) Nothing in clause 2(1) and (2) of Schedule 6 of the Public Service Act 2020 authorises a chief executive or acting chief executive or deputy of a chief executive to delegate to any other person any of the functions, duties, or powers of the chief executive or acting chief executive or deputy of the chief executive in his or her capacity as a member of the Representation Commission.
 
 ### 34 Submissions
 Any political party to which a member of Parliament belongs and any independent member of Parliament and any political party whose candidates have, at the immediately preceding general election, obtained 5% or more of the valid votes cast by electors at that general election may make submissions to the Commission in relation to the matters to be considered by the Commission under section 35(3) or section 45(6).
@@ -745,7 +745,7 @@ A member of Parliament ceasing to be registered as an elector shall not from tha
 (1) In this section, the term State servant—
   (a) means—
     (i) a public servant; and
-    (ii) any other person whose conditions of employment are prescribed under, or are required by any enactment to be prescribed in accordance with or having regard to provisions of, the State Sector Act 1988; and
+    (ii) any other person whose conditions of employment are prescribed under, or are required by any enactment to be prescribed in accordance with or having regard to provisions of, the Public Service Act 2020; and
   (b) includes employees of the New Zealand Police.
 (2) Any State servant who desires to become a candidate for election as a member of Parliament shall be placed on leave of absence for the purposes of his or her candidature.
 (3) Subject to subsection (4), the period of leave shall commence on nomination day, and, in the event of his or her nomination as a constituency candidate or of the inclusion of his or her name in a list submitted under section 127, shall continue until the first working day after polling day, unless, in any case where he or she is a constituency candidate, he or she withdraws his or her nomination.
@@ -2725,7 +2725,7 @@ The provisions of this Act as to an equality of votes between constituency candi
   (b) designate in writing 1 or more of the polling place officials as interpreters; and
   (c) authorise in writing or, if the appointment is made on polling day, orally, any person to act for the manager of the polling place in case of the manager’s absence.
 (4) The Returning Officer for an electoral district may delegate his or her duties and powers under subsections (1) to (3) to a Returning Officer for another electoral district.
-(5) The State Sector Act 1988 does not apply to a person appointed under this section.
+(5) The Public Service Act 2020 does not apply to a person appointed under this section.
 
 ### 158A Polling place officials under direction of Electoral Commission and Returning Officer
 (1) The Electoral Commission and the Returning Officer may each give oral or written directions to all or any polling place officials.
