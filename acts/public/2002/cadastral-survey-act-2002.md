@@ -1,5 +1,5 @@
 # Cadastral Survey Act 2002
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Cadastral Survey Act 2002.
@@ -56,16 +56,16 @@ In this Act, unless the context otherwise requires,—
 **Surveyor-General**
 
 ### 5 Surveyor-General
-(1) A person must be appointed under the State Sector Act 1988 to hold office as the Surveyor-General.
-(2) No person may be appointed to hold office as Surveyor-General, and no person may be directed under section 62(1) of the State Sector Act 1988 to exercise or perform any power, act, or duty of the Surveyor-General, unless the person is or has been—
+(1) A person must be appointed under the Public Service Act 2020 to hold office as the Surveyor-General.
+(2) No person may be appointed to hold office as Surveyor-General, and no person may be directed under clause 2(1) of Schedule 8 of the Public Service Act 2020 to exercise or perform any power, act, or duty of the Surveyor-General, unless the person is or has been—
   (a) a licensed cadastral surveyor; or
   (b) a registered surveyor under the Survey Act 1986; or
   (c) entitled to practise cadastral surveying outside New Zealand.
 (3) The office of Surveyor-General may be held in conjunction with the office of chief executive.
-(4) However, a chief executive who has, at any time, been appointed to the office of chief executive in accordance with a direction given under section 35(11)﻿(a) of the State Sector Act 1988 may not, at any time, hold the office of Surveyor-General in conjunction with the office of chief executive.
+(4) However, a chief executive who has, at any time, been appointed to the office of chief executive in accordance with a direction given under clause 3(15)﻿(a) of Schedule 7 of the Public Service Act 2020 may not, at any time, hold the office of Surveyor-General in conjunction with the office of chief executive.
 
 ### 6 Deputy Surveyor-General
-(1) A person must be appointed under the State Sector Act 1988 to hold office as the Deputy Surveyor-General.
+(1) A person must be appointed under the Public Service Act 2020 to hold office as the Deputy Surveyor-General.
 (2) The Deputy Surveyor-General has and may exercise, subject to the control of the Surveyor-General, all the functions, duties, and powers of the Surveyor-General.
 (3) The Deputy Surveyor-General has and may exercise all the functions, duties, and powers of the Surveyor-General while—
   (a) there is a vacancy in the office of the Surveyor-General; or
