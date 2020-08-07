@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2020-01-13_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
@@ -955,7 +955,7 @@ In any application for an order against a person under section 82, a finding of 
 **Registrar of Retirement Villages**
 
 ### 87 Appointment of Registrar
-(1) There must be a Registrar of Retirement Villages who must be appointed under the State Sector Act 1988 by the chief executive of the department that, with the authority of the Prime Minister, is for the time being responsible for the employment of that Registrar.
+(1) There must be a Registrar of Retirement Villages who must be appointed under the Public Service Act 2020 by the chief executive of the department that, with the authority of the Prime Minister, is for the time being responsible for the employment of that Registrar.
 (2) The person holding office as Registrar of Companies under the Companies Act 1993 immediately before the commencement of this section is deemed to have been appointed as Registrar of Retirement Villages in accordance with this section.
 
 ### 88 Power of Registrar to delegate
