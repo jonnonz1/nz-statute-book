@@ -1,5 +1,5 @@
 # Civil Service Act 1908
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2020-08-07_
 
 ### 1 Short Title
 (1) The Short Title of this Act is The Civil Service Act 1908.
