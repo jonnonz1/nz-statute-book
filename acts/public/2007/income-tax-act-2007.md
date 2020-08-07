@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2020-08-06_
+_Consolidation as at 2020-08-07_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -33602,7 +33602,7 @@ Requirements for person
   (c) they must not be entitled under schedule 1, clause 4 of the KiwiSaver Act 2006 or an equivalent provision to withdraw an amount from the scheme or fund; and
   (cb) they must not have made a withdrawal under clause 12B of the KiwiSaver scheme rules (which relates to life-shortening congenital condition withdrawals); and
   (d) they must reside mainly in New Zealand, or otherwise they must—
-    (i) be an employee of the State services under the State Sector Act 1988 serving outside New Zealand; or
+    (i) be an employee of the State services under the Public Service Act 2020 serving outside New Zealand; or
     (ii) work overseas as a volunteer or for token payment for a charity (within the meaning of section 4(1) of the Student Loan Scheme Act 2011) and the work meets 1 or more of the requirements in schedule 1, clause 2(1) of that Act.
 Evidence
 (2) For the purposes of subsection (1)﻿(d)﻿(i) and (ii), the person must give the fund provider written evidence that they meet the requirements, and of the period in which they meet the requirements.
@@ -41748,7 +41748,7 @@ In this Act, unless the context requires otherwise,—
   - **charitable trust** is defined in section HC 13 (Charitable trusts) for the purposes of the trust rules
   - **chief executive** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **chief executive of the administering department** —
-    (a) means the chief executive, appointed under the State Sector Act 1988, of the department responsible for administering the Social Security Act 2018; and
+    (a) means the chief executive, appointed under the Public Service Act 2020, of the department responsible for administering the Social Security Act 2018; and
     (b) includes any person authorised to perform any of the functions of the chief executive
   - **child** in subparts MA to MG and MZ (which relate to tax credits for families), and in the definition of , means a person who is not in a marriage, civil union, or de facto relationship, and who—
     (a) is aged 15 years or less; or
