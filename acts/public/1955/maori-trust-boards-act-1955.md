@@ -1,5 +1,5 @@
 # Maori Trust Boards Act 1955
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2020-08-07_
 
 > An Act to make better provision for the administration of certain Maori Trust Boards
 
@@ -341,7 +341,7 @@ Before the start of an accounting period, a Board must prepare a budget for the 
   (a) recommend the removal from office of any member or members of the Board under section 16:
   (b) require the Board to terminate the employment or appointment of any of its servants or officers:
   (c) require the Board to exercise any power or do any act which it may lawfully exercise or do.
-(8) If within 1 month after the receipt by the Board of a requisition in writing by the Minister under paragraph (b) or paragraph (c) of subsection (7), the Board fails or neglects to comply with the requisition, or, having commenced any action required, at any time thereafter fails or neglects to complete the action to the satisfaction of the Minister, the Minister may, by writing under his hand, authorise some officer of the Public Service to take action in the name of the Board to fulfil the requisition.
+(8) If within 1 month after the receipt by the Board of a requisition in writing by the Minister under paragraph (b) or paragraph (c) of subsection (7), the Board fails or neglects to comply with the requisition, or, having commenced any action required, at any time thereafter fails or neglects to complete the action to the satisfaction of the Minister, the Minister may, by writing under his hand, authorise some officer of the public service to take action in the name of the Board to fulfil the requisition.
 (9) Every act done pursuant to an authority given by the Minister under subsection (8) shall have the same force and effect as if it had been done by the Board concerned, and every instrument of alienation executed pursuant to any such authority shall have the same force and effect and may be registered in the same manner as if it had been lawfully executed by the Board.
 (10) Where during any investigation directed under subsection (1), a Board or any of its members, servants, officers, or agents fails or neglects to comply with the requirements of subsection (6), the Minister shall have and may exercise the powers conferred on him by subsections (7) and (8), notwithstanding that the investigation is not completed and that no report thereon has been delivered to the Minister.
 
@@ -441,7 +441,7 @@ Subject to the provisions of this section, the provisions of sections 51, 52, an
 Where by section 48 an election is required, the Secretary of the Board concerned, shall, not later than 1 month after the latest date fixed by section 47 for the lodging of nominations, post to each beneficiary shown on the roll of beneficiaries as entitled to vote at the election a printed ballot paper setting out the full names of each candidate for election, the method of marking the ballot paper to indicate the beneficiary's preference, the address to which the ballot paper is to be returned, and the latest time for its return.
 
 ### 52 Returning Officer
-Ballot papers shall, not later than 1 month before the date on which the term of office of the members for the time being in office expires, be posted to or lodged with the Returning Officer appointed for the purpose of the election by the Minister. The person appointed as Returning Officer may be the Secretary of the Board or an officer of the Public Service.
+Ballot papers shall, not later than 1 month before the date on which the term of office of the members for the time being in office expires, be posted to or lodged with the Returning Officer appointed for the purpose of the election by the Minister. The person appointed as Returning Officer may be the Secretary of the Board or an officer of the public service.
 
 ### 53 Results of ballots
 (1) The Returning Officer shall, after the expiration of the time fixed for the return of marked ballot papers, count the votes validly cast for each candidate and communicate the results to the Secretary of the Board.
