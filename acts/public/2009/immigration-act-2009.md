@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -129,7 +129,7 @@ In this Act, unless the context otherwise requires,—
   - **former Act** means the Immigration Act 1987
   - **government agency** —
     (a) means—
-      (i) a government department named in Schedule 1 of the State Sector Act 1988; or
+      (i) a public service agency as defined in section 5 of the Public Service Act 2020; or
       (ii) a Crown entity (within the meaning of section 7(1) of the Crown Entities Act 2004); and
     (b) includes the New Zealand Police
   - **grant** , in relation to any visa, or entry permission, includes the situation where this Act or any regulations made under this Act deems a grant of the relevant visa, or entry permission, to occur
@@ -303,7 +303,7 @@ In this Act, unless the context otherwise requires,—
   (b) is first raised or proposed to be raised in the course of an application to the Tribunal or on appeal or in review proceedings; or
   (c) is raised in an application under Part 9.
 (5) A chief executive of a relevant agency must not delegate to any person the ability to certify information as classified information under subsection (1).
-(6) Subsection (5) does not limit section 40 of the State Sector Act 1988.
+(6) Subsection (5) does not limit clause 9 of Schedule 7 of the Public Service Act 2020.
 
 ### 8 Meaning of granting visa or entry permission as result of administrative error
 (1) In this Act, a visa is granted as a result of an administrative error if—
