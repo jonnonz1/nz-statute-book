@@ -1,5 +1,5 @@
 # Health and Disability Services (Safety) Act 2001
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Health and Disability Services (Safety) Act 2001.
@@ -124,7 +124,7 @@ The Minister may, by written notice describing by name the standards concerned, 
 
 ### 15 Power not to be delegated
 (1) The Minister may not delegate the power to approve standards or amendments of standards, or the power to revoke approvals of standards or amendments of standards.
-(2) Subsection (1) overrides section 28 of the State Sector Act 1988.
+(2) Subsection (1) overrides clause 5 of Schedule 6 of the Public Service Act 2020.
 
 ### 16 Status of notices
 (1) A notice under section 13 or 14 is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
