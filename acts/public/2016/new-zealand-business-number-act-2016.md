@@ -1,5 +1,5 @@
 # New Zealand Business Number Act 2016
-_Consolidation as at 2020-05-12_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the New Zealand Business Number Act 2016.
@@ -55,7 +55,7 @@ In this Act, unless the context otherwise requires,—
     (h) a thing that regulations declare to be an entity for the purposes of this Act, either generally or in specified circumstances
   - **government agency** means—
     (a) a Crown entity under section 7 of the Crown Entities Act 2004:
-    (b) a department under section 27A(1) and (2) of the State Sector Act 1988:
+    (b) a department under section 5 of the Public Service Act 2020:
     (c) the New Zealand Defence Force:
     (d) the New Zealand Police:
     (e)
@@ -253,7 +253,7 @@ A government agency may use the NZBN of an entity (including using it in additio
 **Registrar of New Zealand Business Numbers**
 
 ### 30 Registrar of New Zealand Business Numbers
-There must be a Registrar of New Zealand Business Numbers, who must be appointed under the State Sector Act 1988.
+There must be a Registrar of New Zealand Business Numbers, who must be appointed under the Public Service Act 2020.
 
 ### 31 Delegation of Registrar’s duties and powers
 (1) The Registrar may delegate in writing any of the Registrar’s duties and powers under this Act, other than this power of delegation.
