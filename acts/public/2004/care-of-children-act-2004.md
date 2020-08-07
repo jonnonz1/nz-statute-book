@@ -1,5 +1,5 @@
 # Care of Children Act 2004
-_Consolidation as at 2020-07-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Care of Children Act 2004.
@@ -131,7 +131,7 @@ In this Act, unless the context otherwise requires,—
     (a) means the role, under this Act, an order under this Act, or an order made by a court in a prescribed overseas country, of providing day-to-day care for the child; and
     (b) includes, while exercising that role, exclusive responsibility for the child’s day-to-day living arrangements
   - **Secretary** means the Secretary for Justice
-  - **social worker** means a person employed under Part 5 of the State Sector Act 1988 in the department as a social worker
+  - **social worker** means a person employed in the department as a social worker
   - **spouse or partner of a parent** means, in relation to a child, a person who is not the child’s parent but—
     (a) who is or has been married to, or in a civil union or de facto relationship with, a parent of the child; and
     (b) who shares responsibility for the child’s day-to-day care with the parent.
