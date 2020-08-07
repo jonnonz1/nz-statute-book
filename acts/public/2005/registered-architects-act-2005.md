@@ -1,5 +1,5 @@
 # Registered Architects Act 2005
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Registered Architects Act 2005.
@@ -884,7 +884,7 @@ A meeting of the Board may be held—
 (3) For the purposes of this clause, an equal employment opportunities programme means a programme that is aimed at the identification and elimination of all aspects of policies, procedures, and other institutional barriers that cause or perpetuate, or tend to cause or perpetuate, inequality in respect of the employment of any persons or group of persons.
 
 ### 39 Application of Acts to members and employees
-No person is, by reason only of that person’s appointment as a member of, or employment by, the Board, deemed to be employed in the State services for the purposes of the State Sector Act 1988 or in the Government service for the purposes of the Government Superannuation Fund Act 1956.
+No person is, by reason only of that person’s appointment as a member of, or employment by, the Board, deemed to be employed in the State services for the purposes of the Public Service Act 2020 or in the Government service for the purposes of the Government Superannuation Fund Act 1956.
 
 **Financial provisions**
 
