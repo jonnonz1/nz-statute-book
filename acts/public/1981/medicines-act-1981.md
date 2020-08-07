@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -84,7 +84,7 @@ _Consolidation as at 2018-11-26_
   - **licensee corporation** means a corporation holding a licence under this Act
   - **licensing authority** —
     (a) means the Director-General; and
-    (b) to avoid doubt, includes any person or persons acting as the Director-General's delegate as a consequence of a delegation under section 41 of the State Sector Act 1988
+    (b) to avoid doubt, includes any person or persons acting as the Director-General's delegate as a consequence of a delegation under clauses 2 and 3 of Schedule 6 of the Public Service Act 2020
   - **manufacture** , in relation to a medicine, includes any process carried out in the course of making the medicine; but does not include—
     (a) dissolving or dispersing the medicine in, or diluting or mixing it with, some other substance used as a medium for the purpose of administering the medicine to a particular person:
     (b) incorporating the medicine in any animal food
@@ -317,11 +317,11 @@ This Act shall bind the Crown.
 The Minister shall provide every committee appointed under section 8, and the Medicines Review Committee, with such staff, accommodation, services, and other facilities as appear to him to be necessary or expedient for the proper performance of its functions by that committee.
 
 ### 15 Appointment of officers
-(1) There may from time to time be appointed under the State Sector Act 1988 such officers as are required for the purposes of this Act.
-(2) The Director-General may from time to time appoint any person, not being an officer of the Public Service, as an officer, either in a part- or full-time capacity, for the purposes of this Act.
+(1) There may from time to time be appointed under the Public Service Act 2020 such officers as are required for the purposes of this Act.
+(2) The Director-General may from time to time appoint any person, not being an officer of the public service, as an officer, either in a part- or full-time capacity, for the purposes of this Act.
 (3) Any appointment under subsection (2) may be made either generally for the purposes of this Act or for any specified purpose, or for the exercise of any specified power or function of an officer under this Act, or for any specified period; and may be made in respect of New Zealand generally or in respect of any specified area or areas.
 (4) There may be paid out of money appropriated by Parliament for the purpose to any person appointed under subsection (2) such remuneration as may be fixed by the Director-General.
-(5) No person appointed under subsection (2) shall be deemed by reason of that appointment to be employed in the service of Her Majesty the Queen for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956.
+(5) No person appointed under subsection (2) shall be deemed by reason of that appointment to be employed in the service of Her Majesty the Queen for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956.
 
 ### 16 Exercise of powers of Director-General and other officers
 (1) The Director-General, every Medical Officer of Health, and every other officer, shall exercise the powers and functions conferred on him by this Act subject to the direction and control of the Minister.
