@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -220,6 +220,11 @@ For the purposes of section 16(3)﻿(b) and (4)﻿(b), categories of rateable la
   (a) as a fixed charge per unit of water consumed or supplied; or
   (b) according to a scale of charges.
 
+### 19A Rates not to overlap with targeted rates under Urban Development Act 2020
+(1) This section applies if an Order in Council under section 186 of the Urban Development Act 2020 authorises Kāinga Ora–Homes and Communities (Kāinga Ora) to set targeted rates under that Act for a project area within a local authority’s district.
+(2) The local authority may set a rate to fund activities or groups of activities only to the extent that the order does not authorise Kāinga Ora to set targeted rates to fund those activities or groups of activities.ExamplesExample 1The order authorises Kāinga Ora to set a targeted rate to fund roading within a project area.The local authority for the district in which the project area is located may set its own targeted rate to fund roading in a part of its district that is outside the project area.Example 2A wastewater system serves the entire district of a local authority.The order authorises Kāinga Ora to set a targeted rate to fund the upgrade of the part of the wastewater system that serves the project area.The local authority may set its general rate at a level that enables it to fund the general maintenance and operation of the wastewater system across its entire district, including the part of the system that serves the project area.
+(3) If an example in this section is inconsistent with subsection (2), subsection (2) prevails.
+
 ### 20 Rating units in common ownership
 Two or more rating units must be treated as 1 unit for setting a rate if those units are—
   (a) owned by the same person or persons; and
@@ -301,7 +306,8 @@ A report complies with this section if—
     (i) determine the category (if any) to which the unit belongs for setting a general rate in accordance with section 13(2)﻿(b); or
     (ii) determine the category (if any) to which the unit belongs for setting a targeted rate in accordance with section 16(3)﻿(b) or (4)﻿(b); or
     (iii) calculate the amount of liability for a targeted rate under section 18; and
-  (c) any information required under section 117K(1) that relates to the unit.
+  (c) any information required under section 117K(1) that relates to the unit; and
+  (d) if the unit is subject to targeted rates under the Urban Development Act 2020, the information required under section 212 of that Act.
 (5) The information in subsection (4) may be recorded separately for different parts of a rating unit if separate records are necessary because of different rating treatment of each part resulting from:
   (a) the inclusion of different parts in different categories under subsection (4)﻿(b)﻿(i) or (ii):
   (b) the application of Part 1 or Part 2 of Schedule 1 to one or more parts of the rating unit:
@@ -429,7 +435,8 @@ The name of a person who is entered as a ratepayer in the rating information dat
 ### 37 Rates records
 (1) A local authority must keep and maintain a rates record for each rating unit in its district that clearly shows—
   (a) the amount of the ratepayer’s liability for rates in respect of that unit; and
-  (b) any information required under section 117K(2) that relates to the unit.
+  (b) any information required under section 117K(2) that relates to the unit; and
+  (c) if the unit is subject to targeted rates under the Urban Development Act 2020, the information required under section 213 of that Act.
 (2) Rates records may be kept and maintained in written or electronic form, or both.
 (3) If a rates record includes any information that is referred to in section 27(4), the local authority must ensure that the information is consistent with the current entry in the rating information database for the unit.
 
@@ -512,6 +519,7 @@ A local authority may correct an error in the rating information database or rat
 ### 44 Notice of rates assessment
 (1) A local authority must deliver a rates assessment to a ratepayer to give notice of the ratepayer’s liability for rates on a rating unit.
 (2) A ratepayer is liable for rates on a rating unit when the local authority delivers the rates assessment for that unit to the ratepayer.
+(3) See section 201 of the Urban Development Act 2020 if the rating unit is also subject to targeted rates under that Act.
 
 ### 45 Contents of rates assessment
 (1) A rates assessment must clearly identify all of the following:
@@ -546,6 +554,7 @@ A local authority may correct an error in the rating information database or rat
 (4) If subsection (3) applies,—
   (a) the information required under subsection (1) must be given for each part of the assessment as if each part were a separate assessment; and
   (b) each part must state that it is part of the rates assessment for the rating unit and identify the number of other parts that are included in the assessment.
+(5) See section 202 of the Urban Development Act 2020 if a rating unit is also subject to targeted rates under that Act.
 
 ### 46 Rates invoice
 (1) If a rates payment is due for a particular period, the local authority must deliver to the ratepayer a rates invoice for the rating unit for that period.
@@ -568,6 +577,7 @@ A local authority may correct an error in the rating information database or rat
   (a) set out the matters required by subsection (2); and
   (b) specify the rate covered by the invoice; and
   (c) if the invoice covers a rate set under section 43(1)﻿(c), the invoice must specify the basis of that assessment and the period for which the assessment applies.
+(6) See section 203 of the Urban Development Act 2020 if a rating unit is also subject to targeted rates under that Act.
 
 ### 47 Issue of amended rates invoice
 (1) If a rates invoice is incorrect as to the amount of rates payable by a ratepayer in respect of a rating unit, an amended invoice must be delivered to the ratepayer in accordance with section 46 setting out the correct liability of the ratepayer as to the amount of rates due for the rating unit.
@@ -811,6 +821,34 @@ The proceeds of a sale or lease under section 71 or section 72 must be applied i
   (f) any other unsatisfied judgment for rates on other rating units in the district (if the person against whom the judgment is entered is the ratepayer of other rating units), with any interest, costs, and disbursements:
   (g) any other rates due at the date of the sale or lease for other rating units owned by that person, whether or not the other rates are outside the period of limitation specified in section 65.
 
+**Legal proceedings to recover unpaid levies with unpaid rates**
+
+### 75A Unpaid levy under Infrastructure Funding and Financing Act 2020
+(1) This section applies if rates and a levy remain unpaid 4 months after the due date for payment.
+(2) Sections 63 to 76 (other than section 75) apply to the recovery of both debts in the same legal proceedings—
+  (a) as if any reference in those sections to—
+    (i) the local authority included a reference to the responsible levy authority; and
+    (ii) rates included a reference to a levy; and
+    (iii) a ratepayer included a reference to a levypayer; and
+  (b) with all other necessary modifications.
+(3) Section 75B applies instead of section 75.
+(4) In this section and section 75B, levy, levy order, levypayer, and responsible levy authority have the same meanings as in section 7 of the Infrastructure Funding and Financing Act 2020.
+
+### 75B Application of proceeds of rating sale or lease that involves levy
+(1) The proceeds of a sale or lease under section 70 or 71 that relates to a levy as well as rates must be applied in the following order:
+  (a) the Registrar’s fee (unless the fee has already been paid):
+  (b) the judgment, and any interest, costs, and disbursements:
+  (c) any other unsatisfied judgment for rates for the same rating unit, with any interest, costs, and disbursements:
+  (d) any other unsatisfied judgment for a levy for the same rating unit, with any interest, costs, and disbursements:
+  (e) any other rates due at the date of the sale or lease of the same rating unit, whether or not those rates are still recoverable under section 65 (including, in the case of a lease, the rates (if any) that are or become due on the unit from the person on whose behalf the unit was leased while the Registrar received rents from it):
+  (f) any other levy due at the date of the sale or lease of the same rating unit, whether or not that levy is still recoverable under section 65 (including, in the case of a lease, the levy (if any) that is or becomes due on the unit from the person on whose behalf the unit was leased while the Registrar received rents from it):
+  (g) any encumbrance on the rating unit:
+  (h) any other unsatisfied judgment for rates on other rating units in the district (if the person against whom the judgment is entered is the ratepayer of other rating units), with any interest, costs, and disbursements:
+  (i) any other unsatisfied judgment for a levy on other rating units in the district (if the person against whom the judgment is entered is the levypayer of other rating units), with any interest, costs, and disbursements:
+  (j) any other rates due at the date of the sale or lease for other rating units owned by that person, whether or not the other rates are outside the period of limitation specified in section 65:
+  (k) any other levy due at the date of the sale or lease for other rating units owned by that person, whether or not the other levy is outside the period of limitation specified in section 65.
+(2) For the purposes of subsection (1)﻿(f), if levies are imposed under more than 1 levy order under the Infrastructure Funding and Financing Act 2020, the proceeds of sale that are applied to a levy must be applied in the order in which those orders were made.
+
 ### 76 Application of balance of proceeds
 (1) After the proceeds of a rating sale have been applied under section 75, the Registrar must pay the balance (if any) to Public Trust.
 (2) Public Trust, on the order of the High Court (which may be made by motion in Chambers), must pay the balance to those persons who are entitled to it, together with interest.
@@ -874,6 +912,22 @@ If the District Court is satisfied that section 77 has been complied with, it ma
 
 ### 83 Registration of instruments
 An instrument executed under section 73 or 80 may be registered under the Land Transfer Act 2017.
+
+### 83A Unpaid levy under Infrastructure Funding and Financing Act 2020
+(1) This section applies if the abandoned land is a rating unit for which a levy as well as rates have not been paid for 3 years or more.
+(2) Sections 77 to 83 (other than section 82) apply to the abandoned land—
+  (a) as if any reference in those sections to—
+    (i) the local authority included a reference to the responsible levy authority; and
+    (ii) rates included a reference to a levy; and
+    (iii) a ratepayer included a reference to a levypayer; and
+  (b) with all other necessary modifications.
+(3) Section 83B applies instead of section 82.
+(4) In this section and section 83B, levy, levypayer, and responsible levy authority have the same meanings as in section 7 of the Infrastructure Funding and Financing Act 2020.
+
+### 83B Application of proceeds of sale or lease
+(1) Sections 75B and 76 apply, with the necessary modifications, to the application of the proceeds of every sale or lease of abandoned land to which section 83A applies.
+(2) For the purposes of this section, expenses includes all expenses incurred by the responsible levy authority in connection with the sale or lease.
+(3) If the proceeds of the sale or lease are not sufficient to meet the rates, levy, interest, costs, and expenses, the responsible levy authority may write off the deficiency.
 
 **Crown land**
 
