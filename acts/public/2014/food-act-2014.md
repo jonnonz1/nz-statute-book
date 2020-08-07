@@ -1,5 +1,5 @@
 # Food Act 2014
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Food Act 2014.
@@ -1603,7 +1603,7 @@ This subpart—
 ### 136 Recognition of certain agencies without application
 (1) The chief executive may, without receiving an application under section 135(1), recognise any of the following, or any group of persons within each of the following, as an agency that is responsible for the management and carrying out of specified functions and activities:
   (a) the Ministry:
-  (b) a department of the Public Service listed in Schedule 1 of the State Sector Act 1988.
+  (b) a department as defined in section 5 of the Public Service Act 2020.
 (2) Section 135(2) and (3) apply to subsection (1) accordingly, with all necessary modifications.
 (3) This section is subject to section 137(5).
 
@@ -1642,7 +1642,7 @@ As soon as practicable after the expiry of the Act's introductory period (as def
 ### 140 Recognition of certain persons without application
 (1) The chief executive may, without receiving an application under section 139(1), recognise any of the following natural persons to carry out specified functions and activities:
   (a) any officer or employee of the Ministry:
-  (b) any officer or employee of any department of the Public Service listed in Schedule 1 of the State Sector Act 1988:
+  (b) any officer or employee of any department as defined in section 5 of the Public Service Act 2020:
   (c) any officer or employee of a territorial authority.
 (2) Section 139(2) and (3) apply to subsection (1) accordingly, with all necessary modifications.
 
@@ -1886,7 +1886,7 @@ A suspension under section 158 or an extension of a suspension under section 159
   (d) the agency or person has ceased to operate as a recognised agency or a recognised person; or
   (e) the agency or person has continued to fail to pay an ongoing recognition fee, charge, or levy after the agency's or person's recognition has been suspended on the ground set out in section 158(1)﻿(d); or
   (f) the agency or person has failed to comply with or maintain any criteria or competencies that led to the recognition of the agency or person; or
-  (g) the agency is no longer the appropriate agency to hold the recognition, but only if the agency is, or is within, the Ministry or a department of the Public Service listed in Schedule 1 of the State Sector Act 1988.
+  (g) the agency is no longer the appropriate agency to hold the recognition, but only if the agency is, or is within, the Ministry or a department as defined in section 5 of the Public Service Act 2020.
 (2) However, before withdrawing recognition, the chief executive must consult the agency or person in accordance with section 169 about the proposed withdrawal of recognition, unless the agency is, or is within, the Ministry or the person is within the Ministry.
 (3) The notification given to the agency or person in accordance with section 169(a)﻿(i) must—
   (a) specify the grounds for the proposed withdrawal; and
@@ -1990,7 +1990,7 @@ If the chief executive is required to consult a person or a category or class of
 (2) However, subsection (1) does not apply to a recognised agency or to a recognised person who is—
   (a) the Ministry, or a group of persons within the Ministry, and granted recognition as a recognised agency under section 136; or
   (b) an officer or employee of the Ministry who is granted recognition as a recognised person under section 140; or
-  (c) a department of the Public Service listed in Schedule 1 of the State Sector Act 1988, a group of persons within a department who are recognised as a recognised agency under section 136, or an officer or employee of a department who is recognised as a recognised person under section 140.
+  (c) a department as defined in section 5 of the Public Service Act 2020, a group of persons within a department who are recognised as a recognised agency under section 136, or an officer or employee of a department who is recognised as a recognised person under section 140.
 (3) A person recognised as a recognised person under section 139 may not be treated as an employee of the Ministry only by reason of that appointment.
 
 ### Subpart 2 — Territorial authorities
@@ -3144,7 +3144,7 @@ A court may make an order under any of sections 269 to 273 in addition to, or in
 (3) Alternatively, the officer’s appointment document may specify the particular functions and duties that the officer may perform and the particular powers that the officer may exercise.
 (4) The chief executive may impose written conditions on the appointment of a food safety officer.
 (5) Food safety officers must not delegate any of their functions, duties, or powers.
-(6) A person appointed as a food safety officer who is not already a State sector employee does not become a State sector employee for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 only because of the appointment.
+(6) A person appointed as a food safety officer who is not already a State sector employee does not become a State sector employee for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 only because of the appointment.
 (7) If a food safety officer who is not employed in the State sector or by a territorial authority receives information in the course of performing his or her functions or duties under this Act, the Official Information Act 1982 applies in relation to—
   (a) the organisation that employs the food safety officer as if it were an organisation listed in Schedule 1 of that Act; and
   (b) the information as if it were held by the organisation.
@@ -4154,7 +4154,7 @@ Before recommending the making of regulations under section 345, the Minister mu
 **Delegation**
 
 ### 353 Chief executive may delegate
-(1) The chief executive may delegate under section 41 of the State Sector Act 1988 all or any of his or her functions, duties, and powers under this Act.
+(1) The chief executive may delegate under clauses 2 and 3 of Schedule 6 of the Public Service Act 2020 all or any of his or her functions, duties, and powers under this Act.
 (2) Subsection (1) does not apply to the chief executive's power in section 410.
 
 **Review of decisions**
@@ -4927,7 +4927,7 @@ The purpose of sections 397 to 402 is to give effect to New Zealand's obligation
   (b) the revocation of an adopted food standard.
 
 ### 401 Minister must not delegate power to adopt joint food standards
-Despite section 28 of the State Sector Act 1988, the Minister must not delegate to any other person the power under section 397 to adopt joint food standards.
+Despite clause 5 of Schedule 6 of the Public Service Act 2020, the Minister must not delegate to any other person the power under section 397 to adopt joint food standards.
 
 ### 402 Proof of adopted joint food standards
 (1) A copy of any joint food standards that the Minister is purported to have adopted by notice under section 397, if produced in any proceedings, is sufficient evidence that those standards have been adopted under that section on the date shown in the copy.
