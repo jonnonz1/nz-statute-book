@@ -1,5 +1,5 @@
 # Forests Act 1949
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend the law relating to forestry
 
@@ -113,13 +113,13 @@ This Act may be cited as the Forests Act 1949 and shall come into force on 1 Jan
 [Repealed]
 
 ### 10 Appointment of other officers
-(1) There may from time to time be appointed as officers or employees of the Public Service such other officers and employees as may be necessary for the administration of this Act.
+(1) There may from time to time be appointed as officers or employees of the public service such other officers and employees as may be necessary for the administration of this Act.
 (2)
 
 ### 11 Forestry officers
-(1) There may from time to time be appointed under the State Sector Act 1988 such forestry officers as may be required for the purposes of this Act.
+(1) There may from time to time be appointed under the Public Service Act 2020 such forestry officers as may be required for the purposes of this Act.
 (2) The Minister may from time to time appoint as a forestry officer for the purposes of this Act any person employed in a State enterprise within the meaning of the State-Owned Enterprises Act 1986 or in a Crown Research Institute within the meaning of the Crown Research Institutes Act 1992, and may prescribe the functions and powers of a person so appointed.
-(3) No person is to be treated as employed in the State services for the purposes of the State Sector Act 1988, or in the Government service for the purposes of the Government Superannuation Fund Act 1956, by reason only of the person's appointment under subsection (2).
+(3) No person is to be treated as employed in the State services for the purposes of the Public Service Act 2020, or in the Government service for the purposes of the Government Superannuation Fund Act 1956, by reason only of the person's appointment under subsection (2).
 
 ### 12 Officers not eligible to hold licence or lease under this Act
 [Repealed]
