@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2020-06-16_
+_Consolidation as at 2020-08-07_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -3919,7 +3919,7 @@ For the purpose of this Act, any person in possession of any fish, aquatic life,
 **Appointment of fishery officers**
 
 ### 196 Appointment of fishery officers
-(1) Such fishery officers and other officers as may be required for the purposes of the enforcement and administration of this Act shall be appointed under the State Sector Act 1988.
+(1) Such fishery officers and other officers as may be required for the purposes of the enforcement and administration of this Act shall be appointed under the Public Service Act 2020.
 (2) For the purpose of this Act—shall be deemed to be a fishery officer and may, without warrant, exercise the powers conferred on fishery officers under this Act.
   (a) every officer in command of any vessel or aircraft of the New Zealand Defence Force; and
   (b) every constable—
@@ -4141,7 +4141,7 @@ The production by a fishery officer, honorary fishery officer, or examiner of a 
 
 ### 222 Examiners
 (1) The chief executive may appoint any person to be an examiner to assist in the enforcement and administration of Part 10, and of regulations referred to in that Part, by examining and verifying the keeping and contents of accounts, records, returns, and information required to be kept, or made, under that Part or regulations.
-(2) Any appointment under subsection (1) may, but is not required to, be made under the State Sector Act 1988.
+(2) Any appointment under subsection (1) may, but is not required to, be made under the Public Service Act 2020.
 (3) Each examiner appointed under this section shall be issued with a warrant under section 198.
 
 ## Part 12 — Observer programme
@@ -5743,7 +5743,7 @@ Every licence, permit, approval, authority, notice, certificate, circular, direc
 A provision of any regulation made under this Act, or of any notice made under section 15 or section 16 or under regulations made under section 186, is not invalid merely because it conflicts with section 28B(5) of the Fisheries Act 1983.
 
 ### 331 Savings relating to fishery officers, examiners, and observers
-(1) Every person who, immediately before the commencement of section 196, held office as a fishery officer appointed under the State Sector Act 1988 pursuant to section 76(1) of the Fisheries Act 1983 is hereby deemed to be a fishery officer appointed under the State Sector Act 1988 pursuant to section 196(1).
+(1) Every person who, immediately before the commencement of section 196, held office as a fishery officer appointed under the Public Service Act 2020 pursuant to section 76(1) of the Fisheries Act 1983 is hereby deemed to be a fishery officer appointed under the Public Service Act 2020 pursuant to section 196(1).
 (2) Every person who, immediately before the commencement of section 197, held office as an honorary fishery officer under section 77 of the Fisheries Act 1983 is hereby deemed to be appointed as an honorary fishery officer under section 197.
 (3) Every person who, immediately before the commencement of section 222, held office as an examiner under section 67B of the Fisheries Act 1983 is hereby deemed to be appointed as an examiner under section 222.
 (4) Every person who, immediately before the commencement of section 223, held office as a scientific observer under section 67D of the Fisheries Act 1983 is hereby deemed to be appointed as an observer under section 223.
