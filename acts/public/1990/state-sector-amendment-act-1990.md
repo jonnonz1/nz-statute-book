@@ -1,5 +1,5 @@
 # State Sector Amendment Act 1990
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to amend the State Sector Act 1988
 
