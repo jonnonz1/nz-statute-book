@@ -1,5 +1,5 @@
 # Maori Reserved Land Act 1955
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend the law relating to the administration of the lands comprised in Maori reserves, West Coast settlement reserves, and Maori townships, and to make provision in respect of certain other lands administered by the Māori Trustee
 
@@ -418,7 +418,7 @@ Where the lessee elects not to accept a renewal of his lease, or fails to execut
 (1) The Committee is hereby declared to be a statutory Board within the meaning of the Fees and Travelling Allowances Act 1951.
 (2) There shall be paid to the members of the Committee remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly.
 (3) The following provisions shall apply in respect of any payment under this section:
-  (a) the remuneration, allowances, and expenses of any member appointed on the nomination of the Minister of Justice in consultation with the Minister of Maori Affairs who is not an officer of the Public Service are to be paid without further appropriation than this section out of such account as those Ministers determine:
+  (a) the remuneration, allowances, and expenses of any member appointed on the nomination of the Minister of Justice in consultation with the Minister of Maori Affairs who is not an officer of the public service are to be paid without further appropriation than this section out of such account as those Ministers determine:
   (b) the remuneration, allowances, and expenses of the members other than the Chairman shall be paid by the Māori Trustee and shall, as to the remuneration, allowances, and expenses of the member nominated by the said Executive Committee, be recoverable as a debt in any court of competent jurisdiction from the lessee under the lease concerned.
 
 ### 72 Certain costs of administration to come out of appropriated money
