@@ -1,5 +1,5 @@
 # Law Commission Act 1985
-_Consolidation as at 2005-01-25_
+_Consolidation as at 2020-08-07_
 
 > An Act to establish a Law Commission as a central advisory body for the review, reform, and development of the law of New Zealand
 
@@ -115,8 +115,8 @@ The enactments specified in Schedule 2 are hereby amended in the manner indicate
 [Repealed]
 
 ### 5 Superannuation or retiring allowances
-(1) The Commission may, for the purpose of providing retirement benefits to its members, contribute to any superannuation scheme that complies with the requirements of section 84B of the State Sector Act 1988.
-(2) Subclause (1) does not limit the powers of the Commission under sections 84 to 84B of the State Sector Act 1988 in relation to its employees and officers.
+(1) The Commission may, for the purpose of providing retirement benefits to its members, contribute to any superannuation scheme that complies with the requirements of clause 14 of Schedule 8 of the Public Service Act 2020.
+(2) Subclause (1) does not limit the powers of the Commission under clauses 12 to 14 of Schedule 8 of the Public Service Act 2020 in relation to its employees and officers.
 (3) Notwithstanding anything in this Act, any person who immediately before becoming an officer or employee of the Commission or member of the Commission is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 shall be deemed to be, for the purposes of the Government Superannuation Fund Act 1956, employed in the Government service so long as that person continues to be an officer or employee of the Commission or to hold office as a member of the Commission; and that Act shall apply to that person in all respects as if that person's service as such an officer or employee or as such a member were Government service.
 (4) Subject to the Government Superannuation Fund Act 1956, nothing in subclause (3) shall entitle any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
 (5) For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with subclause (3), to a person who is in the service of the Commission, whether as an officer or employee or as a member, and is a contributor to the Government Superannuation Fund, the term controlling authority, in relation to any such person who is in the service of the Commission, means the Commission.
