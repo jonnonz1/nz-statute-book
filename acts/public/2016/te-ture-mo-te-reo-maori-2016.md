@@ -1,5 +1,5 @@
 # Te Ture mō Te Reo Māori 2016
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2020-08-07_
 
 ## Part Te Wāhanga 1 — Ko te ingoa me ngā whakataunga tīmatanga i te reo Māori
 
@@ -149,7 +149,7 @@ I roto i tēnei Ture, māna, he horopaki anō e hāngai kē ake ana,—
   - **Te Reo Tukutuku** ko te hunga whai pānga ki te reo Māori, arā, ko ngā rōpū whakahaere kua whakarārangitia i roto i te Āpitihanga 4
   - **Te Reo Whakapuaki Irirangi** ko te hinonga Karauna whai mana motuhake, e mōhiotia nei hoki ko Te Māngai Pāho, ka tū tonu i te wehenga 38
   - **rōpū kōwhiri** ko te (selection group) tētahi rōpū ka whakawhāitihia e ai ki te rārangi 1 o te Āpitihanga 5 hei kopou tangata hei mema mō Te Mātāwai
-  - **tari Kāwanatanga** ko te (department of State) tētahi tari Kāwanatanga ka whakahuatia i roto i te Āpitihanga 1 o te State Sector Act 1988
+  - **tari Kāwanatanga** ko te (department of State) tētahi tari Kāwanatanga ka whakahuatia i roto i te Te Wāhanga 1 o Āpitihanga 2 o te Public Service Act 2020
   - **Te Taura Whiri i te Reo Māori** ko me te hinonga Karauna whai mana motuhake, ka tū tonu i te wehenga 37
   - **tohu whakatau i te mōhio** ko te (certificate of competency) me te (certificate) tētahi tohu whakatau i te mōhio ki te reo Māori ka tukuna i raro i tēnei Ture e Te Taura Whiri.
 
@@ -620,7 +620,7 @@ In this Act, unless the context otherwise requires,—
   - **board** (poari) means the governing body of the Māori Television Service appointed under section 18 of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003
   - **broadcasting** (pāho) has the meaning given in section 2(1) of the Broadcasting Act 1989
   - **certificate of competency** (tohu whakatau i te mōhio ki te reo Māori) and (tohu) mean a certificate of competency in the Māori language issued under this Act by Te Taura Whiri
-  - **department of State** (tari Kāwanatanga) means a department named in Schedule 1 of the State Sector Act 1988
+  - **department of State** (tari Kāwanatanga) means a department named in Part 1 of Schedule 2 of the Public Service Act 2020
   - **iwi and Māori** (ngā iwi me ngāi Māori) means either or both of the following:
     (a) 1 or more of the iwi listed in Schedule 3, including the whānau and hapū of each iwi:
     (b) Māori people generally
@@ -751,7 +751,7 @@ The purpose of Te Mātāwai is to act on behalf of iwi and Māori—
 (1) Te Mātāwai must appoint a chief executive.
 (2) The person appointed as the chief executive of Te Mātāwai must not be a member of Te Mātāwai.
 (3) Te Mātāwai—
-  (a) must determine the chief executive’s terms and conditions of employment, in consultation with the State Services Commission:
+  (a) must determine the chief executive’s terms and conditions of employment, in consultation with the Public Service Commission:
   (b) must operate a good employer personnel policy as provided for in clause 33 of Schedule 5.
 
 **Reporting requirements**
@@ -1655,7 +1655,7 @@ In clauses 28 to 30,—
   (a) operate a personnel policy that complies with the principle of being a good employer; and
   (b) make that policy (including the equal employment opportunities programme) available to its employees; and
   (c) comply with that policy (including its equal employment opportunities programme) and report in its annual report on the extent of its compliance.
-(2) Te Mātāwai must, after consulting with the State Services Commissioner, set the terms and conditions of employment for its chief executive.
+(2) Te Mātāwai must, after consulting with the Public Service Commissioner, set the terms and conditions of employment for its chief executive.
 (3) For the purposes of this clause, a good employer is an employer who operates a personnel policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including provisions requiring—
   (a) safe and good working conditions; and
   (b) an equal employment opportunities programme; and
