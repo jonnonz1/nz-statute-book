@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -1482,7 +1482,7 @@ A boarding house tenancy terminates 48 hours after the death of a sole tenant un
 (6) In recommending persons for appointment to the Tribunal under subsection (2)﻿(c), the Minister of Justice and the Minister shall ensure, so far as practicable, that—
   (a)
   (b) there will be sufficient Tenancy Adjudicators who have a required qualification to ensure the efficient and expeditious dispatch of those cases that are directed by the Principal Tenancy Adjudicator, under section 84(3), to be heard and determined by a Tenancy Adjudicator who has a required qualification, whether sitting alone or with any other Tenancy Adjudicator.
-(7) The office of Tenancy Adjudicator shall not be held in conjunction with any office or employment in the Public Service, nor with any other office or employment that, in the opinion of the Minister of Justice and the Minister, is inconsistent with the office of Tenancy Adjudicator.
+(7) The office of Tenancy Adjudicator shall not be held in conjunction with any office or employment in the public service, nor with any other office or employment that, in the opinion of the Minister of Justice and the Minister, is inconsistent with the office of Tenancy Adjudicator.
 (8) The duties, functions, and powers of the Tribunal shall not be affected by any vacancy in its membership.
 (9) In this section, the term a required qualification means—
   (a) a practising certificate as a barrister or solicitor, or as both a barrister and solicitor, of the High Court of New Zealand; or
@@ -1570,7 +1570,7 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
 ### 76 Tenancy Mediators
 (1) The chief executive must, from time to time, appoint Tenancy Mediators for the purposes of this Act.
 (1A) For the purposes of subsection (1), the chief executive may appoint 1 or more of the following:
-  (a) natural persons under the State Sector Act 1988:
+  (a) natural persons under the Public Service Act 2020:
   (b) natural persons otherwise than under that Act on terms and conditions determined by the chief executive:
   (c) bodies corporate on terms and conditions determined by the chief executive.
 (1B) A Tenancy Mediator that is a body corporate must perform or exercise its duties, functions, and powers through natural persons who are officers or employees of the body corporate and who are authorised by it for the purposes of this subsection.
