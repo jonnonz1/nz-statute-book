@@ -1,5 +1,5 @@
 # National Animal Identification and Tracing Act 2012
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the National Animal Identification and Tracing Act 2012.
@@ -819,12 +819,12 @@ The NAIT organisation must establish and publish a complaints procedure for use 
   (a) NAIT officers; and
   (b) NAIT authorised persons.
 (2) Persons appointed under this section must have the appropriate experience, qualifications, and technical competence relevant to the functions of a NAIT officer or NAIT authorised person, as the case may be.
-(3) Persons appointed under this section as NAIT officers or as NAIT authorised persons may (but need not) be employed by the Director-General under the State Sector Act 1988.
+(3) Persons appointed under this section as NAIT officers or as NAIT authorised persons may (but need not) be employed by the Director-General under the Public Service Act 2020.
 (4) Subject to subsection (2), the following may be appointed as a NAIT officer:
   (a) an inspector appointed under section 103 of the Biosecurity Act 1993:
   (b) an animal product officer appointed under section 78 of the Animal Products Act 1999.
 (5) Without limiting the discretion of the Director-General under subsection (1), the NAIT organisation may recommend suitable persons for appointment as NAIT authorised persons.
-(6) To avoid doubt, if the Director-General delegates the power of appointment of NAIT officers or NAIT authorised persons to another Director-General under section 41 of the State Sector Act 1988, references in this section to the Director-General must be read as references to the Director-General to whom the power of appointment is delegated.
+(6) To avoid doubt, if the Director-General delegates the power of appointment of NAIT officers or NAIT authorised persons to another Director-General under clauses 2 and 3 of Schedule 6 of the Public Service Act 2020, references in this section to the Director-General must be read as references to the Director-General to whom the power of appointment is delegated.
 
 ### 53 Authorisation of officers
 (1) The Director-General must supply every NAIT officer and every NAIT authorised person with a warrant of authorisation stating the powers and functions of the relevant officer or authorised person.
