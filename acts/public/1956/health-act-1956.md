@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -19,7 +19,7 @@ _Consolidation as at 2020-08-01_
   - **craft** means an aircraft, ship, or other device or machine, that can be used to carry or transport people or goods—
     (a) by air; or
     (b) on or under water
-  - **Director-General** means the chief executive under the State Sector Act 1988 of the Ministry of Health; and, in relation to any power or function delegated by that chief executive, includes any person to whom that chief executive has delegated that power or function
+  - **Director-General** means the chief executive under the Public Service Act 2020 of the Ministry of Health; and, in relation to any power or function delegated by that chief executive, includes any person to whom that chief executive has delegated that power or function
   - **district health board** means a district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000
   - **dwellinghouse** means any building, tent, caravan, or other structure or erection, whether permanent or temporary, that is used or intended to be used in whole or in part for human habitation, and includes the land and any outbuildings and appurtenances belonging thereto or usually enjoyed therewith
   - **educational institution** —
@@ -41,7 +41,7 @@ _Consolidation as at 2020-08-01_
   - **medical officer of health** means the medical officer of health appointed under this Act for a health district, and includes any deputy medical officer of health; and, for the purposes of Part 4, includes any medical practitioner acting under the direction of the medical officer of health
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **Minister** means the Minister of Health
-  - **Ministry of Health** means the department of the Public Service referred to by that name; and has a corresponding meaning
+  - **Ministry of Health** means the department of the public service referred to by that name; and has a corresponding meaning
   - **notifiable disease** means any notifiable infectious disease, and any disease for the time being specified in Schedule 2
   - **notifiable infectious disease** means any infectious disease for the time being specified in Part 1 of Schedule 1
   - **offensive trade** means any trade, business, manufacture, or undertaking for the time being specified in Schedule 3
@@ -77,7 +77,7 @@ The Governor-General may from time to time, by Order in Council,—or otherwise 
 Without limiting any other enactment or rule of law, and without limiting any other functions of the Ministry or of any other person or body, the Ministry shall have the function of improving, promoting, and protecting public health.
 
 ### 3B Director of Public Health
-(1) There shall be a Director of Public Health, who shall be appointed under the State Sector Act 1988 by the Director-General.
+(1) There shall be a Director of Public Health, who shall be appointed under the Public Service Act 2020 by the Director-General.
 (2) The Director of Public Health shall have the function of advising the Director-General on matters relating to public health, including—
   (a) personal health matters relating to public health; and
   (b) regulatory matters relating to public health.
@@ -959,7 +959,7 @@ In this Part, unless the context otherwise requires,—
   (a) may include guideline values for aesthetic determinands for avoiding adverse aesthetic effects in drinking water; and
   (b) may contain different provisions for different categories of bulk supplier, networked supplier, or water carrier, or different provisions for each class of drinking-water supplier; but
   (c) must not include any requirement that fluoride be added to drinking water.
-(4) Despite section 28 of the State Sector Act 1988, the Minister may not delegate any of the powers conferred by subsection (1).
+(4) Despite clause 5 of Schedule 6 of the Public Service Act 2020, the Minister may not delegate any of the powers conferred by subsection (1).
 (5) Standards issued or adopted under subsection (1) are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 69P Minister must consult before issuing, adopting, or amending drinking-water standards
@@ -1191,7 +1191,7 @@ Every drinking-water supplier who receives a complaint about the quality (includ
   (b)
   (c) has in place effective arrangements to avoid or manage any conflicts of interest that may arise.
 (3)
-(4) No individual appointed by the Director-General under subsection (1) to be a drinking-water assessor is, because of that appointment, employed in the Public Service for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956.
+(4) No individual appointed by the Director-General under subsection (1) to be a drinking-water assessor is, because of that appointment, employed in the public service for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956.
 
 ### 69ZL Functions of drinking-water assessors
 (1) The functions of a drinking-water assessor are—
@@ -1381,7 +1381,7 @@ If any thing is seized by a drinking-water assessor or designated officer under 
   (b) publish a copy of the declaration or amended declaration—
     (i) in the Gazette; and
     (ii) in a daily newspaper circulating in the affected area.
-(5) Despite section 28 of the State Sector Act 1988, the Minister may not delegate any of the powers conferred by subsection (1) or (2).
+(5) Despite clause 5 of Schedule 6 of the Public Service Act 2020, the Minister may not delegate any of the powers conferred by subsection (1) or (2).
 
 ### 69ZZB Maximum duration of drinking-water emergency declaration
 No drinking-water emergency declaration may remain in force for longer than 28 days unless regulations are made under section 69ZZY(1)﻿(e) extending the period of the drinking-water emergency.
@@ -2674,10 +2674,10 @@ In this Part, unless the context otherwise requires,—
 **Operation of NCSP**
 
 ### 112C Appointment of persons to operate NCSP
-(1) All persons appointed to operate the NCSP, and to perform functions in relation to the operation of that programme, must be appointed under section 59 of the State Sector Act 1988, unless it is not reasonably practicable to do so.
-(2) If the Director-General wishes to appoint a particular person to perform particular functions in relation to the operation of the NCSP, and it is not reasonably practicable to appoint that person under section 59 of the State Sector Act 1988, the Director-General may appoint that person to perform those functions under this subsection.
-(3) The Director-General may appoint, either under section 59 of the State Sector Act 1988 or under subsection (2), 1 person to be the manager of the NCSP.
-(4) The NCSP manager may direct a person appointed under section 59 of the State Sector Act 1988 or under subsection (2) in relation to the performance of that person's functions, and that person must comply with the NCSP manager's direction.
+(1) All persons appointed to operate the NCSP, and to perform functions in relation to the operation of that programme, must be appointed under section 66 of the Public Service Act 2020, unless it is not reasonably practicable to do so.
+(2) If the Director-General wishes to appoint a particular person to perform particular functions in relation to the operation of the NCSP, and it is not reasonably practicable to appoint that person under section 66 of the Public Service Act 2020, the Director-General may appoint that person to perform those functions under this subsection.
+(3) The Director-General may appoint, either under section 66 of the Public Service Act 2020 or under subsection (2), 1 person to be the manager of the NCSP.
+(4) The NCSP manager may direct a person appointed under section 66 of the Public Service Act 2020 or under subsection (2) in relation to the performance of that person's functions, and that person must comply with the NCSP manager's direction.
 (5) The Director-General may direct the NCSP manager in relation to the performance of the NCSP manager's functions, and the NCSP manager must comply with the Director-General's direction.
 
 ### 112D Objectives of NCSP
@@ -2764,7 +2764,7 @@ The objectives of the NCSP are to—
   (a) is revocable, in writing, at will; and
   (b) continues in force until it is revoked, even if the NCSP manager or Director-General by whom it was made ceases to hold office, and continues to have effect as if made by his or her successor in that office.
 (7) A delegation under this section does not affect or prevent the performance or exercise of any function or power by the delegator, and does not affect the responsibility of the delegator for the actions of any person acting under that delegation.
-(8) Subsection (1) does not limit the Director-General's power to delegate any of his or her functions under this Part in accordance with section 41 of the State Sector Act 1988.
+(8) Subsection (1) does not limit the Director-General's power to delegate any of his or her functions under this Part in accordance with clauses 2 and 3 of Schedule 6 of the Public Service Act 2020.
 
 **Duties to provide information to women and to NCSP**
 
