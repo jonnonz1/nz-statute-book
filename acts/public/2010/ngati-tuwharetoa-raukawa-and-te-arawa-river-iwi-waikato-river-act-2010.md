@@ -1,5 +1,5 @@
 # Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010
-_Consolidation as at 2017-04-19_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010.
@@ -74,7 +74,7 @@ This Act—
     (a) for Ngati Tuwharetoa, the deed in relation to co-management arrangements for the Waikato River between the Crown and the Tuwharetoa Maori Trust Board dated 31 May 2010:
     (b) for Raukawa, the deed in relation to a co-management framework for the Waikato River between the Crown and Raukawa and the trustees of the Raukawa Settlement Trust dated 17 December 2009:
     (c) for Te Arawa River Iwi, the deed in relation to a co-management framework for the Waikato River between the Crown and Te Arawa River Iwi and the trustees of Te Arawa River Iwi Trust dated 9 March 2010
-  - **department** has the meaning given to it by the State Sector Act 1988
+  - **department** has the meaning given to it by the Public Service Act 2020
   - **financial year** has the meaning given to it by the Public Finance Act 1989
   - **joint management agreement** means an agreement to which sections 43 to 57 apply
   - **local authority** ,—
