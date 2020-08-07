@@ -1,5 +1,5 @@
 # State Sector Amendment Act 1997
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2020-08-07_
 
 > An Act to amend the State Sector Act 1988 so that it no longer applies to kindergarten associations or their employees
 
@@ -25,7 +25,7 @@ This section amended the definition of the term official in s 99 Crimes Act 1961
 **Amendment to Electoral Act 1993**
 
 ### 5 Interpretation (section 3)
-This section substituted para (b)(i) of the definition of the term public servant in s 3(1) Electoral Act 1993.
+This section substituted para (b)﻿(i) of the definition of the term public servant in s 3(1) Electoral Act 1993.
 
 **Amendment to Government Superannuation Fund Act 1956**
 
