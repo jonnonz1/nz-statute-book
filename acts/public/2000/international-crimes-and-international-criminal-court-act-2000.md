@@ -1,5 +1,5 @@
 # International Crimes and International Criminal Court Act 2000
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the International Crimes and International Criminal Court Act 2000.
@@ -1152,8 +1152,8 @@ If the execution of a particular measure of assistance specified in a request to
 (2) Subsections (3) to (5) apply if—
   (a) the ICC makes a request for assistance; and
   (b) the ICC has not previously made a final determination on whether or not Article 98(1) of the Statute applies to that request; and
-  (c) a request is made to the ICC to determine whether or not Article 98(1) applies to the request for surrender.
-(3) If this subsection applies, the Minister may postpone the request for assistance until the ICC advises whether or not it wishes to proceed with the request for assistance.
+  (c) a request is made to the ICC to determine whether or not Article 98(1) applies to the request for assistance.
+(3) If this subsection applies, the Attorney-General may postpone the request for assistance until the ICC advises whether or not it wishes to proceed with the request for assistance.
 (4) If the ICC advises that it does not intend to proceed with the request, the request for assistance must be refused.
 (5) If the ICC advises that it intends to proceed with the request for assistance, and there is no other ground for refusing or postponing the request, the request must continue to be dealt with under this Part.
 
