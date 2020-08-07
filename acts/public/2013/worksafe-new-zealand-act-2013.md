@@ -1,5 +1,5 @@
 # WorkSafe New Zealand Act 2013
-_Consolidation as at 2017-12-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the WorkSafe New Zealand Act 2013.
@@ -13,7 +13,7 @@ This Act comes into force on 16 December 2013.
 In this Act, unless the context otherwise requires,—
   - **board** means the board of WorkSafe New Zealand
   - **chief executive** means the chief executive of MBIE
-  - **collective agreement** has the same meaning as in section 2 of the State Sector Act 1988
+  - **collective agreement** has the same meaning as in section 5 of the Public Service Act 2020
   - **employment agreement** has the same meaning as in section 5 of the Employment Relations Act 2000
   - **EPA** means the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011
   - **MBIE** means the Ministry of Business, Innovation, and Employment
