@@ -1,5 +1,5 @@
 # Nga Wai o Maniapoto (Waipa River) Act 2012
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2020-08-07_
 
 ## Preamble
 Ā muri kia mau ki te kawau mārō. Whanake ake, whanake ake
@@ -128,7 +128,7 @@ This Act comes into force on the day after the date on which it receives the Roy
   (b) the enactments listed in Schedule 1 of the Conservation Act 1987
   - **Crown** has the meaning given to it by the Public Finance Act 1989
   - **deed** means the deed in relation to co-governance and co-management of the Waipa River between the Crown and Maniapoto and the Maniapoto Maori Trust Board dated 27 September 2010
-  - **department** has the meaning given to it by the State Sector Act 1988
+  - **department** has the meaning given to it by the Public Service Act 2020
   - **effective date** means the date that is 20 business days after the commencement date
   - **environmental plan** —
     (a) means the Maniapoto Iwi Environmental Management Plan prepared by the Trust and issued by it on 19 March 2007; and
@@ -221,11 +221,11 @@ Other enactments applied with enhancements
   (d) apply for the purposes of this Act to the Council.
 (2) The enactments referred to in subsection (1) apply with the enhancements described in this section.
 Requesting call-in
-(3) The following provisions apply when the co-governance entity is considering requesting the call-in of an application relating to the Upper Waipa River (under subsection (1)'s application of section 23(2)(h) of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 and section 24(2)(h) of the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010):
+(3) The following provisions apply when the co-governance entity is considering requesting the call-in of an application relating to the Upper Waipa River (under subsection (1)'s application of section 23(2)﻿(h) of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 and section 24(2)﻿(h) of the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010):
   (a) the co-governance entity must consult the Trust about whether a call-in should be requested:
   (b) the co-governance entity must have particular regard to the views expressed by the Trust in deciding whether to request a call-in.
 Appointing members to hearing committees
-(4) The following provisions apply to the co-governance entity's decision on appointees to hear an application relating to the Upper Waipa River (under subsection (1)'s application of section 28(2)(b) of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 and section 29(2)(b) of the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010):
+(4) The following provisions apply to the co-governance entity's decision on appointees to hear an application relating to the Upper Waipa River (under subsection (1)'s application of section 28(2)﻿(b) of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 and section 29(2)﻿(b) of the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010):
   (a) the co-governance entity must consult the Trust about who should be appointed:
   (b) the co-governance entity must include in its proposed appointees 1 or more appointees identified by the Trust, unless good reason exists to do otherwise:
   (c) if the co-governance entity fails to comply with paragraph (a) or (b) for an appointee, the appointment cannot be questioned on the ground of the failure:
@@ -247,11 +247,11 @@ Operation of Clean-up Trust
     (iii) funding the project will contribute to the object of the trust as set out in the terms of the trust; and
     (iv) funding the project is not inconsistent with the trustee’s strategy document.
 Recommendations for appointments by Council and territorial authorities
-(7) The following provisions apply when the Council and the territorial authorities are recommending a person for appointment to the co-governance entity (under subsection (1)'s application of clause 2(1)(f) or (g) of Schedule 6 of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 and clause 2(1)(f) or (g) of Schedule 4 of the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010):
+(7) The following provisions apply when the Council and the territorial authorities are recommending a person for appointment to the co-governance entity (under subsection (1)'s application of clause 2(1)﻿(f) or (g) of Schedule 6 of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 and clause 2(1)﻿(f) or (g) of Schedule 4 of the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010):
   (a) the Council and the territorial authorities must apply clause 2(3) of Schedule 6 of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 and clause 2(3) of Schedule 4 of the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010:
   (b) the Council and the territorial authorities whose boundaries fall within, or partly within, the area marked C on SO plan 409144 must also be satisfied that the person has the skills, knowledge, and experience to contribute to achieving the overarching purpose of this Act.
 Appointments by Minister
-(8) The following provisions apply when the Minister is considering whom to appoint to the co-governance entity (under subsection (1)'s application of clause 2(1)(h) of Schedule 6 of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 and clause 2(1)(h) of Schedule 4 of the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010):
+(8) The following provisions apply when the Minister is considering whom to appoint to the co-governance entity (under subsection (1)'s application of clause 2(1)﻿(h) of Schedule 6 of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 and clause 2(1)﻿(h) of Schedule 4 of the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010):
   (a) the Minister must apply clause 2(2) of Schedule 6 of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 and clause 2(2) of Schedule 4 of the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010:
   (b) the Minister must have regard to the persons recommended by the Council and territorial authorities as well as the members already appointed to the co-governance entity:
   (c) the Minister must ensure that the membership of the co-governance entity reflects a balanced mix of knowledge and experience in relation to—
@@ -261,11 +261,11 @@ Appointments by Minister
   (a) the Minister must apply clause 2(5) or (6) of Schedule 6 of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 and clause 2(5) or (6) of Schedule 4 of the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010:
   (b) the Minister must appoint a person who has the skills, knowledge, and experience to contribute to achieving the overarching purpose of this Act.
 Maniapoto vacancy in membership
-(10) Clause 5(2) of Schedule 6 of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 (as applied by subsection (1)) does not apply to a vacancy caused because the appointer named in clause 2(1)(e) of Schedule 6 has not appointed a member or has not appointed a successor to a member. Instead, if such a vacancy arises and lasts at least 3 weeks, the chairperson of the Trust is the member or the successor to the member.
+(10) Clause 5(2) of Schedule 6 of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 (as applied by subsection (1)) does not apply to a vacancy caused because the appointer named in clause 2(1)﻿(e) of Schedule 6 has not appointed a member or has not appointed a successor to a member. Instead, if such a vacancy arises and lasts at least 3 weeks, the chairperson of the Trust is the member or the successor to the member.
 Publication of notices in Waikato region
-(11) Clause 7(5)(a) and (b) of Schedule 6 of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 and clause 7(5)(a) and (b) of Schedule 4 of the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010 (as applied by subsection (1)) are expanded for the purposes of this Act by the addition of and in the area marked C on SO plan 409144.
+(11) Clause 7(5)﻿(a) and (b) of Schedule 6 of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 and clause 7(5)﻿(a) and (b) of Schedule 4 of the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010 (as applied by subsection (1)) are expanded for the purposes of this Act by the addition of and in the area marked C on SO plan 409144.
 Quorum
-(12) Clause 8(6) of Schedule 6 of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 and clause 8(6) of Schedule 4 of the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010 (as applied by subsection (1)) are expanded for the purposes of this Act by the addition of the following sentence:If the meeting is considering matters affecting the Upper Waipa River, the quorum must include the member appointed under clause 2(1)(e).
+(12) Clause 8(6) of Schedule 6 of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 and clause 8(6) of Schedule 4 of the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010 (as applied by subsection (1)) are expanded for the purposes of this Act by the addition of the following sentence:If the meeting is considering matters affecting the Upper Waipa River, the quorum must include the member appointed under clause 2(1)﻿(e).
 
 **Upper Waipa River integrated management plan**
 
@@ -322,7 +322,7 @@ The environmental plan—
 
 ### 16 Effect
 (1) A local authority served under section 15(a) preparing, reviewing, or changing a Resource Management Act 1991 planning document must recognise the environmental plan in the same manner as would be required under the Resource Management Act 1991 for any planning document recognised by an iwi authority.
-(2) A consent authority considering an application for a resource consent under section 104 of the Resource Management Act 1991 must have regard to the environmental plan, if it considers that section 104(1)(c) applies to the plan.
+(2) A consent authority considering an application for a resource consent under section 104 of the Resource Management Act 1991 must have regard to the environmental plan, if it considers that section 104(1)﻿(c) applies to the plan.
 (3) A person carrying out functions or exercising powers under sections 12 to 14 of the Fisheries Act 1996 must recognise and provide for the environmental plan to the extent to which its contents relate to the functions or powers.
 (4) A person carrying out functions or exercising powers under the conservation legislation in relation to the Waipa River and its catchment must have particular regard to the environmental plan to the extent to which its contents relate to the functions or powers.
 
@@ -363,10 +363,10 @@ In working together to develop the joint management agreement, and in working to
 (1) This section applies to monitoring and enforcement relating to the Waipa River and activities within its catchment affecting the Waipa River.
 (2) The part of the joint management agreement on monitoring and enforcement must provide for the local authority and the Trust to—
   (a) meet no less than twice each year to—
-    (i) discuss and agree the priorities for the monitoring of those matters set out in section 35(2)(a) to (e) of the Resource Management Act 1991:
-    (ii) discuss and agree the methods for and extent of the monitoring of those matters set out in section 35(2)(a) to (e) of the Resource Management Act 1991:
-    (iii) discuss the potential for the Trust to participate in the monitoring of those matters set out in section 35(2)(a) to (e) of the Resource Management Act 1991:
-  (b) meet no less than twice each year to discuss appropriate responses to address the outcomes of the monitoring of those matters set out in section 35(2)(a) to (e) of the Resource Management Act 1991, including—
+    (i) discuss and agree the priorities for the monitoring of those matters set out in section 35(2)﻿(a) to (e) of the Resource Management Act 1991:
+    (ii) discuss and agree the methods for and extent of the monitoring of those matters set out in section 35(2)﻿(a) to (e) of the Resource Management Act 1991:
+    (iii) discuss the potential for the Trust to participate in the monitoring of those matters set out in section 35(2)﻿(a) to (e) of the Resource Management Act 1991:
+  (b) meet no less than twice each year to discuss appropriate responses to address the outcomes of the monitoring of those matters set out in section 35(2)﻿(a) to (e) of the Resource Management Act 1991, including—
     (i) the potential for review of Resource Management Act 1991 planning documents; and
     (ii) enforcement under the Resource Management Act 1991, including criteria for the commencement of prosecutions, applications for enforcement orders, the service of abatement notices, and the service of infringement notices:
   (c) agree appropriate procedures for reporting back to the Trust on the enforcement action taken by the local authority:
@@ -419,7 +419,7 @@ In working together to develop the joint management agreement, and in working to
     (v) section 92 (requests for further information):
     (vi) sections 95 to 95F (notification of applications for resource consent):
     (vii) sections 127 and 128 (change, cancellation, or review of consent conditions).
-(3) The criteria developed and agreed under subsection (2)(d)—
+(3) The criteria developed and agreed under subsection (2)﻿(d)—
   (a) are additional to, and must not derogate from, the criteria that the local authority must apply under the Resource Management Act 1991:
   (b) do not impose a requirement on a consent authority to change, cancel, or review consent conditions.
 (4) The local authority and the Trust each bears its own costs of complying with this section.
@@ -436,8 +436,8 @@ Advising Minister of progress
   (a) confirming that all matters relating to the joint management agreement have been agreed; or
   (b) identifying the nature of issues in dispute that the parties have not been able to resolve and the position of the parties on the issues; or
   (c) notifying an electronic or written agreement to extend the date by which a joint management agreement must be in force.
-(5) If notice is given under subsection (4)(a), the notice must also specify the date on which the joint management agreement is to come into force.
-(6) If notice is given under subsection (4)(b), the Minister and the Trust, in consultation with the local authority, must work together to resolve the issues.
+(5) If notice is given under subsection (4)﻿(a), the notice must also specify the date on which the joint management agreement is to come into force.
+(6) If notice is given under subsection (4)﻿(b), the Minister and the Trust, in consultation with the local authority, must work together to resolve the issues.
 (7) The working together may continue for a period of no more than 2 months, unless the Minister and the Trust agree in writing or electronically on a longer period.
 Agreement finalised without ministerial involvement
 (8) If, at the end of 2 months, all matters relating to the joint management agreement have been resolved, the local authority and the Trust must finalise the joint management agreement and give written or electronic notice to the Minister specifying the date on which the joint management agreement is to come into force.
@@ -447,12 +447,12 @@ Agreement finalised with ministerial involvement
   (a) finalise the joint management agreement; and
   (b) give written or electronic notice to the Minister specifying the date on which the joint management agreement is to come into force.
 (11) The Minister may appoint a facilitator or take any other action that the Minister considers appropriate to promote the resolution of any issues in dispute between the local authority and the Trust.
-(12) If notice is given under subsection (4)(c), not less than 4 months before the extended date by which a joint management agreement must be in force, the local authority and the Trust must give written or electronic notice to the Minister and the Trust—
+(12) If notice is given under subsection (4)﻿(c), not less than 4 months before the extended date by which a joint management agreement must be in force, the local authority and the Trust must give written or electronic notice to the Minister and the Trust—
   (a) confirming that—
     (i) all matters relating to the joint management agreement have been agreed; and
     (ii) the joint management agreement will be in force on the extended date; or
   (b) identifying the nature of issues in dispute that the parties have not been able to resolve and the position of the parties on the issues.
-(13) If notice is given under subsection (12)(b), the Minister and the Trust, in consultation with the local authority, must work together to resolve the issue and the provisions of subsections (7) to (11) apply with any necessary modification.
+(13) If notice is given under subsection (12)﻿(b), the Minister and the Trust, in consultation with the local authority, must work together to resolve the issue and the provisions of subsections (7) to (11) apply with any necessary modification.
 Agreement may come into force in stages
 (14) The local authority and the Trust may agree that a joint management agreement is to come into force in stages.
 Minister must get copy of agreement
@@ -514,8 +514,8 @@ The provisions of this Act relating to joint management agreements do not preclu
 (4) The Minister must make any bylaws recommended under subsection (3), unless the Minister is satisfied that the proposed bylaws would have an undue adverse effect on fishing.
 (5) In this section,—
   - **Minister** means the Minister of Fisheries and Aquaculture
-  - **Upper Waipa River** includes the waters that flow into and form part of the Waipa River as they are described in section 3(2)(a)
-  - **Waipa River** includes the waters that flow into and form part of the Waipa River as they are described in section 3(2)(a).
+  - **Upper Waipa River** includes the waters that flow into and form part of the Waipa River as they are described in section 3(2)﻿(a)
+  - **Waipa River** includes the waters that flow into and form part of the Waipa River as they are described in section 3(2)﻿(a).
 
 ### 33 Accords
 (1) The Trust may enter into accords with the following Ministers and persons:
