@@ -1,5 +1,5 @@
 # Rates Rebate Act 1973
-_Consolidation as at 2020-07-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to make provision for the granting of rebates of rates payable in respect of certain residential properties
 
@@ -78,7 +78,7 @@ _Consolidation as at 2020-07-01_
 ### 5 Applications to territorial authority for rates rebate
 (1) Subject to section 6, every application for a rebate of rates shall be made to the territorial authority in whose district the property is situated, whether the rates are payable to that territorial authority or to any other local authority.
 (2) The ratepayer in respect of any residential property may in any rating year apply to that territorial authority for a rebate in accordance with section 3 of the rates due and payable in respect of that property for that rating year.
-(3) Every such application shall be made on a form provided for the purpose by the Secretary for Local Government, shall be verified by the declaration of the applicant, and shall be left at the public office of the territorial authority or sent by post addressed to that office.
+(3) Every such application shall be made on a form approved for the purpose by the Secretary for Local Government, shall be verified in writing by the applicant, and shall be left at the public office of the territorial authority or sent by post addressed to that office.
 (4) Where the amount of any water charges payable to the territorial authority, or of any rates payable to a local authority other than the territorial authority, in respect of the property for the rating year in which the application is made is not known at the time when the application is made, then, for the purpose of determining the amount of the rebate to which the ratepayer is entitled, the amount of those water charges or rates, as the case may be, payable in respect of the property for the rating year shall be deemed to be the same amount as the amount that was payable for the immediately preceding rating year.
 (5) Where application is made to a territorial authority under subsection (2), and the chief executive of the territorial authority or other officer authorised by him for the purpose is satisfied that the application has been properly completed,—
   (a) a rebate of rates shall be granted to the applicant of the amount to which he is entitled on the basis of the information contained in his application; and
@@ -90,8 +90,8 @@ _Consolidation as at 2020-07-01_
 ### 6 Applications for refunds of rates paid
 (1) Notwithstanding anything in section 5, a ratepayer in respect of any residential property may, instead of claiming from the territorial authority a rates rebate for any year under the said section 5, pay the rates in full and apply under subsection (2) for a refund of the amount that he would have been entitled to receive by way of rebate for that year in respect of those rates in accordance with section 3 if application for a rebate had been made under section 5.
 (2) Every application under this section shall—
-  (a) be made on a form provided for the purpose by the Secretary for Local Government; and
-  (b) be verified by the declaration of the applicant; and
+  (a) be made on a form approved for the purpose by the Secretary for Local Government; and
+  (b) be verified in writing by the applicant; and
   (c) be accompanied by the receipts for the rates in respect of which the refund is claimed; and
   (d) be left at the public office of the territorial authority in whose district the property is situated (whether the rates are payable to that territorial authority or to any other local authority), or sent by post addressed to that office.
 (3) Section 5(4) shall apply with respect to any application for a refund made under this section.
@@ -102,8 +102,8 @@ _Consolidation as at 2020-07-01_
   (a) the flat was separately rated and he was the ratepayer in respect thereof; and
   (b) so much of the amount of his contribution in any rating year as was made in respect of rates was the amount of the rates payable in respect of the flat for that rating year.
 (2) Every application under this section shall—
-  (a) be made on a form provided for the purpose by the Secretary for Local Government; and
-  (b) be verified by the declaration of the applicant; and
+  (a) be made on a form approved for the purpose by the Secretary for Local Government; and
+  (b) be verified in writing by the applicant; and
   (c) be accompanied by a certificate in writing signed by the person appearing in the rate records as the occupier of the rateable property of which the owner-occupier flat forms part and specifying—
     (i) the total amount of the rates payable in respect of that rateable property for the rating year; and
     (ii) the amount contributed by the applicant in respect of those rates, or, where no part of the annual contribution made by the applicant was specifically made in respect of rates, the amount of that contribution and the total amount of the annual contributions made by all the owners of owner-occupier flats on the property; and
@@ -123,8 +123,8 @@ _Consolidation as at 2020-07-01_
   (b) the amount of the resident’s rates contribution in any rating year is the amount of the rates payable in respect of the residential unit for that rating year.
 (3) For the purpose of calculating a resident’s income in accordance with section 3 (as applied by subsection (2)), the resident’s income for the preceding tax year includes the income for that tax year of a spouse, a partner, or any other person who was ordinarily resident in the residential unit at the commencement of the rating year for which an application for a refund is made.
 (4) An application for a refund must—
-  (a) be made on a form provided for the purpose by the Secretary for Local Government; and
-  (b) be verified by the declaration of the resident; and
+  (a) be made on a form approved for the purpose by the Secretary for Local Government; and
+  (b) be verified in writing by the resident; and
   (c) be accompanied by a certificate in writing signed by the operator of the retirement village specifying—
     (i) the total amount of the rates payable in respect of that retirement village for the rating year; and
     (ii) the amount of the resident’s rates contribution, and if subsection (5) applies, the amount of the resident’s annual contribution and the total amount of the annual contributions made by all residents of the retirement village; and
@@ -153,7 +153,7 @@ _Consolidation as at 2020-07-01_
 (2)
 
 ### 9 Refund to territorial authorities of rebates granted
-(1) Where any ratepayer has been granted a rebate of rates pursuant to section 5 (including any payment made to the ratepayer pursuant to section 8(1)﻿(d)) or any person has been granted a refund of rates under section 6, 7, or 7A, the Secretary for Local Government shall, on application made to him by the territorial authority on a form provided by him for the purpose, and being satisfied that the rebate or refund has been properly granted in accordance with section 5, 6, 7, or 7A, as the case may be, refund the amount of the rebate or refund to the territorial authority out of money appropriated by Parliament.
+(1) Where any ratepayer has been granted a rebate of rates pursuant to section 5 (including any payment made to the ratepayer pursuant to section 8(1)﻿(d)) or any person has been granted a refund of rates under section 6, 7, or 7A, the Secretary for Local Government shall, on application made to him by the territorial authority on a form approved by him for the purpose, and being satisfied that the rebate or refund has been properly granted in accordance with section 5, 6, 7, or 7A, as the case may be, refund the amount of the rebate or refund to the territorial authority out of money appropriated by Parliament.
 (2) The Secretary for Local Government may from time to time pay to any territorial authority, out of money appropriated by Parliament, such amounts as the Secretary thinks fit by way of advances in anticipation of refunds to be made to the territorial authority pursuant to subsection (1).
 
 ### 10 Recovery of overpayments
@@ -174,18 +174,12 @@ Notwithstanding anything in this Act, the chief executive of a territorial autho
 ### 12 Secrecy
 Except for the purposes of this Act or the Public Finance Act 1989, or of investigating the correctness of any information contained in any application for a rebate under this Act, no officer of a territorial authority shall disclose to any person any information contained in any application for a rebate made under this Act or disclosed or obtained pursuant to section 11.
 
-### 13 Declarations
-(1) Any declaration required for the purposes of this Act may be made before any of the following persons:
-  (a) a person authorised to receive statutory declarations in accordance with section 9 of the Oaths and Declarations Act 1957:
-  (b) an officer of a territorial authority authorised for the purpose by that authority:
-  (c)
-  (d) any person authorised for the purpose by the Minister of Local Government, by notice in the Gazette.
-(2) An officer authorised to receive declarations pursuant to paragraph (b) of subsection (1) may be an officer authorised by name or as the holder for the time being of any specified office in the service of the territorial authority.
-(3) A person authorised to receive declarations pursuant to paragraph (d) of subsection (1) may be a person authorised by name or as the holder for the time being of any specified office or as a person engaged in any specified profession, occupation, or calling.
+### 13 Form of verification
+An application that is required to be verified in writing for the purposes of this Act must be verified in a manner and form approved by the Secretary for Local Government.
 
 ### 14 Offences
 (1) Every person commits an offence who,—
-  (a) for the purpose of obtaining any rates rebate under this Act, for himself or for any other person, makes any statement or declaration knowing it to be false in any particular, or wilfully misleads or attempts to mislead any person concerned in the administration of this Act or any other person whatsoever; or
+  (a) for the purpose of obtaining any rates rebate under this Act, for himself or for any other person, makes any statement or verification knowing it to be false in any particular, or wilfully misleads or attempts to mislead any person concerned in the administration of this Act or any other person whatsoever; or
   (b) refuses or fails to comply with any requirement under section 11, or refuses or fails to answer any question put to him pursuant to that section, or knowingly gives any false or misleading answer to any such question.
 (2) Every person who commits an offence against this Act is liable on conviction before a District Court Judge to imprisonment for a term not exceeding 12 months or to a fine not exceeding $500, or to both.
 (3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the facts alleged in the charging document are brought to the knowledge of any officer of the Department of Internal Affairs concerned in the administration of this Act.
