@@ -1,5 +1,5 @@
 # Maori Housing Amendment Act 1938
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to amend the Maori Housing Act 1935
 
@@ -28,7 +28,7 @@ This Act may be cited as the Maori Housing Amendment Act 1938, and shall be read
 ### 4A Training of young Maoris
 (1) The chief executive may from time to time employ young Maoris in carpentry and other trades associated with house building and may from time to time make suitable arrangements for the training of any such persons.
 (2) Every young Maori who desires to receive any such employment and training shall execute an agreement with the chief executive setting out the conditions and terms under which the training shall be given, and any such agreement shall be binding upon the parties notwithstanding that any party to the agreement may be under the age of 20 years.
-(3) Nothing in the Apprenticeship Act 1983 or in the State Sector Act 1988 or in the New Zealand Railways Corporation Act 1981, or in the Post Office Act 1959 shall apply to any such agreement.
+(3) Nothing in the Apprenticeship Act 1983 or in the Public Service Act 2020 or in the New Zealand Railways Corporation Act 1981, or in the Post Office Act 1959 shall apply to any such agreement.
 
 ## Part  — Disposal of dwellings
 
