@@ -1,5 +1,5 @@
 # Immigration Advisers Licensing Act 2007
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Immigration Advisers Licensing Act 2007.
@@ -308,7 +308,7 @@ If no application for the renewal of a licence is made on or before the date on 
 ### 34 Immigration Advisers Authority established
 (1) The Immigration Advisers Authority is established as a body within the Department.
 (2) The Authority consists of—
-  (a) a Registrar of Immigration Advisers, appointed by the chief executive under the State Sector Act 1988; and
+  (a) a Registrar of Immigration Advisers, appointed by the chief executive under the Public Service Act 2020; and
   (b) such number of other persons as the chief executive appoints to the Authority under that Act.
 
 ### 35 Functions of Authority
@@ -820,7 +820,7 @@ The Registrar may at any time make any amendments to the register that are neces
 (3) The Minister of Justice must present a copy of the report to the House of Representatives as soon as practicable after it is furnished to that Minister.
 
 ### 87 Power of Registrar to delegate
-The Registrar may, under section 41 of the State Sector Act 1988, delegate to any employee, in the same manner and to the same extent as if the Registrar were the chief executive, any of the Registrar's functions, duties, and powers, except this power of delegation.
+The Registrar may, under clauses 2 and 3 of Schedule 6 of the Public Service Act 2020, delegate to any employee, in the same manner and to the same extent as if the Registrar were the chief executive, any of the Registrar's functions, duties, and powers, except this power of delegation.
 
 ### 88 Certificate of Registrar
 (1) A certificate signed by the Registrar in relation to the matters referred to in subsection (2) is for all purposes sufficient evidence, in the absence of proof to the contrary, of those matters specified in the certificate.
@@ -968,7 +968,7 @@ Each member of the Tribunal must, before entering on the performance of his or h
 The chair and other members of the Tribunal are to be paid, out of public money, remuneration by way of fees, salary, or allowances and travelling allowances in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act apply accordingly as if the chair or any other member were a member of a statutory board within the meaning of that Act.
 
 ### 5 Members of Tribunal
-No person holding office as a member of the Tribunal is deemed by reason of his or her holding of that office to be employed in the Government service for the purposes of the Government Superannuation Fund Act 1956 or in the State services for the purposes of the State Sector Act 1988.
+No person holding office as a member of the Tribunal is deemed by reason of his or her holding of that office to be employed in the Government service for the purposes of the Government Superannuation Fund Act 1956 or in the State services for the purposes of the Public Service Act 2020.
 
 ### 6 Witness summons
 (1) For the purposes of any matter before the Tribunal, the Tribunal may, on its own initiative or at the request of a party, issue a summons to any person requiring that person to attend before the Tribunal and give evidence.
