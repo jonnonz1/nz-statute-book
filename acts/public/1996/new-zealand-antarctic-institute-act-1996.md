@@ -1,5 +1,5 @@
 # New Zealand Antarctic Institute Act 1996
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to establish the New Zealand Antarctic Institute to manage New Zealand's Antarctic activities and to provide for incidental matters
 
@@ -83,7 +83,7 @@ The provisions set out in Schedule 1 shall apply in respect of the Institute and
 (3) No member of the Committee shall be entitled to compensation for loss of office resulting from its dissolution.
 
 ### 14 Power to transfer employees of Ministry
-(1) Notwithstanding anything in section 61A of the State Sector Act 1988, where the Secretary of Foreign Affairs and Trade finds, in respect of any duties being carried out by the Ministry of Foreign Affairs and Trade, that those duties are no longer to be carried out by the Ministry and are to be carried out (in whole or in part) by the Institute, the Secretary may, subject to the relevant employment contract and to subsection (2), transfer from the Ministry to the Institute all or any of the employees of the Ministry who are carrying out those duties.
+(1) Notwithstanding anything in section 88 of the Public Service Act 2020, where the Secretary of Foreign Affairs and Trade finds, in respect of any duties being carried out by the Ministry of Foreign Affairs and Trade, that those duties are no longer to be carried out by the Ministry and are to be carried out (in whole or in part) by the Institute, the Secretary may, subject to the relevant employment contract and to subsection (2), transfer from the Ministry to the Institute all or any of the employees of the Ministry who are carrying out those duties.
 (2) Before transferring any employee under this section, the Secretary shall consult with the employee about the proposed transfer.
 
 ### 15 Terms and conditions of employment
