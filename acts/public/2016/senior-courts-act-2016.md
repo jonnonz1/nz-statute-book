@@ -1,5 +1,5 @@
 # Senior Courts Act 2016
-_Consolidation as at 2020-07-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Senior Courts Act 2016.
@@ -275,7 +275,7 @@ An oath, affidavit, or affirmation administered or taken by a Commissioner has t
 **Registrars, Sheriffs, and officers of High Court**
 
 ### 33 Appointment of Registrars, Deputy Registrars, and other officers of High Court
-Registrars, Deputy Registrars, and other officers may be appointed under the State Sector Act 1988 for the conduct of the business of the High Court.
+Registrars, Deputy Registrars, and other officers may be appointed under the Public Service Act 2020 for the conduct of the business of the High Court.
 
 ### 34 Powers of Registrars
 (1) A Registrar has the duties and powers—
@@ -286,7 +286,7 @@ Registrars, Deputy Registrars, and other officers may be appointed under the Sta
 
 ### 35 Sheriffs
 (1) A Registrar is also a Sheriff for New Zealand.
-(2) Deputy Sheriffs may be appointed under the State Sector Act 1988 for offices of the High Court.
+(2) Deputy Sheriffs may be appointed under the Public Service Act 2020 for offices of the High Court.
 (3) In the absence of the Sheriff or when acting for the Sheriff, a Deputy Sheriff has the same duties and powers as a Sheriff.
 
 ### 36 Powers of Sheriffs
@@ -520,7 +520,7 @@ A judgment, an order, or a decree of the Court of Appeal may be enforced by the 
 **Registrar and other officers of Court of Appeal**
 
 ### 63 Appointment of Registrar, Deputy Registrars, and other officers of Court of Appeal
-A Registrar, Deputy Registrars, and other officers may be appointed under the State Sector Act 1988 for the conduct of the business of the Court of Appeal.
+A Registrar, Deputy Registrars, and other officers may be appointed under the Public Service Act 2020 for the conduct of the business of the Court of Appeal.
 
 ### 64 Powers of Registrar and Deputy Registrars
 (1) The Registrar has the powers and duties—
@@ -701,7 +701,7 @@ A judgment, decree, or order of the Supreme Court may be enforced by the High Co
 **Registrar and other officers of Supreme Court**
 
 ### 87 Appointment of Registrar, Deputy Registrar, and other officers of Supreme Court
-(1) A Registrar of the Supreme Court must be appointed under the State Sector Act 1988.
+(1) A Registrar of the Supreme Court must be appointed under the Public Service Act 2020.
 (2) There may also be appointed under that Act Deputy Registrars of the Supreme Court, and any other officers required for the conduct of the court's business.
 
 ### 88 Powers of Registrar
