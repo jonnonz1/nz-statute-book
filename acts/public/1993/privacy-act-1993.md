@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -32,7 +32,12 @@ _Consolidation as at 2020-08-01_
   - **collect** does not include receipt of unsolicited information
   - **Commissioner** means the Privacy Commissioner referred to in section 12 of this Act and appointed in accordance with section 28(1)﻿(b) of the Crown Entities Act 2004
   - **correct** , in relation to personal information, means to alter that information by way of correction, deletion, or addition; and has a corresponding meaning
-  - **department** means a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975
+  - **department** means—
+    (a) a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975:
+    (b) an interdepartmental venture:
+    (c) a departmental agency hosted by a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975:
+    (d) an interdepartmental executive board serviced by a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975 (see also section 120A)
+  - **departmental agency** has the meaning given in section 5 of the Public Service Act 2020
   - **Deputy Commissioner** means the Deputy Privacy Commissioner appointed under section 15
   - **Director of Human Rights Proceedings** means the Director of Human Rights Proceedings or alternate Director of Human Rights Proceedings appointed under section 20A of the Human Rights Act 1993
   - **document** means a document in any form; and includes—
@@ -53,6 +58,8 @@ _Consolidation as at 2020-08-01_
   - **intelligence and security agency** means—
     (a) the New Zealand Security Intelligence Service:
     (b) the Government Communications Security Bureau
+  - **interdepartmental executive board** has the meaning given in section 5 of the Public Service Act 2020
+  - **interdepartmental venture** has the meaning given in section 5 of the Public Service Act 2020
   - **international organisation** means any organisation of States or Governments of States or any organ or agency of any such organisation; and includes the Commonwealth Secretariat
   - **local authority** —
     (a) means a local authority or public body named or specified in Schedule 1 of the Local Government Official Information and Meetings Act 1987; and
@@ -116,6 +123,7 @@ _Consolidation as at 2020-08-01_
   (a) solely as agent; or
   (b) for the sole purpose of safe custody; or
   (c) for the sole purpose of processing the information on behalf of another agency,—
+(5) Despite subsection (1), information that is held by an employee of a department carrying out the functions of a departmental agency must be treated for the purposes of this Act as held by the departmental agency.
 
 ### 4 Actions of, and disclosure of information to, staff of agency, etc
 For the purposes of this Act, an action done by, or information disclosed to, a person employed by, or in the service of, an agency in the performance of the duties of the person's employment shall be treated as having been done by, or disclosed to, the agency.
@@ -272,11 +280,12 @@ For the purpose of—the Commissioner may, from time to time, require any agency
   (b) enabling the Commissioner to respond to enquiries from the public seeking information of the kind referred to in any of paragraphs (a) to (f) of section 21(1),—
 
 ### 23 Privacy officers
-It shall be the responsibility of each agency to ensure that there are, within that agency, 1 or more individuals whose responsibilities include—
+(1) It shall be the responsibility of each agency to ensure that there are, within that agency, 1 or more individuals whose responsibilities include—
   (a) the encouragement of compliance, by the agency, with the information privacy principles:
   (b) dealing with requests made to the agency pursuant to this Act:
   (c) working with the Commissioner in relation to investigations conducted pursuant to Part 8 in relation to the agency:
   (d) otherwise ensuring compliance by the agency with the provisions of this Act.
+(2) In relation to the functions of a departmental agency, the responsibility under this section lies with the departmental agency.
 
 ### 24 Annual report
 (1) Without limiting the right of the Commissioner to report at any other time, but subject to section 120, the annual report of the Commissioner under section 150 of the Crown Entities Act 2004 must include a report with respect to the operation of this Act during the year to which the report relates.
@@ -993,9 +1002,14 @@ In this Part, unless the context otherwise requires,—
   - **adverse action** has the meaning given to it by section 97 and includes a decision to impose a penalty or a fine or to recover a penalty or a fine
   - **approved information sharing agreement** means an information sharing agreement approved by an Order in Council that is for the time being in force
   - **code of practice** means a code of practice issued under section 46
-  - **department** has the meaning given to it by section 2(1) and also includes—
-    (a) the New Zealand Police:
-    (b) the New Zealand Transport Agency
+  - **department** —
+    (a) means—
+      (i) a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975:
+      (ii) an interdepartmental venture:
+      (iii) a departmental agency hosted by a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975; and
+    (b) includes—
+      (i) the New Zealand Police:
+      (ii) the New Zealand Transport Agency
   - **information sharing agreement** or means an agreement between or within agencies that enables the sharing of personal information (whether or not the sharing also includes information that is not personal information) to facilitate the provision of a public service
   - **lead agency** means a department that enters into an information sharing agreement and is designated as the lead agency in—
     (a) the agreement; and
@@ -1674,6 +1688,10 @@ Notwithstanding anything in section 116, the Commissioner may from time to time 
 
 ### 120 Adverse comment
 The Commissioner shall not, in any report or statement made pursuant to this Act or the Crown Entities Act 2004, make any comment that is adverse to any person unless that person has been given an opportunity to be heard.
+
+### 120A Responsibility under Parts 5 and 8 for interdepartmental executive board
+(1) The department that is the servicing department for an interdepartmental executive board is responsible for dealing with all matters arising under Parts 5 and 8 in relation to personal information held by that board.
+(2) This section applies despite the definition of department in section 2(1).
 
 **Delegations**
 
