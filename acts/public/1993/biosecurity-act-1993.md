@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-08-07_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -37,7 +37,7 @@ _Consolidation as at 2020-05-16_
     (d) any thing done under this Act that applies generally:
     (e) any thing done under this Act that applies specifically to a person
   - **border infringement offence** means an infringement offence specified as a border infringement offence by regulations made under this Act
-  - **chief executive** means the head of a department; and includes a chief executive appointed under the State Sector Act 1988
+  - **chief executive** means the head of a department; and includes a chief executive appointed under the Public Service Act 2020
   - **chief technical officer** means a person appointed a chief technical officer under section 101
   - **compliance order** means an order made under section 154
   - **consultation** includes actions taken before the enactment of this Act in anticipation of its enactment; and has a corresponding meaning
@@ -56,7 +56,7 @@ _Consolidation as at 2020-05-16_
       (ii) a structure or installation that is imported by being towed through the sea
   - **craft risk management plan** means a plan approved under section 24K
   - **craft risk management standard** means a standard issued under section 24G
-  - **department** has the same meaning as in the State Sector Act 1988
+  - **department** has the same meaning as in section 5 of the Public Service Act 2020
   - **Director-General** means the chief executive of the Ministry
   - **EEZ** has the same meaning as it has in Part 8A
   - **effects** , in sections 12A and 12B and Part 5,—
@@ -3108,13 +3108,13 @@ The explanatory note of a readiness or response levy order made under section 10
 ### 101 Chief technical officers
 (1) The Director-General shall appoint chief technical officers for the purposes of this Act, being in each case a person with appropriate experience, technical competence, and qualifications relevant to the area of responsibilities allocated by the Director-General to that person.
 (2) The chief executive of a department recognised by the responsible Minister as having responsibilities for natural and physical resources or human health that could be adversely affected by an organism may appoint chief technical officers for the purposes of this Act, being in each case a person with appropriate experience, technical competence, and qualifications relevant to the area of responsibilities allocated by the chief executive to that person.
-(2A) A person appointed as a chief technical officer must be employed under the State Sector Act 1988.
+(2A) A person appointed as a chief technical officer must be employed under the Public Service Act 2020.
 (3) A chief technical officer appointed under subsection (2) may exercise all the powers and perform all the functions and duties conferred on a chief technical officer by this Act except those powers conferred under sections 103(1), 116, 126, and 127.
 (4) The chief executive (including the Director-General) may not delegate to any person the power to appoint chief technical officers.
 
 ### 102 Deputy chief technical officers
 (1) The Director-General and the chief executive of any other department may appoint, in respect of any chief technical officer appointed by the Director-General or that chief executive, 1 or more deputy chief technical officers who must in each case be a person with appropriate experience, technical competence, and qualifications relevant to the area of responsibilities allocated by the chief executive to that person.
-(lA) A person appointed as a deputy chief technical officer must be employed under the State Sector Act 1988.
+(1A) A person appointed as a deputy chief technical officer must be employed under the Public Service Act 2020.
 (2) Subject to the direction of the chief technical officer concerned, a deputy chief technical officer shall have and may exercise all of the powers, duties, and functions of a chief technical officer under this Act, including the power to appoint inspectors, authorised persons, and accredited persons.
 (3) The chief executive (including the Director-General) may not delegate to any person the power to appoint deputy chief technical officers.
 
@@ -3127,7 +3127,7 @@ The explanatory note of a readiness or response levy order made under section 10
   (b) appoint authorised persons for the purposes of a national pest management plan or a national pathway management plan.
 (3) The principal officer of a region may from time to time appoint authorised persons for the purpose of exercising functions, powers, and duties under this Act in relation to any regional pest management plan or a regional pathway management plan in force in the region or any small-scale management programme declared by the council for that region, or to ascertain the presence or distribution of any pest, pest agent, or unwanted organism.
 (4) A person shall not be appointed as an inspector or an authorised person unless the person has appropriate experience, technical competence, and qualifications relevant to the area of responsibilities proposed to be allocated to that person.
-(5) Inspectors or authorised persons appointed under this section may, but need not, be persons who are employed under the State Sector Act 1988 or by a regional council.
+(5) Inspectors or authorised persons appointed under this section may, but need not, be persons who are employed under the Public Service Act 2020 or by a regional council.
 (6) Inspectors and authorised persons may be authorised on their appointment to exercise all of the powers conferred on inspectors and authorised persons under this Act, or the regulations, or only such of those powers as are specified in their instruments of appointment or subsequently by written notice.
 (7) A chief technical officer or the principal officer of a region may accredit persons for the purposes of performing particular functions—but may not accredit a person for a particular function unless satisfied that the person has appropriate experience, technical competence, and qualifications relevant to the function.
   (a) that are consequential upon the exercise of powers under this Act by an inspector or authorised person; or
@@ -3177,7 +3177,7 @@ The explanatory note of a readiness or response levy order made under section 10
 ### 105B Appointment of auditors
 (1) The Director-General may appoint auditors under this Act.
 (2) The Director-General may appoint as auditors only those persons who have appropriate experience, technical competence, and qualifications relevant to the audits.
-(3) Auditors may, but need not, be persons who are employed under the State Sector Act 1988 or by a regional council.
+(3) Auditors may, but need not, be persons who are employed under the Public Service Act 2020 or by a regional council.
 
 ### 105C Audits
 (1) The Director-General must set terms of reference for audits.
@@ -4754,7 +4754,7 @@ Definition for this section
   (f) a certificate purporting to be signed by the principal officer of a regional council stating that a person specified in the certificate is—
     (i) an authorised person appointed under section 103(3) in relation to a regional pest management plan or a regional pathway management plan or a small-scale management programme specified or described in, or attached to, the certificate; or
     (ii) a person accredited for a particular function under section 103(7):
-  (g) a certificate purporting to be signed by any person authorised by this Act, the State Sector Act 1988, or the Local Government Act 2002 to delegate to any person (or people of any kind or description) the exercise or performance of any power or function under this Act stating that—
+  (g) a certificate purporting to be signed by any person authorised by this Act, the Public Service Act 2020, or the Local Government Act 2002 to delegate to any person (or people of any kind or description) the exercise or performance of any power or function under this Act stating that—
     (i) the person has delegated the exercise or performance of the power or function under this Act specified in the certificate to the person specified in the certificate; or
     (ii) the person has delegated the exercise or performance of the power or function under this Act specified in the certificate to people of a kind or description specified in the certificate, and that a person specified in the certificate is a person of that kind or description:
   (h) a certificate purporting to be signed by the Director-General stating that a place specified in the certificate is—
