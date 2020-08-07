@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -1924,7 +1924,7 @@ A mortgagee’s or receiver’s power to sell mortgaged land, or to sell mines o
   (f) sixthly, to the payment of any surplus to the current mortgagor.
 (2) The amounts are amounts reasonably paid or advanced at any time by the mortgagee—
   (a) for the protection, insurance, maintenance, preservation, or repair of the mortgaged property; or
-  (b) for the payment of rates or other outgoings; or
+  (b) for the payment of rates, a levy under the Infrastructure Funding and Financing Act 2020, or other outgoings; or
   (c) to meet the expenses of the mortgagee in entering into possession, or in doing anything that a mortgagee in possession is required or entitled to do; or
   (d) with a view to the realisation of the security (including any additional amount referred to in section 120(2) or 129(2)).
 (3) For the purposes of—
@@ -3607,6 +3607,7 @@ The purpose of this subpart is to enable a court to order that property acquired
   (a) was insolvent at the time, or became insolvent as a result, of making the disposition; or
   (b) was engaged, or was about to engage, in a business or transaction for which the remaining assets of the debtor were, given the nature of the business or transaction, unreasonably small; or
   (c) intended to incur, or believed, or reasonably should have believed, that the debtor would incur, debts beyond the debtor’s ability to pay.
+(3) However, this subpart does not apply to dispositions to which the limit in section 142(3) of the Infrastructure Funding and Financing Act 2020 applies under a levy order made under that Act.
 
 ### 347 Application for order under section 348
 (1) Only the following may apply for an order under section 348:
