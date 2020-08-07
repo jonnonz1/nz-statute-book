@@ -1,5 +1,5 @@
 # State Sector Amendment Act (No 2) 1989
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2020-08-07_
 
 > An Act to amend The State Sector Act 1988
 
@@ -136,7 +136,7 @@ This Act may be cited as The State Sector Amendment Act (No 2) 1989, and shall b
 (3) Nothing in section 77J of the principal Act (as amended by section 23 of this Act) shall apply to an appointment made under subsection (1) of this section.
 
 ### 36 Transitional provisions in relation to persons employed by universities
-(1) Notwithstanding section 32 of this Act, the determination, dated the 28th day of September 1989 and made by the Higher Salaries Commission in respect of the remuneration of persons covered by subparagraphs (iii) and (vi) of section 12(1)(a) of The Higher Salaries Commission Act 1977, shall continue in force after the commencement of this Act, except so far as other provision is duly made fixing the terms and conditions of employment to which that determination relates.
+(1) Notwithstanding section 32 of this Act, the determination, dated the 28th day of September 1989 and made by the Higher Salaries Commission in respect of the remuneration of persons covered by subparagraphs (iii) and (vi) of section 12(1)﻿(a) of The Higher Salaries Commission Act 1977, shall continue in force after the commencement of this Act, except so far as other provision is duly made fixing the terms and conditions of employment to which that determination relates.
 (2) The conditions of employment of persons employed at any university at the commencement of this Act shall remain in force until varied either individually or through an award or an agreement.
 
 ### 37 Transitional appeal rights of employees of polytechnics and colleges of education
