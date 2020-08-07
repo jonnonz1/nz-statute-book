@@ -1,5 +1,5 @@
 # Education and Training Act 2020
-_Consolidation as at 2020-07-31_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Education and Training Act 2020.
@@ -1738,7 +1738,7 @@ Other provisions relating to boards are set out in the following schedules:
   (e) comply with all of its other obligations under this or any other Act.
 
 ### 128 Staff
-A board may, in accordance with the State Sector Act 1988, appoint, suspend, and dismiss school staff.
+A board may, in accordance with the Public Service Act 2020, appoint, suspend, and dismiss school staff.
 
 ### 129 Boards may appoint, suspend, and dismiss principal
 (1) The powers conferred on a board by section 128 include the powers to appoint, suspend, and dismiss a principal.
@@ -3168,12 +3168,12 @@ An Order in Council establishing an institution must make provision for determin
 
 ### 280 Functions of councils
 The functions of an institution’s council are—
-  (a) to appoint a chief executive in accordance with the State Sector Act 1988, and to monitor and evaluate the chief executive’s performance:
+  (a) to appoint a chief executive in accordance with the Public Service Act 2020, and to monitor and evaluate the chief executive’s performance:
   (b) to prepare and submit a proposed plan if the institution is seeking funding under a funding mechanism that provides for funding via plans:
   (c) if the institution has a plan,—
     (i) to ensure that the institution is managed in accordance with that plan; and
     (ii) to determine policies to implement that plan:
-  (d) to determine, subject to the State Sector Act 1988, the policies of the institution in relation to the management of its affairs:
+  (d) to determine, subject to the Public Service Act 2020, the policies of the institution in relation to the management of its affairs:
   (e) to undertake planning relating to the institution’s long-term strategic direction.
 
 ### 281 Duties of councils
@@ -3239,7 +3239,7 @@ The functions of an institution’s council are—
 (4) An institution’s council has the power to appoint committees consisting of the persons, whether or not members of the council, that the council determines to exercise the powers that are delegated to them under section 285 and the powers that are conferred on them by statutes made by the council, and to alter, discharge, and reconstitute committees so appointed.
 
 ### 284 Statutes
-(1) An institution’s council may make statutes, not inconsistent with this Act or the State Sector Act 1988, in relation to any of the following matters:
+(1) An institution’s council may make statutes, not inconsistent with this Act or the Public Service Act 2020, in relation to any of the following matters:
   (a) the good government and discipline of the institution and the board of an NZIST subsidiary:
   (b) the imposition, by or on behalf of the council, of penalties upon staff or students of the institution for a contravention of or a failure to comply with a statute with respect to a matter referred to in paragraph (a):
   (c) subject to sections 255, 256, 257, 258, 260, 309, 310, 386, 525, and 526, and clause 8 of Schedule 9, the enrolment of persons in courses of study or training of the institution or the admission of persons to examinations of the institution:
@@ -5156,7 +5156,7 @@ A member of NZQA may be paid any allowances in respect of child care that NZQA d
 The Chief Review Officer must—
   (a) administer reviews, either general or relating to particular matters, of the performance of applicable organisations in relation to the applicable services they provide—
     (i) when directed by the Minister to do so; or
-    (ii) on the Chief Review Officer’s own motion (despite section 32 of the State Sector Act 1988); and
+    (ii) on the Chief Review Officer’s own motion (despite section 52 of the Public Service Act 2020); and
   (b) administer the preparation of reports to the Minister on the undertaking and results of the reviews; and
   (c) give the Minister any other assistance and advice on the performance of the applicable organisations that the Minister requires.
 
@@ -5371,8 +5371,8 @@ The Teaching Council may establish advisory committees for specific aspects of i
 (2) When preparing the code of conduct (and any amendments to it), the Teaching Council—
   (a) must take all reasonable steps—
     (i) to consult those who are to be bound by it; and
-    (ii) to consult the State Services Commissioner; and
-  (b) must have regard to any relevant minimum standards of integrity and conduct or code of conduct that the State Services Commissioner sets or issues under section 57 of the State Sector Act 1988.
+    (ii) to consult the Public Service Commissioner; and
+  (b) must have regard to any relevant minimum standards of integrity and conduct or code of conduct that the Public Service Commissioner sets or issues under section 17 of the Public Service Act 2020.
 (3) The code of conduct must be signed by the chairperson of the Teaching Council, and—
   (a) notice of it must be given in the Gazette; and
   (b) the notice must say where copies of the code may be obtained free of charge; and
@@ -6405,49 +6405,49 @@ Despite section 583,—
 Except as otherwise provided in this subpart, the Employment Relations Act 2000 applies in relation to the education service.
 
 ### 586 Negotiation of conditions of employment
-(1) Except as provided in section 593, the State Services Commissioner is responsible for negotiating under the Employment Relations Act 2000 every collective agreement applicable to employees in the education service as if the Commissioner were the employer.
+(1) Except as provided in section 593, the Public Service Commissioner is responsible for negotiating under the Employment Relations Act 2000 every collective agreement applicable to employees in the education service as if the Commissioner were the employer.
 (2) Without limiting subsection (1), for the purposes of initiating bargaining for a collective agreement, good-faith bargaining for a collective agreement, and entering into collective agreements,—
-  (a) the State Services Commissioner has the same rights, duties, and obligations under the Employment Relations Act 2000 as the Commissioner would have if the Commissioner were the employer; and
+  (a) the Public Service Commissioner has the same rights, duties, and obligations under the Employment Relations Act 2000 as the Commissioner would have if the Commissioner were the employer; and
   (b) employees in the education service are to be treated as if they were all employees of the Commissioner.
-(3) Unless otherwise directed in writing by the State Services Commissioner, an employer in the education service may not lock out employees or suspend striking employees in relation to negotiations by the Commissioner for a collective agreement applicable to those employees.
-(4) The State Services Commissioner must conduct the negotiations—
+(3) Unless otherwise directed in writing by the Public Service Commissioner, an employer in the education service may not lock out employees or suspend striking employees in relation to negotiations by the Commissioner for a collective agreement applicable to those employees.
+(4) The Public Service Commissioner must conduct the negotiations—
   (a) with a union of which the employees are members; and
   (b) in consultation with—
     (i) the Secretary; and
     (ii) representatives of the employer or employers who are to be bound by the collective agreement, which representatives must be employers, or organisations of employers, of persons employed in the education service.
 (5) Every collective agreement must be entered into between—
-  (a) the State Services Commissioner; and
+  (a) the Public Service Commissioner; and
   (b) a union of which the employees to whom the collective agreement is applicable are members.
-(6) Every collective agreement entered into between the State Services Commissioner and any union and relating to employees in the education service is binding on—
+(6) Every collective agreement entered into between the Public Service Commissioner and any union and relating to employees in the education service is binding on—
   (a) the employers of the employees to whom the collective agreement is applicable; and
   (b) the employees in the education service who are, or who become, members of the union.
 (7) Except as provided in this section, an employer who is bound by a collective agreement under subsection (6) has the rights, obligations, and duties that the employer would have, in respect of that collective agreement, under the Employment Relations Act 2000 as if that employer were a party to that agreement.
 
-### 587 State Services Commissioner's powers when collective agreements are negotiated
-(1) During the negotiations for a collective agreement that is to bind any employees of a board, the State Services Commissioner has, for the purpose of those negotiations, all the rights, duties, and powers of an employer under the Employment Relations Act 2000 in respect of those employees.
+### 587 Public Service Commissioner's powers when collective agreements are negotiated
+(1) During the negotiations for a collective agreement that is to bind any employees of a board, the Public Service Commissioner has, for the purpose of those negotiations, all the rights, duties, and powers of an employer under the Employment Relations Act 2000 in respect of those employees.
 (2) To avoid doubt and without limiting subsection (1), the powers referred to in that subsection include the power to lock out or suspend employees.
-(3) Despite subsection (1), in the case of employees who are members of a union, the State Services Commissioner may, where there is a strike, exercise the power of suspension by advising the union of the class or classes of employees who are, or are to be, suspended, and, if the union is so advised, the suspension takes effect on the date specified for the purpose in the advice, and the Commissioner need not—
+(3) Despite subsection (1), in the case of employees who are members of a union, the Public Service Commissioner may, where there is a strike, exercise the power of suspension by advising the union of the class or classes of employees who are, or are to be, suspended, and, if the union is so advised, the suspension takes effect on the date specified for the purpose in the advice, and the Commissioner need not—
   (a) separately advise any employee who is included in a class; or
   (b) comply with section 89 of the Employment Relations Act 2000.
-(4) In any case where the State Services Commissioner has suspended or locked out an employee under this section, the Commissioner may, at the Commissioner’s discretion, give either or both of the following directions:
+(4) In any case where the Public Service Commissioner has suspended or locked out an employee under this section, the Commissioner may, at the Commissioner’s discretion, give either or both of the following directions:
   (a) that the employee is not to be remunerated in respect of the period of the suspension or lockout:
   (b) that any amount paid to the employee in respect of that period be deducted from any remuneration otherwise payable to the employee.
 (5) Any direction under subsection (4)—
   (a) may be given to any person responsible for effecting payments or transfers of sums of money required for the remuneration of the employee; and
   (b) must be followed by the person.
-(6) The State Services Commissioner may give any notice that, as a result of a direction under subsection (4)﻿(b), is required to be given to an employee under section 6(3)﻿(b) of the Wages Protection Act 1983.
+(6) The Public Service Commissioner may give any notice that, as a result of a direction under subsection (4)﻿(b), is required to be given to an employee under section 6(3)﻿(b) of the Wages Protection Act 1983.
 (7) Subsection (1)—
   (a) overrides section 601(2); and
   (b) is subject to sections 589 and 590.
 
-### 588 Boards indemnified by State Services Commissioner
-(1) If, in any claim or proceedings, a board becomes liable for costs or damages that arise from the exercise or purported exercise of any of the powers conferred on the State Services Commissioner by section 587, the Commissioner must, out of money appropriated for the purpose by Parliament, indemnify the board for those costs or damages.
-(2) However, a board may not be indemnified for any costs or damages to the extent that those costs or damages arise out of conduct of the board that, in the reasonable opinion of the State Services Commissioner,—
+### 588 Boards indemnified by Public Service Commissioner
+(1) If, in any claim or proceedings, a board becomes liable for costs or damages that arise from the exercise or purported exercise of any of the powers conferred on the Public Service Commissioner by section 587, the Commissioner must, out of money appropriated for the purpose by Parliament, indemnify the board for those costs or damages.
+(2) However, a board may not be indemnified for any costs or damages to the extent that those costs or damages arise out of conduct of the board that, in the reasonable opinion of the Public Service Commissioner,—
   (a) is not in good faith; or
   (b) is engaged in without reasonable care.
 
 ### 589 Strikes in schools to be notified
-(1) A strike by employees of any board is not lawful for the purposes of the Employment Relations Act 2000 unless the State Services Commissioner and each board are given notice in written or electronic form of the proposed strike 3 days before the commencement of the proposed strike.
+(1) A strike by employees of any board is not lawful for the purposes of the Employment Relations Act 2000 unless the Public Service Commissioner and each board are given notice in written or electronic form of the proposed strike 3 days before the commencement of the proposed strike.
 (2) The notice required by subsection (1) must state—
   (a) the nature of the proposed strike, including whether or not the proposed action is to be continuous; and
   (b) the school or schools that are to be affected by the proposed strike; and
@@ -6458,50 +6458,50 @@ Except as otherwise provided in this subpart, the Employment Relations Act 2000 
 (4) Unless the notice is withdrawn before the commencement of the strike, every employee is, throughout the period stated in the notice, to be treated as participating in the strike if—
   (a) the employee's duties are normally performed in a school affected by the strike; and
   (b) the strike relates to the negotiation of a collective agreement that is to bind the employee; and
-  (c) the employee's name has not been notified to the State Services Commissioner in a current notice given under section 590.
-(5) A notice required under subsection (1) may be withdrawn by a representative of the employees' union giving written or electronic notice of the withdrawal to the State Services Commissioner and each board.
+  (c) the employee's name has not been notified to the Public Service Commissioner in a current notice given under section 590.
+(5) A notice required under subsection (1) may be withdrawn by a representative of the employees' union giving written or electronic notice of the withdrawal to the Public Service Commissioner and each board.
 (6) This section is in addition to, and does not limit or affect, the Employment Relations Act 2000.
 
-### 590 Boards to notify State Services Commissioner about participation in strikes
+### 590 Boards to notify Public Service Commissioner about participation in strikes
 (1) As soon as practicable after the commencement of a strike notified under section 589, the board of each school to which the notice relates must—
-  (a) provide the State Services Commissioner with a list of the names of the employees of the board who are not participating in the strike notified by the notice; and
+  (a) provide the Public Service Commissioner with a list of the names of the employees of the board who are not participating in the strike notified by the notice; and
   (b) notify each of those employees that they have been included in the list.
-(2) A board that has complied, or is to comply, with subsection (1) must, at the written direction of the State Services Commissioner, provide the Commissioner with any information required by the Commissioner about the conduct of the strike to which the notice under section 589 relates.
+(2) A board that has complied, or is to comply, with subsection (1) must, at the written direction of the Public Service Commissioner, provide the Commissioner with any information required by the Commissioner about the conduct of the strike to which the notice under section 589 relates.
 (3) Information under subsection (2) may, without limitation, include, or consist of, information about the number of hours worked by any employee or any class of employee.
-(4) The State Services Commissioner may, at the Commissioner's discretion, require a board to inform the Commissioner, by a specified date, about the board’s compliance with this section or any directions given under it.
-(5) If the State Services Commissioner has reasonable grounds for believing that a board has failed to comply with this section or any directions given under it, the Commissioner may report those grounds to the Minister.
+(4) The Public Service Commissioner may, at the Commissioner's discretion, require a board to inform the Commissioner, by a specified date, about the board’s compliance with this section or any directions given under it.
+(5) If the Public Service Commissioner has reasonable grounds for believing that a board has failed to comply with this section or any directions given under it, the Commissioner may report those grounds to the Minister.
 
 ### 591 Personal grievances and disputes
 Despite section 586,—
   (a) in relation to a personal grievance, the employer is the employer as defined in section 10(7); and
-  (b) in relation to a dispute about the interpretation, application, or operation of any collective agreement, the employer is the employer as defined in section 10(7), acting, if the State Services Commissioner so requires, together or in consultation with the Commissioner; and
+  (b) in relation to a dispute about the interpretation, application, or operation of any collective agreement, the employer is the employer as defined in section 10(7), acting, if the Public Service Commissioner so requires, together or in consultation with the Commissioner; and
   (c) in relation to any other employment relationship problem (within the meaning of section 5 of the Employment Relations Act 2000), the employer is the employer as defined in section 10(7).
 
-### 592 Delegation of State Services Commissioner's powers
-(1) The State Services Commissioner may delegate, in writing, any of the Commissioner’s powers specified in section 586 to—
+### 592 Delegation of Public Service Commissioner's powers
+(1) The Public Service Commissioner may delegate, in writing, any of the Commissioner’s powers specified in section 586 to—
   (a) an employer; or
   (b) any organisation of employers of persons employed in the education service.
-(2) If the State Services Commissioner, acting under subsection (1), delegates to an employer or an organisation of employers the function, under section 586(1), of conducting negotiations with a union of which the employees are members, the employer or organisation of employers must conduct those negotiations in consultation with—
+(2) If the Public Service Commissioner, acting under subsection (1), delegates to an employer or an organisation of employers the function, under section 586(1), of conducting negotiations with a union of which the employees are members, the employer or organisation of employers must conduct those negotiations in consultation with—
   (a) the Commissioner; and
   (b) the Secretary.
-(3) Nothing in this section limits section 23 of the State Sector Act 1988.
+(3) Nothing in this section limits clause 6 of Schedule 3 of the Public Service Act 2020.
 
 ### 593 Negotiation of conditions of employment for employees of institutions
 (1) The chief executive of each institution is responsible, individually or jointly through an organisation of employers of persons employed in an institution, for negotiating under the Employment Relations Act 2000 collective agreements that are applicable to a group of employees in an institution.
-(2) Before entering into a collective agreement under the Employment Relations Act 2000, the chief executive of each institution or an organisation of employers representing jointly the chief executives, must consult the State Services Commissioner about the conditions of employment to be included in the collective agreement.
+(2) Before entering into a collective agreement under the Employment Relations Act 2000, the chief executive of each institution or an organisation of employers representing jointly the chief executives, must consult the Public Service Commissioner about the conditions of employment to be included in the collective agreement.
 
 ### 594 Senior positions at institutions
-(1) The conditions of employment of every person appointed to a senior position at an institution who is not bound by any collective agreement must be determined in each case by agreement between the employer and the person to be appointed, but the employer must consult the State Services Commissioner before finalising the conditions of employment.
+(1) The conditions of employment of every person appointed to a senior position at an institution who is not bound by any collective agreement must be determined in each case by agreement between the employer and the person to be appointed, but the employer must consult the Public Service Commissioner before finalising the conditions of employment.
 (2) For the purposes of subsection (1), senior position means the position or positions immediately below, in seniority, the position of the chief executive of the institution, and any other positions that the council of the institution may designate as being senior positions within the institution.
 
 ### 595 Actual conditions of employment
-(1) The State Services Commissioner may declare that all or any part of the conditions of employment fixed under a collective agreement for persons employed in the education service are to be the actual conditions of employment.
-(2) The State Services Commissioner may, in addition to the actual conditions declared under subsection (1), approve further conditions of employment for an individual employee who is employed in the education service under a collective agreement if the conditions are—
+(1) The Public Service Commissioner may declare that all or any part of the conditions of employment fixed under a collective agreement for persons employed in the education service are to be the actual conditions of employment.
+(2) The Public Service Commissioner may, in addition to the actual conditions declared under subsection (1), approve further conditions of employment for an individual employee who is employed in the education service under a collective agreement if the conditions are—
   (a) mutually agreed by the employee and their employer; and
   (b) not inconsistent with the conditions of the collective agreement.
-(3) The conditions of employment of employees in the education service who are not bound by any collective agreement must be determined in each case by agreement between the employer and the individual employee, but the employer must obtain the written concurrence of the State Services Commissioner to the conditions of employment with that individual employee.
-(4) The State Services Commissioner, in carrying out the function under subsection (3), may promulgate in writing to employers, either generally or specifically, the conditions of employment for persons who are to have their conditions of employment determined in accordance with that subsection.
-(5) Where the conditions of employment agreed between the employer and the person to be appointed comply with the conditions of employment promulgated by the State Services Commissioner, the employer must, without any further action, be treated as having obtained the written concurrence of the Commissioner with those conditions of employment.
+(3) The conditions of employment of employees in the education service who are not bound by any collective agreement must be determined in each case by agreement between the employer and the individual employee, but the employer must obtain the written concurrence of the Public Service Commissioner to the conditions of employment with that individual employee.
+(4) The Public Service Commissioner, in carrying out the function under subsection (3), may promulgate in writing to employers, either generally or specifically, the conditions of employment for persons who are to have their conditions of employment determined in accordance with that subsection.
+(5) Where the conditions of employment agreed between the employer and the person to be appointed comply with the conditions of employment promulgated by the Public Service Commissioner, the employer must, without any further action, be treated as having obtained the written concurrence of the Commissioner with those conditions of employment.
 (6) In this section, education service excludes service in the employment of an institution.
 
 ### 596 Personal liability of education service chief executives and employees
@@ -6538,7 +6538,7 @@ Education service chief executives and employees are not personally liable for a
 (3) Before the Secretary issues a code of conduct under this section, the Secretary must consult—
   (a) representatives of the employers whose employees are to be bound by the code of conduct, which representatives must be employers, or organisations of employers, of persons employed in the education service; and
   (b) the organisations of employees employed in the education service that represent the employees who are to be bound by the code of conduct; and
-  (c) the State Services Commissioner, and must have regard to any code of conduct issued by the Commissioner under section 57 of the State Sector Act 1988.
+  (c) the Public Service Commissioner, and must have regard to any code of conduct issued by the Commissioner under section 17 of the Public Service Act 2020.
 (4) Nothing in this section prevents an employer from prescribing standards of integrity or conduct that are to apply to that employer's employees (being standards that are not inconsistent with any code of conduct issued by the Secretary under this section and that apply in relation to employees of that employer).
 (5) Nothing in this section applies to any institution.
 
@@ -6621,7 +6621,7 @@ A council may reappoint its existing chief executive for a further term without 
 ### 611 Conditions of employment of chief executive
 (1) A chief executive must be appointed for a term of not more than 5 years.
 (2) A chief executive is eligible for reappointment.
-(3) Except where specific conditions of employment for a chief executive are provided in this Act, the conditions of employment of a chief executive must be determined in each case by agreement between the council of the institution and the chief executive, but the council must obtain the written agreement of the State Services Commissioner to the conditions of employment before finalising the conditions of employment with the chief executive or amending any or all of the conditions once they have been finalised.
+(3) Except where specific conditions of employment for a chief executive are provided in this Act, the conditions of employment of a chief executive must be determined in each case by agreement between the council of the institution and the chief executive, but the council must obtain the written agreement of the Public Service Commissioner to the conditions of employment before finalising the conditions of employment with the chief executive or amending any or all of the conditions once they have been finalised.
 
 ### 612 Removal from office
 The council, for just cause or excuse, may remove the chief executive from office.
@@ -7482,7 +7482,7 @@ An enrolment scheme that complies with section 71 (regardless of whether that se
 ### 17 Transitional provisions for employment of staff
 (1) A person who was a member of the staff of an institution immediately before the commencement of this clause must, after that commencement, unless the employment of the person would, apart from this Act, have ended on that commencement, be, under this subclause, in the employment of the chief executive of the institution, on the same terms and conditions as those on which the person was employed immediately before that commencement, until the person’s employment terminates or is terminated in accordance with those terms and conditions.
 (2) The terms and conditions of employment of a person to whom subclause (1) applies must remain in force until varied either individually or through a collective agreement.
-(3) This clause applies subject to the Employment Relations Act 2000 and the State Sector Act 1988.
+(3) This clause applies subject to the Employment Relations Act 2000 and the Public Service Act 2020.
 
 #### Subpart 5 — Specific provisions for Part 4 (NZIST and work-based training)
 
@@ -8326,7 +8326,7 @@ If a person who proposes to establish a school with the intention that it become
 (1) Any proprietor may enter into integration agreements for the integration of more than 1 school.
 (2) There must be a separate integration agreement for each school that is to become a State integrated school.
 (3) If the Minister and the proprietor agree, the terms of an integration agreement may be varied by a supplementary agreement.
-(4) Despite clause 5(5), the Minister’s power to enter into a supplementary agreement may be delegated under section 28 of the State Sector Act 1988.
+(4) Despite clause 5(5), the Minister’s power to enter into a supplementary agreement may be delegated under clause 5 of Schedule 6 of the Public Service Act 2020.
 (5) An integration agreement is, for all purposes, a binding agreement between the proprietor and the Crown.
 
 ### 8 Effective date of integration agreement
@@ -8572,7 +8572,7 @@ The right of access specified in clause 39(2)﻿(i) does not give a proprietor t
 **Appointment and employment of teachers**
 
 ### 46 Requirements in respect of appointments of teachers
-(1) The board of a State integrated school must appoint teachers in that school in accordance with the State Sector Act 1988.
+(1) The board of a State integrated school must appoint teachers in that school in accordance with the Public Service Act 2020.
 (2) When a board delegates to a committee the power to appoint a teacher or to recommend the appointment of a teacher, that committee must contain at least 1 of the persons appointed to the board by the proprietor.
 
 ### 47 Religious instruction: appointments to special positions relating to character of State integrated school
@@ -8619,9 +8619,9 @@ In the case of a State integrated primary school, the person to be appointed to 
 (1) If an integration agreement is implemented in respect of a private school in accordance with clauses 5 and 8,—
   (a) the contract of service of every teacher at that school is to be treated as being terminated from the effective date of integration; and
   (b) each of those teachers, if the teacher so wishes, is to be treated as being in the employment of the board of the State integrated school until the teacher is formally appointed to a teaching position under subclause (4), and subclause (6) applies accordingly from the effective date of integration; and
-  (c) each teaching position at that school must, within 60 days after the effective date of integration, be advertised as required by the State Sector Act 1988.
+  (c) each teaching position at that school must, within 60 days after the effective date of integration, be advertised as required by the Public Service Act 2020.
 (2) The advertisement must state that the teacher appointed to the position as at the effective date of integration, if the teacher so wishes, has an absolute right of appointment to that position irrespective of the qualifications of any other applicant.
-(3) The teacher previously appointed to the position advertised under subclause (1) must, if the teacher wishes to continue in that appointment, apply in the manner prescribed by the State Sector Act 1988 for appointment to that position.
+(3) The teacher previously appointed to the position advertised under subclause (1) must, if the teacher wishes to continue in that appointment, apply in the manner prescribed by the Public Service Act 2020 for appointment to that position.
 (4) A teacher who applies must be appointed to the position.
 (5) A teacher who does not so apply is to be treated as having relinquished the position.
 (6) A teacher who is appointed to a teaching position must—
@@ -8643,10 +8643,10 @@ When a contract of employment of a teacher is treated as being terminated under 
 Any obligation or other commitment entered into by the managers of a private school before the integration of that school as a condition of a grant under this Act binds the proprietor of that school, whether or not the obligation or commitment is specified in the integration agreement.
 
 ### 58 Relationship between this schedule and other Parts of Act and other enactments
-(1) If this schedule deals with the same subject matter as, or similar subject matter to, any other provisions of this Act, the State Sector Act 1988, or any regulations made under either of those Acts or under any enactment repealed by either of those Acts,—
+(1) If this schedule deals with the same subject matter as, or similar subject matter to, any other provisions of this Act, the Public Service Act 2020, or any regulations made under either of those Acts or under any enactment repealed by either of those Acts,—
   (a) express provisions in this schedule prevail in respect of State integrated schools; but
   (b) this schedule must be interpreted in a way that is consistent with the provisions of this Act or any other enactments concerned whenever this construction is appropriate and reasonable.
-(2) Subject to clauses 1 and 2, if any matter concerning State integrated schools is not dealt with by express provision in this schedule, the appropriate provisions of this Act, the State Sector Act 1988, and any regulations made under any of those provisions or under any enactment repealed by this Act or the State Sector Act 1988 apply.
+(2) Subject to clauses 1 and 2, if any matter concerning State integrated schools is not dealt with by express provision in this schedule, the appropriate provisions of this Act, the Public Service Act 2020, and any regulations made under any of those provisions or under any enactment repealed by this Act or the Public Service Act 2020 apply.
 
 ## Schedule 7 — Private schools
 
@@ -10526,7 +10526,7 @@ The powers of a board are not affected by—
 (9) The reasonable costs of Public Trust in acting under this clause must be paid out of money appropriated by Parliament for the purpose.
 
 ### 13 Allocation of employees after combined board split
-A notice under clause 8(1) must specify one of the boards it establishes as the residual employer of the employees of the combined board to which it relates, and—
+A notice under clause 10(1) must specify one of the boards it establishes as the residual employer of the employees of the combined board to which it relates, and—
   (a) subject to paragraph (b), the people who were, immediately before the day specified in the notice, employees of the combined board on that day become employees of the board specified, and their service in the employment of the combined board is to be treated for all purposes as service in the employment of the board specified; and
   (b) before that day, the Secretary may, by written notice to any employee of the combined board, specify one of the boards as the board by which the employee is to become employed, and in that case, if the employee is still employed by the combined board immediately before that day,—
     (i) the employee on that day becomes an employee of the board specified; and
@@ -10534,7 +10534,7 @@ A notice under clause 8(1) must specify one of the boards it establishes as the 
 
 ### 14 Transfer of assets of split combined board
 (1) Subject to clauses 12 and 13,—
-  (a) all rights, assets, liabilities, and debts that a combined board split by a notice under clause 12 had immediately before the day specified in the notice are to be treated as having become the rights, assets, liabilities, and debts of the boards established by the notice; and
+  (a) all rights, assets, liabilities, and debts that a combined board split by a notice under clause 10 had immediately before the day specified in the notice are to be treated as having become the rights, assets, liabilities, and debts of the boards established by the notice; and
   (b) any property that, immediately before it became an asset of a board under this section, was subject to a trust, vests in the board subject to the trust.
 (2) If any dispute arises as to whether any right, asset, liability, or debt has, under subclause (1), become a right, asset, liability, or debt of one board or another, the dispute must be referred to the Secretary, and—
   (a) the Secretary must attempt by mediation to bring the parties to the dispute to an agreement; and
