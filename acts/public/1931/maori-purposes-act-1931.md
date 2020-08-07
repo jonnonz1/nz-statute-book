@@ -1,5 +1,5 @@
 # Maori Purposes Act 1931
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate various amendments of the laws relating to Maori lands, to adjust certain claims and disputes, to bestow powers upon certain Boards and authorities, to confer jurisdiction upon the Maori Land Court and the Maori Appellate Court, and for other purposes
 
@@ -96,7 +96,7 @@ The administration of Rotokakahi Lake (or Green Lake), situate in the Waiariki M
 ### 27 Provision for appointment of East Coast Commissioner
 (1) For the purpose of administering and controlling the lands referred to in the East Coast Native Trust Lands Act 1902 and those described in section 7 of the Native Land Amendment and Native Land Claims Adjustment Act 1917 the Governor-General may from time to time appoint a Commissioner, who shall be known as the East Coast Commissioner and shall hold office during the pleasure of the Governor-General.
 (2) During his term of office the Commissioner shall be deemed to have vested in him all property now or hereafter vested by law in the East Coast Commissioner, subject to all trusts, encumbrances, or conditions affecting the same.
-(3) The Commissioner so appointed and any officer acting under him may, notwithstanding the provisions of section 59 of the Public Service Act 1912, be an officer in the Public Service, and all salaries and expenses incurred shall be a charge on the lands vested in the Commissioner, and be paid out of the proceeds thereof.
+(3) The Commissioner so appointed and any officer acting under him may, notwithstanding the provisions of section 59 of the Public Service Act 1912, be an officer in the public service, and all salaries and expenses incurred shall be a charge on the lands vested in the Commissioner, and be paid out of the proceeds thereof.
 ((4))
   (a) In the case of absence or inability to act or of a vacancy in the office of the Commissioner, the Governor-General may appoint some person as the deputy of the Commissioner during his absence or inability or until a successor is appointed, and the deputy so appointed shall, while the Warrant remains unrevoked, have all the powers and functions of the Commissioner.
   (b) The fact of any person acting as deputy under an unrevoked Warrant shall be conclusive proof of his authority to act, and no Warrant shall be questioned on the ground that the occasion for it has not arisen or had ceased, nor shall the authority or act of the Commissioner be questioned in any proceedings on the ground that a deputy was in office at the time when that authority was exercised or that act was done.
