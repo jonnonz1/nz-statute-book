@@ -1,5 +1,5 @@
 # Trade in Endangered Species Act 1989
-_Consolidation as at 2020-01-09_
+_Consolidation as at 2020-08-07_
 
 > An Act to further the protection and conservation of endangered species of wild fauna and flora by regulating the export and import of such species and any product derived from those species
 
@@ -304,7 +304,7 @@ The Director-General may, after (if necessary) consultation with the appropriate
 
 ### 35 Endangered Species Officers
 (1) Every inspector appointed under the Ministry of Agriculture and Fisheries Act 1953 or the Biosecurity Act 1993 and every Customs officer shall be an Endangered Species Officer for the purposes of this Act.
-(2) Notwithstanding subsection (1), there may from time to time be appointed pursuant to the State Sector Act 1988 such other persons to be Endangered Species Officers as may be required for the purposes of this Act.
+(2) Notwithstanding subsection (1), there may from time to time be appointed pursuant to the Public Service Act 2020 such other persons to be Endangered Species Officers as may be required for the purposes of this Act.
 
 ### 36 Authority to act as officer
 (1) The Director-General shall issue to any officer appointed under section 35(2) a warrant authorising the officer to exercise the powers conferred on officers under this Part.
