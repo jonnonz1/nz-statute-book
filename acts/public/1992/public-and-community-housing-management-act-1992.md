@@ -1,5 +1,5 @@
 # Public and Community Housing Management Act 1992
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 > Title
 
@@ -1224,7 +1224,7 @@ If the agency is not the Ministry and regulations under section 136(1)﻿(a) est
   (b) may not delegate any other power under this Part, the calculation mechanism, or Schedule 3, except to a person who is—
     (i) an employee of the agency; or
     (ii) engaged by the agency under a contract for services providing for the person to exercise that power.
-(2) Despite subsection (1), if the agency is a department, it may delegate any power under this Part to the chief executive of another department or Kāinga Ora–Homes and Communities, or to an employee of the department, in accordance with section 41 of the State Sector Act 1988.
+(2) Despite subsection (1), if the agency is a department, it may delegate any power under this Part to the chief executive of another department or Kāinga Ora–Homes and Communities, or to an employee of the department, in accordance with clauses 2 and 3 of Schedule 6 of the Public Service Act 2020.
 (3) A power that has been delegated in accordance with subsection (2) may, with the consent of the agency, be delegated,—
   (a) by the chief executive of a department, to a departmental agency or an employee of that department or departmental agency:
   (b) by Kāinga Ora–Homes and Communities, to an employee of Kāinga Ora–Homes and Communities:
@@ -1352,7 +1352,7 @@ In this section and in sections 146 to 155, unless the context otherwise require
 (6) A notice under this section may be given by electronic means in accordance with subpart 2 of Part 4 of the Contract and Commercial Law Act 2017.
 
 ### 148 Issue of deduction notice to State sector employer
-In any case where a tenant is employed within a department (within the meaning of the State Sector Act 1988), a deduction notice may be issued under section 146 to the chief executive of that department in respect of any salary or wages payable to the tenant.
+In any case where a tenant is employed within a department (as defined in section 5 of the Public Service Act 2020), a deduction notice may be issued under section 146 to the chief executive of that department in respect of any salary or wages payable to the tenant.
 
 ### 149 Discharge of debt
 In any case where a third party deducts, under a deduction notice, any money payable to a tenant, the tenant is, to the extent of the amount deducted, discharged from his or her debt to the Crown.
@@ -1729,7 +1729,7 @@ If regulations under section 187(1)﻿(a) establish a body to dispose of appeals
 (1) The authority may not delegate a power under this Part, except to—
   (a) an employee of the authority; or
   (b) a person engaged by the authority under a contract for services providing for the person to exercise that power.
-(2) Despite subsection (1), if the authority is a department it may, in accordance with section 41 of the State Sector Act 1988, delegate any power under this Part to the chief executive of another department, or to an employee of the department.
+(2) Despite subsection (1), if the authority is a department it may, in accordance with clauses 2 and 3 of Schedule 6 of the Public Service Act 2020, delegate any power under this Part to the chief executive of another department, or to an employee of the department.
 (3) A power delegated by the authority in accordance with subsection (1) or (2) may, with the consent of the authority, be further delegated,—
   (a) by the chief executive of a department or departmental agency, to an employee of that department or departmental agency; or
   (b) by an employee of the authority, to another employee of the authority.
