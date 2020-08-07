@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-08-07_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -4990,6 +4990,7 @@ If a transaction or charge is set aside under section 294, the court may make 1 
     (iii) if—the period of 2 years before the making of the application to the court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
       (A) an application was made to the court to put a company into liquidation; and
       (B) after the making of the application to the court a liquidator was appointed under paragraph (a) or paragraph (b) of section 241(2),—
+(4) This section does not apply to transactions to which the limit in section 142(2) of the Infrastructure Funding and Financing Act 2020 applies under a levy order made under that Act.
 
 ### 298 Transactions for inadequate or excessive consideration with directors and certain other persons
 (1) Where, within the specified period, a company has acquired a business or property from, or the services of,—the liquidator may recover from the person, relative, company, or related company, as the case may be, any amount by which the value of the consideration given for the acquisition of the business, property, or services exceeded the value of the business, property, or services at the time of the acquisition.
@@ -5814,7 +5815,7 @@ A company must not apply to be removed from the New Zealand register under secti
 ## Part 20 — Registrar of Companies
 
 ### 357 Registrar and Deputy Registrars of Companies
-(1) There must be—each of whom must be appointed under the State Sector Act 1988.
+(1) There must be—each of whom must be appointed under the Public Service Act 2020.
   (a) a Registrar of Companies; and
   (b) as many Deputy Registrars of Companies as may be necessary for the purposes of this Act and the Limited Partnerships Act 2008,—
 (2) Subject to the control of the Registrar a Deputy Registrar has and may exercise the powers, duties and functions of the Registrar under this Act, the Financial Reporting Act 2013, and the Limited Partnerships Act 2008.
@@ -5822,7 +5823,7 @@ A company must not apply to be removed from the New Zealand register under secti
 (4) The person holding office as Registrar of Companies under the Companies Act 1955 and every person holding office as a Deputy Registrar of Companies under that Act, immediately before the commencement of this Act, shall be deemed to have been appointed as Registrar of Companies or as a Deputy Registrar of Companies, as the case may be, in accordance with this section.
 
 ### 358 District and Assistant Registrars of Companies
-(1) As many District Registrars of Companies and Assistant Registrars of Companies as may be necessary for the purposes of this Act must be appointed under the State Sector Act 1988.
+(1) As many District Registrars of Companies and Assistant Registrars of Companies as may be necessary for the purposes of this Act must be appointed under the Public Service Act 2020.
 (2) Subject to the control of the Registrar and of a Deputy Registrar, a District Registrar has and may exercise the powers, duties, and functions of the Registrar.
 (3) Subject to the control of the Registrar, a Deputy Registrar, and a District Registrar, an Assistant Registrar has and may exercise all the powers, duties, and functions of the Registrar.
 (4) The fact that a District Registrar or an Assistant Registrar exercises those powers, duties, or functions is conclusive evidence of the authority to do so.
