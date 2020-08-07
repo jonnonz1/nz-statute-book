@@ -1,5 +1,5 @@
 # Remuneration Authority Act 1977
-_Consolidation as at 2020-07-01_
+_Consolidation as at 2020-08-07_
 
 > Title
 
@@ -37,7 +37,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
 (1) The Authority shall consist of 3 members, to be appointed by the Governor-General by Order in Council.
 (2) One member of the Authority shall be so appointed as the Chairman of the Authority.
 (3) The Authority may from time to time appoint one of the other members of the Authority to be the Deputy Chairman of the Authority.
-(4) No member of the Authority shall be deemed to be employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason of his being a member of the Authority.
+(4) No member of the Authority shall be deemed to be employed in the service of Her Majesty for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason of his being a member of the Authority.
 
 ### 6 Term of office
 (1) Except as otherwise provided in this Act, every member of the Authority shall be appointed for a term not exceeding 3 years, but may from time to time be reappointed.
