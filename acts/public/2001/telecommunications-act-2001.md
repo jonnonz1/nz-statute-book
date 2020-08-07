@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2020-01-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -2295,7 +2295,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 (1) In this subpart, maintenance includes—
   (a) any repairs and any other activities for the purpose of maintaining, or that have the effect of maintaining, lines or works; and
   (b) the carrying out of any replacement or upgrade of lines or works as long as the land will not be injuriously affected as a result of the replacement or upgrade.
-(2) Subsection (1) does not have the effect of making an activity of a kind referred to in that subsection a permitted use under a district plan or regional plan under the Resource Management Act 1991 if the activity would not have otherwise been a permitted use.
+(2) Subsection (1) does not have the effect of making an activity of a kind referred to in that subsection a permitted use under a district plan or regional plan under the Resource Management Act 1991 or a development plan under the Urban Development Act 2020 if the activity would not have otherwise been a permitted use.
 
 ### 118 Meaning of evidence of authority
 In this subpart, evidence of authority, in relation to an officer, employee, or agent of a network operator, means a written authority issued to that officer, employee, or agent by the network operator that states—
@@ -2323,6 +2323,7 @@ In this subpart, evidence of authority, in relation to an officer, employee, or 
 (2) Nothing in subsection (1) limits a local authority's or other person's ability to impose reasonable conditions under section 135(2) or section 142(2)﻿(b).
 (3) However, a condition requiring a network operator to increase amenity values (rather than to merely maintain them) must not be imposed unless the work to be done is in an area identified in a district plan as an area in relation to which, under the district plan, there are particular considerations, or rules or requirements, relating to amenity values.
 (4) If the cost to the network operator of complying with a condition referred to in subsection (3) is higher than it would have been if there were not a requirement to increase amenity values, then the person imposing the condition must pay that increase in cost.
+(5) In subsection (3), a reference to a district plan includes a reference to a development plan under the Urban Development Act 2020.
 
 **Rights of entry to land in respect of lines**
 
