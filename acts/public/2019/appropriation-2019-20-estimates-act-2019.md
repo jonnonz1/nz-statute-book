@@ -1,5 +1,5 @@
 # Appropriation (2019/20 Estimates) Act 2019
-_Consolidation as at 2019-09-23_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Appropriation (2019/20 Estimates) Act 2019.
