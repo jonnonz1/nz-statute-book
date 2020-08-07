@@ -1,5 +1,5 @@
 # Foreign Affairs Act 1988
-_Consolidation as at 2005-01-25_
+_Consolidation as at 2020-08-07_
 
 > An Act to make better provision for the conduct of relations between New Zealand and foreign states generally
 
@@ -19,7 +19,7 @@ In this Act, unless the context otherwise requires,—
   - **Ministry** means the Ministry of Foreign Affairs and Trade
   - **Secretary** means the Secretary of Foreign Affairs and Trade
   - **State** means any State, country, or territory; but does not include New Zealand
-  - **State services** has the meaning given to it by section 2(1) of the State Sector Act 1988.
+  - **State services** has the meaning given to it by section 5 of the Public Service Act 2020.
 
 ### 2A Maori name of Ministry of Foreign Affairs and Trade
 The name of the Ministry of Foreign Affairs and Trade is, in the Maori language, Manatū Aorere.
@@ -29,7 +29,7 @@ The chief executive of the Ministry shall be known as the Secretary of Foreign A
 
 ### 4 Appointment of head of mission or head of post
 (1) The Governor-General may from time to time appoint or reappoint any person as a head of mission or head of post.
-(2) The procedure put in place by the Secretary pursuant to section 65 of the State Sector Act 1988 shall not apply to any appointment or reappointment of a head of mission or head of post.
+(2) The procedure put in place by the Secretary pursuant to clause 5 of Schedule 8 of the Public Service Act 2020 shall not apply to any appointment or reappointment of a head of mission or head of post.
 
 ### 5 Removal from office
 The Governor-General may from time to time remove any head of mission or head of post from office.
@@ -42,7 +42,7 @@ The Governor-General may from time to time remove any head of mission or head of
 (2) The Secretary may reassign—any person who is assigned to service overseas under subsection (1).
   (a) to service in New Zealand; or
   (b) to other service overseas,—
-(3) The procedure put in place by the Secretary pursuant to section 65 of the State Sector Act 1988 shall not apply to assignments or reassignments pursuant to this section.
+(3) The procedure put in place by the Secretary pursuant to clause 5 of Schedule 8 of the Public Service Act 2020 shall not apply to assignments or reassignments pursuant to this section.
 
 ### 7 Conditions of service overseas
 The Secretary shall determine the allowances and other conditions of service applicable to—
