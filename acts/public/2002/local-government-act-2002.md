@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -22,10 +22,13 @@ In order to recognise and respect the Crown's responsibility to take appropriate
 
 ### 5 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **activity** means a good or service provided by, or on behalf of, a local authority or a council-controlled organisation; and includes—
-    (a) the provision of facilities and amenities; and
-    (b) the making of grants; and
-    (c) the performance of regulatory and other governmental functions
+  - **activity** —
+    (a) means goods or a service provided by, or on behalf of, a local authority or a council-controlled organisation; and
+    (b) includes—
+      (i) the provision of facilities and amenities; and
+      (ii) the making of grants; and
+      (iii) the performance of regulatory and other governmental functions; and
+    (c) also includes, in section 106, subpart 5 of Part 8, and Schedule 13, the construction of eligible infrastructure that has been, or is intended to be, transferred by a responsible SPV to a responsible infrastructure authority under section 90 of the Infrastructure Funding and Financing Act 2020
   - **affected** ,—
     (a) in relation to a local authority, means a local authority whose district or region is or contains an affected area:
     (b) in relation to a territorial authority, means a territorial authority whose district is or contains an affected area
@@ -54,6 +57,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   - **discretionary function** means any activity or service that a local authority is not specifically authorised or required to undertake or provide by or under an enactment but that is instead provided by the local authority in accordance with its discretionary power under section 12(2)
   - **district** means the district of a territorial authority
   - **enforcement officer** means a person appointed by a local authority to exercise the powers of an enforcement officer in relation to offences against, and infringement offences under, this Act, including enforcement of the bylaws of the local authority
+  - **eligible infrastructure** has the same meaning as in section 8 of the Infrastructure Funding and Financing Act 2020
   - **equity security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
   - **financial year** means a period of 12 months ending on 30 June
   - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
@@ -67,6 +71,8 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   - **group of activities** means 1 or more related activities provided by, or on behalf of, a local authority or council-controlled organisation
   - **Internet site** , in relation to a local authority or other person or entity, means an Internet site that is maintained by, or on behalf of, the local authority, person, or entity and to which the public has free access
   - **land value** has the meaning set out in section 2 of the Rating Valuations Act 1998
+  - **levy area** has the same meaning as in section 7 of the Infrastructure Funding and Financing Act 2020
+  - **levy order** has the same meaning as in section 7 of the Infrastructure Funding and Financing Act 2020
   - **local authority** means a regional council or territorial authority
   - **local board** means—
     (a) a local board established by Order in Council under section 25; or
@@ -99,6 +105,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   - **network infrastructure** has the meaning set out in section 197(2)
   - **operating expenses** and have the same meaning as under generally accepted accounting practice
   - **permanent committee** means a committee of 1 or more local authorities that is established or continued by an enactment and that cannot be disestablished or discharged by the local authority or local authorities
+  - **protected Māori land** has the same meaning as in section 11 of the Infrastructure Funding and Financing Act 2020
   - **public notice** , in relation to a notice given by a local authority, means one that—
     (a) is made publicly available, until any opportunity for review or appeal in relation to the matter notified has lapsed, on the local authority’s Internet site; and
     (b) is published in at least—
@@ -122,6 +129,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
     (c) the capacity of the local authority to perform its role, and the financial and other costs of doing so
   - **significant** , in relation to any issue, proposal, decision, or other matter, means that the issue, proposal, decision, or other matter has a high degree of significance
   - **special consultative procedure** means the procedure set out in section 83
+  - **SPV** means a responsible SPV that is identified by a levy order made under the Infrastructure Funding and Financing Act 2020 as having responsibility for the construction of eligible infrastructure
   - **statutory obligation** means any responsibility, duty, or legal obligation conferred by or under any Act, and includes any powers associated with that responsibility, duty, or legal obligation
   - **strategic asset** , in relation to the assets held by a local authority, means an asset or group of assets that the local authority needs to retain if the local authority is to maintain the local authority's capacity to achieve or promote any outcome that the local authority determines to be important to the current or future well-being of the community; and includes— means a city council or a district council named in Part 2 of Schedule 2
     (a) any asset or group of assets listed in accordance with section 76AA(3) by the local authority; and
@@ -688,14 +696,14 @@ There continues to be a Local Government Commission.
     (i) the Minister for Māori Development; and
     (ii) the New Zealand Local Government Association Incorporated.
 (3) The powers of the Commission are not affected by any vacancy in its membership.
-(4) No person is to be treated as employed in the service of the Crown for the purposes of the Government Superannuation Fund Act 1956 or the State Sector Act 1988 because the person is a member of the Commission.
+(4) No person is to be treated as employed in the service of the Crown for the purposes of the Government Superannuation Fund Act 1956 or the Public Service Act 2020 because the person is a member of the Commission.
 (5) In this section, tikanga Māori means Māori custom and practice.
 
 ### 34 Additional powers of Commission
 (1) For the purposes of performing its functions under this Act, the Commission—
   (a) has the powers of the District Court exercising its civil jurisdiction in respect of citing parties and conducting and maintaining order at any meeting or hearing; and
   (b) is to be treated as an inquiry for the purposes of sections 14, 19 to 27, 29, 30, and 34 of the Inquiries Act 2013.
-(2) The chairperson of the Commission, or any other person (being a member of the Commission or an officer of the Public Service) acting by direction or with the authority of the chairperson, may do any act preliminary or incidental to the investigation or consideration of any matter by the Commission.
+(2) The chairperson of the Commission, or any other person (being a member of the Commission or an officer of the public service) acting by direction or with the authority of the chairperson, may do any act preliminary or incidental to the investigation or consideration of any matter by the Commission.
 
 ### 35 Evidence before Commission
 (1) The Evidence Act 2006 applies to the Commission and its members, and to all proceedings before the Commission, in the same manner as if the Commission were a court within the meaning of that Act.
@@ -1263,6 +1271,10 @@ A local authority must not lend money, or provide any other financial accommodat
 (3) If a council-controlled organisation has undertaken to obtain or has obtained compensation from its shareholders in respect of any activity, the undertaking or the amount of compensation obtained must be recorded in the annual report of the council-controlled organisation.
 (4) Each local authority that receives an annual report under this section must publish the annual report on an Internet site maintained by or on behalf of the local authority within 1 month of receiving it, and must maintain the report on that site for a period of no less than 7 years.
 
+### 67A Extension of time limit for 2019/20 financial year annual reports: COVID-19
+(1) Despite the time limit in section 67(1), in relation to the financial year ending with 30 June 2020 the board of a council-controlled organisation must comply with section 67(1)﻿(a), (b), and (c) before the close of 30 November 2020.
+(2) This section is repealed on 1 February 2021.
+
 ### 68 Content of reports on operations of council-controlled organisations
 A report on the operations of a council-controlled organisation under section 67 must—
   (a) contain the information that is necessary to enable an informed assessment of the operations of that organisation and its subsidiaries, including—
@@ -1718,6 +1730,10 @@ If a local authority carries out consultation in relation to an amendment to a l
 (5) The summary must represent, fairly and consistently, the information regarding the major matters dealt with in the annual report.
 (6) A local authority must, within 1 month after the adoption of its annual report, make the report and the summary prepared under subsection (4)﻿(b) publicly available.
 
+### 98A Extension of time limit for 2019/20 financial year annual reports: COVID-19
+(1) Despite the time limit in section 98(3), in relation to the financial year ending with 30 June 2020 a local authority must complete and adopt its annual report before the close of 31 December 2020.
+(2) This section is repealed on 1 February 2021.
+
 ### 99 Audit of information in annual report and summary
 (1) In addition to the information required by Part 3 of Schedule 10, the annual report must contain the Auditor-General's report on—
   (a) the financial statements referred to in clause 29 of Schedule 10; and
@@ -1897,6 +1913,7 @@ A policy adopted under section 102(1) must state the local authority's policies 
   (a) the principal public office of the local authority; and
   (b) such other places within its district or region as the local authority considers necessary in order to provide members of the public with reasonable access to the methodology, provisions, or plan.
 (6) A policy adopted under section 102(1) must be reviewed at least once every 3 years using a consultation process that gives effect to the requirements of section 82.
+(7) In this section, capital expenditure includes any funding provided by a responsible levy authority to contribute to the construction costs of eligible infrastructure that has been, or is intended to be, transferred to the authority under section 90 of the Infrastructure Funding and Financing Act 2020.
 
 ### 107 Policy on partnerships with private sector
 [Repealed]
@@ -2150,6 +2167,11 @@ A local government organisation may only transfer a water service under section 
     (i) the pricing of water services; and
     (ii) the development of policy related to the delivery of water services.
 (3) This section does not limit contracts in relation to water services that are entered into solely between local government organisations.
+(4) A contract entered into by a local government organisation is not a contract to which subsection (1) applies merely because the local government organisation agrees to any 1 or more of the following:
+  (a) to propose the use of a levy under the Infrastructure Funding and Financing Act 2020 to support the construction of eligible infrastructure:
+  (b) to carry out any aspect of the administration of a levy under that Act:
+  (c) the vesting of eligible infrastructure under that Act:
+  (d) to contribute to the construction costs of the eligible infrastructure.
 
 **Joint local government arrangements and joint arrangements with other entities**
 
@@ -2175,6 +2197,11 @@ A local government organisation may only transfer a water service under section 
   (d) not sell or transfer ownership of any existing infrastructure associated with the water service, unless the local government organisation reasonably believes that the sale is—
     (i) incidental to the joint arrangement; and
     (ii) desirable for the success of the joint arrangement.
+(4A) An arrangement entered into by a local government organisation is not a joint arrangement or a joint local government arrangement to which this section applies merely because the arrangement includes doing any 1 or more of the following:
+  (a) proposing the use of a levy under the Infrastructure Funding and Financing Act 2020 to support the construction of eligible infrastructure:
+  (b) carrying out any aspect of the administration of a levy under that Act:
+  (c) the vesting of eligible infrastructure under that Act:
+  (d) contributing to the costs of the construction of the eligible infrastructure.
 (5) In this section, concession or other franchise agreement means an agreement under which a person other than the local government organisation is entitled to receive a payment from any person other than the local government organisation for the supply of the water service.
 
 ### Subpart 3 — Restrictions on disposal of parks, reserves, and endowment properties
@@ -2724,6 +2751,7 @@ A bylaw that is not reviewed as required under section 158 or 159, if not earlie
     (iii) damage to the environment; or
   (b) there is danger to any works or adjoining property.
 (2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3, and sections 118 and 119) apply.
+(3) A local authority may also use the powers in subsection (1) for the purpose of accessing eligible infrastructure under the control of an SPV under the Infrastructure Funding and Financing Act 2020.
 
 ### 174 Authority to act
 (1) If an officer of a local authority or other person is authorised by this Act or another enactment to enter private land on behalf of the local authority, the local authority must provide a written warrant under the seal of the local authority as evidence that the person is so authorised.
@@ -2920,7 +2948,7 @@ A person who is supplied with reticulated water by, or on behalf of, a local aut
 The purpose of the development contributions provisions in this Act is to enable territorial authorities to recover from those persons undertaking development a fair, equitable, and proportionate portion of the total cost of capital expenditure necessary to service growth over the long term.
 
 ### 197AB Development contributions principles
-All persons exercising duties and functions under this subpart must take into account the following principles when preparing a development contributions policy under section 106 or requiring development contributions under section 198:
+(1) All persons exercising duties and functions under this subpart must take into account the following principles when preparing a development contributions policy under section 106 or requiring development contributions under section 198:
   (a) development contributions should only be required if the effects or cumulative effects of developments will create or have created a requirement for the territorial authority to provide or to have provided new or additional assets or assets of increased capacity:
   (b) development contributions should be determined in a manner that is generally consistent with the capacity life of the assets for which they are intended to be used and in a way that avoids over-recovery of costs allocated to development contribution funding:
   (c) cost allocations used to establish development contributions should be determined according to, and be proportional to, the persons who will benefit from the assets to be provided (including the community as a whole) as well as those who create the need for those assets:
@@ -2932,10 +2960,12 @@ All persons exercising duties and functions under this subpart must take into ac
   (g) when calculating and requiring development contributions, territorial authorities may group together certain developments by geographic area or categories of land use, provided that—
     (i) the grouping is done in a manner that balances practical and administrative efficiencies with considerations of fairness and equity; and
     (ii) grouping by geographic area avoids grouping across an entire district wherever practical.
+(2) In subsection (1)﻿(a), assets includes eligible infrastructure that has been, or is intended to be, transferred by a responsible SPV to a responsible infrastructure authority under section 90 of the Infrastructure Funding and Financing Act 2020.
 
 ### 197 Interpretation
 (1) In this subpart and Schedule 13,—
   - **allotment** has the meaning given to it in section 218(2) of the Resource Management Act 1991
+  - **capital expenditure** includes any funding provided by a responsible levy authority to contribute to the construction costs of eligible infrastructure that has been, or is intended to be, transferred to the authority under section 90 of the Infrastructure Funding and Financing Act 2020
   - **development** means—
     (a) any subdivision, building (as defined in section 8 of the Building Act 2004), land use, or work that generates a demand for reserves, network infrastructure, or community infrastructure; but
     (b) does not include the pipes or lines of a network utility operator
@@ -2977,6 +3007,8 @@ All persons exercising duties and functions under this subpart must take into ac
   (b) as the case may be, a matter that gives rise to any right to apply to the chief executive for a determination under the Building Act 2004.
 (4) Subsection (3) is for the avoidance of doubt.
 (4A) If a development contribution policy provides for a development contribution under subsection (1)﻿(b), the territorial authority may require that development contribution to be made when granting a certificate of acceptance under section 98 of the Building Act 2004 if a development contribution would have been required had a building consent been granted for the building work in respect of which the certificate is granted.
+(4B) Subsection (4C) applies if Kāinga Ora–Homes and Communities is responsible for granting the consent, authorisation, or certificate referred to in subsection (1) or (4A).
+(4C) Kāinga Ora–Homes and Communities may, as appropriate and by agreement with the local authority, exercise the power under the relevant subsection on the local authority's behalf.
 (5) In this section,—
   - **building consent authority** means a person whose name is entered in the register referred to in section 273(1)﻿(a) of the Building Act 2004
   - **chief executive** has the meaning given to it in section 7 of the Building Act 2004.
@@ -3145,7 +3177,8 @@ A territorial authority must supply all secretarial and administrative services 
   (a) each new asset, additional asset, asset of increased capacity, or programme of works for which the development contributions requirements set out in the development contributions policy are intended to be used or have already been used; and
   (b) the estimated capital cost of each asset described in paragraph (a); and
   (c) the proportion of the capital cost that the territorial authority proposes to recover through development contributions; and
-  (d) the proportion of the capital cost that the territorial authority proposes to recover from other sources.
+  (d) the proportion of the capital cost that the territorial authority proposes to recover from other sources; and
+  (e) if the asset is eligible infrastructure that has been, or is intended to be, transferred by a responsible SPV to a responsible infrastructure authority under section 90 of the Infrastructure Funding and Financing Act 2020, the proportion of the capital cost to be funded by a levy under that Act and from other sources.
 (2) For the purposes of subsection (1), assets for which development contributions are required can be grouped together into logical and appropriate groups of assets that reflect the intended or completed programmes of works or capacity expansion.
 (3) A schedule under subsection (1) must also include assets for which capital expenditure has already been incurred by a territorial authority in anticipation of development.
 (4) Information in the schedule under subsection (1) must group assets according to the district or parts of the district for which the development contribution is required, and by the activity or group of activities for which the development contribution is required.
@@ -3294,7 +3327,7 @@ Despite sections 197AB(d) and 205, if the territorial authority considers that t
 **Powers to recover unpaid development contributions**
 
 ### 208 Powers of territorial authority if development contributions not paid or made
-Until a development contribution required in relation to a development has been paid or made under section 198, a territorial authority may,—
+(1) Until a development contribution required in relation to a development has been paid or made under section 198, a territorial authority may,—
   (a) in the case of a development contribution required under section 198(1)﻿(a),—
     (i) withhold a certificate under section 224(c) of the Resource Management Act 1991:
     (ii) prevent the commencement of a resource consent under the Resource Management Act 1991:
@@ -3302,6 +3335,8 @@ Until a development contribution required in relation to a development has been 
   (ba) in the case of a development contribution required under section 198(4A), withhold a certificate of acceptance under section 99 of the Building Act 2004:
   (c) in the case of a development contribution required under section 198(1)﻿(c), withhold a service connection to the development:
   (d) in each case, register the development contribution under subpart 5 of Part 3 of the Land Transfer Act 2017, as a charge on the title of the land in respect of which the development contribution was required.
+(2) Subsection (3) applies if Kāinga Ora–Homes and Communities is responsible for granting the consent, authorisation, or certificate to which an action described in any of paragraphs (a) to (c) of subsection (1) relates.
+(3) Kāinga Ora–Homes and Communities may, as appropriate and by agreement with the local authority, exercise the power under the relevant paragraph on the local authority's behalf.
 
 **Refund of development contributions**
 
@@ -5815,7 +5850,7 @@ The Commission must appoint the times and places for all its ordinary meetings.
 (4) Only the business stated in the notice may be transacted at the meeting.
 
 ### 16 Specialist advice
-(1) The Commission may invite any officer of the Public Service or any other person or a representative of any body who or that, in the opinion of the Commission, has specialist knowledge that is likely to be of assistance to the Commission to attend any meeting or discussion held by the Commission and to take part in the proceedings.
+(1) The Commission may invite any officer of the public service or any other person or a representative of any body who or that, in the opinion of the Commission, has specialist knowledge that is likely to be of assistance to the Commission to attend any meeting or discussion held by the Commission and to take part in the proceedings.
 (2) The Commission may engage any consultants that it thinks necessary or desirable to assist it to carry out its functions.
 (3) The Commission may pay to a person engaged under subclause (2), for services rendered by the person, the fees or commissions or both that it thinks fit, and may reimburse the person for expenses reasonably incurred in rendering services for the Commission.
 
@@ -5893,8 +5928,8 @@ A delegation—
 **Miscellaneous provisions**
 
 ### 29 Chief Executive Officer
-(1) There may from time to time be appointed under the State Sector Act 1988 a Chief Executive Officer of the Commission to enable the Commission to carry out and exercise its functions, responsibilities, duties, and powers.
-(2) A person may hold office under this clause in conjunction with any other office in the Public Service.
+(1) There may from time to time be appointed under the Public Service Act 2020 a Chief Executive Officer of the Commission to enable the Commission to carry out and exercise its functions, responsibilities, duties, and powers.
+(2) A person may hold office under this clause in conjunction with any other office in the public service.
 
 ### 30 Liability of members
 (1) A member is not personally liable, in an action taken against him or her by the Commission, for any liability of the Commission, or for any act done or omitted to be done by the Commission or by any person acting under a delegation of the Commission's functions and powers, if the member acted in good faith in pursuance or intended pursuance of the functions or powers of the Commission.
