@@ -1,5 +1,5 @@
 # Radiocommunications Act 1989
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2020-08-07_
 
 > An Act to provide for the management of the radio frequency spectrum
 
@@ -98,7 +98,7 @@ This Act binds the Crown.
 (1) There must be—
   (a) a Registrar of Radio Frequencies; and
   (b) 1 or more Deputy Registrars of Radio Frequencies.
-(2) Each Registrar and Deputy Registrar must be appointed under the State Sector Act 1988 by the Secretary.
+(2) Each Registrar and Deputy Registrar must be appointed under the Public Service Act 2020 by the Secretary.
 (3) Subject to the control of the Registrar, a Deputy Registrar has and may exercise or perform all the powers, duties, and functions of the Registrar.
 (4) The fact that a Deputy Registrar exercises or performs any of the powers, duties, or functions of the Registrar is conclusive evidence of the Deputy Registrar's authority to do so.
 
