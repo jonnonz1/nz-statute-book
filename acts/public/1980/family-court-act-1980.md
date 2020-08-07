@@ -1,5 +1,5 @@
 # Family Court Act 1980
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2020-08-07_
 
 > Title
 
@@ -51,8 +51,8 @@ The District Court has a division known as the Family Court.
 (2) The Governor-General may at any time during the illness or absence of any Family Court Judge, or for any other temporary purpose, by warrant under his hand, appoint 1 or more District Court Judges (including any Judge appointed under section 31 of the District Court Act 2016) to be a Family Court Judge or Family Court Judges to hold office for such time as is specified in the warrant.
 
 ### 8 Counselling supervisors, counsellors, and other officers
-(1) There shall from time to time be appointed under the State Sector Act 1988, as an officer of the Ministry of Justice, a person whose principal responsibility shall be to perform such duties as the chief executive of the Ministry of Justice may direct to facilitate the proper functioning of the Family Court and of counselling and related services.
-(2) Without limiting subsection (1), there may from time to time be appointed under the State Sector Act 1988 such counselling supervisors, counsellors, and other officers as may be necessary to enable the Family Court to perform any function conferred on it by any enactment.
+(1) There shall from time to time be appointed under the Public Service Act 2020, as an officer of the Ministry of Justice, a person whose principal responsibility shall be to perform such duties as the chief executive of the Ministry of Justice may direct to facilitate the proper functioning of the Family Court and of counselling and related services.
+(2) Without limiting subsection (1), there may from time to time be appointed under the Public Service Act 2020 such counselling supervisors, counsellors, and other officers as may be necessary to enable the Family Court to perform any function conferred on it by any enactment.
 (3) Every such counselling supervisor, counsellor, and other officer, while performing any duty under the auspices of the Family Court, is for the purposes of the District Court Act 2016 an officer of that court.
 
 ### 9 Stationing of Judges and sittings of courts
@@ -150,7 +150,7 @@ The District Court has a division known as the Family Court.
     (iii) is an applicant in the proceedings.
 (4) However, subsection (3) does not apply to—
   (a) a report of proceedings in a publication that—
-    (i) is genuinely of a professional or technical nature (including a publication that is intended for circulation among members of the legal or medical professions, officers of the Public Service, psychologists, counsellors, mediators, or social workers); and
+    (i) is genuinely of a professional or technical nature (including a publication that is intended for circulation among members of the legal or medical professions, officers of the public service, psychologists, counsellors, mediators, or social workers); and
     (ii) does not include the name of—
       (A) any person under the age of 18 years who is the subject of the proceedings, or who is referred to in the proceedings:
       (B) any vulnerable person who is the subject of the proceedings:
