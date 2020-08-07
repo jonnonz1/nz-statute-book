@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -4141,7 +4141,7 @@ The Governor-General may, by Order in Council, make regulations for the purposes
   (f) a code number for mailing purposes.
 (5) An Order in Council providing for the embedding of microchips in entitlement cards cannot be made under this section except on the recommendation of the Minister.
 (6) The Minister must not recommend the making of an Order in Council referred to in subsection (5) unless satisfied adequate consultation about the privacy and security of the information to be contained in the microchip has taken place (to ensure privacy and personal information are fully protected) with—
-  (a) the State Services Commission; and
+  (a) the Public Service Commission; and
   (b) the Privacy Commissioner; and
   (c) any other State agency, department, or organisation the Minister thinks relevant.
 
@@ -4155,7 +4155,7 @@ The Governor-General may, by Order in Council, make regulations for the purposes
   (c) allow MSD to extend those prescribed deadlines:
   (d) provide for lapse of an application, or prohibit grant of a benefit, or both, unless those prescribed deadlines (if applicable, as they are extended by MSD under the regulations) are met:
   (e) provide for a duly completed and timely application to be taken for commencement of benefit purposes and stand-down period purposes to have been received on the date of first contact by or on behalf of the applicant:
-  (f) provide for all reasonable help in te reo Māori to be given by an employee of the State Services (as defined in section 2 of the State Sector Act 1988), without fee or other consideration, in connection with an application for a benefit, if—
+  (f) provide for all reasonable help in te reo Māori to be given by an employee of the State services (as defined in section 5 of the Public Service Act 2020), without fee or other consideration, in connection with an application for a benefit, if—
     (i) the applicant is a Maori (within the meaning of section 4 of the Maori Land Act 1993), and asks for help of that kind; and
     (ii) the employee has the necessary knowledge of te reo Māori:
   (g) provide that an application need not refer to a particular kind of benefit:
@@ -5642,7 +5642,7 @@ Every benefits review committee must consist of—
   (a) may be paid remuneration at a rate and of a kind determined in accordance with the fees framework; and
   (b) is entitled to be reimbursed for actual and reasonable travelling and other expenses in accordance with the framework.
 (4) The member is not, just because of membership of the committee, to be treated as employed in the service of the Crown for the purposes of—
-  (a) the State Sector Act 1988; or
+  (a) the Public Service Act 2020; or
   (b) the Government Superannuation Fund Act 1956.
 
 ### 4 Secretarial and administrative services
@@ -5816,7 +5816,7 @@ The following information must be published on an Internet site maintained by or
   (a) may be paid remuneration at a rate and of a kind determined by the chief executive; and
   (b) is entitled to be reimbursed for actual and reasonable travelling and other expenses determined by the chief executive.
 (3) No member is, just because of membership of a board, to be treated as employed in the service of the Crown for the purposes of—
-  (a) the State Sector Act 1988; or
+  (a) the Public Service Act 2020; or
   (b) the Government Superannuation Fund Act 1956.
 
 ### 3 Secretarial and administrative services
