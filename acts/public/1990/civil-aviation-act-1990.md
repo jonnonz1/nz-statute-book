@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2020-08-07_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -940,7 +940,7 @@ Any medical certificate issued under the rules before the commencement of this P
   (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
   (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see section 34(2) and (3) of this Act).
 (8) So far as the bylaws of any local authority are inconsistent with or repugnant to any ordinary rule made under this Act in force in the same locality, the bylaws shall be construed subject to the rules.
-(9) Notwithstanding section 28 of the State Sector Act 1988, the Minister shall not delegate his or her power to make ordinary rules under this Act.
+(9) Notwithstanding clause 5 of Schedule 6 of the Public Service Act 2020, the Minister shall not delegate his or her power to make ordinary rules under this Act.
 
 ### 29 Rules relating to safety and security
 Without limiting the power conferred by section 28, in the interests of safety or security within the civil aviation system the Minister may make all or any of the following ordinary rules:
