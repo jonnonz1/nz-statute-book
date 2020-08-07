@@ -1,5 +1,5 @@
 # Clerk of the House of Representatives Act 1988
-_Consolidation as at 2019-11-17_
+_Consolidation as at 2020-08-07_
 
 > An Act to provide for the appointment of the Clerk of the House of Representatives and of other officers of the House of Representatives, and to establish, by Act of Parliament, the Office of the Clerk of the House of Representatives
 
@@ -98,12 +98,12 @@ The Clerk of the House of Representatives shall be the principal officer of the 
 ### 16 Responsibility of Clerk
 The Clerk of the House of Representatives shall be responsible to the Speaker of the House of Representatives, on behalf of the House, for the efficient, effective, and economic management of the Office of the Clerk of the House of Representatives.
 
-### 17 Functions of State Services Commissioner in relation to Office
-(1) The State Services Commissioner may from time to time, at the request of the Speaker of the House of Representatives, exercise in respect of the Office of the Clerk of the House of Representatives any of the functions conferred on the State Services Commissioner by section 6 of the State Sector Act 1988.
-(1A) The State Services Commissioner must exercise functions requested by the Speaker in accordance with subsection (1) consistently with the role of the Office of the Clerk of the House of Representatives and its separation from the executive government.
-(2) For the purposes of this section, section 6 of the State Sector Act 1988 shall apply with all necessary modifications and as if the Office of the Clerk of the House of Representatives were a department within the meaning of that Act and as if the Clerk of the House of Representatives were the chief executive of that department.
-(3) The Clerk of the House of Representatives must consult the State Services Commissioner before issuing any code of conduct in the exercise of his or her functions under section 3(d).
-(4) The State Services Commissioner may advise the Speaker of the House of Representatives on any matter concerning ethics, values, and standards in relation to the Office of the Clerk.
+### 17 Functions of Public Service Commissioner in relation to Office
+(1) The Public Service Commissioner may from time to time, at the request of the Speaker of the House of Representatives, exercise in respect of the Office of the Clerk of the House of Representatives any of the functions conferred on the Public Service Commissioner by section 44 of the Public Service Act 2020.
+(1A) The Public Service Commissioner must exercise functions requested by the Speaker in accordance with subsection (1) consistently with the role of the Office of the Clerk of the House of Representatives and its separation from the executive government.
+(2) For the purposes of this section, section 44 of the Public Service Act 2020 shall apply with all necessary modifications and as if the Office of the Clerk of the House of Representatives were a department within the meaning of that Act and as if the Clerk of the House of Representatives were the chief executive of that department.
+(3)
+(4)
 
 **Other officers of the House of Representatives**
 
@@ -120,15 +120,15 @@ Where the Clerk of the House of Representatives intends to fill a position that 
 The Clerk of the House of Representatives shall notify the members of the staff of the Office of the Clerk of the House of Representatives of every appointment (other than that of an acting, temporary, or casual employee) made to the staff of that Office.
 
 ### 22 Review of appointments
-(1) The Clerk of the House of Representatives shall establish, after consultation with the State Services Commission, a procedure for reviewing appointments made under section 18 that are the subject of any complaint by a member of the staff of the Office of the Clerk of the House of Representatives.
+(1) The Clerk of the House of Representatives shall establish a procedure for reviewing appointments made under section 18 that are the subject of any complaint by a member of the staff of the Office of the Clerk of the House of Representatives.
 (2) The procedure shall be approved by the Speaker of the House of Representatives before being established.
-(3) The Clerk of the House of Representatives may from time to time, after consultation with the State Services Commission and with the approval of the Speaker of the House of Representatives, amend or replace any procedure established under this section.
+(3) The Clerk of the House of Representatives may from time to time, with the approval of the Speaker of the House of Representatives, amend or replace any procedure established under this section.
 
 ### 23 Removal from office
 The Clerk of the House of Representatives may, subject to any conditions of employment included in any award or agreement, remove any employee appointed under section 18 from that employee's office or employment.
 
 ### 24 Employment principles
-The Clerk of the House of Representatives shall operate a personnel policy that complies with the principle of being a good employer by following, subject to this Act, as closely as possible and as if he or she were the chief executive of a department, the provisions of sections 56 and 58 of the State Sector Act 1988.
+The Clerk of the House of Representatives shall operate a personnel policy that complies with the principle of being a good employer by following, subject to this Act, as closely as possible and as if he or she were the chief executive of a department, the provisions of sections 73 and 74 of the Public Service Act 2020.
 
 **Employment relations**
 
@@ -137,9 +137,7 @@ Except as otherwise provided in section 26, the Employment Relations Act 2000 ap
 
 ### 26 Negotiation of conditions of employment
 (1) The Clerk of the House of Representatives must negotiate under the Employment Relations Act 2000 every collective agreement applicable to employees appointed under section 18.
-(2) The Clerk of the House of Representatives must conduct the negotiations—
-  (a) with a union of which employees are members; and
-  (b) in consultation with the State Services Commissioner.
+(2) The Clerk of the House of Representatives must conduct the negotiations with a union of which employees are members.
 (3) In this section, union has the meaning given to that term by section 5 of the Employment Relations Act 2000.
 
 **State sector**
@@ -154,7 +152,7 @@ Except as otherwise provided in section 26, the Employment Relations Act 2000 ap
 (2) Where any person who is appointed under this Act as an officer of the House of Representatives is, at the date of that person's appointment, an officer of the State services, the period of that person's service as an officer of the House of Representatives appointed under this Act shall be deemed to be continuous service in that branch of the State services in which that person was employed at that date for the purposes of—
   (a) the Government Superannuation Fund Act 1956:
   (b) entitlement to leave of absence.
-(3) No person shall be deemed to be employed in the service of Her Majesty for the purposes of the State Sector Act 1988 by reason of that person's appointment under this Act as an officer of the House of Representatives.
+(3) No person shall be deemed to be employed in the service of Her Majesty for the purposes of the Public Service Act 2020 by reason of that person's appointment under this Act as an officer of the House of Representatives.
 
 **Financial provisions**
 
