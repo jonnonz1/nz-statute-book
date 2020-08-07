@@ -1,5 +1,5 @@
 # Pacific Education Foundation Act 1972
-_Consolidation as at 2016-10-29_
+_Consolidation as at 2020-08-07_
 
 > An Act to establish a Pacific Islands Polynesian Education Foundation
 
@@ -22,7 +22,7 @@ In this Act, unless the context otherwise requires,—
       (i) a native of the Cook Islands, Fiji, Kiribati, Niue, Samoa, Tokelau, Tonga, or Tuvalu; and
       (ii) a New Zealand citizen or a person who has been granted permanent residence or who has been permitted to enter New Zealand with the intention of permanent residence; and
     (b) a descendant of a person described in paragraph (a)
-  - **Public Service** has the same meaning as in section 2 of the State Sector Act 1988.
+  - **public service** has the same meaning as in section 10 of the Public Service Act 2020.
 
 ### 2A Transitional, savings, and related provisions
 The transitional, savings, and related provisions (if any) set out in Schedule 1 have effect according to their terms.
@@ -60,7 +60,7 @@ The general purpose of the Foundation shall be to promote and encourage the bett
   (b) the chief executive of the Ministry for Pacific Peoples:
   (c) the manager at the Ministry of Education who has responsibility for the education of Pacific peoples:
   (d) 5 other members, to be appointed jointly by the Minister and the Minister for Pacific Peoples after consultation with those Pacific communities that the Ministers consider it appropriate to consult.
-(3) If a member who is an employee of the Public Service is absent from any meeting, the member may authorise another employee to attend the meeting in the member’s place (and the employee is, for the purposes of the meeting, a member of the Board).
+(3) If a member who is an employee of the public service is absent from any meeting, the member may authorise another employee to attend the meeting in the member’s place (and the employee is, for the purposes of the meeting, a member of the Board).
 (4) If a member appointed under subsection (2)﻿(d) is absent from any meeting, the member may authorise any other person to attend the meeting in the member’s place (and the person is, for the purposes of the meeting, a member of the Board).
 (5) A member appointed under subsection (2)﻿(d)—
   (a) must be appointed for a 3-year term; and
@@ -128,8 +128,8 @@ The common seal of the Foundation shall not be affixed to any document except pu
 (6) Amendment(s) incorporated in the Act(s).
 
 ### 15 Appointment of officers and collectors
-(1) There shall be appointed in accordance with the State Sector Act 1988 all such officers and servants of the Board as may be necessary for the efficient exercise and performance of the powers and functions of the Board, including a secretary and a treasurer.
-(2) The Board may appoint such persons as it thinks fit for the purpose of collecting voluntary contributions and donations from the public for the purposes of the Foundation. No person shall be deemed to be subject to the State Sector Act 1988 by reason of the person’s appointment under this subsection.
+(1) There shall be appointed in accordance with the Public Service Act 2020 all such officers and servants of the Board as may be necessary for the efficient exercise and performance of the powers and functions of the Board, including a secretary and a treasurer.
+(2) The Board may appoint such persons as it thinks fit for the purpose of collecting voluntary contributions and donations from the public for the purposes of the Foundation. No person shall be deemed to be subject to the Public Service Act 2020 by reason of the person’s appointment under this subsection.
 
 ### 16 Power to accept property in trust
 The Board may accept on behalf of the Foundation by way of bequest, devise, or gift any money, land, or other property in trust for the purposes of the Foundation for the time being or in trust for any particular purpose or purposes for which the Board can lawfully apply the property of the Foundation.
