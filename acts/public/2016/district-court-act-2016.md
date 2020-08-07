@@ -1,5 +1,5 @@
 # District Court Act 2016
-_Consolidation as at 2020-07-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the District Court Act 2016.
@@ -58,7 +58,7 @@ In this Act, unless the context otherwise requires,—
   - **landlord** , in relation to any land, means the person entitled to the immediate reversion of that land and, if the land is held in joint tenancy or tenancy in common, includes any one of the persons entitled to the immediate reversion
   - **lawyer** has the same meaning as in section 6 of the Lawyers and Conveyancers Act 2006
   - **Minister** means the Minister of the Crown who under any warrant or with the authority of the Prime Minister is responsible for the administration of this Act
-  - **officer of the court** means any Registrar, Deputy Registrar, or other employee appointed under the State Sector Act 1988 for the conduct of the business of the court
+  - **officer of the court** means any Registrar, Deputy Registrar, or other employee appointed under the Public Service Act 2020 for the conduct of the business of the court
   - **part-time Judge** means a Judge who is authorised under section 30(1) to sit on a part-time basis
   - **permanent Judge** does not include an acting District Court Judge
   - **Police employee** has the meaning given by section 4 of the Policing Act 2008
@@ -481,7 +481,7 @@ For the period that an acting Community Magistrate acts as authorised under sect
 **Registrars, bailiffs, and other officers of court**
 
 ### 62 Appointment of Registrars, Deputy Registrars, and other officers of court
-(1) Registrars, Deputy Registrars, and other officers of the court (other than bailiffs) may be appointed under the State Sector Act 1988 for the conduct of the business of the court.
+(1) Registrars, Deputy Registrars, and other officers of the court (other than bailiffs) may be appointed under the Public Service Act 2020 for the conduct of the business of the court.
 (2) In any case where a Registrar or Deputy Registrar has died or is prevented by illness or other cause from acting in his or her office, a Judge may appoint a Deputy Registrar to act for such period as the Judge thinks fit, and a Judge may at any time terminate that person's appointment.
 
 ### 63 Powers of Registrars and Deputy Registrars
@@ -505,7 +505,7 @@ For the period that an acting Community Magistrate acts as authorised under sect
   (c) the regularity of that proceeding.
 
 ### 66 Appointment of bailiffs
-(1) Bailiffs and deputy bailiffs may be appointed under the State Sector Act 1988 for the exercise of the powers and performance of duties of bailiffs set out in section 68.
+(1) Bailiffs and deputy bailiffs may be appointed under the Public Service Act 2020 for the exercise of the powers and performance of duties of bailiffs set out in section 68.
 (2) A Judge may authorise a constable or other person to act on a particular occasion as a bailiff.
 (3) A bailiff must take an oath of office in the following form (or make an affirmation as provided by section 4 of the Oaths and Declarations Act 1957):English form“I, [name], swear that I will faithfully and diligently serve Her (or His) Majesty [specify the name of the reigning Sovereign, as in Queen Elizabeth the Second], Queen (or King) of New Zealand, her (or his) heirs and successors, as a bailiff at [place], without favour or affection, malice or ill-will. While I hold this office I will, to the best of my power, keep the peace and prevent offences against the peace and will, to the best of my skill and knowledge, perform all the duties of the office of bailiff according to law. So help me God.”Māori form“Tēnei au, a [ingoa], e kī taurangi nei, ka rato pirihonga, urupū hoki ahau i Ia Arikinui [tohua te ingoa o te Arikinui kei runga i te torona, pērā ki a Kuini Irahāpeti te Tuarua], Kuini (Kīngi rānei) o Niu Tīreni, me ōna uri whakaheke, hei kaituku hāmene ki [wāhi] i roto i te kore tautoko, kore aroha rānei, kore mahi kino, kore whakaaro kino rānei. I te wā ke tēnei tūranga ahau ka pōkaikaha ahau ki te hohou i te rongo me te kaupare atu i nga mahi kotikoti i te rongo, ā, i roto i ōku tino pūkenga me ōku mōhio, ka whakatutuki i ngā mahi kua whakaritea hei mahi mā te kaituku hāmene, e ai ki te ture. Nō reira, āwhina mai i ahau e te Atua.”
 
