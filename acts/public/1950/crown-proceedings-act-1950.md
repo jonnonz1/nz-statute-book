@@ -1,5 +1,5 @@
 # Crown Proceedings Act 1950
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend the law relating to the civil liabilities and rights of the Crown and officers of the Crown, and to civil proceedings by and against the Crown
 
@@ -59,10 +59,10 @@ This Act is subject to the Limitation Act 2010, and to any other enactment that�
 (2) Where the Crown is bound by a statutory duty which is binding also upon persons other than the Crown and its officers, then, subject to the provisions of this Act, the Crown shall, in respect of a failure to comply with that duty, be subject to all those liabilities in tort (if any) to which it would be so subject if it were a private person of full age and capacity.
 (3) Where any functions are conferred or imposed upon an officer of the Crown as such either by any rule of the common law or by statute, and that officer commits a tort while performing or purporting to perform those functions, the liabilities of the Crown in respect of the tort shall be such as they would have been if those functions had been conferred or imposed solely by virtue of instructions lawfully given by the Crown.
 (4) Except as provided in subsection (4A) or (4B), any enactment which negatives or limits the amount of the liability of any government department or officer of the Crown in respect of any tort committed by that department or officer shall, in the case of proceedings against the Crown under this section in respect of a tort committed by that department or officer, apply in relation to the Crown as it would have applied in relation to that department or officer if the proceedings against the Crown had been proceedings against that department or officer.
-(4A) Despite certain Crown servants being immune from liability under section 86 of the State Sector Act 1988,—
+(4A) Despite certain Crown servants being immune from liability under section 104 of the Public Service Act 2020,—
   (a) a court may find the Crown itself liable in tort in respect of the actions or omissions of those servants; and
-  (ab) in relation to delegates performing functions or exercising powers of the chief executive under the Children, Young Persons, and Their Families Act 1989, a court may find the Crown liable in tort for the actions or omissions of those delegates; and
-  (b) for the purpose of determining whether the Crown is so liable, the court must disregard the immunity in section 86.
+  (ab) in relation to delegates performing functions or exercising powers of the chief executive under the Oranga Tamariki Act 1989, a court may find the Crown liable in tort for the actions or omissions of those delegates; and
+  (b) for the purpose of determining whether the Crown is so liable, the court must disregard the immunity in section 104 of the Public Service Act 2020.
 (4B) Despite specified persons being immune from liability under section 351 of the Food Act 2014,—
   (a) a court may find the Crown itself liable in tort in respect of the actions or omissions of those persons; and
   (b) for the purpose of determining whether the Crown is so liable, the court must disregard the immunity in section 351.
