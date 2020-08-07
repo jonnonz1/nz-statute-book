@@ -1,5 +1,5 @@
 # Energy (Fuels, Levies, and References) Act 1989
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2020-08-07_
 
 > Title
 
@@ -60,7 +60,7 @@ The orders specified in Schedule 4 are hereby revoked.
 **Savings**
 
 ### 9 Delegation of powers by Minister or Secretary
-Every delegation under section 9 or section 10 of the Ministry of Energy Act 1977 that was in force immediately before the commencement of this section shall continue to have effect according to its tenor as if it had been made on that commencement under section 28 or section 41 of the State Sector Act 1988.
+Every delegation under section 9 or section 10 of the Ministry of Energy Act 1977 that was in force immediately before the commencement of this section shall continue to have effect according to its tenor as if it had been made on that commencement under clauses 2 and 3 or 5 of Schedule 6 of the Public Service Act 2020.
 
 ### 10 Existing proceedings
 Where, before the commencement of section 3, the Ministry of Energy or any officer of the Ministry of Energy in relation to the conduct of the affairs of that Ministry, has—such action or proceedings may be continued, completed, and enforced by or against the responsible Minister.
