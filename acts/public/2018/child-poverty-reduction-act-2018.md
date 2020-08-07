@@ -1,5 +1,5 @@
 # Child Poverty Reduction Act 2018
-_Consolidation as at 2018-12-20_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Child Poverty Reduction Act 2018.
@@ -235,7 +235,7 @@ The Minister must ensure that each current target is reviewed—
 (1) In preparing the report, the Statistician must consult the chief executive.
 (2) In preparing the report, and performing other duties or functions under this Act, the Statistician and the chief executive must act independently of, and are not subject to direction from, Ministers of the Crown or other chief executives of departments of State.
 (3) Subsection (2)—
-  (a) applies despite section 32 of the State Sector Act 1988 or any other legislation to the contrary; and
+  (a) applies despite section 52 of the Public Service Act 2020 or any other legislation to the contrary; and
   (b) applies to the Statistician, in performing duties or functions under this Act, instead of section 15 of the Statistics Act 1975.
 
 ### 34 Reports: Statistician decides how statistics to be produced
