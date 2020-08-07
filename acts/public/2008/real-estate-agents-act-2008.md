@@ -1,5 +1,5 @@
 # Real Estate Agents Act 2008
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Real Estate Agents Act 2008.
@@ -1458,7 +1458,7 @@ Each member of the Tribunal must, before entering on the performance of his or h
 The chairperson and other members of the Tribunal are to be paid, out of public money, remuneration by way of fees, salary, or allowances and travelling allowances in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act apply accordingly as if the chairperson or any other member were a member of a statutory board within the meaning of that Act.
 
 ### 5 Members of Tribunal
-No person holding office as a member of the Tribunal is deemed by reason of his or her holding of that office to be employed in the Government service for the purposes of the Government Superannuation Fund Act 1956 or in the State services for the purposes of the State Sector Act 1988.
+No person holding office as a member of the Tribunal is deemed by reason of his or her holding of that office to be employed in the Government service for the purposes of the Government Superannuation Fund Act 1956 or in the State services for the purposes of the Public Service Act 2020.
 
 ### 6 Witness summons
 (1) For the purposes of any matter before the Tribunal, the Tribunal may, of its own initiative or at the request of a party, issue a summons to any person requiring that person to attend before the Tribunal and give evidence.
