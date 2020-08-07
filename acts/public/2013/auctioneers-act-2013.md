@@ -1,5 +1,5 @@
 # Auctioneers Act 2013
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Auctioneers Act 2013.
@@ -181,7 +181,7 @@ A registered auctioneer ceases to be registered on the date, determined by the R
 **Registrar and register**
 
 ### 19 Registrar of Auctioneers
-(1) The chief executive must appoint, under the State Sector Act 1988, a Registrar of Auctioneers.
+(1) The chief executive must appoint, under the Public Service Act 2020, a Registrar of Auctioneers.
 (2) The person holding office as the Registrar of Companies under the Companies Act 1993 immediately before the commencement of this Act must be treated as if that person had been appointed as the Registrar of Auctioneers in accordance with this section.
 (3) The functions of the Registrar are as follows:
   (a) to establish and maintain a register of registered auctioneers:
