@@ -1,5 +1,5 @@
 # Volunteers Employment Protection Act 1973
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to make provision for the protection of the employment of volunteers to Her Majesty's Armed Forces
 
@@ -29,10 +29,10 @@ This Act may be cited as the Volunteers Employment Protection Act 1973.
     (c) does not include any service that, even though it necessitates an absence from employment, is service in respect of which leave may be granted under Part 2 or Part 3
   - **reserve forces** has the meaning given to that term by section 2(1) of the Defence Act 1990
   - **State employee** means—
-    (a) every person whose rate of remuneration is determined under the State Sector Act 1988:
+    (a) every person whose rate of remuneration is determined under the Public Service Act 2020:
     (b) every person whose rate of remuneration is determined under any of the provisions of Part 4 of the Policing Act 2008:
     (c) every person employed in the State services whose remuneration is determined by the Remuneration Authority
-  - **State services** has the meaning given to that term by section 2 of the State Sector Act 1988
+  - **State services** has the meaning given to that term by section 5 of the Public Service Act 2020
   - **territorial forces** has the meaning given to that term by section 2(1) of the Defence Act 1990
   - **training year** means the period commencing on 1 July in one year and ending with 30 June in the following year, both dates inclusive
   - **undertaking** includes any business, whether carried on by way of trade or not, and the activities of any body of persons, whether incorporated or not
@@ -109,7 +109,7 @@ Where any employee who is employed by any employer performs or undergoes any pro
 
 ### 12 Applications for postponement of service or training
 (1) Where any employee volunteers for any protected voluntary service or training in the Armed Forces, the employer may apply to a person appointed by the chief executive under subsection (2) for a postponement of that service or training upon the ground that the employee's volunteering for that service or training will cause undue hardship to the employer.
-(2) The chief executive may from time to time appoint such person or persons as he thinks fit, whether or not an officer or officers of the department, for the purpose of determining applications for postponement under this section. Any such person who holds no other appointment as an officer or employee of the State services within the meaning of the State Sector Act 1988 may be paid, out of money appropriated by Parliament for the purpose, remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if he were a member of a statutory board within the meaning of that Act.
+(2) The chief executive may from time to time appoint such person or persons as he thinks fit, whether or not an officer or officers of the department, for the purpose of determining applications for postponement under this section. Any such person who holds no other appointment as an officer or employee of the State services within the meaning of the Public Service Act 2020 may be paid, out of money appropriated by Parliament for the purpose, remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if he were a member of a statutory board within the meaning of that Act.
 (3) The person to whom any application for postponement is made under subsection (1) may, after considering any statement of fact or any documentary or other evidence supplied to him or obtained by him,—
   (a) grant a postponement for such period as he thinks fit; or
   (b) dismiss the application.
