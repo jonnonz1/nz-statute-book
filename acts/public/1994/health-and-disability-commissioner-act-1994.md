@@ -1,5 +1,5 @@
 # Health and Disability Commissioner Act 1994
-_Consolidation as at 2020-03-24_
+_Consolidation as at 2020-08-07_
 
 > An Act to promote and protect the rights of health consumers and disability services consumers, and, in particular,—ato secure the fair, simple, speedy, and efficient resolution of complaints relating to infringements of those rights; andbto provide for the appointment of a Health and Disability Commissioner to investigate complaints against persons or bodies who provide health care or disability services; and to define the Commissioner’s functions and powers; andcto provide for the establishment of a Health and Disability Services Consumer Advocacy Service; anddto provide for the promulgation of a Code of Health and Disability Services Consumers’ Rights; andeto provide for matters incidental thereto
 
@@ -73,7 +73,7 @@ _Consolidation as at 2020-03-24_
     (a) is freely given, by the health consumer or, where applicable, by any person who is entitled to consent on that health consumer’s behalf; and
     (b) is obtained in accordance with such requirements as are prescribed by the Code
   - **Minister** means the Minister of Health
-  - **Ministry** means the Ministry of Health, being the department of the Public Service referred to by that name
+  - **Ministry** means the Ministry of Health, being the department of the public service referred to by that name
   - **services** means health services and disability services or both
   - **sitting day** means a sitting day of the House of Representatives.
 (2) For the purposes of its application to any matter or situation arising or existing at any time, this Act—
@@ -631,7 +631,7 @@ Notwithstanding any provision in any enactment, where any letter appearing to be
 
 ### 63 Protection and privileges of witnesses, etc
 (1) Except as provided in section 64(2), every person shall have the same privileges in relation to the giving of information to, the answering of questions put by, and the production of documents and things to the Commissioner or any employee of the Commissioner, as witnesses have in any court.
-(2) No person shall be required to supply any information to or to answer any question put by the Commissioner or any employee of the Commissioner in relation to any matter, or to produce to the Commissioner or any employee of the Commissioner any document or thing relating to any matter, in any case where compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on that person by the provisions of any Act or regulations, other than the Official Information Act 1982 or the State Sector Act 1988.
+(2) No person shall be required to supply any information to or to answer any question put by the Commissioner or any employee of the Commissioner in relation to any matter, or to produce to the Commissioner or any employee of the Commissioner any document or thing relating to any matter, in any case where compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on that person by the provisions of any Act or regulations, other than the Official Information Act 1982 or the Public Service Act 2020.
 (3) No person shall be liable to prosecution for an offence against any enactment, other than section 73, by reason of that person’s compliance with any requirement of the Commissioner or any employee of the Commissioner under section 62.
 (4) Where the attendance of any person is required by the Commissioner under section 62, the person shall be entitled to the same fees, allowances, and expenses as if the person were a witness in a court and, for the purpose,—
   (a) the provisions of any regulations in that behalf under the Criminal Procedure Act 2011 shall apply accordingly; and
