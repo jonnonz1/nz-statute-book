@@ -1,5 +1,5 @@
 # Tariff Act 1988
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend the law relating to the imposition of tariff duty
 
@@ -47,7 +47,7 @@ _Consolidation as at 2019-10-29_
   - **Tariff subheading** , or , means a subheading appearing in the Standard Tariff and identified by 6 digits or not identified by any number
   - **TPA** means the Trans-Pacific Strategic Economic Partnership Agreement that was opened for signature by Brunei Darussalam, Chile, New Zealand, and Singapore on 15 June 2005
   - **TPP** means the Trans-Pacific Partnership Agreement done at Auckland on 4 February 2016
-  - **Working Tariff Document** means the document maintained under that name by the person holding office under the State Sector Act 1988 as the Chief Executive of the New Zealand Customs Service.
+  - **Working Tariff Document** means the document maintained under that name by the person holding office under the Public Service Act 2020 as the Chief Executive of the New Zealand Customs Service.
 (2)
 
 ### 2A Act to bind the Crown
