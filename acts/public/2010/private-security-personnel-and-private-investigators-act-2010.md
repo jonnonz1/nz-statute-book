@@ -1,5 +1,5 @@
 # Private Security Personnel and Private Investigators Act 2010
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Private Security Personnel and Private Investigators Act 2010.
@@ -1008,7 +1008,7 @@ The functions of the Authorities are—
 
 ### 92 Remuneration, and status under certain Acts
 (1) A Licensing Authority and any Deputy Licensing Authority must be paid fees and expenses in accordance with the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies, as if each Licensing Authority were the chairperson of a statutory body and any Deputy Licensing Authority were a member of that body.
-(2) For the purposes of the State Sector Act 1988 and the Government Superannuation Fund Act 1956, a Licensing Authority or Deputy Licensing Authority is not, by reason merely of that appointment, employed in the service of the Crown.
+(2) For the purposes of the Public Service Act 2020 and the Government Superannuation Fund Act 1956, a Licensing Authority or Deputy Licensing Authority is not, by reason merely of that appointment, employed in the service of the Crown.
 
 ### 93 Licensing Authority to be Commission of Inquiry for certain purposes
 (1) Where under this Act a Licensing Authority has the function of hearing or determining any matter, that Authority has the same powers as are conferred on a Commission of Inquiry by sections 19, 20, 23, 27, 28, and 34 of the Inquiries Act 2013 in respect of an inquiry under that Act.
