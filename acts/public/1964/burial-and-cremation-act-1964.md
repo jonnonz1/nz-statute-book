@@ -1,5 +1,5 @@
 # Burial and Cremation Act 1964
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend the law relating to the burial and cremation of the dead
 
@@ -483,7 +483,7 @@ Notwithstanding anything in this Act, a body may be buried in any place, even th
 (4) A licence granted under this section shall not operate to authorise the removal of a body contrary to any regulations or bylaws made under this Act.
 
 ### 52 Inspection of cemeteries
-(1) An employee of the Public Service appointed by the Minister for the purpose, or any person designated as a Health Protection Officer under the Health Act 1956, may inspect any cemetery or any portion of a cemetery exclusively set apart for any denomination in order to—
+(1) An employee of the public service appointed by the Minister for the purpose, or any person designated as a Health Protection Officer under the Health Act 1956, may inspect any cemetery or any portion of a cemetery exclusively set apart for any denomination in order to—
   (a) ascertain the state and condition of it; and
   (b) examine the accounts of receipts and expenditure in relation to it; and
   (c) if regulations or bylaws in relation to it have been made under this Act, ascertain whether the regulations or bylaws are being observed and complied with.
