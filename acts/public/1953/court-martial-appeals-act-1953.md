@@ -1,5 +1,5 @@
 # Court Martial Appeals Act 1953
-_Consolidation as at 2018-11-30_
+_Consolidation as at 2020-08-07_
 
 > An Act to establish a Court Martial Appeal Court and to provide for appeals thereto from the Court Martial
 
@@ -66,7 +66,7 @@ This Act binds the Crown.
 (6) The court shall be a senior court of record and shall, for the purposes of and subject to the provisions of this Act, have full power to determine, in accordance with this Act, any question necessary to be determined for the purpose of doing justice in any case before the court.
 
 ### 5 Registrar and officers of court
-(1) There may from time to time be appointed under the State Sector Act 1988 a Registrar of the court and such other officers of the court as may be required. Any such office may be held either separately or in conjunction with any other office in the Public Service.
+(1) There may from time to time be appointed under the Public Service Act 2020 a Registrar of the court and such other officers of the court as may be required. Any such office may be held either separately or in conjunction with any other office in the public service.
 (2) Unless any other person is appointed under subsection (1) to hold office as the Registrar of the court, the person who for the time being holds office as the Registrar of the High Court at Wellington shall, without further appointment, be deemed to have been appointed under this section to be also the Registrar of the Court Martial Appeal Court.
 
 **Appeals to the court**
