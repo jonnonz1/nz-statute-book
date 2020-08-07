@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -73,7 +73,7 @@ This Act is the Corrections Act 2004.
   - **employee** includes a person engaged under a contract for services
   - **enforcement officer** —
     (a) means a person who is a constable, or who—
-      (i) is an officer or employee of the Public Service (as defined in section 2 of the State Sector Act 1988) or a local authority; and
+      (i) is an officer or employee of the public service (as defined in section 10 of the Public Service Act 2020) or a local authority; and
       (ii) is acting in the course of his or her official duties (being duties consisting of or including the detection, investigation, or prosecution of offences); but
     (b) does not include an officer (as defined in this subsection)
   - **escort duty** —
@@ -316,7 +316,7 @@ The Commissioner of Police has, in relation to every Police jail and every priso
   (b) the powers and functions conferred by or under this Act or any regulations made under this Act.
 
 ### 10 Delegation of powers and functions of chief executive
-Despite anything in sections 41 and 42 of the State Sector Act 1988 or in any other provision of this Act or of any other enactment, the chief executive must not delegate to any staff member of a prison—
+Despite anything in clauses 2 to 4 of Schedule 6 of the Public Service Act 2020 or in any other provision of this Act or of any other enactment, the chief executive must not delegate to any staff member of a prison—
   (a) the power to make an application under section 60(1) of the Parole Act 2002 (which relates to the recall of offenders); or
   (b) the power to make an application under section 107 of the Parole Act 2002 (which relates to orders that offenders not be released); or
   (c) the power to designate employees as hearing adjudicators under section 15; or
@@ -335,7 +335,7 @@ Despite anything in sections 41 and 42 of the State Sector Act 1988 or in any ot
 **Other persons with other powers and functions in relation to prisoners**
 
 ### 11 Prison manager and other staff of prisons
-(1) For every prison (not being a contract prison or a Police jail), the chief executive must appoint under the State Sector Act 1988—
+(1) For every prison (not being a contract prison or a Police jail), the chief executive must appoint under the Public Service Act 2020—
   (a) a suitable person as prison manager; and
   (b) as many other suitable persons as are required as employees.
 (2) For every contract prison, the contractor must appoint—
@@ -397,7 +397,7 @@ A hearing adjudicator has the following powers and functions:
   (b) any other powers and functions conferred under this Act or any regulations made under this Act.
 
 ### 17 Appointment or engagement of security officers
-(1) The chief executive may appoint under the State Sector Act 1988 as many suitable persons as security officers as are required by the chief executive.
+(1) The chief executive may appoint under the Public Service Act 2020 as many suitable persons as security officers as are required by the chief executive.
 (2) Every security contractor must, subject to the terms of the security contract, appoint or engage as many suitable persons as security officers as are required to carry out the obligations of the security contractor.
 
 ### 18 Powers and functions of security officers
@@ -438,7 +438,7 @@ A hearing adjudicator has the following powers and functions:
   (e) has and enjoys, in the performance of his or her duties under this Act, the same protection as a Justice of the Peace acting in his or her criminal jurisdiction has and enjoys under sections 4A to 4F of the Justices of the Peace Act 1957.
 
 ### 19A Health centre managers
-(1) For every prison (not being a contract prison or Police jail), the chief executive must appoint, under the State Sector Act 1988, a health centre manager.
+(1) For every prison (not being a contract prison or Police jail), the chief executive must appoint, under the Public Service Act 2020, a health centre manager.
 (2) A contractor must appoint a health centre manager for every contract prison managed by that contractor.
 (3) Each health centre manager must be a medical practitioner or a nurse.
 (4) Every health centre manager is responsible for ensuring the provision of health care and treatment to prisoners.
@@ -475,7 +475,7 @@ If, in accordance with section 9 of the Defence Act 1990, any part of the Armed 
 **Persons with powers and functions in relation to administration of community-based sentences, sentences of home detention, conditions of release, or parole**
 
 ### 24 Probation officers
-(1) The chief executive must appoint under the State Sector Act 1988 as many probation officers as are required for the purposes of this Act or any other enactment.
+(1) The chief executive must appoint under the Public Service Act 2020 as many probation officers as are required for the purposes of this Act or any other enactment.
 (2) Despite anything in subsection (1), the chief executive may appoint any person, or the holder for the time being of any office or appointment, to act as a part-time probation officer, with all the powers and functions of a probation officer, if there are insufficient duties to justify the appointment of a full-time probation officer under that subsection.
 (3) The chief executive may designate persons to carry out any particular function or functions, or to exercise any particular power or powers, of a probation officer that the chief executive may specify in respect of that person.
 (4) The chief executive may designate persons appointed under this section to manage or work at 1 or more community work centres within any probation area.
@@ -506,7 +506,7 @@ If, in accordance with section 9 of the Defence Act 1990, any part of the Armed 
 A probation officer may delegate, in writing, to any suitably trained employee of the department his or her powers to control, direct, and supervise offenders subject to a sentence of community work in accordance with section 65 of the Sentencing Act 2002.
 
 ### 27 Controlling officer of probation area
-(1) The chief executive must appoint under the State Sector Act 1988 a controlling officer for each probation area.
+(1) The chief executive must appoint under the Public Service Act 2020 a controlling officer for each probation area.
 (2) A controlling officer must oversee the administration of all community-based sentences or sentences of home detention imposed under section 80A of the Sentencing Act 2002 being served in his or her probation area and is responsible for probation officers and community work centres in that area.
 (3) Subject to any directions given by the chief executive, a controlling officer may delegate, in writing, to any probation officer or to any other officer or employee of the department all or any of his or her powers and functions as a controlling officer in respect of his or her probation area.
 (4) A person appointed or designated to manage a community work centre may, if permitted by a delegation referred to in subsection (3), delegate to any employee engaged at the centre any power so delegated.
@@ -1846,7 +1846,7 @@ The Privacy Act 1993 applies to the monitoring of prisoner calls under sections 
 (2) Despite subsection (1), if the Privacy Commissioner has notified the chief executive in writing that a complaint has been made under the Privacy Act 1993 in relation to the recording, the recording must not be destroyed or erased in accordance with that subsection until the Privacy Commissioner has notified the chief executive in writing that the complaint has—
   (a) not been proceeded with; or
   (b) been finally disposed of.
-(3) The Commissioner of Police or, as the case may be, the chief executive of a department of State specified in Schedule 1 of the State Sector Act 1988 (except an intelligence and security agency) must take all practicable steps to ensure that every recording of a prisoner call held by the Police or that department that was obtained by the monitoring of the call under this Act is destroyed, or completely erased, as soon as it appears that no proceedings or disciplinary proceedings (or no further proceedings or disciplinary proceedings) will be taken in which any information contained in it would be likely to be required to be produced in evidence.
+(3) The Commissioner of Police or, as the case may be, the chief executive or board of a public service agency (except an intelligence or security agency) must take all practicable steps to ensure that every recording of a prisoner call held by the Police or that department that was obtained by the monitoring of the call under this Act is destroyed, or completely erased, as soon as it appears that no proceedings or disciplinary proceedings (or no further proceedings or disciplinary proceedings) will be taken in which any information contained in it would be likely to be required to be produced in evidence.
 (3A) The Director-General of an intelligence and security agency must ensure that every recording of a prisoner call held by the agency that was obtained by the monitoring of the call under this Act is destroyed, or completely erased, as soon as practicable if the recording is not required, or is no longer required, by the agency for the purpose of its functions.
 (4) Nothing in subsections (1), (3), and (3A) applies to any record of any information adduced in proceedings in any court or tribunal.
 (5) Subsection (6) applies if—
@@ -1854,6 +1854,9 @@ The Privacy Act 1993 applies to the monitoring of prisoner calls under sections 
   (b) subsection (1) requires the destruction or complete erasure of 1 or more, but not all of them.
 (6) If this subsection applies, an authorised person may arrange for the recording or recordings that are not required to be destroyed or completely erased to be copied, so that the copy or copies may be retained and all the recordings may be destroyed or completely erased.
 (7) Any copy made in accordance with subsection (6) is admissible in evidence to the same extent that the destroyed recording it is a copy of would have been.
+(8) For the purpose of subsection (3),—
+  (a) public service agency has the meaning given to it in section 5 of the Public Service Act 2020:
+  (b) if the recording referred to in subsection (3) is held by a departmental agency or an interdepartmental executive board (within the meaning of those terms in section 5 of the Public Service Act 2020), compliance with that subsection is the responsibility of its host department or, as the case may be, servicing department.
 
 ### 121 Notice to be given of intention to produce evidence of recording
 Particulars of a recording of a prisoner call must not be received in evidence by any court against any person, or in any proceedings against a prisoner for a disciplinary offence, unless the party intending to adduce it has given the person reasonable notice of the party's intention to do so, together with—
@@ -2329,7 +2332,7 @@ For the purposes of this Act and any other enactment, every inspector, officer, 
 (3) Every security contract must impose on the security contractor, in relation to the provision of services under the contract, a duty to—
   (a) comply with the requirements of this Act, any regulations made under this Act, and any instructions issued under section 196 in so far as those requirements are applicable to the services to be provided by the security contractor under the contract, and take into account any guidelines issued under section 196; and
   (b) comply with the requirements of the New Zealand Bill of Rights Act 1990, as if the security contractor and any security officers employed by the security contractor were employees of the chief executive; and
-  (c) comply with the requirements of sections 56(1) and (2) and 58(1) and (3) of the State Sector Act 1988 (which relate to personnel and equal employment policies), as if the security contractor were the chief executive of a department within the meaning of that Act.
+  (c) comply with the requirements of sections 73 and 74 of the Public Service Act 2020 (which relate to good employer and equal employment policies), as if the security contractor were the chief executive of a department within the meaning of that Act.
 (4) A security contract may contain any other provision that is agreed between the chief executive and the security contractor that is not inconsistent with—
   (a) this Act; or
   (b) any regulations made under this Act.
@@ -2367,7 +2370,7 @@ For the purposes of this Act and any other enactment, every inspector, officer, 
 (4) Nothing in subsections (1) to (3) limits any other duty to report that is imposed by or under any security contract or by or under any other provision of this Act or any other enactment.
 
 ### 172 Security monitors
-(1) The chief executive must appoint under the State Sector Act 1988 as many persons as security monitors as are required for the purposes of this Act and each person appointed as a security monitor must be appointed in respect of a particular security contractor.
+(1) The chief executive must appoint under the Public Service Act 2020 as many persons as security monitors as are required for the purposes of this Act and each person appointed as a security monitor must be appointed in respect of a particular security contractor.
 (2) The security monitor appointed in respect of that security contractor—
   (a) is responsible to the chief executive for the assessment and review of the carrying out, by that security contractor, of that contractor's obligations under the security contract; and
   (b) must report to the chief executive at the intervals (not exceeding 3 months) that the chief executive determines, and at any other time that the security monitor considers appropriate, on—
@@ -2412,7 +2415,7 @@ For the purposes of the Public Works Act 1981, the construction, management, ope
 For the purposes of Part 8 of the Resource Management Act 1991, the construction, management, operation, and maintenance of a prison (other than a Police jail) or community work centre is to be treated as a public work for which the Minister has financial responsibility, whether or not the prison or community work centre, or proposed prison or community work centre, is, or is to be, constructed, managed, operated, or maintained by the Crown.
 
 ### 179 Application of certain Acts to various office holders
-No person is deemed to be employed in the service of the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason only—
+No person is deemed to be employed in the service of the Crown for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason only—
   (a) of that person's appointment or engagement under section 11(2) or (4), section 17(2), or section 24(2); or
   (b) that the person has entered into a prison management contract; or
   (c) that the person has entered into a security contract under section 166.
@@ -2485,7 +2488,7 @@ In this section and sections 179D and 179E, unless the context otherwise require
   (b) in the case of a continuance of injury or damage, within 2 years after the ceasing of the injury or damage.
 (6) Nothing in this section—
   (a) prevents the Crown from making any ex gratia payment it considers justifiable on the basis of hardship or fairness:
-  (b) limits the operation of section 86 of the State Sector Act 1988:
+  (b) limits the operation of section 104 of the Public Service Act 2020:
   (c) affects any cause of action relating to unlawful arrest or detention.
 
 **Disclosure of prisoner information**
@@ -2864,14 +2867,14 @@ Nothing in this Act limits or affects in any way the Royal prerogative of mercy.
   (b) the requirements of the New Zealand Bill of Rights Act 1990, as if the prison were a prison managed by the department; and
   (c) the requirements of the Public Records Act 2005, as if records relating to the prison and to prisoners in the prison were records created or received by the department; and
   (d) all relevant international obligations and standards; and
-  (e) the requirements of sections 56(1) and (2) and 58(3) of the State Sector Act 1988 (which relate to personnel and equal employment policies), as if the contractor were the chief executive of a department within the meaning of that Act and as if those requirements applied, not only in respect of employees of a contractor, but in respect of all staff members of a contract prison.
+  (e) the requirements of sections 73 and 74(2) of the Public Service Act 2020 (which relate to good employer and equal employment policies), as if the contractor were the chief executive of a department within the meaning of that Act and as if those requirements applied, not only in respect of employees of a contractor, but in respect of all staff members of a contract prison.
 (3) A prison management contract may contain other provisions, as agreed between the chief executive and the contractor, that are not inconsistent with—
   (a) this Act; or
   (b) any regulations made under this Act; or
   (c) any instructions or guidelines issued by the chief executive under section 196 that are or will be applicable to the prison.
 
 ### 199AA Delegation of powers and functions of chief executive to contractor
-(1) Without limiting sections 41 and 42 of the State Sector Act 1988, but subject to section 10 of this Act, the chief executive may delegate to a contractor or an employee of a contractor, either generally or particularly, any of the functions or powers of the chief executive under this Act.
+(1) Without limiting clauses 2 to 4 of Schedule 6 of the Public Service Act 2020, but subject to section 10 of this Act, the chief executive may delegate to a contractor or an employee of a contractor, either generally or particularly, any of the functions or powers of the chief executive under this Act.
 (2) Subject to any general or special directions given or conditions imposed by the chief executive, a contractor or an employee of a contractor to whom any functions or powers are delegated may perform those functions or exercise those powers in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
 (3) A contractor or an employee of a contractor who has been delegated any functions or powers under subsection (1) may with the prior written approval of the chief executive delegate those functions or powers to an employee of the contractor.
 (4) A contractor or an employee of a contractor who appears to act under a delegation is presumed to be acting in accordance with its terms and conditions in the absence of evidence to the contrary.
@@ -2879,14 +2882,14 @@ Nothing in this Act limits or affects in any way the Royal prerogative of mercy.
 (6) A delegation under this section does not affect the exercise of any function or power by the chief executive or the responsibility of the chief executive for the actions of any person acting under the delegation.
 
 ### 199AB Delegation of powers and functions of chief executive to subcontractor
-(1) Without limiting sections 41 and 42 of the State Sector Act 1988, but subject to section 10 of this Act, the chief executive may delegate to a subcontractor referred to in section 199C or an employee of that subcontractor, either generally or particularly, any of the functions or powers of the chief executive under this Act.
+(1) Without limiting clauses 2 to 4 of Schedule 6 of the Public Service Act 2020, but subject to section 10 of this Act, the chief executive may delegate to a subcontractor referred to in section 199C or an employee of that subcontractor, either generally or particularly, any of the functions or powers of the chief executive under this Act.
 (2) Subject to any general or special directions given or conditions imposed by the chief executive, a subcontractor or employee of that subcontractor to whom the functions or powers are delegated may perform those functions or exercise those powers in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
 (3) A subcontractor or an employee of a subcontractor who has been delegated any functions or powers under subsection (1) may with the prior written approval of the chief executive delegate those functions or powers to an employee of the subcontractor.
 (4) A subcontractor or an employee of a subcontractor who appears to act under a delegation is presumed to be acting in accordance with its terms and conditions in the absence of evidence to the contrary.
 (5) Section 199AA(5) and (6) apply to a delegation under this section.
 
 ### 199A Delegation of powers and functions of contractor
-Without limiting sections 41 and 42 of the State Sector Act 1988, but subject to section 10 of this Act, those sections of that Act apply in relation to a contract prison as if—
+Without limiting clauses 2 to 4 of Schedule 6 of the Public Service Act 2020, but subject to section 10 of this Act, those sections of that Act apply in relation to a contract prison as if—
   (a) the contractor were the chief executive of the department; and
   (b) each staff member of the prison were an employee of the department.
 
@@ -2934,9 +2937,9 @@ Without limiting sections 41 and 42 of the State Sector Act 1988, but subject to
 
 ### 199E Monitors
 (1) The chief executive—
-  (a) must appoint, under the State Sector Act 1988, 1 monitor in respect of each contract prison; and
-  (b) may appoint, under the State Sector Act 1988, 1 or more additional monitors in respect of a contract prison, to assist the monitor appointed under paragraph (a).
-(2) The chief executive may appoint, under the State Sector Act 1988, 1 or more monitors for particular purposes specified by the chief executive.
+  (a) must appoint, under the Public Service Act 2020, 1 monitor in respect of each contract prison; and
+  (b) may appoint, under the Public Service Act 2020, 1 or more additional monitors in respect of a contract prison, to assist the monitor appointed under paragraph (a).
+(2) The chief executive may appoint, under the Public Service Act 2020, 1 or more monitors for particular purposes specified by the chief executive.
 (3) The monitor appointed under subsection (1)﻿(a) in respect of a contract prison—
   (a) is responsible to the chief executive for the assessment and review of the management of that prison; and
   (b) must report to the chief executive, at any intervals (not exceeding 4 months) that are determined by the chief executive, and at any other time that the monitor considers appropriate, on—
