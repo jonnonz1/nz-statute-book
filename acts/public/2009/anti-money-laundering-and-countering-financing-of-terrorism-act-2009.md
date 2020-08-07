@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -98,7 +98,7 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
         (A) a reporting entity resident in New Zealand; or
         (B) a person that is resident in a country that has sufficient AML/CFT systems and is supervised or regulated for AML/CFT purposes; or
       (ii) providing a service under a joint venture agreement to which each member of the group is a party; or
-      (iii) a government department named in Schedule 1 of the State Sector Act 1988, a State enterprise under the State-Owned Enterprises Act 1986, or a Crown entity under section 7 of the Crown Entities Act 2004; or
+      (iii) a public service agency as defined in section 5 of the Public Service Act 2020, a State enterprise under the State-Owned Enterprises Act 1986, or a Crown entity under section 7 of the Crown Entities Act 2004; or
       (iv) related to 1 or more of the entities referred to in subparagraph (iii) through the provision of common products or services; or
       (v) a body corporate that is—
         (A) either a company (within the meaning of section 2(1) of the Companies Act 1993) or an overseas company within the meaning of that section; and
@@ -172,7 +172,7 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
   - **financing of terrorism** has the same meaning as in section 4(1) of the Terrorism Suppression Act 2002
   - **gambling inspector** has the same meaning as in section 4(1) of the Gambling Act 2003
   - **government agency** means—
-    (a) a government department named in Schedule 1 of the State Sector Act 1988; or
+    (a) a public service agency as defined in section 5 of the Public Service Act 2020; or
     (b) a Crown entity under section 7 of the Crown Entities Act 2004; or
     (c) the Reserve Bank, the Parliamentary Counsel Office, and the New Zealand Police; or
     (d) any overseas country's counterpart of any of the entities in paragraphs (a) to (c)
@@ -484,7 +484,7 @@ A reporting entity must also obtain—
   (c) a customer conducts a transaction or obtains a product or service specified in regulations through the reporting entity.
 (2) The following are customers for the purposes of subsection (1):
   (a) a listed issuer (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013) that is the issuer of quoted voting products (within the meaning of that Act):
-  (b) a government department named in Schedule 1 of the State Sector Act 1988:
+  (b) a public service agency as defined in section 5 of the Public Service Act 2020:
   (c) a local authority, as defined in section 5(2) of the Local Government Act 2002:
   (d) the New Zealand Police:
   (e) a State enterprise (within the meaning of section 2 of the State-Owned Enterprises Act 1986) and a new State enterprise (as listed in Schedule 2 of that Act):
@@ -498,7 +498,7 @@ A reporting entity must also obtain—
   (k) an organisation named in Schedule 4 of the Public Finance Act 1989:
   (l) a company named in Schedule 4A of the Public Finance Act 1989:
   (m) a government body that—
-    (i) corresponds to a government department named in Schedule 1 of the State Sector Act 1988; and
+    (i) corresponds to a public service agency as defined in section 5 of the Public Service Act 2020; and
     (ii) is located in an overseas jurisdiction that has sufficient AML/CFT systems:
   (n) a registered bank within the meaning of section 2(1) of the Reserve Bank of New Zealand Act 1989:
   (o) a licensed insurer within the meaning of section 6(1) of the Insurance (Prudential Supervision) Act 2010:
