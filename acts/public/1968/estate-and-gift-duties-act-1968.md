@@ -1,5 +1,5 @@
 # Estate and Gift Duties Act 1968
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend the law relating to estate duty and gift duty
 
@@ -453,7 +453,7 @@ Where the Commissioner is satisfied that any gift is made for or towards the mai
   (jb) any gift to a board that is constituted under subpart 5 of Part 3 of the Education and Training Act 2020 and is not carried on for the private pecuniary profit of any individual:
   (jc) any gift to a tertiary education institution that is established under subpart 3 of Part 4 of the Education and Training Act 2020 and is not carried on for the private pecuniary profit of any individual:
   (jd) any gift to an organisation that is—
-    (i) part of the State Services as defined in section 2 of the State Sector Act 1988; and
+    (i) part of the State Services as defined in section 5 of the Public Service Act 2020; and
     (ii) not an educational institution; and
     (iii) not carried on for the private pecuniary profit of any individual:
   (k) any gift made by a local authority under section 225C(d) of the Local Government Act 1974 to a community trust established in accordance with section 225D of that Act where that gift constitutes—
