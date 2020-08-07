@@ -1,5 +1,5 @@
 # Wine Act 2003
-_Consolidation as at 2020-03-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Wine Act 2003.
@@ -839,7 +839,7 @@ A person who is subject to verification requirements under this Act must—
 
 ### 55 Wine officers
 (1) The Director-General may from time to time appoint persons as wine officers for the purposes of this Act.
-(2) Persons appointed under subsection (1) must be employed under the State Sector Act 1988.
+(2) Persons appointed under subsection (1) must be employed under the Public Service Act 2020.
 (3) A wine officer may be authorised, on his or her appointment, to exercise and perform all of the powers and functions conferred on wine officers under this Act, or only those powers and functions specified in the officer's instrument of appointment or subsequent written notice from the Director-General to the officer.
 
 **Powers of Director-General**
@@ -888,7 +888,7 @@ The Director-General may issue notices under section 120.
 (2) The Director-General is protected from civil liability for a statement published under this section, unless the statement was not made in good faith or was made recklessly.
 
 ### 61 Delegations by Director-General
-The Director-General may delegate under section 41 of the State Sector Act 1988 all or any of his or her functions, powers, or duties under this Act.
+The Director-General may delegate under clauses 2 and 3 of Schedule 6 of the Public Service Act 2020 all or any of his or her functions, powers, or duties under this Act.
 
 **Powers of wine officers**
 
@@ -1047,7 +1047,7 @@ In sections 71 to 82Z,—
 ### 74 Recognition of certain persons without application
 (1) The Director-General may, without receiving an application under section 73(1), recognise any of the following natural persons to carry out specified functions and activities:
   (a) any officer or employee of the Ministry:
-  (b) any officer or employee of any department of the Public Service listed in Schedule 1 of the State Sector Act 1988.
+  (b) any officer or employee of any department as defined in section 5 of the Public Service Act 2020.
 (2) Section 73(2) and (3) apply to subsection (1) accordingly, with all necessary modifications.
 
 ### 75 Recognition of classes of persons
@@ -1292,7 +1292,7 @@ A suspension under section 82J or an extension of a suspension under section 82K
   (d) the agency or person has ceased to operate as a recognised agency or a recognised person; or
   (e) the agency or person has continued to fail to pay an ongoing recognition fee, charge, or levy after the agency's or person's recognition has been suspended on the ground set out in section 82J(1)﻿(d); or
   (f) the agency or person has failed to comply with or maintain any criteria or competencies that led to the recognition of the agency or person; or
-  (g) the agency is no longer the appropriate agency to hold the recognition, but only if the agency is, or is within, the Ministry or a department of the public service listed in Schedule 1 of the State Sector Act 1988.
+  (g) the agency is no longer the appropriate agency to hold the recognition, but only if the agency is, or is within, the Ministry or a public service agency as defined in section 5 of the Public Service Act 2020.
 (2) However, before withdrawing recognition, the Director-General must consult the agency or person in accordance with section 82X about the proposed withdrawal of recognition, unless the agency is, or is within, the Ministry or the person is within the Ministry.
 (3) The notification given to the agency or person in accordance with section 82X(a)﻿(i) must—
   (a) specify the grounds for the proposed withdrawal; and
@@ -1728,7 +1728,7 @@ The Governor-General may, by Order in Council, make regulations to do all or any
     (viii) a specified document was or was not a copy of a registered wine standards management plan; or
     (ix) a specified document was or was not a copy of a notice or direction given under this Act; or
     (x) a specified document was a copy of an extract from a register kept under this Act:
-  (b) a certificate purporting to be signed by any person authorised by this Act or the State Sector Act 1988 to delegate to any person, or to persons of any kind or description, the exercise or performance of any power or function under this Act, stating that—
+  (b) a certificate purporting to be signed by any person authorised by this Act or the Public Service Act 2020 to delegate to any person, or to persons of any kind or description, the exercise or performance of any power or function under this Act, stating that—
     (i) the person has delegated the exercise or performance of the power or function specified in the certificate to the person specified in the certificate; or
     (ii) the person has delegated the exercise of the power or function specified in the certificate to persons of a kind or description specified in the certificate, and that a named person specified in the certificate is a person of that kind or description:
   (c) a certificate purporting to be signed by an analyst, a recognised agency, or a recognised person stating the results of an analysis, test, or examination of a sample taken under or for the purposes of this Act:
