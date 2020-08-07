@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2020-05-13_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -48,7 +48,7 @@ In this Act, unless the context otherwise requires,—
     (a) has the same meaning as in section 4 of the Policing Act 2008; and
     (b) in Part 5B, includes any person acting under the authority of a constable
   - **Controller** means the person who is the National Controller in accordance with section 10, or a Group Controller appointed under section 26
-  - **department** means a department of the public service listed in Schedule 1 of the State Sector Act 1988
+  - **department** means a public service agency as defined in section 5 of the Public Service Act 2020
   - **Director** means the Director of Civil Defence Emergency Management appointed under section 8
   - **district** means the district of a local authority; and includes a region
   - **emergency** means a situation that—
@@ -105,7 +105,7 @@ In this Act, unless the context otherwise requires,—
   - **state of emergency** means a state of national emergency or a state of local emergency
   - **state of local emergency** means a state of local emergency declared under section 68 or section 69
   - **state of national emergency** means a state of national emergency declared under section 66
-  - **State services** has the same meaning as in section 2 of the State Sector Act 1988
+  - **State services** has the same meaning as in section 5 of the Public Service Act 2020
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **transition period** means a national transition period or a local transition period
   - **unitary authority** means a unitary authority within the meaning of the Local Government Act 2002
@@ -131,7 +131,7 @@ All persons exercising functions in relation to the development and implementati
 **Director of Civil Defence Emergency Management**
 
 ### 8 Appointment and functions of Director of Civil Defence Emergency Management
-(1) The chief executive of the responsible department may appoint under the State Sector Act 1988 a suitably qualified and experienced person as the Director of Civil Defence Emergency Management.
+(1) The chief executive of the responsible department may appoint under the Public Service Act 2020 a suitably qualified and experienced person as the Director of Civil Defence Emergency Management.
 (2) The functions of the Director are to—
   (a) provide advice to the Minister on matters relating to civil defence emergency management:
   (b) identify hazards and risks that the Director considers are of national significance:
@@ -185,7 +185,7 @@ All persons exercising functions in relation to the development and implementati
 (2) A person purporting to act under any delegation under section 10 is presumed to be acting in accordance with the terms of the delegation in the absence of proof to the contrary.
 (3) A delegation under section 10 is revocable in writing at will, and no such delegation prevents the exercise of any function or power by the Director.
 (4) A delegation under section 10, until revoked, continues in force according to its tenor even if the Director by whom it was made has ceased to hold office.
-(5) No person is employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 merely because functions and powers are delegated to that person under section 10.
+(5) No person is employed in the service of Her Majesty for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 merely because functions and powers are delegated to that person under section 10.
 
 **National Recovery Manager**
 
@@ -200,7 +200,7 @@ All persons exercising functions in relation to the development and implementati
 (2) A person purporting to act under any delegation under section 11A is presumed to be acting in accordance with the terms of the delegation in the absence of proof to the contrary.
 (3) A delegation under section 11A is revocable in writing at will, and no such delegation prevents the performance of any function or the exercise of any power by the Director.
 (4) A delegation under section 11A, until revoked, continues in force according to its tenor even if the Director who made the delegation has ceased to hold office.
-(5) A person is not employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 merely because functions and powers are delegated to that person under section 11A.
+(5) A person is not employed in the service of Her Majesty for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 merely because functions and powers are delegated to that person under section 11A.
 
 **Civil Defence Emergency Management Groups**
 
@@ -590,7 +590,7 @@ A civil defence emergency management group plan—
 
 **General duties of government departments and others**
 
-### 58 Departments to prepare plans to continue functioning during and after emergency
+### 58 Departments and interdepartmental ventures to prepare plans to continue functioning during and after emergency
 Every department must—
   (a) ensure that it is able to function to the fullest possible extent, even though this may be at a reduced level, during and after an emergency:
   (b) make available to the Director in writing, on request, its plan for functioning during and after an emergency.
@@ -1211,8 +1211,8 @@ A person who commits an offence against this Act is liable on conviction,—
 (1) In the case of absence from duty of the Director (arising from whatever cause) or on the occurrence from any cause of a vacancy in that position (whether by reason of death, resignation, or otherwise) and while the absence or vacancy continues, all or any of the functions, duties, and powers of the Director or pertaining to the position may be exercised and performed by any other person for the time being directed or appointed by the chief executive of the responsible department to exercise and perform them.
 (2) The direction may be given or the appointment may be made before the absence or vacancy occurs or while the absence or vacancy continues.
 (3) No direction or appointment under this section, and no acts done by a person acting under the direction or appointment, may in proceedings be questioned on the ground that the occasion for the direction or appointment had not arisen or had ceased, or on the ground that the person has not been appointed to the position of Director.
-(4) If a person appointed under this section is an employee within the meaning of that term in the State Sector Act 1988, nothing in section 62 of that Act applies.
-(5) Except as provided in subsection (4), this section does not limit or affect the application of the State Sector Act 1988.
+(4) If a person appointed under this section is an employee within the meaning of that term in the Public Service Act 2020, nothing in clause 2 of Schedule 8 of that Act applies.
+(5) Except as provided in subsection (4), this section does not limit or affect the application of the Public Service Act 2020.
 
 ### 107 Compensation if property requisitioned
 (1) Subsection (2) applies if any requisitioned property has come under the control of the National Controller, any constable, or a person authorised by the National Controller or constable, while acting under section 90 in a state of emergency.
