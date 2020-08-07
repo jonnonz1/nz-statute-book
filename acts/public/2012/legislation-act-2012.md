@@ -1,5 +1,5 @@
 # Legislation Act 2012
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Legislation Act 2012.
@@ -389,7 +389,7 @@ The purpose of this Part is to help New Zealand meet its international transpare
   (d) that is not, and is not an instrument published (under section 14, or another enactment) as if it were, a legislative instrument.
 (2) In this Part, unless the context otherwise requires,—
   - **central government entity** means any of the following (or a decision-making person or body in or related to, or acting through or for, any of the following):
-    (a) a government department named in Schedule 1 of the State Sector Act 1988, including any departmental agency that, under section 27A and Schedule 1A of that Act, is part of that department:
+    (a) a government department named in Part 1 of Schedule 2 of the Public Service Act 2020, including any departmental agency that is part of that department (see Part 2 of Schedule 2 of that Act):
     (b) a Crown entity (as defined in section 7(1) of the Crown Entities Act 2004, but excluding a school board and a tertiary education institution):
     (c) the Reserve Bank of New Zealand:
     (d) any other instrument of the Crown prescribed, for the purposes of this paragraph, by an order made under subsection (3)
@@ -868,11 +868,11 @@ The Chief Parliamentary Counsel has all the rights, duties, and powers of an emp
 ### 72 Collective agreements
 (1) The Chief Parliamentary Counsel must conduct any negotiations for a collective agreement under the Employment Relations Act 2000—
   (a) with a union of which employees are members; and
-  (b) in consultation with the State Services Commissioner.
+  (b) in consultation with the Public Service Commissioner.
 (2) In this section, union has the meaning given to that term by section 5 of the Employment Relations Act 2000.
 
 ### 73 Employment principles
-The Chief Parliamentary Counsel must operate a personnel policy that complies with the principle of being a good employer by following, as if he or she were the chief executive of a department, the provisions of sections 56 and 58 of the State Sector Act 1988.
+The Chief Parliamentary Counsel must operate a personnel policy that complies with the principle of being a good employer by following, as if he or she were the chief executive of a department, the provisions of sections 73 and 74 of the Public Service Act 2020.
 
 ### 74 Appointments on merit
 In making an appointment under section 67 or 69, the Chief Parliamentary Counsel must give preference to the person who is best suited to the position.
@@ -884,7 +884,7 @@ The Chief Parliamentary Counsel must put in place a procedure that provides for�
   (c) reviewing those appointments made to an advertised vacant position within the PCO that are the subject of any complaint by an employee of the PCO.
 
 ### 75A Secondments from elsewhere in State services for developing senior leadership and management capability
-Sections 74 and 75 do not apply to any secondment arranged under section 49 of the State Sector Act 1988.
+Sections 74 and 75 do not apply to any secondment arranged under section 64 of the Public Service Act 2020.
 
 ### 76 Protection from liability
 (1) This section applies to the Chief Parliamentary Counsel and every employee of the PCO.
