@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2018-12-03_
+_Consolidation as at 2020-08-07_
 
 > Title
 
@@ -1209,12 +1209,12 @@ In sections 78H and 78I, historical information means information that relates t
 ## Part 10 — Registrar-General and Registrars
 
 ### 79 Registrar-General
-(1) There shall from time to time be appointed under the State Sector Act 1988 a Registrar-General.
+(1) There shall from time to time be appointed under the Public Service Act 2020 a Registrar-General.
 (2) The Registrar-General is charged with the general administration of this Act.
 (3) Subject to this Act, every Registrar shall exercise and perform powers and duties under this Act in accordance with the directions for the time being (if any) of the Registrar-General.
 
 ### 80 Deputy Registrar-General
-(1) There shall from time to time be appointed under the State Sector Act 1988 1 or more Deputy Registrars-General as may be desirable for the effective and efficient administration of this Act.
+(1) There shall from time to time be appointed under the Public Service Act 2020 1 or more Deputy Registrars-General as may be desirable for the effective and efficient administration of this Act.
 (2) Subject to the control of the Registrar-General, a Deputy Registrar-General has and may exercise and perform any of the powers, functions, and duties of the Registrar-General.
 (3) On the occurrence from any cause of a vacancy in the office of Registrar-General (whether by reason of death or resignation or otherwise) or in the absence (from whatever cause arising) of the Registrar-General, and for so long as the vacancy or absence continues,—has and may exercise and perform all the powers, functions, and duties of the Registrar-General.
   (a) the Deputy Registrar-General if there is only 1; or
@@ -1224,7 +1224,7 @@ In sections 78H and 78I, historical information means information that relates t
 ### 81 Registrars
 (1) There shall from time to time be appointed such number of persons to be Registrars as is necessary for the purposes of this Act or any other Act under which Registrars exercise functions.
 (2) Appointments under subsection (1) shall,—
-  (a) in the case of persons who on their appointment will become employed in the Public Service, be in accordance with the State Sector Act 1988; and
+  (a) in the case of persons who on their appointment will become employed in the public service, be in accordance with the Public Service Act 2020; and
   (b) in every other case, be in writing under the hand of the Registrar-General, specifying either—
     (i) the name of the person appointed; or
     (ii) an office whose holder for the time being is to hold the appointment; and
