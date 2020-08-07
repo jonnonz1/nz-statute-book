@@ -1,5 +1,5 @@
 # Courts Security Act 1999
-_Consolidation as at 2019-04-08_
+_Consolidation as at 2020-08-07_
 
 > An Act to provide for—athe security of courts and tribunals; andbthe safety of the public and others who access and use courts and tribunals; and(c)the promotion of the orderly operation of courts and tribunals
 
@@ -100,7 +100,7 @@ In this Act, unless the context otherwise requires,—
 
 ### 4 Chief executive may appoint, or contract for, court security officers
 (1) The chief executive may provide court security officers by doing one or both of the following:
-  (a) appointing persons as court security officers from time to time under the State Sector Act 1988:
+  (a) appointing persons as court security officers from time to time under the Public Service Act 2020:
   (b) making court security contracts from time to time.
 (2) The chief executive has no duty to provide—
   (a) any court security officers; or
@@ -108,13 +108,13 @@ In this Act, unless the context otherwise requires,—
   (c) any court security officers at any particular court.
 
 ### 5 Appointment of court security officers
-(1) The chief executive must appoint suitable persons when appointing court security officers under the State Sector Act 1988.
+(1) The chief executive must appoint suitable persons when appointing court security officers under the Public Service Act 2020.
 (2) An appointed court security officer is an employee of the department.
 
 ### 6 Contracts for provision of court security officers
 (1) The chief executive must have the written consent of the Minister before making a court security contract.
 (2) The chief executive acts in the name and on behalf of the Crown when making a court security contract.
-(3) A contracted court security officer is not employed in the service of the Crown, for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956, just because he or she is a contracted court security officer.
+(3) A contracted court security officer is not employed in the service of the Crown, for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956, just because he or she is a contracted court security officer.
 
 ### 7 Requirements of court security contracts
 (1) Every court security contract must—
@@ -122,7 +122,7 @@ In this Act, unless the context otherwise requires,—
   (b) specify the term of the contract; and
   (c) specify each court to which the contract applies; and
   (d) require the contractor to employ a sufficient number of suitable persons as contracted court security officers; and
-  (e) require the contractor to comply with sections 56(1), 56(2), 58(1), and 58(3) of the State Sector Act 1988 (which relate to personnel and equal employment policies), as if the contractor were the chief executive of a department within the meaning of that Act; and
+  (e) require the contractor to comply with sections 73 and 74(2) of the Public Service Act 2020 (which relate to personnel and equal employment policies), as if the contractor were the chief executive of a department within the meaning of that Act; and
   (f) require the contractor to ensure that contracted court security officers, when exercising any of the powers and duties in sections 12 to 23 or 26 or 28, comply with—
     (i) this Act and any regulations made under this Act; and
     (ii) the New Zealand Bill of Rights Act 1990, as if the contractor and the contracted court security officers were employees of the department; and
