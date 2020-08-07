@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2020-07-01_
+_Consolidation as at 2020-08-07_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -4059,7 +4059,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
   (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see section 161(3) of this Act).
 (7) If a bylaw of a local authority is inconsistent with or repugnant to any ordinary rules in force in the same locality, the rules override the bylaws.
-(8) Despite section 28 of the State Sector Act 1988, the Minister may not delegate his or her power to make ordinary rules under this Act.
+(8) Despite clause 5 of Schedule 6 of the Public Service Act 2020, the Minister may not delegate his or her power to make ordinary rules under this Act.
 
 ### 161 Procedure concerning ordinary rules
 (1) Every ordinary rule must—
@@ -5170,7 +5170,7 @@ An enforcement authority may, in relation to infringement offences against regul
 (4) Without limiting the generality of subsection (3), the following are exempt from any fee or charge payable under this Part for the supply of information from the register of motor vehicles:
   (a) the New Zealand Police:
   (b) a statutory entity (within the meaning of the Crown Entities Act 2004):
-  (c) a department specified in Schedule 1 of the State Sector Act 1988.
+  (c) a public service agency as defined in section 5 of the Public Service Act 2020.
 
 ### 269A Additional fee for certain RUC vehicles
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, prescribe an additional fee payable in respect of—
@@ -5208,7 +5208,7 @@ Nothing in this Part prevents the Minister from appointing the Agency to be the 
 
 ### 272 Delegations
 (1) The Registrar may, either generally or particularly, delegate to specified persons any of the Registrar's functions or powers under this Part.
-(2) However, subsection (1) does not permit the Registrar to delegate a function or power to a person or a class of persons not employed in the State services (within the meaning of the State Sector Act 1988), except with the written consent of the Minister.
+(2) However, subsection (1) does not permit the Registrar to delegate a function or power to a person or a class of persons not employed in the State services (within the meaning of the Public Service Act 2020), except with the written consent of the Minister.
 (3) If the Registrar delegates functions or powers to a person under this section, that person—
   (a) may, with the prior approval of the Minister, delegate to another person approved functions or powers; and
   (b) is, in the case of a person not employed in the State services, subject to—
