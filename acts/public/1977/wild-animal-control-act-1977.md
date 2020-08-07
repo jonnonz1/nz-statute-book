@@ -1,5 +1,5 @@
 # Wild Animal Control Act 1977
-_Consolidation as at 2018-12-21_
+_Consolidation as at 2020-08-07_
 
 > An Act to make better provision for the control of harmful species of introduced wild animals and the means of regulating the operations of recreational and commercial hunters, including wild animal recovery hunting using aircraft, so as to achieve concerted action and effective wild animal control, and to consolidate and amend the Noxious Animals Act 1956
 
@@ -377,7 +377,7 @@ The Minister shall administer and manage wild animals in accordance with—
 (5) Where any area is fenced pursuant to subsection (4), the owner or occupier of the land shall be entitled to a fair rental for the use of the land, or compensation for the loss of the use of the land, as the Minister may determine.
 
 ### 19 Tenancies
-Subject to the Residential Tenancies Act 1986, the Minister may grant tenancies or occupancies of dwellings on Crown-owned land for the purposes of this Act to officers or employees of the Department at such rent and upon such terms and conditions as may be approved by the State Services Commission, or to any other person under such circumstances, at such rent, and upon such terms and conditions, as the Minister determines.
+Subject to the Residential Tenancies Act 1986, the Minister may grant tenancies or occupancies of dwellings on Crown-owned land for the purposes of this Act to officers or employees of the Department at such rent and upon such terms and conditions as may be approved by the Public Service Commission, or to any other person under such circumstances, at such rent, and upon such terms and conditions, as the Minister determines.
 
 ### 20 Special provisions relating to goats
 [Repealed]
