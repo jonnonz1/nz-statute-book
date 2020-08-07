@@ -1,5 +1,5 @@
 # Substance Addiction (Compulsory Assessment and Treatment) Act 2017
-_Consolidation as at 2019-04-12_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Substance Addiction (Compulsory Assessment and Treatment) Act 2017.
@@ -43,7 +43,7 @@ In this Act, unless the context otherwise requires,—
     (b) the District Court
   - **criteria for compulsory treatment** means the criteria set out in section 7
   - **Director** means the Director of Addiction Services appointed under section 86(1)
-  - **Director-General of Health** means the chief executive under the State Sector Act 1988 of the Ministry of Health, and, in relation to any power or function delegated by that chief executive, includes any person to whom that chief executive has delegated that power or function
+  - **Director-General of Health** means the chief executive under the Public Service Act 2020 of the Ministry of Health, and, in relation to any power or function delegated by that chief executive, includes any person to whom that chief executive has delegated that power or function
   - **district inspector** means a person appointed under section 90 to be a district inspector
   - **drug** means—
     (a) a controlled drug within the meaning of the Misuse of Drugs Act 1975; or
@@ -742,7 +742,7 @@ Despite any other provision of this subpart, the court may determine an applicat
 **Office holders**
 
 ### 86 Director of Addiction Services
-(1) The Director-General of Health must appoint, under the State Sector Act 1988, a Director of Addiction Services.
+(1) The Director-General of Health must appoint, under the Public Service Act 2020, a Director of Addiction Services.
 (2) The Director is responsible for the general administration of this Act under the direction of the Minister and the Director-General of Health.
 (3) For the purposes of performing his or her functions, the Director—
   (a) may, at any time and without previous notice, visit any treatment centre; and
