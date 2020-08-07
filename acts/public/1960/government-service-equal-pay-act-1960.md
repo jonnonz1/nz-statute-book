@@ -1,5 +1,5 @@
 # Government Service Equal Pay Act 1960
-_Consolidation as at 1965-10-19_
+_Consolidation as at 2020-08-07_
 
 > An Act to make provision for the application to the Government service of the principle that women should receive the same pay as men where they do equal work under equal conditions
 
@@ -15,7 +15,7 @@ _Consolidation as at 1965-10-19_
     (a) the Government Service Tribunal:
     (b) the Government Railways Industrial Tribunal:
     (bb) the Police Staff Tribunal:
-    (c) the State Services Commission:
+    (c) the Public Service Commission:
     (d) every person or authority responsible for fixing the salaries or wages of Government employees.
 (2) References in this Act to men and women shall include persons under the age of 21 years as well as persons of or over that age.
 
