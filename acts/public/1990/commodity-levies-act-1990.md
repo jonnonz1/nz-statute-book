@@ -1,5 +1,5 @@
 # Commodity Levies Act 1990
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2020-08-07_
 
 > An Act to enable the making of Orders in Council imposing on certain commodities levies payable to bodies corporate representing the views and interests of the persons primarily responsible for paying those levies
 
@@ -297,7 +297,7 @@ For the purpose of ascertaining whether or not a levy order is being complied wi
 (1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act by a constable or designated person, is satisfied that there are reasonable grounds to believe that there is in any place any document, article, commodity, or thing that is evidence of the commission of an offence against this Act, may by warrant authorise every constable and designated person to search the place.
 (2) Subject to subsection (2A), the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
 (2A) Despite subsection (2), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
-(3) In this section a designated person means a person (being an auditor or a person employed in the Public Service) who is for the time being—
+(3) In this section a designated person means a person (being an auditor or a person employed in the public service) who is for the time being—
   (a) designated by a Minister as a person who may exercise powers of search under this Act; or
   (b) a member of a class of person designated by the Minister as persons who may exercise powers of search under this Act.
 (4) No person or class of person shall be designated under subsection (3), unless the Minister concerned is satisfied that the person, or persons of that class, is or are suitably qualified and trained to exercise the powers of a designated person.
