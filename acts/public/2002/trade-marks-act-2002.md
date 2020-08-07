@@ -1,5 +1,5 @@
 # Trade Marks Act 2002
-_Consolidation as at 2020-01-13_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Trade Marks Act 2002.
@@ -1850,7 +1850,7 @@ The decision to which an appeal under this Act relates remains in full force pen
 ### Subpart 1 — Commissioner and Assistant Commissioners of Trade Marks
 
 ### 175 Commissioner and Assistant Commissioners of Trade Marks
-(1) The chief executive of the Ministry must appoint, under the State Sector Act 1988,—
+(1) The chief executive of the Ministry must appoint, under the Public Service Act 2020,—
   (a) the Commissioner of Trade Marks; and
   (b) as many Assistant Commissioners of Trade Marks as may be necessary for the purposes of this Act.
 (2) Those persons are employees of the Ministry, and those appointments may be made separately or in conjunction with any other office in the Ministry.
