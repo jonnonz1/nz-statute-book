@@ -1,5 +1,5 @@
 # Reserves Act 1977
-_Consolidation as at 2018-12-21_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to public reserves, to make further provision for their acquisition, control, management, maintenance, preservation (including the protection of the natural environment), development, and use, and to make provision for public access to the coastline and the countryside
 
@@ -160,10 +160,10 @@ _Consolidation as at 2018-12-21_
 (4) Every notice of revocation or amendment issued under subsection (3) shall, according to its tenor, take effect as from the date on which the original notice was intended to take effect or as from such other date as may be therein specified in that behalf.
 
 ### 7 Director of Reserves
-There may from time to time be appointed under the State Sector Act 1988 a suitable person to be the Director of Reserves, who shall carry out such directions and perform such duties for the administration of this Act as may from time to time be given or assigned to him or her by the Director-General.
+There may from time to time be appointed under the Public Service Act 2020 a suitable person to be the Director of Reserves, who shall carry out such directions and perform such duties for the administration of this Act as may from time to time be given or assigned to him or her by the Director-General.
 
 ### 8 Rangers
-(1) There may from time to time be appointed under the State Sector Act 1988 suitable persons to be rangers for the purposes of this Act.
+(1) There may from time to time be appointed under the Public Service Act 2020 suitable persons to be rangers for the purposes of this Act.
 (2) The Minister may from time to time appoint—
   (a) any suitable person to be a ranger in a part-time capacity for the purposes of this Act:
   (b) any suitable person to be a ranger in an honorary capacity for the purposes of this Act.
@@ -172,7 +172,7 @@ There may from time to time be appointed under the State Sector Act 1988 a suita
 (5) Any ranger appointed under this section shall, on the expiration of the term of his or her appointment, or on the sooner expiry of his or her appointment by removal from office or resignation, surrender to the Director-General his or her warrant of appointment and any badge of office that may have been issued to him or her.
 (6) Every ranger appointed under subsection (2) shall be appointed to hold office during the pleasure of the Minister or for such specified term as the Minister thinks fit.
 (7) Any ranger appointed under subsection (2) may at any time be removed from office by the Minister for incapacity, neglect of duty, or misconduct, or may at any time resign his or her office by writing addressed to the Director-General.
-(8) No person appointed under subsection (2) to be a ranger shall by virtue of that appointment be deemed to be employed in the service of the Sovereign for the purposes of the State Sector Act 1988 or of the Government Superannuation Fund Act 1956.
+(8) No person appointed under subsection (2) to be a ranger shall by virtue of that appointment be deemed to be employed in the service of the Sovereign for the purposes of the Public Service Act 2020 or of the Government Superannuation Fund Act 1956.
 (9) The administering body of any reserve may from time to time appoint any officer or servant of that body, or, if the administering body is a local authority, then any suitable person, whether an officer or servant of that body or not, to be a ranger for the purposes of this Act to exercise his or her duties in that reserve, and with respect to every such ranger the following provisions shall apply:
   (a) he shall hold office during the pleasure of the administering body and may at any time be removed from office by the administering body, or may at any time resign his or her office by writing addressed to the principal administrative officer or chief executive of the administering body:
   (b) the administering body shall supply to him or her a written warrant signed by the principal administrative officer or chief executive of the administering body evidencing the appointment, and the production of that warrant shall be sufficient proof of the appointment:
@@ -200,7 +200,7 @@ There may from time to time be appointed under the State Sector Act 1988 a suita
 
 ### 11 Department may engage persons on contract
 (1) With the consent of the Minister, the Department may from time to time on behalf of the Crown enter into any contracts with persons, on such terms and conditions as it thinks fit, to provide such services or perform such work for any purpose of this Act as the Department may require.
-(2) No person shall, by reason only of his or her entering into a contract with the Department under subsection (1), be regarded as being employed in the State services for the purposes of the State Sector Act 1988 or in the Government service for the purposes of the Government Superannuation Fund Act 1956.
+(2) No person shall, by reason only of his or her entering into a contract with the Department under subsection (1), be regarded as being employed in the State services for the purposes of the Public Service Act 2020 or in the Government service for the purposes of the Government Superannuation Fund Act 1956.
 
 ## Part 2 — Acquisition of land for reserves
 
