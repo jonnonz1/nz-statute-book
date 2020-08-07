@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -3156,8 +3156,8 @@ The chief executive or a Labour Inspector may recover in the District Court as a
     (iiia) an enforceable undertaking that section 223C(1) provides may be enforced by compliance order; or
     (iiib) an improvement notice that section 223D(6) provides may be enforced by compliance order; or
     (iv) a demand notice that section 225(4) provides may be enforced by compliance order; or
-    (v) sections 56 and 58 of the State Sector Act 1988; or
-    (vi) Part 6 of the State Sector Act 1988; or
+    (v) sections 73 and 74 of the Public Service Act 2020 and sections 597 and 600 of the Education and Training Act 2020; or
+    (vi) sections 76 to 80 of the Public Service Act 2020 and sections 585 to 596 and 660 of the Education and Training Act 2020; or
     (vii) section 11(3)﻿(c) of the Health and Disability Services Act 1993; or
     (viii) clauses 5 and 6 of Schedule 1 of the Broadcasting Act 1989; or
     (ix) sections 83, 83A, and 83B of the Fire Service Act 1975; or
@@ -3605,7 +3605,7 @@ A person who wishes to access mediation services must contact an office of the d
   (a) mediation under this Part; and
   (b) agreed terms of settlement under section 149(1).
 (2) Despite subsection (1), a person who is employed or engaged by the chief executive to provide mediation services and who holds a general authority to sign agreed terms of settlement under section 149(1) must not sign agreed terms of settlement in which a party agrees to forgo all, or part, of the party's entitlements specified in subsection (3).
-(3) This section applies to wages or holiday pay or other money payable by the employer to the employee under the Minimum Wage Act 1983, the Holidays Act 2003, the Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016, or the Care and Support Workers (Pay Equity) Settlement Act 2017.
+(3) This section applies to wages or holiday pay or other money payable by the employer to the employee under the Minimum Wage Act 1983, the Holidays Act 2003, the Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016, or the Support Workers (Pay Equity) Settlements Act 2017.
 
 ### 149 Settlements
 (1) Where a problem is resolved, whether through the provision of mediation services or otherwise, any person—may, at the request of the parties to the problem, and under that general authority, sign the agreed terms of settlement.
@@ -3784,7 +3784,7 @@ If a matter before the Authority relates principally to an alleged breach of emp
   (m) actions for the recovery of penalties—
     (i) under this Act for a breach of an employment agreement:
     (ii) under this Act for a breach of any provision of this Act (being a provision that provides for the penalty to be recovered in the Authority):
-    (iia) under the Care and Support Workers (Pay Equity) Settlement Act 2017:
+    (iia) under the Support Workers (Pay Equity) Settlements Act 2017:
     (iii) under section 76 of the Holidays Act 2003:
     (iiia) under section 25 of the Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016:
     (iv) under section 10 of the Minimum Wage Act 1983:
@@ -4186,7 +4186,7 @@ The provisions of Schedule 3 have effect in relation to the court and matters wi
   (c) the court acts in bad faith.
 
 ### 194 Application for review
-(1) If any person wishes to apply for review under the Judicial Review Procedure Act 2016, or bring proceedings seeking a writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction, in relation to the exercise, refusal to exercise, or proposed or purported exercise by—of a statutory power or statutory power of decision (as defined by section 4 of the Judicial Review Procedure Act 2016) conferred by or under this Act or any of the provisions of Parts 5 and 6 of the State Sector Act 1988 or subpart 4 of Part 6 of the Education and Training Act 2020, the provisions of subsections (2) to (4) of this section apply.
+(1) If any person wishes to apply for review under the Judicial Review Procedure Act 2016, or bring proceedings seeking a writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction, in relation to the exercise, refusal to exercise, or proposed or purported exercise by—of a statutory power or statutory power of decision (as defined by section 4 of the Judicial Review Procedure Act 2016) conferred by or under this Act or any of the provisions of sections 17 to 21, subpart 4 of Part 3, Part 4, and clauses 1 to 5 and 7 to 11 of Schedule 8 of the Public Service Act 2020 or subpart 4 of Part 6 of the Education and Training Act 2020, the provisions of subsections (2) to (4) of this section apply.
   (a) the Authority; or
   (b) an officer of the Authority or the court; or
   (c) an employer, or that employer's representative; or
@@ -4196,7 +4196,7 @@ The provisions of Schedule 3 have effect in relation to the court and matters wi
   (g) the chief executive; or
   (h) any other person—
 (2) Despite any other Act or rule of law, but subject to section 184(1A), the court has full and exclusive jurisdiction to hear and determine any application or proceedings of the type referred to in subsection (1) and all such applications or proceedings must be made to or brought in the court.
-(3) Where a right of appeal (which includes, for the purposes of this subsection, the right to make an election under section 179) is conferred on any person under this Act or the State Sector Act 1988 or the Education and Training Act 2020 in respect of any matter, that person may not make an application under subsection (1) in respect of that matter unless any appeal brought by that person in the exercise of that right of appeal has first been determined.
+(3) Where a right of appeal (which includes, for the purposes of this subsection, the right to make an election under section 179) is conferred on any person under this Act or the Public Service Act 2020 or the Education and Training Act 2020 in respect of any matter, that person may not make an application under subsection (1) in respect of that matter unless any appeal brought by that person in the exercise of that right of appeal has first been determined.
 (4) A Judge may at any time and after hearing such persons, if any, as the Judge thinks fit, give such directions prescribing the procedure to be followed in any particular case under this section as the Judge deems expedient having regard to the exigencies of the case and the interests of justice.
 
 ### 194A Application for review by certain employees
@@ -4497,7 +4497,7 @@ The functions of the chief executive under this Act are—
 ### 223 Labour Inspectors
 (1) The chief executive may designate as Labour Inspectors such employees of the department as the chief executive from time to time considers necessary for the purposes of—
   (a) this Act; and
-  (ab) the Care and Support Workers (Pay Equity) Settlement Act 2017; and
+  (ab) the Support Workers (Pay Equity) Settlements Act 2017; and
   (b) the Equal Pay Act 1972; and
   (c) the Holidays Act 2003; and
   (ca) the Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016; and
@@ -4763,7 +4763,7 @@ A person is not liable to pay an infringement fee and penalty under this Act for
 (4) The Acts to which this section applies are—
   (a) this Act:
   (b) the Accident Compensation Act 2001:
-  (ba) the Care and Support Workers (Pay Equity) Settlement Act 2017:
+  (ba) the Support Workers (Pay Equity) Settlements Act 2017:
   (c) the Equal Pay Act 1972:
   (d) the Holidays Act 2003:
   (da) the Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016:
@@ -4771,7 +4771,7 @@ A person is not liable to pay an infringement fee and penalty under this Act for
   (f) the Minimum Wage Act 1983:
   (g) the Parental Leave and Employment Protection Act 1987:
   (h) the Policing Act 2008:
-  (i) the State Sector Act 1988:
+  (i) the Public Service Act 2020:
   (j) the Wages Protection Act 1983.
 
 **Miscellaneous provisions**
