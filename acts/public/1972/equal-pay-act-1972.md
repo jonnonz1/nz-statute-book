@@ -1,5 +1,5 @@
 # Equal Pay Act 1972
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to make provision for the removal and prevention of discrimination, based on the sex of the employees, in the rates of remuneration of males and females in paid employment, and for matters incidental thereto
 
@@ -15,7 +15,7 @@ This Act may be cited as the Equal Pay Act 1972.
   - **award** means an award made under the Industrial Relations Act 1973 or any corresponding former Act, the Aircrew Industrial Tribunal Act 1971, or the Agricultural Workers Act 1977; and includes an agreement deemed to be an award by section 33(2) of the Agricultural Workers Act 1977
   - **court** means the Employment Court constituted under the Employment Relations Act 2000
   - **employee** has the same meaning as in the Employment Relations Act 2000; but does not include—
-    (a) any person whose rate of remuneration is fixed under the State Sector Act 1988:
+    (a) any person whose rate of remuneration is fixed under the Public Service Act 2020:
     (b)
     (c) any person whose rate of remuneration is fixed under section 52 of the Hospitals Act 1957 (as substituted by section 4(1) of the Hospitals Amendment Act 1976):
     (d)
