@@ -1,5 +1,5 @@
 # Rating Valuations Act 1998
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-08-07_
 
 > An Act to—aprovide for the Valuer-General to be a statutory officer within Land Information New Zealand; andbintroduce contestability to the rating valuations market by assigning to the Valuer-General a regulatory rather than a participatory role in the preparation of district valuation rolls; andcrepeal the Valuation of Land Act 1951 and generally restate the law relating to the valuation of land for rating purposes
 
@@ -60,7 +60,7 @@ In this Act, unless the context otherwise requires,—
 ## Part 1 — Functions and powers of Valuer-General
 
 ### 3 Valuer-General
-(1) There is from time to time to be appointed under the State Sector Act 1988 a Valuer-General.
+(1) There is from time to time to be appointed under the Public Service Act 2020 a Valuer-General.
 (2) The Valuer-General reports directly to the Minister on the exercise of his or her functions and powers under this Act.
 
 ### 4 Functions and powers of Valuer-General
@@ -420,7 +420,7 @@ A territorial authority must—
 (7) However, a notice must not be treated as received if the person to whom it is posted or sent proves that it was not received, otherwise than through fault on the person's part.
 
 ### 47 Delegation of Valuer-General's functions and powers
-The Valuer-General may under section 41 of the State Sector Act 1988 delegate to employees of the department, in the same manner and to the same extent as if the Valuer-General were its chief executive,—
+The Valuer-General may under clauses 2 and 3 of Schedule 6 of the Public Service Act 2020 delegate to employees of the department, in the same manner and to the same extent as if the Valuer-General were its chief executive,—
   (a) any power conferred on the Valuer-General by statute, other than the power to make rules under section 5:
   (b) any power delegated to the Valuer-General by a Minister of the Crown.
 
