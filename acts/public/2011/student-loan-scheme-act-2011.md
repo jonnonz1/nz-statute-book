@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -2124,7 +2124,7 @@ The Student Loan Scheme Act 1992 (1992 No 141) is repealed.
 In this schedule,—
   - **Crown agent** means a statutory entity named in Part 1 of Schedule 1 of the Crown Entities Act 2004
   - **ENZ** means Education New Zealand continued by section 510 of the Education and Training Act 2020
-  - **government department** means a department named in Schedule 1 of the State Sector Act 1988
+  - **government department** means a public service agency as defined in section 5 of the Public Service Act 2020
   - **NZQA** means the New Zealand Qualifications Authority continued by section 430 of the Education and Training Act 2020
   - **qualifying government-funded scholarship** means a scholarship, in respect of study or an internship,—
     (a) that is partially or fully funded by a government department or a Crown agent; and
