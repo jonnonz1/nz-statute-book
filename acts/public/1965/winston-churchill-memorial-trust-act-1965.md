@@ -1,5 +1,5 @@
 # Winston Churchill Memorial Trust Act 1965
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2020-08-07_
 
 > Title
 
@@ -29,7 +29,7 @@ In this Act, unless the context otherwise requires,—
 ### 4 Membership of Board
 (1) The Board shall consist of 9 persons appointed by the Governor-General on the recommendation of the Minister:
   provided that the Minister, after the first members are appointed, shall consult with the Board before recommending the appointment or reappointment of any person as a member.
-(2) No person, by reason only of his being a member of the Board or of any committee appointed by the Board, shall be deemed to be employed in the State services for the purposes of the State Sector Act 1988, or in the Government service for the purposes of the Government Superannuation Fund Act 1956.
+(2) No person, by reason only of his being a member of the Board or of any committee appointed by the Board, shall be deemed to be employed in the State services for the purposes of the Public Service Act 2020, or in the Government service for the purposes of the Government Superannuation Fund Act 1956.
 
 ### 5 Terms of office of members
 (1) Except as otherwise provided by this Act, the members of the Board shall be appointed for a term of 6 years.
