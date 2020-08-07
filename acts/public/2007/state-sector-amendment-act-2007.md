@@ -1,5 +1,5 @@
 # State Sector Amendment Act 2007
-_Consolidation as at 2007-11-05_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the State Sector Amendment Act 2007.
