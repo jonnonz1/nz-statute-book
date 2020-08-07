@@ -1,5 +1,5 @@
 # Criminal Records (Expungement of Convictions for Historical Homosexual Offences) Act 2018
-_Consolidation as at 2018-04-09_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Criminal Records (Expungement of Convictions for Historical Homosexual Offences) Act 2018.
@@ -29,7 +29,7 @@ In this Act, unless the context otherwise requires,—
       (i) has been expunged under section 8; and
       (ii) has not ceased to be an expunged conviction under section 20; and
     (b) in section 9, includes any criminal record of a conviction of that kind
-  - **government department** means a department named in Schedule 1 of the State Sector Act 1988
+  - **government department** means a public service agency as defined in section 5 of the Public Service Act 2020
   - **historical homosexual offence** or has the meaning given to it by section 5
   - **including** means including without limitation (to the matters specified)
   - **law enforcement agency** means—
