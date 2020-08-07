@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2019-11-26_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -132,7 +132,7 @@ In this Act, in the business of providing a financial service means carrying on 
 (1) This Act applies to persons who are in the business of providing a financial service.
 (2) None of the following persons are in the business of providing a financial service for the purposes of this Act to the extent this subsection applies to them:
   (a) a lawyer, incorporated law firm, conveyancing practitioner, qualified statutory accountant, tax agent, or real estate agent providing a service in the ordinary course of business of the relevant kind:
-  (b) a government department listed in Schedule 1 of the State Sector Act 1988:
+  (b) a public service agency as defined in section 5 of the Public Service Act 2020:
   (c) the Reserve Bank of New Zealand (and any subsidiaries):
   (d) the statutory entities listed in Schedule 1 of the Crown Entities Act 2004 (other than Public Trust):
   (e) a person engaged in terminating the business of a financial service provider after that provider has been deregistered:
@@ -468,7 +468,7 @@ A person who searches a public register for personal information for a purpose t
 **Registrar of Financial Service Providers**
 
 ### 35 Appointment of Registrar
-(1) The chief executive must appoint a Registrar of Financial Service Providers under the State Sector Act 1988.
+(1) The chief executive must appoint a Registrar of Financial Service Providers under the Public Service Act 2020.
 (2) The person holding office as Registrar of Companies under the Companies Act 1993, immediately before the commencement of this Act, is deemed to have been appointed as the first Registrar of Financial Service Providers in accordance with this section.
 
 ### 36 Power of Registrar to delegate
