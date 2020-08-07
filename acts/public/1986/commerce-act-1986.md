@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-08-07_
 
 > Title
 
@@ -693,7 +693,7 @@ Nothing in this Part applies—
 In this Part, unless the context otherwise requires,—
   - **competition report** means a report prepared by the Commission under section 51B
   - **competition study** means a study of any factors that may affect competition for the supply or acquisition of goods or services
-  - **department** means a department of the public service specified in Schedule 1 of the State Sector Act 1988
+  - **department** means a department as defined in section 5 of the Public Service Act 2020
   - **organisation** means any of the following:
     (a) an organisation named in Part 2 of Schedule 1 of the Ombudsmen Act 1975:
     (b) an organisation named in Schedule 1 of the Official Information Act 1982:
