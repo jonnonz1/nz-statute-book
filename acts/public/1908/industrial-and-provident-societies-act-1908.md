@@ -1,5 +1,5 @@
 # Industrial and Provident Societies Act 1908
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate certain enactments of the General Assembly relating to industrial and provident societies
 
@@ -26,15 +26,15 @@ In this Act, if not inconsistent with the context,—
 Every incorporated society now subsisting whose rules have been registered or certified under any enactment mentioned in Schedule 1, or under any Act thereby repealed, shall be deemed to be a society registered under this Act, and its rules shall, so far as the same are not contrary to any express provision of this Act, continue in force until altered or rescinded under this Act.
 
 ### 3A Registrar of Industrial and Provident Societies
-For the purposes of this Act there shall from time to time be appointed under the State Sector Act 1988 a Registrar of Industrial and Provident Societies.
+For the purposes of this Act there shall from time to time be appointed under the Public Service Act 2020 a Registrar of Industrial and Provident Societies.
 
 ### 3B Deputy Registrar of Industrial and Provident Societies
-(1) There may also from time to time be appointed under the State Sector Act 1988 a Deputy Registrar of Industrial and Provident Societies, who shall, under the control of the Registrar, perform such general official duties as he is called upon to perform by the Registrar.
+(1) There may also from time to time be appointed under the Public Service Act 2020 a Deputy Registrar of Industrial and Provident Societies, who shall, under the control of the Registrar, perform such general official duties as he is called upon to perform by the Registrar.
 (2) On the occurrence from any cause of a vacancy in the office of Registrar (whether by reason of death, resignation, or otherwise), and in case of the absence from duty of the Registrar (from whatever cause arising), and so long as any such vacancy or absence continues, the Deputy Registrar shall have and may exercise all the powers, duties, and functions of the Registrar.
 (3) The fact that the Deputy Registrar exercises any power, duty, or function as aforesaid shall be conclusive evidence of his authority to do so, and no person shall be concerned to inquire whether the occasion has arisen requiring or authorising him to do so.
 
 ### 3C District and Assistant Registrars of Industrial and Provident Societies
-(1) There shall from time to time be appointed under the State Sector Act 1988 as many District Registrars of Industrial and Provident Societies and Assistant Registrars of Industrial and Provident Societies as may be found necessary for the purposes of this Act.
+(1) There shall from time to time be appointed under the Public Service Act 2020 as many District Registrars of Industrial and Provident Societies and Assistant Registrars of Industrial and Provident Societies as may be found necessary for the purposes of this Act.
 (2) Subject to the control of the Registrar, every District Registrar shall have and may exercise all the duties and powers of the Registrar. Subject to the control of the Registrar and of the District Registrar, every Assistant Registrar shall have and may exercise all the duties and powers of the Registrar. The fact that a District Registrar or an Assistant Registrar exercises any powers or functions conferred by this Act on the Registrar shall be conclusive evidence of his authority to do so.
 
 ### 3D Registers to be kept
