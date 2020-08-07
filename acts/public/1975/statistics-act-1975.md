@@ -1,5 +1,5 @@
 # Statistics Act 1975
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend the Statistics Act 1955; and to make provision for official statistics; for a department having the name Statistics New Zealand and the office of Government Statistician; and for the independence of the Statistician in the execution of his duties
 
@@ -106,7 +106,7 @@ It shall be the duty of all persons who undertake to collect or compile official
 (2) The department is the same department as that existing immediately before the coming into force of the Statistics Amendment Act 1994 and known as the Department of Statistics.
 
 ### 13 Office of Government Statistician
-There shall from time to time be appointed under the State Sector Act 1988 an officer to be called the Government Statistician, who shall be the administrative head of, and control, the department and have such functions, duties, and powers as are conferred or imposed on him by this Act or any other Act.
+There shall from time to time be appointed under the Public Service Act 2020 an officer to be called the Government Statistician, who shall be the administrative head of, and control, the department and have such functions, duties, and powers as are conferred or imposed on him by this Act or any other Act.
 
 ### 14 Duties of Government Statistician
 The duties of the Statistician shall be:
@@ -134,20 +134,20 @@ The duties of the Statistician shall be:
 (2) The report shall be laid by the Minister before Parliament as soon as practicable after its receipt by him.
 
 ### 17 Deputy Government Statisticians
-(1) There shall from time to time be appointed under the State Sector Act 1988 as many Deputy Government Statisticians as may be necessary for the effective and efficient carrying out of the functions and duties of the department.
+(1) There shall from time to time be appointed under the Public Service Act 2020 as many Deputy Government Statisticians as may be necessary for the effective and efficient carrying out of the functions and duties of the department.
 (2) Subject to the control of the Statistician, each Deputy Government Statistician shall perform such general official duties (including the exercise of functions, duties, and powers of the Statistician) as are for the time being assigned to him by the Statistician.
 (3) On the occurrence from any cause of a vacancy in the office of Statistician (whether by reason of death, resignation, or otherwise) and in the case of absence from duty of the Statistician (from whatever cause arising), and so long as any such vacancy or absence continues, a Deputy Government Statistician shall have and may exercise all the functions, duties, and powers of the Statistician.
 (4) The fact that a Deputy Government Statistician exercises any function, duty, or power of the Statistician shall be conclusive evidence of the authority of that Deputy Government Statistician to do so.
 
 ### 18 Appointment of other employees
-There shall from time to time be appointed under the State Sector Act 1988 such other employees of the department as may be required for the purpose of carrying out the provisions of this Act.
+There shall from time to time be appointed under the Public Service Act 2020 such other employees of the department as may be required for the purpose of carrying out the provisions of this Act.
 
 ### 19 Employment of persons for collection of statistics
 (1) The Statistician may employ from time to time—
   (a) such interviewers, agents, and other persons as may be necessary for the collection of such statistics and information as are authorised by this Act; and
   (b) such census regional managers, census area managers, census district supervisors, census collectors, and other persons as may be necessary for the purposes of Part 3.
 (2) The duties of the persons appointed under subsection (1) shall be such as the Statistician determines.
-(3) No person shall be deemed by reason only of his employment under this section to be employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956.
+(3) No person shall be deemed by reason only of his employment under this section to be employed in the service of Her Majesty for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956.
 
 ### 20 Evidence of appointment
 Any document purporting to be signed by or on behalf of the Statistician and giving notice that any employee of the department named therein is acting under the authority of the Statistician or setting forth any instructions to any employee of the department named therein shall, unless the contrary is proved, be sufficient evidence of that authority or those instructions, as the case may be, and that the document was signed and addressed as it purports to be.
