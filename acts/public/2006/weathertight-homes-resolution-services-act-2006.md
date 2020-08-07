@@ -1,5 +1,5 @@
 # Weathertight Homes Resolution Services Act 2006
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Weathertight Homes Resolution Services Act 2006.
@@ -1110,7 +1110,7 @@ The chair of the tribunal is responsible for making such arrangements as are pra
   (b) must perform them (and may further delegate them to the extent that the delegation permits) only in accordance with any terms and conditions stated in the delegation.
 
 ### 108 Registrar and other staff of tribunal
-(1) A Registrar of the tribunal may be appointed under the State Sector Act 1988 to enable it to perform its functions, and exercise its jurisdiction, effectively.
+(1) A Registrar of the tribunal may be appointed under the Public Service Act 2020 to enable it to perform its functions, and exercise its jurisdiction, effectively.
 (2) The Secretary may designate as many employees of the Ministry to act as other officers of the tribunal as may be required for that purpose.
 (3) The officers designated must act under the general direction of the Secretary.
 (4) The Secretary must provide all other employees required to give the tribunal the services and resources necessary for that purpose.
@@ -1802,7 +1802,7 @@ In section 166, affected claimant means a person to whom the following circumsta
 
 ### 1 Appointment
 (1) Every member takes office from the date stated in the notice of appointment.
-(2) A person is not an employee (as defined in section 2 of the State Sector Act 1988) as a result of being appointed as a member.
+(2) A person is not an employee (as defined in section 5 of the Public Service Act 2020) as a result of being appointed as a member.
 (3) A person appointed as a member may hold that office concurrently with any other office.
 
 ### 2 Term of office
