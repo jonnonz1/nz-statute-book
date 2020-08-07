@@ -1,5 +1,5 @@
 # Adoption Act 1955
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the adoption of children
 
@@ -26,10 +26,10 @@ In this Act, unless the context otherwise requires,—
   - **relative** , in relation to any child, means a grandparent, brother, sister, uncle, or aunt, whether of the full blood, of the half blood, or by affinity
   - **social worker** —
     (a) In relation to any application or proposed application by a Maori, whether jointly or singly, for an adoption order in respect of a Maori child, means—
-      (i) any Maori person employed as a social worker under Part 5 of the State Sector Act 1988 in the department; or
+      (i) any Maori person employed as a social worker in the department; or
       (ii) any member of the Maori community nominated, after consultation with the Maori community, by the chief executive to carry out the duties of a social worker under this Act in respect of the adoption:
     (b) in relation to any other application or proposed application for an adoption order, means—
-      (i) any person employed as a social worker under Part 5 of the State Sector Act 1988 in the department; or
+      (i) any person employed as a social worker in the department; or
       (ii) if the court so directs, any member of the Maori community nominated, after consultation with the Maori community, by the chief executive to carry out the duties of a social worker under this Act in respect of the adoption.
 
 **Making of adoption orders**
