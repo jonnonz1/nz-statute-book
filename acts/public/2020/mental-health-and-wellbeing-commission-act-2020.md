@@ -1,5 +1,5 @@
 # Mental Health and Wellbeing Commission Act 2020
-_Consolidation as at 2020-06-30_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Mental Health and Wellbeing Commission Act 2020.
@@ -126,10 +126,10 @@ The Commission has the power to—
 (4) An entity to which the request is made must comply with the request.
 (5) Section 15 overrides subsections (1) and (4).
 (6) A request may be made to 1 or more of the following entities:
-  (a) a department named in Schedule 1 of the State Sector Act 1988, other than—
+  (a) a department named in Part 1 of Schedule 2 of the Public Service Act 2020, other than—
     (i) the Government Communications Security Bureau; and
     (ii) the New Zealand Security Intelligence Service:
-  (b) a departmental agency named in Schedule 1A of the State Sector Act 1988:
+  (b) a departmental agency named in Part 2 of Schedule 2 of the Public Service Act 2020:
   (c) a statutory entity named in Schedule 1 of the Crown Entities Act 2004:
   (d) the New Zealand Defence Force:
   (e) the New Zealand Police.
