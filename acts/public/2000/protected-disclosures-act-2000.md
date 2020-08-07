@@ -1,5 +1,5 @@
 # Protected Disclosures Act 2000
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Protected Disclosures Act 2000.
@@ -19,7 +19,7 @@ This Act comes into force on 1 January 2001.
       (vi) the Parliamentary Commissioner for the Environment:
       (vii) the Independent Police Conduct Authority:
       (viii) the Solicitor-General:
-      (ix) the State Services Commissioner:
+      (ix) the Public Service Commissioner:
       (x) the Health and Disability Commissioner; and
     (b) includes the head of every public sector organisation, whether or not mentioned in paragraph (a); and
     (c) includes a private sector body which comprises members of a particular profession or calling and which has power to discipline its members; but
