@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -22,6 +22,7 @@ In this Act, unless the context otherwise requires,—
     (b) any arsenal and any other structure or place used for the purpose of constructing, repairing, making, or storing munitions or equipment for or belonging to the Armed Forces:
     (c) any other fortification, camping ground, training ground, parade ground, rifle, artillery, tank, weapon, or bomb range, or other work however designated which is constructed or intended to be used for the purpose of defence, and all roads or other works which may be requisite for approach to or otherwise necessary or convenient for the purposes of any such defence work
   - **drain** means a passage, channel, or pipe on, over, or under the ground for the reception and discharge of stormwater or pollutants, whether continuously or intermittently
+  - **eligible infrastructure** has the same meaning as in section 8 of the Infrastructure Funding and Financing Act 2020
   - **Environment Court** means the Environment Court constituted under the Resource Management Act 1991
   - **Government work** means a work or an intended work that is to be constructed, undertaken, established, managed, operated, or maintained by or under the control of the Crown or any Minister of the Crown for any public purpose; and includes land held or to be acquired for the purposes of the Conservation Act 1987 or any of the Acts specified in Schedule 1 of that Act (except the common marine and coastal area), even where the purpose of holding or acquiring the land is to ensure that it remains in an undeveloped state
   - **intellectual property** includes all property rights constituted by the Patents Act 2013, the Designs Act 1953, the Trade Marks Act 2002, and the Plant Variety Rights Act 1987, and includes any trade secret; but does not include any property rights constituted by the Copyright Act 1994
@@ -35,9 +36,15 @@ In this Act, unless the context otherwise requires,—
       (iv) the New Zealand Institute of Skills and Technology or any of its subsidiaries that provide education or training (or both):
     (c) an airport authority:
     (d) any other person or body (however designated) having authority, under any Act, to undertake the construction or execution of any public work
-  - **local work** means a work constructed or intended to be constructed by or under the control of a local authority, or for the time being under the control of a local authority
+  - **local SPV work** means eligible infrastructure—
+    (a) that is constructed or intended to be constructed by or under the control of an SPV, or for the time being under the control of an SPV; and
+    (b) for which a local authority is the responsible infrastructure authority
+  - **local work** means—
+    (a) a work constructed or intended to be constructed by or under the control of a local authority, or for the time being under the control of a local authority; and
+    (b) a local SPV work
   - **motorway** means a motorway declared as such by the Governor-General in Council under section 138; and includes all bridges, drains, culverts, or other structures or works forming part of any motorway so declared; but does not include any local road, access way, or service lane (or the supports of any such road, way, or lane) that crosses over or under a motorway on a different level
   - **notice** means a statement conveying the general effect of a matter or thing done or intended to be done
+  - **protected Māori land** has the same meaning as in section 11 of the Infrastructure Funding and Financing Act 2020
   - **public notice** means a notice published in a newspaper circulating in the area in which the subject matter of the notice arises, or to which it relates; and, if there is no such newspaper, then by a printed or written placard posted in some conspicuous place on the land or works affected by such notice or to which it relates; and has a corresponding meaning
   - **public reserve** and have the same meaning as in the Reserves Act 1977
   - **public work** and mean—
@@ -51,7 +58,9 @@ In this Act, unless the context otherwise requires,—
     (b) all buildings, erections, wharves, jetties, works, rolling stock, motor vehicles, vessels, plant, machinery, goods, chattels, and other fixed or moveable property of every description or kind capable of being used in respect of a railway, and situated or to be situated on any such land or held or used, or reputed to be held or used in connection with or for the purposes of a railway; and
     (c) all telephone, electric telegraph, or other communications installations used in connection with a railway
   - **Registrar-General of Land** means the Registrar-General of Land referred to in section 231 of the Land Transfer Act 2017, and includes the Registrar of Deeds
+  - **responsible infrastructure authority** has the same meaning as in section 7 of the Infrastructure Funding and Financing Act 2020
   - **road** means a road as defined in section 121
+  - **SPV** means an SPV that is identified by a levy order made under the Infrastructure Funding and Financing Act 2020 as having responsibility for the construction of eligible infrastructure
   - **State highway** means a State highway declared as such under section 103 of the Land Transport Management Act 2003
   - **stopping** , in relation to a road, includes diverting
   - **telecommunications installation** includes any equipment, apparatus, structure, tunnel, manhole, pit, pole, wire, cable, tube, conduit, fibre, waveguide, or other physical medium used or intended to be used for or in connection with a telecommunications service
@@ -156,6 +165,7 @@ In this Part, unless the context otherwise requires, Minister means the Minister
 ### 16 Empowering acquisition of land
 (1) The Minister is hereby empowered to acquire under this Act any land required for a Government work.
 (2) Every local authority is hereby empowered to acquire under this Act any land required for a local work for which it has financial responsibility.
+(3) In addition, a local authority is empowered to acquire under this Act any land required for a local SPV work for which it is the responsible infrastructure authority.
 
 **Acquisition by agreement**
 
@@ -245,6 +255,7 @@ Any notifying authority, as defined in section 59, may acquire any land under se
     (iii) the reasons why the taking of the land is considered reasonably necessary; and
     (iv) a period within which objections, other than objections by persons who are served with a copy of the notice under subsection (1)﻿(c), may be made; and
   (c) serve a notice on the owner of, and persons with a registered interest in, the land of the intention to take the land in the form set out in Schedule 1.
+(1A) If the land to be taken is within a project area under the Urban Development Act 2020, the Minister or local authority must not do anything described in subsection (1) without the consent of the responsible Minister within the meaning of section 9 of that Act.
 (2) The provisions of this section requiring the names of the owners of the land to be shown on the plan of the land shall have no application in respect of any Maori land unless title to the land is registered under the Land Transfer Act 2017, but instead the plan shall be endorsed with the advice that the names of the owners may be obtained at the appropriate Maori Land Court.
 (2A) For the purposes of subsection (2), land that is registered with a qualified record of title is not land that is registered under the Land Transfer Act 2017.
 (3) Every person having any estate or interest in the land intended to be taken may object to the taking of the land to the Environment Court in accordance with the provisions of the notice.
@@ -256,6 +267,7 @@ Any notifying authority, as defined in section 59, may acquire any land under se
 (6) Where any such notice of intention given by the Minister or a local authority has so ceased to have effect, the notice shall not be repeated until at least 6 months after the date on which the original notice or the confirming notice, as the case may require, ceased to have effect.
 (7) A copy of the notice under subsection (1)﻿(b) shall be lodged with the Registrar-General of Land and he shall register it without fee against the record of title affected.
 (8) Any notice under this section may be withdrawn by the Minister or local authority and, if it is withdrawn, a notice to that effect shall be lodged with the Registrar-General of Land who shall register it without fee against the title to the land.
+(9) No power in this section may be used to take protected Māori land for the purposes of a local SPV work.
 
 ### 24 Objection to be heard by Environment Court
 (1) On receiving a written objection under section 23, the Environment Court shall, as soon as practicable, send a copy of the objection to the Minister or local authority, as the case may require.
@@ -322,6 +334,18 @@ An Environment Judge or alternate Environment Judge, sitting alone or with any o
 (6) The owner or occupier may, within 10 working days after receiving the notice and after giving notice to the Minister or local authority, as the case may be, of his intention to do so, object to the District Court nearest to the land concerned, and the court may summon the Minister or local authority or his or its representative to appear before the court at a time and place named in the summons.
 (7) If it appears to the court that the taking proposed is unreasonable or unnecessary, the court may order that natural material from the land in question shall not be taken, or shall not be taken in the manner proposed; or the court may order that natural material be taken from such land in such manner and to such extent only and subject to such limitations and restrictions as the court thinks fit; and all persons concerned shall be bound by any such order.
 (8) Nothing in this section shall derogate from the provisions of Part 3 of the Resource Management Act 1991.
+
+**Land required under Infrastructure Funding and Financing Act 2020**
+
+### 27A Transfer of land taken for construction of eligible infrastructure
+(1) This section applies to land acquired under this Part by a local authority—
+  (a) using the power conferred by section 16(3); or
+  (b) using the power conferred by section 16(2) in relation to land that is later required for the purpose set out in section 16(3).
+(2) The local authority (that is a responsible infrastructure authority) may transfer the land to the responsible SPV for the purpose of a local SPV work.
+(3) Sections 40 to 42A do not apply to—
+  (a) a transfer under subsection (2); or
+  (b) a transfer of the land back to the local authority under section 90 of the Infrastructure Funding and Financing Act 2020.
+(4) If the local authority or the SPV that owns the acquired land no longer requires any of that land for eligible infrastructure, the authority or SPV must dispose of the land in accordance with sections 40 to 42A.
 
 **Extending estates in land that may be acquired or taken**
 
@@ -407,12 +431,13 @@ In this Part, unless the context otherwise requires, Minister means the Minister
 (5) For the purposes of this section, the term successor, in relation to any person, means the person who would have been entitled to the land under the will or intestacy of that person had he owned the land at the date of his death; and, in any case where part of a person's land was acquired or taken, includes the successor in title of that person.
 
 ### 41 Disposal of former Maori land when no longer required
-Notwithstanding anything in sections 40 and 42, where any land to which section 40(2) applies was, immediately before its taking or acquisition,—the chief executive of the department within the meaning of section 2 of the Survey Act 1986 or local authority, as the case may be, shall—
+(1) Notwithstanding anything in sections 40 and 42, where any land to which section 40(2) applies was, immediately before its taking or acquisition,—the chief executive of the department within the meaning of section 2 of the Survey Act 1986 or local authority, as the case may be, shall—
   (a) Maori freehold land or General land owned by Maori (as those terms are defined in section 4 of Te Ture Whenua Maori Act 1993); and
   (b) beneficially owned by more than 4 persons; and
   (c) not vested in any trustee or trustees—
   (d) comply with the requirements of section 40; or
   (e) apply to the Maori Land Court for the district in which the land is situated for an order under section 134 of Te Ture Whenua Maori Act 1993.
+(2) This section is subject to subpart 5 of Part 5 of the Urban Development Act 2020 (transfer or disposal of former Māori land).
 
 ### 42 Disposal in other cases of land not required for public work
 (1) Where—the chief executive of the department within the meaning of section 2 of the Survey Act 1986 or local authority may—
