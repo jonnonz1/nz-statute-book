@@ -1,5 +1,5 @@
 # Outer Space and High-altitude Activities Act 2017
-_Consolidation as at 2017-07-10_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Outer Space and High-altitude Activities Act 2017.
@@ -670,7 +670,7 @@ A person must not operate a launch facility in New Zealand unless the person has
   (c) may at any time resign office by written notice to the chief executive.
 (3) The chief executive must issue a written warrant to an enforcement officer appointed under this section.
 (4) An enforcement officer must, on the termination of the enforcement officer’s appointment, surrender his or her warrant to the chief executive.
-(5) An enforcement officer appointed under subsection (1) is not to be regarded as employed in the service of the Crown for the purposes of the Government Superannuation Fund Act 1956 or the State Sector Act 1988 just because the person is an enforcement officer.
+(5) An enforcement officer appointed under subsection (1) is not to be regarded as employed in the service of the Crown for the purposes of the Government Superannuation Fund Act 1956 or the Public Service Act 2020 just because the person is an enforcement officer.
 
 ### 58 Enforcement officers must produce evidence of appointment
 An enforcement officer appointed under section 57 must produce his or her warrant of appointment under this Act whenever requested to do so in the course of the enforcement officer’s duties.
