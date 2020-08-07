@@ -1,5 +1,5 @@
 # Electricity Act 1992
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2020-08-07_
 
 > Title
 
@@ -428,6 +428,7 @@ Sections 23A to 23D do not limit or override any new or existing agreement that 
 (2) Nothing in subsection (1) limits a local authority's or other body's or person's ability to impose reasonable conditions under section 24(2).
 (3) However, a condition requiring a network operator to increase amenity values (rather than to merely maintain them) must not be imposed unless the work to be done is in an area identified in a district plan as an area in relation to which, under the district plan, there are particular considerations, or rules or requirements, relating to amenity values.
 (4) If the cost to the network operator of complying with a condition referred to in subsection (3) is higher than it would have been if there were not a requirement to increase amenity values, then the person imposing the condition must pay that increase in cost.
+(5) In subsection (3), a reference to a district plan includes a reference to a development plan under the Urban Development Act 2020.
 
 ### 25 Notice to be given before work undertaken
 (1) Except as provided in subsection (5), before an electricity operator proceeds to undertake any work pursuant to the powers contained in section 24(1), the electricity operator shall give notice of its intention to undertake the work to—
@@ -568,7 +569,7 @@ Sections 32 and 33 shall apply notwithstanding anything to the contrary in secti
 (5) If any regulation in force under section 169 requires compliance with any electrical code of practice that has been amended under this section, that regulation shall, while the emergency amendment remains in force, be deemed to require compliance with the code as so amended notwithstanding the fact that the regulation was made before that amendment to the code came into force.
 (6) Despite section 73 of the Crown Entities Act 2004, WorkSafe must not delegate to any person the power conferred by this section.
 (7) Subsection (8) applies if, pursuant to section 5A(3) and (4), the Secretary may exercise the power conferred by this section in relation to a matter specified in a Gazette notice under section 5A(2).
-(8) Despite section 41 of the State Sector Act 1988, the Secretary must not delegate to any person the power conferred by this section.
+(8) Despite clauses 2 and 3 of Schedule 6 of the Public Service Act 2020, the Secretary must not delegate to any person the power conferred by this section.
 
 ### 41 Citation of code
 In any regulations made under section 169, any electrical code of practice or amendment of an electrical code of practice may, without prejudice to any other method of citation, be cited by the title or reference given to it by WorkSafe and by its date of issue; and such citation shall be deemed, subject to section 40(5), to include and refer to the latest electrical code of practice or amendment in force when the regulations were made.
@@ -1845,7 +1846,7 @@ The functions of the Board are—
 (5)
 
 ### 151 Registrar
-(1) There shall be a Registrar of the Board, who shall be appointed under the State Sector Act 1988 by the Secretary.
+(1) There shall be a Registrar of the Board, who shall be appointed under the Public Service Act 2020 by the Secretary.
 (2) The office of Registrar may be held concurrently with any other office.
 
 ### 152 Delegation of functions and powers
@@ -2613,7 +2614,7 @@ Except as expressly provided in this Act, the Board may regulate its procedure i
 (2) For the purposes of subclause (1), the Board and every committee appointed by the Board is declared to be a statutory board within the meaning of the Fees and Travelling Allowances Act 1951.
 
 ### 14 Application of certain Acts to members
-No person shall be deemed to be employed in the service of the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason only of that person's appointment as a member of the Board or any committee appointed by the Board.
+No person shall be deemed to be employed in the service of the Crown for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason only of that person's appointment as a member of the Board or any committee appointed by the Board.
 
 ### 15 Seal
 The Board shall have a seal, which shall be judicially noticed in all courts and for all purposes.
