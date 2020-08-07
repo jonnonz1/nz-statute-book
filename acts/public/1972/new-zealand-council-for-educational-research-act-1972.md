@@ -1,5 +1,5 @@
 # New Zealand Council for Educational Research Act 1972
-_Consolidation as at 2016-10-29_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend the law relating to the powers and functions of the New Zealand Council for Educational Research
 
@@ -115,8 +115,8 @@ The Council shall have all such powers as may be reasonably necessary or expedie
   (f) with a view to furthering the functions of the Council, co-operate with any persons, associations, or organisations outside New Zealand having functions similar to the functions of the Council.
 
 ### 15 Power to appoint employees
-(1) The Council may from time to time appoint, and may determine the appointment of, such employees, including acting, temporary, or casual employees, as it thinks necessary for the efficient exercise of its functions and powers under this Act, and may pay them remuneration and allowances at such rates as it may from time to time determine after consultation with the State Services Commission.
-(1A) Notwithstanding anything in subsection (1), the remuneration payable to the chief executive officer of the Council shall be determined from time to time by the State Services Commission.
+(1) The Council may from time to time appoint, and may determine the appointment of, such employees, including acting, temporary, or casual employees, as it thinks necessary for the efficient exercise of its functions and powers under this Act, and may pay them remuneration and allowances at such rates as it may from time to time determine after consultation with the Public Service Commission.
+(1A) Notwithstanding anything in subsection (1), the remuneration payable to the chief executive officer of the Council shall be determined from time to time by the Public Service Commission.
 (2) For the purpose of providing superannuation or retiring allowances for its employees, the Council may, out of its own funds, make payments to subsidise or contribute to any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 
 ### 16 Power to insure members and employees
