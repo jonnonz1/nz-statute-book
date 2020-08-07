@@ -1,5 +1,5 @@
 # Taxation Review Authorities Act 1994
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate the law relating to Taxation Review Authorities
 
@@ -40,7 +40,7 @@ The transitional, savings, and related provisions set out in the Schedule have e
 (2) If more than 1, any Authority may be given such distinctive designation as the Governor-General determines, and any such designation may from time to time be changed by the Governor-General.
 (3) Every Authority shall consist of one person, being a District Court Judge or a barrister or solicitor of the High Court of not less than 7 years’ practice.
 (4) Every Authority shall be appointed by the Governor-General on the recommendation of the Minister of Justice.
-(5) No person shall be deemed to be employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason only of the person being an Authority.
+(5) No person shall be deemed to be employed in the service of Her Majesty for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason only of the person being an Authority.
 
 ### 5A Appointment of temporary acting Authority
 (1) If an Authority becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if an Authority considers it is not proper or not desirable that he or she should adjudicate on a specified matter, the Governor-General, on the recommendation of the Minister of Justice, may appoint a suitable person as an acting Authority for the period or purpose stated in the appointment.
@@ -74,11 +74,11 @@ There shall be paid out of money appropriated by Parliament for the purpose to a
 No person appointed as an Authority shall be personally liable for any act done or omitted to be done by the person in good faith in pursuance or intended pursuance of the person’s powers and authorities as an Authority.
 
 ### 10 Employee of Crown appointed as an Authority
-If any employee of the Crown is appointed as an Authority, that employee’s service as an Authority shall, for the purpose of determining the employee’s existing and accruing rights under the State Sector Act 1988, the New Zealand Railways Corporation Act 1981, the Post Office Act 1959, or the Government Superannuation Fund Act 1956, be deemed to be Government service in New Zealand.
+If any employee of the Crown is appointed as an Authority, that employee’s service as an Authority shall, for the purpose of determining the employee’s existing and accruing rights under the Public Service Act 2020, the New Zealand Railways Corporation Act 1981, the Post Office Act 1959, or the Government Superannuation Fund Act 1956, be deemed to be Government service in New Zealand.
 
 ### 11 Registrars and other officers of an Authority
-(1) There shall from time to time be appointed under the State Sector Act 1988 such Registrars, Deputy Registrars, clerks, and other officers of an Authority as may be required, and one person may be appointed Registrar or Deputy Registrar or clerk or officer of 2 or more Authorities.
-(2) The office of Registrar or Deputy Registrar or any other office may be held either separately or in conjunction with any other office in the Public Service.
+(1) There shall from time to time be appointed under the Public Service Act 2020 such Registrars, Deputy Registrars, clerks, and other officers of an Authority as may be required, and one person may be appointed Registrar or Deputy Registrar or clerk or officer of 2 or more Authorities.
+(2) The office of Registrar or Deputy Registrar or any other office may be held either separately or in conjunction with any other office in the public service.
 
 ### 12 Officers to maintain secrecy
 Every person (other than a person appointed as an Authority) engaged or employed in connection with the work of any Authority who is not also an officer of the Department, shall, for the purposes of section 18(1) of the Tax Administration Act 1994, be deemed to be an officer of the Department, and shall make the declaration of fidelity and secrecy referred to in that section, and that section shall in every respect apply to that person as if the person were an officer of the Department.
