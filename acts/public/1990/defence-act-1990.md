@@ -1,5 +1,5 @@
 # Defence Act 1990
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2020-08-07_
 
 > An Act—ato continue to authorise the raising and maintaining of armed forces for certain purposes; andbto constitute the New Zealand Defence Force, comprising—ithe Armed Forces under the command of the Chief of Defence Force; andiithe Civil Staff under the control of the Chief of Defence Force; andcto reaffirm that the Armed Forces are under Ministerial authority; anddto define the respective roles and relationships of the Minister of Defence, the Secretary of Defence, and the Chief of Defence Force; andeto redefine the relationship of the Chief of Defence Force to the Chiefs of Service; andfto make provision generally in respect of the establishment, control, and activities of the New Zealand Defence Force, and related matters
 
@@ -305,7 +305,7 @@ A member of one Service may, with that member’s written consent, be transferre
 
 ### 24 Secretary of Defence
 (1) The chief executive of the Ministry of Defence shall be known as the Secretary of Defence.
-(2) In addition to the functions imposed on the Secretary of Defence by or under this Act or the State Sector Act 1988 or any other enactment, the Secretary shall have the following functions:
+(2) In addition to the functions imposed on the Secretary of Defence by or under this Act or the Public Service Act 2020 or any other enactment, the Secretary shall have the following functions:
   (a) to be the principal civilian adviser to the Minister and other Ministers:
   (b) to formulate advice, in consultation with the Chief of Defence Force, on defence policy:
   (c) to prepare, in consultation with the Chief of Defence Force, and submit to the Minister from time to time a defence assessment, including a review of different options capable of achieving the Government’s policy goals:
@@ -517,7 +517,7 @@ Part 2 of the Volunteers Employment Protection Act 1973 applies to—
     (i) to the persons or group of persons whose remuneration is being determined; and
     (ii) to the taxpayer; and
   (c) the need to recruit and retain competent persons.
-(3) The Chief of Defence Force shall consult with the State Services Commission when prescribing conditions of service of members of the Armed Forces under this section. The State Services Commission may at any time, either before or during the prescribing of such conditions of service, indicate to the Chief of Defence Force that it wishes to participate with the Chief of Defence Force in prescribing those conditions of service, and the Chief of Defence Force shall allow the State Services Commission to participate accordingly.
+(3) The Chief of Defence Force shall consult with the Public Service Commission when prescribing conditions of service of members of the Armed Forces under this section. The Public Service Commission may at any time, either before or during the prescribing of such conditions of service, indicate to the Chief of Defence Force that it wishes to participate with the Chief of Defence Force in prescribing those conditions of service, and the Chief of Defence Force shall allow the Public Service Commission to participate accordingly.
 (4) The remuneration of members holding the positions of—shall be determined from time to time by the Remuneration Authority.
   (a) Chief of Defence Force; or
   (b) the Chief of Navy; or
@@ -709,7 +709,7 @@ The Chief of Defence Force shall notify to the members of the Civil Staff every 
 
 ### 67 Review of appointments
 (1) The Chief of Defence Force shall put into place for the Civil Staff a procedure for reviewing those appointments made to positions in the Civil Staff that are the subject of any complaint by a member of the Civil Staff.
-(2) The procedure shall be approved by the State Services Commission and shall comply with guidelines prescribed by the Commission for such review procedures.
+(2) The procedure shall be approved by the Public Service Commission and shall comply with guidelines prescribed by the Commission for such review procedures.
 (3) Nothing in this section relates to an acting appointment.
 
 ### 68 Power to transfer members within Civil Staff
@@ -725,13 +725,13 @@ Except as otherwise provided in this Act, the Employment Relations Act 2000 appl
 
 ### 70 Negotiation of conditions of employment
 (1) The Chief of Defence Force is responsible for negotiating, under the Employment Relations Act 2000, every collective agreement applicable to employees in the Civil Staff.
-(2) The Chief of Defence Force must consult with the State Services Commissioner when negotiating any collective agreements under this section.
-(3) The State Services Commissioner may at any time either before or during the negotiation of such collective agreements indicate to the Chief of Defence Force that the State Services Commissioner wishes to participate with the Chief of Defence Force in negotiating those collective agreements, and the Chief of Defence Force must allow the State Services Commissioner to participate accordingly.
+(2) The Chief of Defence Force must consult with the Public Service Commissioner when negotiating any collective agreements under this section.
+(3) The Public Service Commissioner may at any time either before or during the negotiation of such collective agreements indicate to the Chief of Defence Force that the Public Service Commissioner wishes to participate with the Chief of Defence Force in negotiating those collective agreements, and the Chief of Defence Force must allow the Public Service Commissioner to participate accordingly.
 
 ### 71 Personal grievances and disputes
 Despite the provisions of sections 61A and 70,—
   (a) in relation to a personal grievance, the employer is the Chief of Defence Force; and
-  (b) in relation to a dispute about the interpretation, application, or operation of any collective agreement, the employer is the Chief of Defence Force acting, if the State Services Commissioner so requires, together with or in consultation with the State Services Commissioner.
+  (b) in relation to a dispute about the interpretation, application, or operation of any collective agreement, the employer is the Chief of Defence Force acting, if the Public Service Commissioner so requires, together with or in consultation with the Public Service Commissioner.
 
 ### 72 Compulsory arbitration and agreement not to strike or lock out
 [Repealed]
@@ -820,7 +820,7 @@ The cadet forces shall have the following functions:
   (f) approve the conducting of training courses or other activities by any unit of the cadet forces within a defence area under the supervision and direction of a member of the Armed Forces.
 (2) When a member of the Armed Forces is engaged in directing, supervising, or assisting a unit of the cadet forces under subsection (1)﻿(e), that member shall be deemed to be on duty.
 (3) The terms and conditions of service of cadet officers and other members of the cadet forces determined by the Chief of Defence Force under subsection (1) shall be promulgated in such a manner as the Chief of Defence Force directs.
-(4) Nothing in Part 4 or Part 5 or in the Armed Forces Discipline Act 1971, the State Sector Act 1988, or the Government Superannuation Fund Act 1956 shall apply in respect of any member of the cadet forces.
+(4) Nothing in Part 4 or Part 5 or in the Armed Forces Discipline Act 1971, the Public Service Act 2020, or the Government Superannuation Fund Act 1956 shall apply in respect of any member of the cadet forces.
 
 ### 79 Member of cadet forces may be removed from defence area in certain cases
 If any member of a unit of the cadet forces that is conducting a training course or training programme or any other activity within a defence area refuses or fails to comply with the lawful orders or instructions of any member of the Armed Forces directing or supervising, or assisting in the direction or supervision of, the course, programme, or other activity, that member or any other member acting under his or her authority may remove the member of the unit from the area.
