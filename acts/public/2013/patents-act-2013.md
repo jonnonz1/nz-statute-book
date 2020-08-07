@@ -1,5 +1,5 @@
 # Patents Act 2013
-_Consolidation as at 2018-12-30_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Patents Act 2013.
@@ -1893,7 +1893,7 @@ In any proceeding before a court under this Act, the costs of the Commissioner a
 **Commissioner and Assistant Commissioners**
 
 ### 217 Commissioner and Assistant Commissioners
-(1) The chief executive of the Ministry must appoint, under the State Sector Act 1988,—
+(1) The chief executive of the Ministry must appoint, under the Public Service Act 2020,—
   (a) the Commissioner of Patents; and
   (b) as many Assistant Commissioners of Patents as may be necessary for the purposes of this Act.
 (2) These persons are employees of the Ministry, and those appointments may be held separately or in conjunction with any other office in the Ministry.
