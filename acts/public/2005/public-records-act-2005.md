@@ -1,5 +1,5 @@
 # Public Records Act 2005
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Public Records Act 2005.
@@ -90,7 +90,8 @@ In this Act, unless the context otherwise requires,—
     (a) means the legislative, executive, and judicial branches of the Government of New Zealand; and
     (b) means the agencies or instruments of those branches of government; and
     (c) includes (without limiting the agencies or instruments)—
-      (i) departments as defined in section 2 of the State Sector Act 1988; and
+      (i) departments as defined in section 5 of the Public Service Act 2020 including a departmental agency (as defined in that section) hosted by a department and an interdepartmental executive board (as defined in that section) serviced by a department; and
+      (ia) interdepartmental ventures as defined in section 5 of the Public Service Act 2020; and
       (ii) Offices of Parliament as defined in section 2(1) of the Public Finance Act 1989; and
       (iii) State enterprises as defined in section 2 of the State-Owned Enterprises Act 1986; and
       (iv) Crown entities as defined in section 7(1) of the Crown Entities Act 2004; and
@@ -182,7 +183,7 @@ This Act binds the Crown.
 
 ### 10 Chief Archivist
 (1) There is an office of the Chief Archivist.
-(2) The Chief Archivist is the person for the time being appointed to that office by the chief executive under the State Sector Act 1988.
+(2) The Chief Archivist is the person for the time being appointed to that office by the chief executive under the Public Service Act 2020.
 (3)
 
 ### 11 Functions and duties of Chief Archivist
@@ -445,7 +446,7 @@ The Chief Archivist may give notice in writing directing the administrative head
 
 ### 32 Annual report on recordkeeping
 (1) The Chief Archivist must make an annual report to the Minister on the state of recordkeeping within public offices.
-(2) This report may be included in the annual report given to the Minister under section 30(1) of the State Sector Act 1988.
+(2)
 (3) The Minister must present the report of the Chief Archivist to the House of Representatives.
 
 ### 33 Independent audits of public offices
