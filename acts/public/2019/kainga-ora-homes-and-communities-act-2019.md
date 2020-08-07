@@ -1,5 +1,5 @@
 # Kāinga Ora–Homes and Communities Act 2019
-_Consolidation as at 2020-08-06_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Kāinga Ora–Homes and Communities Act 2019.
@@ -29,17 +29,29 @@ In order to recognise and respect the Crown's responsibility to consider and pro
   - **board** means the board of Kāinga Ora–Homes and Communities
   - **chief executive** means the chief executive of the Ministry
   - **commencement date** means 1 October 2019
-  - **development** includes all or any of the following:
-    (a) acquiring land for development:
-    (b) delivering a development project:
-    (c) selling, leasing, disposing of, managing, or otherwise dealing with land and improvements
+  - **development** —
+    (a) includes all or any of the following:
+      (i) acquiring land for development:
+      (ii) delivering a development project:
+      (iii) selling, leasing, disposing of, managing, or otherwise dealing with land and improvements:
+    (b) does not include maintaining or upgrading Kāinga Ora housing within the meaning of section 2(1) of the Public and Community Housing Management Act 1992
   - **GPS** means a government policy statement on housing and urban development issued by the Ministers under Part 2
   - **home-related financial assistance** —
     (a) means financial assistance that is designed to help people with housing:Examplesarrangements such as shared equity, shared ownership, or rent to buy or option to buyfinancial assistance such as a grant, loan, or insurance or underwriting policy; but
     (b) does not include income-related rent within the meaning of section 2(1) of the Public and Community Housing Management Act 1992
-  - **Kāinga Ora–Homes and Communities** means Kāinga Ora–Homes and Communities established by section 8
+  - **Kāinga Ora–Homes and Communities** —
+    (a) means Kāinga Ora–Homes and Communities established by section 8; and
+    (b) for the purposes of the definition of public housing, includes a Crown entity subsidiary of Kāinga Ora–Homes and Communities
   - **Ministers** means the Minister of Finance and the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
   - **Ministry** means the Ministry responsible for the administration of this Act.
+  - **public housing** —
+    (a) includes any premises (whether owned by the Crown, Kāinga Ora–Homes and Communities, or any other person) that—
+      (i) are let by or on behalf of Kāinga Ora–Homes and Communities under a residential tenancy that was granted before 14 April 2014; or
+      (ii) are, or are intended to be, let by or on behalf of Kāinga Ora–Homes and Communities under a residential tenancy to a tenant who is assessed under the Public and Community Housing Management Act 1992 as eligible for social housing within the meaning of section 2(1) of that Act; or
+      (iii) are, or are intended to be, let by the Crown or Kāinga Ora–Homes and Communities to a community organisation or other provider for use as—
+        (A) transitional or emergency accommodation for people in need while they seek, or are assisted in finding, more permanent accommodation:
+        (B) supported housing (for example, housing for people who experience disability or mental illness):
+    (b) includes any premises that are located together with public housing for the purpose of providing support services to the people who live or stay in the housing.
 (2) The Ministers, acting jointly, are the responsible Minister for the purpose of the Crown Entities Act 2004.
 
 ### 6 Transitional, savings, and related provisions
@@ -60,7 +72,7 @@ Kāinga Ora–Homes and Communities is established.
 ### 10 Membership of board of Kāinga Ora–Homes and Communities
 (1) The board of Kāinga Ora–Homes and Communities consists of not fewer than 6, and not more than 8, members.
 (2) The Ministers must appoint members to the board who, collectively, have knowledge and experience of, and capability in,—
-  (a) New Zealand’s housing and urban development system, including public housing, urban planning and design, infrastructure, construction, and regeneration; and
+  (a) New Zealand’s housing and urban development system, including public housing and community housing, urban planning and design, infrastructure, construction, and regeneration; and
   (b) perspectives of Māori; and
   (c) the Treaty of Waitangi (Te Tiriti o Waitangi) and its principles and Te Ture Whenua Maori Act 1993; and
   (d) perspectives of public housing tenants; and
@@ -99,7 +111,7 @@ Kāinga Ora–Homes and Communities is established.
   (d) to give people (including people on low or modest incomes who wish to own their own homes) help and advice on matters relating to housing or services related to housing:
   (e) to provide housing or services related to housing as agent for the Crown or Crown entities:
   (f) to initiate, facilitate, or undertake any urban development, whether on its own account, in partnership, or on behalf of other persons, including—
-    (i) development of housing, including public housing, affordable housing, homes for first-home buyers, and market housing:
+    (i) development of housing, including public housing and community housing, affordable housing, homes for first-home buyers, and market housing:
     (ii) development and renewal of urban environments, whether or not this includes housing development:
     (iii) development of related commercial, industrial, community, or other amenities, infrastructure, facilities, services, or works:
   (g) to provide a leadership or co-ordination role in relation to urban development, including by—
@@ -125,7 +137,7 @@ Kāinga Ora–Homes and Communities is established.
   (c) working with community providers to support tenants and ensure those most in need are supported and housed:
   (d) being a fair and reasonable landlord, treating tenants and their neighbours with respect, integrity, and honesty:
   (e) managing its housing stock prudently, including upgrading and managing its housing to ensure it remains fit for purpose:
-  (f) ensuring that the housing it develops is appropriately mixed (with public, affordable, and market housing) and is of good quality:
+  (f) ensuring that the housing it develops is appropriately mixed (with public housing or community housing, affordable housing, and market housing) and is of good quality:
   (g) ensuring its urban development contains quality infrastructure and amenities that support community needs:
   (h) assisting communities where it has housing stock to develop and thrive as cohesive and safe places to live:
   (i) identifying and protecting Māori interests in land, and recognising and providing for the relationship of Māori and their culture and traditions with their ancestral lands, water, sites, wāhi tapu, and other taonga:
@@ -134,7 +146,7 @@ Kāinga Ora–Homes and Communities is established.
     (ii) the need to mitigate and adapt to the effects of climate change:
   (k) partnering and having early and meaningful engagement with Māori and offering Māori opportunities to participate in urban development:
   (l) partnering and engaging meaningfully with other persons and organisations, including—
-    (i) having early and meaningful engagement with communities affected, or to be affected, by housing and urban development:
+    (i) having early and meaningful engagement with communities affected, or to be affected, by urban development:
     (ii) in order to help grow capability across the housing and urban development sector:
     (iii) in order to help people into home ownership:
   (m) maximising alignment and synergies through its multiple functions in order to support inclusive, integrated housing and urban development.
@@ -193,7 +205,7 @@ The following provisions of the Public and Community Housing Management Act 1992
 (3) This section does not limit section 73 of the Crown Entities Act 2004.
 
 ### 20 Restriction on disposal of RFR land
-Kāinga Ora–Homes and Communities may not exercise the powers conferred on Housing New Zealand Corporation or its subsidiaries in any of the following provisions or in any deed of settlement to which those provisions relate:
+(1) Kāinga Ora–Homes and Communities may not exercise the powers conferred on Housing New Zealand Corporation or its subsidiaries in any of the following provisions or in any deed of settlement to which those provisions relate:
   (a) section 115 of the Iwi and Hapū of Te Rohe o Te Wairoa Claims Settlement Act 2018:
   (b) section 136 of the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014:
   (c) section 171 of the NgāiTakoto Claims Settlement Act 2015:
@@ -210,6 +222,7 @@ Kāinga Ora–Homes and Communities may not exercise the powers conferred on Hou
   (n) section 130 of the Te Kawerau ā Maki Claims Settlement Act 2015:
   (o) section 200 of the Te Rarawa Claims Settlement Act 2015:
   (p) any other Treaty of Waitangi settlement legislation or deed of settlement that provides for Housing New Zealand Corporation or its subsidiaries to dispose of RFR land to any person if the Corporation or subsidiary has given notice to the trustees of the 1 or more offer trusts that, in the Corporation’s or subsidiary’s opinion, the disposal is to give effect to, or to assist in giving effect to, the Crown’s social objectives in relation to housing or services related to housing.
+(2) Kāinga Ora–Homes and Communities and Housing New Zealand Limited may not use the exception in section 11(1)﻿(c)﻿(i) of the Waikato Raupatu Claims Settlement Act 1995.
 
 ### 21 Use of certain words
 (1) No person other than Kāinga Ora–Homes and Communities may, either alone or with another person, be incorporated or registered under another enactment, trade, carry on business, or perform the functions for which it was formed—
