@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Act 1987
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to make official information held by local authorities more freely available, to provide for proper access by each person to official information relating to that person which is held by local authorities, to provide for the admission of the public to meetings of local authorities, to protect official information held by local authorities and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy, and to establish procedures for the achievement of those purposes
 
@@ -492,6 +492,14 @@ Except as expressly provided in this Act, nothing in this Act shall derogate fro
     (ii) if the land is supplied with drinking water by a networked supplier, any conditions that are applicable to that supply:
     (iii) if the land is supplied with water by the owner of the land, any information the territorial authority has about the supply:
   (c) information relating to any rates owing in relation to the land:
+  (ca) if the land concerned is located in a levy area that is subject to a levy order under the Infrastructure Funding and Financing Act 2020, information about—
+    (i) the levy period:
+    (ii) how liability for a levy on the land is assessed:
+    (iii) amounts of any unpaid levy:
+  (cb) if the land concerned is located in a project area that is subject to a targeted rates order under the Urban Development Act 2020, information about—
+    (i) the financial years to which the order applies; and
+    (ii) how liability for targeted rates under that Act on the land is calculated; and
+    (iii) amounts of any unpaid targeted rates under that Act:
   (d) information concerning any consent, certificate, notice, order, or requisition affecting the land or any building on the land previously issued by the territorial authority (whether under the Building Act 1991, the Building Act 2004, or any other Act):
   (da) the information required to be provided to a territorial authority under section 362T(2) of the Building Act 2004:
   (e) information concerning any certificate issued by a building certifier pursuant to the Building Act 1991 or the Building Act 2004:
