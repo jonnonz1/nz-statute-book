@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -448,6 +448,7 @@ _Consolidation as at 2020-08-01_
   (b) a development contribution under the Local Government Act 2002.
 (7D)
 (7E)
+(7F) For the purposes of this Act, when a person is liable to pay a levy set under section 40 of the Infrastructure Funding and Financing Act 2020 by a responsible SPV, as defined in section 7 of that Act, the levy is treated as being consideration for a supply of goods and services to the person by the responsible SPV.
 (8A) For the purposes of this Act, a levy or other amount paid to a unit title body corporate by a member of the body corporate is treated as being consideration received for services supplied by the body corporate to the member.
 (8AB) For the purposes of this Act, a unit title body corporate is treated as receiving, on the day when the body corporate becomes a registered person (the registration day), consideration for a service, supplied on the registration day by the body corporate in the course of its taxable activity, equal in value to the total value held by the body corporate on the registration day of money and of assets that are not common property and were received by the body corporate as exempt supplies.
 (8) Despite any other provision of this Act, for the purposes of this Act, if any racing betting or sports betting (within the meaning of section 5(1) of the Racing Industry Act 2020) is conducted by TAB NZ (as defined in section 5(1) of that Act), the betting must be regarded as a supply of services by TAB NZ.
