@@ -1,5 +1,5 @@
 # Fire and Emergency New Zealand Act 2017
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Fire and Emergency New Zealand Act 2017.
@@ -430,7 +430,7 @@ FENZ must prepare and issue a fire plan for each local area, including policies 
 (4) However, in cases of delegations made to or by persons in the private sector, a delegate may subdelegate the function or power only with the prior written consent of the board.
 (5) A delegation or subdelegation may be revoked at any time by written notice of the board to the delegate, or by written notice of the board or the delegate to the subdelegate (as the case may be).
 (6) Sections 73(1) to (3), 74(1), and 76(2) of the Crown Entities Act 2004 do not apply to any delegations or subdelegations made under this section.
-(7) In this section, private sector means any person or organisation outside the State services as defined in section 2 of the State Sector Act 1988.
+(7) In this section, private sector means any person or organisation outside the State services as defined in section 5 of the Public Service Act 2020.
 
 ### Subpart 6 — Appointments, vacancies, and requirement to leave FENZ
 
@@ -457,7 +457,7 @@ The board must notify the FENZ personnel of every appointment (other than that o
 
 ### 29 Review of appointments
 (1) The board must put in place for FENZ a procedure for reviewing appointments made within FENZ that are the subject of any complaint by FENZ personnel.
-(2) The procedure must comply with the guidelines prescribed by the State Services Commission for such review procedures.
+(2) The procedure must comply with the guidelines prescribed by the Public Service Commission for such review procedures.
 (3) Nothing in this section relates to an acting appointment.
 
 ### 30 Sections 26 to 29 do not apply to appointments of FENZ employees in certain circumstances
@@ -1824,8 +1824,8 @@ In this subpart, unless the context otherwise requires,—
 ### 166 Appointment of FENZ inspectors
 (1) FENZ may, by notice in writing, appoint any of the following as a FENZ inspector:
   (a) FENZ personnel:
-  (b) an employee of a department (within the meaning of the State Sector Act 1988):
-  (c) an employee of the State services (within the meaning of the State Sector Act 1988):
+  (b) an employee of a department (within the meaning of the Public Service Act 2020):
+  (c) a public service employee as defined in section 65 of the Public Service Act 2020:
   (d) a statutory officer:
   (e) a prescribed person:
   (f) any other person who FENZ is satisfied—
