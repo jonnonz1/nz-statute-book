@@ -1,5 +1,5 @@
 # Utilities Access Act 2010
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Utilities Access Act 2010.
@@ -21,16 +21,21 @@ In this Act, unless the context otherwise requires,—
     (a) in relation to a road (as defined in section 315(1) of the Local Government Act 1974, and which includes State highways and Government roads), the local authority or other person that has jurisdiction over the road:
     (b) in relation to a motorway (as defined in section 2(1) of the Government Roading Powers Act 1989), the New Zealand Transport Agency:
     (c) in relation to railway land, the licensed access provider who controls access to the land
+  - **eligible infrastructure** has the same meaning as in section 8 of the Infrastructure Funding and Financing Act 2020
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **railway land** means any land upon which a railway line (as defined in section 4 of the Railways Act 2005) is constructed, along with any adjacent land that is held or used in connection with operating a railway on that railway line
   - **related Ministers** means the Ministers of the Crown who are responsible for the administration of the Local Government Act 1974, the Electricity Act 1992, the Gas Act 1992, the Government Roading Powers Act 1989, the Telecommunications Act 2001, and the Railways Act 2005
+  - **SPV** means a responsible SPV that is identified by a levy order made under the Infrastructure Funding and Financing Act 2020 as having responsibility for the construction of eligible infrastructure
   - **transport corridor** means any road (as defined in section 315(1) of the Local Government Act 1974), motorway (as defined in section 2(1) of the Government Roading Powers Act 1989), or railway land
   - **utility operator** means,—
     (a) in relation to electricity infrastructure, an electricity operator as defined in section 2(1) of the Electricity Act 1992:
     (b) in relation to gas infrastructure, a gas operator as defined in section 2(1) of the Gas Act 1992:
     (c) in relation to telecommunications infrastructure, a network operator as defined in section 5 of the Telecommunications Act 2001:
-    (d) in relation to water and wastewater infrastructure, a local authority as defined in section 5 of the Local Government Act 2002 or any person acting on behalf of a local authority in relation to that infrastructure:
+    (d) in relation to water and wastewater infrastructure,—
+      (i) a local authority as defined in section 5 of the Local Government Act 2002; or
+      (ii) a person acting on behalf of a local authority in relation to that infrastructure; or
+      (iii) a responsible SPV that is responsible for the construction of eligible infrastructure under the Infrastructure Funding and Financing Act 2020:
     (e) in relation to public letterboxes, a postal operator as defined in section 2(1) of the Postal Services Act 1998.
 
 ### 5 Act binds the Crown
