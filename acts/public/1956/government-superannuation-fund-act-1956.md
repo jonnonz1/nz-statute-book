@@ -1,5 +1,5 @@
 # Government Superannuation Fund Act 1956
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend the law relating to superannuation
 
@@ -27,8 +27,8 @@ _Consolidation as at 2020-08-01_
       (i) that other allowance, annuity, refund, or other benefit has been repaid to the Fund, or any such abolished Fund; or
       (ii) this Act otherwise provides or the Authority otherwise determines
   - **controlling authority** , in relation to,—
-    (a) a contributor employed in the Public Service, means the chief executive of the department concerned:
-    (b) a contributor employed in the education service, means the employer as defined in section 2 of the State Sector Act 1988:
+    (a) a contributor employed in the public service, means the chief executive of the department concerned:
+    (b) a contributor employed in the education service, means the employer as defined in section 5 of the Public Service Act 2020:
     (c)
     (ca) a contributor employed by the New Zealand Qualifications Authority continued by section 430 of the Education and Training Act 2020, means the chief executive of that Authority:
     (cb)
@@ -506,13 +506,13 @@ The provisions of this Part shall not apply to the following persons:
 (4) Section 35, as substituted by section 8 of the Government Superannuation Fund Amendment Act 1962 shall not apply, by reason only of the operation of subsection (5) of the said section 35, to any female who makes an election under this section on or after 1 April 1962, whether before or after the passing of this Act, if that person was over the age of 40 years on the said 1 April 1962.
 
 ### 23A Election to contribute in respect of notional service
-(1) Every contributor who is an employee in the Public Service within the meaning of the State Sector Act 1988 or who is an education board employee to whom this section applies may elect to contribute to the Fund in respect of a period (in this section referred to as a period of notional service) not exceeding—
+(1) Every contributor who is an employee of the public service within the meaning of the Public Service Act 2020 or who is an education board employee to whom this section applies may elect to contribute to the Fund in respect of a period (in this section referred to as a period of notional service) not exceeding—
   (a) 5 years in the case of a contributor who will have less than 35 years' contributory service on the date on which he attains the age of 60 years if he makes no election under this section:
   (b) the period necessary to give the contributor 40 years of contributory service on the date on which he attains the age of 60 years in the case of a contributor who will have 35 years or more contributory service on that date if he makes no election under this section.
 (2) Notwithstanding anything to the contrary in subsection (1), where any such employee is a contributor in respect of any period or periods of service or training included as Government service under paragraph (a) or paragraph (c) of subsection (2) of section 2, the maximum period of notional service specified in respect of that contributor under subsection (1) shall be reduced by the period or periods of that service or training for which he is a contributor.
 (3) Where any contributor who has elected under this section to contribute in respect of notional service subsequently elects to contribute in respect of any other period of service, the period for which he may so elect to contribute in respect of that other service shall be reduced, where necessary, to the extent that the maximum period of notional service specified under subsection (1) would have been reduced under this section had the election to contribute in respect of other service preceded the election to contribute in respect of notional service.
-(4) Any election under this section shall be made before the contributor attains the age of 50 years or before the expiration of 3 years from the date of his appointment to the Public Service, whichever is the earlier:
-  provided that, where the contributor's current period of service in the Public Service commenced before 1 August 1964, any election under this section shall be made before the date on which he attains the age of 40 years or 1 August 1967, whichever is the earlier.
+(4) Any election under this section shall be made before the contributor attains the age of 50 years or before the expiration of 3 years from the date of his appointment to the public service, whichever is the earlier:
+  provided that, where the contributor's current period of service in the public service commenced before 1 August 1964, any election under this section shall be made before the date on which he attains the age of 40 years or 1 August 1967, whichever is the earlier.
 (4A) An election under this section by an education board employee to whom this section applies shall be made before the contributor attains the age of 50 years or before the expiration of 3 years from the date of the commencement of his current period of employment by an education board, whichever is the earlier:
   provided that, where the contributor's current period of employment by an education board commenced before 1 December 1967, any election under this section shall be made before the date on which he attains the age of 40 years or 1 December 1970, whichever is the earlier.
 (5) The period of notional service covered by any election under this section shall be deemed immediately to precede the contributor's current period of contributory service and in respect of each day of the notional service the contributor shall contribute to the Fund upon such conditions as the Authority thinks fit (including payment of contributions at such rate or rates as the Authority may determine) in respect of the notional service.
@@ -2462,7 +2462,7 @@ Where any contributory service as a contributor under this Part is computed unde
 
 ### 88NA Application to certain members of prisons service appointed on contract
 (1) Nothing in this Part shall require any person—to contribute to the Fund under this Part.
-  (a) who is appointed after the commencement of this Act to a position of General Manager (or any other position designated by the chief executive of the Department of Corrections and which is not covered by an award or agreement negotiated under section 68 of the State Sector Act 1988 (as amended by section 16 of the State Sector Amendment Act (No 2) 1989)); and
+  (a) who is appointed after the commencement of this Act to a position of General Manager (or any other position designated by the chief executive of the Department of Corrections and which is not covered by an award or agreement negotiated under sections 78 and 79 of the Public Service Act 2020); and
   (b) who was not, immediately before that appointment, a member of the prisons service; and
   (c) who elects, within 3 months of being so appointed, that this Part shall not apply to him or her,—
 (2) This section applies notwithstanding anything in section 88N or section 88O.
@@ -2511,7 +2511,7 @@ Section 61R shall apply to contributors under this Part as if the reference in s
   (a) who have attained the age of 50 years; and
   (b) who have completed not less than 10 years' contributory service; and
   (c) who have agreed in writing that this section should apply to them; and
-  (d) in respect of whom the State Services Commissioner has agreed in writing that this section should apply to them.
+  (d) in respect of whom the Public Service Commissioner has agreed in writing that this section should apply to them.
 
 ### 88T Calculation of retiring allowance
 (1) The retiring allowance of every contributor to the Fund under this Part who is entitled under section 88S(2) or section 61K (as applied by section 88Z) to receive a retiring allowance shall be an amount equal to the pension percentage of the contributor's final average earnings.
@@ -2564,7 +2564,7 @@ Sections 61M, 61N, 61O, and 61Q shall apply in respect of contributors under thi
   (a) who is not receiving salary as a full-time member of the prisons service; or
   (b) in respect of any period during which the contributor was not a permanent full-time employee in the Government service; or
   (c) who has attained the age of 50 years.
-(3) No contributor may contribute under this Part in respect of training or service to which section 2(2) applies or under section 23A in respect of any notional service without the consent of the State Services Commissioner and the Authority which, in the case of the Authority, may be given subject to such conditions as it thinks fit, including payment of contributions at such rate or rates as may be determined by the Authority.
+(3) No contributor may contribute under this Part in respect of training or service to which section 2(2) applies or under section 23A in respect of any notional service without the consent of the Public Service Commissioner and the Authority which, in the case of the Authority, may be given subject to such conditions as it thinks fit, including payment of contributions at such rate or rates as may be determined by the Authority.
 (4) The service in respect of which any contributor contributes under this section shall be counted as Government service, but shall not be counted as service as a member of the prisons service unless it was service as a member of the prisons service.
 (5) Without limiting the power of the Authority to require greater contributions in any case to which subsection (2) or subsection (3) applies, where a contributor makes an election to contribute under this section, the contributor shall pay contributions in respect of the service to which the election relates at the appropriate rate under this Part—whichever is the greater.
   (a) on the salary received by the contributor in respect of that period; or
