@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2019-02-19_
+_Consolidation as at 2020-08-07_
 
 > Title
 
@@ -263,11 +263,11 @@ The Minister has the following functions under this Act:
   (f) any other functions conferred on him or her by or under this Act.
 
 ### 6 Delegation of functions by Minister
-(1) The Minister may, either generally or particularly, delegate to the chief executive, in accordance with section 28 of the State Sector Act 1988, any of the Minister's functions, powers, or duties under this Act other than—
+(1) The Minister may, either generally or particularly, delegate to the chief executive, in accordance with clause 5 of Schedule 6 of the Public Service Act 2020, any of the Minister's functions, powers, or duties under this Act other than—
   (a) the making of decisions on submissions on a draft minerals programme under section 18 and the recommendation of a minerals programme under section 19:
   (b) this power of delegation.
-(2) The chief executive may, in accordance with section 41 of the State Sector Act 1988, subdelegate any function, power, or duty delegated to him or her by the Minister in accordance with subsection (1).
-(3) Any delegation or subdelegation made under this section may be revoked in accordance with section 29 or section 42 of the State Sector Act 1988, as the case may be.
+(2) The chief executive may, in accordance with clauses 2 and 3 of Schedule 6 of the Public Service Act 2020, subdelegate any function, power, or duty delegated to him or her by the Minister in accordance with subsection (1).
+(3) Any delegation or subdelegation made under this section may be revoked in accordance with clause 4 or 6 of Schedule 6 of the Public Service Act 2020, as the case may be.
 
 ### 7 Functions of chief executive
 The chief executive has the following functions under this Act:
