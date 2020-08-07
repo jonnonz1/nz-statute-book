@@ -1,5 +1,5 @@
 # Policing Act 2008
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Policing Act 2008.
@@ -49,8 +49,8 @@ In this Act, unless the context otherwise requires,—
     (a) means the performance by the Police of any of its functions; and
     (b) includes the exercise by Police employees of powers that they have because they are constables or authorised officers (whether the powers are statutory or given by the common law)
   - **State services superannuation scheme** means any superannuation scheme to which Police employees may belong or are required to belong, being a superannuation scheme—
-    (a) established under section 84A(a) of the State Sector Act 1988 by the Commissioner; or
-    (b) arranged under section 84A(b) or (c) of the State Sector Act 1988 by the Commissioner
+    (a) established under clause 13(a) of Schedule 8 of the Public Service Act 2020 by the Commissioner; or
+    (b) arranged under clause 13(b) or (c) of Schedule 8 of the Public Service Act 2020 by the Commissioner
   - **supervisor** means, in relation to a Police employee,—
     (a) a Police employee who holds a supervisory position in relation to that Police employee; and
     (b) includes a Police employee who is nominated by a supervisor to be acting supervisor of that employee.
@@ -118,7 +118,7 @@ Nothing in sections 8 to 10—
 (3) A person who holds office as a constable when appointed a Deputy Commissioner continues to hold the office of constable while he or she is a Deputy Commissioner.
 
 ### 14 Appointment process
-The State Services Commissioner—
+The Public Service Commissioner—
   (a) is responsible for managing the process for the appointment of the Commissioner and any Deputy Commissioners:
   (b) must provide advice on nominations for Commissioner and any Deputy Commissioners to the Prime Minister and the Minister.
 
@@ -507,7 +507,7 @@ Except as expressly provided in this Act, the Employment Relations Act 2000 appl
 Nothing in principles 2, 3, or 10 of the Privacy Act 1993 applies in relation to information collected, obtained, held, used, disclosed by, or disclosed to the Police for the purpose of any assessment by the Commissioner of the suitability of any particular person for employment with the Police.
 
 ### 58 Employment principles
-Subject to this Act, the Commissioner must operate a personnel policy that complies with the principle of being a good employer by following, as if he or she were the chief executive of a Department, the provisions of sections 56 and 58 of the State Sector Act 1988.
+Subject to this Act, the Commissioner must operate a personnel policy that complies with the principle of being a good employer by following, as if he or she were the chief executive of a Department, the provisions of sections 73 and 74 of the Public Service Act 2020.
 
 ### 59 Appointments on merit
 (1) In making an appointment under section 18, the Commissioner must give preference to the person who is best suited to the position.
@@ -521,7 +521,7 @@ Subject to this Act, the Commissioner must operate a personnel policy that compl
 The Commissioner must notify Police employees of every appointment (other than that of an acting, temporary, or casual employee) to a vacant position in the Police.
 
 ### 62 Review of appointments
-Section 65 of the State Sector Act 1988 (which relates to review of appointments) applies in respect of any appointment made by the Commissioner under section 18 as if the Police were a Department and the Commissioner were the chief executive of that Department.
+Clause 5 of Schedule 8 of the Public Service Act 2020 (which relates to review of appointments) applies in respect of any appointment made by the Commissioner under section 18 as if the Police were a Department and the Commissioner were the chief executive of that Department.
 
 ### 63 Acting appointments
 (1) In the case of the absence from duty for any reason of a Police employee or in the case of a vacancy for any reason and from time to time while the absence or vacancy continues, or for any other special purpose, the Commissioner may—
@@ -561,10 +561,10 @@ Section 65 of the State Sector Act 1988 (which relates to review of appointments
 
 **Special provisions concerning terms and conditions of employment**
 
-### 66 Consultation with, and participation by, State Services Commissioner
-(1) Before entering into negotiations for terms and conditions of employment of Police employees, the Commissioner must consult with the State Services Commissioner over the terms and conditions of employment to be negotiated.
-(2) The State Services Commissioner may at any time, either before or during the negotiations, indicate to the Commissioner that he or she wishes to participate with the Commissioner in the negotiation or continued negotiation of the conditions of employment of Police employees.
-(3) If the State Services Commissioner indicates that he or she wishes to participate, the Commissioner must allow the State Services Commissioner to participate in the negotiations.
+### 66 Consultation with, and participation by, Public Service Commissioner
+(1) Before entering into negotiations for terms and conditions of employment of Police employees, the Commissioner must consult with the Public Service Commissioner over the terms and conditions of employment to be negotiated.
+(2) The Public Service Commissioner may at any time, either before or during the negotiations, indicate to the Commissioner that he or she wishes to participate with the Commissioner in the negotiation or continued negotiation of the conditions of employment of Police employees.
+(3) If the Public Service Commissioner indicates that he or she wishes to participate, the Commissioner must allow the Public Service Commissioner to participate in the negotiations.
 
 ### 67 Referral of negotiations for terms and conditions of employment applying to constables to arbitration procedure
 (1) This section applies to bargaining for terms and conditions of employment—
@@ -577,8 +577,8 @@ Section 65 of the State Sector Act 1988 (which relates to review of appointments
 **Superannuation schemes**
 
 ### 68 State services superannuation schemes
-(1) The Commissioner may exercise in respect of Police employees the powers conferred by section 84A of the State Sector Act 1988 (which relates to the establishment of superannuation schemes for employees) on any employer in the State services.
-(2) Sections 84A and 84B of the State Sector Act 1988 apply accordingly with all necessary modifications.
+(1) The Commissioner may exercise in respect of Police employees the powers conferred by clause 13 of Schedule 8 of the Public Service Act 2020 (which relates to the establishment of superannuation schemes for employees) on any employer in the State services.
+(2) Clauses 13 and 14 of Schedule 8 of the Public Service Act 2020 apply accordingly with all necessary modifications.
 (3) Subsection (4) applies to all constables or any class or description of constables who are not members of the Government Superannuation Fund Police Sub-Scheme.
 (4) The Commissioner may make it a condition of employment of employees to whom this subsection applies that those employees contribute to a State services superannuation scheme.
 
@@ -938,8 +938,8 @@ In any proceedings,—
 (3)
 (4)
 
-### 100 Scope of review by State Services Commissioner
-If the State Services Commissioner is directed or requested under section 11 of the State Sector Act 1988 to carry out, under section 6(c) of that Act, a review of the performance of the Police, that review may relate only to the matters referred to in section 16(1).
+### 100 Scope of review by Public Service Commissioner
+If the Public Service Commissioner is directed or requested under clause 5 of Schedule 3 of the Public Service Act 2020 to carry out, under section 44(d)﻿(ii) of that Act, a review of the performance of the Police, that review may relate only to the matters referred to in section 16(1).
 
 ### 101 Annual report
 The annual report of the Police required under section 43 of the Public Finance Act 1989—
