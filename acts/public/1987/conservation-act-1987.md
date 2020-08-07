@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2019-10-22_
+_Consolidation as at 2020-08-07_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -383,7 +383,7 @@ As soon as practicable after 30 June in every year, every Board shall furnish th
   (b) the remaining persons appointed under subsection (2).
 (7D) Subsections (2) and (4) do not apply in respect of persons to be appointed under subsections (7B)﻿(a) and (7C)﻿(a).
 (8) The appointment of any person by the Minister to be a member of a Board shall be made by notice published in the Gazette, and shall take effect from the date of such notice or such later date as may be specified in the notice.
-(9) No person employed by the Department under the State Sector Act 1988 shall be eligible to be a member of any Board.
+(9) No person employed by the Department under the Public Service Act 2020 shall be eligible to be a member of any Board.
 
 ### 6Q Co-opted members
 (1) Any Board may co-opt for such term as it thinks fit any suitable person or persons to be a member or members of the Board.
@@ -1473,7 +1473,7 @@ Subject to this Act and the terms of the warrant of appointment of any fish and 
 (2) The Director may in writing delegate to any employee of the New Zealand Fish and Game Council or of any Fish and Game Council all or any of the Director's functions and powers under this Act or any other Act, except the power to appoint fish and game rangers under section 26FA.
 
 ### 26G Employment principles
-The New Zealand Fish and Game Council shall operate a personnel policy that complies with the principle of being a good employer by following, as closely as possible and as if it were a chief executive of a department, the provisions of sections 56 and 58 of the State Sector Act 1988.
+The New Zealand Fish and Game Council shall operate a personnel policy that complies with the principle of being a good employer by following, as closely as possible and as if it were a chief executive of a department, the provisions of sections 73 and 74 of the Public Service Act 2020.
 
 ### 26H Crown entity
 (1) The New Zealand Fish and Game Council is, for the purposes of subpart 2 of Part 5 of the Public Finance Act 1989, an organisation named or described in Schedule 4 of that Act.
@@ -1620,7 +1620,7 @@ Except as otherwise provided by this Act or any regulations made under it, no me
 
 ### 26T Appointment of staff
 (1) Without limiting section 26S, a Fish and Game Council may appoint a manager and other staff for the efficient and economic administration of the affairs of the Council.
-(2) Every Fish and Game Council shall operate a personnel policy that complies with the principle of being a good employer by following, as closely as possible and as if it were a chief executive of a department, the provisions of sections 56 and 58 of the State Sector Act 1988.
+(2) Every Fish and Game Council shall operate a personnel policy that complies with the principle of being a good employer by following, as closely as possible and as if it were a chief executive of a department, the provisions of sections 73 and 74 of the Public Service Act 2020.
 
 ### 26U Membership
 (1) Each Fish and Game Council shall consist of not more than 12 members elected in accordance with section 26Z.
@@ -2740,7 +2740,7 @@ A person who commits an infringement offence is liable on conviction to—
 ## Part 7 — Administration
 
 ### 52 Director-General of Conservation
-There shall from time to time be appointed under the State Sector Act 1988 a Director-General of Conservation who, subject to the control of the Minister, shall be the administrative head of the Department.
+There shall from time to time be appointed under the Public Service Act 2020 a Director-General of Conservation who, subject to the control of the Minister, shall be the administrative head of the Department.
 
 ### 53 Powers of Director-General
 (1) The Director-General has all powers that are reasonably necessary or expedient to enable the Department to perform its functions.
@@ -2772,15 +2772,15 @@ There shall from time to time be appointed under the State Sector Act 1988 a Dir
 (5) Any agreement or arrangement entered into under subsection (3)﻿(a) may permit any person to take freshwater fish that the person would not otherwise be entitled to take and may permit the person to retain those fish or any other fish taken by the person under the agreement or arrangement.
 
 ### 54 Deputy Directors-General of Conservation
-(1) There shall from time to time be appointed under the State Sector Act 1988 1 or more Deputy Directors-General of Conservation, as may be necessary or desirable for the effective and efficient carrying out of the functions of the Department.
+(1) There shall from time to time be appointed under the Public Service Act 2020 1 or more Deputy Directors-General of Conservation, as may be necessary or desirable for the effective and efficient carrying out of the functions of the Department.
 (2) Subject to the control of the Director-General, a Deputy Director-General shall have and may exercise all of the powers, duties, and functions of the Director-General (including any powers delegated by the Minister under section 57) and shall perform any other duties the Director-General thinks fit.
 (3) On the occurrence from any cause of a vacancy in the office of Director-General (whether by reason of death or resignation, or otherwise), or in the case of absence (from whatever cause arising) of the Director-General, and for so long as the vacancy or absence continues,—shall have and may exercise and perform all the powers, functions, and duties of the Director-General (including any powers delegated by the Minister under section 57).
   (a) the Deputy Director-General if there is only 1; or
-  (b) a Deputy Director-General authorised in writing in that behalf by the State Services Commission (before, on, or after the occurrence of the vacancy or absence) in every other case,—
+  (b) a Deputy Director-General authorised in writing in that behalf by the Public Service Commission (before, on, or after the occurrence of the vacancy or absence) in every other case,—
 (4) The fact that a Deputy Director-General exercises or performs any power, function, or duty of the Director-General shall be conclusive evidence of the authority of the Deputy Director-General to do so; and no authority given under subsection (3)﻿(b) and no act done by a Deputy Director-General under any such authority or under subsection (2) or subsection (3) shall in any proceedings be questioned on the ground that the occasion for the giving of the authority had not arisen or had ceased or that the act was contrary to a direction of the Director-General.
 
 ### 55 Other officers and employees of Department
-There shall from time to time be appointed under the State Sector Act 1988 such other officers and employees of the Department as are necessary for the effective and efficient performance of the functions of the Department.
+There shall from time to time be appointed under the Public Service Act 2020 such other officers and employees of the Department as are necessary for the effective and efficient performance of the functions of the Department.
 
 ### 56 Committees
 (1) The Minister may from time to time appoint, alter, and discharge advisory committees, consisting of 1 or more members, define and vary the terms of reference of those committees, and regulate their procedure as the Minister thinks fit.
@@ -2798,8 +2798,8 @@ There shall from time to time be appointed under the State Sector Act 1988 such 
 (3) Every delegation under subsection (1) shall be revocable at will, and until revoked shall continue in force according to its tenor; and
   (a) if the Minister by whom it was made ceases to hold office it shall continue to have effect as if made by the Minister for the time being:
   (b) subject to paragraph (c), if the Director-General to whom it was made ceases to hold office, it shall continue to have effect as if made to the Director-General for the time being:
-  (c) if there is no Director-General for the time being, or if the Director-General is absent from duty, it shall continue to have effect as if made to the person for the time being directed under the State Sector Act 1988 to act in place of the Director-General or to a Deputy Director-General (as the case requires).
-(4) In the absence of proof to the contrary, where the Director-General, a Deputy Director-General, or any person directed under the State Sector Act 1988 to act in place of the Director-General purports to act pursuant to a delegation under subsection (1), the action concerned shall be presumed to be in accordance with the delegation.
+  (c) if there is no Director-General for the time being, or if the Director-General is absent from duty, it shall continue to have effect as if made to the person for the time being directed under the Public Service Act 2020 to act in place of the Director-General or to a Deputy Director-General (as the case requires).
+(4) In the absence of proof to the contrary, where the Director-General, a Deputy Director-General, or any person directed under the Public Service Act 2020 to act in place of the Director-General purports to act pursuant to a delegation under subsection (1), the action concerned shall be presumed to be in accordance with the delegation.
 (5) No delegation under subsection (1) shall affect or prevent the exercise of any power by the Minister.
 
 ### 58 Delegation of powers by Director-General
@@ -2808,7 +2808,7 @@ There shall from time to time be appointed under the State Sector Act 1988 such 
 (3) The Director-General shall not—
   (a) delegate the power of delegation conferred on the Director-General by subsection (1); or
   (b) without the written consent of the Minister delegate any power delegated to the Director-General by the Minister; or
-  (c) without the written consent of the State Services Commission, delegate any power delegated to the Director-General under the State Sector Act 1988.
+  (c) without the written consent of the Public Service Commission, delegate any power delegated to the Director-General under the Public Service Act 2020.
 (4) Subject to—every person to whom any powers are delegated under subsection (1) may exercise those powers in the same manner and with the same effect as if they had been conferred on that person directly and not by delegation.
   (a) the conditions (if any) subject to which any power was delegated under subsection (1); and
   (b) any general or special directions given by the Director-General,—
@@ -2819,7 +2819,7 @@ There shall from time to time be appointed under the State Sector Act 1988 such 
   (d) the holders for the time being of any specified offices, or class or classes of office, in the Department.
 (6) Every delegation under subsection (1) shall be revocable at will but its revocation shall not take effect until it has been communicated to the delegate, and until revoked it shall continue in force according to its tenor; and if the Director-General by whom it was made ceases to hold office, it shall continue to have effect as if made—
   (a) by the Director-General for the time being; or
-  (b) if there is no Director-General for the time being, by the person for the time being directed under the State Sector Act 1988 to act in place of the Director-General, or by a Deputy Director-General (as the case requires).
+  (b) if there is no Director-General for the time being, by the person for the time being directed under the Public Service Act 2020 to act in place of the Director-General, or by a Deputy Director-General (as the case requires).
 (7) Where the Director-General or a delegate of the Director-General uses a written document to inform any other person of an action taken by a delegate of the Director-General, the document—
   (a) shall state that the action was taken by a delegate of the Director-General; and
   (b) shall give the delegate's name and office; and
@@ -2828,14 +2828,14 @@ There shall from time to time be appointed under the State Sector Act 1988 such 
 (9) For the purposes only of subsection (1), every warranted officer shall be deemed to be an officer of the Department.
 
 ### 59 Warranted officers
-(1) There may from time to time be appointed under the State Sector Act 1988 suitable persons to be warranted officers for the purposes of this Act.
+(1) There may from time to time be appointed under the Public Service Act 2020 suitable persons to be warranted officers for the purposes of this Act.
 (2) The Director-General may from time to time appoint suitable persons to be warranted officers in an honorary capacity for the purposes of this Act; and every person so appointed shall be deemed to be a warranted officer for the purposes of this Act having the powers specified in the warrant issued to the person.
 (3) Any warranted officer may be appointed for a particular district or area or areas or to act generally throughout New Zealand.
 (3A) Any warranted officer may be appointed for the particular or general purposes of this Act specified in the warrant issued to that person.
 (4) Every warranted officer appointed under subsection (2) shall be appointed for a term not exceeding 3 years specified by the Director-General; but may be reappointed.
 (5) Any warranted officer appointed under subsection (2) may at any time be removed from office by the Director-General for incapacity, neglect of duty, or misconduct, proved to the satisfaction of the Director-General, or may at any time resign office by writing addressed to the Director-General.
 (6) Every person shall, on ceasing to be a warranted officer, surrender to the Director-General the warrant of appointment, and any badge of office, issued to the person.
-(7) No warranted officer appointed under subsection (2) shall, by virtue of the appointment, be deemed to be employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or of the Government Superannuation Fund Act 1956.
+(7) No warranted officer appointed under subsection (2) shall, by virtue of the appointment, be deemed to be employed in the service of Her Majesty for the purposes of the Public Service Act 2020 or of the Government Superannuation Fund Act 1956.
 (8) The Director-General shall give every warranted officer a written warrant, signed by or on behalf of the Director-General, evidencing the appointment; and the production of the warrant shall, in the absence of proof to the contrary, be conclusive evidence of the appointment.
 (9) Every person who is a constable, or a ranger appointed under section 38(1) of the Wildlife Act 1953, section 8(1) of the Reserves Act 1977, or section 40(1) of the National Parks Act 1980, or any person who is a fishery officer or an honorary fishery officer appointed under Part 11 of the Fisheries Act 1996 to exercise powers in relation to freshwater fisheries, shall be deemed to be a warranted officer; but, where such a person has been so appointed in respect of part of New Zealand only, the person shall be deemed to have been appointed a warranted officer for that part.
 (10) There may be paid to any warranted officer appointed under subsection (2), out of money appropriated by Parliament for the purpose, reimbursement of actual and reasonable expenses incurred in the course of acting as a warranted officer, if the Director-General has given prior authorisation and has subsequently approved the amount of the expenses.
