@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble
 
@@ -61,6 +61,7 @@ In this Act, unless the context otherwise requires,—
   - **General land owned by Maori** means General land that is owned for a beneficial estate in fee simple by a Maori or by a group of persons of whom a majority are Maori
   - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **Judge** means a Judge of the Maori Land Court; and includes the Chief Judge and the Deputy Chief Judge
+  - **Kāinga Ora–Homes and Communities** means the Crown entity established under section 8 of the Kāinga Ora–Homes and Communities Act 2019
   - **kaitiaki** means guardian
   - **land** —
     (a) means—
@@ -107,6 +108,8 @@ In this Act, unless the context otherwise requires,—
   - **prescribed** means prescribed by this Act or by regulations made for the purposes of this Act or by the rules of court
   - **Registrar** means a Registrar of the Maori Land Court; and includes the Chief Registrar and a Deputy Registrar
   - **road** has the same meaning as in section 315 of the Local Government Act 1974
+  - **roading powers** , in relation to a specified development project (or a road within one), has the same meaning as in section 9 of the Urban Development Act 2020
+  - **specified development project** has the same meaning as in section 9 of the Urban Development Act 2020
   - **State Loan Department** means—
     (a) Public Trust:
     (b) Kāinga Ora–Homes and Communities:
@@ -2602,7 +2605,7 @@ The court may at any time, in respect of any trustee of a trust to which this Pa
   (b) any persons who, at the date of the order, are successors of any of the persons who were, at the creation of the trust, the beneficial owners of the land or the part of the land or the interest in the land.
 
 ### 242 Orders for payment of money held in trust
-(1) The court, on the application of any person interested or of its own motion, may order that any money held in trust for any Maori, or any money derived from any Maori land and held in trust, by any trustee, government department, officer of the Public Service, corporation, solicitor, or accountant be paid to the person or persons beneficially entitled to the money, or to any other person, as the court may direct, on behalf of the person or persons so entitled.
+(1) The court, on the application of any person interested or of its own motion, may order that any money held in trust for any Maori, or any money derived from any Maori land and held in trust, by any trustee, government department, officer of the public service, corporation, solicitor, or accountant be paid to the person or persons beneficially entitled to the money, or to any other person, as the court may direct, on behalf of the person or persons so entitled.
 (2) Notwithstanding anything in subsection (1), in respect of any money to which that subsection applies, the court may direct that it be applied wholly or partly in or towards any of the following purposes:
   (a) the maintenance, education, or advancement of any person beneficially entitled to the money:
   (b) the payment of rates or charges in respect of any land:
@@ -3332,6 +3335,7 @@ No partition of Maori land shall be effected (whether by the court under this Pa
 (5) The court shall not lay out roadways connecting with any State highway without the consent of the New Zealand Transport Agency and the territorial authority for the district in which the connection would be effected.
 (6) The court shall not lay out roadways connecting with any public road without the consent of the territorial authority for the district in which the connection would be effected.
 (7) Notwithstanding anything in subsections (5) and (6), where a roadway is laid off as part of a partition to which section 301 applies, a separate consent to the laying out of the roadway shall not be required from the territorial authority for the district in which the land to be partitioned is situated.
+(8) In subsection (6), territorial authority means Kāinga Ora–Homes and Communities to the extent that the connection is to a public road in a project area for a specified development project and Kāinga Ora–Homes and Communities has roading powers in relation to that project.
 
 ### 318 Effect of laying out roadway
 (1) Subject to the provisions of subsection (2), the laying out of a roadway over any land shall confer on all persons the same rights of user as if it were a public road.
@@ -3356,6 +3360,7 @@ No partition of Maori land shall be effected (whether by the court under this Pa
   (b) the territorial authority for the district in which the road or proposed road is situated.
 (5) On the date of the publication in the Gazette of a Proclamation issued under subsection (1), or on such later date as may be specified in that Proclamation as the date when it shall have effect, all land to which the Proclamation relates shall vest as a road in the territorial authority within whose district the land is situated, but otherwise free from all reservations, restrictions, trusts, rights, titles, estates, or interests of any kind.
 (6) The provisions of section 57 of the Public Works Act 1981 shall, as far as they are applicable and with any necessary modifications, apply to any Proclamation issued under this section.
+(7) In subsection (4), territorial authority for the district means Kāinga Ora–Homes and Communities to the extent that the land, road, or proposed road is situated in a project area for a specified development project and Kāinga Ora–Homes and Communities has roading powers in relation to that project.
 
 ### 321 Land that has been used but not set apart as a road may be declared a road or street
 (1) Where the court is satisfied that any Maori freehold land has in fact been used as a roadway though it may not have been declared to be a roadway, it may make a recommendation to the Minister of Transport that the land so used be declared to be a road.
@@ -3386,6 +3391,7 @@ No partition of Maori land shall be effected (whether by the court under this Pa
 (3) The provisions of subsection (1) shall extend to apply in any case where the road was laid out over Crown land, and the land adjoining the road or portion of the road that has been closed is Maori freehold land or General land owned by Maori.
 (4) By the same or a subsequent order, the court may amend any existing title to include in it the land comprised in the road or portion of the road that has been closed, and the Registrar-General of Land is hereby authorised to make all necessary entries or amendments in any record of title.
 (5) Unless the court otherwise orders, any land that is vested in any Maori pursuant to this section shall thereupon become Maori freehold land.
+(6) In subsection (1), territorial authority having control of the road at the time of closure means Kāinga Ora–Homes and Communities to the extent that Kāinga Ora had roading powers in relation to the road at the time of closure.
 
 ### 326 Alienation of land to include alienation of interest in roadway giving access to that land
 (1) Where any roadway that is comprised in a separate instrument of title has, whether before or after the commencement of this Act, been laid out by the court over any Maori freehold land, the transfer by sale or otherwise of any land to which the roadway gives access shall, unless the instrument of alienation expressly provides to the contrary, be and be deemed to have been a transfer by the alienor to the alienee of the alienor’s interest (if any) in the roadway.
