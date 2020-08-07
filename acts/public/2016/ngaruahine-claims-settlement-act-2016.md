@@ -1,5 +1,5 @@
 # Ngāruahine Claims Settlement Act 2016
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Ngāruahine Claims Settlement Act 2016.
@@ -839,7 +839,7 @@ The owners of reserve land must not mortgage, or give a security interest in, th
 In this subpart,—
   - **kaitiaki area** means the areas with the general location (but not the precise boundaries) indicated in OTS-023–01 and OTS-023–56
   - **kaitiaki plan** means a plan prepared by the trustees of Te Korowai o Ngāruahine for the purpose set out in section 77
-  - **relevant department** means a department (as defined in section 27A of the State Sector Act 1988) that has a role in the management of land and natural resources
+  - **relevant department** means a department (as defined in section 5 of the Public Service Act 2020) that has a role in the management of land and natural resources
   - **relevant local authority** , for a kaitiaki area, means a local authority with jurisdiction within the kaitiaki area.
 
 ### 77 Purpose of kaitiaki plan
