@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2019-11-04_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -1681,7 +1681,7 @@ A person who is in doubt as to the appropriate licensing committee to apply to m
 (1) The licensing authority comprises the following members, appointed by the Governor-General on the recommendation of the Minister:
   (a) up to 3 District Court Judges:
   (b) any number of other members.
-(2) No person is employed in the service of Her Majesty for the purposes of the State Sector Act 1988 by virtue only of appointment to the licensing authority.
+(2) No person is employed in the service of Her Majesty for the purposes of the Public Service Act 2020 by virtue only of appointment to the licensing authority.
 
 ### 179A Appointment of temporary acting chairperson, deputy chairperson, or member
 (1) If the chairperson, a deputy chairperson, or a member of the licensing authority becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if the chairperson, a deputy chairperson, or a member of the licensing authority considers it is not proper or not desirable that he or she should adjudicate on a specified matter, the Governor-General, on the recommendation of the Minister, may appoint a suitable person as the acting chairperson, an acting deputy chairperson, or an acting member for the period or purpose stated in the appointment.
@@ -1725,7 +1725,7 @@ The chairperson of the licensing authority is responsible for making any arrange
 (3) For the purposes of this section, fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
 
 ### 184 Officers of licensing authority
-There must be appointed under the State Sector Act 1988 a secretary of the licensing authority, and all other employees necessary for it to carry out its functions efficiently.
+There must be appointed under the Public Service Act 2020 a secretary of the licensing authority, and all other employees necessary for it to carry out its functions efficiently.
 
 ### 185 Professional assistance
 With the Minister's authority, the licensing authority may engage, under a contract for services, any professional, technical, or other assistance it thinks necessary to enable it to carry out its functions.
