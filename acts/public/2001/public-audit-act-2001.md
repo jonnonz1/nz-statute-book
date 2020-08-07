@@ -1,5 +1,5 @@
 # Public Audit Act 2001
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Public Audit Act 2001.
@@ -27,6 +27,7 @@ In this Act, unless the context otherwise requires,—
       (ii) a Crown entity; or
       (iii) a State enterprise named in Schedule 1 of the State-Owned Enterprises Act 1986
   - **Crown entity** has the same meaning as in section 2(1) of the Public Finance Act 1989
+  - **department** has the same meaning as in section 2(1) of the Public Finance Act 1989
   - **Deputy Auditor-General** means the Deputy Controller and Auditor-General appointed under section 11
   - **document** means any record of information; and includes—
     (a) anything on which there is writing or any image; and
@@ -486,8 +487,8 @@ Nothing in this Act—
   (b) allowances that are determined from time to time by the Remuneration Authority.
 (2) The salary of the Auditor-General, or of the Deputy Auditor-General, must not be reduced during the Auditor-General’s, or Deputy Auditor-General’s, appointment.
 
-### 6 State Sector Act 1988 and Government Superannuation Fund Act 1956 not applicable to Auditor-General and Deputy Auditor-General
-The Auditor-General and Deputy Auditor-General are not employed in the service of the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason of their appointment as Auditor-General or Deputy Auditor-General.
+### 6 Public Service Act 2020 and Government Superannuation Fund Act 1956 not applicable to Auditor-General and Deputy Auditor-General
+The Auditor-General and Deputy Auditor-General are not employed in the service of the Crown for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason of their appointment as Auditor-General or Deputy Auditor-General.
 
 ### 7 Auditor-General not to borrow, etc, without approval of Minister of Finance
 The Auditor-General must not do any of the following without the written approval of the Minister of Finance:
@@ -510,7 +511,7 @@ The Auditor-General must not do any of the following without the written approva
   (d) recognition of—
     (i) the aims and aspirations of the Maori people; and
     (ii) the employment requirements of the Maori people; and
-    (iii) the need for greater involvement of the Maori people in the Public Service; and
+    (iii) the need for greater involvement of the Maori people in the public service; and
   (e) opportunities for the enhancement of the abilities of individual employees; and
   (f) recognition of the aims and aspirations, and the cultural differences, of ethnic or minority groups; and
   (g) recognition of the employment requirements of women; and
@@ -526,8 +527,8 @@ The Auditor-General must not do any of the following without the written approva
   (b) an account of the extent to which the Auditor-General was able to meet, during the year to which the report relates, the equal employment opportunities programme for that year.
 (3) For the purposes of this clause and clause 8, an equal employment opportunities programme means a programme that is aimed at the identification and elimination of all aspects of policies, procedures, and other institutional barriers that cause or perpetuate, or tend to cause or perpetuate, inequality in respect to the employment of any persons or group of persons.
 
-### 11 State Sector Act 1988 and Government Superannuation Fund Act 1956 not applicable to employees of Auditor-General
+### 11 Public Service Act 2020 and Government Superannuation Fund Act 1956 not applicable to employees of Auditor-General
 (1) This clause applies to employees to whom section 62 does not apply.
-(2) An employee of the Auditor-General is not to be regarded as employed in the service of the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason of his or her employment as such.
+(2) An employee of the Auditor-General is not to be regarded as employed in the service of the Crown for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason of his or her employment as such.
 
 ## Schedule 4 — Consequential amendments
