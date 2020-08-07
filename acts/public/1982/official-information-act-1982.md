@@ -1,5 +1,5 @@
 # Official Information Act 1982
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to make official information more freely available, to provide for proper access by each person to official information relating to that person, to protect official information to the extent consistent with the public interest and the preservation of personal privacy, to establish procedures for the achievement of those purposes, and to repeal the Official Secrets Act 1951
 
@@ -29,11 +29,11 @@ _Consolidation as at 2020-08-01_
   - **Minister of the Crown** includes a Parliamentary Under-Secretary
   - **official information** —
     (a) means any information held by—
-      (i) a department; or
+      (i) a public service agency; or
       (ii) a Minister of the Crown in his official capacity; or
       (iii) an organisation; and
     (b) includes any information held outside New Zealand by any branch or post of—
-      (i) a department; or
+      (i) a public service agency; or
       (ii) an organisation; and
     (c) in relation to information held by the Ministry of Justice, includes information held by the Rules Committee appointed under section 155 of the Senior Courts Act 2016; and
     (d) in relation to information held by a university (including Lincoln University), includes only information held by—
@@ -44,9 +44,9 @@ _Consolidation as at 2020-08-01_
       (v) any examiner, assessor, or moderator in any subject or examination taught or conducted by the university; but
     (e) does not include information contained in—
       (i) library or museum material made or acquired and preserved solely for reference or exhibition purposes; or
-      (ii) material placed in the National Library of New Zealand Te Puna Mātauranga o Aotearoa by or on behalf of persons other than Ministers of the Crown in their official capacity or departments; or
+      (ii) material placed in the National Library of New Zealand Te Puna Mātauranga o Aotearoa by or on behalf of persons other than Ministers of the Crown in their official capacity or public service agencies; or
       (iii) any oral history provided to the National Library of New Zealand Te Puna Mātauranga o Aotearoa in accordance with section 10 of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003; and
-    (f) does not include any information which is held by a department, Minister of the Crown, or organisation solely as an agent or for the sole purpose of safe custody and which is so held on behalf of a person other than a department or a Minister of the Crown in his official capacity or an organisation; and
+    (f) does not include any information which is held by a public service agency, Minister of the Crown, or organisation solely as an agent or for the sole purpose of safe custody and which is so held on behalf of a person other than a public service agency or a Minister of the Crown in his official capacity or an organisation; and
     (g) does not include any information held by Public Trust or the Māori Trustee—
       (i) in their capacity as trustee within the meaning of the Trustee Act 1956; or
       (ii) in any other fiduciary capacity; and
@@ -57,8 +57,8 @@ _Consolidation as at 2020-08-01_
     (ha) does not include—
       (i) any matter subject to an order under section 15(1)﻿(a) of the Inquiries Act 2013; or
       (ii) documents referred to in section 32(2)﻿(b) of the Inquiries Act 2013; and
-    (i) does not include information contained in any correspondence or communication which has taken place between the office of the Ombudsmen and any department or Minister of the Crown or organisation and which relates to an investigation conducted by an Ombudsman under this Act or under the Ombudsmen Act 1975, other than information that came into existence before the commencement of that investigation; and
-    (j) does not include information contained in any correspondence or communication that has taken place between the office of the Privacy Commissioner and any department or Minister of the Crown or organisation and that relates to any investigation conducted by the Privacy Commissioner under the Privacy Act 1993, other than information that came into existence before the commencement of that investigation; and
+    (i) does not include information contained in any correspondence or communication which has taken place between the office of the Ombudsmen and any public service agency or Minister of the Crown or organisation and which relates to an investigation conducted by an Ombudsman under this Act or under the Ombudsmen Act 1975, other than information that came into existence before the commencement of that investigation; and
+    (j) does not include information contained in any correspondence or communication that has taken place between the office of the Privacy Commissioner and any public service agency or Minister of the Crown or organisation and that relates to any investigation conducted by the Privacy Commissioner under the Privacy Act 1993, other than information that came into existence before the commencement of that investigation; and
     (k) does not include information contained in a victim impact statement (as defined in section 17AA of the Victims' Rights Act 2002); and
     (l) does not include any evidence, submissions, or other information given or made to—
       (i) the Judicial Conduct Commissioner, the Deputy Judicial Conduct Commissioner, or a Judicial Conduct Panel, in relation to any matter under the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004; or
@@ -75,6 +75,7 @@ _Consolidation as at 2020-08-01_
       (iii) treated for the purposes of that Act as being unlawfully in New Zealand
   - **person** includes a corporation sole, and also a body of persons, whether corporate or unincorporate
   - **personal information** means any official information held about an identifiable person
+  - **public service agencies** and have the same meanings as in section 2(1) of the Ombudsmen Act 1975 (but for the purposes of this Act do not include the Parliamentary Counsel Office)
   - **State enterprise** means—
     (a) an organisation that is a State enterprise within the meaning of section 2 of the State-Owned Enterprises Act 1986 and that is named in Schedule 1 of this Act:
     (b) an organisation that was a State enterprise within the meaning of section 2 of the State-Owned Enterprises Act 1986 but which continues to be named in Schedule 1 of this Act
@@ -87,15 +88,15 @@ _Consolidation as at 2020-08-01_
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
 (1A) For the purposes of Schedule 1, a company registered under the Companies Act 1993 is a related company of a State enterprise if the State enterprise, whether alone or together with any other State enterprise, directly or indirectly owns, or controls the exercise of all the voting rights attaching to, the issued shares of the company (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital).
 (2) Where information is held by an unincorporated body (being a board, council, committee, subcommittee, or other body, but not being a mortality review committee)—that information shall, for the purposes of this Act, be deemed—
-  (a) which is established for the purpose of assisting or advising, or performing functions connected with, any department or Minister of the Crown or organisation; and
-  (b) which is so established in accordance with the provisions of any enactment or by any department or Minister of the Crown or organisation,—
-  (c) in any case where that body is established in respect of any department or organisation, to be information held by that department or organisation; and
+  (a) which is established for the purpose of assisting or advising, or performing functions connected with, any public service agency or Minister of the Crown or organisation; and
+  (b) which is so established in accordance with the provisions of any enactment or by any public service agency or Minister of the Crown or organisation,—
+  (c) in any case where that body is established in respect of any public service agency or organisation, to be information held by that public service agency or organisation; and
   (d) in any case where that body is established in respect of a Minister of the Crown, to be information held by that Minister.
-(3) Where subsection (2) applies in respect of any unincorporated body and that body is established for the purpose of assisting, advising, or performing functions connected with any department or organisation, that unincorporated body shall, for the purposes of this Act, be deemed to be part of that department or organisation.
-(4) Subject to subsection (4A), information held by an officer or employee or member of a department or organisation in that person's capacity as such an officer or employee or member or in that person's capacity as a statutory officer shall, for the purposes of this Act, be deemed to be held by the department or organisation of which that person is an officer or employee or member.
-(4A) Nothing in subsection (4) applies in respect of any information that any officer or employee or member of a department or organisation would not hold but for that person's membership of, or connection with, a body other than a department or organisation, except where that membership or connection is in that person's capacity as an officer or employee or member of that department or organisation or as a statutory officer.
-(5) Any information held by an independent contractor engaged by any department or Minister of the Crown or organisation in his capacity as such contractor shall, for the purposes of this Act, be deemed to be held by the department or Minister of the Crown or organisation.
-(6) For the avoidance of doubt, it is hereby declared that the terms department and organisation do not include—
+(3) Where subsection (2) applies in respect of any unincorporated body and that body is established for the purpose of assisting, advising, or performing functions connected with any public service agency or organisation, that unincorporated body shall, for the purposes of this Act, be deemed to be part of that public service agency or organisation.
+(4) Subject to subsection (4A), information held by an officer or employee or member of a public service agency or organisation in that person's capacity as such an officer or employee or member or in that person's capacity as a statutory officer shall, for the purposes of this Act, be deemed to be held by the public service agency or organisation of which that person is an officer or employee or member.
+(4A) Nothing in subsection (4) applies in respect of any information that any officer or employee or member of a public service agency or organisation would not hold but for that person's membership of, or connection with, a body other than a public service agency or organisation, except where that membership or connection is in that person's capacity as an officer or employee or member of that public service agency or organisation or as a statutory officer.
+(5) Any information held by an independent contractor engaged by any public service agency or Minister of the Crown or organisation in his capacity as such contractor shall, for the purposes of this Act, be deemed to be held by the public service agency or Minister of the Crown or organisation.
+(6) For the avoidance of doubt, it is hereby declared that the terms public service agency and organisation do not include—
   (a) a court; or
   (b) in relation to its judicial functions, a tribunal; or
   (ba) in relation to its judicial functions, a Crown entity within the meaning of the Crown Entities Act 2004; or
@@ -175,15 +176,15 @@ Good reason for withholding information exists, for the purpose of section 5, if
     (iii) the political neutrality of officials:
     (iv) the confidentiality of advice tendered by Ministers of the Crown and officials; or
   (g) maintain the effective conduct of public affairs through—
-    (i) the free and frank expression of opinions by or between or to Ministers of the Crown or members of an organisation or officers and employees of any department or organisation in the course of their duty; or
+    (i) the free and frank expression of opinions by or between or to Ministers of the Crown or members of an organisation or officers and employees of any public service agency or organisation in the course of their duty; or
     (ii) the protection of such Ministers, members of organisations, officers, and employees from improper pressure or harassment; or
   (h) maintain legal professional privilege; or
-  (i) enable a Minister of the Crown or any department or organisation holding the information to carry out, without prejudice or disadvantage, commercial activities; or
-  (j) enable a Minister of the Crown or any department or organisation holding the information to carry on, without prejudice or disadvantage, negotiations (including commercial and industrial negotiations); or
+  (i) enable a Minister of the Crown or any public service agency or organisation holding the information to carry out, without prejudice or disadvantage, commercial activities; or
+  (j) enable a Minister of the Crown or any public service agency or organisation holding the information to carry on, without prejudice or disadvantage, negotiations (including commercial and industrial negotiations); or
   (k) prevent the disclosure or use of official information for improper gain or improper advantage.
 
 ### 10 Information concerning existence of certain information
-Where a request under this Act relates to information to which section 6 or section 7 or section 9(2)﻿(b) applies, or would, if it existed, apply, the department or Minister of the Crown or organisation dealing with the request may, if it or he is satisfied that the interest protected by section 6 or section 7 or section 9(2)﻿(b) would be likely to be prejudiced by the disclosure of the existence or non-existence of such information, give notice in writing to the applicant that it or he neither confirms nor denies the existence or non-existence of that information.
+Where a request under this Act relates to information to which section 6 or section 7 or section 9(2)﻿(b) applies, or would, if it existed, apply, the department (for itself and for a departmental agency hosted by it or an interdepartmental executive board serviced by it) or interdepartmental venture or Minister of the Crown or organisation dealing with the request may, if it or he is satisfied that the interest protected by section 6 or section 7 or section 9(2)﻿(b) would be likely to be prejudiced by the disclosure of the existence or non-existence of such information, give notice in writing to the applicant that it or he neither confirms nor denies the existence or non-existence of that information.
 
 ### 11 Exclusion of public interest immunity
 (1) Subject to subsection (2), the rule of law which authorises or requires the withholding of any document, or the refusal to answer any question, on the ground that the disclosure of the document or the answering of the question would be injurious to the public interest shall not apply in respect of—but not so as to give any party any information that he would not, apart from this section, be entitled to.
@@ -197,7 +198,7 @@ Where a request under this Act relates to information to which section 6 or sect
 ## Part 2 — Requests for access to official information
 
 ### 12 Requests
-(1) Any person, being—may request a department or Minister of the Crown or organisation to make available to him or it any specified official information.
+(1) Any person, being—may request a department (for itself and for a departmental agency hosted by it or an interdepartmental executive board serviced by it) or interdepartmental venture or Minister of the Crown or organisation to make available to him or it any specified official information.
   (a) a New Zealand citizen; or
   (b) a permanent resident of New Zealand; or
   (c) a person who is in New Zealand; or
@@ -209,39 +210,39 @@ Where a request under this Act relates to information to which section 6 or sect
 (1A) Notwithstanding subsection (1), a request made, on or after the date of commencement of this subsection, by or on behalf of a natural person for access to any personal information which is about that person shall be deemed to be a request made pursuant to subclause (1)﻿(b) of principle 6 of the Privacy Act 1993, and shall be dealt with accordingly, and nothing in this Part or in Part 5 shall apply in relation to any such request.
 (2) The official information requested shall be specified with due particularity in the request.
 (3) If the person making the request asks that his request be treated as urgent, he shall give his reasons for seeking the information urgently.
-(4) A department or Minister of the Crown or organisation to which an oral request is made under subsection (1) may, if written clarification is reasonably necessary, ask the person making the request to put the request in writing to clarify the request.
-(5) If the person declines or is unable to put the request in writing, the department or Minister of the Crown or organisation must record its understanding of the request and provide a copy of the record to the person.
+(4) A department or venture or Minister of the Crown or organisation to which an oral request is made under subsection (1) may, if written clarification is reasonably necessary, ask the person making the request to put the request in writing to clarify the request.
+(5) If the person declines or is unable to put the request in writing, the department or venture or Minister of the Crown or organisation must record its understanding of the request and provide a copy of the record to the person.
 
 ### 13 Assistance
-It is the duty of every department, Minister of the Crown, and organisation to give reasonable assistance to a person, who—to make a request in a manner that is in accordance with that section or to direct his request to the appropriate department or Minister of the Crown or organisation or local authority.
+It is the duty of every department or interdepartmental venture, Minister of the Crown, and organisation to give reasonable assistance to a person, who—to make a request in a manner that is in accordance with that section or to direct his request to the appropriate department or venture or Minister of the Crown or organisation or local authority.
   (a) wishes to make a request in accordance with section 12; or
   (b) in making a request under section 12, has not made that request in accordance with that section; or
-  (c) has not made his request to the appropriate department or Minister of the Crown or organisation or local authority,—
+  (c) has not made his request to the appropriate department or venture or Minister of the Crown or organisation or local authority,—
 
 ### 14 Transfer of requests
-Where—the department or Minister of the Crown or organisation to which the request is made shall promptly, and in any case not later than 10 working days after the day on which the request is received, transfer the request, or relevant part of the request, to the other department or Minister of the Crown or organisation, or to that local authority, and inform the person making the request accordingly.
-  (a) a request in accordance with section 12 is made to a department or Minister of the Crown or organisation; and
+Where—the department or venture or Minister of the Crown or organisation to which the request is made shall promptly, and in any case not later than 10 working days after the day on which the request is received, transfer the request, or relevant part of the request, to the other department or interdepartmental venture or Minister of the Crown or organisation, or to that local authority, and inform the person making the request accordingly.
+  (a) a request in accordance with section 12 is made to a department or interdepartmental venture or Minister of the Crown or organisation; and
   (b) the information, or some of the information, to which the request relates—
-    (i) is not held by the department or Minister of the Crown or organisation but is believed by the person dealing with the request to be held by another department or Minister of the Crown or organisation, or by a local authority; or
-    (ii) is believed by the person dealing with the request to be more closely connected with the functions of another department or Minister of the Crown or organisation, or of a local authority,—
+    (i) is not held by the department or venture or Minister of the Crown or organisation but is believed by the person dealing with the request to be held by another department (for itself and for a departmental agency hosted by it or an interdepartmental executive board serviced by it) or interdepartmental venture or Minister of the Crown or organisation, or by a local authority; or
+    (ii) is believed by the person dealing with the request to be more closely connected with the functions of another department (for itself and for a departmental agency hosted by it or an interdepartmental executive board serviced by it) or interdepartmental venture or Minister of the Crown or organisation, or of a local authority,—
 
 ### 15 Decisions on requests
-(1) Subject to this Act, the department or Minister of the Crown or organisation to whom a request is made in accordance with section 12 or is transferred in accordance with section 14 of this Act or section 12 of the Local Government Official Information and Meetings Act 1987 shall, as soon as reasonably practicable, and in any case not later than 20 working days after the day on which the request is received by that department or Minister of the Crown or organisation,—
+(1) Subject to this Act, the department or interdepartmental venture or Minister of the Crown or organisation to whom a request is made in accordance with section 12 or is transferred in accordance with section 14 of this Act or section 12 of the Local Government Official Information and Meetings Act 1987 shall, as soon as reasonably practicable, and in any case not later than 20 working days after the day on which the request is received by that department or venture or Minister of the Crown or organisation,—
   (a) decide whether the request is to be granted and, if it is to be granted, in what manner and for what charge (if any); and
   (b) give or post to the person who made the request notice of the decision on the request.
-(1AA) If a request (the original request) is amended or clarified after the date on which it is received, the department or Minister of the Crown or organisation that receives the request may treat the amended or clarified request as a new request that, for the purposes of subsection (1), replaces the original request.
+(1AA) If a request (the original request) is amended or clarified after the date on which it is received, the department or venture or Minister of the Crown or organisation that receives the request may treat the amended or clarified request as a new request that, for the purposes of subsection (1), replaces the original request.
 (1AB) However, subsection (1AA) does not apply if—
-  (a) the original request is amended or clarified because the department or Minister of the Crown or organisation to which the request was made sought an amendment to, or a clarification of, the request; and
-  (b) the department or Minister of the Crown or organisation did not seek that amendment or clarification within 7 working days after receiving the original request.
-(1A) Subject to section 24, every department or Minister of the Crown or organisation (including an organisation whose activities are funded in whole or in part by another person) may charge for the supply of official information under this Act.
+  (a) the original request is amended or clarified because the department or venture or Minister of the Crown or organisation to which the request was made sought an amendment to, or a clarification of, the request; and
+  (b) the department or venture or Minister of the Crown or organisation did not seek that amendment or clarification within 7 working days after receiving the original request.
+(1A) Subject to section 24, every department or venture or Minister of the Crown or organisation (including an organisation whose activities are funded in whole or in part by another person) may charge for the supply of official information under this Act.
 (2) Any charge fixed shall be reasonable and regard may be had to the cost of the labour and materials involved in making the information available and to any costs incurred pursuant to a request of the applicant to make the information available urgently.
-(3) The department or Minister of the Crown or organisation may require that the whole or part of any charge be paid in advance.
-(4) Where a request in accordance with section 12 is made or transferred to a department, the decision on that request shall be made by the chief executive of that department or an officer or employee of that department authorised by that chief executive unless that request is transferred in accordance with section 14 to another department or to a Minister of the Crown or to an organisation or to a local authority.
-(5) Nothing in subsection (4) prevents the chief executive of a department or any officer or employee of a department from consulting a Minister of the Crown or any other person in relation to the decision that the chief executive or officer or employee proposes to make on any request made to the department in accordance with section 12 of this Act or transferred to the department in accordance with section 14 of this Act or section 12 of the Local Government Official Information and Meetings Act 1987.
+(3) The department or venture or Minister of the Crown or organisation may require that the whole or part of any charge be paid in advance.
+(4) Where a request in accordance with section 12 is made or transferred to a department or an interdepartmental venture, the decision on that request must be made by the chief executive of the department or the board of the venture or an officer or employee of the department or venture authorised by that chief executive or board unless that request is transferred in accordance with section 14 to another department or venture, a Minister of the Crown, an organisation, or a local authority.
+(5) Nothing in subsection (4) prevents the chief executive or board or officer or employee from consulting a Minister of the Crown or any other person in relation to the decision that the chief executive or board or officer or employee proposes to make on any request made to the department or venture in accordance with section 12 of this Act or transferred to the department or venture in accordance with section 14 of this Act or section 12 of the Local Government Official Information and Meetings Act 1987.
 
 ### 15A Extension of time limits
-(1) Where a request in accordance with section 12 is made or transferred to a department or Minister of the Crown or organisation, the chief executive of that department or an officer or employee of that department authorised by that chief executive or that Minister of the Crown or that organisation may extend the time limit set out in section 14 or section 15(1) in respect of the request if—
-  (a) the request is for a large quantity of official information or necessitates a search through a large quantity of information and meeting the original time limit would unreasonably interfere with the operations of the department or the Minister of the Crown or the organisation; or
+(1) Where a request in accordance with section 12 is made or transferred to a department or an interdepartmental venture or a Minister of the Crown or an organisation, the chief executive of that department or board of that venture or an officer or employee of that department or venture authorised by that chief executive or board or that Minister of the Crown or that organisation may extend the time limit set out in section 14 or 15(1) in respect of the request if—
+  (a) the request is for a large quantity of official information or necessitates a search through a large quantity of information and meeting the original time limit would unreasonably interfere with the operations of the department or the venture or the Minister of the Crown or the organisation; or
   (b) consultations necessary to make a decision on the request are such that a proper response to the request cannot reasonably be made within the original time limit.
 (2) Any extension under subsection (1) shall be for a reasonable period of time having regard to the circumstances.
 (3) The extension shall be effected by giving or posting notice of the extension to the person who made the request within 20 working days after the day on which the request is received.
@@ -260,24 +261,24 @@ Where—the department or Minister of the Crown or organisation to which the req
   (e) by giving an excerpt or summary of the contents; or
   (f) by furnishing oral information about its contents.
 (1A) Subject to subsections (2) and (3), information made available in any of the ways listed under subsection (1) may be made available in electronic form or by electronic means.
-(2) Subject to section 17, the department or Minister of the Crown or organisation shall make the information available in the way preferred by the person requesting it unless to do so would—
+(2) Subject to section 17, the department or interdepartmental venture or Minister of the Crown or organisation shall make the information available in the way preferred by the person requesting it unless to do so would—
   (a) impair efficient administration; or
-  (b) be contrary to any legal duty of the department or Minister of the Crown or organisation in respect of the document; or
+  (b) be contrary to any legal duty of the department or venture or Minister of the Crown or organisation in respect of the document; or
   (c) prejudice the interests protected by section 6 or section 7 or section 9 and (in the case of the interests protected by section 9) there is no countervailing public interest.
-(3) Where the information is not provided in the way preferred by the person requesting it, the department or Minister of the Crown or organisation shall, subject to section 10, give to that person—
+(3) Where the information is not provided in the way preferred by the person requesting it, the department or venture or Minister of the Crown or organisation shall, subject to section 10, give to that person—
   (a) the reason for not providing the information in that way; and
   (b) if that person so requests, the grounds in support of that reason, unless the giving of those grounds would itself prejudice the interests protected by section 6 or section 7 or section 9 and (in the case of the interests protected by section 9) there is no countervailing public interest.
 
 ### 17 Deletion of information from documents
 (1) Where the information requested is comprised in a document and there is good reason for withholding some of the information contained in that document, the other information in that document may be made available by making a copy of that document available with such deletions or alterations as are necessary.
-(2) Where a copy of a document is made available under subsection (1), the department or Minister of the Crown or organisation shall, subject to section 10, give to the applicant—
+(2) Where a copy of a document is made available under subsection (1), the department or interdepartmental venture or Minister of the Crown or organisation shall, subject to section 10, give to the applicant—
   (a) the reason for withholding the information; and
   (b) if the applicant so requests, the grounds in support of that reason, unless the giving of those grounds would itself prejudice the interests protected by section 6 or section 7 or section 9 and (in the case of the interests protected by section 9) there is no countervailing public interest.
 
 ### 18 Refusal of requests
 A request made in accordance with section 12 may be refused only for 1 or more of the following reasons, namely:
   (a) that, by virtue of section 6 or section 7 or section 9, there is good reason for withholding the information:
-  (b) that, by virtue of section 10, the department or Minister of the Crown or organisation does not confirm or deny the existence or non-existence of the information requested:
+  (b) that, by virtue of section 10, the department or interdepartmental venture or Minister of the Crown or organisation does not confirm or deny the existence or non-existence of the information requested:
   (c) that the making available of the information requested would—
     (i) be contrary to the provisions of a specified enactment; or
     (ii) constitute contempt of court or of the House of Representatives:
@@ -287,24 +288,24 @@ A request made in accordance with section 12 may be refused only for 1 or more o
     (ii) for information that could be sought by the defendant under that Act and that has been disclosed to, or withheld from, the defendant under that Act:
   (e) that the document alleged to contain the information requested does not exist or, despite reasonable efforts to locate it, cannot be found:
   (f) that the information requested cannot be made available without substantial collation or research:
-  (g) that the information requested is not held by the department or Minister of the Crown or organisation and the person dealing with the request has no grounds for believing that the information is either—
-    (i) held by another department or Minister of the Crown or organisation, or by a local authority; or
-    (ii) connected more closely with the functions of another department or Minister of the Crown or organisation or of a local authority:
+  (g) that the information requested is not held by the department or venture or Minister of the Crown or organisation and the person dealing with the request has no grounds for believing that the information is either—
+    (i) held by another department (for itself and for a departmental agency hosted by it or an interdepartmental executive board serviced by it) or interdepartmental venture or Minister of the Crown or organisation, or by a local authority; or
+    (ii) connected more closely with the functions of another department (for itself and for a departmental agency hosted by it or an interdepartmental executive board serviced by it) or interdepartmental venture or Minister of the Crown or organisation or of a local authority:
   (h) that the request is frivolous or vexatious or that the information requested is trivial.
 
 ### 18A Requests involving substantial collation or research
-(1) In deciding whether to refuse a request under section 18(f), the department, Minister of the Crown, or organisation must consider whether doing either or both of the following would enable the request to be granted:
+(1) In deciding whether to refuse a request under section 18(f), the department or interdepartmental venture, Minister of the Crown, or organisation must consider whether doing either or both of the following would enable the request to be granted:
   (a) fixing a charge under section 15:
   (b) extending the time limit under section 15A.
-(2) For the purposes of refusing a request under section 18(f), the department, Minister of the Crown, or organisation may treat as a single request 2 or more requests from the same person—
+(2) For the purposes of refusing a request under section 18(f), the department or venture, Minister of the Crown, or organisation may treat as a single request 2 or more requests from the same person—
   (a) that are about the same subject matter or about similar subject matters; and
   (b) that are received simultaneously or in short succession.
 
 ### 18B Duty to consider consulting person if request likely to be refused under section 18(e) or (f)
-If a request is likely to be refused under section 18(e) or (f), the department, Minister of the Crown, or organisation must, before that request is refused, consider whether consulting with the person who made the request would assist that person to make the request in a form that would remove the reason for the refusal.
+If a request is likely to be refused under section 18(e) or (f), the department or interdepartmental venture, Minister of the Crown, or organisation must, before that request is refused, consider whether consulting with the person who made the request would assist that person to make the request in a form that would remove the reason for the refusal.
 
 ### 19 Reason for refusal to be given
-Where a request made in accordance with section 12 is refused, the department or Minister of the Crown or organisation, shall,—
+Where a request made in accordance with section 12 is refused, the department or interdepartmental venture or Minister of the Crown or organisation, shall,—
   (a) subject to section 10, give to the applicant—
     (i) the reason for its refusal; and
     (ii) if the applicant so requests, the grounds in support of that reason, unless the giving of those grounds would itself prejudice the interests protected by section 6 or section 7 or section 9 and (in the case of the interests protected by section 9) there is no countervailing public interest; and
@@ -312,15 +313,15 @@ Where a request made in accordance with section 12 is refused, the department or
 
 ## Part 3 — Publication of, and access to, certain documents and information
 
-### 20 Publication setting out functions of departments and organisations
-(1) The Ministry of Justice shall cause to be published, not later than the end of the year 1989, a publication that includes in respect of each department and each organisation,—
+### 20 Publication setting out functions of public service agencies and organisations
+(1) The Ministry of Justice shall cause to be published, not later than the end of the year 1989, a publication that includes in respect of each public service agency and each organisation,—
   (a) a description of its structure, functions, and responsibilities including those of any of its statutory officers or advisory committees; and
   (b) a general description of the categories of documents held by it; and
   (c) a description of all manuals, and similar types of documents which contain policies, principles, rules, or guidelines in accordance with which decisions or recommendations are made in respect of any person or body of persons in his or her or its personal capacity; and
-  (d) a statement of any information that needs to be available to members of the public who wish to obtain official information from the department or organisation, which statement shall include particulars of the officer or officers to whom requests for official information or particular classes of information should be sent.
+  (d) a statement of any information that needs to be available to members of the public who wish to obtain official information from the public service agency or organisation, which statement shall include particulars of the officer or officers to whom requests for official information or particular classes of information should be sent.
 (2) The Ministry of Justice shall, at intervals of not more than 2 years, bring the material contained in the publication published under subsection (1) up to date either by publishing a new edition of that publication or by publishing supplementary material.
 (2A) In complying with subsection (2), the Ministry of Justice may publish a new edition or supplementary material on an Internet website and in an electronic form that is publicly accessible (at all reasonable times), so long as the Ministry also publishes that edition or material in any other manner and form that is necessary in the light of the need specified in subsection (4).
-(3) Each department and each organisation shall assist the Ministry of Justice to comply with subsections (1) and (2) and shall supply to the Ministry of Justice such information as it requires for the purposes of those subsections.
+(3) Each public service agency and each organisation shall assist the Ministry of Justice to comply with subsections (1) and (2) and shall supply to the Ministry of Justice such information as it requires for the purposes of those subsections.
 (4) In complying with subsections (1) and (2), the Ministry of Justice shall have regard, among other things, to the need to assist members of the public to obtain official information and to effectively exercise their rights under this Act.
 (5) Where there is good reason under section 6 or section 7 or section 9(2)﻿(b) for withholding official information, nothing in this section requires the publication of that official information.
 
@@ -336,7 +337,7 @@ Where a request made in accordance with section 12 is refused, the department or
 
 ### 22 Right of access to internal rules affecting decisions
 (1) On a request made under this section, a person has a right to, and must be given access to, any document (including a manual) that—
-  (a) is held by a department, a Minister of the Crown, or an organisation; and
+  (a) is held by a public service agency, a Minister of the Crown, or an organisation; and
   (b) contains policies, principles, rules, or guidelines in accordance with which decisions or recommendations are made in respect of any person or body of persons in their personal capacity.
 (1A) Subsection (1) is subject to—
   (a) subsection (2):
@@ -352,10 +353,10 @@ Where a request made in accordance with section 12 is refused, the department or
   (d) a body corporate which is incorporated in New Zealand; or
   (e) a body corporate which is incorporated outside New Zealand but which has a place of business in New Zealand.
 (3) Sections 12(2) and (3), 13 to 15A, and 19 shall apply, with all necessary modifications, to a request made under subsection (1).
-(4) If there is good reason under subsection (1A)﻿(c), (d), or (e) for withholding some of the information contained in a document referred to in subsection (1), the department, Minister of the Crown, or organisation must, unless it is impracticable to do so,—
+(4) If there is good reason under subsection (1A)﻿(c), (d), or (e) for withholding some of the information contained in a document referred to in subsection (1), the department (for itself and for a departmental agency hosted by it or an interdepartmental executive board serviced by it) or the interdepartmental venture, Minister of the Crown, or organisation must, unless it is impracticable to do so,—
   (a) make a copy of that document available with any deletions or alterations that are necessary; or
   (b) provide another document stating the substance and effect of the document except as it relates to the information withheld.
-(5) Where a document is made available under subsection (4), the department or Minister of the Crown or organisation shall, subject to section 10, give to the applicant—
+(5) Where a document is made available under subsection (4), the department or venture or Minister of the Crown or organisation shall, subject to section 10, give to the applicant—
   (a) the reason for withholding the information; and
   (b) if the applicant so requests, the grounds in support of that reason, unless the giving of those grounds would itself prejudice the interests protected by section 6(a) to (d) or section 7 or section 9(2)﻿(a) or (b) or (ba) or (i) or (j) and (in the case of the interests protected by section 9(2)﻿(a) or (b) or (ba) or (i) or (j)) there is no countervailing public interest.
 (6) Nothing in this section authorises or permits Public Trust or the Maori Trust Office to make available any information that is contained in a document to which subsection (1) relates but that relates to the making of decisions or recommendations by Public Trust or the Maori Trustee—
@@ -363,7 +364,7 @@ Where a request made in accordance with section 12 is refused, the department or
   (b) in any other fiduciary capacity.
 
 ### 23 Right of access by person to reasons for decisions affecting that person
-(1) Subject to section 6(a) to (d), section 7, section 9(2)﻿(b), and section 10 and to subsections (2), (4), and (5), where a department or Minister of the Crown or organisation makes, on or after 1 July 1983, a decision or recommendation in respect of any person, being a decision or recommendation in respect of that person in his or its personal capacity, that person has the right to and shall, on request made within a reasonable time of the making of the decision or recommendation, be given a written statement of—
+(1) Subject to section 6(a) to (d), section 7, section 9(2)﻿(b), and section 10 and to subsections (2), (4), and (5), where a public service agency or Minister of the Crown or organisation makes, on or after 1 July 1983, a decision or recommendation in respect of any person, being a decision or recommendation in respect of that person in his or its personal capacity, that person has the right to and shall, on request made within a reasonable time of the making of the decision or recommendation, be given a written statement of—
   (a) the findings on material issues of fact; and
   (b) subject to subsection (2A), a reference to the information on which the findings were based; and
   (c) the reasons for the decision or recommendation.
@@ -377,7 +378,7 @@ Where a request made in accordance with section 12 is refused, the department or
   (a) the disclosure of the information or of information identifying the person who supplied it, being evaluative material, would breach an express or implied promise—
     (i) which was made to the person who supplied the information; and
     (ii) which was to the effect that the information or the identity of the person who supplied it or both would be held in confidence; or
-  (b) after consultation undertaken (where practicable) by or on behalf of the department or Minister of the Crown or organisation with a natural person's medical practitioner, the department or Minister of the Crown or organisation is satisfied that—
+  (b) after consultation undertaken (where practicable) by or on behalf of the public service agency or Minister of the Crown or organisation with a natural person’s medical practitioner, the department (for itself and for a departmental agency hosted by it or an interdepartmental executive board serviced by it) or interdepartmental venture or Minister of the Crown or organisation is satisfied that—
     (i) the information relates to that person; and
     (ii) the disclosure of the information (being information that relates to the physical or mental health of the person making the request under this section) would be likely to prejudice the physical or mental health of that person; or
   (c) in the case of a natural person under the age of 16, the disclosure of that information would be contrary to that person's interests; or
@@ -408,7 +409,7 @@ Where a request made in accordance with section 12 is refused, the department or
   (b) a body corporate which is incorporated outside New Zealand but which has a place of business in New Zealand.
 (3) Sections 12(3), 13 to 17, and 19 shall apply, with all necessary modifications, to a request made under subsection (1).
 (3A) Where any person is given access to personal information under this section, that person shall be advised of that person's right, under section 26, to request the correction of that information.
-(4) Nothing in this section requires, or imposes any responsibility on, any department or Minister of the Crown or organisation to compile files or data banks of personal information.
+(4) Nothing in this section requires, or imposes any responsibility on, any public service agency or Minister of the Crown or organisation to compile files or data banks of personal information.
 (5) Nothing in this section gives any person the right to be given access to any personal information about the person that is held by Public Trust or the Maori Trustee—
   (a) in their capacity as trustee within the meaning of the Trustee Act 1956; or
   (b) in any other fiduciary capacity.
@@ -417,7 +418,7 @@ Where a request made in accordance with section 12 is refused, the department or
 [Repealed]
 
 ### 25 Precautions
-Where a request is made under section 24(1), the department or Minister of the Crown or organisation—
+Where a request is made under section 24(1), the department (for itself and for a departmental agency hosted by it or an interdepartmental executive board serviced by it) or interdepartmental venture or Minister of the Crown or organisation—
   (a) shall not give access to that information unless it or he is satisfied concerning the identity of the person making the request; and
   (b) shall ensure, by the adoption of appropriate procedures, that any information intended for a person is received—
     (i) only by that person; or
@@ -425,15 +426,15 @@ Where a request is made under section 24(1), the department or Minister of the C
   (c) shall ensure that, where the request is made by an agent of the person, the agent has the written authority of that person to obtain the information or is otherwise properly authorised by that person to obtain the information.
 
 ### 26 Correction of information
-(1) Every person who is given access under section 24(1) to personal information may, by letter addressed to the department or Minister of the Crown or organisation,—
+(1) Every person who is given access under section 24(1) to personal information may, by letter addressed to the department (for itself and for a departmental agency hosted by it or an interdepartmental executive board serviced by it) or interdepartmental venture or Minister of the Crown or organisation,—
   (a) request correction of the personal information where the person believes that the information—
     (i) is inaccurate; or
     (ii) is incomplete and gives a misleading impression; and
   (b) require that a notation be attached to the information indicating the nature of any correction requested but not made.
-(2) Where a department or Minister of the Crown or organisation receives a letter pursuant to subsection (1), it or he shall inform the person by whom or by which the letter was sent of the action taken by the department or Minister of the Crown or organisation as a result of the letter.
+(2) Where a department venture or Minister of the Crown or organisation receives a letter pursuant to subsection (1), it or he shall inform the person by whom or by which the letter was sent of the action taken by the department venture or Minister of the Crown or organisation as a result of the letter.
 
 ### 27 Reasons for refusal of requests for personal information
-(1) A department or Minister of the Crown or organisation may refuse to disclose any personal information requested under section 24(1) if, and only if,—
+(1) A department (for itself and for a departmental agency hosted by it or an interdepartmental executive board serviced by it) or interdepartmental venture or Minister of the Crown or organisation may refuse to disclose any personal information requested under section 24(1) if, and only if,—
   (a) the disclosure of the information would be likely to prejudice any of the interests protected by section 6(a) to (d) or section 7 or section 9(2)﻿(b) and (in the case of the interests protected by section 9(2)﻿(b)) there is no countervailing public interest; or
   (b) the disclosure of the information would involve the unwarranted disclosure of the affairs of another person or of a deceased person; or
   (c) the disclosure of the information or of information identifying the person who supplied it, being evaluative material, would breach an express or implied promise—
@@ -455,37 +456,37 @@ Where a request is made under section 24(1), the department or Minister of the C
 **Decisions under Part 2 and section 10**
 
 ### 28 Functions of Ombudsmen
-(1) It shall be a function of the Ombudsmen to investigate and review any decision by which a department or Minister of the Crown or organisation—
+(1) It is a function of the Ombudsmen to investigate and review any decision by which a department (for itself and for a departmental agency hosted by it or an interdepartmental executive board serviced by it) or interdepartmental venture or Minister of the Crown or organisation—
   (a) refuses to make official information available to any person in response to a request made by that person in accordance with section 12; or
-  (b) decides, in accordance with section 16 or section 17, in what manner or, in accordance with section 15, for what charge a request made in accordance with section 12 is to be granted; or
+  (b) decides, in accordance with section 16 or 17, in what manner or, in accordance with section 15, for what charge a request made in accordance with section 12 is to be granted; or
   (c) imposes conditions on the use, communication, or publication of information made available pursuant to a request made in accordance with section 12; or
   (d) gives a notice under section 10.
-(2) It shall be a function of the Ombudsmen to investigate and review any decision by which the chief executive of a department or an officer or an employee of a department authorised by its chief executive or a Minister of the Crown or an organisation extends any time limit under section 15A.
+(2) It is a function of the Ombudsmen to investigate and review any decision by which the chief executive of a department (for the department and for a departmental agency hosted by it or an interdepartmental executive board serviced by it) or the board of an interdepartmental venture or an officer or an employee of a department or venture authorised by its chief executive or board or a Minister of the Crown or an organisation extends any time limit under section 15A.
 (3) An investigation and review under subsection (1) or subsection (2) may be made by an Ombudsman only on complaint being made to an Ombudsman in writing or orally.
 (3A) A complaint made orally must be put in writing as soon as practicable.
-(4) For the purposes of subsection (1)﻿(a), a refusal to make official information available includes, without limitation, a failure by a department or Minister of the Crown or organisation to comply with section 15(1)—
+(4) For the purposes of subsection (1)﻿(a), a refusal to make official information available includes, without limitation, a failure by a department or venture or Minister of the Crown or organisation to comply with section 15(1)—
   (a) as soon as is reasonably practicable, or at the latest within 20 working days, after receiving a request; or
   (b) within an extended time limit notified under section 15A(3) to the person who requested the information.
 (5) Undue delay in making official information available in response to a request for that information, shall be deemed, for the purposes of subsection (1), to be a refusal to make that information available.
-(6) If an Ombudsman receives a complaint that a department or Minister of the Crown or organisation has refused to make official information available for any of the reasons specified in section 18(e) to (g), the Ombudsman may notify the Chief Archivist appointed under the Public Records Act 2005.
+(6) If an Ombudsman receives a complaint that a department or venture or Minister of the Crown or organisation has refused to make official information available for any of the reasons specified in section 18(e) to (g), the Ombudsman may notify the Chief Archivist appointed under the Public Records Act 2005.
 
 ### 29 Application of Ombudsmen Act 1975
 (1) Except as otherwise provided by this Act, the provisions of the Ombudsmen Act 1975 shall apply in respect of investigations and other proceedings carried out under this Part in respect of decisions under Part 2 or section 10 as if they were investigations carried out under the Ombudsmen Act 1975.
 (2) Nothing in sections 13, 14, and 25 of the Ombudsmen Act 1975 shall apply in relation to any function or power conferred on an Ombudsman by this Act or in relation to any proceeding, decision, recommendation, or act of an Ombudsman under this Act.
 
 ### 29A Requirements of Ombudsman to be complied with within certain period
-(1) Subject to this section, where, during the course of an investigation, under section 28, of any decision of any department or Minister of the Crown or organisation, an Ombudsman, pursuant to any power conferred on that Ombudsman by section 19 of the Ombudsmen Act 1975, requires that department or Minister of the Crown or organisation to furnish or produce to that Ombudsman any information or document or paper or thing which relates to that investigation, that department, Minister of the Crown, or organisation shall, as soon as reasonably practicable, and in no case later than 20 working days after the day on which that requirement is received by that department or Minister of the Crown or organisation, comply with that requirement.
-(2) Where any requirement to which subsection (1) applies is made to any department or Minister of the Crown or organisation, the chief executive of that department or an officer or employee of that department authorised by that chief executive or that Minister of the Crown or that organisation may extend the time limit set out in subsection (1) in respect of that requirement if—
-  (a) the requirement relates to, or necessitates a search through, a large quantity of information or a large number of documents or papers or things, and meeting the original time limit would unreasonably interfere with the operations of the department or the Minister of the Crown or the organisation; or
+(1) Subject to this section, where, during the course of an investigation, under section 28, of any decision of any department or interdepartmental venture or Minister of the Crown or organisation, an Ombudsman, pursuant to any power conferred on that Ombudsman by section 19 of the Ombudsmen Act 1975, requires that department or venture or Minister of the Crown or organisation to furnish or produce to that Ombudsman any information or document or paper or thing that relates to that investigation, that department, venture, Minister of the Crown, or organisation must, as soon as is reasonably practicable, and in no case later than 20 working days after the day on which that requirement is received by that department or venture or Minister of the Crown or organisation, comply with that requirement.
+(2) Where any requirement to which subsection (1) applies is made to any department or interdepartmental venture or Minister of the Crown or organisation, the chief executive of that department or the board of that venture or an officer or employee of that department or venture authorised by that chief executive or that board or that Minister of the Crown or that organisation may extend the time limit set out in subsection (1) in respect of that requirement if—
+  (a) the requirement relates to, or necessitates a search through, a large quantity of information or a large number of documents or papers or things, and meeting the original time limit would unreasonably interfere with the operations of the department or the venture or the Minister of the Crown or the organisation; or
   (b) consultations necessary before the requirement can be complied with are such that the requirement cannot reasonably be complied with within the original time limit; or
-  (c) the complexity of the issues raised by the requirement are such that that requirement cannot reasonably be complied with within the original time limit.
+  (c) the complexity of the issues raised by the requirement are such that the requirement cannot reasonably be complied with within the original time limit.
 (3) Any extension under subsection (2) shall be for a reasonable period of time having regard to the circumstances.
 (4) The extension shall be effected by giving or posting notice of the extension to the Ombudsman within 20 working days after the day on which the requirement is received.
 (5) The notice effecting the extension shall—
   (a) specify the period of the extension; and
   (b) give the reasons for the extension; and
   (c) contain such other information as is necessary.
-(6) If any department or Minister of the Crown or organisation fails, within the time limit fixed by subsection (1) (or, where that time limit has been extended under subsection (2), within that time limit as so extended) to comply with any requirement to which subsection (1) applies, the Ombudsman may report such failure to the Prime Minister, and may thereafter make such report to the House of Representatives on the matter as the Ombudsman thinks fit.
+(6) If any department or venture or Minister of the Crown or organisation fails, within the time limit fixed by subsection (1) (or, where that time limit has been extended under subsection (2), within that time limit as so extended) to comply with any requirement to which subsection (1) applies, the Ombudsman may report such failure to the Prime Minister, and may thereafter make such report to the House of Representatives on the matter as the Ombudsman thinks fit.
 (7) Notwithstanding anything in this section, an Ombudsman shall not, in any report made under subsection (6), make any comment that is adverse to any person unless the person has first been given an opportunity to be heard.
 
 ### 29B Consultation with Privacy Commissioner
@@ -495,31 +496,31 @@ Where an Ombudsman investigates a complaint made under section 28 in relation to
 (1) Where, after making an investigation of a complaint made under section 28, an Ombudsman is of the opinion—the Ombudsman shall, subject to subsection (3) of this section,—
   (a) that the request made in accordance with section 12 should not have been refused; or
   (b) that the decision complained of is unreasonable or wrong or is otherwise a decision to which subsection (1) or subsection (2) of section 22 of the Ombudsmen Act 1975 applies,—
-  (c) report his opinion and his reasons therefor to the appropriate department or Minister of the Crown or organisation; and
+  (c) report his opinion and his reasons therefor to the appropriate department or interdepartmental venture or Minister of the Crown or organisation; and
   (d) subject to section 31, make such recommendations as he thinks fit; and
   (e) give to the complainant—
     (i) a copy of his recommendations (if any); and
     (ii) such other information as he thinks proper.
 (2) The Ombudsman shall also—
-  (a) in the case of an investigation relating to a department or organisation named in Part 1 or Part 2 of Schedule 1 of the Ombudsmen Act 1975, send a copy of his report and recommendations to the Minister concerned; and
+  (a) in the case of an investigation relating to a public service agency or an organisation named in Schedule 1 of the Ombudsmen Act 1975, send a copy of his report and recommendations to the Minister concerned; and
   (b) in the case of an organisation named in Schedule 1, send a copy of his report and recommendations to such Minister of the Crown as he considers appropriate.
 (3) Notwithstanding anything in this section, an Ombudsman shall not, in any report made under this section, make any comment that is adverse to any person unless the person has been given an opportunity to be heard.
 (4) Except as provided in subsection (1), nothing in section 22 of the Ombudsmen Act 1975 shall apply in respect of a decision that may be investigated and reviewed under section 28(1) or section 28(2) of this Act.
 
 ### 31 Disclosure of certain information not to be recommended
-Where—an Ombudsman shall not recommend that the information be made available, but may recommend that the making available of the information be given further consideration by the appropriate department or Minister of the Crown or organisation.
+Where—an Ombudsman shall not recommend that the information be made available, but may recommend that the making available of the information be given further consideration by the appropriate department or interdepartmental venture or Minister of the Crown or organisation.
   (a) the Prime Minister certifies that the making available of any information would be likely to prejudice—
     (i) the security or defence of New Zealand or the international relations of the Government of New Zealand; or
     (ii) any interest protected by section 7; or
   (b) the Attorney-General certifies that the making available of any information would be likely to prejudice the prevention, investigation, or detection of offences—
 
-### 32 Recommendations made to department or Minister of the Crown or organisation
-(1) Where a recommendation is made under section 30(1) to a department or to an organisation named in Part 1 or Part 2 of Schedule 1 of the Ombudsmen Act 1975,—
-  (a) a public duty to observe that recommendation shall be imposed on that department or organisation from the commencement of the 21st working day after the day on which that recommendation is made to the department or organisation unless, before that day, the Governor-General, by Order in Council, otherwise directs; and
-  (b) the public duty imposed by paragraph (a) shall be imposed not only on the department or organisation itself but also on—
+### 32 Recommendations made to public service agency or Minister of the Crown or organisation
+(1) Where a recommendation is made under section 30(1) relating to a public service agency or an organisation named in Schedule 1 of the Ombudsmen Act 1975,—
+  (a) a public duty to observe that recommendation shall be imposed on that public service agency or organisation from the commencement of the 21st working day after the day on which that recommendation is made to the public service agency or organisation unless, before that day, the Governor-General, by Order in Council, otherwise directs; and
+  (b) the public duty imposed by paragraph (a) shall be imposed not only on the public service agency or organisation itself but also on—
     (i) the members of the organisation; and
-    (ii) every officer and employee of that department or organisation to whom that recommendation is applicable; and
-    (iii) every body within that department or organisation to whom that recommendation is applicable; and
+    (ii) every officer and employee of that public service agency or organisation to whom that recommendation is applicable; and
+    (iii) every body within that public service agency or organisation to whom that recommendation is applicable; and
     (iv) every statutory officer to whom that recommendation is applicable.
 (2) Where a recommendation is made under section 30(1) to a Minister of the Crown, a public duty to observe that recommendation shall be imposed on that Minister from the commencement of the 21st working day after the day on which that recommendation is made to that Minister unless, before that day, the Governor-General, by Order in Council, otherwise directs.
 (3) Where a recommendation is made under section 30(1) to an organisation named in Schedule 1,—
@@ -568,13 +569,13 @@ Where any person makes a request under this Act that official information be mad
     (i) a Minister of the Crown; or
     (ii) an organisation named in Schedule 1; but
   (b) not including a decision made under section 10 in relation to a request made under Part 3 or Part 4.
-(1A) The provisions of section 29A, so far as they are applicable and with the necessary modifications, shall apply in respect of any requirement, made by any Ombudsman in the course of any investigation conducted pursuant to subsection (1), whereby that Ombudsman, pursuant to any power conferred on that Ombudsman by section 19 of the Ombudsmen Act 1975, requires any department or Minister of the Crown or organisation to furnish or produce to that Ombudsman any information or document or paper or thing which relates to that investigation.
-(2) Where the Ombudsman, after making his investigation, forms an opinion of the kind described in subsection (1) or subsection (2) or subsection (3) of section 22 of the Ombudsmen Act 1975, he shall, subject to subsection (6) of this section, report his opinion to the appropriate department or Minister of the Crown or organisation, and may make such recommendations as he thinks fit in accordance with section 22(3) of the Ombudsmen Act 1975.
+(1A) The provisions of section 29A, so far as they are applicable and with the necessary modifications, shall apply in respect of any requirement, made by any Ombudsman in the course of any investigation conducted pursuant to subsection (1), whereby that Ombudsman, pursuant to any power conferred on that Ombudsman by section 19 of the Ombudsmen Act 1975, requires any public service agency or Minister of the Crown or organisation to furnish or produce to that Ombudsman any information or document or paper or thing which relates to that investigation.
+(2) Where the Ombudsman, after making his investigation, forms an opinion of the kind described in subsection (1) or subsection (2) or subsection (3) of section 22 of the Ombudsmen Act 1975, he shall, subject to subsection (6) of this section, report his opinion to the appropriate department (including in relation to a departmental agency hosted by the department or an interdepartmental executive board serviced by it) or interdepartmental venture or Minister of the Crown or organisation, and may make such recommendations as he thinks fit in accordance with section 22(3) of the Ombudsmen Act 1975.
 (3) Where a report is made under subsection (2) to a Minister of the Crown, the Ombudsman shall request the Minister of the Crown to notify the Ombudsman, within a specified time, of the steps (if any) that the Minister proposes to take to give effect to the Ombudsman's recommendations.
-(4) If, within a reasonable time after the report is made under section 22(3) of the Ombudsmen Act 1975 (as applied by subsection (2) of this section), no action is taken which seems to an Ombudsman to be adequate and appropriate, the Ombudsman, in his discretion, after considering the comments (if any) made by or on behalf of any department or Minister of the Crown or organisation affected, may send a copy of the report and recommendations to the Prime Minister, and may thereafter make such report to the House of Representatives on the matter as he thinks fit.
-(5) The Ombudsman shall attach to every report sent or made under subsection (4) a copy of any comments made by or on behalf of the department or Minister of the Crown or organisation affected.
+(4) If, within a reasonable time after the report is made under section 22(3) of the Ombudsmen Act 1975 (as applied by subsection (2) of this section), no action is taken which seems to an Ombudsman to be adequate and appropriate, the Ombudsman, in his discretion, after considering the comments (if any) made by or on behalf of any public service agency or Minister of the Crown or organisation affected, may send a copy of the report and recommendations to the Prime Minister, and may thereafter make such report to the House of Representatives on the matter as he thinks fit.
+(5) The Ombudsman shall attach to every report sent or made under subsection (4) a copy of any comments made by or on behalf of the public service agency or Minister of the Crown or organisation affected.
 (6) Notwithstanding anything in this section, an Ombudsman shall not, in any report made under this section, make any comment that is adverse to any person unless the person has first been given an opportunity to be heard.
-(7) If, in relation to any request for official information made under Part 3 or Part 4, any department or Minister of the Crown or organisation fails within the time limit fixed by section 15(1) (or, where that time limit has been extended under this Act, within that time limit as so extended) to comply with paragraph (a) or paragraph (b) of section 15(1), that failure shall be deemed, for the purposes of subsection (1), to be a decision made under Part 3 or Part 4.
+(7) If, in relation to any request for official information made under Part 3 or Part 4, any department or interdepartmental venture or Minister of the Crown or organisation fails within the time limit fixed by section 15(1) (or, where that time limit has been extended under this Act, within that time limit as so extended) to comply with paragraph (a) or paragraph (b) of section 15(1), that failure shall be deemed, for the purposes of subsection (1), to be a decision made under Part 3 or Part 4.
 (8) Undue delay in giving any person access to official information in response to a request under Part 3 or Part 4 for access to that information shall be deemed, for the purposes of subsection (1), to be a decision made under Part 3 or Part 4.
 
 **Saving**
@@ -614,7 +615,7 @@ Except as expressly provided in this Act, nothing in this Act shall derogate fro
 ## Part 7 — Miscellaneous provisions
 
 ### 46 Assistance of Ministry of Justice
-The Ministry of Justice may, for the purpose of assisting any other department or any organisation to act in accordance with this Act, furnish advice or assistance or both to that other department or that organisation.
+The Ministry of Justice may, for the purpose of assisting any other public service agency or any organisation to act in accordance with this Act, furnish advice or assistance or both to that other public service agency or that organisation.
 
 ### 47 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes—
@@ -627,7 +628,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 ### 48 Protection against certain actions
 (1) Where any official information is made available in good faith pursuant to this Act,—
   (a) no proceedings, civil or criminal, shall lie against the Crown or any other person in respect of the making available of that information, or for any consequences that follow from the making available of that information; and
-  (b) no proceedings, civil or criminal, in respect of any publication involved in, or resulting from, the making available of that information shall lie against the author of the information or any other person by reason of that author or other person having supplied the information to a department or Minister of the Crown or organisation.
+  (b) no proceedings, civil or criminal, in respect of any publication involved in, or resulting from, the making available of that information shall lie against the author of the information or any other person by reason of that author or other person having supplied the information to a public service agency or Minister of the Crown or organisation.
 (2) The making available of, or the giving of access to, any official information in consequence of a request made under this Act shall not be taken, for the purposes of the law relating to defamation or breach of confidence or infringement of copyright, to constitute an authorisation or approval of the publication of the document or of its contents by the person to whom the information is made available or the access is given.
 
 ### 49 Power to amend Schedule 1 by Order in Council
@@ -666,7 +667,7 @@ As from the close of 30 June 1988—
   (f) all liabilities, contracts, and engagements, and all rights and authorities of any nature whatever of the Authority shall become liabilities, contracts, engagements, rights, and authorities of the Crown; and
   (g) all proceedings pending by or against the Authority may be carried on, completed, or enforced by or against the Crown.
 
-## Schedule 1 — Organisations (additional to those named in Part 1 or Part 2 of Schedule 1 of the Ombudsmen Act 1975) to which this Act applies
+## Schedule 1 — Organisations (additional to those named in Schedule 1 of the Ombudsmen Act 1975) to which this Act applies
 
 ## Schedule 2 — Provisions relating to Information Authority
 
