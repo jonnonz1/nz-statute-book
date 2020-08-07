@@ -1,8 +1,8 @@
-# Care and Support Workers (Pay Equity) Settlement Act 2017
-_Consolidation as at 2020-08-01_
+# Support Workers (Pay Equity) Settlements Act 2017
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
-This Act is the Care and Support Workers (Pay Equity) Settlement Act 2017.
+This Act is the Support Workers (Pay Equity) Settlements Act 2017.
 
 ### 2 Commencement
 This Act comes into force on 1 July 2017.
@@ -11,28 +11,31 @@ This Act comes into force on 1 July 2017.
 
 ### 3 Purpose
 (1) The purposes of this Act are—
-  (a) to implement the settlement agreement described in subsection (2); and
-  (b) to apply the terms of that agreement to employers and care and support workers who were not party to the agreement.
-(2) The settlement agreement was signed on 2 May 2017 by or on behalf of the Crown, ACC, the 20 DHBs, E tū Incorporated, the New Zealand Public Service Association Te Pūkenga Here Tikanga Mahi Incorporated, the New Zealand Nurses Organisation Incorporated, and the New Zealand Council of Trade Unions Te Kauae Kaimahi Incorporated. The agreement relates to pay equity issues for care and support workers.
+  (a) to implement the settlement agreements described in subsection (2); and
+  (b) to apply the terms of those agreements to employers and support workers who were not party to the agreements.
+(2) The settlement agreements are—
+  (a) the agreement in respect of care and support workers signed on 2 May 2017 by or on behalf of the Crown, ACC, the 20 DHBs, E tū Incorporated, the New Zealand Public Service Association Te Pūkenga Here Tikanga Mahi Incorporated, the New Zealand Nurses Organisation Incorporated, and the New Zealand Council of Trade Unions Te Kauae Kaimahi Incorporated; and
+  (b) the agreement in respect of vocational and disability support workers signed on 17 July 2017 by or on behalf of the Crown, E tū Incorporated, the New Zealand Public Service Association Te Pūkenga Here Tikanga Mahi Incorporated, and the New Zealand Council of Trade Unions Te Kauae Kaimahi Incorporated; and
+  (c) the agreement in respect of mental health and addiction support workers signed on 25 July 2018 by or on behalf of the Crown, the 20 DHBs, Platform Charitable Trust, E tū Incorporated, the New Zealand Public Service Association Te Pūkenga Here Tikanga Mahi Incorporated, and the New Zealand Council of Trade Unions Te Kauae Kaimahi Incorporated.
 
 ### 4 Overview
 To achieve its purposes, this Act—
-  (a) extinguishes existing claims and bars future claims by care and support workers under the Equal Pay Act 1972; and
-  (b) specifies minimum hourly wage rates payable by employers to care and support workers for work performed during the period starting on 1 July 2017 and ending on 30 June 2022; and
-  (c) requires employers to provide support for care and support workers to attain qualifications; and
-  (d) provides for the Ministry of Health, DHBs, and ACC to pay additional funding to employers towards the cost of employers’ obligations under this Act.
+  (a) extinguishes existing claims and bars future claims by support workers under the Equal Pay Act 1972; and
+  (b) specifies minimum hourly wage rates payable by employers to support workers for work performed during the period starting on 1 July 2017 and ending on 30 June 2022; and
+  (c) requires employers to provide support for support workers to attain qualifications; and
+  (d) provides for the funders to pay additional funding to employers towards the cost of employers’ obligations under this Act.
 
 ### 5 Interpretation
 In this Act, unless the context otherwise requires,—
   - **ACC** means the Accident Compensation Corporation continued by section 259 of the Accident Compensation Act 2001
-  - **care and support services—**
+  - **care and support services** —
     (a) means—
-      (i) services funded under a funding agreement that are performed in a person’s home (including residential care facilities, retirement villages, and rest homes) or workplace for the purpose of—
+      (i) services that are funded by the Ministry of Health, a DHB, or ACC under a funding agreement that are performed in a person’s home (including residential care facilities, retirement villages, and rest homes) or workplace for the purpose of—
         (A) assisting the person to continue to live in the person’s home or in the community (such as personal care and household management services); or
         (B) assisting a person who has a disability to work in the community; or
-        (C) supporting the person’s rehabilitation from an injury covered by the Accident Compensation Act 2001 and to achieve and sustain the person’s maximum level of participation in everyday life; and
+        (C) in respect of a person with an injury covered by the Accident Compensation Act 2001, supporting the person’s rehabilitation from the injury or supporting them to achieve and sustain their maximum level of participation in everyday life; and
       (ii) long-term residential care in a hospital or a rest home that is assessed as required under section 137 of the Social Security Act 1964 or sections 27 to 29 of the Residential Care and Disability Support Services Act 2018; but
-    (b) does not include mental health services
+    (b) does not include mental health and addiction support services, vocational and disability support services, or services provided by a health practitioner
   - **care and support worker** —
     (a) means a person—
       (i) who is an employee of an employer; and
@@ -40,7 +43,7 @@ In this Act, unless the context otherwise requires,—
     (b) for the purposes of section 8, includes a person—
       (i) who was previously an employee of an employer; and
       (ii) whose work for that employer primarily involved providing care and support services
-  - **continuous employment** , in relation to a care and support worker,—
+  - **continuous employment** , in relation to a support worker,—
     (a) includes any period during which the worker is—
       (i) on paid holidays or leave under the Holidays Act 2003; or
       (ii) on parental leave under the Parental Leave and Employment Protection Act 1987; or
@@ -52,22 +55,24 @@ In this Act, unless the context otherwise requires,—
         (A) the worker transferred from the previous employer to the current employer; and
         (B) the transfer was a result of restructuring (within the meaning of that term in section 69B of the Employment Relations Act 2000); but
     (b) unless otherwise agreed between the worker and the worker’s employer, does not include unpaid leave that is not referred to in paragraph (a)﻿(v) or (vi)
+  - **Department of Corrections** means the department of the public service referred to by that name
   - **DHB** means an organisation established as a DHB (District Health Board) by or under section 19 of the New Zealand Public Health and Disability Act 2000
   - **employee** means a person who is an employee within the meaning of that term in section 6(1)﻿(a) or (b)﻿(i) of the Employment Relations Act 2000
   - **employer** —
     (a) means—
-      (i) a person, trust, or partnership that receives funding from the Ministry of Health, ACC, or a DHB to provide care and support services; and
+      (i) a person, trust, or partnership that receives funding from a funder to provide support services; and
       (ii) the person or persons who have the legal authority to make decisions on behalf of an employer to which subparagraph (i) applies, if the employer does not itself have separate legal personality; and
-      (iii) a person, trust, or partnership that provides care and support services on behalf of an employer to which subparagraph (i) applies as a subsidiary or a subcontractor; and
+      (iii) a person, trust, or partnership that provides support services on behalf of an employer to which subparagraph (i) applies as a subsidiary or a subcontractor; and
       (iv) Canterbury DHB, Hutt DHB, Nelson Marlborough DHB, Waikato DHB, Wairarapa DHB, and West Coast DHB (each established by section 19 of the New Zealand Public Health and Disability Act 2000); but
     (b) does not include a natural person who receives funding directly from the Ministry of Health, ACC, or a DHB towards the cost of care and support services for the person or a family member of the person (for example, under a family care policy within the meaning of that term in section 70B of the New Zealand Public Health and Disability Act 2000)
-  - **funder** means the Ministry of Health, a DHB, or ACC
+  - **funder** means the Department of Corrections, the Ministry of Health, the Ministry of Social Development, Oranga Tamariki—Ministry for Children, a DHB, or ACC
   - **funding agreement** means,—
-    (a) in relation to funding agreements to which the Ministry of Health or a DHB is a party, an agreement between a funder and an employer for the employer to provide care and support services in exchange for payments from the funder; and
+    (a) in relation to funding agreements to which a funder other than ACC is a party, an agreement between the funder and an employer for the employer to provide support services in exchange for payments from the funder; and
     (b) in relation to funding agreements to which ACC is a party, an agreement between ACC and an employer that is titled—
       (i) Home and Community Support Services; or
       (ii) Individual Residential Support Services; or
       (iii) Residential Support Services
+  - **health practitioner** has the same meaning as in section 5(1) of the Health Practitioners Competence Assurance Act 2003
   - **level 2 qualification** means—
     (a) a level 2 New Zealand Certificate in Health and Wellbeing issued by NZQA; or
     (b) a qualification (whether from New Zealand or overseas) that is recognised by the relevant workforce development council (as defined in section 10(1) of the Education and Training Act 2020) as being equivalent to the qualification described in paragraph (a)
@@ -77,11 +82,66 @@ In this Act, unless the context otherwise requires,—
   - **level 4 qualification** means—
     (a) a level 4 New Zealand Certificate in Health and Wellbeing issued by NZQA; or
     (b) a qualification (whether from New Zealand or overseas) that is recognised by the relevant workforce development council (as defined in section 10(1) of the Education and Training Act 2020) as being equivalent to the qualification described in paragraph (a)
-  - **Ministry of Health** means the department of the Public Service referred to by that name
+  - **mental health and addiction support services** —
+    (a) means services that are funded under a funding agreement and that are provided to—
+      (i) a person who has a mental health need or an addiction need for the purpose of assisting them to—
+        (A) continue to live in their home or in the community (such as personal care and household management services); or
+        (B) work or volunteer in the community; or
+        (C) participate in activities in, and contribute to, their community; or
+        (D) learn new skills to manage their lives and achieve overall well-being; or
+        (E) maintain and develop social and support networks; or
+      (ii) a person with a mental injury covered by the Accident Compensation Act 2001 for the purpose of—
+        (A) supporting their rehabilitation from the injury; or
+        (B) supporting them to achieve and sustain their maximum level of participation in everyday life; but
+    (b) does not include—
+      (i) care and support services; or
+      (ii) vocational and disability support services; or
+      (iii) services provided by a health practitioner; or
+      (iv) services provided at a location other than the following:
+        (A) the person’s home (including a residential care facility, a retirement village, and a rest home):
+        (B) the person’s workplace:
+        (C) an employer facility:
+        (D) a community facility
+  - **mental health and addiction support worker** —
+    (a) means a person—
+      (i) who is an employee of an employer; and
+      (ii) whose work for that employer primarily involves providing support services; and
+      (iii) who, of the support services that the person provides, primarily provides mental health and addiction support services; and
+    (b) for the purposes of Part 2 of Schedule 1, includes a person—
+      (i) who was previously an employee of an employer; and
+      (ii) whose work for that employer primarily involved providing support services; and
+      (iii) who, of the support services that the person provided, primarily provided mental health and addiction support services
+  - **Ministry of Health** means the department of the public service referred to by that name
+  - **Ministry of Social Development** means the department of the public service referred to by that name
   - **NZQA** means the New Zealand Qualifications Authority continued by section 430 of the Education and Training Act 2020
-  - **ordinary hourly wage** , in relation to a care and support worker,—
+  - **Oranga Tamariki—Ministry for Children** means the department of the public service referred to by that name
+  - **ordinary hourly wage** , in relation to a support worker,—
     (a) means the worker’s wage for an hour’s work in the worker’s substantive position; and
     (b) does not include any other amounts paid, including an amount paid for working overtime, for working at night or on a weekend, or for acting in a position for which there is a higher hourly wage.
+  - **relevant date** ,—
+    (a) in relation to a care and support worker, means 1 July 2017; and
+    (b) in relation to all other support workers, means the date on which the Support Workers (Pay Equity) Settlements Amendment Act 2020 comes into force
+  - **support services** means care and support services, mental health and addiction support services, or vocational and disability support services
+  - **support worker** —
+    (a) means an employee of an employer whose work for that employer primarily involves providing support services; and
+    (b) for the purposes of section 8 and Part 2 of Schedule 1, includes a person who was previously an employee of an employer and whose work for that employer primarily involved providing support services
+  - **vocational and disability support services** —
+    (a) means services that are funded by the Ministry of Social Development or Oranga Tamariki—Ministry for Children under a funding agreement that are provided to a person with a disability for the purposes of assisting them to—
+      (i) continue to live in their home or in the community (such as personal care and household management services); or
+      (ii) work or volunteer in the community; or
+      (iii) participate in activities in, and contribute to, their community; or
+      (iv) learn new skills to manage their lives and achieve overall well-being; or
+      (v) maintain and develop social and support networks; but
+    (b) does not include care and support services, mental health and addiction support services, or services provided by a health practitioner
+  - **vocational and disability support worker** —
+    (a) means a person—
+      (i) who is an employee of an employer; and
+      (ii) whose work for that employer primarily involves providing support services; and
+      (iii) who, of the support services that the person provides, primarily provides vocational and disability support services; and
+    (b) for the purposes of Part 2 of Schedule 1, includes a person—
+      (i) who was previously an employee of an employer; and
+      (ii) whose work for that employer primarily involved providing support services; and
+      (iii) who, of the support services that the person provided, primarily provided vocational and disability support services.
 
 ### 6 Transitional, savings, and related provisions
 The transitional, savings, and related provisions (if any) set out in Schedule 1 have effect according to their terms.
@@ -89,25 +149,25 @@ The transitional, savings, and related provisions (if any) set out in Schedule 1
 ### 7 Act binds the Crown
 This Act binds the Crown.
 
-## Part 2 — Care and support worker entitlements and employer obligations
+## Part 2 — Support entitlements and employer obligations
 
-**Extinguishing and barring claims under Equal Pay Act 1972 by care and support workers**
+**Extinguishing and barring claims under Equal Pay Act 1972 by support workers**
 
 ### 8 Existing claims extinguished and potential claims barred
 (1) This section applies to—
-  (a) any claim by or on behalf of a care and support worker under the Equal Pay Act 1972 relating to the provision of care and support services that was lodged but not determined before the commencement of this Act; and
-  (b) any potential claim by or on behalf of a care and support worker under the Equal Pay Act 1972 relating to the provision of care and support services during the period starting on 1 July 2011 and ending on 30 June 2022 (or any part of that period).
+  (a) any claim by or on behalf of a support worker under the Equal Pay Act 1972 relating to the provision of support services that was lodged but not determined before the relevant date; and
+  (b) any potential claim by or on behalf of a support worker under the Equal Pay Act 1972 relating to the provision of support services during the period starting on 1 July 2011 and ending on 30 June 2022 (or any part of that period).
 (2) The claim or potential claim cannot be pursued and must be treated as if it had been withdrawn or is incapable of being lodged.
 (3) To avoid doubt, this section does not affect—
-  (a) any claim or potential claim under the Equal Pay Act 1972 relating to the provision of care and support services after 30 June 2022; or
-  (b) any claim or potential claim under the Equal Pay Act 1972 that does not relate to the provision of care and support services.
+  (a) any claim or potential claim under the Equal Pay Act 1972 relating to the provision of support services after 30 June 2022; or
+  (b) any claim or potential claim under the Equal Pay Act 1972 that does not relate to the provision of support services.
 
 **Wage rates**
 
 ### 9 Minimum hourly wage rates
-(1) An employer must pay a care and support worker no less than the greater of—
+(1) An employer must pay a support worker no less than the greater of—
   (a) the applicable hourly wage set out in Schedule 2; and
-  (b) the ordinary hourly wage that the employer was required to pay the worker under the terms and conditions of employment in place between the employer and the worker immediately before the commencement of this Act.
+  (b) the ordinary hourly wage that the employer was required to pay the worker under the terms and conditions of employment in place between the employer and the worker immediately before the relevant date.
 (2) This section does not apply in respect of—
   (a) time spent by the worker in providing excluded services; or
   (b) time spent by the worker in travel between clients within the meaning of that term in section 4 of the Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016; or
@@ -117,33 +177,44 @@ This Act binds the Crown.
     (iii) required to be available to attend to the worker’s duties during the course of the night as necessary.
 (3) In this section,—
   - **excluded services** means—
-    (a) mental health services; and
-    (b) services for which the employer receives funding from a funder other than funding under a funding agreement or under section 18; and
-    (c) services for which the employer receives funding from the Ministry of Social Development or the Ministry for Vulnerable Children, Oranga Tamariki
-  - **Ministry for Vulnerable Children, Oranga Tamariki** means the department of the Public Service referred to by that name
-  - **Ministry of Social Development** means the department of the Public Service referred to by that name
+    (a)
+    (b) services for which the employer receives funding from a funder other than funding under a funding agreement or under section 18
+    (c)
   - **workplace** has the same meaning as in section 5 of the Employment Relations Act 2000.
+
+### 9A Minimum hourly wage rates for mental health and addiction support services provided to individual clients
+(1) This section applies to a person (an individually funded client) who—
+  (a) receives funding directly from a funder towards the cost of mental health and addiction support services for that person; and
+  (b) employs a person (a worker) to provide the services.
+(2) The individually funded client must pay the worker, for the provision of the services, no less than the greater of—
+  (a) the applicable hourly wage set out in Schedule 2; and
+  (b) the ordinary hourly wage that the client was required to pay the worker under the terms and conditions of employment in place between the client and the worker immediately before the commencement of the Support Workers (Pay Equity) Settlements Amendment Act 2020.
+(3) This section does not apply if the funding received by the individually funded client is paid under a family care policy within the meaning of that term in section 70B(1) of the New Zealand Public Health and Disability Act 2000.
+(4) This section does not apply in respect of a period of time spent by a worker overnight during which the worker, under the terms of the worker’s employment agreement, is—
+  (a) required to be at the worker’s workplace; and
+  (b) allowed to sleep at the workplace while on duty; and
+  (c) required to be available to attend to the worker’s duties during the course of the night as necessary.
 
 ### 10 Weekend and night penal rates
 (1) This section applies to a term or condition of an employment agreement that—
-  (a) was agreed before the commencement of this Act; and
-  (b) requires an employer to pay a care and support worker an allowance, based on the worker’s hourly wage, for working on a Saturday or a Sunday, or after 5 pm on any day.
-(2) For work to which section 9 applies performed on or after the commencement of this Act, the term or condition must be read as requiring the employer to pay the allowance at the same dollar value, per hour, as would be required to be paid based on the worker’s ordinary hourly wage immediately before the commencement of this Act.ExampleBefore the commencement of this Act, Alice is a care and support worker whose employment agreement provides that her wage is $18 an hour and that she will be paid an extra 50% of her hourly wage for work she performs on a Sunday (an additional $9 an hour).On and from the commencement of this Act, Alice’s wage is $21 an hour. Alice’s employer must pay Alice an allowance of $9 an hour for work she performs on a Sunday. This is the same dollar value as the allowance Alice was entitled to before the commencement of this Act, rather than 50% of Alice’s new hourly wage rate.
+  (a) was agreed before the relevant date; and
+  (b) requires an employer to pay a support worker an allowance, based on the worker’s hourly wage, for working on a Saturday or a Sunday, or after 5 pm on any day.
+(2) For work to which section 9 applies performed on or after the relevant date, the term or condition must be read as requiring the employer to pay the allowance at the same dollar value, per hour, as would be required to be paid based on the worker’s ordinary hourly wage immediately before the relevant date.ExampleBefore the relevant date, Alice is a care and support worker whose employment agreement provides that her wage is $18 an hour and that she will be paid an extra 50% of her hourly wage for work she performs on a Sunday (an additional $9 an hour).On and from the relevant date, Alice’s wage is $21 an hour. Alice’s employer must pay Alice an allowance of $9 an hour for work she performs on a Sunday. This is the same dollar value as the allowance Alice was entitled to before the relevant date, rather than 50% of Alice’s new hourly wage rate.
 
 ### 11 Previous agreements that require allowances for service or qualifications unenforceable
 (1) This section applies to a term or condition of an employment agreement that—
-  (a) was agreed before the commencement of this Act; and
-  (b) requires an employer to pay a care and support worker an allowance to recognise the worker’s length of service or level of qualifications.
+  (a) was agreed before the relevant date; and
+  (b) requires an employer to pay a support worker an allowance to recognise the worker’s length of service or level of qualifications.
 (2) To the extent that the term or condition applies to work to which section 9 applies, the term or condition has no effect and is not enforceable.
 
 **Support for training**
 
-### 12 Employers must ensure care and support workers are able to gain qualifications
-(1) An employer must take all reasonably practicable steps to ensure that a care and support worker is able to attain—
+### 12 Employers must ensure support workers are able to gain qualifications
+(1) An employer must take all reasonably practicable steps to ensure that a support worker is able to attain—
   (a) a level 2 qualification within the first 12 months of the worker’s continuous employment with the employer; and
   (b) a level 3 qualification within the first 36 months of the worker’s continuous employment with the employer; and
   (c) a level 4 qualification within the first 72 months of the worker’s continuous employment with the employer.
-(2) If a care and support worker is not able to attain a qualification within the time required by subsection (1), the employer must take all reasonably practicable steps to ensure that the worker is able to attain the qualification as soon as is reasonably practicable.
+(2) If a support worker is not able to attain a qualification within the time required by subsection (1), the employer must take all reasonably practicable steps to ensure that the worker is able to attain the qualification as soon as is reasonably practicable.
 
 **Enforcement**
 
@@ -152,8 +223,8 @@ A dispute about whether an employer is complying, or has complied, with this Act
   (a) is an employment relationship problem within the meaning of that term in section 5 of the Employment Relations Act 2000; and
   (b) must be resolved in accordance with that Act.
 
-### 14 Care and support worker may recover unpaid or underpaid wages
-An employer’s failure to pay a care and support worker an amount required by this Act, either in whole or in part, constitutes payment of wages or other money at a rate lower than that legally payable for the purposes of section 131 of the Employment Relations Act 2000.
+### 14 Support worker may recover unpaid or underpaid wages
+An employer’s failure to pay a support worker an amount required by this Act, either in whole or in part, constitutes payment of wages or other money at a rate lower than that legally payable for the purposes of section 131 of the Employment Relations Act 2000.
 
 ### 15 Failure to comply with training obligations constitutes grounds for personal grievance
 An employer’s failure to comply with section 12 constitutes grounds for a personal grievance under section 103(1)﻿(b) of the Employment Relations Act 2000.
@@ -161,13 +232,13 @@ An employer’s failure to comply with section 12 constitutes grounds for a pers
 **Relationship between this Act and employment agreements**
 
 ### 16 This Act overrides terms and conditions of employment agreements
-(1) An employment agreement that contains a term or condition that excludes, restricts, or reduces a care and support worker’s entitlements under this Act—
-  (a) has no effect to the extent that it does so, regardless of whether the term or condition was agreed before or after the commencement of this Act; but
+(1) An employment agreement that contains a term or condition that excludes, restricts, or reduces a support worker’s entitlements under this Act—
+  (a) has no effect to the extent that it does so, regardless of whether the term or condition was agreed before or after the relevant date; but
   (b) is not an illegal contract under the Illegal Contracts Act 1970 or the Contract and Commercial Law Act 2017.
-(2) Each employment agreement between an employer and a care and support worker that was agreed before the commencement of this Act is deemed to be varied in accordance with sections 9 to 12.
+(2) Each employment agreement between an employer and a support worker that was agreed before the relevant date is deemed to be varied in accordance with sections 9 to 12.
 
-### 17 Employer and care and support worker may negotiate more favourable terms and conditions
-Nothing in this Act prevents an employer and a care and support worker from agreeing to a term or condition in an employment agreement that requires the employer to—
+### 17 Employer and support worker may negotiate more favourable terms and conditions
+Nothing in this Act prevents an employer and a support worker from agreeing to a term or condition in an employment agreement that requires the employer to—
   (a) pay the worker more than is required under this Act; or
   (b) provide more support for the worker to gain a qualification than is required by this Act.
 
@@ -182,15 +253,17 @@ Nothing in this Act prevents an employer and a care and support worker from agre
   (b) the increased training costs faced by the employer as a result of this Act; and
   (c) any other matter that the funder considers appropriate.
 (3) The funder’s determination of the additional amounts is final.
-(4) This section applies only in respect of funding agreements entered into before the commencement of this Act.
+(4) This section applies only in respect of funding agreements entered into before,—
+  (a) in relation to care and support services and vocational and disability support services, 1 July 2017; and
+  (b) in relation to mental health and addiction support services, 1 July 2018.
 
 ### 19 Records to support additional funding
-(1) An employer must keep a record, for each care and support worker employed by the employer, of—
+(1) An employer must keep a record, for each support worker employed by the employer, of—
   (a) the qualifications, if any, held by the worker; and
   (b) the length of time that the worker has been continuously employed by the employer.
 (2) An employer must, on the request of a funder with whom the employer has a funding agreement, provide to the funder—
   (a) the records kept under subsection (1); and
-  (b) the wages and time record kept by the employer for each care and support worker under section 130 of the Employment Relations Act 2000.
+  (b) the wages and time record kept by the employer for each support worker under section 130 of the Employment Relations Act 2000.
 (3) An employer who fails to comply with subsection (1) or (2)﻿(a) is liable to a penalty imposed by the Employment Relations Authority under the Employment Relations Act 2000.
 
 ### Subpart 2 — Consequential amendments and repeal of this Act
@@ -213,20 +286,51 @@ Nothing in this Act prevents an employer and a care and support worker from agre
 
 ### Part 1 — Provisions relating to this Act as enacted
 
+### Part 2 — Provisions relating to Support Workers (Pay Equity) Settlements Amendment Act 2020
+
+### 1 References to previous Title
+Every reference in any enactment and in any document to the Care and Support Workers (Pay Equity) Settlement Act 2017 must, unless the context provides otherwise, be read as a reference to the Support Workers (Pay Equity) Settlements Act 2017.
+
+### 2 Employers to pay back pay
+(1) This clause applies if—
+  (a) a support worker other than a care and support worker provided support services during the applicable period; and
+  (b) the worker’s employer paid the worker for those services at a rate that is less than the rate that the employer would have been required to pay if the Support Workers (Pay Equity) Settlements Amendment Act 2020 had applied in respect of the worker during the applicable period.
+(2) The employer must, on the commencement of the Support Workers (Pay Equity) Settlements Amendment Act 2020, pay the worker an amount calculated as follows:a – bwhere—ais the amount that the employer would have been required to pay the worker for the provision of support services if the Support Workers (Pay Equity) Settlements Amendment Act 2020 had applied in respect of the worker during the applicable periodbis the amount that the employer actually paid the worker for the provision of support services during the applicable period.
+(3) The calculation must take into account all applicable entitlements and deductions required by law, those specified in the worker’s employment agreement, and any other term or condition otherwise agreed to between the worker and their employer.
+(4) In this clause, applicable period means the period starting on 1 July 2017 and ending on the day before the date on which the Support Workers (Pay Equity) Settlements Amendment Act 2020 comes into force.
+
+### 3 Individually funded clients to pay back pay for mental health and addiction support services
+(1) This clause applies if—
+  (a) a person (an individually funded client) received funding directly from a funder towards the cost of mental health and addiction support services for that person during the applicable period; and
+  (b) the individually funded client employed a person (a worker) to provide the services; and
+  (c) the individually funded client paid the worker for those services at a rate that is less than the rate that the client would have been required to pay if the Support Workers (Pay Equity) Settlements Amendment Act 2020 had applied in respect of the worker during the applicable period.
+(2) The individually funded client must, on the commencement of the Support Workers (Pay Equity) Settlements Amendment Act 2020, pay the worker an amount calculated as follows:a – bwhere—ais the amount that the individually funded client would have been required to pay the worker for the provision of the services if the Support Workers (Pay Equity) Settlements Amendment Act 2020 had applied in respect of the worker during the applicable periodbis the amount that the individually funded client actually paid the worker for the provision of the services during the applicable period.
+(3) The calculation must take into account all applicable entitlements and deductions required by law, those specified in the worker’s employment agreement, and any other term or condition otherwise agreed to between the worker and the individually funded client.
+(4) In this clause, applicable period means the period starting on 1 July 2017 and ending on the day before the date on which the Support Workers (Pay Equity) Settlements Amendment Act 2020 comes into force.
+
+### 4 Continuous employment for mental health and addiction support workers
+(1) This clause applies to a mental health and addiction support worker who was employed by an employer—
+  (a) immediately before and on 1 July 2017; and
+  (b) on 1 July 2018.
+(2) For the purpose of clause 1 of Schedule 2 of this Act, the worker’s length of service includes the time, during the period beginning on 1 July 2017 and ending on 30 June 2018, that the worker was—
+  (a) employed by any employer and was providing support services; or
+  (b) employed by any employer but was not providing support services; or
+  (c) employed outside of the support services sector.
+
 ## Schedule 2 — Minimum hourly wages
 
 ### 1 Hourly wage rates for workers employed before 1 July 2017
-(1) The hourly wage for a care and support worker who is employed by an employer immediately before 1 July 2017 is the greater of the worker’s hourly wage under clause 2 and the applicable amount in the following table:The following table is small in size and has 5 columns. Column 1 is headed Worker’s length of service with employer. Column 2 is headed 1 July 2017 to 30 June 2018. Column 3 is headed 1 July 2018 to 30 June 2019. Column 4 is headed 1 July 2019 to 30 June 2021. Column 5 is headed 1 July 2021 to 30 June 2022.Worker’s length of service with employer1 July 2017 to 30 June 20181 July 2018 to 30 June 20191 July 2019 to 30 June 20211 July 2021 to 30 June 2022Less than 3 years$19.00$19.80$20.50$21.503 years or more but less than 8 years$20.00$21.00$21.50$23.008 years or more but less than 12 years$21.00$22.50$23.00$25.0012 years or more, if subclause (2) applies$22.50$23.50$24.50$26.0012 years or more, if subclause (2) does not apply$23.50$24.50$25.50$27.00
-(2) This subclause applies to a care and support worker if—
+(1) The hourly wage for a support worker who is employed by an employer immediately before 1 July 2017 is the greater of the worker’s hourly wage under clause 2 and the applicable amount in the following table:The following table is small in size and has 5 columns. Column 1 is headed Worker’s length of service with employer. Column 2 is headed 1 July 2017 to 30 June 2018. Column 3 is headed 1 July 2018 to 30 June 2019. Column 4 is headed 1 July 2019 to 30 June 2021. Column 5 is headed 1 July 2021 to 30 June 2022.Worker’s length of service with employer1 July 2017 to 30 June 20181 July 2018 to 30 June 20191 July 2019 to 30 June 20211 July 2021 to 30 June 2022Less than 3 years$19.00$19.80$20.50$21.503 years or more but less than 8 years$20.00$21.00$21.50$23.008 years or more but less than 12 years$21.00$22.50$23.00$25.0012 years or more, if subclause (2) applies$22.50$23.50$24.50$26.0012 years or more, if subclause (2) does not apply$23.50$24.50$25.50$27.00
+(2) This subclause applies to a support worker if—
   (a) the worker commenced employment with the employer on or after 1 July 2005; and
   (b) the worker has not attained a level 4 qualification; and
   (c) the worker’s employer has provided the support necessary for the worker to attain a level 4 qualification.
-(3) In this clause, a care and support worker’s length of service is the length of time that the worker has been continuously employed by the worker’s current employer (but, if paragraph (a)﻿(vii) of the definition of continuous employment in section 5 applies, includes the length of time that the worker was continuously employed by the worker’s previous employer).
+(3) In this clause, a support worker’s length of service is the length of time that the worker has been continuously employed by the worker’s current employer (but, if paragraph (a)﻿(vii) of the definition of continuous employment in section 5 applies, includes the length of time that the worker was continuously employed by the worker’s previous employer).
 
 ### 2 Hourly wage rates for workers employed on or after 1 July 2017
-The hourly wage for a care and support worker who commences employment with an employer on or after 1 July 2017 is the applicable amount in the following table:The following table is small in size and has 5 columns. Column 1 is headed Worker’s level of qualification. Column 2 is headed 1 July 2017 to 30 June 2018. Column 3 is headed 1 July 2018 to 30 June 2019. Column 4 is headed 1 July 2019 to 30 June 2021. Column 5 is headed 1 July 2021 to 30 June 2022.Worker’s level of qualification1 July 2017 to 30 June 20181 July 2018 to 30 June 20191 July 2019 to 30 June 20211 July 2021 to 30 June 2022No relevant qualification$19.00$19.80$20.50$21.50Level 2 qualification$20.00$21.00$21.50$23.00Level 3 qualification$21.00$22.50$23.00$25.00Level 4 qualification$23.50$24.50$25.50$27.00
+The hourly wage for a support worker who commences employment with an employer on or after 1 July 2017 is the applicable amount in the following table:The following table is small in size and has 5 columns. Column 1 is headed Worker’s level of qualification. Column 2 is headed 1 July 2017 to 30 June 2018. Column 3 is headed 1 July 2018 to 30 June 2019. Column 4 is headed 1 July 2019 to 30 June 2021. Column 5 is headed 1 July 2021 to 30 June 2022.Worker’s level of qualification1 July 2017 to 30 June 20181 July 2018 to 30 June 20191 July 2019 to 30 June 20211 July 2021 to 30 June 2022No relevant qualification$19.00$19.80$20.50$21.50Level 2 qualification$20.00$21.00$21.50$23.00Level 3 qualification$21.00$22.50$23.00$25.00Level 4 qualification$23.50$24.50$25.50$27.00
 
 ### 3 Adjustment for year ending 30 June 2022
 (1) This clause applies if the compound annual growth rate for the Labour Cost Index for the period starting on 1 July 2017 and ending on 30 June 2021 is more than 1.7%, in which case the result of the following formula will be greater than 0.017:(a ÷ b)0.25 − 1where—ais the Labour Cost Index at 30 June 2021bis the Labour Cost Index at 30 June 2017.
-(2) If this clause applies, the hourly wage for a care and support worker for the period beginning on 1 July 2021 and ending on 30 June 2022 is calculated as follows:a × (((b − c) ÷ c) + 1)where—ais the worker’s hourly wage under clause 1 or 2bis the Labour Cost Index at 30 June 2021cis the Labour Cost Index at 30 June 2017.
+(2) If this clause applies, the hourly wage for a support worker for the period beginning on 1 July 2021 and ending on 30 June 2022 is calculated as follows:a × (((b ÷ c) − 1.0174) + 1)where—ais the worker’s hourly wage under clause 1 or 2bis the Labour Cost Index at 30 June 2021cis the Labour Cost Index at 30 June 2017.
 (3) In this clause, Labour Cost Index means the Labour Cost Index (all sectors, salary and wage rates, including overtime) published by Statistics New Zealand.
