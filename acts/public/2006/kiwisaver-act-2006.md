@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2020-04-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -172,7 +172,7 @@ This Act is the KiwiSaver Act 2006.
 
 ### 6 Application
 (1) This Act applies to an employee or other natural person only if, at the time when the person becomes subject to the automatic enrolment rules or opts in, the person—
-  (a) is, or normally is, living in New Zealand, or is an employee of the State services (within the meaning of the State Sector Act 1988) who is—
+  (a) is, or normally is, living in New Zealand, or is an employee of the State services (within the meaning of the Public Service Act 2020) who is—
     (i) serving outside New Zealand; and
     (ii) employed on New Zealand terms and conditions; and
     (iii) serving in a jurisdiction where offers of KiwiSaver scheme membership are lawful; and
