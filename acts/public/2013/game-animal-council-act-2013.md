@@ -1,5 +1,5 @@
 # Game Animal Council Act 2013
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Game Animal Council Act 2013.
@@ -42,7 +42,7 @@ The purposes of this Act are—
   - **game trophy export levy** means the levy that is—
     (a) payable for the export of a game trophy; and
     (b) imposed by regulations made under section 34
-  - **government department** means a department named in Schedule 1 of the State Sector Act 1988
+  - **government department** means a public service agency as defined in section 5 of the Public Service Act 2020
   - **herd of special interest** means a species of game animals in a specified area designated by the Minister as a herd of special interest under section 16
   - **honorary enforcement officer** means a person appointed under clause 2(1) of Schedule 1
   - **Minister** means the Minister of Conservation
@@ -475,7 +475,7 @@ This Act does not affect the exercise of the Minister's, or the Director-General
 (3) The Minister may reimburse an honorary enforcement officer for reasonable expenses incurred while performing his or her duties under this Act if the Minister—
   (a) has authorised the officer to incur expenses up to a specified amount; and
   (b) subsequently approves those expenses.
-(4) An honorary enforcement officer is not to be treated as employed in the service of the Crown for the purposes of the Government Superannuation Fund Act 1956 or the State Sector Act 1988, or for any other purpose, just because he or she is an honorary enforcement officer.
+(4) An honorary enforcement officer is not to be treated as employed in the service of the Crown for the purposes of the Government Superannuation Fund Act 1956 or the Public Service Act 2020, or for any other purpose, just because he or she is an honorary enforcement officer.
 (5) The Director-General must issue to an honorary enforcement officer a written warrant—
   (a) stating the powers that the officer may exercise under this Act; and
   (b) stating either that—
