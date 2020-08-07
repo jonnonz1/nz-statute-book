@@ -1,5 +1,5 @@
 # Serious Fraud Office Act 1990
-_Consolidation as at 2020-03-23_
+_Consolidation as at 2020-08-07_
 
 > An Act—ato facilitate the detection and investigation by the Serious Fraud Office of cases of serious or complex fraud; andbto enable proceedings relating to such fraud to be taken expeditiously; andcto provide for matters incidental upon the establishment of the Serious Fraud Office
 
@@ -258,10 +258,10 @@ No person shall be excused from answering any question, supplying any informatio
 
 ## Part 4 — Miscellaneous provisions
 
-**Provisions relating to State Sector Act 1988 and other matters**
+**Provisions relating to Public Service Act 2020 and other matters**
 
 ### 29 Responsible Minister
-For the purposes of the State Sector Act 1988, the Attorney-General shall be responsible for the Serious Fraud Office.
+For the purposes of the Public Service Act 2020, the Attorney-General shall be responsible for the Serious Fraud Office.
 
 ### 30 Independence in matters relating to investigations
 (1) Notwithstanding section 29, in any matter relating to any decision to investigate any suspected case of serious or complex fraud, or to take proceedings relating to any such case or any offence against this Act, the Director shall not be responsible to the Attorney-General, but shall act independently.
@@ -274,11 +274,11 @@ The chief executive of the Serious Fraud Office shall be known as the Director.
 Judicial notice shall be taken of the signature of the Director and of the fact that the person whose signature it purports to be holds office as the Director.
 
 ### 33 Delegation of functions or powers
-(1) The provisions of the State Sector Act 1988 relating to the delegation of functions or powers shall apply in all respects to the Serious Fraud Office:
+(1) The provisions of the Public Service Act 2020 relating to the delegation of functions or powers shall apply in all respects to the Serious Fraud Office:
   provided that no delegation of—shall be valid unless it is to a designated member and is in writing.
     (a) any power conferred by Part 1 or Part 2; or
     (b) any power to authorise, under section 36(2) or section 37(3)﻿(b) or section 39(2)﻿(b), the disclosure of protected information,—
-(2) For the purposes of the provisions of the State Sector Act 1988 relating to the delegation of functions or powers, any person who is seconded to the Serious Fraud Office shall be treated as if that person were an employee of the Serious Fraud Office.
+(2) For the purposes of the provisions of the Public Service Act 2020 relating to the delegation of functions or powers, any person who is seconded to the Serious Fraud Office shall be treated as if that person were an employee of the Serious Fraud Office.
 
 ### 34 Exercise of powers by outside investigators
 (1) Any person (other than a constable) who is appointed by the Director to investigate the affairs, or any aspect of the affairs, of any other person may be authorised by the Director—
