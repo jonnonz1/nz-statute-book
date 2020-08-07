@@ -1,5 +1,5 @@
 # Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003
-_Consolidation as at 2017-05-12_
+_Consolidation as at 2020-08-07_
 
 ## Preamble
 He kōrero whakataki
@@ -1097,9 +1097,9 @@ The Service must, as soon as reasonably practicable, supply information required
   (b) be satisfied that the proposed appointee has disclosed the interests that he or she would, if he or she were a director, have to disclose at that time under clause 7; and
   (c) determine the terms and conditions of employment for the chief executive that are not provided for in this Act, including remuneration and allowances.
 (4) In determining or amending the terms and conditions of employment of the chief executive, the board must—
-  (a) consult with the State Services Commissioner; and
-  (b) consider any recommendations made by the State Services Commissioner about the terms and conditions of employment; and
-  (c) if the proposed terms and conditions of employment do not comply with the recommendations of the State Services Commissioner, consult with the responsible Ministers and the chairperson of Te Mātāwai, on behalf of Te Mātāwai.
+  (a) consult with the Public Service Commissioner; and
+  (b) consider any recommendations made by the Public Service Commissioner about the terms and conditions of employment; and
+  (c) if the proposed terms and conditions of employment do not comply with the recommendations of the Public Service Commissioner, consult with the responsible Ministers and the chairperson of Te Mātāwai, on behalf of Te Mātāwai.
 
 ### 36 Role of chief executive
 The chief executive is responsible to the board for the efficient and effective administration of the day to day operations of the Service, and must act in accordance with the lawful policies and directions of the board.
