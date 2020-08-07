@@ -1,5 +1,5 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2020-01-13_
+_Consolidation as at 2020-08-07_
 
 > An Act to reform the law relating to security interests in personal property and, in particular,—ato provide for the creation and enforceability of security interests in personal property; andbto provide for the determination of priority between security interests in the same personal property; andcto provide for the determination of priority between security interests and other types of interests in the same personal property; anddto provide for the enforcement of security interests in personal property other than consumer goods; andeto provide for the establishment of a register of security interests in personal property
 
@@ -1170,7 +1170,7 @@ In this Part, unless the context otherwise requires,—
 **Registrar of Personal Property Securities**
 
 ### 136 Appointment of Registrar
-(1) There must be a Registrar of Personal Property Securities who must be appointed by the Secretary under the State Sector Act 1988.
+(1) There must be a Registrar of Personal Property Securities who must be appointed by the Secretary under the Public Service Act 2020.
 (2) The person holding office as Registrar of Companies under the Companies Act 1993, immediately before the commencement of this Act, is deemed to have been appointed as Registrar of Personal Property Securities in accordance with this section.
 
 ### 137 Power of Registrar to delegate
