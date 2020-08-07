@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -2924,7 +2924,7 @@ A Gambling Commission is established.
   (b) there was a defect in the appointment or reappointment of a Gambling Commissioner; or
   (c) there is a vacancy in the membership of the Gambling Commission.
 (7) Unless the Gambling Commissioner sooner vacates office under section 223, a Gambling Commissioner continues in office until a successor is appointed, despite the expiry of the Gambling Commissioner’s term of office.
-(8) A Gambling Commissioner is not employed in the Government service for the purposes of the Government Superannuation Fund Act 1956 or the State services for the purposes of the State Sector Act 1988 only because the person is a Gambling Commissioner.
+(8) A Gambling Commissioner is not employed in the Government service for the purposes of the Government Superannuation Fund Act 1956 or the State services for the purposes of the Public Service Act 2020 only because the person is a Gambling Commissioner.
 
 ### 222 Appointment criteria
 (1) All Gambling Commissioners must have, in the opinion of the Minister, the knowledge, skills, and experience to enable them to assist in undertaking the functions, powers, and responsibilities of the Gambling Commission.
@@ -3472,7 +3472,7 @@ The Board is, for the purposes of subpart 2 of Part 5 of the Public Finance Act 
 **Miscellaneous provisions**
 
 ### 292 Appointment of officers
-(1) There may be appointed under the State Sector Act 1988 a secretary of the Board, and any other employees that may be required to assist the Minister, the Board, the distribution committees, and the Secretary for Internal Affairs for the purposes of this subpart and subpart 2.
+(1) There may be appointed under the Public Service Act 2020 a secretary of the Board, and any other employees that may be required to assist the Minister, the Board, the distribution committees, and the Secretary for Internal Affairs for the purposes of this subpart and subpart 2.
 (2) Any such position may be held separately or in conjunction with any other office in the State services.
 
 ### 293 Remuneration of members of Board and distribution committees
@@ -4022,7 +4022,7 @@ A constable who is executing, or assisting in the execution of, a search warrant
   (d) an employee or class of employee of the Department specified by the Secretary.
 (3) A person who fails to comply with this section,—
   (a) in the case of a person specified in subsection (2)﻿(a) or (b), commits an offence and is liable on conviction to a fine not exceeding $5,000; and
-  (b) in the case of a person specified in subsection (2)﻿(c) or (d), must be treated as having breached the code of conduct (if any) issued under section 57 of the State Sector Act 1988.
+  (b) in the case of a person specified in subsection (2)﻿(c) or (d), must be treated as having breached the relevant minimum standards (if any) under section 17 of the Public Service Act 2020.
 
 ### 348 Restriction on gambling in casino by certain persons
 (1) No person referred to in subsection (2) may gamble in a casino—
