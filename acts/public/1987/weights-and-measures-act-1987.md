@@ -1,5 +1,5 @@
 # Weights and Measures Act 1987
-_Consolidation as at 2020-01-13_
+_Consolidation as at 2020-08-07_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Weights and Measures Act 1987.
@@ -279,9 +279,9 @@ Nothing in section 20 and section 21 shall apply to any automatic weighing machi
 [Repealed]
 
 ### 26 Inspectors of Weights and Measures
-(1) Subject to subsection (2), there shall be appointed from time to time under the State Sector Act 1988 such number of persons to be Inspectors of Weights and Measures as may be necessary for the purposes of this Act.
+(1) Subject to subsection (2), there shall be appointed from time to time under the Public Service Act 2020 such number of persons to be Inspectors of Weights and Measures as may be necessary for the purposes of this Act.
 (2) No person shall be appointed to be an Inspector unless that person has passed such examinations to test that person's knowledge of the provisions of this Act and any regulations made under this Act and the powers, duties, and functions of Inspectors as the Secretary requires.
-(3) There may from time to time be appointed under the State Sector Act 1988, for periods not exceeding 2 years from the date of their appointment, such number of persons to be trainee Inspectors of Weights and Measures as may be necessary for the purposes of this Act.
+(3) There may from time to time be appointed under the Public Service Act 2020, for periods not exceeding 2 years from the date of their appointment, such number of persons to be trainee Inspectors of Weights and Measures as may be necessary for the purposes of this Act.
 (4) It shall not be necessary for any person to pass the examinations referred to in subsection (2) to be appointed to be a trainee Inspector.
 (5) For the purposes of this Act, a trainee Inspector acting under the supervision of an Inspector (other than a trainee Inspector) is deemed to be an Inspector.
 (6) Every person holding an appointment as an Inspector of Weights and Measures pursuant to the Weights and Measures Act 1925 immediately before the commencement of this Act shall be deemed to have been appointed as an Inspector under this section.
@@ -436,7 +436,7 @@ The Secretary may, at any time, revoke, amend, or add to any condition imposed u
 (2) If any accredited person breaches a condition expressed in subsection (1), the Secretary may revoke the accreditation of that person pursuant to subsection (1) of section 30D or, as the case may require, remove the name of that person from a letter of accreditation pursuant to subsection (2) of that section.
 
 ### 30J Application of certain Acts to accredited persons
-No person shall be deemed to be employed in the service of the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason only of that person's accreditation under section 30A as an accredited person.
+No person shall be deemed to be employed in the service of the Crown for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason only of that person's accreditation under section 30A as an accredited person.
 
 ## Part 6 — Offences and penalties
 
