@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -11,6 +11,9 @@ _Consolidation as at 2020-08-01_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **Ombudsman** , in relation to any function, power, or duty under this Act, means the Ombudsman for the time being investigating the complaint in respect of which the function, power, or duty is being exercised
+  - **public service agencies** means the departments, departmental agencies, interdepartmental executive boards, and interdepartmental ventures named in Parts 1 to 1C of Schedule 1, and means any one of those agencies, but for the purposes of this Act—
+    (a) a departmental agency listed in the first column of the table in Part 1A of Schedule 1 is part of its host department listed in the second column of that table:
+    (b) an interdepartmental executive board listed in the first column of the table in Part 1B of Schedule 1 is to be treated as part of its servicing department listed in the second column of that table
   - **State enterprise** means—
     (a) an organisation that is a State enterprise within the meaning of section 2 of the State-Owned Enterprises Act 1986 and that is named in Part 2 of Schedule 1 of this Act:
     (b) an organisation that was a State enterprise within the meaning of section 2 of the State-Owned Enterprises Act 1986 but which continues to be named in Part 2 of Schedule 1 of this Act.
@@ -30,7 +33,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
 ### 3 Ombudsmen
 (1) There shall be appointed, as officers of Parliament and Commissioners for Investigations, 1 or more Ombudsmen.
 (2) Subject to the provisions of section 7, each Ombudsman shall be appointed by the Governor-General on the recommendation of the House of Representatives.
-(3) No person shall be deemed to be employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason of his appointment as an Ombudsman.
+(3) No person shall be deemed to be employed in the service of Her Majesty for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason of his appointment as an Ombudsman.
 (4) One of the Ombudsmen shall be so appointed as Chief Ombudsman, and shall be responsible for the administration of the office, and the co-ordination and allocation of the work between the Ombudsmen.
 (5) In any case where the Governor-General is satisfied that the Chief Ombudsman is incapacitated by illness, absence, or other sufficient cause from performing the duties of his office, the Governor-General may appoint one of the other Ombudsmen to act for the Chief Ombudsman during his incapacity.
 (6) No appointment of an acting Chief Ombudsman and no acts done by him as such, shall in any proceedings be questioned on the ground that the occasion for his appointment had not arisen or had ceased.
@@ -78,7 +81,7 @@ An Ombudsman shall not be capable of being a member of Parliament or of a local 
 (1) The Chief Ombudsman may appoint such officers and employees (including acting, temporary, or casual officers and employees) as may be necessary for the efficient carrying out of the functions, duties, and powers of the Ombudsmen under this Act.
 (2) Except where this Act otherwise expressly provides, the Chief Ombudsman shall have all the rights, duties, and powers of an employer in respect of the persons appointed under subsection (1).
 (3) The Chief Ombudsman shall operate a personnel policy that complies with the principle of being a good employer.
-(4) No person appointed under subsection (1) shall be deemed to be employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason of that person's appointment under this section.
+(4) No person appointed under subsection (1) shall be deemed to be employed in the service of Her Majesty for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason of that person's appointment under this section.
 
 ### 12 Superannuation or retiring allowances of Ombudsmen and staff
 For the purpose of providing superannuation or retiring allowances for any Ombudsman and any officer or employee appointed under this Act, there may from time to time be paid sums by way of contributions or subsidies to any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
@@ -86,8 +89,8 @@ For the purpose of providing superannuation or retiring allowances for any Ombud
 **Functions of Ombudsmen**
 
 ### 13 Functions of Ombudsmen
-(1) Subject to section 14, it shall be a function of the Ombudsmen to investigate any decision or recommendation made, or any act done or omitted, whether before or after the passing of this Act, relating to a matter of administration and affecting any person or body of persons in his or its personal capacity, in or by any of the departments or organisations named or specified in Parts 1 and 2 of Schedule 1, or by any committee (other than a committee of the whole) or subcommittee of any organisation named or specified in Part 3 of Schedule 1, or by any officer, employee, or member of any such department or organisation in his capacity as such officer, employee, or member.
-(2) Subject to section 14, and without limiting the generality of subsection (1), it is hereby declared that the power conferred by that subsection includes the power to investigate a recommendation made, whether before or after the passing of this Act, by any such department, organisation, committee, subcommittee, officer, employee, or member to a Minister of the Crown or to any organisation named or specified in Part 3 of Schedule 1, as the case may be.
+(1) Subject to section 14, it shall be a function of the Ombudsmen to investigate any decision or recommendation made, or any act done or omitted, whether before or after the passing of this Act, relating to a matter of administration and affecting any person or body of persons in his or its personal capacity, in or by any of the public service agencies or organisations named in Parts 1 to 1C and 2 of Schedule 1, or by any committee (other than a committee of the whole) or subcommittee of any organisation named or specified in Part 3 of Schedule 1, or by any officer, employee, or member of any such public service agency or organisation in his capacity as such officer, employee, or member.
+(2) Subject to section 14, and without limiting the generality of subsection (1), it is hereby declared that the power conferred by that subsection includes the power to investigate a recommendation made, whether before or after the passing of this Act, by any such public service agency, organisation, committee, subcommittee, officer, employee, or member to a Minister of the Crown or to any organisation named or specified in Part 3 of Schedule 1, as the case may be.
 (3) Each Ombudsman may make any such investigation either on a complaint made to an Ombudsman by any person or of his own motion; and where a complaint is made he may investigate any decision, recommendation, act, or omission to which the foregoing provisions of this section relate, notwithstanding that the complaint may not appear to relate to that decision, recommendation, act, or omission.
 (4) Without limiting the foregoing provisions of this section, it is hereby declared that any committee of the House of Representatives may at any time refer to an Ombudsman, for investigation and report by an Ombudsman, any petition that is before that committee for consideration, or any matter to which the petition relates. In any such case, an Ombudsman shall, subject to any special directions of the committee, investigate the matters so referred, so far as they are within his jurisdiction, and make such report to the committee as he thinks fit. Nothing in section 17 or section 22 or section 24 shall apply in respect of any investigation or report made under this subsection.
 (5) Without limiting the foregoing provisions of this section, it is hereby declared that at any time the Prime Minister may, with the consent of the Chief Ombudsman, refer to an Ombudsman for investigation and report any matter, other than a matter concerning a judicial proceeding, which the Prime Minister considers should be investigated by an Ombudsman. Where a matter is referred to an Ombudsman pursuant to this subsection, he shall, notwithstanding anything to the contrary in this Act, forthwith investigate that matter and report thereon to the Prime Minister, and may thereafter make such report to Parliament on the matter as he thinks fit. Nothing in section 22 shall apply in respect of any investigation or report made under this subsection.
@@ -107,7 +110,7 @@ Nothing in section 13 shall permit an Ombudsman to investigate any decision or r
 
 ### 15 House of Representatives may make rules for guidance of Ombudsmen
 (1) The House of Representatives may from time to time, if it thinks fit, make general rules for the guidance of the Ombudsmen in the exercise of their functions under this Act or under the Official Information Act 1982 or under the Local Government Official Information and Meetings Act 1987 or under the Protected Disclosures Act 2000, and may at any time in like manner revoke or vary any such rules.
-(2) Any such rules may authorise an Ombudsman from time to time, in the public interest or in the interests of any person or department or organisation, to publish reports relating generally to the exercise of his functions under this Act or under the Official Information Act 1982 or under the Local Government Official Information and Meetings Act 1987 or under the Protected Disclosures Act 2000 or to any particular case or cases investigated by him, whether or not the matters to be dealt with in any such report have been the subject of a report to the House of Representatives under this Act.
+(2) Any such rules may authorise an Ombudsman from time to time, in the public interest or in the interests of any person or public service agency or organisation, to publish reports relating generally to the exercise of his functions under this Act or under the Official Information Act 1982 or under the Local Government Official Information and Meetings Act 1987 or under the Protected Disclosures Act 2000 or to any particular case or cases investigated by him, whether or not the matters to be dealt with in any such report have been the subject of a report to the House of Representatives under this Act.
 (3) All rules made under this section must be published under the Legislation Act 2012 as if they were legislative instruments, but they are not disallowable instruments for the purposes of that Act and do not have to be presented to the House of Representatives under section 41 of that Act.
 
 ### 16 Mode of complaint
@@ -143,19 +146,19 @@ Nothing in section 13 shall permit an Ombudsman to investigate any decision or r
 (3) If the Ombudsman determines that the complaint should be dealt with, in whole or in part, under subpart 1 of Part 6 of the Intelligence and Security Act 2017, the Ombudsman shall forthwith refer the complaint or, as the case requires, the appropriate part of the complaint to the Inspector-General of Intelligence and Security to be dealt with accordingly, and shall notify the complainant of the action that has been taken.
 
 ### 18 Proceedings of Ombudsmen
-(1) Before investigating any matter under this Act, an Ombudsman shall inform the chief executive of the department affected, or, as the case may require, the chief executive of the organisation affected, of his intention to make the investigation.
+(1) Before investigating any matter under this Act, an Ombudsman shall inform the chief executive of the department (for the department and for a departmental agency hosted by it or an interdepartmental executive board serviced by it) or the board of the interdepartmental venture affected, or, as the case may require, the chief executive of the organisation affected, of his intention to make the investigation.
 (2) Every investigation by an Ombudsman under this Act shall be conducted in private.
 (3) An Ombudsman may hear or obtain information from such persons as he thinks fit, and may make such inquiries as he thinks fit. It shall not be necessary for an Ombudsman to hold any hearing, and no person shall be entitled as of right to be heard by an Ombudsman:
-  provided that if at any time during the course of an investigation it appears to an Ombudsman that there may be sufficient grounds for his making any report or recommendation that may adversely affect any department or organisation or person, he shall give to that department or organisation or person an opportunity to be heard.
-(4) In the case of an investigation relating to a department or organisation named or specified in Parts 1 and 2 of Schedule 1, an Ombudsman may in his discretion at any time during or after the investigation consult a Minister who is concerned in the matter of the investigation, and an Ombudsman shall consult any Minister who so requests or to whom a recommendation which is the subject of the investigation has been made, after the Ombudsman has made the investigation and before he has formed a final opinion on any of the matters referred to in subsection (1) or subsection (2) of section 22.
+  provided that if at any time during the course of an investigation it appears to an Ombudsman that there may be sufficient grounds for his making any report or recommendation that may adversely affect any public service agency or organisation or person, he shall give to that public service agency or organisation or person an opportunity to be heard.
+(4) In the case of an investigation relating to a public service agency or organisation named in Schedule 1, an Ombudsman may in his discretion at any time during or after the investigation consult a Minister who is concerned in the matter of the investigation, and an Ombudsman shall consult any Minister who so requests or to whom a recommendation which is the subject of the investigation has been made, after the Ombudsman has made the investigation and before he has formed a final opinion on any of the matters referred to in subsection (1) or subsection (2) of section 22.
 (5) In the case of an investigation relating to an organisation named or specified in Part 3 of Schedule 1, an Ombudsman may in his discretion at any time during or after the investigation consult the mayor or chairperson of the organisation concerned, and an Ombudsman shall consult the mayor or chairperson of the organisation who so requests or to whom a recommendation which is the subject of the investigation has been made, after the Ombudsman has made the investigation and before he has formed a final opinion on any of the matters referred to in subsection (1) or subsection (2) of section 22.
-(6) If, during or after any investigation, an Ombudsman is of opinion that there is substantial evidence of any significant breach of duty or misconduct on the part of any officer or employee of any department or organisation, he shall refer the matter to the appropriate authority.
+(6) If, during or after any investigation, an Ombudsman is of opinion that there is substantial evidence of any significant breach of duty or misconduct on the part of any officer or employee of any public service agency or organisation, he shall refer the matter to the appropriate authority.
 (7) Subject to the provisions of this Act and of any rules made for the guidance of Ombudsmen by the House of Representatives and for the time being in force, an Ombudsman may regulate his procedure in such manner as he thinks fit.
 
 ### 19 Evidence
-(1) Subject to the provisions of this section and of section 20, an Ombudsman may from time to time require any person who in his opinion is able to give any information relating to any matter that is being investigated by the Ombudsman to furnish to him any such information, and to produce any documents or papers or things which in the Ombudsman's opinion relate to any such matter as aforesaid and which may be in the possession or under the control of that person. This subsection shall apply whether or not the person is an officer, employee, or member of any department or organisation, and whether or not such documents, papers, or things are in the custody or under the control of any department or organisation.
+(1) Subject to the provisions of this section and of section 20, an Ombudsman may from time to time require any person who in his opinion is able to give any information relating to any matter that is being investigated by the Ombudsman to furnish to him any such information, and to produce any documents or papers or things which in the Ombudsman's opinion relate to any such matter as aforesaid and which may be in the possession or under the control of that person. This subsection shall apply whether or not the person is an officer, employee, or member of any public service agency or organisation, and whether or not such documents, papers, or things are in the custody or under the control of any public service agency or organisation.
 (2) An Ombudsman may summon before him and examine on oath—and for that purpose may administer an oath. Every such examination by the Ombudsman shall be deemed to be a judicial proceeding within the meaning of section 108 of the Crimes Act 1961 (which relates to perjury).
-  (a) any person who is an officer or employee or member of any department or organisation named or specified in Schedule 1 and who in the Ombudsman's opinion is able to give any such information as aforesaid; or
+  (a) any person who is an officer or employee or member of any public service agency or organisation named or specified in Schedule 1 and who in the Ombudsman's opinion is able to give any such information as aforesaid; or
   (b) any complainant; or
   (c) with the prior approval of the Attorney-General in each case, any other person who in the Ombudsman's opinion is able to give any such information—
 (3) Subject to this section and to section 20(1), a person who is bound by the provisions of an enactment (being an Act or a legislative instrument within the meaning of the Legislation Act 2012 made by Order in Council) to maintain secrecy in relation to, or not to disclose, any matter may be required to supply any information to or answer any question put by an Ombudsman in relation to that matter, or to produce to an Ombudsman any document or paper or thing relating to it, even if compliance with that requirement would otherwise be in breach of the obligation of secrecy or non-disclosure.
@@ -220,7 +223,7 @@ Notwithstanding anything in section 21, an Ombudsman may from time to time under
   (c) was based wholly or partly on a mistake of law or fact; or
   (d) was wrong.
 (2) The provisions of this section shall also apply in any case where an Ombudsman is of opinion that in the making of the decision or recommendation, or in the doing or omission of the act, a discretionary power has been exercised for an improper purpose or on irrelevant grounds or on the taking into account of irrelevant considerations, or that, in the case of a decision made in the exercise of any discretionary power, reasons should have been given for the decision.
-(3) If in any case to which this section applies an Ombudsman is of opinion—the Ombudsman shall report his opinion, and his reasons therefor, to the appropriate department or organisation, and may make such recommendations as he thinks fit. In any such case he may request the department or organisation to notify him, within a specified time, of the steps (if any) that it proposes to take to give effect to his recommendations. The Ombudsman shall also, in the case of an investigation relating to a department or organisation named or specified in Parts 1 and 2 of Schedule 1, send a copy of his report or recommendations to the Minister concerned, and, in the case of an investigation relating to an organisation named or specified in Part 3 of Schedule 1, send a copy of his report or recommendations to the mayor or chairperson of the organisation concerned.
+(3) If in any case to which this section applies an Ombudsman is of opinion—the Ombudsman shall report his opinion, and his reasons therefor, to the appropriate department (for itself and for a departmental agency hosted by it or an interdepartmental executive board serviced by it) or interdepartmental venture or organisation, and may make such recommendations as he thinks fit. In any such case he may request the department or venture or organisation to notify him, within a specified time, of the steps (if any) that it proposes to take to give effect to his recommendations. The Ombudsman shall also, in the case of an investigation relating to a department or venture or organisation named or specified in Schedule 1, send a copy of his report or recommendations to the Minister concerned, and, in the case of an investigation relating to an organisation named or specified in Part 3 of Schedule 1, send a copy of his report or recommendations to the mayor or chairperson of the organisation concerned.
   (a) that the matter should be referred to the appropriate authority for further consideration; or
   (b) that the omission should be rectified; or
   (c) that the decision should be cancelled or varied; or
@@ -228,8 +231,8 @@ Notwithstanding anything in section 21, an Ombudsman may from time to time under
   (e) that any law on which the decision, recommendation, act, or omission was based should be reconsidered; or
   (f) that reasons should have been given for the decision; or
   (g) that any other steps should be taken—
-(4) If within a reasonable time after the report is made no action is taken which seems to an Ombudsman to be adequate and appropriate, the Ombudsman, in his discretion, after considering the comments (if any) made by or on behalf of any department or organisation affected, may send a copy of the report and recommendations to the Prime Minister, and may thereafter make such report to the House of Representatives on the matter as he thinks fit.
-(5) The Ombudsman shall attach to every report sent or made under subsection (4) a copy of any comments made by or on behalf of the department or organisation affected.
+(4) If within a reasonable time after the report is made no action is taken which seems to an Ombudsman to be adequate and appropriate, the Ombudsman, in his discretion, after considering the comments (if any) made by or on behalf of any public service agency or organisation affected, may send a copy of the report and recommendations to the Prime Minister, and may thereafter make such report to the House of Representatives on the matter as he thinks fit.
+(5) The Ombudsman shall attach to every report sent or made under subsection (4) a copy of any comments made by or on behalf of the public service agency or organisation affected.
 (6) Subsections (4) and (5) shall not apply in the case of an investigation relating to an organisation named or specified in Part 3 of Schedule 1.
 (7) Notwithstanding anything in this section, an Ombudsman shall not, in any report made under this Act, make any comment that is adverse to any person unless the person has been given an opportunity to be heard.
 
@@ -260,8 +263,8 @@ No proceeding of an Ombudsman shall be held bad for want of form, and, except on
 **Miscellaneous provisions**
 
 ### 27 Power of entry on premises
-(1) For the purposes of this Act, but subject to the provisions of this section, an Ombudsman may at any time enter upon any premises occupied by any of the departments or organisations named or specified in Schedule 1 and inspect the premises and, subject to the provisions of sections 19 and 20, carry out therein any investigation that is within his jurisdiction.
-(2) Before entering upon any such premises an Ombudsman shall notify the chief executive of the department or, as the case may require, the chief executive of the organisation by which the premises are occupied.
+(1) For the purposes of this Act, but subject to the provisions of this section, an Ombudsman may at any time enter upon any premises occupied by any of the public service agencies or organisations named or specified in Schedule 1 and inspect the premises and, subject to the provisions of sections 19 and 20, carry out therein any investigation that is within his jurisdiction.
+(2) Before entering upon any such premises an Ombudsman shall notify the chief executive of the department (for itself and for a departmental agency hosted by it or an interdepartmental executive board serviced by it) or the board of an interdepartmental venture or, as the case may require, the chief executive of the organisation by which the premises are occupied.
 (3) The Attorney-General may from time to time by notice to the Chief Ombudsman exclude the application of subsection (1) to any specified premises or class of premises, if he is satisfied that the exercise of the power conferred by this section might prejudice the security, defence, or international relations of New Zealand, including New Zealand's relations with the government of any other country or with any international organisation.
 
 ### 28 Delegation of powers by Ombudsman
@@ -278,7 +281,7 @@ No proceeding of an Ombudsman shall be held bad for want of form, and, except on
   (b) the person is appointed by the Chief Ombudsman under section 11 of this Act as an officer or employee holding a position with a title that includes the word Ombudsman; or
   (c) the person has been permitted by the Minister to use that name.
 (2) The Minister may only give permission under subsection (1)﻿(c) to—
-  (a) a department named in Part 1 of Schedule 1:
+  (a) a department named in Part 1 of Schedule 1 or an interdepartmental venture named in Part 1C of Schedule 1:
   (b) an organisation named in Part 2 of Schedule 1.
 (3) A person who contravenes this section commits an offence and is liable on conviction to a fine not exceeding $1,000.
 (4) In this section, Minister means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act.
@@ -302,7 +305,11 @@ Except as otherwise provided in this Act, all salaries and allowances and other 
 (3) In carrying out the functions conferred by this section, the auditor has the same functions, duties, and powers as the Auditor-General.
 
 ### 32 Power to amend Schedule 1 by Order in Council
-(1) Where any department or organisation named or specified in Schedule 1 is abolished, or its name is altered, or where any new department of State is created, the Governor-General may, by Order in Council, make such amendments to the said schedule as may be necessary to give effect to the abolition or alteration, or to include the name of the new department therein.
+(1) If a public service agency or an organisation named in Schedule 1 is abolished, or its name is altered, or if a new public service agency is created, or if a host or servicing department is changed, or if the name of a host or servicing department is changed, the Governor-General may, by Order in Council, amend the relevant Part of that schedule as may be necessary to—
+  (a) reflect the abolition or alteration, or include the name of the new public service agency in that Part:
+  (b) in the case of a departmental agency, make a corresponding amendment to include, remove, or alter a reference to its host department in the table in Part 1A of Schedule 1:
+  (c) in the case of an interdepartmental executive board, make a corresponding amendment to include, remove, or alter a reference to its servicing department in the table in Part 1B of Schedule 1.
+(1A) An order relating to the establishment of an interdepartmental executive board or an interdepartmental venture for the first time may also delete the words immediately below the table in Part 1B of Schedule 1 or in Part 1C of Schedule 1.
 (2) The Governor-General may from time to time, by Order in Council, amend Part 2 or Part 3 of Schedule 1 by—
   (a) including therein the name of any local organisation or other organisation or the description of any class of local organisations or other organisations:
   (b) omitting from the said Part 2 or Part 3 the name of any local organisation or other organisation or the description of any class of local organisations or other organisations, whether that name or description appeared in that Part as initially enacted or was included therein by any other Act or any Order in Council.
@@ -339,6 +346,16 @@ Despite the enactment of the Amendment Act, the entity known as Insurance & Fina
 (2) If this clause applies, FSCL may use Ombudsman in its name in accordance with the consent given by the Chief Ombudsman as if the Amendment Act had not been enacted.
 (3) In this clause, FSCL means Financial Services Complaints Limited, the appellant in the proceedings that were the subject of the judgment of the Court of Appeal reported in Financial Services Complaints Limited v Chief Ombudsman [2018] NZCA 27.
 
-## Schedule 1 — Departments and organisations to which this Act applies
+## Schedule 1 — Public service agencies and organisations to which this Act applies
+
+| Departmental agency | Host department |
+| --- | --- |
+| Cancer Control Agency | Ministry of Health |
+| National Emergency Management Agency | Department of the Prime Minister and Cabinet |
+| Office for Māori Crown Relations—Te Arawhiti | Ministry of Justice |
+| Social Wellbeing Agency | Public Service Commission |
+
+| Interdepartmental executive board | Servicing department |
+| --- | --- |
 
 ## Schedule 2 — Enactments repealed
