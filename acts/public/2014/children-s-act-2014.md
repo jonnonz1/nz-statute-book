@@ -1,5 +1,5 @@
 # Children’s Act 2014
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Children’s Act 2014.
@@ -362,7 +362,7 @@ The purpose of this Part is to reduce the risk of harm to children by requiring 
   - **screening service** means a person or organisation that carries out, on behalf of a specified organisation, all or any part of a safety check of children's workers
   - **specified offence** means an offence identified in Schedule 2
   - **specified organisation** has the meaning given in section 24
-  - **State services** has the meaning given in section 2 of the State Sector Act 1988
+  - **State services** has the meaning given in section 5 of the Public Service Act 2020
   - **work** means work that is—
     (a) paid work; or
     (b) unpaid work that is undertaken as part of an educational or vocational training course.
