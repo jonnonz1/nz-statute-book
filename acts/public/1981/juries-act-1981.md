@@ -1,5 +1,5 @@
 # Juries Act 1981
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and reform the law relating to juries
 
@@ -87,7 +87,7 @@ The following persons shall not serve on any jury in any court on any occasion:
   (e) Justices who have agreed to make themselves available from time to time to exercise the summary jurisdiction of the District Court:
   (f) lawyers within the meaning of the Lawyers and Conveyancers Act 2006:
   (g) employees of the Police, and traffic officers:
-  (h) an employee of the Public Service who is employed—
+  (h) an employee of the public service who is employed—
     (i) in the Ministry of Justice; or
     (ii) in the Department of Corrections; or
     (iii)
