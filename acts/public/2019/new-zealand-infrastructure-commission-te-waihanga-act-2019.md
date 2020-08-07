@@ -1,5 +1,5 @@
 # New Zealand Infrastructure Commission/Te Waihanga Act 2019
-_Consolidation as at 2019-09-25_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the New Zealand Infrastructure Commission/Te Waihanga Act 2019.
@@ -148,10 +148,10 @@ The Commission must publish every report that is provided to the Minister under 
 (4) An entity to which the request is made must comply with the request, subject to sections 24 and 25 (which set out reasons for refusing a request for information).
 (5) However, the information cannot be withheld other than for the reasons in sections 24 and 25, and cannot be withheld at all if it could not properly be withheld under the Official Information Act 1982 or the Local Government Official Information and Meetings Act 1987, as the case may be.
 (6) A request may be made to 1 or more of the following entities:
-  (a) a department named in Schedule 1 of the State Sector Act 1988, other than—
+  (a) a department as defined in section 5 of the Public Service Act 2020, other than—
     (i) the Government Communications Security Bureau; and
     (ii) the New Zealand Security Intelligence Service:
-  (b) a departmental agency named in Schedule 1A of the State Sector Act 1988:
+  (b) a departmental agency as defined in section 5 of the Public Service Act 2020:
   (c) a statutory entity named in Schedule 1 of the Crown Entities Act 2004:
   (d) the New Zealand Defence Force:
   (e) a local authority, as defined in section 5(1) of the Local Government Act 2002:
@@ -198,7 +198,7 @@ Amend the enactments specified in Schedule 2 as set out in that schedule.
   (a) whose duties are, overall, more closely connected with the functions of the Commission; and
   (b) whose positions will, as a result of the establishment of the Commission, cease to exist within the Treasury.
 (2) An employee who is identified under subclause (1) must be offered an alternative position by the Commission.
-(3) In this clause, alternative position means a position with the Commission that satisfies the requirements set out in section 61A(1)﻿(b)﻿(i) to (v) of the State Sector Act 1988.
+(3) In this clause, alternative position means a position with the Commission that satisfies the requirements set out in section 88(1)﻿(b) of the Public Service Act 2020.
 
 ### 2 Employment of transferred employee to be treated as continuous employment
 (1) This clause applies to an employee who is transferred to the Commission as a result of the employee accepting an offer made under clause 1(2).
