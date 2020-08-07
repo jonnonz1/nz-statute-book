@@ -1,5 +1,5 @@
 # Railways Act 2005
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Railways Act 2005.
@@ -763,7 +763,7 @@ Without limiting the power to make ordinary rules under section 49, ordinary rul
   (f) make transitional and savings provisions for the purposes of implementing any rule.
 (5) An ordinary rule is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (6) If a bylaw of a local authority is inconsistent with any ordinary rules in force in the same locality, the rules override the bylaws.
-(7) Despite section 28 of the State Sector Act 1988, the Minister may not delegate his or her power to make ordinary rules under this Act.
+(7) Despite clause 5 of Schedule 6 of the Public Service Act 2020, the Minister may not delegate his or her power to make ordinary rules under this Act.
 
 ### 55 Procedure concerning ordinary rules
 The procedure for making ordinary rules in section 161 of the Land Transport Act 1998 applies with any necessary modifications to all ordinary rules made by the Minister under sections 49 to 53.
