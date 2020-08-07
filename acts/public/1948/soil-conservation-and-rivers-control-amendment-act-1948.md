@@ -1,5 +1,5 @@
 # Soil Conservation and Rivers Control Amendment Act 1948
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2020-08-07_
 
 > An Act to amend the Soil Conservation and Rivers Control Act 1941
 
@@ -26,7 +26,7 @@ This Act may be cited as the Soil Conservation and Rivers Control Amendment Act 
 [Repealed]
 
 ### 7 Holders of specified offices may be appointed non-elective members of Boards
-Notwithstanding anything to the contrary in section 44 of the principal Act, the Governor-General may from time to time, by Order in Council, declare that the person who is the holder for the time being of a specified office in the Public Service shall be a non-elective member of a Catchment Board. The person who is for the time being the holder of the specified office shall, while the Order in Council remains in force, continue to be a non-elective member of the Board without any appointment or reappointment under the said section 44.
+Notwithstanding anything to the contrary in section 44 of the principal Act, the Governor-General may from time to time, by Order in Council, declare that the person who is the holder for the time being of a specified office in the public service shall be a non-elective member of a Catchment Board. The person who is for the time being the holder of the specified office shall, while the Order in Council remains in force, continue to be a non-elective member of the Board without any appointment or reappointment under the said section 44.
 
 ### 8
 [Repealed]
@@ -43,7 +43,7 @@ Notwithstanding anything to the contrary in section 44 of the principal Act, the
 (3) Every such application shall describe generally the nature of the work required, and the lands on, through, and between which it will be carried out, and if a new work is proposed, shall state the compensation (if any) which the person making the application estimates to be payable, and shall be accompanied by a sketch plan showing the course of the drain or watercourse.
 (4) Before constructing any works of any nature pursuant to any such application the Board shall—
   (a) Estimate the cost which it will incur in carrying out and maintaining the proposed work and the amount of compensation which will be payable in respect of the work:
-  (b) Determine which of theratepayers for the lands (at the date of determination) which will benefit from the proposed work shall contribute to the cost of carrying out and maintaining the work, and how that cost shall be apportioned between them; and in making the determination and apportionment the Board shall have regard to the amount of the benefit directly or indirectly derived or likely to be derived in each case:
+  (b) Determine which of the ratepayers for the lands (at the date of determination) which will benefit from the proposed work shall contribute to the cost of carrying out and maintaining the work, and how that cost shall be apportioned between them; and in making the determination and apportionment the Board shall have regard to the amount of the benefit directly or indirectly derived or likely to be derived in each case:
   (c) Prepare proposals regarding the apportionment of the compensation money which the Board proposes to pay in respect of the work:
   (d) Deposit for public inspection at the office of the Board, and where that office is outside the district also at some place within the district—
     (i) A statement containing a general description of the proposed work:
@@ -56,7 +56,7 @@ Notwithstanding anything to the contrary in section 44 of the principal Act, the
 (5A) After giving the Board and the objector an opportunity to be heard, the assessor shall consider the matter fairly and without bias and make a decision.
 (5B) The assessor shall supply the Board and the objector with a written copy of the decision and the reasons for it.
 (5C) Where no such objection is lodged within the said period of 1 month, or where (in respect of every objection lodged) either the assessor or the person objecting consents to the execution of the work, the Board may forthwith proceed with the work.
-(6) The amount of the contribution of every ratepayer for land affected by the proposed work as stated in the notice under subsection (4)(e), or, if an objection that affects the amount of the contribution has been duly lodged, as determined by agreement or by the assessor, constitutes a debt due and payable by the ratepayer to the Board.
+(6) The amount of the contribution of every ratepayer for land affected by the proposed work as stated in the notice under subsection (4)﻿(e), or, if an objection that affects the amount of the contribution has been duly lodged, as determined by agreement or by the assessor, constitutes a debt due and payable by the ratepayer to the Board.
 (7) The Board may charge interest on any amount payable to it under this section at a rate to be from time to time fixed by the Minister of Finance, and may require any such amount and interest to be paid by such instalments on such days as the Board thinks fit.
 (8) Where a written application has been received from the ratepayer for any land for the exercise by the Board of any of its powers as provided in this section and expenses have been incurred by the Board in relation to the request, the Board may require the person who made the request to pay the whole or any part of the amount of the said expenses, and the amount which that person is so required to pay shall constitute a debt payable by that person, chargeable with interest, and charged on the land in the same manner in all respects as if the work had been completed.
 (9) Before considering any application under subsection (2) of this section, the Board may require the person making the application to pay to the Board a reasonable sum for engineering, or other expenses incurred or likely to be incurred in respect of the application.
