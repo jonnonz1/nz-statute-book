@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -2121,7 +2121,7 @@ Every witness giving evidence before the Board has the same privileges and immun
 ### 122 Remuneration and expenses of members
 (1) The remuneration of any member who is a District Court Judge or a Judge of the High Court must, so far as it relates to the Judge's membership of the Board, be determined by the Higher Salaries Commission.
 (2) Every other member must be paid fees and expenses in accordance with the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies.
-(3) A person is not employed in the service of the Crown, for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956, merely as a result of being a member of the Board.
+(3) A person is not employed in the service of the Crown, for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956, merely as a result of being a member of the Board.
 
 ### 123 Immunity of members
 No member is personally liable for any act or omission done in pursuance, or intended pursuance, of the Board's functions, unless the act or omission was done in bad faith.
