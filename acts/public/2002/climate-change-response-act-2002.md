@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -1056,7 +1056,7 @@ The Minister must, no later than 6 months after the date on which the Minister r
 (6) Subsection (5) does not apply in respect of information that is already in the public domain.
 (7) Before publicly disclosing any information received in response to a request, the Minister or Commission must consult with the person to whom the information relates.
 (8) For the purposes of this section and section 5ZX, the following are reporting organisations:
-  (a) the Public Service, as defined in section 27 of the State Sector Act 1988:
+  (a) the public service, as defined in section 10 of the Public Service Act 2020:
   (b) local authorities, as defined in section 5(1) of the Local Government Act 2002:
   (c) council-controlled organisations, as defined in section 6(1) of the Local Government Act 2002:
   (d) Crown entities, as defined in section 7(1) of the Crown Entities Act 2004, but excluding school boards:
@@ -1146,7 +1146,7 @@ The functions of the chief executive are to—
 
 ### 9B Delegation by chief executive
 (1) The chief executive may delegate any of his or her functions, duties, and powers under this Act to the EPA.
-(2) Section 41 of the State Sector Act 1988 applies to a delegation under this section as if the EPA were an employee of the chief executive.
+(2) Clauses 2 and 3 of Schedule 6 of the Public Service Act 2020 applies to a delegation under this section as if the EPA were an employee of the chief executive.
 
 ### Subpart 2 — Registry
 
@@ -1200,7 +1200,7 @@ The Registrar must give effect to any direction (including for the transfer of u
 (4) Any delegation under this section may be to a specified person or to persons of a specified class, or may be to the holder or holders for the time being of a specified office or specified classes of offices.
 (5) Every delegation under this section is revocable in writing at will by the Registrar, and no such delegation prevents the exercise of any function, duty, or power by the Registrar.
 (6) Every delegation under this section, until revoked, continues in force according to its tenor, even if the Registrar by whom it was made has ceased to hold office.
-(7) For the purposes of this section, State services has the same meaning as in section 2 of the State Sector Act 1988.
+(7) For the purposes of this section, State services has the same meaning as in section 5 of the Public Service Act 2020.
 
 **Unit register**
 
@@ -1959,7 +1959,7 @@ For the purpose of reporting to the Secretariat in accordance with international
 (1) The Governor-General may, by Order in Council, make regulations for any or all of the following purposes:
   (a)
   (b) prescribing agencies whose employees may act as inspectors under section 36, being—
-    (i) a Department of the Public Service listed in Schedule 1 of the State Sector Act 1988; or
+    (i) a department as defined in section 5 of the Public Service Act 2020; or
     (ii) a Crown Research Institute within the meaning of the Crown Research Institutes Act 1992:
   (c)
   (ca)
@@ -2702,7 +2702,7 @@ The EPA must apply section 64A as follows:
 ### 87A Delegation by EPA
 (1) The EPA must not delegate its power to appoint the Registrar under section 11.
 (2) In all other respects, section 73 of the Crown Entities Act 2004 applies, except that subsection (1) of that section applies as if paragraph (d) were repealed and the following paragraph substituted:
-  (d) a person, or an office holder in a department of the Public Service, approved by the entity's responsible Minister:
+  (d) a person, or an office holder in a department of the public service, approved by the entity's responsible Minister:
 
 ### 88 Directions to EPA
 (1) The Minister may give general directions to the EPA in relation to the EPA's exercise of powers and performance of functions under the ETS participant provisions or any regulations made under those provisions.
@@ -2804,7 +2804,7 @@ The EPA must apply section 64A as follows:
 
 ### 93 Appointment of enforcement officers
 (1) The EPA may appoint 1 or more persons who are employees of the EPA as enforcement officers to exercise 1 or more of the powers and perform the functions conferred on enforcement officers under this Part (which relate to verification and inquiry about compliance with the ETS participant provisions).
-(2) If the EPA delegates the power to appoint a person as an enforcement officer to the chief executive of a department of the Public Service, the chief executive of the department may appoint a person as an enforcement officer only if the person is employed by a government department, in which case the chief executive must employ the person under the State Sector Act 1988.
+(2) If the EPA delegates the power to appoint a person as an enforcement officer to the chief executive of a department of the public service, the chief executive of the department may appoint a person as an enforcement officer only if the person is employed by a government department, in which case the chief executive must employ the person under the Public Service Act 2020.
 (3) The EPA must supply each enforcement officer with a warrant of authorisation that clearly states the powers and functions of the officer.
 (4) An enforcement officer who exercises, or purports to exercise, a power conferred on the enforcement officer under this Act must carry and produce, if required to do so,—
   (a) his or her warrant of authorisation; and
@@ -3681,7 +3681,7 @@ If an entity ceases to be a member of a consolidated group, the entity—
 ### 161 Appointment and conduct of review panel
 (1) If the Minister appoints a review panel under section 160, the Minister must—
   (a) ensure that there are a minimum of 3 and a maximum of 7 members; and
-  (b) ensure that the majority of the members are not employees under the State Sector Act 1988; and
+  (b) ensure that the majority of the members are not employees under the Public Service Act 2020; and
   (c) consider whether the members have, in the Minister's opinion, the appropriate knowledge, skill, and experience to conduct the review, including knowledge, skill, and experience of—
     (i) this Act; and
     (ii) international climate change obligations and any other relevant international agreement; and
@@ -5591,7 +5591,7 @@ Despite section 25 of the Criminal Procedure Act 2011, the limitation period for
 ### 270 Appointment and conduct of independent panel
 (1) If the Minister appoints an independent panel under section 269, the Minister must—
   (a) ensure that there is no fewer than 3 but not more than 7 members; and
-  (b) ensure that the majority of the members are not employees under the State Sector Act 1988; and
+  (b) ensure that the majority of the members are not employees under the Public Service Act 2020; and
   (c) consider whether the members have, in the Minister's opinion, the appropriate knowledge, skill, and experience to conduct the review, including knowledge, skill, and experience of—
     (i) this Act; and
     (ii) international climate change obligations and any other relevant international agreement; and
