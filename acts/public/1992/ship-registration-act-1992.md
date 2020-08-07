@@ -1,5 +1,5 @@
 # Ship Registration Act 1992
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to provide for the registration of ships in New Zealand and related matters
 
@@ -706,12 +706,12 @@ A caveat entered in the Register in respect of a ship or a share in a ship shall
 ## Part 5 — Administration
 
 ### 61 Registrar of Ships
-(1) There shall from time to time be appointed under the State Sector Act 1988 a Registrar of Ships.
+(1) There shall from time to time be appointed under the Public Service Act 2020 a Registrar of Ships.
 (2) The Registrar shall be responsible for maintaining the New Zealand Register of Ships, and shall have such functions, responsibilities, and duties as are conferred on the Registrar by this Act or any other enactment.
 (3) The Registrar shall have all such powers as may be reasonably necessary to enable the Registrar to carry out the functions, responsibilities, and duties imposed on the Registrar by this Act or any other enactment.
 
 ### 62 Deputy Registrars of Ships
-(1) There may also from time to time be appointed under the State Sector Act 1988 suitable persons to be Deputy Registrars of Ships.
+(1) There may also from time to time be appointed under the Public Service Act 2020 suitable persons to be Deputy Registrars of Ships.
 (2) Unless the Registrar otherwise directs in the case of any Deputy Registrar, every Deputy Registrar shall have and may exercise all the functions, duties, and powers of the Registrar.
 (3) A Deputy Registrar performing or exercising any of the Registrar's functions, duties, or powers shall be presumed to be acting within the terms of his or her authority, in the absence of proof to the contrary.
 
