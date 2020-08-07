@@ -1,5 +1,5 @@
 # Heritage New Zealand Pouhere Taonga Act 2014
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Heritage New Zealand Pouhere Taonga Act 2014.
@@ -1256,7 +1256,7 @@ In this subpart, place—
   (b) a university may, with the consent of the Minister of Education, make any contributions to Heritage New Zealand Pouhere Taonga that it thinks fit.
 (2) In this section, public body means—
   (a) a Minister of the Crown:
-  (b) a department specified in Schedule 1 of the State Sector Act 1988:
+  (b) a public service agency as defined in section 5 of the Public Service Act 2020:
   (c) a Crown entity described in section 7 of the Crown Entities Act 2004 and any other entity declared to be a Crown entity for the purposes of that section:
   (d) the Armed Forces as defined in section 2(1) of the Defence Act 1990.
 
