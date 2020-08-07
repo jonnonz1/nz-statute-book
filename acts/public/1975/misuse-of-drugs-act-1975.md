@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2019-08-13_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -224,7 +224,7 @@ A temporary class drug order is a disallowable instrument but not a legislative 
     (iii) drug and alcohol treatment:
     (iv) psychology:
     (v) community medicine; and
-  (b) up to 3 people employed in the Public Service (as defined in section 27 of the State Sector Act 1988) who between them have appropriate expertise in—
+  (b) up to 3 people employed in the public service (as defined in section 10 of the Public Service Act 2020) who between them have appropriate expertise in—
     (i) public health:
     (ii) the appropriateness and safety of pharmaceuticals and their availability to the public:
     (iii) border control; and
