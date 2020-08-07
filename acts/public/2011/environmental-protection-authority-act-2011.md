@@ -1,5 +1,5 @@
 # Environmental Protection Authority Act 2011
-_Consolidation as at 2017-06-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Environmental Protection Authority Act 2011.
@@ -95,6 +95,7 @@ The functions of the EPA are—
     (i) to provide technical advice to the Government and Crown entities on any matter related to its functions under an environmental Act:
     (ii) to provide administrative assistance (including secretarial services) to a person or group of people appointed by the Minister to provide advice or report on any matter related to its functions under an environmental Act:
     (iia) to provide secretarial and support services to a person appointed under an Act to make a decision requiring the application of provisions of the Resource Management Act 1991 as applied or modified by the Act under which the person is appointed:
+    (iib) to provide support services to an IHP established under Schedule 3 of the Urban Development Act 2020:
     (iii) to contribute to and co-operate with international forums and carry out international obligations related to its functions under an environmental Act.
 
 ### 14 Limitation on power to contract
@@ -164,9 +165,9 @@ A member of the Māori Advisory Committee is entitled, in accordance with the fe
 
 ### 22 Interpretation
 In this Part,—
-  - **collective agreement** has the same meaning as in section 2 of the State Sector Act 1988
+  - **collective agreement** has the same meaning as in section 5 of the Public Service Act 2020
   - **employee** does not include a chief executive
-  - **employment agreement** has the same meaning as in section 2 of the State Sector Act 1988
+  - **employment agreement** has the same meaning as in section 5 of the Public Service Act 2020
   - **former EPA** means the Environmental Protection Authority established by section 42B of the Resource Management Act 1991.
 
 ### Subpart 1 — Disestablishment of Environmental Protection Authority established by Resource Management Act 1991
