@@ -1,5 +1,5 @@
 # Bank of New Zealand Act 1988
-_Consolidation as at 1989-07-31_
+_Consolidation as at 2020-08-07_
 
 > An Act to enable Bank of New Zealand to be constituted as a company incorporated and registered under the Companies Act 1955 and to repeal the Bank of New Zealand Act 1979
 
@@ -28,14 +28,14 @@ This Act shall bind the Crown.
   (b) articles of association in a form which the Minister considers, after consultation with the Bank, to be appropriate:
   (c) a notice of situation of registered office as required by section 115 of the Act.
 (3) Nothing in sections 14, 15, and 25 of the Act shall apply in respect of the memorandum.
-(4) Nothing in sections 20 and 23(1)(c) of the Act shall require the articles to be signed or attested.
+(4) Nothing in sections 20 and 23(1)﻿(c) of the Act shall require the articles to be signed or attested.
 (5) The memorandum and articles of association of the Bank shall be the memorandum and articles delivered to the Registrar under this section.
 (6) Nothing in subsection (5) shall prevent the memorandum and articles being altered, amended, or substituted in accordance with the Act.
 (7) On or before the appointed day the Registrar shall issue a certificate of incorporation in respect of the Bank.
 (8) Without limiting subsection (1) the certificate of incorporation shall be conclusive evidence that the Bank was, on the appointed day, registered as a company under Part 2 of the Act.
 (9) In the application of section 200 of the Act to the Bank—
   (a) nothing in subsection (4) of that section shall be construed to require the return containing the particulars of the directors and secretary to have endorsed on it or be accompanied by, a written consent to act as a director by any person who holds office as a director of the Bank on the appointed day by virtue of this Act; and
-  (b) subsection (5)(a) of that section shall apply as if those directors had been appointed as directors of the Bank on the appointed day.
+  (b) subsection (5)﻿(a) of that section shall apply as if those directors had been appointed as directors of the Bank on the appointed day.
 
 ### 5 Effect of registration under the Act
 (1) Notwithstanding any other enactment or rule of law, from the commencement of the appointed day the Bank shall be deemed to be a company incorporated and registered under Part 2 of the Act and, subject to section 6, the Act shall apply to it accordingly.
@@ -82,7 +82,7 @@ The person or persons holding office as the auditors of the Bank immediately bef
 On and after the appointed day shares in the capital of the Bank shall, for the purposes of the Trustee Act 1956, be investments in which a trustee may invest trust funds.
 
 ### 12 Status of directors and employees of Bank
-No person shall be deemed, on or after the appointed day, to be employed in the Government service for the purposes of the Government Superannuation Fund Act 1956 or in the Public Service for the purposes of the State Sector Act 1988 by reason only of being a director or employee of the Bank or any of its subsidiaries.
+No person shall be deemed, on or after the appointed day, to be employed in the Government service for the purposes of the Government Superannuation Fund Act 1956 or in the public service for the purposes of the Public Service Act 2020 by reason only of being a director or employee of the Bank or any of its subsidiaries.
 
 ### 13 Repeals and savings
 (1) The following enactments are hereby repealed on the appointed day:
