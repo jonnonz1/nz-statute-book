@@ -1,5 +1,5 @@
 # Criminal Proceeds (Recovery) Act 2009
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Criminal Proceeds (Recovery) Act 2009.
@@ -58,7 +58,7 @@ This Act comes into force on 1 December 2009.
       (ii) removing property from New Zealand; and
       (iii) receiving or making a gift of property; and
       (iv) registering an interest in property
-  - **department** has the same meaning as in section 2(1) of the State Sector Act 1988
+  - **department** has the same meaning as in section 5 of the Public Service Act 2020
   - **document** —
     (a) means a document in any form (including, without limitation, a document in an electronic form); and
     (b) includes (without limitation) any of the following:
@@ -827,7 +827,7 @@ If a court makes an instrument forfeiture order, the Official Assignee must, as 
 (1) The Official Assignee may from time to time—
   (a) delegate all or any of the functions and powers conferred or imposed on the Official Assignee by or under this Act to the following persons:
     (i) the Deputy Official Assignee for New Zealand; or
-    (ii) an Official Assignee or Deputy Official Assignee appointed under the State Sector Act 1988; and
+    (ii) an Official Assignee or Deputy Official Assignee appointed under the Public Service Act 2020; and
   (b) delegate all or any of the functions and powers conferred or imposed on the Official Assignee under subpart 7 of Part 2 to any member of the police or any class of member of the police.
 (2) A delegation under subsection (1)—
   (a) must be in writing; and
