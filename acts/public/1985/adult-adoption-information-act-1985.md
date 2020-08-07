@@ -1,5 +1,5 @@
 # Adult Adoption Information Act 1985
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2020-08-07_
 
 > An Act to provide for greater access to information relating to adoptions and to the parties to adoptions by adult adopted persons and their birth parents, and for other related matters
 
@@ -24,7 +24,7 @@ In this Act, unless the context otherwise requires,—
   - **identifying information** , in relation to any person, means that person's name or address; and includes any information that is likely to enable any other person to ascertain that person's name or address
   - **original birth certificate** , in relation to any person, means a birth certificate (within the meaning of the Births, Deaths, Marriages, and Relationships Registration Act 1995) containing information recorded under that Act or a former Act (within the meaning of that Act) relating to the person's birth, bearing on its face the words ISSUED FOR THE PURPOSES OF THE ADULT ADOPTION INFORMATION ACT 1985; and includes any such certificate from which there have been omitted, in accordance with this Act, any details relating to either or both of the person's birth parents
   - **Registrar-General** means the Registrar-General appointed under the Births, Deaths, Marriages, and Relationships Registration Act 1995
-  - **social worker** means a social worker employed as such under Part 5 of the State Sector Act 1988 in the Department; and, in relation to any matter undertaken by one social worker, includes any other social worker dealing with that matter.
+  - **social worker** means a social worker employed in the Department; and, in relation to any matter undertaken by one social worker, includes any other social worker dealing with that matter.
 
 **Access to information**
 
