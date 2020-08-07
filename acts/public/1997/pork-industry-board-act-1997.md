@@ -1,5 +1,5 @@
 # Pork Industry Board Act 1997
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend the Pork Industry Board Act 1982
 
@@ -550,7 +550,7 @@ A licensee of licensed premises who—may recover from the owner of the pig when
 (4) A notice may request information—
   (a) in relation to pigs, pork products, or co-products generally; or
   (b) in relation to pigs, pork products, or co-products of kinds specified in the request.
-(5) Instead of requesting any information under subsection (2), the Board may request it from the person holding office under the State Sector Act 1988 as the chief executive of the department of State referred to in section 268 of the Customs and Excise Act 2018; and in that case (notwithstanding any enactment to the contrary) the chief executive may cause to be supplied to the Board such of that information as is available to the chief executive.
+(5) Instead of requesting any information under subsection (2), the Board may request it from the person holding office under the Public Service Act 2020 as the chief executive of the department of State referred to in section 268 of the Customs and Excise Act 2018; and in that case (notwithstanding any enactment to the contrary) the chief executive may cause to be supplied to the Board such of that information as is available to the chief executive.
 (6) The Board—
   (a) must not publish or disclose to any person any information obtained under this section that enables the identity of the person to whom it relates to be identified, except—
     (i) for the purposes of the performance or exercise of any of the Board's functions or powers under this Act; or
