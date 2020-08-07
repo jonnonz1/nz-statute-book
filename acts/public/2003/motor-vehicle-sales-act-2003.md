@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2020-04-21_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -656,7 +656,7 @@ A search of the register for personal information that has not been carried out 
 **Registrar of Motor Vehicle Traders**
 
 ### 60 Appointment of Registrar of Motor Vehicle Traders
-(1) The chief executive of the Ministry must appoint, under the State Sector Act 1988, a Registrar of Motor Vehicle Traders.
+(1) The chief executive of the Ministry must appoint, under the Public Service Act 2020, a Registrar of Motor Vehicle Traders.
 (2) The person holding office as Registrar of Companies under the Companies Act 1993 immediately before the commencement of this Act must be treated as if that person had been appointed as the Registrar of Motor Vehicle Traders in accordance with this section.
 
 ### 61 Functions of Registrar
@@ -892,7 +892,7 @@ A search of the list for personal information that has not been carried out in a
 
 ### 83 Appointment of adjudicators
 (1) Every adjudicator must be appointed by the Governor-General on the joint recommendation of the Minister and the Minister of Justice.
-(2) No person is to be treated as being employed in the service of the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason only of that person's appointment as an adjudicator.
+(2) No person is to be treated as being employed in the service of the Crown for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason only of that person's appointment as an adjudicator.
 
 ### 84 Term of office of adjudicators
 (1) Except as provided in section 85, every adjudicator—
@@ -1453,9 +1453,9 @@ An adjudicator is responsible for making any arrangements that are practicable t
 ### 3 Administrative support for Disputes Tribunals
 (1) The Chief Executive of the Ministry of Justice must—
   (a) provide secretarial, recording, and any other services that may be necessary to enable each Disputes Tribunal to exercise its functions and powers; and
-  (b) appoint secretaries of the Disputes Tribunal under the State Sector Act 1988 in the numbers that may be required.
+  (b) appoint secretaries of the Disputes Tribunal under the Public Service Act 2020 in the numbers that may be required.
 (2) One person may be appointed secretary of 2 or more Disputes Tribunals under subclause (1)﻿(b).
-(3) The office of secretary may be held either separately or in conjunction with any other office in the Public Service.
+(3) The office of secretary may be held either separately or in conjunction with any other office in the public service.
 
 **Application**
 
