@@ -1,5 +1,5 @@
 # Maori Community Development Act 1962
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to provide for the constitution of Maori Associations, to define their powers and functions, and to consolidate and amend the Maori Social and Economic Advancement Act 1945
 
@@ -24,7 +24,7 @@ In this Act, unless the context otherwise requires,—
 This Act shall be administered by the Minister of Maori Affairs, and the powers conferred by this Act shall be under the general direction and control of the Minister.
 
 ### 4 Community Officers
-For the purposes of this Act there shall be appointed under the State Sector Act 1988 as officers of the Public Service (whether as permanent or temporary officers) and as officers of the Ministry of Maori Development, such Community Officers as may be necessary.
+For the purposes of this Act there shall be appointed under the Public Service Act 2020 as officers of the public service (whether as permanent or temporary officers) and as officers of the Ministry of Maori Development, such Community Officers as may be necessary.
 
 ### 5 Honorary Community Officers
 [Repealed]
@@ -213,9 +213,9 @@ With respect to all money received by a Maori Association, the following provisi
   (d) within 5 months after the end of each financial year, every Maori Association must ensure that financial statements that comply with generally accepted accounting practice are completed in relation to the Maori Association and that financial year:
   (e) every such financial statement must be audited by a qualified auditor appointed by the Maori Association concerned or by some other person approved in that behalf by the chief executive:
   (f) the New Zealand Maori Council and each District Maori Council must submit a copy of its audited financial statements to the chief executive and each Maori Committee and Maori Executive Committee must submit a copy of its audited financial statements to the District Maori Council in whose district it operates.
-(2) The auditor must, in carrying out an audit for the purposes of subsection (1)(e), comply with all applicable auditing and assurance standards.
+(2) The auditor must, in carrying out an audit for the purposes of subsection (1)﻿(e), comply with all applicable auditing and assurance standards.
 (3) The auditor's report must comply with the requirements of all applicable auditing and assurance standards.
-(4) See sections 37 to 39 of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to the audit under subsection (1)(e)).
+(4) See sections 37 to 39 of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to the audit under subsection (1)﻿(e)).
 (5) In this section,—
   - **applicable auditing and assurance standards** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
@@ -257,7 +257,7 @@ A Maori Warden may at any reasonable time enter any licensed premises in any are
 (7) Nothing in this section shall apply in relation to any liquor consumed in any dwellinghouse by persons for the time being resident therein or to any liquor in any licensed premises or shall be deemed to confer upon any constable or Maori Warden the power to enter without warrant any dwellinghouse unless the person in lawful occupation consents to the entry.
 (8) A Maori Committee for any area in which a meeting place is situated may, in respect of the meeting place, issue a written permit for the introduction of intoxicating liquor into the meeting place for the purpose of being consumed therein at any gathering of Maoris other than a gathering for the purposes of a dance. Any such permit shall prescribe the nature and place of the gathering and may contain such conditions as the Maori Committee thinks fit in respect of the supply and the consumption of liquor. A copy of every such permit shall be supplied to the senior constable for the area and the permit shall not have any effect until the copy is so supplied.
 (9) Nothing in this section shall be construed to prevent a penalty being imposed on any person under the Criminal Procedure Act 2011 in respect of an offence committed against section 59 of the Statutes Amendment Act 1939, but no person shall be punished twice for the same offence.
-(10) In subsection (6)(a), medical practitioner means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+(10) In subsection (6)﻿(a), medical practitioner means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
 
 ### 34 Prohibition orders against Maoris
 [Repealed]
