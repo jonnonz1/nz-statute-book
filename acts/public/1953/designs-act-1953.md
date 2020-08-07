@@ -1,5 +1,5 @@
 # Designs Act 1953
-_Consolidation as at 2018-03-14_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend certain enactments relating to designs
 
@@ -35,7 +35,7 @@ _Consolidation as at 2018-03-14_
   (c) a reference in this Act to the Government of a convention country must be read as a reference to the governing body of the entity.
 
 ### 3 Commissioner and Assistant Commissioners of Designs
-(1) The chief executive of the Ministry must appoint, under the State Sector Act 1988,—
+(1) The chief executive of the Ministry must appoint, under the Public Service Act 2020,—
   (a) the Commissioner of Designs; and
   (b) as many Assistant Commissioners of Designs as may be necessary for the purposes of this Act.
 (2) These persons are employees of the Ministry, and those appointments may be held separately or in conjunction with any other office in the Ministry.
