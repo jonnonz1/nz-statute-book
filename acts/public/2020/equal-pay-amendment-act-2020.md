@@ -1,5 +1,5 @@
 # Equal Pay Amendment Act 2020
-_Consolidation as at 2020-08-06_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Equal Pay Amendment Act 2020.
@@ -865,7 +865,7 @@ The following are to be treated as a pay equity claim settlement for the purpose
   (a) a written settlement agreement entered into between 1 or more employers and 1 or more employees or a union representing 1 or more employees before the date on which the amendment Act came into force, if the process undertaken by the parties to reach that settlement involved—
     (i) an assessment of the matters set out in section 13ZD based on comparators identified in accordance with section 13ZE; or
     (ii) a pay equity bargaining process that the parties agreed in writing was suitable and sufficient to settle the claim:
-  (b) a claim settled under the Care and Support Workers (Pay Equity) Settlement Act 2017:
+  (b) a claim settled under the Support Workers (Pay Equity) Settlements Act 2017:
   (c) the settlement of the claim raised by the New Zealand Educational Institute Te Riu Roa Incorporated and others with the Chief Executive of the Ministry of Education in respect of support workers, recorded in the Education Support Workers, Behaviour Support Workers and Communication Support Workers Pay Equity Settlement Agreement dated 1 July 2018:
   (d) the settlement of the claim raised by the New Zealand Educational Institute Te Riu Roa Incorporated with the Secretary for Education in respect of teacher aides, recorded in the Teacher Aide Pay Equity Settlement Agreement dated 12 February 2020.
 
