@@ -1,5 +1,5 @@
 # State Sector Amendment Act 2013
-_Consolidation as at 2015-02-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the State Sector Amendment Act 2013.
@@ -30,18 +30,18 @@ After section 1, insert:Purpose
 
 ### 6 Section 2 amended (Interpretation)
 (1) In section 2, definition of appropriate Minister, after department, insert or departmental agency in each place.
-(2) In section 2, definition of chief executive, after paragraph (a), insert:.
+(2) In section 2, definition of chief executive, after paragraph (a), insert:
   (aa) in relation to a departmental agency, means the person holding office under section 31 as the chief executive of the departmental agency:
-(3) In section 2, replace the definition of Crown entity with:.
+(3) In section 2, replace the definition of Crown entity with:
   - **Crown entity** has the meaning given to it by section 7 of the Crown Entities Act 2004
-(4) In section 2, replace the definition of department with:.
+(4) In section 2, replace the definition of department with:
   - **department** has the meaning given to it by section 27A
 (5) In section 2, definition of employee, paragraph (b),—
   (a) replace — with any chief executive; and
   (b) repeal subparagraph (i).
-(6) In section 2, definition of State services, after paragraph (ab), insert:.
+(6) In section 2, definition of State services, after paragraph (ab), insert:
   (aba) organisations named or described in Schedule 4, and companies named in Schedule 4A, of the Public Finance Act 1989; and
-(7) In section 2, insert in their appropriate alphabetical order:.
+(7) In section 2, insert in their appropriate alphabetical order:
   - **departmental agency** has the meaning given to it by section 27A
   - **host department** has the meaning given to it by section 27A
   - **key position** has the meaning given to it in section 50(2)
@@ -120,7 +120,7 @@ In section 17(2),—
   (b) delete of a department.
 
 ### 16 Section 23 amended (Delegation of functions or powers)
-In section 23(3)(c), replace ; or with ..
+In section 23(3)﻿(c), replace ; or with ..
 
 ### 17 Section 27 replaced (Public Service defined)
 Replace section 27 with:Public Service definedMeaning of department, host department, and departmental agencyRelationship between departments and departmental agencies
@@ -188,7 +188,7 @@ Repeal sections 30C to 30G.
 (4) In section 30I(4), after whose department, insert or departmental agency.
 
 ### 23 Section 30J amended (Application of consequential changes to references)
-(1) In section 30J(1)(a), (2), (3), and (4), replace abolition with disestablishment.
+(1) In section 30J(1)﻿(a), (2), (3), and (4), replace abolition with disestablishment.
 (2) In section 30J(3), replace abolished with disestablished.
 
 ### 24 Section 30K amended (Other saving and transitional matters arising from reorganisations within Public Service)
@@ -234,12 +234,12 @@ Replace section 33 with:Duty to act independently
 ### 30 Section 35 amended (Appointment of chief executives)
 (1) In section 35(1), replace 44, and 91, with and 44.
 (2) In section 35(2), after of a department, insert or departmental agency.
-(3) In section 35(4)(a), after the Commissioner, insert or Deputy Commissioner.
-(4) In section 35(4)(b), after the Deputy Commissioner, insert or an employee of the Commissioner.
+(3) In section 35(4)﻿(a), after the Commissioner, insert or Deputy Commissioner.
+(4) In section 35(4)﻿(b), after the Deputy Commissioner, insert or an employee of the Commissioner.
 (5) After section 35(4), insert:
   (4AA) In relation to a vacancy or an impending vacancy in the position of chief executive of a departmental agency, the panel established under subsection (4) must also include the chief executive of the host department.
 (6) In section 35(4A), delete as constituted under subsection (4).
-(7) In section 35(4B), (5), (9), (10), and (11)(a), replace the Commissioner with the chairperson.
+(7) In section 35(4B), (5), (9), (10), and (11)﻿(a), replace the Commissioner with the chairperson.
 (8) In section 35(5) and (6), replace The Commissioner with The chairperson.
 (9) In section 35(7), (8), (9), (10), and (11), replace the Commissioner's with the chairperson's.
 (10) Repeal section 35(12).
@@ -283,8 +283,8 @@ After section 37, insert:Transfer of chief executives
 
 ### 36 Section 40 amended (Acting chief executive)
 (1) In section 40(1), replace functions, powers, and duties with functions, duties, and powers.
-(2) In section 40(1)(c), after another department, insert or departmental agency.
-(3) In section 40(1)(e), replace an employee with any person.
+(2) In section 40(1)﻿(c), after another department, insert or departmental agency.
+(3) In section 40(1)﻿(e), replace an employee with any person.
 (4) In section 40(1),—
   (a) replace directed with appointed; and
   (b) replace direction with appointment; and
@@ -341,12 +341,12 @@ After section 43(1), insert:
 (1) In section 44(1),—
   (a) replace 43, and 91 with and 43; and
   (b) replace apply with applies.
-(2) Repeal section 44(1)(a), (b), and (c).
+(2) Repeal section 44(1)﻿(a), (b), and (c).
 (3) After section 44(1), insert:
   (1A) Nothing in sections 35, 36, 38, and 39 applies in respect of the Solicitor-General, and a review of the Solicitor-General's performance under section 43—
     (a) must only pertain to the Solicitor-General's responsibilities as the chief executive of a department; and
     (b) must not pertain to the performance of the independent and constitutional functions of the Solicitor-General or the performance of persons assisting the Solicitor-General in the performance of those functions.
-(4) Repeal section 44(2)(d).
+(4) Repeal section 44(2)﻿(d).
 
 ### 40 Sections 46 to 48 replaced
 Replace sections 46 to 48 with:ObjectResponsibilities of CommissionerResponsibilities of chief executives
@@ -364,17 +364,17 @@ Replace section 49(1) with:
 ### 42 Section 50 replaced (Other organisations in State services)
 Replace section 50 with:Key positions in Public Service
   (1) After consulting the chief executive of a department or departmental agency, the Commissioner may designate a position in the department or departmental agency that meets the criteria in subsection (2) as a key position.
-  (2) For the purposes of this section and section 33(2)(a), key position means a position in a department or departmental agency that, in the opinion of the Commissioner, is key—
+  (2) For the purposes of this section and section 33(2)﻿(a), key position means a position in a department or departmental agency that, in the opinion of the Commissioner, is key—
     (a) because of its potential to develop senior leaders; or
     (b) because it is critical to the Public Service.
   (3) The Commissioner must publish a list of key positions on an Internet site maintained by or on behalf of the Commissioner.
   (4) A chief executive may only appoint an employee to a key position with the Commissioner's agreement.
 
 ### 43 Part 5 heading replaced
-Replace the Part 5 heading with:Government workforce policy and personnel provisions.
+Replace the Part 5 heading with:Government workforce policy and personnel provisions
 
 ### 44 New subpart 1 of Part 5 and subpart 2 of Part 5 heading inserted
-After the Part 5 heading, insert:Government workforce policyCommissioner's functions in relation to this subpartGovernment workforce policyGovernment Workforce Policy Statement: processGovernment Workforce Policy Statement: implementationPersonnel provisions.
+After the Part 5 heading, insert:Government workforce policyCommissioner's functions in relation to this subpartGovernment workforce policyGovernment Workforce Policy Statement: processGovernment Workforce Policy Statement: implementationPersonnel provisions
   The Commissioner has the following functions in relation to this subpart:
     (a) to provide advice and guidance to the State services (except Crown Research Institutes and their subsidiaries) on workforce matters; and
     (b) to consider whether to draft and submit draft government workforce policy for ministerial approval as a Government Workforce Policy Statement; and
@@ -403,16 +403,16 @@ After the Part 5 heading, insert:Government workforce policyCommissioner's funct
     (b) determine or alter the content of the law applying to employees or chief executives or the Commissioner.
 
 ### 45 Section 56 amended (General principles)
-In section 56(2)(c), after appointment, insert (except in the case of ministerial staff).
+In section 56(2)﻿(c), after appointment, insert (except in the case of ministerial staff).
 
 ### 46 Section 57 amended (Commissioner may set minimum standards of integrity and conduct)
-(1) In section 57(1)(b), after Crown entities, insert (except for tertiary education institutions and Crown Research Institutes and any of their subsidiaries).
-(2) After section 57(1)(b), insert:.
+(1) In section 57(1)﻿(b), after Crown entities, insert (except for tertiary education institutions and Crown Research Institutes and any of their subsidiaries).
+(2) After section 57(1)﻿(b), insert:
   (ba) companies named in Schedule 4A of the Public Finance Act 1989:
 (3) Replace section 57(3) with:
   (3) The Commissioner may apply a code to any agency or agencies referred to in subsection (1), or to any particular persons or groups of persons undertaking particular functions in such an agency or agencies, with any variations that the Commissioner thinks appropriate in light of the legal, commercial, or operational context of the agency or agencies or of the persons or groups of persons.
   (4) The Commissioner's functions include providing advice and guidance to the State services (except Crown Research Institutes and their subsidiaries) on matters, or at times, that affect the integrity and conduct of those within the State services (including, for example, on the interpretation of relevant standards and on the application of a code of conduct in specific cases).
-(4) After section 57(4), insert:1988 No 20 ss 6(ha), 57C(2).
+(4) After section 57(4), insert:1988 No 20 ss 6(ha), 57C(2)
 
 ### 47 Section 57A amended (Agencies must comply with minimum standards except in particular circumstances)
 In section 57A(1), after employees, insert and individuals working as contractors or secondees in relation to a function, duty, or power of the agency.
@@ -424,7 +424,7 @@ Repeal section 57C(2).
 (1) After the heading to section 58, insert:
   (1) The Commissioner's functions include promoting, developing, and monitoring equal employment opportunities programmes and policies for the Public Service.
 (2) In section 58(3), after For the purposes of, insert this section and.
-(3) After section 58(3), insert:1988 No 20 s 6(g).
+(3) After section 58(3), insert:1988 No 20 s 6(g)
 
 ### 50 Section 59 replaced (Employees of departments)
 Replace section 59 with:Employees of departments
@@ -434,16 +434,16 @@ Replace section 59 with:Employees of departments
     (c) has, except as expressly provided to the contrary in this Act, the rights, powers, and duties of an employer in respect of the employees of the department.
   (2) In relation to employees of a host department who perform the functions or duties or exercise the powers of a departmental agency, the chief executive of the host department is deemed by this subsection—
     (a) to have delegated to the chief executive of the departmental agency the following rights, duties, and powers:
-      (i) those described in subsection (1)(a), (b), and (c) and section 69(a) and (c); and
+      (i) those described in subsection (1)﻿(a), (b), and (c) and section 69(a) and (c); and
       (ii) those described in sections 60 to 64; and
       (iii) those described in sections 82 and 83; and
     (b) not to have those rights, duties, and powers in relation to those employees.
   (3) The chief executive of a departmental agency may exercise the rights, duties, and powers deemed to have been delegated to him or her under subsection (2) in the same manner, subject to the same restrictions, and with the same effect as if they had been conferred on him or her directly by this Act and not by delegation.
-  (4) Appointments under subsection (1)(a) or (2)(a)(i) (except of ministerial staff) are provisional pending the outcome of any review under section 65.
+  (4) Appointments under subsection (1)﻿(a) or (2)﻿(a)﻿(i) (except of ministerial staff) are provisional pending the outcome of any review under section 65.
   (5) The chief executive of the department that is responsible for the employment of ministerial staff across all Ministers' offices must have regard to the wishes of the relevant Minister in relation to ministerial staff.
 
 ### 51 Sections 61A and 61B replaced
-Replace sections 61A and 61B with:Restriction of redundancy payments in certain situations1988 No 20 ss 30E, 30F, 61A, 61B(1)Transitional provision relating to restriction of redundancy paymentsApplication of employee provisions to transfers of functions between Crown entities and departments1988 No 20 s 30D.
+Replace sections 61A and 61B with:Restriction of redundancy payments in certain situations1988 No 20 ss 30E, 30F, 61A, 61B(1)Transitional provision relating to restriction of redundancy paymentsApplication of employee provisions to transfers of functions between Crown entities and departments1988 No 20 s 30D
   (1) A Public Service employee who has received a notice of redundancy is not entitled to a redundancy payment if, before the employee's employment has ended, the employee either—
     (a) is offered and accepts another position in the State services (either in the employee's current department or elsewhere in the State services) that—
       (i) begins before, on, or immediately after the date on which the employee's current employment ends; and
@@ -475,7 +475,7 @@ Replace sections 61A and 61B with:Restriction of redundancy payments in certain 
 In section 61C, replace abolition with disestablishment.
 
 ### 53 New section 61D inserted (Application of collective agreements to employees following reorganisations)
-After section 61C, insert:Application of collective agreements to employees following reorganisations1988 No 20 s 30G.
+After section 61C, insert:Application of collective agreements to employees following reorganisations1988 No 20 s 30G
   (1) This section limits which employees may be bound by a collective agreement that—
     (a) binds the chief executive of Department A before a transfer of functions from Department A to Department B and that, as a consequence of sections 30H and 30I, binds the chief executive of Department B after that transfer of functions (collective agreement A); or
     (b) binds the chief executive of Department B before that transfer of functions (collective agreement B).
