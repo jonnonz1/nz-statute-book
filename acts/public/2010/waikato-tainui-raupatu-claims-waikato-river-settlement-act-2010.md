@@ -1,5 +1,5 @@
 # Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010
-_Consolidation as at 2017-04-19_
+_Consolidation as at 2020-08-07_
 
 ## Preamble
 The Relationship of Waikato-Tainui with the Waikato River
@@ -117,7 +117,7 @@ The purpose of this Act is to—
     (c) a State enterprise; and
     (d) a company that is wholly owned by a Crown entity or a State enterprise
   - **Crown entity** has the meaning given to it by the Crown Entities Act 2004
-  - **department** has the meaning given to it by the State Sector Act 1988
+  - **department** has the meaning given to it by the Public Service Act 2020
   - **financial year** has the meaning given to it by the Public Finance Act 1989
   - **joint management agreement** means an agreement to which sections 41 to 55 apply
   - **Kiingitanga Accord** means the collateral deed between the Crown and Waikato-Tainui dated 22 August 2008
