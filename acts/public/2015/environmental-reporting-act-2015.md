@@ -1,5 +1,5 @@
 # Environmental Reporting Act 2015
-_Consolidation as at 2016-06-27_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Environmental Reporting Act 2015.
@@ -33,7 +33,7 @@ In this Act, unless the context otherwise requires,—
   (a) means the domain composed of water in all its physical forms; and
   (b) includes the animals, vegetation, and structures associated with the freshwater domain; and
   (c) does not include atmospheric water or water that forms part of the marine domain
-  - **Government Statistician** means the Government Statistician appointed under the State Sector Act 1988
+  - **Government Statistician** means the Government Statistician appointed under the Public Service Act 2020
   - **impact category** means the matters that may be impacted upon by the state of the environment or changes to the state of the environment, as listed in sections 8(1)﻿(c) and 11(1)﻿(c)
   - **land domain** —
     (a) means the domain composed of soil and underlying rock; and
