@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Act 2000
-_Consolidation as at 2018-10-31_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Act 2000.
@@ -71,7 +71,7 @@ In order to recognise and respect the principles of the Treaty of Waitangi, and 
   - **Crown entity subsidiary** has the meaning set out in the second column of section 7(1)﻿(c) of the Crown Entities Act 2004
   - **Crown funding agreement** has the meaning given to it by section 10
   - **DHB** means an organisation established as a DHB by or under section 19
-  - **Director-General** means the chief executive or acting chief executive under the State Sector Act 1988 of the Ministry of Health
+  - **Director-General** means the chief executive or acting chief executive under the Public Service Act 2020 of the Ministry of Health
   - **disability support advisory committee** means a committee established under section 35
   - **disability support services** includes goods, services, and facilities—
     (a) provided to people with disabilities for their care or support or to promote their inclusion and participation in society, and independence; or
@@ -91,7 +91,7 @@ In order to recognise and respect the principles of the Treaty of Waitangi, and 
   - **inquiry board** has the meaning specified in section 72(1)
   - **Maori** , in sections 29(4), 34, 35, and 36, and clause 38(2) of Schedule 3, means a person of the Maori race of New Zealand, and includes any descendant of such a person
   - **Minister** means the Minister of Health
-  - **Ministry of Health** means the department of the Public Service referred to by that name
+  - **Ministry of Health** means the department of the public service referred to by that name
   - **monitor** , in relation to a Crown funding agreement and in relation to the functions specified in section 23(1)﻿(i) and in section 25,—
     (a) means to analyse on the basis of information provided under any relevant agreement and any other relevant substantiated information; and
     (b) includes assessing the timeliness of provision of information required to be provided under any agreement
@@ -1821,7 +1821,7 @@ The following provisions apply when all or any part of a meeting of a board is r
 **Employees of DHBs**
 
 ### 44 Employees of DHBs
-(1) The terms and conditions of employment of a chief executive of a DHB appointed by its board are to be determined by agreement between the board and the chief executive, except that the board must not finalise those terms and conditions, or agree to any amendments to any or all of those terms and conditions once they have been finalised, without first obtaining the consent of the State Services Commissioner.
+(1) The terms and conditions of employment of a chief executive of a DHB appointed by its board are to be determined by agreement between the board and the chief executive, except that the board must not finalise those terms and conditions, or agree to any amendments to any or all of those terms and conditions once they have been finalised, without first obtaining the consent of the Public Service Commissioner.
 (2) The individual for the time being acting in the position of chief executive of a DHB may enter into a collective agreement on behalf of the DHB with any or all employees of the DHB, except that that individual must not finalise any such collective agreement without first consulting the Director-General on the terms and conditions of any such collective agreement.
 (3) The Governor-General may, by Order in Council,—
   (a) exempt any DHB, or any DHB specified in the order, from the requirement to consult in subclause (2); or
@@ -2449,7 +2449,7 @@ Section 66 of the Crown Entities Act 2004 does not apply to a person who is inte
 
 ### 29 Employees
 (1)
-(2) The terms and conditions of employment of a chief executive appointed by an organisation are determined by agreement between the board of the organisation and the chief executive, but the board must not finalise those terms and conditions, or agree to any amendments to any or all of those terms and conditions once they have been finalised, without first obtaining the consent of the State Services Commissioner.
+(2) The terms and conditions of employment of a chief executive appointed by an organisation are determined by agreement between the board of the organisation and the chief executive, but the board must not finalise those terms and conditions, or agree to any amendments to any or all of those terms and conditions once they have been finalised, without first obtaining the consent of the Public Service Commissioner.
 (3) The individual for the time being acting in the position of chief executive of an organisation may enter into a collective agreement on behalf of the organisation with any or all employees of the organisation, except that that individual must not finalise any such collective agreement without first consulting the Director-General on the terms and conditions of any such collective agreement.
 (4) The Governor-General may, by Order in Council,—
   (a) exempt any organisation, or any organisation specified in the order, from the requirement to consult in subclause (3); or
