@@ -1,5 +1,5 @@
 # Ministry of Maori Development Act 1991
-_Consolidation as at 1991-12-19_
+_Consolidation as at 2020-08-07_
 
 > An Act to make provision in relation to the establishment of the Ministry of Maori Development and to abolish the Iwi Transition Agency and the Ministry of Maori Affairs
 
@@ -10,7 +10,7 @@ _Consolidation as at 1991-12-19_
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
   - **Maori** means a person of the Maori race of New Zealand; and includes a descendant of any such person
-  - **Ministry of Maori Development** means the Ministry of Maori Development that, by virtue of the State Sector Order 1991, becomes, on 1 January 1992, a department of the Public Service.
+  - **Ministry of Maori Development** means the Ministry of Maori Development that, by virtue of the State Sector Order 1991, becomes, on 1 January 1992, a department of the public service.
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
@@ -40,7 +40,7 @@ The name of the Ministry of Maori Development is, in the Maori language, Te Puni
 (2) For the purposes of every enactment, law, award, determination, contract, and agreement at any time relating to the employment of a person who, by virtue of paragraph (a) of subsection (1), becomes a person employed in the Ministry of Maori Development,—
   (a) the contract of employment that applied immediately before 1 January 1992 in respect of that person's employment in the Iwi Transition Agency or the Ministry of Maori Affairs shall be deemed not to have been broken by that person having so become a person employed in the Ministry of Maori Development; and
   (b) any period recognised by the chief executive of the Iwi Transition Agency or the chief executive of the Ministry of Maori Affairs as continuous service in the Iwi Transition Agency or the Ministry of Maori Affairs shall be deemed to have been a period of continuous service in the Ministry of Maori Development.
-(3) No person who becomes, by virtue of subsection (1)(a), a person employed in the Ministry of Maori Development shall be entitled to any payment or other benefit by reason only of that person having ceased to be a person employed in the Iwi Transition Agency or the Ministry of Maori Affairs.
+(3) No person who becomes, by virtue of subsection (1)﻿(a), a person employed in the Ministry of Maori Development shall be entitled to any payment or other benefit by reason only of that person having ceased to be a person employed in the Iwi Transition Agency or the Ministry of Maori Affairs.
 
 ### 8 Abolition of Iwi Transition Agency and Ministry of Maori Affairs
 The Iwi Transition Agency and the Ministry of Maori Affairs are hereby abolished.
