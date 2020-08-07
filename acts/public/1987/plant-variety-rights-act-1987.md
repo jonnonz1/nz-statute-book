@@ -1,5 +1,5 @@
 # Plant Variety Rights Act 1987
-_Consolidation as at 2020-01-13_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend the law relating to the granting of proprietary rights in respect of plant varieties
 
@@ -293,7 +293,7 @@ Where any person has appealed against any decision of the Commissioner, the oper
   - **person acting judicially** means any person having in New Zealand by law authority to hear, receive, and examine evidence.
 
 ### 30 Commissioner, Assistant Commissioners, and officers
-(1) There may from time to time be appointed under the State Sector Act 1988—
+(1) There may from time to time be appointed under the Public Service Act 2020—
   (a) a Commissioner of Plant Variety Rights:
   (b) 1 or more Assistant Commissioners of Plant Variety Rights, who shall be under the control and direction of the Commissioner.
 (2) All persons appointed under subsection (1) shall be officers or employees of the Ministry, and any such appointment under that subsection may be held either separately or in conjunction with any other office in the Ministry.
@@ -305,7 +305,7 @@ Where any person has appealed against any decision of the Commissioner, the oper
 
 ### 32 Advisory and technical committees, and technical advisors
 (1) The Secretary may from time to time appoint advisory or technical committees of 1 or more persons as the Secretary thinks fit to advise or assist the Commissioner for such purposes and during such periods as the Secretary thinks desirable.
-(2) A person may be appointed to be a member of any committee appointed under this section whether or not that person is an officer or employee of the Ministry or otherwise holds an appointment under the State Sector Act 1988.
+(2) A person may be appointed to be a member of any committee appointed under this section whether or not that person is an officer or employee of the Ministry or otherwise holds an appointment under the Public Service Act 2020.
 (3) Any person appointed under subsection (1) who has an interest directly or indirectly connected with any application or matter to be considered by the committee of which that person is a member shall, as soon as is possible after the relevant facts have come to that person's knowledge, disclose the nature of that interest to the Commissioner and, except as otherwise allowed by the Commissioner, shall not take part after the disclosure in any deliberation or decision relating to that application or matter.
 (4) The Secretary may appoint, or may authorise the Commissioner to appoint, persons who are not officers or employees of the Ministry as technical advisors to assist the Commissioner in carrying out any tests or trials that the Commissioner considers necessary for the purposes of this Act or in assessing the results of any tests or trials (whether carried out by the Commissioner or not) that the Commissioner considers relevant to those purposes.
 (5) The Secretary may, from money appropriated by Parliament for the purpose, pay to the member or members of any committee, or to any technical advisor, appointed under this section such fees, salary, allowances, and expenses as the Minister from time to time approves.
