@@ -1,5 +1,5 @@
 # Environment Act 1986
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2020-08-07_
 
 > An Act to—aprovide for the establishment of the office of Parliamentary Commissioner for the Environment:bprovide for the establishment of the Ministry for the Environment:censure that, in the management of natural and physical resources, full and balanced account is taken of—ithe intrinsic values of ecosystems; andiiall values which are placed by individuals and groups on the quality of the environment; andiiithe principles of the Treaty of Waitangi; andivthe sustainability of natural and physical resources; andvthe needs of future generations
 
@@ -79,7 +79,7 @@ The Commissioner shall not be capable of being a member of Parliament or of a lo
 (2) The salary of the Commissioner shall not be diminished during the continuance of the Commissioner's appointment.
 (3) Notwithstanding anything in subsection (1), there shall be paid to the Commissioner, in respect of time spent in travelling in the exercise of the Commissioner's functions, travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if the Commissioner were a member of a statutory board and the travelling were in the service of a statutory board.
 (4) The Commissioner shall be entitled to such annual leave, sick leave, and other leave as may be determined by the Speaker of the House of Representatives.
-(5) The Commissioner shall not be regarded as being employed in the service of Her Majesty for the purposes of the State Sector Act 1988 by reason of appointment as the Commissioner.
+(5) The Commissioner shall not be regarded as being employed in the service of Her Majesty for the purposes of the Public Service Act 2020 by reason of appointment as the Commissioner.
 
 ### 10 Oath to be taken by Commissioner
 (1) Before entering upon the exercise of the duties of office the Commissioner shall take an oath that he or she will faithfully and impartially perform the duties of the office, and will not, except for the purposes of this Act, divulge any information received by the Commissioner under this Act.
@@ -89,7 +89,7 @@ The Commissioner shall not be capable of being a member of Parliament or of a lo
 (1) The Commissioner may from time to time appoint such employees as may be necessary for the efficient carrying out of the Commissioner's functions, powers, and duties under this Act.
 (2) The Commissioner is responsible for negotiating, under the Employment Relations Act 2000, every employment agreement applicable to employees appointed under this section.
 (3) The Commissioner shall operate a personnel policy that complies with the principle of being a good employer.
-(4) No person so employed shall be deemed to be employed in the service of Her Majesty for the purposes of the State Sector Act 1988 by reason of that person's appointment under this section.
+(4) No person so employed shall be deemed to be employed in the service of Her Majesty for the purposes of the Public Service Act 2020 by reason of that person's appointment under this section.
 
 ### 12 Secondment of State servants to office of Commissioner
 [Repealed]
@@ -144,7 +144,7 @@ The Commissioner shall have such powers as may be necessary to enable the Commis
 ### 19 Power to obtain information
 (1) The Commissioner may from time to time require any person who in the Commissioner's opinion is able to give any information relating to any matter which is being investigated or inquired into by the Commissioner to furnish to the Commissioner any such information and to produce any documents or papers or things which in the Commissioner's opinion relate to any such matter and which may be in the possession or under the control of that person.
 (2) The Commissioner may summon before the Commissioner and examine on oath any person who in the Commissioner's opinion is able to give any such information, and for that purpose may administer an oath. Every such examination by the Commissioner shall be deemed to be a judicial proceeding within the meaning of section 108 of the Crimes Act 1961 (which relates to perjury).
-(3) Any person who is bound by the provisions of any enactment (other than the State Sector Act 1988 and the Official Information Act 1982) to maintain secrecy in relation to any matter or not to disclose any matter shall not be required to—if compliance with the requirement would be in breach of the obligation of secrecy or non-disclosure.
+(3) Any person who is bound by the provisions of any enactment (other than the Public Service Act 2020 and the Official Information Act 1982) to maintain secrecy in relation to any matter or not to disclose any matter shall not be required to—if compliance with the requirement would be in breach of the obligation of secrecy or non-disclosure.
   (a) supply any information to the Commissioner; or
   (b) answer any question put by the Commissioner; or
   (c) produce any document, paper, or thing to the Commissioner—
@@ -233,10 +233,10 @@ Except as otherwise provided in this Part, all salaries and allowances and other
 (2) The Ministry shall be under the control of the Minister.
 
 ### 29 Secretary for the Environment
-There shall from time to time be appointed, under the State Sector Act 1988, a Secretary for the Environment who shall be the administrative head of the Ministry and who shall advise and assist the Minister in the performance of the Minister's functions.
+There shall from time to time be appointed, under the Public Service Act 2020, a Secretary for the Environment who shall be the administrative head of the Ministry and who shall advise and assist the Minister in the performance of the Minister's functions.
 
 ### 30 Other officers and employees of Ministry
-There shall from time to time be appointed, under the State Sector Act 1988, such other officers and employees of the Ministry as may be necessary for the efficient carrying out of the functions of the Ministry.
+There shall from time to time be appointed, under the Public Service Act 2020, such other officers and employees of the Ministry as may be necessary for the efficient carrying out of the functions of the Ministry.
 
 ### 31 Functions of Ministry
 The Ministry shall have the following functions:
@@ -267,7 +267,7 @@ In carrying out the Ministry's functions, every officer and employee of the Mini
 (5) There may, if the Minister so directs, be paid to any member of a committee, out of money appropriated by Parliament for the purpose,—and the provisions of that Act shall apply accordingly.
   (a) remuneration by way of fees, salary, or allowances in accordance with the Fees and Travelling Allowances Act 1951; and
   (b) travelling allowances and travelling expenses in accordance with that Act in respect of time spent travelling in the service of such committee—
-(6) No person shall, by reason only of being a member of a committee, be regarded as being employed in the State services for the purposes of the State Sector Act 1988 or in the Government service for the purposes of the Government Superannuation Fund Act 1956.
+(6) No person shall, by reason only of being a member of a committee, be regarded as being employed in the State services for the purposes of the Public Service Act 2020 or in the Government service for the purposes of the Government Superannuation Fund Act 1956.
 
 ### 34 Annual report
 [Repealed]
