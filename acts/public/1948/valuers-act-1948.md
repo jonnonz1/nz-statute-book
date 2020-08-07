@@ -1,5 +1,5 @@
 # Valuers Act 1948
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to make provision for the registration of land valuers, to constitute the New Zealand Institute of Valuers, and for matters incidental thereto
 
@@ -17,7 +17,7 @@ In this Act, unless the context otherwise requires,—
   - **registered valuer** means any valuer for the time being registered under this Act
   - **Registrar** means the Registrar of the Board appointed under this Act
   - **valuer** means a valuer of land
-  - **Valuer-General** means the Valuer-General appointed under the State Sector Act 1988.
+  - **Valuer-General** means the Valuer-General appointed under the Public Service Act 2020.
 
 **Valuers Registration Board**
 
@@ -53,7 +53,7 @@ Except as expressly provided in this Act or in regulations made under this Act, 
 (2) Except as provided in this section, no member of the Board shall be entitled to receive any remuneration or other payment out of the funds of the Board.
 
 ### 8 Registrar of the Board
-There shall be appointed as an officer of the Public Service a Registrar of the Board to assist the Board in the efficient carrying out of its functions under this Act. The Registrar so appointed shall also be the secretary of the Board. The office of Registrar of the Board may be held either separately or in conjunction with any other office in the Public Service.
+There shall be appointed as an officer of the public service a Registrar of the Board to assist the Board in the efficient carrying out of its functions under this Act. The Registrar so appointed shall also be the secretary of the Board. The office of Registrar of the Board may be held either separately or in conjunction with any other office in the public service.
 
 **New Zealand Institute of Valuers**
 
