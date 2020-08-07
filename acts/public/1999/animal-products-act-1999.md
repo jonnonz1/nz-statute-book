@@ -1,5 +1,5 @@
 # Animal Products Act 1999
-_Consolidation as at 2020-03-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
 
@@ -761,7 +761,7 @@ The object of this Part is to provide for regulated control schemes which are sp
 (6) Before making an order under this section, the Minister must ensure that such consultation as is reasonable and practicable in the circumstances has been undertaken, but section 163 does not apply to an order under this section.
 (7) In the case of inconsistency between a Ministerial order under this section and any other regulated control scheme, the Ministerial order prevails.
 (8) A Ministerial order may be amended in the same manner as it was made.
-(9) Despite anything in section 28 of the State Sector Act 1988, the Minister may not delegate to any other person the power to make orders under this section, or to extend or revoke such orders.
+(9) Despite anything in clause 5 of Schedule 6 of the Public Service Act 2020, the Minister may not delegate to any other person the power to make orders under this section, or to extend or revoke such orders.
 (10) An order made under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ## Part 4 — Animal product standards
@@ -826,7 +826,7 @@ Standards set under this Part may apply in respect of any class or description o
 (6) Before making an order under this section, the Minister must ensure that such consultation as is reasonable and practicable in the circumstances has been undertaken, but section 163 does not apply to an order under this section.
 (7) In the case of inconsistency between a Ministerial order under this section and any animal product standard or supplementary notice, the Ministerial order prevails.
 (8) A Ministerial order may be amended in the same manner as it was made.
-(9) Despite anything in section 28 of the State Sector Act 1988, the Minister may not delegate to any other person the power to make orders under this section, or to extend or revoke such orders.
+(9) Despite anything in clause 5 of Schedule 6 of the Public Service Act 2020, the Minister may not delegate to any other person the power to make orders under this section, or to extend or revoke such orders.
 (10) An order made under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ## Part 5 — Export of animal material and products
@@ -1323,15 +1323,15 @@ A person who is subject to verification requirements under this Act must—
 
 ### 78 Appointment of animal product officers
 (1) The Director-General may from time to time appoint persons as animal product officers for the purposes of this Act.
-(2) Persons appointed under subsection (1) must be employed under the State Sector Act 1988.
+(2) Persons appointed under subsection (1) must be employed under the Public Service Act 2020.
 (3) An animal product officer may be authorised, on his or her appointment, to exercise all of the powers and functions conferred on animal product officers under this Act, or only those powers and functions specified in the officer's instrument of appointment or subsequent written notice from the Director-General to the officer.
 
 ### 79 Appointment of official assessors
-(1) The Director-General may from time to time appoint official assessors for the purpose of carrying out such routine examinations of animal material and products as may be required for the purposes of this Act, and particularly for the purpose of enabling official assurances to be given under this Act. Persons appointed under this subsection must be employed under the State Sector Act 1988.
+(1) The Director-General may from time to time appoint official assessors for the purpose of carrying out such routine examinations of animal material and products as may be required for the purposes of this Act, and particularly for the purpose of enabling official assurances to be given under this Act. Persons appointed under this subsection must be employed under the Public Service Act 2020.
 (2) The Minister may from time to time appoint as official assessors for the purposes of this Act persons employed in a State enterprise within the meaning of the State-Owned Enterprises Act 1986 or in a Crown entity as defined in the Public Finance Act 1989, for the purpose of carrying out routine examinations of animal material and products for the purposes of this Act, and particularly for the purpose of enabling official assurances to be given under this Act.
 (2A) A person must not be appointed as an official assessor unless the person has the competencies, qualifications, and experience, and meets any other prerequisites for appointment, set out in the regulations or any supplementary notice or by the Director-General by notice under section 167(1).
 (3) An official assessor may be authorised, on his or her appointment, to exercise all of the powers and functions conferred on official assessors under this Act, or only those powers and functions specified in the assessor's instrument of appointment or subsequent written notice from the Director-General to the assessor.
-(4) No person is to be treated as employed in the State services for the purposes of the State Sector Act 1988, or in the Government service for the purposes of the Government Superannuation Fund Act 1956, by reason only of the person's appointment under subsection (2).
+(4) No person is to be treated as employed in the State services for the purposes of the Public Service Act 2020, or in the Government service for the purposes of the Government Superannuation Fund Act 1956, by reason only of the person's appointment under subsection (2).
 (5) The Minister may suspend or revoke an appointment made under this section.
 
 **Powers of Director-General**
@@ -1448,7 +1448,7 @@ The Director-General may issue notices under section 167.
 (7) Nothing in this section affects the power of the Director-General to issue a statement of a kind referred to in section 84.
 
 ### 86 Delegation by Director-General
-The Director-General may delegate under section 41 of the State Sector Act 1988 all or any of his or her functions, powers, or duties under this Act.
+The Director-General may delegate under clauses 2 and 3 of Schedule 6 of the Public Service Act 2020 all or any of his or her functions, powers, or duties under this Act.
 
 **Powers of animal product officers**
 
@@ -1625,7 +1625,7 @@ Subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012
 **General provisions**
 
 ### 98 Protection of persons acting under authority of Act, etc
-No animal product officer, official assessor, recognised person employed under the State Sector Act 1988, or any person called on to assist an officer, official assessor, or recognised person who does any act or omits to do any act in pursuance of any of the functions or powers conferred on that officer, assessor, or person by or under this Act is under any civil or criminal liability in respect of that act or omission, unless the officer, assessor, or person has acted, or omitted to act, in bad faith or without reasonable cause.
+No animal product officer, official assessor, recognised person employed under the Public Service Act 2020, or any person called on to assist an officer, official assessor, or recognised person who does any act or omits to do any act in pursuance of any of the functions or powers conferred on that officer, assessor, or person by or under this Act is under any civil or criminal liability in respect of that act or omission, unless the officer, assessor, or person has acted, or omitted to act, in bad faith or without reasonable cause.
 
 ## Part 8 — Recognised agencies, persons, and classes of persons
 
@@ -1689,7 +1689,7 @@ In this Part,—
 ### 104 Recognition of certain persons without application
 (1) The Director-General may, without receiving an application under section 103(1), recognise any of the following natural persons to carry out specified functions and activities:
   (a) any officer or employee of the Ministry:
-  (b) any officer or employee of any department of the public service listed in Schedule 1 of the State Sector Act 1988.
+  (b) any officer or employee of any department as defined in section 5 of the Public Service Act 2020.
 (2) Section 103(2) and (3) apply to subsection (1) accordingly, with all necessary modifications.
 
 ### 105 Recognition of classes of persons
@@ -1935,7 +1935,7 @@ A suspension under section 112J or an extension of a suspension under section 11
   (d) the agency or person has ceased to operate as a recognised agency or a recognised person; or
   (e) the agency or person has continued to fail to pay an ongoing recognition fee, charge, or levy after the agency's or person's recognition has been suspended on the ground set out in section 112J(1)﻿(d); or
   (f) the agency or person has failed to comply with or maintain any criteria or competencies that led to the recognition of the agency or person; or
-  (g) the agency is no longer the appropriate agency to hold the recognition, but only if the agency is, or is within, the Ministry or a department of the public service listed in Schedule 1 of the State Sector Act 1988.
+  (g) the agency is no longer the appropriate agency to hold the recognition, but only if the agency is, or is within, the Ministry or a department as defined in section 5 of the Public Service Act 2020.
 (2) However, before withdrawing recognition, the Director-General must consult the agency or person in accordance with section 112X about the proposed withdrawal of recognition, unless the agency is, or is within, the Ministry or the person is within the Ministry.
 (3) The notification given to the agency or person in accordance with section 112X(a)﻿(i) must—
   (a) specify the grounds for the proposed withdrawal; and
@@ -2415,7 +2415,7 @@ In any proceedings for an offence against this Act relating to the sale of anima
     (x) a specified document was or was not a copy of a notice or direction given under this Act; or
     (xi) a specified document was a copy of an extract from a register or listing kept under this Act; or
     (xii) a specified identification, differentiation, or security system or device was or was not specified or approved under section 158:
-  (b) a certificate purporting to be signed by any person authorised by this Act or the State Sector Act 1988 to delegate to any person, or to persons of any kind or description, the exercise or performance of any power or function under this Act, stating that—
+  (b) a certificate purporting to be signed by any person authorised by this Act or the Public Service Act 2020 to delegate to any person, or to persons of any kind or description, the exercise or performance of any power or function under this Act, stating that—
     (i) the person has delegated the exercise or performance of the power or function specified in the certificate to the person specified in the certificate; or
     (ii) the person has delegated the exercise of the power or function specified in the certificate to persons of a kind or description specified in the certificate, and that a named person specified in the certificate is a person of that kind or description:
   (c) a certificate purporting to be signed by an analyst, a recognised agency, or a recognised person stating the results of an analysis, test, or examination of a sample taken under or for the purposes of this Act:
