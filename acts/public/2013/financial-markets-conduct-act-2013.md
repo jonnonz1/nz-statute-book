@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2020-04-21_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -1558,7 +1558,7 @@ The issuer of a debt security must ensure that the supervisor—
   (h) its manager must be a party to a scheme provider agreement with the Commissioner of Inland Revenue (if required by regulations made under the KiwiSaver Act 2006); and
   (i) the FMA must be satisfied that the fees charged in accordance with any information provided in the application will comply with clause 2 of the KiwiSaver scheme rules under the KiwiSaver Act 2006.
 (2) The New Zealand criteria are that the person, at the time of becoming a scheme participant,—
-  (a) is, or normally is, living in New Zealand, or is an employee of the State services (within the meaning of the State Sector Act 1988) who is—
+  (a) is, or normally is, living in New Zealand, or is an employee of the State services (within the meaning of the Public Service Act 2020) who is—
     (i) serving outside New Zealand; and
     (ii) employed on New Zealand terms and conditions; and
     (iii) serving in a jurisdiction where offers of superannuation scheme membership are lawful; and
@@ -6500,7 +6500,7 @@ A person is a wholesale investor,—
 
 ### 40 Definition of government agency
 A government agency is any of the following:
-  (a) a government department named in Schedule 1 of the State Sector Act 1988:
+  (a) a public service agency as defined in section 5 of the Public Service Act 2020:
   (b) a Crown entity under section 7 of the Crown Entities Act 2004:
   (c) a local authority:
   (d) a State enterprise (within the meaning of section 2 of the State-Owned Enterprises Act 1986):
@@ -6752,7 +6752,7 @@ The FMA may, by written notice to the trustees of a scheme,—
   (b) the scheme has only 1 scheme participant who is an individual and who meets the New Zealand criteria set out in subclause (2); and
   (c) the scheme participant is either a trustee, or a director of a sole corporate trustee, of the scheme.
 (2) The New Zealand criteria are that the person, at the time of becoming a participant,—
-  (a) is, or normally is, living in New Zealand, or is an employee of the State services (within the meaning of the State Sector Act 1988) who is—
+  (a) is, or normally is, living in New Zealand, or is an employee of the State services (within the meaning of the Public Service Act 2020) who is—
     (i) serving outside New Zealand; and
     (ii) employed on New Zealand terms and conditions; and
     (iii) serving in a jurisdiction where offers of superannuation scheme membership are lawful; and
