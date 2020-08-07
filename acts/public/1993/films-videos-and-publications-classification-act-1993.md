@@ -1,5 +1,5 @@
 # Films, Videos, and Publications Classification Act 1993
-_Consolidation as at 2018-11-13_
+_Consolidation as at 2020-08-07_
 
 > An Act to consolidate and amend the law relating to the censoring of films, videos, books, and other publications; and to repeal the Indecent Publications Act 1963, the Films Act 1983, and the Video Recordings Act 1987
 
@@ -977,7 +977,7 @@ Notwithstanding section 94, every member of the Board whose term of office has e
 (6) No appointment of any person under this section and no acts done by that person while acting as the President or any other member of the Board, and no act done by the Board while any person is acting as such, shall in any proceedings be questioned on the ground that the occasion of that person's appointment had not arisen or had ceased.
 
 ### 98 Application of certain Acts to members
-No person shall be deemed to be employed in the service of the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason only of that person's appointment as a member of the Board.
+No person shall be deemed to be employed in the service of the Crown for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason only of that person's appointment as a member of the Board.
 
 ### 99 Fees and travelling allowances
 (1) A member of the Board is entitled—
@@ -1003,7 +1003,7 @@ The Secretary shall arrange for there to be furnished to the Board such secretar
 **Inspectors of Publications**
 
 ### 103 Inspectors of Publications
-(1) The Secretary may from time to time appoint under the State Sector Act 1988 such number of persons to be Inspectors of Publications as are required for the purposes of this Act.
+(1) The Secretary may from time to time appoint under the Public Service Act 2020 such number of persons to be Inspectors of Publications as are required for the purposes of this Act.
 (2) Notwithstanding subsection (1), the Secretary may from time to time appoint any suitable person to be an Inspector of Publications for the purposes of this Act.
 (3) Every constable shall be deemed to be an Inspector for the purposes of this Act.
 
@@ -1011,7 +1011,7 @@ The Secretary shall arrange for there to be furnished to the Board such secretar
 (1) Every person appointed under section 103(2)—
   (a) shall be appointed on such terms and conditions as the Secretary thinks fit:
   (b) may be paid, out of money appropriated by Parliament for the purpose, such remuneration as the Secretary from time to time determines.
-(2) No person appointed under section 103(2) shall by reason only of that appointment be deemed to be employed in the service of the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956.
+(2) No person appointed under section 103(2) shall by reason only of that appointment be deemed to be employed in the service of the Crown for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956.
 (3) For the purposes of the Ombudsmen Act 1975 and the Official Information Act 1982, every person who holds office under section 103(2) shall be deemed to be employed in the Department of Internal Affairs.
 
 ### 105 Authority to act as Inspector
