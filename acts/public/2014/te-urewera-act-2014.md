@@ -1,5 +1,5 @@
 # Te Urewera Act 2014
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Te Urewera Act 2014.
@@ -575,7 +575,7 @@ The purpose of Te Urewera management plan is—
 (2) Persons appointed under subsection (1)—
   (a) may be appointed for a term of not more than 3 years, but may be reappointed; and
   (b) are not employed, or deemed to be employed, in the service of the Sovereign for the purposes of—
-    (i) the State Sector Act 1988:
+    (i) the Public Service Act 2020:
     (ii) the Government Superannuation Fund Act 1956.
 
 ### Subpart 4 — Authorisation of certain activities in Te Urewera
