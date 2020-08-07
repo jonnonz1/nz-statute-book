@@ -1,5 +1,5 @@
 # Housing Accords and Special Housing Areas Act 2013
-_Consolidation as at 2019-09-17_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Housing Accords and Special Housing Areas Act 2013.
@@ -873,7 +873,7 @@ There is no right of appeal against a decision on an objection made under this A
 Subject to the provisions in this Act, the chief executive is a consent authority under the Resource Management Act 1991 and has all associated powers required to effectively carry out his or her functions for the purposes of this Act.
 
 ### 86 Delegation of functions and powers of chief executive
-(1) In addition to any delegation under section 41 of the State Sector Act 1988, the chief executive may delegate 1 or more of the chief executive's functions or powers as an authorised agency under this Part to—
+(1) In addition to any delegation under clauses 2 and 3 of Schedule 6 of the Public Service Act 2020, the chief executive may delegate 1 or more of the chief executive's functions or powers as an authorised agency under this Part to—
   (a) a local authority; or
   (b) the Environmental Protection Authority.
 (2) A delegation under this section—
