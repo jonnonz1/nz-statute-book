@@ -1,5 +1,5 @@
 # Residential Care and Disability Support Services Act 2018
-_Consolidation as at 2020-07-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Residential Care and Disability Support Services Act 2018.
@@ -56,7 +56,7 @@ In this Act and in Schedules 1 to 3, unless the context otherwise requires,—
     (a) means the responsible department; but
     (b) for a duty, function, or power that MSD must or may perform or exercise, means—
       (i) the chief executive of the responsible department; or
-      (ii) a Public Service employee, or other person, acting under a delegation (direct or indirect) from that chief executive
+      (ii) a public service employee, or other person, acting under a delegation (direct or indirect) from that chief executive
   - **partner** , in the phrase spouse or partner and in related contexts, means a civil union partner or de facto partner
   - **personal allowance** has the meaning given in section 24(2)
   - **qualifying person** has the meaning given in section 11
@@ -65,7 +65,7 @@ In this Act and in Schedules 1 to 3, unless the context otherwise requires,—
     (b) is receiving contracted care services (irrespective of whether a funder has any liability to pay for any of the cost of the qualifying person’s care)
   - **responsible department** , for the provisions of this Act, means—
     (a) the department of State that, with the Prime Minister’s authority, is for the time being responsible for the administration of this Act; or
-    (b) a departmental agency that, under the State Sector Act 1988, is part of that department of State, and has duties, functions, or powers relating to that administration
+    (b) a departmental agency that, under the Public Service Act 2020, is part of that department of State, and has duties, functions, or powers relating to that administration
   - **rest home** means premises used to provide rest home care—
     (a) within the meaning of section 6 of the Health and Disability Services (Safety) Act 2001; and
     (b) that is therefore health care services required by that Act to be provided in accordance with section 9 of that Act
