@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2019-08-31_
+_Consolidation as at 2020-08-07_
 
 > Title
 
@@ -460,7 +460,7 @@ The appointment of a person as the Governor under section 40 or 48 or as the Dep
   (a) is a member of Parliament; or
   (b) is a director or an employee of a registered bank or of a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013 or of a licensed insurer; or
   (c)
-  (d) is a chief executive of a Government department or an employee of a Government department, appointed under the State Sector Act 1988; or
+  (d) is a chief executive of a Government department or an employee of a Government department, appointed under the Public Service Act 2020; or
   (e) is an undischarged bankrupt; or
   (f) is a person who is convicted of any offence punishable by imprisonment for a term of 2 years or more; or
   (g) is a person who is convicted of any offence punishable by imprisonment for a term of less than 2 years and is sentenced to imprisonment for that offence; or
@@ -3623,7 +3623,7 @@ The Board must consult the Governor before making a recommendation under clause 
     (i) a registered bank; or
     (ii) a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013; or
     (iii) a licensed insurer; or
-  (c) a chief executive of a Government department or an employee of a Government department, appointed under the State Sector Act 1988; or
+  (c) a chief executive of a Government department or an employee of a Government department, appointed under the Public Service Act 2020; or
   (d) a member of the Board; or
   (e) subject to a property order under the Protection of Personal and Property Rights Act 1988; or
   (f) an undischarged bankrupt; or
