@@ -1,5 +1,5 @@
 # Secondhand Dealers and Pawnbrokers Act 2004
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Secondhand Dealers and Pawnbrokers Act 2004.
@@ -787,7 +787,7 @@ A licensed pawnbroker may not dispose of pawned goods on or before the redemptio
 
 ### 72 Remuneration, and status under certain Acts
 (1) All Licensing Authorities and any Deputy Licensing Authority must be paid fees and expenses in accordance with the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies, as if each Licensing Authority were the chairperson of a statutory body and any Deputy Licensing Authority were a member of that body.
-(2) For the purposes of the State Sector Act 1988 and the Government Superannuation Fund Act 1956, a Licensing Authority or Deputy Licensing Authority is not, by reason merely of that appointment, employed in the service of the Crown.
+(2) For the purposes of the Public Service Act 2020 and the Government Superannuation Fund Act 1956, a Licensing Authority or Deputy Licensing Authority is not, by reason merely of that appointment, employed in the service of the Crown.
 
 ### 73 Immunity
 Neither a Licensing Authority nor any Deputy Licensing Authority is personally liable for any act done or omission made while acting in good faith while performing or intending to perform his or her functions under this Act.
