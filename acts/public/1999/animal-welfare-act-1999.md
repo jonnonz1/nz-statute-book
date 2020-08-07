@@ -1,5 +1,5 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2020-05-09_
+_Consolidation as at 2020-08-07_
 
 > An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—(i)to recognise that animals are sentient:(ia)to require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
@@ -1467,7 +1467,7 @@ The purpose of this Part is to—
 ### 123A Appointment of auditors
 (1) The Director-General may appoint auditors to carry out audits of approved organisations for the purposes of this Act.
 (2) The Director-General may appoint as auditors only those persons who have appropriate experience, technical competence, and qualifications relevant to the audits.
-(3) Auditors may, but need not, be persons who are employed under the State Sector Act 1988.
+(3) Auditors may, but need not, be persons who are employed under the Public Service Act 2020.
 
 ### 123B Audits
 (1) The Director-General must set terms of reference for audits of approved organisations.
@@ -1525,13 +1525,13 @@ The purpose of this Part is to—
     (ii) that suspension is for an indefinite period; and
   (c) the reasons for the suspension.
 (7) Without limiting subsection (6)﻿(b), it is declared that where an approved organisation informs the Minister in writing that an inspector who was appointed on the recommendation of that approved organisation is no longer acting for that approved organisation or for an incorporated society that is a branch or member of that approved organisation in that capacity or in the particular district or part or parts of New Zealand for which the inspector was appointed, the Minister may, by written notice to that inspector, invite that inspector to both resign his or her office in accordance with subsection (6)﻿(c) and surrender his or her instrument of appointment in accordance with subsection (6)﻿(d) by a date specified in the notice, and, if that inspector fails to do so by that date, the Minister may revoke that inspector's appointment.
-(8) No person appointed by the Minister under subsection (2) to be an inspector is by virtue of that appointment employed in the Public Service for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956.
+(8) No person appointed by the Minister under subsection (2) to be an inspector is by virtue of that appointment employed in the public service for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956.
 (9) The Director-General may from time to time establish performance standards and technical standards for inspectors appointed under subsection (1).
 (10) Every inspector appointed under subsection (1) or subsection (2) must, when performing his or her functions or duties under this Act or exercising his or her powers under this Act, use his or her best endeavours to comply with, and give effect to, the relevant performance standards or technical standards.
 
 ### 125 Appointment of auxiliary officers
 (1) The Director-General may from time to time, on the recommendation of an approved organisation, appoint any person to be an auxiliary officer for the purposes of this Act.
-(2) No person appointed by the Director-General under this section to be an auxiliary officer is by virtue of that appointment employed in the Public Service for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956.
+(2) No person appointed by the Director-General under this section to be an auxiliary officer is by virtue of that appointment employed in the public service for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956.
 (2A) The Director-General may at any time suspend a person's appointment as an auxiliary officer.
 (3) The Director-General may at any time revoke any appointment made under subsection (1).
 
