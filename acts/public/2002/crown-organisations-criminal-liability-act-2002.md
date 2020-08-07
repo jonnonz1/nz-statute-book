@@ -1,5 +1,5 @@
 # Crown Organisations (Criminal Liability) Act 2002
-_Consolidation as at 2018-12-21_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Crown Organisations (Criminal Liability) Act 2002.
@@ -21,8 +21,9 @@ In this Act, unless the context otherwise requires,—
   - **Crown entity** —
     (a) has the same meaning as in section 7(1) of the Crown Entities Act 2004; and
     (b) includes an organisation named or described in Schedule 4, or a company named in Schedule 4A, of the Public Finance Act 1989
-  - **Crown organisation** means a Crown entity, government department, or government-related organisation
-  - **government department** means a government department named in Schedule 1 of the State Sector Act 1988
+  - **Crown organisation** means a Crown entity, government department, interdepartmental venture, departmental agency, or government-related organisation
+  - **departmental agency** has the meaning given in section 5 of the Public Service Act 2020
+  - **government department** means a department as defined in section 5 of the Public Service Act 2020
   - **government-related organisation** means—
     (a) the Audit Office:
     (b) the New Zealand Defence Force:
@@ -33,6 +34,7 @@ In this Act, unless the context otherwise requires,—
     (g) the Office of the Parliamentary Commissioner for the Environment:
     (h) the Parliamentary Counsel Office:
     (i) the Parliamentary Service
+  - **interdepartmental venture** has the meaning given in section 5 of the Public Service Act 2020
   - **Office of Parliament** has the same meaning as in section 2(1) of the Public Finance Act 1989.
 
 ### 5 Act binds Crown
@@ -74,7 +76,7 @@ A Crown organisation that is not a body corporate has a separate legal personali
     (iii) section 91 of the Privacy Act 1993; or
     (iv) section 26 of the Public Finance Act 1977; or
     (v) section 133 of the Crown Entities Act 2004; or
-    (vi) section 9 or section 10 of the State Sector Act 1988; or
+    (vi) clauses 3 and 4 of Schedule 3 of the Public Service Act 2020; or
     (vii) section 22 of the Resource Management Act 1991; or
   (c) a request for official information made in accordance with section 12 of the Official Information Act 1982; or
   (d) to supply information requested by—
