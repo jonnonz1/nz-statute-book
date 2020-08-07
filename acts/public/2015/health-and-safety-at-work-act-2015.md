@@ -1,5 +1,5 @@
 # Health and Safety at Work Act 2015
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Health and Safety at Work Act 2015.
@@ -1703,8 +1703,8 @@ Schedule 4 contains provisions that apply in civil and criminal proceedings that
 
 ### 163 Appointment of inspectors
 (1) The regulator may, by notice in writing, appoint any of the following as an inspector:
-  (a) an employee of a department (within the meaning of the State Sector Act 1988):
-  (b) an employee of the State services (within the meaning of the State Sector Act 1988):
+  (a) a public service employee as defined in section 65 of the Public Service Act 2020:
+  (b) an employee of the State services (within the meaning of the Public Service Act 2020):
   (c) a statutory officer:
   (d) a prescribed person:
   (e) an employee of the regulator:
@@ -1984,7 +1984,7 @@ Subject to its scope of designation, a regulator other than WorkSafe has the fol
   (a) a particular industry, sector, or type of work or circumstance; and
   (b) the functions or powers (or both) of the regulator under this Act, or any other enactment, that the designated agency may perform or exercise in respect of the particular industry, sector, or type of work or circumstance.
 (3) The agencies are—
-  (a) the chief executive of a department or departmental agency (within the meaning of section 27A of the State Sector Act 1988):
+  (a) the chief executive of a department or departmental agency (within the meaning of section 5 of the Public Service Act 2020):
   (b) a Crown entity (within the meaning of section 7 of the Crown Entities Act 2004):
   (c) the Commissioner of Police:
   (d) the Chief of Defence Force.
@@ -3214,7 +3214,7 @@ In this schedule,—
     (a) the New Zealand Defence Force:
     (b) the New Zealand Police:
     (c)
-    (d) a government department named in Schedule 1 of the State Sector Act 1988.
+    (d) a public service agency as defined in section 5 of the Public Service Act 2020.
 
 ### 3 Meaning of classified security information
 (1) In this schedule, classified security information means information—
