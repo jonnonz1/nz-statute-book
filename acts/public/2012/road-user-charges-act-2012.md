@@ -1,5 +1,5 @@
 # Road User Charges Act 2012
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Road User Charges Act 2012.
@@ -140,7 +140,7 @@ The purpose of this Act is to—
     (a) gross vehicle mass for the RUC vehicle; or
     (b) maximum allowable mass for the RUC vehicle under section 4.5(1) of Part 1 of the VDAM Rule 2002
   - **sale** has the same meaning as in section 233(1) of the Land Transport Act 1998
-  - **State services** has the same meaning as in section 2 of the State Sector Act 1988
+  - **State services** has the same meaning as in section 5 of the Public Service Act 2020
   - **trailer** has the same meaning as in section 233(1) of the Land Transport Act 1998
   - **transport service** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **transport service licence** has the same meaning as in section 2(1) of the Land Transport Act 1998
