@@ -1,5 +1,5 @@
 # Marine and Coastal Area (Takutai Moana) Act 2011
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2020-08-07_
 
 ## Preamble
 (1) In June 2003, the Court of Appeal held in Attorney-General v Ngāti Apa [2003] 3 NZLR 643 that the Māori Land Court had jurisdiction to determine claims of customary ownership to areas of the foreshore and seabed. The Foreshore and Seabed Act 2004 (the 2004 Act) was enacted partly in response to the Court of Appeal’s decision:
@@ -1579,7 +1579,7 @@ The register is a public register within the meaning of section 58 of the Privac
 (5) The Director-General may from time to time, either generally or particularly, delegate the power conferred by subsection (1) or (2) to any of the following persons:
   (a) a warranted officer within the meaning of the Conservation Act 1987:
   (b) employees of local authorities.
-(6) Subsection (5) does not limit sections 41 and 42 of the State Sector Act 1988, and those sections apply with any necessary modifications to any delegation under subsection (5).
+(6) Subsection (5) does not limit clauses 2 to 4 of Schedule 6 of the Public Service Act 2020, and those sections apply with any necessary modifications to any delegation under subsection (5).
 (7) Before a delegate exercises a power under subsection (1) or (2), the delegate must produce his or her warrant of appointment or other evidence of his or her authority.
 
 **Local Acts**
