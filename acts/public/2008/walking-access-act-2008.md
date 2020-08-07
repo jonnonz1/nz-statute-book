@@ -1,5 +1,5 @@
 # Walking Access Act 2008
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Walking Access Act 2008.
@@ -26,7 +26,7 @@ In this Act, unless the context otherwise requires,—
     (a) is appointed as a controlling authority under section 35; or
     (b) becomes a controlling authority under section 36
   - **Crown** has the same meaning as in section 2(1) of the Public Finance Act 1989
-  - **department** means a department of State specified in Schedule 1 of the State Sector Act 1988
+  - **department** means a public service agency defined in section 5 of the Public Service Act 2020
   - **enforcement officer** —
     (a) means an enforcement officer appointed under section 43 and warranted under section 46; and
     (b) includes a person described in section 44
@@ -418,7 +418,7 @@ If a walkway over private land is revoked under section 40, the Commission must 
   (a) is appointed for a term not exceeding 3 years, but may be reappointed:
   (b) may be removed from office by the Commission, by written notice, for inability to perform the functions of the office, legal incapacity, neglect of duty, or misconduct, proved to the satisfaction of the Commission:
   (c) may at any time resign office by written notice to the Commission.
-(3) An enforcement officer appointed under subsection (1) is not to be regarded as employed in the service of the Crown for the purposes of the Government Superannuation Fund Act 1956 or the State Sector Act 1988 just because the person is an enforcement officer.
+(3) An enforcement officer appointed under subsection (1) is not to be regarded as employed in the service of the Crown for the purposes of the Government Superannuation Fund Act 1956 or the Public Service Act 2020 just because the person is an enforcement officer.
 
 ### 44 Other persons also enforcement officers under this Act
 The following persons are, by right of office, also enforcement officers for the purposes of this Act:
@@ -434,7 +434,7 @@ The following persons are, by right of office, also enforcement officers for the
 (3) The Commission may reimburse an honorary enforcement officer for reasonable expenses incurred while performing his or her duties under this Act if the Commission—
   (a) has authorised the officer to incur expenses up to a specified amount; and
   (b) has subsequently approved those expenses.
-(4) An honorary enforcement officer is not to be regarded as employed in the service of the Crown for the purposes of the Government Superannuation Fund Act 1956 or the State Sector Act 1988 just because the person is an honorary enforcement officer.
+(4) An honorary enforcement officer is not to be regarded as employed in the service of the Crown for the purposes of the Government Superannuation Fund Act 1956 or the Public Service Act 2020 just because the person is an honorary enforcement officer.
 
 ### 46 Warrants of appointment
 (1) The Commission must issue a written warrant to—
