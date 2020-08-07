@@ -1,5 +1,5 @@
 # Research, Science, and Technology Act 2010
-_Consolidation as at 2010-12-20_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Research, Science, and Technology Act 2010.
@@ -19,7 +19,7 @@ The purpose of this Act is—
 In this Act, unless the context otherwise requires,—
   - **board** means a board established under section 10(1)
   - **chief executive** means the chief executive of the Ministry
-  - **employee** has the same meaning as in section 2 of the State Sector Act 1988
+  - **employee** has the same meaning as in section 5 of the Public Service Act 2020
   - **former department** means the Ministry of Research, Science, and Technology
   - **Foundation** means the Foundation for Research, Science, and Technology established by section 4 of the Foundation for Research, Science, and Technology Act 1990
   - **member** ,—
@@ -30,7 +30,7 @@ In this Act, unless the context otherwise requires,—
   - **outputs** has the same meaning as it has in section 2(1) of the Public Finance Act 1989, and also includes knowledge and information
   - **RS&T funding** means the expenses authorised by non-departmental appropriations for research, science, or technology, or related activities
   - **specified RS&T funding** has the meaning set out in section 5
-  - **State services** has the same meaning as it has in section 2 of the State Sector Act 1988.
+  - **State services** has the same meaning as it has in section 5 of the Public Service Act 2020.
 
 ### 5 Meaning of specified RS&T funding
 (1) In this Act, specified RS&T funding—
@@ -38,7 +38,7 @@ In this Act, unless the context otherwise requires,—
     (i) between eligible proposals, as to which should receive an allocation; and
     (ii) in response to an individual proposal, as to the amount (if any) to be allocated; but
   (b) does not include RS&T funding in a vote administered by the Ministry that is subject to a separate decision-making process.
-(2) For the purpose of subsection (1)(b), the Minister must, by notice published in the Gazette, identify any RS&T funding in a vote administered by the Ministry that is subject to a separate decision-making process.
+(2) For the purpose of subsection (1)﻿(b), the Minister must, by notice published in the Gazette, identify any RS&T funding in a vote administered by the Ministry that is subject to a separate decision-making process.
 
 ### 6 Act binds the Crown
 This Act binds the Crown.
@@ -57,13 +57,13 @@ This Act binds the Crown.
 
 ### 8 Minister to set, and boards to adhere to, criteria
 (1) The Minister must from time to time, by notice given to each board and published in the Gazette, set criteria for the assessment of proposals for specified RS&T funding.
-(2) A board must carry out its functions under section 10(4)(a) in accordance with the criteria set under subsection (1).
+(2) A board must carry out its functions under section 10(4)﻿(a) in accordance with the criteria set under subsection (1).
 (3) Nothing in subsection (1) authorises the Minister to—
   (a) give a direction in respect of the production, by a particular person, of outputs relating to research, science, or technology, or related activities; or
   (b) direct a board to allocate funds to or for the benefit of a particular person.
 
 ### 9 Chief executive to refer proposals to boards
-(1) On any occasion when decisions on the allocation of specified RS&T funding are to be made, the chief executive must refer the proposals concerned to the appropriate board to make funding decisions in accordance with section 10(4)(a) and (5).
+(1) On any occasion when decisions on the allocation of specified RS&T funding are to be made, the chief executive must refer the proposals concerned to the appropriate board to make funding decisions in accordance with section 10(4)﻿(a) and (5).
 (2) A board may request that the chief executive provide the board with all information, or any specified information, that relates to the proposal.
 (3) If the Ministry holds the information requested, the chief executive must provide that information to the board.
 (4) In this section, information includes, but is not limited to,—
@@ -77,18 +77,18 @@ This Act binds the Crown.
   (c) appoint a member of each board as the chairperson of that board.
 (2) Before establishing a board, the Minister must consult with any other Minister of the Crown whose area of responsibility, in the Minister's opinion, includes an interest in the allocation of specified RS&T funding.
 (3) The Minister may specify that a board is to make funding decisions on proposals for specified RS&T funding in relation to 1 or more areas of research, science, or technology, or related activities, specified in—
-  (a) the notice establishing the board under subsection (1)(a); or
+  (a) the notice establishing the board under subsection (1)﻿(a); or
   (b) a notice given to the board for the purpose and published in the Gazette.
-(4) The functions of a board established under subsection (1)(a) are,—
+(4) The functions of a board established under subsection (1)﻿(a) are,—
   (a) in relation to the areas of research, science, or technology, or related activities (if any) specified under subsection (3), to make funding decisions on proposals for specified RS&T funding referred to it by the chief executive; and
   (b) with the prior approval of the Minister, to make decisions on proposals for allocation of RS&T funding that are referred to it—
     (i) by any other Minister of the Crown (a referring Minister); or
     (ii) by the administrative head (however called) of any of the State services (a referring chief executive).
 (5) In performing its functions, a board must act,—
-  (a) in relation to its functions under subsection (4)(a), in accordance with—
+  (a) in relation to its functions under subsection (4)﻿(a), in accordance with—
     (i) the purposes in section 7; and
     (ii) section 8(2); and
-  (b) in relation to its functions under subsection (4)(b), in accordance with criteria specified by the referring Minister or, as the case requires, the referring chief executive; and
+  (b) in relation to its functions under subsection (4)﻿(b), in accordance with criteria specified by the referring Minister or, as the case requires, the referring chief executive; and
   (c) on information presented to the board by the chief executive or, as the case requires, by the referring Minister or referring chief executive; and
   (d) in an independent, fair, and transparent manner.
 (6) For the purpose of giving effect to the decision, a board must record any funding decision it makes in the performance of its functions in writing and provide that decision to the chief executive or, as the case requires, the referring Minister or referring chief executive.
@@ -101,9 +101,9 @@ This Act binds the Crown.
   (b) any other person (not being an employee in the State services) approved by the Minister.
 (2) If functions are delegated to the chief executive under subsection (1),—
   (a) the chief executive is not responsible to the Minister for the performance or exercise of those functions but must act independently; and
-  (b) the chief executive may delegate those functions to employees or holders of specified offices in the Ministry under section 41 of the State Sector Act 1988.
-(3) A person to whom functions are delegated under subsection (1) or (2)(b) must perform them in accordance with section 10(5) and (6) and those provisions apply with all necessary modifications as if references to a board were references to that person.
-(4) No delegation under subsection (1) or (2)(b) affects the responsibility of the board for the actions of any person acting under the delegation.
+  (b) the chief executive may delegate those functions to employees or holders of specified offices in the Ministry under clauses 2 and 3 of Schedule 6 of the Public Service Act 2020.
+(3) A person to whom functions are delegated under subsection (1) or (2)﻿(b) must perform them in accordance with section 10(5) and (6) and those provisions apply with all necessary modifications as if references to a board were references to that person.
+(4) No delegation under subsection (1) or (2)﻿(b) affects the responsibility of the board for the actions of any person acting under the delegation.
 (5) A board must not make a delegation under this section unless satisfied that,—
   (a) given the nature of the decision to be made by the delegate and the level of funding involved, the delegation will result in a more efficient and effective decision-making process than if the board had made the decision; and
   (b) if necessary, conditions are imposed upon the delegation that will enable the board to verify that the delegate has complied with the requirements of section 10.
@@ -260,7 +260,7 @@ A meeting of a board may be held—
   (b) to perform any of the board's functions that are delegated to the subcommittee.
 (2) A subcommittee is subject in all things to the control of the board that appointed it, and must carry out all general or special directions given to it by the board in relation to it or its affairs.
 (3) A board may, by resolution, discharge or reconstitute any subcommittee appointed by it.
-(4) A subcommittee to whom a board delegates its functions under subclause (1)(b) may perform those functions in the like manner and to the same effect as if the board had performed them.
+(4) A subcommittee to whom a board delegates its functions under subclause (1)﻿(b) may perform those functions in the like manner and to the same effect as if the board had performed them.
 
 **Collective duties of board and members**
 
