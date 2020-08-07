@@ -1,5 +1,5 @@
 # Crown Research Institutes Act 1992
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2020-08-07_
 
 > An Act to provide for the formation of Crown-owned companies to undertake scientific research and other related activities, and to provide for matters incidental thereto
 
@@ -173,6 +173,10 @@ In relation to the transfer, pursuant to this Act, of any land, or any interest 
 (4) An exemption under subsection (3) may be subject to any conditions the shareholding Ministers think fit (for example, the condition may be that the annual report of one of the parents must cover the multi-parent subsidiary).
 (5) Each Crown Research Institute must publish the documents required by subsection (1) as soon as practicable after it has been presented to the House of Representatives under section 19.
 
+### 17A Extension of time limit for 2019/20 financial year reports and audits: COVID-19
+(1) Despite the time limit in section 17(1), in relation to the financial year ending with 30 June 2020, the information specified in section 17(1) must be delivered to the shareholding Ministers before the close of 30 November 2020.
+(2) This section is repealed on 1 December 2020.
+
 ### 18 Half-yearly reports
 (1) Within 2 months after the end of the first half of each financial year of a Crown Research Institute, the board of the Crown Research Institute shall deliver to the shareholding Ministers a report of its operations during that half-year.
 (2) Each report required by this section shall include the information required by the statement of corporate intent to be included in the report.
@@ -343,7 +347,7 @@ The provisions of Part 2 of the Land Settlement Promotion and Land Acquisition A
 (2) Every Order in Council made under this section may be made on such terms and conditions as the Governor-General thinks fit, and shall have effect according to its tenor.
 
 ### 39 Transfer of employees
-(1) Notwithstanding anything in section 61A of the State Sector Act 1988, where the chief executive of a government department finds, in respect of any duties being carried out by the department, that those duties are no longer to be carried out by the department and are to be carried out (in whole or in part) by a Crown Research Institute, that chief executive and the chief executive of that Crown Research Institute may, subject to subsection (3), agree to the transfer, from that department to that Crown Research Institute, of all or any of the employees of that department who are carrying out those duties.
+(1) Notwithstanding anything in section 88 of the Public Service Act 2020, where the chief executive of a government department finds, in respect of any duties being carried out by the department, that those duties are no longer to be carried out by the department and are to be carried out (in whole or in part) by a Crown Research Institute, that chief executive and the chief executive of that Crown Research Institute may, subject to subsection (3), agree to the transfer, from that department to that Crown Research Institute, of all or any of the employees of that department who are carrying out those duties.
 (2) Before transferring any employee under subsection (1), the respective chief executives of the government department and the Crown Research Institute shall consult with the employee about the proposed transfer.
 (3) The power conferred by this section to transfer any employee is subject to the employment contract applying to that employee.
 
