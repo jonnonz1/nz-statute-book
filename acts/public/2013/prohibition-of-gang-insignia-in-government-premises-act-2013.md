@@ -1,5 +1,5 @@
 # Prohibition of Gang Insignia in Government Premises Act 2013
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Prohibition of Gang Insignia in Government Premises Act 2013.
@@ -10,12 +10,12 @@ This Act comes into force on the day after the date on which it receives the Roy
 ## Part Part 1 — General provisions
 
 ### 3 Purpose
-The purpose of this Act is to prohibit the display of gang insignia on premises of departments of the Public Service, the Police, Crown entities, local authorities, and schools.
+The purpose of this Act is to prohibit the display of gang insignia on premises of departments of the public service, the Police, Crown entities, local authorities, and schools.
 
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
   - **Crown entity** has the same meaning as in section 7 of the Crown Entities Act 2004
-  - **department** means any department specified in Schedule 1 of the State Sector Act 1988
+  - **department** means any public service agency as defined in section 5 of the Public Service Act 2020
   - **district health board** means a district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000
   - **gang** means any organisation, association, or group of persons—
     (a) that is known by a name that is the same as, or substantially similar to, any of the following:
