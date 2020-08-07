@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2020-08-06_
+_Consolidation as at 2020-08-07_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -652,7 +652,7 @@ Except where there is express provision to the contrary,—For example, a refere
 There shall continue to be a department of State, to be known as the Inland Revenue Department, which shall be the same department as the Inland Revenue Department continued under the Inland Revenue Department Act 1974.
 
 ### 5B Commissioner of Inland Revenue
-The person appointed as chief executive of the department under the State Sector Act 1988 is designated the Commissioner of Inland Revenue.
+The person appointed as chief executive of the department under the Public Service Act 2020 is designated the Commissioner of Inland Revenue.
 
 ### Subpart 2B — Care and management of tax system
 
@@ -681,7 +681,7 @@ Highest net revenue practicable within the law
 
 ### 6B Directions to Commissioner
 Order for directions
-(1) The Governor-General may, by Order in Council and with due regard to this subpart and the provisions of the State Sector Act 1988 and the Public Finance Act 1989, issue directions to the Commissioner in relation to the administration of the Inland Revenue Acts.
+(1) The Governor-General may, by Order in Council and with due regard to this subpart and the provisions of the Public Service Act 2020 and the Public Finance Act 1989, issue directions to the Commissioner in relation to the administration of the Inland Revenue Acts.
 Limitations
 (2) Subsection (1) does not authorise the giving of directions concerning the tax affairs of individual persons or the interpretation of tax law.
 Order published
@@ -841,15 +841,15 @@ Publication
 ### Subpart 2C — Functions and powers of Commissioner
 
 ### 7 Delegation of powers by Commissioner
-(1) The Commissioner may delegate in accordance with sections 41 and 42 of the State Sector Act 1988 any of the Commissioner's functions or powers under this Act or any other Act (including functions or powers delegated to the Commissioner under this Act or any other Act), except that—
+(1) The Commissioner may delegate in accordance with clauses 2 to 4 of Schedule 6 of the Public Service Act 2020 any of the Commissioner's functions or powers under this Act or any other Act (including functions or powers delegated to the Commissioner under this Act or any other Act), except that—
   (a) the delegation of functions or powers delegated to the Commissioner by a Minister requires the prior written approval of that Minister; and
-  (b) the delegation of functions or powers delegated to the Commissioner by the State Services Commissioner requires the prior written approval of the State Services Commissioner.
-(2) However, the Commissioner may not delegate to a person outside the Public Service (as described in section 41(2A) of the State Sector Act 1988) any of the following functions or powers:
+  (b) the delegation of functions or powers delegated to the Commissioner by the Public Service Commissioner requires the prior written approval of the Public Service Commissioner.
+(2) However, the Commissioner may not delegate to a person outside the public service (as described in clause 2(5) of Schedule 6 of the Public Service Act 2020) any of the following functions or powers:
   (a) the Commissioner’s functions or powers in relation to obtaining information from and about taxpayers (sections 16 to 17L of this Act); and
   (b) the Commissioner’s functions or powers in relation to imposing civil and criminal penalties on taxpayers in various circumstances (Part 9 of this Act, subpart 3 of Part 4 of the Student Loan Scheme Act 2011, and Part 12 of the Child Support Act 1991); and
   (c) the Commissioner’s functions or powers in relation to deducting amounts from payments due (section 157 of this Act, section 193 of the Student Loan Scheme Act 2011 but in respect only of the powers in section 157 of this Act, and section 154 of the Child Support Act 1991); and
   (d) the Commissioner’s functions or powers in relation to tax recovery agreements negotiated between the government of a territory outside New Zealand and the Government of New Zealand (Part 10A of this Act).
-(3) Sections 41 and 42 of the State Sector Act 1988 apply to delegations under this section as if those delegations were made under section 41(1) of that Act.
+(3) Clauses 2 to 4 of Schedule 6 of the Public Service Act 2020 apply to delegations under this section as if those delegations were made under clause 2 of that schedule.
 
 ### 7AA Authorisation to make payments under small business cashflow loan scheme
 (1) The Commissioner, on behalf of the Crown, may grant a loan under the small business cashflow scheme (the scheme) to a person who—
@@ -8256,8 +8256,8 @@ In any action in the High Court for the recovery of tax from a defendant absent 
 ### 159 Procedure in District Court where defendant absent from New Zealand
 In an action in the District Court for the recovery of tax, if the defendant is absent from New Zealand or cannot after reasonable inquiry be found, service of the notice of claim may, with the leave of a District Court Judge, be effected by delivery of a duplicate or sealed copy of the notice of claim to the defendant in a way described in section 14F(2).
 
-### 160 Commissioner may appear in legal proceedings by officer of Public Service
-In any action in the District Court for the recovery of tax, the Commissioner may, if the Commissioner thinks fit, appear by some officer in the Public Service, and the statement of any person so appearing that the person is such an officer and that the person appears for the Commissioner shall be sufficient evidence of the facts so stated and of the person's authority in that behalf.
+### 160 Commissioner may appear in legal proceedings by officer of public service
+In any action in the District Court for the recovery of tax, the Commissioner may, if the Commissioner thinks fit, appear by some officer in the public service, and the statement of any person so appearing that the person is such an officer and that the person appears for the Commissioner shall be sufficient evidence of the facts so stated and of the person's authority in that behalf.
 
 ### 161 Costs against Commissioner
 In all proceedings in any court for the recovery of tax, costs may be awarded to or against the Commissioner in the same manner as in other cases, but all costs so awarded against the Commissioner shall be payable out of money appropriated by Parliament, and not otherwise.
@@ -8804,7 +8804,7 @@ An amount that is interest under section 120D, or a late payment penalty relatin
     (ii) if no such period is given, 6 months from the promulgation of the order:
   (c) may be renewed or replaced from time to time by an Order in Council made before or after the date on which the order would otherwise expire.
 
-### 183ABAB Remission for taxpayers affected by COVID-19
+### 183ABAB Remission of interest for taxpayers affected by COVID-19: general rules
 (1) This section applies for a taxpayer if—
   (a) the taxpayer’s ability to make a payment required by a tax law on or before the due date for the payment is significantly adversely affected by COVID-19; and
   (b) the due date for the payment is no earlier than 14 February 2020; and
@@ -8828,6 +8828,24 @@ An amount that is interest under section 120D, or a late payment penalty relatin
     (ii) before the date on which the order would otherwise expire.
 (6) The Minister of Revenue may recommend the making of an Order in Council under subsection (4) or (5) to extend the time limit only if satisfied that the ability of taxpayers to pay tax on time is likely to continue, beyond the expiry of the existing time limit, to be significantly adversely affected by COVID-19.
 (7) An Order in Council made under subsection (4) or (5) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012, and must be presented to the House of Representatives under section 41 of that Act.
+
+### 183ABAC Remission of interest on terminal tax for 2020–21 tax year for provisional taxpayers affected by COVID-19
+(1) This section applies for a taxpayer who is liable to pay provisional tax for the 2020–21 tax year if—
+  (a) the taxpayer, for the 2020–21 tax year,—
+    (i) makes an estimate under section RC 7 of the Income Tax Act 2007 on or before their last instalment date for the 2020–21 tax year; or
+    (ii) makes an election under section RC 10(5) of that Act; or
+    (iii) does not make an election under section RC 10(5) of that Act, but meets the criteria set out in section 120KE(1)﻿(b) to (e); and
+  (b) the taxpayer’s residual income tax for the 2020–21 tax year is less than $1 million; and
+  (c) the taxpayer is charged with interest under Part 7—
+    (i) on an amount of terminal tax payable for the 2020–21 tax year; and
+    (ii) that begins to accrue before the taxpayer’s terminal tax date for the 2020–21 tax year; and
+  (d) the taxpayer’s ability to make a reasonably accurate forecast, on 1 or more provisional tax instalment dates for the 2020–21 tax year, of their residual income tax for the 2020–21 tax year was significantly adversely affected by COVID-19 and, as a consequence, the taxpayer failed to pay the relevant portions of the amount by the relevant instalment dates; and
+  (e) the requirement to pay the amount does not arise from an election under section IZ 8 of the Income Tax Act 2007 by the taxpayer, or by a company in the same group of companies as the taxpayer.
+(2) The taxpayer may ask the Commissioner to remit interest accrued between 31 March 2020 and the taxpayer’s terminal tax date for the 2020–21 tax year, both dates inclusive (the interest), on the amount.
+(3) The Commissioner may remit the interest if the Commissioner is satisfied that the taxpayer—
+  (a) asked for the relief as soon as practicable; and
+  (b) has paid their terminal tax for the 2020–21 tax year.
+(4) This section does not limit section 183ABAB.
 
 ### 183AB Cancellation of late payment penalties imposed before 1 April 2002
 (1) The Commissioner must cancel a taxpayer's liability to pay—
@@ -9897,7 +9915,7 @@ Section 18 does not prevent the Commissioner disclosing to a government agency o
     (ii) before the date on which the order would otherwise expire.
 (5) An Order in Council made under subclause (3) or (4) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012, and must be presented to the House of Representatives under section 41 of that Act.
 (6) In this clause, government agency means—
-  (a) a department named in schedule 1 of the State Sector Act 1988:
+  (a) a department named in Part 1 of Schedule 2 of the Public Service Act 2020:
   (b) the New Zealand Police:
   (c) the Accident Compensation Corporation:
   (d) Kāinga Ora–Homes and Communities:
