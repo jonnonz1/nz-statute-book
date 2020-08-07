@@ -1,5 +1,5 @@
 # Intelligence and Security Act 2017
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Intelligence and Security Act 2017.
@@ -42,8 +42,9 @@ In this Act, unless the context otherwise requires,—
   - **Chief Commissioner of Intelligence Warrants** means the Chief Commissioner of Intelligence Warrants appointed under section 112(2)
   - **Commissioner of Intelligence Warrants** means a Commissioner of Intelligence Warrants appointed under section 112(1)
   - **department** —
-    (a) means a department specified in Schedule 1 of the State Sector Act 1988; and
-    (b) includes a departmental agency as defined in section 27A of the State Sector Act 1988
+    (a) means a department as defined in section 5 of the Public Service Act 2020; and
+    (b) includes a departmental agency (as defined in that section) hosted by the department; and
+    (c) includes an interdepartmental executive board (as defined in that section) serviced by the department
   - **Deputy Inspector-General** means the Deputy Inspector-General of Intelligence and Security appointed under section 164
   - **designated terrorist entity** has the meaning given to it by section 4(1) of the Terrorism Suppression Act 2002
   - **Director-General of an intelligence and security agency** means—
@@ -77,6 +78,7 @@ In this Act, unless the context otherwise requires,—
     (b) the Government Communications Security Bureau
   - **Intelligence and Security Committee** or means the Intelligence and Security Committee continued by section 192
   - **intelligence warrant** has the meaning given to it by section 47
+  - **interdepartmental venture** means an interdepartmental venture as defined in section 5 of the Public Service Act 2020
   - **ministerial policy statement** means a ministerial policy statement issued under section 206, 207, or 208, and includes any amendments made to a statement under section 212
   - **New Zealand citizen** means a person who has New Zealand citizenship as provided in—
     (a) the Citizenship Act 1977; or
@@ -105,6 +107,7 @@ In this Act, unless the context otherwise requires,—
       (ii) Schedule 1 of the Official Information Act 1982; and
     (b) a local authority or public body named or specified in Schedule 1 of the Local Government Official Information and Meetings Act 1987; and
     (c) a foreign public agency
+  - **Public Service Commissioner** means the Public Service Commissioner appointed under the Public Service Act 2020
   - **security records** —
     (a) means papers, documents, and records of any kind, and whether bearing a security classification or not, that are officially made or received—
       (i) by an intelligence and security agency in the conduct of its affairs; or
@@ -112,7 +115,6 @@ In this Act, unless the context otherwise requires,—
     (b) includes registers, books, maps, plans, drawings, photographs, cinematographic films, sound recordings, and electronic storage media made or received by an agency or employee of the kind described in paragraph (a); and
     (c) includes copies of papers, documents, records, and other things that are security records by virtue of paragraph (a) or (b)
   - **signals intelligence** means intelligence gathered or derived from communications and information infrastructures
-  - **State Services Commissioner** means the State Services Commissioner appointed under section 3 of the State Sector Act 1988
   - **Type 1 intelligence warrant** has the meaning given to it by section 47
   - **Type 2 intelligence warrant** has the meaning given to it by section 47.
 
@@ -296,8 +298,9 @@ The purpose of this subpart is to enable an employee of an intelligence and secu
     (b) can be used to support the proof or establishment of the identity (for example, a bank card or staff identity card)
   - **false document** includes a false document within the meaning of section 255 of the Crimes Act 1961
   - **government agency** means—
-    (a) a Crown entity within the meaning of section 7 of the Crown Entities Act 2004; and
-    (b) a department
+    (a) a Crown entity within the meaning of section 7 of the Crown Entities Act 2004:
+    (b) a department:
+    (c) an interdepartmental venture
   - **maintain** , in relation to an assumed identity, includes taking steps towards maintaining the identity
   - **private sector agency** means an entity that is not a government agency
   - **statutory officer** means a person who—
@@ -426,6 +429,8 @@ The purpose of this subpart is to enable an intelligence and security agency to 
   - **agency** means—
     (a) the chief executive of a department:
     (b) a department:
+    (ba) the board of an interdepartmental venture:
+    (bb) an interdepartmental venture:
     (c) a Registrar or Deputy Registrar appointed under, or in accordance with, any enactment:
     (d) a Board established under section 8 of the Charities Act 2005:
     (e) a regulatory authority
@@ -540,7 +545,7 @@ Compliance with a request made under section 35, 37, or 42 or a direction given 
 (2) An exemption from complying with any requirement or duty may be granted only—
   (a) by—
     (i) the agency responsible for ensuring compliance with, or enforcing, that requirement or duty; or
-    (ii) the agency that is the department responsible for the administration of the enactment referred to in subsection (1); and
+    (ii) the agency that is the department or interdepartmental venture responsible for the administration of the enactment referred to in subsection (1); and
   (b) on a request made by the Director-General of an intelligence and security agency.
 (3) An agency may grant an exemption only if the agency is satisfied that granting the exemption—
   (a) will not have a significant negative impact on any members of the public; and
@@ -708,8 +713,8 @@ The Director-General of an intelligence and security agency must take all reason
   (a) specify the assistance required; and
   (b) be recorded in writing.
 (3) A person who assists is subject to the control of the Director-General of the intelligence and security agency and may exercise the same powers as the intelligence and security agency.
-(4) A person who assists has the same immunities as an employee of an intelligence and security agency (see section 86 of the State Sector Act 1988 and section 111 of this Act).
-(5) In this section, organisation includes a body corporate, an unincorporated body, an association of persons, a department, and a Crown entity or other instrument of the Crown.
+(4) A person who assists has the same immunities as an employee of an intelligence and security agency (see section 104 of the Public Service Act 2020 and section 111 of this Act).
+(5) In this section, organisation includes a body corporate, an unincorporated body, an association of persons, a department, an interdepartmental venture, and a Crown entity or other instrument of the Crown.
 
 ### Subpart 1 — Intelligence warrants
 
@@ -1282,7 +1287,7 @@ Part 1 of Schedule 3 applies in relation to the Commissioners of Intelligence Wa
 In this Part, unless the context otherwise requires,—
   - **agency** —
     (a) means any person, whether in the public sector or the private sector; and
-    (b) includes a department
+    (b) includes a department and an interdepartmental venture
   - **database** —
     (a) means the information recording system or facility used by a holder agency to store information; and
     (b) includes any system for transferring or processing information into or out of, or within, that information recording system or facility
@@ -1710,8 +1715,8 @@ This subpart does not prevent or limit the disclosure of business records to an 
   (c) the Privacy Commissioner:
   (d) a Human Rights Commissioner:
   (e) the Independent Police Conduct Authority:
-  (f) the State Services Commissioner.
-(4) Nothing in this section limits the functions, duties, or powers of the Auditor-General, an Ombudsman, the Privacy Commissioner, a Human Rights Commissioner, the Independent Police Conduct Authority, or the State Services Commissioner under any enactment.
+  (f) the Public Service Commissioner.
+(4) Nothing in this section limits the functions, duties, or powers of the Auditor-General, an Ombudsman, the Privacy Commissioner, a Human Rights Commissioner, the Independent Police Conduct Authority, or the Public Service Commissioner under any enactment.
 
 ### 162 Jurisdiction of courts and other agencies not affected
 (1) To avoid doubt, the carrying out of the Inspector-General’s functions does not limit the jurisdiction of any court.
@@ -1833,7 +1838,7 @@ Part 3 of Schedule 3 applies in relation to the membership and procedure of the 
 (1) The Inspector-General must conduct an inquiry in private.
 (2) The Inspector-General may receive in evidence any statement, document, information, or matter that may, in the Inspector-General’s opinion, assist him or her with the inquiry, whether or not the statement, document, information, or matter would be admissible in a court of law.
 (3) The Inspector-General must allow a complainant to be heard, to be represented by counsel or any other person, and to have any other persons testify to the complainant’s record, reliability, and character.
-(4) If, at any time during an inquiry, it appears to the Inspector-General that there may be sufficient grounds for making any report or recommendation that may adversely affect an intelligence and security agency, any employee of an intelligence and security agency, or any other department or person, the Inspector-General must give that agency, employee, or person an opportunity to be heard.
+(4) If, at any time during an inquiry, it appears to the Inspector-General that there may be sufficient grounds for making any report or recommendation that may adversely affect an intelligence and security agency, any employee of an intelligence and security agency, or any other department, interdepartmental venture, or person, the Inspector-General must give that agency, employee, or person an opportunity to be heard.
 (5) Subject to the provisions of this Act, the Inspector-General may regulate his or her procedure in the manner that he or she thinks fit.
 
 ### 177 Evidence of breach of duty or misconduct by employee of intelligence and security agency
@@ -2289,7 +2294,7 @@ A ministerial policy statement is—
   (e) to prejudice the privacy of an individual.
 (6) As soon as practicable after an annual report has been presented to the House of Representatives, the agency must make a copy of the report (as presented to the House of Representatives) publicly available on an Internet site maintained by or on behalf of the agency.
 (7) In this section,—
-  - **equal employment opportunities programme** has the meaning given to it by section 58(3) of the State Sector Act 1988
+  - **equal employment opportunities programme** has the meaning given to it by section 74(2) of the Public Service Act 2020
   - **working day** has the meaning given to it by section 2(1) of the Public Finance Act 1989.
 
 ### 222 Annual report of Inspector-General
@@ -2385,6 +2390,7 @@ A ministerial policy statement is—
   (f) the Leader of the Opposition:
   (g) an Office of Parliament (as defined in section 2(1) of the Public Finance Act 1989):
   (h) a chief executive of a department:
+  (ha) the board of an interdepartmental venture:
   (i) the Chief of Defence Force:
   (j) the Commissioner of Police:
   (k) the Privacy Commissioner:
@@ -2430,6 +2436,7 @@ A ministerial policy statement is—
   (a) providing intelligence assessments on events and developments of significance to New Zealand’s national security, international relations and well-being, and economic well-being to—
     (i) Ministers; and
     (ii) departments; and
+    (iia) interdepartmental ventures; and
     (iii) any other person who the Chief Executive of the DPMC considers appropriate; and
   (b) advising Ministers on the setting of priorities for intelligence collection and analysis; and
   (c) advising departments on best practice in relation to the assessment of intelligence.
