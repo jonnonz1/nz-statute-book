@@ -1,5 +1,5 @@
 # Te Awa Tupua (Whanganui River Claims Settlement) Act 2017
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017.
@@ -1534,7 +1534,7 @@ Te Karewao must meet as it considers necessary to carry out its purpose under se
 ### 7 Power to request information or advice
 (1) Te Pou Tupua or Te Karewao may request information or technical advice from any department of State if the information or advice requested relates to that department’s functions.
 (2) A department of State that receives a request under subclause (1) must provide the information or advice to Te Pou Tupua or Te Karewao where it is reasonably practicable and appropriate to do so, having regard (among other relevant matters) to the ability of the department to make its resources available for that purpose in light of the other priorities of the department.
-(3) In this clause, department of State has the meaning given to department in section 27A of the State Sector Act 1988.
+(3) In this clause, department of State has the meaning given to department in section 5 of the Public Service Act 2020.
 
 ### 8 Delegation
 (1) Te Pou Tupua may—
