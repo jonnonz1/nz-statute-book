@@ -1,5 +1,5 @@
 # Human Tissue Act 2008
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Human Tissue Act 2008.
@@ -59,7 +59,7 @@ In this Act, unless the context otherwise requires,—
     (a) the umbilical cord has been severed:
     (b) the placenta has detached:
     (c) the foetus has issued completely from its mother
-  - **Director-General** means the chief executive under the State Sector Act 1988 of the Ministry of Health
+  - **Director-General** means the chief executive under the Public Service Act 2020 of the Ministry of Health
   - **donor analysis** , in relation to human tissue, means analysis for the purpose of providing information (including genetic information) about an actual or potential condition or trait of the individual whose tissue was collected
   - **embryo** includes a zygote, and a cell or group of cells that has the capacity to develop into an individual
   - **ethics committee** means an ethics committee—
