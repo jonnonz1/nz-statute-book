@@ -1,5 +1,5 @@
 # Customs and Excise Act 2018
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Customs and Excise Act 2018.
@@ -102,7 +102,7 @@ Part 6
 **Definitions, application, and transitional provision**
 
 ### 5 Definitions for Act
-(1) In this Act, unless the context otherwise requires,—
+(1) In this Act, unless the context otherwise requires,—public service has the meaning in section 10 of the Public Service Act 2020
   - **administrative review** means a review under section 347 and Schedule 7
   - **aircraft** means any machine that can derive support in the atmosphere from the reactions of the air otherwise than by the reactions of the air against the surface of the earth
   - **Armed Forces** has the meaning given to that term in section 2(1) of the Defence Act 1990
@@ -343,7 +343,6 @@ Part 6
   - **prohibited imports** —
     (a) means goods whose importation is prohibited under section 95, 95A, or 96 (whether conditionally or unconditionally); and
     (b) includes goods whose importation is absolutely prohibited by a notice issued under section 22(1A) of the Misuse of Drugs Act 1975
-  - **Public Service** has the meaning given to that term in section 2 of the State Sector Act 1988
   - **reasonable period** means a period that is not longer than necessary in the circumstances
   - **registered postal operator** means a person who is registered as a postal operator under the Postal Services Act 1998
   - **registered user** has the meaning given to that term in section 322(3)
@@ -4039,7 +4038,7 @@ In this subpart, unless the context otherwise requires,—
   - **Commissioner** means the Commissioner of Inland Revenue (as that term is defined in section 3(1) of the Tax Administration Act 1994)
   - **database** means any information recording system or facility used by Customs to store information
   - **government agency** means—
-    (a) a department specified in Schedule 1 of the State Sector Act 1988, other than—
+    (a) a public service agency (as defined in section 5 of the Public Service Act 2020), other than—
       (i) the New Zealand Customs Service; and
       (ii) the Government Communications Security Bureau; and
       (iii) the New Zealand Security Intelligence Service; and
@@ -4671,7 +4670,7 @@ The function of a Customs Appeal Authority is to sit as a judicial authority for
 
 ### 350 Customs Appeal Authorities generally
 (1) A Customs Appeal Authority consists of 1 person, being a District Court Judge or a lawyer of not less than 7 years’ practice.
-(2) A person is not to be treated as employed by the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason only of that person being a Customs Appeal Authority.
+(2) A person is not to be treated as employed by the Crown for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason only of that person being a Customs Appeal Authority.
 (3) Customs Appeal Authorities are administered by the Ministry of Justice.
 (4) Schedule 8 applies to Customs Appeal Authorities and appeals from their decisions.
 
@@ -7389,8 +7388,8 @@ There must be paid out of money appropriated by Parliament for the purpose to an
 No person appointed as an Authority and no person appointed under clause 5(1) is personally liable for any act done or omitted to be done by him or her in good faith in pursuance or intended pursuance of his or her powers and authorities under this Act.
 
 ### 8 Registrars of Authorities
-(1) Any Registrars of the Authorities that are required must be appointed under the State Sector Act 1988 and 1 person may be appointed Registrar of 2 or more Authorities.
-(2) To avoid doubt, a Registrar is not precluded from holding any other office in the Public Service.
+(1) Any Registrars of the Authorities that are required must be appointed under the Public Service Act 2020 and 1 person may be appointed Registrar of 2 or more Authorities.
+(2) To avoid doubt, a Registrar is not precluded from holding any other office in the public service.
 
 ### 9 Seal
 Every Authority must have a seal that must be judicially noted in all courts.
