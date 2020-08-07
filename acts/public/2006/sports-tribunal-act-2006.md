@@ -1,5 +1,5 @@
 # Sports Anti-Doping Act 2006
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Sports Anti-Doping Act 2006.
@@ -202,7 +202,7 @@ A Police employee, a Customs officer, or any other person may provide evidence o
 (1) The Tribunal consists of at least 5, but no more than 9, members.
 (2) Each member must be appointed by the Governor-General on the recommendation of the Minister made after consultation with the board of Sport and Recreation New Zealand.
 (3) In recommending a person for appointment as a member of the Tribunal, the Minister must have regard to the person’s personal attributes, qualifications, and skills.
-(4) A member is not employed in the State services for the purposes of the State Sector Act 1988 or the Government service for the purposes of the Government Superannuation Fund Act 1956 only because the person is a member of the Tribunal.
+(4) A member is not employed in the State services for the purposes of the Public Service Act 2020 or the Government service for the purposes of the Government Superannuation Fund Act 1956 only because the person is a member of the Tribunal.
 
 ### 31 Chairperson of Tribunal
 (1) The Governor-General, on the recommendation of the Minister made after consultation with the board of Sport and Recreation New Zealand, must appoint one of the members as the chairperson of the Tribunal.
