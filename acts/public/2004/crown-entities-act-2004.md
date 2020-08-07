@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -21,7 +21,7 @@ The purpose of this Act is to reform the law relating to Crown entities to provi
   (a) this Act applies generally to Crown entities:
   (b) a statutory entity is established by or under the entity's Act, and the entity's Act may supplement, or expressly modify or negate, the provisions of this Act for that entity and its Crown entity subsidiaries:
   (c) a Crown entity company is incorporated under the Companies Act 1993 and may also have an entity's Act, and the entity's Act (if any) may supplement, or expressly modify or negate, the provisions of this Act for that company and its Crown entity subsidiaries:
-  (d) other Acts (for example, some provisions of the State Sector Act 1988) also apply.
+  (d) other Acts (for example, some provisions of the Public Service Act 2020) also apply.
 (2) This Act applies to a Crown entity, and prevails over the entity's Act, except to the extent that the entity's Act expressly provides otherwise.
 (3) Subsection (2) is subject to sections 5 and 6.
 
@@ -286,7 +286,7 @@ In sections 15 to 23, unless the context otherwise requires,—
   (f) to participate in the process of setting the entity's strategic direction and performance expectations and monitoring the entity's performance under Part 4:
   (g) in relation to other matters in this Act or another Act.
 (2) This section does not limit another Minister's relationship with the statutory entity under any other authority.
-(3) Despite section 28 of the State Sector Act 1988, the responsible Minister may not delegate any power under this Act except as provided in subsection (4).
+(3) Despite clause 5 of Schedule 6 of the Public Service Act 2020, the responsible Minister may not delegate any power under this Act except as provided in subsection (4).
 (4) The responsible Minister may delegate the power in section 133 to request information to the chief executive of a monitor (who may subdelegate this delegation to an employee of the monitor or to an individual working for the monitor as a contractor in relation to a function, duty, or power of the monitor).
 
 **Monitor's role**
@@ -739,7 +739,7 @@ A shareholding Minister of a Crown entity company must present the constitution 
   (e) to do other things under this Act or another Act or the company's constitution.
 (2) The shareholding Ministers may give directions to the company only if expressly authorised to do so by this Act or another Act.
 (3) This section does not limit another Minister's relationship with the Crown entity company under any other authority.
-(4) Despite section 28 of the State Sector Act 1988, the shareholding Ministers may not delegate any power under this Act except as provided in subsection (5).
+(4) Despite clause 5 of Schedule 6 of the Public Service Act 2020, the shareholding Ministers may not delegate any power under this Act except as provided in subsection (5).
 (5) The shareholding Ministers may delegate the power in section 133 to request information to the chief executive of a monitor (who may subdelegate this delegation to an employee of the monitor or to an individual working for the monitor as a contractor in relation to a function, duty, or power of the monitor).
 
 **Monitor's role**
@@ -975,7 +975,7 @@ A direction under section 107 comes into force 15 sitting days after it is prese
 
 ### 116 Employment of employees
 (1) If the Governor-General, by Order in Council, requires it, a Crown entity to which the order applies must not agree to terms and conditions of employment in a collective employment agreement, or an amendment to those terms and conditions, without—
-  (a) consulting the State Services Commissioner; and
+  (a) consulting the Public Service Commissioner; and
   (b) having regard to the recommendations the Commissioner makes to the Crown entity within a reasonable time of being consulted.
 (2) An Order in Council may relate to—
   (a) all statutory entities and Crown entity companies, categories or types of statutory entities or Crown entity companies, or specific statutory entities or Crown entity companies:
@@ -986,17 +986,17 @@ A direction under section 107 comes into force 15 sitting days after it is prese
 ### 117 Employment of chief executive
 (1) A chief executive of a statutory entity is appointed for a term of not more than 5 years, but may be reappointed.
 (2) The terms and conditions of employment of a chief executive of a statutory entity appointed by its board must be determined by agreement between the board and the chief executive.
-(2A) However, the board must obtain the written consent of the State Services Commissioner before—
+(2A) However, the board must obtain the written consent of the Public Service Commissioner before—
   (a) finalising the terms and conditions; or
   (b) amending any or all of the terms and conditions once they have been finalised.
-(2B) When considering the terms and conditions of a chief executive, the State Services Commissioner must have regard to the following (among any other relevant factors):
+(2B) When considering the terms and conditions of a chief executive, the Public Service Commissioner must have regard to the following (among any other relevant factors):
   (a) the legal, commercial, and operational context of the entity:
   (b) any information provided by the board, which might include, for example, the board’s advice about a person's knowledge, skills, experience, and performance:
   (c) the public interest in prudent stewardship of public resources:
   (d) Government expectations:
   (e) relevant market information.
-(2C) The State Services Commissioner must provide reasons for refusing consent to any proposed terms and conditions.
-(2D) The State Services Commissioner must provide the boards of statutory entities with advice and guidance on the terms and conditions of employment of chief executives of entities.
+(2C) The Public Service Commissioner must provide reasons for refusing consent to any proposed terms and conditions.
+(2D) The Public Service Commissioner must provide the boards of statutory entities with advice and guidance on the terms and conditions of employment of chief executives of entities.
 (3) A failure to comply with this section does not invalidate the acts of a chief executive of an entity.
 
 ### 118 Crown entity to be good employer
@@ -1018,9 +1018,9 @@ A direction under section 107 comes into force 15 sitting days after it is prese
   (h) recognition of the employment requirements of persons with disabilities.
 (3) For the purposes of this section, an equal employment opportunities programme means a programme that is aimed at the identification and elimination of all aspects of policies, procedures, and other institutional barriers that cause or perpetuate, or tend to cause or perpetuate, inequality in respect of the employment of any persons or group of persons.
 
-### 119 Application of sections 84 to 84B of the State Sector Act 1988
-(1) Each Crown entity is an employer in the State services for the purposes of sections 84 to 84B of the State Sector Act 1988.
-(2) Sections 84 to 84B of the State Sector Act 1988 apply to the officers and employees of a Crown entity.
+### 119 Application of clauses 12 to 14 of Schedule 8 of the Public Service Act 2020
+(1) Each Crown entity is an employer in the State services for the purposes of clauses 12 to 14 of Schedule 8 of the Public Service Act 2020.
+(2) Clauses 12 to 14 of Schedule 8 of the Public Service Act 2020 apply to the officers and employees of a Crown entity.
 
 ### Subpart 2 — Statutory entities
 
@@ -1095,7 +1095,7 @@ Amendment(s) incorporated in the Act(s).
 
 ### 132 Review of Crown entity's operations and performance
 (1) A responsible Minister may review the operations and performance of a Crown entity at any time.
-(2) This section does not limit powers of review in the State Sector Act 1988 or the Public Audit Act 2001 or under any other Act.
+(2) This section does not limit powers of review in the Public Service Act 2020 or the Public Audit Act 2001 or under any other Act.
 (3) Before a Minister undertakes a review under this section, he or she must—
   (a) consult with the entity on the purpose and nature of the review; and
   (b) consider any submissions made by the entity on the proposed review.
@@ -1562,6 +1562,11 @@ The statement of responsibility must—
 (2) The Auditor-General must—
   (a) audit the statements and information referred to in subsection (1)﻿(a); and
   (b) provide an audit report to the Crown entity within 4 months after the end of each financial year.
+Extension of time limits for 2019/20 financial year reports and audits: COVID-19
+(3) Despite the time limits in subsections (1)﻿(a) and (2)﻿(b), in relation to the financial year ending with 30 June 2020,—
+  (a) the information specified in subsection (1)﻿(a) must be forwarded to the Auditor-General no later than the close of 20 November 2020; and
+  (b) the audit report referred to in subsection (2)﻿(b) must be provided by the Auditor-General no later than the close of 18 December 2020.
+(4) Subsection (3), the heading above it, and this subsection are repealed at the close of 30 June 2021.
 
 **Application of this subpart to Crown entity groups**
 
@@ -1812,7 +1817,7 @@ The Archives Act 1957 applies to a Crown entity that is a government office for 
 (2) The schedules of the Local Authorities (Members' Interests) Act 1968 are consequentially amended by repealing every item that relates to a Crown entity.
 
 ### 181 Administration of Crown entity provisions
-(1) Parts 1, 2, 3, and 5 are administered in the State Services Commission.
+(1) Parts 1, 2, 3, and 5 are administered in the Public Service Commission.
 (2) Part 4 is administered in the Treasury.
 
 **Transitional and savings provisions**
@@ -1831,7 +1836,7 @@ Every chairperson and deputy chairperson of a statutory entity (other than an ex
 
 ### 186 Continuation of existing board committees
 (1) Every committee that exists at the commencement of this section continues in existence under this Act until it is disestablished under this Act.
-(2) Every member of the committee (other than a member who holds office because the person is a representative of any part of the Public Service) who is in office at that date continues in office under this Act until the person is removed under this Act or his or her term of office expires.
+(2) Every member of the committee (other than a member who holds office because the person is a representative of any part of the public service) who is in office at that date continues in office under this Act until the person is removed under this Act or his or her term of office expires.
 
 ### 187 Continuation of existing employment
 A person who is, at the commencement of this section, an employee of a statutory entity, does not cease to be an employee because of the coming into force of this Act.
@@ -2042,7 +2047,7 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Section 113 | Safeguarding independence of Crown entities |
 | Section 114 | Crown entity must comply with directions given under statutory power of direction |
 | Section 115 | Procedure for all Ministerial directions |
-| Section 119 | Cross reference to State Sector Act 1988, ss 84–84B |
+| Section 119 | Cross reference to Public Service Act 2020, clauses 12 to 14 of Schedule 8 |
 | Section 131(2) | Application of Ombudsmen Act 1975 and Official Information Act 1982 |
 | Section 133 | Minister's power to request information |
 | Section 134 | Reasons for refusing to supply information |
@@ -2071,7 +2076,7 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | --- | --- |
 | Section 3 to 8 | Crown entities and categories |
 | Section 10 | Interpretation |
-| Section 119 | Cross reference to State Sector Act 1988, ss 84–84B |
+| Section 119 | Cross reference to Public Service Act 2020, clauses 12 to 14 of Schedule 8 |
 | Section 131(2) | Application of Official Information Act 1982 and Ombudsmen Act 1975 |
 | Section 135 (but only in respect of office holders and employees of tertiary education institutions and Crown entity subsidiaries) | Officials for the purposes of sections of the Crimes Act 1961 |
 | Section 136 | Interpretation for Part 4 |
