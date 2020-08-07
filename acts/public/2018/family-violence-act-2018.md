@@ -1,5 +1,5 @@
 # Family Violence Act 2018
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-08-07_
 
 ### 1 Title
 This Act is the Family Violence Act 2018.
@@ -116,7 +116,7 @@ In this Act, unless the context otherwise requires,—
       (iii) an order made by a court in a prescribed foreign country that varies, discharges, or is made in substitution for a New Zealand order that is registered or is otherwise enforceable in that country
   - **furniture order** means an order, or a temporary order, made under section 134
   - **government organisation** means—
-    (a) a department specified in Schedule 1 of the State Sector Act 1988; or
+    (a) a public service agency as defined in section 5 of the Public Service Act 2020; or
     (b) a Crown entity (as defined in section 7 of the Crown Entities Act 2004)
   - **ill-treat** , in relation to an animal, has the same meaning as in section 2(1) of the Animal Welfare Act 1999
   - **inflict family violence** , in relation to any person, means to engage in behaviour that amounts to family violence against that person
@@ -666,14 +666,14 @@ Any application for a protection order may seek—
   (b) request the chief executive to provide brief written advice on the nature and extent of any involvement that the department for the time being responsible for the administration of the Oranga Tamariki Act 1989 has had with the parties.
 (3) On receipt of a request to provide such brief written advice, the advice must be provided by—
   (a) the chief executive; or
-  (b) a person employed under Part 5 of the State Sector Act 1988 in that department as a social worker.
+  (b) a person employed in that department as a social worker.
 (4) The Registrar must refer advice received (from the chief executive or a social worker of that kind) to the Judge who is considering the application.
 
 ### 66 Report from chief executive or social worker
 (1) This section applies to an application under section 62 or 64 for a protection order (other than a temporary order).
 (2) The court may direct the Registrar to supply to the chief executive a copy of the application.
 (3) The Registrar must, if directed by the court to do so, supply to the chief executive a copy of the application.
-(4) If the Registrar supplies to the chief executive a copy of the application, the chief executive, or a person employed under Part 5 of the State Sector Act 1988 in the department for the time being responsible for the administration of the Oranga Tamariki Act 1989 as a social worker,—
+(4) If the Registrar supplies to the chief executive a copy of the application, the chief executive, or a person employed in the department for the time being responsible for the administration of the Oranga Tamariki Act 1989 as a social worker,—
   (a) must report on the application; and
   (b) may appear on the application personally or by a lawyer.
 
