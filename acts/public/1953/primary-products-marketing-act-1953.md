@@ -1,5 +1,5 @@
 # Primary Products Marketing Act 1953
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2020-08-07_
 
 > An Act to provide for the establishment of Marketing Authorities for the purpose of regulating the marketing of primary products and to make provisions with respect to those Authorities
 
@@ -114,7 +114,7 @@ Every Marketing Authority is a body corporate, with perpetual succession and a c
 ### 7 Appointment of officers
 (1) A Marketing Authority may appoint such officers as it deems necessary for the efficient carrying out of its functions and duties.
 (2) Any person in the service of the Crown may be appointed to be an officer of a Marketing Authority, but no person shall be entitled to hold office concurrently as an officer of a Marketing Authority and as a servant of the Crown except—
-  (a) in the case of a person subject to the State Sector Act 1988, with the consent of the State Services Commissioner; and
+  (a) in the case of a person subject to the Public Service Act 2020, with the consent of the Public Service Commissioner; and
   (b) in any other case, with the consent of the Minister of the Crown to whose control he is subject.
 
 ### 8 Marketing Authorities may subsidise superannuation schemes for staff
