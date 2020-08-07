@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2017-12-01_
+_Consolidation as at 2020-08-07_
 
 > Title
 
@@ -348,6 +348,7 @@ Any existing fittings, lawfully fixed to or lawfully installed over or under any
 (2) Nothing in subsection (1) limits a local authority’s or other body’s or person’s ability to impose reasonable conditions under section 25(2).
 (3) However, a condition requiring a network operator to increase amenity values (rather than to merely maintain them) must not be imposed unless the work to be done is in an area identified in a district plan as an area in relation to which, under the district plan, there are particular considerations, or rules or requirements, relating to amenity values.
 (4) If the cost to the gas operator of complying with a condition referred to in subsection (3) is higher than it would have been if there were not a requirement to increase amenity values, then the person imposing the condition must pay that increase in cost.
+(5) In subsection (3), a reference to a district plan includes a reference to a development plan under the Urban Development Act 2020.
 
 ### 26 Notice to be given before work undertaken
 (1) Except as provided in subsection (5), before a gas operator proceeds to undertake any work pursuant to the powers contained in section 25(1), the gas operator shall give notice of its intention to undertake the work to—
@@ -488,7 +489,7 @@ Sections 33 and 34 shall apply notwithstanding anything to the contrary in secti
 (5) If any regulation made under section 54 requires compliance with any gas code of practice that has been amended under this section, that regulation shall, while the emergency amendment remains in force, be deemed to require compliance with the code as so amended notwithstanding the fact that the regulation was made before that amendment to the code came into force.
 (6) Despite section 73 of the Crown Entities Act 2004, WorkSafe must not delegate to any person the power conferred by this section.
 (7) Subsection (8) applies if, pursuant to section 6A(3) and (4), the Secretary may exercise the power conferred by this section in relation to a matter specified in a Gazette notice under section 6A(2).
-(8) Despite section 41 of the State Sector Act 1988, the Secretary must not delegate to any person the power conferred by this section.
+(8) Despite clauses 2 and 3 of Schedule 6 of the Public Service Act 2020, the Secretary must not delegate to any person the power conferred by this section.
 
 ### 42 Citation of code
 In any regulations made under section 54, any gas code of practice or amendment of a gas code of practice may, without prejudice to any other method of citation, be cited by the title or reference given to it by WorkSafe and by its date of issue; and such citation shall be deemed, subject to section 41(5), to include and refer to the latest gas code of practice or amendment in force when the regulations were made.
