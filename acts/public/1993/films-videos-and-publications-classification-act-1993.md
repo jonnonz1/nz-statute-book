@@ -1,5 +1,5 @@
 # Films, Videos, and Publications Classification Act 1993
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-08-10_
 
 > An Act to consolidate and amend the law relating to the censoring of films, videos, books, and other publications; and to repeal the Indecent Publications Act 1963, the Films Act 1983, and the Video Recordings Act 1987
 
@@ -13,6 +13,7 @@ _Consolidation as at 2020-08-07_
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
   - **advertising poster** means any poster, placard, photograph, or other printed pictorial matter that is intended for use in the advertising of any publication (other than a film) to the public; and includes a miniature representation of the whole or part of any such poster; and also includes any enlarged representation of the whole or any part of any such poster
+  - **approved self-rating system** means a system approved by the Chief Censor under section 46G for use by a specified CVoD provider to rate and label the provider’s commercial video on-demand content
   - **authorised distributor** , in relation to a publication, means—
     (a) the person who appears to the Classification Office to be lawfully entitled to distribute the publication in New Zealand; or
     (b) where there is no such person, the owner of the publication
@@ -26,6 +27,11 @@ In this Act, unless the context otherwise requires,—
   - **classification** means the classification given to a publication under section 23 or section 55 or section 56
   - **Classification Office** means the Office of Film and Literature Classification established under section 76
   - **classification officer** means a person appointed as a classification officer pursuant to section 80(2)
+  - **commercial video on-demand content** —ExamplesA movie that can be downloaded from the Internet by a person who pays a one-off fee to access that movie.A series made available to a person who paid a subscription fee for access to a catalogue of content to be accessed through a computer or other electronic device.A short film made available to a person who has been given access to a catalogue of online content as a benefit of entering into a contract with an Internet provider.
+    (a) means video on-demand content that is made available to persons in New Zealand for a fee or other consideration; but
+    (b) does not include video on-demand content that is made available on a platform provided by a broadcaster as part of a subscription-based television service if—
+      (i) the platform is only accessible by subscribers to the service; and
+      (ii) that content has been classified in accordance with a code of broadcasting practice issued or approved by the Broadcasting Standards Authority under section 21(1) of the Broadcasting Act 1989
   - **complaints officer** means a person designated under clause 3 of Schedule 1 as a complaints officer
   - **Deputy Chief Censor** means the Deputy Chief Censor of Film and Literature appointed under section 80(1)
   - **description** means the description of the contents of a film assigned to it under this Act
@@ -79,6 +85,9 @@ In this Act, unless the context otherwise requires,—
       (ii) any printed publication divided into parts that are published separately at intervals; but
     (b) does not include a newspaper published at intervals of less than 1 month
   - **serial publication order** means an order made under section 37(1)
+  - **specified CVoD provider** means—
+    (a) a company listed in Schedule 4, to the extent that the company makes commercial video on-demand content available in New Zealand; and
+    (b) a subsidiary of a company listed in Schedule 4, if that subsidiary makes commercial video on-demand content available in New Zealand
   - **supply** means to sell, or deliver by way of hire, or offer for sale or hire
   - **supply to the public** , in relation to a film,—and has a corresponding meaning
     (a) means supply by way of sale, hire, exchange, or loan, in the course of any business; and includes sale, hire, exchange, or loan by—
@@ -86,6 +95,7 @@ In this Act, unless the context otherwise requires,—
       (ii) any club or association, whether public or private, and whether incorporated or unincorporated, that, as part of its activities, makes films available to its members; but
     (b) does not include any supply of any film to any person who makes or distributes or supplies films, unless that person intends to supply that film to the public or, in the case of a club or association to which paragraph (a)﻿(ii) applies, to its members;—
   - **video game** means any video recording that is designed for use wholly or principally as a game
+  - **video on-demand content** means content, in the form of visual images produced electronically and shown as a moving picture, that is made available to persons on-demand using a computer or other electronic device
   - **video recording** means any disc, magnetic tape, or solid state recording device containing information by the use of which 1 or more series of visual images may be produced electronically and shown as a moving picture
   - **video slick** , in relation to a video recording, means any leaflet or notice (whether with or without illustrations or photographs) that contains information about the video recording and is intended to be affixed to, or inserted inside any sleeve of, any display case
   - **wholesale distributor** means any person who imports for sale in New Zealand otherwise than to the public any printed matter published outside New Zealand
@@ -156,6 +166,9 @@ Sections 3A and 3B are not limited by section 3, and do not limit the Classifica
 ### 4 Classification of publications a matter of expert judgment
 (1) The question whether or not a publication is objectionable or should in accordance with section 23(2) be given a classification other than objectionable is a matter for the expert judgment of the person or body authorised or required, by or pursuant to this Act, to determine it, and evidence as to, or proof of, any of the matters or particulars that the person or body is required to consider in determining that question is not essential to its determination.
 (2) Without limiting subsection (1), where evidence as to, or proof of, any such matters or particulars is available to the body or person concerned, that body or person shall take that evidence or proof into consideration.
+
+### 4A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 5 Act to bind the Crown
 This Act binds the Crown.
@@ -860,6 +873,10 @@ The functions of the labelling body are as follows:
 ### 77 Functions of Classification Office
 (1) The functions of the Classification Office are as follows:
   (a) to determine the classification of any publication submitted to it under this Act:
+  (aa) to support and facilitate the development by specified CVoD providers of approved self-rating systems:
+  (ab) to provide and maintain a database of films (see section 11A):
+  (ac) to support the Chief Censor to approve self-rating systems developed by specified CVoD providers for their use to label commercial video on-demand content (see section 46G) and to monitor the operation of, and results of the use of, those approved self-rating systems:
+  (ad) to support the Chief Censor to review approved self-rating systems used by specified CVoD providers (see section 46H):
   (b) to determine any question relating to the character of a publication referred to it by a court pursuant to section 29(1) or section 41(3) in any civil or criminal proceedings (including proceedings under section 116):
   (c) to determine, in accordance with section 27, whether or not, in the case of any publication classified as a restricted publication, conditions should be imposed in respect of the public display of that publication, or any advertising poster or, as the case requires, any film poster relating to the publication, or both, and if so, what conditions:
   (d) to examine, in accordance with regulations made under this Act, any film poster used or intended to be used in relation to the public supply or public exhibition of any film submitted to the Classification Office under section 12 or section 13:
@@ -1520,6 +1537,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (f) prescribing the procedures relating to—
     (i) the examination of films by the labelling body:
     (ii) the issue of labels in respect of films for the purposes of this Act:
+    (iii) the self-rating process for commercial video on-demand content provided by specified CVoD providers:
   (g) prescribing the kinds of ratings to be assigned to films under this Act:
   (h) prescribing the circumstances in which the labelling body may not assign a rating to a film:
   (ha) prescribing, as contemplated by sections 12(1A) and 71(ba), the circumstances in which, on an application under section 9(1) in respect of the film, the labelling body may, without a direction of the Classification Office under section 36 in respect of the film, issue a label (containing the classification of, and any description given to, the item) in respect of a film—
@@ -1529,9 +1547,13 @@ The Governor-General may from time to time, by Order in Council, make regulation
     (i) the display of such labels on films that are supplied to the public or offered for supply to the public, and on the cassettes, cases, or other containers in or on which such films are kept:
     (ii) the public display or advertising, in respect of films exhibited to the public, of the content of such labels:
     (iii) the display of such labels on, or the inclusion of the content of such labels in, any posters or other advertising material used or intended for use in relation to the advertising of any film to the public:
+    (iv) the display of labels on commercial video on-demand content provided by specified CVoD providers (including labels to be displayed on the content and on menus and catalogues that list the content):
+    (v) the display of labels on advertisements for commercial video on-demand content provided by specified CVoD providers:
   (j) requiring the display, on premises where films are supplied to the public, offered for supply to the public, or exhibited to the public, of posters and advertising material explaining the ratings and classifications assigned to films under this Act:
   (ja) requiring the display, on premises where films to which regulations made under paragraph (nd) apply are supplied to the public or offered for supply to the public, of posters and advertising material explaining the ratings and classifications under the Video Recordings Act 1987, and their equivalent ratings and classifications under this Act:
   (k) prescribing the procedures relating to the examination and approval of film posters by the labelling body and the Classification Office:
+  (ka) prescribing factors that must be taken into account when the rating to be applied to commercial video on-demand content is determined by use of an approved self-rating system (see section 46F(1)﻿(g)):
+  (kb) prescribing information to be included in the film database maintained by the Classification Office under section 11A:
   (l) prescribing information to be included in the register of classification decisions:
   (m)
   (n) providing for the dissemination, by the labelling body, of notice of the rating and description (if any) assigned by it to any film, and for the labelling body to charge a reasonable fee for supplying to any person a copy of any such notice:
@@ -1544,12 +1566,75 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (o) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $2,000, that may, on conviction, be imposed in respect of any such offences:
   (p) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for their due administration.
 
+**Levy on specified CVoD providers**
+
+### 149A Payment of annual levy by specified CVoD provider
+(1) A specified CVoD provider must pay to the Classification Office an annual levy prescribed by, or calculated in accordance with, regulations made under section 149B.
+(2) The levy is payable to the Classification Office to fund the costs of its activities in support of the purpose of Part 3A.
+(3) A provider must pay the levy for each financial year beginning on 1 July (or part of the year) during which the provider is listed in Schedule 4.
+(4) In respect of a financial year beginning on 1 July, a provider must pay the levy on or before the later of the following:
+  (a) the 28th day after an invoice is sent; or
+  (b) 31 July of that financial year.
+
+### 149B Levy regulations
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations, for the levy that is payable under section 149A,—
+  (a) prescribing the amount or rate of the levy or prescribing the methods of calculating or ascertaining amounts or rates of the levy; and
+  (b) requiring the waiver, refund, or remission of the whole or any part of a levy in circumstances prescribed in the regulations; and
+  (c) providing for the Chief Censor to waive, refund, or remit the whole or any part of a levy in such circumstances as (in accordance with the regulations) the Chief Censor thinks fit; and
+  (d) providing for any circumstances in which, and conditions subject to which, providers may be allowed extensions of time for the payment of a levy; and
+  (e) imposing the addition of penalties, not exceeding 10% of the unpaid amount, to a levy that is not paid in full by the due date.
+(2) Regulations in force on 31 May apply to the next financial year beginning on 1 July.
+(3) A levy imposed by regulations made under this section must be reasonable, having regard to—
+  (a) the costs projected to be incurred by the Classification Office carrying out its activities in support of the purpose of Part 3A; and
+  (b) the amount of any income that could be applied to meet those costs and that is projected to be received by the Classification Office from any other source.
+(4) The regulations may prescribe the amount or rate of the levy, or prescribe the methods of calculating or ascertaining amounts or rates of the levy,—
+  (a) on a uniform basis; or
+  (b) on any differential basis.
+(5) Before recommending that regulations be made under this section, the Minister must be satisfied that—
+  (a) the Secretary has taken reasonable steps to consult each specified CVoD provider in relation to the proposed levy; and
+  (b) if the levy is set on a differential basis, the levy required from different providers is fair having regard to the risk of harm to viewers from commercial video on-demand content made available by different providers (for example, having regard to the market presence of different providers and the nature of the content made available by different providers).
+(6) An order made under subsection (1) is a legislative instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### 149C Dispute does not suspend obligation to pay levy
+A dispute about the validity of a levy or the provider’s liability to pay a levy does not suspend—
+  (a) the obligation of the provider to pay the levy; or
+  (b) the right of the Classification Office to receive and recover the levy (or act under section 149D or 149E).
+
+### 149D Approval may be suspended until debt paid
+(1) If a specified CVoD provider fails to pay by the due date any levy payable under section 149A, the Chief Censor may suspend any approval of a self-rating system used by the provider.
+(2) The Chief Censor must give the provider written notice of the Chief Censor’s intention to act under subsection (1) (including the reason) at least 10 working days before the Chief Censor acts.
+(3) If an approval is suspended under this section, during the period of suspension, the system to which the approval relates is not an approved self-rating system.
+
+**Status and recovery of fees or levy**
+
+### 149E Status and recovery of fees or levy
+Outstanding amounts of fees or levy payable to the Classification Office under this Act constitute a debt due to the Office, and the Office may issue legal proceedings for recovery of the debt from the provider in a court of competent jurisdiction.
+
 **Consequential amendments, repeals, and revocation**
 
 ### 150 Consequential amendments, repeals, and revocation
 (1) The enactments specified in Schedule 2 are hereby amended in the manner indicated in that schedule.
 (2) The enactments specified in Schedule 3 are hereby repealed.
 (3) The Films Order 1986 (SR 1986/116) is hereby consequentially revoked.
+
+### 150A Amendment of Schedule 4 by Order in Council
+(1) The Governor-General, by Order in Council made on the recommendation of the Minister, may amend Schedule 4 by—
+  (a) adding the name of any person; or
+  (b) deleting the name of any person.
+(2) The Minister must not recommend that an order be made under subsection (1)﻿(a) unless—
+  (a) the Minister has consulted the Chief Censor on the proposal that the order be made; and
+  (b) the Minister is satisfied, on reasonable grounds, that adding the name of the person will reduce the risk of harm to viewers of commercial video on-demand content.
+(3) The Minister must not recommend that an order be made under subsection (1)﻿(b) unless—
+  (a) the Minister has consulted the Chief Censor on the proposal that the order be made; and
+  (b) the Minister is satisfied, on reasonable grounds, that deleting the name of the person will not materially increase the risk of harm to viewers of commercial video on-demand content.
+(4) For the purposes of subsections (2)﻿(b) and (3)﻿(b), the Minister—
+  (a) must consider—
+    (i) available evidence of the current or likely extent of public subscriptions to, or use of, commercial video on-demand services and products provided by the person; and
+    (ii) available evidence of the nature of the commercial video on-demand content made available, or intended to be made available, by the person and the potential of that content to cause harm; and
+    (iii) available evidence of the person’s commitment to a classification framework recognised in New Zealand as being effective in ensuring that persons in New Zealand who are likely to be harmed by viewing the commercial video on-demand content are warned of the nature of that content by means of clear and consistent labelling; and
+  (b) may consider any other factors that the Minister thinks relevant.
+(5) An order under subsection (1)﻿(a) must not come into force earlier than 3 months after the date on which it is published.
+(6) An order made under subsection (1) is a legislative instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ## Part 10 — Transitional provisions
 
@@ -1766,6 +1851,33 @@ Section 176 shall expire with the close of 31 March 1999, and on 1 April 1999—
   (a) section 176 shall be deemed to have been repealed; and
   (b) any regulations made under section 149 pursuant to any power conferred by section 176 shall be deemed to have been revoked.
 
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Films, Videos, and Publications Classification (Commercial Video on-Demand) Amendment Act 2020
+
+### 1 Content classified under broadcasting code before 10 August 2020
+(1) If, before 10 August 2020, a specified CVoD provider classified commercial video on-demand content in accordance with a code of broadcasting practice issued or approved by the Broadcasting Standards Authority under section 21(1) of the Broadcasting Act 1989, the specified CVoD provider is not required to issue a label for that content under section 46C(1).
+(2) If subclause (1) applies, section 46C(2) applies as if the classification referred to in subclause (1), and any associated advisory or warning material, were a label issued under this Act.
+(3) Nothing in this clause affects the obligations of any other specified CVoD provider in relation to labelling the same content.
+
+### 2 Time when labelling requirements commence
+For the purposes of clauses 3 and 4, the labelling requirements commence when section 46C (as inserted by section 7 of the Films, Videos, and Publications Classification (Commercial Video on-Demand) Amendment Act 2020) comes into force.
+
+### 3 Other commercial video on-demand content made available before labelling requirements commence
+(1) This clause applies to commercial video on-demand content made available in New Zealand by a specified CVoD provider before the labelling requirements commence without—
+  (a) a label issued under this Act; or
+  (b) a classification determined in accordance with a code of broadcasting practice issued or approved by the Broadcasting Standards Authority under section 21(1) of the Broadcasting Act 1989.
+(2) The requirements in sections 6 and 46C to rate and label commercial video on-demand content do not apply to commercial video on-demand content referred to in subclause (1) until 6 months after the labelling requirements commence.
+(3) However, despite subclause (2), the Chief Censor may require a specified CVoD provider to issue a label in respect of commercial video on-demand content referred to in subclause (1) before the date referred to in subclause (2).
+
+### 4 Approval of providers’ self-rating systems before labelling requirements commence
+(1) Before the labelling requirements commence,—
+  (a) a specified CVoD provider may apply to the Chief Censor for approval of a system to be used to rate and label the provider’s commercial video on-demand content; and
+  (b) the Chief Censor may approve the self-rating system for use by the provider if the Chief Censor is satisfied that use of the system will enable the provider to meet the requirements of section 46F (as inserted by section 7 of the Films, Videos, and Publications Classification (Commercial Video on-Demand) Amendment Act 2020) when that section commences.
+(2) The Chief Censor may approve a self-rating system for use by a provider subject to any terms and conditions that the Chief Censor considers are necessary for the purposes of subclause (1)﻿(b).
+(3) If regulations have been made that prescribe the information that must be contained in an application for approval of a self-rating system under section 46G, or the fee that is payable when making an application, the application under subclause (1)﻿(a) must contain the information and be accompanied by the fee.
+(4) An approval given in accordance with this clause must be treated as an approval under section 46G (as inserted by section 7 of the Films, Videos, and Publications Classification (Commercial Video on-Demand) Amendment Act 2020) from the date on which that section comes into force.
+
 ## Schedule 1 — Provisions applying in respect of Classification Office
 
 ### 1 Employment of experts
@@ -1825,6 +1937,8 @@ The income of the Classification Office shall be exempt from income tax.
 ## Schedule 2 — Enactments amended
 
 ## Schedule 3 — Enactments repealed
+
+## Schedule 4 — Specified CVoD providers
 
 ### 1 Title
 (1) This Act is the Films, Videos, and Publications Classification Amendment Act 2005.
