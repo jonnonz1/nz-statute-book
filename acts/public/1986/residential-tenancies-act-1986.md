@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-08-12_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -177,7 +177,12 @@ This Act applies to every tenancy for residential purposes except as specificall
   (u) if the tenancy has been entered into by a leasing authority under section 7(1)﻿(e), (f), (g), or (h) of the Public Bodies Leases Act 1969:
   (v) if the Māori Trustee has leased a Māori reserve or township land under section 26 of the Maori Reserved Land Act 1955:
   (w) if the lease provides for a perpetual right of renewal:
-  (x) if the lease is of land on which a dwellinghouse is erected and the lessee is entitled (whether beneficially or as trustee), on or before the termination of the tenancy, to remove the dwellinghouse or to receive compensation in respect of it.
+  (x) if the lease is of land on which a dwellinghouse is erected and the lessee is entitled (whether beneficially or as trustee), on or before the termination of the tenancy, to remove the dwellinghouse or to receive compensation in respect of it:
+  (y) if the premises are used to provide emergency or transitional accommodation and—
+    (i) the provision of the accommodation is funded wholly or partly by—
+      (A) emergency housing assistance paid to or for the credit of a person under the Special Needs Grants Programme; or
+      (B) any other payment made by a government department for the provision of emergency or transitional accommodation to people in need of housing; or
+    (ii) the provider of the accommodation is a person, or class of person, prescribed by regulations for the purposes of this paragraph.
 (2) In subsection (1)﻿(s)﻿(i), social housing means housing for—
   (a) persons on low incomes:
   (b) persons with special housing needs:
@@ -186,6 +191,7 @@ This Act applies to every tenancy for residential purposes except as specificall
   (a) is located in a camping-ground subject to regulations under the Health Act 1956; and
   (b) is designed to be relocatable; and
   (c) comprises a group of rooms occupied or intended to be occupied either permanently or temporarily as the living quarters of a single housekeeping unit (whether consisting of 1 or more persons), which is completely self-contained in respect of domestic equipment and facilities.
+(4) In subsection (1)﻿(y), Special Needs Grants Programme means the Special Needs Grants Programme approved and established under section 124(1)﻿(d) of the Social Security Act 1964 (and continued under clause 21 of Schedule 1 of the Social Security Act 2018).
 
 ### 5A Certain excluded long fixed-term tenancies remain subject to repealed sections of Property Law Act 1952
 (1) This section applies to a fixed-term tenancy of at least 5 years, and to which this Act does not apply because the tenancy—
@@ -536,21 +542,15 @@ The chief executive must make any payments of a bond under section 22, 22A, or 2
   (a) the landlord shall give the tenant notice in writing of the increase; and
   (b) that notice shall specify the amount of the increased rent and the day upon which the increased rent shall become payable; and
   (c) the day upon which the increased rent shall become payable shall be not less than 60 days (or, in the case of a boarding house tenancy, not less than 28 days) after the date on which that notice is given; and
-  (d) the rent shall not be increased within 180 days after the date on which the last increase took effect; and
-  (e) in the case of a tenancy which is not subject to annual rent adjustment, the rent shall not be increased within 180 days after the date of the commencement of the tenancy; and
-  (f) in the case of a tenancy which is subject to annual rent adjustment, no rent increase shall take effect—
-    (i) less than 60 days (or, in the case of a boarding house tenancy, 28 days) after the notice required by paragraph (a) is given; and
-    (ii) other than on the specified date in any year or with effect on the next day on which any rent is to be paid within 28 days after the specified date in any year; and
+  (d) the rent must not be increased within 12 months after the date of the commencement of the tenancy; and
+  (e) the rent must not be increased within 12 months after the date on which the last increase took effect; and
+  (f)
   (g) a landlord under a fixed-term tenancy—
     (i) may not increase the rent during the term of the tenancy unless permitted by the provisions of the tenancy agreement to do so; and
     (ii) may do so only in accordance with this section and any such provisions of the tenancy agreement; and
   (h) where the Tribunal has made an order under section 25 and that order is still in force, the rent shall not be increased to an amount in excess of the amount specified in the order.
 (1A) The provisions referred to in subsection (1)﻿(g) may take the form of the provisions set out in Schedule 1.
-(2) For the purposes of subsection (1), a tenancy is subject to annual rent adjustment where—
-  (a) it is the landlord's practice (the proof of which shall lie on the landlord)—
-    (i) to review the rent annually; and
-    (ii) to adjust the rent on a specified day in each year; and
-  (b) provision to that effect is included in the tenancy agreement or the tenant is otherwise informed of the practice in writing before the commencement of the tenancy.
+(2)
 (3) A notice of an increase in rent lawfully given under this section shall, unless it is withdrawn by the landlord, have the effect of varying the tenancy agreement in accordance with the terms of the notice.
 (4) Where a landlord has given a notice to increase the rent and subsequently realises that, because of—the day fixed in the notice for the increased rent to become payable is in contravention of subsection (1), the landlord may, with the agreement of the tenant or (failing such agreement) with the consent of the Tribunal, give to the tenant a further notice varying the original notice so as to bring the terms of the original notice into accord with the provisions of that subsection.
   (a) some error in calculating the day on which the increased rent is to become payable or in the manner in which that day is expressed in the notice; or
@@ -2600,6 +2600,32 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (1) To avoid doubt, nothing in the Building Act 2004, or in any other enactment relating to buildings, health, or safety, limits the provision that may be made by regulations under section 138A, 138B, or 138C.
 (2) Regulations under section 138B(1) may provide that a provision of any regulations in force under section 120C of the Health Act 1956 that relates to any matter referred to in section 138B(2) does not apply in relation to premises (read in accordance with section 138B(7)) that are subject to tenancies.
 
+### 138E Regulations relating to termination of tenancy for physical assault by tenant
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing all or any of the following matters:
+  (a) information to be included in a notice under section 55AA(3)﻿(a):
+  (b) persons, or classes of persons, whose declarations are qualifying evidence for the purposes of section 55AA(6):
+  (c) types of qualifying evidence for the purposes of section 55AA(6).
+(2) The Minister must consult the Minister of Justice before recommending the making of regulations under this section.
+
+### 138F Regulations relating to withdrawal from tenancy following family violence
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing all or any of the following matters:
+  (a) information to be included in a notice under section 56B(1)﻿(b):
+  (b) persons, or classes of persons, whose declarations are qualifying evidence for the purposes of section 56B(8):
+  (c) types of qualifying evidence under section 56B(8):
+  (d) PACHMA tenancies, or classes of PACHMA tenancies, in relation to which rent is not to be reduced under section 56B(3)﻿(d) and (5):
+  (e) other tenancies, or other classes of tenancies, in relation to which rent is not to be reduced under section 56B(3)﻿(d) and (5):
+  (f) landlords, or classes of landlords, in relation to whose tenancies rent is not to be reduced under section 56B(3)﻿(d) and (5):
+  (g) types of permitted disclosure, or circumstances in which disclosure is permitted, under section 56E.
+(2) The Minister must consult the Minister of Justice before recommending the making of regulations under this section.
+(3) The Minister must not recommend the making of regulations under subsection (1)﻿(e) unless satisfied that, following any withdrawal under section 56B from tenancies, or classes of tenancies, prescribed by those regulations,—
+  (a) the landlords of those tenancies will reduce the rent for which any remaining tenants under that section are liable; and
+  (b) the reduction will be the same or substantially the same as, or greater than, the reduction that would otherwise have applied under section 56B(3)﻿(d) and (5).
+(4) The Minister must not recommend the making of regulations under subsection (1)﻿(f) unless satisfied that, following any withdrawal under section 56B from tenancies of the landlords, or classes of landlords, prescribed by those regulations,—
+  (a) those landlords, or classes of landlords, will reduce the rent for which any remaining tenants under that section are liable; and
+  (b) the reduction will be the same or substantially the same as, or greater than, the reduction that would otherwise have applied under section 56B(3)﻿(d) and (5).
+(5) Regulations under this section may make different provision for different classes of persons, premises, or tenancies.
+(6) In this section, PACHMA tenancy has the meaning given to it by section 56B(8).
+
 ### 139 Regulations relating to accommodation brokers
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) providing for the registering, licensing, or approval of accommodation brokers, including the qualifications required of, and the conditions to be met by, persons intending to set up business as accommodation brokers, and for the disciplining of accommodation brokers who are so registered, licensed, or approved:
@@ -2610,6 +2636,13 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (f) prescribing fees payable in respect of any matters under any regulations made under this section:
   (g) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this section, and the amounts of fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $5,000, and, where the offence is a continuing one, a further amount not exceeding $500 for every day or part of a day during which the offence has continued.
 
+### 139A Regulations relating to infringement offences
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
+  (a) specifying offences in this Act that are infringement offences, and prescribing infringement fees not exceeding $500 for those offences:
+  (b) specifying offences in regulations made under this Act that are infringement offences, and prescribing infringement fees not exceeding $500 for those offences.
+(2) Before making a recommendation for the purposes of subsection (1), the Minister must consult the Minister of Justice in relation to the proposed regulations.
+(3) Regulations under this section that prescribe infringement fees may prescribe different infringement fees to apply in respect of different classes of persons.
+
 ### 140 Regulations relating to other matters
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing forms to be used for any purposes under this Act:
@@ -2617,7 +2650,8 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (c) requiring the provision of specified information by the landlord to the tenant at the commencement of a tenancy agreement:
   (d) providing for the payment of bonds by instalments; and providing for a landlord to be indemnified or protected in some other way from any loss arising out of the failure by the tenant to pay all the required instalments:
   (da) prescribing the method by which payments are to be made to the chief executive:
-  (e) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act, and the amounts of fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $1,000 and, where the offence is a continuing one, a further amount not exceeding $100 for every day or part of day during which the offence has continued:
+  (e) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act, and the amounts of fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $1,000:
+  (eaa) prescribing persons or classes of persons for the purposes of section 5(1)﻿(y)﻿(ii):
   (ea) prescribing specified databases for the purposes of section 112C(2):
   (f) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) Regulations under this section that prescribe the circumstances in which a fee may be waived or remitted in whole or in part may specify, as circumstances in which fees payable by landlords and tenants may be waived or remitted in whole or in part,—
@@ -2777,6 +2811,61 @@ Section 56A(1) (as inserted by section 12 of the 2019 Amendment Act) applies to 
 
 ### 22 Application of section 78A to certain work orders
 Section 78A (as inserted by section 19 of the 2019 Amendment Act) does not apply to subsequent proceedings taken for enforcement of a work order made in a matter for which proceedings commenced before the Tribunal before the date on which that section comes into force.
+
+### Part 5 — Provisions relating to Residential Tenancies Amendment Act 2020
+
+### 23 Interpretation
+In this Part,—
+  - **2020 Act** means the Residential Tenancies Amendment Act 2020
+  - **amendment** means an amendment to this Act made by a provision of the 2020 Act
+  - **commencement date** , in relation to an amendment, means the date on which the provision of the 2020 Act that makes the amendment comes into force.
+
+### 24 Existing tenancies, etc
+(1) An amendment applies to a tenancy whether the tenancy commences before, on, or after the commencement date.
+(2) This clause is subject to clauses 25 to 37.
+
+### 25 New unlawful acts and pecuniary penalties
+An amendment that creates a new unlawful act or confers a power to impose pecuniary penalties does not apply to acts or omissions before the commencement date.
+
+### 26 Proceedings that have commenced
+An amendment does not apply to proceedings commenced before the Tribunal before the commencement date.
+
+### 27 Notices to terminate, renew, or extend tenancies
+(1) An amendment made by any of sections 4(3), 32 to 34, and 36 of the 2020 Act does not apply to the termination of a tenancy by notice if the notice is given before the commencement date.
+(2) The amendments made by section 42 of the 2020 Act do not apply to the exercise of a right to renew or extend a tenancy unless the date on which the tenancy would otherwise expire is 28 or more days after the commencement date.
+
+### 28 Notice to increase rent
+(1) An amendment made by section 19 or 78 of the 2020 Act does not apply to an increase of rent by notice given under section 24 of this Act if the notice is given before the commencement date for those amendments and relates to an increase with effect on or after 26 September 2020.
+(2) See clauses 2 and 11 to 13 of Schedule 5.
+
+### 29 Assignment by tenant
+Section 43A of this Act (as inserted by section 24 of the 2020 Act) does not apply to a tenancy granted before the commencement date.
+
+### 30 Documents to be retained and produced by landlord
+(1) The amendment made by section 27 of the 2020 Act applies to any information retained by the landlord on or after the commencement date, whether the information came into the landlord’s possession or control before, on, or after that date.
+(2) Any new requirement imposed on a landlord by an amendment made by section 65 of the 2020 Act applies to any documents (or copies of them) in the landlord’s possession or control on or after the commencement date, whether the documents (or copies) were created before, on, or after that date.
+
+### 31 Termination for physical assault by tenant
+The amendment made by section 37 of the 2020 Act does not apply in relation to a physical assault that occurred before the commencement date.
+
+### 32 Rent arrears and anti-social behaviour
+(1) The amendment made by section 36 of the 2020 Act does not apply to rent arrears incurred before the commencement date.
+(2) Section 55A of this Act (as inserted by section 38 of the 2020 Act) does not apply to anti-social behaviour engaged in before the commencement date.
+
+### 33 Withdrawal following family violence
+The amendment made by section 39 of the 2020 Act applies whether the family violence occurred before, on, or after the commencement date.
+
+### 34 Continuation of existing fixed-term tenancies as periodic
+The amendment made by section 41 of the 2020 Act does not apply to tenancies granted before the commencement date.
+
+### 35 Abandonment of premises
+The amendment made by section 43 of the 2020 Act does not apply to the abandonment of premises if the date determined by the Tribunal under section 61(2) of this Act in relation to the abandonment is before the commencement date.
+
+### 36 Enforceable undertakings
+Sections 126N to 126R of this Act (as inserted by section 70 of the 2020 Act) relate to any enforceable undertaking given on or after the commencement date, whether the contravention or alleged contravention to which the undertaking relates occurred or is alleged to have occurred on, before, or after that date.
+
+### 37 Only 1 penalty type for same conduct
+The amendment made by section 73 of the 2020 Act applies to conduct whether the conduct is engaged in before, on, or after the commencement date.
 
 ## Schedule 1 — Clauses for rent increases in fixed-term tenancy agreements
 
@@ -2948,11 +3037,19 @@ Clauses 12 and 13 apply for a period of 6 months starting on the commencement da
 **Tribunal proceedings**
 
 ### 14 Application of clause 15
-Clause 15 applies for a period of 6 months starting on the commencement date.
+(1) Clause 15(1) and (2) applies for a period of 12 months starting on the commencement date (the 12-month period).
+(2) Clause 15(3) to (6) applies for the part (if any) of the 12-month period during which section 56B (as inserted by section 39 of the Residential Tenancies Amendment Act 2020) is in force.
 
 ### 15 Tribunal proceedings
 (1) The Tribunal may conduct its proceedings (whether they relate to this schedule or otherwise) as it sees fit, including on the papers.
 (2) If the Tribunal decides to hold a hearing, it may hold the hearing in any manner that the Tribunal thinks fit (including by telephone or video conference).
+(3) In relation to any proceedings that relate to withdrawal from a tenancy under section 56B, subclauses (1) and (2) are subject to subclauses (4) to (6).
+(4) If the Tribunal decides to hold a hearing, it must order that the whole of the hearing be held in private.
+(5) The Tribunal must, on the application of any party to the proceedings, permit the party’s evidence to be given remotely if the necessary facilities are available.
+(6) If evidence is to be given remotely under subclause (5), the Tenancy Adjudicator conducting the hearing or a Registrar of the Tribunal may determine which 1 or more of the following are to be used:
+  (a) telephone:
+  (b) audiovisual link:
+  (c) any other remote access facility that the Tenancy Adjudicator or Registrar considers appropriate.
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Residential Tenancies Amendment Act 1996, and shall be read together with and deemed part of the Residential Tenancies Act 1986 (hereinafter referred to as the principal Act).
