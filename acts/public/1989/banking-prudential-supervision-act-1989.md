@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-08-26_
 
 > Title
 
@@ -2338,7 +2338,7 @@ Except as otherwise provided in this Part, no registered bank, associated person
 ### 150 Duty to deliver books and property to statutory manager
 (1) Every person having possession, custody, or control of any books, or records, or documents, or other property belonging to any registered bank subject to statutory management, shall forthwith after it becomes subject to statutory management, deliver or give possession of those books, records, documents, or other property to the statutory manager.
 (2) If any person fails for 7 days to comply with the requirements of subsection (1), that person commits an offence against this Act.
-(3) If any person fails to comply with subsection (1), the statutory manager may, at any time, certify the failure to the court (whether or not an offence has been committed under subsection (2)), and the court may inquire into the matter and, after hearing any witnesses who may be produced against, or by, or on behalf of the alleged offender, and after hearing any statement which may be offered in defence, may punish the offender as if the offender had been guilty of contempt of court.
+(3) If any person fails to comply with subsection (1), the statutory manager may, at any time, certify the failure to the court (whether or not an offence has been committed under subsection (2)), and the court may inquire into the matter and, after hearing any witnesses who may be produced against, or by, or on behalf of the alleged offender, and after hearing any statement which may be offered in defence, may punish the offender as if the offender were liable under subpart 4 of Part 2 of the Contempt of Court Act 2019 for breach of a court order.
 (4) It shall not be a defence to any proceedings under this section that the person in possession or control of any property is, or was, a trustee of the property for the registered bank, or entitled to a lien or other charge over the property, or was a receiver or manager of the property.
 (5) The penalty for an offence against this section is set out in section 156AC.
 
