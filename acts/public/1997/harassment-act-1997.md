@@ -1,5 +1,5 @@
 # Harassment Act 1997
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2020-08-26_
 
 > An Act to provide criminal and civil remedies in respect of harassment
 
@@ -383,7 +383,7 @@ Except where the court making the order appealed from otherwise directs,—
 (2) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $1,000:
   (b) in the case of a body corporate, to a fine not exceeding $5,000.
-(3) The breach of any order made under section 39(1)﻿(c), or any evasion or attempted evasion of it, may be dealt with as contempt of court.
+(3) The failure to comply with any order made under section 39(1)﻿(c) may be dealt with under subpart 4 of Part 2 of the Contempt of Court Act 2019.
 
 **Rules and regulations**
 
