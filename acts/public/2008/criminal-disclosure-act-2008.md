@@ -1,5 +1,5 @@
 # Criminal Disclosure Act 2008
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2020-08-26_
 
 ### 1 Title
 This Act is the Criminal Disclosure Act 2008.
@@ -336,7 +336,7 @@ If a defendant makes an application in accordance with section 24, the court may
   (e) that no copies of the information be made, or that restrictions be imposed on the number of copies of the information that may be made:
   (f) that details relating to any named person in the information, such as the person's address, telephone number, or place of employment, not be disclosed.
 (5) If any information is disclosed under this section to the defendant's counsel and, before the proceedings are determined, that counsel ceases to act for the defendant, the counsel must return the information and any copies of it in the possession of the defendant or the defendant's counsel to the court or Registrar, together with a declaration that those copies have been returned.
-(6) If any person fails to comply with subsection (5) without reasonable excuse the court may, on its own motion or on the application of the prosecutor, deal with the failure as a contempt of court.
+(6) If any person fails to comply with subsection (5) without reasonable excuse the court may, on its own motion or on the application of the prosecutor, deal with the failure under subpart 4 of Part 2 of the Contempt of Court Act 2019 as a breach of a court order.
 
 **General powers of courts in relation to disclosure**
 
@@ -368,7 +368,7 @@ If a defendant makes an application in accordance with section 24, the court may
 (2) If a non-party disclosure order has been made under section 29, the court may, on the court's or the Registrar's own motion or on the application of the prosecutor or the defendant or the non-party, give directions regarding the timing of disclosure.
 (3) If the defendant or the prosecutor or a non-party fails to comply with directions given under this section, the court or the Registrar may, on the court's or the Registrar's own motion or on the application by the prosecutor or the defendant,—
   (a) give further directions; or
-  (b) if the court is satisfied that there is no reasonable excuse for the failure to comply, deal with the failure as a contempt of court.
+  (b) if the court is satisfied that there is no reasonable excuse for the failure to comply, deal with the failure under subpart 4 of Part 2 of the Contempt of Court Act 2019 as a breach of a court order.
 (4) Subsection (3) does not limit the powers of a court under any other enactment or rule of law to deal with any failure by a prosecutor or defendant or a non-party to comply with the directions of the court under this section.
 
 ### 33 Appeals
