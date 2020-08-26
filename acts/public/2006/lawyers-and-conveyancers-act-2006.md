@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-08-26_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -555,7 +555,7 @@ This Act binds the Crown.
 (3) The production of a certificate for the purposes of subsection (2) purporting to be signed by the executive director of the New Zealand Law Society or a person authorised by the Council of the New Zealand Law Society to sign that certificate is prima facie evidence of the certificate without proof of the signature of the person purporting to have signed it.
 
 ### 29 Contempt of court
-A person who, in contravention of section 21, acts as a barrister or as a solicitor in any court is guilty of both an offence against that section and a contempt of that court.
+[Repealed]
 
 ### 30 Practice by lawyer on his or her own account
 (1) No lawyer may commence practice on his or her own account, whether in partnership or otherwise, unless—
