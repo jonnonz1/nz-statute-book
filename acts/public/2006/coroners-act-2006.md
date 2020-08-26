@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-08-26_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -1215,6 +1215,7 @@ The chief coroner must, after consulting the Attorney-General, develop and publi
   (f) adjourn proceedings from time to time and place to place.
 (4) Subsection (3) does not limit subsection (1).
 (5) The Criminal Procedure Act 2011, so far as it is applicable and with the necessary modifications, applies to the powers, privileges, authorities, and immunities conferred on coroners by this section.
+(5A) A coroner exercising the power under subsection (3)﻿(e) has the same powers that a Judge has under subpart 2 of Part 2 of the Contempt of Court Act 2019, and subpart 2 and sections 25 and 26(1) and (2) of that Act apply with the necessary modifications.
 (6) Evidence given by a person (whether at an inquest or otherwise) on oath or affirmation administered by a coroner under this section must, for the purposes of section 108 of the Crimes Act 1961 (which relates to perjury), be treated as having been given as evidence in a judicial proceeding on oath.
 (7) Nothing in this section limits any power of a coroner under any other enactment or the application of the Inferior Courts Procedure Act 1909 (which makes further provision for the validity of the judicial proceedings of inferior courts notwithstanding technical or formal errors) in respect of the exercise by a coroner of any judicial authority conferred on the coroner by this Act.
 
