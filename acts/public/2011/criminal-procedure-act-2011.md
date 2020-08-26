@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2020-08-26_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -1681,7 +1681,7 @@ An order for a retrial under section 151 or 154 may be granted subject to—
 (5) Subsection (6) applies if a person detained under subsection (3), on being brought up at the adjourned hearing, again refuses to give evidence or to be sworn or, having been sworn, to answer the questions put to him or her.
 (6) If this subsection applies, the court, if it thinks fit, may again direct the witness to be detained in custody for the period referred to in subsection (3), until he or she consents to give evidence or to be sworn or to answer as described in subsection (2).
 (7) The power in subsection (6) may be exercised more than once.
-(8) Nothing in this section limits or affects any power or authority of the court to punish any witness for contempt of court.
+(8) Nothing in this section limits or affects any authority or power of the court to punish any witness under the Contempt of Court Act 2019.
 
 ### 166 Witnesses at hearing
 The court may if it thinks fit, on its own motion or at the request of any party at any time during a hearing, order all or any witnesses other than any witness who has given or is giving his or her evidence to leave the courtroom and to remain out of hearing but within call until required to give evidence.
@@ -1968,7 +1968,10 @@ The Solicitor-General and every Crown prosecutor must, in conducting a Crown pro
 ### 194 Interpretation
 In this subpart, unless the context otherwise requires,—
   - **name** , in relation to a person, means the person's name and any particulars likely to lead to the person's identification
-  - **suppression order** means an order under any of sections 200, 202, and 205.
+  - **suppression order** means an order made under—
+    (a) any of sections 199C, 200, 202, and 205; or
+    (b) section 199A(3) that varies the effect of automatic suppression in any proceedings; or
+    (c) section 199B(1) or 199D(2).
 
 ### 195 Context in which publication prohibited
 For the purposes of this subpart, publication means publication in the context of any report or account relating to the proceeding in respect of which the section applies or the order was made (as the case may be), and publish has a corresponding meaning.
@@ -2029,6 +2032,51 @@ For the purposes of this subpart, publication means publication in the context o
   (c) any other offence against the person of a sexual nature:
   (d) being a party to the commission of any offence referred to in paragraphs (a) to (c):
   (e) conspiring with any person to commit any such offence.
+
+**Automatic suppression of previous convictions**
+
+### 199A Automatic suppression of details of previous convictions
+(1) Once a proceeding has commenced for a category 3 offence or a category 4 offence (offence A), no person may publish details of any of the defendant’s previous convictions for any other offence except as permitted by or under this section.
+(2) The automatic suppression in subsection (1) remains in force, unless earlier lifted by the court, until—
+  (a) the jury delivers a verdict for offence A; or
+  (b) the charge for offence A is withdrawn, dismissed, stayed, or otherwise disposed of; or
+  (c) a Judge-alone trial starts for offence A.
+(3) However, the court may, by order made on application or on its own initiative,—
+  (a) lift the suppression before the trial:
+  (b) vary the effect of the suppression by permitting the publication of any details as specified in the order.
+(4) This section does not apply to information published before a proceeding is commenced, unless the court makes an order to that effect under section 199B(1).
+
+### 199B Further provisions relating to automatic suppression
+(1) The court may order a person who hosts material on a website or other electronic retrieval system that can be accessed by a user to take down, or disable public access to, details of the defendant’s previous convictions on that website or other electronic retrieval system that is under the person’s control.
+(2) Whenever reasonably practicable, the person who hosts the material must be—
+  (a) served with the application for an order or notified that the court is considering making an order under subsection (1); and
+  (b) given an opportunity to be heard by the court.
+(3) An order made under subsection (1) expires with the expiry of the automatic suppression to which it relates.
+
+**Temporary suppression of trial-related information**
+
+### 199C Court may temporarily suppress trial-related information
+(1) If a court is satisfied that publication of the information would be likely to create a real risk of prejudice to a fair trial, the court may make an order forbidding publication of any of the following information for any period that the court thinks necessary for that purpose:
+  (a) any specific information relating to matters of character of the defendant:
+  (b) any specific information relating to the previous convictions or matters of character of any person who—
+    (i) may be called as a witness; or
+    (ii) may be a victim of the offence; or
+    (iii) is connected with the defendant:
+  (c) any other offence that the defendant is also currently charged with:
+  (d) any other specific information in relation to any trial.
+(2) Despite subsection (1), the court may make an interim order of the kind described in subsection (1) if the defendant advances an arguable case that publication would be likely to create a real risk of prejudice to a fair trial.
+(3) An interim order under subsection (2)—
+  (a) may be made or renewed only in the absence of an order made under subsection (1); and
+  (b) may be renewed only if the court is satisfied that publication would be likely to create a real risk of prejudice to a fair trial; and
+  (c) expires at the defendant’s next court appearance for the offence.
+
+### 199D Further provisions relating to temporary suppression of trial-related information
+(1) The court may make an order under section 199C at any time after the proceeding is commenced.
+(2) The court may limit the effect of an order under section 199C by ordering a person who hosts material on a website or other electronic retrieval system that can be accessed by a user to only take down or disable access to specific information on that website or electronic retrieval system.
+(3) Whenever reasonably practicable, the person who hosts the material must be—
+  (a) served with the application for an order or notified that the court is considering making an order under subsection (2); and
+  (b) given an opportunity to be heard by the court.
+(4) Despite section 208(1) or (2), an order made under subsection (2) or section 199C(1) expires when the defendant is convicted or acquitted, or the charge is otherwise disposed of.
 
 **Suppression of names**
 
@@ -2146,14 +2194,17 @@ For the purposes of this subpart, publication means publication in the context o
 (3) A suppression order may be reviewed and varied by the court at any time.
 
 ### 209 Publication by or at request of Police, etc
-(1) Nothing in sections 200 to 205 prevents publication by or at the request of any Police employee of the name, address, or occupation of any person who has escaped from lawful custody or has failed to attend any court when lawfully required to do so if that publication is made for the purpose of facilitating that person's recapture or arrest.
-(2) Nothing in sections 200 to 205 prevents publication of the name, address, or occupation of any person, or any details of the offences charged to—
+(1) If a person has escaped from lawful custody or has failed to attend any court when lawfully required to do so,—
+  (a) nothing in sections 200 to 205 prevents the publication by or at the request of any Police employee of the name, address, or occupation of that person if that publication is made for the purpose of facilitating that person’s recapture or arrest; and
+  (b) nothing in sections 199A to 199D prevents publication by or at the request of any Police employee of any information suppressed under those provisions if that publication is made for the purpose of facilitating that person’s recapture or arrest.
+(2) Nothing in sections 199A to 205 prevents publication of any suppressed information to—
   (a) any person assisting with the administration of the sentence imposed on the person or with the rehabilitation of the person; or
   (b) any Police employee, or any officer or employee of the Department of Corrections or of the Ministry of Justice, who requires the information for the purposes of his or her official duties; or
   (ba) any specified agency, corresponding Registrar, corresponding overseas agency, or affected person within the meaning of the Child Protection (Child Sex Offender Government Agency Registration) Act 2016 in accordance with sections 43 to 45 of that Act; or
   (c) any person who is conducting or proposing to conduct a public prosecution against the person for an offence, and who requires the information for the purposes of—
     (i) deciding whether or not to commence proceedings; or
-    (ii) conducting that public prosecution.
+    (ii) conducting that public prosecution; or
+  (d) a lawyer acting for the defendant or for a co-defendant, or a representative acting for a defendant who is a corporation.
 
 ### 210 Standing of members of media
 (1) This section applies to—
@@ -2166,8 +2217,14 @@ For the purposes of this subpart, publication means publication in the context o
 **Offences relating to breach of suppression provisions and orders**
 
 ### 211 Offences and penalties
-(1) Every person commits an offence who knowingly or recklessly publishes any name, address, occupation, or other information in breach of a suppression order or in breach of any of sections 201, 203, and 204.
-(2) Every person commits an offence who publishes any name, address, occupation, or other information in breach of a suppression order or in breach of any of sections 201, 203, and 204.
+(1) Every person commits an offence who knowingly or recklessly publishes any name, address, occupation, or other information in breach of—
+  (a) a suppression order; or
+  (b) any of sections 199A, 201, 203, and 204; or
+  (c) an order made under section 286 or 292.
+(2) Every person commits an offence who publishes any name, address, occupation, or other information in breach of—
+  (a) a suppression order; or
+  (b) any of sections 199A, 201, 203, and 204; or
+  (c) an order made under section 286 or 292.
 (3) Subsection (2) does not apply to a person who hosts material on websites or other electronic retrieval systems that can be accessed by a user unless the specific information has been placed or entered on the site or system by that person.
 (4) A person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a term of imprisonment not exceeding 6 months:
@@ -2176,6 +2233,9 @@ For the purposes of this subpart, publication means publication in the context o
   (a) in the case of an individual, to a fine not exceeding $25,000:
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 (6) In a prosecution for an offence against subsection (2), it is not necessary for the prosecution to prove that the defendant intended to commit an offence.
+(7) A defendant has a defence to a charge under subsection (2) if the defendant proves that they—
+  (a) did not know or could not reasonably have known that the information published was suppressed; and
+  (b) removed the suppressed material as soon as practicable after becoming aware of the breach.
 
 ## Part 6 — Appeals
 
@@ -2678,7 +2738,7 @@ Every determination of a second appeal under this subpart by the High Court is f
 **First appeals**
 
 ### 282 Interpretation
-In this subpart, suppression order means an order made under section 200, 202, or 205.
+In this subpart, suppression order means an order made under section 199A(3), 199B(1), 199C, 199D(2), 200, 202, or 205.
 
 ### 283 Right of appeal against decision on suppression order
 (1) A person specified in subsection (2) may appeal under this subpart to the first appeal court against a decision of a court—
