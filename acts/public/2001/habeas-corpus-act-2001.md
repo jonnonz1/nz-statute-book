@@ -1,5 +1,5 @@
 # Habeas Corpus Act 2001
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2020-08-26_
 
 ### 1 Title
 This Act is the Habeas Corpus Act 2001.
@@ -137,13 +137,12 @@ To avoid doubt, an application for a writ of habeas corpus is a civil proceeding
 ### 18 Abolition of certain writs
 It is declared for the avoidance of doubt that all writs of habeas corpus other than the writ of habeas corpus ad subjiciendum are abolished.
 
-### 19 Contempt of court
-(1) A person commits a contempt of court who—
-  (a) wilfully hinders the prompt disposal of an application; or
-  (b) being aware that an application has been made to the High Court seeking the release from detention of a person, removes or attempts to remove that person from the jurisdiction of the court; or
-  (c) having been released under an interim order made under section 11, fails to comply with a condition attached to the order; or
-  (d) wilfully fails to comply with a writ of habeas corpus ordering the release from detention of a person.
-(2) This section does not limit or affect any power or authority of the High Court or the Court of Appeal or the Supreme Court to punish any person for contempt of court in any case to which this section does not apply.
+### 19 Application of Contempt of Court Act 2019
+(1) Subpart 2 of Part 2 and sections 25 and 26(1) and (2) of the Contempt of Court Act 2019 apply with the necessary modifications to a person who wilfully hinders the prompt disposal of an application.
+(2) Subpart 4 of Part 2 and sections 25 and 26(1) and (2) of the Contempt of Court Act 2019 apply with the necessary modifications to a person who,—
+  (a) having been released under an interim order made under section 11, fails to comply with a condition attached to the order; or
+  (b) wilfully fails to comply with a writ of habeas corpus ordering the release from detention of a person.
+(3) Subpart 4 of Part 2 and sections 25 and 26(1) and (2) of the Contempt of Court Act 2019 apply, as if the application were a court order, to a person who is aware that an application has been made to the High Court seeking the release from detention of a person and removes or attempts to remove that person from the jurisdiction of the court.
 
 ### 20 Rules
 (1) Rules not inconsistent with this Act may be made under section 148 of the Senior Courts Act 2016 regulating the practice and procedure of the High Court and the Court of Appeal and the Supreme Court in relation to applications under this Act.
