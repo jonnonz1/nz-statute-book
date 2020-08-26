@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-08-26_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -8000,7 +8000,7 @@ The due date for payment, by a member of a large multinational group, of a penal
 
 ### 143G Offence in relation to court orders
 (1) A person who fails to comply with the terms of a court order made under section 17H commits an offence against this Act.
-(2) A person who is convicted of an offence under subsection (1) is liable to the same penalties that may be imposed under section 212 of the District Court Act 2016 for offences to which that section applies.
+(2) A person who commits an offence under subsection (1) is liable on conviction to imprisonment for a period not exceeding 3 months or a fine not exceeding $1,000 for each offence.
 
 ### 143H Obstruction
 (1) A person who obstructs the Commissioner or an officer of the department acting in the lawful discharge of the duties or in the exercise of the Commissioner's or officer's powers under a tax law commits an offence against this Act.
