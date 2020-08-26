@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-08-26_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble
 
@@ -1146,17 +1146,12 @@ On the application of an owner of Maori freehold land, the Registrar may by orde
 (2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $300.
 (3) No person summoned to attend the court shall be convicted of an offence against subsection (1) unless at the time of the service of the summons, or at some other reasonable time before the date on which that person was required to attend, there was made to that person a payment or tender of the amount fixed by the rules of court.
 
-### 90 Contempt of court
-(1) This section applies if any person—
-  (a) wilfully insults a judicial officer, Registrar, officer of the court, or any witness, during his or her sitting or attendance in court, or in going to or returning from the court; or
-  (b) wilfully interrupts the proceedings of a court or otherwise misbehaves in court; or
-  (c) wilfully and without lawful excuse disobeys any order or direction of the court in the course of the hearing of any proceedings.
-(2) If this section applies,—
-  (a) any constable or officer of the court, with or without the assistance of any other person, may, by order of a Judge, take the person into custody and detain him or her until the rising of the court; and
-  (b) the Judge may, if he or she thinks fit, sentence the person to—
-    (i) imprisonment for a period not exceeding 3 months; or
-    (ii) a fine not exceeding $1,000 for each offence.
-(3) Nothing in this section limits or affects any power or authority of the court to punish any person for contempt of court in any case to which this section does not apply.
+### 90 Application of Contempt of Court Act 2019
+(1) Subparts 2 and 4 of Part 2 and sections 25 and 26(1) and (2) of the Contempt of Court Act 2019 apply with the necessary modifications to proceedings of the Maori Land Court and the Maori Appellate Court.
+(2) Those provisions apply to proceedings of the Maori Land Court and the Maori Appellate Court as if—
+  (a) references to a court include the Maori Land Court and the Maori Appellate Court; and
+  (b) references to a judicial officer or to a Judge include a Judge of the Maori Land Court or the Maori Appellate Court; and
+  (c) references to an officer of the court in those provisions include an officer of the Maori Land Court or the Maori Appellate Court.
 
 ### 91 Obstructing officers of court
 Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $1,000 who wilfully obstructs or interferes with any Judge, Registrar, Receiver, or other officer of the court in the execution of his or her powers or duties.
