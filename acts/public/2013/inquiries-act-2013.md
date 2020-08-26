@@ -1,5 +1,5 @@
 # Inquiries Act 2013
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2020-08-26_
 
 ### 1 Title
 This Act is the Inquiries Act 2013.
@@ -314,8 +314,10 @@ Every person who commits an offence against section 29(1) is liable, on convicti
 
 **Contempt against inquiry**
 
-### 31 Contempt proceedings
-(1) The Solicitor-General, on his or her own initiative or at the request of an inquiry, may commence proceedings in the High Court for contempt of an inquiry.
+### 31 Application of Contempt of Court Act 2019
+(1) The Solicitor-General, on the Solicitor-General’s own initiative or at the request of an inquiry, may commence proceedings in the High Court—
+  (a) under subpart 4 of Part 2 of the Contempt of Court Act 2019; or
+  (b) under the inherent jurisdiction of the High Court to punish any contempt of an inquiry or enforce its processes, as described in section 26(3) of that Act.
 (2) In determining any proceedings commenced under subsection (1), the court may make any orders that it considers necessary and just to enable the inquiry to fulfil its purpose.
 
 ### Subpart 2 — Miscellaneous matters
