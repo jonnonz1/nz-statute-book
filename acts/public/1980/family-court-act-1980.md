@@ -1,5 +1,5 @@
 # Family Court Act 1980
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-08-26_
 
 > Title
 
@@ -228,6 +228,12 @@ Notwithstanding anything in section 11, the District Court may—
   (c) by the consent of all the parties to the proceedings, make any order or exercise any power—
     (i) that, by virtue of any enactment or rule of law, may be made or exercised by the consent of all the parties; and
     (ii) that could have been made or exercised by the Family Court.
+
+### 15A Application of Contempt of Court Act 2019
+(1) Subparts 2 and 4 of Part 2 and sections 25 and 26(1) and (2) of the Contempt of Court Act 2019 apply with the necessary modifications to proceedings of the Family Court.
+(2) Those provisions apply to proceedings of the Family Court as if—
+  (a) references to a court include the Family Court; and
+  (b) references to a judicial officer or to a Judge include Judges of the Family Court.
 
 ### 16 Application of District Court Act 2016
 (1) Subject to subsections (2) to (4), the District Court Act 2016 applies, with any necessary modifications, to the Family Court and Family Court Judges in the same manner and to the same extent as it applies to the District Court and District Court Judges.
