@@ -1,5 +1,5 @@
 # Courts Security Act 1999
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-08-26_
 
 > An Act to provide for—athe security of courts and tribunals; andbthe safety of the public and others who access and use courts and tribunals; and(c)the promotion of the orderly operation of courts and tribunals
 
@@ -435,7 +435,7 @@ A court security officer who exercises any of the powers or duties in sections 1
 **Other related powers**
 
 ### 33 Powers of other officials: court security officers may exercise
-(1) This section applies to any power or duty relating to security in a courtroom where proceedings are being heard that is given to any official other than a court security officer or a Police officer, for example, the power given to an officer of the court by section 165 of the Senior Courts Act 2016.
+(1) This section applies to any power or duty relating to security in a courtroom where proceedings are being heard that is given to any official other than a court security officer or a Police officer, for example, the power given to an officer of the court by subpart 2 of Part 2 of the Contempt of Court Act 2019.
 (2) A court security officer may exercise any such power or duty if the presiding judicial officer directs the officer, in specific language, to do so.
 
 ### 34 Powers of court security officers: Police officers may exercise
