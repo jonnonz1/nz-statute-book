@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-08-26_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -180,9 +180,10 @@ For the purpose of jurisdiction, where any act or omission forming part of any o
   (b) a warrant for his or her arrest may be issued and executed,—
 
 ### 9 Offences not to be punishable except under New Zealand Acts
-No one shall be convicted of any offence at common law, or of any offence against any Act of the Parliament of England or the Parliament of Great Britain or the Parliament of the United Kingdom:provided that—
-  (a) nothing in this section shall limit or affect the power or authority of the House of Representatives or of any court to punish for contempt:
+(1) No one shall be convicted of any offence at common law, or of any offence against any Act of the Parliament of England or the Parliament of Great Britain or the Parliament of the United Kingdom:provided that—
+  (a) nothing in this section shall limit or affect the power or authority of the House of Representatives to punish for contempt:
   (b) nothing in this section shall limit or affect the jurisdiction or powers of the Court Martial, or of any officer in any of the New Zealand forces.
+(2) The jurisdiction, authority, or power of a court to punish for contempt is subject to the Contempt of Court Act 2019.
 
 ### 10 Offence under more than 1 enactment
 (1) Where an act or omission constitutes an offence under this Act and under any other Act, the offender may be prosecuted and punished either under this Act or under that other Act.
