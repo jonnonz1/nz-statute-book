@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-08-26_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights
 
@@ -1460,12 +1460,14 @@ Witnesses and counsel appearing before the Tribunal shall have the same privileg
 (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $1,500.
 (3) No person summoned to attend before a Tribunal shall be convicted of an offence against subsection (1) unless there was tendered or paid to that person travelling expenses in accordance with section 111.
 
-### 114 Power to commit for contempt
-(1) If any person—any officer of the Tribunal, with or without the assistance of any constable or other person, may, in accordance with any order given by a member of the Tribunal, take the person into custody and detain him or her for a period expiring not later than 1 hour following the rising of the Tribunal, and the Chairperson or a Deputy Chairperson may, if he or she thinks fit, by warrant under his or her hand, commit the person to prison for any period not exceeding 10 days or impose a fine not exceeding $1,500.
-  (a) threatens, or intimidates, or intentionally insults, the Tribunal or any member of it or any special adviser to or officer of the Tribunal, during a sitting of the Tribunal, or in going to, or returning from, any sitting; or
-  (b) intentionally interrupts the proceedings of the Tribunal or otherwise misbehaves while the Tribunal is sitting; or
-  (c) intentionally and without lawful excuse disobeys an order or direction of a member of the Tribunal in the course of any proceedings before the Tribunal,—
-(2) A warrant under subsection (1) may be filed in the District Court and shall then be enforceable as an order made by that court.
+### 114 Application of Contempt of Court Act 2019
+(1) Subpart 2 of Part 2 and sections 25 and 26(1) and (2) of the Contempt of Court Act 2019 apply with the necessary modifications to proceedings of the Tribunal.
+(2) Those provisions apply to proceedings of the Tribunal as if—
+  (a) references to a court include the Tribunal; and
+  (b) references to a Judge include a Chairperson of the Tribunal; and
+  (c) references to a judicial officer include a member of the Tribunal; and
+  (d) references to an officer of the court include an officer of the Tribunal;
+  (e) section 11(2)﻿(b) of that Act does not apply if there is only 1 Chairperson of the Tribunal.
 
 ### 115 Tribunal may dismiss trivial, etc, proceedings
 The Tribunal may at any time dismiss any proceedings brought under section 92B or section 92E if it is satisfied that they are trivial, frivolous, or vexatious or are not brought in good faith.
