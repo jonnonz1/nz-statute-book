@@ -1,5 +1,5 @@
 # Senior Courts Act 2016
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-08-26_
 
 ### 1 Title
 This Act is the Senior Courts Act 2016.
@@ -205,7 +205,8 @@ The High Court may award damages in addition to or in substitution for an injunc
   (e) regulations or rules made under the Insolvency Act 2006:
   (f) regulations relating to liquidations made under the Companies Act 1993:
   (g) sections 118, 128, 131, 167, 168, 170, 179, 181, 182, and 186 of the Personal Property Securities Act 1999:
-  (h) the Model Law on Cross-Border Insolvency as set out in Schedule 1 of the Insolvency (Cross-border) Act 2006.
+  (h) the Model Law on Cross-Border Insolvency as set out in Schedule 1 of the Insolvency (Cross-border) Act 2006:
+  (i) subpart 2 of Part 2 and sections 25 and 26(1) and (2) of the Contempt of Court Act 2019.
 (3) An Associate Judge may adjourn a proceeding even though the Associate Judge does not have jurisdiction in relation to the proceeding.
 (4) An Associate Judge has the jurisdiction and powers of the court to deal with costs and other matters incidental to the matters over which the Associate Judge has jurisdiction under this section.
 (5) Rules made under section 148 or under any other Act in the same manner as rules under that section may contain any provisions that may be necessary to enable the proper exercise by Associate Judges of the jurisdiction and powers conferred by this section.
@@ -232,7 +233,8 @@ The High Court may award damages in addition to or in substitution for an injunc
   (k) a proceeding to try the right of a person to hold public office.
 
 ### 23 Application of provisions relating to witnesses and contempt
-Sections 42, 43, and 165 (which relate to the power to deal with witnesses and contempt) apply to a proceeding before an Associate Judge in the same way as they apply to a proceeding before a High Court Judge.
+(1) Sections 42 and 43 (which relate to the power to deal with witnesses) apply to a proceeding before an Associate Judge in the same way as they apply to a proceeding before a High Court Judge.
+(2) Subpart 2 of Part 2 of the Contempt of Court Act 2019 (which relates to contempt) applies to a proceeding before an Associate Judge, and references in that subpart to a Judge include an Associate Judge.
 
 ### 24 No power to order committal, attachment, or arrest
 (1) An Associate Judge does not have power to make an order for the committal, attachment, or arrest of a person.
@@ -350,7 +352,7 @@ A witness is not required to attend the hearing of a civil proceeding in the Hig
   (d) having been sworn, refuses to answer a question.
 (2) The High Court may order that, unless the witness complies with subsection (1), the witness is to be detained in custody for a period not exceeding 7 days and may issue a warrant to arrest and detain the witness.
 (3) The High Court may exercise the powers in subsection (2) if the witness is again brought before the court, whether on 1 or more occasions, and still fails to comply with subsection (1).
-(4) This section does not limit the power of the High Court to punish the witness for contempt.
+(4) Nothing in this section limits or affects any power or authority of the High Court under the Contempt of Court Act 2019.
 
 ### 44 High Court may require person to undergo medical examination
 (1) The High Court may order a party to a civil proceeding to undergo a medical examination by a registered medical practitioner at a time and place specified in the order if the court is satisfied, in the interests of justice, that the physical or mental condition of the person is relevant to a matter in the proceeding.
@@ -1156,7 +1158,8 @@ The purpose of rules of practice and procedure is to facilitate—
 (4) If in any civil proceedings any question arises as to the application of any provision of the High Court Rules or of any rules made under section 148, the court may, either on the application of any party or on its own initiative, determine the question and give any directions that it thinks fit.
 (5) Subsection (1) is subject to—
   (a) subsections (2) to (4); and
-  (b) sections 10, 40 to 43, 148 to 155, 162, 165, 172, 176, and 181.
+  (b) sections 10, 40 to 43, 148 to 155, 162, 172, 176, and 181; and
+  (c) the Contempt of Court Act 2019.
 
 ### 147 High Court Rules part of Act
 (1) The High Court Rules set out in Schedule 2 of the Judicature Act 1908 as at the date that this Act receives the Royal assent continue in force and those rules, as altered, amended, added to, or revoked under section 148, are deemed to be part of this Act.
@@ -1317,16 +1320,7 @@ A Judge or Registrar of a senior court may, subject to any terms or conditions t
 **Contempt**
 
 ### 165 Contempt of court
-(1) This section applies if any person—
-  (a) wilfully insults a judicial officer, Registrar, officer of the court, or any juror, or any witness during his or her sitting or attendance in court, or in going to or returning from the court; or
-  (b) wilfully interrupts the proceedings of a court or otherwise misbehaves in court; or
-  (c) wilfully and without lawful excuse disobeys any order or direction of the court in the course of the hearing of any proceedings.
-(2) If this section applies,—
-  (a) any constable or officer of the court, with or without the assistance of any other person, may, by order of a Judge or an Associate Judge, take the person into custody and detain him or her until the rising of the court; and
-  (b) the Judge or an Associate Judge may, if he or she thinks fit, sentence the person to—
-    (i) imprisonment for a period not exceeding 3 months; or
-    (ii) a fine not exceeding $1,000 for each offence.
-(3) Nothing in this section limits or affects any power or authority of a court to punish any person for contempt of court in any case to which this section does not apply.
+[Repealed]
 
 **Restriction on commencing or continuing proceeding**
 
