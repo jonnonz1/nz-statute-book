@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-08-26_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -1594,7 +1594,7 @@ In this Part, sentencing court, in relation to an offender, means the High Court
 (6) If an offender who is the subject of an application for an extended supervision order may be granted bail, the Bail Act 2000 applies, with all necessary modifications, as if the offender were charged with an offence and was not bailable as of right.
 (7) The following provisions of the Criminal Procedure Act 2011 apply, with all necessary modifications, to proceedings for an extended supervision order:
   (a) section 184 (criminal records):
-  (b) section 365 (contempt of court):
+  (b)
   (c) section 379 (proceedings not to be questioned for want of form).
 (8) Any summons, warrant, or other form for which the content is prescribed under section 386 of the Criminal Procedure Act 2011 may, if modified appropriately, be used for the purposes of this section.
 (9) Before the Corrections Act 2004 comes into force, section 26(2) of the Penal Institutions Act 1954 applies as if paragraph (a) of that subsection applies to an offender who is subject to an application for an extended supervision order.
