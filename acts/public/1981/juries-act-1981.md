@@ -1,5 +1,5 @@
 # Juries Act 1981
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-08-26_
 
 > An Act to consolidate and reform the law relating to juries
 
@@ -82,7 +82,7 @@ The following persons shall not serve on any jury in any court on any occasion:
   (aa) the Governor-General:
   (a) members of the Executive Council of New Zealand:
   (b) members of the House of Representatives:
-  (c) Judges of the High Court, Masters of the High Court, Judges of the Employment Court, Judges and Commissioners of the Maori Land Court, District Court Judges, and Community Magistrates:
+  (c) Judges of the High Court, Associate Judges of the High Court, Judges of the Employment Court, Judges and Commissioners of the Maori Land Court, District Court Judges, and Community Magistrates:
   (d) visiting Justices under the Corrections Act 2004, and members of the Parole Board:
   (e) Justices who have agreed to make themselves available from time to time to exercise the summary jurisdiction of the District Court:
   (f) lawyers within the meaning of the Lawyers and Conveyancers Act 2006:
@@ -182,7 +182,7 @@ A jury list remains current until it is replaced by a new list provided by the E
 (5) However, subsection (4) does not apply to—
   (a) the Registrar or a member of the court registry staff; and
   (b) any other person if the court or a Judge, in the court’s or Judge’s discretion and on a written application for the purpose, orders that the other person need not return the copy or copies.
-(6) A breach of subsection (2), (3), or (4) may be dealt with as contempt of court.
+(6) A breach of subsection (2), (3), or (4) may be dealt with under subpart 2 of Part 2 of the Contempt of Court Act 2019.
 
 ### 14AB Inspection of protected particulars of jury list information excluded from panel
 (1) The Registrar must comply with a request to make a copy of protected particulars excluded from a panel under section 13(1A) available for inspection by an eligible person if the request is made—
