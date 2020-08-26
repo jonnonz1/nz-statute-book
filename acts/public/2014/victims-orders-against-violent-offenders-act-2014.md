@@ -1,5 +1,5 @@
 # Victims' Orders Against Violent Offenders Act 2014
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2020-08-26_
 
 ### 1 Title
 This Act is the Victims' Orders Against Violent Offenders Act 2014.
@@ -275,7 +275,7 @@ If, pursuant to section 19, the offender notifies the court that he or she wishe
 (2) A person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $1,000:
   (b) in the case of a body corporate, to a fine not exceeding $5,000.
-(3) The breach of any order made under section 24A(1)﻿(c), or any evasion or attempted evasion of it, may be dealt with as contempt of court.
+(3) The failure to comply with any order made under section 24A(1)﻿(c) may be dealt with under subpart 4 of Part 2 of the Contempt of Court Act 2019.
 
 **Miscellaneous matters**
 
