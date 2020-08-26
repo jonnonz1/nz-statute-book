@@ -1,5 +1,5 @@
 # District Court Act 2016
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-08-26_
 
 ### 1 Title
 This Act is the District Court Act 2016.
@@ -947,7 +947,7 @@ A technical defect or an irregularity does not invalidate a judgment, an order, 
 ### 123 Interpretation
 In this Part,—
   - **appeal** means an appeal under section 124
-  - **decision** includes a judgment and an interim or a final order, but does not include an order under section 212 (which relates to an order for contempt of court)
+  - **decision** includes a judgment and an interim or a final order
   - **make** includes give.
 
 ### 124 General right of appeal
@@ -1006,8 +1006,8 @@ For the purposes of enforcement proceedings, a judgment or an order of the High 
 ### 131 Types of enforcement proceeding
 The types of enforcement proceeding in the court are—
   (a) a proceeding to enforce a judgment or an order for the payment of money (see section 133):
-  (b) a proceeding to enforce a judgment or an order (see section 134):
-  (c) a proceeding to enforce a discovery order made under section 105 or 106 (see section 135):
+  (b)
+  (c)
   (d) a proceeding to enforce a judgment or an order for the recovery of land (see section 136):
   (e) a proceeding to enforce a judgment or an order for the delivery of specific chattels (see section 137).
 
@@ -1024,25 +1024,19 @@ Any judgment or order of any court or of any Judge for the payment of an amount 
   (d) proceedings for an attachment order against the salary or wages of the judgment debtor.
 
 ### 134 Judgment or order in nature of injunction, etc
-(1) This section—
-  (a) applies to a judgment or an order in the nature of an injunction; and
-  (b) applies to a judgment or an order within the competence of the court that, if it were given or made in the High Court, could be enforced in the High Court by a writ of arrest; but
-  (c) does not apply to an order for the recovery of land.
-(2) A judgment or an order to which this section applies may be enforced, by order or warrant of a Judge, by detention for a term not exceeding 3 months.
+[Repealed]
 
 ### 135 Discovery order
-An order of the court made under section 105 (which relates to pre-commencement discovery) or section 106 (which relates to discovery against a non-party) may be enforced, by order or warrant of a Judge,—
-  (a) by detention for a term not exceeding 3 months; or
-  (b) by a fine not exceeding $1,000.
+[Repealed]
 
 ### 136 Judgment or order for recovery of land
 A judgment or an order for the recovery of land may be enforced under a warrant for the recovery of land.
 
 ### 137 Judgment or order for delivery of specific chattels
 A judgment or an order for the delivery of specific chattels may be enforced, by order of a Judge,—
-  (a) under a warrant for the recovery of chattels; or
-  (b) by detention for a term not exceeding 3 months; or
-  (c) by a fine not exceeding $1,000.
+  (a) under a warrant for the recovery of chattels.
+  (b)
+  (c)
 
 **Time when enforcement proceedings may commence**
 
@@ -1727,16 +1721,7 @@ If a person expects to be sued by 2 or more persons making adverse claims to the
 **Contempt**
 
 ### 212 Contempt of court
-(1) This section applies if any person—
-  (a) wilfully insults a judicial officer, Registrar, officer of the court, juror, or witness during his or her sitting or attendance in court or in going to or returning from the court; or
-  (b) wilfully interrupts the proceedings of a court or otherwise misbehaves in court; or
-  (c) wilfully and without lawful excuse disobeys any order or direction of the court in the course of the hearing of any proceedings.
-(2) If this section applies,—
-  (a) any constable or officer of the court, with or without the assistance of any other person, may, by order of a judicial officer, take the person into custody and detain him or her until the rising of the court; and
-  (b) a judicial officer may, if he or she thinks fit, sentence the person to—
-    (i) imprisonment for a period not exceeding 3 months; or
-    (ii) a fine not exceeding $1,000 for each offence.
-(3) Nothing in this section limits or affects any power or authority of the court to punish any person for contempt of court in any case to which this section does not apply.
+[Repealed]
 
 **Restriction on commencing or continuing civil proceedings**
 
