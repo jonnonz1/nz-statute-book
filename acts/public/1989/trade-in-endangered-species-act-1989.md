@@ -1,5 +1,5 @@
 # Trade in Endangered Species Act 1989
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-08-28_
 
 > An Act to further the protection and conservation of endangered species of wild fauna and flora by regulating the export and import of such species and any product derived from those species
 
@@ -1687,6 +1687,12 @@ Amendment(s) incorporated in the Act(s).
 
 | Order | Family | Genus, species, or subspecies | Common name | Exceptions/limitations |
 | --- | --- | --- | --- | --- |
+| Aspidochirotida | Holothuriidae—Teatfish, sea cucumbers | Holothuria fuscogilva | White Teatfish |  |
+|  | Holothuria nobilis | Black Teatfish |  |  |
+|  |  | Holothuria whitmaei | Black Teatfish |  |
+
+| Order | Family | Genus, species, or subspecies | Common name | Exceptions/limitations |
+| --- | --- | --- | --- | --- |
 | Araneae | Theraphosidae—Red-kneed tarantulas, tarantulas | Aphonopelma albiceps | Curly-hair Tarantula |  |
 |  | Aphonopelma pallidum | Mexican Grey Tarantula |  |  |
 |  |  | Brachypelma spp | Mexican and Central American Tarantulas |  |
@@ -1795,6 +1801,7 @@ Amendment(s) incorporated in the Act(s).
 |  |  | Senna meridionalis |  |  |  |  |
 | Liliaceae—Aloes |  | Aloe spp |  | Aloes | #4; except species included in Schedule 1; also excludes Aloe vera, also referenced as Aloe barbadensis, which is not included in the schedules |  |
 | Malvaceae—Includes baobabs |  | Adansonia grandidieri |  | Grandidier's Baobab | #16 |  |
+| Meliaceae |  | Cedrela spp |  | Cedars | #6; only populations of the Neotropics |  |
 | Meliaceae—Mahoganies, West Indian cedar |  | Swietenia humilis |  | Mexican Mahogany, Honduras Mahogany | #4 |  |
 |  | Swietenia macrophylla |  | Big-leaf Mahogany |  | #6; only populations of Neotropics |  |
 |  | Swietenia mahagoni |  | American Mahogany |  | #5 |  |
@@ -2058,21 +2065,18 @@ Amendment(s) incorporated in the Act(s).
 |  |  | Corallium konjoi | White Coral | China |
 |  |  | Corallium secundum | Angelskin Coral, Formosa Pink Coral, Pink Coral | China |
 
-| Family |  | Genus, species, or subspecies | Common name |  | Exceptions/limitations and countries requiring export permit |
-| --- | --- | --- | --- | --- | --- |
-| Fagaceae—Beeches |  | Quercus mongolica | Mongolian oak |  | #5; Russian Federation |
-| Gnetaceae—Gnetums |  | Gnetum montanum |  |  | #1; Nepal |
-| Leguminosae (Fabaceae)—Afrormosia, cristobal, palisander, rosewood, sandalwood |  | Dipteryx panamensis |  |  | Costa Rica, Nicaragua |
-| Magnoliaceae—Magnolias |  | Magnolia liliifera var obovata |  |  | #1; Nepal |
-| Meliaceae—Mahoganies, West Indian cedar |  | Cedrela fissilis |  |  | #5; Plurinational State of Bolivia, Brazil |
-|  | Cedrela lilloi |  |  | #5; Plurinational State of Bolivia, Brazil |  |
-|  |  | Cedrela odorata | Red Cedar, Cigar-box Wood, Spanish Cedar |  | #5; Plurinational State of Bolivia, Brazil, Colombia (only population of Colombia), Guatemala (only population of Guatemala), Peru (only population of Peru) |
-| Oleaceae—Ashes, etc |  | Fraxinus mandshurica | Manchurian Ash |  | #5; Russian Federation |
-| Palmae (Arecaceae)—Palms |  | Lodoicea maldivica | Coco de Mer |  | #13; Seychelles |
-| Papaveraceae—Poppy |  | Meconopsis regia | Himalayan Poppy |  | #1; Nepal |
-| Pinaceae—Firs and pines |  | Pinus koraiensis | Korean Pine |  | #5; Russian Federation |
-| Podocarpaceae—Podocarps |  | Podocarpus neriifolius | Yellow Wood |  | #1; Nepal |
-| Trochodendraceae(Tetracentraceae)—Tetracentron |  | Tetracentron sinense |  |  | #1; Nepal |
+| Family | Genus, species, or subspecies | Common name | Exceptions/limitations and countries requiring export permit |
+| --- | --- | --- | --- |
+| Fagaceae—Beeches | Quercus mongolica | Mongolian oak | #5; Russian Federation |
+| Gnetaceae—Gnetums | Gnetum montanum |  | #1; Nepal |
+| Leguminosae (Fabaceae)—Afrormosia, cristobal, palisander, rosewood, sandalwood | Dipteryx panamensis |  | Costa Rica, Nicaragua |
+| Magnoliaceae—Magnolias | Magnolia liliifera var obovata |  | #1; Nepal |
+| Oleaceae—Ashes, etc | Fraxinus mandshurica | Manchurian Ash | #5; Russian Federation |
+| Palmae (Arecaceae)—Palms | Lodoicea maldivica | Coco de Mer | #13; Seychelles |
+| Papaveraceae—Poppy | Meconopsis regia | Himalayan Poppy | #1; Nepal |
+| Pinaceae—Firs and pines | Pinus koraiensis | Korean Pine | #5; Russian Federation |
+| Podocarpaceae—Podocarps | Podocarpus neriifolius | Yellow Wood | #1; Nepal |
+| Trochodendraceae(Tetracentraceae)—Tetracentron | Tetracentron sinense |  | #1; Nepal |
 
 | Footnotes |  |
 | --- | --- |
