@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-09-01_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -58,9 +58,11 @@ _Consolidation as at 2020-08-07_
   - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **group financial statements** has the same meaning as in section 7 of the Financial Reporting Act 2013
   - **holding company** has the meaning set out in section 5
+  - **insolvency practitioner** has the same meaning as in section 5(1) of the Insolvency Practitioners Regulation Act 2019
   - **interest group** has the meaning set out in section 116
   - **interested** , in relation to a director, has the meaning set out in section 139
   - **interests register** means the register kept under section 189(1)﻿(c)
+  - **licensed insolvency practitioner** has the same meaning as in section 5(1) of the Insolvency Practitioners Regulation Act 2019
   - **licensed insurer** has the same meaning as in section 6(1) of the Insurance (Prudential Supervision) Act 2010
   - **licensed market** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **limited partnership** has the meaning set out in section 6 of the Limited Partnerships Act 2008
@@ -74,6 +76,7 @@ _Consolidation as at 2020-08-07_
   - **personal representative** , in relation to an individual, means the executor, administrator or trustee of the estate of that individual
   - **pre-emptive rights** means the rights conferred on shareholders under section 45
   - **prescribed form** means a form prescribed by regulations made under this Act that contains, or has attached to it, such information or documents as those regulations may require
+  - **prohibition order** means an order made under section 239ADV(1) or 286(5) or under section 37(6) of the Receiverships Act 1993 that prohibits a person from acting as an insolvency practitioner
   - **property** means property of every kind whether tangible or intangible, real or personal, corporeal or incorporeal, and includes rights, interests, and claims of every kind in relation to property however they arise
   - **receiver** has the same meaning as in section 2(1) of the Receiverships Act 1993
   - **records** means the documents required to be kept by a company under section 189(1)
@@ -3028,14 +3031,32 @@ If a company is a licensed insurer, this Part applies in respect of the insurer 
 
 ### Subpart 2 — Appointment of administrator
 
-### 239F Who may be appointed administrator
-(1) A natural person who is not disqualified under subsection (2) may be appointed an administrator of a company.
-(2) Unless the court orders otherwise, a person is disqualified from appointment as an administrator if that person—
-  (a) is disqualified under section 280(1) from being appointed or acting as a liquidator of the company; or
-  (b) is prohibited from being an administrator by an order made under section 239ADV.
+### 239F Who may be appointed as administrator
+(1) A person may be appointed as an administrator of a company if the person—
+  (a) is a licensed insolvency practitioner who is permitted to act as an administrator of the company under the Insolvency Practitioners Regulation Act 2019; and
+  (b) is not disqualified under subsection (2).
+(2) Unless the court orders otherwise, a person is disqualified from appointment as an administrator of a company if the person would be disqualified from appointment as a liquidator of that company under section 280(2).
+(3) For the purpose of subsection (2),—
+  (a) in section 280,—
+    (i) a reference to the commencement of the liquidation must be read as if it were a reference to the commencement of the administration:
+    (ii) a reference to a company must be read as if it were a reference to the company in administration; and
+  (b) section 280(4)﻿(c) does not apply.
+(4) A person commits an offence, and is liable on conviction to the penalty set out in section 373(2), if—
+  (a) the person knows or ought reasonably to know that they are disqualified under subsection (2); and
+  (b) the person,—
+    (i) with their consent, is appointed as an administrator; or
+    (ii) acts as an administrator.
+(5) See also section 8(2) of the Insolvency Practitioners Regulation Act 2019.
 
-### 239G Administrator must consent in writing
-A person must not be appointed the administrator of a company unless that person has consented in writing and has not withdrawn the consent at the time of appointment.
+### 239G What administrator must do before appointment
+(1) A person must not be appointed as the administrator of a company unless the person has—
+  (a) consented in writing and has not withdrawn the consent at the time of appointment; and
+  (b) certified in writing that the person—
+    (i) is a licensed insolvency practitioner; and
+    (ii) is permitted to act as an administrator of the company under the Insolvency Practitioners Regulation Act 2019; and
+    (iii) is not disqualified from appointment under section 239F(2).
+(2) A person who, with their consent, is appointed as an administrator despite failing to certify the matters set out in subsection (1)﻿(b) commits an offence and is liable on conviction to the penalty set out in section 373(2).
+(3) The acts of a person as an administrator are valid even if the person does not meet the requirements of section 239F(1) or fails to certify the matters set out in subsection (1)﻿(b).
 
 ### 239H Who may appoint administrator
 (1) An administrator may be appointed to a company by—
@@ -3047,7 +3068,8 @@ A person must not be appointed the administrator of a company unless that person
 (2) If the company is already in administration, an administrator may be appointed only by—
   (a) the court; or
   (b) the creditors, as a replacement administrator for an administrator that the creditors have removed; or
-  (c) the appointor of the first administrator, if that administrator has died, resigned, or become disqualified.
+  (c) the appointor of the first administrator, if that administrator has died, resigned, or become disqualified from appointment under section 239F(2).
+(3) The appointment of a replacement administrator by a company must be made by a resolution of the board of the company.
 
 ### 239I Appointment by company
 (1) A company may appoint an administrator if the board of the company has resolved that,—
@@ -3100,16 +3122,17 @@ A person must not be appointed the administrator of a company unless that person
 
 ### 239P When office of administrator is vacant
 The office of administrator is vacant if the administrator—
-  (a) resigns; or
+  (a) resigns in accordance with section 239Q; or
   (b) dies; or
   (c) becomes disqualified from appointment as an administrator (see section 239F(2)); or
-  (d) is removed by the court.
+  (d) is removed by the court; or
+  (e) ceases to be a licensed insolvency practitioner who is permitted to act as an administrator of the company in accordance with the Insolvency Practitioners Regulation Act 2019.
 
 ### 239Q Administrator may resign
 (1) The administrator may resign by giving written notice to the company and to his or her appointor.
 (2) The administrator must—
   (a) give written notice of the resignation to as many of the company's creditors as practicable; and
-  (b) advertise the resignation in accordance with section 3(1)﻿(b).
+  (b) advertise the resignation in accordance with section 3(1)﻿(a).
 
 ### 239R Removal of administrator
 (1) The administrator may be removed—
@@ -3117,25 +3140,33 @@ The office of administrator is vacant if the administrator—
   (b) by a resolution of creditors passed at the first creditors' meeting; or
   (c) by a resolution of creditors at a meeting convened under section 239T(1) to consider whether to remove a replacement administrator.
 (2) The creditors may not remove the administrator by a resolution passed at a creditors' meeting unless—
-  (a) the same resolution also appoints as administrator another person who is not disqualified; and
+  (a) the same resolution also appoints as administrator a person who is permitted to act as an administrator of the company in accordance with section 239F(1); and
   (b) the person named in the resolution as the new administrator has, before the resolution is considered, tabled at the meeting—
-    (i) a signed, written consent to act as administrator; and
-    (ii) an interests statement.
+    (i) the written consent and certificate required under section 239G; and
+    (ii) an interests statement that complies with section 239APA.
+(3) A person who, with the person’s consent, is appointed as a replacement administrator under subsection (2) but who has not tabled an interests statement that complies with section 239APA commits an offence and is liable on conviction to the penalty set out in section 373(2).
 
 ### 239S Appointor may appoint new administrator to fill vacancy
-(1) The appointor of an administrator may appoint a replacement to fill the vacancy that occurs if the administrator—
-  (a) resigns; or
-  (b) dies; or
-  (c) becomes disqualified.
-(2) The appointment of a replacement administrator by a company must be made by a resolution of the board of the company.
+[Repealed]
 
 ### 239T Creditors must consider appointment of replacement administrator
 (1) A replacement administrator, unless appointed by the court or by the creditors under section 239R(1)﻿(b), must convene a meeting of the creditors at which the creditors may vote to remove the replacement administrator and appoint another person in his or her place.
 (2) The meeting must be held not more than 5 working days after the date on which the replacement administrator is appointed.
 (3) The replacement administrator must convene the meeting by—
   (a) giving written notice of the meeting to as many of the company's creditors as reasonably practicable; and
-  (b) advertising the meeting in accordance with section 3(1)﻿(b).
+  (b) advertising the meeting in accordance with section 3(1)﻿(a).
 (4) The replacement administrator must take the steps in subsection (3) not less than 2 working days before the meeting.
+
+### 239TA Provision of information and assistance to replacement administrator
+(1) This section applies if a replacement administrator is appointed.
+(2) The previous administrator must, where practicable, provide to the replacement administrator the information that the previous administrator has in their possession or under their control and that the replacement administrator reasonably requires to carry out the functions and duties of administrator.
+(3) The information referred to in subsection (2) includes—
+  (a) the records and other documents of the company:
+  (b) any information necessary to provide the replacement administrator with control over the property of the company:
+  (c) any information relating to claims:
+  (d) accounting records and other documents of the administration.
+(4) The previous administrator must, where practicable, provide to the replacement administrator any assistance that the replacement administrator reasonably requires to carry out the functions and duties of administrator.
+(5) A person who fails to comply with subsection (2) or (4) commits an offence and is liable on conviction to the penalty set out in section 373(2).
 
 ### Subpart 4 — Effect of appointment of administrator
 
@@ -3231,22 +3262,7 @@ Sections 261 and 263 to 267 apply with all necessary modifications as if every r
 The administrator may lodge a report with the Registrar specifying any matter that, in his or her opinion, should be brought to the Registrar's notice.
 
 ### 239AI Administrator must report misconduct
-(1) The administrator must as soon as practicable report the matter to the Registrar if the administrator believes that—
-  (a) a past or present director, officer, or shareholder of the company has committed an offence in relation to the company; or
-  (b) an offence material to the administration has been committed by the company or any director, officer, or shareholder of the company under this Act or any of the following Acts:
-    (i) the Crimes Act 1961:
-    (ii) the Financial Markets Conduct Act 2013:
-    (iii)
-    (iv)
-    (v) the Takeovers Act 1993; or
-  (c) a person who has taken part in the formation, promotion, administration, management, or liquidation of the company—
-    (i) may have misapplied or retained or become liable or accountable for the company's money or property (whether in New Zealand or elsewhere); or
-    (ii) may have been guilty of negligence, default, or breach of duty or trust in relation to the company.
-(2) In any case where the administrator makes a report under subsection (1), the administrator must give the Registrar assistance that the Registrar may reasonably require by way of—
-  (a) provision of information; and
-  (b) access to documents; and
-  (c) facilities for inspecting and copying documents.
-(3) In any case where the court is satisfied that the administrator should make a report under subsection (1) and has not done so, the court may, on the application of an interested person, direct the administrator to make a report.
+[Repealed]
 
 ### Subpart 6 — Creditors' meetings generally
 
@@ -3279,22 +3295,21 @@ The administrator must call—
   (e) state that, unless the creditor objects in accordance with the notice, the creditor will be taken to have agreed to the joint meeting.
 (5) For the purposes of subsection (4)﻿(d), the administrator may in his or her discretion determine the time for receipt of an objection, but must specify a time that is reasonably practicable in the circumstances.
 
-### 239AM Power of court where outcome of voting at creditors' meeting determined by related entity
-(1) This section applies if the court is satisfied that—
-  (a) a resolution at a creditors' meeting under this Part was passed, defeated, or required to be decided by a casting vote; and
-  (b) the resolution would not have been passed, defeated, or required to be decided by a casting vote if the vote or votes cast by a particular related creditor or particular related creditors were disregarded; and
-  (c) the passing of the resolution, or the failure to pass it,—
-    (i) is contrary to the interests of the creditors, or a class of creditors, as a whole; and
-    (ii) has prejudiced, or is reasonably likely to prejudice, the interest of the creditors who voted against the resolution, or for it, as the case may be, to an extent that is unreasonable having regard to—
-      (A) the benefits accruing to the related creditor, or to some or all of the related creditors, from the resolution, or from the failure to pass the resolution; and
-      (B) the nature of the relationship between the related creditor and the company, or between the related creditors and the company; and
-      (C) any other related matter.
-(2) The court may, on the application of a creditor or the administrator,—
-  (a) order that the resolution be set aside:
-  (b) order that a new meeting be held to consider and vote on the resolution:
-  (c) order that a specified related creditor or creditors must not vote on the resolution or on a resolution to vary or amend it:
-  (d) make any other orders that the court thinks necessary.
-(3) In this section,—
+### 239AM Related creditor’s vote disregarded unless court orders otherwise
+(1) The administrator must disregard a related creditor’s vote on a resolution at the creditors’ meeting unless the court orders otherwise.
+(2) A related creditor may apply to the court for an order that its vote be taken into account.
+(2A) A related creditor that intends to apply for an order must,—
+  (a) before a vote is taken on the resolution, give notice in writing to the administrator that the creditor—
+    (i) is a related creditor; and
+    (ii) intends to apply to the court for an order that its vote be taken into account; and
+  (b) within 10 working days of the creditors’ meeting, make an application to the court.
+(2B) The court may order that a related creditor’s vote be taken into account only if satisfied that ordering that the applicant’s vote (or the applicants’ votes) be taken into account—
+  (a) is not contrary to the interests of the creditors, or a class of creditors, as a whole; and
+  (b) will not prejudice, and is not reasonably likely to prejudice, the interests of the creditors who voted against the resolution or for it, as the case may be, to an extent that is unreasonable having regard to—
+    (i) the benefits accruing to the applicant (or the applicants), or to some or all of the related creditors, from the resolution or from the failure to pass the resolution; and
+    (ii) the nature of the relationship between the applicant (or the applicants) and the company, or between the related creditors and the company; and
+    (iii) any other relevant matter.
+(3) In this section and sections 239AMA to 239AMC,—
   - **related creditor** means a creditor who is a related entity of the company in administration
   - **related entity** means, in relation to the company in administration,—
     (a) a promoter; or
@@ -3310,6 +3325,36 @@ The administrator must call—
     (k) a company one of whose directors is also a director of the company in administration; or
     (l) a trustee of a trust under which a person (A) is a beneficiary, if A is a related entity of the company in administration under this subsection.
 
+### 239AMA Creditor’s vote disregarded if administrator considers creditor is related creditor
+(1) If the administrator considers that a creditor that votes on a resolution at a creditors’ meeting is a related creditor, and the creditor has not given notice under section 239AM(2A), the administrator must (unless the court orders otherwise)—
+  (a) disregard the creditor’s vote; and
+  (b) give notice in writing to the creditor stating the reasons for the administrator’s view.
+(2) The court may, on the application of the creditor, order that the creditor’s vote be taken into account if satisfied that the creditor is not a related creditor.
+(3) The creditor must make any application under this section to the court within 10 working days of receiving the notice.
+
+### 239AMB Further powers where court orders creditor’s vote be taken into account
+(1) If the court orders, under section 239AM or 239AMA, that a creditor’s vote be taken into account, the court may also—
+  (a) order that the resolution be set aside or treated as having passed:
+  (b) order that a new meeting be held to consider and vote on the resolution:
+  (c) order that the creditor’s vote on a resolution to vary or amend the resolution be taken into account:
+  (d) make any other orders that the court thinks necessary.
+(2) Despite any application under section 239AM or 239AMA, the outcome of the vote on the resolution is valid and effective unless the court orders otherwise.
+
+### 239AMC Power of court where outcome of voting at creditors’ meeting determined by related creditor
+(1) This section applies in relation to a resolution at a creditors’ meeting if,—
+  (a) after the meeting, the administrator becomes aware that a creditor that voted on the resolution is a related creditor; and
+  (b) the administrator is satisfied that,—
+    (i) in accordance with section 239AM or 239AMA, the related creditor’s vote should have been disregarded; and
+    (ii) the resolution would not have been passed, defeated, or required to be decided by a casting vote (as the case may be) if the vote cast by the related creditor (or, if there is more than 1 related creditor, the votes cast by the related creditors) had been disregarded.
+(2) Despite sections 239AM(1) and 239AMA(1), the outcome of the vote on the resolution is valid and effective unless the court orders otherwise under subsection (4).
+(3) The administrator must, as soon as practicable after becoming aware that this section applies to the resolution, give notice of that fact to every known creditor.
+(4) The court may, on the application of the administrator or a creditor,—
+  (a) order that the resolution be set aside or treated as having passed:
+  (b) order that a new meeting be held to consider and vote on the resolution:
+  (c) order that a specified related creditor or creditors must not vote on the resolution or on a resolution to vary or amend it:
+  (d) make any other orders that the court thinks necessary.
+(5) An administrator who fails to comply with subsection (3) commits an offence and is liable on conviction to the penalty set out in section 373(2).
+
 ### Subpart 7 — First creditors' meeting to appoint creditors' committee
 
 ### 239AN Administrator must call first creditors' meeting
@@ -3321,13 +3366,27 @@ The administrator must call—
 ### 239AO Notice of first and subsequent creditors' meetings
 (1) The administrator must call the first and subsequent creditors' meetings by—
   (a) giving written notice of the meeting to as many of the company's creditors as reasonably practicable; and
-  (b) advertising the meeting in accordance with section 3(1)﻿(b).
+  (b) advertising the meeting in accordance with section 3(1)﻿(a).
 (2) The administrator must take the steps in subsection (1) not less than 5 working days before the meeting.
 
-### 239AP Administrator must table interests statement
-(1) The administrator must table at the first creditors' meeting an interests statement that complies with subsection (2).
-(2) The interests statement must disclose whether the administrator, or a firm of which the administrator is a partner, has a relationship (whether professional, business, or personal) with the company in administration, or any of its officers, shareholders, or creditors.
-(3) The administrator must, before tabling the interests statement, make the inquiries that are reasonably necessary for ensuring that the interests statement is complete.
+### 239AP Administrator must table documents at first creditors' meeting
+(1) The administrator must table at the first creditors' meeting—
+  (a) the written consent and certificate required under section 239G; and
+  (b) an interests statement that complies with section 239APA; and
+  (c) a notice stating that administrators are required to be licensed, and that more information about the regulation of insolvency practitioners is available from the Registrar.
+(2) A person who fails to comply with subsection (1)﻿(a), (b), or (c) commits an offence and is liable on conviction to the penalty set out in section 373(2).
+
+### 239APA Requirements for interests statement
+(1) This section sets out the requirements for the interests statement referred to in sections 239R(2)﻿(b)﻿(ii), 239AP(1)﻿(b), 239AU(3)﻿(aa), and 239ACZA(1).
+(2) The interests statement must disclose—
+  (a) any circumstance, relationship, or other fact that creates, or could reasonably be perceived as creating, a conflict of interest for the insolvency practitioner in relation to the independence of the insolvency practitioner’s role as the administrator, including anything that would, but for a court order to the contrary, have disqualified the person—
+    (i) from being appointed as or acting as the administrator (see section 239F(2)); or
+    (ii) from being a licensed insolvency practitioner; and
+  (b) the nature of any actual or perceived conflict of interest created by that circumstance, relationship, or other fact; and
+  (c) how the insolvency practitioner intends to manage any actual or perceived conflict of interest.
+(3) In preparing an interests statement for the purposes of section 239R(2)﻿(b)﻿(ii) or 239AP(1)﻿(b), the insolvency practitioner must make any inquiries that are reasonably necessary for ensuring that the interests statement is complete.
+(4) In preparing an interests statement for the purposes of section 239AU(3)﻿(aa) or 239ACZA(1), the insolvency practitioner need include only the information required under subsection (2) that relates to circumstances, relationships, or other facts that the insolvency practitioner has become aware of during the period since they last prepared an interests statement.
+(5) The interests statement must be in writing and be dated and signed by the insolvency practitioner.
 
 ### 239AQ Functions of creditors' committee
 (1) The functions of the creditors' committee of a company in administration are—
@@ -3355,9 +3414,10 @@ The watershed meeting is the meeting of creditors called by the administrator to
 ### 239AU Notice of watershed meeting
 (1) The administrator must convene the watershed meeting by—
   (a) giving written notice of the meeting to as many of the company's creditors as reasonably practicable; and
-  (b) advertising the meeting in accordance with section 3(1)﻿(b).
+  (b) advertising the meeting in accordance with section 3(1)﻿(a).
 (2) The administrator must take the steps in subsection (1) not less than 5 working days before the meeting.
 (3) The following documents must accompany the notice of the watershed meeting that is sent to the company's creditors:
+  (aa) an updated interests statement that complies with section 239APA; and
   (a) a report by the administrator about—
     (i) the company's business, property, affairs, and financial circumstances; and
     (ii) any other matter material to the creditors' decisions to be considered at the meeting; and
@@ -3366,6 +3426,7 @@ The watershed meeting is the meeting of creditors called by the administrator to
     (ii) whether it would be in the creditors' interests for the administration to end:
     (iii) whether it would be in the creditors' interests for the company to be placed in liquidation; and
   (c) if a deed of company arrangement is proposed, a statement setting out the details of the proposed deed.
+(4) The updated interests statement may be in the form of a statement to be read in conjunction with previous interests statements and updates.
 
 ### 239AV When watershed meeting must be held
 The watershed meeting must be held within 5 working days after the end of the convening period or extended convening period, as the case may be.
@@ -3590,10 +3651,25 @@ The court must not appoint an interim liquidator of a company in administration 
 The appointment of a liquidator to a company in administration ends the administration.
 
 ### 239ABY Former administrator is default liquidator
-In the case of the appointment of a liquidator to a company in administration by the creditors, the former administrator is the liquidator if—
+(1) In the case of the appointment of a liquidator to a company in administration by the creditors, the former administrator is the liquidator if—
   (a) the creditors' resolution does not nominate a person for appointment; or
-  (b) the person nominated is disqualified from acting as the liquidator or has not consented in writing; or
+  (b) the person nominated—
+    (i) is disqualified from acting as a liquidator under section 280(2); or
+    (ii) has not satisfied the requirements of section 282; or
+    (iii) is not a licensed insolvency practitioner who is permitted to act as a liquidator of the company in accordance with the Insolvency Practitioners Regulation Act 2019; or
   (c) the person nominated is for any other reason unable or unwilling to act as liquidator.
+(2) However, the former administrator must appoint another person as the liquidator if the former administrator is disqualified from acting as a liquidator or is not a licensed insolvency practitioner who is permitted to act as a liquidator of the company in accordance with the Insolvency Practitioners Regulation Act 2019.
+
+### 239ABYA Provision of information and assistance to liquidator
+(1) This section applies if a person was acting as an administrator of a company before the appointment of a liquidator to the company.
+(2) The administrator must, where practicable, provide to the liquidator the information that the administrator has in their possession or under their control and that the liquidator reasonably requires to carry out the functions and duties of liquidator.
+(3) The information referred to in subsection (2) includes—
+  (a) the records and other documents of the company:
+  (b) any information necessary to provide the liquidator with control over the property of the company:
+  (c) any information relating to claims:
+  (d) accounting records and other documents of the administration.
+(4) The administrator must, where practicable, provide to the liquidator any assistance that the liquidator reasonably requires to carry out the functions and duties of liquidator.
+(5) A person who fails to comply with subsection (2) or (4) commits an offence and is liable on conviction to the penalty set out in section 373(2).
 
 ### 239ABZ Person in control of company must lodge revised report with Registrar
 (1) This section applies when a liquidator is appointed to a company that is in administration or under a deed of company arrangement.
@@ -3607,25 +3683,59 @@ In the case of the appointment of a liquidator to a company in administration by
 ### 239ACA Act of administrator in good faith must not be set aside in liquidation
 A payment made, transaction entered into, or any other act or thing done, in good faith, by or with the consent of the administrator of a company in administration, must not be set aside in a liquidation of the company.
 
-### 239ACB Voidable transactions
-(1) The voidable transaction provisions do not apply to a transaction by a company in administration if the transaction is—
+### 239ACB Voidable transactions and voidable dispositions
+(1) The voidable transaction and voidable disposition provisions do not apply to a transaction or disposition by a company in administration if the transaction or disposition is—
   (a) carried out by or with the authority of the administrator or deed administrator; or
   (b) specifically authorised by the deed of company arrangement and carried out by the deed administrator.
-(2) In this section, voidable transaction provisions means sections 292 to 296.
+(2) In this section, voidable transaction and voidable disposition provisions means sections 292 to 296D.
 
 ### Subpart 12 — Deed administrator
 
 ### 239ACC Who is deed administrator
 The administrator of the company is the deed administrator, unless the creditors at the watershed meeting by resolution appoint someone else to be the deed administrator.
 
-### 239ACD Who may be appointed deed administrator
-(1) A natural person who is not disqualified under subsection (2) may be appointed deed administrator.
-(2) Unless the court orders otherwise, a person is disqualified from appointment as a deed administrator if that person is—
-  (a) disqualified under section 280(1) from acting as a liquidator of the company; or
-  (b) prohibited from being a deed administrator by an order made under section 239ADV.
+### 239ACD Who may be appointed as deed administrator
+(1) A person may be appointed as a deed administrator of a company if the person—
+  (a) is a licensed insolvency practitioner who is permitted to act as a deed administrator of the company under the Insolvency Practitioners Regulation Act 2019; and
+  (b) is not disqualified under subsection (2).
+(2) Unless the court orders otherwise, a person is disqualified from appointment as a deed administrator of a company if the person would be disqualified from appointment as a liquidator of that company under section 280(2).
+(3) For the purpose of subsection (2),—
+  (a) in section 280,—
+    (i) a reference to the commencement of the liquidation must be read as if it were a reference to the execution of the deed of company arrangement:
+    (ii) a reference to a company must be read as if it were a reference to the company under a deed of company arrangement; and
+  (b) section 280(4)﻿(c) does not apply.
+(4) A person commits an offence, and is liable on conviction to the penalty set out in section 373(2), if—
+  (a) the person knows or ought reasonably to know that they are disqualified under subsection (2); and
+  (b) the person,—
+    (i) with their consent, is appointed as a deed administrator; or
+    (ii) acts as a deed administrator.
+(5) See also section 8(2) of the Insolvency Practitioners Regulation Act 2019.
 
-### 239ACE Deed administrator must consent in writing
-A person must not be appointed deed administrator unless that person has consented in writing and has not withdrawn the consent at the time when the deed of company arrangement is executed.
+### 239ACE What deed administrator must do before appointment
+(1) A person must not be appointed as a deed administrator of a company unless the person has—
+  (a) consented in writing and has not withdrawn the consent at the time when the deed of company arrangement is executed; and
+  (b) certified in writing that the person—
+    (i) is a licensed insolvency practitioner; and
+    (ii) is permitted to act as a deed administrator of the company under the Insolvency Practitioners Regulation Act 2019; and
+    (iii) is not disqualified from appointment under section 239ACD(2); and
+  (c) tabled at the watershed meeting (or, if section 239ACP applies, circulated to creditors with the draft deed under that section)—
+    (i) the written consent and certificate required under paragraphs (a) and (b); and
+    (ii) an interests statement that complies with section 239ACEA.
+(2) A person commits an offence, and is liable on conviction to the penalty set out in section 373(2), if—
+  (a) the person, with their consent, is appointed as a deed administrator despite failing to certify the matters set out in subsection (1)﻿(b); or
+  (b) the person fails to comply with subsection (1)﻿(c).
+(3) The acts of a person as a deed administrator are valid even if the person does not meet the requirements of section 239ACD(1), fails to certify the matters set out in subsection (1)﻿(b), or fails to comply with subsection (1)﻿(c).
+
+### 239ACEA Requirements for interests statement
+(1) This section sets out the requirements for the interests statement referred to in section 239ACE(1)﻿(c)﻿(ii).
+(2) The interests statement must disclose—
+  (a) any circumstance, relationship, or other fact that creates, or could reasonably be perceived as creating, a conflict of interest for the insolvency practitioner in relation to the independence of the insolvency practitioner’s role as a deed administrator, including anything that would, but for a court order to the contrary, have disqualified the person—
+    (i) from being appointed as or acting as a deed administrator (see section 239ACD(2)); or
+    (ii) from being a licensed insolvency practitioner; and
+  (b) the nature of any actual or perceived conflict of interest created by a circumstance, relationship, or other fact; and
+  (c) how the insolvency practitioner intends to manage any actual or perceived conflict of interest.
+(3) In preparing the interests statement, the insolvency practitioner must make any inquiries that are reasonably necessary for ensuring that the interests statement is complete.
+(4) The interests statement must be in writing and be dated and signed by the insolvency practitioner.
 
 ### 239ACF Appointment of deed administrator must not be revoked
 Except in the case of removal by the court, the appointment of the deed administrator must not be revoked.
@@ -3638,9 +3748,11 @@ Except in the case of removal by the court, the appointment of the deed administ
 
 ### 239ACH When office of deed administrator vacant
 The office of the deed administrator is vacant if the deed administrator—
-  (a) resigns; or
+  (a) resigns in accordance with section 239ACI; or
+  (ab) dies; or
   (b) becomes disqualified from appointment as a deed administrator (see section 239ACD(2)); or
-  (c) is removed by the court.
+  (c) is removed by the court; or
+  (d) ceases to be a licensed insolvency practitioner who is permitted to act as a deed administrator of the company in accordance with the Insolvency Practitioners Regulation Act 2019.
 
 ### 239ACI Deed administrator may resign
 The deed administrator may resign by giving written notice to the company.
@@ -3650,6 +3762,17 @@ The deed administrator may resign by giving written notice to the company.
   (a) remove the deed administrator, and appoint a person in his or her place; or
   (b) appoint a new deed administrator, if the deed of company arrangement has not yet terminated but for some reason no deed administrator is acting.
 (2) The court may make an order under subsection (1) on the application of a creditor of the company, a shareholder, the liquidator (if the company is in liquidation), the FMA (if the company is a financial markets participant), or the Registrar.
+
+### 239ACJA Provision of information and assistance to replacement deed administrator
+(1) This section applies if a replacement deed administrator is appointed.
+(2) The previous deed administrator must, where practicable, provide to the replacement deed administrator the information that the previous deed administrator has in their possession or under their control and that the replacement deed administrator reasonably requires to carry out the functions and duties of deed administrator.
+(3) The information referred to in subsection (2) includes—
+  (a) the records and other documents of the company:
+  (b) any information necessary to provide the replacement deed administrator with control over the property of the company (to the extent permitted by the deed):
+  (c) any information relating to claims:
+  (d) accounting records and other documents of the administration of the deed of company arrangement.
+(4) The previous deed administrator must, where practicable, provide to the replacement deed administrator any assistance that the replacement deed administrator reasonably requires to carry out the functions and duties of deed administrator.
+(5) A person who fails to comply with subsection (2) or (4) commits an offence and is liable on conviction to the penalty set out in section 373(2).
 
 ### 239ACK Remuneration of deed administrator
 (1) The deed administrator is entitled to charge reasonable remuneration for carrying out his or her duties and exercising his or her powers as deed administrator.
@@ -3769,7 +3892,7 @@ A deed of company arrangement binds—
     (ii) no injustice will result for anyone bound by the deed if the contravention is disregarded.
 (4) The court may, if it declares that a provision of the deed is void, vary the deed, but only if the deed administrator consents.
 
-### Subpart 14 — Administrator's duty to file accounts
+### Subpart 14 — Administrator's duty to file accounts and summary reports
 
 ### 239ACY Administrator includes deed administrator
 In this subpart, unless the context otherwise requires, administrator includes a deed administrator.
@@ -3783,6 +3906,20 @@ In this subpart, unless the context otherwise requires, administrator includes a
 (3) The account must be in the prescribed form and must show,—
   (a) for each period, the administrator's receipts and payments; and
   (b) for each period except the first, the aggregates of the administrator's receipts and payments since the day on which the administrator was appointed.
+(4) A person who fails to comply with this section commits an offence and is liable on conviction to the penalty set out in section 373(2).
+
+### 239ACZA Administrator must file updates to interests statement
+(1) An administrator must, within 20 working days after the end of each period of 6 months following the date on which the administrator was appointed, prepare and send to every known creditor an updated interests statement that complies with section 239APA.
+(2) The updated interests statement may be in the form of a statement to be read in conjunction with previous interests statements and updates.
+(3) A person who fails to comply with this section commits an offence and is liable on conviction to the penalty set out in section 373(2).
+
+### 239ACZB Administrator must file summary report
+(1) This section applies to—
+  (a) a person who is the administrator at the end of an administration; and
+  (b) a person who is the deed administrator on the termination of a deed of company arrangement.
+(2) As soon as practicable after completing his or her duties in relation to the administration or deed of company arrangement (as the case may be), the person must provide to the Registrar, in the manner specified by the Registrar, a summary report.
+(3) The summary report must contain the prescribed information.
+(4) A person who fails to comply with this section commits an offence and is liable on conviction to the penalty set out in section 373(2).
 
 ### Subpart 15 — Variation and termination of deed
 
@@ -3834,7 +3971,7 @@ The creditors may vary a deed of company arrangement by a resolution passed at a
   (b) must convene a meeting if requested to do so in writing by creditors whose claims against the company are not less than 10% in value of the total value of all creditors' claims.
 (2) The deed administrator must convene the meeting by—
   (a) giving written notice to as many of the company's creditors as reasonably practicable; and
-  (b) advertising the meeting in accordance with section 3(1)﻿(b).
+  (b) advertising the meeting in accordance with section 3(1)﻿(a).
 (3) The administrator must take the steps in subsection (2) not less than 5 working days before the meeting.
 (4) The notice given to the creditors must set out any resolution for varying or terminating the deed that is to be considered by the meeting.
 (5) The deed administrator must preside at the meeting.
@@ -3968,21 +4105,27 @@ Subject to section 312, the administrator's right of indemnity under this subpar
   (ba) if the company is a financial markets participant, the FMA; or
   (c) the Registrar.
 
+### 239ADUA Meaning of failure to comply
+(1) In section 239ADV, failure to comply means a person’s failure to comply with an enactment, a rule of law, or a court order to the extent that the enactment, rule, or order applies to the person in the person's capacity as an administrator or a deed administrator.
+(2) In proceedings under section 239ADV,—
+  (a) a finding of any fact made in proceedings before the District Court or High Court for an offence under this Act or any other enactment that there was a failure to comply is prima facie evidence of that fact:
+  (b) a finding described in paragraph (a) may be proved by production of a document under the seal of the court in which the finding was made.
+
 ### 239ADV Prohibition order
 (1) The court must make a prohibition order in relation to a person if it is shown to the satisfaction of the court that that person is unfit to act as administrator or deed administrator by reason of persistent failures to comply or the seriousness of a failure to comply.
 (2) The period of the order is a matter for the discretion of the court and the court may make a prohibition period for an indefinite period.
-(3) A person to whom a prohibition order applies must not act as an administrator or deed administrator in a current or other administration.
-(4) The court may make an order under this section in relation to a past or current administrator or deed administrator of a company in administration on the application of—
+(3) A person to whom a prohibition order applies—
+  (a) must not act (or continue to act) as an insolvency practitioner; and
+  (b) must be treated as if they are not a licensed insolvency practitioner (see section 8 of the Insolvency Practitioners Regulation Act 2019).
+(4) The court may make an order under this section in relation to a past or current administrator of a company in administration, or a past or current deed administrator of a company under a deed of company arrangement, on the application of—
   (a) the company or a shareholder of the company; or
   (b) a creditor of the company; or
   (c) the administrator or deed administrator of the company; or
   (d) the Registrar; or
   (e) any other interested person.
-(5) In this section, failure to comply means a failure of an administrator or deed administrator to comply with a relevant duty arising—
-  (a) under this or any other enactment or law or rules of court; or
-  (b) under any order or direction of the court made under this subpart.
-(6) In subsection (5), relevant duty includes the duty of a person in his or her capacity as liquidator of a company.
-(7) A copy of every order made under subsection (1) must, within 10 working days of the order being made, be delivered by the applicant to the Official Assignee for New Zealand who must keep it on a file indexed by reference to the name of the administrator or deed administrator concerned.
+(5) A copy of every order made under subsection (1) must be delivered by the applicant to the Registrar before the end of the working day after the day on which the order was made.
+(6) The Registrar must provide a copy of the order to each accredited body (within the meaning of the Insolvency Practitioners Regulation Act 2019) before the end of the working day after the day on which the Registrar receives a copy of the order.
+(7)
 
 ### Subpart 18 — Notices about steps taken under this Part
 
@@ -3995,6 +4138,14 @@ Subject to section 312, the administrator's right of indemnity under this subpar
     (ii) each person who holds 2 or more charges in the property of the company if the property of the company subject to those charges together is the whole, or substantially the whole, of the company's property; and
   (d) in the notice referred to in paragraph (c), set out the rights of the creditor to enforce the charge under section 239ABL.
 (2) The administrator need not give notice under subsection (1) to the person who appointed him or her.
+(3) A notice of appointment must identify who made the appointment and, if the administrator was appointed by the court, who applied to the court for the appointment.
+
+### 239ADWA Deed administrator must give notice of appointment
+(1) This section applies if the creditors at the watershed meeting, by resolution, appoint a person other than the administrator of the company to be the deed administrator.
+(2) The deed administrator must,—
+  (a) before the end of the next working day after appointment, lodge a notice of appointment with the Registrar; and
+  (b) not later than 5 working days after appointment, advertise the appointment in accordance with section 3(1)﻿(a).
+(3) A notice of appointment must state that the appointment was made by the creditors at the watershed meeting.
 
 ### 239ADX Secured creditor who appoints administrator must give notice to company
 A secured creditor who appoints an administrator under section 239K must give written notice of the appointment to the company as soon as practicable and in any event before the end of the next working day.
@@ -4002,18 +4153,18 @@ A secured creditor who appoints an administrator under section 239K must give wr
 ### 239ADY Deed administrator must give notice of execution of deed of company arrangement
 As soon as practicable after a deed of company arrangement is executed, the deed administrator must—
   (a) send to each creditor a written notice of the execution of the deed; and
-  (b) advertise the execution of the deed in accordance with section 3(1)﻿(b); and
+  (b) advertise the execution of the deed in accordance with section 3(1)﻿(a); and
   (c) file a copy of the deed with the Registrar.
 
 ### 239ADZ Deed administrator must give notice of failure to execute deed of company arrangement
 If a company does not meet the deadline under section 239ACO or 239ACP(1)﻿(c) for the execution of a deed of company arrangement, the deed administrator must as soon as practicable—
-  (a) cause a notice of the failure to execute the deed to be advertised in accordance with section 3(1)﻿(b); and
+  (a) cause a notice of the failure to execute the deed to be advertised in accordance with section 3(1)﻿(a); and
   (b) file a copy of the notice with the Registrar.
 
 ### 239AEA Deed administrator must give notice of termination by creditors of deed of company arrangement
 If the creditors terminate the deed of company arrangement, the deed administrator must as soon as practicable—
   (a) send a notice of the termination to each of the creditors; and
-  (b) advertise the termination in accordance with section 3(1)﻿(b); and
+  (b) advertise the termination in accordance with section 3(1)﻿(a); and
   (c) file a copy of the notice with the Registrar.
 
 ### 239AEB Company must disclose fact of administration
@@ -4161,9 +4312,10 @@ For the purposes of the single administration of a pool, the pool companies may 
 ### 240 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **creditor** means a person who, in a liquidation, would be entitled to claim in accordance with section 303 that a debt is owing to that person by the company; and includes a secured creditor only—
-    (a) for the purposes of sections 241(2)﻿(c), 247, 250, and 289; or
+    (a) for the purposes of sections 241(2)﻿(c), 247, 250, 280, and 289; or
     (b) to the extent of the amount of any debt owing to the secured creditor in respect of which the secured creditor claims under section 305 as an unsecured creditor
   - **liquidation committee** means a liquidation committee appointed under section 314
+  - **liquidator** means a person who is appointed as a liquidator of a company (and includes a person who is appointed as an interim liquidator of a company under section 246)
   - **Official Assignee** means an Official Assignee or Deputy Assignee appointed under the Insolvency Act 2006
   - **statutory demand** has the meaning set out in section 289.
 (1A) In this Part, company means—
@@ -4177,7 +4329,8 @@ For the purposes of the single administration of a pool, the pool companies may 
 If a licensed insurer may be put into liquidation under or in accordance with this Part, this Part applies in respect of the insurer subject to subpart 3 of Part 4 of the Insurance (Prudential Supervision) Act 2010.
 
 ### 240B Liquidation of associations
-An association may be put into liquidation under this Part, and this Part applies to an association, subject to the modifications and exclusions set out in Schedule 11.
+(1) An association may be put into liquidation under this Part, and this Part applies to an association, subject to the modifications and exclusions set out in Schedule 11.
+(2) The Insolvency Practitioners Regulation Act 2019 applies to an association put into liquidation under this Part as if the association were a company.
 
 ### 241 Commencement of liquidation
 (1) A company may be put into liquidation by the appointment as liquidator of a named person or of an Official Assignee for a named district.
@@ -4212,11 +4365,12 @@ An association may be put into liquidation under this Part, and this Part applie
   (d) it is just and equitable that the company be put into liquidation.
 (5) The liquidation of a company commences on the date on which, and at the time at which, the liquidator is appointed.
 
-### 241AA Restriction on appointment of liquidator by shareholders or board after application filed for court appointment
-(1) This section applies if an application has been filed for the appointment of a liquidator of a company by the court under section 241(2)﻿(c).
-(2) A liquidator of the company may only be appointed under section 241(2)﻿(a) or (b) if the liquidator is appointed within 10 working days after service on the company of the application.
-(3) If a liquidator is appointed under section 241(2)﻿(a) or (b), the creditor who filed the application referred to in subsection (1) may apply to the court under section 283(4) for the review of his or her appointment as if the words successor to a liquidator in section 283(4) read liquidator.
-(4) Subsection (2) does not apply once the application has been finally disposed of.
+### 241AA Restriction on appointment of liquidator by shareholders or board after application for court appointment served on company
+(1) This section applies if an application for the appointment of a liquidator under section 241(2)﻿(c) has been filed and served on the company.
+(2) A liquidator may be appointed under section 241(2)﻿(a) or (b) only if—
+  (a) the liquidator is appointed within 10 working days after the application is served on the company; or
+  (b) if the application is made under section 241(2)﻿(c)﻿(iv), the creditor who filed the application consents to the appointment under section 241(2)﻿(a) or (b).
+(3) This section ceases to apply from the time that the court disposes of the application.
 
 ### 241A Commencement of liquidation to be recorded
 (1) If—
@@ -4236,7 +4390,7 @@ Where 2 or more persons are appointed as liquidators of a company, those persons
   (c) in either case, of determining whether to pass a resolution for the purposes of section 258(1)﻿(b).
 (1A) If the appointment of a liquidator under paragraph (a) or paragraph (b) of section 241(2) is not confirmed at a meeting of creditors and another liquidator is not appointed in place of that liquidator, the appointment of the liquidator under paragraph (a) or paragraph (b) of section 241(2) continues until another liquidator is appointed.
 (2) Notice in writing of a meeting of creditors—
-  (a) must be given to every known creditor together with the report and notice referred to in section 255(2)﻿(c); and
+  (a) must be given to every known creditor together with the report, interests statement, and notices referred to in section 255(2)﻿(c); and
   (b) if the liquidator receives a notice under section 245(1)﻿(b)﻿(iii), must be given within 10 working days after receiving the notice.
 (3) Public notice of the meeting of creditors must also be given by the liquidator not less than 5 working days before the date of the meeting.
 (4) Except if subsection (2)﻿(b) applies, a meeting of creditors must be held,—
@@ -4247,15 +4401,37 @@ Where 2 or more persons are appointed as liquidators of a company, those persons
 (5) Every meeting of creditors must be held in accordance with Schedule 5.
 (6) If at a meeting of creditors it is resolved to appoint a person as liquidator of the company in place of the liquidator appointed pursuant to paragraph (a) or paragraph (b) of subsection (2) of section 241, the person who it is resolved to appoint as liquidator shall, subject to section 282, be the liquidator of the company.
 (7) If at a meeting of creditors it is resolved to apply to the court for the appointment of a person as liquidator in place of the liquidator appointed pursuant to paragraph (c) of subsection (2) of section 241, the liquidator of the company must forthwith apply to the court for the appointment of that person as liquidator and the court may, if it thinks fit, appoint that person as the liquidator of the company.
-(8) Nothing in this section applies to the liquidator of a company appointed pursuant to paragraph (a) or paragraph (b) of subsection (2) of section 241 if, within 20 working days before the appointment of the liquidator, the board of the company resolved that the company would, on the appointment of a liquidator under either paragraph (a) or paragraph (b) of that subsection, be able to pay its debts and a copy of the resolution is delivered to the Registrar for registration.
-(9) The directors who vote in favour of such a resolution must sign a certificate stating that, in their opinion, the company would, on the appointment of a liquidator under either paragraph (a) or paragraph (b) of subsection (2) of section 241, as the case may be, be able to pay its debts, and the grounds for that opinion.
-(10) Every director who fails to comply with subsection (9) commits an offence and is liable on conviction to the penalty set out in section 373(1).
+(8) Nothing in this section applies if section 243A applies to the company.
+(9)
+(10)
 (11) Except for subsection (5), this section does not apply if the liquidator is appointed under section 241(2)﻿(d).
 
+### 243A Directors’ declaration that debts will be paid within 12 months
+(1) This section applies to a company if—
+  (a) a liquidator is appointed under section 241(2)﻿(a) or (b); and
+  (b) before the appointment of the liquidator, a copy of a declaration described in this section is made by a majority of the company’s directors and delivered to the Registrar for registration.
+(2) The declaration must—
+  (a) be to the effect that the directors have made an inquiry into the affairs of the company and have formed the opinion, on reasonable grounds, that the company will be able to pay its debts in full within a period of not more than 12 months after the appointment of the liquidator; and
+  (b) be in writing; and
+  (c) be made within 20 working days before the appointment of the liquidator; and
+  (d) include a statement of the affairs of the company that contains the prescribed information and shows, as at the latest practicable date before the making of the declaration,—
+    (i) the property of the company, and the total amount expected to be realised from that property; and
+    (ii) the liabilities of the company; and
+    (iii) the estimated expenses of the liquidation.
+(3) A director who makes a declaration under this section without having reasonable grounds for their opinion that the company will be able to pay or otherwise provide for its debts within the period stated in the declaration commits an offence and is liable on conviction to the penalty set out in section 373(2).
+(4) If, at any time, the liquidator considers, or has reasonable grounds to consider, that the company will not be able to pay or otherwise provide for its debts in full within the period stated in the declaration,—
+  (a) this section ceases to apply to the company; and
+  (b) the liquidator must, as soon as practicable, notify the Registrar that this section no longer applies to the company.
+(5) A liquidator who fails to comply with subsection (4)﻿(b) commits an offence and is liable on conviction to the penalty set out in section 373(2).
+(6) The fact that this section ceases to apply to a company does not limit or affect subsection (3).
+
 ### 244 Liquidator to summon meeting of creditors in other cases
-Subject to section 245, the liquidator of a company who was not, by reason of section 243(8), required to call a meeting of creditors of the company must,—forthwith call a meeting of the creditors of the company for the purpose specified in paragraph (a) or paragraph (b) of subsection (1) of section 243, as the case may be; and the provisions of that section shall apply accordingly with such modifications as may be necessary.
-  (a) if the liquidator is satisfied that the directors who voted in favour of a resolution referred to in that subsection did not have reasonable grounds to believe that the company would, on the appointment of a liquidator under paragraph (a) or paragraph (b) of subsection (2) of section 241, be able to pay its debts; or
-  (b) if the liquidator is satisfied that the company is not able to pay its debts,—
+(1) Despite section 243(8), the liquidator of a company to which section 243A applies must call a meeting of creditors for the purpose specified in section 243(1)﻿(a) or (b) if—
+  (a) the liquidator is satisfied that the directors who made the declaration described in section 243A did not have reasonable grounds to believe that the company would be able to pay or otherwise provide for its debts within the period stated in the declaration; or
+  (b) section 243A ceases to apply to the company.
+(2) If, as a consequence of section 243A ceasing to apply, a new liquidator is appointed, the new liquidator must call the meeting of creditors.
+(3) The provisions of section 243 apply, with any necessary modifications, in relation to the meeting of creditors.
+(4) This section is subject to section 245.
 
 ### 245 Liquidator may dispense with meetings of creditors
 (1) A liquidator is not required to call a meeting of creditors under section 243 or section 244, as the case may be, if—
@@ -4265,24 +4441,23 @@ Subject to section 245, the liquidator of a company who was not, by reason of se
     (ii) the reasons for the liquidator's view; and
     (iii) that no such meeting will be called unless a creditor gives notice in writing to the liquidator, within 10 working days after receiving the notice, requiring a meeting to be called; and
   (c) no notice requiring the meeting to be called is received by the liquidator within that period.
-(2) Notice under subsection (1)﻿(b) must be given to every known creditor together with the report and notice referred to in section 255(2)﻿(c).
+(2) Notice under subsection (1)﻿(b) must be given to every known creditor together with the report, interests statement, and notices referred to in section 255(2)﻿(c).
 
-### 245A Power of court where outcome of voting at meeting of creditors determined by related entity
-(1) This section applies if the court is satisfied that—
-  (a) a resolution at a meeting of creditors was passed, defeated, or required to be decided by a casting vote; and
-  (b) the resolution would not have been passed, defeated, or required to be decided by a casting vote if the vote or votes cast by a particular related creditor or particular related creditors were disregarded; and
-  (c) the passing of the resolution, or the failure to pass it,—
-    (i) is contrary to the interests of the creditors, or a class of creditors, as a whole; and
-    (ii) has prejudiced, or is reasonably likely to prejudice, the interest of the creditor who voted against the resolution, or for it, as the case may be, to an extent that is unreasonable having regard to—
-      (A) the benefits accruing to the related creditor, or to some or all of the related creditors, from the resolution, or from the failure to pass the resolution; and
-      (B) the nature of the relationship between the related creditor and the company, or between the related creditors and the company; and
-      (C) any other related matter.
-(2) The court may, on the application of the liquidator or a creditor,—
-  (a) order that the resolution be set aside:
-  (b) order that a new meeting be held to consider and vote on the resolution:
-  (c) order that a specified related creditor or creditors must not vote on the resolution or on a resolution to vary or amend it:
-  (d) make any other orders that the court thinks necessary.
-(3) In this section,—
+### 245A Related creditor’s vote at meeting of creditors to be disregarded unless court orders otherwise
+(1) The liquidator must disregard a related creditor’s vote on a resolution at the meeting of creditors unless the court orders otherwise.
+(2) A related creditor may apply to the court for an order that its vote be taken into account.
+(2A) A related creditor that intends to apply for an order must,—
+  (a) before a vote is taken on the resolution, give notice in writing to the liquidator that the creditor—
+    (i) is a related creditor; and
+    (ii) intends to apply to the court for an order that its vote be taken into account; and
+  (b) within 10 working days of the meeting of creditors, make an application to the court.
+(2B) The court may make an order that a related creditor’s vote be taken into account only if satisfied that ordering that the applicant’s vote (or the applicants’ votes) be taken into account—
+  (a) is not contrary to the interests of the creditors, or a class of creditors, as a whole; and
+  (b) will not prejudice, and is not reasonably likely to prejudice, the interests of the creditors who voted against the resolution or for it, as the case may be, to an extent that is unreasonable having regard to—
+    (i) the benefits accruing to the applicant (or the applicants), or to some or all of the related creditors, from the resolution or from the failure to pass the resolution; and
+    (ii) the nature of the relationship between the applicant (or the applicants) and the company, or between the related creditors and the company; and
+    (iii) any other relevant matter.
+(3) In this section and sections 245B to 245D,—
   - **related creditor** means a creditor who is a related entity of the company in liquidation
   - **related entity** means, in relation to the company in liquidation,—
     (a) a promoter; or
@@ -4297,6 +4472,36 @@ Subject to section 245, the liquidator of a company who was not, by reason of se
     (j) a relative of a spouse of that beneficiary; or
     (k) a company one of whose directors is also a director of the company in liquidation; or
     (l) a trustee of a trust under which a person (A) is a beneficiary, if A is a related entity of the company in liquidation under this subsection.
+
+### 245B Creditor’s vote disregarded if liquidator considers creditor is related creditor
+(1) If the liquidator considers that a creditor that votes on a resolution at a meeting of creditors is a related creditor, and the creditor has not given notice under section 245A(2A), the liquidator must (unless the court orders otherwise)—
+  (a) disregard the creditor’s vote; and
+  (b) give notice in writing to the creditor stating the reasons for the liquidator’s view.
+(2) The court may, on the application of the creditor, order that the creditor’s vote be taken into account if satisfied that the creditor is not a related creditor.
+(3) The creditor must make any application under this section to the court within 10 working days of receiving the notice.
+
+### 245C Further powers where court orders creditor’s vote be taken into account
+(1) If the court orders, under section 245A or 245B, that a creditor’s vote be taken into account, the court may also—
+  (a) order that the resolution be set aside or treated as having passed:
+  (b) order that a new meeting be held to consider and vote on the resolution:
+  (c) order that the creditor’s vote on a resolution to vary or amend the resolution be taken into account:
+  (d) make any other orders that the court thinks necessary.
+(2) Despite any application under section 245A or 245B, the outcome of the vote on the resolution is valid and effective unless the court orders otherwise.
+
+### 245D Power of court where outcome of voting at meeting of creditors determined by related creditor
+(1) This section applies in relation to a resolution at a meeting of creditors if,—
+  (a) after the meeting, the liquidator becomes aware that a creditor that voted on the resolution is a related creditor; and
+  (b) the liquidator is satisfied that,—
+    (i) in accordance with section 245A or 245B, the related creditor’s vote should have been disregarded; and
+    (ii) the resolution would not have been passed, defeated, or required to be decided by a casting vote (as the case may be) if the vote cast by the related creditor (or, if there is more than 1 related creditor, the votes cast by the related creditors) had been disregarded.
+(2) Despite sections 245A(1) and 245B(1), the outcome of the vote on the resolution is valid and effective unless the court orders otherwise under subsection (4).
+(3) The liquidator must, as soon as practicable after becoming aware that this section applies to the resolution, give notice of that fact to every known creditor.
+(4) The court may, on the application of the liquidator or a creditor,—
+  (a) order that the resolution be set aside or treated as having passed:
+  (b) order that a new meeting be held to consider and vote on the resolution:
+  (c) order that a specified related creditor or creditors must not vote on the resolution or on a resolution to vary or amend it:
+  (d) make any other orders that the court thinks necessary.
+(5) A liquidator who fails to comply with subsection (3) commits an offence and is liable on conviction to the penalty set out in section 373(2).
 
 ### 246 Interim liquidator
 (1) If an application has been made to the court for an order that a company be put into liquidation, the court may, if it is satisfied that it is necessary or expedient for the purpose of maintaining the value of assets owned or managed by the company, appoint a named person, or an Official Assignee for a named district, as interim liquidator.
@@ -4406,52 +4611,82 @@ Notwithstanding any other provisions of this Part,—the Official Assignee shall
 (1) Without limiting section 253, a liquidator has the other functions and duties specified in this Act.
 (2) Without limiting subsection (1), a liquidator must,—
   (a) forthwith after being appointed or being notified of his or her appointment, give public notice of—
-    (i) the liquidator's appointment; and
+    (i) the liquidator's appointment, specifying who made the appointment (see section 241(2)) and, if the liquidator was appointed by the court, who applied to the court for the appointment; and
     (ii) the date and time of the commencement of the liquidation; and
     (iii) the address and telephone number to which, during normal business hours, inquiries may be directed by a creditor or shareholder; and
-  (b) within 10 working days of being appointed or being notified of his or her appointment, deliver to the Registrar for registration a notice of the liquidator's appointment; and
+  (b) before the end of the next working day after appointment, deliver to the Registrar for registration a notice of the liquidator’s appointment; and
   (c) within the applicable period referred to in subsection (3),—
-    (i) prepare a list of every known creditor of the company with each creditor's address (if known); and
+    (i) prepare a list of every known creditor of the company and, if known, each creditor's address for communications (which may be an electronic address); and
     (ii) prepare and send to every known creditor, every shareholder, and the Registrar for registration,—
-      (A) a report containing a statement of the company's affairs, proposals for conducting the liquidation, and, if practicable, the estimated date of its completion; and
+      (A) an initial report containing the prescribed information; and
       (B) a notice explaining the right of a creditor or shareholder to require the liquidator to call a meeting of creditors under section 314; and
-      (C) the list of creditors referred to in subparagraph (i); and
-  (d) within 20 working days of the end of each period of 6 months following the date of commencement of the liquidation, prepare and send to every known creditor and every shareholder, and send or deliver to the Registrar, a report—
-    (i) on the conduct of the liquidation during the preceding 6 months; and
-    (ii) of any further proposals which the liquidator has for completing the liquidation.
+      (C) an interests statement that complies with section 255A; and
+      (D) a notice stating that liquidators of insolvent companies are required to be licensed insolvency practitioners, and that more information about the regulation of insolvency practitioners is available from the Registrar; and
+  (d) within 20 working days after the end of each period of 6 months following the date of commencement of the liquidation, prepare and send to every known creditor and every shareholder, and to the Registrar for registration,—
+    (i) a report on the liquidation containing the prescribed information; and
+    (ii) an updated interests statement that complies with section 255A.
 (3) For the purposes of subsection (2)﻿(c), applicable period means,—
   (a) in the case of a liquidator appointed under section 241(2)﻿(a), (b), or (d), 5 working days after the liquidator's appointment; or
   (b) in the case of a liquidator appointed under paragraph (c) of subsection (2) of section 241, 25 working days after the liquidator's appointment; or
   (c) in either case, such longer period as the court may allow.
+(3A) A person who fails to comply with subsection (2)﻿(c) or (d) commits an offence and is liable on conviction to the penalty set out in section 373(2).
+(3B) Subsection (2)﻿(c)﻿(ii)﻿(C) and (D) does not apply to an Official Assignee.
 (4) The court may, on the application of a liquidator,—on such terms and conditions as the court thinks fit.
-  (a) exempt the liquidator from compliance with the provisions of paragraph (c) or paragraph (d) of subsection (2); or
+  (a) exempt the liquidator from compliance with subsection (2)﻿(c) or (d); or
   (b) modify the application of those provisions in relation to the liquidator,—
 (5)
 (6)
 
-### 256 Duties in relation to accounts
-(1) Subject to subsection (2), the liquidator of a company must—
-  (a) keep accounts and records of the liquidation and permit those accounts and records, and the accounts and records in the company, to be inspected by—
+### 255A Requirements for interests statement
+(1) This section sets out the requirements for the interests statement referred to in section 255(2)﻿(c)﻿(ii)﻿(C) and (d)﻿(ii).
+(2) The interests statement must disclose—
+  (a) any circumstance, relationship, or other fact that creates, or could reasonably be perceived as creating, a conflict of interest for the insolvency practitioner in relation to the independence of the insolvency practitioner’s role as the liquidator, including anything that would, but for a court order to the contrary, have disqualified the person—
+    (i) from being appointed as or acting as the liquidator (see section 280(2)); or
+    (ii) from being a licensed insolvency practitioner; and
+  (b) the nature of any actual or perceived conflict of interest created by that circumstance, relationship, or other fact; and
+  (c) how the insolvency practitioner intends to manage any actual or perceived conflict of interest.
+(3) In preparing an interests statement for the purposes of section 255(2)﻿(c)﻿(ii)﻿(C), the insolvency practitioner must make any inquiries that are reasonably necessary for ensuring that the interests statement is complete.
+(4) In preparing an interests statement for the purposes of section 255(2)﻿(d)﻿(ii), the insolvency practitioner need include only the information required under subsection (2) that relates to circumstances, relationships, or other facts that the insolvency practitioner has become aware of during the period since they last prepared an interests statement.
+(5) The interests statement must be in writing and be dated and signed by the insolvency practitioner.
+
+### 256 Duties in relation to records
+(1) The liquidator of a company must—
+  (a) keep accounting records and other documents of the liquidation and permit those records, and the records and other documents of the company, to be inspected by—
     (i) any liquidation committee appointed under section 314, unless the liquidator believes on reasonable grounds that inspection would be prejudicial to the liquidation; and
     (ii) if the court so orders, a creditor or shareholder; and
-  (b) retain the accounts and records of the liquidation and of the company for not less than 1 year after completion of the liquidation.
-(2) The Registrar may, whether before or after the completion of the liquidation,—
-  (a) authorise the disposal of any accounts and records; and
-  (b) require any accounts or records to be retained for longer than 1 year after the completion of the liquidation.
+  (b) keep the accounting records and other documents of the liquidation, and the records and other documents of the company, for not less than 6 years after completion of the liquidation (or any longer period specified in a notice referred to in subsection (3)).
+(2) The Registrar may, before or after the completion of the liquidation, require any records and documents to be retained for longer than 6 years after the completion of the liquidation.
+(3) The Registrar must give notice of a requirement under subsection (2) on an Internet site maintained by or on behalf of the Registrar.
+(4) A person who fails to comply with subsection (1) commits an offence and is liable on conviction to the penalty set out in section 373(2).
+
+### 256A Duties in relation to company money
+(1) A liquidator must deposit the money of a company under his or her administration at a registered bank and in—
+  (a) a bank account to the credit of the company; or
+  (b) a general or separate trust account.
+(2) However, the liquidator may invest, in financial products issued by a registered bank, in a public security, or in any other financial products as authorised by the court, any amount of the company’s money that is—
+  (a) in the bank account or trust account; and
+  (b) not required for the time being to meet claims made against the company.
+(3) All dividends, interest, and other profits from an investment described in subsection (2) must, as soon as practicable after they are received, be paid into the bank account or trust account.
+(4) Money that is deposited in a trust account under subsection (1)﻿(b) must be held by the liquidator on trust for the benefit of the persons legally entitled to that money.
+(5) A person who fails to comply with this section commits an offence and is liable on conviction to the penalty set out in section 373(3).
+(6) In this section, public security has the same meaning as in section 2(1) of the Public Finance Act 1989.
+(7) This section does not limit section 260.
 
 ### 257 Duties in relation to final report and accounts
 (1) As soon as practicable after completing his or her duties in relation to the liquidation, the liquidator of a company must—
   (a) prepare and send to every creditor whose claim has been admitted and every shareholder—
-    (i) the final report and statement of realisation and distribution in respect of the liquidation; and
+    (i) a final report containing the prescribed information; and
     (ii) a statement that—
       (A) all known assets have been disclaimed, or realised, or distributed without realisation; and
       (B) all proceeds of realisation have been distributed; and
       (C) the company is ready to be removed from the New Zealand register; and
     (iii) a summary of the applicable grounds on which the creditor or shareholder may object to the removal of the company from the New Zealand register under section 321:
-  (b) send or deliver copies of the documents referred to in paragraph (a) to the Registrar for registration.
+  (b) send or deliver copies of the documents referred to in paragraph (a) to the Registrar for registration:
+  (c) provide to the Registrar, in the manner specified by the Registrar, a summary report that contains the prescribed information.
 (2) The court may, on the application of a liquidator,—on such terms and conditions as the court thinks fit.
   (a) exempt the liquidator from compliance with the provisions of subsection (1); or
   (b) modify the application of those provisions in relation to the liquidator,—
+(3) A person who fails to comply with subsection (1) commits an offence and is liable on conviction to the penalty set out in section 373(2).
 
 ### 258 Duty to have regard to views of creditors and shareholders
 (1) The liquidator must have regard to—
@@ -4469,23 +4704,10 @@ Notwithstanding any other provisions of this Part,—the Official Assignee shall
 (4) Nothing in this section limits or prevents a liquidator from exercising his or her discretion in carrying out his or her functions and duties under this Act.
 
 ### 258A Duty to report suspected offences
-(1) A liquidator of a company who considers that an offence that is material to the liquidation has been committed by the company or any director of the company against this Act or any of the following Acts must report that fact to the Registrar:
-  (a) the Crimes Act 1961:
-  (b) the Financial Markets Conduct Act 2013:
-  (c)
-  (d)
-  (e) the Takeovers Act 1993:
-  (f) the Insurance (Prudential Supervision) Act 2010.
-(2) A report made under subsection (1), and any communications between the liquidator and Registrar relating to that report, are protected by absolute privilege.
-(3) If the company is a licensed insurer, a copy of the report made under subsection (1) must be sent to the Reserve Bank of New Zealand.
-(4) A copy of a report sent under subsection (3), and any communications between the liquidator and Reserve Bank of New Zealand relating to that report, are protected by absolute privilege.
-(5) A liquidator who fails to comply with subsection (1) or (3) commits an offence and is liable on conviction to the penalty set out in section 373(2).
+[Repealed]
 
 ### 258B Registrar may supply report to FMA
-(1) If a report is made under section 258A in respect of a financial markets participant, the Registrar may supply a copy of the report to the FMA.
-(2) Any communications between—
-  (a) the Registrar and the FMA that relate to that report are protected by absolute privilege:
-  (b) the liquidator and the FMA that relate to that report are protected by absolute privilege.
+[Repealed]
 
 ### 259 Documents to state company in liquidation
 Every document entered into, made, or issued by a liquidator of a company on behalf of the company must state in a prominent position that the company is in liquidation.
@@ -4538,7 +4760,7 @@ Every document entered into, made, or issued by a liquidator of a company on beh
 (1) A person is not entitled, as against the liquidator of a company, to claim or enforce a lien over books, records, or documents of the company.
 (2) If the lien arises in relation to a debt for the provision of services to the company before the commencement of the liquidation, the debt is a preferential claim against the company under section 312 to the extent of 10% of the total value of the debt, up to a maximum amount of $2,000.
 (3) Nothing in this section applies to a company that was put into liquidation pursuant to paragraph (a) or paragraph (b) of subsection (2) of section 241 if—
-  (a) the board of the company passed a resolution of the kind referred to in section 243(8); and
+  (a) section 243A applies to the company; and
   (b) section 244 does not apply in relation to the company.
 
 ### 264 Delivery of document creating charge over property
@@ -4673,49 +4895,89 @@ The expenses and remuneration of the liquidator are payable out of the assets of
 (1) A liquidator ceases to hold office on the completion of the liquidation in accordance with section 249.
 (2) Subsection (1) does not limit section 284 or section 286.
 
-**Qualifications and supervision of liquidators**
+**Appointment and supervision of liquidators**
 
-### 280 Qualifications of liquidators
-(1) Unless the court orders otherwise, none of the following persons may be appointed or act as a liquidator of a company:
-  (a) a person less than 18 years old:
-  (b) a creditor of the company in liquidation:
-  (c) a person who has, within the 2 years immediately preceding the commencement of the liquidation, been a shareholder, director, auditor, or receiver of the company or of a related company:
-  (ca) a person who has, or whose firm has, within the 2 years immediately before the commencement of the liquidation, provided professional services to the company, unless, within 20 working days before the appointment of the liquidator, the board of the company resolves that the company will, on the appointment of the liquidator, be able to pay its debts and a copy of the resolution is delivered to the Registrar for registration:
-  (cb) a person who has, or whose firm has, within the 2 years immediately before the commencement of the liquidation, had a continuing business relationship (other than through the provision of banking or financial services) with the company, its majority shareholder, any of its directors, or any of its secured creditors, unless, within 20 working days before the appointment of the liquidator, the board of the company resolves that the company will, on the appointment of the liquidator, be able to pay its debts and a copy of the resolution is delivered to the Registrar for registration:
-  (d) an undischarged bankrupt:
-  (e) a person who is, or is deemed to be, subject to a compulsory treatment order made under Part 2 of the Mental Health (Compulsory Assessment and Treatment) Act 1992:
-  (f) a person in respect of whom an order has been made under section 30 or section 31 of the Protection of Personal and Property Rights Act 1988:
-  (g) a person in respect of whom an order has been made under section 286(5):
-  (h) a person in respect of whom an order has been made under section 37(6) of the Receiverships Act 1993:
-  (ha)
-  (i)
-  (j)
-  (k) a person who is prohibited from being a director or promoter of or being concerned or taking part in the management of a company under section 382, 383, 385, or 385AA:
-  (kaa) a person who is prohibited from being a general partner or promoter of, or being concerned or taking part in the management of, a limited partnership under section 103A, 103B, 103D, or 103E of the Limited Partnerships Act 2008:
-  (ka) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Financial Markets Conduct Act 2013, or the Takeovers Act 1993:
-  (l) a person who is prohibited under section 299(1)﻿(c) of the Insolvency Act 2006 from acting as a director or taking part directly or indirectly in the management of any company or class of company:
-  (m) a person who is prohibited from being administrator or deed administrator under section 239ADV.
-(1A) Subsection (1)﻿(ca) or (cb) does not apply if all the creditors consent to the appointment of the person in question.
-(2) A body corporate must not be appointed or act as a liquidator.
-(3) A person who contravenes subsection (1) or subsection (2) commits an offence and is liable on conviction to the penalty set out in section 373(2).
-(4) A person other than the Official Assignee must not be appointed a liquidator unless he or she has first certified in writing that he or she is not disqualified under subsection (1).
+### 280 Who may be appointed as liquidator
+(1) A person may be appointed as a liquidator of a company if the person is—
+  (a) a licensed insolvency practitioner (or, if section 243A applies to the company, a licensed insolvency practitioner or any other person described in section 68(1) of the Insolvency Practitioners Regulation Act 2019); and
+  (b) permitted to act as a liquidator of the company under the Insolvency Practitioners Regulation Act 2019; and
+  (c) not disqualified under subsection (2).
+(2) Unless the court orders otherwise, the following persons are disqualified from being appointed or acting as a liquidator of a company:
+  (a) a creditor of the company:
+  (b) a person who has, within the 2 years immediately before the commencement of the liquidation, been a director, an auditor, or a receiver of the company or of a related company:
+  (c) a person who has, within the 2 years immediately before the commencement of the liquidation, been a director of a creditor of the company:
+  (d) a person who has, or who has had, within the 2 years immediately before the commencement of the liquidation,—
+    (i) a direct interest in a share issued by the company; or
+    (ii) an interest, direct or indirect, in 5% or more of any class of shares issued by a creditor of the company (but only if the person is aware that they have the interest):
+  (e) a person who has—
+    (i) a direct interest in a share issued by a related company of the company; or
+    (ii) an indirect interest in 5% or more of any class of shares issued by a related company of the company:
+  (f) if an instrument confers a power to appoint a receiver of any assets of the company, a person who is disqualified by the instrument from acting as the receiver of any assets of the company:
+  (g) a person who is a relative of a person described in any of paragraphs (a) to (f):
+  (h) a person who has, or whose firm has, within the 2 years immediately before the commencement of the liquidation,—
+    (i) provided professional services to the company; or
+    (ii) had a continuing business relationship with the company, its majority shareholder, or any of its directors, or with any of the company’s shareholders that (under its constitution or any other agreement) have a power to appoint or remove a director of the company:
+  (i) a person to whom a prohibition order applies.
+(3) For the purpose of subsection (2)﻿(c), each of the following is a director of a creditor of a company:
+  (a) if the creditor is a company, a person occupying the position of a director of the company, by whatever name called:
+  (b) if the creditor is a limited partnership, a general partner (within the meaning of the Limited Partnerships Act 2008):
+  (c) if the creditor is a partnership other than a limited partnership, a partner:
+  (d) if the creditor is any other body corporate or unincorporated body, a person occupying a position in the body that is comparable with that of a director of a company.
+(4) A person is not disqualified under subsection (2)﻿(h)—
+  (a) if the professional services are provided, or the relationship arises, by reason only of the appointment of the person, or of the person’s firm,—
+    (i) by, or at the instigation of, the company or a creditor or other party that has an actual or potential financial interest in the company; and
+    (ii) to investigate or to advise on the solvency of the company or to monitor the affairs of the company; or
+  (b) if all the creditors consent to the appointment of the person; or
+  (c) if section 243A applies to the company.
+(5) If subsection (4)﻿(a) applies, subsection (2)﻿(a) or (c) does not disqualify a person merely because the person is (or was) a creditor, or a director of a creditor, of the company as a consequence of the appointment referred to in subsection (4)﻿(a).
+(6) A person commits an offence, and is liable on conviction to the penalty set out in section 373(2), if—
+  (a) the person knows or ought reasonably to know that they are disqualified under subsection (2); and
+  (b) the person,—
+    (i) with their consent, is appointed as a liquidator; or
+    (ii) acts as a liquidator.
+(7) See also section 8(2) of the Insolvency Practitioners Regulation Act 2019.
+(8) This section does not apply to an Official Assignee.
 
 ### 281 Validity of acts of liquidators
-The acts of a person as a liquidator are valid even though that person is not qualified to act as a liquidator.
+The acts of a person as a liquidator are valid even though that person does not meet the requirements of section 280(1) or fails to certify the matters set out in section 282(1)﻿(b).
 
-### 282 Consent to appointment
-The appointment of a person, other than an Official Assignee, as liquidator is of no effect unless that person has consented in writing to the appointment.
+### 282 What liquidator must do before appointment
+(1) A person must not be appointed as a liquidator of a company unless the person has—
+  (a) consented in writing and has not withdrawn that consent at the time of appointment; and
+  (b) certified in writing that they—
+    (i) are a licensed insolvency practitioner (or, if section 243A applies to the company, a licensed insolvency practitioner or any other person described in section 68(1) of the Insolvency Practitioners Regulation Act 2019); and
+    (ii) are permitted to act as a liquidator of the company under the Insolvency Practitioners Regulation Act 2019; and
+    (iii) are not disqualified from appointment under section 280(2).
+(2) A person who, with their consent, is appointed as a liquidator despite failing to certify the matters set out in subsection (1)﻿(b) commits an offence and is liable on conviction to the penalty set out in section 373(2).
+(3) This section does not apply to an Official Assignee.
 
 ### 283 Vacancies in office of liquidator
-(1) The office of liquidator becomes vacant if the person holding office resigns, dies, or becomes disqualified under section 280.
-(2) A person, other than an Official Assignee, may resign from the office of liquidator by appointing another such person as his or her successor and sending or delivering notice in writing of the appointment of his or her successor to the Registrar for registration.
+(1) The office of liquidator becomes vacant if the liquidator—
+  (a) resigns; or
+  (b) dies; or
+  (c) becomes disqualified under section 280(2); or
+  (d) ceases to be a licensed insolvency practitioner (unless section 243A applies to the company) or otherwise ceases to be permitted to act as a liquidator of the company in accordance with the Insolvency Practitioners Regulation Act 2019; or
+  (e) is not a licensed insolvency practitioner and section 243A ceases to apply to the company (see section 243A(4)).
+(2) A person, other than an Official Assignee, may resign from the office of liquidator by appointing another such person as his or her successor.
 (3) With the approval of the Official Assignee for New Zealand, an Official Assignee may resign from the office of liquidator by appointing another Official Assignee as his or her successor.
-(4) The court may, on the application of the company, or a shareholder or other entitled person, or a director or creditor of the company, review the appointment of a successor to a liquidator and may appoint any person who could be appointed as liquidator under paragraph (a) or paragraph (b) or paragraph (c), as the case may be, of subsection (2) of section 241 to be the liquidator of the company.
-(5) If, for any reason other than resignation, a vacancy occurs in the office of liquidator, written notice of the vacancy must forthwith be sent or delivered to the Official Assignee for New Zealand by the person vacating office or, if that person is unable to act, by his or her personal representative.
-(6) If, as the result of the vacation of office by a liquidator, other than an Official Assignee, no person is acting as liquidator, the Official Assignee for New Zealand may appoint a person to act as liquidator until a successor is appointed under this section.
-(7) If a vacancy occurs in the office of the liquidator, or a liquidator has been appointed under subsection (6), as the case may be, the court may, on the application of the company, or a shareholder or other entitled person, or a director or creditor of the company, or the Official Assignee for New Zealand, appoint any person who could be appointed as liquidator under paragraph (a) or paragraph (b) or paragraph (c), as the case may be, of subsection (2) of section 241 to be the liquidator of the company.
-(8) A liquidator appointed under subsection (7) must, within 10 working days of being appointed or being notified of his or her appointment, deliver a notice of his or her appointment to the Registrar for registration.
-(9) A person vacating the office of liquidator must, where practicable, provide such information and give such assistance to that person's successor as he or she reasonably requires in taking over the duties of liquidator.
+(3A) A liquidator of a company to which section 243A applies must, unless the liquidator is a licensed insolvency practitioner, resign without delay and appoint a successor if section 243A ceases to apply (see section 243A(4)).
+(4) The court may, on the application of the company, or a shareholder or other entitled person, or a director or creditor of the company, review the appointment of a successor to a liquidator and may appoint any person who is permitted to act as a liquidator of the company in accordance with section 280.
+(5) If a vacancy occurs in the office of liquidator, the person vacating office must, as soon as practicable, give written notice of the vacancy to the Registrar.
+(6) If, as the result of the vacation of office by a liquidator, no person is acting as liquidator, the Registrar may appoint an Official Assignee or a licensed insolvency practitioner as liquidator.
+(7) If a vacancy occurs in the office of the liquidator, or a liquidator has been appointed under subsection (6), as the case may be, the court may, on the application of the company, or a shareholder or other entitled person, or a director or creditor of the company appoint any person who is permitted to act as a liquidator of the company in accordance with section 280 to be the liquidator of the company.
+(8) A liquidator appointed under subsection (7) must, before the end of the next working day after appointment, deliver a notice of his or her appointment to the Registrar for registration.
+(9) A person who fails to comply with subsection (5) or (8) commits an offence and is liable on conviction to the penalty set out in section 373(2).
+
+### 283A Provision of information and assistance to replacement liquidator
+(1) This section applies if a replacement liquidator is appointed.
+(2) The previous liquidator must, where practicable, provide to the replacement liquidator the information that the previous liquidator has in their possession or under their control and that the replacement liquidator reasonably requires to carry out the functions and duties of a liquidator.
+(3) The information referred to in subsection (2) includes—
+  (a) the records and other documents of the company:
+  (b) any information necessary to provide the replacement liquidator with control over the property of the company:
+  (c) any information relating to claims:
+  (d) accounting records and other documents of the liquidation.
+(4) The previous liquidator must, where practicable, provide to the replacement liquidator any assistance that the replacement liquidator reasonably requires to carry out the functions and duties of a liquidator.
+(5) A person who fails to comply with subsection (2) or (4) commits an offence and is liable on conviction to the penalty set out in section 373(2).
 
 ### 284 Court supervision of liquidation
 (1) On the application of the liquidator, a liquidation committee, or, with the leave of the court, a creditor, shareholder, other entitled person, or director of a company in liquidation, the court may—
@@ -4734,10 +4996,10 @@ The appointment of a person, other than an Official Assignee, as liquidator is o
 (4) A court may, on the application of any person, order that, by reason of the circumstances in which a direction was obtained under subsection (1), the liquidator does not have the protection given by subsection (3).
 
 ### 285 Meaning of failure to comply
-(1) In section 286 unless the context otherwise requires, failure to comply means a failure of a liquidator to comply with a relevant duty arising—and comply, compliance, and failed to comply have corresponding meanings.
-  (a) under this or any other Act or rule of law or rules of court; or
-  (b) under any order or direction of a court other than an order to comply made under that section;—
-(2) In subsection (1), relevant duty includes the duty of a person in his or her capacity as administrator or deed administrator of a company.
+(1) In section 286, failure to comply means a person’s failure to comply with an enactment, a rule of law, or a court order to the extent that the enactment, rule, or order applies to the person in the person's capacity as a liquidator.
+(2) In proceedings under section 286,—
+  (a) a finding of any fact made in proceedings before the District Court or High Court for an offence under this Act or any other enactment that there was a failure to comply is prima facie evidence of that fact:
+  (b) a finding described in paragraph (a) may be proved by production of a document under the seal of the court in which the finding was made.
 
 ### 286 Orders to enforce liquidator's duties
 (1) An application for an order under this section may be made by—
@@ -4748,20 +5010,23 @@ The appointment of a person, other than an Official Assignee, as liquidator is o
   (e) a receiver appointed in relation to property of the company in liquidation:
   (f) if the liquidator is a qualified statutory accountant (within the meaning of section 5(1) of the Financial Reporting Act 2013), a member of the governing body of the association of accountants of which the qualified statutory accountant is a member:
   (g) if the liquidator is a barrister and solicitor or a solicitor, the President of the New Zealand Law Society:
-  (h) an Official Assignee.
+  (h) an Official Assignee:
+  (i) the Registrar.
 (2) No application may be made to a court by a person other than a liquidator in relation to a failure to comply unless notice of the failure to comply has been served on the liquidator not less than 5 working days before the date of the application and, as at the date of the application, there is a continuing failure to comply.
 (3) If the court is satisfied that there is, or has been, a failure to comply, the court may—
   (a) relieve the liquidator of the duty to comply wholly or in part; or
-  (b) without prejudice to any other remedy which may be available in relation to a breach of duty by the liquidator, order the liquidator to comply to the extent specified in the order.
-(4) A court may, in relation to a person who fails to comply with an order made under subsection (3), or is or becomes disqualified under section 280 to become or remain a liquidator,—
-  (a) remove the liquidator from office; or
-  (b) order that the person may be appointed and act, or may continue to act, as liquidator, notwithstanding the provisions of section 280.
-(5) If the court is satisfied that a person is unfit to act as a liquidator by reason of persistent failures to comply or the seriousness of a failure to comply,—
-  (a) the court must make a prohibition order; and
-  (b) the period of the order is a matter for the discretion of the court but the court may make a prohibition period for an indefinite period.
-(6) A person to whom a prohibition order applies must not—
-  (a) act as a liquidator in a current or other liquidation; or
-  (b) act as a receiver in a current or other receivership.
+  (b) order the liquidator to comply to the extent specified in the order; or
+  (c) remove the liquidator from office; or
+  (d) make a prohibition order.
+(4) A court may, in relation to a person who is or becomes disqualified under section 280(2) from becoming or remaining a liquidator,—
+  (a) remove the person from office; or
+  (b) order that the person may be appointed and act, or may continue to act, as a liquidator, despite section 280(2).
+(5) If the court is satisfied that a person is unfit to act as a liquidator by reason of persistent failures to comply or the seriousness of a failure to comply, the court must make a prohibition order.
+(5A) The period of a prohibition order under this section is a matter for the discretion of the court, and the court may make a prohibition order permanent.
+(5B) However, the court may make a prohibition order permanent, or for a period longer than 10 years, only in the most serious of cases for which an order may be made.
+(6) A person to whom a prohibition order applies—
+  (a) must not act (or continue to act) as an insolvency practitioner; and
+  (b) must be treated as if they are not a licensed insolvency practitioner (see section 8 of the Insolvency Practitioners Regulation Act 2019).
 (7) Evidence that, on 2 or more occasions,—is, in the absence of special reasons to the contrary, evidence of persistent failures to comply for the purposes of this section.
   (a) a court has made an order to comply under this section in respect of the same person; or
   (b) an application for an order to comply under this section has been made in respect of the same person and that in each case the person has complied after the making of the application and before the hearing,—
@@ -4769,7 +5034,8 @@ The appointment of a person, other than an Official Assignee, as liquidator is o
   (a) make an order extending the time for compliance; or
   (b) impose a term or condition; or
   (c) make an ancillary order.
-(9) A copy of every order made under subsection (5) must, within 10 working days of the order being made, be delivered by the applicant to the Official Assignee for New Zealand who must keep it on a file indexed by reference to the name of the liquidator concerned.
+(9) A copy of every order made under this section must be delivered by the applicant to the Registrar before the end of the working day after the day on which the order was made.
+(10) The Registrar must provide a copy of the order to each accredited body (within the meaning of the Insolvency Practitioners Regulation Act 2019) before the end of the working day after the day on which the Registrar receives a copy of the order.
 
 **Company unable to pay its debts**
 
@@ -4970,6 +5236,64 @@ If a transaction or charge is set aside under section 294, the court may make 1 
   (b) a reasonable person in A's position would not have suspected, and A did not have reasonable grounds for suspecting, that the company was, or would become, insolvent; and
   (c) A gave value for the property or altered A's position in the reasonably held belief that the transfer of the property to A was valid and would not be set aside.
 (4) Nothing in the Land Transfer Act 2017 restricts the operation of this section or sections 292 to 295.
+
+**Voidable dispositions**
+
+### 296A Dispositions of property after application but before appointment of liquidator
+(1) A disposition of a company’s property is voidable if it is made during the specified period.
+(2) However, the disposition is not voidable if it is made—
+  (a) in the ordinary course of business of the company; or
+  (b) by an administrator, a deed administrator, or a receiver, on the company’s behalf; or
+  (c) under an order of the court.
+(3) In this section,—
+  - **disposition** has the same meaning as in section 345 of the Property Law Act 2007
+  - **property** has the same meaning as in section 345 of the Property Law Act 2007
+  - **specified period** means the period beginning on the date on which an application is made to appoint a liquidator under section 241(2)﻿(c) and ending at the time the liquidator is appointed (or the court otherwise disposes of the application).
+
+### 296B Procedure for setting aside dispositions
+(1) A liquidator who wishes to set aside a disposition that is voidable under section 296A must—
+  (a) file a notice with the court; and
+  (b) serve the notice as soon as practicable on—
+    (i) the party to which the disposition was made; and
+    (ii) any other party from whom the liquidator intends to recover.
+(2) The notice must—
+  (a) be in writing; and
+  (b) state the liquidator's postal, email, and street addresses; and
+  (c) specify the disposition to be set aside; and
+  (d) describe the property or state the amount that the liquidator wishes to recover; and
+  (e) state that the person named in the notice may object to the disposition being set aside by sending to the liquidator a written notice of objection that is received by the liquidator at an address stated in the liquidator’s notice within 20 working days after the notice has been served on that person; and
+  (f) state that the written notice of objection must contain full particulars of the reasons for objecting and must identify any documents that evidence or substantiate the reasons for objecting; and
+  (g) state that the disposition will be set aside as against the person named in the notice if that person does not object; and
+  (h) state that if the person named in the notice does object, the liquidator may apply to the court for the disposition to be set aside.
+(3) The disposition is automatically set aside as against the person on whom the liquidator has served the notice unless that person has sent to the liquidator a written notice of objection that is received by the liquidator at an address stated in the liquidator’s notice within 20 working days after the liquidator's notice has been served on that person.
+(4) The notice of objection must contain full particulars of the reasons for objecting and must identify any documents that evidence or substantiate the reasons for objecting.
+(5) A disposition that is not automatically set aside may still be set aside by the court on the liquidator's application.
+
+### 296C Other orders
+If a disposition is set aside under section 296B, the court may make 1 or more of the following orders:
+  (a) an order that a person transfer to the company—
+    (i) property that the company disposed of:
+    (ii) any proceeds of property referred to in subparagraph (i):
+    (iii) property that, in the court’s opinion, fairly represents the application of proceeds referred to in subparagraph (ii):
+  (b) an order that a person pay to the company an amount that, in the court's opinion, fairly represents some or all of the benefits that the person has received because of the disposition:
+  (c) an order releasing, in whole or in part, a charge given by the company:
+  (d) an order requiring security to be given for the discharge of an order made under this section:
+  (e) an order specifying the extent to which a person affected by the setting aside of a disposition by an order made under this section is entitled to claim as a creditor in the liquidation.
+
+### 296D Additional provisions relating to setting aside dispositions
+(1) The setting aside of a disposition or an order made under section 296C does not affect the title or interest of a person in property that the person has acquired—
+  (a) from a person other than the company; and
+  (b) for valuable consideration; and
+  (c) without knowing the circumstances in which the property was acquired from the company.
+(2) The setting aside of a charge or an order made under section 296C does not affect the title or interest of a person in property that the person has acquired—
+  (a) as the result of the exercise of a power of sale by the mortgagee of the charge; and
+  (b) for valuable consideration; and
+  (c) without knowing the circumstances relating to the giving of the charge.
+(3) A court must not order the recovery of property of a company (or its equivalent value) by a liquidator, whether under this Act, any other enactment, or in law or in equity, if the person from whom recovery is sought (A) proves that when A received the property—
+  (a) A acted in good faith; and
+  (b) a reasonable person in A's position would not have suspected, and A did not have reasonable grounds to suspect, that the company was, or would become, insolvent; and
+  (c) A gave value for the property or altered A's position in the reasonably held belief that the transfer of the property to A was valid and would not be set aside.
+(4) Nothing in the Land Transfer Act 2017 restricts the operation of this section or sections 296A to 296C.
 
 **Recovery in other cases**
 
@@ -5817,8 +6141,8 @@ A company must not apply to be removed from the New Zealand register under secti
 ### 357 Registrar and Deputy Registrars of Companies
 (1) There must be—each of whom must be appointed under the Public Service Act 2020.
   (a) a Registrar of Companies; and
-  (b) as many Deputy Registrars of Companies as may be necessary for the purposes of this Act and the Limited Partnerships Act 2008,—
-(2) Subject to the control of the Registrar a Deputy Registrar has and may exercise the powers, duties and functions of the Registrar under this Act, the Financial Reporting Act 2013, and the Limited Partnerships Act 2008.
+  (b) as many Deputy Registrars of Companies as may be necessary for the purposes of this Act, the Insolvency Practitioners Regulation Act 2019, and the Limited Partnerships Act 2008,—
+(2) Subject to the control of the Registrar a Deputy Registrar has and may exercise the powers, duties and functions of the Registrar under this Act, the Insolvency Practitioners Regulation Act 2019, the Financial Reporting Act 2013, and the Limited Partnerships Act 2008.
 (3) The fact that a Deputy Registrar exercises those powers, duties, or functions is conclusive evidence of the authority to do so.
 (4) The person holding office as Registrar of Companies under the Companies Act 1955 and every person holding office as a Deputy Registrar of Companies under that Act, immediately before the commencement of this Act, shall be deemed to have been appointed as Registrar of Companies or as a Deputy Registrar of Companies, as the case may be, in accordance with this section.
 
@@ -6211,9 +6535,29 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
   (j)
   (k) section 215(2)﻿(a) (which relates to public inspection of company records):
   (l) section 216(2)﻿(a) (which relates to inspection of company records by shareholders):
+  (la) section 239F(4) (which relates to being appointed as an administrator when disqualified):
+  (lb) section 239G(2) (which relates to the duty of administrators to certify certain matters before appointment):
+  (lc) section 239R(3) (which relates to the duty of replacement administrators to table an interests statement):
+  (ld) section 239TA(5) (which relates to the duty of administrators to provide information and assistance to their successor):
+  (le) section 239AMC(5) (which relates to the duty of administrators to give notice to creditors in certain circumstances):
+  (lf) section 239AP(2) (which relates to the duty of administrators to table certain documents):
+  (lg) section 239ABYA(5) (which relates to the duty of administrators to provide information and assistance to liquidators):
+  (lh) section 239ACD(4) (which relates to being appointed as a deed administrator when disqualified):
+  (li) section 239ACE(2) (which relates to the duty of deed administrators to certify certain matters and table certain documents before appointment):
+  (lj) section 239ACJA(5) (which relates to the duty of deed administrators to provide information and assistance to their successor):
+  (lk) section 239ACZ(4) (which relates to the duty of administrators to file accounts):
+  (ll) section 239ACZA(3) (which relates to the duty of administrators to file updates to interests statements):
+  (lm) section 239ACZB(4) (which relates to the duty of administrators and deed administrators to file summary reports):
+  (ln) section 243A(3) (which relates to declarations made by directors about a company’s ability to pay its debts):
+  (lo) section 245D(5) (which relates to the duty of liquidators to give notice to creditors in certain circumstances):
   (m) section 250(7) (which relates to the termination of the liquidation of a company):
-  (ma) section 258A(5) (which relates to the duty of liquidators to report suspected offences):
-  (n) section 280(3) (which relates to the qualifications of liquidators):
+  (ma) section 255(3A) (which relates to the duty of liquidators to send an interests statement and initial and 6-monthly reports):
+  (mb) section 256(4) (which relates to the duty of liquidators to keep records and documents):
+  (mc) section 257(3) (which relates to the duty of liquidators to submit final reports and summary reports):
+  (n) section 280(6) (which relates to being appointed as a liquidator when disqualified):
+  (na) section 282(2) (which relates to the duty of liquidators to certify certain matters before appointment):
+  (nb) section 283(9) (which relates to the duty of liquidators to notify the Registrar of certain matters):
+  (nc) section 283A(5) (which relates to the duty of liquidators to provide information and assistance to their successor):
   (o) section 333(5)﻿(a) (which relates to name reservation by overseas companies):
   (p) section 334(6)﻿(a) (which relates to the registration of overseas companies):
   (q) section 339(2)﻿(a) (which relates to changes in the constitution of an overseas company):
@@ -6223,6 +6567,7 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
   (t) section 366(4) (which relates to the disclosure of information and reports obtained during an investigation):
   (u) section 381 (which relates to improper use of the word Limited).
 (3) A person convicted of an offence against any of the following sections of this Act is liable to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years:
+  (aa) section 256A(5) (which relates to the duty of liquidators to hold the money of a company on trust):
   (a) section 261(6A) (which relates to the power of liquidators to obtain documents and information):
   (b) section 273(2) (which relates to certain prohibited conduct):
   (c) section 274(2) (which relates to the duty to identify and deliver property).
@@ -6761,6 +7106,30 @@ The amendments made by subpart 2 of Part 1 of the Financial Markets (Derivatives
 ### 6 Application of changes to voidable transactions provisions
 (1) The amendments made to section 126 and Part 16 by the COVID-19 Response (Further Management Measures) Legislation Act 2020 apply only in respect of liquidations that commence on or after the date on which those amendments came into force.
 (2) Section 126 and Part 16, as in force immediately before those amendments come into force, continue to apply in respect of liquidations that commenced before those amendments came into force.
+
+### Part 4 — Provisions relating to Part 1 of Insolvency Practitioners Regulation (Amendments) Act 2019
+
+### 7 Interpretation
+In this Part,—
+  - **amendment Act** means Part 1 of the Insolvency Practitioners Regulation (Amendments) Act 2019
+  - **commencement date** , in relation to a provision of this Act, means the date on which the provision is amended, replaced, repealed, or inserted by the amendment Act
+  - **company** , in relation to a liquidation under Part 16, has the meaning given to it in section 240(1A)
+  - **new** , in relation to a provision of this Act, means the provision as amended, replaced, or inserted by the amendment Act
+  - **old** , in relation to a provision of this Act, means the provision as in force immediately before its amendment or repeal by the amendment Act.
+
+### 8 Application of new provisions to insolvency engagements already under way
+(1) The new provisions do not apply (and the old provisions continue to apply) in relation to—
+  (a) the administration of a company under Part 15A for which an administrator was appointed before the commencement date; or
+  (b) a company under a deed of company arrangement under Part 15A for which the deed of company arrangement was executed before the commencement date; or
+  (c) the liquidation of a company under Part 16 for which a liquidator was appointed before the commencement date.
+(2) Subclause (1)﻿(c) applies subject to clause 5(2) to (4) of Schedule 1 of the Insolvency Practitioners Regulation Act 2019.
+
+### 9 Existing court orders relating to appointments continue to have effect
+(1) This clause applies to each court order that—
+  (a) is made under old section 239F(2), 239ACD(2), or 280(1) and permits a person to be appointed as an administrator, a deed administrator, or a liquidator despite being a person described in old section 280(1)﻿(d) to (m); and
+  (b) is in force on the commencement date of the old provision under which the order is made.
+(2) Until the court order ceases to be in force, the order must be treated as if it were made under the new provision that replaces the old provision under which the court order is made.
+(3) However, a person is not eligible to be appointed as an administrator, a deed administrator, or a liquidator (as the case may be) if the person is ineligible under any new provision of this Act for a reason that is not covered by the court order.
 
 ## Schedule 1 — Proceedings at meetings of shareholders
 
