@@ -1,5 +1,5 @@
 # Receiverships Act 1993
-_Consolidation as at 2019-08-31_
+_Consolidation as at 2020-09-01_
 
 > An Act to reform the law relating to receivers
 
@@ -26,7 +26,9 @@ _Consolidation as at 2019-08-31_
     (c) a book, graph, or drawing; and
     (d) a photograph, film, negative, tape, or other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of equipment) of being reproduced
   - **grantor** means the person in respect of whose property a receiver is, or may be, appointed
+  - **insolvency practitioner** has the same meaning as in section 5(1) of the Insolvency Practitioners Regulation Act 2019
   - **inventory** has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
+  - **licensed insolvency practitioner** has the same meaning as in section 5(1) of the Insolvency Practitioners Regulation Act 2019
   - **liquidator** means a liquidator appointed under Part 16 of the Companies Act 1993; and has a corresponding meaning
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
   - **mortgage** includes a charge on property for securing money or money's worth
@@ -36,6 +38,7 @@ _Consolidation as at 2019-08-31_
   - **overseas company** means a company incorporated outside New Zealand
   - **preferential claims** means the claims referred to in Schedule 7 of the Companies Act 1993 (except clause 1(1) of that schedule)
   - **proceeds** has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
+  - **prohibition order** means an order made under section 37(6) or under section 239ADV(1) or 286(5) of the Companies Act 1993 that prohibits a person from acting as an insolvency practitioner
   - **property** includes—
     (a) real and personal property:
     (b) an estate or interest in real or personal property:
@@ -57,9 +60,11 @@ _Consolidation as at 2019-08-31_
     (c) a society registered under the Incorporated Societies Act 1908, means the Registrar of Incorporated Societies:
     (d) a friendly society or a credit union registered or incorporated under the Friendly Societies and Credit Unions Act 1982, means the Registrar of Friendly Societies and Credit Unions:
     (e) any other body corporate registered under any enactment, means any person discharging the powers, functions, and duties of a registrar under that enactment
+  - **related company** has the same meaning as in section 2(1) of the Companies Act 1993
   - **security agreement** has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
   - **security interest** has the same meaning as in section 17 of the Personal Property Securities Act 1999.
 (2) In this Act, unless the context otherwise requires, a reference to a person by whom, or in whose interests, a receiver was appointed, as the case may be, includes a reference to a person to whom the rights and interests under any deed or agreement by or under which the receiver was appointed have been transferred or assigned.
+(3) A requirement in this Act for a person to provide a notice or other document may be satisfied by the person providing the notice or other document by electronic means in accordance with Part 4 of the Contract and Commercial Law Act 2017.
 
 ### 3 Public notice
 (1) Where, pursuant to this Act, public notice must be given of any matter affecting a grantor, not being a grantor that is an overseas company, that notice must be given by publishing notice of the matter—
@@ -77,6 +82,9 @@ _Consolidation as at 2019-08-31_
 ### 3A Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
+### 3B Act binds the Crown
+This Act binds the Crown.
+
 ### 4 Application
 (1) This Act applies—
   (a) to a receiver appointed after the coming into force of this Act; and
@@ -89,33 +97,47 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   (e) section 29 does not apply in respect of a receivership that ended before the commencement of this Act:
   (f) paragraphs (b) and (c) of subsection (1) and subsections (5) and (6) of section 32 do not apply.
 
-### 5 Qualifications of receivers
-(1) Unless the court orders otherwise, none of the following persons may be appointed or act as a receiver:
-  (a) a person who is under 18 years of age:
-  (b) a mortgagee of the property in receivership:
-  (c) a person who is, or who has within the period of 2 years immediately preceding the commencement of the receivership been,—
-    (i) a director of the grantor; or
+### 5 Who may be appointed as receiver
+(1) A person may be appointed as a receiver if the person—
+  (a) is a licensed insolvency practitioner who is permitted to act as a receiver in accordance with the Insolvency Practitioners Regulation Act 2019; and
+  (b) is not disqualified under subsection (2).
+(2) Unless the court orders otherwise, the following persons are disqualified from being appointed or acting as a receiver:
+  (a) a mortgagee of the property in receivership:
+  (b) a person who is, or who has, within the 2 years immediately before the commencement of the receivership, been—
+    (i) a director or an auditor of the grantor or of a related company of the grantor; or
     (ii) a director of the mortgagee of the property in receivership:
-  (d) a person who has, or who has had within the period of 2 years preceding the commencement of the receivership, an interest, whether direct or indirect, in—
-    (i) a share issued by the grantor; or
-    (ii) 5% or more of any class of shares issued by the mortgagee of the property in receivership:
-  (e) an undischarged bankrupt:
-  (f) a person who is, or is deemed to be, subject to a compulsory treatment order made under Part 2 of the Mental Health (Compulsory Assessment and Treatment) Act 1992:
-  (g) a person in respect of whom an order has been made under section 30 or section 31 of the Protection of Personal and Property Rights Act 1988:
-  (h) a person in respect of whom an order has been made under section 286(5) of the Companies Act 1993:
-  (i) a person in respect of whom an order has been made under section 37(6):
-  (ia)
-  (j)
-  (k) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Financial Markets Conduct Act 2013, or the Takeovers Act 1993:
-  (l) a person who is prohibited under section 299(1)﻿(b) of the Insolvency Act 2006 from acting as a director or taking part directly or indirectly in the management of any company or class of company:
-  (m) a person who is disqualified from acting as a receiver by the instrument that confers the power to appoint a receiver.
-(2) A body corporate must not be appointed or act as a receiver.
-(3) A person who contravenes subsection (1) or subsection (2) commits an offence and is liable on conviction to a fine not exceeding $10,000.
+  (c) a person who has, or who has had, within the 2 years immediately before the commencement of the receivership,—
+    (i) a direct interest in a share issued by the grantor; or
+    (ii) an indirect interest in 5% or more of any class of shares issued by the grantor:
+  (d) if the grantor is a company, a person who has—
+    (i) a direct interest in a share issued by a related company of the grantor; or
+    (ii) an indirect interest in 5% or more of any class of shares issued by a related company of the grantor:
+  (e) a person who is a relative (as defined in section 2(1) of the Companies Act 1993) of a person specified in any of paragraphs (b) to (d):
+  (f) a person who is disqualified from acting as a receiver by the instrument that confers the power to appoint a receiver:
+  (g) a person to whom a prohibition order applies:
+  (h) if the property in receivership includes a company, a person who is, or who has been, in the 2 years immediately before the commencement of the receivership, an administrator, a deed administrator, or a liquidator of the company.
+(3) A person commits an offence if—
+  (a) the person knows or ought reasonably to know that they are disqualified under subsection (2); and
+  (b) the person,—
+    (i) with their consent, is appointed as a receiver; or
+    (ii) acts as a receiver.
+(4) A person who commits an offence under subsection (3) is liable on conviction to a fine not exceeding $75,000.
+(5) See also section 8(2) of the Insolvency Practitioners Regulation Act 2019.
 
 ### 6 Appointment of receivers under deeds and agreements
 (1) A receiver may be appointed in respect of the property of a person by, or in the exercise of a power conferred by, a deed or agreement to which that person is a party.
 (2) The appointment of a receiver in the exercise of a power referred to in subsection (1) must be in writing.
 (3) A receiver appointed by, or under a power conferred by, a deed or agreement is the agent of the grantor unless it is expressly provided otherwise in the deed or agreement or the instrument by or under which the receiver was appointed.
+
+### 6A What receiver must do before appointment
+(1) A person must not be appointed as a receiver unless the person has—
+  (a) consented in writing to the appointment and has not withdrawn the consent at the time of the appointment; and
+  (b) certified in writing that the person is a licensed insolvency practitioner who is not disqualified from appointment under section 5(2); and
+  (c) provided to the mortgagee the written consent and certificate required under paragraphs (a) and (b).
+(2) A person commits an offence if—
+  (a) the person, with their consent, is appointed as a receiver despite failing to certify the matters set out in subsection (1)﻿(b); or
+  (b) the person fails to comply with subsection (1)﻿(c).
+(3) A person who commits an offence under this section is liable on conviction to a fine not exceeding $10,000.
 
 ### 7 Extent of power to appoint receiver
 (1) A power conferred by a deed or an agreement to appoint a receiver includes the power to appoint—unless the deed or agreement expressly provides otherwise.
@@ -125,15 +147,19 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
 (2) Two or more receivers may act jointly or severally to the extent that they have the same powers unless the deed or agreement under which, or the order of the court by which, they are appointed expressly provides otherwise.
 
 ### 8 Notice of appointment
-(1) A receiver must, forthwith after being appointed,—
-  (a) give written notice of his or her appointment to the grantor; and
-  (b) give public notice of his or her appointment, including—
-    (i) the receiver's full name:
+(1) A receiver must, before the end of the next working day after the receiver’s appointment,—
+  (a) give to the grantor written notice of the appointment; and
+  (b) give to the Registrar written notice of the appointment, including—
+    (i) the receiver’s full name:
     (ii) the date of the appointment:
-    (iii) the receiver's office address:
-    (iv) a brief description of the property in receivership.
+    (iii) the receiver’s business address:
+    (iv) a brief description of the property in receivership:
+    (v) the name of the person who appointed the receiver or, if the receiver was appointed by the court, the name of the person who applied for the receiver to be appointed:
+    (vi) a description of the deed, agreement, or instrument by or under which the receiver was appointed:
+    (vii) a copy of the notice referred to in paragraph (a).
+(1A) Within 5 working days after the receiver’s appointment, the receiver must give notice of the appointment, including the matters described in subsection (1)﻿(b)﻿(i) to (vi), in accordance with section 3(1)﻿(a).
 (2) Where the appointment of the receiver is in addition to a receiver who already holds office or is in place of a person who has vacated office as receiver, as the case may be, every notice under this section must state that fact.
-(3) If the grantor is a body corporate, the receiver must, within 7 days after being appointed, send a copy of the public notice to the Registrar.
+(3) A notice given under this section must include a statement that receivers are required to be licensed insolvency practitioners, and that more information about the regulation of insolvency practitioners is available from the Registrar.
 (4) Every receiver who contravenes this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 9 Application of section 92 of Property Law Act 1952 to receivers
@@ -148,16 +174,28 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   (b) knowingly or wilfully authorises or permits a contravention of subsection (1) or subsection (2)—
 
 ### 11 Vacancy in office of receiver
-(1) The office of receiver becomes vacant if the person holding office resigns, dies, or becomes disqualified under section 5.
+(1) The office of receiver becomes vacant if the person holding office—
+  (a) resigns in accordance with subsection (2); or
+  (b) dies; or
+  (c) becomes disqualified under section 5(2); or
+  (d) ceases to be a licensed insolvency practitioner who is permitted to act as a receiver for the property in receivership in accordance with the Insolvency Practitioners Regulation Act 2019.
 (2) A receiver may resign office by giving not less than 7 days' written notice of his or her intention to resign to the person by whom the receiver was appointed.
-(3) Where a vacancy in the office of receiver occurs as a result of the disqualification of the person holding office as receiver, that person must forthwith give written notice of the vacancy to the person by whom the receiver was appointed.
-(4) Where a vacancy in the office of receiver occurs as the result of the resignation or disqualification of the person holding office as receiver, that person must—
-  (a) forthwith give public notice of the vacancy; and
-  (b) if the receiver held office in relation to the property of a company, within 7 days of the vacancy occurring, give written notice of the vacancy to the Registrar for registration in the register of charges.
+(3) If a vacancy occurs in the office of receiver, the person vacating office must,—
+  (a) as soon as practicable,—
+    (i) give public notice of the vacancy; and
+    (ii) give written notice of the vacancy to the person who appointed the receiver (unless the vacancy arose under subsection (1)﻿(a)); and
+  (b) if the receiver held office in relation to the property of a company, give written notice of the vacancy, before the end of the next working day after the vacancy arose, to the Registrar (unless the vacancy arose under subsection (1)﻿(d)).
+(4)
 (5) A receiver appointed by the court may resign office by giving not less than 7 days' notice of his or her intention to resign to the Registrar of the court that made the appointment.
-(6) A person vacating the office of receiver must, where practicable, provide such information and give such assistance in the conduct of the receivership to his or her successor as that person reasonably requires.
+(6)
 (7) On the application of a person appointed to fill a vacancy in the office of receiver, the court may make any order that it considers necessary or desirable to facilitate the performance of the receiver's duties.
-(8) Every person who fails to comply with subsection (3) or subsection (4) commits an offence and is liable on conviction to a fine not exceeding $5,000.
+(8) Every person who fails to comply with subsection (3) commits an offence and is liable on conviction to a fine not exceeding $10,000.
+
+### 11A Provision of information and assistance to replacement receiver
+(1) This section applies if a replacement receiver is appointed.
+(2) The previous receiver must, where practicable, provide to the replacement receiver the information that the previous receiver has in their possession or under their control and that the replacement receiver reasonably requires to carry out the functions and duties of receiver, including any accounting records and other documents relating to the property in receivership.
+(3) The previous receiver must, where practicable, provide to the replacement receiver any assistance that the replacement receiver reasonably requires to carry out the functions and duties of receiver.
+(4) A person who fails to comply with subsection (2) or (3) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 12 Obligations of grantor
 (1) A grantor and, in the case of a grantor that is a body corporate, every director of the grantor, must—
@@ -230,11 +268,13 @@ Notwithstanding any enactment or rule of law or anything contained in the deed o
   (b) a receiver is not entitled to compensation or indemnity from the property in receivership or the grantor in respect of any liability incurred by the receiver arising from a breach of the duty imposed by section 19.
 
 ### 21 Duty in relation to money
-A receiver must keep money relating to the property in receivership separate from other money received in the course of, but not relating to, the receivership and from other money held by or under the control of the receiver.
+(1) A receiver must keep money relating to the property in receivership separate from other money received in the course of, but not relating to, the receivership and from other money held by or under the control of the receiver.
+(2) A person who fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $75,000.
 
 ### 22 Accounting records
 (1) A receiver must at all times keep accounting records that correctly record and explain the receipts, expenditure, and other transactions relating to the property in receivership.
 (2) The accounting records must be retained for not less than 6 years after the receivership ends.
+(3) A person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 23 First report by receiver
 (1) Not later than 2 months after his or her appointment, a receiver must prepare a report on the state of affairs with respect to the property in receivership including—
@@ -254,16 +294,16 @@ A receiver must keep money relating to the property in receivership separate fro
 (4) A receiver who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 24 Further reports by receiver
-(1) Not later than 2 months after—a receiver or a person who was a receiver at the end of the receivership, as the case may be, must prepare a further report summarising the state of affairs with respect to the property in receivership as at those dates, and the conduct of the receivership, including all amounts received and paid, during the period to which the report relates.
-  (a) the end of each period of 6 months after his or her appointment as receiver; and
-  (b) the date on which the receivership ends,—
-(2) The report must include details of—
-  (a) property disposed of since the date of any previous report and any proposals for the disposal of property in receivership; and
-  (b) amounts owing, as at the date of the report, to any person in whose interests the receiver was appointed; and
-  (c) amounts owing, as at the date of the report, to creditors of the grantor having preferential claims; and
-  (d) amounts likely to be available as at the date of the report for payment to creditors other than those referred to in paragraph (b) or paragraph (c).
-(3) A receiver may omit from the report required to be prepared in accordance with subsection (1)﻿(a) details of any proposals for disposal of property in receivership if he or she considers that their inclusion would materially prejudice the exercise of his or her functions.
-(4) Every person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
+(1) The receiver must, not later than 2 months after the end of each period of 6 months after the receiver’s appointment, prepare a further report on the receivership.
+(2) A person who was a receiver at the end of the receivership must, not later than 2 months after the end of the receivership, prepare a further report on the receivership.
+(3) Each report prepared under this section must contain the information prescribed for the purpose of this section by regulations made under section 395(1)﻿(cba) of the Companies Act 1993.
+(4) A receiver preparing a report under subsection (1) may exclude from the report details of any proposals for disposal of property in receivership if the receiver considers that their inclusion would materially prejudice the exercise of the receiver’s functions.
+(5) A person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
+
+### 24A Summary report by receiver
+(1) The person who was a receiver at the end of a receivership must, as soon as practicable after completing the person’s duties in relation to the receivership, provide to the Registrar, in the manner specified by the Registrar, a summary report on the receivership.
+(2) The summary report must contain the information prescribed for the purpose of this section by regulations made under section 395(1)﻿(cba) of the Companies Act 1993.
+(3) A person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 25 Extension of time for preparing reports
 A period of time within which a person must prepare a report referred to in section 23 or section 24 may be extended, on the application of that person, by—
@@ -279,29 +319,17 @@ A period of time within which a person must prepare a report referred to in sect
   (a) a creditor, director, or surety of the grantor; or
   (b) any other person with an interest in any of the property in receivership; or
   (c) the authorised agent of any of them—
-(4) Within 7 days after preparing a report under section 23 or section 24 in relation to a grantor that is a body corporate, the person who prepared the report must send or deliver a copy of the report to the Registrar.
+(4) Within 7 days after preparing a report under section 23 or section 24 in relation to a grantor, the person who prepared the report must send or deliver a copy of the report to the Registrar.
 (5) Every person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 27 Persons entitled to inspect reports
 A person to whom a report must be sent in accordance with section 26 is entitled to inspect the report during normal office hours at the office of the person required to send it.
 
 ### 28 Duty to notify suspected offences against other Acts
-(1) A receiver of a grantor that is a company and who considers that the grantor or any director of the grantor has committed an offence that is material to the receivership against—must report that fact to the Registrar.
-  (a)
-  (aa) the Crimes Act 1961; or
-  (b) the Financial Markets Conduct Act 2013; or
-  (c) the Companies Act 1993; or
-  (d)
-  (e) the Takeovers Act 1993—
-(1A) A report made under subsection (1), and any communications between the receiver and Registrar relating to that report, are protected by absolute privilege.
-(1B) If a report is made under subsection (1) in respect of a financial markets participant (within the meaning of section 4 of the Financial Markets Authority Act 2011), the Registrar may supply a copy of the report to the Financial Markets Authority (the FMA).
-(1C) Any communications between—
-  (a) the Registrar and the FMA that relate to that report are protected by absolute privilege:
-  (b) the receiver and the FMA that relate to that report are protected by absolute privilege.
-(2) A receiver who fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000.
+[Repealed]
 
 ### 29 Notice of end of receivership
-(1) Not later than 7 days after the receivership of a grantor that is a body corporate ceases, the person who held office as receiver at the end of the receivership must send or deliver to the Registrar notice in writing of the fact that the receivership has ceased.
+(1) Not later than 7 days after a receivership ceases, the person who held office as receiver at the end of the receivership must send or deliver to the Registrar notice in writing of the fact that the receivership has ceased.
 (2) Every person who fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 30 Preferential claims
@@ -457,10 +485,14 @@ A person to whom a report must be sent in accordance with section 26 is entitled
 (8) The court may, on the application of any person who applied for or is affected by the order, rescind or amend an order made under this section.
 
 ### 36 Meaning of failure to comply
-In section 37, failure to comply in relation to a receiver means a failure by a receiver to comply with a relevant duty arising—
-  (a) under the deed or agreement or the order of the court by or under which the receiver was appointed; or
-  (b) under this or any other Act or rule of law or rules of court; or
-  (c) under any order or direction of the court other than an order to comply made under that section; and comply, compliance, and failed to comply have corresponding meanings.
+(1) In section 37, failure to comply means a person’s failure to comply with any of the following, to the extent that they apply to the person in the person's capacity as a receiver:
+  (a) the deed, agreement, or order of the court by or under which the receiver was appointed:
+  (b) an enactment:
+  (c) a rule of law:
+  (d) a court order.
+(2) In proceedings under section 37,—
+  (a) a finding of any fact made in proceedings before the District Court or High Court for an offence under this Act or any other enactment that there was a failure to comply is prima facie evidence of that fact:
+  (b) a finding described in paragraph (a) may be proved by production of a document under the seal of the court in which the finding was made.
 
 ### 37 Orders to enforce receiver's duties
 (1) An application for an order under this section may be made by—
@@ -478,22 +510,25 @@ In section 37, failure to comply in relation to a receiver means a failure by a 
 (2) An application for an order under this section may be made by a receiver of the property of a grantor in relation to a failure to comply by another receiver of the property of the grantor.
 (3) No application may be made to the court in relation to a failure to comply unless notice of the failure to comply has been served on the receiver not less than 7 days before the date of the application and, as at the date of the application, there is a continuing failure to comply.
 (4) If the court is satisfied that there is, or has been, a failure to comply, the court may—
-  (a) relieve the receiver of the duty to comply, wholly or in part; or
-  (b) without prejudice to any other remedy that may be available in relation to a breach of duty by the receiver, order the receiver to comply to the extent specified in the order.
-(5) The court may, in respect of a person who fails to comply with an order made under subsection (4)﻿(b), or is or becomes disqualified under section 5 to become or remain a receiver,—
-  (a) remove the receiver from office; or
-  (b) order that the person may be appointed and act or may continue to act as a receiver, notwithstanding the provisions of section 5.
-(6) If it is shown to the satisfaction of the court that a person is unfit to act as a receiver by reason of—the court must make, in relation to that person, a prohibition order for a period not exceeding 5 years.
-  (a) persistent failures to comply; or
-  (b) the seriousness of a failure to comply,—
-(7) A person to whom a prohibition order applies must not—
-  (a) act as a receiver in any current or other receivership; or
-  (b) act as a liquidator in any current or other liquidation.
+  (a) relieve the receiver of the duty to comply wholly or in part; or
+  (b) order the receiver to comply to the extent specified in the order; or
+  (c) remove the receiver from office; or
+  (d) make a prohibition order.
+(5) The court may, in respect of a person who is or becomes disqualified under section 5(2) from becoming or remaining a receiver,—
+  (a) remove the person from office; or
+  (b) order that the person may be appointed and act or may continue to act as a receiver, despite section 5(2).
+(6) If the court is satisfied that a person is unfit to act as a receiver because of persistent failures to comply or the seriousness of a failure to comply, the court must make a prohibition order.
+(6A) The period of a prohibition order under this section is a matter for the discretion of the court, and the court may make a prohibition order permanent.
+(6B) However, the court may make a prohibition order permanent, or for a period longer than 10 years, only in the most serious of cases for which an order may be made.
+(7) A person to whom a prohibition order applies—
+  (a) must not act (or continue to act) as an insolvency practitioner; and
+  (b) must be treated as if they are not a licensed insolvency practitioner (see section 8 of the Insolvency Practitioners Regulation Act 2019).
 (8) In making an order under this section the court may, if it thinks fit,—
   (a) make an order extending the time for compliance:
   (b) impose a term or condition:
   (c) make an ancillary order.
-(9) A copy of every order made under subsection (6) must, within 14 days of the order being made, be delivered by the applicant to the Official Assignee for New Zealand who must keep it on a public file indexed by reference to the name of the receiver concerned.
+(9) A copy of every order made under this section must be delivered by the applicant to the Registrar before the end of the working day after the day on which the order was made.
+(10) The Registrar must provide a copy of the order to each accredited body (within the meaning of the Insolvency Practitioners Regulation Act 2019) before the end of the working day after the day on which the Registrar receives a copy of the order.
 
 ### 38 Special provisions relating to evidence
 (1) Evidence that, within the preceding 5 years while a person was acting as a receiver or as a liquidator, as the case may be,—is, in the absence of special reasons to the contrary, evidence of persistent failures to comply for the purposes of section 37(6)﻿(a).
@@ -595,6 +630,25 @@ The amendments made by subpart 6 of Part 1 of the Financial Markets (Derivatives
   (a) a qualifying derivative entered into before the commencement of this clause if, on that commencement, any obligations remain under or in relation to the derivative (whether the obligations are contingent or otherwise); and
   (b) a qualifying derivative entered into on or after the commencement of this clause.
 
+### Part 2 — Provisions relating to Part 2 of Insolvency Practitioners Regulation (Amendments) Act 2019
+
+### 2 Interpretation
+In this Part,—
+  - **amendment Act** means Part 2 of the Insolvency Practitioners Regulation (Amendments) Act 2019
+  - **commencement date** , in relation to a provision of this Act, means the date on which the provision is amended, replaced, repealed, or inserted by the amendment Act
+  - **new** , in relation to a provision of this Act, means the provision as amended, replaced, or inserted by the amendment Act
+  - **old** , in relation to a provision of this Act, means the provision as in force immediately before its amendment or repeal by the amendment Act.
+
+### 3 Application of new provisions to insolvency engagements already under way
+The new provisions do not apply (and the old provisions continue to apply) in relation to a receivership under this Act for which a receiver was appointed before the commencement date.
+
+### 4 Existing court orders relating to appointments continue to have effect
+(1) This clause applies to each court order that—
+  (a) is made under old section 5(1) or old clause 6 of Schedule 1 and permits a person to be appointed as a receiver despite being a person described in old section 5(1)﻿(e) to (l) or old clause 6(b) of Schedule 1; and
+  (b) is in force on the commencement date of the old provision under which the order is made.
+(2) Until the court order ceases to be in force, the order must be treated as if it were made under the new provision that replaces the old provision under which the court order is made.
+(3) However, the person is not eligible to be appointed as a receiver if the person is ineligible under any new provision for a reason that is not covered by the court order.
+
 ## Schedule 1 — Modifications and exceptions that apply in relation to receivers of assets of local authorities
 
 ### 1 Application of modifications and exceptions
@@ -612,10 +666,9 @@ Every reference to a liquidation, except the references in section 30(3), must b
 ### 5 References to Registrar
 Every reference to the Registrar must be read as if it were a reference to the Registrar of Companies.
 
-### 6 Persons disqualified for appointment
-Unless the court orders otherwise, none of the following persons may be appointed or act as a receiver:
-  (a) any person specified in section 5(1):
-  (b) any person disqualified by section 3 of the Local Authorities (Members' Interests) Act 1968 or clause 1 of Schedule 7 of the Local Government Act 2002 from holding office as a member of the local authority.
+### 6 Persons disqualified from appointment
+(1) In addition to the persons specified in section 5(2), a person disqualified by section 3 of the Local Authorities (Members' Interests) Act 1968 or clause 1 of Schedule 7 of the Local Government Act 2002 from holding office as a member of the local authority is disqualified from being appointed as, or acting as, a receiver unless the court orders otherwise.
+(2) The reference in section 5(3) to being disqualified under section 5(2) must be read as if it included a reference to being disqualified under subclause (1).
 
 ### 7 Exception in relation to obligations of grantor
 The obligation of a local authority to comply with section 12 is subject to section 40D(4), in that a local authority may only be required to comply with section 12 to the extent that any such compliance will not, in the reasonable opinion of the local authority, interfere with the local authority's ability to exercise or perform its rights, powers, and duties in relation to those assets not charged in favour of the appointor of the receiver or not the subject of the receivership.
