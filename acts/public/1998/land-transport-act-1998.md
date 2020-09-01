@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-09-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -31,7 +31,7 @@ _Consolidation as at 2020-08-07_
   - **approved health authority** means an institution approved by the Minister, with the agreement of the Minister of Health, for the purposes of section 209
   - **approved laboratory** means a laboratory approved by the Science Minister, by notice in the Gazette, for the purposes of analysing blood specimens taken for the purposes of this Act
   - **approved provider** , in relation to alcohol interlock devices, means a person approved by the Agency to install, maintain, or remove alcohol interlock devices
-  - **approved vehicle surveillance equipment** means vehicle surveillance equipment of a kind approved by the Minister of Police, by notice in the Gazette
+  - **approved vehicle surveillance equipment** means vehicle surveillance equipment of a kind approved by the Minister or the Minister of Police, by notice in the Gazette
   - **assessment centre** means an establishment or individual for the time being approved as an assessment centre for the purposes of this Act by the chief executive of the Ministry of Health
   - **axle** means 1 or more shafts, spindles, or bearings in the same vertical transverse plane by means of which, in conjunction with wheels mounted on those shafts, spindles, or bearings, a portion of the weight of the vehicle is transmitted to the roadway; and, except as the provisions of this Act or of the rules otherwise provide, the following provisions apply for the purposes of this Act and the regulations and rules:
     (a) if 2 or more wheels of a motor vehicle are substantially in the same line transversely and some or all of them have separate axles, the axles of all those wheels are to be treated as 1 axle:
@@ -86,7 +86,8 @@ _Consolidation as at 2020-08-07_
   - **enforcement officer** means—
     (a) a constable:
     (b) a Police employee who is not a constable who is authorised for the purpose by the Commissioner:
-    (c) a person who is appointed to that office by warrant under section 208 or who holds that office by virtue of this Act
+    (c) a person who is appointed to that office by warrant under section 208 or who holds that office by virtue of this Act:
+    (d) the Agency, in the circumstances set out in section 208A
   - **evidence of vehicle inspection** , in relation to a vehicle, means any certificate, label, or document issued under this Act as evidence of the completion of the periodic vehicle inspection requirements in respect of that vehicle
   - **evidential breath test** means a test carried out by means of an evidential breath-testing device in a manner prescribed in respect of that device by the Minister of Police, by notice in the Gazette
   - **evidential breath-testing device** means a device of a kind approved for the purpose of evidential breath tests by the Minister of Police, by notice in the Gazette
@@ -147,7 +148,14 @@ _Consolidation as at 2020-08-07_
   - **large passenger service** means a passenger service provided in a large passenger service vehicle
   - **large passenger service licence** means a licence granted or deemed to be granted under subpart 3 of Part 4A that authorises its holder to carry on a large passenger service
   - **land transport** means transport on land by any means and the infrastructure facilitating such transport; and includes rail, surface-effect vehicles, and harbour ferries
-  - **land transport documents** means licences, permits, approvals, authorisations, exemptions, certificates, and similar documents issued under the Transport Act 1962, the Road User Charges Act 2012, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Government Roading Powers Act 1989, or this Act
+  - **land transport Act** means—
+    (a) the Government Roading Powers Act 1989; and
+    (b) the Land Transport Act 1998 (this Act); and
+    (c) the Land Transport Management Act 2003; and
+    (d) the Railways Act 2005; and
+    (e) the Road User Charges Act 2012
+  - **land transport documents** means licences, permits, approvals, authorisations, exemptions, certificates, and similar documents issued under this Act, the Government Roading Powers Act 1989, the Railways Act 2005, or the Road User Charges Act 2012
+  - **land transport record** means a record of a decision or any other thing that is included in the register of land transport records established by section 200E
   - **land transport register** includes—
     (a) registers kept under this Act, the Railways Act 2005, or the Road User Charges Act 2012; and
     (b) other information and records relating to vehicle and operator licensing kept by the Agency
@@ -217,7 +225,6 @@ _Consolidation as at 2020-08-07_
   - **organised criminal activity** means an activity that—
     (a) involves 2 or more persons; and
     (b) has the acquisition of income or assets by means of a continuing course of criminal conduct as one of its objects
-  - **outputs** means the goods and services that are produced by the Agency
   - **over-dimension offence** means an offence against any enactment that is specified as an over-dimension offence by the regulations
   - **overloading offence** means an offence against any enactment that is specified as an overloading offence by the regulations
   - **owner** , in relation to a motor vehicle, means the person lawfully entitled to possession of the vehicle, except where—in which case means the person who, but for the bailment or letting on hire, would be lawfully entitled to possession of the motor vehicle; and and have corresponding meanings
@@ -250,7 +257,7 @@ _Consolidation as at 2020-08-07_
       (i) a vehicle designed or adapted to carry 12 or fewer persons (including the driver) provided by one of the passengers being carried; or
       (ii) a vehicle specified as an exempt passenger service vehicle in the regulations or the rules
   - **passive breath-testing device** means a passive breath-testing device of a kind approved by the Minister of Police, by notice in the Gazette
-  - **permanent speed limit** means a maximum speed limit set by a regulation or rule made under this Act and that is in force except when a holiday, variable, minimum, or temporary speed limit is in force
+  - **permanent speed limit** means a speed limit that is in force except when a seasonal, variable, minimum, emergency, or temporary speed limit is in force
   - **positive** , in relation to an evidential breath test, means an evidential breath test that indicates,—
     (a) in the case of a person who holds an alcohol interlock licence or a zero alcohol licence, that the breath of the person who underwent the test contains alcohol; or
     (b) in the case of a person who is apparently younger than 20, that the breath of the person who underwent the test contains alcohol; or
@@ -342,6 +349,7 @@ _Consolidation as at 2020-08-07_
     (b) includes a person acting under and within the terms of a delegation or authorisation given by the controlling authority
   - **the rules** means the ordinary rules and emergency rules made under this Act and the rules referred to in section 220
   - **Science Minister** means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Research, Science, and Technology Act 2010
+  - **secondary legislation** means regulations within the meaning of section 29 of the Interpretation Act 1999
   - **Secretary** means the chief executive of the Ministry
   - **service** , in Part 4A, includes—
     (a) an operation carried out on 1 occasion only; and
@@ -358,7 +366,12 @@ _Consolidation as at 2020-08-07_
     (c) does not include any other person who is a driver in the small passenger service or who otherwise assists in the small passenger service
   - **small passenger service vehicle** means any passenger service vehicle that is designed or adapted to carry 12 or fewer persons (including the driver)
   - **special vehicle lane** has the meaning given to it in clause 1.6 of the Land Transport (Road User) Rule 2004
-  - **speed limit** means a speed limit set by or under this Act, the Local Government Act 1974, the Government Roading Powers Act 1989, or the rules
+  - **speed limit** means a speed limit set under—
+    (a) this Act, including—
+      (i) by a land transport record being included in the register of land transport records established by section 200E; or
+      (ii) under a rule or bylaw made under this Act; or
+    (b) the Local Government Act 1974; or
+    (c) the Government Roading Powers Act 1989
   - **speeding offence** means an offence which consists solely of exceeding a speed limit
   - **stationary vehicle offence** means—
     (a) parking in any portion of a road in breach of—
@@ -750,6 +763,7 @@ If an enforcement officer, acting in the course of his or her official duties, b
 ### 22AC Minister may amend, replace, or disallow bylaws
 (1) The Minister may, by notice published in the Gazette, amend, replace, or disallow, either wholly or in part, any bylaw made by a road controlling authority under section 22AB or any other enactment (whether before or after the commencement of this section) if the bylaw—
   (a) is inconsistent with any enactment; or
+  (aa) is inconsistent with or duplicates any land transport record included in the register established by section 200E; or
   (b) is unreasonable or undesirable in so far as it relates to or may affect traffic.
 (2) On any disallowance under subsection (1), the bylaw must, to the extent to which it is disallowed, be treated as having been revoked.
 (3) Any disallowance under subsection (1) takes effect either on the day of the publication of the notice of disallowance in the Gazette or on a later date that may be specified in the notice.
@@ -893,7 +907,7 @@ The Agency may suspend or revoke a driver licence in accordance with the regulat
   (b) in the case of a person who applies to convert an overseas licence or permit to a New Zealand full driver licence, the licence must show the date of issue of that person's first New Zealand driver licence; and
   (c) in the case of a learner licence or restricted licence issued under Part 4 of the Land Transport (Driver Licensing) Rule 1999, the original date of issue of the learner licence or restricted licence must be shown on that licence.
 (4C) Subsection (4B)﻿(c) does not apply if the learner licence or the restricted licence adds a class to an existing licence.
-(5) The agency—
+(5) The Agency—
   (a) must store the photographic image used for each licence until the licence expires; and
   (b) may store the photographic image used for each licence after the licence has expired.
 
@@ -1163,15 +1177,17 @@ If the proposed revocation of a licence under section 30S is on the ground that 
   (a) the notice required to be given to the licence holder by section 30W must specify the steps that the Agency will require to be taken if the licence is not to be revoked, which steps may include a requirement that the person concerned cease all involvement in the service within a specified period; and
   (b) the licence must not be revoked where the licence holder complies with any such requirements of the Agency.
 
-### 30U Suspension of transport service licence
-(1) The Agency may suspend a licence if—
+### 30U Suspension of transport service licence or imposition of conditions
+(1) The Agency may suspend or impose conditions on a licence if—
   (a) the holder of a transport service licence, or any person who has control of the service, does not hold a certificate required by the regulations or the rules; or
-  (b) the holder of a small passenger service licence, or any person who has control of the service, does not comply with the applicable requirements in this Part, Part 4B, the regulations, or the rules; or
+  (b) the holder of a transport service licence, or any person who has control of the service, does not comply with the applicable requirements in this Part, Part 4B, the regulations, or the rules; or
   (c) the holder of a small passenger service licence does not have—
     (i) a person with control of the service in New Zealand who lives in New Zealand; or
     (ii) a representative who lives in New Zealand.
 (2) A suspension ceases immediately when the Agency is satisfied that subsection (1)﻿(a), (b), or (c) no longer applies.
+(2A) Any conditions imposed are immediately removed when the Agency is satisfied that subsection (1)﻿(a), (b), or (c) no longer applies.
 (3) Subpart 5 applies to a decision to suspend a transport service licence.
+(4) Subpart 5 applies to a decision to impose conditions on a transport service licence as if the licence had been suspended and with any necessary modifications.
 
 ### Subpart 5 — Adverse decisions
 
@@ -1182,7 +1198,7 @@ In sections 30W to 30Y, unless the context otherwise requires,—
     (b) to refuse to grant a transport service licence under section 30L; or
     (c) to grant a licence on conditions under section 30M; or
     (d) to revoke a transport service licence under section 30S; or
-    (e) to suspend a transport service licence under section 30U; or
+    (e) to suspend or impose conditions on a transport service licence under section 30U; or
     (f) to disqualify—
       (i) a transport service driver under section 87A; or
       (ii) a transport service licence holder or person in control of a transport service under section 87B
@@ -3304,6 +3320,57 @@ In this Part,—
 (2) The Registrar of the court in which the appellant was convicted must notify the Agency of the filing of the notice of appeal and of the result of the determination of the appeal, or of the abandonment or dismissal of the appeal.
 (3) If a conviction for an offence to which section 88 applies is quashed on an application for judicial review, demerit points may not be recorded for that offence or (if recorded) the Agency must cancel the demerit points recorded and any disqualification imposed for that offence.
 
+**Enforceable undertakings**
+
+### 112A Agency may accept enforceable undertakings
+(1) The Agency may accept an enforceable undertaking given by a person in writing in connection with a matter relating to a contravention or an alleged contravention by the person under any land transport Act (the contravention or alleged contravention).
+(2) However, the Agency may refuse to accept the undertaking if it does not provide for the reimbursement of any costs and expenses of the Agency incurred in relation to—
+  (a) the undertaking; and
+  (b) the contravention or alleged contravention.
+(3) The Agency must not accept an undertaking if the Agency believes that the contravention or alleged contravention would amount to an offence against any of sections 36AA, 38, 39, 61, or 62 of this Act.
+(4) The giving of an undertaking does not constitute an admission of guilt by the person giving it in relation to the contravention or alleged contravention to which the undertaking relates.
+(5) To avoid doubt, the costs and expenses of the Agency include any costs or expenses incurred in relation to an employee, agent, or contractor of the Agency.
+
+### 112B Notice of decision and reasons for decision
+(1) The Agency must give the person seeking to make an enforceable undertaking written notice of—
+  (a) the Agency’s decision to accept or reject the undertaking; and
+  (b) the reasons for the decision.
+(2) The Agency must publish, on the Agency’s Internet site, notice of a decision to accept an enforceable undertaking and the reasons for that decision.
+
+### 112C When enforceable undertaking is enforceable
+An enforceable undertaking takes effect and becomes enforceable when the Agency’s decision to accept the undertaking is given to the person who made the undertaking, or at any later date specified by the Agency.
+
+### 112D Compliance with enforceable undertaking
+(1) A person must not contravene an enforceable undertaking given by that person that is in force.
+(2) A person who contravenes subsection (1) commits an offence and is liable on conviction,—
+  (a) for an individual, to a fine not exceeding $20,000:
+  (b) for a body corporate, to a fine not exceeding $100,000.
+
+### 112E Contravention of enforceable undertaking
+(1) The Agency may apply to the District Court for an order if a person contravenes an enforceable undertaking.
+(2) If the court is satisfied that the person who made the enforceable undertaking has contravened the undertaking, the court may make either or both of the following orders:
+  (a) an order directing the person to comply with the undertaking:
+  (b) an order discharging the undertaking.
+(3) In addition to the orders referred to in subsection (2), the court may make any other order that the court considers appropriate in the circumstances, including orders directing the person to pay to the Agency—
+  (a) the costs of the proceedings; and
+  (b) the reasonable costs of the Agency in monitoring compliance with the enforceable undertaking in the future.
+(4) This section does not prevent proceedings being brought for the contravention or alleged contravention to which the enforceable undertaking relates.
+
+### 112F Withdrawal or variation of enforceable undertaking
+(1) A person who has given an enforceable undertaking may at any time, with the written agreement of the Agency,—
+  (a) withdraw the undertaking; or
+  (b) vary the undertaking.
+(2) However, the provisions of the undertaking cannot be varied to provide for a different contravention or alleged contravention.
+(3) The Agency must publish on the Agency’s Internet site notice of the withdrawal or variation of an enforceable undertaking.
+
+### 112G Proceedings for contravention or alleged contravention
+(1) Subject to this section, no proceedings (whether civil or criminal) for a contravention or alleged contravention may be brought against a person if an enforceable undertaking is in effect in relation to that contravention or alleged contravention.
+(2) No proceedings may be brought for a contravention or alleged contravention against a person who—
+  (a) has made an enforceable undertaking in relation to that contravention or alleged contravention; and
+  (b) has completely discharged the enforceable undertaking.
+(3) The Agency may accept an enforceable undertaking in relation to a contravention or alleged contravention before proceedings in relation to that contravention or alleged contravention have been completed.
+(4) If the Agency accepts an enforceable undertaking before the proceedings are completed, the Agency must take all reasonable steps to have the proceedings discontinued as soon as practicable.
+
 ## Part 9 — Enforcement of responsibilities
 
 **General enforcement powers**
@@ -3972,7 +4039,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (b) set out standards, specifications, or codes of practice for the design, construction, alteration, or maintenance of roads and related property:
   (c) provide for the classification of roads according to their suitability for use by different classes of motor vehicles:
   (d) set, or provide for the setting of, speed limits (including maximum, minimum, variable, and temporary speed limits) for roads throughout New Zealand or in a particular locality, which speed limits may vary according to vehicle classes, types of roads, locality, and time of year:
-  (e) empower road controlling authorities to set speed limits referred to in paragraph (d) for roads within their jurisdiction, and—
+  (e) empower or require road controlling authorities to set speed limits referred to in paragraph (d) for roads within their jurisdiction, and—
     (i) set out criteria, requirements, and procedures to be complied with by road controlling authorities when setting speed limits:
     (ii) authorise the Agency to change, or modify the application of, a speed limit that does not comply with the prescribed criteria, requirements, or procedures:
   (f) provide that a road controlling authority may declare any of its roads or part of any such road to be a construction zone; prescribe the signs to be erected in a construction zone; and provide for the exemption from specified provisions of the rules of specified classes of motor vehicles while used within a construction zone:
@@ -4042,6 +4109,24 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (b) set out different fit and proper person assessments for different classes of land transport documents, applicants, or holders.
 (4) The rules may provide for the issue, endorsement, alteration, replacement, renewal, surrender, expiry, suspension, and revocation of land transport documents.
 (5) Subject to the rules, a land transport document may be issued or a document may be recognised as a land transport document, as the case may be, by the Agency for such period and subject to such conditions as the Agency considers appropriate in each particular case.
+
+### 159A Ordinary rule may require committee to be established
+(1) An ordinary rule may require the Agency to establish a committee that has 1 or more purposes associated with speed management, including—
+  (a) reviewing a state highway speed management plan provided for in a rule:
+  (b) reviewing guidance or information on speed management prepared by the Agency.
+(2) The rule must set out—
+  (a) the purpose for which the committee is to be established; and
+  (b) the committee’s functions, powers, and duties; and
+  (c) which of the following persons is authorised to appoint members of the committee (and the term for which they are appointed):
+    (i) the Minister:
+    (ii) the Agency:
+    (iii) the Secretary:
+    (iv) any combination of the persons listed in subparagraphs (i) to (iii).
+(3) The rule may set out—
+  (a) the date on which the committee is to be dissolved or a process by which that date is determined:
+  (b) any other matter relating to establishing and operating the committee.
+(4) Section 96B of the Land Transport Management Act 2003 applies when the relevant person referred to in subsection (2)﻿(c) of this section is considering appointing a member of a committee established by a rule under this section.
+(5) Section 96C of the Land Transport Management Act 2003 applies to any committee established by a rule under this section.
 
 ### 160 Other provisions concerning ordinary rules
 (1) An ordinary rule may apply generally or to different classes of person, vehicle, or land transport related service, or to the same class of person, vehicle, or land transport related service in different circumstances.
@@ -4190,7 +4275,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
     (i) a person must meet to install or remove an alcohol interlock device:
     (ii) a person with an alcohol interlock licence must meet to apply for the removal of an alcohol interlock device from the person's vehicle:
   (ib) specifying the circumstances in which the Agency may authorise the removal of an alcohol interlock device, whether or not the relevant person has met any criteria specified under paragraph (ia)﻿(ii):
-  (j) specifying the matters for which fees or charges are to be paid under this Act or any other enactment concerning land transport:
+  (j) specifying the matters for which fees or charges are to be paid under this Act or any other land transport Act:
   (k) providing for the collection of land transport related fees and charges:
   (l) prescribing forms for the purposes of this Act:
   (m) specifying the conditions, requirements, and other provisions that must be included in arrangements the Commissioner or an authorised officer may enter into for the purposes of section 97 with vehicle recovery service operators or storage providers, including provisions specifying or providing for—
@@ -4205,6 +4290,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (mc) specifying that a substance, preparation, mixture, or article is not a qualifying drug for the purposes of this Act:
   (md) prescribing, for the purpose of section 98D(2)﻿(a), the maximum amount that may be charged by an operator:
   (me) prescribing criteria for the purpose of considering whether an operator has complied with section 98D(3):
+  (mf) providing for any matter necessary to establish, maintain, and operate the register of land transport records established by section 200E:
   (n) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) The maximum number of demerit points that may be set by regulations made under subsection (1) in respect of any offence—
   (a) is 60 demerit points in the case of—
@@ -4234,6 +4320,32 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (h) identify those fees and charges that are land transport revenue for the purposes of the Land Transport Management Act 2003.
 (5)
 (6)
+
+### 168AAA Regulations relating to register of land transport records
+(1) Without limiting the generality of section 167(1)﻿(mf), regulations made under that provision may—
+  (a) specify a category of decisions or other things for which land transport records may be created (for example, specifying a category of speed limits or cycle paths):
+  (b) require that a land transport record be created for 1 or more bylaws, or 1 or more classes of bylaws:
+  (c) provide for a land transport record to be created for 1 or more bylaws or 1 or more classes of bylaws:
+  (d) provide for the consequences of a land transport record being created for a bylaw, which may include amending, replacing, or revoking the bylaw:
+  (e) specify the circumstances in which the Registrar is required or authorised to create a land transport record, amend a land transport record, or remove a land transport record from the register (including, for example, any criteria that the land transport record must satisfy, or any criteria the Registrar must consider before doing so):
+  (f) specify any information the Registrar must record in the register for a land transport record:
+  (g) prescribe when, or the circumstances in which, the Registrar is not required to operate the register:
+  (h) provide for any limitations on, or requirements for, accessing or searching the register, or making copies of information in the register (including, for example, the requirement to pay a fee or charge):
+  (i) provide for any notices, records, certificates, or other information that must be given, kept, or produced in relation to a land transport record or the register:
+  (j) prescribe the persons or class of persons the Registrar must inform if the Registrar amends or revokes a land transport record:
+  (k) provide for the consequences if a land transport record—
+    (i) conflicts with or duplicates a bylaw; or
+    (ii) conflicts with any other secondary legislation made under a land transport Act:
+  (l) prescribe transitional or savings provisions relating to land transport records.
+(2) The following provisions do not apply when amending, replacing, or revoking a bylaw in accordance with regulations made for the purposes of subsection (1)﻿(d), (k), or (l):
+  (a) section 22AD:
+  (b) section 156 of the Local Government Act 2002.
+(3) In this section, bylaw—
+  (a) means a bylaw, or part of a bylaw, made by a road controlling authority—
+    (i) under any enactment (including section 22AB); and
+    (ii) whether made before or after regulations made for the purposes of subsection (1)﻿(a), (b), or (c); and
+  (b) includes any decision or resolution made under a bylaw referred to in paragraph (a) (for example, a resolution under section 22AB(3) of this Act); and
+  (c) includes any resolution made under section 22AB(3A).
 
 ### 168AA Land transport revenue to be paid into national land transport fund
 All fees and charges (excluding applicable refunds and goods and services tax) identified in regulations made under this Part as land transport revenue for the purposes of the Land Transport Management Act 2003 must be paid into a Crown Bank Account and treated as land transport revenue.
@@ -4461,6 +4573,103 @@ The functions of the Minister under this Act are—
     (d) the New Zealand Customs Service:
     (e) the New Zealand Police.
 
+**Register of land transport records**
+
+### 200A Interpretation
+In sections 200B to 200O, unless the context otherwise requires,—
+  - **bylaw** has the meaning given in section 168AAA(3)
+  - **register** means the register of land transport records established by section 200E
+  - **Registrar** means the Agency
+  - **regulations** means any regulations made for the purposes of section 167(1)﻿(mf), including for any purpose set out in section 168AAA.
+
+### 200B Secondary legislation may require creation of land transport record
+(1) Secondary legislation made under a land transport Act may require that a land transport record be created for a decision or other thing made or done in accordance with that legislation.
+(2) Subsection (1) applies only if the decision or other thing falls within a category of decisions or other things specified in regulations made for the purpose of section 168AAA(1)﻿(a) of this Act.
+(3) Nothing in subsection (1) limits any other power in a land transport Act in relation to secondary legislation.
+
+### 200C Land transport records must be created for certain bylaws
+(1) A land transport record must be created for a bylaw.
+(2) Subsection (1) applies only if—
+  (a) regulations made for the purpose of section 168AAA(1)﻿(b) require that a record be created; and
+  (b) the bylaw falls within a category of decisions or other things specified in regulations made for the purpose of section 168AAA(1)﻿(a).
+
+### 200D Land transport records may be created for certain bylaws
+(1) A land transport record may be created for a bylaw.
+(2) Subsection (1) applies only if—
+  (a) regulations made for the purpose of section 168AAA(1)﻿(c) provide for a record to be created; and
+  (b) the bylaw falls within a category of decisions or other things specified in regulations made for the purpose of section 168AAA(1)﻿(a).
+
+### 200E Register of land transport records
+(1) A register called the register of land transport records is established.
+(2) The Registrar must keep and operate the register in accordance with—
+  (a) sections 200F to 200O; and
+  (b) the regulations.
+
+### 200F Purpose of register
+The purpose of the register is—
+  (a) to create legally enforceable obligations (as set out in section 200H(2)); and
+  (b) to provide a public record of land transport records; and
+  (c) to enable any person to access, or get copies of, land transport records; and
+  (d) to assist or enable any person to perform or exercise the person’s functions, powers, or duties under this Act or any other land transport Act (for example, to commence proceedings against a person for exceeding a speed limit).
+
+### 200G When Registrar must create land transport record
+(1) This section applies if a land transport record—
+  (a) is required to be created for a decision or other thing in accordance with section 200B or 200C; or
+  (b) is authorised to be created for a decision or other thing in accordance with section 200D.
+(2) The Registrar must create a land transport record for the decision or other thing if—
+  (a) any relevant criteria specified by the regulations are satisfied; and
+  (b) the Registrar has received the necessary information submitted under section 200L.
+
+### 200H Effect of land transport record
+(1) A land transport record has effect only on and from the day after it is created, unless any later date is specified in the record, in which case it has effect on and from that later date.
+(2) A land transport record is the source of any legally enforceable obligation (not the decision or other thing for which the land transport record has been created).
+
+### 200I Contents of register
+(1) The Registrar must record in the register the prescribed information for each land transport record.
+(2) The Registrar may record in the register any other information the Registrar considers appropriate.
+
+### 200J Operation, access, and search of register
+(1) The register may be kept in any manner that the Registrar thinks fit provided it permits the contents to be readily accessed or reproduced in usable form.
+(2) The register must be operated at all times unless—
+  (a) the Registrar suspends its operation (in whole or in part)—
+    (i) for maintenance purposes; or
+    (ii) in response to technical difficulties; or
+    (iii) to ensure the security or integrity of the register; or
+  (b) the regulations prescribe otherwise.
+(3) Any person may access or search the register, or make copies of information in the register, except to the extent that—
+  (a) the Registrar suspends its operation in accordance with subsection (2); or
+  (b) the regulations provide otherwise.
+
+### 200K Amendments to register
+(1) The Registrar may amend the register if the Registrar is satisfied at any time that the register—
+  (a) contains a typographical error or a mistake; or
+  (b) omits information that is required or permitted to be included in the register.
+(2) The Registrar must amend the register—
+  (a) if the regulations require the Registrar to do so; or
+  (b) to give effect to an order or a direction of a court.
+
+### 200L Submitting information to Registrar
+(1) A person submitting information to the Registrar for the purpose of creating a land transport record must submit the following information:
+  (a) information required by the regulations; and
+  (b) any other information required by the Registrar.
+(2) For the purpose of subsection (1), the Registrar may—
+  (a) specify how the person must submit the information:
+  (b) require the person submitting the information to confirm that any legal requirements in relation to the decision or other thing have been satisfied (for example, that consultation has been properly undertaken).
+
+### 200M Registrar must notify person that record created
+Once a land transport record is created, the Registrar must notify the person that submitted the information in relation to the record of that fact.
+
+### 200N Registrar may notify record or changes to register
+(1) The Registrar must inform the persons or class of persons prescribed in the regulations if the Registrar amends or revokes a land transport record.
+(2) The Registrar may also give notice of the following matters to any person or class of persons or to the public generally:
+  (a) that a land transport record has been created:
+  (b) that changes have been made to the register.
+(3) The Registrar may inform or give notice in any manner that the Registrar thinks fit.
+
+### 200O Certified copy of information on register
+(1) The Registrar must provide a copy, or a certified copy, of any information on the register to any person who applies for it and pays the prescribed fee or charge (if any).
+(2) A certified copy of information on the register purporting to be signed by the Registrar is conclusive evidence for all purposes that the information in the certified copy is entered in the register.
+
 **Use of outside agencies in performance of functions**
 
 ### 201 Authority to consider delegating or contracting out of functions and powers
@@ -4516,6 +4725,11 @@ The functions of the Minister under this Act are—
 (5) Each enforcement officer or dangerous goods enforcement officer appointed under this section is to be supplied by the Commissioner or the Agency (as the case may be) with a warrant which specifies the functions that the officer is entitled or required to undertake.
 (6) In specifying the functions of an enforcement officer or dangerous goods enforcement officer under this section, the Commissioner or the Agency (as the case may be) may specify which powers are or are not exercisable by the officer and impose conditions on the exercise of powers.
 (7) The Commissioner or the Agency (as the case may be) may at any time revoke an appointment made by the Commissioner or the Agency under this section.
+
+### 208A Agency is enforcement officer for certain infringement offences
+For the purposes of issuing an infringement notice under section 139, the Agency is an enforcement officer where—
+  (a) the infringement offence to which the notice relates is a moving vehicle offence; and
+  (b) the alleged offence was detected by approved vehicle surveillance equipment (whether the equipment is owned or operated by the Agency or some other person).
 
 ### 209 Taking of blood specimens for statistical or research purposes
 (1) Despite anything in any Act or rule of law, a health practitioner or medical officer employed by an approved health authority—
