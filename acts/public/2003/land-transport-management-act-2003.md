@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-09-01_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -86,6 +86,7 @@ In order to recognise and respect the Crown’s responsibility to take appropria
     (b) includes—
       (i) coastal shipping (including transport by means of harbour ferries, or ferries or barges on rivers or lakes) and associated infrastructure:
       (ii) the infrastructure, goods, and services (including education and enforcement), the primary purpose of which is to improve public safety in relation to the kinds of transport described in paragraph (a)﻿(i)
+  - **land transport Act** has the meaning given in section 2(1) of the Land Transport Act 1998
   - **land transport disbursement account** means an account kept under section 24
   - **land transport options and alternatives** includes land transport demand management options and alternatives
   - **land transport revenue** has the meaning given to it by section 6
@@ -262,6 +263,12 @@ This Act binds the Crown.
   (b) recreational boating safety and safety awareness; and
   (c) maritime safety services that benefit the users of pleasure craft; and
   (d) administration by the Secretary in relation to the activities and services described in paragraphs (a) to (c).
+(1A) The Crown may, without further appropriation than this subsection, incur expenses or capital expenditure in a financial year up to an amount agreed between the Minister of Transport and the Minister of Finance to fund the Agency’s regulatory functions and the Ministry’s associated monitoring functions.
+(1B) The Agency may, of its own volition, recommend that the Ministers agree to an amount under subsection (1A).
+(1C) Before making a recommendation, the Agency must—
+  (a) publish a notice of the Agency’s proposed recommendation on its Internet site; and
+  (b) give interested parties a reasonable time, specified in the notice, to make submissions on the proposed recommendation.
+(1D) The Agency must include the results of the consultation under subsection (1C) in its recommendation to the Ministers.
 (2) The Crown may utilise land transport revenue to fund—
   (a) Police activities or combinations of Police activities up to the amount approved by the responsible Minister under section 18L:
   (aa) rail activities or combinations of rail activities up to the amount approved by the Minister under section 22F:
@@ -276,13 +283,13 @@ This Act binds the Crown.
   (c) investment strategy and policy activities (up to the amount approved by the Minister and the Minister of Finance) that—
     (i) are carried out by the Ministry; and
     (ii) relate to matters that could have a significant impact on the national land transport fund.
-(3) The Crown may, without further appropriation than this subsection, incur expenses or capital expenditure up to an amount equal to the land transport revenue for that financial year less the amounts for the year that are referred to in subsections (1) and (2) for—
+(3) The Crown may, without further appropriation than this subsection, incur expenses or capital expenditure up to an amount equal to the land transport revenue for that financial year less the amounts for the year that are referred to in subsections (1), (1A), and (2) for—
   (a) activities and combinations of activities approved under section 20; and
   (b) expenses resulting from, and repayment of, any borrowing in accordance with section 10(1)﻿(b).
 (4) The Crown may, without further appropriation than this subsection, incur expenses or capital expenditure in any financial year up to any positive amount calculated under subsection (5) for—
   (a) activities and combinations of activities approved under section 20; and
   (b) expenses resulting from, and repayment of, any borrowing in accordance with section 10(1)﻿(b).
-(5) The amount referred to in subsection (4) is to be calculated in accordance with the following formula:a − b = cwhere—ais land transport revenue from any previous financial years; andbis the expenses and capital expenditure incurred under subsections (1), (2), (3), and (4) for those previous financial years; andcis the calculated amount.
+(5) The amount referred to in subsection (4) is to be calculated in accordance with the following formula:a − b = cwhere—ais land transport revenue from any previous financial years; andbis the expenses and capital expenditure incurred under subsections (1), (1A), (2), (3), and (4) for those previous financial years; andcis the calculated amount.
 
 **National land transport account**
 
@@ -293,7 +300,7 @@ This Act binds the Crown.
     (i) the Agency, in accordance with section 162 of the Crown Entities Act 2004; or
     (ii) the Crown, in accordance with subpart 1 of Part 6 of the Public Finance Act 1989.
 (2) The inflows of the national land transport fund are—
-  (a) land transport revenue, less any expenses or capital expenditure incurred under section 9(1):
+  (a) land transport revenue, less any expenses or capital expenditure incurred under section 9(1) or (1A):
   (b) any revenue received by the Agency for the management of Crown land, including leases and licences:
   (ba) any toll revenue collected in respect of a road tolling scheme if—
     (i) the Minister has approved that toll revenue inflow in writing; and
@@ -1835,16 +1842,7 @@ As soon as practicable after issuing an amended GPS on land transport, the Minis
 
 ### 92 Overview
 (1) This subpart establishes the New Zealand Transport Agency and sets out the objective and functions of the Agency, its operating principles, and related provisions.
-(2) This Act contains a range of accountability provisions relevant to the Agency's functions, duties, and powers under this Act, including the following:
-  (a) section 11, which concerns the annual report on the national land transport fund; and
-  (b) section 16, which concerns the form and content of regional land transport plans, and includes procedures for the Agency to propose activities for inclusion in a plan; and
-  (c) section 19D, which concerns notification by the Agency about decisions not to include activities or combinations of activities in a national land transport programme; and
-  (d) section 20D, which concerns the giving of reasons by the Agency for any decision to approve or decline funding for an activity or combination of activities under section 20; and
-  (e) section 70, which concerns the requirement for the Agency to give effect to the GPS on land transport when exercising its functions under subpart 1 of Part 2; and
-  (f) section 96, which concerns the Agency’s operating principles, systems, and procedures; and
-  (g) section 100, which concerns the Agency’s statement of intent; and
-  (h) section 101, which concerns monitoring and review of specified activities and procedures of the Agency by the Secretary; and
-  (i) section 109, which concerns the making of regulations requiring the Agency to disclose specified information or report in specified ways.
+(2)
 (3) This section is by way of explanation only, and if a provision of this or any other Act is inconsistent with this section, the other provision prevails.
 
 ### 93 Establishment of New Zealand Transport Agency
@@ -2063,6 +2061,7 @@ In the course of performing its functions and exercising its powers, the Agency 
   (a) prepare the joint regional land transport plan in accordance with sections 14 and 16; and
   (b) consult in accordance with sections 18 and 18A; and
   (c) lodge the joint regional land transport plan with the relevant regional councils or Auckland Transport (as the case may be) in accordance with section 18B.
+(4) Each regional transport committee (including the regional transport committee for Auckland) must also carry out any functions conferred on a regional transport committee under any other provision of this Act (including functions conferred by regulations made under section 109(c)).
 
 ### 107 Procedure of committee
 (1)
@@ -2098,7 +2097,55 @@ The Governor-General may, by Order in Council made on the recommendation of the 
     (ii) report in specified ways:
   (b) specifying—
     (i) how funding under section 9(1) is to be apportioned; and
-    (ii) the process by which that funding can be allocated.
+    (ii) the process by which that funding can be allocated:
+  (c) specifying any functions of regional transport committees:
+  (d) identifying 1 or more entities that are additional to those listed in the definition of specified agency in section 109B(7).
+
+### 109A Confidentiality of information and documents
+(1) This section applies if the Agency obtains information or gains access to a document when performing or exercising any function, power, or duty under this Act or any other land transport Act.
+(2) The Agency may publish or disclose, or direct any person to publish or disclose, any information or document to which this section applies only if—
+  (a) publishing or disclosing the information or document is for the purposes of, or in connection with, the Agency performing or exercising a function, power, or duty under this Act or any other Act; or
+  (b) the information or document is available to the public under any enactment or is otherwise publicly available; or
+  (c) the information is in a statistical or summary form; or
+  (d) the person to whom the information or document relates, or to whom the information or document is confidential, consents; or
+  (e) the Agency is required or authorised by law to do so (including by a court order); or
+  (f) publishing or disclosing the information or document is—
+    (i) in accordance with section 109B; or
+    (ii) to a person who the Agency is satisfied has a proper interest in receiving the information or document.
+(3) The Agency must not publish or disclose, or direct a person to publish or disclose, any information or document to a person under subsection (2)﻿(f)﻿(ii) unless the Agency is satisfied that appropriate protections are or will be in place for the purpose of maintaining the confidentiality of the information or document (in particular, information that is personal information within the meaning of the Privacy Act 1993).
+(4) In relation to personal information, this section applies subject to the Privacy Act 1993.
+(5) To avoid doubt, in this section and section 109B, Agency includes, for example,—
+  (a) any statutory officer who carries out work for the Agency; and
+  (b) the Agency acting in any capacity.
+
+### 109B Agency may share or use information or documents
+(1) The Agency may share information or a copy of any document under section 109A(2)﻿(f)﻿(i) with—
+  (a) a specified agency, if the Agency is satisfied it may assist the specified agency to perform or exercise its functions, powers, or duties under any Act; or
+  (b) an overseas agency, if the Agency is satisfied it may assist the overseas agency to perform or exercise its functions, powers, or duties.
+(2) The Agency may use any information, or a copy of any document, provided to it by a specified agency or an overseas agency, in performing or exercising the Agency’s functions, powers, or duties under this Act or any other Act.
+(3) When sharing information, or a copy of a document, under subsection (1), the Agency may impose conditions, including conditions relating to—
+  (a) storing, using, accessing, or copying the information or document; and
+  (b) returning or disposing of copies of the information or document.
+(4) Subsections (1) and (2) are subject to any other Act.
+(5) In relation to personal information, this section applies subject to the Privacy Act 1993.
+(6) This section applies despite anything to the contrary in any contract, deed, or document.
+(7) In this section,—
+  - **overseas agency** means an organisation in another country or territory that performs functions and duties that correspond with, or are similar to, those of the Agency
+  - **specified agency** means any of the following entities:
+    (a) Auckland Transport:
+    (b) the Civil Aviation Authority of New Zealand:
+    (c) Fire and Emergency New Zealand:
+    (d) a designated agency under section 191 of the Health and Safety at Work Act 2015:
+    (e) a local authority:
+    (f) Maritime New Zealand:
+    (g) the Ministry of Business, Innovation, and Employment:
+    (h) the Ministry of Justice:
+    (i) the Ministry of Transport:
+    (j) the New Zealand Police:
+    (k) a road controlling authority:
+    (l) the Transport Accident Investigation Commission:
+    (m) Worksafe New Zealand:
+    (n) any other entity identified in regulations made under section 109(d) as a specified agency for the purposes of this section.
 
 ### 110 Determinations under section 32(b) of Transit New Zealand Act 1989
 [Repealed]
