@@ -1,5 +1,5 @@
 # Insolvency Practitioners Regulation (Amendments) Act 2019
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-09-01_
 
 ### 1 Title
 This Act is the Insolvency Practitioners Regulation (Amendments) Act 2019.
@@ -872,9 +872,9 @@ In Schedule 1AA,—
 
 ## Schedule 1 — New Part 2 of Schedule 1AA added
 
-### Part 2 — Provisions relating to Part 1 of Insolvency Practitioners Regulation (Amendments) Act 2019
+### Part 4 — Provisions relating to Part 1 of Insolvency Practitioners Regulation (Amendments) Act 2019
 
-### 5 Interpretation
+### 7 Interpretation
 In this Part,—
   - **amendment Act** means Part 1 of the Insolvency Practitioners Regulation (Amendments) Act 2019
   - **commencement date** , in relation to a provision of this Act, means the date on which the provision is amended, replaced, repealed, or inserted by the amendment Act
@@ -882,14 +882,14 @@ In this Part,—
   - **new** , in relation to a provision of this Act, means the provision as amended, replaced, or inserted by the amendment Act
   - **old** , in relation to a provision of this Act, means the provision as in force immediately before its amendment or repeal by the amendment Act.
 
-### 6 Application of new provisions to insolvency engagements already under way
+### 8 Application of new provisions to insolvency engagements already under way
 (1) The new provisions do not apply (and the old provisions continue to apply) in relation to—
   (a) the administration of a company under Part 15A for which an administrator was appointed before the commencement date; or
   (b) a company under a deed of company arrangement under Part 15A for which the deed of company arrangement was executed before the commencement date; or
   (c) the liquidation of a company under Part 16 for which a liquidator was appointed before the commencement date.
 (2) Subclause (1)﻿(c) applies subject to clause 5(2) to (4) of Schedule 1 of the Insolvency Practitioners Regulation Act 2019.
 
-### 7 Existing court orders relating to appointments continue to have effect
+### 9 Existing court orders relating to appointments continue to have effect
 (1) This clause applies to each court order that—
   (a) is made under old section 239F(2), 239ACD(2), or 280(1) and permits a person to be appointed as an administrator, a deed administrator, or a liquidator despite being a person described in old section 280(1)﻿(d) to (m); and
   (b) is in force on the commencement date of the old provision under which the order is made.
@@ -900,19 +900,19 @@ In this Part,—
 
 ## Schedule 3 — New Part inserted in Schedule 1AA
 
-### Part 1 — Provisions relating to Part 2 of Insolvency Practitioners Regulation (Amendments) Act 2019
+### Part 2 — Provisions relating to Part 2 of Insolvency Practitioners Regulation (Amendments) Act 2019
 
-### 1 Interpretation
+### 2 Interpretation
 In this Part,—
   - **amendment Act** means Part 2 of the Insolvency Practitioners Regulation (Amendments) Act 2019
   - **commencement date** , in relation to a provision of this Act, means the date on which the provision is amended, replaced, repealed, or inserted by the amendment Act
   - **new** , in relation to a provision of this Act, means the provision as amended, replaced, or inserted by the amendment Act
   - **old** , in relation to a provision of this Act, means the provision as in force immediately before its amendment or repeal by the amendment Act.
 
-### 2 Application of new provisions to insolvency engagements already under way
+### 3 Application of new provisions to insolvency engagements already under way
 The new provisions do not apply (and the old provisions continue to apply) in relation to a receivership under this Act for which a receiver was appointed before the commencement date.
 
-### 3 Existing court orders relating to appointments continue to have effect
+### 4 Existing court orders relating to appointments continue to have effect
 (1) This clause applies to each court order that—
   (a) is made under old section 5(1) or old clause 6 of Schedule 1 and permits a person to be appointed as a receiver despite being a person described in old section 5(1)﻿(e) to (l) or old clause 6(b) of Schedule 1; and
   (b) is in force on the commencement date of the old provision under which the order is made.
