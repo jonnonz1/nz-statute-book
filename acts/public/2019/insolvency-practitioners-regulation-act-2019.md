@@ -1,5 +1,5 @@
 # Insolvency Practitioners Regulation Act 2019
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-09-01_
 
 ### 1 Title
 This Act is the Insolvency Practitioners Regulation Act 2019.
