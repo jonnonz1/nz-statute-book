@@ -1,5 +1,5 @@
 # Insurance (Prudential Supervision) Act 2010
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2020-09-01_
 
 ### 1 Title
 This Act is the Insurance (Prudential Supervision) Act 2010.
@@ -1759,7 +1759,7 @@ The Bank may apply under section 239L of the Companies Act 1993 for the appointm
 (2) A licensed insurer commits an offence if it fails to comply with subsection (1) and is liable, on conviction, to a fine not exceeding $100,000.
 
 ### 158 Bank must be sent copies of certain documents and may inspect certain accounts and records
-(1) If a person is required to prepare a specified document in respect of a licensed insurer under any of sections 239AH, 239AI, 239ACP(1)﻿(a), 239ACZ, 239ADY(a) and (c), 239ADZ, 239AEA, and 257(1)﻿(a)﻿(i) or (ii) of the Companies Act 1993, the person must send a copy of the document to the Bank as soon as practicable after it has been prepared.
+(1) If a person is required to prepare a specified document in respect of a licensed insurer under any of sections 239AH, 239AMC(3), 239ACP(1)﻿(a), 239ACZ, 239ADY(a) and (c), 239ADZ, 239AEA, 245D(3), and 257(1)﻿(a)﻿(i) and (ii) and (c) of the Companies Act 1993, the person must send a copy of the document to the Bank as soon as practicable after it has been prepared.
 (2) In subsection (1),—
   - **prepare** , in respect of a specified document, includes to lodge, send, file, or make the document
   - **specified document** means a report, an account, a deed, a notice, or a statement.
