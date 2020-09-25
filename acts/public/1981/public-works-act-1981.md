@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-09-25_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -33,7 +33,7 @@ In this Act, unless the context otherwise requires,—
       (i) a board:
       (ii) the council of a university:
       (iii) a wānanga:
-      (iv) the New Zealand Institute of Skills and Technology or any of its subsidiaries that provide education or training (or both):
+      (iv) Te Pūkenga—New Zealand Institute of Skills and Technology or any of its subsidiaries that provide education or training (or both):
     (c) an airport authority:
     (d) any other person or body (however designated) having authority, under any Act, to undertake the construction or execution of any public work
   - **local SPV work** means eligible infrastructure—
