@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2020-08-31_
+_Consolidation as at 2020-09-25_
 
 ### 1 Title
 This Act is the Building Act 2004.
