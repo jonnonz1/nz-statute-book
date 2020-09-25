@@ -1,5 +1,5 @@
 # Financial Advisers Act 2008
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-09-25_
 
 ### 1 Title
 This Act is the Financial Advisers Act 2008.
@@ -153,7 +153,7 @@ In this Act, unless the context otherwise requires,—
   - **investment planning service** has the meaning set out in section 11
   - **issuer** has the same meaning as in section 11(1)﻿(b) of the Financial Markets Conduct Act 2013
   - **lawyer** has the same meaning as in section 6 of the Lawyers and Conveyancers Act 2006
-  - **lecturer** means a person who is employed by a university, the New Zealand Institute of Skills and Technology (), or an NZIST subsidiary to teach or instruct students of the university, NZIST, or NZIST subsidiary
+  - **lecturer** means a person who is employed by a university, Te Pūkenga—New Zealand Institute of Skills and Technology, or a Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary to teach or instruct students of the university, institute, or subsidiary
   - **licensed market** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **licensed service** has the same meaning as in section 4 of the FSP Act
   - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
@@ -162,7 +162,6 @@ In this Act, unless the context otherwise requires,—
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **nominated representative** means an individual who has been nominated by a QFE or by a partner entity in accordance with section 74 and whose nomination has not been terminated under that section
   - **non-profit organisation** means any organisation, whether incorporated or not, that is carried on other than for the purposes of profit or gain to an owner, member, or shareholder
-  - **NZIST** means the New Zealand Institute of Skills and Technology continued by section 314 of the Education and Training Act 2020, and includes its Crown entity subsidiaries
   - **offeror** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **on behalf of the business of another person** or has the meaning set out in section 5I(1)
   - **overseas regulator** means a body in another country with functions corresponding to those of the FMA under this Act
