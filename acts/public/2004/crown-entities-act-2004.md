@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-09-25_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -31,8 +31,8 @@ The purpose of this Act is to reform the law relating to Crown entities to provi
 
 ### 6 Application of this Act to tertiary education institutions
 (1) The provisions set out in Part 1 of Schedule 4 apply to all tertiary education institutions and their Crown entity subsidiaries.
-(1A) The provisions set out in Part 2 of Schedule 4 apply to the New Zealand Institute of Skills and Technology and its council in addition to the provisions referred to in subsection (1).
-(1B) For the purpose of applying the provisions referred to in subsection (1A), NZIST must be treated as a statutory entity.
+(1A) The provisions set out in Part 2 of Schedule 4 apply to Te Pūkenga—New Zealand Institute of Skills and Technology and its council in addition to the provisions referred to in subsection (1).
+(1B) For the purpose of applying the provisions referred to in subsection (1A), Te Pūkenga—New Zealand Institute of Skills and Technology must be treated as a statutory entity.
 (2) Otherwise this Act does not apply to tertiary education institutions and their Crown entity subsidiaries.
 
 ### 7 Meaning of Crown entity and categories of Crown entities
@@ -43,7 +43,7 @@ The purpose of this Act is to reform the law relating to Crown entities to provi
     (a) a subsidiary of another Crown entity under sections 5 to 8 of the Companies Act 1993; or
     (b) a multi-parent subsidiary of 2 or more Crown entities
   (d) school boards:The following table is small in size and has 2 columns. Column 1 is headed What are they? Column 2 is headed Definition.What are they?DefinitionThese are boards that are bodies corporate constituted under the Education and Training Act 2020 (including distance schools)A body that is a board constituted under subpart 5 of Part 3 of the Education and Training Act 2020 and includes a board of a school designated as a distance school by the Minister of Education under section 196 of that Act
-  (e) tertiary education institutions:The following table is small in size and has 2 columns. Column 1 is headed What are they? Column 2 is headed Definition.What are they?DefinitionThese are tertiary institutions (for example, universities, New Zealand Institute of Skills and Technology, or wānanga) that are bodies corporate established or continued under the Education and Training Act 2020An institution established or continued under subparts 3 or 4 of Part 4 of the Education and Training Act 2020
+  (e) tertiary education institutions:The following table is small in size and has 2 columns. Column 1 is headed What are they? Column 2 is headed Definition.What are they?DefinitionThese are tertiary institutions (for example, universities, Te Pūkenga—New Zealand Institute of Skills and Technology, or wānanga) that are bodies corporate established or continued under the Education and Training Act 2020An institution established or continued under subparts 3 or 4 of Part 4 of the Education and Training Act 2020
 (1A) Despite section 5(3) of the Companies Act 1993, a Crown entity subsidiary must be a company incorporated under that Act.
 (2) The words in brackets in subsection (1) about the effect of the different types of statutory entities are intended only as a guide.
 
