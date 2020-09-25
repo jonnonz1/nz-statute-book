@@ -1,5 +1,5 @@
 # Education and Training Act 2020
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-09-25_
 
 ### 1 Title
 This Act is the Education and Training Act 2020.
@@ -120,13 +120,13 @@ The purpose of this Act is to establish and regulate an education system that—
     (iii) achieving equitable outcomes for Māori students; and
   (e) subpart 6 of Part 3, which provides for the establishment and operation of Kura Kaupapa Māori, Te Aho Matua, and te kaitiaki o Te Aho Matua; and
   (f) subpart 3 of Part 4, which provides for the establishment and operation of wānanga; and
-  (g) clause 4(b) and (d) of Schedule 13, which provides that NZIST must operate in a way that allows it to develop meaningful partnerships with Māori employers and communities and to reflect Māori-Crown partnerships to ensure that its governance, management, and operations give effect to Te Tiriti o Waitangi and to respond to the needs of, and improve outcomes for, Māori learners, whānau, hapū, and iwi.
+  (g) clause 4(b) and (d) of Schedule 13, which provides that Te Pūkenga—New Zealand Institute of Skills and Technology must operate in a way that allows it to develop meaningful partnerships with Māori employers and communities and to reflect Māori-Crown partnerships to ensure that its governance, management, and operations give effect to Te Tiriti o Waitangi and to respond to the needs of, and improve outcomes for, Māori learners, whānau, hapū, and iwi.
 (2) Other provisions related to Te Tiriti o Waitangi in the context of the regulation of the education system include—
   (a) the definition of school community in section 10(1), which includes a Māori community associated with a school; and
   (b) section 17(2)﻿(a), which provides that before the Minister may approve a licence for an early childhood education and care centre, the Minister must take into account the availability of services in the area with different offerings, for example, the provision of te reo Māori; and
   (c) sections 278(2)﻿(a), 320(1)﻿(c), 325(1) and (3), 326(2), and 363(3)﻿(b), which provide for Māori contribution to decision making in tertiary education and vocational education and training; and
   (d) section 281(1)﻿(b), which provides that councils of institutions have a duty, in the performance of their functions and the exercise of their powers, to acknowledge the principles of Te Tiriti o Waitangi; and
-  (e) section 315(f), which provides that one of the functions of NZIST is to improve outcomes for Māori learners and Māori communities in collaboration with Māori and iwi partners and interested persons or bodies; and
+  (e) section 315(f), which provides that one of the functions of Te Pūkenga—New Zealand Institute of Skills and Technology is to improve outcomes for Māori learners and Māori communities in collaboration with Māori and iwi partners and interested persons or bodies; and
   (f) section 402, which provides that TEC comprises members appointed in accordance with section 28(1)﻿(a) of the Crown Entities Act 2004 after consultation with the Minister for Māori Development; and
   (g) section 476(4)﻿(b)﻿(v), which provides that when considering whether to appoint a person as a member of the Teaching Council, the Minister must have regard to the collective skills, experience, and knowledge making up the overall composition of the Teaching Council, including understanding of the partnership principles of Te Tiriti o Waitangi; and
   (h) section 597(2)﻿(d), which provides that a good employer in the education service is an employer who operates an employment policy containing provisions requiring recognition of the aims and aspirations of Māori, the employment requirements of Māori, and the need for greater involvement of Māori in the education service.
@@ -179,8 +179,8 @@ The purpose of this Act is to establish and regulate an education system that—
   - **contract of enrolment** , in relation to an international student, means a written contract entered into between the student (or a parent of the student if the student is under the age of 18 years) and the board of a State school that entitles the student to receive tuition at the school
   - **contributing school** means a school that offers education to students in years 1 to 6
   - **council** ,—
-    (a) in relation to an institution other than NZIST, means the body that governs the institution in accordance with section 271:
-    (b) in relation to NZIST, means NZIST’s council members appointed under section 320
+    (a) in relation to an institution other than Te Pūkenga—New Zealand Institute of Skills and Technology, means the body that governs the institution in accordance with section 271:
+    (b) in relation to Te Pūkenga—New Zealand Institute of Skills and Technology, means Te Pūkenga—New Zealand Institute of Skills and Technology’s council members appointed under section 320
   - **Crown entity group** has the meaning given by section 136(1) of the Crown Entities Act 2004
   - **deputy chief referee** means a person appointed as a deputy chief referee under section 219(3)
   - **designated character school** means a school designated in accordance with sections 204 and 205
@@ -287,7 +287,7 @@ The purpose of this Act is to establish and regulate an education system that—
     (b) the same or similar methods to provide the same or similar services
   - **initial teacher education programme** means a training programme recognised by the Teaching Council as suitable for people who want to teach
   - **institution** means—
-    (a) NZIST (including, as the case requires, its subsidiaries that provide education or training, or both):
+    (a) Te Pūkenga—New Zealand Institute of Skills and Technology (including, as the case requires, its subsidiaries that provide education or training, or both):
     (b) a university:
     (c) a wānanga
   - **integration** means the conditions and procedures on and by which a private school may become established as part of the State system of education, and may remain part of that system, on a basis that preserves and safeguards the special character of the education that the school provides, and has a corresponding meaning
@@ -313,8 +313,6 @@ The purpose of this Act is to establish and regulate an education system that—
   - **MSD** has the same meaning as in Schedule 2 of the Social Security Act 2018
   - **multiple timetable arrangement** means an arrangement under which more than 1 timetable is run on the same day (whether consecutively or concurrently)
   - **NCEA** means national certificate of educational achievement
-  - **New Zealand Institute of Skills and Technology** or means the New Zealand Institute of Skills and Technology continued by section 314
-  - **NZIST subsidiary** means a Crown entity subsidiary of NZIST
   - **NZQA** means the New Zealand Qualifications Authority continued by section 430
   - **overcrowding** , in relation to a school, means the attendance at the school of more students than its site or facilities can reasonably be expected to take
   - **parent** , in relation to an individual, means,—
@@ -473,6 +471,8 @@ The purpose of this Act is to establish and regulate an education system that—
     (c) intends to be, or is in the process of being, enrolled by the provider or signatory provider as a domestic tertiary student or an international student
   - **Te Aho Matua** means a statement that sets out an approach to teaching and learning that applies to schools designated under section 201
   - **te kaitiaki o Te Aho Matua** means the body commonly known as Te Rūnanga Nui o Nga Kura Kaupapa Māori o Aotearoa, being the most suitable to be responsible for determining the content of Te Aho Matua and for ensuring that it is not changed to the detriment of Māori
+  - **Te Pūkenga—New Zealand Institute of Skills and Technology** means the institute continued by section 314
+  - **Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary** means a Crown entity subsidiary of Te Pūkenga—New Zealand Institute of Skills and Technology
   - **teacher** includes—
     (a) a registered teacher; and
     (b) a former registered teacher; and
@@ -1738,7 +1738,7 @@ Other provisions relating to boards are set out in the following schedules:
   (e) comply with all of its other obligations under this or any other Act.
 
 ### 128 Staff
-A board may, in accordance with the Public Service Act 2020, appoint, suspend, and dismiss school staff.
+A board may, in accordance with this Act, appoint, suspend, and dismiss school staff.
 
 ### 129 Boards may appoint, suspend, and dismiss principal
 (1) The powers conferred on a board by section 128 include the powers to appoint, suspend, and dismiss a principal.
@@ -2002,8 +2002,8 @@ Except as provided in section 159, a board may not acquire an interest in land, 
 
 ### 163 Other agreements to occupy school land or buildings
 (1) A board may not enter into an agreement unless the agreement—
-  (a) is of a type permitted by Gazette notice under subsection (5); and
-  (b) is consistent with this section and any conditions specified by Gazette notice under subsection (5).
+  (a) is of a type permitted by Gazette notice under subsection (4); and
+  (b) is consistent with this section and any conditions specified by Gazette notice under subsection (4).
 (2) It is a condition of every agreement that the board has the right to enter, at any time, the land, buildings, or facilities that are the subject of the agreement.
 (3) No person has the right under an agreement to use or occupy any land, buildings, or facilities in such a way as to unduly interfere with the use, by the board for school purposes, of that land or those buildings or facilities, or any other land, buildings, or facilities of the school.
 (4) The Secretary may, by notice in the Gazette,—
@@ -2799,7 +2799,7 @@ A fine recovered under section 243 or 244 must be paid to the board on whose beh
 (2) Subpart 1 deals with various preliminary matters.
 (3) Subpart 2 concerns teaching, learning, and well-being.
 (4) Subpart 3 concerns the administration of tertiary institutions.
-(5) Subpart 4 concerns the New Zealand Institute of Skills and Technology.
+(5) Subpart 4 concerns the Te Pūkenga—New Zealand Institute of Skills and Technology.
 (6) Subpart 5 concerns private training establishments.
 (7) Subpart 6 concerns work-based training.
 (8) Subpart 7 sets out several offence provisions.
@@ -2947,7 +2947,7 @@ An institution must ensure that prospective students receive, before enrolment i
   (a) must be in writing and set out the reasons for giving the direction:
   (b) may be exercised only in relation to a programme of study or training as a whole and may not be exercised in relation to any particular subjects or other constituent elements of a programme of study or training.
 (4) An institution's council must comply with a direction given to it.
-(5) This section applies to NZIST’s council subject to section 318(6).
+(5) This section applies to Te Pūkenga—New Zealand Institute of Skills and Technology’s council subject to section 318(6).
 
 **Students association**
 
@@ -2999,7 +2999,7 @@ Sections 261 to 264 apply to private training establishments as if—
 ### 266 Object
 The object of the provisions of this Act relating to institutions is to give them as much independence and freedom to make academic, operational, and management decisions as is consistent with the nature of the services they provide, the efficient use of national resources, the national interest, and the demands of accountability.
 
-### 267 Academic freedom and institutional autonomy of institutions (other than NZIST)
+### 267 Academic freedom and institutional autonomy of institutions (other than Te Pūkenga—New Zealand Institute of Skills and Technology)
 (1) It is the intention of Parliament in enacting the provisions of this Act relating to universities and wānanga that academic freedom and the autonomy of those institutions are preserved and enhanced.
 (2) In exercising their academic freedom and autonomy, institutions must act in a manner that is consistent with—
   (a) the need for institutions to maintain the highest ethical standards and the need to permit public scrutiny to ensure the maintenance of those standards; and
@@ -3011,7 +3011,7 @@ The object of the provisions of this Act relating to institutions is to give the
   (c) the freedom of the institution and its staff to regulate the subject matter of courses taught at the institution:
   (d) the freedom of the institution and its staff to teach and assess students in the manner that they consider best promotes learning:
   (e) the freedom of the institution through its chief executive to appoint its own staff.
-(5) This section does not apply to NZIST (for which section 318 provides).
+(5) This section does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology (for which section 318 provides).
 
 ### 268 Establishment of institutions
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, establish an institution.
@@ -3055,19 +3055,19 @@ An Order in Council establishing an institution must make provision for determin
   (b) publish, in the Gazette, the notices that the Minister thinks fit inviting members of the public to make written submissions in relation to the matter; and
   (c) consider any submissions made within a reasonable period in response to the notices.
 (6) If an order is made under this section, the Minister must present to the House of Representatives a copy of the order and a statement of the reasons for the making of the order.
-(7) To avoid doubt, nothing in this section applies to NZIST.
+(7) To avoid doubt, nothing in this section applies to Te Pūkenga—New Zealand Institute of Skills and Technology.
 
 **Councils**
 
 ### 271 Institutions to be governed by councils
-(1) The governing body of NZIST is its council, the members of which are appointed under section 320.
+(1) The governing body of Te Pūkenga—New Zealand Institute of Skills and Technology is its council, the members of which are appointed under section 320.
 (2) The governing body of every other institution is its council constituted in accordance with this Part.
 (3) A reference in any enactment to the council or other governing body of an institution referred to in subsection (2) must be construed as a reference to the council of the institution.
 (4) Subject to section 283(2), all acts or things done in the name of, or on behalf of, an institution with the authority of, or of a delegate of, the council or the chief executive are to be treated as being done by the institution.
 (5) Schedule 11 provides for the constitution, appointment and operation of councils of institutions, and related matters.
 
 ### 272 Incorporation
-(1) Each university or wānanga established under section 268, and NZIST as continued by section 314, is a body corporate with perpetual succession and is capable of—
+(1) Each university or wānanga established under section 268, and Te Pūkenga—New Zealand Institute of Skills and Technology as continued by section 314, is a body corporate with perpetual succession and is capable of—
   (a) holding real and personal property; and
   (b) suing and being sued; and
   (c) otherwise doing and suffering all that bodies corporate may do and suffer.
@@ -3080,7 +3080,7 @@ An Order in Council establishing an institution must make provision for determin
   (b) specify the type or class of documents that may be executed only by affixing the common seal to them; and
   (c) specify any member or members of the council, and any member or members of the staff of the institution, who may countersign documents (or a specified type or class of documents) to which the common seal is affixed.
 (3) All courts and persons acting judicially must take judicial notice of an institution’s common seal.
-(4) This section does not apply to NZIST or its subsidiaries.
+(4) This section does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology or its subsidiaries.
 
 ### 274 Method of contracting
 (1) An institution may enter into a contract or other enforceable obligation as provided in this section.
@@ -3090,11 +3090,11 @@ An Order in Council establishing an institution must make provision for determin
 (5) This section applies to a contract or other enforceable obligation,—
   (a) whether or not that obligation was entered into in New Zealand; and
   (b) whether or not the law governing that obligation is the law of New Zealand.
-(6) This section does not apply to NZIST or its subsidiaries.
+(6) This section does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology or its subsidiaries.
 
 ### 275 Constitution to provide for membership of council
 (1) The constitution of a council must provide that it has 8, 9, 10, 11, or 12 members.
-(2) Subsection (1) does not apply to the membership of NZIST’s council (for which section 320 provides).
+(2) Subsection (1) does not apply to the membership of Te Pūkenga—New Zealand Institute of Skills and Technology’s council (for which section 320 provides).
 
 ### 276 Membership of council
 (1) An institution’s council must have a total of 8, 9, 10, 11, or 12 council members, as provided in its constitution, comprising—
@@ -3102,7 +3102,7 @@ An Order in Council establishing an institution must make provision for determin
     (i) 4 members (for a council comprising 10, 11, or 12 members):
     (ii) 3 members (for a council comprising 8 or 9 members); and
   (b) enough members appointed by the council by resolution, in accordance with its statutes, to bring the membership up to that total number.
-(2) Subsection (1) does not apply to the membership of NZIST’s council (for which section 320 provides).
+(2) Subsection (1) does not apply to the membership of Te Pūkenga—New Zealand Institute of Skills and Technology’s council (for which section 320 provides).
 
 ### 277 Certain people disqualified from appointment
 (1) A person may not be appointed as a council member if the person—
@@ -3114,7 +3114,7 @@ An Order in Council establishing an institution must make provision for determin
   (d) is a bankrupt—
     (i) who has not obtained an order of discharge; or
     (ii) whose order of discharge has been suspended for a term not yet expired or is subject to conditions not yet fulfilled.
-(2) Subsection (1) does not apply to the membership of NZIST’s council (for which section 320(2) provides).
+(2) Subsection (1) does not apply to the membership of Te Pūkenga—New Zealand Institute of Skills and Technology’s council (for which section 320(2) provides).
 
 ### 278 Matters to be considered when appointing council members
 (1) An institution’s council should, as far as is reasonably practicable, reflect—
@@ -3141,7 +3141,7 @@ An Order in Council establishing an institution must make provision for determin
   (a) the permanent members of the teaching or general staff of the institution; or
   (b) the students of the institution.
 (7) Before making an appointment under this section, the Minister must seek, and consider, nominations from the relevant council.
-(8) This section does not apply to the membership of NZIST’s council (for which section 321 provides).
+(8) This section does not apply to the membership of Te Pūkenga—New Zealand Institute of Skills and Technology’s council (for which section 321 provides).
 
 ### 279 Statutes relating to appointment of members by councils of institutions
 (1) An institution’s council may make statutes relating to the appointment of members under section 276(1)﻿(b).
@@ -3162,7 +3162,7 @@ An Order in Council establishing an institution must make provision for determin
     (ii) is likely to be able to fulfil the person’s individual duties to the council; and
     (iii) together with the other members of the council, is capable of undertaking its responsibilities, functions, and duties.
 (5) Subsections (2) to (4) do not limit section 284.
-(6) This section does not apply to the membership of NZIST’s council.
+(6) This section does not apply to the membership of Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
 
 **Functions and duties of councils**
 
@@ -3184,7 +3184,7 @@ The functions of an institution’s council are—
   (d) to ensure that the institution does not discriminate unfairly against any person:
   (e) to ensure that the institution operates in a financially responsible manner that ensures the efficient use of resources and maintains the institution’s long-term viability:
   (f) to ensure that proper standards of integrity, conduct, and concern for the public interest and the well-being of students attending the institution are maintained.
-(2) In addition, NZIST’s council must comply with section 97 of the Crown Entities Act 2004 in respect of its subsidiaries.
+(2) In addition, Te Pūkenga—New Zealand Institute of Skills and Technology’s council must comply with section 97 of the Crown Entities Act 2004 in respect of its subsidiaries.
 
 **Powers of institutions and councils**
 
@@ -3235,12 +3235,12 @@ The functions of an institution’s council are—
   (i) to prescribe fees payable by students of the institution or any of them:
   (j) to establish bodies within the institution to give advice to the council:
   (k) to do anything incidental to the exercise of any of the preceding powers.
-(3) Subsection (2)﻿(e) and (f) does not apply to NZIST’s council.
+(3) Subsection (2)﻿(e) and (f) does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
 (4) An institution’s council has the power to appoint committees consisting of the persons, whether or not members of the council, that the council determines to exercise the powers that are delegated to them under section 285 and the powers that are conferred on them by statutes made by the council, and to alter, discharge, and reconstitute committees so appointed.
 
 ### 284 Statutes
 (1) An institution’s council may make statutes, not inconsistent with this Act or the Public Service Act 2020, in relation to any of the following matters:
-  (a) the good government and discipline of the institution and the board of an NZIST subsidiary:
+  (a) the good government and discipline of the institution and the board of an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary:
   (b) the imposition, by or on behalf of the council, of penalties upon staff or students of the institution for a contravention of or a failure to comply with a statute with respect to a matter referred to in paragraph (a):
   (c) subject to sections 255, 256, 257, 258, 260, 309, 310, 386, 525, and 526, and clause 8 of Schedule 9, the enrolment of persons in courses of study or training of the institution or the admission of persons to examinations of the institution:
   (d) subject to sections 255, 256, 257, 258, 260, 309, 310, 386, 525, and 526, and clause 8 of Schedule 9, the courses of study and training of the institution:
@@ -3249,7 +3249,7 @@ The functions of an institution’s council are—
   (g) the provision of superannuation or retirement benefits for, or in respect of, the chief executive or members of the staff of the institution:
   (h) any of the matters stated in section 279:
   (i) any other matter required or permitted by this Act to be provided for by statutes.
-(2) Subsection (1)﻿(h) does not apply to NZIST’s council or the board of an NZIST subsidiary.
+(2) Subsection (1)﻿(h) does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology’s council or the board of an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
 (3) If an institution’s council makes a statute under subsection (1)﻿(b) providing for the imposition of penalties upon staff or students of the institution, the statute must provide for the council, if so requested by a member of the staff or a student upon whom a penalty is imposed, to review, or arrange for the review of, the amount of the penalty, the imposition of the penalty, or both.
 
 ### 285 Delegation of council’s functions and powers
@@ -3264,7 +3264,7 @@ The functions of an institution’s council are—
 (5) This section applies to the academic committee of an institution (established under clause 18(2) of Schedule 11) as if—
   (a) it were a committee of the institution's council; and
   (b) all its powers were powers of the council, conferred on the committee by the council by delegation.
-(6) This section does not apply to NZIST’s council.
+(6) This section does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
 
 ### 286 Further provisions relating to delegation
 (1) A delegation under section 285—
@@ -3284,11 +3284,11 @@ Subdelegation
 
 **Institutions at risk**
 
-### 287 Criteria for risk assessment of institutions (other than NZIST)
+### 287 Criteria for risk assessment of institutions (other than Te Pūkenga—New Zealand Institute of Skills and Technology)
 (1) The Secretary must, after consulting institution councils, determine criteria for assessing the level of risk to the operation and long-term viability of institutions.
 (2) The Secretary must publish criteria determined under subsection (1) in the Gazette.
 (3) Criteria determined under this section must be reviewed at least once in every 2 years following the date of their publication.
-(4) This section does not apply to NZIST’s council (for which section 329 provides).
+(4) This section does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology’s council (for which section 329 provides).
 
 ### 288 Institutions to provide information to TEC if required
 (1) The chief executive of TEC may, if the chief executive has reasonable grounds to believe that an institution may be at risk, by written notice to the institution’s council, require the council to provide either or both of the following:
@@ -3297,7 +3297,7 @@ Subdelegation
 (2) If the chief executive of TEC requires information under subsection (1), the information required must relate to the risks to the institution that the chief executive is concerned about.
 (3) A council that receives a notice under subsection (1) must provide the chief executive of TEC with the required information within or at the time or times specified in the notice.
 (4) The chief executive of TEC may revoke or amend any notice given under subsection (1).
-(5) This section does not apply to NZIST’s council (for which section 330 provides).
+(5) This section does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology’s council (for which section 330 provides).
 
 **Interventions**
 
@@ -3316,7 +3316,7 @@ Subdelegation
 (6) A Crown observer is not a member of the council or any council committee and may not—
   (a) vote on any matter; or
   (b) exercise any of the powers, or perform any of the functions or duties, of a council member.
-(7) This section does not apply to NZIST or its subsidiaries (for which section 331 provides).
+(7) This section does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology or its subsidiaries (for which section 331 provides).
 
 ### 290 Minister may dissolve council and appoint commissioner
 (1) The Minister may, by notice in the Gazette, dissolve an institution’s council and appoint a commissioner to act in place of the council if the Minister believes on reasonable grounds that—
@@ -3337,7 +3337,7 @@ Subdelegation
 (6) When a commissioner is appointed under this section, the Minister must review the appointment at least once in every 12 months following the appointment.
 (7) As soon as the Minister is satisfied (following an annual review or at any other time) that the risk that gave rise to the appointment of the commissioner has reduced enough so that it is appropriate that the institution be administered by a council, a new council must be appointed in accordance with the constitution of the council most recently notified in the Gazette.
 (8) A commissioner's appointment ends on the close of the day before a new council takes office.
-(9) This section does not apply to NZIST or its subsidiaries (for which section 337 provides).
+(9) This section does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology or its subsidiaries (for which section 337 provides).
 
 ### 291 Personal liability of commissioners
 A commissioner appointed under section 290 is not personally liable for an act the commissioner has done or omitted to do, or for any loss arising from that act or omission, if the commissioner was acting—
@@ -3397,7 +3397,7 @@ Subdelegation
 (1) An institution’s council may establish, maintain, and operate bank accounts in the name of the institution at any registered bank or any registered building society with which a Crown entity may establish, maintain, or operate a bank account under section 158 of the Crown Entities Act 2004.
 (2) As soon as practicable after receiving any money, the council must pay it into one of the institution’s bank accounts.
 (3) The council must properly authorise every withdrawal and payment of money from any of the institution's bank accounts.
-(4) This section does not apply to NZIST’s council.
+(4) This section does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
 
 ### 298 Proper accounts to be kept
 Section 168(1) and (2) of the Crown Entities Act 2004 applies to an institution’s council.
@@ -3548,60 +3548,60 @@ The Vice-Chancellors Committee has—
   (a) the powers given to it under this Act or any other enactment; and
   (b) all other powers reasonably necessary to enable it to perform its functions efficiently and effectively.
 
-### Subpart 4 — New Zealand Institute of Skills and Technology
+### Subpart 4 — Te Pūkenga—New Zealand Institute of Skills and Technology
 
-### 314 NZIST continued
-(1) This section continues the New Zealand Institute of Skills and Technology (NZIST) as an institution.
-(2) The Governor-General may, by Order in Council made on the recommendation of the Minister given after receiving a recommendation from NZIST’s council, do either or both of the following:
-  (a) change the name of NZIST:
-  (b) amend this Act or any other enactment by omitting from it the name of NZIST and substituting some other name.
-(3) To avoid doubt, NZIST does not cease to be an institution merely because its name is changed under subsection (2).
+### 314 Te Pūkenga—New Zealand Institute of Skills and Technology continued
+(1) This section continues the Te Pūkenga—New Zealand Institute of Skills and Technology as an institution.
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister given after receiving a recommendation from Te Pūkenga—New Zealand Institute of Skills and Technology’s council, do either or both of the following:
+  (a) change the name of Te Pūkenga—New Zealand Institute of Skills and Technology:
+  (b) amend this Act or any other enactment by omitting from it the name of Te Pūkenga—New Zealand Institute of Skills and Technology and substituting some other name.
+(3) To avoid doubt, Te Pūkenga—New Zealand Institute of Skills and Technology does not cease to be an institution merely because its name is changed under subsection (2).
 
-### 315 Functions of NZIST
-NZIST has the following functions:
+### 315 Functions of Te Pūkenga—New Zealand Institute of Skills and Technology
+Te Pūkenga—New Zealand Institute of Skills and Technology has the following functions:
   (a) to provide or arrange, and support, a variety of education and training, including vocational, foundation, and degree-level or higher education and training:
   (b) to conduct research, with a focus on applied and technological research:
-  (c) to be responsive to and to meet the needs of the regions of New Zealand and their learners, industries, employers, and communities by utilising NZIST’s national network of tertiary education programmes and activities:
+  (c) to be responsive to and to meet the needs of the regions of New Zealand and their learners, industries, employers, and communities by utilising Te Pūkenga—New Zealand Institute of Skills and Technology’s national network of tertiary education programmes and activities:
   (d) to improve the consistency of vocational education and training by using skill standards and working in collaboration with workforce development councils:
   (e) to improve outcomes in the tertiary education system as a whole, including (without limitation) by making connections with schools and other organisations involved in tertiary education and by promoting and supporting life-long learning:
   (f) to improve outcomes for Māori learners and Māori communities in collaboration with Māori and iwi partners, hapū, and interested persons or bodies:
   (g) to carry out any other functions consistent with its role as a tertiary education institution.
 
-### 316 NZIST’s charter
-(1) NZIST must give effect to its charter as set out in Schedule 13.
-(2) NZIST must report in its annual report on how it has given effect to the charter.
+### 316 Te Pūkenga—New Zealand Institute of Skills and Technology’s charter
+(1) Te Pūkenga—New Zealand Institute of Skills and Technology must give effect to its charter as set out in Schedule 13.
+(2) Te Pūkenga—New Zealand Institute of Skills and Technology must report in its annual report on how it has given effect to the charter.
 (3) The duty in subsection (1) is owed to the Minister.
 
-### 317 Minister may specify administrative regions for NZIST
-The Minister may, by notice in the Gazette, specify administrative regions of government with which NZIST must make arrangements to operate effectively.
+### 317 Minister may specify administrative regions for Te Pūkenga—New Zealand Institute of Skills and Technology
+The Minister may, by notice in the Gazette, specify administrative regions of government with which Te Pūkenga—New Zealand Institute of Skills and Technology must make arrangements to operate effectively.
 
-### 318 Academic freedom of NZIST
-(1) It is the intention of Parliament in enacting the provisions of this Act relating to NZIST that NZIST’s academic freedom is preserved and enhanced.
-(2) NZIST’s academic freedom also applies in relation to every NZIST subsidiary that provides education or training, or both.
-(3) In this section, academic freedom, in relation to NZIST, means—
+### 318 Academic freedom of Te Pūkenga—New Zealand Institute of Skills and Technology
+(1) It is the intention of Parliament in enacting the provisions of this Act relating to Te Pūkenga—New Zealand Institute of Skills and Technology that Te Pūkenga—New Zealand Institute of Skills and Technology’s academic freedom is preserved and enhanced.
+(2) Te Pūkenga—New Zealand Institute of Skills and Technology’s academic freedom also applies in relation to every Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary that provides education or training, or both.
+(3) In this section, academic freedom, in relation to Te Pūkenga—New Zealand Institute of Skills and Technology, means—
   (a) the freedom of academic staff and students, within the law, to question and test received wisdom, to put forward new ideas, and to state controversial or unpopular opinions:
   (b) the freedom of academic staff and students to engage in research:
-  (c) the freedom of NZIST and its staff to regulate the subject matter of its courses:
-  (d) the freedom of NZIST and its staff to teach and assess students in the manner that they consider best promotes learning:
-  (e) the freedom of NZIST through its chief executive to appoint its own staff.
-(4) In exercising academic freedom, NZIST must act in a manner that is consistent with—
+  (c) the freedom of Te Pūkenga—New Zealand Institute of Skills and Technology and its staff to regulate the subject matter of its courses:
+  (d) the freedom of Te Pūkenga—New Zealand Institute of Skills and Technology and its staff to teach and assess students in the manner that they consider best promotes learning:
+  (e) the freedom of Te Pūkenga—New Zealand Institute of Skills and Technology through its chief executive to appoint its own staff.
+(4) In exercising academic freedom, Te Pūkenga—New Zealand Institute of Skills and Technology must act in a manner that is consistent with—
   (a) the need for institutions to maintain the highest ethical standards and the need to permit public scrutiny to ensure the maintenance of those standards; and
   (b) the need for institutions to be accountable and to properly use resources allocated to them.
-(5) In performing their functions, NZIST’s council and its chief executive, Ministers, departments of State, authorities, and agencies of the Crown must act in all respects to give effect to the intention of Parliament as expressed in this section.
+(5) In performing their functions, Te Pūkenga—New Zealand Institute of Skills and Technology’s council and its chief executive, Ministers, departments of State, authorities, and agencies of the Crown must act in all respects to give effect to the intention of Parliament as expressed in this section.
 (6) To avoid doubt,—
   (a) nothing in subsection (3) limits or affects a workforce development council performing its functions under section 366(1)﻿(b) to (f); and
-  (b) the performance of those functions by the workforce development council does not limit or affect the academic freedom of NZIST as set out in subsection (3)﻿(a), (b), or (e).
+  (b) the performance of those functions by the workforce development council does not limit or affect the academic freedom of Te Pūkenga—New Zealand Institute of Skills and Technology as set out in subsection (3)﻿(a), (b), or (e).
 
-### 319 NZIST must establish regional divisions
-(1) NZIST must establish regional divisions for the purposes of—
+### 319 Te Pūkenga—New Zealand Institute of Skills and Technology must establish regional divisions
+(1) Te Pūkenga—New Zealand Institute of Skills and Technology must establish regional divisions for the purposes of—
   (a) appointing members to a staff committee or a students’ committee established under section 325:
-  (b) appointing directors to an NZIST subsidiary.
-(2) NZIST may make statutes for the purposes of subsection (1).
+  (b) appointing directors to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
+(2) Te Pūkenga—New Zealand Institute of Skills and Technology may make statutes for the purposes of subsection (1).
 
-**NZIST’s council**
+**Te Pūkenga—New Zealand Institute of Skills and Technology’s council**
 
-### 320 Membership of NZIST’s council
-(1) NZIST’s council must have at least 8, but not more than 12, members, as follows:
+### 320 Membership of Te Pūkenga—New Zealand Institute of Skills and Technology’s council
+(1) Te Pūkenga—New Zealand Institute of Skills and Technology’s council must have at least 8, but not more than 12, members, as follows:
   (a) 1 member who is a member of, and elected by, its staff committee; and
   (b) 1 member who is a member of, and elected by, its students’ committee; and
   (c) 1 member who is a member of, and elected by, its Māori advisory committee; and
@@ -3613,184 +3613,184 @@ The Minister may, by notice in the Gazette, specify administrative regions of go
     (ii) capacity to make or to communicate decisions relating to any particular aspect or aspects of their personal care and welfare; or
   (c) the person has been adjudicated bankrupt and has not obtained an order of discharge, or whose order of discharge has been suspended for a term that has not yet expired or is subject to any conditions that have not yet been fulfilled; or
   (d) the person has been removed from office as a member of the council.
-(3) An act or a proceeding of NZIST’s council, or of any member or any committee of NZIST’s council, is not invalid because of—
+(3) An act or a proceeding of Te Pūkenga—New Zealand Institute of Skills and Technology’s council, or of any member or any committee of Te Pūkenga—New Zealand Institute of Skills and Technology’s council, is not invalid because of—
   (a) a defect in the appointment or election of a member of the council or committee; or
   (b) a disqualification of a member of the council or committee; or
   (c) a defect in the convening of a meeting; or
   (d) a vacancy in the membership of the council or committee.
 (4) For the purposes of this section,—
-  (a) a person referred to in subsection (1)﻿(a) is a member of the council only while the person is a permanent member of the staff of NZIST or an NZIST subsidiary:
-  (b) a person referred to in subsection (1)﻿(b) is a member of the council only if the person is a student enrolled at NZIST or an NZIST subsidiary, but may continue to be a member of the council for a period of up to 12 months after the date on which their enrolment ends.
+  (a) a person referred to in subsection (1)﻿(a) is a member of the council only while the person is a permanent member of the staff of Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary:
+  (b) a person referred to in subsection (1)﻿(b) is a member of the council only if the person is a student enrolled at Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, but may continue to be a member of the council for a period of up to 12 months after the date on which their enrolment ends.
 (5) To avoid doubt,—
-  (a) all permanent members of NZIST’s or an NZIST subsidiary’s staff are eligible for appointment under subsection (1)﻿(a):
-  (b) all students enrolled at NZIST or an NZIST subsidiary are eligible for appointment under subsection (1)﻿(b), regardless of the delivery mode by which the student receives education or training (for example, on-campus learning, distance learning, or work-based training).
+  (a) all permanent members of Te Pūkenga—New Zealand Institute of Skills and Technology’s or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary’s staff are eligible for appointment under subsection (1)﻿(a):
+  (b) all students enrolled at Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary are eligible for appointment under subsection (1)﻿(b), regardless of the delivery mode by which the student receives education or training (for example, on-campus learning, distance learning, or work-based training).
 
-### 321 Matters to be considered when Minister appoints members to NZIST’s council
-(1) The Minister must, as far as possible, ensure that NZIST’s council reflects—
+### 321 Matters to be considered when Minister appoints members to Te Pūkenga—New Zealand Institute of Skills and Technology’s council
+(1) The Minister must, as far as possible, ensure that Te Pūkenga—New Zealand Institute of Skills and Technology’s council reflects—
   (a) the ethnic, gender, and socio-economic diversity, and the diversity of abilities, of New Zealand’s population; and
   (b) the fact that New Zealand is made up of a number of regions.
-(2) When appointing members of NZIST’s council, the Minister must have regard to subsection (1) and must appoint people who (in the Minister’s opinion)—
+(2) When appointing members of Te Pūkenga—New Zealand Institute of Skills and Technology’s council, the Minister must have regard to subsection (1) and must appoint people who (in the Minister’s opinion)—
   (a) have relevant knowledge, skills, and experience in relation to governance, cultural competency, and the importance of diversity; and
   (b) are likely to be able to fulfil their individual duties to the council; and
   (c) together with the other members of the council, are capable of undertaking its responsibilities, duties, and functions.
 (3) A person specified in section 320(1)﻿(a) and (b) is appointed by the council in accordance with the council’s statute unless the person is ineligible for appointment under section 320(2).
 
 ### 322 Chairperson and deputy chairperson
-(1) The Minister may appoint a chairperson and deputy chairperson of NZIST’s council from among its members by giving written notice to the member concerned stating the term for which the member is appointed as chairperson or deputy chairperson.
-(2) The Minister may, by written notice to the member concerned, dismiss the chairperson or deputy chairperson of NZIST’s council from office as chairperson or deputy chairperson.
+(1) The Minister may appoint a chairperson and deputy chairperson of Te Pūkenga—New Zealand Institute of Skills and Technology’s council from among its members by giving written notice to the member concerned stating the term for which the member is appointed as chairperson or deputy chairperson.
+(2) The Minister may, by written notice to the member concerned, dismiss the chairperson or deputy chairperson of Te Pūkenga—New Zealand Institute of Skills and Technology’s council from office as chairperson or deputy chairperson.
 (3) However, the Minister may not dismiss the chairperson or deputy chairperson without first consulting them about the proposed dismissal.
-(4) The chairperson or deputy chairperson of NZIST’s council—
+(4) The chairperson or deputy chairperson of Te Pūkenga—New Zealand Institute of Skills and Technology’s council—
   (a) may resign as chairperson or deputy chairperson by giving written notice to the Minister; and
   (b) ceases to hold office if they—
-    (i) cease to be a member of NZIST’s council; or
-    (ii) become the chief executive of NZIST or a member of the staff of NZIST or an NZIST subsidiary; or
-    (iii) become a student enrolled at NZIST or an NZIST subsidiary.
-(5) A chairperson or deputy chairperson who resigns must give a copy of the notice of resignation to NZIST’s council.
-(6) The chairperson or deputy chairperson of NZIST’s council holds office as chairperson or deputy chairperson for the term for which they were appointed (but may be reappointed), unless the person earlier dies, is dismissed, resigns, or ceases to hold office under subsection (4)﻿(b).
+    (i) cease to be a member of Te Pūkenga—New Zealand Institute of Skills and Technology’s council; or
+    (ii) become the chief executive of Te Pūkenga—New Zealand Institute of Skills and Technology or a member of the staff of Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary; or
+    (iii) become a student enrolled at Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
+(5) A chairperson or deputy chairperson who resigns must give a copy of the notice of resignation to Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
+(6) The chairperson or deputy chairperson of Te Pūkenga—New Zealand Institute of Skills and Technology’s council holds office as chairperson or deputy chairperson for the term for which they were appointed (but may be reappointed), unless the person earlier dies, is dismissed, resigns, or ceases to hold office under subsection (4)﻿(b).
 (7) If the term of office of the chairperson or deputy chairperson expires before a successor is appointed, the chairperson or deputy chairperson continues in office until their successor is appointed.
 
 ### 323 Term of office
-(1) A member of NZIST’s council is appointed for a period not exceeding 4 years.
-(2) When appointing members of NZIST’s council under section 320(1)﻿(d), the Minister must state in the notice appointing the member—
+(1) A member of Te Pūkenga—New Zealand Institute of Skills and Technology’s council is appointed for a period not exceeding 4 years.
+(2) When appointing members of Te Pūkenga—New Zealand Institute of Skills and Technology’s council under section 320(1)﻿(d), the Minister must state in the notice appointing the member—
   (a) the day on which the member’s appointment takes effect; and
   (b) the term for which the member is appointed.
 
-**Additional provisions applying to NZIST’s council and subsidiaries**
+**Additional provisions applying to Te Pūkenga—New Zealand Institute of Skills and Technology’s council and subsidiaries**
 
 ### 324 Determination of policy
-(1) In determining the policy of NZIST with respect to any matter, NZIST’s council must consult any board, committee, or other body established within NZIST that has responsibility for giving advice in relation to, or for giving effect to, the policy of NZIST with respect to the matter.
-(2) For the purposes of subsection (1), NZIST’s council must establish an academic board consisting of its chief executive and members of the staff and students of NZIST or an NZIST subsidiary to—
+(1) In determining the policy of Te Pūkenga—New Zealand Institute of Skills and Technology with respect to any matter, Te Pūkenga—New Zealand Institute of Skills and Technology’s council must consult any board, committee, or other body established within Te Pūkenga—New Zealand Institute of Skills and Technology that has responsibility for giving advice in relation to, or for giving effect to, the policy of Te Pūkenga—New Zealand Institute of Skills and Technology with respect to the matter.
+(2) For the purposes of subsection (1), Te Pūkenga—New Zealand Institute of Skills and Technology’s council must establish an academic board consisting of its chief executive and members of the staff and students of Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary to—
   (a) advise it on matters relating to work-based learning, courses of study or training, awards, and other academic matters; and
   (b) exercise powers delegated to it by the council.
-(3) Without limiting subsection (1), NZIST’s council may not make any decision or statute in respect of any academic matter referred to in subsection (2) unless it has requested the advice of the academic board and considered any advice given by the academic board.
-(4) However, a decision or statute made by NZIST’s council is not invalid merely because of a failure of the council to comply with either of subsection (1) or (3).
+(3) Without limiting subsection (1), Te Pūkenga—New Zealand Institute of Skills and Technology’s council may not make any decision or statute in respect of any academic matter referred to in subsection (2) unless it has requested the advice of the academic board and considered any advice given by the academic board.
+(4) However, a decision or statute made by Te Pūkenga—New Zealand Institute of Skills and Technology’s council is not invalid merely because of a failure of the council to comply with either of subsection (1) or (3).
 
-### 325 NZIST’s council must establish advisory committees
-(1) NZIST’s council must establish a staff committee, a students’ committee, and a Māori advisory committee.
+### 325 Te Pūkenga—New Zealand Institute of Skills and Technology’s council must establish advisory committees
+(1) Te Pūkenga—New Zealand Institute of Skills and Technology’s council must establish a staff committee, a students’ committee, and a Māori advisory committee.
 (2) Each committee established under subsection (1) must be treated as a board established by the council under section 283(2)﻿(j).
-(3) Without limiting section 324(1), NZIST’s council must—
+(3) Without limiting section 324(1), Te Pūkenga—New Zealand Institute of Skills and Technology’s council must—
   (a) consult each committee established under subsection (1) about significant matters relating to the council’s strategic direction that are relevant to the class of people represented by that committee; and
   (b) consider any advice given on those matters or any other matters by the committee.
-(4) However, a decision or statute made by NZIST’s council is not invalid merely because of a failure of the council to comply with subsection (3).
+(4) However, a decision or statute made by Te Pūkenga—New Zealand Institute of Skills and Technology’s council is not invalid merely because of a failure of the council to comply with subsection (3).
 
 ### 326 Membership of advisory committees
-(1) When appointing members of its staff committee or its students’ committee, NZIST’s council must ensure that—
-  (a) each committee consists of persons representing a minimum of each regional division of NZIST established under section 319; and
-  (b) each member of the staff committee is a permanent member of the teaching or general staff of NZIST or an NZIST subsidiary whom the permanent members of the teaching and general staff of NZIST or an NZIST subsidiary have elected to represent them; and
-  (c) each member of the students’ committee is a student enrolled at NZIST or an NZIST subsidiary whom the students have elected to represent them.
-(2) When appointing members of its Māori advisory committee, NZIST’s council must determine, in consultation with its Māori and iwi partners and interested persons or bodies, the size and composition of the committee, but must ensure that the composition includes—
-  (a) representation from NZIST or any of its subsidiaries; and
+(1) When appointing members of its staff committee or its students’ committee, Te Pūkenga—New Zealand Institute of Skills and Technology’s council must ensure that—
+  (a) each committee consists of persons representing a minimum of each regional division of Te Pūkenga—New Zealand Institute of Skills and Technology established under section 319; and
+  (b) each member of the staff committee is a permanent member of the teaching or general staff of Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary whom the permanent members of the teaching and general staff of Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary have elected to represent them; and
+  (c) each member of the students’ committee is a student enrolled at Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary whom the students have elected to represent them.
+(2) When appointing members of its Māori advisory committee, Te Pūkenga—New Zealand Institute of Skills and Technology’s council must determine, in consultation with its Māori and iwi partners and interested persons or bodies, the size and composition of the committee, but must ensure that the composition includes—
+  (a) representation from Te Pūkenga—New Zealand Institute of Skills and Technology or any of its subsidiaries; and
   (b) external people.
 
-### 327 NZIST must obtain consent for certain capital projects of NZIST or NZIST subsidiary
-(1) A capital project may be undertaken by NZIST or an NZIST subsidiary only if—
-  (a) the cost of, or level of risk of, the project to NZIST is below thresholds set by the Secretary under subsection (2); or
-  (b) the project is within a capital plan of NZIST approved in writing by the Secretary; or
-  (c) NZIST has obtained the written consent of the Secretary for the project.
-(2) The Secretary must, after consulting NZIST, set thresholds for the purposes of subsection (1)﻿(a) and publish those thresholds on an Internet site maintained by or on behalf of the Ministry.
+### 327 Te Pūkenga—New Zealand Institute of Skills and Technology must obtain consent for certain capital projects of Te Pūkenga—New Zealand Institute of Skills and Technology or Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
+(1) A capital project may be undertaken by Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary only if—
+  (a) the cost of, or level of risk of, the project to Te Pūkenga—New Zealand Institute of Skills and Technology is below thresholds set by the Secretary under subsection (2); or
+  (b) the project is within a capital plan of Te Pūkenga—New Zealand Institute of Skills and Technology approved in writing by the Secretary; or
+  (c) Te Pūkenga—New Zealand Institute of Skills and Technology has obtained the written consent of the Secretary for the project.
+(2) The Secretary must, after consulting Te Pūkenga—New Zealand Institute of Skills and Technology, set thresholds for the purposes of subsection (1)﻿(a) and publish those thresholds on an Internet site maintained by or on behalf of the Ministry.
 (3) This section applies despite section 299 (which relates to how institutions may use income and capital).
 
-### 328 NZIST subsidiary must obtain consent before exercising certain powers
-Unless section 282(5) applies, an NZIST subsidiary may not exercise any of the powers in section 282(4) unless—
-  (a) it has notified NZIST in writing of the proposed exercise of the power; and
-  (b) NZIST has obtained the consent of the Secretary to the proposed exercise of the power by the NZIST subsidiary.
+### 328 Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary must obtain consent before exercising certain powers
+Unless section 282(5) applies, an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary may not exercise any of the powers in section 282(4) unless—
+  (a) it has notified Te Pūkenga—New Zealand Institute of Skills and Technology in writing of the proposed exercise of the power; and
+  (b) Te Pūkenga—New Zealand Institute of Skills and Technology has obtained the consent of the Secretary to the proposed exercise of the power by the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
 
-**Interventions relating to NZIST**
+**Interventions relating to Te Pūkenga—New Zealand Institute of Skills and Technology**
 
-### 329 Criteria for risk assessment of NZIST and related entities
-(1) For the purpose of exercising a power under any of sections 331 to 337, the Secretary must, after consulting NZIST’s council, determine criteria for assessing the levels of risks to—
-  (a) NZIST and any related entity of NZIST; or
-  (b) the education and training performance of students enrolled at NZIST and any related entity of NZIST.
+### 329 Criteria for risk assessment of Te Pūkenga—New Zealand Institute of Skills and Technology and related entities
+(1) For the purpose of exercising a power under any of sections 331 to 337, the Secretary must, after consulting Te Pūkenga—New Zealand Institute of Skills and Technology’s council, determine criteria for assessing the levels of risks to—
+  (a) Te Pūkenga—New Zealand Institute of Skills and Technology and any related entity of Te Pūkenga—New Zealand Institute of Skills and Technology; or
+  (b) the education and training performance of students enrolled at Te Pūkenga—New Zealand Institute of Skills and Technology and any related entity of Te Pūkenga—New Zealand Institute of Skills and Technology.
 (2) The Secretary must publish the criteria in the Gazette.
 (3) The criteria must be reviewed at least once in every 2 years following the date of their publication in the Gazette.
 
-### 330 NZIST or related entity must provide information if required
-(1) If the chief executive of TEC has reasonable grounds to believe that NZIST or a related entity of NZIST may be at risk, the chief executive may, by written notice to NZIST’s council, require the council to provide either or both of the following:
-  (a) specified information about the operation, management, or financial position of NZIST or a related entity of NZIST at a given time:
-  (b) reports at specified intervals on specific aspects of the operation, management, or financial position of NZIST or a related entity of NZIST.
-(2) If the chief executive of TEC requires information under subsection (1), the information required must relate to the risks to NZIST or the related entity that the chief executive is concerned about.
-(3) If NZIST’s council receives a notice under subsection (1) it must provide the chief executive of TEC with the required information within the period specified in the notice.
+### 330 Te Pūkenga—New Zealand Institute of Skills and Technology or related entity must provide information if required
+(1) If the chief executive of TEC has reasonable grounds to believe that Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology may be at risk, the chief executive may, by written notice to Te Pūkenga—New Zealand Institute of Skills and Technology’s council, require the council to provide either or both of the following:
+  (a) specified information about the operation, management, or financial position of Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology at a given time:
+  (b) reports at specified intervals on specific aspects of the operation, management, or financial position of Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology.
+(2) If the chief executive of TEC requires information under subsection (1), the information required must relate to the risks to Te Pūkenga—New Zealand Institute of Skills and Technology or the related entity that the chief executive is concerned about.
+(3) If Te Pūkenga—New Zealand Institute of Skills and Technology’s council receives a notice under subsection (1) it must provide the chief executive of TEC with the required information within the period specified in the notice.
 (4) The chief executive of TEC may revoke or amend a notice given under subsection (1).
 
-### 331 Minister may appoint Crown observer for NZIST
+### 331 Minister may appoint Crown observer for Te Pūkenga—New Zealand Institute of Skills and Technology
 (1) This section applies if the Minister believes on reasonable grounds that—
-  (a) NZIST or a related entity of NZIST may be at risk; or
-  (b) the education and training performance of the students enrolled at NZIST or a related entity of NZIST may be at risk.
-(2) The Minister may appoint a Crown observer to NZIST’s council.
+  (a) Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology may be at risk; or
+  (b) the education and training performance of the students enrolled at Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology may be at risk.
+(2) The Minister may appoint a Crown observer to Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
 (3) However, a Crown observer may not be appointed unless the Minister has first—
-  (a) consulted NZIST’s council; and
-  (b) advised NZIST’s council that the Minister is considering appointing a Crown observer; and
-  (c) given NZIST’s council an opportunity to comment on the proposal.
+  (a) consulted Te Pūkenga—New Zealand Institute of Skills and Technology’s council; and
+  (b) advised Te Pūkenga—New Zealand Institute of Skills and Technology’s council that the Minister is considering appointing a Crown observer; and
+  (c) given Te Pūkenga—New Zealand Institute of Skills and Technology’s council an opportunity to comment on the proposal.
 (4) An appointment under this section must be in writing and must state the date on which it takes effect.
 (5) A Crown observer may—
-  (a) attend any meeting of NZIST’s council (or a committee or board of NZIST’s council) to which the Crown observer is appointed; and
-  (b) offer advice to NZIST’s council (or a committee or board of NZIST’s council); and
+  (a) attend any meeting of Te Pūkenga—New Zealand Institute of Skills and Technology’s council (or a committee or board of Te Pūkenga—New Zealand Institute of Skills and Technology’s council) to which the Crown observer is appointed; and
+  (b) offer advice to Te Pūkenga—New Zealand Institute of Skills and Technology’s council (or a committee or board of Te Pūkenga—New Zealand Institute of Skills and Technology’s council); and
   (c) report to the Minister on any matter raised or discussed at any meeting that the person attends as a Crown observer.
-(6) Except as authorised by subsection (5)﻿(c), a Crown observer must, at all times, maintain confidentiality with respect to the affairs of NZIST’s council.
-(7) A Crown observer is not a member of NZIST’s council (or a committee or board of NZIST’s council), and may not—
+(6) Except as authorised by subsection (5)﻿(c), a Crown observer must, at all times, maintain confidentiality with respect to the affairs of Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
+(7) A Crown observer is not a member of Te Pūkenga—New Zealand Institute of Skills and Technology’s council (or a committee or board of Te Pūkenga—New Zealand Institute of Skills and Technology’s council), and may not—
   (a) vote on any matter; or
-  (b) exercise any of the powers, or perform any of the functions or duties, of a member of NZIST’s council.
+  (b) exercise any of the powers, or perform any of the functions or duties, of a member of Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
 
 ### 332 Specialist help
 (1) This section applies if the chief executive of TEC believes on reasonable grounds that—
-  (a) NZIST or a related entity of NZIST may be at risk; or
-  (b) the education and training performance of the students enrolled at NZIST or a related entity of NZIST may be at risk.
-(2) The chief executive may, by written notice to NZIST’s council, require it—
+  (a) Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology may be at risk; or
+  (b) the education and training performance of the students enrolled at Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology may be at risk.
+(2) The chief executive may, by written notice to Te Pūkenga—New Zealand Institute of Skills and Technology’s council, require it—
   (a) to obtain specialist help; or
-  (b) to obtain specialist help for a related entity of NZIST.
+  (b) to obtain specialist help for a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology.
 (3) The notice must state—
   (a) the help or kind of help to be obtained; and
   (b) the person or organisation, or kind of person or organisation, from whom or from which it is to be obtained.
-(4) As soon as practicable after receiving the notice, NZIST’s council must comply with it.
-(5) NZIST’s council must—
+(4) As soon as practicable after receiving the notice, Te Pūkenga—New Zealand Institute of Skills and Technology’s council must comply with it.
+(5) Te Pūkenga—New Zealand Institute of Skills and Technology’s council must—
   (a) provide the information and access, and do all other things, reasonably necessary to enable the person or organisation engaged to provide the help; and
   (b) to the extent that the help provided is advice, take the advice into account in performing its functions and duties; and
   (c) pay the person’s or organisation’s reasonable fees and expenses.
 
 ### 333 Performance improvement plan
 (1) This section applies if the chief executive of TEC believes on reasonable grounds that—
-  (a) NZIST or a related entity of NZIST may be at risk; or
-  (b) the education and training performance of the students enrolled at NZIST or a related entity of NZIST may be at risk.
-(2) The chief executive may, by written notice to NZIST’s council, require it to prepare and give to the chief executive a draft performance improvement plan for NZIST or a related entity of NZIST.
+  (a) Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology may be at risk; or
+  (b) the education and training performance of the students enrolled at Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology may be at risk.
+(2) The chief executive may, by written notice to Te Pūkenga—New Zealand Institute of Skills and Technology’s council, require it to prepare and give to the chief executive a draft performance improvement plan for Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology.
 (3) The notice must state—
   (a) the matters to be addressed by the draft plan; and
   (b) the outcomes that implementation of the draft plan is intended to achieve; and
   (c) the times by which those outcomes should be achieved; and
   (d) the performance measures that are to be used to determine whether those outcomes have been achieved; and
   (e) the date by which the draft plan must be given to the chief executive.
-(4) NZIST’s council must prepare, and give to the chief executive by the stated date, a draft plan that complies with subsection (3).
+(4) Te Pūkenga—New Zealand Institute of Skills and Technology’s council must prepare, and give to the chief executive by the stated date, a draft plan that complies with subsection (3).
 (5) The chief executive may—
   (a) approve the draft plan; or
-  (b) after considering the draft plan, approve for NZIST or the related entity some other plan that complies with subsection (3) (whether a modified version of the draft plan or a different plan).
-(6) If the council does not comply with subsection (4), the chief executive may approve for NZIST or the related entity any plan that complies with subsection (3) that the chief executive thinks fit.
-(7) The chief executive may not approve any plan other than a draft plan given to the chief executive before discussing it with NZIST’s council.
-(8) NZIST’s council must take all reasonably practicable steps to implement a plan approved under this section.
+  (b) after considering the draft plan, approve for Te Pūkenga—New Zealand Institute of Skills and Technology or the related entity some other plan that complies with subsection (3) (whether a modified version of the draft plan or a different plan).
+(6) If the council does not comply with subsection (4), the chief executive may approve for Te Pūkenga—New Zealand Institute of Skills and Technology or the related entity any plan that complies with subsection (3) that the chief executive thinks fit.
+(7) The chief executive may not approve any plan other than a draft plan given to the chief executive before discussing it with Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
+(8) Te Pūkenga—New Zealand Institute of Skills and Technology’s council must take all reasonably practicable steps to implement a plan approved under this section.
 
-### 334 Minister may appoint Crown manager for NZIST
+### 334 Minister may appoint Crown manager for Te Pūkenga—New Zealand Institute of Skills and Technology
 (1) This section applies if the Minister believes on reasonable grounds—
-  (a) that there is a risk to the operation or long-term viability of NZIST or a related entity of NZIST; or
-  (b) that the education and training performance of the students enrolled at NZIST or a related entity of NZIST is at risk.
-(2) The Minister may, by written notice to NZIST’s council, appoint a Crown manager for NZIST.
+  (a) that there is a risk to the operation or long-term viability of Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology; or
+  (b) that the education and training performance of the students enrolled at Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology is at risk.
+(2) The Minister may, by written notice to Te Pūkenga—New Zealand Institute of Skills and Technology’s council, appoint a Crown manager for Te Pūkenga—New Zealand Institute of Skills and Technology.
 (3) The Minister may not appoint a Crown manager under subsection (2) without—
-  (a) giving NZIST’s council written notice of the Minister’s intention to do so and the Minister’s reasons for intending to do so; and
-  (b) allowing NZIST’s council reasonable time (as specified in the notice) to respond to the notice; and
-  (c) considering any written submissions received from NZIST’s council within that time.
+  (a) giving Te Pūkenga—New Zealand Institute of Skills and Technology’s council written notice of the Minister’s intention to do so and the Minister’s reasons for intending to do so; and
+  (b) allowing Te Pūkenga—New Zealand Institute of Skills and Technology’s council reasonable time (as specified in the notice) to respond to the notice; and
+  (c) considering any written submissions received from Te Pūkenga—New Zealand Institute of Skills and Technology’s council within that time.
 (4) Whether a time is reasonable in any particular case may depend (among other things) on the urgency of the matters the Crown manager must deal with.
 (5) The notice must state—
   (a) the name of the Crown manager and the day on which their appointment takes effect; and
-  (b) the functions of NZIST’s council to be performed by the Crown manager; and
+  (b) the functions of Te Pūkenga—New Zealand Institute of Skills and Technology’s council to be performed by the Crown manager; and
   (c) any conditions subject to which the Crown manager may perform those functions; and
-  (d) any matters about which the Crown manager may advise NZIST’s council.
+  (d) any matters about which the Crown manager may advise Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
 (6) As soon as practicable after appointing a Crown manager, the Minister must notify the appointment in the Gazette.
-(7) While there is a Crown manager appointed for NZIST,—
+(7) While there is a Crown manager appointed for Te Pūkenga—New Zealand Institute of Skills and Technology,—
   (a) the Crown manager may perform any of the functions stated in the notice appointing them, and,—
-    (i) for that purpose, the Crown manager has all the powers of NZIST’s council; but
-    (ii) in performing any of those functions (and exercising any of those powers in order to do so) the Crown manager must comply with all relevant duties of NZIST’s council; and
-  (b) NZIST’s council—
+    (i) for that purpose, the Crown manager has all the powers of Te Pūkenga—New Zealand Institute of Skills and Technology’s council; but
+    (ii) in performing any of those functions (and exercising any of those powers in order to do so) the Crown manager must comply with all relevant duties of Te Pūkenga—New Zealand Institute of Skills and Technology’s council; and
+  (b) Te Pūkenga—New Zealand Institute of Skills and Technology’s council—
     (i) may not perform any of those functions; but
     (ii) must provide the information and access, and do all other things, reasonably necessary to enable the Crown manager to perform those functions and exercise those powers.
 (8) The Crown manager must perform any function under subsection (7)﻿(a) (and exercise any power in order to do so) in accordance with this Act and, in particular, must have regard to section 318.
-(9) NZIST’s council must pay the Crown manager’s reasonable fees and expenses.
+(9) Te Pūkenga—New Zealand Institute of Skills and Technology’s council must pay the Crown manager’s reasonable fees and expenses.
 (10) If the Crown manager’s appointment has not been revoked earlier, the Minister must consider whether the reasons for the appointment still apply—
   (a) no later than 12 months after it was made; and
   (b) no later than 12 months after the Minister last considered whether they still apply.
@@ -3803,47 +3803,47 @@ A Crown manager appointed under section 334 is not personally liable for any act
 ### 336 Powers may be used concurrently
 To the extent that it is possible in practice, the powers specified in sections 330 to 334 may be exercised concurrently.
 
-### 337 Minister may dissolve NZIST’s council and appoint commissioner
-(1) The Minister may, by written notice, dissolve NZIST’s council and appoint a commissioner to act in place of the council if the Minister believes on reasonable grounds that—
-  (a) there is a serious risk to the operation or long-term viability of NZIST; and
+### 337 Minister may dissolve Te Pūkenga—New Zealand Institute of Skills and Technology’s council and appoint commissioner
+(1) The Minister may, by written notice, dissolve Te Pūkenga—New Zealand Institute of Skills and Technology’s council and appoint a commissioner to act in place of the council if the Minister believes on reasonable grounds that—
+  (a) there is a serious risk to the operation or long-term viability of Te Pūkenga—New Zealand Institute of Skills and Technology; and
   (b) other methods of reducing the risk have failed or appear likely to fail.
 (2) A notice under subsection (1) must specify—
   (a) the date on which the dissolution and appointment take effect; and
   (b) the name of the person appointed as commissioner.
 (3) The Minister may not exercise the power under subsection (1) unless the Minister has first—
-  (a) consulted NZIST’s council and any other interested parties about the possible need to dissolve the council and appoint a commissioner; and
-  (b) following that consultation, given the council written notice of the Minister’s preliminary decision that NZIST’s council should be dissolved and a commissioner appointed in its place; and
-  (c) allowed NZIST’s council at least 21 days in which to respond to the preliminary decision; and
-  (d) considered any submissions made by NZIST’s council about why the preliminary decision should not be confirmed.
+  (a) consulted Te Pūkenga—New Zealand Institute of Skills and Technology’s council and any other interested parties about the possible need to dissolve the council and appoint a commissioner; and
+  (b) following that consultation, given the council written notice of the Minister’s preliminary decision that Te Pūkenga—New Zealand Institute of Skills and Technology’s council should be dissolved and a commissioner appointed in its place; and
+  (c) allowed Te Pūkenga—New Zealand Institute of Skills and Technology’s council at least 21 days in which to respond to the preliminary decision; and
+  (d) considered any submissions made by Te Pūkenga—New Zealand Institute of Skills and Technology’s council about why the preliminary decision should not be confirmed.
 (4) As soon as practicable after giving a notice under subsection (1), the Minister must—
   (a) publish a copy of it in the Gazette; and
   (b) present a copy of it to the House of Representatives.
 (5) When a commissioner is appointed under this section, the Minister must review the appointment at least once in every 12 months following the appointment.
-(6) As soon as the Minister is satisfied (following an annual review or at any other time) that the risk that gave rise to the appointment of the commissioner has been reduced enough so that it is appropriate that NZIST be administered by a council, a new council must be appointed in accordance with sections 320 to 323.
+(6) As soon as the Minister is satisfied (following an annual review or at any other time) that the risk that gave rise to the appointment of the commissioner has been reduced enough so that it is appropriate that Te Pūkenga—New Zealand Institute of Skills and Technology be administered by a council, a new council must be appointed in accordance with sections 320 to 323.
 (7) A commissioner’s appointment ends on the close of the day before a new council takes office.
 (8) Sections 291, 292, and 293 apply, with any necessary modifications, as if a commissioner appointed under subsection (1) were appointed under section 290.
 
-### 338 NZIST’s council may request intervention
-If NZIST’s council requests the Minister or the chief executive of TEC to act under any of sections 331 to 337, the Minister or the chief executive—
-  (a) must consider any submission or evidence supplied by NZIST’s council; and
+### 338 Te Pūkenga—New Zealand Institute of Skills and Technology’s council may request intervention
+If Te Pūkenga—New Zealand Institute of Skills and Technology’s council requests the Minister or the chief executive of TEC to act under any of sections 331 to 337, the Minister or the chief executive—
+  (a) must consider any submission or evidence supplied by Te Pūkenga—New Zealand Institute of Skills and Technology’s council; and
   (b) must consider whether to act under that section; but
   (c) may then (if any necessary conditions are satisfied) act under another of those sections giving them power to act.
 
-**Application of Crown Entities Act 2004 to NZIST’s council**
+**Application of Crown Entities Act 2004 to Te Pūkenga—New Zealand Institute of Skills and Technology’s council**
 
-### 339 Additional provisions of Crown Entities Act 2004 that apply to NZIST’s council
-(1) The provisions set out in Part 2 of Schedule 4 of the Crown Entities Act 2004 apply to NZIST and NZIST’s council.
-(2) NZIST must be treated as a statutory entity for the purpose of applying those provisions.
+### 339 Additional provisions of Crown Entities Act 2004 that apply to Te Pūkenga—New Zealand Institute of Skills and Technology’s council
+(1) The provisions set out in Part 2 of Schedule 4 of the Crown Entities Act 2004 apply to Te Pūkenga—New Zealand Institute of Skills and Technology and Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
+(2) Te Pūkenga—New Zealand Institute of Skills and Technology must be treated as a statutory entity for the purpose of applying those provisions.
 
-**Further provisions relating to NZIST subsidiaries**
+**Further provisions relating to Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries**
 
-### 340 Formation of NZIST subsidiaries and provisions that apply
-(1) NZIST may form 1 or more NZIST subsidiaries.
-(2) Schedule 15 specifies other provisions of this Act that apply and do not apply to an NZIST subsidiary formed under subsection (1) that provides education or training, or both.
-(3) The Governor-General may, by Order in Council made on the recommendation of the Minister, specify provisions of this Act that do not apply to an NZIST subsidiary formed under subsection (1) that does not provide education or training, or both.
+### 340 Formation of Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries and provisions that apply
+(1) Te Pūkenga—New Zealand Institute of Skills and Technology may form 1 or more Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries.
+(2) Schedule 15 specifies other provisions of this Act that apply and do not apply to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary formed under subsection (1) that provides education or training, or both.
+(3) The Governor-General may, by Order in Council made on the recommendation of the Minister, specify provisions of this Act that do not apply to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary formed under subsection (1) that does not provide education or training, or both.
 
 ### 341 Application of Schedule 14
-Schedule 14 applies to an NZIST subsidiary on its dissolution date (as defined in clause 1 of that schedule).
+Schedule 14 applies to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary on its dissolution date (as defined in clause 1 of that schedule).
 
 ### Subpart 5 — Private training establishments
 
@@ -4364,8 +4364,8 @@ A private training establishment that fails, without reasonable excuse, to compl
     (i) is a university; or
     (ii) is a registered establishment or wānanga that has the Minister's consent under section 456 to use the term; or
     (iii) was a university but, despite being incorporated under section 270(4) into another institution, retains the characteristics of a university as set out in section 268(2)﻿(d)﻿(i) and (ii)﻿(A):
-  (b) uses the term polytechnic to describe an educational establishment or facility unless the educational establishment or facility is NZIST or an NZIST subsidiary:
-  (c) uses the term institute of technology to describe an educational establishment or facility unless the educational establishment or facility is NZIST or an NZIST subsidiary.
+  (b) uses the term polytechnic to describe an educational establishment or facility unless the educational establishment or facility is Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary:
+  (c) uses the term institute of technology to describe an educational establishment or facility unless the educational establishment or facility is Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
 (2) A person, other than a university, commits an offence if the person grants or purports to grant an award that is described as a degree, or the description of which includes the word bachelor, master, doctor, or postgraduate, unless the person has the consent of NZQA.
 (3) A person commits an offence if the person, without the consent of NZQA, grants or purports to grant an award that (or the name or description of which) includes the word national or the words New Zealand.
 (4) A person who commits an offence against this section is liable on conviction to a fine not exceeding $10,000.
@@ -4419,7 +4419,7 @@ A private training establishment that contravenes section 343 commits an offence
 
 ### 395 Offences relating to enrolment of international students at private training establishments or institutions
 (1) A private training establishment that contravenes section 527(1) or (2) commits an offence and is liable on conviction to a fine not exceeding $10,000.
-(2) The council of an institution (including an NZIST subsidiary) that contravenes section 525 commits an offence and is liable on conviction to a fine not exceeding $10,000.
+(2) The council of an institution (including an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary) that contravenes section 525 commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 396 Offences relating to allowances and student loans
 (1) A person commits an offence, and is liable on conviction to a fine not exceeding $2,000, if the person, in response to a requirement under clause 3(1) of Schedule 9 or a question asked under clause 3(3) of Schedule 9, knowingly—
@@ -4521,11 +4521,11 @@ The chief executive of TEC—
   (a) must, on an ongoing basis, monitor institutions that receive funding in order to assess whether the operation or long-term viability of any of those institutions is at risk; and
   (b) may report to the Minister on the outcome of that monitoring.
 
-### 406 Additional requirement of NZIST’s council to provide information
-(1) The chief executive of TEC may, by written notice to NZIST’s council, require it to provide any information that the chief executive considers is reasonably required in relation to the operation of NZIST or any related entity of NZIST for the purpose of determining whether there is a risk to, or arising from,—
-  (a) the governance, management, or financial position of NZIST or a related entity of NZIST; or
-  (b) the education and training performance of students enrolled at NZIST or a related entity of NZIST.
-(2) If NZIST’s council receives a notice under subsection (1), it must provide the chief executive of TEC with the required information within the period specified in the notice.
+### 406 Additional requirement of Te Pūkenga—New Zealand Institute of Skills and Technology’s council to provide information
+(1) The chief executive of TEC may, by written notice to Te Pūkenga—New Zealand Institute of Skills and Technology’s council, require it to provide any information that the chief executive considers is reasonably required in relation to the operation of Te Pūkenga—New Zealand Institute of Skills and Technology or any related entity of Te Pūkenga—New Zealand Institute of Skills and Technology for the purpose of determining whether there is a risk to, or arising from,—
+  (a) the governance, management, or financial position of Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology; or
+  (b) the education and training performance of students enrolled at Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology.
+(2) If Te Pūkenga—New Zealand Institute of Skills and Technology’s council receives a notice under subsection (1), it must provide the chief executive of TEC with the required information within the period specified in the notice.
 (3) The chief executive of TEC may revoke or amend a notice given under subsection (1).
 
 ### 407 Declaration of interests
@@ -4662,7 +4662,7 @@ Despite section 6 of the Commerce Act 1986, nothing in that Act applies to TEC e
       (C) invites submissions on the proposed conditions; and
       (D) specifies the date by which submissions must be received, which must be a date no later than 21 days after the date of the Gazette notice; and
     (ii) the date by which submissions must be received has passed.
-(2) However, the Minister may direct that funding be provided to NZIST via a funding mechanism if the Minister reasonably considers that it is consistent with the efficient use of national resources and in the national interest to do so.
+(2) However, the Minister may direct that funding be provided to Te Pūkenga—New Zealand Institute of Skills and Technology via a funding mechanism if the Minister reasonably considers that it is consistent with the efficient use of national resources and in the national interest to do so.
 
 ### 421 Funding mechanisms consistent with quality assurance principle
 Every funding mechanism must be consistent with the principle that receiving public funds is dependent on an organisation meeting the quality assurance requirements in this Act.
@@ -7183,8 +7183,8 @@ A direction expires on the earlier of—
 
 ### 658 Academic freedom unaffected
 Nothing in sections 653 to 657 limits the academic freedom of—
-  (a) an institution other than NZIST as set out in section 267:
-  (b) NZIST as set out in section 318.
+  (a) an institution other than Te Pūkenga—New Zealand Institute of Skills and Technology as set out in section 267:
+  (b) Te Pūkenga—New Zealand Institute of Skills and Technology as set out in section 318.
 
 ### 659 Power of boards to close schools
 (1) Despite anything in Schedule 21, a board may close a school it administers because of an epidemic, a flood, a fire, or any other emergency.
@@ -7462,8 +7462,8 @@ An enrolment scheme that complies with section 71 (regardless of whether that se
 
 **Institutions**
 
-### 14 Institutions (other than NZIST or NZIST subsidiary)
-(1) This clause applies to an institution (other than NZIST or an NZIST subsidiary) in existence immediately before the commencement of this clause.
+### 14 Institutions (other than Te Pūkenga—New Zealand Institute of Skills and Technology or Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary)
+(1) This clause applies to an institution (other than Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary) in existence immediately before the commencement of this clause.
 (2) The institution must be treated as having been established under section 268.
 (3) A reference in any other Act to an institution established under this Act must be read as including a reference to a body specified in the definition of institution in section 10(1).
 
@@ -7484,58 +7484,58 @@ An enrolment scheme that complies with section 71 (regardless of whether that se
 (2) The terms and conditions of employment of a person to whom subclause (1) applies must remain in force until varied either individually or through a collective agreement.
 (3) This clause applies subject to the Employment Relations Act 2000 and the Public Service Act 2020.
 
-#### Subpart 5 — Specific provisions for Part 4 (NZIST and work-based training)
+#### Subpart 5 — Specific provisions for Part 4 (Te Pūkenga—New Zealand Institute of Skills and Technology and work-based training)
 
 ### 18 Purpose
-(1) The purpose of this subpart is to re-enact the provisions set out in Part 10 of Schedule 1 of the 1989 Act relating to NZIST and workforce development councils that came into force on 1 April 2020 and are operative on and after that date in order to continue their legal effect.
+(1) The purpose of this subpart is to re-enact the provisions set out in Part 10 of Schedule 1 of the 1989 Act relating to Te Pūkenga—New Zealand Institute of Skills and Technology and workforce development councils that came into force on 1 April 2020 and are operative on and after that date in order to continue their legal effect.
 (2) Anything done under Part 10 of Schedule 1 of the 1989 Act before the commencement of this subpart is to be treated as having been done under this subpart.
 
 ### 19 Interpretation
 In this subpart, unless the context otherwise requires,—
-  - **corresponding NZIST subsidiary** , in relation to an existing polytechnic, means the Crown entity subsidiary specified in the second column of the table in clause 20(3) opposite the name of the existing polytechnic specified in the first column of the table
+  - **corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary** , in relation to an existing polytechnic, means the Crown entity subsidiary specified in the second column of the table in clause 20(3) opposite the name of the existing polytechnic specified in the first column of the table
   - **existing polytechnic** or means each polytechnic that is listed in the first column of the table in clause 20(3) and that was established or treated as having been established under section 268 before 1 April 2020 and in existence immediately before that date.
 
-**Conversion of polytechnics to corresponding NZIST subsidiaries**
+**Conversion of polytechnics to corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries**
 
-### 20 Polytechnics converted to corresponding NZIST subsidiaries
-(1) On and after 1 April 2020, an existing polytechnic is a Crown entity subsidiary of NZIST and the following provisions apply for that purpose:
+### 20 Polytechnics converted to corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries
+(1) On and after 1 April 2020, an existing polytechnic is a Crown entity subsidiary of Te Pūkenga—New Zealand Institute of Skills and Technology and the following provisions apply for that purpose:
   (a) the polytechnic is to be treated as a company registered under the Companies Act 1993 with the name specified in the second column of the table in subclause (3) opposite the name of the polytechnic specified in the first column of that table; and
   (b) the Registrar of Companies must issue a certificate of incorporation for the company; and
-  (c) 100 shares must be treated as having been issued to NZIST.
-(2) The certificate of incorporation is conclusive evidence that the corresponding NZIST subsidiary was, on and after 1 April 2020, registered as a company under the Companies Act 1993.
-(3) For the purposes of subclause (1)﻿(a), the name of the corresponding NZIST subsidiary is:The following table is small in size and has 2 columns. Column 1 is headed Name of polytechnic. Column 2 is headed Name of corresponding NZIST subsidiary.Name of existing polytechnicName of corresponding NZIST subsidiaryAra Institute of Canterbury Ara Institute of Canterbury LimitedEastern Institute of Technology (Te Aho a Māui)Eastern Institute of Technology (Te Aho a Māui) LimitedManukau Institute of Technology Manukau Institute of Technology Limited Nelson Marlborough Institute of Technology Nelson Marlborough Institute of Technology LimitedNorthland PolytechnicNorthland Polytechnic LimitedOtago Polytechnic Otago Polytechnic Limited Southern Institute of TechnologySouthern Institute of Technology LimitedTai Poutini Polytechnic Tai Poutini Polytechnic LimitedThe Open Polytechnic of New Zealand The Open Polytechnic of New Zealand LimitedToi Ohomai Institute of TechnologyToi Ohomai Institute of Technology LimitedUnitec Institute of Technology Unitec New Zealand Limited Universal College of LearningUniversal College of Learning LimitedWaikato Institute of Technology Waikato Institute of Technology LimitedWellington Institute of Technology Wellington Institute of Technology LimitedWestern Institute of Technology at TaranakiWestern Institute of Technology at Taranaki Limited Whitireia Community PolytechnicWhitireia Community Polytechnic Limited
+  (c) 100 shares must be treated as having been issued to Te Pūkenga—New Zealand Institute of Skills and Technology.
+(2) The certificate of incorporation is conclusive evidence that the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary was, on and after 1 April 2020, registered as a company under the Companies Act 1993.
+(3) For the purposes of subclause (1)﻿(a), the name of the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary is:The following table is small in size and has 2 columns. Column 1 is headed Name of polytechnic. Column 2 is headed Name of corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.Name of existing polytechnicName of corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaryAra Institute of Canterbury Ara Institute of Canterbury LimitedEastern Institute of TechnologyEastern Institute of Technology LimitedManukau Institute of Technology Manukau Institute of Technology Limited Nelson Marlborough Institute of Technology Nelson Marlborough Institute of Technology LimitedNorthland PolytechnicNorthland Polytechnic LimitedOtago Polytechnic Otago Polytechnic Limited Southern Institute of TechnologySouthern Institute of Technology LimitedTai Poutini Polytechnic Tai Poutini Polytechnic LimitedThe Open Polytechnic of New Zealand The Open Polytechnic of New Zealand LimitedToi Ohomai Institute of TechnologyToi Ohomai Institute of Technology LimitedUnitec Institute of Technology Unitec New Zealand Limited Universal College of LearningUniversal College of Learning LimitedWaikato Institute of Technology Waikato Institute of Technology LimitedWellington Institute of Technology Wellington Institute of Technology LimitedWestern Institute of Technology at TaranakiWestern Institute of Technology at Taranaki Limited Whitireia Community PolytechnicWhitireia Community Polytechnic Limited
 
-**Duration of corresponding NZIST subsidiaries**
+**Duration of corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries**
 
-### 21 Duration of corresponding NZIST subsidiaries
-(1) Each corresponding NZIST subsidiary continues in existence until the close of 31 December 2022.
-(2) However, the Governor-General may, by Order in Council made on the recommendation of the Minister, extend the period that any particular corresponding NZIST subsidiary may continue to exist to a date specified in the order.
-(3) Before making a recommendation under subclause (2), the Minister must consult NZIST on the proposed extension and take into account NZIST’s views.
+### 21 Duration of corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries
+(1) Each corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary continues in existence until the close of 31 December 2022.
+(2) However, the Governor-General may, by Order in Council made on the recommendation of the Minister, extend the period that any particular corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary may continue to exist to a date specified in the order.
+(3) Before making a recommendation under subclause (2), the Minister must consult Te Pūkenga—New Zealand Institute of Skills and Technology on the proposed extension and take into account Te Pūkenga—New Zealand Institute of Skills and Technology’s views.
 (4) The Minister must not recommend an extension under subclause (2) unless the Minister is satisfied on reasonable grounds that the extension is—
-  (a) consistent with NZIST’s responsibilities under the charter set out in Schedule 13; and
+  (a) consistent with Te Pūkenga—New Zealand Institute of Skills and Technology’s responsibilities under the charter set out in Schedule 13; and
   (b) in the interests of the tertiary education system and the nation as a whole.
 
-### 22 NZIST’s council may dissolve corresponding NZIST subsidiary
-NZIST’s council may, by resolution, at any time before the date specified in clause 21(1) or by Order in Council under clause 21(2), dissolve a corresponding NZIST subsidiary and transfer some or all of the rights, assets, and liabilities of that subsidiary to NZIST or another NZIST subsidiary (whether established under clause 20(1) or formed by NZIST under section 340).
+### 22 Te Pūkenga—New Zealand Institute of Skills and Technology’s council may dissolve corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
+Te Pūkenga—New Zealand Institute of Skills and Technology’s council may, by resolution, at any time before the date specified in clause 21(1) or by Order in Council under clause 21(2), dissolve a corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary and transfer some or all of the rights, assets, and liabilities of that subsidiary to Te Pūkenga—New Zealand Institute of Skills and Technology or another Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary (whether established under clause 20(1) or formed by Te Pūkenga—New Zealand Institute of Skills and Technology under section 340).
 
-**Consequences of conversion of polytechnics to corresponding NZIST subsidiaries**
+**Consequences of conversion of polytechnics to corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries**
 
-### 23 Directors of corresponding NZIST subsidiary
-(1) The directors of each corresponding NZIST subsidiary must comprise at least 4, but not more than 8, directors.
-(2) In appointing directors under subclause (1), NZIST must ensure that at least half of the initial directors reside in the region in which the corresponding NZIST subsidiary mainly operates.
+### 23 Directors of corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
+(1) The directors of each corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary must comprise at least 4, but not more than 8, directors.
+(2) In appointing directors under subclause (1), Te Pūkenga—New Zealand Institute of Skills and Technology must ensure that at least half of the initial directors reside in the region in which the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary mainly operates.
 
-### 24 Application of this Act to corresponding NZIST subsidiary
-The provisions of this Act, as far as they relate to an NZIST subsidiary that provides education or training (or both) apply, with any necessary modifications, to each corresponding NZIST subsidiary during the period that the corresponding NZIST subsidiary exists in accordance with clause 21 or 22.
+### 24 Application of this Act to corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
+The provisions of this Act, as far as they relate to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary that provides education or training (or both) apply, with any necessary modifications, to each corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary during the period that the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary exists in accordance with clause 21 or 22.
 
-### 25 Corresponding NZIST subsidiary is tertiary education organisation, provider, and institution for purposes of this Act
-(1) On and after 1 April 2020, each NZIST subsidiary is to be treated,—
-  (a) until 31 December 2022, as a tertiary education organisation within the meaning of section 10(1), and the provisions of this Act relating to tertiary education organisations apply to it accordingly as if those provisions included a reference to the NZIST subsidiary:
-  (b) as a provider within the meaning of section 10(1), and the provisions of this Act relating to providers apply to it accordingly as if those provisions included a reference to the NZIST subsidiary:
-  (c) as a specified user within the meaning of section 10(1), and the provisions of this Act or any regulations made under this Act relating to national student numbers apply to it accordingly as if those provisions included a reference to the NZIST subsidiary:
+### 25 Corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary is tertiary education organisation, provider, and institution for purposes of this Act
+(1) On and after 1 April 2020, each Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary is to be treated,—
+  (a) until 31 December 2022, as a tertiary education organisation within the meaning of section 10(1), and the provisions of this Act relating to tertiary education organisations apply to it accordingly as if those provisions included a reference to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary:
+  (b) as a provider within the meaning of section 10(1), and the provisions of this Act relating to providers apply to it accordingly as if those provisions included a reference to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary:
+  (c) as a specified user within the meaning of section 10(1), and the provisions of this Act or any regulations made under this Act relating to national student numbers apply to it accordingly as if those provisions included a reference to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary:
   (d) as an institution within the meaning of section 10(1), and the provisions referred to in subclause (3) apply to it accordingly as if—
-    (i) those provisions included a reference to the NZIST subsidiary; and
-    (ii) any reference in those provisions to the council of an institution were a reference to the board of the NZIST subsidiary.
-(2) For the purposes of subclause (1)﻿(a), TEC may consider a proposed plan of an NZIST subsidiary and fund that subsidiary for an academic year beginning on or after 1 January 2021 but only if requested by NZIST.
+    (i) those provisions included a reference to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary; and
+    (ii) any reference in those provisions to the council of an institution were a reference to the board of the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
+(2) For the purposes of subclause (1)﻿(a), TEC may consider a proposed plan of an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary and fund that subsidiary for an academic year beginning on or after 1 January 2021 but only if requested by Te Pūkenga—New Zealand Institute of Skills and Technology.
 (3) For the purposes of subclause (1)﻿(d), the provisions are—
   (a) sections 284, 309, 310, 386, 525, and 526:
   (b) subparts 1 and 2 of Part 4:
@@ -7549,41 +7549,41 @@ The provisions of this Act, as far as they relate to an NZIST subsidiary that pr
 ### 27 Rights, assets, and liabilities of existing polytechnics
 (1) This clause applies to all rights, assets, and liabilities that an existing polytechnic had immediately before 1 April 2020.
 (2) On and after 1 April 2020,—
-  (a) the rights, assets, and liabilities of the existing polytechnic vest in the existing polytechnic’s corresponding NZIST subsidiary; and
-  (b) unless the context otherwise requires, every reference to the existing polytechnic in any enactment (other than this Act), instrument, agreement, deed, lease, application, notice, or other document before that date must be read as a reference to the polytechnic’s corresponding NZIST subsidiary.
+  (a) the rights, assets, and liabilities of the existing polytechnic vest in the existing polytechnic’s corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary; and
+  (b) unless the context otherwise requires, every reference to the existing polytechnic in any enactment (other than this Act), instrument, agreement, deed, lease, application, notice, or other document before that date must be read as a reference to the polytechnic’s corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
 (3) In this clause, assets, liabilities, and rights have the same meanings as in section 10(6).
 
 ### 28 Same person for purposes of Inland Revenue Acts
-For the purposes of the Inland Revenue Acts (as defined in section 3(1) of the Tax Administration Act 1994), a corresponding NZIST subsidiary must be treated as the same person as the existing polytechnic.
+For the purposes of the Inland Revenue Acts (as defined in section 3(1) of the Tax Administration Act 1994), a corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary must be treated as the same person as the existing polytechnic.
 
 ### 29 Employees of existing polytechnics
-(1) On and after 1 April 2020, every employee of an existing polytechnic becomes an employee of the polytechnic’s corresponding NZIST subsidiary on the same terms and conditions that applied to the person immediately before they became an employee of the corresponding NZIST subsidiary.
+(1) On and after 1 April 2020, every employee of an existing polytechnic becomes an employee of the polytechnic’s corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary on the same terms and conditions that applied to the person immediately before they became an employee of the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
 (2) For the purposes of every enactment, law, determination, contract, and agreement relating to the employment of that employee,—
   (a) the employee’s employment agreement of that employee is to be treated as unbroken; and
-  (b) the employee’s period of service with the existing polytechnic, and every other period of service of the employee that is recognised by the polytechnic as continuous service, is to be treated as a period of service with the polytechnic’s corresponding NZIST subsidiary.
-(3) To avoid doubt, the employment of an employee to whom this clause applies by a polytechnic’s corresponding NZIST subsidiary does not constitute new employment for the purposes of any service-related benefits, whether legislative or otherwise.
-(4) An employee to whom this clause applies is not entitled to receive any payment or benefit from an existing polytechnic or its corresponding NZIST subsidiary on the grounds that the person’s position in the polytechnic has ceased to exist or the person has ceased to be an employee of the polytechnic as a result of the transfer to its corresponding NZIST subsidiary.
+  (b) the employee’s period of service with the existing polytechnic, and every other period of service of the employee that is recognised by the polytechnic as continuous service, is to be treated as a period of service with the polytechnic’s corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
+(3) To avoid doubt, the employment of an employee to whom this clause applies by a polytechnic’s corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary does not constitute new employment for the purposes of any service-related benefits, whether legislative or otherwise.
+(4) An employee to whom this clause applies is not entitled to receive any payment or benefit from an existing polytechnic or its corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary on the grounds that the person’s position in the polytechnic has ceased to exist or the person has ceased to be an employee of the polytechnic as a result of the transfer to its corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
 (5) This clause overrides—
   (a) Part 6A of the Employment Relations Act 2000; and
   (b) any employment protection provision in any relevant employment agreement.
 
 ### 30 Government Superannuation Fund
-(1) This clause applies to a person who, immediately before becoming an employee of a corresponding NZIST subsidiary, was a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956.
-(2) For the purposes of the Government Superannuation Fund Act 1956, the person is treated as being employed in the Government service as long as the person continues to be an employee of the corresponding NZIST subsidiary.
-(3) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person’s service as an employee of the corresponding NZIST subsidiary were Government service.
+(1) This clause applies to a person who, immediately before becoming an employee of a corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, was a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956.
+(2) For the purposes of the Government Superannuation Fund Act 1956, the person is treated as being employed in the Government service as long as the person continues to be an employee of the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
+(3) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person’s service as an employee of the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary were Government service.
 (4) Subclause (1) does not entitle a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
-(5) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the corresponding NZIST subsidiary is the controlling authority.
+(5) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary is the controlling authority.
 
 ### 31 Students of existing polytechnics
 (1) This clause applies to every student enrolled at an existing polytechnic immediately before 1 April 2020.
-(2) On and after 1 April 2020, the student must be treated as having been enrolled at the existing polytechnic’s corresponding NZIST subsidiary.
-(3) A student who would, but for the conversion of the existing polytechnic into its corresponding NZIST subsidiary, have been entitled to be granted an award of the existing polytechnic is entitled to be granted a like award of the corresponding NZIST subsidiary.
+(2) On and after 1 April 2020, the student must be treated as having been enrolled at the existing polytechnic’s corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
+(3) A student who would, but for the conversion of the existing polytechnic into its corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, have been entitled to be granted an award of the existing polytechnic is entitled to be granted a like award of the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
 
 ### 32 Visas granted under Immigration Act 2009
 (1) This clause applies to a visa granted under the Immigration Act 2009 in respect of—
   (a) a student, for the purposes of enrolment at an existing polytechnic; or
   (b) a staff member of an existing polytechnic.
-(2) On and after 1 April 2020, any reference to the existing polytechnic in a condition imposed on the visa must be read as a reference to the polytechnic’s corresponding NZIST subsidiary.
+(2) On and after 1 April 2020, any reference to the existing polytechnic in a condition imposed on the visa must be read as a reference to the polytechnic’s corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
 
 ### 33 Existing NZQA approvals, accreditations, and consents
 (1) This clause applies to the following granted to an existing polytechnic by NZQA under Part 20 of the 1989 Act before 1 April 2020 and in effect immediately before that date:
@@ -7593,60 +7593,60 @@ For the purposes of the Inland Revenue Acts (as defined in section 3(1) of the T
   (d) a consent to assess against the standards listed in the Directory of Assessment Standards under section 449:
   (e) a consent to award a degree or a postgraduate qualification under section 454.
 (2) On and after 1 April 2020,—
-  (a) except as provided in subclause (3), the approval, accreditation, or consent (including any conditions imposed on an approval, an accreditation, or a consent) must be treated as if it were granted to the existing polytechnic’s corresponding NZIST subsidiary; and
-  (b) unless the context otherwise requires, every reference to the existing polytechnic in the approval, accreditation, or consent must be read as a reference to the polytechnic’s corresponding NZIST subsidiary.
-(3) On and after 1 January 2023, the approval of a programme under section 439 and the consent to award a degree or a postgraduate qualification under section 454 must be treated as if they were granted to NZIST.
+  (a) except as provided in subclause (3), the approval, accreditation, or consent (including any conditions imposed on an approval, an accreditation, or a consent) must be treated as if it were granted to the existing polytechnic’s corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary; and
+  (b) unless the context otherwise requires, every reference to the existing polytechnic in the approval, accreditation, or consent must be read as a reference to the polytechnic’s corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
+(3) On and after 1 January 2023, the approval of a programme under section 439 and the consent to award a degree or a postgraduate qualification under section 454 must be treated as if they were granted to Te Pūkenga—New Zealand Institute of Skills and Technology.
 
 ### 34 Existing funding paid by TEC under funding mechanism
 (1) This clause applies to funding (including any conditions imposed on the funding) payable by the Commission to an existing polytechnic—
   (a) in accordance with an approval granted under section 425(2); or
   (b) other than via a plan under section 428.
 (2) On and after 1 April 2020,—
-  (a) the Commission must treat the funding as if it were payable to the polytechnic’s corresponding NZIST subsidiary until the close of 31 December 2020, unless that funding is earlier suspended, revoked, or withdrawn under clause 16 or 26 of Schedule 18 or the subsidiary is earlier dissolved in accordance with clause 22; and
-  (b) for the purposes of paragraph (a), every reference to the existing polytechnic in an approval granted under section 425(2) must, unless the context otherwise requires, be read as a reference to the polytechnic’s corresponding NZIST subsidiary.
+  (a) the Commission must treat the funding as if it were payable to the polytechnic’s corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary until the close of 31 December 2020, unless that funding is earlier suspended, revoked, or withdrawn under clause 16 or 26 of Schedule 18 or the subsidiary is earlier dissolved in accordance with clause 22; and
+  (b) for the purposes of paragraph (a), every reference to the existing polytechnic in an approval granted under section 425(2) must, unless the context otherwise requires, be read as a reference to the polytechnic’s corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
 
 ### 35 Other references to existing polytechnics
-On and after 1 April 2020, every reference to an existing polytechnic in any enactment (other than this Act) or document must, unless the context otherwise requires, be read as a reference to the polytechnic’s corresponding NZIST subsidiary.
+On and after 1 April 2020, every reference to an existing polytechnic in any enactment (other than this Act) or document must, unless the context otherwise requires, be read as a reference to the polytechnic’s corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
 
 ### 36 Existing proceedings and other matters
 (1) On and after 1 April 2020,—
-  (a) any proceedings by or against an existing polytechnic may be continued or enforced by or against its corresponding NZIST subsidiary without amendment to the proceedings; and
-  (b) a matter or thing that would, but for this clause, have been completed by the existing polytechnic may be completed by its corresponding NZIST subsidiary; and
-  (c) anything done, or omitted to be done, or that is to be done, by or in relation to the existing polytechnic is to be treated as having been done, or having been omitted to be done, or to be done, by or in relation to its corresponding NZIST subsidiary.
+  (a) any proceedings by or against an existing polytechnic may be continued or enforced by or against its corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary without amendment to the proceedings; and
+  (b) a matter or thing that would, but for this clause, have been completed by the existing polytechnic may be completed by its corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary; and
+  (c) anything done, or omitted to be done, or that is to be done, by or in relation to the existing polytechnic is to be treated as having been done, or having been omitted to be done, or to be done, by or in relation to its corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
 (2) In subclause (1)﻿(a), proceedings—
   (a) means civil and criminal proceedings; and
   (b) includes any enforcement or compliance action by TEC or NZQA.
 
 ### 37 Final report of existing polytechnics
-(1) Each corresponding NZIST subsidiary must provide a final report to the Minister in relation to the polytechnic from which the corresponding NZIST subsidiary was formed in accordance with clause 20.
-(2) For the purposes of section 45L of the Public Finance Act 1989, an existing polytechnic that is converted into a corresponding NZIST subsidiary must be treated as if it were disestablished and its operations were transferred to the corresponding NZIST subsidiary.
+(1) Each corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary must provide a final report to the Minister in relation to the polytechnic from which the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary was formed in accordance with clause 20.
+(2) For the purposes of section 45L of the Public Finance Act 1989, an existing polytechnic that is converted into a corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary must be treated as if it were disestablished and its operations were transferred to the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
 (3) Despite subpart 1 of Part 5 of the Public Finance Act 1989, the Minister may specify the contents of the final report and the date or dates by which the contents of the report must be provided.
 (4) The Minister must present a copy of the final report to the House of Representatives as soon as practicable after receiving it.
 
-**NZIST**
+**Te Pūkenga—New Zealand Institute of Skills and Technology**
 
-### 38 Validation of pre-commencement actions and processes relating to ministerial appointments to NZIST’s council
-(1) This clause applies to any action or process undertaken by the Minister before 1 April 2020 when appointing members to NZIST’s council.
+### 38 Validation of pre-commencement actions and processes relating to ministerial appointments to Te Pūkenga—New Zealand Institute of Skills and Technology’s council
+(1) This clause applies to any action or process undertaken by the Minister before 1 April 2020 when appointing members to Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
 (2) An appointment is valid if the action or process substantially complies with this Act.
 
-### 39 Membership of NZIST’s council reduced until all appointments made
-(1) The number of NZIST council members is proportionately reduced until the date on which each member referred to in section 320(1)﻿(a), (b), and (c) is appointed to the council.
-(2) No action of NZIST’s council is invalid merely because any member referred to in subclause (1) has not been appointed to NZIST’s council on 1 April 2020.
+### 39 Membership of Te Pūkenga—New Zealand Institute of Skills and Technology’s council reduced until all appointments made
+(1) The number of Te Pūkenga—New Zealand Institute of Skills and Technology council members is proportionately reduced until the date on which each member referred to in section 320(1)﻿(a), (b), and (c) is appointed to the council.
+(2) No action of Te Pūkenga—New Zealand Institute of Skills and Technology’s council is invalid merely because any member referred to in subclause (1) has not been appointed to Te Pūkenga—New Zealand Institute of Skills and Technology’s council on 1 April 2020.
 
-### 40 NZIST must obtain ministerial approval before forming new subsidiary
-(1) NZIST must obtain ministerial approval before forming a subsidiary under section 340(1).
+### 40 Te Pūkenga—New Zealand Institute of Skills and Technology must obtain ministerial approval before forming new subsidiary
+(1) Te Pūkenga—New Zealand Institute of Skills and Technology must obtain ministerial approval before forming a subsidiary under section 340(1).
 (2) The requirement in subclause (1) ceases to apply on the close of 31 December 2024.
 
-### 41 NZIST subsidiary is tertiary education organisation, provider, and institution
-(1) This clause applies to an NZIST subsidiary formed by NZIST on or after 1 April 2020 under section 340 that provides education or training, or both.
-(2) The NZIST subsidiary must be treated as—
-  (a) a tertiary education organisation within the meaning of section 10(1), and the provisions of this Act relating to tertiary education organisations apply to it accordingly as if those provisions included a reference to the NZIST subsidiary:
-  (b) a provider within the meaning of section 10(1), and the provisions of this Act relating to providers apply to it accordingly as if those provisions included a reference to the NZIST subsidiary:
-  (c) a specified user within the meaning of section 10(1), and the provisions of this Act or any regulations made under this Act relating to national student numbers apply to it accordingly as if those provisions included a reference to the NZIST subsidiary:
+### 41 Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary is tertiary education organisation, provider, and institution
+(1) This clause applies to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary formed by Te Pūkenga—New Zealand Institute of Skills and Technology on or after 1 April 2020 under section 340 that provides education or training, or both.
+(2) The Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary must be treated as—
+  (a) a tertiary education organisation within the meaning of section 10(1), and the provisions of this Act relating to tertiary education organisations apply to it accordingly as if those provisions included a reference to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary:
+  (b) a provider within the meaning of section 10(1), and the provisions of this Act relating to providers apply to it accordingly as if those provisions included a reference to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary:
+  (c) a specified user within the meaning of section 10(1), and the provisions of this Act or any regulations made under this Act relating to national student numbers apply to it accordingly as if those provisions included a reference to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary:
   (d) an institution within the meaning of section 10(1), and the provisions referred to in subclause (4) apply to it accordingly as if—
-    (i) those provisions included a reference to the NZIST subsidiary; and
-    (ii) any reference in those provisions to the council of an institution were a reference to the board of the NZIST subsidiary.
-(3) For the purposes of subclause (2)﻿(a), the Commission may consider a proposed plan of the NZIST subsidiary and fund that subsidiary for an academic year beginning on or after 1 January 2021 but only if requested by NZIST.
+    (i) those provisions included a reference to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary; and
+    (ii) any reference in those provisions to the council of an institution were a reference to the board of the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
+(3) For the purposes of subclause (2)﻿(a), the Commission may consider a proposed plan of the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary and fund that subsidiary for an academic year beginning on or after 1 January 2021 but only if requested by Te Pūkenga—New Zealand Institute of Skills and Technology.
 (4) For the purposes of subclause (2)﻿(d), the provisions are—
   (a) sections 284, 309, 310, 386, 525, and 526:
   (b) subparts 1 and 2 of Part 4:
@@ -7804,17 +7804,17 @@ Despite section 420(1), the Minister may direct that funding be provided to a pr
   (b) for a transitional ITO that is an incorporated society, the transitional ITO’s rules:
   (c) for a transitional ITO that is a charitable trust, the transitional ITO’s trust deed.
 
-### 58 Employment of transitional ITO employees by NZIST, NZIST subsidiary, wānanga, workforce development council, or other transitional ITO
-(1) This clause applies if the activities of a transitional ITO are transferred to NZIST, an NZIST subsidiary, a wānanga, a workforce development council, or another transitional ITO in accordance with a transition plan developed under clause 52.
-(2) The chief executive of NZIST or the NZIST subsidiary, wānanga, workforce development council, or other transitional ITO to which those activities are transferred must identify the employees of the transitional ITO—
-  (a) whose duties overall are required by NZIST or that NZIST subsidiary, wānanga, workforce development council, or other transitional ITO to carry out its functions; and
-  (b) whose positions will cease to exist as a result of the transfer of responsibility of the transitional ITO’s activities to NZIST or the NZIST subsidiary, wānanga, workforce development council, or other transitional ITO.
-(3) An employee who is identified under subclause (2) may be offered equivalent employment by NZIST or the NZIST subsidiary, wānanga, workforce development council, or other transitional ITO, being employment that is—
+### 58 Employment of transitional ITO employees by Te Pūkenga—New Zealand Institute of Skills and Technology, Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, wānanga, workforce development council, or other transitional ITO
+(1) This clause applies if the activities of a transitional ITO are transferred to Te Pūkenga—New Zealand Institute of Skills and Technology, an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, a wānanga, a workforce development council, or another transitional ITO in accordance with a transition plan developed under clause 52.
+(2) The chief executive of Te Pūkenga—New Zealand Institute of Skills and Technology or the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, wānanga, workforce development council, or other transitional ITO to which those activities are transferred must identify the employees of the transitional ITO—
+  (a) whose duties overall are required by Te Pūkenga—New Zealand Institute of Skills and Technology or that Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, wānanga, workforce development council, or other transitional ITO to carry out its functions; and
+  (b) whose positions will cease to exist as a result of the transfer of responsibility of the transitional ITO’s activities to Te Pūkenga—New Zealand Institute of Skills and Technology or the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, wānanga, workforce development council, or other transitional ITO.
+(3) An employee who is identified under subclause (2) may be offered equivalent employment by Te Pūkenga—New Zealand Institute of Skills and Technology or the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, wānanga, workforce development council, or other transitional ITO, being employment that is—
   (a) in substantially the same position; and
   (b) in the same general locality; and
   (c) on terms and conditions (including any terms and conditions relating to redundancy and superannuation) that are no less favourable than those applying to the employee immediately before the date on which the offer of employment is made to the employee; and
-  (d) on terms that treat the period of service with the transitional ITO (and every other period of service recognised by the transitional ITO as continuous service) as if it were continuous service with NZIST or the NZIST subsidiary, wānanga, workforce development council, or other transitional ITO.
-(4) If the employee accepts an offer of employment under subclause (3), the employee’s employment by NZIST or the NZIST subsidiary, wānanga, workforce development council, or other transitional ITO is to be treated as continuous employment, including for the purpose of service-related entitlements, whether legislative or otherwise.
+  (d) on terms that treat the period of service with the transitional ITO (and every other period of service recognised by the transitional ITO as continuous service) as if it were continuous service with Te Pūkenga—New Zealand Institute of Skills and Technology or the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, wānanga, workforce development council, or other transitional ITO.
+(4) If the employee accepts an offer of employment under subclause (3), the employee’s employment by Te Pūkenga—New Zealand Institute of Skills and Technology or the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, wānanga, workforce development council, or other transitional ITO is to be treated as continuous employment, including for the purpose of service-related entitlements, whether legislative or otherwise.
 (5) An employee of a transitional ITO that is offered employment under subclause (3) is not entitled to receive any payment or other benefit on the ground that the employee’s position in the transitional ITO has ceased to exist, whether or not the employee accepts the offer.
 (6) This clause overrides—
   (a) Part 6A of the Employment Relations Act 2000; and
@@ -9015,7 +9015,7 @@ The Ministry may, on request by MSD, supply details of the academic performance 
 (1) The purpose of this clause is to enable institutions to disclose information to MSD to verify—
   (a) the entitlement or eligibility of any person to or for any benefit or allowance or student loan; or
   (b) the amount of any benefit or allowance or student loan to which any person is or was entitled or for which any person is or was eligible.
-(2) For the purpose of this clause, the chief executive may, in accordance with arrangements under the Privacy Act 1993 previously agreed between the chief executive and any institution or, if they are unable to agree, settled by the Privacy Commissioner, by notice in writing or electronically require the institution to supply any or all of the information set out in subclause (6) in respect of people—
+(2) For the purpose of this clause, the chief executive may, in accordance with arrangements under the Privacy Act 1993 previously agreed between the chief executive and any institution or, if they are unable to agree, settled by the Privacy Commissioner, by notice in writing or electronically require the institution to supply any or all of the information set out in subclause (5) in respect of people—
   (a) who are (or were in any specified period) enrolled as students at the institution; or
   (b) whose name and date of birth (being the name and date of birth of any person who is, or was during any specified period, receiving a benefit or allowance or student loan) is supplied to the institution by the chief executive, together with the notice.
 (3) A notice under subclause (2)—
@@ -9025,7 +9025,7 @@ The Ministry may, on request by MSD, supply details of the academic performance 
   (a) an identification number assigned by the chief executive to any person who is referred to in the notice; or
   (b) an identification number assigned by the institution to any person who is referred to in the notice; or
   (c) both.
-(5) The information referred to in subclause (3) is—
+(5) The information referred to in subclause (2) is—
   (a) their—
     (i) full names and addresses; and
     (ii) dates of birth:
@@ -9044,7 +9044,7 @@ The Ministry may, on request by MSD, supply details of the academic performance 
 (1) The purpose of this clause is to enable governing bodies of private training establishments to disclose information to MSD to verify—
   (a) the entitlement or eligibility of any person to or for any benefit or allowance or student loan; or
   (b) the amount of any benefit or allowance or student loan to which any person is or was entitled or for which any person is or was eligible.
-(2) For the purpose of this clause, the chief executive may, in accordance with arrangements under the Privacy Act 1993 previously agreed between the chief executive and any institution or, if they are unable to agree, settled by the Privacy Commissioner, by notice in writing or electronically require the private training establishment to supply any or all of the information set out in subclause (3) in respect of people—
+(2) For the purpose of this clause, the chief executive may, in accordance with arrangements under the Privacy Act 1993 previously agreed between the chief executive and any institution or, if they are unable to agree, settled by the Privacy Commissioner, by notice in writing or electronically require the private training establishment to supply any or all of the information set out in subclause (5) in respect of people—
   (a) who are (or were in any specified period) enrolled as students at the private training establishment; or
   (b) whose name and date of birth (being the name and date of birth of any person who is, or was during any specified period, receiving a benefit or allowance or student loan) is supplied to the private training establishment by the chief executive, together with the notice.
 (3) A notice under subclause (2)—
@@ -9177,11 +9177,11 @@ The following information must be published on an Internet site maintained by or
 (1) The Minister must appoint a committee consisting of 3 persons (an establishment committee) for the purpose of advising the Minister regarding the constitution for the council of a body that is, or is to be, established under section 268(1).
 (2) The establishment committee must recommend to the Minister a constitution for the council that is, in the committee’s opinion, appropriate for the institution and complies with the requirements of section 276.
 (3) When the establishment committee has recommended a constitution for the council in accordance with subclause (2), the Minister must, by notice published in the Gazette, determine the constitution of the council in accordance with the recommendation.
-(4) This section does not apply to the membership of NZIST’s council.
+(4) This section does not apply to the membership of Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
 
 ### 2 Amendment of constitution
 (1) If, after the constitution of a council has been determined, the council recommends to the Minister that the constitution be amended in a manner that complies with the requirements of section 276, the Minister must, by notice published in the Gazette, amend the constitution in accordance with the recommendation.
-(2) Subclause (1) does not apply to the membership of NZIST’s council (for which section 320 provides).
+(2) Subclause (1) does not apply to the membership of Te Pūkenga—New Zealand Institute of Skills and Technology’s council (for which section 320 provides).
 
 ### 3 Limit on number of occasions on which people may be appointed as council members
 (1) A council’s constitution must contain a provision limiting the number of occasions on which a person may be appointed as a council member.
@@ -9190,7 +9190,7 @@ The following information must be published on an Internet site maintained by or
 (4) For the purposes of subclause (2), appointed means—
   (a) appointed, elected, or co-opted before 13 February 2015 (otherwise than to fill a casual vacancy); or
   (b) appointed on or after that commencement.
-(5) This clause does not apply to NZIST’s council.
+(5) This clause does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
 
 ### 4 Membership of more than 1 council
 A person who is a council member of an institution may be appointed as a council member of another institution (whether or not they are institutions of the same kind).
@@ -9203,7 +9203,7 @@ A person who is a council member of an institution may be appointed as a council
   (d) a disqualification of a council member or committee; or
   (e) a vacancy in the membership of the council or committee; or
   (f) a defect in the convening of any meeting.
-(2) This clause does not apply to NZIST’s council (for which section 320(3) provides).
+(2) This clause does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology’s council (for which section 320(3) provides).
 
 ### 6 Term of office
 (1) When appointing a council member, the Minister or council—
@@ -9212,7 +9212,7 @@ A person who is a council member of an institution may be appointed as a council
     (i) the day on which the member’s appointment takes effect; and
     (ii) the term for which the member is appointed.
 (2) If a council member’s term of office expires before their successor is appointed, the member continues in office until their successor’s appointment takes effect.
-(3) This clause does not apply to appointments to NZIST’s council (for which section 323 provides).
+(3) This clause does not apply to appointments to Te Pūkenga—New Zealand Institute of Skills and Technology’s council (for which section 323 provides).
 
 ### 7 Vacation of office
 (1) A council member may resign by giving written notice signed by the member to the chief executive.
@@ -9232,7 +9232,7 @@ A person who is a council member of an institution may be appointed as a council
   (b) the member is not capable of acting as a member during the period of suspension; and
   (c) the suspension continues until the property order made under section 30 of the Protection of Personal and Property Rights Act 1988 ceases to be in force (but this does not affect any powers of the council under subclause (3) in respect of the member).
 (6) The chief executive must send the council member a letter setting out the terms of the resolution dismissing or suspending the member.
-(7) This clause does not apply to a member of NZIST’s council.
+(7) This clause does not apply to a member of Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
 
 ### 8 Disclosure of interest
 (1) A council member or a council committee member who has an interest in a matter being considered or about to be considered by the council or the committee must, as soon as possible after the relevant facts have come to the member's knowledge, disclose the nature of the interest at a meeting of the council or the committee.
@@ -9248,7 +9248,7 @@ A person who is a council member of an institution may be appointed as a council
   (b) appoint another person using it.
 (3) If the office becomes vacant within 6 months before the end of the member's term of office, the Minister or council may decide that the vacancy does not need to be filled under this clause.
 (4) Clauses 6 and 7 apply to an appointment under this clause.
-(5) This clause does not apply to appointments to NZIST’s council.
+(5) This clause does not apply to appointments to Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
 
 ### 10 Individual duties of council members
 (1) A council member, when acting as a council member in any circumstances,—
@@ -9271,7 +9271,7 @@ A person who is a council member of an institution may be appointed as a council
 (3) This subclause applies to information that—
   (a) a council member has in their capacity as a council member; and
   (b) would not otherwise be available to the member.
-(4) This clause does not apply to a member of NZIST’s council.
+(4) This clause does not apply to a member of Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
 
 ### 11 Accountability for individual duties
 (1) The individual duties of a council member under clause 10 are owed to the Minister and the council.
@@ -9282,7 +9282,7 @@ A person who is a council member of an institution may be appointed as a council
   (a) anything for which a council member may be liable under any other Act or rule of law arising from the act or omission that constitutes the breach concerned; or
   (b) anything for which a council member who is the chief executive of the institution concerned may, as chief executive, be liable under this Act or any other Act or rule of law, arising from the act or omission that constitutes the breach concerned.
 (6) This clause does not affect any other ground for removing a council member from office.
-(7) This clause does not apply to a member of NZIST’s council.
+(7) This clause does not apply to a member of Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
 
 ### 12 Removal of members
 (1) If an institution’s council believes that the actions of a council member may justify the member’s removal from office, it must give the Minister a written report stating—
@@ -9297,7 +9297,7 @@ A person who is a council member of an institution may be appointed as a council
 (5) The Minister must notify the removal in the Gazette as soon as practicable after giving the notice.
 (6) This clause does not limit or affect clause 7.
 (7) In this clause, just cause includes misconduct, inability to perform the functions of office, neglect of duty, and breach of any of the collective duties of the council or the individual duties of members (depending on the seriousness of the breach).
-(8) This clause does not apply to the removal from office of a member of NZIST’s council.
+(8) This clause does not apply to the removal from office of a member of Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
 
 ### 13 Process for removal
 The Minister may remove a council member under clause 12 with as little formality and technicality, and as much expedition, as is permitted by—
@@ -9327,7 +9327,7 @@ To avoid doubt, an institution’s council is not a local authority for the purp
 (9) Subclause (8) overrides subclauses (5) and (6).
 (10) The chairperson of the council of a university may be referred to as the Chancellor or by any other title that the council determines, and the chairperson of the institution’s council other than a university may be referred to by any title (other than Chancellor or another title that includes the word Chancellor) that the council determines.
 (11) The deputy chairperson of the council of a university may be referred to as the Pro-Chancellor or by any other title that the council determines, and the deputy chairperson of a council other than a university may be referred to by any title (other than Pro-Chancellor or another title that includes the word Chancellor) that the council determines.
-(12) This clause does not apply to the chairperson or deputy chairperson of NZIST’s council (for which section 322 provides).
+(12) This clause does not apply to the chairperson or deputy chairperson of Te Pūkenga—New Zealand Institute of Skills and Technology’s council (for which section 322 provides).
 
 ### 16 Meetings of councils
 (1) The chairperson of a council may convene meetings to be held at the places and times that the chairperson determines.
@@ -9350,7 +9350,7 @@ To avoid doubt, an institution’s council is not a local authority for the purp
 (1) A council member (other than the chief executive) may be paid fees at the rates, not exceeding maximum rates fixed by the Minister in accordance with the fees framework, that the council determines.
 (2) A council member is entitled, in accordance with the fees framework, to be reimbursed, out of the funds of the entity, for actual and reasonable travelling and other expenses incurred in carrying out the member’s office as a member.
 (3) In this clause, fees framework means the framework determined by the Government for the classification and remuneration of statutory and other bodies in which the Crown has an interest, including statutory entities and their subsidiaries and institutions.
-(4) This clause does not apply to a member of NZIST’s council.
+(4) This clause does not apply to a member of Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
 
 ### 18 Determination of policy
 (1) In determining the policy of an institution with respect to any matter relating to the institution, the institution’s council must consult any board, committee, or other body established within the institution that has responsibility for giving advice in relation to, or for giving effect to, the policy of the institution with respect to that matter.
@@ -9360,7 +9360,7 @@ To avoid doubt, an institution’s council is not a local authority for the purp
 (3) The academic committee is, for the purposes of section 285, to be treated as a committee appointed by the council under section 283(2)﻿(j).
 (4) Without limiting subclause (1), the institution’s council may not make any decision or statute in respect of any academic matter referred to in subclause (2) unless it has requested the advice of the academic committee and considered any advice given by the academic committee.
 (5) However, a decision or statute made by the institution’s council is not invalid merely because of a failure of the council to comply with subclause (1) or (4).
-(6) This clause does not apply to NZIST (for which section 324 provides).
+(6) This clause does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology (for which section 324 provides).
 
 ### 19 Personal liability of council members
 A council member is not personally liable for any act done or omitted by the council member or by the council—
@@ -9368,7 +9368,7 @@ A council member is not personally liable for any act done or omitted by the cou
   (b) in performance or intended performance of the functions of the institution or of the council.
 
 ### 20 Trust property
-Despite anything to the contrary in this Act or any other enactment relating to the institution (including NZIST and its subsidiaries), any real or personal property held by the institution upon trust must be dealt with in accordance with the powers and duties of the institution as trustee.
+Despite anything to the contrary in this Act or any other enactment relating to the institution (including Te Pūkenga—New Zealand Institute of Skills and Technology and its subsidiaries), any real or personal property held by the institution upon trust must be dealt with in accordance with the powers and duties of the institution as trustee.
 
 ## Schedule 12 — Administrative provisions applying to Vice-Chancellors Committee
 
@@ -9436,118 +9436,123 @@ Subject to any other enactment, the Vice-Chancellors Committee may invest any of
 (2) The Vice-Chancellors Committee must include in every annual report of the Committee the financial statements and statement of service performance prepared by the Vice-Chancellors Committee, in accordance with sections 153 to 156 of the Crown Entities Act 2004, in respect of the financial year to which the report relates, together with the audit report and the statement of responsibility under section 155 of that Act relating to those financial statements.
 (3) The Minister must present a copy of the report to the House of Representatives in accordance with section 150 of the Crown Entities Act 2004.
 
-## Schedule 13 — NZIST’s charter
+## Schedule 13 — Te Pūkenga—New Zealand Institute of Skills and Technology’s charter
 
-## Schedule 14 — Provisions applying on dissolution of NZIST subsidiary
+###
+[Repealed]
+
+## Schedule 14 — Provisions applying on dissolution of Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
 
 ### 1 Interpretation
 In this schedule, unless the context otherwise requires,—
   - **dissolution date** means,—
-    (a) in relation to a corresponding NZIST subsidiary established under clause 20(1) of Schedule 1,—
+    (a) in relation to a corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary established under clause 20(1) of Schedule 1,—
       (i) the date specified in clause 21(1) of that schedule:
       (ii) the date specified by Order in Council under clause 21(2) of that schedule:
-      (iii) the date on which the subsidiary is dissolved in accordance with a resolution of NZIST’s council under clause 22 of that schedule:
-    (b) in relation to a subsidiary formed by NZIST under section 340, the date on which the subsidiary is dissolved in accordance with a resolution of NZIST’s council
-  - **NZIST** means the New Zealand Institute of Skills and Technology continued by section 314
-  - **NZIST subsidiary** means—
-    (a) a Crown entity subsidiary of NZIST listed in the second column of the table in clause 20(3) of Schedule 1:
-    (b) a subsidiary formed by NZIST under section 340(1).
+      (iii) the date on which the subsidiary is dissolved in accordance with a resolution of Te Pūkenga—New Zealand Institute of Skills and Technology’s council under clause 22 of that schedule:
+    (b) in relation to a subsidiary formed by Te Pūkenga—New Zealand Institute of Skills and Technology under section 340, the date on which the subsidiary is dissolved in accordance with a resolution of Te Pūkenga—New Zealand Institute of Skills and Technology’s council
+  - **Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary** means—
+    (a) a Crown entity subsidiary listed in the second column of the table in clause 20(3) of Schedule 1:
+    (b) a subsidiary formed by Te Pūkenga—New Zealand Institute of Skills and Technology under section 340(1).
 
 **Dissolution**
 
-### 2 Dissolution of NZIST subsidiary
-(1) An NZIST subsidiary is dissolved on the dissolution date.
-(2) As soon as practicable after the dissolution date, the Registrar of Companies must remove the NZIST subsidiary from the New Zealand register of companies kept under the Companies Act 1993.
+### 2 Dissolution of Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
+(1) An Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary is dissolved on the dissolution date.
+(2) As soon as practicable after the dissolution date, the Registrar of Companies must remove the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary from the New Zealand register of companies kept under the Companies Act 1993.
 
 **Consequences of dissolution**
 
-### 3 Members of NZIST subsidiary board cease to hold office
-(1) Every member of an NZIST subsidiary’s board who holds office immediately before the dissolution date ceases to hold office on the close of the day before that date.
-(2) Neither the Crown, NZIST, nor the NZIST subsidiary is liable to make a payment to, or otherwise compensate, a person referred to in subclause (1) for the loss of office.
+### 3 Members of Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary board cease to hold office
+(1) Every member of an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary’s board who holds office immediately before the dissolution date ceases to hold office on the close of the day before that date.
+(2) Neither the Crown, Te Pūkenga—New Zealand Institute of Skills and Technology, nor the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary is liable to make a payment to, or otherwise compensate, a person referred to in subclause (1) for the loss of office.
 
-### 4 Transfer of rights, assets, and liabilities to NZIST
-(1) This clause applies to all rights, assets, and liabilities that an NZIST subsidiary had immediately before the dissolution date.
+### 4 Transfer of rights, assets, and liabilities to Te Pūkenga—New Zealand Institute of Skills and Technology
+(1) This clause applies to all rights, assets, and liabilities that an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary had immediately before the dissolution date.
 (2) On and after the dissolution date,—
-  (a) all rights, assets, and liabilities of the NZIST subsidiary vest in NZIST; and
-  (b) unless the context otherwise requires, every reference to the NZIST subsidiary in any enactment or any instrument, register, agreement, deed, lease, application, notice, or other document before the dissolution date must be read as a reference to NZIST.
+  (a) all rights, assets, and liabilities of the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary vest in Te Pūkenga—New Zealand Institute of Skills and Technology; and
+  (b) unless the context otherwise requires, every reference to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary in any enactment or any instrument, register, agreement, deed, lease, application, notice, or other document before the dissolution date must be read as a reference to Te Pūkenga—New Zealand Institute of Skills and Technology.
 
-### 5 Employment of NZIST subsidiary employees by NZIST
-(1) The chief executive of NZIST must identify the employees of the NZIST subsidiary—
-  (a) whose duties overall are required by NZIST to carry out its functions; and
-  (b) whose positions are to cease to exist as a result of the dissolution of the NZIST subsidiary.
-(2) An employee who is identified under subclause (1) must be offered equivalent employment by NZIST, being employment that is—
+### 5 Employment of Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary employees by Te Pūkenga—New Zealand Institute of Skills and Technology
+(1) The chief executive of Te Pūkenga—New Zealand Institute of Skills and Technology must identify the employees of the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary—
+  (a) whose duties overall are required by Te Pūkenga—New Zealand Institute of Skills and Technology to carry out its functions; and
+  (b) whose positions are to cease to exist as a result of the dissolution of the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
+(2) An employee who is identified under subclause (1) must be offered equivalent employment by Te Pūkenga—New Zealand Institute of Skills and Technology, being employment that is—
   (a) in substantially the same position; and
   (b) in the same general locality; and
   (c) on terms and conditions (including any terms and conditions relating to redundancy and superannuation) that are no less favourable than those applying to the employee immediately before the date on which the offer of employment is made to the employee; and
-  (d) on terms that treat the period of service with the NZIST subsidiary (and every other period of service recognised by the NZIST subsidiary as continuous service) as if it were continuous service with NZIST.
-(3) If the employee of the NZIST subsidiary accepts an offer of employment under subclause (2), the employee’s employment by NZIST is to be treated as continuous employment, including for the purpose of service-related entitlements, whether legislative or otherwise.
-(4) An employee of an NZIST subsidiary who is offered employment under subclause (2) is not entitled to receive any payment or other benefit on the ground that the employee’s position in the NZIST subsidiary has ceased to exist whether or not the employee accepts the offer.
+  (d) on terms that treat the period of service with the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary (and every other period of service recognised by the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary as continuous service) as if it were continuous service with Te Pūkenga—New Zealand Institute of Skills and Technology.
+(3) If the employee of the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary accepts an offer of employment under subclause (2), the employee’s employment by Te Pūkenga—New Zealand Institute of Skills and Technology is to be treated as continuous employment, including for the purpose of service-related entitlements, whether legislative or otherwise.
+(4) An employee of an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary who is offered employment under subclause (2) is not entitled to receive any payment or other benefit on the ground that the employee’s position in the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary has ceased to exist whether or not the employee accepts the offer.
 (5) This clause overrides—
   (a) Part 6A of the Employment Relations Act 2000; and
   (b) any employee protection provision in any relevant employment agreement.
 
 ### 6 Government Superannuation Fund
-(1) This clause applies to a person who, immediately before becoming an employee of NZIST, was a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956.
-(2) For the purposes of the Government Superannuation Fund Act 1956, the person is treated as being employed in the Government service as long as the person continues to be an employee of NZIST.
-(3) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person’s service as an employee of NZIST were Government service.
+(1) This clause applies to a person who, immediately before becoming an employee of Te Pūkenga—New Zealand Institute of Skills and Technology, was a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956.
+(2) For the purposes of the Government Superannuation Fund Act 1956, the person is treated as being employed in the Government service as long as the person continues to be an employee of Te Pūkenga—New Zealand Institute of Skills and Technology.
+(3) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person’s service as an employee of Te Pūkenga—New Zealand Institute of Skills and Technology were Government service.
 (4) Subclause (1) does not entitle a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
-(5) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of NZIST is the controlling authority.
+(5) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of Te Pūkenga—New Zealand Institute of Skills and Technology is the controlling authority.
 
-### 7 Students of NZIST subsidiary
-(1) This clause applies to every student enrolled at an NZIST subsidiary immediately before the dissolution date.
-(2) On and after the dissolution date, the student must be treated as having been enrolled at NZIST.
-(3) A student who would, but for the dissolution of the NZIST subsidiary, have been entitled to be granted an award of the NZIST subsidiary is entitled to be granted a like award of NZIST.
+### 7 Students of Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
+(1) This clause applies to every student enrolled at an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary immediately before the dissolution date.
+(2) On and after the dissolution date, the student must be treated as having been enrolled at Te Pūkenga—New Zealand Institute of Skills and Technology.
+(3) A student who would, but for the dissolution of the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, have been entitled to be granted an award of the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary is entitled to be granted a like award of Te Pūkenga—New Zealand Institute of Skills and Technology.
 
 ### 8 Visas granted under Immigration Act 2009
 (1) This clause applies to a visa granted under the Immigration Act 2009 in respect of—
-  (a) a student, for the purposes of enrolment at an NZIST subsidiary; or
-  (b) a staff member of an NZIST subsidiary.
-(2) On and after the dissolution date, any reference to the NZIST subsidiary in a condition imposed on the visa must be read as a reference to NZIST.
+  (a) a student, for the purposes of enrolment at an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary; or
+  (b) a staff member of an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
+(2) On and after the dissolution date, any reference to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary in a condition imposed on the visa must be read as a reference to Te Pūkenga—New Zealand Institute of Skills and Technology.
 
 ### 9 Existing approvals, accreditations, and consents
-(1) This clause applies to the following matters granted to an NZIST subsidiary or treated as having been granted to the subsidiary by NZQA under subpart 2 of Part 5 before the dissolution date and in effect immediately before that date:
+(1) This clause applies to the following matters granted to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary or treated as having been granted to the subsidiary by NZQA under subpart 2 of Part 5 before the dissolution date and in effect immediately before that date:
   (a) an approval of a programme under section 439:
   (b) an accreditation to provide all or part of a programme under section 441:
   (c) an approval to provide a training scheme under section 445:
   (d) a consent to assess against the standards listed on the Directory of Assessment Standards under section 449:
   (e) a consent to award a degree or a postgraduate qualification under section 454.
 (2) On and after the dissolution date,—
-  (a) the approval, accreditation, or consent (including any conditions imposed on an approval or accreditation) continues to apply and must be treated as if it were granted to NZIST; and
-  (b) unless the context otherwise requires, every reference in the approval, accreditation, or consent must be read as a reference to NZIST.
+  (a) the approval, accreditation, or consent (including any conditions imposed on an approval or accreditation) continues to apply and must be treated as if it were granted to Te Pūkenga—New Zealand Institute of Skills and Technology; and
+  (b) unless the context otherwise requires, every reference in the approval, accreditation, or consent must be read as a reference to Te Pūkenga—New Zealand Institute of Skills and Technology.
 
 ### 10 Existing funding paid by TEC under funding mechanism
-(1) This clause applies to funding (including any conditions imposed on the funding) payable by TEC to an NZIST subsidiary or that is treated as being payable to the subsidiary under clause 65 of Schedule 1—
+(1) This clause applies to funding (including any conditions imposed on the funding) payable by TEC to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary or that is treated as being payable to the subsidiary under clause 65 of Schedule 1—
   (a) in accordance with an approval granted under section 425(2); or
   (b) other than via a plan under section 428.
 (2) On and after the dissolution date,—
-  (a) TEC must treat the funding, unless it is earlier suspended, revoked, or withdrawn under clause 16 or 26 of Schedule 18, as if it were payable to NZIST; and
-  (b) for the purposes of paragraph (a), every reference to the NZIST subsidiary in an approval granted under section 425(2) must, unless the context otherwise requires, be read as a reference to NZIST.
+  (a) TEC must treat the funding, unless it is earlier suspended, revoked, or withdrawn under clause 16 or 26 of Schedule 18, as if it were payable to Te Pūkenga—New Zealand Institute of Skills and Technology; and
+  (b) for the purposes of paragraph (a), every reference to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary in an approval granted under section 425(2) must, unless the context otherwise requires, be read as a reference to Te Pūkenga—New Zealand Institute of Skills and Technology.
 
 ### 11 Existing proceedings and other matters
 (1) On and after the dissolution date,—
-  (a) proceedings continued or enforced by or against an NZIST subsidiary may instead be continued or enforced by or against NZIST without amendment to the proceedings; and
-  (b) a matter or thing that would, but for this clause, have been completed by the NZIST subsidiary may instead be completed by NZIST; and
-  (c) anything done, or omitted to be done, or that is to be done, by or in relation to the NZIST subsidiary is to be treated as having been done, or having been omitted to be done, or to be done, by or in relation to NZIST.
+  (a) proceedings continued or enforced by or against an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary may instead be continued or enforced by or against Te Pūkenga—New Zealand Institute of Skills and Technology without amendment to the proceedings; and
+  (b) a matter or thing that would, but for this clause, have been completed by the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary may instead be completed by Te Pūkenga—New Zealand Institute of Skills and Technology; and
+  (c) anything done, or omitted to be done, or that is to be done, by or in relation to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary is to be treated as having been done, or having been omitted to be done, or to be done, by or in relation to Te Pūkenga—New Zealand Institute of Skills and Technology.
 (2) In subclause (1)﻿(a), proceedings—
   (a) means civil and criminal proceedings; and
   (b) includes any enforcement or compliance activities by TEC or NZQA.
 
-### 12 Final report of dissolved NZIST subsidiary
-(1) As soon as practicable after the dissolution date, NZIST must prepare and forward to the Minister a final report on the dissolved NZIST subsidiary’s operations.
+### 12 Final report of dissolved Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
+(1) As soon as practicable after the dissolution date, Te Pūkenga—New Zealand Institute of Skills and Technology must prepare and forward to the Minister a final report on the dissolved Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary’s operations.
 (2) The final report must be for the period (the report period)—
-  (a) commencing at the start of the financial year in which the NZIST subsidiary was dissolved; and
+  (a) commencing at the start of the financial year in which the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary was dissolved; and
   (b) ending with the close of the day immediately before the date on which the subsidiary was dissolved.
 (3) The final report must include audited financial statements for the report period.
 (4) The Minister must present a copy of the final report to the House of Representatives as soon as practicable after receiving it.
 
 ### 13 Transfer of contracts does not give rise to claims
-No person may claim against NZIST or an NZIST subsidiary for breach of contract on the ground that the contract, or any benefit of the contract, is vested in NZIST, whether or not the vesting involves NZIST and its employees gaining access to any information, data, programme, intellectual property right, knowledge, chattel, equipment, transmission device, or facility of the claimant or any other person.
+No person may claim against Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary for breach of contract on the ground that the contract, or any benefit of the contract, is vested in Te Pūkenga—New Zealand Institute of Skills and Technology, whether or not the vesting involves Te Pūkenga—New Zealand Institute of Skills and Technology and its employees gaining access to any information, data, programme, intellectual property right, knowledge, chattel, equipment, transmission device, or facility of the claimant or any other person.
 
-### 14 Provisions that apply if corresponding NZIST subsidiary dissolved and assets, etc, transferred to another NZIST subsidiary
-(1) This clause applies if NZIST’s council dissolves a corresponding NZIST subsidiary under clause 22 of Schedule 1 and transfers some or all of the rights, assets, and liabilities of that subsidiary to another NZIST subsidiary under that clause.
-(2) Clauses 4 to 11 and 13 of this schedule apply, with any necessary modifications, as if a reference in those provisions to NZIST were a reference to the other NZIST subsidiary to which those rights, assets, and liabilities are transferred.
+### 14 Provisions that apply if corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary dissolved and assets, etc, transferred to another Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
+(1) This clause applies if Te Pūkenga—New Zealand Institute of Skills and Technology’s council dissolves a corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary under clause 22 of Schedule 1 and transfers some or all of the rights, assets, and liabilities of that subsidiary to another Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary under that clause.
+(2) Clauses 4 to 11 and 13 of this schedule apply, with any necessary modifications, as if a reference in those provisions to Te Pūkenga—New Zealand Institute of Skills and Technology were a reference to the other Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary to which those rights, assets, and liabilities are transferred.
 
-## Schedule 15 — Further provisions of Act that apply and do not apply to NZIST subsidiaries
+## Schedule 15 — Further provisions of Act that apply and do not apply to Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries
+
+###
+[Repealed]
 
 ## Schedule 16 — Provisions relating to training levy
 
@@ -10356,8 +10361,8 @@ The Secretary must, at least once every 3 years after the date on which an enrol
   (b) the time periods for each day during which the affected student's timetable runs.
 
 ### 6 Application of provisions
-(1) The powers conferred on the Minister by clauses 1 to 6 may be exercised in respect of all schools, schools of a particular classification or description, or specified schools.
-(2) Clauses 1 to 6 have effect as if specialist schools and special services were State schools.
+(1) The powers conferred on the Minister by clauses 1 to 5 may be exercised in respect of all schools, schools of a particular classification or description, or specified schools.
+(2) Clauses 1 to 5 have effect as if specialist schools and special services were State schools.
 
 ### 7 Minister to act by means of instructions
 (1) The Minister’s powers under clauses 1 to 6 may be exercised only by written instruction signed by the Minister.
@@ -10813,8 +10818,8 @@ The Secretary may, for the purpose of this schedule, direct the governing body o
 
 ### 6 Academic freedom unaffected
 Nothing in this schedule limits the academic freedom of—
-  (a) an institution other than NZIST as set out in section 267:
-  (b) NZIST as set out in section 318.
+  (a) an institution other than Te Pūkenga—New Zealand Institute of Skills and Technology as set out in section 267:
+  (b) Te Pūkenga—New Zealand Institute of Skills and Technology as set out in section 318.
 
 ## Schedule 26 — Consequential amendments and revocations
 
