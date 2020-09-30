@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2020-08-26_
+_Consolidation as at 2020-09-30_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -1252,7 +1252,7 @@ The Minister may not give a direction under section 103 of the Crown Entities Ac
     (iii) the review is carried out under section 128(1)﻿(c); or
     (iv) the review is carried out under section 128(2):
   (cc) charges payable by a person who carries out a permitted activity, for the monitoring of that activity, if the local authority is empowered to charge for the monitoring in accordance with section 43A(8):
-  (cd) charges payable by the farm operator of a farm that is required to have a certified freshwater farm plan, for the carrying out by the local authority of its functions under section 217J:
+  (cd) charges payable by the farm operator of a farm that is required to have a certified freshwater farm plan, for the carrying out by the local authority of its functions under section 217I:
   (d) charges payable by requiring authorities and heritage protection authorities, for the carrying out by the local authority of any 1 or more of its functions in relation to designations and heritage orders:
   (e) charges for providing information in respect of plans and resource consents, payable by the person requesting the information:
   (f) charges for supply of documents, payable by the person requesting the document:
@@ -3273,7 +3273,7 @@ The consent authority that would have determined the application had the Environ
 ### 88B Time limits from which time periods are excluded in relation to applications
 (1) This section provides for the deferral of certain time limits relating to applications.
 (2) The first column of the table lists the provisions specifying time limits from which certain time periods must be excluded.
-(3) The second column lists the provisions describing time periods that must be excluded from the corresponding time limits.The following table is small in size and has 2 columns. Column 1 is headed Provisions specifying time limits. Column 2 is headed Provisions describing time periods to be excluded.Provisions specifying time limitsProvisions describing time periods to be excludedSection 95 (which relates to the time limit for notification)Section 88C(2), (4), or (6)Section 88E(2) or (4)Section 88F(2)Section 87F(3) (which relates to the time limit for a consent authority report on an application to be directly referred to the Environment Court)Section 88C(4) or (6)Section 88E(2), (6), or (8)Section 88F(2)Section 101(2) (which relates to the time limit for commencement of a hearing of a non-notified application)Section 88C(2), (4), or (6)Section 88E(2) or (4)Section 88F(2)Section 103A (which relates to the time limit for completion of a hearing of a notified application)Section 88C(4) or (6)Section 88D(2), (4), or (6)Section 88E(2), (6), or (8)Section 88F(2)Section 115(3) (which relates to the time limit for notification of the decision on a non-notified application for which no hearing is held)Section 88C(2), (4), or (6)Section 88E(2) or (4)Section 88F(2)Section 115(4) (which relates to the time limit for notification of the decision on a notified application for which no hearing is held)Section 88C(4) or (6)Section 88D(2), (4), or (6)Section 88E(2), (6), or (8)Section 88F(2)
+(3) The second column lists the provisions describing time periods that must be excluded from the corresponding time limits.The following table is small in size and has 2 columns. Column 1 is headed Provisions specifying time limits. Column 2 is headed Provisions describing time periods to be excluded.Provisions specifying time limitsProvisions describing time periods to be excludedSection 95 (which relates to the time limit for notification)Section 88C(2), (4), or (6)Section 88E(2) or (4)Section 88F(2)Section 88GSection 88HSection 87F(3) (which relates to the time limit for a consent authority report on an application to be directly referred to the Environment Court)Section 88C(4) or (6)Section 88E(2), (6), or (8)Section 88F(2)Section 101(2) (which relates to the time limit for commencement of a hearing of a non-notified application)Section 88C(2), (4), or (6)Section 88E(2) or (4)Section 88F(2)Section 88GSection 103A (which relates to the time limit for completion of a hearing of a notified application)Section 88C(4) or (6)Section 88D(2), (4), or (6)Section 88E(2), (6), or (8)Section 88F(2)Section 115(3) (which relates to the time limit for notification of the decision on a non-notified application for which no hearing is held)Section 88C(2), (4), or (6)Section 88E(2) or (4)Section 88F(2)Section 88GSection 115(4) (which relates to the time limit for notification of the decision on a notified application for which no hearing is held)Section 88C(4) or (6)Section 88D(2), (4), or (6)Section 88E(2), (6), or (8)Section 88F(2)
 (4) See also section 103(4) and (5) of the Urban Development Act 2020.
 
 ### 88C Excluded time periods relating to provision of further information
@@ -3354,7 +3354,7 @@ Referral to mediation
   (b) ending with the earlier of the following:
     (i) the date on which one of the persons referred to mediation gives the other persons referred and the mediator a written notice withdrawing the person's consent to the mediation; and
     (ii) the date on which the mediator reports the outcome of the mediation to the authority.
-Suspension of application processing
+Suspension of processing of notified application
 (7) Subsection (8) applies when the processing of an application is suspended under section 91A.
 (8) The period that must be excluded from every applicable time limit under section 88B is the period—
   (a) starting with the date on which the suspension started:
@@ -3370,6 +3370,21 @@ Suspension of application processing
   (b) ending with the earlier of the following:
     (i) the 80th working day after the date on which the request is made:
     (ii) the date on which the applicant notifies the consent authority that the applicant wishes the consent authority to continue determining the application that the request related to.
+
+### 88G Exclusion of period when processing of non-notified application suspended
+(1) Subsection (2) applies when a non-notified application is suspended under section 91D.
+(2) The period that must be excluded from every applicable time limit under section 88B is the period—
+  (a) starting from the date on which the suspension started; and
+  (b) ending on the date on which the suspension ceased.
+
+### 88H Excluded time periods relating to non-payment of administrative charges
+(1) Subsection (2) applies if—
+  (a) an application for a resource consent is lodged with a consent authority; and
+  (b) a charge fixed under section 36 is payable when the application is lodged or when the application is notified by the consent authority under section 95; and
+  (c) the applicant does not pay the charge when it is payable.
+(2) The consent authority may exclude from every applicable time limit in section 95, the period—
+  (a) starting from the date on which payment is due; and
+  (b) ending on the date on which payment is made.
 
 ### 88I Excluded time periods under Urban Development Act 2020
 The period described in section 103(4) of the Urban Development Act 2020 is excluded from any time limits under this Act relating to a consent application received by a local authority.
@@ -3409,7 +3424,7 @@ The period described in section 103(4) of the Urban Development Act 2020 is excl
 (2) Where a consent authority makes a determination under subsection (1), it shall forthwith notify the applicant of the determination.
 (3) The applicant may apply to the Environment Court for an order directing that any determination under this section be revoked.
 
-### 91A Applicant may have processing of application suspended
+### 91A Applicant may have processing of notified application suspended
 (1) A consent authority must suspend the processing of a notified application when a request is received in accordance with this section.
 (2) The applicant may request the consent authority to suspend the processing of an application at any time in the period—
   (a) starting when the application is notified; and
@@ -3423,20 +3438,55 @@ The period described in section 103(4) of the Urban Development Act 2020 is excl
 (4) The request must be made by written or electronic notice.
 (5) If processing is suspended under this section, the consent authority must give written or electronic notice to the applicant specifying the date on which the suspension started.
 
-### 91B When suspension of processing ceases
-(1) A consent authority must cease to suspend the processing of an application when—
+### 91B When suspension of processing of notified application ceases
+(1) A consent authority must cease to suspend the processing of a notified application when—
   (a) a request is received in accordance with this section; or
   (b) the applicant lodges a notice of motion with the Environment Court under section 87G(2)﻿(a); or
   (c) the Minister makes a direction under section 142(2) in relation to the application; or
   (d) the consent authority decides under section 91C to continue to process the application.
-(2) The applicant may request the consent authority to cease to suspend the processing of an application if it is currently suspended.
+(2) The applicant may request the consent authority to cease to suspend the processing of a notified application if it is currently suspended.
 (3) The request must be made by written or electronic notice.
 (4) If a suspension is ceased under this section, the consent authority must give written or electronic notice to the applicant specifying the date on which the suspension ceased.
 
-### 91C Application may be returned if suspended after certain period
+### 91C Notified application may be returned if suspended after certain period
 (1) Subsection (2) applies if—
-  (a) a total of 130 or more working days have been excluded from time limits under section 88B in relation to an application (which, under section 88E(8), includes time during which the application has been suspended); and
+  (a) a total of 130 or more working days have been excluded from time limits under section 88B in relation to a notified application (which, under section 88E(8), includes time during which the application has been suspended); and
   (b) the application is suspended at the time.
+(2) The consent authority must decide to—
+  (a) return the application to the applicant; or
+  (b) continue to process the application.
+(3) If the consent authority decides to return the application,—
+  (a) it must be returned together with a written explanation as to why it is being returned; but
+  (b) the applicant may object to the consent authority under section 357(3A).
+(4) If, after an application has been returned, the application is lodged again with the consent authority, the application is to be treated as a new application.
+
+### 91D Applicant may have processing of non-notified application suspended
+(1) A consent authority must suspend the processing of a non-notified application when a request is received in accordance with this section.
+(2) The applicant may request the consent authority to suspend the processing of a non-notified application at any time in the period—
+  (a) starting on the date on which the application is first lodged with the authority; and
+  (b) ending when—
+    (i) the hearing is completed, if a hearing is held for the application; or
+    (ii) the consent authority gives notice to the applicant of its decision on the application, if a hearing is not held for the application; or
+    (iii) the application is notified.
+(3) However, a request must not be made if—
+  (a) the applicant has lodged a notice of motion with the Environment Court under section 87G(2)﻿(a); or
+  (b) the Minister has made a direction under section 142(2) in relation to the application; or
+  (c) a total of 20 working days have been excluded from time limits under section 88B as a result of any previous request under this section in relation to the application.
+(4) The request must be made by written or electronic notice.
+(5) If processing is suspended under this section, the consent authority must give written or electronic notice to the applicant specifying the date on which the suspension started.
+
+### 91E When suspension of processing of non-notified application ceases
+(1) A consent authority must cease to suspend the processing of a non-notified application when—
+  (a) a request is received in accordance with this section; or
+  (b) the applicant lodges a notice of motion with the Environment Court under section 87G(2)﻿(a); or
+  (c) the Minister makes a direction under section 142(2) in relation to the application; or
+  (d) the consent authority decides under section 91F to continue to process the application.
+(2) The applicant may request the consent authority to cease to suspend the processing of a non-notified application if it is currently suspended.
+(3) The request must be made by written or electronic notice.
+(4) If a suspension is ceased under this section, the consent authority must give written or electronic notice to the applicant specifying the date on which the suspension ceased.
+
+### 91F Non-notified application may be returned after certain period
+(1) Subsection (2) applies if the processing of the non-notified application has been suspended for a total of 20 working days in response to 1 or more requests under section 91D.
 (2) The consent authority must decide to—
   (a) return the application to the applicant; or
   (b) continue to process the application.
@@ -3536,10 +3586,10 @@ Step 2: if not required by step 1, public notification precluded in certain circ
   (a) the application is for a resource consent for 1 or more activities, and each activity is subject to a rule or national environmental standard that precludes public notification:
   (b) the application is for a resource consent for 1 or more of the following, but no other, activities:
     (i) a controlled activity:
-    (ii) a restricted discretionary or discretionary activity, but only if the activity is a subdivision of land or a residential activity:
-    (iii) a restricted discretionary, discretionary, or non-complying activity, but only if the activity is a boundary activity:
-    (iv) a prescribed activity (see section 360H(1)﻿(a)﻿(i)).
-(6) In subsection (5), residential activity means an activity that requires resource consent under a regional or district plan and that is associated with the construction, alteration, or use of 1 or more dwellinghouses on land that, under a district plan, is intended to be used solely or principally for residential purposes.
+    (ii)
+    (iii) a restricted discretionary, discretionary, or non-complying activity, but only if the activity is a boundary activity.
+    (iv)
+(6)
 Step 3: if not precluded by step 2, public notification required in certain circumstances
 (7) Determine whether the application meets either of the criteria set out in subsection (8) and,—
   (a) if the answer is yes, publicly notify the application; and
@@ -4154,10 +4204,7 @@ If a resource consent is subject to the grant of an application to exchange recr
   (a) the applicant or consent holder:
   (b) any person who made a submission on the application or review of consent conditions:
   (c) in relation to a coastal permit for a restricted coastal activity, the Minister of Conservation.
-(1A) However, there is no right of appeal under this section against the whole or any part of a decision of a consent authority referred to in subsection (1) to the extent that the decision relates to 1 or more of the following, but no other, activities:
-  (a) a boundary activity, unless the boundary activity is a non-complying activity:
-  (b) a subdivision, unless the subdivision is a non-complying activity:
-  (c) a residential activity as defined in section 95A(6), unless the residential activity is a non-complying activity.
+(1A) However, there is no right of appeal under this section against the whole or any part of a decision of a consent authority referred to in subsection (1) to the extent that the decision relates to a boundary activity, unless the boundary activity is a non-complying activity.
 (1B) A person exercising a right of appeal under subsection (1)﻿(b) may appeal—
   (a) any matter that was raised in the person’s submission except any part of the submission that is struck out under section 41D; and
   (b) any matter that was not raised in the person’s submission.
@@ -9482,7 +9529,7 @@ Part 10 of Te Ture Whenua Maori Act 1993 shall apply to the service of notices u
 (1) A person whose application to a territorial authority is not granted under section 10(2) has a right of objection to the territorial authority.
 (2) A person whose submission to an authority is struck out under section 41D has a right of objection to the authority.
 (3) A person whose application to a consent authority is determined to be incomplete under section 88(3) has a right of objection to the consent authority.
-(3A) A person has a right of objection to a consent authority that decides to return the person's application under section 91C(2).
+(3A) A person has a right of objection to a consent authority that decides to return the person's application under section 91C(2) or 91F(2).
 (4) A person whose application or submission is declined to be processed or considered by a board of inquiry exercising the powers of a consent authority under section 99(8) has a right of objection to the board.
 (5) A person who requests a certificate of compliance from the EPA under section 139(13) has a right of objection to the EPA about the EPA's decision on the request.
 (6) A requiring authority whose notice to a territorial authority is declined under section 182(5) has a right of objection to the territorial authority.
@@ -9551,7 +9598,7 @@ There is a right of objection,—
 ### 358 Appeals against certain decisions or objections
 (1) Any person who has made an objection under section 357 or section 357A(1)﻿(a), (d), (f), or (g) or section 357B may appeal to the Environment Court against the decision on the objection.
 (1A) However, appeals from the following objections are excluded:
-  (a) an objection under section 357A(1)﻿(f) or (g) in respect of a decision of a consent authority or hearings commissioner on an application or a review described in section 357A(2) to (5), if the right of appeal against the decision to the Environment Court in the first instance is excluded by section 120(1A):
+  (a) an objection under section 357A(1)﻿(f) or (g) in respect of a decision of a consent authority or hearings commissioner on an application or a review described in section 357A(2) to (4), if the right of appeal against the decision to the Environment Court in the first instance is excluded by section 120(1A):
   (b) an objection to an authority under section 357(2), if the submission relates to an application for a resource consent, a review of a resource consent, or an application to change or cancel a condition of a resource consent:
   (c) an objection to an authority under section 357(3A) or (8):
   (d) an objection to a board of inquiry under section 357(2) or (4).
