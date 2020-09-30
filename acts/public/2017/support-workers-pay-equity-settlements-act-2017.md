@@ -1,5 +1,5 @@
 # Support Workers (Pay Equity) Settlements Act 2017
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-09-30_
 
 ### 1 Title
 This Act is the Support Workers (Pay Equity) Settlements Act 2017.
@@ -64,7 +64,7 @@ In this Act, unless the context otherwise requires,—
       (ii) the person or persons who have the legal authority to make decisions on behalf of an employer to which subparagraph (i) applies, if the employer does not itself have separate legal personality; and
       (iii) a person, trust, or partnership that provides support services on behalf of an employer to which subparagraph (i) applies as a subsidiary or a subcontractor; and
       (iv) Canterbury DHB, Hutt DHB, Nelson Marlborough DHB, Waikato DHB, Wairarapa DHB, and West Coast DHB (each established by section 19 of the New Zealand Public Health and Disability Act 2000); but
-    (b) does not include a natural person who receives funding directly from the Ministry of Health, ACC, or a DHB towards the cost of care and support services for the person or a family member of the person (for example, under a family care policy within the meaning of that term in section 70B of the New Zealand Public Health and Disability Act 2000)
+    (b) does not include a natural person who receives funding directly from the Ministry of Health, ACC, or a DHB towards the cost of care and support services for the person or a family member of the person
   - **funder** means the Department of Corrections, the Ministry of Health, the Ministry of Social Development, Oranga Tamariki—Ministry for Children, a DHB, or ACC
   - **funding agreement** means,—
     (a) in relation to funding agreements to which a funder other than ACC is a party, an agreement between the funder and an employer for the employer to provide support services in exchange for payments from the funder; and
@@ -189,7 +189,7 @@ This Act binds the Crown.
 (2) The individually funded client must pay the worker, for the provision of the services, no less than the greater of—
   (a) the applicable hourly wage set out in Schedule 2; and
   (b) the ordinary hourly wage that the client was required to pay the worker under the terms and conditions of employment in place between the client and the worker immediately before the commencement of the Support Workers (Pay Equity) Settlements Amendment Act 2020.
-(3) This section does not apply if the funding received by the individually funded client is paid under a family care policy within the meaning of that term in section 70B(1) of the New Zealand Public Health and Disability Act 2000.
+(3)
 (4) This section does not apply in respect of a period of time spent by a worker overnight during which the worker, under the terms of the worker’s employment agreement, is—
   (a) required to be at the worker’s workplace; and
   (b) allowed to sleep at the workplace while on duty; and
