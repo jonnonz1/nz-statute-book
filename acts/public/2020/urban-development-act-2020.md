@@ -1,5 +1,5 @@
 # Urban Development Act 2020
-_Consolidation as at 2020-08-06_
+_Consolidation as at 2020-09-30_
 
 ### 1 Title
 This Act is the Urban Development Act 2020.
@@ -1569,7 +1569,7 @@ Complete applications
 (3) Section 91 of the Resource Management Act 1991 (deferral pending application for additional consents) applies, modified by reading the reference to additional consents under the Resource Management Act 1991 as a reference to additional consents under a development plan or under the Resource Management Act 1991 (see section 91(1)﻿(a) of that Act).
 
 ### 117 Deferral and suspension
-Sections 91A to 91C of the Resource Management Act 1991 apply to applications made under this subpart or under the Resource Management Act 1991 for further consents in relation to a project area.
+Sections 91A to 91F of the Resource Management Act 1991 apply to applications made under this subpart or under the Resource Management Act 1991 for further consents in relation to a project area.
 
 ### 118 Further information may be requested at any time
 (1) A consent authority may at any time, in accordance with section 92 of the Resource Management Act 1991, request further information before hearing an application under this subpart.
