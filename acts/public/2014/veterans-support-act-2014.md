@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-10-01_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -20,7 +20,7 @@ This Act is the Veterans' Support Act 2014.
 (1) The purpose of this Act is to provide for—
   (a) the rehabilitation of and support for veterans who, as a result of being placed in harm's way in the service of New Zealand, have been injured or become ill; and
   (b) entitlements for eligible veterans who suffer service-related injuries or illnesses; and
-  (c) entitlements for eligible spouses, partners, and dependants of severely impaired or deceased veterans.
+  (c) entitlements and support for eligible spouses, partners, children, and dependants of veterans with service-related injuries or illnesses and for other persons who provide non-professional support to those veterans.
 (2) The purpose of Part 2 is to promote positive veteran and claimant interaction with Veterans' Affairs New Zealand through the development and operation of a Code of Veterans' and Other Claimants' Rights.
 
 ### 4 Overview
@@ -99,13 +99,19 @@ In this Act, unless the context otherwise requires,—
   - **armed forces** has the same meaning as in section 2(1) of the Defence Act 1990
   - **child** , in relation to a veteran,—
     (a) means a natural child of the veteran; and
-    (b) includes an adopted child of the veteran; and
+    (b) includes—
+      (i) an adopted child of the veteran; and
+      (ii) a child of whom the veteran is or has been a guardian; and
+      (iii) a grandchild or a whāngai of the veteran in relation to whom the veteran acts or has acted as a parent or a guardian; and
     (c) includes any other child who would ordinarily be regarded as a child of the veteran because the veteran—
-      (i) is or was the spouse or partner of one of the child's parents; and
-      (ii) acted as a parent of the child
+      (i) is or has been the spouse or partner of one of the child's parents; and
+      (ii) acts or has acted as a parent of the child
   - **Code** —
     (a) means the Code of Veterans' and Other Claimants' Rights approved under section 34; and
     (b) includes any amendments to the Code approved under section 37
+  - **counselling** means counselling that is provided by—
+    (a) a health practitioner under the Health Practitioners Competence Assurance Act 2003 and that is within the practitioner’s scope of practice under that Act; or
+    (b) a person who is recognised by the Accident Compensation Corporation as a counsellor for the purposes of the Accident Compensation Act 2001
   - **Defence Force** has the same meaning as in section 2(1) of the Defence Act 1990
   - **dependant** , in relation to a veteran, means any of the following persons:
     (a) a person (not being the spouse, partner, or child of the veteran) who—
@@ -127,8 +133,15 @@ In this Act, unless the context otherwise requires,—
     (b) a lesser number of hours, if the lesser number of hours is defined as full-time employment in the employment agreement under which the veteran was employed, because of the particular nature of that employment
   - **full-time study** has the same meaning as in section 6(1) of the Accident Compensation Act 2001
   - **general manager** means the General Manager of VANZ appointed under section 200
+  - **guardian** has the same meaning as in section 15 of the Care of Children Act 2004
   - **health practitioner** has the same meaning as in section 5(1) of the Health Practitioners Competence Assurance Act 2003
+  - **home** —
+    (a) means residential premises in which the veteran lives and that are owned, rented, or otherwise lawfully occupied by the veteran or the veteran’s parent, guardian, spouse, or partner; and
+    (b) includes residential premises in which the veteran proposes to live after they are built and that will be owned, rented, or otherwise lawfully occupied by the veteran or the veteran’s parent, guardian, spouse, or partner; and
+    (c) includes any other premises in which the veteran lives and for which the veteran is solely responsible for home maintenance; but
+    (d) does not include any hotel or motel, or any hospital, hostel, rest home, or other institution
   - **impairment** means a loss or abnormality of psychological, physiological, or anatomical function or structure
+  - **long-term residential care** has the same meaning as in section 11 of the Residential Care and Disability Support Services Act 2018
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **member of the armed forces** means a person who is or has been a member of a New Zealand armed force raised by the Governor-General on behalf of the Sovereign,—
     (a) whether in New Zealand or elsewhere; and
@@ -137,8 +150,10 @@ In this Act, unless the context otherwise requires,—
   - **New Zealand superannuation qualification age** means the age at which a person becomes entitled to receive New Zealand superannuation under the New Zealand Superannuation and Retirement Income Act 2001
   - **other claimants** means—
     (a) persons who have served as members of the armed forces before 1 April 1974 and whose injury or illness was caused by, contributed to by, or aggravated by routine service in New Zealand or overseas; and
-    (b) dependants of veterans; and
-    (c) spouses or partners of veterans
+    (b) spouses or partners of veterans; and
+    (c) children of veterans; and
+    (d) dependants of veterans; and
+    (e) persons (other than the spouse or partner, or a child or dependant, of the veteran) who provide non-professional support to veterans for the purposes of section 107
   - **partner** means a civil union partner or a de facto partner
   - **review decision** means a decision made by a review officer, a review panel, or the general manager under subpart 2 of Part 7
   - **review officer** means a member or a contractor of the Defence Force appointed by the general manager (or by the Chief of Defence Force if section 219(2)﻿(b) applies) to conduct reviews under subpart 2 of Part 7
@@ -156,6 +171,7 @@ In this Act, unless the context otherwise requires,—
   - **VANZ** means Veterans' Affairs New Zealand established under section 198
   - **veteran** means—
     (a) a member of the armed forces who took part in qualifying operational service at the direction of the New Zealand Government; or
+    (aa) a member of the armed forces who took part in qualifying routine service before 1 April 1974; or
     (b) a person—
       (i) who has been—
         (A) appointed as an employee of the Defence Force under section 61A of the Defence Act 1990; or
@@ -165,31 +181,33 @@ In this Act, unless the context otherwise requires,—
       (i) section 19 (but only if the person was a member of the forces):
       (ii) section 55 or 56:
       (iii) Parts 4 and 5
+  - **whāngai** means a child adopted by the veteran in accordance with Māori custom
   - **working day** means a day of the week other than—
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (ba) the day observed in the appropriate area as the anniversary of the province of which the area forms a part; and
     (c) a day in the period commencing on 25 December in any year and ending with 15 January in the following year.
 
-### 8 Meaning of different types of service
-(1) In this Act, unless the context otherwise requires, qualifying service means—
-  (a) qualifying operational service; and
-  (b) qualifying routine service.
-(2) For the purposes of subsection (1),—
+### 8 Meanings of different types of service
+(1) This section defines the different types of service referred to in this Act.
+(2) In this Act, unless the context otherwise requires,—
   - **qualifying operational service** means—
-    (a) service on any deployment treated as a war or emergency for the purposes of the War Pensions Act 1954; and
+    (a) service on any deployment treated as a war or emergency for the purposes of the War Pensions Act 1954; or
     (b) service on any deployment declared to be operational service under section 9
-  - **qualifying routine service** means service in the armed forces before 1 April 1974 that is not qualifying operational service.
+  - **qualifying routine service** means service in the armed forces before 1 April 1974 that is not qualifying operational service
+  - **qualifying service** means—
+    (a) qualifying operational service; or
+    (b) qualifying routine service.
 
 ### 9 Declarations that deployments are operational service
 (1) As soon as practicable after a decision is made to deploy members of the Defence Force, the Chief of Defence Force must provide a report to the Minister that assesses the operational and environmental threats posed to the health and well-being of the members.
 (2) If further information on the threats posed to the members becomes available or the nature or significance of the threats changes, the Chief of Defence Force must provide a further report to the Minister.
-(3) If the Minister is satisfied that the deployment poses a significant risk of harm to the members deployed, the Minister must, by notice in the Gazette, declare—
+(3) If the Minister is satisfied that the deployment poses a significant risk of harm to the members deployed, the Minister must declare—
   (a) the deployment to be operational service; and
   (b) the area (whether land, sea, or airspace) in which the deployment is to be operational service; and
   (c) the period during which the deployment is to be operational service.
 (4) The Chief of Defence Force must advise the Minister when the deployment ends or the threats posed to members on which the Minister relied in making a declaration under subsection (3) escalate, abate, or cease.
-(5) The Minister may, by notice in the Gazette, shorten or extend the period specified under subsection (3)﻿(c) if,—
+(5) The Minister may shorten or extend the period specified under subsection (3)﻿(c) if,—
   (a) in the case of shortening the period, the Minister is satisfied that the deployment has ceased or will cease to pose a significant risk of harm to members of the deployed force before the expiry of the period; and
   (b) in the case of extending the period, the Minister is satisfied that the deployment will continue to pose a significant risk of harm to members of the deployed force after the expiry of the period.
 (5A) The power under subsection (3) includes the power to make a declaration in respect of a deployment that has ceased, whether the deployment began before or after the commencement of this Act.
@@ -197,11 +215,15 @@ In this Act, unless the context otherwise requires,—
   (a) the reports referred to in subsections (1) and (2) may be provided at any time; and
   (b) subsection (3) applies with any necessary modifications; and
   (c) subsections (4) and (5) do not apply.
-(5C) The Minister may, by notice in the Gazette, extend the period specified under subsection (3)﻿(c) in a declaration referred to in subsection (5A) if the Minister is satisfied that the deployment continued to pose a significant risk of harm to members of the deployed force after the expiry of the period.
+(5C) The Minister may extend the period specified under subsection (3)﻿(c) in a declaration referred to in subsection (5A) if the Minister is satisfied that the deployment continued to pose a significant risk of harm to members of the deployed force after the expiry of the period.
 (5D) Subsection (5E) applies in respect of a declaration (a replacement declaration) that—
   (a) is in respect of a deployment that has ceased; and
   (b) the Minister is satisfied replaces another declaration under this section or a decision under section 70A or 80A of the War Pensions Act 1954 (the earlier declaration or decision).
 (5E) Before making a replacement declaration, the Minister must be satisfied that support to which any particular person would, at any time (whenever arising), have been entitled under the Act as a result of the earlier declaration or decision will not be reduced as a result of the making of the replacement declaration.
+(5F) VANZ must publish the making or amending of a declaration—
+  (a) on an Internet site maintained by or on behalf of VANZ; and
+  (b) in any other manner that VANZ thinks appropriate to bring the matter to the attention of claimants and the general public.
+(5G) VANZ is not required to publish the making or amending of a declaration if satisfied that there are reasons of operational or national security not to publish.
 (6) For the purposes of this section,—
   - **environmental threat** means a threat posed by 1 or more of the following:
     (a) water and food quality or availability, or sanitation conditions:
@@ -225,7 +247,7 @@ In this Act, unless the context otherwise requires,—
 Every person who performs any function or exercises any power under this Act must do so—
   (a) in acknowledgement, on behalf of the community, of the responsibility for the injury, illness, or death of veterans as a result of them being placed in harm's way in the service of New Zealand; and
   (b) in accordance with the following principles:
-    (i) the principle of providing veterans, their spouses and partners, their children, and their dependants with fair entitlements:
+    (i) the principle of providing fair entitlements to veterans and other claimants:
     (ii) the principle of promoting equal treatment of equal claims:
     (iii) the principle of taking a benevolent approach to claims:
     (iv) the principle of determining claims—
@@ -234,21 +256,32 @@ Every person who performs any function or exercises any power under this Act mus
 
 **VANZ's general duties**
 
-### 11 VANZ to perform functions and exercise powers on reasonable grounds and in a timely manner
-(1) VANZ must perform its functions and exercise its powers on reasonable grounds and in a timely manner, having regard to the requirements of this Act, the nature of the function or power, and all the circumstances.
-(2) For the purposes of subsection (1), VANZ is to be treated as responding to a claim in a timely manner if it makes a decision on the claim within 30 working days after receiving the claim.
-(3) However, the 30 working days does not include any period while VANZ is waiting for a veteran or other claimant to provide further information that VANZ requires to determine whether to accept the claim.
+### 11 Information to claimant
+(1) VANZ must keep a veteran or other claimant who makes a claim for an entitlement under this Act up to date on the progress of the claim.
+(2) Without limiting subsection (1), VANZ must,—
+  (a) within 7 working days after receiving a claim, inform the veteran or other claimant that the claim has been received; and
+  (b) notify the veteran or other claimant, in accordance with subsection (3), of VANZ’s decision on the claim.
+(3) Notification of a decision must—
+  (a) be given as soon as practicable after VANZ makes the decision; and
+  (b) be in writing; and
+  (c) include the reason for the decision; and
+  (d) inform the veteran or other claimant of—
+    (i) their rights of review under subpart 2 of Part 7; and
+    (ii) in the case of a claim for a veteran’s pension, their right of appeal under section 175(1); and
+  (e) be given in time to allow the veteran or other claimant to exercise those rights.
 
-### 12 VANZ must keep veteran or claimant up to date on progress of claim and give notice of its decision
-(1) VANZ must keep a veteran or claimant up to date on the progress of the veteran's or claimant's claim.
-(2) As soon as practicable after making a decision on a claim, VANZ must give notice of its decision on the claim to the claimant.
-(3) Every notice given under this section must—
-  (a) be in writing; and
-  (b) contain the reasons for the decision; and
-  (c) comply with section 13.
+### 12 Performance of functions and exercise of powers
+(1) VANZ must perform its functions and exercise its powers—
+  (a) on reasonable grounds; and
+  (b) in a timely manner.
+(2) In complying with subsection (1), VANZ must have regard to the following:
+  (a) the requirements of this Act:
+  (b) the nature of the function or power:
+  (c) all the circumstances.
+(3) Without limiting subsection (1)﻿(b), VANZ must ensure that a decision on a claim for an entitlement under this Act is made as soon as practicable after receiving the claim.
 
 ### 13 VANZ must tell claimant about review rights
-VANZ must tell a claimant that he or she has the right to apply for a review of any of VANZ's decisions on the claim, and must do so at a time appropriate to enable the claimant to exercise the right.
+[Repealed]
 
 **How claims are to be decided**
 
@@ -368,9 +401,9 @@ The production in proceedings of a statement of principles or an amendment of a 
 **Veteran's and claimant's obligations**
 
 ### 27 Responsibility of veteran or other claimant to assist in establishing and maintaining entitlements
-(1) A veteran who applies for or receives an entitlement under this Act must, when reasonably required to do so by VANZ,—
+(1) A veteran or other claimant who applies for or receives an entitlement under this Act must, when reasonably required to do so by VANZ,—
   (a) give VANZ a certificate by a health practitioner or treatment provider that deals with the matters or contains the information that VANZ requires:
-  (b) authorise VANZ to obtain medical and other records that are or may be relevant to the veteran's application or entitlement:
+  (b) authorise VANZ to obtain medical and other records that are or may be relevant to the application or entitlement:
   (c) undergo assessment at VANZ's expense by an assessor appointed by VANZ under section 212 and specified by VANZ.
 (2) A veteran or other claimant who applies for or receives an entitlement under this Act must, when reasonably required by VANZ,—
   (a) give VANZ relevant information about any matters relating to his or her application or entitlement that VANZ requires at any time:
@@ -394,20 +427,29 @@ The production in proceedings of a statement of principles or an amendment of a 
   (b) while the veteran was committing an offence under New Zealand law or committing an act overseas that, had it been done in New Zealand, would have been an offence under New Zealand law:
   (c) in the case of death, the death was self-inflicted (unless occurring during qualifying operational service), but only in relation to entitlements under Part 4 (Scheme Two):
   (d) the injury, illness, or death was predominantly caused by or significantly aggravated by the use of alcohol or tobacco products, the misuse of illegal or prescription drugs, or the contracting of a sexually transmitted disease, but only in relation to entitlements under Part 4 (Scheme Two).
-(2) Despite subsection (1), VANZ may provide entitlements that would otherwise be excluded by subsection (1)﻿(c) and (d) if VANZ is satisfied on reasonable grounds that—
+(1A) Despite subsection (1), VANZ may provide entitlements that would otherwise be excluded by subsection (1)﻿(a) or (b) if VANZ is satisfied on reasonable grounds that, in the circumstances, the exclusion would be unfair to the veteran (for example, because the desertion or absence without leave was brief or the offence was minor in nature).
+(2) Despite subsection (1), VANZ may provide entitlements that would otherwise be excluded by subsection (1)﻿(c) or (d) if VANZ is satisfied on reasonable grounds that—
   (a) the injury, illness, or death was due to a psychological condition that was attributed to or aggravated by the experiences of the veteran during qualifying operational service; or
+  (aa) the injury or illness is itself a psychological condition (for example, alcohol use disorder) that was attributed to or aggravated by the experiences of the veteran during qualifying operational service; or
   (b) in the case of a sexually transmitted disease, the disease resulted from suffering a sexual assault.
 (3) For the purposes of subsection (1)﻿(a), the finding of a military tribunal (within the meaning of the Armed Forces Discipline Act 1971) that a veteran was a deserter or absent without leave is conclusive proof that the veteran was a deserter or absent without leave.
 (4) Claims to entitlements under this Act in relation to injury or illness are excluded to the extent that the injury or illness is due wholly or substantially to the ageing process.
 
-### 29 Disentitlement during imprisonment
-(1) VANZ must not provide any entitlements under Part 3, 4, or 5 to a claimant in respect of any period during which the claimant is a prisoner in any prison.
-(2) VANZ is not required to undertake any assessments or make any payments to a claimant under Part 3, 4, or 5 while the claimant is a prisoner in any prison.
-(3) In this section, prisoner and prison—
-  (a) have the same meaning as in section 3(1) of the Corrections Act 2004; and
-  (b) prison includes—
-    (i) a service prison within the meaning of the Armed Forces Discipline Act 1971; and
-    (ii) an overseas prison.
+### 29 Limited entitlements during imprisonment of veteran
+(1) While a veteran is a prisoner in any prison, VANZ—
+  (a) may continue to provide to the veteran entitlements under subparts 2 and 3 of Part 5 that were being provided to the veteran before the veteran became a prisoner; but
+  (b) must not provide any other entitlements under Part 3, 4, or 5 to the veteran.
+(2) Entitlements of other claimants are not affected by the imprisonment of the veteran.
+(3) While a claimant other than the veteran is a prisoner in any prison, VANZ must not provide, or continue to provide, any entitlements under Part 3, 4, or 5 to the claimant.
+(4) In this section,—
+  - **prison** means—
+    (a) a prison within the meaning of section 3(1) of the Corrections Act 2004; or
+    (b) a service prison within the meaning of section 2(1) of the Armed Forces Discipline Act 1971; or
+    (c) an overseas prison
+  - **prisoner** means,—
+    (a) for a prison referred to in paragraph (a) of the definition of prison, a prisoner within the meaning of section 3(1) of the Corrections Act 2004; or
+    (b) for a prison referred to in paragraph (b) of that definition, a service prisoner within the meaning of section 2(1) of the Armed Forces Discipline Act 1971; or
+    (c) for a prison referred to in paragraph (c) of that definition, a person for the time being in legal custody in that prison.
 
 **Indexation**
 
@@ -434,8 +476,10 @@ The production in proceedings of a statement of principles or an amendment of a 
   (g) the maximum amount for motor vehicle grants (section 148):
   (h) the amount of the retirement lump sum payment (section 151):
   (i) the asset threshold for non-exempt assets (section 151):
-  (j) the maximum amount payable for funeral expenses for a veteran whose death is attributable to qualifying service (section 153):
-  (k) the maximum amount payable for funeral expenses for a veteran whose death is not attributable to qualifying service (section 154):
+  (j) the maximum amount payable for funeral expenses for—
+    (i) a veteran who had undertaken qualifying operational service; or
+    (ii) a veteran whose death was a service-related death (section 153):
+  (k) the maximum amount payable under Scheme One for funeral expenses for other veterans (section 154):
   (l) the lump sum payment to a surviving spouse or partner of a veteran receiving the veteran’s pension (section 174):
   (la) the rates of annuities or allowances payable under section 29A of the War Pensions Act 1954 and Part 5A of the War Pensions Regulations 1956 (see clause 2 of Schedule 1 of this Act):
   (m) the survivor’s grant (clause 53 of Schedule 2):
@@ -708,17 +752,18 @@ Schedule 1 contains transitional provisions relating to veterans who are receivi
 **Surviving spouse or partner pension**
 
 ### 66 Surviving spouse or partner pension
-(1) Subsection (2) applies in relation to a deceased veteran if—
-  (a) the veteran's death was a service-related death; or
-  (b) at the time of the veteran's death, the veteran was receiving—
+(1) A spouse or partner of a deceased veteran is entitled, in accordance with this section, to a surviving spouse or partner pension at a rate specified in regulations made under section 265.
+(2) This section applies if—
+  (a) the veteran had undertaken qualifying operational service; or
+  (b) the veteran’s death was a service-related death; or
+  (c) at the time of the veteran’s death, the veteran was receiving—
     (i) a permanent war disablement pension under Part 2 of the War Pensions Act 1954 in relation to disablement of 70% or more; or
     (ii) a permanent disablement pension granted under subpart 3 in relation to whole-person impairment of 52% or more; or
-  (c) VANZ considers that, had the veteran not died, the veteran would have been eligible to receive a pension specified in paragraph (b)﻿(i) or (ii) (to the extent of impairment specified) had he or she applied for it immediately before his or her death.
-(2) Subsection (1) does not apply if, immediately before the veteran's death,—
+  (d) VANZ considers that, had the veteran not died, the veteran would have been eligible to receive a pension specified in paragraph (c) (to the extent of impairment specified) had he or she applied for it immediately before his or her death.
+(3) This section does not apply if, immediately before the veteran’s death,—
   (a) the veteran and the claimant were living apart or were not maintaining a relationship in the nature of marriage; and
-  (b) the claimant was not contributing to the veteran's day-to-day welfare.
-(3) Subsection (2) does not apply if the circumstances described in the subsection occurred principally because of the health, imprisonment, or employment obligations of the veteran or the claimant.
-(4) A spouse or partner of the veteran is entitled to a surviving spouse or partner pension at a rate specified in regulations made under section 265.
+  (b) the claimant was not contributing to the veteran’s day-to-day welfare.
+(4) Despite subsection (3), this section applies if the circumstances described in that subsection occurred principally because of the health, imprisonment, or employment obligations of the veteran or the claimant.
 
 ### 67 Application for surviving spouse or partner pension
 (1) A surviving spouse or partner becomes entitled to a surviving spouse or partner pension when—
@@ -827,7 +872,8 @@ Schedule 1 contains transitional provisions relating to dependants of veterans w
 ### 81 Entitlement to children's bursary
 (1) Every child described in subsection (2) is entitled to a children's bursary if they are undertaking—
   (a) full-time study at a secondary school; or
-  (b) full-time or part-time study at a tertiary education organisation.
+  (b) full-time or part-time study at a tertiary education organisation; or
+  (c) if the child resides overseas, study overseas that is equivalent to the study described in paragraph (a) or (b).
 (2) The children are—
   (a) children who are entitled to a children's pension:
   (b) children of veterans who are receiving weekly income compensation under subpart 4 of this Part or the veteran's pension under Part 6.
@@ -984,6 +1030,9 @@ A veteran (whether resident in New Zealand or overseas) is entitled to weekly co
   (a) the date on which the veteran commences full-time employment; or
   (b) the expiry of 28 days after the assessment.
 
+### 101A Entitlement to compensation ceases 28 days after veteran’s death
+When a veteran who is receiving weekly compensation dies, the entitlement to the compensation ceases at the end of the 28th day after the date on which the veteran dies.
+
 ### 102 Extent to which veteran entitled to weekly compensation under this subpart and under Accident Compensation Act 2001
 (1) A veteran who has cover under the Accident Compensation Act 2001 is not entitled to weekly compensation under this subpart and under the Accident Compensation Act 2001.
 (2) However, the veteran is entitled to receive from VANZ the difference between the weekly compensation payable under this subpart and under the Accident Compensation Act 2001.
@@ -1023,10 +1072,16 @@ This Part applies to veterans to whom Part 3 or 4 applies.
 
 ### 107 Treatment
 (1) VANZ is responsible for paying or contributing towards paying the cost of treatment of a veteran's injury or illness if the injury or illness is service-related.
+(1A) In addition, VANZ is responsible for paying or contributing towards paying the cost of treatment in the form of counselling for—
+  (a) the spouse or partner or any child or dependant of the veteran; or
+  (b) a person (other than the veteran’s spouse, partner, child, or dependant) who provides non-professional support to the veteran.
+(1B) VANZ must pay or contribute under subsection (1A) if VANZ is satisfied that—
+  (a) the veteran has an injury or illness that is service-related; and
+  (b) a need for counselling arises from that injury or illness.
 (2) However, VANZ is not responsible for paying or contributing to the cost of treatment if—
-  (a) the veteran is a member of the armed forces and the Defence Force is paying or contributing to the cost of the veteran's treatment; or
+  (a) the veteran is a member of the armed forces and the Defence Force is paying or contributing to the cost of the treatment; or
   (b) the treatment is available under the New Zealand Public Health and Disability Act 2000; or
-  (c) ACC is paying or contributing to the cost of the veteran's treatment.
+  (c) ACC is paying or contributing to the cost of the treatment.
 
 ### 108 Extent to which VANZ responsible for paying or contributing to cost of treatment
 (1) As soon as practicable after accepting an application for payment or contribution to payment of the costs of treatment under this subpart, VANZ must decide what treatment VANZ will pay for or contribute towards paying for.
@@ -1038,6 +1093,16 @@ This Part applies to veterans to whom Part 3 or 4 applies.
   (e) whether the treatment will be provided only on the number of occasions necessary:
   (f) whether the treatment is of a type normally provided by the treatment provider for the injury or illness concerned:
   (g) whether the treatment provider is sufficiently qualified and experienced to provide the treatment required.
+(3) In addition, in making a decision about a claim for payment or a contribution under section 107(1A), VANZ must also take into account whether the claimant has a need for counselling arising from the veteran’s injury or illness.
+
+### 108A Urgent treatment of mental injury or illness
+(1) This section applies if—
+  (a) an application has been made for payment or contribution towards payment of the costs of treatment of a veteran’s injury or illness under this subpart; and
+  (b) the treatment is or includes treatment for mental injury or illness; and
+  (c) VANZ has not completed its consideration of the application; and
+  (d) VANZ is satisfied that a delay in the provision of treatment for the mental injury or illness until the application is decided may have an adverse effect on the veteran.
+(2) Despite not having completed its consideration of the application, VANZ may pay or contribute towards paying the cost of treatment for the mental injury or illness.
+(3) Before deciding what treatment it will pay for or contribute towards paying for, VANZ must take into account the matters specified in section 108(2) (and, when applicable, section 108(3)).
 
 ### 109 When VANZ responsible for paying or contributing to cost of ancillary services related to treatment
 (1) VANZ is responsible for paying or contributing to the cost of any service if the service facilitates the treatment and the service is reasonably required as an ancillary service related to treatment, such as—
@@ -1047,8 +1112,8 @@ This Part applies to veterans to whom Part 3 or 4 applies.
 (2) This section applies subject to any regulations made under section 265.
 
 ### 110 Application for additional treatment
-(1) This section applies to a veteran if the veteran is receiving treatment for a service-related injury or illness and VANZ is paying or contributing towards paying the cost of treatment for the injury or illness.
-(2) The veteran may apply to VANZ—
+(1) This section applies if VANZ is paying or contributing towards paying the cost of treatment under this subpart.
+(2) The person receiving the treatment may apply to VANZ—
   (a) to increase the amount VANZ is paying for or contributing towards paying the cost of treatment; or
   (b) to include additional treatment; or
   (c) to do both.
@@ -1107,6 +1172,7 @@ Within 13 weeks after VANZ accepts a veteran's claim for entitlements under Part
 (1) In preparing an individual rehabilitation plan, VANZ must assess the veteran's needs for rehabilitation, having regard to the purposes in sections 120 and 125.
 (2) An individual rehabilitation plan must—
   (a) identify the veteran's needs for rehabilitation; and
+  (aa) identify any support given to the veteran by the veteran’s spouse or partner, any child or dependant of the veteran, or any other person who provides non-professional support to the veteran, and the needs of any of those persons in relation to the support they give; and
   (b) identify the assessments to be done; and
   (c) identify services appropriate to those needs, whether or not VANZ is responsible for providing any or all of those services; and
   (d) specify which of the services identified under paragraph (c) VANZ will provide, pay for, or contribute to.
@@ -1305,7 +1371,7 @@ VANZ must establish and administer a veterans' independence programme (the progr
 
 ### 139 Purpose of programme
 (1) The purpose of the programme is to provide services and support to veterans to the extent that they cannot undertake activities that are required in order for them to live independently in their home.
-(2) In this section, home has the same meaning as in clause 7 of Schedule 2.
+(2)
 
 ### 140 Scope of programme
 (1) Services and support under the programme are to be provided to a veteran with qualifying service to the extent assessed by VANZ and subject to any limits specified in regulations made under section 265.
@@ -1335,8 +1401,15 @@ VANZ must establish and administer a veterans' independence programme (the progr
 ### 143 Surviving spouse or partner
 (1) This section applies to the surviving spouse or partner of a deceased veteran, if the veteran was receiving or was entitled to services and support under the programme before his or her death.
 (2) For the period of 12 months after the veteran's death, his or her spouse or partner is entitled to services and support under the programme to the same extent as the veteran was entitled to.
-(3) Subsection (4) applies to the spouse or partner of a deceased veteran who was receiving services and support under the case management programme operated by VANZ before the commencement of this subpart.
-(4) For the period of 12 months after the commencement of this subpart, the spouse or partner of a deceased veteran is entitled to the services and support under the programme to the same extent as the veteran was receiving under the case management programme.
+(3) Subsection (2) does not apply to a spouse or partner who is receiving services and support under section 143A.
+(4)
+
+### 143A Spouse or partner of veteran in long-term residential care
+(1) This section applies to the spouse or partner of a veteran who—
+  (a) is receiving or is entitled to services and support under the programme; and
+  (b) goes into long-term residential care.
+(2) The veteran’s spouse or partner is entitled to services and support under the programme, to the same extent as the veteran was entitled, for 12 months after the veteran goes into long-term residential care.
+(3) The veteran’s spouse or partner continues to be entitled to services and support under subsection (2) if the veteran dies within 12 months after going into long-term residential care.
 
 ### 144 Regulations
 Regulations may be made under section 265 that specify—
@@ -1411,10 +1484,12 @@ A veteran with total lower body mobility impairment or with severe lower body mo
 ### Subpart 8 — Funeral expenses
 
 ### 152 Application
-(1) Section 153 applies in relation to the death of a veteran if the death is attributable to qualifying service.
-(2) Section 154 applies in relation to the death of a veteran if the death is not attributable to qualifying service.
+(1) Section 153 applies in relation to the death of a veteran if—
+  (a) the veteran had undertaken qualifying operational service; or
+  (b) the veteran’s death was a service-related death.
+(2) Section 154 applies to the death of other veterans (Scheme One only).
 
-### 153 Funeral expenses if death due to qualifying service
+### 153 Funeral expenses: veterans with qualifying operational service or service-related death
 (1) VANZ may pay or contribute to the payment of the expenses of the funeral and burial or cremation of the veteran.
 (2) The maximum amount payable under subsection (1) must be specified in regulations made under section 265.
 (3) If the veteran dies in hospital and his or her burial or cremation is to take place in the locality where the veteran was admitted to hospital, VANZ is responsible for paying the reasonable cost of transporting the body.
@@ -1423,18 +1498,18 @@ A veteran with total lower body mobility impairment or with severe lower body mo
   (b) an amount equivalent to the reasonable cost of transporting the body to the locality from where the veteran was admitted to hospital.
 (5) Regulations may be made under section 265 specifying the maximum amount that may be paid under subsection (3) or (4) for the cost of transporting a veteran's body.
 
-### 154 Funeral expenses if death not due to qualifying service
-(1) VANZ may pay a reasonable amount in respect of the funeral and burial or cremation of a veteran whose death is not attributable to qualifying service if subsection (2) applies.
+### 154 Funeral expenses: other deceased veterans (Scheme One only)
+(1) VANZ may pay a reasonable amount in respect of the funeral and burial or cremation of a veteran to whom section 153 does not apply if subsection (2) applies.
 (2) This subsection applies if—
   (a) the veteran was, at the time of death, receiving any of the following pensions or entitlements:
     (i) weekly income compensation under Part 3:
-    (ii) weekly compensation under Part 4:
+    (ii)
     (iii) veteran's pension under Part 6 of this Act or Part 6 of the War Pensions Act 1954:
     (iv) New Zealand Superannuation:
     (v) a supported living payment under the Social Security Act 2018; and
   (b) the veteran leaves a surviving spouse or partner, or a child or children, or dependants, who will, in the opinion of VANZ be entitled to—
-    (i) a pension under section 66, 72, or 76; or
-    (ii) a survivor's grant under clause 53 of Schedule 2 or weekly compensation under clause 54 or 58 of Schedule 2.
+    (i) a pension under section 66, 72, or 76.
+    (ii)
 (3) The maximum amount payable under subsection (1) must be specified in regulations made under section 265.
 
 ### 155 Extent to which funeral expenses payable under this subpart and under Accident Compensation Act 2001
@@ -1640,7 +1715,7 @@ A veteran’s pension commences on the later of—
 (3) The regulations referred to in subsection (1) must not specify an amount for the relationship (partner not receiving superannuation or pension) legacy rate that is less than the relationship (partner not receiving superannuation or pension) rate.
 
 ### 170 Annual adjustment of rates of veteran's pension
-(1) The rates of veteran's pension must be reviewed in accordance with this section before 1 April every year and, if the review concludes that any of the rates require adjustment under this section, the relevant rate or rates must be adjusted as at 1 April by regulations made under section 265.
+(1) The rates of veteran's pension must be reviewed in accordance with this section before 1 April every year and, if the review concludes that any of the rates require adjustment under this section, the relevant rate or rates must be adjusted as at 1 April by a notice published by VANZ in accordance with this section.
 (2) In this section,—
   - **average wage** means the average ordinary time weekly earnings (males and females combined) as determined by the last Quarterly Employment Survey of wages published by Statistics New Zealand before 1 March in each year (after the deduction of standard tax and the earner levy payable on those earnings)
   - **CPI** means the Consumers Price Index All Groups published by Statistics New Zealand
@@ -1655,10 +1730,13 @@ A veteran’s pension commences on the later of—
   (a) the total amount payable to a veteran and the veteran's spouse or partner who are both eligible to receive a veteran's pension at the relationship rate (before any abatement under section 171 but after the deduction of standard tax) must not be less than 65% of the average wage or more than 72.5% of the average wage:
   (b) the single living alone rate (before any abatement under section 171 but after the deduction of standard tax) must be 65% of the total amount payable to a veteran and the veteran's spouse or partner who are both eligible to receive a veteran's pension paid at the relationship rate (before any abatement under section 171 but after the deduction of standard tax):
   (c) the single sharing accommodation rate (before any abatement under section 171 but after the deduction of standard tax) must be 60% of the total amount payable to a veteran and the veteran's spouse or partner who are both eligible to receive a veteran's pension paid at the relationship rate (before any abatement under section 171 but after the deduction of standard tax).
-(7) Any regulations made in accordance with subsection (1)—
+(7) For the purposes of subsection (1), the notice—
   (a) must preserve the proportional relationship of the relationship (partner not receiving superannuation or pension) rate (before any abatement under section 171, but after the deduction of standard tax) to the relationship rate, the single living alone rate, and the single sharing accommodation rate (as they were before the adjustment):
   (b) must not reduce any of the rates of veteran's pension:
-  (c) come into force, or are to be treated as having come into force, on 1 April of the calendar year in which they are made, and apply to veterans' pensions payable on and after that date.
+  (c) comes into force, or is to be treated as having come into force, on 1 April of the calendar year in which it is made, and applies to veterans’ pensions on and after that date:
+  (d) must be published—
+    (i) on an Internet site maintained by or on behalf of VANZ; and
+    (ii) in any other manner that VANZ thinks appropriate to bring the adjustments to the attention of claimants and the general public.
 
 ### 171 Abatement of veteran’s pension
 (1) The amount payable to a veteran who is entitled to a veteran’s pension under section 161 or 164 is subject to abatement in accordance with regulations made under section 265.
@@ -1687,9 +1765,9 @@ A veteran’s pension commences on the later of—
   (b) the combined income of the veteran and his or her spouse or partner, during that employment, is enough to prevent receipt of any veteran’s pension due to abatement under section 171.
 (5) If this subsection applies to the veteran’s election, the election does not take effect until the employment has ceased.
 
-### 173 Entitlement to veteran's pension for spouses or partners of persons in long-term residential care in hospital or rest home
+### 173 Entitlement to veteran's pension for spouses or partners of persons in long-term residential care
 (1) This section applies to any person—
-  (a) who is not in long-term residential care but whose spouse or partner is in long-term residential care in a hospital or rest home, whether or not the spouse or partner is a resident assessed as requiring care (within the meaning of section 5 of the Residential Care and Disability Support Services Act 2018); and
+  (a) who is not in long-term residential care but whose spouse or partner is in long-term residential care, whether or not the spouse or partner is a resident assessed as requiring care (within the meaning of section 5 of the Residential Care and Disability Support Services Act 2018); and
   (b) who is receiving a veteran’s pension, or whose spouse or partner is receiving a veteran’s pension.
 (2) A person to whom this section applies is entitled to a veteran's pension at—
   (a) the single living alone rate, if the person is living alone; or
@@ -1982,13 +2060,14 @@ Every function, duty, and power of VANZ under this Act is a function, duty, or p
 
 ### 205 VANZ may reconsider decision
 (1) If VANZ considers it made a decision in error, it may reconsider the decision at any time, whatever the reason for the error.
-(2) Subsection (3) applies to a decision by VANZ that affects a person and in respect of which—
+(2) This section applies to a decision by VANZ that affects a person and in respect of which—
   (a) an application for review of the decision did not succeed (in whole or in part); and
   (b) an appeal against the unsuccessful review decision did not succeed (in whole or in part).
-(3) VANZ may reconsider a decision if, in VANZ's view, any of the following apply:
+(3) Without limiting subsection (1), VANZ may reconsider a decision if, in VANZ's view, any of the following apply:
   (a) a statement of principles is adopted or modified under section 22 after the decision was made and, if the statement had been adopted or modified before the decision was made, it would have materially affected the decision; or
   (b) a presumptive decision-making condition is specified or amended in regulations made after the decision was made and, if the condition had been specified or amended before the decision was made, it would have materially affected the decision; or
-  (c) service is declared operational service under section 9 after the decision was made and, if the declaration had been made before the decision was made, it would have materially affected the decision.
+  (c) service is declared operational service under section 9 after the decision was made and, if the declaration had been made before the decision was made, it would have materially affected the decision; or
+  (d) VANZ receives new information and, if that information had been received before the decision was made, it would have materially affected the decision.
 (4) VANZ may reconsider a decision to which subsection (3)﻿(a) or (b) applies on application by the affected person or on its own initiative.
 (5) VANZ may reconsider a decision to which subsection (3)﻿(c) applies on application by the affected person.
 (6) A decision by VANZ to decline to reconsider a decision under this section is not subject to review under section 215.
@@ -2506,7 +2585,7 @@ VANZ must provide the resources and administrative support necessary to enable t
   (26) section 156 (provision of plaques and headstones):
   (27) section 157 (provision of financial advice):
   (28) section 169 (rates of veteran's pension):
-  (29) section 170 (annual adjustment of rates of veteran's pension):
+  (29)
   (29A) section 171 (abatement of veteran’s pension):
   (30) section 174 (lump sum payment on death):
   (31) section 208 (payments to persons other than claimants):
@@ -2843,6 +2922,13 @@ In this Part,—
   (b) in connection with bringing the power, and all other enactments relevant to the power’s exercise, into operation; or
   (c) to amend, revoke, or replace anything previously done in reliance on this clause.
 
+### Part 5 — Provision relating to Veterans’ Support Amendment Act 2020
+
+### 22 Transitional ITOs as tertiary education organisations
+(1) This Part applies during the transition period.
+(2) Despite the definition of tertiary education organisation in section 81(5), a transitional ITO must also be treated as a tertiary education organisation for the purposes of section 81(1)﻿(b).
+(3) In this clause, transitional ITO and transition period have the same meanings as in clause 42 of Schedule 1 of the Education and Training Act 2020.
+
 ## Schedule 2 — Entitlements
 
 ### 1 Application
@@ -2908,10 +2994,6 @@ In clauses 8 to 17,—
     (b) includes any other child, if the child needs child care because of his or her physical or mental condition
   - **communication** means conveying and receiving information by using skills such as anger management, assertiveness, ability to concentrate, language, memory, numeracy, social awareness, social skills, speech production and development, and using communications technology
   - **domestic activities** means cleaning, laundry, meal preparation, and associated shopping activities, in relation to the veteran's home
-  - **home** —
-    (a) means residential premises in which the veteran lives and which are owned, rented, or otherwise lawfully occupied by the veteran or his or her parent, guardian, or spouse or partner; and
-    (b) includes residential premises in which the veteran proposes to live after they are built and which will be owned, rented, or otherwise lawfully occupied by the veteran or his or her parent, guardian, or spouse or partner; but
-    (c) does not include any hospital, hostel, hotel, motel, rest home, or other institution
   - **home help** means the provision of domestic activities
   - **independence** includes the capacity to function in the following areas:
     (a) communication:
@@ -3584,13 +3666,19 @@ For the purposes of this Part, any child of a veteran who is born within 12 mont
 ### 66 Duration of child care payments
 (1) VANZ is responsible for making payments for child care on and from the date of death of the deceased veteran.
 (2) The child ceases to be entitled to child care payments on the earlier of—
-  (a) 5 years after the date on which the entitlement started; or
-  (b) on the date on which—
+  (a) a date determined by VANZ, at its discretion, having regard to the matters set out in subclause (2A); and
+  (b) the date on which—
     (i) the child turns 14 years; or
     (ii) if the child is older and needs child care because of his or her physical or mental condition, the child ceases to need child care.
+(2A) For the purposes of subclause (2)﻿(a), VANZ must have regard to—
+  (a) whether the surviving parent or carer of the veteran’s child is employed; and
+  (b) whether the surviving parent or carer of the child has a new spouse or partner; and
+  (c) the number of the veteran’s children; and
+  (d) where the child or children live, including the accessibility of organised child care; and
+  (e) other relevant circumstances of the family.
 (3) A child who, immediately before the deceased veteran's death, was entitled to payments for child care because of the death of another deceased veteran has no entitlement for the subsequent death.
-(4) However, VANZ must start counting the 5-year period referred to in subclause (2)﻿(a) at the date of the subsequent death.
-(5) This clause applies despite anything in this schedule.
+(4)
+(5)
 
 ### 67 Child care payments made to caregiver
 (1) VANZ must make, on behalf of the child, every payment for child care to a person who is responsible for arranging for the child's care.
