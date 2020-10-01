@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-10-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -1475,18 +1475,13 @@ A summary of the information contained in a statement of proposal must—
   (b) is for the avoidance of doubt.
 
 ### 83B Use of special consultative procedure during outbreak of COVID-19
-(1) A local authority that is required, by this Act or any other enactment, to use or adopt the special consultative procedure, may take the modified approach to using the special consultative procedure that is set out in this section.
-(2) When making decisions about the timing and manner of consultation steps in the course of using the special consultative procedure, the local authority may rely on 1 or more of the modifications set out in subsection (4).
-(3) The local authority may take the modified approach at any relevant point of the special consultative procedure if, and only to the extent that, it is satisfied that to do so is necessary or desirable to support measures taken to contain or mitigate the outbreak of COVID-19 or its effects, including, without limitation, by addressing the impacts and consequences of the outbreak for any aspect of the well-being of the community.
-(4) The modifications to the special consultative procedure are as follows:
-  (a) the minimum period referred to in section 83(1)﻿(b)﻿(iii) is 7 days:
-  (b) the matters set out in section 83(1)﻿(d) and (e) are highly desirable but not mandatory.
+[Repealed]
 
 ### 83C Long-term plan commencing on 1 July 2021
-Section 83B does not apply to the requirement that a local authority use or adopt the special consultative procedure for the long-term plan that must be adopted under section 93 for the period commencing on 1 July 2021.
+[Repealed]
 
 ### 83D Repeal of sections 83B and 83C and this section
-Sections 83B and 83C and this section are repealed on 1 October 2020.
+[Repealed]
 
 ### 84 Special consultative procedure in relation to long-term plan
 [Repealed]
@@ -4798,17 +4793,13 @@ The relevant amendments do not apply to a local government reorganisation for wh
 ### Part 4 — Provisions relating to COVID-19 Response (Further Management Measures) Legislation Act 2020
 
 ### 22 Special consultative procedure commenced before 17 May 2020
-(1) Subclause (2) applies if, in meeting a requirement to use or adopt the special consultative procedure, a local authority has complied with section 83(1)﻿(b)﻿(i) before 17 May 2020.
-(2) Section 83B does not apply and the local authority must continue and conclude the special consultative procedure set out in section 83 without modification.
-(3) Subclause (4) applies if, in meeting a requirement to use or adopt the special consultative procedure, a local authority has not yet complied with section 83(1)﻿(b)﻿(i) before 17 May 2020.
-(4) Section 83B applies and the local authority may continue and conclude consultation by using the special consultative procedure as modified by that section.
+[Repealed]
 
 ### 23 Modified special consultative procedure commenced after 17 May but before 1 October 2020
-(1) This clause applies if, in meeting a requirement to use or adopt the special consultative procedure, a local authority commences the procedure after 17 May 2020 and complies with section 83(1)﻿(b)﻿(i) before 1 October 2020.
-(2) Despite clause 24 and section 83D, the local authority may continue using the special consultative procedure as modified by section 83B until the procedure is concluded.
+[Repealed]
 
 ### 24 Repeal of this Part
-This Part is repealed on 1 October 2020.
+[Repealed]
 
 ## Schedule 1 — Acts under which responsibilities, powers, and duties are conferred or imposed on Minister of Local Government and Secretary for Local Government
 
