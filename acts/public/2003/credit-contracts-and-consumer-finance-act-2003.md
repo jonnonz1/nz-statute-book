@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2020-08-15_
+_Consolidation as at 2020-10-01_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -715,6 +715,7 @@ The opening unpaid balance shown in each successive continuing disclosure statem
 ### 29 Right of cancellation does not apply in certain situations
 (1) Section 27 does not apply if the credit is provided for a specified period of less than 2 months and no part of the credit is used, with the knowledge of the creditor, to pay amounts owing to the creditor or a related company under another credit contract.
 (2) Section 27 does not entitle a debtor to cancel a consumer credit contract on the ground that disclosure has not been made to a guarantor.
+(3) Section 27 does not apply to a layby sale agreement.
 
 ### 30 Effect of cancellation
 (1) If a consumer credit contract is cancelled under section 27(1)﻿(b), the following rules apply:
