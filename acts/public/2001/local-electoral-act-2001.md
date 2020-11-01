@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-11-01_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -123,14 +123,7 @@ The purpose of this Act is to modernise the law governing the conduct of local e
 (3) In this Act, every reference to an election on a specified date or day is, unless the context otherwise requires, a reference to an election, the polling day for which is on that date or day.
 
 ### 5AA Temporary definition of public notice as result of outbreak of COVID-19
-(1) This section provides a temporary definition of public notice, which applies as a result of the outbreak of COVID-19.
-(2) In this Act, unless the context otherwise requires, public notice means a notice that—
-  (a) is made available on the local authority’s Internet site until the relevance of the notice, or any opportunity for review or appeal in relation to the matter notified, has lapsed; and
-  (b) is published in 1 or more newspapers circulating in the region or district of the relevant local authority.
-(3) However, a local authority is not required to publish a notice in 1 or more newspapers if it is satisfied that, as a result of the outbreak of COVID-19, it is not reasonably practicable to do so, taking into account—
-  (a) the cost of publication; and
-  (b) the reduced effectiveness of publication.
-(4) This section is repealed on 1 November 2020.
+[Repealed]
 
 ### 5A General description of First Past the Post electoral system
 For local electoral purposes, the First Past the Post electoral system,—
