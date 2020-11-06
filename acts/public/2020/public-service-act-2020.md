@@ -1,5 +1,5 @@
 # Public Service Act 2020
-_Consolidation as at 2020-08-06_
+_Consolidation as at 2020-11-06_
 
 ### 1 Title
 This Act is the Public Service Act 2020.
@@ -700,7 +700,7 @@ When making an appointment under this Act, a chief executive or board must give 
 (2) Subsection (1) is subject to any exceptions provided in this Act.
 
 ### 77 Personal grievances and disputes
-Despite sections 78, 79, and 81 to 83,—
+Despite sections 78, 79, and 81 to 83B,—
   (a) in relation to a personal grievance, the employer is the chief executive of the department or the board of the interdepartmental venture; and
   (b) in relation to a dispute about the interpretation, application, or operation of a collective agreement, the employer is the chief executive of the department or the board of the interdepartmental venture acting, if the Commissioner so requires, together with or in consultation with the Commissioner; and
   (c) in relation to any other employment relationship problem (within the meaning of the Employment Relations Act 2000), the employer is the chief executive of the department or the board of the interdepartmental venture.
@@ -735,32 +735,43 @@ Despite sections 78, 79, and 81 to 83,—
 
 **Pay equity claims**
 
-### 81 Pay equity claims
-(1) The Commissioner is responsible in accordance with this section for negotiating all pay equity claims as if the Commissioner were the employer.
+### 81 Interpretation
+In sections 82 to 83B,—
+  - **facilitation of bargaining** means facilitation of bargaining under sections 13ZP to 13ZX of the Equal Pay Act 1972
+  - **pay equity claim** means a pay equity claim within the meaning of section 2(1) of the Equal Pay Act 1972 that is raised with the chief executive of a department or, as the case may be, the board of an interdepartmental venture as employer
+  - **pay equity claim settlement** has the same meaning as in section 2(1) of the Equal Pay Act 1972.
+
+### 82 Pay equity claims
+(1) The Commissioner is responsible for dealing with a pay equity claim as if the Commissioner were the employer.
 (2) When a pay equity claim is raised with the chief executive of a department or the board of an interdepartmental venture, the chief executive or board must, as soon as practicable, give notice in writing of the pay equity claim to the Commissioner.
-(3) The Commissioner’s responsibility under this section arises in relation to the pay equity claim—
+(3) The Commissioner’s responsibility under subsection (1)—
+  (a) includes, without limiting that subsection, responsibility for acknowledging receipt of and giving notice of the claim, forming a view on whether the claim is arguable, conducting the pay equity bargaining process, and settling a pay equity claim; but
+  (b) does not include responsibility for the following, unless the Commissioner thinks it appropriate to continue the Commissioner’s responsibility during that time:
+    (i) attendance in mediation under the Employment Relations Act 2000 in relation to the claim or any aspect of the claim; or
+    (ii) participation in any facilitation of bargaining or participation in relation to any application lodged in the Employment Relations Authority or filed in a tribunal or a court in relation to the claim or any aspect of the claim.
+(4) The Commissioner’s responsibility under this section arises in relation to a pay equity claim—
   (a) on the date on which the Commissioner receives notice under subsection (2); or
   (b) on any later date that the Commissioner notifies to the chief executive or board.
-(4) The Commissioner’s responsibility under this section ceases in relation to the pay equity claim—
-  (a) after the parties begin to attend mediation under the Employment Relations Act 2000 in relation to the pay equity claim, unless the Commissioner thinks it appropriate to continue the Commissioner’s responsibility at that time; or
-  (b) in any event, on the date on which a claim is lodged in the Employment Relations Authority or filed in a tribunal or a court in relation to the pay equity claim.
-(5) When the responsibility of the Commissioner ceases under subsection (4), the employer is, or employers are, the chief executive of each department and the board of each interdepartmental venture in which any of the employees are employed, acting, if the Commissioner requires, together with or in consultation with the Commissioner.
-(6) In this section, pay equity claim means a claim, whether under the Equal Pay Act 1972 or the Government Service Equal Pay Act 1960,—
-  (a) that is made by an employee or employees of a department or an interdepartmental venture and raised with the chief executive of the department or, as the case may be, the board of an interdepartmental venture as employer; and
-  (b) that is to the effect that the employer has failed to ensure that there is no differentiation between the rates of remuneration offered and afforded by the employer for work that is exclusively or predominantly performed by female employees and the rate of remuneration that would be paid to male employees who—
-    (i) have the same, or substantially similar, skills, responsibility, and service; and
-    (ii) work under the same, or substantially similar, conditions, and with the same, or substantially similar, degrees of effort.
+(5) Subsection (3) is subject to subsection (4).
 
-### 82 Commissioner to enter negotiations in consultation with affected department or interdepartmental venture
-If the Commissioner enters into negotiations in relation to a pay equity claim, the Commissioner must do so in consultation with the chief executive or board of each affected department or interdepartmental venture.
+### 83 Application of section 13K of Equal Pay Act 1972 where more than 1 department or interdepartmental venture involved in pay equity claim
+(1) In relation to the requirements under section 13K of the Equal Pay Act 1972,—
+  (a) if a pay equity claim involves more than 1 department or interdepartmental venture but there are no other employers involved in the claim, the Commissioner is not required (and the departments or interdepartmental ventures involved in the claim are not required) to enter into a multi-employer pay equity process agreement:
+  (b) if a pay equity claim involves more than 1 department or interdepartmental venture and there are also other employers involved in the claim, the Commissioner must enter into a multi-employer pay equity process agreement in the Commissioner’s name (and the departments and interdepartmental ventures involved are not required to enter into the agreement).
+(2) If the Commissioner has delegated the powers to negotiate a pay equity claim to any chief executive of a department or board of an interdepartmental venture involved in the claim,—
+  (a) subsection (1) does not apply; and
+  (b) the requirements in section 13K of the Equal Pay Act 1972 apply to the department or interdepartmental venture.
 
-### 83 Agreement in relation to pay equity claim binding on chief executive or board affected
-(1) Every agreement in relation to a pay equity claim entered into between the Commissioner and 1 or more public service employees is binding on the chief executive of each department and the board of each interdepartmental venture in which any of the employees are employed.
-(2) A chief executive of a department who, or board of an interdepartmental venture that, is bound by an agreement referred to in subsection (1) has the rights, functions, and obligations that the chief executive or board would have, in respect of that agreement, if that chief executive or board were a party to it.
-(3) Responsibility for giving effect to any agreement in relation to a pay equity claim entered into between the Commissioner and 1 or more public service employees lies with the chief executive of each department and the board of each interdepartmental venture in which any of the employees are employed.
+### 83A Commissioner to enter negotiations in consultation with affected department or interdepartmental venture
+When the Commissioner enters into the pay equity bargaining process under sections 13ZC to 13ZZE of the Equal Pay Act 1972, the Commissioner must do so in consultation with the chief executive or board of each affected department or interdepartmental venture.
+
+### 83B Pay equity settlement binding on chief executive or board affected
+(1) Every pay equity claim settlement agreement entered into between the Commissioner and 1 or more unions or between the Commissioner and 1 or more employees of the public service is binding on the chief executive of each department and the board of each interdepartmental venture in which any of the employees are employed.
+(2) A chief executive of a department who, or board of an interdepartmental venture that, is bound by a pay equity claim settlement agreement under subsection (1) has the rights, functions, and obligations that the chief executive or board would have, in respect of that pay equity claim settlement, if that chief executive or board were a party to that settlement.
+(3) Responsibility for giving effect to any pay equity claim settlement between the Commissioner and 1 or more public service employees lies with the chief executive of each department and the board of each interdepartmental venture in which any of the employees are employed.
 
 ### 84 Delegation of Commissioner’s functions and powers to negotiate pay equity claim
-(1) The Commissioner may, under clause 6 of Schedule 3, delegate to a chief executive of a department or to a board of an interdepartmental venture the Commissioner’s functions and powers under section 81.
+(1) The Commissioner may, under clause 6 of Schedule 3, delegate to a chief executive of a department or to a board of an interdepartmental venture the Commissioner’s functions and powers under section 81 and 83.
 (2) The delegation may be subject to a direction or condition requiring the chief executive or board to conduct negotiations in relation to a pay equity claim in consultation with any other chief executive of a department or board of an interdepartmental venture.
 (3) Subsection (2) does not limit the directions or conditions the Commissioner may specify in relation to the delegation.
 
