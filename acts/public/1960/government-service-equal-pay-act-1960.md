@@ -1,5 +1,5 @@
 # Government Service Equal Pay Act 1960
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-11-06_
 
 > An Act to make provision for the application to the Government service of the principle that women should receive the same pay as men where they do equal work under equal conditions
 
