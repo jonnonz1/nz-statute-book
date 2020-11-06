@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2020-08-26_
+_Consolidation as at 2020-11-06_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -63,6 +63,7 @@ The object of this Act is—
   (c) consultation (whether or not under a collective agreement) between an employer and its employees, including any union representing the employees, about the employees' collective employment interests, including the effect on employees of changes to the employer's business:
   (d) a proposal by an employer that might impact on the employer's employees, including a proposal to contract out work otherwise done by the employees or to sell or transfer all or part of the employer's business:
   (e) making employees redundant:
+  (ea) making pay equity claims, responding to pay equity claims, and participating in the pay equity claim resolution process under Part 4 of the Equal Pay Act 1972:
   (f) access to a workplace by a representative of a union:
   (g) communications or contacts between a union and an employer relating to any secret ballots held for the purposes of bargaining for a collective agreement.
 (5) The matters specified in subsection (4) are examples and do not limit subsection (1).
@@ -73,10 +74,11 @@ The object of this Act is—
 ### 4A Penalty for certain breaches of duty of good faith
 A party to an employment relationship who fails to comply with the duty of good faith in section 4(1) is liable to a penalty under this Act if—
   (a) the failure was deliberate, serious, and sustained; or
-  (b) the failure was intended to undermine—
-    (i) bargaining for an individual employment agreement or a collective agreement; or
-    (ii) an individual employment agreement or a collective agreement; or
-    (iii) an employment relationship; or
+  (b) the failure was intended to—
+    (i) undermine bargaining for an individual employment agreement or a collective agreement; or
+    (ii) undermine an individual employment agreement or a collective agreement; or
+    (iii) undermine an employment relationship; or
+    (iv) undermine the pay equity claim resolution process under Part 4 of the Equal Pay Act 1972; or
   (c) the failure was a breach of section 59B or section 59C.
 
 **Records relating to minimum entitlement provisions**
@@ -135,7 +137,7 @@ In this Act, unless the context otherwise requires,—
   - **employment relationship problem** includes a personal grievance, a dispute, and any other problem relating to or arising out of an employment relationship, but does not include any problem with the fixing of new terms and conditions of employment
   - **employment standards** means any of the following:
     (a) the requirements of any of sections 64, 69Y, 69ZD, 69ZE, and 130:
-    (b) the provisions of the Equal Pay Act 1972:
+    (b) the requirements of section 2AAC(a) and 2A of the Equal Pay Act 1972:
     (c) the minimum entitlements and payment for those under the Holidays Act 2003:
     (d) the requirements of sections 81 and 82 of the Holidays Act 2003:
     (e) the minimum entitlements under the Minimum Wage Act 1983:
@@ -530,7 +532,9 @@ The object of this Part is—
   (a) opposition or objection in principle to—
     (i) bargaining for, or being a party to, a collective agreement; or
     (ii) including rates of wages or salary in a collective agreement; or
-  (b) disagreement about including a bargaining fee clause under Part 6B in a collective agreement.
+  (b) disagreement about including a bargaining fee clause under Part 6B in a collective agreement; or
+  (c) the existence of an unsettled pay equity claim between an employer and a claimant under the Equal Pay Act 1972; or
+  (d) the existence of a requirement to review a pay equity claim settlement under the Equal Pay Act 1972.
 (3) For the purposes of subsection (1), opposition to concluding a multi-employer collective agreement is a genuine reason not to conclude a collective agreement if that opposition is based on reasonable grounds.
 (4) Clause 6 of Schedule 1B overrides subsection (3).
 (5) In this section and in clause 6 of Schedule 1B, multi-employer collective agreement means a single collective agreement involving 2 or more employers.
@@ -769,7 +773,7 @@ A member of the Authority who facilitates collective bargaining must not be the 
   (b) that the manner in which the facilitation was provided was inappropriate.
 
 ### 50F Statements made by parties during facilitation
-(1) A statement made by a party for the purposes of facilitation is not admissible against the party in proceedings under this Act.
+(1) A statement made by a party for the purposes of facilitation is not admissible against the party in proceedings under this Act or under the Equal Pay Act 1972.
 (2) A party may make a public statement about facilitation only if—
   (a) it is made in good faith; and
   (b) it is limited to the process of facilitation or the progress being made.
@@ -2645,18 +2649,20 @@ If a strike or lockout occurs, the employer of the employees participating in th
   (b) specify the date on which the code comes into force; and
   (c) state where copies of the code may be obtained.
 (3) Before the Minister approves a code of employment practice, the Minister must consult, or be satisfied that there has been consultation, with such persons and organisations as the Minister thinks appropriate, including relevant employer and employee interests.
-(4) The purpose of a code of employment practice is to provide guidance on the application of this Act—
+(4) The purpose of a code of employment practice is to provide guidance on the application of any of the Acts specified in section 223(1) or any regulations made under those Acts—
   (a) generally; or
   (b) in relation to particular types of situations; or
   (c) in relation to particular parts or areas of the employment environment.
+(5) A code of employment practice approved under this section is not a legislative instrument but is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 100B Amendment and revocation of code of practice
 A code of practice may be amended or revoked in the same manner as the code is approved.
 
-### 100C Authority or court may have regard to code of practice
-The Authority or the court may, in determining any matter within its jurisdiction, have regard to a code of employment practice that—
-  (a) was in force at the relevant time; and
-  (b) in the form in which it was then in force, related to the circumstances before the Authority or the court.
+### 100C Authority or court may have regard to code of employment practice
+(1) A code of employment practice is admissible in any civil or criminal proceedings as evidence of whether the enactment to which it relates has been complied with.
+(2) The Authority or a court may—
+  (a) have regard to the code as evidence of compliance with the provisions of the enactment to which it relates; and
+  (b) rely on the code in determining what is required to comply with those provisions.
 
 **Code of good faith for public health sector**
 
@@ -3155,6 +3161,7 @@ The chief executive or a Labour Inspector may recover in the District Court as a
     (iii) any terms of settlement or decision that section 151 provides may be enforced by compliance order; or
     (iiia) an enforceable undertaking that section 223C(1) provides may be enforced by compliance order; or
     (iiib) an improvement notice that section 223D(6) provides may be enforced by compliance order; or
+    (iiic) any terms of a pay equity claim settlement under section 13ZH of the Equal Pay Act 1972; or
     (iv) a demand notice that section 225(4) provides may be enforced by compliance order; or
     (v) sections 73 and 74 of the Public Service Act 2020 and sections 597 and 600 of the Education and Training Act 2020; or
     (vi) sections 76 to 80 of the Public Service Act 2020 and sections 585 to 596 and 660 of the Education and Training Act 2020; or
@@ -3785,6 +3792,7 @@ If a matter before the Authority relates principally to an alleged breach of emp
     (i) under this Act for a breach of an employment agreement:
     (ii) under this Act for a breach of any provision of this Act (being a provision that provides for the penalty to be recovered in the Authority):
     (iia) under the Support Workers (Pay Equity) Settlements Act 2017:
+    (iib) under section 18 of the Equal Pay Act 1972:
     (iii) under section 76 of the Holidays Act 2003:
     (iiia) under section 25 of the Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016:
     (iv) under section 10 of the Minimum Wage Act 1983:
@@ -3796,9 +3804,18 @@ If a matter before the Authority relates principally to an alleged breach of emp
   (qa) disputes about an invention made by an employee (either alone or jointly with any other person) or any patent granted, or to be granted, in respect of that invention:
   (qb) reviews under section 30 of the Patents Act 2013:
   (qc) determining whether an employer has complied with section 30D of the Parental Leave and Employment Protection Act 1987:
+  (qd) all matters arising under the Equal Pay Act 1972 and, in particular,—
+    (i) determining equal pay claims and unlawful discrimination claims:
+    (ii) determining disputes as to whether a pay equity claim is arguable:
+    (iii) determining disputes as to whether work is comparable work for the purpose of assessing a pay equity claim:
+    (iv) determining disputes as to whether work is in fact undervalued:
+    (v) fixing remuneration that is consistent with pay equity under that Act:
+    (vi) determining whether the terms and conditions of employment in an employee’s employment agreement are more or less favourable than the terms and conditions of employment in a pay equity claim settlement for the purposes of section 13ZM of that Act:
+    (vii) determining whether to provide for recovery of an amount of remuneration for past work, and the amount to provide, under section 13ZZD of that Act:
+    (viii) determining the applicable start date for the purposes of section 13ZZE of that Act:
   (r) any other action (being an action that is not directly within the jurisdiction of the court) arising from or related to the employment relationship or related to the interpretation of this Act (other than an action founded on tort):
   (s) determinations under such other powers and functions as are conferred on it by this or any other Act.
-(2) Except as provided in subsection (1)﻿(ca), (cb), (d), (da), and (f), the Authority does not have jurisdiction to make a determination about any matter relating to—
+(2) Except as provided in subsection (1)﻿(ca), (cb), (d), (da), (f), and (qd), the Authority does not have jurisdiction to make a determination about any matter relating to—
   (a) bargaining; or
   (b) the fixing of new terms and conditions of employment.
 (3) Except as provided in this Act, no court has jurisdiction in relation to any matter that, under subsection (1), is within the exclusive jurisdiction of the Authority.
