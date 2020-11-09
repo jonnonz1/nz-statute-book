@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2020-10-01_
+_Consolidation as at 2020-11-09_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -1566,10 +1566,6 @@ A veteran with total lower body mobility impairment or with severe lower body mo
   - **living alone** , in relation to a single person, has the meaning given to it by section 159
   - **New Zealand superannuation** means New Zealand superannuation paid or payable under the New Zealand Superannuation and Retirement Income Act 2001
   - **ordinarily resident** , in relation to any person, does not include being unlawfully resident in New Zealand
-  - **relationship (partner not receiving superannuation or pension) legacy rate** means the rate of a veteran’s pension specified in regulations that is payable to a person—
-    (a) who is married or in a civil union or in a de facto relationship; and
-    (b) whose spouse or partner is not entitled to receive New Zealand superannuation or a veteran’s pension; and
-    (c) who was receiving, or had applied for and was entitled to receive, New Zealand superannuation or a veteran’s pension at the alternative rate before 1 October 1991
   - **relationship (partner not receiving superannuation or pension) rate** means the rate of a veteran’s pension specified in regulations that is payable to a person—
     (a) who is married or in a civil union or in a de facto relationship; and
     (b) whose spouse or partner is not entitled to receive New Zealand superannuation or a veteran’s pension
@@ -1582,9 +1578,21 @@ A veteran with total lower body mobility impairment or with severe lower body mo
   (a) any word or expression used in this Part but not defined in this Part has the same meaning as it has in section 7 of this Act; and
   (b) any word or expression used in this Part but not defined in this Part or in section 7 of this Act has the meaning given to it in Schedule 2 of the Social Security Act 2018.
 
+### 158A Relationship of this Part with Social Security Act 2018
+The Social Security Act 2018 contains provisions relating to the administration, and other aspects, of the veteran’s pension.
+
 ### 159 Meaning of living alone
 (1) A single person (person A) is living alone only if he or she meets the 2 conditions specified in subsections (2) and (3).
-(2) The first condition is that person A occupies a principal place of residence of a kind described in subsection (6).
+(2) The first condition is that person A occupies any of the following kinds of accommodation as person A’s principal residence:
+  (a) a house or flat:
+  (b) a boat or craft moored within the following sea or waters (whether or not it travels within that sea or any of those waters from time to time):
+    (i) the territorial sea of New Zealand or any internal waters of New Zealand:
+    (ii) any waters within New Zealand that are a lake, estuary, lagoon, river, stream, creek, or other waters:
+  (c) a hotel room or motel unit:
+  (d) a room in a boarding house:
+  (e) a unit of accommodation in a caravan park:
+  (f) a mobile home (whether or not it is in a caravan park and whether or not it travels from time to time) that VANZ is satisfied is sufficiently self-contained to be reasonably habitable as a residence:
+  (g) any other accommodation of a kind prescribed by regulations made under section 265.
 (3) The second condition is that person A does not share that residence with any person 18 years old or older, except a person to whom subsection (4) or (5) applies.
 (4) This subsection applies to person A's dependent child—
   (a) who—
@@ -1593,12 +1601,7 @@ A veteran with total lower body mobility impairment or with severe lower body mo
     (iii) is attending a school or a tertiary educational establishment; but
   (b) only until the close of 31 December in the year in which the child turns 18 years old.
 (5) This subsection applies to a temporary visitor to person A's residence who stays there less than 13 weeks in any period of 26 weeks.
-(6) The place of residence referred to in subsection (2) is—
-  (a) a house or flat; or
-  (b) a boat or craft moored within any of the following sea or waters, whether or not it is from time to time travelling within that sea or any of those waters:
-    (i) the territorial sea of New Zealand or any internal waters of New Zealand; or
-    (ii) any waters within New Zealand, being any lake, estuary, lagoon, river, stream, creek, or other waters; or
-  (c) a hotel room, a motel unit, a room in a boarding house, or a unit of accommodation in a caravan park.
+(6)
 (7) In this section,—
   - **boarding house** has the same meaning as in section 66B of the Residential Tenancies Act 1986
   - **territorial sea of New Zealand** and have the same meanings as in the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977.
@@ -1710,9 +1713,9 @@ A veteran’s pension commences on the later of—
   (a) a single living alone rate:
   (b) a single sharing accommodation rate:
   (c) a relationship rate:
-  (d) a relationship (partner not receiving superannuation or pension) rate:
-  (e) a relationship (partner not receiving superannuation or pension) legacy rate.
-(3) The regulations referred to in subsection (1) must not specify an amount for the relationship (partner not receiving superannuation or pension) legacy rate that is less than the relationship (partner not receiving superannuation or pension) rate.
+  (d) a relationship (partner not receiving superannuation or pension) rate.
+  (e)
+(3) The relationship (partner not receiving superannuation or pension) rate is the appropriate rate of veteran’s pension payable to a person only in the circumstances specified in clause 22 of Schedule 1.
 
 ### 170 Annual adjustment of rates of veteran's pension
 (1) The rates of veteran's pension must be reviewed in accordance with this section before 1 April every year and, if the review concludes that any of the rates require adjustment under this section, the relevant rate or rates must be adjusted as at 1 April by a notice published by VANZ in accordance with this section.
@@ -1727,7 +1730,7 @@ A veteran’s pension commences on the later of—
 (4) The adjustments (by any percentage movements upwards in the CPI) required under subsection (3) as at 1 April in any year from 2015 to 2021 (inclusive) must, despite subsections (2) and (3), be calculated using index numbers of the CPI, excluding cigarettes and other tobacco products, published by Statistics New Zealand.
 (5) If the relationship rate, the single living alone rate, or the single sharing accommodation rate does not meet the relevant criteria described in subsection (6), the rate must be adjusted to meet the criteria.
 (6) The criteria are—
-  (a) the total amount payable to a veteran and the veteran's spouse or partner who are both eligible to receive a veteran's pension at the relationship rate (before any abatement under section 171 but after the deduction of standard tax) must not be less than 65% of the average wage or more than 72.5% of the average wage:
+  (a) the total amount payable to a veteran and the veteran's spouse or partner who are both eligible to receive a veteran's pension at the relationship rate (before any abatement under section 171 but after the deduction of standard tax) must not be less than 66% of the average wage or more than 72.5% of the average wage:
   (b) the single living alone rate (before any abatement under section 171 but after the deduction of standard tax) must be 65% of the total amount payable to a veteran and the veteran's spouse or partner who are both eligible to receive a veteran's pension paid at the relationship rate (before any abatement under section 171 but after the deduction of standard tax):
   (c) the single sharing accommodation rate (before any abatement under section 171 but after the deduction of standard tax) must be 60% of the total amount payable to a veteran and the veteran's spouse or partner who are both eligible to receive a veteran's pension paid at the relationship rate (before any abatement under section 171 but after the deduction of standard tax).
 (7) For the purposes of subsection (1), the notice—
@@ -1744,26 +1747,14 @@ A veteran’s pension commences on the later of—
   (a) a veteran’s pension under section 161 and a veteran’s pension under section 164:
   (b) a veteran’s pension under section 164 if the veteran receives the veteran’s pension at—
     (i) the relationship rate, the single living alone rate, or the single sharing accommodation rate:
-    (ii) the relationship (partner not receiving superannuation or pension) rate or the relationship (partner not receiving superannuation or pension) legacy rate.
+    (ii) the relationship (partner not receiving superannuation or pension) rate.
 (3) Regulations made under section 265 that increase an amount of an abatement threshold (prescribed by regulations of that kind) for abatement of a veteran’s pension under section 161 or 164—
   (a) must state the date on which they are to have effect (which may be a date before the date on which they were made); and
   (b) apply to abatement thresholds as applicable on or after the date on which the regulations have effect.
 (4) Subsection (3) does not authorise any payment to be made before the date on which the regulations that increase the abatement threshold are made.
 
 ### 172 Election if spouse or partner not entitled to superannuation or veteran's pension
-(1) This section applies to a veteran—
-  (a) who is entitled to a veteran's pension; and
-  (b) who is not single; and
-  (c) whose spouse or partner is not entitled to New Zealand superannuation or a veteran's pension.
-(2) The veteran may elect to receive—
-  (a) the relationship rate; or
-  (b) the relationship (partner not receiving superannuation or pension) rate; or
-  (c) if the veteran was receiving, or had applied for and was entitled to receive, New Zealand superannuation or a veteran’s pension at the alternative rate before 1 October 1991, the relationship (partner not receiving superannuation or pension) legacy rate.
-(3) A veteran who has made an election under subsection (2) may change that election.
-(4) Subsection (5) applies to a veteran's election to receive the relationship (partner not receiving superannuation or pension) rate, and to a veteran's election to receive the relationship (partner not receiving superannuation or pension) legacy rate, under subsection (2) when—
-  (a) the veteran's spouse or partner is in employment under a contract of service; and
-  (b) the combined income of the veteran and his or her spouse or partner, during that employment, is enough to prevent receipt of any veteran’s pension due to abatement under section 171.
-(5) If this subsection applies to the veteran’s election, the election does not take effect until the employment has ceased.
+[Repealed]
 
 ### 173 Entitlement to veteran's pension for spouses or partners of persons in long-term residential care
 (1) This section applies to any person—
@@ -1874,18 +1865,8 @@ The proportion referred to in section 183(1) is to be calculated by—
   (c) adding the number of calendar months and the quotient calculated under paragraph (b); and
   (d) dividing the total calculated under paragraph (c) by 540.
 
-### 185 Certain absences excluded from calculation
-(1) In determining for the purposes of section 184 the periods during which a person has resided in New Zealand, no account is to be taken of—
-  (a) any period of absence from New Zealand of a kind described in section 9(1) of the New Zealand Superannuation and Retirement Income Act 2001; or
-  (b) any period of absence from New Zealand—
-    (i) while the person was engaged in missionary work (within the meaning of section 10(4) of the New Zealand Superannuation and Retirement Income Act 2001) as a member of, or on behalf of, any religious body; or
-    (ii) while the person's spouse or partner was engaged in missionary work (within the meaning of section 10(4) of the New Zealand Superannuation and Retirement Income Act 2001) as a member of, or on behalf of, any religious body, and the person was with his or her spouse or partner; or
-  (c) any period of absence from New Zealand while the person was treated under section 16(5) of, and regulations made under section 421 of, the Social Security Act 2018, as being resident and present in New Zealand; or
-  (d) any period of absence from New Zealand while, as the spouse or partner of a person treated under section 16(5) of, and regulations made under section 421 of, the Social Security Act 2018, as being resident and present in New Zealand, the person was also (by virtue of those provisions of, or of those regulations made under, the Social Security Act 2018) treated as being resident and present in New Zealand.
-(2) Subsection (1) applies to a period of absence only if VANZ is satisfied that during it the person concerned remained ordinarily resident in New Zealand.
-(3) Subsection (1)﻿(b) applies to a period of absence only if VANZ is satisfied that the person concerned either was born in New Zealand or—
-  (a) in the case of a person to whom subsection (1)﻿(b)﻿(i) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to engage in the missionary work concerned:
-  (b) in the case of a person to whom subsection (1)﻿(b)﻿(ii) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to accompany or join his or her spouse or partner.
+### 185 Treatment of certain absences for purposes of calculation
+For the purposes of section 184, a person must be treated as having resided in New Zealand during a period of absence from New Zealand if section 9, 10, or 10A of the New Zealand Superannuation and Retirement Income Act 2001 requires the person to be treated as having been resident and present in New Zealand during the period.
 
 ### 186 Application for entitlement
 A person is not entitled to be paid a veteran's pension under section 182 unless he or she—
@@ -2584,6 +2565,7 @@ VANZ must provide the resources and administrative support necessary to enable t
   (25) section 154 (funeral expenses if death not due to qualifying service):
   (26) section 156 (provision of plaques and headstones):
   (27) section 157 (provision of financial advice):
+  (27A) section 159 (forms of accommodation linked to meaning of living alone):
   (28) section 169 (rates of veteran's pension):
   (29)
   (29A) section 171 (abatement of veteran’s pension):
@@ -2928,6 +2910,19 @@ In this Part,—
 (1) This Part applies during the transition period.
 (2) Despite the definition of tertiary education organisation in section 81(5), a transitional ITO must also be treated as a tertiary education organisation for the purposes of section 81(1)﻿(b).
 (3) In this clause, transitional ITO and transition period have the same meanings as in clause 42 of Schedule 1 of the Education and Training Act 2020.
+
+### Part 6 — Provision relating to New Zealand Superannuation and Veteran’s Pension Legislation Amendment Act 2020
+
+### 23 Generally abolished rate for veterans with non-qualifying spouse or partner
+(1) The relationship (partner not receiving superannuation or pension) rate is the appropriate rate of veteran’s pension payable to a person only if—
+  (a) the person is a veteran; and
+  (b) the person is married or in a civil union or in a de facto relationship; and
+  (c) the person’s spouse or partner is not entitled to New Zealand superannuation or a veteran’s pension; and
+  (d) immediately before 9 November 2020, an election of the person to receive a veteran’s pension, or New Zealand superannuation, at a non-standard couple rate was in effect (see clauses 8 to 10 of Schedule 1AA of the New Zealand Superannuation and Retirement Income Act 2001); and
+  (e) the person is not barred under clause 7 of Schedule 1AA of the New Zealand Superannuation and Retirement Income Act 2001 from receiving New Zealand superannuation at the rate specified in clause 1(b) of Part 2 of Schedule 1 of that Act.
+(2) In this clause,—
+  - **non-standard couple rate** has the same meaning as in clause 7(3) of Schedule 1AA of the New Zealand Superannuation and Retirement Income Act 2001
+  - **relationship (partner not receiving superannuation or pension) rate** means the rate of that name referred to in section 169.
 
 ## Schedule 2 — Entitlements
 
