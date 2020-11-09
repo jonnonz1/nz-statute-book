@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-11-09_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -38604,13 +38604,18 @@ Non-resident entertainer rate
 ### RD 10C Calculating amounts of tax following changes to rates or thresholds
 When a change occurs to a rate or threshold in this Act or the Tax Administration Act 1994 affecting the amount of tax for a PAYE income payment, the calculation of the amount of tax must be made using the rate applying on the day on which the PAYE income payment is paid or is otherwise under this Act treated as paid.
 
-### RD 11 Reduction in certain circumstances
+### RD 11 Amount of tax in certain circumstances
 Special circumstances
 (1) Despite sections RD 2 to RD 10, the Commissioner may, in special circumstances, reduce the amount of tax for a PAYE income payment to an employee or a class of employees. The PAYE rules then apply as if amended.
 When schedule or regulations inapplicable
 (2) If the amount of tax for a PAYE income payment cannot be determined under schedule 2 (Basic tax rates for PAYE income payments) or under regulations made under this Act because of the size of the PAYE income payment, or the number of the employee’s dependants, or for any other reason, the amount of tax for the payment must be determined by the Commissioner, taking into account the factors considered in fixing the amount of tax for other similar payments.
-Income-tested benefits and education allowances
-(3) The amount of tax for a PAYE income payment that is an income-tested benefit or an allowance paid under regulations made under section 645 of the Education and Training Act 2020 must be determined by the Commissioner in consultation with the chief executive of the administering department or the Secretary of Education.
+Income-tested benefits, New Zealand superannuation, and veteran’s pension
+(3) Despite section RD 10(1), the amount of tax for a PAYE income payment that is a payment of any of the following benefits must be determined by the Commissioner in consultation with the chief executive of the administering department:
+  (a) an income-tested benefit:
+  (b) New Zealand superannuation:
+  (c) a veteran’s pension.
+Education allowances
+(3B) Despite section RD 10(1), the amount of tax for a PAYE income payment that is a payment of an allowance under regulations made under section 645 of the Education and Training Act 2020 must be determined by the Commissioner in consultation with the Secretary for Education.
 When Commissioner makes determination under section RD 8(3)
 (4) If the Commissioner makes a determination under section RD 8(3) in relation to the amount or proportion of expenditure that a person incurs in deriving a schedular payment, the basis for calculating the amount of tax for the schedular payment is the reduced amount found after subtracting the amount or proportion of expenditure determined by the Commissioner from the amount of the payment. This subsection overrides section RD 10(3).
 
@@ -43599,9 +43604,9 @@ In this Act, unless the context requires otherwise,—
   - **New Zealand superannuation equivalent assistance** means special assistance granted under clause 9 or 10 of the COVID-19 New Zealanders Stranded Overseas Support Programme that corresponds to New Zealand superannuation, ignoring paragraph (a)﻿(ii) of the definition of
   - **New Zealand superannuitant** , for a tax year,—
     (a) means a person who receives New Zealand superannuation in the tax year; and
-    (b) does not include a person who receives New Zealand superannuation at a rate specified in—
-      (i) schedule 1, clause 2 of the New Zealand Superannuation and Retirement Income Act 2001; or
-      (ii)
+    (b) does not include a person who receives New Zealand superannuation—
+      (i) before 9 November 2020 (which is the commencement date of the New Zealand Superannuation and Veteran’s Pension Legislation Amendment Act 2020) at a rate specified in clause 2 of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001; or
+      (ii) on or after 9 November 2020 at a rate specified in clause 1 of Part 2 of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001
   - **New Zealand tax** means income tax imposed by this Act or any earlier Act
   - **New Zealand unit**
   - **Niue International Trust Fund** means the trust governed by the Deed concerning the Niue International Trust Fund dated 25 October 2006 and signed by Her Majesty the Queen in right of New Zealand and the Governments of Niue and Australia
