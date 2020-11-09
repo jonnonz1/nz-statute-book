@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2020-08-26_
+_Consolidation as at 2020-11-09_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -2276,8 +2276,13 @@ What tax codes do not apply to
 (2) A tax code does not apply in relation to—
   (a) a schedular payment, see sections 24F, 24G, and 24H, and schedule 5, part C:
   (b) an extra pay, see sections RD 7 and RD 17 of the Income Tax Act 2007.
-Income-tested benefits
-(3) The amount of tax for a payment of an income-tested benefit is determined under section RD 11(3) of the Income Tax Act 2007.
+Income-tested benefits, New Zealand superannuation, and veteran’s pension
+(3) The amount of tax for a payment of any of the following is determined under section RD 11(3) of the Income Tax Act 2007:
+  (a) an income-tested benefit:
+  (b) New Zealand superannuation:
+  (c) a veteran’s pension.
+Education allowances
+(3B) The amount of tax for a payment of an allowance under regulations made under section 645 of the Education and Training Act 2020 is determined under section RD 11(3B) of the Income Tax Act 2007.
 Basic tax rates
 (4) The basic tax rates for payments of salary or wages for particular tax codes, including a non-notified tax code, are set out in the Income Tax Act 2007, schedule 2, part A.
 
