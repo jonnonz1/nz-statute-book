@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2020-04-01_
+_Consolidation as at 2020-11-09_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -19,6 +19,7 @@ The purpose of this Act is—
 
 ### 4 Interpretation of Part 1 and Schedule 1
 (1) In Part 1 and Schedule 1, unless the context otherwise requires,—
+  - **charitable entity** has the same meaning as in the Charities Act 2005
   - **chief executive** means the chief executive of the department
   - **department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of Part 1
   - **living alone** , in relation to a single person, has the meaning given to it by section 4A
@@ -27,9 +28,21 @@ The purpose of this Act is—
   - **single sharing accommodation rate** means the rate of New Zealand superannuation specified in clause 1(b) of Schedule 1 that is payable to a single person who is not living alone.
 (2) In this Act, unless the context otherwise requires, any expression used in Part 1 or Schedule 1 but not defined in this Act has the same meaning as it has in the Social Security Act 2018 or the Residential Care and Disability Support Services Act 2018.
 
+### 4AA Relationship of Part 1 and Schedule 1 with Social Security Act 2018
+The Social Security Act 2018 contains provisions relating to the administration, and other aspects, of New Zealand superannuation.
+
 ### 4A Meaning of living alone
 (1) A single person (person A) is living alone only if he or she meets the 2 conditions specified in subsections (2) and (3).
-(2) The first condition is that person A occupies a principal place of residence of a kind described in subsection (6).
+(2) The first condition is that person A occupies any of the following kinds of accommodation as person A’s principal residence:
+  (a) a house or flat:
+  (b) a boat or craft moored within the following sea or waters (whether or not it travels within that sea or any of those waters from time to time):
+    (i) the territorial sea of New Zealand or any internal waters of New Zealand:
+    (ii) any waters within New Zealand that are a lake, estuary, lagoon, river, stream, creek, or other waters:
+  (c) a hotel room or motel unit:
+  (d) a room in a boarding house:
+  (e) a unit of accommodation in a caravan park:
+  (f) a mobile home (whether or not it is in a caravan park and whether or not it travels from time to time) that the chief executive is satisfied is sufficiently self-contained to be reasonably habitable as a residence:
+  (g) any other accommodation of a kind prescribed by regulations made under section 35A(1).
 (3) The second condition is that person A does not share that residence with any person 18 years old or older, except a person to whom subsection (4) or (5) applies.
 (4) This subsection applies to person A's dependent child—
   (a) who—
@@ -38,12 +51,7 @@ The purpose of this Act is—
     (iii) is attending a school or a tertiary educational establishment; but
   (b) only until the close of 31 December in the year in which the child turns 18 years old.
 (5) This subsection applies to a temporary visitor to person A's residence who stays there less than 13 weeks in any period of 26 weeks.
-(6) The place of residence referred to in subsection (2) is—
-  (a) a house or flat; or
-  (b) a boat or craft moored within any of the following sea or waters, whether or not it is from time to time travelling within that sea or any of those waters:
-    (i) the territorial sea of New Zealand or any internal waters of New Zealand; or
-    (ii) any waters within New Zealand, being any lake, estuary, lagoon, river, stream, creek, or other waters; or
-  (c) a hotel room, motel unit, a room in a boarding house, or a unit of accommodation in a caravan park.
+(6)
 (7) In this section,—
   - **boarding house** has the same meaning as in section 66B of the Residential Tenancies Act 1986
   - **territorial sea of New Zealand** and have the same meanings as in the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977.
@@ -86,7 +94,7 @@ This Act binds the Crown.
 
 ## Part 1 — Entitlements to New Zealand superannuation
 
-**Standard New Zealand superannuation entitlements**
+**Preliminary and general provisions**
 
 ### 7 Age qualification for New Zealand superannuation
 (1) Every person is entitled to receive New Zealand superannuation who attains the age of 65 years.
@@ -99,38 +107,62 @@ This Act binds the Crown.
 No person is entitled to New Zealand superannuation unless the person—
   (a) is ordinarily resident in New Zealand on the date of application for New Zealand superannuation, unless section 31(4) of this Act or section 191(4) of the Veterans’ Support Act 2014 applies; and
   (b) has been both resident and present in New Zealand for a period or periods aggregating not less than 10 years since attaining the age of 20 years; and
-  (c) has also been both resident and present for a period or periods aggregating not less than 5 years since attaining the age of 50 years in any 1 or more of—
+  (c) has been both resident and present for a period or periods aggregating not less than 5 years since attaining the age of 50 years in any 1 or more of—
     (i) New Zealand:
     (ii) the Cook Islands:
     (iii) Niue:
     (iv) Tokelau.
 
-### 9 Periods of absence that are not counted
-(1) In determining the period an applicant has been present in New Zealand, no account is taken of,—
-  (a) in the case of any applicant, any period of absence for the purpose of obtaining any special medical or surgical treatment or vocational training if the chief executive is satisfied that there were good and sufficient reasons for the person leaving New Zealand to obtain that special treatment or training:
-  (b) in the case of a mariner, any period of absence while serving on board any ship registered or owned in New Zealand and engaged in trading to and from New Zealand:
-  (c) in the case of any applicant, any period of absence while serving in any capacity as a member of any naval, military, or air force of any Commonwealth country or serving in connection with any war in which New Zealand forces were involved as a member of any organisation attached to any of those forces:
-  (d) in the case of any applicant, any period of absence while serving in any capacity as an accredited volunteer appointed by Volunteer Service Abroad Incorporated.
-(2) Subsection (1) applies only if the chief executive is satisfied that during the absence of the applicant he or she remained ordinarily resident in New Zealand.
-(3) The reference in subsection (1)﻿(d) to Volunteer Service Abroad Incorporated must for all purposes relating to the operation of subsection (1)﻿(d) on or after its commencement on 12 October 2001, and despite any later changes to that body's name, be read as a reference to the body incorporated under the Incorporated Societies Act 1908 on 8 April 1963 as Volunteer Service Abroad Inc.
+### 9 Treatment of various periods of absence
+(1) For the purposes of section 8(b) and (c)﻿(i), a person must be treated as having been both resident and present in New Zealand during a period of absence from New Zealand if the chief executive is satisfied that—
+  (a) the person was ordinarily resident in New Zealand during the period; and
+  (b) the person—
+    (i) was absent for the purpose of obtaining special medical or surgical treatment or vocational training and that there were good and sufficient reasons for the person leaving New Zealand to obtain that special treatment or training; or
+    (ii) while absent, served as a mariner on board a ship registered or owned in New Zealand and engaged in trading to and from New Zealand; or
+    (iii) while absent, served in any capacity as a member of any naval, military, or air force of any Commonwealth country or served in connection with any war in which New Zealand forces were involved as a member of any organisation attached to any of those forces; or
+    (iv) while absent, was engaged in eligible charitable work.
+(2) For the purposes of this section, a person is engaged in eligible charitable work if the person is engaged in—
+  (a) full-time voluntary work that—
+    (i) is humanitarian work; and
+    (ii) is carried out for an entity that is, or is affiliated with or closely related to, a charitable entity that has as its principal function the giving of aid and assistance to less advantaged communities in 1 or more countries; and
+  (b) any capacity as an accredited volunteer appointed by Volunteer Services Abroad Incorporated.
+(3) In this section,—
+  - **entity** has the same meaning as in the Charities Act 2005
+  - **voluntary work** includes work that the chief executive is satisfied is remunerated by nothing more than an insubstantial allowance or a token payment
+  - **Volunteer Service Abroad Incorporated** means the body incorporated under the Incorporated Societies Act 1908 on 8 April 1963 as Volunteer Service Abroad Inc.
 
-### 10 Periods of absence as missionary also not counted
-(1) In determining the period an applicant has been present in New Zealand, no account is taken of any period of absence while engaged in missionary work outside New Zealand as a member of, or on behalf of, any religious body or, as the case may be, during any period that the applicant was absent from New Zealand with his or her spouse or partner while that spouse or partner was engaged in that missionary work.
-(2) Subsection (1) applies only if the chief executive is satisfied that the applicant was either born in New Zealand or was ordinarily resident in New Zealand immediately before leaving New Zealand to engage in the missionary work or, as the case may be, to accompany or join his or her spouse or partner.
+### 10 Treatment of periods of absence as missionary
+(1) For the purposes of section 8(b) and (c)﻿(i), a person must be treated as having been both resident and present in New Zealand during a period of absence from New Zealand if the chief executive is satisfied that—
+  (a) immediately before the period, the person was ordinarily resident in New Zealand (see clause 5 of Schedule 1AA in relation to absences commencing before 9 November 2020); and
+  (b) one or both of the following apply in relation to the person’s absence:
+    (i) while absent, the person was engaged in missionary work:
+    (ii) the person was absent with the person’s spouse or partner who was engaged in missionary work; and
+  (c) the missionary work was carried out for a charitable entity affiliated with a religious body (see clause 5 of Schedule 1AA in relation to the application of this paragraph to missionary work that began before 9 November 2020).
+(2) A person is not to be regarded as ending a period of absence referred to in this section merely because the person visited New Zealand during the absence if the arrangement under which the person, or the person’s spouse or partner, was engaged in missionary work continued during the visit.
 (3) Unless otherwise expressly provided in the agreement, the provisions of subsection (1) are not modified by the provisions of any agreement entered into by the Government of New Zealand with the government of any other country, whether before or after the commencement of this section, providing for reciprocity in social security benefits between their respective countries or the provisions of any Act or Order in Council giving effect to the agreement.
 (4) In this section, missionary work includes the advancement of religion or education and the maintenance, care, or relief, of orphans, or the aged, infirm, sick, or needy.
+
+### 10A Treatment of periods of absence if New Zealand income tax withheld on overseas earnings
+(1) For the purposes of section 8(b) and (c)﻿(i), a person must be treated as having been both resident and present in New Zealand during a period of absence from New Zealand if the chief executive is satisfied that one or both of the following apply in relation to the person’s absence:
+  (a) while absent, the person was employed outside New Zealand and the person’s employer (or any other relevant person) made specified payments with respect to the person’s period of employment:
+  (b) the person was absent with the person’s spouse or partner who was employed outside New Zealand and the spouse’s or partner’s employer (or any other relevant person) made specified payments with respect to the spouse’s or partner’s period of employment.
+(2) This section applies in relation to a person’s period of employment, whether or not the person’s employer (or any other relevant person) failed to pay to the Commissioner of Inland Revenue a deducted or withheld amount of tax, if the chief executive is satisfied that—
+  (a) the person’s employer (or any other relevant person) deducted or withheld tax from specified payments with respect to the person’s period of employment; and
+  (b) the person did not contribute to the employer’s (or any other relevant person’s) failure to pay that tax to the Commissioner.
+(3) For the purposes of this section, an employer (or any other relevant person) makes a specified payment with respect to a person’s period of employment if the employer (or any other relevant person) makes—
+  (a) PAYE income payments (as that term is used in the Income Tax Act 2007) from which the person, the person’s employer, or any other relevant person must withhold an amount of tax under the PAYE rules as defined in that Act; or
+  (b) source deduction payments (as that term is used in the Income Tax Act 2004) from which the person, the person’s employer, or any other relevant person must withhold an amount of tax under the PAYE rules as defined in that Act; or
+  (c) source deduction payments (as that term is used in the Income Tax Act 1994) from which the person, the person’s employer, or any other relevant person must make a tax deduction under the PAYE rules as defined in that Act; or
+  (d) source deduction payments (as that term is used in the Income Tax Act 1976) from which the person, the person’s employer, or any other relevant person must make a tax deduction under Part 11 of that Act; or
+  (e) source deduction payments (as that term is used in the Income Tax Assessment Act 1957) from which the person, the person’s employer, or any other relevant person must make a tax deduction under Part 2 of that Act.
+(4) See clause 6 of Schedule 1AA in relation to the application of this section before 9 November 2020.
 
 ### 11 Commencement of New Zealand superannuation
 (1) New Zealand superannuation commences on the date on which the applicant becomes entitled to receive it or the date on which the application for it is received by the department, whichever is the later date.
 (2) This section is subject to section 317 of the Social Security Act 2018.
 
-### 12 Standard rates of New Zealand superannuation
-(1) The rate of New Zealand superannuation payable to any person is the appropriate rate stated in clause 1 or clause 2 of Schedule 1.
-(2) A person who is married or in a civil union or in a de facto relationship and whose spouse or partner is not entitled to receive New Zealand superannuation may elect to receive the appropriate rate stated in either clause 1 or clause 2 of that schedule.
-(3) However, an election to receive New Zealand superannuation under clause 2 of Schedule 1 does not take effect until the employment has ceased in a case where—
-  (a) that person’s spouse or partner is or was in employment under a contract of service; and
-  (b) the combined income of the person and his or her spouse or partner, during that employment, is or was enough to prevent receipt of New Zealand superannuation under clause 2 of that schedule.
-(4) A person who has made an election under subsection (2) may at any time change that election.
+### 12 Rates of New Zealand superannuation
+The rate of New Zealand superannuation payable to a person is the appropriate rate specified in Schedule 1.
 
 **Living alone payments**
 
@@ -142,20 +174,21 @@ No person is entitled to New Zealand superannuation unless the person—
 
 **Annual adjustment of New Zealand superannuation**
 
-### 15 Annual adjustment of standard rates of New Zealand superannuation
+### 15 Annual adjustment of rates
 (1) In this section,—
   - **CPI** means the consumers price index-all groups published by Statistics New Zealand
   - **standard tax** means the amount of tax reckoned on a weekly basis that would be deductible in accordance with the tax code M stated in schedule 5, part A, clause 4, table row 1 of the Tax Administration Act 1994.
-(2) Subject to subsection (3), the rates of New Zealand superannuation stated in paragraphs (a), (b), and (c) of clause 1 and paragraph (b) of clause 2 of Schedule 1 must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate (after the deduction of standard tax) is the rate at that date (after the deduction of standard tax and before the adjustment under this section is made) adjusted by any percentage movement upwards in the CPI between the CPI for the quarter ended with 31 December one year before the immediately preceding 31 December and the CPI for the quarter ended with the immediately preceding 31 December.
+(2) Subject to subsection (3), the rates of New Zealand superannuation stated in clause 1 of Part 1 of Schedule 1, and clause 1(b) of Part 2 of that schedule, must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate (after the deduction of standard tax) is the rate at that date (after the deduction of standard tax and before the adjustment under this section is made) adjusted by any percentage movement upwards in the CPI between the CPI for the quarter ended with 31 December one year before the immediately preceding 31 December and the CPI for the quarter ended with the immediately preceding 31 December.
 (2A) The adjustments (by any percentage movement upwards in the CPI) required under subsection (2) as at 1 April in any year from 2011 to 2021 (inclusive) must, despite subsections (1) and (2), be calculated,—
   (a) if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using index numbers for those quarters of the consumers price index-all groups published by Statistics New Zealand; and
   (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the consumers price index-all groups excluding cigarettes and other tobacco products published by Statistics New Zealand.
 (3) Every Order in Council made under subsection (2) must adjust the rates of New Zealand superannuation, subject to subsection (4),—
   (a) so that the weekly amounts referred to in section 16 are set in accordance with that section; and
-  (b) so that the rate of New Zealand superannuation stated in paragraph (b) of clause 2 of Schedule 1 preserves its proportional relationship (after the deduction of standard tax) to the rates stated in paragraphs (a), (b), and (c) of clause 1 of that schedule.
+  (b) so that the rate of New Zealand superannuation specified in clause 1(b) of Part 2 of Schedule 1 preserves its proportional relationship (after the deduction of standard tax) to the rates specified in clause 1 of Part 1 of that schedule.
 (4) An adjustment under this section must not reduce the weekly amounts payable under this section.
 (5) Every Order in Council made under subsection (2) has the force of law as if it was enacted by this Act.
 (6) Every Order in Council made under subsection (2) comes into force or is considered to come into force on 1 April of the calendar year in which it is made, and applies to New Zealand superannuation payable on and after that date.
+(7) See section 452 of the Social Security Act 2018, under which rates of New Zealand superannuation may be adjusted by Order in Council (including rates not required to be adjusted under this section).
 
 ### 15A Orders are confirmable instruments
 The explanatory note of an Order in Council made under section 15(2) must indicate that—
@@ -165,12 +198,12 @@ The explanatory note of an Order in Council made under section 15(2) must indica
 
 ### 16 Annual adjustment of New Zealand superannuation: relationship to net average wage
 (1) The annual adjustment of New Zealand superannuation under section 15 must ensure that—
-  (a) the standard weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a couple who are married or in a civil union or in a de facto relationship, both of whom are qualified to receive New Zealand superannuation, is not less than 65% or more than 72.5% of the average ordinary time weekly earnings (males and females combined) as determined by the last Quarterly Employment Survey of wages published by the Department of Statistics before 1 March in each year (after the deduction of standard tax and the earner levies payable on those earnings):
+  (a) the standard weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a couple who are married or in a civil union or in a de facto relationship, both of whom are qualified to receive New Zealand superannuation, is not less than 66% or more than 72.5% of the average ordinary time weekly earnings (males and females combined) as determined by the last Quarterly Employment Survey of wages published by the Department of Statistics before 1 March in each year (after the deduction of standard tax and the earner levies payable on those earnings):
   (b) the standard weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a single person who is living alone is 65% of the weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a couple who are married or in a civil union, both of whom are qualified to receive New Zealand superannuation:
   (c) the standard weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a single person who is not living alone is 60% of the weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a couple who are married or in a civil union, both of whom are qualified to receive New Zealand superannuation.
-(2) In this section, earner levies means the levies payable under section 219(1) of the Injury Prevention, Rehabilitation, and Compensation Act 2001.
+(2) In this section, earner levies means the levies payable under section 219(1) of the Accident Compensation Act 2001.
 
-**Non-standard New Zealand superannuation entitlements**
+**Effect of long-term residential care or hospitalisation**
 
 ### 17 Entitlement to benefits for spouses or partners of persons in long-term residential care in hospital or rest home
 (1) This section applies to any person who is not in long-term residential care and whose spouse or partner is in long-term residential care in a hospital or rest home, whether or not the spouse or partner is a resident assessed as requiring care (as defined in section 5 of the Residential Care and Disability Support Services Act 2018).
@@ -180,36 +213,37 @@ The explanatory note of an Order in Council made under section 15(2) must indica
     (i) that person is not entitled to New Zealand superannuation in his or her own right; but
     (ii) his or her spouse or partner is entitled to New Zealand superannuation and was entitled to make and had made an election under section 6(2) or section 11(2) of the Social Welfare (Transitional Provisions) Act 1990 before 1 October 1991; or
   (c) an emergency benefit under section 63 of the Social Security Act 2018 at the appropriate rate of a supported living payment payable to a person who is single or is single with 1 or more dependent children, as the case may be, in any other case.
+(2A) See section 89 of the Social Security Act 2018, under which a person to whom this section applies may be entitled to a special disability allowance for the purpose of assisting with expenses arising from the hospitalisation of the person’s spouse or partner.
 (3) Any benefit payable to a person to whom this section applies is not subject to abatement in respect of any income of the person that has been included in a means assessment of the person’s spouse under the Residential Care and Disability Support Services Act 2018.
+(4) This section applies despite anything to the contrary in this Act (except sections 19 and 21 to 35).
 
-### 18 Single living alone rate for spouses or partners of persons in long-term residential care in hospital or rest home
-However, every person to whom section 17(2)﻿(a) or (b) applies is entitled to receive New Zealand superannuation at the single living alone rate if the person is living alone.
+### 18 Appropriate rate for spouses or partners of persons in long-term residential care in hospital or rest home
+The appropriate rate of New Zealand superannuation to which a person who is living alone is entitled under section 17(2)﻿(a) or (b) is the single living alone rate.
 
 ### 19 Hospital rates of New Zealand superannuation
-(1) For the purposes of this section, hospital means a hospital provided by a District Health Board within the meaning of the New Zealand Public Health and Disability Act 2000; and includes a psychiatric security institution within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992.
+(1) For the purposes of this section, hospital means a hospital operated by a District Health Board within the meaning of the New Zealand Public Health and Disability Act 2000; and includes a psychiatric security institution within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992.
 (2) This section applies to a person who is married or in a civil union or in a de facto relationship and who has no dependent children, and a single person who receives New Zealand superannuation, or who becomes entitled to receive New Zealand superannuation.
 (3) The rate of New Zealand superannuation payable to a person who is a patient in a hospital for a period of 13 weeks or less is not affected.
-(4) The rate of New Zealand superannuation payable to a person who is a patient in a hospital for more than 13 weeks is, on and after the commencement of the 14th week of hospitalisation, the rate stated in clause 3 of Schedule 1.
-(5) Subsection (4) does not apply to a resident assessed as requiring care (as defined in section 5 of the Residential Care and Disability Support Services Act 2018) who is a patient in a hospital and in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in section 11 of that Act) under section 18, 22(2), 26, 54, or 55 of that Act.
-(6) However, the chief executive may, at the chief executive’s discretion,—
-  (a) pay to any patient to whom subsection (4) applies a higher rate than the rate stated in clause 3 of Schedule 1 after having regard to the patient’s personal financial circumstances.
-  (b)
-(7) If, after 13 weeks’ hospitalisation, the New Zealand superannuation of a person who is married or in a civil union or in a de facto relationship is reduced under subsection (4) or subsection (6)﻿(b), and that person’s spouse or partner is either not in hospital or has been in hospital for less than 13 weeks, any New Zealand superannuation payable to or for the spouse or partner must be increased, on the same date as the effective date of that reduction, by an amount equal to the difference between—
-  (a) the maximum rate of New Zealand superannuation payable to a single person; and
-  (b) the maximum rate of New Zealand superannuation payable to a person who is married or in a civil union or in a de facto relationship and whose spouse or partner is receiving New Zealand superannuation.
+(4) The rate of New Zealand superannuation payable to a person who is a patient in a hospital for more than 13 weeks is, on and after the commencement of the 14th week of hospitalisation, the rate specified in clause 3 of Schedule 1.
+(4A) The chief executive may pay to any patient referred to in subsection (4) a higher rate than the rate specified in clause 3 of Part 1 of Schedule 1 after having regard to the patient’s personal financial circumstances.
+(5) Subsection (4) does not apply to a resident assessed as requiring care (as defined in section 5 of the Residential Care and Disability Support Services Act 2018) who is a patient in a hospital and in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in section 11 of that Act) under section 18, 24, 26, 54, or 55 of that Act.
+(6) See section 89 of the Social Security Act 2018, under which the spouse or partner of a patient referred to in subsection (4) or (5) may be entitled to a special disability allowance for the purpose of assisting with expenses arising from the patient’s hospitalisation.
+(7) If the New Zealand superannuation of a person who is married or in a civil union or in a de facto relationship is reduced under this section, any specified benefit of the person’s spouse or partner must be increased, starting on the date on which the person’s New Zealand superannuation is reduced, by the amount specified in subsection (7A).
+(7A) The amount by which the specified benefit of the person’s spouse or partner must be increased is an amount equal to the difference between—
+  (a) the maximum rate of that benefit payable to a single person; and
+  (b) the maximum rate of that benefit payable to a person who is married or in a civil union or in a de facto relationship and whose spouse or partner is receiving New Zealand superannuation.
+(7B) See section 207 of the Social Security Act 2018, under which the specified benefit of a person’s spouse or partner is similarly increased when the person is the beneficiary of a main benefit that is payable, as a result of the person’s hospitalisation, at a reduced rate.
+(7C) Subsection (7) does not apply if the person’s spouse or partner is also in hospital and has been for more than 13 weeks.
 (8) In any case where the rate of New Zealand superannuation has been reduced in accordance with this section and the superannuitant in hospital is absent from the hospital for not more than 28 days, the rate of New Zealand superannuation payable on return to hospital must be determined as if that absence has not occurred.
-(9) This section does not entitle a single person or a couple who are married or in a civil union or in a de facto relationship to receive a greater amount of New Zealand superannuation, as a result of hospitalisation, than would otherwise have been payable.
-(10) This section applies despite anything to the contrary in the Social Security Act 2018 or in the Residential Care and Disability Support Services Act 2018.
+(9) This section does not entitle a single person or a couple who are married or in a civil union or in a de facto relationship to receive a greater amount of New Zealand superannuation or of another specified benefit, as a result of hospitalisation, than would otherwise have been payable.
+(10) This section applies despite anything to the contrary in this Act (other than sections 21 to 35), the Social Security Act 2018, or the Residential Care and Disability Support Services Act 2018.
+(11) In this section, specified benefit means—
+  (a) New Zealand superannuation; or
+  (b) a veteran’s pension; or
+  (c) a main benefit.
 
 ### 20 Special disability allowance
-(1) This section applies if—
-  (a) a person receives New Zealand superannuation; and
-  (b) the person's spouse or partner is either—
-    (i) a patient in a hospital (as defined in section 19(1)) who is in receipt of a reduced benefit under section 19(4) or (6); or
-    (ii) a resident assessed as requiring care (as defined in section 5 of the Residential Care and Disability Support Services Act 2018), and in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in section 11 of that Act) under section 18, 22(2), 26, 54, or 55 of that Act.
-  (c)
-(2) The chief executive must grant a special disability allowance at the rate stated in clause 4 of Schedule 1, for the purpose of defraying expenses arising from the spouse’s or partner’s hospitalisation.
-(3) This section applies despite anything in subpart 14 of Part 2 of the Social Security Act 2018 (disability allowance) but subject to sections 186 and 310 and clause 19 of Schedule 3 of that Act (which relate to insurance payments).
+[Repealed]
 
 **Payment overseas of New Zealand superannuation**
 
@@ -268,17 +302,9 @@ If a person who is absent from New Zealand would have become entitled to New Zea
   (b) adding the number of additional days (if any), dividing the total by 30, and disregarding any remainder; and
   (c) adding the number of calendar months and the quotient calculated under paragraph (b); and
   (d) dividing by 540 the total calculated under paragraph (c).
-(2) In the determination for the purposes of subsection (1) of the periods during which a person has resided in New Zealand, no account is to be taken of—
-  (a) any period of absence from New Zealand of a kind described in section 9(1); or
-  (b) any period of absence from New Zealand—
-    (i) while the person was engaged in missionary work as a member of, or on behalf of, any religious body; or
-    (ii) while the person's spouse or partner was engaged in missionary work as a member of, or on behalf of, any religious body, and the person was with his or her spouse or partner; or
-  (c) any period of absence from New Zealand while the person was treated under section 79(3)﻿(a) of the Social Security Act 1964 or regulations made under section 421 of the Social Security Act 2018 as being resident and present in New Zealand; or
-  (d) any period of absence from New Zealand while, as the spouse or partner of a person treated under section 79(3)﻿(a) of the Social Security Act 1964 or regulations made under section 421 of the Social Security Act 2018 as being resident and present in New Zealand, the person was also (by virtue of section 79(3)﻿(b) of the Social Security Act 1964) treated as being resident and present in New Zealand.
-(3) Subsection (2) applies to a period of absence only if the chief executive is satisfied that during it the person concerned remained ordinarily resident in New Zealand.
-(4) Subsection (2)﻿(b) applies to a period of absence only if the chief executive is satisfied that the person concerned either was born in New Zealand or—
-  (a) in the case of a person to whom subsection (2)﻿(b)﻿(i) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to engage in the missionary work concerned:
-  (b) in the case of a person to whom subsection (2)﻿(b)﻿(ii) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to accompany or join his or her spouse or partner.
+(2) For the purposes of subsection (1), a person must be treated as having resided in New Zealand during a period of absence from New Zealand if section 9, 10, or 10A requires the person to be treated as having been resident and present in New Zealand during the period.
+(3)
+(4)
 
 ### 26B Entitlement
 A person is not entitled to be paid New Zealand superannuation under section 26 unless he or she—
@@ -377,6 +403,12 @@ A person being paid a benefit under section 31 is not entitled to receive any as
 ### 35 Application of this Act and Social Security Act 2018
 (1) Sections 22 to 29 do not apply in respect of New Zealand superannuation being paid in a specified Pacific country under section 31.
 (2) The Social Security Act 2018 (except sections 204, 206 to 208, 217 to 219, 311, and 313 to 315) applies to New Zealand superannuation being paid in a specified Pacific country under section 31.
+
+**Miscellaneous provisions**
+
+### 35A Regulations
+(1) The Governor-General may, by Order in Council, make regulations for the purposes of section 4A(2)﻿(g).
+(2) The Governor-General may, by Order in Council, make regulations providing for any other matters contemplated by this Part, necessary for its administration, or necessary for giving it full effect.
 
 ## Part 2 — New Zealand Superannuation Fund and Guardians of New Zealand Superannuation
 
@@ -809,18 +841,108 @@ In this Part, 2018 Act means the Social Assistance (Residency Qualification) Leg
 (1) This clause applies to a person who, on or after the date on which the 2018 Act comes into force, applies for New Zealand superannuation.
 (2) In determining whether the person has met the residential qualification in section 8(c), the person’s residence and presence in any of the countries or the territory before the 2018 Act came into force must be taken into account.
 
+### Part 3 — Provisions relating to New Zealand Superannuation and Veteran’s Pension Legislation Amendment Act 2020
+
+### 4 Definitions
+In this Part,—old law relating to employment of a person’s spouse or partner means—
+  - **amending Act** means the New Zealand Superannuation and Veteran’s Pension Legislation Amendment Act 2020
+  - **commencement date** means 9 November 2020
+  - **non-standard couple rate** means either of the following kinds of rate:
+    (a) a rate specified in clause 2 of Schedule 1 before the commencement date (which is the date on which that clause is repealed):
+    (b) the relationship (partner not receiving superannuation or pension) rate
+  (a) section 12(3) of this Act (as in force immediately before the commencement date); or
+  (b) section 172(4) and (5) of the Veterans’ Support Act 2014 (as in force immediately before the commencement date)
+  - **relationship (partner not receiving superannuation or pension) rate** means the relationship (partner not receiving superannuation or pension) rate specified in regulations referred to in section 169 of the Veterans’ Support Act 2014.
+
+**Treatment of periods of absence for purposes of residential qualification**
+
+### 5 Residence and presence when engaged in missionary work
+(1) For the purposes of section 10(1)﻿(a) (as inserted by the amending Act), a person who was absent from New Zealand for a period that began before the commencement date is taken to have been ordinarily resident in New Zealand immediately before that period if the person was born in New Zealand.
+(2) Section 10(1)﻿(c) (as inserted by the amending Act) does not apply to missionary work that began before the commencement date.
+
+### 6 Residence and presence when in overseas employment
+(1) Section 10A (as inserted by the amending Act) extends to a person who made an application for New Zealand superannuation or a veteran’s pension, before the commencement date, that is finally determined on or after that date.
+(2) Anything done during the period of validation (for example, the granting or payment of New Zealand superannuation or a veteran’s pension) that was not validly done, but would have been validly done had section 10A (as inserted by the amending Act) been in force when the thing was done is validated.
+(3) In this clause, period of validation means the period beginning on 26 November 2018 and ending with the close of 8 November 2020.
+
+**Generally abolished rate for person with non-qualifying spouse or partner**
+
+### 7 General
+(1) A rate specified in clause 1 of Part 2 of Schedule 1 is the appropriate rate of New Zealand superannuation payable to a person only if—
+  (a) the person is married or in a civil union or in a de facto relationship; and
+  (b) immediately before the commencement date, an election of the person to receive New Zealand superannuation, or a veteran’s pension, at a non-standard couple rate was in effect (see clauses 8 to 10); and
+  (c) the person is not barred from receiving New Zealand superannuation at a rate specified in clause 1 of Part 2 of Schedule 1.
+(2) A person is barred from receiving New Zealand superannuation at a rate specified in clause 1 of Part 2 of Schedule 1 if,—
+  (a) at any time on or after the commencement date, the person’s spouse or partner is entitled to receive New Zealand superannuation or a veteran’s pension; or
+  (b) at any time on or after the commencement date, the person elects to no longer receive—
+    (i) New Zealand superannuation at the rate specified in that clause and does not elect, on the same date, to receive a veteran’s pension at the relationship (partner not receiving superannuation or pension) rate; or
+    (ii) a veteran’s pension at the relationship (partner not receiving superannuation or pension) rate and does not elect, on the same date, to receive New Zealand superannuation at the rate specified in that clause; or
+  (c) at any time on or after the commencement date, the person who was the person’s spouse or partner immediately before the commencement date—
+    (i) ceases to be the person’s spouse and does not, on the date of ceasing to be the person’s spouse, become the person’s civil union partner; or
+    (ii) ceases to be the person’s civil union partner and does not, on the date of ceasing to be the person’s civil union partner, become the person’s spouse; or
+    (iii) ceases to be the person’s de facto partner and does not, on the date of ceasing to be the person’s de facto partner, become the person’s spouse or civil union partner; or
+  (d) on a specified date, the person was or is absent from New Zealand and, because of that absence,—
+    (i) is not authorised under Part 1 of this Act or Part 6 of the Veterans’ Support Act 2014 to be paid New Zealand superannuation or a veteran’s pension for that date; or
+    (ii) is authorised to be paid New Zealand superannuation or a veteran’s pension for that date but only at a reduced rate; or
+  (e) on a specified date, the person was or is in custody in prison, in custody on remand, or an escapee from prison, and both of the following apply:
+    (i) because of the operation of section 217 of the Social Security Act 2018, New Zealand superannuation or a veteran’s pension is not payable to the person for that date:
+    (ii) the person, the person’s spouse or partner, or another person is not authorised under section 218 of the Social Security Act 2018 to be paid all or any part of the New Zealand superannuation or veteran’s pension for that date.
+(3) In this clause,—
+  - **non-standard couple rate** means any of the following kinds of rate:
+    (a) a rate specified in clause 2 of Schedule 1 before the commencement date (which is the date on which that clause was repealed):
+    (b) the relationship (partner not receiving superannuation or pension) rate:
+    (c) a rate specified in clause 2 of Schedule 1 of the Social Welfare (Transitional Provisions) Act 1990 before the repeal of that schedule on 15 April 2003:
+    (d) a rate specified in clause 2(b) of Schedule 11 of the War Pensions Act 1954 before the repeal of that schedule on 7 December 2014
+    - **specified date** means the close of 8 November 2020 or any time after that date.
+
+### 8 Treatment of elections
+(1) For the purposes of clause 7(1)﻿(b) of this schedule and clause 22(1)﻿(d) of Schedule 1 of the Veterans’ Support Act 2014, an election of a person to receive New Zealand superannuation, or a veteran’s pension, at a non-standard couple rate must be treated as being in effect immediately before the commencement date if—
+  (a) an election to receive New Zealand superannuation, or a veteran’s pension, at the non-standard couple rate was made before the commencement date; and
+  (b) the person who made the election did not, after making it,—
+    (i) cease to be entitled to receive New Zealand superannuation at a non-standard couple rate or a standard couple rate because the person ceased to be married or in a civil union or in a de facto relationship; or
+    (ii) cease to be entitled to receive New Zealand superannuation at a non-standard couple rate because the person’s spouse or partner became entitled to receive New Zealand superannuation or a veteran’s pension; or
+    (iii) elect to receive New Zealand superannuation, or a veteran’s pension, at a standard couple rate; and
+  (c) the old law relating to employment of the person’s spouse or partner did not operate to prevent the election being in effect immediately before the commencement date.
+(2) Nothing in this clause limits clause 9 or 10.
+(3) In this clause,—
+  - **non-standard couple rate** has the same meaning as in clause 7(3)
+  - **standard couple rate** means a rate, other than a non-standard couple rate, of New Zealand superannuation or of a veteran’s pension prescribed before the commencement date for a person who is married or in a civil union or in a de facto relationship.
+
+### 9 When elections included in pending applications take effect
+(1) This clause applies to an election of a person to receive New Zealand superannuation, or a veteran’s pension, at a non-standard couple rate that is included in a pending application for New Zealand superannuation or a veteran’s pension.
+(2) For the purposes of clause 7(1)﻿(b) of this schedule and clause 22(1)﻿(d) of Schedule 1 of the Veterans’ Support Act 2014, the election may be treated as being in effect immediately before the commencement date only if the New Zealand superannuation or veteran’s pension commences on or before that date. (See section 11 of this Act, section 168 of the Veterans’ Support Act 2014, and section 317 of the Social Security Act 2018.)
+(3) The election must be treated as taking effect,—
+  (a) except as provided by paragraph (b), on the date on which the New Zealand superannuation or veteran’s pension commences; or
+  (b) if the old law relating to employment of the person’s spouse or partner applied to the election, on the date on which the New Zealand superannuation or veteran’s pension commences or the date determined under that old law (whichever is the later).
+(4) Subclause (3) applies only to the extent that it treats the election as taking effect before the commencement date.
+(5) In this clause, pending application means an application for New Zealand superannuation or a veteran’s pension that,—
+  (a) immediately before the commencement date, had not been finally determined or withdrawn; and
+  (b) on or after the commencement date, is finally determined by granting the application.
+
+### 10 When other elections not processed before commencement date take effect
+(1) This clause applies to an election of a person to receive New Zealand superannuation, or a veteran’s pension, at a non-standard couple rate (other than an election to which clause 9 applies) that, immediately before the commencement date, had been received but not yet processed by the department.
+(2) For the purposes of clause 7(1)﻿(b) of this schedule and clause 22(1)﻿(d) of Schedule 1 of the Veterans’ Support Act 2014, the election is to be treated as taking effect,—
+  (a) except as provided by paragraph (b), on the date on which the election was received by the department; or
+  (b) if the old law relating to employment of the person’s spouse or partner applied to the election, on the date on which the election was received by the department or the date determined under that old law (whichever is the later).
+(3) In this clause, department,—
+  (a) in the case of an election to receive New Zealand superannuation, has the same meaning as in section 4; and
+  (b) in the case of an election to receive a veteran’s pension,—
+    (i) except as provided by subparagraph (ii), means Veterans’ Affairs New Zealand; or
+    (ii) has the same meaning as in section 4 if an applicable delegation is in force under section 160 of the Veterans’ Support Act 2014.
+
 ## Schedule 1 — New Zealand superannuation entitlements
 
 |  |  | $ |
 | --- | --- | --- |
-| 1 | (a)to a person at the single living alone rate | $490.73 a week |
-|  | (b)to a person at the single sharing accommodation rate | $451.29 a week |
+| 1 | (a)to a single person who is living alone | $490.73 a week |
+|  | (b)to a single person who is not living alone | $451.29 a week |
 |  | (c)to a person who is married or in a civil union or in a de facto relationship | $372.27 a week |
-| 2Alternative rate for a person who is married or in a civil union or in a de facto relationship and whose spouse or partner is not entitled to receive New Zealand superannuation or a veteran’s pension— |  |  |
-|  | (a)to a person who is married or in a civil union or in a de facto relationship and who was receiving, or had applied for and was entitled to receive, New Zealand superannuation or a veteran’s pension at the alternative rate before 1 October 1991 | $744.54 a week subject to Income Test 3, or the rate for the time being stated in paragraph (b), whichever is the greater |
-|  | (b)to any other person who is married or in a civil union or in a de facto relationship | $705.26 a week, subject to Income Test 3 |
-| 3Hospital rate payable under section 19 to a person who is married or in a civil union or in a de facto relationship and who has no dependent children, or a single person, who receives New Zealand superannuation |  | An amount that, after income tax is deducted under tax code M (as stated in schedule 5, part A, clause 4, table row 1 of the Tax Administration Act 1994) is equal to $46.03 a week |
-| 4Rate of special disability allowance under section 20 |  | An amount that, after deduction of any income tax, is equal to $40.77 per week |
+| 3 | Hospital rate payable under section 19 to a person who is married or in a civil union or in a de facto relationship and who has no dependent children, or a single person, who receives New Zealand superannuation | An amount that, after income tax is deducted under tax code M (as stated in schedule 5, part A, clause 4, table row 1 of the Tax Administration Act 1994) is equal to $46.03 a week |
+
+| 1 | Rate payable under clause 7 of Schedule 1AA to a person who is married or in a civil union or in a de facto relationship and whose spouse or partner is not entitled to receive New Zealand superannuation or a veteran’s pension— |  |
+| --- | --- | --- |
+|  | aif, before 1 October 1991, the person was receiving (or had applied for and was entitled to receive) New Zealand superannuation, or a veteran’s pension, at the alternative rate specified in clause 2 of Schedule 1 of the Social Welfare (Transitional Provisions) Act 1990 | $744.54 a week (subject to Income Test 3) or the rate specified in paragraph (b), whichever is the greater |
+|  | bin any other case | $705.26 a week (subject to Income Test 3) |
 
 ## Schedule 2 — Specified Pacific countries
 
