@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2020-08-28_
+_Consolidation as at 2020-11-11_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -1591,13 +1591,13 @@ Any person who commits an act or omission on an aircraft in flight outside New Z
   (b) fasten and keep fastened about the person any installed safety belt or safety harness.
 (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $2,500.
 
-### 65N No smoking
-(1) Every person commits an offence who smokes—
-  (a) when instructed not to smoke by a crew member, passenger information signs, or placards; or
+### 65N No smoking or vaping
+(1) Every person commits an offence who smokes or vapes—
+  (a) when instructed not to smoke or vape by a crew member, passenger information signs, or placards; or
   (b) while on any aircraft that is carrying passengers for hire or reward on any internal flight; or
   (c) in contravention of section 96A(6).
 (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $2,500.
-(3) In subsection (1), to smoke has the meaning set out in section 96A(1).
+(3) In subsection (1), to smoke and to vape have the meanings set out in section 96A(1).
 
 ### 65O Dangerous goods
 (1) Every person commits an offence who, in breach of the rules, carries or causes to be carried on an aircraft any dangerous goods.
@@ -2891,19 +2891,20 @@ In this Part, the expression joint venture airport means an aerodrome or airport
 (5) A person who commits an offence against subsection (4) is liable on conviction to a fine not exceeding $1,000.
 (6) Nothing in the Sale and Supply of Alcohol Act 2012 applies to the sale of alcohol under the authority of this section or of any regulations made under it.
 
-### 96A Minister may prohibit smoking on international air routes
+### 96A Minister may prohibit smoking or vaping on international air routes
 (1) For the purposes of this section and sections 96B and 96C,—
   - **New Zealand international airline** means a New Zealand air transport enterprise that is offering or operating a scheduled international air service or a non-scheduled international flight
-  - **to smoke** means to smoke, hold, or otherwise have control over an ignited product, weed, or plant; and and have corresponding meanings.
+  - **to smoke** means to smoke, hold, or otherwise have control over an ignited product, weed, or plant; and and have corresponding meanings
+  - **to vape** means to inhale using a vaping device or a heated tobacco product, and has a corresponding meaning.
 (2) The Minister may from time to time, by notice in the Gazette,—
   (a) designate any 1 or more international air routes, or class or classes of international air routes, or all international air routes generally, as non-smoking routes; and
   (b) exempt any specified route or part of a route from any designation imposed by the Minister in accordance with paragraph (a), subject to any conditions that the Minister thinks fit.
 (3) The Minister shall, before giving any notice under subsection (2), consult with New Zealand international airlines.
 (4) A New Zealand international airline that is operating an aircraft carrying passengers on any route designated as a non-smoking route pursuant to this section shall ensure that—
-  (a) there are prominent notices displayed in the aircraft indicating that smoking is not permitted; and
-  (b) an announcement is made to passengers on the aircraft at the commencement of each journey on the route advising that smoking is not permitted.
-(5) No New Zealand international airline that is operating an aircraft carrying passengers on any route designated as a non-smoking route pursuant to this section shall permit any person to smoke on that aircraft.
-(6) No person shall smoke while on any aircraft operated by a New Zealand international airline carrying passengers on any route designated as a non-smoking route pursuant to this section.
+  (a) there are prominent notices displayed in the aircraft indicating that smoking or vaping is not permitted; and
+  (b) an announcement is made to passengers on the aircraft at the commencement of each journey on the route advising that smoking or vaping is not permitted.
+(5) No New Zealand international airline that is operating an aircraft carrying passengers on any route designated as a non-smoking route pursuant to this section shall permit any person to smoke or vape on that aircraft.
+(6) No person shall smoke or vape while on any aircraft operated by a New Zealand international airline carrying passengers on any route designated as a non-smoking route pursuant to this section.
 
 ### 96B Offences in respect of smoking on international flights
 (1) Every person commits an offence who, being a New Zealand international airline, without reasonable excuse, fails to comply with the requirements of section 96A(4).
