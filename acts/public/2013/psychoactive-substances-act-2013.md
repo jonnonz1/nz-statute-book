@@ -1,5 +1,5 @@
 # Psychoactive Substances Act 2013
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-11-11_
 
 ### 1 Title
 This Act is the Psychoactive Substances Act 2013.
@@ -153,7 +153,8 @@ In this Act, unless the context otherwise requires,—
   (e) a dietary supplement (within the meaning of regulation 2A of the Dietary Supplements Regulations 1985):
   (f) anything that is ordinarily used or represented for use as food or drink for human beings:
   (g) any alcohol, unless the alcohol contains a psychoactive substance as defined in subsection (1) or (2) that is not alcohol:
-  (h) any tobacco product (within the meaning of section 2(1) of the Smoke-free Environments Act 1990), unless the tobacco product contains a psychoactive substance as defined in subsection (1) or (2) that is not tobacco:
+  (h) any tobacco product (within the meaning of section 2(1) of the Smokefree Environments and Regulated Products Act 1990), unless the tobacco product contains a psychoactive substance as defined in subsection (1) or (2) that is not tobacco:
+  (ha) any regulated product (other than a tobacco product) within the meaning of section 2(1) of the Smokefree Environments and Regulated Products Act 1990, unless the regulated product contains a psychoactive substance as defined in subsection (1) or (2):
   (i) a substance, mixture, preparation, article, device, or thing that is, or that is of a kind that is, or belongs to a class that is, declared by the Governor-General by Order in Council made under section 99 not to be a psychoactive substance for the purposes of this Act.
 
 ### Subpart 3 — Key regulatory roles
