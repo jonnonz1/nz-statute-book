@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-11-11_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -220,6 +220,7 @@ This Act is the Corrections Act 2004.
     (b) any drug, alcohol, or other intoxicating substance:
     (ba) tobacco:
     (bb) any equipment used for smoking tobacco or any other substance:
+    (bc) any vaping product or smokeless tobacco product within the meaning of section 2 of the Smokefree Environments and Regulated Products Act 1990:
     (c) any electronic communication device:
     (d) any thing that could be used for the purpose of facilitating the escape from lawful custody of any person:
     (e) in relation to any person, any thing that may not lawfully be retained in the person's possession:
@@ -1954,10 +1955,10 @@ If, under section 124, a prisoner submits to a prescribed procedure, the prison 
     (i) a hearing adjudicator who is employed at another prison or appointed in respect of another prison than the prison at which the staff member is employed; or
     (ii) a Visiting Justice.
 
-### 129 Offences by prisoners relating to drugs, alcohol, and smoking
+### 129 Offences by prisoners relating to drugs, alcohol, smoking, and vaping
 Every prisoner commits an offence against discipline who,—
   (a) without the authority of a medical officer or health centre manager or unless section 79(3) applies, uses any drug or consumes alcohol (whether inside or outside a prison); or
-  (aa) smokes tobacco or any other substance inside a prison; or
+  (aa) smokes tobacco or any other substance, or vapes within the meaning of section 2 of the Smokefree Environments and Regulated Products Act 1990, inside a prison; or
   (b) having been required under section 124 to submit to a prescribed procedure,—
     (i) refuses to comply with the requirement; or
     (ii) without reasonable excuse, fails to comply with the requirement; or
