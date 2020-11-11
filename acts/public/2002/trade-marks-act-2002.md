@@ -1,5 +1,5 @@
 # Trade Marks Act 2002
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-11-11_
 
 ### 1 Title
 This Act is the Trade Marks Act 2002.
@@ -252,7 +252,7 @@ A collective trade mark may be registered in the name of a collective associatio
   (b) the use of which is contrary to New Zealand law or would otherwise be disentitled to protection in any court; or
   (c) the use or registration of which would, in the opinion of the Commissioner, be likely to offend a significant section of the community, including Māori.
 (2) The Commissioner must not register a trade mark if the application is made in bad faith.
-(3) Despite subsection (1)﻿(b), the Commissioner may register a trade mark even if use of the trade mark is restricted or prohibited under the Smoke-free Environments Act 1990.
+(3) Despite subsection (1)﻿(b), the Commissioner may register a trade mark even if use of the trade mark is restricted or prohibited under the Smokefree Environments and Regulated Products Act 1990.
 
 **Registrability of non-distinctive trade marks**
 
