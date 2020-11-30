@@ -1,5 +1,5 @@
 # Health Sector (Transfers) Act 1993
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2020-11-30_
 
 > Title
 
@@ -50,7 +50,7 @@ _Consolidation as at 2018-11-12_
     (c) contingent liabilities; and
     (d) interests of any kind in any of the foregoing
   - **predecessor in title** , in relation to a DHB, means any of its predecessors in title that was an area health board or a hospital board or a Crown health enterprise or a hospital and health service or a similar body established under an enactment relating to the management of public hospitals and charitable institutions
-  - **publicly-owned health and disability organisation** means any DHB, the HPA, the NZBS, Pharmac, and HQSC
+  - **publicly-owned health and disability organisation** means any DHB, the HPA, the NZBOS, Pharmac, and HQSC
   - **rights** includes powers, privileges, interests, leases, licences, approvals, consents, designations, permissions, dispensations, authorisations, benefits, and equities of any kind, whether actual, contingent, or prospective
   - **transfer** includes—and the word has a corresponding meaning
     (a) assign and convey; and
