@@ -1,5 +1,5 @@
 # Organ Donors and Related Matters Act 2019
-_Consolidation as at 2019-11-16_
+_Consolidation as at 2020-11-30_
 
 ### 1 Title
 This Act is the Organ Donors and Related Matters Act 2019.
