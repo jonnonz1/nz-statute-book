@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Act 2000
-_Consolidation as at 2020-09-30_
+_Consolidation as at 2020-11-30_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Act 2000.
@@ -50,7 +50,7 @@ In order to recognise and respect the principles of the Treaty of Waitangi, and 
   (e) are accountable in a number of ways (under the Crown Entities Act 2004 and sections 38 to 42), for example, through plans prepared under section 38, and statements of intent.
 (4) The board of each DHB must have 3 permanent advisory committees (the community and public health advisory committee, disability support advisory committee, and hospital advisory committee (sections 34 to 36 and Schedule 4)), but may also establish other committees (Schedule 3—clause 38(1)).
 (5) A statutory entity called the Pharmaceutical Management Agency (Pharmac) is established (Part 4—sections 46 to 53, and sections 61 to 69, and Schedule 6), and takes over functions relating to the pharmaceutical schedule from the company called Pharmaceutical Management Agency Limited, which is dissolved (Part 7).
-(6) A statutory entity called the New Zealand Blood Service (NZBS) is established (Part 4—sections 54 to 56, and sections 61 to 69, and Schedule 6), and takes over functions relating to blood and controlled human substances from the company called New Zealand Blood Service Limited, which is dissolved (Part 7).
+(6) A statutory entity called the New Zealand Blood and Organ Service (NZBOS) is established (sections 54 to 56 and 61 to 69 of Part 4 and Schedule 6). NZBOS’s functions include managing the donation, collection, processing, and supply of blood and controlled human substances, providing oversight and clinical governance of the organ donation system, and providing support to the transplantation system.
 (7) A Crown entity called the Health Promotion Agency (HPA) is established (Part 4—sections 57 to 59).
 (7A) A statutory entity called the Health Quality and Safety Commission (HQSC) is established (Part 4—sections 59A to 59E, 60, 61, 66, 67, and 69 and Schedule 6), and has functions that relate to the improvement of the quality and safety of health and disability support services.
 (8) Inquiry boards may be appointed by the Minister of Health to conduct an inquiry into, and report to the Minister on, matters like the funding or provision of health services or disability support services, or the management of any publicly-owned health and disability organisation (Part 5—sections 72 to 86).
@@ -97,7 +97,7 @@ In order to recognise and respect the principles of the Treaty of Waitangi, and 
     (b) includes assessing the timeliness of provision of information required to be provided under any agreement
   - **New Zealand disability strategy** means a strategy referred to in section 8(2)
   - **New Zealand health strategy** means a strategy referred to in section 8(1)
-  - **NZBS** means the New Zealand Blood Service established by section 54
+  - **NZBOS** means the New Zealand Blood and Organ Service established by section 54
   - **partner** , in the phrase spouse or partner and in related contexts, means a civil union partner or de facto partner
   - **personal health** means the health of an individual
   - **personal health services** means goods, services, and facilities provided to an individual for the purpose of improving or protecting the health of that individual, whether or not they are also provided for another purpose; and includes goods, services, and facilities provided for related or incidental purposes
@@ -113,7 +113,7 @@ In order to recognise and respect the principles of the Treaty of Waitangi, and 
     (b) health protection and health promotion services; and
     (c) goods, services, and facilities provided for related or incidental functions or purposes
   - **publicly available** , in relation to a document, means that the document is promptly provided on request by any person on payment of a charge, if any, that is reasonable
-  - **publicly-owned health and disability organisation** means a DHB, Pharmac, NZBS, HPA, and HQSC
+  - **publicly-owned health and disability organisation** means a DHB, Pharmac, NZBOS, HPA, and HQSC
   - **resident population** , in relation to a DHB, means the eligible people residing in the geographical area of the DHB (as specified in Schedule 1)
   - **service agreement** has the meaning given to it by section 25
   - **services** means health services and disability support services
@@ -616,22 +616,23 @@ The Minister must, as soon as practicable after giving a notice under section 47
 
 **New Zealand Blood Service**
 
-### 54 NZBS
-(1) An organisation called the New Zealand Blood Service (NZBS) is established.
-(2) NZBS is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(3) The Crown Entities Act 2004 applies to NZBS except to the extent that this Act expressly provides otherwise.
-(4) NZBS is owned by the Crown.
+### 54 NZBOS
+(1) This section establishes the New Zealand Blood and Organ Service.
+(2) NZBOS is the same organisation that, immediately before the commencement of the Organ Donors and Related Matters Act 2019, was known as the New Zealand Blood Service.
+(3) NZBOS is owned by the Crown.
+(4) The Crown Entities Act 2004 applies to NZBOS except to the extent that this Act provides otherwise.
 
-### 55 Functions of NZBS
-(1) The functions of NZBS are—
+### 55 Functions of NZBOS
+(1) The functions of NZBOS are—
   (a) to manage the donation, collection, processing, and supply of blood, controlled human substances, and related or incidental matters, in accordance with its statement of intent (including the statement of forecast service performance) and (subject to section 65) any directions given under the Crown Entities Act 2004; and
   (b) if it is an appointed entity (as defined in section 55 of the Human Tissue Act 2008), to perform the functions for which it is for the time being responsible under section 63 of that Act; and
-  (c) to undertake any other functions it is for the time being given by or under any enactment, or authorised to perform by the Minister by written notice to the board of NZBS after consultation with it, in accordance with its statement of intent (including the statement of forecast service performance) and (subject to section 65) any directions given under the Crown Entities Act 2004.
+  (ba) to provide oversight and clinical governance of the organ donation system, to provide support to the transplantation system, and to manage any related or incidental matters, in accordance with its statement of intent (including the statement of forecast service performance) and (subject to section 65) any directions given under the Crown Entities Act 2004; and
+  (c) to undertake any other functions it is for the time being given by or under any enactment, or authorised to perform by the Minister by written notice to the board of NZBOS after consultation with it, in accordance with its statement of intent (including the statement of forecast service performance) and (subject to section 65) any directions given under the Crown Entities Act 2004.
 (2) The Minister must, as soon as practicable after giving a notice under subsection (1), publish in the Gazette, and present to the House of Representatives, a copy of the notice.
 (3) In this section, blood and controlled human substance have the same meaning as in section 55 of the Human Tissue Act 2008.
 
 ### 56 Membership of board
-(1) The board of NZBS consists of up to 7 members appointed under section 28 of the Crown Entities Act 2004.
+(1) The board of NZBOS consists of up to 7 members appointed under section 28 of the Crown Entities Act 2004.
 (2)
 (3)
 
@@ -745,7 +746,7 @@ The board of HQSC consists of at least 7 members appointed under section 28 of t
 ### 60 Interpretation
 In sections 61 to 69, organisation means each of the following organisations:
   (a) Pharmac:
-  (b) NZBS:
+  (b) NZBOS:
   (c) HPA:
   (d) HQSC.
 
@@ -767,17 +768,18 @@ The board of an organisation has the role set out in section 25 of the Crown Ent
 (3) No direction may be given to Pharmac under section 103 of the Crown Entities Act 2004 that would—
   (a) require Pharmac to purchase a pharmaceutical from a particular source or at a particular price; or
   (b) provide any pharmaceutical or pharmaceutical subsidy or other benefit to a named individual.
-(4) No direction under section 103 of the Crown Entities Act 2004 may be issued to NZBS unless it concerns—
+(4) No direction under section 103 of the Crown Entities Act 2004 may be issued to NZBOS unless it concerns—
+  (a) NZBOS’s role in providing oversight and clinical governance of the organ donation system and in providing support to the transplantation system; or
   (a)
   (b) protecting the gift status, donation, collection, processing, and supply of blood or controlled human substances (as defined in section 55 of the Human Tissue Act 2008); or
   (c) withdrawal of contaminated blood or contaminated controlled human substances from supply.
 (4A) Despite anything in the Crown Entities Act 2004, subsection (4) does not limit—
-  (a) the ability of the Minister to direct NZBS under section 147 of that Act; or
+  (a) the ability of the Minister to direct NZBOS under section 147 of that Act; or
   (b) section 107 of that Act.
 (5)
 (6) Directions given under section 20 of the Health Sector (Transfers) Act 1993 to RHMU are deemed to be directions given under section 103 of the Crown Entities Act 2004.
 
-### 66 Pharmac, NZBS, and HPA to operate in financially responsible manner
+### 66 Pharmac, NZBOS, and HPA to operate in financially responsible manner
 (1) Every organisation must operate in a financially responsible manner and for this purpose must endeavour to cover all its annual costs (including the cost of capital) from its net annual income.
 (1A) Subsection (1) does not apply to HQSC in respect of costs, which are to be met by the Ministry of Health in a financially responsible manner that allows HQSC to carry out its functions to a high standard.
 (2) This section does not limit section 51 of the Crown Entities Act 2004.
@@ -795,7 +797,7 @@ The statements of intent, annual financial statements, and annual reports of an 
 (4) Subsection (3) applies despite section 134 of the Crown Entities Act 2004.
 
 ### 70 Further provisions
-The provisions set out in Schedule 6 apply in respect of Pharmac, NZBS, HPA, and HQSC.
+The provisions set out in Schedule 6 apply in respect of Pharmac, NZBOS, HPA, and HQSC.
 
 ## Part 4A — Family care policies
 
@@ -999,7 +1001,7 @@ The validity or enforceability of any deed, agreement, right, or obligation ente
   (b) compliance by the person with the terms and conditions may be enforced by the Crown or DHB (as the case may be) as if the person had signed a deed under which the person agreed to the terms and conditions.
 (2) Any terms and conditions of which notice is given under subsection (1), unless they expressly provide otherwise, are deemed to include a provision to the effect that 12 weeks' notice must be given of any amendment or revocation of the terms and conditions.
 (3) Every notice, and every amendment or revocation of a notice, must be published in the Gazette before the notice, amendment, or revocation takes effect; and, as soon as practicable, the Minister must present a copy to the House of Representatives.
-(4) No notice may be issued under this section that would bind Pharmac or NZBS.
+(4) No notice may be issued under this section that would bind Pharmac or NZBOS.
 
 ### 89 Principles of national consistency applicable to notices under section 88
 (1) The principles stated in subsection (2) apply to the Crown and to a DHB whenever the Crown or a DHB proposes to issue a notice under section 88.
@@ -1145,7 +1147,7 @@ On the commencement of this section, the assets and liabilities of New Zealand B
 As from the commencement of this section, unless the context otherwise requires, every reference in any notice or document—
   (a) to the Health Funding Authority must be read as a reference to the Crown (acting, in the case of any shares formerly held by the Health Funding Authority, through the Minister and, in any other case, through the Ministry of Health):
   (b) to a hospital and health service (other than New Zealand Blood Service Limited) must be read as a reference to the DHB in whom the assets and liabilities of the hospital and health service are vested by section 95:
-  (c) to New Zealand Blood Service Limited must be read as a reference to NZBS:
+  (c) to New Zealand Blood Service Limited must be read as a reference to NZBOS:
   (d) to the Pharmaceutical Management Agency Limited must be read as a reference to Pharmac.
 
 ### 103 Persons in whom assets and liabilities vested deemed dissolved entities for certain purposes
@@ -2239,14 +2241,14 @@ Clause 4 does not prohibit—
 ### 7 Supplementary procedure
 A mortality review committee may regulate its procedure, at its meetings and otherwise, in any manner not inconsistent with this Act it thinks fit.
 
-## Schedule 6 — Further provisions applying to Pharmac, NZBS, HPA, and HQSC
+## Schedule 6 — Further provisions applying to Pharmac, NZBOS, HPA, and HQSC
 
 **Meaning of organisation**
 
 ### 1 Meaning of organisation
 In this schedule, unless the context otherwise requires, organisation means each of the following organisations:
   (a) Pharmac:
-  (b) NZBS:
+  (b) NZBOS:
   (c) HPA:
   (d) HQSC.
 
@@ -2401,7 +2403,7 @@ Section 66 of the Crown Entities Act 2004 does not apply to a person who is inte
 **Public Records Act 2005 to apply**
 
 ### 33 Public Records Act 2005 to apply
-An organisation (other than NZBS) is a public office for the purposes of the Public Records Act 2005.
+An organisation (other than NZBOS) is a public office for the purposes of the Public Records Act 2005.
 
 **Address for service**
 
