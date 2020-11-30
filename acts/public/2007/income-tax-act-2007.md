@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2020-11-09_
+_Consolidation as at 2020-11-30_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -10471,7 +10471,7 @@ Exclusions
   (g) consumable aids to be used in the process of producing trading stock:
   (h) a spare part not held for sale or exchange:
   (i) an emissions unit:
-  (j) a non-Kyoto greenhouse gas unit.
+  (j) a greenhouse gas unit that is not an emissions unit.
 
 ### EB 3 Valuation of trading stock
 Valuation method
@@ -15139,8 +15139,8 @@ Bet
   (c) gambling, including a New Zealand lottery, as those terms are defined in section 4(1) of the Gambling Act 2003.
 Emissions unit
 (3B) An emissions unit is an excepted financial arrangement.
-Non-Kyoto greenhouse gas unit
-(3C) A non-Kyoto greenhouse gas unit is an excepted financial arrangement.
+Greenhouse gas unit
+(3C) A greenhouse gas unit that is not an emissions unit is an excepted financial arrangement.
 Research and development agreement
 (3D) An agreement between a person and another person (the provider) that the provider will provide property or services to the person in consideration for a payment to the provider by a public authority under a research and development growth grant for the benefit of the person is an excepted financial arrangement for the person.
 Employment contract
@@ -42791,6 +42791,9 @@ In this Act, unless the context requires otherwise,—
     (b) that is made by the Rural Banking and Finance Corporation of New Zealand as an irrigation suspensory loan and designated as such; or
     (c) that is made by the Rural Banking and Finance Corporation of New Zealand as a West Coast drainage suspensory loan and designated as such
   - **greater Christchurch** is defined in section CZ 29(5) (Accommodation expenditure: Canterbury earthquake relief) for the purposes of that section
+  - **greenhouse gas unit** means a unit that is—
+    (a) issued by reference to the sequestration, reduction, or avoidance of emission, of human-induced greenhouse gases; and
+    (b) verified to an internationally recognised standard
   - **grey list** means the list of countries in schedule 24, part A (International tax rules: grey list countries)
   - **grey list company** means a company that is resident under section YD 3 (Country of residence of foreign companies) in a grey list country if either—
     (a) the company is liable in the country to income tax on the company's income because the company—
@@ -43638,10 +43641,7 @@ In this Act, unless the context requires otherwise,—
     (b) entered into by the person after the start of the first income year for which an election described in section EW 33B(2)﻿(b) (Foreign ASAPs: designated FX hedges) applies; and
     (c) entered into by the person for the sole purpose of hedging the foreign exchange risk of a foreign ASAP for which section EW 32(2C), (2D), or (2E) (Consideration for agreement for sale and purchase (ASAP) of property or services, hire purchase agreement, specified option, or finance lease) applies, and the person enters into the foreign ASAP after the start of the first income year for which an election described in section EW 33B(2)﻿(b) applies
   - **non-integral fee** means a fee or transaction cost that, for the purposes of financial reporting under IFRSs, is not an integral part of the effective interest rate of a financial arrangement
-  - **non-Kyoto greenhouse gas unit** means a unit that is—
-  (a) issued by reference to the sequestration, reduction, or avoidance of emission, of human-induced greenhouse gases; and
-  (b) verified to an internationally recognised standard; and
-  (c) not an emissions unit
+  - **non-Kyoto greenhouse gas unit**
   - **non-listed horticultural plant** , in section DO 4 (Improvements to farm land) and schedule 20, part A, item 8 (Expenditure on farming, horticultural, aquacultural, and forestry improvements)—
     (a) means—
       (i) a horticultural plant, tree, vine, bush, cane, or similar plant that is cultivated on land, that is not a listed horticultural plant:
@@ -44415,7 +44415,7 @@ In this Act, unless the context requires otherwise,—
     (a) is trading stock of the person:
     (b) if disposed of for valuable consideration, would produce income for the person other than income under section EE 48 (Effect of disposal or event), FA 5 (Assets acquired or disposed of after deductions of payments under lease), or FA 9 (Treatment when lease ends: lessee acquiring asset):
     (c) is an emissions unit of the person:
-    (d) is a non-Kyoto greenhouse gas unit
+    (d) is a greenhouse gas unit that is not an emissions unit
   - **right** , in sections EW 32 (Consideration for agreement for sale and purchase (ASAP) of property or services, hire purchase agreement, specified option, or finance lease) and EW 34 (Consideration in foreign currency), and in the definitions of and ,—
     (a) means—
       (i) a right to possess the property; or
