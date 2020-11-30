@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-11-30_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -1523,7 +1523,9 @@ No action may be brought against the Crown or the Registrar for any loss or dama
   (p)
   (q)
 (2) Regulations made under subsection (1) may be made in respect of different units, transactions, persons, classes of units, subclasses of units, classes of transactions, or classes of persons.
-(3) Any regulation made under subsection (1)﻿(b)﻿(i) or (c) does not apply to the transfer of units that are held in an account in the Registry at the time that the regulation comes into force.
+(3) Any regulation made under subsection (1)﻿(b)﻿(i) or (c) applies to only the following units:
+  (a) all units that are not held in an account in the Registry at the time that the regulation comes into force; and
+  (b) approved overseas units that are issued before 1 January 2021 (the start of the third commitment period).
 (3A) The amount of fees set under regulations made under subsection (1)﻿(f) must not exceed the amount necessary to enable the recovery of the direct and indirect costs of the Registrar in performing his or her functions under this Part.
 (4) Any regulations made under subsection (1) must be consistent with international climate change obligations.
 
@@ -4238,7 +4240,7 @@ Sections 169 to 176 do not affect the application of sections 29 to 32 of the St
   (b) an allocation of units has been made before the commencement of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 in respect of the area under the pre-1990 forest land allocation plan.
 (2) If the EPA proposes to accept the application, the EPA must notify the applicant that—
   (a) it proposes to accept the application; but
-  (b) the applicant must first, within 30 working days after receiving the notice, surrender or repay to the Crown holding account specified in the notice the number of New Zealand units specified in the notice; and
+  (b) the applicant must first, within 30 working days after receiving the notice, surrender or repay to the Crown holding account specified in the notice the number of units specified in the notice; and
   (c) if the units are not surrendered or repaid in accordance with paragraph (b), then the application will be declined.
 (3) The units referred to in subsection (2) must be the same number of units that have been allocated and transferred under the pre-1990 forest land allocation plan in relation to the land concerned.
 (4) The EPA must,—
@@ -4395,13 +4397,13 @@ The status of pre-1990 forest land as exempt land runs with the land and is not 
   (b) to which an allocation was made under the pre-1990 forest land allocation plan (before or after the commencement of this section).
 (2) If this section applies, the owner of the pre-1990 forest land must, within 30 working days of the date of notice given by the EPA,—
   (a) open a holding account under section 18A that has been approved by the Registrar if the owner does not have one; and
-  (b) surrender or repay New Zealand units equivalent to the portion of New Zealand units that are allocated, as part of the second tranche, to the pre-1990 forest land that is offset by transferring them to a Crown holding account (whether or not the allocation was actually transferred when allocated).
+  (b) surrender or repay units equivalent to the portion of units that are allocated, as part of the second tranche, to the pre-1990 forest land that is offset by transferring them to a Crown holding account (whether or not the allocation was actually transferred when allocated).
 (3) The notice referred to in subsection (2) must specify—
-  (a) the number of New Zealand units that must be repaid; and
+  (a) the number of units that must be repaid; and
   (b) the Crown holding account to which the units must be transferred.
-(4) If the owner of the pre-1990 forest land complies with subsection (2), but approval is revoked under section 186G or treated as revoked under section 186D(2)﻿(a), the EPA must, in accordance with section 124, reimburse the owner for any New Zealand units that the owner has surrendered or repaid under subsection (2).
+(4) If the owner of the pre-1990 forest land complies with subsection (2), but approval is revoked under section 186G or treated as revoked under section 186D(2)﻿(a), the EPA must, in accordance with section 124, reimburse the owner for any units that the owner has surrendered or repaid under subsection (2).
 (5) The EPA must, upon written request by a person who owns or owned (or is a prospective transferee of) pre-1990 forest land, provide a statement to the person or prospective transferee (as the case may be) about an allocation (if any) made under the pre-1990 forest land allocation plan.
-(6) For the purposes of subsection (2), second tranche, in relation to an allocation, means the New Zealand units that are allocated to a person under the pre-1990 forest land allocation plan on or after 1 January 2013.
+(6) For the purposes of subsection (2), second tranche, in relation to an allocation, means the units that are allocated to a person under the pre-1990 forest land allocation plan on or after 1 January 2013.
 
 ### 186I Participant in respect of pre-1990 offsetting forest land
 If an activity listed in Part 1A of Schedule 3 is carried out, the landowner of the pre-1990 offsetting forest land is to be treated as the person carrying out the activity.
@@ -4586,7 +4588,7 @@ The EPA must give written or electronic notice to a participant, or former parti
 (7A) Subsections (6) and (7) apply to a return submitted under subsection (4A) as if it were a return submitted under subsection (4).
 (8) A person who submits an emissions return under this section—
   (a) may include in the return an assessment of the person’s net liability to surrender or repay units, or the person’s net entitlement to New Zealand units, calculated by determining the difference between the total number of units required to be surrendered for emissions from each of the carbon accounting areas covered by the return (or, if relevant, required to be repaid in respect of the carbon accounting areas covered by the return) and the total number of New Zealand units to which the person is entitled in respect of removals from each of the carbon accounting areas covered by the return (or, if relevant, is entitled to be reimbursed in respect of carbon accounting areas covered by the return); and
-  (b) may elect to surrender or repay the net number of units for which the person is liable, or to receive the net number of New Zealand units to which the person is entitled, as determined under paragraph (a); and
+  (b) may elect to surrender or repay the net number of units for which the person is liable, or to receive the net number of units to which the person is entitled, as determined under paragraph (a); and
   (c) must, if the person makes an election under paragraph (b), indicate clearly in the return that such an election has been made; and
   (d) must, if an assessment in the emissions return shows a liability or a net liability to—
     (i) surrender units, surrender those units; or
@@ -4639,9 +4641,9 @@ The EPA must give written or electronic notice to a participant, or former parti
     (i) required to be covered by the return under subsection (2), liable to surrender the unit balance of the carbon accounting area; and
     (ii) required to be covered by the return under subsection (3),—
       (A) liable to surrender the unit balance relating to any land removed from the carbon accounting area or on which the person has ceased to carry out the activity, plus or minus any units that the person is required to surrender for emissions or entitled to receive for removals in respect of the land remaining in the carbon accounting area, as calculated under subsection (4); or
-      (B) entitled to receive the number of units assessed as the participant’s entitlement for removals from the land remaining in the carbon accounting area, less the unit balance relating to any land removed from the carbon accounting area or upon which the person has ceased to carry out the activity, calculated under subsection (4); and
-  (c) must, despite section 63, use only New Zealand units to surrender the unit balance that the person is liable to surrender under paragraph (b).
-(1A) The purpose of subsection (1)﻿(c) is to prevent reregistration arbitrage, which was an unintended consequence in the operation of the Act before the commencement of subsection (1)﻿(c) and arose from significant differences between the price of New Zealand units and the price of certain Kyoto units.
+      (B) entitled to receive the number of units assessed as the participant’s entitlement for removals from the land remaining in the carbon accounting area, less the unit balance relating to any land removed from the carbon accounting area or upon which the person has ceased to carry out the activity, calculated under subsection (4).
+  (c)
+(1A)
 (2) An emissions return submitted under this section—
   (a) must,—
     (i) if subsection (1)﻿(a)﻿(i) applies, be in respect of all the carbon accounting areas in respect of which the person is or was recorded as a participant in relation to that activity; or
@@ -5691,6 +5693,16 @@ If section 27 applies to information immediately before its amendment by the ame
 Section 178A does not apply if the person’s emissions return described by section 178A(1)﻿(a)﻿(i)﻿(A)—
   (a) is in respect of an activity listed in Part 1 of Schedule 4; and
   (b) does not impose a net liability to surrender or repay units for all of the carbon accounting areas covered by the return (for example, under section 189(8)).
+
+#### Subpart 2 — Provisions that commence on 30 November 2020
+
+### 14 Cancellation of historic approved overseas units
+(1) This clause applies to approved overseas units that were issued in the first commitment period starting on 1 January 2008 and ending on 31 December 2012, other than those that are held by the Crown in a Crown holding account or an account established under section 7.
+(2) If any person holds any of the approved overseas units, the Registrar must transfer the units to a cancellation account.
+(3) The EPA must direct the Registrar to transfer a New Zealand unit from a Crown holding account to a person’s holding account for each of that person’s approved overseas units—
+  (a) that is a New Zealand assigned amount unit (as defined by regulation 3 of the Climate Change (Unit Register) Regulations 2008); and
+  (b) that the Registrar transfers to a cancellation account under this clause.
+(4) No compensation is payable for any other units that the Registrar transfers to a cancellation account under this clause.
 
 ## Schedule 1 — United Nations Framework Convention on Climate Change
 
