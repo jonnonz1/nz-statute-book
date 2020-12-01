@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -442,12 +442,12 @@ The register may be searched only by reference to the criteria specified in sect
 
 ### 32 Search purposes
 The register may be searched for the following purposes:
-  (a) by an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual in accordance with the Privacy Act 1993:
+  (a) by an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual in accordance with the Privacy Act 2020:
   (b) by a person for a purpose referred to in section 26:
   (c) by a person for the purpose of advising another person in connection with any of the purposes referred to in this section.
 
 ### 33 When search breaches information privacy principle
-A person who searches a public register for personal information for a purpose that is not a purpose set out in section 32 must be treated, for the purposes of Part 8 of the Privacy Act 1993, as if that person has breached an information privacy principle under section 66(1)﻿(a)﻿(i) of that Act.
+A person who searches a public register for personal information for a purpose that is not a purpose set out in section 32 must be treated, for the purposes of Parts 5 and 6 of the Privacy Act 2020, as having breached an information privacy principle under section 69(2)﻿(a)﻿(i) of that Act.
 
 **Information sharing**
 
@@ -900,7 +900,7 @@ The person responsible for an approved dispute resolution scheme must notify the
 
 ### 67 Duty to co-operate and communicate information in certain circumstances
 (1) The person responsible for an approved dispute resolution scheme must—
-  (a) co-operate with other approved dispute resolution schemes if a complaint involves members of those other schemes (disclosing personal information in accordance with the Privacy Act 1993 and protecting information that is subject to an obligation of confidence); and
+  (a) co-operate with other approved dispute resolution schemes if a complaint involves members of those other schemes (disclosing personal information in accordance with the Privacy Act 2020 and protecting information that is subject to an obligation of confidence); and
   (b) co-operate with the Registrar, including by communicating information to the Registrar in accordance with sections 17 and 34; and
   (c) if there is a series of material complaints about a particular licensed provider or class of licensed provider, communicate that fact to the relevant licensing authority; and
   (ca) if there is a series of material complaints about a particular creditor under a consumer credit contract or class of such creditors, communicate that fact to the Commerce Commission; and
@@ -918,7 +918,7 @@ The person responsible for an approved dispute resolution scheme must supply to 
 (1) The person responsible for an approved dispute resolution scheme must supply to the Minister—
   (a) any further information requested by the Minister about the information that is required by regulations to be in an annual report; and
   (b) any information requested by the Minister about the scheme's compliance with the principles listed in section 52(2).
-(2) In supplying the information to the Minister, the person must disclose personal information in accordance with the Privacy Act 1993 and protect information that is subject to an obligation of confidentiality.
+(2) In supplying the information to the Minister, the person must disclose personal information in accordance with the Privacy Act 2020 and protect information that is subject to an obligation of confidentiality.
 
 ### 70 Annual report and information requested by Minister to be publicly available
 The person responsible for an approved dispute resolution scheme must make copies of its annual report available for inspection by the public, free of charge,—
