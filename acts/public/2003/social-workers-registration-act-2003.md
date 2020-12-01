@@ -1,5 +1,5 @@
 # Social Workers Registration Act 2003
-_Consolidation as at 2019-05-27_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Social Workers Registration Act 2003.
@@ -526,7 +526,7 @@ The Board must take all practicable steps to ensure that copies of all competenc
   (c) by disclosing the information to the other person, if—
     (i) the Board has directed that the information be disclosed to the other person; or
     (ii) the other person has asked for it.
-(2) Subsection (1) does not affect the Privacy Act 1993.
+(2) Subsection (1) does not affect the Privacy Act 2020.
 (3) Subsection (4) applies to all information, statements, and admissions relating to the conduct of a person undertaking a competence assessment (whether that conduct occurred before or during the assessment) that—
   (a) are supplied, disclosed, or made by the person during the assessment; and
   (b) are not records made or kept by the person before the assessment is undertaken, and disclosed in the course of or for the purposes of the assessment.
@@ -843,7 +843,7 @@ A professional conduct committee may appoint a legal adviser, who—
 (2) No charge may be made for complying with a production notice.
 (3) A person who receives a production notice is not required to produce any paper, document, record, or thing—
   (a) if it would be privileged in a court of law; or
-  (b) if disclosure would breach an obligation of secrecy or non-disclosure imposed on the person by an enactment (other than the Official Information Act 1982 or the Privacy Act 1993).
+  (b) if disclosure would breach an obligation of secrecy or non-disclosure imposed on the person by an enactment (other than the Official Information Act 1982 or the Privacy Act 2020).
 
 ### 69 Information to be given to social worker and complainant
 As soon as is practicable after a complaint about, or a notice of conviction of, a social worker is referred to a professional conduct committee, the Board must ensure—
