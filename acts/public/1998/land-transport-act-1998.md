@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2020-09-01_
+_Consolidation as at 2020-12-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -1081,8 +1081,8 @@ If the Agency proposes to take into account any information that is or may be pr
 (1) Nothing in section 30H requires the Agency to disclose any information the disclosure of which would be likely to endanger the safety of any person.
 (2) If the Agency determines not to disclose any information in reliance on subsection (1), the Agency must inform the person of the fact of non-disclosure and,—
   (a) in the case of non-disclosure to an individual of information about the individual,—
-    (i) inform the individual that he or she may, under the Privacy Act 1993, complain to the Privacy Commissioner about that non-disclosure; and
-    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information has been withheld in reliance on section 27(1)﻿(d) of that Act; and
+    (i) inform the individual that he or she may, under the Privacy Act 2020, complain to the Privacy Commissioner about that non-disclosure; and
+    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information has been withheld in reliance on section 49(1)﻿(a)﻿(i) of that Act; and
   (b) in any other case,—
     (i) inform the person that the person may seek a review by an Ombudsman of that non-disclosure under the Official Information Act 1982; and
     (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld in reliance on section 6(d) of that Act.
@@ -4556,7 +4556,7 @@ The functions of the Minister under this Act are—
 (1A) Subsection (1) is subject to—
   (a) subsections (2), (3), and (4):
   (b) section 141 of the Intelligence and Security Act 2017:
-  (c) Part 10A of the Privacy Act 1993.
+  (c) subpart 2 of Part 7 of the Privacy Act 2020.
 (2) A person who is acting in the course of the person’s official duties as an employee of the Department of Internal Affairs may access or use any photographic image stored under section 28(5) to verify the identity of a particular individual.
 (3) A person who is the next of kin of a deceased individual to whom a photographic image stored under section 28(5) relates may access the photographic image—
   (a) on production to the Agency of—
@@ -4765,10 +4765,10 @@ Subsections (2A) to (2C) of section 209 expire and are repealed with the close o
 
 ### 211 Commissioner to provide traffic accident reports
 (1) A person may apply to the Commissioner for a copy of any traffic accident report and is, on payment of the prescribed fee (if any), entitled to obtain a copy of the report.
-(2) The Commissioner may delete or omit from a copy of a report required to be supplied under subsection (1) any information that may be withheld in accordance with the provisions of the Official Information Act 1982 or the Privacy Act 1993 but, if any such deletion or omission occurs,—
+(2) The Commissioner may delete or omit from a copy of a report required to be supplied under subsection (1) any information that may be withheld in accordance with the provisions of the Official Information Act 1982 or the Privacy Act 2020 but, if any such deletion or omission occurs,—
   (a) the Commissioner must inform the applicant that information has been deleted or omitted from the copy of the report; and
-  (b) the provisions of the Official Information Act 1982 and the Privacy Act 1993 apply to the deletion or omission as if, following a request under that Act for the information deleted or omitted, the information had been withheld in reliance on that Act.
-(3) The fee referred to in subsection (1) is, despite section 24(1) of the Official Information Act 1982 and section 35 of the Privacy Act 1993, payable by every person (including a natural person to whom the report relates) applying for a copy of a traffic accident report.
+  (b) the provisions of the Official Information Act 1982 and the Privacy Act 2020 apply to the deletion or omission as if, following a request under that Act for the information deleted or omitted, the information had been withheld in reliance on that Act.
+(3) The fee referred to in subsection (1) is, despite section 24(1) of the Official Information Act 1982 and section 66 of the Privacy Act 2020, payable by every person (including a natural person to whom the report relates) applying for a copy of a traffic accident report.
 (4) In this section, traffic accident report means a written report prepared by an enforcement officer who is a Police employee that relates to an investigation of a traffic accident.
 
 ### 211A Payment of fees
@@ -5002,7 +5002,7 @@ The purposes of the register are to facilitate—
 (4) The Registrar must, at the request of an individual, supply to the individual—
   (a) the name of any person to whom personal information about the individual has been disclosed under—
     (i) subsection (2)﻿(c); or
-    (ii) subsection (2)﻿(d), but only if the enactment in question was the Official Information Act 1982 or the Privacy Act 1993; and
+    (ii) subsection (2)﻿(d), but only if the enactment in question was the Official Information Act 1982 or the Privacy Act 2020; and
   (b) the purpose of any such disclosure.
 
 ### 238 Registrar may confirm or deny match of information
