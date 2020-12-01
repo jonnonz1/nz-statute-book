@@ -1,5 +1,5 @@
 # Energy Efficiency and Conservation Act 2000
-_Consolidation as at 2017-05-30_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Energy Efficiency and Conservation Act 2000.
@@ -258,7 +258,7 @@ Every transferred employee becomes, on his or her transfer, an employee of the A
 (5) The Authority may publish statistical information only if it is arranged in such a manner as to prevent any information published from being identifiable by any person (other than the person who supplied the information) as information relating to a particular person, unless—
   (a) that person has consented to the publication of the information in that manner, or has already permitted its publication in that manner; or
   (b) the publication of the information in that manner could not reasonably have been foreseen by the Authority or any employee of the Authority.
-(6) Nothing in the Official Information Act 1982 or the Privacy Act 1993 requires the Authority to disclose information to which this section applies.
+(6) Nothing in the Official Information Act 1982 or the Privacy Act 2020 requires the Authority to disclose information to which this section applies.
 
 ### 39 Offence
 Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who, without lawful excuse, publishes or discloses, otherwise than in accordance with section 38, any information to which that section applies.
