@@ -1,5 +1,5 @@
 # Privacy Amendment Act 1997
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2020-12-01_
 
 > An Act to amend the Privacy Act 1993
 
