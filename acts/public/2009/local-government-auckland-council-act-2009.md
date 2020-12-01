@@ -1,5 +1,5 @@
 # Local Government (Auckland Council) Act 2009
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Local Government (Auckland Council) Act 2009.
@@ -848,7 +848,7 @@ This Part establishes a board whose purpose is to assist the Auckland Council to
 ### 87 Auckland Council information provided to board
 (1) The board may not exercise its powers in section 86 if doing so would disclose information that—
   (a) is known to the board because the Auckland Council provided it to the board; and
-  (b) is information that the Auckland Council would consider withholding under the Local Government Official Information and Meetings Act 1987 or the Privacy Act 1993 if the Council received a request for it.
+  (b) is information that the Auckland Council would consider withholding under the Local Government Official Information and Meetings Act 1987 or the Privacy Act 2020 if the Council received a request for it.
 (2) When the board is deciding whether subsection (1)﻿(b) applies to information that the Council provided to the board, it must make its decision on reasonable grounds.
 (3) When the Auckland Council decides that subsection (1)﻿(b) applies to information that the Council provided to the board, it must tell the board of its decision and the reasons for its decision.
 
