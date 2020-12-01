@@ -1,5 +1,5 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 > An Act to reform the law relating to security interests in personal property and, in particular,—ato provide for the creation and enforceability of security interests in personal property; andbto provide for the determination of priority between security interests in the same personal property; andcto provide for the determination of priority between security interests and other types of interests in the same personal property; anddto provide for the enforcement of security interests in personal property other than consumer goods; andeto provide for the establishment of a register of security interests in personal property
 
@@ -176,7 +176,7 @@ Part 12—provides for a 6-month transitional period during which time prior sec
   - **perfected by possession** , in relation to a security interest, means the security interest has attached and the secured party has taken possession of the collateral (except where possession is a result of seizure or repossession)
   - **perfected by registration** , in relation to a security interest, means the security interest has attached and a financing statement has been registered in respect of the security interest
   - **perfected security interest** , in relation to a security interest, means the security interest is perfected by possession or by registration or is temporarily perfected, as the case may be
-  - **personal information** has the same meaning as in section 2(1) of the Privacy Act 1993
+  - **personal information** has the same meaning as in section 7(1) of the Privacy Act 2020
   - **personal property** includes chattel paper, documents of title, goods, intangibles, investment securities, money, and negotiable instruments
   - **prescribed** means prescribed by regulations
   - **prior law** has the meaning set out in section 193
@@ -1417,7 +1417,7 @@ The register may be searched only by reference to the following criteria:
 
 ### 173 Search purposes, etc
 A search of the register may be carried out only by the following persons for the following purposes:
-  (a) an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual in accordance with the Privacy Act 1993:
+  (a) an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual in accordance with the Privacy Act 2020:
   (b) a debtor or secured party for a purpose that relates to the debtor's or secured party's security interest in respect of which a financing statement has been registered:
   (c) a person for the purpose of—
     (i) establishing whether or not personal property that is to be purchased or otherwise dealt with by the person is subject to a security interest:
@@ -1437,7 +1437,7 @@ A search of the register may be carried out only by the following persons for th
   (l) a person for the purpose of advising another person in connection with any of the purposes referred to in paragraphs (a) to (ka).
 
 ### 174 When search constitutes interference with privacy of individual
-A search of the register for personal information that has not been carried out in accordance with sections 171 to 173 constitutes an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+A search of the register for personal information that has not been carried out in accordance with sections 171 to 173 constitutes an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 
 ### 175 Printed search result receivable as evidence
 A printed search result that purports to be issued by the register is receivable as evidence and is, in the absence of evidence to the contrary, proof of the registration of any financing statement to which the search relates, including—
