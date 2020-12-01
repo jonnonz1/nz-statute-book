@@ -1,5 +1,5 @@
 # Limited Partnerships Act 2008
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Limited Partnerships Act 2008.
@@ -540,7 +540,7 @@ A register may be searched—
   (e) by any person for the purpose of facilitating any of the functions or powers of the Registrar, courts, or any other person under this Act or any other enactment.
 
 ### 66 When search breaches information privacy principle
-A person who searches a register for personal information for a purpose that is not a purpose set out in section 65 must be treated, for the purposes of Part 8 of the Privacy Act 1993, as if that person has breached an information privacy principle under section 66(1)﻿(a)﻿(i) of that Act.
+A person who searches a register for a purpose that is not a purpose set out in section 65 must be treated, for the purposes of Parts 5 and 6 of the Privacy Act 2020, as having breached an information privacy principle under section 69(2)﻿(a)﻿(i) of that Act.
 
 **Administration**
 
