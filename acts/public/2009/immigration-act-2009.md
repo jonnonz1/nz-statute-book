@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -366,7 +366,7 @@ In this Act, unless the context otherwise requires,—
     (iii) make any further inquiries in respect of any information provided by, or in respect of, the person or any other person; and
   (c) whether the purported application is considered or not,—
     (i) the decision maker is not obliged to give reasons for any decision relating to the purported application, other than the reason that this section applies; and
-    (ia) privacy principle 6 (which relates to access to personal information and is set out in section 6 of the Privacy Act 1993) does not apply to any reasons for any decision relating to the purported application; and
+    (ia) privacy principle 6 (which relates to access to personal information and is set out in section 22 of the Privacy Act 2020) does not apply to any reasons for any decision relating to the purported application; and
     (ii) section 27 of this Act and section 23 of the Official Information Act 1982 do not apply in respect of the purported application.
 (2) Subsection (1)﻿(c)﻿(ia) applies to any decision made in relation to a purported application, whether the decision was made before or after the commencement of that subsection.
 
@@ -628,7 +628,7 @@ Biometric information required from persons in accordance with this Act may be u
 (1) Biometric information collected under this Act may be collected, using an automated system or otherwise, by—
   (a) an immigration officer or a refugee and protection officer; or
   (b) an agent or person on behalf of an immigration officer or a refugee and protection officer.
-(2) Biometric information must be dealt with in accordance with the Privacy Act 1993.
+(2) Biometric information must be dealt with in accordance with the Privacy Act 2020.
 (3) Subsection (2) is for the avoidance of doubt.
 
 ### 32 Department to undertake privacy impact assessment
@@ -675,7 +675,7 @@ Biometric information required from persons in accordance with this Act may be u
 ### 35 Protection of classified information
 (1) Classified information relied on for the purpose of making any decision or determining any proceedings under this Act must be kept confidential and must not be disclosed, except as provided in sections 241(1), 259(1), 267(4), 269(4), and 270(3).
 (2) Subsection (1)—
-  (a) does not limit or affect the application of the Ombudsmen Act 1975, the Official Information Act 1982, or the Privacy Act 1993; but
+  (a) does not limit or affect the application of the Ombudsmen Act 1975, the Official Information Act 1982, or the Privacy Act 2020; but
   (b) otherwise applies despite any other enactment or rule of law to the contrary.
 (3) Neither the Tribunal nor any court may require or compel the chief executive of the relevant agency, the Minister, or any other person to disclose any classified information in any proceedings under this Act (but without derogating from sections 241(1) and 259(1)).
 
@@ -2125,7 +2125,7 @@ When making a determination under section 143, 145, or 146,—
   (d) if the particulars relating to a claim are published in a manner that is unlikely to allow identification of the person concerned (whether in a published decision of the Tribunal under clause 19 of Schedule 2 or otherwise); or
   (e) if, in the circumstances of the particular case, there is no serious possibility that the safety of the claimant or any other person would be endangered by the disclosure of the information.
 (3) In determining whether information may be released under subsection (2)﻿(e), the person considering whether to disclose the information may have regard to the protections that the person, agency, or body to whom the information is disclosed may apply to the information, including—
-  (a) any applicable requirements of the Privacy Act 1993; and
+  (a) any applicable requirements of the Privacy Act 2020; and
   (b) any orders of the Tribunal or other court; and
   (c) any protection mechanisms that the person, agency, or body itself must or may apply.
 (4) If, in relation to a claim or particulars relating to a claim, the test in subsection (2)﻿(e) is satisfied (the person concerned having considered the matters in subsection (3)),—
@@ -2465,7 +2465,7 @@ A deportation liability notice must be signed by the Minister or an immigration 
     (ii) to inquire into the circumstances of, or to make any further inquiry in respect of the information provided by or in respect of, the person who is the subject of the deportation order or any other person.
 (4) Whether or not an immigration officer considers cancelling a deportation order,—
   (a) he or she is not obliged to give reasons for any decision, other than the reason that this subsection applies; and
-  (ab) privacy principle 6 (which relates to access to personal information and is set out in section 6 of the Privacy Act 1993) does not apply to any reasons for any decision relating to the purported application; and
+  (ab) information privacy principle 6 (which relates to access to personal information and is set out in section 22 of the Privacy Act 2020) does not apply to any reasons for any decision relating to the purported application; and
   (b) section 23 of the Official Information Act 1982 does not apply in respect of the decision.
 (5) However, to the extent that an immigration officer does have regard to any international obligations, the officer is obliged to record—
   (a) a description of the international obligations; and
@@ -3094,7 +3094,7 @@ The Minister, the chief executive, or a refugee and protection officer, as the c
 
 ### 229 Tribunal may require chief executive to provide information
 (1) The Tribunal may require the chief executive to seek and provide information relevant to an appeal or matter, and the chief executive must comply, to the extent practicable, with such a requirement.
-(2) Where the chief executive provides information to the Tribunal under subsection (1), the chief executive must be treated as an agent of the Tribunal for the purposes of the Official Information Act 1982 and the Privacy Act 1993.
+(2) Where the chief executive provides information to the Tribunal under subsection (1), the chief executive must be treated as an agent of the Tribunal for the purposes of the Official Information Act 1982 and the Privacy Act 2020.
 (3) No party to the appeal or matter may request the Tribunal to exercise its powers under this section.
 (4) This section is subject to section 35(3).
 
@@ -3898,6 +3898,9 @@ For the purposes of this Act, a constable has all the powers of an immigration o
   (a) the frequency with which information may be supplied; and
   (b) the form in which information may be supplied; and
   (c) the method by which information may be supplied.
+(4A) On or after 1 December 2020, no information may be disclosed under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 (5) In this section,—
   - **authorised officer** means an officer, employee, or agent of the responsible department who is authorised by the chief executive of that department to receive information from the chief executive of the Department in accordance with this section
   - **identifying information** includes a person's—
@@ -3927,6 +3930,9 @@ For the purposes of this Act, a constable has all the powers of an immigration o
   (a) the frequency with which information may be supplied; and
   (b) the form in which information may be supplied; and
   (c) the method by which information may be supplied.
+(3A) On or after 1 December 2020, no information may be exchanged under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 (4) In this section and section 296, unless the context otherwise requires,—
   - **amount of reparation** has the same meaning as in section 79 of the Summary Proceedings Act 1957
   - **authorised officer** means an officer, employee, or agent of the responsible department who is authorised by the chief executive of that department to supply information to or receive information from the chief executive of the Department in accordance with this section
@@ -3992,6 +3998,9 @@ For the purposes of this Act, a constable has all the powers of an immigration o
   (a) the frequency with which information may be supplied; and
   (b) the form in which information may be supplied; and
   (c) the method by which information may be supplied.
+(6A) On or after 1 December 2020, no information may be disclosed under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 (7) In this section,—
   - **authorised officer** means an officer, employee, or agent of the responsible department who is authorised by the chief executive of that department to receive information from the chief executive of the Department in accordance with this section
   - **benefit** means any of the following:
@@ -4023,6 +4032,9 @@ For the purposes of this Act, a constable has all the powers of an immigration o
   (a) the frequency with which information may be supplied; and
   (b) the form in which information may be supplied; and
   (c) the method by which information may be supplied.
+(5A) On or after 1 December 2020, no information may be disclosed under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 (6) In this section,—
   - **authorised officer** means an officer, employee, or agent of the Department who is authorised by the chief executive of the Department to receive information from the chief executive of the responsible department in accordance with this section
   - **benefit** means any of the following:
@@ -4075,6 +4087,9 @@ For the purposes of this Act, a constable has all the powers of an immigration o
   (a) the frequency with which information may be supplied; and
   (b) the form in which the information may be supplied; and
   (c) the method by which the information may be supplied.
+(8A) On or after 1 December 2020, no information may be disclosed under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 (9) In this section,—
   - **authorised officer** means an officer, employee, or agent of the responsible department who is authorised by the chief executive of the responsible department to receive information from the chief executive of the Department in accordance with this section
   - **identifying information** means information that identifies a person, such as the person’s full name, date or place of birth, gender, or alias or a unique identifying number used for the person
@@ -4356,7 +4371,7 @@ For the purposes of this Act, a constable has all the powers of an immigration o
   (b) if the person is entitled to undertake that work in New Zealand,—
     (i) the duration of the entitlement; and
     (ii) any conditions imposed on that entitlement.
-(5) Where the chief executive discloses information under this section to an employer, the employer must be informed of the requirement to comply with the Privacy Act 1993 in relation to that information.
+(5) Where the chief executive discloses information under this section to an employer, the employer must be informed of the requirement to comply with the Privacy Act 2020 in relation to that information.
 
 ### 305 Disclosure of information overseas
 (1) The chief executive may disclose any information specified in section 306 to an overseas agency, body, or person whose functions include—
@@ -6357,7 +6372,7 @@ For the purposes of this Act, any person who has been nominated as a responsible
 (1) Despite section 462(1) of this Act, an immigration officer designated by the chief executive for the purpose of section 54 of the former Act—
   (a) may continue to make removal orders under that section if the making of an order is necessary for the purposes of completing any matter to which this Part applies; and
   (b) may continue to cancel removal orders under section 58 of the former Act if the cancelling of an order is necessary for the purposes of completing any matter to which this Part applies.
-(1A) Privacy principle 6 (which relates to access to personal information and is set out in section 6 of the Privacy Act 1993) does not apply to any reasons for any decision made by an immigration officer under section 58 of the former Act.
+(1A) Information privacy principle 6 set out in section 22 of the Privacy Act 2020 (which relates to access to personal information) does not apply to any reasons for any decision made by an immigration officer under section 58 of the former Act.
 (2) To avoid doubt, this section applies to an immigration officer only if his or her designation is current immediately before the commencement of section 404 of this Act.
 
 ### 464 Acts or things done by immigration officer under former Act not required to be repeated
