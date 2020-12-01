@@ -1,5 +1,5 @@
 # Te Urewera Act 2014
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Te Urewera Act 2014.
@@ -1902,7 +1902,7 @@ In considering an application for a concession, the Board must, in addition to t
   (d) any information received under clause 10, 11, or 12:
   (e) any relevant environmental impact assessment, including any audit or review:
   (f) any relevant oral or written submissions received as a result of a public notice issued under clause 13:
-  (g) any relevant information that may be withheld from any person in accordance with the Official Information Act 1982 or the Privacy Act 1993.
+  (g) any relevant information that may be withheld from any person in accordance with the Official Information Act 1982 or the Privacy Act 2020.
 
 ### 15 Mandatory conditions
 (1) Every concession document must include (and is to be treated as including) a condition that the person in whose favour the concession is granted (the concessionaire) must act in accordance with the management plan, whether the plan or any amendment to it was approved before, on, or after the date on which the concession became effective.
