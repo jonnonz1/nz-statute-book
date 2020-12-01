@@ -1,5 +1,5 @@
 # Victims' Rights Act 2002
-_Consolidation as at 2020-07-01_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Victims' Rights Act 2002.
@@ -159,9 +159,9 @@ Information required to be given under section 11 or section 12 may be given to 
 
 **Privacy of victims**
 
-### 15 Victim's rights under Privacy Act 1993
-(1) No person may interfere with the privacy of a victim contrary to the Privacy Act 1993.
-(2) This section is not limited by section 7, and does not limit or affect, or give any person any rights separate from, or additional to, the Privacy Act 1993.
+### 15 Victim's rights under Privacy Act 2020
+(1) No person may interfere with the privacy of a victim contrary to the Privacy Act 2020.
+(2) This section is not limited by section 7, and does not limit or affect, or give any person any rights separate from, or additional to, the Privacy Act 2020.
 
 ### 16 Restriction on disclosing victim's contact details in evidence or information provided to court
 (1) This section applies to information (the information) that discloses, or that may lead to the disclosure of, a victim's contact details.
@@ -285,7 +285,7 @@ In determining the weight to give to a victim impact statement, the judicial off
   (b) knows that an application of that kind is to be made, or has been made but has not yet been determined.
 (2) However, no person (other than the victim concerned, or a person acting under the authority of the victim concerned) may give an offender a victim impact statement to keep.
 (3) Nothing in this section permits a person to show part of a victim impact statement to an offender or a lawyer representing an offender contrary to an order made under section 25.
-(4) Despite anything in the Privacy Act 1993, no offender may have access to a victim impact statement relating to the offender under that Act.
+(4) Despite anything in the Privacy Act 2020, no offender may have access to a victim impact statement relating to the offender under that Act.
 
 ### 24 Return of statements at end of proceedings
 (1) Every person who receives or makes a copy or copies of a victim impact statement during proceedings must return the copy or copies to a member of court staff as soon as practicable after the end of the proceedings.
@@ -665,13 +665,13 @@ A victim to whom this section applies may make submissions to the Minister of Im
   (a) the person who, under the relevant specified provisions, appears to be required to accord the victim or person the right:
   (b) an Ombudsman, in accordance with the Ombudsmen Act 1975, if the person who, under the relevant specified provisions, appears to be required to accord the victim or person the right, may be the subject of a complaint under that Act:
   (c) the Independent Police Conduct Authority, in accordance with the Independent Police Conduct Authority Act 1988, if the person who, under the relevant specified provisions, appears to be required to accord the victim or person the right, is a constable:
-  (d) the Privacy Commissioner, in accordance with the Privacy Act 1993, if the matter involves, or may involve, an action that is, or appears to be, an interference with the privacy of the victim or person.
+  (d) the Privacy Commissioner, in accordance with the Privacy Act 2020, if the matter involves, or may involve, an action that is, or appears to be, an interference with the privacy of the victim or person.
 (3) Any person who receives a complaint under subsection (2)﻿(a) must deal with the complaint promptly and fairly.
 
 ### 50 Other ways in which rights may be enforced
 (1) Except as provided in subsection (2), neither section 49 nor this section limits the ways in which rights conferred by the specified provisions (as defined in section 49(1)﻿(a)) may be enforced.
 (2) No person (for example, the Crown in right of New Zealand) may be required (for example, by any court, tribunal, or other body) to pay any money (whether by way of damages, compensation, or otherwise) to any other person just because of a breach of any of the specified provisions.
-(3) An example of the operation of subsection (2) is that the Human Rights Review Tribunal (as defined in section 2(1) of the Privacy Act 1993) may require the payment of money in respect of conduct that is, or may be, a breach of any of the specified provisions, if that conduct also constitutes an interference with the privacy of an individual.
+(3) An example of the operation of subsection (2) is that the Human Rights Review Tribunal (as defined in section 7(1) of the Privacy Act 2020) may require the payment of money in respect of conduct that is, or may be, a breach of any of the specified provisions, if that conduct also constitutes an interference with the privacy of an individual.
 
 ### 50A Information about complaints to be included in annual report
 (1) Without limiting section 43 of the Public Finance Act 1989, each agency specified in subsection (2) must include in its annual report for each financial year that commences after the commencement of this section—
