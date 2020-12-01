@@ -1,5 +1,5 @@
 # Human Tissue Act 2008
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Human Tissue Act 2008.
@@ -756,7 +756,7 @@ The Governor-General may, by Order in Council, authorise the establishment of a 
   (c) other donor information.
 (2) The regulations may require the register to be maintained by or on behalf of the Crown in 1 or more specified media (whether or not it is maintained in other media).
 (3) The regulations may also require the register to be capable of, and to be maintained for, recording 1 or more specified classes, descriptions, or kinds of other donor information.
-(4) The regulations do not affect the application of the Privacy Act 1993 to the collection, use, and disclosure of personal information by and for the purposes of the register.
+(4) The regulations do not affect the application of the Privacy Act 2020 to the collection, use, and disclosure of personal information by and for the purposes of the register.
 (5) In particular, the regulations cannot authorise or require the recording in the register of personal information—
   (a) without authorisation or consent from the individual concerned; and
   (b) until he or she cancels, or otherwise opts out of, the recording in the register of that information.
