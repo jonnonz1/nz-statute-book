@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Act 2000
-_Consolidation as at 2020-11-30_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Act 2000.
@@ -323,7 +323,7 @@ This Act binds the Crown.
   (m) to collaborate with pre-schools and schools within its geographical area on the fostering of health promotion and on disease prevention programmes:
   (n) to perform any other functions it is for the time being given by or under any enactment, or authorised to perform by the Minister by written notice to the board of the DHB after consultation with it.
 (2) The Minister must, as soon as practicable after giving a notice to a DHB under subsection (1)﻿(n), publish in the Gazette, and present to the House of Representatives, a copy of the notice.
-(3) Subsection (1)﻿(c), (f), and (k) is subject to the Privacy Act 1993.
+(3) Subsection (1)﻿(c), (f), and (k) is subject to the Privacy Act 2020.
 (4) Subsection (1)﻿(c) and (f) does not require a DHB to provide any information that could properly be withheld under the Official Information Act 1982, if a request for that information were made under that Act.
 (5) A DHB that, in reliance on subsection (4), decides not to provide relevant information must advise the persons concerned of that decision.
 (6) To avoid any doubt, subsection (1)﻿(d) does not limit the capacity of a DHB to establish and maintain processes to enable other population groups to participate in, and contribute to, strategies for the improvement of the health of those groups.
@@ -399,7 +399,7 @@ This Act binds the Crown.
   (c) advise the Minister on any matters relating to the DHB, the board, or its performance.
 (4) The appointment of a person as a Crown monitor is on terms and conditions agreed between the Minister and the person.
 (5) A Crown monitor may provide to the Minister any information that the Crown monitor obtains in the course of acting as such.
-(6) Subsection (5) is subject to the Privacy Act 1993.
+(6) Subsection (5) is subject to the Privacy Act 2020.
 
 ### 31 Replacement of board by commissioner
 (1) Where the Minister is seriously dissatisfied with the performance of a board of a DHB, the Minister may, by written notice to the board and the commissioner, dismiss all members of the board and replace the board with a commissioner.
@@ -929,7 +929,7 @@ In any inquiry, the inquiry board must—
 (5) If an inquiry board makes an order under subsection (3), the inquiry board must state in the order—
   (a) the inquiry board's reasons for making the order; and
   (b) in the case of an order made under subsection (3)﻿(b) or (c), the time (if any) at which, or the circumstances (if any) in which, the order ceases to have effect.
-(6) If an inquiry board makes an order, under subsection (3)﻿(b) or (c), in respect of information, that information must not while that order has effect be made available under any of the Local Government Official Information and Meetings Act 1987, the Official Information Act 1982, or the Privacy Act 1993.
+(6) If an inquiry board makes an order, under subsection (3)﻿(b) or (c), in respect of information, that information must not while that order has effect be made available under any of the Local Government Official Information and Meetings Act 1987, the Official Information Act 1982, or the Privacy Act 2020.
 (7) An inquiry board may at any time deliberate in private as to its decision on any matter or question arising in the course of the inquiry.
 (8) Nothing in this section prevents an inquiry board from at any time seeking information or questioning people outside a hearing as to where information relevant to the inquiry might be obtained.
 
@@ -1545,7 +1545,7 @@ The reasons referred to in clause 8(1)﻿(b) are—
 (3) Any member of the public may take notes from any minutes inspected by that member of the public.
 (4) Every member of the public inspecting any such minutes who requests a copy of all or any part of those minutes must, if he or she tenders an amount equal to the reasonable costs of making one available, be given such a copy.
 (5) If any person requests a copy of the minutes of any meeting or part of a meeting from which the public was excluded, the board must deal with the request as follows:
-  (a) if it is made by or on behalf of a natural person, and is for access to any personal information that is about that person, as if it were a request made under subclause (1)﻿(b) of principle 6 of the Privacy Act 1993:
+  (a) if it is made by or on behalf of a natural person, and is for access to any personal information that is about that person, as if it were a request made under information privacy principle 6(1)﻿(b) set out in section 22 of the Privacy Act 2020:
   (b) in any other case, as if it were a request for access to official information made under the Official Information Act 1982.
 
 ### 22 Public notification of resolution at emergency meeting
@@ -1616,7 +1616,7 @@ A board may by resolution exclude the public from the whole or any part of any m
     (i) be contrary to the provisions of a specified enactment; or
     (ii) constitute contempt of court or of the House of Representatives:
   (c) that the purpose of the whole or the relevant part of the meeting is to consider a recommendation of an Ombudsman made under section 30(1) or section 35(2) of the Official Information Act 1982 to the board:
-  (d) that the purpose of the whole or the relevant part of the meeting is to consider a communication from the Privacy Commissioner arising out of an investigation under Part 8 of the Privacy Act 1993:
+  (d) that the purpose of the whole or the relevant part of the meeting is to consider a communication from the Privacy Commissioner arising out of an investigation under Part 5 of the Privacy Act 2020:
   (e) that the exclusion of the public from the whole or the relevant part of the meeting is necessary to enable the board to deliberate in private on a decision or recommendation as to whether any of the grounds in paragraphs (a) to (d) are established in relation to all or any part of any meeting of the board.
 
 ### 33 Resolution excluding public
@@ -1970,7 +1970,7 @@ A chairperson or deputy chairperson of the committee—
 (3) Any member of the public may take notes from any minutes inspected by that member of the public.
 (4) Every member of the public inspecting any such minutes who requests a copy of all or any part of those minutes must, if he or she tenders an amount equal to the reasonable costs of making one available, be given such a copy.
 (5) If any person requests a copy of the minutes of any meeting or part of a meeting from which the public was excluded, the committee must deal with the request as follows:
-  (a) if it is made by or on behalf of a natural person, and is for access to any personal information that is about that person, as if it were a request made under subclause (1)﻿(b) of principle 6 of the Privacy Act 1993:
+  (a) if it is made by or on behalf of a natural person, and is for access to any personal information that is about that person, as if it were a request made under information privacy principle 6(1)﻿(b) set out in section 22 of the Privacy Act 2020:
   (b) in any other case, as if it were a request for access to official information made under the Official Information Act 1982.
 
 ### 24 Public notification of resolution at emergency meeting
@@ -2037,7 +2037,7 @@ A committee may by resolution exclude the public from the whole or any part of a
     (i) be contrary to the provisions of a specified enactment; or
     (ii) constitute contempt of court or of the House of Representatives:
   (c) that the purpose of the whole or the relevant part of the meeting is to consider a recommendation of an Ombudsman made under section 30(1) or section 35(2) of the Official Information Act 1982 to the committee:
-  (d) that the purpose of the whole or the relevant part of the meeting is to consider a communication from the Privacy Commissioner arising out of an investigation under Part 8 of the Privacy Act 1993 to the committee:
+  (d) that the purpose of the whole or the relevant part of the meeting is to consider a communication from the Privacy Commissioner arising out of an investigation under Part 5 of the Privacy Act 2020 to the committee:
   (e) that the exclusion of the public from the whole or the relevant part of the meeting is necessary to enable the committee to deliberate in private on a decision or recommendation as to whether any of the grounds in paragraphs (a) to (d) are established in relation to all or any part of any meeting of the committee.
 
 ### 35 Resolution excluding public
@@ -2205,7 +2205,7 @@ In this schedule, unless the context otherwise requires,—
 
 ### 3 Meaning of information
 In clauses 4 to 6, information means any information—
-  (a) that is personal information within the meaning of section 2(1) of the Privacy Act 1993; and
+  (a) that is personal information within the meaning of section 7(1) of the Privacy Act 2020; and
   (b) that became known to any member or executive officer or agent of a mortality review committee only because of the committee's functions being carried out (for example, because it is contained in a document created, and made available to the member or executive officer or agent, only because of those functions being carried out), whether or not the carrying out of those functions is completed.
 
 ### 4 Prohibitions on production, disclosure, and recording of information
