@@ -1,5 +1,5 @@
 # Identity Information Confirmation Act 2012
-_Consolidation as at 2012-12-18_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Identity Information Confirmation Act 2012.
@@ -54,7 +54,7 @@ In this Act, unless the context otherwise requires,—
   - **intermediary** means a person or body of persons (whether corporate or unincorporate and whether in the public sector or private sector) who or that—
     (a) is a party to a confirmation agreement with the responsible officials; and
     (b) submits, on behalf of an agency, an individual's identity information for an identity information check in accordance with a separate agreement between the intermediary and the agency (whether or not for reward or in conjunction with any other business or activity)
-  - **Privacy Commissioner** means the person who holds that office under section 12 of the Privacy Act 1993
+  - **Privacy Commissioner** means the person who holds that office under section 13 of the Privacy Act 2020
   - **recorded information** means information that is recorded in or on any or all of the applicable databases
   - **Registrar-General** has the meaning given to it in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
   - **responsible officials** means either or both of the following (as the case may be):
@@ -79,7 +79,7 @@ The purpose of the confirmation service is to allow an agency or intermediary to
   (d) in the case of an intermediary, the identity information check is on behalf of an agency that has been approved by the responsible officials under section 13(a) and is listed as such in the confirmation agreement between the intermediary and the responsible officials; and
   (e) the check is carried out in accordance with the agreement; and
   (f) the agency or intermediary has made an arrangement to pay or has paid any fees and charges payable under the agreement.
-(2) For the purposes of subsection (1)(a), an individual may consent to an identity information check on—
+(2) For the purposes of subsection (1)﻿(a), an individual may consent to an identity information check on—
   (a) a one-off basis (that is, for each identity information check); or
   (b) an ongoing basis (that is, for a series of identity information checks, whether repeated or otherwise).
 (3) An individual who consents to an identity information check may withdraw the consent before—
@@ -95,7 +95,7 @@ The purpose of the confirmation service is to allow an agency or intermediary to
   (a) information, under section 78K of the Births, Deaths, Marriages, and Relationships Registration Act 1995, that the individual is dead or that name change information exists in relation to the individual:
   (b) any information about the status of any other recorded information in relation to the individual (for example, whether a passport has been cancelled).
 (6) After carrying out the search referred to in subsection (2), the confirmation service must supply to the agency or intermediary information about the search result and, in particular, whether any or all of the individual's identity information submitted to the service is consistent with any recorded information.
-(7) Without limiting subsection (6), the information that may be supplied under that subsection generally includes, subject to subsection (4), one of the following search results:ResultDescriptionConsistentIdentity information is consistent with recorded information.Not consistentIdentity information is not consistent with recorded information.ExceptionOne or more of the circumstances described in subsection (5) apply (for example, the identity information may relate to an individual who is dead), including information about which of those circumstances apply.
+(7) Without limiting subsection (6), the information that may be supplied under that subsection generally includes, subject to subsection (4), one of the following search results:The following table is small in size and has 2 columns. Column 1 is headed Result and column 2 is headed Description.ResultDescriptionConsistentIdentity information is consistent with recorded information.Not consistentIdentity information is not consistent with recorded information.ExceptionOne or more of the circumstances described in subsection (5) apply (for example, the identity information may relate to an individual who is dead), including information about which of those circumstances apply.
 (8) For the purposes of subsections (6) and (7), identity information may be treated as consistent with recorded information despite any variation between them because of pronunciation or punctuation.ExampleThe name Michele is treated as consistent with the name Michèle despite the accent written above the first letter e in the latter.The name Steel-Baker is treated as consistent with the name Steel Baker despite the absence of the hyphen in the latter.
 
 ### Subpart 2 — Confirmation agreements
@@ -150,14 +150,14 @@ In addition to the requirements in section 11, a confirmation agreement with an 
   (a) the requirement that the responsible officials must, having regard to the matters in section 10(1), approve an agency on whose behalf the intermediary is proposing to submit an individual's identity information for an identity information check before the intermediary enters into a separate agreement with that agency; and
   (b) the requirement that the intermediary must—
     (i) list every agency that has been approved under paragraph (a) in its confirmation agreement; and
-    (ii) remove an agency from that list if the agency's approval under that paragraph is withdrawn by the responsible officials because the grounds in section 11(3)(d) on which a confirmation agreement may be terminated would have existed had the confirmation agreement been entered into directly with the agency; and
+    (ii) remove an agency from that list if the agency's approval under that paragraph is withdrawn by the responsible officials because the grounds in section 11(3)﻿(d) on which a confirmation agreement may be terminated would have existed had the confirmation agreement been entered into directly with the agency; and
   (c) the requirement that the intermediary must not submit an individual's identity information for an identity information check—
     (i) on behalf of an agency that has not been approved by the responsible officials under paragraph (a) or an agency whose approval under that paragraph has been withdrawn by the responsible officials; and
     (ii) if the intermediary has not entered with that agency into a separate agreement that complies with paragraph (d); and
     (iii) if that separate agreement is not in force (that is, if it has expired or has been revoked); and
   (d) the requirement that the intermediary and the agency must enter into a separate agreement that must—
     (i) be in writing; and
-    (ii) include, subject to any necessary modifications, the terms or conditions set out in sections 11(3)(b) and (d) to (f) and 12; and
+    (ii) include, subject to any necessary modifications, the terms or conditions set out in sections 11(3)﻿(b) and (d) to (f) and 12; and
   (e) the condition that the intermediary must provide a copy of the separate agreement between the intermediary and an agency to the responsible officials when requested to do so (but subject to the right of the intermediary to withhold any commercially sensitive information); and
   (f) the condition that the intermediary must not retain, use, or store for its own purposes any information derived from an identity information check that was obtained on behalf of an agency.
 
@@ -219,7 +219,7 @@ The Privacy Commissioner may, at intervals not shorter than 12 months, require t
   (a) the Births, Deaths, Marriages, and Relationships Registration Act 1995:
   (b) the Citizenship Act 1977:
   (c) the Passports Act 1992:
-  (d) the Privacy Act 1993.
+  (d) the Privacy Act 2020.
 (2) However, despite subsection (1), this Act must be read subject to sections 76, 77, and 86 of the Births, Deaths, Marriages, and Relationships Registration Act 1995. Accordingly, nothing in this Act authorises the giving of permission to inspect, or the disclosure of, any document containing information to which those sections apply.
 (3) Sections 68 and 78(6) to (8) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 apply for the purposes, and in connection with the operation, of the confirmation service.
 
