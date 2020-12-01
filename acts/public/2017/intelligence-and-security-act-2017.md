@@ -1,5 +1,5 @@
 # Intelligence and Security Act 2017
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Intelligence and Security Act 2017.
@@ -100,7 +100,7 @@ In this Act, unless the context otherwise requires,—
   - **Ombudsman** means an Ombudsman appointed under the Ombudsmen Act 1975
   - **overseas person** has the meaning given to it by section 7 of the Overseas Investment Act 2005
   - **permanent resident of New Zealand** means a person who is the holder, or is deemed to be the holder, of a permanent resident visa under the Immigration Act 2009
-  - **Privacy Commissioner** means the Privacy Commissioner appointed under section 12 of the Privacy Act 1993
+  - **Privacy Commissioner** means the Privacy Commissioner appointed under section 13 of the Privacy Act 2020
   - **public authority** means a person or body that performs or exercises any public function, duty, or power conferred on that person or body by or under the law, and includes—
     (a) an organisation named in—
       (i) Schedule 1 of the Ombudsmen Act 1975; and
@@ -1307,7 +1307,7 @@ In this Part, unless the context otherwise requires,—
 ### 119 Relationship between this Part and other law relating to information disclosure
 This Part does not limit the collection, use, or disclosure of personal information that—
   (a) is authorised or required by or under any enactment; or
-  (b) is permitted by the information privacy principles in section 6 of the Privacy Act 1993.
+  (b) is permitted by the information privacy principles set out in section 22 of the Privacy Act 2020.
 
 ### Subpart 1 — Request and disclosure of information
 
@@ -1329,7 +1329,7 @@ The purpose of this subpart is—
 (2) An agency may disclose the information—
   (a) on the request of an intelligence and security agency; or
   (b) on its own initiative.
-(3) For the purpose of enabling an agency to decide whether to disclose any information under subsection (1) (including the application of section 6 of the Privacy Act 1993), the Director-General of an intelligence and security agency may certify that he or she believes on reasonable grounds that the disclosure of the information is necessary for the performance of any of the agency’s functions.
+(3) For the purpose of enabling an agency to decide whether to disclose any information under subsection (1) (including the application of section 22 of the Privacy Act 2020), the Director-General of an intelligence and security agency may certify that he or she believes on reasonable grounds that the disclosure of the information is necessary for the performance of any of the agency’s functions.
 (4) This section is subject to—
   (a) a provision contained in any other enactment that—
     (i) prohibits or restricts the disclosure of the information to an intelligence and security agency; or
@@ -2249,7 +2249,7 @@ A ministerial policy statement is—
   (a) the security clearance assessment:
   (b) any other security clearance assessment:
   (c) counter-intelligence.
-(2) Subsection (1) applies despite anything in information privacy principle 10 in section 6 of the Privacy Act 1993.
+(2) Subsection (1) applies despite anything in information privacy principle 10 set out in section 22 of the Privacy Act 2020.
 (3) In this section,—
   - **counter-intelligence** means the intelligence activities carried out to identify and counteract the threat, or potential threat, of unauthorised disclosure of official information by a person who holds, or has held, a New Zealand Government-sponsored national security clearance
   - **security clearance assessment** means an assessment conducted by the New Zealand Security Intelligence Service in the performance of its function under section 11 for the purpose of making a recommendation as to an individual’s suitability to hold a New Zealand Government-sponsored national security clearance.
