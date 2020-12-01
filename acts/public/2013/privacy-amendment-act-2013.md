@@ -1,5 +1,5 @@
 # Privacy Amendment Act 2013
-_Consolidation as at 2013-10-03_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Privacy Amendment Act 2013.
@@ -13,7 +13,7 @@ This Act amends the Privacy Act 1993.
 
 ### 4 Interpretation
 (1) The definition of personal information in section 2(1) is amended by adding (as defined by the Births, Deaths, Marriages, and Relationships Registration Act 1995).
-(2) Section 2(1) is amended by inserting the following definition in its appropriate alphabetical order:.
+(2) Section 2(1) is amended by inserting the following definition in its appropriate alphabetical order:
   - **serious threat** , for the purposes of principle 10(d) or 11(f), means a threat that an agency reasonably believes to be a serious threat having regard to all of the following:
     (a) the likelihood of the threat being realised; and
     (b) the severity of the consequences if the threat is realised; and
@@ -37,7 +37,7 @@ Section 13 is amended by inserting the following subsections after subsection (1
   (1AB) In subsection (1AA), adverse action, approved information sharing agreement, information sharing agreement, lead agency, and relevant Minister have the meanings given to them by section 96C.
 
 ### 7 Interference with privacy
-Section 66(1)(a) is amended by inserting the following subparagraphs after subparagraph (ii):.
+Section 66(1)﻿(a) is amended by inserting the following subparagraphs after subparagraph (ii):
   (iia) the action breaches an information privacy principle or a code of practice as modified by an Order in Council made under section 96J; or
   (iib) the provisions of an information sharing agreement approved by an Order in Council made under section 96J have not been complied with; or
 
@@ -55,7 +55,7 @@ The following Part is inserted after Part 9:Information sharingPreliminary matte
     (b) compels agencies to enter into an information sharing agreement if those agencies are already allowed to share personal information—
       (i) by or under any other enactment:
       (ii) in circumstances where an exemption from or a modification to any 1 or more of the information privacy principles or any code of practice is not required to make the sharing of the information lawful.
-  (2) Without limiting subsection (1)(a),—
+  (2) Without limiting subsection (1)﻿(a),—
     (a) this Part does not limit section 7, 54 or 57; and
     (b) this Part and Parts 10 and 11 do not limit one another.
   (3) An information sharing agreement may—
@@ -160,7 +160,7 @@ The following Part is inserted after Part 9:Information sharingPreliminary matte
       (i) describe the personal information or type of personal information that the party may share with each of the other parties; and
       (ii) state how the party may use the personal information; and
       (iii) state the adverse actions that the party can reasonably be expected to take as a result of sharing personal information under the agreement; and
-      (iv) specify the procedure that the party must follow before taking adverse action against an individual as a result of sharing personal information under the agreement if the requirement in section 96Q(1) does not apply because of section 96R(a)(ii):
+      (iv) specify the procedure that the party must follow before taking adverse action against an individual as a result of sharing personal information under the agreement if the requirement in section 96Q(1) does not apply because of section 96R(a)﻿(ii):
     (f) state how a copy of the agreement can be accessed.
   (1) An Order in Council must provide that it comes into force on a date specified in the Order in Council (which must not be a date that is before the date on which it is made).
   (2) An Order in Council remains in force until it—
@@ -179,8 +179,8 @@ The following Part is inserted after Part 9:Information sharingPreliminary matte
     (b) the Regulations (Disallowance) Act 1989.
   (1) Before recommending the making of an Order in Council, the relevant Minister must—
     (a) be satisfied of the matters set out in subsection (2); and
-    (b) have regard to any submissions made under section 96O(1)(a) in relation to the information sharing agreement that is proposed for approval by the Order in Council.
-  (2) The matters referred to in subsection (1)(a) are as follows:
+    (b) have regard to any submissions made under section 96O(1)﻿(a) in relation to the information sharing agreement that is proposed for approval by the Order in Council.
+  (2) The matters referred to in subsection (1)﻿(a) are as follows:
     (a) that the information sharing agreement will facilitate the provision of any public service or public services:
     (b) that the type and quantity of personal information to be shared under the agreement are no more than is necessary to facilitate the provision of that public service or those public services:
     (c) that the agreement does not unreasonably impinge on the privacy of individuals and contains adequate safeguards to protect their privacy:
@@ -194,12 +194,12 @@ The following Part is inserted after Part 9:Information sharingPreliminary matte
     (b) have regard to any submissions made under paragraph (a).
   (2) The Commissioner—
     (a) must consider the privacy implications of the proposed agreement; and
-    (b) may make any submissions under subsection (1)(a)(i) that he or she thinks fit.
-  (3) The agencies must give the relevant Minister a copy of the submissions made under subsection (1)(a) (if any).
+    (b) may make any submissions under subsection (1)﻿(a)﻿(i) that he or she thinks fit.
+  (3) The agencies must give the relevant Minister a copy of the submissions made under subsection (1)﻿(a) (if any).
   (1) If an information sharing agreement is approved by Order in Council, the Commissioner may prepare a report to the relevant Minister on any matter relating to privacy that arises or is likely to arise in respect of the agreement.
   (2) Without limiting subsection (1), the Commissioner may include in a report under that subsection—
-    (a) any comment that he or she wishes to make about the consultation that the agencies carried out under section 96O(1)(a); and
-    (b) any submissions that he or she made to the agencies under section 96O(1)(a)(i).
+    (a) any comment that he or she wishes to make about the consultation that the agencies carried out under section 96O(1)﻿(a); and
+    (b) any submissions that he or she made to the agencies under section 96O(1)﻿(a)﻿(i).
   (3) The Commissioner—
     (a) may publish a report under subsection (1); but
     (b) must consult the relevant Minister before doing so.
@@ -210,10 +210,10 @@ The following Part is inserted after Part 9:Information sharingPreliminary matte
   (3) To avoid doubt, an individual who is given the notice may take any steps that are available under any enactment to dispute any proposed adverse action against him or her, but he or she may show cause under this section as to why the proposed adverse action should not be taken only on the basis that it is based on incorrect personal information.
   The requirement to give notice under section 96Q applies unless—
     (a) an approved information sharing agreement provides that a party to the agreement may—
-      (i) give a shorter period of notice than the 10-working-day period referred to in section 96Q(2)(b); or
+      (i) give a shorter period of notice than the 10-working-day period referred to in section 96Q(2)﻿(b); or
       (ii) dispense with the giving of the notice; or
     (b) if an approved information sharing agreement does not provide in the manner specified in paragraph (a), the Commissioner, on the application of a party to an approved information sharing agreement, allows the party in the circumstances of a particular case to—
-      (i) give a shorter period of notice than the 10-working-day period referred to in section 96Q(2)(b); or
+      (i) give a shorter period of notice than the 10-working-day period referred to in section 96Q(2)﻿(b); or
       (ii) dispense with the giving of the notice.
   (1) A lead agency for an information sharing agreement must, if the agreement is approved by Order in Council under section 96J(1),—
     (a) make a copy of the agreement—
@@ -221,19 +221,19 @@ The following Part is inserted after Part 9:Information sharingPreliminary matte
       (ii) accessible, free of charge, on an Internet site maintained by or on behalf of the lead agency; and
     (b) prepare a report on the operation of the agreement at the intervals required by the Commissioner under section 96U; and
     (c) carry out any other responsibilities imposed by this Part.
-  (2) A lead agency does not need to comply with subsection (1)(a)(ii) if the relevant Minister designates an Internet site maintained by or on behalf of another public sector agency as the Internet site where a copy of the agreement is to be made accessible free of charge.
+  (2) A lead agency does not need to comply with subsection (1)﻿(a)﻿(ii) if the relevant Minister designates an Internet site maintained by or on behalf of another public sector agency as the Internet site where a copy of the agreement is to be made accessible free of charge.
   (3) To avoid doubt, nothing in this section applies to a party to an information sharing agreement that is not the lead agency except as provided in subsection (2).
-  (1) A report prepared by a lead agency under section 96S(1)(b) must include the matters prescribed in regulations made under this Act that the Commissioner specifies to the lead agency after having regard to—
+  (1) A report prepared by a lead agency under section 96S(1)﻿(b) must include the matters prescribed in regulations made under this Act that the Commissioner specifies to the lead agency after having regard to—
     (a) the costs of reporting:
     (b) the degree of public interest in information about the matters prescribed in those regulations:
     (c) the significance of the privacy implications of the approved information sharing agreement.
   (2) A report must be included—
     (a) in the lead agency's annual report under the Public Finance Act 1989, if it is required annually; or
-    (b) in the lead agency's annual report under the Public Finance Act 1989 that immediately follows the end of each interval specified under section 96U(1)(b).
-  (1) The Commissioner may require a lead agency to prepare a report under section 96S(1)(b) either—
+    (b) in the lead agency's annual report under the Public Finance Act 1989 that immediately follows the end of each interval specified under section 96U(1)﻿(b).
+  (1) The Commissioner may require a lead agency to prepare a report under section 96S(1)﻿(b) either—
     (a) annually; or
     (b) at less frequent intervals that the Commissioner may specify.
-  (2) In determining the appropriate frequency in subsection (1) of a report under section 96S(1)(b), the Commissioner must have regard to—
+  (2) In determining the appropriate frequency in subsection (1) of a report under section 96S(1)﻿(b), the Commissioner must have regard to—
     (a) the costs of reporting:
     (b) the degree of public interest in information about the matters prescribed in regulations made under this Act:
     (c) the significance of the privacy implications of the approved information sharing agreement.
@@ -247,7 +247,7 @@ The following Part is inserted after Part 9:Information sharingPreliminary matte
       (ii) accessible, free of charge, on the Internet site where a copy of the agreement is accessible.
   (3) The information sharing agreement approved by Order in Council continues to have effect as if the amendment notified under subsection (2) had not been made unless the Governor-General, by a further Order in Council made on the recommendation of the relevant Minister, approves the agreement as amended by the parties.
   (4) Sections 96J to 96P apply, subject to any necessary modifications, to the approval of the agreement as so amended.
-  (5) Nothing in subsection (2)(a), (3), or (4) applies if the amendment to an approved information sharing agreement relates only to—
+  (5) Nothing in subsection (2)﻿(a), (3), or (4) applies if the amendment to an approved information sharing agreement relates only to—
     (a) the fees and charges payable under the agreement; or
     (b) the name or description of a party to the agreement; or
     (c) any terms or conditions of the agreement that the lead agency considers, after consulting the Commissioner, do not, or are unlikely to, have any effect on the privacy implications of the agreement.
@@ -282,8 +282,8 @@ The following Part is inserted after Part 9:Information sharingPreliminary matte
   (2) To avoid doubt, any of the matters set out in this section may be included in an Order in Council made under section 96J or in a separate Order in Council made under this section.
 
 ### 9 Regulations
-Section 128 is amended by inserting the following paragraph after paragraph (a):.
-  (aa) prescribing the matters that the Commissioner may specify to a lead agency as matters that are to be included in a report by the lead agency under section 96S(1)(b):
+Section 128 is amended by inserting the following paragraph after paragraph (a):
+  (aa) prescribing the matters that the Commissioner may specify to a lead agency as matters that are to be included in a report by the lead agency under section 96S(1)﻿(b):
 
 ### 10 New sections 129A and 129B inserted
 The following sections are inserted after section 129:Amendment relating to Legislation Act 2012New section 96M substituted
