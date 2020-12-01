@@ -1,5 +1,5 @@
 # National Animal Identification and Tracing Act 2012
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the National Animal Identification and Tracing Act 2012.
@@ -69,7 +69,7 @@ In this Act, unless the context otherwise requires,—
   - **non-core data** means information held by the NAIT organisation under an agreement made under section 41
   - **other identification system** means an animal identification system other than an animal identification system approved under the Biosecurity Act 1993 or Animal Products Act 1999
   - **other location** means a place, other than a NAIT location, where 1 or more NAIT animals are kept or held
-  - **personal information** has the same meaning as in section 2(1) of the Privacy Act 1993
+  - **personal information** has the same meaning as in section 7(1) of the Privacy Act 2020
   - **PICA** means a natural person or body corporate in day-to-day charge of a NAIT animal
   - **PICA delegate** means a natural person—
     (a) nominated under section 26(2) to undertake specified procedures and obligations under this Act on behalf of a PICA; and
@@ -1293,7 +1293,7 @@ Subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012
   (b) a NAIT officer or a NAIT authorised person exercising powers under this Act.
 (2) A PICA for a NAIT location or other location commits an offence who knowingly provides a materially false or misleading declaration that a NAIT animal consigned for transport or droving has been identified and registered with the NAIT organisation in accordance with this Act.
 (3) Every person commits an offence who, contrary to the provisions of this Act, knowingly accesses, uses, or discloses information on the NAIT information system that is—
-  (a) personal information within the meaning of the Privacy Act 1993; or
+  (a) personal information within the meaning of the Privacy Act 2020; or
   (b) commercially sensitive within the meaning of section 9(2)﻿(b)﻿(ii) of the Official Information Act 1982.
 (4) Every person commits an offence who, in the circumstances set out in subclause (5),—
   (a) uses, in the course of business or trade,—
