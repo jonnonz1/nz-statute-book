@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -843,7 +843,7 @@ Every application for a concession must include the following information:
   (d) any information received by the Minister under sections 17S, 17SD, and 17SE:
   (e) any relevant environmental impact assessment, including any audit or review:
   (f) any relevant oral or written submissions received as a result of any relevant public notice issued under section 49:
-  (g) any relevant information which may be withheld from any person in accordance with the Official Information Act 1982 or the Privacy Act 1993.
+  (g) any relevant information which may be withheld from any person in accordance with the Official Information Act 1982 or the Privacy Act 2020.
 (2) The Minister may decline any application if the Minister considers that—
   (a) the information available is insufficient or inadequate to enable him or her to assess the effects (including the effects of any proposed methods to avoid, remedy, or mitigate the adverse effects) of any activity, structure, or facility; or
   (b) there are no adequate methods or no reasonable methods for remedying, avoiding, or mitigating the adverse effects of the activity, structure, or facility.
