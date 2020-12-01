@@ -1,5 +1,5 @@
 # Earthquake Commission Act 1993
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2020-12-01_
 
 > An Act to make provision with respect to the insurance of residential property against damage caused by certain natural disasters
 
@@ -277,12 +277,12 @@ Where there is expressed or implied in any mortgage, lease, instrument, or docum
   (a) for all of those purposes; and
   (b) if it is property-related information, for the purpose of making the information available (including to the public).
 (3) The Commission may make available any information in its possession if it believes on reasonable grounds that doing so is necessary to prevent or lessen a serious threat to public health or public safety or to the life or health of any individual.
-(4) This section does not limit the Privacy Act 1993 or any other right the Commission may have to collect or disclose information.
+(4) This section does not limit the Privacy Act 2020 or any other right the Commission may have to collect or disclose information.
 (5) In this section,—
   - **property-related information** means information about property (whether generally or in relation to 1 or more identified properties), including information about—
     (a) natural disaster damage to the property; and
     (b) any claims made under this Act in relation to the property (including information about the assessed cost of replacing or reinstating damaged property, reinstatement methods, and settlement amounts)
-  - **serious threat** has the same meaning as in section 2(1) of the Privacy Act 1993.
+  - **serious threat** has the same meaning as in section 7(1) of the Privacy Act 2020.
 
 ### 32 Power to inspect property, obtain information, and enter land
 (1) For the purpose of obtaining any information that may be reasonably required by the Commission for the purposes of this Act, any person specifically or generally authorised in writing in that behalf by the Commission may from time to time—
