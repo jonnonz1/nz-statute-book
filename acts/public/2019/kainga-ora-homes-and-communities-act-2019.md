@@ -1,5 +1,5 @@
 # Kāinga Ora–Homes and Communities Act 2019
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Kāinga Ora–Homes and Communities Act 2019.
@@ -339,7 +339,7 @@ In this Part, unless the context otherwise requires,—
   (f) anything done, or omitted to be done, or that is to be done, by or in relation to the Corporation is to be treated as having been done, or having been omitted to be done, or to be done, by or in relation to Kāinga Ora–Homes and Communities; and
   (g) proceedings that may be commenced, continued, or enforced by or against the Corporation may instead be commenced, continued, or enforced by or against Kāinga Ora–Homes and Communities without amendment to the proceedings; and
   (h) a matter or thing that could, but for this clause, have been completed by the Corporation may be completed by Kāinga Ora–Homes and Communities.
-(2) The transfer of information from the Corporation to Kāinga Ora–Homes and Communities under subclause (1) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(2) The transfer of information from the Corporation to Kāinga Ora–Homes and Communities under subclause (1) does not constitute an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 (2A) For the purposes of the Inland Revenue Acts (as defined in section 3(1) of the Tax Administration Act 1994), the Corporation and Kāinga Ora–Homes and Communities are treated as the same person.
 (3) The disestablishment of the Corporation does not, by itself, affect any of the following matters:
   (a) any decision made, or anything done or omitted to be done, by the Corporation in relation to the performance or exercise of its functions, powers, or duties under any enactment:
@@ -434,7 +434,7 @@ In this Part, unless the context otherwise requires,—
   (d) the commencement, continuation, or enforcement of proceedings relating to the contract or property by or against the Crown, the chief executive, or the Ministry may instead be carried out by or against Kāinga Ora–Homes and Communities without amendment to the proceedings; and
   (e) a matter or thing relating to the contract or property that could, but for this clause, have been completed by the chief executive or the Ministry may be completed by Kāinga Ora–Homes and Communities.
 (3) On and after the commencement date, all information that relates solely or principally to the Ministry functions that are transferring to Kāinga Ora–Homes and Communities and that is held by the chief executive or the Ministry is held by Kāinga Ora–Homes and Communities.
-(4) The transfer of information from the chief executive or the Ministry to Kāinga Ora–Homes and Communities under this clause does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(4) The transfer of information from the chief executive or the Ministry to Kāinga Ora–Homes and Communities under this clause does not constitute an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 
 ### 15 Consequences of transfer to Kāinga Ora–Homes and Communities of collective agreement relating to Ministry functions
 (1) This clause applies to a collective agreement to which Kāinga Ora–Homes and Communities has become a party under section 61B of the State Sector Act 1988.
