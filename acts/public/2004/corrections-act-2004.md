@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2020-11-11_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -1701,10 +1701,10 @@ An authorised person must not disclose any information obtained from corresponde
     (ii) mail that is withheld under section 108(1) should be forwarded to an enforcement officer under section 108(2); or
     (iii) paragraph (c) applies; or
   (b) the authorised person believes on reasonable grounds that the disclosure—
-    (i) is necessary to avoid prejudice to the maintenance of the law by a public sector agency (within the meaning of the Privacy Act 1993), including the prevention, detection, investigation, prosecution, and punishment of offences; or
+    (i) is necessary to avoid prejudice to the maintenance of the law by a public sector agency (within the meaning of the Privacy Act 2020), including the prevention, detection, investigation, prosecution, and punishment of offences; or
     (ii) is necessary for the conduct of proceedings (already commenced or reasonably in contemplation) before a court or tribunal; or
     (iii) is necessary to prevent or lessen a serious and imminent threat to public health, public safety, or the life or health of any person; or
-    (iv) has been authorised by the Privacy Commissioner under section 54(1) of the Privacy Act 1993; or
+    (iv) has been authorised by the Privacy Commissioner under section 30 of the Privacy Act 2020; or
   (c) the disclosure is required by any enactment or rule of law.
 
 ### 110B Warnings in relation to mail
@@ -1714,8 +1714,8 @@ The chief executive must take all practicable steps to ensure that when, or reas
     (ii) may be withheld, and the grounds on which it may be withheld; and
   (b) about the types of correspondence that are exempted from being opened, read, and withheld, and the extent to which the exemptions apply.
 
-### 110C Application of Privacy Act 1993
-The Privacy Act 1993 applies to any activity authorised under any of sections 104 to 110B relating to correspondence to or from a prisoner.
+### 110C Application of Privacy Act 2020
+The Privacy Act 2020 applies to any activity authorised under any of sections 104 to 110B relating to correspondence to or from a prisoner.
 
 **Telephone calls may be monitored**
 
@@ -1813,12 +1813,12 @@ The chief executive must take all practicable steps to ensure that—
 (1AAA) An authorised person may disclose a prisoner call only as provided in this section.
 (1) An authorised person may disclose a prisoner call for a purpose set out in section 112 as a purpose of monitoring prisoner calls.
 (2) An authorised person may disclose a prisoner call if the authorised person believes on reasonable grounds that the disclosure—
-  (a) is necessary to avoid prejudice to the maintenance of the law by a public sector agency (within the meaning of the Privacy Act 1993), including the prevention, detection, investigation, prosecution, and punishment of offences; or
+  (a) is necessary to avoid prejudice to the maintenance of the law by a public sector agency (within the meaning of the Privacy Act 2020), including the prevention, detection, investigation, prosecution, and punishment of offences; or
   (b) is necessary for the conduct of proceedings (already commenced or reasonably in contemplation) before a court or tribunal; or
-  (c) is necessary to prevent or lessen a serious threat (as defined in section 2(1) of the Privacy Act 1993) to—
+  (c) is necessary to prevent or lessen a serious threat (as defined in section 7(1) of the Privacy Act 2020) to—
     (i) public health or public safety; or
     (ii) the life or health of any person; or
-  (d) has been authorised by the Privacy Commissioner under section 54(1) of the Privacy Act 1993.
+  (d) has been authorised by the Privacy Commissioner under section 30 of the Privacy Act 2020.
 (2A) An authorised person may disclose a prisoner call to an intelligence and security agency only if the authorised person believes, on reasonable grounds, that the disclosure is necessary to enable the agency to perform any of its functions under section 10, 11, 13, or 14 of the Intelligence and Security Act 2017.
 (3) An authorised person may disclose a prisoner call to the prisoner concerned.
 (4) An authorised person who is listening to a prisoner call may allow any eligible employee to listen to the call for the purpose of interpreting it.
@@ -1832,8 +1832,8 @@ The chief executive must take all practicable steps to ensure that—
 (3) An eligible employee (other than an authorised person) who, under section 117, has been allowed to listen to a prisoner call or a recording of a prisoner call, or to read a transcript of a prisoner call, must not knowingly disclose the call except to an authorised person.
 (4) A person who, under section 115(2), has heard a prisoner call or a recording of a prisoner call, or read a transcript of a prisoner call, must not knowingly disclose the call except to an authorised person.
 
-### 119 Application of Privacy Act 1993
-The Privacy Act 1993 applies to the monitoring of prisoner calls under sections 112 to 122.
+### 119 Application of Privacy Act 2020
+The Privacy Act 2020 applies to the monitoring of prisoner calls under sections 112 to 122.
 
 ### 120 Destruction of recordings
 (1) The chief executive must take all practicable steps to ensure that every recording of a prisoner call held by the chief executive is destroyed or completely erased,—
@@ -1841,10 +1841,10 @@ The Privacy Act 1993 applies to the monitoring of prisoner calls under sections 
     (i) required for the purposes of an investigation into an offence or possible offence; or
     (ii) required for the purposes of an investigation into the possibility that an offence may be committed in the future; or
     (iii) required for evidence in a prosecution or possible prosecution for an offence, or in disciplinary proceedings, or in proceedings against a prisoner for a disciplinary offence; or
-    (iv) required to be disclosed under the Privacy Act 1993; or
+    (iv) required to be disclosed under the Privacy Act 2020; or
   (b) within a time prescribed in regulations (being a time not later than 2 years after the call was made) if any circumstances prescribed in regulations apply.
 (1A) If a recording of a prisoner call is held by the chief executive for any reason specified in subsection (1)﻿(a), the chief executive must, as soon as he or she is satisfied that the information contained in the recording is no longer likely to be required for that reason, take all practicable steps to ensure the recording is destroyed or completely erased.
-(2) Despite subsection (1), if the Privacy Commissioner has notified the chief executive in writing that a complaint has been made under the Privacy Act 1993 in relation to the recording, the recording must not be destroyed or erased in accordance with that subsection until the Privacy Commissioner has notified the chief executive in writing that the complaint has—
+(2) Despite subsection (1), if the Privacy Commissioner has notified the chief executive in writing that a complaint has been made under the Privacy Act 2020 in relation to the recording, the recording must not be destroyed or erased in accordance with that subsection until the Privacy Commissioner has notified the chief executive in writing that the complaint has—
   (a) not been proceeded with; or
   (b) been finally disposed of.
 (3) The Commissioner of Police or, as the case may be, the chief executive or board of a public service agency (except an intelligence or security agency) must take all practicable steps to ensure that every recording of a prisoner call held by the Police or that department that was obtained by the monitoring of the call under this Act is destroyed, or completely erased, as soon as it appears that no proceedings or disciplinary proceedings (or no further proceedings or disciplinary proceedings) will be taken in which any information contained in it would be likely to be required to be produced in evidence.
@@ -2513,6 +2513,9 @@ In this section and sections 179D and 179E, unless the context otherwise require
 (3) On receipt of a request made under subsection (1) the chief executive may supply the information requested to any person who is—
   (a) an officer or employee of the requesting department; and
   (b) authorised for the purpose by the chief executive of the requesting department.
+(4) On or after 1 December 2020, no information may be disclosed under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 
 ### 180B Information that may be requested and disclosed
 The information referred to in section 180A(1) is, for each prisoner detained in a prison during the period specified in the request,—
@@ -2527,15 +2530,15 @@ The information referred to in section 180A(1) is, for each prisoner detained in
   (c) that chief executive wishes, on the basis of that discrepancy, to effect the suspension; and
   (d) immediately after the suspension is effected, the requesting department gives the person written notice of the kind specified in section 180D.
 (2) In this section and section 180D,—
-  - **adverse action** has the same meaning as in section 97 of the Privacy Act 1993
+  - **adverse action** has the same meaning as in section 177 of the Privacy Act 2020
   - **allowance** means an allowance established (whether established for the first time or continued) by regulations made under section 645 of the Education and Training Act 2020
   - **benefit** has the same meaning as in Schedule 2 of the Social Security Act 2018
-  - **discrepancy** has the same meaning as in section 97 of the Privacy Act 1993
+  - **discrepancy** has the same meaning as in section 177 of the Privacy Act 2020
   - **student loan** has the meaning given to it by section 4(1) of the Student Loan Scheme Act 2011
-  - **working day** has the same meaning as in section 2(1) of the Privacy Act 1993.
-(3) A notice under subsection (1) may also be used to give the person concerned notice under section 103(1) of the Privacy Act 1993 in relation to some proposed adverse action other than the suspension or suspensions concerned; but in that case that section applies to the taking of that action.
-(4) Subsection (1) overrides section 103(1) of the Privacy Act 1993.
-(5) Nothing in this section prevents any adverse action from being taken in respect of benefits, allowances, or student loans in accordance with section 103(1) of the Privacy Act 1993 instead of this section.
+  - **working day** has the same meaning as in section 7(1) of the Privacy Act 2020.
+(3) A notice under subsection (1) may also be used to give the person concerned notice under section 181 of the Privacy Act 2020 in relation to some proposed adverse action other than the suspension or suspensions concerned; but in that case that section applies to the taking of that action.
+(4) Subsection (1) overrides section 181 of the Privacy Act 2020.
+(5) Nothing in this section prevents any adverse action from being taken in respect of benefits, allowances, or student loans in accordance with section 181 of the Privacy Act 2020 instead of this section.
 
 ### 180D Notice required by section 180C(1)﻿(d)
 (1) A notice required by section 180C(1)﻿(d)—
@@ -2564,13 +2567,16 @@ The information referred to in section 180A(1) is, for each prisoner detained in
   (b) details of the person's offence and sentence (including relevant dates such as the date on which the person is eligible or entitled to be released).
 (4) The chief executive may supply the information specified in subsection (3) to any immigration officer or other officer or employee of the responsible department who is authorised in that behalf by the Chief Executive of the responsible department.
 (5) Information supplied under subsection (4) may be supplied in any form that is determined by agreement between the Chief Executive of the responsible department and the chief executive.
+(5A) On or after 1 December 2020, no information may be supplied under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 (6) In this section identifying information in relation to any person includes the person's full name, date and place of birth, gender, location, citizenship, unique identifying number used by the department, and any known alias.
 
 **Information sharing about highest-risk offenders**
 
 ### 181A Disclosure of information relating to highest-risk offenders
 (1) A specified agency that enters into an information sharing agreement under section 182D (as modified by subsection (5)) with another specified agency is authorised to disclose to that agency any personal information about a highest-risk offender, but only if the disclosure is for, or relates to, a purpose listed in subsection (3).
-(2) Nothing in subsection (1) limits the operation of the Privacy Act 1993 or section 182 of this Act.
+(2) Nothing in subsection (1) limits the operation of the Privacy Act 2020 or section 182 of this Act.
 (3) The purposes for which personal information about highest-risk offenders may be disclosed under an information sharing agreement between specified agencies are—
   (a) to assist the monitoring of compliance of highest-risk offenders with their conditions of release:
   (b) to assist in facilitating the rehabilitation of highest-risk offenders:
@@ -2582,7 +2588,7 @@ The information referred to in section 180A(1) is, for each prisoner detained in
   - **specified agency** means—
     (a) the Department of Corrections:
     (b) the New Zealand Police:
-    (c) any public sector agency (as that term is defined in section 2 of the Privacy Act 1993) that the Minister of Justice, after consultation with the Privacy Commissioner, identifies as a specified agency for the purposes of this section by notice in the Gazette.
+    (c) any public sector agency (as that term is defined in section 7(1) of the Privacy Act 2020) that the Minister of Justice, after consultation with the Privacy Commissioner, identifies as a specified agency for the purposes of this section by notice in the Gazette.
 (5) Sections 182D and 182E apply to information sharing agreements about highest-risk offenders as if every reference in those sections to a child sex offender were a reference to a highest-risk offender.
 (6) Information disclosed for the purposes of this section may be disclosed prior to the offender’s release from prison.
 (7) This section does not limit or affect any information sharing agreement under section 182D in relation to a child sex offender who is also a highest-risk offender.
@@ -2605,7 +2611,7 @@ The information referred to in section 180A(1) is, for each prisoner detained in
 
 ### 182A Information sharing about child sex offenders
 (1) A specified agency that enters into an information sharing agreement under section 182D with another specified agency is authorised to disclose to that agency any personal information about a child sex offender, but only if the disclosure is for, or relates to, a purpose listed in subsection (3).
-(2) Nothing in subsection (1) limits the operation of the Privacy Act 1993 or section 182 of this Act.
+(2) Nothing in subsection (1) limits the operation of the Privacy Act 2020 or section 182 of this Act.
 (3) The purposes for which personal information about a child sex offender may be disclosed under an information sharing agreement between specified agencies are:
   (a) to monitor compliance by the child sex offender with his or her release conditions (including conditions imposed under section 93 of the Sentencing Act 2002), conditions of a sentence of supervision, intensive supervision, community detention, or home detention (imposed under section 80A of the Sentencing Act 2002), post-detention conditions of a sentence of home detention, conditions of an extended supervision order, restrictions related to a public protection order under the Public Safety (Public Protection Orders) Act 2014, or requirements of a protective supervision order under the Public Safety (Public Protection Orders) Act 2014:
   (b) to manage the risk that the offender may commit further sexual offences against children:
@@ -2629,14 +2635,14 @@ For the purposes of section 182A, specified agency means—
   (c) Kāinga Ora–Homes and Communities established by the Kāinga Ora–Homes and Communities Act 2019:
   (d) the Ministry of Social Development:
   (e) the New Zealand Police:
-  (f) any public sector agency (as that term is defined in section 2 of the Privacy Act 1993) that the Minister of Justice, after consultation with the Privacy Commissioner, identifies as a specified agency by notice in the Gazette.
+  (f) any public sector agency (as that term is defined in section 7(1) of the Privacy Act 2020) that the Minister of Justice, after consultation with the Privacy Commissioner, identifies as a specified agency by notice in the Gazette.
 
 ### 182D Information sharing agreements
 (1) An agreement entered into under this section for sharing information about child sex offenders must set out the operational details about how the information is to be shared.
 (2) Without limiting subsection (1), every agreement must—
   (a) specify the nature of the information to be disclosed; and
   (b) specify the manner in which the information may be disclosed; and
-  (c) set out how the information privacy principles, as set out in section 6 of the Privacy Act 1993, will be complied with.
+  (c) set out how the information privacy principles, as set out in section 22 of the Privacy Act 2020, will be complied with.
 (3) Before an information sharing agreement is concluded, reviewed, or substantially amended, the specified agencies concerned must consult with the Privacy Commissioner.
 
 ### 182E Application of agreements
