@@ -1,5 +1,5 @@
 # Transport Accident Investigation Commission Act 1990
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2020-12-01_
 
 > An Act—ato establish the Transport Accident Investigation Commission, and to define its functions, duties, and powers; andbto regulate the disclosure and admissibility of certain transport accident or incident investigation information
 
@@ -299,14 +299,14 @@ No person engaged in an investigation by the Commission is compellable to give e
 ### 14P No search warrant may be issued for record specified in section 14B(2) or section 14C(2)
 No Judge, Justice, Community Magistrate, or Registrar may issue a search warrant in respect of a record specified in section 14B(2) or section 14C(2).
 
-### 14Q Disclosure of personal information under Privacy Act 1993
-(1) A record specified in any of paragraphs (a), (b), and (c) of section 14B(2) or section 14C(2) may be disclosed to the supplier of that record pursuant to a request made in accordance with principle 6 of the Privacy Act 1993.
+### 14Q Disclosure of personal information under Privacy Act 2020
+(1) A record specified in any of paragraphs (a), (b), and (c) of section 14B(2) or section 14C(2) may be disclosed to the supplier of that record pursuant to a request made in accordance with information privacy principle 6 set out in section 22 of the Privacy Act 2020.
 (2) For the purposes of subsection (1), a person is the supplier of a record if the person—
   (a) made a statement or submission referred to in section 14B(2)﻿(a); or
   (b) is recorded on a recording or transcript referred to in paragraph (a) or paragraph (b) of section 14C(2); or
   (c) gave the information contained in a record referred to in paragraph (b) or paragraph (c) of section 14B(2) or section 14C(2)﻿(c).
 (3) To avoid doubt, a person to whom a record is disclosed under this section may not disclose that record to any person in breach of section 14B(1) or section 14C(1).
-(4) Nothing in this section limits sections 27 to 29 of the Privacy Act 1993.
+(4) Nothing in this section limits sections 49 to 53 of the Privacy Act 2020.
 (5) This section is subject to section 14(3).
 
 ### 14R Application of Official Information Act 1982 to record specified in section 14B(2) or section 14C(2)
