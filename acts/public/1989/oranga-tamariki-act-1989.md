@@ -1,5 +1,5 @@
 # Oranga Tamariki Act 1989
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 > Title
 
@@ -1021,7 +1021,7 @@ A person to whom a document is produced for inspection under section 61 may—
   (b) any person who is a family member of that child or young person or in a family relationship with that child or young person (within the meaning of section 12 of the Family Violence Act 2018).
 
 ### 66 Agencies to supply information
-(1) Every agency (within the meaning of section 2(1) of the Privacy Act 1993, which includes a person) must, on request, supply to the chief executive, a care and protection co-ordinator, or a constable any information held by the agency that may relate to or affect the safety or well-being of a child or young person, if the information is—
+(1) Every agency (within the meaning of section 7(1) of the Privacy Act 2020, which includes a person) must, on request, supply to the chief executive, a care and protection co-ordinator, or a constable any information held by the agency that may relate to or affect the safety or well-being of a child or young person, if the information is—
   (a) required to determine whether a child or young person is in need of care or protection or assistance under section 17(2) and (2A); or
   (b) required for the purposes of any proceedings under this Part (including a family group conference).
 (2) Despite subsection (1), an agency may refuse to disclose any information that may be withheld on the grounds of legal professional privilege.
@@ -1160,9 +1160,9 @@ The Code is a legislative instrument and a disallowable instrument for the purpo
   (b) limit or prevent the collection, use, or disclosure of information that is—
     (i) authorised or required under any other enactment; or
     (ii) permitted under any other enactment.
-(2) The collection, storage, and use of information under sections 66 to 66J of this Act must comply with principles 1, 4, 5, 6, 7, 8, 9, and 12 of section 6 of the Privacy Act 1993.
-(3) Sections 66 to 66P do not limit principle 11 in section 6 of the Privacy Act 1993 (which permits certain disclosures in addition to those authorised under those sections).
-(4) However, if there is any other inconsistency between sections 66 to 66P of this Act and any provisions of the Privacy Act 1993, sections 66 to 66P prevail.
+(2) The collection, storage, and use of information under sections 66 to 66J of this Act must comply with principles 1, 4, 5, 6, 7, 8, 9, and 13 set out in section 22 of the Privacy Act 2020.
+(3) Sections 66 to 66P do not limit principles 11 and 12 set out in section 22 of the Privacy Act 2020 (which permit certain disclosures in addition to those authorised under those sections).
+(4) However, if there is any other inconsistency between sections 66 to 66P of this Act and any provisions of the Privacy Act 2020, sections 66 to 66P prevail.
 (5) Despite clause 4(1)﻿(c) of Schedule 24 of the Education and Training Act 2020, the chief executive of the Ministry of Education may use national student numbers to gather information for any of the purposes set out in section 66A(1), and the information so gathered may be used for any of those purposes.
 
 **Proceedings in respect of children and young persons in need of care or protection**
