@@ -1,5 +1,5 @@
 # Environmental Protection Authority Act 2011
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Environmental Protection Authority Act 2011.
@@ -185,7 +185,7 @@ The Environmental Protection Authority established by section 42B of the Resourc
   (f) anything done, or omitted to be done, or that is to be done, by, or in relation to, the former EPA is to be treated as having been done, or omitted to be done, or to be done, by, or in relation to, the EPA; and
   (g) the commencement, continuation, or enforcement of proceedings by or against the former EPA may instead be carried out by or against the EPA without amendment to the proceedings; and
   (h) a matter or thing that would, but for this section, have been completed by the former EPA may be completed by the EPA.
-(2) The transfer of information from the former EPA to the EPA under subsection (1)﻿(a) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(2) The transfer of information from the former EPA to the EPA under subsection (1)﻿(a) does not constitute an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 (3) On and from the commencement of section 23, property owned by the Ministry for the Environment solely or principally for the purposes of the former EPA and identified as such by the chief executive of the Ministry is vested in the EPA.
 
 ### 25 References to EPA established by Resource Management Act 1991
@@ -221,7 +221,7 @@ The Crown is not liable to make a payment to, or otherwise compensate, any perso
   (h) anything done, or omitted to be done, or that is to be done, by, or in relation to, ERMA is to be treated as having been done, or omitted to be done, or to be done, by, or in relation to, the EPA; and
   (i) the commencement, continuation, or enforcement of proceedings by or against ERMA may instead be carried out by or against to EPA without amendment to the proceedings; and
   (j) a matter or thing that would, but for this section, have been completed by ERMA may be completed by the EPA.
-(2) The transfer of information from ERMA to the EPA under subsection (1)﻿(c) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(2) The transfer of information from ERMA to the EPA under subsection (1)﻿(c) does not constitute an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 (3) This section applies subject to section 32.
 
 ### 31 Certain delegations continue
@@ -344,7 +344,7 @@ The appointment of a person holding the office of Registrar under section 11 of 
   (g) a matter or thing relating to the function that would, but for this section, have been completed by a former agency may be completed by the EPA.
 (3) In this section, former agency means the chief executive of the Ministry for the Environment or the chief executive of the Ministry of Economic Development, but does not include the Registrar whose appointment is cancelled under section 44.
 (4) On and from the commencement of the Climate Change Response Amendment Act 2011, property owned by a former agency solely or principally for the purposes of the function and identified as such by the former agency is vested in the EPA.
-(5) The transfer of information from a former agency to the EPA under subsection (2)﻿(a) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(5) The transfer of information from a former agency to the EPA under subsection (2)﻿(a) does not constitute an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 
 ### 46 Delegations continued
 (1) This section applies to a delegation—
@@ -390,7 +390,7 @@ Despite the amendments made to section 93 of the Climate Change Response Act 200
   (g) a matter or thing relating to the function that would, but for this section, have been completed by a former agency may be completed by the EPA.
 (3) In this section, former agency means the chief executive of the Ministry for the Environment or the chief executive of the Ministry of Economic Development.
 (4) On and from the commencement of the Imports and Exports (Restrictions) Amendment Act 2011 or the Ozone Layer Protection Amendment Act 2011 (as applicable), property owned by a former agency solely or principally for the purposes of the function and identified as such by the former agency is vested in the EPA.
-(5) The transfer of information from a former agency to the EPA under subsection (2)﻿(a) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(5) The transfer of information from a former agency to the EPA under subsection (2)﻿(a) does not constitute an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 
 **Transfer of contracts**
 
