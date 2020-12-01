@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -1410,8 +1410,8 @@ For the purposes of granting or renewing maritime documents in respect of person
     (ii) imposing conditions in respect of a maritime document under section 43.
 (7) If the Director determines not to disclose any information in reliance on subsection (6), the Director must inform the person of the fact of non-disclosure and the following provisions apply:
   (a) in the case of non-disclosure to an individual of information about the individual,—
-    (i) the Director must inform the individual that he or she may, under the Privacy Act 1993, complain to the Privacy Commissioner about that non-disclosure; and
-    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 27(1)﻿(d) of that Act; and
+    (i) the Director must inform the individual that he or she may, under the Privacy Act 2020, complain to the Privacy Commissioner about that non-disclosure; and
+    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 49(1)﻿(a)﻿(i) of that Act; and
   (b) in any other case,—
     (i) the Director must inform the person that the person may seek a review by an Ombudsman of that non-disclosure under the Official Information Act 1982; and
     (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 6(d) of that Act.
@@ -1440,8 +1440,8 @@ For the purposes of granting or renewing maritime documents in respect of person
 (6) Nothing in subsection (5) shall require the Director to disclose any information the disclosure of which would be likely to endanger the safety of any person.
 (7) If the Director determines not to disclose any information in reliance on subsection (6), the Director must inform the person of the fact of non-disclosure and the following provisions apply:
   (a) in the case of non-disclosure to an individual of information about the individual,—
-    (i) the Director must inform the individual that he or she may, under the Privacy Act 1993, complain to the Privacy Commissioner about that non-disclosure; and
-    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 27(1)﻿(d) of that Act; and
+    (i) the Director must inform the individual that he or she may, under the Privacy Act 2020, complain to the Privacy Commissioner about that non-disclosure; and
+    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 49(1)﻿(a)﻿(i) of that Act; and
   (b) in any other case,—
     (i) the Director must inform the person that the person may seek a review by an Ombudsman of that non-disclosure under the Official Information Act 1982; and
     (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 6(d) of that Act.
@@ -2334,7 +2334,7 @@ Every person on whom any duty is imposed by this Act—the means required by the
   (h)
   (i) the current service charter.
 (3) Documents kept at the Registry shall be made available by the Authority, in accordance with the provisions of the Official Information Act 1982, for inspection by the public free of charge.
-(4) Subsection (3) is subject to the Privacy Act 1993.
+(4) Subsection (3) is subject to the Privacy Act 2020.
 
 **Information services**
 
@@ -3467,8 +3467,8 @@ Subject to section 267, every person who commits an offence against section 263 
     (ii) imposing conditions in respect of a marine protection document under section 272.
 (7) If the Director determines not to disclose any information in reliance on subsection (6), the Director must inform the person of the fact of non-disclosure and the following provisions apply:
   (a) in the case of non-disclosure to an individual of information about the individual,—
-    (i) the Director must inform the individual that he or she may, under the Privacy Act 1993, complain to the Privacy Commissioner about that non-disclosure; and
-    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 27(1)﻿(d) of that Act; and
+    (i) the Director must inform the individual that he or she may, under the Privacy Act 2020, complain to the Privacy Commissioner about that non-disclosure; and
+    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 49(1)﻿(a)﻿(i) of that Act; and
   (b) in any other case,—
     (i) the Director must inform the person that the person may seek a review by an Ombudsman of that non-disclosure under the Official Information Act 1982; and
     (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 6(d) of that Act.
