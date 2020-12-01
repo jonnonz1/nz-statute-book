@@ -1,5 +1,5 @@
 # Trans-Tasman Mutual Recognition Act 1997
-_Consolidation as at 2020-07-01_
+_Consolidation as at 2020-12-01_
 
 > An Act to provide for the recognition in New Zealand of regulatory standards adopted in Australia regarding goods and occupations
 
@@ -397,12 +397,12 @@ Residence or domicile in any particular participating jurisdiction is not a prer
     (iii) actual or possible disciplinary action against the individual; and
   (b) either,—
     (i) if the requirement relates to a notice given by an individual seeking registration, the equivalent authority of the other participating jurisdiction notifies the local registration authority that the individual seeking registration has, in the notice, authorised the furnishing of the information; or
-    (ii) if the requirement relates to an individual's deemed registration or actual or possible disciplinary action against the individual, the furnishing of the information does not contravene the Privacy Act 1993.
+    (ii) if the requirement relates to an individual's deemed registration or actual or possible disciplinary action against the individual, the furnishing of the information does not contravene the Privacy Act 2020.
 (2) This section applies notwithstanding any law of New Zealand relating to secrecy or confidentiality.
 (3) Nothing in this section affects any obligation or power of a local registration authority to provide information apart from this section.
 
 ### 34 Receiving information
-If a local registration authority receives information under a provision of a law of an Australian jurisdiction corresponding to section 33, the information is subject to the Privacy Act 1993 or any other law relating to secrecy or confidentiality to the same extent as it would be if the information had been provided under the law of New Zealand.
+If a local registration authority receives information under a provision of a law of an Australian jurisdiction corresponding to section 33, the information is subject to the Privacy Act 2020 or any other law relating to secrecy or confidentiality to the same extent as it would be if the information had been provided under the law of New Zealand.
 
 ### 35 Applicant may obtain information from local registration authority
 (1) If a local registration authority makes a decision in respect of which an applicant may apply for a review, the applicant may, by notice in writing to the local registration authority, request it to furnish to the applicant a statement in writing setting out the findings on material questions of fact and referring to the evidence or other material on which those findings were based.
