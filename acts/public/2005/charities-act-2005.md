@@ -1,5 +1,5 @@
 # Charities Act 2005
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Charities Act 2005.
@@ -61,7 +61,7 @@ The purpose of this Act is—
 (1) In this Act, unless the context otherwise requires, charitable purpose includes every charitable purpose, whether it relates to the relief of poverty, the advancement of education or religion, or any other matter beneficial to the community.
 (2) However,—
   (a) the purpose of a trust, society, or institution is a charitable purpose under this Act if the purpose would satisfy the public benefit requirement apart from the fact that the beneficiaries of the trust, or the members of the society or institution, are related by blood; and
-  (b) a marae has a charitable purpose if the physical structure of the marae is situated on land that is a Maori reservation referred to in Te Ture Whenua Maori Act 1993 (Maori Land Act 1993) and the funds of the marae are not used for a purpose other than—
+  (b) a marae has a charitable purpose if the physical structure of the marae is situated on land that is a Maori reservation referred to in Te Ture Whenua Maori Act 1993 (Maori Land Act 1993)and the funds of the marae are not used for a purpose other than—
     (i) the administration and maintenance of the land and of the physical structure of the marae:
     (ii) a purpose that is a charitable purpose other than under this paragraph.
 (2A) The promotion of amateur sport may be a charitable purpose if it is the means by which a charitable purpose referred to in subsection (1) is pursued.
@@ -340,7 +340,7 @@ A search of the register may be carried out only by the following persons for th
   (f) a person for the purpose of assisting the person in the performance of the person's functions under this Act or any other enactment.
 
 ### 29 When search constitutes interference with privacy of individual
-A search of the register for personal information that has not been carried out in accordance with sections 27 and 28 constitutes an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+A search of the register for personal information that has not been carried out in accordance with sections 27 and 28 constitutes an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 
 **Supply of register information and documents**
 
@@ -1051,15 +1051,6 @@ In clauses 23 to 25,—
   (a) fees as determined by the Minister; and
   (b) reimbursing allowances or actual and reasonable expenses incurred in undertaking the functions and duties of the Board.
 (2) In subclause (1), fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
-
-### A 1 Title
-This Act is the Income Tax Act 2007.
-
-### A 2 Commencement
-1 April 2008
-(1) This Act comes into force on 1 April 2008.
-Act effective for 2008–09 income year and later
-(2) However, except when the context requires otherwise, this Act applies only with respect to the tax on income derived in the 2008–09 income year and later income years.
 
 ### 1 Title
 This Act is the Charities Amendment Act 2012.
