@@ -1,5 +1,5 @@
 # Criminal Records (Expungement of Convictions for Historical Homosexual Offences) Act 2018
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Criminal Records (Expungement of Convictions for Historical Homosexual Offences) Act 2018.
@@ -33,7 +33,7 @@ In this Act, unless the context otherwise requires,—
   - **historical homosexual offence** or has the meaning given to it by section 5
   - **including** means including without limitation (to the matters specified)
   - **law enforcement agency** means—
-    (a) an agency that holds, or has access to, information described in Schedule 5 of the Privacy Act 1993; and
+    (a) an agency that holds, or has access to, information described in Schedule 4 of the Privacy Act 2020; and
     (b) the Ministry of Business, Innovation, and Employment, the Inland Revenue Department, and the New Zealand Customs Service
   - **legal proceeding** means—
     (a) a proceeding conducted by a court, or by a person acting judicially; and
@@ -102,7 +102,7 @@ Expungement does not authorise or require destruction of criminal records
 ### 10 Relationship with other laws
 (1) This Act does not limit or affect the application to the convicted person of the Criminal Records (Clean Slate) Act 2004.
 (2) This Act does not limit or affect the application to the convicted person of the Royal prerogative of mercy.
-(3) This Act does not limit or affect the convicted person’s rights under the Privacy Act 1993 or any other enactment to request information about, or a copy of, the convicted person’s own criminal record.
+(3) This Act does not limit or affect the convicted person’s rights under the Privacy Act 2020 or any other enactment to request information about, or a copy of, the convicted person’s own criminal record.
 
 ### 11 Duties of controlling public offices that hold criminal records
 (1) This section applies to the chief executive of a controlling public office that holds, or has access to, criminal records.
@@ -124,7 +124,7 @@ Expungement does not authorise or require destruction of criminal records
   (a) discloses to any person, body, or agency the criminal record, or information about the criminal record, of an expunged conviction other than as authorised under subsection (3); and
   (b) discloses that record or that information knowing that the person does not have, or being reckless as to whether or not the person has, lawful authority under subsection (3).
 (3) Subsection (2) does not apply to or prevent disclosure of the criminal record, or information about the criminal record, and that is all or any of the following:
-  (a) any disclosure or communication of (or of information about) criminal records of an expunged conviction, when the convicted person expressly requests the convicted person’s criminal history, including any expunged conviction of the convicted person, be disclosed directly to the convicted person under the Privacy Act 1993 or any other enactment referred to in section 10(3):
+  (a) any disclosure or communication of (or of information about) criminal records of an expunged conviction, when the convicted person expressly requests the convicted person’s criminal history, including any expunged conviction of the convicted person, be disclosed directly to the convicted person under the Privacy Act 2020 or any other enactment referred to in section 10(3):
   (b) any research, or publication, that relates to historical offences, expunged convictions, or both, and that is anonymised (because it does not identify, and is not likely to lead to the identification of, any person who has an expunged conviction):
   (c) any disclosure or communication of (or of information about) criminal records of expunged convictions, when those criminal records are classified as open access records, and made available for inspection by members of the public, publication, or copying, under the Public Records Act 2005:
   (d) any disclosure or communication necessary or desirable for the administration of this Act (including for recording in criminal records that a conviction has become an expunged conviction).
@@ -133,7 +133,7 @@ Expungement does not authorise or require destruction of criminal records
 ### 14 Offence to require or request that individual disregard expungement
 (1) A person commits an offence if the person requires or requests that an individual—
   (a) disregard the effect of expungement under this Act when answering a question about the individual’s criminal history, or disclosing information concerning any convictions of the individual, or both; or
-  (b) disregard the effect of expungement under this Act and disclose, or give consent to the disclosure of, any criminal records of an expunged conviction of the individual that are or may be disclosed to the individual under the Privacy Act 1993 or any other enactment referred to in section 10(3).
+  (b) disregard the effect of expungement under this Act and disclose, or give consent to the disclosure of, any criminal records of an expunged conviction of the individual that are or may be disclosed to the individual under the Privacy Act 2020 or any other enactment referred to in section 10(3).
 (2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000.
 
 **Process for making and deciding application**
