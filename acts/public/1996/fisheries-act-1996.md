@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -2058,8 +2058,8 @@ The Permit Register and the Fishing Vessel Register must each contain all the pa
 ### 101A Matters to be shown in High Seas Permit Register
 The High Seas Permit Register must contain all the particulars required by regulations made under section 297.
 
-### 102 Access to registers and application of Privacy Act 1993
-(1) The Permit Register, the Fishing Vessel Register, and the High Seas Permit Register are public registers for the purposes of the Privacy Act 1993 and shall be open for inspection by members of the public on payment of the prescribed fee (if any) during the hours stated by notice in the Gazette under section 98(5).
+### 102 Access to registers
+(1) The Permit Register, the Fishing Vessel Register, and the High Seas Permit Register are open for inspection by members of the public on payment of the prescribed fee (if any) during the hours stated by notice in the Gazette under section 98(5).
 (2) Subject to subsection (3), the chief executive shall, upon request and payment of a reasonable charge fixed by the chief executive, supply to any person copies of all or any part of a register.
 (3) If the chief executive is satisfied, on the application of any person, that the disclosure of that person's address (as entered in the register) would be prejudicial to the personal safety of that person or his or her family, the chief executive may direct that such information shall not be available for inspection or otherwise disclosed.
 
@@ -2811,7 +2811,8 @@ A Commissioner shall be paid such fees and other allowances as the Minister may 
 (3) Each Annual Catch Entitlement Register shall contain corrections made under section 165 and the time and date of the corrections.
 
 ### 129 Registers to be open for inspection
-(1) The registers kept under this Part are public registers for the purposes of the Privacy Act 1993, and, subject to section 130, shall be open for inspection on payment of the prescribed fee (if any) during ordinary office hours; and the chief executive shall, on request and on payment of a reasonable charge, supply to any person copies of all or part of a register.
+(1) The registers kept under this Part must be open for inspection by members of the public on payment of the prescribed fee (if any) during ordinary office hours, and the chief executive must, on request and on payment of a reasonable charge, supply to any person copies of all or any part of a register.
+(1A) Subsection (1) is subject to section 130.
 (2) The Crown is not liable in damages for any loss or damage resulting from any inaccuracy in any search of a register or a correct search of an inaccurate entry in a register, including any search by, or on behalf of, the chief executive.
 (3) If the chief executive is satisfied, on the application of any person, that the disclosure of that person's address (as entered in any register) would be prejudicial to the personal safety of that person or his or her family, the chief executive may direct that such information shall not be available for inspection or otherwise disclosed.
 
@@ -3446,7 +3447,7 @@ The chief executive must not make an aquaculture decision in relation to—
 The Fish Farmer Register must contain the information required by regulations made under section 297.
 
 ### 186M Access to Fish Farmer Register
-(1) The Fish Farmer Register is a public register for the purposes of the Privacy Act 1993.
+(1)
 (2) The Fish Farmer Register must be open for inspection by members of the public on payment of the prescribed fee (if any) during the hours stated by notice in the Gazette under section 186K(5).
 (3) The Crown is not liable in damages for any loss or damage resulting from—
   (a) any error in or omission from the Fish Farmer Register; or
@@ -5316,7 +5317,7 @@ An auditor must, before disclosing information to the Minister under section 296
 (1) The purpose of this section is—
   (a) to enable approved service delivery organisations to assign to any person specified in section 189 unique identifiers that have been assigned by the chief executive; and
   (b) to restrict approved service delivery organisations from using such unique identifiers for purposes other than carrying out the specified functions, duties, or powers transferred to them under section 296B.
-(2) Despite Information Privacy Principle 12(2) of the Privacy Act 1993, an approved service delivery organisation may assign to any person specified in section 189 any unique identifier assigned to that person by the chief executive.
+(2) Despite information privacy principle 13(2) set out in section 22 of the Privacy Act 2020, an approved service delivery organisation may assign to any person specified in section 189 any unique identifier assigned to that person by the chief executive.
 (3) This section does not authorise an approved service delivery organisation to use a unique identifier assigned by the chief executive, except for the purpose of carrying out the specified functions, duties, or powers that have been transferred to that approved service delivery organisation under section 296B.
 
 ### 296ZI Regulations
