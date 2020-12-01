@@ -1,5 +1,5 @@
 # Financial Markets Authority Act 2011
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Financial Markets Authority Act 2011.
@@ -267,7 +267,7 @@ In any proceeding under this Act or any other enactment, a certificate purportin
   (b) considers may assist, as the case may be,—
     (i) the law enforcement or regulatory agency in the performance or exercise of the law enforcement or regulatory agency's functions, powers, or duties under any enactment; or
     (ii) the overseas regulator in the performance or exercise of the overseas regulator's functions, powers, or duties under foreign law.
-(2) However, the FMA may provide information, or a copy of a document, to an overseas regulator under this section only if the FMA is satisfied that appropriate protections are or will be in place for the purpose of maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 1993).
+(2) However, the FMA may provide information, or a copy of a document, to an overseas regulator under this section only if the FMA is satisfied that appropriate protections are or will be in place for the purpose of maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 2020).
 (3) The FMA may use any information, or a copy of any document, provided to it by a law enforcement or regulatory agency under any enactment, or by an overseas regulator, in the FMA's performance or exercise of its functions, powers, or duties under this Act or any other enactment.
 (4) This section applies despite anything to the contrary in any contract, deed, or document.
 
@@ -284,7 +284,7 @@ In any proceeding under this Act or any other enactment, a certificate purportin
 ### 32 FMA's consideration of requests
 (1) The FMA may comply with a request under section 31 only if the FMA is satisfied that—
   (a) compliance will not substantially affect the performance of its other functions; and
-  (b) appropriate protections are or will be in place for the purpose of maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 1993); and
+  (b) appropriate protections are or will be in place for the purpose of maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 2020); and
   (c) it is appropriate to do so after taking into account any matters the FMA thinks relevant.
 (2) The matters the FMA may take into account under subsection (1) include, without limitation,—
   (a) whether the FMA is likely to be able to obtain the requested information, documents, or evidence:
@@ -300,7 +300,7 @@ In any proceeding under this Act or any other enactment, a certificate purportin
 (1) The FMA may impose any conditions in relation to providing information, documents, or evidence to a law enforcement or regulatory agency or an overseas regulator (whether in compliance with a request or otherwise).
 (2) The FMA must, in considering what conditions to impose, have regard to whether conditions are necessary or desirable in order to protect the privacy of any individual.
 (3) Conditions imposed under subsection (1) may include, without limitation, conditions relating to—
-  (a) maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 1993):
+  (a) maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 2020):
   (b) the storing of, the use of, or access to anything provided:
   (c) the copying, returning, or disposing of copies of documents provided:
   (d) payment of the costs incurred by the FMA in providing anything or in generally complying with a request.
@@ -405,7 +405,7 @@ If the FMA applies for the leave of the High Court to commence proceedings under
 (3) An order under subsection (1) may be expressed to have effect—
   (a) from the commencement of any inquiry, investigation, or other proceeding of the FMA to the end of that inquiry, investigation, or proceeding; or
   (b) for any shorter period.
-(4) At the end of the inquiry, investigation, or proceeding, the Official Information Act 1982 and the Privacy Act 1993 apply to any information or document or evidence that was the subject of the order under subsection (1).
+(4) At the end of the inquiry, investigation, or proceeding, the Official Information Act 1982 and the Privacy Act 2020 apply to any information or document or evidence that was the subject of the order under subsection (1).
 
 ### 45 Publication or disclosure with FMA's consent
 (1) An order under section 44 does not prohibit the publication or disclosure of any information, document, or evidence by a person if the publication or disclosure is with the FMA's consent.
@@ -537,7 +537,7 @@ If the FMA applies for the leave of the High Court to commence proceedings under
 (1) A person authorised under section 52 must not publish or disclose to any other person any information or documents acquired in the course of exercising powers under section 25 except—
   (a) to the FMA; or
   (b) as directed by the FMA in accordance with section 59(3); or
-  (c) in accordance with the Official Information Act 1982 or the Privacy Act 1993.
+  (c) in accordance with the Official Information Act 1982 or the Privacy Act 2020.
 (2) A person authorised under section 52 who wilfully contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $200,000.
 
 ### 55 Protection from liability for persons exercising powers
@@ -595,13 +595,13 @@ Without limiting any other statutory protection from liability, no person is lia
   (e) the publication or disclosure of the information or document is to an overseas regulator under subpart 2 or otherwise for the purpose of assisting the FMA to co-operate with an overseas regulator; or
   (f) the publication or disclosure of the information or document is to a person who the FMA is satisfied has a proper interest in receiving the information or document; or
   (g) the publication or disclosure of the information or document is with the consent of the person to whom the information or document relates or of the person to whom the information or document is confidential.
-(4) The FMA must not publish or disclose, or direct an authorised person to publish or disclose, any information or document under subsection (3)﻿(f) unless the FMA is satisfied that appropriate protections are or will be in place for the purpose of maintaining the confidentiality of the information or document (in particular, information that is personal information within the meaning of the Privacy Act 1993).
+(4) The FMA must not publish or disclose, or direct an authorised person to publish or disclose, any information or document under subsection (3)﻿(f) unless the FMA is satisfied that appropriate protections are or will be in place for the purpose of maintaining the confidentiality of the information or document (in particular, information that is personal information within the meaning of the Privacy Act 2020).
 
 ### 60 Conditions relating to publication or disclosure of information or documents
 (1) The FMA may, by written notice to a person to whom any information or document is published or disclosed under section 59(3)﻿(c), (f), or (g), impose any conditions in relation to the publication, disclosure, or use of the information or document by the person.
 (2) The FMA must, in considering what conditions to impose, have regard to whether conditions are necessary or desirable in order to protect the privacy of any individual.
 (3) Conditions imposed under subsection (1) may include, without limitation, conditions relating to—
-  (a) maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 1993):
+  (a) maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 2020):
   (b) the storing of, the use of, or access to anything provided:
   (c) the copying, returning, or disposing of copies of documents provided.
 (4) A person who refuses or fails, without reasonable excuse, to comply with any conditions commits an offence and is liable on conviction to a fine not exceeding $200,000.
@@ -666,8 +666,8 @@ This Part does not limit any power that the FMA or any other person has under an
     (iv) the offence of attempting to commit an offence against any of those sections of the Crimes Act 1961.
 (3) This section does not limit the application of the Official Information Act 1982.
 
-### 66 Part does not limit Privacy Act 1993
-Nothing in this Part limits the Privacy Act 1993.
+### 66 Part does not limit Privacy Act 2020
+Nothing in this Part limits the Privacy Act 2020.
 
 ## Part 4 — Miscellaneous provisions
 
@@ -757,7 +757,7 @@ In this subpart, unless the context otherwise requires,—
   (g) anything done, or omitted to be done, or that is to be done, by or in relation to the Commission is to be treated as having been done, or having been omitted to be done, or to be done, by or in relation to the FMA; and
   (h) the commencement, continuation, or enforcement of proceedings by or against the Commission may instead be commenced, continued, or enforced by or against the FMA without amendment to the proceedings; and
   (i) the completion of a matter or thing that would, but for this section, have been completed by the Commission may be completed by the FMA.
-(2) The transfer of information from the Commission to the FMA under subsection (1)﻿(c) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(2) The transfer of information from the Commission to the FMA under subsection (1)﻿(c) does not constitute an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 (3) The disestablishment of the Commission does not, by itself, affect any of the following matters:
   (a) any decision made, or anything done or omitted to be done, by the Commission in relation to the performance or exercise of its functions, powers, or duties under any enactment:
   (b) any proceedings commenced by or against the Commission:
@@ -817,7 +817,7 @@ Nothing effected or authorised by sections 71 to 74—
   (b) anything done, or omitted to be done, or that is to be done, by or in relation to the Government Actuary is to be treated as having been done, or having been omitted to be done, or to be done, by or in relation to the chief executive of the department; and
   (c) the commencement, continuation, or enforcement of proceedings by or against the Government Actuary may instead be commenced, continued, or enforced by or against the chief executive of the department without amendment to the proceedings; and
   (d) the completion of a matter or thing that would, but for this section, have been completed by the Government Actuary may be completed by the chief executive of the department.
-(3) The transfer of information from the Government Actuary to the FMA under subsection (1)﻿(a), or from the Government Actuary to the department under subsection (2)﻿(a), does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(3) The transfer of information from the Government Actuary to the FMA under subsection (1)﻿(a), or from the Government Actuary to the department under subsection (2)﻿(a), does not constitute an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 (4) The disestablishment of the office of the Government Actuary does not, by itself, affect any of the following matters:
   (a) any decision made, or anything done or omitted to be done, by the Government Actuary in relation to the performance or exercise of his or her functions, powers, or duties under any enactment:
   (b) any proceedings commenced by or against the Government Actuary:
