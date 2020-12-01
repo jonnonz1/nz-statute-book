@@ -1,5 +1,5 @@
 # Takeovers Act 1993
-_Consolidation as at 2020-01-13_
+_Consolidation as at 2020-12-01_
 
 > Title
 
@@ -206,7 +206,7 @@ The object of this Act is to—
   (b) considers may assist the FMA in the exercise of the FMA's powers or the performance of its functions and duties under any enactment.
 (2) The Panel may use any information, or a copy of any document, provided to it by the FMA under section 30 of the Financial Markets Authority Act 2011 in the Panel's exercise of its powers or the performance of its functions and duties.
 (3) This section applies despite anything to the contrary in any contract, deed, or document.
-(4) Nothing in this section limits the Privacy Act 1993.
+(4) Nothing in this section limits the Privacy Act 2020.
 
 ### 15B Sharing of information and documents with Commerce Commission
 (1) The Panel may provide to the Commerce Commission any information, or a copy of any document, that the Panel—
@@ -214,7 +214,7 @@ The object of this Act is to—
   (b) considers may assist the Commerce Commission in the exercise of the Commerce Commission's powers, or the performance of its functions and duties, in respect of the Fair Trading Act 1986.
 (2) The Panel may use any information, or a copy of any document, provided to it by the Commerce Commission under section 48A of the Fair Trading Act 1986 in the Panel's exercise of its powers, or the performance of its functions and duties.
 (3) This section applies despite anything to the contrary in any contract, deed, or document.
-(4) Nothing in this section limits the Privacy Act 1993.
+(4) Nothing in this section limits the Privacy Act 2020.
 
 ### 15C Sharing of information and documents with licensed market operators
 (1) The Panel may provide to a licensed market operator any information, or a copy of any document, that the Panel—
@@ -222,7 +222,7 @@ The object of this Act is to—
   (b) considers may assist the licensed market operator in the exercise of the operator’s powers, or the performance of its functions and duties, under any enactment or any market rules (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 (2) The Panel may use any information, or a copy of any document, provided to it by a licensed market operator under section 357 or 358 of the Financial Markets Conduct Act 2013 in the Panel’s exercise of its powers, or the performance of its functions and duties.
 (3) This section applies despite anything to the contrary in any contract, deed, or document.
-(4) Nothing in this section limits the Privacy Act 1993.
+(4) Nothing in this section limits the Privacy Act 2020.
 
 ### 16 Annual reports
 [Repealed]
@@ -357,7 +357,7 @@ Sections 31A, 31B, and 31C do not limit any power that the Panel, Registrar, or 
 A person must not communicate to any other person any information acquired in the course of an inspection under section 31A except—
   (a) in accordance with section 31C; or
   (b) for the purposes of this Act, the Financial Markets Authority Act 2011, or any of the Acts listed in Schedule 1 of that Act; or
-  (c) in accordance with the Official Information Act 1982 or the Privacy Act 1993; or
+  (c) in accordance with the Official Information Act 1982 or the Privacy Act 2020; or
   (d) in the course of any criminal proceedings (but subject to the limitation in section 31C(1)﻿(b)).
 
 ### 31EA No privilege against self-incrimination
@@ -466,7 +466,7 @@ The Panel may receive in evidence, whether admissible in a court of law or not, 
 ### 31R Conditions that may be imposed on providing information to overseas regulators
 (1) The Panel may impose any conditions in relation to providing information, documents, or evidence to an overseas regulator (whether in compliance with a request of an overseas regulator or otherwise).
 (2) Those conditions may include, without limitation, conditions relating to—
-  (a) maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 1993):
+  (a) maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 2020):
   (b) the storing of, use of, or access to anything provided:
   (c) the copying, returning, or disposing of copies of documents provided:
   (d) payment of the costs incurred by the Panel in providing anything or in generally complying with a request.
