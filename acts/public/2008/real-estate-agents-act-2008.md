@@ -1,5 +1,5 @@
 # Real Estate Agents Act 2008
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Real Estate Agents Act 2008.
@@ -593,7 +593,7 @@ The Registrar may at any time make any amendments to the register that are neces
 (3) The Registrar must supply copies of all or part of the register on request and on payment of a reasonable charge for the production of the copy if the provision of those copies is consistent with the register’s purposes.
 
 ### 70 When search constitutes interference with privacy of individual
-A person who searches the register for a purpose that is not a purpose set out in section 64 must be treated, for the purposes of Part 8 of the Privacy Act 1993, as if that person has breached an information privacy principle under section 66(1)﻿(a)﻿(i) of that Act.
+A person who searches the register for a purpose that is not a purpose set out in section 64 must be treated, for the purposes of Parts 5 and 6 of the Privacy Act 2020, as having breached an information privacy principle under section 69(2)﻿(a)﻿(i) of that Act.
 
 ## Part 4 — Complaints and discipline
 
@@ -720,7 +720,7 @@ A Committee—
 ### 86 Compliance with requirement to provide information or document
 (1) A person who receives a notice under section 85 must, without charge, comply with the requirement stated in the notice in the manner and within the period (being not less than 10 working days after the notice is given to the person) specified in the notice.
 (2) Subsection (1) does not require a person to provide any information or produce any document that would be privileged in a court of law.
-(3) No person is required to produce to the Committee any papers, records, documents, or things if compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on the person by an enactment (other than this Act, the Official Information Act 1982, or the Privacy Act 1993).
+(3) No person is required to produce to the Committee any papers, records, documents, or things if compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on the person by an enactment (other than this Act, the Official Information Act 1982, or the Privacy Act 2020).
 
 ### 87 Negotiation, conciliation, and mediation
 (1) A Committee may give, in relation to any complaint received by it, a direction that, within a time or before a date fixed by the Committee, the parties both—
