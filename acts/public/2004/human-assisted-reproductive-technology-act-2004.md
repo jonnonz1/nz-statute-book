@@ -1,5 +1,5 @@
 # Human Assisted Reproductive Technology Act 2004
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Human Assisted Reproductive Technology Act 2004.
@@ -777,19 +777,19 @@ The provisions of this Part, other than this section and sections 43, 45, 51, 62
 (3) If satisfied that it is in the best interests of the donor offspring to do so, a Family Court Judge may make an order that requires a named provider or the Registrar-General, or both, to treat, for the purposes of 1 or more of the provisions specified in subsection (2), the donor offspring as a donor offspring who is 18 years old.
 (4) Rules may be made under section 16A of the Family Court Act 1980 relating to the practice and procedure of the Family Court in proceedings under this Act.
 
-**Application of Privacy Act 1993**
+**Application of Privacy Act 2020**
 
-### 66 Application of Privacy Act 1993
-(1) Any person may make a complaint to the Privacy Commissioner holding that office under section 12 of the Privacy Act 1993 if—
+### 66 Application of Privacy Act 2020
+(1) Any person may make a complaint to the Privacy Commissioner holding that office under section 13 of the Privacy Act 2020 if—
   (a) the person is dissatisfied with any decision, action, or failure to act by a provider or the Registrar-General in relation to—
     (i) a request under this Act for information or access to information; or
     (ii) a request under this Act to accept updated or corrected information; or
   (b) the person believes that information—
     (i) has been obtained, kept, or disclosed otherwise than in accordance with this Act; or
     (ii) has not been obtained, accepted, kept, or given, as required by this Act.
-(2) Sections 40 and 41 of the Privacy Act 1993, so far as applicable and with any necessary modifications, apply to any request of a kind referred to in subsection (1)﻿(a).
-(3) Parts 8, 9, and 12 of the Privacy Act 1993, so far as applicable and with any necessary modifications, apply to the making of a complaint under subsection (1) as if the matter to which the complaint relates were an interference with privacy within the meaning of section 66 of that Act.
-(4) Nothing in this section limits the jurisdiction of the Privacy Commissioner under the Privacy Act 1993 to investigate any complaint made under Part 8 of that Act.
+(2) Sections 44 to 48 of the Privacy Act 2020, so far as applicable and with any necessary modifications, apply to any request of a kind referred to in subsection (1)﻿(a).
+(3) Parts 5, 6, and 9 of the Privacy Act 2020, so far as applicable and with any necessary modifications, apply to the making of a complaint under subsection (1) as if the matter to which the complaint relates were an interference with the privacy of an individual under section 69 of that Act.
+(4) Nothing in this section limits the jurisdiction of the Privacy Commissioner under the Privacy Act 2020 to investigate any complaint made under Part 5 of that Act.
 
 ## Part 4 — Enforcement and miscellaneous provisions
 
