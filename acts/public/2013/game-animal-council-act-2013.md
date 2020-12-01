@@ -1,5 +1,5 @@
 # Game Animal Council Act 2013
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Game Animal Council Act 2013.
@@ -328,7 +328,7 @@ A person must not export a game trophy from New Zealand that is a souvenir of an
 (4) The Council may use the information obtained only for the purposes specified in subsection (1).
 (5) The Council must, within 20 working days after receiving it, destroy any information that it has obtained under this section that is not necessary for the purpose of recovering any game trophy export levy.
 (6) No request may be made to, or information provided by, Customs under this section unless there is a current memorandum of understanding between the Council and Customs that—
-  (a) relates to the provision, storage, and destruction of information in a manner that is consistent with the Privacy Act 1993; and
+  (a) relates to the provision, storage, and destruction of information in a manner that is consistent with the Privacy Act 2020; and
   (b) contains requirements for reviewing the effectiveness of the information sharing.
 (7) The Council must provide details in its annual reports on the operation of information sharing under this section.
 
