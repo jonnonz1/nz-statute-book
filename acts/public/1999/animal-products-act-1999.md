@@ -1,5 +1,5 @@
 # Animal Products Act 1999
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 > An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
 
@@ -2588,7 +2588,7 @@ In addition to all other powers conferred by the District Court Act 2016, the Go
   (a) the health or well-being of producers, processors, consumers, and users of animal material and products; or
   (b) the fitness for intended purpose of animal products; or
   (c) the integrity and reputation of New Zealand exports of animal material and products, and the integrity of official assurances given under this Act.
-(2) Despite privacy principles 2 and 11 of the Privacy Act 1993, an approved agency or an officer or employee of an approved agency may disclose to any other approved agency, or officer or employee of that agency, any information supplied or obtained under or for the purposes of any of the enactments specified in subsection (5)﻿(a), if the disclosure of that information is necessary or desirable for any of the purposes specified in subsection (1).
+(2) Despite information privacy principles 2 and 11 set out in section 22 of the Privacy Act 2020, an approved agency or an officer or employee of an approved agency may disclose to any other approved agency, or officer or employee of that agency, any information supplied or obtained under or for the purposes of any of the enactments specified in subsection (5)﻿(a), if the disclosure of that information is necessary or desirable for any of the purposes specified in subsection (1).
 (3) Nothing in subsection (2) authorises the disclosure of any information to the persons or bodies listed in paragraphs (b) to (f) of subsection (5) unless the disclosure is necessary to enable them to properly discharge their obligations under this Act.
 (4) Nothing in subsection (2) authorises the disclosure of commercially sensitive information unless and to the extent that the disclosure is necessary in the particular case to ensure—
   (a) the health or well-being of any person or animal; or
