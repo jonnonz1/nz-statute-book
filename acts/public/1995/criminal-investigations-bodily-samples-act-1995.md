@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Act 1995
-_Consolidation as at 2020-06-25_
+_Consolidation as at 2020-12-01_
 
 > An Act—ato make provision for the taking of bodily samples for use in criminal investigations; andbto authorise—ithe establishment of a databank of information derived from the analysis of bodily samples taken from certain persons; andiithe use of information from that databank in criminal investigations; andcto provide for matters incidental thereto
 
@@ -605,11 +605,11 @@ When either of the circumstances in section 24P(b)﻿(i) or (ii) has arisen in r
 ### 24R Access to and disclosure of information on Part 2B temporary databank
 (1) Subject to subsections (2) to (5), no person may have access to any information stored on a Part 2B temporary databank, and no person may disclose any of that information, except for 1 or more of the following purposes:
   (a) to compare with unidentified DNA information obtained from the scenes of offences under investigation or otherwise in respect of which a conviction or further conviction is yet to be obtained, for the purpose of a criminal investigation by the Police into the triggering offence or any other offence:
-  (b) for the purpose of making the information available, in accordance with the Privacy Act 1993, to the person to whom the information relates:
+  (b) for the purpose of making the information available, in accordance with the Privacy Act 2020, to the person to whom the information relates:
   (c) for the purpose of administering the Part 2B temporary databank.
 (2) For the purposes of subsection (1)﻿(a), DNA information is unidentified if no Police investigation has established the particular person to whom the DNA information relates.
 (3) Nothing in this section applies in relation to information that does not identify any person.
-(4) Nothing in this section limits the jurisdiction of the Privacy Commissioner under the Privacy Act 1993 to investigate any complaint made under Part 8 of that Act.
+(4) Nothing in this section limits the jurisdiction of the Privacy Commissioner under the Privacy Act 2020 to investigate any complaint made under Part 5 of that Act.
 (5) Nothing in this section prohibits access to, or the disclosure of, any information for the purposes of—
   (a) any application for a compulsion order; or
   (b) the issuing of a databank compulsion notice or the making of a Part 3 order; or
@@ -675,13 +675,13 @@ Subject to sections 60, 60A, and 62, the following information may be stored on 
 ### 27 Access to and disclosure of information on DNA profile databank
 (1) Subject to subsections (2) to (4), no person may have access to any information stored on a DNA profile databank, and no person shall disclose any such information, except for 1 or more of the following purposes:
   (a) for the purpose of forensic comparison in the course of a criminal investigation by the Police:
-  (b) for the purpose of making the information available, in accordance with the Privacy Act 1993, to the person to whom the information relates:
+  (b) for the purpose of making the information available, in accordance with the Privacy Act 2020, to the person to whom the information relates:
   (c) for the purpose of administering the DNA profile databank:
   (d) for the purpose of responding to a request under the Mutual Assistance in Criminal Matters Act 1992 if—
     (i) access to the information requested is authorised by the Attorney-General; and
     (ii) the request relates to an offence that corresponds to an offence in New Zealand that is punishable by a term of imprisonment of more than 1 year.
 (2) Nothing in this section applies in relation to information that does not identify any person.
-(3) Nothing in this section limits the jurisdiction of the Privacy Commissioner under the Privacy Act 1993 to investigate any complaint made under Part 8 of that Act.
+(3) Nothing in this section limits the jurisdiction of the Privacy Commissioner under the Privacy Act 2020 to investigate any complaint made under Part 5 of that Act.
 (4) Nothing in this section prohibits access to, or the disclosure of, any information for the purposes of—
   (a) any application for a compulsion order; or
   (ab) the issuing of a databank compulsion notice or the making of a Part 3 order; or
