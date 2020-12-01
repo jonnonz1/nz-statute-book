@@ -1,5 +1,5 @@
 # Public Audit Act 2001
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Public Audit Act 2001.
@@ -196,7 +196,7 @@ The chief executive and the governing body of a public entity must ensure that t
 (2) If any information is required from a person who is not a member, employee, or office holder of the public entity, the Auditor-General must—
   (a) advise the person in writing of the nature of the information; and
   (b) state that it is required under this section; and
-  (c) if the person is an individual and the information required is personal information about that individual, comply with information privacy principle 3 of the Privacy Act 1993.
+  (c) if the person is an individual and the information required is personal information about that individual, comply with information privacy principle 3 set out in section 22 of the Privacy Act 2020.
 (3) The Auditor-General may pay the person referred to in subsection (2) the reasonable costs and disbursements of providing the information and may recover those costs and disbursements from the public entity to which the information relates.
 
 ### 26 Power to examine on oath
@@ -231,7 +231,7 @@ For the purpose of obtaining documents, information, or other evidence relevant 
   (a) the public interest:
   (b) an auditor’s professional obligations concerning confidentiality of information:
   (c) the interests described in sections 6, 7, and 9(2) of the Official Information Act 1982.
-(4) This section does not affect an individual’s entitlement to request access to information under information privacy principle 6 of the Privacy Act 1993.
+(4)
 
 ### 31 Self-incrimination
 (1) A person is not excused from answering a question or giving any information or document under this Act on the ground that to do so may incriminate or tend to incriminate that person.
