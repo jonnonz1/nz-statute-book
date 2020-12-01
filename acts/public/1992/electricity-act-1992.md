@@ -1,5 +1,5 @@
 # Electricity Act 1992
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 > Title
 
@@ -1472,7 +1472,7 @@ The register may be searched only by reference to criteria to be specified in th
 A search of the register may be carried out only for a purpose referred to in section 126.
 
 ### 141 When search constitutes interference with privacy of individual
-A search of the register for personal information that has not been carried out in accordance with sections 138 to 140 constitutes an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+A search of the register for personal information that has not been carried out in accordance with sections 138 to 140 constitutes an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 
 ## Part 11 — Disciplinary provisions
 
