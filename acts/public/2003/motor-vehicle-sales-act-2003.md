@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -651,7 +651,7 @@ A search of the register may be carried out only by the following persons for th
     (iii) whether or not a person is registered as a motor vehicle trader under this Act.
 
 ### 59 When search constitutes interference with privacy of individual
-A search of the register for personal information that has not been carried out in accordance with sections 56 to 58 constitutes an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+A search of the register for personal information that has not been carried out in accordance with sections 56 to 58 constitutes an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 
 **Registrar of Motor Vehicle Traders**
 
@@ -869,7 +869,7 @@ A search of the list may be carried out only by the following persons for the fo
   (b) a person for the purpose of determining whether or not a person is a banned person.
 
 ### 81 When search constitutes interference with privacy of individual
-A search of the list for personal information that has not been carried out in accordance with sections 78 to 80 constitutes an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+A search of the list for personal information that has not been carried out in accordance with sections 78 to 80 constitutes an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 
 ### Subpart 2 — Motor Vehicle Disputes Tribunals
 
@@ -1197,6 +1197,9 @@ The purpose of section 121 is to facilitate the disclosure of information from C
 ### 121 Customs must supply Customs' information to Registrar
 (1) The Comptroller of Customs, or any authorised officer of Customs, must supply to the Registrar any Customs' information for the time being held by Customs at the time and at the intervals agreed to between the Comptroller and the Registrar.
 (2) On receiving information from Customs under this section, the Registrar may cause a comparison of that information to be made with the information held in the register.
+(3) On or after 1 December 2020, no information may be supplied under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 
 ### 122 Purpose of disclosure of information by Ministry of Transport
 The purpose of section 123 is to facilitate the disclosure of information from the Ministry of Transport to the Registrar for the purposes of—
@@ -1206,6 +1209,9 @@ The purpose of section 123 is to facilitate the disclosure of information from t
 ### 123 Registrar of Motor Vehicles must supply vehicle registration information to Registrar
 (1) The Registrar of Motor Vehicles, or any person authorised by that Registrar, must supply to the Registrar any vehicle registration information for the time being held under Part 17 of the Land Transport Act 1998 at the time and at the intervals agreed between the Registrar of Motor Vehicles and the Registrar.
 (2) On receiving information from the Registrar of Motor Vehicles under this section, the Registrar may cause a comparison of that information to be made with the information held in the register.
+(3) On or after 1 December 2020, no information may be supplied under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 
 **Inspection**
 
@@ -1255,7 +1261,7 @@ On the direction of the Registrar, a person authorised to make an inspection und
 A person must not communicate to any person any information acquired in the course of an inspection except—
   (a) in accordance with section 128; or
   (b) for the purposes of this Act; or
-  (c) in accordance with the Official Information Act 1982 or the Privacy Act 1993; or
+  (c) in accordance with the Official Information Act 1982 or the Privacy Act 2020; or
   (d) for the purposes of any court proceedings; or
   (e) for any purposes that may be specified in any other Act.
 
