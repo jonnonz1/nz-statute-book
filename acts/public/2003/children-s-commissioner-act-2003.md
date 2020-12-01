@@ -1,5 +1,5 @@
 # Children's Commissioner Act 2003
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Children's Commissioner Act 2003.
@@ -163,7 +163,7 @@ In conducting an investigation, the Commissioner must have regard to the questio
 (2) Despite anything in subsection (1), the Commissioner or any employee of the Commissioner acting with the authority of the Commissioner may disclose any matter that, in the Commissioner's opinion, ought to be disclosed for the purposes of giving effect to—
   (a) this Act; or
   (b) the Commissioner's obligations under any other enactment; or
-  (c) information privacy principle 6 of the Privacy Act 1993.
+  (c) information privacy principle 6 of the Privacy Act 2020.
 (3) The power conferred by subsection (2)﻿(a) does not extend to—
   (a) any matter that might prejudice—
     (i) the security, defence, or international relations of New Zealand (including New Zealand's relations with the Government of any other country or with any international organisation); or
@@ -171,7 +171,7 @@ In conducting an investigation, the Commissioner must have regard to the questio
     (iii) the maintenance of the law, including the prevention, investigation, or detection of offences; or
   (b) any matter that might involve the disclosure of the deliberations of Cabinet; or
   (c) any information, answer, document, paper, or thing obtained by the Commissioner by reason only of compliance with a requirement made under section 20(1).
-(4) The power conferred by subsection (2)﻿(c) is subject to sections 27 to 29 of the Privacy Act 1993.
+(4) The power conferred by subsection (2)﻿(c) is subject to sections 49 to 53 of the Privacy Act 2020.
 
 ### 23 Consultation with other statutory officers
 (1) Despite anything in section 22, the Commissioner may consult with any of the statutory officers specified in subsection (3) about any matter that relates to the functions of the Commissioner, including (without limitation) consultation—
