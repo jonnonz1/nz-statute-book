@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -523,7 +523,7 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
   (c) an officer or employee of the Department of Corrections or the Ministry of Justice, or a staff member of a prison, who requires access to the report for the purposes of his or her official duties:
   (d) a member of the New Zealand Parole Board:
   (e) the prosecutor appearing on sentence or on appeal against sentence.
-(2) Despite anything in the Official Information Act 1982 or the Privacy Act 1993, no person may have access under either of those Acts to a report or any part of a report that a court has ordered under section 28 or section 34 not to be disclosed to that person.
+(2) Despite anything in the Official Information Act 1982 or the Privacy Act 2020, no person may have access under either of those Acts to a report or any part of a report that a court has ordered under section 28 or section 34 not to be disclosed to that person.
 
 ### 30 No sentence of imprisonment to be imposed without opportunity for legal representation
 (1) No court may impose a sentence of imprisonment on an offender who has not been legally represented at the stage of the proceedings at which the offender was at risk of conviction, except as provided in subsection (2).
