@@ -1,5 +1,5 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 > An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—(i)to recognise that animals are sentient:(ia)to require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
@@ -1307,7 +1307,7 @@ The procedure of an animal ethics committee must, except as provided in this Act
   (b) the Director-General reasonably believes that disclosure of the identifying information—
     (i) is essential to the investigation of the allegations made in the report; or
     (ii) is essential having regard to the principles of natural justice.
-(4) Nothing in the Official Information Act 1982 or the Privacy Act 1993 requires the Director-General to disclose information that might identify the person who made the report.
+(4) Nothing in the Official Information Act 1982 or the Privacy Act 2020 requires the Director-General to disclose information that might identify the person who made the report.
 
 ### 104 Protection of members of animal ethics committees
 No member of an animal ethics committee is personally liable for any act done or omitted by the member or the committee in good faith in the course of the operations of the committee.
