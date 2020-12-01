@@ -1,5 +1,5 @@
 # Privacy Amendment Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 (1) This Act is the Privacy Amendment Act 2003.
@@ -15,8 +15,8 @@ Section 77(2) and (3) of the principal Act is amended by omitting the words Proc
 Section 88(2) of the principal Act is amended by omitting the words by the Privacy Commissioner.
 
 ### 5 Protection and privileges of witnesses, etc
-(1) Section 94(1B)(a)(iii) and (b) of the principal Act is amended by omitting the words Proceedings Commissioner in each place where they occur, and substituting in each case the words Director of Human Rights Proceedings.
-(2) Section 94(1B)(b) of the principal Act is amended by omitting the words Complaints Review Tribunal, and substituting the words Human Rights Review Tribunal.
+(1) Section 94(1B)﻿(a)﻿(iii) and (b) of the principal Act is amended by omitting the words Proceedings Commissioner in each place where they occur, and substituting in each case the words Director of Human Rights Proceedings.
+(2) Section 94(1B)﻿(b) of the principal Act is amended by omitting the words Complaints Review Tribunal, and substituting the words Human Rights Review Tribunal.
 
 ### 6 Commissioner and staff to maintain secrecy
 Section 116(3) of the principal Act is amended by omitting the words Proceedings Commissioner, and substituting the words Director of Human Rights Proceedings.
