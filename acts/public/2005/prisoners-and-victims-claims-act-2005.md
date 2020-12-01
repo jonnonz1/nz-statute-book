@@ -1,5 +1,5 @@
 # Prisoners' and Victims' Claims Act 2005
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Prisoners’ and Victims’ Claims Act 2005.
@@ -16,7 +16,7 @@ This Act comes into force on the day after the date on which it receives the Roy
   (b) provide a procedure for the making and determination of victims’ claims.
 (2A) Subpart 2 of Part 2 must be read with the following related enactments:
   (a) the Legal Services Act 2011, which facilitates the granting of legal aid in respect of victims’ claims proceedings under subpart 2 of Part 2 of this Act; and
-  (b) the Privacy Act 1993, which enables the Ministry of Justice to have access to Police records on offender identity and victim identity for the purpose of providing assistance to victims in accordance with this Act; and
+  (b) the Privacy Act 2020, which enables the Ministry of Justice to have access to Police records on offender identity and victim identity for the purpose of providing assistance to victims in accordance with this Act; and
   (c) the Victims' Rights Act 2002, which requires the Secretary for Justice to request, for the purposes of a notice under section 20 of this Act, the current address (including the full name) of a victim who has asked for notice of certain matters under that Act.
 (3) The purpose of subpart 3 of Part 2 is to suspend the running of limitation periods for certain claims by victims.
 (4) The purpose of subpart 4 of Part 2 is to ensure that after 30 June 2013 generally only the following provisions apply or continue to apply to specified claims made before 1 July 2013, money to be paid as compensation in respect of claims of that kind, and victims' claims against money of that kind:
@@ -140,7 +140,7 @@ In this Act, unless the context otherwise requires,—
   - **a breach of, or interference with, a specified right** means—
     (a) a breach of, or interference with, a right contained in and affirmed by the New Zealand Bill of Rights Act 1990; or
     (b) a breach of Part 1A or Part 2 of the Human Rights Act 1993; or
-    (c) an interference with the privacy of an individual (within the meaning of section 66 of the Privacy Act 1993)
+    (c) an interference with the privacy of an individual (within the meaning of section 69 of the Privacy Act 2020)
   - **Crown** includes a contractor or security contractor as defined in—
     (a) section 3(1) of the Corrections Act 2004; or
     (b) section 2(1) of the Penal Institutions Act 1954.
