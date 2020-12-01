@@ -1,5 +1,5 @@
 # WorkSafe New Zealand Act 2013
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the WorkSafe New Zealand Act 2013.
@@ -148,7 +148,7 @@ The employment of a transferred employee by WorkSafe New Zealand is to be treate
   (f) the commencement, continuation, or enforcement of proceedings relating to the function by or against the chief executive or MBIE may instead be carried out by or against WorkSafe New Zealand without amendment to the proceedings; and
   (g) a matter or thing relating to the function that would, but for this section, have been completed by the chief executive or MBIE may be completed by WorkSafe New Zealand.
 (3) On and after the commencement of this Act, property identified by MBIE as being owned by the chief executive or MBIE solely or principally for the purposes of the function and that should be transferred to WorkSafe New Zealand is vested in WorkSafe New Zealand.
-(4) The transfer of information from the chief executive or MBIE to WorkSafe New Zealand under subsection (2)﻿(a) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(4) The transfer of information from the chief executive or MBIE to WorkSafe New Zealand under subsection (2)﻿(a) does not constitute an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 
 ### 18 Transitional provision relating to legal services in respect of functions transferred to WorkSafe New Zealand
 (1) For the purposes of section 17(2), a lawyer who is employed by MBIE may, in the course of his or her employment, provide legal services to WorkSafe New Zealand in respect of a function or power of the chief executive under the relevant health and safety legislation that is transferred to WorkSafe New Zealand if the legal services are provided in connection with a matter or thing that—
