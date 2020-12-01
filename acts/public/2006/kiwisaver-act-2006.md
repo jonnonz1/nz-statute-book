@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -127,7 +127,7 @@ This Act is the KiwiSaver Act 2006.
   - **PAYE period** means, as applicable, a first payment period as defined in the Income Tax Act 2007, a second payment period as defined in that Act, or a month in which PAYE is withheld in relation to an employee
   - **PAYE rules** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **permitted withdrawal** means a withdrawal that is permitted under the KiwiSaver scheme rules
-  - **personal information** has the same meaning as in the Privacy Act 1993
+  - **personal information** has the same meaning as in the Privacy Act 2020
   - **personal representative** , in relation to a deceased person, means a person to whom probate of the will of the deceased person, letters of administration of the estate of the deceased person, or any other similar grant, has been granted, whether in New Zealand or anywhere else
   - **private domestic worker** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **product disclosure statement** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
@@ -466,7 +466,7 @@ Every information pack supplied by the Commissioner under this subpart must cont
     (iii) choosing a KiwiSaver scheme or investment product of a KiwiSaver scheme; or
     (iv) the overall KiwiSaver scheme or its financial concepts; and
   (f) an opt-out notice form; and
-  (g) a statement about collection of personal information that complies with principle 3 of the information privacy principles in the Privacy Act 1993; and
+  (g) a statement about collection of personal information that complies with information privacy principle 3 set out in section 22 of the Privacy Act 2020; and
   (h) any other prescribed information.
 
 ### 42 Employer must supply information pack to certain employees
@@ -1818,7 +1818,7 @@ The FMA must give notice to the Commissioner as soon as practicable after an emp
 (1) The FMA may impose any conditions in relation to providing information or documents to the Commissioner (whether in compliance with a request or otherwise).
 (2) The FMA must, in considering what conditions to impose, have regard to whether conditions are necessary or desirable in order to protect the privacy of any individual.
 (3) Those conditions may include, without limitation, conditions relating to—
-  (a) maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 1993):
+  (a) maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 2020):
   (b) the storing of, use of, or access to anything provided:
   (c) the copying, returning, or disposing of copies of documents provided.
 
@@ -2000,7 +2000,7 @@ For the avoidance of doubt, the Crown or any other person does not perform a fin
 (1) In this section, specified functions, duties, or powers means functions, duties, or powers that—
   (a) a provider is required to exercise or carry out for the purposes of this Act; or
   (b) are reasonably necessary for the effective administration of the overall KiwiSaver scheme.
-(2) Despite Information Privacy Principle 12(2) or (4) of the Privacy Act 1993, a provider of a KiwiSaver scheme may—
+(2) Despite information privacy principle 13(2) or (5) set out in section 22 of the Privacy Act 2020, a provider of a KiwiSaver scheme may—
   (a) require an individual to disclose any unique identifier that has been assigned to that person by the Commissioner for the purposes of carrying out specified functions, duties, or powers; and
   (b) assign to a proposed member, or member, of the KiwiSaver scheme any unique identifier assigned to that person by the Commissioner.
 (3) This section does not authorise a provider of a KiwiSaver scheme to use a unique identifier assigned by the Commissioner, except for the purpose of carrying out the specified functions, duties, or powers.
