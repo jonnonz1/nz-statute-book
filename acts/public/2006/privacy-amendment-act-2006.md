@@ -1,5 +1,5 @@
 # Privacy Amendment Act 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Privacy Amendment Act 2006.
