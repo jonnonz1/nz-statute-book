@@ -1,5 +1,5 @@
 # Financial Advisers Act 2008
-_Consolidation as at 2020-09-25_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Financial Advisers Act 2008.
@@ -2023,7 +2023,7 @@ A provision that is implied into an agreement by the regulations—
   (e) a licensing authority listed in Schedule 2 of the FSP Act:
   (f) an overseas regulator.
 (5) The FMA may impose any conditions in relation to communicating information to an agency to which this section applies, including (without limitation) conditions relating to—
-  (a) maintaining the confidentiality of the information (in particular, information that is personal information within the meaning of the Privacy Act 1993):
+  (a) maintaining the confidentiality of the information (in particular, information that is personal information within the meaning of the Privacy Act 2020):
   (b) the storing of, use of, or access to the information:
   (c) the copying, returning, or disposing of the information:
   (d) payment of the costs incurred by the FMA in communicating the information.
