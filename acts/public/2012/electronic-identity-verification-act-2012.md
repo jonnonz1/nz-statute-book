@@ -1,5 +1,5 @@
 # Electronic Identity Verification Act 2012
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Electronic Identity Verification Act 2012.
@@ -96,10 +96,10 @@ In this Act, unless the context otherwise requires,—
     (c) a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975; and
     (d) a Crown entity as defined in section 10(1) of the Crown Entities Act 2004
   - **participating agency** means a body, office, or officer declared by the Governor-General, by regulations made under section 67, to be a participating agency for the purposes of this Act
-  - **personal information** has the meaning given to it by section 2 of the Privacy Act 1993
+  - **personal information** has the meaning given to it by section 7(1) of the Privacy Act 2020
   - **photograph** includes any electronic record of the photograph
   - **pre-commencement electronic identity credential** has the meaning given to it by section 73
-  - **Privacy Commissioner** means the Privacy Commissioner appointed under section 12 of the Privacy Act 1993
+  - **Privacy Commissioner** means the Privacy Commissioner appointed under section 13 of the Privacy Act 2020
   - **record of usage history** means the record that the chief executive is required to keep under section 44 about the usage history of each electronic identity credential and each electronic identity photograph
   - **Registrar-General** has the meaning given to it by section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
   - **Service** means the Electronic Identity Verification Service described in section 55
@@ -484,10 +484,14 @@ The purpose of section 39 is to facilitate the disclosure of identity-related in
 (2) Subsection (1) applies even though the chief executive is the same person as the responsible authority.
 (3) A responsible authority may disclose identity-related information only in accordance with an agreement entered into under subsection (1).
 (4) The chief executive or the Service may cause a comparison to be made of any identity-related information disclosed under an agreement entered into under subsection (1) with information held in the Service database.
+(5) On or after 1 December 2020, no information may be supplied under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an information matching agreement entered into under subpart 4 of Part 7 of the Privacy Act 2020; or
+  (c) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 
 ### 40 Use of results of information matching
 (1) The chief executive may keep and maintain information produced by a comparison undertaken in accordance with section 39(4) for use in auditing the access and use of that information by the Service or employees of the department for the purposes of this Act.
-(2) This section applies despite rule 6 of the information matching rules set out in Schedule 4 of the Privacy Act 1993.
+(2) This section applies despite rule 5 of the information matching rules set out in Schedule 6 of the Privacy Act 2020.
 
 **Functions of chief executive**
 
@@ -694,17 +698,17 @@ The following provisions apply to the relationship between this Act and the Offi
   (b) section 43(3)﻿(b)﻿(i) incorporates by reference provisions of the OIA:
   (c) section 52(2) extends the application of the OIA.
 
-### 59 Privacy Act 1993
-(1) In this section, PA means the Privacy Act 1993.
-(2) When an individual's application to amend his or her electronic identity credential is refused, the right in section 30(6) applies instead of information privacy principle 7(3) in section 6 of the PA.
+### 59 Privacy Act 2020
+(1) In this section, PA means the Privacy Act 2020.
+(2) When an individual's application to amend his or her electronic identity credential is refused, the right in section 30(6) applies instead of information privacy principle 7 set out in section 22 of the PA.
 (3) Section 40(2) excludes a provision of the PA.
-(4) If regulations are made under section 70(3), the regulations apply instead of information privacy principle 9 in section 6 of the PA.
-(5) If core identity information held in electronic identity credentials, photographs, and records of usage history held in accordance with the provisions of this Act are to be disclosed, the disclosure is made in accordance with this Act, instead of information privacy principle 11 in section 6 of the PA, as required by the precedence given to this Act by section 7(1) and (2) of the PA.
-(6) For the purposes of the PA, Part 8, a person is taken to have breached an information privacy principle under its section 66(1)﻿(a)﻿(i) if the person contravenes a provision of this Act that—
+(4) If regulations are made under section 70(3), the regulations apply instead of information privacy principle 9 set out in section 22 of the PA.
+(5) If core identity information held in electronic identity credentials, photographs, and records of usage history held in accordance with the provisions of this Act are to be disclosed, the disclosure is made in accordance with this Act, instead of information privacy principle 11 set out in section 22 of the PA, as required by the precedence given to this Act by section 24(1) of the PA.
+(6) For the purposes of the PA, Part 5, a person is taken to have breached an information privacy principle under its section 69(2)﻿(a)﻿(i) if the person contravenes a provision of this Act that—
   (a) imposes a prohibition or restriction in relation to the use or availability of personal information; or
   (b) regulates the manner in which personal information may be obtained, used, or made available.
-(7) Section 65(2) saves the PA, Part 8, from the exclusion of civil liability.
-(8) Neither the Service database nor the record of usage history is a public register within the meaning of section 58 of the PA.
+(7) Section 65(2) saves the PA, Part 5, from the exclusion of civil liability.
+(8)
 
 **Offences and penalties**
 
@@ -780,7 +784,7 @@ The following provisions apply to the relationship between this Act and the Offi
 (1) Subsection (2) applies to any act or omission by the chief executive, an employee of the department, or another person acting on behalf of the chief executive in the course of—
   (a) performing functions or duties or exercising powers under this Act; or
   (b) purporting to perform functions or duties or exercise powers under this Act.
-(2) The persons referred to in subsection (1) are subject to Part 8 of the Privacy Act 1993 in respect of the act or omission, but—
+(2) The persons referred to in subsection (1) are subject to Part 5 of the Privacy Act 2020 in respect of the act or omission, but—
   (a) have no other civil liability for the act or omission; and
   (b) have no criminal liability for the act or omission.
 (3) There is no cause of action against the Crown or a Minister of the Crown, or against any other person, to recover damages for any loss or damage that is due directly or indirectly to—
