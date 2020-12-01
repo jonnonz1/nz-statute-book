@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2020-11-11_
+_Consolidation as at 2020-12-01_
 
 > Title
 
@@ -1286,12 +1286,14 @@ A warrant of commitment issued under section 83(2)﻿(b) or section 88AE(1)﻿(b
 ### 92A Interpretation
 (1) In this section and in sections 92B to 92I, unless the context otherwise requires,—
   - **access code** means any form of data that enables a recognised user to submit a fine status query
-  - **agency** has the same meaning as in section 2(1) of the Privacy Act 1993
+  - **agency** —
+    (a) means any person or body of persons whether incorporated or not, and whether in the public sector or the private sector; and
+    (b) for the avoidance of doubt, includes a department
   - **credit reporter** has the same meaning as in the credit reporting code of practice, but regardless of whether payment for information about creditworthiness is involved and whether that information is in respect of individuals or bodies corporate
-  - **credit reporting code of practice** means a code of practice relating to credit reporting for the time being issued under the Privacy Act 1993
+  - **credit reporting code of practice** means a code of practice relating to credit reporting for the time being issued under the Privacy Act 2020
   - **fine status query** means a query as to whether a query subject has a default balance and, if so, the amount of that balance
   - **fine status response** means a response to a fine status query
-  - **fines enforcement records** means the records of the Ministry of Justice described in Schedule 5 of the Privacy Act 1993 in the item relating to the enforcement of fines and other orders
+  - **fines enforcement records** means the records of the Ministry of Justice described in Schedule 4 of the Privacy Act 2020 in the item relating to the enforcement of fines and other orders
   - **identifying particulars** means,—
     (a) in the case of an individual, the individual's—
       (i) full name; and
@@ -1355,19 +1357,19 @@ A warrant of commitment issued under section 83(2)﻿(b) or section 88AE(1)﻿(b
 
 ### 92F Disclosure and use of fine status response restricted
 (1) A recognised user may not disclose the information contained in a fine status response unless the decision is made—
-  (a) for the purpose of making the information available, in accordance with the Privacy Act 1993, to the query subject to whom the information relates; or
+  (a) for the purpose of making the information available, in accordance with the Privacy Act 2020, to the query subject to whom the information relates; or
   (b) for the purposes of an audit conducted under section 92H or to a Registrar under section 100K; or
   (c) in accordance with subsection (2), in any case where the recognised user is a credit reporter.
 (2) A credit reporter may only disclose the information contained in a fine status response to the subscriber who requested the information, and only if the disclosure is made not later than 24 hours after receipt, under section 92E, of that response.
-(3) A person who contravenes this section or who discloses or uses information in contravention of any regulations made under section 92I is, for the purposes of Part 8 of the Privacy Act 1993, taken to have breached an information privacy principle under section 66(1)﻿(a)﻿(i) of that Act.
+(3) A person who contravenes this section or who discloses or uses information in contravention of any regulations made under section 92I must be treated, for the purposes of Parts 5 and 6 of the Privacy Act 2020, as having breached an information privacy principle under section 69(2)﻿(a)﻿(i) of that Act.
 
 ### 92G Query subject to be notified of proposed combination of information
 (1) This section applies where—
   (a) the identifying particulars submitted in a fine status query about a query subject diverge in 1 or more respects (the diverging particulars) from the identifying particulars by which a particular defendant, with a default balance, is identified in the fines enforcement records; and
   (b) the chief executive nevertheless has reason to believe that the identifying particulars are those of that defendant; and
   (c) the chief executive proposes to combine the diverging particulars with the identifying particulars shown in the fines enforcement records about the defendant.
-(2) Before the chief executive combines the diverging particulars with the identifying particulars shown in the fines enforcement records about the defendant, the chief executive must first comply with section 103 of the Privacy Act 1993 as if the diverging particulars were a discrepancy and the proposed combination were an adverse action taken against the query subject.
-(3) If, following the chief executive's compliance with section 103 of the Privacy Act 1993, any information in the fine status response sent to a recognised user about a query subject is shown to be incorrect, the chief executive must notify the recognised user of the corrected information.
+(2) Before the chief executive combines the diverging particulars with the identifying particulars shown in the fines enforcement records about the defendant, the chief executive must first comply with section 181 of the Privacy Act 2020 as if the diverging particulars were a discrepancy and the proposed combination were an adverse action taken against the query subject.
+(3) If, following the chief executive's compliance with section 181 of the Privacy Act 2020, any information in the fine status response sent to a recognised user about a query subject is shown to be incorrect, the chief executive must notify the recognised user of the corrected information.
 (4) If the recognised user is a credit reporter who has disclosed the information contained in the fine status response to a subscriber, the credit reporter must promptly advise the subscriber of the corrected information.
 (5) For the purposes of section 100K, any corrected information received by a recognised user or subscriber under subsection (3) or (4) must be disregarded.
 
