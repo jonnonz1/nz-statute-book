@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2020-11-01_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -307,8 +307,8 @@ A report complies with this section if—
   (c) the application of a remission policy, a postponement policy, or a rates relief policy for Māori freehold land to 1 or more parts of the rating unit.
 (6) The rating information database must be maintained so that it may be searched according to—
   (a) the reference number of the unit; or
-  (b) the address of the unit; or
-  (c) any other search reference that is set out in a code of practice issued under section 63 of the Privacy Act 1993.
+  (b) the address of the unit.
+  (c)
 (7) This section does not prevent a regional council from—
   (a) keeping a rating information database in separate parts for the constituent districts of the region; and
   (b) delegating the function of maintaining those parts to the territorial authorities concerned.
