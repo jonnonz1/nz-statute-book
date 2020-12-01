@@ -1,5 +1,5 @@
 # Food Act 2014
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Food Act 2014.
@@ -4356,7 +4356,7 @@ The chief executive must enter the outcome of each review of a decision describe
   (d) the staff members of the agencies or persons; and
   (e) constables.
 (2) The information is—
-  (a) personal information as defined in the Privacy Act 1993; and
+  (a) personal information as defined in the Privacy Act 2020; and
   (b) information about a food business that includes, to avoid doubt, confidential information or commercially sensitive information, or both.
 (3) The agencies are those that perform functions under, or administer, any of the following Acts:
   (a) this Act; or
@@ -4422,7 +4422,7 @@ The chief executive must enter the outcome of each review of a decision describe
 ### 370 Disclosing information outside New Zealand: rules
 (1) The chief executive may disclose information to an overseas person under this section.
 (2) The information that may be disclosed is—
-  (a) personal information, as defined in the Privacy Act 1993, that is supplied or obtained under or for the purposes of this Act; and
+  (a) personal information, as defined in the Privacy Act 2020, that is supplied or obtained under or for the purposes of this Act; and
   (b) information about a food business that includes, to avoid doubt, confidential information or commercially sensitive information, or both.
 (3) The disclosure may be made only if—
   (a) section 371 is satisfied; or
