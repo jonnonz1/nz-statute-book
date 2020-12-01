@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -1073,7 +1073,7 @@ If the bankrupt defaults in making a payment required under section 147, the onu
   (d) all proofs of debt:
   (e) the minutes of any creditors' meeting:
   (f) the record of any examination of the bankrupt.
-(2) The bankrupt's right of inspection under subsection (1) is in addition to any rights that the bankrupt has under the Privacy Act 1993.
+(2) The bankrupt's right of inspection under subsection (1) is in addition to any rights that the bankrupt has under the Privacy Act 2020.
 
 **Restrictions on bankrupt dealing with property**
 
@@ -3467,7 +3467,7 @@ Nothing in this subpart prevents the use of information contained in the public 
   (b) is not published in any form that could reasonably be expected to identify any person.
 
 ### 456 When search breaches information privacy principle
-A person who searches a public register for a purpose that is not a purpose set out in section 454 must be treated, for the purposes of Part 8 of the Privacy Act 1993, as if that person has breached an information privacy principle under section 66(1)﻿(a)﻿(i) of that Act.
+A person who searches a public register for a purpose that is not a purpose set out in section 454 must be treated, for the purposes of Parts 5 and 6 of the Privacy Act 2020, as having breached an information privacy principle under section 69(2)﻿(a)﻿(i) of that Act.
 
 ### 457 Crown and Assignee not liable for act or omission
 The Crown and the Assignee cannot be sued for any act or omission in relation to the maintenance of a public register under this subpart done or omitted to be done in good faith and with reasonable care.
