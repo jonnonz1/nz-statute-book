@@ -1,5 +1,5 @@
 # Citizenship Act 1977
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 > An Act to make better provision with respect to the status of New Zealand citizenship, and to consolidate and amend the British Nationality and New Zealand Citizenship Act 1948
 
@@ -306,16 +306,20 @@ A person who ceases to be a New Zealand citizen shall not thereby be discharged 
 (1) Notwithstanding section 17 or section 27 of the Crown Proceedings Act 1950, but subject to subsection (2), no court shall have power in any civil proceedings to require the Crown to make discovery of a document or to produce a document for inspection if the document is held by or on behalf of the Crown for any of the purposes of this Act.
 (2) Subsection (1) does not apply to proceedings relating to any matter arising under this Act to which the Crown is a party.
 
-### 26A Disclosure of citizenship information to certain specified agencies for certain purposes
-(1) The purpose of this section is to authorise the disclosure of citizenship information to certain specified agencies for certain purposes.
-(2) The Secretary and the chief executive of a specified agency listed in the first column of Schedule 4 may enter into an agreement for the disclosure by the Secretary to the chief executive of citizenship information only for the purpose described in the second column in relation to the specified agency.
+### 26A Disclosure of citizenship information to certain agencies for certain purposes
+(1) The purpose of this section is to authorise the disclosure of citizenship information to certain agencies for certain purposes.
+(2) The Secretary and the chief executive of an agency listed in the first column of Schedule 4 may enter into an agreement for the disclosure by the Secretary to the chief executive of citizenship information only for the purpose described in the second column in relation to the agency.
 (3) For the purposes of subsection (2), an agreement made in relation to citizenship information to be used to verify whether a person is eligible to hold a New Zealand passport, must be entered into by the Secretary in his or her capacity as the holder of citizenship information with himself or herself in the capacity as the holder of information under the Passports Act 1992.
 (4) An agreement entered into under subsection (2) may be varied by the Secretary and the chief executive.
 (5) The Secretary may disclose citizenship information to the chief executive only in accordance with Schedule 4 and an agreement entered into under subsection (2).
 (5A) Despite anything in this section, the Secretary may disclose information about a person's citizenship status or the citizenship status of a person's parent or parents to the Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 for the purpose of recording that person's citizenship status on his or her birth record.
-(6) In this section,—
-  - **citizenship information** means information held by the Secretary that relates to the acquisition or loss of citizenship by, or the citizenship status of, any person; and includes information as to any change of identity or gender
-  - **specified agency** has the meaning given to it by section 97 of the Privacy Act 1993.
+(5B) On or after 1 December 2020, no information may be supplied under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an information matching agreement entered into under subpart 4 of Part 7 of the Privacy Act 2020; or
+  (c) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
+(6) In this section, citizenship information—
+  (a) means information held by the Secretary that relates to the acquisition or loss of citizenship by, or the citizenship status of, any person; and
+  (b) includes information as to any change of identity or gender.
 
 ### 26B Access to information for citizenship purposes
 (1) The Secretary and the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Immigration Act 2009 (the chief executive) may enter into an agreement for access by the Secretary, or officers of the Department of Internal Affairs designated by the Secretary for the purpose, to information held by the chief executive by virtue of being responsible for the administration of the Immigration Act 2009 that is needed for or relevant to—
@@ -406,9 +410,9 @@ Consents given under section 3(5A)﻿(b)﻿(i) or (ii) before the commencement d
 
 ## Schedule 3 — Enactments consequentially amended
 
-## Schedule 4 — Disclosure of information to specified agencies
+## Schedule 4 — Disclosure of information to agencies
 
-| Specified agency | Purpose |
+| Agency | Purpose |
 | --- | --- |
 | Department of Internal Affairs | To verify whether a person is eligible to hold a New Zealand passport |
 | Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 | For the Registrar-General to be satisfied whether or not a person is a New Zealand citizen |
