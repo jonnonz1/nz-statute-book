@@ -1,5 +1,5 @@
 # Financial Reporting Act 2013
-_Consolidation as at 2020-01-13_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Financial Reporting Act 2013.
@@ -215,8 +215,8 @@ Except as expressly provided otherwise in this or another Act, the Board must ac
 ### 21 Interpretation in sections 22 to 26
 In sections 22 to 26,—
   - **amendment** means an amendment of a standard or an authoritative notice
-  - **personal information** has the same meaning as in section 2(1) of the Privacy Act 1993
-  - **Privacy Commissioner** has the same meaning as Commissioner in section 2(1) of the Privacy Act 1993
+  - **personal information** has the same meaning as in section 7(1) of the Privacy Act 2020
+  - **Privacy Commissioner** has the same meaning as Commissioner in section 7(1) of the Privacy Act 2020
   - **revocation** means a revocation of a standard or an authoritative notice or of any amendment of a standard or an authoritative notice.
 
 ### 22 Consultation
@@ -225,8 +225,8 @@ In sections 22 to 26,—
 (3) Any failure to comply with subsection (1) or (2) does not affect the validity of the standard, authoritative notice, amendment, or revocation.
 (4) This section does not limit section 16 or 17 of the Crown Entities Act 2004.
 
-### 23 Disclosure required to comply with standards does not breach privacy principles
-(1) The disclosure of personal information is not a breach of principle 10 or 11 of the Privacy Act 1993 if the disclosure is required for compliance with a standard or an authoritative notice.
+### 23 Disclosure required to comply with standards does not breach information privacy principles
+(1) The disclosure of personal information is not a breach of information privacy principle 10, 11, or 12 set out in section 22 of the Privacy Act 2020 if the disclosure is required for compliance with a standard or an authoritative notice.
 (2) Subsection (1) does not apply to standards issued or approved before the commencement of the Financial Reporting Amendment Act 2001.
 
 ### 24 Public notice
