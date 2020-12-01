@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Act 1987
-_Consolidation as at 2020-11-01_
+_Consolidation as at 2020-12-01_
 
 > An Act to make official information held by local authorities more freely available, to provide for proper access by each person to official information relating to that person which is held by local authorities, to provide for the admission of the public to meetings of local authorities, to protect official information held by local authorities and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy, and to establish procedures for the achievement of those purposes
 
@@ -34,7 +34,7 @@ _Consolidation as at 2020-11-01_
       (i) information contained in library or museum material made or acquired and preserved solely for reference or exhibition purposes; or
       (ii) information which is held by a local authority solely as an agent or for the sole purpose of safe custody and which is so held on behalf of a person other than a local authority; or
       (iii) information contained in any correspondence or communication that has taken place between the office of the Ombudsmen and any local authority and that relates to an investigation conducted by an Ombudsman under this Act or under the Ombudsmen Act 1975, other than information that came into existence before the commencement of that investigation; and
-    (c) does not include information contained in any correspondence or communication that has taken place between the office of the Privacy Commissioner and any local authority and that relates to any investigation conducted by the Privacy Commissioner under the Privacy Act 1993, other than information that came into existence before the commencement of that investigation
+    (c) does not include information contained in any correspondence or communication that has taken place between the office of the Privacy Commissioner and any local authority and that relates to any investigation conducted by the Privacy Commissioner under the Privacy Act 2020, other than information that came into existence before the commencement of that investigation
   - **Ombudsmen** means the Ombudsmen holding office under the Ombudsmen Act 1975
   - **organisation** means—
     (a) an organisation named in Part 2 of Schedule 1 of the Ombudsmen Act 1975 (other than the Parliamentary Service Commission):
@@ -125,7 +125,7 @@ Where a request under this Act relates to information to which section 6 or sect
 (1AA) A request under subsection (1)—
   (a) may be made in any form and communicated by any means (including orally); and
   (b) does not need to refer to this Act.
-(1A) Notwithstanding subsection (1), a request made, on or after the date of commencement of this subsection, by or on behalf of a natural person for access to any personal information which is about that person shall be deemed to be a request made pursuant to subclause (1)﻿(b) of principle 6 of the Privacy Act 1993, and shall be dealt with accordingly, and nothing in this Part or in Part 5 shall apply in relation to any such request.
+(1A) Notwithstanding subsection (1), a request made, on or after the date of commencement of this subsection, by or on behalf of a natural person for access to any personal information which is about that person shall be deemed to be a request made pursuant to information privacy principle 6(1)﻿(b) set out in section 22 of the Privacy Act 2020, and shall be dealt with accordingly, and nothing in this Part or in Part 5 shall apply in relation to any such request.
 (2) The official information requested shall be specified with due particularity in the request.
 (3) If the person making the request asks that that request be treated as urgent, that person shall give that person's reasons for seeking the information urgently.
 (4) A local authority to which an oral request is made under subsection (1) may, if written clarification is reasonably necessary, ask the person requesting the information to put the request in writing to clarify the request.
@@ -353,7 +353,7 @@ Where a request is made under section 23(1), the local authority—
   (c) contain such other information as is necessary.
 
 ### 29A Consultation with Privacy Commissioner
-Where an Ombudsman investigates a complaint made under section 27 in relation to a refusal to make official information available in reliance on section 7(2)﻿(a), the Ombudsman shall, before forming a final opinion under section 30 in relation to the merits of refusing that request on that ground, consult with the Privacy Commissioner under the Privacy Act 1993.
+Where an Ombudsman investigates a complaint made under section 27 in relation to a refusal to make official information available in reliance on section 7(2)﻿(a), the Ombudsman shall, before forming a final opinion under section 30 in relation to the merits of refusing that request on that ground, consult with the Privacy Commissioner under the Privacy Act 2020.
 
 ### 30 Procedure after investigation
 (1) Where, after making an investigation of a complaint made under section 27, an Ombudsman is of the opinion—the Ombudsman shall, subject to subsection (2) of this section,—
