@@ -1,5 +1,5 @@
 # Crown Pastoral Land Act 1998
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 > An Act—ato establish a system for reviewing the tenure of Crown land held under certain perpetually renewable leases; andbto establish a system for determining how Crown land formerly held under pastoral occupation licence, and certain other Crown land, should be dealt with; andcotherwise to provide for the administration of Crown pastoral land
 
@@ -768,7 +768,7 @@ If a substantive proposal designates any land held under a reviewable instrument
   (c) any measures that can reasonably and practicably be taken to avoid, remedy, or mitigate any adverse effects of each activity:
   (d) any relevant environmental impact assessment, including any audit or review:
   (e) any relevant matters contained in the information sent to the Minister under section 45(b) in relation to the preliminary proposal concerned:
-  (f) any relevant information that may be withheld from any person in accordance with the Official Information Act 1982 or the Privacy Act 1993.
+  (f) any relevant information that may be withheld from any person in accordance with the Official Information Act 1982 or the Privacy Act 2020.
 (3) The Minister of Conservation may refuse consent to a substantive proposal containing a concession designation if the Minister considers that—
   (a) the information available to the Minister is insufficient or inadequate to enable the Minister to assess the effects (including the effects of any proposed methods to avoid, remedy, or mitigate the adverse effects) of any activity proposed to be carried on, or facility proposed, under the concessions concerned; or
   (b) there are no adequate methods or no reasonable methods for remedying, avoiding, or mitigating the adverse effects of any activity proposed to be carried on, or facility proposed, under the concessions concerned.
