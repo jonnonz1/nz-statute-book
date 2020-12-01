@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2020-08-26_
+_Consolidation as at 2020-12-01_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights
 
@@ -1762,7 +1762,7 @@ Every person commits an offence against this Act and is liable on conviction to 
 (1) The person who, immediately before the commencement of this section, held office as Chief Commissioner under section 7(1)﻿(a) (as it read immediately before the commencement of this section) is taken to have been appointed to the office of Chief Commissioner under section 8(1)﻿(a) (as substituted by section 5 of the Human Rights Amendment Act 2001).
 (2) The person who, immediately before the commencement of this section, held office as the Race Relations Conciliator is taken to have been appointed to the office of Race Relations Commissioner under section 8(1)﻿(b) (as substituted by section 5 of the Human Rights Amendment Act 2001).
 (3) Every person who, immediately before the commencement of this section, held office as Commissioner under section 7(1)﻿(e) (as it read immediately before the commencement of this section) is taken to have been appointed to the office of Commissioner under section 8(1)﻿(d) (as substituted by section 5 of the Human Rights Amendment Act 2001).
-(4) The Privacy Commissioner appointed under the Privacy Act 1993 and the Commissioner appointed to be Proceedings Commissioner under section 7(1)﻿(d) (as it read before the commencement of the Human Rights Amendment Act 2001) cease to be Human Rights Commissioners on the commencement of this section.
+(4) The Privacy Commissioner appointed under the Privacy Act 2020 and the Commissioner appointed to be Proceedings Commissioner under section 7(1)﻿(d) (as it read before the commencement of the Human Rights Amendment Act 2001) cease to be Human Rights Commissioners on the commencement of this section.
 (5) Every person who is taken to have been appointed to the office of Commissioner under this section is appointed on the same terms and conditions and for the remainder of the term for which the person was appointed under section 7(1) (as it read immediately before the commencement of this section).
 
 **Race Relations Conciliator**
