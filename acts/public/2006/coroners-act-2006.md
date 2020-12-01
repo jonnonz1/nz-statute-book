@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2020-08-26_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -405,7 +405,7 @@ A coroner is not required to view any body.
   (a) is not a certificate or notice specified in section 28(1); and
   (b) was given by a coroner to the Secretary under this Act.
 (2) The availability of documents requested under subsection (1) must be determined,—
-  (a) in the case of a request made by the individual to whom the information concerned relates, in accordance with the Privacy Act 1993; or
+  (a) in the case of a request made by the individual to whom the information concerned relates, in accordance with the Privacy Act 2020; or
   (b) in any other case, in accordance with the Official Information Act 1982.
 (3) Nothing in this section authorises—
   (a) the publication of a document contrary to a prohibition under section 74 (which empowers the coroner to prohibit the making public of evidence given at any part of inquiry proceedings); or
