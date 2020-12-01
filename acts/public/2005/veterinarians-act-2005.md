@@ -1,5 +1,5 @@
 # Veterinarians Act 2005
-_Consolidation as at 2019-04-12_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Veterinarians Act 2005.
@@ -434,7 +434,7 @@ In the performance and exercise of its decision-making functions and powers unde
 ### 42 Compliance with requirement to provide information or document
 (1) A person who receives a notice under section 41 must, without charge, comply with the requirement stated in the notice in the manner and within the period (being not less than 10 working days after the notice is given to the person) specified in the notice.
 (2) Subsection (1) does not require a person to provide any information or produce any document that would be privileged in a court of law.
-(3) No person is required to produce to a committee any papers, records, documents, or things if compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on the person by an enactment (other than the Official Information Act 1982 or the Privacy Act 1993).
+(3) No person is required to produce to a committee any papers, records, documents, or things if compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on the person by an enactment (other than the Official Information Act 1982 or the Privacy Act 2020).
 (4) Every person commits an offence, and is liable on conviction to a fine not exceeding $10,000, who, when required to comply with a notice given under section 41,—
   (a) refuses or fails without reasonable excuse to comply with the notice; or
   (b) knowingly or recklessly provides information that is false or misleading in any material particular.
