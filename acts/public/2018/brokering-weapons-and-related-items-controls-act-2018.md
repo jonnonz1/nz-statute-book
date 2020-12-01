@@ -1,5 +1,5 @@
 # Brokering (Weapons and Related Items) Controls Act 2018
-_Consolidation as at 2018-05-21_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Brokering (Weapons and Related Items) Controls Act 2018.
@@ -391,7 +391,7 @@ If the Secretary refuses to give a broker a permit, the Secretary must give the 
   (b) the Secretary considers that the disclosure of the information on the public register would constitute an unreasonable interference with the privacy of any individual.
 
 ### 44 Consequential amendment
-Amend the enactment specified in Schedule 2 as set out in that schedule.
+[Repealed]
 
 ## Schedule 1 — Transitional, savings, and related provisions
 
@@ -406,6 +406,3 @@ Amend the enactment specified in Schedule 2 as set out in that schedule.
   - **strategic goods list** means the list of all goods and classes of goods whose exportation is prohibited under section 56 of the Customs and Excise Act 1996 because they have or may have a strategic use (within the meaning of section 56(2A) of that Act) that the Secretary is required to maintain and to publish under section 56(2G) and (2H) of that Act.
 
 ## Schedule 2 — Consequential amendment
-
-| Brokering (Weapons and Related Items) Control Act 2018 | Section 43 |
-| --- | --- |
