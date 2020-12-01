@@ -1,5 +1,5 @@
 # Radiation Safety Act 2016
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Radiation Safety Act 2016.
@@ -427,7 +427,7 @@ A person who has management or control of a controlled radiation source must,—
   (a) for a purpose specified in section 30(3)﻿(a) to (c); or
   (b) if it is necessary to prevent or lessen a serious and imminent threat to the health or safety of people or to the environment; or
   (c) if it is necessary to avoid prejudice to the maintenance of the law (including the prevention, detection, investigation, prosecution, and punishment of offences); or
-  (d) for a purpose authorised by the Privacy Commissioner under section 54(1) of the Privacy Act 1993; or
+  (d) for a purpose authorised by the Privacy Commissioner under section 30 of the Privacy Act 2020; or
   (e) if the information from the search is needed to plan for responses to any emergency.
 (2) In this section, approved person means—
   (a) the Director-General; or
