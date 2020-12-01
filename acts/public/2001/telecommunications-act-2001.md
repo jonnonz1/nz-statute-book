@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2020-09-03_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -2142,7 +2142,7 @@ For a determination made under this Part, the Commission—
   (b) satisfactory provision exists to protect the confidentiality of any information that—
     (i) the person who supplied it has advised is confidential; or
     (ii) may reasonably be regarded as confidential; and
-  (c) the inclusion of that information does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+  (c) the inclusion of that information does not constitute an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 (2) However, if the Commission considers that compliance with subsection (1)﻿(a) will, or is likely to, prejudice compliance with subsection (1)﻿(b) or (c), the Commission—
   (a) may aggregate the information before it is included under section 100B; and
   (b) may do so in any manner that it thinks fit.
@@ -5710,7 +5710,7 @@ The provider of the approved scheme must maintain and publicise a list of curren
 (1) The provider of the approved scheme must, on request by the Minister, provide information on the following:
   (a) matters relating to any information or reports that the provider of the approved scheme is required to provide under the rules of the scheme:
   (b) the scheme's compliance with the principles listed in clause 4(2).
-(2) Nothing in this clause or clause 14 authorises a breach of the Privacy Act 1993 or any obligation of confidentiality.
+(2) Nothing in this clause or clause 14 authorises a breach of the Privacy Act 2020 or any obligation of confidentiality.
 
 **Regulated scheme: rules of scheme and appointment of provider**
 
