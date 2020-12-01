@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2020-09-25_
+_Consolidation as at 2020-12-01_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -131,9 +131,9 @@ Nothing in section 13 shall permit an Ombudsman to investigate any decision or r
 (2) If an Ombudsman refuses to investigate or further investigate a complaint, the Ombudsman must inform the complainant of the decision and give his or her reasons for it.
 
 ### 17A Referral of complaint to Privacy Commissioner
-(1) Where, on receiving a complaint under this Act, an Ombudsman considers that the complaint relates, in whole or in part, to a matter that is more properly within the jurisdiction of the Privacy Commissioner under the Privacy Act 1993, the Ombudsman shall forthwith consult with the Privacy Commissioner in order to determine the appropriate means of dealing with the complaint.
+(1) Where, on receiving a complaint under this Act, an Ombudsman considers that the complaint relates, in whole or in part, to a matter that is more properly within the jurisdiction of the Privacy Commissioner under the Privacy Act 2020, the Ombudsman shall forthwith consult with the Privacy Commissioner in order to determine the appropriate means of dealing with the complaint.
 (2) As soon as practicable after consulting with the Privacy Commissioner under subsection (1), the Ombudsman shall determine whether the complaint should be dealt with, in whole or in part, under this Act.
-(3) If the Ombudsman determines that the complaint should be dealt with, in whole or in part, under the Privacy Act 1993, the Ombudsman shall forthwith refer the complaint or, as the case requires, the appropriate part of the complaint to the Privacy Commissioner to be dealt with accordingly, and shall notify the complainant of the action that has been taken.
+(3) If the Ombudsman determines that the complaint should be dealt with, in whole or in part, under the Privacy Act 2020, the Ombudsman shall forthwith refer the complaint or, as the case requires, the appropriate part of the complaint to the Privacy Commissioner to be dealt with accordingly, and shall notify the complainant of the action that has been taken.
 
 ### 17B Referral of complaint to Health and Disability Commissioner
 (1) Where, on receiving a complaint under this Act, an Ombudsman considers that the complaint relates, in whole or in part, to a matter that is more properly within the jurisdiction of the Health and Disability Commissioner under the Health and Disability Commissioner Act 1994, the Ombudsman shall forthwith consult with the Health and Disability Commissioner in order to determine the appropriate means of dealing with the complaint.
@@ -199,7 +199,7 @@ Nothing in section 13 shall permit an Ombudsman to investigate any decision or r
   (c) any information, answer, document, paper, or thing obtained by an Ombudsman by reason only of compliance with a requirement made pursuant to subsection (3) of section 19.
 
 ### 21A Consultation with Privacy Commissioner
-Notwithstanding anything in section 21, an Ombudsman may from time to time undertake consultation with the Privacy Commissioner under the Privacy Act 1993 in relation to any matter relating to the functions of the Ombudsman, including (without limitation) consultation—and for the purposes of any such consultation, an Ombudsman may disclose to the Privacy Commissioner such information as the Ombudsman considers necessary for that purpose.
+Notwithstanding anything in section 21, an Ombudsman may from time to time undertake consultation with the Privacy Commissioner under the Privacy Act 2020 in relation to any matter relating to the functions of the Ombudsman, including (without limitation) consultation—and for the purposes of any such consultation, an Ombudsman may disclose to the Privacy Commissioner such information as the Ombudsman considers necessary for that purpose.
   (a) for the purposes of making a determination under section 17A:
   (b) in relation to any matter arising out of or in the course of an investigation under this Act or any other enactment:
   (c) in relation to any matter relating to privacy, whether or not the matter arises out of a particular complaint made under this Act,—
