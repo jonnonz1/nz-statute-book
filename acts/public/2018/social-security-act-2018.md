@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2020-11-09_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -2006,7 +2006,7 @@ As soon as practicable after MSD is notified of the issue of the warrant, MSD mu
     (ii) take steps to resolve the warrant; and
   (b) specify the steps that P may take to dispute that P is the subject of the warrant or to resolve the warrant; and
   (c) specify the consequences if P fails to resolve the warrant within the 10-working-day period.
-(2) An unresolved warrant notice that involves information supplied by the Ministry of Justice under clause 15 of Schedule 6 may be combined with a notice of adverse action given under section 103(1) of the Privacy Act 1993.
+(2) An unresolved warrant notice that involves information supplied by the Ministry of Justice under clause 15 of Schedule 6 may be combined with a notice of adverse action given under section 181(1) of the Privacy Act 2020.
 
 ### 213 Immediate suspension of benefit at request of New Zealand Police
 MSD may suspend immediately a benefit payable to a person (P) if—
@@ -3473,7 +3473,15 @@ The following matters are to be at rates, and subject to conditions, determined 
     (ii) supply each other with information for social security purposes; and
   (b) that does not relate solely to the recovery of moneys paid under the agreement in excess of that to which the recipient was entitled under that agreement.
 (2) No order may be made under section 380 in respect of the agreement or alteration unless the Privacy Commissioner has first presented to the Minister and to the Minister of Justice a report on the following matters:
-  (a) whether the mutual assistance provision complies with the privacy principles set out in the Privacy Act 1993, having regard to the matters set out in paragraphs (a) to (f) of section 98 of that Act:
+  (a) whether the mutual assistance provision complies with the information privacy principles set out in section 22 of the Privacy Act 2020, having regard to—
+    (i) whether the objective of the provision relates to a matter of significant public importance:
+    (ii) whether the use of the provision to achieve that objective will result in significant and quantifiable monetary savings, or in other comparable benefits to society:
+    (iii) whether the use of an alternative means of achieving that objective would give either of the results referred to in paragraph (ii):
+    (iv) whether the public interest in allowing the provision to proceed outweighs the public interest in adhering to the information privacy principles that the provision would otherwise contravene:
+    (v) whether the provision involves information matching on a scale that is excessive, having regard to—
+      (A) the number of agencies that will be involved; and
+      (B) the amount of detail about an individual that will be matched under the provision:
+    (vi) whether the provision will comply with the information matching rules in Schedule 6 of the Privacy Act 2020:
   (b) if the mutual assistance provision is one for the Governments of New Zealand and the other country to supply each other with information for social security purposes, the adequacy of the privacy protection given in the other country to information about any individual that may be supplied by New Zealand under the provision.
 
 ### 382 Interpretation
@@ -3517,13 +3525,13 @@ Reciprocity agreements with other countries may contain and include mutual assis
 (3) MSD may from time to time, in accordance with arrangements made in an agreement with the Commissioner of Inland Revenue, supply any information received from the competent institution of the other country to the Commissioner for either or both of the following purposes:
   (a) making an assessment of the tax due by any person under the taxation laws of the requesting party (which, in this subsection, means the party to whom information is supplied by the requested institution of the other party):
   (b) detecting tax fraud or tax evasion under the laws of the requesting party:
-(4) Sections 100 to 102 and 104 to 106 of the Privacy Act 1993 apply in respect of the provision as if the provision were an authorised information matching programme and MSD were the only specified agency involved in that programme.
+(4) Sections 179, 180, and 182 to 185 of the Privacy Act 2020 apply in respect of the provision as if the provision were an authorised information matching programme (as that term is defined in section 177 of the Privacy Act 2020) and MSD were the only specified agency involved in that programme.
 
 **Adverse action arising from discrepancy**
 
 ### 386 Adverse action against individual if discrepancy shown by information from other country
 (1) This section applies if information received by MSD from the competent institution of the other country under a mutual assistance provision for information exchange has produced a discrepancy, and as a result MSD proposes to take an adverse action against an individual.
-(2) In this section, expressions defined in section 97 of the Privacy Act 1993 have the meanings so defined, with all necessary modifications.
+(2) In this section, expressions defined in section 177 of the Privacy Act 2020 have the meanings so defined, with all necessary modifications.
 (3) The processes to be followed (if MSD proposes, as a result of the discrepancy, to take an adverse action against the individual) are set out in regulations made under section 450.
 
 ### Subpart 8 — Prosecutions and debt-recovery proceedings, and maintenance proceedings
@@ -3885,7 +3893,7 @@ Regulations for purposes of specified provisions
   (m) section 373(1)﻿(a)﻿(ii) and (b) (administration service providers: contracts):
   (n) section 374(1)﻿(c) (administration service providers: contents and form of contracts):
   (o) clause 11 of Schedule 3, definition of appropriate number of weeks, paragraph (b) (calculation of income: interpretation):
-  (p) clause 10(3) of Schedule 6 (code of conduct: relationship with Privacy Act 1993 code of practice):
+  (p) clause 10(3) of Schedule 6 (code of conduct: relationship with Privacy Act 2020 code of practice):
   (q) clause 20(2) of Schedule 6 (disclosure of information about people to whom service provider’s contract applies).
 Regulations for other matters contemplated, necessary for administration, or necessary for giving full effect
 (2) The Governor-General may, by Order in Council, make regulations providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
@@ -4857,7 +4865,7 @@ Regulations made under section 132A of the Social Security Act 1964 are saved as
 The code of conduct issued under sections 11(1), 11B, and 11C of the Social Security Act 1964 is saved as if it had been issued under clauses 2(4), 4, 8, and 9 of Schedule 6 (code of conduct for information or documents requirements).
 
 ### 62 Information disclosure arrangements and determinations
-Arrangements or determinations made under section 126A, 126AB, or 126AC of the Social Security Act 1964 are saved as if they were arrangements or determinations made under (as the case requires) clause 13, 14, or 15 of Schedule 6.
+Arrangements or determinations made under section 126A or 126AC of the Social Security Act 1964 are saved as if they were arrangements or determinations made under (as the case requires) clause 13 or 15 of Schedule 6.
 
 ### 63 Information disclosure: order and regulations
 (1) The Social Security (Youth Support—Authorised Agencies) Order 2012 made under section 125D of the Social Security Act 1964 is saved as if it were made under clause 18 of Schedule 6.
@@ -5457,40 +5465,15 @@ Information may be obtained under clause 2 for all or any of the following purpo
 (4) A person who commits an offence against this clause is liable on conviction to a fine not exceeding $2,000.
 
 ### 6 Power to obtain for matching purposes information from employers
-(1) This clause applies to an employer if MSD has reason to suspect that there is, or may have been, employed by the employer, a person or people—
-  (a) to whom benefits, or payments under this Act, have been paid that should not have been; or
-  (b) to whom entitlement cards have been issued that should not have been; or
-  (c) in respect of whom, or in respect of whose spouse or partner, there has been conducted under Part 6 or 8 of the Residential Care and Disability Support Services Act 2018 a means assessment that is not correct.
-(2) MSD may issue a notice under clause 2 to that employer requiring that employer to give to MSD, within a period (of 5 or more working days after the notice is given), and in the manner, stated in the notice, the following information (so that it can be used in an information-matching programme):
-  (a) the names and addresses of all, or of a specified class, of that employer’s employees (including any former employees who were employed by that employer within a specified period); and
-  (b) the tax file numbers (as defined in section YA 1 of the Income Tax Act 2007) of those employees or former employees.
-(3) Subclause (2) applies whether or not MSD is able to identify any employees or former employees of that employer as being individuals who—
-  (a) are or have been receiving a benefit, or payment under this Act; or
-  (b) are or have been issued with entitlement cards under regulations in force under section 437; or
-  (c) have had their financial circumstances, or the financial circumstances of their spouse or partner, assessed under either or both of Parts 6 and 8 of the Residential Care and Disability Support Services Act 2018.
-(4) In this clause and clause 7,—
-  (a) information-matching programme means the comparison of information obtained under subclause (2) with other personal information held by MSD for the purpose of producing or verifying information about an identifiable individual; and
-  (b) expressions otherwise defined in section 97 of the Privacy Act 1993 have the meanings so defined, with all necessary modifications.
-(5) This clause does not authorise MSD to issue a notice to an employer more than once in a 12-month period.
+[Repealed]
 
 ### 7 Matching of information obtained from employer
-(1) If MSD obtains information under a notice issued under clause 2, and that information, when used in an information-matching programme, produces a discrepancy, MSD must not take adverse action against an individual in relation to that discrepancy—
-  (a) unless MSD has given that individual written notice—
-    (i) specifying particulars of the discrepancy and of the adverse action MSD proposes to take; and
-    (ii) stating that the individual has 5 working days from the receipt of the notice in which to show cause why the action should not be taken; and
-  (b) until the expiration of those 5 working days.
-(2) Subclause (1) does not prevent MSD from taking adverse action against an individual if compliance with the requirements of that subclause would prejudice any investigation into the commission, or possible commission, of an offence.
-(3) Sections 100 to 102 and 104 to 106 of the Privacy Act 1993, and the information matching rules specified in Schedule 4 of that Act, apply, with all necessary modifications, to any information obtained by MSD under clause 6 and to any information-matching programme using that information.
-(4) Despite rule 4 of those rules as applied by subclause (3),—
-  (a) MSD must not be required to prepare more than 1 technical standards report in respect of information received from any employer or employers under clause 6 if the standards in that report are to apply to information so obtained from any employers generally; and
-  (b) MSD must not be required to make that report available to any employer given notice under clause 6, and nor must any employer of that kind be required to hold a copy of that report.
-(5) If MSD fails to comply, in relation to an individual, with subclause (1) or with any of the sections or rules applied by subclause (3), the failure must, for the purposes of Part 8 of the Privacy Act 1993, be taken to constitute a failure to comply with Part 10 of that Act.
-(6) This clause does not limit section 103(1A) of the Privacy Act 1993.
+[Repealed]
 
 **Code of conduct for information or documents requirements**
 
 ### 8 General
-(1) MSD must, in consultation with the Privacy Commissioner appointed under the Privacy Act 1993, ensure there is in force at all times after the commencement of this clause a code of conduct that is issued by MSD, and that applies in respect of requirements under clause 2 for a person to give MSD information or documents.
+(1) MSD must, in consultation with the Privacy Commissioner appointed under the Privacy Act 2020, ensure there is in force at all times after the commencement of this clause a code of conduct that is issued by MSD, and that applies in respect of requirements under clause 2 for a person to give MSD information or documents.
 (2) MSD must in making a requirement under clause 2 comply with every issued code of conduct.
 (3) The code of conduct—
   (a) must include the matters specified in clause 9; and
@@ -5512,10 +5495,10 @@ Information may be obtained under clause 2 for all or any of the following purpo
   (a) cause to suspect that the beneficiary has committed an offence under this Act, under regulations made under this Act, or under the Residential Care and Disability Support Services Act 2018, or has obtained by fraud any payment or credit or advance under this Act:
   (b) the fact that the beneficiary or a spouse or partner of that beneficiary has failed within a reasonable time, or refused, to provide any information or produce any document in accordance with a request or requirement made to that person in accordance with subclause (1)﻿(a).
 
-### 10 Relationship with Privacy Act 1993 code of practice
-(1) Nothing in the code of conduct can affect any code of practice issued by the Privacy Commissioner under Part 6 of the Privacy Act 1993 that applies to the information required under clause 2, and MSD, in consultation with the Privacy Commissioner, must amend the code of conduct to conform with any code of practice of that kind.
+### 10 Relationship with Privacy Act 2020 code of practice
+(1) Nothing in the code of conduct can affect any code of practice issued by the Privacy Commissioner under Part 3 of the Privacy Act 2020 that applies to the information required under clause 2, and MSD, in consultation with the Privacy Commissioner, must amend the code of conduct to conform with any code of practice of that kind.
 (2) Subclause (1) is subject to regulations made under subclause (3).
-(3) The Governor-General may, on the advice of the Minister given after consultation with the Privacy Commissioner, by Order in Council, make regulations under section 418(1)﻿(p) authorising MSD to obtain all or any of the following using a requirement under clause 2, even though the making of that requirement would otherwise be in breach of any code of practice issued by the Privacy Commissioner under Part 6 of the Privacy Act 1993:
+(3) The Governor-General may, on the advice of the Minister given after consultation with the Privacy Commissioner, by Order in Council, make regulations under section 418(1)﻿(p) authorising MSD to obtain all or any of the following using a requirement under clause 2, even though the making of that requirement would otherwise be in breach of any code of practice issued by the Privacy Commissioner under Part 3 of the Privacy Act 2020:
   (a) any specified class of information or document:
   (b) information or documents from any specified class of persons:
   (c) information or documents in any specified manner.
@@ -5531,7 +5514,7 @@ Information may be obtained under clause 2 for all or any of the following purpo
   (a) is required by a requirement under clause 2 to give any information or document; or
   (b) is the subject of the information or document required by the requirement under clause 2.
 (2) The person may make a complaint to the Privacy Commissioner that the requirement breaches the code of conduct issued under clause 8.
-(3) Part 8 of the Privacy Act 1993 applies to the complaint as if the code of conduct were a code of practice issued under Part 6 of the Privacy Act 1993.
+(3) Parts 5 and 6 of the Privacy Act 2020 apply to the complaint as if the code of conduct were a code of practice issued under Part 3 of that Act.
 
 **Information disclosure**
 
@@ -5543,6 +5526,9 @@ Information may be obtained under clause 2 for all or any of the following purpo
 (5) After receiving the request, MSD may supply the information requested—
   (a) to a Ministry of Justice officer or employee whom the chief executive of the Ministry of Justice has authorised to receive that information; and
   (b) in a form determined by the chief executive of the Ministry of Justice and MSD.
+(5A) On or after 1 December 2020, no information may be supplied under this clause except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 (6) In this clause, unless the context otherwise requires,—
   - **beneficiary** means a person who is all or any of the following:
     (a) a person who has been granted a benefit:
@@ -5561,11 +5547,7 @@ Information may be obtained under clause 2 for all or any of the following purpo
     (d) any amount payable under section 138A(1) of the Sentencing Act 2002.
 
 ### 14 Address details for birth registration purposes
-(1) The purpose of this clause is to assist in locating and contacting the mothers of children whose births are unregistered, so that the births may be registered (and this clause for that purpose authorises the disclosure of information by MSD, and to the Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995).
-(2) The Registrar-General may for the purpose of this clause request MSD to supply, from information held for the purposes of this Act by MSD, the postal address and residential address (if different from the postal address) of a person who the Registrar-General believes on reasonable grounds may be the mother of a child whose birth is unregistered.
-(3) But the Registrar-General cannot make the request unless—
-  (a) there is an agreement under section 99 of the Privacy Act 1993 between MSD and the Registrar-General; and
-  (b) the request is in accordance with the agreement.
+[Repealed]
 
 ### 15 Warrant to arrest information for determining effect on benefit
 (1) The purpose of this clause is to enable MSD to implement effectively section 209 (and this clause for that purpose authorises and requires the disclosure of information by the chief executive of the Ministry of Justice and the Ministry of Justice, and to MSD).
@@ -5581,9 +5563,12 @@ Information may be obtained under clause 2 for all or any of the following purpo
 (6) Information given by the chief executive of the Ministry of Justice to MSD may be given by MSD to an employee who is—
   (a) an MSD employee; and
   (b) authorised by the chief executive to receive it.
+(7) On or after 1 December 2020, no information may be given under this clause except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 
 ### 16 Disclosure for services to young people not in education or training
-(1) MSD may enter into an agreement under Part 9A of the Privacy Act 1993 with the chief executive of the Ministry of Education relating to the sharing, for the purposes of facilitating the provision of services of a kind described in section 365(1)﻿(a), of information about young people who have ceased to be enrolled at 1 or both of the following:
+(1) MSD may enter into an agreement under subpart 1 of Part 7 of the Privacy Act 2020 with the chief executive of the Ministry of Education relating to the sharing, for the purposes of facilitating the provision of services of a kind described in section 365(1)﻿(a), of information about young people who have ceased to be enrolled at 1 or both of the following:
   (a) a registered school (as defined in section 10(1) of the Education and Training Act 2020); or
   (b) a tertiary education organisation (being an organisation as defined in section 10(1) of that Act).
 (2) While the agreement is in force, the chief executive of the Ministry of Education—
@@ -5635,9 +5620,9 @@ The purpose of clause 20 is—
 (2) A person may complain to the Privacy Commissioner if personal information relating to the person has been disclosed under clause 18 or 20, on the ground that the disclosure was in breach of—
   (a) the requirements of clause 18; or
   (b) regulations of the kind referred to in clause 20.
-(3) Part 8 of the Privacy Act 1993—
-  (a) applies to a complaint under subclause (1) as if the information-sharing agreement concerned were a code of practice issued under Part 6 of that Act; and
-  (b) applies to a complaint under subclause (2) as if clause 18 and the regulations concerned together constituted a code of practice issued under Part 6 of that Act.
+(3) Parts 5 and 6 of the Privacy Act 2020—
+  (a) apply to a complaint under subclause (1) as if the information sharing agreement concerned were a code of practice issued under Part 3 of that Act; and
+  (b) apply to a complaint under subclause (2) as if clause 18 and the regulations concerned together constituted a code of practice issued under Part 3 of that Act.
 
 ## Schedule 7 — Benefits review committees
 
