@@ -1,5 +1,5 @@
 # Public Safety (Public Protection Orders) Act 2014
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Public Safety (Public Protection Orders) Act 2014.
@@ -550,23 +550,23 @@ The chief executive must take all practicable steps to ensure that,—
 ### 56 Authorised disclosure of information
 (1) An authorised person may disclose a resident call for a purpose set out in section 51 as a purpose of monitoring resident calls.
 (2) An authorised person may disclose a resident call if the authorised person believes on reasonable grounds that the disclosure—
-  (a) is necessary to avoid prejudice to the maintenance of the law by a public sector agency (within the meaning of the Privacy Act 1993), including the prevention, detection, investigation, prosecution, and punishment of offences; or
+  (a) is necessary to avoid prejudice to the maintenance of the law by a public sector agency (within the meaning of the Privacy Act 2020), including the prevention, detection, investigation, prosecution, and punishment of offences; or
   (b) is necessary for the conduct of proceedings (already commenced or reasonably in contemplation) before a court or tribunal; or
   (c) is necessary to prevent or lessen a serious and imminent threat to public health, public safety, or the life or health of any person; or
-  (d) has been authorised by the Privacy Commissioner under section 54(1) of the Privacy Act 1993.
+  (d) has been authorised by the Privacy Commissioner under section 30 of the Privacy Act 2020.
 (3) An authorised person may disclose a resident call to the resident concerned.
 (4) An authorised person who is listening to a resident call may allow any eligible employee to listen to the call for the purpose of interpreting it.
 (5) An authorised person may allow any eligible employee to listen to a recording of a resident for the purpose of providing a transcript, a written translation, or both.
 (6) An authorised person may allow any eligible employee to read a transcript of a resident call for the purpose of providing a written translation.
 
 ### 57 Restrictions on disclosure of information
-(1) An authorised person must not knowingly disclose a resident call otherwise than under section 56 or in accordance with the Privacy Act 1993.
+(1) An authorised person must not knowingly disclose a resident call otherwise than under section 56 or in accordance with the Privacy Act 2020.
 (2) An authorised person who is listening to a resident call must not knowingly allow any other person to listen to it, except under section 56.
 (3) An eligible employee (other than an authorised person) who, under section 56, has been allowed to listen to a resident call or a recording of a resident call, or to read a transcript of a resident call, must not knowingly disclose the call except to an authorised person.
 (4) A person who, under section 56(2), has heard a resident call or a recording of a resident call, or read a transcript of a resident call, must not knowingly disclose the call except to an authorised person.
 
-### 58 Application of Privacy Act 1993
-The Privacy Act 1993 applies to the monitoring of resident calls under sections 51 to 61.
+### 58 Application of Privacy Act 2020
+The Privacy Act 2020 applies to the monitoring of resident calls under sections 51 to 61.
 
 ### 59 Destruction of recordings
 (1) The chief executive must take all practicable steps to ensure that every recording of a resident call held by the chief executive is destroyed, or completely erased,—
@@ -575,8 +575,8 @@ The Privacy Act 1993 applies to the monitoring of resident calls under sections 
     (i) required for the purposes of an investigation into an offence or possible offence; or
     (ii) required for the purposes of an investigation into the possibility that an offence may be committed in the future; or
     (iii) required for evidence in a prosecution or possible prosecution for an offence; or
-    (iv) required to be disclosed under the Privacy Act 1993.
-(2) Despite subsection (1), if the Privacy Commissioner has notified the chief executive in writing that a complaint has been made under the Privacy Act 1993 in relation to the recording, the recording must not be destroyed or erased in accordance with that subsection until the Privacy Commissioner has notified the chief executive in writing that the complaint has—
+    (iv) required to be disclosed under the Privacy Act 2020.
+(2) Despite subsection (1), if the Privacy Commissioner has notified the chief executive in writing that a complaint has been made under the Privacy Act 2020 in relation to the recording, the recording must not be destroyed or erased in accordance with that subsection until the Privacy Commissioner has notified the chief executive in writing that the complaint has—
   (a) not been proceeded with; or
   (b) been finally disposed of.
 (3) The Commissioner of Police or, as the case may be, the chief executive or board of a public service agency must take all practicable steps to ensure that every recording of a resident call held by the Police or that department that was obtained by the monitoring of the call under this Act is destroyed, or completely erased, as soon as it appears that no proceedings (or no further proceedings) will be taken in which any information contained in it would be likely to be required to be produced in evidence.
