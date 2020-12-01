@@ -1,5 +1,5 @@
 # Policing Act 2008
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Policing Act 2008.
@@ -503,8 +503,8 @@ In this Part, unless the context otherwise requires,—
 ### 56 Application of Employment Relations Act 2000
 Except as expressly provided in this Act, the Employment Relations Act 2000 applies in relation to the Police.
 
-### 57 Application of Privacy Act 1993 to assessment for suitability for employment
-Nothing in principles 2, 3, or 10 of the Privacy Act 1993 applies in relation to information collected, obtained, held, used, disclosed by, or disclosed to the Police for the purpose of any assessment by the Commissioner of the suitability of any particular person for employment with the Police.
+### 57 Application of Privacy Act 2020 to assessment for suitability for employment
+Nothing in information privacy principles 2, 3, and 10 set out in section 22 of the Privacy Act 2020 applies in relation to information collected, obtained, held, used, disclosed by, or disclosed to the Police for the purpose of any assessment by the Commissioner of the suitability of any particular person for employment with the Police.
 
 ### 58 Employment principles
 Subject to this Act, the Commissioner must operate a personnel policy that complies with the principle of being a good employer by following, as if he or she were the chief executive of a Department, the provisions of sections 73 and 74 of the Public Service Act 2020.
@@ -861,7 +861,7 @@ In this section and in sections 95B to 95F, unless the context otherwise require
   (b) in accordance with directions issued by the Commissioner under section 95C for the disclosure of personal information outside of an international disclosure instrument.
 (4) For the purposes of this section, personal information may be disclosed to a corresponding overseas agency by disclosing the information to an overseas person, body, or agency that is authorised to act on behalf of the corresponding overseas agency.
 (5) Subsections (1) to (4) do not affect any other enactment that requires or allows disclosure of personal information (whether or not of a particular kind and whether or not disclosure is required to be made in a prescribed manner).
-(6) For the purposes of Part 8 of the Privacy Act 1993, a person is taken to have breached an information privacy principle under section 66(1)﻿(a)﻿(i) of that Act if the person contravenes a provision of this section.
+(6) A person who contravenes a provision of this section must be treated, for the purposes of Parts 5 and 6 of the Privacy Act 2020, as having breached an information privacy principle under section 69(2)﻿(a)﻿(i) of that Act.
 
 ### 95C Commissioner may issue directions to certain Police employees
 (1) The Commissioner may issue written directions relating to the disclosure of personal information outside of an international disclosure instrument under section 95B to any Police employees authorised to make that disclosure under delegated authority.
