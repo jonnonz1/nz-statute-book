@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2020-11-11_
+_Consolidation as at 2020-12-01_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -228,8 +228,8 @@ _Consolidation as at 2020-11-11_
 (6) Nothing in subsection (5) shall require the Director to disclose any information the disclosure of which would be likely to endanger the safety of any person.
 (7) If the Director determines not to disclose any information in reliance on subsection (6), the Director must inform the person of the fact of non-disclosure and,—
   (a) in the case of non-disclosure to an individual of information about the individual,—
-    (i) inform the individual that he or she may, under the Privacy Act 1993, complain to the Privacy Commissioner about that non-disclosure; and
-    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 27(1)﻿(d) of that Act; and
+    (i) inform the individual that he or she may, under the Privacy Act 2020, complain to the Privacy Commissioner about that non-disclosure; and
+    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 49(1)﻿(a)﻿(i) of that Act; and
   (b) in any other case,—
     (i) inform the person that the person may seek a review by an Ombudsman of that non-disclosure under the Official Information Act 1982; and
     (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 6(d) of that Act.
@@ -515,8 +515,8 @@ The Minister may direct the Civil Aviation Authority or Maritime New Zealand, or
   (b) any information or the fact of non-disclosure of that information, before suspending an aviation document or imposing conditions in respect of an aviation document under section 17.
 (7) If the Director determines not to disclose any information in reliance on subsection (6), the Director must inform the person of the fact of non-disclosure and,—
   (a) in the case of non-disclosure to an individual of information about the individual,—
-    (i) inform the individual that the individual may, under the Privacy Act 1993, complain to the Privacy Commissioner about that non-disclosure; and
-    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 27(1)﻿(d) of that Act; and
+    (i) inform the individual that the individual may, under the Privacy Act 2020, complain to the Privacy Commissioner about that non-disclosure; and
+    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 49(1)﻿(a)﻿(i) of that Act; and
   (b) in any other case,—
     (i) inform the person that the person may seek a review by an Ombudsman of that non-disclosure under the Official Information Act 1982; and
     (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 6(d) of that Act.
@@ -1895,7 +1895,7 @@ For the purposes of granting or renewing aviation documents under this Act, the 
   (h) the current service charter:
   (i) the current statement of intent under section 139 of the Crown Entities Act 2004.
 (3) Documents kept at the Registry shall be made available by the Authority, in accordance with the provisions of the Official Information Act 1982, for inspection by the public free of charge.
-(4) Subsection (3) is subject to the Privacy Act 1993.
+(4) Subsection (3) is subject to the Privacy Act 2020.
 
 ### 75 Information services
 (1) The Authority shall ensure that an information service is provided which shall comprise the collection and dissemination of aeronautical information and instructions relating to the safety, regularity, and efficiency of air navigation.
