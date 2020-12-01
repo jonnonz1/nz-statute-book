@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -6692,7 +6692,7 @@ Each register established under this schedule (the register) must be kept by the
   (a) a person, for a purpose referred to in clause 2 or 5 or, in the case of a register kept under clause 8, a prescribed purpose:
   (b) a person, for the purpose of advising another person in connection with any of the purposes referred to in this subclause:
   (c) an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual.
-(4) A person who searches the register for personal information in breach of this clause must be treated, for the purposes of Part 8 of the Privacy Act 1993, as having breached an information privacy principle under section 66(1)﻿(a)﻿(i) of that Act.
+(4) A person who searches the register for personal information in breach of this clause must be treated, for the purposes of Parts 5 and 6 of the Privacy Act 2020, as having breached an information privacy principle under section 69(2)﻿(a)﻿(i) of that Act.
 
 **Miscellaneous**
 
