@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2020-08-12_
+_Consolidation as at 2020-12-01_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -1343,7 +1343,7 @@ If a landlord or tenant breaches any provision of the tenancy agreement, the oth
   (a) be inconsistent with this Act; or
   (b) require or purport to permit anything that is or would be illegal and, in particular, must not—
     (i) require or permit any form of discrimination in contravention of the Human Rights Act 1993; or
-    (ii) purport to permit anything that would breach the Privacy Act 1993.
+    (ii) purport to permit anything that would breach the Privacy Act 2020.
 (3) The landlord may at any time change the house rules, but a new house rule does not come into effect until the landlord has given each tenant of the boarding house at least 7 days’ written notice of the new house rule.
 
 ### 66P What tenant may do if he or she objects to house rules
