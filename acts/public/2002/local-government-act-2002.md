@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2020-11-01_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -4146,7 +4146,7 @@ The Minister must notify any change in the membership of a Ministerial body by n
   (b) acts done or omitted to be done by a Commission member when performing the functions and exercising the powers of a local authority or its members.
 
 ### 258Z Disclosure of information held by local authority
-(1) For the purposes of this Part, information held by a local authority may be disclosed to the Minister or a Ministerial body despite anything to the contrary in the Official Information Act 1982, the Local Government Official Information and Meetings Act 1987, or the Privacy Act 1993.
+(1) For the purposes of this Part, information held by a local authority may be disclosed to the Minister or a Ministerial body despite anything to the contrary in the Official Information Act 1982, the Local Government Official Information and Meetings Act 1987, or the Privacy Act 2020.
 (2) However, the Minister, the Ministerial body, or a Ministerial appointee must not publish or disclose that information to any other person except in accordance with those Acts.
 (3) In this section, Minister includes the Minister's officials and Cabinet.
 
@@ -6205,7 +6205,7 @@ The Remuneration Authority must—
   (b) must not communicate those matters or information except—
     (i) in performing or exercising those responsibilities, duties, and powers; or
     (ii) under subsection (3).
-(3) The Remuneration Authority is required to comply with information privacy principles 6, 7, and 11 of the Privacy Act 1993 and disclose personal information as necessary.
+(3) The Remuneration Authority is required to comply with information privacy principles 6, 7, 11, and 12 set out in section 22 of the Privacy Act 2020 and disclose personal information as necessary.
 
 ### 12 Payments
 If a determination is made, a local authority must make payment to the person concerned in accordance with the conditions of the determination.
