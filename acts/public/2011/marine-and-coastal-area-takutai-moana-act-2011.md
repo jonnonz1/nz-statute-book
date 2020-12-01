@@ -1,5 +1,5 @@
 # Marine and Coastal Area (Takutai Moana) Act 2011
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ## Preamble
 (1) In June 2003, the Court of Appeal held in Attorney-General v Ngāti Apa [2003] 3 NZLR 643 that the Māori Land Court had jurisdiction to determine claims of customary ownership to areas of the foreshore and seabed. The Foreshore and Seabed Act 2004 (the 2004 Act) was enacted partly in response to the Court of Appeal’s decision:
@@ -355,7 +355,7 @@ Nothing in this Act limits or affects—
 (2) No relief may be claimed by any person for any loss or damage arising from this section.
 
 ### 25 Local authorities may apply to Minister for redress for loss of divested areas
-(1) A local authority that, as a result of the operation of section 11(3) or (4)or 17, loses its title to any land in the common marine and coastal area that it had acquired by purchase may apply to the Minister of Conservation for redress.
+(1) A local authority that, as a result of the operation of section 11(3) or (4) or 17, loses its title to any land in the common marine and coastal area that it had acquired by purchase may apply to the Minister of Conservation for redress.
 (2) In considering an application by a local authority under subsection (1), the Minister of Conservation must be guided by whichever of the following criteria is applicable:
   (a) if the local authority purchased the relevant land at full market value, compensation is to be paid at current market value:
   (b) if the local authority did not purchase the relevant land at full market value, redress is limited to compensation for direct financial loss to the local authority arising from the loss of ownership, including loss of—
@@ -1518,7 +1518,7 @@ A recognition order must be sealed—
   (b) in the case of an instrument recorded by a process, system, or means other than as a paper record, a paper document that records the content of the instrument.
 
 ### 117 Application of Privacy Act 1993
-The register is a public register within the meaning of section 58 of the Privacy Act 1993.
+[Repealed]
 
 ### Subpart 4 — Regulations and miscellaneous matters
 
