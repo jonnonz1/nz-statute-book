@@ -1,5 +1,5 @@
 # Customs and Excise Act 2018
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Customs and Excise Act 2018.
@@ -3968,7 +3968,7 @@ In this subpart,—
 (1) Customs may—
   (a) collect any border information; and
   (b) store any border information in a Joint Border Management System.
-(2) Information privacy principles 2 and 3 in section 6 of the Privacy Act 1993 do not restrict the collection or storage of personal information under subsection (1).
+(2) Information privacy principles 2 and 3 in section 22 of the Privacy Act 2020 do not restrict the collection or storage of personal information under subsection (1).
 (3) A person who is required to provide any border information to Customs may comply with that requirement by providing the border information to the Ministry, or an agency other than Customs, acting under section 41G of the Biosecurity Act 1993.
 (4) In this section,—
   - **border information** —
@@ -4006,7 +4006,7 @@ In this subpart,—
 (1) Nothing in this Act limits, or prevents, the use or disclosure of information that—
   (a) is authorised or required under any other enactment; or
   (b) is permitted under any other enactment.
-(2) Nothing in the information privacy principles in section 6 of the Privacy Act 1993 limits the use or disclosure of personal information by Customs in the carrying out of its functions under this Act.
+(2) Nothing in the information privacy principles in section 22 of the Privacy Act 2020 limits the use or disclosure of personal information by Customs in the carrying out of its functions under this Act.
 
 ### Subpart 6 — Disclosure of information
 
@@ -4072,6 +4072,9 @@ Nothing in this subpart limits, or prevents, the disclosure of information that 
   (a) the frequency with which information may be supplied; and
   (b) the form in which information may be supplied; and
   (c) the method by which information may be supplied.
+(5A) On or after 1 December 2020, no information may be supplied under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 (6) In this section,—
   - **borrower** has the meaning given to that term in section 4(1) of the Student Loan Scheme Act 2011
   - **identifying information** means the information set out in section 208(2) of the Student Loan Scheme Act 2011 that identifies a borrower
@@ -4092,6 +4095,9 @@ Nothing in this subpart limits, or prevents, the disclosure of information that 
   (a) the frequency with which information may be supplied; and
   (b) the form in which information may be supplied; and
   (c) the method by which information may be supplied.
+(5A) On or after 1 December 2020, no information may be supplied under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 (6) In this section,—
   - **financial support debt** means an amount, owing to the Commissioner, of—
     (a) financial support (as that term is defined in section 2(1) of the Child Support Act 1991):
@@ -4110,6 +4116,9 @@ Nothing in this subpart limits, or prevents, the disclosure of information that 
   (a) the frequency with which information may be supplied; and
   (b) the form in which information may be supplied; and
   (c) the method by which information may be supplied.
+(5A) On or after 1 December 2020, no information may be supplied under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 (6) In this section,—
   - **benefit** means any of the following:
     (a) a benefit as defined in Schedule 2 of the Social Security Act 2018:
@@ -4138,6 +4147,9 @@ Nothing in this subpart limits, or prevents, the disclosure of information that 
 (6) If information is supplied to the chief executive of Customs under subsection (2), the chief executive—
   (a) may use that information for the purposes set out in subsections (3) and (4):
   (b) may not supply that information to any other country without the prior written consent of the chief executive of the department, and that supply or consent may be subject to any conditions that the chief executive of the department considers appropriate to impose.
+(6A) On or after 1 December 2020, no information may be supplied under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 (7) In this section,—
   - **department** means the department for the time being responsible for the administration of the Social Security Act 2018
   - **social security agreement** means an agreement (for example, a Convention), or an alteration to an agreement, in respect of which an Order in Council has been made under section 380 (orders adopting reciprocity agreements) of the Social Security Act 2018.
@@ -4153,6 +4165,9 @@ Nothing in this subpart limits, or prevents, the disclosure of information that 
   (a) the frequency with which information may be supplied; and
   (b) the form in which information may be supplied; and
   (c) the method by which information may be supplied.
+(5A) On or after 1 December 2020, no information may be supplied under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 (6) In this section,—
   - **authorised officer** —
     (a) means any officer, employee, or agent of the department who is authorised by the chief executive of the department to supply information to, or receive information from, the chief executive of Customs under this section; and
@@ -4480,7 +4495,7 @@ A person must not access a registered user system, or transmit documents to, or 
   (b) for the purpose of accessing, transmitting documents to, or receiving documents from the registered user system.
 (3) The chief executive may, by notice in writing, impose conditions on the use and security of all or any unique user identifier.
 (4) The Director-General of Biosecurity may, for the purposes of any enactment, assign the same unique identifier to a person that has been assigned to that person by the chief executive under this section.
-(5) Information privacy principle 12(2) in section 6 of the Privacy Act 1993 does not restrict the power of the Director-General of Biosecurity under subsection (4).
+(5) Information privacy principle 13(2) in section 22 of the Privacy Act 2020 does not restrict the power of the Director-General of Biosecurity under subsection (4).
 
 ### 327 Use of unique user identifier presumed secure
 (1) Any document that is transmitted to a registered user system using a unique user identifier is, in the absence of proof to the contrary, sufficient evidence that the document was transmitted by—
@@ -4780,7 +4795,7 @@ The function of a Customs Appeal Authority is to sit as a judicial authority for
   (c) the processing of international passengers at the border by public authorities:
   (d) the protection of border security:
   (e) the protection of the health and safety of members of the public.
-(6) Information privacy principles 2 and 3 in section 6 of the Privacy Act 1993 do not restrict the powers of the chief executive and Customs under this section in relation to personal information.
+(6) Information privacy principles 2 and 3 in section 22 of the Privacy Act 2020 do not restrict the powers of the chief executive and Customs under this section in relation to personal information.
 (7) This section does not limit section 354(1)﻿(b).
 
 ### 358 Offences in relation to failure to give Customs access to records
