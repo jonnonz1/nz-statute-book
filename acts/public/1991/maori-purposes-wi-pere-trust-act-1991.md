@@ -1,5 +1,5 @@
 # Māori Purposes (Wi Pere Trust) Act 1991
-_Consolidation as at 2017-05-12_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Māori Purposes (Wi Pere Trust) Act 1991.
@@ -605,7 +605,7 @@ Manner of holding beneficial interests
 (9.6) If a beneficial interest is held by trustees on behalf of entitled beneficiaries, those trustees must notify the board of the name and address of a trustee who is designated to receive communications from the trust and to vote on their behalf. If no such notification is received, the board is entitled to treat the first named trustee on the Māori Land Court register (where applicable) as the person entitled to receive communications and to vote. In any other case, the board is entitled to treat the first named trustee in the trust deed as the person entitled to receive communications and to vote.
 Access to information
 (9.7) Subject to clause 9.8, every beneficiary is entitled at all reasonable times to inspect this constitution, the register, and any annual report, or to request to be supplied with copies of or extracts from such documents at the beneficiary's own expense, provided that the register or any original documents may not leave the office of the trust.
-(9.8) The board must not release information if doing so would infringe the provisions of the Privacy Act 1993, provided that in the case of access to the register, the board is entitled to release the names, addresses, and other details of the beneficial interests of the beneficiaries to other beneficiaries and to any tribunal or court as required.
+(9.8) The board must not release information if doing so would infringe the provisions of the Privacy Act 2020, provided that in the case of access to the register, the board is entitled to release the names, addresses, and other details of the beneficial interests of the beneficiaries to other beneficiaries and to any tribunal or court as required.
 
 ### 10 Dispute resolution procedures
 (10.1) If any dispute arises between any of the members or beneficiaries, that dispute must be determined in accordance with the process set out in this clause.
