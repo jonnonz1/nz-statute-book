@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2020-11-09_
+_Consolidation as at 2020-12-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -1488,9 +1488,9 @@ Disclosure under agreements and regulations
   (b) an agreement made under subsection (3):
   (c) regulations made under section 18F.
 Approved information-sharing agreements
-(2) The Commissioner may provide information under an information-sharing agreement approved by an Order in Council made under section 96J of the Privacy Act 1993. The information-sharing agreement—
+(2) The Commissioner may provide information under an information-sharing agreement approved by an Order in Council made under section 145 of the Privacy Act 2020. The information-sharing agreement—
   (a) may relate to information that is sensitive revenue information, being personal information and other non-personal information:
-  (b) may extend a restricted information-sharing provision in an Inland Revenue Act, as contemplated by the Privacy Act 1993, without further authority than this section:
+  (b) may extend a restricted information-sharing provision in an Inland Revenue Act, as contemplated by the Privacy Act 2020, without further authority than this section:
   (c) includes an existing approved information-sharing agreement made under the authority of this Act that continues to be in force.
 Disclosure by agreement when consent obtained
 (3) The Commissioner may enter into an agreement to share certain information if—
@@ -1510,9 +1510,7 @@ Meaning of public service
   (a) by or under law; or
   (b) by a policy of the government.
 Meaning of agency
-(6) For the purposes of this section and section 18F, agency—
-  (a) has the meaning given in section 2 of the Privacy Act 1993 as it applies for the purposes of Part 9A of that Act:
-  (b) includes a private sector agency and a public sector agency as those terms are defined in section 96C of that Act.
+(6) For the purposes of this section and section 18F, agency has the meaning given in section 138 of the Privacy Act 2020.
 
 ### 18F Regulations for information-sharing for public services purposes
 Regulations relating to provision of public services
@@ -3309,21 +3307,7 @@ A person that uses the AIM method as described in section RC 5(5B) of the Income
 [Repealed]
 
 ### 46A Accident Rehabilitation and Compensation Insurance Corporation to provide information as to recipients of weekly compensation
-(1) The purpose of this section is to facilitate the exchange of information between the Corporation and the department for the purpose of verifying entitlement to the child tax credit.
-(2) For the purpose of this section, the Corporation or any authorised officer of the Corporation must, when notified by the Commissioner, provide the following information:
-  (a) the name and address of a person who has been in continuous receipt of weekly compensation for the continuation period or longer; and
-  (b) the tax file number of the person; and
-  (c) the date of birth of the person; and
-  (d) the dates of the periods where the person has received weekly compensation for a continuous period of 3 months or more.
-(3) Where the Commissioner receives information from the Corporation, the Commissioner may cause a comparison of the information to be made with the information held by the Commissioner which relates to that person in order to assess the entitlement of that person, or of the person with whom that person lives in a marriage, civil union, or de facto relationship, to the child tax credit.
-(4) Notwithstanding section 18(1), access by a person to information in respect of that person provided to the Commissioner by the Corporation shall be governed by the provisions of the Privacy Act 1993.
-(5) In this section,—
-  - **child tax credit** has the same meaning as in section YA 1 of the Income Tax Act 2007
-  - **continuation period** , in relation to a person receiving weekly compensation, means the period beginning on the first day of the person's eligibility for weekly compensation and ending on the earlier of—
-    (a) the day having the same date as the first day of the person's continuous period of eligibility for weekly compensation and occurring in the third calendar month after that first day; and
-    (b) the last day of the third calendar month after the first day of the person's continuous period of eligibility for weekly compensation
-  - **Corporation** means the Accident Rehabilitation and Compensation Insurance Corporation or the Accident Compensation Corporation
-  - **weekly compensation** means compensation of the kind referred to in section RD 5(6)﻿(b) and (7) of the Income Tax Act 2007 paid by the Accident Rehabilitation and Compensation Insurance Corporation or the Accident Compensation Corporation or its agent.
+[Repealed]
 
 **Fringe benefits**
 
@@ -9951,7 +9935,7 @@ Section 18 does not prevent the Commissioner communicating to any person, being 
 Section 18 does not prevent the Commissioner communicating to a person who is an officer, employee, or agent of the Department of Internal Affairs or the New Zealand Police any information relating to a registration, or absence of registration, for a foreign trust that the person is authorised by the Commissioner of Police or the chief executive of the Department of Internal Affairs to receive.
 
 ### 29 Government agencies: voice recognition analysis
-Section 18 does not prevent the Commissioner communicating to a person (the officer) who is an officer or employee of a public sector agency, as defined in the Privacy Act 1993, information if—
+Section 18 does not prevent the Commissioner communicating to a person (the officer) who is an officer or employee of a public sector agency, as defined in section 7(1) of the Privacy Act 2020, information if—
   (a) the officer is authorised by the public sector agency to receive the information; and
   (b) the information relates to a record of the voice of a person (the client), used by the Commissioner to verify the identity of the client, or relates to an analysis of the record; and
   (c) the information is obtained, held, and communicated by the Commissioner for a purpose relating to verifying the identity of the client; and
@@ -10099,6 +10083,9 @@ Section 18 does not prevent the Commissioner from disclosing sensitive revenue i
   (b) where the person is, or was, receiving any other income during any period in which they are receiving, or have received, any earnings-related compensation, in circumstances where that other income may be taken into account in determining the person’s entitlement to or eligibility for that compensation, or in determining the amount of that compensation, the amount of that other income so received during that period.
 (7) Where the result of any comparison carried out under subclause (4) indicates that any person who is an applicant for earnings-related compensation is receiving any income from any source, and that income may be taken into account in determining the person’s entitlement to or eligibility for that compensation, or in determining the amount of that compensation, the Commissioner may, for the purpose of this clause, supply details of that income to any authorised officer of the Corporation.
 (8) The provisions of this clause shall apply notwithstanding any other provision of this Act.
+(8A) On or after 1 December 2020, no information may be disclosed under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 (9) In this clause, unless the context otherwise requires,—
   - **authorised officer** means any officer, employee, or agent of the Corporation who is authorised by the Managing Director or chief executive of the Corporation to receive information supplied by the Commissioner under this clause
   - **beneficiary** means—
@@ -10126,6 +10113,9 @@ Section 18 does not prevent the Commissioner from disclosing sensitive revenue i
   (h) in the case of an employer, self-employed person, private domestic worker, or shareholder-employee who is an individual, whether the individual is deceased and, if so,—
     (i) the individual’s date of death; and
     (ii) the name and contact details of the administrator or executor of the individual’s estate.
+(2A) On or after 1 December 2020, no information may be supplied under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 (3) In this clause,—
   - **earnings as a self-employed person** has the meaning given to it by section 6 of the Accident Compensation Act 2001
   - **earnings as a shareholder-employee** has the meaning given to it by section 15 of the Accident Compensation Act 2001
@@ -10145,6 +10135,9 @@ Section 18 does not prevent the Commissioner from disclosing sensitive revenue i
   (d) the address of the last known employer of the fines defaulter; and
   (e) the telephone number of the last known employer of the fines defaulter.
 (6) For each item of information to be supplied under subclause (5), the Commissioner must include the date when the information was most recently updated.
+(6A) On or after 1 December 2020, no information may be supplied under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 (7) The provisions of this clause apply despite any other provision of this Act.
 (8) In this clause, unless the context otherwise requires,—
   - **authorised officer** , in relation to the Ministry of Justice, means any officer, employee, or agent of that Ministry who is authorised by the chief executive to supply information to or receive information from the Commissioner under this clause
@@ -10200,6 +10193,9 @@ Section 18 does not prevent the Commissioner from disclosing sensitive revenue i
     (iv) where the Commissioner knows the names and dates of birth of any dependent children of the person, those names and dates; and
   (b) any other information held by the Commissioner that is of a type specified in the agreement made under section 19C(1)﻿(d) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990.
 (5) Where the Commissioner has supplied information under subclause (4) to an authorised officer of the department for the time being responsible for the administration of the Social Security Act 1964, the department may supply that information to the competent institution of the Government of the other country in accordance with the mutual assistance provision of the social security agreement.
+(5A) On or after 1 December 2020, no information may be supplied under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 (6) The provisions of this clause apply despite any other provision of this Act.
 (7) In this clause, unless the context otherwise requires,—
   - **authorised officer** means any officer, employee, or agent of the department for the time being responsible for the administration of the Social Security Act 1964 who is authorised by the chief executive of that department to supply information or receive information from the Commissioner under this clause
