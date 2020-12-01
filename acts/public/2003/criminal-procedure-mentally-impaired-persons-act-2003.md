@@ -1,5 +1,5 @@
 # Criminal Procedure (Mentally Impaired Persons) Act 2003
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Criminal Procedure (Mentally Impaired Persons) Act 2003.
@@ -418,7 +418,7 @@ An order under section 34(1)﻿(b)﻿(ii) is to be regarded as a compulsory care
   (d) a co-ordinator or a staff member of a facility who requires access to the report for the purposes of his or her official duties:
   (e) an officer or employee of the Department of Corrections or of the Ministry of Justice or of the Ministry of Health who requires access to the report for the purposes of his or her official duties:
   (f) a health assessor who, in accordance with a direction under section 39(1), is to provide a second opinion on the subject.
-(2) If, because of an order under section 45(3), a subject may not be shown a part of a report, the subject may not have access to that part of the report under the Official Information Act 1982 or the Privacy Act 1993.
+(2) If, because of an order under section 45(3), a subject may not be shown a part of a report, the subject may not have access to that part of the report under the Official Information Act 1982 or the Privacy Act 2020.
 
 ## Part 3 — Transitional and consequential provisions
 
