@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2020-08-26_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -170,7 +170,7 @@ For the avoidance of doubt, a requirement in this Part that an offender be relea
   (a) no information is given to the offender that discloses the address or contact details of any victim (as defined in section 4 of the Victims' Rights Act 2002) of the offender; and
   (b) if any written submissions by a victim (as so defined) or any victim impact statements are shown to an offender, they are not retained by the offender.
 (3) Despite subsection (1), the Board may, in exceptional circumstances, order that any information referred to in that subsection not be made available to an offender if, in the opinion of the relevant panel convenor, it would prejudice the mental or physical health of the offender, or endanger the safety of any person.
-(4) Subsections (2) and (3) apply despite anything in the Official Information Act 1982 or the Privacy Act 1993.
+(4) Subsections (2) and (3) apply despite anything in the Official Information Act 1982 or the Privacy Act 2020.
 (5) Information withheld under subsection (3) may be provided to the offender's counsel.
 (5A) Subsection (1) does not apply to any information that may not be disclosed under a confidentiality order made under section 13AB.
 (6) Information provided or shown to an offender under this section must be used only for the purpose of assisting the offender to make submissions to the Board.
@@ -209,13 +209,13 @@ For the avoidance of doubt, a requirement in this Part that an offender be relea
 (1) A person commits an offence, and is liable on conviction to a fine not exceeding $10,000, or to imprisonment for a term not exceeding 3 months, or to both, who intentionally contravenes a confidentiality order.
 (2) Despite any other enactment, the Board may hear a person whose identity may not be disclosed under a confidentiality order only if it is satisfied that procedures are in place to ensure that the hearing will not result in the disclosure of the person's identity to any person who is not, in terms of the order, permitted to have access to that information.
 (3) In any court proceeding that relates to the confidentiality order or to the related current matter, a person whose identity may not be disclosed under a confidentiality order has a privilege in information that discloses, or may lead to the disclosure of, the person's identity.
-(4) This section has effect despite anything in section 13 or 65, the Official Information Act 1982, or the Privacy Act 1993.
+(4) This section has effect despite anything in section 13 or 65, the Official Information Act 1982, or the Privacy Act 2020.
 
 ### 13AD If confidentiality order not made
 (1) If the chairperson or a panel convenor refuses to make a confidentiality order, he or she—
   (a) must return to the applicant all documents constituting or relating to the application for the order; and
   (b) must not disclose to any person, or give any person access to, any matter relating to the application.
-(2) This section has effect despite anything in section 13 or 65, the Official Information Act 1982, or the Privacy Act 1993.
+(2) This section has effect despite anything in section 13 or 65, the Official Information Act 1982, or the Privacy Act 2020.
 
 ### 13AE Variation or rescission of confidentiality order
 The chairperson or a panel convenor may, on the application of the person who applied for a confidentiality order or on the application of that person's successor in office, vary or rescind the order if satisfied that, because of a change in circumstances, the variation is necessary or, as the case requires, the order is no longer necessary.
@@ -285,7 +285,7 @@ Biometric information collected under section 14(1)﻿(fb) may only be used for 
 
 ### 15A Electronic monitoring
 (1) The purpose of an electronic monitoring condition imposed under section 15(3)﻿(f) is to deter the offender from breaching conditions that relate to his or her whereabouts, and to monitor compliance with those conditions.
-(2) For the purposes of the Privacy Act 1993, information about an offender that is obtained through electronic monitoring may be used both for the purposes referred to in subsection (1) and for the following purposes:
+(2) For the purposes of the Privacy Act 2020, information about an offender that is obtained through electronic monitoring may be used both for the purposes referred to in subsection (1) and for the following purposes:
   (a) to verify compliance with any release conditions or conditions of an extended supervision order:
   (b) to detect non-compliance with any conditions and the commission of offences:
   (c) to provide evidence of non-compliance with conditions and the commission of offences:
@@ -1945,7 +1945,7 @@ For the purposes of section 6(a) of the Legal Services Act 2000 (which identifie
 ### 108 New Zealand Parole Board established
 (1) The New Zealand Parole Board is established as an independent statutory body.
 (2) The Department of Corrections provides administrative and training support to the Board.
-(3) The Board is subject to the Official Information Act 1982 and to the Privacy Act 1993.
+(3) The Board is subject to the Official Information Act 1982 and to the Privacy Act 2020.
 
 ### 109 Functions of Board
 (1) The functions of the Board are—
