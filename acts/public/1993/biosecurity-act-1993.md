@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -1380,7 +1380,7 @@ The Director-General must not take any action under sections 37, 37A, or 37B wit
 (1) The Ministry may—
   (a) collect any border information:
   (b) store any border information in a JBMS.
-(2) If the border information is personal information, subsection (1) applies despite anything in information privacy principle 2 or 3 of the Privacy Act 1993.
+(2) If the border information is personal information, subsection (1) applies despite anything in information privacy principle 2 or 3 of the Privacy Act 2020.
 (3) The Minister may appoint any agency (in addition to, or instead, of the Customs) to exercise any of the powers conferred on the Ministry by subsection (1).
 
 ### 41H Requirement by or under this Act to supply border information is complied with if information is supplied to Customs or other agency
@@ -1391,7 +1391,7 @@ The Director-General must not take any action under sections 37, 37A, or 37B wit
 
 ### 41I Ministry may access border information
 (1) The Ministry may access any border information stored in a JBMS that is needed for, or relevant to, a Ministry-related border management function.
-(2) If the border information is personal information, subsection (1) applies despite anything in information privacy principle 10 of the Privacy Act 1993.
+(2) If the border information is personal information, subsection (1) applies despite anything in information privacy principle 10 of the Privacy Act 2020.
 (3) Subsections (1) and (2) apply to any border information stored in a JBMS, whether the border information was or is collected—
   (a) before, on, or after the commencement of this section; or
   (b) by an agency appointed under section 41G(3).
