@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -212,7 +212,7 @@ The fact that any medical officer of health or any health protection officer exe
 
 ### 22B Interpretation
 In this section and sections 22C to 22H, unless the context otherwise requires,—
-  - **agency** has the same meaning as in section 2 of the Privacy Act 1993
+  - **agency** has the same meaning as in section 7(1) of the Privacy Act 2020
   - **document** has the same meaning as in section 2 of the Official Information Act 1982
   - **Health Benefits Limited** has the same meaning as in section 2(1) of the Health Sector (Transfers) Act 1993
   - **health information** , in relation to an identifiable individual, means—
@@ -236,8 +236,8 @@ In this section and sections 22C to 22H, unless the context otherwise requires,�
     (i) is required by any person specified in subsection (2); and
     (ii) is required (or, in the case of the purpose set out in paragraph (j) of that subsection, is essential) for the purpose set out in that subsection in relation to the person so specified; or
   (b) if that disclosure is permitted—
-    (i) by or under a code of practice issued under section 46 of the Privacy Act 1993; or
-    (ii) if no such code of practice applies in relation to the information, by any of the information privacy principles set out in section 6 of that Act.
+    (i) by or under a code of practice issued under section 32 of the Privacy Act 2020; or
+    (ii) if no such code of practice applies in relation to the information, by any of the information privacy principles set out in section 22 of that Act.
 (2) The persons and purposes referred to in subsection (1)﻿(a) are as follows:
   (a) any medical officer of a prison within the meaning of the Corrections Act 2004, for the purposes of exercising or performing any of that person's powers, duties, or functions under that Act:
   (b) any probation officer within the meaning of the Corrections Act 2004, for the purposes of exercising or performing any of that person's powers, duties, or functions under any enactment:
@@ -251,7 +251,7 @@ In this section and sections 22C to 22H, unless the context otherwise requires,�
   (h) any employee of the Ministry of Agriculture and Forestry authorised by the chief executive of that Ministry to receive the information, for the purposes of administering the Meat Act 1981 or the Animal Products Act 1999:
   (i) any employee of the New Zealand Transport Agency, for statistical or research purposes in relation to road safety or the environment:
   (j) any employee of a district health board, for the purposes of exercising or performing any of that board's powers, duties, or functions under the New Zealand Public Health and Disability Act 2000.
-(3) For the purposes of principle 11(d) of the Privacy Act 1993, the disclosure of health information about an individual may be authorised—
+(3) For the purposes of information privacy principle 11(1)﻿(c) set out in section 22 of the Privacy Act 2020, the disclosure of health information about an individual may be authorised—
   (a) by that individual personally, if he or she has attained the age of 16 years; or
   (b) by a representative of that individual.
 (4) Information provided or obtained under Part 3A may not be used or disclosed by anyone except as authorised or required under a provision of this Act or another Act.
@@ -274,12 +274,12 @@ The Minister may, at any time, by notice in writing, require a district health b
 (2) A person that holds health information may refuse to disclose that information under this section if—
   (a) that person has a lawful excuse for not disclosing that information; or
   (b) where the information is requested by someone other than the individual about whom it is held (not being a representative of that individual), the holder of the information has reasonable grounds for believing that that individual does not wish the information to be disclosed; or
-  (c) refusal is authorised by a code of practice issued under section 46 of the Privacy Act 1993.
+  (c) refusal is authorised by a code of practice issued under section 32 of the Privacy Act 2020.
 (3) For the purposes of subsection (2)﻿(a), neither—shall constitute a lawful excuse for not disclosing information under this section.
   (a) the fact that any payment due to the holder of any information or to any other person has not been made; nor
   (b) the need to avoid prejudice to the commercial position of the holder of any information or of any other person; nor
-  (c) the fact that disclosure is not permitted under any of the information privacy principles set out in section 6 of the Privacy Act 1993—
-(4) Where any person refuses to disclose health information in response to a request made under this section, the person whose request is refused may make a complaint to the Privacy Commissioner under Part 8 of the Privacy Act 1993, and that Part of that Act, so far as applicable and with all necessary modifications, shall apply in relation to that complaint as if the refusal to which the complaint relates were a refusal to make information available in response to an information privacy request within the meaning of that Act.
+  (c) the fact that disclosure is not permitted under any of the information privacy principles set out in section 22 of the Privacy Act 2020—
+(4) Where any person refuses to disclose health information in response to a request made under this section, the person whose request is refused may make a complaint to the Privacy Commissioner under Part 5 of the Privacy Act 2020, and that Part of that Act, so far as applicable and with all necessary modifications, shall apply in relation to that complaint as if the refusal to which the complaint relates were a refusal to make information available in response to an information privacy request within the meaning of that Act.
 (5) Nothing in subsection (4) limits any other remedy that is available to any person who is aggrieved by any refusal to disclose information under this section.
 
 ### 22G Inspection of records
@@ -2003,7 +2003,7 @@ Measures applied to an individual under this Part must not be applied longer tha
   (b) the public health risk posed by the individual’s engagement in the activity:
   (c) ways of minimising that public health risk.
 (8) If the Director-General so requires, the medical officer of health must send him or her a copy of all or any of the directions given by the medical officer of health under this section.
-(9) Despite anything in the Privacy Act 1993, if a person requires another person to provide information under this section,—
+(9) Despite anything in the Privacy Act 2020, if a person requires another person to provide information under this section,—
   (a) the person required to provide the information must comply with the requirement and be advised that the information must be provided for the effective management of infectious diseases; and
   (b) nothing in this section limits the right of an individual to access or disclose information about him or her under that Act or any other Act.
 
@@ -2034,7 +2034,7 @@ Measures applied to an individual under this Part must not be applied longer tha
   (b) the public health risk posed by the individual’s engagement in the activity:
   (c) ways of minimising that public health risk.
 (8) If the Director-General so requires, the medical officer of health must send him or her a copy of all or any of the directions given by the medical officer of health under this section.
-(9) Despite anything in the Privacy Act 1993, if a person requires another person to provide information under this section,—
+(9) Despite anything in the Privacy Act 2020, if a person requires another person to provide information under this section,—
   (a) the person required to provide the information must comply with the requirement and be advised that the information must be provided for the effective management of infectious diseases; and
   (b) nothing in this section limits the right of an individual to access or disclose information about him or her under that Act or any other Act.
 
@@ -2069,7 +2069,7 @@ Measures applied to an individual under this Part must not be applied longer tha
   (a) in accordance with current best practice in diagnosing the presence of, or immunity to, the infectious disease; and
   (b) the least invasive type of examination that is necessary to establish whether the individual has, or is immune to, the infectious disease.
 (8) The medical officer of health must send to the Director-General a copy of every direction given under this section.
-(9) Despite anything in the Privacy Act 1993, if a person requires another person to provide information under this section,—
+(9) Despite anything in the Privacy Act 2020, if a person requires another person to provide information under this section,—
   (a) the person required to provide the information must comply with the requirement and be advised that the information must be provided for the effective management of infectious diseases; and
   (b) nothing in this section limits the right of an individual to access or disclose information about him or her under that Act or any other Act.
 
@@ -2132,7 +2132,7 @@ A medical officer of health may at any time, by notice to the individual concern
 (4) A party to an appeal under this section may appeal against the court’s determination of the appeal in accordance with section 72 of the District Courts Act 1947.
 
 ### 92U Confidentiality
-Despite anything in the Privacy Act 1993, information provided or obtained under a direction under this Part may not be used or disclosed by anyone except for the effective management of infectious diseases, but nothing in this section limits the right of an individual to access or disclose information about him or her under that Act or any other Act.
+Despite anything in the Privacy Act 2020, information provided or obtained under a direction under this Part may not be used or disclosed by anyone except for the effective management of infectious diseases, but nothing in this section limits the right of an individual to access or disclose information about him or her under that Act or any other Act.
 
 **Compliance with directions**
 
@@ -2327,7 +2327,7 @@ The consultation under section 92ZO may, at the discretion of the medical office
 (5) The court may deal with an application under this section on the papers if the parties agree.
 
 ### 92ZS Confidentiality
-Despite anything in the Privacy Act 1993, information provided or obtained under an order under this Part may not be used or disclosed by anyone except for the effective management of infectious diseases, but nothing in this section limits the right of an individual to access or disclose information about him or her under that Act or any other Act.
+Despite anything in the Privacy Act 2020, information provided or obtained under an order under this Part may not be used or disclosed by anyone except for the effective management of infectious diseases, but nothing in this section limits the right of an individual to access or disclose information about him or her under that Act or any other Act.
 
 ### Subpart 4 — Appeals and enforcement
 
@@ -2436,8 +2436,8 @@ Contact tracing, in respect of an individual with an infectious disease or suspe
   (b) an educational institution attended by the individual:
   (c) any business or other organisation that the individual has dealt with:
   (d) an event co-ordinator or other person likely to have a list of persons attending an event.
-(3) A person referred to in subsection (2) must provide information in response to a request made under subsection (1) despite anything in the Privacy Act 1993.
-(4) Despite anything in the Privacy Act 1993, if a person requires another person to provide information under this section,—
+(3) A person referred to in subsection (2) must provide information in response to a request made under subsection (1) despite anything in the Privacy Act 2020.
+(4) Despite anything in the Privacy Act 2020, if a person requires another person to provide information under this section,—
   (a) the person required to provide the information must comply with the requirement and be advised that the information must be provided for the effective management of infectious diseases; and
   (b) nothing in this section limits the right of an individual to access or disclose information about him or her under that Act or any other Act.
 
@@ -2445,7 +2445,7 @@ Contact tracing, in respect of an individual with an infectious disease or suspe
 (1) A contact tracer who approaches a contact under this Part or approaches a person under section 92ZZF must not, as far as practicable, disclose to the contact or that other person the identity of the individual who may have—
   (a) transmitted the infectious disease to the contact; or
   (b) exposed the contact to the risk of contracting the infectious disease.
-(2) Despite anything in the Privacy Act 1993, information provided or obtained by a contact tracer under this Part may not be used or disclosed by anyone except for the effective management of infectious diseases, but nothing in this section limits the right of an individual to access or disclose information about him or her under that Act or any other Act.
+(2) Despite anything in the Privacy Act 2020, information provided or obtained by a contact tracer under this Part may not be used or disclosed by anyone except for the effective management of infectious diseases, but nothing in this section limits the right of an individual to access or disclose information about him or her under that Act or any other Act.
 
 ### 92ZZH Offence to fail to comply with direction to provide required information about contacts
 (1) A person commits an offence who, having been required to provide information under section 92ZZC or 92ZZF,—
