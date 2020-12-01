@@ -1,5 +1,5 @@
 # Electricity Industry Act 2010
-_Consolidation as at 2020-04-21_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Electricity Industry Act 2010.
@@ -1368,7 +1368,7 @@ In this subpart, unless the context otherwise requires,—
   (h) the commencement, continuation, or enforcement of proceedings by or against the Electricity Commission may instead be commenced, continued, or enforced by or against the Authority without amendment to the proceedings; and
   (i) the completion of a matter or thing that would, but for section 133(1), have been completed by the Electricity Commission, may be completed by the Authority.
 (2) Despite anything in subsection (1), the Authority may appoint a new chief executive or general manager to commence on or after the commencement date.
-(3) The transfer of information from the Electricity Commission to the Authority under subsection (1)﻿(c) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(3) The transfer of information from the Electricity Commission to the Authority under subsection (1)﻿(c) does not constitute an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 (4) The dissolution of the Electricity Commission does not, by itself, affect any of the following matters:
   (a) any decision made, or anything done or omitted to be done, by the Electricity Commission in relation to the performance of its functions or the exercise of its powers under any enactment:
   (b) any proceedings commenced by or against the Electricity Commission:
@@ -2079,7 +2079,7 @@ The provider of the approved scheme must ensure that, at least once every 5 year
 (1) The provider of the approved scheme must, on request by the Minister, provide information on the following:
   (a) matters relating to the most recent annual report:
   (b) the scheme's compliance with the principles listed in clause 5(2).
-(2) Nothing in this clause or clause 16 authorises a breach of the Privacy Act 1993 or any obligation of confidentiality.
+(2) Nothing in this clause or clause 16 authorises a breach of the Privacy Act 2020 or any obligation of confidentiality.
 
 **Regulated scheme: rules of scheme and appointment of provider**
 
