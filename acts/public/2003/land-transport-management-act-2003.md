@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2020-09-01_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -111,7 +111,7 @@ In order to recognise and respect the Crown’s responsibility to take appropria
   - **outcome** has the same meaning as in section 2 of the Public Finance Act 1989
   - **outputs** means goods or services
   - **passenger service** has the same meaning as in section 2(1) of the Land Transport Act 1998
-  - **personal information** has the same meaning as in section 2(1) of the Privacy Act 1993
+  - **personal information** has the same meaning as in section 7(1) of the Privacy Act 2020
   - **Police** means the Police of New Zealand within the meaning of the Policing Act 2008
   - **procurement procedure** means a procurement procedure—
     (a) approved by the Agency under section 25, in relation to money spent by the Agency or an approved organisation:
@@ -937,7 +937,7 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
   (c) grant exemptions from the obligation to pay tolls under the scheme (whether on a basis referred to in paragraph (b) or on any other basis specified in the order), and empower the public road controlling authority or toll operator to grant exemptions (which power is subject to any limitations set out in the order):
   (d) state how the tolls are to be collected:
   (e) specify any information that the toll operator or the public road controlling authority is required to provide to the Minister or any other specified person or organisation:
-  (f) authorise the enforcement authority to have access to law enforcement information held by a holder agency under the Privacy Act 1993, and set out terms and conditions governing that access:
+  (f) authorise the enforcement authority to have access to law enforcement information held by a holder agency under the Privacy Act 2020, and set out terms and conditions governing that access:
   (g) specify, in relation to a new road, the purposes under subsection (1) for which toll revenue inflow may be used (including reimbursement of the costs related to the new road):
   (h) specify civil penalties for breach of conditions referred to in subsection (2)﻿(b)﻿(ii), and establish a procedure for resolving disputes about the application of those penalties:
   (i) require notice of the Minister's confirmation of the matters referred to in subsection (2)﻿(c) to be published in the manner set out in the order.
@@ -984,7 +984,7 @@ Despite section 46(1), the Governor-General may, by Order in Council made on the
 (1) This section applies to personal information held or stored for the purposes of a road tolling scheme by or on behalf of a toll operator or enforcement authority.
 (2) The toll operator must not use any personal information to which this section applies except for the purpose of collecting tolls.
 (3) The enforcement authority must not use any personal information to which this section applies except for the purpose of enforcing the toll offence provisions of this Act.
-(4) The disclosure of personal information to which this section applies on any of the grounds set out in principle 11 in the Privacy Act 1993 is not prohibited by subsection (2) or subsection (3).
+(4) The disclosure of personal information to which this section applies on any of the grounds set out in information privacy principle 11 set out in section 22 of the Privacy Act 2020 is not prohibited by subsection (2) or subsection (3).
 (5) The toll operator and enforcement authority must each outline their privacy policies in a document and make the document available for inspection by the public free of charge during usual working hours or for purchase at a reasonable price.
 (6) Personal information to which this section applies may be retained only for as long as is reasonably necessary to—
   (a) collect the tolls that relate to that personal information:
