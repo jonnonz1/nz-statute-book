@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2020-11-30_
+_Consolidation as at 2020-12-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -251,7 +251,7 @@ Purposes
 Entry into force
 (3) An agreement to which subsection (1)﻿(a) and (b) apply comes into force as declared by the Governor-General by Order in Council and on the date determined under the agreement.
 Overriding effect
-(4) Despite anything in this Act, except subsection (5), or section RF 11C (Interest paid by non-resident companies to non-residents) or (5B) or section BG 1 or GB 54 (which relate to tax avoidance) or, or in any other Inland Revenue Act or the Official Information Act 1982 or the Privacy Act 1993, a double tax agreement has effect in relation to—
+(4) Despite anything in this Act, except subsection (5), or section RF 11C (Interest paid by non-resident companies to non-residents) or (5B) or section BG 1 or GB 54 (which relate to tax avoidance) or, or in any other Inland Revenue Act or the Official Information Act 1982 or the Privacy Act 2020, a double tax agreement has effect in relation to—
   (a) income tax:
   (b) any other tax imposed by this Act:
   (c) the exchange of information that relates to a tax, as defined in paragraphs (a)﻿(i) to (v) of the definition of tax in section 3 of the Tax Administration Act 1994.
