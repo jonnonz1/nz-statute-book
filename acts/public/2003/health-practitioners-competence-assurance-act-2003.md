@@ -1,5 +1,5 @@
 # Health Practitioners Competence Assurance Act 2003
-_Consolidation as at 2020-03-24_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Health Practitioners Competence Assurance Act 2003.
@@ -507,7 +507,7 @@ An authority that is reviewing the competence of a health practitioner or that h
   (c) for the purpose of making the information available to the person to whom the information relates in any case where—
     (i) the authority directs that the information be made available; or
     (ii) the person requests access to the information.
-(2) Subsection (1)﻿(c)﻿(ii) does not affect the Privacy Act 1993.
+(2) Subsection (1)﻿(c)﻿(ii) does not affect the Privacy Act 2020.
 (3) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who discloses any information in contravention of subsection (1).
 (4) No information, statement, or admission that is disclosed or made by any health practitioner in the course of, or for the purposes of satisfying the requirements of, any competence review, competence programme, or recertification programme and that relates to any conduct of that health practitioner (whether that conduct occurred before or during that review or programme)—
   (a) may be used or disclosed for any purpose other than the purposes of that review or programme; or
@@ -897,7 +897,7 @@ A registrar of a court in New Zealand who knows that a person convicted in the c
 ### 78 Compliance with requirement to provide information or document
 (1) A person who receives a notice under section 77 must, without charge, comply with the requirement stated in the notice in the manner and within the period (being not less than 10 working days after the notice is given to the person) specified in the notice.
 (2) Subsection (1) does not require a person to provide any information or produce any document that would be privileged in a court of law.
-(3) No person is required to produce to a committee any papers, records, documents, or things if compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on the person by an enactment (other than the Official Information Act 1982 or the Privacy Act 1993).
+(3) No person is required to produce to a committee any papers, records, documents, or things if compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on the person by an enactment (other than the Official Information Act 1982 or the Privacy Act 2020).
 (4) Every person commits an offence, and is liable on conviction to a fine not exceeding $10,000, who, when required to comply with a notice given under section 77,—
   (a) refuses or fails without reasonable excuse to comply with the notice; or
   (b) knowingly or recklessly provides information that is false or misleading in any material particular.
@@ -1791,7 +1791,7 @@ On payment of the fee (if any) set by the Registrar's authority, the Registrar m
 
 ### 154 Authorities may withhold information in certain circumstances
 Nothing in this Act requires an authority to make available to an individual information that could be withheld,—
-  (a) in the case of personal information about the individual, under the Privacy Act 1993; and
+  (a) in the case of personal information about the individual, under the Privacy Act 2020; and
   (b) in any other case, under the Official Information Act 1982 (as if it were official information).
 
 ### 155 Proceedings not invalid because of defect in appointment
@@ -1883,7 +1883,7 @@ A naming policy comes into force on the day after the date on which it is issued
 ### 157G Naming policies to be consistent with law
 A naming policy must be consistent with—
   (a) this Act; and
-  (b) the information privacy principles in section 6 of the Privacy Act 1993; and
+  (b) the information privacy principles in section 22 of the Privacy Act 2020; and
   (c) the general law (including natural justice rights).
 
 ### 157H Status of naming policies
