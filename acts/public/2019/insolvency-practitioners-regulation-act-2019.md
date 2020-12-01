@@ -1,5 +1,5 @@
 # Insolvency Practitioners Regulation Act 2019
-_Consolidation as at 2020-09-01_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Insolvency Practitioners Regulation Act 2019.
@@ -379,9 +379,9 @@ The Registrar must amend the register if—
   (e) any other prescribed criteria:
   (f) any combination of the criteria in paragraphs (a) to (e).
 (3) The register may be searched by—
-  (a) an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual in accordance with the Privacy Act 1993; or
+  (a) an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual in accordance with the Privacy Act 2020; or
   (b) a person for a purpose referred to in section 29.
-(4) A person who searches the register for personal information in breach of this section must be treated, for the purposes of Part 8 of the Privacy Act 1993, as having breached an information privacy principle under section 66(1)﻿(a)﻿(i) of that Act.
+(4) A person who searches the register for personal information in breach of this section must be treated, for the purposes of Parts 5 and 6 of the Privacy Act 2020, as having breached an information privacy principle under section 69(2)﻿(a)﻿(i) of that Act.
 
 ### Subpart 4 — Accreditation
 
@@ -705,13 +705,13 @@ Section 57 ceases to apply in respect of a person (P) and the accredited body mu
   (d) the publication or disclosure of the information or document is made to a law enforcement or regulatory agency for the purposes of, or in connection with, the performance or exercise of any function, power, or duty conferred or imposed on the law enforcement or regulatory agency by any enactment; or
   (e) the publication or disclosure of the information or document is to a person who the Registrar is satisfied has a proper interest in receiving the information or document; or
   (f) the publication or disclosure of the information or document is with the consent of the person to whom the information or document relates or of the person to whom the information or document is confidential.
-(3) In relation to personal information, this section applies subject to the Privacy Act 1993.
+(3) In relation to personal information, this section applies subject to the Privacy Act 2020.
 
 ### 63 Conditions relating to publication or disclosure of information or documents
 (1) The Registrar may, by written notice to a person to whom any information or document is published or disclosed under section 62(2)﻿(c) to (f), impose any conditions in relation to the publication, disclosure, or use of the information or document by the person.
 (2) The Registrar must, in considering what conditions to impose, have regard to whether conditions are necessary or desirable in order to protect the privacy of an individual.
 (3) Conditions imposed under subsection (1) may include, without limitation, conditions relating to—
-  (a) maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 1993):
+  (a) maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 2020):
   (b) the storing of, the use of, or access to anything provided:
   (c) the copying, returning, or disposing of copies of documents provided.
 (4) A person who refuses or fails, without reasonable excuse, to comply with a condition commits an offence and is liable on conviction to a fine not exceeding $75,000.
