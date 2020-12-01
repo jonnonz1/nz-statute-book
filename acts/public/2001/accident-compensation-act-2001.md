@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -2760,7 +2760,10 @@ For the purposes of this Part, the Corporation may determine—
 (4B) In this section, tax agent has the same meaning as in section 3 of the Tax Administration Act 1994.
 (5) The Commissioner, as agent for the Corporation, is authorised to comply with requests made under this section.
 (6) Any information provided by the Commissioner under this section must be provided under an agreement between the chief executive of the Corporation and the Commissioner.
-(7) If a determination of a levy payable to the Corporation is based on information received from the Commissioner under this section, and the notice of the determination given to the individual concerned specifies the particular information received from the Commissioner, and that notice advises the individual of a right to show why that information should not be used as the Corporation is using it in the determination, then that notice satisfies the requirements of section 103 of the Privacy Act 1993.
+(7) If a determination of a levy payable to the Corporation is based on information received from the Commissioner under this section, and the notice of the determination given to the individual concerned specifies the particular information received from the Commissioner, and that notice advises the individual of a right to show why that information should not be used as the Corporation is using it in the determination, then that notice satisfies the requirements of section 181 of the Privacy Act 2020.
+(8) On or after 1 December 2020, no information may be requested or provided under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 
 ### 247 Change of balance date
 If any person (with the consent of the Commissioner) changes the date of the annual balance of the person's accounts for the purposes of the Tax Administration Act 1994,—
@@ -3112,15 +3115,18 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
 
 ### 280 Disclosure of information to Corporation
 (1) In this section, unless the context otherwise requires, payment means any payment under this Act; and includes any provisions in respect of rehabilitation.
-(2) The purpose of this section is to facilitate the disclosure of information by the Ministry of Business, Innovation, and Employment, health and safety regulators, the Department of Corrections, the New Zealand Customs Service, the department for the time being responsible for the administration of the Social Security Act 2018, the Ministry of Health, any funder, and any district health board (in this section each called the Department) to the Corporation for the purpose of verifying—
+(2) The purpose of this section is to facilitate the disclosure of information by the Department of Corrections (the Department) to the Corporation for the purpose of verifying—
   (a) the entitlement or eligibility of any person to or for any payment; or
   (b) the amount of any payment to which any person is or was entitled or for which any person is or was eligible.
-(3) For the purpose of this section, the Corporation may from time to time, in accordance with arrangements made between the Corporation and the Department concerned, request the Department to supply, in respect of persons who are receiving, have received, or have applied to receive any payment—
+(3) For the purpose of this section, the Corporation may from time to time, in accordance with arrangements made between the Corporation and the Department, request the Department to supply, in respect of persons who are receiving, have received, or have applied to receive any payment—
   (a) such biographical information as is sufficient to identify those persons, including their addresses; and
-  (b) such details of those persons held by that Department as are necessary for the purposes of this section; and
+  (b) such details of those persons held by the Department as are necessary for the purposes of this section; and
   (c) such information and details referred to in paragraphs (a) and (b) as may be necessary for the purposes of this section in respect of persons who are receiving, have received, or have applied to receive any rehabilitation.
 (4) On receipt of a request made under subsection (3), the Department may supply the information requested to any officer or employee or agent of the Corporation who is authorised in that behalf by the Corporation.
-(5) Information supplied under a request made under subsection (3) may be supplied in such form as is determined by agreement between the Corporation and the Department concerned.
+(5) Information supplied under a request made under subsection (3) may be supplied in such form as is determined by agreement between the Corporation and the Department.
+(6) On or after 1 December 2020, no information may be disclosed under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 
 ### 281 Disclosure of information by Corporation for benefit and benefit debt recovery purposes
 (1) In this section, unless the context otherwise requires, benefit means any of the following:
@@ -3137,6 +3143,9 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
   (b) such details of the entitlement of those persons to receive compensation based on weekly earnings as are necessary for the purposes of this section.
 (4) On receipt of a request made under subsection (3), the Corporation may supply the information requested to any officer or employee or agent of the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018 who is authorised in that behalf by that chief executive.
 (5) Information supplied under a request made under subsection (3) may be supplied in such form as is determined by agreement between the Corporation and the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018.
+(6) On or after 1 December 2020, no information may be disclosed under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 
 ### 282 Disclosure of information by Corporation for health purposes
 (1) The purpose of this section is to facilitate the disclosure of information between the Corporation and the Ministry of Health and district health boards for the purposes specified in subsection (2).
@@ -3229,7 +3238,7 @@ Injury-related statistics are a separate class of official statistics under sect
   (c) the information is to be used for research purposes for which approval by an ethics committee, if required, has been given and will not be published in a form that could reasonably be expected to identify the individual concerned.
 (5) Information may be provided under subsection (4) in a form determined by an agreement between the manager and the chief executive of the government agency or the bona fide researcher.
 (6) In exercising the powers conferred by subsection (3), a manager must—
-  (a) comply with the Privacy Act 1993 and the Health Information Privacy Code and any other codes issued under that Act; and
+  (a) comply with the Privacy Act 2020 and the Health Information Privacy Code and any other codes issued under that Act; and
   (b) ensure that standards set for the purpose of this Part are complied with; and
   (c) comply with section 11 of the Statistics Act 1975.
 (7) A manager may delegate any of the manager's functions.
@@ -3240,7 +3249,7 @@ Injury-related statistics are a separate class of official statistics under sect
 ### 290 Information manager can require government agencies to provide injury-related information
 (1) Without limiting section 289(3), an information manager may require a government agency (other than Statistics New Zealand) that holds information relevant to the purpose of this Part to provide the information to the manager.
 (2) The manager and the agency must enter into an understanding or arrangement with each other governing the provision of the information.
-(3) For the purposes of the Privacy Act 1993 and any other enactment relating to the provision of information, a requirement under subsection (1) is sufficient authority for an agency to provide specified information to a manager.
+(3) For the purposes of the Privacy Act 2020 and any other enactment relating to the provision of information, a requirement under subsection (1) is sufficient authority for an agency to provide specified information to a manager.
 
 ### 291 Ministerial advisory panel
 [Repealed]
@@ -3284,7 +3293,7 @@ An information manager's operations are to be funded by either or both of the fo
   (b) must include provision for the operation of the agreement to be reviewed from time to time to ensure that it continues to properly reflect the best interests of the claimant; and
   (c) must include provision for allocation of costs of any entitlements already provided after the subsequent injury but before the agreement is reached.
 (4) If the claimant wishes to seek review under Part 5 of a decision by the insurer or the Corporation, in relation to either the previous injury or the subsequent injury, both the insurer and the Corporation have the right to be present and be heard at the review.
-(5) Despite the Privacy Act 1993, both the insurer and the Corporation must exchange personal information about the claimant necessary to enable them to reach an appropriate agreement and to provide entitlements.
+(5) Despite the Privacy Act 2020, both the insurer and the Corporation must exchange personal information about the claimant necessary to enable them to reach an appropriate agreement and to provide entitlements.
 
 ### 296 Failure to reach agreement
 (1) If the insurer and the Corporation are unable to reach an agreement under section 295(1)﻿(e) within 3 months of the subsequent injury being suffered, they must jointly engage a mediator in an endeavour to reach an agreement.
@@ -3879,7 +3888,7 @@ The purpose of this Part is to ensure that, despite the repeal of the 1998 Act a
 **Savings in respect of other ongoing matters under 1998 Act**
 
 ### 343 Saving in respect of other ongoing matters under 1998 Act
-(1) Sections 194 and 195 and Parts 8 (except section 236), 9, and 12 (except sections 360 to 363, 382, and 399 to 417) of the 1998 Act continue to apply for the purposes of this Part—
+(1) Sections 194 and 195 and Parts 8 (except section 236), 9, and 12 (except sections 360 to 363, 370, 371, 382, and 399 to 417) of the 1998 Act continue to apply for the purposes of this Part—
   (a) despite their repeal by this Act; and
   (b) as amended by this Part; and
   (c) with any other necessary modifications.
@@ -5201,7 +5210,7 @@ If the Corporation is determining earnings under this Part in relation to a self
   (b) the date on which the person first received treatment for the personal injury as that personal injury:
   (c) the date on which the personal injury first resulted in the person's incapacity.
 (3) A person who suffers treatment injury or personal injury caused by medical misadventure is not entitled to lump sum compensation for permanent impairment under this schedule if the date of the treatment which caused the personal injury was before 1 April 2002.
-(4) If a person's eligibility for lump sum compensation for permanent impairment under this schedule is excluded by this clause and the person has suffered personal injury for which the person has cover because of section 36 or section 37 or section 38, Part 4 of the Accident Insurance Act 1998 applies to the person for the purpose of deciding whether the person has an entitlement to an independence allowance.
+(4) If a person's eligibility for lump sum compensation for permanent impairment under this schedule is excluded by this clause and the person has suffered personal injury for which the person has cover because of section 36 or section 37 or section 38, Part 4 of Schedule 1 of the Accident Insurance Act 1998 applies to the person for the purpose of deciding whether the person has an entitlement to an independence allowance.
 (5) This clause overrides sections 36 to 38.
 (6) Subclauses (2), (4), and (5) apply subject to clauses 55A to 55D.
 
