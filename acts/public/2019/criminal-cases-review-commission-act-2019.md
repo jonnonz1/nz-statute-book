@@ -1,5 +1,5 @@
 # Criminal Cases Review Commission Act 2019
-_Consolidation as at 2020-04-03_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Criminal Cases Review Commission Act 2019.
@@ -217,7 +217,7 @@ Nothing in this Act limits or affects the Royal prerogative of mercy.
 ### 35 Prohibition on disclosure of information unless authorised
 (1) A person who is, or has been, a member or an employee of the Commission, or a person appointed as a specialist adviser to the Commission, must not disclose any information obtained by the Commission unless the disclosure is authorised under section 36.
 (2) A person who wilfully contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $20,000.
-(3) This section does not affect an individual’s entitlement to request access to information under information privacy principle 6 of the Privacy Act 1993.
+(3) This section does not affect an individual’s entitlement to request access to information under information privacy principle 6 set out in section 22 of the Privacy Act 2020.
 
 ### 36 Authorised disclosures of information
 (1) The disclosures specified in subsections (2) and (3) are authorised and may be made at the discretion of the Commission and other persons as specified in those provisions.
@@ -228,7 +228,7 @@ Nothing in this Act limits or affects the Royal prerogative of mercy.
   (d) as part of a statement or report required to be made or provided under this Act; or
   (e) in connection with the performance or exercise of the Commission’s functions, duties, or powers; or
   (f) for the purposes of the Police or any other enforcement authority investigating an offence or deciding whether to prosecute an offence, provided that the disclosure is not, or would not be, prevented by some obligation of secrecy or limitation on disclosure (including an obligation or limitation imposed by an enactment) other than the obligation imposed by section 35; or
-  (g) in order to prevent or lessen a serious threat (as defined in section 2(1) of the Privacy Act 1993) to—
+  (g) in order to prevent or lessen a serious threat (as defined in section 7(1) of the Privacy Act 2020) to—
     (i) public health or public safety; or
     (ii) the life or health of any individual.
 (3) The Commission may disclose information, or a member of the Commission may authorise the disclosure of information, if a person with the right to consent to disclosure of that information gives that consent.
