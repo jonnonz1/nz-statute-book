@@ -1,5 +1,5 @@
 # Crown Organisations (Criminal Liability) Act 2002
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Crown Organisations (Criminal Liability) Act 2002.
@@ -73,7 +73,7 @@ A Crown organisation that is not a body corporate has a separate legal personali
   (b) to supply information or make a statement in response to any request or requirement to supply information or make a statement made under—
     (i) section 168 of the Health and Safety at Work Act 2015; or
     (ii) section 19 of the Ombudsmen Act 1975; or
-    (iii) section 91 of the Privacy Act 1993; or
+    (iii) section 86 or 87 of the Privacy Act 2020; or
     (iv) section 26 of the Public Finance Act 1977; or
     (v) section 133 of the Crown Entities Act 2004; or
     (vi) clauses 3 and 4 of Schedule 3 of the Public Service Act 2020; or
