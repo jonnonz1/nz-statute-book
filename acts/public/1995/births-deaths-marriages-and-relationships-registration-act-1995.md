@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 > Title
 
@@ -21,7 +21,7 @@ The purposes of this Act are—
 In this Act, unless the context otherwise requires,—
   - **adopted person** means a person information (not being information derived from an adoption order that has been discharged) relating to whom has been recorded under section 24 or section 25, or under a corresponding provision of a former Act or a former Adoption Act
   - **adoption information** means information relating to an adoption; and, in relation to any adoption, means information relating to that adoption
-  - **approved information sharing agreement** and have the meanings given to them by section 96C of the Privacy Act 1993
+  - **approved information sharing agreement** and have the meanings given to them by section 138 of the Privacy Act 2020
   - **birth** includes a still-birth; but does not include a miscarriage
   - **birth certificate** means a document—and, in relation to any person, means a birth certificate containing registered birth information relating to the person's birth
     (a) issued by, and signed or sealed by or stamped with the seal of, a Registrar; and
@@ -81,7 +81,7 @@ In this Act, unless the context otherwise requires,—
   - **non-disclosure direction** means a direction made by the Registrar-General on a request under section 75A(2)﻿(b) that a person's birth information, marriage information, civil union information, or name change information not be disclosed to the public
   - **occupier** , in relation to any premises, means the person for the time being in charge of them
   - **prescribed fee** includes a fee calculated or ascertained in accordance with regulations made under this Act
-  - **Privacy Commissioner** means the Privacy Commissioner holding that office under section 12 of the Privacy Act 1993
+  - **Privacy Commissioner** means the Privacy Commissioner holding that office under section 13 of the Privacy Act 2020
   - **record** includes to cause to be recorded
   - **register** means that a Registrar records (in a manner authorised by the Registrar-General) information under this Act, a former Act, or a former Adoption Act
   - **Registrar** means a person for the time being holding office under section 81(1); and includes the Registrar-General and every Deputy Registrar-General
@@ -902,7 +902,7 @@ In sections 74 to 75G,—
 (3) Subsection (2)﻿(a) is subject to sections 75F(2) and 75G.
 
 ### 75E Public sector agencies may search access register
-(1) Despite section 75A(2)﻿(a), a public sector agency (within the meaning of section 2 of the Privacy Act 1993) may request the Registrar-General to provide a copy of all entries made in the access register in relation to any person if it is necessary to avoid prejudice to the maintenance of the law (including the prevention, detection, investigation, prosecution, and punishment of offences).
+(1) Despite section 75A(2)﻿(a), a public sector agency (within the meaning of section 7(1) of the Privacy Act 2020) may request the Registrar-General to provide a copy of all entries made in the access register in relation to any person if it is necessary to avoid prejudice to the maintenance of the law (including the prevention, detection, investigation, prosecution, and punishment of offences).
 (2) The Registrar-General must comply with a request under subsection (1) as soon as practicable after it is made.
 (3) To avoid doubt, section 75A(3) and (4) do not apply to a request under subsection (1).
 
@@ -1032,14 +1032,18 @@ In sections 74 to 75G,—
   (c) the information requested:
   (d) the information (if any) provided to the person as a result of the request.
 
-### 78A Disclosure of birth information, death information, marriage information, civil union information, and name change information to certain specified agencies for certain purposes
-(1) The purpose of this section is to authorise the disclosure of birth information, death information, marriage information, civil union information, and name change information to certain specified agencies for certain purposes.
-(2) The Registrar-General and the chief executive of a specified agency listed in the first column of Schedule 1A may enter into an agreement for the disclosure by the Registrar-General to the chief executive of any information described in the second column of that schedule in relation to the specified agency only for the purpose described in the third column of that schedule in relation to the information.
+### 78A Disclosure of birth information, death information, marriage information, civil union information, and name change information to certain agencies for certain purposes
+(1) The purpose of this section is to authorise the disclosure of birth information, death information, marriage information, civil union information, and name change information to certain agencies for certain purposes.
+(2) The Registrar-General and the chief executive of an agency listed in the first column of Schedule 1A may enter into an agreement for the disclosure by the Registrar-General to the chief executive of any information described in the second column of that schedule in relation to the agency only for the purpose described in the third column of that schedule in relation to the information.
 (3) An agreement entered into under subsection (2) may be varied by the Registrar-General and the chief executive.
 (4) The Registrar-General may disclose birth information, death information, marriage information, civil union information, and name change information to the chief executive under this section only in accordance with Schedule 1A and an agreement entered into under subsection (2).
 (4A) Sections 74, 75A(2)﻿(b), 75B(2), and 75D(2) do not apply if this section applies.
-(5) In this section, specified agency has the meaning given to it by section 97 of the Privacy Act 1993.
-(6) In this section, a reference to the chief executive of a specified agency means, in the case of the Government Superannuation Fund Authority or the National Provident Fund, a reference to the Board of the Government Superannuation Fund Authority or, as the context requires, the Board of Trustees of the National Provident Fund.
+(4B) On or after 1 December 2020, no information may be supplied under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an information matching agreement entered into under subpart 4 of Part 7 of the Privacy Act 2020; or
+  (c) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
+(5)
+(6) In this section, a reference to the chief executive of an agency means, in the case of the Government Superannuation Fund Authority or the National Provident Fund, a reference to the Board of the Government Superannuation Fund Authority or, as the context requires, the Board of Trustees of the National Provident Fund.
 
 ### 78AA Disclosure of birth information, death information, marriage information, civil union information, and name change information under approved information sharing agreement
 (1) The Registrar-General may share the following personal information about an identifiable individual under an approved information sharing agreement:
@@ -1081,14 +1085,7 @@ In sections 74 to 75G,—
   (h) the New Zealand Transport Agency.
 
 ### 78B Information matching to trace unregistered births
-(1) The purpose of this section is to authorise the Registrar-General to obtain information from the department for the time being responsible for the administration of the Social Security Act 2018 (the department) in order to assist in locating and contacting the mothers of children whose births are unregistered so that their births may be registered.
-(2) The Registrar-General may request the department to supply the postal address and residential address (if different from the postal address) of a person—
-  (a) in respect of whom that information is held for the purposes of the Social Security Act 2018; and
-  (b) who the Registrar-General has grounds to believe may be the mother of a child whose birth is unregistered.
-(3) No request may be made unless—
-  (a) there is an agreement between the department and the Registrar-General in accordance with section 99 of the Privacy Act 1993; and
-  (b) the request is in accordance with the agreement.
-(4) The Registrar-General may cause a comparison to be made between information supplied as a result of a request under this section and other information held by the Registrar-General for the purposes of this Act.
+[Repealed]
 
 ### 78C Disclosure of statistical information
 The Registrar-General may publish or otherwise disclose statistical information obtained from registered information if he or she is of the opinion that the statistical information may be of interest to the public and is not readily available elsewhere.
@@ -1399,9 +1396,9 @@ The enactments specified in Schedule 1 are hereby consequentially amended in the
 ### 96 Repeals
 The enactments specified in Schedule 2 are hereby repealed.
 
-## Schedule 1A — Disclosure of information to specified agencies
+## Schedule 1A — Disclosure of information to agencies
 
-| Specified agency | Type of information | Purpose |
+| Agency | Type of information | Purpose |
 | --- | --- | --- |
 | Accident Compensation Corporation | Birth information and name change information | To verify the identity of a claimant, and a claimant's eligibility or continuing eligibility for a benefit |
 |  | Marriage information, civil union information, and name change information | To verify a claimant's change of name |
