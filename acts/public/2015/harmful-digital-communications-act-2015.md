@@ -1,5 +1,5 @@
 # Harmful Digital Communications Act 2015
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Harmful Digital Communications Act 2015.
@@ -308,8 +308,8 @@ A digital communication should not denigrate an individual by reason of his or h
   (a) the author’s name and a telephone phone number, a physical address, and an email address for the author; and
   (b) whether the author consents to personal information that identifies the author being released to the complainant; and
   (c) whether the author consents to the removal of the specific content.
-(5) An online content host must not disclose any personal information about the complainant or author under privacy principle 11(e)﻿(iv) in section 6 of the Privacy Act 1993, except by order of a District Court Judge or a High Court Judge made on an application under this subsection.
-(6) Nothing in subsection (5) affects the application of any other provision in the Privacy Act 1993.
+(5) An online content host must not disclose any personal information about the complainant or author under information privacy principle 11(1)﻿(e)﻿(iv) set out in section 22 of the Privacy Act 2020, except by order of a District Court Judge or a High Court Judge made on an application under this subsection.
+(6) Nothing in subsection (5) affects the application of any other provision in the Privacy Act 2020.
 (7) This section is subject to section 25(5).
 
 ### 25 Further provisions related to section 24
