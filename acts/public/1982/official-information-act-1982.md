@@ -1,5 +1,5 @@
 # Official Information Act 1982
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 > An Act to make official information more freely available, to provide for proper access by each person to official information relating to that person, to protect official information to the extent consistent with the public interest and the preservation of personal privacy, to establish procedures for the achievement of those purposes, and to repeal the Official Secrets Act 1951
 
@@ -58,7 +58,7 @@ _Consolidation as at 2020-08-07_
       (i) any matter subject to an order under section 15(1)﻿(a) of the Inquiries Act 2013; or
       (ii) documents referred to in section 32(2)﻿(b) of the Inquiries Act 2013; and
     (i) does not include information contained in any correspondence or communication which has taken place between the office of the Ombudsmen and any public service agency or Minister of the Crown or organisation and which relates to an investigation conducted by an Ombudsman under this Act or under the Ombudsmen Act 1975, other than information that came into existence before the commencement of that investigation; and
-    (j) does not include information contained in any correspondence or communication that has taken place between the office of the Privacy Commissioner and any public service agency or Minister of the Crown or organisation and that relates to any investigation conducted by the Privacy Commissioner under the Privacy Act 1993, other than information that came into existence before the commencement of that investigation; and
+    (j) does not include information contained in any correspondence or communication that has taken place between the office of the Privacy Commissioner and any public service agency or Minister of the Crown or organisation and that relates to any investigation conducted by the Privacy Commissioner under the Privacy Act 2020, other than information that came into existence before the commencement of that investigation; and
     (k) does not include information contained in a victim impact statement (as defined in section 17AA of the Victims' Rights Act 2002); and
     (l) does not include any evidence, submissions, or other information given or made to—
       (i) the Judicial Conduct Commissioner, the Deputy Judicial Conduct Commissioner, or a Judicial Conduct Panel, in relation to any matter under the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004; or
@@ -207,7 +207,7 @@ Where a request under this Act relates to information to which section 6 or sect
 (1AA) A request under subsection (1)—
   (a) may be made in any form and communicated by any means (including orally); and
   (b) does not need to refer to this Act.
-(1A) Notwithstanding subsection (1), a request made, on or after the date of commencement of this subsection, by or on behalf of a natural person for access to any personal information which is about that person shall be deemed to be a request made pursuant to subclause (1)﻿(b) of principle 6 of the Privacy Act 1993, and shall be dealt with accordingly, and nothing in this Part or in Part 5 shall apply in relation to any such request.
+(1A) Notwithstanding subsection (1), a request made, on or after the date of commencement of this subsection, by or on behalf of a natural person for access to any personal information which is about that person shall be deemed to be a request made pursuant to information privacy principle 6(1)﻿(b) set out in section 22 of the Privacy Act 2020, and shall be dealt with accordingly, and nothing in this Part or in Part 5 shall apply in relation to any such request.
 (2) The official information requested shall be specified with due particularity in the request.
 (3) If the person making the request asks that his request be treated as urgent, he shall give his reasons for seeking the information urgently.
 (4) A department or venture or Minister of the Crown or organisation to which an oral request is made under subsection (1) may, if written clarification is reasonably necessary, ask the person making the request to put the request in writing to clarify the request.
@@ -490,7 +490,7 @@ Where a request is made under section 24(1), the department (for itself and for 
 (7) Notwithstanding anything in this section, an Ombudsman shall not, in any report made under subsection (6), make any comment that is adverse to any person unless the person has first been given an opportunity to be heard.
 
 ### 29B Consultation with Privacy Commissioner
-Where an Ombudsman investigates a complaint made under section 28 in relation to a refusal to make official information available in reliance on section 9(2)﻿(a), the Ombudsman shall, before forming a final opinion under section 30 in relation to the merits of refusing that request on that ground, consult with the Privacy Commissioner under the Privacy Act 1993.
+Where an Ombudsman investigates a complaint made under section 28 in relation to a refusal to make official information available in reliance on section 9(2)﻿(a), the Ombudsman shall, before forming a final opinion under section 30 in relation to the merits of refusing that request on that ground, consult with the Privacy Commissioner under the Privacy Act 2020.
 
 ### 30 Procedure after investigation
 (1) Where, after making an investigation of a complaint made under section 28, an Ombudsman is of the opinion—the Ombudsman shall, subject to subsection (3) of this section,—
