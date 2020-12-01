@@ -1,5 +1,5 @@
 # Public Records Act 2005
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Public Records Act 2005.
@@ -376,7 +376,7 @@ If the administrative head of a controlling public office satisfies the Chief Ar
 (1) The Chief Archivist may authorise in writing the discharge of a public record only if—
   (a) the Chief Archivist considers that the public record is suitable to be discharged; and
   (b) the public record is an open access record that is not in current use; and
-  (c) the release of the public record is consistent with the principles of the Privacy Act 1993; and
+  (c) the release of the public record is consistent with the principles of the Privacy Act 2020; and
   (d) the public record is not subject to a request under the Official Information Act 1982; and
   (e) the administrative head of the controlling public office agrees to the public record being discharged; and
   (f) the person to whom the public record is to be discharged is not a Minister of the Crown, the Chief Archivist, an employee in the department, the Archives Council, a member of the Archives Council, or an employee of the controlling public office.
@@ -385,7 +385,7 @@ If the administrative head of a controlling public office satisfies the Chief Ar
   (b) the administrative head of the controlling public office agrees to the class of public records being discharged; and
   (c) the Chief Archivist and the administrative head have entered into an agreement for the discharge of the class of public records on a record by record basis; and
   (d) there are appropriate procedures to ensure that a record is discharged only to the person who is the subject of the information, or to the duly authorised agent of that person; and
-  (e) the discharge of the class of records is consistent with the principles of the Privacy Act 1993.
+  (e) the discharge of the class of records is consistent with the principles of the Privacy Act 2020.
 (3) A public record that is discharged—
   (a) becomes the property of the person to whom it is discharged; and
   (b) ceases to have status as a public record or to be subject to this Act.
@@ -577,7 +577,7 @@ Despite section 66(b) (which repeals Part 17 of the Local Government Act 1974), 
 (5) A public record subject to a restriction under subsection (3)﻿(a)﻿(i) becomes an open access record on the withdrawal of the restriction.
 (6) The department and the Chief Archivist must comply with conditions of public access imposed under subsection (3)﻿(b).
 (7) A restriction on public access to a public record must be noted in the public access register, in accordance with section 19(1)﻿(d).
-(8) Every controlling public office is responsible for dealing with requests for official information under the Official Information Act 1982 and requests for personal information under the Privacy Act 1993.
+(8) Every controlling public office is responsible for dealing with requests for official information under the Official Information Act 1982 and requests for personal information under the Privacy Act 2020.
 
 **Access status of local authority records**
 
