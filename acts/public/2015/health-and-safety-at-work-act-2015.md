@@ -1,5 +1,5 @@
 # Health and Safety at Work Act 2015
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Health and Safety at Work Act 2015.
@@ -227,7 +227,7 @@ In this Act, unless the context otherwise requires,—
   - **officer** has the meaning given in section 18
   - **person** includes the Crown, a corporation sole, and a body of persons, whether corporate or unincorporate
   - **person conducting a business or undertaking** or has the meaning given in section 17
-  - **personal information** has the same meaning as in section 2(1) of the Privacy Act 1993
+  - **personal information** has the same meaning as in section 7(1) of the Privacy Act 2020
   - **personal protective equipment** —
     (a) means anything used or worn by a person (including clothing) to minimise risks to the person’s health and safety; and
     (b) includes air-supplied respiratory equipment
@@ -2042,7 +2042,7 @@ No action by a regulator or an inspector and no process or proceedings may be di
   (a) the storage and use of, or access to, anything provided:
   (b) the copying, returning, or disposing of copies of any documents provided.
 (3) However, if ACC receives any information or document from the regulator under subsection (1), it must not use that information or document in connection with making decisions about cover or entitlements under the Accident Compensation Act 2001.
-(4) Nothing in this section limits the Privacy Act 1993.
+(4) Nothing in this section limits the Privacy Act 2020.
 (5) This section applies despite anything to the contrary in any contract, deed, or document.
 
 ### 198 Requirement of other regulator to notify WorkSafe of notifiable event
@@ -2060,7 +2060,7 @@ No action by a regulator or an inspector and no process or proceedings may be di
   (b) provide the regulator with the following information:
     (i) the name of the person who suffers or suffered from the notifiable disease or injury caused by the hazardous substance; and
     (ii) the nature of the disease or injury.
-(3) Except as required by subsection (2)﻿(b), the medical officer of health must comply with the Privacy Act 1993 and any relevant code of practice issued under that Act.
+(3) Except as required by subsection (2)﻿(b), the medical officer of health must comply with the Privacy Act 2020 and any relevant code of practice issued under that Act.
 
 ### 200 Coroner may call for report on fatal accident
 If requested by a coroner, the regulator must give the coroner a written report of an investigation that the regulator has carried out, or is carrying out, on the circumstances of any fatal accident that occurs at a workplace.
@@ -2173,7 +2173,7 @@ In this subpart, authorised means authorised by a licence, permit, registration,
     (iii) to a person who the person disclosing the information is satisfied has a proper interest in receiving the information or document; or
     (iv) with the consent of the person to whom the information or document relates or of the person to whom the information or document is confidential; or
     (v) required or authorised by law.
-(3) The person must not publish or disclose, or direct a person to publish or disclose, any information or document under subsection (2)﻿(c)﻿(iii) unless the person is satisfied that appropriate protections are or will be in place for the purpose of maintaining the confidentiality of the information or document (in particular, information that is personal information within the meaning of the Privacy Act 1993).
+(3) The person must not publish or disclose, or direct a person to publish or disclose, any information or document under subsection (2)﻿(c)﻿(iii) unless the person is satisfied that appropriate protections are or will be in place for the purpose of maintaining the confidentiality of the information or document (in particular, information that is personal information within the meaning of the Privacy Act 2020).
 
 ### Subpart 4 — Regulations, exemptions, approved codes of practice, and safe work instruments
 
