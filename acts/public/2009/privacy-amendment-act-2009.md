@@ -1,5 +1,5 @@
 # Privacy Amendment Act 2009
-_Consolidation as at 2009-10-27_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Privacy Amendment Act 2009.
