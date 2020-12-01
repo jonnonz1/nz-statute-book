@@ -1,5 +1,5 @@
 # Family Violence Act 2018
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Family Violence Act 2018.
@@ -288,7 +288,7 @@ In this Part, unless the context otherwise requires,—
   - **perpetrator** , of family violence, means either of the following:
     (a) a person who has inflicted, or may have inflicted, family violence (even if no offence involving the violence was, is, or is to be, admitted or prosecuted):
     (b) a person who is inflicting, or may be inflicting, family violence (even if no offence involving the violence is, or is to be, admitted or prosecuted)
-  - **personal information** has the same meaning as in section 2 of the Privacy Act 1993
+  - **personal information** has the same meaning as in section 7(1) of the Privacy Act 2020
   - **recipient agency or practitioner** , for a holder agency or practitioner and personal information, means any, or any other, family violence agency or social services practitioner to whom the information is to be disclosed by the holder agency or practitioner
   - **school board** means a board or body that is, or 1 or more managers who are,—
     (a) a board as defined in section 10(1) of the Education and Training Act 2020; or
@@ -334,7 +334,7 @@ Information use and disclosure
 (1) This section applies to a holder agency or practitioner that, or who, is deciding whether or not to disclose information under section 20 (which authorises, but does not require, a decision that information be made available).
 (2) The holder agency or practitioner must have regard to the principle that helping to ensure that a victim is protected from family violence should usually take precedence over both—
   (a) any applicable duty to keep the information confidential; and
-  (b) any applicable limit under information privacy principle 11 in section 6 of the Privacy Act 1993 on disclosure of the information.
+  (b) any applicable limit under information privacy principle 11 or 12 in section 22 of the Privacy Act 2020 on disclosure of the information.
 
 ### 22 Duty to comply with service delivery code of practice
 (1) This section applies to an agency or practitioner requesting, using, or disclosing information under section 20.
@@ -345,7 +345,7 @@ Information use and disclosure
   (a) section 236 or 237 of the District Court Act 2016; or
   (b) section 173 or 174 of the Senior Courts Act 2016; or
   (c) any other enactment.
-(2) Section 20 does not affect or limit any collection, use, or disclosure of the information authorised or required by or under the Privacy Act 1993 or any other enactment.
+(2) Section 20 does not affect or limit any collection, use, or disclosure of the information authorised or required by or under the Privacy Act 2020 or any other enactment.
 (3) Disclosure under section 20 does not limit the right, under a privilege or right referred to in section 53(5), 54, 56, 57, 58, 59, 60, or 68 of the Evidence Act 2006, to refuse to disclose any communication or information sought by a requirement to provide information.
 
 ### 24 Duty to consider information disclosure
@@ -2018,7 +2018,7 @@ In complying with section 201(1) or (2), the service provider must, unless the s
   (b) section 173 or 174 of the Senior Courts Act 2016; or
   (c) regulations made under section 249(d) of this Act; or
   (d) any other enactment.
-(5) This section does not affect or limit any collection, use, or disclosure of the information authorised or required by or under the Privacy Act 1993 or any other enactment.
+(5) This section does not affect or limit any collection, use, or disclosure of the information authorised or required by or under the Privacy Act 2020 or any other enactment.
 
 **Enforcement and powers when matter referred back to court**
 
@@ -2215,8 +2215,10 @@ This Part provides for—
 In this Part, unless the context otherwise requires,—
   - **code of practice** or means a code of practice issued under section 255
   - **direction** means a direction made under section 232
-  - **Privacy Commissioner** means the Privacy Commissioner appointed under the Privacy Act 1993
-  - **public register** has the same meaning as in section 58 of the Privacy Act 1993
+  - **Privacy Commissioner** means the Privacy Commissioner appointed under the Privacy Act 2020
+  - **public register** means a register, roll, list, or other publication containing personal information that—
+    (a) is established and maintained in any form under an enactment; and
+    (b) is, or will be, generally available to members of the public free of charge or on payment of a fee
   - **relevant information** , for a person, means information that discloses, or is likely to disclose, that person’s whereabouts.
 
 **Applications for directions**
@@ -2336,7 +2338,7 @@ On completing any investigation conducted under section 245(1), the Privacy Comm
 (1) The provisions specified in subsection (2) apply, so far as applicable and with all necessary modifications, to—
   (a) the making of a complaint under section 245; and
   (b) any investigation conducted by the Privacy Commissioner under section 245 or 246.
-(2) The provisions referred to in subsection (1) are sections 68, 70, 71, 73, 75, and 80, and Parts 9 and 12, of the Privacy Act 1993.
+(2) The provisions referred to in subsection (1) are sections 72 to 74, 80, 81, 82, 86 to 90, 96, 205, 206, and 208 to 212 of the Privacy Act 2020.
 
 ## Part 10 — Other provisions
 
@@ -2446,8 +2448,8 @@ Before recommending regulations be made under section 249(b) or (d), the Ministe
   (b) any specified agency or specified class or classes of agency:
   (c) any specified relevant information or class or classes of relevant information.
 
-### 256 Application of certain provisions of Privacy Act 1993
-Sections 47 to 52 of the Privacy Act 1993 apply, so far as applicable and with all necessary modifications, to the issuing of a code of practice under section 255, and to a code of practice issued under section 255, as if the issuing were done, or, as the case may be, the code were issued, under that Act.
+### 256 Application of certain provisions of Privacy Act 2020
+Sections 33 to 37 of the Privacy Act 2020 apply, so far as applicable and with all necessary modifications, to the issuing of a code of practice under section 255, and to a code of practice issued under section 255, as if the issuing were done, or, as the case may be, the code were issued, under that Act.
 
 ### 257 Effect of code
 (1) A code of practice that is in force has effect according to its tenor.
