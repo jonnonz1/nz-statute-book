@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2020-11-11_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -122,7 +122,7 @@ This Act binds the Crown.
 ### 5 Purpose
 The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 2020, and the Evidence Act 2006; and
   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
 
 ## Part 2 — Police powers
