@@ -1,5 +1,5 @@
 # Privacy Amendment Act 2011
-_Consolidation as at 2013-11-01_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Privacy Amendment Act 2011.
@@ -11,7 +11,7 @@ This Act comes into force on a date appointed by the Governor-General by Order i
 This Act amends the Privacy Act 1993.
 
 ### 4 Notice of adverse action proposed
-(1) Section 103(5) is amended by repealing the definition of fine and substituting the following definition:.
+(1) Section 103(5) is amended by repealing the definition of fine and substituting the following definition:
   - **fine** means—
     (a) a fine within the meaning of section 79 of the Summary Proceedings Act 1957:
     (b) a fine to which section 19 of the Crimes Act 1961 applies:
@@ -19,7 +19,7 @@ This Act amends the Privacy Act 1993.
     (d) a fine to which section 28I of the District Courts Act 1947 applies:
     (e) any amount payable under section 138A(1) of the Sentencing Act 2002
 (2) Section 103(5) is amended by repealing the definition of reparation.
-(3) Section 103(5) is amended by inserting the following definition in its appropriate alphabetical order:.
+(3) Section 103(5) is amended by inserting the following definition in its appropriate alphabetical order:
   - **amount of reparation** has the same meaning as in section 79 of the Summary Proceedings Act 1957
 
 ### 5 Schedule 5 amended
