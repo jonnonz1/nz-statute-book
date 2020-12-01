@@ -1,5 +1,5 @@
 # Insurance (Prudential Supervision) Act 2010
-_Consolidation as at 2020-09-01_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Insurance (Prudential Supervision) Act 2010.
@@ -2385,7 +2385,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (3) A search of the register may be carried out only by the following persons for the following purposes:
   (a) an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual:
   (b) a person for the purpose of determining whether or not a person is banned under section 222 (and, if so, the nature and extent of the ban).
-(4) A search of the register for personal information that has not been carried out in accordance with this section constitutes an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(4) A search of the register for personal information that has not been carried out in accordance with this section constitutes an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 
 ### 228 Offence for banned person to participate in insurance business in breach of order
 A person commits an offence if the person fails to comply with an order under section 222 and is liable, on conviction,—
