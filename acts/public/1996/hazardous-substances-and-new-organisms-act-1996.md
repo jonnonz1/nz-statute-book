@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -1241,6 +1241,8 @@ On the expiry of an approval under section 49F that relates to a hazardous subst
   (a) the hazardous substance or new organism to which the application relates is or has been the subject of an innovative TNP application; and
   (b) the confidential information is about that substance or organism; and
   (c) the Director-General is, at the time the Authority wants to disclose or use the information, required under Part 6 of the Agricultural Compounds and Veterinary Medicines Act 1997 to protect information provided in support of the innovative TNP application.
+(4A)
+(4B)
 (5) Despite subsections (3) and (4),—
   (a) the Authority must make available a summary of the effects of a hazardous substance or new organism for the purposes of section 53(3)﻿(c) if the Authority is required to publicly notify the application that relates to that substance or organism under section 53:
   (b) the Authority may disclose confidential information to prescribed persons or organisations or persons or organisations within prescribed classes of persons or organisations.
@@ -1734,8 +1736,8 @@ Regulations made under this Act, EPA notices, approvals granted by the Authority
 (5) The Authority is not required to disclose any information under subsection (4) that would be likely to endanger the safety of any person.
 (6) If the Authority determines not to disclose any information in reliance on subsection (5), the Authority must inform the certificate holder of the fact of non-disclosure, and the following provisions apply:
   (a) in the case of non-disclosure to an individual of information about the individual,—
-    (i) the Authority must inform the individual that he or she may, under the Privacy Act 1993, complain to the Privacy Commissioner about that non-disclosure; and
-    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 27(1)﻿(d) of that Act; and
+    (i) the Authority must inform the individual that he or she may, under the Privacy Act 2020, complain to the Privacy Commissioner about that non-disclosure; and
+    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 49(1)﻿(a)﻿(i) of that Act; and
   (b) in any other case,—
     (i) the Authority must inform the person that the person may seek a review by an Ombudsman of that non-disclosure under the Official Information Act 1982; and
     (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 6(d) of that Act.
@@ -1976,7 +1978,7 @@ An inspector appointed under section 163 of the Health and Safety at Work Act 20
   (a) the storage and use of, or access to, anything provided:
   (b) the copying, returning, or disposing of copies of any documents provided.
 (3) In this section, enforcement agency means the New Zealand Customs Service and any entity referred to in section 97.
-(4) Nothing in this section limits the Privacy Act 1993.
+(4) Nothing in this section limits the Privacy Act 2020.
 (5) This section applies despite anything to the contrary in any contract, deed, or document.
 
 ### 98 Co-ordination of inspection
@@ -3468,10 +3470,7 @@ An existing prescribed control has no legal effect to the extent that it is repl
 Subsections (1) and (2) of section 76C are satisfied in relation to any EPA notice if action of the kind described in those subsections was taken before their commencement for the purpose of facilitating the making of the notice.
 
 ### 8 Transitional matters may be provided for in regulations
-(1) The Governor-General may, by Order in Council, make regulations providing for transitional and savings matters that are in addition to, or in place of, the provisions of this schedule and that are necessary because of the coming into force of the Hazardous Substances and New Organisms Amendment Act 2015.
-(2) Transitional and savings provisions enacted under this clause are revoked at the close of whichever of the following periods ends first:
-  (a) the period during which the provisions are stated to be in force:
-  (b) the period of 3 years from the commencement of this schedule.
+[Repealed]
 
 ### 9 Expiry of clause 8
 Clause 8 expires at the close of 3 years after the commencement of this schedule and is then repealed.
