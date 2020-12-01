@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -948,13 +948,13 @@ A person who is required to provide information or a document under any of secti
   (d) the publication or disclosure of the information or document is made to a law enforcement or regulatory agency for the purposes of, or in connection with, the performance or exercise of any function, power, or duty conferred or imposed on the law enforcement or regulatory agency by any enactment; or
   (e) the publication or disclosure of the information or document is to a person who the regulator is satisfied has a proper interest in receiving the information or document; or
   (f) the publication or disclosure of the information or document is with the consent of the person to whom the information or document relates or of the person to whom the information or document is confidential.
-(3) In relation to personal information, this section applies subject to the Privacy Act 1993.
+(3) In relation to personal information, this section applies subject to the Privacy Act 2020.
 
 ### 41E Conditions relating to publication or disclosure of information or documents
 (1) The regulator may, by written notice to a person to whom any information or document is published or disclosed under section 41D(2)﻿(c) to (f), impose any conditions in relation to the publication, disclosure, or use of the information or document by the person.
 (2) The regulator must, in considering what conditions to impose, have regard to whether conditions are necessary or desirable in order to protect the privacy of an individual.
 (3) Conditions imposed under subsection (1) may include, without limitation, conditions relating to—
-  (a) maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 1993):
+  (a) maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 2020):
   (b) the storing of, the use of, or access to anything provided:
   (c) the copying, returning, or disposing of copies of documents provided.
 (4) A person who refuses or fails, without reasonable excuse, to comply with any conditions commits an offence and is liable on conviction to a fine not exceeding $200,000.
