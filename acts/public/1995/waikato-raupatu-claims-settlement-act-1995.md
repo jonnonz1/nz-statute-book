@@ -1,5 +1,5 @@
 # Waikato Raupatu Claims Settlement Act 1995
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2020-12-01_
 
 > An Act—ato record the apology given by the Crown to Waikato in the deed of settlement signed on 22 May 1995 by both representatives of the Crown and representatives of Waikato, being an apology by the Crown for, among other things, sending its forces across the Mangatawhiri river in July 1863, unfairly labelling Waikato as rebels, and subsequently confiscating their land; andbto give effect to certain provisions of that deed of settlement, being a deed that settles the Raupatu claims
 
@@ -503,7 +503,7 @@ In this schedule and in section 28, unless the context otherwise requires,—
   (a) shall be regarded as placing the Trust Board or the successor or any other person in breach of contract or confidence or as otherwise making any of them guilty of a civil wrong; or
   (b) shall be regarded as placing the Trust Board, the successor, or any other person, in breach of—
     (i) any enactment, rule of law, or contractual provision prohibiting, restricting, or regulating the assignment or transfer of any property; or
-    (ii) the Privacy Act 1993 or any other enactment, rule of law, or contractual provision relating to the collection, use, or disclosure of any information; or
+    (ii) the Privacy Act 2020 or any other enactment, rule of law, or contractual provision relating to the collection, use, or disclosure of any information; or
   (c) shall release any surety wholly or in part from all or any of the surety's obligations; or
   (d) shall be regarded as giving rise to a right for any person to—
     (i) terminate or cancel or modify any contract or agreement; or
