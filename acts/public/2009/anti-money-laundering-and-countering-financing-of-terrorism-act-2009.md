@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -704,8 +704,8 @@ Information obtained by a third party conducting customer due diligence under se
 (1) This section applies to personal information that is either—
   (a) identity or verification information received for the purposes of section 32(1)﻿(a); or
   (b) information received for the purposes of section 32(1)﻿(b).
-(2) Any information supplied by any member of a designated business group to another member of that group must be subject to privacy protections at least equivalent to those set out in privacy principles 5 to 11 in section 6 of the Privacy Act 1993.
-(3) Each member of the designated business group must agree, in writing, to comply with privacy principles 5 to 11 in section 6 of the Privacy Act 1993 or their equivalent if the member is resident overseas.
+(2) Any information supplied by any member of a designated business group to another member of that group must be subject to privacy protections at least equivalent to those set out in information privacy principles 5 to 12 set out in section 22 of the Privacy Act 2020.
+(3) Each member of the designated business group must agree, in writing, to comply with information privacy principles 5 to 12 set out in section 22 of the Privacy Act 2020 or their equivalent if the member is resident overseas.
 (4) The entity that provides information to another member of its designated business group remains responsible for the use or disclosure of that information.
 (5) A reporting entity may use or disclose information to which this section applies only as follows:
   (a) it may use identity and verification information received for the purposes of section 32(1)﻿(a) in a suspicious activity report:
@@ -1661,7 +1661,7 @@ An AML/CFT supervisor may only use information obtained under section 137 if the
 ### 139 Power to disclose information
 (1) The Commissioner, the New Zealand Customs Service, or an AML/CFT supervisor may disclose any information (that is not personal information) supplied or obtained by it in the exercise of its powers or the performance of its functions and duties under this Act to any government agency or any regulator for law enforcement purposes if it is satisfied that the agency or regulator has a proper interest in receiving such information.
 (2) If not authorised under any other provision of this Act, disclosure of any information between a government agency, a regulator, the Commissioner, the New Zealand Customs Service, an AML/CFT supervisor, or reporting entities, or to or from any of those parties, may be made for law enforcement purposes in accordance with regulations made under section 139A.
-(3) Nothing in this section limits the Privacy Act 1993 (which permits certain disclosures in addition to those authorised under this section).
+(3) Nothing in this section limits the Privacy Act 2020 (which permits certain disclosures in addition to those authorised under this section).
 
 ### 139A Regulations relating to information sharing
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the purpose of section 139(2)—
@@ -1759,7 +1759,7 @@ The financial intelligence functions of the Commissioner are to—
 
 ### 146 Consultation on proposed guidelines
 (1) The Commissioner must, before issuing any suspicious transaction or other activity guidelines,—
-  (a) consult with, and invite representations from, the Privacy Commissioner under the Privacy Act 1993, and must have regard to any such representations; and
+  (a) consult with, and invite representations from, the Privacy Commissioner under the Privacy Act 2020, and must have regard to any such representations; and
   (b) give public notice of the Commissioner's intention to issue the guidelines, which notice must contain a statement—
     (i) indicating the Commissioner's intention to issue the guidelines; and
     (ii) inviting reporting entities that are likely to be affected by the proposed guidelines, and industry organisations that are representative of those reporting entities, to express to the Commissioner, within any reasonable period that is specified in the notice, their interest in being consulted in the course of the development of the guidelines; and
