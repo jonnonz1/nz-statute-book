@@ -1,5 +1,5 @@
 # Fire and Emergency New Zealand Act 2017
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Fire and Emergency New Zealand Act 2017.
@@ -1163,13 +1163,13 @@ Every person required to provide information and documents to FENZ under section
   (c) the publication or disclosure of the information or document is for the purposes of, or in connection with, the performance or exercise of any function, duty, or power conferred or imposed on FENZ by this Act or any other enactment; or
   (d) the publication or disclosure of the information or document is to a person who FENZ is satisfied has a proper interest in receiving the information or document; or
   (e) the publication or disclosure of the information or document is with the consent of the person to whom the information or document relates or of the person to whom the information or document is confidential.
-(3) FENZ must not publish or disclose, or direct an authorised person to publish or disclose, any information or document under subsection (2)﻿(c) unless FENZ is satisfied that appropriate protections are or will be in place for the purpose of maintaining the confidentiality of the information or document (in particular, information that is personal information within the meaning of the Privacy Act 1993).
+(3) FENZ must not publish or disclose, or direct an authorised person to publish or disclose, any information or document under subsection (2)﻿(c) unless FENZ is satisfied that appropriate protections are or will be in place for the purpose of maintaining the confidentiality of the information or document (in particular, information that is personal information within the meaning of the Privacy Act 2020).
 
 ### 98 Conditions relating to publication or disclosure of information or documents
 (1) FENZ may, by written notice to a person to whom any information or document is published or disclosed under section 97(2)﻿(c), (d), or (e), impose any conditions in relation to the publication, disclosure, or use of the information or document by the person.
 (2) FENZ must, in considering what conditions to impose, have regard to whether conditions are necessary or desirable in order to protect the privacy of any individual.
 (3) Conditions imposed under subsection (1) may include, without limitation, conditions relating to—
-  (a) maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 1993):
+  (a) maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 2020):
   (b) the storing of, the use of, or access to anything provided:
   (c) the copying, returning, or disposing of copies of documents provided.
 (4) A person who refuses or fails, without reasonable excuse, to comply with any conditions commits an offence and is liable on conviction,—
@@ -2251,17 +2251,17 @@ Every reference in any enactment (other than this Act), or in any document, to t
 
 ### 5 Access to records by FENZ
 (1) FENZ may inspect and copy all relevant records and documentary information held by an affected rural fire authority, other than records that have been transferred, or copies of which have been given, to FENZ under clause 6 or 7.
-(2) The inspection and copying of information under subclause (1) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(2) The inspection and copying of information under subclause (1) does not constitute an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 
 ### 6 Transfer of records
 (1) All relevant records and documentary information, so far as they relate to the main and additional functions of FENZ, held by a rural fire committee immediately before the commencement of this clause must be transferred to FENZ.
-(2) The transfer of information under subclause (1) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(2) The transfer of information under subclause (1) does not constitute an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 
 ### 7 Copies of records held by affected rural fire authorities
 (1) A territorial authority that was an affected rural fire authority immediately before the commencement of this clause must give copies of all relevant records and documentary information in its possession to FENZ,—
   (a) to the extent that the records and information relate to the main and additional functions of FENZ; and
   (b) to the extent that is reasonably practicable after the commencement of this clause.
-(2) The giving of information under subclause (1) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(2) The giving of information under subclause (1) does not constitute an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 
 **Other consequences of continuation of FENZ**
 
