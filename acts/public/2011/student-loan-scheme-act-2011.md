@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -2009,6 +2009,9 @@ A loan contract entered into by a borrower (whether before or after the commence
   (b) the form in which information may be supplied; and
   (c) the method by which information may be supplied.
 (4) Subsection (2) applies despite any obligation as to secrecy or other restriction imposed by any enactment or otherwise on the disclosure of information.
+(5) On or after 1 December 2020, no information may be disclosed under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 
 ### 209 Power of Commissioner to access arrival or departure information
 In accordance with, and for the purpose set out in, section 312 of the Customs and Excise Act 2018, the Commissioner may access any information-recording system used by the New Zealand Customs Service to store arrival or departure information.
