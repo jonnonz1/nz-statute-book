@@ -1,5 +1,5 @@
 # Education and Training Act 2020
-_Consolidation as at 2020-09-25_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Education and Training Act 2020.
@@ -1336,7 +1336,7 @@ Sections 80 to 89 (and any rules made under section 89) apply only in relation t
   (c) setting out the steps to be taken by the principal and board, respectively, when a student has been stood down, suspended, excluded, or expelled:
   (d) specifying the notices to be given when a decision not to lift a suspension, or a decision to extend a suspension or expel a student, is made and the particulars to be set out in each notice:
   (e) specifying time limits within which specified things are to be done and the reports that are to be produced and the persons who are to produce them:
-  (f) providing reasonable measures (which must not be inconsistent with the Privacy Act 1993) to protect the privacy of individuals:
+  (f) providing reasonable measures (which must not be inconsistent with the Privacy Act 2020) to protect the privacy of individuals:
   (g) providing for any other matters that the Secretary considers desirable in the interests of natural justice.
 (2) Before making any rules under this section, the Secretary must—
   (a) publish in the Gazette, and on an Internet site maintained by or on behalf of the Ministry, a notice of the Secretary’s intention to make the rules; and
@@ -2068,7 +2068,7 @@ A board, by resolution, may specify additional standards of conduct for its memb
   (a) the principles of natural justice; and
   (b) a proper consideration of the matter; and
   (c) the requirements of this section.
-(7) In this section, just cause includes misconduct, inability to perform the functions of office, neglect of duty, and breach of any of the collective duties of the council or the individual duties of members (depending on the seriousness of the breach).
+(7) In this section, just cause includes misconduct, inability to perform the functions of office, neglect of duty, and breach of any of the collective duties of board members or the individual duties of members (depending on the seriousness of the breach).
 
 **Validation**
 
@@ -7091,7 +7091,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 (9) The power to make regulations under this section includes (and is to be treated as always having included) power to make regulations—
   (a) authorising the chief executive of MSD, for the purposes of assessing the eligibility of any person for an allowance, to take into account the income of that person's parents, spouse, or partner:
   (b) defining parent, spouse, and partner, and any related terms, for the purposes of the regulations:
-  (c) stating when and to what extent income referred to in paragraph (b) is to be taken into account.
+  (c) stating when and to what extent income referred to in paragraph (a) is to be taken into account.
 (10) In this section,—
   - **CPI** means the New Zealand Consumers Price Index (All Groups) published by Statistics New Zealand
   - **standard tax** means the amount of tax calculated on a weekly basis that would be withholdable in accordance with tax code M stated in Schedule 5, Part A, clause 4, row 1 of the table of the Tax Administration Act 1994.
@@ -7979,7 +7979,7 @@ The Teaching Council must deregister a person if—
     (ii) the person's registration status; and
     (iii) the status and currency of the person’s practising certificate; and
   (b) the Ministry, in relation to regular teachers and relieving teachers in receipt of salaries at payrolled schools, to identify their salary entitlement or eligibility (if any) for an allowance on the basis of their registration or practising certificate (if any).
-(2) For the purpose set out in subclause (1)﻿(a), the Teaching Council may, in accordance with arrangements under the Privacy Act 1993 previously agreed between the Secretary and the Teaching Council,—
+(2) For the purpose set out in subclause (1)﻿(a), the Teaching Council may, in accordance with arrangements under the Privacy Act 2020 previously agreed between the Secretary and the Teaching Council,—
   (a) require the Secretary to supply any or all of the following information about any or all regular teachers and relieving teachers in receipt of salaries at payrolled schools:
     (i) surname:
     (ii) first name:
@@ -7991,7 +7991,7 @@ The Teaching Council must deregister a person if—
     (viii) registration number:
     (ix) number of half-days employed in a teaching position in any calendar year; and
   (b) compare the information supplied under paragraph (a) with the information contained in the register.
-(3) For the purpose set out in subclause (1)﻿(b), the Secretary may, in accordance with arrangements under the Privacy Act 1993 previously agreed between the Secretary and the Teaching Council,—
+(3) For the purpose set out in subclause (1)﻿(b), the Secretary may, in accordance with arrangements under the Privacy Act 2020 previously agreed between the Secretary and the Teaching Council,—
   (a) require the Teaching Council to supply any or all of the following information about any or all people registered as teachers:
     (i) surname:
     (ii) first name:
@@ -8003,6 +8003,9 @@ The Teaching Council must deregister a person if—
     (viii) registration or practising certificate expiry date:
     (ix) registration or practising certificate classification; and
   (b) compare the information supplied under paragraph (a) with the information held by the Ministry about regular teachers and relieving teachers in receipt of salaries at payrolled schools.
+((4)) On or after 1 December 2020, no information may be supplied under this clause except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 
 ### 10 Practising certificates
 (1) Any person may apply to the Teaching Council, on a form provided by the Teaching Council, for a practising certificate.
@@ -9007,15 +9010,18 @@ MSD may use the following information as specified:
   (e) by deduction notice under regulations made under section 444 of the Social Security Act 2018 (which apply with any necessary modifications).
 
 ### 7 Details of academic performance
-The Ministry may, on request by MSD, supply details of the academic performance of any person for the purpose of verifying—
+(1) The Ministry may, on request by MSD, supply details of the academic performance of any person for the purpose of verifying—
   (a) the entitlement or eligibility of the person to or for any benefit, allowance, or student loan; or
   (b) the amount of any benefit, allowance, or student loan to which any person is or was entitled or for which any person is or was eligible.
+((2)) On or after 1 December 2020, no information may be supplied under this clause except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 
 ### 8 Disclosure of enrolment information by institutions
 (1) The purpose of this clause is to enable institutions to disclose information to MSD to verify—
   (a) the entitlement or eligibility of any person to or for any benefit or allowance or student loan; or
   (b) the amount of any benefit or allowance or student loan to which any person is or was entitled or for which any person is or was eligible.
-(2) For the purpose of this clause, the chief executive may, in accordance with arrangements under the Privacy Act 1993 previously agreed between the chief executive and any institution or, if they are unable to agree, settled by the Privacy Commissioner, by notice in writing or electronically require the institution to supply any or all of the information set out in subclause (5) in respect of people—
+(2) For the purpose of this clause, the chief executive may, by notice in writing or electronically, require the institution to supply any or all of the information set out in subclause (5) in respect of people—
   (a) who are (or were in any specified period) enrolled as students at the institution; or
   (b) whose name and date of birth (being the name and date of birth of any person who is, or was during any specified period, receiving a benefit or allowance or student loan) is supplied to the institution by the chief executive, together with the notice.
 (3) A notice under subclause (2)—
@@ -9037,14 +9043,17 @@ The Ministry may, on request by MSD, supply details of the academic performance 
   (g) details of any allowances granted to the person by the institution on behalf of the Secretary in any academic year before the 1999 academic year:
   (h) details reasonably required by the chief executive for the administration of the student loan scheme or for the determination or provision of an allowance or a benefit.
 (6) As soon as possible after the time or times specified in a requirement under subclause (3), an institution must supply the information required to the chief executive or any employee or agent of MSD authorised by the chief executive to receive the information.
-(7) Information supplied by an institution under subclause (6) must be in a form previously agreed between the institution and the chief executive, or, if they are unable to agree, settled by the Privacy Commissioner, and may include coded information.
-(8) Section 104 of the Privacy Act 1993 applies as if subsection (1) of that section also provided that, in relation to the information matching programme in this section, the Privacy Commissioner, before seeking a report on any of the matters in section 104(2)﻿(a), (d), or (e) of the Privacy Act 1993 from an institution, must first seek a report on the matter from MSD.
+(7) Information supplied by an institution under subclause (6) must be in a form previously agreed between the institution and the chief executive under the Privacy Act 2020, or, if they are unable to agree, settled by the Privacy Commissioner, and may include coded information.
+(8) Section 182 of the Privacy Act 2020 applies as if subsection (1) of that section also provided that, in relation to the information matching programme in this section, the Privacy Commissioner, before seeking a report on any of the matters in section 182(2)﻿(a), (d), or (e) of the Privacy Act 2020 from an institution, must first seek a report on the matter from MSD.
+((9)) On or after 1 December 2020, no information may be supplied under this clause except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 
 ### 9 Disclosure of enrolment information by private training establishments
 (1) The purpose of this clause is to enable governing bodies of private training establishments to disclose information to MSD to verify—
   (a) the entitlement or eligibility of any person to or for any benefit or allowance or student loan; or
   (b) the amount of any benefit or allowance or student loan to which any person is or was entitled or for which any person is or was eligible.
-(2) For the purpose of this clause, the chief executive may, in accordance with arrangements under the Privacy Act 1993 previously agreed between the chief executive and any institution or, if they are unable to agree, settled by the Privacy Commissioner, by notice in writing or electronically require the private training establishment to supply any or all of the information set out in subclause (5) in respect of people—
+(2) For the purpose of this clause, the chief executive may, by notice in writing or electronically, require the private training establishment to supply any or all of the information set out in subclause (5) in respect of people—
   (a) who are (or were in any specified period) enrolled as students at the private training establishment; or
   (b) whose name and date of birth (being the name and date of birth of any person who is, or was during any specified period, receiving a benefit or allowance or student loan) is supplied to the private training establishment by the chief executive, together with the notice.
 (3) A notice under subclause (2)—
@@ -9066,8 +9075,11 @@ The Ministry may, on request by MSD, supply details of the academic performance 
   (g) details of any allowances granted to them by the private training establishment on behalf of the Secretary in any academic year before the 1999 academic year:
   (h) details reasonably required by the chief executive for the administration of the student loan scheme or for the provision or determination of a benefit or allowance.
 (6) As soon as possible after the time or times specified in a requirement under subclause (2), a private training establishment must supply the information required to the chief executive or any employee or agent of MSD authorised by the chief executive to receive the information.
-(7) Information supplied by a private training establishment under subclause (6) must be in a form previously agreed between the private training establishment and the chief executive or, if they are unable to agree, settled by the Privacy Commissioner, and may include coded information.
-(8) Section 104 of the Privacy Act 1993 applies as if subsection (1) of that section also provided that, in relation to the information matching programme in clause 8, the Privacy Commissioner, before seeking a report on any of the matters in section 104(2)﻿(a), (d), and (e) of the Privacy Act 1993 from a private training establishment, must first seek a report on the matter from MSD.
+(7) Information supplied by a private training establishment under subclause (6) must be in a form previously agreed between the private training establishment and the chief executive under the Privacy Act 2020 or, if they are unable to agree, settled by the Privacy Commissioner, and may include coded information.
+(8) Section 182 of the Privacy Act 2020 applies as if subsection (1) of that section also provided that, in relation to the information matching programme in clause 8, the Privacy Commissioner, before seeking a report on any of the matters in section 182(2)﻿(a), (d), or (e) of the Privacy Act 2020 from a private training establishment, must first seek a report on the matter from MSD.
+((9)) On or after 1 December 2020, no information may be supplied under this clause except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 
 ### 10 Allowances identified by Gazette notice
 (1) The Minister may, by notice in the Gazette, identify either or both of the following as an allowance to which this clause applies:
