@@ -1,5 +1,5 @@
 # Dog Control Act 1996
-_Consolidation as at 2019-12-14_
+_Consolidation as at 2020-12-01_
 
 > An Act—ato make better provision for the control of dogs; andbto make better provision in relation to damage caused by dogs; andcto repeal the Dog Control and Hydatids Act 1982 and its amendments
 
@@ -647,7 +647,7 @@ No territorial authority shall give its consent under section 32(1)﻿(f) to the
   (d) in order to advise the owner of the destruction of the dog under section 59 or section 60:
   (e) in order to make a complaint under section 61(1):
   (f) any other purpose specified in relation to the dogs register—
-    (i) in a code of practice issued, in relation to that register, under section 63 of the Privacy Act 1993; or
+    (i)
     (ii) in regulations made under section 78.
 (6) A territorial authority that complies with section 34(6) is not required to answer any request made under subsection (2)﻿(c). Instead the request must be treated as a request made to the territorial authority referred to in section 35A(2).
 
