@@ -1,5 +1,5 @@
 # Broadcasting Act 1989
-_Consolidation as at 2017-03-21_
+_Consolidation as at 2020-12-01_
 
 > An Act—ato provide for the maintenance of programme standards in broadcasting in New Zealand; andbto establish the Broadcasting Standards Authority and to define its functions and powers; andcto establish the Broadcasting Commission and to define its functions and powers; anddto enable political parties to broadcast election programmes for Parliamentary elections free of charge; andefto repeal the Broadcasting Act 1976; andgto provide for matters incidental thereto
 
@@ -43,7 +43,7 @@ _Consolidation as at 2017-03-21_
   - **election programme** ,—
     (a) in the definition of advertising programme and in sections 8 and 21, means a programme broadcast under Part 6; and
     (b) in Part 6, has the meaning given to it by section 69
-  - **individual** has the same meaning as in section 2(1) of the Privacy Act 1993
+  - **individual** has the same meaning as in section 7(1) of the Privacy Act 2020
   - **Minister** means, in relation to a Part of this Act, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Part
   - **programme** —
     (a) means sounds or visual images, or a combination of sounds and visual images, intended—
@@ -308,7 +308,7 @@ Except in any proceedings for perjury within the meaning of the Crimes Act 1961 
   (h) to conduct research and publish findings on matters relating to standards in broadcasting.
 (2) The Authority shall, in encouraging, under subsection (1)﻿(e), the development by broadcasters of codes of broadcasting practice, encourage broadcasters to consult with persons having an interest in the subject matter of those codes.
 (3) Nothing in subsection (1) shall relate to advertising programmes or any credit in respect of a sponsorship or underwriting arrangement entered into in relation to a programme except where neither the broadcaster nor the advertiser recognise, in relation to a specific complaint, the jurisdiction of the Advertising Standards Complaints Board (a board appointed by the Advertising Standards Authority Incorporated).
-(4) When performing its functions under subsection (1)﻿(e), (f), or (g) in relation to a code of practice of the kind described in subsection (1)﻿(e)﻿(vii), the Authority must consult with the Privacy Commissioner appointed under the Privacy Act 1993.
+(4) When performing its functions under subsection (1)﻿(e), (f), or (g) in relation to a code of practice of the kind described in subsection (1)﻿(e)﻿(vii), the Authority must consult with the Privacy Commissioner appointed under the Privacy Act 2020.
 (5) Except as expressly provided otherwise in this or any other Act, the Authority must act independently in performing its statutory functions and duties, and exercising its statutory powers, under—
   (a) this Act; and
   (b) any other Act that expressly provides for the functions, powers, or duties of the Authority (other than the Crown Entities Act 2004).
