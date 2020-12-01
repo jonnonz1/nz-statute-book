@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -3049,7 +3049,7 @@ Every Gambling Commissioner is, while acting as such, an official within the mea
 The following enactments apply to the Gambling Commission:
   (a) the Official Information Act 1982:
   (b) the Ombudsmen Act 1975:
-  (c) the Privacy Act 1993:
+  (c) the Privacy Act 2020:
   (d) the Public Records Act 2005.
 
 ### 234 Schedule 3 applies to Gambling Commission
