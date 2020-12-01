@@ -1,5 +1,5 @@
 # Criminal Disclosure Act 2008
-_Consolidation as at 2020-08-26_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Criminal Disclosure Act 2008.
@@ -49,7 +49,7 @@ This Act binds the Crown.
     (b) any counsel representing the person who filed the charging document in the proceedings; and
     (c) in the case of a private prosecution, the person who filed the charging document and any counsel representing that person
   - **publicly available information** means information that is contained in a publicly available publication
-  - **publicly available publication** means a magazine, book, newspaper, website, or other publication that is or will be generally available to members of the public, and includes a public register as defined in section 2(1) of the Privacy Act 1993
+  - **publicly available publication** means a publication (including a register, list, or roll of data) in printed or electronic form that is, or will be, generally available to members of the public free of charge or on payment of a fee
   - **Registrar** —
     (a) means the Registrar of the court concerned; and
     (b) includes any Deputy Registrar of that court
