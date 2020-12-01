@@ -1,5 +1,5 @@
 # Outer Space and High-altitude Activities Act 2017
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Outer Space and High-altitude Activities Act 2017.
@@ -938,7 +938,7 @@ All infringement fees paid in respect of infringement offences must be paid into
 (3) If subsection (1)﻿(a) or (b) applies, the Minister or agency (as the case may be) may impose conditions that he or she or it thinks fit relating to the provision of the information or document, including conditions relating to—
   (a) the storage and use of, or access to, anything provided:
   (b) the copying, returning, or disposing of copies of any documents provided.
-(4) Nothing in this section limits access to information under the Privacy Act 1993.
+(4) Nothing in this section limits access to information under the Privacy Act 2020.
 (5) This section applies despite anything to the contrary in any contract, deed, or document.
 
 **Review of this Act**
