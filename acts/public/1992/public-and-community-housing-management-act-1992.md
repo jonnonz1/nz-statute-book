@@ -1,5 +1,5 @@
 # Public and Community Housing Management Act 1992
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 > Title
 
@@ -399,41 +399,16 @@ This Act is subject to Schedule 4, which provides for transitional and savings p
 ## Part 6 — Information matching
 
 ### 66 Interpretation
-In this Part, unless the context otherwise requires,—
-  - **benefit** means any of the following:
-    (a) a benefit as defined in Schedule 2 of the Social Security Act 2018:
-    (b) a funeral grant lump sum payable under section 90 of that Act:
-    (c) any special assistance payable under a programme approved under section 100 or 101 of that Act:
-    (d) an allowance established by regulations made under section 645 of the Education and Training Act 2020
-  - **department** means the department for the time being responsible for the administration of the Social Security Act 2018
-  - **partner** , in the phrase spouse or partner and in related contexts, means, in relation to any person (A), a person—
-    (a) who is A's civil union partner or de facto partner; and
-    (b) who is not, in the opinion of Kāinga Ora–Homes and Communities, living apart from A.
+[Repealed]
 
 ### 67 Purpose of section 68
-The purpose of section 68 is to facilitate the disclosure of information by Kāinga Ora–Homes and Communities to the department for the purpose of helping the department to—
-  (a) verify the entitlement or eligibility of any person to or for any benefit; and
-  (b) verify the amount of any benefit to which any person is or was entitled or to which any person is or was eligible; and
-  (c) recover debts due to the Crown (acting by and through the department) in respect of benefits.
+[Repealed]
 
 ### 68 Disclosure of tenancy information for benefit purposes
-(1) For the purpose stated in section 67, the chief executive of the department may from time to time request Kāinga Ora–Homes and Communities to supply, in respect of persons who are tenants in relation to Kāinga Ora housing, or were tenants of Housing New Zealand Corporation or Housing New Zealand Limited on or after 1 July 2006,—
-  (a) the biographical information held by Kāinga Ora–Homes and Communities that is sufficient to identify those persons, including their addresses; and
-  (b) the details of the tenancies of those persons held by Kāinga Ora–Homes and Communities that are necessary for the purpose stated in section 67.
-(2) A request under subsection (1) must be made in accordance with arrangements made from time to time between the chief executive of the department and Kāinga Ora–Homes and Communities.
-(3) On receipt of a request under subsection (1), Kāinga Ora–Homes and Communities may supply the information requested to any person who is an officer or employee or agent—
-  (a) of the chief executive of the department; and
-  (b) authorised for the purpose by that chief executive.
-(4) Information supplied under a request under subsection (1) may be supplied in a form determined by agreement between Kāinga Ora–Homes and Communities and the chief executive of the department.
+[Repealed]
 
 ### 69 Information and details to be disclosed
-Examples of the information and details referred to in section 68(1)﻿(a) and (b) are, for every tenant or former tenant,—
-  (a) his or her full name, any other names used by him or her, and his or her date of birth; and
-  (b) the full name, any other names used by, and the date of birth of, his or her spouse or partner (if any) and the full names, any other names used by, and the dates of birth of, any dependent children of the tenant or his or her spouse or partner (if any); and
-  (c) the physical address of Kāinga Ora–Homes and Communities housing that is the subject of the tenancy; and
-  (d) the start date, end date (if any), and weekly rent of the tenancy; and
-  (e) his or her income, and the components of it, as advised by him or her on any form or forms, or in any other information, supplied to Kāinga Ora–Homes and Communities for the purposes of enabling it to determine his or her rental, and the period or periods to which that income, or a component of it, relates; and
-  (f) any address or other details supplied to Kāinga Ora–Homes and Communities for the purposes of enabling it to contact him or her after the tenancy has ended.
+[Repealed]
 
 ## Part 7 — Kāinga Ora housing
 
@@ -529,7 +504,7 @@ Nothing in this Act requires Kāinga Ora–Homes and Communities to provide any 
   (c) give Kāinga Ora–Homes and Communities—
     (i) a copy of any document or other written information; or
     (ii) a printout of any information stored digitally.
-(2) The person does not have to comply with the request but (for the purposes of section 7(1) of the Privacy Act 1993) this subsection authorises the person to make personal information available in response to the request.
+(2) The person does not have to comply with the request but (for the purposes of section 24 of the Privacy Act 2020) this subsection authorises the person to make personal information available in response to the request.
 
 ### 80 Kāinga Ora–Homes and Communities may require information for certain purposes
 (1) Kāinga Ora–Homes and Communities may by written notice require information from any person for any 1 or more of the following purposes:
@@ -542,7 +517,7 @@ Nothing in this Act requires Kāinga Ora–Homes and Communities to provide any 
 (4) A person from whom information is required under subsection (1) or advice is required under subsection (3) must comply with the requirement—
   (a) no later than 5 working days after the notice was given; and
   (b) in the manner specified in the notice, without charge to Kāinga Ora–Homes and Communities.
-(5) This subsection authorises (for the purposes of section 7(1) of the Privacy Act 1993) any person who is required to provide information under subsection (1) or advice under subsection (3) to make personal information available in response to the requirement.
+(5) This subsection authorises (for the purposes of section 24 of the Privacy Act 2020) any person who is required to provide information under subsection (1) or advice under subsection (3) to make personal information available in response to the requirement.
 (6) Subsection (1) does not—
   (a) require any person to provide any information or produce any document that would be privileged in a court of law:
   (b) require any person to provide any information or produce any document that is legally professionally privileged.
@@ -632,7 +607,7 @@ Nothing in this Act requires Kāinga Ora–Homes and Communities to provide any 
     (ii) information from specified classes of persons or from persons in specified relationships; and
   (c) must specify procedures applying to the obtaining of information under section 80.
 (3) Kāinga Ora–Homes and Communities may from time to time, in consultation with the Privacy Commissioner, amend the code of conduct, or revoke the code of conduct and issue a new code of conduct.
-(4) Nothing in the code of conduct may derogate from any code of practice issued by the Privacy Commissioner under Part 6 of the Privacy Act 1993 that applies to the information required under section 80, and Kāinga Ora–Homes and Communities, in consultation with the Privacy Commissioner, must amend the code of conduct to conform with any such code of practice. This subsection is affected by section 88.
+(4) Nothing in the code of conduct may derogate from any code of practice issued by the Privacy Commissioner under section 32 of the Privacy Act 2020 that applies to the information required under section 80, and Kāinga Ora–Homes and Communities, in consultation with the Privacy Commissioner, must amend the code of conduct to conform with any such code of practice. This subsection is affected by section 88.
 (5) As soon as practicable after issuing any code of conduct and any amendment to it under this section, Kāinga Ora–Homes and Communities must arrange for it to be published on an Internet site that is publicly available at all reasonable times or published in a form that is otherwise accessible to the public.
 (6) The code of conduct that, before the commencement of this section, was issued under Part 5 is, on the commencement of this section, deemed to be issued under this section.
 
@@ -649,11 +624,11 @@ The following persons must comply with the code of conduct when requiring inform
   (a) any specified class of information; or
   (b) information from any specified class of persons; or
   (c) information in any specified manner.
-(2) Subsection (1) applies despite the fact that the making of that requirement would otherwise be in breach of any code of practice issued by the Privacy Commissioner under Part 6 of the Privacy Act 1993.
+(2) Subsection (1) applies despite the fact that the making of that requirement would otherwise be in breach of any code of practice issued by the Privacy Commissioner under section 32 of the Privacy Act 2020.
 
 ### 89 Complaints
 (1) Any person who is required to provide any information under section 80, or who is the subject of that information, may make a complaint to the Privacy Commissioner that the requirement breaches the code of conduct.
-(2) Part 8 of the Privacy Act 1993 applies to any such complaint as if the code of conduct were a code of practice issued under Part 6 of that Act.
+(2) Parts 5 and 6 of the Privacy Act 2020 apply to any such complaint as if the code of conduct were a code of practice issued under section 32 of that Act.
 
 ### 90 Matters to be included in code of conduct
 (1) The code of conduct issued under section 86 must contain the following matters:
@@ -1065,7 +1040,7 @@ For the purpose of any investigation conducted under section 119, 120, or 121, t
   (c) give the agency—
     (i) a copy of any document or other written information; or
     (ii) a printout of any information stored digitally.
-(2) The person does not have to comply with the request, but (for the purposes of section 7(1) of the Privacy Act 1993) this subsection authorises the person to make personal information available in response to the request.
+(2) The person does not have to comply with the request, but (for the purposes of section 24 of the Privacy Act 2020) this subsection authorises the person to make personal information available in response to the request.
 
 ### 125 Agency may require information for certain purposes
 (1) The agency may by written notice require information from any person for any 1 or more of the following purposes:
@@ -1082,7 +1057,7 @@ For the purpose of any investigation conducted under section 119, 120, or 121, t
 (4) A person from whom information is required under subsection (1) or advice is required under subsection (3) must comply with the requirement—
   (a) no later than 5 working days after the notice was given; and
   (b) in the manner specified in the notice, without charge to the agency.
-(5) This subsection authorises (for the purposes of section 7(1) of the Privacy Act 1993) any person who is required to provide information under subsection (1) or (3) to make personal information available in response to the requirement.
+(5) This subsection authorises (for the purposes of section 24 of the Privacy Act 2020) any person who is required to provide information under subsection (1) or (3) to make personal information available in response to the requirement.
 (6) Subsection (1) does not—
   (a) require any person to provide any information or produce any document that would be privileged in a court of law:
   (b) require any person to provide any information or produce any document that is legally professionally privileged.
@@ -1251,7 +1226,7 @@ The agency may, for the purposes of and in accordance with a direction under sec
     (ii) information from specified classes of persons or from persons in specified relationships; and
   (c) must specify procedures applying to the obtaining of information under section 125.
 (3) The agency may from time to time, in consultation with the Privacy Commissioner, amend the code of conduct, or revoke the code of conduct and issue a new code of conduct.
-(4) Nothing in the code of conduct may derogate from any code of practice issued by the Privacy Commissioner under Part 6 of the Privacy Act 1993 that applies to the information required under section 125, and the agency, in consultation with the Privacy Commissioner, must amend the code of conduct to conform with any such code of practice. This subsection is affected by section 140.
+(4) Nothing in the code of conduct may derogate from any code of practice issued by the Privacy Commissioner under section 32 of the Privacy Act 2020 that applies to the information required under section 125, and the agency, in consultation with the Privacy Commissioner, must amend the code of conduct to conform with any such code of practice. This subsection is affected by section 140.
 (5) As soon as practicable after issuing any code of conduct and any amendment to it under this section, the agency must arrange for it to be published on an Internet site that is publicly available at all reasonable times or published in a form that is otherwise accessible to the public.
 (6) The code of conduct that, before the commencement of this section, was issued under Part 5—
   (a) is, on the commencement of this section, deemed to be issued under this section; and
@@ -1269,11 +1244,11 @@ The following persons must comply with the code of conduct when requiring inform
   (a) any specified class of information; or
   (b) information from any specified class of persons; or
   (c) information in any specified manner.
-(2) Subsection (1) applies despite the fact that the making of that requirement under that section would otherwise be in breach of any code of practice issued by the Privacy Commissioner under Part 6 of the Privacy Act 1993.
+(2) Subsection (1) applies despite the fact that the making of that requirement under that section would otherwise be in breach of any code of practice issued by the Privacy Commissioner under section 32 of the Privacy Act 2020.
 
 ### 141 Complaints
 (1) Any person who is required to provide any information under section 125 or who is the subject of that information may make a complaint to the Privacy Commissioner that the requirement breaches the code of conduct.
-(2) Part 8 of the Privacy Act 1993 applies to the complaint as if the code of conduct were a code of practice issued under Part 6 of the Privacy Act 1993.
+(2) Parts 5 and 6 of the Privacy Act 2020 apply to the complaint as if the code of conduct were a code of practice issued under section 32 of that Act.
 
 ### 142 Matters to be included in code of conduct
 (1) The code of conduct issued under section 138 must contain the following matters:
