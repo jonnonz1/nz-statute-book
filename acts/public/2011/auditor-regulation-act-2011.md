@@ -1,5 +1,5 @@
 # Auditor Regulation Act 2011
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Auditor Regulation Act 2011.
@@ -560,9 +560,9 @@ The Registrar may refuse to accept a document received by the Registrar under th
   (e) any other prescribed criteria:
   (f) any combination of the criteria in paragraphs (a) to (e).
 (3) The register may be searched for the following purposes:
-  (a) by an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual in accordance with the Privacy Act 1993:
+  (a) by an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual in accordance with the Privacy Act 2020:
   (b) by a person for a purpose referred to in section 40.
-(4) A person who searches the register for personal information in breach of this section must be treated, for the purposes of Part 8 of the Privacy Act 1993, as having breached an information privacy principle under section 66(1)﻿(a)﻿(i) of that Act.
+(4) A person who searches the register for personal information in breach of this section must be treated, for the purposes of Parts 5 and 6 of the Privacy Act 2020, as having breached an information privacy principle under section 69(2)﻿(a)﻿(i) of that Act.
 
 ### 47 Power of Registrar to delegate
 (1) The Registrar may delegate to any person, either generally or particularly, any of the Registrar’s functions, duties, and powers under this Part except the power of delegation.
