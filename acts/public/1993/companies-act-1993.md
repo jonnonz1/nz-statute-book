@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2020-09-01_
+_Consolidation as at 2020-12-01_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -6470,7 +6470,7 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
 (2) The Registrar may use any information, or a copy of any document, provided to him or her by the FMA under section 30 of the Financial Markets Authority Act 2011 in the Registrar's exercise or performance of the Registrar's functions, powers, or duties.
 (3) In this section, Registrar's functions, powers, or duties means his or her functions, powers, or duties under this Act or any other enactment (including functions, powers, or duties as the Registrar under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 and the Financial Markets Conduct Act 2013).
 (4) This section applies despite anything to the contrary in any contract, deed, or document.
-(5) Nothing in this section limits the Privacy Act 1993.
+(5) Nothing in this section limits the Privacy Act 2020.
 
 ### 372 Fees
 (1) The Governor-General may from time to time, by Order in Council, make regulations prescribing—
