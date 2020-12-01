@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2020-11-06_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -42,7 +42,7 @@ The object of this Act is—
 (1C) To avoid doubt,—
   (a) subsection (1B) does not affect an employer's obligations under—
     (i) the Official Information Act 1982 (despite section 52(3) of that Act); or
-    (ii) the Privacy Act 1993 (despite section 7(2) of that Act):
+    (ii) the Privacy Act 2020 (despite section 24(1) of that Act):
   (b) an employer must not refuse to provide access to information under subsection (1A)﻿(c) merely because the information is contained in a document that includes confidential information.
 (1D) For the purposes of subsections (1B) and (1C), confidential information means information that is provided in circumstances where there is a mutual understanding (whether express or implied) of secrecy.
 (2) The employment relationships are those between—
@@ -561,7 +561,7 @@ The object of this Part is—
   (a) must be used only for the purposes of the bargaining concerned; and
   (b) must be treated as confidential by the persons conducting the bargaining concerned; and
   (c) must not be disclosed by those persons to anyone else, including persons who would be bound by the collective agreement being bargained for.
-(8) This section does not limit or affect the Privacy Act 1993.
+(8) This section does not limit or affect the Privacy Act 2020.
 (9) Nothing in the Official Information Act 1982 (except section 6) enables an employer that is subject to that Act to withhold information that is required under section 32(1)﻿(e).
 
 **Codes of good faith**
@@ -1691,7 +1691,7 @@ To avoid doubt, any failure by an employee's employer to comply with the obligat
   (e) notice in writing—
     (i) that employee transfer costs information and individualised employee information (as those terms are defined in section 69OB) relating to employees who elect to transfer will be provided to the new employer; and
     (ii) that explains that individualised employee information includes (but is not limited to) information about any disciplinary matters relating to those employees and any personal grievances raised by those employees against the employer; and
-    (iii) that those employees are entitled to access the information, and to request correction of the information, in accordance with the Privacy Act 1993.
+    (iii) that those employees are entitled to access the information, and to request correction of the information, in accordance with the Privacy Act 2020.
 (3) The employees' employer must send an election that complies with subsections (1)﻿(d) and (2)﻿(d) to the new employer as soon as practicable, but no later than 5 working days after the day on which that election is received by the employees' employer.
 (4) If an employee sends an election that complies with subsection (2)﻿(d) by post or electronic means before the date described in subsection (1)﻿(d), the employee must be treated as having exercised the employee’s right to make an election by that date.
 (5) If the employee’s employer sends an election to the new employer by post or electronic means before the date that is 5 working days after the day on which the employee’s employer received that election, the employee’s employer must be treated as having met the deadline specified in subsection (3).
@@ -1951,7 +1951,7 @@ The object of this subpart is to make provision for the disclosure of employee t
   (a) the information that is out of date; and
   (b) what the up-to-date information is.
 (6) Every employer who fails to comply with subsections (2) to (5) is liable to a penalty imposed by the Authority.
-(7) To avoid doubt, the new employer may keep, use, or disclose individualised employee information only in accordance with the Privacy Act 1993.
+(7) To avoid doubt, the new employer may keep, use, or disclose individualised employee information only in accordance with the Privacy Act 2020.
 
 ### 69OF Employer who is subject to Official Information Act 1982
 Nothing in the Official Information Act 1982 (except section 6) enables an employer that is subject to that Act to withhold information that is requested under this subpart.
@@ -2729,7 +2729,7 @@ An employee who believes that he or she has a personal grievance may pursue that
   (f) that the employee has been subject to duress in the employee's employment in relation to membership or non-membership of a union or employees organisation; or
   (g) that the employee's employer has failed to comply with a requirement of Part 6A; or
   (h) that the employee has been disadvantaged by the employee’s employment agreement not being in accordance with section 67C, 67D, 67G, or 67H; or
-  (i) that the employee’s employer has contravened section 67F or 67G(3).
+  (i) that the employee’s employer has contravened section 67F or 67G(3); or
   (j) that the employee’s employer has, in relation to the employee,—
     (i) engaged in adverse conduct for a prohibited health and safety reason; or
     (ii) contravened section 92 of the Health and Safety at Work Act 2015 (which prohibits coercion or inducement).
@@ -3834,7 +3834,7 @@ Subject to sections 163 and 164, the Authority may, in any matter related to an 
 The Authority may not, under section 162 or any other provision of this Act, make in respect of a collective agreement an order cancelling or varying the agreement or any term of the agreement.
 
 ### 164 Application to individual employment agreements of law relating to contracts
-Where the Authority, has, under section 69(1)﻿(b) or section 162, the power to make an order cancelling or varying an individual employment agreement or any term of such an agreement, the Authority may make such an order only if—
+Where the Authority has, under section 69(1)﻿(b) or section 162, the power to make an order cancelling or varying an individual employment agreement or any term of such an agreement, the Authority may make such an order only if—
   (a) the Authority (whether or not it gave any direction under section 159(1)﻿(b) in relation to the matter)—
     (i) has identified the problem in relation to the agreement; and
     (ii) has directed the parties to attempt in good faith to resolve that problem; and
@@ -4696,7 +4696,7 @@ A Judge who, on application made on oath, is satisfied that there is reasonable 
 (3) A Labour Inspector, the department, or a regulatory agency who provides information or a copy of a document under this section may impose conditions relating to the provision of the information, including conditions relating to—
   (a) the storage and use of, or access to, anything provided:
   (b) the copying, returning, or disposing of any documents provided.
-(4) This section applies subject to any other enactment, including the Privacy Act 1993.
+(4) This section applies subject to any other enactment, including the Privacy Act 2020.
 (5) This section overrides provisions in contracts, deeds, and other documents that are inconsistent with this section.
 (6) In this section, regulatory agency means—
   (a) an immigration officer under the Immigration Act 2009:
