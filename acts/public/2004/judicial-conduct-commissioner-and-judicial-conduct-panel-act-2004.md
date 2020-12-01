@@ -1,5 +1,5 @@
 # Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004.
@@ -228,7 +228,7 @@ Part 1 of Schedule 2 applies in relation to the Commissioner and the Deputy Comm
 (2) The Commissioner and every person employed in the office of the Commissioner—
   (a) are officers of a department for the purposes of sections 78 and 78A of the Crimes Act 1961 and section 20A of the Summary Offences Act 1981:
   (b) are officials for the purposes of sections 105 and 105A of the Crimes Act 1961.
-(3) Nothing in information privacy principle 6 (which relates to access to personal information and is defined in section 6 of the Privacy Act 1993) applies in respect of any information held by the office of the Commissioner that relates to any investigation conducted by the Commissioner under this Act, other than any document (as defined in section 2(1) of the Privacy Act 1993) that came into existence before the commencement of that investigation.
+(3) Nothing in information privacy principle 6 set out in section 22 of the Privacy Act 2020 (access to personal information) applies in respect of any information held by the office of the Commissioner that relates to any investigation conducted by the Commissioner under this Act, other than any document (as defined in section 7(1) of the Privacy Act 2020) that comes into existence before the commencement of that investigation.
 
 ### 20 Commissioner must make files available to Attorney-General and special counsel
 (1) If the Commissioner recommends that a Judicial Conduct Panel be appointed,—
