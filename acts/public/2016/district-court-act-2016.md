@@ -1,5 +1,5 @@
 # District Court Act 2016
-_Consolidation as at 2020-08-26_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the District Court Act 2016.
@@ -1921,14 +1921,14 @@ The Governor-General may, by Order in Council, make regulations for all or any o
 ### 236 Access to court information, judicial information, or Ministry of Justice information
 (1) Any person may have access to court information of the District Court to the extent provided by, and in accordance with, rules of court.
 (2) Access to judicial information is not subject to any enactment that applies to the provision of, or access to, any other information.
-(3) Any person may have access to any Ministry of Justice information to the extent provided by, and in accordance with, the Official Information Act 1982, the Privacy Act 1993, the Public Records Act 2005, or any other enactment providing for or regulating access to the information.
+(3) Any person may have access to any Ministry of Justice information to the extent provided by, and in accordance with, the Official Information Act 1982, the Privacy Act 2020, the Public Records Act 2005, or any other enactment providing for or regulating access to the information.
 (4) In this section, court information, judicial information, and Ministry of Justice information mean the information described as such in Schedule 1.
 
 ### 237 Sharing of permitted information with other agencies
 (1) This section applies to permitted information specified in Part B of the items relating to court information in Schedule 1, regardless of whether the information is controlled by the judiciary.
-(2) In response to a request from an agency for information to which this section applies, the Ministry of Justice may, by way of an approved information sharing agreement under the Privacy Act 1993, share any permitted information with the agency.
-(3) The Ministry of Justice holds permitted information solely for the purpose of entering into approved information sharing agreements under the Privacy Act 1993, and that information is not otherwise subject to the Privacy Act 1993 and is not subject to the Official Information Act 1982 or the Public Records Act 2005.
-(4) Nothing in this section or an approved information sharing agreement under the Privacy Act 1993 requires the Ministry of Justice to disclose any matter suppressed by or under a court order or any enactment.
+(2) In response to a request from an agency for information to which this section applies, the Ministry of Justice may, by way of an approved information sharing agreement under the Privacy Act 2020, share any permitted information with the agency.
+(3) The Ministry of Justice holds permitted information solely for the purpose of entering into approved information sharing agreements under the Privacy Act 2020, and that information is not otherwise subject to the Privacy Act 2020 and is not subject to the Official Information Act 1982 or the Public Records Act 2005.
+(4) Nothing in this section or an approved information sharing agreement under the Privacy Act 2020 requires the Ministry of Justice to disclose any matter suppressed by or under a court order or any enactment.
 (5) The Governor-General may, by Order in Council made on the recommendation of the Minister of Justice, amend or replace Part B of the items relating to court information in Schedule 1.
 (6) The Minister of Justice may make a recommendation under subsection (5) only after consultation with the Attorney-General and with the consent of the Chief Justice.
 
