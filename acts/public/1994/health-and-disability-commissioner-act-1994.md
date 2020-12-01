@@ -1,5 +1,5 @@
 # Health and Disability Commissioner Act 1994
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 > An Act to promote and protect the rights of health consumers and disability services consumers, and, in particular,—ato secure the fair, simple, speedy, and efficient resolution of complaints relating to infringements of those rights; andbto provide for the appointment of a Health and Disability Commissioner to investigate complaints against persons or bodies who provide health care or disability services; and to define the Commissioner’s functions and powers; andcto provide for the establishment of a Health and Disability Services Consumer Advocacy Service; anddto provide for the promulgation of a Code of Health and Disability Services Consumers’ Rights; andeto provide for matters incidental thereto
 
@@ -219,7 +219,7 @@ The provisions of Schedule 2 shall have effect in relation to the Commissioner a
   (a) the principle that, except where any enactment or any provision of the Code otherwise provides, no health care procedure shall be carried out without informed consent:
   (b) the duties and obligations of health care providers as they relate to the principle set out in paragraph (a):
   (c) the rights of health consumers and disability services consumers, and the duties and obligations of health care providers and disability services providers, as they relate to—
-    (i) matters of privacy (other than matters that may be the subject of a complaint under Part 7 or Part 8 of the Privacy Act 1993 or matters to which Part 10 of that Act relates):
+    (i) matters of privacy (other than matters that may be the subject of a complaint under Part 5 of the Privacy Act 2020 or matters to which subpart 4 of Part 7 of that Act relates):
     (ii) health teaching and health research:
     (iii) the provision of services that take into account the needs, values, and beliefs of different cultural, religious, social, and ethnic groups:
   (d) the duties of health care providers and disability services providers as they relate to the measures (including the provision of interpreters) necessary to enable health consumers and disability services consumers to communicate effectively with health care providers and disability services providers:
