@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2020-11-30_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -2012,7 +2012,7 @@ For the purpose of reporting to the Secretariat in accordance with international
 (1) Before regulations are made under section 50(2) or (3), the inventory agency must provide a report to the Minister on—
   (a) whether or not the information to be collected under the regulations is reasonably available to the inventory agency by other means, including, but not limited to,—
     (i) voluntary collection; or
-    (ii) collection from a government agency that holds the information (provided that the release of the information by that government agency complies with the principles of the Privacy Act 1993 and any provisions of the enactment under which the information was collected); and
+    (ii) collection from a government agency that holds the information (provided that the release of the information by that government agency complies with the information privacy principles set out in section 22 of the Privacy Act 2020 and any provisions of the enactment under which the information was collected); and
   (b) any deficiencies with collecting the information using those other means, including, but not limited to,—
     (i) deficiencies in obtaining the required quality of information; and
     (ii) the lack of certainty that all the required information can be provided; and
