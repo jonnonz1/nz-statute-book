@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2020-08-26_
+_Consolidation as at 2020-12-01_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -1868,7 +1868,7 @@ The objectives of sections 111B to 111F are—
   (b) to ensure that registers of iwi affiliations are established and maintained by a body which—
     (i) is accountable to the organisations to which it is authorised to supply information; and
     (ii) is financially viable and well managed; and
-    (iii) manages information in compliance with the requirements of this Act and the Privacy Act 1993; and
+    (iii) manages information in compliance with the requirements of this Act and the Privacy Act 2020; and
     (iv) makes iwi affiliation information available to iwi organisations and other Maori organisations at a reasonable cost; and
     (v) except as required for the purpose of establishing and maintaining the register or registers of iwi affiliations, does not create or maintain information on whakapapa; and
   (c) to enable information from a register of iwi affiliations to be supplied to iwi organisations and other Maori organisations for the purposes of those organisations; and
@@ -1923,7 +1923,7 @@ For the purposes of sections 111C to 111F,—
 (3) The Minister of Justice and the Minister of Maori Affairs must not designate a person or body of persons under subsection (1) unless the Ministers are satisfied that—
   (a) the person or body of persons has adequate procedures in place to ensure that it is accountable to the organisations to which it is authorised to supply information under section 111F; and
   (b) the person or body of persons is financially viable and can demonstrate prudent and adequate management policies and practices, including in matters of financial management; and
-  (c) the person’s or body of persons’ information management policies and practices are adequate to ensure compliance with this Act and the Privacy Act 1993; and
+  (c) the person’s or body of persons’ information management policies and practices are adequate to ensure compliance with this Act and the Privacy Act 2020; and
   (d) the person or body of persons has the ability to fund the establishment and maintenance of the register of iwi affiliations; and
   (e) the person or body of persons meets any other criteria that may be specified in regulations made under section 267(c).
 (4) The Minister of Justice and the Minister of Maori Affairs may, at any time, by notice in the Gazette, revoke a designation made under subsection (1).
@@ -3587,7 +3587,7 @@ In this Part, unless the context otherwise requires,—
 (6) The period specified for the purposes of subsection (4) is, in relation to a document, the period that—
   (a) begins on the day the Electoral Commission receives the document; and
   (b) ends on the day after the day for the return of the writ for the election to which the advertisement relates.
-(7) Subsection (4) overrides the Official Information Act 1982 and the Privacy Act 1993.
+(7) Subsection (4) overrides the Official Information Act 1982 and the Privacy Act 2020.
 
 ### 204J Duty of Electoral Commission to report suspected offences
 (1) If the Electoral Commission believes that any person has committed an offence specified in this subpart, the Electoral Commission must report the facts on which that belief is based to the New Zealand Police.
@@ -3684,7 +3684,7 @@ The Electoral Commission must—
 A person may search the register for a purpose set out in section 204S.
 
 ### 204X When search constitutes interference with privacy of individual
-A search of the register for personal information that has not been carried out for a purpose specified in section 204S constitutes an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+A search of the register for personal information that has not been carried out for a purpose specified in section 204S constitutes an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 
 ## Part 6A — Election expenses and donations
 
@@ -5126,6 +5126,9 @@ At the conclusion of the trial of an election petition to which section 258 appl
 (6) If this subsection applies in respect of a person, the Electoral Commission must,—
   (a) if the person has applied to be (but is not yet) registered as an elector for the district, follow the procedure specified in section 87; or
   (b) if the person is registered as an elector for the district and the name of the person is on the roll for the district, object under section 96 to the name of that person being on the roll for the district.
+(7) On or after 1 December 2020, no information may be disclosed under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 
 ### 263B Disclosure of personal information for enrolment purposes
 (1) The purpose of this section is to facilitate the disclosure of information described in subsection (2) by a specified agency to the Electoral Commission only for the purposes of—
@@ -5155,6 +5158,9 @@ At the conclusion of the trial of an election petition to which section 258 appl
     (i) who obtain New Zealand citizenship under the Citizenship Act 1977; or
     (ii) by whom, or on whose behalf, an application is made under the Passports Act 1992 for the issue or renewal of a New Zealand passport.
 (5) If, in relation to any person, information is supplied to the Electoral Commission under subsection (4), the Electoral Commission may cause a comparison of that information to be made with any information that is held by the Electoral Commission and that relates to that person.
+(5A) On or after 1 December 2020, no information may be disclosed under this section except under—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 (6) In this section, Registrar of Motor Vehicles has the same meaning as Registrar in section 233(1) of the Land Transport Act 1998.
 
 ### 264 Review by select committee
