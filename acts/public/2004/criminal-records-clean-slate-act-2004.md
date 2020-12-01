@@ -1,5 +1,5 @@
 # Criminal Records (Clean Slate) Act 2004
-_Consolidation as at 2019-02-28_
+_Consolidation as at 2020-12-01_
 
 ### 1 Title
 This Act is the Criminal Records (Clean Slate) Act 2004.
@@ -53,7 +53,7 @@ In this Act, unless the context otherwise requires,—
   - **eligible individual** means an individual who is eligible to have the clean slate scheme apply to him or her under section 7(1) or as a consequence of an order made by a court under section 9, section 10, or section 12
   - **individual** means a natural person, other than a deceased natural person
   - **law enforcement agency** means—
-    (a) an agency that holds or has access to information described in Schedule 5 of the Privacy Act 1993; and
+    (a) an agency that holds or has access to information described in Schedule 4 of the Privacy Act 2020; and
     (b) the Department of Labour, the Inland Revenue Department, and the New Zealand Customs Service
   - **non-custodial sentence** includes, but is not limited to, a community-based sentence, a sentence of home detention, a sentence of a fine or reparation, a suspended sentence of imprisonment, and a specified order
   - **prison officer** means a person who is an officer as defined in section 3(1) of the Corrections Act 2004
