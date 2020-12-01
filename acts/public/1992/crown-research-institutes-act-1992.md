@@ -1,5 +1,5 @@
 # Crown Research Institutes Act 1992
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-01_
 
 > An Act to provide for the formation of Crown-owned companies to undertake scientific research and other related activities, and to provide for matters incidental thereto
 
@@ -174,8 +174,7 @@ In relation to the transfer, pursuant to this Act, of any land, or any interest 
 (5) Each Crown Research Institute must publish the documents required by subsection (1) as soon as practicable after it has been presented to the House of Representatives under section 19.
 
 ### 17A Extension of time limit for 2019/20 financial year reports and audits: COVID-19
-(1) Despite the time limit in section 17(1), in relation to the financial year ending with 30 June 2020, the information specified in section 17(1) must be delivered to the shareholding Ministers before the close of 30 November 2020.
-(2) This section is repealed on 1 December 2020.
+[Repealed]
 
 ### 18 Half-yearly reports
 (1) Within 2 months after the end of the first half of each financial year of a Crown Research Institute, the board of the Crown Research Institute shall deliver to the shareholding Ministers a report of its operations during that half-year.
