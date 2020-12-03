@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2020-12-03_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -3192,6 +3192,8 @@ The enactments specified in Schedule 4 are hereby amended in the manner indicate
 | Use | None |  |
 | Decabromodiphenyl ether (BDE-209) present in commercial decabromodiphenyl ether CAS No: 1163-19-5 | Production | As allowed for the Parties listed in the Register |
 | Use | In accordance with Part IX of this Annex:Parts for use in vehicles specified in paragraph 2 of Part IX of this AnnexAircraft for which type approval has been applied for before December 2018 and has been received before December 2022 and spare parts for those aircraft Textile products that require anti-flammable characteristics, excluding clothing and toysAdditives in plastic housings and parts used for heating home appliances, irons, fans, immersion heaters that contain or are in direct contact with electrical parts or are required to comply with fire retardancy standards, at concentrations lower than 10 per cent by weight of the part Polyurethane foam for building insulation |  |
+| Dicofol CAS No. 115-32-2 CAS No. 10606-46-9 | Production | None |
+| Use | None |  |
 | Dieldrin*CAS No: 60-57-1 | Production | None |
 | Use | In agricultural operations |  |
 | Endrin*CAS No: 72-20-8 | Production | None |
@@ -3216,6 +3218,8 @@ The enactments specified in Schedule 4 are hereby amended in the manner indicate
 | Use | None |  |
 | Pentachlorophenol and its salts and esters | Production | As allowed for the parties listed in the Register in accordance with the provisions of Part VIII of this Annex |
 | Use | Pentachlorophenol for utility poles and cross-arms in accordance with the provisions of Part VIII of this Annex |  |
+| Perfluorooctanoic acid (PFOA), its salts and PFOA-related compoundsPerfluorooctanoic acid (PFOA), its salts and PFOA-related compounds means the following: iPerfluorooctanoic acid (PFOA; CAS No. 335-67-1), including any of its branched isomers:iiIts salts:iiiPFOA-related compounds which, for the purposes of the Convention, are any substances that degrade to PFOA, including any substances (including salts and polymers) having a linear or branched perfluoroheptyl group with the moiety (C7F15)C as one of the structural elements.The following compounds are not included as PFOA-related compounds:aC8F17-X, where X= F, Cl, Br;bFluoropolymers that are covered by CF3[CF2]n-R’, where R’=any group, n>16;cPerfluoroalkyl carboxylic and phosphonic acids (including their salts, esters, halides and anhydrides) with ≥8 perfluorinated carbons;dPerfluoroalkane sulfonic acids (including their salts, esters, halides and anhydrides) with ≥9 perfluorinated carbons;ePerfluorooctane sulfonic acid (PFOS), its salts and perfluorooctane sulfonyl fluoride (PFOSF), as listed in Annex B to the Convention. | Production | Fire-fighting foam: NoneFor other production, as allowed for the Parties listed in the Register in accordance with the provisions of Part X of this Annex |
+| Use | In accordance with the provisions of Part X of this Annex:Photolithography or etch processes in semiconductor manufacturingPhotographic coatings applied to filmsTextiles for oil and water repellency for the protection of workers from dangerous liquids that comprise risks to their health and safety Invasive and implantable medical devicesFire-fighting foam for liquid fuel vapour suppression and liquid fuel fires (Class B fires) in installed systems, including both mobile and fixed systems, in accordance with paragraph 2 of Part X of this AnnexUse of perfluorooctyl iodide for the production of perfluorooctyl bromide for the purpose of producing pharmaceutical products, in accordance with the provisions of paragraph 3 of Part X of this AnnexManufacture of polytetrafluoroethylene (PTFE) and polyvinylidene fluoride (PVDF) for the production of:High-performance, corrosion-resistant gas filter membranes, water filter membranes and membranes for medical textilesIndustrial waste heat exchanger equipmentIndustrial sealants capable of preventing leakage of volatile organic compounds and PM2.5 particulatesManufacture of polyfluoroethylene propylene (FEP) for the production of high-voltage electrical wire and cables for power transmissionManufacture of fluoroelastomers for the production of O-rings, v-belts and plastic accessories for car interiors |  |
 | Polychlorinated Biphenyls (PCB)* | Production | None |
 | Use | Articles in use in accordance with the provisions of Part II of this Annex |  |
 | Polychlorinated naphthalenes, including dichlorinated naphthalenes, trichlorinated naphthalenes, tetrachlorinated napthalenes, pentachlorinated napthalenes, hexachlorinated naphthalenes, heptachlorinated naphthalenes, octachlorinated naphthalene | Production | Intermediates in production of polyfluorinated naphthalenes, including octafluoronaphthalene |
@@ -3291,6 +3295,20 @@ The specific exemptions for parts specified in paragraph 2 (b) above shall expir
 ### 5.
 The specific exemptions for spare parts for aircraft for which type approval has been applied for before December 2018 and has been received before December 2022 shall expire at the end of the service life of those aircraft.
 
+### 1.
+The production and use of perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds shall be eliminated except for Parties that have notified the Secretariat of their intention to produce and/or use them in accordance with Article 4 of the Convention.
+
+### 2.
+Each Party that has registered for a specific exemption pursuant to Article 4 for the use of PFOA, its salts and PFOA-related compounds for fire-fighting foam shall:
+(a) Notwithstanding paragraph 2 of Article 3, ensure that fire-fighting foam that contains or may contain PFOA, its salts and PFOA-related compounds shall not be exported or imported except for the purpose of environmentally sound disposal as set forth in paragraph 1 (d) of Article 6;
+(b) Not use fire-fighting foam that contains or may contain PFOA, its salts and PFOA-related compounds for training;
+(c) Not use fire-fighting foam that contains or may contain PFOA, its salts and PFOA-related compounds for testing unless all releases are contained;
+(d) By the end of 2022, if it has the capacity to do so, but no later than 2025, restrict uses of fire-fighting foam that contains or may contain PFOA, its salts and PFOA-related compounds to sites where all releases can be contained;
+(e) Make determined efforts designed to lead to the environmentally sound management of fire-fighting foam stockpiles and wastes that contain or may contain PFOA, its salts and PFOA-related compounds, in accordance with paragraph 1 of Article 6, as soon as possible.
+
+### 3.
+With regard to the specific exemption for the use of perfluorooctyl iodide for the production of perfluorooctyl bromide for the purpose of producing pharmaceutical products, at its thirteenth ordinary meeting and at every second ordinary meeting thereafter, the Conference of the Parties shall review the continued need for this specific exemption. This specific exemption shall in any case expire at the latest in 2036.
+
 #### Schedule Annex B — Restriction
 
 | Chemical | Activity | Acceptable purpose or specific exemption |
@@ -3299,10 +3317,10 @@ The specific exemptions for spare parts for aircraft for which type approval has
 |  |  | Specific exemption:Intermediate in production of dicofolIntermediate |
 |  | Use | Acceptable purpose:Disease vector control in accordance with Part II of this Annex |
 |  |  | Specific exemption:Production of dicofolIntermediate |
-| Perfluorooctane sulfonic acid (CAS No: 1763-23-1), its saltsa and perfluorooctane sulfonyl fluoride (CAS No: 307-35-7) | Production | Acceptable purpose:In accordance with Part III of this Annex, production of other chemicals to be used solely for the uses below. Production for uses listed below. |
-| aFor example: potassium perfluorooctane sulfonate (CAS No: 2795-39-3); lithium perfluorooctane sulfonate (CAS No: 29457-72-5); ammonium perfluorooctane sulfonate (CAS No: 29081-56-9); diethanolammonium perfluorooctane sulfonate (CAS No: 70225-14-8); tetraethylammonium perfluorooctane sulfonate (CAS No: 56773-42-3); didecyldimethylammonium perfluorooctane sulfonate (CAS No: 251099-16-8) |  | Specific exemption:As allowed for Parties listed in the Register |
-|  | Use | Acceptable purpose:In accordance with Part III of this Annex for the following acceptable purposes, or as an intermediate in the production of chemicals with the following acceptable purposes:Photo-imagingPhoto-resist and anti-reflective coatings for semiconductorsEtching agent for compound semiconductors and ceramic filtersAviation hydraulic fluidsMetal plating (hard metal plating) only in closed-loop systemsCertain medical devices (such as ethylene tetrafluoroethylene copolymer (ETFE) layers and radio-opaque ETFE production, in-vitro diagnostic medical devices, and CCD colour filters)Fire-fighting foamInsect baits for control of leaf-cutting ants from Atta spp. and Acromyrmex spp. |
-|  |  | Specific exemption:For the following specific uses, or as an intermediate in the production of chemicals with the following specific uses:Photo masks in the semiconductor and liquid crystal display (LCD) industriesMetal plating (hard metal plating)Metal plating (decorative plating)Electric and electronic parts for some colour printers and colour copy machinesInsecticides for control of red imported fire ants and termitesChemically driven oil productionCarpetsLeather and apparelTextiles and upholsteryPaper and packagingCoatings and coating additivesRubber and plastics |
+| Perfluorooctane sulfonic acid (CAS No. 1763-23-1), its saltsa and perfluorooctane sulfonyl fluoride (CAS No. 307-35-7) | Production | Acceptable purpose: In accordance with Part III of this Annex, production of other chemicals to be used solely for the use below. Production for uses listed below. |
+| aFor example: potassium perfluorooctane sulfonate (CAS No. 2795-39-3); lithium perfluorooctane sulfonate (CAS No. 29457-72-5); ammonium perfluorooctane sulfonate (CAS No. 29081-56-9); diethanolammonium perfluorooctane sulfonate (CAS No. 70225-14-8); tetraethylammonium perfluorooctane sulfonate (CAS No. 56773-42-3); didecyldimethylammonium perfluorooctane sulfonate (CAS No. 251099-16-8) |  | Specific exemption: None |
+|  | Use | Acceptable purpose:In accordance with Part III of this Annex for the following acceptable purpose, or as an intermediate in the production of chemicals with the following acceptable purpose:Insect baits with sulfluramid (CAS No. 4151-50-2) as an active ingredient for control of leaf-cutting ants from Atta spp. and Acromyrmex spp. for agricultural use only |
+|  |  | Specific exemption:Metal plating (hard-metal plating) only in closed-loop systemsFire-fighting foam for liquid fuel vapour suppression and liquid fuel fires (Class B fires) in installed systems, including both mobile and fixed systems, in accordance with paragraph 10 of Part III of this Annex |
 
 ### 1.
 The production and use of perfluorooctane sulfonic acid (PFOS), its salts and perfluorooctane sulfonyl fluoride (PFOSF) shall be eliminated by all Parties except as provided in Part I of this Annex for Parties that have notified the Secretariat of their intention to produce and/or use them for acceptable purposes. A Register of Acceptable Purposes is hereby established and shall be available to the public. The Secretariat shall maintain the Register of Acceptable Purposes. In the event that a Party not listed in the Register determines that it requires the use of PFOS, its salts or PFOSF for the acceptable purposes listed in Part I of this Annex it shall notify the Secretariat as soon as possible in order to have its name added forthwith to the Register.
@@ -3338,6 +3356,14 @@ A Party may, at any time, withdraw its name from the Register of acceptable purp
 ### 9.
 The provisions of note (iii) of Part I of Annex B shall not apply to these chemicals.
 
+### 10.
+Each Party that has registered for an exemption pursuant to Article 4 for the use of PFOS, its salts and PFOSF for fire-fighting foam shall:
+(a) Notwithstanding paragraph 2 of Article 3, ensure that fire-fighting foam that contains or may contain PFOS, its salts and PFOSF shall not be exported or imported except for the purpose of environmentally sound disposal as set forth in paragraph 1 (d) of Article 6;
+(b) Not use fire-fighting foam that contains or may contain PFOS, its salts and PFOSF for training;
+(c) Not use fire-fighting foam that contains or may contain PFOS, its salts and PFOSF for testing unless all releases are contained;
+(d) By the end of 2022, if it has the capacity to do so, restrict uses of fire-fighting foam that contains or may contain PFOS, its salts and PFOSF to sites where all releases can be contained;
+(e) Make determined efforts designed to lead to the environmentally sound management of fire-fighting foam stockpiles and wastes that contain or may contain PFOS, its salts and PFOSF, in accordance with paragraph 1 of Article 6, as soon as possible.
+
 #### Schedule Annex C — Unintentional production
 
 | Chemical |
@@ -3365,6 +3391,7 @@ The provisions of note (iii) of Part I of Annex B shall not apply to these chemi
 | ChlordeconeCAS No: 143-50-0 |  |  |  |
 | DDT (1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane)CAS No: 50-29-3 |  |  |  |
 | Decabromodiphenyl ether (BDE-209) present in commercial decabromodiphenyl ether CAS No: 1163-19-5 | aparts for use in vehicles, including vehicles containing those parts:baircraft for which type approval has been applied for before December 2018 and has been received before December 2022 and spare parts for those aircraft:carticles where DecaBDE has been used as an additive in plastics (such as in electrical and electronic equipment, wires, cables, and pipes), in textiles (such as in carpets, upholstery, window blinds and curtains, and mattresses), and in adhesives, sealants, and coatings—present in New Zealand before 18 December 2018 |  | aend of the service life of vehicles or in 2036, whichever comes earlier:bend of the service life of those aircraft:c(no expiry date) |
+| Dicofol CAS No. 115-32-2 CAS No. 10606-46-9 |  |  |  |
 | DieldrinCAS No: 60-57-1 |  |  |  |
 | EndrinCAS No: 72-20-8 |  |  |  |
 | HeptachlorCAS No: 76-44-8 |  |  |  |
@@ -3378,6 +3405,8 @@ The provisions of note (iii) of Part I of Annex B shall not apply to these chemi
 | PentachlorobenzeneCAS No: 608-93-5 |  |  |  |
 | Pentachlorophenol and its salts and esters |  |  |  |
 | Perfluorooctane sulfonic acid (CAS No: 1763-23-1), its salts, and any derivatives of the formula C8F17SO2X, where X = halide, amide, esters, and other derivatives including polymers |  |  |  |
+| Perfluorooctanoic acid (PFOA), its salts and PFOA-related compoundsPerfluorooctanoic acid (PFOA), its salts and PFOA-related compounds means the following: aperfluorooctanoic acid (PFOA; CAS No. 335-67-1), including any of its branched isomers:bits salts:cPFOA-related compounds which, for the purposes of the Stockholm Convention, are any substances that degrade to PFOA, including any substances (including salts and polymers) having a linear or branched perfluoroheptyl group with the moiety (C7F15)C as one of the structural elements | aphotographic coatings applied to films:bfire-fighting foam for liquid fuel vapour suppression and liquid fuel fires (Class B fires) in installed systems, including both mobile and fixed systems, in accordance with paragraph 2 of Part X of Annex A of the Stockholm Convention:carticles where PFOA, its salts and PFOA-related compounds have been in use, such as in coated textiles, papers, fluoropolymer membranes, or medical devices, in New Zealand on or before 3 December 2020 |  | a3 December 2025b3 December 2025cno expiry date |
+| The following compounds are not included as PFOA-related compounds:aC8F17-X, where X= F, Cl, Br:bfluoropolymers that are covered by CF3[CF2]n-R’, where R’=any group, n>16:cperfluoroalkyl carboxylic and phosphonic acids (including their salts, esters, halides and anhydrides) with ≥8 perfluorinated carbons:dperfluoroalkane sulfonic acids (including their salts, esters, halides and anhydrides) with ≥9 perfluorinated carbons:eperfluorooctane sulfonic acid (PFOS), its salts and perfluorooctane sulfonyl fluoride (PFOSF), as listed in Annex B to the Stockholm Convention |  |  |  |
 | Polychlorinated Biphenyls (PCB) | in accordance with an exemption—agranted under regulation 49I or regulation 49J of the Toxic Substances Regulations 1983; andbthat is in force immediately before the commencement of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 |  | at the expiry of—athe exemption; orban extension of the expiry of the exemption (being not later than the close of 2016) granted by the Authority |
 | Polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) |  |  |  |
 | Polychlorinated naphthalenes, including dichlorinated naphthalenes, trichlorinated naphthalenes, tetrachlorinated napthalenes, pentachlorinated napthalenes, hexachlorinated naphthalenes, heptachlorinated naphthalenes, octachlorinated naphthalene |  |  |  |
