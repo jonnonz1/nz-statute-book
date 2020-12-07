@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2020-12-07_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -33258,7 +33258,7 @@ Formula
 (2) The formula is—(prescribed amount − net family scheme income) × weekly periods ÷ 52.
 Definition of items in formula
 (3) In the formula,—
-  (a) prescribed amount is $27,768:
+  (a) prescribed amount is $29,432:
   (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3, for a relationship period containing the entitlement period, of—
     (i) the person; or
     (ii) their spouse, civil union partner, or de facto partner; or
@@ -44965,7 +44965,7 @@ In this Act, unless the context requires otherwise,—
     (g) sections LE 4, LE 5, LF 2, LF 3, and LO 2 (which relate to tax credits for beneficiary minors):
     (gb) the definitions of look-through company and look-through counted owner:
     (gc) section YD 3BA (Country of residence of joint trustees):
-    (h) sections 43B, 59, and 93B of the Tax Administration Act 1994
+    (h) sections 43B, 59, 59BA, 59BAB, and 93B of the Tax Administration Act 1994
   - **trustee** ,—
     (a) for a trust,—
       (i) means the trustee only in the capacity of trustee of the trust; and
