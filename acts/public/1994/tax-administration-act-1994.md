@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2020-12-07_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -1277,6 +1277,11 @@ When court overrules treatment of information
   (a) determines that obtaining the information in response to the information demand would have required an investment by the member of time and resources that would have been unreasonable in relation to the relevance of the information to the tax issues involved; and
   (b) determines that admission of the evidence is necessary to avoid manifest injustice to the member; and
   (c) orders that the information be allowed or admissible as evidence in the proceedings.
+
+### 17GB Commissioner may require information or production of documents for tax policy development
+(1) A person must, when notified by the Commissioner that the person is required to provide information under this section, provide any information that the Commissioner considers relevant for a purpose relating to the development of policy for the improvement or reform of the tax system.
+(2) The Commissioner must not use, as evidence in proceedings against a person, information provided by the person in response to a notice under subsection (1).
+(3) Subsection (2) does not apply to any information subsequently obtained by the Commissioner under another section of this Act.
 
 ### 17H Court may make order for provision of information
 Applying to Court for orders
@@ -3517,9 +3522,40 @@ Every gift-exempt body must, when notified by the Commissioner, furnish a return
   (a) at the time of the settlement there was no trustee of that trust resident in New Zealand; or
   (b) if at the time of the settlement there was a trustee of the trust resident in New Zealand, on any subsequent date there is no trustee of the trust resident in New Zealand,—
 (2) Where any person resident in New Zealand at the time of settlement would be treated as having made a settlement to or for the benefit of a trust or on the terms of a trust but for the application of section YB 21 of the Income Tax Act 2007, and where at the time of settlement there was no trustee of that trust resident in New Zealand, that person shall disclose to the Commissioner in the prescribed form within 3 months of the date of settlement the fact of that settlement, the name and address of the person who is deemed to be the settlor of the trust under section YB 21 of that Act, and such further details as may be required by the Commissioner.
-(3) The trustee of every trust must in every case make a return of all income derived by the trustee as trustee of the trust, and each return is treated as being separate and distinct from any return made by the trustee in respect of another trust or in the trustee's own right.
+(3)
 (4) Nothing in subsections (1) and (2) or in section 93B shall apply to any trust that is a superannuation fund, or to any person in respect of a superannuation fund.
 (5) Nothing in subsections (1) and (2) or in section 93B shall, before 1 April 1990, apply to any superannuation scheme constituted outside New Zealand and classified by the Government Actuary under regulation 29 or regulation 30 of the Superannuation Schemes Regulations 1983.
+
+### 59BA Annual return for trusts
+(1) A trustee of a trust must file a return for a tax year of all income derived in the corresponding income year by the trustee as trustee of the trust, together with the other information required under this section.
+(2) A return of income and the information required under this section for a trustee and a tax year must be in the form prescribed by the Commissioner and include—
+  (a) a statement of profit or loss and a statement of financial position:
+  (b) the amount, and nature, of each settlement that—
+    (i) is not the provision to the trustee, at less than market value, of minor services incidental to the activities of the trust; and
+    (ii) is made on the trust in the income year:
+  (c) the name, date of birth, jurisdiction of tax residence, and tax file number and taxpayer identification number, of each settlor who makes a settlement on the trust in the income year or whose details have not previously been supplied to the Commissioner:
+  (d) for each distribution made by the trustee of the trust in the income year,—
+    (i) the amount of the distribution:
+    (ii) the name, date of birth, jurisdiction of tax residence, and tax file number and taxpayer identification number, of the beneficiary who receives the distribution:
+  (e) the name, date of birth, jurisdiction of tax residence, and tax file number and taxpayer identification number, of each person having a power under the trust to appoint or dismiss a trustee, to add or remove a beneficiary, or to amend the trust deed:
+  (f) the other information required by the Commissioner.
+(3) A trustee of a trust is not required to file a return or provide information under subsection (1) if—
+  (a) the trustee is excluded from the requirement to make a return by section 43B (which relates to non-active trusts):
+  (b) the trustee is required to make a return by section 59D (which relates to foreign trusts):
+  (c) the trustees of the trust are incorporated as a board under the Charitable Trusts Act 1957:
+  (d) the trustee is eligible under section HF 2 of the Income Tax Act 2007 to choose under section HF 11 of that Act to become a Maori authority.
+(4) If the trustee of a trust is a non-resident, a settlor of the trust who is a New Zealand resident is responsible for ensuring the performance of the obligations imposed on the trustee by this section.
+
+### 59BAB Commissioner may require trust information for period after 2013–14 income year
+(1) The Commissioner may require a trustee of a trust to provide, in the prescribed form and by the specified date, information that—
+  (a) relates to the trust and a period beginning after the end of the 2013–14 income year and ending before the beginning of the 2021–22 income year; and
+  (b) would be required to be provided under section 59BA if the period began after the end of the 2020–21 income year; and
+  (c) is in the knowledge, possession, or control of the trustee.
+(2) The Commissioner may issue a notice requiring the trustee of each trust having the characteristics specified in the notice to provide, in the prescribed form and by the specified date, information—
+  (a) that is described in subsection (1) and is specified in the notice; and
+  (b) is for each period that is specified in the notice and begins after the end of the 2013–14 income year and ends before the beginning of the 2021–22 income year.
+(3) If the trustee of a trust is a non-resident, a settlor of the trust who is a New Zealand resident is responsible for ensuring the performance of the obligations imposed on the trustee by this section.
+(4) A notice under subsection (2) is secondary legislation under the Legislation Act 2019.
 
 ### 59B Foreign trust with resident foreign trustee: registration and disclosure
 (1) The Commissioner may register a foreign trust if the foreign trust has a resident foreign trustee and a trustee pays the prescribed fee.
