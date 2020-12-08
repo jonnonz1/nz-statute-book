@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-08_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -25,6 +25,7 @@ _Consolidation as at 2020-08-07_
   - **dentist** means a health practitioner who is, or is deemed to be, registered with the Dental Council established by section 114(2) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of dentistry
   - **dependent** means being in a state of periodic or chronic intoxication, produced by the repeated consumption, smoking, or other use of a controlled drug detrimental to the person in relation to whom the word is used, and involving a compulsive desire to continue consuming, smoking, or otherwise using the drug or a tendency to increase the dose of the drug; and has a corresponding meaning
   - **designated prescriber** has the same meaning as it has in section 2(1) of the Medicines Act 1981
+  - **drug and substance checking service provider** or means a person appointed as a drug and substance checking service provider under section 35DA
   - **Medical Officer of Health** means a Medical Officer of Health within the meaning of the Health Act 1956; and includes the officers referred to in section 22 of that Act
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **midwife** means a health practitioner who is, or is deemed to be, registered with the Midwifery Council established by section 114(3) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of midwifery
@@ -55,6 +56,7 @@ _Consolidation as at 2020-08-07_
     (d) any plant of the species Lophophora williamsii or Lophophora lewinii:
     (e) any fungus of the genera Conocybe, Panaeolus, or Psilocybe from which a controlled drug can be produced or which contains a controlled drug:
     (f) any other plant which is declared to be a prohibited plant by regulations made under this Act
+  - **psychoactive substance** has the same meaning as in section 9 of the Psychoactive Substances Act 2013
   - **registered health professional** means a health practitioner who is, or is deemed to be, registered with an authority established or continued by section 114 of the Health Practitioners Competence Assurance Act 2003 as a practitioner of a particular health profession
   - **registered nurse** means a health practitioner who—
     (a) is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing and whose scope of practice permits the performance of registered nurse functions; and
@@ -245,7 +247,7 @@ A temporary class drug order is a disallowable instrument but not a legislative 
 For the purposes of this Act, the functions of the Minister include the provision and publication of reports, information, and advice concerning the misuse of drugs and the treatment of persons suffering from the misuse of drugs.
 
 ### 6 Dealing with controlled drugs
-(1) Except as provided in section 8, or pursuant to a licence under this Act, or as otherwise permitted by regulations made under this Act, no person shall—
+(1) Except as provided in section 8, 35DC, or 35DD, or pursuant to a licence under this Act, or as otherwise permitted by regulations made under this Act, no person shall—
   (a) import into or export from New Zealand any controlled drug; or
   (b) produce or manufacture any controlled drug; or
   (c) supply or administer, or offer to supply or administer, any Class A controlled drug or Class B controlled drug to any other person, or otherwise deal in any such controlled drug; or
@@ -270,7 +272,7 @@ For the purposes of this Act, the functions of the Minister include the provisio
 (7)
 
 ### 7 Possession and use of controlled drugs
-(1) Except as provided in section 8, or pursuant to a licence under this Act, or as otherwise permitted by regulations made under this Act, no person shall—
+(1) Except as provided in section 8, 35DC, or 35DD, or pursuant to a licence under this Act, or as otherwise permitted by regulations made under this Act, no person shall—
   (a) procure or have in his possession, or consume, smoke, or otherwise use, any controlled drug; or
   (b) supply or administer, or offer to supply or administer, any Class C controlled drug to any other person, or otherwise deal in any such controlled drug.
 (2) Subject to subsection (3), but without prejudice to any liability under section 6, every person who contravenes subsection (1) commits an offence against this Act and is liable on conviction—
@@ -359,6 +361,7 @@ For the purposes of this Act, the functions of the Minister include the provisio
 
 ### 12 Use of premises or vehicle, etc
 (1) Every person commits an offence against this Act who knowingly permits any premises or any vessel, aircraft, hovercraft, motor vehicle, or other mode of conveyance to be used for the purpose of the commission of an offence against this Act.
+(1A) It is not an offence against subsection (1) for a person to permit any premises to be used by a drug and substance checking service provider for the purpose of performing the functions specified in section 35DB knowing that the service provider will be providing services to individuals who may be committing offences against this Act.
 (2) Every person who commits an offence against this section is liable on conviction to imprisonment for a term—
   (a) not exceeding 10 years where a Class A controlled drug was the controlled drug or one of the controlled drugs in relation to which the offence was committed:
   (b) not exceeding 7 years where paragraph (a) does not apply but a Class B controlled drug was the controlled drug or one of the controlled drugs in relation to which the offence was committed:
@@ -762,7 +765,7 @@ It shall be a defence to a charge relating to the possession of any controlled d
   (b) for the purpose of supplying it or administering it to any other person in accordance with any procedure approved by the Director-General of Health.
 
 ### 30 Burden of proof
-In any proceedings against any person in respect of any offence against this Act or against any regulations made under this Act in which it is proved that he had in his possession any controlled drug, or did any act in relation to a controlled drug which would have amounted to that offence if such act were not done pursuant to section 8 or to a licence under this Act or as otherwise permitted by regulations under this Act, the burden of proving that he had such controlled drug in his possession, or did such act, pursuant to the said section 8 or to any such licence or as so permitted shall lie on him.
+In any proceedings against any person in respect of any offence against this Act or against any regulations made under this Act in which it is proved that he had in his possession any controlled drug, or did any act in relation to a controlled drug which would have amounted to that offence if such act were not done pursuant to section 8, 35DC, or 35DD or to a licence under this Act or as otherwise permitted by regulations under this Act, the burden of proving that he had such controlled drug in his possession, or did such act, pursuant to the said section 8, 35DC, or 35DD or to any such licence or as so permitted shall lie on him.
 
 ### 31 Evidence of analysis
 (1) For the purposes of this section, the term analyst means—
@@ -848,6 +851,62 @@ For any purpose in connection with this Act, a certificate, given by the Secreta
     (ii) the Convention on Psychotropic Substances 1971; or
     (iii) the Vienna Convention; or
   (b) that the Government of any country is or is not, or was or was not, at any material time, responsible for the international relations of any territory,—
+
+**Drug and substance checking**
+
+### 35DA Drug and substance checking service providers
+(1) The Director-General of Health may, by notice in the Gazette,—
+  (a) appoint drug and substance checking service providers to perform the functions specified in section 35DB; and
+  (b) specify reasonable terms and conditions that an appointment is subject to.
+(2) The Ministry of Health must publish on its Internet site a list of service providers appointed under subsection (1) and the terms and conditions to which a service provider’s appointment is subject.
+(3) A notice given by the Director-General in the Gazette for the purpose of subsection (1)—
+  (a) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012; and
+  (b) must be presented to the House of Representatives under section 41 of that Act; and
+  (c) is a regulation for the purposes of the Interpretation Act 1999.
+
+### 35DB Functions of service provider
+(1) The functions of a service provider are to—
+  (a) provide information and harm reduction advice to help individuals make informed decisions about drug and psychoactive substance use:
+  (b) test any drug or substance (which may be a controlled drug or psychoactive substance) that an individual presents for checking to ascertain the composition and likely identity of the drug or substance:
+  (c) advise the individual who presented a drug or substance for checking of the outcome of the testing:
+  (d) return a drug or substance to the individual who presented it for checking:
+  (e) dispose of any sample of a controlled drug or substance used in testing:
+  (f) dispose of, or arrange for the disposal of, any drug or substance surrendered by any individual for disposal:
+  (g) arrange for a sample of a drug or substance to be tested by an approved laboratory.
+(2) A service provider must perform the functions referred to in subsection (1)﻿(e) and (f) in accordance with the terms and conditions of their appointment.
+(3) In this section and sections 35DG and 35DI, drug or substance includes a sample of a drug or substance.
+
+### 35DC Possession or supply of controlled drug for purpose of performing functions
+(1) A service provider may, for the purpose of performing the provider’s functions,—
+  (a) possess a controlled drug:
+  (b) return a controlled drug to the individual who submitted it for checking:
+  (c) send a controlled drug to an approved laboratory for testing.
+(2) Subsection (1) is subject to the service provider’s terms and conditions of appointment.
+(3) In this section and section 35DD, controlled drug includes a sample of a controlled drug.
+
+### 35DD Supplying or surrendering controlled drug to service provider
+An individual may—
+  (a) supply a controlled drug to a service provider for the purpose of checking:
+  (b) surrender a controlled drug to a service provider for the purpose of disposal.
+
+### 35DE Offence relating to breach of terms or conditions of appointment
+(1) A person appointed as a service provider must not breach any terms or conditions of their appointment.
+(2) A person commits an offence and is liable on conviction to a fine not exceeding $5,000 if the person, without reasonable excuse, contravenes subsection (1).
+
+### 35DF Offence to provide checking services, etc, without being appointed under section 35DA
+(1) A person must not carry out any of the functions specified in section 35DB(1)﻿(b) to (e) without being appointed as a service provider under section 35DA.
+(2) A person commits an offence and is liable on conviction to a fine not exceeding $5,000 if the person, without reasonable excuse, contravenes subsection (1).
+
+### 35DG Service providers not to collect, etc, personal information
+A service provider must not collect, maintain, use, or disclose any personal information relating to an individual from whom the service provider receives any drug or substance for checking or disposal.
+
+### 35DH Protections from liabilities of service provider
+(1) An employee or a volunteer of a service provider is not liable for anything they do or fail to do in the course of the performance or intended performance of the service provider’s functions, unless it is shown that they acted in bad faith or without reasonable care.
+(2) An employee or a volunteer of a service provider is not liable for any liability of the service provider.
+(3) In this section, volunteer means a person who is acting on a voluntary basis (whether or not the person receives out-of-pocket expenses).
+
+### 35DI Test result not admissible in criminal proceedings
+The result of a test carried out by a service provider in relation to any drug or substance is not admissible as evidence in any criminal proceedings against the individual from whom the drug or substance was received.
 
 **Review of certain provisions**
 
@@ -1401,10 +1460,10 @@ This Act may be cited as the Misuse of Drugs Amendment Act 1978, and shall be re
   (a) any originator of the communication and any person intended by the originator to receive it; and
   (b) a person who, with the express or implied consent of any originator of the communication or any person intended by the originator to receive it, intercepts the communication.
 (3) For the purposes of section 12,—
-  - **craft** , , , and have the same meanings as in section 2(1) of the Customs and Excise Act 1996.
+  - **craft** , , , and have the same meanings as in section 5(1) of the Customs and Excise Act 2018.
 
 ### 11 Application of Part
-This Part shall apply notwithstanding anything in the Postal Services Act 1998 or the Customs and Excise Act 1996.
+This Part shall apply notwithstanding anything in the Postal Services Act 1998 or the Customs and Excise Act 2018.
 
 **Special powers of Police and Customs officers**
 
