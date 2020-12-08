@@ -1,5 +1,5 @@
 # Psychoactive Substances Act 2013
-_Consolidation as at 2020-11-11_
+_Consolidation as at 2020-12-08_
 
 ### 1 Title
 This Act is the Psychoactive Substances Act 2013.
@@ -74,12 +74,14 @@ In this Act, unless the context otherwise requires,—
   - **appeals committee** means the Psychoactive Substances Appeals Committee established by section 44
   - **approved evidence of age document** has the same meaning as in section 5(1) of the Sale and Supply of Alcohol Act 2012
   - **approved evidence of age system** has the same meaning as in section 5(1) of the Sale and Supply of Alcohol Act 2012
+  - **approved laboratory** means a laboratory for the time being approved under section 87
   - **approved product** means a psychoactive product approved by the Authority under section 37
   - **Authority** means the Psychoactive Substances Regulatory Authority established by section 10
   - **code of manufacturing practice** or means a code of practice, relating to the manufacture of psychoactive substances, issued under section 29
   - **constable** has the same meaning as in section 4 of the Policing Act 2008
   - **Customs officer** has the same meaning as in section 5(1) of the Customs and Excise Act 2018
   - **district** , in relation to a territorial authority, has the same meaning as in section 5(1) of the Local Government Act 2002
+  - **drug and substance checking service provider** has the same meaning as in section 2(1) of the Misuse of Drugs Act 1975
   - **enforcement officer** means a person appointed by the Authority under section 76
   - **evidential material** has the same meaning as in section 3(1) of the Search and Surveillance Act 2012
   - **export certificate** means a certificate issued by the Authority under section 89
@@ -771,6 +773,10 @@ A local approved products policy may include policies on 1 or more of the follow
   (b) offers to sell or supply a psychoactive substance that is not an approved product to any person; or
   (c) possesses a psychoactive substance that is not an approved product with the intent to sell or supply the psychoactive substance to any person.
 (2) Subsection (1) does not apply to a person who holds a licence to sell psychoactive substances that are not approved products that applies to the psychoactive substance.
+(2A) Subsection (1) also does not apply to—
+  (a) a person who gives a psychoactive substance that is not an approved product to a drug and substance checking service provider for the purpose of checking or for disposal:
+  (b) a drug and substance checking service provider who returns a psychoactive substance that is not an approved product to the person who submitted it for checking:
+  (c) a drug and substance checking service provider who supplies a psychoactive substance that is not an approved product to an approved laboratory for testing.
 (3) A person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a term of imprisonment not exceeding 2 years:
   (b) in the case of a body corporate, to a fine not exceeding $500,000.
@@ -778,6 +784,8 @@ A local approved products policy may include policies on 1 or more of the follow
 ### 71 Offence relating to personal possession of psychoactive substance that is not approved product
 (1) A person commits an offence if the person has a psychoactive substance that is not an approved product in his or her possession.
 (2) Subsection (1) does not apply to a person who holds a licence in respect of the psychoactive substance.
+(2A) Subsection (1) also does not apply to a drug and substance checking service provider if the provider has possession of the psychoactive substance in the course of performing the provider’s functions.
+(2B) Subsection (2A) is subject to the service provider’s terms and conditions of appointment.
 (3) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $500.
 
 **Infringement offences**
