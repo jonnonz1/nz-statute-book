@@ -1,5 +1,5 @@
 # COVID-19 Public Health Response Act 2020
-_Consolidation as at 2020-08-06_
+_Consolidation as at 2020-12-08_
 
 ### 1 Title
 This Act is the COVID-19 Public Health Response Act 2020.
@@ -41,7 +41,7 @@ The purpose of this Act is to support a public health response to COVID-19 that�
   - **infringement offence** means an infringement offence against section 26(3)
   - **managed isolation or quarantine facility** or means a facility that is designated by the New Zealand Government for use as a place of isolation or quarantine
   - **MBIE** means the Ministry of Business, Innovation, and Employment
-  - **Minister** means the Minister of Health
+  - **Minister** means the Minister who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
   - **MIQF costs** means costs incurred by the New Zealand Government in respect of persons staying at MIQFs
   - **New Zealand** includes all waters within the outer limits of the territorial sea of New Zealand (as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977)
   - **Police uniform** has the meaning given to it by section 4 of the Policing Act 2008
@@ -76,7 +76,9 @@ A COVID-19 order may be made under this Act only—
     (ii) the nature and extent of measures (whether voluntary or enforceable) that are appropriate to address those risks; and
   (b) the Minister may have had regard to any decision by the Government on the level of public health measures appropriate to respond to those risks and avoid, mitigate, or remedy the effects of the outbreak or spread of COVID-19 (which decision may have taken into account any social, economic, or other factors); and
   (ba) the Minister must be satisfied that the order does not limit or is a justified limit on the rights and freedoms in the New Zealand Bill of Rights Act 1990; and
-  (c) the Minister must have consulted the Prime Minister and the Minister of Justice, and may have consulted any other Minister that the Minister of Health thinks fit; and
+  (c) the Minister—
+    (i) must have consulted the Prime Minister, the Minister of Justice, and the Minister of Health; and
+    (ii) may have consulted any other Minister that the Minister (as defined in this Act) thinks fit; and
   (d) before making the order, the Minister must be satisfied that the order is appropriate to achieve the purpose of this Act.
 (2) Nothing in this section requires the Minister to receive specific advice from the Director-General about the content of a proposed order or proposal to amend, extend, or revoke an order.
 
@@ -153,7 +155,9 @@ The Director-General may make a COVID-19 order that meets both of the following 
 (2) A COVID-19 order must, at least 48 hours before it comes into force,—
   (a) be published on a publicly accessible Internet site maintained by or on behalf of the New Zealand Government; and
   (b) be notified in the Gazette.
-(3) However, the Minister or Director-General (as the case may be) need not comply with the 48-hour time limit in subsection (2) if satisfied that the order should come into force urgently to prevent or contain the outbreak or spread of COVID-19, but in that case must comply with subsection (2)﻿(a) and (b) as soon as practicable.
+(3) However, the Minister or Director-General (as the case may be) need not comply with the 48-hour time limit in subsection (2) if satisfied that—
+  (a) the order should come into force urgently to prevent or contain the outbreak or spread of COVID-19 (but in that case must comply with subsection (2)﻿(a) and (b) as soon as practicable); or
+  (b) the effect of the order is only to remove or reduce requirements imposed by a COVID-19 order.
 (4) A COVID-19 order made by the Director-General expires 1 month after the date on which it comes into force, unless it is sooner revoked or extended.
 (5) The Minister and the Director-General must keep their COVID-19 orders under review.
 
@@ -361,7 +365,7 @@ The Governor-General may, by Order in Council, make regulations—
   (b) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 
 ### 33A Regulations relating to cost recovery
-(1) The Governor-General may, by Order in Council made on the recommendation of the relevant Minister made after consultation with the Minister of Health,—
+(1) The Governor-General may, by Order in Council made on the recommendation of the relevant Minister made after consultation with the Minister (as defined in this Act),—
   (a) make regulations prescribing charges for MIQF costs in accordance with the provisions of subpart 3A:
   (b) make regulations for the purposes of section 32E:
   (c) make regulations for the purposes of section 32F:
