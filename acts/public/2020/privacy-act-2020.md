@@ -1,5 +1,5 @@
 # Privacy Act 2020
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-09_
 
 ### 1 Title
 This Act is the Privacy Act 2020.
@@ -2080,7 +2080,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (b) repeal Schedule 6.
 
 ### 190 Amendments to other enactments related to this subpart
-The enactments listed in Schedule 7 are amended in the manner set out in that schedule.
+[Repealed]
 
 ### 191 Repeal of section 190 and Schedule 7
 Section 190 and Schedule 7 are repealed on the close of 8 December 2020.
@@ -2305,7 +2305,7 @@ The Commissioner must not, in any report or statement made pursuant to this Act 
 (2) The Privacy Regulations 1993 (SR 1993/149) are revoked.
 
 ### 217 Consequential amendments
-The enactments specified in Schedule 9 are consequentially amended in the manner indicated in that schedule.
+[Repealed]
 
 ### 218 Repeal of section 217 and Schedule 9
 Section 217 and Schedule 9 are repealed on the close of 8 December 2020.
@@ -2529,48 +2529,6 @@ Except as provided in any other enactment, unique identifiers may not be used as
 
 ## Schedule 7 — Amendments to other enactments related to subpart 4 of Part 7
 
-### 62 Information disclosure arrangements and determinations
-Arrangements or determinations made under section 126A or 126AC of the Social Security Act 1964 are saved as if they were arrangements or determinations made under (as the case requires) clause 13 or 15 of Schedule 6.
-
 ## Schedule 8 — Basic principles of national application set out in Part Two of OECD Guidelines
 
 ## Schedule 9 — Consequential amendments
-
-### 204X When search constitutes interference with privacy of individual
-A search of the register for personal information that has not been carried out for a purpose specified in section 204S constitutes an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
-
-### 66 Part does not limit Privacy Act 2020
-Nothing in this Part limits the Privacy Act 2020.
-
-### 23 Disclosure required to comply with standards does not breach information privacy principles
-(1) The disclosure of personal information is not a breach of information privacy principle 10, 11, or 12 set out in section 22 of the Privacy Act 2020 if the disclosure is required for compliance with a standard or an authoritative notice.
-(2) Subsection (1) does not apply to standards issued or approved before the commencement of the Financial Reporting Amendment Act 2001.
-
-### 33 When search breaches information privacy principle
-A person who searches a public register for personal information for a purpose that is not a purpose set out in section 32 must be treated, for the purposes of Parts 5 and 6 of the Privacy Act 2020, as having breached an information privacy principle under section 69(2)﻿(a)﻿(i) of that Act.
-
-**Application of Privacy Act 2020**
-
-### 456 When search breaches information privacy principle
-A person who searches a public register for a purpose that is not a purpose set out in section 454 must be treated, for the purposes of Parts 5 and 6 of the Privacy Act 2020, as having breached an information privacy principle under section 69(2)﻿(a)﻿(i) of that Act.
-
-### 66 When search breaches information privacy principle
-A person who searches a register for a purpose that is not a purpose set out in section 65 must be treated, for the purposes of Parts 5 and 6 of the Privacy Act 2020, as having breached an information privacy principle under section 69(2)﻿(a)﻿(i) of that Act.
-
-### 59 When search constitutes interference with privacy of individual
-A search of the register for personal information that has not been carried out in accordance with sections 56 to 58 constitutes an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
-
-### 81 When search constitutes interference with privacy of individual
-A search of the list for personal information that has not been carried out in accordance with sections 78 to 80 constitutes an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
-
-### 174 When search constitutes interference with privacy of individual
-A search of the register for personal information that has not been carried out in accordance with sections 171 to 173 constitutes an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
-
-### 87 When search constitutes interference with privacy of individual
-A search of the register for personal information that has not been carried out in accordance with sections 84 to 86 constitutes an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
-
-### 58 Application of Privacy Act 2020
-The Privacy Act 2020 applies to the monitoring of resident calls under sections 51 to 61.
-
-### 70 When search constitutes interference with privacy of individual
-A person who searches the register for a purpose that is not a purpose set out in section 64 must be treated, for the purposes of Parts 5 and 6 of the Privacy Act 2020, as having breached an information privacy principle under section 69(2)﻿(a)﻿(i) of that Act.
