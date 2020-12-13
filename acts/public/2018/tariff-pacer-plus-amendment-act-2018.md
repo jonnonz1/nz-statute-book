@@ -1,5 +1,5 @@
 # Tariff (PACER Plus) Amendment Act 2018
-_Consolidation as at 2018-09-13_
+_Consolidation as at 2020-12-13_
 
 ### 1 Title
 This Act is the Tariff (PACER Plus) Amendment Act 2018.
