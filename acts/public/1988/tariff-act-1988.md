@@ -1,5 +1,5 @@
 # Tariff Act 1988
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2020-12-13_
 
 > An Act to consolidate and amend the law relating to the imposition of tariff duty
 
@@ -13,6 +13,7 @@ _Consolidation as at 2020-08-07_
   - **AANZFTA** means the Agreement Establishing the ASEAN–Australia–New Zealand Free Trade Area done at Cha-am, Phetchaburi, Thailand on 27 February 2009
   - **ASEAN** means the Association of South East Asian Nations
   - **chief executive** , in any provision, means the chief executive of the department responsible for the administration of that provision
+  - **country** includes a territory or a part of a country or territory
   - **CPTPP** means the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, done at Santiago, Chile, on 8 March 2018
   - **Customs** or has the meaning given to Customs by section 5(1) of the Customs and Excise Act 2018
   - **Customs value** or has the meaning given to Customs value by section 5(1) of the Customs and Excise Act 2018
@@ -25,6 +26,7 @@ _Consolidation as at 2020-08-07_
   - **manufacturing area** has the meaning given to it by section 5(1) of the Customs and Excise Act 2018
   - **Minister** , in any provision, means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of that provision
   - **Normal Tariff** means the rates of duty and the exemptions from duty specified in the column headed Normal Tariff in the Tariff; and includes any modification or amendment thereof that may hereafter be made
+  - **PACER Plus** means the Pacific Agreement on Closer Economic Relations Plus done at Nuku’alofa, Tonga, on 14 June 2017
   - **preferential abbreviation** has the meaning given to it by section 7(3)
   - **preferential country** has the meaning given to it by section 7(3)
   - **Preferential Tariff** means the rates of duty and the exemptions from duty specified in the column headed Preferential Tariff in the Tariff; and includes any modification or amendment thereof that may hereafter be made
@@ -35,6 +37,7 @@ _Consolidation as at 2020-08-07_
   - **South Pacific Regional Trade and Economic Co-operation Agreement** means the agreement of that name done at Tarawa on 14 July 1980; and includes any modification or amendment of it made after that day
   - **specified AANZFTA party** means a country that is for the time being declared by Order in Council under section 7A(1)﻿(a) to be a specified AANZFTA party for the purposes of this Act
   - **specified CPTPP party** means a country that is for the time being declared by Order in Council under section 7A(1)﻿(baa) to be a specified CPTPP party for the purposes of this Act
+  - **specified PACER Plus party** means a country that is for the time being declared by Order in Council under section 7A(1)﻿(bb) to be a specified PACER Plus party for the purposes of this Act
   - **specified TPA party** means a country that is for the time being declared by Order in Council under section 7A(1)﻿(b) to be a specified TPA party for the purposes of this Act
   - **specified TPP party** means a country that is for the time being declared by Order in Council under section 7A(1)﻿(ba) to be a specified TPP party for the purposes of this Act
   - **Standard Tariff** means Standard Tariff comprised in Part 1 of the Tariff; and includes any modification or amendment thereof that may hereafter be made
@@ -96,12 +99,13 @@ Subject to this Act, the duty (if any) payable under the Normal Tariff shall be 
     (ii) is provisionally applying the terms of the TPA:
   (baa) declare a country that is a party to the CPTPP to be a specified CPTPP party for the purposes of this Act:
   (ba) declare a country that is a party to the TPP to be a specified TPP party for the purposes of this Act:
+  (bb) declare a country that is a party to the PACER Plus to be a specified PACER Plus party for the purposes of this Act:
   (c) declare a country to be, or not to be, a least developed country for the purposes of this Act:
   (d) declare a country to be, or not to be, a less developed country for the purposes of this Act.
 (2) The Governor-General may, by an Order in Council making a declaration under subsection (1) about a country or any other Order in Council relating to that country,—
   (a) declare that, in relation to any specified Tariff items, any rate of duty or exemption from duty otherwise applicable to that country is not to apply to that country:
   (b) modify, in whole or in part, the Tariff rates of duty applicable to goods from that country.
-(3) No modification under subsection (2)﻿(b) relating to a specified TPA party, a specified CPTPP party, a specified TPP party, or a specified AANZFTA party may have the effect of imposing on any goods a higher duty than that set out in respect of those goods in the Normal Tariff, unless the Governor-General is satisfied that the modification is—
+(3) No modification under subsection (2)﻿(b) relating to a specified TPA party, a specified CPTPP party, a specified TPP party, a specified PACER Plus party, or a specified AANZFTA party may have the effect of imposing on any goods a higher duty than that set out in respect of those goods in the Normal Tariff, unless the Governor-General is satisfied that the modification is—
   (a) necessary or advisable in the public interest; and
   (b) consistent with New Zealand's international obligations.
 (4) No modification under subsection (2)﻿(b) relating to a less developed country or a least developed country may have the effect of imposing on any goods a higher duty than that set out in respect of those goods in the Normal Tariff.
