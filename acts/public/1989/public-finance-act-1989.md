@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2020-10-01_
+_Consolidation as at 2020-12-18_
 
 > Title
 
@@ -2438,6 +2438,7 @@ Despite clause 2, old section 45 must be read as if it included a requirement fo
 | Education Payroll Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Health Benefits Limited | ✓ | ✓ | ✓ | ✓ |  |
 | New Zealand Green Investment Finance Limited | ✓ | ✓ | ✓ | ✓ |  |
+| Ngāpuhi Investment Fund Limited |  | ✓ | ✓ | ✓ |  |
 | Ōtākaro Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Predator Free 2050 Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Provincial Growth Fund Limited |  | ✓ |  | ✓ |  |
