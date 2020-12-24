@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2020-06-25_
+_Consolidation as at 2020-12-24_
 
 > Title
 
@@ -625,6 +625,22 @@ Unless sooner revoked under section 18(4), a permit issued for the purposes of s
     (i) that the airgun was in the possession of that person for use under the immediate supervision of either a person of or over the age of 18 years or the holder of a firearms licence; and
     (ii) that at all times while that person was in possession of the airgun, that person was under the immediate supervision of either a person of or over the age of 18 years or the holder of a firearms licence.
 
+### 22A Restriction on possession of non-prohibited magazines and non-prohibited parts
+(1) A person must not have in their possession an arms item specified in subsection (2) unless the person—
+  (a) is the holder of a firearms licence; or
+  (b) is under the immediate supervision of a person who is the holder of a firearms licence.
+(2) The arms items referred to in subsection (1) are—
+  (a) a non-prohibited magazine:
+  (b) a non-prohibited part.
+(3) A person commits an offence and is liable on conviction to a fine not exceeding $10,000 if the person, without reasonable excuse, contravenes this section.
+
+### 22B Restriction on possession of ammunition
+(1) A person must not have in their possession any ammunition (other than projectiles for airguns) unless the person—
+  (a) is the holder of a firearms licence; or
+  (b) is not the holder of a firearms licence, but is under the immediate supervision of a person who is the holder of a firearms licence; or
+  (c) is an employee of an ammunition seller who is performing their duties at their place of work under the supervision of a person who is the holder of a firearms licence.
+(2) A person commits an offence and is liable on conviction to a fine not exceeding $10,000 if the person, without reasonable excuse, contravenes subsection (1).
+
 **Restrictions on possession of pistol carbine conversion kits**
 
 ### 22C Restrictions on possession of pistol carbine conversion kits
@@ -645,6 +661,34 @@ Unless sooner revoked under section 18(4), a permit issued for the purposes of s
   (b) assisting with the carrying on of a dealer activity (if they are qualified under section 11 to do so).
 (3) A person who contravenes this section commits an offence under section 50AA.
 
+**Restrictions on sale or supply of ammunition**
+
+### 22D Restrictions on selling or supplying ammunition
+(1) A person who sells or supplies ammunition (other than projectiles for airguns) must hold a firearms licence.
+(2) A person may only sell or supply ammunition (other than projectiles for airguns) to a person who holds a firearms licence.
+(3) Subsection (1) does not apply to an employee of an ammunition seller performing their duties under the supervision of a person who is the holder of a firearms licence.
+(4) A person commits an offence and is liable on conviction to a fine not exceeding $10,000 if the person, without reasonable excuse, contravenes subsection (1) or (2).
+(5) It is a defence to a prosecution for an offence against subsection (2) if—
+  (a) the defendant proves that the defendant took reasonable steps to ascertain whether the person to whom the defendant sold or supplied the ammunition (A) was the holder of a firearms licence; or
+  (b) the defendant proves that—
+    (i) the ammunition was sold or supplied to A for use under the immediate supervision of another person who holds a firearms licence (B); and
+    (ii) at all times while A was in possession of the ammunition, A was under the immediate supervision of B.
+(6) Nothing in subsection (3) applies in relation to any ammunition sold or supplied for a firearm of the kind described in section 22(1)﻿(a), (b), or (c).
+
+### 22E Ammunition seller to keep record of ammunition sales
+(1) An ammunition seller must keep at their place of business a book that records the following details in respect of all ammunition (other than projectiles for airguns) sold or supplied in the course of their business:
+  (a) the name of the person to whom the ammunition was sold or supplied; and
+  (b) the quantity and type of ammunition sold or supplied to the person; and
+  (c) the person’s firearms licence number, or, if the ammunition was sold or supplied to the person for use under the immediate supervision of another person who holds a firearms licence, the name and firearms licence number of that other person.
+(2) Despite subsection (1), an ammunition seller need not record details under that subsection if—
+  (a) the details are declared by regulations made under section 74 to be exempt from the requirement in that subsection; or
+  (b) the dealer provides the details to the Police for inclusion in the registry in accordance with the regulations.
+(3) An ammunition seller must, at all reasonable times, permit any member of the Police to inspect and make copies of any entries in the book referred to in subsection (1) if the ammunition seller has received at least 7 days’ prior notice of the member’s intention to do so.
+(4) An ammunition seller who keeps their book under subsection (1) in hard copy form must retain the book for at least 10 years from the date of the last entry in the book.
+(5) An ammunition seller who keeps their book under subsection (1) electronically must retain each electronic record for at least 10 years from the date on which the record is entered.
+(6) When an ammunition seller’s firearms licence expires or is revoked or surrendered, or the ammunition seller ceases selling or supplying ammunition, the ammunition seller must immediately surrender to the Police all records they are required by this section to keep that have not been included in the registry.
+(7) An ammunition seller commits an offence and is liable on conviction to a fine not exceeding $10,000 if the ammunition seller, without reasonable excuse, contravenes any of subsections (1) to (6).
+
 **Restriction on ownership of firearms and restricted weapons by visitors**
 
 ### 22F Visitors may not take ownership of firearm or restricted weapon
@@ -658,22 +702,115 @@ Unless sooner revoked under section 18(4), a permit issued for the purposes of s
 (2) Subsection (1) does not apply to an exempt person described in section 4A(1A).
 (3) A person who contravenes this section commits an offence under section 50A, 50B, or 50C (as the case may be).
 
+### 22H Persons disqualified from holding firearms licence
+A person is disqualified from holding a firearms licence if—
+  (a) the person has, within the previous 10 years, been convicted, or been released from custody after being convicted, of any of the following offences:
+    (i) an offence under section 16(4), 16A, 44A, 50A, 50D, 51A, 53A, 54, 54A, 55, 55A, 55D, 55E, or 55F:
+    (ii) a serious violent offence as defined in section 86A of the Sentencing Act 2002:
+    (iii) an offence under section 92, 98, 98A, 189A, 199, 202C, 238, 267(1), 269(1) and (3), or 306 of the Crimes Act 1961:
+    (iv) an offence under section 6, 9, 10, 11, 12, 12A, 12AB, or 12F of the Misuse of Drugs Act 1975; or
+  (b) the person has, or has had within the previous 10 years, a protection order, other than a temporary order, made against them under—
+    (i) section 79 of the Family Violence Act 2018; or
+    (ii) section 14 of the Domestic Violence Act 1995.
+
+## Part 5 — Firearms licences, endorsements, and permits to possess
+
 **Firearms licences**
 
 ### 23 Application for firearms licence
-(1) Any person who is of or over the age of 16 years may apply at an Arms Office to a member of the Police for a firearms licence.
+(1) A person may apply to a member of the Police for a firearms licence if the person—
+  (a) is of or over the age of 16 years; and
+  (b) has not had a firearms licence revoked in the previous 5 years (or, if they have, the revocation was reversed by the District Court); and
+  (c) is not disqualified under section 22H from holding a firearms licence.
 (2) Every application under subsection (1) shall be made on a form provided by a member of the Police.
+(2A) An applicant must, at the time of making an application for a firearms licence, provide to a member of the Police the name and contact details of their health practitioner.
+(2B) Subsection (2A) does not apply to an applicant who is a visitor.
 (3) A person who is the holder of a firearms licence may, before the expiration of that firearms licence, apply for a new firearms licence.
 
 ### 24 Issue of firearms licence
-(1) Subject to subsection (2), a firearms licence shall be issued if the member of the Police to whom the application is made is satisfied that the applicant—
-  (a) is of or over the age of 16 years; and
-  (b) is a fit and proper person to be in possession of a firearm or airgun.
-(2) A firearms licence shall not be issued to a person if, in the opinion of a commissioned officer of Police, access to any firearm or airgun in the possession of that person is reasonably likely to be obtained by any person—
-  (a) whose application for a firearms licence or for a permit under section 7 of the Arms Act 1958, or for a certificate of registration under section 9 of the Arms Act 1958 has been refused on the ground that he is not a fit and proper person to be in possession of a firearm or airgun; or
-  (b) whose certificate of registration as the owner of a firearm has been revoked under section 10 of the Arms Act 1958 on the ground that he is not a fit and proper person to be in possession of a firearm; or
-  (c) whose firearms licence has been revoked on the ground that he is not a fit and proper person to be in possession of a firearm or airgun; or
-  (d) who, in the opinion of a commissioned officer of Police, is not a fit and proper person to be in possession of a firearm or airgun.
+(1) Subject to subsection (2), a firearms licence must be issued by a member of the Police to an applicant if the member of the Police is satisfied that—
+  (a) the applicant—
+    (i) is of or over the age of 16 years; and
+    (ii) is a fit and proper person to be in possession of a firearm or an airgun; and
+  (b) either—
+    (i) the applicant’s storage facilities for their firearms and ammunition have been inspected by a member of the Police and are compliant with the requirements for the secure storage of firearms and ammunition; or
+    (ii) if the applicant is a visitor, a member of the Police is satisfied with the arrangements made by the applicant for the storage of the firearms and ammunition they will possess while in New Zealand.
+(2) A firearms licence must not be issued to an applicant if, in the opinion of a commissioned officer of Police, access to any firearm or an airgun in possession of the applicant is reasonably likely to be obtained by any person who—
+  (a) is disqualified from holding a firearms licence; or
+  (b) has had their firearms licence revoked on the ground that they are not a fit and proper person to be in possession of a firearm or an airgun; or
+  (c) is not a fit and proper person to be in possession of a firearm or an airgun.
+(3) As soon as is reasonably practicable after issuing a firearms licence to a person, a member of the Police must notify the person’s health practitioner that a firearms licence has been issued to the person.
+(4) Subsection (3) does not apply to an applicant who is a visitor.
+
+### 24A Fit and proper person to possess firearm or airgun
+(1) For the purposes of this Act, a member of the Police may find a person is not a fit and proper person to be in possession of a firearm or an airgun if the member of the Police is satisfied that 1 or more of the following circumstances exist:
+  (a) the person is charged with or has been convicted of an offence in New Zealand or overseas that is punishable by a term of imprisonment (including, but not limited to, an offence involving violence, drugs, or alcohol):
+  (b) the person is charged with or has been convicted of an offence under this Act:
+  (c) the person is charged with or has been convicted of an offence against—
+    (i) section 231A of the Crimes Act 1961; or
+    (ii) the Game Animal Council Act 2013; or
+    (iii) the Wildlife Act 1953; or
+    (iv) the Wild Animal Control Act 1977:
+  (d) the person has, or has had at any time, a temporary protection order made against them under—
+    (i) section 79 of the Family Violence Act 2018; or
+    (ii) section 14 of the Domestic Violence Act 1995:
+  (e) the person has inflicted, or is inflicting, family violence against another person and that other person has grounds under the Family Violence Act 2018 to apply for a protection order in respect of that violence:
+  (f) the person has, or has had at any time, a restraining order made against them under the Harassment Act 1997:
+  (g) the person has engaged in any conduct involving non-compliance with any requirements of—
+    (i) this Act; or
+    (ii) any regulations made under this Act; or
+    (iii) any conditions to which a permit, licence, or endorsement previously issued to the person under this Act was subject:
+  (h) the person shows, or has recently shown, symptoms of a mental or physical illness or injury that may adversely affect their ability to safely possess firearms:
+  (i) the person abuses alcohol, or is dependent on alcohol, to an extent that affects detrimentally their judgement or behaviour:
+  (j) the person uses drugs (illegal or legal) in a way that affects detrimentally their judgement or behaviour:
+  (k) the person is a member of, or has close affiliations with, a gang or an organised criminal group:
+  (l) the person has shown patterns of behaviour demonstrating a tendency to exhibit, encourage, or promote violence, hatred, or extremism:
+  (m) the person has been assessed as a risk to a State’s national security:
+  (n) the person satisfies any criteria prescribed in regulations made under section 74(1)﻿(bb).
+(2) In determining whether, for the purposes of this Act, a person is a fit and proper person to be in possession of a firearm or an airgun, the member of the Police may take into account—
+  (a) whether the applicant—
+    (i) has a sound knowledge of the safe possession and use of firearms:
+    (ii) understands the legal obligations of a holder of a firearms licence, including the endorsements that may be made on a firearms licence; and
+  (b) any other criteria prescribed in regulations made under section 74(1)﻿(bc); and
+  (c) any other relevant matters the member of the Police considers appropriate.
+(3) The member of the Police may, for the purpose of determining whether a person is a fit and proper person to be in possession of a firearm or an airgun,—
+  (a) seek and receive any information that the member of the Police thinks appropriate; and
+  (b) consider information obtained from any source.
+(4) If the member of the Police proposes to take into account any information that is or may be prejudicial to an applicant’s application, the member of the Police must, subject to subsection (5), disclose that information to the applicant and give the applicant a reasonable opportunity to refute or comment on it.
+(5) Nothing in subsection (4) requires the member of the Police to disclose any information to an applicant if that disclosure would be likely to—
+  (a) endanger the safety of any person; or
+  (b) prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand; or
+  (c) prejudice the entrusting of information to the Police, the New Zealand Security Intelligence Service, or the Government Communications Security Bureau on a basis of confidence by—
+    (i) the government of any other country; or
+    (ii) any international organisation.
+(6) In this section,—
+  - **family violence** has the meaning given in section 9 of the Family Violence Act 2018
+  - **gang** has the meaning given in section 4 of the Prohibition of Gang Insignia in Government Premises Act 2013
+  - **organised criminal group** has the meaning given in section 98A of the Crimes Act 1961.
+
+### 24B General conditions of firearms licence
+(1) Every firearms licence is subject to the conditions that the holder of a firearms licence must,—
+  (a) when using a firearm, act in a way that does not pose a risk to themselves or others; and
+  (b) produce any firearm that the licence holder is carrying to a member of the Police on demand; and
+  (c) permit a member of the Police to inspect all firearms in the licence holder’s possession, the place or places where the firearms are or will be kept, and the place or places where the ammunition is or will be kept, and, for those purposes, to enter at all reasonable times upon the premises where that place or those places are situated; and
+  (d) permit a member of the Police to inspect the security arrangements in any vehicle used by the holder to transport the licence holder’s firearms; and
+  (e) inform a member of the Police if, after the issue of the licence, any of the circumstances described in section 24A(1) apply to the licence holder; and
+  (f) inform a member of the Police if their health practitioner changes, and provide updated details of the name and contact details of their health practitioner.
+(2) Subsection (1)﻿(f) does not apply to a holder of a firearms licence who is a visitor.
+(3) It is the duty of every member of the Police exercising any power conferred by subsection (1)﻿(c) or (d)—
+  (a) to give at least 7 days’ notice of the proposed inspection under subsection (1)﻿(c) or (d); and
+  (b) to identify themselves to the holder of the firearms licence; and
+  (c) to tell the holder of the firearms licence that the power is being exercised under subsection (1)﻿(c) or (d), as the case may be; and
+  (d) if they are not in uniform, to produce on initial entry, and, if requested, at any subsequent time, evidence that they are a member of the Police.
+(4) Subsections (1)﻿(c) and (3) are subject to section 31A if the licence bears an endorsement made under section 30 or 30B.
+
+### 24C Special condition of firearms licence relating to sale or supply of ammunition
+A firearms licence held by an ammunition seller is subject to the condition that the ammunition seller has appropriate facilities to ensure the secure storage of all ammunition that, at any time, they possess.
+
+### 24D Breach of conditions to which firearms licence is subject
+A holder of a firearms licence who breaches a condition that their firearms licence is subject to under section 24B or 24C may—
+  (a) be issued with an improvement notice under section 60; or
+  (b) have their firearms licence temporarily suspended under section 60A (see section 60B, which sets out the effect of the temporary suspension of a firearms licence).
 
 ### 25 Duration of firearms licence
 (1) A firearms licence comes into force on the date specified in the licence and, unless revoked or surrendered earlier,—
@@ -702,10 +839,17 @@ Unless sooner revoked under section 18(4), a permit issued for the purposes of s
     (ii) who, in the opinion of a commissioned officer of Police, is not a fit and proper person to be in possession of a firearm or airgun.
 
 ### 27A Family violence and firearms licences
-(1) A commissioned officer of Police may, under either or both of sections 24 and 27, decide that a person is not a fit and proper person to be in possession of a firearm or airgun if that commissioned officer of Police is satisfied—
-  (a) that there are grounds under the Family Violence Act 2018 for the making against that person of an application for a protection order; or
-  (b) that such an order is in force under that Act in respect of that person.
-(2) Subsection (1) declares the effect of, and does not limit, sections 24 and 27.
+[Repealed]
+
+### 27B Revocation and surrender of licence if holder becomes disqualified
+(1) If the holder of a firearms licence becomes disqualified under section 22H from holding a firearms licence, the holder’s licence is immediately revoked.
+(2) Nothing in sections 27, 27C, and 62 to 62C applies to a revocation under this section.
+
+### 27C Revocation of suspended firearms licence
+(1) A member of the Police may, by notice in writing to the holder of a firearms licence that is temporarily suspended under section 60A, revoke the licence if the member of the Police—
+  (a) has considered any submissions made by the holder before the day stated in the notice of suspension on whether the licence should be revoked on the ground stated in that notice; and
+  (b) is satisfied that the licence should be revoked on that ground.
+(2) A member of the Police must give the holder written notice of a decision on whether to revoke a firearms licence temporarily suspended under section 60A promptly after the decision is made.
 
 ### 28 Effect of revocation or surrender of firearms licence
 (1) A person whose firearms licence is revoked must immediately surrender their licence to a member of the Police.
@@ -1010,19 +1154,7 @@ A person commits an offence and is liable on conviction to imprisonment for a te
 (4) A person commits an offence and is liable on conviction to imprisonment for a term not exceeding 6 months, or to a fine not exceeding $10,000, if the person, without reasonable excuse, contravenes subsection (1) or (3).
 
 ### 43B Restriction on sales of ammunition
-(1) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who sells or supplies ammunition for any firearm or restricted weapon to a person who is not—
-  (a) the holder of a firearms licence; or
-  (b) a licensed dealer.
-(2) In any prosecution for an offence against subsection (1) in which it is proved that the defendant sold or supplied ammunition for a firearm or restricted weapon to any person, the burden of proving that that person was—shall lie on the defendant.
-  (a) the holder of a firearms licence; or
-  (b) a licensed dealer,—
-(3) It is a good defence to a prosecution for an offence against subsection (1) if the defendant proves—
-  (a) that the ammunition was supplied to a person for use under the immediate supervision of the holder of a firearms licence; and
-  (b) that at all times while the person to whom the ammunition was supplied was in possession of the ammunition, that person was under the immediate supervision of the holder of a firearms licence.
-(4) A defendant may, in the case of a prosecution for an offence against subsection (1), discharge the burden of proof placed on the defendant by subsection (2) by proving that the defendant took reasonable steps to ascertain whether the person to whom the ammunition was sold or supplied was—
-  (a) the holder of a firearms licence; or
-  (b) a licensed dealer.
-(5) Nothing in this section applies in relation to any ammunition for a firearm to which paragraph (a) or paragraph (b) or paragraph (c) of section 22(1) applies.
+[Repealed]
 
 ### 44 Selling or supplying pistol or restricted weapon to person who does not hold permit to import or permit to possess
 (1) A person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years, or to a fine not exceeding $30,000, if the person sells or supplies a pistol or restricted weapon to any person other than a person who is authorised—
@@ -1310,6 +1442,66 @@ When an offence against this Act punishable by imprisonment (whether or not it i
   (b) there is no public interest in proceeding with the prosecution.
 (2) See also Parts 1 and 2 of Schedule 1 (which contain amnesty provisions).
 
+### 60 Improvement notices
+(1) This section applies if a member of the Police reasonably believes that a person with a firearms or dealer’s licence or an ammunition seller is failing, has failed, or is likely to fail to comply with—
+  (a) 1 or more applicable provisions of this Act or regulations made under this Act; or
+  (b) any conditions on a licence, an endorsement, or a permit.
+(2) The member of the Police may issue an improvement notice that—
+  (a) states the applicable provision or provisions, or condition or conditions, that the member of the Police reasonably believes the person is failing, has failed, or is likely to fail to comply with; and
+  (b) requires the person to remedy the failure or prevent a failure from occurring; and
+  (c) states the date by which the person is required to remedy the failure or prevent a failure from occurring.
+(3) An improvement notice must be in writing and be sent to the person by post or electronic means to their last known address.
+(4) The member of the Police may extend the time within which the person is required to remedy the failure or prevent a failure from occurring.
+(5) A person issued with an improvement notice must comply with the notice within the time specified in the notice (or within any extended time allowed by the member of the Police). See sections 60A and 60B for possible suspension and revocation of a licence if a person fails to comply with an improvement notice.
+
+### 60A Temporary suspension of licence pending possible revocation
+(1) A member of the Police may, by notice in writing to the holder of a firearms or dealer’s licence, temporarily suspend the licence if satisfied that 1 or more of the following apply:
+  (a) the holder is not a fit and proper person to be in possession of any firearm or airgun, which includes a case where—
+    (i) the holder has failed or refused to secure any arms items or ammunition in the person’s possession in accordance with regulations made under this Act; or
+    (ii) the holder has failed to comply with any conditions imposed on their licence; or
+    (iii) the holder has failed to comply with an improvement notice issued under section 60; or
+    (iv) the member of the Police is so satisfied on the basis of a notice given under section 92 by a health practitioner; or
+    (v) the licence has been seized under section 18 of the Search and Surveillance Act 2012:
+  (b) the holder, being the holder of a dealer’s licence, is not a fit and proper person to hold a dealer’s licence:
+  (c) access to any firearm or airgun in the possession of the holder is reasonably likely to be obtained by—
+    (i) a person whose application for a firearms licence has been refused; or
+    (ii) a person whose firearms licence has been revoked; or
+    (iii) a person who, in the opinion of a member of the Police, is not a fit and proper person to be in possession of a firearm or an airgun or ammunition; or
+    (iv) a person, other than the holder, whose firearms licence has been temporarily suspended.
+(2) A notice of temporary suspension of a licence must state—
+  (a) the ground on which the notice is given; and
+  (b) the licence that the notice applies to; and
+  (c) that if the person also holds a dealer’s licence, their dealer’s licence will also be suspended while that firearms licence is suspended; and
+  (d) the date on which the suspension begins; and
+  (e) that the suspension is to enable the Police to consider revoking the licence on that ground; and
+  (f) that the holder may, at any time before a day stated in the notice, make oral or written submissions on whether the licence should be revoked on that ground; and
+  (g) that the suspension lasts until notice of the decision as to whether to revoke the licence is given to the holder but, if the notice is not given within 90 days after the suspension takes effect, the suspension ends with the close of that 90-day period; and
+  (h) that the effect of the notice is that the holder is treated as not holding the licence for the purposes of this Act until a final determination on revocation of the licence is made (see sections 60B and 60C); and
+  (i) that the holder may commit an offence if the holder carries on any activities that require the holder to be licensed under this Act; and
+  (j) that the holder may be required immediately or before a date specified by a member of the Police to surrender to Police the holder’s licence and the arms items and ammunition in the holder’s possession.
+(3) The day stated under subsection (2)﻿(f) must not be sooner than, in the opinion of the Police, is reasonable to enable the holder to prepare and make submissions.
+
+### 60B Effect of temporary suspension of firearms licence
+(1) During the period that a firearms licence is suspended, this Act applies as if the firearms licence holder were not licensed to possess any arms item or ammunition under the licence or any endorsement on it.
+(2) At any time during the period that a firearms licence is suspended, a member of the Police may require the firearms licence holder (orally or in writing) to immediately surrender to a member of the Police—
+  (a) their firearms licence; and
+  (b) every arms item in their possession or under their control; and
+  (c) all ammunition in their possession or under their control.
+(3) If a firearms licence holder fails to comply with a requirement under subsection (2)﻿(b) or (c), a member of the Police may seize and take possession of any arms item or ammunition in the possession or under the control of the holder.
+(4) If a person’s firearms licence is temporarily suspended and the person holds a dealer’s licence,—
+  (a) the holder’s dealer’s licence is suspended while their firearms licence remains suspended; and
+  (b) section 60C applies.
+
+### 60C Effect of temporary suspension of dealer’s licence
+(1) During the period that the dealer’s licence is suspended,—
+  (a) this Act applies as if the dealer were not authorised to carry on any dealer activity; and
+  (b) an employee of the dealer may not carry on or assist with the carrying on of any dealer activity on behalf of the dealer.
+(2) At any time during the period that a dealer’s licence is suspended, a member of the Police may require the dealer (orally or in writing) to immediately surrender to a member of the Police—
+  (a) their dealer’s licence; and
+  (b) every arms item in their possession or under their control; and
+  (c) all ammunition in their possession or under their control.
+(3) If a dealer fails to comply with a requirement under subsection (2)﻿(b) or (c), a member of the Police may seize and take possession of any arms item or ammunition in the possession or under the control of the dealer.
+
 **Search and seizure of firearms**
 
 ### 60 Search of suspected persons and seizure of firearms, airguns, pistols, imitation firearms, restricted weapons, ammunition, or explosives
@@ -1323,39 +1515,67 @@ When an offence against this Act punishable by imprisonment (whether or not it i
 
 **Appeals**
 
-### 62 Right of appeal from official decisions
-(1) This subsection applies to—
-  (a)
-  (b) a person whose application for 1 of the following has been refused:
-    (i) a dealer's licence:
+### 62 Right of review of official decisions
+(1) This section applies to a decision to refuse an application for, or to revoke, a firearms licence.
+(2) A person who is the subject of a decision to which this section applies may apply in the prescribed manner to the Commissioner for a review of the decision.
+(3) An application must state—
+  (a) the decision that the applicant wishes to be reviewed; and
+  (b) the reasons why the applicant thinks the decision should be reviewed; and
+  (c) the outcome the applicant is seeking.
+(4) An application must, subject to subsection (5), be made within 28 days after the date on which notice of the relevant decision is given to the person.
+(5) The Commissioner may accept a late application no later than 28 days after the closing date in subsection (4) if satisfied that there are extenuating circumstances that affected the ability of the claimant to make the application by the closing date.
+
+### 62A How review to be conducted
+(1) The Commissioner must delegate under section 72 the responsibility for reviewing a decision to which section 62 applies to 1 or more persons other than the person who made the original decision.
+(2) The reviewer must review the decision on the papers within 28 days after the date on which the application for review was lodged.
+(3) The Commissioner must give the applicant a written or an electronic notice of the reviewer’s decision, and that decision has effect according to its terms.
+(4) The original decision remains in force until the reviewer’s decision is notified to the applicant.
+
+### 62B Right of appeal to District Court
+(1) A person who is the subject of a decision referred to in paragraph (a) or (b) or is a person described in paragraph (c) may, by way of originating application, appeal to a District Court Judge against the decision as follows:
+  (a) a decision to refuse an application for any of the following:
+    (i) a dealer’s licence:
     (ii) consent under section 7A:
     (iii) a permit for the purposes of section 16(1):
     (iv) a firearms licence:
     (v) an endorsement under section 30, 30B, or 36:
     (vi) a permit under section 35 to possess a pistol or restricted weapon:
-    (vii) a permit under section 35A to possess a prohibited item; and
-  (c) a person who has had 1 of the following issued subject to conditions imposed by a member of the Police or revoked:
-    (i) a dealer's licence:
+    (vii) a permit under section 35AAA to possess a pistol carbine conversion kit:
+    (viii) a permit under section 35A to possess a prohibited item:
+    (ix) a certificate of approval for a shooting club under section 38G:
+    (x) certification of a shooting range under section 38P:
+  (b) a decision to issue subject to conditions imposed by a member of the Police, or to revoke, any of the following:
+    (i) a dealer’s licence:
     (ii) a permit for the purposes of section 16(1):
     (iii) a firearms licence:
     (iv) an endorsement under section 30, 30B, or 36:
     (v) a permit under section 35 to possess a pistol or restricted weapon:
-    (vi) a permit under section 35A to possess a prohibited item; and
-  (d) a person who has been served with a notice under section 41 or 59.
-(1A) A person to whom subsection (1) applies may, by way of originating application, appeal to a District Court Judge from the determination, refusal, imposition of conditions, revocation, or service.
-(2) On the hearing of an appeal under subsection (1A), the District Court Judge may, subject to subsection (3), confirm, vary, or reverse the decision appealed against.
-(3) Where—the District Court Judge may, notwithstanding that he finds any such ground established, vary or reverse the decision appealed against if he is satisfied that, since the decision was given, adequate measures have been taken to deny access to the firearm to the person whose likelihood of access to it was the basis of the refusal or revocation.
+    (vi) a permit under section 35AAA to possess a pistol carbine conversion kit:
+    (vii) a permit under section 35A to possess a prohibited item:
+    (viii) a certificate of approval for a shooting club under section 38G:
+    (ix) certification of a shooting range under section 38P:
+  (c) a person who has been served with a notice under section 59 or 66C.
+(2) However, in the case of a decision to which section 62 applies, a person has no right of appeal under this section unless the person has—
+  (a) first applied under section 62 for a review of the decision; and
+  (b) been notified of the reviewer’s decision.
+(3) On hearing an appeal under subsection (1), the District Court Judge may, subject to subsection (5), confirm, vary, or reverse the decision appealed against.
+(4) Subsection (5) applies if—
   (a) an application for a firearms licence has been refused on the ground set out in section 24(2); or
-  (b) a firearms licence has been revoked on the ground set out in section 27(1)﻿(b)—
-(4) Notwithstanding that any appeal under this section may have been determined in favour of the appellant, any commissioned officer of Police, in exercise of the powers conferred on him by this Act, may, subject to the like right of appeal, revoke any licence or permit to which the appeal related or any licence or permit granted in compliance with the decision of the District Court Judge on the appeal, on any sufficient grounds supported by facts or evidence discovered since the hearing of the appeal.
-(5) Subject to subsection (4) and to section 64, the decision of the District Court Judge on any appeal under this section shall be final and conclusive.
-(6) No person shall be excused from complying with any of the provisions of this Act on the ground that an appeal is pending under this section.
+  (b) a firearms licence has been revoked on the ground set out in section 27(2).
+(5) If this subsection applies, the District Court Judge may, even though the Judge finds that ground established, vary or reverse the decision appealed against if satisfied that, since the decision was given, adequate measures have been taken to deny access to the firearm to the person whose likelihood of access to it was the basis of the refusal or revocation.
+
+### 62C Further provisions relating to appeals
+(1) Despite the fact that any appeal under section 62B may have been determined in favour of the appellant, any commissioned officer of Police, in the exercise of powers conferred on the officer by this Act, may, subject to the like right of appeal, revoke any licence or permit to which the appeal related, or any licence or permit granted in compliance with the decision of the District Court Judge on the appeal, on any sufficient grounds supported by facts or evidence discovered since the hearing of the appeal.
+(2) The decision of the District Court Judge on any appeal under section 62B is final and conclusive, subject to subsection (1) and to section 64.
+(3) No person is excused from complying with any of the provisions of this Act on the ground that—
+  (a) the person has applied for a review under section 62 and the review is pending; or
+  (b) the person has appealed under section 62B and the appeal or the decision on the appeal is pending.
 
 ### 63 Appeal to District Court Judge in respect of compensation
 The amount of compensation payable under any of the provisions of this Act in respect of any firearm, airgun, pistol, pistol carbine conversion kit, imitation firearm, prohibited magazine, prohibited part, restricted weapon, ammunition, explosive, or other property shall not in any case exceed the actual market value thereof, and in case of dispute shall be determined, upon application by way of originating application by a District Court Judge, whose decision, subject to section 64, shall be final.
 
 ### 64 Appeal on a question of law
-(1) Where any party to any appeal under section 62 or to any application under section 63 is dissatisfied with the decision of the District Court Judge as being erroneous in point of law, he may appeal to the High Court on the question of law only.
+(1) Where any party to any appeal under section 62B or to any application under section 63 is dissatisfied with the decision of the District Court Judge as being erroneous in point of law, he may appeal to the High Court on the question of law only.
 (2) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
 
 **Restoration of articles seized**
@@ -1775,6 +1995,22 @@ The Governor-General may, by Order in Council on the recommendation of the Minis
   (a) the day on which the removal takes effect, which must not be earlier than the day on which the notice is received; and
   (b) the reasons for the removal.
 (4) For the purposes of subsection (1), just cause includes misconduct, inability to perform the functions of office, neglect of duty, and breach of any of the determinations of the group regarding its operations and procedures (depending on the seriousness of the breach).
+
+**Medical assessments**
+
+### 92 Health practitioners may give Police medical reports of persons unfit to use firearm
+(1) This section applies if a health practitioner who has attended or been consulted in respect of a person who the practitioner knows or has reason to believe is a firearms licence holder considers that the health condition of the licence holder is such that, in the interests of the safety of individuals or the public, the licence holder—
+  (a) should not be permitted to use or possess a firearm; or
+  (b) should only be permitted to use or possess a firearm subject to any limitations that may be warranted by the health condition of the licence holder.
+(2) If this section applies, the health practitioner must consider notifying the Police as soon as practicable—
+  (a) of the opinion under subsection (1); and
+  (b) the grounds on which it is based; and
+  (c) whether the practitioner believes the licence holder poses an immediate or imminent danger of self-harm or harm to others.
+(3) If the Police have been notified by a health practitioner under subsection (2), the Commissioner may require a licence holder to undergo a further medical assessment by a health practitioner who is independent from the practitioner who made the initial assessment and, in that case, the licence holder must either—
+  (a) undergo the further assessment; or
+  (b) surrender their licence under section 27(1).
+(4) Regulations made under section 74(1)﻿(jb) (if any) apply in relation to any notice given for the purpose of this section and to any action required under subsection (3).
+(5) A health practitioner is not liable to criminal, civil, or disciplinary proceedings by disclosing personal information in the course of performing any function or responsibility under this section, as long as the practitioner acts in good faith.
 
 **Review of operation of this Act**
 
