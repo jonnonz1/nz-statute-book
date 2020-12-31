@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2020-12-31_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -5718,54 +5718,55 @@ Section 178A does not apply if the person’s emissions return described by sect
 
 ## Schedule 2 — Kyoto Protocol to the United Nations Framework Convention on Climate Change
 
-### Schedule.Group
+## Schedule Annex A
 
-#### Schedule Annex A
+## Schedule Annex B
 
-#### Schedule Annex B
-
-| Party | Quantified emission limitation or reduction commitment (percentage of base year or period) |
-| --- | --- |
-| Australia | 108 |
-| Austria | 92 |
-| Belgium | 92 |
-| Bulgaria* | 92 |
-| Canada | 94 |
-| Croatia* | 95 |
-| Czech Republic* | 92 |
-| Denmark | 92 |
-| Estonia* | 92 |
-| European Community | 92 |
-| Finland | 92 |
-| France | 92 |
-| Germany | 92 |
-| Greece | 92 |
-| Hungary* | 94 |
-| Iceland | 110 |
-| Ireland | 92 |
-| Italy | 92 |
-| Japan | 94 |
-| Latvia* | 92 |
-| Liechtenstein | 92 |
-| Lithuania* | 92 |
-| Luxembourg | 92 |
-| Monaco | 92 |
-| Netherlands | 92 |
-| New Zealand | 100 |
-| Norway | 101 |
-| Poland* | 94 |
-| Portugal | 92 |
-| Romania* | 92 |
-| Russian Federation* | 100 |
-| Slovakia* | 92 |
-| Slovenia* | 92 |
-| Spain | 92 |
-| Sweden | 92 |
-| Switzerland | 92 |
-| Ukraine* | 100 |
-| United Kingdom of Great Britain and Northern Ireland | 92 |
-| United States of America | 93 |
-| * Countries that are undergoing the process of transition to a market economy. |  |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- |
+| Party | Quantified emission limitation or reduction commitment (2008–2012) (percentage of base year or period) | Quantified emission limitation or reduction commitment (2013–2020) (percentage of base year or period) | Reference year1 | Quantified emission limitation or reduction commitment (2013–2020) (expressed as percentage of reference year)1 | Pledges for the reduction of greenhouse gas emissions by 2020 (percentage of reference year)2 |
+| Australia | 108 | 99.5 | 2000 | 98 | –5 to –15% or –25%3 |
+| Austria | 92 | 804 | NA | NA |  |
+| Belarus5* |  | 88 | 1990 | NA | –8% |
+| Belgium | 92 | 804 | NA | NA |  |
+| Bulgaria* | 92 | 804 | NA | NA |  |
+| Croatia* | 95 | 806 | NA | NA | –20%/–30%7 |
+| Cyprus |  | 804 | NA | NA |  |
+| Czech Republic* | 92 | 804 | NA | NA |  |
+| Denmark | 92 | 804 | NA | NA |  |
+| Estonia* | 92 | 804 | NA | NA |  |
+| European Union | 92 | 804 | 1990 | NA | –20%/–30%7 |
+| Finland | 92 | 804 | NA | NA |  |
+| France | 92 | 804 | NA | NA |  |
+| Germany | 92 | 804 | NA | NA |  |
+| Greece | 92 | 804 | NA | NA |  |
+| Hungary* | 94 | 804 | NA | NA |  |
+| Iceland | 110 | 808 | NA | NA |  |
+| Ireland | 92 | 804 | NA | NA |  |
+| Italy | 92 | 804 | NA | NA |  |
+| Kazakhstan* |  | 95 | 1990 | 95 | –7% |
+| Latvia* | 92 | 804 | NA | NA |  |
+| Liechtenstein | 92 | 84 | 1990 | 84 | –20%/–30%9 |
+| Lithuania* | 92 | 804 | NA | NA |  |
+| Luxembourg | 92 | 804 | NA | NA |  |
+| Malta |  | 804 | NA | NA |  |
+| Monaco | 92 | 78 | 1990 | 78 | –30% |
+| Netherlands | 92 | 804 | NA | NA |  |
+| Norway | 101 | 84 | 1990 | 84 | –30% to –40%10 |
+| Poland* | 94 | 804 | NA | NA |  |
+| Portugal | 92 | 804 | NA | NA |  |
+| Romania* | 92 | 804 | NA | NA |  |
+| Slovakia* | 92 | 804 | NA | NA |  |
+| Slovenia* | 92 | 804 | NA | NA |  |
+| Spain | 92 | 804 | NA | NA |  |
+| Sweden | 92 | 804 | NA | NA |  |
+| Switzerland | 92 | 84.2 | 1990 | NA | –20% to –30%11 |
+| Ukraine* | 100 | 7612 | 1990 | NA | –20% |
+| United Kingdom of Great Britain and Northern Ireland | 92 | 804 | NA | NA |  |
+| Canada13 | 94 |  |  |  |  |
+| Japan14 | 94 |  |  |  |  |
+| New Zealand15 | 100 |  |  |  |  |
+| Russian Federation16* | 100 |  |  |  |  |
 
 ## Schedule 2A — Paris Agreement
 
