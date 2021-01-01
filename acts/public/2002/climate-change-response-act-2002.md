@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2020-12-31_
+_Consolidation as at 2021-01-01_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -130,6 +130,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (iv) section 30GB (limits and price controls for units):
     (v) section 30GD (auction monitor):
     (vi) section 30M (infringement offences):
+    (via) section 30W(1)﻿(a) (price of carbon):
     (vii) section 60 (exemptions in respect of activities listed in Schedule 3):
     (viii) section 60A (exemptions for participants in activity listed in Part 1 of Schedule 4):
     (ix) section 84A or 84B (phase-out rates for eligible industrial activities):
@@ -164,6 +165,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   (c) section 30GB (limits and price controls for units):
   (d) section 30GD (auction monitor):
   (e) section 30M (infringement offences):
+  (ea) section 30W(1)﻿(a) (price of carbon):
   (f) section 60 (exemptions in respect of activities listed in Schedule 3), unless the Crown has signed a negotiated greenhouse agreement with the person exempted:
   (g) section 60A (exemptions for participants in activity listed in Part 1 of Schedule 4):
   (h) section 84A or 84B (phase-out rates for eligible industrial activities):
@@ -179,7 +181,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   (p) section 194C (input returns):
   (q) section 196F (forestry classifications):
   (r) section 216 (voluntary reporting or surrender for animals–farmer or fertiliser–farmer activity):
-  (s) section 233(4)﻿(a) (methodology for specifying price of carbon):
+  (s)
   (t) section 244 (exemptions from payment of synthetic greenhouse gas levy):
   (u) section 246(1)﻿(a) to (e) (synthetic greenhouse gas levy):
   (v) section 258 (verifiers).
@@ -245,8 +247,8 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   - **Crown land** has the same meaning as in section 2(1) of the Crown Minerals Act 1991
   - **dairy processing** , in relation to milk or colostrum, means the first occasion, other than at a farm dairy, on which the milk or colostrum is made subject to heat treatment, freezing, separation, concentration, filtering, blending, extraction of milk components, and the addition of other material, including (but not limited to) food, ingredients, additives, or processing aids as defined in the Food Standards Code
   - **deforest** , in relation to forest land,—
-    (a) means to convert forest land to land that is not forest land; and
-    (b) includes clearing forest land, where section 179 applies
+    (a) means to convert forest land to land that is not forest land (see section 181, for example); and
+    (b) includes deforestation after forest land is cleared, where section 179 applies
   - **disposal facility** means any facility, including a landfill,—
     (a) at which waste is disposed; and
     (b) at which the waste disposed includes waste from a household that is not entirely from construction, renovation, or demolition of a house; and
@@ -1795,6 +1797,19 @@ All infringement fees paid in respect of infringement offences must be paid into
 ### 30V Reminder notices
 A reminder notice must be in the form prescribed in regulations, and must include the same particulars, or substantially the same particulars, as the infringement notice.
 
+### Subpart 4 — Regulations setting price of carbon
+
+### 30W Regulations setting price of carbon
+(1) For the purpose of sections 134 to 134D and any other provisions that refer to regulations made under this section, the Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
+  (a) prescribing the methodology for specifying the price of carbon; and
+  (b) specifying the price of carbon by applying the methodology.
+(2) Before recommending the making of regulations, the Minister must take into account—
+  (a) the price of the units used to calculate revenue from the emissions trading scheme in the Crown annual financial statements in the preceding 12 months; and
+  (b) the price of New Zealand units sold by auction in the preceding 12 months; and
+  (c) any changes to the operation of the emissions trading scheme that have affected the price of the units surrendered under that scheme, or that may do so before the end of the next levy year.
+(3) See sections 3A and 3B for consultation requirements that apply to the making of regulations under subsection (1)﻿(a).
+(4) Regulations made under subsection (1)﻿(a) come into force 3 months after the date of their notification in the Gazette, or on any later date specified in the regulations.
+
 ## Part 3 — Inventory agency
 
 ### 31 Meaning of greenhouse gas
@@ -2725,7 +2740,7 @@ The EPA must apply section 64A as follows:
     (ii) removed from the register under sections 58(4) and 59; and
   (c) the total number and type of activities reported in emissions returns; and
   (d) the total quantity of emissions and removals reported in emissions returns; and
-  (e) subject to subsection (4), the total quantity of emissions by activity and the total quantity of removals by activity reported in emissions returns; and
+  (e)
   (f) the number of participants who failed to comply with their obligation to—
     (i) submit an emissions return required by this Act; or
     (ii) surrender or repay units as required by this Act; and
@@ -2734,12 +2749,25 @@ The EPA must apply section 64A as follows:
   (i) the total number of New Zealand units allocated under subpart 2 less any units repaid; and
   (j) the total sum of money paid to a Crown Bank Account in accordance with section 178A(2)﻿(a)﻿(ii) or (iii); and
   (k) the total sum of money paid by the EPA in accordance with section 178A(2)﻿(b)﻿(ii) or (iii).
+(1A) The EPA must, for each reporting year, publish information about—
+  (a) each qualifying penalty imposed in that reporting year; and
+  (b) each qualifying penalty imposed in a previous reporting year that has any amount still owing at any time in that reporting year.
+(1B) The information required for each of those penalties is—
+  (a) the name of the person on whom the penalty was imposed; and
+  (b) the section under which the penalty was imposed; and
+  (c) the amount of the penalty; and
+  (d) the date on which the last payment for the penalty was due and, if the penalty has been paid in full, the date on which it was paid in full; and
+  (e) in the case of a penalty imposed under section 134, the provision under which the person was liable to surrender or repay units; and
+  (f) in the case of a penalty imposed under sections 134A to 134D, whether the penalty was imposed for behaviour that was grossly careless or behaviour that was knowing.
+(1C) In subsection (1A), qualifying penalty means—
+  (a) a penalty imposed under section 134; or
+  (b) a penalty imposed under sections 134A to 134D, if the EPA is satisfied that the penalty was imposed for behaviour that was grossly careless or knowing.
 (2) The EPA—
-  (a) must publish the information specified in subsection (1) as soon as practicable after the end of the reporting year; and
-  (b) may publish the information specified in subsection (1), in whole or in part, at any other time and in whatever manner and format that the EPA considers appropriate.
+  (a) must publish the information specified in subsections (1) to (1B) as soon as practicable after the end of the reporting year; and
+  (b) may publish the information specified in subsections (1) to (1B), in whole or in part, at any other time and in whatever manner and format that the EPA considers appropriate.
 (2A) In this section, reporting year means a 12-month period starting on 1 July of one year and ending with the close of 30 June of the following year.
 (3)
-(4) The EPA is only required to publish the total quantity of emissions and the total quantity of removals in aggregate for the activities in Part 1 of Schedule 4.
+(4)
 
 ### 89A EPA to publish participant data on emissions and removals
 (1) The EPA must publish, for each participant or consolidated group for whom there is an emissions return,—
@@ -3097,7 +3125,51 @@ The EPA may extend the time for the submission of an emissions return by a perio
   (b) the EPA is satisfied that the participant is unable to submit the required emissions return by the due date.
 
 ### 120 Amendment to emissions returns by EPA
-Subject to section 127, if the EPA is satisfied that the information contained in an emissions return is incorrect, the EPA may, at any time, amend the emissions return and any assessment of the participant’s liability to surrender units or entitlement to receive New Zealand units in the emissions return as the EPA thinks fit.
+(1) Subject to section 127, if the EPA is satisfied that the information contained in an emissions return is incorrect, the EPA may, at any time, amend the emissions return and any assessment of the participant’s liability to surrender units or entitlement to receive New Zealand units in the emissions return as the EPA thinks fit.
+(2) If the EPA proposes to amend a person’s emissions return, the EPA must notify the person of that proposal as soon as practicable.
+(3) If the EPA then becomes satisfied that the information contained in the emissions return was correct,—
+  (a) the EPA must notify the person of that fact and of the effects of paragraph (b); and
+  (b) section 123 applies as if the EPA had assessed the matters in the emissions return under section 121.
+
+### 120A Liabilities, penalties, and interest when emissions returns amended
+(1) This section applies if the EPA (on the initial notice date) notifies a person under section 120(2) that it proposes to amend their original emissions return. Terms used in this section are defined throughout, and at the end of, the section.
+(2) Until the EPA has amended the original emissions return by giving the amendment notice,—
+  (a) the person’s surrender or repayment of any units for which they are liable under the original emissions return need not be made by the applicable due date; and
+  (b) the EPA must not give a penalty notice to the person in relation to the original emissions return; and
+  (c) if the EPA had already given a penalty notice to the person in relation to the original emissions return, the person’s payment of the penalty or any interest need not be made by the applicable due date.
+(3) The EPA, in assessing the matters required to amend the original emissions return, must calculate all of the following that apply:
+  (a) the number of units that the person is liable to surrender or repay under the amended emissions return (the amended total units):
+  (b) the units that the person was liable to surrender or repay under the original emissions return (the original total units), and—
+    (i) the number of amended total units that do not exceed the original total units (the base units):
+    (ii) the number of units by which the amended total units exceed the original total units (the additional units):
+  (c) if any of the base units were not surrendered or repaid by a due date before the initial notice date (the unpaid base units), the penalty under section 134 for the unpaid base units (the amended penalty):
+  (d) if the EPA had already given a penalty notice specifying a penalty (the original penalty) in relation to the original emissions return,—
+    (i) the amount by which the original penalty exceeds the amended penalty (the unnecessary penalty):
+    (ii) and if any interest has become payable on the original penalty before the initial notice date (the original interest),—
+      (A) the interest that would have become payable before that date on the amended penalty instead of the original penalty (the amended interest):
+      (B) the amount by which the original interest exceeds the amended interest (the unnecessary interest).
+Penalty notice not already given
+(4) If there are unpaid base units, and the EPA has not already given a penalty notice in relation to the original emissions return, the EPA must include with the amendment notice a penalty notice for those unpaid base units (specifying the amended penalty).
+Penalty notice already given
+(5) If there are unpaid base units, and the EPA has already given a penalty notice in relation to the original emissions return, the EPA must include with the amendment notice a penalty notice for the unpaid base units that—
+  (a) complies with section 134, including by—
+    (i) specifying the amended penalty as required by section 134(3)﻿(d); and
+    (ii) specifying the new due date as required by section 134(3)﻿(f); but
+  (b) also—
+    (i) specifies the amount of the amended interest and states that it is payable on the amended penalty; and
+    (ii) states that interest is not payable on the amended penalty in the period starting on the initial notice date and ending on the new due date; and
+    (iii) specifies the amount of any unnecessary penalty or unnecessary interest that the person has paid and states that the EPA is required to reimburse it.
+(6) The penalty notice given under subsection (5) has effect in accordance with its terms, instead of the penalty notice that was already given.
+Other provisions
+(7) To avoid doubt, this section—
+  (a) does not prevent the EPA, when requiring the surrender or repayment of units, or the payment of a penalty or interest, under this section, from taking into account any earlier surrender, repayment, or payment by the person; and
+  (b) does not prevent section 134 from separately applying to any additional units (that are not surrendered or repaid by their due date).
+(8) In this section,—
+  - **amended emissions return** means the original emissions return as amended by the EPA under section 120, as notified in the amendment notice
+  - **amendment notice** means the notice given by the EPA under section 123(1) for the amended emissions return
+  - **interest** means interest payable on a penalty under section 137
+  - **original emissions return** means the person’s emissions return that the EPA proposes to amend
+  - **penalty notice** means a notice given to a person under section 134(3) (because of the person’s failure to surrender or repay units by the due date).
 
 ### 121 Assessment if default made in submitting emissions return
 (1) This section applies if—
@@ -3113,7 +3185,7 @@ An amendment made to an emissions return under section 120, or an assessment mad
   (a) the particulars of the amendment or assessment; and
   (b) any grounds or information upon which the amendment or assessment was based; and
   (c) the right of the person to seek a review of the decision under section 144.
-(2) A notice under subsection (1) must, if relevant, be accompanied by a penalty notice under section 134(3)﻿(b).
+(2) A notice under subsection (1) must, if relevant, be accompanied by a penalty notice under section 134A or 134C or required by section 120A.
 (3) If the amendment or assessment results in a liability for the person to surrender units or any additional units, the participant must surrender those units within 60 working days of the date of the notice under subsection (1).
 (4) If the amendment shows that a participant has surrendered too many units, the EPA must, within 20 working days of the date of the notice under subsection (1), arrange for reimbursement to the participant, in accordance with section 124, of the number of units incorrectly surrendered.
 (5) If the amendment or assessment results in an entitlement for a participant to receive New Zealand units for the participant's removal activities, the EPA must direct the Registrar to transfer the number of New Zealand units to which the participant is entitled to the participant's holding account.
@@ -3153,6 +3225,7 @@ An amendment made to an emissions return under section 120, or an assessment mad
   (b) if the EPA is satisfied that an emissions return was fraudulent, was wilfully misleading, or deliberately omitted mention of emissions or removals in respect of which an emissions return was required to be submitted, the EPA may amend the emissions return at any time, under section 120, so as to—
     (i) increase the number of units required to be surrendered by the participant:
     (ii) decrease the number of New Zealand units to which the participant is entitled in respect of removal activities.
+  (c) if a person submits an emissions return on receiving a notice from the EPA under section 134A(1), the period of 4 or 7 years in which the EPA may amend an emissions return under subsection (1)﻿(a) or (b) starts from the date of submission of the emissions return.
 (3) Without limiting subsection (2)﻿(b), that paragraph applies in respect of all emissions returns by a person for an activity if the EPA is satisfied that the person’s application to be registered was fraudulent or wilfully misleading.
 
 ### 128 Amendments and assessments made by electronic means
@@ -3164,7 +3237,7 @@ Any amendment or assessment made by the EPA for the purpose of this Act that is 
 
 ### 129 Offences in relation to failure to comply with various provisions
 (1) A person commits an offence against this Act if the person—
-  (a) is a participant in any year and, without reasonable excuse, fails to comply with section 62 (requirement to collect data or other information, calculate emissions and removals, and keep records); or
+  (a) is a participant in any year and, without reasonable excuse, fails to comply with section 62 (other than by submitting an emissions return containing incorrect calculations); or
   (b) without reasonable excuse,—
     (i) fails to notify the EPA under section 56 that the person is carrying out an activity listed in Schedule 3; or
     (ii) fails to submit an emissions return when required to do so; or
@@ -3198,7 +3271,7 @@ Every person to whom section 99(1) applies who knowingly acts in contravention o
 (1) A person commits an offence against this Act if the person—
   (a) refuses to take an oath when required to do so under section 95; or
   (b) refuses to answer any question when required to do so under section 95; or
-  (c) is a participant in any year and knowingly fails to comply with section 62 (requirement to collect data or other information, calculate emissions and removals, and keep records); or
+  (c) is a participant in any year and knowingly fails to comply with section 62 (other than by submitting an emissions return containing incorrect calculations); or
   (d) knowingly fails to submit an emissions return when required to do so; or
   (da) knowingly fails to comply with the requirements relating to the calculation of, application for, or notification of an annual allocation adjustment or a closing allocation adjustment under section 83 or 84, including when required to comply with section 84(1)﻿(a) to (c) by the EPA under section 84(2)﻿(c); or
   (e) knowingly fails to keep records as required—
@@ -3229,100 +3302,198 @@ Every person to whom section 99(1) applies who knowingly acts in contravention o
   (b) a fine not exceeding $50,000; or
   (c) both imprisonment and a fine.
 
-### 134 Penalty for failing to surrender or repay units
+### 134 Penalty for failing to surrender or repay units by due date
+(1) This section applies if a person fails, by the due date,—
+  (a) to surrender units that the person is required to surrender; or
+  (b) to repay units that the person is required to repay.
+(2) The person must (in addition to surrendering or repaying the units) pay to the EPA a penalty calculated as follows:3 × a × bwhere—ais the number of units that the person failed to surrender or repay by the due datebis the price, in dollars, of carbon per tonne on the due date, as set by or in accordance with regulations made under section 30W.
+(3) The EPA must give a notice to the person that—
+  (a) refers to the person’s failure to surrender or repay units by the due date and the provision under which the person is liable to surrender or repay the units; and
+  (b) refers to any relevant notice that the EPA has given the person in respect of the requirement to surrender or repay the units (for example, a notice given under section 123(1)); and
+  (c) specifies the number of units that the person must surrender or repay; and
+  (d) specifies the amount of the penalty that the person must pay under this section; and
+  (e) advises that the person may request to enter into a deferred payment arrangement under section 135A; and
+  (f) advises that, unless the units are surrendered or repaid and the penalty is paid in full within 20 working days after the notice is given, interest on the amount of the penalty will accrue in accordance with section 137.
+(4) In this section, due date means the final date by which the person was required to surrender or repay the units.
+
+### 134A Penalty for failing to submit emissions return by due date
 (1) This section applies if—
-  (a) a person fails to surrender units by the due date when required to do so under section 65(4), 118(5), 189, 191, or 193; or
-  (b) an amendment to an emissions return under section 120 or an assessment made under section 121 results in a liability for a person—
-    (i) to surrender units or additional units under section 123(3); or
-    (ii) to repay units in accordance with section 123(6); or
-  (c) a person is required under section 125 to repay units transferred in error.
-(2) Subject to section 135, if this section applies, the person is liable to—
-  (a) surrender or repay the units as required under the relevant section; and
-  (b) pay to the EPA an excess emissions penalty of $30 for each unit that,—
-    (i) if subsection (1)﻿(a) applies, the person fails to surrender by the due date; or
-    (ii) if subsection (1)﻿(b) applies, the person is required to surrender under section 123(3) or repay under section 123(6); or
-    (iii) if subsection (1)﻿(c) applies, the person fails to repay by the due date.
-(3) If a person is liable to an excess emissions penalty under subsection (2), the EPA must give a notice to the person that,—
-  (a) if subsection (1)﻿(a) or (c) applies,—
-    (i) refers to the person’s failure to surrender units by the due date as required under section 65(4), 118(5), 189, 191, or 193, as applicable, or repay units by the due date under section 125; and
-    (ii) sets out the number of units required to be surrendered or repaid; and
-    (iii) sets out the amount of the excess emissions penalty to which the person is liable under subsection (2)﻿(b); and
-    (iv) requires the person to surrender or repay the units specified in subparagraph (ii), and pay the penalty specified in subparagraph (iii) to the EPA, within 20 working days of the date of the notice; and
-    (v) advises that, unless both the units are surrendered or repaid and the penalty paid in full by the due date, interest on the amount of the penalty will accrue in accordance with section 137; or
-  (b) if subsection (1)﻿(b) applies,—
-    (i) refers to the relevant notice under section 123(1); and
-    (ii) sets out the amount of the excess emissions penalty to which the person is liable under subsection (2)﻿(b); and
-    (iii) requires the person to pay the penalty specified in subparagraph (ii) within the period in which the person must surrender units under section 123(3) or repay units under section 123(6); and
-    (iv) advises that, unless both the units are surrendered or repaid and the penalty paid in full by the due date, interest on the amount of the penalty will accrue in accordance with section 137.
-(4) The amount of the excess emissions penalty, together with any interest that accrues on that penalty, constitutes a debt due to the Crown and is recoverable by the EPA in a court of competent jurisdiction.
+  (a) a person fails to submit an emissions return by the due date; and
+  (b) the EPA is satisfied that the person has not taken reasonable care; and
+  (c) the EPA gives a notice to the person stating that—
+    (i) the person has failed to submit the emissions return by the due date; and
+    (ii) if the person does not submit the return within 20 working days after the notice is given, the EPA will make an assessment under section 121 and a penalty may apply; and
+  (d) the person fails to submit the emissions return within 20 working days after the notice is given.
+(2) If the emissions return is for an activity listed in Part 1 of Schedule 4 (for post-1989 forestry), the person has either—
+  (a) emissions equal to the carbon dioxide equivalent tonnes of emissions, less removals (if any), assessed for the return to the extent they match a net liability to surrender or repay units; or
+  (b) removals equal to the carbon dioxide equivalent tonnes of removals, less emissions (if any), assessed for the return to the extent they match a net entitlement to receive or be reimbursed units.
+(3) If the emissions return is for any other activity, the person has either—
+  (a) emissions equal to the carbon dioxide equivalent tonnes of emissions assessed for the return; or
+  (b) removals equal to the carbon dioxide equivalent tonnes of removals assessed for the return.
+(4) If the person has—
+  (a) emissions, they must pay to the EPA the penalty calculated under subsection (5):
+  (b) removals, they must pay to the EPA the penalty calculated under subsection (5), but the maximum penalty is $1,000:
+  (c) neither emissions nor removals, no penalty is payable.
+(5) The calculation is—a × b × cwhere—ais the person’s emissions or removals in tonnes (whichever applies)bis the price, in dollars, of carbon per tonne on the due date, as set by or in accordance with regulations made under section 30Wcis the culpability factor determined under subsection (6).
+(6) The culpability factor for a person is the greatest culpability factor that the EPA is satisfied applies under this table:The following table is small in size and has 3 columns. Column 1 is headed Person’s level of culpability. Column 2 is headed Did person voluntarily disclose failure or error to EPA before being informed of it by EPA? Column 3 is headed Culpability factor.Person’s level of culpabilityDid person voluntarily disclose failure or error to EPA before being informed of it by EPA?Culpability factorPerson did not take reasonable careYes0.1No0.2Person was grossly carelessYes0.2No0.4Person knowingly failedYes1.0No1.0
+Notice of penalty
+(7) If the person must pay a penalty, the EPA must give a notice to the person that—
+  (a) refers to the person’s failure to submit the emissions return by the due date and the provision under which the person is required to submit the return; and
+  (b) refers to the notice issued under subsection (1)﻿(c); and
+  (c) specifies the amount of the penalty that the person must pay under this section; and
+  (d) advises that the person may request to enter into a deferred payment arrangement under section 135A; and
+  (e) advises that, unless the penalty is paid in full within 20 working days after the notice is given, interest on the amount of the penalty will accrue in accordance with section 137.
+Meaning of due date
+(8) In this section, due date—
+  (a) means the final date by which the person—
+    (i) was originally required to submit the emissions return; or
+    (ii) would have been required to submit the emissions return had they complied with this Act in all respects; and
+  (b) excludes any extension under subsection (1)﻿(d).
 
-### 134A Penalty for failing to surrender or repay units when required by notice given under section 134(3)
-(1) This section applies if a person fails to surrender or repay units when required by a notice given under section 134(3).
-(2) If this section applies, the person is liable to—
-  (a) surrender or repay the units as required under the notice; and
-  (b) pay to the EPA an excess emissions penalty of $30 for each unit that the person has failed to surrender or repay by the due date specified in the notice given under section 134(3).
-(3) If a person is liable to an excess emissions penalty under subsection (2), the EPA must give a notice to the person that—
-  (a) refers to the person's failure to surrender or repay units by the due date specified in the notice given under section 134(3); and
-  (b) sets out the number of units required to be surrendered or repaid; and
-  (c) sets out the amount of the further excess emissions penalty that the person is liable to surrender or repay under this section (if any); and
-  (d) requires the person to surrender or repay the units specified in paragraph (b), and pay the penalty specified in paragraph (c) to the EPA, within 20 working days of the date of the notice; and
-  (e) advises that, unless the units are surrendered or repaid and the further penalty is paid in full by the due date, interest on the amount of the further penalty will accrue in accordance with section 137.
-(4) To avoid doubt, any liability to surrender or repay units or to pay a penalty under subsection (2) is additional to, and does not affect, the liability of a person to surrender or repay units under any other section of this Act or to pay a penalty under a penalty notice given by the EPA under section 134.
-(5) The amount of the excess emissions penalty and any interest that accrues on that penalty constitute a debt due to the Crown and is recoverable by the EPA in a court of competent jurisdiction.
+### 134B Penalty for failing to submit annual or closing allocation adjustment by due date
+(1) This section applies if—
+  (a) a person fails to submit an annual allocation adjustment under section 83 or a closing allocation adjustment under section 84 by the due date; and
+  (b) the EPA is satisfied that the person has not taken reasonable care; and
+  (c) the EPA gives a notice to the person stating that—
+    (i) the person has failed to submit the allocation adjustment by the due date; and
+    (ii) if the person does not submit the allocation adjustment within 20 working days after the notice is given, the EPA will make a decision under section 86B(4) and a penalty may apply; and
+  (d) the person fails to submit the allocation adjustment within 20 working days after the notice is given.
+(2) If the result of a decision made under section 86B(4) is that—
+  (a) the person is liable to surrender or repay units, they must pay to the EPA the penalty calculated under subsection (3) (in addition to surrendering or repaying the units):
+  (b) the person is entitled to receive units, they must pay to the EPA the penalty calculated under subsection (3), but the maximum penalty is $1,000:
+  (c) there is no change in the person’s liability or entitlement, no penalty is payable.
+(3) The calculation is—a × b × cwhere—ais the number of units that the person—bis the price, in dollars, of carbon per tonne on the due date, as set by or in accordance with regulations made under section 30Wcis the culpability factor determined under subsection (4).
+  (i) is liable to surrender or repay; or
+  (ii) is entitled to receive
+(4) The culpability factor for a person is the greatest culpability factor that the EPA is satisfied applies under this table:The following table is small in size and has 3 columns. Column 1 is headed Person’s level of culpability. Column 2 is headed Did person voluntarily disclose failure or error to EPA before being informed of it by EPA? Column 3 is headed Culpability factor.Person’s level of culpabilityDid person voluntarily disclose failure or error to EPA before being informed of it by EPA?Culpability factorPerson did not take reasonable careYes0.1No0.2Person was grossly carelessYes0.2No0.4Person knowingly failedYes1.0No1.0
+(5) If the person must pay a penalty, the EPA must give a notice to the person that—
+  (a) refers to the person’s failure to submit the allocation adjustment by the due date and the provision under which the person is required to submit the allocation adjustment; and
+  (b) refers to the notice issued under subsection (1)﻿(c); and
+  (c) specifies the amount of the penalty that the person must pay under this section; and
+  (d) advises that the person may request to enter into a deferred payment arrangement under section 135A; and
+  (e) advises that, unless the penalty is paid in full within 20 working days after the notice is given, interest on the amount of the penalty will accrue in accordance with section 137.
+(6) In this section, due date—
+  (a) means the final date by which the person was originally required to submit the allocation adjustment; and
+  (b) excludes any extension under subsection (1)﻿(d).
 
-### 135 Reductions in penalty
-(1) The EPA may reduce the excess emissions penalty imposed by section 134(2)﻿(b)﻿(i) or (iii) by up to 100%, if the person voluntarily discloses the failure to surrender or repay units before receiving a penalty notice under section 134.
-(1A) The EPA may reduce the excess emissions penalty imposed by section 134A(2)﻿(b) for a liability incurred under section 134(2)﻿(b)﻿(i) or (iii) by up to 100% if the person voluntarily discloses the failure to surrender or repay units before receiving a penalty notice under section 134A.
-(2) The EPA may reduce the excess emissions penalty imposed by section 134(2)﻿(b)﻿(ii) or 134A(2)﻿(b) for a liability incurred under section 134(2)﻿(b)﻿(ii) by up to 100%, if—
-  (a) the person voluntarily disclosed that an emissions return submitted by the person contained incorrect information, or that the person failed to file a return when required to do so, before the EPA or an enforcement officer—
-    (i) requested any information under section 94 or 95 in relation to the return; or
-    (ii) gave notice of an intention to enter land or premises under section 100(3); or
-    (iii) executed a warrant under section 101; or
-  (b) the EPA is satisfied that the person formed a view as to the information on which the return was based or as to whether a return was required, that, while incorrect, was reasonable, having regard to the information available to that person at the time the emissions return was required.
+### 134C Penalty for submitting incorrect emissions return
+(1) This section applies if—
+  (a) the EPA amends a person’s emissions return under section 120; and
+  (b) the EPA is satisfied that the amendment was needed because the person failed to take reasonable care.
+(2) In particular,—
+  (a) subsections (3) to (5) apply if the emissions return is for an activity listed in Part 1 of Schedule 4 (for post-1989 forestry):
+  (b) subsections (6) to (8) apply if the emissions return is for any other activity.
+Activities relating to post-1989 forestry
+(3) The person has either—
+  (a) emissions equal to the carbon dioxide equivalent tonnes of emissions, less removals (if any), assessed for the return to the extent they match a net liability to surrender or repay units; or
+  (b) removals equal to the carbon dioxide equivalent tonnes of removals, less emissions (if any), assessed for the return to the extent they match a net entitlement to receive or be reimbursed units.
+(4) If the effect of the amendment is that—
+  (a) the person’s emissions are greater, removals are lesser, or removals have become emissions, they must pay to the EPA the penalty calculated under subsection (5):
+  (b) the person’s removals are greater, emissions are lesser, or emissions have become removals, they must pay to the EPA the penalty calculated under subsection (5), but the maximum penalty is $1,000:
+  (c) there is no change in the person’s emissions or removals, no penalty is payable.
+(5) The calculation is—a × b × cwhere—ais the lesser of—bis the price, in dollars, of carbon per tonne on the due date, as set by or in accordance with regulations made under section 30Wcis the culpability factor determined under subsection (9).
+  (a) the person’s emissions or removals under the emissions return, as amended; and
+  (b) the difference between (whichever applies)—
+    (i) the person’s emissions under the emissions return before and after amendment; or
+    (ii) the person’s removals under the emissions return before and after amendment; or
+    (iii) the person’s emissions and removals under the emissions return before and after amendment, with the emissions converted to a negative number
+Other activities
+(6) The person has either—
+  (a) emissions equal to the carbon dioxide equivalent tonnes of emissions assessed for the return; or
+  (b) removals equal to the carbon dioxide equivalent tonnes of removals assessed for the return.
+(7) If the effect of the amendment is that—
+  (a) the person’s emissions are greater or removals are lesser, they must pay to the EPA the penalty calculated under subsection (8):
+  (b) the person’s removals are greater or emissions are lesser, they must pay to the EPA the penalty calculated under subsection (8), but the maximum penalty is $1,000:
+  (c) there is no change in the person’s emissions or removals, no penalty is payable.
+(8) The calculation is—a × b × cwhere—ais the lesser of—bis the price, in dollars, of carbon per tonne on the due date, as set by or in accordance with regulations made under section 30Wcis the culpability factor determined under subsection (9).
+  (a) the person’s emissions or removals under the emissions return, as amended; and
+  (b) whichever of the following applies:
+    (i) the difference between the person’s emissions under the emissions return before and after amendment; or
+    (ii) the difference between the person’s removals under the emissions return before and after amendment
+Culpability factor
+(9) The culpability factor for a person is the greatest culpability factor that the EPA is satisfied applies under this table:The following table is small in size and has 3 columns. Column 1 is headed Person’s level of culpability. Column 2 is headed Did person voluntarily disclose failure or error to EPA before being informed of it by EPA? Column 3 is headed Culpability factor.Person’s level of culpabilityDid person voluntarily disclose failure or error to EPA before being informed of it by EPA?Culpability factorPerson did not take reasonable careYes0.1No0.2Person was grossly carelessYes0.2No0.4Person knowingly failedYes1.0No1.0
+Notice of penalty
+(10) If the person must pay a penalty, the EPA must give a notice to the person that—
+  (a) refers to the amendment under section 120; and
+  (b) specifies the amount of the penalty that the person must pay under this section; and
+  (c) advises that the person may request to enter into a deferred payment arrangement under section 135A; and
+  (d) advises that, unless the penalty is paid in full within 20 working days after the notice is given, interest on the amount of the penalty will accrue in accordance with section 137.
+Meaning of due date
+(11) In this section, due date—
+  (a) means the final date by which the person—
+    (i) was originally required to submit the emissions return; or
+    (ii) would have been required to submit the emissions return had they complied with this Act in all respects; and
+  (b) excludes any extension under section 134A(1)﻿(d).
 
-### 136 Additional penalty for knowing failure to comply
-(1) This section applies to a person who—
-  (a) is or was liable following—
-    (i) a new determination under section 78 or a variation or revocation of a decision under section 86C to repay units allocated and transferred to the person; or
-    (ii) an amendment under section 120 or an assessment under section 121 to surrender units (or additional units) or to repay units, in respect of any period covered by, or that should have been covered by, an emissions return; and
-  (b) is convicted of an offence under section 132(1)﻿(c) to (f) or 133 that relates to—
-    (i) the units allocated and transferred to the person (including, but not limited to, the provision of information); or
-    (ii) an emissions return that was—
-      (A) amended under section 120; or
-      (B) assessed under section 121.
-(2) If this section applies, the person is liable, in addition to any penalty imposed in respect of the offence, to—
-  (a) as the case may require,—
-    (i) transfer to the Crown holding account designated by the Minister or EPA in the notice referred to in section 79(3) or 86C(4) a number of units equivalent to the number of units specified as being repayable in that notice under section 79(3)﻿(a) or 86C(4), or in any review or appeal proceedings relating to that determination or decision; or
-    (ii) surrender a number of units equivalent to the number of units determined by the EPA in the amendment under section 120 or the assessment under section 121, or in any review or appeal proceedings relating to that determination; and
-  (b) pay an excess emissions penalty of $30 for each unit the person is liable to transfer or surrender under paragraph (a).
-(3) If this section applies, the EPA must give a notice to the person that—
-  (a) sets out the—
-    (i) number of additional units that the person is required to transfer to a Crown holding account or surrender under subsection (2); and
-    (ii) amount of the excess emissions penalty to which the person is liable under subsection (2); and
-  (b) requires the person to transfer to the designated Crown holding account or surrender the additional units, and pay the penalty within 60 working days of the date of the notice; and
-  (c) advises that, unless both the units are transferred to the designated Crown holding account or surrendered (as the case may require) and the penalty paid in full by the due date, interest on the amount of the penalty will accrue in accordance with section 137.
-(4) To avoid doubt, any liability to transfer units to a Crown holding account or surrender units and pay a penalty under subsection (2) is additional to, and does not affect, the liability of a person to surrender or repay units under any other section of this Act or to pay a penalty under a penalty notice given by the EPA under section 134 or 134A.
-(5) The amount of the excess emissions penalty, together with any interest that accrues on that penalty, constitutes a debt due to the Crown and is recoverable by the EPA in a court of competent jurisdiction.
+### 134D Penalty for providing incorrect information in allocation application or adjustment
+(1) This section applies if—
+  (a) the EPA reconsiders, varies, or revokes (changes) a decision on a person’s allocation application or adjustment under section 86C; and
+  (b) the EPA is satisfied that the change was needed because the person failed to take reasonable care.
+(2) If the effect of the change is that—
+  (a) the person is liable to surrender or repay additional units, or is entitled to receive fewer units, they must pay to the EPA the penalty calculated under subsection (3) (in addition to surrendering or repaying any required units):
+  (b) the person is liable to surrender or repay fewer units, or is entitled to receive additional units, they must pay to the EPA the penalty calculated under subsection (3), but the maximum penalty is $1,000:
+  (c) there is no change in the person’s liability or entitlement, no penalty is payable.
+(3) The calculation is—a × b × cwhere—ais the lesser of—bis the price, in dollars, of carbon per tonne on the due date, as set by or in accordance with regulations made under section 30Wcis the culpability factor determined under subsection (4).
+  (a) the total number of units the person is liable to surrender or repay, or is entitled to receive, under the decision, as changed; and
+  (b) the number of units that the person—
+    (i) is now liable to surrender or repay as additional units, or is no longer entitled to receive, as a result of the change (if subsection (2)﻿(a) applies); or
+    (ii) is no longer liable to surrender or repay, or is now entitled to receive as additional units, as a result of the change (if subsection (2)﻿(b) applies)
+(4) The culpability factor for a person is the greatest culpability factor that the EPA is satisfied applies under this table:The following table is small in size and has 3 columns. Column 1 is headed Person’s level of culpability. Column 2 is headed Did person voluntarily disclose failure or error to EPA before being informed of it by EPA? Column 3 is headed Culpability factor.Person’s level of culpabilityDid person voluntarily disclose failure or error to EPA before being informed of it by EPA?Culpability factorPerson did not take reasonable careYes0.1No0.2Person was grossly carelessYes0.2No0.4Person knowingly failedYes1.0No1.0
+(5) If the person must pay a penalty, the EPA must give a notice to the person that—
+  (a) refers to the change under section 86C; and
+  (b) specifies the amount of the penalty that the person must pay under this section; and
+  (c) advises that the person may request to enter into a deferred payment arrangement under section 135A; and
+  (d) advises that, unless the penalty is paid in full within 20 working days after the notice is given, interest on the amount of the penalty will accrue in accordance with section 137.
+(6) In this section, due date—
+  (a) means the final date by which the person was originally required to submit the allocation application or adjustment; and
+  (b) excludes any extension under section 134B(1)﻿(d).
+
+### 135 Date for payment of penalty
+(1) A person must pay a penalty imposed under sections 134 to 134D within 20 working days after notice is given of the penalty.
+(2) However, if a deferred payment arrangement has been made under section 135A, the person must pay the penalty by the date or dates agreed under the arrangement.
+
+### 135A Deferred payment arrangements for payments of penalties
+(1) A person who is liable to pay a penalty imposed under sections 134 to 134D may request to enter into an arrangement with the EPA for the person to pay the penalty after the date required by section 135(1), either in a single payment or in instalments.
+(2) The EPA must consider the request, taking into account the person’s financial position on the date on which the request is made.
+(3) The EPA may—
+  (a) accept the request; or
+  (b) request further information from the person; or
+  (c) make a counter offer; or
+  (d) if subsection (5) applies, decline the request.
+(4) If the EPA requests further information from the person or makes a counter offer,—
+  (a) the person must provide the information or respond to the offer within 20 working days after the request or offer, or within a longer period allowed by the EPA; and
+  (b) if the person provides the information or responds to the offer later than required, the provision of the information or the response must be treated as a new request to enter into an arrangement.
+(5) The EPA may decline to enter into an arrangement with the person if the EPA considers that—
+  (a) the person is in a position to pay all of the penalty immediately; or
+  (b) the person is being frivolous or vexatious; or
+  (c) the person has not met their obligations under a previous arrangement.
+(6) The renegotiation of an arrangement is treated as if it were a new request to enter into an arrangement. Renegotiation may be initiated—
+  (a) by the person at any time; or
+  (b) by the EPA at any time after the end of 12 months after the date on which the arrangement was entered into.
+(7) The EPA may cancel an arrangement if—
+  (a) it was entered into on the basis of false or misleading information provided by the person; or
+  (b) the person is not meeting their obligations under the arrangement.
+
+### 136 Penalties are debt due to Crown
+The amount of a penalty imposed under sections 134 to 134D, together with any interest that accrues on that penalty, constitutes a debt due to the Crown and is recoverable by the EPA in a court of competent jurisdiction.
 
 ### 137 Interest for late payment
 (1) This section applies if—
-  (a) a person—
-    (i) has failed to surrender or repay units when required to do so and is liable to pay an excess emissions penalty in relation to those units under section 134(2)﻿(b)﻿(i) or (iii) or 134A(2)﻿(b); or
-    (ii) is required to surrender or repay units under section 123 and is liable to pay an excess emissions penalty in relation to those units under section 134(2)﻿(b)﻿(ii) or 134A(2)﻿(b); or
-    (iii) is required to transfer units to a Crown holding account or surrender units and pay an excess emissions penalty under section 136; and
-  (b) the person does not comply, or comply in full, with the requirement to surrender or repay units and to pay the penalty by the relevant date.
-(2) If this section applies, the person is liable to pay interest on the full amount of the excess emissions penalty—
+  (a) a person is liable to pay a penalty imposed under sections 134 to 134D; and
+  (b) the person has not paid the penalty by the date on which the penalty was due (as stated in the notice issued under the relevant section); and
+  (c) in the case of a penalty imposed under section 134, the person has not surrendered or repaid the units to which the penalty relates.
+(2) If this section applies, the person is liable to pay interest on the full amount of the penalty—
   (a) at the rate prescribed by the Governor-General by Order in Council; and
-  (b) for the period from the date by which the penalty was due to be paid until the associated liability to surrender or repay units or to transfer units to a Crown holding account under section 136 (or to pay any associated debt under section 159) has been met, and until the penalty and any interest due have been paid in full.
-(3) To avoid doubt, interest accrues under subsection (2) even if the amount of the excess emissions penalty in a penalty notice has been paid in full if the associated requirement to surrender or repay units or to transfer units to a Crown holding account under section 136 (or to pay any associated debt under section 159) has not been met in full.
+  (b) for the period from the date by which the penalty was due to be paid until the penalty and any interest due have been paid in full and, in the case of a penalty imposed under section 134, the person has surrendered or repaid the units to which the penalty relates.
+(3)
 (4) Despite anything in this section, the EPA may remit any amount of interest that has accrued under this section, if the EPA is satisfied that—
-  (a) the failure of the person to comply with the requirement to surrender or repay units or to transfer units to a Crown holding account under section 136 and pay the penalty in full arises as a result of an event or a circumstance beyond the control of that person; and
+  (a) the failure of the person to comply with the requirement to surrender or repay units and pay the penalty arises as a result of an event or a circumstance beyond the control of that person; and
   (b) as a consequence of that event or circumstance, the person has a reasonable justification or excuse for the non-compliance; and
   (c) the person corrected the failure to comply as soon as practicable.
 (5) Without limiting the EPA’s discretion under subsection (4), an event or circumstance may include—
   (a) an accident or a disaster; or
   (b) illness or emotional or mental distress.
-(6) Despite anything in this section, the EPA may remit part of an amount of interest that has accrued under this section if the EPA is satisfied that it would be manifestly unfair or unjust to impose the full amount.
+(6) Despite anything in this section, the EPA may remit all or part of an amount of interest that has accrued under this section if the EPA is satisfied that it would be manifestly unfair or unjust to impose all, or that part, of the amount.
 (7) For the purposes of this section, an event or circumstance does not include—
   (a) an act or omission of an agent of a person, unless the EPA is satisfied that the act or omission was caused by an event or circumstance beyond the control of the agent—
     (i) that could not have been anticipated; and
@@ -3330,15 +3501,15 @@ Every person to whom section 99(1) applies who knowingly acts in contravention o
   (b) a person’s financial position.
 
 ### 138 Obligation to pay penalty not suspended by appeal
-(1) The obligation to pay and the right to receive and recover any excess emissions penalty or interest imposed under section 134, 134A, 136, or 137, and the obligation to transfer to a Crown holding account or surrender any additional units under section 136, are not suspended by any review or appeal.
-(2) If the applicant or appellant is successful in the review or appeal, the amount of any excess emissions penalty or interest paid by the applicant must be refunded to the applicant or appellant by the EPA, and any units not required to be transferred to a Crown holding account or surrendered must be reimbursed in accordance with the procedure specified in section 124.
+(1) The obligation to pay and the right to receive and recover any penalty imposed under sections 134 to 134D or interest imposed under section 137 are not suspended by any review or appeal.
+(2) If the applicant or appellant is successful in the review or appeal, the amount of any penalty or interest paid by the applicant must be refunded to the applicant or appellant by the EPA, and any units not required to be transferred to a Crown holding account or surrendered must be reimbursed in accordance with the procedure specified in section 124.
 (3) However, any obligation on the EPA under subsection (2) is suspended pending the outcome of any appeal filed under section 146.
-(4) The EPA must pay interest on any refunded excess emissions penalty and interest calculated in accordance with the following formula:((X × Y) ÷ 365) × Zwhere—Xis the number of days in the period that—Yis the amount of penalty and interest that, having been paid, is caused to be refunded in accordance with the outcome of a successful appeal; andZis the rate of interest specified by the Governor-General by Order in Council made under section 137(2)﻿(a).
+(4) The EPA must pay interest on any refunded penalty and interest calculated in accordance with the following formula:((X × Y) ÷ 365) × Zwhere—Xis the number of days in the period that—Yis the amount of penalty and interest that, having been paid, is caused to be refunded in accordance with the outcome of a successful appeal; andZis the rate of interest specified by the Governor-General by Order in Council made under section 137(2)﻿(a).
   (a) commences on the day on which the relevant penalty is lodged to the credit of the EPA; and
   (b) ends on the day on which the relevant penalty is refunded by the EPA; and
 
 ### 138A Penalties to be paid into Crown account
-The EPA must pay the amount of all excess emissions penalties and interest on the penalties received from a person in accordance with section 134, 134A, 136, or 137 into a Crown Bank Account.
+The EPA must pay the amount of all penalties and interest on the penalties received from a person in accordance with sections 134 to 134D or 137 into a Crown Bank Account.
 
 ### 139 Liability of body corporate
 If, in the course of proceedings against a body corporate for an offence under this Part, it is necessary to establish the state of mind of the body corporate, it is sufficient to show that a director, employee, or agent of the body corporate, acting within the scope of the person’s actual or apparent authority, had that state of mind.
@@ -3654,15 +3825,19 @@ If an entity ceases to be a member of a consolidated group, the entity—
 
 ### 159 Recovery of costs
 (1) This section applies if a person—
-  (a) is required to surrender or repay units and does not do so, or does not surrender or repay the total number of units required to be surrendered or repaid, within 1 year of the date of a penalty notice given under section 134 or 136 in relation to the units; or
+  (a) is required to surrender or repay units and does not do so, or does not surrender or repay the total number of units required to be surrendered or repaid, within 90 days after the date of a penalty notice given under section 134 in relation to the units; or
   (b) is a participant and enters into an insolvency process.
 (2) If this section applies, the chief executive may seek to recover from the person, in a court of competent jurisdiction,—
   (a) the cost of the units owed by the person as a debt; and
   (b) the cost of the units that the insolvent participant would be required to surrender or repay under this Act (other than this provision); and
   (c) any costs associated with bringing and carrying out the action to recover the debt.
-(3) For the purposes of subsection (2)﻿(a), the following formula must be used to calculate the total cost of the units:A = B × Cwhere—Ais the total cost of the unitsBis the number of unitsCis the price of a New Zealand unit on the date that is 1 year after the date that the penalty notice is given under section 134 or 136 for the units.
-(4) Any administrative costs incurred in the recovery of costs under subsection (2) and any penalties incurred under section 134, 134A, or 136 constitute a debt to the Crown and are recoverable by the chief executive in a court of competent jurisdiction.
-(5) For the purposes of this section, insolvency process means receivership under the Receiverships Act 1993, liquidation under the Companies Act 1993, or bankruptcy under the Insolvency Act 2006.
+(3) For the purposes of subsection (2)﻿(a), the following formula must be used to calculate the total cost of the units:A = B × Cwhere—Ais the total cost of the unitsBis the number of unitsCis the price, in dollars, of carbon per tonne on the relevant date, as set by or in accordance with regulations made under section 30W.
+(4) Any administrative costs incurred in the recovery of costs under subsection (2) and any penalties incurred under section 134 to 134D constitute a debt to the Crown and are recoverable by the chief executive in a court of competent jurisdiction.
+(5) In this section,—
+  - **insolvency process** means receivership under the Receiverships Act 1993, liquidation under the Companies Act 1993, or bankruptcy under the Insolvency Act 2006
+  - **relevant date** means the earlier of—
+    (a) the date that is 90 days after the date of the penalty notice; and
+    (b) the date on which the person enters into an insolvency process.
 
 ### 160 Review of operation of emissions trading scheme
 (1) The Minister may, at any time, initiate a review of the operation and effectiveness of the emissions trading scheme.
@@ -4130,16 +4305,15 @@ Sections 169 to 176 do not affect the application of sections 29 to 32 of the St
 
 ### 179 Forest land to be treated as deforested in certain cases
 (1) Without limiting paragraph (a) of the definition of deforest in section 4(1), a hectare of forest land must be treated as deforested for the purposes of this Act if the forest species on that hectare have been cleared and,—
-  (a) 4 years after clearing, the hectare has not—
-    (i) been replanted with at least 500 stems of forest species; or
-    (ii) regenerated a cover of at least 500 stems of exotic forest species; or
-    (iii) been replanted with at least 100 stems of willows or poplars in a manner consistent with managing soil erosion; or
-    (iv) regenerated predominantly indigenous forest species growing in a manner in which the hectare is likely to be forest land 10 years after the hectare was cleared; or
+  (a) 4 years after clearing, none of the following apply:
+    (i) the hectare has at least 500 stems of exotic forest species growing:
+    (ii) the hectare has been replanted with at least 100 stems of willows or poplars in a manner consistent with managing soil erosion:
+    (iii) the hectare has predominantly indigenous forest species growing in a manner in which the hectare is likely to be forest land 10 years after the hectare was cleared; or
   (b) 10 years after clearing,—
-    (i) predominantly exotic forest species are growing, but that hectare does not have tree crown cover of at least 30% from trees that have reached 5 metres in height; or
+    (i) predominantly exotic forest species are growing, but that hectare does not have tree crown cover of more than 30% from trees that have reached 5 metres in height; or
     (ii) predominantly indigenous forest species are growing, but that hectare is not forest land; or
-  (c) 20 years after clearing, predominantly indigenous forest species are growing, but that hectare does not have tree crown cover of at least 30% from trees that have reached 5 metres in height.
-(1A) Subsection (1)﻿(a)﻿(iii) applies only if the EPA is satisfied that the relevant local authority has determined that the soil erosion risk of the land is at least moderate.
+  (c) 20 years after clearing, predominantly indigenous forest species are growing, but that hectare does not have tree crown cover of more than 30% from trees that have reached 5 metres in height.
+(1A) Subsection (1)﻿(a)﻿(ii) applies only if the EPA is satisfied that the relevant local authority has determined that the soil erosion risk of the land is at least moderate.
 (2) If forest land is to be treated as deforested under subsection (1),—
   (a) the deforestation is to be treated as having been carried out 4 years, 10 years, or 20 years, after the clearing of the forest species, as the case may be; but
   (b) the liability in respect of the deforestation must be calculated by reference to the age and forest species of the trees cleared 4 years, 10 years, or 20 years earlier, as the case may be.
@@ -4182,13 +4356,15 @@ Sections 169 to 176 do not affect the application of sections 29 to 32 of the St
 (3) To avoid doubt, for the purposes of this Act, no person, other than a landowner or, in the circumstances in subsection (2), a third party, is to be treated as carrying out an activity listed in Part 1 of Schedule 3.
 
 ### 181 When deforestation to be treated as occurring in respect of pre-1990 forest land
-(1) Subject to subsection (3), a landowner (or in the circumstances in section 180(2), a third party) converting a hectare of pre-1990 forest land to land that is not forest land, is to be treated as carrying out an activity listed in Part 1 of Schedule 3 on the date the hectare is cleared as part of the deforestation process.
-(2) Subsection (3) applies to a landowner converting a hectare of pre-1990 forest land that was cleared but not deforested prior to—
+(1) This section applies to any hectare of pre-1990 forest land that is being converted to land that is not forest land.
+(1A) The hectare of forest land is to be treated as being deforested on the date of the first action on it that is inconsistent with it remaining forest land.
+(2) However, subsection (3) applies if the hectare of forest land was cleared but not deforested prior to—
   (a) the forest land being transferred to the landowner; or
   (b) control of the forest land reverting to that landowner following the expiry or termination of a forestry right, Crown forestry licence, lease, or other agreement that relates to the land.
-(3) A landowner to whom this subsection applies is to be treated as carrying out an activity listed in Part 1 of Schedule 3 on the date of the first action on the hectare of pre-1990 forest land following—
-  (a) the date of transfer of the land that is inconsistent with the hectare remaining forest land; or
-  (b) the date of the expiry or termination of the forestry right, Crown forestry licence, lease, or other agreement relating to the land that is inconsistent with the hectare remaining forest land.
+(3) The hectare of forest land is to be treated as being deforested on the date of the first action on it that—
+  (a) is inconsistent with the hectare remaining forest land; and
+  (b) happens after the date of transfer of the land or the date of the expiry or termination of the forestry right, Crown forestry licence, lease, or other agreement relating to the land.
+(3A) In any case, the liability in respect of the deforestation must be calculated by reference to the age and forest species of the trees when they were cleared, unless section 186(2) applies.
 (4) This section applies only if section 4(5) does not apply.
 (5) This section does not apply to pre-1990 forest land that is the subject of an offsetting forest land application that the EPA has approved under section 186B.
 
@@ -4592,7 +4768,7 @@ The EPA must give written or electronic notice to a participant, or former parti
   (c) must, if the person makes an election under paragraph (b), indicate clearly in the return that such an election has been made; and
   (d) must, if an assessment in the emissions return shows a liability or a net liability to—
     (i) surrender units, surrender those units; or
-    (ii) repay units, repay those units, by transferring the number of units required to be transferred to a Crown holding account designated by the EPA, and the provisions of sections 134 and 135 apply, with any necessary modifications, as if—
+    (ii) repay units, repay those units, by transferring the number of units required to be transferred to a Crown holding account designated by the EPA, and the provisions of sections 134, 134A, and 134C apply, with any necessary modifications, as if—
       (A) the units the person is required to repay were units transferred to the person in error; and
       (B) the requirement to repay the units arose under section 125.
 (8A) Despite subsection (8)﻿(d), a person who submits an emissions return under this section that shows a liability or a net liability is under no obligation to surrender units if—
@@ -4686,11 +4862,14 @@ The EPA must give written or electronic notice to a participant, or former parti
 (5) The EPA may still take action under this section if it is unable to notify the person of its proposal to do so because it is not reasonably practicable to locate them or their address.
 
 ### 192 Effect of transmission of interest in post-1989 forest land
-(1) This section applies—The following table is medium in size and has 4 columns. Columns 1 to 4 are grouped under the heading Part A. Column 1 is headed Existing participant. Column 2 is headed Interest transferred. Column 3 is headed New participant. Column 4 is headed New activity in Part 1 of Schedule 4.Part AExisting participantInterest transferredNew participantNew activity in Part 1 of Schedule 4Landowner of post-1989 forest landPost-1989 forest land in respect of which the person is recorded as a participantNew land ownerOwning post-1989 forest landHolder of a registered forestry right over post-1989 forest landRegistered forestry right over post-1989 forest land in respect of which the person is recorded as a participantNew forestry right holderHolding a registered forestry right over post-1989 forest landLeaseholder under a registered lease of post-1989 forest landRegistered lease over post-1989 forest land in respect of which the person is recorded as a participantNew lesseeBeing the leaseholder under a registered lease of post-1989 forest landParty to a Crown conservation contractCrown conservation contract over post-1989 forest land in respect of which the person is recorded as a participantNew party to the Crown conservation contractBeing a party to a Crown conservation contractThe following table is medium in size and has 4 columns. Columns 1 to 4 are grouped under the heading Part B. Column 1 is headed Existing participant. Column 2 is headed Interest entered into. Column 3 is headed New participant. Column 4 is headed New activity in Part 1 of Schedule 4.Part BExisting participantInterest entered intoNew participantNew activity in Part 1 of Schedule 4Landowner of post-1989 forest landRegistered forestry right over post-1989 forest land in respect of which the person is recorded as a participantHolder of a registered forestry right over post-1989 forest landBeing the holder of a registered forestry right over post-1989 forest landLandowner of post-1989 forest landRegistered lease of post-1989 forest land in respect of which the person is recorded as a participantLessee under a registered lease of post-1989 forest landBeing a lessee under a registered lease of post-1989 forest landLandowner of Crown land that is post-1989 forest landCrown conservation contract over post-1989 forest land in respect of which the person is recorded as a participantParty to the Crown conservation contractBeing a party to a Crown conservation contractThe following table is medium in size and has 4 columns. Columns 1 to 4 are grouped under the heading Part C. Column 1 is headed Existing participant. Column 2 is headed Interest expired or terminated. Column 3 is headed New participant. Column 4 is headed New activity in Part 1 of Schedule 4.Part CExisting participantInterest expired or terminatedNew participantNew activity in Part 1 of Schedule 4Holder of a registered forestry right over post-1989 forest landRegistered forestry right over post-1989 forest land in respect of which the person is recorded as a participantLandowner of the post-1989 forest landOwning post-1989 forest landLeaseholder under a registered lease of post-1989 forest landRegistered lease over post-1989 forest land in respect of which the person is recorded as a participantLandowner of the post-1989 forest landOwning post-1989 forest landParty to a Crown conservation contractCrown conservation contract over post-1989 forest land in respect of which the person is recorded as a participantLandowner of the post-1989 forest landOwning post-1989 forest land.
+(1) This section applies—The following table is medium in size and has 4 columns. Columns 1 to 4 are grouped under the heading Part A. Column 1 is headed Existing participant. Column 2 is headed Interest transferred. Column 3 is headed New participant. Column 4 is headed New activity in Part 1 of Schedule 4.Part AExisting participantInterest transferredNew participantNew activity in Part 1 of Schedule 4Landowner of post-1989 forest landPost-1989 forest land in respect of which the person is recorded as a participantNew land ownerOwning post-1989 forest landHolder of a registered forestry right over post-1989 forest landRegistered forestry right over post-1989 forest land in respect of which the person is recorded as a participantNew forestry right holderHolding a registered forestry right over post-1989 forest landLeaseholder under a registered lease of post-1989 forest landRegistered lease over post-1989 forest land in respect of which the person is recorded as a participantNew lesseeBeing the leaseholder under a registered lease of post-1989 forest landParty to a Crown conservation contractCrown conservation contract over post-1989 forest land in respect of which the person is recorded as a participantNew party to the Crown conservation contractBeing a party to a Crown conservation contractThe following table is medium in size and has 4 columns. Columns 1 to 4 are grouped under the heading Part B. Column 1 is headed Existing participant. Column 2 is headed Interest entered into. Column 3 is headed New participant. Column 4 is headed New activity in Part 1 of Schedule 4.Part BExisting participantInterest entered intoNew participantNew activity in Part 1 of Schedule 4Landowner of post-1989 forest land Registered forestry right over post-1989 forest land in respect of which the person is recorded as a participantHolder of a registered forestry right over post-1989 forest land (only if agreed under subsection (1A))Being the holder of a registered forestry right over post-1989 forest land (only if agreed under subsection (1A))Landowner of post-1989 forest land Registered lease of post-1989 forest land in respect of which the person is recorded as a participantLessee under a registered lease of post-1989 forest land (only if agreed under subsection (1A))Being a lessee under a registered lease of post-1989 forest land (only if agreed under subsection (1A))Landowner of Crown land that is post-1989 forest landCrown conservation contract over post-1989 forest land in respect of which the person is recorded as a participantParty to the Crown conservation contractBeing a party to a Crown conservation contractThe following table is medium in size and has 4 columns. Columns 1 to 4 are grouped under the heading Part C. Column 1 is headed Existing participant. Column 2 is headed Interest expired or terminated. Column 3 is headed New participant. Column 4 is headed New activity in Part 1 of Schedule 4.Part CExisting participantInterest expired or terminatedNew participantNew activity in Part 1 of Schedule 4Holder of a registered forestry right over post-1989 forest landRegistered forestry right over post-1989 forest land in respect of which the person is recorded as a participantLandowner of the post-1989 forest landOwning post-1989 forest landLeaseholder under a registered lease of post-1989 forest landRegistered lease over post-1989 forest land in respect of which the person is recorded as a participantLandowner of the post-1989 forest landOwning post-1989 forest landParty to a Crown conservation contractCrown conservation contract over post-1989 forest land in respect of which the person is recorded as a participantLandowner of the post-1989 forest landOwning post-1989 forest land.
   (a) if, subject to section 157A(4), a person registered as a participant in respect of an activity listed in Part 1 of Schedule 4 and who is described in the first column of Part A of the following table transfers, including by way of sale, assignment, or by operation of law, all or any of the interest described in the second column of Part A of the table to a person described in the third column of Part A of the table:
   (b) if a person registered as a participant in respect of an activity listed in Part 1 of Schedule 4 and who is described in the first column of Part B of the following table grants an interest or enters into a contract described in the second column of Part B of the table:
   (c) if an interest described in the second column of Part C of the following table expires or is terminated, and the person described in the first column of Part C of the table is, in relation to that interest, registered as a participant in respect of an activity listed in Part 1 of Schedule 4:
-(2) In subsections (1) and (3) to (7) and section 193,—
+(1A) Despite subsection (1)﻿(b), if a transferor covered by that paragraph grants a registered forestry right or registered lease described in the second column of Part B of the table in that subsection, this section applies only if, before the date of transmission,—
+  (a) the transferor and the transferee have agreed in writing that the transferee is to become the participant in relation to the post-1989 forest land to which the transmitted interest relates; and
+  (b) the transferor has given written notice of the agreement to the EPA.
+(2) In subsections (1), (1A), and (3) to (7) and section 193,—
   (a) affected carbon accounting area—
     (i) means a carbon accounting area that contains post-1989 forest land to which a transmitted interest relates; and
     (ii) includes, where a transmitted interest relates to post-1989 forest land in part of a carbon accounting area, that carbon accounting area:
@@ -5112,8 +5291,11 @@ A participant who carries out the activity listed in subpart 1 of Part 5 of Sche
   (a)
   (b) if the emissions return of a participant to whom subsection (1) applies is amended by the EPA under section 120, the participant—
     (i) is liable to surrender any units or additional units required to be surrendered under section 123(3); but
-    (ii) is not liable to pay an excess emissions penalty under section 134(2)﻿(b)﻿(ii) or 134A(2)﻿(b) in relation to those units:
-  (c) if a participant to whom subsection (1) applies fails to surrender units or additional units as required under section 123(3), section 159(1)﻿(a) applies as if the date of the notice given under section 123(3) were the date of the penalty notice given under section 134, 134A, or 136.
+    (ii) is not liable to pay a penalty under section 134, 134A, or 134C in relation to those units:
+  (c) if a participant to whom subsection (1) applies fails to surrender units or additional units as required under section 123(3), section 159(1)﻿(a) applies as if the date of the notice given under section 123(3) were the date of the penalty notice given under section 134.
+(3) The participant—
+  (a) is not liable to pay a penalty under section 134B or 134D that relates to an allocation of units in respect of that first year; and
+  (b) is not liable for any infringement offence (as defined by section 30L) in respect of an act or omission in that first year.
 
 ### 218 Transitional provision for voluntary reporting
 [Repealed]
@@ -5260,21 +5442,14 @@ The Commission must, not later than 30 June 2022, provide written advice to the 
 **Calculation of levy**
 
 ### 233 Rate of synthetic greenhouse gas levy
-(1) The levy rate that applies to a leviable motor vehicle, a class of leviable motor vehicle, or an item or a class of leviable goods in a levy year must be calculated in accordance with the following formula:R = A × B × GWPwhere—Ais the amount of synthetic greenhouse gas contained in the class of leviable motor vehicle or leviable goods, or the item of leviable goodsBis the price of carbon specified under subsection (4)﻿(b) or, if section 236(2) applies, set by that provisionGWPis the global warming potential specified in regulations for the specified synthetic greenhouse gasRis the rate of the levy.
+(1) The levy rate that applies to a leviable motor vehicle, a class of leviable motor vehicle, or an item or a class of leviable goods in a levy year must be calculated in accordance with the following formula:R = A × B × GWPwhere—Ais the amount of synthetic greenhouse gas contained in the class of leviable motor vehicle or leviable goods, or the item of leviable goodsBis the price of carbon specified by or under regulations made under section 30W or, if section 236(2) applies, set by that provisionGWPis the global warming potential specified in regulations for the specified synthetic greenhouse gasRis the rate of the levy.
 (2) In this section, amount means the weight or any other unit of measurement of a synthetic greenhouse gas prescribed for the purpose of this section in regulations made under section 246(1)﻿(c) or (e).
 (3) For the purpose of variable A, the amount of synthetic greenhouse gas contained in a leviable motor vehicle or leviable good is—
   (a) the amount specified by regulations for that class of leviable motor vehicle or leviable good, or for an item of leviable good; and
   (b) if no amount is specified by regulations, the actual amount contained in the leviable motor vehicle or leviable good.
-(4) For the purpose of variable B, the Governor-General may, by Order in Council made on the recommendation of the Minister,—
-  (a) prescribe the methodology for specifying the price of carbon; and
-  (b) specify the price of carbon by applying the methodology.
-(5) Regulations made under subsection (4)﻿(a)—
-  (a) must be made in accordance with the consultation requirements in section 3B; and
-  (b) come into force 3 months after the date of their notification in the Gazette, or on any later date specified in the regulations.
-(6) Before recommending the making of the regulations, the Minister must take into account the following matters:
-  (a) the price of the units used to calculate revenue from the greenhouse gas emissions trading scheme in the Crown annual financial statements over the preceding 12 months; and
-  (b) the price of New Zealand units sold by auction under section 6A over the preceding 12 months; and
-  (c) any changes to the operation of the greenhouse gas emissions trading scheme that have affected the price of the units surrendered under that scheme, or that may do so before the end of the next levy year.
+(4)
+(5)
+(6)
 
 ### 234 Transitional provision for synthetic greenhouse gas levy
 [Repealed]
@@ -5284,7 +5459,7 @@ The Commission must, not later than 30 June 2022, provide written advice to the 
 
 ### 236 Maximum price of carbon for purpose of levy calculation
 (1) This section applies to the calculation of variable B of the formula set out in section 233(1).
-(2) If the methodology prescribed under section 233(4)﻿(a) would result in a price of carbon that is higher than the following price (the maximum price) for the levy year specified, the price of carbon is set at the maximum price for that levy year:
+(2) If the methodology prescribed under section 30W(1)﻿(a) would result in a price of carbon that is higher than the following price (the maximum price) for the levy year specified, the price of carbon is set at the maximum price for that levy year but only for the purposes of the calculation in section 233:
   (a) $25, for a levy year that is 2020 or earlier; or
   (b) $35, for a levy year that is 2021 or later, but that starts before the start date for auctions.
 (3) In this section, start date for auctions means the date specified by regulations made under section 30GA(2)﻿(a) as the date on which the sale of New Zealand units by auction commences.
@@ -5672,6 +5847,7 @@ If section 27 applies to information immediately before its amendment by the ame
 (3) Section 89A—
   (a) applies in respect of emissions returns submitted under section 189, 191, or 193 for emissions or removals on or after 1 January 2020; but
   (b) does not apply in respect of any other emissions returns in relation to post-1989 forest land during a mandatory emissions returns period commencing before 1 January 2023.
+(4) Section 89(1A) and (1B) does not apply in respect of failures or errors made by a person before 1 January 2021.
 
 ### 11 Members of existing consolidated groups jointly and severally liable
 (1) The joint and several liability to which each member of a consolidated group has agreed, immediately before the commencement of this clause, is treated as if it were joint and several liability for any obligations under the ETS participant provisions in respect of emissions and removals resulting from, or allocations, penalties, or interest relating to, the relevant activities.
@@ -5703,6 +5879,53 @@ Section 178A does not apply if the person’s emissions return described by sect
   (a) that is a New Zealand assigned amount unit (as defined by regulation 3 of the Climate Change (Unit Register) Regulations 2008); and
   (b) that the Registrar transfers to a cancellation account under this clause.
 (4) No compensation is payable for any other units that the Registrar transfers to a cancellation account under this clause.
+
+#### Subpart 3 — Provisions that commence on 1 January 2021
+
+### 15 Existing regulations about price of carbon
+(1) This clause applies to any regulations made under section 233(4) that, immediately before the commencement of this clause,—
+  (a) prescribe the methodology for specifying the price of carbon; or
+  (b) specify the price of carbon by applying the methodology.
+(2) On and after the commencement of this clause, the regulations continue in force and must be treated as if they were made under section 30W.
+
+### 16 Penalties
+(1) This clause applies in respect of a person who, before the commencement of this clause,—
+  (a) fails to surrender or repay units by the due date; or
+  (b) fails to submit an emissions return or annual or closing allocation adjustment; or
+  (c) submits an incorrect emissions return, allocation application, or allocation adjustment.
+(2) Sections 134 to 134D, as inserted by the amendment Act, do not apply in respect of the person for the failure or error.
+(3) This Act, as in force immediately before the commencement of this clause, applies in respect of the person for the failure or error.
+
+### 17 Penalties for forestry activities before 2023 with liability for lower amounts
+(1) This clause applies if—
+  (a) new section 134 would otherwise apply to the person (because they have failed to surrender or repay units by a due date); and
+  (b) that liability to surrender or repay the units resulted from—
+    (i) a forestry activity carried out before 1 January 2023; and
+    (ii) 1 or more of the following things in relation to the forestry activity:
+      (A) an emissions return with an emissions return period and under which the average liability per year of that period is less than 25,000 units:
+      (B) an emissions return without an emissions return period and under which the liability is less than 25,000 units:
+      (C) any other requirement in this Act (for example, the requirement to repay units under section 125 or any requirement to surrender units equal to a unit balance) and under which the liability is less than 25,000 units.
+(2) Under this clause, instead of new section 134 (and other new provisions of this Act that refer to that section) applying, the following provisions apply to the person with the modifications specified:Excess emissions penalty for failing to surrender or repay unitsFurther excess emissions penalty for failing to surrender or repay units when required by notice under section 134Reductions in penaltyDeferred payment arrangements for payments of penaltiesAdditional excess emissions penalty for knowing failure to complyInterest for late paymentObligation to pay penalty not suspended by appealPenalties to be paid into Crown accountReview and appealRecovery of costsTransitional provisionOther former provisionsEPA to publish certain information
+  (a) former section 134(1)﻿(a) and (c), (2)﻿(a) and (b)﻿(i) and (iii), (3)﻿(a), and (4), as if—
+    (i) former section 134(1)﻿(a) applied to the failure to surrender the units (if any); and
+    (ii) former section 134(1)﻿(c) applied to the failure to repay the units (if any):
+  (b) former section 134A:
+  (c) former section 135(1) and (1A):
+  (d) new section 135A, as if—
+    (i) a penalty imposed under former section 134, 134A, or 136 were imposed under new section 134; and
+    (ii) new section 135A(1) referred to the date required by that former section (instead of by new section 135(1)):
+  (e) former section 136(1)﻿(a)﻿(ii) and (b)﻿(ii), (2)﻿(a)﻿(ii) and (b), and (3) to (5):
+  (f) former section 137(1)﻿(a)﻿(i) and (iii) and (b), (2) to (5), and (7), and new section 137(6):
+  (g) former section 138:
+  (h) former section 138A:
+  (i) former sections 144 to 146:
+  (j) former section 159, as if its subsection (3) specified that variable C is the price, in dollars, of carbon per tonne 1 year after the date of the penalty notice given under former section 134 or 136 in relation to the units, as set by or in accordance with regulations made under new section 30W:
+  (k) former section 217(2)﻿(b)﻿(ii) and (c):
+  (l) any other former provision of this Act that provides for a process that applies to any former provision applied by this clause:
+  (m) new section 89, as if a penalty imposed under former section 134, 134A, or 136 were a qualifying penalty.
+(3) In this section,—
+  - **former** , in relation to a provision, means the provision as in force immediately before the commencement of this clause
+  - **new** , in relation to a provision, means the provision as in force on or after the commencement of this clause.
 
 ## Schedule 1 — United Nations Framework Convention on Climate Change
 
