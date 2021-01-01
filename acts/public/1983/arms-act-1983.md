@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2020-12-24_
+_Consolidation as at 2021-01-01_
 
 > Title
 
@@ -1821,18 +1821,7 @@ The explanatory note of an Order in Council made under section 74A must indicate
   (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 74C Regulations providing for transitional matters relating to Arms (Prohibited Firearms, Magazines, and Parts) Amendment Act 2019
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Police, make regulations—
-  (a) providing transitional and savings provisions concerning the coming into force of the amendment Act that may be in addition to the transitional and savings provisions in Schedule 1:
-  (b) providing that (subject to any conditions specified in the regulations) during a specified transitional period,—
-    (i) specified provisions of this Act (including definitions or transitional and savings provisions) do not apply (or apply with modifications or additions):
-    (ii) specified provisions repealed or amended by the amendment Act continue to apply (or continue to apply with modifications or additions):
-    (iii) conditions for the possession and use of a prohibited item apply during the amnesty period (as defined in clause 1 of Schedule 1).
-(2) The Minister may recommend the making of regulations under this section only if the Minister is satisfied that the regulations are necessary or desirable for the orderly implementation of the amendment Act.
-(3) On the close of 31 December 2020,—
-  (a) this section is repealed; and
-  (b) any regulations made under it are revoked.
-(4) To avoid doubt, regulations 28E and 28F (and the cross-heading above regulation 28E) of the Arms Regulations 1992, as inserted by section 74 and Schedule 3 of the amendment Act, may be amended or revoked by regulations made under this section as if they had been inserted by regulation.
-(5) In this section, amendment Act means the Arms (Prohibited Firearms, Magazines, and Parts) Amendment Act 2019.
+[Repealed]
 
 ### 74D Regulations providing for transitional matters relating to Arms Legislation Act 2020
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Police, make regulations—
