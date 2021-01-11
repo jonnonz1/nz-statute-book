@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-01-11_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -357,5 +357,6 @@ Despite the enactment of the Amendment Act, the entity known as Insurance & Fina
 
 | Interdepartmental executive board | Servicing department |
 | --- | --- |
+| Border Executive Board | New Zealand Customs Service |
 
 ## Schedule 2 — Enactments repealed
