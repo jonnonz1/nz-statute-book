@@ -1,5 +1,5 @@
 # Public Service Act 2020
-_Consolidation as at 2020-11-06_
+_Consolidation as at 2021-01-11_
 
 ### 1 Title
 This Act is the Public Service Act 2020.
@@ -1018,7 +1018,7 @@ Replace section 32(1) with:
 
 ### 116 Schedule 1 amended
 (1) Replace the Schedule 1 heading with:s 13Public service agencies and organisations to which this Act applies
-(2) In Schedule 1, after Part 1, insert:Departmental agencies and host departmentsThe following table is small in size and has 2 columns. Column 1 is headed Departmental agency. Column 2 is headed Host department.Departmental agency Host departmentCancer Control AgencyMinistry of HealthNational Emergency Management AgencyDepartment of the Prime Minister and CabinetOffice for Māori Crown Relations—Te ArawhitiMinistry of JusticeSocial Wellbeing AgencyPublic Service CommissionInterdepartmental executive boards and servicing departmentsThe following table is small in size and has 2 columns. Column 1 is headed Interdepartmental executive board. Column 2 is headed Servicing department.Interdepartmental executive boardServicing departmentNo interdepartmental executive boards have been established as at the date on which this schedule was inserted into this Act by section 116 of the Public Service Act 2020.Interdepartmental venturesNo interdepartmental ventures have been established as at the date on which this schedule was inserted into this Act by section 116 of the Public Service Act 2020.
+(2) In Schedule 1, after Part 1, insert:Departmental agencies and host departmentsThe following table is small in size and has 2 columns. Column 1 is headed Departmental agency. Column 2 is headed Host department.Departmental agencyHost departmentCancer Control AgencyMinistry of HealthNational Emergency Management AgencyDepartment of the Prime Minister and CabinetOffice for Māori Crown Relations—Te ArawhitiMinistry of JusticeSocial Wellbeing AgencyPublic Service CommissionInterdepartmental executive boards and servicing departmentsThe following table is small in size and has 2 columns. Column 1 is headed Interdepartmental executive board. Column 2 is headed Servicing department.Interdepartmental executive boardServicing departmentNo interdepartmental executive boards have been established as at the date on which this schedule was inserted into this Act by section 116 of the Public Service Act 2020.Interdepartmental venturesNo interdepartmental ventures have been established as at the date on which this schedule was inserted into this Act by section 116 of the Public Service Act 2020.
 
 **Amendments to Parliamentary Service Act 2000**
 
@@ -1256,6 +1256,12 @@ The amendments to the State Sector (Ministry for Primary Industries) Order 2012 
 
 | Interdepartmental executive board | Departments in board’s remit (see section 26(2)﻿(b)) | Servicing department |
 | --- | --- | --- |
+| Border Executive Board | Ministry of Business, Innovation, and Employment | New Zealand Customs Service |
+|  | Ministry of Foreign Affairs and Trade |  |
+|  | Ministry of Health |  |
+|  | Ministry for Primary Industries |  |
+|  | Ministry of Transport |  |
+|  | New Zealand Customs Service |  |
 
 | Interdepartmental venture | Relevant departments (see section 33(2)﻿(b)) |
 | --- | --- |
