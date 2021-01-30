@@ -1,5 +1,5 @@
 # Winston Churchill Memorial Trust Act 1965
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-01-30_
 
 > Title
 
@@ -122,9 +122,9 @@ Any local authority within the meaning of the Local Government Act 2002 or other
 (3) Any income of the Fund not for the time being required for expenditure under section 18 may, at the discretion of the Board, be transferred to the capital of the Fund, whether or not the income has been invested under subsection (2) of section 17.
 
 ### 17 Powers of investment
-(1) Any money, being capital of the Fund within the meaning of section 16, held by or on behalf of the Board shall from time to time be invested in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds:
-  provided that, notwithstanding any rule of law or equity to the contrary, the Board shall not be obliged to convert any property which is the subject of a gift to the Board and which is not property in which the Board may properly invest money pursuant to this subsection.
-(2) Any money, being income of the Fund within the meaning of section 16, may, at the discretion of the Board, from time to time be invested in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds.
+(1) The Board must invest money that is capital of the Fund (within the meaning of section 16).
+(2) The Board may invest money that is income of the Fund (within the meaning of section 16).
+(3) Any investment under this section must be made in accordance with the Trusts Act 2019.
 
 ### 18 Authorised expenditure
 (1) Subject to the provisions of this Act, the Board may apply the income of the Fund in such manner beneficial to the community as the Board thinks fit for all or any of the following purposes:
