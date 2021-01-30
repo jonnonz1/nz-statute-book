@@ -1,5 +1,5 @@
 # Ngaa Rauru Kiitahi Claims Settlement Act 2005
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-01-30_
 
 ## Preamble
 (1) I hainatia te Tiriti o Waitangi, teeraa e whakaatahia ana i roto i te reo Paakehaa me te reo Maaori i te Waahanga Tuatahi o te Ture Tiriti o Waitangi 1975, i te tau 1840:
@@ -109,7 +109,7 @@ This Act binds the Crown.
   (a) a statement of the effect of the settlement on the jurisdiction of a court, tribunal, or other judicial body to consider the Ngaa Rauru Kiitahi historical claims; and
   (b) provision for consequential amendments to the Treaty of Waitangi Act 1975; and
   (c) a statement of the effect of the settlement on certain resumptive memorials; and
-  (d) miscellaneous matters relating to the settlement, namely, the exclusion of the law against perpetuities and the timing of actions or matters provided for in this Act.
+  (d) miscellaneous matters relating to the settlement, namely, the exclusion of the limit on the duration of a trust and the timing of actions or matters provided for in this Act.
 (5) Part 4 provides for cultural redress and includes provisions relating to the following matters:
   (a) the issue of protocols to the governance entity by the Ministers of Conservation, Fisheries, and Energy, and the Minister for Arts, Culture, and Heritage; and
   (b) the vesting in the governance entity or the approved transferee of the fee simple estate in 5 cultural redress properties; and
@@ -432,15 +432,15 @@ In this Act, unless the context otherwise requires,—
 
 ### Subpart 2 — Settlement of historical claims
 
-**Perpetuities**
+**Limit on duration of trusts does not apply**
 
-### 19 Rule against perpetuities does not apply
-(1) Neither the rule against perpetuities nor any relevant provisions of the Perpetuities Act 1964—
+### 19 Limit on duration of trusts does not apply
+(1) No rule of law or provisions of an Act, including section 16 of the Trusts Act 2019,—
   (a) prescribes or restricts the period during which the governance entity may—
     (i) exist in law; or
     (ii) hold or deal with property (including income derived from property); or
   (b) applies to a document entered into to give effect to the deed of settlement (including the deeds that grant a right of first refusal referred to in clauses 6.3.3(m) and 6.3.5 of the deed of settlement) if the application of that rule or the provisions of that Act would otherwise make the document, or a right conferred by the document, invalid or ineffective.
-(2) Subsection (1)﻿(a) does not apply if the governance entity is, or becomes, a charitable trust.
+(2) However, if the governance entity is or becomes a charitable trust, the trust may continue indefinitely under section 16(6)﻿(a) of the Trusts Act 2019.
 
 **Date on which actions or matters must occur**
 
