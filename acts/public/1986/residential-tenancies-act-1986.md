@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-01-30_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -37,6 +37,7 @@ _Consolidation as at 2020-12-01_
   - **contaminant** means any of the following:
     (a) methamphetamine:
     (b) any substance prescribed, or within a class of substance prescribed, as being a contaminant for the purposes of this Act
+  - **contaminated** , in relation to premises, means that a contaminant is present in any part of the premises at a level above any relevant prescribed maximum acceptable level
   - **department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Deputy Principal Tenancy Adjudicator** means the Deputy Principal Tenancy Adjudicator appointed under section 67(2A)
   - **dispute** , in relation to a matter before, or to be brought before, the Tribunal, includes any claim, difference, question, or other matter, whether it requires a decision as between the parties or a declaration
@@ -658,7 +659,7 @@ The Tribunal may, on application by the landlord, make an order increasing the r
 (2) Seizing or disposing of any goods in contravention of subsection (1) is hereby declared to be an unlawful act.
 (3) Nothing in this section shall limit or affect the way in which any order of the Tribunal, or of any court on appeal from the Tribunal, may be enforced.
 (4) Nothing in this section applies to—
-  (a) goods disposed of under any of sections 62 to 62C; or
+  (a) goods disposed of under any of sections 62 to 62C or in accordance with regulations made for the purposes of section 62(3A); or
   (b) foodstuffs and other perishable goods if the landlord has reasonable cause to believe that the premises have been abandoned by the tenant.
 
 ### 34 Transitional provision relating to bonds
@@ -772,13 +773,22 @@ The landlord shall take all reasonable steps to ensure that, at the commencement
   (ba) comply with all requirements in respect of smoke alarms imposed on the landlord by regulations made under section 138A; and
   (bb) comply with the healthy homes standards; and
   (bc)
+  (bd) comply with all requirements in respect of contaminants imposed on the landlord by regulations made under section 138C(3)﻿(c); and
   (c) comply with all requirements in respect of buildings, health, and safety under any enactment so far as they apply to the premises; and
   (ca) if the premises do not have a reticulated water supply, provide adequate means for the collection and storage of water; and
   (d) compensate the tenant for any reasonable expenses incurred by the tenant in repairing the premises where—
     (i) the state of disrepair has arisen otherwise than as a result of a breach of the tenancy agreement by the tenant and is likely to cause injury to persons or property or is otherwise serious and urgent; and
     (ii) the tenant has given the landlord notice of the state of disrepair or made a reasonable attempt to do so; and
   (e) take all reasonable steps to ensure that none of the landlord's other tenants causes or permits any interference with the reasonable peace, comfort, or privacy of the tenant in the use of the premises.
+(1AA) Subsection (1AAB) applies to a landlord of premises if—
+  (a) the landlord knows that tests carried out in accordance with prescribed methods have established that the premises are contaminated; and
+  (b) the premises have not been decontaminated in accordance with the relevant prescribed decontamination process.
+(1AAB) If this subsection applies—
+  (a) and the premises have not yet been provided to the tenant, the landlord must not provide the premises to the tenant until the premises have been decontaminated in accordance with a relevant prescribed decontamination process:
+  (b) and the tenant has already been provided with the premises, the landlord may continue to provide the premises to the tenant (under that tenancy or any extension or renewal of that tenancy) only if the premises are being decontaminated in accordance with a relevant prescribed decontamination process and any rules prescribed under section 138C(3)﻿(f).
+(1AAC) Subsections (1AA) and (1AAB) do not limit subsection (1), but see also, in relation to the landlord’s liability for contaminant presence, section 45A.
 (1A) Failure by the landlord to comply with any of paragraphs (a) to (ca) of subsection (1) is declared to be an unlawful act.
+(1AB) A contravention by the landlord of subsection (1AAB) is declared to be an unlawful act.
 (1B)
 (1C)
 (2) The landlord shall not interfere with the supply of gas, electricity, water, telephone services, or other services to the premises, except where the interference is necessary to avoid danger to any person or to enable maintenance or repairs to be carried out.
@@ -788,9 +798,18 @@ The landlord shall take all reasonable steps to ensure that, at the commencement
   (a) provide the tenant with a copy of the correct information; or
   (b) if the premises are no longer insured, provide the tenant with a statement that they are not insured.
 (2D) A landlord’s failure to comply with subsection (2B) or (2C) is declared to be an unlawful act.
-(3) The provisions of subsection (1) shall apply notwithstanding that the tenant has notice of the state of the premises at the time at which the tenancy agreement is entered into.
-(4) Nothing in subsection (1) shall impose upon the landlord any obligation to repair any damage, or compensate the tenant for any want of repair, arising out of any breach by the tenant of any obligation imposed on tenants by section 40.
+(3) The provisions of subsections (1) to (1AAB) shall apply notwithstanding that the tenant has notice of the state of the premises at the time at which the tenancy agreement is entered into.
+(4) Nothing in subsections (1) to (1AAB) shall impose upon the landlord any obligation to repair any damage, or compensate the tenant for any want of repair, arising out of any breach by the tenant of any obligation imposed on tenants by section 40.
 (5) In this section premises includes facilities.
+
+### 45A Protection from liability for landlord who complies with contaminant regulations
+(1) Subsection (2) applies to a landlord of premises during any period where—
+  (a) a contaminant is present at the premises, but either—
+    (i) the premises are not contaminated with the contaminant; or
+    (ii) unknown to the landlord, the premises are contaminated with the contaminant; and
+  (b) regulations made under section 138C(3)﻿(c) are in force in respect of the contaminant and apply in relation to the premises.
+(2) The landlord (having complied with those regulations during that period) is not liable, under this Act, for not having provided the tenant with clean or habitable premises during that period on the basis of the presence of the contaminant in the premises.
+(3) For the purpose of this section, a landlord knows that premises are contaminated only if the landlord knows that tests carried out in accordance with a relevant prescribed method have established that the premises are contaminated.
 
 ### 46 Locks
 (1) The landlord shall provide and maintain such locks and other similar devices as are necessary to ensure that the premises are reasonably secure.
@@ -814,6 +833,7 @@ The landlord shall take all reasonable steps to ensure that, at the commencement
     (ii) the tenant has, within the agreed period, completed satisfactorily any work agreed to be done by the tenant,—
   (ca) for the purpose of complying, or preparing to comply, with any requirements in respect of smoke alarms imposed, or prospectively imposed, on landlords by regulations made under section 138A, at any time between 8 o’clock in the morning and 7 o’clock in the evening of any day, after giving to the tenant notice of the intended entry and the reason for it at least 24 hours before the intended entry; or
   (cb) for the purpose of complying, or preparing to comply, with the healthy homes standards (including any prospective requirements of those standards), at any time between 8 o’clock in the morning and 7 o’clock in the evening of any day, after giving to the tenant notice of the intended entry and the reason for it at least 24 hours before the intended entry; or
+  (cc) without limiting paragraph (d), for the purpose of carrying out decontamination work to the premises, and attending to such other matters required if decontaminating in accordance with a prescribed process (including any testing or sample taking as part of that prescribed process), at any time between 8 o’clock in the morning and 7 o’clock in the evening of any day, after giving to the tenant notice of the intended entry and the reason for it at least 24 hours before the intended entry; or
   (d) for the purpose of carrying out necessary repairs to or necessary maintenance of, the premises, at any time between 8 o'clock in the morning and 7 o'clock in the evening of any day, after giving to the tenant notice of the intended entry and the reason for it at least 24 hours before the intended entry; or
   (da) for the purpose of providing services agreed to under the tenancy agreement, but only if the entry complies with any conditions specified in the tenancy agreement; or
   (e) pursuant to an order of the Tribunal.
@@ -900,7 +920,7 @@ In sections 49A to 49D, unless the context otherwise requires, premises includes
 
 ### 50 Circumstances in which tenancies are terminated
 Subject in the case of a subtenancy to section 57, no tenancy to which this Act applies shall terminate or be terminated otherwise than as follows:
-  (a) in the case of a fixed-term tenancy, on the expiry of the term of the tenancy or, if any of sections 56A(1), 58(1)﻿(d), (da), 59, or 59A apply, by giving notice in accordance with the applicable section:
+  (a) in the case of a fixed-term tenancy, on the expiry of the term of the tenancy or, if any of sections 56A(1), 58(1)﻿(d), (da), 59, 59A, or 59B apply, by giving notice in accordance with the applicable section:
   (ab) on the death of a sole tenant under a tenancy agreement or a sole tenant under a boarding house tenancy agreement, in accordance with section 50A or 66W, as the case requires:
   (b) by the giving of notice of a period no shorter than that required by this Act, in the case of a periodic tenancy or where provision is made in the tenancy agreement for termination by notice:
   (c) where the tenant acquires the landlord's interest in the premises:
@@ -917,12 +937,12 @@ Subject in the case of a subtenancy to section 57, no tenancy to which this Act 
 (2) If a landlord is unable to give notice to vacate under subsection (1)﻿(b), the landlord may apply, without notice, to the Tribunal for an order to terminate the tenancy.
 
 ### 51 Termination by notice
-(1) Subject to sections 52, 53, 53A, 59, and 59A, the minimum period of notice required to be given by a landlord to terminate a tenancy shall be as follows:
+(1) Subject to sections 52, 53, 53A, 59, 59A, and 59B, the minimum period of notice required to be given by a landlord to terminate a tenancy shall be as follows:
   (a) where the owner of the premises requires the premises as the principal place of residence for the owner or any member of that owner’s family, 42 days:
   (b) where the landlord customarily uses the premises, or has acquired the premises, for occupation by employees of the landlord, that fact being clearly stated in the tenancy agreement, and the premises are required for occupation by such an employee, 42 days:
   (c) where the owner is required, under an unconditional agreement for the sale of the premises, to give the purchaser vacant possession, 42 days:
   (d) in any other case, 90 days.
-(2) Subject to sections 52 to 53A, 56A(1), 59, and 59A, the minimum period of notice required to be given by a tenant to terminate a tenancy shall be 21 days, in any case.
+(2) Subject to sections 52 to 53A, 56A(1), 59, 59A, and 59B, the minimum period of notice required to be given by a tenant to terminate a tenancy shall be 21 days, in any case.
 (3) Every notice to terminate a tenancy shall—
   (a) be in writing; and
   (b) identify the premises to which it relates; and
@@ -1038,6 +1058,7 @@ With the consent of the Tribunal, the parties to a tenancy agreement may provide
 (4) Where, otherwise than as a result of a breach of the tenancy agreement, the premises are partially destroyed, or part of the premises is so seriously damaged as to be uninhabitable,—
   (a) the rent shall abate accordingly; and
   (b) either party may apply to the Tribunal for an order terminating the tenancy, and the Tribunal may make such an order if it is satisfied that it would be unreasonable to require the landlord to reinstate the property or (as the case may require) to require the tenant to continue with the tenancy albeit at a reduced rent.
+(5) This section does not apply in relation to damage that is contamination by a contaminant if regulations prescribe a relevant method of testing for, and a relevant maximum inhabitable level of, that contaminant (but see section 59B).
 
 ### 59A Termination where breach renders premises uninhabitable
 (1) This section applies if, as a result of a breach of the tenancy agreement (whether for a fixed-term tenancy or a periodic tenancy) by a party, the premises are destroyed or are so seriously damaged as to be uninhabitable.
@@ -1045,6 +1066,27 @@ With the consent of the Tribunal, the parties to a tenancy agreement may provide
 (3) The party who is not in breach may give notice to the other party terminating the tenancy.
 (4) When a landlord gives notice of termination under this section, the period of notice is not less than 7 days.
 (5) When a tenant gives notice of termination under this section, the period of notice is not less than 2 days.
+(6) This section does not apply in relation to damage that is contamination by a contaminant if regulations prescribe a relevant method of testing for, and a relevant maximum inhabitable level of, that contaminant (but see section 59B).
+
+### 59B Termination where regulations prescribe testing methods and maximum inhabitable level of contaminant
+(1) This section applies if testing in accordance with a relevant prescribed method establishes contamination by a contaminant, in any part of the premises, at a level that is above a relevant maximum inhabitable level prescribed for that contaminant.
+(2) If the contamination has occurred as a result of a breach of the tenancy agreement (whether for a fixed-term tenancy or a periodic tenancy),—
+  (a) the whole of the premises is treated as uninhabitable; and
+  (b) if the tenant is not in breach, the rent abates; and
+  (c) the party who is not in breach may give notice to the other party terminating the tenancy.
+(3) If the contamination has occurred otherwise than as a result of a breach of the tenancy agreement (whether for a fixed-term tenancy or a periodic tenancy), then, unless subsection (4) applies,—
+  (a) the whole of the premises is treated as uninhabitable; and
+  (b) the rent abates; and
+  (c) either party may give notice to the other terminating the tenancy.
+(4) However, for the purposes of subsection (3), if the only part of the premises that is established to be contaminated above the maximum inhabitable level is a remote and inconsequential part of the premises (see subsection (8)),—
+  (a) the rent abates accordingly; and
+  (b) either party may apply to the Tribunal for an order terminating the tenancy.
+(5) On an application under subsection (4)﻿(b), the Tribunal may make an order terminating the tenancy if it is satisfied that it would be unreasonable to require the landlord to decontaminate the premises or (as the case may require) to require the tenant to continue with the tenancy albeit at a reduced rent.
+(6) Where a landlord gives notice of termination under this section, the period of notice is not less than 7 days.
+(7) Where a tenant gives notice of termination under this section, the period of notice is not less than 2 days.
+(8) In this section, a part of the premises is remote and inconsequential if—
+  (a) it is physically located away from, or physically closed off to, the rest of the premises in a way that is likely to prevent the spread of the contaminant to the rest of the premises (or is capable of being, and, after contamination is established, is, physically removed from or physically closed off to the rest of the premises in a way that is likely to prevent that spread); and
+  (b) the rest of the premises can reasonably be used, without that part, as residential premises under the tenancy agreement.
 
 ### 60 Tenant remaining in possession after termination of tenancy
 (1) Where a tenant remains in occupation of the premises after the tenancy has terminated or has been terminated, all the obligations of the tenant shall continue in force as if the tenancy were still subsisting until such time as the tenant ceases to occupy the premises.
@@ -1096,6 +1138,7 @@ With the consent of the Tribunal, the parties to a tenancy agreement may provide
 (3) If the landlord is unable to contact the tenant or to agree on a period with the tenant, or if the tenant fails to collect the goods within the agreed period, the landlord must ensure that any personal documents belonging to the tenant are stored securely and must deal with the other goods either—
   (a) in accordance with section 62A; or
   (b) by securing them in safe storage and by applying to the Tribunal in accordance with section 62B.
+(3A) However, if tests carried out in accordance with a relevant prescribed method have established that the premises are contaminated, and regulations under this Act prescribe a process (and associated duties) for dealing with the goods, subsection (3) does not apply and those regulations must instead be complied with.
 (4) In this section, premises includes facilities.
 
 ### 62A Disposal of abandoned goods following assessment of market value
@@ -1134,11 +1177,12 @@ With the consent of the Tribunal, the parties to a tenancy agreement may provide
 At any time within 1 year after the date of a sale under section 62A(5)﻿(b)﻿(ii) or under an order made under section 62B(2)﻿(b), the tenant may apply to the chief executive for the payment to the tenant of the proceeds of sale in the Residential Tenancies Trust Account, and the chief executive must either make that payment to the tenant or, if there are reasonable grounds to do so, refer the matter to the Tribunal for determination.
 
 ### 62E Responsibility of tenant unaffected
-Sections 62A to 62D do not absolve the tenant from any responsibility imposed on the tenant by the tenancy agreement or by section 40(1)﻿(e) or by any rule of law to remove from the premises on the termination of the tenancy all goods owned by the tenant that the tenant is entitled to possess.
+Sections 62A to 62D and any regulations made for the purposes of section 62(3A) do not absolve the tenant from any responsibility imposed on the tenant by the tenancy agreement or by section 40(1)﻿(e) or by any rule of law to remove from the premises on the termination of the tenancy all goods owned by the tenant that the tenant is entitled to possess.
 
 ### 62F Protection from liability
-(1) The landlord is not liable in respect of goods sold or disposed of under section 62 or 62A, or under an order made under section 62B, unless it is shown that, at the time of the sale or disposition, the landlord had reason to believe that the goods were not owned by the tenant.
-(2) Any goods sold under section 62A(5)﻿(b)﻿(ii) or under an order made under section 62B(2)﻿(b) are not recoverable from the purchaser unless it is shown that the purchaser acted otherwise than in good faith.
+(1) The landlord is not liable in respect of goods sold or disposed of under section 62 or 62A or in accordance with regulations, or under an order made under section 62B or in accordance with regulations, unless it is shown that, at the time of the sale or disposition, the landlord had reason to believe that the goods were not owned by the tenant.
+(2) Any goods sold under section 62A(5)﻿(b)﻿(ii) or in accordance with regulations, or under an order made under section 62B(2)﻿(b) or in accordance with regulations, are not recoverable from the purchaser unless it is shown that the purchaser acted otherwise than in good faith.
+(3) In this section, regulations means regulations made for the purposes of section 62(3A).
 
 ### 63 Entry without order of Tribunal prohibited
 (1) No person shall enter into possession of any residential premises in the occupation of a tenant except with the consent of the tenant or pursuant to an order for possession made by the Tribunal and duly enforced in accordance with section 106.
@@ -1147,7 +1191,7 @@ Sections 62A to 62D do not absolve the tenant from any responsibility imposed on
 ### 64 Possession orders
 (1) Subject to subsection (2), on the application of any person entitled to possession of the premises following the termination of a tenancy, the Tribunal shall make an order granting possession of the premises to that person.
 (2) No possession order may be made more than 90 days after the date of the termination of the tenancy.
-(3) Every order of the Tribunal made under section 55 or section 56 or section 56A or section 59 or section 61 terminating a tenancy shall have effect as a possession order granting possession of the premises to the landlord.
+(3) Every order of the Tribunal made under section 55 or section 56 or section 56A or section 59 or section 59B or section 61 terminating a tenancy shall have effect as a possession order granting possession of the premises to the landlord.
 (4) No possession order (including an order of a kind referred to in subsection (3)) shall be capable of being filed under section 106 more than 90 days after—
   (a) the date of the order; or
   (b) in the case of a conditional order under section 55(1A) or section 78(3) or section 88(2) which states that it is an order to which this paragraph applies, the date on which the conditional order takes effect as a final termination order.
@@ -1264,6 +1308,7 @@ A boarding house tenancy is not assignable by a tenant.
   (a) the tenant has vacant possession of the room or, if the room is shared, of the tenant’s sleeping quarters in the room; and
   (b) the room is in a reasonable state of cleanliness; and
   (c) there is no legal impediment to the tenant’s occupation of the room.
+(3) See also sections 66I(1B)﻿(a) and 66IA.
 
 ### 66I Landlord’s ongoing obligations
 (1) The landlord of a boarding house must, at all times,—
@@ -1271,15 +1316,33 @@ A boarding house tenancy is not assignable by a tenant.
   (b) ensure that the premises are in a reasonable state of repair, having regard to the age and character of the premises and the period during which the premises are likely to remain habitable and available for residential purposes; and
   (ba) comply with all requirements in respect of smoke alarms imposed on the landlord by regulations made under section 138A; and
   (bb) comply with the healthy homes standards; and
+  (bc) comply with all requirements in respect of contaminants imposed on the landlord by regulations made under section 138C(3)﻿(c); and
   (c) comply with all requirements in respect of buildings, health, and safety under any enactment so far as they apply to the premises; and
   (d) ensure that there are sufficient locks or similar devices to ensure that the premises are reasonably secure; and
   (e) ensure that the tenant has access at all times to his or her room and to toilet and bathroom facilities in the premises; and
   (f) ensure that the tenant has access at all reasonable hours to the other facilities in the premises; and
   (g) ensure that copies of the house rules and fire evacuation procedures are on display in the premises at all times; and
   (h) take all reasonable steps to ensure that the house rules are observed, and to enforce them in a fair and consistent manner.
-(2) Subsection (1) applies even if the tenant has notice, at the time when the tenancy agreement is entered into, of the state of the premises.
+(1A) Subsection (1B) applies to a landlord of a boarding house tenancy if—
+  (a) the landlord knows that tests carried out in accordance with a relevant prescribed method have established that any part of the boarding room or facilities of the boarding house is contaminated; and
+  (b) the boarding room or facilities (as relevant) have not been decontaminated in accordance with a relevant prescribed decontamination process.
+(1B) If this subsection applies—
+  (a) and the boarding room has not yet been provided to the tenant, the landlord must not provide the boarding room to the tenant until the boarding room or facilities (as relevant) have been decontaminated in accordance with a relevant prescribed decontamination process:
+  (b) and the tenant has already been provided with the boarding room, the landlord may continue to provide the boarding room to the tenant (under that tenancy or any extension or renewal of that tenancy) only if the boarding room or facilities (as relevant) are being decontaminated in accordance with a relevant prescribed decontamination process and any rules prescribed under section 138C(3)﻿(f).
+(1C) Subsections (1A) and (1B) do not limit subsection (1) or section 66H(2), but see also, in relation to the landlord’s liability for contaminant presence, section 66IA.
+(2) Subsections (1) to (1B) apply even if the tenant has notice, at the time when the tenancy agreement is entered into, of the state of the premises.
 (3) The obligations in subsection (1) are in addition to the obligation in section 66G(2).
 (4) Failure by the landlord to comply with any of paragraphs (a) to (c) of subsection (1) is declared to be an unlawful act.
+(5) A contravention by the landlord of subsection (1B) is declared to be an unlawful act.
+
+### 66IA Protection from liability for landlord who complies with contaminant regulations
+(1) Subsection (2) applies to a landlord of a boarding house during any period where—
+  (a) a contaminant is present at the premises, but either—
+    (i) the premises are not contaminated with the contaminant; or
+    (ii) unknown to the landlord, the premises are contaminated with the contaminant; and
+  (b) regulations made under section 138C(3)﻿(c) are in force in respect of the contaminant and apply in relation to the premises.
+(2) The landlord (having complied with those regulations during that period) is not liable, under this Act, for not having provided the tenant with clean or habitable premises during that period on the basis of the presence of the contaminant in the premises.
+(3) For the purpose of this section, a landlord knows that premises are contaminated only if the landlord knows that tests carried out in accordance with a relevant prescribed method have established that the premises are contaminated.
 
 ### 66J Other obligations of landlord
 (1) The landlord must not interfere with the supply of gas, electricity, water, telephone services, or other services to the premises, unless the interference is necessary to avoid danger to any person or to enable maintenance or repairs to be carried out.
@@ -1620,7 +1683,7 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
   (m) to order the landlord or the tenant under any tenancy agreement to which this Act applies to refrain from doing anything if the doing of that thing by that party would constitute a contravention or (as the case may require) a further contravention of any express or implied provision of the tenancy agreement or any provision of this Act:
   (ma) to make an order declaring a house rule of a boarding house unlawful, or requiring a landlord to apply a house rule in a particular manner, or to vary a house rule, or to set a house rule aside:
   (mb) to order the landlord to refrain from exercising the power under section 66R(2) to enter the boarding room of a tenant under a boarding house tenancy:
-  (mc) to make orders under section 62B concerning goods left on the premises on the termination of a tenancy:
+  (mc) to make orders under section 62B or in accordance with any regulations made for the purposes of section 62(3A) concerning goods left on the premises on the termination of a tenancy:
   (md) to make orders in accordance with section 78A (which relates to unlawful residential premises) if that section applies:
   (n) to order the landlord or the tenant under any tenancy agreement to which this Act applies to pay to the other party such sum by way of damages or compensation as the Tribunal shall assess in respect of the breach of any express or implied provision of the tenancy agreement or any provision of this Act:
   (o) to consider and determine any complaint by any party to a tenancy agreement or by the chief executive that any person has committed an unlawful act, and, where it finds such a complaint to be proved, to order the payment of such sum in the nature of exemplary damages, not exceeding the maximum prescribed by this Act, as the Tribunal may think just:
@@ -1658,6 +1721,7 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
 (2AA) Subsection (2) does not apply if the work order is a section 78A work order or if the work order, or any part of the work order, relates to any of the following:
   (a) smoke alarms:
   (b) a failure to comply with the healthy homes standards:
+  (ba) decontamination:
   (c) a failure to comply with a standard of fitness or other requirement applying by virtue of section 120C of the Health Act 1956:
   (d) a failure to comply with any other requirement relating to health or safety under any enactment.
 (2AAB) A work order may include a provision authorising the party in whose favour the order is made—
@@ -2893,7 +2957,8 @@ The amendment made by section 73 of the 2020 Act applies to conduct whether the 
 | 40(3A)﻿(d) | (Harassment of tenant or neighbour) | 2,000 |
 | 40(3A)﻿(e) | (Tenant failing to ensure number of residents does not exceed maximum allowed) | 1,000 |
 | 44(2A) | (Assigning or subletting a tenancy when prohibited to do so or without the landlord’s written consent) | 1,000 |
-| 45(1A) | (Landlord’s failure to meet obligations in respect of cleanliness, maintenance, smoke alarms, the healthy homes standards, or buildings, health, and safety requirements) | 4,000 |
+| 45(1A) | (Landlord’s failure to meet obligations in respect of cleanliness, maintenance, smoke alarms, the healthy homes standards, contamination, or buildings, health, and safety requirements) | 4,000 |
+| 45(1AB) | (Landlord providing premises, or continuing to provide premises, despite landlord’s knowledge of contamination of premises) | 4,000 |
 | 45(2A) | (Landlord interfering with supply of services to premises) | 1,000 |
 | 45(2D) | (Landlord’s failure to meet obligations to provide insurance policy or to correct information provided) | 500 |
 | 46(3) | (Altering locks without consent of other party) | 1,000 |
@@ -2903,7 +2968,8 @@ The amendment made by section 73 of the 2020 Act applies to conduct whether the 
 | 54(3) | (Retaliatory notice of termination) | 4,000 |
 | 61(5) | (Abandonment of premises without reasonable excuse) | 1,000 |
 | 66G(4) | (Harassment of tenant in boarding house) | 2,000 |
-| 66I(4) | (Landlord of boarding house failing to meet obligations in respect of cleanliness, maintenance, smoke alarms, the healthy homes standards, or buildings, health, and safety requirements) | 4,000 |
+| 66I(4) | (Landlord of boarding house failing to meet obligations in respect of cleanliness, maintenance, smoke alarms, the healthy homes standards, contamination, or buildings, health, and safety requirements) | 4,000 |
+| 66I(5) | (Landlord of boarding house providing, or continuing to provide, boarding room despite landlord’s knowledge of contamination of boarding room or facilities) | 4,000 |
 | 66J(4) | (Landlord of boarding house interfering with services or failing to advise that premises on the market) | 1,000 |
 | 66J(7) | (Landlord of boarding house failing to meet obligations to provide insurance policy or to correct information provided) | 500 |
 | 66K(2)﻿(b) | (Interference, etc, with means of escape from fire) | 3,000 |
