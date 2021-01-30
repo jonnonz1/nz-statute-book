@@ -1,5 +1,5 @@
 # Ngāti Tamaoho Claims Settlement Act 2018
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Ngāti Tamaoho Claims Settlement Act 2018.
@@ -39,7 +39,7 @@ This Act binds the Crown.
     (i) the effect of the settlement of the historical claims on the jurisdiction of a court, tribunal, or other judicial body in respect of the historical claims; and
     (ii) a consequential amendment to the Treaty of Waitangi Act 1975; and
     (iii) the effect of the settlement on certain memorials; and
-    (iv) the exclusion of the law against perpetuities; and
+    (iv) the exclusion of the limit on the duration of a trust; and
     (v) access to the deed of settlement.
 (3) Part 2 provides for cultural redress, including—
   (a) cultural redress that does not involve the vesting of land, namely,—
@@ -313,13 +313,13 @@ It is the intention of Parliament that the provisions of this Act are interprete
 
 **Miscellaneous matters**
 
-### 19 Rule against perpetuities does not apply
-(1) The rule against perpetuities and the provisions of the Perpetuities Act 1964—
+### 19 Limit on duration of trusts does not apply
+(1) A limit on the duration of a trust in any rule of law, and a limit in the provisions of any Act, including section 16 of the Trusts Act 2019,—
   (a) do not prescribe or restrict the period during which—
     (i) the Ngāti Tamaoho Settlement Trust may exist in law; or
     (ii) the trustees may hold or deal with property or income derived from property; and
   (b) do not apply to a document entered into to give effect to the deed of settlement if the application of that rule or the provisions of that Act would otherwise make the document, or a right conferred by the document, invalid or ineffective.
-(2) However, if the Ngāti Tamaoho Settlement Trust is, or becomes, a charitable trust, the application (if any) of the rule against perpetuities or of any provision of the Perpetuities Act 1964 to that trust must be determined under the general law.
+(2) However, if the Ngāti Tamaoho Settlement Trust is, or becomes, a charitable trust, the trust may continue indefinitely under section 16(6)﻿(a) of the Trusts Act 2019.
 
 ### 20 Access to deed of settlement
 The chief executive of the Ministry of Justice must make copies of the deed of settlement available—
