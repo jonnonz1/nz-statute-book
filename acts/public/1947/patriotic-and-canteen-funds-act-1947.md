@@ -1,5 +1,5 @@
 # Patriotic and Canteen Funds Act 1947
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2021-01-30_
 
 > An Act to make provision for the administration and control of moneys raised for patriotic purposes and of the accumulated profits and surplus property of the Canteen Board and for matters incidental thereto
 
@@ -215,7 +215,7 @@ Each Council may, in any financial year, expend out of its general fund for purp
 ### 38 Vesting, management, and investment of property
 (1) All land, interests in land, and chattels purchased with money belonging to the Funds or to any Provincial Fund or acquired in any manner by any Council shall be vested in the appropriate Council, as the case may be.
 (2) Each Council may from time to time appoint such person or body of persons (whether incorporated or not) as it thinks fit, being in the opinion of the Council specially qualified for the purpose, to manage, carry on, or maintain any property or institution or to expend any moneys or apply any personal property on behalf of the Council on such terms and conditions as may be agreed upon by the Council and that person or body.
-(3) Subject to the terms of any trust or endowment affecting the same, all money belonging to the Funds or any Provincial Fund and not immediately required for expenditure by the Council concerned may be invested in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds.
+(3) Subject to the terms of any trust or endowment affecting the same, all money belonging to the Funds or any Provincial Fund and not immediately required for expenditure by the Council concerned may be invested in accordance with the Trusts Act 2019.
 
 ### 39 Travelling expenses of members of Councils
 There shall be paid out of the appropriate Provincial Fund to the members of each Council travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if the members of each Council were members of a statutory Board within the meaning of that Act.
