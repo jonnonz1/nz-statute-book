@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -945,7 +945,7 @@ The Commissioner must supply, to the provider of a KiwiSaver scheme to which the
 If the Commissioner can not process an amount held in the holding account in accordance with this Act, or the amount is in excess of what this Act or a Revenue Act requires to be in the holding account, then the Commissioner may refund the amount to the person that the Commissioner considers has the best claim to it.
 
 ### 82 Trustee investment rules do not apply to contributions in holding account
-Part 2 of the Trustee Act 1956 does not apply to the Commissioner in respect of money in the holding account.
+Sections 30, 58, 59, 128, and 129 of the Trusts Act 2019 do not apply to the Commissioner in respect of money in the holding account.
 
 ### 83 Unclaimed money held by Commissioner
 (1) This section applies to any money—
@@ -1480,8 +1480,8 @@ In considering whether a fee is unreasonable in relation to the provision of a K
   (b) on every other occasion that the person is convicted, to a fine not exceeding $50,000.
 
 ### 125 Unclaimed money held in KiwiSaver scheme
-(1) Section 77 of the Trustee Act 1956 applies subject to this section in relation to a member’s interest in a KiwiSaver scheme held by, or in the control of, the supervisor or manager of that scheme.
-(2) Section 77 of the Trustee Act 1956 applies to the member’s interest only if, at the time that section is applied,—
+(1) Section 151 of the Trusts Act 2019 applies subject to this section in relation to a member’s interest in a KiwiSaver scheme held by, or in the control of, the supervisor or manager of that scheme.
+(2) Section 151 of the Trusts Act 2019 applies to the member’s interest only if, at the time that section is applied,—
   (a) the member of the scheme in respect of which the trust exists is able to be identified, according to the information held by or available to the manager, as being at least 5 years older than the date on which a withdrawal is permitted under clause 4 of the KiwiSaver scheme rules; and
   (b) the manager has ensured that reasonable efforts have been made to locate the member but the member is unable to be found; and
   (c) there has been no contribution made to the member’s account in the preceding 5 years, excluding any Crown contribution.
