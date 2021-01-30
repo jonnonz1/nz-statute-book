@@ -1,5 +1,5 @@
 # Māori Trustee Act 1953
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-01-30_
 
 > An Act to consolidate and amend certain provisions of the law relating to the Māori Trustee
 
@@ -222,7 +222,7 @@ No bond or security shall be required from the Māori Trustee upon or in respect
   (a) make such contribution as he sees fit towards the expenses of members of any committee recognised by him; and
   (b) set aside and expend for tribal or community purposes pursuant to a recommendation of a committee recognised by him, such sum as he sees fit, but not exceeding the sum recommended and not in any one case exceeding $50:
 (5) Except as provided by subsection (4), nothing in this section shall be construed to authorise the Māori Trustee to act otherwise than in accordance with the terms and conditions governing his administration of any land or of the proceeds thereof.
-(6) A committee recognised by the Māori Trustee pursuant to this section shall not be or be deemed to be an advisory trustee in terms of section 49 of the Trustee Act 1956.
+(6) A committee recognised by the Māori Trustee pursuant to this section shall not be or be deemed to be a special trust adviser in terms of section 74 of the Trusts Act 2019.
 
 ### 15 Māori Trustee may grant easements over land administered by him
 (1) Where any land is vested in or administered by the Māori Trustee in any manner referred to in section 14 he may, if he thinks fit, from time to time grant rights of way or other easements over the land, or dedicate any part thereof for the purposes of a road or street, as if he were the absolute owner thereof, and, with the approval of the court, may sell any such land or may exchange any part thereof for any other land.
@@ -328,7 +328,7 @@ The Māori Trustee may charge or retain a management fee, calculated in accordan
 (2) If at any time after payment to the Common Fund out of a Crown Bank Account of any moneys pursuant to this section the moneys standing to the credit of the Common Fund or otherwise available in the Māori Trustee's Account are more than sufficient to meet all outstanding claims on the Common Fund, the Minister of Finance, by writing under his hand directed to the Māori Trustee, may require the repayment, in whole or in part, of any moneys so paid by him into the Common Fund, without interest or with interest at a rate to be fixed by the said Minister.
 
 ### 28 Investment of Common Fund
-(1) Any moneys in the Common Fund may be invested in any securities in which trust funds may be invested by trustees in accordance with the Trustee Act 1956 or in accordance with any other statutory authority:
+(1) Any moneys in the Common Fund may be invested in accordance with the Trusts Act 2019 or in accordance with any other statutory authority:
   provided that no moneys shall be invested under the authority of this section on the security of an undivided interest in Maori freehold land.
 (2) No investment made pursuant to this section shall be deemed to be an investment on behalf of any particular person or persons, and no person having a beneficial interest in moneys held in trust in the Common Fund shall have any interest in any such investment.
 (3) On and from the date that is 6 months after the commencement of the Māori Trustee Amendment Act 2009, all income (including realised capital gains and capital losses) received from the investment of money in the Common Fund must be paid into the Common Fund.
@@ -506,7 +506,7 @@ Nothing in this or any other Act shall prevent the making or giving of or shall 
 (4) Any money paid to the Māori Trustee under this section shall be received by him subject to an obligation to pay it, after the making of all appropriate deductions, to the person who, in accordance with the information supplied to him under subsection (3), is entitled to receive payment thereof. The receipt of the Māori Trustee for any such money shall, to the extent thereof, be a good discharge to the person making the payment to the Māori Trustee.
 (5) For the purposes of section 30 (relating to the disposal of unclaimed money), any money received by the Māori Trustee under this section shall be deemed to have been in his possession since it first came into the possession of the solicitor or other person by whom it was paid to the Māori Trustee.
 (6) Nothing in this section shall be construed to require payment to the Māori Trustee of money which is retained by any person with the express authority of the person beneficially entitled to the money or which is held subject to any trust or obligation other than a trust or obligation to pay it to that person.
-(7) The provisions of this section shall apply notwithstanding any provision of the Unclaimed Money Act 1971, the Lawyers and Conveyancers Act 2006, the Trustee Act 1956, the Real Estate Agents Act 2008, or of any other enactment.
+(7) The provisions of this section shall apply notwithstanding any provision of the Unclaimed Money Act 1971, the Lawyers and Conveyancers Act 2006, the Trusts Act 2019, the Real Estate Agents Act 2008, or of any other enactment.
 
 ### 46 Court may direct that rents in respect of Maori land be paid to Māori Trustee
 (1) Where the rent payable under any lease or other tenancy of Maori freehold land is not required otherwise than by this section to be paid to the Māori Trustee the court, on application by the Registrar or by the lessee or other person by whom the rent is payable, or by any other person interested, may make an order directing the payment of the rent to the Māori Trustee for distribution to the persons entitled thereto.
@@ -553,7 +553,7 @@ Notwithstanding any enactment or rule of law to the contrary, the Māori Trustee
 (1) Where any person claims, or the Māori Trustee believes a person may claim, to recover from the Māori Trustee any money, chattels, or things under $1,000 in value, as estimated by the Māori Trustee, and the Māori Trustee rejects the claim or desires to reject the claim, the Māori Trustee may serve upon the person by whom or on whose behalf the claim is made, or may be made, a notice in writing calling upon such person to take legal proceedings within a period of 3 months to establish or enforce the claim and also to prosecute the proceedings with all due diligence.
 (2) If the proceedings are not commenced by such person within the said period, the claim shall thereupon be barred, and the money, chattels, or things shall become irrecoverable, and the Māori Trustee may proceed to administer and distribute the estate disregarding the claim.
 (3) This section shall apply to every such claim, whether arising or made before or after the commencement of this section, and whether the claim is or may be made by any person as creditor or next of kin or beneficiary or otherwise.
-(4) The powers given by this section shall be in addition to the powers conferred by section 75 of the Trustee Act 1956.
+(4) The powers given by this section shall be in addition to the powers conferred by section 135 of the Trusts Act 2019.
 
 ### 49 Māori Trustee may register memorial of charge against land
 (1) Where by this or any other Act any moneys advanced by the Māori Trustee out of the General Purposes Fund or any other moneys are created a charge in favour of the Māori Trustee on any land, the Māori Trustee may sign and seal a memorial of charge against the land affected.
