@@ -1,5 +1,5 @@
 # Life Insurance Act 1908
-_Consolidation as at 2018-01-01_
+_Consolidation as at 2021-01-30_
 
 > An Act to consolidate certain enactments of the General Assembly relating to life insurance
 
@@ -456,14 +456,14 @@ All or any part of the annual income arising from the investment of the insuranc
 ### 75 Insurances by minors and dealings by minors with policies
 [Repealed]
 
-**Insurances by married women**
+**Insurances for benefit of others**
 
-### 75A Wife may insure her own or her husband's life for her own benefit
+### 75A Person may insure own life for benefit of spouse, partner, or children
 (1)
 (2) A policy of insurance effected by any person on his or her own life, and expressed to be for the benefit of his or her spouse, de facto partner (whether of the same or different sex), or his or her children, or his or her spouse or de facto partner (whether of the same or different sex) and his or her children, or any of them, shall create a trust in favour of the objects therein named; and the money payable under any such policy shall not, so long as any object of the trust remains unperformed, form part of the estate of the insured or be subject to his or her debts:provided that if it is proved that the policy was effected and the premiums paid with intent to defraud the creditors of the insured, they shall be entitled to receive, out of the money payable under the policy, a sum equal to the premiums so paid.
 (3) The insured may by the policy, or by any memorandum under his or her hand, appoint a trustee or trustees of the money payable under the policy, and from time to time appoint a new trustee or new trustees thereof; and may make provision for the appointment of a new trustee or new trustees thereof, and for the investment of the money payable under any such policy.
 (4) In any default of any such appointment of a trustee, the policy, immediately on its being effected, shall vest in the insured and his or her legal personal representatives in trust for the purposes aforesaid.
-(5) If at the time of the death of the insured, or at any time afterwards, there is no trustee, or it is expedient to appoint a new trustee or new trustees, a trustee or trustees or a new trustee or new trustees may be appointed by any court having jurisdiction under the provisions of the Trustee Act 1956.
+(5) If at the time of the death of the insured, or at any time afterwards, there is no trustee, or it is expedient to appoint a new trustee or new trustees, a trustee or trustees or a new trustee or new trustees may be appointed by any court having jurisdiction under the provisions of the Trusts Act 2019.
 (6) The receipt of a trustee or trustees duly appointed, or, in default of any such appointment or in default of notice to the insurance office, the receipt of the legal personal representative of the insured, shall be a discharge to the office for the sum secured by the policy, or for the value thereof, in whole or in part.
 
 **Payments without probate**
