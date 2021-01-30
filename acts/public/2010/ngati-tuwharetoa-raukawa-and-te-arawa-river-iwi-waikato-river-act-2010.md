@@ -1,5 +1,5 @@
 # Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010.
@@ -707,11 +707,11 @@ Regulations must not be made under section 58 that—
     (ii) another date that the Crown and each Trust individually agree on in writing or electronically.
 (3) The terms of an accord may be varied by agreement between the Crown and the Trust in accordance with the accord's terms.
 
-### 61 Rule against perpetuities
-(1) Neither the rule against perpetuities nor the Perpetuities Act 1964 prescribes or restricts the period during which—
+### 61 Limit on duration of trusts does not apply
+(1) No rule of law or provisions of an Act, including section 11 of the Trusts Act 2019, prescribe or restrict the period during which—
   (a) each Trust and the Waikato River Clean-up Trust may exist in law; or
   (b) the trustees of each Trust and the Waikato River Clean-up Trust may hold or deal with property or income from property in their capacity as trustees.
-(2) Neither the rule against perpetuities nor the Perpetuities Act 1964 applies to a document entered into to give effect to the deed if the application of the rule or the Act would make the document invalid or ineffective or a right conferred by the document invalid or ineffective.
+(2) No rule of law or provisions of an Act, including section 11 of the Trusts Act 2019, apply to a document entered into to give effect to the deed if the application of that provision would make the document invalid or ineffective or a right conferred by the document invalid or ineffective.
 
 ### 62 Authority and Trusts: public bodies, entities, and authorities
 (1) The Authority and each Trust is a public body for the purposes of clause 30 of Schedule 7 of the Local Government Act 2002.
@@ -905,7 +905,7 @@ The trustee may pay or apply all or any of the capital of the trust to promote o
 (1) The trustee may invest all or any of the trust fund in any property that the laws of New Zealand permit for the investment of the funds of trusts.
 (2) The trustee has full power to buy or otherwise acquire any property and full power to sell or otherwise dispose of any of the trust fund.
 (3) In exercising its investment powers, the trustee must—
-  (a) act in accordance with the applicable provisions of Part 2 of the Trustee Act 1956; and
+  (a) act in accordance with the applicable provisions of the Trusts Act 2019; and
   (b) have due regard to the object.
 
 ### 9 Authorities, discretions, and powers
