@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2021-01-11_
+_Consolidation as at 2021-01-30_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -97,7 +97,7 @@ For the purpose of providing superannuation or retiring allowances for any Ombud
 (6) The powers conferred on Ombudsmen by this Act may be exercised notwithstanding any provision in any enactment to the effect that any such decision, recommendation, act, or omission shall be final, or that no appeal shall lie in respect thereof, or that no proceeding or decision of the person or organisation whose decision, recommendation, act, or omission it is shall be challenged, reviewed, quashed, or called in question.
 (7) Nothing in this Act shall authorise an Ombudsman to investigate—
   (a) any decision, recommendation, act, or omission in respect of which there is, under the provisions of any Act or regulation, a right of appeal or objection, or a right to apply for a review, available to the complainant, on the merits of the case, to any court, or to any tribunal constituted by or under any enactment, whether or not that right of appeal or objection or application has been exercised in the particular case, and whether or not any time prescribed for the exercise of that right has expired:provided that the Ombudsman may conduct an investigation (not being an investigation relating to any decision, recommendation, act, or omission to which any other paragraph of this subsection applies) notwithstanding that the complainant has or had such right if by reason of special circumstances it would be unreasonable to expect him to resort or have resorted to it:
-  (b) any decision, recommendation, act, or omission of any person in his capacity as a trustee within the meaning of the Trustee Act 1956:
+  (b) any decision, recommendation, act, or omission of any person in his capacity as a trustee within the meaning of the Trusts Act 2019:
   (c) any decision, recommendation, act, or omission of any person acting as legal adviser to the Crown pursuant to the rules for the time being approved by the Government for the conduct of Crown legal business, or acting as counsel for the Crown in relation to any proceedings:
   (d) any decision, recommendation, act, or omission of any constable, other than any matter relating to the terms and conditions of service of any person as a constable.
 (8) Nothing in this Act shall authorise an Ombudsman to investigate any matter relating to any person who is or was a member of or provisional entrant to the New Zealand Naval Forces, the New Zealand Army, or the Royal New Zealand Air Force, so far as the matter relates to—
