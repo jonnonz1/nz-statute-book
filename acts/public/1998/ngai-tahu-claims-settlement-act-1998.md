@@ -1,5 +1,5 @@
 # Ngāi Tahu Claims Settlement Act 1998
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-01-30_
 
 > An Act—ato record the apology given by the Crown to Ngāi Tahu in the deed of settlement executed on 21 November 1997 by the then Prime Minister the Right Honourable James Brendan Bolger, for the Crown, and Te Rūnanga o Ngāi Tahu; andbto give effect to certain provisions of that deed of settlement, being a deed that settles the Ngāi Tahu claims
 
@@ -3304,8 +3304,8 @@ Nothing in—applies in relation to any land within the Ngāi Tahu claim area.
 (1) Amendment(s) incorporated in the Act(s).
 (2) Amendment(s) incorporated in the Act(s).
 
-### 466 Rule against perpetuities not to apply
-The rule against perpetuities or any relevant provisions of the Perpetuities Act 1964 do not apply to any document entered into to give effect to the deed of settlement, if the application of that rule or the provision of that Act would otherwise make the document invalid or ineffective.
+### 466 Limit on duration of trusts does not apply
+No rule of law or provisions of an Act limiting the duration of a trust, including section 16 of the Trusts Act 2019, apply to any document entered into to give effect to the deed of settlement, if the application of that rule or the provision of that Act would otherwise make the document invalid or ineffective.
 
 ### 467 Settlement for benefit of Ngāi Tahu Whānui collectively
 (1) The settlement is for the benefit of Ngāi Tahu Whānui collectively, and not for the benefit of any individual, single whānau, single marae, single hapū, or single Papatipu Rūnanga (except to the extent that, after the settlement date, Te Rūnanga o Ngāi Tahu determines in accordance with the charter and Te Runanga o Ngai Tahu Act 1996).
