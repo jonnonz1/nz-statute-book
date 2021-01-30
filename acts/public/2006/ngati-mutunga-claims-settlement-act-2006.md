@@ -1,5 +1,5 @@
 # Ngāti Mutunga Claims Settlement Act 2006
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-01-30_
 
 ## Preamble
 Background
@@ -141,7 +141,7 @@ This Act binds the Crown.
     (i) a statement of the effect of the settlement on the jurisdiction of a court, tribunal, or other judicial body to consider the Ngāti Mutunga historical claims; and
     (ii) provision for consequential amendments to the Treaty of Waitangi Act 1975; and
     (iii) a statement of the effect of the settlement on certain memorials; and
-    (iv) miscellaneous matters relating to the settlement, namely, the exclusion of the law against perpetuities, and the timing of actions or matters provided for in this Act.
+    (iv) miscellaneous matters relating to the settlement, namely, the exclusion of the limit on the duration of a trust, and the timing of actions or matters provided for in this Act.
 (3) Part 2 provides for cultural redress and includes provisions relating to the following matters:
   (a) the issue, amendment, and cancellation of protocols to the trustees by the Minister for Arts, Culture and Heritage, the Minister of Conservation, the Minister for Economic Development, the Minister of Energy, the Minister of Fisheries, and the Minister for Land Information; and
   (b) the vesting in the trustees of the fee simple estate in 9 cultural redress properties; and
@@ -494,15 +494,15 @@ In this Act, unless the context otherwise requires,—
 
 ### Subpart 4 — Miscellaneous matters
 
-**Perpetuities**
+**No limit on duration of trusts**
 
-### 19 Rule against perpetuities does not apply
-(1) Neither the rule against perpetuities nor any relevant provisions of the Perpetuities Act 1964—
+### 19 Limit on duration of trusts does not apply
+(1) No rule of law or provisions of an Act limiting the duration of a trust, including section 16 of the Trusts Act 2019,—
   (a) prescribe or restrict the period during which—
     (i) the trust may exist in law; or
     (ii) the trustees, in their capacity as trustees, may hold or deal with property (including income derived from property); or
   (b) apply to a document entered into to give effect to particular provisions of the deed of settlement if the application of that rule or the provisions of that Act would otherwise make the document or a right conferred by the document invalid or ineffective.
-(2) However, if the trust becomes a charitable trust, the application (if any) of the rule against perpetuities or any relevant provisions of the Perpetuities Act 1964 must be determined under the general law.
+(2) However, if the trust becomes a charitable trust, the trust may continue indefinitely under section 16(6)﻿(a) of the Trusts Act 2019.
 
 **Date on which actions or matters must occur**
 
