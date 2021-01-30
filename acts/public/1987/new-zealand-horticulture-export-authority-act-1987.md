@@ -1,5 +1,5 @@
 # New Zealand Horticulture Export Authority Act 1987
-_Consolidation as at 2016-12-13_
+_Consolidation as at 2021-01-30_
 
 > An Act to establish the New Zealand Horticulture Export Authority and to provide for its powers and functions
 
@@ -787,7 +787,7 @@ The funds of the Authority shall consist of—
 (4) Every account under this section shall be operated upon only by cheque or other instrument (not being a bill or promissory note) signed by such person or persons as may from time to time be authorised by the Authority for that purpose.
 
 ### 53 Investment of money
-The Authority may invest any of its money not immediately required in the exercise of its functions and powers in any investment authorised as a trustee investment under the Trustee Act 1956, or in any other investment that may from time to time be authorised by the Minister of Finance for the purpose.
+The Authority may invest any of its money not immediately required in the exercise of its functions and powers in any investment.
 
 ### 54 Borrowing powers
 (1) The Authority may, with the consent of the Minister of Finance and upon and subject to such conditions as the Minister of Finance, after consultation with the Minister, thinks fit, borrow money, issue debentures, and mortgage or charge any of its real or personal property.
