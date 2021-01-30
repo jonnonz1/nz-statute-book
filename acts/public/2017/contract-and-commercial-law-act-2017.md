@@ -1,5 +1,5 @@
 # Contract and Commercial Law Act 2017
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Contract and Commercial Law Act 2017.
@@ -686,7 +686,7 @@ In exercising its discretion under sections 87 to 89, the court must have regard
 (1) Nothing in sections 86 to 90 applies to—
   (a) a contract approved by the District Court under section 98; or
   (b) the compromise or settlement of any claim for money or damages made by or on behalf of a minor (whether alone or in conjunction with any other person).
-(2) Nothing in sections 86 to 90 limits or affects section 20 of the Trustee Act 1956.
+(2)
 
 **Special rules for contracts of service and life insurance contracts**
 
@@ -768,7 +768,7 @@ An application for approval under section 98 may be made—
 ### 101 Contracts relating to property held on trust
 The District Court must not approve a contract under section 98 if—
   (a) the contract relates to property held on trust; and
-  (b) the court considers that it would be more appropriate for an application to be made under section 64 or 64A of the Trustee Act 1956 (which relate to authorising dealings with trust property and variations of trust).
+  (b) the court considers that it would be more appropriate for an application to be made under section 124, 125, or 130 of the Trusts Act 2019 (which relate to termination, variation, or resettlement of a trust, and variation or extension of trustees’ powers in relation to property).
 
 **Guarantees and indemnities**
 
