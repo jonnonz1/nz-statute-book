@@ -1,5 +1,5 @@
 # Waikato Raupatu Claims Settlement Act 1995
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-01-30_
 
 > An Act—ato record the apology given by the Crown to Waikato in the deed of settlement signed on 22 May 1995 by both representatives of the Crown and representatives of Waikato, being an apology by the Crown for, among other things, sending its forces across the Mangatawhiri river in July 1863, unfairly labelling Waikato as rebels, and subsequently confiscating their land; andbto give effect to certain provisions of that deed of settlement, being a deed that settles the Raupatu claims
 
@@ -335,9 +335,10 @@ The land holding trustee—
 ### 22 Land holding trust not subject to Te Ture Whenua Maori Act 1993
 Nothing in Te Ture Whenua Maori Act 1993 shall apply to the land holding trust or to any land that is registrable or registered in the name of the land holding trustee or in the name of Pootatau Te Wherowhero.
 
-### 23 Land holding trust not subject to rule against perpetuities
-(1) It is hereby declared that the land holding trust shall not be subject to any enactment or rule of law restricting the period for which a trust may run.
-(2) Neither the rule against perpetuities nor section 17 of the Perpetuities Act 1964 shall apply in relation to the rights conferred by section 11 of this Act.
+### 23 Land holding trust not subject to maximum duration rule
+No rule of law or provisions of an Act, including section 16 of the Trusts Act 2019,—
+  (a) prescribe or restrict the period during which the land holding trust may exist; or
+  (b) apply in relation to the rights conferred by section 11 of this Act.
 
 ### 24 Establishment of land acquisition trust
 For the purposes of giving effect to the deed of settlement,—
