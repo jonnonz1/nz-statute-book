@@ -1,5 +1,5 @@
 # Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-01-30_
 
 ## Preamble
 (1) The Affiliate (comprising the Iwi and Hapu of Te Arawa that are now affiliated to the Te Pumautanga o Te Arawa trust) traditionally operated as independent entities, coming together when prompted by common interests. Together they exercised customary interests within the approximately 1 150 000-acre area from the Bay of Plenty coast to the inland Rotorua lakes and into the interior to the Mamaku Ranges and Kaingaroa Forest. Other iwi and hapu also exercised customary interests within this area. The Affiliate engaged with the opportunities created by the arrival of Pakeha traders and missionaries in its rohe from the 1830s. By the late 1860s, however, few Pakeha had settled in the area, and the Affiliate still held almost all of its land in customary title:
@@ -40,7 +40,7 @@ This Act binds the Crown.
     (i) a statement of the effect of the settlement on the jurisdiction of a court, tribunal, or other judicial body in considering the Affiliate historical claims; and
     (ii) provision for consequential amendments to the Treaty of Waitangi Act 1975; and
     (iii) a statement of the effect of the settlement on certain memorials; and
-    (iv) miscellaneous matters relating to the settlement, namely, the exclusion of the law against perpetuities, the timing of actions or matters provided for in this Act, and access to the deed of settlement.
+    (iv) miscellaneous matters relating to the settlement, namely, the exclusion of the limit on the duration of a trust, the timing of actions or matters provided for in this Act, and access to the deed of settlement.
 (4) Parts 2 and 3 provide for cultural redress and include provisions relating to the following matters:
   (a) the issue of protocols to the trustees, and the amendment and cancellation of those protocols, by the Minister for Arts, Culture and Heritage, the Minister of Conservation, and the Minister of Fisheries; and
   (b) acknowledgements by the Crown of the statements made by the Affiliate of its cultural, spiritual, historical, and traditional association with specified statutory areas, together with provisions as to the effects of those acknowledgements; and
@@ -376,15 +376,15 @@ Schedule 3 of the Treaty of Waitangi Act 1975 is amended by inserting the follow
 
 ### Subpart 4 — Miscellaneous matters
 
-**Perpetuities**
+**No limit on duration of trusts**
 
-### 18 Rule against perpetuities does not apply
-(1) Neither the rule against perpetuities nor any provisions of the Perpetuities Act 1964—
+### 18 Limit on duration of trusts does not apply
+(1) No rule of law or provisions of an Act limiting the duration of a trust, including section 16 of the Trusts Act 2019,—
   (a) prescribe or restrict the period during which—
     (i) the Te Pumautanga o Te Arawa trust may exist in law; or
     (ii) the trustees, in their capacity as trustees, may hold or deal with property (including income derived from property); or
   (b) apply to a document entered into to give effect to the deed of settlement if the application of that rule or the provisions of that Act would otherwise make the document, or a right conferred by the document, invalid or ineffective.
-(2) However, if the Te Pumautanga o Te Arawa trust is, or becomes, a charitable trust, the application (if any) of the rule against perpetuities or any provision of the Perpetuities Act 1964 to that trust must be determined under the general law.
+(2) However, if the Te Pumautanga o Te Arawa trust is, or becomes, a charitable trust, the trust may continue indefinitely under section 16(6)﻿(a) of the Trusts Act 2019.
 (3) If the Pikiao entity is established as a trust, this section applies (with all necessary modifications) to that trust and to the trustees of that trust.
 
 **Date on which actions or matters must occur**
