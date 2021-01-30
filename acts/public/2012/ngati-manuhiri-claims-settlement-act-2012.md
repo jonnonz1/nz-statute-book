@@ -1,5 +1,5 @@
 # Ngāti Manuhiri Claims Settlement Act 2012
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Ngāti Manuhiri Claims Settlement Act 2012.
@@ -33,7 +33,7 @@ This Act binds the Crown.
   (g) provides for the effect of the settlement on the jurisdiction of a court, tribunal, or other judicial body in respect of the historical claims; and
   (h) provides for consequential amendments to the Treaty of Waitangi Act 1975; and
   (i) provides for the effect of the settlement on certain memorials recorded on computer registers; and
-  (j) provides for the exclusion of the law against perpetuities; and
+  (j) provides for the exclusion of the limit on the duration of a trust; and
   (k) provides for access to the deed of settlement.
 (3) Part 2 provides for cultural redress, including—
   (a) the requirement for the responsible Ministers of the Crown to issue to the trustees of the Ngāti Manuhiri Settlement Trust a conservation protocol, a Crown minerals protocol, and a taonga tūturu protocol; and
@@ -349,13 +349,13 @@ In this Act, unless the context requires another meaning,—
 
 **Other matters**
 
-### 18 Rule against perpetuities does not apply
-(1) The rule against perpetuities and the provisions of the Perpetuities Act 1964 do not—
+### 18 Limit on duration of trusts does not apply
+(1) No rule of law or provisions of an Act limiting the duration of a trust, including section 16 of the Trusts Act 2019,—
   (a) prescribe or restrict the period during which—
     (i) the Ngāti Manuhiri Settlement Trust may exist in law; or
     (ii) the trustees may hold or deal with property (including income derived from property); or
   (b) apply to a document entered into to give effect to the deed of settlement if the application of that rule or the provisions of that Act would otherwise make the document, or a right conferred by the document, invalid or ineffective.
-(2) However, if the Ngāti Manuhiri Settlement Trust is, or becomes, a charitable trust, the application (if any) of the rule against perpetuities or of any provision of the Perpetuities Act 1964 to that trust must be determined under the general law.
+(2) However, if the Ngāti Manuhiri Settlement Trust is, or becomes, a charitable trust, the trust may continue indefinitely under section 16(6)﻿(a) of the Trusts Act 2019.
 
 ### 19 Access to deed of settlement
 The chief executive of the Ministry of Justice must make copies of the deed of settlement available—
@@ -1277,7 +1277,7 @@ The Crown may dispose of RFR land in accordance with—
   (c) section 117(3)﻿(a) of the Public Works Act 1981; or
   (d) section 117(3)﻿(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
   (e) section 23(1) or (4), 24(4), or 26 of the New Zealand Railways Corporation Restructuring Act 1990.
-(2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under section 134 of Te Ture Whenua Maori Act 1993 after an application by an RFR landowner under section 41(e) of the Public Works Act 1981.
+(2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under section 134 of Te Ture Whenua Maori Act 1993 after an application by an RFR landowner under section 41(1)﻿(e) of the Public Works Act 1981.
 
 ### 127 Disposals for reserve or conservation purposes
 An RFR landowner may dispose of RFR land in accordance with—
