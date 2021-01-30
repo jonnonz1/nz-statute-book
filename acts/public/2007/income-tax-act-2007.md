@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2020-12-18_
+_Consolidation as at 2021-01-30_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -21873,7 +21873,7 @@ Types of distributions and gifts
   (e) the transfer of property on the making of a gift:
   (f) the transfer of property on a settlement by the trustee of a trust on the trustee of another trust, if authorised under—
     (i) a trust instrument as a power of advancement or resettlement:
-    (ii) section 41 of the Trustee Act 1956 as the payment of money or the application of property.
+    (ii) section 64 of the Trusts Act 2019 as the payment or application of capital money or other capital assets.
 Some definitions
 (2) In this subpart,—
   - **close relative** , in relation to a transfer from a person’s estate, means—
@@ -29425,8 +29425,19 @@ Designated sources
   (b) is not carried on for the private benefit of an individual, and whose funds are applied entirely or mainly for benevolent, philanthropic, cultural, or public purposes in New Zealand.
 Designated group investment fund
 (6) Designated group investment fund means a group investment fund whose investments and funds are invested wholly—
-  (a) in investments authorised under section 4(1)﻿(a) to (j) of the Trustee Act 1956, which is interpreted as if the Trustee Amendment Act 1988 had not been enacted, and are not investments authorised solely by the instrument creating the trust under which the fund is established; or
+  (a) in authorised investments; or
   (b) in, and for the purposes of, the carrying on of a forestry business on land in New Zealand, to the extent to which the investments and funds are invested in the land that the fund owned or otherwise held on 22 June 1983 for the purposes of the forestry business.
+(6A) In subsection (6)﻿(a), authorised investment means any of the following:
+  (a) any investment authorised by the instrument (if any) creating the trust:
+  (b) an investment in New Zealand Government securities or securities of any Australian government or of the Government of Fiji:
+  (c) an investment in a mortgage on land in New Zealand:
+  (d) an investment in securities issued under any general or special statutory authority by a local authority, public utility, harbour board, drainage board, or transport board:
+  (e) an investment in a deposit with, or securities issued by, a trustee bank’s successor company:
+  (f) an investment in securities issued by the Housing New Zealand Corporation:
+  (g) an investment in debentures issued by any dairy finance company:
+  (h) an investment in a deposit with any building society or in the National Provident Fund:
+  (i) an investment in securities guaranteed by the Government of New Zealand:
+  (j) an investment in a deposit with any dealer in the short-term money market approved by the Reserve Bank of New Zealand as a short-term money market dealer, only if there are mortgaged to the trustee (or held by any bank on behalf of the trustee) by that dealer investments described in paragraphs (a) to (i) that have at the time of the deposit a redemption value not less than the amount deposited.
 Designated source investments
 (7) Designated source investments, for a group investment fund at any time, means investments and funds from designated sources invested at the time in the group investment fund.
 Pre-1983 investments
@@ -41616,6 +41627,7 @@ In this Act, unless the context requires otherwise,—
   - **Australian retirement savings account** means a retirement savings account as defined in section 8 of the Retirement Savings Accounts Act 1997 (Aust)
   - **Australian wine producer rebate** means a producer rebate (under A New Tax System (Wine Equalisation Tax) Act 1999 (Aust) and regulations made under that Act) that relates to wine exported from New Zealand on or after 1 July 2005
   - **author** is defined in section EI 3(6) (Assigning or granting copyright) for the purposes of that section
+  - **authorised investment** is defined in section HR 3 (definitions for section HR 2: group investment funds) for the purposes of that section
   - **authorised savings institution**
   - **available capital distribution amount** means the amount calculated for a share in a company under section CD 44 (Available capital distribution amount)
   - **available subscribed capital** means the amount calculated for a share in a company under section CD 43 (Available subscribed capital (ASC) amount)
@@ -44952,7 +44964,16 @@ In this Act, unless the context requires otherwise,—
   - **transitional resident** is defined in section HR 8(2) (Transitional residents)
   - **transitional year** , in relation to provisional tax, means the period for which a person files a return under section 39 of the Tax Administration Act 1994
   - **trans-Tasman imputation group** means the group described in section FN 8(1) (Trans-Tasman imputation groups and resident imputation subgroups)
-  - **trust** , in the definitions of and , has the meaning given by the Trustee Act 1956
+  - **trust** , in the definitions of and , does not include the duties incidental to an estate conveyed by mortgage, but with that exception it extends—and has a corresponding meaning and includes—
+    (a) to implied and constructive trusts; and
+    (b) to cases where the trustee has a beneficial interest in the trust property; and
+    (c) to the duties incidental to the office of—
+      (i) an administrator within the meaning of the Administration Act 1969; or
+      (ii) a manager or person authorised to administer the estate of any person under the Protection of Personal and Property Rights Act 1988; or
+      (iii) a manager of a protected estate appointed under the Protection of Personal and Property Rights Act 1988,—
+    (a) a trustee corporation; and
+    (b) every other corporation in which property subject to a trust is vested; and
+    (c) every person who immediately before the commencement of the Trustee Act 1956 was a trustee of the settlement or in any way a trustee under the Settled Land Act 1908
   - **trust rules** means—
     (aa) section BD 1(4)﻿(c) (Income, exempt income, excluded income, non-residents’ foreign-sourced income, and assessable income):
     (a)
