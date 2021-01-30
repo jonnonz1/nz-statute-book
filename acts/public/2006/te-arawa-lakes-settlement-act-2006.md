@@ -1,5 +1,5 @@
 # Te Arawa Lakes Settlement Act 2006
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2021-01-30_
 
 ## Preamble
 (1) Recitals (2) to (12) of this Preamble present, in summary form, the background to the Te Arawa lakes claims that is set out in Part 7 of the deed of settlement:
@@ -60,7 +60,7 @@ This Act binds the Crown.
   (c) provides that the settlement of the Te Arawa lakes historical claims and the Te Arawa lakes remaining annuity issues is final, and deals with related issues, including—
     (i) a statement of the effect of the settlement on the jurisdiction of a court, tribunal, or other judicial body to consider the Te Arawa lakes historical claims and the Te Arawa lakes remaining annuity issues; and
     (ii) provision for consequential amendments to the Treaty of Waitangi Act 1975; and
-    (iii) miscellaneous matters relating to the settlement, namely, the exclusion of the law against perpetuities and the timing of actions or matters provided for in this Act.
+    (iii) miscellaneous matters relating to the settlement, namely, the exclusion of the limit on the duration of a trust and the timing of actions or matters provided for in this Act.
 (4) Part 2 provides cultural redress for Te Arawa by vesting 14 Te Arawa lakebeds in the Trustees, and includes provisions relating to—
   (a) the revocation of the statutory status of areas of the Te Arawa lakebeds and of a statutory appointment; and
   (b) the vesting of the fee simple estate of each Te Arawa lakebed in trust in the Trustees; and
@@ -347,15 +347,15 @@ In this Act, Te Arawa lakes remaining annuity issues—
 
 ### Subpart 4 — Miscellaneous matters
 
-**Perpetuities**
+**No limit on duration of trusts**
 
-### 17 Rule against perpetuities does not apply
-(1) Neither the rule against perpetuities nor any relevant provisions of the Perpetuities Act 1964—
+### 17 Limit on duration of trusts does not apply
+(1) No rule of law or provisions of an Act limiting the duration of a trust, including section 16 of the Trusts Act 2019,—
   (a) prescribes or restricts the period during which—
     (i) the Te Arawa Lakes Trust may exist in law; or
     (ii) the Trustees of the Te Arawa Lakes Trust, in their capacity as Trustees, may hold or deal with property (including income derived from property); or
   (b) applies to a document entered into to give effect to particular provisions of the deed of settlement if the application of that rule or the provisions of that Act would otherwise make the document or a right conferred by the document invalid or ineffective.
-(2) However, if the Trust becomes a charitable trust, the application (if any) of the rule against perpetuities or any relevant provisions of the Perpetuities Act 1964 must be determined under the general law.
+(2) However, if the Trust becomes a charitable trust, the trust may continue indefinitely under section 16(6)﻿(a) of the Trusts Act 2019.
 
 **Other Acts**
 
