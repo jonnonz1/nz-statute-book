@@ -1,5 +1,5 @@
 # Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-01-30_
 
 ## Preamble
 The Relationship of Waikato-Tainui with the Waikato River
@@ -1294,11 +1294,11 @@ On and from the settlement date,—
   (a) register the certificate against each certificate of title or computer freehold register identified in the certificate; and
   (b) cancel each memorial under sections 27A to 27C of the State-Owned Enterprises Act 1986 that is entered on a computer register identified in the certificate.
 
-### 92 Rule against perpetuities
-(1) Neither the rule against perpetuities nor the Perpetuities Act 1964 prescribes or restricts the period during which—
+### 92 Limit on duration of trusts does not apply
+(1) No rule of law or provisions of an Act, including section 11 of the Trusts Act 2019, prescribe or restrict the period during which—
   (a) the Trust and the Waikato River Clean-up Trust may exist in law; or
   (b) the trustees of the Trust and the Waikato River Clean-up Trust may hold or deal with property or income from property in their capacity as trustees.
-(2) Neither the rule against perpetuities nor the Perpetuities Act 1964 applies to a document entered into to give effect to the 2008 deed or the 2009 deed if the application of the rule or the Act would make the document invalid or ineffective or a right conferred by the document invalid or ineffective.
+(2) No rule of law or provisions of an Act, including section 11 of the Trusts Act 2019, apply to a document entered into to give effect to the 2008 deed or the 2009 deed if the application of that provision would make the document invalid or ineffective or a right conferred by the document invalid or ineffective.
 
 ### 93 Regulations and bylaws
 (1) The Governor-General may, by Order in Council, make regulations consistent with the overarching purpose of the settlement for the Waikato River for the management of aquatic life, habitats, and natural resources managed under the conservation legislation.
@@ -1566,7 +1566,7 @@ The trustee may pay or apply all or any of the capital of the trust to promote o
 (1) The trustee may invest all or any of the trust fund in any property that the laws of New Zealand permit for the investment of the funds of trusts.
 (2) The trustee has full power to buy or otherwise acquire any property and full power to sell or otherwise dispose of any of the trust fund.
 (3) In exercising its investment powers, the trustee must—
-  (a) act in accordance with the applicable provisions of Part 2 of the Trustee Act 1956; and
+  (a) act in accordance with the Trusts Act 2019; and
   (b) have due regard to the object.
 
 ### 9 Authorities, discretions, and powers
