@@ -1,5 +1,5 @@
 # Law Reform (Testamentary Promises) Act 1949
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-01-30_
 
 > An Act to make better provision for the enforcement of promises to make testamentary provision in return for services rendered
 
@@ -9,7 +9,8 @@ This Act may be cited as the Law Reform (Testamentary Promises) Act 1949.
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
   - **court** means a court having jurisdiction in the proceedings by virtue of section 5
-  - **promise** includes any statement or representation of fact or intention.
+  - **promise** includes any statement or representation of fact or intention
+  - **testamentary expense** includes any fee or amount that is payable to a trustee in respect of the administration of the estate of a deceased person.
 
 ### 3 Estate of deceased person liable to remunerate persons for work done under promise of testamentary provision
 (1) Where in the administration of the estate of any deceased person a claim is made against the estate founded upon the rendering of services to or the performance of work for the deceased in his lifetime, and the claimant proves an express or implied promise by the deceased to reward him for the services or work by making some testamentary provision for the claimant, whether or not the provision was to be of a specified amount or was to relate to specified real or personal property, then, subject to the provisions of this Act, the claim shall, to the extent to which the deceased has failed to make that testamentary provision or otherwise remunerate the claimant (whether or not a claim for such remuneration could have been enforced in the lifetime of the deceased), be enforceable against the personal representatives of the deceased in the same manner and to the same extent as if the promise of the deceased were a promise for payment by the deceased in his lifetime of such amount as may be reasonable, having regard to all the circumstances of the case, including in particular the circumstances in which the promise was made and the services were rendered or the work was performed, the value of the services or work, the value of the testamentary provision promised, the amount of the estate, and the nature and amounts of the claims of other persons in respect of the estate, whether as creditors, beneficiaries, wife, husband, civil union partner, children, next-of-kin, or otherwise.
