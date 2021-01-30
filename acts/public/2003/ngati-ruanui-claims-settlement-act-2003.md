@@ -1,5 +1,5 @@
 # Ngati Ruanui Claims Settlement Act 2003
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-01-30_
 
 ## Preamble
 (1) The Treaty of Waitangi, as set out in English and in Maori in Schedule 1 of the Treaty of Waitangi Act 1975, was signed in 1840:
@@ -125,7 +125,7 @@ This Act binds the Crown.
   (a) the effect of the settlement on the jurisdiction of a court, tribunal, or other judicial body to consider the Ngati Ruanui historical claims; and
   (b) consequential amendments to the Treaty of Waitangi Act 1975; and
   (c) the effect of the settlement on certain resumptive memorials; and
-  (d) miscellaneous matters relating to the settlement, such as the exclusion of the law against perpetuities and the timing of actions and matters provided for in the Act.
+  (d) miscellaneous matters relating to the settlement, such as the exclusion of the limit on the duration of a trust and the timing of actions and matters provided for in the Act.
 (5) Part 4 sets out provisions relating to the transfer of commercial redress properties and related matters.
 (6) Part 5 includes provisions relating to the following matters:
   (a) the issue of protocols by the Ministers of Conservation, Fisheries, and Energy and the Minister for Arts, Culture and Heritage; and
@@ -445,15 +445,15 @@ In this Act, unless the context otherwise requires,—
 
 ### Subpart 2 — Miscellaneous matters
 
-**Perpetuities**
+**No limit on duration of trusts**
 
-### 19 Rule against perpetuities does not apply
-(1) Neither the rule against perpetuities nor any relevant provisions of the Perpetuities Act 1964—
+### 19 Limit on duration of trusts does not apply
+(1) No rule of law or provisions of an Act limiting the duration of a trust, including section 16 of the Trusts Act 2019,—
   (a) prescribe or restrict the period during which the governance entity—
     (i) may exist in law; or
     (ii) may deal with property (including income from property); or
   (b) apply to a document entered into to give effect to the deed of settlement (including the deeds that grant a right of first refusal referred to in clauses 8.7 and 9.7 of the deed of settlement) if the application of that rule or the provisions of that Act would otherwise make the document, or a right conferred by the document, invalid or ineffective.
-(2) Subsection (1)﻿(a) does not apply if the governance entity is, or becomes, a charitable trust.
+(2) However, if the governance entity is or becomes a charitable trust, the trust may continue indefinitely under section 16(6)﻿(a) of the Trusts Act 2019.
 
 **Date when actions or matters required under Act occur**
 
