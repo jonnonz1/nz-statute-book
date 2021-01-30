@@ -1,5 +1,5 @@
 # Mauao Historic Reserve Vesting Act 2008
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2021-01-30_
 
 ## Preamble
 (1) Mauao, or Mount Maunganui, is of significant cultural, traditional, historical, and spiritual importance to Ngāi Te Rangi, Ngāti Ranginui, and Ngāti Pūkenga:
@@ -87,7 +87,7 @@ This Act binds the Crown.
 (1) If the Minister revokes the reservation of Mauao historic reserve, or a part of it, as a reserve under section 24 of the Reserves Act 1977,—
   (a) the fee simple in the reserve (or the part of it that ceases to be reserve) remains vested in the trustees, subject to any restrictions, encumbrances, liens, or interests specified in the Gazette notice revoking the reservation; and
   (b) sections 7 and 8 of this Act cease to apply to the reserve (or the part of it that ceases to be reserve).
-(2) To avoid doubt, and without limiting subsection (1)(b), Mauao historic reserve (or the part of it that ceases to be reserve) does not become—
+(2) To avoid doubt, and without limiting subsection (1)﻿(b), Mauao historic reserve (or the part of it that ceases to be reserve) does not become—
   (a) Crown land available for disposal under the Land Act 1948 in accordance with section 25 of the Reserves Act 1977; or
   (b) land over which the Minister may specify, under section 25 of the Reserves Act 1977, the manner in and purpose for which it may be disposed.
 
@@ -111,8 +111,8 @@ The vesting of Mauao historic reserve under section 5(1) does not affect any rig
     (i) the part of the reserve is to be treated as having been disposed of by the Crown for the purposes of Part 4A; and
     (ii) that Part, other than sections 24(2A), 24A, 24AA, and 24B, applies accordingly with any necessary modifications.
 
-### 12 Rule against perpetuities does not apply
-Neither the rule against perpetuities nor any relevant provisions of the Perpetuities Act 1964 prescribe or restrict the period during which—
+### 12 Limit on duration of trusts does not apply
+No rule of law or provisions of an Act limiting the duration of a trust, including section 16 of the Trusts Act 2019, prescribe or restrict the period during which—
   (a) the Mauao Trust may exist in law; or
   (b) the trustees (in their capacity as trustees) may hold or deal with property (including income derived from the property).
 
@@ -140,7 +140,7 @@ Neither the rule against perpetuities nor any relevant provisions of the Perpetu
   (b) include a notification on the entry recording that the reserve—
     (i) was vested in accordance with this Act; and
     (ii) is subject to this Act, including a specific reference to sections 5(1) and 11(3).
-(4) The Registrar-General of Land complies with subsection (2)(a) or (3)(a) by registering the trustees as the proprietors using the words the trustees for the time being of Mauao Trust.
+(4) The Registrar-General of Land complies with subsection (2)﻿(a) or (3)﻿(a) by registering the trustees as the proprietors using the words the trustees for the time being of Mauao Trust.
 (5) Subsection (3) applies subject to any survey necessary to facilitate the creation of the computer freehold register being completed.
 (6) A computer freehold register must be created under this section as soon as is reasonably practicable but no later than—
   (a) 2 years after the reserve vests in the trustees; or
