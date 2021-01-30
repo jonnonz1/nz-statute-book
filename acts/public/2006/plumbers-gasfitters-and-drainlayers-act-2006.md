@@ -1,5 +1,5 @@
 # Plumbers, Gasfitters, and Drainlayers Act 2006
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Plumbers, Gasfitters, and Drainlayers Act 2006.
@@ -1488,7 +1488,7 @@ The Board may, by notice in the Gazette,—
   (a) the payment of remuneration and travelling allowances and expenses to its members, officers, employees, and agents (including any person referred to in section 147):
   (b) the payment of contributions to the global asset trust under the National Provident Fund Restructuring Act 1990, or to any other superannuation fund or scheme established, with the approval of the Minister of Finance, for the purpose of providing superannuation or retiring allowances for the Board’s employees:
   (c) contributing towards the cost of educating or training any person wishing to enter the sanitary plumbing, gasfitting, or drainlaying trades, and providing scholarships or bursaries and making donations for that purpose.
-(3) The Board may invest any money for the time being not required for any of the purposes referred to in subsection (2) in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds.
+(3) The Board may invest any money for the time being not required for any of the purposes referred to in subsection (2) in accordance with the Trusts Act 2019.
 (4) The Board must keep full and true accounts of all money received and expended by it.
 (5) Every payment of money on behalf of the Board must, unless authorised by a prior resolution of the Board, be submitted to the Board for confirmation at its first ordinary meeting after the date of payment.
 (6) This section is subject to section 131.
