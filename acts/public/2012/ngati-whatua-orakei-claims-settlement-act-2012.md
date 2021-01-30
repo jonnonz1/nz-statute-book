@@ -1,5 +1,5 @@
 # Ngāti Whātua Ōrākei Claims Settlement Act 2012
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Ngāti Whātua Ōrākei Claims Settlement Act 2012.
@@ -31,7 +31,7 @@ This Act binds the Crown.
   (i) provides to the trustee of the Ngāti Whātua Ōrākei Trust a mandate for negotiating outstanding claims; and
   (j) preserves the right of Ngāti Whātua Ōrākei to participate in certain proceedings before the Waitangi Tribunal; and
   (k) preserves the right of the Crown to provide redress to other persons; and
-  (l) provides for the exclusion of the law against perpetuities; and
+  (l) provides for the exclusion of the limit on the duration of a trust; and
   (m) provides for access to the deed of settlement.
 (3) Part 2 provides for the following cultural redress:
   (a) the issuing of protocols to the trustee of the Ngāti Whātua Ōrākei Trust by the Minister of Conservation, the Minister of Energy and Resources, and the Minister for Arts, Culture and Heritage; and
@@ -314,13 +314,13 @@ In this Act, unless the context requires another meaning,—
   (a) the protocols:
   (b) the statutory acknowledgement.
 
-### 20 Rule against perpetuities does not apply
-(1) The rule against perpetuities and the provisions of the Perpetuities Act 1964 do not—
+### 20 Limit on duration of trusts does not apply
+(1) No rule of law or provisions of an Act limiting the duration of a trust, including section 16 of the Trusts Act 2019,—
   (a) prescribe or restrict the period during which—
     (i) the Ngāti Whātua Ōrākei Trust may exist in law; or
     (ii) the trustee may hold or deal with property (including income derived from property); or
   (b) apply to a document entered into to give effect to the deed of settlement if the application of that rule or the provisions of that Act would otherwise make the document, or a right conferred by the document, invalid or ineffective.
-(2) However, if the Ngāti Whātua Ōrākei Trust is, or becomes, a charitable trust, the application (if any) of the rule against perpetuities or any provision of the Perpetuities Act 1964 to that trust must be determined under the general law.
+(2) However, if the Ngāti Whātua Ōrākei Trust is, or becomes, a charitable trust, the trust may continue indefinitely under section 16(6)﻿(a) of the Trusts Act 2019.
 
 ### 21 Access to deed of settlement
 The chief executive of the Ministry of Justice must make copies of the deed of settlement available—
