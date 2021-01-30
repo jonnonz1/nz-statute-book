@@ -1,5 +1,5 @@
 # Pouakani Claims Settlement Act 2000
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-01-30_
 
 ## Preamble
 (1) E mau ake nei te Rārangi Tāpiri Tuatahi mō tēnei ture, e whakaūpoko ana i roto i te reo Māori me te reo Pākehā i ngā tikanga o te Tiriti o Waitangi:
@@ -208,8 +208,8 @@ In this Act, Pouakani boundary claims means all claims (whether or not researche
 
 **Miscellaneous**
 
-### 18 Rule against perpetuities not to apply
-The rule against perpetuities or any relevant provisions of the Perpetuities Act 1964 do not apply to any document entered into to give effect to the deed of settlement, if the application of that rule or the provisions of that Act would otherwise make the document invalid or ineffective.
+### 18 Limit on duration of trusts does not apply
+No rule of law or provisions of an Act limiting the duration of a trust, including section 16 of the Trusts Act 2019, apply to any document entered into to give effect to the deed of settlement, if the application of that rule or the provisions of that Act would otherwise make the document invalid or ineffective.
 
 ## Part 4 — General provisions as to transfer and vesting of settlement properties
 
