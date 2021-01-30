@@ -1,5 +1,5 @@
 # Charitable Trusts Act 1957
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2021-01-30_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to charitable trusts
 
@@ -120,11 +120,11 @@ Any notice or legal process shall be deemed to be served upon a board if left at
 All acts or deeds done or made by any person acting in good faith as one of the trustees who for the time being constitute a board, or as one of the committee or governing body for the time being of a society which constitutes a board, shall be valid notwithstanding any defect that may afterwards be found in his appointment; and the signature of any person purporting to act as one of those trustees or as a member of that committee or governing body shall, in the absence of proof to the contrary, be sufficient evidence of his being one of those trustees or a member of that committee or governing body, as the case may be.
 
 ### 21 Powers in respect of property
-(1) Without restricting the powers that are or may be conferred on any board by or under the Trustee Act 1956 or this Act or any other Act or otherwise howsoever, it is hereby declared that any board may,—
+(1) Without restricting the powers that are or may be conferred on any board by or under the Trusts Act 2019 or this Act or any other Act or otherwise howsoever, it is hereby declared that any board may,—
   (a) notwithstanding any trusts that may affect its property, with the consent of the court, dedicate all or any part of its property for any public purpose:
   (b) notwithstanding any trusts that may affect its property, sell or exchange any part of its property for any purpose upon such terms as it deems expedient:provided that no property subject to any trust shall be sold or exchanged in exercise of the power conferred by this paragraph without the consent of the court in any case where it is of the essence of the trust that the particular property should be used for the purpose of the trust:
   (c) subject to the rules or other documents providing for the constitution of the board, purchase any property, whether situated in New Zealand or elsewhere, and apply any money for the time being held by the board for or towards any such purpose; and any property so purchased shall be held upon the same trusts as affected the money applied in payment for the property.
-(2) Any money or other property received in consequence of any such dedication or sale or exchange shall be held upon the same trusts as affected the property so dealt with, and any such money may be invested in any investments for the time being authorised by the Trustee Act 1956 for the investment of trust funds.
+(2) Any money or other property received in consequence of any such dedication or sale or exchange shall be held upon the same trusts as affected the property so dealt with, and any such money may be invested in accordance with the Trusts Act 2019.
 
 ### 22 Power to incorporate for charitable purposes under other Acts
 Nothing in this Act shall prevent any company, society, or corporation from being incorporated under any other Act or otherwise for any religious, educational, or other charitable purpose, or from including any such purpose among its objects:provided that no board incorporated under this Part shall be incorporated under any other Act.
@@ -223,7 +223,7 @@ In this Part, unless the context otherwise requires,—
 (5) The provisions of this section shall apply with respect to trusts created, and to schemes approved, before or after the commencement of this Act.
 
 ### 33 Extension of powers or alteration of mode of administration of trust
-In any case where it is made to appear that any property or income is given or held upon trust, or is to be applied, for any charitable purpose, and the administration of the property or income or the carrying out of the trust could be facilitated by extending or varying the powers of the trustees or by prescribing or varying the mode of administering the trust, the powers of the trustees may be extended or varied, and the mode of administering the trust may be prescribed or varied, in the manner and subject to the provisions hereafter contained in this Part:provided that nothing in this section shall restrict the powers that are or may be conferred on the court or the trustees by or under the Trustee Act 1956 or any other Act or by law.
+In any case where it is made to appear that any property or income is given or held upon trust, or is to be applied, for any charitable purpose, and the administration of the property or income or the carrying out of the trust could be facilitated by extending or varying the powers of the trustees or by prescribing or varying the mode of administering the trust, the powers of the trustees may be extended or varied, and the mode of administering the trust may be prescribed or varied, in the manner and subject to the provisions hereafter contained in this Part:provided that nothing in this section shall restrict the powers that are or may be conferred on the court or the trustees by or under the Trusts Act 2019 or any other Act or by law.
 
 ### 34 Trustees may prepare a scheme
 Where the trustees of any such property or income are desirous that it shall be dealt with subject to this Part, they may prepare or cause to be prepared, in accordance with this Part, a scheme for the disposition of the property or income and for extending or varying the powers of the trustees or for prescribing or varying the mode of administering the trust.
@@ -273,7 +273,7 @@ This Part is applicable to cases in which money has been raised for any charitab
 
 ### 41 Extension of powers or alteration of mode of administration of trust
 (1) If in any case it is made to appear that the administration of any money, or income from money, to which this Part applies could be facilitated by extending or varying the powers of the trustees or by prescribing or varying the mode of administering the trust on which the money or income is held, the powers of the trustees may be extended or varied, and the mode of administering the trust may be prescribed or varied, in the manner and subject to the provisions hereafter contained in this Part.
-(2) Nothing in this Part shall restrict the powers that are or may be conferred on the court or the trustees by or under the Trustee Act 1956 or any other Act or by law or restrict the operation of section 86 of the Public Trust Act 2001.
+(2) Nothing in this Part shall restrict the powers that are or may be conferred on the court or the trustees by or under the Trusts Act 2019 or any other Act or by law or restrict the operation of section 86 of the Public Trust Act 2001.
 
 ### 42 Contributor or money holder may proceed under this Part
 (1) In any case to which section 40 or section 41 applies, any contributor of money raised for the charitable purpose or of goods sold to provide money for that purpose, or any holder or trustee of any such money or of any money received as the price of admission to any entertainment or paid in any other voluntary manner for that purpose, may proceed in the manner hereafter set out in this Part.
@@ -346,7 +346,7 @@ In any case where any advertisement has been published or any notice has been gi
   (a) the trustees of any existing trust for any charitable purpose within the meaning of the Part of this Act under which the scheme is approved; or
   (b) any district health board or the board of trustees of any separate institution under the Hospitals Act 1957; or
   (c) any corporation, or the governing body of any corporation, which is a trustee of any existing trust for any charitable purpose as defined in the Part of this Act under which the scheme is approved; or
-  (d) Public Trust or any trustees who could be appointed under the Trustee Act 1956.
+  (d) Public Trust or any trustees who could be appointed under the Trusts Act 2019.
 
 ### 52 Expenses of scheme
 Any scheme prepared and approved under this Act may provide that all reasonable expenses of or incidental to preparing, perusing, and advertising the scheme shall be paid out of and be a charge upon the property or income or money affected.
