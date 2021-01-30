@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -333,7 +333,7 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
       (ii) participation in gambling (as defined in section 4(1) of the Gambling Act 2003) unless authorised under the Racing Industry Act 2020:
       (iii) a transaction or class of transactions declared by regulations not to be a transaction for the purposes of this Act
   - **trust and company service provider** means a person (other than a law firm, a conveyancing practitioner, an incorporated conveyancing firm, an accounting practice, or a real estate agent) who carries out any of the activities described in paragraphs (a)﻿(i) to (vi) of the definition of designated non-financial business or profession
-  - **trustee** has the same meaning as in section 2(1) of the Trustee Act 1956
+  - **trustee** has the same meaning as in section 9 of the Trusts Act 2019
   - **verification information** means information obtained under sections 16, 20, 24, and 28
   - **wire transfer** —
     (a) means a transaction carried out on behalf of a person (the originator) through a reporting entity by electronic means with a view to making an amount of money available to a beneficiary (who may also be the originator) at another reporting entity; and
