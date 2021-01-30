@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -190,7 +190,7 @@ In this Act, motor vehicle trader—
 (2) For the purposes of subsection (1)﻿(a), a person holds out that the person is carrying on the business of motor vehicle trading if that person—
   (a) advertises or notifies or states that the person carries on the business of motor vehicle trading; or
   (b) in any way represents that the person is ready to carry, or is carrying, on the business of motor vehicle trading.
-(3) Subsection (1)﻿(b) does not apply to any trustee corporation (within the meaning of section 2(1) of the Trustee Act 1956) acting in the capacity of executor, administrator, trustee, guardian, committee, manager, agent, attorney, or liquidator, or in any fiduciary capacity, unless the trustee corporation is acting on behalf of the same person or estate.
+(3) Subsection (1)﻿(b) does not apply to any trustee corporation (within the meaning of section 9 of the Trusts Act 2019) acting in the capacity of executor, administrator, trustee, guardian, committee, manager, agent, attorney, or liquidator, or in any fiduciary capacity, unless the trustee corporation is acting on behalf of the same person or estate.
 
 ### 9 Who is not treated as motor vehicle trader
 (1) A person is not treated as carrying on the business of motor vehicle trading for the purposes of this Act only because that person is—
