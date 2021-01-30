@@ -1,5 +1,5 @@
 # Ngāti Tūrangitukua Claims Settlement Act 1999
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-01-30_
 
 > An Act—ato record the apology given by the Crown to Ngāti Tūrangitukua in the deed of settlement executed on 26 September 1998 by the Minister in Charge of Treaty of Waitangi Negotiations, the Right Honourable Sir Douglas Arthur Montrose Graham, for the Crown, and Ngāti Tūrangitukua; andbto give effect to certain provisions of that deed of settlement, being a deed that settles the Ngāti Tūrangitukua claims
 
@@ -193,8 +193,8 @@ In this Act, unless the context otherwise requires,—
 (1) The settlement is for the benefit of Ngāti Tūrangitukua collectively, and not for the benefit of any individual or single whānau.
 (2) Subsection (1) does not apply to section 8 of the deed of settlement.
 
-### 14 Rule against perpetuities not to apply
-The rule against perpetuities or any relevant provisions of the Perpetuities Act 1964 do not apply to any document entered into to give effect to the settlement, if the application of that rule or the provisions of that Act would otherwise make the document invalid or ineffective.
+### 14 Limit on duration of trusts does not apply
+No rule of law or provisions of an Act limiting the duration of a trust, including section 16 of the Trusts Act 2019, apply to any document entered into to give effect to the settlement, if the application of that rule or the provisions of that Act would otherwise make the document invalid or ineffective.
 
 ## Part 4 — Transfer of settlement properties
 
