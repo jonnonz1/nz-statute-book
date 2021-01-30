@@ -1,5 +1,5 @@
 # Wheat Industry Research Levies Act 1989
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2021-01-30_
 
 > An Act to provide money for research into the growing of wheat and the manufacture of wheat into flour, bread, and other products by imposing levies on persons and organisations engaged in wheat growing, flourmilling, baking, and related industries
 
@@ -138,7 +138,7 @@ Where, pursuant to section 12(1), any flourmiller, grain merchant, feed manufact
 (5) The expenses involved in the administration of a Research Trust Account, including any expenses incurred in connection with the preparation and auditing of the accounts and statements of financial position required by section 25 or the preparation of the reports required by section 26, shall be payable out of the money required by this section to be paid into that account.
 
 ### 18 Investment of levies
-Any money in a Research Trust Account that is not immediately required to be expended pursuant to section 21 may be invested in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds.
+Any money in a Research Trust Account that is not immediately required to be expended pursuant to section 21 may be invested in accordance with the Trusts Act 2019.
 
 ### 19 Collection fees
 (1) Any person authorised by United Wheatgrowers or the Flourmillers Association or the Bakers Association may deduct from any levies collected pursuant to section 12 by that person a collection fee of such amount (being not less than 2.5%, and not more than 5%, of any levy so collected) as may be agreed between that person and United Wheatgrowers or, as the case may require, the Flourmillers Association or the Bakers Association.
