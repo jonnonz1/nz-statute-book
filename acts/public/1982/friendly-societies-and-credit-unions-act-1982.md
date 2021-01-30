@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-01-30_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -390,7 +390,7 @@ Sections 67B to 67E of the Life Insurance Act 1908 shall, with all necessary mod
 
 ### 49 Duties of trustees in relation to investments
 (1) The trustees of a registered society or branch may, with the consent given either generally or specifically by the committee or by a resolution of a majority of the members of the society or branch entitled to vote and voting on the matter, from time to time invest the funds of the society or branch or any part of them in accordance with this Act.
-(2) Without limiting the matters to which a trustee may have regard pursuant to Part 2 of the Trustee Act 1956, in the exercise of his powers of investment a trustee of a registered society or branch shall have regard—but shall not be obliged to make any investment that he considers to be of an undesirable nature or that he would otherwise regard as being imprudent.
+(2) Without limiting the matters to which a trustee may have regard under section 59 of the Trusts Act 2019, in the exercise of his powers of investment a trustee of a registered society or branch shall have regard—but shall not be obliged to make any investment that he considers to be of an undesirable nature or that he would otherwise regard as being imprudent.
   (a) to the need to ensure that sufficient funds are readily available to meet the operating expenses and other outgoings of the society or branch:
   (b) to a consideration of whether or not any investment is consistent with the objectives of the society or branch and is within its rules:
   (c) to the need for diversification and balance in the investments, both as to the nature of the investments and to the time elapsing before maturity or realisation, in so far as is appropriate having regard to the circumstances of the society or branch,—
@@ -410,7 +410,7 @@ Sections 67B to 67E of the Life Insurance Act 1908 shall, with all necessary mod
 (3) This section does not limit what may be done under section 58A.
 
 ### 52 Investment powers
-Subject to this Act, a trustee may invest the funds of a registered society or branch in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds.
+Subject to this Act, a trustee may invest the funds of a registered society or branch in accordance with the Trusts Act 2019.
 
 ### 53 Society providing medical or surgical requisites may issue debentures and invest in certain shares
 (1) A registered society whose object, or 1 of whose objects, is to provide medical or surgical requisites (not being medical or surgical attendance) for its members or for the members of any registered societies or branches contributing to its funds may (if its rules so provide)—
