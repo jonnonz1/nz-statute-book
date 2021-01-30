@@ -1,5 +1,5 @@
 # Limitation Act 2010
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Limitation Act 2010.
@@ -70,7 +70,13 @@ In this Act, unless the context otherwise requires,—
     (a) the High Court, the District Court, the Family Court, or a Disputes Tribunal; or
     (b) the Employment Court, the Environment Court, or the Maori Land Court
   - **start date** , in relation to a period prescribed by this Act for a claim, means the date—adjusted in accordance with all relevant exceptions and modifications (if any) set out in this Act—on or after which the period starts
-  - **trust** and have the same meanings respectively as in the Trustee Act 1956 as for the time being extended by any other enactment.
+  - **trust** includes—
+    (a) an express trust under the Trusts Act 2019; and
+    (b) a trust that is not an express trust but that is created by or under an enactment; and
+    (c) a trust that is not an express trust but that is recognised at common law or in equity as being a trust; and
+    (d) a resulting trust; and
+    (e) a constructive trust
+  - **trustee** means a person who is a trustee of a trust.
 
 ### 5 Date of act or omission on which claim is based defined for certain claims
 (1) For a claim of a kind specified in one of the following paragraphs, the date of the act or omission on which the claim is based means the date specified in that paragraph:
