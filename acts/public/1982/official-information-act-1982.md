@@ -1,5 +1,5 @@
 # Official Information Act 1982
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-01-30_
 
 > An Act to make official information more freely available, to provide for proper access by each person to official information relating to that person, to protect official information to the extent consistent with the public interest and the preservation of personal privacy, to establish procedures for the achievement of those purposes, and to repeal the Official Secrets Act 1951
 
@@ -48,7 +48,7 @@ _Consolidation as at 2020-12-01_
       (iii) any oral history provided to the National Library of New Zealand Te Puna Mātauranga o Aotearoa in accordance with section 10 of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003; and
     (f) does not include any information which is held by a public service agency, Minister of the Crown, or organisation solely as an agent or for the sole purpose of safe custody and which is so held on behalf of a person other than a public service agency or a Minister of the Crown in his official capacity or an organisation; and
     (g) does not include any information held by Public Trust or the Māori Trustee—
-      (i) in their capacity as trustee within the meaning of the Trustee Act 1956; or
+      (i) in their capacity as trustee within the meaning of the Trusts Act 2019; or
       (ii) in any other fiduciary capacity; and
     (h) does not include evidence given or submissions made to—
       (i) a Royal Commission; or
@@ -360,7 +360,7 @@ Where a request made in accordance with section 12 is refused, the department or
   (a) the reason for withholding the information; and
   (b) if the applicant so requests, the grounds in support of that reason, unless the giving of those grounds would itself prejudice the interests protected by section 6(a) to (d) or section 7 or section 9(2)﻿(a) or (b) or (ba) or (i) or (j) and (in the case of the interests protected by section 9(2)﻿(a) or (b) or (ba) or (i) or (j)) there is no countervailing public interest.
 (6) Nothing in this section authorises or permits Public Trust or the Maori Trust Office to make available any information that is contained in a document to which subsection (1) relates but that relates to the making of decisions or recommendations by Public Trust or the Maori Trustee—
-  (a) in their capacity as trustee within the meaning of the Trustee Act 1956; or
+  (a) in their capacity as trustee within the meaning of the Trusts Act 2019; or
   (b) in any other fiduciary capacity.
 
 ### 23 Right of access by person to reasons for decisions affecting that person
@@ -394,7 +394,7 @@ Where a request made in accordance with section 12 is refused, the department or
 (3) Sections 12(3), 13 to 15A, and 19 shall apply, with all necessary modifications, to a request made under subsection (1).
 (4) Nothing in this section entitles any person to obtain a written statement of advice given to the Sovereign or her representative.
 (5) Nothing in this section applies in respect of any decision or recommendation by Public Trust or the Maori Trustee—
-  (a) in their capacity as trustee within the meaning of the Trustee Act 1956; or
+  (a) in their capacity as trustee within the meaning of the Trusts Act 2019; or
   (b) in any other fiduciary capacity.
 (6) In subsection (2A)﻿(b), medical practitioner means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
 
@@ -411,7 +411,7 @@ Where a request made in accordance with section 12 is refused, the department or
 (3A) Where any person is given access to personal information under this section, that person shall be advised of that person's right, under section 26, to request the correction of that information.
 (4) Nothing in this section requires, or imposes any responsibility on, any public service agency or Minister of the Crown or organisation to compile files or data banks of personal information.
 (5) Nothing in this section gives any person the right to be given access to any personal information about the person that is held by Public Trust or the Maori Trustee—
-  (a) in their capacity as trustee within the meaning of the Trustee Act 1956; or
+  (a) in their capacity as trustee within the meaning of the Trusts Act 2019; or
   (b) in any other fiduciary capacity.
 
 ### 24A Restriction where person sentenced to imprisonment
