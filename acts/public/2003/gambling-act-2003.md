@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -934,7 +934,7 @@ A class 3 operator’s licence is not transferable.
     (ii) the Racing Industry Act 2020 or the previous racing Acts (and any rules of racing made under any of those Acts); and
     (iii) previous gaming Acts, and regulations made under previous gaming Acts; and
     (iv) a licence or a site approval issued under a previous gaming Act; and
-    (d) any other matter that the Secretary considers relevant.
+  (d) any other matter that the Secretary considers relevant.
 (5) The Secretary may take into account matters of a similar nature to those listed in subsection (4) that occurred outside New Zealand.
 (6) If the Secretary decides to refuse to grant a class 4 operator’s licence, the Secretary must notify the applicant of—
   (a) the reason for the decision; and
@@ -3151,7 +3151,7 @@ The Lotteries Commission may, from time to time, determine additional prizes to 
 ### 247 Lottery proceeds
 (1) Every selling agent of tickets in a New Zealand lottery must pay the proceeds that the agent accrues from the sale of tickets in the lottery, at times or intervals determined by the Lotteries Commission, into such account opened by the Commission as the Commission directs.
 (2) A selling agent may however deduct money from those proceeds as authorised by the Lotteries Commission.
-(3) The Lotteries Commission must keep those proceeds in the account, or invest them in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds, until they are dealt with under section 263.
+(3) The Lotteries Commission must keep those proceeds in the account, or invest them in accordance with the Trusts Act 2019, until they are dealt with under section 263.
 (4) Any interest accruing from an investment under subsection (3), or any proceeds from the realisation of such an investment, must be paid into the account referred to in subsection (1) and treated as part of the lottery proceeds on which the interest or realisation was accrued.
 
 ### 248 Method of drawing lottery
@@ -3183,9 +3183,7 @@ The Secretary and the Auditor-General must exercise the scrutiny that they deter
 (1) All the money that constitutes the prize fund of a New Zealand lottery must be paid into a lottery prize fund account.
 (2) The Lotteries Commission must pay out of the lottery prize fund account the prizes set for the relevant type of lottery in accordance with rules made under section 243 and any provisions specified by the Minister under section 244(1)﻿(a).
 (3) The money kept in the lottery prize fund account may be applied only towards the payment of prizes in New Zealand lotteries, except as provided in subsection (4).
-(4) The Lotteries Commission may invest any money kept in the lottery prize fund account that is not immediately required for the payment of prizes—
-  (a) in any securities in which trust funds may be invested by the trustees in accordance with the Trustee Act 1956 or in accordance with any other statutory authority; or
-  (b) in any other manner that the Commission determines with the approval of the Minister.
+(4) The Lotteries Commission may invest, in accordance with the Trusts Act 2019, any money kept in the lottery prize fund account that is not immediately required for the payment of prizes.
 (5) Any interest accruing from those investments, and any proceeds from the realisation of the investments,—
   (a) must be paid into the lottery prize fund account; and
   (b) forms, in accordance with any rules made under section 243 and any provisions specified by the Minister under section 244(1)﻿(a), a prize pool for any lottery conducted at a later date.
@@ -3250,7 +3248,7 @@ The Lotteries Commission may, for the purpose of assisting in the promotion, org
   (b) guarantee to any person or body corporate, with or without security, advances made by any person or body corporate.
 
 ### 262 Investment of funds
-The Lotteries Commission may invest any of its funds in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds.
+The Lotteries Commission may invest any of its funds in accordance with the Trusts Act 2019.
 
 ### 263 Payment of profits
 (1) Except as provided in subsection (2), the Lotteries Commission must, at the intervals or times that the Minister may direct, consistent with the estimate of income and expenditure approved by the Minister under section 259, pay its profits into such account opened under section 286 as the Secretary directs.
@@ -3441,7 +3439,7 @@ On receipt of any determination of a distribution committee or the Minister unde
 (3) Cash may not be withdrawn from an account referred to in subsections (1) and (2).
 
 ### 287 Investment of money
-(1) Subject to any directions of the Board, the Secretary may invest any profits of New Zealand lotteries in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds, pending their distribution under section 277.
+(1) Subject to any directions of the Board, the Secretary may invest any profits of New Zealand lotteries in accordance with the Trusts Act 2019, pending their distribution under section 277.
 (2) Any amounts of interest arising from the investments, and the proceeds of any realisation of the investments, are deemed to be profits arising from New Zealand lotteries and must be dealt with accordingly.
 
 ### 288 Loans to Lotteries Commission
