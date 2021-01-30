@@ -1,5 +1,5 @@
 # Trustee Amendment Act 1988
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2021-01-30_
 
 > An Act to amend the Trustee Act 1956
 
