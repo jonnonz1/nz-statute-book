@@ -1,5 +1,5 @@
 # Financial Markets Authority Act 2011
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Financial Markets Authority Act 2011.
