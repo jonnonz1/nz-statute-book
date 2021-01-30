@@ -1,5 +1,5 @@
 # Whakarewarewa and Roto-a-Tamaheke Vesting Act 2009
-_Consolidation as at 2010-11-19_
+_Consolidation as at 2021-01-30_
 
 ## Preamble
 (1) The Whakarewarewa Valley Land and the Roto-a-Tamaheke Reserve are of significant cultural, traditional, historical, and spiritual importance to Ngāti Whakaue and Tūhourangi Ngāti Wahiao:
@@ -33,7 +33,7 @@ In this Act, unless the context otherwise requires,—
   - **Arikikapakapa section 101 land** means the land described by that name in Schedule 1
   - **chief executive** means the chief executive of Te Puni Kōkiri
   - **closed roads** means the land described by that name in Schedule 1
-  - **existing Arikikapakapa lease** means the lease held in computer interest register SA2021/47, as varied by the registrable variation of lease mentioned in section 108(9)(b) of the Affiliate Te Arawa Act and entered into between the Crown and MACI in accordance with that Act
+  - **existing Arikikapakapa lease** means the lease held in computer interest register SA2021/47, as varied by the registrable variation of lease mentioned in section 108(9)﻿(b) of the Affiliate Te Arawa Act and entered into between the Crown and MACI in accordance with that Act
   - **existing Arikikapakapa section 101 lease** means the registrable lease of the Arikikapakapa section 101 land granted by the Crown to MACI in accordance with the Affiliate Te Arawa Act
   - **existing Whakarewarewa Thermal Springs lease** means the registrable lease of the Whakarewarewa Thermal Springs Reserve granted by the Te Pūmautanga trustees to MACI in accordance with the Affiliate Te Arawa Act
   - **joint trust** means the trust established by Ngāti Whakaue and Tūhourangi Ngāti Wahiao in accordance with the vesting deed
@@ -65,7 +65,7 @@ This Act binds the Crown.
   (b) accordingly,—
     (i) the Southern Arikikapakapa Reserve ceases to be part of the Arikikapakapa Reserve; and
     (ii) the Tourist and Health Resorts Control Act 1908 ceases to apply to the Southern Arikikapakapa Reserve.
-(5) Sections 24 and 25 of the Reserves Act 1977 (which relate to the revocation of reserves) do not apply to the revocation under subsection (4)(a).
+(5) Sections 24 and 25 of the Reserves Act 1977 (which relate to the revocation of reserves) do not apply to the revocation under subsection (4)﻿(a).
 (6) The reference in Schedule 2 of the Tourist and Health Resorts Control Act 1908 to the Arikikapakapa Reserve is to be read subject to the provisions of this section.
 
 ### 6 Vesting of Southern Arikikapakapa Reserve
@@ -96,7 +96,7 @@ This Act binds the Crown.
 
 ### 10 Modified application of Reserves Act 1977
 (1) Sections 48A, 114, and 115 of the Reserves Act 1977 apply to the Southern Arikikapakapa Reserve, despite sections 48A(6), 114(5), and 115(6) of that Act.
-(2) Sections 78(1)(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply to the Southern Arikikapakapa Reserve.
+(2) Sections 78(1)﻿(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply to the Southern Arikikapakapa Reserve.
 (3) If the reservation of the Southern Arikikapakapa Reserve under section 7(1) is revoked under section 24 of the Reserves Act 1977 in relation to all or a part of the land comprised in the Reserve, section 25 of that Act, except subsection (2), does not apply to the revocation.
 
 **Other Reserves**
@@ -159,11 +159,11 @@ The lessor of the leases referred to in section 13(b) and (c) is entitled to rec
   (b) that section 24 of that Act does not apply to the land:
   (c) that the land is subject to section 8(3) of this Act:
   (d) that the land is subject to section 20 of this Act.
-(5) A notification made under subsection (4)(a) is to be treated as having been made in compliance with section 24D(1) of the Conservation Act 1987.
+(5) A notification made under subsection (4)﻿(a) is to be treated as having been made in compliance with section 24D(1) of the Conservation Act 1987.
 (6) If the reservation of the Southern Arikikapakapa Reserve under this Part is revoked in relation to the whole of the land comprised in the Reserve,—
-  (a) the Director-General of Conservation must apply in writing to the Registrar-General of Land to remove the notifications made under subsection (4)(b), (c), and (d) from the computer freehold register for the Southern Arikikapakapa Reserve; and
+  (a) the Director-General of Conservation must apply in writing to the Registrar-General of Land to remove the notifications made under subsection (4)﻿(b), (c), and (d) from the computer freehold register for the Southern Arikikapakapa Reserve; and
   (b) the Registrar-General must comply with any such application.
-(7) If the reservation of the Southern Arikikapakapa Reserve under this Part is revoked in relation to a part of the land comprised in the Reserve, the Registrar-General of Land must ensure that the notifications made under subsection (4)(b), (c), and (d) remain only on the computer freehold register for the part of the land that remains a reserve.
+(7) If the reservation of the Southern Arikikapakapa Reserve under this Part is revoked in relation to a part of the land comprised in the Reserve, the Registrar-General of Land must ensure that the notifications made under subsection (4)﻿(b), (c), and (d) remain only on the computer freehold register for the part of the land that remains a reserve.
 
 ### 18 Registration: other Reserves
 (1) The Registrar-General of Land must, on written application by the chief executive,—
@@ -175,9 +175,9 @@ The lessor of the leases referred to in section 13(b) and (c) is entitled to rec
   (a) remove the notifications recording that those Reserves are subject to section 117 of the Affiliate Te Arawa Act; and
   (b) make a notification recording that they are subject to section 20 of this Act.
 (3) If the reservation under the Affiliate Te Arawa Act of either of those Reserves is revoked in relation to the whole of the land comprised in the Reserve,—
-  (a) the Director-General of Conservation must apply in writing to the Registrar-General of Land to remove the notification made under subsection (2)(b) from the computer freehold register for that Reserve; and
+  (a) the Director-General of Conservation must apply in writing to the Registrar-General of Land to remove the notification made under subsection (2)﻿(b) from the computer freehold register for that Reserve; and
   (b) the Registrar-General must comply with any such application.
-(4) If the reservation under the Affiliate Te Arawa Act of either of those Reserves is revoked in relation to a part of the land comprised in the Reserve, the Registrar-General of Land must ensure that the notification made under subsection (2)(b) remains only on the computer freehold register for the part of the land comprised in that Reserve that remains a reserve.
+(4) If the reservation under the Affiliate Te Arawa Act of either of those Reserves is revoked in relation to a part of the land comprised in the Reserve, the Registrar-General of Land must ensure that the notification made under subsection (2)﻿(b) remains only on the computer freehold register for the part of the land comprised in that Reserve that remains a reserve.
 
 **Administering body**
 
@@ -213,14 +213,14 @@ The joint trustees are the administering body of the Southern Arikikapakapa Rese
 
 **Miscellaneous**
 
-### 22 Rule against perpetuities does not apply to joint trust
-(1) Neither the rule against perpetuities nor any provisions of the Perpetuities Act 1964 prescribes or restricts the period during which—
+### 22 Limit on duration of trusts does not apply to joint trust
+(1) No rule of law or provisions of an Act, including section 16 of the Trusts Act 2019, prescribes or restricts the period during which—
   (a) the joint trust may exist in law; or
   (b) the joint trustees may hold or deal with property (including income derived from the property).
 (2) However, if the joint trust becomes a charitable trust,—
   (a) subsection (1) ceases to apply; and
-  (b) the application of the rule against perpetuities and the provisions of the Perpetuities Act 1964 must be determined under the general law.
-(3) The rule against perpetuities and the provisions of the Perpetuities Act 1964 do not apply to a document entered into to give effect to the vesting deed if and so far as application of that rule or those provisions would otherwise make the document, or a right conferred by the document, invalid or ineffective.
+  (b) the trust may continue indefinitely under section 16(6)﻿(a) of the Trusts Act 2019.
+(3) No rule of law or provisions of an Act, including section 16 of the Trusts Act 2019, apply to a document entered into to give effect to the vesting deed if and to the extent that the application of that provision would make the document invalid or ineffective or a right conferred by the document invalid or ineffective.
 
 ### 23 Election of joint trustees to become Māori authority
 For the purposes of the Income Tax Act 2007,—
@@ -228,7 +228,7 @@ For the purposes of the Income Tax Act 2007,—
   (b) accordingly, the joint trustees are deemed to be eligible under that section to make an election under section HF 11 of that Act to become a Māori authority.
 
 ### 24 Application of intra-Crown payments
-The Minister of Conservation may direct that any intra-Crown payment for the Southern Arikikapakapa Reserve be paid and applied in the manner specified in section 82(1)(a) of the Reserves Act 1977.
+The Minister of Conservation may direct that any intra-Crown payment for the Southern Arikikapakapa Reserve be paid and applied in the manner specified in section 82(1)﻿(a) of the Reserves Act 1977.
 
 ## Part 3 — Subdivisions
 
@@ -240,7 +240,7 @@ The Minister of Conservation may direct that any intra-Crown payment for the Sou
   (b) following that determination, the joint trustees apply in writing to the Minister of Māori Affairs to subdivide and transfer 1 or more of those Reserves; and
   (c) the Minister of Māori Affairs certifies in writing that the subdivision and transfer complies with the conditions set out in the vesting deed; and
   (d) the Reserve or Reserves in question (relevant Reserves) remain reserves under the Reserves Act 1977 at the time of the subdivision and transfer.
-(2) The Minister of Māori Affairs must give the certificate required by subsection (1)(c) if he or she is satisfied that the subdivision and transfer complies with the conditions set out in the vesting deed, but no more than 1 certificate may be given for the purposes of this section.
+(2) The Minister of Māori Affairs must give the certificate required by subsection (1)﻿(c) if he or she is satisfied that the subdivision and transfer complies with the conditions set out in the vesting deed, but no more than 1 certificate may be given for the purposes of this section.
 (3) If this section applies, section 11 and Part 10 of the Resource Management Act 1991 do not apply to the subdivision and transfer or to any matter incidental to or required for the purpose of it.
 (4) However, the subdivision and transfer may not take place unless the Minister of Conservation consents in writing to the transfer.
 (5) The Minister of Conservation must give that consent if, upon written application, the joint trustees satisfy the Minister of Conservation that the first transferee of each resulting parcel of land—
@@ -271,7 +271,7 @@ The Minister of Conservation may direct that any intra-Crown payment for the Sou
 
 ### 28 Modified application of Reserves Act 1977 to resulting reserves
 (1) Sections 48A, 114, and 115 of the Reserves Act 1977 apply to each reserve comprising a resulting parcel of land, despite sections 48A(6), 114(5), and 115(6) of that Act.
-(2) Sections 78(1)(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply to any such reserve.
+(2) Sections 78(1)﻿(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply to any such reserve.
 (3) If the reservation of a resulting parcel of land is revoked under section 24 of the Reserves Act 1977 in relation to all or a part of the land comprised in the reserve, section 25 of that Act, except subsection (2), does not apply to the revocation.
 
 **Registration**
@@ -285,7 +285,7 @@ The Minister of Conservation may direct that any intra-Crown payment for the Sou
   (b) the written consent of the Minister of Conservation to the transfer of the parcel of land; and
   (c) any other document required for registration of the transfer instrument.
 (3) Subsection (1) is subject to the completion of any survey necessary to create the computer freehold register for the resulting parcel of land.
-(4) Without prejudice to the generality of subsection (1)(b), the Registrar-General must, for each resulting parcel of land,—
+(4) Without prejudice to the generality of subsection (1)﻿(b), the Registrar-General must, for each resulting parcel of land,—
   (a) amend the notification recording that the land is subject to the relevant suspension provision, so that it has effect subject to section 27 of this Act; and
   (b) remove the notification recording that the parcel of land is subject to section 20 of this Act; and
   (c) make a notification recording that the parcel of land is subject to section 32 of this Act.
@@ -333,13 +333,13 @@ The Minister of Conservation may direct that any intra-Crown payment for the Sou
 
 **Miscellaneous**
 
-### 33 Rule against perpetuities does not apply to first transferees
-(1) Neither the rule against perpetuities nor any provisions of the Perpetuities Act 1964 prescribes or restricts the period during which—
+### 33 Limit on duration of trusts does not apply to first transferees
+(1) No rule of law or provisions of an Act, including section 16 of the Trusts Act 2019, prescribes or restricts the period during which—
   (a) a relevant trust may exist in law; or
   (b) relevant trustees may hold or deal with property (including income derived from the property).
 (2) However, if a relevant trust becomes a charitable trust,—
   (a) subsection (1) ceases to apply; and
-  (b) the application of the rule against perpetuities and the provisions of the Perpetuities Act 1964 must be determined under the general law.
+  (b) the trust may continue indefinitely under section 16(6)﻿(a) of the Trusts Act 2019.
 (3) For the purposes of this section,—
   (a) a trust is a relevant trust if—
     (i) a resulting parcel of land is transferred to the trustees of that trust as part of the subdivision and transfer of a relevant Reserve in accordance with section 25; and
