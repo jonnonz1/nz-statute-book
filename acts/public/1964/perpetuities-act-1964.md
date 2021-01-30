@@ -1,5 +1,5 @@
 # Perpetuities Act 1964
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2021-01-30_
 
 > An Act to effect reforms in the rule of law commonly known as the rule against perpetuities and to abolish the rule of law commonly known as the rule against accumulations
 
