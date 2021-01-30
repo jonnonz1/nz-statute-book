@@ -1,5 +1,5 @@
 # Waitaha Claims Settlement Act 2013
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-01-30_
 
 ## Preamble
 (1) Recitals (2) to (12) of this Preamble present, in summary form, the historical account set out in the deed of settlement entered into by Waitaha and the Crown:
@@ -41,7 +41,7 @@ This Act binds the Crown.
     (i) the effect of the settlement on the jurisdiction of a court, tribunal, or other judicial body to consider the historical claims; and
     (ii) a consequential amendment to the Treaty of Waitangi Act 1975; and
     (iii) the effect of the settlement on certain memorials; and
-    (iv) the exclusion of the law against perpetuities, the timing of actions or matters provided for in this Act, and access to the deed of settlement.
+    (iv) the exclusion of the limit on the duration of a trust, the timing of actions or matters provided for in this Act, and access to the deed of settlement.
 (3) Part 2 provides for cultural redress, including—
   (a) protocols to be issued to the trustees by the Minister of Conservation, the Minister of Energy and Resources, and the Minister for Arts, Culture and Heritage; and
   (b) an acknowledgement by the Crown of the statements made by Waitaha of their cultural, spiritual, historical, and traditional association with 16 statutory areas and the effect of that acknowledgement; and
@@ -316,15 +316,15 @@ In this Act, unless the context otherwise requires,—
 
 ### Subpart 4 — Miscellaneous matters
 
-**Perpetuities**
+**No limit on duration of trusts**
 
-### 16 Rule against perpetuities does not apply
-(1) The rule against perpetuities and the provisions of the Perpetuities Act 1964 do not—
+### 16 Limit on duration of trusts does not apply
+(1) No rule of law or provisions of an Act limiting the duration of a trust, including section 16 of the Trusts Act 2019,—
   (a) prescribe or restrict the period during which—
     (i) Te Kapu o Waitaha may exist in law; or
     (ii) the trustees may hold or deal with property (including income derived from property); or
   (b) apply to a protocol, deed of recognition, or other document entered into to give effect to the deed of settlement if the application of that rule or the provisions of that Act would otherwise make the document, or a right conferred by the document, invalid or ineffective.
-(2) However, if Te Kapu o Waitaha is, or becomes, a charitable trust, the application (if any) of the rule against perpetuities or any provision of the Perpetuities Act 1964 to that trust must be determined under the general law.
+(2) However, if Te Kapu o Waitaha is, or becomes, a charitable trust, the trust may continue indefinitely under section 16(6)﻿(a) of the Trusts Act 2019.
 
 **Timing of actions or matters**
 
