@@ -1,5 +1,5 @@
 # Burial and Cremation Act 1964
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-01-30_
 
 > An Act to consolidate and amend the law relating to the burial and cremation of the dead
 
@@ -42,6 +42,7 @@ _Consolidation as at 2020-08-07_
     (a) is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing and whose scope of practice permits the performance of nurse practitioner functions; and
     (b) holds a current practising certificate
   - **private burial ground** means a parcel of land declared to be a private burial ground under the provisions of the Cemeteries Amendment Act 1912
+  - **registered bank** has the same meaning as in section 2 of the Reserve Bank of New Zealand Act 1989
   - **religious denomination** means the adherents of any religion and includes any church, sect, or other subdivision of such adherents
   - **specified not-for-profit entity** has the same meaning as in section 46 of the Financial Reporting Act 2013
   - **stillborn child** has the same meaning as in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
@@ -220,7 +221,7 @@ A local authority may expend such money as it thinks fit for the purposes of cle
 ### 28 Finance
 (1) The funds of trustees shall consist of all money received by them under this Act or any enactment repealed by this Act or any regulations or bylaws made under this Act or any enactment so repealed in respect of any cemetery of which they are the trustees.
 (2) Subject to the provisions of this Act, trustees may expend out of their funds such money as they think fit on the management and improvement of the cemetery and for the several purposes and objects authorised by this Act, including the appointment of such officers and servants as they think necessary.
-(3) All money received by trustees shall, as soon as practicable after it has come into the hands of the Treasurer or other proper officer of the trustees, be paid into such bank within the meaning of the Trustee Act 1956 as the trustees from time to time determine to an account to be called The [Name of Cemetery] Trustees' Account, and no money shall be withdrawn from the bank except by authority of the trustees, and any cheque or other withdrawal notice shall be signed by at least 2 of the trustees.
+(3) All money received by trustees shall, as soon as practicable after it has come into the hands of the Treasurer or other proper officer of the trustees, be paid into a registered bank to an account to be called The [Name of Cemetery] Trustees' Account, and no money shall be withdrawn from the bank except by authority of the trustees, and any cheque or other withdrawal notice shall be signed by at least 2 of the trustees.
 (4) Trustees may, unless the Minister otherwise directs, invest any of their funds not for the time being required to be expended in any manner in which trustees are for the time being authorised to invest trust funds.
 (5) Trustees may from time to time with the consent of the Minister apply any money received by them under this Act or any regulations or bylaws made under this Act in respect of a cemetery towards the management, administration, or improvement of any other cemetery.
 (6) When land comprised in a cemetery, which is under the control and management of trustees, is disposed of pursuant to subsections (4) or (5) of section 21, or where any such cemetery has been closed under section 41, the trustees shall apply the proceeds of such disposition or any money received by them in respect of such cemetery and unexpended at the time when the closing order takes effect, respectively, in accordance with such directions as may be given to them by the Minister in that behalf.
@@ -278,7 +279,7 @@ A local authority may expend such money as it thinks fit for the purposes of cle
 
 ### 35 Trustees may hold endowments for maintenance of burial ground, etc
 (1) Trustees may, in addition to the private burial ground, hold any real or personal property that may be vested in them as an endowment for the purposes of the burial ground; and may sell, lease, or otherwise dispose of the same on such terms and conditions as they think fit.
-(2) The proceeds of the sale of any part of the endowment may be invested in the purchase of land for the purposes of the endowment or in any of the modes of investment authorised by the Trustee Act 1956.
+(2) The proceeds of the sale of any part of the endowment may be invested by the trustees.
 (3) All rents or other profits derived from the endowment shall be applied by the trustees for the maintenance, control, improvement, and upkeep of the private burial ground in such manner as the trustees in their discretion think fit.
 
 ### 36 Application of Act to burial grounds
