@@ -1,5 +1,5 @@
 # Trustee Companies Management Act 1975
-_Consolidation as at 2020-08-26_
+_Consolidation as at 2021-01-30_
 
 > An Act to make special provision for the protection of persons who have beneficial interests, or interests as depositors or contributors, in property or funds administered by trustee companies and their associated companies to which this Act is applied, and for matters incidental thereto
 
@@ -15,7 +15,7 @@ _Consolidation as at 2020-08-26_
   - **estate** means any property administered or held, managed, or controlled in a fiduciary capacity by a trustee company or associated company, whether as administrator or other trustee or as guardian, committee, manager, liquidator, receiver, agent, or attorney, or in any other capacity; and includes a group investment fund and any other scheme or arrangement for investment by a trustee company or associated company on behalf of others, whether on a contributory or agency basis or otherwise
   - **High Court** or means the High Court of New Zealand
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **trustee** means a trustee within the meaning of section 2(1) of the Trustee Act 1956
+  - **trustee** means a trustee within the meaning of section 9 of the Trusts Act 2019
   - **trustee company** means a trustee company within the meaning of section 2 of the Trustee Companies Act 1967.
 (2) For the purposes of section 3 a company is associated with another company if those companies would be associated with each other under subpart YB of the Income Tax Act 2007.
 
