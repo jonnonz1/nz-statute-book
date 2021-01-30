@@ -1,5 +1,5 @@
 # Construction Contracts Act 2002
-_Consolidation as at 2020-04-21_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Construction Contracts Act 2002.
@@ -297,7 +297,7 @@ Party A does not need to hold an amount of retention money on trust if and for s
   (b) may be commingled with other moneys.
 
 ### 18F Investment of retention money
-(1) Retention money held on trust may be invested by party A in accordance with the Trustee Act 1956 in relation to investment of trust funds.
+(1) Retention money held on trust may be invested by party A in accordance with the Trusts Act 2019.
 (2) If, upon the realisation of any investment, the amount received is—
   (a) less than the amount invested, party A must make up the difference between the amount invested and the amount realised:
   (b) more than the amount invested, party A may retain the benefit of the amount that exceeds the amount invested.
