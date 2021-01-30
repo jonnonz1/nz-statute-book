@@ -1,5 +1,5 @@
 # Perpetuities Amendment Act 1966
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2021-01-30_
 
 > An Act to amend the Perpetuities Act 1964
 
