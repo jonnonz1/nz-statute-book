@@ -1,5 +1,5 @@
 # National Provident Fund Restructuring Act 1990
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2021-01-30_
 
 > An Act to provide for—athe continuation of the National Provident Fund Board as the Board of Trustees of the National Provident Fund; andbthe restructuring of the National Provident Fund and its superannuation schemes and investment arrangements; andcother incidental matters; anddthe repeal of the National Provident Fund Act 1950
 
@@ -523,7 +523,7 @@ The Board may, in incorporating the existing terms and conditions of a scheme in
 (1) The trust deed for each existing scheme shall provide that the property of the scheme may be invested only in the global asset trust, whether by way of debt securities or managed investment products or otherwise.
 (2) The property of an old public scheme may be invested only in the global asset trust, whether by way of debt securities or managed investment products or otherwise.
 (3) This section does not prevent the Board as trustee of an existing scheme depositing money of that scheme into a bank account (which may be a bank account for 1 or more existing schemes) to the extent necessary or desirable for the operation of the scheme.
-(4) Nothing in the provisions of the Trustee Act 1956 relating to the investment of trust funds shall apply in respect of the trust deed for an existing scheme or the investment of the property of the scheme.
+(4) Nothing in the provisions of the Trusts Act 2019 relating to the investment of trust funds shall apply in respect of the trust deed for an existing scheme or the investment of the property of the scheme.
 
 ### 54 Board's powers and authorities
 Notwithstanding any other Act, any trust deed prepared in respect of an existing scheme may confer on the Board—
