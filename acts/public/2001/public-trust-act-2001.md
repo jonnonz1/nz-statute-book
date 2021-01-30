@@ -1,5 +1,5 @@
 # Public Trust Act 2001
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Public Trust Act 2001.
@@ -71,7 +71,7 @@ In this Act, unless the context otherwise requires,—
 (5) Nothing in this section restricts the jurisdiction of any court in relation to the granting of administration or the making of any other order.
 
 ### 6 Relationship between this Act and other Acts and instruments
-(1) The provisions of the Trustee Act 1956 and the Administration Act 1969 are to be read and applied—
+(1) The provisions of the Trusts Act 2019 and the Administration Act 1969 are to be read and applied—
   (a) so as not to affect any of the express provisions of this Act; and
   (b) as subordinate to the provisions of this Act.
 (2) All powers and authorities conferred by this Act on Public Trust—
@@ -325,7 +325,7 @@ Public Trust is to invest all capital money and estate money held by it in 1 or 
   (b) any will, deed, court order, or other instrument.
 
 ### 49 Investment of common fund
-Money in the common fund must be invested in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds, except as otherwise provided by this Act.
+Money in the common fund must be invested in accordance with the Trusts Act 2019, except as otherwise provided by this Act.
 
 ### 50 Interest payable to estates in common fund
 (1) The interest payable to estates whose money constitutes the common fund is to be paid at a rate and at intervals determined by Public Trust and notified in the Gazette.
@@ -396,7 +396,7 @@ Nothing in this Act confers on any person acting jointly with Public Trust any r
 **Investments otherwise than in common fund**
 
 ### 59 Separate investments of estate money
-(1) Public Trust may, at its discretion, separately invest any estate money on account of the estate in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds, rather than including it in the common fund.
+(1) Public Trust may, at its discretion, separately invest any estate money on account of the estate in accordance with the Trusts Act 2019, rather than including it in the common fund.
 (2) Subsection (1) does not authorise an investment if the making of that investment, or an investment of that class, is expressly forbidden by—
   (a) the instrument creating the trust; or
   (b) the authority of Public Trust to administer, hold, or control the estate.
@@ -409,7 +409,7 @@ Nothing in this Act confers on any person acting jointly with Public Trust any r
 (1) This section applies to money that is available for investment but, by virtue of an express prohibition, may not form part of the common fund.
 (2) Public Trust must invest such money—
   (a) in accordance with any powers or directions as to its investment contained in the instrument (if any) governing the trust; or
-  (b) to the extent that they are applicable, in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds.
+  (b) to the extent that it is applicable, in accordance with the Trusts Act 2019.
 (3) Immediately upon receipt of such money, Public Trust must make all reasonable efforts to invest it in accordance with subsection (2).
 (4) If the whole of the money cannot be so invested within 1 calendar month of its receipt, then, despite subsection (2) and the express prohibition, Public Trust may temporarily place the money in the common fund pending its investment elsewhere.
 
@@ -441,9 +441,7 @@ Nothing in this Act confers on any person acting jointly with Public Trust any r
 (3) Each group investment fund must be given an appropriate distinguishing name or number.
 
 ### 64 Investment of group investment funds
-(1) The funds of a group investment fund must be invested, as determined by Public Trust at the time the fund is established,—
-  (a) in any class or classes of investments authorised by the instrument (if any) creating the trust under which the money is held (whether or not those investments meet the requirements of the Trustee Act 1956 as to the investment of trust funds); or
-  (b) in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds.
+(1) Public Trust must invest the funds of a group investment fund in accordance with the terms of the instrument (if any) creating the trust under which the money is held and the Trusts Act 2019.
 (2) Any profit or loss upon the realisation of any investment in a group investment fund is to be credited or debited to the group investment fund.
 (3) Investments from a group investment fund are not to be made on account of or belong to any particular estate, but Public Trust must keep an account showing at all times the entitlement of each estate in the fund.
 
@@ -506,13 +504,14 @@ Where any investments and funds comprising a group investment fund are employed 
 (3) In this section, regulated offer and managed investment products have the same meanings as in section 6(1) of the Financial Markets Conduct Act 2013.
 
 ### 73 Examination of group investment funds
-Section 83A of the Trustee Act 1956 applies in respect of the examination of a group investment fund as if it were an estate, except that—
-  (a) an examination made under that section is to be restricted to an examination of—
-    (i) the investments and funds comprising the group investment fund; and
-    (ii) the income of the fund; and
-    (iii) the expenses and management fees payable out of the fund; and
-    (iv) the proportion to which the person who required the examination, or the estate in which the person is a beneficiary, is entitled; and
-  (b) access to Public Trust's accounts, books, and vouchers is restricted accordingly.
+(1) A solicitor or an accountant authorised in writing by an interested person is entitled to examine at any reasonable time the accounts, books, and vouchers of the group investment fund that relate to—
+  (a) the investments and funds comprising the group investment fund; and
+  (b) the income of the fund; and
+  (c) the expenses and management fees payable out of the fund; and
+  (d) the proportion to which the person who required the examination, or the estate in which the person is a beneficiary, is entitled.
+(2) In this section, interested person means a person who has—
+  (a) an entitlement in the group investment fund; or
+  (b) an interest in an estate that has an entitlement in the fund.
 
 ### 74 Duties, etc, of Public Trust not affected by sections 63 to 73
 Except as otherwise expressly provided in sections 63 to 73, nothing in those sections affects the rights, powers, and duties of Public Trust.
@@ -715,7 +714,7 @@ Where Public Trust is acting jointly with another person in any office or positi
 
 ### 92 Part does not restrict operation of certain provisions
 Nothing in this Part restricts the operation of—
-  (a) section 46(4) of the Trustee Act 1956 (which imposes a duty on Public Trust to act as trustee in certain cases); or
+  (a) section 114(4) of the Trusts Act 2019 (which imposes a duty on Public Trust to act as trustee in certain cases); or
   (b) section 63 of the Administration Act 1969 (which prevents the granting of administration to companies other than trustee companies).
 
 ## Part 6 — Elections to administer
@@ -841,8 +840,8 @@ On application by Public Trust, the court may make an order vesting in Public Tr
   (g) in the case of land, cut and gather crops growing or situated on the land, or erect or contribute to the erection of any dividing or boundary fences:
   (h) exercise any power of sale or other powers or rights conferred upon the owner by any mortgage, lease, enactment, or instrument:
   (i) in the name of the owner, or in Public Trust's own name, bring any action or other proceeding relating to the property, and defend, confess, compromise, or submit to judgment in any action, claim, demand, or proceeding touching the property:
-  (j) exercise as if it were the trustee of the property all powers that, as trustee, it could exercise without court consent under the Trustee Act 1956 or any other enactment or law:
-  (k) exercise in respect of the property all other powers that may be conferred on it by the court (whether or not powers that could be conferred on a trustee under the Trustee Act 1956 or any other enactment or law):
+  (j) exercise as if it were the trustee of the property all powers that, as trustee, it could exercise without court consent under the Trusts Act 2019 or any other enactment or law:
+  (k) exercise in respect of the property all other powers that may be conferred on it by the court (whether or not powers that could be conferred on a trustee under the Trusts Act 2019 or any other enactment or law):
   (l) pay or retain expenditure incurred by it as manager of the property and fees, remuneration, and charges in accordance with sections 122 to 125.
 (2) Any money that Public Trust wishes to raise for the purpose of exercising its powers under this section may be advanced from the common fund or borrowed from any other source.
 
@@ -1032,7 +1031,7 @@ If, under this Act or any other enactment, Public Trust is directed to make a pa
 (3) If the proceedings are not commenced by the person within the 3-month period,—
   (a) the claim is barred on the expiry of that period, and the money, chattels, or things become irrecoverable; and
   (b) Public Trust may proceed to administer and distribute the estate disregarding the claim.
-(4) The powers given by this section are in addition to the powers conferred by section 75 of the Trustee Act 1956.
+(4) The powers given by this section are in addition to the powers conferred by section 135 of the Trusts Act 2019.
 
 ### 128 Conditions on which tenant for life may be allowed into possession
 (1) A person who is a legal or equitable tenant for life of land comprised in an estate being administered by Public Trust is not entitled to the use, occupation, or enjoyment of the land, or to receipt of the income, rents, issues, and profits from it, until the person has given the undertakings (and, where Public Trust requires, security for the undertakings) that Public Trust requires to comply with terms and conditions as to—
