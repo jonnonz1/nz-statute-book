@@ -1,5 +1,5 @@
 # Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-01-30_
 
 ## Preamble
 (1) Kua whakatakotoria te Tiriti o Waitangi, tauira reo Māori, tauira reo Pākehā hoki, i roto i te Wāhanga Tuatahi o te Ture Tiriti o Waitangi 1975. I hainatia te Tiriti nei i te tau 1840:
@@ -133,7 +133,7 @@ This Act binds the Crown.
   (a) the effect of the settlement on the jurisdiction of a court, tribunal, or other judicial body to consider the Ngāti Tuwharetoa (Bay of Plenty) historical claims; and
   (b) consequential amendments to the Treaty of Waitangi Act 1975; and
   (c) the effect of the settlement on certain resumptive memorials; and
-  (d) miscellaneous matters relating to the settlement, such as the exclusion of the law against perpetuities and the timing of actions or matters provided for in the Act.
+  (d) miscellaneous matters relating to the settlement, such as the exclusion of the limit on the duration of a trust and the timing of actions or matters provided for in the Act.
 (5) Part 4 includes provisions relating to the following matters:
   (a) the issue of protocols to the governance entity by the Minister of Conservation, the Minister of Fisheries, and the Minister for Arts, Culture, and Heritage; and
   (b) the vesting in the governance entity of the fee simple estate in 5 cultural redress properties; and
@@ -407,10 +407,10 @@ In this Act, Ngāti Tuwharetoa (Bay of Plenty) historical claims—
 
 ### Subpart 2 — Miscellaneous matters
 
-**Perpetuities**
+**No limit on duration of trusts**
 
-### 19 Rule against perpetuities does not apply
-Neither the rule against perpetuities nor any relevant provisions of the Perpetuities Act 1964—
+### 19 Limit on duration of trusts does not apply
+No rule of law or provisions of an Act limiting the duration of a trust, including section 16 of the Trusts Act 2019,—
   (a) prescribe or restrict the period during which the governance entity may—
     (i) exist in law; or
     (ii) deal with property (including income derived from property); or
