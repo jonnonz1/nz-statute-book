@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -2842,7 +2842,7 @@ A discharge under section 377 does not release any person who, at the date of di
   (b) the administration of that property.
 (3) The administrator of the property of a deceased person (D) that does not form part of D's estate as defined in subsection (1) is, and (whether or not there is an administrator) the appointee is not,—
   (a) D's executor or administrator for the purposes of section 6 of the Deaths by Accidents Compensation Act 1952:
-  (b) D's personal representative for the purposes of section 48 of the Trustee Act 1956.
+  (b) D’s executor or administrator for the purposes of section 92(2)﻿(c)﻿(iii) of the Trusts Act 2019.
 
 **Application and order that estate be administered under this Part**
 
