@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993
-_Consolidation as at 2020-08-26_
+_Consolidation as at 2021-01-30_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble
 
@@ -2561,7 +2561,7 @@ Unless the trust order or any other order of the court requires the trustees of 
 (1) The trustees for the time being of any kai tiaki trust constituted under this Act shall apply to the court within 5 years after the constitution of the trust or within such shorter period as the court may specify in the trust order, and thereafter at intervals of 5 years or such shorter intervals as the court may specify either in the trust order or at any time thereafter, for a review of the trust.
 (2) On any such review the court may, by order, confirm the trust order without variation, or vary the terms of the order in such manner as it thinks fit, or make an order terminating the trust.
 
-### 235 Trusts not subject to rule against perpetuities
+### 235 Trusts not subject to limit on duration
 No trust constituted under this Part shall be subject to any enactment or rule of law restricting the period for which a trust may run.
 
 **Provisions relating to trusts generally**
@@ -3572,10 +3572,10 @@ The Governor-General may from time to time, by Order in Council, make such regul
     (i) terms for which those trustees or any of them are to be appointed:
     (ii) circumstances in which those trustees or any of them cease to hold office:
     (iii) circumstances in which those trustees or any of them may be removed from office by the court:
-    (iv) powers, authorities, and discretions that may be exercised by those trustees (in addition to those conferred on them by this Act) and the manner in which those trustees or any of them may exercise their powers, authorities, and discretions (including those conferred on them by this Act or the Trustee Act 1956 or both):
-    (v) powers, authorities, and discretions conferred by the Trustee Act 1956 that may not be exercised by those trustees:
+    (iv) powers, authorities, and discretions that may be exercised by those trustees (in addition to those conferred on them by this Act) and the manner in which those trustees or any of them may exercise their powers, authorities, and discretions (including those conferred on them by this Act or the Trusts Act 2019 or both):
+    (v) powers, authorities, and discretions conferred by the Trusts Act 2019 that may not be exercised by those trustees:
     (vi) conditions that must be complied with by those trustees:
-  (b) authorise the court to exercise in relation to those trustees (but not to the exclusion of the High Court) any of the powers and authorities conferred on the High Court by the Trustee Act 1956.
+  (b) authorise the court to exercise in relation to those trustees (but not to the exclusion of the High Court) any of the powers and authorities conferred on the High Court by the Trusts Act 2019.
 (2) Nothing in subsection (1) limits—
   (a) the powers of the court under section 338(8); or
   (b) the generality of section 338(15).
