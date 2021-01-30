@@ -1,5 +1,5 @@
 # Pacific Education Foundation Act 1972
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-01-30_
 
 > An Act to establish a Pacific Islands Polynesian Education Foundation
 
@@ -171,8 +171,7 @@ Notwithstanding the terms of any trust affecting any such land, the Board may le
   (d) all other money not forming part of the capital of the Foundation.
 
 ### 22 Powers of investment
-(1) Any money held by or on behalf of the Foundation, whether as capital or unexpended income, may, at the discretion of the Board, from time to time be invested in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds.
-(2) Notwithstanding any rule of law or equity to the contrary, the Board shall not be obliged to convert any property which is the subject of a gift to the Board and which is not property in which the Board may properly invest money pursuant to subsection (1).
+The Board may invest any money held by or on behalf of the Foundation, whether as capital or unexpended income, in accordance with the Trusts Act 2019.
 
 ### 23 Power to borrow
 (1) The Board may from time to time, with the prior approval of the Minister of Finance, and subject to such conditions as that Minister may approve, borrow money on behalf of and for the purposes of the Foundation and for the development and improvement of any real or personal property vested in the Foundation.
