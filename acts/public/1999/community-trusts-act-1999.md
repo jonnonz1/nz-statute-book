@@ -1,5 +1,5 @@
 # Community Trusts Act 1999
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2021-01-30_
 
 > An Act to make continued provision for the operation of the community trusts established under the Trustee Banks Restructuring Act 1988
 
@@ -251,12 +251,12 @@ Section 64 of the Reserve Bank of New Zealand Act 1989 does not apply to—
   (a) a community trust:
   (b) the incorporation of the trustees of a community trust under Part 2 of the Charitable Trusts Act 1957.
 
-### 21 Application of Trustee Act 1956 not affected
-(1) The Trustee Act 1956 applies to a community trust.
-(2) Despite section 2(4) of the Trustee Act 1956, if the trustees of a community trust are not a body corporate, the powers conferred on a trustee by the Trustee Act 1956—
+### 21 Application of Trusts Act 2019
+(1) The Trusts Act 2019 applies to a community trust.
+(2) If the trustees of a community trust are not a body corporate, the powers conferred on a trustee by the Trusts Act 2019—
   (a) are in addition to the powers given by this Act and the instrument creating the trust:
   (b) unless otherwise stated, apply and have effect subject to any contrary intention expressed in this Act or the instrument creating the trust.
-(3) Despite section 2(5) of the Trustee Act 1956, if the trustees of a community trust are a body corporate, the powers conferred on that body corporate by the Trustee Act 1956—
+(3) If the trustees of a community trust are a body corporate, the powers conferred on that body corporate by the Trusts Act 2019—
   (a) are in addition to the powers given by this Act, the instrument creating the trust, and the powers given by any Act under which the trustees are incorporated:
   (b) unless otherwise stated, apply and have effect subject to any contrary intention expressed in this Act or the instrument creating the trust:
   (c) unless otherwise stated, apply and have effect subject to any contrary intention expressed in the Act under which the trustees are incorporated.
