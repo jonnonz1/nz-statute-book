@@ -1,5 +1,5 @@
 # Ngāti Pāhauwera Treaty Claims Settlement Act 2012
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-01-30_
 
 ## Preamble
 (1) The Treaty of Waitangi (Te Tiriti o Waitangi) was signed in 1840. The terms of the Treaty of Waitangi (Te Tiriti o Waitangi) in English and Māori are set out in Schedule 1 of the Treaty of Waitangi Act 1975:
@@ -61,7 +61,7 @@ This Act binds the Crown.
     (i) the effect of the settlement on the jurisdiction of a court, tribunal, or other judicial body in respect of the historical claims; and
     (ii) consequential amendments to the Treaty of Waitangi Act 1975; and
     (iii) the effect of the settlement on certain memorials; and
-    (iv) the exclusion of the law against perpetuities, the timing of actions or matters provided for in this Act, and access to the deed of settlement.
+    (iv) the exclusion of the limit on the duration of a trust, the timing of actions or matters provided for in this Act, and access to the deed of settlement.
 (3) Part 2 provides for cultural redress, including—
   (a) the vesting in the trustees of the Ngāti Pāhauwera Tiaki Trust of the fee simple estate in Te Heru o Tūreia to hold on behalf of Ngāti Pāhauwera and the immediate gifting of Te Heru o Tūreia Gift Area to the Crown to be administered as a historic reserve, the requirement for the Ngāti Pāhauwera Tiaki Trust to provide a registrable conservation covenant over Te Heru o Tūreia (Area B), and the declaration of Nakunaku (a site within Te Heru o Tūreia) as a historic reserve; and
   (b) the vesting in the trustees of the Ngāti Pāhauwera Tiaki Trust of the fee simple estate in other cultural redress properties; and
@@ -326,15 +326,15 @@ It is the intention of Parliament that the provisions of this Act are interprete
 
 ### Subpart 4 — Other matters
 
-**Perpetuities**
+**No limit on duration of trusts**
 
-### 18 Rule against perpetuities does not apply
-(1) The rule against perpetuities and the provisions of the Perpetuities Act 1964 do not—
+### 18 Limit on duration of trusts does not apply
+(1) No rule of law or provisions of an Act limiting the duration of a trust, including section 16 of the Trusts Act 2019,—
   (a) prescribe or restrict the period during which—
     (i) the Ngāti Pāhauwera Development Trust and the Ngāti Pāhauwera Tiaki Trust may exist in law; or
     (ii) the trustees of the Ngāti Pāhauwera Development Trust and the trustees of the Ngāti Pāhauwera Tiaki Trust, in their capacity as trustees, may hold or deal with property (including income derived from property); or
   (b) apply to a settlement document if the application of that rule or the provisions of that Act would otherwise make the document, or a right conferred by the document, invalid or ineffective.
-(2) However, if the Ngāti Pāhauwera Development Trust or the Ngāti Pāhauwera Tiaki Trust is, or becomes, a charitable trust, the application (if any) of the rule against perpetuities or any provision of the Perpetuities Act 1964 to either trust must be determined under the general law.
+(2) However, if the Ngāti Pāhauwera Development Trust or the Ngāti Pāhauwera Tiaki Trust is, or becomes, a charitable trust, that trust may continue indefinitely under section 16(6)﻿(a) of the Trusts Act 2019.
 
 **Timing of actions or matters**
 
@@ -1121,7 +1121,7 @@ The Crown may dispose of RFR land in accordance with—
   (c) section 117(3)﻿(a) of the Public Works Act 1981; or
   (d) section 117(3)﻿(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
   (e) section 23(1) or (4), 24(4), or 26 of the New Zealand Railways Corporation Restructuring Act 1990.
-(2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under section 134 of Te Ture Whenua Maori Act 1993, after an application by an RFR landowner under section 41(e) of the Public Works Act 1981.
+(2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under section 134 of Te Ture Whenua Maori Act 1993, after an application by an RFR landowner under section 41(1)﻿(e) of the Public Works Act 1981.
 
 ### 110 Disposal for reserve or conservation purposes
 An RFR landowner may dispose of RFR land in accordance with—
