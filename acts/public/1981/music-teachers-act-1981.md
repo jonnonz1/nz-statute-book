@@ -1,5 +1,5 @@
 # Music Teachers Act 1981
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-01-30_
 
 > An Act to consolidate and amend the Music Teachers Registration Act 1928, and to make better provision for the registration and control of music teachers and the advancement of music teaching
 
@@ -46,7 +46,7 @@ The council shall appoint a registrar who shall act as registrar of the institut
 The institute may—
   (a) acquire, lease, sell, exchange, or mortgage, for the purposes of the institute, any real or personal property:
   (b) borrow money for such of the purposes of the institute as the council considers desirable:
-  (c) invest any money in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds:
+  (c) invest any money in accordance with the Trusts Act 2019:
   (d) do all things that are reasonably necessary to carry out the purposes of the institute.
 
 ### 8 Contracts of institute
