@@ -1,5 +1,5 @@
 # Energy Companies Act 1992
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-01-30_
 
 > An Act—ato provide for the formation of energy companies, the vesting in such companies of the undertakings of Electric Power Boards and the electricity and gas undertakings of local authorities, and for the dissolution of Electric Power Boards; andbto repeal the Electric Power Boards Act 1925, the Auckland Electric Power Board Act 1978, and the Waikato Electricity Authority Act 1988
 
@@ -171,8 +171,8 @@ Subject to this Act, interim trustees may regulate their procedure in such manne
 ### 13 Application of certain Acts to interim trustees
 No person shall be deemed to be employed in the service of the Crown for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason only that the person is an interim trustee.
 
-### 14 Trustee Act 1956, etc, not to apply to interim trustees
-The fact that a person holds or has held office as an interim trustee shall not, of itself, confer or impose on that person any of the rights, powers, duties, or liabilities of a trustee under the Trustee Act 1956 or under any other enactment or rule of law.
+### 14 Trusts Act 2019, etc, not to apply to interim trustees
+The fact that a person holds or has held office as an interim trustee does not, of itself, confer or impose on that person any of the rights, powers, duties, or liabilities of a trustee under the Trusts Act 2019 or under any other enactment of rule of law.
 
 ### 15 Board may meet costs and expenses of interim trustees
 Subject to section 16, a Board may, out of its funds, pay the reasonable costs and reasonable expenses incurred, in the discharge of their duties, by the interim trustees holding office in respect of the Board.
