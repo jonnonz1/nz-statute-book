@@ -1,5 +1,5 @@
 # Maori Fisheries Act 2004
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-01-30_
 
 ## Preamble
 (1) By the Treaty of Waitangi, the Queen of England confirmed and guaranteed to the chiefs, tribes, and individual Maori the full, exclusive, and undisturbed possession of their fisheries for so long as they wished to retain them:
@@ -568,7 +568,7 @@ This Part provides, in 6 subparts, for the establishment, audit, and review of t
 
 ### 31 Te Ohu Kai Moana to be established
 (1) The Treaty of Waitangi Fisheries Commission must, before the appointed day, establish by trust deed a trust called Te Ohu Kai Moana.
-(2) Neither the rule against perpetuities nor any relevant provisions of the Perpetuities Act 1964—
+(2) No rule of law or provisions of an Act limiting the duration of a trust, including section 16 of the Trusts Act 2019,—
   (a) prescribe or restrict the period during which Te Ohu Kai Moana may exist in law; or
   (b) apply to a document entered into to give effect to the Deed of Settlement (including the trust deed required to be entered into under subsection (1)) if the application of that rule or the provisions of that Act would otherwise make the document, or a right or obligation conferred by that document, invalid or ineffective.
 
@@ -1177,7 +1177,7 @@ In this subpart and in subpart 5,—
 
 ### 79 Establishment of Te Putea Whakatupu Trust
 (1) Te Ohu Kai Moana Trustee Limited must, not later than 60 working days after the appointed day, establish by trust deed a trust called Te Putea Whakatupu Trust.
-(2) Neither the rule against perpetuities nor any relevant provisions of the Perpetuities Act 1964—
+(2) No rule of law or provisions of an Act limiting the duration of a trust, including section 16 of the Trusts Act 2019,—
   (a) prescribe or restrict the period during which Te Putea Whakatupu Trust may exist in law; or
   (b) apply to a document entered into to give effect to the Deed of Settlement (including the trust deed required to be entered into under subsection (1)) if the application of that rule or the provisions of that Act would otherwise make a document, or a right or obligation conferred by that document, invalid or ineffective.
 
@@ -1333,7 +1333,7 @@ In this subpart,—
 
 ### 92 Establishment of Te Wai Maori Trust
 (1) Te Ohu Kai Moana Trustee Limited must, not later than 60 working days after the appointed day, establish by trust deed a trust called Te Wai Maori Trust.
-(2) Neither the rule against perpetuities nor any relevant provisions of the Perpetuities Act 1964—
+(2) No rule of law or provisions of an Act limiting the duration of a trust, including section 16 of the Trusts Act 2019,—
   (a) prescribe or restrict the period during which Te Wai Maori Trust may exist in law; or
   (b) apply to a document entered into to give effect to the Deed of Settlement (including the trust deed required to be entered into under subsection (1)) if the application of that rule or the provisions of that Act would otherwise make a document, or a right or obligation conferred by that document, invalid or ineffective.
 
