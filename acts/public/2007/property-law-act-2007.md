@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -703,7 +703,12 @@ A co-surety, co-contractor, or co-debtor is not entitled to recover from any oth
 
 ### 59 Future estates and interests
 (1) Estates and interests in property may be created that take effect at a future time.
-(2) Subsection (1) applies subject to the rule against perpetuities and the Perpetuities Act 1964.
+(2) Subsection (1) applies subject to subsection (3).
+(3) The maximum amount of time that may elapse between the date on which an estate or interest in property is created and the date on which the estate or interest takes effect is 125 years.
+
+### 59A Transitional provision for maximum duration of future estates and interests
+(1) This section applies to an estate or interest in property that has been created, but that has not yet taken effect, before the date on which the Trusts Act 2019 enters into force.
+(2) The maximum amount of time that may elapse between the date on which the estate or interest was created and the date on which the estate or interest takes effect must be determined as if the rule against perpetuities and the Perpetuities Act 1964 had not been repealed by the Trusts Act 2019.
 
 ### 60 Doctrine of interesse termini abolished
 (1) The legal doctrine of interesse termini is abolished.
@@ -1159,7 +1164,7 @@ A person in possession of the instruments of title for mortgaged property must d
 (1) This section applies if a mortgage over property secures the payment to any person of a periodical payment, other than interest on the amounts secured by the mortgage.
 (2) A court may, on the application of the current mortgagor or any other person entitled to redeem the mortgaged property, make an order directing or allowing the payment into court of a specified amount that, in the opinion of the court, is sufficient to constitute a fund that will produce enough income to meet any periodical payment secured by the mortgage as it falls due.
 (3) In determining the specified amount under subsection (2), the court must—
-  (a) assume that the fund will be invested as a trustee is entitled and required to invest trust funds under Part 2 of the Trustee Act 1956; and
+  (a) assume that the fund will be invested in accordance with the Trusts Act 2019; and
   (b) make reasonable provision, in addition to the amount sufficient for the purpose specified in subsection (2), for the contingency of further costs, expenses, and interest, and any other contingency except the depreciation of any investment.
 (4) The court may, after giving notice to every person who is entitled to receive a periodical payment secured by the mortgage, make further orders directing the application or distribution of the income or the capital of the fund.
 
@@ -3656,6 +3661,31 @@ The purpose of this subpart is to enable a court to order that property acquired
   (d) any other relevant matters.
 (4) This section overrides the Land Transfer Act 2017.
 
+**Powers relating to vesting orders**
+
+### 350A Vesting order consequential on order for sale or mortgage of land
+(1) This section applies if a court gives a judgment or makes an order directing the sale or mortgage of any land.
+(2) A person described in subsection (3) is deemed to be entitled to, or to have an interest in, as the case may be, the land as a trustee.
+(3) The person is a person who—
+  (a) either—
+    (i) is entitled to, or who has any interest in, the land; or
+    (ii) has any contingent right in the land; and
+  (b) is a party to the proceeding to which the judgment or order relates or is otherwise bound by the judgment or order.
+(4) The court may make an order vesting the land or any part of the land for any estate or interest that the court thinks fit in the purchaser or mortgagee or in any other person.
+
+### 350B Vesting order consequential on judgment for specific performance
+(1) This section applies when a judgment is given for the specific performance of a contract concerning any interest in land, or for the sale or exchange of any interest in land, or generally when any judgment is given for the conveyance of any interest in land.
+(2) The court may declare—
+  (a) that any party to the action is a trustee of any interest in the land or any part of the land; or
+  (b) that the interest of an unborn person is the interest of a person who would become a trustee were the unborn person to come into existence and claim—
+    (i) under a party to the proceeding; or
+    (ii) under the will or voluntary settlement of a deceased person who was, during that person’s lifetime, a party to the contract or transaction to which the judgment relates.
+(3) If the court makes an order, the court may make a vesting order relating to the rights of those persons, born and unborn, as if they were trustees.
+
+### 350C Court may appoint person to convey trust property
+(1) In any case where a vesting order can be made under section 350A or 350B, the court may instead make an order appointing a person to convey the property or any interest in the property or to release a contingent right.
+(2) A conveyance or release by a person appointed in accordance with the order has the same effect as a vesting order.
+
 ## Part 7 — Miscellaneous provisions
 
 **Land not owned by the Crown and not under Land Transfer Act 2017**
@@ -4379,7 +4409,7 @@ A conveyance of land without words of limitation passes the fee simple or other 
     (v) any other reasonable means.
 (5) The power in subclause (4)﻿(b) may be exercised only to raise and pay the annual sum and all arrears due or becoming due, and all costs arising from the non-payment of the annual sum, or incurred in compelling or obtaining payment of the annual sum, including the costs of the preparation and execution of any instrument and the costs of execution of the trust thereby created.
 (6) The surplus, if any, of the money raised or the income received under the trust must be paid to the person for the time being entitled to the land comprised in the trust, in reversion immediately expectant on the term of the trust.
-(7) The rule against perpetuities as modified by the Perpetuities Act 1964 does not apply to—
+(7) Section 16 of the Trusts Act 2019 does not apply to—
   (a) any powers or remedies conferred by this clause; or
   (b) any equivalent powers or remedies conferred by any instrument for recovering the payment of any annual sum within the meaning of this clause.
 
