@@ -1,5 +1,5 @@
 # Ngāti Awa Claims Settlement Act 2005
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-01-30_
 
 ## Preamble
 Kupu Whakataki
@@ -163,7 +163,7 @@ This Act binds the Crown.
   (a) the effect of the settlements on the jurisdiction of a court, tribunal, or other judicial body to consider the Ngāti Awa historical claims and the ancillary claims; and
   (b) consequential amendments to the Treaty of Waitangi Act 1975; and
   (c) the effect of the settlement of the Ngāti Awa historical claims on certain resumptive memorials; and
-  (d) miscellaneous matters relating to the settlement of the Ngāti Awa historical claims and the ancillary claims, such as the exclusion of the law against perpetuities and the timing of actions and matters provided for in the Act.
+  (d) miscellaneous matters relating to the settlement of the Ngāti Awa historical claims and the ancillary claims, such as the exclusion of the limit on the duration of a trust and the timing of actions and matters provided for in the Act.
 (5) Part 4 deals with cultural redress in relation to the Ngāti Awa historical claims, and includes provisions relating to the following matters:
   (a) the issue of protocols to the Ngāti Awa governance entity by the Minister of Conservation, the Minister of Fisheries, and the Minister for Arts, Culture, and Heritage; and
   (b) the vesting in the Ngāti Awa governance entity of the fee simple estate in 7 cultural redress properties; and
@@ -533,10 +533,10 @@ In this Act, unless the context otherwise requires,—
 
 ### Subpart 2 — Miscellaneous matters
 
-**Perpetuities**
+**No limit on duration of trusts**
 
-### 19 Rule against perpetuities
-Neither the rule against perpetuities nor any relevant provisions of the Perpetuities Act 1964—
+### 19 Limit on duration of trusts does not apply
+No rule of law or provisions of an Act limiting the duration of a trust, including section 16 of the Trusts Act 2019,—
   (a) apply to a document entered into to give effect to the Ngāti Awa deed of settlement (including the deed that grants rights of first refusal referred to in clause 10.3 of the Ngāti Awa deed of settlement) if the application of that rule or the provisions of that Act would otherwise make the document, or the right conferred by the document, invalid or ineffective; or
   (b) prescribe or restrict the period in which the Rangitaiki 60C governance entity or the Waiohau governance entity may—
     (i) exist in law; or
