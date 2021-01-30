@@ -1,5 +1,5 @@
 # Care of Children Act 2004
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Care of Children Act 2004.
@@ -160,7 +160,7 @@ This Act binds the Crown.
 ### 14 Administration of children’s property
 (1) The welfare and best interests of the child must be the first and paramount consideration in proceedings relating to the administration of, or to the allocation of income from, property belonging to, or held in trust for, a child.
 (2) No person may be appointed as, or have any powers as, guardian of the property of a child, except under an order of the kind referred to in section 33(1) appointing as the agent of the court a named person or a person whom the court thinks fit.
-(3) However, nothing in this Act limits any powers of the High Court in relation to, or in relation to the administration of, any property held on trust (for example, the powers of the High Court under sections 64 and 64A of the Trustee Act 1956).
+(3) However, nothing in this Act limits any powers of the High Court in relation to, or in relation to the administration of, any property held on trust.
 (4) Nothing in this section limits section 6 (child’s views).
 
 ## Part 2 — Guardianship and care of children
