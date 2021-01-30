@@ -1,5 +1,5 @@
 # Ngāti Manawa Claims Settlement Act 2012
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Ngāti Manawa Claims Settlement Act 2012.
@@ -29,7 +29,7 @@ This Act binds the Crown.
     (i) the effect of the settlement on the jurisdiction of a court, tribunal, or other judicial body in respect of the historical claims; and
     (ii) consequential amendments to the Treaty of Waitangi Act 1975; and
     (iii) the effect of the settlement on certain memorials; and
-    (iv) the exclusion of the law against perpetuities, the timing of actions or matters provided for in this Act, and access to the deed of settlement.
+    (iv) the exclusion of the limit on the duration of a trust, the timing of actions or matters provided for in this Act, and access to the deed of settlement.
 (4) Sections 20 to 129 provide for cultural redress, including—
   (a) an overlay classification for 1 site; and
   (b) protocols to be issued to the trustees of Te Rūnanga o Ngāti Manawa by the Minister of Conservation, the Minister of Fisheries, the Minister of Energy and Resources, and the Minister for Arts, Culture and Heritage; and
@@ -537,12 +537,12 @@ In this Act, unless the context requires otherwise,—
 
 **Miscellaneous matters**
 
-### 17 Rule against perpetuities does not apply
-(1) Neither the rule against perpetuities nor the Perpetuities Act 1964 prescribes or restricts the period during which—
+### 17 Limit on duration of trusts does not apply
+(1) No rule of law or provisions of an Act, including section 11 of the Trusts Act 2019, prescribe or restrict the period during which—
   (a) the trust established by the Te Rūnanga o Ngāti Manawa trust deed may exist in law; or
   (b) the trustees of Te Rūnanga o Ngāti Manawa, in their capacity as trustees, may hold or deal with property or income from property.
-(2) Neither the rule against perpetuities nor the Perpetuities Act 1964 applies to a document entered into to give effect to the deed of settlement if the application of the rule or the Act would make the document invalid or ineffective or a right conferred by the document invalid or ineffective.
-(3) However, if the trust established by the Te Rūnanga o Ngāti Manawa trust deed is or becomes a charitable trust, whether and how the rule against perpetuities or the Perpetuities Act 1964 applies must be determined under the general law.
+(2) No rule of law or provisions of an Act, including section 11 of the Trusts Act 2019, apply to a document entered into to give effect to the deed of settlement if the application of that provision would make the document invalid or ineffective or a right conferred by the document invalid or ineffective.
+(3) However, if the trust established by the Te Rūnanga o Ngāti Manawa trust deed is or becomes a charitable trust, the trust may continue indefinitely under section 16(6)﻿(a) of the Trusts Act 2019.
 
 ### 18 Timing of actions or matters
 (1) Actions or matters occurring under this Act occur or take effect on and from the settlement date.
