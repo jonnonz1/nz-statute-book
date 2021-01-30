@@ -1,5 +1,5 @@
 # New Zealand Railways Staff Welfare Society Dissolution Act 1999
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2021-01-30_
 
 > An Act to—adissolve the New Zealand Railways Staff Welfare Society; andbtransfer its assets and liabilities to a charitable trust; andcprovide for incidental matters
 
@@ -65,8 +65,8 @@ The trust deed of the charitable trust must contain provisions—
 ### 9 Purposes of charitable trust
 For the purposes of the application to the charitable trust of the provisions of any other enactment or rule of law, all the purposes of the charitable trust are deemed to be charitable purposes.
 
-### 10 Charitable trust subject to Trustee Act 1956
-The Trustee Act 1956 applies to the charitable trust, but does so subject to this Act.
+### 10 Charitable trust subject to Trusts Act 2019
+The Trusts Act 2019 applies to the charitable trust, but does so subject to this Act.
 
 **Other matters**
 
