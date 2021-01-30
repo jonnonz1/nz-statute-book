@@ -1,5 +1,5 @@
 # Queen Elizabeth the Second National Trust Act 1977
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-01-30_
 
 > An Act to commemorate the Silver Jubilee of Her Majesty Queen Elizabeth the Second by establishing a national trust to encourage and promote the provision, protection, and enhancement of open space for the benefit and enjoyment of the people of New Zealand
 
@@ -265,9 +265,9 @@ No person, by reason only of his being a director, or a member of the Trust, or 
 (4) The National Trust Fund Account may only be operated on by cheque or other negotiable instrument (not being a promissory note or bill) signed by a director or other officer of the Trust who is authorised by the board to sign cheques drawn on the account, and countersigned by any other director or officer of the Trust who is authorised by the board to sign such cheques.
 
 ### 25 Powers of investment
-(1) Any money, being capital of the Trust Fund within the meaning of section 23, held by or on behalf of the Trust, and not required for any other purpose, may from time to time be invested in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds.
-(2) Notwithstanding any rule of law or equity to the contrary, the Trust shall not be obliged to convert any property which is the subject of a gift to the Trust and which is not property in which the Trust may properly invest money pursuant to subsection (1).
-(3) Any money, being income of the Trust within the meaning of section 23, may, at the discretion of the board, from time to time be invested in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds.
+(1) Any money, being capital of the Trust Fund within the meaning of section 23, held by or on behalf of the Trust, and not required for any other purpose, may be invested in accordance with the Trusts Act 2019.
+(2)
+(3) Any money, being income of the Trust within the meaning of section 23, may, at the discretion of the board, be invested in accordance with the Trusts Act 2019.
 
 ### 26 Unauthorised expenditure
 The Trust may in any financial year expend out of its funds, for purposes not authorised by this or any other Act, any sum or sums not exceeding in the aggregate $500.
