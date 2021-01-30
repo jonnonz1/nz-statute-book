@@ -1,5 +1,5 @@
 # Cadastral Survey Act 2002
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Cadastral Survey Act 2002.
@@ -169,7 +169,7 @@ No member or employee of the Board is personally liable for any—
 ### 16 Application of fees received by Board
 (1) All money paid to the Board under this Act must be paid into a bank account as determined by the Board.
 (2) The money may be applied only to the payment of any expenditure incurred by the Board in the performance of its functions and duties or the exercise of its powers.
-(3) The Board may invest any money for the time being not required for any of the purposes referred to in subsection (2) in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds.
+(3) The Board may invest any money for the time being not required for any of the purposes referred to in subsection (2) in accordance with the Trusts Act 2019.
 
 ### 17 Fees and allowances
 There may be paid out of the funds of the Board to members of the Board and any committee appointed by the Board remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the framework determined by the Government for the remuneration of statutory and other bodies.
