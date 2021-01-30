@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -1402,6 +1402,30 @@ A trust deed for a debt security has no effect to the extent that it contravenes
 (2) An issuer that contravenes this section commits an offence and is liable on conviction to a fine not exceeding $50,000.
 (3) The offence in this section is an infringement offence (see subpart 5 of Part 8).
 
+**Application of Trusts Act 2019**
+
+### 110A Application of Trusts Act 2019
+(1) This section applies to a trust constituted (or to be constituted) under a trust deed for a debt security if the trust deed—
+  (a) has been lodged under section 103; or
+  (b) has been or will be entered into with the intention that the deed will be lodged under section 103.
+(2) The following provisions of the Trusts Act 2019 do not apply to a trust referred to in subsection (1):
+  (a) section 25 (duty to act honestly and in good faith):
+  (b) section 29 (general duty of care):
+  (c) section 39 (adviser must alert settlor to modification or exclusion of default duty):
+  (d) sections 40 to 42 (exemption and indemnity clauses):
+  (e) section 43 (adviser must alert settlor to liability exclusion or indemnity clause):
+  (f) section 44 (court consideration of gross negligence):
+  (g) sections 45 to 48 (documents to be kept by trustees):
+  (h) sections 49 to 55 (giving information to beneficiaries):
+  (i) section 56 (general powers of trustee):
+  (j) sections 67 to 73 (exercise or performance of trustee powers and functions by others):
+  (k) sections 74 to 76 (special trust advisers):
+  (l) sections 81(2) and (3) and 82 to 85 (trustees’ indemnities):
+  (m) sections 92 to 115 (appointment and discharge of trustees):
+  (n) sections 121 to 123 (termination and variation of trusts):
+  (o) sections 142 to 148 (alternative dispute resolution):
+  (p) sections 153 to 158 (investigation of condition and accounts of certain trust property).
+
 **Role of supervisor**
 
 ### 111 Functions of supervisor
@@ -1418,7 +1442,7 @@ A trust deed for a debt security has no effect to the extent that it contravenes
 
 ### 112 General duties applying in exercise of supervisor's functions
 (1) The supervisor of a debt security must—
-  (a) act honestly in acting as a supervisor; and
+  (a) act honestly and in good faith in acting as a supervisor; and
   (b) in exercising its powers and performing its duties as a supervisor, act in the best interests of the holders of the debt security; and
   (c) exercise reasonable diligence in carrying out its functions as a supervisor.
 (2) The supervisor of a debt security must also—
@@ -1748,7 +1772,7 @@ A governing document for a registered scheme has no effect to the extent that it
 
 ### 143 General duties applying in exercise of manager's functions
 (1) A manager of a registered scheme must—
-  (a) act honestly in acting as a manager; and
+  (a) act honestly and in good faith in acting as a manager; and
   (b) in exercising any powers or performing any duties as a manager,—
     (i) act in the best interests of the scheme participants; and
     (ii) treat the scheme participants equitably; and
@@ -1828,7 +1852,7 @@ A report provided by a manager under section 149 is not admissible as evidence i
 
 ### 153 General duties applying in exercise of supervisor's functions
 (1) The supervisor of a registered scheme must—
-  (a) act honestly in acting as a supervisor; and
+  (a) act honestly and in good faith in acting as a supervisor; and
   (b) in exercising its powers and performing its duties as a supervisor, act in the best interests of the scheme participants; and
   (c) exercise reasonable diligence in carrying out its functions as a supervisor.
 (2) The supervisor of a registered scheme must also—
@@ -1853,6 +1877,36 @@ The supervisor of a registered scheme must, in exercising its powers and perform
   (a) the manager must provide reasonable assistance to the expert to allow the expert to provide the assistance under subsection (1); and
   (b) the manager must pay the fees and expenses of the expert, which must be reasonable in the circumstances; and
   (c) the manager is entitled to be indemnified for those fees and expenses out of scheme property, subject to any limits referred to in section 136.
+
+**Application of Trusts Act 2019**
+
+### 155A Application of Trusts Act 2019
+(1) This section applies to a managed investment scheme constituted (or to be constituted) as 1 or more trusts or as including 1 or more trusts (or both) if the scheme—
+  (a) has been registered under this subpart; or
+  (b) has been or will be constituted as 1 or more trusts or as including 1 or more trusts (or both) with the intention that the scheme will be registered under this subpart.
+(2) The following provisions of the Trusts Act 2019 do not apply to any relevant trust:
+  (a) section 25 (duty to act honestly and in good faith):
+  (b) section 29 (general duty of care):
+  (c) section 30 (duty to invest prudently):
+  (d) section 35 (duty of impartiality):
+  (e) section 38 (duty to act unanimously):
+  (f) section 39 (adviser must alert settlor to modification or exclusion of default duty):
+  (g) sections 40 to 42 (exemption and indemnity clauses):
+  (h) section 43 (adviser must alert settlor to liability exclusion or indemnity clause):
+  (i) section 44 (court consideration of gross negligence):
+  (j) sections 45 to 48 (documents to be kept by trustees):
+  (k) sections 49 to 55 (giving information to beneficiaries):
+  (l) section 56 (general powers of trustee):
+  (m) sections 60 and 61 (power to determine treatment of returns and accounts):
+  (n) sections 67 to 73 (exercise or performance of trustee powers and functions by others):
+  (o) sections 74 to 76 (special trust advisers):
+  (p) sections 81(2) and (3) and 82 to 85 (trustees’ indemnities):
+  (q) sections 92 to 115 (appointment and discharge of trustees):
+  (r) sections 121 to 123 (termination and variation of trusts):
+  (s) sections 142 to 148 (alternative dispute resolution):
+  (t) sections 153 to 158 (investigation of condition and accounts of certain trust property).
+(3) In this section, relevant trust means a trust referred to in subsection (1) if a trust deed for the trust has been or will be lodged with the Registrar by the manager of the scheme.
+(4) Despite section 16(1) of the Trusts Act 2019, the trusts of a managed investment scheme may continue indefinitely.
 
 **Custodianship of scheme property**
 
@@ -3755,7 +3809,7 @@ A licensed market operator that refuses or fails, without reasonable excuse, to 
   (a) a person authorised to undertake trading activities on a licensed market:
   (b) a lawyer in practice on his or her own account:
   (c) a qualified statutory accountant:
-  (d) a trustee corporation (as defined in section 2(1) of the Trustee Act 1956):
+  (d) a trustee corporation (as defined in section 2 of the Protection of Personal and Property Rights Act 1988):
   (e) a registered bank:
   (f) a person prescribed for the purposes of this definition.
 
@@ -5605,7 +5659,7 @@ Nothing in this Act limits or diminishes any liability that any person may incur
 [Repealed]
 
 ### 548 Other regulations
-(1) The Governor-General may, by Order in Council, on the recommendation of the Minister in accordance with section 549, make regulations for all or any of the following purposes:Part 2 fair dealingDefinitionsExcluded circumstances relating to when directors are treated as having contravened provisionsSchedule 3 schemesRegistersGiving of information and other service requirementsEnforcementFees and chargesPrescribed mannerGeneral
+(1) The Governor-General may, by Order in Council, on the recommendation of the Minister in accordance with section 549, make regulations for all or any of the following purposes:Part 2 fair dealingDefinitionsExcluded circumstances relating to when directors are treated as having contravened provisionsTrusts Act 2019 disappliedSchedule 3 schemesRegistersGiving of information and other service requirementsEnforcementFees and chargesPrescribed mannerGeneral
   (a) declaring financial advice products as financial products for the purposes of any provision of Part 2 or section 464:
   (b) prescribing circumstances for the purposes of section 34(2)﻿(e):
   (c) prescribing kinds of entities for the purposes of the definition of co-operative in section 34(4):
@@ -5623,6 +5677,9 @@ Nothing in this Act limits or diminishes any liability that any person may incur
   (f) prescribing circumstances for the purposes of section 13(3):
   (g) prescribing matters relating to when information may be incorporated by reference for the purposes of section 13(4):
   (h) prescribing circumstances for the purposes of section 534(2):
+  (ha) providing that specified provisions of the Trusts Act 2019 do not apply to a trust, or a class of trusts,—
+    (i) that is or will be regulated by or under this Act:
+    (ii) that would be regulated by or under this Act except for the fact that an exclusion under Schedule 1 applies:
   (i) prescribing the information that must be prepared and provided under clause 6 of Schedule 3, the times or events referred to in that clause, and the manner of providing the information (including prescribing the manner in which the information is to be presented, calculated, or prepared):
   (j) prescribing provisions to be implied in a trust deed of a Schedule 3 scheme (which may, without limitation, specify duties under the trust deed, including by supplementing, or adding to, any duties prescribed by this Act):
   (ja) prescribing criteria, requirements, or both for the purposes of clause 2(1)﻿(b)﻿(iv) of Schedule 3:
@@ -5649,7 +5706,7 @@ Nothing in this Act limits or diminishes any liability that any person may incur
   (s) prescribing a date or dates for the purposes of clause 57(1)﻿(a) of Schedule 4:
   (t) prescribing clauses of Schedule 1 for the purposes of clause 59(1) of Schedule 4:
   (u) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
-(2) Subsection (1)﻿(b), (d)﻿(i), (ii), (iii), and (v), and (h) are subject to section 550 (which provides for certain procedural requirements relating to regulations made under those subparagraphs).
+(2) Subsection (1)﻿(b), (d)﻿(i), (ii), (iii), and (v), (h), and (ha) are subject to section 550 (which provides for certain procedural requirements relating to regulations made under those subparagraphs).
 (3) Subsection (1)﻿(d)﻿(iii) is repealed on 1 April 2017 (but any regulations made under that subparagraph continue in force despite that repeal).
 (4) Nothing in sections 543 to 547, or in any other provision that authorises regulations to be made under this Act, limits subsection (1)﻿(p).
 
@@ -5661,7 +5718,8 @@ The Minister must consult the FMA before making a recommendation under this subp
   (a) subsection (2), have regard to the main and additional purposes of this Act set out in sections 3 and 4; and
   (b) subsection (2)﻿(a), (b), or (e), be satisfied that the extent to which requirements are disapplied is not broader than is reasonably necessary to address the matters that gave rise to the regulations; and
   (c) subsection (2)﻿(c), (d), (da), (db), and (f), be satisfied that the extent of the exemption or exclusion is not broader than is reasonably necessary to address the matters that gave rise to the regulations; and
-  (d) subsection (2)﻿(g), be satisfied that the extent to which the application of section 534 is reduced is not broader than is reasonably necessary to address the matters that gave rise to the regulations.
+  (d) subsection (2)﻿(g), be satisfied that the extent to which the application of section 534 is reduced is not broader than is reasonably necessary to address the matters that gave rise to the regulations; and
+  (e) subsection (2)﻿(h), have regard to the purpose and principles of the Trusts Act 2019 and be satisfied that the extent to which that Act is disapplied is not broader than is reasonably necessary to address the matters that gave rise to the regulations.
 (2) The provisions are—
   (a) sections 543(1)﻿(a)﻿(v) and (x), and (f), and 548(1)﻿(b) (regulations may prescribe circumstances in which requirements do not apply):
   (b) section 544(1)﻿(k), (o), (r), (s), and (v)﻿(iii), (iv), (via), and (ix) (regulations may prescribe circumstances in which requirements do not apply):
@@ -5671,7 +5729,8 @@ The Minister must consult the FMA before making a recommendation under this subp
   (db) section 546(1)﻿(mn) (regulations may prescribe circumstances in which requirements do not apply):
   (e) section 546(1)﻿(o) (regulations may prescribe circumstances in which requirements do not apply):
   (f) section 548(1)﻿(d)﻿(i), (ii), and (v) (regulations relating to definitions):
-  (g) section 548(1)﻿(h) (regulations may prescribe circumstances in which section 534 does not apply).
+  (g) section 548(1)﻿(h) (regulations may prescribe circumstances in which section 534 does not apply):
+  (h) section 548(1)﻿(ha) (regulations may disapply provisions of Trusts Act 2019).
 (3) The Minister must, before making a recommendation in relation to section 548(1)﻿(d)﻿(iii) (regulations relating to definition of retirement scheme) in relation to any enactment, have regard to the purposes of that enactment and be satisfied that the extent of the exclusion is not broader than is reasonably necessary to address the matters that gave rise to the regulations.
 
 ### 551 Miscellaneous provisions relating to exemptions
@@ -5715,12 +5774,18 @@ Different matters may be prescribed, prohibited, restricted, specified, or requi
   (b) any regulations.
 (2) To avoid doubt, an exemption may extend to exempt from compliance with any provision that is implied into a deed or an agreement by or under any other provision referred to in subsection (1).
 (3) Nothing in subpart 6 or 7 limits subsection (1).
+(3A) The FMA may, on the terms and conditions (if any) that it thinks fit, exempt any trust or class of trusts (or any person or class of persons in respect of a trust or class of trusts) from any provision or provisions of the Trusts Act 2019 if—
+  (a) the trust or that class of trusts is constituted (or is to be constituted) under a trust deed or trust deeds that would be required to be lodged under section 103 except for the fact that the FMA has granted or will grant an exemption from that requirement under subsection (1); or
+  (b) both of the following apply:
+    (i) a managed investment scheme is constituted (or is to be constituted) as 1 or more trusts or as including 1 or more trusts (or both):
+    (ii) the scheme would be required to be registered under subpart 2 of Part 4 except for the fact that the FMA has granted or will grant an exemption from that requirement under subsection (1).
 (4) Subpart 5 (general provisions relating to certain FMA instruments) applies to an exemption granted under this section.
 
 ### 557 Restriction on FMA's exemption power
-The FMA must not grant an exemption under this subpart unless it is satisfied that—
+(1) The FMA must not grant an exemption under this subpart unless it is satisfied that—
   (a) granting the exemption is necessary or desirable in order to promote either or both of the main purposes of this Act as specified in section 3 or any of the additional purposes specified in section 4; and
   (b) the extent of the exemption is not broader than is reasonably necessary to address the matters that gave rise to the exemption.
+(2) In the case of section 556(3A), the FMA must also have regard to the purpose and principles of the Trusts Act 2019.
 
 ### 558 Exemption in force for not more than 5 years
 An exemption granted under this subpart may continue in force for not more than 5 years (and at the close of the date that is 5 years after the exemption first comes into force, the exemption must be treated as having been revoked unless it is sooner revoked or expires).
@@ -6777,6 +6842,11 @@ The trustees of an approved Schedule 3 scheme must, at the prescribed times or o
 ### 7 Implied provisions of trust deed
 (1) The trust deed of an approved Schedule 3 scheme is treated as containing any provision that is implied into it under this Act.
 (2) The trust deed has no effect to the extent that it contravenes, or is inconsistent with, any implied provision.
+
+### 8 Application of Trusts Act 2019
+Section 14 of the Trusts Act 2019 (sole trustee cannot be sole beneficiary) does not apply to—
+  (a) an approved Schedule 3 scheme; or
+  (b) a scheme that has been or will be constituted with the intention that the scheme will be approved as a Schedule 3 scheme.
 
 ## Schedule 4 — Transitional, savings, and related provisions
 
