@@ -1,5 +1,5 @@
 # Māori Purposes (Wi Pere Trust) Act 1991
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Māori Purposes (Wi Pere Trust) Act 1991.
@@ -74,8 +74,8 @@ In this Act, unless the context otherwise requires,—
 (1) The trust created as recited in the preamble to section 2 and known as the Wi Pere Trust continues to exist.
 (2) On the commencement of this section, each beneficiary holds the beneficial interest in the trust property that he or she held immediately before that commencement.
 
-### 5 Trust subject to Trustee Act 1956 and jurisdiction of High Court
-(1) The Trustee Act 1956 applies to the trust but subject to the provisions of this Act and the constitution.
+### 5 Trust subject to Trusts Act 2019 and jurisdiction of High Court
+(1) The Trusts Act 2019 applies to the trust but subject to the provisions of this Act and the constitution.
 (2) The High Court has jurisdiction to determine any dispute relating to the administration and governance of the trust.
 (3) To avoid doubt, the Māori Land Court has no jurisdiction to determine any dispute relating to the administration and governance of the trust.
 
@@ -89,7 +89,7 @@ In this Act, unless the context otherwise requires,—
   (b) the power to do any other thing it is authorised or required to do—
     (i) by this Act; or
     (ii) by the constitution; or
-    (iii) by the Trustee Act 1956 or any other enactment; or
+    (iii) by the Trusts Act 2019 or any other enactment; or
     (iv) by any rule of law.
 (4) The trust board may not exercise any of its rights, powers, or privileges except for the purpose of performing its function.
 
@@ -133,8 +133,8 @@ In this Act, unless the context otherwise requires,—
 ### 11 Trust board holds property on trust for purpose of trust
 The trust board holds the trust property on trust for the purpose of the trust; that is, to receive, hold, manage, and administer the trust property for the benefit and advancement of the beneficiaries, and at the sole discretion of the board, for the benefit of the discretionary beneficiaries.
 
-### 12 Trust not subject to rule against perpetuities
-The trust is not subject to any enactment or rule of law that restricts the period for which a trust may run.
+### 12 Trust not subject to limit on maximum duration
+No rule of law or provisions of an Act, including section 16 of the Trusts Act 2019, prescribe or restrict the period during which the trust may exist.
 
 **Trust board**
 
@@ -143,7 +143,7 @@ The trust is not subject to any enactment or rule of law that restricts the peri
 (2) The trust board must perform its function by exercising its powers in accordance with—
   (a) this Act; and
   (b) the constitution; and
-  (c) the Trustee Act 1956 or any other enactment; and
+  (c) the Trusts Act 2019 or any other enactment; and
   (d) any rule of law.
 
 ### 14 Members of trust board not personally liable
@@ -613,7 +613,7 @@ Access to information
 (10.3) The party initiating the dispute (the first party) must provide written notice of the dispute to the board and to any other party to the dispute, and nominate in that notice the details of any representative for the first party for the negotiations. The board and any other party notified must, within 7 days of receipt of the notice, give written notice to the first party naming its representative for the negotiations. Each representative nominated has authority to settle or resolve the dispute.
 (10.4) If the parties to the dispute are unable to resolve the dispute by discussion and negotiation between themselves within 30 working days after the date of the written notice from the first party, then the parties may refer the matter to mediation if they mutually agree to do so. Such mediation must be conducted on such terms and conditions as the board and the other parties mutually agree.
 (10.5) If the members and parties to the dispute are unable to resolve the matter by discussion and negotiation and do not wish to proceed to a mediation, the dispute must be referred to an Annual General Meeting for further discussion and negotiation or, if the requirements of clause 1.3 of Appendix 4 are met, the dispute must be referred to a Special General Meeting. If the dispute is not resolved at an Annual General Meeting or Special General Meeting, the board, members, or any party to the dispute may apply to any court with jurisdiction for such intervention or orders as may be necessary.
-(10.6) The provisions of this clause do not derogate from the rights or obligations of the trust or any beneficiary pursuant to the Trustee Act 1956 or any other act or provision of law or equity.
+(10.6) The provisions of this clause do not derogate from the rights or obligations of the trust or any beneficiary pursuant to the Trusts Act 2019 or any other act or provision of law or equity.
 
 ### 11 Execution of documents
 Contracts and documents
@@ -639,7 +639,7 @@ Contracts and documents
   (d) the board must not place a special resolution before the beneficiaries to amend this constitution until professional advice has been obtained confirming that the proposed amendment does not purport to alter the purpose of the trust or conflict with the Act or any other applicable legislation.
 (13.2) Notwithstanding clause 13.1, any amendment, revocation, or addition to this constitution may be made without a special resolution, provided that the amendment, revocation, or addition is made to—
   (a) correct a minor mistake in this constitution, provided the correction will not materially change the effect of the relevant provision or provisions of the constitution; or
-  (b) give effect to the Act or any other legislation affecting the operation of the trust (such as the Trustee Act 1956 and Te Ture Whenua Maori Act 1993), provided that the amendment, revocation, or addition to this constitution will not materially change the meaning or effect of the relevant clause or clauses of this constitution; and
+  (b) give effect to the Act or any other legislation affecting the operation of the trust (such as the Trusts Act 2019 and Te Ture Whenua Maori Act 1993), provided that the amendment, revocation, or addition to this constitution will not materially change the meaning or effect of the relevant clause or clauses of this constitution; and
   (c) the beneficiaries are subsequently notified of that amendment, revocation, or addition.
 (13.3) The board must keep a record of any amendments made to this constitution in accordance with this clause, including records of any special resolution and notification to beneficiaries.
 
