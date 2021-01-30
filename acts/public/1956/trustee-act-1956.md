@@ -1,5 +1,5 @@
 # Trustee Act 1956
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2021-01-30_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to trusts and trustees
 
