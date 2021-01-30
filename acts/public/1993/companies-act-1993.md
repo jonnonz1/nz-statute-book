@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2020-12-24_
+_Consolidation as at 2021-01-30_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -5645,7 +5645,7 @@ The variation or revocation of a declaration under section 310K does not affect 
 ### 316 Establishment of Liquidation Surplus Account
 (1) Money representing unclaimed assets of a company standing to the credit of a liquidator shall, after completion of the liquidation, be paid to Public Trust.
 (2) At the expiration of a period of 12 months after the date on which the money is paid, Public Trust must, after deduction of any amount required to meet the claim of any person which is established within that period, pay the balance into an account entitled the Liquidation Surplus Account for distribution in accordance with this section.
-(3) Money held in the Liquidation Surplus Account may be invested in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds. Interest on any investment must be distributed in accordance with this section.
+(3) Money held in the Liquidation Surplus Account may be invested in accordance with the Trusts Act 2019, and interest on any investment must be distributed in accordance with this section.
 (4) Money held in the Liquidation Surplus Account may be—
   (a) paid or distributed to any person entitled to payment or distribution in the liquidation of a company any money representing the surplus assets of which has been credited to the Account; or
   (b) paid, subject to such conditions as the Official Assignee for New Zealand may impose, in meeting the claims of the creditors of a company in the liquidation of which the Official Assignee or any other person is the liquidator, for payment of the costs of proceedings in the liquidation after the commencement of the liquidation, legal or other expert advice, or the costs of any expert witness, where the Official Assignee for New Zealand is satisfied that it is fair and reasonable for those costs to be met out of the Account.
