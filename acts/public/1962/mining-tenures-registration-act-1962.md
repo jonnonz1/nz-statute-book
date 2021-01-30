@@ -1,5 +1,5 @@
 # Mining Tenures Registration Act 1962
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2021-01-30_
 
 > An Act to provide for the registration under the Land Transfer Act 1952 of residence site and business site licences, certain special site licences, and leases of land in mining districts, and for matters incidental thereto
 
@@ -52,7 +52,7 @@ _Consolidation as at 2018-11-12_
   (a) in the case of a licence of unalienated Crown land (not being Maori ceded land), be served by the Mining Registrar on the Commissioner of Crown Lands, on the person in occupation of the land or of any part thereof, and also on such other persons and in such manner as the Warden directs:
   (b) in the case of a licence of other land, be served by the Mining Registrar on the person in occupation of the land or of any part thereof and also on such other persons and in such manner as the Warden directs.
 (6) Without limiting the powers of the Warden to make any order under subsection (2), the Warden may under that subsection grant a new licence to any person occupying the whole or part of the land comprised in an existing licence, if he is satisfied that—
-  (a) the occupier would, if the land were freehold land subject to the Land Transfer Act 2017, be entitled if application were made under the Trustee Act 1956 to an order vesting in him the whole or part of the land; or
+  (a) the occupier would, if the land were freehold land subject to the Land Transfer Act 2017, be entitled if application were made under the Trusts Act 2019 to an order vesting in him the whole or part of the land; or
   (b) the occupier had been in possession of the land comprised in the licence, or part of that land, as the case may be, for a period of not less than 12 years and that his possession had been adverse to the title of the registered licensee; or
   (c) it is just and equitable on any ground whatsoever that a licence be granted to the occupier of the whole or part of the land.
 (7) On any application to the Warden under subsection (1), the Warden may receive as evidence any statement, document, information, or matter that may in his opinion assist him to deal effectually with the application, whether or not the same would be otherwise admissible in a court of law.
