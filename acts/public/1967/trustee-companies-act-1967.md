@@ -1,5 +1,5 @@
 # Trustee Companies Act 1967
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2021-01-30_
 
 > An Act to make better provision for the operation of trustee companies
 
@@ -29,7 +29,7 @@ In this Act, unless the context otherwise requires,—
   - **secretary** ,—
     (a) in relation to a trustee company that also carries on business other than trust business as empowered by this Act, means the secretary of the trust department of the company:
     (b) in relation to any other trustee company, means the secretary of the company
-  - **trust** and have the meanings specified in the Trustee Act 1956
+  - **trustee** has the meaning given in section 9 of the Trusts Act 2019
   - **trustee company** means any of the following companies, namely, Trustees Executors Limited, AMP Perpetual Trustee Company N.Z. Limited, PGG Trust Limited, New Zealand Permanent Trustees Limited, and The New Zealand Guardian Trust Company Limited
   - **trustee company Act** means any of the following Acts, namely, the Trustees Executors Limited Act 2002, the Guardian, Trust, and Executors Company Act 1883, the AMP Perpetual Trustee Company Act 1988, the New Zealand Insurance Company Trust Act 1916, the PGG Trust Limited Act 1989, the New Zealand Permanent Trustees Limited Act 1991, and the New Zealand Guardian Trust Company Act 1982.
 
@@ -38,7 +38,7 @@ In this Act, unless the context otherwise requires,—
 ### 3 Application of other Acts
 Every trustee company shall be deemed to be—
   (a)
-  (b) a trustee corporation for the purposes of the Trustee Act 1956.
+  (b) a statutory trustee for the purposes of the Trusts Act 2019.
 
 ### 4 Grant of letters of administration to trustee company
 (1) Any trustee company may apply for and obtain administration in respect of a deceased person, either with or without the will annexed, and may perform and discharge all other acts and duties of an administrator as fully and effectually as a private individual may do when granted letters of administration.
@@ -77,7 +77,7 @@ In every case in which any trustee company is empowered to apply for administrat
   (n) arbitrator or umpire for the purposes of the Arbitration Act 1908 or pursuant to any submission to arbitration by parties to any dispute:
   (o)
   (p) supervisor (as defined in section 4(1) of the Financial Markets Supervisors Act 2011) in respect of a financial product or scheme the supervision of which is covered by the trustee company's licence under that Act:
-  (q) custodian trustee under section 50 of the Trustee Act 1956:
+  (q) custodian under section 67 of the Trusts Act 2019:
   (r) share or debenture or note registrar for any company carrying on business in New Zealand:
   (s) trustee or assignee for the benefit of creditors:
   (t) trustee under subpart 2 of Part 5 of the Insolvency Act 2006:
@@ -118,7 +118,7 @@ Where by any power of attorney any trustee company is appointed attorney by any 
 
 ### 15 Administration by trustee company of benefit fund
 (1) In any case where a fund is raised by public or private subscriptions for the benefit or relief of any person or class of persons, the following provisions shall apply:
-  (a) the fund may be placed with any trustee company to be administered by the company and to be invested in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds:
+  (a) the fund may be placed with any trustee company to be administered by the company and to be invested in accordance with the Trusts Act 2019:
   (b) the company may recognise as a committee any persons whom it believes to have organised the appeal for the subscriptions or to have been appointed or authorised or recognised as a committee by a substantial number of the subscribers:
   (c) the company, after conferring with the committee, if any, may apply to the High Court for directions as to the administration of the fund, and for that purpose shall submit a scheme of administration:
   (d) the court may approve the scheme, with or without modification, as the court thinks fit:
@@ -222,7 +222,7 @@ Where any trustee company is realising the goods, chattels, and effects of any e
 (1) A trustee company may from time to time establish and keep in its books 1 or more Funds, each of which shall be called a Group Investment Fund. Where more than 1 Group Investment Fund is so established, each such Fund shall be given an appropriate distinguishing number.
 (2) All funds forming part of any Group Investment Fund shall be invested, as the company which establishes the Group Investment Fund determines at the time when the Fund is established,—
   (a) in any class or classes of investments authorised by the instrument (if any) creating the trust under which the funds are held; or
-  (b) in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds.
+  (b) in accordance with the Trusts Act 2019.
 (3) Subject to the provisions of this section, a trustee company may invest any trust funds in its possession, whether at the time in a state of investment or not, whether they came into its possession before or after the commencement of this Act, whether the trust estate to which they belong is under administration by the trustee company or by any other trustee or trustees, and whether they comprise the whole or part of that trust estate, either—
   (a) on a separate account in respect of the trust estate to which the funds belong; or
   (b) if the funds are not directed to be invested in some other specified manner and investment in a Group Investment Fund is not inconsistent with the terms of the trust instrument (if any) governing the funds, as part of any Group Investment Fund established and kept in the books of the company.
@@ -279,7 +279,7 @@ The trustee company which establishes a Group Investment Fund shall—
 
 ### 33 Powers of trustee company in respect of Funds
 Subject to the provisions of this Part, a trustee company may exercise in respect of the investments and funds comprising a Group Investment Fund—
-  (a) all the powers which it could exercise under the Trustee Act 1956 if the investments and funds were trust property not forming part of a Group Investment Fund:
+  (a) all the powers which it could exercise under the Trusts Act 2019 if the investments and funds were trust property not forming part of a Group Investment Fund:
   (b) such further powers as may be conferred on the company by the court, being powers which could be conferred on the company by the court if the investments and funds were trust property not forming part of a Group Investment Fund.
 
 ### 33B Powers of trustee company or manager to adjust interest in trust property of Fund that is portfolio investment entity
@@ -291,8 +291,14 @@ Where any investments and funds comprising a Group Investment Fund are employed 
 (3) In this section, regulated offer and managed investment products have the same meanings as in section 6(1) of the Financial Markets Conduct Act 2013.
 
 ### 34 Examination of Group Investment Funds
-The provisions of section 83A of the Trustee Act 1956 (which section was enacted by section 10 of the Trustee Amendment Act 1957) shall apply to every Group Investment Fund as if it were a trust estate:
-  provided that any examination made under that section shall be restricted to an examination of the investments and funds comprising the Group Investment Fund, and the income of the Fund, and the expenses payable out of the Fund, and the proportion to which the person who required the examination, or the estate in which he is a beneficiary, is entitled; and access to the company's books and vouchers shall be restricted accordingly.
+(1) A solicitor or an accountant authorised in writing by an interested person is entitled to examine at any reasonable time the accounts, books, and vouchers of the Group Investment Fund that relate to—
+  (a) the investments and funds comprising the Group Investment Fund; and
+  (b) the income of the fund; and
+  (c) the expenses and management fees payable out of the fund; and
+  (d) the proportion to which the person who required the examination, or the estate in which the person is a beneficiary, is entitled.
+(2) In this section, interested person means a person who has—
+  (a) an entitlement in the Group Investment Fund; or
+  (b) an interest in an estate that has an entitlement in the fund.
 
 ### 35 Duties, etc, of trustee companies not affected by this Part of Act
 Except as otherwise expressly provided in this Part, nothing in this Part shall affect the rights, powers, and duties of trustee companies.
