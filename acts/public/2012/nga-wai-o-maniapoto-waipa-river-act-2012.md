@@ -1,5 +1,5 @@
 # Nga Wai o Maniapoto (Waipa River) Act 2012
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-01-30_
 
 ## Preamble
 Ā muri kia mau ki te kawau mārō. Whanake ake, whanake ake
@@ -535,11 +535,11 @@ The provisions of this Act relating to joint management agreements do not preclu
 (2) The accords must be added as schedules to the Waiwaia Accord.
 (3) The terms of an accord may be varied by agreement between the parties in accordance with the accord's terms.
 
-### 34 Rule against perpetuities
-(1) Neither the rule against perpetuities nor the Perpetuities Act 1964 prescribes or restricts the period during which—
+### 34 Limit on duration of trusts does not apply
+(1) No rule of law or provisions of an Act, including section 11 of the Trusts Act 2019, prescribe or restrict the period during which—
   (a) the Trust and the Waikato River Clean-up Trust may exist in law; or
   (b) the trustees of the Trust and the Waikato River Clean-up Trust may hold or deal with property or income from property in their capacity as trustees.
-(2) Neither the rule against perpetuities nor the Perpetuities Act 1964 applies to a document entered into to give effect to the deed if the application of the rule or the Act would make the document invalid or ineffective or a right conferred by the document invalid or ineffective.
+(2) No rule of law or provisions of an Act, including section 16 of the Trusts Act 2019, apply to a document entered into to give effect to the deed if the application of that provision would make the document invalid or ineffective or a right conferred by the document invalid or ineffective.
 
 ### 35 Trust: public body and public authority
 (1) The Trust is a public body for the purposes of clause 30 of Schedule 7 of the Local Government Act 2002.
