@@ -1,5 +1,5 @@
 # Te Awa Tupua (Whanganui River Claims Settlement) Act 2017
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017.
@@ -1147,13 +1147,13 @@ In sections 84 to 86,—
 
 **Miscellaneous matters**
 
-### 90 Rule against perpetuities does not apply
-(1) The rule against perpetuities and the provisions of the Perpetuities Act 1964—
+### 90 Limit on duration of trusts does not apply
+(1) A limit on the duration of a trust in any rule of law, and a limit in the provisions of any Act, including section 16 of the Trusts Act 2019,—
   (a) do not prescribe or restrict the period during which—
     (i) Ngā Tāngata Tiaki o Whanganui may exist in law; or
     (ii) the trustees may hold or deal with property or income derived from property; and
   (b) do not apply to a document entered into to give effect to the deed of settlement if the application of that rule or the provisions of that Act would otherwise make the document, or a right conferred by the document, invalid or ineffective.
-(2) However, if Ngā Tāngata Tiaki o Whanganui is, or becomes, a charitable trust, the application (if any) of the rule against perpetuities or of any provision of the Perpetuities Act 1964 to that trust must be determined under the general law.
+(2) However, if Ngā Tāngata Tiaki o Whanganui is, or becomes, a charitable trust, the trust may continue indefinitely under section 16(6)﻿(a) of the Trusts Act 2019.
 
 ### 91 Access to deed of settlement
 The chief executive of the Ministry of Justice must make copies of the deed of settlement available—
