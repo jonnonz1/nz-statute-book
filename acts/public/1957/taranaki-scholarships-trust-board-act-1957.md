@@ -1,5 +1,5 @@
 # Taranaki Scholarships Trust Board Act 1957
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-01-30_
 
 > An Act to incorporate the Taranaki Scholarships Trust Board, and to provide for the administration of the Taranaki Scholarships endowment and the award of scholarships
 
@@ -130,8 +130,8 @@ For the purpose of assisting post-graduate studies of graduates of any Universit
 ### 16 Powers of Board
 (1) In exercising its powers, duties, and functions under this Act, the Board shall have the following powers:
   (a) to engage and employ on such terms and conditions as it thinks fit such servants and agents as it from time to time thinks fit on such terms and conditions as to remuneration and otherwise as it thinks fit; and from time to time to terminate any such engagement or employment and to vary the terms and conditions thereof:
-  (b) to invest such part as it thinks fit of any funds for the time being vested in the Board in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds, and from time to time to realise, alter, or vary any such investments:
-  (c) subject to the terms of any instrument creating a trust affecting the same, to sell or lease or let any real or personal property for the time being vested in the Board; and to apply the proceeds of sale either immediately or at any time thereafter either in the purchase of other property or in any investment authorised by paragraph (b):
+  (b) to invest such part as it thinks fit of any funds for the time being vested in the Board in accordance with the Trusts Act 2019, and from time to time to realise, alter, or vary any such investments:
+  (c) subject to the terms of any instrument creating a trust affecting the same, to sell or lease or let any real or personal property for the time being vested in the Board; and to apply the proceeds of sale either immediately or at any time thereafter either in the purchase of other property or in any investment under paragraph (b):
   (d) to take on lease or as a tenant any premises for the time being required by the Board for the exercise of its powers, duties, and functions under this Act:
   (e) to acquire such furniture, equipment, and other chattels as may from time to time be required by the Board for the exercise of its powers, duties, and functions under this Act; and to dispose of the same:
   (f) to manage, develop, subdivide, and improve any land for the time being vested in it under this Act; and do all things necessary for any such purpose:
