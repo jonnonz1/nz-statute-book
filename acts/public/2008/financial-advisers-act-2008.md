@@ -1,5 +1,5 @@
 # Financial Advisers Act 2008
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Financial Advisers Act 2008.
@@ -1264,6 +1264,21 @@ Disclosure under a disclosure obligation must not be misleading, deceptive, or c
   (b) is not liable to be attached or taken in execution under the order or process of any court at the instance of another creditor of the broker.
 (2) Nothing in section 77S or this section takes away or affects any lawful lien or claim that a broker who holds client money or client property has against the client money or client property.
 
+**Application of Trusts Act 2019**
+
+### 77TA Application of Trusts Act 2019
+(1) This section applies to a trust constituted (or to be constituted) for the purposes of section 77P.
+(2) The following provisions of the Trusts Act 2019 do not apply to a trust referred to in subsection (1):
+  (a) section 29 (general duty of care):
+  (b) section 39 (adviser must alert settlor to modification or exclusion of default duty):
+  (c) sections 45 to 48 (documents to be kept by trustees):
+  (d) sections 49 to 55 (giving information to beneficiaries):
+  (e) section 56 (general powers of trustee):
+  (f) section 72 (trustee’s liability for acts of delegate limited):
+  (g) sections 81 to 85 (trustees’ indemnities):
+  (h) sections 142 to 148 (alternative dispute resolution):
+  (i) sections 153 to 158 (investigation of condition and accounts of certain trust property).
+
 **Persons acting in course of business of employers or principals**
 
 ### 77U Who is responsible for broker obligations
@@ -2062,6 +2077,7 @@ A provision that is implied into an agreement by the regulations—
     (ii) provisions regulating the keeping, retention, reconciliation, inspection, and audit or review of trust account records and other records and procedures of brokers:
     (iii) any other requirements necessary or desirable to ensure that trust accounts are duly kept and that persons on whose behalf client money and client property are held by brokers are informed of the client money and client property held and of the transactions made in connection with it (including prescribing what confirmation information must be made available and to whom, when, where, and how it must be provided, and any other matters for the purposes of section 77RA):
     (iv) provisions regulating the delivery of client money or client property to the person on whose behalf they are held, and other steps to be taken or provisions to apply, in connection with the termination of any broking service:
+  (la) providing that specified provisions of the Trusts Act 2019 do not apply to a trust, or class of trusts, that are or will be regulated by or under this Act:
   (m) prescribing the form of an application for authorisation:
   (n) prescribing the form of an application for the grant of QFE status:
   (o) prescribing information that must be contained in a QFE's annual report:
@@ -2077,6 +2093,9 @@ A provision that is implied into an agreement by the regulations—
   (a) the regulations are consistent with the purposes of the Act; and
   (b) the costs of compliance with the provision or provisions to which the regulations relate would be unreasonable or not justified by the benefit of compliance; and
   (c) the extent of the exemption, or the extent to which requirements are disapplied, under the regulations is not broader than what is reasonably necessary to address the matters that gave rise to the regulations.
+(5A) The Minister must not recommend the making of regulations under subsection (1)﻿(la) unless the Minister has had regard to the purpose of the Trusts Act 2019 and is satisfied that—
+  (a) the regulations are consistent with the purposes of this Act; and
+  (b) the extent to which the Trusts Act 2019 is disapplied is not broader than is reasonably necessary to address the matters that gave rise to the regulations.
 (6) The Minister must not recommend the making of regulations under paragraph (r) or (s) of subsection (1) unless the Minister is satisfied that the regulations—
   (a) are necessary or desirable for the orderly implementation of this Act or the Financial Service Providers (Registration and Dispute Resolution) Act 2008; and
   (b) are consistent with the purposes of this Act or of the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
