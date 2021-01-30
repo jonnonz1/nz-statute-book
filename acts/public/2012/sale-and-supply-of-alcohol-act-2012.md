@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -289,8 +289,8 @@ On any premises an on-licence (other than an on-licence endorsed under section 3
 ### 15 On-licences: BYO restaurants
 On any premises an on-licence endorsed under section 37 is held for (the restaurant), the licensee—
   (a) can—
-    (i) let any person who is in the restaurant to dine to consume any alcohol brought there by that person or by any other person who is there to dine with him or her; and
-    (ii) let the person who brought the alcohol there to remove any of it from the restaurant if the container it is in is sealed or resealed; and
+    (i) let any person who is in the restaurant to dine consume any alcohol brought there by that person or by any other person who is there to dine with him or her; and
+    (ii) let the person who brought the alcohol there remove any of it from the restaurant if the container it is in is sealed or resealed; and
   (b) can sell and supply, for consumption in the restaurant by any person who is there to dine, any food or hot drink containing not more than 14.33% alcohol by volume; and
   (c) can let people consume alcohol.
 
@@ -362,7 +362,7 @@ A licence of a particular kind cannot be issued to a person who is not empowered
   (f) a partnership each member of which is a person, body corporate, company, board, organisation, body, trust, or partnership, of a kind referred to in any of paragraphs (a) to (e); or
   (g) a department of State or other instrument of the Crown; or
   (h) a territorial authority (whether or not expressly authorised by an enactment other than this Act to hold a licence); or
-  (i) a trustee within the meaning of the Trustee Act 1956.
+  (i) a trustee within the meaning of the Trusts Act 2019.
 (2) A manager acting for a person pursuant to a property order made under the Protection of Personal and Property Rights Act 1988 can hold an on-licence, an off-licence, a special licence, or licences of 2 or all of those kinds, if the order authorises the manager to do so.
 (3) A club can hold a special licence.
 (4) A club can hold an off-licence if it has continuously held an off-licence since before the commencement of this section.
@@ -3478,8 +3478,8 @@ Two or more community trusts may be amalgamated into 1 new trust in accordance w
   (a) a community trust and the licensing trust that was converted into the community trust are, in relation to all assets and liabilities that, by this Act, become the assets and liabilities of the community trust, treated as the same person:
   (b) all transactions entered into by, and all acts of, a licensing trust before conversion to a community trust, in relation to all assets and liabilities that, by this Act, become assets and liabilities of the community trust, are treated as having been entered into or performed by the community trust on the date on which they were entered into or performed by the licensing trust.
 
-### 394 Application of Trustee Act 1956
-The Trustee Act 1956 applies to a community trust.
+### 394 Application of Trusts Act 2019
+The Trusts Act 2019 applies to a community trust.
 
 ### 395 Application of Local Authorities (Members' Interests) Act 1968
 For the purposes of the Local Authorities (Members' Interests) Act 1968, a community trust is treated as if it were a territorial authority and that Act applies accordingly.
