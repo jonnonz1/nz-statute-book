@@ -1,5 +1,5 @@
 # Te Uri o Hau Claims Settlement Act 2002
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-01-30_
 
 ## Preamble
 (1) The Treaty of Waitangi is set out, in Maori and English, in Schedule 1:
@@ -65,7 +65,7 @@ This Act binds the Crown.
   (a) the effect of the settlement on the jurisdiction of the Waitangi Tribunal to consider claims; and
   (b) the effect of the settlement on certain resumptive memorials; and
   (c) who benefits from the settlement; and
-  (d) the exclusion of the law against perpetuities.
+  (d) the exclusion of the limit on the duration of a trust.
 (5) Part 4 vests in Te Uri o Hau governance entity the following properties:
   (a) part of Pukekaroro scenic reserve, subject to a protected private land agreement:
   (b) part of Pukeareinga scenic reserve, subject to a conservation covenant:
@@ -259,8 +259,8 @@ In this Act, unless the context otherwise requires,—
   (b) cancel each memorial that, under any of the enactments referred to in section 19(2), is entered on a certificate of title or computer register identified in the certificate.
 (4) Subsection (3) does not require the Registrar-General to note any duplicate certificate of title.
 
-### 21 Rule against perpetuities does not apply
-The rule against perpetuities or any relevant provisions of the Perpetuities Act 1964 do not—
+### 21 Limit on duration of trusts does not apply
+No rule of law or provisions of an Act limiting the duration of a trust, including section 16 of the Trusts Act 2019,—
   (a) apply to any document entered into to give effect to the deed of settlement, if the application of that rule or the provisions of that Act would otherwise make the document invalid or ineffective; or
   (b) prescribe or restrict the period during which Te Uri o Hau governance entity—
     (i) may exist in law; or
