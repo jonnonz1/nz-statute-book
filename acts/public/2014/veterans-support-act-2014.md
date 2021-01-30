@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2020-11-09_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -2507,11 +2507,10 @@ VANZ must provide the resources and administrative support necessary to enable t
 (5) The Defence Force must ensure that the fund’s annual report is included in the annual report prepared by the Defence Force in accordance with section 43(1) of the Public Finance Act 1989.
 (6) The fund’s financial statements and annual report are to be treated, for the purposes of sections 43(2), 44, and 45D of the Public Finance Act 1989, as if they are part of the Defence Force’s financial statements and annual report.
 
-### 263 Capital to be invested in accordance with Trustee Act 1956
-(1) Any money, being capital of the fund, held by the Crown may be invested, but only in accordance with the Trustee Act 1956.
-(2) However, VANZ is not obliged to convert any securities that are gifted to the fund and that are not securities in which VANZ may invest money under subsection (1).
-(3) VANZ may invest any income of the fund in any manner authorised for the investment of capital under subsection (1).
-(4) If at any time the income of the fund is insufficient for the purposes of section 261, VANZ may, to the extent of the insufficiency, use the capital of the fund for those purposes.
+### 263 Investment of capital and income
+(1) Any money that is capital of the fund held by the Crown may be invested in accordance with the Trusts Act 2019.
+(2) VANZ may invest income of the fund in accordance with the Trusts Act 2019.
+(3) If at any time the income of the fund is insufficient for the purposes of section 261, VANZ may, to the extent of the insufficiency, use the capital of the fund for those purposes.
 
 ## Part 9 — Miscellaneous
 
