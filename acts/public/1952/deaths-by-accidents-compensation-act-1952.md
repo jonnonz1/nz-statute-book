@@ -1,5 +1,5 @@
 # Deaths by Accidents Compensation Act 1952
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2021-01-30_
 
 > An Act to consolidate and amend certain enactments relating to actions for damages on behalf of the families of persons killed by accident
 
@@ -89,7 +89,7 @@ Where any amount is to be held on trust as a class fund for any dependants under
 
 ### 16 Power of court to authorize advances, etc
 (1) The court may from time to time, at its discretion, authorize moneys to be advanced to any dependant (whether by way of loan or otherwise) as it thinks fit, and upon or subject to such conditions as it thinks fit, out of the damages or out of any amounts allotted to other dependants or out of any amount held on trust as a class fund, for any purpose that the court thinks proper in the interests of the dependants or any of them. Without limiting the generality of this subsection, it is hereby declared that any such advance may be made for the purpose of purchasing or otherwise acquiring a residential property for the use of the dependant either alone or in conjunction with any other dependants, or for the purpose of repaying any moneys secured by way of mortgage or otherwise on any residential property owned by the dependant and so used, or for the purpose of furnishing any such residential property. Where moneys are advanced by way of loan, the court may give such directions as it thinks fit in respect of the security to be taken, and may either prescribe the conditions upon or subject to which the moneys are to be advanced or authorize the trustee to prescribe the conditions at his discretion. The conditions may include power to the trustee to remit interest and principal moneys or any part thereof to the extent of the amount or value of any maintenance, education, advancement, or benefit which the dependant to whom the moneys are advanced may provide for any other dependants.
-(2) The court may exercise any power under section 64 of the Trustee Act 1956 (which relates to dealings with trust property) either on the creation of any trust under any of the provisions of this Part or from time to time during the continuance of any such trust.
+(2) The court may exercise any power under section 130 of the Trusts Act 2019 (which relates to variation or extension of trustees’ powers in relation to property) either on the creation of any trust under any of the provisions of this Part or from time to time during the continuance of any such trust.
 
 ### 17 Variation of orders
 The court may at any time vary any order made by it either before or after the commencement of this Act in respect of damages which have been recovered (either in an action or without an action being brought) under this Act or under the corresponding provisions of any former Act and in respect of the income therefrom so far as the damages and income are for the time being in the hands of a trustee as aforesaid or in the hands of Public Trust or any other trustee under Part 9A of the Protection of Personal and Property Rights Act 1988 or sections 103 to 110 of the Contract and Commercial Law Act 2017.
