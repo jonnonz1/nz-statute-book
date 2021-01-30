@@ -1,5 +1,5 @@
 # Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-01-30_
 
 ## Preamble
 (1) The iwi and hapū constituting the collective known as Ngā Mana Whenua o Tāmaki Makaurau have claims to Tāmaki Makaurau based on historical breaches of the Treaty of Waitangi (Te Tiriti o Waitangi) by the Crown:
@@ -54,7 +54,7 @@ This Act binds the Crown.
   (f) provides—
     (i) that certain enactments do not apply to certain land transferred by or under this Act or the collective deed; and
     (ii) for the removal of certain memorials from certain land transferred by or under this Act or the collective deed; and
-    (iii) for the exclusion of the law against perpetuities; and
+    (iii) for the exclusion of the limit on the duration of a trust; and
     (iv) for access to the collective deed.
 (3) Part 2 provides for cultural redress and comprises a section and 12 subparts, as follows:
   (a) section 17 provides an acknowledgement by the Crown of the statements of association of the iwi and hapū of Ngā Mana Whenua o Tāmaki Makaurau:
@@ -235,7 +235,7 @@ In this Act, unless the context requires another meaning, maunga means—
 (1) No court, tribunal, or other judicial body has jurisdiction (including the jurisdiction to inquire or further inquire or to make a finding or recommendation) in respect of any matter that arises from the application of Te Ture Whenua Maori Act 1993 if the matter relates to—
   (a) 1 or more of the maunga; or
   (b) 1 or more of the Rangitoto Island properties; or
-  (c) RFR land (other than land subject to an application under section 41(e) of the Public Works Act 1981); or
+  (c) RFR land (other than land subject to an application under section 41(1)﻿(e) of the Public Works Act 1981); or
   (d) land transferred to any of the following persons as the result of a contract formed under section 127 while the land remains in the ownership of the person:
     (i) the Limited Partnership or a nominee of the Limited Partnership:
     (ii) a rōpū entity or a nominee of the rōpū entity:
@@ -281,13 +281,13 @@ In this Act, unless the context requires another meaning, maunga means—
   (a) register the certificate against each computer register or certificate of title identified in the certificate; and
   (b) remove each resumptive memorial recorded under an enactment listed in section 13(2) from each computer register or certificate of title identified in the certificate, but only in respect of each allotment described in the certificate.
 
-### 15 Rule against perpetuities does not apply
-(1) The rule against perpetuities and the provisions of the Perpetuities Act 1964 do not—
+### 15 Limit on duration of trusts does not apply
+(1) No rule of law or provisions of an Act limiting the duration of a trust, including section 16 of the Trusts Act 2019,—
   (a) prescribe or restrict the period during which—
     (i) the Tūpuna Taonga o Tāmaki Makaurau Trust may exist in law; or
     (ii) the trustee may hold or deal with property or income derived from property; or
   (b) apply to a document entered into to give effect to the collective deed if the application of that rule or the provisions of that Act would otherwise make the document, or a right conferred by the document, invalid or ineffective.
-(2) However, if the Tūpuna Taonga o Tāmaki Makaurau Trust is, or becomes, a charitable trust, the application (if any) of the rule against perpetuities or any provision of the Perpetuities Act 1964 to that trust must be determined under the general law.
+(2) However, if the Tūpuna Taonga o Tāmaki Makaurau Trust is, or becomes, a charitable trust, the trust may continue indefinitely under section 16(6)﻿(a) of the Trusts Act 2019.
 
 ### 16 Access to collective deed
 The chief executive of the Ministry of Justice must make copies of the collective deed available—
@@ -1598,7 +1598,7 @@ An RFR landowner may dispose of RFR land in accordance with—
   (c) section 117(3)﻿(a) of the Public Works Act 1981; or
   (d) section 117(3)﻿(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
   (e) section 23(1) or (4), 24(4), or 26 of the New Zealand Railways Corporation Restructuring Act 1990.
-(2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under section 134 of Te Ture Whenua Maori Act 1993 after an application by an RFR landowner under section 41(e) of the Public Works Act 1981.
+(2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under section 134 of Te Ture Whenua Maori Act 1993 after an application by an RFR landowner under section 41(1)﻿(e) of the Public Works Act 1981.
 
 ### 135 Disposals for reserve or conservation purposes
 An RFR landowner may dispose of RFR land in accordance with—
