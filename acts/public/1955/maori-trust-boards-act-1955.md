@@ -1,5 +1,5 @@
 # Maori Trust Boards Act 1955
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-01-30_
 
 > An Act to make better provision for the administration of certain Maori Trust Boards
 
@@ -264,7 +264,7 @@ A Board may contract to provide administrative, secretarial, accounting, or othe
 In any case where a Board grants a loan to any person, it shall take such security and fix such terms and conditions in respect of the loan, and for the repayment of the principal sum and for the payment of interest thereon, as the Board decides at the time of the granting of the loan.
 
 ### 25A Powers of Maori Trust Boards
-Any Board may from time to time, in its discretion, invest any of its funds not required for other purposes in any securities in which trust funds may be invested by trustees in accordance with the Trustee Act 1956.
+Any Board may from time to time, in its discretion, invest any of its funds not required for other purposes in accordance with the Trusts Act 2019.
 
 ### 26 Power to acquire lands and to farm
 (1) Each Board may acquire any land or any interest in land, whether by way of purchase, lease, or otherwise and may sell, lease, sublease, or otherwise dispose of any such land or interest.
