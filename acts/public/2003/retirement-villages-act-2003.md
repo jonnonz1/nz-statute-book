@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-01-30_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
@@ -1156,6 +1156,12 @@ If a deed of participation relating to the supervision of a retirement village t
 ### 105 Regulations prescribing criteria for exemptions under section 93
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing criteria for the grant of exemptions under section 93 (which relates to the grant of exemptions from the requirement to comply with a provision or provisions of the code of practice).
 (2) The Minister must not recommend the making of an Order in Council under subsection (1) unless, in the opinion of the Minister, the regulations will enable the grant of an exemption from the requirement to comply with a provision or provisions of the code of practice only in circumstances where compliance with the provision or provisions that are the subject of the exemption is unnecessary for the protection of residents' interests or undesirable.
+
+### 105A Regulations exempting from provisions of Trusts Act 2019
+(1) The Governor-General may, by Order in Council, make regulations exempting any trust, trustee, statutory supervisor, operator, or other person, or any class of trust or person, from the application of any provision or provisions of the Trusts Act 2019 and prescribing the terms and conditions (if any) of the exemption.
+(2) Regulations may only be made under this section on the recommendation of the Minister, and the Minister may make a recommendation only if satisfied that—
+  (a) the application of the provision or provisions of the Trusts Act 2019 would, in the circumstances, be unnecessary in respect of the trust or class of trust, or would require the trustee, statutory supervisor, operator, or other person or class of person to comply with requirements that were unduly onerous or burdensome; and
+  (b) having regard to the purpose and principles of the Trusts Act 2019 and the purpose of this Act, the extent to which the application of the provisions of the Trusts Act 2019 is disapplied is not broader than is reasonably necessary to address the matters that gave rise to the regulations.
 
 ### 106 Notices
 (1) Any notice under this Act may be given to any person by delivering it to that person either personally or by leaving it at, or sending it to, the person's last known or usual place of residence or business.
