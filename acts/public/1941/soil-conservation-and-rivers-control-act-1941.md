@@ -1,5 +1,5 @@
 # Soil Conservation and Rivers Control Act 1941
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2021-01-30_
 
 > An Act to make provision for the conservation of soil resources and for the prevention of damage by erosion, and to make better provision with respect to the protection of property from damage by floods
 
@@ -736,7 +736,7 @@ It shall be lawful for any Board from time to time to enter into contracts of in
 ### 120 Establishment of renewal or replacement funds
 (1) Any Board may from time to time set aside any moneys to form a fund or funds for the repair, renewal, replacement, or improvement of any property, plant, fixtures, or appliances of the Board, or for the purpose of purchasing or paying for additional property, plant, fixtures, or appliances of the class for which the fund or funds is or are established.
 (2) The moneys so set aside and any other moneys payable into the fund or funds shall be paid into a separate bank account in the name of the Board.
-(3) The Board may from time to time apply the money forming the fund or funds only to the purposes aforesaid, or any of them, and the Board, until the money is required for any of those purposes, may invest any of the money in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds.
+(3) The Board may from time to time apply the money forming the fund or funds only to the purposes aforesaid, or any of them, and the Board, until the money is required for any of those purposes, may invest any of the money in accordance with the Trusts Act 2019.
 (4) For the purposes of this section the property of a Board shall include every work and the results of every operation that is wholly or partly paid for by a Board, whether or not the Board has any estate or interest in the land on which the works exist or on which the operation has been undertaken.
 
 ### 121 Yearly statement of financial position and statements
