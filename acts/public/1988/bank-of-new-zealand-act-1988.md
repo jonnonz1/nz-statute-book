@@ -1,5 +1,5 @@
 # Bank of New Zealand Act 1988
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-01-30_
 
 > An Act to enable Bank of New Zealand to be constituted as a company incorporated and registered under the Companies Act 1955 and to repeal the Bank of New Zealand Act 1979
 
@@ -79,7 +79,7 @@ On and after the appointed day the Crown shall not be liable to contribute towar
 The person or persons holding office as the auditors of the Bank immediately before the appointed day shall continue to hold that office on and after the appointed day and until the conclusion of the next annual general meeting of the Bank after the appointed day as if appointed to that office under section 163(1) of the Act.
 
 ### 11 Trustee investment
-On and after the appointed day shares in the capital of the Bank shall, for the purposes of the Trustee Act 1956, be investments in which a trustee may invest trust funds.
+[Repealed]
 
 ### 12 Status of directors and employees of Bank
 No person shall be deemed, on or after the appointed day, to be employed in the Government service for the purposes of the Government Superannuation Fund Act 1956 or in the public service for the purposes of the Public Service Act 2020 by reason only of being a director or employee of the Bank or any of its subsidiaries.
