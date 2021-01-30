@@ -1,5 +1,5 @@
 # Arbitration Act 1996
-_Consolidation as at 2019-05-08_
+_Consolidation as at 2021-01-30_
 
 > An Act to reform the law relating to arbitration
 
@@ -72,6 +72,10 @@ If it still has to be agreed or determined whether the place of arbitration will
 ### 10 Arbitrability of disputes
 (1) Any dispute which the parties have agreed to submit to arbitration under an arbitration agreement may be determined by arbitration unless the arbitration agreement is contrary to public policy or, under any other law, such a dispute is not capable of determination by arbitration.
 (2) The fact that an enactment confers jurisdiction in respect of any matter on the High Court or the District Court but does not refer to the determination of that matter by arbitration does not, of itself, indicate that a dispute about that matter is not capable of determination by arbitration.
+
+### 10A Arbitration of trust matters
+(1) If an arbitration relates to a trust matter, sections 142 to 148 of the Trusts Act 2019 apply to the arbitration.
+(2) In this section, trust matter has the same meaning as matter in section 142 of that Act.
 
 ### 11 Consumer arbitration agreements
 (1) Where—the arbitration agreement is enforceable against the consumer only if—
