@@ -1,5 +1,5 @@
 # Ngāti Apa (North Island) Claims Settlement Act 2010
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-01-30_
 
 ## Preamble
 Background
@@ -83,7 +83,7 @@ This Act binds the Crown.
     (i) the effect of the settlement on the jurisdiction of a court, tribunal, or other judicial body in respect of the historical claims; and
     (ii) consequential amendments to the Treaty of Waitangi Act 1975; and
     (iii) the effect of the settlement on certain memorials; and
-    (iv) the exclusion of the law against perpetuities, the timing of actions or matters provided for in this Act, and access to the deed of settlement.
+    (iv) the exclusion of the limit on the duration of a trust, the timing of actions or matters provided for in this Act, and access to the deed of settlement.
 (4) Part 2 provides for cultural redress, including—
   (a) protocols to be issued to the trustees by the Minister of Conservation, the Minister of Fisheries, and the Minister for Arts, Culture and Heritage; and
   (b) an acknowledgement by the Crown of the statements made by Ngāti Apa (North Island) of their cultural, spiritual, historical, and traditional association with 9 statutory areas, and the effect of that acknowledgement; and
@@ -343,15 +343,15 @@ In this Act, unless the context otherwise requires,—
 
 ### Subpart 4 — Miscellaneous matters
 
-**Perpetuities**
+**No limit on duration of trusts**
 
-### 17 Rule against perpetuities does not apply
-(1) Neither the rule against perpetuities nor any provisions of the Perpetuities Act 1964—
+### 17 Limit on duration of trusts does not apply
+(1) No rule of law or provisions of an Act limiting the duration of a trust, including section 16 of the Trusts Act 2019,—
   (a) prescribe or restrict the period during which—
     (i) Te Runanga o Ngāti Apa may exist in law; or
     (ii) the trustees, in their capacity as trustees, may hold or deal with property (including income derived from property); or
   (b) apply to a document entered into to give effect to the deed of settlement if the application of that rule or the provisions of that Act would otherwise make the document, or a right conferred by the document, invalid or ineffective.
-(2) However, if Te Runanga o Ngāti Apa is, or becomes, a charitable trust, the application (if any) of the rule against perpetuities or any provision of the Perpetuities Act 1964 to that trust must be determined under the general law.
+(2) However, if Te Runanga o Ngāti Apa is, or becomes, a charitable trust, the trust may continue indefinitely under section 16(6)﻿(a) of the Trusts Act 2019.
 
 **Timing of actions or matters**
 
