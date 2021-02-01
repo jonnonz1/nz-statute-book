@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-02-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -1263,8 +1263,7 @@ A local authority must not lend money, or provide any other financial accommodat
 (4) Each local authority that receives an annual report under this section must publish the annual report on an Internet site maintained by or on behalf of the local authority within 1 month of receiving it, and must maintain the report on that site for a period of no less than 7 years.
 
 ### 67A Extension of time limit for 2019/20 financial year annual reports: COVID-19
-(1) Despite the time limit in section 67(1), in relation to the financial year ending with 30 June 2020 the board of a council-controlled organisation must comply with section 67(1)﻿(a), (b), and (c) before the close of 30 November 2020.
-(2) This section is repealed on 1 February 2021.
+[Repealed]
 
 ### 68 Content of reports on operations of council-controlled organisations
 A report on the operations of a council-controlled organisation under section 67 must—
@@ -1717,8 +1716,7 @@ If a local authority carries out consultation in relation to an amendment to a l
 (6) A local authority must, within 1 month after the adoption of its annual report, make the report and the summary prepared under subsection (4)﻿(b) publicly available.
 
 ### 98A Extension of time limit for 2019/20 financial year annual reports: COVID-19
-(1) Despite the time limit in section 98(3), in relation to the financial year ending with 30 June 2020 a local authority must complete and adopt its annual report before the close of 31 December 2020.
-(2) This section is repealed on 1 February 2021.
+[Repealed]
 
 ### 99 Audit of information in annual report and summary
 (1) In addition to the information required by Part 3 of Schedule 10, the annual report must contain the Auditor-General's report on—
