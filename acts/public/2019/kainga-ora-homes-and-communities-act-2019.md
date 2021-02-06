@@ -1,5 +1,5 @@
 # Kāinga Ora–Homes and Communities Act 2019
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-02-06_
 
 ### 1 Title
 This Act is the Kāinga Ora–Homes and Communities Act 2019.
@@ -70,7 +70,7 @@ Kāinga Ora–Homes and Communities is established.
 (2) The Crown Entities Act 2004 applies to Kāinga Ora–Homes and Communities except to the extent that this Act expressly provides otherwise.
 
 ### 10 Membership of board of Kāinga Ora–Homes and Communities
-(1) The board of Kāinga Ora–Homes and Communities consists of not fewer than 6, and not more than 8, members.
+(1) The board of Kāinga Ora–Homes and Communities consists of not fewer than 8, and not more than 10, members.
 (2) The Ministers must appoint members to the board who, collectively, have knowledge and experience of, and capability in,—
   (a) New Zealand’s housing and urban development system, including public housing and community housing, urban planning and design, infrastructure, construction, and regeneration; and
   (b) perspectives of Māori; and
