@@ -1,5 +1,5 @@
 # Family Protection Act 1955
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-02-06_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to claims for maintenance and support out of the estates of deceased persons
 
@@ -48,10 +48,19 @@ This Act may be cited as the Family Protection Act 1955.
 (2) In considering any application by a grandchild of any deceased person for provision out of the estate of that person, the court, in considering the moral duty of the deceased at the date of his death, shall have regard to all the circumstances of the case, and shall have regard to any provision made by the deceased, or by the court in pursuance of this Act, in favour of either or both of the grandchild's parents.
 
 ### 3A Courts to have concurrent jurisdiction
-(1) Subject to the succeeding provisions of this section, the High Court and the Family Court shall each have jurisdiction in respect of proceedings under this Act.
+(1) Subject to the succeeding provisions of this section, the High Court, the Maori Land Court, and the Family Court shall each have jurisdiction in respect of proceedings under this Act.
 (2) The Family Court shall not have jurisdiction in respect of any application under this Act if, at the date of the filing of the application, proceedings relating to the same matter have already been commenced in the High Court.
-(3) Notwithstanding anything in subsection (1), if a Family Court Judge is of the opinion that any proceedings under this Act, or any question in any such proceedings, would be more appropriately dealt with in the High Court, the Judge may, upon application by any party to the proceedings or without any such application, refer the proceedings or the question to the High Court.
-(4) The High Court, upon application by any party to any proceedings pending under this Act in the Family Court, shall order that the proceedings be removed into the High Court unless it is satisfied that the proceedings would be more appropriately dealt with in the Family Court. Where the proceedings are so removed, they shall be continued in the High Court as if they had been properly and duly commenced in that court.
+(2A) An application under this Act must be made to—
+  (a) the Family Court or the High Court, unless paragraph (b) applies:
+  (b) the Maori Land Court, if the application relates only to Maori freehold land.
+(3) The court to which an application is made may refer any proceedings resulting from the application, or any question in those proceedings, to any other court referred to in subsection (2A) if it considers that the proceedings or question would be more appropriately dealt with by the other court.
+(3A) The court may refer the proceedings or question on its own initiative or on application by a party to the proceedings.
+(4) The High Court, upon application by any party to any proceedings pending under this Act in the Family Court or the Maori Land Court, shall order that the proceedings be removed into the High Court unless it is satisfied that the proceedings would be more appropriately dealt with in the Family Court or the Maori Land Court (as the case may be). Where the proceedings are so removed, they shall be continued in the High Court as if they had been properly and duly commenced in that court.
+(5) Any appeal from a decision of the Family Court or the Maori Land Court under this Act must be made to the High Court.
+(6) In this section, Maori freehold land—
+  (a) has the meaning given by section 4 of Te Ture Whenua Maori Act 1993; and
+  (b) includes shares in a Maori incorporation under that Act; and
+  (c) includes the proceeds of alienation of anything referred to in paragraph (a) or (b).
 
 ### 4 Claims against estate of deceased person for maintenance
 (1) If any person (referred to in this Act as the deceased) dies, whether testate or intestate, and in terms of his or her will or as a result of his or her intestacy adequate provision is not available from his or her estate for the proper maintenance and support of the persons by whom or on whose behalf application may be made under this Act, the court may, at its discretion on application so made, order that any provision the court thinks fit be made out of the deceased's estate for all or any of those persons.
