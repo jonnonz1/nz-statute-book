@@ -1,5 +1,5 @@
 # Public Service Act 2020
-_Consolidation as at 2021-01-11_
+_Consolidation as at 2021-02-06_
 
 ### 1 Title
 This Act is the Public Service Act 2020.
@@ -28,7 +28,7 @@ The purposes of this Act are—
 (4) Part 3 describes the people working in the public service and their roles and functions. These people are the Public Service Commissioner, Deputy Public Service Commissioners, public service chief executives (who include functional chief executives), and employees who make up the public service workforce. Part 3 also includes provisions relating to system leaders, the public service leadership team, the public service leadership strategy, and secondments.
 (5) Part 4 relates to the Government’s workforce policy.
 (6) Part 5 contains a miscellaneous group of provisions. These include a provision making it an offence to solicit or attempt to improperly influence public service leaders and a provision that provides immunity for good-faith actions or omissions by public service chief executives and employees.
-(7) Parts 6 and 7 contain provisions that repeal, revoke, and amend enactments to give effect to changes made by this Act across the statute book.
+(7)
 (8) This guide is for explanation only and does not affect the provisions referred to in it.
 
 ### 5 Interpretation
@@ -962,180 +962,112 @@ Nothing in a request for information by the Commissioner made under a Government
 **Amendments to Clerk of the House of Representatives Act 1988**
 
 ### 106 Amendments to Clerk of the House of Representatives Act 1988
-Sections 107 to 109 amend the Clerk of the House of Representatives Act 1988.
+[Repealed]
 
 ### 107 Section 17 amended (Functions of State Services Commissioner in relation to Office)
-Repeal section 17(3) and (4).
+[Repealed]
 
 ### 108 Section 22 amended (Review of appointments)
-(1) In section 22(1), delete , after consultation with the State Services Commission,.
-(2) In section 22(3), delete after consultation with the State Services Commission and.
+[Repealed]
 
 ### 109 Section 26 amended (Negotiation of conditions of employment)
-Replace section 26(2) with:
-  (2) The Clerk of the House of Representatives must conduct the negotiations with a union of which employees are members.
+[Repealed]
 
 **Amendments to Crown Organisations (Criminal Liability) Act 2002**
 
 ### 110 Amendments to Crown Organisations (Criminal Liability) Act 2002
-(1) This section amends the Crown Organisations (Criminal Liability) Act 2002.
-(2) In section 4, definition of Crown organisation, after government department,, insert interdepartmental venture, departmental agency,.
-(3) In section 4, insert in their appropriate alphabetical order:
-  - **departmental agency** has the meaning given in section 5 of the Public Service Act 2020
-  - **interdepartmental venture** has the meaning given in section 5 of the Public Service Act 2020
+[Repealed]
 
 **Amendments to Official Information Act 1982**
 
 ### 111 Amendments to Official Information Act 1982
-(1) This section amends the Official Information Act 1982.
-(2) In section 2(1), insert in its appropriate alphabetical order:
-  - **public service agencies** and have the same meanings as in section 2(1) of the Ombudsmen Act 1975 (but for the purposes of this Act do not include the Parliamentary Counsel Office)
-(3) In section 2(1), definition of official information, paragraphs (a)﻿(i), (b)﻿(i), (f), (i), and (j), replace department with public service agency in each place.
-(4) In section 2(1), definition of official information, paragraph (e)﻿(ii), replace departments with public service agencies.
+[Repealed]
 
 **Amendments to Ombudsmen Act 1975**
 
 ### 112 Amendments to Ombudsmen Act 1975
-Sections 113 to 116 amend the Ombudsmen Act 1975.
+[Repealed]
 
 ### 113 Section 2 amended (Interpretation)
-In section 2(1), insert in its appropriate alphabetical order:
-  - **public service agencies** means the departments, departmental agencies, interdepartmental executive boards, and interdepartmental ventures named in Parts 1 to 1C of Schedule 1, and means any one of those agencies, but for the purposes of this Act—
-    (a) a departmental agency listed in the first column of the table in Part 1A of Schedule 1 is part of its host department listed in the second column of that table:
-    (b) an interdepartmental executive board listed in the first column of the table in Part 1B of Schedule 1 is to be treated as part of its servicing department listed in the second column of that table
+[Repealed]
 
 ### 114 Section 13 amended (Functions of Ombudsmen)
-(1) In section 13(1), replace departments or organisations named or specified in Parts 1 and 2 of Schedule 1 with public service agencies or organisations named in Parts 1 to 1C and 2 of Schedule 1.
-(2) In section 13(1) and (2), replace department with public service agency.
+[Repealed]
 
 ### 115 Section 32 amended (Power to amend Schedule 1 by Order in Council)
-Replace section 32(1) with:
-  (1) If a public service agency or an organisation named in Schedule 1 is abolished, or its name is altered, or if a new public service agency is created, or if a host or servicing department is changed, or if the name of a host or servicing department is changed, the Governor-General may, by Order in Council, amend the relevant Part of that schedule as may be necessary to—
-    (a) reflect the abolition or alteration, or include the name of the new public service agency in that Part:
-    (b) in the case of a departmental agency, make a corresponding amendment to include, remove, or alter a reference to its host department in the table in Part 1A of Schedule 1:
-    (c) in the case of an interdepartmental executive board, make a corresponding amendment to include, remove, or alter a reference to its servicing department in the table in Part 1B of Schedule 1.
-  (1A) An order relating to the establishment of an interdepartmental executive board or an interdepartmental venture for the first time may also delete the words immediately below the table in Part 1B of Schedule 1 or in Part 1C of Schedule 1.
+[Repealed]
 
 ### 116 Schedule 1 amended
-(1) Replace the Schedule 1 heading with:s 13Public service agencies and organisations to which this Act applies
-(2) In Schedule 1, after Part 1, insert:Departmental agencies and host departmentsThe following table is small in size and has 2 columns. Column 1 is headed Departmental agency. Column 2 is headed Host department.Departmental agencyHost departmentCancer Control AgencyMinistry of HealthNational Emergency Management AgencyDepartment of the Prime Minister and CabinetOffice for Māori Crown Relations—Te ArawhitiMinistry of JusticeSocial Wellbeing AgencyPublic Service CommissionInterdepartmental executive boards and servicing departmentsThe following table is small in size and has 2 columns. Column 1 is headed Interdepartmental executive board. Column 2 is headed Servicing department.Interdepartmental executive boardServicing departmentNo interdepartmental executive boards have been established as at the date on which this schedule was inserted into this Act by section 116 of the Public Service Act 2020.Interdepartmental venturesNo interdepartmental ventures have been established as at the date on which this schedule was inserted into this Act by section 116 of the Public Service Act 2020.
+[Repealed]
 
 **Amendments to Parliamentary Service Act 2000**
 
 ### 117 Amendments to Parliamentary Service Act 2000
-(1) This section amends the Parliamentary Service Act 2000.
-(2) In Schedule 1, repeal clause 1(1)﻿(d).
-(3) In Schedule 1, clause 3(2), replace the State Services Commissioner with the agreement of the Speaker with the Speaker.
-(4) In Schedule 1, clause 5, replace The State Services Commissioner may, with the agreement of the Speaker with The Speaker may.
+[Repealed]
 
 **Amendments to Privacy Act 1993 and Privacy Act 2020**
 
 ### 118 Amendments to Privacy Act 1993
-Sections 119 to 123 amend the Privacy Act 1993.
+[Repealed]
 
 ### 119 Section 2 amended (Interpretation)
-(1) In section 2(1), replace the definition of department with:
-  - **department** means—
-    (a) a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975:
-    (b) an interdepartmental venture:
-    (c) a departmental agency hosted by a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975:
-    (d) an interdepartmental executive board serviced by a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975 (see also section 120A)
-(2) In section 2(1), insert in their appropriate alphabetical order:
-  - **departmental agency** has the meaning given in section 5 of the Public Service Act 2020
-  - **interdepartmental executive board** has the meaning given in section 5 of the Public Service Act 2020
-  - **interdepartmental venture** has the meaning given in section 5 of the Public Service Act 2020
+[Repealed]
 
 ### 120 Section 3 amended (Information held by agency)
-After section 3(4), insert:
-  (5) Despite subsection (1), information that is held by an employee of a department carrying out the functions of a departmental agency must be treated for the purposes of this Act as held by the departmental agency.
+[Repealed]
 
 ### 121 Section 23 amended (Privacy officers)
-In section 23, insert as subsection (2):
-  (2) In relation to the functions of a departmental agency, the responsibility under this section lies with the departmental agency.
+[Repealed]
 
 ### 122 Section 96C amended (Interpretation)
-Replace the definition of department with:
-  - **department** —
-    (a) means—
-      (i) a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975:
-      (ii) an interdepartmental venture:
-      (iii) a departmental agency hosted by a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975; and
-    (b) includes—
-      (i) the New Zealand Police:
-      (ii) the New Zealand Transport Agency
+[Repealed]
 
 ### 123 New section 120A inserted (Responsibility under this Part for interdepartmental executive board)
-After section 120, insert:Responsibility under Parts 5 and 8 for interdepartmental executive board
-  (1) The department that is the servicing department for an interdepartmental executive board is responsible for dealing with all matters arising under Parts 5 and 8 in relation to personal information held by that board.
-  (2) This section applies despite the definition of department in section 2(1).
+[Repealed]
 
 ### 124 Amendments to Privacy Act 2020
-Sections 125 to 129 amend the Privacy Act 2020.
+[Repealed]
 
 ### 125 Section 7 amended (Interpretation)
-(1) In section 7(1), replace the definition of department with:
-  - **department** means—
-    (a) a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975:
-    (b) an interdepartmental venture:
-    (c) a departmental agency hosted by a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975:
-    (d) an interdepartmental executive board serviced by a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975 (see also section 201A)
-(2) In section 7(1), insert in their appropriate alphabetical order:
-  - **departmental agency** has the meaning given in section 5 of the Public Service Act 2020
-  - **interdepartmental executive board** has the meaning given in section 5 of the Public Service Act 2020
-  - **interdepartmental venture** has the meaning given in section 5 of the Public Service Act 2020
+[Repealed]
 
 ### 126 Section 10 amended (Personal information held by agency if held by officer, employee, or member of agency)
-After section 10(2), insert:
-  (3) Despite subsection (1), information that is held by an employee of a department carrying out the functions of a departmental agency must be treated for the purposes of this Act as held by the departmental agency.
+[Repealed]
 
 ### 127 Section 138 amended (Interpretation)
-Replace the definition of department with:
-  - **department** —
-    (a) means—
-      (i) a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975:
-      (ii) an interdepartmental venture:
-      (iii) a departmental agency hosted by a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975; and
-    (b) includes—
-      (i) the New Zealand Police:
-      (ii) the New Zealand Transport Agency
+[Repealed]
 
 ### 128 Section 201 amended (Privacy officers)
-After section 201(2), insert:
-  (3) In relation to the functions of a departmental agency, the responsibility under this section lies with the departmental agency.
+[Repealed]
 
 ### 129 New section 201A inserted (Responsibility under this Part for interdepartmental executive board)
-After section 201, insert:Responsibility under Parts 4 to 6 for interdepartmental executive board
-  (1) The department that is the servicing department for an interdepartmental executive board is responsible for dealing with all matters arising under Parts 4 to 6 in relation to personal information held by that board.
-  (2) This section applies despite the definition of department in section 7(1).
+[Repealed]
 
 **Amendments to Orders in Council**
 
 ### 130 Amendment to State Sector (Ministry for Primary Industries) Order 2012
-(1) This section amends the State Sector (Ministry for Primary Industries) Order 2012 (SR 2012/54).
-(2) In clause 4, replace 30 June 2020 with 30 June 2025.
+[Repealed]
 
 ### 131 Amendment to State Sector (New Zealand Food Safety Authority) Order 2010
-(1) This section amends the State Sector (New Zealand Food Safety Authority) Order 2010 (SR 2010/93).
-(2) In clause 5, replace 30 June 2020 with 30 June 2025.
+[Repealed]
 
 **Repeals and revocations**
 
 ### 132 Repeals
-(1) The State Sector Act 1988 (1988 No 20) is repealed.
-(2) The Civil Service Act 1908 (1908 No 23) is repealed.
+[Repealed]
 
 ### 133 Repeal of certain provisions of this Act
-(1) Repeal section 4(7), this Part (except subsection (2)), and Schedules 10 and 11.
+(1)
 (2) Sections 86(4) and 88(2) and this subsection are repealed on the date on which section 90 comes into force.
-(3) See section 2(2), which provides for the commencement of subsection (1) later than the rest of this Act.
+(3)
 
 ### 134 Legislative instruments revoked
-The legislative instruments specified in Schedule 10 are revoked. (See clause 16 of Schedule 1 for legislative instruments that are saved on enactment.)
+[Repealed]
 
 **Consequential amendments**
 
 ### 135 Consequential amendments to enactments
-Amend the enactments specified in Schedule 11 as set out in that schedule.
+[Repealed]
 
 ## Schedule 1 — Transitional, savings, and related provisions
 
@@ -1882,9 +1814,3 @@ A transfer of functions from one public service agency (Agency A) to another pub
 ## Schedule 10 — Legislative instruments revoked
 
 ## Schedule 11 — Consequential amendments
-
-### 7G Immunity for delegations outside public service
-Section 104 of the Public Service Act 2020 applies to a person outside the public service acting under a delegation referred to in section 7B or 7C as if the person were a public service employee.
-
-### 23 Exclusion: public service agencies
-Every public service agency as defined in section 5 of the Public Service Act 2020 is declared not to be a reporting entity for the purposes of the Act.
