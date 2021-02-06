@@ -1,5 +1,5 @@
 # Government Roading Powers Act 1989
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2021-02-06_
 
 > Title
 
@@ -364,10 +364,16 @@ All Government roads declared as such under this Act, the Public Works Act 1981,
   (f) how and when entry is to be made; and
   (g) a statement of the owner's or occupier's rights under subsection (6); and
   (h) the estimated amount of compensation to which the owner or occupier would be entitled under this or any other Act.
-(6) The owner or occupier may, within 10 working days after receiving such a notice and after giving notice to the Minister or officer of the owner's intention to do so, apply to the office of the District Court nearest to the land concerned, and the court may thereupon summon the Minister or officer to appear before the court at a time and place to be named in the summons.
+(6) The owner or occupier may, within 10 working days after receiving such a notice and after giving notice to the Minister or officer of the owner's intention to do so, apply to the court, and the court may thereupon summon the Minister or officer to appear before the court at a time and place to be named in the summons.
+(6A) The application must be made to—
+  (a) the District Court, unless paragraph (b) applies:
+  (b) the Maori Land Court, if the application relates only to Maori land (as defined by section 4 of Te Ture Whenua Maori Act 1993).
 (7) If it appears to the court that the use proposed to be made of the land is unreasonable or unnecessary, the court may—and all persons concerned shall be bound by any such order.
   (a) order that the land in question shall not be occupied or used, or shall not be occupied or used in the manner proposed; or
   (b) direct that the land be occupied and used or material taken from it in such manner and subject to such limitations and restrictions as it thinks fit—
+(7A) The court to which an application is made may refer any proceedings resulting from the application, or any question in those proceedings, to the other court referred to in subsection (6A) if it considers that the proceedings or question would be more appropriately dealt with by the other court.
+(7B) The court may refer the proceedings or question on its own initiative or on application by a party to the proceedings.
+(7C) Any appeal from an order or a direction made under subsection (7) must be made to the High Court (even for an order or a direction of the Maori Land Court).
 (8) Nothing in this section (other than any provision of this section that is relied on in an emergency) shall derogate from the provisions of the Resource Management Act 1991.
 
 ### 49 Powers of Minister in regard to swing gates and cattle stops on roads
@@ -376,9 +382,15 @@ For the purpose of erecting or removing any swing gate or cattle stop across any
 ### 50 Owner or occupier of land not to cause damage to bridge by removal of stone, etc
 (1) The Agency (in the case of a bridge or culvert under its control) and the Minister (in the case of a bridge or culvert under the Minister's control) may give to the owner or to the occupier of any land situated within 200 metres of any such bridge or culvert and abutting upon any river or stream, notice in writing not to remove or permit to be removed any stone, earth, or other material from any part of his or her land in such manner as may be likely to cause damage to the bridge or culvert.
 (2) Nothing in subsection (1) shall apply in respect of any mining operations carried out pursuant to a mining permit within the meaning of the Crown Minerals Act 1991.
-(3) Any person dissatisfied with the requirements of any such notice may, within 10 working days after receiving it, appeal against the requirements to the District Court.
+(3) Any person dissatisfied with the requirements of any such notice may, within 10 working days after receiving it, appeal against the requirements to the court.
+(3A) The appeal must be made to—
+  (a) the District Court, unless paragraph (b) applies:
+  (b) the Maori Land Court, if the appeal relates only to Maori land (as defined by section 4 of Te Ture Whenua Maori Act 1993).
 (4) Every person so appealing, and the Agency or Minister, either personally or by their counsel, shall be entitled to be present and to be heard at the hearing of the appeal.
 (5) On hearing the appeal the court may confirm, cancel, or vary the notice as it thinks fit.
+(5A) The court to which an appeal is made may refer any proceedings resulting from the appeal, or any question in those proceedings, to the other court referred to in subsection (3A) if it considers that the proceedings or question would be more appropriately dealt with by the other court.
+(5B) The court may refer the proceedings or question on its own initiative or on application by a party to the proceedings.
+(5C) Any further appeal from the court’s decision must be made to the High Court (even for a decision of the Maori Land Court).
 (6) Any person who fails to comply with the requirements of a notice given under this section commits an offence and is liable on conviction to a fine not exceeding $500.
 
 ### 51 Penalties for damage to roads, bridges, etc
@@ -466,10 +478,15 @@ For the purpose of erecting or removing any swing gate or cattle stop across any
   (d) to cut down or grub up, and remove any tree, hedge, or shrub that is obstructing a road or its drainage system owing to the growth of any vegetation or the spreading of roots upon or under the road up to its middle line:
   (e) to cut down, lower, or trim any tree, hedge, or shrub or to lower or remove any wall, fence, or other structure, that in the opinion of the responsible authority wholly or partially obscures visibility at any bend of a road, or at any road or railway crossing, or at any road intersection, or that causes any danger to the traffic on any road:
   (f) to remove any structure that encroaches either wholly or partially on to a road or on to any land used for a public work, unless the encroachment has been authorised under section 51 and notice of termination has not been issued.
-(3) Within 10 working days after service of a notice under subsection (2), the owner or occupier may apply to the office of the District Court nearest to the land for an order setting aside the notice.
+(3) Within 10 working days after service of a notice under subsection (2), the owner or occupier may apply to the court for an order setting aside the notice.
+(3A) The application must be made to—
+  (a) the District Court, unless paragraph (b) applies:
+  (b) the Maori Land Court, if the application relates only to Maori land (as defined by section 4 of Te Ture Whenua Maori Act 1993).
 (4) A copy of any such application shall be served on the responsible authority either before or immediately after it is lodged with the court.
 (5) The Registrar of the court shall give notice of the time and place fixed for the hearing of the application to the applicant and the responsible authority, and they shall be entitled to be present and to be heard, either personally or by their counsel or by an officer of the responsible authority.
 (6) On hearing the application, the court, whose decision shall be final, shall determine whether the notice should or should not be set aside, and in the former case the notice shall be deemed to be void.
+(6A) The court to which an application is made may refer any proceedings resulting from the application, or any question in those proceedings, to the other court referred to in subsection (3A) if it considers that the proceedings or question would be more appropriately dealt with by the other court.
+(6B) The court may refer the proceedings or question on its own initiative or on application by a party to the proceedings.
 (7) Every person on whom a notice has been served under this section commits an offence against this Act if the person fails to comply with the requirement contained in the notice within 1 month after—whichever is the later, and shall be liable on conviction to a fine not exceeding $500; and the responsible authority, by its employees or agents, may enter on the land in respect of which the requirement was made, carry out the required work, and recover the cost from the owner.
   (a) the expiry of the time in which application may be made to a court, if the person has not exercised that right; or
   (b) the date of the court's order, if an application to set aside the notice has been made and it has not been set aside; or
@@ -542,10 +559,16 @@ The Minister may, by notice in the Gazette, declare that any access way or servi
   (f) how and when entry is to be made; and
   (g) a statement of the owner's or occupier's rights under subsection (8); and
   (h) the estimated amount of compensation to which the owner or occupier would be entitled under this or any other Act.
-(8) The owner or occupier may, within 10 working days after receiving such a notice and after giving notice to the Agency or officer of the owner's intention to do so, apply to the office of the District Court nearest to the land concerned, and the court may thereupon summon the Agency, through any officer, or the officer, to appear before the court at a time and place to be named in the summons.
+(8) The owner or occupier may, within 10 working days after receiving such a notice and after giving notice to the Agency or officer of the owner's intention to do so, apply to the court, and the court may thereupon summon the Agency, through any officer, or the officer, to appear before the court at a time and place to be named in the summons.
+(8A) The application must be made to—
+  (a) the District Court, unless paragraph (b) applies:
+  (b) the Maori Land Court, if the application relates only to Maori land (as defined by section 4 of Te Ture Whenua Maori Act 1993).
 (9) If it appears to the court that the use proposed to be made of the land is unreasonable or unnecessary, the court may—
   (a) order that the land in question shall not be occupied or used, or shall not be occupied or used in the manner proposed; or
   (b) direct that the land be occupied and used or material taken from it in such manner and subject to such limitations and restrictions as it thinks fit.
+(9A) The court to which an application is made may refer any proceedings resulting from the application, or any question in those proceedings, to the other court referred to in subsection (8A) if it considers that the proceedings or question would be more appropriately dealt with by the other court.
+(9B) The court may refer the proceedings or question on its own initiative or on application by a party to the proceedings.
+(9C) Any appeal from an order or a direction made under subsection (9) must be made to the High Court (even for an order or a direction of the Maori Land Court).
 (10) Nothing in this section (other than any provision of this section that is relied on in an emergency) shall derogate from the provisions of the Resource Management Act 1991.
 (11) Nothing in this section shall divest any territorial authority of the property in any road that may form part of a State highway.
 
@@ -651,10 +674,16 @@ Subject to the restrictions specified in this Part and subject to section 17, th
   (c) when and for how long such use is intended; and
   (d) a statement of the owner or occupier's rights under subsection (3); and
   (e) the estimated amount of compensation to which the owner or occupier would be entitled under this or any other Act.
-(3) The owner or occupier may, within 10 working days after receiving such a notice, and after giving notice to the engineer or other person of his or her intention to do so, apply to the office of the District Court nearest to the land concerned for the issue of a summons requiring the engineer or other person to appear before the court at a time and place to be named in the summons; and upon any such application the court may issue a summons accordingly.
+(3) The owner or occupier may, within 10 working days after receiving such a notice, and after giving notice to the engineer or other person of his or her intention to do so, apply to the court for the issue of a summons requiring the engineer or other person to appear before the court at a time and place to be named in the summons; and upon any such application the court may issue a summons accordingly.
+(3A) The application must be made to—
+  (a) the District Court, unless paragraph (b) applies:
+  (b) the Maori Land Court, if the application relates only to Maori land (as defined by section 4 of Te Ture Whenua Maori Act 1993).
 (4) If it appears to the court that the use proposed to be made of the land is unreasonable or unnecessary, the court may—and all persons concerned shall be bound by any such order.
   (a) order that the land in question shall not be occupied or used, or shall not be occupied or used in the manner proposed; or
   (b) direct that the land be occupied and used in such manner and subject to such limitations and restrictions as it thinks fit,—
+(5) The court to which an application is made may refer any proceedings resulting from the application, or any question in those proceedings, to the other court referred to in subsection (3A) if it considers that the proceedings or question would be more appropriately dealt with by the other court.
+(6) The court may refer the proceedings or question on its own initiative or on application by a party to the proceedings.
+(7) Any appeal from an order or a direction made under subsection (4) must be made to the High Court (even for an order or a direction of the Maori Land Court).
 
 ### 75 Compensation where road interfered with or wholly closed
 (1) Except as provided in section 63 of the Public Works Act 1981, compensation shall not be payable to any person in respect of—if reasonable and sufficient access to the nearest road crossing over or under the motorway is available by some other road, whether it has been provided or constructed by the Agency or not.
@@ -672,7 +701,12 @@ Subject to the restrictions specified in this Part and subject to section 17, th
   (d) by constructing a crossing under or over the motorway between the pieces of land that have been separated.
 (2) No access need be provided under this section as a consequence of the land having been subdivided after the construction of the motorway.
 (3) Where the Agency is satisfied that alternative access has become available to any land that has been granted an access under this section, the Agency may close any access provided under this section on giving not less than 3 months' notice in writing to the owner and occupier of the land affected.
-(4) If the owner or occupier of the land to which subsection (1) applies objects to any decision of the Agency under this section, the Agency shall appoint a competent person to confer with the owner and, if possible, to agree with the owner as to the matter in dispute; and if no agreement can be reached between the parties the matter shall be referred to the nearest office of the District Court, and the decision of the court thereon shall be final.
+(4) If the owner or occupier of the land to which subsection (1) applies objects to any decision of the Agency under this section, the Agency shall appoint a competent person to confer with the owner and, if possible, to agree with the owner as to the matter in dispute; and if no agreement can be reached between the parties the matter shall be referred to the court, and the decision of the court thereon shall be final.
+(5) The matter must be referred to—
+  (a) the District Court, unless paragraph (b) applies:
+  (b) the Maori Land Court, if the matter relates only to Maori land (as defined by section 4 of Te Ture Whenua Maori Act 1993).
+(6) The court to which a matter is referred may refer any proceedings resulting from the matter, or any question in those proceedings, to the other court referred to in subsection (5) if it considers that the proceedings or question would be more appropriately dealt with by the other court.
+(7) The court may refer the proceedings or question on its own initiative or on application by a party to the proceedings.
 
 ### 77 Alterations to roads, drains, etc
 (1) Where it is found necessary for the construction of a motorway to alter any road, tramway, watercourse, or drain, or any other public work, or any water supply pipe or gas supply pipe, or any power supply or telecommunication link, the alterations shall be made in such manner as will—
