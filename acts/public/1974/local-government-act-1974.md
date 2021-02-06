@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2019-10-22_
+_Consolidation as at 2021-02-06_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -3528,12 +3528,18 @@ The Minister may from time to time, by notice in the Gazette, delegate to the co
     (ii) explains how the statement of proposal is avail-able for inspection; and
   (d) publicise the summary of proposal in a way appropriate to the subject matter of the proposal.
 (6) The council must not vote on a motion to undertake the proposed work until at least 20 working days after the summary of proposal is first publicised under subsection (5)﻿(d).
-(7) An owner or occupier of land who may be affected by the work may apply to the District Court for an order under subsection (8) at any time between the publicising of the summary of proposal under subsection (5)﻿(d) and 10 days after a resolution of the council is made under subsection (6).
+(7) An owner or occupier of land who may be affected by the work may apply to the court for an order under subsection (8) at any time between the publicising of the summary of proposal under subsection (5)﻿(d) and 10 days after a resolution of the council is made under subsection (6).
+(7A) The application must be made to—
+  (a) the District Court, unless paragraph (b) applies:
+  (b) the Maori Land Court, if the application relates only to Maori land (as defined by section 4 of Te Ture Whenua Maori Act 1993).
 (8) The court may make an order or orders—
   (a) setting a date before which the council may not under-take the work:
   (b) allowing the council to undertake the work with or without modification:
   (c) prohibiting the council from undertaking the work.
-(9) Despite subsections (5) to (8), a council may, at any time, undertake temporary works for abating a nuisance in a water-course if the medical officer of health, or 2 medical practitioners, has certified in writing that immediate action in relation to the watercourse is necessary in the interests of public health.
+(8A) The court to which an application is made may refer any proceedings resulting from the application, or any question in those proceedings, to the other court referred to in subsection (7A) if it considers that the proceedings or question would be more appropriately dealt with by the other court.
+(8B) The court may refer the proceedings or question on its own initiative or on application by a party to the proceedings.
+(8C) Any appeal from an order made under subsection (8) must be made to the High Court (even for an order of the Maori Land Court).
+(9) Despite subsections (5) to (8C), a council may, at any time, undertake temporary works for abating a nuisance in a water-course if the medical officer of health, or 2 medical practitioners, has certified in writing that immediate action in relation to the watercourse is necessary in the interests of public health.
 
 ### 447 Betterment contributions where watercourse covered in
 (1) Where the council incurs any expenditure in enclosing and covering in any watercourse under the powers conferred by section 446, each owner of land benefited or likely to be benefited from the enclosing and covering in of the watercourse shall, if the council so requires, pay to the council on account of betterment the amount of the increased value thereby given, or likely to be given, to his land, or any smaller amount.
