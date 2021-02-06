@@ -1,5 +1,5 @@
 # Law Reform (Testamentary Promises) Act 1949
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-02-06_
 
 > An Act to make better provision for the enforcement of promises to make testamentary provision in return for services rendered
 
@@ -38,10 +38,19 @@ In this Act, unless the context otherwise requires,—
 (3)
 
 ### 5 Courts to have concurrent jurisdiction
-(1) Subject to the succeeding provisions of this section, the High Court and the Family Court shall each have jurisdiction in respect of proceedings under this Act.
+(1) Subject to the succeeding provisions of this section, the High Court, the Maori Land Court, and the Family Court shall each have jurisdiction in respect of proceedings under this Act.
 (2) The Family Court shall not have jurisdiction in respect of any application under this Act if, at the date of the filing of the application, proceedings relating to the same matter have already been commenced in the High Court.
-(3) If a Family Court Judge is of the opinion that any proceedings under this Act, or any question in any such proceedings, would be more appropriately dealt with in the High Court, the Judge may, upon application by any party to the proceedings or without any such application, refer the proceedings or the question to the High Court.
-(4) The High Court, upon application by any party to any proceedings pending under this Act in the Family Court, shall order that the proceedings be removed into the High Court unless it is satisfied that the proceedings would be more appropriately dealt with in the Family Court. Where the proceedings are so removed, they shall be continued in the High Court as if they had been properly and duly commenced in that court.
+(2A) An application under this Act must be made to—
+  (a) the Family Court or the High Court, unless paragraph (b) applies:
+  (b) the Maori Land Court, if the application relates only to Maori freehold land.
+(3) The court to which an application is made may refer any proceedings resulting from the application, or any question in those proceedings, to any other court referred to in subsection (2A) if it considers that the proceedings or question would be more appropriately dealt with by the other court.
+(3A) The court may refer the proceedings or question on its own initiative or on application by a party to the proceedings.
+(4) The High Court, upon application by any party to any proceedings pending under this Act in the Family Court or the Maori Land Court, shall order that the proceedings be removed into the High Court unless it is satisfied that the proceedings would be more appropriately dealt with in the Family Court or the Maori Land Court (as the case may be). Where the proceedings are so removed, they shall be continued in the High Court as if they had been properly and duly commenced in that court.
+(5) Any appeal from a decision of the Family Court or the Maori Land Court under this Act must be made to the High Court.
+(6) In this section, Maori freehold land—
+  (a) has the meaning given by section 4 of Te Ture Whenua Maori Act 1993; and
+  (b) includes shares in a Maori incorporation under that Act; and
+  (c) includes the proceeds of alienation of anything referred to in paragraph (a) or (b).
 
 ### 5A Right of appeal
 (1AA) This subsection applies to a decision of the Family Court or the District Court, in proceedings under this Act, to—
@@ -59,7 +68,7 @@ In this Act, unless the context otherwise requires,—
 
 ### 6 Limitation of actions
 No action to enforce a claim under this Act shall be maintainable unless the action is commenced within 12 months after the personal representative of the deceased took out representation:
-  provided that the time for commencing an action may be extended for a further period by the court or a Judge, after hearing such of the parties affected as the court or Judge thinks necessary, and this power shall extend to cases where the time for commencing an action has already expired, including cases where it expired before the commencement of this proviso; but in all such cases the application for extension shall be made before the final distribution of the estate of the deceased, and no distribution of any part of the estate made before the administrator receives notice that the application for extension has been made to the court, and after every notice (if any) of an intention to make an application under this Act has lapsed in accordance with subsection (6) of section 30A of the Administration Act 1952, as inserted by section 2 of the Administration Amendment Act 1960, shall be disturbed by reason of the application for extension, or of an order made on that application, or of any action or order that is consequential thereon.
+  provided that the time for commencing an action may be extended for a further period by the court or a Judge, after hearing such of the parties affected as the court or Judge thinks necessary, and this power shall extend to cases where the time for commencing an action has already expired, including cases where it expired before the commencement of this proviso; but in all such cases the application for extension shall be made before the final distribution of the estate of the deceased, and no distribution of any part of the estate made before the administrator receives notice that the application for extension has been made to the court, and after every notice (if any) of an intention to make an application under this Act has lapsed in accordance with section 48(1) of the Administration Act 1969, shall be disturbed by reason of the application for extension, or of an order made on that application, or of any action or order that is consequential thereon.
 
 ### 7 Repeal and savings
 (1) This Act is in substitution for section 3 of the Law Reform Act 1944, and that section is hereby accordingly repealed.
