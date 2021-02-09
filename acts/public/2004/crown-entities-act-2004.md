@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2020-10-01_
+_Consolidation as at 2021-02-09_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1997,6 +1997,7 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Human Rights Commission |  |  |  |  |  |
 | Independent Police Conduct Authority |  |  |  |  |  |
 | Law Commission |  |  |  |  |  |
+| Mental Health and Wellbeing Commission |  |  |  |  |  |
 | New Zealand Productivity Commission |  |  |  |  |  |
 | Office of Film and Literature Classification |  |  |  |  |  |
 | Privacy Commissioner |  |  |  |  |  |
