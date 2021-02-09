@@ -1,5 +1,5 @@
 # Health and Disability Commissioner Act 1994
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-02-09_
 
 > An Act to promote and protect the rights of health consumers and disability services consumers, and, in particular,—ato secure the fair, simple, speedy, and efficient resolution of complaints relating to infringements of those rights; andbto provide for the appointment of a Health and Disability Commissioner to investigate complaints against persons or bodies who provide health care or disability services; and to define the Commissioner’s functions and powers; andcto provide for the establishment of a Health and Disability Services Consumer Advocacy Service; anddto provide for the promulgation of a Code of Health and Disability Services Consumers’ Rights; andeto provide for matters incidental thereto
 
@@ -119,11 +119,11 @@ In exercising or performing any power or function under this Act, every person m
 (3) The Crown Entities Act 2004 applies to the Commissioner except to the extent that this Act expressly provides otherwise.
 (4)
 
-### 9 Deputy Commissioners and Mental Health Commissioner
+### 9 Deputy Commissioners
 (1) One or more Deputy Health and Disability Commissioners may be appointed in the same way as the Commissioner is appointed, except that the Minister must consult the Commissioner before recommending a person for appointment as a Deputy Commissioner.
 (1A) Part 2 of the Crown Entities Act 2004 (except section 46) applies to the appointment and removal of a Deputy Health and Disability Commissioner in the same manner as it applies to the appointment and removal of the Commissioner.
-(2) A person may be appointed as the Mental Health Commissioner in the same way as the Commissioner is appointed, except that the Minister must consult the Commissioner before recommending a person for appointment as the Mental Health Commissioner.
-(3) A person who is a Deputy Commissioner or the Mental Health Commissioner has any powers, duties, and functions that—
+(2)
+(3) A person who is a Deputy Commissioner has any powers, duties, and functions that—
   (a) the Commissioner delegates to him or her under section 68(3A); and
   (b) he or she may exercise and perform under subsection (4).
 (4) During the absence of the Commissioner from duty (for any reason) or a vacancy in the office of the Commissioner (for any reason), the powers, duties, and functions of the Commissioner may be exercised and performed by—
@@ -172,7 +172,7 @@ In exercising or performing any power or function under this Act, every person m
   (k) to report to the Minister from time to time on the need for, or desirability of, legislative, administrative, or other action to give protection or better protection to the rights of health consumers or disability services consumers or both:
   (l) to receive and invite representations from members of the public and from any other body, organisation, or agency on matters relating to the rights of health consumers or disability services consumers or both:
   (m) to gather such information as in the Commissioner’s opinion will assist the Commissioner in carrying out the Commissioner’s functions under this Act:
-  (ma) to monitor mental health and addiction services and to advocate improvements to those services:
+  (ma)
   (n)
   (o) to perform such functions as the Commissioner is for the time being directed to perform by the Minister in accordance with section 112 of the Crown Entities Act 2004:
   (p) to exercise and perform such other functions, powers, and duties as are conferred or imposed on the Commissioner by or under this Act or any other enactment.
@@ -250,7 +250,7 @@ The provisions of Schedule 2 shall have effect in relation to the Commissioner a
 ### 23 Consultation on preparation and review of Code
 Without limiting section 14(2), the Commissioner shall, in carrying out the requirements of sections 19 and 21, consult with, and invite submissions from, such persons, bodies, organisations, and agencies, including—as the Commissioner considers necessary to ensure that a wide range of views is available to the Commissioner to assist in the preparation and review of the Code of Health and Disability Services Consumers’ Rights.
   (a) representatives of health consumers, disability services consumers, health care providers, and disability services providers; and
-  (b) the Ombudsmen, the Human Rights Commission, the Privacy Commissioner, the Children’s Commissioner, and the Director of Mental Health,—
+  (b) the Ombudsmen, the Human Rights Commission, the Privacy Commissioner, the Children’s Commissioner, the Mental Health and Wellbeing Commission, and the Director of Mental Health,—
 
 ## Part 3 — Health and Disability Services Consumer Advocacy Service
 
@@ -674,7 +674,7 @@ The Commissioner shall not, in any report or recommendation made or published un
 
 ### 68 Delegation of functions and powers
 (1)
-(2) The Commissioner may not delegate to any person other than a Deputy Commissioner or the Mental Health Commissioner—
+(2) The Commissioner may not delegate to any person other than a Deputy Commissioner—
   (a)
   (b) the functions of the Commissioner under Part 2; or
   (c) the power to designate any person under section 15(1) or section 24(1), or to revoke any such designation; or
@@ -784,7 +784,7 @@ Amendment(s) incorporated in the Act(s).
 (2) Notwithstanding anything in this Act, any person who, immediately before being appointed as the Commissioner or, as the case may be, becoming an employee of the Commissioner, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 shall be deemed to be, for the purposes of the Government Superannuation Fund Act 1956, employed in the Government service so long as that person continues to hold office as the Commissioner or, as the case may be, to be an employee of the Commissioner; and that Act shall apply to that person in all respects as if that person’s service as the Commissioner or, as the case may be, as such an employee were Government service.
 (3) Subject to the Government Superannuation Fund Act 1956, nothing in subclause (2) entitles any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
 (4) For the purpose of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), to a person who holds office as the Commissioner or, as the case may be, is in the service of the Commissioner as an employee and (in either case) is a contributor to the Government Superannuation Fund, the term controlling authority, in relation to any such person, means the Commissioner.
-(5) For the purposes of this clause, Commissioner includes any Deputy Commissioner or the Mental Health Commissioner.
+(5) For the purposes of this clause, Commissioner includes any Deputy Commissioner.
 
 ### 5 Application of certain Acts to Commissioner and staff
 [Repealed]
