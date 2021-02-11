@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-02-11_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -5068,7 +5068,7 @@ A person’s income includes the following payments made to the person:
 
 ### 8 Income excludes specified benefits, etc
 A person’s income excludes the following payments:
-  (a) any benefit, grant, allowance, or concession received by the person under this Act (but see clause 8A), Part 6 of the Veterans’ Support Act 2014, or Part 1 of the New Zealand Superannuation and Retirement Income Act 2001:
+  (a) any benefit, grant, allowance, or concession received by the person under this Act, Part 6 of the Veterans’ Support Act 2014, or Part 1 of the New Zealand Superannuation and Retirement Income Act 2001:
   (b) any pension or allowance (other than weekly income compensation or weekly compensation) under the Veterans’ Support Act 2014 received by any person because of the person’s own disablement:
   (c) any surviving spouse or partner pension received by the person under section 66 of the Veterans’ Support Act 2014:
   (d) any, or any part of any, pension or other periodical allowance received by any person from the Government of any Commonwealth country (other than New Zealand) that MSD determines is analogous to a pension or allowance specified in paragraph (b) or (c):
@@ -5090,8 +5090,7 @@ A person’s income excludes the following payments:
   (p) any amount of goods and services tax payable by the Commissioner of Inland Revenue to that person.
 
 ### 8A Exception to exclusion in clause 8(a): income includes COVID-19 income relief payment
-(1) Despite clause 8(a), a person’s income includes a COVID-19 income relief payment received by the person.
-(2) However, a payment of that kind is not income of the person for the purposes of the COVID-19 Income Relief Payment Programme.
+[Repealed]
 
 ### 9 Income excludes amounts, etc, declared not to be income
 A person’s income excludes any amount, item, payment, or income from specified source, declared by regulations made under section 422 not to be income.
