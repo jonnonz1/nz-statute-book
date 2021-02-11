@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-02-11_
 
 > Title
 
@@ -71,6 +71,7 @@ _Consolidation as at 2020-12-01_
     (jca) section 219 of the Food Act 2014; or
     (jd) section 125B of the Animal Products Act 1999; or
     (je) section 96B of the Wine Act 2003; or
+    (jea) section 126C of the Residential Tenancies Act 1986; or
     (jf) section 30Q of the Climate Change Response Act 2002; or
     (jg) section 89 of the Smokefree Environments and Regulated Products Act 1990; or
     (k) any provision of any other Act providing for the use of the infringement notice procedure under section 21
