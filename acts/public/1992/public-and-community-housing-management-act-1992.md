@@ -1,5 +1,5 @@
 # Public and Community Housing Management Act 1992
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-02-11_
 
 > Title
 
@@ -471,7 +471,7 @@ In this Part, unless the context otherwise requires,—
   (a) the higher income-related rent calculated by the agency for the tenant for the housing in respect of the period commencing on the date that is 61 days after the change in circumstances occurred and ending on the day before the effective date (capped at the market rent); and
   (b) the income-related rent applying to that period that the agency had calculated for the tenant for the housing and set out in its previous notification.
 (4) Kāinga Ora–Homes and Communities must change the rent charged following receipt of a notification from the agency unless, in the opinion of Kāinga Ora–Homes and Communities, it would not result in a material difference to the rent charged for the housing concerned.
-(5) Section 24(1)﻿(c) to (h) and 24(1A) and (2) of the Residential Tenancies Act 1986 do not apply to the increase in rent.
+(5) Section 24(1)﻿(c) to (h) and 24(1A) of the Residential Tenancies Act 1986 do not apply to the increase in rent.
 (6) Amounts recoverable under subsection (3) are not rent in arrear for the purpose of the Residential Tenancies Act 1986.ExampleMary is a tenant of Kāinga Ora–Homes and Communities and is paying an income-related rent to Kāinga Ora–Homes and Communities. On 1 March, Mary returned to full-time employment but did not tell the agency of her change in circumstances.Several months later, the agency becomes aware that Mary’s circumstances had changed on 1 March. The agency calculates an increased income-related rent for Mary, and notifies Kāinga Ora–Homes and Communities accordingly. The increased income-related rent does not exceed the market rent for the housing.On 1 October that same year, Kāinga Ora–Homes and Communities notifies Mary that she must pay an increased income-related rent (in accordance with the agency’s notification) from the rent period beginning on 21 October (the effective date).The agency is entitled to recover from Mary, as a debt due to the Crown, the difference between—
   (a) the higher income-related rent for the housing (as set out in the agency’s notification), in respect of the period commencing on 1 May (61 days after the change in circumstances) and ending on 20 October; and
   (b) the income-related rent applying to that period that the agency had calculated for the tenant for the housing (as set out in the agency's previous notification).
@@ -698,7 +698,7 @@ In this Part, unless the context otherwise requires,—
   (b) the income-related rent applying to that period that the agency had calculated for the tenant for the housing and set out in its previous notification.
 (3) The income-related rent notified under subsection (1)﻿(a) for the housing must not exceed its market rent for the time being.
 (4) A registered community housing provider must change the rent charged following receipt of a notification from the agency unless, in the provider’s opinion, it would not result in a material difference to the rent charged for the housing concerned.
-(5) Section 24(1)﻿(c) to (h) and 24(1A) and (2) of the Residential Tenancies Act 1986 do not apply to the increase in rent.
+(5) Section 24(1)﻿(c) to (h) and 24(1A) of the Residential Tenancies Act 1986 do not apply to the increase in rent.
 (6) Amounts recoverable under subsection (2) are not rent in arrear for the purposes of the Residential Tenancies Act 1986.ExampleMary is a tenant of a registered community housing provider and is paying an income-related rent to the provider. On 1 March, Mary returned to full-time employment but did not tell the agency of her change in circumstances.Several months later, the agency becomes aware that Mary’s circumstances had changed on 1 March. The agency calculates an increased income-related rent for Mary, and notifies the registered community housing provider accordingly. The increased income-related rent does not exceed the market rent for the housing.On 1 October that same year, the registered community housing provider notifies Mary that she must pay an increased income-related rent (in accordance with the agency’s notification) from the rent period beginning on 21 October (the effective date).The agency is entitled to recover from Mary, as a debt due to the Crown, the difference between—
   (a) the higher income-related rent for the housing (as set out in the agency’s notification) in respect of the period commencing on 1 May (61 days after the change in circumstances) and ending on 20 October; and
   (b) the income-related rent applying to that period that the agency had calculated for the tenant for the housing (as set out in the agency's previous notification).
