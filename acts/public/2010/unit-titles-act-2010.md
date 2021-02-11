@@ -1,5 +1,5 @@
 # Unit Titles Act 2010
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2021-02-11_
 
 ### 1 Title
 This Act is the Unit Titles Act 2010.
@@ -1671,8 +1671,11 @@ The owner of a future development unit in a unit title development to which this
 (1) Part 3 of the Residential Tenancies Act 1986 applies with all necessary modifications in respect of the hearing and determination of a unit title dispute by a Tenancy Tribunal except the following sections:
   (a) section 77 (which relates to the Tribunal’s jurisdiction):
   (aa) section 78A (which relates to orders of the Tribunal relating to unlawful residential premises):
+  (ab) section 95A(1), (2), (3), and (6) (which relates to orders of the Tribunal for suppression of a party’s name or identifying particulars):
   (b) section 106 (which relates to the enforcement of possession orders):
-  (c) section 109 (which relates to unlawful acts and claims for exemplary damages).
+  (ba) section 108(2B) (which relates to certain failures to comply with work orders):
+  (c) section 109 (which relates to unlawful acts and claims for exemplary damages):
+  (d) sections 109B to 109E (which relate to pecuniary penalties).
 (2) Without limiting subsection (1), every reference in Part 3 of the Residential Tenancies Act 1986 to this Act is to be read as a reference to the Unit Titles Act 2010.
 
 ### Subpart 2 — Cancellation of unit plans
