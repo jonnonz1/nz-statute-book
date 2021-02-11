@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-02-11_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -24,6 +24,7 @@ _Consolidation as at 2021-01-30_
     (e) any other application that may be made to the Tribunal by virtue of any of the provisions of this Act or of any regulations made under this Act
   - **approved form** , in relation to any application or other matter, means a form approved and made available by the chief executive for the purposes of that application or matter
   - **assignment** means a transfer to a person of all of the rights that a tenant has under a tenancy agreement
+  - **associated person** , in relation to a person (), means a person () who is associated with A within the meaning given to that term in subsection (2A)
   - **boarding house** , , , and have the meanings given to them in section 66B
   - **bond** means any sum of money payable or paid under a tenancy agreement as security for the observance and performance of the tenant's obligations under the agreement and this Act; but does not include any sum payable or paid by way of rent
   - **chief executive** means the chief executive of the department
@@ -53,11 +54,13 @@ _Consolidation as at 2021-01-30_
     (h) communication facilities:
     (i) recreational areas:
     (j) lawns, gardens, and outhouses
-  - **fixed-term tenancy** means a tenancy for a fixed term; but, except as provided in section 7(3) and section 58(1), does not include such a tenancy that is terminable by notice
+  - **fixed-term tenancy** means a tenancy for a fixed term; but, except as provided in section 58(1), does not include such a tenancy that is terminable by notice
   - **the Fund** means the Residential Tenancies Fund established by section 127
   - **goods** means goods, baggage, and chattels of any description; and includes animals and plants; and also includes money, documents, and all other things of value
   - **guarantor** , in relation to a tenancy, means a person who guarantees the performance of the tenant’s obligations, or who indemnifies the landlord against loss that he or she may incur in respect of the tenancy, or who assumes liability for the performance of the obligations of the tenant, and has a corresponding meaning
   - **healthy homes standards** means the standards provided for in regulations under section 138B(1)
+  - **infringement fee** has the meaning given to it by section 126A
+  - **infringement offence** has the meaning given to it by section 126A
   - **key money** means any sum of money demanded by way of fine, premium, foregift, reimbursement of expenses, administration charges, or otherwise as consideration for the grant, continuance, extension, variation, or renewal of a tenancy agreement, or for consent to the surrender or disposition of the tenant's interest under a tenancy agreement or to a subletting by the tenant; but does not include any sum payable or paid by way of rent or bond
   - **landlord** , in relation to any residential premises that are the subject of a tenancy agreement, means the grantor of a tenancy of the premises under the agreement; and, where appropriate, includes—
     (a) a prospective landlord; and
@@ -72,16 +75,19 @@ _Consolidation as at 2021-01-30_
       (ii) the assignment of a tenant’s interest under any tenancy agreement; or
       (iii) the subletting of the whole or any part of the premises by a tenant; but
     (b) does not include any expenses recoverable under section 44(5)
-  - **member of the landlord’s or owner’s family** means any of the following:
-    (a) the landlord’s or owner’s spouse or civil union partner:
-    (b) the landlord’s or owner’s de facto partner:
-    (c) any child of the landlord or owner or of any person referred to in paragraph (a) or (b):
-    (d) any other child who is being, or is to be, cared for on a continuous basis by the landlord or owner or any person referred to in paragraph (a) or (b):
-    (e) any parent of the landlord or owner or of any person referred to in paragraph (a) or (b):
-    (f) any other person who is related (whether by blood or marriage) to the landlord or owner or to any person referred to in paragraph (a) or (b) and is residing, or is to reside, in the landlord’s or owner’s premises in accordance with an arrangement between that person and the landlord or the owner of a predominantly domestic or family nature rather than a predominantly commercial nature
+  - **member of the landlord’s or owner’s family** , in relation to a landlord or an owner, means—
+    (a) any person who is or has been related to the landlord or owner—
+      (i) by blood; or
+      (ii) by or through marriage, a civil union, or a de facto relationship; or
+      (iii) by adoption:
+    (b) any other person who is a member of the landlord’s or owner’s whānau or other culturally recognised family group:
+    (c) any child who is being, or is to be, cared for on a continuous basis by—
+      (i) the landlord or owner; or
+      (ii) the landlord’s or owner’s spouse, civil union partner, or de facto partner
   - **methamphetamine** means the Class A controlled drug methamphetamine specified or described in Schedule 1 of the Misuse of Drugs Act 1975
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **minor** means any person who is not an adult
+  - **minor change** has the meaning given to it by section 42B(2)
   - **officer of the Tribunal** means an officer of the department or the Ministry of Justice who is for the time being acting in the service of the Tribunal; and includes a Tenancy Mediator
   - **order** , in relation to the Tribunal, means any order, decision, determination, consent, approval, or ruling given or made by the Tribunal; and includes an order by the Tribunal dismissing an application
   - **periodic tenancy** means a residential tenancy other than a fixed-term tenancy
@@ -128,6 +134,19 @@ _Consolidation as at 2021-01-30_
     (d) a day in the period commencing with Good Friday and expiring with the Tuesday after Easter; and
     (e) a day in the period commencing with 24 December and expiring with 3 January.
 (2) For the purposes of paragraph (b) of the definition of the term service tenancy in subsection (1), 2 companies are associated if one is the wholly or partly owned subsidiary of the other.
+(2A) For the purposes of this Act, one person (A) is associated with another person (B),—
+  (a) in the case where both A and B are individuals, if A is the spouse, civil union partner, or de facto partner of B:
+  (b) in the case where B is a company, if A is a director or an officer of B, or is associated (within the meaning of paragraph (a)) with a director or an officer of B, or is directly or indirectly able to exercise control over the affairs of B:
+  (c) in the case where A is a company, if B is a director or an officer of A, or is associated (within the meaning of paragraph (a)) with a director or an officer of A, or is directly or indirectly able to exercise control over the affairs of A:
+  (d) in the case where both A and B are companies,—
+    (i) if A is a holding company or subsidiary of B within the meaning of section 5 of the Companies Act 1993; or
+    (ii) if A owns or controls shares that in aggregate carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of B; or
+    (iii) if B owns or controls shares that in aggregate carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of A; or
+    (iv) if A and B have the same holding company within the meaning of section 5 of the Companies Act 1993; or
+    (v) if a third person owns or controls shares in each of them that carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of each of them.
+(2B) For the purposes of any provision of this Act that applies to landlords that have 6 or more tenancies, a person who is a landlord (A) of 1 or more tenancies must also be treated as if they were the landlord of any tenancy for which an associated person of A is a landlord.
+(2C) For the purposes of determining, under subsection (2B), how many tenancies a landlord has or how many tenancies an associated person of the landlord has, any tenancies related to a residential premises described in subsection (2D) must be treated as if they were 1 tenancy.
+(2D) Subsection (2C) applies to a residential premises that would be a boarding house (within the meaning of section 66B) except that the premises are occupied, or intended to be occupied, by fewer than 6 tenants at any one time.ExampleA, a landlord, has 4 tenancies. Two of the tenancies relate to a house in which the tenants have exclusive rights to occupy their respective sleeping quarters while sharing some facilities (that is, the premises would be a boarding house except that the premises are not occupied, or intended by the landlord to be occupied, by at least 6 tenants). Under subsection (2C), those 2 tenancies must be treated as 1 tenancy. As a result, A is treated as having 3 tenancies.A’s spouse, B, is also a landlord and has 4 tenancies. Under subsection (2B), because B is an associated person of A, A must be treated as if A were also the landlord of B’s 4 tenancies. As a consequence, A is treated as having 7 tenancies for the purposes of any provision of this Act that applies to landlords that have 6 or more tenancies. If A commits an infringement offence in relation to one of A’s tenancies, A is liable to the fine or the infringement fee that applies to landlords who have 6 or more tenancies.
 (3) For the purposes of this Act, where any premises that are subject to a legal or an equitable lease are used for both commercial and residential purposes, the premises shall be deemed to be residential premises unless it is proved that the premises were let principally for purposes other than residential purposes.
 
 ### 2A Transitional, savings, and related provisions
@@ -167,7 +186,12 @@ This Act applies to every tenancy for residential purposes except as specificall
   (q) where the tenant's interest in the premises is a stratum estate in leasehold under the Unit Titles Act 2010:
   (r) where the tenancy arises wholly from or depends wholly upon the ownership by the tenant of any shares in a company that owns the premises:
   (s) where the tenancy agreement—
-    (i) is genuinely entered into to enable a tenant (the sublandlord) to sublet the premises to provide accommodation for other people for commercial gain or to provide accommodation for the sublandlord's employees or to provide social housing; and
+    (i) is genuinely entered into to enable a tenant (the sublandlord) to sublet the premises to provide accommodation for—
+      (A) other people for commercial gain; or
+      (B) the sublandlord’s employees; or
+      (C) persons on low incomes; or
+      (D) persons with special housing needs; or
+      (E) persons whose disabilities mean that they need support or supervision in their housing; and
     (ii) is not entered into to provide accommodation for the sublandlord or to evade this Act or any of its provisions; and
     (iii) expressly provides that the sublandlord will not personally occupy the premises:
   (t) where the premises comprise bare land (with or without facilities) on which the tenant has the right under the tenancy agreement to place or erect a mobile home, caravan, or other means of shelter:
@@ -184,10 +208,7 @@ This Act applies to every tenancy for residential purposes except as specificall
       (A) emergency housing assistance paid to or for the credit of a person under the Special Needs Grants Programme; or
       (B) any other payment made by a government department for the provision of emergency or transitional accommodation to people in need of housing; or
     (ii) the provider of the accommodation is a person, or class of person, prescribed by regulations for the purposes of this paragraph.
-(2) In subsection (1)﻿(s)﻿(i), social housing means housing for—
-  (a) persons on low incomes:
-  (b) persons with special housing needs:
-  (c) persons whose disabilities mean that they need support or supervision in their housing.
+(2)
 (3) In subsection (1)﻿(tb), relocatable home means a structure (other than a tent) that—
   (a) is located in a camping-ground subject to regulations under the Health Act 1956; and
   (b) is designed to be relocatable; and
@@ -226,14 +247,14 @@ This Act applies to every tenancy for residential purposes except as specificall
 ### 6 Long fixed-term tenancies
 [Repealed]
 
-### 7 Short fixed-term tenancies
-(1) Subject to subsection (2), nothing in sections 25 to 28 and 51 shall apply to a fixed-term tenancy of not more than 90 days if, before the commencement of the tenancy, the parties agree in writing that the tenancy will not be extended or renewed to give a total length of the term in excess of 90 days.
+### 7 Tenancies for short fixed terms
+(1) Subject to subsection (2), nothing in sections 25 to 28 and 51 shall apply to a tenancy for a fixed term of not more than 90 days (whether or not terminable by notice) if, before the commencement of the tenancy, the parties agree in writing that the tenancy will not be extended or renewed to give a total length of the term in excess of 90 days.
 (2) Where such a tenancy is extended or renewed, whether once or more than once, with the result that the total length of the term exceeds 90 days, on the expiry of that period of 90 days the tenancy shall become subject to sections 25 to 28 and 51 (as well as all the other provisions).
-(2A) The parties may not enter into a fixed-term tenancy of not more than 90 days for the purpose of using that tenancy as a trial-period for ascertaining the desirability of extending or renewing the tenancy.
-(2B) The Tribunal may, on the application of a tenant or former tenant who is or who was a party to a fixed-term tenancy of not more than 90 days, order the extension or renewal of that tenancy on any terms that the Tribunal thinks just if the Tribunal is satisfied that—
+(2A) The parties may not enter into a tenancy for a fixed term of not more than 90 days for the purpose of using that tenancy as a trial-period for ascertaining the desirability of extending or renewing the tenancy.
+(2B) The Tribunal may, on the application of a tenant or former tenant who is or who was a party to a tenancy for a fixed term of not more than 90 days, order the extension or renewal of that tenancy on any terms that the Tribunal thinks just if the Tribunal is satisfied that—
   (a) the tenancy was granted in breach of subsection (2A); and
   (b) the proposed extension or renewal will not prejudice third parties who are not in any way involved in the breach.
-(3) For the purposes of this section, the term fixed-term tenancy includes such a tenancy terminable by notice.
+(3)
 
 ### 8 Parties to excluded tenancies may agree that Act shall apply
 (1) Nothing in any of sections 5 to 7 shall prevent the parties to a tenancy that would otherwise be excluded from this Act by virtue of any of the provisions of those sections, being a tenancy of any premises used or intended to be used for residential premises, from agreeing in writing that all or any of the provisions of this Act shall apply in respect of the tenancy, either without modification or with such modifications as they may so agree.
@@ -281,9 +302,15 @@ Where, in any proceedings before the Tribunal, any party contends that this Act 
   (b) the person may make, in relation to those circumstances, a complaint under the Human Rights Act 1993.
 (2) For the purposes of subsection (1)﻿(b), a person makes a complaint when proceedings in relation to that complaint are commenced by the complainant or the Commission.
 
-### 13 Form of tenancy agreement
-(1) Every tenancy agreement shall be in writing and signed by both the landlord and the tenant.
-(2) The landlord shall, before the tenancy commences, provide the tenant with a copy of the tenancy agreement.
+### 13 Tenancy agreement must be in writing and signed
+(1) The landlord must ensure that the tenancy agreement is in writing.
+(2) The landlord must, before the tenancy commences,—
+  (a) sign the tenancy agreement; and
+  (b) provide a copy of the tenancy agreement to the tenant (whether or not the tenant has signed it).
+(3) The tenant must sign the tenancy agreement.
+(4) A landlord who fails to comply with subsection (1) or (2)—
+  (a) commits an unlawful act; and
+  (b) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
 
 ### 13A Contents of tenancy agreement
 (1) Every tenancy agreement shall include the following minimum information:
@@ -306,7 +333,8 @@ Where, in any proceedings before the Tribunal, any party contends that this Act 
   (m)
   (n)
   (o) a list of any chattels provided by the landlord; and
-  (p) if the tenancy is a fixed-term tenancy, the date on which the tenancy will terminate.
+  (p) if the tenancy is a fixed-term tenancy, the date on which the term will expire.
+(1AAA) A landlord who fails to ensure that the tenancy agreement includes the information specified in subsection (1)﻿(a) to (ab), (c) to (f), and (i) to (p) commits an unlawful act.
 (1A) The landlord must include in the tenancy agreement a statement, made and signed by the landlord, that provides the following information to the tenant (subject to subsections (1B) and (1C)):
   (a) whether or not there is, as at the date of the tenancy agreement, any insulation installed in connection with any ceilings, floors, or walls that are at the premises:
   (b) details of the location, type, and condition of all insulation that is, as at the date of the tenancy agreement, installed in connection with any ceilings, floors, or walls that are at the premises:
@@ -329,6 +357,7 @@ Where, in any proceedings before the Tribunal, any party contends that this Act 
 (1F) The landlord commits an unlawful act if—
   (a) the landlord fails to comply with subsection (1A), (1CA), (1CB), (2), (3), or (4); or
   (b) the landlord’s statement under subsection (1A), (1CA), (1CB), (2), (3), or (4) includes anything that the landlord knows to be false or misleading.
+(1G) The landlord commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B if the landlord fails to comply with subsection (1A), (1CA), (1CB), or (2).
 (2) The landlord must include in the tenancy agreement the following information about insurance of the premises:
   (a) if the premises are not insured, a statement that they are not insured; and
   (b) if the premises are insured, a statement—
@@ -370,14 +399,18 @@ Sections 13 to 13B (and, in the case of a boarding house tenancy, section 66C) d
 (1A) For the purposes of subsection (1)﻿(a), the following must be notified with the person’s contact address:
   (a) the person’s contact mobile telephone number (if any):
   (b) the person’s contact email address (if any).
+(2) A landlord or tenant who fails to comply with this section commits an unlawful act.
 (2)
+(3) A landlord who fails to comply with this section commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
 
 ### 16 Change of name or address
 (1) Where the name and contact address, or address for service, of any person has been notified to the other party to the tenancy in accordance with this Act and that name or address subsequently changes (otherwise than in circumstances to which section 15 applies), the person shall, within 10 working days thereafter, cause notice of the new particulars to be given to the other party to the tenancy.
 (1A) In subsection (1), contact address includes the following:
   (a) a person’s contact mobile telephone number:
   (b) a person’s contact email address.
+(2) A landlord or tenant who fails to comply with this section commits an unlawful act.
 (2)
+(2A) A landlord who fails to comply with this section commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
 (3) The obligation in subsection (1) does not apply to a contact person whose name and contact details are contained in a boarding house tenancy agreement.
 
 ### 16A Landlord must have agent if out of New Zealand for longer than 21 consecutive days
@@ -391,7 +424,9 @@ Sections 13 to 13B (and, in the case of a boarding house tenancy, section 66C) d
   (a) the agent’s contact mobile telephone number (if any):
   (b) the agent’s contact email address (if any).
 (5) An agent appointed under this section has, as against the tenant, all the rights and obligations of the landlord.
-(6) A contravention of any of subsections (1) to (4) is declared to be an unlawful act.
+(6) A landlord who fails to comply with this section—
+  (a) commits an unlawful act; and
+  (b) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
 
 ### 16B Body corporate rules part of tenancy agreement
 (1) This section applies to residential premises that are held in a stratum estate under the Unit Titles Act 2010.
@@ -408,8 +443,9 @@ Sections 13 to 13B (and, in the case of a boarding house tenancy, section 66C) d
   (a) the grant, continuance, extension, variation, or renewal of any tenancy agreement; or
   (b) the assignment of a tenant's interest under any tenancy agreement; or
   (c) the subletting of the whole or any part of the premises by a tenant.
-(2) The Tribunal shall not give its consent under subsection (1) unless it is satisfied that, having regard to the special circumstances of the case, including the nature of the premises and any matters personal to the landlord or the tenant or the proposed assignee or the proposed subtenant, it would be fair and reasonable to allow the requirement of key money.
+(2) Nothing in subsection (1) limits or affects section 44A (which entitles a landlord to recover reasonable expenses on consenting to the tenant’s assigning, subletting, or parting with possession of the premises, or to termination of the tenancy by agreement).
 (3) The requiring of key money in contravention of subsection (1) is hereby declared to be an unlawful act.
+(3A) A landlord who contravenes subsection (1) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
 (4) Subsection (1) shall not apply to any of the following:
   (a) any sum required or received for an option to enter into a tenancy agreement if the sum does not exceed 1 week's rent payable under the agreement, and, upon the option being exercised, the sum is refunded or is applied toward the rent:
   (b) any sum that the landlord is authorised by any other provision of this Act to require or receive:
@@ -418,18 +454,23 @@ Sections 13 to 13B (and, in the case of a boarding house tenancy, section 66C) d
 
 ### 17A Requiring letting fee prohibited
 (1) No letting agent or other person may require a tenant to pay a letting fee.
-(2) Nothing in subsection (1) limits or affects section 44(5) (which entitles a landlord to recover reasonable expenses on consenting to the tenant’s assigning, subletting, or parting with possession of the premises).
+(2) Nothing in subsection (1) limits or affects section 44A (which entitles a landlord to recover reasonable expenses on consenting to the tenant’s assigning, subletting, or parting with possession of the premises).
 (3) Any requirement to pay a letting fee in contravention of subsection (1) is an unlawful act.
+(4) A landlord who contravenes subsection (1) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
 
 ### 18 Bonds to be no more than 4 weeks' rent
 (1) A landlord shall not require payment by way of bond of an amount greater than 4 weeks' rent lawfully payable under the tenancy agreement.
 (2) On the lawful increase of the rent, the landlord may require payment by way of bond of a further sum not exceeding the amount by which the rent payable for 4 weeks has been increased.
 (3) On the decrease of the rent, the amount by which the total sum already paid by way of bond exceeds the rent payable for 4 weeks following the decrease shall, on application to the chief executive by the person who paid the bond, be refunded to the tenant.
-(4) Requiring payment by way of bond of an amount greater than that permitted by this section is hereby declared to be an unlawful act.
+(4) A landlord who contravenes this section—
+  (a) commits an unlawful act; and
+  (b) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
 
 ### 18A Landlord must not require security other than permitted bond
 (1) A landlord may not require a tenant to provide the landlord with any form of security to secure any payment or performance arising out of, or in connection with, the tenancy.
-(2) A requirement made in contravention of subsection (1) is declared to be an unlawful act.
+(2) A landlord who contravenes this section—
+  (a) commits an unlawful act; and
+  (b) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
 (3) In this section, security—
   (a) means—
     (i) any interest in real or personal property; or
@@ -448,6 +489,7 @@ Sections 13 to 13B (and, in the case of a boarding house tenancy, section 66C) d
   (b) the landlord shall, within 23 working days after the payment is made, forward the amount received to the chief executive, together with a statement of particulars in the approved form signed by the landlord and the tenant.
 (1A) Subsection (1) does not apply if a bond of 1 week’s rent or less is paid in respect of a boarding house tenancy. In that case, section 66D applies instead.
 (2) Failure to issue a receipt, or to forward any amount received, in accordance with this section is hereby declared to be an unlawful act.
+(3) A landlord who fails to comply with subsection (1) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
 
 ### 20 Duties of chief executive in relation to bonds
 Where a landlord forwards to the chief executive any amount paid by way of bond, the chief executive shall—
@@ -527,6 +569,20 @@ The chief executive must make any payments of a bond under section 22, 22A, or 2
   (b) if that is the case, to supply that information to the department.
 (4) On receipt of a request made under subsection (3), MSD may supply the information requested to any officer or employee of the department who is authorised to receive that information.
 
+### 22F Landlord must state amount of rent when advertising residential premises
+(1) A landlord must not advertise or otherwise offer a tenancy of residential premises unless the amount of rent is stated in the advertisement or offer.
+(2) Subsection (1) does not apply in relation to—
+  (a) a service tenancy; or
+  (b) a tenancy described in section 53B(1)﻿(a) (which relates to social housing tenancies).
+(3) A landlord who contravenes subsection (1)—
+  (a) commits an unlawful act; and
+  (b) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
+
+### 22G Landlord must not invite or encourage bids for rent
+(1) A landlord must not invite or encourage a prospective tenant or any other person to offer to pay an amount of rent for residential premises that exceeds the amount of rent stated as part of the advertisement or offer of the premises in accordance with section 22F(1).
+(2) Subsection (1) does not prohibit a prospective tenant or other person from offering to pay an amount that exceeds the stated amount of rent.
+(3) A landlord who contravenes subsection (1) commits an unlawful act.
+
 ### 23 Rent in advance
 (1) A landlord shall not require the payment of any rent—
   (a) more than 2 weeks in advance; or
@@ -536,7 +592,9 @@ The chief executive must make any payments of a bond under section 22, 22A, or 2
   (b) no such regular deduction is such as to constitute a contravention of subsection (1); and
   (c) because of a forthcoming holiday period or for any other special reason, the landlord pays the tenant for a period longer than the standard pay period,—
 (3) A landlord shall not require any payment of rent to be made by postdated cheque or other similar postdated order.
-(4) The requirement of the payment of rent in contravention of this section is hereby declared to be an unlawful act.
+(4) A landlord who contravenes this section—
+  (a) commits an unlawful act; and
+  (b) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
 
 ### 24 Rent increases
 (1) The rent payable in respect of any tenancy may be increased by the landlord provided all of the following conditions are complied with:
@@ -629,6 +687,7 @@ The Tribunal may, on application by the landlord, make an order increasing the r
   (b) to any rent paid by the tenant into any account nominated by the landlord and operated by the landlord exclusively in respect of the tenancy, or exclusively in respect of the tenancy and any other tenancies of the landlord; or
   (c) to any rent paid by way of deduction from the tenant's pay, or from any benefit to which the tenant is entitled under the Social Security Act 2018, and paid into a bank account nominated by the landlord.
 (5) Failure to give a receipt or written statement in accordance with this section is hereby declared to be an unlawful act.
+(6) A landlord who fails to comply with this section commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
 
 ### 30 Landlord to keep records
 (1) Every landlord under a tenancy to which this Act applies shall keep or cause to be kept proper business records showing—
@@ -638,7 +697,9 @@ The Tribunal may, on application by the landlord, make an order increasing the r
 (1B) In subsection (1A), tax year means—
   (a) the period of 9 months beginning with 1 July 2016 and ending with 31 March 2017; or
   (b) a later period of 12 months beginning with 1 April and ending with 31 March.
-(2) Failure to keep records in accordance with this section is hereby declared to be an unlawful act.
+(2) A landlord who fails to comply with this section—
+  (a) commits an unlawful act; and
+  (b) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
 
 ### 31 Apportionment of rent
 (1) The rent payable under a tenancy agreement shall accrue from day to day.
@@ -732,17 +793,42 @@ The landlord shall take all reasonable steps to ensure that, at the commencement
 (1) The tenant shall be responsible for anything done or omitted to be done by any person (other than the landlord or any person acting on the landlord's behalf or with the landlord's authority) who is in the premises with the tenant's permission if the act or omission would have constituted a breach of the tenancy agreement had it been the act or omission of the tenant.
 (2) Where any person (other than the landlord or any person acting on the landlord's behalf or with the landlord's authority) intentionally or carelessly damages the premises while the tenant is in the premises, it shall be presumed that the tenant permitted that person to be in the premises unless the tenant proves that he or she took all reasonable steps to prevent that person from entering the premises or (as the case may require) to eject that person from the premises.
 
-### 42 Tenant's fixtures
+### 42 Tenant's fixtures, etc
 (1) The tenant shall not affix any fixture to the premises, or make any renovation, alteration, or addition of or to the premises, except—
   (a) in accordance with the tenancy agreement; or
-  (b) with the prior written consent of the landlord.
-(2) The landlord shall not withhold that consent unreasonably.
+  (b) with the prior written consent of the landlord (see section 42A).
+(2)
 (3) The tenant may, at any time before the expiry of the tenancy, remove any fixture that the tenant has affixed to the premises during the term of the tenancy, unless the removal would cause irreparable damage to the premises.
 (4) Any fixtures affixed by the tenant to the premises but not removed by the tenant on the expiry of the tenancy become the property of the landlord.
 (5) Despite subsection (4), the tenant may remove any fixtures on or after the expiry of the tenancy if the tenant—
   (a) does so in accordance with an agreement or arrangement reached with the landlord; or
   (b) reasonably believes that he or she is entitled to do so because of anything the landlord has said or done.
 (6) If, on removing any fixture, the tenant causes any damage to the premises, the tenant must inform the landlord immediately and, at the landlord’s option, either repair the damage or compensate the landlord for any reasonable expenses incurred by the landlord in repairing the damage.
+(7) Subsections (3) to (6) do not apply in relation to a fixture that is a minor change. (See instead section 42B(4) to (6).)
+
+### 42A Consent for tenant’s fixtures, etc
+(1) The landlord must not unreasonably withhold consent for a fixture, renovation, alteration, or addition.
+(2) The landlord may impose reasonable conditions on the landlord’s consent.
+(3) If the tenant makes a written request for consent, the landlord must respond in writing within 21 days after receiving the request.
+(4) In the response, the landlord must indicate whether or not the landlord considers the fixture, renovation, alteration, or addition to be a minor change (see section 42B(2)).
+(5) If the landlord considers the fixture, renovation, alteration, or addition to be more than a minor change and the landlord needs more time to consider the request, the landlord may, in the written response under subsection (3), extend the time for responding to the tenant’s request.
+(6) A landlord who extends the time for responding under subsection (5) must respond to the request in writing within a reasonable amount of time.
+(7) A landlord commits an unlawful act if the landlord fails, without reasonable excuse, to comply with subsection (3), (4), or (6).
+
+### 42B Minor changes
+(1) Without limiting section 42A(1), it is unreasonable for a landlord to withhold consent to a minor change to premises.
+(2) In this section and section 42A, a minor change is any fixture, renovation, alteration, or addition of or to the premises that—
+  (a) presents no more than a low risk of material damage to the premises; and
+  (b) would allow the premises to be returned easily to substantially the same condition; and
+  (c) does not pose a risk to health and safety (including during work to install, remove, or undo the minor change) that cannot reasonably practicably be eliminated or minimised; and
+  (d) does not compromise the structural integrity, weathertightness, or character of any building; and
+  (e) would not have an unreasonable negative effect on any person’s enjoyment or use of any property outside the premises; and
+  (f) does not require any regulatory consent (for example, a building consent); and
+  (g) does not breach any obligation or restriction relevant to the premises (for example, an obligation or a restriction imposed by a bylaw, a planning or body corporate rule, or a covenant).
+(3) A landlord commits an unlawful act if the landlord withholds consent for a minor change.
+(4) If a minor change is made in accordance with a request under section 42A, the tenant must, on or before the expiry of the tenancy, return the premises to a condition that is substantially the same as the condition that the premises were in before the minor change was made.
+(5) Subsection (4) does not apply if the landlord and the tenant agree a different arrangement in relation to the minor change for the end of the tenancy (for example, that the minor change will remain in place).
+(6) A tenant who fails to comply with subsection (4) commits an unlawful act.
 
 ### 43 Disposition of landlord's interest
 (1) Where the landlord disposes of his or her interest in the premises to any other person (in this section referred to as the purchaser), the following provisions shall apply:
@@ -755,16 +841,47 @@ The landlord shall take all reasonable steps to ensure that, at the commencement
   (b) the purchaser’s contact email address (if any).
 (2) Nothing in subsection (1)﻿(a) or (1A) shall absolve the purchaser from the obligation imposed on the purchaser by section 15.
 
-### 44 Assignment, subletting, or parting with possession by tenant
-(1) There may be included in a tenancy agreement a provision that expressly and unconditionally prohibits the tenant from assigning, subletting, or parting with possession of the premises during the term of the tenancy.
-(2) In the absence of such a provision, the tenant may at any time during the tenancy assign, sublet, or otherwise part with possession of the premises with the prior written consent of the landlord and in accordance with any conditions attached to that consent by the landlord.
-(2A) A tenant commits an unlawful act if he or she assigns, sublets, or otherwise parts with possession of the premises—
+### 43A Effect of provision prohibiting assignment by tenant
+(1) A provision in a tenancy agreement that prohibits the tenant from assigning the tenancy is of no effect.
+(2) However, if the tenancy agreement relates to a tenancy described in section 53B(1)﻿(a) (which relates to social housing tenancies) and contains a provision that expressly and unconditionally prohibits the tenant from assigning the tenancy, the provision has effect.
+
+### 43B Assignment of tenancy by tenant
+(1) A tenant may, at any time during the tenancy, assign the tenancy—
+  (a) with the prior written consent of the landlord; and
+  (b) in accordance with any reasonable conditions attached to that consent by the landlord.
+(2) Subsection (1) does not apply in the circumstances described in section 43A(2).
+(3) A tenant commits an unlawful act if the tenant assigns the tenancy—
+  (a) without the prior written consent of the landlord; or
+  (b) if the tenancy is a tenancy described in section 53B(1)﻿(a), in contravention of a provision described in section 43A(2).
+(4) If a tenant makes a written request for the landlord’s consent to an assignment and the request identifies, and includes contact details for, the proposed assignee, the landlord must respond in writing to the request within a reasonable period of time.
+(5) A landlord who, without reasonable excuse, fails to comply with subsection (4) commits an unlawful act.
+(6) The landlord must not—
+  (a) withhold consent unreasonably; or
+  (b) attach any unreasonable conditions to the consent.
+(7) A landlord’s consent must not be taken to have been withheld unreasonably if, instead of consenting to an assignment, the landlord offers to accept a surrender of the tenancy on reasonable terms.
+(8) A landlord’s consent must be taken to have been withheld unreasonably if the withholding of the consent is an unlawful act under section 12 (discrimination to be unlawful act).
+
+### 43C Effect of assignment by tenant
+(1) A tenant who assigns the tenancy with the consent of the landlord and in accordance with any conditions attached to the consent ceases, on the date on which the assignment takes effect, to be responsible to the landlord for the obligations imposed on the tenant by the agreement and this Act.
+(2) Subsection (1) does not affect any liability already incurred by the tenant to the landlord for anything done or omitted to be done before the date on which the assignment takes effect.
+
+### 44 Subletting or parting with possession by tenant
+(1) There may be included in a tenancy agreement a provision that expressly and unconditionally prohibits the tenant from subletting or parting with possession of the premises during the term of the tenancy.
+(2) In the absence of such a provision, the tenant may at any time during the tenancy sublet or otherwise part with possession of the premises with the prior written consent of the landlord and in accordance with any conditions attached to that consent by the landlord.
+(2A) A tenant commits an unlawful act if he or she sublets or otherwise parts with possession of the premises—
   (a) in contravention of a provision of the kind described in subsection (1); or
   (b) in any other case, without the prior written consent of the landlord.
 (3) The landlord shall not withhold that consent unreasonably, nor attach any unreasonable conditions to it.
-(4) Without limiting subsection (3), a landlord's consent shall be taken to have been withheld unreasonably if the withholding of the consent is an unlawful act under section 12.
-(5) On giving consent to any assignment, subletting, or parting with possession of the premises by the tenant, the landlord shall be entitled to recover from the tenant any expenses reasonably incurred by the landlord in respect of the proposed transaction.
-(6) Where a tenant assigns his or her interest under the tenancy agreement to any other person with the consent of the landlord and in accordance with any conditions attached to that consent by the landlord, the tenant shall, on the date on which the assignment takes effect, cease to be responsible to the landlord for the obligations imposed on the tenant by the agreement and this Act, but without prejudice to any liability already incurred by the tenant to the landlord in respect of anything done or omitted to be done before that date.
+(4) Without limiting subsection (3), a landlord's consent shall be taken to have been withheld unreasonably if the withholding of the consent is an unlawful act under section 12 (discrimination to be unlawful act).
+(5) Nothing in this section applies to the assignment of a tenancy by a tenant (see sections 43A to 43C).
+(6)
+
+### 44A Recovery of expenses incurred by landlord
+(1) A landlord who consents to an assignment under section 43B, to a subletting or parting with possession under section 44, or to termination of the tenancy in accordance with section 50(1)﻿(d) is entitled to recover from the outgoing tenant any expenses reasonably incurred by the landlord in respect of the assignment, subletting, parting with possession, or termination.
+(2) A landlord who seeks to recover expenses from a tenant in accordance with subsection (1) must first provide an itemised account of the expenses to the tenant.
+(3) A landlord who takes any step to recover expenses referred to in subsection (1) without providing an itemised account of the expenses to the tenant—
+  (a) commits an unlawful act; and
+  (b) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
 
 ### 45 Landlord's responsibilities
 (1) The landlord shall—
@@ -789,6 +906,10 @@ The landlord shall take all reasonable steps to ensure that, at the commencement
 (1AAC) Subsections (1AA) and (1AAB) do not limit subsection (1), but see also, in relation to the landlord’s liability for contaminant presence, section 45A.
 (1A) Failure by the landlord to comply with any of paragraphs (a) to (ca) of subsection (1) is declared to be an unlawful act.
 (1AB) A contravention by the landlord of subsection (1AAB) is declared to be an unlawful act.
+(1AC) If the tenant requests the landlord to provide information described in section 123A(1)﻿(e) (relating to the healthy homes standards) to the tenant, the landlord must, within 21 days after the date of receiving the request, provide the information to the tenant.
+(1AD) A landlord who, without reasonable excuse, fails to comply with subsection (1AC)—
+  (a) commits an unlawful act; and
+  (b) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
 (1B)
 (1C)
 (2) The landlord shall not interfere with the supply of gas, electricity, water, telephone services, or other services to the premises, except where the interference is necessary to avoid danger to any person or to enable maintenance or repairs to be carried out.
@@ -811,14 +932,40 @@ The landlord shall take all reasonable steps to ensure that, at the commencement
 (2) The landlord (having complied with those regulations during that period) is not liable, under this Act, for not having provided the tenant with clean or habitable premises during that period on the basis of the presence of the contaminant in the premises.
 (3) For the purpose of this section, a landlord knows that premises are contaminated only if the landlord knows that tests carried out in accordance with a relevant prescribed method have established that the premises are contaminated.
 
+### 45B Landlord must permit and facilitate installation of fibre connection in certain circumstances
+(1) The landlord must permit the installation of a fibre connection in the premises if—
+  (a) there is no fibre connection in the premises; and
+  (b) it is possible to install a fibre connection in the premises; and
+  (c) the tenant requests a fibre connection; and
+  (d) the fibre connection can be installed at no cost to the landlord (for example, because the cost is covered by the UFB Initiative).
+(2) However, a landlord is not required to permit the installation of a fibre connection—
+  (a) if installation would materially compromise the weathertightness or the character of any building; or
+  (b) if installation would compromise the structural integrity of any building; or
+  (c) if installation would breach an obligation or a restriction that is relevant to the premises (for example, an obligation or a restriction imposed by a bylaw, a planning or body corporate rule, or a covenant); or
+  (d) if—
+    (i) the landlord is to carry out extensive alterations, refurbishment, repairs, or redevelopment of the premises; and
+    (ii) the work is to begin, or material steps towards it are to be taken, within 90 days after the date on which the landlord receives a request for the installation of fibre from the tenant; and
+    (iii) the installation would impede that work; or
+  (e) if the Tribunal, on application by the landlord, determines that, due to the circumstances of the premises or the installation, the landlord should not be required to provide for the installation of a fibre connection in the premises.
+(3) A landlord who is required to permit the installation of a fibre connection must take all reasonable steps to facilitate the installation within a reasonable period of time.
+(4) If a tenant makes a written request for the installation of a fibre connection, the landlord must respond within 21 days after receiving the request.
+(5) If a network operator makes a written request for consent or information from the landlord, the landlord must respond to the request within 21 days after receiving the request.
+(6) A landlord commits an unlawful act if the landlord, without reasonable excuse, fails to comply with subsection (3), (4), or (5).
+(7) In this section,—
+  - **fibre connection** , in relation to premises, means a connection to a fibre fixed line access service from within the premises
+  - **fibre fixed line access service** , , and have the same meanings as in section 5 of the Telecommunications Act 2001
+  - **material steps** has the same meaning as in section 51(2A).
+
 ### 46 Locks
 (1) The landlord shall provide and maintain such locks and other similar devices as are necessary to ensure that the premises are reasonably secure.
 (2) Neither the landlord nor the tenant shall alter any existing lock or similar device, or add to or remove from the premises any lock or similar device, without the consent of the other given at the time that, or a reasonable time before, the alteration, removal, or addition is carried out.
 (3) Failure to comply with subsection (1), and contravention of subsection (2), without reasonable excuse, is each hereby declared to be an unlawful act.
 
-### 47 Landlord to give notice to tenant of intention to sell
-(1) If, at any time after entering into a tenancy agreement, the landlord puts the premises on the market for the purposes of sale or other disposition, the landlord shall forthwith give written notice of that fact to the tenant.
+### 47 Landlord to give notice to tenant if premises put on market
+(1) If, at any time after entering into a tenancy agreement, the landlord puts the premises on the market for the purposes of sale or other disposition, the landlord must, as soon as practicable, give written notice of that fact to the tenant.
 (2) When a landlord is offering residential premises as available for letting, the landlord shall inform prospective tenants if the premises are on the market for the purposes of sale or other disposition.
+(3) A landlord who fails to comply with subsection (1) or (2) commits an unlawful act.
+(4) A landlord who fails to comply with subsection (2) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
 
 ### 48 Landlord's right of entry
 (1) The landlord shall not enter the premises during the currency of the tenancy agreement, except—
@@ -854,9 +1001,11 @@ The landlord shall take all reasonable steps to ensure that, at the commencement
 (3B) If premises are entered for the purpose of testing for the presence of contaminants or taking samples for such testing (including as part of any decontamination process), the landlord must, within 7 days of receiving the results of the testing, notify the tenant, in writing, of the results of the testing and provide the tenant with a copy (if any) of the results.
 (4) The following are each hereby declared to be unlawful acts:
   (a) entry upon the premises by the landlord other than as permitted by or under any of subsections (1) to (3):
-  (b) failure by the tenant, without reasonable excuse, to allow the landlord to enter upon the premises in any circumstances in which the landlord is entitled to enter under subsections (2) to (3).
+  (b) failure by the tenant, without reasonable excuse, to allow the landlord to enter upon the premises in any circumstances in which the landlord is entitled to enter under subsections (2) to (3):
+  (c) failure by the landlord to notify, or to provide results to, the tenant as required under subsection (3B).
+(4A) A landlord who fails to notify, or to provide results to, the tenant as required under subsection (3B) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
 (5) Notwithstanding anything in subsections (2) to (4), the landlord shall not use force or the threat of force to enter or attempt to enter the premises while the tenant, or any other person with the permission of the tenant, is in the premises.
-(6) Every landlord who breaches subsection (5) commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000.
+(6) Every landlord who breaches subsection (5) commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $3,000.
 (7) In this section premises does not include land or facilities.
 (8) Nothing in this section shall apply in respect of any tenancy granted by the Armed Forces to any person subject to the Armed Forces Discipline Act 1971.
 
@@ -919,14 +1068,16 @@ In sections 49A to 49D, unless the context otherwise requires, premises includes
 **Termination of tenancies and recovery of possession**
 
 ### 50 Circumstances in which tenancies are terminated
-Subject in the case of a subtenancy to section 57, no tenancy to which this Act applies shall terminate or be terminated otherwise than as follows:
+(1) Subject in the case of a subtenancy to section 57, no tenancy to which this Act applies shall terminate or be terminated otherwise than as follows:
   (a) in the case of a fixed-term tenancy, on the expiry of the term of the tenancy or, if any of sections 56A(1), 58(1)﻿(d), (da), 59, 59A, or 59B apply, by giving notice in accordance with the applicable section:
   (ab) on the death of a sole tenant under a tenancy agreement or a sole tenant under a boarding house tenancy agreement, in accordance with section 50A or 66W, as the case requires:
-  (b) by the giving of notice of a period no shorter than that required by this Act, in the case of a periodic tenancy or where provision is made in the tenancy agreement for termination by notice:
+  (b) in the case of a periodic tenancy to which a right of termination under any of sections 51 to 53B, 56A(1), 58(1)﻿(c), and 59 to 59B applies, by giving notice in accordance with the applicable section:
+  (ba) in the case of a boarding house tenancy to which a right of termination under any of sections 52 to 53A, 58(1)﻿(c), 59 to 59B, 66U, 66V, and 66X applies, by giving notice in accordance with the applicable section:
   (c) where the tenant acquires the landlord's interest in the premises:
   (d) where the tenant surrenders the tenancy, or delivers up vacant possession of the premises, to the landlord with the landlord's written consent:
   (e) by disclaimer, by any person having lawful power to disclaim:
   (f) by order of the Tribunal pursuant to the powers conferred on it by this Act.
+(2) No right of termination to which subsection (1) applies limits any other right of termination that may also apply.
 
 ### 50A Termination following death of sole tenant
 (1) On the death of a sole tenant under a tenancy agreement (whether for a fixed-term tenancy or a periodic tenancy), the tenancy agreement terminates on the earliest of the following dates:
@@ -937,24 +1088,41 @@ Subject in the case of a subtenancy to section 57, no tenancy to which this Act 
 (2) If a landlord is unable to give notice to vacate under subsection (1)﻿(b), the landlord may apply, without notice, to the Tribunal for an order to terminate the tenancy.
 
 ### 51 Termination by notice
-(1) Subject to sections 52, 53, 53A, 59, 59A, and 59B, the minimum period of notice required to be given by a landlord to terminate a tenancy shall be as follows:
-  (a) where the owner of the premises requires the premises as the principal place of residence for the owner or any member of that owner’s family, 42 days:
-  (b) where the landlord customarily uses the premises, or has acquired the premises, for occupation by employees of the landlord, that fact being clearly stated in the tenancy agreement, and the premises are required for occupation by such an employee, 42 days:
-  (c) where the owner is required, under an unconditional agreement for the sale of the premises, to give the purchaser vacant possession, 42 days:
-  (d) in any other case, 90 days.
-(2) Subject to sections 52 to 53A, 56A(1), 59, 59A, and 59B, the minimum period of notice required to be given by a tenant to terminate a tenancy shall be 21 days, in any case.
+(1) A landlord may terminate a periodic tenancy by giving at least 63 days’ notice if—
+  (a) the owner of the premises requires the premises, within 90 days after the termination date, as the principal place of residence for at least 90 days for the owner or a member of the owner’s family; or
+  (b) the landlord customarily uses the premises, or has acquired the premises, for occupation by employees of the landlord or by contractors under contracts for services with the landlord, and—
+    (i) that fact is clearly stated in the tenancy agreement; and
+    (ii) the premises are required for that use; or
+  (c) the landlord customarily uses the premises, or has acquired the premises, for occupation by employees of a school board of trustees or by contractors under contracts for services with a school board of trustees, and—
+    (i) that fact is clearly stated in the tenancy agreement; and
+    (ii) the premises are required for that use; and
+    (iii) the landlord is the Ministry of Education.
+(2) A landlord may terminate a periodic tenancy by giving at least 90 days’ notice if—
+  (a) the premises are to be put on the market by the owner within 90 days after the termination date for the purposes of sale or other disposition; or
+  (b) the owner is required, under an unconditional agreement for the sale of the premises, to give the purchaser vacant possession; or
+  (c) the landlord is not the owner of the premises and the landlord’s interest in the premises is due to end; or
+  (d) the landlord or owner has acquired the premises to facilitate the use of nearby land for a business activity and—
+    (i) that fact is clearly stated in the tenancy agreement; and
+    (ii) the premises are required to be vacant of residential tenants to facilitate that use; or
+  (e) the premises are to be converted into commercial premises for at least 90 days by the landlord or owner; or
+  (f) extensive alterations, refurbishment, repairs, or redevelopment of the premises are to be carried out by the landlord or owner, and—
+    (i) it would not be reasonably practicable for the tenant to remain in occupation while the work is undertaken; and
+    (ii) the work is to begin, or material steps towards it are to be taken, within 90 days after the termination date; or
+  (g) the premises are to be demolished and the demolition is to begin, or material steps towards it are to be taken, within 90 days after the termination date.
+(2A) In subsection (2)﻿(f) and (g), taking a material step means applying for regulatory consent, seeking engineering or other professional advice, or taking any other significant step.
+(2B) A tenant may terminate a periodic tenancy in any case by giving at least 28 days’ notice.
 (3) Every notice to terminate a tenancy shall—
   (a) be in writing; and
   (b) identify the premises to which it relates; and
   (c) specify the date by which the tenant is to vacate the premises; and
-  (ca) in any case where the tenant is given less than 90 days’ notice, set out the reasons for the termination; and
+  (ca) if the notice is given by the landlord, set out the reasons for the termination; and
   (d) be signed by the party giving the notice, or by that party's agent.
 (4) In a notice to terminate a tenancy, no special form of words shall be required; and no such notice shall be held invalid for any failure to comply strictly with the requirements of subsection (3) so long as the notice is in writing, the intention to terminate the tenancy on a particular date or on the expiry of a particular period is stated clearly in the notice, and that any non-compliance is not such as to mislead or affect unjustly the interests of the recipient.
 (5) A notice to terminate a tenancy may be given on any day, and the period of notice may be expressed to expire on any day, regardless of the date on which the tenancy commenced or of any date on which any rent is to be paid.
 (6) A party who has given an effective notice to terminate a tenancy—
   (a) may, at any time before the expiry of the period of notice, revoke the notice with the consent of the other party; but
   (b) may give a further notice to terminate the tenancy only if the prior notice is revoked.
-(7) Where a party has given a notice to terminate the tenancy and subsequently realises that, because of—the period of notice given is less than the minimum prescribed by subsection (1) or (as the case may require) subsection (2), that party may, with the agreement of the other party or (failing such agreement) with the consent of the Tribunal, give to the other party a further notice varying the first notice so as to bring the period of notice given up to or above that minimum so required.
+(7) Where a party has given a notice to terminate the tenancy and subsequently realises that, because of—the period of notice given is less than the minimum prescribed by subsection (1) or (as the case may require) subsection (2) or (2B), that party may, with the agreement of the other party or (failing such agreement) with the consent of the Tribunal, give to the other party a further notice varying the first notice so as to bring the period of notice given up to or above that minimum so required.
   (a) some error in the way in which the period of the notice or the date of the expiry of that period is expressed in the notice; or
   (b) some delay in serving the notice,—
 (8) Every notice given under subsection (7) shall comply with the requirements of subsection (3).
@@ -962,18 +1130,19 @@ Subject in the case of a subtenancy to section 57, no tenancy to which this Act 
   (a) that the error in the notice or the delay in serving the notice was inadvertent; and
   (b) that the party who gave the notice has sought to correct the matter as soon as practicable after realising that the period of notice given is inadequate; and
   (c) that it would not be unfair to the other party to allow the original notice to be varied in the manner proposed.
+(10) In subsections (1) and (2), termination date means the date of termination provided for by the notice of termination given by the landlord (regardless of when termination in fact occurs).
 
 ### 52 Provision for shorter notice may be made with consent of Tribunal
 With the consent of the Tribunal, the parties to a tenancy agreement may provide for the termination of the tenancy by the giving of notice of a specified period (being less than that required by section 51), or on the happening of any event to be specified in the agreement, or where the landlord requires possession of the premises for any purpose to be specified in the agreement.
 
 ### 53 Special provisions for notice terminating service tenancies
-(1) The landlord or the tenant must give a minimum period of notice of 14 days to terminate a service tenancy if the contract of service or, as the case requires, the contract for services has been terminated or either party has given notice to terminate that contract (subject to subsections (2) to (7)).
+(1) The landlord or the tenant may terminate a service tenancy by giving at least 14 days’ notice if the contract of service or, as the case requires, the contract for services has been terminated or either party has given notice to terminate that contract (subject to subsections (2) to (7)).
 (2) Where the contract of service or, as the case requires, contract for services is terminated, or the tenant is transferred to another district, on less than 14 days' notice, the landlord may terminate the service tenancy by the giving of notice of less than 14 days if—
   (a) the landlord believes on reasonable grounds that the tenant will cause substantial damage to the premises if the tenant is permitted to remain for 14 days; or
   (b) it is necessary for the conduct of the landlord's business where the tenant was employed that a replacement employee be appointed within less than 14 days and no suitable alternative accommodation is available for the replacement worker during the period of 14 days.
 (3) No notice under this section shall have effect to terminate a service tenancy on a date preceding the date on which the termination of the contract of service or, as the case requires, contract for services or the transfer of the employee takes effect.
-(4) Where the tenant of a service tenancy dies leaving any dependant residing in the premises, the minimum period of notice required to be given by the landlord to terminate the tenancy shall, subject to subsection (5), be 14 days.
-(5) In any case to which subsection (4) applies, the landlord may terminate the tenancy by the giving of notice of less than 14 days, but not less than 5 days, if it is necessary for the conduct of the landlord's business at the place of business where the tenant was employed that a replacement employee be appointed within less than 14 days and no suitable alternative accommodation is available for the replacement worker during the period of 14 days.
+(4) Where the tenant of a service tenancy dies leaving any dependant residing in the premises, the landlord may terminate the tenancy by giving at least 14 days’ notice.
+(5) However, in any case to which subsection (4) applies, the landlord may terminate the tenancy by giving at least 5 days’ notice if it is necessary for the conduct of the landlord's business at the place of business where the tenant was employed that a replacement employee be appointed within less than 14 days and no suitable alternative accommodation is available for the replacement worker during the period of 14 days.
 (5A) Section 50A does not limit subsection (4) or (5).
 (6) Without limiting anything in subsections (2) to (5), in respect of a service tenancy granted by the Armed Forces to any person subject to the Armed Forces Discipline Act 1971, the landlord may terminate the tenancy by giving less than 14 days' notice if the operational requirements of the Armed Forces so require.
 (7) In any proceedings before the Tribunal in which the validity of a notice purporting to have been given under this section is in issue, the following provisions shall apply:
@@ -985,8 +1154,26 @@ With the consent of the Tribunal, the parties to a tenancy agreement may provide
 (1) In this section, student tenancy means a tenancy to which this Act applies that is granted by an institution (as defined in section 10(1) of the Education and Training Act 2020) to a person who is eligible to be a tenant by virtue of the person being—
   (a) a student; or
   (b) a student of a particular educational institution.
-(2) The landlord of a student tenancy, or the tenant of a student tenancy, may terminate the tenancy on 14 days’ notice if the tenant ceases to be eligible to be granted the tenancy.
+(2) The landlord of a student tenancy, or the tenant of a student tenancy, may terminate the tenancy by giving at least 14 days’ notice if the tenant ceases to be eligible to be granted the tenancy.
 (3) In any proceedings before the Tribunal in which the validity of a notice under subsection (2) is in issue, the question of when the tenant ceased to be eligible to be a tenant under the tenancy is a question of fact to be determined by the Tribunal.
+
+### 53B Special provisions for notice terminating social housing tenancies
+(1) The landlord under a periodic tenancy may terminate the tenancy by giving at least 90 days’ notice if—
+  (a) the tenancy—
+    (i) was granted before 14 April 2014 and is a tenancy of Kāinga Ora housing; or
+    (ii) was granted as a tenancy of social housing to a tenant assessed under the Public and Community Housing Management Act 1992 as eligible to be allocated social housing; but
+  (b) following the grant of the tenancy,—
+    (i) the social housing provider is notified under section 103 of that Act that the tenant is no longer eligible for social housing; or
+    (ii) in the case of community housing, the community housing provider ceases to be a registered community housing provider; or
+    (iii) the social housing provider requires the tenant to transfer to different social housing provided by that provider, and the provider considers that—
+      (A) the transfer is necessary or desirable for any reason; and
+      (B) the other housing is appropriate for the tenant’s housing needs as most recently assessed (regardless of when that assessment took place).
+(2) In this section,—
+  - **agency** , , , , , , and have the meanings given to them by section 2(1) of the Public and Community Housing Management Act 1992
+  - **as most recently assessed** means—
+    (a) as most recently assessed by the agency and notified to the provider under section 103 of the Public and Community Housing Management Act 1992; or
+    (b) if there has been no such assessment and notification under that section in relation to the tenant, as most recently assessed by HNZ
+  - **HNZ** has the meaning that it had under section 2(1) of the Public and Community Housing Management Act 1992 as in force on 13 April 2014.
 
 ### 54 Tribunal may declare retaliatory notice of no effect
 (1) Within 28 working days after receipt of a notice terminating the tenancy, being a notice that complies with the requirements of section 51 (or, in the case of a boarding house tenancy, section 66U), the tenant may apply to the Tribunal for an order declaring that the notice is of no effect on the ground that, in giving the notice, the landlord was motivated wholly or partly by the exercise or proposed exercise by the tenant of any right, power, authority, or remedy conferred on the tenant by the tenancy agreement or by this or any other Act or any complaint by the tenant against the landlord relating to the tenancy.
@@ -996,6 +1183,11 @@ With the consent of the Tribunal, the parties to a tenancy agreement may provide
 ### 55 Termination on non-payment of rent, damage, or assault
 (1) Subject to subsection (2), on any application made to it under this section by the landlord, the Tribunal shall make an order terminating the tenancy if the Tribunal is satisfied that—
   (a) the rent was, at the date on which the application was filed under section 86, at least 21 days in arrear; or
+  (aa) the tenancy is a periodic tenancy and—
+    (i) on 3 separate occasions within a 90-day period the rent has been at least 5 working days in arrear; and
+    (ii) on each occasion the landlord gave the tenant written notice advising the tenant of the arrear, the dates for which rent was overdue, the amount or amounts of overdue rent, and the tenant’s right to make an application to the Tribunal challenging the notice (see sections 77(1) and 78(1)﻿(a) regarding the Tribunal); and
+    (iii) each notice stated how many other notices (if any) the landlord had given the tenant under this paragraph in relation to the same tenancy and 90-day period; and
+    (iv) the landlord’s application to the Tribunal was made within 28 days after the landlord gave the third notice; or
   (b) the tenant has caused, or has permitted any other person to cause, or has threatened to cause, substantial damage to the premises; or
   (c) the tenant has assaulted, or has threatened to assault, or has caused or permitted any person to assault, or to threaten to assault, any of the following persons:
     (i) the landlord or any member of the landlord’s family:
@@ -1003,9 +1195,9 @@ With the consent of the Tribunal, the parties to a tenancy agreement may provide
     (iii) any agent of the landlord:
     (iv) any occupier of any building of which the premises constitute a part:
     (v) any neighbour of the premises or of any building of which the premises constitute a part.
-(1A) Notwithstanding section 78(3), the Tribunal may, instead of making a final termination order for the non-payment of rent under this section, make a conditional order if, but only if, it is satisfied that—
+(1A) Notwithstanding section 78(3), the Tribunal may, instead of making a final termination order for the non-payment of rent under subsection (1)﻿(a), make a conditional order if, but only if, it is satisfied that—
   (a) the tenant will pay any rent in arrear within a period specified by the Tribunal; and
-  (b) it is unlikely that the tenant will commit any further breach of a kind to which this section applies.
+  (b) it is unlikely that the tenant will commit any further breach of a kind to which any of paragraphs (a), (b), and (c) of subsection (1) applies.
 (1B) Any conditional order referred to in subsection (1A)—
   (a) shall set out the terms of repayment of any rent in arrear or any other conditions attaching to the order; and
   (b) shall automatically take effect as a final termination order if the conditions are not complied with; and
@@ -1013,6 +1205,34 @@ With the consent of the Tribunal, the parties to a tenancy agreement may provide
 (2) The Tribunal may refuse to make an order under subsection (1) if, but only if, it is satisfied that the breach has been remedied (where it is capable of remedy), the landlord has been compensated for any loss arising from the breach, and it is unlikely that the tenant will commit any further breach of a kind to which this section applies (but see also section 78A(3)﻿(b)).
 (3) It shall not be necessary for the landlord to give to the tenant notice of the landlord's intention to apply under this section for an order terminating the tenancy.
 (4) In this section premises includes facilities.
+
+### 55A Termination for anti-social behaviour
+(1) A landlord under a periodic tenancy may apply to the Tribunal for an order terminating the tenancy on the ground of anti-social behaviour.
+(2) The Tribunal must (subject to subsection (3)) make the order if satisfied that—
+  (a) on 3 separate occasions within a 90-day period the tenant, or a person in the premises with the tenant’s permission (other than the landlord or a person acting on the landlord’s behalf or with the landlord’s authority), engaged in anti-social behaviour in connection with the tenancy; and
+  (b) on each occasion the landlord gave the tenant written notice—
+    (i) describing clearly which specific behaviour was considered to be anti-social and (if known to the landlord) who engaged in it; and
+    (ii) advising the tenant of the date, approximate time, and location of the behaviour; and
+    (iii) stating how many other notices (if any) the landlord has given the tenant under this paragraph in connection with the same tenancy and the same 90-day period; and
+    (iv) advising the tenant of the tenant’s right to make an application to the Tribunal challenging the notice (see sections 77(1) and 78(1)﻿(a) regarding the Tribunal); and
+  (c) the landlord’s application to the Tribunal was made within 28 days after the landlord gave the third notice.
+(3) However, the Tribunal must not make the order if satisfied that—
+  (a) doing so would be unfair because of the circumstances in which the behaviour occurred or the notices were given; or
+  (b) in making the application, the landlord was motivated wholly or partly by the exercise or proposed exercise by the tenant of any right, power, authority, or remedy conferred on the tenant by the tenancy agreement or by this or any other Act or any complaint by the tenant against the landlord relating to the tenancy (unless the Tribunal is satisfied that the purported exercise or the complaint was or would be vexatious or frivolous to such an extent that the landlord was justified in making the application).
+(4) In deciding whether to make an order under subsection (2), the Tribunal must not take into account the impact that terminating the tenancy would have on the tenant.
+(5) In subsection (2)﻿(a), if a tenant is in the premises at the same time as another person (other than the landlord or a person acting on the landlord’s behalf or with the landlord’s authority), the tenant is presumed to have permitted the person to be in the premises unless the tenant proves that they took all reasonable steps to prevent the person from entering the premises or to eject the person from the premises.
+(6) If a tenant makes an application to the Tribunal challenging a notice given under subsection (2)﻿(b), it is for the landlord to prove that anti-social behaviour was engaged in as described in subsection (2)﻿(a) and that the notice met the requirements of subsection (2)﻿(b).
+(7) In this section, anti-social behaviour means—
+  (a) harassment; or
+  (b) any other act or omission (whether intentional or not), if the act or omission reasonably causes alarm, distress, or nuisance that is more than minor.
+
+### 55B Termination where it would be unreasonable to require landlord to continue with tenancy
+(1) A landlord under a periodic tenancy may apply to the Tribunal for an order terminating the tenancy on the ground of hardship.
+(2) The Tribunal may make the order only if satisfied that—
+  (a) without the order the landlord would suffer greater hardship than the tenant; and
+  (b) because of that hardship, it would be unreasonable to require the landlord to continue with the tenancy.
+(3) In deciding whether it would be unreasonable to require the landlord to continue with the tenancy, the Tribunal must take into account the impact that terminating the tenancy would have on the tenant.
+(4) Any order under this section must specify a date for the termination.
 
 ### 56 Termination for non-payment of rent and other breaches
 (1) On an application made to it under this section by the landlord or the tenant, the Tribunal may make an order terminating the tenancy if the Tribunal is satisfied that—
@@ -1093,19 +1313,26 @@ With the consent of the Tribunal, the parties to a tenancy agreement may provide
 (2) If the landlord permits the tenant to remain in the premises for more than 90 days after the tenancy has terminated or has been terminated, without obtaining a possession order, or for more than 90 days after obtaining a possession order, the landlord shall be deemed to have granted, and the tenant shall be deemed to have accepted, as from the date on which that period of 90 days expired, a periodic tenancy of the premises on the same terms and conditions as pertained to the original tenancy immediately before its termination.
 (3) The landlord shall not be taken to have permitted the tenant to remain in possession, or to have given up the right to proceed under this Act in respect of any breach of the tenant's obligations, merely because the landlord accepts payment of rent in respect of any period after the tenancy has been terminated.
 
+### 60AA Landlord acting to terminate tenancy without grounds
+A landlord commits an unlawful act if they give or purport to give a notice to terminate to the tenant or apply or purport to apply to the Tribunal for an order terminating the tenancy knowing that they are not entitled, under this Act, to give the notice or to make the application.
+
 ### 60A Fixed-term tenancy becomes periodic unless contrary notice given
 (1) On the expiry of a fixed-term tenancy of more than 90 days, the tenancy continues as a periodic tenancy with the same terms as the terms contained in the expired tenancy so far as those terms are consistent with a periodic tenancy.
-(2) Subsection (1) does not apply if—
-  (a) the parties enter into a new tenancy agreement or agree to extend the existing tenancy agreement; or
-  (b) within the effective period, either party gives the other written notice of the party’s intention not to continue with the tenancy.
-(3) The effective period is the period that starts on the 90th day before the date on which the tenancy expires and ends with the 21st day before that date.
-(4) On an application by either party, the Tribunal may make an order specifying a date for the early termination of a tenancy that will continue, or is continuing, under subsection (1).
-(5) The Tribunal may only make an order under subsection (4) if satisfied that, without the order, the applicant would suffer greater hardship than the other party.
-(6) Where the Tribunal makes an order under subsection (4), the Tribunal may order that the applicant pay to the other party an amount determined by the Tribunal by way of reasonable compensation for any loss or damage to the other party that is likely to result from the early termination.
+(2) However, the tenancy does not continue as a periodic tenancy if,—
+  (a) before the expiry, the parties renew or extend the existing tenancy agreement; or
+  (b) before the expiry, the parties agree not to continue with the tenancy; or
+  (c) at least 28 days before the expiry, the tenant gives the landlord written notice of the tenant’s intention not to continue with the tenancy; or
+  (d) before the expiry, a party gives notice as mentioned in any of section 50(1)﻿(a) to (b) that terminates the tenancy on or before the expiry or that would do if the tenancy were already periodic.
+(3) Subsection (4) applies if—
+  (a) a tenancy continues as a periodic tenancy under subsection (1); but
+  (b) before the continuation, a party gave notice as mentioned in any of section 50(1)﻿(a) to (b) that would, if the tenancy had been fixed-term throughout or periodic throughout, terminate the tenancy from a time after the continuation.
+(4) The tenancy is terminated with effect from that time (and the termination is to be treated as falling within the relevant paragraph of section 50(1)).
+(5)
+(6)
 
-### 60B Tenant must exercise right to renew or extend tenancy not later than 21 days before expiry
+### 60B Tenant must exercise right to renew or extend tenancy not later than 28 days before expiry
 (1) A tenant who wishes to exercise a right under the tenancy agreement to require the landlord to grant the tenant a renewal or an extension of the tenancy must exercise that right by giving the landlord written notice, in accordance with this section, of the tenant’s intention to exercise the right.
-(2) The tenant must give notice of the tenant’s intention not later than the 21st day before the date on which the tenancy would otherwise expire.
+(2) The tenant must give notice of the tenant’s intention not later than the 28th day before the date on which the tenancy would otherwise expire.
 (3) On an application, made before or after the expiry of the tenancy, by a tenant who has failed to comply with subsection (1) or (2) but who wishes to renew or extend the tenancy, the Tribunal may order the renewal or extension of the tenancy.
 (4) The Tribunal may make an order under subsection (3) only if satisfied that, without the order, the tenant would suffer greater hardship than the landlord.
 (5) If the Tribunal makes an order under subsection (3), the Tribunal may order that the tenant pay the landlord an amount determined by the Tribunal by way of reasonable compensation for any loss or damage to the landlord that has resulted from the tenant’s failure to comply with subsection (1) or (2).
@@ -1122,7 +1349,7 @@ With the consent of the Tribunal, the parties to a tenancy agreement may provide
 (2) Where the Tribunal makes an order under subsection (1) in respect of a periodic tenancy, it shall determine, as best it can on the evidence before it, the date on which the landlord first became aware, or ought reasonably to have become aware, that the tenant had abandoned the premises, and shall specify that date in the order.
 (3) A tenant who abandons the premises shall, notwithstanding any rule of law to the contrary, be liable to pay the rent for any period up to and including, but not after, the following date:
   (a) in the case of a periodic tenancy,—whichever is the earlier:
-    (i) the date of the expiry of the period of 21 days after the date specified by the Tribunal under subsection (2); or
+    (i) the date of the expiry of the period of 28 days after the date specified by the Tribunal under subsection (2); or
     (ii) the date of commencement of a new tenancy of the premises,—
   (b) in the case of a fixed-term tenancy,—whichever is the earlier.
     (i) the date of the expiry of the term; or
@@ -1186,12 +1413,12 @@ Sections 62A to 62D and any regulations made for the purposes of section 62(3A) 
 
 ### 63 Entry without order of Tribunal prohibited
 (1) No person shall enter into possession of any residential premises in the occupation of a tenant except with the consent of the tenant or pursuant to an order for possession made by the Tribunal and duly enforced in accordance with section 106.
-(2) Notwithstanding anything in section 57 of the Crimes Act 1961, every person who, otherwise than pursuant to a possession order duly enforced in accordance with section 106, enters onto any land or into any land, being residential premises to which this Act applies, for the purpose of taking possession of that land or building without the consent of the tenant commits an offence and is liable on conviction to a fine not exceeding $2,000.
+(2) Notwithstanding anything in section 57 of the Crimes Act 1961, every person who, otherwise than pursuant to a possession order duly enforced in accordance with section 106, enters onto any land or into any land, being residential premises to which this Act applies, for the purpose of taking possession of that land or building without the consent of the tenant commits an offence and is liable on conviction to a fine not exceeding $3,000.
 
 ### 64 Possession orders
 (1) Subject to subsection (2), on the application of any person entitled to possession of the premises following the termination of a tenancy, the Tribunal shall make an order granting possession of the premises to that person.
 (2) No possession order may be made more than 90 days after the date of the termination of the tenancy.
-(3) Every order of the Tribunal made under section 55 or section 56 or section 56A or section 59 or section 59B or section 61 terminating a tenancy shall have effect as a possession order granting possession of the premises to the landlord.
+(3) Every order of the Tribunal made under any of sections 55, 55A to 56A, 59, 59B, and 61 terminating a tenancy shall have effect as a possession order granting possession of the premises to the landlord.
 (4) No possession order (including an order of a kind referred to in subsection (3)) shall be capable of being filed under section 106 more than 90 days after—
   (a) the date of the order; or
   (b) in the case of a conditional order under section 55(1A) or section 78(3) or section 88(2) which states that it is an order to which this paragraph applies, the date on which the conditional order takes effect as a final termination order.
@@ -1221,7 +1448,7 @@ Sections 62A to 62D and any regulations made for the purposes of section 62(3A) 
 (2) The following provisions do not apply to boarding house tenancies unless otherwise specifically applied:
   (a) section 7 (relating to short fixed-term tenancies):
   (b) section 9(1) and (2) (relating to transitional provisions):
-  (c) sections 36 to 42 and 44 to 49 (relating to the rights and obligations of landlords and tenants):
+  (c) sections 36 to 42, 43A to 45A, and 46 to 49 (relating to the rights and obligations of landlords and tenants):
   (d) sections 50A, 51, and 55 to 57 (relating to the termination of tenancies):
   (e) section 61 (relating to the abandonment of premises):
   (f) section 64 (relating to possession orders).
@@ -1334,6 +1561,10 @@ A boarding house tenancy is not assignable by a tenant.
 (3) The obligations in subsection (1) are in addition to the obligation in section 66G(2).
 (4) Failure by the landlord to comply with any of paragraphs (a) to (c) of subsection (1) is declared to be an unlawful act.
 (5) A contravention by the landlord of subsection (1B) is declared to be an unlawful act.
+(6) If the tenant requests the landlord to provide information described in section 123A(1)﻿(e) (relating to the healthy homes standards) to the tenant, the landlord must, within 21 days after the date of receiving the request, provide the information to the tenant.
+(7) A landlord who, without reasonable excuse, fails to comply with subsection (6)—
+  (a) commits an unlawful act; and
+  (b) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
 
 ### 66IA Protection from liability for landlord who complies with contaminant regulations
 (1) Subsection (2) applies to a landlord of a boarding house during any period where—
@@ -1346,10 +1577,16 @@ A boarding house tenancy is not assignable by a tenant.
 
 ### 66J Other obligations of landlord
 (1) The landlord must not interfere with the supply of gas, electricity, water, telephone services, or other services to the premises, unless the interference is necessary to avoid danger to any person or to enable maintenance or repairs to be carried out.
-(2) The landlord must immediately tell the tenant if he or she puts the premises on the market and, if the premises are on the market, the landlord must advise any prospective tenant of that fact.
+(2) If, at any time after entering into a boarding house tenancy agreement, the landlord puts the premises on the market for the purposes of sale or other disposition, the landlord must, as soon as practicable, give written notice of that fact to the tenant.
+(2A) If a landlord is offering a boarding house tenancy, the landlord must inform prospective tenants if the premises are on the market for the purposes of sale or other disposition.
+(2B) A landlord who fails to comply with—
+  (a) subsection (1), (2), or (2A) commits an unlawful act:
+  (b) subsection (2A) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
 (3) Before changing any lock or similar device, the landlord must tell every tenant of the boarding house who will be affected about the change.
 (3A) If the landlord carries out tests for the presence of contaminants in any of the facilities, the landlord must, within 7 days of receiving the results of the testing, notify every current tenant of the boarding house, in writing, of the results of the testing, and provide each of them with a copy (if any) of the results.
-(4) Failure by the landlord to comply with subsection (1) or (2) is declared to be an unlawful act.
+(4) A landlord who fails to comply with subsection (3A)—
+  (a) commits an unlawful act; and
+  (b) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
 (5) The landlord of premises that are insured may at any time, and must within a reasonable time after receiving a request from the tenant for a copy of the insurance policy, provide to the tenant under a tenancy agreement a copy of each insurance policy that is relevant to the tenant’s liability for destruction of, or damage to, the premises.
 (6) If anything changes so that the insurance information that was provided in accordance with subsection (5) or this subsection is no longer correct, the landlord must, within a reasonable time after the landlord becomes aware of the change,—
   (a) provide the tenant with a copy of the correct information; or
@@ -1472,8 +1709,10 @@ If a landlord or tenant breaches any provision of the tenancy agreement, the oth
 (1) The following are unlawful acts:
   (a) entry into a tenant’s room by a landlord otherwise than in accordance with section 66R:
   (b) the use or threat of force by the landlord to enter or attempt to enter a tenant’s room (other than as provided for in section 66R(1)﻿(b) or (c)):
-  (c) failure by a tenant of a boarding room (or any person occupying the tenant’s room with the tenant’s permission) to permit the entry by the landlord into the tenant’s room when the person entering is exercising a right of entry in accordance with section 66R.
-(2) A landlord who uses or threatens to use force to gain entry into a tenant’s room in breach of subsection (1)﻿(b) commits an offence and is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000.
+  (c) failure by a tenant of a boarding room (or any person occupying the tenant’s room with the tenant’s permission) to permit the entry by the landlord into the tenant’s room when the person entering is exercising a right of entry in accordance with section 66R:
+  (d) failure by the landlord to notify, or to provide results to, the tenant as required under section 66S(5).
+(1A) A landlord who fails to notify, or to provide results to, the tenant as required under section 66S(5) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
+(2) A landlord who uses or threatens to use force to gain entry into a tenant’s room in breach of subsection (1)﻿(b) commits an offence and is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $3,000.
 (3) If a landlord enters a tenant’s room under section 66R(2), but does not comply with sections 66R(3) and 66S, the tenant may apply to the Tribunal for an order prohibiting the landlord from exercising the right to enter under section 66R(2) for a period specified in the order.
 (4) If a landlord damages any property of a tenant while in the tenant’s room, the tenant may apply to the Tribunal for compensation for the damage.
 
@@ -1672,7 +1911,7 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
   (c) to determine whether any tenancy is or is not, or was or was not at any material time, a service tenancy:
   (d) to determine whether any rent that is, or that was at any material time, being charged in respect of any tenancy to which this Act applies does or does not or did or did not exceed the market rent for that tenancy by a substantial amount, and, where the rent does or did exceed the market rent by a substantial amount, to make such order relating to the rent as it thinks just:
   (e) where any rent is, was, or will be required wholly or partly in a form other than money, to determine in monetary terms the value of the rent so required:
-  (f) to determine whether or not any notice purporting to terminate a service tenancy was or was not authorised by any of the provisions of this Act and given in the form and manner prescribed by or under this Act:
+  (f) to determine whether or not any notice purporting to terminate a tenancy to which this Act applies was or was not authorised by any of the provisions of this Act and given in the form and manner prescribed by or under this Act:
   (g) to determine whether any person is or is not entitled to possession of any premises by virtue of any provision of any tenancy agreement to which this Act applies, or by virtue of any breach by any other person of any provision of any such tenancy agreement, or on the expiry of any such tenancy agreement, and to make an order for the recovery of the premises by any person who is entitled to possession:
   (h) before the commencement of the tenancy, and on the application of either or both of the parties, to consent to the inclusion of any term in any tenancy agreement to which this Act applies, where the inclusion of that term would otherwise be contrary to any of the provisions of this Act:
   (i) during the tenancy, and on the application of both of the parties, consent to the inclusion of any term in any tenancy agreement to which this Act applies, where the inclusion of that term would otherwise be contrary to any of the provisions of this Act, and to make an order varying the agreement accordingly:
@@ -1681,10 +1920,13 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
   (ka) to determine whether, and the extent to which, the guarantor of a tenant is liable to the landlord under the guarantee, and to order the guarantor to pay to the landlord any sum found to be payable under the guarantee:
   (l) to order the landlord or the tenant under any tenancy agreement to which this Act applies to do anything necessary to remedy the breach by that party of any express or implied provision of the tenancy agreement or any provision of this Act, or to do anything that that party is required to do by any such provision:
   (m) to order the landlord or the tenant under any tenancy agreement to which this Act applies to refrain from doing anything if the doing of that thing by that party would constitute a contravention or (as the case may require) a further contravention of any express or implied provision of the tenancy agreement or any provision of this Act:
+  (maa) to determine whether a landlord should not be required to provide for the installation of a fibre connection for the purposes of section 45B(2)﻿(e):
   (ma) to make an order declaring a house rule of a boarding house unlawful, or requiring a landlord to apply a house rule in a particular manner, or to vary a house rule, or to set a house rule aside:
   (mb) to order the landlord to refrain from exercising the power under section 66R(2) to enter the boarding room of a tenant under a boarding house tenancy:
   (mc) to make orders under section 62B or in accordance with any regulations made for the purposes of section 62(3A) concerning goods left on the premises on the termination of a tenancy:
   (md) to make orders in accordance with section 78A (which relates to unlawful residential premises) if that section applies:
+  (me) to make orders for a person to pay a pecuniary penalty under sections 109B to 109E:
+  (mf) to determine objections to improvement notices under section 126M:
   (n) to order the landlord or the tenant under any tenancy agreement to which this Act applies to pay to the other party such sum by way of damages or compensation as the Tribunal shall assess in respect of the breach of any express or implied provision of the tenancy agreement or any provision of this Act:
   (o) to consider and determine any complaint by any party to a tenancy agreement or by the chief executive that any person has committed an unlawful act, and, where it finds such a complaint to be proved, to order the payment of such sum in the nature of exemplary damages, not exceeding the maximum prescribed by this Act, as the Tribunal may think just:
   (p) to approve the assignment by the tenant of the rights of the tenant under any tenancy agreement to which this Act applies, or the subletting by the tenant under any such tenancy agreement of the whole or any part of the premises, where the Tribunal finds that the landlord has withheld consent unreasonably and the assignment or subletting is not absolutely prohibited by the tenancy agreement:
@@ -1696,9 +1938,9 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
 (3) The Tribunal shall have jurisdiction to make an order for the recovery by any person of any residential premises to which this Act applies, or the eviction of any person from any such premises, regardless of the value of the premises or the amount of any rent payable for the premises.
 (4) In respect of tenancy agreements, the Tribunal has jurisdiction to exercise, and may exercise, all the powers conferred on a court by section 264 of the Property Law Act 2007 (which relates to the granting of relief to the tenant against the landlord's refusal to enter into a renewal of a tenancy agreement or to sell the landlord's interest in the premises to the tenant).
 (4A) The Tribunal does not have jurisdiction to determine a dispute so far as it raises a question as to the landlord’s conduct in the landlord’s capacity as a provider of health or disability services and the conduct is of a kind about which a complaint may be made under the Health and Disability Commissioner Act 1994.
-(5) Despite subsection (1), the Tribunal does not have jurisdiction to require any party to pay any sum, or to do any work to a value, or otherwise to incur any expenditure, in excess of $50,000.
-(6) Subsection (5) shall not prevent a party from abandoning so much of a claim as exceeds $50,000 in order to bring the claim within the jurisdiction of the Tribunal; and, in any such case, an order of the Tribunal under this Act in relation to the claim shall operate to discharge from liability in respect of the amount so abandoned any person against whom the claim and the subsequent order is made.
-(7) Subsection (5) does not affect a claim relating to a tenancy that is for a balance of not more than $50,000 that results from a set-off or any counterclaim in respect of the same tenancy, if the set-off or counterclaim is admitted by the claimant in the notice of claim.
+(5) Despite subsection (1), the Tribunal does not have jurisdiction to require any party to pay any sum, or to do any work to a value, or otherwise to incur any expenditure, in excess of $100,000.
+(6) Subsection (5) shall not prevent a party from abandoning so much of a claim as exceeds $100,000 in order to bring the claim within the jurisdiction of the Tribunal; and, in any such case, an order of the Tribunal under this Act in relation to the claim shall operate to discharge from liability in respect of the amount so abandoned any person against whom the claim and the subsequent order is made.
+(7) Subsection (5) does not affect a claim relating to a tenancy that is for a balance of not more than $100,000 that results from a set-off or any counterclaim in respect of the same tenancy, if the set-off or counterclaim is admitted by the claimant in the notice of claim.
 (7A) The Tribunal does not have jurisdiction to consent to a person charging a tenant a letting fee.
 (8) A cause of action shall not be divided into 2 or more claims for the purpose of bringing it within the jurisdiction of the Tribunal.
 
@@ -1828,6 +2070,9 @@ If a dispute or part of a dispute raises a question as to the landlord’s condu
 (1) Proceedings before the Tribunal are commenced by filing an application in the approved form, with any prescribed fee,—
   (a) at any office of the Tribunal; or
   (b) by any electronic means (for example, through an Internet site) approved by the chief executive.
+(1A) The chief executive may, if acting under section 124A, file an application to commence a proceeding that relates to 2 or more tenancies if, for each tenancy,—ExampleA is a landlord. A’s spouse, B, is also a landlord.B is an associated person of A.The chief executive may file a single application to commence a proceeding that relates to 1 or more of A’s tenancies and to 1 or more of B’s tenancies.
+  (a) 1 person is the landlord; or
+  (b) 1 person (P) or an associated person of P is the landlord.
 (2) Before the chief executive approves a proposed form for the purposes of subsection (1), the chief executive must consult with the Principal Tenancy Adjudicator about the proposed form.
 (2A) The approved form for an application under section 61(1) must (in particular) require the landlord, in the application,—
   (a) to state whether the landlord wants the application to be dealt with under section 91AA; and
@@ -1882,7 +2127,7 @@ If a dispute or part of a dispute raises a question as to the landlord’s condu
   (d) the statement is otherwise admissible in any criminal proceedings in which a person is charged with an offence arising from the making of the statement.
 
 ### 90 Tenancy Mediator to observe confidentiality
-(1) Every Tenancy Mediator commits an offence and is liable on conviction to a fine not exceeding $1,000 who discloses to any other person any information or statement received by or made to the Tenancy Mediator in the course of, and for the purposes of or in connection with, the mediation of any dispute.
+(1) Every Tenancy Mediator commits an offence and is liable on conviction to a fine not exceeding $1,800 who discloses to any other person any information or statement received by or made to the Tenancy Mediator in the course of, and for the purposes of or in connection with, the mediation of any dispute.
 (2) Nothing in subsection (1) shall apply if—
   (a) the person from whom the information is received or by whom the statement is made consents to the disclosure; or
   (b) there are reasonable grounds to believe that disclosure is necessary to prevent or minimise the danger of injury to any person or damage to any property; or
@@ -1994,8 +2239,16 @@ The Tribunal may strike out, in whole or in part, a proceeding if satisfied that
 ### 95 Proceedings usually to be in public
 (1) Except as provided in subsection (2), the proceedings of the Tribunal shall be conducted in public.
 (2) The Tribunal may, on the application of any party to the proceedings or on its own initiative, and after having due regard to the interests of the parties and to the public interest, order that the whole or any part of the hearing shall be held in private.
-(3) The Tribunal may, on the application of any party to the proceedings or on its own initiative, and after having due regard to the interests of the parties and to the public interest, make an order prohibiting the publication of any report or description of the proceedings or of any part of the proceedings at any hearing before it (whether held in public or in private); but no such order shall prohibit the publication of any decision of the Tribunal.
-(4) Notwithstanding any order made under subsection (3), the Tribunal may permit a report or description of the proceedings or of any part of the proceedings to be included in any publication that is of a bona fide professional or technical nature.
+(3)
+(4)
+
+### 95A Suppression orders
+(1) The Tribunal must, on the application of a party that has wholly or substantially succeeded in proceedings, order that the party’s name or identifying particulars not be published, unless the Tribunal considers that publication is in the public interest or is justified because of the party’s conduct or any other circumstances of the case.
+(2) The Tribunal must, if the chief executive acts in the place of a party under section 124A, order that the name and any identifying particulars of that party not be published.
+(3) Subsection (4) applies to proceedings whether or not subsection (1) or (2) also applies to the proceedings.
+(4) The Tribunal may, on the application of any party to proceedings or on its own initiative, having regard to the interests of the parties and to the public interest, order that all or part of the evidence given or the name or any identifying particulars of any witness or party not be published.
+(5) An order under subsection (4) may be made subject to any conditions that the Tribunal considers appropriate.
+(6) An order under subsection (4), or a condition under subsection (5), must not be inconsistent with subsection (1) or (2) (to the extent that those subsections also apply to the proceedings).
 
 ### 96 Further provisions relating to procedure generally
 (1) The Tribunal may adjourn a hearing at any time and from time to time and place to place, upon the application of either party to the proceedings or of its own motion, and on such terms as it thinks fit.
@@ -2110,6 +2363,10 @@ The Tribunal may state a case for the opinion of the High Court on any question 
   (c) (except in the case of a section 78A work order) make an order empowering the party in whose favour the work order was made to undertake the necessary work and to charge the cost of doing so (up to the amount specified by the Tribunal) to the other party; or
   (d) discharge or amend any order previously made by the Tribunal.
 (2A) A person who, without reasonable excuse, breaches a work order commits an unlawful act.
+(2B) A person commits an offence if—
+  (a) the person intentionally fails to comply with a work order under section 78 or 78A; and
+  (b) the failure to comply creates or increases a risk to the health or safety of any person living at the premises to which the work order relates.
+(2C) A person who commits an offence under subsection (2B) is liable on conviction to a fine not exceeding $3,600.
 (3) Where any order is made under subsection (2)﻿(c)—
   (a) in favour of the landlord, the cost incurred by the landlord in undertaking the work (up to the amount specified by the Tribunal) shall be deemed to be rent in arrear and enforceable accordingly; or
   (b) in favour of the tenant, the tenant may set off the cost incurred in undertaking the work (up to the amount specified by the Tribunal) against rent payable by the tenant.
@@ -2119,33 +2376,63 @@ The Tribunal may state a case for the opinion of the High Court on any question 
 (7) After the expiration of 12 months from the date of a work order, it shall not be enforced without the leave of the Tribunal.
 
 ### 109 Unlawful acts
-(1) A landlord or a tenant, or the chief executive acting on behalf of a landlord or a tenant, or the chief executive acting as the person responsible for the general administration of this Act, may apply to the Tribunal for an order requiring any other person to pay to the applicant an amount in the nature of exemplary damages on the ground that that other person has committed an unlawful act.
-(2) No application may be made under subsection (1) later than—
+(1) Any of the following persons (A) may apply to the Tribunal for an order requiring any other person (B) to pay to A an amount in the nature of exemplary damages on the ground that B has committed an unlawful act:
+  (a) a landlord:
+  (b) a tenant:
+  (c) the chief executive acting as the person responsible for the general administration of this Act or in the place of a landlord or a tenant under section 124A.
+(2) A landlord or a tenant may not apply under subsection (1) later than—
   (a) 12 months after the termination of the tenancy in the case of—
     (i) an unlawful act to which section 19(2) refers; or
     (ii) a failure to keep records in respect of bonds that is an unlawful act to which section 30(2) refers; or
   (b) 12 months after the date of commission of the unlawful act in the case of any other unlawful act.
-(3) If, on such an application (other than one referred to in subsection (3A)), the Tribunal is satisfied that the person against whom the order is sought committed the unlawful act intentionally, and that, having regard to—it would be just to require the person against whom the order is sought to pay a sum in the nature of exemplary damages, the Tribunal may make an order accordingly.
+(2A) The chief executive may not apply under subsection (1) (whether acting as the person responsible for the general administration of this Act or in the place of a landlord or a tenant) later than 12 months after the date on which the chief executive first became aware of the unlawful act.
+(3) If, on an application under subsection (1) (other than one referred to in subsection (3A)), the Tribunal is satisfied that the person against whom the order is sought committed the unlawful act intentionally, and that, having regard to—it would be just to require the person against whom the order is sought to pay a sum in the nature of exemplary damages, the Tribunal may make an order accordingly.
   (a) the intent of that person in committing the unlawful act; and
   (b) the effect of the unlawful act; and
   (c) the interests of the landlord or the tenant against whom the unlawful act was committed; and
   (d) the public interest,—
 (3A) In the case of an application in respect of an unlawful act under section 54(3), the Tribunal may order the landlord to pay a sum in the nature of exemplary damages if the Tribunal is satisfied that it is just to do so having regard to the matters referred to in subsection (3)﻿(b) to (d).
-(4) The maximum amount that a person may be ordered to pay under this section for any unlawful act referred to in any section shown in the first column of Schedule 1A is the amount shown opposite that section in the second column of that schedule.
+(4) The maximum amount that a person may be ordered to pay under this section for any unlawful act referred to in any section shown in column 1 of Schedule 1A is the amount shown opposite that section in column 3 of that schedule.
 (4A) The Tribunal may make an order against a person on the ground that the person committed an unlawful act even though the conduct that formed part of that act also formed part of an offence or an alleged offence against section 109A(4) in respect of which the person has been charged, convicted, or acquitted.
-(5) Any amount ordered by the Tribunal to be paid under this section on the application of a landlord or a tenant, or on the application of the chief executive acting on behalf of a landlord or a tenant, shall be paid to that landlord or that tenant, and shall be in addition to any sum payable to that landlord or that tenant by way of compensation in respect of the unlawful act.
+(5) Any amount ordered by the Tribunal to be paid under this section on the application of a landlord or a tenant, or on the application of the chief executive acting in place of a landlord or a tenant, shall be paid to that landlord or that tenant, and shall be in addition to any sum payable to that landlord or that tenant by way of compensation in respect of the unlawful act.
 (6) Any amount ordered by the Tribunal to be paid under this section on the application of the chief executive acting as the person responsible for the general administration of this Act shall be paid to the Crown.
-(7) Notwithstanding subsection (5) and section 124(4)﻿(d), if the chief executive is acting under section 124(3)﻿(b), any amount ordered by the Tribunal to be paid under this section on the application of the chief executive shall be paid to the chief executive and retained by the Crown.
+(7)
 
 ### 109A Tribunal may restrain further commissions of unlawful acts
 (1) If the Tribunal makes an order against a person under section 109 on the ground that the person has committed an unlawful act, the Tribunal may, if satisfied that it is in the public interest to do so, make an order restraining the person from committing a further act of the same kind.
 (2) The Tribunal may make an order under subsection (1) on its own initiative or on the application of the applicant who applied for the order, under section 109, against the person sought to be restrained.
 (3) The Tribunal must specify the term of the order, which may not exceed 6 years.
 (4) Every person commits an offence who, being subject to an order under this section, intentionally contravenes the order.
-(5) A person who commits an offence against subsection (4) is liable on conviction to a fine not exceeding $2,000.
+(5) A person who commits an offence against subsection (4) is liable on conviction to a fine not exceeding $3,600.
+
+### 109B Tribunal may make pecuniary penalty orders
+(1) The Tribunal may, on the application of the chief executive, order a landlord to pay to the Crown the pecuniary penalty that the Tribunal determines to be appropriate if the Tribunal is satisfied that,—
+  (a) at the time of committing the unlawful act, the landlord was—
+    (i) a landlord of 6 or more tenancies (see section 2(2B) to (2D)); or
+    (ii) a landlord of a boarding house; and
+  (b) the landlord intentionally committed an unlawful act under any of the following provisions:
+    (i) section 45(1A) or 66I(4) (landlord’s responsibilities: cleanliness, maintenance, smoke alarms, healthy homes standards, and buildings, health, and safety requirements):
+    (ii) section 45(1AB) or 66I(5) (landlord’s responsibilities: contaminated premises):
+    (iii) section 54(3) (retaliatory notice of termination):
+    (iv) section 60AA (acting to terminate without grounds):
+    (v) section 137(2) (contracting to contravene or evade the provisions of this Act).
+(2) The chief executive may not make an application under subsection (1) later than 12 months from the date on which the chief executive first became aware of the unlawful act.
+
+### 109C Maximum amount of pecuniary penalty
+The maximum amount of pecuniary penalty for an unlawful act referred to in section 109B is $50,000.
+
+### 109D Considerations for Tribunal in determining pecuniary penalty
+In determining an appropriate pecuniary penalty, the Tribunal must have regard to all relevant matters, including—
+  (a) the nature and extent of the unlawful act; and
+  (b) the nature and extent of any loss or damage suffered by any person because of the unlawful act; and
+  (c) any gains made or losses avoided by the landlord in the unlawful act; and
+  (d) the circumstances in which the unlawful act took place.
+
+### 109E Only 1 pecuniary penalty order may be made for same conduct
+If conduct by a landlord constitutes an unlawful act under 2 or more provisions, proceedings may be brought against that landlord for the unlawful act under any 1 or more of the provisions, but no landlord is liable to more than 1 pecuniary penalty order for the same conduct.
 
 ### 110 Failing to answer witness summons
-(1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who, having been summoned to attend to give evidence before the Tribunal or to produce to the Tribunal any document or thing, without reasonable cause,—
+(1) Every person commits an offence and is liable on conviction to a fine not exceeding $3,600 who, having been summoned to attend to give evidence before the Tribunal or to produce to the Tribunal any document or thing, without reasonable cause,—
   (a) fails to attend in accordance with the summons; or
   (b) refuses to promise to tell the truth, or refuses to give evidence, or refuses to answer any question that the person is lawfully required by the Tribunal to answer concerning the subject of the proceedings; or
   (c) fails to produce any such document or thing lawfully required to be produced.
@@ -2155,7 +2442,7 @@ The Tribunal may state a case for the opinion of the High Court on any question 
 Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years who, after promising to tell the truth pursuant to section 97(2), makes any assertion as to a matter of fact, opinion, belief, or knowledge knowing that assertion to be false and intending thereby to mislead the Tribunal.
 
 ### 111A Offence of breaching suppression order
-A person who breaches an order made under section 95(3) is liable on conviction to a fine not exceeding $3,000.
+A person who breaches an order made under section 95A is liable on conviction to a fine not exceeding $3,000.
 
 ### 112 Contempt
 (1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who—
@@ -2248,7 +2535,7 @@ The chief executive must ensure that assistance is reasonably available from his
 (6) A Tenancy Mediator who enters any premises under this section must,—
   (a) on initial entry, produce evidence of his or her identity; and
   (b) while subsequently on the premises, produce that evidence to any person who reasonably requests to see it.
-(7) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who, without reasonable excuse, obstructs or hinders any Tenancy Mediator in the exercise of the power conferred by subsection (1).
+(7) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who, without reasonable excuse, obstructs or hinders any Tenancy Mediator in the exercise of the power conferred by subsection (1).
 
 ### 115 Principal Tenancy Adjudicator may issue practice directions
 For the purpose of ensuring that the application and administration of this Act is consistent throughout New Zealand, the Principal Tenancy Adjudicator may from time to time issue, for the guidance of other Tenancy Adjudicators, officers of the Tribunal, and parties before the Tribunal, any directions, notes, guidelines, or suggestions (not being inconsistent with this Act or any rules made under section 116) that the Principal Tenancy Adjudicator considers necessary or desirable.
@@ -2262,7 +2549,7 @@ The following information must be published on an Internet site maintained by or
 ### 115B Online publication of final written decisions
 (1) Every final written decision of the Tribunal must be published on an Internet site as soon as practicable unless there is good reason not to publish it.
 (2) A final written decision may be published in part if there is good reason for not publishing the full decision.
-(3) Subsections (1) and (2) are subject to section 95(3).
+(3)
 (4) Good reason not to publish a decision, or part of it, includes the following:
   (a) non-publication is necessary because of a suppression order or statutory requirement that affects publication or continued publication:
   (b) the decision falls into a category of decisions that are of limited public value:
@@ -2347,6 +2634,7 @@ The chief executive is responsible for the general administration of this Act.
   (b) the publication of reports, the dissemination of information, and the taking of such steps as the chief executive thinks proper for informing members of the public of the rights and obligations of parties to tenancy agreements and of the general operation of this Act:
   (c) the giving of opinions and advice to persons on any provisions of this Act or of any other enactment or rule of law relating to tenancy agreements:
   (ca) the monitoring and assessment of compliance by landlords with the healthy homes standards:
+  (cb) the monitoring and assessing of compliance by landlords with this Act:
   (d) the investigation, whether on the complaint of a party or not, of any alleged breach of this Act, or of any tenancy agreement, and the taking of such action, whether involving prosecution or other proceedings, negotiation, or arbitration, as the chief executive thinks proper:
   (da) to supervise the operations of the office of the Tribunal and to work in close co-operation with the Registrar to ensure that disputes arising within the jurisdiction of the Tribunal are dealt with efficiently and expeditiously:
   (db) the publication of comments about particular persons who are, or have been, landlords:
@@ -2354,18 +2642,31 @@ The chief executive is responsible for the general administration of this Act.
 (2) Except as required by the Minister under paragraph (e) of subsection (1), whether or not to perform or exercise any of the functions and powers specified in that subsection in any particular case shall be a matter for the chief executive's discretion, and in no circumstances shall the chief executive be obliged to perform or exercise any such function or power.
 
 ### 123A Documents to be retained by landlord and produced to chief executive if required
-(1) A landlord must retain the following documents during, and for 12 months after the termination of, the tenancy:
-  (a) the tenancy agreement and any variations or renewals of it (or copies):
-  (b) any reports of inspections of the premises carried out by or for the landlord during the tenancy (or copies):
-  (c) records of any maintenance or repair work carried out at the premises by or for the landlord during the tenancy (or copies):
-  (ca) the records or other documents that relate to the landlord’s compliance with the healthy homes standards and that are prescribed by regulations under section 138B(5):
-  (d) any notices or letters, emails, or other forms of correspondence between the landlord (or a person acting on the landlord’s behalf) and the tenant (or a person acting on the tenant’s behalf) in relation to the tenancy (or copies).
-(2) The chief executive may by notice in writing require a landlord to produce to the chief executive any specified documents, or any documents of a specified class, that the landlord is required to retain under subsection (1)﻿(b) to (d).
+(1) A landlord must retain the following documents (or copies of them) during, and for 12 months after the termination of, the tenancy:
+  (a) the tenancy agreement and any variations or renewals of it:
+  (b) any reports of inspections of the premises carried out by or for the landlord during the tenancy:
+  (c) records of any building work for which a building consent is required, prescribed electrical work, sanitary plumbing, gasfitting, or other maintenance or repair work carried out at the premises by or for the landlord during the tenancy:
+  (d) any reports or assessments by a professional tradesperson of work that is carried out or is required in relation to a premises that relates to the landlord’s compliance with section 45 or 66I:
+  (e) the records or other documents that relate to the landlord’s compliance with the healthy homes standards and that are prescribed by regulations under section 138B(5):
+  (f) any advertisement for the tenancy (including an advertisement from before the commencement of the tenancy):
+  (g) any notices or correspondence between a landlord (or a person acting on the landlord’s behalf) and—
+    (i) a tenant (or a person acting on the tenant’s behalf) in relation to the tenancy:
+    (ii) a prospective tenant (or a person acting on the prospective tenant’s behalf) in relation to the tenancy.
+(2) The chief executive may by notice in writing require a landlord to produce to the chief executive any specified documents, or any documents of a specified class, that the landlord is required to retain under subsection (1)﻿(b) to (g) or under section 30 (relating to rent and bond records).
 (3) A notice under subsection (2)—
   (a) may be given only if the chief executive reasonably requires the documents for the purposes of the chief executive’s functions or powers under this Act; and
   (b) may not be given any later than 12 months after the termination of the tenancy; and
   (c) must specify the way in which the documents must be produced to the chief executive.
-(4) A landlord commits an unlawful act if, without reasonable excuse, the landlord fails, within 10 working days after receiving a notice under subsection (2), to produce the documents to the chief executive in the way specified in the notice.
+(4) A landlord who receives a notice under subsection (2) must, within 10 working days of receiving the notice, produce the documents to the chief executive in the way specified in the notice.
+(5) A landlord who, without reasonable excuse, fails to comply with subsection (4)—
+  (a) commits an unlawful act; and
+  (b) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
+(6) In this section,—
+  - **building consent** and have the same meanings as in section 7 of the Building Act 2004
+  - **gasfitting** has the same meaning as in section 5 of the Plumbers, Gasfitters, and Drainlayers Act 2006
+  - **prescribed electrical work** has the same meaning as in section 2(1) of the Electricity Act 1992
+  - **professional tradesperson** means a person whose occupation includes carrying out building work, prescribed electrical work, sanitary plumbing, gasfitting, or other maintenance or repair work
+  - **sanitary plumbing** has the same meaning as in section 6 of the Plumbers, Gasfitters, and Drainlayers Act 2006.
 
 ### 123B Documents to be produced by tenant to chief executive if required
 (1) The chief executive may by notice in writing require a tenant to produce to the chief executive any specified documents, or any documents of a specified class, that—
@@ -2405,7 +2706,7 @@ The chief executive may, for the purposes of the chief executive’s function un
   (a) on initial entry, produce evidence of the authorised person’s identity; and
   (b) while subsequently on the premises, produce that evidence to any person who reasonably requests to see it.
 (8) In respect of any premises in any defence area (within the meaning of the Defence Act 1990), an authorised person must exercise the authorised person’s powers under this section subject to any conditions relating to security that the officer in charge of the defence area imposes.
-(9) A person commits an offence and is liable on conviction to a fine not exceeding $2,000 if the person, without reasonable excuse,—
+(9) A person commits an offence and is liable on conviction to a fine not exceeding $3,000 if the person, without reasonable excuse,—
   (a) fails to comply with subsection (4); or
   (b) obstructs or hinders an authorised person in the exercise of the authorised person’s powers under this section.
 (10) Sections 166 and 167 of the Search and Surveillance Act 2012 apply (with any necessary modifications) in relation to the powers of an authorised person under this section.
@@ -2423,52 +2724,37 @@ The chief executive may, for the purposes of the chief executive’s function un
 (3) The Tribunal’s authorisation under subsection (2) or (2B) may be given subject to conditions, which must be set out in the order.
 
 ### 124 Chief executive may take or defend proceedings on behalf of any party
-(1) Subject to subsection (3), the chief executive may, on being satisfied that there is a cause of action and that it is in the public interest to do so, on behalf of any party to a tenancy agreement do all or any of the following:
-  (a) defend any civil proceedings brought against that party under this Act:
-  (b) initiate any such proceedings against any other person:
-  (c) assume the conduct of any such proceedings already brought by or against that party:
-  (d) generally take all such steps as may be necessary to enforce or protect the rights of that party in relation to any infringement or suspected infringement of any of those rights under the tenancy agreement or this Act.
-(2) Without limiting the generality of the provisions of subsection (1), the chief executive may, on behalf of any tenant, institute proceedings or assume the conduct of proceedings already commenced by the tenant for an order by the Tribunal determining the market rent of the premises.
-(3) The chief executive shall not exercise the powers conferred by subsection (1) or subsection (2)—
-  (a) unless the written consent of the party concerned has first been obtained which, once given, shall be irrevocable except with the chief executive's written consent; or
-  (b) unless—
-    (i) the chief executive determines that it is in the public interest to exercise the power without the party's consent; and
-    (ii) the written consent of the party concerned has not been refused and cannot reasonably be obtained.
-(4) In relation to any proceedings referred to in subsection (1) or subsection (2), the following provisions shall apply:
-  (a) the chief executive shall, on behalf of the relevant party, have in all respects the same rights in, and control over, the proceedings, including the right to settle the action or any part of the action, as the party would have in the conduct of the proceedings:
-  (b) the chief executive may, without consulting or seeking the consent of the party, conduct the proceedings in such manner as the chief executive considers to be appropriate and proper:
-  (c) in the case of any proceedings already commenced, the Tribunal or court hearing the matter shall, on the chief executive's application, substitute the chief executive for the party as a party to the proceedings:
-  (d) any money (excluding costs) recovered by the chief executive shall, without any deduction, be paid by the chief executive to the person on whose behalf the chief executive is acting:
-  (e) if any party to the proceedings alleges another cause of action, or if the party on whose behalf the proceedings are being defended has another cause of action, the Tribunal or court shall, on the chief executive's application, order that the other cause of action be heard separately and that the party be a party to those other proceedings in his or her own right.
-(5) Any certificate given by the chief executive in relation to any matter referred to in subsection (1) or subsection (2) or subsection (3) and relating to the chief executive's powers, shall, in the absence of proof to the contrary, be sufficient evidence of the matters referred to in the certificate.
-(6) Any money that the chief executive becomes liable to pay by virtue of this section shall be paid out of Part B of the Fund.
-(7) Notwithstanding anything contained in subsection (1) or subsection (2), the chief executive shall not exercise any power conferred by this section, in relation to a tenancy agreement that has terminated, upon the request or complaint of any person who was a party to the agreement unless the request or complaint is made in writing within a period of 12 months after the termination of the agreement.
+[Repealed]
 
-### 124A Chief executive may take proceedings as if tenant
-(1) The chief executive may, if satisfied that it is in the public interest to do so on any of the grounds listed in subsection (2), do any of the following in relation to a tenancy as if the chief executive were the tenant:
-  (a) initiate any proceedings in the Tribunal or a court that could be brought by the tenant:
-  (b) assume the conduct of any proceedings in the Tribunal or a court brought by the tenant:
-  (c) without limiting the generality of paragraphs (a) and (b), apply to the Tribunal for a work order.
+### 124A Chief executive may take proceedings in place of tenant or landlord
+(1) The chief executive may, if satisfied that it is in the public interest to do so on any of the grounds listed in subsection (2), do any of the following in relation to a tenancy as if the chief executive were a party to the tenancy:
+  (a) initiate any proceedings in the Tribunal or a court that could be brought by the party:
+  (b) defend any proceedings in the Tribunal or a court that are brought against the party:
+  (c) assume the conduct of any proceedings in the Tribunal or a court brought by or against the party:
+  (d) take any steps that are necessary to enforce or protect the rights of the party in relation to any infringement or suspected infringement of any of those rights under the tenancy agreement or this Act.
 (2) The grounds referred to in subsection (1) are as follows:
   (a) in the chief executive’s opinion, the condition of the premises, or the condition of any premises in relation to which the landlord is the landlord under another tenancy, poses a significant risk to the health or safety of any person:
-  (b) in the chief executive’s opinion, the landlord has committed a serious breach of this Act, or has persistently breached this Act, in relation to the tenancy or otherwise:
-  (c) in the chief executive’s opinion, any conduct of the landlord in relation to the tenancy or otherwise risks undermining public confidence in the administration of this Act:
+  (b) in the chief executive’s opinion, the tenant or the landlord has committed a serious breach of this Act, or has persistently breached this Act, in relation to the tenancy or otherwise:
+  (c) in the chief executive’s opinion, any conduct of the tenant or the landlord in relation to the tenancy or otherwise risks undermining public confidence in the administration of this Act:
   (d) any other ground that the chief executive considers appropriate.
-(3) The chief executive may act under subsection (1) without the tenant’s consent and despite the tenant’s refusal to consent, and even if the tenancy has terminated.
+(3) The chief executive may act in the place of a party under subsection (1)—
+  (a) without the consent of the party:
+  (b) despite the party’s refusal to consent:
+  (c) even if the tenancy has terminated.
 (4) If the tenancy has terminated,—
   (a) any application for a work order that is made, or the conduct of which is assumed, by the chief executive must be dealt with (or continue to be dealt with after the termination) as if the tenancy were still in force; and
   (b) any work order granted on an application that was made, or the conduct of which was assumed, by the chief executive must be complied with, and may be enforced by the chief executive, despite the tenancy’s termination.
 
 ### 124B Supplementary provision to section 124A
-(1) The chief executive may not initiate, or assume the conduct of, any proceedings under section 124A(1) any later than 12 months after the date on which the chief executive becomes aware of the matters on which the proceedings are based.
-(2) If the chief executive acts under section 124A(1), the following provisions apply in relation to the proceedings in question:
-  (a) the chief executive has the same rights and remedies as the tenant, including the right to settle the proceedings:
-  (b) the chief executive may do anything in relation to the proceedings that the tenant could do and, as between the chief executive and the tenant, has control of the proceedings:
-  (c) if the proceedings have already commenced, the Tribunal or court must substitute the chief executive for the tenant as a party to the proceedings:
-  (d) any claim that a person has against the tenant must be dealt with in separate proceedings brought by the person against the tenant (and not against the chief executive):
-  (e) any order or judgment may be enforced by the chief executive as if the chief executive were the tenant:
-  (f) any money (excluding costs) recovered by the chief executive must, without any deduction, be paid by the chief executive to the tenant:
-  (g) the tenant must reasonably co-operate with the chief executive.
+(1) The chief executive may not initiate any proceedings under section 124A(1) any later than 12 months after the date on which the chief executive becomes aware of the matters on which the proceedings are based.
+(2) If the chief executive acts in the place of a party (A) under section 124A(1), the following provisions apply in relation to the proceedings in question:
+  (a) the chief executive has the same rights and remedies as A, including the right to settle the proceedings:
+  (b) the chief executive may do anything in relation to the proceedings that A could do and, as between the chief executive and A, has control of the proceedings:
+  (c) if the proceedings have already commenced, the Tribunal or court must substitute the chief executive for A as a party to the proceedings:
+  (d) the Tribunal must, on the chief executive’s application, order that any other claim by or against A be dealt with in separate proceedings brought by the claimant against A (and not against the chief executive):
+  (e) any order or judgment may be enforced by the chief executive as if the chief executive were A:
+  (f) any money (excluding costs) recovered by the chief executive must, without any deduction, be paid by the chief executive to A:
+  (g) A must reasonably co-operate with the chief executive.
 (3) In subsection (2)﻿(d), claim means a claim for money, a possession order, a work order, or anything else, whether under the tenancy agreement, this Act, or otherwise.
 (4) If a person is the landlord under 2 or more tenancies and the chief executive acts under section 124A(1) in relation to 2 or more of those tenancies, the Tribunal or any court may allow any of the proceedings in question that are before it to be consolidated with 1 or more of any of the other proceedings in question that are before it.
 (5) Any certificate given by the chief executive relating to the chief executive’s powers under section 124A or this section is, in the absence of proof to the contrary, sufficient evidence of the matters referred to in the certificate.
@@ -2481,6 +2767,134 @@ No personal liability shall attach to the chief executive or to any delegate of 
 (2) The report shall show separately—
   (a) the audited consolidated financial statements for the Residential Tenancies Trust Account for the year to which the report relates, consisting of such statements as may be necessary to show the financial position of that Account and the financial results of the operation of the Account during that year; and
   (b) the auditor's report on those financial statements.
+
+**Infringement offences**
+
+### 126A Interpretation
+In this Act,—
+  - **infringement fee** , in relation to an infringement offence, means the infringement fee for the offence prescribed in accordance with clause 2 of Schedule 1B or in regulations made under this Act
+  - **infringement offence** means an offence identified, in this Act or in regulations made under this Act, as being an infringement offence.
+
+### 126B Proceedings for infringement offences
+(1) A person who is alleged to have committed an infringement offence may—
+  (a) be proceeded against by the filing of a charging document under section 14 of the Criminal Procedure Act 2011; or
+  (b) be issued with an infringement notice under section 126C.
+(2) Proceedings commenced in the way described in subsection (1)﻿(a) do not require the leave of a District Court Judge or Registrar under section 21(1)﻿(a) of the Summary Proceedings Act 1957.
+(3) See section 21 of the Summary Proceedings Act 1957 for the procedure that applies if an infringement notice is issued.
+
+### 126C When infringement notice may be issued
+The chief executive may issue an infringement notice to a person if the chief executive believes on reasonable grounds that the person is committing, or has committed, an infringement offence.
+
+### 126D Infringement notice may be revoked
+(1) The chief executive may revoke an infringement notice before the infringement fee is paid, or an order for payment of a fine is made or deemed to be made by a court under section 21 of the Summary Proceedings Act 1957.
+(2) An infringement notice is revoked by giving written notice to the person to whom it was issued that the notice is revoked.
+(3) The revocation of an infringement notice under this section is not a bar to any other enforcement action against the person to whom the notice was issued in respect of the same matter.
+
+### 126E What infringement notice must contain
+An infringement notice must be in the form prescribed in regulations and must contain the following particulars:
+  (a) details of the alleged infringement offence that fairly inform a person of the time, place, and nature of the alleged offence:
+  (b) the amount of the infringement fee:
+  (c) the address of the department:
+  (d) how the infringement fee may be paid:
+  (e) the time within which the infringement fee must be paid:
+  (f) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957:
+  (g) a statement that the person served with the notice has a right to request a hearing:
+  (h) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing:
+  (i) any other matters prescribed in regulations.
+
+### 126F How infringement notice may be served
+(1) An infringement notice may be served on the person who the chief executive believes is committing or has committed the infringement offence by—
+  (a) delivering it to the person or, if the person refuses to accept it, bringing it to the person’s notice; or
+  (b) leaving it for the person at the person’s last known place of residence with another person who appears to be of or over the age of 14 years; or
+  (c) leaving it for the person at the person’s place of business or work with another person; or
+  (d) sending it to the person by prepaid post addressed to the person’s last known place of residence or place of business or work; or
+  (e) sending it to an electronic address of the person in any case where the person does not have a known place of residence or business in New Zealand.
+(2) Unless the contrary is shown,—
+  (a) an infringement notice (or a copy of it) sent by prepaid post to a person under subsection (1) is to be treated as having been served on that person on the fifth working day after the date on which it was posted:
+  (b) an infringement notice sent to a valid electronic address is to be treated as having been served at the time the electronic communication first enters an information system that is outside the control of the chief executive.
+
+### 126G Payment of infringement fees
+All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
+
+**Improvement notices**
+
+### 126H Power to issue improvement notices
+(1) This section applies if the chief executive reasonably believes that a person—
+  (a) is contravening a provision of this Act, of regulations made under this Act, or of a tenancy agreement; or
+  (b) is likely to contravene a provision of this Act, of regulations made under this Act, or of a tenancy agreement.
+(2) The chief executive may issue an improvement notice requiring the person to—
+  (a) remedy the contravention; or
+  (b) prevent a likely contravention from occurring; or
+  (c) remedy the things or activities causing the contravention or likely to cause a contravention.
+
+### 126I Content of improvement notices
+(1) An improvement notice must state—
+  (a) that the chief executive believes the person—
+    (i) is contravening a provision of this Act, of regulations made under this Act, or of a tenancy agreement; or
+    (ii) is likely to contravene a provision of this Act, of regulations made under this Act, or of a tenancy agreement; and
+  (b) the provision the chief executive believes is being, or is likely to be, contravened; and
+  (c) briefly, how the provision is being, or is likely to be, contravened; and
+  (d) a reasonable period within which the person is required to remedy—
+    (i) the contravention or likely contravention; or
+    (ii) the things or activities causing the contravention or likely to cause a contravention.
+(2) An improvement notice may include recommendations concerning—
+  (a) the measures that could be taken to remedy the contravention, or prevent the likely contravention, to which the notice relates:
+  (b) the things or activities causing the contravention, or likely to cause a contravention, to which the notice relates.
+
+### 126J Compliance with improvement notice
+(1) A failure to comply with an improvement notice is an unlawful act.
+(2) It is not an unlawful act to fail to comply with recommendations in an improvement notice.
+
+### 126K Extension of time for compliance with improvement notices
+(1) This section applies if a person has been issued with an improvement notice.
+(2) The chief executive may, by written notice given to the person, extend the compliance period for the improvement notice.
+(3) However, the chief executive may extend the compliance period only if the period has not ended.
+(4) In this section, compliance period—
+  (a) means the period stated in the improvement notice under section 126I(1); and
+  (b) includes any extension of that period under this section.
+
+### 126L Chief executive may withdraw improvement notice
+(1) The chief executive may withdraw an improvement notice.
+(2) The withdrawal of an improvement notice does not prevent another improvement notice from being served in relation to the same matter.
+
+### 126M Objection to improvement notice
+(1) A person who has been issued with an improvement notice may file an objection with the Tribunal.
+(2) An objection must be filed with the Tribunal within 28 days after the date on which the improvement notice was served on the person.
+(3) In determining the objection, the Tribunal must consider—
+  (a) whether the person has failed, or is likely to fail, to comply with a specified provision of this Act, of regulations made under this Act, or of a tenancy agreement; and
+  (b) the nature and extent of the failure or likely failure to comply with the provision; and
+  (c) the nature and extent of any loss suffered by any other party to the tenancy agreement as a result of the failure or likely failure to comply with the provision.
+(4) The Tribunal may confirm, vary, or rescind the improvement notice as the Tribunal thinks fit.
+
+**Enforceable undertakings**
+
+### 126N Chief executive may accept enforceable undertakings
+(1) The chief executive and a party to a tenancy may agree in writing that the party will undertake by a specified date (an enforceable undertaking) to—
+  (a) rectify the breach of any provision of this Act, of regulations made under this Act, or of a tenancy agreement; or
+  (b) pay money owed to another party to the tenancy under this Act, of regulations made under this Act, or of a tenancy agreement; or
+  (c) take any other action that the chief executive determines is appropriate, having regard to the nature of the breach.
+(2) The giving of an enforceable undertaking does not constitute an admission of guilt by the person giving it in relation to the contravention or alleged contravention to which the undertaking relates.
+
+### 126O When enforceable undertaking is enforceable
+An enforceable undertaking takes effect and becomes enforceable when the chief executive’s decision to accept the undertaking is given to the person who made the undertaking, or at any later date specified by the chief executive.
+
+### 126P Compliance with enforceable undertaking
+(1) A person must not contravene an enforceable undertaking given by that person that is in force.
+(2) A person who contravenes subsection (1) commits an unlawful act.
+
+### 126Q Withdrawal or variation of enforceable undertaking
+(1) A person who has given an enforceable undertaking may at any time, with the written agreement of the chief executive,—
+  (a) withdraw the undertaking; or
+  (b) vary the undertaking.
+(2) However, the provisions of the undertaking cannot be varied to provide for a different alleged contravention of this Act, the regulations, or the tenancy agreement.
+
+### 126R Proceedings for alleged contravention
+(1) Subject to this section, no proceedings (whether civil or criminal) for a contravention or an alleged contravention of this Act, the regulations, or a tenancy agreement may be brought against a person if an enforceable undertaking is in effect in relation to that contravention.
+(2) No proceedings may be brought for a contravention or an alleged contravention of this Act, the regulations, or a tenancy agreement against a person who—
+  (a) has made an enforceable undertaking in relation to that contravention; and
+  (b) has completely discharged the enforceable undertaking.
+(3) The chief executive may accept an enforceable undertaking in relation to a contravention or an alleged contravention before proceedings in relation to that contravention have been completed.
+(4) If the chief executive accepts an enforceable undertaking before the proceedings are completed, the chief executive must take all reasonable steps to have the proceedings discontinued as soon as practicable.
 
 **Residential Tenancies Trust Account**
 
@@ -2522,12 +2936,14 @@ No money from time to time standing to the credit of the Residential Tenancies T
 
 ## Part 5 — Miscellaneous provisions
 
-### 133 Tribunal or chief executive may require terms of tenancy agreement
-(1) The Tribunal or the chief executive may, at any time during the currency of a tenancy agreement or within 12 months after its termination, by notice in writing, require the landlord to inform the Tribunal or the chief executive of the provisions of the agreement.
-(1A) A notice under subsection (1) may require the landlord to produce to the Tribunal or the chief executive, in the way specified in the notice, the tenancy agreement and any variations or renewals of it (or copies), and the Tribunal or the chief executive may—
+### 133 Tribunal or chief executive may require terms of tenancy agreements
+(1) The Tribunal or the chief executive may, by notice in writing, require a landlord to inform the Tribunal or the chief executive of the provisions of any specified tenancy agreement or agreements, or of all tenancy agreements to which the landlord is a party, that—
+  (a) are current; or
+  (b) that terminated during the 12 months before the date on which the notice is given.
+(1A) A notice under subsection (1) may require the landlord to produce to the Tribunal or the chief executive, in the way specified in the notice, each tenancy agreement and any variations or renewals of it (or copies), and the Tribunal or the chief executive may—
   (a) inspect and make records of any document that is produced; and
   (b) take copies of the document or extracts from it.
-(2) Every person who, without reasonable excuse, fails to comply with a notice under subsection (1) within 10 working days after receiving it commits an offence and is liable on conviction to a fine not exceeding $2,000.
+(2) Every person who, without reasonable excuse, fails to comply with a notice under subsection (1) within 10 working days after receiving it commits an offence and is liable on conviction to a fine not exceeding $3,600.
 
 ### 134 Waiver by landlord of breach by tenant
 A waiver by the landlord of any breach by the tenant, or a failure by the landlord to enforce any obligation by the tenant, shall not,—but any such waiver or failure to enforce may be taken into consideration by the Tribunal if the landlord subsequently applies to the Tribunal for an order terminating the tenancy.
@@ -2574,6 +2990,7 @@ Any amount that is, by virtue of any provision of this Act or of any order of th
 (10) In proving service of a document transmitted by email, it is sufficient to prove that the email was—
   (a) properly addressed to the email address in question; and
   (b) properly transmitted with the document to that email address.
+(11) Nothing in this section applies to the service of infringement notices (see section 126F).
 
 ### 136A Calculation of periods
 Where this Act requires notice to be given of any thing and prescribes a following period within which, or on the expiry of which, a thing is required or permitted to be done, or a change in the parties’ rights, obligations, interests, or status is to take effect, the period—
@@ -2587,6 +3004,14 @@ Where this Act requires notice to be given of any thing and prescribes a followi
 (2) Requiring any person to enter into any transaction, or to make any contract or arrangement, in contravention of subsection (1) is hereby declared to be an unlawful act.
 (3) Subject to subsection (4), any provision of any transaction, contract, or arrangement entered into in contravention of subsection (1) that would have the effect of, in any way, whether directly or indirectly, defeating, evading, or preventing the operation of any of the provisions of this Act shall be of no effect.
 (4) All money paid and the value of any other consideration for the tenancy provided by the tenant (not being rent lawfully recoverable by the landlord) or, where the transaction takes the form of an option to purchase the premises to which the transaction relates, by the person on whom the option to purchase is conferred, shall be recoverable as a debt due to the tenant or prospective purchaser by the landlord.
+
+### 137A Only 1 penalty type for same conduct
+(1) If a type of penalty described in subsection (2) is imposed on a person in relation to conduct relating to a tenancy, the other type of penalties described in that subsection cannot be imposed on the person in relation to the same conduct.
+(2) The types of penalty are—
+  (a) a fine, an infringement fee, or a term of imprisonment under this Act or any other Act:
+  (b) an order to pay a pecuniary penalty under this Act:
+  (c) an order to pay an amount in the nature of exemplary damages under this Act.
+(3) The imposition of a penalty described in subsection (2) on a person does not affect or limit the person’s liability to pay damages or compensation (other than an amount in the nature of exemplary damages) in relation to the same conduct.
 
 ### 138 Time for filing charging document
 Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 12 months after the date on which the offence was committed.
@@ -2935,53 +3360,94 @@ The amendment made by section 73 of the 2020 Act applies to conduct whether the 
 
 ## Schedule 1A — Amounts for unlawful acts
 
-| Section |  | Amount ($) |
+| Section | Description of unlawful act | Amount ($) |
 | --- | --- | --- |
-| 12 | (Unlawful discrimination) | 4,000 |
-| 13A(1F) | (Non-compliance with section 13A(1A), (1CA), (1CB), (2), (3), or (4), etc) | 500 |
-| 16A(6) | (Landlord failing to appoint agent when outside New Zealand for longer than 21 consecutive days) | 1,000 |
-| 17 | (Requiring key money) | 1,000 |
-| Section 17A | (Requiring letting fee) | 1,000 |
-| 18 | (Landlord requiring bond greater than amount permitted) | 1,000 |
-| 18A | (Requiring unauthorised form of security) | 1,000 |
-| 19(2) | (Breach of duties of landlord on receipt of bond) | 1,000 |
-| 23 | (Landlord requiring rent more than 2 weeks in advance or before rent already paid expires) | 1,000 |
-| 27(2) | (Landlord requiring rent in excess of market rent order) | 200 |
-| 29 | (Failure by landlord to give receipts for rent) | 200 |
-| 30(2) | (Landlord failing to keep records) | 200 |
-| 33 | (Landlord seizing or disposing of tenant’s goods) | 2,000 |
-| 38(3) | (Interference with privacy of tenant) | 2,000 |
-| 40(2)﻿(ab) | (Interference, etc, with means of escape from fire) | 3,000 |
-| 40(3A)﻿(a) | (Failing to observe, without reasonable excuse, the tenant’s duties upon termination) | 1,000 |
-| 40(3A)﻿(c) | (Using or permitting premises to be used for unlawful purpose) | 1,000 |
-| 40(3A)﻿(d) | (Harassment of tenant or neighbour) | 2,000 |
-| 40(3A)﻿(e) | (Tenant failing to ensure number of residents does not exceed maximum allowed) | 1,000 |
-| 44(2A) | (Assigning or subletting a tenancy when prohibited to do so or without the landlord’s written consent) | 1,000 |
-| 45(1A) | (Landlord’s failure to meet obligations in respect of cleanliness, maintenance, smoke alarms, the healthy homes standards, contamination, or buildings, health, and safety requirements) | 4,000 |
-| 45(1AB) | (Landlord providing premises, or continuing to provide premises, despite landlord’s knowledge of contamination of premises) | 4,000 |
-| 45(2A) | (Landlord interfering with supply of services to premises) | 1,000 |
-| 45(2D) | (Landlord’s failure to meet obligations to provide insurance policy or to correct information provided) | 500 |
-| 46(3) | (Altering locks without consent of other party) | 1,000 |
-| 48(4)﻿(a) | (Unlawful entry by landlord) | 1,000 |
-| 48(4)﻿(b) | (Tenant failing, without reasonable excuse, to allow landlord to enter upon premises in circumstances where landlord entitled to enter) | 1,000 |
-| 49D | (Unlawful acts of landlord related to the tenant’s liability under section 49B) | 1,000 |
-| 54(3) | (Retaliatory notice of termination) | 4,000 |
-| 61(5) | (Abandonment of premises without reasonable excuse) | 1,000 |
-| 66G(4) | (Harassment of tenant in boarding house) | 2,000 |
-| 66I(4) | (Landlord of boarding house failing to meet obligations in respect of cleanliness, maintenance, smoke alarms, the healthy homes standards, contamination, or buildings, health, and safety requirements) | 4,000 |
-| 66I(5) | (Landlord of boarding house providing, or continuing to provide, boarding room despite landlord’s knowledge of contamination of boarding room or facilities) | 4,000 |
-| 66J(4) | (Landlord of boarding house interfering with services or failing to advise that premises on the market) | 1,000 |
-| 66J(7) | (Landlord of boarding house failing to meet obligations to provide insurance policy or to correct information provided) | 500 |
-| 66K(2)﻿(b) | (Interference, etc, with means of escape from fire) | 3,000 |
-| 66K(4)﻿(b) | (Using or permitting premises to be used for unlawful purposes) | 1,000 |
-| 66K(4)﻿(c) | (Harassment of neighbour) | 2,000 |
-| 66P(4) | (Landlord of boarding house failing to comply with order relating to house rules) | 2,000 |
-| 66T(1) | (Contraventions relating to entry, or attempted entry, of tenant’s room in boarding house) | 1,000 |
-| 66X(5) | (Abandonment of premises without reasonable excuse) | 1,000 |
-| 108(2A) | (Breach of work order (other than section 78A work order) without reasonable excuse) | 3,000 |
-| 108(2A) | (Landlord breaching section 78A work order without reasonable excuse) | 4,000 |
-| 123A(4) | (Landlord failing to provide required documents to chief executive) | 1,000 |
-| 137(2) | (Contracting to contravene or evade the provisions of this Act) | 1,000 |
+| 12(1) | Unlawful discrimination | 6,500 |
+| 13(4) | Landlord failing to ensure tenancy agreement in writing, signed, and provided to tenant | 750 |
+| 13A(1AAA) | Landlord failing to ensure tenancy agreement includes certain information specified in section 13A(1) | 750 |
+| 13A(1F)﻿(a) | Landlord failing to comply with section 13A(1A), (1CA), (1CB), (2), (3), or (4) | 750 |
+| 13A(1F)﻿(b) | Landlord providing false or misleading statement or information under section 13A(1A), (1CA), (1CB), (2), (3), or (4) | 900 |
+| 15(2) | Successor landlord or tenant failing to give notice | 750 |
+| 16(2) | Failing to notify change of name or address | 750 |
+| 16A(6) | Landlord failing to appoint agent when outside New Zealand for longer than 21 consecutive days | 1,500 |
+| 17(3) | Requiring key money | 1,500 |
+| 17A(3) | Requiring letting fee | 1,500 |
+| 18(4)﻿(a) | Landlord requiring bond greater than amount permitted | 1,500 |
+| 18A(2)﻿(a) | Landlord requiring unauthorised form of security | 1,500 |
+| 19(2) | Breaching duties on receipt of bond | 1,500 |
+| 22F(3)﻿(a) | Landlord failing to state amount of rent when offering tenancy | 1,500 |
+| 22G(3) | Landlord inviting or encouraging bids for rent | 1,500 |
+| 23(4)﻿(a) | Landlord requiring rent more than 2 weeks in advance or before rent already paid expires | 1,500 |
+| 27(2) | Landlord requiring rent in excess of market rent order | 350 |
+| 29(5) | Failing to give receipt for rent | 350 |
+| 30(2)﻿(a) | Landlord failing to keep records | 350 |
+| 33(2) | Landlord seizing or disposing of tenant’s goods | 3,000 |
+| 38(3) | Interference with privacy of tenant | 3,000 |
+| 40(3A)﻿(a) | Tenant failing, without reasonable excuse, to quit premises upon termination | 1,500 |
+| 40(3A)﻿(b) | Tenant’s interference, etc, with means of escape from fire | 4,000 |
+| 40(3A)﻿(c) | Tenant using or permitting premises to be used for unlawful purpose | 1,800 |
+| 40(3A)﻿(d) | Tenant’s harassment of other tenant or neighbour | 3,000 |
+| 40(3A)﻿(e) | Tenant failing to ensure number of residents does not exceed maximum allowed | 1,000 |
+| 42A(7) | Landlord failing to respond to written request seeking consent for fixtures, etc | 1,500 |
+| 42B(3) | Landlord failing to consent to request for minor change | 1,500 |
+| 42B(6) | Tenant failing to reinstate premises at end of tenancy following minor change | 1,500 |
+| 43B(3) | Tenant assigning tenancy without the landlord’s written consent or when prohibited to do so | 750 |
+| 43B(5) | Landlord failing to respond to written request for consent to assignment | 1,500 |
+| 44(2A) | Tenant subletting or parting with possession when prohibited to do so or without the landlord’s written consent | 1,500 |
+| 44A(3)﻿(a) | Landlord failing to itemise expenses incurred on assignment, subletting, parting with possession, or termination by consent | 750 |
+| 45(1A) | Landlord failing to meet obligations in respect of cleanliness, maintenance, smoke alarms, the healthy homes standards, or buildings, health, and safety requirements | 7,200 |
+| 45(1AB) | Landlord providing premises, or continuing to provide premises, despite landlord’s knowledge of contamination of premises | 4,000 |
+| 45(1AD)﻿(a) | Landlord failing to provide healthy homes information | 750 |
+| 45(2A) | Landlord interfering with supply of services to premises | 1,800 |
+| 45(2D) | Landlord failing to meet obligations to provide insurance policy or to correct information provided | 900 |
+| 45B(6) | Landlord failing to take all reasonable steps to facilitate installation of fibre connection or to respond to request | 1,500 |
+| 46(3) | Landlord failing to provide locks or landlord or tenant altering locks without consent of other party | 1,500 |
+| 47(3) | Landlord failing to give notice that premises are on the market | 1,800 |
+| 48(4)﻿(a) | Unlawful entry by landlord | 1,500 |
+| 48(4)﻿(b) | Tenant failing to allow landlord to enter upon premises in circumstances where landlord entitled to enter | 1,500 |
+| 48(4)﻿(c) | Landlord failing to notify tenant of results of contamination test | 1,000 |
+| 49D | Unlawful acts of landlord related to tenant’s liability under section 49B | 1,800 |
+| 54(3) | Landlord giving retaliatory notice of termination | 6,500 |
+| 60AA | Landlord acting to terminate tenancy without grounds | 6,500 |
+| 61(5) | Tenant abandoning premises without reasonable excuse | 1,500 |
+| 66G(4) | Harassment of tenant in boarding house | 3,000 |
+| 66I(4) | Landlord of boarding house failing to meet obligations in respect of cleanliness, maintenance, smoke alarms, the healthy homes standards, or buildings, health, and safety requirements | 7,200 |
+| 66I(5) | Landlord of boarding house providing, or continuing to provide, boarding room despite landlord’s knowledge of contamination of boarding room or facilities | 4,000 |
+| 66I(7) | Landlord failing to provide healthy homes information | 750 |
+| 66J(2B) | Landlord of boarding house interfering with services or failing to advise that premises on market | 1,800 |
+| 66J(4) | Landlord of boarding house failing to notify results of contamination test (relating to boarding house facilities) | 1,000 |
+| 66J(7) | Landlord of boarding house failing to meet obligations to provide insurance policy or to correct information provided | 900 |
+| 66K(4)﻿(a) | Tenant of boarding house interfering, etc, with means of escape from fire | 4,000 |
+| 66K(4)﻿(b) | Tenant using or permitting boarding room to be used for unlawful purposes | 1,500 |
+| 66K(4)﻿(c) | Tenant of boarding house harassing neighbour | 3,000 |
+| 66P(4) | Landlord of boarding house failing to comply with order relating to house rules | 3,000 |
+| 66T(1)﻿(a) to (c) | Contraventions relating to entry, or attempted entry, of tenant’s boarding room | 1,500 |
+| 66T(1)﻿(d) | Landlord of boarding house failing to notify results of contamination test (relating to boarding room) | 1,000 |
+| 66X(5) | Tenant of boarding house abandoning premises without reasonable excuse | 1,500 |
+| 108(2A) | Breach of work order (other than section 78A work order) | 5,000 |
+| 108(2A) | Landlord breaching section 78A work order | 5,000 |
+| 123A(5)﻿(a) | Landlord failing to produce documents to chief executive | 1,500 |
+| 126J(1) | Failing to comply with improvement notice | 3,000 |
+| 126P(2) | Breaching an enforceable undertaking | 1,000 |
+| 137(2) | Contracting to contravene or evade the provisions of this Act | 1,800 |
+
+## Schedule 1B — Fines and fees for infringement offences
+
+### 1 Maximum fine for infringement offences
+The maximum fine for an infringement offence specified in column 1 of the table in clause 4 is an amount not exceeding,—
+  (a) if the landlord has 6 or more tenancies or is the landlord of a boarding house when they commit the offence, the corresponding amount in column 3 of the table; and
+  (b) in any other case, the corresponding amount in column 4 of the table.
+
+### 2 Infringement fee for infringement offences
+The infringement fee for an infringement offence specified in column 1 of the table in clause 4 is,—
+  (a) if the landlord has 6 or more tenancies or is the landlord of a boarding house when they commit the offence, the corresponding amount in column 5 of the table; and
+  (b) in any other case, the corresponding amount in column 6 of the table.
+
+### 3 Infringement notice not invalid if higher fee applies
+An infringement notice served on a landlord that has 6 or more tenancies or that is the landlord of a boarding house is not invalid merely because the notice imposes the fee for the offence that is in column 6 of the table in clause 4.
+
+### 4 Table of fines and fees for infringement offences
+The following table sets out the fines and fees for infringement offences under this Act:The following table is small in size and has 6 columns. Column 1 is headed Section. Column 2 is headed Description of offence. Column 3 is headed Fine (cl 1(a)) ($). Column 4 is headed Fine (cl 1(b)) ($). Column 5 is headed Fee (cl 2(a)) ($). Column 6 is headed Fee (cl 2(b)) ($).Column 1Column 2Column 3Column 4Column 5Column 6SectionDescription of offenceFine (cl 1(a)) ($)Fine (cl 1(b)) ($)Fee (cl 2(a)) ($)Fee (cl 2(b)) ($)13(4)﻿(b)Failing to ensure tenancy agreement in writing, signed, and provided to tenant2,0001,0001,00050013A(1G)Failing to comply with section 13A(1A), (1CA), (1CB), or (2)2,0001,0001,00050015(3)Failing to give notice as successor2,0001,0001,00050016(2A)Failing to notify change of name or address2,0001,0001,00050016A(6)﻿(b)Failing to appoint agent when outside New Zealand for longer than 21 consecutive days3,0001,5001,00050017(3A)Requiring key money3,0001,5001,00050017A(4)Requiring letting fee3,0001,5001,00050018(4)﻿(b)Requiring bond greater than amount permitted3,0001,5001,00050018A(2)﻿(b)Requiring unauthorised form of security3,0001,5001,00050019(3)Breaching duties on receipt of bond3,0001,5001,00050022F(3)﻿(b)Failing to state amount of rent in advertisement or offer2,0001,0001,00050023(4)﻿(b)Requiring rent more than 2 weeks in advance or before rent already paid expires3,0001,5001,00050029(6)Failing to give receipt for rent2,0001,0001,00050030(2)﻿(b)Failing to keep records2,0001,0001,00050044A(3)﻿(b)Failing to itemise expenses incurred on assignment, subletting, parting with possession, or termination by consent2,0001,0001,00050045(1AD)﻿(b)Failing to provide healthy homes information2,0001,0001,00050047(4)Failing to inform prospective tenants that premises on the market3,0001,5001,00050048(4A)Failing to notify tenant of results of test for contaminants2,0001,0001,00050066I(7)Failing to provide healthy homes information2,0001,0001,00050066J(2B)﻿(b)Failing to inform prospective tenants that boarding house premises on the market3,0001,5001,00050066J(4)﻿(b)Failing to notify tenant of results of test for contaminants (relating to boarding house facilities)2,0001,0001,00050066T(1A)Failing to notify tenant of results of test for contaminants (relating to boarding room)2,0001,0001,000500123A(5)﻿(b)Failing to produce documents to chief executive3,0001,5001,000500
 
 ## Schedule 2 — Enactments repealed
 
