@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-02-18_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -32850,6 +32850,7 @@ Payments and benefits excluded from family scheme income
   (i) a payment under an insurance contract, other than a payment for a loss of income:
   (j) compensation for a loss other than a loss of income:
   (jb) a loan made under the small business cashflow scheme:
+  (jc) a payment made under the COVID-19 resurgence support payments scheme, as defined in section 3(1) of the Tax Administration Act 1994:
   (k) lump sum compensation under the Accident Compensation Act 2001:
   (kb) a payment of a foster care allowance under section 363 of the Oranga Tamariki Act 1989:
   (kc) a payment under section 386AAG or 386B of the Oranga Tamariki Act 1989:
@@ -42429,6 +42430,7 @@ In this Act, unless the context requires otherwise,—
     (c) exempt income under section CW 8 (Money lent to government of New Zealand); or
     (d) payable under a specified lease or a finance lease; or
     (db) payable in relation to a loan made under the small business cashflow scheme; or
+    (dc) payable in relation to the repayment of a grant under the COVID-19 resurgence support payments scheme, as defined in section 3(1) of the Tax Administration Act 1994; or
     (e) payable for bonus bonds or Post Office bonus bonds (as each of those terms is defined in section 2 of the Post Office Bank Act 1987); or
     (f) payable on an overpaid levy under section 173 of the Accident Compensation Act 2001; or
     (g) payable by the Commissioner under section 84 of the KiwiSaver Act 2006
