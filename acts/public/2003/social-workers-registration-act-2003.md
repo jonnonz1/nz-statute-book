@@ -1,5 +1,5 @@
 # Social Workers Registration Act 2003
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-02-27_
 
 ### 1 Title
 This Act is the Social Workers Registration Act 2003.
@@ -17,12 +17,10 @@ The purpose of this Act is—
   (a) to protect the safety of members of the public, by prescribing or providing for mechanisms to ensure that social workers are—
     (i) competent to practise; and
     (ii) accountable for the way in which they practise; and
-  (b) for the purposes of paragraph (a), to create a framework for the registration of social workers in New Zealand, and—
+  (b) for the purposes of paragraph (a), to create a framework for the registration of social workers in New Zealand and determine their scopes of practice, and—
     (i) establish a board to register social workers, and provide for its powers; and
     (ii) establish a tribunal to consider complaints about social workers; and
-  (c) to provide for the Board to promote the benefits of registration of social workers—
-    (i) to departments of State, other instruments of the Crown, other bodies and organisations that employ social workers, and the public; and
-    (ii) among people practising social work; and
+  (c)
   (d) to enhance the professionalism of social workers.
 
 ### 4 Interpretation
@@ -38,15 +36,17 @@ In this Act, unless the context otherwise requires,—
   - **limited registration** means provisional or temporary registration
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **Minister** means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
+  - **practise as a social worker** means to do so within the person’s individual scope of practice
   - **practising certificate** —
     (a) means a practising certificate issued under section 28(1) or section 33(3)﻿(b); and
     (b) includes an interim practising certificate issued under section 33(3)﻿(a) or section 37
   - **prescribed qualification** means a qualification prescribed by the Board under section 5B
-  - **recognised New Zealand qualification** means a New Zealand educational qualification for the time being recognised by the Board as appropriate for social workers working in New Zealand
   - **Register** means the register of social workers kept under section 121
   - **Registrar** means the Registrar of the Register of Social Workers for the time being holding office under section 137(1)
   - **registration** means the entry in the Register of the information stated in section 123(1) in respect of a person; and has a corresponding meaning
-  - **scope of practice** , in relation to the social work profession, means 1 or more social work services performed by the social work profession that are described as a scope of practice by the Board under section 5A
+  - **scope of practice** ,—
+    (a) in relation to the social work profession, means 1 or more social work services performed by the social work profession that are described as a scope of practice by the Board under section 5A:
+    (b) in relation to an individual social worker, means 1 or more social work services (described in a scope of practice under section 5A) that the social worker is permitted to perform or not permitted to perform by an authorisation under section 8A, subject to any condition (including any applicable general condition) imposed by the Board or the Tribunal
   - **social work service** means a service provided for the purpose of assessing, supporting, improving, or protecting the well-being of individuals, families, groups, or communities
   - **social worker** means a person who is registered under this Act as a social worker
   - **transition day** means the day 6 months after the commencement of Parts 2 to 4
@@ -95,59 +95,142 @@ This Act binds the Crown.
     (ii) obtain a photocopy of the notice for a reasonable fee.
 (5) A notice published under section 5A or 5B or this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
-## Part 2 — Registration and practising certificates
+## Part 2 — Registration, authorisation to practise within scope of practice, and practising certificates
 
-**Entitlement to registration**
+**Key provisions**
 
-### 6 Entitlement to registration of New Zealand-qualified social workers
-(1) A person who has a recognised New Zealand qualification is entitled to be registered if the Board is satisfied—
-  (a) that his or her competence to practise social work has been found satisfactory under Part 3; and
-  (b) that he or she is a fit and proper person to practise social work; and
+### 6AA Unregistered person must not claim to be social worker
+(1) A person may use names, words, titles, initials, abbreviations, or descriptions stating or implying that they are a social worker only if they are registered as a social worker under this Act (and their registration is not suspended).
+(2) No person may claim to be practising as a social worker, or state or do anything that is calculated to suggest that they practise or are willing to practise as a social worker, unless—
+  (a) they are registered as a social worker under this Act (and their registration is not suspended); and
+  (b) they hold a current practising certificate as a social worker (and their practising certificate is not suspended).
+(3) No person may make an express or implied statement about another person that the other person is prohibited by this section from making about themselves.
+(4) The prohibitions under this section do not apply to a person who states that they are willing to practise as a social worker for the purpose of seeking employment if the person would, on obtaining employment, be entitled to—
+  (a) be registered as a social worker; and
+  (b) hold a current practising certificate as a social worker.
+
+### 6AAB Key requirements for practising as social worker
+(1) No person may practise as a social worker unless—
+  (a) they are registered as a social worker (and their registration is not suspended); and
+  (b) they practise within the terms of their individual scope of practice (authorised under section 8A), including complying with any conditions to which their practice is subject; and
+  (c) they hold a current practising certificate issued by the Board (and their practising certificate is not suspended).
+(2) Nothing in this section applies to a social worker who performs social work services—
+  (a) in an emergency; or
+  (b) in the course of an examination, an assessment, or a competence review required or ordered by the Board.
+
+### 6 Entitlement of New Zealand-qualified applicants to registration within scope of practice
+(1) A person who has a prescribed qualification for a scope of practice is entitled to be registered within that scope of practice if the Board is satisfied—
+  (a) that his or her competence to practise as a social worker has been found satisfactory under Part 3; and
+  (b) that he or she is a fit and proper person to practise as a social worker; and
   (c) that (whether because of the inclusion of an appropriate component in that qualification, or as a result of his or her satisfactory completion of a separate course or courses of training) he or she—
-    (i) is competent to practise social work with Māori; and
-    (ii) is competent to practise social work with different ethnic and cultural groups in New Zealand; and
-  (d) that he or she has enough practical experience in practising social work.
+    (i) is competent to practise as a social worker with Māori; and
+    (ii) is competent to practise as a social worker with different ethnic and cultural groups in New Zealand; and
+  (d) that he or she has enough practical experience in practising as a social worker.
 (2) Subsection (1)﻿(a) applies to a person only if the Board has received information about that person and that information raises doubt about their competence to practise as a social worker.
 
-### 7 Entitlement to registration of overseas-qualified social workers
-A person who does not have a recognised New Zealand qualification is entitled to be registered if the Board is satisfied that—
-  (a) he or she has an overseas qualification equivalent to a recognised New Zealand qualification (except to the extent that it may not include a component whose satisfactory completion ensures that its holder—
-    (i) is competent to practise social work with Māori; and
-    (ii) is competent to practise social work with different ethnic and cultural groups in New Zealand); and
+### 7 Entitlement of overseas-qualified applicants to registration within scope of practice
+A person who does not have a prescribed qualification for a scope of practice is entitled to be registered within that scope of practice if the Board is satisfied that—
+  (a) he or she has an overseas qualification equivalent to a prescribed qualification for a scope of practice (except to the extent that it may not include a component whose satisfactory completion ensures that its holder—
+    (i) is competent to practise as a social worker with Māori; and
+    (ii) is competent to practise as a social worker with different ethnic and cultural groups in New Zealand); and
   (b) either—
     (i) he or she is registered or licensed as a social worker, or as the practitioner of a profession equivalent to that of a social worker, in a State other than New Zealand (whether the State in which the equivalent qualification was obtained or some other State); or
     (ii) there are good reasons for his or her not being so registered or licensed; and
   (c) he or she has satisfactorily completed a course or courses of training ensuring that he or she—
-    (i) is competent to practise social work with Māori; and
-    (ii) is competent to practise social work with different ethnic and cultural groups in New Zealand; and
+    (i) is competent to practise as a social worker with Māori; and
+    (ii) is competent to practise as a social worker with different ethnic and cultural groups in New Zealand; and
   (d) he or she can speak and write English reasonably effectively, and understand spoken and written English reasonably well; and
-  (e) he or she has enough practical experience in practising social work; and
-  (f) his or her competence to practise social work has been found satisfactory under Part 3; and
-  (g) he or she is a fit and proper person to practise social work; and
-  (h) he or she intends to live and practise social work in New Zealand.
+  (e) he or she has enough practical experience in practising as a social worker; and
+  (f) his or her competence to practise as a social worker has been found satisfactory under Part 3; and
+  (g) he or she is a fit and proper person to practise as a social worker; and
+  (h) he or she intends to live and practise as a social worker in New Zealand.
 
 **Applications**
 
-### 8 Applications for registration
-(1) An application for registration must be made to the Registrar on a form provided by the Board.
-(2) The application must be accompanied by—
-  (a) the application fee (if any) set by the Board; and
-  (b) any evidence of the matters referred to in section 6 or section 7 the Board requires.
-(3) The application may be accompanied by any other material relating to the matters referred to in section 6 or section 7 the applicant wishes.
-(4) Promptly after receiving a valid application for registration, the Registrar must give it to the Board.
-(5) Sections 84(4) and 139(1) override subsection (4).
+### 8 Applications for registration and authorisation to practise within scope of practice of social work profession
+(1) This section applies to every application by—
+  (a) a person who applies to be registered under section 6 or 7 as a social worker authorised to practise within a scope of practice of the social work profession notified under section 5A; and
+  (b) a social worker who applies for a change in the authorisation of their existing individual scope of practice.
+(2) An application must be made to the Registrar and must—
+  (a) be made in a form, and contain the information, that is required by the Board; and
+  (b) be accompanied by—
+    (i) an indication of—
+      (A) the scope of practice of the profession that the applicant proposes to be authorised to practise within and the 1 or more social work services the applicant seeks to be permitted to perform under that scope of practice; or
+      (B) the change the social worker wishes to have made to their existing individual scope of practice; and
+    (ii) any evidence in support of the application that is required by the Board; and
+    (iii) the fee (if any) set by the Board.
+(3) When the Registrar receives a valid application that complies with this section, the Registrar must promptly submit the application to the Board for its consideration.
+(4) However, if any fine imposed on a social worker under section 83 remains unpaid, or any costs or expenses payable under an order made under that section remain unpaid, the Registrar may decline to submit the application to the Board until the fine or costs or expenses are paid.
+(5) If the Registrar declines to submit an application to the Board under subsection (4), the social worker may apply in writing to the Board requesting a review of the Registrar’s decision, and the Board must, as soon as practicable, review the decision and either confirm or revoke it.
+
+### 8A Board may authorise individual scope of practice for applicant or change to individual scope of practice for social worker
+(1) The Board must promptly consider applications received from the Registrar.
+(2) The Board may authorise an applicant to practise within a scope of practice of the social work profession.
+(3) The contents of an authorisation (together with any applicable general conditions) form the applicant's individual scope of practice (see section 8B).
+(4) The Board may authorise a change to the existing individual scope of practice of a social worker.
+(5) If an applicant (including a social worker applying for a change in their individual scope of practice) is, under section 8E(4), entitled to an opportunity to make written submissions and be heard, an authorisation under this section may be determined only after the applicant has had that opportunity.
+
+### 8B Contents of authorisation of individual scope of practice
+(1) An authorisation under section 8A(2) and (3) must identify the applicable scope of practice of the profession and specify the social work services within that scope of practice that the applicant is, subject to any condition included in the authorisation, permitted to perform or not permitted to perform.
+(2) An authorisation under section 8A(4) must state the change involved by reference to 1 or more of the following matters:
+  (a) the applicable scope of practice of the profession:
+  (b) the social work service or services under that scope of practice that the applicant will now be permitted to perform or not permitted to perform:
+  (c) the cancellation or variation of an existing condition:
+  (d) the inclusion of a new condition.
+(3) Any condition included in an authorisation must be of a kind that the Board considers is required to ensure the competent practice of the applicant and, without limitation, may include any of the following:
+  (a) a condition that the applicant practise subject to the supervision of 1 or more nominated social workers or social workers of a stated class:
+  (b) a condition that the applicant practise subject to the oversight of 1 or more nominated social workers or social workers of a stated class:
+  (c) a condition that the applicant not perform any task of a stated kind or that the applicant perform that task only in stated circumstances:
+  (d) a condition that the applicant practise only in a stated capacity, for example, as an employee of a nominated person or a person of a stated class:
+  (e) a condition that the applicant practise in association with 1 or more nominated persons or persons of a stated class:
+  (f) a condition that the applicant practise only for a specified period:
+  (g) a condition that the applicant attain 1 or more further stated qualifications or attain further experience of a stated kind:
+  (h) a condition that the Board believes on reasonable grounds to be necessary to protect the safety of the public.
+
+### 8C Assessment of social workers practising under supervision
+If an authorisation includes a condition referred to in section 8B(3)﻿(a) that the applicant practise under supervision, the authorisation may also include the following conditions:
+  (a) that 1 or more of the supervising social workers assess and report to the Board at specified intervals (whether generally or in relation to any particular case or class of case) on the performance of the applicant; and
+  (b) that each of those reports set out a recommendation as to whether the condition requiring the applicant to practise subject to supervision should continue to apply.
+
+### 8D Board may require applicant to take and pass examination or assessment
+(1) For the purpose of considering an application under section 8, the Board may require the applicant to take and pass an examination or undergo and pass an assessment that is set or recognised by the Board, to enable the Board to assess either or both of the following:
+  (a) whether the applicant is competent to practise, in New Zealand, all or some of the social work services described in the scope of practice of the profession in respect of which the applicant seeks to be, or agrees to be, registered:
+  (b) whether the applicant’s ability to communicate in and comprehend English is sufficient to protect the safety of the public.
+(2) A requirement under subsection (1) is part of the process of considering the application and must not be taken as a proposal to decline the application.
+
+### 8E Board must inform applicant that it proposes to depart from indicated scope of practice or to decline application
+(1) In assessing an application under section 8, the Board must consider whether the applicant is qualified and competent to practise all or some of the social work services described in the applicant’s indicated scope of practice of the profession.
+(2) If the Board proposes to authorise an applicant to practise in any way that differs from the indication given by the applicant, the Board must inform the applicant in writing of its reasons for proposing to do so.
+(3) If the Board proposes to decline the application, the Board must inform the applicant in writing of its reasons for proposing to do so.
+(4) When the Board informs an applicant that it proposes to authorise them to practise in any way that differs from the indication given by the applicant or to decline their application, it must also give them—
+  (a) a copy of any written information on which the Board is relying; and
+  (b) a written summary of any other information on which the Board is relying; and
+  (c) a reasonable opportunity to make written submissions and be heard, either personally or by their representative.
+(5) Subsection (4)﻿(a) and (b) is subject to section 142.
+
+### 8F Decisions of Board on registration
+(1) If the Board authorises an individual scope of practice for an applicant who meets the criteria in section 6, 7, 14, or 15 (as relevant), the applicant is entitled to be registered as a social worker, and the Registrar must promptly register the applicant by entering in the Register the information about the applicant required under section 123.
+(2) The Registrar must promptly notify an applicant who has been registered of the fact of their registration, the contents of the authorisation by the Board (and any applicable general conditions) that form their individual scope of practice, and the reasons for any condition that has been included.
+(3) If the Board decides that an applicant’s registration is to be provisional or temporary, the Registrar must also notify them of—
+  (a) the fact that it is provisional or temporary; and
+  (b) the duration of the registration; and
+  (c) the Board’s reasons.
+(4) If the Board, after considering an application for registration, decides that the applicant should not be registered, the Registrar must promptly notify the applicant of the decision and the reasons for it.
+
+### 8G Decisions of Board on change to individual scope of practice
+(1) As soon as practicable after the Board authorises a change to an individual scope of practice, the Registrar must enter the change in the Register and promptly notify the social worker of the change and the reasons for it.
+(2) A change must also be endorsed on the social worker’s practising certificate under section 35A.
+(3) If the Board, after considering an application for a change to an existing individual scope of practice, decides that the change should not be authorised, the Registrar must promptly notify the social worker of the decision and the reasons for it.
+
+### 8H Board may adopt general conditions
+(1) The Board may, as it thinks fit, adopt any conditions to apply to the individual scopes of practice (see section 8A) of all social workers or all social workers of a particular description.
+(2) The conditions may include a condition relating to supervision.
 
 ### 9 Consideration of applications by Board
-Promptly after receiving a valid application for registration from the Registrar, the Board must consider it, and decide—
-  (a) whether the applicant should be registered; and
-  (b) if it decides that the applicant should be registered,—
-    (i) whether he or she should be registered fully, provisionally, or temporarily; and
-    (ii) whether he or she should be registered without conditions, or subject to conditions.
+[Repealed]
 
 ### 10 Provisional registration
-(1) A person registered provisionally—
-  (a) must always be registered subject to conditions appropriate to his or her circumstances; and
-  (b) may also be registered subject to other conditions.
+(1) A person registered provisionally must be registered with conditions in their individual scope of practice appropriate to their circumstances.
 (2) The duration of any period of provisional registration of a person to whom section 14 applies (or of any period for which the provisional registration of such a person is renewed) must be such that, when it is added to the duration of any previous period or periods of provisional registration of the person, the total is no more than 8 years.
 (3) The duration of any period of provisional registration of a person to whom section 14 does not apply (or of any period for which the provisional registration of such a person is renewed)—
   (a) must be no more than 2 years; and
@@ -155,8 +238,8 @@ Promptly after receiving a valid application for registration from the Registrar
 
 ### 11 Temporary registration
 (1) A person registered temporarily—
-  (a) must always be registered subject to conditions relating to the institution or place where they intend to practise social work; and
-  (b) may also be registered subject to other conditions.
+  (a) must be registered with conditions in their individual scope of practice relating to the institution or place where they intend to practise as a social worker:
+  (b) may also be registered with other conditions in their individual scope of practice.
 (2) The duration of any period of temporary registration of a person (or of any period for which a person's temporary registration is renewed)—
   (a) must be no more than 6 months; and
   (b) must be such that, when it is added to the duration of any previous period or periods of limited registration of the person, the total is no more than 3 years.
@@ -164,18 +247,18 @@ Promptly after receiving a valid application for registration from the Registrar
 **Criteria**
 
 ### 12 Criteria for full registration
-The Board must decide that the applicant should be registered fully if he or she meets the criteria in section 6 or section 7.
+[Repealed]
 
 ### 13 Board may recognise practical experience in certain cases
 (1) The Board may decide that the applicant should be registered fully if—
   (a) he or she has neither a recognised New Zealand qualification nor an overseas qualification equivalent to a recognised New Zealand qualification; but
   (b) the Board is satisfied that—
-    (i) his or her practical experience in practising social work in New Zealand is enough to compensate for the lack of such a qualification; and
-    (ii) his or her competence to practise social work has been found satisfactory under Part 3; and
-    (iii) he or she is a fit and proper person to practise social work; and
-    (iv) that (whether as a result of his or her satisfactory completion of a course or courses of training, or because his or her practical experience in practising social work in New Zealand is enough to compensate for not having completed such a course) he or she—
-      (A) is competent to practise social work with Māori; and
-      (B) is competent to practise social work with different ethnic and cultural groups in New Zealand.
+    (i) his or her practical experience in practising as a social worker in New Zealand is enough to compensate for the lack of such a qualification; and
+    (ii) his or her competence to practise as a social worker has been found satisfactory under Part 3; and
+    (iii) he or she is a fit and proper person to practise as a social worker; and
+    (iv) that (whether as a result of his or her satisfactory completion of a course or courses of training, or because his or her practical experience in practising as a social worker in New Zealand is enough to compensate for not having completed such a course) he or she—
+      (A) is competent to practise as a social worker with Māori; and
+      (B) is competent to practise as a social worker with different ethnic and cultural groups in New Zealand.
 (2) Subsection (1) overrides section 12.
 
 ### 14 Criteria for provisional registration
@@ -188,44 +271,25 @@ The Board must decide that the applicant should be registered provisionally if s
 
 ### 15 Criteria for temporary registration
 The Board must decide that the applicant should be registered temporarily if satisfied that he or she—
-  (a) is a fit and proper person to practise social work; and
+  (a) is a fit and proper person to practise as a social worker; and
   (b) can speak and write English reasonably effectively, and understand spoken and written English reasonably well; and
-  (c) is or will be visiting New Zealand temporarily, and wishes to practise social work at a particular institution or place in New Zealand; and
-  (d) has enough knowledge and practical experience of social work to practise social work at the institution or place.
+  (c) is or will be visiting New Zealand temporarily, and wishes to practise as a social worker at a particular institution or place in New Zealand; and
+  (d) has enough knowledge and practical experience of social work to practise as a social worker at the institution or place.
 
 ### 16 Applications by certain people previously registered
 (1) If the Tribunal has under section 84(1)﻿(b) imposed conditions that a person must meet before being re-registered, the Board must not decide that the person should be registered unless satisfied that he or she has met the conditions.
 (2) Subsection (1) overrides sections 6, 7, and 12 to 15.
 
 ### 17 Board to give reasons
-(1) If the Board decides that the applicant should be registered subject to conditions, it must state—
-  (a) the conditions; and
-  (b) its reasons for imposing them.
-(2) If the Board decides that the applicant should be registered subject to conditions first being met, it must state—
-  (a) the conditions; and
-  (b) the time within which each of them must be met; and
-  (c) its reasons for imposing them.
-(3) If the Board decides that the applicant's registration should be provisional or temporary, it must state—
-  (a) its reasons; and
-  (b) the duration of the registration.
-(4) If the Board decides that the applicant should not be registered, it must state its reasons.
+[Repealed]
 
 **Registration generally**
 
 ### 18 Registrar to register successful applicants
-Promptly after the Board has decided that a person should be registered, the Registrar must register him or her (but, if section 17(2) applies, register them only when the conditions imposed have been met), and give him or her written notice stating that he or she has been registered, and—
-  (a) any conditions to which his or her registration is subject; and
-  (b) in the case of conditions that must be met before the applicant can be registered, the time within which each of them must be satisfied; and
-  (c) the Board's reasons for imposing the conditions; and
-  (d) if his or her registration is provisional or temporary,—
-    (i) the fact that it is provisional or temporary; and
-    (ii) its duration; and
-    (iii) the Board's reasons for directing provisional or temporary registration.
+[Repealed]
 
 ### 19 Registrar to notify unsuccessful applicants
-Promptly after the Board has decided that a person should not be registered, the Registrar must give him or her written notice stating—
-  (a) that the Board has decided that he or she should not be registered; and
-  (b) the Board's reasons for its decision.
+[Repealed]
 
 **Certificates of registration**
 
@@ -283,7 +347,7 @@ Promptly after the Board has decided that a person should not be registered, the
 **Practising certificates**
 
 ### 25 Practising registered social workers to hold practising certificates
-A person registered under this Act may practise as a social worker only if he or she holds a current practising certificate.
+[Repealed]
 
 ### 26 Applications for practising certificates
 (1) A social worker may apply to the Registrar for a practising certificate.
@@ -309,11 +373,7 @@ A person registered under this Act may practise as a social worker only if he or
 (2) Sections 30 and 139 override subsection (1).
 
 ### 29 Board may adopt general conditions
-(1) The Board may adopt conditions subject to which all practising certificates, or the practising certificates of all social workers of a particular description, must be issued.
-(2) Conditions may relate to—
-  (a) working under supervision; or
-  (b) professional development (see section 38A).
-(3) Subsection (2) does not limit the generality of subsection (1).
+[Repealed]
 
 ### 30 Restrictions on issue of practising certificates
 (1) The Registrar must refer an application for a practising certificate to the Board if he or she—
@@ -324,8 +384,9 @@ A person registered under this Act may practise as a social worker only if he or
     (iv) the applicant has previously held a practising certificate, but has not held a practising certificate within the 3 years immediately before the date of the application; or
   (b) suspects on reasonable grounds that the applicant—
     (i) has at any time failed to maintain a reasonable standard of professional competence; or
-    (ii) has not been practising social work at any time within the 3 years immediately before the date of the application; or
-    (iii) is not a fit and proper person to practise social work.
+    (ii) has not been practising as a social worker at any time within the 3 years immediately before the date of the application; or
+    (iii) is not a fit and proper person to practise as a social worker; or
+    (iv) has failed to fulfil or comply with a condition included in the applicant’s individual scope of practice.
 (2) The Registrar may refer an application for a practising certificate to the Board if the applicant was first registered within the 3 years immediately before the date of the application.
 (2A) The Registrar may refer any application for a practising certificate to the Board for it to decide whether the person is a fit and proper person to practise as a social worker, if the Registrar has reason to suspect that the applicant is not a fit and proper person to practise as a social worker.
 (3) The Registrar may refuse to issue a practising certificate if satisfied that any information included in the application for it is false or misleading.
@@ -339,12 +400,12 @@ A person registered under this Act may practise as a social worker only if he or
 
 ### 32 Procedure for consideration
 (1) Subsections (2) and (3) apply if the Board decides that it should consider whether to direct the Registrar to—
-  (a) issue a practising certificate subject to conditions; or
+  (a) issue a practising certificate with conditions in the applicant’s individual scope of practice; or
   (b) refuse to issue a practising certificate.
 (2) The Board must give the applicant concerned a reasonable opportunity to make written submissions and to be heard on the matter, either personally or by a representative.
 (3) The Registrar must give the applicant—
   (a) written notice that—
-    (i) the Board is considering whether to direct the Registrar to issue a practising certificate subject to conditions, or to direct the Registrar to refuse to issue a practising certificate; and
+    (i) the Board is considering whether to direct the Registrar to issue a practising certificate with conditions in the applicant’s individual scope of practice, or to direct the Registrar to refuse to issue a practising certificate; and
     (ii) the applicant has a reasonable opportunity to make written submissions and to be heard on the matter, either personally or by a representative; and
   (b) a copy of any written information and a written summary of any other information on which the Board is relying.
 (4) The notice must also state the substance of the grounds on which the Board is considering whether to act.
@@ -353,19 +414,18 @@ A person registered under this Act may practise as a social worker only if he or
 
 ### 33 Decisions of Board as to practising certificates
 (1) Where the Registrar has referred an application for a practising certificate to the Board,—
-  (a) the Board must direct the Registrar to issue a practising certificate to the applicant without conditions, if it is satisfied that the applicant is competent to practise as a social worker and is fit to practise as a social worker in accordance with his or her registration without conditions:
-  (b) the Board must direct the Registrar to issue a practising certificate to the applicant subject to conditions, if it is satisfied that the applicant is both competent and fit to practise as a social worker in accordance with his or her registration only subject to those conditions:
+  (a) the Board must direct the Registrar to issue a practising certificate to the applicant without conditions in their individual scope of practice (authorised under section 8A) if it is satisfied that they are competent and fit to practise as a social worker in accordance with their individual scope of practice:
+  (b) the Board must direct the Registrar to issue a practising certificate to the applicant with conditions in their individual scope of practice (authorised under section 8A) if it is satisfied that they are competent and fit to practise as a social worker in accordance with their individual scope of practice only if those conditions are included in it:
   (c) in any other case,—
     (i) the Board must direct the Registrar to—
-      (A) refuse to issue a practising certificate to the applicant until they have met conditions the Board requires them to meet before a practising certificate is issued; and
+      (A) refuse to issue a practising certificate to the applicant until they have met conditions the Board requires them to meet prior to a practising certificate being issued; and
       (B) issue a practising certificate to the applicant under paragraph (a) or (b) once those conditions have been met; or
     (ii) the Board must direct the Registrar to refuse to issue a practising certificate to the applicant.
-(2) If the Board gives a direction under subsection (1)﻿(c),—
-  (a) the direction must state the Board's reasons; and
+(2) A direction by the Board under subsection (1)﻿(b) may include the imposition of a new condition, or the cancellation or variation of an existing condition.
+(3) If the Board gives a direction under subsection (1)﻿(b) or (c),—
+  (a) the direction must state the Board’s reasons for it; and
   (b) the Registrar must give the applicant notice of the direction and reasons.
-(3) If the Board gives a direction under subsection (1)﻿(c)﻿(i),—
-  (a) it may also direct the Registrar to issue an interim practising certificate to the applicant; and
-  (b) if the conditions stated by the Board are later met, the Registrar may issue a practising certificate to the applicant and cancel the interim practising certificate.
+(4) If the Board gives a direction under subsection (1)﻿(c)﻿(i)﻿(A), it may also direct the Registrar to issue an interim practising certificate to the applicant (under section 37).
 
 ### 34 Currency of practising certificates
 (1) A practising certificate is in force for a period decided by the Board (generally or in any particular case).
@@ -375,32 +435,26 @@ A person registered under this Act may practise as a social worker only if he or
 (3) If a social worker’s registration is cancelled, their practising certificate is also cancelled and if a social worker’s registration is suspended, their practising certificate is also suspended.
 
 ### 35 Conditions on practising certificates
-(1) If a practising certificate relates to a person whose registration is subject to conditions, the Registrar—
-  (a) must endorse the conditions on it; or
-  (b) must—
-    (i) note on it that the person's registration is subject to the conditions stated in the notice attached to it; and
-    (ii) attach to it a notice stating all the conditions.
-(2) If a practising certificate is subject to conditions, the Registrar—
-  (a) must endorse the conditions on it; or
-  (b) must—
-    (i) note on it that it is subject to the conditions stated in the notice attached to it; and
-    (ii) attach to it a notice stating all the conditions.
-(3) If changes are made to the conditions on the registration or practising certificate of a social worker by the Board or Tribunal, the Registrar must ensure that the changes are endorsed or noted on the social worker’s practising certificate or interim practising certificate.
+[Repealed]
+
+### 35A Scope of practice must be endorsed on practising certificates
+(1) The Registrar must endorse on every practising certificate or interim practising certificate issued to a social worker a description of the social worker’s individual scope of practice (including any conditions to which it is subject).
+(2) If changes are made by the Board or Tribunal to the social work services a social worker is permitted to perform or not perform or to conditions in their individual scope of practice, the Registrar must ensure that the changes are endorsed on the social worker’s practising certificate or interim practising certificate.
 
 ### 36 Surrender of practising certificates
 (1) This subsection applies to a practising certificate if—
   (a) it is cancelled or suspended; or
-  (b) it is required for endorsement or noting of changes to conditions under section 35(3); or
+  (b) it is required for endorsement of changes to social work services or conditions under section 35A(2); or
   (c) its holder's registration is—
     (i) cancelled under any of sections 24, 83(1)﻿(a)﻿(i), 127, 128, 129, 131, 132, and 133(6)﻿(b)﻿(ii); or
     (ii) suspended under any of sections 45(1)﻿(b)﻿(ii), 49(2)﻿(b), 57(2)﻿(b)﻿(ii), 57A, 77(1)﻿(a), 83(1)﻿(a)﻿(i), and 133(6)﻿(b)﻿(i).
-(2) If subsection (1) applies to the holder of a practising certificate that was issued in hard copy, he or she (or, in the case of a holder who has died, his or her personal representative) must deliver it to the Registrar within 14 days of receiving from the Registrar notice of the cancellation, suspension, or requirement for endorsement or noting of changes to conditions (unless any of the things referred to in that subsection have been lifted or revoked).
-(3) If subsection (1) applies to the holder of a practising certificate that was issued electronically, they (or, in the case of a holder who has died, their personal representative) must, within 7 days of receiving notice of the cancellation, suspension, or requirement for endorsement or noting of changes to conditions, acknowledge receipt of that notice to the Registrar.
+(2) If subsection (1) applies to the holder of a practising certificate that was issued in hard copy, he or she (or, in the case of a holder who has died, his or her personal representative) must deliver it to the Registrar within 14 days of receiving from the Registrar notice of the cancellation, suspension, or requirement for endorsement of changes to social work services or conditions (unless any of the things referred to in that subsection have been lifted or revoked).
+(3) If subsection (1) applies to the holder of a practising certificate that was issued electronically, they (or, in the case of a holder who has died, their personal representative) must, within 7 days of receiving notice of the cancellation, suspension, or requirement for endorsement of changes to social work services or conditions, acknowledge receipt of that notice to the Registrar.
 
 ### 37 Interim practising certificates
 (1) An interim practising certificate—
-  (a) may only be issued pursuant to a direction under section 33(3)﻿(a); and
-  (b) may be issued subject to any conditions the Board thinks fit.
+  (a) may only be issued pursuant to a direction under section 33(4); and
+  (b) may be issued with conditions in the person’s individual scope of practice as the Board thinks fit.
 (1A) An interim practising certificate may be issued either in hard copy or electronically.
 (2) An interim practising certificate is cancelled by the issue to its holder of a practising certificate that is not an interim practising certificate.
 (3) The Board may, at any time and for any reason, direct the Registrar to give the holder of an interim practising certificate notice of—
@@ -412,15 +466,15 @@ A person registered under this Act may practise as a social worker only if he or
 
 **Competence**
 
-### 38 Competence to practise social work
+### 38 Competence to practise as a social worker
 (1) At any time, the Board must find a person's competence to practise as a social worker is satisfactory for the purposes of this Act if—
   (a) they have completed a competence assessment required by the Board for the purpose of determining whether their competence to practise as a social worker is satisfactory for the purposes of this Act; and
   (b) in the Board's opinion, reached in the light of the outcome of the assessment, he or she—
-    (i) has the skill and knowledge required to practise social work in accordance with his or her registration (or proposed registration); and
+    (i) has the skill and knowledge required to practise as a social worker in accordance with his or her registration (or proposed registration); and
     (ii) meets the professional standards reasonably to be expected of a social worker.
 (2) The Board may direct the Registrar to arrange for the applicants for registration to complete competence assessments for the purposes of subsection (1)﻿(a).
 (2A) In the case of an applicant to whom section 6 applies, the Board can give a direction under subsection (2) only if section 6(2) applies.
-(3) Subsection (1) does not prevent the Board, when reviewing under section 39 a person's competence to practise social work, from concluding, without the person's having completed a competence assessment, that it has no reason to believe that his or her competence may be unsatisfactory.
+(3) Subsection (1) does not prevent the Board, when reviewing under section 39 a person's competence to practise as a social worker, from concluding, without the person's having completed a competence assessment, that it has no reason to believe that his or her competence may be unsatisfactory.
 
 ### 38A Professional development for practising social workers
 (1) For the purpose of maintaining, examining, or improving the competence of all practising social workers, the Board must, from time to time, recognise ways of undertaking professional development, including any of the following ways:
@@ -433,9 +487,10 @@ A person registered under this Act may practise as a social worker only if he or
 (2) The Board may require a specified social worker, a specified class of social workers, or all social workers to undertake a particular form of professional development, for example, a particular course of instruction.
 (3) The Board may exempt any social worker or class of social workers from any professional development requirement under subsection (2).
 (4) When recognising ways of undertaking professional development or requiring that a particular form of professional development be undertaken, the Board must be guided by the principle that professional development should not impose undue costs on practising social workers or their employers.
+(5) In this section, appropriate standard of competence, in relation to a social worker, means the standard of competence to be expected of a social worker practising under their individual scope of practice.
 
 ### 38B Mandatory requirement for employers to report to Board if social worker believed not to be competent
-(1) An employer who employs 1 or more social workers must, as soon as practicable after becoming aware that a social worker may not be competent to practise as a social worker, investigate whether the social worker is competent to do so.
+(1) An employer who employs 1 or more social workers must, as soon as practicable after becoming aware that a social worker may not be competent to practise as a social worker within the relevant scope of practice, investigate whether the social worker is competent to do so.
 (2) If, after that investigation, the employer believes that the social worker needs assistance to improve their competency, the employer must, as soon as practicable, take reasonable steps to provide that assistance, including by way of professional development.
 (3) An employer who, after fulfilling their duties under subsections (1) and (2), believes on reasonable grounds that a social worker is not competent to practise must promptly report that belief to the Board.
 (4) If a social worker resigns, or is dismissed from their employment, for reasons relating to competence (whether or not any action has been taken under subsections (1) and (2)), the employer who employed that social worker immediately before that resignation or dismissal must promptly report to the Board, giving reasons for that resignation or dismissal.
@@ -445,15 +500,15 @@ A person registered under this Act may practise as a social worker only if he or
   (c) describe the action the employer has taken to assist the social worker and the outcome of the assistance.
 (6) No civil, criminal, or disciplinary proceedings may be taken against a person who makes a report under this section, unless that person has acted in bad faith.
 
-### 39 Reviews of competence to practise social work
-(1) The Board may at any time review a social worker’s competence to practise social work, including if the Board receives information that reflects adversely on the social worker’s competence, for example, a report under section 38B.
-(2) Promptly after being notified of a determination under section 71(1)﻿(a) that the Board should review a social worker’s competence to practise social work, the Board must review his or her competence to practise social work.
+### 39 Reviews of competence to practise as a social worker
+(1) The Board may at any time review a social worker’s competence to practise as a social worker, including if the Board receives information that reflects adversely on the social worker’s competence, for example, a report under section 38B.
+(2) Promptly after being notified of a determination under section 71(1)﻿(a) that the Board should review a social worker’s competence to practise as a social worker, the Board must review his or her competence to practise as a social worker.
 
 ### 40 Form of review
-(1) When reviewing a social worker’s competence to practise social work, the Board must—
+(1) When reviewing a social worker’s competence to practise as a social worker, the Board must—
   (a) give the social worker written notice—
-    (i) stating why his or her competence to practise social work is being reviewed; and
-    (ii) describing any information relating to his or her competence to practise social work it has in its possession; and
+    (i) stating why his or her competence to practise as a social worker is being reviewed; and
+    (ii) describing any information relating to his or her competence to practise as a social worker it has in its possession; and
     (iii) stating that he or she has a reasonable opportunity to make written submissions and to be heard on the review, either personally or by a representative; and
   (b) give him or her a reasonable opportunity to make written submissions and to be heard on the review, either personally or by a representative.
 (2) A statement under subsection (1)﻿(a)﻿(i) must contain enough detail to inform the social worker clearly of the particular grounds for the review.
@@ -462,29 +517,26 @@ A person registered under this Act may practise as a social worker only if he or
 (5) Except as provided in subsections (1) to (4) and clause 33(1) of Schedule 1, the review may be conducted as the Board thinks fit.
 
 ### 41 Actions after review of competence
-(1) If, after reviewing a social worker's competence to practise social work, the Board is satisfied that he or she should complete a competence assessment, it may direct the Registrar to arrange for the social worker to complete a competence assessment.
-(2) The Board may also direct the Registrar to place conditions on his or her registration, practising certificate, or both.
+(1) If, after reviewing a social worker's competence to practise as a social worker, the Board is satisfied that he or she should complete a competence assessment, it may direct the Registrar to arrange for the social worker to complete a competence assessment.
+(2) The Board may also direct the Registrar to place conditions in the social worker’s individual scope of practice or cancel or vary an existing condition.
 (3) The Board may give a direction under subsection (2)—
   (a) when directing the Registrar to arrange for the social worker to complete a competence assessment; or
   (b) at any later time before the social worker has completed a competence assessment.
 (4) Within 5 working days after the Board gives a direction under this section, the Registrar must ensure that the social worker concerned is given a copy.
-(5) A direction under this section takes effect on the day on which the social worker receives the copy, or on any later date stated in it.
+(5) A direction under this section takes effect on the day on which the social worker is given a copy (see section 145), or on any later date stated in it.
 
 **Competence assessments**
 
 ### 42 Competence assessments
 (1) The Board may from time to time set programmes for the purpose of helping it decide whether people—
-  (a) have the skill and knowledge required to practise social work in accordance with their registration (or proposed registration); and
+  (a) have the skill and knowledge required to practise as a social worker in accordance with their individual scope of practice (or proposed individual scope of practice); and
   (b) meet the professional standards reasonably to be expected of a social worker.
 (2) A competence assessment may comprise 1 or a combination of 2 or more of the following:
   (a) components entirely set by the Board; or
   (b) components set by some other person or body, and recognised by the Board without modification; or
   (c) components set by some other person or body, and recognised by the Board in a modified form.
 (3) At least 1 competence assessment must apply to all social work.
-(4) Any other competence assessment—
-  (a) may apply to all social work; or
-  (b) may apply only to social work of a stated description; or
-  (c) may apply to all social work other than social work of a stated description.
+(4) Any other competence assessment may apply to 1 or more social work services under 1 or more scopes of practice.
 (5) Within 20 working days after the Board sets a competence assessment, the Registrar must publish in daily newspapers circulating in Auckland, Wellington, Christchurch, and Dunedin notice of—
   (a) its setting and application; and
   (b) details of where copies may be obtained.
@@ -501,7 +553,9 @@ The Board must take all practicable steps to ensure that copies of all competenc
 (1) If a social worker fails a competence assessment, or fails or refuses to complete a competence assessment,—
   (a) the Registrar must notify the Board; and
   (b) the Board may direct the Registrar to—
-    (i) make the social worker's registration or practising certificate, or both, subject to conditions stated by the Board; or
+    (i) make either or both of the following changes to the social worker’s individual scope of practice as the Board thinks fit:
+      (A) change the social work service or services that the social worker is permitted to perform or not permitted to perform:
+      (B) include a new condition or cancel or vary an existing condition; or
     (ii) suspend the social worker's registration (if it is not already suspended) or practising certificate.
 (2) If the Board proposes to give a direction under subsection (1)﻿(b), it must give to the social worker concerned—
   (a) a copy of the proposed direction; and
@@ -536,7 +590,7 @@ The Board must take all practicable steps to ensure that copies of all competenc
 
 **Fitness to practise and serious misconduct**
 
-### 47 Fitness to practise social work
+### 47 Fitness to practise as a social worker
 (1) The Board may find a person (A) is not a fit and proper person to practise as a social worker only if it is satisfied that there are grounds on which a reasonable person would reach that conclusion.
 (2) The Board may be satisfied that those grounds exist if 1 or more of the following circumstances occur:
   (a) A has not satisfied the Board that A is able to communicate effectively for the purposes of practising as a social worker:
@@ -548,12 +602,12 @@ The Board must take all practicable steps to ensure that copies of all competenc
   (g) A is subject to an investigation in New Zealand or overseas (for example, an investigation by the Health and Disability Commissioner) relating to any matter that may lead to the taking of professional disciplinary proceedings against A, and the Board considers on reasonable grounds that the investigation reflects adversely upon A’s fitness to practise as a social worker:
   (h) a finding or an order has been made against A in professional disciplinary proceedings or an investigation, and A has not satisfied the Board that the finding or order does not reflect adversely upon A’s fitness to practise as a social worker:
   (i) the Board is satisfied on reasonable grounds that A may endanger the health or safety of a member or members of the public.
-(3) In the case only of an applicant for registration, the Board may reserve its decision on whether he or she is a fit and proper person to practise social work if it is satisfied—
+(3) In the case only of an applicant for registration, the Board may reserve its decision on whether he or she is a fit and proper person to practise as a social worker if it is satisfied—
   (a) that—
     (i) professional disciplinary proceedings are being taken against him or her (whether in New Zealand or overseas); or
     (ii) a licensing or registration organisation (whether in New Zealand or overseas) is making investigations that may lead to the taking of professional disciplinary proceedings against him or her; or
     (iii) the Health and Disability Commissioner is making investigations that may lead to the taking of professional disciplinary proceedings against him or her; and
-  (b) that the circumstances suggest a reasonable possibility that he or she is not a fit and proper person to practise social work.
+  (b) that the circumstances suggest a reasonable possibility that he or she is not a fit and proper person to practise as a social worker.
 
 ### 47A Mandatory requirement for employers to report serious misconduct allegations to Board
 (1) An employer who employs 1 or more social workers and who believes on reasonable grounds that a social worker has engaged in serious misconduct must promptly report that belief to the Board.
@@ -570,16 +624,16 @@ The Board must take all practicable steps to ensure that copies of all competenc
   (b) that is of a character and severity that meets the Board’s criteria for reporting serious misconduct (set under section 99(1)﻿(oa)).
 (4) No civil, criminal, or disciplinary proceedings may be taken against a person who makes a report under this section, unless that person has acted in bad faith.
 
-### 48 Consideration of fitness to practise social work
-The Board must consider whether a person is a fit and proper person to practise social work—
+### 48 Consideration of fitness to practise as a social worker
+The Board must consider whether a person is a fit and proper person to practise as a social worker—
   (a) promptly after receiving from the Registrar a valid application for registration made by the person; or
   (aa) promptly after receiving an application by the person for a practising certificate that has been referred by the Registrar under section 30(1)﻿(b)﻿(iii) or (2A); or
   (b) promptly after receiving a report under section 47A or being notified of a determination under section 71(1)﻿(a) that the Board should review his or her fitness.
 
 ### 49 Action if Board considers social worker not fit and proper
 (1) This section applies to a social worker if, after receiving a report under section 47A or being notified of a determination under section 71(1)﻿(a) that the Board should review his or her fitness, the Board—
-  (a) has considered whether he or she is a fit and proper person to practise social work; and
-  (b) determines that he or she may not be a fit and proper person to practise social work.
+  (a) has considered whether he or she is a fit and proper person to practise as a social worker; and
+  (b) determines that he or she may not be a fit and proper person to practise as a social worker.
 (2) If this section applies to a social worker, the Board may—
   (a) make a complaint against the social worker under section 59; or
   (b) direct the Registrar to suspend the social worker's registration or practising certificate.
@@ -591,7 +645,7 @@ The Board must consider whether a person is a fit and proper person to practise 
 (4) The statement under subsection (3)﻿(a)﻿(i) must contain enough detail to inform the person clearly of the particular grounds for the proposal to give the direction.
 (5) The Board must not direct the Registrar to suspend the social worker's registration or practising certificate unless—
   (a) it has given the social worker a reasonable opportunity to make written submissions and to be heard on the matter, either personally or by a representative; and
-  (b) it is satisfied that the social worker is not a fit and proper person to practise social work.
+  (b) it is satisfied that the social worker is not a fit and proper person to practise as a social worker.
 (6) The Registrar must take all reasonably practicable steps to ensure that a copy of the direction is given to the social worker as soon as is possible after it is given.
 (7) The suspension does not take effect until the social worker is given a copy of the direction (see section 145).
 (8) A person exercising his or her right to be heard personally is entitled to be accompanied by 1 person of his or her choice who agrees to attend.
@@ -599,15 +653,15 @@ The Board must consider whether a person is a fit and proper person to practise 
 (10) Nothing in this section prevents the Board from, at any time, exercising its power under section 57A to give interim directions relating to a social worker’s registration or practising certificate.
 
 ### 50 Board to ask for Police vet, and consider convictions and other information
-(1) In order to help determine whether a person is a fit and proper person to practise social work for the purposes of this Act, the Board—
+(1) In order to help determine whether a person is a fit and proper person to practise as a social worker for the purposes of this Act, the Board—
   (a) must obtain a Police vet from the Police Vetting Service; and
   (aa) may require the person to comply with Police requirements for that purpose; and
   (b) must consider any criminal convictions (whether in New Zealand or overseas) and other information disclosed to the Board by the Police or otherwise known to the Board.
 (2) However, if an application for a practising certificate is referred to the Board under section 30(1)﻿(b)﻿(iii) or (2A), the Board may not request a Police vet if a Police vet of the applicant under this section has been done within the preceding 3 years, unless other concerns about the person’s fitness to practise have been raised with the Board since that Police vet was done.
 
-**Conditions affecting ability to practise social work**
+**Conditions affecting ability to practise as a social worker**
 
-### 51 Reporting of conditions affecting ability to practise social work
+### 51 Reporting of conditions affecting ability to practise as a social worker
 (1) A person who believes that a social worker may be unable to satisfactorily perform the functions required to practise as a social worker may report that belief to the Board.
 (1A) A social worker who believes on reasonable grounds that another social worker is unable to satisfactorily perform the functions required to practise as a social worker because of a mental or physical condition must promptly report that belief to the Board.
 (1B) A failure to report under subsection (1A) may constitute professional misconduct and be the subject of a complaint to the Board under section 59.
@@ -655,7 +709,7 @@ When the Registrar receives a report under section 51,—
   (a) put it before the Board; and
   (b) send a copy to the social worker.
 
-### 57 Conditions may be imposed because of condition
+### 57 Individual scope of practice may be changed or registration or practising certificate may be suspended because of mental or physical condition
 (1) Subsection (2) applies if a social worker has been given a notice under section 55, and—
   (a) either—
     (i) the social worker submitted himself or herself for examination as required by the notice, and the Registrar has received a written report on the social worker's mental and physical condition from the medical practitioner named in it; or
@@ -666,13 +720,16 @@ When the Registrar receives a report under section 51,—
 (2) If this subsection applies, the Board—
   (a) must consider all the relevant circumstances of the case (including any report received from the medical practitioner named in the notice, whether or not the social worker attended for examination within the time required by the notice); and
   (b) may give the Registrar a direction to—
-    (i) make the social worker's registration or practising certificate, or both, subject to conditions stated by the Board; or
+    (i) make either or both of the following changes to the social worker’s individual scope of practice as the Board thinks fit:
+      (A) change the social work service or services that the social worker is permitted to perform or not permitted to perform:
+      (B) include a new condition or cancel or vary an existing condition; or
     (ii) suspend the social worker's registration or practising certificate for a period that the Board considers is reasonably necessary to protect the public.
 (3) The Board must not give a direction unless—
   (a) it is satisfied that—
     (i) the social worker is unable to satisfactorily perform the functions required to practise as a social worker; and
     (ii) it is necessary to do so, having regard to the need to protect the health and safety of members of the public; or
   (b) it has been unable to decide whether the social worker is able to practise satisfactorily as a social worker, because he or she did not submit himself or herself for examination as required by the notice concerned.
+(3A) The Board must not give a direction under subsection (2)﻿(b)﻿(i) unless it is satisfied that, in addition to the matters in subsection (3), the social worker will be able to satisfactorily perform the functions required to practise as a social worker if they do so in accordance with the proposed change to their scope of practice.
 (4) The direction must—
   (a) be in writing; and
   (b) state the reasons for which it has been given; and
@@ -684,15 +741,18 @@ When the Registrar receives a report under section 51,—
 (7) A person exercising his or her right to be heard personally is entitled to be accompanied by 1 person of his or her choice who agrees to attend.
 (8) The Board may permit a person exercising his or her right to be heard personally to be accompanied by any number of people of his or her choice who agree to attend, in addition to the person by whom he or she is entitled to be accompanied by subsection (7).
 
-**Interim suspension of registration or practising certificate or both or imposition of conditions on registration or practising certificate or both while Board considers competence, fitness, or serious misconduct issue**
+**Interim suspension of registration or practising certificate or both or change to individual scope of practice while Board considers competence, fitness, or serious misconduct issue**
 
-### 57A Interim suspension of registration or practising certificate or both or imposition of conditions on registration or practising certificate or both
+### 57A Interim suspension of registration or practising certificate or both or change to individual scope of practice
 (1) This section applies whenever and however an issue of competence, fitness, or serious misconduct comes to the attention of the Board unless, in the particular case, a medical examination is ordered under section 55.
 (2) The Board may direct the Registrar to suspend the registration or practising certificate or both of a social worker if the Board considers on reasonable grounds that,—
   (a) because of competence issues, the social worker’s practice poses a risk of serious harm to the public; or
   (b) the social worker may be unable to satisfactorily perform the functions required to practise as a social worker because of a mental or physical condition; or
   (c) an investigation under this Act or the Health and Disability Commissioner Act 1994, or a criminal proceeding, relating to the social worker is underway and a reasonable doubt is raised about that person’s competence or whether the person is a fit and proper person to practise as a social worker.
-(3) The Board may, if the requirements of subsection (2) are met, instead of directing the suspension of a social worker’s registration or practising certificate or both, direct the Registrar to make the social worker’s registration or practising certificate or both subject to conditions stated by the Board.
+(3) The Board may, if the requirements of subsection (2) are met, instead of directing the suspension of a social worker’s registration or practising certificate or both, direct the Registrar to make changes to the social worker’s individual scope of practice under subsection (3A).
+(3A) The Board may, as it thinks fit, direct that either or both of the following changes be made to a social worker’s individual scope of practice:
+  (a) change the social work service or services that the social worker is permitted to perform or not permitted to perform:
+  (b) include a new condition or cancel or vary an existing condition.
 (4) A direction under this section may be made—
   (a) for a period of not more than 10 working days from the date on which a copy of the direction is given to the social worker; and
   (b) for a further period of 10 days, if that is reasonable and necessary to allow either further investigation or a medical examination to take place.
@@ -708,11 +768,11 @@ When the Registrar receives a report under section 51,—
 (2) The Registrar must take all reasonably practicable steps to ensure that notice under this section is given to the social worker as soon as practicable after the direction is made.
 (3) The direction does not take effect until the social worker is given notice under this section (see section 145).
 
-### 58 Revocation of suspension or conditions
+### 58 Revocation of suspension or change to individual scope of practice
 (1) The Board may give the Registrar a direction to revoke a suspension imposed under section 57 or 57A if it is satisfied that the social worker concerned—
   (a) was in fact able to practise satisfactorily as a social worker; or
   (b) is again able to practise satisfactorily as a social worker.
-(2) The Board may give the Registrar a direction to revoke any conditions imposed under section 57 or 57A if it is satisfied that they are no longer necessary.
+(2) The Board may give the Registrar a direction to revoke any change made to the individual scope of practice of the social worker under section 57 or 57A if it is satisfied that the change is no longer necessary.
 (3) The Registrar must take all reasonably practicable steps to ensure that a copy of the direction is given to the social worker within 5 working days after the day on which it is given.
 (4) The direction takes effect immediately.
 
@@ -798,7 +858,9 @@ The Health and Disability Commissioner may notify the Board in writing of a comp
   (b) consider the report.
 (7) After considering a report, the Board may—
   (a) decide to take no further action in respect of the notice of conviction; or
-  (b) impose a new condition on or cancel or vary an existing condition of the person’s registration or practising certificate; or
+  (b) make either or both of the following changes to the social worker’s individual scope of practice if the Board is satisfied that the social worker is able to practise as a social worker (within the relevant scope of practice) only if the changes are made:
+    (i) change the social work service or services that the social worker is permitted to perform or not permitted to perform:
+    (ii) include a new condition or cancel or vary an existing condition; or
   (c) refer the notice of conviction to a professional conduct committee.
 (8) If the Board receives more than 1 notice of conviction relating to the same social worker (whether at the same time or at different times), the Board may refer both or all of the notices of conviction to the same professional conduct committee.
 
@@ -862,7 +924,8 @@ As soon as is practicable after a complaint about, or a notice of conviction of,
 
 ### 71 Determination of complaint or notice of conviction by professional conduct committee
 (1) As soon as is reasonably practicable after a complaint or notice of conviction is referred to a professional conduct committee, it must determine whether—
-  (a) the Board should review the competence or fitness of the social worker concerned to practise social work (or both); or
+  (a) the Board should review the competence or fitness of the social worker concerned to practise as a social worker (or both); or
+  (ab) the Board should review the social worker’s individual scope of practice; or
   (b) in the case of a complaint, the committee should—
     (i) submit it to conciliation or mediation; or
     (ii) recommend that the Board direct the social worker to apologise to the complainant; or
@@ -947,7 +1010,7 @@ As soon as is practicable after a complaint about, or a notice of conviction of,
 ### 74 Committee may recommend suspension of registration or practising certificate or imposition of conditions
 A professional conduct committee that lays a charge before the Tribunal may recommend to the Tribunal that, pending the determination of the charge,—
   (a) the registration or practising certificate of the social worker concerned be suspended under section 77; or
-  (b) conditions be imposed on the practice of social work by that social worker under section 77.
+  (b) conditions be imposed on the social worker’s individual scope of practice under section 77.
 
 **Procedure and decisions of Tribunal**
 
@@ -1067,11 +1130,13 @@ A professional conduct committee that lays a charge before the Tribunal may reco
   (a) has been guilty of professional misconduct; or
   (b) has been guilty of conduct that—
     (i) is unbecoming of a social worker; and
-    (ii) reflects adversely on the social worker's fitness to practise as a social worker; or
+    (ii) reflects adversely on the social worker's fitness to practise as a social worker under the social worker’s individual scope of practice; or
   (c) has been convicted by a court (in New Zealand or elsewhere) of an offence that—
     (i) is punishable by imprisonment for a term of 3 months or longer; and
-    (ii) was committed in circumstances that reflect adversely on the social worker's fitness to practise as a social worker; or
-  (d) has failed to comply with conditions on his or her registration, or conditions stated under section 77(1)﻿(b).
+    (ii) was committed in circumstances that reflect adversely on the social worker's fitness to practise as a social worker under the social worker’s individual scope of practice; or
+  (d) has failed to comply with conditions in their individual scope of practice stated under section 77(1)﻿(b); or
+  (e) has performed a social work service that is included in a scope of practice of the social work profession but is not included in that social worker’s individual scope of practice; or
+  (f) has failed to act in accordance with any condition included in their individual scope of practice.
 (2) A social worker is guilty of professional misconduct if he or she—
   (a) breaches the code of conduct; or
   (b) while practising as a social worker, claims or holds himself or herself out to be registered while not holding a current practising certificate; or
@@ -1086,7 +1151,7 @@ A professional conduct committee that lays a charge before the Tribunal may reco
 (1) If satisfied of any matter referred to in section 82(1), the Tribunal may make any or all of the following orders:
   (a) an order that—
     (i) the registration of the social worker concerned be cancelled, or their registration or practising certificate be suspended for a period of not more than 3 years; or
-    (ii) for a period of not more than 3 years, he or she may practise as a social worker only in accordance with stated conditions (as to employment, supervision, or otherwise):
+    (ii) for a period of not more than 3 years, he or she may practise as a social worker only in accordance with stated conditions in their individual scope of practice (as to employment, supervision, or otherwise):
   (b) an order that he or she is censured:
   (c) an order that he or she pay a fine of not more than $10,000 to the Board:
   (ca) an order that they apologise to the complainant:
@@ -1096,11 +1161,12 @@ A professional conduct committee that lays a charge before the Tribunal may reco
     (ii) any inquiry made by a professional conduct committee in relation to the subject matter of any charge concerned:
     (iii) the prosecution of any charge concerned by the Director of Proceedings or professional conduct committee:
     (iv) the hearing concerned.
-(2) The Tribunal must not make an order cancelling a social worker’s registration unless it has first considered suspension or the imposition of conditions on the person’s registration or practising certificate.
+(2) The Tribunal must not make an order cancelling a social worker’s registration unless it has first considered suspension of the person’s registration or practising certificate or the imposition of conditions in their individual scope of practice.
 (3) In dealing with a matter that constitutes an offence for which the social worker has been convicted by a court, the Tribunal must not impose a fine.
 (4) The Tribunal must have regard to the amount of any award of damages against the social worker under section 57 of the Health and Disability Commissioner Act 1994 in respect of the conduct concerned, when determining—
   (a) whether to make an order that he or she pay a fine; or
   (b) the amount of any fine.
+(5) In this section, stated conditions or imposition of conditions includes stating or imposing a new condition or varying or cancelling an existing condition.
 
 ### 84 Orders as to restoration of registration
 (1) When making an order that the registration of a social worker be cancelled, the Tribunal may do either or both of the following things:
@@ -1218,7 +1284,7 @@ On any appeal under this Part, the District Court may order the person or body w
   (a) to receive and consider applications for registration:
   (b) to authorise the registration of social workers:
   (c) to maintain the Register:
-  (d) if it thinks fit, to adopt conditions subject to which all practising certificates, or the practising certificates of all social workers of a particular description, must be issued:
+  (d) if it thinks fit, to adopt conditions subject to which the individual scopes of practice of all social workers, or of all social workers of a particular description, must be issued:
   (e) to consider applications for practising certificates referred to it by the Registrar:
   (f) to recognise or prescribe New Zealand educational qualifications for the purposes of this Act:
   (g) to review the competence of social workers:
@@ -1395,17 +1461,10 @@ The Registrar must keep the Register in 3 separate parts—
   (h) any other matters the Board thinks appropriate.
 (2) The home or work address must be the physical address of the premises concerned.
 (3) The following information must also be entered in the Register in respect of a person who is registered:
-  (a) any current conditions subject to which the person is registered:
-  (b) any current conditions subject to which the person is registered:
-  (c) if the person's registration is suspended,—
-    (i) the fact that it is suspended; and
-    (ii) any current conditions relating to its suspension:
-  (d) any current conditions imposed under section 77(1)﻿(b) or section 83(1)﻿(a)﻿(ii) on the person's ability to practise as a social worker:
-  (e) particulars of all practising certificates issued to the person:
-  (f) any conditions to which the person's current practising certificate is subject:
-  (g) if the person's current practising certificate is suspended,—
-    (i) the fact that it is suspended; and
-    (ii) any current conditions relating to its suspension.
+  (a) the scope of practice of the social work profession for which the person is registered and the social work services the person is permitted to perform or not permitted to perform under that scope of practice:
+  (b) any condition (including any applicable general condition) to which the person’s individual scope of practice is subject (including any ordered by the Tribunal):
+  (c) particulars of any practising certificate issued to the person:
+  (d) if a person’s registration or practising certificate is suspended (including if ordered by the Tribunal), the fact that it is suspended and any conditions relating to that suspension.
 (4) The Registrar must, if satisfied that any of the following information has changed or is incorrect, make all amendments to the Register necessary to reflect—
   (a) any changes or errors in the information referred to in subsection (1)﻿(d) or subsection (3):
   (b) any changes or errors notified to the Registrar in any other information referred to in subsection (1).
@@ -1440,7 +1499,7 @@ On payment of the fee (if any) set by the Board, the Registrar must give a perso
 
 ### 129 Revision of Register
 (1) The Registrar may at any time, and must if the Board directs, ask whether a social worker—
-  (a) has stopped practising social work; or
+  (a) has stopped practising as a social worker; or
   (b) is living, or intends to continue to live, overseas; or
   (c) for any reason wishes to have the entry in the Register relating to him or her cancelled.
 (2) The Registrar must ask—
@@ -1477,7 +1536,7 @@ On payment of the fee (if any) set by the Board, the Registrar must give a perso
 (7) The Board must direct the Registrar to restore the entry in the Register relating to a social worker whose entry has been cancelled under this section if—
   (a) the social worker applies to the Board in writing to have the entry restored; and
   (b) the Board is satisfied that he or she intends to reside in New Zealand.
-(8) The direction to restore the entry may be made subject to the person's competence to practise social work being found satisfactory under Part 3.
+(8) The direction to restore the entry may be made subject to the person's competence to practise as a social worker being found satisfactory under Part 3.
 
 ### 132 Cancellation of registration on Board's direction
 (1) The Board may direct the Registrar to cancel the entry in the Register relating to a social worker, and give him or her notice of the cancellation, if it is satisfied that he or she—
@@ -1559,8 +1618,8 @@ Subject to section 139, the Registrar must promptly comply with a direction give
   (a) must promptly review the refusal; and
   (b) must either confirm it or (as the case requires) direct the Registrar to issue a certificate of registration or practising certificate to, or renew the registration of, or refer to the Board the application made by, the person.
 
-### 140 Notice of conditions imposed on registration or practising certificate
-The Board may direct the Registrar to give to any person who employs or engages a social worker or practises in association with a social worker written notice of any conditions imposed on his or her registration or practising certificate.
+### 140 Notice of conditions in individual scope of practice
+The Board may direct the Registrar to give to any person who employs or engages a social worker or practises in association with a social worker written notice of a new condition imposed, or the cancellation or variation of an existing condition, by the Board or the Tribunal in that social worker’s individual scope of practice.
 
 ## Part 8 — Miscellaneous, transitional, and consequential provisions
 
@@ -1617,15 +1676,32 @@ Section 121(2) of the Crown Entities Act 2004 applies, with any necessary modifi
   (b) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) The Minister must not recommend the making of regulations without consulting the Board.
 
+### 147A Power to obtain information
+(1) The chief executive may, if the chief executive has reasonable cause to believe that an offence against section 148(2) to (5) has been committed, by written notice require a person—
+  (a) to give the department the information specified in the notice; or
+  (b) to give the department a document in or under that person’s custody or control and to allow the department to make copies of or take extracts from that document; or
+  (c) to give the department copies of or extracts from a document in or under that person’s custody or control.
+(2) A person who receives a notice under this section must comply with it within the period and in the manner stated in the notice and must do so without charge.
+(3) Before issuing a notice, the chief executive must first ask the person in writing to provide the information unless doing so would prejudice the maintenance of the law.
+(4) This section is subject to section 147B (relating to privilege).
+(5) In this section and section 147B,—
+  - **chief executive** means the chief executive of the department responsible for administering this Act
+  - **department** means the department responsible for administering this Act, and includes an employee who is named in a notice given under this section.
+
+### 147B Privilege
+(1) Section 147A does not require a person to give the department information or a document that—
+  (a) would be privileged in a court of law:
+  (b) is subject to legal professional privilege.
+(2) If a person refuses to give the department information or a document on the ground that it is privileged, the department or that person or another person to whom the information or document relates may apply to a District Court Judge for an order determining whether the claim of privilege is valid.
+(3) The Judge may, for the purposes of determining the application, require the information or document to be produced to the court.
+
 ### 148 Offences
 (1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000 or both, who, for the purpose of obtaining registration or a practising certificate (for himself or herself or for any other person),—
   (a) makes an oral or written declaration or representation that, to his or her knowledge, is false or misleading in a material particular; or
   (b) produces a document to the Board, or otherwise uses a document, knowing that it contains a declaration or representation that, to his or her knowledge, is false or misleading in a material particular; or
   (c) produces a document to the Board, or otherwise uses a document, knowing that it is not genuine.
-(2) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $10,000 or both, who holds himself or herself out as a registered social worker when—
-  (a) he or she is not a registered social worker; or
-  (b) he or she is a registered social worker, but his or her registration is suspended.
-(3) Every registered social worker commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $10,000 or both, who is engaged or employed as a social worker contrary to section 25.
+(2) A person who knowingly contravenes section 6AA(1) or (2) commits an offence and is liable on conviction to a term of imprisonment not exceeding 3 months or a fine not exceeding $10,000, or both.
+(3) A person who knowingly contravenes section 6AA(3) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 (4) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $10,000, or both, if they hold an employee or a professional associate out as a social worker, knowing that the employee or associate—
   (a) is not a social worker registered under this Act; or
   (b) is a social worker registered under this Act—
@@ -1636,14 +1712,15 @@ Section 121(2) of the Crown Entities Act 2004 applies, with any necessary modifi
   (a) holds himself or herself out as holding a current practising certificate when—
     (i) he or she does not hold a current practising certificate; or
     (ii) his or her current practising certificate is suspended; or
-  (b) fails or refuses to comply with—
-    (i) a condition on his or her registration; or
-    (ii) a condition on his or her practising certificate.
+  (b) fails or refuses to comply with a condition imposed by the Board or the Tribunal in their individual scope of practice.
 (6) A person commits an offence, and is liable on conviction to a fine not exceeding $2,000, if they disclose information in breach of section 46(1).
 (7) A person commits an offence, and is liable on conviction to a fine not exceeding $2,000, if they receive a production notice under section 68B and—
   (a) refuse or fail without reasonable excuse to comply with the notice; or
   (b) knowingly or recklessly provide information that is false or misleading in any material particular.
 (8) A person commits an offence, and is liable on conviction to a fine not exceeding $2,000, if they intentionally and without lawful excuse publish any information in breach of a suppression order made under section 79(2)﻿(b) to (d) or in breach of section 80(6).
+(9) A person commits an offence, and is liable on conviction to a fine not exceeding $2,000, if they—
+  (a) refuse or fail, without reasonable excuse, to comply with a notice given under section 147A to the extent that they are capable of complying with it; or
+  (b) purport to comply with a notice given under section 147A by knowingly or recklessly giving information that is false or misleading in a material particular.
 
 ### 148A Failure by employer to report to Board not offence
 An employer who fails to report to the Board as required by section 38B, 47A, or 51(1C) does not commit an offence.
