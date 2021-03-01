@@ -1,5 +1,5 @@
 # Taumata Arowai–the Water Services Regulator Act 2020
-_Consolidation as at 2020-08-06_
+_Consolidation as at 2021-03-01_
 
 ### 1 Title
 This Act is the Taumata Arowai–the Water Services Regulator Act 2020.
