@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-03-14_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -78,6 +78,7 @@ This Act has the following additional purposes:
     (b) includes, in Part 5, agreeing to acquire; and
     (c) in relation to a derivative, includes entering into the legal relationship that constitutes the derivative
   - **administration manager** , in relation to a managed investment scheme, means a person to whom a manager of the scheme has contracted some or all of the administration of the scheme
+  - **administrator of a financial benchmark** means a person that controls the generation and operation of a financial benchmark, including administering and applying the rules or procedures by which a financial benchmark is generated
   - **advertisement** ,—
     (a) in relation to an offer, or intended offer, of financial products, means any form of communication made to the public or a section of the public for the purpose of promoting the offer or intended offer:
     (b) in relation to the supply of financial services, means any form of communication made to the public or a section of the public for the purpose of promoting the supply of the services
@@ -117,7 +118,7 @@ This Act has the following additional purposes:
     (a) relates to financial products that the issuer, in the ordinary course of its business, continuously offers; and
     (b) is not the first PDS to be lodged with the Registrar in respect of that class of financial products
   - **continuous issuer** means an issuer that in the ordinary course of its business continuously offers financial products
-  - **contributor** means a person who makes a contribution to, or investment in, a KiwiSaver scheme, superannuation scheme, or any other scheme referred to in section 11(2)﻿(a) (whether or not that person is a scheme participant)
+  - **contributor** , in relation to a financial benchmark, has the meaning set out in section 448C(4)
   - **controlling owner** , in relation to any person, has the meaning set out in section 4 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008 (applied to that person as if it were a financial service provider even if it is not)
   - **convertible note** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **co-operative company** means a company registered as a co-operative company under the Co-operative Companies Act 1996
@@ -175,6 +176,7 @@ This Act has the following additional purposes:
     (d) an unincorporated body (including a partnership)
   - **equity security** has the meaning set out in section 8(2)
   - **exhibiting films to the public** means to exhibit to the public films within the meaning of section 2 of the Films, Videos, and Publications Classification Act 1993
+  - **financial benchmark** has the meaning set out subsections (6) and (7)
   - **financial markets** —
     (a) means the financial markets in New Zealand; and
     (b) includes—
@@ -277,7 +279,8 @@ This Act has the following additional purposes:
     (c) acting as a provider of a discretionary investment management service:
     (d) acting as a derivatives issuer:
     (e) acting as a custodian in respect of a registered scheme or a discretionary investment management service:
-    (f) acting as a provider of prescribed intermediary services
+    (f) acting as a provider of prescribed intermediary services:
+    (g) acting as an administrator of a financial benchmark
   - **market services licence** means a licence issued under Part 6
   - **market services licensee obligation** means an obligation imposed on a licensee or an authorised body by or under any of the following:
     (a) a condition of the licence:
@@ -434,6 +437,17 @@ This Act has the following additional purposes:
     (i) specified:
     (ii) to be calculated by reference to a formula:
     (iii) required to be fixed by a suitably qualified person who is not associated with or interested in the entity or manager of the scheme.
+(6) In this Act, a financial benchmark is a price, estimate, rate, index, or value that is—
+  (a) referenced or otherwise used for purposes that include 1 or more of the following:
+    (i) calculating the interest, or other amounts, payable under financial products or other securities:
+    (ii) calculating the price at which a financial product or other security may be traded, redeemed, or dealt in:
+    (iii) calculating the value of a financial product or other security:
+    (iv) measuring the performance of a financial product or other security; and
+  (b) made available to users (whether or not for a fee); and
+  (c) generated periodically from 1 or more—
+    (i) transactions, instruments, currencies, prices, estimates, rates (including an interest rate or exchange rate), indices, values, financial products or other securities; or
+    (ii) other interests or property (whether tangible or intangible).
+(7) A financial benchmark does not include any price, estimate, rate, index, or value that is excluded (whether by class or in a particular case) by the regulations.
 
 ### 7 Meaning of financial product
 (1) In this Act, financial product means—
@@ -607,7 +621,9 @@ This Act binds the Crown.
 In this Part,—
   - **financial product** —
     (a) has the meaning set out in section 7; and
-    (b) includes, for the purposes of any provision of this Part or section 464, any class or classes of financial product (within the meaning of section 5 of the Financial Advisers Act 2008) declared by the regulations to be a financial product for the purposes of that provision
+    (b) includes, for the purposes of any provision of this Part or section 464,—
+      (i) any class or classes of financial product (within the meaning of section 5 of the Financial Advisers Act 2008) declared by the regulations to be a financial product for the purposes of that provision; and
+      (ii) any security of a kind referred to in section 6(6)﻿(c) (being a security that is used to generate a financial benchmark)
   - **trade** means any trade, business, industry, profession, occupation, activity of commerce, or undertaking.
 
 **Misleading or deceptive conduct, false or misleading representations, and unsubstantiated representations**
@@ -3646,7 +3662,7 @@ To avoid doubt, market rules are not—
 ### 351 Regulations modifying this Part or Part 7 for licensed markets
 (1) The Governor-General may, on the recommendation of the Minister in accordance with subsection (3), make regulations for any 1 or more of the following purposes:
   (a) providing that any 1 or more of the provisions in subparts 2 to 8 of this Part (including any definitions in this Act as they apply in the relevant provisions, but excluding the obligations in section 314) do not apply in respect of a licensed market or class of licensed markets (and accordingly do not apply in relation to any issuers listed or financial products quoted on those markets):
-  (ab) providing that section 451(d) does not apply in respect of persons that are listed issuers only in respect of a licensed market or class of licensed markets, and providing for replacement or modified requirements to apply relating to accounting records and financial reporting:
+  (ab) providing that section 451(1)﻿(d) does not apply in respect of persons that are listed issuers only in respect of a licensed market or class of licensed markets, and providing for replacement or modified requirements to apply relating to accounting records and financial reporting:
   (b) providing for replacement or modified provisions to apply in respect of the licensed market or class of licensed markets (for example, instead of having continuous disclosure provisions in the listing rules and requiring listed issuers to comply with those provisions, having periodic or event-based disclosure or some other way of dealing with any information asymmetries in the market):
   (c) stating which provisions of the regulations (if any) are Part 5 market provisions for the purposes of this Act and, if so, whether the provisions give rise to civil liability under section 385(3) or (4) (see Part 8, in which Part 5 market provisions are specified to be civil liability provisions), including which provisions are alternative disclosure obligations for the purposes of section 314:
   (d) providing that a financial product market must not be treated as a licensed market for the purposes of any provision or provisions of this Act or any other specified enactment:
@@ -3946,6 +3962,7 @@ The regulations made under section 382 may, without limiting that section,—
   (e) subpart 5 requires there to be client agreements for certain services:
   (f) subpart 6 regulates the provision of retail discretionary investment management services under a licence and the provision of related custodial services by a custodian:
   (g) subpart 7 provides for the making of regulations on the holding and application of investors' funds and property by derivatives issuers (whether or not they are licensed or are making regulated offers of derivatives):
+  (ga) subpart 7A provides for additional purposes relating to licences to act as an administrator of a financial benchmark, and additional powers in respect of licensees, authorised bodies, or contributors to financial benchmarks:
   (h) subpart 8 identifies the civil liability provisions under this Part.
 (2) This section is a guide only to the general scheme and effect of this Part.
 
@@ -3973,7 +3990,9 @@ A person must not provide any of the following market services without holding, 
   (c) the service is a prescribed exempt service.
 
 ### 390 When providers of other market services may be licensed
-(1) In addition, a person may hold a market services licence to act as a provider of prescribed intermediary services (for example, a person-to-person lending intermediary or a crowd funding intermediary if prescribed by regulations).
+(1) In addition, a person may hold a market services licence—
+  (a) to act as a provider of prescribed intermediary services (for example, a person-to-person lending intermediary or a crowd funding intermediary if prescribed by regulations); or
+  (b) to act as an administrator of a financial benchmark.
 (2) See clause 6 of Schedule 1 for exclusions for offers through licensed intermediaries and subparts 4 and 5 of this Part for other provisions that may govern these services.
 
 ### 391 Prohibitions on holding out
@@ -3996,7 +4015,10 @@ A person must not provide any of the following market services without holding, 
 
 ### 393 Principles guiding the exercise of FMA powers
 In exercising a power under this subpart, the FMA must be guided by the following principles:
-  (a) exercising the power must be necessary or desirable in order to promote either or both of the main purposes of this Act as specified in section 3 or any of the additional purposes specified in section 4; and
+  (a) exercising the power must be necessary or desirable in order to promote 1 or more of the following:
+    (i) either or both of the main purposes specified in section 3:
+    (ii) any of the additional purposes specified in section 4:
+    (iii) in the case of a market services licence to act as an administrator of a financial benchmark, either or both of the additional purposes specified in section 448B; and
   (b) in exercising the power, the FMA should not unnecessarily restrict the licensing of persons.
 
 **Issue of licences**
@@ -4020,7 +4042,8 @@ The FMA must, after receiving an application under section 395, issue a licence 
   (c) the applicant is capable of effectively performing that service (having regard to the proposed conditions of licence); and
   (d) there is no reason to believe that the applicant is likely to contravene the market services licensee obligations; and
   (e) the applicant is, or will be, registered under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 on and from commencing to provide that service; and
-  (f) in the case of an applicant for a licence to act as a manager of a registered scheme or to be a DIMS licensee, the applicant or any authorised body under section 400 does not have in its constitution any provision under which directors of the applicant or authorised body (as the case may be) may, when exercising powers or performing duties as a director, act otherwise than in the best interests of the applicant or authorised body.
+  (f) in the case of an applicant for a licence to act as a manager of a registered scheme or to be a DIMS licensee, the applicant or any authorised body under section 400 does not have in its constitution any provision under which directors of the applicant or authorised body (as the case may be) may, when exercising powers or performing duties as a director, act otherwise than in the best interests of the applicant or authorised body; and
+  (g) in the case of an application for a licence to act as an administrator of a financial benchmark, the issue of a licence is necessary or desirable in order to promote either or both of the additional purposes set out in section 448B.
 
 ### 397 Procedural requirements
 (1) The FMA must, before making a decision under section 396,—
@@ -4086,11 +4109,12 @@ The FMA must, after receiving an application under section 395, issue a licence 
 (1) The FMA may, by written notice to the applicant or licensee,—
   (a) impose conditions on a licence when the licence is issued; and
   (b) vary, revoke, add to, or substitute any conditions of licence imposed under this section at any time after the licence is issued.
-(2) A condition referred to in subsection (1) may only be of a prescribed kind or relate to a prescribed matter (except as set out in subsection (3)).
+(2) A condition referred to in subsection (1) may only be of a prescribed kind or relate to a prescribed matter (except as set out in subsections (3) to (5)).
 (3) A condition referred to in subsection (1) may—
   (a) impose limits or restrictions on the services that are covered by the licence (for example, by reference to particular financial products, issuers, or investors, or classes of financial products, issuers, or investors, or by reference to any other matters):
   (b) impose conditions relating to the requirements referred to in section 396 or 400 (for example, to ensure that those requirements continue to be satisfied and to require verification that those requirements continue to be satisfied):
   (c) specify the date of expiry of the licence (the expiry date).
+(5) In the case of a licence to act as an administrator of a financial benchmark, a condition referred to in subsection (1) may also impose conditions to achieve the purposes set out in section 448B (for example, to ensure that the benchmark complies with applicable international requirements).
 
 ### 404 Licensee may apply for variation of conditions
 (1) A licensee may apply, in the manner that is specified by the FMA, for the FMA to exercise a power under section 403(1)﻿(b) (for example, to vary a condition that imposes restrictions on the services that can be provided under the licence or to vary the authorised bodies or the market services or class of services that those bodies may provide).
@@ -4128,7 +4152,7 @@ The FMA may suspend (for a specified period or until a specified requirement is 
 ### 410 Meaning of material change of circumstances
 In this subpart, material change of circumstances, in relation to a licence, means—
   (a) a change that adversely affects the licensee’s or an authorised body's capacity to perform the market services covered by the licence in an effective manner; or
-  (b) a change that means that the requirements referred to in section 396(a) to (f) or 400(1)﻿(a) to (e) are not, or are no longer, satisfied (where those provisions are applied with all necessary modifications as if references to the applicant or related body corporate were references to the licensee or authorised body respectively).
+  (b) a change that means that the requirements referred to in section 396(a) to (g) or 400(1)﻿(a) to (e) are not, or are no longer, satisfied (where those provisions are applied with all necessary modifications as if references to the applicant or related body corporate were references to the licensee or authorised body respectively).
 
 **Reports**
 
@@ -4166,7 +4190,7 @@ A report provided by a licensee under section 412 is not admissible as evidence 
   (c) give a direction to the licensee or authorised body (or both).
 (3) The FMA may also, by written notice to the licensee and otherwise in the prescribed manner, suspend (for a specified period or until a specified requirement is met and in relation to the licensee, any authorised body or bodies, or all of them) or cancel the licence of the licensee if it is satisfied that—
   (a) subsection (1)﻿(a), (b), or (c) applies; and
-  (b) the licensee or an authorised body does not meet, or no longer meets, the requirements referred to in section 396(a) to (f) or 400(1)﻿(a) to (e) (where those provisions are applied with all necessary modifications as if references to the applicant or related body corporate were references to the licensee or authorised body respectively).
+  (b) the licensee or an authorised body does not meet, or no longer meets, the requirements referred to in section 396(a) to (g) or 400(1)﻿(a) to (e) (where those provisions are applied with all necessary modifications as if references to the applicant or related body corporate were references to the licensee or authorised body respectively).
 (4) Section 403 also provides for the FMA to vary, revoke, add to, or substitute any conditions of a licence (for example, by removing an authorisation for an authorised body).
 
 ### 415 Procedure for exercising powers
@@ -4450,6 +4474,90 @@ Regulations made under this subpart may apply to a derivatives issuer (whether o
   (g) stating which provisions are Part 6 services provisions for the purposes of this Act.
 (2) The Minister must consult the FMA before making a recommendation under this section.
 
+### Subpart 7A — Additional regulation of licences relating to financial benchmarks
+
+### 448A Application of subpart
+This subpart applies to market services licences to act as an administrator of a financial benchmark.
+
+### 448B Additional purposes for licences relating to financial benchmarks
+(1) In relation to market services licences to act as an administrator of a financial benchmark, this Part has the purposes (in addition to those set out in sections 3 and 4) of—
+  (a) ensuring the accuracy, integrity, and reliability of financial benchmarks, and providing for their continued availability, to support the purposes set out in sections 3 and 4; and
+  (b) promoting the recognition of New Zealand financial benchmarks in overseas jurisdictions by ensuring that—
+    (i) those benchmarks comply with applicable international requirements; and
+    (ii) an administrator of a financial benchmark is subject to effective regulation when generating and operating those benchmarks; and
+    (iii) those benchmarks may be referenced or otherwise used in international instruments.
+(2) This section does not limit section 3 or 4.
+
+### 448C FMA’s powers to direct contributor to provide information or data
+(1) The FMA may exercise a power under subsection (2) if it is satisfied that—
+  (a) a contributor has ceased or is likely to cease providing or making available information or data relevant to the generation or operation of the financial benchmark specified in a licence; and
+  (b) it is necessary or desirable in order to promote any of the purposes set out in section 448B.
+(2) The FMA may, by written notice and otherwise in the prescribed manner, give a direction to a contributor requiring the contributor to provide information or data to a licensee, an authorised body, or another entity, where the provision of that information or data is necessary or desirable for the generation or operation of the financial benchmark specified in a licence.
+(3) A direction may (without limitation) specify either or both of the following:
+  (a) requirements relating to the manner and form in which the information or data must be provided:
+  (b) the entity to which the information or data must be provided.
+(4) In this subpart, contributor means a person whose activities have previously resulted in information or data being provided or made available to a licensee or an authorised body for the generation or operation of the financial benchmark specified in a licence (regardless of whether the information or data is provided or made available directly or indirectly to the licensee or authorised body).
+(5) Subsection (4) applies regardless of where a contributor is resident, is incorporated, or carries on business.
+(6) The contributor must comply with the direction (see subpart 3 of Part 8, which provides for civil liability for a contravention of this section).
+
+### 448D FMA’s powers to direct administration of financial benchmark
+(1) The FMA may exercise a power under subsection (2) if it is satisfied that—
+  (a) a licensee or an authorised body has ceased or is likely to cease generating or operating a financial benchmark specified in a licence; and
+  (b) it is necessary or desirable in order to promote any of the purposes set out in section 448B.
+(2) The FMA may, by written notice and otherwise in the prescribed manner, give a direction to a licensee or an authorised body—
+  (a) to continue to generate or operate the financial benchmark in a particular way; or
+  (b) to transfer or cease the generation or operation of the financial benchmark in a particular way.
+(3) A direction may (without limitation) specify 1 or more requirements relating to the following:
+  (a) changes to the rules or procedures by which the financial benchmark is generated:
+  (b) changes to the documents under which the financial benchmark is generated or operated (for example, any compliance documents required by a condition of the licence):
+  (c) the orderly transfer of the generation or operation of the financial benchmark to another person:
+  (d) the orderly cessation of the generation or operation of the financial benchmark:
+  (e) the provision of material (including information, data, computer software, instructions, methodologies, formulas, or algorithms) to another person, where the provision of that material is necessary or desirable for the generation, operation, or transfer of that financial benchmark.
+(4) The licensee or authorised body must—
+  (a) give the FMA all reasonable assistance to facilitate the continued generation and operation of the financial benchmark (or the orderly cessation of the financial benchmark); and
+  (b) comply with the direction.
+(5) See subpart 3 of Part 8, which provides for civil liability for a contravention of this section.
+
+### 448E Duration of direction
+(1) A direction under section 448C or 448D must specify the period (not exceeding 12 months) during which the contributor, licensee, or authorised body must comply with the direction.
+(2) The FMA may, by written notice, extend the period referred to in subsection (1) by a further period of not more than 12 months.
+
+### 448F FMA must follow steps for giving direction
+Sections 475 to 477 apply to a direction under section 448C or 448D as if the direction were an order under Part 8.
+
+### 448G FMA may give interim direction pending exercise of power
+(1) The FMA may give an interim direction (an interim direction) of the kind referred to in section 448C or 448D that is in force for the period referred to in subsection (2) if—
+  (a) the FMA is considering, at any time, whether it may exercise a power under section 448C or 448D; and
+  (b) the FMA considers that making an interim direction is necessary or desirable in the public interest.
+(2) An interim direction is in force from the time at which it is given until the close of—
+  (a) the date that is 15 working days after the day on which it is given; or
+  (b) a later date specified by the FMA by notice to the person to whom the interim direction relates.
+(3) For the purposes of subsection (2)﻿(b),—
+  (a) the FMA may specify a later date if the FMA is of the opinion that it is not reasonably practicable for it to complete its consideration as referred to in subsection (1)﻿(a) within the 15-working-day period referred to in subsection (2)﻿(a); and
+  (b) the later date must be a date that is no more than 30 working days after the day on which the interim direction is given.
+(4) The FMA—
+  (a) may act under subsection (1) or (2)﻿(b) without giving the person to whom the interim direction relates an opportunity to make submissions to, or be heard before, the FMA in respect of the matter; but
+  (b) must, after acting under subsection (1) or (2)﻿(b), give that person or that person’s representative an opportunity to make written submissions and to be heard on the matter.
+(5) The person to whom the interim direction relates must comply with the direction (see subpart 3 of Part 8, which provides for civil liability for a contravention of this section).
+
+### 448H FMA must give notice after giving interim direction
+If the FMA gives an interim direction, the FMA—
+  (a) must, as soon as is reasonably practicable, give written notice to the person to whom the interim direction relates of—
+    (i) the terms and conditions of the interim direction; and
+    (ii) the reasons for the interim direction; and
+    (iii) any other information the FMA thinks relevant in the circumstances; and
+  (b) in the case of an interim direction to a contributor, must also give the written notice referred to in paragraph (a) to the relevant licensee in respect of the financial benchmark; and
+  (c) may also make the direction available on its Internet site; and
+  (d) may also give notice to any other person of those matters.
+
+### 448I General provisions on FMA’s directions
+(1) The FMA may give a direction under this subpart on the terms and conditions that the FMA thinks fit.
+(2) The FMA may vary a direction in the same way as it may give the direction under this subpart.
+(3) The FMA may revoke a direction or suspend a direction on the terms and conditions it thinks fit.
+
+### 448J Protection for persons in respect of provision of material, information, or data under this subpart
+No civil or criminal proceedings may be brought against a person by reason of the person having provided material, information, or data in good faith and in accordance with a direction under this subpart.
+
 ### Subpart 8 — Miscellaneous provisions
 
 **Civil liability**
@@ -4478,6 +4586,7 @@ Regulations made under this subpart may apply to a derivatives issuer (whether o
   (i) section 437 (requirement for agreed investment authority):
   (j) section 438 (action that must be taken on limit breaks):
   (k) section 440 (general prohibition on transactions giving related party benefits):
+  (ka) section 448C, 448D, or 448G (directions to a contributor or an administrator of a financial benchmark):
   (l) those conditions imposed on a market services licence by the regulations that are stated by those regulations to be Part 6 services provisions:
   (m) those provisions of the regulations made under subpart 7 that are stated by those regulations to be Part 6 services provisions.
 
@@ -4492,9 +4601,9 @@ Regulations made under this subpart may apply to a derivatives issuer (whether o
 (2) This section is only a guide to the general scheme and effect of this Part.
 
 ### 451 Meaning of FMC reporting entity
-In this Act, FMC reporting entity means—
+(1) In this Act, FMC reporting entity means—
   (a) every person who is an issuer of a regulated product (but see section 452):
-  (b) every person who holds a licence under Part 6 (other than an independent trustee of a restricted scheme):
+  (b) every person who holds a licence under Part 6 (other than an independent trustee of a restricted scheme or a person referred to in subsection (2)):
   (c) every licensed supervisor:
   (d) every listed issuer (but see section 351(1)﻿(ab)):
   (e) every operator of a licensed market (other than a market licensed under section 317 (overseas-regulated markets)):
@@ -4504,9 +4613,12 @@ In this Act, FMC reporting entity means—
   (i) every credit union:
   (j) every building society:
   (k) every person that is an FMC reporting entity under clause 27A of Schedule 1.
+(2) Despite subsection (1)﻿(b), a person who holds a licence under Part 6 is not an FMC reporting entity if—
+  (a) the licence only covers acting as an administrator of a financial benchmark; and
+  (b) the person is not a person referred to in subsection (1)﻿(a) or (c) to (k).
 
 ### 452 Company that issues equity securities not FMC reporting entity if fewer than 50 shareholders
-(1) A company within the meaning of section 2(1) of the Companies Act 1993 is not an FMC reporting entity under section 451(a) if it—
+(1) A company within the meaning of section 2(1) of the Companies Act 1993 is not an FMC reporting entity under section 451(1)﻿(a) if it—
   (a) has fewer than 50 shareholders or fewer than 50 parcels of shares that are voting products; and
   (b) would, but for this section, be an FMC reporting entity by reason only of being an issuer of equity securities that are both voting products and regulated products.
 (2) In this section, shareholder means a shareholder holding a voting product.
@@ -5395,6 +5507,7 @@ An aggrieved person that considers that any of the following decisions of the FM
   (d) a decision under section 195 (cancellation of the registration of a scheme):
   (e) a decision under section 205 (direction to the supervisor or issuer):
   (f) a decision under section 361 (direction to a licensed market operator):
+  (fa) a decision under section 448C, 448D, or 448G (directions to a contributor or an administrator of a financial benchmark):
   (g) a decision under subpart 1 (FMA's enforcement powers).
 
 ### Subpart 10 — Miscellaneous
@@ -5613,6 +5726,7 @@ Nothing in this Act limits or diminishes any liability that any person may incur
     (ii) conditions that impose prudential requirements on licensees or authorised bodies or otherwise regulate the business, operation, or management of licensees or authorised bodies (for example, requirements to have a credit rating or to maintain a minimum amount of capital, requirements relating to margins, or requirements relating to the receipt of money and property from clients):
     (iii) in the case of a DIMS licensee, the conditions subject to which a custodian of investor money or investor property is permitted to be an associated person of the DIMS licensee:
     (iv) in the case of a licence relating to a financial advice service, conditions of a kind described in section 403(4):
+    (v) in the case of a licence to act as an administrator of a financial benchmark, conditions of a kind described in section 403(5):
   (e) stating whether a condition imposed on a market services licence by the regulations is a Part 6 services provision that gives rise to civil liability under section 449(4):
   (f) prescribing matters relating to reports or other disclosure under subpart 3 of Part 6, including the times and events referred to in that subpart and the information that must be contained in the reports (including prescribing the manner in which the information is to be presented, calculated, or prepared):
   (g) prescribing the information that must, or must not, be contained in disclosure statements for the purposes of subpart 4 of Part 6 (including prescribing the manner in which the information is to be presented, calculated, or prepared):
@@ -5673,6 +5787,7 @@ Nothing in this Act limits or diminishes any liability that any person may incur
     (v) declaring interests or rights not to be securities for the purposes of this Act:
     (vi) prescribing circumstances for the purposes of section 6(3) (whether in relation to the redemption date, the interest rate, or both):
     (vii) prescribing matters for the purposes of section 8(4)﻿(a)﻿(ii):
+    (viii) excluding (whether by class or in a particular case) a price, estimate, rate, index, or value from being a financial benchmark for the purposes of section 6(7):
   (e) prescribing kinds of schemes and deposit products for the purposes of section 11(2) and specifying conduct for the purposes of section 11(2)﻿(c)﻿(iv) (definitions relating to issued and issuer):
   (f) prescribing circumstances for the purposes of section 13(3):
   (g) prescribing matters relating to when information may be incorporated by reference for the purposes of section 13(4):
@@ -5706,7 +5821,7 @@ Nothing in this Act limits or diminishes any liability that any person may incur
   (s) prescribing a date or dates for the purposes of clause 57(1)﻿(a) of Schedule 4:
   (t) prescribing clauses of Schedule 1 for the purposes of clause 59(1) of Schedule 4:
   (u) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
-(2) Subsection (1)﻿(b), (d)﻿(i), (ii), (iii), and (v), (h), and (ha) are subject to section 550 (which provides for certain procedural requirements relating to regulations made under those subparagraphs).
+(2) Subsection (1)﻿(b), (d)﻿(i), (ii), (iii), (v), and (viii), (h), and (ha) are subject to section 550 (which provides for certain procedural requirements relating to regulations made under those subparagraphs).
 (3) Subsection (1)﻿(d)﻿(iii) is repealed on 1 April 2017 (but any regulations made under that subparagraph continue in force despite that repeal).
 (4) Nothing in sections 543 to 547, or in any other provision that authorises regulations to be made under this Act, limits subsection (1)﻿(p).
 
@@ -5728,7 +5843,7 @@ The Minister must consult the FMA before making a recommendation under this subp
   (da) section 546(1)﻿(me), (mf), (mg), (mh), and (mi) (regulations may prescribe matters in relation to exclusions from definitions of financial advice, regulated financial advice, and regulated client money or property service):
   (db) section 546(1)﻿(mn) (regulations may prescribe circumstances in which requirements do not apply):
   (e) section 546(1)﻿(o) (regulations may prescribe circumstances in which requirements do not apply):
-  (f) section 548(1)﻿(d)﻿(i), (ii), and (v) (regulations relating to definitions):
+  (f) section 548(1)﻿(d)﻿(i), (ii), (v), and (viii) (regulations relating to definitions):
   (g) section 548(1)﻿(h) (regulations may prescribe circumstances in which section 534 does not apply):
   (h) section 548(1)﻿(ha) (regulations may disapply provisions of Trusts Act 2019).
 (3) The Minister must, before making a recommendation in relation to section 548(1)﻿(d)﻿(iii) (regulations relating to definition of retirement scheme) in relation to any enactment, have regard to the purposes of that enactment and be satisfied that the extent of the exclusion is not broader than is reasonably necessary to address the matters that gave rise to the regulations.
@@ -7000,7 +7115,7 @@ Nothing in this Part prevents an issuer from lodging a PDS in preparation for ma
   (d) any regulations made for the purposes of subpart 4 of Part 3, Part 4, or Part 7 of this Act:
   (e) any other provision of this Act relating to the enforcement, application, or effect of subpart 4 of Part 3, Part 4, or Part 7 of this Act.
 (2) The provisions referred to in subclause (1) apply with all necessary modifications as if the security had been offered and allotted under a regulated offer under this Act.
-(2A) For the purposes of subclause (1), the security must, on and after the effective date, be treated as being a regulated product under section 451(a) and, accordingly, the issuer must be treated as being an FMC reporting entity (unless section 452 applies).
+(2A) For the purposes of subclause (1), the security must, on and after the effective date, be treated as being a regulated product under section 451(1)﻿(a) and, accordingly, the issuer must be treated as being an FMC reporting entity (unless section 452 applies).
 (2B) See section 56 of the Financial Reporting Act 2013 (which provides for the former law to generally continue to apply to accounting periods that commence before the commencement of that Act).
 (3) However, subclause (1) and clauses 21, 22, and 30 (obligations relating to registration of a scheme under this Act) do not apply to a security if,—
   (a) before the effective date, the security is cancelled, redeemed, or forfeited, or all of the obligations owing under the security have been discharged; or
