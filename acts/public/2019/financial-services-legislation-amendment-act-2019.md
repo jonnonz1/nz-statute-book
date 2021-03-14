@@ -1,5 +1,5 @@
 # Financial Services Legislation Amendment Act 2019
-_Consolidation as at 2019-11-26_
+_Consolidation as at 2021-03-14_
 
 ### 1 Title
 This Act is the Financial Services Legislation Amendment Act 2019.
@@ -86,7 +86,7 @@ After section 14, insert:Transitional, savings, and related provisionsTransition
   The transitional, savings, and related provisions set out in Schedule 4 have effect according to their terms.
 
 ### 9 Section 18 amended (Interpretation in this Part)
-In section 18, definition of financial product, paragraph (b), replace financial product (within the meaning of section 5 of the Financial Advisers Act 2008) with financial advice product.
+In section 18, definition of financial product, paragraph (b)﻿(i), replace financial product (within the meaning of section 5 of the Financial Advisers Act 2008) with financial advice product.
 
 ### 10 Section 28 amended (Certain conduct does not contravene various provisions)
 In section 28(1) and (2), replace or 427 with 427, 431P, or 431Y.
@@ -96,7 +96,7 @@ Replace section 34(2)﻿(b) and (c) with:
   (b) the offer is through a financial advice provider that is acting in the ordinary course of business as a financial advice provider; or
 
 ### 12 Section 351 amended (Regulations modifying this Part or Part 7 for licensed markets)
-In section 351(1)﻿(ab), replace 451(d) with 451(1)﻿(d).
+[Repealed]
 
 ### 13 Section 386 amended (Overview)
 After section 386(1)﻿(e), insert:
@@ -134,7 +134,8 @@ After section 388(b), insert:
 Repeal section 392.
 
 ### 19 Section 393 amended (Principles guiding the exercise of FMA powers)
-In section 393(a), after section 4, insert or, in the case of financial advice services, section 431B.
+After section 393(a)﻿(iii), insert:
+  (iv) in the case of financial advice services, the additional purpose in section 431B; and
 
 ### 20 Section 395 amended (Application for licence)
 After section 395(1), insert:
@@ -165,7 +166,7 @@ In section 398(2), replace limits or restrictions under section 403(3)﻿(a) wit
 (3) In section 400(2)﻿(a) and (b), replace subsection (1) with subsection (1) or (1A).
 
 ### 24 Section 403 amended (When FMA may impose permitted conditions)
-(1) In section 403(2), replace subsection (3) with subsections (3) and (4).
+(1)
 (2) In section 403(3)﻿(a), replace financial products, issuers, or investors, or classes of financial products, issuers, or investors, with financial products or other financial advice products, issuers, investors, or clients, or classes of financial products or other financial advice products, issuers, investors, or clients,.
 (3) After section 403(3), insert:
   (4) In the case of a licence relating to a financial advice service, a condition referred to in subsection (1) may also—
@@ -197,11 +198,11 @@ After section 406, insert:Effect of condition requiring giver of advice or inter
 
 ### 26 Section 410 amended (Meaning of material change of circumstances)
 Replace section 410(b) with:
-  (b) a change that means that the requirements referred to in section 396(a) to (f) or 400(1)﻿(a) to (e) or (1A)﻿(a) to (e) are not, or are no longer, satisfied (where those provisions are applied with all necessary modifications as if references to the applicant or body corporate (or entity) were references to the licensee or authorised body respectively).
+  (b) a change that means that the requirements referred to in section 396(a) to (g) or 400(1)﻿(a) to (e) or (1A)﻿(a) to (e) are not, or are no longer, satisfied (where those provisions are applied with all necessary modifications as if references to the applicant or body corporate (or entity) were references to the licensee or authorised body respectively).
 
 ### 27 Section 414 amended (FMA’s powers in case of contravention of market services licensee obligation, material change, etc)
 Replace section 414(3)﻿(b) with:
-  (b) the licensee or an authorised body does not meet, or no longer meets, the requirements referred to in section 396(a) to (f) or 400(1)﻿(a) to (e) or (1A)﻿(a) to (e) (where those provisions are applied with all necessary modifications as if references to the applicant or body corporate (or entity) were references to the licensee or authorised body respectively).
+  (b) the licensee or an authorised body does not meet, or no longer meets, the requirements referred to in 396(a) to (g) or 400(1)﻿(a) to (e) or (1A)﻿(a) to (e) (where those provisions are applied with all necessary modifications as if references to the applicant or body corporate (or entity) were references to the licensee or authorised body respectively).
 
 ### 28 Section 426 amended (Disclosure statement)
 In section 426(1), delete , the Financial Advisers Act 2008,.
@@ -512,14 +513,11 @@ Replace section 446 with:Certain client money or property service obligations un
   (gh) sections 431ZC to 431ZH (obligations for handling client money and client property):
 
 ### 33 Section 451 amended (Meaning of FMC reporting entity)
-(1) In section 451(b), after scheme, insert or a person referred to in subsection (2).
-(2) In section 451, insert as subsection (2):
-  (2) Despite subsection (1)﻿(b), a person who holds a licence under Part 6 is not an FMC reporting entity if—
-    (a) the licence only covers a financial advice service; and
-    (b) the person is not a person referred to in subsection (1)﻿(a) or (c) to (k).
+(1)
+(2) In section 451(2)﻿(a), after financial benchmark, insert or a financial advice service (or both).
 
 ### 34 Section 452 amended (Company that issues equity securities not FMC reporting entity if fewer than 50 shareholders)
-In section 452(1), replace 451(a) with 451(1)﻿(a).
+[Repealed]
 
 ### 35 Section 462 amended (When FMA may make stop orders)
 (1) Replace section 462(1)﻿(g) with:
@@ -728,7 +726,7 @@ In Schedule 2, clause 2(d), replace perform a financial adviser service (within 
 (2) In the heading to Schedule 4, after Transitional, insert , savings, and related.
 (3) In Schedule 4, after clause 1(1)﻿(e), insert:
   (f) Part 6 provides for transitional provisions relating to the Financial Services Legislation Amendment Act 2019.
-(4) In Schedule 4, clause 20(2A), replace 451(a) with 451(1)﻿(a).
+(4)
 (5) In Schedule 4, after clause 70, insert the Part 6 set out in Part 1 of Schedule 1 of this Act.
 (6) In Schedule 4, after clause 80 (as inserted by subsection (5)), insert the subpart 4 of Part 6 set out in Part 2 of Schedule 1 of this Act.
 
@@ -768,6 +766,7 @@ This Part amends the Financial Service Providers (Registration and Dispute Resol
     (iii) acting as a provider of a discretionary investment management service:
     (iv) acting as a derivatives issuer:
     (v) acting as a provider of prescribed intermediary services:
+    (vi) acting as an administrator of a financial benchmark:
 (5) After section 5(1)﻿(m), insert:
   (ma) providing a prescribed service—
     (i) that is the same, or substantially the same, as a service referred to in paragraph (ib); but
