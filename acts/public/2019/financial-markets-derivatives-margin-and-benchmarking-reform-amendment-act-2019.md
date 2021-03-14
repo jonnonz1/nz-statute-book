@@ -1,5 +1,5 @@
 # Financial Markets (Derivatives Margin and Benchmarking) Reform Amendment Act 2019
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2021-03-14_
 
 ### 1 Title
 This Act is the Financial Markets (Derivatives Margin and Benchmarking) Reform Amendment Act 2019.
