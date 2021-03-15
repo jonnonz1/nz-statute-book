@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-03-15_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -460,7 +460,7 @@ Every information pack supplied by the Commissioner under this subpart must cont
   (b) a statement that membership of the overall KiwiSaver scheme, and of any individual KiwiSaver scheme, is at the member’s own risk; and
   (c) a summary of what could happen under the default allocation rules or if an employer has a chosen KiwiSaver scheme; and
   (d) a description of how to access information about KiwiSaver schemes; and
-  (e) a statement that people should seek financial advice from a professional financial adviser (rather than an employer) if they want information in relation to—
+  (e) a statement that people should seek financial advice from a financial advice provider (rather than an employer) if they want information in relation to—
     (i) their personal financial circumstances; or
     (ii) deciding whether to opt in or opt out or not; or
     (iii) choosing a KiwiSaver scheme or investment product of a KiwiSaver scheme; or
@@ -1835,8 +1835,8 @@ The FMA must give notice to the Commissioner as soon as practicable after an emp
 (1) There is no Crown guarantee in respect of any KiwiSaver scheme or investment product of a KiwiSaver scheme.
 (2) Every product disclosure statement relating to an offer of interests in a KiwiSaver scheme must contain a statement to that effect.
 
-### 162 Factual description of, or transmission of information about, KiwiSaver scheme not financial adviser service
-For the avoidance of doubt, the Crown or any other person does not perform a financial adviser service for the purposes of the Financial Advisers Act 2008 if the Crown or that person—
+### 162 Factual description of, or transmission of information about, KiwiSaver scheme not financial advice service
+For the avoidance of doubt, the Crown or any other person does not provide a financial advice service for the purposes of the Financial Markets Conduct Act 2013 if the Crown or that person—
   (a) supplies an information pack as required or authorised by this Act; or
   (b) gives a factual description to another person of the features of a KiwiSaver scheme or of KiwiSaver schemes (for example, information about admission as a member or termination of membership); or
   (c) gives information of the type referred to in paragraph (b) in the course of promoting the benefits of retirement savings in general; or
@@ -2384,7 +2384,7 @@ The KiwiSaver scheme rules apply to all KiwiSaver schemes.
   (c) to avoid doubt, excludes permitted withdrawals.
 (3) This clause does not prevent minor financial advantages that are incidental or secondary to a KiwiSaver scheme membership from being provided to or in respect of a member, including such advantages in the form of—
   (a) an inducement or incentive or other form of reward to contribute to, or be a member of, the scheme; or
-  (b) a reduction or rebate of the fees or commission payable to a financial adviser, or for financial adviser services, that takes into account the member's accumulation; or
+  (b) a reduction or rebate of the fees or commission payable to a financial advice provider, or for financial advice services, that takes into account the member's accumulation; or
   (c) rewards such as discounts on fees payable in respect of non-KiwiSaver services or products.
 (4) In this clause, associated person has the same meaning as in section 12 of the Financial Markets Conduct Act 2013.
 
