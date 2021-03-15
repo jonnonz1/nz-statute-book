@@ -1,5 +1,5 @@
 # Financial Advisers Amendment Act 2011
-_Consolidation as at 2011-04-18_
+_Consolidation as at 2021-03-15_
 
 ### 1 Title
 This Act is the Financial Advisers Amendment Act 2011.
@@ -19,7 +19,7 @@ The office of the Commissioner for Financial Advisers is disestablished.
 The definition of Commissioner for Financial Advisers or Commissioner in section 5 is repealed.
 
 ### 6 Outline of this Part
-Section 78(2)(a) is repealed.
+Section 78(2)﻿(a) is repealed.
 
 ### 7 Heading to subpart 1 of Part 4 amended
 The heading to subpart 1 of Part 4 is amended by omitting Commissioner for Financial Advisers, code of professional conduct, and substituting Code of professional conduct.
