@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-03-15_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -29,8 +29,6 @@ In this Act, unless the context otherwise requires,—
   - **annual confirmation** means the annual confirmation relating to a registered provider supplied to the Registrar under section 28
   - **annual report** means the annual report relating to an approved dispute resolution scheme supplied to the Minister under section 68
   - **approved dispute resolution scheme** has the meaning given by section 50
-  - **broker** has the meaning given by section 77A of the Financial Advisers Act 2008
-  - **broking service** has the meaning given by section 77B of the Financial Advisers Act 2008
   - **business** includes any profession, trade, or undertaking, whether or not carried on with the intention of making a pecuniary profit
   - **chief executive** means the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **company** means a company, or an overseas company, within the meaning of section 2(1) of the Companies Act 1993
@@ -47,6 +45,7 @@ In this Act, unless the context otherwise requires,—
       (iii) contracts under which no interest charges, and no credit fees, as defined in section 5 of that Act are payable
   - **creditor** has the same meaning as in section 5 of the Credit Contracts and Consumer Finance Act 2003
   - **director** has the meaning given by section 6(1) of the Financial Markets Conduct Act 2013
+  - **disciplinary committee** means the disciplinary committee established under Part 5 of Schedule 5 of the Financial Markets Conduct Act 2013
   - **document** means—
     (a) any material, whether or not it is signed or otherwise authenticated, that bears symbols (including words and figures), images, or sounds, or from which symbols, images, or sounds can be derived, and includes—
       (i) a label, marking, or other writing that identifies or describes a thing of which it forms a part, or to which it is attached:
@@ -54,13 +53,16 @@ In this Act, unless the context otherwise requires,—
       (iii) a photograph, film, or negative; and
     (b) information electronically recorded or stored, and information derived from that information
   - **due date** , in relation to an annual confirmation, means the date allocated to a registered financial service provider by the Registrar under section 16(1)﻿(b)
+  - **engaged** , in relation to a person who gives financial advice, has the meaning given by section 431E of the Financial Markets Conduct Act 2013 (but see section 44A, which relates to when a person is engaged to give advice through an interposed person)
   - **family trust** has the same meaning as in section 5 of the Credit Contracts and Consumer Finance Act 2003
   - **FATF** means the Financial Action Task Force on Money Laundering established in Paris in 1989
   - **FATF Recommendations** means all of the following recommendations:
     (a) the 40 Recommendations adopted by FATF at its plenary meeting on 20 June 2003:
     (b) the Special Recommendations on Terrorist Financing adopted by FATF at its extraordinary plenary meeting on 31 October 2001:
     (c) Special Recommendation IX on Terrorist Financing adopted by FATF at its plenary meeting between 20 and 22 October 2004
-  - **financial adviser service** has the meaning given by section 9 of the Financial Advisers Act 2008
+  - **financial advice provider** has the meaning given by section 6(1) of the Financial Markets Conduct Act 2013
+  - **financial advice service** has the meaning given by section 6(1) of the Financial Markets Conduct Act 2013
+  - **financial markets legislation** has the meaning given by section 4 of the Financial Markets Authority Act 2011
   - **financial service** has the meaning given by section 5
   - **financial service provider** means a person who provides or offers to provide a financial service
   - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
@@ -76,7 +78,7 @@ In this Act, unless the context otherwise requires,—
   - **licensed service** means a financial service in respect of which a licensing enactment requires a person to be licensed (or to be exempt from that requirement) to—
     (a) provide the service; or
     (b) hold out that the person provides the service
-  - **licensing authority** means a body, identified in Schedule 2, that licenses, registers, authorises, or otherwise approves a person to be a licensed provider
+  - **licensing authority** means a body or person, identified in Schedule 2, that licenses, registers, authorises, or otherwise approves a person to be a licensed provider (but see section 44B in relation to operators of financial product markets)
   - **licensing enactment** means an enactment identified in Schedule 2
   - **member** , in relation to a dispute resolution scheme, has the meaning given by section 48(2)
   - **member of a local authority** has the meaning given by section 5(1) of the Local Government Act 2002
@@ -90,6 +92,8 @@ In this Act, unless the context otherwise requires,—
   - **real estate agent** means a person who is a licensee under the Real Estate Agents Act 2008
   - **register** means the register of financial service providers established and maintained under section 24
   - **Registrar** means the Registrar of Financial Service Providers appointed under section 35
+  - **regulated client money or property service** has the meaning given by section 431W(4) of the Financial Markets Conduct Act 2013
+  - **regulated financial advice** has the meaning given by section 431C(3) of the Financial Markets Conduct Act 2013
   - **related company** has the meaning given by section 2(3) of the Companies Act 1993
   - **retail client** has the meaning set out in section 49
   - **senior manager** means, in relation to a financial service provider, a person who is not a director but occupies a position that allows the person to exercise significant influence over the management or administration of that provider (for example, a chief executive or a chief financial officer)
@@ -98,38 +102,47 @@ In this Act, unless the context otherwise requires,—
 
 ### 5 Meaning of financial service
 (1) In this Act, financial service means any of the following financial services:
-  (a) a financial adviser service:
-  (ab) a broking service (including a custodial service):
+  (a) a financial advice service:
+  (ab) a regulated client money or property service (including a custodial service):
   (b) being a licensed NBDT, as defined in the Non-bank Deposit Takers Act 2013:
   (c) being a registered bank:
   (d) keeping, investing, administering, or managing money, securities, or investment portfolios on behalf of other persons:
   (e) being a creditor under a credit contract:
   (f) operating a money or value transfer service:
-  (g) issuing and managing means of payment (for example, credit and debit cards, cheques, travellers’ cheques, money orders, bankers’ drafts, and electronic money):
+  (g) issuing or managing the means of payment (for example, credit or debit cards, cheques, travellers’ cheques, money orders, bankers’ drafts, or electronic money):
   (h) giving financial guarantees:
-  (i) participating in an FMC offer as the issuer or offeror of the financial products:
+  (i) acting as an offeror of financial products offered under an FMC offer:
   (ia) acting in any of the following capacities in respect of regulated products or financial products offered under an FMC offer:
     (i) as an issuer:
     (ii) as a supervisor:
     (iii) as an investment manager:
-  (ib) a licensed market service:
+  (ib) any of the following market services if the service is, or is required to be, provided under a market services licence (whether as a licence holder or as an authorised body):
+    (i) acting as a manager of a registered scheme (other than a restricted scheme):
+    (ii) acting as an independent trustee of a restricted scheme:
+    (iii) acting as a provider of a discretionary investment management service:
+    (iv) acting as a derivatives issuer:
+    (v) acting as a provider of prescribed intermediary services:
+    (vi) acting as an administrator of a financial benchmark:
   (ic) acting as a custodian in respect of a registered scheme or a discretionary investment management service provided by a DIMS licensee:
   (id) operating a financial product market:
   (j) changing foreign currency:
   (k) trading financial products or foreign exchange on behalf of other persons:
   (l) providing forward foreign exchange contracts:
   (m) acting as an insurer:
+  (ma) providing a prescribed service—
+    (i) that is the same, or substantially the same, as a service referred to in paragraph (ib); but
+    (ii) in respect of which the provider is not required to provide the service under a market services licence because of an exemption under section 389(3)﻿(b) of the Financial Markets Conduct Act 2013 or an exemption granted or issued by a licensing authority or because the service is a wholesale service or provided only to wholesale clients or wholesale investors (as defined in any licensing enactment):
   (n) providing any other financial service that is prescribed for the purposes of New Zealand complying with the FATF Recommendations, other recommendations by FATF, or other similar international obligations that are consistent with the purpose of this Act.
-(2) In this section, custodian, DIMS licensee, discretionary investment management service, financial product, financial product market, investment manager, issuer, licensed market service, offeror, registered scheme, regulated products, and supervisor have the same meanings as in section 6(1) of the Financial Markets Conduct Act 2013.
+(2) Any term or expression that is defined in the Financial Markets Conduct Act 2013 and used in this section, but not defined in this Act, has the same meaning as in the Financial Markets Conduct Act 2013.
 (3) In this section, FMC offer means any of the following kinds of offers:
   (a) a regulated offer within the meaning of section 41 of the Financial Markets Conduct Act 2013:
   (b) an offer of financial products referred to in clause 19 or 21 of Schedule 1 of that Act.
 
 ### 6 Meaning of in the business of providing a financial service
-In this Act, in the business of providing a financial service means carrying on a business of providing or offering to provide a financial service (whether or not the business is the provider's only business or the provider's principal business).
+In this Act, in the business of providing a financial service means carrying on a business of providing a financial service (whether or not the business is the provider's only business or the provider's principal business).
 
-### 7 Application of Act
-(1) This Act applies to persons who are in the business of providing a financial service.
+### 7 Persons who are not in business of providing financial service
+(1)
 (2) None of the following persons are in the business of providing a financial service for the purposes of this Act to the extent this subsection applies to them:
   (a) a lawyer, incorporated law firm, conveyancing practitioner, qualified statutory accountant, tax agent, or real estate agent providing a service in the ordinary course of business of the relevant kind:
   (b) a public service agency as defined in section 5 of the Public Service Act 2020:
@@ -139,20 +152,36 @@ In this Act, in the business of providing a financial service means carrying on 
   (f) a non-profit organisation in respect of free financial services:
   (g)
   (h) an executor, administrator, or trustee in respect of services provided in the administration of an estate or a trustee in respect of services provided to beneficiaries of a family trust:
-  (i) a nominated representative (within the meaning of the Financial Advisers Act 2008) while acting in that capacity:
+  (i) a nominated representative (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013) while acting in that capacity on behalf of the financial advice provider that nominated the person:
   (j) an employer while providing services to enable employees of the employer to obtain rights or benefits under a retirement scheme (as defined in section 6(1) of the Financial Markets Conduct Act 2013), being a scheme in which that employer participates for the benefit of its employees:
   (k) any person exempted, under regulations made under this Act or by or under any other enactment, from the application of this Act or from the requirement to register under this Act (to the extent of the relevant exemption).
 (3) If subsection (2) applies to a person (A), it applies equally to any controlling owner, director, employee, agent, or other person while acting in the course of, and for the purposes of, A's business to the same extent as it applies to A.
 (4) However, subsections (2) and (3) do not apply if, and to the extent that, any other enactment requires a person referred to in those subsections to be registered under this Act.
 
+### 7A Application of Act
+(1) This Act applies to every person (A) who is in the business of providing a financial service if—
+  (a) A’s financial services are provided to persons in New Zealand by or on behalf of A; or
+  (b) A is, or is required to be, a licensed provider under a licensing enactment; or
+  (c) A is required to be registered under this Act by or under any other enactment (including under a licence condition); or
+  (d) A provides the service in the prescribed circumstances; or
+  (e) A is a reporting entity to which the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 applies.
+(2) The following apply for the purposes of subsection (1)﻿(a):
+  (a) the paragraph does not apply merely because A’s financial services are accessible by persons in New Zealand:
+  (b) the paragraph does not apply if A—
+    (i) does not have a place of business in New Zealand; and
+    (ii) does not provide the service to any retail client in New Zealand:
+  (c) the paragraph does not apply if the extent to which the financial service is provided to persons in New Zealand is less than any prescribed threshold:
+  (d) the paragraph applies regardless of where the financial service is provided from.
+(3) Subsection (2)﻿(c) does not apply in the prescribed circumstances.
+(4) This Act may also apply to a person who registers for financial advice services under section 22C (even though the person is not in the business of providing a financial service).
+(5) See section 12(1A), which applies section 12 to a person even if this Act would not otherwise apply to the person under this section.
+(6) This section is subject to section 7.
+
 ### 8 Act binds the Crown
 This Act binds the Crown.
 
-### 8A Territorial scope
-This Act applies to a person who—
-  (a) is ordinarily resident in New Zealand (within the meaning of section 4 of the Crimes Act 1961) or has a place of business in New Zealand, regardless of where the financial service is provided; or
-  (b) is, or is required to be, a licensed provider under a licensing enactment; or
-  (c) is required to be registered under this Act by any other enactment.
+### 8A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ## Part 2 — Registration
 
@@ -168,28 +197,43 @@ The purpose of this Part is to—
 (1) Registration under this Act continues until the registered person is deregistered.
 (2) Registration may not be transferred and may not vest by operation of law in any person other than the person registered under this Act.
 (3) A person is deregistered when the Registrar enters on the register that the person is deregistered.
+(4) This section is subject to section 22B (suspension of registration).
 
-### Subpart 1 — No holding out or being in business of providing financial service unless registered and member of approved dispute resolution scheme
+### Subpart 1 — Requirements for registration and being member of approved dispute resolution scheme and prohibition against holding out
 
-### 11 No being in business of providing financial service unless registered and member of approved dispute resolution scheme
-(1) A person to whom this Act applies must not be in the business of providing a financial service unless that person—
-  (a) is registered for that service under this Part; and
-  (b) is, if required by section 48, a member of an approved dispute resolution scheme.
+### 11 Person in business of providing financial service must be registered and member of approved dispute resolution scheme
+(1) A person to whom this Act applies who is in the business of providing a financial service must—
+  (a) be registered for that service under this Part; and
+  (b) if required by section 48, be a member of an approved dispute resolution scheme.
 (2) Every person who knowingly breaches subsection (1) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $100,000, or to both; or
   (b) in the case of a person who is not an individual, to a fine not exceeding $300,000.
 
 ### 12 No holding out that in business of providing financial service unless registered and member of approved dispute resolution scheme
-(1) A person to whom this Act applies must not—
+(1) A person must not—
   (a) hold out that the person is registered under this Act unless that person—
     (i) is registered under this Part; and
     (ii) is, if required by section 48, a member of an approved dispute resolution scheme; or
-  (b) hold out that the person is registered in respect of a particular service or entitled, qualified, able, or willing to be in the business of providing a financial service unless that person—
+  (b) hold out that the person is registered under this Act in respect of a particular service unless that person—
     (i) is registered for that service under this Part; and
+    (ii) is, if required by section 48, a member of an approved dispute resolution scheme; or
+  (c) hold out that the person is entitled, qualified, able, or willing to be in the business of providing a financial service to persons in New Zealand unless that person—
+    (i) is, if required by this Part, registered for that service under this Part; and
     (ii) is, if required by section 48, a member of an approved dispute resolution scheme.
+(1A) This section applies to a person even if this Act would otherwise not apply to the person under section 7A.
 (2) Every person who knowingly breaches subsection (1) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $100,000, or to both; or
   (b) in the case of a person who is not an individual, to a fine not exceeding $300,000.
+
+### 12A Registration for certain overlapping services not required
+(1) This section applies if—
+  (a) a person (A) is registered for a financial service referred to in section 5(1)﻿(a) to (c), (e), (ia)﻿(ii) or (iii), (ib) to (id), (l), (m), or (ma); and
+  (b) A also provides a financial service referred to in section 5(1)﻿(d), (f), (g), (h), (i), (ia)﻿(i), (j), or (k), but only in the ordinary course of providing the service for which A is registered as referred to in paragraph (a); and
+  (c) regulations provide for this section to apply in the circumstances in which A provides the service; and
+  (d) A complies with the terms and conditions (if any) prescribed for the purposes of this section.
+(2) A—
+  (a) is not required to be registered for the financial service referred to in subsection (1)﻿(b); and
+  (b) is not prevented from holding out that A is entitled, qualified, able, or willing to be in the business of providing that financial service.
 
 ### Subpart 2 — Registration of financial service provider
 
@@ -204,7 +248,7 @@ A person is qualified to be registered as a financial service provider if—
   (a) in the case of an individual, the individual is disqualified under subsection (2); or
   (b) in the case of a person who is not an individual, the person has a controlling owner, director, or senior manager who is disqualified under subsection (2).
 (2) The following persons are disqualified:
-  (a) an undischarged bankrupt:
+  (a) an undischarged bankrupt, or a person who has a substantially similar status in a country, State, or territory outside New Zealand:
   (b) a person prohibited from being a director or promoter of, or concerned in the management of, an incorporated or unincorporated body under the Companies Act 1993, the Financial Markets Conduct Act 2013, or the Takeovers Act 1993:
   (c) a person subject to a management banning order under the Financial Markets Conduct Act 2013, the Takeovers Act 1993, or subject to an order under section 108 of the Credit Contracts and Consumer Finance Act 2003:
   (ca) a person who is prohibited from 1 or more of the following under an order made, or a notice given, under a law of a country, State, or territory outside New Zealand that is prescribed for the purposes of section 151(2)﻿(eb) of the Companies Act 1993:
@@ -212,10 +256,11 @@ A person is qualified to be registered as a financial service provider if—
     (ii) being a promoter of an overseas company:
     (iii) being concerned in or taking part in the management of an overseas company:
   (d) a person who has been convicted of an offence against section 11, 12, or 41 within the past 5 years:
+  (da) a person who, within the past year, has been deregistered, or been a director or senior manager of an entity that has been deregistered, under section 18(1)﻿(ca):
   (e) a person who has been convicted of a crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961 within the past 5 years:
-  (ea) a person who has been convicted within the past 5 years, in a country other than New Zealand, of an offence that is substantially similar to an offence specified in paragraph (e):
+  (ea) a person who has been convicted within the past 5 years, in a country, State, or territory outside New Zealand, of an offence that is substantially similar to an offence specified in paragraph (e):
   (f) a person who has been convicted of a money laundering offence or an offence relating to the financing of terrorism, whether in New Zealand or elsewhere:
-  (g) a person who is subject to a confiscation order under the Proceeds of Crime Act 1991.
+  (g) a person who is subject to a forfeiture order under the Criminal Proceeds (Recovery) Act 2009 or to a substantially similar order in a country, State, or territory outside New Zealand.
 (3) A member of a local authority must be treated as if he or she is not disqualified.
 
 **Application for registration as financial service provider**
@@ -226,6 +271,7 @@ A person is qualified to be registered as a financial service provider if—
     (i) the name and business address of the applicant:
     (ii)
     (iii) whether the application relates to a licensed service, and if so, which particular licensed service; and
+  (ab) if the applicant is applying to be registered under section 22C, state whether the applicant is engaged by a financial advice provider (B) to give regulated financial advice on B’s behalf and, if so, B’s name and business address; and
   (b) be in the form (if any) required by the Registrar; and
   (c) confirm that the applicant is not disqualified under section 14; and
   (d) contain, or be accompanied by, any other prescribed information or documents; and
@@ -268,10 +314,15 @@ The FMA may give a direction under section 15B in relation to an applicant regar
     (ii)
     (iia) the type or types of financial service for which the provider is registered:
     (iii) if the provider is a licensed provider in relation to a particular licensed service, that fact and the name and business address of the relevant licensing authority:
+    (iiia) if the provider (A) is registered under section 22C, a statement as to whether A is engaged by a financial advice provider (B) to give regulated financial advice on B’s behalf and, if so, B’s name and business address; and
     (iv) any other information prescribed in regulations; and
   (aa) notify the provider of the Registrar's decision; and
   (ab) require the provider to notify the Registrar, within 10 working days from receiving notification under paragraph (aa), of the name and business address of, and of the provider's membership number in, the approved dispute resolution scheme of which the provider is a member (if the provider is required, by section 48, to be a member of a scheme); and
   (b) allocate a due date for the provider’s annual confirmation, notify the provider of that date, and notify that date on the register.
+(1A) The Registrar may, at any time, require a person to provide prescribed information in the prescribed manner for the purpose of ascertaining whether—
+  (a) the person is in the business of providing a financial service to persons in New Zealand; or
+  (b) any other matter referred to in section 7A applies in respect of the person.
+(1B) The Registrar may treat section 18(1)﻿(b) as satisfied (and may, accordingly, deregister a provider under that paragraph) if the provider does not comply with a requirement under subsection (1A).
 (2) If the Registrar does not accept that an applicant is qualified to be registered as a financial service provider, or if directed by the FMA to reject the application, the Registrar must notify the applicant and any relevant licensing authority of the Registrar’s decision or the FMA's direction, as the case may be.
 (3) Subsection (1) does not apply if the FMA has directed the Registrar to reject the application.
 
@@ -287,11 +338,13 @@ The FMA may give a direction under section 15B in relation to an applicant regar
   (c) the person responsible for an approved dispute resolution scheme of which a financial service provider was a member, if the person knows that the provider is no longer a member of that scheme, in which case the person responsible must also notify the Registrar of the following matters:
     (i) whether that provider’s membership was terminated under section 63(1)﻿(ba); and
     (ii) whether any remedial action imposed on that provider by the scheme has not been carried out; and
-    (iii) whether there is any unresolved complaint about that provider.
+    (iii) whether there is any unresolved complaint about that provider:
+  (d) a financial advice provider, if the provider engages a financial adviser:
+  (e) a financial advice provider that is recorded on the register as having engaged a financial adviser, if the financial adviser is no longer engaged by the provider.
 (1A) To avoid doubt, the notification obligations in subsection (1)﻿(c) apply in relation to an approved dispute resolution scheme or a reserve scheme that has been discontinued (whether as a result of approval being withdrawn or for any other reason).
 (2) The time within which a person must notify the Registrar under subsection (1) is 10 working days from the date the person comes to know about the change or, in the case of an approved dispute resolution scheme or a reserve scheme that has been discontinued, within 10 working days of that discontinuance.
 (3) A financial service provider who breaches subsection (1)﻿(a) commits an offence and is liable on conviction to a fine not exceeding $10,000.
-(4) A person who breaches subsection (1)﻿(c) commits an offence and is liable on conviction to a fine not exceeding $10,000.
+(4) A person who breaches subsection (1)﻿(c), (d), or (e) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 **Deregistration of financial service provider**
 
@@ -300,12 +353,23 @@ The FMA may give a direction under section 15B in relation to an applicant regar
   (a) is no longer qualified to be registered in accordance with section 13; or
   (aa) has failed to notify the Registrar of the name, business address, and membership number, as required by section 16(1)﻿(ab); or
   (ab) is required by section 48 to be a member of an approved dispute resolution scheme but is not a member of any such scheme as required; or
-  (b) is not in the business of providing a financial service (at any time after the expiry of 3 months after registration); or
-  (c) has been registered because of a false or misleading representation or omission; or
+  (b) at any time after the expiry of 3 months after registration, is not in the business of providing a financial service or is otherwise no longer required to be registered under section 11; or
+  (c) has made a representation to the Registrar or the FMA that is false or misleading in any material particular in connection with obtaining or maintaining its registration under this Act or any other matter relating to this Act (for example, false information about the extent to which the person is in the business of providing a financial service); or
+  (ca) has failed to comply with a duty provided for under regulations made under section 44(1)﻿(bb) and (bc) or has otherwise failed to provide any material information that it is required to provide by or under this Act, and the Registrar is satisfied that the failure is serious after having regard to the matters set out in subsection (1AB); or
   (d) has proffered an application fee or annual confirmation fee or levy that has subsequently been dishonoured, declined, or reversed.
 (1AA) Subsection (1)﻿(ab) does not apply in respect of any time before the end of the period of 10 working days referred to in section 16(1)﻿(ab).
+(1AB) In considering whether a failure is serious under subsection (1)﻿(ca), the Registrar—
+  (a) must have regard to—
+    (i) the nature and extent of the failure; and
+    (ii) the circumstances in which the failure occurred; and
+    (iii) whether the provider has previously failed to comply with the duty referred to in that paragraph or has otherwise previously failed to provide any material information that it is required to provide by or under this Act; and
+  (b) may have regard to any other matters that the Registrar thinks relevant.
 (1A) The Registrar may, if the Registrar considers it necessary or desirable after taking into account section 18A, refer consideration of whether a financial service provider should be deregistered to the FMA for the FMA's direction.
-(1B) The Registrar must deregister a financial service provider if the FMA gives a direction under section 18B(3)﻿(c)﻿(i).
+(1B) The Registrar must deregister a financial service provider if—
+  (a) the FMA gives a direction under section 18B(3)﻿(c)﻿(i); or
+  (b) the FMA gives a direction under section 469(2)﻿(a) or (b) of the Financial Markets Conduct Act 2013; or
+  (c) the disciplinary committee gives a direction under clause 46(3)﻿(a) or (b) of Schedule 5 of the Financial Markets Conduct Act 2013.
+(1C) Deregistration under subsection (1B)﻿(c) relates only to the provider’s registration for a financial advice service.
 (2) The Registrar must deregister a financial service provider if the provider so requests in writing, with effect from any future date requested. The Registrar must notify any relevant licensing authority of this deregistration.
 (3) For the purposes of this section and sections 19 and 20, notice period means 20 working days from the date of the Registrar’s notification under section 19.
 
@@ -350,24 +414,71 @@ The FMA may give a direction under section 18B in relation to a person regardles
 ### 20 Objection to proposed deregistration of financial service provider
 (1) During the notice period, the financial service provider may object (with reasons) to the proposed deregistration under section 18(1).
 (2) If the Registrar receives an objection under subsection (1) within the notice period, the Registrar must consider the objection and must not proceed with a deregistration under section 18(1), unless the Registrar is satisfied that any of paragraphs (a) to (d) of section 18(1) applies.
+(3) In the case of section 16(1B), the only valid objection to the proposed deregistration is that the provider complied with the requirement under section 16(1A).
 
 ### 21 Notification of deregistration of financial service provider
-If the Registrar deregisters a financial service provider, the Registrar must notify—
+(1) If the Registrar deregisters a financial service provider, the Registrar must notify—
   (a) the financial service provider, stating the provider’s right of appeal to the High Court against the deregistration under section 42; and
   (b) any relevant licensing authority; and
   (c) the public, by a notice that is publicly available on an Internet site (at all reasonable times) for not less than 20 working days.
+(2) In the case of a deregistration in accordance with a direction referred to in section 18(1B)﻿(b) or (c), the notice under subsection (1)﻿(a) must refer to an appeal under subpart 9 of Part 8 of the Financial Markets Conduct Act 2013 (rather than an appeal under section 42).
 
 **Reregistration of financial service provider**
 
 ### 22 Reregistration of financial service provider
 (1) The Registrar may reregister a financial service provider who was deregistered—
-  (a) on the grounds set out in section 18(1)﻿(b) if the Registrar is satisfied that the financial service provider was still in the business of providing a financial service at the time of deregistration; or
+  (a) on the grounds set out in section 18(1)﻿(b) if the Registrar is satisfied that, at the time of deregistration, the financial service provider was in the business of providing a financial service and was required to be registered under section 11; or
   (b) on the grounds set out in section 18(1)﻿(d) if the Registrar is satisfied that the application fee or annual confirmation fee or levy has been paid.
 (2) A reregistration is effective from the date of deregistration as if the deregistration had not occurred.
 (3) If the Registrar reregisters a financial service provider, the Registrar must notify—
   (a) the financial service provider; and
   (b) any relevant licensing authority; and
   (c) the public, by a notice that is publicly available on an Internet site (at all reasonable times) for not less than 20 working days.
+(4) A financial service provider may not apply to be reregistered under this section after the date that is 60 days after the date of deregistration.
+(5) This section does not prevent a person from making a new application for registration under section 15.
+
+### 22A Registrar must not reregister financial adviser if direction has been made
+The Registrar must not reregister a person (A) in respect of a financial advice service during a period if the Registrar has received a direction under section 469(2)﻿(b)﻿(ii) or clause 46(3)﻿(b)﻿(ii) of Schedule 5 of the Financial Markets Conduct Act 2013 to prevent A from being reregistered during that period.
+
+**Suspension of registration**
+
+### 22B Suspension of registration
+(1) The Registrar must suspend the registration of a person (A) if the Registrar has received a direction under section 469(2)﻿(c) or clause 46(3)﻿(c) of Schedule 5 of the Financial Markets Conduct Act 2013.
+(2) The suspension is in effect—
+  (a) for the period specified in the direction; or
+  (b) until A meets the conditions specified in the direction (but, in any case, not for a period of more than 12 months).
+(3) A person whose registration is suspended is taken not to have that registration while it is suspended.
+(4) However, the FMA or the disciplinary committee may specify in the direction that subsection (3) does not apply for specified purposes.
+
+**Registration of financial advisers**
+
+### 22C Registration of financial advisers
+(1) An individual (A) who is not disqualified under section 14 may be registered as a financial service provider for financial advice services provided to retail clients even though A is not in the business of providing that service.ExampleSusan is employed by ABC Limited (ABC) to give regulated financial advice to ABC’s retail clients. ABC is required to be licensed under section 388(ba) of the Financial Markets Conduct Act 2013 and registered under this Act. Under section 431D of that Act, ABC is the entity that is providing the financial advice service. Susan is not providing the service because she is not in business and is only giving the advice on behalf of ABC to ABC’s clients.However, under the conditions of ABC’s market service licence, the type of service that Susan gives may not be given by a nominated representative. That type of service can be given only by a financial adviser (that is, a person who is registered under this Act). Subsection (1) allows Susan to register even though, as an employee, she is not in the business of providing a financial advice service.
+(2) Sections 15 to 16 apply with all necessary modifications for the purposes of registration under this section.
+(3) If A becomes registered under this section, this Act (and the rules of an approved dispute resolution scheme) apply with all necessary modifications to A as if A were in the business of providing a financial advice service and A were registered under section 16.
+(4) However,—
+  (a) A may not be deregistered in respect of the financial advice service under section 18(1)﻿(b) on the basis that A is no longer required to be registered under section 11; and
+  (b) section 18(1)﻿(b) applies to A in respect of that service only if—
+    (i) A is treated as being no longer in the business of providing a financial advice service under section 22D; or
+    (ii) A does not comply with section 28(1) by the due date (see section 28(3)); or
+    (iii) section 37(6) applies to A.
+(5) For the purposes of Part 3, A must be treated as providing a financial advice service to a client (C) if—
+  (a) A is engaged by a financial advice provider to give regulated financial advice on the provider’s behalf; and
+  (b) C is a client of that provider; and
+  (c) A gives financial advice to C.
+(6) See section 48A, which provides for when financial advisers are exempt from being members of an approved dispute resolution scheme.
+(7) In this section and section 22D, retail client has the same meaning as in clause 3 of Schedule 5 of the Financial Markets Conduct Act 2013.
+
+### 22D Financial adviser may be deregistered if not engaged by provider for extended period
+(1) This section applies if the Registrar is satisfied that—
+  (a) an individual (A) is registered under section 22C; but
+  (b) for a continuous period of at least 3 months (or a longer period that applies under subsection (4)), A has not been engaged by any financial advice provider to give regulated financial advice to retail clients on the provider’s behalf.
+(2) A must be treated as being no longer in the business of providing a financial advice service (and, accordingly, must be deregistered for that service under section 18(1)﻿(b)).
+(3) Any period before A is registered under section 22C must be disregarded for the purposes of this section.
+(4) The regulations may provide—
+  (a) that, in 1 or more types of circumstances specified in the regulations, a period longer than 3 months applies under subsection (1)﻿(b) (instead of the 3-month period):
+  (b) that the period that applies in particular circumstances is a period specified in the regulations or is a period determined on a case-by-case basis by the Registrar:
+  (c) for how the Registrar determines the period that applies.
 
 **Responsible financial service provider**
 
@@ -397,7 +508,8 @@ The purposes of the register are—
       (B) the approved dispute resolution scheme of which a registered financial service provider is a member (if required by section 48); and
       (BA) the type or types of financial service for which a financial service provider is registered; and
       (C) whether a registered financial service provider provides a licensed service; and
-  (b) to assist any person in the exercise of the person’s powers or the performance of the person’s functions under this Act or any other enactment; and
+  (ab) to enable the public to otherwise access information to assist members of the public to make decisions relating to the provision of financial services; and
+  (b) to assist any person in the exercise of the person’s powers or the performance of the person’s functions or duties under this Act or any other enactment; and
   (c) to conform with New Zealand’s obligations under the FATF Recommendations.
 
 ### 27 Contents of register
@@ -408,6 +520,7 @@ The purposes of the register are—
   (c) in relation to a licensed provider,—
     (i) the relevant licensed service:
     (ii) the name and business address of the relevant licensing authority:
+  (ca) if the provider (A) is registered under section 22C, a statement as to whether A is engaged by a financial advice provider (B) to give regulated financial advice on B’s behalf and, if so, B’s name and business address:
   (d) any other information prescribed in regulations.
 (2) In addition to the information referred to in subsection (1), the Registrar may, if the Registrar thinks it is appropriate, insert a note of warning in the register in relation to a registered person if—
   (a) a request for information has been made by the Registrar under this Act in relation to that person; or
@@ -427,6 +540,7 @@ The Registrar must amend the register if—
   (a) an annual confirmation contains information that is different from the information entered on the register (where the Registrar is satisfied that the situations described in section 18(1) do not apply); or
   (b) a financial service provider informs the Registrar of information that is different from the information entered on the register (where the Registrar is satisfied that the situations described in section 18(1) do not apply); or
   (c) a licensing authority informs the Registrar that a registered financial service provider has become a licensed provider in relation to a particular licensed service; or
+  (ca) a financial advice provider notifies the Registrar of a change under section 17(1)﻿(d) or (e); or
   (d) the Registrar is satisfied at any time that the register contains a typographical error or a mistake, or omits information supplied to the Registrar; or
   (e) regulations made under this Act require the Registrar to do so in circumstances specified by the regulations.
 
@@ -458,10 +572,13 @@ A person who searches a public register for personal information for a purpose t
 (2) The Registrar may use any information communicated to the Registrar by a person or body referred to in subsection (4) in the Registrar’s exercise of the Registrar’s powers or the performance of the Registrar’s functions and duties.
 (3) This section applies despite anything to the contrary in any enactment, contract, deed, or document.
 (4) The persons or bodies to which this section applies are—
-  (a) a licensing authority identified in Schedule 2:
+  (a) the Financial Markets Authority:
+  (ab) the Reserve Bank of New Zealand:
+  (ac) any other licensing authority identified in Schedule 2:
   (b) the New Zealand Police:
   (c) the person responsible for an approved dispute resolution scheme:
   (d) the Commerce Commission:
+  (da) the disciplinary committee:
   (e) a prescribed agency that carries out supervisory or enforcement functions relating to money laundering or terrorist financing:
   (f) a prescribed overseas agency that is the equivalent of the Registrar or of a body referred to in paragraphs (a) to (c), but only where there is a written agreement between the overseas agency and the Minister about sharing the information.
 
@@ -485,6 +602,7 @@ A person who searches a public register for personal information for a purpose t
 
 ### 37 Registrar’s inspection powers
 (1) The Registrar, or a person authorised by the Registrar, may take any of the steps listed in subsection (2) for the purpose of ascertaining whether a person—
+  (aaa) provides a financial service to persons in New Zealand as referred to in section 7A(1)﻿(a); or
   (a) is in the business of providing a financial service in breach of section 11; or
   (b) is holding out or has held out that the person is in the business of providing a financial service in breach of section 12; or
   (c) is qualified or has been qualified to be registered in accordance with section 13; or
@@ -504,10 +622,13 @@ A person who searches a public register for personal information for a purpose t
     (iii) whether the confirmation or correction must be verified by the production of original documents or certified copies of original documents or by a statutory declaration:
   (b) inspecting and taking copies of relevant documents:
   (c) taking possession of relevant documents and retaining them for a reasonable time for the purpose of taking copies.
+(2A) The Registrar, or a person authorised by the Registrar, may, under subsection (1), require a person (A) to do either or both of the following under subsection (2)﻿(a) or (ab) (without limiting subsection (1) or (2)):ExampleA is a director of ABC Limited.A may be required to produce a document relating to ABC Limited’s business or to confirm information provided by ABC Limited.
+  (a) produce a relevant document relating to another person; or
+  (b) confirm that information provided by another person is correct, or correct that information, if A is reasonably able to give that confirmation or to make that correction.
 (3) Any person who exercises powers under subsection (1) must make his or her authorisation from the Registrar available on request.
 (4) Nothing in this section limits or affects the Tax Administration Act 1994 or the Statistics Act 1975.
 (5) A person must not obstruct or hinder the exercise of a power conferred by subsection (1).
-(6) If a registered financial service provider does not comply with a requirement under subsection (2)﻿(a) to (ab) (including compliance with the specifications in subsection (2)﻿(ac)) within 20 working days from the date the requirement was notified to the provider, the Registrar may assume that the provider is no longer in the business of providing a financial service and sections 18 to 20 apply.
+(6) If a registered financial service provider, or a director of such a provider, does not comply with a requirement made under subsection (2)﻿(a) or (ab) in relation to the provider (including compliance with the specifications in subsection (2)﻿(ac)) within 20 working days from the date the requirement was notified to the provider or director, the Registrar may assume that the provider is no longer in the business of providing a financial service and sections 18 to 20 apply.
 (7) A person who knowingly fails to comply with a requirement under subsection (2) commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $30,000:
   (b) in the case of a person who is not an individual, to a fine not exceeding $300,000.
@@ -515,6 +636,7 @@ A person who searches a public register for personal information for a purpose t
   (a) in the case of an individual, to a fine not exceeding $30,000:
   (b) in the case of a person who is not an individual, to a fine not exceeding $300,000.
 (9) In this section, relevant document means a document that contains information relating to whether a person—
+  (aaa) provides a financial service to persons in New Zealand as referred to in section 7A(1)﻿(a); or
   (a) is in the business of providing a financial service or a particular financial service; or
   (b) is holding out or has held out that the person is in the business of providing a financial service in breach of section 12; or
   (c) is qualified or has been qualified to be registered in accordance with section 13; or
@@ -559,10 +681,11 @@ If any financial service provider that is not an individual commits an offence a
   (b) in the case of a person who is not an individual, to a fine not exceeding $300,000.
 
 ### 42 Appeals from Registrar’s decisions and FMA directions
-(1) A financial service provider who is not satisfied with any of the following decisions of the Registrar may appeal to the High Court:
-  (a) not registering an applicant as a financial service provider under section 16:
-  (b) a deregistration under section 18:
-  (c) a decision of the Registrar or a person authorised by the Registrar under section 37.
+(1) A person (A) who is not satisfied with any of the following decisions of the Registrar may appeal to the High Court:
+  (a) a decision not to register A as a financial service provider under section 16 or 22C:
+  (b) a decision to deregister A under section 18:
+  (c) a decision of the Registrar or a person authorised by the Registrar under section 37 to require A to do something.
+(1AA) This section does not apply to a decision that may be appealed under subpart 9 of Part 8 of the Financial Markets Conduct Act 2013.
 (1A) A financial service provider who is not satisfied with any direction given by the FMA under section 15B or 18B may appeal to the High Court.
 (2) The time within which an appeal under subsection (1) may be made is 20 working days after the date of notification of the decision or direction, or within any further time that the court allows.
 (3) On appeal, the court may do any of the following:
@@ -619,6 +742,18 @@ Unless the High Court orders otherwise, a decision or direction appealed against
   (b) authorise the Registrar to refund or waive, in whole or in part and on any prescribed conditions, payment of a fee in relation to any person or class of persons.
 (5) Any fee or amount payable to the Registrar is recoverable by the Registrar in any court of competent jurisdiction as a debt due to the Registrar.
 
+### 44A Who financial adviser is treated as engaged by when engaged indirectly
+(1) For the purposes of this Act, if a person (A) is engaged to give financial advice by a person (B) indirectly through an interposed person (C) (as described in section 431E(b) of the Financial Markets Conduct Act 2013), A must be treated as engaged by—
+  (a) both B and C, if both B and C are required to be registered under this Act for a financial advice service; or
+  (b) B (and not C), in any other case.
+(2) In this section, required to be registered means required to be registered—
+  (a) by this Act; or
+  (b) by or under any other enactment (including under a licence condition).
+
+### 44B FMA acts as licensing authority in relation to operators of financial product markets
+(1) This section applies in relation to a person that operates a financial product market that is licensed under Part 5 of the Financial Markets Conduct Act 2013.
+(2) The references to a licensing authority in sections 15 to 22, 27, and 29 must be treated as references to the FMA.
+
 **Review and report on operation of this Part**
 
 ### 45 Ministry must review and report on operation of this Part
@@ -644,23 +779,26 @@ The purpose of this Part is to promote confidence in financial service providers
 (3) However, this obligation does not apply to—
   (a) a financial service provider in relation to providing a financial service referred to in section 5(1)﻿(i) or (ia)﻿(i) if providing that service is not the provider's only or principal business; or
   (b) a financial service provider in relation to the financial service of operating a financial product market (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013); or
+  (ba) an individual who is exempted from the obligation by section 48A; or
   (c) a financial service provider (whether generally or in respect of a particular financial service or class of financial service) if it is exempted from the obligation by or under any other Act or by regulations made under section 79.
+
+### 48A When financial adviser is exempt from being member
+(1) An individual who is registered under section 22C (A) and who is engaged by a financial advice provider (B) to give regulated financial advice on B’s behalf is exempt from the obligation under section 48 to be a member of an approved dispute resolution scheme if B is a member of an approved dispute resolution scheme.
+(2) The exemption applies to the extent that A’s obligation to be a member of an approved dispute resolution scheme arises only because of the regulated financial advice given by A on B’s behalf (or on behalf of any other financial advice provider that is a member of an approved dispute resolution scheme).
 
 ### 49 Who are retail clients
 (1) A retail client is any person who receives a financial service who is not a wholesale client.
 (2) The following persons who receive a financial service are wholesale clients in respect of that financial service:
   (a) a person who is in the business of providing any financial service and receives the financial service in the course of that business:
   (b)
-  (c) an entity to which at least 1 of the following applied at the end of each of the last 2 completed accounting periods:
-    (i) at the balance date, the net assets of the entity exceeded $1 million:
-    (ii) the turnover of the entity for the accounting period exceeded $1 million:
-  (d) a related body corporate (within the meaning of section 12(2) of the Financial Markets Conduct Act 2013) of an entity to which paragraph (c) applies:
+  (c)
+  (d)
   (e) a person who is a wholesale investor (within the meaning of clause 3(2) of Schedule 1 of the Financial Markets Conduct Act 2013, except that the relevant time for the purpose of applying that schedule under this paragraph must be treated as the time immediately before the service is received by the client):
   (f) a person who is, in relation to an offer of financial products, a wholesale investor (within the meaning of clause 3 of Schedule 1 of the Financial Markets Conduct Act 2013), if the service relates to that offer or to financial products that have been acquired by that person under that offer:
   (fa) a person who is, in relation to an offer of financial products, a close business associate of the offeror (within the meaning of clause 4 of Schedule 1 of the Financial Markets Conduct Act 2013), if the service relates to that offer or to financial products that have been acquired by that person under that offer:
   (fb) a person who is, in relation to an offer of financial products, a relative of the offeror or of a director of the offeror (within the meaning of clause 5 of Schedule 1 of the Financial Markets Conduct Act 2013), if the service relates to that offer or to financial products that have been acquired by that person under that offer:
   (g) an eligible investor under section 49A:
-  (h) if the financial service is a financial adviser service or a broking service, a person who is a wholesale client in respect of that service under the Financial Advisers Act 2008.
+  (h) if the financial service is a financial advice service or a regulated client money or property service, a person who is a wholesale client in respect of that service under clause 4 of Schedule 5 of the Financial Markets Conduct Act 2013.
 (3) If subsection (2) applies to a person (A), it applies equally to any controlling owner, director, employee, agent, or other person acting in the course of, and for the purposes of, A's business to the same extent as it applies to A.
 (4) In this section,—
   - **entity** —
@@ -899,15 +1037,21 @@ The person responsible for an approved dispute resolution scheme must notify the
   (b) advises the person responsible for the scheme that a period of more than 45 working days is required to consider the change (in which case, the Minister must specify the time within which he or she will comply with subsection (1)).
 
 ### 67 Duty to co-operate and communicate information in certain circumstances
-(1) The person responsible for an approved dispute resolution scheme must—
-  (a) co-operate with other approved dispute resolution schemes if a complaint involves members of those other schemes (disclosing personal information in accordance with the Privacy Act 2020 and protecting information that is subject to an obligation of confidence); and
+(1) The person responsible for an approved dispute resolution scheme (A) must—
+  (a) co-operate with other approved dispute resolution schemes if a complaint involves members of those other schemes (for example, by disclosing personal information in accordance with the Privacy Act 1993 and protecting information that is subject to an obligation of confidence); and
   (b) co-operate with the Registrar, including by communicating information to the Registrar in accordance with sections 17 and 34; and
-  (c) if there is a series of material complaints about a particular licensed provider or class of licensed provider, communicate that fact to the relevant licensing authority; and
-  (ca) if there is a series of material complaints about a particular creditor under a consumer credit contract or class of such creditors, communicate that fact to the Commerce Commission; and
-  (d) if there is a series of material complaints about a particular broker or class of broker, communicate that fact to the FMA.
-(2) In subsection (1)﻿(ca), consumer credit contract—
-  (a) has the same meaning as in section 11 of the Credit Contracts and Consumer Finance Act 2003; and
-  (b) includes a credit contract to which Part 3A of that Act applies.
+  (c) if A has reasonable grounds to believe that a member that is a registered bank, a licensed insurer, or a licensed NBDT has contravened or is likely to contravene any of the following Acts in a material respect, communicate that fact to the Reserve Bank:
+    (i) the Reserve Bank of New Zealand Act 1989:
+    (ii) the Insurance (Prudential Supervision) Act 2010:
+    (iii) the Non-bank Deposit Takers Act 2013; and
+  (d) if A has reasonable grounds to believe that a member that is a financial markets participant has contravened or is likely to contravene any financial markets legislation in a material respect, communicate that fact to the FMA; and
+  (e) if A has reasonable grounds to believe that a member that is a creditor under a consumer credit contract has contravened or is likely to contravene the Credit Contracts and Consumer Finance Act 2003 in a material respect, communicate that fact to the Commerce Commission; and
+  (f) otherwise provide information to a prescribed person in the prescribed manner if required to do so by regulations made under this Act.
+(2) In this section,—
+  - **consumer credit contract** —
+    (a) has the same meaning as in section 11 of the Credit Contracts and Consumer Finance Act 2003; and
+    (b) includes a credit contract to which Part 3A of that Act applies
+  - **financial markets participant** has the same meaning as in section 4 of the Financial Markets Authority Act 2011.
 
 **Annual reports and information requests by Minister**
 
@@ -1068,8 +1212,8 @@ The enactment specified in Schedule 1 is amended in the manner indicated in that
 ### 3 Person may apply for registration for financial advice service before commencement
 (1) A person may—
   (a) apply to be registered under Part 2 of this Act for a service referred to in section 5(1)﻿(a) (as replaced by section 63 of the Financial Services Legislation Amendment Act 2019) before the commencement of that section 63; and
-  (b) [not yet in force]
-  (c) [not yet in force]
+  (b) apply to be registered under section 22C (as inserted by section 81 of the Financial Services Legislation Amendment Act 2019) before the commencement of that section 81; and
+  (c) notify, under section 17, changes relating to a financial service provider that are connected with section 5(1)﻿(a) or 22C being replaced or inserted by section 63 or 81 of the Financial Services Legislation Amendment Act 2019, before those provisions come into force.
 (2) For the purposes of dealing with the application or notification, sections 63 and 81 of the Financial Services Legislation Amendment Act 2019, and any other provisions of that Act that are relevant to the matter that are not yet in force, must be treated as if they were in force.
 (3) However, a registration or change in registration under this clause does not take effect before the commencement of section 63 or 81 of the Financial Services Legislation Amendment Act 2019 (as the case may be).
 
@@ -1082,7 +1226,7 @@ The enactment specified in Schedule 1 is amended in the manner indicated in that
 
 | Licensing authority | Licensed provider | Enactment |
 | --- | --- | --- |
-| Financial Markets Authority | Authorised financial advisers and qualifying financial entities | Financial Advisers Act 2008 |
+| The Minister (within the meaning of the Financial Markets Conduct Act 2013) | Persons that operate a financial product market that is licensed under Part 5 of the Financial Markets Conduct Act 2013 | Financial Markets Conduct Act 2013 |
 | Reserve Bank of New Zealand | Registered banks | Reserve Bank of New Zealand Act 1989 |
 | Financial Markets Authority | Licensed supervisors in respect of debt securities and managed investment schemes | Financial Markets Supervisors Act 2011 |
 | Reserve Bank of New Zealand | Licensed insurers | Insurance (Prudential Supervision) Act 2010 |
