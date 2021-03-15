@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2021-01-01_
+_Consolidation as at 2021-03-15_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -1542,6 +1542,17 @@ No action may be brought against the Crown or the Registrar for any loss or dama
   (f) specify criteria, and requirements for registration, that a person must satisfy to participate in an auction:
   (g) specify financial processes that a person must follow when participating in an auction, including requirements for financial assurance, payment, and delivery:
   (h) provide for the results of each auction to be made publicly available.
+(2A) If regulations are to be made under this section,—
+  (a) the Minister may, after considering the main matters and additional matters in section 30GC(5) and (6) of the Act, recommend the making of regulations that provide for the Minister to set a methodology that the person who conducts an auction must use to calculate a minimum price that,—
+    (i) if the price is greater than the lowest trigger price prescribed under section 30GB(2)﻿(e)﻿(ii), must be recalculated as that trigger price (despite the initial calculation); and
+    (ii) if the price (as recalculated or, if not, as initially calculated) is greater than the minimum price prescribed under section 30GB(2)﻿(e)﻿(iii), becomes the confidential reserve price below which New Zealand units must not be sold at the auction; and
+  (b) the Minister must, if recommending the making of regulations under paragraph (a), also recommend that the regulations—
+    (i) specify criteria or requirements for the Minister’s decision to set the methodology, including a requirement to ensure that the methodology promotes the purpose of confidential reserve prices; and
+    (ii) specify that the purpose of confidential reserve prices is to prevent sales by auction under section 6A at prices significantly below the prices of New Zealand units sold at the time in other ways (on secondary markets) so that the sales by auction do not unduly affect secondary markets; and
+    (iii) require the methodology and any calculated prices to be kept confidential so that they are not disclosed to any potential buyer who participates in an auction; and
+    (iv) require the auction operator to provide the following information to the chief executive at a specified time after 1 or more auctions:
+      (A) details of the calculation of the price or prices using the methodology; and
+      (B) details of the auction bids in a form that does not identify any bidder, so that the chief executive can assess how any confidential reserve prices are working.
 (3) If regulations are to be made under this section, the Minister may recommend the making of regulations for any or all of the following purposes:
   (a) providing for pilot auctions to be conducted, whether before or after the date on which auctions commence:
   (b) prescribing offences and penalties for the breach of regulations made under this section or section 30GD:
@@ -1575,7 +1586,7 @@ No action may be brought against the Crown or the Registrar for any loss or dama
   (e) prescribe the following price control settings:
     (i) the reserve amount of New Zealand units for each trigger price, which may be a single reserve amount of zero:
     (ii) the 1 or more trigger prices, unless the reserve amount is zero:
-    (iii) the minimum price at which units may be sold by auction, which may be zero.
+    (iii) the minimum price below which units must not be sold by auction, which may be zero.
 (3) The Minister must recommend the making of regulations under this section so that,—
   (a) when the regulations are first made, they prescribe limits and price control settings for each of the next 5 or 6 calendar years; and
   (b) the regulations are amended to ensure that, at all times, they prescribe limits and price control settings for each of the next 5 calendar years.
