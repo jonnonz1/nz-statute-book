@@ -1,5 +1,5 @@
 # Financial Advisers Act 2008
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-03-15_
 
 ### 1 Title
 This Act is the Financial Advisers Act 2008.
@@ -1877,7 +1877,7 @@ A temporary banning order may prohibit or restrict a person from doing all or an
   (a) the FMA to—
     (i) decline authorisation under section 55(4); or
     (ii) decline QFE status under section 67(4); or
-    (iii) take any action referred to in section 59(2) or 71(2); or
+    (iii) take any action referred to in section 59(2) or 75D(2); or
     (iv) give a direction under section 49, 61, 75F, or 77V; or
   (b) the disciplinary committee to take any action referred to in section 101(3) or (5).
 (2) An appeal—
