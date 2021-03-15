@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-03-15_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -875,7 +875,7 @@ An AML/CFT supervisor that has, in the performance and exercise of its functions
   (a) law enforcement purposes:
   (b) the detection, investigation, and prosecution of any offence under the following Acts:
     (i) the Companies Act 1993:
-    (ii) the Financial Advisers Act 2008:
+    (ii)
     (iii) the Financial Service Providers (Registration and Dispute Resolution) Act 2008:
     (iv) the Gambling Act 2003:
     (v) the Reserve Bank of New Zealand Act 1989:
@@ -1570,7 +1570,7 @@ In this subpart, unless the context otherwise requires,—
   (d) for TAB NZ, casinos, non-deposit-taking lenders, money changers, and other reporting entities that are not covered by paragraphs (a) to (c), the Department of Internal Affairs is the relevant AML/CFT supervisor.
 (1A) For the purposes of subsection (1)﻿(b), the persons are any of the following:
   (a) persons registered, or required to be registered, under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 by virtue of providing any of the services referred to in—
-    (i) section 5(1)﻿(a), (ab), (d), or (i) to (id) of that Act; or
+    (i) section 5(1)﻿(a), (ab), (d), (i) to (id), and (ma) of that Act; or
     (ii) section 5(1)﻿(k) of that Act (but only to the extent that it relates to the service of trading in financial products on behalf of other persons):
   (b) statutory supervisors within the meaning of section 5 of the Retirement Villages Act 2003.
 (2) If the products or services provided by a particular reporting entity are covered by more than 1 AML/CFT supervisor,—
@@ -1650,8 +1650,8 @@ The functions of an AML/CFT supervisor are to—
 (1) This section applies to information other than personal information.
 (2) The Reserve Bank may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the Reserve Bank of New Zealand Act 1989, the Insurance (Prudential Supervision) Act 2010, and the Non-bank Deposit Takers Act 2013 for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
 (3) The Reserve Bank may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the Reserve Bank of New Zealand Act 1989, the Insurance (Prudential Supervision) Act 2010, and the Non-bank Deposit Takers Act 2013.
-(4) The Financial Markets Authority may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the Financial Markets Authority Act 2011, the Financial Markets Conduct Act 2013, and the Financial Advisers Act 2008 for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
-(5) The Financial Markets Authority may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the Financial Markets Authority Act 2011, the Financial Markets Conduct Act 2013, and the Financial Advisers Act 2008.
+(4) The Financial Markets Authority may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the Financial Markets Authority Act 2011 and the Financial Markets Conduct Act 2013 for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
+(5) The Financial Markets Authority may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the Financial Markets Authority Act 2011 and the Financial Markets Conduct Act 2013.
 (6) The Department of Internal Affairs may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the Gambling Act 2003, the Racing Industry Act 2020, and the Charities Act 2005 for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
 (7) The Department of Internal Affairs may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the Gambling Act 2003, the Racing Industry Act 2020, and the Charities Act 2005.
 
@@ -1679,7 +1679,7 @@ An AML/CFT supervisor may only use information obtained under section 137 if the
   (b) the Companies Act 1993:
   (c) the Customs and Excise Act 2018:
   (d) the Customs and Excise Act 1996:
-  (e) the Financial Advisers Act 2008:
+  (e)
   (f) the Financial Markets Authority Act 2011:
   (g) the Financial Markets Conduct Act 2013:
   (h) Parts 1 to 7 of the Intelligence and Security Act 2017:
