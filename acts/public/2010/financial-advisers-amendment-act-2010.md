@@ -1,5 +1,5 @@
 # Financial Advisers Amendment Act 2010
-_Consolidation as at 2010-07-05_
+_Consolidation as at 2021-03-15_
 
 ### 1 Title
 This Act is the Financial Advisers Amendment Act 2010.
@@ -33,11 +33,11 @@ Section 2 is amended by adding the following subsection:
 
 ### 7 Overview of Act
 (1) Section 4 is amended by omitting 5 Parts and inserting 6 Parts.
-(2) Section 4 is amended by inserting the following paragraph after paragraph (c):.
+(2) Section 4 is amended by inserting the following paragraph after paragraph (c):
   (ca) Part 3A (Brokers' disclosure and conduct obligations):
 
 ### 8 Interpretation
-(1) Section 5 is amended by inserting the following definitions in their appropriate alphabetical order:.
+(1) Section 5 is amended by inserting the following definitions in their appropriate alphabetical order:
   - **acting through** has the meaning set out in section 5I(2)
   - **approved rating agency** means a rating agency nominated or approved under the Reserve Bank of New Zealand Act 1989 or section 17 of the Insurance Companies (Ratings and Inspections) Act 1994
   - **associated entity** , in relation to a QFE, means an entity that, under an approval given under section 67(4) or 71, is an associated entity of that QFE
@@ -99,7 +99,7 @@ Section 2 is amended by adding the following subsection:
     (c) holding office as the chief executive of a Crown organisation
   - **trustee corporation** means Public Trust, the Māori Trustee, or any corporation authorised by an Act to administer the estates of deceased persons and other trust estates (and any wholly owned subsidiary of that corporation that is guaranteed by the corporation)
   - **wholesale client** has the meaning set out in section 5C
-(2) Section 5 is amended by repealing the definitions of advertisement, approved dispute resolution scheme, call debt security, category 1 product, category 2 product, client, conduct obligation, disclosure obligation, entity, financial adviser service, qualifying financial entity, registered, and security and inserting the following definitions in their appropriate alphabetical order:.
+(2) Section 5 is amended by repealing the definitions of advertisement, approved dispute resolution scheme, call debt security, category 1 product, category 2 product, client, conduct obligation, disclosure obligation, entity, financial adviser service, qualifying financial entity, registered, and security and inserting the following definitions in their appropriate alphabetical order:
   - **advertisement** means a form of communication that is to be, or has been, distributed to a person and—
     (a) in relation to a financial adviser service,—
       (i) refers to a financial adviser or financial adviser service or is reasonably likely to induce persons to seek a financial adviser service; and
@@ -144,7 +144,7 @@ Section 2 is amended by adding the following subsection:
     (a) includes a body corporate and an unincorporated body (including partners in a partnership, members of a joint venture, or the trustees of a trust) and the sole trustee of a trust acting in his, her, or its capacity as trustee of that trust; but
     (b) does not include an individual
   - **financial adviser service** has the meaning set out in section 9
-  - **QFE** or means an entity described in section 63(1)(a) or a number of partner entities described in section 63(1)(b)
+  - **QFE** or means an entity described in section 63(1)﻿(a) or a number of partner entities described in section 63(1)﻿(b)
   - **registered** means registered under the FSP Act in respect of a financial adviser service, and has a corresponding meaning
   - **security** —
     (a) means—
@@ -175,7 +175,7 @@ The following sections are inserted after section 5:Who are clientsWho are retai
       (i) at the balance date, the net assets of the entity exceeded $1 million:
       (ii) the turnover of the entity for the accounting period exceeded $1 million:
     (e) a related body corporate of an entity to which paragraph (d) applies:
-    (f) a local authority, a Crown entity, a State enterprise, the Reserve Bank of New Zealand, and the National Provident Fund (and a company appointed under clause 3(1)(b) of Schedule 4 of the National Provident Fund Restructuring Act 1990):
+    (f) a local authority, a Crown entity, a State enterprise, the Reserve Bank of New Zealand, and the National Provident Fund (and a company appointed under clause 3(1)﻿(b) of Schedule 4 of the National Provident Fund Restructuring Act 1990):
     (g) a person who falls within 1 or more of the categories listed in section 3(2), 5(2CB), or 5(2CBA) of the Securities Act 1978 if the service relates to securities that may be offered to that person, or that have been subscribed for by that person, in a private offer of securities:
     (h) an eligible investor under section 5D.
   (2) If subsection (1) applies to a person (A), it applies equally to any controlling owner, director, employee, agent, or other person acting in the course of, and for the purposes of, A's business to the same extent as it applies to A.
@@ -188,8 +188,8 @@ The following sections are inserted after section 5:Who are clientsWho are retai
       (ii) the client understands the consequences of certifying himself, herself, or itself to be an eligible investor (including that the competency standards and requirements of the code will not be applicable (if relevant) and that the financial adviser or broker may not be a member of an approved dispute resolution scheme); and
     (b) the client states the reasons for this certification; and
     (c) a financial adviser, a QFE, or a broker signs a written acceptance of the certification in accordance with section 5E.
-  (2) A certification may be specific to a particular service or class of services or may be general (but is effective only in relation to services provided after all of the requirements of subsection (1)(a) to (c) are met).
-  (3) A certification relating only to a discretionary investment management service or a broking service (or both) does not need to certify as to the matters referred to in subsection (1)(a)(i).
+  (2) A certification may be specific to a particular service or class of services or may be general (but is effective only in relation to services provided after all of the requirements of subsection (1)﻿(a) to (c) are met).
+  (3) A certification relating only to a discretionary investment management service or a broking service (or both) does not need to certify as to the matters referred to in subsection (1)﻿(a)﻿(i).
   (1) A financial adviser, a QFE, or a broker must not accept a certification unless he, she, or it, having considered the client's reasons for the certification,—
     (a) is satisfied that the client has been sufficiently advised of the consequences of the certification; and
     (b) has no reason to believe that the certification is incorrect or that further information or investigation is required as to whether or not the certification is correct.
@@ -272,7 +272,7 @@ Section 7 and subpart 1 of Part 2 are repealed and the following section and sub
     (m) any form of communication made by or on behalf of an issuer that is contained in, or given in connection with, an offer of securities that—
       (i) does not constitute an offer of securities to the public under section 3 of the Securities Act 1978; or
       (ii) is exempt from Part 2 (other than sections 38B and 58) of that Act under section 5(2CB) or 5(2CBA) of that Act:
-    (n) a person providing a relevant service in the course of carrying on a business of dealing in futures contracts within the scope of an authorisation under section 38(1)(a) of the Securities Markets Act 1988 or an approval under section 38(1)(b) of that Act:
+    (n) a person providing a relevant service in the course of carrying on a business of dealing in futures contracts within the scope of an authorisation under section 38(1)﻿(a) of the Securities Markets Act 1988 or an approval under section 38(1)﻿(b) of that Act:
     (o) providing or making available to a person any of the following documents or information:
       (i) a prospectus, an investment statement, or an advertisement within the meaning of section 2A of the Securities Act 1978:
       (ii) a document or information that is required by law to be provided or made available (for example, an annual report of a company), whether directly or as a condition of carrying out any activity or as a condition of an exemption from any enactment:
@@ -310,7 +310,7 @@ Section 7 and subpart 1 of Part 2 are repealed and the following section and sub
       (i) an authorised financial adviser:
       (ii) a registered individual:
       (iii) a QFE adviser.
-  (2) Subsection (1)(a)(ii) is subject to any limitation on the scope of services that may be provided by the QFE adviser under the terms and conditions for the QFE under section 67A or a determination under section 75B(4).
+  (2) Subsection (1)﻿(a)﻿(ii) is subject to any limitation on the scope of services that may be provided by the QFE adviser under the terms and conditions for the QFE under section 67A or a determination under section 75B(4).
   The following persons are permitted to provide a class service to a retail client:
     (a) an authorised financial adviser:
     (b) a QFE adviser:
@@ -356,7 +356,7 @@ The heading before section 21 and sections 21 to 25 are repealed and the followi
   (2) Subsection (1) does not apply to a QFE adviser acting in that capacity.
   (1) Regulations for the purposes of prescribing disclosure for financial advisers under section 22 may require disclosure,—
     (a) for authorised financial advisers, in relation to any or all of the matters referred to in subsection (2).
-    (b) for other financial advisers, in relation to any or all of the matters referred to in subsection (2)(a) to (g).
+    (b) for other financial advisers, in relation to any or all of the matters referred to in subsection (2)﻿(a) to (g).
   (2) The matters are—
     (a) contact details:
     (b) the type of financial adviser:
@@ -393,7 +393,7 @@ The heading before section 21 and sections 21 to 25 are repealed and the followi
   (3) Regulations may provide for the form that the disclosure must take.
 
 ### 12 Disclosure by 2 or more financial advisers in joint disclosure statement
-Section 31(2)(c) is repealed and the following paragraph substituted:
+Section 31(2)﻿(c) is repealed and the following paragraph substituted:
   (c) be—
     (i) provided to the client; or
     (ii) delivered or sent to the client at the client's last known address or an address (including an electronic address) specified by the client for that purpose.
@@ -453,7 +453,7 @@ The heading above section 46 and sections 46 to 48 are repealed and the followin
   (2) Contraventions of this section give rise to the offences described in section 131.
 
 ### 20 Eligibility to be authorised
-Section 54(b)(i) is amended by omitting due inquiry and substituting making any inquiries that it considers appropriate.
+Section 54(b)﻿(i) is amended by omitting due inquiry and substituting making any inquiries that it considers appropriate.
 
 ### 21 New sections 55 and 55A substituted
 Section 55 is repealed and the following sections are substituted:Commission must approve or decline application for authorisationVariation of terms and conditions and period of authorisation
@@ -473,7 +473,7 @@ Section 55 is repealed and the following sections are substituted:Commission mus
     (b) notify the applicant in writing of—
       (i) the decision and the reasons for it; and
       (ii) the applicant’s right of appeal against the decision.
-  (6) Subsection (1)(d) does not limit or affect anything in section 18.
+  (6) Subsection (1)﻿(d) does not limit or affect anything in section 18.
   (1) An authorised financial adviser may apply to the Commission for a variation of the terms and conditions of the adviser’s authorisation.
   (2) The Commission may grant or decline the application.
   (3) The Commission may, by notice to an authorised financial adviser, propose a variation of the terms and conditions of the adviser’s authorisation or the period of the adviser’s authorisation, or both, on either or both of the following grounds:
@@ -486,7 +486,7 @@ Section 55 is repealed and the following sections are substituted:Commission mus
     (a) confirm 1 or more of the variations effected by subsection (5):
     (b) cancel 1 or more of the variations effected by subsection (5):
     (c) propose further terms and conditions by giving the authorised financial adviser a notice under subsection (3).
-  (8) The Commission must give the authorised financial adviser notice of any decision taken under subsection (7)(a) or (b).
+  (8) The Commission must give the authorised financial adviser notice of any decision taken under subsection (7)﻿(a) or (b).
 
 ### 22 Renewal of authorisation
 Section 58 is amended by repealing subsection (4) and substituting the following subsection:
@@ -495,11 +495,11 @@ Section 58 is amended by repealing subsection (4) and substituting the following
     (b) any failure, on the part of the applicant, to comply is not sufficiently serious or recent to preclude the renewal of the applicant’s authorisation.
 
 ### 23 New sections 63 to 77 substituted
-Sections 63 to 77 are repealed and the following sections substituted:What is qualifying financial entity (QFE)Who may apply for QFE statusApplication for QFE statusEligibility for QFE statusCommission must approve or decline application for QFE statusAssociated entities may be subject to special terms and conditions in certain casesDetermination of applicationName of QFE groupCommission must notify Registrar of grant of QFE statusAddition of associated entities Termination of status of associated entityCertification of QFE groupNominated representatives of QFEs or partner entitiesVariation of terms and conditions and period of grant of QFE statusTermination of QFE statusCommission may designate certain QFE products as beyond scope of QFE advisersRenewal of QFE statusCommission's powers in relation to default by QFE or by members of QFE groupCommission’s powers in relation to QFE defaultReasonable opportunity to be heardCommission may give QFE directionOther provisions concerning Commission's powers in relation to QFE defaultQFE’s obligationsOngoing obligations of QFEs and of partner entitiesQFE must provide annual report to Commission
+Sections 63 to 77 are repealed and the following sections substituted:What is qualifying financial entity (QFE)Who may apply for QFE statusApplication for QFE statusEligibility for QFE statusCommission must approve or decline application for QFE statusAssociated entities may be subject to special terms and conditions in certain casesDetermination of applicationName of QFE groupCommission must notify Registrar of grant of QFE statusAddition of associated entitiesTermination of status of associated entityCertification of QFE groupNominated representatives of QFEs or partner entitiesVariation of terms and conditions and period of grant of QFE statusTermination of QFE statusCommission may designate certain QFE products as beyond scope of QFE advisersRenewal of QFE statusCommission's powers in relation to default by QFE or by members of QFE groupCommission’s powers in relation to QFE defaultReasonable opportunity to be heardCommission may give QFE directionOther provisions concerning Commission's powers in relation to QFE defaultQFE’s obligationsOngoing obligations of QFEs and of partner entitiesQFE must provide annual report to Commission
   (1) A QFE is—
     (a) an entity that is registered and has QFE status; or
     (b) a number of partner entities that are each registered and jointly have QFE status.
-  (2) For the purposes of any powers or rights conferred, or obligations or liabilities imposed, on QFEs by this Act, a QFE described in subsection (1)(b) is taken to be a separate entity and a person.
+  (2) For the purposes of any powers or rights conferred, or obligations or liabilities imposed, on QFEs by this Act, a QFE described in subsection (1)﻿(b) is taken to be a separate entity and a person.
   (3) Subsection (2) does not limit any obligation or liability imposed on a partner entity.
   An application may be made to the Commission by—
     (a) a single entity for QFE status; or
@@ -519,7 +519,7 @@ Sections 63 to 77 are repealed and the following sections substituted:What is qu
       (i) discharge its or their ongoing compliance obligations under section 76 and all other obligations on it under this Act or the regulations (other than any broker obligations); and
       (ii) comply with the terms and conditions (if any) of the grant of QFE status; and
       (iii) maintain procedures to ensure that retail clients of the QFE receive adequate consumer protection.
-  (2) In determining under subsection (1)(c) whether clients receive adequate consumer protection, the Commission must, in relation to QFE advisers who provide personalised services that relate to category 1 products,—
+  (2) In determining under subsection (1)﻿(c) whether clients receive adequate consumer protection, the Commission must, in relation to QFE advisers who provide personalised services that relate to category 1 products,—
     (a) consider whether the clients will receive protection of a similar standard to that provided by advisers who are subject to the code; and
     (b) in doing so, take into account the scope of category 1 products in respect of which those QFE advisers provide financial adviser services.
   (1) If an applicant under section 64(a) is eligible, or if applicants under section 64(b) are eligible, for QFE status, the Commission must approve the application and grant the applicant or the applicants QFE status.
@@ -604,7 +604,7 @@ Sections 63 to 77 are repealed and the following sections substituted:What is qu
     (b) the Commission receives a written request from the QFE or from any partner entity requesting the Commission to cancel the QFE status; or
     (c) the entity that forms, or any of the partner entities that jointly form, the QFE ceases to be registered; or
     (d) the Commission cancels its QFE status under section 75D(2).
-  (2) The Commission must notify the Registrar in writing of the termination of QFE status under subsection (1)(a), (b), or (d).
+  (2) The Commission must notify the Registrar in writing of the termination of QFE status under subsection (1)﻿(a), (b), or (d).
   (1) If, because of the complexity of a particular category 1 product, the Commission has concerns about the provision of personalised services in relation to that product by QFE advisers, the Commission may specify those concerns in a notice to the QFE or the partner entity whose QFE advisers provide those services.
   (2) A notice under subsection (1) may be given only in exceptional circumstances.
   (3) The Commission must specify in the notice a reasonable period for the relevant entity to respond in writing and must ask the entity to satisfy the Commission that the QFE advisers are able to, and will, provide financial adviser services in relation to the category 1 product concerned with the appropriate level of professionalism and competence.
@@ -632,8 +632,8 @@ Sections 63 to 77 are repealed and the following sections substituted:What is qu
     (e) order that the QFE pay a fine not exceeding $50,000; or
     (f) censure the QFE; or
     (g) take no further action.
-  (3) The Commission may take only 1 of the actions specified in subsection (2), except that it may order the QFE to pay a fine not exceeding $50,000 in addition to taking an action under subsection (2)(d) or (f).
-  (4) All partner entities of a QFE are jointly and severally liable for the payment of a fine that the QFE is ordered to pay under subsection (2)(e).
+  (3) The Commission may take only 1 of the actions specified in subsection (2), except that it may order the QFE to pay a fine not exceeding $50,000 in addition to taking an action under subsection (2)﻿(d) or (f).
+  (4) All partner entities of a QFE are jointly and severally liable for the payment of a fine that the QFE is ordered to pay under subsection (2)﻿(e).
   (5) The Commission must not order the QFE to pay a fine in relation to an act or omission that constitutes an offence for which the QFE or any partner entity of the QFE has been convicted by a court.
   (6) If the Commission cancels or suspends the QFE status of an entity, the Commission must notify the Registrar in writing of the cancellation or suspension, and, in the case of suspension, the period of suspension.
   (7) The Commission may publicly notify the action it takes under subsection (2) as it sees fit.
@@ -649,7 +649,7 @@ Sections 63 to 77 are repealed and the following sections substituted:What is qu
     (c) require the QFE to report to the Commission within 28 days of the date of the direction stating how and by when the Commission's direction will be implemented.
   (5) A QFE or a partner entity that fails to comply with a direction by the Commission commits an offence (see section 132).
   (6) Nothing in this section precludes the Commission from exercising any of its other powers under this Act against a QFE.
-  (1) A fine imposed by the Commission under section 75D(2)(e) is recoverable in any court as a debt due to the Commission.
+  (1) A fine imposed by the Commission under section 75D(2)﻿(e) is recoverable in any court as a debt due to the Commission.
   (2) At the end of a period of suspension of QFE status, a QFE's status is immediately revived, unless its QFE status has been further suspended or has been cancelled.
   (3) Suspension or cancellation is effective when a written notice of the suspension or cancellation is sent to the QFE by the Commission.
   (1) A QFE, and every partner entity of a QFE, must—
@@ -664,7 +664,7 @@ Sections 63 to 77 are repealed and the following sections substituted:What is qu
     (g) provide an annual report to the Commission in accordance with section 77; and
     (h) comply with a direction by the Commission given under section 75F; and
     (i) comply with its other obligations under this Act and the regulations.
-  (2) A contravention of subsection (1)(e) gives rise to the offences described in section 133.
+  (2) A contravention of subsection (1)﻿(e) gives rise to the offences described in section 133.
   (1) Within 5 months after the end of its financial year, a QFE must send to the Commission a written report in respect of that year (the reporting year)—
     (a) certifying that the QFE and every member of the QFE group has complied with its obligations under this Act and the regulations, and with the terms and conditions of the grant of QFE status; and
     (b) if the QFE or any member of the QFE group has not complied with its obligations under this Act and the regulations, and with the terms and conditions of the grant of QFE status, stating those respects in which it has failed to comply; and
@@ -692,7 +692,7 @@ The following Part is inserted after Part 3:Brokers' disclosure and conduct obli
       (i) discharging any duties or exercising any powers of the statutory officer, the Crown organisation, or the Reserve Bank of New Zealand under any enactment; or
       (ii) doing anything that is incidental to the discharge of the functions of the statutory officer, the Crown organisation, or the Reserve Bank of New Zealand under any enactment:
     (c) an operator of a designated settlement system under section 156N of the Reserve Bank of New Zealand Act 1989 providing a relevant service by the receipt, holding, payment, or transfer of money or property in accordance with the rules of that settlement system:
-    (d) a person providing a relevant service in the course of carrying on the business of dealing in futures contracts within the scope of an authorisation under section 38(1)(a) of the Securities Markets Act 1988 or an approval under section 38(1)(b) of that Act:
+    (d) a person providing a relevant service in the course of carrying on the business of dealing in futures contracts within the scope of an authorisation under section 38(1)﻿(a) of the Securities Markets Act 1988 or an approval under section 38(1)﻿(b) of that Act:
     (e) an employer providing a relevant service to an employee in connection with a financial product made available through the person's workplace:
     (f) any other person providing a relevant service in circumstances exempted under the regulations.
   (2) If subsection (1) applies to a person (A), it applies equally to any controlling owner, director, employee, agent, or other person acting in the course of, and for the purposes of, A's business to the same extent as it applies to A.
@@ -864,7 +864,7 @@ The heading above section 129 and sections 129 to 134 are repealed and the follo
   If a QFE fails to comply with a direction of the Commission given under section 75F(3), each of the following persons commits an offence and is liable on summary conviction to a fine not exceeding $25,000:
     (a) the QFE:
     (b) every partner entity of the QFE.
-  If a QFE or a partner entity contravenes section 76(1)(e), each of the following persons commits an offence and is liable on summary conviction to a fine not exceeding $50,000:
+  If a QFE or a partner entity contravenes section 76(1)﻿(e), each of the following persons commits an offence and is liable on summary conviction to a fine not exceeding $50,000:
     (a) the QFE:
     (b) every partner entity of the QFE.
   If a QFE contravenes section 77(1), each of the following persons commits an offence and is liable on summary conviction to a fine not exceeding $25,000:
@@ -896,7 +896,7 @@ The following heading and sections are inserted after section 134:Offences: brok
     (b) in the case of an entity, not exceeding $25,000.
 
 ### 38 New heading inserted
-(1) The following heading is inserted above section 135:Miscellaneous offences.
+(1) The following heading is inserted above section 135:Miscellaneous offences
 (2) The heading above section 136 is repealed.
 
 ### 39 New headings and sections 137A to 137S inserted
@@ -906,8 +906,8 @@ The following headings and sections are inserted after section 137:Injunctions, 
     (b) it appears to the Court that, if an injunction is not granted, it is likely that the person will engage in conduct of that kind.
   (2) In subsection (1), contravention includes aiding, abetting, counselling, or procuring the contravention.
   (3) The Court may grant an interim injunction restraining a person from engaging in conduct of a particular kind if in its opinion it is desirable to do so.
-  (4) Subsections (1)(a) and (3) apply whether or not it appears to the Court that the person intends to engage again, or to continue to engage, in conduct of that kind.
-  (5) Subsections (1)(b) and (3) apply whether or not the person has previously engaged in conduct of that kind or there is an imminent danger of substantial damage to any other person if that person engages in conduct of that kind.
+  (4) Subsections (1)﻿(a) and (3) apply whether or not it appears to the Court that the person intends to engage again, or to continue to engage, in conduct of that kind.
+  (5) Subsections (1)﻿(b) and (3) apply whether or not the person has previously engaged in conduct of that kind or there is an imminent danger of substantial damage to any other person if that person engages in conduct of that kind.
   (6) In this section, engaging in conduct means doing or refusing to do an act, and includes—
     (a) omitting to do an act; or
     (b) making it known that an act will or will not be done.
@@ -950,7 +950,7 @@ The following headings and sections are inserted after section 137:Injunctions, 
       (ii) if the relevant person is a body corporate, a receiver or receiver and manager, having any powers that the court orders, of the property or of part of the property of that person:
     (h) if the relevant person is a natural person, an order requiring that person to deliver up to the court his or her passport and any other documents that the court thinks fit:
     (i) if the relevant person is a natural person, an order prohibiting that person from leaving New Zealand, without the consent of the court.
-  (2) A reference in subsection (1)(e) or (g) to property of a person includes a reference to property that the person holds otherwise than as sole beneficial owner, for example,—
+  (2) A reference in subsection (1)﻿(e) or (g) to property of a person includes a reference to property that the person holds otherwise than as sole beneficial owner, for example,—
     (a) as trustee for, as nominee for, or otherwise on behalf of or on account of, another person; or
     (b) in a fiduciary capacity.
   (3) An order may be expressed to operate for a specified period or until the order is discharged by a further order under this section.
@@ -1013,7 +1013,7 @@ The following headings and sections are inserted after section 137:Injunctions, 
     (c) the court thinks that the contravention, in the circumstances of the case, ought reasonably to be excused.
 
 ### 40 Right of appeal
-Section 138(1)(a)(iv) is amended by omitting section 61 or 73 and substituting section 49, 61, 75F, or 77V.
+Section 138(1)﻿(a)﻿(iv) is amended by omitting section 61 or 73 and substituting section 49, 61, 75F, or 77V.
 
 ### 41 New heading and sections 147A to 147E inserted
 The following heading and sections are inserted after section 147:Standard conditions for incorporation in authorisation and grantsApproval of standard conditions for incorporation in authorisations and grants of QFE statusRequirement to consult on proposal to incorporate material by referenceVariation or revocation of standard conditionsWhen standard conditions come into forceIncorporation of changed standard conditions into existing authorisations or grants
@@ -1037,8 +1037,8 @@ The following heading and sections are inserted after section 147:Standard condi
     (d) give notice in the Gazette stating—
       (i) how the proposed standard conditions can be inspected, purchased, or accessed on the Internet site address; and
       (ii) specifying a period within which any person may make a written submission to the Commission on the proposed standard conditions and, if applicable, on the date on which the standard condition is to be incorporated.
-  (2) If the Commission proposes that any standard condition should be incorporated on a specified date, the notice given under subsection (1)(d) must also state why the Commission considers that the standard condition should apply to current authorisations of financial advisers or to current grants of QFE status ahead of the renewal of those authorisations or grants.
-  (3) The Commission must consider any submissions received within the period specified under subsection (1)(d)(ii).
+  (2) If the Commission proposes that any standard condition should be incorporated on a specified date, the notice given under subsection (1)﻿(d) must also state why the Commission considers that the standard condition should apply to current authorisations of financial advisers or to current grants of QFE status ahead of the renewal of those authorisations or grants.
+  (3) The Commission must consider any submissions received within the period specified under subsection (1)﻿(d)﻿(ii).
   (1) The Commission may approve variations or revocations of any standard conditions under section 147A in the same way as standard conditions are approved under that section.
   (2) Sections 147A and 147B apply to any proposed approval of variation or revocation of standard conditions, with any necessary modifications.
   The approval of standard conditions, or of variation or revocation of standard conditions, comes into force on the 28th day after the date on which the approval is notified in the Gazette.
@@ -1111,7 +1111,7 @@ Section 154 is repealed and the following section substituted:General regulation
     (e) defining investment-linked contract of insurance, land investment product, and cash or term portfolio investment entity:
     (f) providing for disclosure by financial advisers under sections 22 to 24 and for QFEs under section 25:
     (g) prescribing the form of disclosure that (in addition to the matters set out in subsection (2)) may include a maximum length of a form and that some or all of the information that must be disclosed must be included in 1 disclosure statement:
-    (h) specifying, for the purposes of section 55(1)(d), cases in which an authorisation under that paragraph may be granted:
+    (h) specifying, for the purposes of section 55(1)﻿(d), cases in which an authorisation under that paragraph may be granted:
     (i) providing for disclosure by brokers under sections 77E and 77F:
     (j) prescribing when, and subject to what terms and conditions, disclosure may be made in a joint disclosure document (whether by financial advisers or by brokers jointly, or by 1 or more persons in different capacities) and the form of a joint disclosure document:
     (k) prescribing requirements relating to class services provided to retail clients for the purposes of section 36:
@@ -1130,7 +1130,7 @@ Section 154 is repealed and the following section substituted:General regulation
   (2) In subsection (1), prescribing the form includes specifying additional content, means of communication, or any other requirement of form without necessarily specifying the use of a particular form.
   (3) Regulations for the purposes of subsection (1) may make different provision for different classes of financial adviser or broker, financial adviser service or broking service, and client, and for different circumstances in which a financial adviser service or broking service is provided.
   (4) The Minister must consult with the Commission before making a recommendation under subsection (1).
-  (5) The Minister must not recommend the making of regulations under subsection (1)(a) unless the Minister is satisfied that—
+  (5) The Minister must not recommend the making of regulations under subsection (1)﻿(a) unless the Minister is satisfied that—
     (a) the exemption is consistent with the purposes of the Act; and
     (b) the costs of compliance with the provision or provisions to which the exemption relates would be unreasonable or not justified by the benefit of compliance; and
     (c) the extent of the exemption is not broader than what is reasonably necessary to address the matters that gave rise to the exemption.
@@ -1153,7 +1153,7 @@ The following section is added:Grant of authorisations in transitional period wi
   (1) In this section, transitional period means the period that commences on the commencement of section 55 and ends on the commencement of section 17.
   (2) In the transitional period, the Commission may authorise a person under section 55 even though it has not yet undertaken or completed its inquiries in relation to section 54(b).
   (3) An authorisation granted in reliance on subsection (2) is subject to the condition that it ceases to have effect if, before the expiry of the transitional period, the Commission notifies the applicant for authorisation that he or she is, given section 54(b), ineligible to be authorised.
-  (4) If, at any time after the expiry of the transitional period, the Commission is satisfied that an authorised financial adviser is, given section 54(b), ineligible to be authorised, but that the adviser has been granted authorisation in reliance on subsection (2), section 59(1)(a) applies to that adviser as if he or she had ceased to be eligible for authorisation.
+  (4) If, at any time after the expiry of the transitional period, the Commission is satisfied that an authorised financial adviser is, given section 54(b), ineligible to be authorised, but that the adviser has been granted authorisation in reliance on subsection (2), section 59(1)﻿(a) applies to that adviser as if he or she had ceased to be eligible for authorisation.
 
 ### 50 Enactments amended consequential on principal Act
 The enactments specified in the Schedule are amended in the manner indicated in that schedule.
