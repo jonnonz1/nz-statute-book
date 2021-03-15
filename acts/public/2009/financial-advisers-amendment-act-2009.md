@@ -1,5 +1,5 @@
 # Financial Advisers Amendment Act 2009
-_Consolidation as at 2009-07-27_
+_Consolidation as at 2021-03-15_
 
 ### 1 Title
 This Act is the Financial Advisers Amendment Act 2009.
@@ -32,8 +32,8 @@ Section 26 is amended by repealing subsection (1) and substituting the following
       (ii) is an employee of a QFE; and
       (iii) performs a financial adviser service in relation to a category 1 product of which the QFE is the issuer in the course of the QFE's business.
   (1A) In this section, the financial adviser service means a financial adviser service referred to in—
-    (a) subsection (1)(a)(iii); or
-    (b) subsection (1)(b)(iii).
+    (a) subsection (1)﻿(a)﻿(iii); or
+    (b) subsection (1)﻿(b)﻿(iii).
 
 ### 8 New section 75 substituted
 Section 75 is repealed and the following section substituted:Exemption from liability for employee or agent of QFE
@@ -61,7 +61,7 @@ Section 100 is amended by omitting Commission's and substituting disciplinary co
 Section 114(1) is amended by omitting performs a financial adviser service without being registered and substituting , without being registered, performs a financial adviser service that under this Act only a registered financial adviser may perform.
 
 ### 13 Right of appeal
-Section 138(1)(a)(ii) is amended by omitting 67(4): or and substituting 67(4); or.
+Section 138(1)﻿(a)﻿(ii) is amended by omitting 67(4): or and substituting 67(4); or.
 
 ### 14 Territorial scope
 Section 157 is amended by omitting by a person in New Zealand,.
@@ -69,7 +69,7 @@ Section 157 is amended by omitting by a person in New Zealand,.
 ### 15 New section 161A inserted
 The following section is inserted immediately before section 162:Financial Service Providers (Registration and Dispute Resolution) Act 2008 amended
   (1) This section amends the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
-  (2) Section 7(2)(m) is amended by adding , except to the extent that an individual may be required to be registered in order to perform a financial adviser service under the Financial Advisers Act 2008.
+  (2) Section 7(2)﻿(m) is amended by adding , except to the extent that an individual may be required to be registered in order to perform a financial adviser service under the Financial Advisers Act 2008.
 
 ### 16 Securities Markets Act 1988 amended
 Section 164(6) is repealed.
