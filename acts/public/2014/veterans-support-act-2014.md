@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-03-15_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -1535,13 +1535,13 @@ A veteran with total lower body mobility impairment or with severe lower body mo
     (ii) aggregated payments payable under clause 55 of Schedule 2:
     (iii) any other payment under this Act that is specified in regulations made under section 265 for the purposes of this section; and
   (b) if the payment is equal to or greater than the prescribed amount.
-(2) VANZ must provide or meet the cost of providing the veteran with financial advice from an authorised financial adviser under the Financial Advisers Act 2008 for the purpose of enabling the veteran to make an informed decision about investing the lump sum.
+(2) VANZ must provide or meet the cost of providing the veteran with financial advice from a financial advice provider under the Financial Markets Conduct Act 2013 for the purpose of enabling the veteran to make an informed decision about investing the lump sum.
 (3) Regulations may be made under section 265 that specify—
   (a) any other payment under this Act for the purposes of this section:
   (b) the prescribed amount for the purposes of subsection (1)﻿(b):
   (c) any limits on the extent to which VANZ provides or meets the cost of providing financial advice:
   (d) whether VANZ will arrange for the provision of financial advice in all cases or meet the costs of financial advice in all cases or a combination of both.
-(4) To avoid doubt, VANZ is under no liability for advice provided by an authorised financial adviser under this section.
+(4) To avoid doubt, VANZ is under no liability for advice provided by a financial advice provider under this section.
 
 ## Part 6 — Veteran's pension
 
