@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-03-22_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -1161,15 +1161,15 @@ An overseas investment in fishing quota is the acquisition by an overseas person
 
 ### 57G Criteria for overseas investments in fishing quota
 (1) The criteria for an overseas investment in fishing quota are all of the following:
-  (a) the relevant overseas person is a body corporate:
-  (b) the individuals with control of the relevant overseas person collectively have business experience and acumen relevant to that overseas investment:
-  (c) the relevant overseas person has demonstrated financial commitment to the overseas investment:
-  (d) all the individuals with control of the relevant overseas person are of good character:
-  (e) none of the individuals with control of the relevant overseas person are individuals of the kind referred to in section 15 or 16 of the Immigration Act 2009 (which list certain persons not eligible for visas or entry permission under that Act):
+  (a) the investor test is met:
+  (b)
+  (c)
+  (d)
+  (e)
   (f) the interest in fishing quota is capable of being registered in the Quota Register or the Annual Catch Entitlement Register:
   (g) the granting of consent is in the national interest, as determined by the relevant Ministers under section 57H:
   (h) if the overseas investment in fishing quota is a transaction of national interest, the Minister has not declined consent to the transaction (see section 20C of the Overseas Investment Act 2005).
-(2) See section 57I in relation to subsection (1)﻿(d) and (e).
+(2)
 
 ### 57H Factors for determining whether or not overseas investment in fishing quota is in national interest
 (1) The relevant Ministers—
@@ -1187,10 +1187,7 @@ An overseas investment in fishing quota is the acquisition by an overseas person
   (b) any other factors that are set out in regulations under the Overseas Investment Act 2005 or that the relevant Ministers, having regard to the circumstances and the nature of the application, think fit.
 
 ### 57I Applying good character and Immigration Act 2009 criteria
-(1) For the purposes of section 57G(1)﻿(d), the relevant Ministers must take the following factors into account (without limitation) in assessing whether or not a person (A) is of good character:
-  (a) offences or contraventions of the law by A, or by any person in which A has, or had at the time of the offence or contravention, a 25% or more ownership or control interest (whether convicted or not):
-  (b) any other matter that reflects adversely on the person's fitness to have the particular overseas investment.
-(2) For the purposes of section 57G(1)﻿(e), an individual is not an individual of the kind referred to in section 15 or 16 of the Immigration Act 2009 if a special direction referred to in section 17(1)﻿(a) of that Act has been made permitting a visa and entry permission to be granted to that individual under that Act.
+[Repealed]
 
 ### 57J Who administers overseas investment fishing provisions
 The regulator as defined in section 30 of the Overseas Investment Act 2005 administers the overseas investment fishing provisions (except sections 57K to 58B).
