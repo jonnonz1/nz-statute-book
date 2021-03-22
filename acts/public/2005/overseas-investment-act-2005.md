@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-03-22_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -127,7 +127,7 @@ This Act is the Overseas Investment Act 2005.
     (c) the New Zealand Security Intelligence Service
   - **interim direction order** means an order under section 91
   - **interest** includes a legal or equitable interest
-  - **investor test** , in relation to an overseas investment in sensitive land, means the test set out in section 16(2)
+  - **investor test** means the test set out in section 18A
   - **investor test factors** means the factors set out in section 18A(4)
   - **involved** , in relation to a contravention, an offence, or a failure to comply, has the meaning set out in subsection (7)
   - **lake** means a lake (as defined in section 2(1) of the Resource Management Act 1991) that has a bed that exceeds 8 hectares in area
@@ -448,12 +448,8 @@ An overseas investment in sensitive land is the acquisition by an overseas perso
   (e) if the relevant land is not described in paragraphs (b) to (d), the benefit to New Zealand test is met:
   (f) if the relevant land is or includes farm land, either that farm land or the securities to which the overseas investment relates have been offered for acquisition on the open market to persons who are not overseas persons in accordance with the procedure set out in regulations (unless the overseas investment is exempt from this criterion under section 20):
   (g) if the overseas investment in sensitive land is a transaction of national interest, the Minister has not declined consent to the transaction (see section 20C).
-(2) For the purposes of this section, the investor test is met if the relevant Ministers are satisfied that—
-  (a) the relevant overseas person has, or (if that person is not an individual) the individuals with control of the relevant overseas person collectively have, business experience and acumen relevant to that overseas investment; and
-  (b) the relevant overseas person has demonstrated financial commitment to the overseas investment; and
-  (c) the relevant overseas person is, or (if that person is not an individual) all the individuals with control of the relevant overseas person are, of good character; and
-  (d) the relevant overseas person is not, or (if that person is not an individual) each individual with control of the relevant overseas person is not, an individual of a kind referred to in section 15 or 16 of the Immigration Act 2009 (which sections list certain persons not eligible for visas or entry permission under that Act).
-(3) Subsection (1)﻿(a) (the investor test) does not apply to an overseas investment in sensitive land if either of the following circumstances applies:
+(2)
+(3) The investor test does not apply to an overseas investment in sensitive land if either of the following circumstances applies:
   (a) Circumstance 1:
     (i) the application for consent is under the commitment to reside in New Zealand test only; and
     (ii) the relevant land is residential (but not otherwise sensitive) land:
@@ -463,7 +459,7 @@ An overseas investment in sensitive land is the acquisition by an overseas perso
     (iii) the estate or interest in land relates to 1 or more new residential dwellings in that development; and
     (iv) the transaction is entered into before the construction of the dwelling is complete.
 (4) See also clause 4(5) of Schedule 2 (which relates to the commitment to reside in New Zealand test and relationship property) for a circumstance in which an individual with control of the relevant overseas person can be disregarded in determining whether the investor test is met.
-(5) See section 19 in relation to subsection (2)﻿(c) and (d).
+(5)
 
 ### 16A Benefit to New Zealand test
 General test
@@ -566,20 +562,47 @@ ExampleA is an overseas person who wants to buy 100% of the shares in what is cu
   (f) if the relevant land is or includes foreshore, seabed, or a bed of a river or lake, whether that foreshore, seabed, riverbed, or lakebed has been offered to the Crown in accordance with regulations:
   (g) any other factors set out in regulations.
 
-### 18 Criteria for overseas investments in significant business assets
-(1) The criteria for an overseas investment in significant business assets are all of the following:
-  (a) the relevant overseas person has, or (if that person is not an individual) the individuals with control of the relevant overseas person collectively have, business experience and acumen relevant to that overseas investment:
-  (b) the relevant overseas person has demonstrated financial commitment to the overseas investment:
-  (c) the relevant overseas person is, or (if that person is not an individual) all the individuals with control of the relevant overseas person are, of good character:
-  (d) the relevant overseas person is not, or (if that person is not an individual) each individual with control of the relevant overseas person is not, an individual of a kind referred to in section 15 or 16 of the Immigration Act 2009 (which sections list certain persons not eligible for visas or entry permission under that Act):
-  (e) if the overseas investment in significant business assets is a transaction of national interest, the Minister has not declined consent to the transaction (see section 20C).
-(2) See section 19 in relation to subsection (1)﻿(c) and (d).
+### 18 Criteria for consent for overseas investments in significant business assets
+The criteria for an overseas investment in significant business assets are both of the following:
+  (a) the investor test is met:
+  (b) if the overseas investment in significant business assets is a transaction of national interest, the Minister has not declined consent to the transaction (see section 20C).
+
+### 18A Investor test
+Purpose
+(1) The purpose of the investor test is to determine whether investors are unsuitable to own or control any sensitive New Zealand assets, by assessing whether they are likely to pose risks to New Zealand, based on factors relating to their character and capability.
+When investor test is met
+(2) The investor test is met in respect of an overseas investment if the relevant Ministers are satisfied that all of the following persons (investors), excluding persons who are not overseas persons, meet the investor test:
+  (a) the relevant overseas person; and
+  (b) all the individuals with control of the relevant overseas person, to the extent that the relevant overseas person is not an individual.
+(3) The investor test is met in respect of an investor (A) if the relevant Ministers are satisfied that—
+  (a) none of the investor test factors are established; or
+  (b) any investor test factor or factors that are established do not make A unsuitable to own or control any sensitive New Zealand assets.
+Investor test factors
+(4) The investor test factors are—CharacterCapability
+  (a) the following, whether in New Zealand or any other jurisdiction:
+    (i) whether A has, at any time, been convicted of an offence for which A has been sentenced to imprisonment for a term of 5 years or more, or for an indeterminate period capable of running for 5 years or more:
+    (ii) whether A has, at any time in the preceding 10 years, been convicted of an offence for which A has been sentenced to imprisonment for a term of 12 months or more, or for an indeterminate period capable of running for 12 months or more:
+    (iii) if A is not an individual, whether A has, at any time in the preceding 10 years, been convicted of an offence for which A has been sentenced to pay a fine:
+    (iv) whether A has been ordered, in the preceding 10 years, by a court, any other court in New Zealand, or any equivalent body overseas to pay a civil pecuniary penalty in respect of a contravention of any enactment:
+    (v) whether, at any time in the preceding 10 years, a court has imposed a penalty on A for a contravention of this Act or the regulations:
+    (vi) whether any other proceedings have been begun against A, and have not been completed, for any offence, or contravention of an enactment, that carries a penalty corresponding to those listed in subparagraphs (i) to (v):
+    (vii) whether A has entered, in the preceding 10 years, into an enforceable undertaking or an equivalent agreement with any regulator in respect of any contravention or alleged contravention of any enactment:
+  (b) whether A is an individual of a kind referred to in section 16 of the Immigration Act 2009 (certain persons not eligible for visas or entry permission under that Act):
+  (c) whether A is a person prohibited from being a director or promoter of, or concerned in the management of, an incorporated or unincorporated body under the Companies Act 1993, the Financial Markets Conduct Act 2013, or the Takeovers Act 1993:
+  (d) whether A is a person subject to a management banning order under the Financial Markets Conduct Act 2013 or the Takeovers Act 1993 or is subject to an order under section 108 of the Credit Contracts and Consumer Finance Act 2003:
+  (e) whether A has become liable, in the preceding 10 years, to pay a penalty in respect of any of the following:
+    (i) an abusive tax position under section 141D of the Tax Administration Act 1994 or an equivalent enactment in another jurisdiction:
+    (ii) evasion or a similar act under section 141E of the Tax Administration Act 1994 or an equivalent enactment in another jurisdiction:
+  (f) whether A, at the date on which the application is made, has outstanding unpaid tax of $5 million or more due and payable in New Zealand or an equivalent amount due and payable in another jurisdiction (where the amount is converted into New Zealand currency by applying the close of trading spot exchange rate on the date or dates on which the tax became due and payable).
+(5) For the purposes of this section,—
+  (a) enactment means an enactment that is or was part of the law of New Zealand or of any other jurisdiction:
+  (b) preceding 10 years means the period of 10 years ending with the date of application:
+  (c) tax includes any interest or penalty imposed in respect of any tax (in New Zealand or another jurisdiction):
+  (d) section 15(2) of the Immigration Act 2009 applies to subsection (4)﻿(a) in the same way as it applies to section 15(1)﻿(a) and (b) of that Act:
+  (e) an individual is not an individual of a kind referred to in section 16 of the Immigration Act 2009 if a special direction referred to in section 17(1)﻿(a) of that Act has been made permitting a visa or entry permission to be granted to that individual.
 
 ### 19 Applying good character and Immigration Act 2009 criteria
-(1) For the purposes of sections 16(2)﻿(c) and 18(1)﻿(c), the relevant Minister or Ministers must take the following factors into account (without limitation) in assessing whether or not a person (A) is of good character:
-  (a) offences or contraventions of the law by A, or by any person in which A has, or had at the time of the offence or contravention, a more than 25% ownership or control interest (whether convicted or not):
-  (b) any other matter that reflects adversely on the person's fitness to have the particular overseas investment.
-(2) For the purposes of sections 16(2)﻿(d) and 18(1)﻿(d), an individual is not an individual of a kind referred to in section 15 or 16 of the Immigration Act 2009 if a special direction referred to in section 17(1)﻿(a) of that Act has been made permitting a visa or entry permission to be granted to that individual.
+[Repealed]
 
 ### 20 Exemptions from farm land offer criterion
 Section 16(1)﻿(f) does not apply to an overseas investment if—
