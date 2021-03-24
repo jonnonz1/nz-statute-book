@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-03-24_
 
 > Title
 
@@ -89,6 +89,7 @@ _Consolidation as at 2020-08-01_
   - **receiving carer** means—
     (a) a carer of a qualifying child who the Commissioner determines under section 17 is a receiving carer of the child; or
     (b) a person who is entitled to receive child support under section 58(1) or 68(1)
+  - **social security beneficiary** means a person who is in receipt of a social security benefit
   - **social security benefit** means—
     (a) sole parent support under section 29 of the Social Security Act 2018:
     (b) an unsupported child’s benefit under section 46 of that Act:
