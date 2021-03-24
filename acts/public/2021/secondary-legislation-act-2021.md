@@ -329,7 +329,7 @@ This Act is the Secondary Legislation Act 2021.
 | Location | Amendment | Code |
 | --- | --- | --- |
 | Section 18 | Insert:2A notice under this section is [standard text]. | XD/SL |
-| After section 19(7) | Insert:8A notice or order under this section [standard text]. | LI/SLXD/SL |
+| After section 19(7) | Insert:8A notice or order under this section is [standard text]. | LI/SLXD/SL |
 | Section 20(1) and (3)﻿(a) | Replace in the Gazette with under the Legislation Act 2019 | XD/SL |
 | Section 20(2) | Replace with:2The Auckland Council must send a copy of the notice to the Amenities Board. | LI/SLXD/SL |
 | Section 20(5) | Repeal | N |
@@ -930,7 +930,7 @@ This Act is the Secondary Legislation Act 2021.
 | After section 225B(1) | Insert:2An order under subsection (1)—ais [standard text]; andbmust be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019). | LI/SL |
 | Section 225BA | Repeal | N |
 | Section 225C | Insert:2An order under this section is [standard text]. | LI/SL |
-| After section 225D(3) | Insert:4Regulations under this section—aare [standard text]: butbcommence in accordance with subsection (3), even if they are not yet published. | LI/SL |
+| After section 225D(3) | Insert:4Regulations under this section—aare [standard text]; butbcommence in accordance with subsection (3), even if they are not yet published. | LI/SL |
 | After section 226(2) | Insert:3An order under this section is [standard text]. | LI/SL |
 | After section 226C(4) | Insert:5An order under subsection (4) is [standard text]. | LI/SL |
 | Section 226D(4) | Repeal | LI/SL |
@@ -1899,7 +1899,7 @@ This Act is the Secondary Legislation Act 2021.
 | After section 360(4) | Insert:5The following are [standard text]:aregulations under subsection (1):ba notice under subsection (2):can amendment under subsection (2C). | LI/SL–/SL |
 | After section 360A(3) | Insert:4An order under this section is [standard text]. | LI/SL |
 | After section 360F(3) | Insert:4Regulations under this section are [standard text]. | LI/SL |
-| Schedule 1, after clause 78(6) | Insert:7A direction under this section is [standard text]. | XD/SL |
+| Schedule 1, after clause 78(6) | Insert:7A direction under this clause is [standard text]. | XD/SL |
 | Schedule 1, clause 79 | Repeal | XD/SL |
 | Schedule 1AA, clause 2(2) | Delete in the Gazette | –/SL |
 | Schedule 1AA, after clause 2(3) | Insert:4A notice under this clause is [standard text]. | –/SL |
@@ -2735,7 +2735,7 @@ This Act is the Secondary Legislation Act 2021.
 | After section 9(3) | Insert:4An order under this section is [standard text]. | LI/SL |
 | Section 10(1) | Delete public | –/SL |
 | Section 10(2) | Delete public | –/SL |
-| After section 10(4) | Replace with:4A notice under this section is [standard text]. | –/SL |
+| Section 10(4) | Replace with:4A notice under this section is [standard text]. | –/SL |
 | Section 10(5) | Replace In this section public notice means a notice published— with The Minister may also publish a summary of the matters contained in the notice— | –/SL |
 | Section 10(5)﻿(a) | Repeal | –/SL |
 | Section 12 | Replace or in accordance with the Legislation Act 2012 of any petroleum demand restraint regulations, or of any Order in Council, with of anyAfter or other act of authority, insert other than the making of any secondary legislation | –/SL |
@@ -4043,7 +4043,7 @@ This Act is the Secondary Legislation Act 2021.
 | Location | Amendment | Code |
 | --- | --- | --- |
 | After section 34(4) | Insert:5The following are [standard text]:aan instrument under subsection (4) that prescribes fees:bregulations under subsection (4). | LI/SL |
-| Section 53(3) | Replace with:3The regulations must be submitted to the Governor-Governor in Council for approval. | –/SL |
+| Section 53(3) | Replace with:3The regulations must be submitted to the Governor-General in Council for approval. | –/SL |
 | After section 53(5) | Insert:6Regulations approved under subsection (3) are [standard text]. | –/SL |
 
 | Location | Amendment | Code |
@@ -4748,7 +4748,7 @@ This Act is the Secondary Legislation Act 2021.
 | After section 91T(3) | Insert:4The following are [standard text]:aan order under subsection (1):bregulations under subsection (3). | LI/SL |
 | After section 96(6) | Insert:7Regulations under subsection (3) are [standard text]. | LI/SL |
 | Section 96A(2) | Delete in the Gazette | –/SL |
-| After section 96A(6) | 7A notice under subsection (2) is [standard text]. | –/SL |
+| After section 96A(6) | Insert:7A notice under subsection (2) is [standard text]. | –/SL |
 | Section 99A | Insert:2Regulations under this section are [standard text]. | LI/SL |
 | After section 100(5) | Insert:6Regulations under this section are [standard text]. | LI/SL |
 | Section 107(3) | Replace with:3An order under this section is [standard text]. | LI/SL |
@@ -5886,7 +5886,7 @@ This Act is the Secondary Legislation Act 2021.
 | After section 37A(3) | Insert:4The list is [standard text]. | –/SL |
 | After section 37B(3) | Insert:4Regulations under this section are [standard text]. | LI/SL |
 | Section 51B(2) and (3) | Replace with:2The notice is [standard text]. | XD/SL |
-| After section 61(2) | Insert:3Regulations under this section are [standard text]. | LI/SL |
+| After section 61(4) | Insert:5Regulations under this section are [standard text]. | LI/SL |
 | After section 61A(5) | Insert:6Regulations under this section are [standard text]. | LI/SL |
 | After section 61C(2) | Insert:3Regulations under this section are [standard text]. | LI/SL |
 | After section 86(2) | Insert:3Regulations under this section are [standard text]. | LI/SL |
@@ -5894,7 +5894,7 @@ This Act is the Secondary Legislation Act 2021.
 | After section 95(4) | Insert:5An order under this section is [standard text]. | LI/SL |
 | After section 101(4) | Insert:5An order under this section is [standard text]. | LI/SL |
 | After section 106(3) | Insert:4An order under this section is [standard text]. | LI/SL |
-| After section 126(8) | Insert:9Regulations under this section are [standard text]. | LI/SL |
+| After section 126(9) | Insert:10Regulations under this section are [standard text]. | LI/SL |
 | After section 127(4) | Insert:5Regulations under this section are [standard text]. | LI/SL |
 | Schedule 1AA, after clause 26(2) | Insert:2ARegulations under this clause are [standard text]. | LI/SL |
 
