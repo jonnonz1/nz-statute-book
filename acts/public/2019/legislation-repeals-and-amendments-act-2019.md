@@ -1,5 +1,5 @@
 # Legislation (Repeals and Amendments) Act 2019
-_Consolidation as at 2019-10-28_
+_Consolidation as at 2021-03-25_
 
 ### 1 Title
 This Act is the Legislation (Repeals and Amendments) Act 2019.
@@ -9,7 +9,7 @@ This Act is the Legislation (Repeals and Amendments) Act 2019.
   (a) Part 1 and Schedule 1 (which contain interim amendments to the Legislation Act 2012 and other Acts) come into force on the day after the date of Royal assent:
   (b) the rest of this Act comes into force—
     (i) on 1 or more dates set by Order in Council; or
-    (ii) to the extent not brought into force earlier, on the fifth anniversary of the date of Royal assent.
+    (ii) to the extent not brought into force earlier, on the fifth anniversary of the date on which the Secondary Legislation Act 2021 receives the Royal assent.
 (2) One or more Orders in Council may set different dates for different provisions (and, for that purpose, may commence a provision only for the purpose of giving effect to some, but not other, parts of this Act).
 
 ## Part 1 — Interim amendments
@@ -68,7 +68,7 @@ The Legislation Act 2012 (2012 No 119) is repealed.
   (b) Legislation (Recognition of Overseas Lawyers) Order 2014 as if made under section 137:
   (c) Legislation (Official Versions) Regulations 2015 as if made under section 147:
   (d) any order made under section 36C(3) of the Legislation Act 2012 as if made under section 147(1)﻿(d):
-  (e) any direction given under section 36E(4) of the Legislation Act 2012 as if made under section 76.
+  (e) any direction given under section 36E or 36F of the Legislation Act 2012 as if made under section 76.
 
 **Repeal of Reprint of Statutes Act 1931**
 
@@ -176,7 +176,7 @@ Orders in Council amending or modifying the Tariff made under section 9 or 10—
   (b) all Acts; and
   (c) all secondary legislation; and
   (d) minimum legislative information for all secondary legislation.
-(2) However, if exemptions of the following type apply (whether under section 77, the empowering legislation, or other legislation), the following sections and obligations do not apply: If there is the following type of exemption......the following do not applya publication exemption for the secondary legislation (or part of it)subsection (1)﻿(c) (and any obligations under this Part for the PCO to publish, or the maker to lodge with the PCO for publication, the legislation or part, but see section 76)a list exemption for the secondary legislationsubsection (1)﻿(d) (and any obligations under this Part for the PCO to publish, or the maker to lodge with the PCO for publication, the minimum legislative information)
+(2) However, if exemptions of the following type apply (whether under section 77, Schedule 3, or other legislation), the following sections and obligations do not apply: If there is the following type of exemption......the following do not applya publication exemption for the secondary legislation (or part of it)subsection (1)﻿(c) (and any obligations under this Part for the PCO to publish, or the maker to lodge with the PCO for publication, the legislation or part, but see section 76)a list exemption for the secondary legislationsubsection (1)﻿(d) (and any obligations under this Part for the PCO to publish, or the maker to lodge with the PCO for publication, the minimum legislative information)
 
 ### 70 PCO must publish consolidations of legislation that is amended
 (1) The PCO must publish consolidations of—
@@ -205,11 +205,13 @@ Orders in Council amending or modifying the Tariff made under section 9 or 10—
 (2) To the extent that subsection (1) results in secondary legislation, or a part of secondary legislation, not coming into force on its commencement date, the legislation or part comes into force on the day after the relevant publication requirement is met.
 (3) This section overrides sections 26 to 29.
 (4) However, this section does not apply if—
-  (a) the empowering legislation or any other Act expressly authorises the legislation to commence despite it not being published or at a time that is before the relevant publication requirement is practicably capable of being met; or
+  (a) the empowering legislation or any other enactment expressly authorises the legislation or part to commence—
+    (i) even if it is not yet published; or
+    (ii) on or after a particular date or event; or
   (b) a list exemption applies; or
   (c) an exemption from this section applies under regulations made under this Act.
 (5) In this section,—
-  - **commencement date** means the date or time when the secondary legislation or part would otherwise commence (including as a result of sections 25 to 29)
+  - **commencement date** means the date or time when the secondary legislation or part would otherwise commence (including as a result of sections 26 to 29)
   - **relevant publication requirement** , in relation to any secondary legislation or part, means—
     (a) the secondary legislation is published under this Act; or
     (b) (if a publication exemption applies to the whole or any part of the legislation) the minimum legislative information for the secondary legislation is published under this Act.
