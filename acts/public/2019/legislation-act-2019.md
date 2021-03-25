@@ -1,5 +1,5 @@
 # Legislation Act 2019
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-03-25_
 
 ### 1 Title
 This Act is the Legislation Act 2019.
@@ -7,9 +7,12 @@ This Act is the Legislation Act 2019.
 ### 2 Commencement
 (1) This Act comes into force as follows:
   (a) section 147 (which contains regulation-making powers) comes into force on the day after the date of Royal assent:
+  (aa) the following provisions (which contain regulation-making powers) come into force on the day after the date on which the Secondary Legislation Act 2021 receives the Royal assent:
+    (i) clause 19 of Schedule 1 and section 6 (but only for the purpose of giving effect to clause 19):
+    (ii) section 147A:
   (b) the rest of this Act comes into force—
     (i) on 1 or more dates set by Order in Council; or
-    (ii) to the extent not brought into force earlier, on the fifth anniversary of the date of Royal assent.
+    (ii) to the extent not brought into force earlier, on the fifth anniversary of the date on which the Secondary Legislation Act 2021 receives the Royal assent.
 (2) One or more Orders in Council may set different dates for different provisions (and, for that purpose, may commence a provision only for the purpose of giving effect to some, but not other, parts of this Act).
 
 ## Part 1 — Preliminary provisions
@@ -55,6 +58,7 @@ This Act is the Legislation Act 2019.
   - **Chief Parliamentary Counsel** means the person who holds that office under section 135
   - **consolidation** means a version of legislation published under section 70
   - **current drafting practice** , in subpart 2 of Part 3, has the meaning set out in section 85
+  - **disallowance exemption** means an exemption under section 115(a) to (d)
   - **empowering legislation** , in relation to any secondary legislation or instrument, means—
     (a) the legislation that empowers the making of the secondary legislation or instrument; or
     (b) the Royal prerogative (for anything done under the Royal prerogative)
@@ -83,7 +87,7 @@ This Act is the Legislation Act 2019.
   - **responsible Minister** , in Part 4, has the meaning set out in section 102
   - **secondary legislation** means an instrument (whatever it is called) that—ExampleThe ABC Act 2018 enables the Governor-General, by Order in Council, either to make exemptions in the Order in Council or to enable the regulator to issue exemption notices. Both the order and notice are made (directly or indirectly) under the ABC Act (see section 21). The ABC Act states that both are secondary legislation. As a result, both the Order in Council and the exemption notice made under that order are secondary legislation under this definition.
     (a) is made under an Act if the Act (or any other legislation) states that the instrument is secondary legislation; or
-    (b) is made under the Royal prerogative and has legislative effect
+    (b) is made under the Royal prerogative in a form and for a purpose set out in Schedule 1A
   - **sitting day** means a sitting day of the House of Representatives.
 (2) In this Act, a reference to the maker of any secondary legislation or instrument is, if the Governor-General is empowered to make that legislation or instrument, a reference to the relevant Minister for that secondary legislation or instrument.
 (3) See also the definitions of terms for all legislation in section 13, which also apply to this Act.
@@ -142,7 +146,7 @@ In legislation,—
   - **legislation website** has the meaning set out in section 5(1)
   - **maker** has the meaning set out in section 5
   - **Minister** , in relation to any legislation, means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the administration of the legislation
-  - **Ministry** , in relation to any legislation, means the department or departmental agency (within the meaning of section 27A of the State Sector Act 1988) that, with the authority of the Prime Minister, is responsible for the administration of the legislation
+  - **Ministry** , in relation to any legislation, means the department, departmental agency, or interdepartmental venture (as named in Part 1, 2, or 4 of Schedule 2 of the Public Service Act 2020) that, with the authority of the Prime Minister, is responsible for the administration of the legislation
   - **month** means a calendar month
   - **New Zealand** or similar words referring to New Zealand, when used as a territorial description,—
     (a) means the islands and territories within the Realm of New Zealand; but
@@ -239,7 +243,8 @@ A reference to anything being done under an Act includes anything done under sec
 ### 25 Date on which Acts commence
 (1) An Act or a part of an Act comes into force on the date stated or provided for in the Act.
 (2) If an Act does not state or provide for a commencement date for the Act or part, the Act or part comes into force on the day after Royal assent.
-(3) However, an Act’s Title and commencement sections, and any section identifying the principal legislation amended, come into force on Royal assent (and no reference in the commencement section includes them).
+(3) However, an Act’s Title and commencement sections, and any principal legislation provision, come into force on Royal assent (and no reference in the commencement section includes them).
+(4) In subsection (3), principal legislation provision means a section or part of a section that identifies legislation being amended.
 
 ### 26 Date on which secondary legislation commences
 (1) Secondary legislation or a part of any secondary legislation comes into force on the date stated or provided for in the legislation.
@@ -419,13 +424,20 @@ A power conferred on the holder of an office, other than a Minister of the Crown
 A form is not invalid just because it contains minor differences from an approved or a prescribed form as long as the form still has the same effect and is not misleading.
 
 ### 53 Extension of power to approve or prescribe forms
-(1) This section applies to a power conferred by legislation to approve or prescribe a form used to supply information that must or may be supplied to any person, or made available, for any purpose.
-(2) The power includes a power to do any 1 or more of the following:
+(1) This section applies to a power (power A) conferred by legislation to approve or prescribe a form used to supply information that must or may be supplied to any person, or made available, for any purpose.
+(2) Power A includes a power (power B) to do any 1 or more of the following:
   (a) identify the information to be supplied or made available:
   (b) approve or prescribe a method, format, or medium for supplying information or making information available:
-  (c) in the case of a power to prescribe a form, authorise a prescribed person to approve or prescribe a form or a method, format, or medium for supplying information or making information available.
-(3) The power to do anything under subsection (2) may be exercised in place of, or as well as, the power to approve or prescribe a form.
-(4) Information supplied or made available under the power under subsection (2) complies with legislation that refers to, requires, or otherwise operates with the form as if the information had been supplied or made available in an approved or a prescribed form (and the legislation applies, with all necessary modifications, accordingly).
+  (c) if power A is a power to prescribe a form, authorise a prescribed person to approve or prescribe a form or a method, format, or medium for supplying information or making information available.
+(3) Power B may be exercised in place of, or as well as, power A.
+(4) Information supplied or made available under power B complies with legislation that refers to, requires, or otherwise operates with the form as if the information had been supplied or made available in an approved or a prescribed form (and the legislation applies, with all necessary modifications, accordingly).
+(5) Subsection (6) applies if—
+  (a) power A is itself a power to make secondary legislation; and
+  (b) secondary legislation made under power A (and in reliance on the power B referred to in subsection (2)﻿(c)) authorises a person to approve or prescribe a form and, in doing so, to determine the information to be supplied or made available; and
+  (c) the form, rather than the secondary legislation, will identify the information to be supplied or made available.
+(6) If this subsection applies,—
+  (a) the instrument by which the person approves or prescribes the form is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the secondary legislation referred to in subsection (5)﻿(b) must contain a statement to that effect.
 
 **Time and distance**
 
@@ -573,19 +585,21 @@ The PCO must ensure that,—
 ### 73 Maker must publish secondary legislation not published by PCO (if required)
 (1) This section applies to secondary legislation that is not published by the PCO.
 (2) The maker of the secondary legislation must comply with the applicable publication requirements (if any) for that secondary legislation.
+(3) For the purpose of this Act and any other legislation, the secondary legislation is published under this Act when the maker first complies with the applicable publication requirements.
 
 ### 74 Applicable publication requirements for secondary legislation not published by PCO
 (1) The applicable publication requirements for any secondary legislation not published by the PCO are the first of the following that applies to its empowering provision:
+  (aa) the minimum requirements that apply under regulations made under this Act (if any):
   (a) the requirements recorded and published by the PCO under clause 14 of Schedule 1 (if any):
-  (b) the 1 or more requirements to publish, notify, or otherwise make secondary legislation available (together with any exemptions or limits on those requirements) that applied to the empowering provision immediately before this section came into force (if any):
-  (c) the minimum requirements that apply under regulations made under this Act (if any).
-(2) However, if section 75 applies to the secondary legislation, the applicable publication requirements are those set in that section.
+  (b) the 1 or more requirements to publish, notify, or otherwise make secondary legislation available (together with any exemptions or limits on those requirements) that applied under an Act to the empowering provision immediately before this section came into force (if any).
+  (c)
+(2) In addition, if section 75 applies to the secondary legislation, the applicable publication requirements include those set out in that section.
 
-### 75 Applicable publication requirements for secondary legislation with international transparency obligations under CPTPP
+### 75 Additional applicable publication requirements for secondary legislation with international transparency obligations under CPTPP
 (1) This section applies to secondary legislation not published by the PCO that—
   (a) is made by a Minister or a relevant central government entity (even if the Minister or entity is performing a statutorily independent function); and
   (b) relates to international transparency obligations (because the publishing under this Part of copies of and links to the legislation would help meet those obligations).
-(2) The applicable publication requirements for secondary legislation with international transparency obligations are that the maker must ensure that—
+(2) The additional applicable publication requirements for secondary legislation with international transparency obligations are that the maker must ensure that—
   (a) the secondary legislation is published on the maker’s website as soon as practicable; and
   (b) the secondary legislation’s details are in, or with, the secondary legislation as published on the maker’s website; and
   (c) the secondary legislation and its details are, as far as practicable, able to be accessed at, or downloaded from, the maker’s website; and
@@ -639,6 +653,13 @@ In this section and sections 74 to 76,—
 (2) An official version of secondary legislation that states the date of publication by the PCO is evidence that the legislation was published on the date stated.
 (3) The presumptions in this section apply unless the contrary is shown.
 
+### 79A Legislative status of publication notes and information
+The following, inserted by the PCO in carrying out its functions of publishing and consolidating legislation, do not form part of the text of the official version of legislation (even if published in that version):
+  (a) machine-readable text, links, or other metadata inserted as an aid to assist users of electronic versions of legislation:
+  (b) a record of the legislative history of the legislation (including a record of the fact that changes have been made by the PCO under subpart 2):
+  (c) information recorded and published by the PCO under clause 14 of Schedule 1 or as an aid to assist users to understand how this Act applies to secondary legislation:
+  (d) any other note or information that is clearly identified, in a suitable place on the legislation website, as not forming part of the legislation.
+
 ### 80 Evidential status of minimum legislative information
 (1) This section applies to minimum legislative information published under this Act.
 (2) Publication of the minimum legislative information for secondary legislation is evidence of the following:
@@ -666,6 +687,14 @@ All courts and persons acting judicially must take judicial notice of all legisl
     (i) the form in which legislation or consolidations of legislation (or any class of them) must be published (including the omission of signatures and formal or introductory parts); and
     (ii) any other matters concerning the publication of legislation or proposed legislation or minimum legislative information.
 (2) A direction given by the Attorney-General under this Part must be given to the PCO in writing.
+
+**Annual report on exemptions from presentation and other drafting and publication matters**
+
+### 83A Annual report on exemptions from presentation and other drafting and publication matters
+(1) The Chief Parliamentary Counsel must, as soon as practicable after the end of each financial year of the PCO, prepare a report on the following matters and provide it to the Attorney-General:
+  (a) the extent to which makers have relied on presentation exemptions during the previous financial year; and
+  (b) any other practices relating to the design, drafting, and publication of legislation that the Chief Parliamentary Counsel thinks fit.
+(2) The Attorney-General must present the report to the House of Representatives.
 
 ### Subpart 2 — Correcting errors and making other editorial changes
 
@@ -721,10 +750,10 @@ The Chief Parliamentary Counsel may authorise the PCO to make format changes to 
 ### 90 When changes take effect
 For the purposes of amendments to, incorporation of, or reference to legislation that has had changes made to it under this subpart, those changes take effect as if enacted or made expressly by other legislation having effect immediately before the date on which the changes were made.
 
-### 91 Changes to be noted in legislation
-If changes authorised by this subpart are made, the relevant version of the legislation must—
-  (a) indicate that fact in a suitable place; and
-  (b) outline in general terms, and in a suitable place, the changes made.
+### 91 Changes to legislation to be noted on legislation website
+If changes authorised by this subpart are made, the PCO must—
+  (a) indicate that fact in a suitable place in the legislation or otherwise on the legislation website; and
+  (b) outline in general terms, and in a suitable place in the legislation or otherwise on the legislation website, the changes made.
 
 ### Subpart 3 — Revision Bills
 
@@ -928,7 +957,7 @@ The purpose of this Part is to support Parliament in overseeing and controlling 
 ### 114 Secondary legislation must be presented to House of Representatives
 (1) The relevant Minister must present secondary legislation to the House of Representatives in accordance with the House’s rules and practice.
 (2) However,—
-  (a) if a presentation exemption applies to secondary legislation (or a part of secondary legislation) under Part 1 of Schedule 3, or under legislation listed in that Part, this requirement does not apply to that legislation or part; and
+  (a) if a presentation exemption applies to secondary legislation (or a part of secondary legislation) under Schedule 3, this requirement does not apply to that legislation or part; and
   (b) see also section 161A of the Local Government Act 2002, which provides that this requirement does not apply to secondary legislation made by a local authority or a council-controlled organisation unless the empowering legislation (or other legislation) expressly requires presentation to the House of Representatives.
 
 ### Subpart 2 — Disallowance by House of Representatives
@@ -938,7 +967,7 @@ This subpart applies to secondary legislation other than—
   (a) secondary legislation made by resolution of the House of Representatives; or
   (b) secondary legislation made under the Royal prerogative; or
   (c) a bylaw as defined in section 2 of the Bylaws Act 1910; or
-  (d) secondary legislation made under an empowering provision that is listed in Part 2 of Schedule 3.
+  (d) secondary legislation to which a disallowance exemption applies under Schedule 3.
 
 ### 116 House of Representatives may disallow secondary legislation by resolution
 (1) The House of Representatives may, by resolution, disallow any secondary legislation, or provision of secondary legislation, to which this subpart applies.
@@ -1155,7 +1184,10 @@ Sections 143 and 144 of this Act do not apply to any secondment arranged under s
 (1) The Governor-General may, by Order in Council made on the recommendation of the Attorney-General, make regulations for 1 or more of the following purposes:Requirements for publication on and after main commencement dateRequirements for publication and lodgement for publication on and after publication commencement dateFeesOther matters
   (a) prescribing additional minimum legislative information for the purposes of the definition of that term in section 5(1):
   (b) prescribing information for the purposes of the obligation for the PCO to notify the making of secondary legislation in the Gazette under section 69:
-  (c) prescribing minimum requirements for the manner in which secondary legislation, or a part of secondary legislation, must be published, notified, or otherwise made available for the purpose of the applicable publication requirements under section 74(1) (but only for empowering provisions that are enacted on or after the main commencement date):
+  (c) prescribing minimum requirements for the manner in which secondary legislation, or a part of secondary legislation, must be published, notified, or otherwise made available for the purpose of the applicable publication requirements under section 74(1) (but only for empowering provisions that—
+    (i) are enacted on or after the main commencement date; or
+    (ii) were enacted before the main commencement date and are specified in the regulations as ones to which section 74(1)﻿(aa) applies); or
+    (iii) are in this Act:
   (d) prescribing any instrument of the Crown for the purposes of paragraph (d) of the definition of relevant central government entity in section 77 (as in force on the main commencement date):
   (e) requiring makers of secondary legislation not drafted by the PCO to lodge with the PCO for publication specified updates or corrections to minimum legislative information that is published under this Act:
   (f) specifying, for the purposes of section 70(1)﻿(c), the secondary legislation for which a consolidation must be published under this Act if the legislation is amended:
@@ -1187,9 +1219,7 @@ Sections 143 and 144 of this Act do not apply to any secondment arranged under s
     (ii) dates and classes of secondary legislation (which may include all secondary legislation that is not listed or published on a particular date) for the purposes of revocations under that subpart:
     (iii) any matters set out in paragraphs (a) to (l) that are relevant to minimum legislative information or secondary legislation that is lodged under that subpart:
   (t) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
-(2) The following are secondary legislation (see Part 3 for publication requirements):
-  (a) regulations under this section:
-  (b) a notice under subsection (1)﻿(i).
+(2) The Attorney-General must, before making a recommendation to specify an empowering provision under subsection (1)﻿(c)﻿(ii), be satisfied that the maker of the secondary legislation under that empowering provision has recommended that section 74(1)﻿(aa) apply to the empowering provision.
 (3) The Attorney-General must, before making a recommendation in relation to an exemption under subsection (1)﻿(k),—
   (a) have regard to the purpose of this Act; and
   (b) be satisfied that there is good reason for granting the exemption that outweighs the interests of the public in having the requirement met; and
@@ -1200,8 +1230,23 @@ Sections 143 and 144 of this Act do not apply to any secondment arranged under s
   (a) to publish secondary legislation that does not meet the prescribed standard requirements for lodgement:
   (b) to make an editorial change under subpart 2 of Part 3.
 (7) Any fee, charge, or cost payable to the PCO is recoverable by the PCO in any court of competent jurisdiction as a debt due to the PCO.
+(7A) Regulations made under this section are secondary legislation (see Part 3 for publication requirements).
+(7B) If regulations made under subsection (1)﻿(i) authorise the PCO to determine or prescribe matters by notice,—
+  (a) a notice made under the regulations is secondary legislation (see Part 3 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 (8) References to sections of this Act (or to terms) in subsection (1)﻿(f) to (l) are to sections as in force (and to terms as defined) on and after the publication commencement date.
 (9) In this section, main commencement date and publication commencement date have the meanings set out in clause 2 of Schedule 1.
+
+### 147A Regulations may make consequential amendments to other secondary legislation that authorises sub-delegated legislation
+(1) This section applies to any secondary legislation that—
+  (a) authorises the making of other secondary legislation (sub-delegated legislation); and
+  (b) is required, by its own empowering legislation, to contain a statement to the effect that the sub-delegated legislation is secondary legislation.
+(2) A failure to contain that statement does not affect the validity of either the secondary legislation or the sub-delegated legislation.
+(3) However, the Governor-General may, by Order in Council, make regulations to amend the secondary legislation (whether or not made by the Governor-General) to—
+  (a) contain a statement to that effect and refer to Part 3 of this Act as containing the publication requirements; and
+  (b) make any other consequential amendments.
+(4) The only facts, circumstances, or preconditions that must exist or be satisfied before those amendments are made are those that apply under this section.
+(5) Regulations made under this section are secondary legislation (see Part 3 for publication requirements).
 
 **Review of revision programme provisions**
 
@@ -1333,10 +1378,11 @@ Section 26 of the Acts Interpretation Act 1908 as set out in Schedule 2 of the A
 (1) This clause applies, for the purposes of section 74(1)﻿(a), to empowering provisions that are enacted before the main commencement date.
 (2) For the purposes of the applicable publication requirements under that paragraph (as in force on the main commencement date),—
   (a) the PCO may record and publish, as the applicable publication requirements for the empowering provision,—
-    (i) the 1 or more requirements to publish, notify, or otherwise make available secondary legislation made under the empowering provision that applied, with the same or substantially the same effect, immediately before the main commencement date; and with
+    (i) the 1 or more requirements to publish, notify, or otherwise make available secondary legislation made under the empowering provision that applied under an Act, with the same or substantially the same effect, immediately before the main commencement date; and with
     (ii) any exemptions or limits on those requirements; and with
     (iii) any necessary modifications in light of other amendments made to the legislation on or after the main commencement date; and
   (b) the PCO must publish those applicable publication requirements, on the legislation website, by publishing either a link to the previous provision that set out that requirement or the record made under paragraph (a).
+(3) Nothing in this clause limits the information that the PCO may record and publish in relation to an Act in relation to an empowering provision (for example, as an aid to assist users to understand how this Act applies to secondary legislation).
 
 ### 15 Maker must lodge minimum legislative information before list deadline (if clause applies)
 (1) This clause applies to secondary legislation on and after the publication commencement date if—
@@ -1358,7 +1404,7 @@ Section 26 of the Acts Interpretation Act 1908 as set out in Schedule 2 of the A
   (c) a deadline earlier than a deadline under paragraph (a) or (b) that is set by agreement between the maker and the Chief Parliamentary Counsel.
 (6) For the purposes of subclause (2)﻿(b), in relation to the applicable publication requirements for secondary legislation with international transparency obligations,—
   (a) sections 75 to 77 continue to apply (as in force immediately before the publication commencement date):
-  (b) any direction made under section 76 (or previously under section 36E(4) of the Legislation Act 2012) continues in force, and may continue to be amended or revoked as if section 76 were still in force:
+  (b) any direction made under section 76 (or previously under section 36E or 36F of the Legislation Act 2012) continues in force, and may continue to be amended or revoked as if section 76 were still in force:
   (c) any regulations made for the purposes of the definition of relevant central government entity continue in force, and may continue to be amended or revoked as if section 147(1)﻿(d) were still in force.
 
 ### 16 Maker must lodge secondary legislation for full publication before publication deadline (if clause applies)
@@ -1385,22 +1431,24 @@ The following sections do not apply to minimum legislative information lodged, o
 
 **Other transitional matters**
 
-### 19 Transitional regulation-making power to clarify or correct legislative status of instruments
+### 19 Transitional regulation-making power
 (1) The purpose of this clause is to facilitate an orderly implementation of this Act by enabling amendments that—
   (a) ensure that instruments are secondary legislation under this Act if they have, or any part of them has, legislative effect (and exclude instruments from being secondary legislation if no part of them has legislative effect); and
+  (ab) if they are secondary legislation, ensure that this Act applies appropriately to them; and
   (b) are consistent with the purpose of this Act.
-(2) The Governor-General may, by Order in Council made on the recommendation of the Attorney-General,—
-  (a) declare that instruments made under legislation are secondary legislation or are excluded from being secondary legislation; and
-  (b) make any 1 or more of the following amendments to legislation to give effect to that declaration or exclusion:
-    (i) insert or repeal any statement to the effect that those instruments are secondary legislation (and must be published under this Act):
-    (ii) in the case of an inclusion, repeal any requirement for those instruments to be published or notified by another means:
-    (iii) in the case of an exclusion, insert a requirement for those instruments to be published, notified, or otherwise made available by another means:
-    (iv) make any other amendment that is necessary for that purpose or that is consequential on other amendments authorised by this clause (for example, removing any reference to disallowable instruments).
+(2) The Governor-General may, by Order in Council made on the recommendation of the Attorney-General, make regulations for any 1 or more of the following purposes:
+  (a) to amend legislation to insert, delete, or amend a statement to the effect that an instrument or a class of instruments is secondary legislation (together with a statement referring to Part 3 of this Act for publication requirements):
+  (b) to amend Schedule 1A of this Act to insert, delete, or amend a description of an instrument made by Royal prerogative:
+  (c) to amend Schedule 3 of this Act to insert, delete, or amend an exemption from this Act:
+  (d) to make another amendment to legislation that is necessary or desirable—
+    (i) as a consequence of an instrument, or a class of instruments, being secondary legislation or not (for example, to delete any reference to disallowable instruments or to insert publication or notification requirements for instruments that are not secondary legislation); or
+    (ii) to ensure that this Act applies appropriately in relation to the instrument (for example, to clarify the maker of the instrument or to permit the instrument to continue to come into force despite not yet being published); or
+    (iii) as a consequence of another amendment authorised by this clause (for example, to update the legislation to reflect changed section references or procedural requirements).
 (3) The Attorney-General may make a recommendation under this clause only after—
   (a) consulting the committee of the House of Representatives that is responsible for the review of secondary legislation; and
   (b) having regard to the purpose of this clause.
-(4) An order under this clause is secondary legislation (see Part 3 for publication requirements).
-(5) This clause is repealed on the third anniversary of the main commencement date.
+(4) Regulations made under this clause are secondary legislation (see Part 3 for publication requirements).
+(5) This clause is repealed on the publication commencement date.
 
 ### 20 Transitional application of publication responsibilities
 (1) Section 69, and other publication or notification responsibilities for the PCO under Part 3 (as in force on the main commencement date), do not apply to—
@@ -1454,6 +1502,11 @@ Section 18(3) of the Legislation Act 2012 continues to apply to regulations or a
   (b) until an official electronic or printed version was or is issued under section 17 of the Legislation Act 2012 or section 78 of this Act.
 (2) Sections 16C and 16D of the Acts and Regulations Publication Act 1989 continue to apply to those copies despite the repeal of that Act.
 
+### 27A Annual report on exemptions from presentation and other drafting and publication matters
+The first annual report required under section 83A must—
+  (a) be provided to the Attorney-General as soon as practicable after the end of the financial year ending on 30 June 2022; and
+  (b) cover the period from the main commencement date to 30 June 2022.
+
 **Correcting errors and making other editorial changes**
 
 ### 28 How power to make editorial changes applies to legislation published under old publication requirements
@@ -1481,18 +1534,24 @@ Part 4 of this Act does not apply to—
 **Presentation to House of Representatives**
 
 ### 32 Limited application of presentation requirements to secondary legislation made before publication deadline
-(1) Subpart 1 of Part 5 of this Act, which requires secondary legislation to be presented to the House of Representatives,—
-  (a) applies to secondary legislation made on or after the main commencement date if, before that date, instruments made under the same empowering provision were—
+(1AA) This clause applies to secondary legislation that is made before the publication deadline for the secondary legislation.
+(1) Subpart 1 of Part 5 of this Act, which requires secondary legislation to be presented to the House of Representatives, applies to the secondary legislation only if—
+  (a) it is made under an empowering provision that was enacted before the main commencement date and, before that date, instruments made under the provision were—
     (i) legislative instruments; or
     (ii) instruments stated by an Act to be disallowable instruments for the purposes of the Legislation Act 2012; or
-    (iii) expressly required to be presented to the House of Representatives; and
-  (b) applies to other secondary legislation only if it is made after its publication deadline or it is required to be published by the PCO under this Act.
-(2) Subclause (1)﻿(a) does not affect any requirement for the legislation to be presented to the House of Representatives that applied when the secondary legislation was made.
+    (iii) expressly required to be presented to the House of Representatives; or
+  (b) it is made under an empowering provision that was enacted on or after the main commencement date.
+(2) This clause does not affect any requirement for the legislation to be presented to the House of Representatives that applied when the secondary legislation was made.
 
 **Disallowance**
 
 ### 33 Old disallowance provisions continue to apply to existing notices of motion, etc
 Subpart 1 of Part 3 of the Legislation Act 2012 continues to apply to a notice of motion to disallow or amend a disallowable instrument (as defined in that Act) that is given, and not withdrawn or disposed of, before the main commencement date.
+
+### 33A New disallowance provisions apply to previously disallowable instruments
+Subpart 2 of Part 5 of this Act (which provides for disallowance of secondary legislation), applies to anything that was an instrument of the following type at the time it was made (or an amendment to that instrument made at any time):
+  (a) a legislative instrument (other than a legislative instrument that was stated by an Act not to be disallowable for the purposes of the Legislation Act 2012):
+  (b) an instrument that was stated by an Act to be a disallowable instrument for the purposes of the Legislation Act 2012.
 
 **Confirmation**
 
@@ -1503,6 +1562,17 @@ Subpart 1A of Part 3 of the Legislation Act 2012 continues to apply to a confirm
 
 ### 35 Saving for existing appointment
 The Chief Parliamentary Counsel holding office under section 66 of the Legislation Act 2012 continues to hold that office under section 135 of this Act.
+
+## Schedule 1A — Secondary legislation made by Royal prerogative
+
+| Form | Purpose(s) for which made |
+| --- | --- |
+| Letters Patent | Constituting the Office of Governor-General of New Zealand (including constituting the Executive Council, conferring powers on the Governor-General and Executive Council, and otherwise providing for them). |
+| Rules | Regulating the use of images of the Royal family for commercial purposes. |
+| Royal Warrant | Establishing Royal Honours and regulating the granting, use, and retention of those Honours (including by delegating any matter to regulations or rules). |
+| Regulations or rules | Regulating the eligibility and other matters delegated by Royal Warrant in relation to Royal Honours. |
+| Rules | Regulating the acceptance and wearing of Commonwealth, foreign, and international Honours by New Zealand citizens. |
+| Rules | Regulating the granting, use, and retention of the titles “The Right Honourable” and “The Honourable” in New Zealand. |
 
 ## Schedule 2 — Incorporation by reference
 
@@ -1543,7 +1613,94 @@ Subpart 1 of Part 3 and section 114 of this Act do not apply to material that is
 ### 6 Failure to comply does not invalidate
 A failure to comply with this schedule does not invalidate secondary legislation that incorporates material by reference.
 
-## Schedule 3 — Secondary legislation exempted from presentation or disallowance under this Act
+## Schedule 3 — Exemptions from presentation or disallowance under this Act
+
+| Empowering provision | Exemption grounds | Presentation exemption (s 114(2)﻿(a)) | Disallowance exemption (s 115(d)) |
+| --- | --- | --- | --- |
+| Animal Products Act 1999 |  |  |  |
+| Section 167(1) (for the purposes of section 38(2)﻿(b) or 60) |  |  | Exemption applies |
+| Child Poverty Reduction Act 2018 |  |  |  |
+| Section 6 (in combination with section 34) |  |  | Exemption applies |
+| Civil Aviation Act 1990 |  |  |  |
+| Section 28 | Exemption groundCompliance is inappropriate for reasons of security. | Exemption applies if exemption ground is met |  |
+| Section 31 | Exemption groundCompliance is inappropriate for reasons of security. | Exemption applies if exemption ground is met |  |
+| Section 34A | Exemption groundCompliance is inappropriate for reasons of security. | Exemption applies if exemption ground is met |  |
+| Section 77A | Exemption groundCompliance would prejudice the national security interests of New Zealand. | Exemption applies if exemption ground is met |  |
+| Section 77B | Exemption groundCompliance would prejudice the national security interests of New Zealand. | Exemption applies if exemption ground is met |  |
+| Section 107(1) |  |  | Exemption applies |
+| Civil Defence Emergency Management Act 2002 |  |  |  |
+| Section 39 |  |  | Exemption applies |
+| Commerce Act 1986 |  |  |  |
+| Section 52P |  |  | Exemption applies |
+| Section 52W |  |  | Exemption applies |
+| Section 53ZG |  |  | Exemption applies |
+| District Court Act 2016 |  |  |  |
+| Section 60(1)﻿(b), (2) |  |  | Exemption applies |
+| Dog Control Act 1996 |  |  |  |
+| Section 78A(1) |  |  | Exemption applies |
+| Financial Markets Conduct Act 2013 |  |  |  |
+| Section 556 | Exemption groundIf the FMA is satisfied on reasonable grounds that it is proper to defer compliance on the ground of commercial confidentiality. | Exemption applies if exemption ground is met |  |
+| Fisheries Act 1996 |  |  |  |
+| Regulations made under section 186 | Exemption groundThe secondary legislation is bylaws made under the regulations for the purposes of section 49 of Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019. |  | Exemption applies if exemption ground is met |
+| Governor-General Act 2010 |  |  |  |
+| Section 5 |  |  | Exemption applies |
+| Section 6 |  |  | Exemption applies |
+| Section 8 |  |  | Exemption applies |
+| Health and Safety at Work Act 2015 |  |  |  |
+| Section 7(5) |  |  | Exemption applies |
+| Section 8(2) |  |  | Exemption applies |
+| Members of Parliament (Remuneration and Services) Act 2013 |  |  |  |
+| Section 8(1) |  | Exemption applies | Exemption applies |
+| Section 17(1) |  | Exemption applies | Exemption applies |
+| Section 23 |  |  | Exemption applies |
+| Section 27 |  |  | Exemption applies |
+| Section 32(4), (6) |  | Exemption applies | Exemption applies |
+| Section 43 |  | Exemption applies | Exemption applies |
+| Section 44 |  | Exemption applies | Exemption applies |
+| Misuse of Drugs Act 1975 |  |  |  |
+| Section 4(1), (1B) |  |  | Exemption applies |
+| Ombudsmen Act 1975 |  |  |  |
+| Section 15 |  | Exemption applies | See s 115(a) |
+| Parliamentary Service Act 2000 |  |  |  |
+| Section 25 |  | Exemption applies | See s 115(a) |
+| Remuneration Authority Act 1977 |  |  |  |
+| Section 12B(1), (2) |  | Exemption applies | Exemption applies |
+| Takeovers Act 1993 |  |  |  |
+| Section 45(1)﻿(a), (b) | Exemption groundThe Takeovers Panel is satisfied on reasonable grounds that it is proper to defer compliance for reasons of commercial confidentiality. | Exemption applies while exemption ground is met |  |
+| Telecommunications Act 2001 |  |  |  |
+| Section 27 |  |  | Exemption applies |
+| Section 30M |  |  | Exemption applies |
+| Section 30R |  |  | Exemption applies |
+| Section 39 |  |  | Exemption applies |
+| Section 51 |  |  | Exemption applies |
+| Section 58 |  |  | Exemption applies |
+| Section 59 |  |  | Exemption applies |
+| Section 87 |  |  | Exemption applies |
+| Section 94J |  |  | Exemption applies |
+| Section 170(1) |  |  | Exemption applies |
+| Section 180 |  |  | Exemption applies |
+| Section 222 |  |  | Exemption applies |
+| Section 236 |  |  | Exemption applies |
+| Section 238 |  |  | Exemption applies |
+| Schedule 2, clause 10 |  |  | Exemption applies |
+| Schedule 2, clause 17 |  |  | Exemption applies |
+| Schedule 2A, clause 3 |  |  | Exemption applies |
+| Telecommunications (Interception Capability and Security) Act 2013 |  |  |  |
+| Section 29 |  |  | Exemption applies |
+| Section 34 |  |  | Exemption applies |
+| Section 49 |  |  | Exemption applies |
+| Wine Act 2003 |  |  |  |
+| Section 120(1) (for the purposes of section 41(2)) |  |  | Exemption applies |
+
+| Empowering provision | Presentation exemption (s 114(2)﻿(a)) | Disallowance exemption (s 115) |
+| --- | --- | --- |
+| Royal prerogative |  |  |
+| Letters Patent Constituting the Office of Governor-General of New Zealand (and other matters included under Schedule 1A). |  | See s 115(b) |
+| Rules regulating the use of images of the Royal family for commercial purposes. |  | See s 115(b) |
+| Royal Warrants establishing Royal Honours and regulating the granting, use, and retention of those Honours (including by delegating any matter to regulations or rules). |  | See s 115(b) |
+| Regulations or rules regulating eligibility and other matters delegated by Royal Warrant in relation to Royal Honours. |  | See s 115(b) |
+| Rules regulating the acceptance and wearing of Commonwealth, foreign, and international Honours by New Zealand citizens. |  | See s 115(b) |
+| Rules regulating the granting, use, and retention of the titles The Right Honourable and The Honourable in New Zealand. |  | See s 115(b) |
 
 ## Schedule 4 — Secondary legislation subject to confirmation by Act
 
@@ -1574,14 +1731,17 @@ A failure to comply with this schedule does not invalidate secondary legislation
 | Energy Resources Levy Act 1976 | 5(1) |  |
 | Fisheries Act 1996 | 74(7) |  |
 | Food Act 2014 | 207 |  |
+| Forests Act 1949 | 63ZZI |  |
 | Forests Act 1949 | 67ZM |  |
 | Gambling Act 2003 | 319(1) |  |
 | KiwiSaver Act 2006 | 65(1) |  |
-| Land Transport Act 1998 | 269 and 269A | Only if the regulations prescribe fees or charges that are identified, or are to be treated, as land transport revenue for the purposes of the Land Transport Management Act 2003 |
+| Land Transport Act 1998 | 167(1)﻿(j) | Only if the regulations prescribe fees or charges that are identified as land transport revenue for the purposes of the Land Transport Management Act 2003 |
+| Land Transport Act 1998 | 269 or 269A | Only if the regulations prescribe fees or charges that are identified, or are to be treated, as land transport revenue for the purposes of the Land Transport Management Act 2003 |
 | Land Transport Management Act 2003 | 65ZJ(1) |  |
 | Maritime Security Act 2004 | 78(4)﻿(b) |  |
 | National Animal Identification and Tracing Act 2012 | 62 |  |
 | National Animal Identification and Tracing Act 2012 | 67(2) |  |
+| New Zealand Horticulture Export Authority Act 1987 | 62B |  |
 | New Zealand Superannuation and Retirement Income Act 2001 | 15(2) |  |
 | New Zealand Superannuation and Retirement Income Act 2001 | 30(2) |  |
 | Parental Leave and Employment Protection Act 1987 | 71O and 73(1)﻿(ad) |  |
