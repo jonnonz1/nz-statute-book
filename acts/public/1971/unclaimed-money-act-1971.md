@@ -1,5 +1,5 @@
 # Unclaimed Money Act 1971
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-03-30_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to unclaimed money
 
@@ -10,9 +10,15 @@ _Consolidation as at 2017-03-01_
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
   - **Commissioner** means the Commissioner of Inland Revenue as defined in the Tax Administration Act 1994
+  - **document** means—
+    (a) a thing that is used to hold, in or on the thing and in any form, items of information:
+    (b) an item of information held in or on a thing referred to in paragraph (a):
+    (c) a device associated with a thing referred to in paragraph (a) and required for the expression, in any form, of an item of information held in or on the thing
   - **holder** , in relation to any unclaimed money, means a holder within the meaning of section 5; and includes any person acting for or on behalf of the holder; and also includes the personal representative of the holder
+  - **mutual association** means a body or association of persons, whether incorporated or not, which enters into transactions of a mutual character with its members, whether or not it also enters into transactions with other persons
   - **officer of the Department** means any person employed in the Inland Revenue Department
   - **owner** , in relation to any unclaimed money, means the person entitled to the unclaimed money; and includes any other person claiming under or on behalf of that person
+  - **quarter** means a period of 3 consecutive calendar months that ends with the last day of March, June, September, or December
   - **savings bank** means—
     (a) Post Office Bank Limited:
     (b) a trustee bank's successor company in respect of any money vested in it by virtue of the Trustee Banks Restructuring Act 1988:
@@ -23,30 +29,43 @@ In this Act, unless the context otherwise requires,—
 ### 3 Unclaimed money to be paid to Crown
 Subject to this Act, there shall be payable to the Crown all money which becomes unclaimed money after the commencement of this Act, except and so far as special provisions are made by or under any other Act.
 
-### 4 Unclaimed money
-(1) Subject to this section, unclaimed money shall consist of—
-  (a) money, including the interest or any amount in the nature of interest thereon, deposited with any holder so as to bear interest for a fixed term, which has been in the possession of the holder for the period of 6 years immediately following the date of expiry of the term:
-  (b) money, including the interest or any amount in the nature of interest thereon, deposited with any holder so as to bear interest—where in either case the customer has not operated on the account for a period of 25 years, whether by deposit, or withdrawal, or instruction in writing:
-    (i) without limitation of time; or
-    (ii) for a fixed term where, on the expiry of the fixed term, the money, if it is not withdrawn by the customer, is to be treated as reinvested,—
-  (c) money deposited upon current account or otherwise with any holder and not bearing interest, where—
-    (i) in any case where the holder is a savings bank, the customer has not operated on the account for a period of 25 years, whether by deposit, or withdrawal, or instruction in writing; and
-    (ii) in any other case, the customer has not operated on the account for a period of 6 years, whether by deposit, or withdrawal, or instruction in writing:
-  (d) money payable or distributable on or in consequence of the maturity of a policy of life assurance, being money which has been in the possession of any holder for the period of 6 years immediately succeeding the date on which—whichever date is the earlier, and notwithstanding that by the terms of the policy the money is not payable or distributable except on proof of death, or on proof of age or any other collateral matter:
-    (i) the policy matured otherwise than by death; or
-    (ii) the holder first had reason to suppose that the policy has matured by death, whether such death has been legally proved or not,—
-  (e) any other money, of any kind whatsoever, which has been owing by any holder for the period of 6 years immediately following the date on which the money has become payable by the holder:
-  provided that money of any of the kinds referred to in this subsection shall cease to be unclaimed money where—
-    (i) in respect of any one owner it does not exceed $100 in total; and
-    (ii) before the 1 June next succeeding the end of the period of 6 years or, as the case may be, 25 years specified in this subsection, that unclaimed money is, without limiting any claim any owner may have thereto, applied by the holder for his own benefit or for the benefit of any other person or for any purpose or object.
-(2) Unclaimed money shall not include—
-  (a) any dividends, not being dividends payable by a mutual association in relation to money deposited with the association, payable by a company to any of its shareholders:
-  (b) any rebate payable by a mutual association (other than a holder of the kind referred to in paragraph (f) of subsection (1) of section 5) to any of its members in relation to the trading transactions of the member with the association, not being a rebate payable in relation to money deposited with the association:
-  (c) any benefits payable from any pension or superannuation fund.
-(3) Where a holder has ceased to carry on business or has died, and the holder, or, as the case may be, his personal representative, has for a period of 6 months or more immediately succeeding the date of that cessation or death been in possession of or owed money which has remained unclaimed and—the holder or that personal representative may, if he thinks fit, pay the money to the Commissioner and furnish to the Commissioner particulars of the payment and of the person on whose behalf the money was held or to whom it was owed; and thereupon that money shall be deemed to be unclaimed money, and the provisions of this Act, as far as they are applicable, shall apply accordingly.
-  (a) which would become unclaimed money when the period referred to in the appropriate paragraph of subsection (1) had expired if the money had remained unclaimed; or
-  (b) which would have so become unclaimed money if it were not money of any of the kinds referred to in subsection (2),—
-(4) In subsection (2) the expression mutual association means any body or association of persons, whether incorporated or not, which enters into transactions of a mutual character with its members, whether or not it also enters into transactions with other persons.
+### 4 Meaning of unclaimed money
+(1) Unclaimed money means money held in New Zealand that—
+  (a) is payable by a person who is a holder under section 5 to the person who is entitled to the money (the owner); and
+  (b) meets the requirements of subsection (2) or (7); and
+  (c) is held by a person who—
+    (i) is not the Commissioner; or
+    (ii) is the Commissioner and has not delisted the money under section 11(6).
+(2) Money meets the requirements of this subsection if—
+  (a) the obligation of the holder to pay the money to the owner arises under an agreement, arrangement, or situation described in subsection (4); and
+  (b) the money is not excluded from meeting the requirements of this subsection by subsection (5); and
+  (c) the requirements of subsection (3) are met.
+(3) The requirements of this subsection are met if—
+  (a) the amount of money payable to an individual owner is more than $100, and—
+    (i) for money to which a single-term arrangement described in subsection (6)﻿(a) applies, the owner during a period of 5 years does not request information from, and does not provide instructions or information to, the holder, whether about the money or about another matter; and
+    (ii) for money to which a renewing-term arrangement described in subsection (6)﻿(b) applies, the owner during a period of 5 years beginning on or after the end of the first fixed period and ending with the end of the second or a later fixed period does not request information from, and does not provide instructions or information to, the holder, whether about the money or about another matter; or
+  (b) the holder chooses to pay the money to the Commissioner as unclaimed money and satisfies the requirements of section 5B.
+(4) For the purposes of subsection (2), money payable by a holder to an owner may be unclaimed money if the obligation arises under 1 or more of—
+  (a) an arrangement under which the holder receives money from the owner in consideration for the holder’s providing money to the owner at a future time or on the occurrence or non-occurrence of a future event, whether or not the event occurs because notice is given or not given:
+  (b) a policy of life assurance that matures—
+    (i) otherwise than by death; or
+    (ii) by death, in which case the due date for payment is treated for the purposes of subsection (2) as being the date on which the holder first has reason to suppose that the death has occurred:
+  (c) an agreement, arrangement, or situation that gives rise to an obligation under law or equity of the holder to make a payment to the owner.
+(5) Money payable by a holder to an owner does not meet the requirements of subsection (2) if the money is payable—
+  (a) as a dividend by the holder as a company to the owner as a shareholder, unless the payment is made by the holder as a mutual association in relation to money deposited with the holder by the owner as a member:
+  (b) as a rebate by the holder as a mutual association to the owner as a member in relation to the trading transactions of the member with the association, unless the payment is made in relation to money deposited with the holder by the owner:
+  (c) as a benefit from a pension fund or superannuation fund.
+(6) For the purposes of subsection (3)﻿(a),—
+  (a) an arrangement that applies to money is a single-term arrangement if, under the arrangement, the money becomes due for payment on the date of a demand by the owner, or on a specified date or on the date of the occurrence or non-occurrence of an event, and remains due after that date until paid to the owner:
+  (b) an arrangement that applies to money is a renewing-term arrangement if, under the arrangement, the money—
+    (i) becomes due for payment after a fixed period if the owner near the end of the fixed period requests repayment; and
+    (ii) is treated as being paid by the holder to the owner and then by the owner to the holder for a further fixed period if the owner does not request repayment as described in subparagraph (i).
+(7) Money meets the requirements of this subsection if—
+  (a) the money is payable to an owner by a holder who ceases to carry on business, or by the personal representative of a holder who dies; and
+  (b) the obligation of the holder to make the payment arises from the holder’s business; and
+  (c) the money is held by the holder or the personal representative of the holder after a period of 6 months from the cessation or death; and
+  (d) the money would meet the requirements of subsection (2) in the absence of subsection (4) if the holder or the personal representative of the holder were to hold the money for a sufficient period; and
+  (e) the holder or the personal representative of the holder chooses to pay the money to the Commissioner and satisfies the requirements of section 5B.
 
 ### 5 Holder
 (1) This Act shall apply to unclaimed money held or owing by the following holders:
@@ -63,54 +82,78 @@ Subject to this Act, there shall be payable to the Crown all money which becomes
   (j) any qualified statutory accountant (within the meaning of section 5(1) of the Financial Reporting Act 2013) in respect of money held on behalf of clients:
   (k) any motor vehicle trader within the meaning of the Motor Vehicle Sales Act 2003, whether or not a company, for money held on behalf of any person for whom the trader has acted as agent in the course of carrying on the business of motor vehicle trading:
   provided that where any holder referred to in paragraph (e) or paragraph (g) or paragraph (h) or paragraph (i) or paragraph (k) is a company, nothing in those paragraphs shall derogate from the provisions of paragraphs (a) and (b) in relation to that holder.
-(2) Any person, firm, body, or institution may elect to be the holder in respect of such money held or owing by him or it as he or it thinks fit, not being—and in that case he or it shall be deemed to be the holder in respect of that money.
-  (a) unclaimed money in respect of which he or it is the holder under subsection (1); or
-  (b) except where subsection (3) of section 4 applies, money to which subsection (2) of that section applies;—
+(2) A person, firm, body, or institution (the elective holder) who holds or owes an amount of money is the holder of the money under this subsection if—
+  (a) the money is not unclaimed money under section 4(2) or (7) of which the elective holder is the holder under subsection (1); and
+  (b) if the money is excluded from being unclaimed money by section 4(5), the money meets the requirements of section 4(7); and
+  (c) the elective holder chooses to be treated as the holder of the money.
+(3) A department or office of Parliament or Crown entity, as defined in the Public Finance Act 1989, or an organisation or company listed in Schedule 4 or 4A of that Act, is excluded from being a holder under this Act.
+
+### 5B Obligations of holders
+(1) A holder must make reasonable efforts to locate the owner of money that is, or will soon become, unclaimed money and to communicate with the owner concerning the money.
+(2) A holder of money that pays the money to the Commissioner as unclaimed money must provide to the Commissioner, with or before the payment and in a form acceptable to the Commissioner, the information relating to the owner and the money that is in the possession or control of the holder and is readily available to the holder, including—
+  (a) the source, and history of the accrual, of the amount:
+  (b) the identity and whereabouts of the owner:
+  (c) the source of the owner’s entitlement to payment of the money.
 
 ### 6 Register to be kept
-(1) Every holder shall, on 1 June in each year, enter in an alphabetical register, to be kept at the head or principal office in New Zealand of the holder, in the form prescribed in the Schedule, particulars of unclaimed money arising on or after 1 June in the preceding year; and from and after 8 June in each year that register shall be open to the inspection of all persons at that head or principal office during the hours within which the ordinary business of the holder is transacted, on payment of such fee as may be determined by the holder, but not exceeding 50 cents:
-  provided that—
-    (a) on ceasing to carry on business in New Zealand a holder shall deposit the register in the custody of the Registrar of the office of the District Court nearest to the place where that register was theretofore kept:
-    (b) any holder may at any time so deposit any book or part of the register in which no entry has been made for a period of not less than 6 years immediately preceding the date of that deposit.
-(2) Nothing in this section shall apply to any unclaimed money in respect of which special provisions are made by or under any other Act, or to any unclaimed money which, pursuant to the proviso to subsection (1) of section 4, ceases to be unclaimed money.
+[Repealed]
 
 ### 7 Holder to notify Commissioner and owners of entries in register of unclaimed money
-(1) Not later than 30 June in each year, every holder shall, by letter addressed to the last known place of business or abode of the owner, post to every owner in respect of whom an entry as the owner of unclaimed money was required to be made on the first day of that month in the register kept by the holder pursuant to section 6, a notice specifying the amount of that money and the fact that it is entered in the register as unclaimed money, and the holder shall thereupon enter in that register the date of posting of the notice.
-(2) Not later than 30 September in each year, every holder shall furnish to the Commissioner a copy of every entry made, on or after 1 June in that year, in the register kept by the holder pursuant to section 6, and shall indicate to the Commissioner which, if any, of the unclaimed money in respect of which the entry was so made, has, on or after that 1 June, been paid to the owner thereof.
-(3) Nothing in this section shall apply to any unclaimed money in respect of which special provisions are made by or under any other Act.
+[Repealed]
 
 ### 8 Payment of unclaimed money to Commissioner
-(1) All unclaimed money arising in any year ending with 31 May which has not, before the next succeeding 30 September, been paid by a holder to the owner thereof, and in respect of which no person has before that 30 September established a valid claim, shall be paid, on or before the next succeeding 31 October, by the holder to the Commissioner:
-  provided that this subsection shall not apply to any unclaimed money in respect of which special provisions in relation to payment to the Commissioner are made by this Act or in respect of which special provisions are made by or under any other Act.
-(2) All money payable to the Commissioner in accordance with this section shall be recoverable by the Commissioner on behalf of the Crown by action in his official name in any court of competent jurisdiction against the holder as a debt due to the Crown.
+(1) If money becomes unclaimed money under section 4(2) for a holder in a reporting period given by subsection (5), the holder must, within a period of 1 month and 20 days from the end of the reporting period,—
+  (a) meet the requirements of section 5B for the money; and
+  (b) pay the money to the Commissioner.
+(2) All money payable to the Commissioner in accordance with this section shall be recoverable by the Commissioner on behalf of the Crown by action in the Commissioner’s official name in any court of competent jurisdiction against the holder as a debt due to the Crown.
 (3) All unclaimed money received by the Commissioner under this or any other Act shall be paid into a Crown Bank Account.
 (4) Where unclaimed money is paid by a holder to the Commissioner in accordance with this Act, the holder shall thereafter be relieved of all further liability to any claimant in respect of the money so paid.
+(5) The period (the reporting period) for a holder within which the holder is required to comply with subsection (1) for an amount of unclaimed money is—
+  (a) a quarter, except if paragraph (b) or (c) applies; or
+  (b) a period consisting of 2 consecutive quarters and starting and ending on calendar dates approved by the Commissioner, if the Commissioner approves the use of a 6-monthly reporting period by the holder and paragraph (c) does not apply; or
+  (c) for a period that is the first reporting period of the holder ending after the date on which this Act receives the Royal assent, and for which the Commissioner approves a different length from that of the later reporting periods, the period that ends on a date that is —
+    (i) approved by the Commissioner; and
+    (ii) less than 2 years after the date on which the Taxation (Annual Rates for 2020–21, Feasibility Expenditure, and Remedial Matters) Act 2021 receives the Royal assent; and
+    (iii) consistent with the later reporting periods under paragraph (a) or (b) for the holder.
 
 ### 9 Special arrangements may be made by Commissioner
-Notwithstanding the provisions of this Act, but without affecting the liability of the holder to pay unclaimed money to the Crown, the Commissioner may from time to time, pursuant to a special arrangement, exempt in writing any holder or any class of holder from compliance with all or any of the provisions of section 6, section 7, or subsection (1) of section 8, either absolutely or conditionally, or in respect of specified kinds of unclaimed money.
+Notwithstanding the provisions of this Act, but without affecting the liability of the holder to pay unclaimed money to the Crown, the Commissioner may from time to time, pursuant to a special arrangement, exempt in writing any holder or any class of holder from compliance with all or any of the provisions of section 8(1), either absolutely or conditionally, or in respect of specified kinds of unclaimed money.
 
 ### 10 Examination of accounts
-(1) The Commissioner or any officer of the Department authorised by him in that behalf may at any time examine any register kept by a holder pursuant to section 6 and any accounts of the holder which relate to money which is or may be unclaimed money, and for that purpose may require the production of any book, voucher, or document relating to such money. If any error is found in the register furnished to the Commissioner or any such officer or in any notice sent to any owner, the Commissioner or the officer may require the same to be amended.
-(2) The Commissioner or any officer of the Department authorised by him in that behalf shall at all times have full and free access to all books and documents for the purpose of inspecting them for the purposes of this Act, and for this purpose may, without fee, make extracts from or copies of any such books or documents.
-(3) Every person shall, without fee, from time to time as required by the Commissioner or any officer of the Department authorised by him in that behalf furnish in writing any information or produce any books or documents which may be in his knowledge, or his possession or control, as the case may be, and which relate to money which is or may be unclaimed money.
+(1) The Commissioner or any officer of the Department authorised by the Commissioner in that behalf may at any time examine any records and any accounts of the holder which relate to money which is or may be unclaimed money, and for that purpose may require the production of any book, voucher, or document relating to such money.
+(2) The Commissioner or any officer of the Department authorised by the Commissioner in that behalf shall at all times have full and free access to all books and documents for the purpose of inspecting them for the purposes of this Act, and for this purpose may, without fee, make extracts from or copies of any such books or documents.
+(3) Every person shall, without fee, from time to time as required by the Commissioner or any officer of the Department authorised by the Commissioner in that behalf furnish in writing any information or produce any books or documents which may be in the person’s knowledge, or the person’s possession or control, as the case may be, and which relate to money which is or may be unclaimed money.
 
 ### 11 Commissioner may make payment to claimant
-(1) If any claimant makes any demand against the Commissioner for any money—the Commissioner, on being satisfied that the claimant is the owner of the money demanded by him, shall cause payment to be made by him.
+(1) If any claimant makes any demand against the Commissioner for any money—the Commissioner, on being satisfied that the claimant is the owner of the money demanded by the claimant, shall cause payment to be made by the Commissioner.
   (a) paid to the Commissioner; or
   (b) paid, whether before or after the commencement of this Act, into a Crown Bank Account under the provisions of any former enactment,—
 (2) All money paid by the Commissioner under subsection (1) shall be paid out of a Crown Bank Account without further appropriation than this Act.
 (3)
 (4) Where any money paid to any claimant under this section is afterwards claimed by any other person, the Commissioner shall not be responsible for the payment of the same, but that person may have recourse against the claimant to whom the Commissioner has paid the money.
-(5) No claimant shall be entitled to interest on the amount of any money for which demand on the Commissioner is made by him or on the amount of any money payment of which is made to him under this section.
+(5) No claimant shall be entitled to interest on the amount of any money for which demand on the Commissioner is made by the claimant or on the amount of any money payment of which is made to the claimant under this section.
+(6) The Commissioner may remove an amount of unclaimed money from the list of amounts that are available for the owner to claim from the Commissioner, and the amount then ceases to be unclaimed money, if the money—
+  (a) has been unclaimed money for 25 years or more:
+  (b) is money for which the Commissioner holds no information relating to the owner:
+  (c) is an amount of $100 or less.
+(7) No person shall have a right of action against the Commissioner for the investment or non-investment of an amount of unclaimed money held by the Commissioner.
+(8) No person shall have a right of action against the Commissioner for an amount of money that—
+  (a) has been delisted by the Commissioner under subsection (6); or
+  (b) is unclaimed money meeting the requirements of subsection (6) for delisting by the Commissioner.
+
+### 11B Capacity of trustees
+(1) For the purposes of this Act, a person who is acting as a trustee of a trust is acting in a capacity that is separate from their other capacities.
+(2) The other capacities of the person referred to in subsection (1) may include—
+  (a) a personal capacity:
+  (b) a capacity as a body corporate that is a legal person:
+  (c) a capacity as a trustee of another trust.
 
 ### 12 Officers to maintain secrecy
-(1) The Commissioner and every officer of the Department shall maintain and aid in maintaining the secrecy of all matters which come to his knowledge in the course of his duties under this Act, and shall not communicate any such matters to any person, except for the purpose of carrying this Act into effect:
-  provided that the Commissioner may make available for publication the names of owners of unclaimed money paid to the Commissioner under this Act or any former Act and the amounts received belonging to those owners.
-(2) Every person who wilfully acts in contravention of the provisions of this section is liable on conviction before a District Court Judge to imprisonment for a term not exceeding 6 months or to a fine not exceeding $200.
+[Repealed]
 
 ### 13 Offences
 Every person commits an offence, and is liable on conviction to a fine not exceeding $500, who wilfully or negligently—
-  (a) being a holder, fails to comply with any provision of section 6, section 7, subsection (1) of section 8, or section 10, or with any condition on which the Commissioner has granted exemption under section 9; or
+  (a) being a holder, fails to comply with any provision of section 8(1) or section 10, or with any condition on which the Commissioner has granted exemption under section 9; or
   (b) being a director, manager, secretary, or other officer of the holder, authorises or permits that failure to comply.
 
 ### 14 Consequential amendments
