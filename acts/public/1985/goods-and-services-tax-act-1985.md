@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-03-30_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -916,16 +916,16 @@ This Act shall bind the Crown.
 (8B) Whether a supply of goods is zero-rated under subsection (1)﻿(mb) is determined at the time of settlement of the transaction relating to the supply.
 (8C) Despite subsections (1)﻿(mb) and (8B), a supplier may choose to apply the provisions of this Act applying before the changes made by the Taxation (GST and Remedial Matters) Act 2010 if they enter into a binding agreement before 1 April 2011 for which the time of supply is on or after that date.
 (8D) For the purposes of the zero-rating of land rules,—
-  (a) a supply that is an assignment or surrender of an interest in land is a supply under subsection (1)﻿(mb) if it meets the requirements set out in that subsection and paragraph (b) does not apply:
-  (ab) a supply that is a surrender of a right to a payment under an agreement for the supply of an interest in land is a supply under subsection (1)﻿(mb) if the supply of the interest in land meets the requirements set out in that subsection:
-  (b) a supply of an interest in land that meets the requirements of subsection (1)﻿(mb), and is made under an agreement providing for periodic payments for supplies of the interest in land, is not a supply under that subsection for the purposes of a payment for the supply paid or payable under the agreement if—
+  (a) a supply that wholly or partly consists of an assignment or surrender of an interest in land is a supply under subsection (1)﻿(mb) if it meets the requirements set out in that subsection:
+  (ab) a supply that wholly or partly consists of a surrender of a right to a payment under an agreement for the supply of an interest in land is a supply under subsection (1)﻿(mb) if the supply of the interest in land meets the requirements set out in that subsection:
+  (b) a supply that is wholly or partly of an interest in land that meets the requirements of subsection (1)﻿(mb), and is made under an agreement providing for periodic payments for supplies of the interest in land, is not a supply under that subsection for the purposes of a payment for the supply paid or payable under the agreement if—
     (i) each amount payable under the agreement that is not a regular payment is anticipated, when the agreement is entered, to be 25% or less of the consideration specified in the agreement (the term consideration) for all supplies of the interest in land during the period referred to in subparagraph (iv); and
     (ii) the payment, if not a regular payment, is 25% or less of the term consideration; and
     (iii) each amount that is paid or payable before the payment, and is not a regular payment, is 25% or less of the term consideration; and
     (iv) the term consideration is treated as being the amount of consideration calculated under the agreement for supplies anticipated to be made during a period that is the longer of 1 year and the shortest possible fixed term of the agreement:
   (c) a supply by a person who is the lessee under a lease agreement is a supply under subsection (1)﻿(mb), despite paragraph (b), if—
     (i) the supply is to a person who is not the lessor supplying an interest in land under the lease agreement to the lessee; and
-    (ii) the supply is made under an arrangement that involves the lessee’s surrender of the interest in land to the lessor and the supply by the lessor of the interest in land under another lease agreement to a person other than the lessee; and
+    (ii) the supply is made under an arrangement that wholly or partly consists of the lessee’s surrender of the interest in land to the lessor, or the lessor’s cancellation of the supply of the interest in land to the lessee, and the supply by the lessor of the interest in land under another lease agreement to a person other than the lessee; and
     (iii) the supplies of the interest in land under the lease agreements meet the requirements set out in subsection (1)﻿(mb):
   (d) a registered person who is a non-profit body that is resident in New Zealand and acquires goods is treated, to the extent to which the person acquires the goods with an intention of using them other than for making exempt supplies, as acquiring the goods with the intention of using them in the course or furtherance of the taxable activity of the registered person, except if the registered person uses the goods solely in the course or furtherance of an activity for which the registered person makes an election under section 20(3KB).
 (9) For the purpose of this section—
@@ -1895,11 +1895,11 @@ A registered person who receives a supply of goods or services that is treated b
 (1) This section shall apply where, in relation to the supply of goods and services by any registered person,—and the supplier has—
   (a) that supply of goods and services has been cancelled; or
   (aa) the nature of that supply of goods and services has been fundamentally varied or altered; or
-  (aab) section 8(4D) or (4E) was incorrectly applied to the treatment of the supply, so that the goods or services were treated as having been supplied in New Zealand when they should have been treated as being supplied outside New Zealand, for a supply—
-    (i) made by a non-resident supplier of goods to which section 8(3)﻿(ab) applies or of services to which section 8(3)﻿(c) applies; and
-    (ii) for which no election was subsequently made under section 24(5B); or
-  (ab) section 11(1)﻿(mb) was incorrectly applied to the treatment of the supply, so that the supply was either zero-rated when it should not have been, or not zero-rated when it should have been; or
-  (abb) section 11A(1)﻿(x) was incorrectly applied to the treatment of the supply, so that the supply was not zero-rated when it should have been, and the supplier did not subsequently make an election under section 24(5B); or
+  (aab)
+  (ab) the supplier—
+    (i) incorrectly applied this Act to the treatment of the supply, so that the supply was charged with tax at an incorrect rate, or charged with tax when it should not have been, or not charged with tax when it should have been; and
+    (ii) did not subsequently make an election under section 24(5B) for the supply; or
+  (abb)
   (b) the previously agreed consideration for that supply of goods and services has been altered (except as provided in subsection (1B)), whether due to the offer of a discount or otherwise; or
   (bb) the supply of goods is treated as being a supply of distantly taxable goods that is made in New Zealand and charged with tax at a rate of more than zero, and—
     (i) the supplier receives a declaration from the recipient, or other confirmation, that the amount of tax charged under section 12 on the importation into New Zealand of the goods was paid when the goods were imported; and
@@ -1936,7 +1936,12 @@ A registered person who receives a supply of goods or services that is treated b
     (c) it shall not be lawful to issue more than 1 credit note or debit note for the amount of the excess:
     (d) if any registered person claims to have lost the original credit note or debit note, the supplier or recipient, as the case may be, may provide a copy clearly marked copy only:
     (e) a supplier shall not be required to provide a recipient with a credit note pursuant to paragraph (a) in any case where and to the extent that the amount of the excess referred to in that paragraph arises as a result of the recipient taking up a prompt payment discount offered by the supplier and that the terms of the prompt payment discount offer are clearly stated on the face of the tax invoice:
-    (f) in the case of a supply to which subsection (1)﻿(ab) applies, a credit note may not be issued after 7 years from the date of settlement of the transaction relating to the supply.
+    (f) a credit note in relation to a supply may not be issued after the earlier of the following, as applicable:
+      (i) in the case of a supply to which section 11(1)﻿(mb) was incorrectly applied to the treatment of, so that the supply was not zero-rated when it should have been, 7 years from the date of settlement of the transaction relating to the supply:
+      (ii) 4 years from the end of the 4-year period referred to in the relevant subsection of section 45, in the case of a supply that results in an overpayment of tax that is—
+        (A) referred to in section 45(1), (2), or (3); and
+        (B) the result of a clear mistake or simple oversight of the supplier:
+      (iii) in the case of a supply other than a supply described in subparagraph (ii), 4 years from the end of the taxable period in which the return was provided by the supplier for the taxable period in which the supply was made.
 (3A) Where a recipient, being a registered person, creates a document containing the particulars specified in this section and purporting to be a credit note or a debit note in respect of a supply of goods and services made to the recipient by a supplier, being a registered person, that document shall be deemed to be a credit note or, as the case may be, a debit note provided by the supplier under subsection (3) where—
   (a) the Commissioner has granted prior approval for the issue of such documents by a recipient or class or classes of recipients in relation to the supplies or class or classes of supplies to which the documents relate; and
   (b) the supplier and the recipient agree that the supplier shall not issue a credit note or, as the case may be, a debit note in respect of any supply to which this subsection applies; and
