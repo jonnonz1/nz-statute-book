@@ -1,5 +1,5 @@
 # Land Transfer Act 2017
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-03-30_
 
 ### 1 Title
 This Act is the Land Transfer Act 2017.
@@ -800,6 +800,7 @@ On registration of a transfer instrument that transfers or assigns an estate or 
   - **certifier** means a person who provides the certification for a transferor or a transferee in accordance with section 27 for a transfer of a specified estate in land
   - **chief executive** means the chief executive of the department
   - **exempt transfer** means a transfer of a specified estate in land that is specified as exempt from the requirements of section 78 by regulations made under this Act
+  - **IRD number** has the meaning given to tax file number by section 3(1) of the Tax Administration Act 1994
   - **nominee** has the meaning given to it in section YB 21(2) of the Income Tax Act 2007
   - **non-notifiable transfer** means a transfer specified in regulations made under this Act as a non-notifiable transfer
   - **specified estate in land** means—
@@ -809,9 +810,7 @@ On registration of a transfer instrument that transfers or assigns an estate or 
     (d) stratum estates in leasehold as defined in the Unit Titles Act 2010; and
     (e) licences to occupy (as defined in section 122(1)); and
     (f) any other estate in land declared to be a specified estate in land by regulations made under this Act
-  - **tax information** means the information specified in a tax statement in accordance with—
-    (a) section 79(1)﻿(b) to (g) and (if applicable) (2); and
-    (b) if applicable, section 80
+  - **tax information** means the information specified in a tax statement in accordance with section 79(1)﻿(a) and (if applicable) section 80
   - **tax statement** means a statement that is completed and given in accordance with—
     (a) sections 78 and 79; and
     (b) if applicable, section 80.
@@ -828,41 +827,11 @@ On registration of a transfer instrument that transfers or assigns an estate or 
 (4) This section does not apply to an exempt transfer.
 
 ### 79 Content of tax statement
-(1) A tax statement completed by or on behalf of a transferor or transferee must—
-  (a) be signed by the transferor or transferee; and
-  (b) be dated on the date on which it was signed; and
-  (c) state the transferor or transferee’s full name; and
-  (d) state whether the transfer is of land that has a home on it; and
-  (da) if the land has a home on it, state whether the transfer is a main home transfer in relation to the transferor or transferee; and
-  (e) state whether the transferor or, as the case may be, the transferee, or a member of that person’s immediate family, is a New Zealand citizen or a holder of a resident visa, work visa, or student visa; and
-  (f) in the case of a transferee, if the transferee or a member of the transferee’s immediate family is a holder of a work visa or student visa, state whether the transferee or a member of the transferee’s immediate family intends living on the land; and
-  (g) either—
-    (i) state that the transfer instrument is for a non-notifiable transfer (or, as the case may be, is, in respect of the transferor or transferee making the statement, a non-notifiable transfer) and specify the category of that non-notifiable transfer; or
-    (ii) provide all of the information set out in subsection (2).
-(2) The information must include all of the following:
-  (a) the transferor’s or transferee’s IRD number; and
-  (b) whether the transferor or transferee (without taking into account any double tax agreement that would otherwise apply) is, or is not, treated as tax resident in a jurisdiction other than New Zealand as at the date of the statement; and
-  (c) if the transferor or transferee is (without taking into account any double tax agreement that would otherwise apply) treated as tax resident in a jurisdiction other than New Zealand as at the date of the statement,—
-    (i) the name of that jurisdiction; and
-    (ii) the country code for that jurisdiction as prescribed by the Commissioner of Inland Revenue; and
-    (iii) the equivalent of the transferor’s or transferee’s IRD number in that jurisdiction.
-(3) However, if a transferor or transferee is—
-  (a) acting in the capacity of the trustee of a trust, the information must relate to the trustee in that capacity; or
-  (b) acting as a nominee or under a power of attorney, the information must relate to the person who made the nomination or granted the power of attorney; or
-  (c) acting in the capacity of a partner in a partnership, the information must relate to the partnership; or
-  (d) a person acting on behalf of an unincorporated body, the information must relate to the unincorporated body.
-(4) To avoid doubt, a transferor or transferee who does not have an IRD number must request one for the purpose of providing the information required by subsection (2)﻿(a).
-(5) In this section,—
-  - **home** means a dwelling mainly used as a residence
-  - **IRD number** has the meaning given to tax file number by section 3(1) of the Tax Administration Act 1994
-  - **main home transfer** means—
-    (a) in relation to a transferor, a transfer of land that has a home on it if the transferor—
-      (i) is a natural person, is not acting in the capacity of the trustee of a trust, and has resided in the home for more than 50% of the period during which the transferor has been an owner of the land; or
-      (ii) is a trustee of a trust a beneficiary of which is a natural person who has resided in the home for more than 50% of the period during which the land has been the property of that trust:
-    (b) in relation to a transferee, a transfer of land that has a home on it if the transferee—
-      (i) is a natural person, is not acting in the capacity of the trustee of a trust, and intends to reside in the home; or
-      (ii) is a trustee of a trust a beneficiary of which is a natural person who intends to reside in the home.
-(6)
+(1) A tax statement must—
+  (a) contain the prescribed information; and
+  (b) be completed by or on behalf of the transferor or transferee; and
+  (c) be signed by the transferor or transferee.
+(2) If the prescribed information includes the transferor’s or transferee’s IRD number and they do not have one, they must request an IRD number for the purpose of providing that information.
 
 ### 80 Omissions and errors
 (1) An omission or error in any tax information provided in accordance with section 78(2) or (3) must be corrected as follows:
@@ -887,10 +856,19 @@ On registration of a transfer instrument that transfers or assigns an estate or 
   (c) the method by which the information must be supplied.
 (3) Subsection (1) applies despite anything in the Family Violence Act 2018.
 
+### 82A Chief executive must supply tax information to Statistician
+(1) The chief executive must supply to the Statistician (as defined in section 2 of the Statistics Act 1975) tax information and details about the transfer or transfers to which the tax information relates that are held by Land Information New Zealand, if the Statistician requests the information for the purposes of the Statistics Act 1975.
+(2) Subsection (1) applies despite anything in the Family Violence Act 2018.
+
 ### 83 Other provisions concerning use of tax information
-The chief executive may release the information specified in section 79(1)﻿(d), (e), (f), and (g), (2)﻿(b), and (c)﻿(i) and (ii) that is held by Land Information New Zealand, or give that information to any person as soon as practicable after receiving a request in writing from the person, provided that information is given—
+(1) The chief executive may release tax information, other than identifying information, that is held by Land Information New Zealand, or give that information to any person as soon as practicable after receiving a request in writing from the person, provided that information is given—
   (a) in aggregate form only; and
   (b) in a manner that prevents any particular person, estate in land, or transaction from being identified.
+(2) In this section, identifying information means any of the following (if it is part of the prescribed tax information):
+  (a) a person’s name:
+  (b) a person’s IRD number:
+  (c) a person’s number in another jurisdiction that is equivalent to an IRD number:
+  (d) any other tax information declared to be identifying information by regulations made under this Act.
 
 ### 84 Certifier and chief executive must hold tax statement and provide copies
 (1) A certifier must—
@@ -901,18 +879,19 @@ The chief executive may release the information specified in section 79(1)﻿(d)
   (b) give a copy of that statement to the Commissioner of Inland Revenue as soon as practicable after receiving a request in writing from the Commissioner.
 
 ### 85 Status of tax information
-(1) The chief executive and certifiers must not use tax information, or disclose tax information to any person, except as set out in sections 78, 80, 82, 83, 84, and 86, or as authorised or required by order of a court.
+(1) The chief executive and certifiers must not use tax information, or disclose tax information to any person, except as set out in sections 78, 80, 82, 82A, 83, 84, and 86, or as authorised or required by order of a court.
 (2) Tax information does not form part of the register and must not be made accessible to the public.
 
 ### 86 Disclosure of information between authorised persons
 (1) No obligation as to secrecy or other restrictions imposed by an enactment or otherwise on the disclosure of information prevents—
-  (a) an authorised person from disclosing tax information to another authorised person for the purpose of sections 78, 80, 82, 83, and 84; or
+  (a) an authorised person from disclosing tax information to another authorised person for the purpose of sections 78, 80, 82, 82A, 83, and 84; or
   (b) an authorised person from disclosing to another authorised person any information for the purpose of verifying tax information; or
   (c) an authorised person from disclosing to another authorised person any information for the purpose of administering the Inland Revenue Acts, to the extent that the administration of those Acts concerns tax information; or
   (d) an authorised person from disclosing to another authorised person any information for the purpose of detecting, investigating, or prosecuting a potential offence under section 81.
 (2) In this section,—
   - **authorised person** means—
     (a) the Commissioner of Inland Revenue or an Inland Revenue officer who is authorised by the Commissioner to disclose and receive information under this section; or
+    (aa) the Statistician or an employee of the department (as those terms are defined in section 2 of the Statistics Act 1975) who is authorised by the Statistician to disclose and receive information under this section; or
     (b) the chief executive or an employee of the department who is authorised by the chief executive to disclose and receive information under this section
   - **Inland Revenue Acts** has the meaning given in section 3(1) of the Tax Administration Act 1994.
 
@@ -2267,7 +2246,7 @@ The Crown must meet the cost of a survey certified by the Surveyor-General as re
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (1) regulating the practice applying to and the conduct of dealings under this Act:
   (2) prescribing forms for the purposes of this Act:
-  (3) prescribing information to be contained in, and documents that must accompany, any instrument, application, notice, certificate, record, or any other thing for the purposes of this Act:
+  (3) prescribing information to be contained in, and documents that must accompany, any instrument, application, notice, certificate, record, statement, or any other thing for the purposes of this Act:
   (4) prescribing, or authorising the Registrar to approve, any matter related to the format or medium, or both, required to be used for supplying any information prescribed under paragraph (3):
   (5) prescribing the periods of time within which anything must be done or over which anything must be done:
   (6) prescribing a fixed period, or a range of periods from which a fixed period may be chosen, for any period to be specified in a notice given under this Act:
@@ -2300,6 +2279,7 @@ The Crown must meet the cost of a survey certified by the Surveyor-General as re
     (i) specifying transfers of specified estates in land that are exempt from the requirements of section 78, including by reference to the nature of the transferor, transferee, transaction, type of estate in land, class of estate in land, or otherwise:
     (ii) specifying transfers of specified estates in land that are non-notifiable transfers (which may be non-notifiable in relation to the transferee or the transferor, or both), including by reference to the nature of the transferor, transferee, transaction, type of estate in land, class of estate in land, or otherwise:
   (27) declaring estates in land that are specified estates in land for the purposes of section 77:
+  ((27A)) declaring tax information to be identifying information for the purposes of section 83:
   (28) prescribing for the purposes of section 102 conditions and powers that are, on registration of a mortgage priority instrument, implied in a mortgage the priority of which is postponed:
   (29) prescribing the rights and powers implied in different classes of easements for the purposes of section 111:
   (30) specifying classes of instruments that the Registrar may, under section 140(2)﻿(l), register or note in the register despite a caveat against dealings on the register:
@@ -2664,6 +2644,15 @@ Except as provided in clauses 1 to 12 or in regulations made under section 228, 
   (a) an agreement for the transfer of the land was entered into before 1 January 2020; and
   (b) the instrument of transfer is lodged for registration on or before 1 July 2020.
 (2) In this section, old regime means this Act as in force immediately before 1 January 2020 (when sections 130 to 133 of the Taxation (Annual Rates for 2019–20, GST Offshore Supplier Registration, and Remedial Matters) Act 2019 came into force).
+
+### Part 3 — Provision relating to Taxation (Annual Rates for 2020–21, Feasibility Expenditure, and Remedial Matters) Act 2021
+
+### 15 Content of tax statements before regulations are made prescribing content
+(1) This clause applies from the 2021 commencement date until the first regulations prescribing information for the purposes of new section 79(1)﻿(a) come into force.
+(2) The information required by section 79 (as in force before the 2021 commencement date) to be included in a tax statement is taken to be the information required to be included in a tax statement under new section 79(1)﻿(a) as if it were information prescribed in regulations made for the purposes of new section 79(1)﻿(a).
+(3) In this clause,—
+  - **2021 commencement date** means the date on which the Taxation (Annual Rates for 2020–21, Feasibility Expenditure, and Remedial Matters) Act 2021 receives the Royal assent
+  - **new section 79(1)﻿(a)** means section 79(1)﻿(a) as inserted by the Taxation (Annual Rates for 2020–21, Feasibility Expenditure, and Remedial Matters) Act 2021.
 
 ## Schedule 2 — Consequential amendments
 
