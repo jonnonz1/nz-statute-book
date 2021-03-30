@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-03-30_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -559,7 +559,7 @@ A share is issued when the name of the holder is entered on the share register.
 ### 53 Dividends
 (1) A dividend is a distribution other than a distribution to which section 59 or section 76 applies.
 (2) The board of a company must not authorise a differential dividend unless—
-  (a) the amount of the dividend in respect of a share of that class is in proportion to the amount paid to the company in satisfaction of the liability of the shareholder under the constitution of the company or under the terms of issue of the share or is required, for a portfolio tax rate entity, as a result of section HL 7 of the Income Tax Act 2004; or
+  (a) the amount of the dividend in respect of a share of that class is in proportion to the amount paid to the company in satisfaction of the liability of the shareholder under the constitution of the company or under the terms of issue of the share or is required, for a multi-rate PIE, as a result of section HM 48 of the Income Tax Act 2007; or
   (b) the company’s constitution provides for differential dividends as permitted by subsection (2A) and the dividend is authorised in accordance with the constitution.
 (2A) The constitution of a company may provide for differential dividends in respect of the shares in a class of shares, which may be determined on any differential basis, but only if the differential basis is based on objective criteria and not on the exercise of a discretion by, or an opinion of, the board of the company.ExampleCompany Z is an agricultural company whose class A shareholders are all current or former growers and suppliers to the company. The company’s constitution could confer on holders of class A shares a right to differential dividends based on whether or not they are currently growing and supplying produce to the company.The company’s constitution could not provide for dividends based on a discretionary criterion, such as whether a shareholder had adequately upheld the reputation of the company.
 (3) Notwithstanding subsection (2), a shareholder may waive his or her entitlement to receive a dividend by notice in writing to the company signed by or on behalf of the shareholder.
