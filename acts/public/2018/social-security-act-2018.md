@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2021-02-11_
+_Consolidation as at 2021-03-30_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -3156,11 +3156,12 @@ If an instalment of a benefit is payable after the beneficiary’s death, that i
 
 ### 349 Interpretation
 In this section and sections 350 to 352,—
-  - **income-tested benefit** has the same meaning as in whichever of the following apply:
-    (a) section 2 of the Income Tax Act 1976; or
-    (b) section OB 1 of the Income Tax Act 1994; or
-    (c) section OB 1 of the Income Tax Act 2004; or
-    (d) section YA 1 of the Income Tax Act 2007
+  - **main benefit** means any of the following:
+    (a) a main benefit as defined in section YA 1 of the Income Tax Act 2007:
+    (b) an income-tested benefit, as that term is defined in whichever of the following apply:
+      (i) section 2 of the Income Tax Act 1976; or
+      (ii) section OB 1 of the Income Tax Act 1994; or
+      (iii) section OB 1 of the Income Tax Act 2004
   - **source deduction payment** means a payment that is—
     (a) within the meaning of that term in whichever of the following apply:
       (i) section 2 of the Income Tax Act 1976; or
@@ -3174,8 +3175,8 @@ In this section and sections 350 to 352,—
     (d) section NC 6(1D) of the Income Tax Act 2004; or
     (e) section RD 11(3) of the Income Tax Act 2007.
 
-### 350 MSD may pay tax on income-tested benefit other than by tax deduction from source deduction payment
-(1) This section applies to a source deduction payment that is an instalment or a payment of an income-tested benefit.
+### 350 MSD may pay tax on main benefit other than by tax deduction from source deduction payment
+(1) This section applies to a source deduction payment that is an instalment or a payment of a main benefit.
 (2) MSD may, instead of making a tax deduction from the source deduction payment, pay to the Commissioner of Inland Revenue, at a time the Commissioner determines in consultation with MSD, an amount for income tax payable on that payment, that is calculated under subsection (3).
 (3) The amount for income tax payable on a source deduction payment is the amount of the tax deduction that would be made, at the rate determined under the appropriate specified provision, if the payment were increased by an amount that, after the tax deduction were made, would result in an amount equal to the source deduction payment.
 
@@ -3189,7 +3190,7 @@ An amount for income tax paid by MSD to the Commissioner under section 350(2) mu
     (iv) the Income Tax Act 2007, be considered to be income of the person.
 
 ### 352 Recovery amount paid in excess of amount properly payable
-(1) This section applies if, as a result of the review, suspension, or cancellation of an income-tested benefit, MSD determines that an amount for tax on the benefit has been paid under section 350(2) to the Commissioner in excess of the amount that is properly payable under section 350(2).
+(1) This section applies if, as a result of the review, suspension, or cancellation of a main benefit, MSD determines that an amount for tax on the benefit has been paid under section 350(2) to the Commissioner in excess of the amount that is properly payable under section 350(2).
 (2) MSD cannot recover the excess amount under regulations made under section 444, but may recover that amount by—
   (a) making an adjustment to an amount later payable to the Commissioner under section 350(2) in respect of the source deduction payments for that or any other benefit payable to that beneficiary; or
   (b) making other arrangements for its refund that are agreed with the Commissioner.
