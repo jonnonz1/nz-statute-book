@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-03-30_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -275,7 +275,7 @@ Acute treatment, in relation to a claimant, means—
 
 ### 11 Earnings as an employee: what it does not include
 (1) Earnings as an employee, in relation to any person and any tax year, does not include—
-  (a) any income-tested benefit, veteran's pension, New Zealand superannuation, or schedular payment; or
+  (a) any main benefit, veteran's pension, New Zealand superannuation, or schedular payment; or
   (aa) any parental leave payments paid under Part 7A of the Parental Leave and Employment Protection Act 1987; or
   (ab) any payment paid under the Compensation for Live Organ Donors Act 2016; or
   (b) any student allowance established in accordance with regulations made under section 645 of the Education and Training Act 2020; or
@@ -289,7 +289,7 @@ Acute treatment, in relation to a claimant, means—
     (i) section DF 4 of the Income Tax Act 1994 or section DC 2 of the Income Tax Act 2004 or section DC 2 of the Income Tax Act 2007:
     (ii) section DF 8A or section DF 8B of the Income Tax Act 1994 or section DC 3 of the Income Tax Act 2004 or section DC 3 of the Income Tax Act 2007:
     (iii) sections FB 11 and FB 12 of the Income Tax Act 2007.
-(2) In this section, income-tested benefit, veteran's pension, New Zealand superannuation, and schedular payment have the same meanings as in section YA 1 of the Income Tax Act 2007.
+(2) In this section, main benefit, veteran's pension, New Zealand superannuation, and schedular payment have the same meanings as in section YA 1 of the Income Tax Act 2007.
 
 ### 12 Earnings as an employee: Work Account levy payable under section 168
 For the purpose of calculating the Work Account levy payable under section 168, earnings as an employee does not include any payment of—
