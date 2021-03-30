@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-03-30_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -532,7 +532,7 @@ This subpart applies to New Zealand-based borrowers who derive salary or wages.
 (1) For the purpose of the application of the PAYE rules under section 70, the repayment code of all New Zealand-based borrowers who derive salary or wages is either—
   (a) SL; or
   (b) TTC.
-(2) The repayment code STC applies to a borrower if—
+(2) The repayment code TTC applies to a borrower if—
   (a) the employer is issued with a tailored tax code certificate under section 24D(a) and schedule 5, part B, clause 1 of the Tax Administration Act 1994; or
   (b) the Commissioner requires or permits its use in any other case.
 (3) If another Act requires an employer to withhold an amount of tax for a PAYE income payment to a borrower and pay the amount to the Commissioner,—
@@ -594,20 +594,20 @@ This subpart applies to New Zealand-based borrowers who derive salary or wages.
   (c) continue to be made until the borrower notifies his or her employer or PAYE intermediary otherwise.
 (4) Nothing in this section limits section 36, 37, or 38.
 
-### 40 Deductions from income-tested benefits
+### 40 Deductions from main benefits
 (1) This section applies if—
-  (a) a borrower receives an income-tested benefit for a pay period; and
-  (b) the equivalent gross amount of that income-tested benefit exceeds the pay period repayment threshold (calculated in accordance with section 37(4)) for that pay period.
+  (a) a borrower receives a main benefit for a pay period; and
+  (b) the equivalent gross amount of that main benefit exceeds the pay period repayment threshold (calculated in accordance with section 37(4)) for that pay period.
 (2) The chief executive—
-  (a) must not make a salary or wage deduction from the income-tested benefit; and
-  (b) must make a deduction from the income-tested benefit of an amount determined by the Commissioner in consultation with the chief executive.
+  (a) must not make a salary or wage deduction from the main benefit; and
+  (b) must make a deduction from the main benefit of an amount determined by the Commissioner in consultation with the chief executive.
 (2A) If the amount of the deduction determined under subsection (2)﻿(b) is zero, then sections 34 and 35 do not apply.
 (3) This section overrides sections 36(2), 38, and 39.
 (4) In this section,—
   - **equivalent gross amount** means the sum of—
-    (a) the amount of an income-tested benefit; and
-    (b) any amount that was paid to the Commissioner in accordance with sections 349, 350, 351, and 352 of the Social Security Act 2018 for income tax payable on that income-tested benefit
-  - **income-tested benefit** means an income-tested benefit as defined in section YA 1 of the Income Tax Act 2007.
+    (a) the amount of a main benefit; and
+    (b) any amount that was paid to the Commissioner in accordance with sections 349, 350, 351, and 352 of the Social Security Act 2018 for income tax payable on that main benefit
+  - **main benefit** has the same meaning as in section YA 1 of the Income Tax Act 2007.
 
 **Unused repayment threshold may be allocated to secondary employment earnings**
 
