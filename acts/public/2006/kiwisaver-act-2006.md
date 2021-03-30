@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2021-03-15_
+_Consolidation as at 2021-03-30_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -88,7 +88,7 @@ This Act is the KiwiSaver Act 2006.
     (a) whether or not they are a member of an existing KiwiSaver scheme or are choosing to opt in to a scheme:
     (b) if they are an existing member,—
       (i) their deduction rate:
-      (ii) whether they are on a contribution holiday:
+      (ii) whether they are on a savings suspension:
       (iii) whether they wish to cease deductions under section 112B(1) of the KiwiSaver Act 2006:
       (iv) whether they have chosen to opt out of a scheme:
     (c) if they are a new member, the information as required by the Commissioner, including the nomination of a contribution rate
@@ -949,13 +949,14 @@ Sections 30, 58, 59, 128, and 129 of the Trusts Act 2019 do not apply to the Com
 
 ### 83 Unclaimed money held by Commissioner
 (1) This section applies to any money—
-  (a) that has been in the Commissioner’s possession under this Act for a period of no less than 6 years; and
+  (a) that has been in the Commissioner’s possession under this Act for a period of no less than 5 years; and
   (b) about which the Commissioner has insufficient information in order to process that money in accordance with this Act.
 (2) No interest is payable on that money under this subpart in respect of the period that this section applies.
 (3) The Unclaimed Money Act 1971, and not sections 70 and 74 of the Public Finance Act 1989, applies to that money—
   (a) as if the Commissioner is the holder of the money for the purposes of the Unclaimed Money Act 1971; and
+  (ab) for money relating to an employer deduction or employer contribution to which subsection (1)﻿(b) applies, as if the date on which the Commissioner becomes the holder is the last day of the month to which the employment income information for the money relates; and
   (b) as if the money must be processed in accordance with this Act, and not paid to the owner, if a valid claim is made to the money; and
-  (c) as if the money would not cease to be unclaimed money under subparagraph (i) of the proviso to section 4(1) of the Unclaimed Money Act 1971 (which sets a $100 cap); and
+  (c) as if the money would not cease to be unclaimed money under section 4(2)﻿(e) of the Unclaimed Money Act 1971 (which sets a $100 cap); and
   (d) with other necessary modifications.
 (4) If the Commissioner enters into a special arrangement under section 9 of that Act, the Minister who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of the Unclaimed Money Act 1971 must carry out, after consultation with the Minister of Finance, the responsibilities that would otherwise have been carried out by the Commissioner under that Act.
 
