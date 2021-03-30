@@ -1,5 +1,5 @@
 # COVID-19 Response (Taxation and Social Assistance Urgent Measures) Act 2020
-_Consolidation as at 2020-03-25_
+_Consolidation as at 2021-03-30_
 
 ### 1 Title
 This Act is the COVID-19 Response (Taxation and Social Assistance Urgent Measures) Act 2020.
@@ -19,7 +19,8 @@ This Act is the COVID-19 Response (Taxation and Social Assistance Urgent Measure
 This Part amends the Income Tax Act 2007.
 
 ### 4 Section DB 65 repealed (Allowance for certain commercial buildings)
-Repeal section DB 65.
+(1) Repeal section DB 65.
+(2) This section applies for the 2020–21 and later income years.
 
 ### 5 Section EE 31 amended (Annual rate for item acquired in person’s 1995–96 or later income year)
 (1) In section EE 31(2)﻿(d), replace building with residential building.
