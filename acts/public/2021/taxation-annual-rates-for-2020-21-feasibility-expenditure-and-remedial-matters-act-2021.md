@@ -54,7 +54,7 @@ Income tax imposed by section BB 1 (Imposition of income tax) of the Income Tax 
 ## Part 2 — Amendments to Income Tax Act 2007
 
 ### 4 Income Tax Act 2007
-Sections 10 to 141 amend the Income Tax Act 2007 and section 142 makes consequential amendments to other enactments.
+Sections 5 to 141 amend the Income Tax Act 2007 and section 142 makes consequential amendments to other enactments.
 
 ### 5 Section BC 7 amended (Income tax liability of person with schedular income)
 (1) In section BC 7(5), replace who derives income under section CP 1 (Attributed income of investors in multi-rate PIEs) is calculated with , when the rate of tax applied for the year is not equal to the investor’s prescribed investor rate for the year, is calculated.
@@ -1291,7 +1291,7 @@ In section RL 1(2)﻿(a), replace CB 6A (Disposal within 5 years: bright-line te
 (25) Replace the definition of group of persons with:
   - **group of persons** —
     (a) includes 1 person:
-    (b) is defined in section CB 16A(2C) (Main home exclusion for disposal within 5 years) for the purposes of that section:
+    (b) is defined in section CB 16A(5) (Main home exclusion for disposal within 5 years) for the purposes of that section:
     (c) is defined in section CB 16(5) (Residential exclusion from sections CB 6 to CB 11) for the purposes of that section:
     (d) is defined in section CB 19(2C) (Business exclusion from sections CB 6 to CB 11) for the purposes of that section
 (26) In the definition of initial provisional tax liability, after paragraph (b)﻿(i), insert:
@@ -1733,10 +1733,10 @@ In section 85(1), after 82,, insert 82A,.
 
 ### 203 Schedule 1 amended (Transitional, savings, and related provisions)
 In schedule 1, after clause 14, insert:Provision relating to Taxation (Annual Rates for 2020–21, Feasibility Expenditure, and Remedial Matters) Act 2021Content of tax statements before regulations are made prescribing content
-  (1) This clause applies from the 2020 commencement date until the first regulations prescribing information for the purposes of new section 79(1)﻿(a) come into force.
-  (2) The information required by section 79 (as in force before the 2020 commencement date) to be included in a tax statement is taken to be the information required to be included in a tax statement under new section 79(1)﻿(a) as if it were information prescribed in regulations made for the purposes of new section 79(1)﻿(a).
+  (1) This clause applies from the 2021 commencement date until the first regulations prescribing information for the purposes of new section 79(1)﻿(a) come into force.
+  (2) The information required by section 79 (as in force before the 2021 commencement date) to be included in a tax statement is taken to be the information required to be included in a tax statement under new section 79(1)﻿(a) as if it were information prescribed in regulations made for the purposes of new section 79(1)﻿(a).
   (3) In this clause,—
-    - **2020 commencement date** means the date on which the Taxation (Annual Rates for 2020–21, Feasibility Expenditure, and Remedial Matters) Act 2021 receives the Royal assent
+    - **2021 commencement date** means the date on which the Taxation (Annual Rates for 2020–21, Feasibility Expenditure, and Remedial Matters) Act 2021 receives the Royal assent
     - **new section 79(1)﻿(a)** means section 79(1)﻿(a) as inserted by the Taxation (Annual Rates for 2020–21, Feasibility Expenditure, and Remedial Matters) Act 2021.
 
 ### 204 Unclaimed Money Act 1971
