@@ -1,5 +1,5 @@
 # Holidays Act 2003
-_Consolidation as at 2020-01-13_
+_Consolidation as at 2021-03-31_
 
 ### 1 Title
 This Act is the Holidays Act 2003.
@@ -771,15 +771,24 @@ An employee is not entitled to be paid for any sick leave that has not been take
     (v) grandparent:
     (vi) grandchild:
     (vii) spouse’s or partner’s parent; or
-  (b) on the death of any other person if the employer accepts, having regard to relevant factors such as those set out in subsection (3), that the employee has suffered a bereavement as a result of the death.
+  (b) on the death of any other person if the employer accepts, having regard to relevant factors such as those set out in subsection (3), that the employee has suffered a bereavement as a result of the death; or
+  (c) on the end of an employee’s pregnancy by way of a miscarriage or still-birth; or
+  (d) on the end of another person’s pregnancy, by way of a miscarriage or still-birth, if the employee—
+    (i) is the person’s spouse or partner; or
+    (ii) is the person’s former spouse or partner and would have been a biological parent of a child born as a result of the pregnancy; or
+    (iii) had undertaken to be the primary carer (as described in section 7(1)﻿(c) of the Parental Leave and Employment Protection Act 1987) of a child born as a result of the pregnancy; or
+    (iv) is the spouse or partner of a person who had undertaken to be the primary carer of a child born as a result of the pregnancy.
 (3) For the purposes of subsection (2)﻿(b), relevant factors include—
   (a) the closeness of the association between the employee and the deceased person:
   (b) whether the employee has to take significant responsibility for all or any of the arrangements for the ceremonies relating to the death:
   (c) any cultural responsibilities of the employee in relation to the death.
+(4) In this section,—
+  - **miscarriage** means the end of a pregnancy in the first 20 weeks of pregnancy other than as a result of abortion services provided in accordance with the Contraception, Sterilisation, and Abortion Act 1977
+  - **still-birth** means a still-birth within the meaning of the Births, Deaths, Marriages, and Relationships Registration Act 1995 other than as a result of abortion services provided in accordance with the Contraception, Sterilisation, and Abortion Act 1977.
 
 ### 70 Duration of bereavement leave
 (1) An employer must allow an employee to take—
-  (a) 3 days’ bereavement leave for each type of bereavement described in section 69(2)﻿(a); and
+  (a) 3 days’ bereavement leave for each type of bereavement described in section 69(2)﻿(a), (c), and (d); and
   (b) 1 day’s bereavement leave for a bereavement described in section 69(2)﻿(b).
 (2) If an employee suffers more than 1 bereavement at the same time, he or she may take the amount of bereavement leave specified in subsection (1) in respect of each bereavement.
 
