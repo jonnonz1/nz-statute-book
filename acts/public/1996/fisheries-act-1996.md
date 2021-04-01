@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2021-03-22_
+_Consolidation as at 2021-04-01_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
