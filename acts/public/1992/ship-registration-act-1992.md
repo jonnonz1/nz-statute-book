@@ -1,5 +1,5 @@
 # Ship Registration Act 1992
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-04-01_
 
 > An Act to provide for the registration of ships in New Zealand and related matters
 
@@ -106,6 +106,11 @@ A reference in this Act to a ship on demise charter to a New Zealand-based opera
 (5) Notwithstanding any other provision in this Act, any ship shall be entitled to be registered in Part A of the Register if—
   (a) a majority interest in the ship is owned by a person or persons permanently resident in Niue or Tokelau; and
   (b) the ship is one that would be required to be registered either in Part A or Part B of the Register, if it were owned by a New Zealand citizen.
+
+### 5A Act is maritime Act
+(1) This Act is a maritime Act under section 2(1) of the Maritime Transport Act 1994.
+(2) This has the effect that transport instruments may be made for the purposes of this Act under section 452B of that Act.
+(3) This section is intended as a guide only and is not an exhaustive statement as to the effects of this Act being a maritime Act under that Act.
 
 ## Part 1 — Ships required or entitled to be registered
 
