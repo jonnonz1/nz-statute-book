@@ -1,5 +1,5 @@
 # Port Companies Act 1988
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2021-04-01_
 
 > An Act to promote and improve efficiency, economy, and performance in the management and operation of the commercial aspects of ports and, to this end,—ato provide for the formation of port companies to carry out port related commercial activities and control the ownership thereof; andbto establish requirements concerning the accountability and ownership of such companies and the responsibilities of Harbour Boards; andcto repeal the New Zealand Ports Authority Act 1968 and certain other enactments relating to ports and harbours
 
@@ -56,6 +56,11 @@ _Consolidation as at 2014-12-01_
 
 ### 3 Act to bind Crown
 This Act shall bind the Crown.
+
+### 3A Act is maritime Act
+(1) This Act is a maritime Act under section 2(1) of the Maritime Transport Act 1994.
+(2) This has the effect that transport instruments may be made for the purposes of this Act under section 452B of that Act.
+(3) This section is intended as a guide only and is not an exhaustive statement as to the effects of this Act being a maritime Act under that Act.
 
 ## Part 1 — Port companies
 
@@ -150,7 +155,7 @@ A failure by a port company to comply with—shall not affect the validity or en
   (a) a report of the operations of the port company and those of its subsidiaries during that financial year; and
   (b) audited financial statements for that financial year prepared in accordance with generally accepted accounting practice; and
   (c) the auditor's report on those financial statements.
-(4) Every report under subsection (3)(a) shall—
+(4) Every report under subsection (3)﻿(a) shall—
   (a) contain such information as is necessary to enable an informed assessment of the operations of the port company and its subsidiaries, including a comparison of the performance of the port company and subsidiaries with any relevant statement of corporate intent; and
   (b) state the maximum dividend (if any) recommended to be payable by the port company in respect of its equity securities (other than fixed interest securities) for the financial year to which the report relates.
 
