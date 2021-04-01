@@ -1,5 +1,5 @@
 # Maritime Security Act 2004
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2021-04-01_
 
 ### 1 Title
 This Act is the Maritime Security Act 2004.
@@ -104,6 +104,14 @@ In this Act, unless the context otherwise requires,—
 
 ### 6 Act binds the Crown
 This Act binds the Crown.
+
+### 6A Act is maritime Act
+(1) This Act is a maritime Act under section 2(1) of the Maritime Transport Act 1994.
+(2) This has the effect that transport instruments may be made for the purposes of this Act under section 452B of that Act.
+(3) This section is intended as a guide only and is not an exhaustive statement as to the effects of this Act being a maritime Act under that Act.
+
+### 6B Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ## Part 2 — Ship and port facility security
 
@@ -823,7 +831,7 @@ No employee of a port facility or an organisation servicing a port facility, or 
 **Appeal rights**
 
 ### 64 Right of appeal to District Court
-(1) A person has a right of appeal to the District Court if affected by a decision of the chief executive under section 23, section 25, section 41, or section 43.
+(1) A person has a right of appeal to the District Court if affected by a decision of the chief executive under section 23, section 25, section 41, section 43, or section 77 (other than any decision made in relation to a class exemption under section 77, including a decision to grant (or not to grant), to amend, or to revoke a class exemption).
 (2) The court may confirm, reverse, or modify the decision appealed against.
 (3) Every decision appealed against under this section continues in force pending the determination of the appeal, and no person is excused from complying with any of the provisions of this Act on the ground that any appeal is pending.
 (4) Even though an appeal under this section may have been determined in favour of the appellant, the chief executive may, subject to the like right of appeal, revoke the District Court's approval of a ship security plan or a port facility security plan if the chief executive has sufficient grounds supported by facts or evidence discovered since the hearing of the appeal.
@@ -927,22 +935,26 @@ Every person who intentionally contravenes section 61 by entering or leaving an 
   (d) prescribing the functions and duties of any person under an obligation to carry out responsibilities in accordance with the Convention and the Code:
   (e) providing for any other matters that are contemplated by, or necessary for giving full effect to, the provisions of this Act or for its due administration.
 (2) Regulations made under this section may prescribe offences and penalties for contravention of, or non-compliance with, their provisions, on the conviction of any offender, not exceeding,—
-  (a) in the case of an individual, a fine of $5,000; and
-  (b) in the case of a body corporate, a fine of $30,000.
+  (a) in the case of an individual, a fine of $10,000; and
+  (b) in the case of a body corporate, a fine of $50,000.
 (3) For the purposes of this section, Crown entity includes the Aviation Security Service established under the Civil Aviation Act 1990.
 
 ### 77 Exemptions from regulations
-(1) The chief executive may, if he or she considers it appropriate and on the conditions that he or she considers appropriate, exempt any person, ship, or port facility from any requirement specified in regulations made under this Act.
-(2) The chief executive may not grant an exemption under subsection (1) unless he or she is satisfied in the circumstances that—
-  (a) the exemption will not breach New Zealand's international obligations under any maritime convention; and
-  (b) 1 or more of the following applies:
-    (i) the prescribed requirements have been substantially complied with and that further compliance is unnecessary; or
-    (ii) the action taken or provision made in respect of the matter to which the prescribed requirements relate is as effective or more effective than actual compliance with the prescribed requirements; or
-    (iii) the prescribed requirements are clearly unreasonable or inappropriate in the particular case; or
-    (iv) events have occurred that make the prescribed requirements unnecessary or inappropriate in the particular case; and
-  (c) the risk to safety will not be significantly increased by the granting of the exemption.
-(3) The number and nature of any exemptions granted under subsection (1) must be notified as soon as practicable in the Gazette.
-(4) Nothing in this section applies in any case where the Maritime Rules specify that exemptions may not be granted.
+(1) The chief executive may, if the chief executive thinks it appropriate,—
+  (a) exempt 1 or more named or specified persons, ships, port facilities, or other things from 1 or more specified requirements in a regulation made under this Act; or
+  (b) exempt any class of person, ship, port facility, or other thing from 1 or more specified requirements in a regulation made under this Act.
+(2) The chief executive must not grant an exemption unless satisfied that—
+  (a) granting the exemption will not breach New Zealand’s obligations under any convention; and
+  (b) one of the following applies:
+    (i) the requirement has been substantially complied with and further compliance is unnecessary:
+    (ii) the manner in which the requirement has been, or is sought to be, fulfilled is as effective as or more effective than actual compliance with the requirement:
+    (iii) the requirement is clearly unreasonable or inappropriate in this particular case:
+    (iv) events have occurred that make the requirement unnecessary or inappropriate in this particular case; and
+  (c) the risk to security will not be significantly increased by granting the exemption.
+(3) The power under subsection (1) must not be used to provide an exemption from a requirement of a regulation if the relevant regulation specifically provides that no exemptions from the requirement may be granted.
+(4) This section does not limit or affect any other power of exemption conferred on any person under this Act or any other maritime Act.
+(5) Sections 40AA(5), (7), and (8) and 40AB, and subpart 2 of Part 3 of Schedule 1AA of the Maritime Transport Act 1994 apply with any necessary modifications to exemptions granted under subsection (1), but, to avoid doubt, the definition of class exemption in section 40AA(8) of that Act must be read as referring to a class exemption granted under subsection (1)﻿(b) of this section.
+(6) An exemption granted under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 78 Minister may extend application of Act
 (1) If the Designated Authority has reasonable cause to believe that a security risk exists that may warrant the extension of this Act to a ship or port facility to enhance ship or port security or to prevent terrorism, the Designated Authority may—
@@ -1005,10 +1017,20 @@ For the purposes of any inspection or audit carried out in respect of any person
 
 ### 81 Consequential amendments
 ((1)–(8)) Amendment(s) incorporated in the Act(s).
-(9) The Maritime (Offences) Regulations 1998 (SR 1998/444) are amended in the manner set out in Part 1 of the Schedule.
-(10) The Maritime Rules are amended in the manner set out in Part 2 of the Schedule.
+(9) The Maritime (Offences) Regulations 1998 (SR 1998/444) are amended in the manner set out in Part 1 of Schedule 1.
+(10) The Maritime Rules are amended in the manner set out in Part 2 of Schedule 1.
 
-## Schedule Schedule — Consequential amendments to Maritime Regulations and Maritime Rules
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Regulatory Systems (Transport) Amendment Act 2021
+
+### 1 Interpretation
+In this Part, amendment Act means the Regulatory Systems (Transport) Amendment Act 2021.
+
+### 2 Pre-existing exemptions from regulations made under section 77
+Any exemption granted under section 77 before section 26 of the amendment Act comes into force continues to have effect as if that section had not come into force.
+
+## Schedule Schedule 1 — Consequential amendments to Maritime Regulations and Maritime Rules
 
 ### 40B﻿.﻿33 Automatic identification system
 (1) The owner of a ship must ensure that an automatic identification system is fitted on board the ship in accordance with the requirements of regulation 19 of Chapter V of SOLAS (as amended in December 2002).
