@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2021-03-30_
+_Consolidation as at 2021-04-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -464,8 +464,8 @@ _Consolidation as at 2021-03-30_
         (B) an amount imposed under section 157 of this Act or payable under section 43 of the Goods and Services Tax Act 1985:
         (C) an amount payable by a payer (as defined in section 153 of the Child Support Act 1991) under Part 10 of the Child Support Act 1991:
         (CB) an amount required to be deducted under subpart 1 of Part 3 of the KiwiSaver Act 2006:
-        (CC) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006 that relates to a compulsory employer contribution:
-        (CD) an amount of compulsory employer contributions unpaid, specified in a notice under section 101I(5) of the KiwiSaver Act 2006:
+        (CC) KiwiSaver Act 2006 employer contributions:
+        (CD) an amount of compulsory employer contributions unpaid, specified in a notice under section 141(5) of the KiwiSaver Act 2006:
         (D) a salary or wage deduction (as defined in section 4(1) of the Student Loan Scheme Act 2011), or an amount recovered in accordance with section 193 of that Act:
       (iv) a credit of tax under a tax law:
       (v) a tax of the general character described in any of paragraphs (i) to (iv)—
@@ -473,7 +473,7 @@ _Consolidation as at 2021-03-30_
         (B) that is relevant under a tax law for the purposes of determining a tax position:
       (vi) interest imposed under Part 7:
       (vii) subject to paragraph (b), a civil penalty:
-      (viii) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006 that does not relate to a compulsory employer contribution:
+      (viii)
       (ix) financial support (as defined in section 2(1) of the Child Support Act 1991):
       (x) an end-of-year repayment obligation or an overseas-based repayment obligation (as those terms are defined in section 4(1) of the Student Loan Scheme Act 2011):
       (xi)
@@ -632,7 +632,7 @@ Except where there is express provision to the contrary,—For example, a refere
   (aa) deductions of levies under the Accident Compensation Act 2001 or a regulation made under that Act; or
   (b) deductions under the Child Support Act 1991; or
   (bb) deductions under the KiwiSaver Act 2006; or
-  (bc) amounts of compulsory employer contributions that must be paid under Part 3, subpart 3A of the KiwiSaver Act 2006 to the Commissioner, including an amount of compulsory employer contributions unpaid, specified in a notice under section 101I(5) of that Act; or
+  (bc) amounts of KiwiSaver Act 2006 employer contributions paid or to be paid to the Commissioner, including an amount of compulsory employer contributions unpaid, specified in a notice under section 141(5) of that Act; or
   (c) salary or wage deductions under the Student Loan Scheme Act 2011,—
 (4) When a taxpayer has an obligation under any of sections RA 5, RA 6, RA 10, RA 15 to RA 19, RD 2, RD 4, RD 22, RE 20, RE 21, or RF 13 of the Income Tax Act 2007—the taxpayer's tax position in respect of the due date is the tax paid and not the amount of tax shown as payable in the tax return.
   (a) furnishes a return that shows a liability to pay tax under that section; and
@@ -2678,7 +2678,7 @@ A person who receives a payment of resident passive income, that is interest, mu
 (3) Despite subsection (2), if an investor in a multi-rate PIE is a non-resident who becomes a resident, the investor must immediately notify the PIE that they have become resident. The 6-week period referred to in subsection (1) starts to run from the date of the notification of residency.
 
 ### 28C Person advising retirement savings scheme of retirement scheme prescribed rate
-A person who gives a notice that the retirement scheme prescribed rate for the person and an income year is less than 33% must include the person's tax file number in the notice.
+A person who gives a notice that the retirement scheme prescribed rate for the person and an income year is less than 39% must include the person's tax file number in the notice.
 
 ### 28D Information required from notified foreign investors
 (1) In order to become a notified foreign investor in a foreign investment PIE, a non-resident person must provide the PIE with the following information:
@@ -3419,7 +3419,7 @@ A person that uses the AIM method as described in section RC 5(5B) of the Income
   (j) the amount of Maori authority credits used to meet the liability for RSCT on the retirement scheme contribution; and
   (k) the amount of RSCT remaining owing on the retirement scheme contribution after the use of imputation credits and Maori authority credits; and
   (l) the amount of RSCT on the retirement scheme contribution paid other than by the use of imputation credits and Maori authority credits; and
-  (m) the tax file number, if a rate of less than 33% is used to calculate the RSCT on a retirement scheme contribution; and
+  (m) the tax file number, if a rate of less than 39% is used to calculate the RSCT on a retirement scheme contribution; and
   (n) the amount of the imputation credits or Maori authority credits attached to the retirement scheme contribution that are not used to meet the liability for RSCT; and
   (o) the total amount of NRWT payable on retirement scheme contributions; and
   (p) the amount of each retirement scheme contribution that is non-resident passive income; and
@@ -3785,7 +3785,7 @@ A company or person apportioning its interest expenditure under section FE 6B of
     (ii) the person complies with any conditions in the Commissioner’s approval; and
     (iii) there is no material change in the provisions in subpart LY of the Income Tax Act 2007 and any associated provisions; and
     (iv) the person has, for the income year, given to the Commissioner a research and development certificate with the person’s research and development supplementary return (see: sections 33E and 124ZI).
-(3) The Commissioner may, in accordance with this section, approve a person’s criteria and methodologies for an income year (the first income year) and up to 2 further consecutive income years, if the person makes an application in accordance with subsection (4) on or before the 7th day of the 2nd month after the end of the first income year.
+(3) The Commissioner may, in accordance with this section, approve a person’s criteria and methodologies for an income year (the first income year) and up to 2 further consecutive income years, if the person makes an application in accordance with subsection (4) on or before the last day of the 6th month before the end of the first income year (application date). The Commissioner may accept and approve an application after the application date if the taxpayer has changed the end date of their income year due to a change in their balance date for the first income year.
 (4) A person must apply to the Commissioner for approval in the form prescribed by the Commissioner, including—
   (a) the criteria and methodologies the person wants the Commissioner to approve; and
   (b) the income years for which approval of a criterion or methodology is sought; and
@@ -6124,7 +6124,7 @@ Nothing in this Part applies to—
   (aa)
   (a) a person (other than an employer and the Commissioner) specified in section 157A in relation to the person's obligations under a tax law specified in that section:
   (b) a liable person in relation to child support (both as defined in the Child Support Act 1991):
-  (bb) an employer in relation to amounts of compulsory employer contributions that must be paid under Part 3, subpart 3A of the KiwiSaver Act 2006 to the Commissioner, including an amount of compulsory employer contributions unpaid, specified in a notice under section 101I(5) of that Act:
+  (bb) an employer in relation to amounts of compulsory employer contributions unpaid and specified in a notice under section 141(5) of the KiwiSaver Act 2006:
   (c) a borrower in relation to repayment obligation (both as defined in the Student Loan Scheme Act 2011).
 
 **General provisions**
@@ -8308,9 +8308,10 @@ In any proceedings against a person for refusing or failing to provide a tax ret
     (f) an amount of unpaid tax subject to Part 10A:
     (g) an amount of unpaid contribution that was payable under subpart 1 of Part 3 of the KiwiSaver Act 2006:
     (h) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006 that relates to a compulsory employer contribution:
-    (i) an amount of compulsory employer contributions unpaid, specified in a notice under section 101I(5) of the KiwiSaver Act 2006:
+    (i) an amount of compulsory employer contributions unpaid, specified in a notice under section 141(5) of the KiwiSaver Act 2006:
     (j) an amount payable in relation to a loan made under the small business cashflow scheme:
-    (k) an amount payable in relation to a grant made under the COVID-19 resurgence support payments scheme
+    (k) an amount payable in relation to a grant made under the COVID-19 resurgence support payments scheme:
+    (l) KiwiSaver Act 2006 employer contributions
   - **taxpayer** —
     (a) in relation to income tax within the meaning of paragraphs (b) and (d) of the definition of income tax in this subsection, includes an employer and a PAYE intermediary; and
     (b) in relation to income tax within the meaning of paragraph (e) of the definition of income tax in this subsection, includes an employer.
@@ -9686,7 +9687,7 @@ The person who, on 1 April 1995, holds office as Commissioner of Inland Revenue 
 |  | b | the tax file number, if supplied to the employer |
 |  | c | the tax code for a PAYE income payment that is not an extra pay |
 |  | d | the amount of gross earnings, including the value of a benefit arising under an employee share scheme |
-|  | e | the name of every person who is an employee who receives an extra pay at a rate less than the rate set out in schedule 2, part B, table 1, row 2 of the Income Tax Act 2007 |
+|  | e | the name of every person who is an employee who receives an extra pay at a rate less than the rate set out in schedule 2, part B, table 1, row 3 of the Income Tax Act 2007 |
 |  | f | the total amount of tax withheld before any tax credits are taken into account |
 |  | g | the amount of earnings not liable to the earner levy, including the value of a benefit arising under an employee share scheme |
 | 5 | Particulars of the following amounts for every person who is an employee, as applicable: |  |
@@ -9733,7 +9734,7 @@ The person who, on 1 April 1995, holds office as Commissioner of Inland Revenue 
 ### 1 Tax codes generally
 (1) The basic tax rates for PAYE income payments are set out in schedule 2 of the Income Tax Act 2007.
 (2) The table in clause 4 lists the tax codes from which an employee must choose the code that applies to their circumstances unless they have a tailored tax code under part B, clauses 1 to 3.
-(3) An employee who receives a PAYE income payment of a main benefit and a PAYE income payment that does not consist of a main benefit may choose, for their non-benefit income, a secondary tax code set out in the table in clause 4, rows 3 to 6, that applies to their circumstances.
+(3) An employee who receives a PAYE income payment of a main benefit and a PAYE income payment that does not consist of a main benefit may choose, for their non-benefit income, a secondary tax code set out in the table in clause 4, rows 3 to 6B, that applies to their circumstances.
 (4) If another Act requires an employer to withhold the amount of tax for a PAYE income payment to an employee and pay the amount to the Commissioner, the tax code may be combined with another code applying under that Act.
 
 ### 2 Changes to tax codes
@@ -9756,7 +9757,7 @@ The person who, on 1 April 1995, holds office as Commissioner of Inland Revenue 
 (1) If an employee is no longer entitled to use a particular tax code, they must notify their employer within 4 days after the date on which they become aware that they are no longer entitled to use the code. The employee must give the reason why the tax code no longer applies and the date on which their entitlement to use the tax code ended.
 (2) The tax code does not apply to a PAYE income payment made to the employee after the date on which the entitlement ends, unless the payment is salary or wages for a current pay period.
 (3) For the purposes of subclause (1), if the employee notifies the Commissioner that their entitlement has ended, they must similarly provide the reason and the date described in that subclause to the Commissioner.
-(4) If an employer has not received notice that the employee’s entitlement to use the tax code has ended, the employer is not required to change the amount of tax withheld from a payment made to an employee. Tax code tableThe following table is small in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Tax Code. Column 3 is headed Circumstances for use of tax code.RowTax codeCircumstances for use of tax code1Mfor primary employment earnings when the employee is not entitled to a tax credit under section LC 13 of the Income Tax Act 20072MEfor primary employment earnings when the employee is entitled to a tax credit under section LC 13 of the Income Tax Act 20073SBfor secondary employment earnings for an employee whose total PAYE income payments are not more than $14,0004Sfor secondary employment earnings for an employee whose total PAYE income payments are more than $14,000 but not more than $48,0005SHfor secondary employment earnings for an employee whose total PAYE income payments are more than $48,000 but not more than $70,0006STfor secondary employment earnings for an employee whose total PAYE income payments are more than $70,0007CAEfor salary or wages for employment as a casual agricultural employee8EDWfor salary or wages for employment as an election day worker9NSWfor salary or wages for employment as a non-resident seasonal worker
+(4) If an employer has not received notice that the employee’s entitlement to use the tax code has ended, the employer is not required to change the amount of tax withheld from a payment made to an employee. Tax code tableThe following table is small in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Tax Code. Column 3 is headed Circumstances for use of tax code.RowTax codeCircumstances for use of tax code1Mfor primary employment earnings when the employee is not entitled to a tax credit under section LC 13 of the Income Tax Act 20072MEfor primary employment earnings when the employee is entitled to a tax credit under section LC 13 of the Income Tax Act 20073SBfor secondary employment earnings for an employee whose total PAYE income payments are not more than $14,0004Sfor secondary employment earnings for an employee whose total PAYE income payments are more than $14,000 but not more than $48,0005SHfor secondary employment earnings for an employee whose total PAYE income payments are more than $48,000 but not more than $70,0006STfor secondary employment earnings for an employee whose total PAYE income payments are more than $70,000 but not more than $180,0006BSAfor secondary employment earnings for an employee whose total PAYE income payments are more than $180,0007CAEfor salary or wages for employment as a casual agricultural employee8EDWfor salary or wages for employment as an election day worker9NSWfor salary or wages for employment as a non-resident seasonal worker
 
 ### Part B — Special and particular tax codes
 
