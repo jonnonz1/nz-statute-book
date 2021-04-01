@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2020-12-03_
+_Consolidation as at 2021-04-01_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -1912,8 +1912,8 @@ If Parts 11 to 15 apply to a hazardous substance and a group standard is made un
 (1) The following persons shall ensure the provisions of this Act (including any controls imposed on approvals granted under this Act) are enforced in the following situations:
   (a) WorkSafe must ensure that the provisions of this Act in respect of disposal and ecotoxic controls, and equivalent conditions in group standards issued under section 96B that relate to hazardous substances, are enforced in any workplace:
   (b) WorkSafe must ensure that the provisions of this Act are enforced in, on, at, or around any distribution system, gas installation, or gas appliance:
-  (c) the New Zealand Transport Agency may enforce the provisions of this Act in or on any motor vehicle, on any road, in or on any rail vehicle, or on any railway line:
-  (d) the Commissioner of Police (after consultation with the New Zealand Transport Agency) shall ensure that the provisions of this Act are enforced in or on any motor vehicle, on any road, in or on any rail vehicle, or on any railway line:
+  (c) the New Zealand Transport Agency or the Director of Land Transport may enforce the provisions of this Act in or on any motor vehicle, on any road, in or on any rail vehicle, or on any railway line:
+  (d) the Commissioner of Police (after consultation with the New Zealand Transport Agency or the Director of Land Transport) shall ensure that the provisions of this Act are enforced in or on any motor vehicle, on any road, in or on any rail vehicle, or on any railway line:
   (da) in relation to the retail sale of fireworks, the Commissioner of Police must ensure that any restrictions and prohibitions imposed under this Act are enforced:
   (e) the Director of the Civil Aviation Authority shall ensure that the provisions of this Act are enforced in or on any aircraft and that the provisions of this Act relating to the discharge of hazardous substances from an aircraft are enforced:
   (f) the Director of Maritime New Zealand shall ensure that the provisions of this Act are enforced in or on any ship:
