@@ -1,5 +1,5 @@
 # Railways Act 2005
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-04-01_
 
 ### 1 Title
 This Act is the Railways Act 2005.
@@ -30,13 +30,14 @@ The purpose of this Act is to—
       (i) to which the motion of a prime mover is transmitted; and
       (ii) that is used, or designed or intended to be used, for the amusement, recreation, or entertainment of persons being carried, raised, lowered, or moved by the appliance or any part of the appliance while it is in motion; and
     (b) includes the prime mover, transmission machinery, supporting structure, and any equipment used or intended to be used in connection with the appliance
-  - **approved safety case** means a safety case that the Agency has approved under section 32; and includes any variation approved or confirmed under section 35
+  - **approved safety case** means a safety case that the Director has approved under section 32; and includes any variation approved or confirmed under section 35
   - **Commission** means the Transport Accident Investigation Commission established under section 3 of the Transport Accident Investigation Commission Act 1990
   - **director** ,—
     (a) in relation to a company, has the same meaning as in section 126 of the Companies Act 1993 as if—
       (i) this Act were referred to in subsections (1)﻿(b) to (d), (2), and (3) of that section; and
       (ii) subsection (1A) of that section were omitted:
     (b) in relation to any other body corporate, means a person occupying a position in, or in relation to, the body corporate that is comparable with that of a person who is a director of a company within the meaning of paragraph (a)
+  - **Director** or means the Director of Land Transport appointed under section 104A of the Land Transport Management Act 2003
   - **enforcement officer** —
     (a) means any of the following:
       (i) a constable:
@@ -69,7 +70,7 @@ The purpose of this Act is to—
   - **maintenance provider** means a person who provides maintenance services for any railway infrastructure or rail vehicle, whether or not that person engages rail personnel to do so on its behalf; but does not include those rail personnel
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **network controller** means a person who authorises entry onto, occupancy of, or movement of rail vehicles on a railway line, whether or not that person engages rail personnel to do so on that person's behalf; but does not include that rail personnel
-  - **ordinary safety assessment** means a safety assessment undertaken of all parts or any part of a rail participant's rail activities to enable the Agency—
+  - **ordinary safety assessment** means a safety assessment undertaken of all parts or any part of a rail participant's rail activities to enable the Director—
     (a) to gain appropriate assurances that those rail activities will continue to be conducted safely; or
     (b) to determine the action that must be taken by the rail participant so that those assurances may be gained
   - **prime mover** means an engine, motor, or other appliance that provides mechanical energy derived from steam, water, wind, electricity, gas, gaseous products, compressed air, the combustion of fuel, or any other source
@@ -142,11 +143,11 @@ The purpose of this Act is to—
   - **safety case** means a document that contains the information specified in section 30
   - **safety improvement plan** means a plan required to be prepared under section 36
   - **safety system** , in relation to a rail participant, means a written record of all the rail participant's management and operational policies and practices that relate to the safe conduct of its rail activities; and includes the rail participant's operational and training manuals
-  - **special safety assessment** means a safety assessment undertaken of all parts or any parts of a rail participant's rail activities when the Agency believes, on reasonable grounds, that—
+  - **special safety assessment** means a safety assessment undertaken of all parts or any parts of a rail participant's rail activities when the Director believes, on reasonable grounds, that—
     (a) those rail activities could cause—
       (i) the death of, or serious injury to, individuals; or
       (ii) significant damage to property; and
-    (b) there is a need for an early determination of the nature and extent of the action that the Agency would require the rail participant to take to mitigate that risk
+    (b) there is a need for an early determination of the nature and extent of the action that the Director would require the rail participant to take to mitigate that risk
   - **transmission machinery** means any shaft, wheel, drum, pulley, system of fast and loose pulleys, gearing, coupling, clutch, driving belt, chain, rope, band, or other device by which the motion of a prime mover is transmitted to or received by any machine or appliance.
 (2) In this Act, the rail activities of a rail participant, or for which a rail participant is responsible, are as follows:
   (a) in the case of an infrastructure owner, the ownership of railway infrastructure:
@@ -169,8 +170,19 @@ In this Act, unless the context otherwise requires, reasonably practicable, in r
   (d) the availability and suitability of ways to eliminate or minimise the risk; and
   (e) after assessing the extent of the risk and the available ways of eliminating or minimising the risk, the cost associated with available ways of eliminating or minimising the risk, including whether the cost is grossly disproportionate to the risk.
 
+### 5A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+
 ### 6 Act binds the Crown
 This Act binds the Crown.
+
+### 6A Act is land transport Act
+(1) This Act is a land transport Act under section 2(1) of the Land Transport Act 1998.
+(2) This has the effect that—
+  (a) transport instruments may be made for the purposes of this Act under section 168G of that Act; and
+  (b) enforceable undertakings may be given for the purposes of this Act in accordance with section 112A of that Act; and
+  (c) a land transport record may be required to be created for the purposes of this Act in accordance with section 200B of that Act.
+(3) This section is intended as a guide only and is not an exhaustive statement as to the effects of this Act being a land transport Act under that Act.
 
 ## Part 2 — Safety
 
@@ -182,7 +194,7 @@ This Act binds the Crown.
 
 ### 8 Relationship of Act with Health and Safety at Work Act 2015
 (1) Nothing in this Act limits the Health and Safety at Work Act 2015.
-(2) Despite subsection (1), the Agency and the health and safety regulator must enter into a memorandum of understanding with respect to investigations conducted and prosecutions taken under this Act or the Health and Safety at Work Act 2015.
+(2) Despite subsection (1), the Agency or the Director and the health and safety regulator must enter into a memorandum of understanding with respect to investigations conducted and prosecutions taken under this Act or the Health and Safety at Work Act 2015.
 (3)
 
 ### 9 General safety duties of other persons
@@ -251,23 +263,23 @@ A rail participant must comply with the provisions of sections 129 to 132 of the
   (b) an access provider:
   (c) a rail participant who is required by regulations to hold a licence.
 (2) If a person is a member of more than 1 class of rail participant to which subsection (1) applies, a single licence covering each of the classes of rail participant concerned may be issued to the person, and that licence may have different conditions for the different classes covered by it.
-(3) Despite subsection (1), the Agency may, on the conditions that the Agency considers appropriate, exempt a person from holding a licence if all of the rail activities of that person are covered under—
+(3) Despite subsection (1), the Director may, on the conditions that the Director considers appropriate, exempt a person from holding a licence if all of the rail activities of that person are covered under—
   (a) the licence of another licence holder; and
   (b) the approved safety case of that other licence holder.
 
 ### 16 Application for licence
 (1) Every application for a licence must—
-  (a) be made to the Agency in the prescribed form or, if a form is not prescribed, in the form that the Agency may require; and
-  (b) contain the information, and comply with any other requirements, prescribed by regulations or rules or reasonably required by the Agency; and
+  (a) be made to the Director in the prescribed form or, if a form is not prescribed, in the form that the Director may require; and
+  (b) contain the information, and comply with any other requirements, prescribed by regulations or rules or reasonably required by the Director; and
   (c) be accompanied by the fee required by regulations.
 (2) If a person is a member of more than 1 class of rail participant to which section 15(1) applies, a single application covering each of the classes of rail participant concerned may be made under subsection (1).
 
 ### 17 Grant of licences
-(1) After considering an application for a licence, the Agency may grant the licence only if the Agency has determined that—
+(1) After considering an application for a licence, the Director may grant the licence only if the Director has determined that—
   (a) all relevant requirements of this Act, the regulations, and the rules have been complied with; and
   (b) the proposed safety case has been approved under section 32; and
   (c) it is not contrary to the interests of rail safety for the licence to be granted.
-(2) The Agency may grant an interim licence to an applicant if that applicant—
+(2) The Director may grant an interim licence to an applicant if that applicant—
   (a) is continuing an existing rail activity previously carried out by another rail participant; and
   (b) has applied for a licence but is yet to have its—
     (i) safety case approved; or
@@ -275,14 +287,14 @@ A rail participant must comply with the provisions of sections 129 to 132 of the
 (3) Section 27 applies to a decision not to grant a licence.
 
 ### 18 Transfer or assignment of licence prohibited
-A licence may not be transferred or assigned to any person without the prior written consent of the Agency, and any purported transfer or assignment is void.
+A licence may not be transferred or assigned to any person without the prior written consent of the Director, and any purported transfer or assignment is void.
 
 ### 19 Term of licence
 (1) A licence takes effect on the day it is granted and continues in force until it is—
   (a) surrendered under subsection (2); or
   (b) suspended under section 23; or
   (c) revoked under section 24 or section 26.
-(2) A holder of a licence may surrender the licence at any time by written notice to the Agency.
+(2) A holder of a licence may surrender the licence at any time by written notice to the Director.
 
 ### 20 Register of licences
 (1) The Agency must continue and maintain a register of licences.
@@ -301,23 +313,23 @@ A licence may not be transferred or assigned to any person without the prior wri
 
 ### 21 Conditions of licences
 (1) A licence may be granted on any conditions that—
-  (a) the Agency, on reasonable grounds, considers appropriate in the interest of safety; or
+  (a) the Director, on reasonable grounds, considers appropriate in the interest of safety; or
   (b) are prescribed by the rules.
 (2) Without limiting subsection (1), every licence has the following conditions:
-  (a) the licence holder has a safety liaison officer who is authorised to act as the licence holder's primary contact with the Agency in relation to the licence; and
+  (a) the licence holder has a safety liaison officer who is authorised to act as the licence holder's primary contact with the Director in relation to the licence; and
   (b) the fees with respect to the licence are paid to the Agency; and
-  (c) the licence holder must report to the Agency those matters that are specified in the licence holder's safety case and any other matters that the Agency reasonably considers necessary in the interests of safety.
+  (c) the licence holder must report to the Director those matters that are specified in the licence holder's safety case and any other matters that the Director reasonably considers necessary in the interests of safety.
 (3) Without limiting subsection (1), every licence held by a rail operator has the following conditions:
   (a) every rail vehicle used by the rail operator must be maintained as provided for in the approved safety case:
-  (b) the rail operator must, whenever required to do so by the Agency, present for inspection any rail vehicle that is used by the rail operator:
+  (b) the rail operator must, whenever required to do so by the Director, present for inspection any rail vehicle that is used by the rail operator:
   (c) a rail vehicle that has suffered serious damage may not be used until it has been approved in accordance with the rail operator's safety system and approved safety case:
-  (d) the rail operator must, on being requested to do so by the Agency or an enforcement officer, immediately supply the full name and address of any rail personnel of the rail operator who has committed or allegedly committed an offence (being an offence of which the rail operator is aware and that may be relevant to the safe operation of a rail vehicle).
+  (d) the rail operator must, on being requested to do so by the Director or an enforcement officer, immediately supply the full name and address of any rail personnel of the rail operator who has committed or allegedly committed an offence (being an offence of which the rail operator is aware and that may be relevant to the safe operation of a rail vehicle).
 (4) Without limiting subsection (1), every licence held by an access provider has the following conditions:
   (a) all railway infrastructure used by the access provider must be maintained as provided for in the approved safety case:
-  (b) the access provider must, whenever required to do so by the Agency, present for inspection any railway infrastructure controlled by the access provider:
+  (b) the access provider must, whenever required to do so by the Director, present for inspection any railway infrastructure controlled by the access provider:
   (c) any railway infrastructure that has suffered serious damage may not be used until it has been approved in accordance with the access provider's safety system and approved safety case:
-  (d) the access provider must, on being requested to do so by the Agency or an enforcement officer, immediately supply the full name and address of any rail personnel of the access provider who has committed or allegedly committed an offence (being an offence of which the access provider is aware and that may be relevant to the safe operation of any railway infrastructure).
-(5) Without limiting subsection (1), every licence has the condition that the licence holder must provide the Agency with—
+  (d) the access provider must, on being requested to do so by the Director or an enforcement officer, immediately supply the full name and address of any rail personnel of the access provider who has committed or allegedly committed an offence (being an offence of which the access provider is aware and that may be relevant to the safe operation of any railway infrastructure).
+(5) Without limiting subsection (1), every licence has the condition that the licence holder must provide the Director with—
   (a) the licence holder's current—
     (i) place of business; and
     (ii) postal address; and
@@ -325,18 +337,18 @@ A licence may not be transferred or assigned to any person without the prior wri
   (b) the safety liaison officer's contact details (including, but not limited to, current phone number and current electronic address (if any)).
 
 ### 22 Agents and contractors
-(1) A licence may prohibit or restrict the licence holder from appointing agents or contractors to carry out any rail activities of the licence holder without the consent of the Agency (which consent may not be unreasonably withheld).
+(1) A licence may prohibit or restrict the licence holder from appointing agents or contractors to carry out any rail activities of the licence holder without the consent of the Director (which consent may not be unreasonably withheld).
 (2) Every licence has the condition that,—
   (a) if any rail activities of the licence holder are carried out by another person who does not hold a licence to carry out those rail activities, the licence holder must take all reasonable steps (including providing necessary monitoring personnel and resources) to ensure that the person carries out those rail activities in accordance with—
     (i) the licence; and
     (ii) the licence holder's approved safety case and safety system; and
     (iii) any relevant rules; and
-  (b) the licence holder must give written notice to the Agency of the appointment of, or a change in, any of the principal agents or contractors engaged by the licence holder to carry out any or all of the licence holder's rail activities.
+  (b) the licence holder must give written notice to the Director of the appointment of, or a change in, any of the principal agents or contractors engaged by the licence holder to carry out any or all of the licence holder's rail activities.
 
 **Suspensions, revocations, and other conditions of licences**
 
-### 23 Power of Agency to suspend licence or impose temporary conditions
-(1) The Agency may, by written notice given to the licence holder, suspend a licence issued under this Act or impose temporary conditions in respect of that licence if the Agency—
+### 23 Power of Director to suspend licence or impose temporary conditions
+(1) The Director may, by written notice given to the licence holder, suspend a licence issued under this Act or impose temporary conditions in respect of that licence if the Director—
   (a) considers it necessary to avoid a risk of—
     (i) the death of, or serious injury to, individuals; or
     (ii) significant damage to property; and
@@ -352,13 +364,13 @@ A licence may not be transferred or assigned to any person without the prior wri
   (a) the decision to suspend a licence issued under this Act or impose temporary conditions on that licence; and
   (b) the reasons for the decision and the information upon which the decision is based; and
   (c) the licence holder's right to appeal under section 68.
-(3) The duration of a temporary condition or a suspension may not exceed 10 working days unless, before the expiry of that 10-working-day period, the Agency extends the temporary conditions or the suspension for a further specified period.
+(3) The duration of a temporary condition or a suspension may not exceed 10 working days unless, before the expiry of that 10-working-day period, the Director extends the temporary conditions or the suspension for a further specified period.
 (4) If notice of a proposed revocation or the imposition of permanent conditions is given while a suspension is, or temporary conditions are, in force, the suspension remains, or the temporary conditions remain, in force until a final decision on revocation or permanent conditions has been made.
 (5) Either a licence or a part of a licence may be suspended under this section.
 (6) Section 27 applies in respect of a decision under subsection (1).
 
-### 24 Power of Agency to revoke licence or impose permanent conditions
-(1) The Agency may, at any time, revoke, or impose permanent conditions in respect of, a licence if the Agency,—
+### 24 Power of Director to revoke licence or impose permanent conditions
+(1) The Director may, at any time, revoke, or impose permanent conditions in respect of, a licence if the Director,—
   (a) by reason of a safety assessment report or otherwise, considers it necessary to avoid a risk of—
     (i) the death of, or serious injury to, individuals; or
     (ii) significant damage to property; and
@@ -367,18 +379,18 @@ A licence may not be transferred or assigned to any person without the prior wri
 (3) Section 27 applies in respect of a decision under subsection (1).
 
 ### 25 Matters relating to action taken under section 23 or section 24
-(1) This section applies if the Agency is to determine whether a licence should be—
+(1) This section applies if the Director is to determine whether a licence should be—
   (a) suspended or subjected to temporary conditions under section 23; or
   (b) revoked or subjected to permanent conditions under section 24.
-(2) If this section applies, the Agency, as the Agency considers appropriate, may take into account and give weight to the following matters:
+(2) If this section applies, the Director, as the Director considers appropriate, may take into account and give weight to the following matters:
   (a) the licence holder's compliance history with transport safety regulatory requirements (including this Act and the rules) and with the conditions of the licence holder's licence:
   (b) any conviction of the licence holder, or any of the licence holder's officers, for a transport safety offence:
   (c) evidence that the licence holder has committed a transport safety offence or has contravened or failed to comply with this Act, the rules, or any conditions of the licence holder's licence.
-(3) The Agency is not confined to consideration of the matters specified in subsection (2), and may take into account other matters and evidence from any source that the Agency considers relevant.
+(3) The Director is not confined to consideration of the matters specified in subsection (2), and may take into account other matters and evidence from any source that the Director considers relevant.
 
-### 26 Power of Agency to amend or revoke licences in other cases
-(1) The Agency may, by agreement with a licence holder, amend that licence holder's licence.
-(2) The Agency may, without the agreement of a licence holder, do any of the following:
+### 26 Power of Director to amend or revoke licences in other cases
+(1) The Director may, by agreement with a licence holder, amend that licence holder's licence.
+(2) The Director may, without the agreement of a licence holder, do any of the following:
   (a) amend a licence to reflect the fact that a rail activity for which the licence was granted is no longer being carried out by the licence holder:
   (b) revoke a licence if none of the rail activities for which the licence has been granted is being carried out by the licence holder:
   (c) amend a licence to correct any clerical error or obvious mistake on the face of the licence.
@@ -387,31 +399,31 @@ A licence may not be transferred or assigned to any person without the prior wri
 **Adverse decisions**
 
 ### 27 Rights of persons affected in relation to adverse decisions
-(1) If the Agency proposes to make an adverse decision under this Act in respect of a person, the Agency must give written notice to the person directly affected of—
+(1) If the Director proposes to make an adverse decision under this Act in respect of a person, the Director must give written notice to the person directly affected of—
   (a) the proposed decision; and
   (b) subject to subsection (3), the reasons for the proposed decision and the information upon which the decision is based; and
-  (c) the date by which submissions may be made to the Agency in respect of the proposed decision (which date must not be less than 15 working days after the date on which the notice is given); and
+  (c) the date by which submissions may be made to the Director in respect of the proposed decision (which date must not be less than 15 working days after the date on which the notice is given); and
   (d) if appropriate, the date on which the proposed decision takes effect, being a date not less than 20 working days after the date on which the notice is given; and
-  (e) the person's right to appeal under section 68 if the Agency proceeds with the proposed decision; and
+  (e) the person's right to appeal under section 68 if the Director proceeds with the proposed decision; and
   (f) any other matters that, in any particular case, may be required under this Act or any other Act.
-(2) If the Agency gives a notice under subsection (1), the Agency—
-  (a) must also supply a copy of the notice to any affected licence holder if the Agency considers that the proposed adverse decision is likely to have a significant effect on the rail activities of that affected licence holder; and
+(2) If the Director gives a notice under subsection (1), the Director—
+  (a) must also supply a copy of the notice to any affected licence holder if the Director considers that the proposed adverse decision is likely to have a significant effect on the rail activities of that affected licence holder; and
   (b) may supply a copy of the notice to any other affected rail participant.
 (3) No notice, or copy of a notice, given under this section may include, or be accompanied by, information that is, or may be, prejudicial to a person except to the extent that—
   (a) the notice or copy is supplied to that person; or
   (b) the person consents to the supply of that information to another person.
 (4) If a notice, or copy of a notice, is given to a person under this section,—
-  (a) that person has the responsibility to ensure that all information that the person wishes to have considered by the Agency in relation to the proposed adverse decision is received by the Agency within the period specified in the notice, or copy, under subsection (1)﻿(c), or within any further period that the Agency may allow; and
-  (b) the Agency may, but is not obliged to, consider information (other than information requested by the Agency) supplied by the person after the expiry of the period referred to in paragraph (a); and
-  (c) the Agency must consider submissions made in accordance with paragraph (a) and information supplied to the Agency by request of the Agency, but is not obliged to hear any person on the matter.
-(5) After considering the matters referred to in subsection (4)﻿(c), the Agency must—
+  (a) that person has the responsibility to ensure that all information that the person wishes to have considered by the Director in relation to the proposed adverse decision is received by the Director within the period specified in the notice, or copy, under subsection (1)﻿(c), or within any further period that the Director may allow; and
+  (b) the Director may, but is not obliged to, consider information (other than information requested by the Director) supplied by the person after the expiry of the period referred to in paragraph (a); and
+  (c) the Director must consider submissions made in accordance with paragraph (a) and information supplied to the Director by request of the Director, but is not obliged to hear any person on the matter.
+(5) After considering the matters referred to in subsection (4)﻿(c), the Director must—
   (a) decide whether or not to make the proposed adverse decision; and
   (b) as soon as practicable after making the decision, give written notice to the person directly affected, and any other person of a kind referred to in subsection (2)﻿(a), of—
     (i) the reasons for the decision if those reasons differ from those notified under subsection (1)﻿(b); and
     (ii) if appropriate, the date on which the decision takes effect; and
     (iii) if appropriate, the right of appeal under section 68.
 (6) In this section, unless the context otherwise requires,—
-  - **adverse decision** means a decision of the Agency—
+  - **adverse decision** means a decision of the Director—
     (a) to refuse to grant a licence under section 17; or
     (b) to suspend a licence or to impose temporary conditions on a licence under section 23; or
     (c) to revoke a licence or to impose permanent conditions on a licence under section 24; or
@@ -421,18 +433,18 @@ A licence may not be transferred or assigned to any person without the prior wri
   - **affected licence holder** , in relation to a person directly affected by an adverse decision, means the holder of, or the applicant for, the licence
   - **person directly affected** , in relation to any adverse decision, means the person who would be entitled to appeal against that adverse decision under section 68.
 
-**Further powers of Agency**
+**Further powers of Director**
 
-### 28 Power of Agency to prohibit operation, impose conditions, or detain or immobilise rail vehicles or railway infrastructure
-(1) If the Agency believes, on reasonable grounds, that the operation or use of a rail vehicle or class of rail vehicle or any railway infrastructure may endanger persons or property and that prompt action is necessary to prevent the risk, the Agency may do either of the following:
+### 28 Power of Director to prohibit operation, impose conditions, or detain or immobilise rail vehicles or railway infrastructure
+(1) If the Director believes, on reasonable grounds, that the operation or use of a rail vehicle or class of rail vehicle or any railway infrastructure may endanger persons or property and that prompt action is necessary to prevent the risk, the Director may do either of the following:
   (a) prohibit, or impose conditions on, the operation or use of the rail vehicle or rail vehicles of that class or railway infrastructure; or
-  (b) detain or immobilise the rail vehicle or any rail vehicle of that class or railway infrastructure, if the Agency considers it necessary to prevent its operation or use.
-(2) If a power is exercised under subsection (1), the Agency must, by written notice to each rail operator and access provider concerned, inform the rail operator or access provider (as the case requires) of—
+  (b) detain or immobilise the rail vehicle or any rail vehicle of that class or railway infrastructure, if the Director considers it necessary to prevent its operation or use.
+(2) If a power is exercised under subsection (1), the Director must, by written notice to each rail operator and access provider concerned, inform the rail operator or access provider (as the case requires) of—
   (a) the reasons for the action taken; and
   (b) the right of appeal under section 68.
 (3) If a rail vehicle or class of rail vehicle or any railway infrastructure is detained or immobilised under subsection (1), the following provisions apply:
   (a) the detention or immobilisation may be effected in the manner and imposed for the duration that will cause only as much disruption to the rail activities as is reasonably necessary to avoid endangering persons or property:
-  (b) if a rail vehicle or any railway infrastructure, or any parts of the vehicle or infrastructure, is required for the purpose of a prosecution or safety assessment under this Act or any other Act, the Agency may detain the rail vehicle or railway infrastructure, or parts of the vehicle or infrastructure, for the period that the Agency considers necessary for that purpose:
+  (b) if a rail vehicle or any railway infrastructure, or any parts of the vehicle or infrastructure, is required for the purpose of a prosecution or safety assessment under this Act or any other Act, the Director may detain the rail vehicle or railway infrastructure, or parts of the vehicle or infrastructure, for the period that the Director considers necessary for that purpose:
   (c) the rail operator or access provider concerned may have access to the rail vehicle or railway infrastructure for the purpose of obtaining evidence for a prosecution or safety assessment.
 
 ### Subpart 3 — Safety cases, safety systems, and improvement plans
@@ -461,10 +473,10 @@ A licence may not be transferred or assigned to any person without the prior wri
     (v) working practices and procedures are fit for their purpose:
   (h) the arrangements for procuring and maintaining evidence to ensure that the measures and processes necessary for safety are working as intended, including (but not limited to)—
     (i) the identification of the key safety performance factors and measures, including (but not limited to) accidents and incidents; and
-    (ii) the monitoring and recording of, and reporting on (both internally and to the Agency), the key safety performance factors and measures, including (but not limited to) accidents and incidents; and
+    (ii) the monitoring and recording of, and reporting on (both internally and to the Director), the key safety performance factors and measures, including (but not limited to) accidents and incidents; and
     (iii) the regular supervision, inspection, monitoring, and audit of the rail participant's safety case, safety system, and licence conditions; and
-    (iv) when required, the provision of evidence to the Agency substantiating the matters in subparagraphs (i) to (iii):
-  (i) the process by which, in consultation with the Agency, the frequency of ordinary safety assessments under section 37 may be agreed:
+    (iv) when required, the provision of evidence to the Director substantiating the matters in subparagraphs (i) to (iii):
+  (i) the process by which, in consultation with the Director, the frequency of ordinary safety assessments under section 37 may be agreed:
   (j) the arrangements for the rail participant to report to other relevant rail participants concerns about the state or performance of any rail vehicle, rail infrastructure, or railway premises that it considers has implications for the safe operation of the railway:
   (k) the policies in place to ensure that the rail participant's rail personnel—
     (i) are fit for duty; and
@@ -474,14 +486,14 @@ A licence may not be transferred or assigned to any person without the prior wri
     (ii) the review and revision of the rail participant's safety case and safety system, as a whole and in its various parts, to ensure that its safety case and safety system continue to be the most appropriate; and
     (iii) the identification of the areas of significant risk and the plans that are in place, or being developed, to reduce those risks:
   (m) the arrangements for ensuring that the rail participant consults any representatives of rail personnel (including, but not limited to, unions) with respect to the development and variation of safety systems that affect, or are likely to affect, rail personnel:
-  (n) any other matters that may be prescribed by the rules or that the Agency considers appropriate in the interests of safety.
+  (n) any other matters that may be prescribed by the rules or that the Director considers appropriate in the interests of safety.
 (2) A safety case may adopt, by reference and with any necessary modifications, 1 or more parts of another approved safety case.
 (3) If a provision of an approved safety case is inconsistent with a rule,—
   (a) the rule prevails; and
   (b) the rail participant must amend the provision so that it is consistent with the rule.
 
 ### 31 Matters to be taken into account in considering proposed safety case
-(1) In considering a proposed safety case, the Agency must have regard and give weight to, as the Agency considers appropriate, the following matters:
+(1) In considering a proposed safety case, the Director must have regard and give weight to, as the Director considers appropriate, the following matters:
   (a) the nature and extent of the proposed rail activities of the rail participant:
   (b) the safety result attainable, consistent with the nature of the rail activities of the rail participant:
   (c) the past history and performance (if any) of the rail participant within the transport industry:
@@ -489,32 +501,32 @@ A licence may not be transferred or assigned to any person without the prior wri
   (e) any submissions or representations received from—
     (i) any rail personnel of the rail participant; or
     (ii) any representatives of the rail personnel of that rail participant:
-  (f) any other matters the Agency reasonably considers appropriate in the interests of safety.
-(2) The Agency must not approve a proposed safety case unless satisfied that—
+  (f) any other matters the Director reasonably considers appropriate in the interests of safety.
+(2) The Director must not approve a proposed safety case unless satisfied that—
   (a) the form and content of the proposed safety case are clearly defined; and
   (b) the proposed safety case complies with section 30; and
   (c) the rail participant is capable of establishing, implementing, maintaining, regularly reviewing, and improving its safety case and safety system; and
   (d) the proposed safety case provides a programme of training and supervision that ensures that all rail personnel of the rail participant are capable of safely carrying out their responsibilities; and
-  (e) any provisions of the safety case that the Agency considers should be in a standard form applicable to more than 1 rail participant are in a common form approved by the Agency.
+  (e) any provisions of the safety case that the Director considers should be in a standard form applicable to more than 1 rail participant are in a common form approved by the Director.
 
 ### 32 Approval of safety case
-(1) The Agency must consider each proposed safety case and, after consulting with WorkSafe, either—
+(1) The Director must consider each proposed safety case and, after consulting with WorkSafe, either—
   (a) approve the form and content of the proposed safety case; or
-  (b) refuse to do so until the Agency is satisfied under section 31(2).
-(2) The Agency must make reasonable efforts to make a decision under subsection (1) not later than 60 working days after receipt of the proposed safety case.
-(3) The Agency must give written notice to the applicant of the Agency's decision under subsection (1).
-(4) If the Agency refuses to approve a proposed safety case, the notice under subsection (3) must state the reasons for the refusal and indicate the changes that need to be made to the proposed safety case for approval to be given.
-(5) An approved safety case may not be replaced or varied unless the Agency has approved the replacement or variation.
-(6) An approved safety case must be made available for public inspection in a manner that the Agency considers appropriate.
-(7) Despite anything in this section, a rail participant may submit its safety system instead of its safety case to the Agency if it considers that its safety system meets the requirements set out in section 30.
+  (b) refuse to do so until the Director is satisfied under section 31(2).
+(2) The Director must make reasonable efforts to make a decision under subsection (1) not later than 60 working days after receipt of the proposed safety case.
+(3) The Director must give written notice to the applicant of the Director’s decision under subsection (1).
+(4) If the Director refuses to approve a proposed safety case, the notice under subsection (3) must state the reasons for the refusal and indicate the changes that need to be made to the proposed safety case for approval to be given.
+(5) An approved safety case may not be replaced or varied unless the Director has approved the replacement or variation.
+(6) An approved safety case must be made available for public inspection in a manner that the Director considers appropriate.
+(7) Despite anything in this section, a rail participant may submit its safety system instead of its safety case to the Director if it considers that its safety system meets the requirements set out in section 30.
 
 ### 33 Application to replace or vary approved safety case
-(1) A licence holder may, at any time, apply to the Agency for approval of any replacement or variation of the licence holder's approved safety case.
+(1) A licence holder may, at any time, apply to the Director for approval of any replacement or variation of the licence holder's approved safety case.
 (2) An application under subsection (1) must be made in writing and must include the reasons why the licence holder is requesting the replacement or variation.
-(3) The proposed variation must be considered by the Agency as if the licence holder were proposing a new safety case, and section 31 applies as if it were a fresh application for approval.
+(3) The proposed variation must be considered by the Director as if the licence holder were proposing a new safety case, and section 31 applies as if it were a fresh application for approval.
 
-### 34 Requirement by Agency to replace or vary approved safety case
-(1) The Agency may, at any time, require the replacement or variation of an approved safety case if the Agency—
+### 34 Requirement by Director to replace or vary approved safety case
+(1) The Director may, at any time, require the replacement or variation of an approved safety case if the Director—
   (a) considers it necessary in the interests of safety; and
   (b) is satisfied that—
     (i) the action is necessary to ensure compliance with this Act or the rules; or
@@ -522,45 +534,45 @@ A licence may not be transferred or assigned to any person without the prior wri
     (iii) the licence holder gave false or misleading information for the purpose of obtaining the licence; or
     (iv) the licence holder failed to comply with any conditions of the licence; or
     (v) circumstances have changed significantly and the licence holder's approved safety case does not adequately provide for those changed circumstances.
-(2) If a replacement or variation is required under subsection (1), the Agency must, by written notice, inform the licence holder—
+(2) If a replacement or variation is required under subsection (1), the Director must, by written notice, inform the licence holder—
   (a) of the reasons for the requirement; and
-  (b) that the licence holder may, within a reasonable time specified in the notice, make written submissions regarding the replacement or variation that the Agency requires.
-(3) Nothing in this section affects a power of the Agency under this Act, or any other Act, to take any other action in respect of a rail document or person.
+  (b) that the licence holder may, within a reasonable time specified in the notice, make written submissions regarding the replacement or variation that the Director requires.
+(3) Nothing in this section affects a power of the Director under this Act, or any other Act, to take any other action in respect of a rail document or person.
 
 ### 35 Procedure for replacement or variation of approved safety case
-(1) If an application for a replacement or variation is made under section 33, or the Agency requires a replacement or variation under section 34, the Agency must, as soon as practicable but not later than 20 working days after receipt of the application, consider any submission made on the matter by the licence holder.
-(2) After considering the submission (if any), the Agency must, as soon as practicable but not later than 20 working days after considering any submission made by the licence holder,—
+(1) If an application for a replacement or variation is made under section 33, or the Director requires a replacement or variation under section 34, the Director must, as soon as practicable but not later than 20 working days after receipt of the application, consider any submission made on the matter by the licence holder.
+(2) After considering the submission (if any), the Director must, as soon as practicable but not later than 20 working days after considering any submission made by the licence holder,—
   (a) decide whether or not to approve the application or confirm the requirement; and
-  (b) give written notice to the licence holder of the Agency’s decision.
-(3) The Agency may approve an application, or confirm a requirement, in whole or in part and subject to any conditions that the Agency considers appropriate.
-(4) If the Agency has refused to approve an application, or has confirmed a requirement, the Agency must, in the written notice given under subsection (2)﻿(b), inform the licence holder of—
+  (b) give written notice to the licence holder of the Director’s decision.
+(3) The Director may approve an application, or confirm a requirement, in whole or in part and subject to any conditions that the Director considers appropriate.
+(4) If the Director has refused to approve an application, or has confirmed a requirement, the Director must, in the written notice given under subsection (2)﻿(b), inform the licence holder of—
   (a) the reasons for the refusal or confirmation; and
   (b) the right to appeal under section 68.
 (5) A replacement or variation applied for under section 33 or required under section 34 does not have effect unless its approval or confirmation is notified under subsection (2).
 
 ### 36 Safety improvement plans
-(1) The Agency may, by written notice, require a rail participant to prepare a safety improvement plan in respect of the rail activities specified in the notice if the Agency has reason to believe that the rail participant has failed to take appropriate remedial action under sections 42 to 44.
-(2) As soon as practicable but not later than 20 working days after receiving a plan under subsection (1), the Agency must advise the rail participant by written notice—
-  (a) whether the Agency has approved the plan; and
-  (b) if the Agency has not approved the plan, of the changes that the Agency requires to be made to the plan.
-(3) A rail participant who is advised under subsection (2)﻿(b) of changes to be made to a plan must make those changes as soon as practicable but not later than 20 working days after being advised and must submit the amended plan to the Agency for the Agency’s approval, and subsection (2) applies in respect of the amended plan with all necessary modifications.
-(4) If a plan has been approved by the Agency, the rail participant must—
+(1) The Director may, by written notice, require a rail participant to prepare a safety improvement plan in respect of the rail activities specified in the notice if the Director has reason to believe that the rail participant has failed to take appropriate remedial action under sections 42 to 44.
+(2) As soon as practicable but not later than 20 working days after receiving a plan under subsection (1), the Director must advise the rail participant by written notice—
+  (a) whether the Director has approved the plan; and
+  (b) if the Director has not approved the plan, of the changes that the Director requires to be made to the plan.
+(3) A rail participant who is advised under subsection (2)﻿(b) of changes to be made to a plan must make those changes as soon as practicable but not later than 20 working days after being advised and must submit the amended plan to the Director for the Director’s approval, and subsection (2) applies in respect of the amended plan with all necessary modifications.
+(4) If a plan has been approved by the Director, the rail participant must—
   (a) implement the plan in accordance with its provisions; and
-  (b) make any amendments to the approved plan that are required at any time by the Agency; and
-  (c) not otherwise amend the plan without first obtaining the Agency’s written approval of the amendment.
+  (b) make any amendments to the approved plan that are required at any time by the Director; and
+  (c) not otherwise amend the plan without first obtaining the Director’s written approval of the amendment.
 
 ### Subpart 4 — Safety assessments
 
 **Safety assessments**
 
 ### 37 Ordinary and special safety assessments
-(1) The Agency may, at any time or times, by written notice given to the person or persons concerned, require a rail participant or any rail personnel of a rail participant to undergo either—
+(1) The Director may, at any time or times, by written notice given to the person or persons concerned, require a rail participant or any rail personnel of a rail participant to undergo either—
   (a) an ordinary safety assessment at a time determined in accordance with section 30(1)﻿(i) and specified in the notice; or
   (b) a special safety assessment at a time specified in the notice.
-(2) Before giving notice of the requirement for a special safety assessment, the Agency must determine on reasonable grounds that the rail participant's rail activities could cause the death of, or serious injury to, individuals, or significant damage to property, by having regard to—
+(2) Before giving notice of the requirement for a special safety assessment, the Director must determine on reasonable grounds that the rail participant's rail activities could cause the death of, or serious injury to, individuals, or significant damage to property, by having regard to—
   (a) the nature and extent of the rail activities of the rail participant concerned:
-  (b) the extent to which the Agency considers that the duties specified in sections 7 and 10 to 13, and any rules and regulations, are being complied with:
-  (c) with regard to a licence holder, the time when the Agency last considered the licence holder's safety case:
+  (b) the extent to which the Director considers that the duties specified in sections 7 and 10 to 13, and any rules and regulations, are being complied with:
+  (c) with regard to a licence holder, the time when the Director last considered the licence holder's safety case:
   (d) the findings of recent safety assessments:
   (e) the information on the safety of the rail participant's rail activities obtained from the safety monitoring and reporting:
   (f) the nature and scope of—
@@ -569,11 +581,11 @@ A licence may not be transferred or assigned to any person without the prior wri
   (g) the extent of the improvements in rail safety produced by—
     (i) those safety improvement plans and notices; and
     (ii) any other safety improvements:
-  (h) the nature and extent of any recent accidents or incidents that the licence holder has reported to the Agency under section 13(3):
-  (i) any other recent reports or information that the Agency has received on—
+  (h) the nature and extent of any recent accidents or incidents that the licence holder has reported to the Director under section 13(3):
+  (i) any other recent reports or information that the Director has received on—
     (i) the overall safety of the rail participant's rail activities; or
     (ii) the safety of particular aspects of the rail participant's rail activities:
-  (j) any other matters that the Agency reasonably considers necessary to take into account.
+  (j) any other matters that the Director reasonably considers necessary to take into account.
 (3) A safety assessment must be carried out by a safety assessor who is independent of the rail participant being assessed.
 
 ### 38 Safety assessor must consult
@@ -582,7 +594,7 @@ A licence may not be transferred or assigned to any person without the prior wri
 
 ### 39 Safety assessment report
 A safety assessor must, after making a safety assessment under section 37, submit a written report that covers the matters set out in section 40 to—
-  (a) the Agency; and
+  (a) the Director; and
   (b) the rail participant; and
   (c) any representatives of rail personnel consulted under section 38(1).
 
@@ -599,43 +611,43 @@ A safety assessor must, after making a safety assessment under section 37, submi
 (3) The costs of a safety assessment may be specified by regulations.
 
 ### 42 Notification of requirement for improvements
-(1) As soon as practicable, but not later than 20 working days after receipt of a safety assessment report, the Agency must give written notice to the rail participant that the Agency considers that—
+(1) As soon as practicable, but not later than 20 working days after receipt of a safety assessment report, the Director must give written notice to the rail participant that the Director considers that—
   (a) no remedial action by the rail participant is necessary; or
   (b) remedial action by the rail participant is necessary.
-(2) If remedial action is necessary, the Agency must give written notice to the rail participant of—
+(2) If remedial action is necessary, the Director must give written notice to the rail participant of—
   (a) the safety area or areas in which remedial action is required; and
   (b) the time limit within which the remedial action must be effected; and
   (c) any interim requirements imposed on the rail participant's rail activities under subsection (3) until the remedial action is completed; and
   (d) the right of appeal under section 68.
-(3) If a notice under subsection (2) refers to any non-compliance of the kind referred to in section 40(1)﻿(b), the Agency may specify, in that notice, interim requirements that the rail participant must comply with until the non-compliance ceases.
-(4) If a variation to the rail participant's approved safety case is required by the Agency, the Agency must proceed under section 34.
+(3) If a notice under subsection (2) refers to any non-compliance of the kind referred to in section 40(1)﻿(b), the Director may specify, in that notice, interim requirements that the rail participant must comply with until the non-compliance ceases.
+(4) If a variation to the rail participant's approved safety case is required by the Director, the Director must proceed under section 34.
 (5) Section 27 applies in respect of a decision under subsection (1).
-(6) Nothing in this section prevents the Agency from taking further action that the Agency considers appropriate in the interests of preventing the death of, or serious injury to, individuals, or significant damage to property, including, without limitation, the suspension or revocation of a licence.
+(6) Nothing in this section prevents the Director from taking further action that the Director considers appropriate in the interests of preventing the death of, or serious injury to, individuals, or significant damage to property, including, without limitation, the suspension or revocation of a licence.
 
 ### 43 Report on remedial action
-(1) At the expiry of a time limit imposed under section 42, or sooner if requested by the Agency, the safety assessor must provide the Agency with a report on whether the remedial action required has been satisfactorily completed.
-(2) If the required remedial action has not been completed to the Agency’s satisfaction, those rail activities of the rail participant that are specified by the Agency for the purposes of this subsection may not lawfully continue unless the Agency gives a further extension of time under section 44.
-(3) The Agency must make a decision under subsection (2) within 20 working days after receiving a report under subsection (1).
+(1) At the expiry of a time limit imposed under section 42, or sooner if requested by the Director, the safety assessor must provide the Director with a report on whether the remedial action required has been satisfactorily completed.
+(2) If the required remedial action has not been completed to the Director’s satisfaction, those rail activities of the rail participant that are specified by the Director for the purposes of this subsection may not lawfully continue unless the Director gives a further extension of time under section 44.
+(3) The Director must make a decision under subsection (2) within 20 working days after receiving a report under subsection (1).
 
 ### 44 Extension of time to complete remedial action
-(1) If the Agency is satisfied that reasonable progress is being made towards completing the remedial action required under section 42, and that adequate interim action has been taken to prevent the death of, or serious injury to, individuals, or significant damage to property, the Agency may, by written notice, grant an extension of time to enable that remedial action to be completed.
-(2) An extension of time under this section may be granted subject to any conditions or restrictions that the Agency considers reasonably necessary to prevent—
+(1) If the Director is satisfied that reasonable progress is being made towards completing the remedial action required under section 42, and that adequate interim action has been taken to prevent the death of, or serious injury to, individuals, or significant damage to property, the Director may, by written notice, grant an extension of time to enable that remedial action to be completed.
+(2) An extension of time under this section may be granted subject to any conditions or restrictions that the Director considers reasonably necessary to prevent—
   (a) the death of, or serious injury to, individuals; or
   (b) significant damage to property.
 
 **Safety assessors**
 
 ### 45 Appointment of safety assessors
-(1) The Agency may appoint 1 or more persons as safety assessors.
+(1) The Director may appoint 1 or more persons as safety assessors.
 (2) An appointment as a safety assessor may be—
   (a) a general appointment that authorises the appointed person to carry out any safety assessment that may be required; or
   (b) a specific appointment that applies to any 1 or more specified rail participants.
 (3) An appointment as a safety assessor may state particular matters that the appointed person is to consider or assess.
-(4) Before appointing a person as a safety assessor, the Agency must be satisfied that the person has the training, knowledge, expertise, and experience to carry out any safety assessment to which that person's appointment relates.
+(4) Before appointing a person as a safety assessor, the Director must be satisfied that the person has the training, knowledge, expertise, and experience to carry out any safety assessment to which that person's appointment relates.
 
 ### 46 Functions and duties of safety assessors
-Unless the Agency otherwise directs, the functions and duties of safety assessors are to—
-  (a) carry out safety assessments as required by the Agency:
+Unless the Director otherwise directs, the functions and duties of safety assessors are to—
+  (a) carry out safety assessments as required by the Director:
   (b) prepare reports in accordance with sections 39 and 43:
   (c) identify and report non-compliance with the duties specified in sections 7 and 10 to 13, or any rules or regulations:
   (d) perform any other functions and duties that may be prescribed by regulations or rules made under this Act.
@@ -648,7 +660,7 @@ Unless the Agency otherwise directs, the functions and duties of safety assessor
 (2) For the purposes of carrying out a safety assessment, a safety assessor may take copies of—
   (a) the documents or information; or
   (b) extracts from those documents or that information.
-(3) If, at any time, a safety assessor believes that a situation exists, or is about to exist, within the activities of a rail participant that constitutes a risk of the death of, or serious injury to, individuals, or of significant damage to property, the safety assessor must, as soon as is reasonably practicable, advise the Agency of that belief and the reasons for that belief.
+(3) If, at any time, a safety assessor believes that a situation exists, or is about to exist, within the activities of a rail participant that constitutes a risk of the death of, or serious injury to, individuals, or of significant damage to property, the safety assessor must, as soon as is reasonably practicable, advise the Director of that belief and the reasons for that belief.
 (4) Nothing in this section limits or affects the privilege against self-incrimination.
 
 ### 48 Powers of entry of safety assessors
@@ -668,9 +680,9 @@ Unless the Agency otherwise directs, the functions and duties of safety assessor
   (b) is valid for a period of 1 month from the date of its issue or for a lesser period that the judicial officer considers appropriate; and
   (c) must specify its period of validity; and
   (d) must state the location of the dwellinghouse or marae or building associated with a marae.
-(5) A safety assessor exercising the right of access under subsection (1) or the power of entry under subsection (2) must carry a warrant of authority issued by the Agency specifying—
+(5) A safety assessor exercising the right of access under subsection (1) or the power of entry under subsection (2) must carry a warrant of authority issued by the Director specifying—
   (a) the name of that safety assessor and the office or offices held by that safety assessor; and
-  (b) that the safety assessor is authorised by the Agency to exercise the power under subsection (1) or subsection (2) to enter vehicles, buildings, and places belonging to, or used by, a rail participant to carry out a safety assessment.
+  (b) that the safety assessor is authorised by the Director to exercise the power under subsection (1) or subsection (2) to enter vehicles, buildings, and places belonging to, or used by, a rail participant to carry out a safety assessment.
 (6) A safety assessor exercising the right of access under subsection (1) or the power of entry under subsection (2) must—
   (a) give reasonable notice of the intended entry (unless the giving of that notice is likely to defeat the purpose of the entry); and
   (b) produce the warrant of authority and evidence of identity—
@@ -744,18 +756,18 @@ Without limiting the power to make ordinary rules under section 49, ordinary rul
     (ii) requirements concerning logbooks to be kept by rail participants or rail personnel.
 (3) The rules may—
   (a) provide for the appointment or approval of persons or organisations who are to carry out safety assessments or examinations or tests, certify things, issue rail documents, and provide other services under this Act:
-  (b) require a person who applies for or holds a rail document to satisfy the Agency that the person (or individual) is a fit and proper person, and—
+  (b) require a person who applies for or holds a rail document to satisfy the Director that the person (or individual) is a fit and proper person, and—
     (i) specify which of the criteria set out in the rules made under section 159(3) of the Land Transport Act 1998, and any other criteria, are to be applied in determining whether a person is a fit and proper person:
     (ii) set out different fit and proper person assessments for different classes of rail documents, applicants, or licence holders:
   (c) provide for the issue, endorsement, alteration, replacement, surrender, expiry, suspension, and revocation of rail documents.
-(4) Subject to the rules, a rail document may be issued, or a document may be recognised as a rail document, by the Agency for a period, and subject to the conditions, that the Agency considers appropriate in each particular case.
+(4) Subject to the rules, a rail document may be issued, or a document may be recognised as a rail document, by the Director for a period, and subject to the conditions, that the Director considers appropriate in each particular case.
 
 ### 54 Other provisions concerning ordinary rules
 (1) An ordinary rule may apply generally or to different classes of persons or things, or to the same class of person or things in different circumstances.
 (2) An ordinary rule may apply generally throughout New Zealand or within a specified part or parts of New Zealand.
 (3) The commencement of an ordinary rule may be wholly suspended until it is applied by the Minister by notice in the Gazette.
 (4) An ordinary rule may—
-  (a) require or provide for a matter to be determined, undertaken, or approved by the Agency, Agency, or any other person, and empower the Agency, Agency, or any other person to impose requirements or conditions on the performance of activities:
+  (a) require or provide for a matter to be determined, undertaken, or approved by the Agency, the Director, or any other person, and empower the Agency, the Director, or any other person to impose requirements or conditions on the performance of activities:
   (b) specify standards, procedures, and requirements for the purposes of the rules:
   (c) impose conditions, restrictions, and prohibitions:
   (d) specify the definitions, abbreviations, and units of measurement to apply within any or all railways or railway premises:
@@ -775,7 +787,16 @@ The procedure for making ordinary rules in section 161 of the Land Transport Act
 (4) An emergency rule is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 57 General provisions concerning making of rules
-The provisions of sections 164 to 166 of the Land Transport Act 1998 apply with any necessary modifications to all ordinary rules and all emergency rules made under this Act.
+The provisions of sections 164 and 165 of the Land Transport Act 1998 apply with any necessary modifications to all ordinary rules and all emergency rules made under this Act.
+
+### 57A Exemptions from requirements in rules
+(1) The Director may, if the Director thinks it appropriate,—
+  (a) exempt 1 or more named or specified persons, rail vehicles, rail vehicle components, railway premises, or other things, or any named or specified railway infrastructure, from 1 or more specified requirements in a rule made under this Act; or
+  (b) exempt any class of person, rail vehicle, rail vehicle component, railway premises, railway infrastructure, or other thing from 1 or more specified requirements in a rule made under this Act.
+(2) The power under subsection (1) must not be used to provide an exemption from a requirement of a rule if the relevant rule specifically provides that no exemptions from the requirement may be granted.
+(3) This section does not limit or affect any other power of exemption conferred on any person under this Act or any other land transport Act.
+(4) Sections 168D(3) and (5) and 168E, and subpart 2 of Part 3 of Schedule 1, of the Land Transport Act 1998 apply with any necessary modifications to exemptions granted under subsection (1), but, to avoid doubt, the definition of class exemption in section 2(1) of the Land Transport Act 1998 must be read as referring to a class exemption granted under subsection (1)﻿(b) of this section.
+(5) An exemption granted under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 58 Evidence of rules
 Without limiting any other method of proof, the production in proceedings of a copy of the following rules is, in the absence of evidence to the contrary, sufficient evidence of the rules and of the fact that they have been made in accordance with this Act:
@@ -785,7 +806,7 @@ Without limiting any other method of proof, the production in proceedings of a c
 **Regulations**
 
 ### 59 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) specifying breaches of the rules that constitute offences against this Act:
   (b) specifying infringement offences for the purposes of this Act:
   (c) setting out defences to offences referred to in paragraph (a) or paragraph (b):
@@ -796,16 +817,18 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (f) specifying the matters for which fees or charges or costs must be paid under this Act or any other enactment concerning rail transport, and providing for the collection of those fees or charges or costs:
   (g) prescribing forms for the purposes of this Act:
   (h) providing for the exemption of certain rail participants from all or part of this Act on the conditions (if any) that are specified:
+  (ha) specifying for the purpose of section 60A(2) those requirements of the regulations to which section 60A applies:
   (i) specifying rail participants who are required to hold a licence:
   (j) specifying property that is railway infrastructure:
   (k) prescribing vehicles as rail vehicles:
   (l) designating a set of rails with a gauge of less than 550 mm between them as a railway line:
   (m) specifying excluded railway lines:
   (n) providing for any other matters that are contemplated by, or necessary for giving full effect to, the provisions of this Act or for its due administration.
+(2) Regulations made under this section may incorporate material by reference and, for that purpose, section 165 of the Land Transport Act 1998 applies as if regulations were rules.
 
 ### 60 Regulations relating to fees and charges for rail transport
-(1) Without limiting section 59, regulations may be made under that section prescribing, or providing for the fixing of, fees and charges payable for the purposes of meeting, or assisting in meeting, the costs and expenses incurred by the Agency or the Crown in the performance or exercise of functions or powers, or in the performance of duties, or in the provision of services, under this Act or any other enactment relating to rail transport, including, without limitation, costs and expenses relating to any of the following:
-  (a) safety assessments (whether or not undertaken by an employee, agent, or contractor of the Agency):
+(1) Without limiting section 59, regulations may be made under that section prescribing, or providing for the fixing of, fees and charges payable for the purposes of meeting, or assisting in meeting, the costs and expenses incurred by the Agency, the Director, or the Crown in the performance or exercise of functions or powers, or in the performance of duties, or in the provision of services, under this Act or any other enactment relating to rail transport, including, without limitation, costs and expenses relating to any of the following:
+  (a) safety assessments (whether or not undertaken by an employee, agent, or contractor of the Agency or a person authorised by the Director):
   (b) the maintenance of records and registers:
   (c) the issuing of licences.
 (2) Different rates of fees or charges, or both, may be prescribed or fixed in respect of different classes of persons, rail vehicles, railway infrastructure, or railway premises, or on the basis of different times of use, or on any other differential basis.
@@ -819,6 +842,15 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (f) fix, or enable the fixing of, discounts for early payment of any fee, charge, or penalties for late payment:
   (g) prescribe any returns, and the conditions relating to those returns, to be made by persons by whom any fees, charges, or penalties are payable.
 (5) Regulations under this section may fix or provide for the fixing of the costs referred to in section 41, but nothing in this section requires those charges to be fixed by or under regulations made under this section, and, in the absence of those regulations, those costs are payable under that section without further authority.
+
+### 60A Exemptions from requirements in regulations
+(1) The Director may, if the Director thinks it appropriate,—
+  (a) exempt 1 or more named or specified persons, rail vehicles, railway premises, or other things, or any named or specified railway infrastructure, from 1 or more specified requirements in regulations made under section 59; or
+  (b) exempt any class of person, rail vehicle, railway premises, railway infrastructure, or other thing from 1 or more specified requirements in regulations made under section 59.
+(2) This section may be used to allow an exemption from the requirement of a regulation only if the regulations specify under section 59(ha) that this section applies to that requirement.
+(3) This section does not limit or affect any other power of exemption conferred on any person under this Act or any other land transport Act.
+(4) Sections 168D(3) and (5) and 168E, and subpart 2 of Part 3 of Schedule 1, of the Land Transport Act 1998 apply with any necessary modifications to exemptions granted under subsection (1), but, to avoid doubt, the definition of class exemption in section 2(1) of the Land Transport Act 1998 must be read as referring to a class exemption granted under subsection (1)﻿(b) of this section.
+(5) An exemption granted under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 6 — Offences and remedies
 
@@ -866,32 +898,33 @@ If a body corporate is convicted of an offence against this Act, every director 
   (b) he or she failed, so far as was reasonably practicable, to prevent or stop that act or remedy that omission.
 
 ### 67 Power to prohibit or restrict persons from being involved in rail activities
-(1) A District Court Judge may, on the application of the Agency or any other person, make an order prohibiting or restricting a person from acting as a rail participant, director of a rail participant, or rail personnel if that person—
+(1) A District Court Judge may, on the application of the Director or any other person, make an order prohibiting or restricting a person from acting as a rail participant, director of a rail participant, or rail personnel if that person—
   (a) has been convicted of an offence against this Act or the rules or a major transport-related offence, particularly an offence relating to safety; or
   (b) has failed more than once to comply with this Act or the rules or the conditions of a licence.
 (2) An order under this section—
   (a) may be for a specified period of time or without time limit, and may be made on the terms and conditions that the District Court thinks fit; and
-  (b) may be cancelled or varied at any time by the District Court on application by the Agency or the affected party.
+  (b) may be cancelled or varied at any time by the District Court on application by the Director or the affected party.
 (3) In proceedings under this section, the District Court may make an order for the payment by a party to the proceedings of the whole or part of the full costs incurred by any other party to the proceedings (including, without limitation, reasonable costs incurred between solicitor and client, fees, and other expenses), and the costs awarded are recoverable as a debt by the party against whom they have been awarded to the party in whose favour they have been awarded.
 
 ### Subpart 7 — Appeals
 
 ### 68 Appeal to District Court
-(1) A person who is dissatisfied with a decision relating to that person made by the Agency may appeal to the District Court against that decision.
-(2) For the purposes of subsection (1), the exercise of a power conferred on the Agency by a provision of this Act, or a regulation or rule made under this Act, is a decision.
+(1) A person who is dissatisfied with a decision relating to that person made by the Agency or the Director may appeal to the District Court against that decision.
+(2) For the purposes of subsection (1), the exercise of a power conferred on the Agency or the Director by a provision of this Act, or a regulation or rule made under this Act, is a decision.
+(3) This section does not apply to any decision made in relation to a class exemption under section 60A, including a decision to grant (or not to grant), to amend, or to revoke a class exemption.
 
 ### 69 Procedure
 (1) An appeal under section 68 must be brought, by way of an originating application, no later than 28 days after the date on which the appellant was notified under this Act of the decision appealed against, or within any further period that the District Court may allow.
 (2) When considering an appeal under section 68,—
   (a) the District Court may hear all evidence tendered and representations made by, or on behalf of, any party to the appeal that the court considers relevant to the appeal, whether or not that evidence would be otherwise admissible in the court; and
   (b) the court may—
-    (i) confirm, reverse, or modify the decision appealed against, make the orders, and give the directions to the Agency that may be necessary to give effect to the court's decision; or
-    (ii) refer the matter back to the Agency with directions to reconsider the whole or any part of the matter; and
+    (i) confirm, reverse, or modify the decision appealed against, make the orders, and give the directions to the Agency or the Director (as the case may be) that may be necessary to give effect to the court's decision; or
+    (ii) refer the matter back to the Agency or the Director (as the case may be) with directions to reconsider the whole or any part of the matter; and
   (c) subject to this section, an appeal must be made and determined in accordance with the District Court Act 2016 and the rules of the District Court made under that Act.
 (3) Subject to sections 71 and 72, the decision of the District Court on an appeal under section 68 is final.
 
-### 70 Decision of Agency to continue in force pending appeal, etc
-A decision of the Agency appealed against under section 68 or section 71 or section 72 continues in force pending the determination of the appeal, and no person is excused from complying with a provision of this Act on the grounds that an appeal is pending.
+### 70 Decision of Agency or Director to continue in force pending appeal, etc
+A decision of the Agency or the Director appealed against under section 68 or section 71 or section 72 continues in force pending the determination of the appeal, and no person is excused from complying with a provision of this Act on the grounds that an appeal is pending.
 
 ### 71 Appeal to High Court on question of law
 (1) A party to an appeal under section 68 who is dissatisfied with the decision of the District Court on the grounds that it is erroneous in law may appeal to the High Court on that question of law.
@@ -1147,17 +1180,17 @@ Except to the extent that a deed or agreement provides otherwise, no person has 
 (3) To avoid doubt, a notice may be in electronic form.
 
 ### 95 Who may file charging document for offence
-A charging document for an offence against this Act may be filed only by the Agency or an enforcement officer.
+A charging document for an offence against this Act may be filed only by the Director or an enforcement officer.
 
 ### 96 Evidence and proof
 In any proceedings for an offence against this Act,—
-  (a) any licence or other rail document issued under this Act or rules may be proved by the production of a copy of the licence or rail document certified to be correct and signed by an officer of the Agency authorised in that capacity by the Agency:
-  (b) evidence of the contents of the register maintained under section 20 may be given by a certificate signed by an officer of the Agency authorised in that capacity by the Agency, and every certificate is sufficient evidence of the matters stated in it unless the contrary is proved:
-  (c) the production of a certificate signed by an officer of the Agency authorised in that capacity by the Agency to the effect that on a specified date a person was or was not the holder of a licence or other rail document is sufficient evidence of the matter certified unless the contrary is proved:
-  (d) until the contrary is proved, it is presumed that a document purporting to have been certified or a certificate purporting to have been given under this section has been certified or given by an officer of the Agency authorised in that capacity by the Agency to certify documents or give certificates under this section.
+  (a) any licence or other rail document issued under this Act or rules may be proved by the production of a copy of the licence or rail document certified to be correct and signed by a person authorised in that capacity by the Agency or the Director:
+  (b) evidence of the contents of the register maintained under section 20 may be given by a certificate signed by a person authorised in that capacity by the Agency or the Director, and every certificate is sufficient evidence of the matters stated in it unless the contrary is proved:
+  (c) the production of a certificate signed by a person authorised in that capacity by the Agency or the Director to the effect that on a specified date a person was or was not the holder of a licence or other rail document is sufficient evidence of the matter certified unless the contrary is proved:
+  (d) until the contrary is proved, it is presumed that a document purporting to have been certified or a certificate purporting to have been given under this section has been certified or given by a person authorised in that capacity by the Agency or the Director to certify documents or give certificates under this section.
 
 ### 97 Application of fees
-All fees and other money (not being fines, infringement fees, or other penalties) received or recovered for the purposes of this Act must be paid or credited to the Authority.
+All fees and other money (not being fines, infringement fees, or other penalties) received or recovered for the purposes of this Act must be paid or credited to the Agency.
 
 **Infringement offences**
 
@@ -1200,7 +1233,7 @@ All fees and other money (not being fines, infringement fees, or other penalties
 (5) For the purposes of subsection (4), the Minister of Finance may approve the retention of different portions of different infringement fees.
 
 ### 102 Appointment of enforcement officers
-For the purposes of sections 98 to 101, the Agency may, by warrant, appoint an employee of the Agency to be an enforcement officer.
+For the purposes of sections 98 to 101, the Director may, by warrant, appoint an employee of the Agency to be an enforcement officer.
 
 **Repeals and transitional provisions**
 
@@ -1289,6 +1322,37 @@ A proceeding commenced under a provision of the Transport Services Licensing Act
     (ii) a rail service vehicle or rail service vehicles must be read as if it were a reference to a rail vehicle or rail vehicles, as the case may be.
 (2) Regulation 9(l) of the Transport Services Licensing Regulations 1989 has effect as if it were a regulation made under section 59 exempting the rail participant referred to in that regulation from complying with Parts 1 and 2.
 (3) This section expires on a date specified by Order in Council.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Land Transport (NZTA) Legislation Amendment Act 2020
+
+### 1 Interpretation
+In this Part,—
+  - **amendment Act** means the Land Transport (NZTA) Legislation Amendment Act 2020
+  - **Director function** means any function, duty, or power of the Agency under this Act (or any secondary legislation made under this Act) that becomes a function, duty, or power of the Director—
+    (a) on and from the transfer date; and
+    (b) by operation of the amendment Act
+  - **secondary legislation** means regulations within the meaning of section 29 of the Interpretation Act 1999
+  - **transfer date** means the date determined under section 2(2) of the amendment Act.
+
+### 2 Matters, documents, decisions, etc, not affected by transfer of Director functions
+(1) If the Agency commences a matter or process relating to a Director function, but does not complete it before the transfer date, the Director must complete the matter or process after the transfer date in place of the Agency.
+(2) Any land transport document, notice, or similar document given by the Agency is deemed to be a document given by the Director if—
+  (a) it relates to a Director function; and
+  (b) it is in force immediately before the transfer date.
+(3) The transfer of a Director function to the Director does not, of itself, affect—
+  (a) any decision made, or anything done or omitted to be done, by the Agency in relation to the Director function before the transfer date; or
+  (b) any other matter or thing arising out of the Agency performing the Director function before the transfer date.
+
+### 3 Personal information
+If the Agency collected personal information when performing a Director function before the transfer date, the Director’s use of the information on and from the transfer date is not an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
+
+### 4 References to Agency in documents
+On and from the transfer date, a reference to the Agency in a land transport document, rail document, notice, or similar document written or prepared by or on behalf of the Agency must be read as a reference to the Director if—
+  (a) the reference relates to a Director function; and
+  (b) the document was written or prepared before the transfer date; and
+  (c) such a reading is consistent with this Act.
 
 ## Schedule 1 — Acts consequentially amended
 
