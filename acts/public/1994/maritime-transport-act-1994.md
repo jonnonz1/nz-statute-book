@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-04-01_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -60,6 +60,13 @@ _Consolidation as at 2020-12-01_
   - **internal waters of New Zealand** means the internal waters of New Zealand as defined by section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
   - **load lines** means the marks indicating several maximum depths to which a ship is permitted to be loaded in various circumstances prescribed by maritime rules or regulations made under this Act
   - **marine protection rules** means marine protection rules made by the Minister under Part 27; and includes emergency marine protection rules made by the Director under section 391
+  - **maritime Act** means—
+    (a) the Maritime Security Act 2004; and
+    (b) the Maritime Transport Act 1994 (this Act); and
+    (c) the Port Companies Act 1988; and
+    (d) the Shipping Act 1987; and
+    (e) the Ship Registration Act 1992; and
+    (f) the Submarine Cables and Pipelines Protection Act 1996
   - **maritime document** —
     (a) means any licence, permit, certificate or other document issued under Part 5 to or in respect of any person, ship, cargo, maritime procedure, or maritime product; and
     (b) includes any foreign licence, permit, certificate, or other document recognised by the Director under section 41 or accepted by the Director under section 42
@@ -160,6 +167,7 @@ _Consolidation as at 2020-12-01_
   - **system** , in relation to a ship, means any system incorporated in the ship which contributes to the safe navigation and working of the ship during normal operation or is required in the event of any emergency
   - **territorial sea of New Zealand** or means the territorial sea of New Zealand as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
   - **tonnage measurement** means measurement of a ship in accordance with the requirements of maritime rules
+  - **transport instrument** means an instrument made under section 452B
   - **unit of account** means 1 special drawing right as defined by the International Monetary Fund, the calculation of which, in New Zealand currency, is in accordance with section 88
   - **voyage** means a journey by water from one port—
     (a) to another port; or
@@ -439,9 +447,10 @@ In this Part, unless the context otherwise requires,—
     (d) a local authority:
     (e) an iwi authority
   - **region** has the meaning given to it in section 5(1) of the Local Government Act 2002
-  - **regional council** —
-    (a) means a regional council within the meaning of section 5(1) of the Local Government Act 2002; and
-    (b) includes any unitary authority within the meaning of section 5(1) of that Act
+  - **regional council** means—
+    (a) a regional council within the meaning of section 5(1) of the Local Government Act 2002; and
+    (b) a unitary authority within the meaning of section 5(1) of that Act; and
+    (c) the Chatham Islands Council
   - **territorial authority** has the meaning given to it in section 5(1) of the Local Government Act 2002
   - **wreck** includes—
     (a) a ship or an aircraft that is abandoned, stranded, or in distress, or any equipment, cargo, or other articles belonging to or separated from such a ship or aircraft:
@@ -895,6 +904,43 @@ Port operators must not operate, maintain, or service a port, or cause or permit
 
 ### 40 Further provisions relating to rules
 The provisions of sections 446 to 452 apply in relation to rules made under this Part.
+
+**Granting of exemptions from maritime rules**
+
+### 40AA Director may grant exemptions from maritime rules
+(1) The Director may, if the Director thinks it appropriate,—
+  (a) exempt 1 or more named or specified persons, ships, maritime products, or other things from 1 or more specified requirements in a maritime rule; or
+  (b) exempt any class of person, ship, maritime product, or other thing from 1 or more specified requirements in a maritime rule.
+(2) The Director must not grant an exemption unless satisfied that—
+  (a) granting the exemption will not breach New Zealand’s obligations under any convention; and
+  (b) one of the following applies:
+    (i) the requirement has been substantially complied with and further compliance is unnecessary:
+    (ii) the manner in which the requirement has been, or is sought to be, fulfilled is as effective as or more effective than actual compliance with the requirement:
+    (iii) the requirement is clearly unreasonable or inappropriate in this particular case:
+    (iv) events have occurred that make the requirement unnecessary or inappropriate in this particular case; and
+  (c) the risk of harm to the marine environment will not be significantly increased by granting the exemption; and
+  (d) the risk to safety will not be significantly increased by granting the exemption.
+(3) The power under subsection (1) must not be used to provide an exemption from a requirement of a rule if the relevant rule specifically provides that no exemptions from the requirement may be granted.
+(4) This section does not limit or affect any other power of exemption conferred on any person under this Act or any other maritime Act.
+(5) The Director must notify the number and nature of exemptions granted under subsection (1)﻿(a) in the Gazette at intervals not longer than 3 months.
+(6) A class exemption is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7) The Director’s reasons for granting a class exemption must be published with the exemption.
+(8) In this section and section 40AB, class exemption means an exemption granted under subsection (1)﻿(b).
+
+### 40AB General provisions relating to exemptions
+(1) This section applies to exemptions under section 40AA.
+(2) The Director may—
+  (a) grant an exemption on any terms and conditions that the Director thinks fit:
+  (b) amend or revoke an exemption:
+  (c) grant an exemption for an indefinite or limited period:
+  (d) replace an exemption either before or when it expires.
+(3) An exemption takes effect from the date specified in the exemption (which, for a class exemption, must not be a date earlier than the date on which the exemption is published under the Legislation Act 2019).
+(4) An exemption granted for a limited period expires (unless it is sooner replaced or revoked) on the date specified in the exemption.
+(5) If the term of an exemption is not specified in the exemption, it has effect for an indefinite period (or until it is replaced or revoked).
+(6) The breach of a term or condition of an exemption is a breach of the relevant provision in the rule to which the exemption relates (unless the terms of the exemption provide otherwise).
+
+### 40AC Appeal against decision on exemption under section 40AA(1)﻿(a)
+A person in respect of whom any decision is taken to grant (or not to grant), to amend, or to revoke an exemption under section 40AA(1)﻿(a) may appeal against that decision to the District Court under section 424.
 
 ## Part 4A — Regulation of alcohol consumption by seafarers
 
@@ -1374,18 +1420,7 @@ Test results obtained from Director testing are not admissible in any criminal p
 (6) Any person in respect of whom any decision is taken under this section may appeal against that decision to the District Court under section 424.
 
 ### 47 Exemption
-(1) The Director may, if he or she considers it appropriate and upon such conditions as he or she considers appropriate, exempt any person, ship, or maritime product from any specified requirement in any maritime rule.
-(2) The Director shall not grant an exemption under subsection (1) unless he or she is satisfied in the circumstances of each case that—
-  (a) the granting of the exemption will not breach New Zealand’s obligations under any convention; and
-  (b) either—
-    (i) the requirement has been substantially complied with and that further compliance is unnecessary; or
-    (ii) the action taken or provision made in respect of the matter to which the requirement relates is as effective or more effective than actual compliance with the requirement; or
-    (iii) the prescribed requirements are clearly unreasonable or inappropriate in the particular case; or
-    (iv) events have occurred that make the prescribed requirements unnecessary or inappropriate in the particular case; and
-  (ba) the risk of harm to the marine environment will not be significantly increased by the granting of the exemption; and
-  (c) the risk to safety will not be significantly increased by the granting of the exemption.
-(3) The number and nature of any exemptions granted under subsection (1) shall be notified as soon as practicable in the Gazette.
-(4) Nothing in this section shall apply in any case where any maritime rule specifically provides that no exemptions are to be granted.
+[Repealed]
 
 ### 48 Powers of Director in relation to examinations, etc
 For the purposes of granting or renewing maritime documents in respect of personnel under this Act, the Director may set, conduct, and administer examinations and tests, and carry out such other functions in relation to such examinations and tests as may be necessary.
@@ -1695,7 +1730,7 @@ Without limiting the powers conferred by section 58, for the purpose of exercisi
   (c) in either case, to an additional penalty under section 409.
 
 ### 67B Other offences
-(1) Subject to an exemption given under section 47, every person commits an offence who—
+(1) Subject to an exemption given under section 40AA, every person commits an offence who—
   (a) operates a ship without the prescribed number of seafarers or qualified personnel:
   (b) operates a ship outside its prescribed operating limits:
   (c) knowingly breaches any requirement specified in this Act or in regulations or rules made under this Act for the carriage of dangerous goods.
@@ -2352,7 +2387,8 @@ Every person on whom any duty is imposed by this Act—the means required by the
     (ii) distress and safety radio services:
     (iii) marine safety information:
     (iv) other services related to the safety of shipping:
-  (b) any services provided, or any regulatory services or activities undertaken, by the Authority, the Director, or the Crown in the performance or exercise of functions, duties, or powers under this Act.
+  (b) any services provided, or any regulatory services or activities undertaken, by the Authority, the Director, or the Crown in the performance or exercise of functions, duties, or powers under this Act:
+  (c) the facilitation of, or support for, seafarer welfare services.
 (3) Any such regulations may—whether or not persons levied use, or the ship in respect of which the levy arises uses, any such services.
   (a) specify the persons by whom the levies are payable including (without limitation) all or any of the master, owner, charterer, person responsible for the management of the ship, or any agent of any of those persons who by law or by contract is liable to pay any other charge on account of the ship:
   (b) prescribe different levies for different classes of ship based on length, tonnage, equipment available for use on board the ship, or such other criteria as may be specified in the regulations:
@@ -2532,8 +2568,8 @@ Every person who receives any maritime levy shall, on demand, issue to the perso
   (a) prescribing those breaches of maritime rules, or breaches of navigation bylaws, that constitute offences against this Act:
   (b) prescribing those breaches of maritime rules, or breaches of navigation bylaws, that constitute infringement offences against this Act:
   (c) prescribing the penalty for each offence prescribed under paragraph (a) which,—
-    (i) in the case of an individual, shall be a fine not exceeding $5,000:
-    (ii) in the case of a body corporate, shall be a fine not exceeding $30,000:
+    (i) in the case of an individual, shall be a fine not exceeding $10,000:
+    (ii) in the case of a body corporate, shall be a fine not exceeding $50,000:
   (d) prescribing the infringement fee for each offence prescribed under paragraph (b) and for infringement offences against section 200B, which,—
     (i) in the case of an individual, must not exceed $2,000:
     (ii) in the case of a body corporate, must not exceed $12,000:
@@ -2563,10 +2599,7 @@ Section 204 shall expire—
   (b) on such earlier date as may be appointed by the Governor-General by Order in Council.
 
 ### 206 Dispensing powers of Director
-The Director may, if he or she thinks fit, and subject to such conditions as he or she thinks fit to impose, exempt any ship or class of ship from any specified requirement contained in Part 10 or Part 11 or Part 12 or in any regulation, order, or notice continued in force by section 204, or dispense with the observance of any such requirement in the case of any ship or class of ship, if he or she is satisfied that—
-  (a) the requirement has been substantially complied with in the case of that ship or ships of that class; or
-  (b) compliance with the requirement is unnecessary in the circumstances of the case; or
-  (c) the action taken or provision made in relation to the subject matter of the requirement in the case of the ship or ships of that class is as effective as or more effective than actual compliance with the requirement.
+[Repealed]
 
 ### 207 Abolition of Marine Council and Marine Advisory Committee, etc
 (1) The following bodies are hereby abolished:
@@ -4487,35 +4520,42 @@ The provisions of sections 446 to 452 apply in relation to marine protection rul
   (d) prescribing those breaches of marine protection rules that constitute offences against this Act:
   (e) prescribing those breaches of marine protection rules that constitute infringement offences against this Act:
   (f) prescribing the penalty for each offence prescribed under paragraph (d) which,—
-    (i) in the case of an individual, shall be a fine not exceeding $5,000; or
-    (ii) in the case of any other person, shall be a fine not exceeding $30,000:
+    (i) in the case of an individual, shall be a fine not exceeding $10,000; or
+    (ii) in the case of any other person, shall be a fine not exceeding $50,000:
   (g) prescribing the infringement fee for each offence prescribed under paragraph (e) which,—
     (i) in the case of an individual, shall be a fine not exceeding $2,000; or
     (ii) in the case of any other person, shall be a fine not exceeding $12,000:
   (h) prescribing offences for breaches of any regulations made under this section and, except where some other penalty is prescribed by this Act, prescribing the penalty for each such offence which,—
-    (i) in the case of an individual, shall be a fine not exceeding $5,000; or
-    (ii) in the case of any other person, shall be a fine not exceeding $30,000:
+    (i) in the case of an individual, shall be a fine not exceeding $10,000; or
+    (ii) in the case of any other person, shall be a fine not exceeding $50,000:
   (i) such other matters as are contemplated by or necessary for giving full effect to the provisions of Parts 18 to 27 and for their due administration.
 (2) Regulations made under subsection (1) may, in addition to any other penalty imposed under this section, where the offence is a continuing one, impose further fines not exceeding $1,000 for each day or part of a day on which the offence is continued.
 (3) Any regulations made under this Act may be so made that different regulations shall apply with respect to different classes of persons, ships, offshore installations, pipelines, marine protection products, or other property or with respect to the same class of person, ship, offshore installation, pipeline, marine protection product, or other property in different circumstances.
 
 **General powers of Director in relation to protection of marine environment**
 
-### 395 Exemptions
-(1) The Director may, if he or she considers it appropriate, and upon such conditions as he or she considers appropriate, exempt any person, ship, marine protection product, offshore installation, pipeline, reception facility, or any real or personal property, from any specified requirement in any marine protection rule.
-(2) The Director shall not grant an exemption under subsection (1) unless he or she is satisfied in the circumstances of each case that—
-  (a) the granting of the exemption will not breach New Zealand’s obligations under any convention; and
-  (b) either—
-    (i) the requirement has been substantially complied with and that further compliance is unnecessary; or
-    (ii) the action taken or provision made in respect of the matter to which the requirement relates is as effective or more effective than actual compliance with the requirement; or
-    (iii) the prescribed requirements are clearly unreasonable or inappropriate in the particular case; or
-    (iv) events have occurred that make the prescribed requirements unnecessary or inappropriate in the particular case; and
-  (ba) the risk to safety will not be significantly increased by the granting of the exemption; and
-  (c) the granting of the exemption will not significantly increase the risk of harm,—
+### 395 Director may grant exemptions from marine protection rules
+(1) The Director may, if the Director thinks it appropriate,—
+  (a) exempt 1 or more named or specified persons, ships, marine protection products, offshore installations, pipelines, reception facilities, items of real or personal property, or other things from 1 or more specified requirements in a marine protection rule; or
+  (b) exempt any class of person, ship, marine protection product, offshore installation, pipeline, reception facility, real or personal property, or other thing from 1 or more specified requirements in a marine protection rule.
+(2) The Director must not grant an exemption unless satisfied that—
+  (a) granting the exemption will not breach New Zealand’s obligations under any convention; and
+  (b) one of the following applies:
+    (i) the requirement has been substantially complied with and further compliance is unnecessary:
+    (ii) the manner in which the requirement has been, or is sought to be, fulfilled is as effective as or more effective than actual compliance with the requirement:
+    (iii) the requirement is clearly unreasonable or inappropriate in this particular case:
+    (iv) events have occurred that make the requirement unnecessary or inappropriate in this particular case; and
+  (c) the risk to safety will not be significantly increased by granting the exemption; and
+  (d) the granting of the exemption will not significantly increase the risk of harm,—
     (i) for a marine protection rule on ballast water, to the environment, human health, property, or resources; or
     (ii) for any other marine protection rule, to the marine environment.
-(3) The number and nature of exemptions granted under subsection (1) shall be notified as soon as practicable in the Gazette.
-(4) Nothing in this section shall apply in any case where any marine protection rule specifically provides that no exemptions are to be granted.
+(3) The power under subsection (1) must not be used to provide an exemption from a requirement of a rule if the relevant rule specifically provides that no exemptions from the requirement may be granted.
+(4) This section does not limit or affect any other power of exemption conferred on any person under this Act or any other maritime Act.
+(5) Sections 40AA(5), (7), and (8) and 40AB apply with any necessary modifications to exemptions granted under subsection (1), but, to avoid doubt, the definition of class exemption in section 40AA(8) must be read as referring to a class exemption granted under subsection (1)﻿(b).
+(6) An exemption granted under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 395A Appeal against decision on exemption under section 395(1)﻿(a)
+A person in respect of whom any decision is taken to grant (or not to grant), to amend, or to revoke an exemption under section 395(1)﻿(a) may appeal against that decision to the District Court under section 424.
 
 ### 396 Inspections and audits
 (1) The Director may from time to time, in writing, require any person who—to undergo, or carry out, such inspections or audits, or both, as the Director considers necessary in the interests of protecting the marine environment from harm or protecting the environment, human health, property, or resources from harm from ballast water.
@@ -4792,7 +4832,7 @@ Notwithstanding any other enactment, where a person is convicted of an offence a
 (11) The provisions of Schedule 1 shall apply in relation to the Authority.
 
 ### 429A Membership of Authority
-(1) The Authority must have 5 members appointed under section 28(1)﻿(a) of the Crown Entities Act 2004.
+(1) The Authority must have at least 5, but no more than 7, members appointed under section 28(1)﻿(a) of the Crown Entities Act 2004.
 (2) Members of the Authority are the board for the purposes of the Crown Entities Act 2004.
 (3) The Minister may only appoint as members persons who—
   (a) are New Zealand citizens or permanent residents of New Zealand; and
@@ -4923,7 +4963,8 @@ Subject to this Act, the Authority shall, in the course of performing its functi
 (3) No delegation under this section shall include the power to delegate under this section.
 (4) Notwithstanding subsection (1), the Director shall not delegate—
   (a)
-  (b) the power under section 44 or section 273 to revoke a maritime document or a marine protection document.
+  (b) the power under section 44 or section 273 to revoke a maritime document or a marine protection document:
+  (c) the power under section 452B to make, amend, or revoke a transport instrument (as prohibited by subsection (2) of that section).
 (5) The provisions of sections 73(4) and 74 to 76 of the Crown Entities Act 2004 apply as if references to the board were references to the Director, with all necessary modifications.
 (6) Any delegation under this section may be made to a specified employee of the Authority or to employees of a specified class, or to the holder or holders for the time being of a specified office or specified class of offices of the Authority.
 (7) Every delegation under this section, until it is revoked, continues in force according to its tenor, despite the fact that the employee of the Authority by whom it was made may cease to hold office, and continues in effect as if made by the employee for the time being holding that office.
@@ -4935,7 +4976,8 @@ Subject to this Act, the Authority shall, in the course of performing its functi
   (b) the power under section 46 or section 274 to suspend or revoke maritime documents or marine protection documents; or
   (c) the power under section 52 to suspend seafarers; or
   (d) the power under section 55 or section 197 or section 397 to detain ships or maritime products or marine protection products; or
-  (e) the power under section 423 to issue infringement notices.
+  (e) the power under section 423 to issue infringement notices; or
+  (f) the power under section 452B to make, amend, or revoke a transport instrument (as prohibited by subsection (2) of that section).
 (3) Every delegation under this section shall be in writing.
 (4) No delegation shall be made under this section without the written consent of the Minister.
 (5) In any case where the Director has delegated any functions or powers to any person under this section, that person may, with the prior approval in writing of the Minister, delegate to any other person such of those functions or powers as are so approved.
@@ -5020,7 +5062,7 @@ Before making any emergency rule under section 37 or section 391, the Director s
 (3) The commencement of any rule may be wholly suspended until it is applied by the Minister by notice in the Gazette.
 (4) A rule made under this Act may—
   (a) require or provide for a matter to be determined, undertaken, or approved by the Authority, the Director, or any other person; and
-  (b) empower the Agency, the Director, or any other person to impose requirements or conditions as to the performance of an activity or activities.
+  (b) empower the Authority, the Director, or any other person to impose requirements or conditions as to the performance of an activity or activities.
 (5) No breach of any rule made under this Act shall constitute an offence against this Act unless that offence is prescribed in regulations made under this Act or is expressly specified by this Act to be an offence against this Act.
 (5A)
 (6) A rule made under this Act (except for a rule made by an Order in Council under section 36A(1) or 390A(1))—
@@ -5057,6 +5099,46 @@ Before making any emergency rule under section 37 or section 391, the Director s
 (7) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in a rule or to an amendment to, or a replacement of, that material.
 (8) Nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in a rule to be presented to the House of Representatives.
 (9) Subsections (1) to (8) do not affect the application of sections 29 to 32 of the Standards and Accreditation Act 2015.
+
+**Transport instruments**
+
+### 452A Regulations or rules may provide for transport instruments
+(1) A regulation or rule made under a maritime Act may provide for any matter that could be included in that regulation or rule to be dealt with in a transport instrument.
+(2) A regulation or rule providing under subsection (1) for a matter to be dealt with in a transport instrument may be made only if,—
+  (a) in the case of a regulation or rule to be made by the Governor-General, the Minister recommends it after being satisfied that the subject matter is appropriate to be in a transport instrument rather than in the regulation or rule itself; or
+  (b) in the case of a rule to be made by the Minister, the Minister is satisfied that the subject matter is appropriate to be in a transport instrument rather than in the rule itself; or
+  (c) in the case of a rule to be made by the Director, the Director is satisfied that the subject matter is appropriate to be in a transport instrument rather than in the rule itself.
+(3) A regulation or rule that provides for a transport instrument must specify which of the persons listed in section 452B(3) may make the instrument.
+(4) A regulation or rule that provides for a transport instrument may—
+  (a) provide for a particular transport instrument as amended or replaced from time to time:
+  (b) provide for any transport instrument that may be made for the purposes of that regulation or rule (even if the instrument has not been made at the time the regulation or rule is made):
+  (c) provide for any requirements in relation to the instrument or its creation.
+(5) A transport instrument provided for in a regulation or rule is part of that regulation or rule.
+(6) To avoid doubt,—
+  (a) a transport instrument has effect only to the extent that a regulation or rule made under a maritime Act refers to it; and
+  (b) a breach of a transport instrument is a breach of the regulation or rule that provides for the instrument.
+(7) If a regulation or rule provides for a transport instrument,—
+  (a) a transport instrument made under the regulation or rule is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulation or rule must contain a statement to that effect.
+
+### 452B Specified person may make transport instruments
+(1) For the purposes of a maritime Act, a specified person may make a transport instrument.
+(2) A specified person must not delegate the power to make, amend, or revoke a transport instrument.
+(3) In this section and section 452C, specified person means 1 or more of the following:
+  (a) the Authority:
+  (b) the Director:
+  (c) the Secretary:
+  (d) the Crown entity appointed as the Designated Authority under section 7 of the Maritime Security Act 2004.
+
+### 452C Procedures relating to transport instruments
+(1) The specified person must not make, amend, or revoke a transport instrument unless satisfied that all persons and organisations that the specified person thinks appropriate have been consulted, having regard to the subject matter of the proposed instrument, amendment, or revocation.
+(2) The specified person may approve an amendment to a transport instrument without complying with subsection (1) if satisfied that the amendment is to correct an error, for example, a grammatical or spelling error, or an error in numbering or cross-referencing.
+
+### 452D Incorporation of material in transport instruments
+(1) Section 452 (which provides for the incorporation of material by reference) applies to transport instruments as if—
+  (a) transport instruments were rules; and
+  (b) references in that section to the person making the rule were references to the person making the transport instrument.
+(2) To avoid doubt, any material incorporated by reference in a transport instrument is to be treated for all purposes as part of the regulation or rule that provides for the instrument.
 
 **Powers of entry**
 
@@ -5337,6 +5419,48 @@ Section 385J (as in force immediately before its replacement by the Maritime Tra
 ### 5 Rules may provide for early expiry of certificates of insurance
 (1) For the purpose of implementing the Maritime Transport (Offshore Installations) Amendment Act 2019 (the amendment Act), transitional provisions in rules made under section 387(4) or (4A)﻿(a) may have the effect that any certificate of insurance in force under section 385H (even if issued before the commencement date of the amendment Act or the relevant rule) will expire on a date earlier than the expiry date specified for the certificate by the Director when it was issued.
 (2) Nothing in subclause (1) limits the ability of rules made under this Act to provide for transitional matters.
+
+### Part 3 — Provisions relating to Regulatory Systems (Transport) Amendment Act 2021
+
+#### Subpart 1 — Pre-existing exemptions
+
+### 6 Interpretation
+In this subpart, amendment Act means the Regulatory Systems (Transport) Amendment Act 2021.
+
+### 7 Pre-existing exemptions from regulations made under sections 47 and 395
+(1) Any exemption granted under section 47 before section 34 of the amendment Act comes into force continues to have effect as if that section had not come into force.
+(2) Any exemption granted under section 395 before section 40 of the amendment Act comes into force continues to have effect as if that section had not come into force.
+
+#### Subpart 2 — Provisions relating to Legislation Act 2019
+
+### 8 Application of subpart
+This subpart applies until the main commencement date (as defined in clause 2 of Schedule 1 of the Legislation Act 2019).
+
+### 9 Bylaws for Crown harbours and facilities
+If a responsible Minister makes bylaws under section 33W, the bylaws must be—
+  (a) notified in the Gazette; and
+  (b) published on an Internet site maintained by or on behalf of,—
+    (i) if they are made by the Minister of Conservation, the Department of Conservation; or
+    (ii) if they are made by the Minister of Defence, the New Zealand Defence Force; or
+    (iii) if they are made by the Minister of Local Government, the Department of Internal Affairs.
+
+### 10 Exemptions granted under section 40AA or 395
+Class exemptions
+(1) An exemption granted under section 40AA(1)﻿(b) or 395(1)﻿(b) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2) As soon as practicable after granting a class exemption, the Director must—
+  (a) notify the exemption in the Gazette (and include the text of the exemption); and
+  (b) publish the exemption on the Authority’s Internet site.
+(3) The reference in section 40AB(3) to the date on which the exemption is published under the Legislation Act 2019 is to be read as a reference to the date on which the exemption is notified under subclause (2)﻿(a).
+Other exemptions
+(4) An exemption granted under section 40AA(1)﻿(a) or 395(1)﻿(a) is not a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+
+### 11 Transport instruments
+(1) A transport instrument is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2) A specified person who makes, amends, or revokes a transport instrument must, as soon as practicable after doing so,—
+  (a) notify the instrument, amendment, or revocation in the Gazette (but need not incorporate the text of the instrument, amendment, or revocation); and
+  (b) ensure that a copy of the instrument, amendment, or revocation is—
+    (i) published on the Authority’s Internet site; and
+    (ii) available for purchase in hard copy at a reasonable charge.
 
 ## Schedule 1 — Provisions relating to Maritime New Zealand
 
