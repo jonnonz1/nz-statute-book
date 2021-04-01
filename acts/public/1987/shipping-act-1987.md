@@ -1,5 +1,5 @@
 # Shipping Act 1987
-_Consolidation as at 2019-08-14_
+_Consolidation as at 2021-04-01_
 
 > An Act to promote fair dealing and safeguard competition in New Zealand's outwards shipping services, and to discourage discrimination against New Zealand shipping and trading interests by foreign governments
 
@@ -19,6 +19,11 @@ In this Act, unless the context otherwise requires,—
   - **outwards shipping** means the carriage of goods wholly or partly by sea from a place in New Zealand to a place outside New Zealand
   - **registered New Zealand ship** means a ship that is registered in New Zealand under the Ship Registration Act 1992
   - **shipper** means a person who is both the consignor and owner of goods by whom or in whose name goods are consigned or to be consigned wholly or partly by sea from a place in New Zealand to a place outside New Zealand; and includes any class, group, or association of shippers.
+
+### 2A Act is maritime Act
+(1) This Act is a maritime Act under section 2(1) of the Maritime Transport Act 1994.
+(2) This has the effect that transport instruments may be made for the purposes of this Act under section 452B of that Act.
+(3) This section is intended as a guide only and is not an exhaustive statement as to the effects of this Act being a maritime Act under that Act.
 
 ## Part 1 — Shipping policy and practices
 
