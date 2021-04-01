@@ -1,5 +1,5 @@
 # Government Roading Powers Act 1989
-_Consolidation as at 2021-02-06_
+_Consolidation as at 2021-04-01_
 
 > Title
 
@@ -45,6 +45,14 @@ _Consolidation as at 2021-02-06_
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
+
+### 3A Act is land transport Act
+(1) This Act is a land transport Act under section 2(1) of the Land Transport Act 1998.
+(2) This has the effect that—
+  (a) transport instruments may be made for the purposes of this Act under section 168G of that Act; and
+  (b) enforceable undertakings may be given for the purposes of this Act in accordance with section 112A of that Act; and
+  (c) a land transport record may be required to be created for the purposes of this Act in accordance with section 200B of that Act.
+(3) This section is intended as a guide only and is not an exhaustive statement as to the effects of this Act being a land transport Act under that Act.
 
 ## Part 1A — Transfund New Zealand
 
