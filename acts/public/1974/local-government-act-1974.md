@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2021-02-06_
+_Consolidation as at 2021-04-01_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -2782,8 +2782,8 @@ Where a building-line restriction has been imposed under this Act or any former 
 
 ### 331 Footpaths and channels
 (1) The council may, in such manner as it thinks fit, form or upgrade footpaths on one side or both sides of any road, and may construct those footpaths of such dimensions and of such materials and in such manner as it thinks fit, and may impose a charge not exceeding half the cost of those works upon the owners of lands and buildings fronting the road. The amount so imposed shall be payable to the council and until paid shall be in every case a charge on the land.
-(2) In forming or reforming any road or part thereof (not being a road in a rural area), the council shall ensure that reasonable and adequate provision is made for the kerb and channel of any footpath or part thereof to be formed or reformed so as to permit safe and easy passage from kerb to kerb of any mechanical conveyance normally and lawfully used by a disabled person:
-  provided that the New Zealand Transport Agency may at any time exempt in whole or in part the forming or reforming of any road or part thereof from any requirements of this subsection, if, having regard to all the circumstances, the New Zealand Transport Agency considers that it is reasonable to grant the exemption.
+(2) In forming or reforming any road or part thereof (not being a road in a rural area), the council shall ensure that reasonable and adequate provision is made for the kerb and channel of any footpath or part thereof to be formed or reformed so as to permit safe and easy passage from kerb to kerb of any mechanical conveyance normally and lawfully used by a disabled person.
+(3) However, the Director of Land Transport (appointed under section 104A of the Land Transport Management Act 2003) may exempt or partially exempt any road or part of a road from the requirement in subsection (2) if the Director considers it is reasonable to do so in the circumstances.
 
 ### 332 Cycle tracks
 (1) The council may on any road, or on any land vested in or under the control of the council, form a public cycle track, and may make bylaws under section 684 regulating and controlling the use of that cycle track.
