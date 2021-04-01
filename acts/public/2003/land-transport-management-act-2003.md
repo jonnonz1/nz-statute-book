@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-04-01_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -60,6 +60,7 @@ In order to recognise and respect the Crown’s responsibility to take appropria
   - **council-controlled organisation** has the same meaning as in section 6 of the Local Government Act 2002
   - **council-controlled trading organisation** has the same meaning as in section 6 of the Local Government Act 2002
   - **Crown Bank Account** has the same meaning as in the Public Finance Act 1989
+  - **Director** means the Director of Land Transport appointed under section 104A
   - **district** means—
     (a) the district of a territorial authority:
     (b) in relation to land in respect of which a Minister of the Crown is the council, that land
@@ -88,6 +89,9 @@ In order to recognise and respect the Crown’s responsibility to take appropria
       (ii) the infrastructure, goods, and services (including education and enforcement), the primary purpose of which is to improve public safety in relation to the kinds of transport described in paragraph (a)﻿(i)
   - **land transport Act** has the meaning given in section 2(1) of the Land Transport Act 1998
   - **land transport disbursement account** means an account kept under section 24
+  - **land transport document** means—
+    (a) a land transport document within the meaning of section 2(1) of the Land Transport Act 1998; and
+    (b) a rail document within the meaning of section 4(1) of the Railways Act 2005
   - **land transport options and alternatives** includes land transport demand management options and alternatives
   - **land transport revenue** has the meaning given to it by section 6
   - **large passenger service vehicle** has the same meaning as in section 2(1) of the Land Transport Act 1998
@@ -187,9 +191,6 @@ In order to recognise and respect the Crown’s responsibility to take appropria
     (b) any part of an intersection that is within the route of the State highway; and
     (c) for the purposes of regional land transport plans, the national land transport programme, and any expenditures approved under section 20 by the Agency, a proposed State highway; and
     (d) land that becomes a State highway under section 88(2) of the Government Roading Powers Act 1989
-  - **statutorily independent function** means,—
-    (a) in the case of the Agency, a function specified in section 95(2):
-    (b) a matter in respect of which this Act provides must be carried out independently
   - **territorial authority** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **toll** means a toll that is payable under Part 2, and includes different levels of tolls if more than 1 level is set in respect of the same road
   - **toll operator** , in relation to a toll road, means the public road controlling authority or concessionaire who operates the toll road under a road tolling scheme
@@ -248,6 +249,14 @@ This Act binds the Crown.
   (a) a responsibility that has previously been transferred under section 17 of the Local Government Act 2002; and
   (b) any powers associated with the responsibility, duty, or legal obligation.
 
+### 7C Act is land transport Act
+(1) This Act is a land transport Act under section 2(1) of the Land Transport Act 1998.
+(2) This has the effect that—
+  (a) transport instruments may be made for the purposes of this Act under section 168G of that Act; and
+  (b) enforceable undertakings may be given for the purposes of this Act in accordance with section 112A of that Act; and
+  (c) a land transport record may be required to be created for the purposes of this Act in accordance with section 200B of that Act.
+(3) This section is intended as a guide only and is not an exhaustive statement as to the effects of this Act being a land transport Act under that Act.
+
 ## Part 2 — Planning and funding of land transport system
 
 ### Subpart 1 — Planning and funding system
@@ -258,11 +267,13 @@ This Act binds the Crown.
 [Repealed]
 
 ### 9 The Crown’s authority to incur certain land transport expenses and capital expenditure
-(1) In accordance with any regulations made under section 109(b)﻿(i), the Crown may, without further appropriation than this subsection, incur expenses or capital expenditure in a financial year up to an amount agreed by the responsible Minister and the Minister of Finance that is not more than the excise duty and excise-equivalent duty estimated to have been paid by users of pleasure craft (within the meaning of section 2(1) of the Maritime Transport Act 1994) in that financial year, for the following activities and services:
+(1) In accordance with any regulations made under section 109(b)﻿(i), the Crown may, without further appropriation than this subsection, incur expenses or capital expenditure in a financial year up to an amount agreed by the responsible Minister and the Minister of Finance that is not more than the excise duty and excise-equivalent duty estimated to have been paid by users of pleasure craft (within the meaning of section 2(1) of the Maritime Transport Act 1994) and users of aircraft in recreational aviation in that financial year, for the following activities and services:
   (a) search and rescue activities, whether in relation to pleasure craft or otherwise; and
   (b) recreational boating safety and safety awareness; and
   (c) maritime safety services that benefit the users of pleasure craft; and
-  (d) administration by the Secretary in relation to the activities and services described in paragraphs (a) to (c).
+  (ca) recreational aviation safety and safety awareness activities and services; and
+  (cb) aviation safety services that benefit recreational aviation; and
+  (d) administration by the Secretary in relation to the activities and services described in paragraphs (a) to (cb).
 (1A) The Crown may, without further appropriation than this subsection, incur expenses or capital expenditure in a financial year up to an amount agreed between the Minister of Transport and the Minister of Finance to fund the Agency’s regulatory functions and the Ministry’s associated monitoring functions.
 (1B) The Agency may, of its own volition, recommend that the Ministers agree to an amount under subsection (1A).
 (1C) Before making a recommendation, the Agency must—
@@ -290,6 +301,13 @@ This Act binds the Crown.
   (a) activities and combinations of activities approved under section 20; and
   (b) expenses resulting from, and repayment of, any borrowing in accordance with section 10(1)﻿(b).
 (5) The amount referred to in subsection (4) is to be calculated in accordance with the following formula:a − b = cwhere—ais land transport revenue from any previous financial years; andbis the expenses and capital expenditure incurred under subsections (1), (1A), (2), (3), and (4) for those previous financial years; andcis the calculated amount.
+(6) To avoid doubt, the Agency’s regulatory functions referred to in subsection (1A) include—
+  (a) any function of the Director under this Act or any other Act; and
+  (b) any regulatory function of the Agency under this Act or any other Act (including the functions referred to in section 95(1)﻿(b) to (g)); and
+  (c) any function of the Agency that relates to—
+    (i) a function of the Director referred to in paragraph (a); or
+    (ii) a function of the Agency referred to in paragraph (b).
+(7) In subsection (1), recreational aviation means the use of aircraft for private sport and recreation operations, including flight training.
 
 **National land transport account**
 
@@ -1276,8 +1294,11 @@ The Agency’s functions under this subpart include—
     (ii) a registry of users of fuel for an exempt use and the locations where any fuel supplied to them will be used exclusively for an exempt use; and
   (c) administering the provision of RFT rebates; and
   (d) transferring the net revenue from an RFT scheme to the appropriate regional council; and
-  (e) monitoring the revenues and costs of RFT schemes, and fuel prices and volumes related to the schemes; and
-  (f) prosecuting offences under section 65ZI.
+  (e) monitoring the revenues and costs of RFT schemes, and fuel prices and volumes related to the schemes.
+  (f)
+
+### 65NA Functions of Director under this subpart
+The Director’s functions under this subpart include prosecuting offences under section 65ZI.
 
 **Liability to tax**
 
@@ -1360,8 +1381,8 @@ An RF taxpayer by whom a regional fuel tax is payable under an RFT scheme in res
 ### 65W Assessment of tax
 (1) The Agency must assess the regional fuel tax payable by an RF taxpayer under an RFT scheme for any month. In doing so, the Agency may rely on the information set out in the RF taxpayer’s monthly return or may make its own determination of the correct amount payable.
 (2) If an RF taxpayer has failed to file a return in accordance with section 65V for any month in respect of which regional fuel tax is payable,—
-  (a) a filing penalty of up to 10%, as determined by the Agency, of the regional fuel tax for that month is payable by the RF taxpayer and must be paid together with the regional fuel tax for that month; and
-  (b) the Agency must determine what the amount, if any, of the filing penalty will be, taking into account the following principles:
+  (a) a filing penalty of up to 10%, as determined by the Director, of the regional fuel tax for that month is payable by the RF taxpayer and must be paid together with the regional fuel tax for that month; and
+  (b) the Director must determine what the amount, if any, of the filing penalty will be, taking into account the following principles:
     (i) a higher amount of penalty is more likely to be appropriate in any case of a repeated failure to file a return:
     (ii) a lesser amount of penalty is more likely to be appropriate in any case where the RF taxpayer neither knew nor ought to have known that they had an obligation to file a return:
     (iii) a lesser amount of penalty is more likely to be appropriate in any case where the failure to file a return is promptly remedied.
@@ -1380,7 +1401,7 @@ An RF taxpayer by whom a regional fuel tax is payable under an RFT scheme in res
   (a) 5% of the amount by which assessment exceeds the amount shown as payable on the return; and
   (b) 2% of that excess for each month after the month in which the return was due, up to and including the month in which the assessment was made.
 (4) If an amount of regional fuel tax that is required to be paid under subsection (1)﻿(a) or (b) remains unpaid on the day that is 1 month after the date by which it is required to be paid, a late-payment penalty of 2% of the unpaid amount is payable by the RF taxpayer and must be paid together with the regional fuel tax, and the same applies for each following month until the regional fuel tax is fully paid.
-(5) Despite section 65W(2) and subsections (2), (3), and (4), the Agency may, at any time, reduce or waive any filing penalty, late-payment penalty, or under-reporting penalty referred to in those provisions if it considers that it is just to do so, but may not reduce or waive them so as to result in total penalties of less than 1% per month on any unpaid amount of regional fuel tax.
+(5) Despite section 65W(2) and subsections (2), (3), and (4), the Director may, at any time, reduce or waive any filing penalty, late-payment penalty, or under-reporting penalty referred to in those provisions if the Director considers that it is just to do so, but may not reduce or waive them so as to result in total penalties of less than 1% per month on any unpaid amount of regional fuel tax.
 (6) The Agency must repay or credit to an RF taxpayer any overpayment by the taxpayer of regional fuel tax.
 (7) The amount of any unpaid regional fuel tax, filing penalty, late-payment penalty, or under-reporting penalty and any associated enforcement costs are recoverable in any court of competent jurisdiction as a debt due to the Agency.
 
@@ -1494,20 +1515,20 @@ Final accounting and payment
 
 **Administration and enforcement**
 
-### 65ZF Agency and Auditor-General may require information
-(1) The Agency may require any person or regional council to provide to it information that it reasonably believes is relevant to the administration or enforcement of an RFT scheme.
+### 65ZF Agency, Director, and Auditor-General may require information
+(1) The Agency or the Director may require any person or regional council to provide to the Agency or the Director (as the case may be) information that the Agency or Director reasonably believes is relevant to the administration or enforcement of an RFT scheme.
 (2) For the purposes of this subpart, the Auditor-General has the same powers in respect of the records relevant to the administration of an RFT scheme, including the determination of regional fuel tax payable under the scheme, as the Auditor-General has under Part 4 of the Public Audit Act 2001.
 
 ### 65ZG Inspection of records or other information
-(1) For the purpose of issuing an assessment under section 65W, or otherwise ascertaining whether the provisions of this Act have been, or are being, complied with by any person to whom this Act applies, the Agency may require that person to produce for inspection any records or other information in that person’s possession or control that are relevant to the regional fuel tax payable by the RF taxpayer.
-(2) The Agency may, in relation to any records or other information produced under subsection (1),—
+(1) For the purpose of issuing an assessment under section 65W, or otherwise ascertaining whether the provisions of this Act have been, or are being, complied with by any person to whom this Act applies, the Agency or the Director may require that person to produce for inspection any records or other information in that person’s possession or control that are relevant to the regional fuel tax payable by the RF taxpayer.
+(2) The Agency or the Director may, in relation to any records or other information produced under subsection (1),—
   (a) take extracts from the records or other information:
   (b) make copies of the records or other information at the place of inspection:
-  (c) remove the records or other information if the Agency is satisfied that it is impracticable to copy the records or other information at the place of inspection.
-(3) If the Agency removes any records or other information under subsection (2)﻿(c), the Agency must—
+  (c) remove the records or other information if the Agency or the Director is satisfied that it is impracticable to copy the records or other information at the place of inspection.
+(3) If the Agency or the Director removes any records or other information under subsection (2)﻿(c), the Agency or the Director must—
   (a) issue a receipt for the records or other information to the person from whom the records or other information was taken; and
   (b) return the records or other information as soon as practicable; and
-  (c) for as long as the records or other information is held by the Agency, allow the person from whom the records or other information was taken, at any reasonable time, to inspect, and obtain copies of, the records or other information at the premises where the records or other information is held.
+  (c) for as long as the records or other information is held by the Agency or the Director, allow the person from whom the records or other information was taken, at any reasonable time, to inspect, and obtain copies of, the records or other information at the premises where the records or other information is held.
 
 ### 65ZH Power to issue search warrant in respect of alleged offence
 (1) An issuing officer (within the meaning of section 3(1) of the Search and Surveillance Act 2012) may issue a search warrant in relation to a place, vehicle, or other thing if, on application made by an enforcement officer in the manner provided in subpart 3 of Part 4 of that Act, he or she is satisfied that there are reasonable grounds—
@@ -1520,8 +1541,8 @@ Final accounting and payment
 ### 65ZI Offences and penalties
 (1) A person commits an offence if the person knowingly or recklessly—
   (a) refuses or fails to file a monthly return in accordance with section 65V; or
-  (b) refuses or fails to provide information relevant to the administration or enforcement of regional fuel tax that has been reasonably requested by the Agency; or
-  (c) in relation to the administration or enforcement of an RFT scheme, provides to the Agency any information that is false or misleading; or
+  (b) refuses or fails to provide information relevant to the administration or enforcement of regional fuel tax that has been reasonably requested by the Agency or the Director; or
+  (c) in relation to the administration or enforcement of an RFT scheme, provides to the Agency or the Director any information that is false or misleading; or
   (d) produces false records or information under section 65ZG; or
   (e) refuses or fails to pay any regional fuel tax in accordance with section 65X; or
   (f) evades the payment of any regional fuel tax payable by the person under this subpart; or
@@ -1854,33 +1875,40 @@ As soon as practicable after issuing an amended GPS on land transport, the Minis
 The objective of the Agency is to undertake its functions in a way that contributes to an effective, efficient, and safe land transport system in the public interest.
 
 ### 95 Functions of Agency
-(1) The Agency has the following functions:
+(1) The functions of the Agency are as follows:Regulatory functionsInfrastructure, planning, and investment management functions General functions
   (a) to contribute to an effective, efficient, and safe land transport system in the public interest:
-  (b) to investigate and review accidents and incidents involving transport on land in its capacity as the responsible safety authority, subject to any limitations set out in the Transport Accident Investigation Commission Act 1990:
-  (c) to manage the State highway system, including planning, funding, design, supervision, construction, and maintenance and operations, in accordance with this Act and the Government Roading Powers Act 1989:
-  (d) to deliver or manage the delivery of its other activities, including (but not limited to) those relating to research, education, and training:
-  (e) to manage funding of the land transport system, including (but not limited to)—
-    (i) administration of land transport revenue; and
-    (ii) auditing the performance of approved organisations in relation to activities approved by the Agency and the operation of the land transport disbursement accounts of approved organisations:
-  (f) to manage regulatory requirements for transport on land, including (but not limited to) maintaining and preserving records and documents concerning activities within the land transport system, and maintaining registers:
-  (g) to assist, advise, and co-operate with approved organisations:
-  (ga) to assist, advise, and co-operate with KiwiRail in relation to KiwiRail’s role in preparing each rail network investment programme:
-  (gb) to monitor and report to the Minister on the matters set out in section 102A:
-  (h) to co-operate with, or to provide advice and assistance to, any government agency or local government agency when requested to do so by the Minister, but only if the Minister and the Agency are satisfied that the performance of the Agency’s functions and duties will not be compromised:
-  (i) to provide the Minister with any advice relating to the Agency’s functions that the Minister may request:
-  (ia) to issue guidelines for, and monitor the development of, regional public transport plans:
-  (j) to carry out any other functions relating to land transport that the Minister directs in accordance with section 112 of the Crown Entities Act 2004:
-  (k) to carry out those functions conferred on the Agency by other provisions in this Act or under any other Act.
+  (b) to contribute to establishing, implementing, operating, delivering, monitoring, and enforcing the regulation of the land transport system:
+  (c) to publish its regulatory strategy in accordance with section 96A:
+  (d) to appoint and oversee the performance of the Director, including by ensuring that the Director performs efficiently and effectively:
+  (e) to issue warnings, reports, and guidance, and to comment about any regulatory matter relating to the land transport system and its participants or any other persons engaged with it:
+  (f) to manage and oversee regulatory requirements for land transport, including maintaining and preserving records and documents concerning activities within the land transport system and providing and maintaining registers:
+  (g) to investigate and review accidents and incidents involving transport on land in its capacity as the responsible safety authority (subject to any limitations set out in the Transport Accident Investigation Commission Act 1990):
+  (h) to manage the State highway system (including its planning, funding, design, supervision, construction, maintenance, and operation) in accordance with this Act and the Government Roading Powers Act 1989:
+  (i) to oversee the planning, operation, implementation, and delivery of public transport (including issuing guidelines for regional public transport plans):
+  (j) to manage funding of the land transport system, including—
+    (i) administering land transport revenue; and
+    (ii) auditing the performance of approved organisations in relation to activities approved by the Agency; and
+    (iii) auditing the operation of the land transport disbursement accounts of those organisations:
+  (k) to assist, advise, and co-operate with approved organisations:
+  (l) to assist, advise, and co-operate with KiwiRail in relation to KiwiRail’s role in preparing each rail network investment programme:
+  (m) to monitor and report to the Minister on the matters set out in section 102A:
+  (n) to deliver, or manage the delivery of, activities relating to research, education, and training in relation to the land transport system:
+  (o) to deliver, or manage the delivery of, activities for ticketing systems and payments in relation to the land transport system (and for this purpose, the statutory exemption in section 43 of the Commerce Act 1986 applies to any activities delivered or managed in accordance with this provision):
+  (p) to issue reports and guidance and to comment about any matter relating to the land transport system and its participants or any other persons engaged with it:
+  (q) to advise, assist, or co-operate with any government agency or local government agency when requested to do so by the Minister, but only if the Minister and the Agency are satisfied that the performance of the Agency’s functions and duties will not be compromised:
+  (r) to advise, assist, or co-operate with other specified agencies and overseas agencies (including under section 109B):
+  (s) to provide the Minister with any advice relating to the Agency’s functions that the Minister requests:
+  (t) to carry out any other functions relating to land transport that the Minister directs in accordance with section 112 of the Crown Entities Act 2004:
+  (u) to carry out the Agency’s functions, powers, and duties under other provisions of this Act or any other Act.
+Statutorily independent functions
 (2) The Agency’s statutorily independent functions are to—
-  (a) issue, endorse, alter, replace, renew, suspend, or revoke any land transport document or other authorisation under any enactment; and
-  (b) grant exemptions under any enactment; and
-  (c) enforce the provisions of any enactment conferring functions or duties on the Agency; and
-  (d) determine whether particular activities should be included in a national land transport programme; and
-  (e) approve activities or combinations of activities under section 20; and
-  (f) approve procurement procedures.
-(3) In this section, land transport document includes—
-  (a) a land transport document as defined in section 2(1) of the Land Transport Act 1998; and
-  (b) a rail document as defined in section 4(1) of the Railways Act 2005.
+  (a) determine whether particular activities should be included in a national land transport programme:
+  (b) approve activities or combinations of activities under section 20:
+  (c) approve procurement procedures under section 25.
+(3) When performing a statutorily independent function,—
+  (a) the Agency must act independently; and
+  (b) the Minister may not give directions to the Agency in relation to performing that function.
+(4) For the purposes of subsection (1)﻿(r), overseas agency and specified agency have the meanings given in section 109B.
 
 ### 96 Operating principles
 (1) In meeting its objective and undertaking its functions, the Agency must—
@@ -1897,11 +1925,41 @@ The objective of the Agency is to undertake its functions in a way that contribu
   (b) include in its annual report under section 150 of the Crown Entities Act 2004 a report on its implementation of those systems and procedures.
 (3) The Auditor-General must, when carrying out the annual audit of the Agency under section 15 of the Public Audit Act 2001, report on the Agency’s implementation of the systems and procedures referred to in subsection (2).
 
+### 96A Agency must adopt and publish regulatory strategy
+(1) The Agency must adopt a regulatory strategy that sets out how the Agency and the Director will perform their regulatory functions—
+  (a) under the land transport Acts; and
+  (b) under any other Acts that confer significant regulatory functions upon the Agency or the Director.
+(2) The strategy must include the following matters:
+  (a) key areas of focus, including the key risks being targeted within those areas; and
+  (b) the regulatory approach to be adopted, including in relation to monitoring, enforcement, and compliance; and
+  (c) how performance will be assessed; and
+  (d) methods for managing any potential conflict between the Agency’s regulatory functions and its other functions, powers, and duties; and
+  (e) a summary of how the strategy will be updated and reviewed.
+(3) The Agency must make a copy of the strategy publicly available in accordance with section 108.
+
+### 96B Interests of persons in relation to committees that Agency required to establish under rules
+(1) In this section, committee means a committee that the Agency is required to establish by an ordinary rule to which section 159A of the Land Transport Act 1998 applies.
+(2) A person must not be appointed as a member of a committee unless, before appointment, they disclose, to the relevant person referred to in section 159A(2)﻿(c) of the Land Transport Act 1998, the details of any interest they might have if they were a member of the committee.
+(3) Whether a person has an interest must be determined under section 62 of the Crown Entities Act 2004, and that section applies—
+  (a) as if the committee were a statutory entity; and
+  (b) with any necessary modifications.
+
+### 96C Delegation restrictions and other matters relating to committees that Agency required to establish under rules
+The following matters apply to a committee that the Agency is required to establish by an ordinary rule to which section 159A of the Land Transport Act 1998 applies:
+  (a) the Agency may delegate any of its functions or powers (except its general power of delegation), either generally or specifically, to the committee, but only if—
+    (i) the function or power relates to the purpose for which the committee was established; and
+    (ii) the delegation is within the scope specified in the rule of matters that can be delegated:
+  (b) the members of the committee may regulate their own procedure except as otherwise provided in the rule:
+  (c) the Crown Entities Act 2004 applies (or does not apply) to the committee as follows:
+    (i) sections 74 to 76 apply, with any necessary modifications, to delegations made in accordance with paragraph (a); and
+    (ii) clause 14 of Schedule 5 does not apply; and
+    (iii) clause 15 of Schedule 5 applies to the members of the committee.
+
 ### 97 Agency must consider delegating or contracting out functions and powers
 In the course of performing its functions and exercising its powers, the Agency must consider whether it could most efficiently and effectively perform those functions and exercise those powers by means of its own operations, or by delegating or contracting out those operations to appropriate persons.
 
 ### 98 Agency’s board
-(1) The Agency’s board must have at least 6, but no more than 8, board members appointed in accordance with section 28(1)﻿(a) of the Crown Entities Act 2004.
+(1) The Agency’s board must have at least 7, but no more than 9, board members appointed in accordance with section 28(1)﻿(a) of the Crown Entities Act 2004.
 (2) The responsible Minister must not appoint a board member unless he or she has consulted with the persons, representative groups within the land transport sector or elsewhere, government departments, and Crown entities that he or she considers appropriate.
 (3) The Agency’s board must not delegate any functions or powers delegated to the board by the Minister without the written consent of the Minister.
 
@@ -1919,7 +1977,7 @@ In the course of performing its functions and exercising its powers, the Agency 
   (a) the basis on which the Agency will prepare the national land transport programme and how that programme will give effect to the GPS on land transport:
   (b) any requirement to review or revise the national land transport programme and the basis on which that review or revision is to be carried out:
   (c) the basis on which the Agency will approve procurement procedures under section 25:
-  (d) any directions under section 95(1)﻿(j) or under Part 3 of the Crown Entities Act 2004:
+  (d) any directions under section 95(1)﻿(t) or under Part 3 of the Crown Entities Act 2004:
   (e) a statement as to how the Agency will implement the principles, systems, and procedures in section 96:
   (f) any steps that the Agency intends to take, having considered ways in which it might foster the development of Māori capacity to contribute to the Agency’s land transport decision-making processes, over the period covered by the statement of intent:
   (g) any other matters that the Agency and the Minister agree or the Minister requires.
@@ -1989,6 +2047,64 @@ In the course of performing its functions and exercising its powers, the Agency 
 (2) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person's service as an employee of the Agency were Government service.
 (3) A person employed by the Agency who ceases to be a contributor to the Government Superannuation Fund is not subsequently entitled to become a contributor.
 (4) For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with subsection (2), controlling authority, in relation to that employee, means the Agency.
+
+**Director of Land Transport**
+
+### 104A Director of Land Transport
+(1) The Agency must appoint a Director of Land Transport.
+(2) The Director must not also hold the position of chief executive of the Agency.
+(3) The Agency must appoint the Director for a term of not more than 5 years, but may reappoint the Director.
+(4) The Agency’s board and the Director must agree the Director’s terms and conditions of employment.
+(5) To avoid doubt, when performing or exercising a function, duty, or power under this Act or any other Act, the Director—
+  (a) does so as an employee of the Agency; but
+  (b) must exercise independent judgement if that Act requires the Director to do so (for example, if there is any requirement to act independently of the Agency or any other person).
+
+### 104B Functions, powers, and duties of Director
+(1) The Director has—
+  (a) the functions, powers, and duties conferred or imposed directly on the Director under this Act or any other Act; and
+  (b) the functions and powers delegated to the Director by the Agency under this Act or any other Act.
+(2) Without limiting subsection (1), the Director’s functions and powers include—
+  (a) providing leadership within the Agency in relation to any regulatory matters:
+  (b) exercising control over entry into and exit from the land transport system through land transport documents:
+  (c) monitoring, investigating, managing, and enforcing compliance in relation to matters under the land transport Acts:
+  (d) monitoring adherence of the land transport system to regulatory requirements in other legislation relating to—
+    (i) safety and security, including personal security; or
+    (ii) access and mobility; or
+    (iii) public health; or
+    (iv) environmental sustainability:
+  (e) monitoring and evaluating the performance of any person who carries out functions within the land transport system in a regulatory capacity:
+  (f) ensuring regular reviews of the land transport regulatory system (including the funding system) to contribute to the achievement of the Agency’s objective:
+  (g) issuing warnings, reports, or guidance, or commenting about,—
+    (i) any matter relating to the regulation of land transport; or
+    (ii) 1 or more holders of a land transport document; or
+    (iii) 1 or more persons who engage in conduct in relation to land transport.
+Statutorily independent functions
+(3) The Director’s statutorily independent functions are to—
+  (a) issue, endorse, alter, replace, renew, suspend, revoke, or impose conditions on any land transport document for which the Director is responsible; and
+  (b) grant exemptions for which the Director is responsible; and
+  (c) carry out any enforcement responsibilities conferred on the Director under this Act or any other Act.
+(4) When performing a statutorily independent function,—
+  (a) the Director must act independently; and
+  (b) the Minister, the Agency, or the Secretary may not give directions to the Director in relation to performing that function.
+
+### 104C Delegation of Director’s functions and powers
+(1) The Director may, either generally or particularly, delegate to any of the following persons any of the Director’s functions or powers conferred on the Director under any legislation:
+  (a) a specified person:
+  (b) persons of a specified class:
+  (c) the holder or holders for the time being of a specified office:
+  (d) the holder or holders for the time being of a specified class of offices.
+(2) Subsection (1) does not apply to—
+  (a) the general power of delegation contained in this section; or
+  (b) any functions or powers specified in any legislation as not being capable of delegation; or
+  (c) any functions or powers specified in any legislation as only being capable of delegation to certain persons (for example, employees of the Agency) to the extent that the delegation exceeds the delegation’s capability.
+(3) A delegation must be in writing.
+(4) A delegation to any employee of the Agency, until revoked, continues in force according to its tenor even if the Director has ceased to hold office.
+(5) A delegation to any other person—
+  (a) must not be made without the written consent of the Agency; and
+  (b) must be given for a specified period; and
+  (c) may be revoked at any time by written notice.
+(6) Any person purporting to act under a delegation must, when reasonably requested to do so, produce evidence of the person’s authority to so act.
+(7) For the purposes of this section, sections 74 to 76 of the Crown Entities Act 2004 apply as if references to the board were references to the Director, with all necessary modifications.
 
 ### Subpart 2 — Regional transport committees
 
@@ -2112,10 +2228,10 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (f) publishing or disclosing the information or document is—
     (i) in accordance with section 109B; or
     (ii) to a person who the Agency is satisfied has a proper interest in receiving the information or document.
-(3) The Agency must not publish or disclose, or direct a person to publish or disclose, any information or document to a person under subsection (2)﻿(f)﻿(ii) unless the Agency is satisfied that appropriate protections are or will be in place for the purpose of maintaining the confidentiality of the information or document (in particular, information that is personal information within the meaning of the Privacy Act 1993).
-(4) In relation to personal information, this section applies subject to the Privacy Act 1993.
+(3) The Agency must not publish or disclose, or direct a person to publish or disclose, any information or document to a person under subsection (2)﻿(f)﻿(ii) unless the Agency is satisfied that appropriate protections are or will be in place for the purpose of maintaining the confidentiality of the information or document (in particular, information that is personal information within the meaning of the Privacy Act 2020).
+(4) In relation to personal information, this section applies subject to the Privacy Act 2020.
 (5) To avoid doubt, in this section and section 109B, Agency includes, for example,—
-  (a) any statutory officer who carries out work for the Agency; and
+  (a) the Director or any other statutory officer who carries out work for the Agency; and
   (b) the Agency acting in any capacity.
 
 ### 109B Agency may share or use information or documents
@@ -2127,7 +2243,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (a) storing, using, accessing, or copying the information or document; and
   (b) returning or disposing of copies of the information or document.
 (4) Subsections (1) and (2) are subject to any other Act.
-(5) In relation to personal information, this section applies subject to the Privacy Act 1993.
+(5) In relation to personal information, this section applies subject to the Privacy Act 2020.
 (6) This section applies despite anything to the contrary in any contract, deed, or document.
 (7) In this section,—
   - **overseas agency** means an organisation in another country or territory that performs functions and duties that correspond with, or are similar to, those of the Agency
@@ -2681,6 +2797,35 @@ If any of the following actions are taken in relation to a proposal to establish
 
 ### 4 Additional amount to be paid before net revenue is paid to Auckland Council
 If an RFT scheme is established for Auckland under section 65K before 1 January 2021, then, before paying any amount to the Auckland Council under section 65Z, the Agency must pay to the Crown out of the revenue from the RFT scheme the amount of $1,000,000.
+
+### Part 2 — Provisions relating to Land Transport (NZTA) Legislation Amendment Act 2020
+
+### 5 Interpretation
+In this Part,—
+  - **amendment Act** means the Land Transport (NZTA) Legislation Amendment Act 2020
+  - **Director function** means any function, duty, or power of the Agency under this Act (or any secondary legislation made under this Act) that becomes a function, duty, or power of the Director—
+    (a) on and from the transfer date; and
+    (b) by operation of the amendment Act
+  - **secondary legislation** means regulations within the meaning of section 29 of the Interpretation Act 1999
+  - **transfer date** means the date determined under section 2(2) of the amendment Act.
+
+### 6 Matters, documents, decisions, etc, not affected by transfer of Director functions
+(1) If the Agency commences a matter or process relating to a Director function, but does not complete it before the transfer date, the Director must complete the matter or process after the transfer date in place of the Agency.
+(2) Any land transport document, notice, or similar document given by the Agency is deemed to be a document given by the Director if—
+  (a) it relates to a Director function; and
+  (b) it is in force immediately before the transfer date.
+(3) The transfer of a Director function to the Director does not, of itself, affect—
+  (a) any decision made, or anything done or omitted to be done, by the Agency in relation to the Director function before the transfer date; or
+  (b) any other matter or thing arising out of the Agency performing the Director function before the transfer date.
+
+### 7 Personal information
+If the Agency collected personal information when performing a Director function before the transfer date, the Director’s use of the information on and from the transfer date is not an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
+
+### 8 References to Agency in documents
+On and from the transfer date, a reference to the Agency in a land transport document, notice, or similar document written or prepared by or on behalf of the Agency must be read as a reference to the Director if—
+  (a) the reference relates to a Director function; and
+  (b) the document was written or prepared before the transfer date; and
+  (c) such a reading is consistent with this Act.
 
 ## Schedule 1 — Provisions relating to programmes
 
