@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-04-01_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -1734,7 +1734,7 @@ Any person who commits an act or omission on an aircraft in flight outside New Z
 (1) There is hereby established an authority to be known as the Civil Aviation Authority of New Zealand.
 (1A) The Authority is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
 (1B) The Crown Entities Act 2004 applies to the Authority except to the extent that this Act expressly provides otherwise.
-(2) The Authority shall consist of 5 members appointed in accordance with section 28(1)﻿(a) of the Crown Entities Act 2004.
+(2) The Authority must have at least 5, but no more than 7, members appointed in accordance with section 28(1)﻿(a) of the Crown Entities Act 2004.
 (2A) Members of the Authority are the board for the purposes of the Crown Entities Act 2004.
 (3)
 (4) The Minister shall appoint as members persons who the Minister considers will represent the public interest in civil aviation.
