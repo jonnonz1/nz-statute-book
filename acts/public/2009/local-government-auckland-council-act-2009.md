@@ -1,5 +1,5 @@
 # Local Government (Auckland Council) Act 2009
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-04-01_
 
 ### 1 Title
 This Act is the Local Government (Auckland Council) Act 2009.
@@ -412,6 +412,7 @@ No person may be a member of more than 1 local board at the same time.
       (iii) off-street parking facilities under the control of the Council:
       (iv) airfields
   - **director** includes the chairperson and the deputy chairperson of the board of directors of Auckland Transport
+  - **Director of Land Transport** means the Director of Land Transport appointed under section 104A of the Land Transport Management Act 2003
   - **New Zealand Railways Corporation** means the corporation constituted under section 4 of the New Zealand Railways Corporation Act 1981
   - **New Zealand Transport Agency** means the Crown entity established by section 93 of the Land Transport Management Act 2003.
 (2) In this Part, unless the context requires another meaning, land transport, regional land transport plan, and State highway have the same meanings as in section 5(1) of the Land Transport Management Act 2003.
@@ -483,7 +484,7 @@ The functions of Auckland Transport are to—
   (c) carry out research and provide education and training in relation to land transport in Auckland; and
   (d) undertake any other transport functions that the Auckland Council may lawfully direct it to perform or delegate to it (for example, management of off-street parking facilities owned by the Council); and
   (e) without limiting paragraph (d), undertake any transport functions expressly conferred on the Auckland Council by any enactment (for example, under a local Act) that the Council may lawfully direct it to perform or delegate to it; and
-  (f) undertake or exercise any functions, powers, and duties in respect of State highways that the New Zealand Transport Agency may lawfully delegate to it; and
+  (f) undertake or exercise any functions, powers, and duties in respect of State highways that the New Zealand Transport Agency or the Director of Land Transport may lawfully delegate to it; and
   (g) undertake any other functions that are given to it by this Act or any other enactment, or that are incidental and related to, or consequential upon, any of its functions under this Act or any other enactment.
 
 ### 46 Functions and powers of Auckland Transport acting as local authority or other statutory body
