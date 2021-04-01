@@ -1,5 +1,5 @@
 # Oranga Tamariki Act 1989
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-04-01_
 
 > Title
 
@@ -680,7 +680,7 @@ Where, pursuant to this Part, a care and protection co-ordinator is authorised o
   (g) if the child or young person is under the guardianship of the court under the Care of Children Act 2004, any person appointed as agent for the court under that Act, or any representative of that person:
   (h) any barrister or solicitor or lay advocate representing the child or young person:
   (i) any person whose attendance at that conference is in accordance with the wishes of the family, whanau, or family group of the child or young person as expressed under section 21.
-(2) No person to whom paragraph (c) or paragraph (d) or paragraph (e) or paragraph (f) or paragraph (h) of subsection (1) applies is entitled to be present at any family group conference during any discussions or deliberations held among the members of the family, whanau, or family group of the child or young person in respect of whom the conference is held, unless those members request any such person to be present.
+(2) No person to whom subsection (1)﻿(c), (d), (e), (f), or (h) applies is entitled to be present at any family group conference during any discussions or deliberations held among the members of the family, whanau, or family group of the child or young person in respect of whom the conference is held, unless those members request any such person to be present.
 (3) If a family group conference is reconvened to review a decision, recommendation, or plan, every person who, at the time of the reconvened conference, is a person to whom subsection (1) applies is entitled to attend the conference.
 
 ### 23 Care and protection co-ordinator to ensure that relevant information and advice made available to family group conference
@@ -902,7 +902,7 @@ Where an application is made to the court under section 44, or a child or young 
   (f) the details of any further action that the person who placed the child or young person in that custody has taken, or is proposing to take, in relation to the child or young person.
 
 ### 48 Unaccompanied children and young persons
-(1) Where a child or young person is found unaccompanied by a parent or guardian or other person who usually has the care of the child or young person in a situation in which the child's or young person's physical or mental health is being, or is likely to be, impaired, a constable may, using such force as may reasonably be necessary, take the child or young person and—place the child or young person in the custody of the the chief executive (acting through the chief executive’s delegate) by delivering the child or young person to a social worker.
+(1) Where a child or young person is found unaccompanied by a parent or guardian or other person who usually has the care of the child or young person in a situation in which the child's or young person's physical or mental health is being, or is likely to be, impaired, a constable may, using such force as may reasonably be necessary, take the child or young person and—place the child or young person in the custody of the chief executive by delivering the child or young person to the chief executive (acting through the chief executive’s delegate).
   (a) with the consent of the child or young person, deliver the child or young person into the custody of a parent or guardian or other person usually having the care of the child or young person; or
   (b) if—
     (i) the child or young person does not wish to be returned to a parent or guardian or other person having the care of the child or young person; or
@@ -3354,7 +3354,7 @@ Every family group conference convened under this Part must, in complying with s
 
 ### 260 Family group conference may make decisions and recommendations and formulate plans
 (1) Subject to section 259(2), a family group conference convened under this Part may make such decisions and recommendations and formulate such plans as it considers necessary or desirable in relation to the child or young person in respect of whom the conference was convened.
-(2) Except as provided in section 258(a)﻿(ii), in making such decisions and recommendations and formulating such plans, the conference shall have regard to the principles set out in section 208.
+(2) Except as provided in section 258(1)﻿(a)﻿(ii), in making such decisions and recommendations and formulating such plans, the conference shall have regard to the principles set out in section 208.
 (3) Without limiting the generality of subsection (1), a family group conference may—
   (a) recommend that any proceedings commenced against the child or young person for any offence should proceed or be discontinued:
   (b) recommend that a formal Police caution should be given to the child or young person:
@@ -3834,7 +3834,7 @@ Every order or decision made under any of the provisions of paragraphs (d) to (h
 ### 294 Demerit points
 Where—the young person is, unless the charge is discharged under section 282, deemed, for the purposes of sections 88 to 91 of the Land Transport Act 1998 and of any regulations made under section 167(1)﻿(g) of that Act, to have been convicted of that offence, and the provisions of those sections of that Act and those regulations apply accordingly with all necessary modifications.
   (a) a charge against a young person is proved before the Youth Court; and
-  (b) the offence is such that, if the offender were convicted in the District Court, the New Zealand Transport Agency would be obliged under section 88 of the Land Transport Act 1998 to record demerit points in respect of the offender,—
+  (b) the offence is such that, if the offender were convicted in the District Court, the Director of Land Transport would be obliged under section 88 of the Land Transport Act 1998 to record demerit points in respect of the offender,—
 
 ### 295 Recall to come before court
 (1) Where the court makes an order under section 283(c), the court may, at any time during the duration of the order, direct, on the application of the chief executive or a constable, the issue to the young person in respect of whom the order was made of a summons, in a form prescribed by rules of court, to appear before the court.
