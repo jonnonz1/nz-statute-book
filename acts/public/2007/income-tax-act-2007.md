@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2021-03-30_
+_Consolidation as at 2021-04-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -33703,7 +33703,7 @@ The fourth requirement for an entitlement to an in-work tax credit is that the p
 ### MD 9 Fifth requirement: earner
 Normally earner
 (1) The fifth requirement for an entitlement to an in-work tax credit is that either or both the person referred to in section MD 4 and their spouse, civil union partner, or de facto partner, is normally an earner (the earner). Also, the earner must—
-  (a) derive income as set out in subsections (2) and (3) as an earner or derive an amount of compensation described in subsection (4); or
+  (a) derive income as set out in subsections (2) and (3) as a full-time earner, or derive an amount of compensation described in subsection (4), or not derive income but meet the alternative requirements in subsection (6); or
   (b) if they are an earner in relation to a close company, be a major shareholder in the close company, and the company must derive gross income in the income year.
 Income
 (2) The income referred to in subsection (1)﻿(a) is—
@@ -33730,6 +33730,8 @@ Compensation payments for personal injury
   (d) the person or their spouse, civil union partner, or de facto partner would have met the fifth requirement in deriving income as a full-time earner under subsection (1)﻿(a) and been eligible for the tax credit calculated using the formula in section MD 10 at the time of the incapacity had this section come into force before the date of the incapacity.
 Absence from work due to birth of child
 (5) Despite subsection (1), a person also meets the fifth requirement if they are normally a full-time earner as described in subsection (1)﻿(a) but, in a 1-week period, they do not work, or work less than, the number of hours required to be a full-time earner because of the birth of a child. However, this subsection applies only if the person is entitled to receive the parental tax credit for the child.
+14 day concession
+(6) A person meets the fifth requirement if they do not derive income or otherwise do not meet the fifth requirement, but have met the fifth requirement within the last 14 days.
 
 ### MD 10 Calculation of in-work tax credit
 Entitlement
@@ -33744,8 +33746,8 @@ Definition of items in formula
     (i) 3; and
     (ii) the number of children for whom the person is allowed the in-work tax credit:
   (d) weekly periods—
-    (i) for 2 or more entitlement periods forming 1 continuous period, is the number of whole periods of 1 week in the continuous period for which the person or their spouse, civil union partner, or de facto partner has, from the work activity, income to which section MD 9(2) refers or is an earner described in section MD 9(1)﻿(b):
-    (ii) for an entitlement period to which subparagraph (i) does not apply, is the number of whole periods of 1 week in the entitlement period for which the person or their spouse, civil union partner, or de facto partner has, from the work activity, income to which section MD 9(2) refers or is an earner described in section MD 9(1)﻿(b).
+    (i) for 2 or more entitlement periods forming 1 continuous period, is the number of whole periods of 1 week in the continuous period for which the person or their spouse, civil union partner, or de facto partner has, from the work activity, income to which section MD 9(2) refers or is an earner described in section MD 9(1)﻿(b), and includes whole periods of 1 week to which the alternative requirement in section MD 9(6) applies:
+    (ii) for an entitlement period to which subparagraph (i) does not apply, is the number of whole periods of 1 week in the entitlement period for which the person or their spouse, civil union partner, or de facto partner has, from the work activity, income to which section MD 9(2) refers or is an earner described in section MD 9(1)﻿(b), and includes whole periods of 1 week to which the alternative requirement in section MD 9(6) applies.
 Order in Council increasing amount
 (4) In subsection (3)﻿(a) and (b), the amount referred to may be increased as prescribed by the Governor-General by Order in Council under section MF 7 (Orders in Council).
 
@@ -33880,7 +33882,7 @@ Formula
 (2) The formula is—(prescribed amount − net family scheme income) × weekly periods ÷ 52.
 Definition of items in formula
 (3) In the formula,—
-  (a) prescribed amount is $29,432:
+  (a) prescribed amount is $30,576:
   (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3, for a relationship period containing the entitlement period, of—
     (i) the person; or
     (ii) their spouse, civil union partner, or de facto partner; or
@@ -39187,15 +39189,16 @@ PAYE income payments other than schedular payments
 (1) The amount of tax for a PAYE income payment that a person must withhold and pay to the Commissioner under section RA 5 (Tax obligations for employment-related taxes) is the relevant amount under schedule 2 (Basic tax rates for PAYE income payments). Subsections (2), (2B), (2C), (2D), and (3) and sections RD 12 to RD 20 override this subsection.
 Choosing rate for extra pay
 (2) An employee who notifies their employer of their tax code may choose to have the amount of tax for an extra pay fixed as follows:
-  (a) for an employee whose taxable income for the income year is expected to be not more than $48,000, the rate set out in schedule 2, part B, table 1, row 2; or
-  (b) for an employee whose taxable income for the income year is expected to be not more than $70,000, the rate set out in schedule 2, part B, table 1, row 3; or
-  (c) for other employees, the rate set out in schedule 2, part B, table 1, row 4.
+  (a) for an employee whose taxable income for the income year is expected to be not more than $48,000, the rate set out in schedule 2, part B, table 1, row 3; or
+  (b) for an employee whose taxable income for the income year is expected to be not more than $70,000, the rate set out in schedule 2, part B, table 1, row 4; or
+  (c) for an employee whose taxable income for the income year is expected to be not more than $180,000, the rate set out in schedule 2, part B, table 1, row 5; or
+  (d) for other employees, the rate set out in schedule 2, part B, table 1, row 6.
 Relationship with section RD 17
 (2B) Despite subsection (2), a person must not choose a rate set out in schedule 2, part B, table 1 that is lower than the rate that would apply to the amount of extra pay under section RD 17.
 Rates for extra pays: non-resident seasonal workers
-(2C) The amount of tax for an extra pay that is paid to a non-resident seasonal worker is calculated at the rate set out in schedule 2, part B, table 1, row 1B (Basic tax rates for PAYE income payments). This rate applies for both a worker who has notified their employer under section 24C of the Tax Administration Act 1994 of their tax code under schedule 2, part A, clause 8, and a worker to whom schedule 5, part B, clause 3 of that Act applies. This subsection overrides subsection (2).
+(2C) The amount of tax for an extra pay that is paid to a non-resident seasonal worker is calculated at the rate set out in schedule 2, part B, table 1, row 1 (Basic tax rates for PAYE income payments). This rate applies for both a worker who has notified their employer under section 24C of the Tax Administration Act 1994 of their tax code under schedule 2, part A, clause 8, and a worker to whom schedule 5, part B, clause 3 of that Act applies. This subsection overrides subsection (2).
 Rates for extra pays: non-notified tax codes
-(2D) The amount of tax for an extra pay that is paid to an employee who has not notified their employer of their tax code is calculated at the rate set out in schedule 2, part B, table 1, row 5.
+(2D) The amount of tax for an extra pay that is paid to an employee who has not notified their employer of their tax code is calculated at the rate set out in schedule 2, part B, table 1, row 7.
 Schedular payments
 (3) The amount of tax for a schedular payment is determined—
   (a) under section RD 10B; and
@@ -39326,12 +39329,13 @@ Exclusion: non-resident seasonal workers and non-notified tax codes
   (b) an employee who has a non-notified tax code referred to in schedule 2, part A, clause 3.
 Rates applying
 (2) For the sum of the amounts referred to in subsection (1) listed in the following paragraphs, the amount of tax for the extra pay that must be withheld is the amount determined using the basic amounts of tax for PAYE income payments set out in the relevant row of schedule 2, part B, table 1 (Basic tax rates for PAYE income payments):
-  (a) if the sum of the amounts is $14,000 or less, the amount determined by applying row 1:
-  (b) if the sum of the amounts is more than $14,000 but not more than $48,000, the amount determined by applying row 2:
-  (c) if the sum of the amounts is more than $48,000 but not more than $70,000, the amount determined by applying row 3:
-  (d) if the sum of the amounts is more than $70,000, the amount determined by applying row 4.
+  (a) if the sum of the amounts is $14,000 or less, the amount determined by applying row 2:
+  (b) if the sum of the amounts is more than $14,000 but not more than $48,000, the amount determined by applying row 3:
+  (c) if the sum of the amounts is more than $48,000 but not more than $70,000, the amount determined by applying row 4:
+  (d) if the sum of the amounts is more than $70,000 but not more than $180,000, the amount determined by applying row 5:
+  (e) if the sum of the amounts is more than $180,000, the amount determined by applying row 6.
 When secondary tax codes apply
-(3) Despite subsection (2), if the person pays an amount of extra pay to an employee in relation to which the employee has notified the person that a secondary code under schedule 5, part A, clause 4, rows 3 to 6 of the Tax Administration Act 1994 applies, the rate under schedule 2, part B, table 1 applying to the extra pay is determined using the formula—extra pay + annualised amount + low threshold amount.
+(3) Despite subsection (2), if the person pays an amount of extra pay to an employee in relation to which the employee has notified the person that a secondary code under schedule 5, part A, clause 4, rows 3 to 6B of the Tax Administration Act 1994 applies, the rate under schedule 2, part B, table 1 applying to the extra pay is determined using the formula—extra pay + annualised amount + low threshold amount.
 Definition of items in formula
 (4) In the formula,—
   (a) extra pay is the amount of the employee's extra pay:
@@ -39340,7 +39344,8 @@ Definition of items in formula
     (i) for secondary code SB, $0:
     (ii) for secondary code S, $14,001:
     (iii) for secondary code SH, $48,001:
-    (iv) for secondary code ST, $70,001.
+    (iv) for secondary code ST, $70,001:
+    (v) for secondary code SA, $180,001.
 
 ### RD 18 Schedular payments without notification
 [Repealed]
@@ -39788,9 +39793,9 @@ Definition of items in formula
   (a) tax on all-inclusive pay is the amount determined at the rate set out in schedule 1, part C, table 1 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) on the amount of the employee’s all-inclusive pay calculated using the formula in section RD 51(2):
   (b) tax on cash pay is the amount calculated under section RD 51(3)﻿(b) or (4)﻿(b).
 Exception for shareholder-employees and persons with attributed income
-(4) If the employer has an exception for an employee under section RD 52 in a tax year, and the employer pays FBT at the rate of 42.86% of the taxable value of the attributed fringe benefits under section RD 52(3)﻿(a), the employer must deduct the FBT payable in the tax year from the result of the formula in subsection (2).
+(4) If the employer has an exception for an employee under section RD 52 in a tax year, and the employer pays FBT at the rate of 49.25% of the taxable value of the attributed fringe benefits under section RD 52(3)﻿(a), the employer must deduct the FBT payable in the tax year from the result of the formula in subsection (2).
 Further option
-(5) Instead of calculating FBT under subsections (2) and (4), an employer may choose to pay FBT at the rate of 49.25% on the taxable value of the attributed fringe benefits.
+(5) Instead of calculating FBT under subsections (2) and (4), an employer may choose to pay FBT at the rate of 63.93% on the taxable value of the attributed fringe benefits.
 
 ### RD 51 Calculation of all-inclusive pay
 When this section applies
@@ -39836,8 +39841,8 @@ Calculations under sections RD 50 and RD 51 not required
 (2) Sections RD 50 and RD 51 do not apply in the tax year or income year, as applicable, in which the employer is required to attribute a fringe benefit to the employee.
 Alternative rates
 (3) The employer must either—
-  (a) pay FBT at the rate of 42.86% of the taxable value of the fringe benefits attributed for the tax year, and apply sections RD 50 and RD 51 to the benefits in the next tax year; or
-  (b) pay FBT at the rate of 49.25% of the taxable value of the fringe benefits attributed for the tax year.
+  (a) pay FBT at the rate of 49.25% of the taxable value of the fringe benefits attributed for the tax year, and apply sections RD 50 and RD 51 to the benefits in the next tax year; or
+  (b) pay FBT at the rate of 63.93% of the taxable value of the fringe benefits attributed for the tax year.
 
 ### RD 53 Pooling non-attributed benefits
 When this section applies
@@ -39855,8 +39860,8 @@ Final quarter pooling
   (b) the second pool is for all other employees.
 Final quarter calculation
 (4) The employer must calculate FBT for the final quarter of the tax year on the annual taxable value of the pooled fringe benefits—
-  (a) at the rate of 49.25% for the first pool; and
-  (b) at the rate of 42.86% for the second pool.
+  (a) at the rate of 63.93% for the first pool; and
+  (b) at the rate of 49.25% for the second pool.
 
 **Taxable value of fringe benefits**
 
@@ -39907,7 +39912,7 @@ Schedule 5 rate
 
 ### RD 58 Single rate option
 Rate for all quarters
-(1) An employer who chooses to pay their FBT liability under the single rate option must pay FBT at the rate of 49.25% of the taxable value of a fringe benefit for each of the 4 quarters of a tax year.
+(1) An employer who chooses to pay their FBT liability under the single rate option must pay FBT at the rate of 63.93% of the taxable value of a fringe benefit for each of the 4 quarters of a tax year.
 Replacing final quarter calculation
 (2) Despite subsection (1), an employer may ask the Commissioner to replace the FBT liability determined for the final quarter under this section with an amount calculated under section RD 59(4). The employer must provide the information necessary for the calculation.
 
@@ -39915,9 +39920,9 @@ Replacing final quarter calculation
 Election
 (1) This section applies when an employer chooses to pay their FBT liability under the alternate rate option.
 First three quarters
-(2) The employer may pay FBT for any or all of the first 3 quarters of a tax year at 43% of the taxable value of a fringe benefit.
+(2) The employer may pay FBT for any or all of the first 3 quarters of a tax year at 49.25% of the taxable value of a fringe benefit.
 Alternate rate
-(3) The employer must pay FBT at the rate of 49.25% of the taxable value of a fringe benefit for any of the first 3 quarters of a tax year for which they do not pay at the rate of 43% under subsection (2).
+(3) The employer must pay FBT at the rate of 63.93% of the taxable value of a fringe benefit for any of the first 3 quarters of a tax year for which they do not pay at the rate of 49.25% under subsection (2).
 Final quarter
 (4) For the final quarter of the tax year, the employer must calculate the total FBT payable for each employee under sections RD 50 and RD 53 for the tax year and subtract the amount of FBT payable for the previous 3 quarters of the tax year.
 Decision irrevocable
@@ -39937,7 +39942,7 @@ Income year basis
   (b) the last day of the quarter in which the employer first starts employing employees, if subsection (1)﻿(c) applies.
 Rate or calculation
 (3) The employer must pay FBT on the taxable value of fringe benefits in the income year in which they make their election and in later income years either—
-  (a) at the rate of 49.25% of the taxable value of a fringe benefit; or
+  (a) at the rate of 63.93% of the taxable value of a fringe benefit; or
   (b) by calculating for the relevant income year the total pay of each employee under sections RD 50 and RD 53.
 Replacing rate with calculated liability
 (4) Despite subsection (3), the employer may ask the Commissioner to replace the FBT liability determined under subsection (3)﻿(a) with a calculation under subsection (3)﻿(b). The employer must provide the information necessary for the calculation.
@@ -39957,7 +39962,7 @@ Annual basis
   (b) the last day of the quarter in which the employer first starts employing employees, if subsection (1)﻿(b) applies.
 Rate or calculation
 (3) The employer must pay FBT on the taxable value of fringe benefits in the tax year in which they make their election and in later tax years either—
-  (a) at the rate of 49.25% of the taxable value of a fringe benefit; or
+  (a) at the rate of 63.93% of the taxable value of a fringe benefit; or
   (b) by calculating for the relevant tax year the total pay of each employee under sections RD 50 and RD 53.
 Replacing rate with calculated amount
 (4) Despite subsection (3), the employer may ask the Commissioner to replace the FBT liability determined under subsection (3)﻿(a) with a calculation under subsection (3)﻿(b). The employer must provide the information necessary for the calculation.
@@ -40046,9 +40051,9 @@ Some definitions
 ### RD 67 Calculating amounts of tax for employer's superannuation cash contributions
 The amount of tax for an employer's superannuation cash contribution is—
   (a) the amount determined under schedule 1, part D, clause 1 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits), unless paragraph (b) applies; or
-  (b) 33% of the employer's superannuation cash contribution, if—
+  (b) 39% of the employer's superannuation cash contribution, if—
     (i) the contribution is made by a person for the benefit of 1 or more of their past employees:
-    (ii) an employer chooses 33% and the contribution is to a defined benefit fund.
+    (ii) an employer chooses 39% and the contribution is to a defined benefit fund.
 
 ### RD 67B Calculating amounts of tax following changes to rates or thresholds
 When a change occurs to a rate or threshold in this Act or the Tax Administration Act 1994 affecting the amount of tax for an employer’s superannuation cash contribution, the calculation of the amount of tax must be made using the rate applying on—
@@ -41192,7 +41197,7 @@ Calculation of amount
 (2) For the purposes of subsection (1), the amount is the greater of zero and the amount calculated using the formula—RLWT rate × (current purchase price − vendor’s acquisition cost).
 Definition of items in formula
 (3) In the formula in subsection (2),—
-  (a) RLWT rate means the rate provided in schedule 1, part A, clause 1, table 1, row 4 or, if the vendor is a company that is not acting as a trustee, the rate provided in schedule 1, part A, clause 2:
+  (a) RLWT rate means the rate provided in schedule 1, part A, clause 1, table 1, row 5 or, if the vendor is a company that is not acting as a trustee, the rate provided in schedule 1, part A, clause 2:
   (b) current purchase price is the purchase price agreed by the vendor and purchaser for the disposal of the residential land, including deposits and part payments, that the residential land purchase amount relates to:
   (c) vendor’s acquisition cost is the purchase price paid by the vendor for their acquisition of the residential land.
 Calculation of amount
@@ -46850,7 +46855,7 @@ Purpose of schedule
 ## Schedule 1 — Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits
 
 ### 1 Taxable income: general
-To the extent to which a person does not have a basic rate under clauses 2 to 10, the basic rate of income tax for the person on each dollar of the person's taxable income is calculated using the formula—tax under table 1 ÷ taxable income: Table 1This is a small table having 3 columns. The first row is the headings for the columns.RowRange of dollar in taxable incomeTax rate1$0 – $14,0000.1052$14,001 – $48,0000.1753$48,001 – $70,0000.3004$70,001 upwards0.330 How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
+To the extent to which a person does not have a basic rate under clauses 2 to 10, the basic rate of income tax for the person on each dollar of the person's taxable income is calculated using the formula—tax under table 1 ÷ taxable income: Table 1The following table is small in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Range of dollar in taxable income. Column 3 is headed Tax rate.RowRange of dollar in taxable incomeTax rate1$0 – $14,0000.1052$14,001 – $48,0000.1753$48,001 – $70,0000.3004$70,001 – $180,0000.3305$180,001 upwards0.390 How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
   (a) tax under table 1 means the total tax, calculated for each dollar in the person’s taxable income, using table 1:
   (b) taxable income means the number of dollars in the person’s taxable income.
 
@@ -46895,13 +46900,14 @@ The basic rate of income tax on each dollar of taxable income derived by the Cro
 | 1 | $0 – $12,530 | 0.1173 |
 | 2 | $12,531 – $40,580 | 0.2121 |
 | 3 | $40,581 – $55,980 | 0.4286 |
-| 4 | $55,981 upwards | 0.4925 |
+| 4 | $55,981 – $129,680 | 0.4925 |
+| 5 | $129,681 upwards | 0.6393 |
 
 | How to use this table:Find the range in the second column for each dollar in the person's all-inclusive pay under section RD 51, and apply the relevant rate for the dollar in the third column. |
 | --- |
 
 ### 1 Amount of tax for section RD 67(a)
-For the purposes of section RD 67(a), the amount of tax is determined by applying the relevant rate given by table 1 to each dollar of an employer’s superannuation contribution. Table 1This is a small table having 3 columns. The first row is the headings for the columns.RowESCT rate threshold amountTax rate1$0 – $16,8000.1052$16,801 – $57,6000.1753$57,601 – $84,0000.3004$84,001 upwards0.330 How to use this table:Find the range in the second column for the last dollar of the ESCT rate threshold amount, and apply the relevant rate in the third column.
+For the purposes of section RD 67(a), the amount of tax is determined by applying the relevant rate given by table 1 to each dollar of an employer’s superannuation contribution. Table 1The following table is small in size and has 3 columns. Column 1 is headed Row. Column 2 is headed ESCT rate threshold amount. Column 3 is headed Tax rate.RowESCT rate threshold amountTax rate1$0 – $16,8000.1052$16,801 – $57,6000.1753$57,601 – $84,0000.3004$84,001 – $216,0000.3305$216,001 upwards0.390 How to use this table:Find the range in the second column for the last dollar of the ESCT rate threshold amount, and apply the relevant rate in the third column.
 
 ### 2 Amount of tax for section RD 67(b)
 [Repealed]
@@ -46952,17 +46958,19 @@ If clause 4 does not apply, the payment rate for a payment of resident passive i
 The payment rate for a payment of resident passive income that consists of a dividend, or a replacement payment under a share-lending arrangement, is 0.33.
 
 ### 6 Taxable Maori authority distributions
-The payment rate for a payment of resident passive income that consists of a taxable Maori authority distribution is set out in table 4. Table 4This is a small table having 3 columns. The first row is the headings for the columns. The entries in column 2 have more than 1 line of text and 1 has paragraphs and subparagraphs. The entries in column 3 are on the same line as the last line of the entry in column 2.RowConditionsPayment rate1The Maori authority makes a taxable Maori authority distribution and does not meet the condition for the 0.33 payment rate in row 2.0.1752The Maori authority:0.33 How to use this table:Find the applicable condition, in the middle column, in order to find the relevant rate to apply, in the right column.
+The payment rate for a payment of resident passive income that consists of a taxable Maori authority distribution is set out in table 4. Table 4This is a small table having 3 columns. The first row is the headings for the columns. The entries in column 2 have more than 1 line of text and 1 has paragraphs and subparagraphs. The entries in column 3 are on the same line as the last line of the entry in column 2.RowConditionsPayment rate1The Maori authority makes a taxable Maori authority distribution and does not meet the condition for the 0.390 payment rate in row 2.0.1752The Maori authority:0.390 How to use this table:Find the applicable condition, in the middle column, in order to find the relevant rate to apply, in the right column.
   (a) makes a taxable Maori authority distribution that is more than $200; and
   (b) does not have a record of the tax file number of the member to whom the distribution is made.
 
 ### 7 Retirement scheme contributions
-The payment rate for an amount of a retirement scheme contribution made by a retirement scheme contributor for a person is set out in table 5. Table 5This is a small table having 3 columns. The first row is the headings for the columns. The entries in column 2 have more than 1 line of text and several have paragraphs. The entries in column 3 are on the same line as the last line of the entry in column 2.RowConditionsPayment rate1The person responsible for withholding RSCT—0.1052The person is a non-resident and a distribution of no more than $200 is made to them by a retirement scheme contributor that is a Maori authority.0.1053The person responsible for withholding RSCT—0.1754The person responsible for withholding RSCT—0.3005When none of rows 1 to 4 apply.0.330 How to use this table:Find the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
-  (a) has been notified under section 28C of the Tax Administration Act 1994 that 12.5 or 10.5 cents in the dollar is the person's retirement scheme prescribed rate; and
+The payment rate for an amount of a retirement scheme contribution made by a retirement scheme contributor for a person is set out in table 5. Table 5The following table is small in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Conditions. Column 3 is headed Payment rate.RowConditionsPayment rate1The person responsible for withholding RSCT—0.1052The person is a non-resident and a distribution of no more than $200 is made to them by a retirement scheme contributor that is a Maori authority.0.1053The person responsible for withholding RSCT—0.1754The person responsible for withholding RSCT—0.3005The person responsible for withholding RSCT—0.3306When none of rows 1 to 5 apply.0.390 How to use this table:Find the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
+  (a) has been notified under section 28C of the Tax Administration Act 1994 that 10.5 cents in the dollar is the person's retirement scheme prescribed rate; and
   (b) has been supplied with the tax file number of the person.
-  (a) has been notified under section 28C of the Tax Administration Act 1994 that 21 or 17.5 cents in the dollar is equal to or greater than the person's retirement scheme prescribed rate; and
+  (a) has been notified under section 28C of the Tax Administration Act 1994 that 17.5 cents in the dollar is equal to or greater than the person's retirement scheme prescribed rate; and
   (b) has been supplied with the tax file number of the person.
-  (a) has been notified under section 28C of the Tax Administration Act 1994 that 33 or 30 cents in the dollar is equal to or greater than the person's retirement scheme prescribed rate; and
+  (a) has been notified under section 28C of the Tax Administration Act 1994 that 30 cents in the dollar is equal to or greater than the person's retirement scheme prescribed rate; and
+  (b) has been supplied with the tax file number of the person.
+  (a) has been notified under section 28C of the Tax Administration Act 1994 that 33 cents in the dollar is equal to or greater than the person's retirement scheme prescribed rate; and
   (b) has been supplied with the tax file number of the person.
 
 ## Schedule 2 — Basic tax rates for PAYE income payments
@@ -46990,6 +46998,9 @@ If an employee has notified their employer that the employee’s tax code is SH 
 ### 6 ST tax code
 If an employee has notified their employer that the employee’s tax code is ST under section 24C of the Tax Administration Act 1994, the basic tax rate amount for a payment of secondary employment earnings is set by applying the rate of 0.330 for each dollar of the payment.
 
+### 6B “SA” tax code
+If an employee has notified their employer that the employee’s tax code is “SA” under section 24C of the Tax Administration Act 1994, the basic tax rate amount for a payment of secondary employment earnings is set by applying the rate of 0.390 for each dollar of the payment.
+
 ### 7 CAE or EDW tax code
 If an employee has notified their employer that the employee’s tax code is CAE or EDW under section 24C of the Tax Administration Act 1994, the basic tax rate amount for a payment for employment as a casual agricultural employee or an election day worker (as applicable) is set by applying the rate of 0.175 for each dollar of the payment.
 
@@ -47001,12 +47012,13 @@ If an employee has notified their employer that the employee's tax code is SB un
 
 | Row | Condition | Tax rate |
 | --- | --- | --- |
-| 1 | Section RD 17(2)﻿(a) applies and the sum is $14,000 or less. | 0.105 |
-| 1B | Section RD 10(2C) applies. | 0.105 |
-| 2 | Section RD 10(2)﻿(a) or RD 17(2)﻿(b) applies. | 0.175 |
-| 3 | Section RD 10(2)﻿(b) or RD 17(2)﻿(c) applies. | 0.300 |
-| 4 | Section RD 10(2)﻿(c) or RD 17(2)﻿(d) applies. | 0.330 |
-| 5 | Section RD 10(2D) applies. | 0.450 |
+| 1 | Section RD 10(2C) applies. | 0.105 |
+| 2 | Section RD 17(2)﻿(a) applies and the sum is $14,000 or less. | 0.105 |
+| 3 | Section RD 10(2)﻿(a) or RD 17(2)﻿(b) applies. | 0.175 |
+| 4 | Section RD 10(2)﻿(b) or RD 17(2)﻿(c) applies. | 0.300 |
+| 5 | Section RD 10(2)﻿(c) or RD 17(2)﻿(d) applies. | 0.330 |
+| 6 | Section RD 10(2)﻿(d) or RD 17(2)﻿(e) applies. | 0.390 |
+| 7 | Section RD 10(2D) applies. | 0.450 |
 
 | How to use this table:Find the applicable condition in the second column, in order to find the relevant rate to apply, in the third column. |
 | --- |
@@ -47363,7 +47375,7 @@ The prescribed investor rate for a person who is an investor in a multi-rate PIE
 A foreign investment variable-rate PIE must apply the prescribed investor rates set out in table 1B in relation to income attributed to notified foreign investors in the PIE. Table 1BThis is a small table having 3 columns. The first row is the headings for the columns. Most of the entries in column 2 have more than 1 line of text. The entries in column 3 are on the same line as the last line of the entry in column 2.RowAmountsPrescribed rate1To the extent to which it is not fully imputed, a dividend derived from a company resident in New Zealand attributed to an investor who does not reside in a country with which New Zealand has a double tax agreement that provides a rate for withholding an amount of NRWT for dividends that is less than that provided by section RF 8(2).0.30002An amount other than an amount referred to in rows 1, 3 to 7, and 9 that has a source in New Zealand.0.28003To the extent to which it is not fully imputed, a dividend derived from a company resident in New Zealand attributed to an investor who resides in a country with which New Zealand has a double tax agreement that provides a rate for withholding an amount of NRWT for dividends that is less than that provided by section RF 8(2).0.15004A fully imputed dividend derived from a company resident in New Zealand in relation to which a supplementary dividend is paid.0.15005A supplementary dividend.0.15006Interest derived under a financial arrangement, being an amount referred to in the definition of interest, paragraph (a) or (b), that has a source in New Zealand and is of an amount calculated under subpart EW.0.01447A fully imputed dividend derived from a company resident in New Zealand, other than a dividend in relation to which a supplementary dividend is paid.0.00008A foreign-sourced amount.0.00009An amount derived under a financial arrangement that has a source in New Zealand other than an amount of interest referred to in row 6.0.0000
 
 ### 2 Retirement scheme contributions
-The retirement scheme prescribed rate for a person in relation to a retirement scheme contribution made for them is set out in table 2. Table 2This is a small table having 3 columns. The first row is the headings for the columns. Most of the entries in column 2 have more than 1 line of text. The entries in column 3 are on the same line as the last line of the entry in column 2.RowConditionsPrescribed rate1For a person other than a person described in any of rows 2 to 7.0.3302For a person who, in either of the 2 income years before the income year in which the contribution is made, derives more than $48,000 but not more than $70,000 in taxable income.0.3003For a person who is not a person described in row 2 and who, in either of the 2 income years before the income year in which the contribution is made, derives more than $14,000 but not more than $48,000 in taxable income.0.1754For a person who is not a person described in row 2 or 3 and who, in either of the 2 income years before the income year in which the contribution is made, derives taxable income of $14,000 or less.0.1055For a non-resident person to whom a distribution of no more than $200 is made by a retirement scheme contributor that is a Maori authority.0.1056For a non-resident person who supplies a retirement scheme contributor that is a Maori authority with a notice under section 28C of the Tax Administration Act 1994.0.1057For a non-resident person in relation to a contribution that consists of non-resident passive income.0.000 How to use this tableFind the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
+The retirement scheme prescribed rate for a person in relation to a retirement scheme contribution made for them is set out in table 2. Table 2The following table is small in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Condition. Column 3 is headed Prescribed rate.RowConditionsPrescribed rate1For a person other than a person described in any of rows 2 to 8.0.3902For a person who, in either of the 2 income years before the income year in which the contribution is made, derives more than $70,000 but not more than $180,000 in taxable income.0.3303For a person who is not a person described in row 2 and who, in either of the 2 income years before the income year in which the contribution is made, derives more than $48,000 but not more than $70,000 in taxable income.0.3004For a person who is not a person described in row 2 or 3 and who, in either of the 2 income years before the income year in which the contribution is made, derives more than $14,000 but not more than $48,000 in taxable income.0.1755For a person who is not a person described in row 2, 3, or 4 and who, in either of the 2 income years before the income year in which the contribution is made, derives taxable income of $14,000 or less.0.1056For a non-resident person to whom a distribution of no more than $200 is made by a retirement scheme contributor that is a Maori authority.0.1057For a non-resident person who supplies a retirement scheme contributor that is a Maori authority with a notice under section 28C of the Tax Administration Act 1994.0.1058For a non-resident person in relation to a contribution that consists of non-resident passive income.0.000 How to use this tableFind the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
 
 ## Schedule 10 — Straight-line equivalents of diminishing value rates of depreciation
 
