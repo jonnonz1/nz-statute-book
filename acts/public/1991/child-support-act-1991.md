@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2021-03-24_
+_Consolidation as at 2021-04-01_
 
 > Title
 
@@ -366,7 +366,8 @@ The objects of this Act are—
 (1) A liable parent ceases to be liable to pay child support in respect of a qualifying child under a formula assessment on the day before the date on which the child—
   (a) ceases to be a qualifying child; or
   (b) is adopted; or
-  (c) dies.
+  (c) dies; or
+  (d) in any case to which section 8(2) applied, ceases to be a child in respect of whom payments are required to be made under section 363 of the Oranga Tamariki Act 1989.
 (2) A liable parent ceases to be liable to pay child support under a formula assessment on the day the parent ceases to be a liable parent under section 17, or on the day before the date on which the parent—
   (a) becomes a person who is none of the following:
     (i) a New Zealand citizen:
@@ -380,7 +381,7 @@ The objects of this Act are—
     (ii) the day before the date on which a properly completed application for formula assessment is received by the Commissioner from a carer in place of the carer who has died:
   (b) the day before the date on which the receiving carer ceases to provide at least 35% of ongoing daily care to the child:
   (c) the day before the date on which the receiving carer starts to live, or resumes living, with the liable parent of the child in a marriage, civil union, or de facto relationship:
-  (d) in any case to which section 8(2) applies, the day before the date on which the carer ceases to be under a duty to make payments under section 363 of the Oranga Tamariki Act 1989 in respect of the child:
+  (d)
   (e)
   (f) in a case where a voluntary agreement made in relation to the child between the liable parent and the carer is accepted by the Commissioner, the day before the date on which that voluntary agreement first applies, in accordance with section 59.
 (4) Subsection (5) applies if the Commissioner accepts an election under section 27 to end a formula assessment as it applies in respect of a qualifying child.
@@ -496,11 +497,11 @@ A parent's income percentage, in relation to a qualifying child, is the percenta
 
 ### 35A Living allowance
 (1) A parent's living allowance in a child support year is the appropriate amount referred to in subsection (2)—
-  (a) increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net, rate (as determined in accordance with section RD 11(3) of the Income Tax Act 2007); and
+  (a) increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net, rate (as determined as at 1 January in the immediately preceding child support year, in accordance with section RD 11(3) of the Income Tax Act 2007); and
   (b) annualised.
 (2) The amount of living allowance is as follows:
   (a) for a person not identified in paragraph (b), the rate set out in clause 1 of Part 2 of Schedule 4 of the Social Security Act 2018 (ignoring the reference to Income Test 1):
-  (b) for a person granted a supported living payment under subpart 4 of Part 2 of the Social Security Act 2018, special assistance under the COVID-19 New Zealanders Stranded Overseas Support Programme that corresponds to such a payment, or both, the rate set out in clause 1(c) of Part 3 of Schedule 4 of that Act (ignoring the reference to Income Test 1).
+  (b) for a person granted a supported living payment under subpart 4 of Part 2 of the Social Security Act 2018 who is, for the purposes of that benefit, a single beneficiary with 1 or more dependent children, special assistance under the COVID-19 New Zealanders Stranded Overseas Support Programme that corresponds to such a payment, or both, the rate set out in clause 1(c) of Part 3 of Schedule 4 of that Act (ignoring the reference to Income Test 1).
 (3) The version of the appropriate schedule of the Social Security Act 2018 that applies in a child support year is the version in force on 1 January in the immediately preceding child support year.
 (4) The Commissioner must ensure that notice of the applicable living allowances under this section that apply to the current and (if applicable) the previous child support year is available at all reasonable times on an Internet site maintained by or on behalf of the Inland Revenue Department.
 
@@ -1137,7 +1138,7 @@ In this Part, unless the context otherwise requires,—
   - **exempted person** means a person who has, under this Part, been exempted from the payment of financial support
   - **hospital patient** means a person who is, for the time being,—
     (a) a patient in a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001; or
-    (b) a patient within the meaning of the Substance Addiction (Compulsory Assessment and Treatment) Act 2017
+    (b) a resident in a treatment centre within the meaning of the Substance Addiction (Compulsory Assessment and Treatment) Act 2017; or
   - **income** —
     (a) has the same meaning as in section YA 1 of the Income Tax Act 2007; and
     (b) includes gross income (within the meaning of section OB 1 of the Income Tax Act 1994 and the Income Tax Act 2004) and assessable income (within the meaning of the Income Tax Act 1976)
@@ -1416,7 +1417,7 @@ The Commissioner may, under this subpart, make a determination expressed to be r
 (3) However, the period of exemption may commence on a day determined by the Commissioner that is earlier than the day on which the Commissioner received the application for exemption if the Commissioner is satisfied that it is—
   (a) just and equitable as regards the child, the receiving carer, the liable parent, and any other child, carer, or parent that may be affected by the Commissioner’s decision; and
   (b) otherwise proper.
-(4) The Commissioner may, for the purpose of determining whether a person is eligible for an exemption under this section, obtain information from the Ministry of Justice, the New Zealand Police, or both in accordance with section 85K of the Tax Administration Act 1994.
+(4) The Commissioner may, for the purpose of determining whether a person is eligible for an exemption under this section, obtain information from the Ministry of Justice, the New Zealand Police, or both in accordance with section 18H of the Tax Administration Act 1994.
 
 ### 89ZA Exemption is void in certain circumstances
 (1) An exemption granted under section 89Z(1) is void from the beginning if,—
@@ -2140,15 +2141,10 @@ The Commissioner shall, as soon as practicable, take such action as is necessary
   (b) a ground of the appeal is that the person was not a parent of the child; and
   (c) there is not a final decision of a court determining that ground of the appeal.
 
-**Urgent maintenance orders and suspension orders**
+**Suspension orders**
 
 ### 116 Urgent maintenance orders
-(1) Where, at any time after an application has been made to the Commissioner for formula assessment of child support for a child (whether or not the Commissioner has accepted or refused to accept the application), the Family Court is of the opinion that the child is in urgent need of financial assistance, the court may order the payment of such periodic or other amount towards the maintenance of the child as the court considers appropriate.
-(2) An order under subsection (1) has effect for such period as is specified in the order, other than a period that ends after—
-  (a) the final determination under this Act that child support is not payable for the child; or
-  (b) if a determination is made under this Act that child support is payable for the child, the receipt by the carer of, or on account of, the first payment of such child support.
-(3) A proceeding under this section may be instituted by a carer who has applied for formula assessment of child support (other than a carer who is a social security beneficiary), against the person from whom the application sought payment of child support.
-(4) The Commissioner shall, as soon as practicable, take such action as is necessary to give effect to any order made under this section.
+[Repealed]
 
 ### 117 Suspension orders
 (1) Where a proceeding has been instituted in the Family Court or an objection has been made under Part 6, a party to the proceeding may apply to the court for an order under this section.
@@ -2290,30 +2286,20 @@ Where any person who is required to pay financial support under this Act is in r
 (2) This section does not apply in respect of an amended assessment to which the provisions of section 87(6) apply.
 
 ### 134 Penalties for late payment of financial support debts
-Late payment penalties (initial and incremental)
-(1) A person liable to pay a financial support debt (whether that debt is incurred before, on, or after 1 April 2016) is liable to pay to the Commissioner a penalty of the amount stated in subsection (2), (3), (4), (5), or (6) if—
+Late payment penalties
+(1) A person liable to pay a financial support debt (whether that debt is incurred before, on, or after 1 April 2016) is liable to pay to the Commissioner a penalty of the amount stated in subsection (2) or (3) if—
   (a) the time stated in that subsection (which is a time after the time at which all of the debt became due and payable) occurs on or after 1 April 2016; and
   (b) at the time stated in that subsection, some or all of the debt remains unpaid.
-Initial late payment penalty: due date
-(2) At the expiry of the due date, the penalty is the greater of the following amounts:
-  (a) the amount of $5; and
-  (b) an amount equal to 2% of the amount of financial support remaining unpaid at the expiry of the due date.
-Initial late payment penalty: seventh day after due date
-(3) At the expiry of the seventh day after the due date, the penalty is an amount equal to 8% of so much (if any) of the amount of financial support (excluding the penalty imposed under subsection (2)) remaining unpaid at that expiry.
+Late payment penalty: due date
+(2) At the expiry of the due date, the penalty is an amount equal to 2% of the amount of financial support remaining unpaid at the expiry of the due date.
+Late payment penalty: 27th day after due date
+(3) At the expiry of the 27th day after the due date, the penalty is an amount equal to 8% of so much (if any) of the amount of financial support (excluding the penalty imposed under subsection (2)) remaining unpaid at that expiry.
 Incremental late payment penalty: first month after due date
-(4) At the expiry of the period of 1 month that starts on the day after the due date, the penalty is an amount equal to 2% of so much (if any) of the sum of the following as remains unpaid at that expiry:
-  (a) the amount of financial support remaining unpaid at the expiry of the due date:
-  (b) all penalties, if any, imposed under either of subsections (2) and (3).
+(4)
 Incremental late payment penalty: first 11 later months
-(5) At the expiry of each of the first 11 periods of 1 month (if any) that, consecutively, follow the 1-month period referred to in subsection (4), the penalty is an amount equal to 2% of so much (if any) of the sum of the following as remains unpaid at that expiry:
-  (a) the amount of financial support remaining unpaid at the expiry of the due date:
-  (b) all penalties, if any, imposed under any of subsections (2) to (4):
-  (c) all penalties, if any, earlier imposed under this subsection.
+(5)
 Incremental late payment penalty: months after 1 year
-(6) At the expiry of each of the periods of 1 month (if any) that, consecutively, follow the last of the 11 periods of 1 month referred to in subsection (5), the penalty is an amount equal to 1% of so much (if any) of the sum of the following as remains unpaid at that expiry:
-  (a) the amount of financial support remaining unpaid at the expiry of the due date:
-  (b) all penalties, if any, imposed under any of subsections (2) to (5):
-  (c) all penalties, if any, earlier imposed under this subsection.
+(6)
 
 ### 134A Status of penalties under section 134
 A penalty payable under section 134—
@@ -2321,19 +2307,14 @@ A penalty payable under section 134—
   (b) must for all purposes (except the purposes of Part 9) be treated as, and is accordingly recoverable as if it were, of the same nature as the amount in respect of which it was imposed.
 
 ### 134B Act's provisions on liable person's financial support debt also apply to payees' debts arising from overpayments
-This Act's provisions on a liable person's financial support debt (including, without limitation, sections 134 and 135 to 135N) also apply, in accordance with sections 151(2) and 151AA(5) and (6), to payees' debts arising from overpayments.
+This Act's provisions on a liable person's financial support debt (including, without limitation, sections 134 and 135 to 135G) also apply, in accordance with sections 151(2) and 151AA(5) and (6), to payees' debts arising from overpayments.
 
 **Interpretation provision relating to relief from penalties**
 
-### 135 Interpretation for purposes of sections 135AA to 135O
-For the purposes of sections 135A to 135O, unless the context otherwise requires,—
-  - **incremental penalty** means a penalty that is imposed—
-    (a) before 1 April 2016 under section 134(1)﻿(b) or (c) (as repealed by the Child Support Amendment Act 2013); or
-    (b) on or after 1 April 2016 under section 134(4), (5), or (6) (as substituted by the Child Support Amendment Act 2013)
-  - **initial late payment penalty** means a penalty that is imposed—
-    (a) before 1 April 2016 under section 134(1)﻿(a) (as repealed by the Child Support Amendment Act 2013); or
-    (b) on or after 1 April 2016 under section 134(2) or (3) (as substituted by the Child Support Amendment Act 2013)
-  - **penalty** means a penalty that is imposed under section 134.
+### 135 Interpretation for purposes of sections 135A to 135G
+For the purposes of sections 135A to 135G, unless the context otherwise requires,—
+  - **penalty** means a penalty that is imposed under section 134, excluding a pre-2021 penalty
+  - **pre-2021 penalty** means a penalty that is imposed under section 134 before 1 April 2021.
 
 **Sufficient reason for declining to enter into or make payment agreement**
 
@@ -2346,13 +2327,16 @@ For the purposes of sections 135A to 135O, unless the context otherwise requires
   (b) ceasing, because of further information available to the Commissioner, to be satisfied of either or both of those matters.
 (3) For the purposes of section 96 (which identifies matters with respect to which Part 6 does not confer any right of objection), the Commissioner's decision whether to enter into or make a payment agreement is a matter left by this section to the discretion of the Commissioner.
 
-**Discretionary relief in respect of penalties**
+**Discretionary relief in respect of penalties and pre-2021 penalties**
 
-### 135A Application of sections 135B to 135GA
-(1) Sections 135B to 135GA apply in relation to a penalty that is payable by a liable person in relation to a financial support debt.
-(2) The Commissioner may grant relief to a liable person on any of the grounds specified in sections 135B to 135GA by—
-  (a) writing off the whole or part of a penalty; or
-  (b) if a penalty has been paid, in whole or in part, refunding to the liable person the whole or any part of that penalty that has been paid, with or without the writing off of any part of that penalty that has not been paid.
+### 135A Application of sections 135AB to 135G
+(1) Sections 135AB to 135G apply in relation to a penalty or pre-2021 penalty that is payable by a liable person in relation to a financial support debt.
+(2) The Commissioner may grant relief to a liable person on any of the grounds specified in sections 135AB to 135G by—
+  (a) writing off the whole or part of a penalty or pre-2021 penalty; or
+  (b) if a penalty or pre-2021 penalty has been paid, in whole or in part, refunding to the liable person the whole or any part of that penalty or pre-2021 penalty that has been paid, with or without the writing off of any part of that penalty or pre-2021 penalty that has not been paid.
+
+### 135AB Discretionary relief for pre-2021 penalties
+The Commissioner may grant relief to a liable person from the payment of pre-2021 penalties in the manner prescribed by section 135A if the Commissioner is satisfied that it would be fair and reasonable to do so.
 
 ### 135B Discretionary relief if reasonable cause
 (1) The Commissioner may grant relief to a liable person in the manner prescribed by section 135A if the Commissioner is satisfied that—
@@ -2374,6 +2358,10 @@ The Commissioner may grant relief to a liable person in the manner prescribed by
   (b) the liable person has no history of default in previous payments of financial support; and
   (c) the liable person paid the debt as soon as he or she became aware of the oversight.
 
+### 135DA Discretionary relief if recovery is inefficient use of Commissioner’s resources
+(1) This section applies in relation to penalties that have been imposed in respect of any part of the benefit component of an amount of child support that has been written off by the Commissioner under section 180A(1)﻿(b)﻿(ii) on the ground that recovery would involve an inefficient use of the Commissioner’s resources.
+(2) The Commissioner may grant relief to a liable person in the manner prescribed by section 135A if the Commissioner is satisfied that recovery of the penalties would involve an inefficient use of the Commissioner’s resources.
+
 ### 135E Discretionary relief if error made by Department
 The Commissioner may grant relief to a liable person in the manner prescribed by section 135A if the Commissioner is satisfied that—
   (a) the delay in payment of the debt to which a penalty relates was due to an error made by an officer of the Department; and
@@ -2388,24 +2376,12 @@ The Commissioner may grant relief to a liable person in the manner prescribed by
   (b) it would be fair and reasonable to grant relief.
 
 ### 135FA Discretionary relief from incremental penalties unpaid before agreement entered into on or after 1 April 2016
-(1) For the purposes of this section,—
-  - **initial debt** , in relation to a payment agreement, means the amount the liable person owes at the time that the agreement is entered into in respect of financial support and initial late payment penalties
-  - **payment agreement** means an agreement entered into on or after 1 April 2016 between a liable person and the Commissioner that requires the liable person to pay, in 1 sum or 2 or more instalments of specified amounts,—
-    (a) the amount of the initial debt; and
-    (b) the amount of financial support (if any) that the person will become liable to pay during the term of the payment agreement.
-(2) The Commissioner may grant relief to the liable person in the manner prescribed by section 135A in respect of the incremental penalties of the liable person that were unpaid at the time a payment agreement was entered into if the Commissioner is satisfied—
-  (a) that recovery of those incremental penalties would place the liable person in serious hardship (as defined in section 135G(3)); or
-  (b) that it would be fair and reasonable to grant relief.
-(3) Before making a decision under subsection (2)﻿(a), the Commissioner must have regard to the matters referred to in sections 6 and 6A of the Tax Administration Act 1994.
+[Repealed]
 
-### 135G Discretionary relief from payment of incremental penalties
-(1) The Commissioner may grant relief to a liable person from the payment of incremental penalties in the manner prescribed by section 135A if—
-  (a) the liable person has paid some or all of the financial support debt and initial late payment penalties to which the incremental penalties relate; and
-  (b) the Commissioner is satisfied—
-    (i) that recovery of the incremental penalties would place the liable person in serious hardship; or
-    (ii) that it would be fair and reasonable to grant relief.
-(2) Before making a decision under subsection (1)﻿(b)﻿(i), the Commissioner must have regard to the matters referred to in sections 6 and 6A of the Tax Administration Act 1994.
-(3) In this section and sections 135GA and 180A(1)﻿(b)﻿(i),—
+### 135G Discretionary relief if serious hardship
+(1) The Commissioner may grant relief to a liable person from the payment of penalties in the manner prescribed by section 135A if the Commissioner is satisfied that recovery of the penalties would place the liable person in serious hardship.
+(2) Before making a decision under subsection (1), the Commissioner must have regard to the matters referred to in sections 6 and 6A of the Tax Administration Act 1994.
+(3) In this section and section 180A(1)﻿(b)﻿(i),—
   - **serious hardship** , in relation to a liable person,—
     (a) includes significant financial difficulties that arise because of—
       (i) the liable person's inability to meet minimum living expenses according to normal community standards; or
@@ -2419,184 +2395,43 @@ The Commissioner may grant relief to a liable person in the manner prescribed by
       (iv) the liable person is unable to afford goods or services that are expensive or of a high quality or standard according to normal community standards.
 
 ### 135GA Discretionary relief for residual penalty-only debt
-(1) The Commissioner may grant relief to a liable person from the payment of initial late payment penalties or incremental penalties or both in the manner prescribed by section 135A if—
-  (a) the liable person has paid, or had written off in accordance with this Act, all of the liable person's financial support debt; and
-  (b) the Commissioner is satisfied—
-    (i) that recovery of those penalties would place the liable person in serious hardship (as defined in section 135G(3)); or
-    (ii) that it would be fair and reasonable to grant relief.
-(2) The Commissioner may grant relief to a liable person from the payment of initial late payment penalties or incremental penalties or both in the manner prescribed by section 135A if—
-  (a) the Commissioner has under section 180A written off some or all of the benefit component of an amount of child support (as defined in section 180A(2)) that is payable by the liable person to the Crown under this Act; and
-  (b) the Commissioner is satisfied that those penalties relate to, or arise from, some or all of that written-off benefit component; and
-  (c) the Commissioner is satisfied—
-    (i) that recovery of those penalties would place the liable person in serious hardship (as defined in section 135G(3)); or
-    (ii) that it would be fair and reasonable to grant relief.
-(3) Before making a decision under subsection (1)﻿(b)﻿(i) or (2)﻿(c)﻿(i), the Commissioner must have regard to the matters referred to in sections 6 and 6A of the Tax Administration Act 1994.
+[Repealed]
 
 **Mandatory relief in respect of initial late payment penalty**
 
 ### 135GB Relief from initial late payment penalty if full or substantial compliance with payment arrangement entered into or made on or after 1 April 2016 and within 3-month period
-(1) The Commissioner must write off an initial late payment penalty if satisfied that—
-  (a) that penalty was imposed in respect of a debt that is or includes the first payment of financial support payable by the liable person under a formula assessment, voluntary agreement, or order of the court issued or made before, on, or after 1 April 2016; and
-  (b) a payment arrangement was entered into or made on or after 1 April 2016 and within the 3 months that began on the date of issue or making of the assessment, agreement, or order under which that first payment is payable, and has been fully or substantially complied with in accordance with subsection (5).
-(2) The payment arrangement referred to in subsection (1)﻿(b) must be a payment agreement specified in subsection (3) or a deduction notice specified in subsection (4).
-(3) The payment agreement is one that the liable person entered into with the Commissioner to pay, in 1 sum or 2 or more instalments of specified amounts,—
-  (a) the first payment mentioned in subsection (1)﻿(a); and
-  (b) other payments of financial support that were or would become payable (under the assessment, agreement, or order mentioned in subsection (1)﻿(a), or any other assessment, voluntary agreement, or order of the court) by the liable person.
-(4) The deduction notice is one that the Commissioner gave a person under section 154 in relation to the liable person in order to collect, in 1 sum or 2 or more deductions and payments,—
-  (a) the first payment mentioned in subsection (1)﻿(a); and
-  (b) other payments of financial support that were or would become payable (under the assessment, agreement, or order mentioned in subsection (1)﻿(a) or any other assessment, voluntary agreement, or order of the court) by the liable person.
-(5) The payment arrangement referred to in subsection (1)﻿(b) has been fully or substantially complied with in accordance with this subsection if the arrangement has operated for a period that the Commissioner considers reasonable and—
-  (a) it is a payment agreement, and to date there has been either no default in the payment in accordance with that agreement of the 1 sum, or every one of the 2 or more instalments, specified in subsection (3), or only default of that kind to an extent, or arising from a cause, that the Commissioner considers reasonable; or
-  (b) it is a deduction notice, and to date there has been either no default in the making in accordance with that notice of every one of the 2 or more deductions and payments specified in subsection (4), or only default of that kind to an extent, or arising from a cause, that the Commissioner considers reasonable.
-(6) If an initial late payment penalty written off under subsection (1) has been paid in whole or in part, the Commissioner must refund to the liable person the whole or part of the penalty paid.
+[Repealed]
 
 ### 135H Relief from initial late payment penalty if full compliance with payment arrangement entered into or made before 1 April 2016 and within 3-month period
-(1) The Commissioner must write off an initial late payment penalty if satisfied that—
-  (a) that penalty was imposed in respect of a debt that is or includes the first payment of financial support payable by the liable person under a formula assessment, voluntary agreement, or order of the court issued or made before, on, or after 1 April 2016; and
-  (b) a payment arrangement was entered into or made on or after 26 September 2006 and before 1 April 2016 and within the 3 months that began on the date of issue or making of the assessment, agreement, or order under which that first payment is payable, and has been fully complied with in accordance with subsection (5).
-(2) The payment arrangement referred to in subsection (1)﻿(b) must be a payment agreement specified in subsection (3) or a deduction notice specified in subsection (4).
-(3) The payment agreement is one that the liable person entered into with the Commissioner to pay, in 1 sum or 2 or more instalments of specified amounts,—
-  (a) the first payment mentioned in subsection (1)﻿(a); and
-  (b) other payments of financial support that were or would become payable (under the assessment, agreement, or order mentioned in subsection (1)﻿(a), or any other assessment, voluntary agreement, or order of the court) by the liable person.
-(4) The deduction notice is one that the Commissioner gave a person under section 154 in relation to the liable person in order to collect, in 1 sum or 2 or more deductions and payments,—
-  (a) the first payment mentioned in subsection (1)﻿(a); and
-  (b) other payments of financial support that were or would become payable (under the assessment, agreement, or order mentioned in subsection (1)﻿(a) or any other assessment, voluntary agreement, or order of the court) by the liable person.
-(5) The payment arrangement referred to in subsection (1)﻿(b) has been fully complied with in accordance with this subsection if—
-  (a) it is a payment agreement, and the 1 sum, or every one of the 2 or more instalments, specified in subsection (3) is paid in full in accordance with that agreement; or
-  (b) it is a deduction notice, and every one of the 2 or more deductions and payments specified in subsection (4) is made in accordance with that notice.
-(6) If an initial late payment penalty written off under subsection (1) has been paid in whole or in part, the Commissioner must refund to the liable person the whole or part of the penalty paid.
+[Repealed]
 
 ### 135I Relief from initial late payment penalty if minimum amount
-(1) The Commissioner must write off an initial late payment penalty in relation to a financial support debt if the Commissioner is satisfied that—
-  (a) the amount of the penalty is no more than $5; and
-  (b) the amount of the financial support debt that the penalty relates to is less than the amount of the penalty; and
-  (c) the liable person does not have a history of default in previous payments of financial support.
-(2) If an initial late payment penalty is written off under this section, and that penalty has been paid in whole or in part, the Commissioner must refund to the liable person the whole or part of the initial late payment penalty that has been paid.
+[Repealed]
 
 **Mandatory relief in respect of incremental penalties**
 
 ### 135J Relief from incremental penalties unpaid before agreement entered into on or after 26 September 2006
-(1) For the purposes of this section,—
-  - **initial debt** , in relation to a payment agreement, means the amount the liable person owes at the time that the agreement is entered into in respect of financial support and related initial late payment penalties
-  - **payment agreement** means an agreement entered into on or after 26 September 2006 between a liable person and the Commissioner that requires the liable person to pay, in 1 sum or 2 or more instalments of specified amounts,—
-    (a) the amount of the initial debt; and
-    (b) the amount of financial support (if any) that the person will become liable to pay during the term of the payment agreement
-  - **review date** means—
-    (a) the day that is 26 weeks after the date that the liable person enters into the payment agreement; and
-    (b) each of the days on which there expire periods of 26 weeks that consecutively succeed the first period of 26 weeks described in paragraph (a); and
-    (c) the day on which the payment agreement expires.
-(2) If a liable person has entered into a payment agreement, and the person has complied with the payment agreement up until a particular review date in accordance with subsection (3), the Commissioner must, on that review date,—
-  (a) review the incremental penalties in relation to the initial debt of the liable person that were unpaid at the time the payment agreement was entered into; and
-  (b) write off those penalties proportionally in accordance with subsection (4).
-(3) For the purposes of subsection (2), a person has complied with the payment agreement up until a particular review date if—
-  (a) the person has paid every instalment in full that has fallen due in accordance with the agreement; or
-  (b) in the case of an agreement to pay 1 sum only, the person has paid that sum in accordance with the agreement.
-(4) For the purposes of subsection (2), the proportion of incremental penalties that must be written off must be calculated in accordance with the following formula:r = (a × c ÷ b) − dwhere—
-  (r) is the amount of incremental penalty that is to be written off
-  (a) is the total amount of the initial debt that has been paid since the payment agreement was entered into
-  (b) is the initial debt
-  (c) is the total amount of incremental penalties related to the initial debt of the liable person that were unpaid at the time that the payment agreement was entered into
-  (d) is the total amount of incremental penalties related to the initial debt of the liable person that have already been written off in accordance with this section since the payment agreement was entered into.
-(5) If an incremental penalty that is written off under this section has been paid in whole or in part, the Commissioner must refund to the liable person the whole or part of the incremental penalty that has been paid.
+[Repealed]
 
 ### 135JA Relief from incremental penalties unpaid before deduction plan made on or after 1 April 2016
-(1) For the purposes of this section,—
-  - **deduction plan** means a plan made on or after 1 April 2016 by the Commissioner in relation to a liable person—
-    (a) that is a plan for the collection, by way of automatic deduction under Part 10 from relevant payments, of—
-      (i) the amount of the initial debt; and
-      (ii) the amount of financial support (if any) that the liable person will become liable to pay during the term of the plan; and
-    (b) that is not made with the agreement of the liable person
-  - **initial debt** , in relation to a deduction plan, means the amount the liable person owes in respect of financial support and related initial late payment penalties at the time the deduction plan is made
-  - **relevant deduction notice** , in relation to a deduction plan, means a deduction notice given by the Commissioner under section 154 for the purpose of collecting amounts in accordance with the deduction plan
-  - **relevant payments** means payments of—
-    (a) income specified in paragraph (a) of the definition of withholding income in section 2(1); or
-    (b) earnings related compensation (as defined in section 82(9) of the Tax Administration Act 1994); or
-    (c) a benefit of the kind referred to in section 131; or
-    (d) a basic grant or an independent circumstances grant under the Student Allowances Regulations 1998
-  - **review date** means—
-    (a) the day that is 26 weeks after the date on which the deduction plan is made; and
-    (b) each of the days on which there expire periods of 26 weeks that consecutively succeed the first period of 26 weeks described in paragraph (a); and
-    (c) the day on which the deduction plan expires.
-(2) If a deduction plan has been made and the deduction plan has been complied with up until a particular review date in accordance with subsection (3), the Commissioner must, on that review date,—
-  (a) review the incremental penalties in relation to the initial debt of the liable person that were unpaid at the time the deduction plan was made; and
-  (b) write off those penalties proportionally in accordance with subsection (4).
-(3) For the purposes of subsection (2), a deduction plan has been complied with up until a particular review date if all of the deductions and payments required to be made under relevant deduction notices by that date have been made in accordance with those notices.
-(4) For the purposes of subsection (2), the proportion of incremental penalties that must be written off must be calculated in accordance with the following formula:r = [(a × c) ÷ b] − dwhere—ris the amount of incremental penalty that is to be written offais the total amount of the initial debt that has been paid since the deduction plan was madebis the initial debtcis the total amount of incremental penalties related to the initial debt of the liable person that were unpaid at the time the deduction plan was madedis the total amount of incremental penalties related to the initial debt of the liable person that have already been written off in accordance with this section since the deduction plan was made.
-(5) If an incremental penalty that is written off under this section has been paid in whole or in part, the Commissioner must refund to the liable person the whole or part of the incremental penalty that has been paid.
+[Repealed]
 
 ### 135K Relief from incremental penalties in relation to arrangements entered into or made before 26 September 2006
-(1) For the purposes of this section,—
-  - **initial debt** means the amount the liable person owes at the commencement of this section in respect of financial support and related initial late payment penalties
-  - **payment agreement** means an agreement entered into before 26 September 2006 between a liable person and the Commissioner that—
-    (a) requires the liable person to pay, in 1 sum or 2 or more instalments of specified amounts,—
-      (i) the amount of the initial debt; and
-      (ii) the amount of financial support (if any) that the person will become liable to pay during the term of the payment agreement; and
-    (b) is still in force immediately before this section comes into force
-  - **review date** means—
-    (a) the day that is 26 weeks after the commencement of this section; and
-    (b) each of the days on which there expire periods of 26 weeks that consecutively succeed the first period of 26 weeks described in paragraph (a); and
-    (c) in relation to—
-      (i) a payment agreement, the day on which the payment agreement expires; and
-      (ii) a specified deduction notice, the day on which the deduction notice is revoked
-  - **specified deduction notice** means a deduction notice given by the Commissioner under section 154 in relation to a liable person before 26 September 2006—
-    (a) for the purpose of collecting, in 1 sum or 2 or more deductions and payments,—
-      (i) the amount of the initial debt; and
-      (ii) the amount of financial support (if any) that the liable person will become liable to pay during the period in which the deduction notice is in force; and
-    (b) that is still in force immediately before 26 September 2006.
-(2) If a liable person has entered into a payment agreement, and the person has complied with the payment agreement up until a particular review date in accordance with subsection (3), the Commissioner must, on that review date,—
-  (a) review the incremental penalties in relation to the initial debt of the liable person that were unpaid at the commencement of this section; and
-  (b) write off those penalties proportionally in accordance with subsection (6).
-(3) For the purposes of subsection (2), a person has complied with the payment agreement up until a particular review date if—
-  (a) the person has paid every instalment in full that has fallen due in accordance with the agreement; or
-  (b) in the case of an agreement to pay 1 sum only, the person has paid that sum in accordance with that agreement.
-(4) If a specified deduction notice has been given to a person in relation to a liable person, and the person to whom that notice is given has complied with that notice up until a particular review date in accordance with subsection (5), the Commissioner must, on that review date,—
-  (a) review the incremental penalties in relation to the initial debt of the liable person that were unpaid at the commencement of this section; and
-  (b) write off those penalties proportionally in accordance with subsection (6).
-(5) For the purposes of subsection (4), a person has complied with a specified deduction notice up until a particular review date if all of the deductions and payments required to be made under the specified deduction notice by that date have been made in accordance with that notice.
-(6) For the purposes of subsections (2) and (4), the proportion of incremental penalties that must be written off must be calculated in accordance with the following formula:r = (a × c ÷ b) − dwhere—
-  (r) is the amount of incremental penalty that is to be written off
-  (a) is the total amount of the initial debt that has been paid since the commencement of this section
-  (b) is the initial debt
-  (c) is the total amount of incremental penalties in relation to the initial debt of the liable person that were unpaid at the commencement of this section
-  (d) is the total amount of incremental penalties related to the initial debt of the liable person that have already been written off in accordance with this section.
-(7) If an incremental penalty that is written off under this section has been paid in whole or in part, the Commissioner must refund to the liable person the whole or part of the incremental penalty that has been paid.
+[Repealed]
 
 ### 135L Writing-off of incremental penalties if non-compliance with arrangement
-(1) Subsection (2) applies if,—
-  (a) at the time of a review date in relation to a payment agreement under section 135J or 135K, the liable person has failed to pay any amount in accordance with the agreement; and
-  (b) the Commissioner is satisfied, in respect of each failure to make a payment in accordance with the payment agreement, that the circumstances in relation to the failure would, if they were related to the payment of a debt to which a penalty relates, entitle the Commissioner to grant relief under any of the provisions of sections 135B to 135E.
-(2) The Commissioner may disregard a failure to make a payment for the purpose of applying section 135J or 135K as the case may be.
-(2A) Subsection (2B) applies if,—
-  (a) at the time of a review date in relation to a deduction plan under section 135JA, there has been a failure to make any deduction and payment in accordance with a relevant deduction notice (as defined in section 135JA); and
-  (b) the Commissioner is satisfied, in respect of each failure to make a deduction and payment in accordance with a relevant deduction notice (as defined in section 135JA), that the circumstances in relation to the failure would, if they were related to the payment of a debt to which a penalty relates, entitle the Commissioner to grant relief under any of the provisions of sections 135B to 135E.
-(2B) The Commissioner may disregard a failure to make a deduction and payment for the purpose of applying section 135JA.
-(3) Subsection (4) applies if,—
-  (a) at the time of a review date in relation to a specified deduction notice under section 135K, there has been a failure to make any deduction and payment in accordance with the specified deduction notice; and
-  (b) the Commissioner is satisfied, in respect of each failure to make a deduction and payment in accordance with the specified deduction notice, that the circumstances in relation to the failure would, if they were related to the payment of a debt to which a penalty relates, entitle the Commissioner to grant relief under section 135B, 135C, or 135E.
-(4) The Commissioner may disregard a failure to make a deduction and payment for the purpose of applying section 135K.
+[Repealed]
 
 ### 135M Relief from ongoing incremental penalties if payment agreement in force
-(1) This section applies if—
-  (a) an incremental penalty is by operation of law imposed on a person at the expiry of a 1-month period; and
-  (b) during that 1-month period, the person is liable to pay financial support, initial late payment penalties, or incremental penalties that are payable in 1 sum, or in 2 or more instalments, under a payment agreement entered into between the person and the Commissioner; and
-  (c) every sum or instalment payable under the payment agreement during that 1-month period has during that 1-month period been paid in full in accordance with the payment agreement.
-(2) The Commissioner must grant relief to the liable person—
-  (a) by writing off the incremental penalty referred to in subsection (1)﻿(a); or
-  (b) if that incremental penalty has been paid, in whole or in part, by refunding to that person the whole or the part of that incremental penalty that has been paid, with or without writing off any part of that incremental penalty that has not been paid.
+[Repealed]
 
 ### 135N Relief from ongoing incremental penalties if deduction notice in force
-(1) This section applies if—
-  (a) an incremental penalty is by operation of law imposed on a person at the expiry of a 1-month period; and
-  (b) during that 1-month period, the person is liable to pay financial support, initial late payment penalties, or incremental penalties by way of deductions required to be made, and paid to the Commissioner, under a deduction notice given under section 154; and
-  (c) each deduction required during that 1-month period to be made, and paid to the Commissioner, under the deduction notice has during that 1-month period been made (even if it has not also been paid to the Commissioner) in accordance with the deduction notice.
-(2) The Commissioner must grant relief to the liable person—
-  (a) by writing off the incremental penalty referred to in subsection (1)﻿(a); or
-  (b) if that incremental penalty has been paid, in whole or in part, by refunding to that person the whole or the part of that incremental penalty that has been paid, with or without writing off any part of that incremental penalty that has not been paid.
+[Repealed]
 
 **Miscellaneous**
 
 ### 135O Refunds paid out of Crown Bank Account without further appropriation
-Any refund made under sections 135A to 135N must be paid out of a Crown Bank Account without further appropriation than this section.
+Any refund made under sections 135A to 135G must be paid out of a Crown Bank Account without further appropriation than this section.
 
 ### 136 Amounts payable per month and per day
 (1) Where child support or domestic maintenance is payable in relation to any month in a child support year, the monthly rate payable is calculated by dividing the annual rate by 12.
@@ -2606,7 +2441,7 @@ Any refund made under sections 135A to 135N must be paid out of a Crown Bank Acc
 
 ### 137 Order in which payments to be applied by Commissioner
 Where, in any month, an amount is paid to, or to be credited by, the Commissioner, or an amount is paid to and an amount is to be credited by the Commissioner, in relation to any person on account of financial support payable under this Act, the Commissioner shall, despite any direction given by or on behalf of the person, apply the amount of the payment or credit, or the sum of the amounts of the payment and credit, in payment successively as follows:
-  (a) any urgent financial assistance payable by the person in accordance with an order made under section 116:
+  (a)
   (b) any money payable by the person by way of a lump sum in accordance with an order made under section 109:
   (c) any child support payable by the person in respect of any days in that month in the order in which those days occurred:
   (d) any child support debts for any days in any preceding months in the order in which those days occurred:
@@ -2759,7 +2594,7 @@ Any amount which is held by the Commissioner under section 149(2) shall be deeme
 (5) This Act (subject to subsection (6)) applies to the amount assessed, and to the payee, as if—
   (a) that amount was financial support; and
   (b) the payee was a liable person.
-(6) Sections 134, 134A, and 135 to 135N (which relate to penalties and to relief from them) apply to an amount assessed under subsection (3) and to the payee unless the Commissioner, in the Commissioner's discretion under this subsection, determines that all of those sections do not apply to the amount assessed.
+(6) Sections 134, 134A, and 135 to 135G (which relate to penalties and to relief from them) apply to an amount assessed under subsection (3) and to the payee unless the Commissioner, in the Commissioner's discretion under this subsection, determines that all of those sections do not apply to the amount assessed.
 (7) The Commissioner must notify the payee in writing of a determination under subsection (6), and the determination may be combined with an assessment under subsection (3).
 (8) If the payee is entitled to receive further payments under any provision of this Part, the amount of the debt due to the Crown by the payee may be recovered by reducing such of those payments by such amount as is determined in writing by the Commissioner.
 
@@ -3347,6 +3182,11 @@ Any refund of financial support under this Act may be made without further appro
 (3) Where a person is resident in New Zealand and is personally absent from New Zealand for a period or periods exceeding in the aggregate 325 days in any period of 12 months, that person shall be deemed not to be ordinarily resident in New Zealand from the first day within that period of 12 months on which that person was personally absent from New Zealand and, subject to this section, thereafter.
 (4) For the purposes of this section, where a person is personally present in New Zealand for part of a day, that person shall be deemed to be personally present in New Zealand for the whole of that day and not to be personally absent from New Zealand for any part of that day.
 (5) Notwithstanding any other provision of this section, a person who is personally absent from New Zealand in the service in any capacity of the Government of New Zealand shall be deemed to be ordinarily resident in New Zealand during that absence.
+(6) The Commissioner may treat a child as ordinarily resident in New Zealand if the Commissioner is satisfied that the child is personally present in New Zealand and is likely to be ordinarily resident in New Zealand within the meaning of this section.
+(7) The Commissioner may treat a child as not ordinarily resident in New Zealand if the Commissioner is satisfied that the child is not personally present in New Zealand and is not likely to be ordinarily resident in New Zealand within the meaning of this section.
+(8) The Commissioner may treat a person other than a child as ordinarily resident in New Zealand if the Commissioner is satisfied that the person is personally present in New Zealand and intends to be ordinarily resident in New Zealand within the meaning of this section.
+(9) The Commissioner may treat a person other than a child as not ordinarily resident in New Zealand if the Commissioner is satisfied that the person is not personally present in New Zealand and does not intend to be ordinarily resident in New Zealand within the meaning of this section.
+(10) Subsections (6) to (9) apply despite subsections (2) to (4).
 
 ### 219 Power of Commissioner in respect of small amounts
 Notwithstanding anything in this Act, the Commissioner may, in the Commissioner's discretion, refrain from collecting or refunding financial support in any case where, as the case may be,—
@@ -3954,6 +3794,48 @@ The amendments made by sections 43, 44, 50, and 51 of the Taxation (Annual Rates
   (b) periods before or after commencement.
 (2) However, a day determined under section 89Z(3) (as in force after commencement) as the date on which the period of exemption commences may only be a date on or after 26 September 2006.
 (3) In this clause, commencement means the commencement of section 113 of the Taxation (Annual Rates for 2019–20, GST Offshore Supplier Registration, and Remedial Matters) Act 2019.
+
+### Part 4 — Provisions relating to Child Support Amendment Act 2021
+
+### 13 Interpretation in this Part
+In this Part,—
+  - **2021 Amendment Act** means the Child Support Amendment Act 2021
+  - **commencement** , in relation to any provision of the 2021 Amendment Act, means the commencement of that provision
+  - **old** , in relation to a provision, means the provision as if the amendments made to the provision by the 2021 Amendment Act had not been made
+  - **old Act** means the Child Support Act 1991 as if the amendments made by the 2021 Amendment Act had not been made.
+
+### 14 2021 Amendment Act does not have retrospective effect
+Except as provided in this Part and in section 2(2) of the 2021 Amendment Act, the old Act continues to apply in relation to financial support in respect of a child support year ending before 1 April 2021.
+
+### 15 Amendments to section 5 (Children who qualify for child support)
+(1) The amendment to section 5(1) (financial independence qualification) made by section 5(1) of the 2021 Amendment Act applies only to a child who turns 16 on or after commencement of section 5(1) of the 2021 Amendment Act.
+(2) The amendment to section 5 (age qualification) made by section 5(2) of the 2021 Amendment Act applies only to a child who turns 18 on or after commencement of section 5(2) of the 2021 Amendment Act.
+(3) The old section 5 continues to apply if the child turned 18 before commencement of section 5(2) of the 2021 Amendment Act as if section 5(2) of the 2021 Amendment Act had not been enacted.
+(4) The old section 5(4) continues to apply in relation to the child support year starting on 1 April 2015.
+
+### 16 Amendment to section 19 (When liability to pay child support starts)
+(1) The amendment to section 19 made by section 6 of the 2021 Amendment Act applies only to applications for formula assessment of child support that are received by the Commissioner on or after commencement of section 6 of the 2021 Amendment Act.
+(2) The old section 19 continues to apply if the application was made before commencement of section 6 of the 2021 Amendment Act.
+
+### 17 Insertion of section 81A (Amendments of assessments arising from living circumstances existing at time initial assessment made)
+Section 81A (as inserted by section 18 of the 2021 Amendment Act) applies on or after commencement, including if the assessment was made before commencement of section 18 of the 2021 Amendment Act.
+
+### 18 Insertion of section 87A (Four-year time bar for amendment of certain assessments)
+Section 87A (as inserted by section 20 of the 2021 Amendment Act) applies in respect of all child support years, whether ending before commencement or on or after commencement of section 20 of the 2021 Amendment Act.
+
+### 19 Savings provision about orders for offsetting of liabilities situations
+The repeal of sections 105(2)﻿(e) and 106B by sections 36 and 37 of the 2021 Amendment Act does not affect—
+  (a) any order made under section 106B before commencement of sections 36 and 37 of the 2021 Amendment Act, which continues in full force and effect; or
+  (b) the power of the court in any proceedings that were commenced under section 103B or 104 before commencement of sections 36 and 37 of the 2021 Amendment Act but that were not completed, and the court may make an order under section 106 on the ground in section 105(2)﻿(e) as if sections 105(2)﻿(e) and 106B had not been repealed.
+
+### 20 Amendments to section 134 (Penalties for late payment of financial support debts)
+The amendments to section 134 made by section 42 of the 2021 Amendment Act apply to a financial support debt if the expiry of the seventh day after the due date falls on or after commencement of section 42 of the 2021 Amendment Act, but do not apply to a financial support debt if the expiry of the seventh day after the due date falls before commencement of that provision.
+
+### 21 Savings provision about relief from penalty if full or substantial compliance with payment arrangement entered into or made within 3-month period
+Section 135GB continues to apply during the period beginning on 1 April 2021 and ending with the commencement of section 43 of the 2021 Amendment Act (sixty-day grace period before penalties apply) as if section 135GB had not been repealed by the 2021 Amendment Act and as if section 135GB applies both to initial late payment penalties that are imposed under old section 134 and to penalties that are imposed under new section 134.
+
+### 22 Amendment to section 152B (Offsetting child support payments)
+The amendment to section 152B made by section 55 of the 2021 Amendment Act applies to all child support years, regardless of the period in which the liability to pay financial support arose or when an amount of financial support became due and payable.
 
 ## Schedule 2 — Care cost percentage
 
