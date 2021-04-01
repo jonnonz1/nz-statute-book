@@ -1,5 +1,5 @@
 # Road User Charges Act 2012
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-04-01_
 
 ### 1 Title
 This Act is the Road User Charges Act 2012.
@@ -157,6 +157,14 @@ The purpose of this Act is to—
 
 ### 6 Act binds the Crown
 This Act binds the Crown.
+
+### 6A Act is land transport Act
+(1) This Act is a land transport Act under section 2(1) of the Land Transport Act 1998.
+(2) This has the effect that—
+  (a) transport instruments may be made for the purposes of this Act under section 168G of that Act; and
+  (b) enforceable undertakings may be given for the purposes of this Act in accordance with section 112A of that Act; and
+  (c) a land transport record may be required to be created for the purposes of this Act in accordance with section 200B of that Act.
+(3) This section is intended as a guide only and is not an exhaustive statement as to the effects of this Act being a land transport Act under that Act.
 
 ## Part 2 — Road user charges
 
