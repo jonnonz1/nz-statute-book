@@ -1,5 +1,5 @@
 # Submarine Cables and Pipelines Protection Act 1996
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-04-01_
 
 > An Act—ato provide better protection of submarine cables and pipelines; andbto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to protection of submarine cables and pipelines; andcto consolidate and amend the Submarine Cables and Pipelines Protection Act 1966
 
@@ -54,6 +54,11 @@ This Act applies to acts or omissions—
 
 ### 5 Other Acts not affected
 The provisions of this Act are in addition to, and not in substitution for, the provisions of any other enactment and, except as expressly provided by this Act, nothing in this Act derogates from the provisions of any other enactment.
+
+### 5A Act is maritime Act
+(1) This Act is a maritime Act under section 2(1) of the Maritime Transport Act 1994.
+(2) This has the effect that transport instruments may be made for the purposes of this Act under section 452B of that Act.
+(3) This section is intended as a guide only and is not an exhaustive statement as to the effects of this Act being a maritime Act under that Act.
 
 ## Part 2 — Protection and enforcement
 
