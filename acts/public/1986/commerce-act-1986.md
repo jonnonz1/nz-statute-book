@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-04-08_
 
 > Title
 
@@ -375,9 +375,10 @@ In addition to the functions conferred on the Commission by this Act, the Commis
 **Cartel provisions**
 
 ### 30 Prohibition on entering into or giving effect to cartel provision
-No person may—
+(1) No person may—
   (a) enter into a contract or arrangement, or arrive at an understanding, that contains a cartel provision; or
   (b) give effect to a cartel provision.
+(2) See section 80 for liability to a pecuniary penalty, and section 82B for criminal liability, for contravention of this section.
 
 ### 30A Meaning of cartel provision and related terms
 (1) A cartel provision is a provision, contained in a contract, arrangement, or understanding, that has the purpose, effect, or likely effect of 1 or more of the following in relation to the supply or acquisition of goods or services in New Zealand:
@@ -410,14 +411,14 @@ In this Act, in relation to a cartel provision,—
 
 ### 31 Exception for collaborative activity
 Exception for entering into cartel provision
-(1) Nothing in section 30(a) applies to a person in relation to a cartel provision if, at the time of entering into or arriving at the contract, arrangement, or understanding that contains the provision,—
+(1) Nothing in section 30(1)﻿(a) applies to a person in relation to a cartel provision if, at the time of entering into or arriving at the contract, arrangement, or understanding that contains the provision,—
   (a) the person and 1 or more other parties to the contract, arrangement, or understanding are involved in a collaborative activity; and
   (b) the cartel provision is reasonably necessary for the purpose of the collaborative activity.
 Exceptions for giving effect to cartel provision
-(2) Nothing in section 30(b) applies to a person in relation to a cartel provision if, at the time of giving effect to the cartel provision,—
+(2) Nothing in section 30(1)﻿(b) applies to a person in relation to a cartel provision if, at the time of giving effect to the cartel provision,—
   (a) the person and 1 or more other parties to the contract, arrangement, or understanding that contains the provision are involved in a collaborative activity; and
   (b) the cartel provision is reasonably necessary for the purpose of the collaborative activity.
-(3) Nothing in section 30(b) applies to a person in relation to a cartel provision that constitutes a restraint of trade if—
+(3) Nothing in section 30(1)﻿(b) applies to a person in relation to a cartel provision that constitutes a restraint of trade if—
   (a) the person and 1 or more other parties to the contract, arrangement, or understanding that contains the provision were involved in a collaborative activity that has ended; and
   (b) the cartel provision was reasonably necessary for the purpose of the collaborative activity; and
   (c) the collaborative activity did not end because the lessening of competition between any 2 or more parties became its dominant purpose.
@@ -574,8 +575,8 @@ For the purposes of section 38,—
 (1) Nothing in section 27(1) applies to a person in relation to a provision of a contract, arrangement, or understanding if, at the time of entering into or arriving at the contract, arrangement, or understanding, the circumstances in subsection (6) apply.
 (2) Nothing in section 27(2) applies to a person in relation to a provision of a contract, arrangement, or understanding if, at the time of giving effect to the provision, the circumstances in subsection (6) apply.
 (3) Nothing in section 27(4) affects the enforceability of a provision in any contract to which subsection (1) or (2) applies.
-(4) Nothing in section 30(a) applies to a person in relation to a cartel provision that has the effect, or likely effect, of restricting output or market allocating if, at the time of entering into or arriving at the contract, arrangement, or understanding that contains the provision, the circumstances in subsection (6) apply.
-(5) Nothing in section 30(b) applies to a person in relation to a cartel provision that has the effect, or likely effect, of restricting output or market allocating if, at the time of giving effect to the provision, the circumstances in subsection (6) apply.
+(4) Nothing in section 30(1)﻿(a) applies to a person in relation to a cartel provision that has the effect, or likely effect, of restricting output or market allocating if, at the time of entering into or arriving at the contract, arrangement, or understanding that contains the provision, the circumstances in subsection (6) apply.
+(5) Nothing in section 30(1)﻿(b) applies to a person in relation to a cartel provision that has the effect, or likely effect, of restricting output or market allocating if, at the time of giving effect to the provision, the circumstances in subsection (6) apply.
 (6) The circumstances are that—
   (a) the person and all other parties to the contract, arrangement, or understanding that contains the provision are supplying an international liner shipping service in co-operation with each other; and
   (b) the co-operation improves the service supplied to owners or consignors of goods carried at sea; and
@@ -592,8 +593,8 @@ For the purposes of section 38,—
     (e) capacity adjustments in response to fluctuations in supply and demand for international liner shipping services.
 
 ### 44B Further exception in relation to international liner shipping services (price fixing in relation to space on ship)
-(1) Nothing in section 30(a) applies to a person in relation to a cartel provision that has the effect, or likely effect, of price fixing if, at the time of entering into or arriving at the contract, arrangement, or understanding that contains the provision, the circumstances in subsection (3) apply.
-(2) Nothing in section 30(b) applies to a person in relation to a cartel provision that has the effect, or likely effect, of price fixing if, at the time of giving effect to the provision, the circumstances in subsection (3) apply.
+(1) Nothing in section 30(1)﻿(a) applies to a person in relation to a cartel provision that has the effect, or likely effect, of price fixing if, at the time of entering into or arriving at the contract, arrangement, or understanding that contains the provision, the circumstances in subsection (3) apply.
+(2) Nothing in section 30(1)﻿(b) applies to a person in relation to a cartel provision that has the effect, or likely effect, of price fixing if, at the time of giving effect to the provision, the circumstances in subsection (3) apply.
 (3) The circumstances are that—
   (a) the person and all other parties to the contract, arrangement, or understanding that contains the cartel provision are supplying an international liner shipping service in co-operation with each other; and
   (b) the co-operation improves the service supplied to owners or consignors of goods carried at sea; and
@@ -2495,8 +2496,8 @@ In any proceedings under this Part for a pecuniary penalty—
   (b) the Commission may, by the order of the court, obtain discovery and administer interrogatories.
 
 ### 79B Relationship between pecuniary penalties and criminal liability
-(1) Once criminal proceedings against a person for an offence under section 86B or 87B are determined, the High Court may not order the person to pay a pecuniary penalty in respect of the conduct, events, transactions, or other matters that were the subject of the criminal proceedings.
-(2) Once civil proceedings against a person for a pecuniary penalty under this Part are determined, the person may not be convicted of an offence under section 86B or 87B in respect of the conduct, events, transactions, or other matters that were the subject of the civil proceedings.
+(1) Once criminal proceedings against a person for an offence under section 82B, 86B, or 87B are determined, the High Court may not order the person to pay a pecuniary penalty in respect of the conduct, events, transactions, or other matters that were the subject of the criminal proceedings.
+(2) Once civil proceedings against a person for a pecuniary penalty under this Part are determined, the person may not be convicted of an offence under section 82B, 86B, or 87B in respect of the conduct, events, transactions, or other matters that were the subject of the civil proceedings.
 (3) Any uncompleted proceedings for an order under this Act that a person pay a pecuniary penalty must be stayed if criminal proceedings are started or have already been started against the person for the same act or omission, or substantially the same act or omission, in respect of which the pecuniary penalty order is sought.
 
 **Restrictive trade practices**
@@ -2529,7 +2530,9 @@ In any proceedings under this Part for a pecuniary penalty—
 ### 80A Restriction on indemnities relating to contraventions of section 30
 (1) A body corporate must not indemnify any director, employee, or agent, or former director, employee, or agent, of the body corporate or of any of its interconnected bodies corporate (person A) in respect of—
   (a) any pecuniary penalty imposed on person A by the court under section 80 in respect of a contravention of section 30; or
-  (b) any costs incurred by person A in defending any civil proceedings in which the pecuniary penalty referred to in paragraph (a) is imposed.
+  (b) any costs incurred by person A in defending any civil proceedings in which the pecuniary penalty referred to in paragraph (a) is imposed; or
+  (c) any penalty imposed on person A by the court following the conviction of person A under section 82B; or
+  (d) any costs incurred by person A in defending any criminal proceedings in which person A is convicted under section 82B.
 (2) An indemnity given in contravention of subsection (1) is void.
 (3) In this section, indemnify includes relieve or excuse from liability, whether before or after the liability arises; and indemnity has a corresponding meaning.
 
@@ -2584,6 +2587,46 @@ The court may, on the application of the Commission or any other person, grant a
 (2) In determining whether to award exemplary damages and, if they are to be awarded, the amount of them, the court must have regard to—
   (a) whether a pecuniary penalty has been imposed on the defendant for a contravention involving the conduct concerned in the claim for exemplary damages; and
   (b) if so, the amount of the pecuniary penalty.
+(3) The court may not order a person to pay exemplary damages in relation to conduct for which the person has been convicted of an offence under section 82B.
+
+### 82B Offence relating to cartel prohibition
+(1) A person commits an offence if—
+  (a) the person,—
+    (i) in contravention of section 30(1)﻿(a), enters into a contract or arrangement, or arrives at an understanding, that contains a cartel provision; and
+    (ii) intends, at that time, to engage in price fixing, restricting output, or market allocating; or
+  (b) the person,—
+    (i) in contravention of section 30(1)﻿(b), gives effect to a cartel provision; and
+    (ii) intends, at the time the cartel provision is given effect to, to engage in price fixing, restricting output, or market allocating.
+(2) An individual who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 7 years or a fine not exceeding $500,000, or both.
+(3) A person other than an individual that commits an offence against this section is liable on conviction to a fine not exceeding the greater of the following:
+  (a) $10 million:
+  (b) either,—
+    (i) if it can be readily ascertained and if the court is satisfied that the offence occurred in the course of producing a commercial gain, 3 times the value of any commercial gain resulting from the contravention; or
+    (ii) if the commercial gain cannot be readily ascertained, 10% of the turnover of the person and all its interconnected bodies corporate (if any) in each accounting period in which the contravention occurred.
+(4) See the exceptions set out in Part 2, which relate to conduct that would otherwise contravene section 30(1)﻿(a) or (b).
+
+### 82C Defence relating to exceptions to cartel prohibition
+(1) In a prosecution under section 82B, it is a defence if, at the time of the alleged contravention, the defendant believed on reasonable grounds that 1 or more of the exceptions set out in Part 2 applied in relation to the conduct that constituted the alleged contravention.
+(2) However, the defence does not apply if the defendant’s belief is based on ignorance, or mistake, of any matter of law.
+
+### 82D Disclosure by defendant in cartel prosecution
+(1) A defendant that wishes to claim that an exception set out in Part 2 applied in relation to the conduct that constituted the alleged contravention, or to rely on the defence in section 82C, must—
+  (a) notify the prosecution of that fact within 20 working days after the defendant pleads not guilty (or at any later time with the leave of the court); and
+  (b) at the same time, provide sufficient details about the application of the relevant section to inform the prosecution about how the exception is claimed to have applied or how the defence will be relied on.
+(2) The court or the Registrar of the court must give written notice of the requirements in subsection (1) to a defendant who pleads not guilty.
+
+### 82E Consequences of failure to disclose under section 82D
+(1) This section applies if, at the hearing or trial of a defendant, the court is satisfied that—
+  (a) evidence sought to be adduced by the defendant is, or is based on, information that should have been disclosed to the prosecution under section 82D; and
+  (b) that information was not disclosed.
+(2) The court may—
+  (a) exclude the evidence; or
+  (b) with or without requiring the evidence to be disclosed, adjourn the hearing or trial; or
+  (c) admit the evidence if it is in the interests of justice to do so; or
+  (d) exercise its powers under any other enactment or rule of law that deals with the failure of a party to comply with the directions of the court.
+(3) However, if it appears to the court that the defendant was not given notice in accordance with section 82D(2), the court—
+  (a) must not order the exclusion of evidence under subsection (2)﻿(a); but
+  (b) must adjourn the hearing or trial if the prosecution requests an adjournment.
 
 **Business acquisitions**
 
@@ -3130,6 +3173,13 @@ For the purposes of this Act, judicial notice shall be taken in all courts and f
   (c) the official seal of the Australian Competition and Consumer Commission:
   (d) the official signature of any person holding, or who has held, office as the chairperson, deputy chairperson, or a member, of the Australian Competition and Consumer Commission on a document that appears to be a document made on behalf of that Commission.
 
+### 107 Cartel prosecutors panel
+(1) The Solicitor-General must appoint a cartel prosecutors panel for the purpose of enabling prosecutions under section 82B to be taken speedily.
+(2) The Solicitor-General must consult with the chairperson before appointing the panel.
+(3) The panel must consist of those lawyers that the Solicitor-General considers appropriate.
+(4) Only members of the panel may conduct prosecutions under section 82B on behalf of the Crown.
+(5) In this section, lawyer has the meaning given in section 6 of the Lawyers and Conveyancers Act 2006.
+
 ### 107 Annual report
 [Repealed]
 
@@ -3198,10 +3248,10 @@ For the purposes of this Act, the Commission may from time to time prescribe for
   (b) a reference to a former section (for example, former section 30) is a reference to that section as in force immediately before the commencement of this clause.
 
 ### 2 Transitional provisions for cartel prohibition under section 30
-(1) Section 30(a) (which relates to entering into a contract or an arrangement, or arriving at an understanding, that contains a cartel provision) applies only to contracts, arrangements, or understandings that are entered into or arrived at after section 30 comes into force.
-(2) Section 30(b) (which relates to giving effect to a cartel provision in a contract, arrangement, or understanding) applies only to conduct occurring after section 30 comes into force, but applies whether the contract, arrangement, or understanding is entered into or arrived at before or after section 30 comes into force, and whether or not the contract, arrangement, or understanding has been suspended at any time.
+(1) Section 30(1)﻿(a) (which relates to entering into a contract or an arrangement, or arriving at an understanding, that contains a cartel provision) applies only to contracts, arrangements, or understandings that are entered into or arrived at after section 30 comes into force.
+(2) Section 30(1)﻿(b) (which relates to giving effect to a cartel provision in a contract, arrangement, or understanding) applies only to conduct occurring after section 30 comes into force, but applies whether the contract, arrangement, or understanding is entered into or arrived at before or after section 30 comes into force, and whether or not the contract, arrangement, or understanding has been suspended at any time.
 (3) Subclauses (4) to (6) apply to a contract, arrangement, or understanding that was entered into or arrived at before the commencement of section 30 and that, at the time of that commencement, contained or may have contained a cartel provision.
-(4) Despite subclause (2), no proceedings under section 80, 80B, 80C, 81, or 82 may be commenced for a contravention of section 30(b) or 80A occurring during the transitional period.
+(4) Despite subclause (2), no proceedings under section 80, 80B, 80C, 81, or 82 may be commenced for a contravention of section 30(1)﻿(b) or 80A occurring during the transitional period.
 (5) However,—
   (a) proceedings under former section 80 or 80C, or section 81 or 82, may be commenced in relation to conduct occurring during the transitional period as if former sections 30 to 33 were still in force during the transitional period; and
   (b) proceedings under section 80B may be commenced for a contravention of former section 80A occurring during the transitional period.
