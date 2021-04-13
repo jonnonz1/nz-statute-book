@@ -1,5 +1,5 @@
 # Urban Development Act 2020
-_Consolidation as at 2020-09-30_
+_Consolidation as at 2021-04-13_
 
 ### 1 Title
 This Act is the Urban Development Act 2020.
@@ -2398,7 +2398,7 @@ A relevant territorial authority must—
   (g) section 53 (one or more local authorities may appoint collector):
   (h) section 54 (power not to collect small amounts):
   (i) sections 59 and 60 (recovery of unpaid rates):
-  (j) sections 61 and 62 (recovery from persons other than owner):
+  (j) sections 61 to 62A (recovery from persons other than owner):
   (k) sections 63 to 66 (legal proceedings to recover rates):
   (l) sections 67 to 76 (rating sales and leases):
   (m) sections 77 to 83 (abandoned land):
@@ -2445,6 +2445,7 @@ A relevant territorial authority must record targeted rates that are remitted un
 Part 4 of Local Government (Rating) Act 2002
 (1) Part 4 of the Local Government (Rating) Act 2002 applies to targeted rates under this Act.
 (2) In applying Part 4 of that Act, a reference to a local authority's policy on the remission and postponement of rates on Māori freehold land must be read as a reference to the relevant policy on the remission and postponement of rates on Māori freehold land.
+(2A) A relevant territorial authority may remit targeted rates under section 114A of the Local Government (Rating) Act 2002 only with the consent of Kāinga Ora.
 Order exempting Māori freehold land from rates
 (3) An Order in Council under section 116 of the Local Government (Rating) Act 2002—
   (a) applies to land within a project area if the order is made—
