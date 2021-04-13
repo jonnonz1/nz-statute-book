@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-04-13_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -21,10 +21,12 @@ This Act is the Local Government (Rating) Act 2002.
 (4) The rest of this Act comes into force on 1 July 2003.
 
 ### 3 Purpose
-The purpose of this Act is to promote the purpose of local government set out in the Local Government Act 2002 by—
-  (a) providing local authorities with flexible powers to set, assess, and collect rates to fund local government activities:
-  (b) ensuring that rates are set in accordance with decisions that are made in a transparent and consultative manner:
-  (c) providing for processes and information to enable ratepayers to identify and understand their liability for rates.
+The purpose of this Act is to—
+  (a) promote the purpose of local government set out in the Local Government Act 2002 by—
+    (i) providing local authorities with flexible powers to set, assess, and collect rates to fund local government activities:
+    (ii) ensuring that rates are set in accordance with decisions that are made in a transparent and consultative manner:
+    (iii) providing for processes and information to enable ratepayers to identify and understand their liability for rates; and
+  (b) facilitate the administration of rates in a manner that supports the principles set out in the Preamble to Te Ture Whenua Maori Act 1993.
 
 ### 4 Outline
 (1) This Act replaces the Rating Powers Act 1988.
@@ -34,7 +36,7 @@ The purpose of this Act is to promote the purpose of local government set out in
 (3) Part 2 contains provisions that relate to the rating information database and rates records that must be kept by a local authority to record information that is required for setting rates and to establish liability for rates.
 (4) Part 3 contains—
   (a) provisions that relate to the assessment and payment of rates, and to the recovery of unpaid rates; and
-  (b) provisions that set out requirements that relate to remission of rates and postponement of the requirement to pay rates.
+  (b) provisions that set out requirements that relate to remission of rates, postponement of the requirement to pay rates, and the write-off of rates.
 (5) Part 4 contains—
   (a) provisions that govern the liability for rates on Māori freehold land (including multiply-owned freehold land); and
   (b) provisions that govern the power to recover unpaid rates through the Māori Land Court; and
@@ -158,7 +160,7 @@ For the purposes of this Act, a ratepayer is the person who is named as a ratepa
 
 ### 12 Liability for rates
 (1) The ratepayer for a rating unit is liable to pay the rates that are due on the unit.
-(2) However, a person other than the ratepayer may become liable to pay the rates in the circumstances set out in sections 61 and 62.
+(2) However, a person other than the ratepayer may become liable to pay the rates in the circumstances set out in sections 61 to 62A.
 
 **What kinds of rates may be set?**
 
@@ -219,7 +221,7 @@ For the purposes of section 16(3)﻿(b) and (4)﻿(b), categories of rateable la
 (3) If an example in this section is inconsistent with subsection (2), subsection (2) prevails.
 
 ### 20 Rating units in common ownership
-Two or more rating units must be treated as 1 unit for setting a rate if those units are—
+Two or more rating units must be treated as 1 unit for assessing a rate if those units are—
   (a) owned by the same person or persons; and
   (b) used jointly as a single unit; and
   (c) contiguous or separated only by a road, railway, drain, water race, river, or stream.
@@ -493,7 +495,7 @@ A local authority may correct an error in the rating information database or rat
 (3) The local authority may add interest to the amount calculated under subsection (2) at a rate per annum fixed by the local authority, except that the interest rate, when fixed, must not exceed the rate charged to the local authority by its bank for its day-to-day cash account.
 (4) This section applies to the interest as if it were a penalty imposed under section 58.
 
-## Part 3 — Assessment, payment, and recovery of rates and remission and postponement
+## Part 3 — Assessment, payment, and recovery of rates and remission, postponement, and write-off of rates
 
 ### Subpart 1 — Assessment, payment, and recovery
 
@@ -701,6 +703,21 @@ A person must not refuse to pay rates on the ground that the rates are invalid u
 (3) If a mortgagee pays the unpaid rates under subsection (1), the amount paid must be treated as part of the money secured by the mortgage until it is repaid to the mortgagee, and the provisions of the mortgage apply to that amount.
 (4) This section does not affect any agreement between persons about their liability as between themselves to pay the rates for a rating unit.
 
+### 62A Person actually using certain abandoned general land liable for rates
+(1) This section applies to land if—
+  (a) the land is general land that ceased to be Māori land under Part 1 of the Maori Affairs Amendment Act 1967; and
+  (b) the land is beneficially owned by the persons, or by the descendants of the persons, who beneficially owned the land immediately before the land ceased to be Māori land; and
+  (c) rates have not been paid to the local authority by the owner of the land for 3 years or more; and
+  (d) the owner of the land—
+    (i) is unknown; or
+    (ii) cannot be found after due inquiry and has no known agent in New Zealand; or
+    (iii) is deceased and has no personal representative; or
+    (iv) has given notice to the local authority that they intend to abandon or have abandoned the land.
+(2) A person actually using land to which this section applies is liable for rates on the land in respect of the period commencing on or after the date they started using the land.
+(3) A person actually using only part of a rating unit of land to which this section applies during a financial year must be treated as having used the whole of the rating unit for the whole of the financial year unless the person establishes otherwise.
+(4) The rates assessment and rates invoice must be delivered to the person actually using the land to which this section applies.
+(5) This section overrides sections 44 and 46.
+
 **Legal proceedings to recover rates**
 
 ### 63 Legal proceedings to recover rates
@@ -728,6 +745,13 @@ A person must not refuse to pay rates on the ground that the rates are invalid u
 (2) If the local authority postpones the requirement to pay rates in whole or in part and the postponed rates are not subsequently written off, an action to recover unpaid postponed rates must not be commenced in a court of competent jurisdiction later than 6 years after the date or event to which the rates were postponed.
 (3) This section applies to rates set and assessed under this Act or made and levied under the Rating Powers Act 1988.
 
+### 65A Recovery of unpaid rates from person actually using certain land
+In proceedings under section 63 for the recovery of unpaid rates against a person actually using land to which section 62A or 96 applies (other than rates in respect of a separate rating area), the court may give judgment for a proportion of the unpaid rates if the court—
+  (a) considers it to be reasonable to do so in the circumstances; and
+  (b) is satisfied that—
+    (i) the person did not actually use the whole of the rating unit for which the rates are claimed for the relevant financial year; and
+    (ii) the amount of rates payable is disproportionately large compared to a reasonable rental or payment for the use.
+
 ### 66 Registration of charging order for judgment for rates
 (1) Despite rule 17.52 of the High Court Rules 2016, a charging order issued under rule 17.41 or 17.42 for a judgment of rates, and registered against a rating unit under rule 17.48, continues in force until a memorandum of satisfaction is registered under rule 17.51.
 (2) The Limitation Act 2010 applies to subsection (1).
@@ -745,9 +769,12 @@ A person must not refuse to pay rates on the ground that the rates are invalid u
     (ii) the amount of the judgment given against the ratepayer or other person:
     (iii) the name of the ratepayer or other person:
     (iv) the address of the rating unit that is subject to the judgment and its legal description and location; and
-  (b) the fee as fixed by regulations made under section 156 of the Senior Courts Act 2016.
-(3) Subsection (1) does not apply to land that is subject to enactments that prohibit the alienation or transfer of that land.
-(4) However, despite those enactments, the local authority may—
+  (b) the fee as fixed by regulations made under section 156 of the Senior Courts Act 2016; and
+  (c) evidence that the land is not land described in section 62A(1)﻿(a) and (b).
+(3) Subsection (1) does not apply to—
+  (a) land that is subject to enactments that prohibit the alienation or transfer of that land; or
+  (b) land described in section 62A(1).
+(4) However, the local authority may, in respect of land described in subsection (3)﻿(a),—
   (a) offer that land, or part of it, for lease under this section on terms that produce a yearly rent equivalent to the amount of rates payable on the whole of the land, together with 5% added for the recovery of expenses; or
   (b) if the ratepayer has an estate or interest in other land that is not subject to an enactment of the kind referred to in subsection (3), register a charging order on, and transfer the power to sell, that other land, or part of it, to produce the amount required to recover the unpaid rates, together with 5% added for the recovery of expenses.
 (5) Despite any other enactment, in the case of land that requires the consent of a Minister of the Crown before it may be leased, consent is not required for a lease under this section.
@@ -818,7 +845,7 @@ The proceeds of a sale or lease under section 71 or section 72 must be applied i
 
 ### 75A Unpaid levy under Infrastructure Funding and Financing Act 2020
 (1) This section applies if rates and a levy remain unpaid 4 months after the due date for payment.
-(2) Sections 63 to 76 (other than section 75) apply to the recovery of both debts in the same legal proceedings—
+(2) Sections 62A to 76 (other than section 75) apply to the recovery of both debts in the same legal proceedings—
   (a) as if any reference in those sections to—
     (i) the local authority included a reference to the responsible levy authority; and
     (ii) rates included a reference to a levy; and
@@ -864,12 +891,13 @@ The proceeds of a sale or lease under section 71 or section 72 must be applied i
 (3) One month after the date of the public notice, the local authority may apply to the District Court nearest to where the land is situated for an order that—
   (a) declares the land to be abandoned; and
   (b) authorises the local authority to sell or lease the land.
+(3A) The application must include evidence that the land is not land described in section 62A(1)﻿(a) and (b).
 (4) The District Court may direct the local authority to give notice of the application to any persons, as it thinks fit, in addition to the rules for service under the District Court Rules.
 (5) The local authority may, in its discretion, proceed under section 67 to sell or lease abandoned land if the requirements of that section are met.
 (6) For the purposes of this section, due inquiry includes, but is not limited to, inquiry of any public agency that holds land records.
 
 ### 78 Court may order sale or lease of abandoned land
-If the District Court is satisfied that section 77 has been complied with, it may make an order to—
+If the District Court is satisfied that section 77 has been complied with and the land is not land described in section 62A(1), it may make an order to—
   (a) declare the land to be abandoned; and
   (b) authorise the local authority to sell or lease the land under sections 79 to 83, subject to any advertising requirements that the court thinks appropriate.
 
@@ -928,7 +956,7 @@ An instrument executed under section 73 or 80 may be registered under the Land T
 (1) This section applies to a lessee or licensee described in section 11(2).
 (2) The interest of a lessee or licensee in Crown land held under the Land Act 1948 may be sold for the non-payment of rates, but only in accordance with section 111 of the Land Act 1948.
 
-### Subpart 2 — Remission and postponement
+### Subpart 2 — Remission, postponement, and write-off
 
 **Remission of rates**
 
@@ -985,6 +1013,30 @@ The local authority must record the remitted rates—
   (a) in the case of land for which there is a record of title (as defined in section 5A of the Rating Valuations Act 1998) or an instrument (as defined in section 5C(7) of the Rating Valuations Act 1998), by reference to the record of title or instrument; and
   (b) in any other case, by a description adequate for the purposes of this section which may include a plan.
 (7) For the purposes of this section, Registrar means the Registrar-General of Land.
+
+**Power of chief executive to write off rates**
+
+### 90A Chief executive may write off rates that cannot be recovered
+(1) The chief executive of a local authority must write off any outstanding rates that, in the chief executive’s opinion, cannot reasonably be recovered.
+(2) The chief executive may write off rates under subsection (1) on—
+  (a) the chief executive’s own initiative; or
+  (b) the application of a ratepayer (who may make an application at any time).
+(3) The chief executive must—
+  (a) notify a ratepayer of any write-off of the ratepayer’s rates under this section; and
+  (b) within 30 days of receiving an application under subsection (2)﻿(b), provide written reasons to the applicant of the reasons for the decision to write off, or not to write off, the rates specified in the application.
+
+### 90B Chief executive may write off rates of deceased owners of Māori freehold land
+(1) The chief executive of a local authority may, in respect of a rating unit of Māori freehold land, write off all or part of the outstanding rates that—
+  (a) are payable by a person beneficially entitled to a deceased owner’s beneficial interest in the land; and
+  (b) were payable by the deceased owner at the death of the owner.
+(2) The local authority must give notice to the ratepayer of any write-off.
+
+### 90C Chief executive may delegate power to write off rates
+(1) The chief executive of a local authority may delegate the exercise of the powers under sections 90A and 90B to any specified officer of the local authority.
+(2) The chief executive must not delegate the power to delegate under this section.
+
+### 90D Amount of rates written off to be included in notes to financial statements
+A local authority must ensure that the notes to the financial statements described in clause 29(1)﻿(a) of Schedule 10 of the Local Government Act 2002 disclose the amount of rates written off each financial year under sections 90A and 90B.
 
 ## Part 4 — Rating of Māori freehold land
 
@@ -1166,12 +1218,36 @@ The Māori Land Court must cancel an order made under section 108(2) if, within 
 
 **Remission, postponement, and exemption of rates**
 
-### 114 Remission of rates
+### 114 Remission of rates on Māori freehold land generally
 (1) A local authority may remit all or part of the rates (including penalties for unpaid rates) on Māori freehold land if—
   (a) its policy on the remission and postponement of rates on Māori freehold land adopted under section 102(1) of the Local Government Act 2002 includes provision for the remission of the rates; and
   (b) the local authority is satisfied that the conditions and criteria in the policy are met.
 (2) Sections 85(2) and 86 apply to a remission made under subsection (1).
 (3) This section does not limit the application of section 85 to Māori freehold land.
+
+### 114A Remission of rates for Māori freehold land under development
+(1) The purpose of this section is to facilitate the occupation, development, and utilisation of Māori freehold land for the benefit of its owners.
+(2) A local authority must consider an application by a ratepayer for a remission of rates on Māori freehold land if—
+  (a) the ratepayer has applied in writing for a remission on the land; and
+  (b) the ratepayer or another person is developing, or intends to develop, the land.
+(3) The local authority may, for the purpose of this section, remit all or part of the rates (including penalties for unpaid rates) on Māori freehold land if the local authority is satisfied that the development is likely to have any or all of the following benefits:
+  (a) benefits to the district by creating new employment opportunities:
+  (b) benefits to the district by creating new homes:
+  (c) benefits to the council by increasing the council’s rating base in the long term:
+  (d) benefits to Māori in the district by providing support for marae in the district:
+  (e) benefits to the owners by facilitating the occupation, development, and utilisation of the land.
+(4) The local authority may remit all or part of the rates—
+  (a) for the duration of a development; and
+  (b) differently during different stages of a development; and
+  (c) subject to any conditions specified by the local authority, including conditions relating to—
+    (i) the commencement of the development; or
+    (ii) the completion of the development or any stage of the development.
+(5) In determining what proportion of the rates to remit during the development or any stage of the development, the local authority must take into account—
+  (a) the expected duration of the development or any stage of the development; and
+  (b) if the land is being developed for a commercial purpose, when the ratepayer or ratepayers are likely to generate income from the development; and
+  (c) if the development involves the building of 1 or more dwellings, when the ratepayer or any other persons are likely to be able to reside in the dwellings.
+(6) Sections 85(2) and 86 apply to a remission made under subsection (3).
+(7) This section does not limit the application of section 85 or 114 to Māori freehold land.
 
 ### 115 Postponement of requirement to pay rates
 (1) A local authority must postpone the requirement to pay all or part of the rates on Māori freehold land (including penalties for unpaid rates) if—
@@ -1607,6 +1683,22 @@ A reference in a lease, licence, or contract—
 
 ### 147 Act does not limit charging powers
 Nothing in this Act limits the effect of a provision in another Act that allows a local authority to make a charge on, or recover costs from, a person in relation to work performed for, or a service provided to, that person.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Local Government (Rating of Whenua Māori) Amendment Act 2021
+
+### 1 Definition of amendment Act
+In this Part, amendment Act means the Local Government (Rating of Whenua Māori) Amendment Act 2021.
+  - ****
+
+### 2 Local authority must write off rates arrears for Māori freehold land that is non-rateable on commencement of section 52 of amendment Act
+On the commencement of section 52 of the amendment Act, a local authority must write off rates arrears in respect of—
+  (a) land that is subject to a Ngā Whenua Rāhui kawenata; and
+  (b) Māori freehold land that is unused (within the meaning of Schedule 1 of this Act).
+
+### 3 Recognition of pre-commencement actions and processes in relation to separate rating areas
+Any action or process undertaken before the commencement of section 48 of the amendment Act by a local authority or any other person may be taken into account by the local authority in determining a part of a rating unit to be a separate rating area on or after the commencement date if the local authority is satisfied that the action or process is consistent with the provisions of this Act as amended by the amendment Act.
 
 ## Schedule 1 — Categories of non-rateable land
 
