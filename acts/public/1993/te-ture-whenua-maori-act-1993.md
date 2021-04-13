@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993
-_Consolidation as at 2021-02-06_
+_Consolidation as at 2021-04-13_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble
 
@@ -1835,6 +1835,11 @@ The Registrar-General of Land shall not register any instrument affecting Maori 
 (2) In any case to which this section applies, the court may, in accordance with the provisions of this section, make a consolidated order declaring, as at the date of the order, the names of the persons who, by virtue of the instrument of title or the subsequent orders, certificates, or other documents referred to in subsection (1), are then entitled to any estate or interest in the land and the several shares and interests to which they are so entitled.
 (3) Where a beneficial owner named in the original instrument of title or in any subsequent order has died, whether before or after the commencement of this Act, and in respect of the beneficial interest of that owner a succession order has been made under any former Act or a vesting order has been made under section 136 of the Maori Affairs Act 1953 or under section 117 or section 118 of this Act, vesting the interest of the deceased owner in a trustee pursuant to the will of the deceased, the trustee shall be deemed to be the beneficial owner of that interest for the purposes of the consolidated order, and the existence of the trust shall be disclosed in the order by reference to the will of the deceased owner.
 (4) The consolidated order shall be made to incorporate the effect of any order affecting the ownership of any interest made by the court subsequent to the drawing up of the draft consolidated order.
+
+### 128A Registrar may advise local authority whether rating units were previously part of same block of Maori freehold land
+(1) This section applies if a local authority makes an application under section 20A(4) of the Local Government (Rating) Act 2002 for a determination as to whether 2 or more rating units were previously part of the same block of Maori freehold land.
+(2) The Registrar may make a determination as to whether the rating units were previously part of the same block of Maori freehold land.
+(3) The Registrar may decline to make a determination if satisfactory evidence is unavailable.
 
 ## Part 6 — Status of land
 
@@ -3908,6 +3913,11 @@ The Maori Land Court may at any time, on the application of any person or of its
 ### 330A Review of occupation orders
 (1) The Maori Land Court may review an occupation order made before this section comes into force, on application by an owner of a beneficial interest in the land over which the occupation order has been made, or by the person in whom the occupation order is vested.
 (2) The Maori Land Court may conduct a review under subsection (1) as if it were exercising its jurisdiction to make the initial occupation order, and must have particular regard to the fact that, after it was made, the occupation order could pass by succession.
+
+### 330B Obligation to notify territorial authority of occupation order
+The Registrar of the Maori Land Court must notify the relevant local authority of—
+  (a) any occupation order made under section 328; and
+  (b) any amendment or cancellation of an occupation order made under section 330.
 
 ### 331 Regulations
 The Governor-General may from time to time, by Order in Council, make such regulations as may be necessary or expedient to give effect to this Part.
