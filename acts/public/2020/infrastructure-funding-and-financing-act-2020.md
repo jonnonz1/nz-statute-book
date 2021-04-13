@@ -1,5 +1,5 @@
 # Infrastructure Funding and Financing Act 2020
-_Consolidation as at 2020-08-06_
+_Consolidation as at 2021-04-13_
 
 ### 1 Title
 This Act is the Infrastructure Funding and Financing Act 2020.
@@ -777,6 +777,8 @@ The following sections of the Local Government (Rating) Act 2002 apply to a levy
 
 ### 77 Levy remission and levy postponement policies relating to Maori freehold land
 (1) For the purpose of agreeing on the terms of a levy remission policy or a levy postponement policy (or agreeing not to have 1 or either of those policies) in relation to rating units located on Maori freehold land, the responsible SPV and the responsible levy authority must have regard to the matters and objectives set out in Schedule 11 of the Local Government Act 2002, which applies with all necessary modifications.
+(1A) Section 114A of the Local Government (Rating) Act 2002 (remission of rates for Maori freehold land under development) applies to a levy under this Act.
+(1B) However, the responsible levy authority may remit a levy under section 114A of the Local Government (Rating) Act 2002 only with the consent of the responsible SPV.
 (2) In this section, Maori freehold land has the same meaning as in section 11(2).
 
 ### 78 Remission of levy
@@ -812,6 +814,7 @@ The responsible levy authority may take recovery action in relation to unpaid le
 (2) The following sections of the Local Government (Rating) Act 2002, as further modified in accordance with sections 83 to 85 of this Act, apply to that recovery:
   (a) section 61 (default by person other than owner):
   (b) section 62 (recovery of rates if owner in default):
+  (ba) section 62A (person actually using certain abandoned general land liable for rates):
   (c) section 63 (legal proceedings to recover rates):
   (d) section 64 (service of summons):
   (e) section 65 (limitation of time for recovery of rates):
@@ -830,7 +833,7 @@ The responsible levy authority may take recovery action in relation to unpaid le
 
 ### 83 Legal proceedings to recover levy
 (1) A responsible SPV may commence proceedings to recover as a debt due a levy that remains unpaid for 4 months after the due date for payment.
-(2) Sections 63 to 76 (other than sections 75 to 75B) of the Local Government (Rating) Act 2002 apply to those proceedings.
+(2) Sections 62A to 76 (other than sections 75 to 75B) of the Local Government (Rating) Act 2002 apply to those proceedings.
 (3) Section 84 of this Act applies instead of sections 75 to 75B of the Local Government (Rating) Act 2002.
 
 ### 84 Application of proceeds of rating sale or lease that involves levy
