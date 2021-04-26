@@ -1,5 +1,5 @@
 # Ngāti Tūwharetoa Claims Settlement Act 2018
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-04-26_
 
 ### 1 Title
 This Act is the Ngāti Tūwharetoa Claims Settlement Act 2018.
