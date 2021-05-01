@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2021-04-01_
+_Consolidation as at 2021-05-01_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -5340,7 +5340,7 @@ The following table is small in size and has 3 columns. The columns have no head
 ### Part 8 — Winter energy payment
 
 ###
-The following table has 4 columns with no headings.1The rates of winter energy payment are as follows:(a)to a person who is single and has no dependent children$900 per winter period(b)to a person who is single and has 1 or more dependent children $1,400 per winter period(c)to a person who is in a relationship, and who is the 1 spouse or partner who is entitled under section 72(3)$1,400 per winter period2For the purposes of clause 1(a) and (b), dependent child, in relation to a person, means any other person who—(a)is a child—(i)whose care is primarily the responsibility of the person; and(ii)who is being maintained as a member of that person’s family; and(iii)who is financially dependent on that person; and(b)may be, but need not be, a child in respect of whom payments are being made under section 363 of the Oranga Tamariki Act 1989; and(c)may be, but need not be, a child in respect of whom an orphan’s benefit or an unsupported child’s benefit is being paid; and(d)is not a child in respect of whom a young parent payment is being paid in relation to a person who is not the child’s parent or step-parent.
+The following table has 4 columns with no headings.1The rates of winter energy payment are as follows:(a)to a person who is single and has no dependent children$450 per winter period(b)to a person who is single and has 1 or more dependent children $700 per winter period(c)to a person who is in a relationship, and who is the 1 spouse or partner who is entitled under section 72(3)$700 per winter period2For the purposes of clause 1(a) and (b), dependent child, in relation to a person, means any other person who—(a)is a child—(i)whose care is primarily the responsibility of the person; and(ii)who is being maintained as a member of that person’s family; and(iii)who is financially dependent on that person; and(b)may be, but need not be, a child in respect of whom payments are being made under section 363 of the Oranga Tamariki Act 1989; and(c)may be, but need not be, a child in respect of whom an orphan’s benefit or an unsupported child’s benefit is being paid; and(d)is not a child in respect of whom a young parent payment is being paid in relation to a person who is not the child’s parent or step-parent.
 
 ### Part 9 — Child disability allowance and disability allowance
 
