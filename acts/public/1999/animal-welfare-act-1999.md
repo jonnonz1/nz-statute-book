@@ -1,5 +1,5 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-05-09_
 
 > An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—(i)to recognise that animals are sentient:(ia)to require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
@@ -40,9 +40,6 @@ _Consolidation as at 2020-12-01_
     (a) the person who, by virtue of an application under section 87, obtained the Director-General's approval of that code; or
     (b) where the approval of that code has, with the consent of the Director-General, been transferred under section 93(1) to any other person, that other person
   - **code of welfare** means a code of welfare issued under section 75
-  - **controlled surgical procedure** means—
-    (a) the develvetting of a deer; or
-    (b) any other surgical procedure which is performed on an animal and which is, under section 16, declared to be a controlled surgical procedure
   - **cosmetic** —
     (a) means any finished product that is used or represented for use for the primary purpose of cleansing, improving the attractiveness of, changing the appearance of, perfuming, moisturising, or deodorising the skin, hair, nails, or other external parts of the human body, human teeth, or the mucous membranes of the human mouth, whether or not the product is or contains any substance, mixture of substances, or thing; and
     (b) includes any substance, mixture of substances, or thing declared to be a cosmetic by regulations made for that purpose under section 183; but
@@ -111,15 +108,9 @@ _Consolidation as at 2020-12-01_
     (b) a protocol for the carrying out of routine manipulations within a specified period; or
     (c) any experiment or demonstration, or series of related experiments or demonstrations, undertaken for teaching purposes
   - **research, testing, and teaching** has the meaning given to it by section 5
-  - **restricted surgical procedure** means—
-    (a) the debarking of a dog (the performance on the vocal chords of a dog of a surgical procedure intended to reduce the noise the dog is capable of emitting); or
-    (b) the declawing of a cat (the removal from the foot of a cat by a surgical procedure of the whole or part of 1 or more of the claws of the cat); or
-    (c) the docking of the tail of a horse; or
-    (d) any surgical procedure which is performed on an animal and which is, under section 16, declared to be a restricted surgical procedure
   - **road** includes any motorway, street, private road, access way, private way, or service lane, and every bridge, culvert, ford, gate, or other thing belonging to any road
   - **safari park** has the meaning given to it by section 2(1) of the Wild Animal Control Act 1977
   - **ship** has the meaning given to it by section 2(1) of the Maritime Transport Act 1994
-  - **significant surgical procedure** has the meaning given to it by section 6
   - **substance** , in relation to any cosmetic, has the same meaning as in section 2(1) of the Medicines Act 1981
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **threatened species** has the meaning given to it by section 2(1) of the Biosecurity Act 1993
@@ -229,32 +220,10 @@ In this Act, unless the context otherwise requires, the term physical, health, a
   (c) the term teaching means any teaching that comes within the term defined by subsection (1).
 
 ### 6 Definition of significant surgical procedure
-(1) In this Act, unless the context otherwise requires, the term significant surgical procedure includes, but is not limited to,—
-  (a) a restricted surgical procedure; and
-  (b) a controlled surgical procedure; and
-  (c) any other surgical procedure declared under subsection (2) to be a significant surgical procedure for the purposes of this Act.
-(2) The Governor-General may from time to time, by Order in Council made on the advice of the Minister tendered after consultation with the National Animal Welfare Advisory Committee, declare that a surgical procedure is or is not a significant surgical procedure for the purposes of this Act.
-(3) The Governor-General may, by Order in Council made on the advice of the Minister tendered after consultation with the National Animal Welfare Advisory Committee, amend or revoke an Order in Council made under subsection (2).
-(4) The Minister must, in deciding whether or not to recommend the making of an Order in Council under subsection (2) or subsection (3), have regard to the following matters:
-  (a) the nature of the procedure; and
-  (b) the effect that the performance of the procedure will or may have on an animal's welfare; and
-  (c) the purpose of the procedure; and
-  (d) the extent (if any) to which the procedure is established in New Zealand in relation to the production of animals or commercial products; and
-  (e) the likelihood of the procedure being managed adequately by the use of codes of welfare or other instruments under this Act; and
-  (f) the consultation conducted under subsection (2) or subsection (3), as the case may be, and any consultation conducted under section 184(1); and
-  (g) any other matter considered relevant by the Minister.
-(5) The consultation required by section 184(1) is in addition to the consultation required by subsections (2) and (3) of this section.
-(6) The Minister may recommend the making of an Order in Council under subsection (2) only if the Minister is satisfied—
-  (a) that the question whether a surgical procedure is a significant surgical procedure for the purposes of this Act is so uncertain as to require that the uncertainty be removed by the making of an Order in Council under subsection (2); or
-  (b) that the question whether a surgical procedure should or should not be able to be performed on an animal by any person is a matter of public concern and that concern is so great that it needs to be removed by the making of an Order in Council under subsection (2).
-(7) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### 7 Notice of making of Order in Council
-(1) Where an Order in Council is made under section 6(2) or section 6(3), the Minister must, as soon as practicable after the making of that Order in Council,—
-  (a) publish notice of the making of that Order in Council in 1 or more daily newspapers published in the cities of Auckland, Wellington, Christchurch, and Dunedin respectively; and
-  (b) give written notice of the making of that Order in Council to those persons who appear to the Minister to be representative of the classes of persons likely to be affected by the making of that Order in Council; and
-  (c) give such other public notice of the making of that Order in Council as the Minister thinks fit.
-(2) Despite subsection (1), the publication in accordance with the Legislation Act 2012 of any Order in Council made under this section is deemed for all purposes to be notice thereof to all persons concerned, and in any prosecution under this Act the liability of the defendant is to be determined accordingly.
+[Repealed]
 
 ### 8 Act to bind the Crown
 (1) This Act binds the Crown.
@@ -278,8 +247,8 @@ The transitional and savings provisions set out in Schedule 4, which relate to a
     (ii) scientific knowledge; and
   (b) requires owners of ill or injured animals, and persons in charge of such animals, to ensure that the animals receive treatment that alleviates any unreasonable or unnecessary pain or distress from which the animals are suffering; and
   (c) imposes restrictions on the carrying out of surgical procedures on animals; and
-  (d) provides for the classification of the types of surgical procedures that may be performed on animals; and
-  (e) specifies the persons or classes of persons who may perform each class of such surgical procedures; and
+  (d) contemplates that regulations will prohibit or impose requirements on the surgical or painful procedures that may be performed on animals; and
+  (e) contemplates that regulations will prescribe the persons or classes of persons who may perform surgical or painful procedures on animals; and
   (f) specifies certain minimum conditions that must be observed in relation to the transportation of animals.
 
 **Obligations of owners and of persons in charge of animals**
@@ -329,94 +298,41 @@ A person commits an offence who, being the owner of, or a person in charge of, a
 **Surgical procedures**
 
 ### 15 Restriction on performance of surgical procedures
-(1) Except as provided in section 18(1), no person may perform any significant surgical procedure on an animal unless that person is—
+(1) Except as provided in regulations made under section 183B, no person may perform any significant surgical procedure on an animal unless that person is—
   (a) a veterinarian; or
   (b) a person who is acting under the direct supervision of a veterinarian and who is a student undergoing his or her training to become a veterinarian.
 (2) A veterinarian who, for the purpose of teaching veterinary science, supervises the performance of a significant surgical procedure, must be present throughout the performance of that surgical procedure.
 (3) Any person may, subject to subsection (4) and to Parts 2 and 6 and to any regulations made under section 183B, perform on an animal any surgical procedure that is not a significant surgical procedure.
 (4) No person may, in performing on an animal a surgical procedure that is not a significant surgical procedure, perform that surgical procedure in such a manner that the animal suffers unreasonable or unnecessary pain or distress.
 
-### 16 Classification of surgical procedures
-(1) The Governor-General may from time to time, by Order in Council made on the advice of the Minister tendered after consultation with the National Animal Welfare Advisory Committee, declare any surgical procedure to be performed on an animal to be—
-  (a) a restricted surgical procedure; or
-  (b) a controlled surgical procedure.
-(2) The Governor-General may from time to time, by Order in Council made on the advice of the Minister tendered after consultation with the National Animal Welfare Advisory Committee, amend or revoke any order made under subsection (1).
-(3) The National Animal Welfare Advisory Committee must, in consulting with the Minister in regard to any proposal that an order be made under subsection (1) or that any order made under subsection (1) be amended or revoked, consider, in relation to each surgical procedure to which the proposed order or amendment or revocation relates,—
-  (a) both the reasons for and the reasons against the surgical procedure being performed; and
-  (b) the degree of pain or distress that the carrying out of the surgical procedure is likely to cause; and
-  (c) whether a person who is not a veterinarian could adequately carry out the procedure; and
-  (d) any other matter relevant to the particular category of the procedure under consideration.
-(4) The consultation required by section 184(1) is in addition to the consultation required by subsections (1) and (2) of this section.
-(5) The Minister must, in deciding whether or not to recommend the making of an Order in Council under subsection (1) or subsection (2), have regard to the following matters:
-  (a) the matters set out in paragraphs (a) to (d) of subsection (3); and
-  (b) the consultation conducted under subsection (1) or subsection (2), as the case may be, and any consultation carried out under section 184(1); and
-  (c) any other matter considered relevant by the Minister.
-(6) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+### 16 Criteria to determine whether procedure is significant surgical procedure
+If any person has to determine whether a procedure carried out on an animal is a significant surgical procedure under this Act, the person must determine the question by considering the following criteria:
+  (a) whether the procedure has the potential to—
+    (i) cause significant pain or distress; or
+    (ii) cause serious or lasting harm, or loss of function, if not carried out by a veterinarian in accordance with recognised professional standards; and
+  (b) the nature of the procedure, including whether this involves—
+    (i) a surgical or operative procedure below the surface of the skin, mucous membranes, or teeth or below the gingival margin; or
+    (ii) physical interference with sensitive soft tissue or bone structure; or
+    (iii) significant loss of tissue or loss of significant tissue.
 
 ### 17 Performance of restricted surgical procedures
-(1) A restricted surgical procedure may be performed on an animal only by—
-  (a) a veterinarian; or
-  (b) a person who is acting under the direct supervision of a veterinarian and who is being taught veterinary science at undergraduate level.
-(2) Where a restricted surgical procedure is to be performed on an animal, the veterinarian who is to perform that procedure, or who is to supervise the performance of that procedure by a person who is being taught veterinary science, must, before performing or supervising the performance of that surgical procedure, first satisfy himself or herself that the performance of that procedure is in the interests of the animal.
-(3) A veterinarian who—must ensure that the animal is, throughout the performance of the surgical procedure, under the influence of a general or local anaesthetic or an analgesic that is sufficient to prevent the animal from feeling pain.
-  (a) performs a restricted surgical procedure on an animal; or
-  (b) for the purpose of teaching veterinary science, supervises the performance of a restricted surgical procedure on an animal,—
-(4) A veterinarian who, for the purpose of teaching veterinary science, supervises the performance of a restricted surgical procedure, must be present throughout the performance of that surgical procedure.
+[Repealed]
 
 ### 18 Performance of controlled surgical procedures
-(1) A controlled surgical procedure may be performed on an animal only by—
-  (a) a veterinarian; or
-  (b) a person who is acting under the direct supervision of a veterinarian and who is being taught veterinary science at undergraduate level; or
-  (c) a person who is both the owner of the animal and a person who has veterinary approval to perform a surgical procedure of that type on that species of animal; or
-  (d) a person who is both an employee of the owner of the animal and a person who has veterinary approval to perform a surgical procedure of that type on that species of animal.
-(2) A veterinarian who, for the purpose of teaching veterinary science, supervises the performance of a controlled surgical procedure, must be present throughout the performance of that surgical procedure.
-(3) A person, being an owner of an animal or an employee of an owner of an animal, has, for the purposes of subsection (1), veterinary approval to perform a controlled surgical procedure on the animal only if a veterinarian certifies in writing, before the procedure is performed on the animal, that the veterinarian is satisfied that the person has the relevant expertise, practical experience, drugs, equipment, and accommodation to perform that type of surgical procedure competently on that species of animal.
+[Repealed]
 
 ### 19 Veterinary approval
-(1) Where a veterinarian issues, under section 18(3), a certificate of veterinary approval, that certificate must state—
-  (a) the full name and address of the person to whom it is issued:
-  (b) if it is issued to a person in that person's capacity as an employee of the owner of an animal, the full name and address of the owner:
-  (c) the type of surgical procedure to which the certificate relates and the species of animal on which the person to whom it is issued may perform that surgical procedure:
-  (d) the duration of the approval given by the certificate.
-(2) The veterinarian who issues the certificate may specify that the approval given by the certificate is to have effect—
-  (a) indefinitely; or
-  (b) for a stated period; or
-  (c) until a stated date.
-(3) Every certificate issued under section 18(3)—
-  (a) comes into force on the date specified in the certificate; and
-  (b) continues in force until—
-    (i) it is revoked under section 20(1); or
-    (ii) it is surrendered under section 20(3); or
-    (iii) in the case of a certificate granted for a stated period or until a stated date, the expiry of that period or the passing of that date.
+[Repealed]
 
 ### 20 Revocation and surrender of certificate of veterinary approval
-(1) A certificate issued under section 18(3) may at any time, by notice in writing to the person to whom it was issued, be revoked—
-  (a) by the veterinarian by whom it was issued; or
-  (b) by the Director-General.
-(2) A certificate issued under section 18(3) may be revoked only if the person effecting the revocation is satisfied that the person to whom it was issued—
-  (a) does not, at the date of the revocation, have the relevant expertise, practical experience, drugs, equipment, or accommodation to perform the type of surgical procedure to which the certificate relates competently on any species of animal to which the certificate relates; or
-  (b) is disqualified under section 169(1) from being the owner of, or exercising authority in respect of, an animal or animals of a particular kind or description; or
-  (c) has been convicted of an offence against this Act.
-(3) A person to whom a certificate under section 18(3) has been issued may at any time surrender that certificate by notice in writing to that effect to either—
-  (a) the veterinarian by whom it was issued; or
-  (b) the Director-General.
-(4) Where a certificate under section 18(3) is revoked under subsection (1) or surrendered under subsection (3), the person to whom the certificate has been issued—
-  (a) ceases to have the approval evidenced by the certificate; and
-  (b) must surrender the certificate to either—
-    (i) the veterinarian by whom it was issued; or
-    (ii) the Director-General.
+[Repealed]
 
 **Surgical procedure offences**
 
 ### 21 Surgical procedure offences
-(1) A person commits an offence who, without reasonable excuse, acts in contravention of or fails to comply with—
-  (a) section 15(1) or section 15(2); or
-  (b) section 15(4); or
-  (c) section 17(2) or section 17(3) or section 17(4); or
-  (d) section 18(2).
-(2) A person commits an offence who—
-  (a) crops, or causes to be cropped, the ears of a dog; or
-  (b) performs, or causes to be performed, blistering or firing or nicking on a horse.
+A person commits an offence who, without reasonable excuse, acts in contravention of or fails to comply with—
+  (a) section 15(1) or (2); or
+  (b) section 15(4).
 
 **Transport of animals**
 
@@ -438,15 +354,15 @@ A person commits an offence who, being the owner of, or a person in charge of, a
 **Defence and rebuttable evidence**
 
 ### 24 Defence and rebuttable evidence
-(1) In a prosecution for an offence against section 21(1)﻿(b) or section 22(2) or section 23 committed after the commencement of this subsection, evidence that a relevant code of welfare was in existence at the time of the alleged offence and that a relevant minimum standard established by that code was not complied with is rebuttable evidence that the person charged with the offence failed to comply with, or contravened, the provision of this Act to which the offence relates.
-(2) It is a defence in any prosecution for an offence against section 21(1)﻿(b) or section 22(2) or section 23(1) or section 23(2) if the defendant proves—
+(1) In a prosecution for an offence against section 21(b) or section 22(2) or section 23 committed after the commencement of this subsection, evidence that a relevant code of welfare was in existence at the time of the alleged offence and that a relevant minimum standard established by that code was not complied with is rebuttable evidence that the person charged with the offence failed to comply with, or contravened, the provision of this Act to which the offence relates.
+(2) It is a defence in any prosecution for an offence against section 21(b) or section 22(2) or section 23(1) or section 23(2) if the defendant proves—
   (a) that there was in existence at the time of the alleged offence a relevant code of welfare; and
   (b) that the minimum standards established by the code of welfare were in all respects equalled or exceeded.
 
 **Penalties**
 
 ### 25 Penalties
-A person who commits an offence against section 12 or section 14(1) or section 14(2) or section 21(1) or section 21(2) or section 22(2) or section 23(1) or section 23(2) is liable on conviction,—
+A person who commits an offence against section 12 or section 14(1) or section 14(2) or section 21 or section 22(2) or section 23(1) or section 23(2) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $50,000 or to both; or
   (b) in the case of a body corporate to a fine not exceeding $250,000.
 
@@ -501,11 +417,11 @@ The purpose of this Part is to state conduct that is or is not permissible in re
 ### 29 Further offences
 A person commits an offence who—
   (a) ill-treats an animal; or
-  (b) pierces the tongue or tongue phrenum of an animal with a pig ring or similar thing or with any wire; or
+  (b)
   (c) keeps or uses a place for the purpose of causing an animal to fight, or for the purpose of baiting or otherwise ill-treating an animal, or manages or assists in the management of, any such place; or
   (d) is present, for the purpose of witnessing the fighting or baiting of an animal, at a place used or kept for the purpose; or
   (e) in any manner encourages, aids, or assists in the fighting or baiting of an animal; or
-  (f) brands any animal in such a manner that the animal suffers unreasonable or unnecessary pain or distress; or
+  (f)
   (g) releases an animal, being an animal that has been kept in captivity, in circumstances in which the animal is likely to suffer unreasonable or unnecessary pain or distress; or
   (h) counsels, procures, aids, or abets any other person to do an act or refrain from doing an act as a result of which an animal suffers unreasonable or unnecessary pain or distress.
 
@@ -818,7 +734,7 @@ The functions of the National Animal Welfare Advisory Committee are—
     (ii) legislative proposals concerning the welfare of animals:
   (b) to make recommendations to the Minister—
     (i) under section 3(3) (which relates to manipulation); and
-    (ii) under sections 6 and 16 (which relate to surgical procedures):
+    (ii) relating to the making of regulations under section 183B (which relates to surgical and painful procedures):
   (c) to discharge its functions under section 32 in relation to the making of Orders in Council declaring traps or devices to be prohibited or restricted traps or devices:
   (d) to discharge its functions under section 32 in relation to the conditions that should be attached to the sale or use of any restricted trap or restricted device:
   (e) to make recommendations to the Minister concerning the issue, amendment, suspension, revocation, and review of codes of welfare:
@@ -2276,8 +2192,8 @@ Nothing in this Act applies in relation to the use of—
 (1) The Minister must consult, to the extent that is reasonably practicable, having regard to the circumstances of the particular case, the persons the Minister has reason to believe are representative of interests likely to be substantially affected by a proposed Order in Council or proposed regulations before deciding whether to recommend—
   (a) the making of an Order in Council under—
     (i) section 2(1) (in relation to the definitions of animal, device, or trap); or
-    (ii) section 6; or
-    (iii) section 16(1) or (2); or
+    (ii)
+    (iii)
     (iv) section 32(1) or (6); or
     (v) section 200(4); or
     (vi) section 202(5); or
