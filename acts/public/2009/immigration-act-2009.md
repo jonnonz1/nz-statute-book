@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-05-11_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -875,7 +875,7 @@ At any one time, a person may hold only 1 current visa.
 (4D) A special direction under subsection (4A)—
   (a) must, along with an explanation of the effect of the special direction, be notified in the Gazette and published on an Internet site maintained by or on behalf of the Department; and
   (b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(4E) This subsection and subsections (4A) to (4D) are repealed immediately after the expiry of the 12-month period that starts on the date on which the Immigration (COVID-19 Response) Amendment Act 2020 comes into force.
+(4E) This subsection and subsections (4A) to (4D) are repealed at the close of 15 May 2023.
 (5) To avoid doubt,—
   (a) subsection (2) applies whether the resident visa was granted as an exception to residence instructions or otherwise:
   (b) nothing in this section allows the Minister to impose conditions on a permanent resident visa, whether at the time of or subsequent to granting the visa.
@@ -920,7 +920,7 @@ At any one time, a person may hold only 1 current visa.
 (4D) A special direction under subsection (4A)—
   (a) must, along with an explanation of the effect of the special direction, be notified in the Gazette and published on an Internet site maintained by or on behalf of the Department; and
   (b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(4E) This subsection and subsections (4A) to (4D) are repealed immediately after the expiry of the 12-month period that starts on the date on which the Immigration (COVID-19 Response) Amendment Act 2020 comes into force.
+(4E) This subsection and subsections (4A) to (4D) are repealed at the close of 15 May 2023.
 (5) Nothing in this section applies to a temporary entry class visa that is subject to restricted temporary entry instructions.
 
 ### 53 Conditions on temporary entry class visas subject to restricted temporary entry instructions
@@ -958,7 +958,7 @@ At any one time, a person may hold only 1 current visa.
 (4D) A special direction under subsection (4A)—
   (a) must, along with an explanation of the effect of the special direction, be notified in the Gazette and published on an Internet site maintained by or on behalf of the Department; and
   (b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(4E) This subsection and subsections (4A) to (4D) are repealed immediately after the expiry of the 12-month period that starts on the date on which the Immigration (COVID-19 Response) Amendment Act 2020 comes into force.
+(4E) This subsection and subsections (4A) to (4D) are repealed at the close of 15 May 2023.
 (5) To avoid doubt, subsection (2) applies whether the temporary entry class visa was granted as an exception to temporary entry instructions or otherwise.
 
 ### 54 Conditions on transit visas
@@ -1015,7 +1015,7 @@ At any one time, a person may hold only 1 current visa.
 (6) A special direction under subsection (3)—
   (a) must, along with an explanation of the effect of the special direction, be notified in the Gazette and published on an Internet site maintained by or on behalf of the Department; and
   (b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(7) This subsection and subsections (3) to (6) are repealed immediately after the expiry of the 12-month period that starts on the date on which the Immigration (COVID-19 Response) Amendment Act 2020 comes into force.
+(7) This subsection and subsections (3) to (6) are repealed at the close of 15 May 2023.
 
 ### 58 Obligation on applicant to inform of all relevant facts, including changed circumstances
 (1) It is the responsibility of an applicant for a visa to ensure that all information, evidence, and submissions that the applicant wishes to have considered in support of the application are provided when the application is made.
@@ -1070,7 +1070,7 @@ Where an application for a visa is made by or for a person under 18 years of age
 (6) A special direction under subsection (2)—
   (a) must, along with an explanation of the effect of the special direction, be notified in the Gazette and published on an Internet site maintained by or on behalf of the Department; and
   (b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(7) This section is repealed immediately after the expiry of the 12-month period that starts on the date on which the Immigration (COVID-19 Response) Amendment Act 2020 comes into force.
+(7) This section is repealed at the close of 15 May 2023.
 
 ### 62 Form of visa
 (1) A visa is granted by being entered and retained in the records (whether electronic or physical) of the Department in a manner determined by the chief executive.
@@ -1260,7 +1260,7 @@ The holder of a permanent resident visa is entitled—
   (a) its cancellation:
   (b) the expiration of 3 months after the day on which the epidemic management notice expires.
 (2A) Subsection (2) is subject to any extension of the visa by special direction under section 78A.
-(2B) This subsection and subsection (2A) are repealed immediately after the expiry of the 12-month period that starts on the date on which the Immigration (COVID-19 Response) Amendment Act 2020 comes into force.
+(2B) This subsection and subsection (2A) are repealed at the close of 15 May 2023.
 (3) Subsection (2) does not require—
   (a) the endorsement or modification of the visa; or
   (b) the issue of a document extending the visa; or
@@ -1287,7 +1287,7 @@ The holder of a permanent resident visa is entitled—
 (6) A special direction under subsection (1)—
   (a) must, along with an explanation of the effect of the special direction, be notified in the Gazette and published on an Internet site maintained by or on behalf of the Department; and
   (b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(7) This section is repealed immediately after the expiry of the 12-month period that starts on the date on which the Immigration (COVID-19 Response) Amendment Act 2020 comes into force.
+(7) This section is repealed at the close of 15 May 2023.
 
 **Temporary entry class visas: provisions applying to temporary visas**
 
@@ -1388,7 +1388,7 @@ The following persons may apply for a limited visa:
   (a) the outbreak of COVID-19; or
   (b) measures taken under this Act or any other enactment to contain or mitigate the outbreak of COVID-19 or its effects; or
   (c) any other measures (whether in New Zealand or elsewhere) to contain or mitigate the outbreak of COVID-19 or its effects.
-(4C) This subsection and subsections (4A) and (4B) are repealed immediately after the expiry of the 12-month period that starts on the date on which the Immigration (COVID-19 Response) Amendment Act 2020 comes into force.
+(4C) This subsection and subsections (4A) and (4B) are repealed at the close of 15 May 2023.
 (5) A special direction made under subsection (4)—
   (a) must be published in the Gazette and notified in writing through diplomatic channels to any country concerned; and
   (b) expires at the end of the period of 3 months following the day on which it was made, unless sooner cancelled by the Minister by a further special direction, or by regulations; and
@@ -1758,7 +1758,7 @@ A person who applies for entry permission must provide a contact address and an 
 (5) If the person arrives in New Zealand other than at an immigration control area, entry permission may be revoked within 72 hours of the person first arriving in New Zealand.
 (6) A revocation under this section is made by entry on the records of the Department and takes effect immediately.
 (7) Without limiting the generality of section 22, immigration instructions certified under section 22(1)﻿(b) may provide for the revocation of entry permission that is deemed to have been granted under regulations made under this Act.
-(8) This section is repealed immediately after the expiry of the 12-month period that starts on the date on which the Immigration (COVID-19 Response) Amendment Act 2020 comes into force.
+(8) This section is repealed at the close of 15 May 2023.
 
 **Turnaround provisions**
 
@@ -5405,7 +5405,7 @@ In any proceedings or process of a kind referred to in section 375(2) in relatio
   (ba) extending temporary entry class visas in relation to any class of persons, in accordance with section 78A(1):
   (c) classifying persons to whom a transit visa waiver applies, in accordance with section 86(4)﻿(a):
   (d) suspending, under section 86(4)﻿(b), a transit visa waiver made in accordance with section 86(2)﻿(a).
-(2A) This subsection and subsection (2)﻿(aaa) to (aad) and (ba) are repealed immediately after the expiry of the 12-month period that starts on the date on which the Immigration (COVID-19 Response) Amendment Act 2020 comes into force.
+(2A) This subsection and subsection (2)﻿(aaa) to (aad) and (ba) are repealed at the close of 15 May 2023.
 (3) A special direction comes into force on the day on which it is made, or any later date specified in the direction.
 (4) Where a special direction is given orally, the chief executive or immigration officer must as soon as possible make a written record of the content and date of the direction.
 (5) A special direction may be subject to such conditions as the Minister thinks fit.
@@ -5435,7 +5435,7 @@ Any decision made, or discretion exercised, under this Act by an immigration off
   (e) the power to make a special direction under section 86(4) in relation to transit visas; and
   (f) the power to certify under section 163(1) that a person constitutes a threat or risk to security; and
   (g) the power to make a decision of a kind referred to in section 139 or 199 in relation to a protected person who has committed certain crimes or been guilty of certain acts.
-(1A) This subsection and subsection (1)﻿(ca) to (cd) and (da) are repealed immediately after the expiry of the 12-month period that starts on the date on which the Immigration (COVID-19 Response) Amendment Act 2020 comes into force.
+(1A) This subsection and subsection (1)﻿(ca) to (cd) and (da) are repealed at the close of 15 May 2023.
 (2) The immigration officer to whom a delegation may be made may be an officer referred to by name or the officer who for the time being holds a specified position.
 (3) Every delegation is revocable at will, and no delegation prevents the exercise of any power by the Minister.
 (4) A delegation may be made subject to such restrictions and conditions as the Minister thinks fit, and may be made either generally or in relation to any particular case.
@@ -5845,10 +5845,10 @@ Without limiting section 400, regulations made under that section may—
   (a) the outbreak of COVID-19; or
   (b) measures taken under this Act or any other enactment to contain or mitigate the outbreak of COVID-19 or its effects; or
   (c) any other measures (whether in New Zealand or elsewhere) to contain or mitigate the outbreak of COVID-19 or its effects.
-(5) A suspension may be for a period not exceeding 3 months specified in the regulations.
-(6) If the requirements of subsection (4) continue to be met, regulations may from time to time be made under section 400 that extend the period of a suspension already in force for a further period not exceeding 3 months.
+(5) A suspension may be for a period not exceeding 6 months specified in the regulations.
+(6) If the requirements of subsection (4) continue to be met, regulations may from time to time be made under section 400 that extend the period of a suspension already in force for a further period not exceeding 6 months.
 (7) An extension referred to in subsection (6) may only be made before the end of the period to be extended.
-(8) This section is repealed immediately after the expiry of the 12-month period that starts on the date on which the Immigration (COVID-19 Response) Amendment Act 2020 comes into force.
+(8) This section is repealed at the close of 15 May 2023.
 
 ### 401B Provisions relating to regulations made for purposes of section 401A
 (1) If the making of an application for a class or type of visa by all persons or by any class of persons is suspended by regulations made for the purposes of section 401A, then, despite any other provision of this Act (or any immigration instruction),—
@@ -5858,7 +5858,7 @@ Without limiting section 400, regulations made under that section may—
   (a) no person or, as the case may be, no person in the relevant class of persons may submit an expression of interest in obtaining an invitation to apply for a visa of that class or type; and
   (b) if a person purports to submit an expression of interest in obtaining an invitation to apply for a visa contrary to paragraph (a), the expression of interest is deemed not to have been submitted.
 (3) To avoid doubt, no suspension provided for by regulations made for the purposes of section 401A affects the ability of any person to claim refugee or protected person status.
-(4) This section is repealed immediately after the expiry of the 12-month period that starts on the date on which the Immigration (COVID-19 Response) Amendment Act 2020 comes into force.
+(4) This section is repealed at the close of 15 May 2023.
 
 ### 402 Regulations relating to procedures and requirements in relation to arrivals in and departures from New Zealand
 Without limiting the generality of section 400, regulations made under that section may—
@@ -5922,7 +5922,7 @@ Without limiting the generality of section 400, regulations made under that sect
 
 ### 403B Modifications of Act relating to COVID-19 outbreak
 (1) The provisions of this Act identified in Schedule 6 apply as modified in that schedule.
-(2) This section and Schedule 6 are repealed immediately after the expiry of the 12-month period that starts on the date on which the Immigration (COVID-19 Response) Amendment Act 2020 comes into force.
+(2) This section and Schedule 6 are repealed at the close of 15 May 2023.
 
 ## Part 12 — Repeals, transitional provisions, saving provisions, and related matters
 
