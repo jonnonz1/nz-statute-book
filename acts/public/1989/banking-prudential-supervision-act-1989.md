@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2020-08-26_
+_Consolidation as at 2021-05-11_
 
 > Title
 
@@ -396,7 +396,7 @@ Every financial institution commits an offence against this Act if, without lawf
 (2) Every financial institution commits an offence against this Act if, without lawful justification or excuse, it fails to comply with a requirement under subsection (1).
 
 ### 39 Powers
-Without limiting section 5 or any other provision of this Act, the Non-bank Deposit Takers Act 2013, or the Insurance (Prudential Supervision) Act 2010, the Bank has power, whether in New Zealand or elsewhere, to—
+Without limiting section 5 or any other provision of this Act, the Non-bank Deposit Takers Act 2013, the Financial Market Infrastructures Act 2021, or the Insurance (Prudential Supervision) Act 2010, the Bank has power, whether in New Zealand or elsewhere, to—
   (a) carry on the business of banking:
   (b) issue financial products:
   (c) give a fixed or floating charge over all or any part of the undertaking or property of the Bank:
@@ -417,7 +417,8 @@ Without limiting section 5 or any other provision of this Act, the Non-bank Depo
   (a) this Act; and
   (b) the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; and
   (c) the Insurance (Prudential Supervision) Act 2010; and
-  (d) the Non-bank Deposit Takers Act 2013.
+  (d) the Non-bank Deposit Takers Act 2013; and
+  (e) the Financial Market Infrastructures Act 2021.
 (1A) The office of Governor includes performing and exercising functions, powers, and duties as the chairperson and a member of the MPC (see clause 28 of Schedule 2 for the Governor’s duties as chairperson).
 (2) The Governor has the authority, in the performance of those functions, to act in relation to all matters that are not required, by any Act referred to in subsection (1), to be dealt with by the Board or the MPC.
 
@@ -458,7 +459,7 @@ The appointment of a person as the Governor under section 40 or 48 or as the Dep
 ### 46 Disqualification of Governor and Deputy Governor
 (1) No person shall be appointed or reappointed, or continue to hold office, as Governor or Deputy Governor if that person—
   (a) is a member of Parliament; or
-  (b) is a director or an employee of a registered bank or of a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013 or of a licensed insurer; or
+  (b) is a director or an employee of a registered bank or of a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013 or of a licensed insurer or of a relevant operator of an FMI; or
   (c)
   (d) is a chief executive of a Government department or an employee of a Government department, appointed under the Public Service Act 2020; or
   (e) is an undischarged bankrupt; or
@@ -472,16 +473,19 @@ The appointment of a person as the Governor under section 40 or 48 or as the Dep
 (1A) No person may be appointed or reappointed, or continue to hold office, as Deputy Governor, if that person is a member of the Board (except where the Deputy Governor is acting as the Governor).
 (2) The Governor or Deputy Governor shall be deemed to have resigned office if that person is prohibited from continuing to hold office under this section.
 (3) If the Governor or Deputy Governor becomes aware that he or she is likely to become disqualified, he or she must disclose that fact to the Board and the Minister as soon as practicable.
+(4) In subsection (1)﻿(b), relevant operator of an FMI—
+  (a) means an operator of an FMI within the meaning of those terms in section 5 of the Financial Market Infrastructures Act 2021; but
+  (b) does not include an operator that is the Bank or a subsidiary of the Bank.
 
 ### 47 Incapacity of Governor and Deputy Governor
-(1) In the case of the absence or incapacity of the Governor, the Deputy Governor shall have all the duties, responsibilities, and functions of the Governor under this Act and may exercise all the powers of the Governor under this Act, the Insurance (Prudential Supervision) Act 2010, or the Non-bank Deposit Takers Act 2013.
+(1) In the case of the absence or incapacity of the Governor, the Deputy Governor shall have all the duties, responsibilities, and functions of the Governor under this Act and may exercise all the powers of the Governor under this Act, the Insurance (Prudential Supervision) Act 2010, the Financial Market Infrastructures Act 2021, or the Non-bank Deposit Takers Act 2013.
 (2) In the case of the absence or incapacity of the Governor and the Deputy Governor, the Minister shall, on the recommendation of the Board, appoint—to act as Governor.
   (a) a director of the Bank; or
   (b) an officer of the Bank—
 (3) If the Minister is unable to make an appointment under subsection (2) by reason of the fact that, in the circumstances, it is impracticable for a meeting of the Board to be held, the Minister shall appoint—to act as Governor for a period not exceeding 28 days.
   (a) a director of the Bank; or
   (b) an officer of the Bank—
-(4) The person appointed to act as Governor shall, so long as the appointment continues, have all the duties, responsibilities, and functions of the Governor under this Act and may exercise all the powers of the Governor under this Act, the Insurance (Prudential Supervision) Act 2010, or the Non-bank Deposit Takers Act 2013.
+(4) The person appointed to act as Governor shall, so long as the appointment continues, have all the duties, responsibilities, and functions of the Governor under this Act and may exercise all the powers of the Governor under this Act, the Insurance (Prudential Supervision) Act 2010, the Financial Market Infrastructures Act 2021, or the Non-bank Deposit Takers Act 2013.
 (5) While any of the following persons is acting as Governor in accordance with this section, he or she must be taken to be a director of the Bank:
   (a) the Deputy Governor:
   (b) a person appointed to act as Governor, but who is not a director of the Bank.
@@ -522,7 +526,7 @@ The appointment of a person as the Governor under section 40 or 48 or as the Dep
   (h) that the Governor has, while holding office as Governor,—
     (i) held any other office of profit; or
     (ii) engaged in any other occupation for reward; or
-    (iii) had an ownership interest in a registered bank or a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013 or a licensed insurer; or
+    (iii) had an ownership interest in a registered bank or a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013 or a licensed insurer or a relevant operator of an FMI as defined in section 46(4); or
     (iv) had an ownership interest in a bank carrying on business outside New Zealand; or
   (i) that the Governor is unable to carry out the responsibilities of office, or has been guilty of serious neglect of duty, or has been guilty of misconduct.
 (3) The Minister may tender advice under this section whether or not the Board has made a recommendation under section 53(3) or (5) that the Governor be removed from office.
@@ -538,7 +542,7 @@ The appointment of a person as the Governor under section 40 or 48 or as the Dep
   (d) the Deputy Governor has, while holding office as Deputy Governor,—
     (i) held any other office of profit; or
     (ii) engaged in any other occupation for reward; or
-    (iii) had an ownership interest in a registered bank or a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013 or a licensed insurer; or
+    (iii) had an ownership interest in a registered bank or a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013 or a licensed insurer or a relevant operator of an FMI as defined in section 46(4); or
     (iv) had an ownership interest in a bank carrying on business outside New Zealand.
   (e) the Deputy Governor is unable to carry out the responsibilities of office, or has been guilty of serious neglect of duty, or has been guilty of misconduct.
 (3) The Minister may tender advice under this section whether or not the Board has made a recommendation under section 53(4) or (5) that the Deputy Governor be removed from office (except that a recommendation is required under subsection (2)﻿(b)).
@@ -551,14 +555,16 @@ The appointment of a person as the Governor under section 40 or 48 or as the Dep
 (5) Subject to any general or special directions given or conditions attached by the Governor, any person to whom any powers or functions are delegated under this section may exercise them in the same manner and with the same effect as if they had been conferred directly by this Act or under any of the following Acts, and not by delegation:
   (a) the Anti-Money Laundering and Countering Financing of Terrorism Act 2009:
   (b) the Insurance (Prudential Supervision) Act 2010:
-  (c) the Non-bank Deposit Takers Act 2013.
+  (c) the Non-bank Deposit Takers Act 2013:
+  (d) the Financial Market Infrastructures Act 2021.
 (6) A delegation under this section may be revoked at any time.
 (7) A delegation of any power or function under this section shall not prevent the exercise of the power or function by the Governor.
 (8) Any such delegation, until it is revoked, shall continue in force according to its tenor, notwithstanding that the Governor who made it may have ceased to hold office.
 (9) To avoid doubt, the Governor's functions and powers include his or her functions and powers under the following Acts:
   (a) the Anti-Money Laundering and Countering Financing of Terrorism Act 2009:
   (b) the Insurance (Prudential Supervision) Act 2010:
-  (c) the Non-bank Deposit Takers Act 2013.
+  (c) the Non-bank Deposit Takers Act 2013:
+  (d) the Financial Market Infrastructures Act 2021.
 
 **Board of directors**
 
@@ -585,7 +591,7 @@ There shall be a board of directors of the Bank.
   (f) that the Governor has, while holding office as Governor,—
     (i) held any other office of profit; or
     (ii) engaged in any other occupation for reward; or
-    (iii) had an ownership interest in a registered bank or a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013 or a licensed insurer; or
+    (iii) had an ownership interest in a registered bank or a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013 or a licensed insurer or a relevant operator of an FMI as defined in section 46(4); or
     (iv) had an ownership interest in a bank carrying on business outside New Zealand; or
   (g) that the Governor is unable to carry out the responsibilities of office, or has been guilty of serious neglect of duty, or has been guilty of misconduct,—
 (4) The Board must advise the Minister in writing and may recommend to the Minister that the Deputy Governor be removed from office if the Board is satisfied—
@@ -595,7 +601,7 @@ There shall be a board of directors of the Bank.
   (d) that the Deputy Governor has, while holding office as Deputy Governor,—
     (i) held any other office of profit; or
     (ii) engaged in any other occupation for reward; or
-    (iii) had an ownership interest in a registered bank or a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013 or a licensed insurer; or
+    (iii) had an ownership interest in a registered bank or a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013 or a licensed insurer or a relevant operator of an FMI as defined in section 46(4); or
     (iv) had an ownership interest in a bank carrying on business outside New Zealand; or
   (e) that the Deputy Governor is unable to carry out the responsibilities of office, or has been guilty of serious neglect of duty, or has been guilty of misconduct.
 (5) The Board must advise the Minister in writing, and may recommend that the Governor, Deputy Governor, or any other member of the MPC be removed from office, if the Board is satisfied of any matter referred to in clause 19(2)﻿(a) to (e) of Schedule 2.
@@ -656,7 +662,7 @@ In considering the appointment or reappointment of a person to the office of non
 ### 58 Disqualification of non-executive directors
 No person may be appointed or reappointed, or continue to hold, the office of non-executive director of the Bank if that person—
   (a) is a member of Parliament; or
-  (b) is a director or an employee of a registered bank or a licensed insurer or a licensed NBDT (as defined in the Non-bank Deposit Takers Act 2013); or
+  (b) is a director or an employee of a registered bank or a licensed insurer or a licensed NBDT (as defined in the Non-bank Deposit Takers Act 2013) or a relevant operator of an FMI (as defined in section 46(4)); or
   (c) is a member of the MPC; or
   (ca) is subject to a property order under the Protection of Personal and Property Rights Act 1988; or
   (cb) is an undischarged bankrupt; or
@@ -2099,11 +2105,11 @@ In this section and in sections 139B to 139J, unless the context otherwise requi
   - **SPV** means a special purpose vehicle.
 
 ### 139B Meaning of covered bond SPV
-  - **covered bond SPV** In sections 139A to 139J, means, in relation to a covered bond programme, a person that—
-    (a) is, or will be, the owner of an asset that has been, or will be, sold, assigned, or otherwise transferred to it by, or on behalf of, an issuer or an associated person of an issuer; and
-    (b) has granted, or may grant, a security interest in that asset for the benefit of the secured creditors under the covered bond programme; and
-    (c) carries on a business of acting as covered bond guarantor under the covered bond programme (including any business incidental to that purpose); and
-    (d) (other than as described in paragraph (c)) does not carry on any other kind of business.
+In sections 139A to 139J, covered bond SPV means, in relation to a covered bond programme, a person that—
+  (a) is, or will be, the owner of an asset that has been, or will be, sold, assigned, or otherwise transferred to it by, or on behalf of, an issuer or an associated person of an issuer; and
+  (b) has granted, or may grant, a security interest in that asset for the benefit of the secured creditors under the covered bond programme; and
+  (c) carries on a business of acting as covered bond guarantor under the covered bond programme (including any business incidental to that purpose); and
+  (d) (other than as described in paragraph (c)) does not carry on any other kind of business.
 
 ### 139C Meaning of issuer
 (1) For the purposes of sections 139A to 139J, issuer—
@@ -3140,6 +3146,7 @@ The Bank's financial year ends on the day on which the Government's financial ye
   (da)
   (e) sections 163, 166, 167, and 190:
   (ea) the Non-bank Deposit Takers Act 2013:
+  (eb) the Financial Market Infrastructures Act 2021:
   (f) if the Minister and the Governor agree, any other provision of this Act:
   (g) any other Act.
 (2) There shall be a funding agreement applying for every financial year and each funding agreement shall apply to a period that comprises 5 consecutive financial years.
@@ -3187,8 +3194,12 @@ The purpose of the 3 accountability documents required under this Part is as fol
 
 ### 162AB Assessment of regulatory impacts of policies
 (1) The Bank must—
-  (a) assess the expected regulatory impacts of any policy that it intends to adopt under Part 5, Parts 5B and 5C, and under the Non-bank Deposit Takers Act 2013 and the Insurance (Prudential Supervision) Act 2010; and
-  (b) assess the regulatory impacts of the policies adopted and applied under Part 5, Parts 5B and 5C, and under the Non-bank Deposit Takers Act 2013 and the Insurance (Prudential Supervision) Act 2010 at intervals appropriate to the nature of the policy being assessed; and
+  (a) assess the expected regulatory impacts of any policy that it intends to adopt under any of the following:
+    (i) Part 5:
+    (ii) the Insurance (Prudential Supervision) Act 2010:
+    (iii) the Non-bank Deposit Takers Act 2013:
+    (iv) the Financial Market Infrastructures Act 2021; and
+  (b) assess the regulatory impacts of the policies adopted under the enactments listed in paragraph (a)﻿(i) to (iv) at intervals appropriate to the nature of the policy being assessed; and
   (c) give reports on the assessments to the Minister.
 (2) Subsection (1) does not apply in respect of any policy that is of a minor or technical nature.
 (3) The Bank may provide reports on the assessments of regulatory impacts to the Minister—
@@ -3623,6 +3634,7 @@ The Board must consult the Governor before making a recommendation under clause 
     (i) a registered bank; or
     (ii) a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013; or
     (iii) a licensed insurer; or
+    (iv) a relevant operator of an FMI as defined in section 46(4); or
   (c) a chief executive of a Government department or an employee of a Government department, appointed under the Public Service Act 2020; or
   (d) a member of the Board; or
   (e) subject to a property order under the Protection of Personal and Property Rights Act 1988; or
