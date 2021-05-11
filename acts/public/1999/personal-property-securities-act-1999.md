@@ -1,5 +1,5 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-05-11_
 
 > An Act to reform the law relating to security interests in personal property and, in particular,—ato provide for the creation and enforceability of security interests in personal property; andbto provide for the determination of priority between security interests in the same personal property; andcto provide for the determination of priority between security interests and other types of interests in the same personal property; anddto provide for the enforcement of security interests in personal property other than consumer goods; andeto provide for the establishment of a register of security interests in personal property
 
@@ -887,7 +887,7 @@ A perfected security interest in crops is not extinguished or prejudicially affe
 (1) The interest of an operator in personal property has priority over any security interest (including a purchase money security interest) in the same personal property if a participant in a designated settlement system has, in accordance with the rules of that designated settlement system,—
   (a) either—
     (i) granted a security interest in that personal property in favour of the operator; or
-    (ii) transferred that personal property, or the operator's interest in that personal property, to the operator; and
+    (ii) transferred that personal property, or the participant’s interest in that personal property, to the operator; and
   (b) taken that action for the purpose of, or in connection with, either—
     (i) effecting a settlement in accordance with the rules of that designated settlement system; or
     (ii) mitigating a loss that may be incurred by the operator if the participant defaults.
