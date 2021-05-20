@@ -1,5 +1,5 @@
 # Personal Property Securities Amendment Act 2011
-_Consolidation as at 2014-04-14_
+_Consolidation as at 2021-05-20_
 
 ### 1 Title
 This Act is the Personal Property Securities Amendment Act 2011.
