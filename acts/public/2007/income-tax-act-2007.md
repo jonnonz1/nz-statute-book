@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2021-04-01_
+_Consolidation as at 2021-05-24_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -34007,77 +34007,38 @@ Instalment shown in complete dollars
 [Repealed]
 
 ### MF 4F Calculation of instalments: 1 April 2018 to 30 June 2018
-When this section applies
-(1) This section applies for calculating the amount of an instalment by way of tax credit for the abating WFF tax credit for the period starting on 1 April 2018 and finishing on 30 June 2018.
-Family tax credit formula: section MD 3
-(2) The instalments for the relevant tax credit are calculated using, for the calculation of the family tax credit, the formula—prescribed amount × days ÷ 365.
-Definition of items in formula
-(3) The items in the formula in subsection (2) are defined in subsections (4) and (5).
-Prescribed amount
-(4) Prescribed amount is the sum of the following amounts:
-  (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, 1 of the following, as applicable:
-    (i) $4,822, if the child is younger than 16:
-    (ii) $5,303, if the child is 16 or older:
-    (iii) a weighted average of the amounts in subparagraphs (i) and (ii) that reflects the proportion of the period for which those subparagraphs apply to the child, if the child turns 16 during the entitlement period; and
-  (b) for each dependent child for whom the person is a principal caregiver during the entitlement period, other than the eldest dependent child, 1 of the following, as applicable:
-    (i) $3,351, if the child is younger than 13:
-    (ii) $3,822, if the child is 13, 14, or 15:
-    (iii) $4,745, if the child is 16 or older:
-    (iv) a weighted average of the amounts in subparagraphs (i) and (ii) that reflects the proportion of the period for which those subparagraphs apply to the child, if the child turns 13 during the entitlement period:
-    (v) a weighted average of the amounts in subparagraphs (ii) and (iii) that reflects the proportion of the entitlement period for which those subparagraphs apply to the child, if the child turns 16 during the entitlement period.
-Days
-(5) Days is the number of days in the entitlement period.
-When another person cares for dependent child
-(6) A family tax credit must be reduced in proportion to the time in the entitlement period that a dependent child spends in the exclusive care of another person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?).
-Family credit abatement formula: section MD 13
-(7) The instalments for the relevant tax credit are calculated using, for the calculation of the family credit abatement, the formula—full-year abatement × days ÷ 365.
-Definition of items in formula
-(8) In the formula in subsection (7),—
-  (a) full-year abatement is,—
-    (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $36,350, 22.5 cents for each complete dollar of the excess; or
-    (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $36,350, 22.5 cents for each complete dollar of the excess:
-  (b) days is the number of days in the entitlement period excluding the days of any calendar months in which the person receives protected family tax credit as described in section MD 14 (Person receiving protected family tax credit).
-When 70-day period includes 31 March
-(9) If a person who qualifies under section MC 2 receives instalments of the parental tax credit in a 70-day period that includes 31 March, the formula in subsection (7) is applied so that—
-  (a) instalments of the parental tax credit received in the first tax year are abated against the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for that tax year; and
-  (b) instalments of the parental tax credit received in the second tax year are abated against the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for that tax year.
-Relationship with subject matter
-(10) Sections MD 14 to MD 16 (which relate to family credit abatement), with necessary modifications, apply to the calculation of the family credit abatement in subsection (7).
+[Repealed]
 
 ### MF 4G Calculation of instalments: 1 July 2018 to 31 March 2019
+[Repealed]
+
+### MF 4H Calculation of instalments: 1 April 2021 to 30 June 2021
 When this section applies
-(1) This section applies for calculating the amount of an instalment by way of tax credit for the abating WFF tax credit for the period starting on 1 July 2018 and finishing on 31 March 2019.
-Family tax credit formula: section MD 3
-(2) The instalments for the relevant tax credit are calculated using, for the calculation of the family tax credit, the formula—prescribed amount × days ÷ 365.
+(1) This section applies for calculating the amount of an instalment by way of tax credit under section ME 1 (Minimum family tax credit) for the period starting on 1 April 2021 and finishing on 30 June 2021.
+Minimum family tax credit formula: section ME 1
+(2) The instalments for the tax credit under section ME 1 are calculated using the formula—(prescribed amount − net family scheme income) × weekly periods ÷ 52.
 Definition of items in formula
-(3) The items in the formula in subsection (2) are defined in subsections (4) and (5).
-Prescribed amount
-(4) Prescribed amount is the sum of the following amounts:
-  (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, 1 of the following, as applicable:
-    (i) $5,878, if the child is younger than 16:
-    (ii) $5,878, if the child is 16 or older:
-  (b) for each dependent child for whom the person is a principal caregiver during the entitlement period, other than the eldest dependent child, 1 of the following, as applicable:
-    (i) $4,745, if the child is younger than 13:
-    (ii) $4,745, if the child is 13, 14, or 15:
-    (iii) $4,745, if the child is 16 or older.
-Days
-(5) Days is the number of days in the entitlement period.
-When another person cares for dependent child
-(6) A family tax credit must be reduced in proportion to the time in the entitlement period that a dependent child spends in the exclusive care of another person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?).
-Family credit abatement formula: section MD 13
-(7) The instalments for the relevant tax credit are calculated using, for the calculation of the family credit abatement, the formula—full-year abatement × days ÷ 365.
+(3) In the formula,—
+  (a) prescribed amount is $30,576:
+  (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3 (Meaning of net family scheme income), for a relationship period containing the entitlement period, of—
+    (i) the person; or
+    (ii) their spouse, civil union partner, or de facto partner; or
+    (iii) the person and their spouse, civil union partner, or de facto partner:
+  (c) weekly periods is the number of periods of 1 week in the entitlement period for which the person is a full-time earner.
+
+### MF 4I Calculation of instalments: 1 July 2021 to 31 March 2022
+When this section applies
+(1) This section applies for calculating the amount of an instalment by way of tax credit under section ME 1 (Minimum family tax credit) for the period starting on 1 July 2021 and finishing on 31 March 2022.
+Minimum family tax credit formula: section ME 1
+(2) The instalments for the tax credit under section ME 1 are calculated using the formula—(prescribed amount − net family scheme income) × weekly periods ÷ 52.
 Definition of items in formula
-(8) In the formula in subsection (7),—
-  (a) full-year abatement is,—
-    (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $42,700, 25 cents for each complete dollar of the excess; or
-    (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $42,700, 25 cents for each complete dollar of the excess:
-  (b) days is the number of days in the entitlement period, excluding the days of any calendar months in which the person receives protected family tax credit as described in section MD 14 (Person receiving protected family tax credit).
-When 70-day period includes 31 March
-(9) If a person who qualifies under section MC 2 receives instalments of the parental tax credit in a 70-day period that includes 31 March, the formula in subsection (7) is applied so that—
-  (a) instalments of the parental tax credit received in the first tax year are abated against the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for that tax year; and
-  (b) instalments of the parental tax credit received in the second tax year are abated against the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for that tax year.
-Relationship with subject matter
-(10) Sections MD 14 to MD 16 (which relate to family credit abatement), with necessary modifications, apply to the calculation of the family credit abatement in subsection (7).
+(3) In the formula,—
+  (a) prescribed amount is $31,096:
+  (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3 (Meaning of net family scheme income), for a relationship period containing the entitlement period, of—
+    (i) the person; or
+    (ii) their spouse, civil union partner, or de facto partner; or
+    (iii) the person and their spouse, civil union partner, or de facto partner:
+  (c) weekly periods is the number of periods of 1 week in the entitlement period for which the person is a full-time earner.
 
 ### MF 5 Recovery of overpaid tax credit
 When this section applies
