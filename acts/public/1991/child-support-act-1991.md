@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2021-04-01_
+_Consolidation as at 2021-05-24_
 
 > Title
 
@@ -2291,9 +2291,11 @@ Late payment penalties
   (a) the time stated in that subsection (which is a time after the time at which all of the debt became due and payable) occurs on or after 1 April 2016; and
   (b) at the time stated in that subsection, some or all of the debt remains unpaid.
 Late payment penalty: due date
-(2) At the expiry of the due date, the penalty is an amount equal to 2% of the amount of financial support remaining unpaid at the expiry of the due date.
-Late payment penalty: 27th day after due date
-(3) At the expiry of the 27th day after the due date, the penalty is an amount equal to 8% of so much (if any) of the amount of financial support (excluding the penalty imposed under subsection (2)) remaining unpaid at that expiry.
+(2) At the expiry of the due date, the penalty is the greater of the following amounts:
+  (a) the amount of $5; and
+  (b) an amount equal to 2% of the amount of financial support remaining unpaid at the expiry of the due date.
+Late payment penalty: seventh day after due date
+(3) At the expiry of the seventh day after the due date, the penalty is an amount equal to 8% of so much (if any) of the amount of financial support (excluding the penalty imposed under subsection (2)) remaining unpaid at that expiry.
 Incremental late payment penalty: first month after due date
 (4)
 Incremental late payment penalty: first 11 later months
@@ -3829,7 +3831,7 @@ The repeal of sections 105(2)﻿(e) and 106B by sections 36 and 37 of the 2021 A
   (b) the power of the court in any proceedings that were commenced under section 103B or 104 before commencement of sections 36 and 37 of the 2021 Amendment Act but that were not completed, and the court may make an order under section 106 on the ground in section 105(2)﻿(e) as if sections 105(2)﻿(e) and 106B had not been repealed.
 
 ### 20 Amendments to section 134 (Penalties for late payment of financial support debts)
-The amendments to section 134 made by section 42 of the 2021 Amendment Act apply to a financial support debt if the expiry of the seventh day after the due date falls on or after commencement of section 42 of the 2021 Amendment Act, but do not apply to a financial support debt if the expiry of the seventh day after the due date falls before commencement of that provision.
+[Repealed]
 
 ### 21 Savings provision about relief from penalty if full or substantial compliance with payment arrangement entered into or made within 3-month period
 Section 135GB continues to apply during the period beginning on 1 April 2021 and ending with the commencement of section 43 of the 2021 Amendment Act (sixty-day grace period before penalties apply) as if section 135GB had not been repealed by the 2021 Amendment Act and as if section 135GB applies both to initial late payment penalties that are imposed under old section 134 and to penalties that are imposed under new section 134.
