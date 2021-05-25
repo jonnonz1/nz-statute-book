@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2020-09-29_
+_Consolidation as at 2021-05-25_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -243,6 +243,9 @@ For the purposes of this Act, a person operates a pharmacy if the person—
   (b) establishes, owns, or is responsible for the management or control of a hospital in which there is a pharmacy; or
   (c) establishes, or is responsible for the management or control of a pharmacy carried on, on a not for profit basis.
 
+### 5C Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+
 ## Part 1 — Application and administration of Act
 
 **Application**
@@ -424,7 +427,7 @@ The Minister shall provide every committee appointed under section 8, and the Me
 (5) On receipt of an objection under subsection (4), the Minister shall, before making his decision, refer the matter to the Medicines Review Committee, which shall convene such meeting or meetings as may be necessary for it to consider the matter, and shall report on it to the Minister with a recommendation as to the decision that the Minister should make.
 
 ### 23 Minister may give provisional consent
-(1) Notwithstanding sections 20 to 22, the Minister may, by notice in the Gazette, in accordance with this section, give his provisional consent to the sale or supply or use of a new medicine where he is of the opinion that it is desirable that the medicine be sold, supplied, or used on a restricted basis for the treatment of a limited number of patients.
+(1) Notwithstanding sections 20 to 22, the Minister may, by notice in the Gazette, in accordance with this section, give provisional consent to the sale or supply or use of a new medicine if the Minister is of the opinion that it is desirable that the medicine be sold, supplied, or used.
 (2) An application for the Minister's provisional consent under this section shall—
   (a) be made in accordance with paragraphs (b) and (ca) of section 21(1):
   (b) be addressed to the Director-General:
@@ -1714,6 +1717,23 @@ Section 114A expires 1 year after the date of its commencement.
 ### 115 Repeals
 The enactments specified in Schedule 2 are hereby repealed.
 
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Medicines Amendment Act 2021
+
+### 1 Validation of certain provisional consents
+(1) The following provisional consents must be treated as having been given under section 23 as amended by the Medicines Amendment Act 2021:
+  (a) the provisional consent for Comirnaty (COVID-19 mRNA vaccine) (as notified in Provisional Consent to the Distribution of a New Medicine (Gazette 2021-go338)):
+  (b) the provisional consent for Necon 0.5/35 (as notified in Provisional Consent to the Distribution of a New Medicine (Gazette 2020-go2377)):
+  (c) the provisional consent for 0.9% Sodium Chloride Injection (as notified in Provisional Consent to the Distribution of a New Medicine (Gazette 2020-go3009)):
+  (d) the provisional consent for the Panvax vaccine (as notified in Provisional Consent to the Distribution of a New Medicine (Gazette 2018-go6374)):
+  (e) the provisional consent for Brevinor 28 Day (as notified in Provisional Consent to the Distribution of New Medicines (Gazette 2020-go1987)):
+  (f) the provisional consent for H5N1 Influenza Vaccine (as notified in Provisional Consent to the Distribution of New Medicines (Gazette 2018-go576)).
+(2) For the purposes of subclause (1),—
+  (a) the Medicines Amendment Act 2021 must be treated as having been in force when the provisional consents were given; and
+  (b) a reference to a provisional consent includes any renewal of the provisional consent or subsequent provisional consent for the same product; and
+  (c) a reference to a notice in the Gazette includes any notice that amends or replaces that notice.
+
 ## Schedule 1
 
 ## Schedule 2 — Enactments repealed
@@ -1788,18 +1808,3 @@ The enactments specified in Schedule 2 are hereby repealed.
 
 ### 8 Application of Standards and Accreditation Act 2015, other enactments, and rules of law not affected
 Nothing in this schedule affects the application of sections 29 to 32 of the Standards and Accreditation Act 2015, any other enactment, or any rule of law.
-
-### 1 Title
-This Act is the Human Assisted Reproductive Technology Act 2004.
-
-### 2 Commencement
-(1) Part 1, subpart 1 of Part 2, the provisions of section 67 (other than subsection (2)﻿(c)﻿(ii) to (v)), sections 68 to 75, the provisions of section 76(1), sections 77, 79 to 85, and 87, and Schedules 1 and 2 come into force on the day after the date on which this Act receives the Royal assent.
-(2) The rest of this Act comes into force on the expiry of 9 months after the date on which it receives the Royal assent.
-
-## Part 4 — Enforcement and miscellaneous provisions
-
-**Amendments to other enactments**
-
-### 86 Amendment to Medicines Act 1981
-((1), (2)) Amendment(s) incorporated in the Act(s).
-(3) Any application made, before the commencement of this section, under section 96G of the Medicines Act 1981 for the grant of an authorisation in relation to any germ-cell genetic procedure or any cloning procedure must be treated as if this Act had not been enacted; and an authorisation under section 96C or section 96D of that Act granted in respect of such an application has effect as if this Act had not been enacted.
