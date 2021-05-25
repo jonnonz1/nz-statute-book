@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Act 2000
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-05-25_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Act 2000.
@@ -1061,7 +1061,7 @@ Neither the Crown nor any publicly-owned health and disability organisation may 
     (iv) any other conditions relating to their use:
   (d) providing for reviews or appeals, or both, of any decisions made under any regulations authorised by paragraphs (a) to (c):
   (e) prescribing offences relating to the improper use of the cards and the fines (not exceeding $10,000) that may be imposed in respect of any such offences.
-(4) The Health Entitlement Card Regulations 1993 are deemed to have been made under subsection (3) and may be amended or revoked accordingly.
+(4) The Health Entitlement Cards Regulations 1993 are deemed to have been made under subsection (3) and may be amended or revoked accordingly.
 (5) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) providing for returns to be made by persons importing into or manufacturing in New Zealand any alcohol, or any class or kind of alcohol, for the purpose of ascertaining the amount of any levy payable under this Act, and providing for the verification of returns:
   (b) exempting any person or class of persons from paying any levy that would otherwise be payable under this Act in any case where the cost of assessing or collecting the levy exceeds the amount payable by way of the levy:
@@ -2174,8 +2174,8 @@ The powers and authorities of the Customs under the Customs and Excise Act 2018,
 | A | 2203.00.12, 2206.00.37, 2208.70.30, 2208.90.62 | More than 1.15% but not more than 2.5% | 1.5% |
 | B | 2203.00.22, 2203.00.31, 2203.00.39, 2206.00.47, 2208.70.40, 2208.90.68 | More than 2.5% but not more than 6% | Variable |
 | C | 2206.00.57, 2208.70.50, 2208.90.72 | More than 6% but not more than 9% | 8% |
-| D | 2204.10.01, 2204.10.18, 2204.21.18, 2204.29.18, 2205.10.19, 2205.10.38, 2205.90.19, 2205.90.38, 2206.00.08, 2206.00.68, 2208.70.60, 2208.90.78 | More than 9% but not more than 14% | 10% |
-| E | 2204.21.13, 2204.29.13, 2205.10.12, 2205.10.33, 2205.90.12, 2205.90.33, 2206.00.17, 2206.00.78, 2208.70.71, 2208.90.06, 2208.90.85 | More than 14% but not more than 23% | Variable |
+| D | 2204.10.01, 2204.10.18, 2204.21.18, 2204.22.90, 2204.29.90, 2205.10.19, 2205.10.38, 2205.90.19, 2205.90.38, 2206.00.08, 2206.00.68, 2208.70.60, 2208.90.78 | More than 9% but not more than 14% | 10% |
+| E | 2204.21.13, 2204.22.19, 2204.29.20, 2205.10.12, 2205.10.33, 2205.90.12, 2205.90.33, 2206.00.17, 2206.00.78, 2208.70.71, 2208.90.06, 2208.90.85 | More than 14% but not more than 23% | Variable |
 | F | 2206.00.28, 2206.00.89, 2208.20.04, 2208.20.08, 2208.20.19, 2208.20.29, 2208.30.04, 2208.30.08, 2208.30.19, 2208.40.04, 2208.40.08, 2208.40.19, 2208.50.04, 2208.50.08, 2208.50.19, 2208.60.19, 2208.60.29, 2208.60.99, 2208.70.80, 2208.90.08, 2208.90.48, 2208.90.97 | More than 23% | Variable |
 
 ## Schedule 5 — Provisions applying to mortality review committees
@@ -2441,33 +2441,6 @@ An organisation (other than NZBOS) is a public office for the purposes of the Pu
 ## Schedule 9 — Consequential amendments to Acts
 
 ## Schedule 10 — Consequential amendments to other instruments
-
-### 1 Title
-This Act is the New Zealand Public Health and Disability Amendment Act 2010.
-
-### 2 Commencement
-(1) This Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more orders may be made appointing different dates for different provisions.
-(2) To the extent not previously brought into force under subsection (1), this Act comes into force 6 months after the date on which it receives the Royal assent.
-
-## Part 2 — Transitional arrangements and amendments to other enactments
-
-**Transitional arrangements**
-
-### 27 Transitional arrangements for district strategic plans and district annual plans
-(1) Every district strategic plan of a DHB that is in force immediately before the commencement of section 15 of this Act continues in force until the sooner of—
-  (a) the expiry of the district strategic plan:
-  (b) the commencement of the new plan.
-(2) Every district annual plan of a DHB that is in force immediately before the commencement of section 15 of this Act continues in force until the sooner of—
-  (a) the expiry of the district annual plan:
-  (b) the commencement of the new plan.
-(3) While a plan that is continued in force by subsection (1) or (2) continues in force, the principal Act applies to it as if this Act had not been enacted.
-(4) In this section, unless the context otherwise requires,—
-  - **district annual plan** means a plan determined under section 39 of the principal Act
-  - **district strategic plan** means a plan determined under section 38 of the principal Act
-  - **new plan** means, in relation to a DHB, a plan—
-    (a) prepared under section 38 of the principal Act as substituted by section 15 of this Act; and
-    (b) to which the DHB is a party; and
-    (c) that would apply in the place of the DHB's district strategic plan, or as the case requires, district annual plan.
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Amendment Act 2012.
