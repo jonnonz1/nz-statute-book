@@ -1,5 +1,5 @@
 # Credit Contracts Legislation Amendment Act 2019
-_Consolidation as at 2020-10-01_
+_Consolidation as at 2021-06-01_
 
 ### 1 Title
 This Act is the Credit Contracts Legislation Amendment Act 2019.
@@ -622,7 +622,7 @@ After section 131, insert:Certification and fit and proper person requirementsIn
     (b) impose conditions on the person’s certification or proposed certification or vary, revoke, add to, or substitute any conditions on the person’s certification; or
     (c) refuse an application to vary the conditions of the person’s certification; or
     (d) suspend or cancel the person’s certification.
-  (1) The Commission may refuse to perform or exercise a function, power, or duty until any fee, charge, or cost prescribed under section 138(1)(hb) is paid.
+  (1) The Commission may refuse to perform or exercise a function, power, or duty until any fee, charge, or cost prescribed under section 138(1)﻿(hb) is paid.
   (2) Any fee, charge, or cost payable to the Commission is recoverable by the Commission in any court of competent jurisdiction as a debt due to the Commission.
 
 ### 51 New section 132A inserted (Disclosure about debt collection)
@@ -827,7 +827,7 @@ After section 18(2), insert:
   (2A) The Registrar must deregister a financial service provider in respect of a particular service after a notice period in accordance with sections 19 and 20 if the Registrar is satisfied that the provider is disqualified from being registered in respect of that service.
 
 ### 64 New section 23 and cross-heading inserted
-After section 22, insert:Information-sharing provisionsInformation-sharing provisions between Registrar and Commission
+After section 22D, insert:Information-sharing provisionsInformation-sharing provisions between Registrar and Commission
   Sections 17(1)﻿(b), 18(2), 19(1), 21(b), and 22(3)﻿(b) apply as if the Commerce Commission were identified in Schedule 2 as a body that is a licensing authority in respect of creditors and mobile traders.
 
 ### 65 Section 27 amended (Contents of register)
