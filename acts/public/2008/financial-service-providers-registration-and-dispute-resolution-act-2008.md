@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2021-03-15_
+_Consolidation as at 2021-06-01_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -479,6 +479,11 @@ The Registrar must not reregister a person (A) in respect of a financial advice 
   (a) that, in 1 or more types of circumstances specified in the regulations, a period longer than 3 months applies under subsection (1)﻿(b) (instead of the 3-month period):
   (b) that the period that applies in particular circumstances is a period specified in the regulations or is a period determined on a case-by-case basis by the Registrar:
   (c) for how the Registrar determines the period that applies.
+
+**Information-sharing provisions**
+
+### 23 Information-sharing provisions between Registrar and Commission
+Sections 17(1)﻿(b), 18(2), 19(1), 21(b), and 22(3)﻿(b) apply as if the Commerce Commission were identified in Schedule 2 as a body that is a licensing authority in respect of creditors and mobile traders.
 
 **Responsible financial service provider**
 
