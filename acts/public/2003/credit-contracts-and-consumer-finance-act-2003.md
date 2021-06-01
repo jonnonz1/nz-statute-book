@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2021-03-15_
+_Consolidation as at 2021-06-01_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -1913,7 +1913,7 @@ In deciding whether to make an order under section 91 and the terms and conditio
 ### 93 Court's general power to make orders
 The court may make all or any of the orders referred to in section 94 if the court finds that a person (whether or not that person is a party to any proceedings) has suffered loss or damage by conduct of any creditor, creditor's agent, lessor, transferee, buy-back promoter, paid adviser, or broker that constitutes, or would constitute,—
   (aa) a breach of any of the provisions of section 9C (lender responsibility principles) or of sections 9J and 9K:
-  (a) a breach of any of the provisions of Part 2, 3, or 3A:
+  (a) a breach of any of the provisions of Part 2, 3, 3A, or 5A:
   (b) aiding, abetting, counselling, or procuring any other person to breach any of the provisions of section 9C, 9J, or 9K or of Part 2, 3, or 3A:
   (c) inducing, or attempting to induce, any other person, whether by threats, promises or otherwise, to breach any of the provisions of section 9C, 9J, or 9K or of Part 2, 3, or 3A:
   (d) being in any way, directly or indirectly, knowingly concerned in, or party to, the breach by any other person of any of the provisions of section 9C, 9J, or 9K or of Part 2, 3, or 3A:
@@ -1984,8 +1984,8 @@ In deciding whether to make an order under section 95A and the terms and conditi
 ### 96 Injunctions
 (1) The court may, on the application of the Commission or any other person, grant an injunction restraining a person from engaging in conduct that constitutes, or would constitute, any of the following:
   (aa) a breach of any of the provisions of section 9C (lender responsibility principles) or of sections 9J and 9K:
-  (a) a breach of any of the provisions of Parts 2, 3, and 3A:
-  (b) any attempt to breach any of the provisions of section 9C, 9J, or 9K or of Part 2, 3, or 3A:
+  (a) a breach of any of the provisions of Parts 2, 3, 3A, and 5A:
+  (b) any attempt to breach any of the provisions of section 9C, 9J, or 9K or of Part 2, 3, 3A, or 5A:
   (c) aiding, abetting, counselling, or procuring any other person to breach any of the provisions of section 9C, 9J, or 9K or of Part 2, 3, or 3A:
   (d) inducing, or attempting to induce, any other person, whether by threats, promises or otherwise, to breach any of the provisions of section 9C, 9J, or 9K or of Part 2, 3, or 3A:
   (e) being in any way, directly or indirectly, knowingly concerned in, or party to, the breach by any other person of any of the provisions of section 9C, 9J, or 9K or of Part 2, 3, or 3A:
@@ -2145,6 +2145,9 @@ If the notice requirements under section 83G or 83V, as the case may be, have no
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000, or both; and
   (b) in the case of a body corporate, to a fine not exceeding $600,000.
 (5) Conduct that constitutes an offence under section 102A does not constitute an offence under this section.
+(6) Every person commits an offence if, with respect to a document required by or for the purposes of section 116AAA or Part 5A, the person makes, or authorises the making of, a statement in the document that is false or misleading in a material particular if the person knows it to be false or misleading, and is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $200,000; and
+  (b) in the case of a body corporate, to a fine not exceeding $600,000.
 
 ### 104 Conviction for 2 or more offences
 If a person is convicted, whether in the same or separate proceedings, of 2 or more offences in respect of breaches of the same provisions of this Act and those breaches are of the same or a substantially similar nature and occurred at or about the same time, the total amount of any fines imposed on that person for those convictions must not exceed the amount of the maximum fine that may be imposed in respect of a conviction for a single offence.
@@ -2311,6 +2314,7 @@ In any proceedings under this subpart for a pecuniary penalty,—
   (ac) issue infringement notices for infringement offences; and
   (b) take prosecutions in relation to breaches of this Act; and
   (c) take civil proceedings under this Act (including proceedings under Part 5); and
+  (ca) exercise the powers in Part 5A (certification); and
   (d) make available appropriate information for the guidance of consumers, creditors, debtors, lessors, transferees, and other interested persons in relation to promoting compliance with this Act.
 (3) Nothing in this Act imposes on the Commission any duty or obligation to take any proceedings under this Act or to exercise any power conferred by this Act in respect of any particular person.
 
@@ -2472,6 +2476,135 @@ The powers of the court may be exercised whether or not—
 
 ### 131 No limit on sections 41, 80, and 82
 Nothing in this Part limits section 41 or section 80 or section 82.
+
+## Part 5A — Certification and fit and proper person requirements
+
+### 131A Interpretation for this Part
+In this Part, unless the context otherwise requires,—
+  - **licensed provider** has the same meaning as in section 4 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008
+  - **Registrar** has the same meaning as in section 4 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
+
+**Requirement for certification**
+
+### 131D Prohibitions on holding out that person is certified
+A person must not hold out that the person is certified under this Part if that is not the case.
+
+**Issue of certifications**
+
+### 131E Commission may issue certification
+The Commission may issue a certification in accordance with this Part.
+
+### 131F Application for certification
+(1) A person may apply for certification in the manner that is specified by the Commission.
+(2) The application may be for a certification in respect of being a creditor under a consumer credit contract, or being a mobile trader, or both.
+(3) An applicant must provide to the Commission the information that is required by the Commission to assist it in determining the application.
+(4) An applicant may request that 1 or more conditions be imposed on their certification.
+
+### 131G When certification must be issued
+(1) The Commission must, after receiving an application under section 131F, issue a certification if the Commission is satisfied that the applicant’s directors, senior managers, and proposed directors and senior managers, are fit and proper persons to hold their respective positions.
+(2) See section 131L for the Commission’s power to impose conditions when it issues a certification.
+
+### 131H Procedural requirements
+(1) This section applies to a decision of the Commission as to whether to issue certification under section 131G or to impose conditions under section 131L(1)﻿(a).
+(2) The Commission must have regard to the prescribed matters (if any) before making a decision.
+(3) The Commission must make the decision in the prescribed manner (if any).
+(4) Subsections (5) and (6) apply if the Commission proposes to—
+  (a) refuse to issue a certification; or
+  (b) impose a condition when the applicant has not requested a condition; or
+  (c) impose a condition that is materially more restrictive than that requested in the application.
+(5) The Commission must give the applicant no less than 10 working days’ written notice of the following matters before it exercises the power:
+  (a) that the Commission may refuse to issue the certification or impose the condition; and
+  (b) the reasons why it may exercise that power.
+(6) The Commission must give the applicant or the applicant’s representative an opportunity to make written submissions on the matter within that notice period.
+(7) In this section, applicant means—
+  (a) the person applying for certification (for example, the entity that will provide the service); and
+  (b) any director, senior manager, or proposed director or senior manager who the Commission is not satisfied is a fit and proper person to hold their respective position.
+
+### 131I Notice of decision
+(1) The Commission must give written notice of a decision referred to in section 131H to—
+  (a) the applicant; and
+  (b) every other prescribed person.
+(2) If the Commission refuses to issue a certification or imposes a condition referred to in section 131H(4), the written notice must include a statement of the Commission’s reasons for exercising the power.
+
+### 131J Commission must send certification details to Registrar
+(1) The Commission must send the details specified in subsection (2) to the Registrar after making a decision referred to in section 131H.
+(2) The details, for each certification, are—
+  (a) the name of the certified person; and
+  (b) any conditions of the certification; and
+  (c) any other prescribed information.
+(3) The Commission may publicly notify any details about a certification as it thinks fit.
+
+**Conditions of certification**
+
+### 131K Conditions of certification
+(1) The certification is subject to the conditions imposed by the Commission under section 131L and any conditions imposed by regulations (if any).
+(2) The certified person must comply with the conditions imposed on the person’s certification.
+
+### 131L When Commission may impose conditions
+(1) The Commission may, by written notice to the applicant or certified person,—
+  (a) impose conditions on a certification when the certification is issued; and
+  (b) vary, revoke, add to, or substitute any conditions of certification imposed under this section at any time after the certification is issued.
+(2) A condition referred to in subsection (1) may only—
+  (a) relate to the requirements referred to in section 131G (for example, to ensure that those requirements continue to be satisfied and to require verification that those requirements continue to be satisfied); or
+  (b) specify a date of expiry of the certification.
+(3) This section is subject to any regulations made under section 138(1)﻿(hb).
+
+### 131M Certified person may apply for variation of conditions
+(1) A certified person may apply, in the manner that is specified by the Commission, for the Commission to exercise a power under section 131L(1)﻿(b).
+(2) A certified person must provide to the Commission the information that is required by the Commission to assist it in determining the application.
+
+### 131N Procedure for variation of conditions
+The Commission must not exercise a power under section 131L(1)﻿(b) (except on an application under section 131M), or refuse an application for a variation under section 131M, unless—
+  (a) the Commission gives the certified person no less than 10 working days’ written notice of the following matters before it exercises the power:
+    (i) that the Commission may exercise the power; and
+    (ii) the reasons why it may exercise the power; and
+  (b) the Commission gives the certified person or their representative an opportunity to make written submissions on the matter within that notice period.
+
+**Expiry, suspension, or cancellation of certifications**
+
+### 131O Duration of certification
+(1) A certification continues in force (unless it is cancelled before then) until the earlier of the following dates (the termination date):
+  (a) the date that is 5 years after the date on which it is issued:
+  (b) its expiry date (if any).
+(2) Subsection (3) applies if—
+  (a) a certified person applies for a new certification no later than 2 months before the termination date of an existing certification that the new certification is intended to supersede; and
+  (b) the application is not disposed of before the termination date.
+(3) The existing certification continues in force until the application is disposed of.
+
+### 131P When Commission may suspend or cancel certification
+The Commission may suspend (for a specified period or until a specified requirement is met) or cancel a certification—
+  (a) if the certified person, by written notice, requests the Commission to do so; or
+  (b) if the certified person does not meet, or no longer meets, the requirements referred to in section 131G; or
+  (c) if the Commission is satisfied that the certified person is incapacitated, has ceased to exist, or has become subject to an insolvency event within the meaning of section 6(4) of the Financial Markets Conduct Act 2013; or
+  (d) if the Commission is satisfied that the certified person has materially contravened a condition of the certification.
+
+### 131Q Procedural requirements on suspension or cancellation of certification
+(1) The Commission must not suspend or cancel a certification unless—
+  (a) the Commission gives the certified person no less than 10 working days’ written notice of the following matters before it exercises the power:
+    (i) that the Commission may suspend or cancel the certification; and
+    (ii) the reasons why it may exercise that power; and
+  (b) the Commission gives the certified person or their representative an opportunity to make written submissions on the matter within that notice period.
+(2) In this section, certified person includes any director or senior manager, or proposed director or senior manager, who the Commission is not satisfied is a fit and proper person to hold their respective position and who is the reason why the Commission proposes to suspend or cancel the certification.
+
+**Changes relating to certified persons**
+
+### 131R Duty to notify changes
+(1) A certified person must notify the Commission about any prescribed change in circumstances (for example, a change in directors or senior managers) relating to a certified person.
+(2) The time within which a person must notify the Commission under subsection (1) is 10 working days from the date on which the person comes to know about the change.
+(3) A certified person must provide to the Commission the information that is required by the Commission to assist it in determining whether the certified person continues to meet, or no longer meets, the requirements referred to in section 131G.
+
+**Other provisions about certifications**
+
+### 131S Appeals against certification decisions
+A person may appeal to the District Court against a decision of the Commission under this Part to—
+  (a) refuse to issue a certification to the person; or
+  (b) impose conditions on the person’s certification or proposed certification or vary, revoke, add to, or substitute any conditions on the person’s certification; or
+  (c) refuse an application to vary the conditions of the person’s certification; or
+  (d) suspend or cancel the person’s certification.
+
+### 131T Fees, charges, and costs in connection with this subpart
+(1) The Commission may refuse to perform or exercise a function, power, or duty until any fee, charge, or cost prescribed under section 138(1)﻿(hb) is paid.
+(2) Any fee, charge, or cost payable to the Commission is recoverable by the Commission in any court of competent jurisdiction as a debt due to the Commission.
 
 ## Part 6 — Miscellaneous provisions
 
