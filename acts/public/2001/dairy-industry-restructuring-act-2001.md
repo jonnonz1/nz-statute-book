@@ -1,5 +1,5 @@
 # Dairy Industry Restructuring Act 2001
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2021-06-01_
 
 ### 1 Title
 This Act is the Dairy Industry Restructuring Act 2001.
@@ -27,7 +27,7 @@ The purpose of this Act is to—
   (b) provide for the transition of the New Zealand Dairy Board to a wholly-owned subsidiary of new co-op and its conversion into a company 12 months after the commencement of this Part; and
   (c)
   (d) remove restrictions on the export of dairy products except for exports to designated markets; and
-  (e) provide that Livestock Improvement Corporation Limited is established as a co-operative company that is owned by purchasers of its goods and services and provide for regulation of the core database; and
+  (e) provide for the regulation of matters relating to the core database, including its management; and
   (f) promote the efficient operation of dairy markets in New Zealand by regulating the activities of new co-op to ensure New Zealand markets for dairy goods and services are contestable; and
   (g) provide for transitional arrangements following the removal of restrictions on the export of dairy products; and
   (h) make provision in relation to certain taxation consequences relating to the amalgamation; and
@@ -35,10 +35,10 @@ The purpose of this Act is to—
 
 ### 5 Interpretation
 (1) In this Act, unless the context otherwise requires,—
+  - **Access Panel** means the Access Panel established by regulations made under section 63
   - **allocation period** means the quota year or years for which export licences are allocated in accordance with section 26
   - **amalgamation date** means the date on which the new co-op amalgamation becomes effective
   - **application period** means a period set by new co-op as an application period under section 75
-  - **approved restructuring day** , in relation to LIC, means 1 June 2002 or any earlier date in the restructuring plan that is approved by the Minister
   - **associated person** has the meaning given by subsection (2)
   - **base milk price** , in relation to a season, means the price per kilogram of milk solids that is set by new co-op for that season
   - **Board** means the New Zealand Dairy Board established under the Dairy Board Act 1961; and, on and after the conversion date, means the company into which the Board converts
@@ -50,15 +50,21 @@ The purpose of this Act is to—
     (a) traded in significant quantities in globally contested markets; and
     (b) characterised by uniform technical specifications
   - **competent authority** means the department of State that is for the time being responsible for the administration of the Animal Products Act 1999
+  - **constitution** means,—
+    (a) in the case of a company within the meaning of section 2(1) of the Companies Act 1993, the constitution of the company; and
+    (b) in the case of any other entity, the documents or instruments that form the constitution of the entity
   - **control** has the meaning given by sections 5 to 7 of the Companies Act 1993
   - **conversion date** means 27 September 2002
   - **co-operative share** means a share in new co-op issued, or to be issued,—
     (a) from the new co-op amalgamation; or
     (b) in relation to the supply of milk to new co-op by new entrants or shareholding farmers
   - **co-operative share standard** means the share standard referred to in new co-op’s constitution that determines the number of shares that a new entrant or shareholding farmer is required to hold
-  - **core database** means the part of the database operated by LIC that comprises the following information:
-    (a) information provided to LIC under the Herd Testing Regulations 1958 or under the terms and conditions of any licence issued under those regulations:
-    (b) information provided to LIC under any regulations made under this Act
+  - **core database** means the database that comprises—
+    (a) information provided to the manager of the core database under—
+      (i) the Herd Testing Regulations 1958 or under the terms and conditions of any licence issued under those regulations; or
+      (ii) any regulations made under section 62; and
+    (b) information provided to a previous manager under any of the things referred to in paragraph (a) while it was the manager of the core database; and
+    (c) information provided to a previous manager or an intended manager under regulations made under section 65C
   - **dairy farmer** , in subpart 5 of Part 2,—
     (a) means a person who produces milk, or intends to produce milk, in New Zealand from dairy cows as a business; but
     (b) does not include a sharemilker
@@ -74,10 +80,18 @@ The purpose of this Act is to—
   - **eligible participant** means a person who—
     (a) is eligible to hold an export licence; and
     (b) collects at least 0.1% of total milk solids collected from farmers in New Zealand based on the most representative data of total milk solids collected in New Zealand in the latest year that data is available prior to an allocation period
+  - **entity** means any of the following:
+    (a) a company or other body corporate:
+    (b) a corporation sole:
+    (c) in the case of a trust that has—
+      (i) only 1 trustee, the trustee acting in their capacity as trustee:
+      (ii) more than 1 trustee, the trustees acting jointly in their capacity as trustees:
+    (d) an unincorporated body (including a partnership)
   - **export** means any shipment in any craft for transportation to a point outside New Zealand
   - **export licence** , in respect of a designated market, means any of the following:
     (a) the initial licences of the Board:
     (b) a licence allocated under section 25, 26, or 29
+  - **farm gate milk price** means the total cost of milk divided by kilograms of milk solids that new co-op pays out to shareholder farmers in a season
   - **general export licence** means an export licence allocated under section 26(5)
   - **herd testing** means the testing of milk cows for the purpose of recording the production of individual cows in respect of milk or components of milk
   - **holder** , in respect of an export licence, means the person recorded in the register of export licence holders kept under section 29B
@@ -98,6 +112,7 @@ The purpose of this Act is to—
     (b) the appointment of a liquidator or interim liquidator under Part 16 of the Companies Act 1993; or
     (c) removal from the register of companies kept pursuant to section 360(1)﻿(a) of the Companies Act 1993; or
     (d) the appointment of a statutory manager under Part 3 of the Corporations (Investigation and Management) Act 1989
+  - **intended manager** , in relation to the core database, means an entity named as the intended manager of the core database by regulations made under section 65B
   - **interconnected body corporate** has the meaning given by section 2(7) of the Commerce Act 1986
   - **interim licence** means, in respect of exports to designated markets in—
     (a) Canada, the licence for the period beginning on the commencement of the Dairy Industry Restructuring Amendment Act 2007 and ending on 31 December 2007 for a quantity of butter not exceeding 2 000 tonnes; and
@@ -108,9 +123,14 @@ The purpose of this Act is to—
       (iii) as described in section 25(2)﻿(c), a licence for the period beginning on 1 January 2010 and ending on 31 December 2010 for the quantities described in that section
   - **interim period** means the period for which an interim licence is valid
   - **June price** means the price of a co-operative share determined as at 1 June by new co-op’s board under its constitution
+  - **kilograms of milk solids** means the number of kilograms of milk solids supplied to new co-op in a season by shareholding farmers
   - **LIC** means Livestock Improvement Corporation Limited
   - **LIC board** means the board of directors of LIC
   - **licensed market** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
+  - **manager of the core database** means—
+    (a) DairyNZ Limited; or
+    (b) an entity appointed by regulations made under section 65A, if regulations have been made under that section; or
+    (c) the Crown, if the management of the core database has reverted to the Crown under section 68 (and no entity has been appointed by regulations made under section 65A)
   - **marae** includes the area of land on which all buildings such as wharenui (meeting houses), wharekai (dining rooms), ablution blocks, and any other associated buildings are situated
   - **market maker in co-operative shares** means a person who is continuously active in making bids and offers on co-operative shares on the licensed market on which those shares are quoted during the periods that the licensed market is in operation
   - **milk price manual** means the manual that must be maintained by new co-op under section 150F
@@ -122,21 +142,27 @@ The purpose of this Act is to—
   - **new co-op fund** means the fund referred to in section 109D(1)﻿(b)
   - **new co-op fund securities** means the securities referred to in section 109D(1)﻿(b)﻿(i)
   - **new entrant** means a dairy farmer who is not a shareholding farmer who applies to become a shareholding farmer under section 73
-  - **panel** means the panel established under regulations made under section 63
+  - **organic milk** means raw milk certified as organic milk by a certifying entity or person prescribed by regulations made under section 115
   - **panel** means the Milk Price Panel established under section 150D
   - **person eligible to hold an export licence** means a natural person, unincorporated body, or body corporate who is registered to export under Part 5 of the Animal Products Act 1999
+  - **previous manager** , in relation to the core database, means an entity (or the Crown) replaced as manager of the core database by regulations made under section 65A
   - **price range** , in relation to an application under section 73 or a notice of withdrawal under section 97, means the range of prices from 7.5% more than the published price at the time that the application is made or the notice is given to 7.5% less than the published price at that time
   - **publicly available** , in relation to making a document or information available, means that—
     (a) the document or information is available for inspection, free of charge, on an Internet site that is publicly accessible at all reasonable times (except to the extent that making the document or information available would infringe copyright in the material in question or is inconsistent with any enactment or rule of law); and
     (b) a copy of the document or information is available for inspection, free of charge, at all reasonable times at the head office of the person required to make it publicly available or, if that person is a Minister, at the head office of the relevant Ministry; and
     (c) copies of the document or information may be purchased by any person at a reasonable price
   - **published price** means the price of a co-operative share set under section 77(1) or amended under section 77(2) as published by new co-op
-  - **qualifying company** has the meaning given by section 2A of the Dairy Board Act 1961
-  - **qualifying products or services** means Premier Sires, all nominated semen options, Sire Proving Scheme, contract mating scheme, AB Technician Services, MINDA, MINDA Herd Testing, GeneMark, identification tags, and FarmWise products and services, provided by LIC
   - **quota year** means, for designated markets in—
     (a) the European Communities, the United States of America, and the Dominican Republic, a period of 12 months beginning on 1 January and ending on 31 December; and
     (b) Japan, a period of 12 months beginning on 1 April and ending on 31 March in the following year
   - **quoted** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
+  - **raw milk** —
+    (a) means untreated milk from a cow; and
+    (b) includes untreated organic milk; and
+    (c) includes any other milk of a kind that is not excluded by paragraph (d) and is prescribed by regulations made under section 115; but
+    (d) does not include—
+      (i) milk or a component of milk from a cow if the milk or component is produced under special conditions by, for example, the use of specialised herd selection, specialised farming practice, specialised feeding practice, or new technology; or
+      (ii) colostrum
   - **relative** , in relation to any person, means—
     (a) that person's spouse, civil union partner, or de facto partner:
     (b) a parent or step-parent of that person:
@@ -153,14 +179,32 @@ The purpose of this Act is to—
   - **supply redemption rights** means the rights issued or to be issued by new co-op and defined as supply redemption rights in the constitution of new co-op
   - **surrender amount** means the amount payable to a shareholding farmer who reduces or ceases supply under section 97
   - **tariff quota** includes trade restrictions with similar effect to a tariff quota
+  - **total cost of milk** means the total calculated by—
+    (a) getting a sum by adding together all payments to which all the following apply:
+      (i) the payment is made by new co-op or any body that is an interconnected body corporate of new co-op; and
+      (ii) the payment is made to a shareholding farmer; and
+      (iii) the payment is for the raw milk that the farmer supplies to new co-op or any body that is an interconnected body corporate of new co-op in a season; and
+    (b) deducting from the sum—
+      (i) the total organic milk premium for the season; and
+      (ii) the total winter milk premium for the season
+  - **total organic milk premium** means the total premium paid to shareholding farmers for the supply of organic milk to new co-op and any body that is an interconnected body corporate of new co-op in a season
+  - **total winter milk premium** means the total premium paid to shareholding farmers for the supply of winter milk to new co-op and any body that is an interconnected body corporate of new co-op in a season
   - **trade** has the same meaning as in section 241(3) of the Financial Markets Conduct Act 2013, and for the avoidance of doubt includes exchange
   - **transacting shareholder** has the meaning given by section 4 of the Co-operative Companies Act 1996
+  - **winter milk** means raw milk supplied in June or July, and in any other period prescribed by regulations made under section 115
   - **year** means a calendar year ending on 31 December.
 (2) A person is an associated person of another person if—
   (a) they are both bodies corporate and they consist substantially of the same members or shareholders or are under the control of the same persons; or
   (b) either of them has the power, directly or indirectly, to exercise, or control the exercise of, the rights to vote attached to 25% or more of the voting products (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013) of the other; or
   (c) one is a director of the other; or
   (d) either of them is able, directly or indirectly, to exert a substantial degree of influence over the activities of the other.
+
+### 5A Status of examples
+(1) An example used in this Act is only illustrative of the provisions to which it relates. It does not limit those provisions.
+(2) If an example and a provision to which it relates are inconsistent, the provision prevails.
+
+### 5B Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
 
 ### 6 Act binds the Crown
 This Act binds the Crown.
@@ -528,12 +572,25 @@ The Crown is not liable to any person for—
   (b) for the purpose of any proceedings that have been commenced or that are reasonably in contemplation and that are connected with a matter in relation to which those persons perform their duties.
 (3) No obligation as to secrecy or other restriction on the disclosure of information imposed by any enactment or otherwise prevents a disclosure under this section.
 
-### Subpart 4 — Livestock Improvement Corporation Limited and core database
+### Subpart 4 — Management of core database
 
 ### 43 Overview
-(1) Sections 44 to 61 describe the procedure by which LIC will be restructured into a co-operative company owned by purchasers of LIC products and services.
-(2) Sections 62 to 65A contain regulation-making powers relating to herd testing, the provision of information to the core database, access to the core database, disclosure of information by LIC, and regulations relating to a dairy industry entity other than LIC.
-(3) Sections 66 to 69 provide for information to be supplied to the chief executive, offences, and deeming herd testing regulations to be made under this Act.
+(1) Section 43A states that the constitution of the manager of the core database must be read as requiring the manager to retain the core database.
+(2) Sections 48 to 52 contain provisions relating to the constitution and corporate form of LIC.
+(2A) Sections 62 to 65D contain regulation-making powers relating to—
+  (a) herd testing:
+  (b) the provision of information to the core database:
+  (c) access to the core database:
+  (d) disclosure of information by the manager of the core database:
+  (e) the appointment of the manager of the core database and the naming of an intended manager:
+  (f) the regulation of a previous manager or an intended manager of the core database.
+(3) Sections 66 to 68 provide for information to be supplied to the chief executive, offences, and deeming herd testing regulations to be made under this Act.
+
+### 43A Manager of core database must retain database
+(1) The constitution of the manager of the core database must be read as requiring the manager to retain the core database.
+(2) Subsection (1) does not apply if—
+  (a) the Minister and the manager of the core database agree in writing that the subsection no longer applies; or
+  (b) the manager of the core database is the Crown.
 
 **Restructuring plan for LIC**
 
@@ -547,7 +604,7 @@ The Crown is not liable to any person for—
 [Repealed]
 
 ### 47 Constitution must provide for retention of core database
-The LIC board must ensure that the constitution in the restructuring plan requires LIC to retain the core database.
+[Repealed]
 
 ### 48 Constitution must restrict who may hold shares
 (1) The LIC board must ensure that the constitution in the restructuring plan requires that shares in LIC must be held only by persons who—
@@ -606,11 +663,7 @@ The provisions of the constitution of LIC referred to in sections 47 to 50 may n
 [Repealed]
 
 ### 61 Employees
-For the avoidance of doubt,—
-  (a) the restructuring of LIC under this subpart does not affect any employment agreement that is applicable to LIC; and
-  (b) each employee of LIC continues to be an employee of LIC and, for the purposes of every enactment, law, award, determination, contract, and agreement relating to the employment of the employee, his or her employment agreement is unbroken and the period of his or her service with LIC, and every other period of service that is recognised by LIC as his or her continuous service, continues to be recognised; and
-  (c) the terms and conditions of the employment of each employee with LIC are (until varied) identical to the terms and conditions of his or her employment before the restructuring and are capable of variation in the same manner; and
-  (d) an employee is not entitled to receive any payment or other benefit by reason only of the restructuring.
+[Repealed]
 
 **Miscellaneous**
 
@@ -623,30 +676,30 @@ The Governor-General may, by Order in Council made on the recommendation of the 
     (iii) providing for other matters related to certifications, including applications, procedures, auditing of herd testers against herd testing practice standards, and the keeping of registers:
   (c) requiring LIC to offer a nationwide herd testing service:
   (d) requiring LIC to charge uniform prices for its herd testing service within regions specified in the regulations:
-  (e) specifying information that must be provided to LIC for entering into the core database, the persons who are required to provide it, the form in which it must be provided, and the time limits for its provision:
-  (f) requiring LIC to retain information specified in the regulations in the manner prescribed in the regulations:
+  (e) specifying information that must be provided to the manager of the core database for entering into the core database, the persons who are required to provide it, the form in which it must be provided, and the time limits for its provision:
+  (f) requiring the manager of the core database to retain information specified in the regulations in the manner prescribed in the regulations:
   (g) restricting the liability of the Crown for acts or omissions of persons approved to issue certifications.
 
 ### 63 Regulations relating to access to core database
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
-  (a) prohibiting LIC from entering into exclusive arrangements for access to data in the core database:
-  (b) providing for the establishment of a panel (comprising 2 or more persons) to—
+  (a) prohibiting the manager of the core database from entering into exclusive arrangements for access to data in the core database:
+  (b) providing for the establishment of an Access Panel (comprising 2 or more persons) to—
     (i) decide applications for access to data in the core database; and
-    (ii) determine other circumstances in which LIC must make data in the core database available (including, for example, at the request of persons who have supplied the information from which that data results):
-  (c) restricting LIC from making available data in the core database except—
-    (i) in accordance with a decision or determination of the panel; or
+    (ii) determine other circumstances in which the manager of the core database must make data in the core database available (including, for example, at the request of persons who have supplied the information from which that data results):
+  (c) restricting the manager of the core database from making available data in the core database except—
+    (i) in accordance with a decision or determination of the Access Panel; or
     (ii) to the owner of the dairy herd to which the data relates:
-  (d) requiring the panel to grant an application for access, or to make a determination regarding access, to data in the core database only if it is satisfied that to do so is likely to be beneficial to the New Zealand dairy industry:
-  (e) if the panel is not satisfied that to do so is likely to be beneficial to the New Zealand dairy industry, enabling the panel to grant an application for access, or to make a determination regarding access, to data in the core database only if the panel is satisfied that to do so would not be harmful to the New Zealand dairy industry:
-  (f) providing for matters concerning the panel’s functions, powers, members (including their appointment, removal, duties, and protection from liability), procedures, employees, administration, operation, and reporting requirements:
-  (g) allowing the panel to set terms and conditions (excluding LIC’s charges) on which data in the core database may be made available including the form in which it must be made available and time limits for access:
-  (h) requiring LIC to comply with decisions of the panel (subject to payment of any charge for access set by LIC):
-  (i) prescribing fees that may be charged by the panel for applications for access, or the basis on which fees may be calculated:
-  (j) requiring LIC to pay a levy to the Minister in each financial year.
+  (d) requiring the Access Panel to grant an application for access, or to make a determination regarding access, to data in the core database only if it is satisfied that to do so is likely to be beneficial to the New Zealand dairy industry:
+  (e) if the Access Panel is not satisfied that to do so is likely to be beneficial to the New Zealand dairy industry, enabling the Access Panel to grant an application for access, or to make a determination regarding access, to data in the core database only if the Access Panel is satisfied that to do so would not be harmful to the New Zealand dairy industry:
+  (f) providing for matters concerning the Access Panel’s functions, powers, members (including their appointment, removal, duties, and protection from liability), procedures, employees, administration, operation, and reporting requirements:
+  (g) allowing the Access Panel to set terms and conditions (excluding the manager of the core database’s charges) on which data in the core database may be made available including the form in which it must be made available and time limits for access:
+  (h) requiring the manager of the core database to comply with decisions of the Access Panel (subject to payment of any charge for access set by the manager of the core database):
+  (i) prescribing fees that may be charged by the Access Panel for applications for access, or the basis on which fees may be calculated:
+  (j) requiring the manager of the core database to pay a levy to the Minister in each financial year.
 (2) A levy order under subsection (1)﻿(j) must specify the amount of the levy or the way the levy must be calculated.
-(3) The Minister must calculate the amount of the levy so as to ensure that the costs of the panel (net of any application fees) are met fully from the levy.
-(4) LIC must pay any levy required by regulations made under this section.
-(5) The Minister must consult with LIC before making a recommendation under subsection (1)﻿(j).
+(3) The Minister must calculate the amount of the levy so as to ensure that the costs of the Access Panel (net of any application fees) are met fully from the levy.
+(4) The manager of the core database must pay any levy required by regulations made under this section.
+(5) The Minister must consult with the manager of the core database before making a recommendation under subsection (1)﻿(j).
 (6) The Minister may—
   (a) deduct over-recoveries in respect of a financial year from the levy payable in subsequent financial years; or
   (b) add under-recoveries in respect of a financial year to the levy payable in subsequent financial years.
@@ -655,33 +708,74 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 ### 64 General regulations relating to herd testing and core database
 The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
   (a) providing for the confidentiality of—
-    (i) information supplied to LIC for entry in the core database; and
+    (i) information supplied to the manager of the core database for entry in the core database; and
     (ii) data in the core database; and
     (iii) information about applications for access:
-  (b) providing for audits of LIC’s compliance with any regulations made under section 62 or section 63 or this section and for matters related to the audit, including the auditor’s powers:
+  (b) providing for audits of the manager of the core database’s compliance with any regulations made under section 62 or section 63 or this section and for matters related to the audit, including the auditor’s powers:
   (c) prescribing offences for the breach of, or non-compliance with, any of those regulations:
   (d) prescribing penalties not exceeding $20,000 for any offences prescribed under any of those regulations:
   (e) providing that a person is liable for damages for any loss or damage caused by that person’s contravention of any of those regulations.
 
-### 65 Regulations requiring disclosure of information by LIC
+### 65 Regulations requiring disclosure of information by manager of core database
 The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
-  (a) requiring LIC to publish, in the prescribed manner, information about the supply of data in the core database, that may include—
-    (i) LIC’s pricing methodology and other terms and conditions:
-    (ii) LIC’s procedures, including for complying with decisions of the panel, and for ensuring confidentiality:
+  (a) requiring the manager of the core database to publish, in the prescribed manner, information about the supply of data in the core database, that may include—
+    (i) the manager’s pricing methodology and other terms and conditions:
+    (ii) the manager’s procedures, including for complying with decisions of the Access Panel, and for ensuring confidentiality:
   (b) prescribing the form of statutory declaration and who must provide it under section 66(4):
   (c) setting rules about when and for how long information must be disclosed.
 
-### 65A Regulations relating to dairy industry entity other than LIC
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the purposes set out in sections 62 to 65 in respect of any dairy industry entity, other than LIC, nominated by the Crown to manage the core database.
-(2) Regulations may be made under subsection (1) only—
-  (a) if the core database reverts to the Crown under section 68(2); or
-  (b) if provisions of the constitution of LIC are amended or revoked in accordance with section 51; or
-  (c) if LIC makes an application under section 52(2).
+### 65A Regulations appointing manager of core database
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations appointing an entity to manage the core database.
+(2) The Minister may make the recommendation only if—
+  (a) the core database reverts to the Crown under section 68; or
+  (b) the existing manager of the core database asks the Minister in writing to make the recommendation; or
+  (c) the existing manager has changed, or the Minister considers it likely that the existing manager will change, its constitution in a way that the Minister considers may compromise its suitability as manager of the core database; or
+  (d) the Minister considers that the existing manager has failed, or is at risk of failing, to—
+    (i) comply with this Act or any regulations made under sections 62 to 65; or
+    (ii) manage the core database in a way that the Minister considers satisfactory.
+(3) The Minister must,—
+  (a) before making a recommendation under subsection (2)﻿(c), consult the existing manager:
+  (b) before making a recommendation under subsection (2)﻿(d)﻿(ii), give the existing manager a reasonable opportunity to manage the database in a way that the Minister considers satisfactory.
+(4) An appointment under subsection (1) takes effect on a date specified in the regulations.
+(5) The appointment of an existing manager ends when an appointment under subsection (1) takes effect.
+(6) A failure to comply with subsection (3) does not affect the validity of regulations made under this section.
+
+### 65B Regulations naming intended manager of core database
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations naming an entity as the intended manager of the core database.
+(2) The Minister may make the recommendation only on the written request of the entity.
+
+### 65C Regulations for previous manager or intended manager of core database
+(1) This section applies if 1 or both of the following apply:
+  (a) regulations are made under section 65A to appoint a new manager of the core database:
+  (b) regulations are made under section 65B naming an intended manager of the core database.
+(2) For the purposes of this section, the provisions referred to in subsection (3) apply as if the previous manager or intended manager were the manager of the core database.
+(3) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
+  (a) the purposes described in—
+    (i) section 62(e) and (f):
+    (ii) section 63(1)﻿(a), (c), (g), (h), and (j):
+    (iii) section 64(a):
+    (iv) section 65:
+  (b) providing for audits of compliance with regulations made under paragraph (a)﻿(i) to (iii) and for matters related to the audit, including the auditor’s powers:
+  (c) prescribing offences for the breach of, or non-compliance with, regulations made under paragraph (a)﻿(i) to (iii):
+  (d) prescribing penalties not exceeding $20,000 for any of those offences:
+  (e) providing that a person is liable for damages for any loss or damage caused by that person’s contravention of regulations made under paragraph (a)﻿(i) to (iii).
+(4) If regulations are made, or to be made, under this section for the purpose described in section 63(1)﻿(j), section 63(2) to (7) applies—
+  (a) to the previous manager or intended manager as if it were the manager of the core database; and
+  (b) to the regulations as if they were made, or to be made, under section 63.
+(5) If regulations are made under this section for a purpose described in section 65, sections 66 and 67 apply—
+  (a) to the previous manager or intended manager as if it were the manager of the core database; and
+  (b) to the regulations as if they were made under section 65.
+
+### 65D Duration of regulations for previous manager or intended manager of core database
+(1) Regulations made under section 65C are revoked on the close of the fifth anniversary of their commencement unless—
+  (a) the regulations are revoked earlier; or
+  (b) the Governor-General by Order in Council confirms that the regulations will remain in force.
+(2) If an Order in Council is made under subsection (1)﻿(b), the regulations remain in force until they are revoked.
 
 ### 66 Information to be supplied to chief executive
-(1) LIC or any other dairy industry entity nominated by the Crown to manage the core database must send a copy of the information that it is required to make publicly available by regulations under section 65 to the chief executive within 20 working days of making it publicly available.
-(2) The chief executive may request (in writing) information, statements, or reports from LIC or any other dairy industry entity nominated by the Crown to manage the core database to monitor LIC’s or that other dairy industry entity’s compliance with regulations made under section 65.
-(3) LIC or any other dairy industry entity nominated by the Crown to manage the core database must comply with a request made under subsection (2) within 20 working days of receiving the request or within any longer period allowed by the chief executive.
+(1) The manager of the core database must send a copy of the information that it is required to make publicly available by regulations under section 65 to the chief executive within 20 working days of making it publicly available.
+(2) The chief executive may request (in writing) information, statements, or reports from the manager of the core database to monitor the manager’s compliance with regulations made under section 65.
+(3) The manager of the core database must comply with a request made under subsection (2) within 20 working days of receiving the request or within any longer period allowed by the chief executive.
 (4) Information, statements, or reports supplied to the chief executive under this section must be verified by statutory declaration in the form and by the persons prescribed by regulations made under section 65(b).
 
 ### 67 Offences
@@ -692,14 +786,18 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 (3) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
 (4) Every person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $20,000.
 
-### 68 Database if LIC wound up
-(1) This section applies if—
-  (a) a liquidator or interim liquidator is appointed in respect of LIC under Part 16 of the Companies Act 1993; or
-  (b) LIC is removed from the register of companies kept pursuant to section 360(1)﻿(a) of the Companies Act 1993.
-(2) In that case, any interest of LIC in the core database reverts to the Crown until ongoing arrangements can be made for it to be taken over by a dairy industry body.
+### 68 When management of core database reverts to the Crown
+The management of the core database reverts to the Crown if—
+  (a) the Minister and the manager of the core database agree under section 43A(2)﻿(a) that section 43A(1) no longer applies; or
+  (b) a liquidator or interim liquidator is appointed for the manager of the core database under Part 16 of the Companies Act 1993 or any other enactment; or
+  (c) an administrator is appointed for the manager of the core database in respect of a voluntary administration under Part 15A of the Companies Act 1993; or
+  (d) a receiver is appointed in respect of all or substantially all of the property of the manager of the core database; or
+  (e) a statutory manager is appointed for the manager of the core database under Part 3 of the Corporations (Investigation and Management) Act 1989 or any other enactment; or
+  (f) the manager of the core database is removed from the register of companies kept under section 360(1)﻿(a) of the Companies Act 1993; or
+  (g) the manager of the core database is liquidated, wound up, or dissolved or otherwise ceases to exist.
 
 ### 69 Herd Testing Regulations 1958 deemed to have been made under this Act
-The Herd Testing Regulations 1958 (SR 1958/44) are deemed to have been made under this Act, and may be amended and revoked accordingly.
+[Repealed]
 
 ### Subpart 5 — Regulation of dairy markets and obligations of new co-op
 
@@ -732,6 +830,7 @@ The intention of this subpart is to promote the following principles:
 (10) Sections 135 to 146—
   (a) allocate responsibility for enforcing this subpart; and
   (b) contain general provisions.
+(11) Sections 147 to 150 provide for reports on the operation of subparts 5 and 5A of Part 2.
 (11)
 (12)
 
@@ -740,7 +839,12 @@ The intention of this subpart is to promote the following principles:
 ### 73 New co-op must accept application
 (1) New co-op must accept an application to become a shareholding farmer that is made by a new entrant in an application period.
 (2) New co-op must accept an application to increase the volume of milk supplied as a shareholding farmer to new co-op that is made by a shareholding farmer in an application period.
-(3) New co-op must notify acceptance to the applicant within 15 working days of receipt of the application.
+(3) New co-op must notify the applicant, within 15 working days of receipt of the application,—
+  (a) of its acceptance of the application; or
+  (b) of its rejection of the application under section 94 or 95.
+(3A) Further provisions relating to the exceptions are in—
+  (a) section 94 (the first exception):
+  (b) section 95 (the second exception).
 (4) Sections 136 to 139 specify—
   (a) how an application may be given; and
   (b) when an application is made.
@@ -1003,6 +1107,7 @@ New co-op must ensure that redeemable preference shares issued by it under secti
 (2) New co-op must ensure that the terms and effect of financial products offered or issued in new co-op are the same for new entrants as for shareholding farmers.
 (3) In this section, financial products has the same meaning as in section 7 of the Financial Markets Conduct Act 2013.
 (4) New co-op must not treat a shareholding farmer who exercises an entitlement under this subpart any less favourably than a shareholding farmer who does not do so.
+(5) In its terms of supply, but subject to subsections (1) to (4), new co-op may provide for differential pricing for milk based on any matters specified in the terms of supply, including, but not limited to, matters that relate to animal welfare, food safety, health and safety, employment conditions, the environment, climate change, and sustainability.
 
 ### 107 Regulation of supply contracts for raw milk
 (1) New co-op must offer new entrants contracts for milk supply as shareholding farmers for 1 season.
@@ -1205,7 +1310,10 @@ Sections 109A to 109M expire and are repealed,—
   (e) empower the Commerce Commission to fix a discount rate in calculating the price of goods or services regulated under this section; and
   (f) require new co-op and independent processors to provide—
     (i) periodic returns of milk solids collected from dairy farmers:
+    (ia) periodic returns of milk solids bought from, or sold to, other persons:
     (ii) periodic forecasts of milk solids expected to be collected from dairy farmers; and
+  (fa) prescribe entities and persons who may certify raw milk as organic milk; and
+  (fb) prescribe any matter that is authorised to be prescribed for the purposes of the definitions of raw milk and winter milk in section 5(1); and
   (g) authorise new co-op to perform obligations imposed by the regulations through an associated person.
 (2) Regulations made under subsection (1) must not require new co-op to supply a total amount of goods or services that exceeds, in the Minister’s opinion, 5% of the amount of those goods or services produced by, or supplied to, new co-op, as the case may be.
 (2A) For the purpose of any regulations made under subsection (1), unless the context of the regulations otherwise requires, a body is an interconnected body of an independent processor if—
@@ -1350,29 +1458,32 @@ The Commission may amend a determination to clarify it if—
 
 **Levy**
 
-### 134 Levy regulations
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations requiring new co-op to pay a levy to the Minister in each financial year.
-(2) The order must specify the amount of the levy or the way the levy must be calculated.
-(3) The Minister must calculate the amount of the levy so as to ensure that the costs to the Commission estimated under subsection (4) are met fully from the levy.
-(4) In calculating estimated costs under subsection (3), the Commission—
+### 134 New co-op must pay levy
+(1) New co-op must pay, in each financial year, a levy to the Minister that is determined in accordance with regulations made under subsection (2).
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
+  (a) specifying the amount of the levy, or method of calculating or ascertaining the amount of the levy, on the basis that the costs estimated under subsection (4) should be met fully out of the levy:
+  (b) including in the levy, or providing for the inclusion in the levy of, any shortfall in recovering those actual costs (including, without limitation, providing for a reconciliation of the levy against the levy that would have been payable had the calculation used the actual costs and invoicing new co-op for the amount under-recovered from it as part of the levy):
+  (c) refunding, or providing for refunds of, any over-recovery of those actual costs:
+  (d) specifying 1 or more financial years or part financial years to which the levy applies:
+  (e) providing for the levy amount to be specified in the Gazette or some other publication (if the amount is not specified in the regulations):
+  (f) providing for the payment and collection of the levy:
+  (g) requiring payment of the levy for a financial year or part financial year, even though the regulations may be made after that financial year has commenced:
+  (h) exempting or providing for exemptions from, and providing for waivers of, the whole or any part of the levy.
+(3) The regulations may provide for the levy to apply, and be calculated in respect of, 1 or more financial years (with the levy being collected in each of those years from new co-op).
+(4) In calculating estimated costs for the purposes of subsection (2)﻿(a), the Commission—
   (a) may include—
     (i) the cost of making determinations; and
     (ii) the cost of enforcing this subpart or subpart 5A; and
     (iii) the cost of enforcing determinations in the High Court; and
-    (iv) over-recoveries or under-recoveries referred to in subsection (9); and
+    (iv) over-recoveries or under-recoveries of actual costs; and
     (v) the cost of conducting reviews under subpart 5A; and
   (b) must exclude—
     (i) the cost of taking other proceedings in the High Court, or defending proceedings against the Commission in the High Court; and
     (ii) the cost of investigations that are not related to complaints or determinations made under this subpart; and
+    (iii) the cost of providing input for the reports under section 147 on the operation of subparts 5 and 5A; and
   (c) must calculate and deduct the total amount of application fees likely to be received.
-(5) A levy may be calculated to include costs to the Commission from 1 July 2001, even though regulations imposing the levy may be made after that date.
-(6) A levy may be calculated to recover estimated costs to the Commission in respect of a period after the expiry of this subpart.
-(7) New co-op must pay any levy required by regulations made under this section.
-(8) The Minister must consult with new co-op before making a recommendation under subsection (1).
-(9) The Minister may—
-  (a) deduct over-recoveries in respect of a financial year from the levy payable in subsequent financial years; or
-  (b) add under-recoveries in respect of a financial year to the levy payable in subsequent financial years.
-(10) The amount of unpaid levy is recoverable in a court of competent jurisdiction as a debt due to the Crown.
+(5) The Minister must consult with new co-op and the Commission before making a recommendation under subsection (2).
+(6) The amount of unpaid levy is recoverable in a court of competent jurisdiction as a debt due to the Crown.
 
 **General**
 
@@ -1430,6 +1541,7 @@ If the court is satisfied, on the application of the Commission or any other per
 ### 145 Application of Commerce Act 1986 provisions
 The following provisions of the Commerce Act 1986 apply with all necessary modifications:
   (a) sections 15 to 17 (proceedings of the Commission):
+  (aa) sections 74A to 74C (provisions relating to undertakings):
   (b) sections 77 and 78 (lay members):
   (c) section 79 (evidence not otherwise admissible):
   (d) section 88 (general provisions relating to granting of injunctions):
@@ -1441,6 +1553,7 @@ The following provisions of the Commerce Act 1986 apply with all necessary modif
   (j) section 98G (relating to warrants, etc):
   (k) section 99 (powers of Commission to take evidence):
   (l) section 100 (powers of Commission to prohibit disclosure of information, documents, and evidence):
+  (la) section 100A (stating case for High Court):
   (m) sections 101 and 102 (notices):
   (n) section 103 (offences):
   (o) section 104 (determinations of Commission):
@@ -1450,6 +1563,33 @@ The following provisions of the Commerce Act 1986 apply with all necessary modif
 
 ### 146 Additional proceedings
 Proceedings brought under this Part are in addition to any proceedings brought under any other Act.
+
+**Regular reports on operation of subparts 5 and 5A**
+
+### 147 Minister must require regular reports
+(1) The Minister must require regular reports from the chief executive on whether this subpart and subpart 5A should be retained, repealed, or amended.
+(2) The Minister must require the first report no earlier than 4 years after the commencement of the Dairy Industry Restructuring Amendment Act 2020 and present the report to the House of Representatives no later than 6 years after commencement of that Act.
+(3) The Minister must require any subsequent report no earlier than 4 years after presentation of the previous report to the House of Representatives, and present the report to the House of Representatives no later than 6 years after presentation of the previous report to the House of Representatives, unless subsection (4) or (5) applies.
+(4) If a Bill is introduced into the House of Representatives to amend this Act in the 6 years before the Minister is required to present a report under subsection (3) and the Bill is passed, the Minister must instead—
+  (a) require a report no earlier than 4 years after the commencement of that enactment or (if different provisions come into force on different dates) the earliest date on which any provision of the enactment commences (the commencement date); and
+  (b) present the report to the House no later than 6 years after the commencement date.
+(5) If the Bill is withdrawn, lapses with the dissolution or expiry of Parliament, or is defeated, the Minister must—
+  (a) request the report no earlier than 4 years after the withdrawal, lapse, or defeat of the Bill; and
+  (b) present the report to the House of Representatives no later than 6 years after the commencement date.
+
+### 148 Commission input
+(1) The Minister may, in consultation with the Minister responsible for the Commerce Act 1986, require the Commission to provide input for a regular report under section 147.
+(2) In providing any input to the report as required by the Minister, the Commission may exercise the powers specified in section 145.
+
+### 149 Terms of reference for report to be published
+(1) The terms of reference for a report under section 147 may provide for any matter that relates to whether subparts 5 and 5A should be retained, repealed, or amended that the Minister considers appropriate.
+(2) The Minister must publish the terms of reference on the Ministry’s Internet site.
+
+### 150 Limits on effect of report and response
+(1) The Crown is not bound by a report under section 147.
+(2) Sections 147 to 149 are not intended to—
+  (a) create any rights or protections in relation to any person or group of persons; or
+  (b) confer any rights or protections on any person or group of persons.
 
 **Expiry of this subpart and subpart 5A**
 
@@ -1502,6 +1642,19 @@ It does not detract from the achievement of the purpose set out in section 150A 
     (i) the mix of commodities that are likely to be most profitable; and
     (ii) new co-op's physical manufacturing capacity for the production of those commodities; and
     (iii) the need to utilise all components of the milk processed.
+(3) For the purposes of subsection (1)﻿(b), any estimate of the return on capital must be made applying the capital asset pricing model.
+(4) For the purposes of subsection (3), the asset beta used in the application of the capital asset pricing model must be consistent with the estimated asset betas of other processors of dairy and other food products that are—
+  (a) traded in significant quantities in globally contested markets; and
+  (b) characterised by uniform technical specifications.
+(5) In subsection (4), asset beta means a measurement of a firm’s exposure to systematic risk where systematic risk measures the extent to which the returns on a company fluctuate relative to the equity returns in the stock market as a whole.
+
+**Farm gate milk price**
+
+### 150CA Provisions relating to farm gate milk price
+(1) For the purposes of this subpart, new co-op may pay a farm gate milk price that differs from the base milk price.
+(2) New co-op must publish as soon as practicable after it determines the farm gate milk price for any season, on new co-op’s website in an electronic form that is publicly accessible, a notice that—
+  (a) states both the farm gate milk price and the base milk price for that season; and
+  (b) explains why the farm gate milk price differs or does not differ from the base milk price (as the case may be).
 
 **Milk Price Panel**
 
@@ -1518,8 +1671,9 @@ It does not detract from the achievement of the purpose set out in section 150A 
 
 ### 150E Appointment of members of panel
 (1) New co-op must appoint the members of the panel and must appoint one of the members as the chair.
+(1A) New co-op must appoint 1 member of the panel who is nominated by the Minister, and the appointment must be on the same terms and conditions that apply to members appointed under subsection (1).
 (2) New co-op must ensure that at all times the chair and a majority of the members (including the chair) are independent.
-(3) If, without reasonable excuse, new co-op contravenes subsection (2), it commits an offence and is liable on conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
+(3) If, without reasonable excuse, new co-op contravenes subsection (1A) or (2), it commits an offence and is liable on conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
 
 **Milk price manual**
 
@@ -1690,15 +1844,7 @@ For the purposes of the definition of the term available subscribed capital in s
 (6) Subsection (4) applies on and after the amalgamation date.
 
 ### 156 Gift duty and taxation in respect of Livestock Improvement Corporation Limited
-(1) The issue of shares by LIC under section 60 is not a dutiable gift for the purposes of the Estate and Gift Duties Act 1968 or a dividend for the purposes of the Income Tax Act 2007.
-(2) For the purposes of the Income Tax Act 2007, the available subscribed capital of the shares issued under section 60 is equal to the available subscribed capital of the shares which are cancelled under section 60.
-(3) For the purposes of the Income Tax Act 2007, if the constitution of LIC is altered on or after the day on which shares in LIC are issued under section 60 (or with effect as at or after that date) to allow any part of the funds of LIC to be used or be available to be used for the private pecuniary profit of any shareholder referred to in section CW 42(5)﻿(b) of that Act,—
-  (a) the income of LIC that is exempt income only by virtue of section CW 51 of that Act immediately before the alteration that is derived in the tax year in which the alteration comes into effect is income of LIC and is not exempt income under section CW 51 of that Act; and
-  (b) the assets and rights of LIC are deemed to be disposed of to a person, not being an associated person of LIC, immediately before the beginning of the tax year in which the alteration is made, and to be re-acquired by LIC from that person for a consideration equal to their market value at the beginning of that tax year; and
-  (c) the alteration of the constitution may not be treated as altering or affecting in any way the status, as exempt income, of any income of LIC that is exempt income under section CW 51 of that Act, derived before the beginning of the tax year in which the alteration comes into effect.
-(4) Subsection (3)﻿(c) does not apply if the Board retains any interest in LIC at the time that the constitution comes into effect so that any part of the funds of LIC is used or is available for use for the private pecuniary profit of the Board.
-(5) Subsection (4) does not apply to an interest that the Board retains in LIC by reason of the issue of shares under section 60 to a person.
-(6) The interpretation of the Income Tax Act 2007 is not affected by subsection (3)﻿(a), except to the extent of the effect of the application of that subsection to LIC in the circumstances indicated in that subsection.
+[Repealed]
 
 ### 157 Taxation of The New Zealand Dairy Research Institute
 (1) For the purposes of the Income Tax Act 2007, the company referred to in section 158(2)﻿(a)—
@@ -1860,7 +2006,7 @@ Section 20(2) and (3) of the Co-operative Companies Act 1996 do not apply to new
 (3) This section is additional to the requirements in section 12 of the Co-operative Companies Act 1996.
 
 ### 163 General regulations
-Any regulations made under sections 62 to 65, 115, 116, 119, or 134 may provide for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
+Any regulations made under sections 62 to 65C, 115, 116, 119, or 134 may provide for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
 
 ### 164 Validation of issue of certain shares
 (1) A failure to comply with section 50 of the Companies Act 1993 does not invalidate the issue, before the commencement of this section, of a share in a co-operative company that is registered as a co-operative dairy company under Part 3 of the Co-operative Companies Act 1996.
@@ -1892,6 +2038,43 @@ Any regulations made under sections 62 to 65, 115, 116, 119, or 134 may provide 
 Despite section 165(1), section 45(2) and (3) of the Dairy Board Act 1961 continues to apply on and after the conversion date in respect of any person who,—
   (a) before that date, became a member of a scheme established under that section; or
   (b) is entitled to any benefit under the scheme by virtue of a person to whom paragraph (a) applies being a member of that scheme.
+
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Dairy Industry Restructuring Amendment Act 2020
+
+**LIC**
+
+### 1 Employees of LIC from before restructuring under subpart 4 of Part 2
+(1) This clause applies to a person to whom section 61 applied immediately before its repeal by the Dairy Industry Restructuring Amendment Act 2020.
+(2) To avoid doubt, the repeal does not affect the person’s status or rights, or terms or conditions of employment, under that section.
+
+### 2 LIC to be treated as previous manager of core database
+(1) LIC must be treated as a previous manager of the core database for the purposes of this Act.
+(2) Information provided to LIC, whether before, on, or after the commencement of this clause, must be treated as information that comprises part of the core database if the information was or is provided under—
+  (a) the Herd Testing Regulations 1958 or under the terms and conditions of any licence issued under those regulations; or
+  (b) any regulations made under this Act.
+(3) Regulations applying to LIC may be made under section 65C as if LIC were replaced as manager of the core database by regulations made under section 65A (as inserted by the Dairy Industry Restructuring Amendment Act 2020).
+(4) Section 65D does not apply to regulations made under section 65C that apply to LIC.
+
+### 3 Dairy Industry (Herd Testing and New Zealand Dairy Core Database) Regulations 2001 continue in force
+(1) The Dairy Industry (Herd Testing and New Zealand Dairy Core Database) Regulations 2001 (the regulations) continue in force.
+(2) To the extent that the regulations were made under sections 62 to 65A as in force immediately before the commencement of this clause, they must be treated as having been made under sections 62 to 65 as amended by the Dairy Industry Restructuring Amendment Act 2020.
+(3) However, to the extent that the regulations apply to LIC, they must be treated as having been made under section 65C as inserted by the Dairy Industry Restructuring Amendment Act 2020.
+(4) Section 65D does not apply to the regulations referred to in subclause (3).
+
+**Levies**
+
+### 4 Levy payable by new co-op
+Regulations made under section 134 (as replaced by section 32 of the Dairy Industry Restructuring Amendment Act 2020) apply to financial years that start on or after 1 July 2021 (and regulations may be made for that purpose under section 134 (as replaced) at any time before that date).
+
+**Changes to open entry provisions**
+
+### 5 Effect of changes to open entry provisions on existing shareholding farmers
+(1) The commencement of section 73 (as enacted by section 24 of the Dairy Industry Restructuring Amendment Act 2020) does not affect the ability of the Commission to receive and determine applications in respect of conduct before that commencement, or the ability of a party to a determination or the Commission to enforce a determination, and sections 120 to 133 have effect for that purpose.
+(2) An application under section 120 may not be made later than 1 year after that commencement.
+(3) The commencement of section 73 (as so enacted) does not affect the liability of a person for a contravention of subpart 5 or regulations made under this Act committed before that commencement, and sections 140 to 146 have effect for that purpose.
+(4) Proceedings for a contravention described in subclause (3) may be taken as if section 73 (as so enacted) had not been enacted.
 
 ## Schedule 1 — Specified provisions of new co-op constitution
 
