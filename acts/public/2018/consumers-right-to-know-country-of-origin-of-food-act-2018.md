@@ -1,5 +1,5 @@
 # Consumers’ Right to Know (Country of Origin of Food) Act 2018
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2021-06-04_
 
 ### 1 Title
 This Act is the Consumers’ Right to Know (Country of Origin of Food) Act 2018.
