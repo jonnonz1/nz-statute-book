@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2021-03-22_
+_Consolidation as at 2021-06-07_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -267,7 +267,8 @@ This Act is the Overseas Investment Act 2005.
     (h) a business that is a media business with significant impact:
     (i) in section 20A (relating to transactions of national interest),—
       (i) a business of a class set out in regulations that is involved in an irrigation scheme:
-      (ii) any other business of a class set out in regulations that is involved in a strategically important industry or that owns or controls high-risk critical national infrastructure
+      (ii) any other business of a class set out in regulations that is involved in a strategically important industry or that owns or controls high-risk critical national infrastructure:
+    (j) in section 82(2) (definition of overseas investment in SIB assets), a business of a class set out in regulations that develops, produces, maintains, or otherwise has access to sensitive information
   - **strategic goods list** means the list of all goods and classes of goods whose exportation is prohibited under section 96 of the Customs and Excise Act 2018 because they have or may have a strategic use (within the meaning of section 96(11) of that Act) that the Secretary is required to publish under section 96(7) of that Act
   - **subsidiary** has the meaning set out in sections 5 and 6 of the Companies Act 1993
   - **transaction** includes—
@@ -1051,7 +1052,7 @@ A person who is required to provide information or a document under any of secti
 (1) Every person commits an offence who knowingly or recklessly makes any statement that is false or misleading in a material particular or any material omission in—
   (a) any offer or representation made for the purposes of this Act or regulations; or
   (aa) any statement made under section 51A; or
-  (ab) any notice under section 85; or
+  (ab) any notice under section 85 or 86; or
   (b) any information or document provided to the regulator; or
   (c) any communication with the regulator.
 (2) Every person commits an offence who knowingly or recklessly provides the regulator with a document that is false or misleading in a material particular.
@@ -1545,9 +1546,7 @@ A person may apply for an exemption certificate, and the application may be deal
 ## Part 3 — National security and public order risks management regime
 
 ### 81 Purpose of Part
-(1) The purpose of this Part is to manage—
-  (a) significant national security and public order risks associated with transactions by overseas persons; and
-  (b) while the emergency notification regime is in place, risks associated with transactions by overseas persons that are contrary to New Zealand’s national interest.
+(1) The purpose of this Part is to manage significant national security and public order risks associated with transactions by overseas persons.
 (2) In order to give effect to that purpose, the Minister may—
   (a) review call-in transactions in accordance with subpart 1; and
   (b) take any of the following actions in accordance with subpart 2:
@@ -1557,21 +1556,33 @@ A person may apply for an exemption certificate, and the application may be deal
     (iv) make a recommendation that a person be put into statutory management (see section 96).
 (3) The Minister may also make an interim direction order if the Minister is considering whether to take any of those actions, or what kind of action to take, in relation to a call-in transaction (see section 91).
 
-### Subpart 1 — Call-in transactions during emergency notification regime
+### Subpart 1 — Call-in transactions
 
 **Call-in transactions, etc**
 
-### 82 What are call-in transactions and overseas investments covered by emergency notification regime
+### 82 What is call-in transaction and overseas investment in SIB assets
 (1) A call-in transaction is a transaction by an overseas person or an associate of an overseas person that—
-  (a) is an overseas investment covered by the emergency notification regime; but
+  (a) is an overseas investment in SIB assets; but
   (b) does not require consent (see section 10).
-(2) An overseas investment is an overseas investment covered by the emergency notification regime if it is—SecuritiesProperty
-  (a) the acquisition by an overseas person, or an associate of an overseas person, of rights or interests in securities of a person (A) if, as a result of the acquisition, the overseas person or the associate (either alone or together with its associates) has—
-    (i) a more than 25% ownership or control interest in A; or
-    (ii) an increase in an existing more than 25% ownership or control interest in A to either a more than 50% or 75% ownership or control interest in A or a 100% ownership or control interest in A; or
-    (iii) an interest defined in the regulations:
-  (b) the acquisition by an overseas person, or an associate of an overseas person, of property (including goodwill and other intangible assets) in New Zealand used in carrying on business in New Zealand (whether by 1 transaction or a series of related or linked transactions) of any value that effectively amounts to a change in control of the business, as defined in the regulations.
-(3) This section is subject to any regulations made under section 127(1).
+(2) An overseas investment in SIB assets is—Investment in strategically important businessesInvestment in SIB property
+  (a) the acquisition by an overseas person, or an associate of an overseas person, of rights or interests in securities of a person (A) who is (directly or indirectly) carrying on a SIB if,—Investment in media businesses with significant impactInvestment in listed issuersAny other investment in SIB business
+    (i) in the case of a SIB that is a media business with significant impact, as a result of the acquisition the overseas person or the associate (either alone or together with its associates) has a more than 25% ownership or control interest in A; or
+    (ii) in the case of A being a listed issuer that is not carrying on a media business with significant impact, as a result of the acquisition the overseas person or the associate (either alone or together with its associates) has 1 or more of the following:
+      (A) a beneficial entitlement to, or a beneficial interest in, 10% or more of A’s securities:
+      (B) the right to exercise or control the exercise of 10% or more of the voting power at a meeting of A:
+      (C) disproportionate access to or control of A; or
+    (iii) in any other case, as a result of the acquisition the overseas person or the associate (either alone or together with its associates) has any ownership or control interest in A; or
+  (b) the acquisition by the overseas person or the associate of property (including goodwill and other intangible assets) in New Zealand used in carrying on a SIB.
+(3) For the purposes of subsection (2)﻿(a)﻿(ii)﻿(C), a person has disproportionate access to or control of A if the person has 1 or more of the following:
+  (a) access to—
+    (i) information that would not otherwise be available to the person, but that is information that is material to an assessment of the value of shares or other financial products issued by A or a related company; or
+    (ii) sensitive information held by A or its subsidiaries:
+  (b) membership or observer rights on the governing body of A:
+  (c) the power to control the composition of 10% or more of the governing body of A:
+  (d) any involvement, other than through the voting of securities, in the substantive decision making of A regarding—
+    (i) research, development, production, or maintenance of military or dual-use technology or sensitive information; or
+    (ii) the use of, or access to, the assets of A; or
+    (iii) the supply of goods or services to an intelligence or security agency.
 
 ### 83 Who are relevant acquirers
 The Minister may determine which 1 or more of the following persons is the relevant acquirer for a call-in transaction:
@@ -1581,49 +1592,54 @@ The Minister may determine which 1 or more of the following persons is the relev
 **Review of call-in transactions**
 
 ### 84 Review of call-in transactions
-(1) The Minister must review a call-in transaction that is notified under section 85.
+(1) The Minister must review a call-in transaction that is notified under section 85 or 86.
 (2) The Minister must take a risk management action following a review under subsection (1).
-(3) The Minister may review any call-in transaction that should have been notified under section 85.
+(3) The Minister may review any other call-in transaction.
 (4) The purpose of a review is to determine whether the transaction gives rise, or is likely to give rise, to a risk referred to in section 81.
 (5) However, if a direction order has already been made in relation to a call-in transaction, the Minister cannot review that transaction, or take another risk management action in relation to the transaction, unless the direction order is revoked in accordance with section 90.
 
 **Notification of call-in transactions**
 
-### 85 Requirement to notify
-(1) Each overseas person or associate making a call-in transaction must notify the regulator before giving effect to the call-in transaction.
-(2) A call-in transaction must not be given effect to unless the Minister makes a direction order in relation to that transaction.
-(3) A person who fails to comply with this section does not commit an offence under section 45.
+### 85 Military or dual-use technology and critical direct supplier call-in transactions
+(1) This section applies to a call-in transaction relating to a SIB that is—
+  (a) a business that researches, develops, produces, or maintains military or dual-use technology; or
+  (b) a critical direct supplier.
+(2) Each overseas person or associate making the overseas investment in SIB assets must notify the regulator before giving effect to the call-in transaction.
+(3) A call-in transaction must not be given effect to unless the Minister makes a direction order in relation to that transaction.
+(4) However, in the case of an overseas person or associate investing in an unpublished CDS,—
+  (a) a notice under subsection (2) must be given before the date of giving effect to the call-in transaction or on a later date that may be set out in regulations; and
+  (b) that person does not breach subsection (2) if the reason the person fails to give the notice is that the person had not received a notice under section 20E.
+(5) A person who fails to comply with this section does not commit an offence under section 45.
 
-### 86 Measures to ensure emergency notification regime no broader than reasonably necessary
-(1) The Minister must commence an assessment, no later than 45 days after the commencement of this section, to ensure that the classes of transactions that are subject to the emergency notification regime are not broader than are reasonably necessary having regard to the purposes of this Part.
-(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
-  (a) extending the effect of any exemption made under this Act so that the exemption also applies to any requirements under the emergency notification regime:
-  (b) doing anything necessary or desirable to ensure that the classes of transactions that are subject to the emergency notification regime are not broader than are reasonably necessary, having regard to the purposes of this Part.
+### 86 Other call-in transactions
+(1) This section applies to a call-in transaction that is not a call-in transaction of a kind referred to in section 85.
+(2) Any overseas person or associate making the overseas investment in SIB assets may notify the regulator of a call-in transaction at any time before the date set out in regulations.
 
 ### 87 Requirements for notification of call-in transaction
-(1) The Minister must, by notice, authorise the manner in which a notification under section 85 must be given, including by doing any of the following:
+(1) The Minister must, by notice, authorise the manner in which a notification under section 85 or 86 must be given, including by doing any of the following:
   (a) specifying the required content of the notification, which may include any information that the Minister thinks relevant:
   (b) approving or prescribing 1 or more forms for the notification or 1 or more methods for making the notification (or both):
-  (c) authorising the notification to be given on behalf of the overseas person or associate referred to in section 85(1) (including the manner for doing so).
+  (c) authorising the notification to be given on behalf of the overseas person or associate referred to in section 85(2) or 86(2) (including the manner for doing so).
 (2) The regulator must—
   (a) notify the making of the notice in the Gazette; and
   (b) publish the notice on an Internet site maintained by, or on behalf of, the regulator.
 (3) The notice is a disallowable instrument but not a legislative instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(4) The regulator may, by notice in writing, require 1 or more persons giving a notification under section 85 to provide a statutory declaration verifying that the information contained in the notification is true and correct.
-(5) For the purpose of considering the notification under section 85, the regulator may, by notice in writing, require a relevant acquirer, or any other person with information relevant to the notification, to provide the information specified in the regulator’s notice and in a form specified by the regulator’s notice.
-(6) A notification under section 85 must be accompanied by the relevant fee (if any), unless this has already been paid.
+(4) The regulator may, by notice in writing, require 1 or more persons giving a notification under section 85 or 86 to provide a statutory declaration verifying that the information contained in the notification is true and correct.
+(5) For the purpose of considering the notification under section 85 or 86, the regulator may, by notice in writing, require a relevant acquirer, or any other person with information relevant to the notification, to provide the information specified in the regulator’s notice and in a form specified by the regulator’s notice.
+(6) A notification under section 85 or 86 must be accompanied by the relevant fee (if any), unless this has already been paid.
 
 ### Subpart 2 — Risk management actions
 
 **Direction orders**
 
 ### 88 Direction orders
-(1) The Minister may give a direction order to a relevant acquirer following a review of a call-in transaction,—
-  (a) notifying that no conditions are imposed (and that the relevant acquirer may give effect to the transaction accordingly); or
-  (b) if the direction order is subject to conditions, requiring compliance with the conditions of the order if the call-in transaction is or has been given effect to.
-(2) A direction order is subject to any conditions (if any) that the Minister thinks appropriate to manage a risk referred to in section 81.
-(3) The Minister may impose conditions only if the Minister considers that the call-in transaction gives rise, or is likely to give rise, to a risk referred to in section 81.
-(4) When imposing conditions, the Minister must have regard to New Zealand’s international obligations.
+(1) The Minister may give a direction order to a relevant acquirer, following a review of a call-in transaction, requiring compliance with the conditions of the order if the call-in transaction is or has been given effect to.
+Automatic condition: every direction order
+(2) It is a condition of every direction order, whether or not it is stated in the order, that the relevant acquirer must not, in relation to the SIB, act or omit to act with a purpose or an intention of adversely affecting national security or public order.
+Other conditions: to manage national security or public order risks
+(3) A direction order is subject to any other conditions (if any) that the Minister thinks appropriate to manage the risks to national security or public order posed by the transaction.
+(4) The Minister may impose other conditions only if the Minister considers that the call-in transaction gives rise, or is likely to give rise, to a significant risk to national security or public order.
+(5) When imposing other conditions, the Minister must have regard to New Zealand’s international obligations.
 
 ### 89 Direction orders may be varied by agreement
 (1) A direction order may be varied by the Minister with the agreement of the relevant acquirer.
@@ -1633,15 +1649,15 @@ The Minister may determine which 1 or more of the following persons is the relev
 ### 90 Revocation of direction order
 The Minister may revoke a direction order if the Minister is satisfied that—
   (a) 1 or more of the following events or matters have occurred in connection with the direction order or the call-in transaction that the order relates to:
-    (i) a notice under section 85 or any information provided under section 87(2) contained a statement that was false or misleading in any material particular or any material omission:
-    (ii) a notice under section 85 or any information provided under section 87(2) provided the Minister with a document that was false or misleading in any material particular:
+    (i) a notice under section 85 or 86 or any information provided under section 87(2) contained a statement that was false or misleading in any material particular or any material omission:
+    (ii) a notice under section 85 or 86 or any information provided under section 87(2) provided the Minister with a document that was false or misleading in any material particular:
     (iii) a person has breached a condition of a direction order:
     (iv) a person has contravened an enforceable undertaking (see sections 46A to 46F); and
   (b) the event or matter gives rise, or is likely to give rise, to a risk referred to in section 81.
 
 ### 91 Interim direction orders
 (1) The Minister may give an interim order of the kind referred to in section 88 to a relevant acquirer if the Minister is considering whether to take a risk management action, or what kind of risk management action to take, in relation to a call-in transaction.
-(2) Sections 88(2) and (4) and 89 apply to an interim direction order as if it were a direction order.
+(2) Sections 88(2), (3), and (5) and 89 apply to an interim direction order as if it were a direction order.
 (3) The Minister may impose conditions only if the Minister considers that the call-in transaction could give rise to a risk referred to in section 81.
 (4) An interim direction order is in force until the earlier of—
   (a) the date specified in regulations; and
