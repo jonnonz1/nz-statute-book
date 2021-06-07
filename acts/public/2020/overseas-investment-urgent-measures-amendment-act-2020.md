@@ -1,5 +1,5 @@
 # Overseas Investment (Urgent Measures) Amendment Act 2020
-_Consolidation as at 2021-03-22_
+_Consolidation as at 2021-06-07_
 
 ### 1 Title
 This Act is the Overseas Investment (Urgent Measures) Amendment Act 2020.
