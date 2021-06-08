@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-06-08_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -316,7 +316,7 @@ In this Act, unless the context otherwise requires,—
     (a) includes land, buildings, and goods; but
     (b) does not include incorporeal forms of property
   - **publicly notify** means publish a notice—
-    (a) in 1 or more daily newspapers circulating in each of the cities of Auckland, Hamilton, Wellington, Christchurch, and Dunedin; and
+    (a)
     (b) in the Gazette; and
     (c) on the Internet in an electronic form that is publicly accessible at all reasonable times
   - **recognised engineer** , in relation to a dam, means an engineer who meets the requirements in section 149
@@ -522,7 +522,7 @@ Under this Act, a regional authority—
 (3) For the purposes of subsection (1),—
   (a) sections 31 to 39 apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority included a reference to a regional authority; and
   (b) sections 40 to 116 (except section 114(2)﻿(c)), 216 to 218, 220 to 228, 232, 276 to 281, 363A, 371A to 371C, and 374 apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority were a reference to a regional authority.
-(4) For the purposes of subsection (2), sections 31 to 116 (except section 114(2)﻿(c)), 216 to 218, 220 to 232, 276 to 281, 363A, and 374 apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority included a reference to a regional authority.
+(4) For the purposes of subsection (2), sections 31 to 116 (except section 114(2)﻿(c)), 216 to 218, 220 to 228, 232, 276 to 281, 363A, 371A to 371C, and 374 apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority included a reference to a regional authority.
 (5) The building consent authority and territorial authority must do everything reasonably practicable to liaise with the regional authority in performing functions or duties, or exercising powers, in relation to a building that includes a dam.
 
 ### Subpart 4 — Outline of responsibilities under this Act
@@ -687,8 +687,12 @@ The chief executive must ensure that—
 
 ### 27 Offence to use building method or product in breach of ban under section 26
 (1) A person must not use a building method or product if doing so breaches a ban under section 26.
-(2) A person commits an offence if the person fails to comply with subsection (1).
-(3) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200,000.
+(2) A person who fails to comply with subsection (1)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $300,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $1,500,000.
+(3)
 
 ### 28 Limits on certain powers of building consent authority in cases involving bans under section 26
 (1) A building consent authority must not exercise any of the powers specified in subsection (2) if doing so results, or could result, in a person breaching a ban under section 26.
@@ -949,8 +953,12 @@ If a project information memorandum contains information previously supplied to 
 
 ### 42 Owner must apply for certificate of acceptance if building work carried out urgently
 (1) If, in reliance on section 41(1)﻿(c) or (cb), building work is carried out without a building consent having been obtained in respect of that work, the owner must, as soon as practicable after completion of the building work, apply for a certificate of acceptance under section 96.
-(2) A person commits an offence if the person fails to apply for a certificate of acceptance in accordance with subsection (1).
-(3) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000.
+(2) A person who fails to comply with subsection (1)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $5,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $25,000.
+(3)
 
 ### 42A Building work for which building consent is not required under Schedule 1
 (1) Despite section 40, subject to the conditions set out in subsection (2) and whether or not a building consent would otherwise have been required, a building consent is not required for building work in the following categories:
@@ -1049,7 +1057,7 @@ If a project information memorandum contains information previously supplied to 
 (1) After receiving an application for a building consent that complies with section 45, a building consent authority must, within the time limit specified in subsection (1A),—
   (a) grant the application; or
   (b) refuse the application.
-(1A) The time limit is—
+(1A) The time limit is,—
   (a) if the application includes plans and specifications in relation to which a national multiple-use approval has been issued, within 10 working days after receipt by the building consent authority of the application; and
   (b) in all other cases, within 20 working days after receipt by the building consent authority of the application.
 (2) A building consent authority may, within the period specified in subsection (1A), require further reasonable information in respect of the application, and, if it does so, the period is suspended until it receives that information.
@@ -1098,7 +1106,14 @@ A building consent lapses and is of no effect if the building work to which it r
 **Building levy**
 
 ### 53 Applicant for building consent liable to pay levy
-(1) An applicant for a building consent is liable to pay to the chief executive a levy for, or in connection with, the performance of the chief executive's functions under this Act if the building consent is granted.
+(1) An applicant for a building consent is liable to pay to the chief executive a levy if the building consent is granted.
+(1A) The chief executive may use the levy for, or in connection with, the performance of—
+  (a) the chief executive’s functions under this Act:
+  (b) the chief executive’s functions—
+    (i) under any other Act that relates to the building sector or any part of the sector; and
+    (ii) that relate to monitoring, overseeing, or improving—
+      (A) the performance of the building sector or any part of the sector; or
+      (B) regulatory systems under that other Act.
 (2) The levy—
   (a) must be calculated—
     (i) in relation to the estimated value of the building work to which the building consent relates; and
@@ -1106,8 +1121,11 @@ A building consent lapses and is of no effect if the building work to which it r
   (b) must be paid—
     (i) to the building consent authority as the agent of the chief executive; and
     (ii) at the time the building consent is granted.
-(3) Subsection (2)﻿(a)﻿(ii) is subject to section 431.
+(3)
 (4) The chief executive may, in his or her discretion, refund all or part of the levy if the building consent lapses by paying the refund to the applicant or to the relevant building consent authority.
+(5) Subsection (1A)﻿(b) does not confer on the chief executive—
+  (a) any function that the chief executive does not already have; or
+  (b) any obligation to use the levy for the purposes mentioned in subsection (1A)﻿(b).
 
 ### 54 Building consent authority must advise applicant of amount of levy payable
 A building consent authority must, before it grants a building consent, advise the applicant of the amount of levy for which the applicant may be liable under section 53.
@@ -1127,8 +1145,12 @@ If a levy has already been paid for building work for which a building consent i
 ### 58 Liability to pay levy: building consent authority
 (1) A building consent authority, on the grant of a building consent, becomes liable to the territorial authority for the levy payable under section 53 in relation to the building work to which the building consent relates.
 (2) A building consent authority must pay the levy to the territorial authority at the same time that it provides, under section 238(2)﻿(d), copies of information about the collection of that levy.
-(3) A person commits an offence if the person fails to pay the levy in accordance with this section.
-(4) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000.
+(3) A person who fails to comply with subsection (2)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $5,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $25,000.
+(4)
 
 ### 59 Liability to pay levy: territorial authority
 (1) A territorial authority, on granting a building consent or on receiving all or any of the information specified in section 238(1)﻿(c), becomes liable to the chief executive for the levy payable under section 53 in relation to the building work to which the building consent relates.
@@ -1162,8 +1184,12 @@ If a levy has already been paid for building work for which a building consent i
   (b) the relevant building consent authority:
   (c) if applicable, the relevant territorial authority.
 (3) An applicant who provides information to the chief executive under subsection (1) may request the chief executive to treat the information as confidential, and, except if compliance with the request would be contrary to any other law, the chief executive must comply with the request to the fullest extent possible.
-(4) A person commits an offence if the person fails to comply with a requirement to provide information under subsection (1).
-(5) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000.
+(4) A person who fails to comply with a requirement to provide information under subsection (1)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $5,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $25,000.
+(5)
 
 ### 64 Audit of issue of building consents for purpose of ascertaining payment of levy
 (1) A territorial authority must, at all times, keep in safe custody all records of building consents granted within its district, including—
@@ -1355,7 +1381,7 @@ All restricted building work must be carried out or supervised by a licensed bui
   (a) carries out restricted building work and is not licensed to carry out restricted building work of that kind; or
   (b) supervises restricted building work and is not licensed to carry out or supervise the carrying out of restricted building work of that kind.
 (3) Subsection (1) and (2)﻿(a) do not apply to a person to whom the owner-builder exemption applies in respect of the restricted building work in question.
-(4) A person who commits an offence under this section is liable on conviction to a fine not exceeding $20,000.
+(4) A person who commits an offence under this section is liable on conviction to a fine not exceeding $50,000.
 
 ### 86 Offence to engage another person to carry out or supervise restricted building work if person is not licensed building practitioner
 (1) A person commits an offence if that person—
@@ -1369,7 +1395,9 @@ All restricted building work must be carried out or supervised by a licensed bui
     (i) a licensed building practitioner; or
     (ii) a licensed building practitioner who is licensed to carry out or supervise the carrying out of the restricted building work.
 (1B) This section does not apply in the case of any unpaid friend or family member of an owner-builder who is engaged to assist the owner-builder in carrying out restricted building work.
-(2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $20,000.
+(2) A person who commits an offence under this section is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $50,000:
+  (b) in the case of a body corporate, to a fine not exceeding $150,000.
 
 ### 87 Owner must notify names of licensed building practitioners engaged in restricted building work
 (1) Before restricted building work commences under a building consent, the owner must give the building consent authority written notice of the name of every licensed building practitioner who—
@@ -1396,7 +1424,7 @@ All restricted building work must be carried out or supervised by a licensed bui
   (c) be given—
     (i) before the building work begins, if it is a notice required by subsection (2):
     (ii) as soon as practicable, if it is a notice required by subsection (3).
-(5) A person who contravenes this section commits an offence and is liable to a fine not exceeding $20,000.
+(5) A person who contravenes this section commits an offence and is liable on conviction to a fine not exceeding $50,000.
 
 ### 88 Licensed building practitioner to provide record of work in respect of restricted building work
 (1) Each licensed building practitioner who carries out (other than as an owner-builder) or supervises restricted building work under a building consent must, on completion of the restricted building work, provide the persons specified in subsection (2) with a record of work, in the prescribed form, stating what restricted building work the licensed building practitioner carried out or supervised.
@@ -1688,7 +1716,9 @@ An owner of a building for which a compliance schedule has been issued must ensu
   (a) fails to display a building warrant of fitness that is required to be displayed under this section; or
   (b) displays a false or misleading building warrant of fitness; or
   (c) displays a building warrant of fitness otherwise than in accordance with this section.
-(6) A person who commits an offence under this section is liable on conviction to a fine not exceeding $20,000.
+(6) A person who commits an offence under this section is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $50,000:
+  (b) in the case of a body corporate, to a fine not exceeding $150,000.
 (7) In subsection (3)﻿(d), a reference to an independently qualified person is a reference to the independently qualified person or independently qualified persons who carried out or supervised the inspection, maintenance, and reporting procedures stated in the compliance schedule during the previous 12 months.
 
 ### 109 Territorial authority must consider recommendation to amend compliance schedule
@@ -1751,8 +1781,12 @@ An owner of a building for which a compliance schedule has been issued must—
   (a) to change the use of a building; or
   (b) to extend the life of a building that has a specified intended life; or
   (c) to subdivide land in a manner that affects a building.
-(3) A person commits an offence if the person fails to comply with subsection (2).
-(4) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000.
+(3) A person who fails to comply with subsection (2)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $5,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $25,000.
+(4)
 
 ### 115 Code compliance requirements: change of use
 An owner of a building must not change the use of the building,—
@@ -1760,7 +1794,7 @@ An owner of a building must not change the use of the building,—
   (b) in any other case, unless the territorial authority gives the owner written notice that the territorial authority is satisfied, on reasonable grounds, that the building, in its new use,—
     (i) will comply, as nearly as is reasonably practicable, with every provision of the building code that relates to the following:
       (A) means of escape from fire, protection of other property, sanitary facilities, structural performance, and fire-rating performance:
-      (B) access and facilities for people with disabilities (if this is a requirement under section 118); and
+      (B) access and facilities for persons with disabilities (if this is a requirement under section 118); and
     (ii) will,—
       (A) if it complied with the other provisions of the building code immediately before the change of use, continue to comply with those provisions; or
       (B) if it did not comply with the other provisions of the building code immediately before the change of use, continue to comply at least to the same extent as it did then comply.
@@ -1929,7 +1963,9 @@ Any work required or authorised to be done under section 124(2)﻿(c) or section
 ### 128A Offences in relation to dangerous, affected, or insanitary buildings
 (1) A person who fails to comply with a notice issued under section 124(2)﻿(c) that is given to that person under section 125(2)—
   (a) commits an offence; and
-  (b) is liable to a fine not exceeding $200,000.
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $300,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $1,500,000.
 (2) A person who fails to comply with section 128(2)—
   (a) commits an offence; and
   (b) is liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part of a day during which the offence has continued.
@@ -2310,7 +2346,9 @@ This subpart does not apply to—
 Failure to complete seismic work
 (1) The owner of a building or a part of a building that is subject to an EPB notice who fails to complete seismic work on the building or part by the deadline that applies under section 133AM—
   (a) commits an offence; and
-  (b) is liable on conviction to a fine not exceeding $200,000.
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $300,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $1,500,000.
 Failures relating to EPB notices and EPB exemption notices
 (2) A person commits an offence if—
   (a) a territorial authority requires the person to attach an EPB notice or an EPB exemption notice on or adjacent to a building under section 133AP; and
@@ -2320,7 +2358,9 @@ Failures relating to EPB notices and EPB exemption notices
 (3) A person commits an offence if—
   (a) the person is required under section 133AP(2)﻿(a) to notify the territorial authority when an EPB notice or an EPB exemption notice ceases to be attached on or adjacent to a building or becomes illegible; and
   (b) the person fails to notify the territorial authority in accordance with that section.
-(4) A person who commits an offence under subsection (2) or (3) is liable on conviction to a fine not exceeding $20,000.
+(4) A person who commits an offence under subsection (2) or (3) is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $50,000:
+  (b) in the case of a body corporate, to a fine not exceeding $150,000.
 Failure to comply with safety requirements
 (5) A person who fails to comply with section 133AR(4) commits an offence and is liable on conviction—
   (a) to a fine not exceeding $200,000; and
@@ -2464,7 +2504,7 @@ Failure to comply with safety requirements
 
 ### 133BE Public notice of designation
 (1) A person who designates an area under section 133BC must, as soon as practicable, notify the public of the designation by publishing the designation on an Internet site that is publicly accessible free of charge.
-(2) If it is not practicable to comply with subsection (1), the person must publicly notify the designation by any other means that the person considers appropriate in the circumstances.
+(2) If it is not practicable to comply with subsection (1), the person must notify the public of the designation by any other means that the person considers appropriate in the circumstances.
 (3) Notice under this section must—
   (a) describe the designated area; and
   (b) describe the relevant emergency; and
@@ -2912,7 +2952,9 @@ The owner of a dam must classify the dam in accordance with section 134B if—
 A dam that is a canal that must be classified under section 134B may have different classifications for different sections of the canal and in that case each of those sections must be treated as a separate dam for the purposes of sections 134 to 139.
 
 ### 134C Offence of failing to classify dam
-A person to whom section 134 applies who fails to classify the dam in accordance with section 134B commits an offence and is liable on conviction to a fine not exceeding $20,000.
+A person to whom section 134 applies who fails to classify the dam in accordance with section 134B commits an offence and is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $50,000:
+  (b) in the case of a body corporate, to a fine not exceeding $150,000.
 
 ### 135 Owner must provide classification of, and certificate for, dam to regional authority
 (1) An owner of a dam must provide the regional authority in whose region the dam is situated with—
@@ -2956,7 +2998,9 @@ Despite sections 134 to 136,—
   (b) any later date that the regional authority in any particular case may allow.
 (3) Subsection (1) and section 136 apply, with all necessary modifications, to a re-audited classification.
 (4) A person commits an offence if the person fails to comply with a regional authority's direction under subsection (1)﻿(a).
-(5) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000.
+(5) A person who commits an offence under this section is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $20,000:
+  (b) in the case of a body corporate, to a fine not exceeding $60,000.
 
 ### 139 Owner must review dam classification
 (1) An owner of a dam must review the dam's classification—
@@ -2977,7 +3021,9 @@ Despite sections 134 to 136,—
   (a) prepare, or arrange for the preparation of, a dam safety assurance programme for the dam; and
   (b) submit the dam safety assurance programme to a recognised engineer for audit.
 (3) A person commits an offence if the person fails to comply with subsection (2).
-(4) A person who commits an offence under this section is liable on conviction to a fine not exceeding $20,000.
+(4) A person who commits an offence under this section is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $50,000:
+  (b) in the case of a body corporate, to a fine not exceeding $150,000.
 (5) To avoid doubt, a person may do both of the following in respect of the same dam if the person is a recognised engineer:
   (a) prepare the dam safety assurance programme for that dam; and
   (b) audit the dam safety assurance programme for that dam.
@@ -3023,7 +3069,9 @@ Despite sections 140 to 143,—
   (b) any later date that the regional authority in any particular case may allow.
 (3) Subsection (1) and section 143 apply, with all necessary modifications, to a re-audited dam safety assurance programme.
 (4) A person commits an offence if the person fails to comply with a direction under subsection (1)﻿(a).
-(5) A person who commits an offence under this section is liable on conviction to a fine not exceeding $10,000.
+(5) A person who commits an offence under this section is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $50,000:
+  (b) in the case of a body corporate, to a fine not exceeding $150,000.
 
 ### 146 Review of dam safety assurance programme
 (1) An owner of a dam to whom section 140 applies must review the dam safety assurance programme of a dam,—
@@ -3101,7 +3149,12 @@ An owner of a dam for which a dam safety assurance programme has been approved, 
   (a) fails to display a dam compliance certificate that is required to be displayed under this section; or
   (b) displays a false or misleading dam compliance certificate; or
   (c) displays a dam compliance certificate otherwise than in accordance with this section.
-(5) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000.
+(5) A person who commits an offence under subsection (4)﻿(a) or (c) is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $20,000:
+  (b) in the case of a body corporate, to a fine not exceeding $60,000.
+(6) A person who commits an offence under subsection (4)﻿(b) is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $50,000:
+  (b) in the case of a body corporate, to a fine not exceeding $150,000.
 
 ### 150A Annual dam compliance certificate requirements not to apply to accredited dam owner
 Section 150 does not apply to an accredited dam owner.
@@ -3147,7 +3200,9 @@ The owner of a dam who has reasonable grounds for believing that the dam is, or 
   (c) give written notice requiring work to be carried out on the dam, within a time stated in the notice (which must not be less than 10 days after the notice is given under section 155), to reduce or remove the danger.
 (2)
 (3) A person commits an offence if the person fails to comply with a notice given under subsection (1)﻿(c).
-(4) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200,000.
+(4) A person who commits an offence under this section is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $300,000:
+  (b) in the case of a body corporate, to a fine not exceeding $1,500,000.
 
 ### 155 Requirements for notice given under section 154
 (1) A notice given under section 154(1)﻿(c) must—
@@ -3325,7 +3380,9 @@ In this subpart, unless the context otherwise requires,—
 
 ### 168 Offence not to comply with notice to fix
 (1AA) A person commits an offence who fails to comply with a notice to fix a means of restricting access to a residential pool.
-(1AB) A person who commits an offence against subsection (1AA) is liable on conviction to a fine not exceeding $5,000.
+(1AB) A person who commits an offence against subsection (1AA) is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $20,000:
+  (b) in the case of a body corporate, to a fine not exceeding $60,000.
 (1) A person commits an offence if the person fails to comply with any other notice to fix under this Act.
 (2) A person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part of a day during which the offence has continued.
 
@@ -3655,12 +3712,14 @@ The chief executive must, as soon as practicable after receiving an application 
   (a) be subject to any conditions that the chief executive thinks fit; and
   (b) be revoked by the chief executive at any time.
 
-### 199 Offence for person to perform functions of building consent authority or regional authority if person not registered, etc
-(1) A person commits an offence if the person performs any of the functions of a building consent authority without being registered under section 191.
-(2) A person commits an offence if the person—
-  (a) is a building consent authority that is not a territorial authority or a regional authority; and
-  (b) performs any of the functions of a building consent authority that do not correspond with, or are not within, the person's scope of accreditation.
-(3) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200,000.
+### 199 Offence to perform functions of building consent authority if not authorised
+(1) A person who is not a building consent authority must not perform any of the functions of a building consent authority under this Act.
+(2) A person who is a building consent authority but not a territorial authority or regional authority must not perform any of the functions of a building consent authority under this Act that are not within the person’s scope of accreditation.
+(3) A person who fails to comply with subsection (1) or (2)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $300,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $1,500,000.
 
 ### 200 Complaints about building consent authorities
 (1) The chief executive may receive complaints alleging that a building consent authority—
@@ -3753,12 +3812,13 @@ The power to enter land or buildings under section 204(2) is subject to the foll
 (1) The chief executive must supply to a person authorised to enter land or buildings on behalf of the chief executive a written warrant that contains—
   (a) a reference to this section; and
   (b) the full name of the person; and
-  (c) a statement of the powers conferred by this section.
+  (c) a statement of the powers conferred by section 204.
 (2) A person who does not have a warrant supplied under this section must not represent himself or herself to be the holder of a warrant.
 (3) A person commits an offence if the person—
   (a) fails to comply with subsection (2); or
   (b) impersonates or falsely pretends to be a person named in a warrant supplied under this section.
-(4) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000.
+(4) A person who commits an offence under subsection (3)﻿(a) is liable on conviction to a fine not exceeding $5,000.
+(5) A person who commits an offence under subsection (3)﻿(b) is liable on conviction to a fine not exceeding $50,000.
 
 ### 207 Duties of person supplied with warrant
 An authorised person supplied with a warrant under section 206—
@@ -4155,7 +4215,7 @@ An authorised officer must, on entering private land and when requested at any s
 
 ### 225 Offence to impersonate authorised officer
 (1) A person commits an offence if the person impersonates or falsely pretends to be an authorised officer named in a warrant referred to in section 224.
-(2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000.
+(2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $50,000.
 
 ### 226 Restriction on entry to household unit
 (1) Despite section 222, an authorised officer may not enter a household unit that is being used as a household unit without—
@@ -4764,9 +4824,12 @@ An application to become licensed under this subpart must be made to the Registr
 **Provisions relating to licences**
 
 ### 289 Duty to produce evidence of being licensed
-A licensed building practitioner must, if asked by any person, produce for inspection by the person either—
+(1) A licensed building practitioner must, if asked by any person, produce for inspection by the person either—
   (a) the evidence of being licensed sent to the licensed building practitioner under section 288(1)﻿(b); or
   (b) a copy of that evidence.
+(2) A person who fails to comply with subsection (1)—
+  (a) commits an offence; and
+  (b) is liable on conviction to a fine not exceeding $50,000.
 
 ### 290 Term of being licensed
 Licensing continues in force until it is cancelled or suspended under this subpart.
@@ -4881,6 +4944,9 @@ The purpose of the register is—
 (2) Change of circumstances—
   (a) means any change in the information that the person has provided to the Registrar under this subpart; and
   (b) includes any change that may be prescribed (if any).
+(3) A person who fails to comply with subsection (1)—
+  (a) commits an offence; and
+  (b) is liable on conviction to a fine not exceeding $5,000.
 
 ### 303 Registrar must contact licensed building practitioners on annual basis
 (1) The Registrar must, on an annual basis, contact each licensed building practitioner, in a manner provided for in the rules, and—
@@ -4956,12 +5022,12 @@ The functions of the Registrar are—
 **Offences relating to licensing**
 
 ### 314 Offences relating to licensing
-(1) A person commits an offence if the person holds himself or herself out as a person who is licensed to carry out or supervise building work or building inspection work, or building work or building inspection work of a certain type, while not being so licensed.
-(2) A person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $20,000.
-(3) A person commits an offence if the person—
-  (a) fails to produce evidence of being licensed as required by section 289; or
-  (b) fails to give written notice of a change in circumstances in accordance with section 302.
-(4) A person who commits an offence under subsection (3) is liable on conviction to a fine not exceeding $5,000.
+(1) A person must not hold themselves out as a person who is licensed to carry out or supervise building work or building inspection work, or building work or building inspection work of a certain type, while not being so licensed.
+(2) A person who fails to comply with subsection (1)—
+  (a) commits an offence; and
+  (b) is liable on conviction to a fine not exceeding $50,000.
+(3)
+(4)
 
 **Code of ethics and competence**
 
@@ -5074,13 +5140,15 @@ If money payable by a person under section 318(1)﻿(f) or (4) remains unpaid fo
 (2) The person requiring attendance of the witness must pay or tender to the witness the fees, allowances, and expenses at the time the summons is served or at some other reasonable time before the hearing.
 
 ### 326 Failure to comply with summons
-(1) A person summoned under section 323 commits an offence if he or she, without sufficient cause,—
-  (a) fails to attend in accordance with the summons; or
-  (b) does not give evidence when required to do so; or
-  (c) does not give evidence under oath when required to do so; or
-  (d) does not answer any question that is lawfully asked by the Board; or
-  (e) does not provide any documents, things, or information that the summons requires the person to provide.
-(2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $2,000.
+(1) A person summoned under section 323 must—
+  (a) attend in accordance with the summons; and
+  (b) give evidence when required to do so; and
+  (c) give evidence under oath when required to do so; and
+  (d) answer any question that is lawfully asked by the Board; and
+  (e) provide any documents, things, or information that the summons requires the person to provide.
+(2) A person who fails to comply with subsection (1) without sufficient cause—
+  (a) commits an offence; and
+  (b) is liable on conviction to a fine not exceeding $5,000.
 (3) A person must not be convicted of an offence under this section if witnesses' fees, allowances, and expenses to which the person is entitled under section 325 have not been paid or tendered to him or her.
 
 ### 327 Witness and counsel privileges
@@ -5302,7 +5370,8 @@ This Part protects consumers (referred to in this Part as clients) in relation t
   - **building work** does not include design work, and paragraph (c) of the definition of in section 7 does not apply to this Part
   - **residential building contract** —
     (a) means a contract under which one person (the building contractor) agrees with another person (the client) to do building work for the client in relation to a household unit; but
-    (b) does not include a subcontracting agreement between a building contractor and a building subcontractor.
+    (b) does not include a subcontracting agreement between a building contractor and a building subcontractor; and
+    (c) does not include an agreement that relates to the purchase from a registered MCM of a modular component that is a household unit where the purchaser of the modular component intends to on-sell it.
 (2) On section 6(8) of the Building Amendment Act 2012 coming into force, and in the following order,—
   (a) first, the definition of building work in subsection (1) is repealed and the following definition substituted:
     - **building work** does not include design work, and paragraphs (c) and (e) of the definition of in section 7 do not apply to this Part
@@ -5322,8 +5391,12 @@ Nothing in this Part limits or derogates from the provisions of the Fair Trading
   (b) a prescribed checklist (if any).
 (3) The disclosure information and the checklist must each be in the form prescribed by regulations (if any).
 (4) A person who contravenes subsection (2)﻿(a) or (b) commits an infringement offence and is liable to a fine not exceeding $2,000.
-(5) A person commits an offence who, in any communication or document required to be made or given under subsection (2)﻿(a), knowingly makes a statement that is false or misleading in a material particular or knowingly makes a material omission.
-(6) A person who commits an offence under subsection (5) is liable on conviction to a fine not exceeding $20,000.
+(5) A person must not, in any communication or document required to be made or given under subsection (2)﻿(a), knowingly make a statement that is false or misleading in a material particular or knowingly make a material omission.
+(6) A person who fails to comply with subsection (5)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $50,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $150,000.
 
 ### 362E Purpose of regulations under section 362D
 (1) The purpose of regulations prescribing disclosure information under section 362D(2)﻿(a) is to give a client information about a building contractor, and the prescribed disclosure information may include (but is not limited to) information relating to the following:
@@ -5516,12 +5589,17 @@ The purpose of regulations prescribing information and documentation under secti
 **Offence by commercial on-seller**
 
 ### 362V Offence for commercial on-seller to transfer household unit without code compliance certificate
-(1) A commercial on-seller commits an offence if the commercial on-seller does either or both of the following things before a code compliance certificate is issued in relation to a household unit:
-  (a) completes a sale of the household unit:
-  (b) allows a purchaser of the household unit to enter into possession of the household unit.
+(1) A commercial on-seller must not do either of the following things before a code compliance certificate is issued in relation to a household unit:
+  (a) complete a sale of the household unit:
+  (b) allow a purchaser of the household unit to enter into possession of the household unit.
 (2) Subsection (1) does not apply if the commercial on-seller and the purchaser of the household unit enter into a written agreement, in the form (if any) prescribed by regulations made under this Act, that the commercial on-seller may do either or both of the things referred to in that subsection before a code compliance certificate is issued in relation to the household unit concerned.
-(3) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200,000.
+(3) If a household unit is a modular component manufactured by a registered MCM who is certified to design and manufacture it, subsection (1) does not apply to the sale of the household unit by the manufacturer.
 (4) Subsection (1) does not apply if the contract for the sale and purchase of the household unit was entered into before 30 November 2004.
+(4A) A person who fails to comply with subsection (1)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $300,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $1,500,000.
 (5) In this section, commercial on-seller means a person who, in trade, does any of the following things in relation to a household unit for the purpose of selling the household unit:
   (a) builds the household unit; or
   (b) arranges for the household unit to be built; or
@@ -5593,39 +5671,59 @@ The purpose of regulations prescribing information and documentation under secti
 **Offences relating to administration of Act**
 
 ### 365 Offence to fail to comply with direction of authorised person
-(1) A person commits an offence if the person intentionally fails to comply with a direction given by a person who is authorised to give the direction by this Act or by the regulations.
+(1) A person must comply with a direction given by a person who is authorised to give the direction by this Act or by the regulations.
 (1A) This section does not apply to a failure to comply with a direction that is an offence under—
   (a) section 133BR(3):
   (b) section 133BU(8):
   (c) section 133BW(10):
   (d) section 133BX(10).
-(2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000.
+(2) A person who intentionally fails to comply with subsection (1)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $20,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $60,000.
 
 ### 366 Offence to impersonate building consent authority or regional authority, etc
-(1) A person commits an offence if the person impersonates—
+(1) A person must not impersonate—
   (a) a building consent authority or regional authority; or
   (b) an officer or employee of a building consent authority or regional authority.
-(2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000.
+(2) A person who fails to comply with subsection (1)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $50,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $150,000.
 
 ### 367 Offence to obstruct execution of powers under this Act
-(1) A person commits an offence if the person wilfully obstructs, hinders, or resists a person in the execution of powers conferred on that person by this Act or by the regulations.
+(1) A person must not wilfully obstruct, hinder, or resist a person in the execution of powers conferred on that person by this Act or by the regulations.
 (1A) This section does not apply to conduct that is an offence under section 207S.
-(2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000.
+(2) A person who fails to comply with subsection (1)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $50,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $150,000.
 
 **Miscellaneous offences**
 
 ### 368 Offence to remove or deface notices
-(1) A person commits an offence if the person—
-  (a) wilfully removes or defaces any notice published under this Act; or
-  (b) incites another person to do so.
+(1) A person must not—
+  (a) wilfully remove or deface any notice published under this Act; or
+  (b) incite another person to do so.
 (1A) This section does not apply to conduct that is an offence under section 133BT(6).
-(2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000.
+(2) A person who fails to comply with subsection (1)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $50,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $150,000.
 
 ### 369 Offence to make false or misleading statement
-(1) A person commits an offence if the person, in any communication, application, or document that is required to be made or given under this Act or by the regulations,—
-  (a) knowingly makes a written or oral statement that is false or misleading in a material particular; or
-  (b) knowingly makes a material omission.
-(2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000.
+(1) A person must not, in any communication, application, or document that is required to be made or given under this Act or by the regulations,—
+  (a) knowingly make a written or oral statement that is false or misleading in a material particular; or
+  (b) knowingly make a material omission.
+(2) A person who fails to comply with subsection (1)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $20,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $60,000.
 
 **Proceedings for infringement offences**
 
@@ -5664,7 +5762,7 @@ In this section and sections 371 to 374,—
 
 ### 371D Offence to impersonate enforcement officer
 (1) A person commits an offence if the person impersonates or falsely pretends to be an enforcement officer named in a warrant issued under section 371B(3).
-(2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000.
+(2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $50,000.
 
 ### 372 Issue of infringement notices
 (1) An infringement notice may be served on a person if an enforcement officer—
@@ -5709,7 +5807,7 @@ Any of the following persons may file a charging document for an offence against
   (d) any person referred to in section 176(g).
 
 ### 378 Time limit for filing charging document
-Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 6 months after the date when the matter giving rise to the charge first became known, or should have become known, to any of the following persons:
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date when the matter giving rise to the charge first became known, or should have become known, to any of the following persons:
   (a) the chief executive; or
   (b) a territorial authority; or
   (c) a regional authority; or
@@ -5969,10 +6067,10 @@ The Governor-General may, by Order in Council made on the recommendation of the 
     (iii) the location of, and hours of access to, the register:
     (iv) search criteria for the register:
   (h) prescribing the way in which a disciplinary matter must be considered and decided on by the Board, and the way in which decisions on that matter must be implemented:
-  (i) prescribing the manner in which rules are to be made, amended, or revoked, including the requirements for consultation with persons affected by the proposed rules:
+  (i) prescribing the manner in which rules made under section 353 are to be made, amended, or revoked, including the requirements for consultation with persons affected by the proposed rules:
   (ia) prescribing matters in respect of the acceptance and renewal of acceptance of independently qualified pool inspectors, including the fees or charges payable:
   (j) prescribing procedures for regulating and controlling the construction, maintenance, and demolition of buildings:
-  (k) prescribing the form or content of applications, or any other documentation or information required under this Act:
+  (k) prescribing the form or content of applications, or any other documentation or information that is required to accompany applications or is otherwise required under this Act:
   (ka) prescribing eligibility criteria for national multiple-use approvals:
   (kb) prescribing the period of time within which the chief executive must decide, under section 30E(1), whether to issue a national multiple-use approval:
   (kc) defining the minor customisations that may be made to plans and specifications in relation to which a national multiple-use approval has been issued when incorporating those plans and specifications into a building consent:
@@ -5996,10 +6094,45 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (t) prescribing the criteria and standards that an applicant must meet to be accredited as—
     (i) a building consent authority; or
     (ii)
-    (iii) a dam owner; or
-    (iv) a product certification body:
-  (ta) prescribing the fees payable for an audit under section 249(a), 257(a), or 262(1)﻿(a), or the rate at which, or method by which, those fees are to be calculated:
-  (u) prescribing the criteria and standards that a product certification body must apply in determining applications for a product certificate under section 269 (which must include, without limitation, criteria and standards about the effects on human health of particular building methods or products):
+    (iii) a dam owner:
+    (iv)
+  (ta) prescribing the fees payable for an audit under section 249(a) or 257, or the rate at which, or method by which, those fees are to be calculated:
+  (tb) prescribing, in relation to product certification bodies,—
+    (i) the fees payable under section 262A for an audit or the rate at which, or method by which, those fees are to be calculated:
+    (ii) for the purposes of section 263(1),—
+      (A) requirements for policies, procedures, and systems:
+      (B) other criteria and standards for accreditation:
+    (iii) for the purposes of section 267A,—
+      (A) requirements to have adequate means to cover civil liabilities:
+      (B) other criteria and standards for registration:
+  (u) prescribing, in relation to product certification bodies,—
+    (i) the criteria and standards for certification of a building product or building method for the purposes of section 269 (which must include, without limitation, criteria and standards about the effects on human health of the building product or building methods):
+    (ii) in relation to reviews under section 270, matters that a registered PCB must take into account, and requirements that a registered PCB must comply with, in carrying out an audit:
+  (ua) prescribing the kinds of building products that are modular components for the purposes of the definition of modular component in section 7:
+  (ub) prescribing, in relation to modular component manufacturer certification bodies,—
+    (i) for the purposes of section 272J(1),—
+      (A) requirements for policies, procedures, and systems:
+      (B) other criteria and standards for accreditation:
+    (ii) in relation to audits under section 272K,—
+      (A) the frequency with which audits must be conducted:
+      (B) matters that an MCMC accreditation body must take into account in carrying out an audit:
+      (C) other requirements that an MCMC accreditation body must comply with in carrying out an audit:
+      (D) the fees payable for an audit or the rate at which, or method by which, those fees are to be calculated:
+    (iii) for the purposes of section 272N,—
+      (A) requirements to have adequate means to cover civil liabilities:
+      (B) other criteria and standards for registration:
+  (uc) prescribing, in relation to modular component manufacturers,—
+    (i) for the purposes of section 272U(1),—
+      (A) requirements for policies, procedures, and systems:
+      (B) other criteria and standards for certification:
+    (ii) in relation to audits under section 272V,—
+      (A) the frequency with which audits must be conducted:
+      (B) matters that a registered MCMCB must take into account in carrying out an audit:
+      (C) other requirements that a registered MCMCB must comply with in carrying out an audit:
+    (iii) for the purposes of section 272Y,—
+      (A) requirements to have adequate means to cover civil liabilities:
+      (B) other criteria and standards for registration:
+  (ud) prescribing the information to be included in, and other requirements for, manufacturers’ certificates for modular components for the purposes of section 272ZF:
   (v) determining or fixing scales of charges or other criteria for the purpose of fixing charges by the chief executive under Part 3:
   (w) prescribing—
     (i) the matters in respect of which fees are payable under this Act, and the amount of those fees; or
@@ -6016,6 +6149,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (xd) prescribing the minimum price for building work for the purposes of section 362F(1) or prescribing the methodology for calculating that minimum price, or both:
   (xe) prescribing the content of, or information or clauses or terms that must be contained in, a residential building contract for the purposes of section 362F(2)﻿(c):
   (xf) prescribing any or all of the information and documentation for the purposes of section 362T(2):
+  (xg) prescribing information requirements for building products for the purposes of section 362VA:
   (y) specifying infringement offences for the purposes of this Act:
   (z) setting the infringement fee for each infringement offence (which may not exceed $20,000):
   (za) prescribing the forms that must be used for issuing an infringement notice:
