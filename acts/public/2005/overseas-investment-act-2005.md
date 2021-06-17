@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2021-06-07_
+_Consolidation as at 2021-06-17_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -2262,16 +2262,7 @@ Exemptions that are granted under an old provision, and in force immediately bef
 This Part applies to matters under sections 56 to 58B of the Fisheries Act 1996 in the same way as it applies to similar matters under the rest of this Act.
 
 ### 26 Transitionals, savings, and orderly implementation of 2020 Urgent Act
-(1) The Governor-General may, by Order in Council, on the recommendation of the Minister, make regulations for the purpose of providing that, subject to any conditions stated in the regulations, specified provisions of this Act do not apply, or continue to apply or apply with modifications or additions, or both, during the whole or any part of the transitional implementation period ending on the 1-year date.
-(2) The Minister must not recommend the making of regulations under this clause unless the Minister is satisfied that the regulations—
-  (a) are necessary or desirable for the orderly implementation of the 2020 Urgent Act; and
-  (b) are consistent with the intended purpose of the specified provisions.
-(3) This clause is repealed on the close of the 1-year date.
-(4) Any regulations made under this clause that are in force on the 1-year date are revoked on the close of that day.
-(5) In this clause,—
-  - **1-year date** means the date that is 1 year after the date on which this clause comes into force
-  - **specified provisions of the Act** means any specified provisions of this Act to the extent that they are inserted, amended, or otherwise affected by the 2020 Urgent Act (including definitions and any transitional provisions in this schedule).
-(6) This clause is repealed on the 42nd day after the date on which the Overseas Investment Amendment Act (No 3) 2020 receives the Royal assent.
+[Repealed]
 
 ### 27 Review of emergency notification regime
 (1) The Minister must review, at intervals that are no more than 90 days apart, whether the effects of the emergency continue to justify the emergency notification regime continuing in place.
