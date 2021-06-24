@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2021-01-01_
+_Consolidation as at 2021-06-24_
 
 > Title
 
@@ -263,21 +263,68 @@ The transitional, savings, and related provisions set out in Schedule 1 have eff
 **Licensed dealers**
 
 ### 5 Dealers to be licensed
-(1) No person may, unless they hold a dealer’s licence under this Act issued by a commissioned officer of the Police,—
-  (a) in the way of business sell any firearm, prohibited magazine, prohibited part, airgun, pistol, or restricted weapon; or
-  (b) manufacture for sale any firearm, prohibited magazine, prohibited part, airgun, pistol, or restricted weapon.
-(2) Every application for a dealer's licence shall be made on a form provided by a member of the Police.
-(3) A dealer's licence shall be issued if the commissioned officer of Police to whom the application is made is satisfied that the applicant is a fit and proper person to carry on the business of a dealer in, or manufacturer for sale of, firearms, prohibited magazines, airguns, pistols, and restricted weapons.
-(3A) Despite subsections (1) to (3), no dealer's licence is to be issued for the carrying on of business as a dealer in, or manufacturer for sale of, anti-personnel mines or cluster munitions.
-(3B) Despite subsections (1) to (3), no dealer’s licence may be issued for the manufacture for sale of prohibited items.
-(4) Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $1,000 who contravenes subsection (1).
+(1) A person other than a body corporate must not carry on any of the following activities in relation to a class of arms items without a dealer’s licence that authorises the person to carry on the activity in relation to that class of arms items:
+  (a) the business of selling, hiring, lending, or otherwise supplying a class of arms items:
+  (b) possessing, for the purposes of an auction, a class of arms items:
+  (c) the business of repairing or modifying a class of arms items:
+  (d) displaying, as the director or curator of a bona fide museum, a class of arms items:
+  (e) the business of manufacturing for sale, hire, lending, or other supply a class of arms items:
+  (f) manufacturing (for the purposes of permitted supply (as defined in section 4A(3))) prohibited parts and using prohibited items to test and demonstrate those prohibited parts.
+(2) A body corporate must not carry on any of the activities specified in subsection (1) in relation to a class of arms items unless a senior manager of the body corporate has a dealer’s licence authorising the senior manager to carry on the activities in relation to the class of arms items on behalf of the body corporate.
+(3) Despite subsections (1) and (2), a dealer’s licence is not required for the following activities:
+  (a) commercial hunting guide services by a firearms licence holder who during the provision of those services supplies no more than 6 firearms to 1 or more clients:
+  (b) the selling, hiring, lending, or supplying of firearms by a member of a shooting club, if the member—
+    (i) sells, hires, lends, or supplies firearms to a club member, or on club premises, with the approval of the management committee of the club or a majority vote of club members; and
+    (ii) the revenue from the sale, hire, lending, or supply of the firearms is used for the benefit of the club.
+(4) A dealer’s licence may not be issued for the carrying on of any of the activities specified in subsection (1) in relation to—
+  (a) anti-personnel mines; or
+  (b) cluster munitions.
+(5) A person commits an offence and is liable on conviction to imprisonment for a term not exceeding 6 months, or to a fine not exceeding $10,000, if the person, without reasonable excuse, contravenes this section.
+
+### 5A Application for dealer’s licence
+(1) An application for a dealer’s licence must—
+  (a) be made on a form provided by a member of the Police, or in any way approved by a member of the Police; and
+  (b) specify—
+    (i) the dealer activities for which the dealer’s licence is sought; and
+    (ii) the class or classes of arms items in respect of which those activities will be carried on; and
+    (iii) the place of business from which the dealer activities will be carried on; and
+    (iv) if the dealer intends to operate from 2 or more places of business, the name of the manager of each place of business and the address of each place of business.
+(2) An application for a dealer’s licence to carry on or manage the dealer activity specified in section 5(1)﻿(e) in relation to the manufacture of any prohibited items may only be made by a person described in section 4A(1A).
+(3) An application for a dealer’s licence to carry on the dealer activity specified in section 5(1)﻿(f) may only be made by a person described in section 4A(1A).
+
+### 5B Issue of dealer’s licence
+(1) A commissioned officer of Police may issue a dealer’s licence to an applicant authorising the applicant to carry on 1 or more dealer activities in respect of 1 or more classes of arms items if—
+  (a) the applicant holds a firearms licence; and
+  (b) the commissioned officer of Police is satisfied that—
+    (i) the applicant is a fit and proper person to carry on the dealer activity or activities; and
+    (ii) in each place of business from which the dealer activity or activities are being carried on there are secure storage facilities appropriate for the class and number of arms items and any ammunition that may be possessed in the course of carrying on the dealer activity or activities.
+(2) A dealer’s licence that is issued to an applicant for the carrying on of a dealer activity in respect of any of the following classes of arms items must bear an appropriate endorsement made under section 30 or 30B:
+  (a) prohibited firearms:
+  (b) prohibited magazines:
+  (c) pistols:
+  (d) restricted weapons:
+  (e) pistol carbine conversion kits.
+(3) A dealer’s licence is personal to the person to whom it is issued, may not be transferred to any other person, and must specify—
+  (a) the dealer activity or activities the person may carry on; and
+  (b) the class or classes of arms items in respect of which that activity or those activities may be carried on.
+(4) However, if the person to whom a dealer’s licence is issued is a senior manager of a body corporate, the senior manager may, on behalf of the body corporate, carry out the dealer activities specified in the dealer’s licence in relation to the class or classes of arms items specified in the dealer’s licence.
 
 ### 5C On-site theatrical armourers to supervise firearms use in certain cases
 (1) This section applies if a holder of a dealer’s licence hires out firearms for use by a bona fide theatre company or society or cinematic or television film production company or video recording production company.
 (2) The use of those firearms by members of the company or society must be supervised by an on-site theatrical armourer.
 
-### 6 Dealer's licence to be personal to holder
-A dealer's licence shall be personal to the person to whom it is issued, and shall not be transferable or vest by operation of law in any person other than the person to whom it is issued.
+### 6 Fit and proper person to hold dealer’s licence
+In deciding whether, for the purposes of section 5B(1)﻿(b)﻿(i), an applicant is a fit and proper person to hold a dealer’s licence, the commissioned officer of Police—
+  (a) must take into account the character and reputation of the applicant, and whether the applicant—
+    (i) has the competencies and resources to carry on the dealer activity or activities for which the dealer’s licence is sought; and
+    (ii) has any convictions; and
+    (iii) has a sound knowledge of firearms; and
+    (iv) understands the legal obligations of a holder of a dealer’s licence; and
+    (v) understands the legal obligations of a holder of a firearms licence, including an understanding of the endorsements that may be made on a firearms licence, and is able to provide advice on those obligations; and
+  (b) in the case of an applicant who is a senior manager of a body corporate, and who, in reliance on section 5(2), is applying for a dealer’s licence to enable the body corporate to carry on a dealer activity, the commissioned officer of Police must take into account whether—
+    (i) the body corporate has appropriate record-keeping systems and other systems to comply with the requirements of this Act and any regulations made under this Act; and
+    (ii) if the body corporate operates from 2 or more places of business, there will be, at each of those places, a manager who has appropriate oversight and control of the proposed dealer activity or activities to be carried on at that place; and
+  (c) may take into account any other matters the commissioned officer of Police considers relevant.
 
 ### 6A Conditions of dealer’s licence
 (1) Every dealer’s licence is issued subject to the conditions that any person who is in possession of a pistol, pistol carbine conversion kit, restricted weapon (other than an air pistol), prohibited firearm, or prohibited magazine by virtue of that licence must—
@@ -287,6 +334,23 @@ A dealer's licence shall be personal to the person to whom it is issued, and sha
   (a) to identify themselves to the person in possession of the pistol, pistol carbine conversion kit, restricted weapon, prohibited firearm, or prohibited magazine; and
   (b) to tell the person in possession of the pistol, pistol carbine conversion kit, restricted weapon, prohibited firearm, or prohibited magazine that the power is being exercised under subsection (1); and
   (c) if they are not in uniform, to produce on initial entry, and, if requested, at any subsequent time, evidence that they are a member of the Police.
+
+### 6B Special condition of dealer’s licence relating to manufacture of firearms, etc
+(1) Every dealer’s licence issued for the purpose of carrying on a dealer activity relating to the manufacture for sale, hire, lending, or other supply of any of the following classes of items is issued subject to the condition in subsection (2):
+  (a) pistols:
+  (b) restricted weapons:
+  (c) pistol carbine conversion kits:
+  (d) air pistol carbine conversion kits.
+(2) Before manufacturing any class of items referred to in subsection (1), a dealer must—
+  (a) apply to the Commissioner for approval to manufacture that class of item, stating in the application the number of items intended to be manufactured; and
+  (b) obtain the Commissioner’s written approval for the manufacture of that class of item.
+(3) The Commissioner, before approving the manufacture of any class of items specified in subsection (1)﻿(a), (b), or (c), must be satisfied that there are special reasons why the items that are proposed to be manufactured should be in New Zealand.
+(4) The Commissioner must, before approving the manufacture of air pistol carbine conversion kits, also be satisfied that the kits are for the personal use of a member of an airsoft or paintball club that is affiliated with a national airsoft or paintball organisation.
+
+### 6C Breach of conditions to which dealer’s licence is subject
+A dealer who breaches a condition that their dealer’s licence is subject to under section 6A or 6B may—
+  (a) be issued with an improvement notice under section 60; or
+  (b) have their dealer’s licence temporarily suspended under section 60A (see section 60C, which sets out the effect of the temporary suspension of a dealer’s licence).
 
 ### 7 Place of business
 (1) A dealer’s licence may be issued in respect of 1 place of business only, and that place of business must be specified in the licence.
@@ -369,15 +433,22 @@ A dealer may at any time surrender their dealer’s licence to a member of the P
 (3) A person commits an offence and is liable on conviction to a fine not exceeding $10,000 if the person, without reasonable excuse, contravenes this section.
 
 ### 12 Record of dealings by licensed dealers
-(1) Every licensed dealer shall keep at the place of business referred to in his licence a book in which he shall record such particulars as may be prescribed by regulations made under this Act, relating to the receipt, sale, or manufacture by him of any firearms, airguns, pistols, prohibited items, or restricted weapons.
+(1) A licensed dealer must keep at the place of business referred to in their licence a book that records the particulars prescribed by regulations made under this Act relating to—
+  (a) the transactions conducted in the course of carrying on a dealer activity; and
+  (b) the arms items and ammunition received, sold, supplied, or manufactured in the course of carrying on their business.
+(1A) A licensed dealer who keeps their book under subsection (1) in hard copy form must retain the book for at least 10 years from the date of the last entry in the book.
+(1B) A licensed dealer who keeps their book under subsection (1) electronically must retain each electronic record for at least 10 years from the date on which the record is entered.
 (2) Every licensed dealer shall at all times—
   (a) permit any member of the Police to inspect and make copies of any entries in the book so kept by him pursuant to subsection (1); and
-  (b) afford, on demand, to any member of the Police all further information in his possession with respect to any dealings by him relating to firearms, airguns, pistols, prohibited items, or restricted weapons; and
+  (b) afford, on demand, to any member of the Police all further information in his possession with respect to any dealings by him relating to firearms, airguns, pistols, pistol carbine conversion kits, prohibited items, or restricted weapons; and
   (c) permit any member of the Police to inspect—
-    (i) any firearms, airguns, pistols, prohibited items, or restricted weapons in his possession; and
-    (ii) the premises in which, and the conditions under which, his stock of firearms, airguns, pistols, prohibited items, or restricted weapons is kept.
-(3) Every licensed dealer commits an offence and is liable on conviction to a fine not exceeding $500 who acts in contravention of subsection (1) or subsection (2).
-(4) Subsection (3) is subject to section 59A(2).
+    (i) any firearms, airguns, pistols, pistol carbine conversion kits, prohibited items, or restricted weapons in his possession; and
+    (ii) the premises in which, and the conditions under which, his stock of firearms, airguns, pistols, pistol carbine conversion kits, prohibited items, or restricted weapons is kept.
+(3) Despite subsection (1), a licensed dealer need not record particulars under that subsection if—
+  (a) the particulars are declared by regulations made under section 74 to be exempt from the requirement in that subsection; or
+  (b) the dealer provides the particulars to the Police for inclusion in the registry in accordance with the regulations.
+(4) A licensed dealer commits an offence and is liable on conviction to imprisonment for a term not exceeding 6 months, or to a fine not exceeding $10,000, if the dealer, without reasonable excuse, contravenes this section.
+(5) Subsection (4) is subject to section 59A(2).
 
 ### 13 Seizure of items held by licensed dealer
 (1) Any member of the Police may, on being authorised to do so by warrant under the hand of the Commissioner, seize and take possession of all or any arms items and ammunition in the possession of or under the control of a licensed dealer.
