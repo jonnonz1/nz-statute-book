@@ -1,5 +1,5 @@
 # Intelligence and Security Act 2017
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-06-29_
 
 ### 1 Title
 This Act is the Intelligence and Security Act 2017.
@@ -2451,7 +2451,7 @@ In matters relating to functions specified in section 233, the employee designat
 
 ### 235 Requirement to hold periodic reviews
 A review of the intelligence and security agencies and this Act must, in accordance with the terms of reference specified under section 236(3)﻿(a), be—
-  (a) commenced as soon as practicable after the expiry of the period of 5 years beginning on the commencement of this section; and
+  (a) commenced as soon as practicable on or after 1 July 2021; and
   (b) afterwards, held at intervals not shorter than 5 years and not longer than 7 years.
 
 ### 236 Appointment of reviewers and related matters
