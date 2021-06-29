@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2021-04-09_
+_Consolidation as at 2021-06-29_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -2645,14 +2645,16 @@ The purpose of this Part is—
   (a) to reduce the incidence and mortality rate of cervical cancer by providing for the continuation of the NCSP; and
   (b) to facilitate the operation and evaluation of that national cervical screening programme by—
     (i) enabling access to information and specimens by the persons operating the programme; and
-    (ii) enabling access to information and specimens by screening programme evaluators appointed to evaluate that programme.
+    (ii) enabling access to information and specimens by screening programme evaluators appointed to evaluate that programme; and
+    (iii) enabling access to information by specified classes of persons for the purpose of providing cervical screening, assessment, and treatment services and by researchers.
 
 ### 112B Interpretation
 In this Part, unless the context otherwise requires,—
   - **cancer** has the meaning set out in section 2 of the Cancer Registry Act 1993
   - **cancer registry** means the cancer registry maintained under the Cancer Registry Act 1993
   - **cervical cancer** means any cancer of the cervix
-  - **diagnostic test** means a test taken to determine or confirm the presence of cancer, or a precursor to cancer, in a woman's cervix, and may include—
+  - **cervical screening service** means any service provided for the purpose of providing cervical screening, assessment, and treatment services in relation to a particular woman as part of the NCSP
+  - **diagnostic test** means a test taken to determine or confirm the presence of cancer, or a precursor to cancer, in a woman's cervix or vagina, and may include—
     (a) a colposcopic procedure:
     (b) an examination of a histological specimen taken from the woman
   - **evaluate** has the meaning set out in section 112T(1)
@@ -2661,15 +2663,19 @@ In this Part, unless the context otherwise requires,—
   - **health practitioner** has the meaning set out in section 5 of the Health Practitioners Competence Assurance Act 2003
   - **hospital** means a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001
   - **NCSP** means the programme that, at the date of commencement of this section, is operated by the Ministry of Health and known as the National Cervical Screening Programme
+  - **NCSP information** means—
+    (a) register information; and
+    (b) information held by the NCSP as a result of an evaluation conducted in accordance with this Part
   - **NCSP manager** means—
     (a) the person appointed under section 112C(3) as the NCSP manager; or
     (b) if no person has been appointed as the NCSP manager, the Director-General
-  - **NCSP register** means the National Cervical Screening Programme register maintained by the persons appointed under section 112C
+  - **NCSP register** means the National Cervical Screening Programme register maintained by the persons appointed under section 112C, and includes any part of the register that is replaced
+  - **register information** means information held on the NCSP register
   - **relevant woman** , for the purposes of sections 112X, 112ZB, 112ZC, and 112ZD, has the meaning set out in section 112X(1)
   - **review committee** means an NCSP review committee established under section 112O
   - **screening programme evaluator** means a person designated as a screening programme evaluator under section 112U(1)
-  - **screening test** means a routine test, such as a cervical smear test, designed to identify women who may have cervical cancer or a precursor to cervical cancer
-  - **specimen** means a bodily sample or tissue sample taken from a woman for the purpose of a screening test or a diagnostic test, and includes cervical cytology and histology slides and blocks.
+  - **screening test** means a test, such as a high-risk HPV test or a cervical or vaginal cytology test, designed to identify women who may have, or are at higher risk of developing, cervical cancer or a precursor to cervical cancer
+  - **specimen** means a bodily sample or tissue sample taken from a woman for the purpose of a screening test or a diagnostic test, and includes cervical and vaginal cytology and histology slides and blocks.
 
 **Operation of NCSP**
 
@@ -2740,17 +2746,31 @@ The objectives of the NCSP are to—
 (1) A woman who has cancelled her enrolment in the NCSP may re-enrol, at any time, by advising the NCSP manager in the manner and form specified by the NCSP manager.
 (2) A woman who has notified the NCSP manager, under section 112G(2), that she does not wish to be enrolled in the NCSP may cancel that notification and enrol in the NCSP, at any time, by advising the NCSP manager in the manner and form specified by the NCSP manager.
 
-### 112J Certain information held by NCSP must not be disclosed
-(1) No person may disclose information from the NCSP register, or information that is held by the NCSP as a result of an evaluation, if that information identifies a woman unless that information is disclosed—
-  (a) with the consent of the woman or her personal representative; or
-  (b) to a screening programme evaluator under section 112X(2)﻿(a); or
-  (c) to a review committee, in accordance with a request from that committee under section 112Q(1); or
-  (d) to a health practitioner who has been engaged by, or on behalf of, the woman, and the information is disclosed for the purpose of assisting that health practitioner to provide health services to that woman; or
-  (e) for the purpose of enabling results from a screening test or a diagnostic test to be followed up; or
-  (f) for the purpose of enabling notices related to the NCSP to be sent to women who are enrolled in the NCSP, including reminder notices to women who are due for another screening test; or
-  (g) for the purpose of giving access to the NCSP register, in accordance with regulations made under section 112ZF(1)﻿(a), to persons researching cancer; or
-  (h) subject to any regulations made under section 112ZF(1)﻿(b), for the purpose of enabling the compilation and publication of statistics that do not enable the identification of the women to whom those statistics relate.
-(2) Despite subsection (1), a screening programme evaluator may disclose information in accordance with section 112Y(2)﻿(a) to (d).
+### 112J Restriction on access to, and use, retention, and disclosure of, NCSP information
+(1) No person may access, use, retain, or disclose NCSP information if that information identifies a woman, except as provided by this section.
+(2) The following persons may access register information by directly accessing the NCSP register:
+  (a) a health practitioner engaged by or on behalf of a woman to provide cervical screening services to that woman, for the purpose of providing cervical screening services in relation to that woman:
+  (b) a health practitioner engaged to provide cervical screening services in relation to the woman by or on behalf of a health practitioner referred to in paragraph (a), for the purpose of providing cervical screening services in relation to that woman:
+  (c) administrative support staff engaged by a health practitioner referred to in paragraph (a) or (b) who access the information at the direction of the health practitioner, for the purpose of providing cervical screening services in relation to that woman:
+  (d) district health board NCSP team staff performing the functions of NCSP register administrators and any other person or class of persons authorised for that purpose by the NCSP manager, for the purpose of supporting the operation of the NCSP:
+  (e) a person engaged by the Ministry of Health or a district health board, and any other person or class of persons authorised for that purpose by the NCSP manager, for the purpose of providing support services to women experiencing barriers to accessing cervical screening services:
+  (f) a person authorised by the NCSP manager, for the purpose of providing information to any person authorised to receive it under subsection (3) or (4).
+(3) Register information may be disclosed by a person referred to in subsection (2)﻿(f), to—
+  (a) a person authorised to access the NCSP register under subsection (2), for the authorised purpose; or
+  (b) a person engaged by the Ministry of Health or a district health board, and any other person or class of persons authorised for that purpose by the NCSP manager, for the purpose of enabling results from a screening test or a diagnostic test to be followed up; or
+  (c) a person engaged by the Ministry of Health or a district health board, and any other person or class of persons authorised for that purpose by the NCSP manager, for the purpose of enabling notices related to the NCSP to be sent to women who are enrolled in the NCSP, including reminder notices to women who are due for another screening test.
+(4) NCSP information may be accessed and disclosed by a person authorised for that purpose by the NCSP manager, if the disclosure is—
+  (a) to a screening programme evaluator under section 112X(2)﻿(a); or
+  (b) to a review committee, in accordance with a request from that committee under section 112Q(1); or
+  (c) for the purpose of research, in accordance with regulations made under section 112ZF(1)﻿(a); or
+  (d) for the purpose of enabling the compilation and publication of statistics that do not enable the identification of the women to whom those statistics relate, unless the disclosure is prohibited by any regulations made under section 112ZF(1)﻿(b).
+(5) Any person who accesses or receives information in accordance with subsection (2), (3), or (4) may use and retain the information for the purpose of that subsection and any directly related purpose.
+
+### 112JA Further provisions relating to NCSP information
+(1) Nothing in section 112J prevents any person from accessing, using, retaining, or disclosing NCSP information about a particular woman with the consent of that woman or her personal representative.
+(2) Nothing in section 112J prevents any person from accessing, using, retaining, or disclosing NCSP information in accordance with this Part (see, for example, sections 112Q, 112X, 112Y, and 112ZE).
+(3) Access to the NCSP register is subject to any conditions and procedures that the NCSP manager thinks necessary to impose or establish for the purpose of ensuring privacy and security of the material or information.
+(4) No person may amend the information stored on the NCSP register unless authorised for that purpose by the NCSP manager.
 
 ### 112K Delegation of functions and powers
 (1) The Director-General may, in writing, delegate to the NCSP manager any of his or her functions or powers under sections 112M(2)﻿(b) and (c), 112N(2)﻿(b) and (c), 112ZB(2), 112ZC(2), and 112ZD(2), on any conditions that the Director-General thinks fit.
@@ -2953,11 +2973,35 @@ Despite section 112U, the Director-General must not designate a person who is no
 (2) For the purposes of subsection (1), a person is an employee of the NCSP if the person—
   (a) is appointed to operate that programme, or to perform particular functions in relation to the operation of that programme, by the Director-General or the Ministry; or
   (b) is employed to work in that programme by the Ministry or by the persons appointed to operate the programme.
+(3) Despite subsection (1), an employee of the NCSP must obtain any necessary approval under the regulations before—
+  (a) disclosing any identifiable protected information to a person who is not an employee of the NCSP performing functions as an employee of the NCSP; or
+  (b) using non-identifiable protected information for the purpose of disclosing it to a person who is not an employee of the NCSP performing functions as an employee of the NCSP.
+(4) The actions that an employee of the NCSP may take without obtaining prior approval under the regulations include (without limitation)—
+  (a) accessing or using protected information on or from the NCSP register for the purposes of performing, and to the extent necessary to perform, their functions as an employee of the NCSP if that access or use does not involve the publication of protected information (for example, routine internal data analyses, data modelling, and data quality checking):
+  (b) administering automatic electronic uploads, updates, or back-ups with or between NCSP information management systems:
+  (c) administering updates of information to—
+    (i) any electronic application in existence at the commencement of this subsection that is operated by the NCSP; or
+    (ii) any electronic application approved by the National Kaitiaki Group:
+  (d) using, disclosing, or publishing non-identifiable protected information that is—
+    (i) publicly available; or
+    (ii) provided through any electronic application referred to in paragraph (c).
+(5) In subsections (3) and (4),—
+  - **identifiable protected information** means information that—
+    (a) is on or from the NCSP register; and
+    (b) enables the identification of the individual or individuals to whom the information relates; and
+    (c) identifies the individual or individuals as being Māori
+  - **National Kaitiaki Group** means the group established under regulation 6 of the regulations
+  - **non-identifiable protected information** means information that—
+    (a) is on or from the NCSP register; and
+    (b) identifies the individual or individuals to whom the information relates as being Māori; but
+    (c) does not enable the identification of the individual or individuals
+  - **regulations** means the Health (Cervical Screening (Kaitiaki)) Regulations 1995.
+(6) Subsection (3) is subject to section 22H (which authorises the disclosure of anonymous health information).
 
 ### 112ZF Regulations
 (1) Regulations may be made under this Part for any 1 or more of the following purposes:
   (a) regulating access to information held by the NCSP by persons researching cancer:
-  (b) prohibiting the disclosure, under section 112J(1)﻿(h), of information that relates to any class or classes of person specified in the regulations, including prohibiting the disclosure of that information without the approval of any person or group of persons or body or organisation specified in the regulations:
+  (b) prohibiting the disclosure, under section 112J(4)﻿(d), of information that relates to any class or classes of person specified in the regulations, including prohibiting the disclosure of that information without the approval of any person or group of persons or body or organisation specified in the regulations:
   (c) imposing restrictions, in addition to those imposed by this Part, on the use, disclosure, and publication of information held by the NCSP:
   (d) prohibiting the use, disclosure, and publication of information from the NCSP register, or derived from the operation of the NCSP, if the information relates to any class or classes of person specified in the regulations, including prohibiting the use, disclosure, and publication of that information without the approval of any person or group of persons or body or organisation specified in the regulations:
   (e) providing for the establishment, appointment, procedures, and powers of any person or group of persons or body or organisation established to perform specific functions or to make specific decisions that relate to the NCSP or to the matters referred to in paragraphs (b) and (d):
@@ -3042,7 +3086,10 @@ Standards incorporated by reference in regulations that expire or that are revok
 Sections 112ZG to 112ZM do not affect the application of sections 29 to 32 of the Standards and Accreditation Act 2015.
 
 ### 112ZP Offences
-(1) Every person commits an offence against this Act who, without reasonable excuse, fails to comply with the requirements of any of section 112J(1), section 112Y(1), (3)﻿(e), or (4)﻿(b), or section 112Z.
+(1) Every person commits an offence against this Act who, without reasonable excuse,—
+  (a) fails to comply with the requirements of section 112Y(3)﻿(e) or (4)﻿(b) or 112Z; or
+  (b) accesses, uses, retains, or discloses any NCSP information or evaluation material in contravention of section 112J(1) or 112Y(1); or
+  (c) amends any information stored on the NCSP register, without authority from the NCSP manager under section 112JA(4).
 (2) Every person commits an offence against this Act who, without reasonable excuse, fails to make available any information or specimens that the person is required to make available under any of sections 112ZB, 112ZC, and 112ZD.
 (3) Every person who commits an offence under subsection (2) is liable on conviction to a fine not exceeding $10,000.
 
