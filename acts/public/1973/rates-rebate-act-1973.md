@@ -1,5 +1,5 @@
 # Rates Rebate Act 1973
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-07-01_
 
 > An Act to make provision for the granting of rebates of rates payable in respect of certain residential properties
 
@@ -40,7 +40,9 @@ _Consolidation as at 2020-08-07_
   - **operator** has the same meaning as in section 5 of the Retirement Villages Act 2003
   - **partner** , in relation to any ratepayer, means the civil union partner or de facto partner of the ratepayer, being a civil union partner or de facto partner who, at the commencement of the rating year in respect of which an application for a rebate under this Act is made, ordinarily resides on the property in respect of which the rates are payable
   - **preceding tax year** means the period of 12 months ending with 31 March preceding the commencement of the rating year in respect of which the application is made
-  - **property** has the meaning given to the term rating unit by sections 5B and 5C of the Rating Valuations Act 1998
+  - **property** means—
+    (a) a rating unit within the meaning of sections 5B and 5C of the Rating Valuations Act 1998; or
+    (b) a separate rating area within the meaning of section 5 of the Local Government (Rating) Act 2002
   - **ratepayer** has the meaning given to that term in section 10 of the Local Government (Rating) Act 2002
   - **rates** , in relation to a residential property, means a general rate or targeted rate or uniform annual general charge that is assessed on the property, but does not include—
     (a)
@@ -51,7 +53,7 @@ _Consolidation as at 2020-08-07_
   - **rating year** means a period of 12 months beginning on 1 July
   - **resident** has the same meaning as in section 5 of the Retirement Villages Act 2003
   - **residential property** means—
-    (a) a rating unit under the Local Government (Rating) Act 2002 that is used as the usual place of residence of the ratepayer at the commencement of the rating year in respect of which an application for a rebate under this Act is made, but does not include any unit that is also used principally for commercial or industrial or business or farming purposes; or
+    (a) a rating unit or separate rating area under the Local Government (Rating) Act 2002 that is used as the usual place of residence of the ratepayer at the commencement of the rating year in respect of which an application for a rebate under this Act is made, but does not include any unit or separate rating area that is also used principally for commercial or industrial or business or farming purposes; or
     (b) a rating unit under the Local Government (Rating) Act 2002 that is used as a retirement village at the commencement of the rating year in respect of which an application for a refund under section 7A is made
   - **residential unit** has the same meaning as in section 5 of the Retirement Villages Act 2003
   - **retirement village** has the meaning specified in section 6 of the Retirement Villages Act 2003
@@ -66,8 +68,8 @@ _Consolidation as at 2020-08-07_
 (1) A ratepayer who, at the commencement of a rating year, was the ratepayer of a residential property is entitled, on application in that year, to a rebate of—whichever amount is smaller.
   (a) so much of the rates payable for that rating year in respect of the property as represents—
     (i) two-thirds of the amount by which those rates exceed $160, reduced by—
-    (ii) $1 for each $8 by which the ratepayer's income for the preceding tax year exceeded $26,150, that last-mentioned amount being increased by $500 in respect of each person who was a dependant of the ratepayer at the commencement of the rating year in respect of which the application is made; or
-  (b) $655,—
+    (ii) $1 for each $8 by which the ratepayer's income for the preceding tax year exceeded $26,510, that last-mentioned amount being increased by $500 in respect of each person who was a dependant of the ratepayer at the commencement of the rating year in respect of which the application is made; or
+  (b) $665,—
 (1A) A ratepayer who, at the commencement of a rating year, was the ratepayer of a residential property, and later during that year becomes the ratepayer of another residential property, is entitled to a rates rebate under subsection (1). The amount of the rebate must be apportioned according to the amount of time the ratepayer was the ratepayer of each residential property during the rating year.
 (2) The Governor-General may from time to time, by Order in Council, amend the provisions of subsection (1) by substituting any amount for any amount specified in that subsection.
 
