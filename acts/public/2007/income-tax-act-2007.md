@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2021-06-18_
+_Consolidation as at 2021-07-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -26401,6 +26401,88 @@ Exceptions for borrowing required for some insuring or lending persons
 ### GC 19 Sections GC 15 to GC 18 and financial arrangements entered before application period
 If a person enters a financial arrangement before the first income year of the person beginning on or after 1 July 2018, this subpart applies to the person and the financial arrangement for the income years beginning on or after 1 July 2018 as if the aspects of the financial arrangement were adjusted by sections GC 15 to GC 18 as at the date that is the last day before 1 July 2018 on which the loan is entered, renewed, extended, or renegotiated.
 
+### GC 20 Effect of purchase price allocation agreement
+When this section applies
+(1) This section applies when—
+  (a) for consideration, a person (person A) disposes (the disposal), to another person (person B), items of property (the purchased property) that, for person A or for person B, fall into 2 or more of the following classes (the classes of purchased property)—
+    (i) trading stock, other than timber or a right to take timber:
+    (ii) timber or a right to take timber:
+    (iii) depreciable property, other than buildings:
+    (iv) buildings that are depreciable property:
+    (v) financial arrangements:
+    (vi) purchased property for which the disposal does not give rise to assessable income for person A or deductions for person B; and
+  (b) person A and person B have agreed, and recorded in a document, amounts of the total consideration allocated to any of the classes of purchased property before the earlier of—
+    (i) the day person A files a return of income in relation to their tax position for the purchased property:
+    (ii) the day person B files a return of income in relation to their tax position for the purchased property.
+Agreed amount enforced, at market
+(2) A class of purchased property—
+  (a) is treated as disposed of and acquired for the relevant allocated amount; or
+  (b) may be treated by the Commissioner as disposed of and acquired for an amount that reflects the relative market value of the class of purchased property, proportional to the other classes of purchased property, if the Commissioner considers the allocated amount does not reflect that value.
+Exception: low value depreciable property
+(3) Subsection (2)﻿(b) does not apply to an item of purchased property that is an item of depreciable property, if—
+  (a) the original cost of the item for person A is less than $10,000; and
+  (b) the total allocated amount for the item and for any identical property is less than $1 million; and
+  (c) the allocated amount for the item is—
+    (i) no greater than its original cost for person A; and
+    (ii) no less than its tax book value as described in section GC 21(13)﻿(c).
+
+### GC 21 Purchase price allocation required: no agreement
+When this section applies
+(1) This section applies when—
+  (a) for consideration, a person (person A) disposes (the disposal), to another person (person B), items of property (the purchased property) that, for person A or for person B, fall into 2 or more of the following classes (the classes of purchased property) and the relevant person uses different income tax treatments for 2 or more of the classes of purchased property:
+    (i) trading stock, other than timber or a right to take timber:
+    (ii) timber or a right to take timber:
+    (iii) depreciable property, other than buildings:
+    (iv) buildings that are depreciable property:
+    (v) financial arrangements:
+    (vi) purchased property for which the disposal does not give rise to assessable income for person A or deductions for person B; and
+  (b) person A and person B have not agreed, and have not recorded in a document, amounts of the total consideration allocated to any of the classes of purchased property before the earlier of—
+    (i) the day person A files a return of income in relation to their tax position for the purchased property:
+    (ii) the day person B files a return of income in relation to their tax position for the purchased property.
+When this section does not apply
+(2) This section does not apply if—
+  (a) the total consideration for the purchased property in the disposal is less than $1 million; or
+  (b) the only purchased property in the disposal is residential land together with its chattels, and the total consideration for them is less than $7.5 million.
+Allocated amount: person A
+(3) If subsection (1)﻿(a) applies for person A, person A may notify both the Commissioner and person B of the amounts (the allocated amounts) allocated by person A to the classes of purchased property within 3 months of the change in ownership of the purchased property. An allocated amount must reflect the greater of—
+  (a) the relative market value of the relevant class of purchased property proportional to the other classes of purchased property; and
+  (b) person A’s tax book value for the relevant class of property described in subsection (1)﻿(a)﻿(i) to (v).
+Allocated amount: person A: excess allocation
+(4) If the total amounts that would be allocated by subsection (3) exceed the consideration payable for all of the classes of purchased property, then the excess is applied—
+  (a) first, to reduce any amount allocated to the class of property described in subsection (1)﻿(a)﻿(vi):
+  (b) second, to reduce, pro rata, any amounts allocated to the classes of property described in subsection (1)﻿(a)﻿(i) to (v).
+Allocated amount: person B
+(5) If person A does not notify person B as provided for in subsection (3), person B may notify the Commissioner and person A of the amounts (the allocated amounts) allocated by person B to the classes of purchased property within 6 months of the change in ownership of the purchased property. An allocated amount must reflect the relative market value of the relevant class of purchased property proportional to the other classes of purchased property.
+Non-compliance
+(6) If person A and person B do not notify the relevant people in accordance with subsection (3) or (5), the Commissioner may allocate, to the relevant classes of purchased property (the allocated amounts),—
+  (a) the amounts allocated by person A to the classes of purchased property:
+  (b) the amounts allocated by person B to the classes of purchased property:
+  (c) amounts that reflect the relative market value of the relevant class of purchased property, proportional to the other classes of purchased property.
+Allocated amounts enforced, at market
+(7) A class of purchased property is treated as disposed of and acquired for the relevant allocated amount provided by subsections (3) to (6).
+No deduction until allocation
+(8) Person B’s deductions in relation to consideration for purchased property are not allocated to an income year, and are not included in person B’s annual total deductions for any tax year, except to the extent provided by this section.
+Allocation when allocation notice timely
+(9) Person B’s deductions in relation to consideration for purchased property are allocated to income years in accordance with section BD 4 (Allocation of deductions to particular income years), if allocation notification occurs in the income year that the purchased property is disposed of (the purchase year) or if the deductions are not pre-allocation deductions.
+Allocation when allocation notice not timely
+(10) If subsections (1)﻿(a) and (5) apply to person B and if allocation notification occurs in an income year after the purchase year, then pre-allocation deductions are allocated to the earliest year (the allocation year) for which person B’s return of income is not filed or due at the time of allocation notification. The allocation year may correspond to the purchase year, but the allocation year must not be earlier than the purchase year. Example: the purchase year for purchased property is 2025–26. 2027–28 is the income year that allocation notification occurs. At the time of allocation notification, person B’s return of income for 2026–27 is not filed or due. Consequently, pre-allocation deductions are allocated to the 2026–27 income year.
+Exception: low value depreciable property
+(11) Subsection (6)﻿(c) does not apply to an item of purchased property that is an item of depreciable property, if—
+  (a) the original cost of the item for person A is less than $10,000; and
+  (b) the total allocated amount for the item and for any identical property is less than $1 million; and
+  (c) the allocated amount for the item is—
+    (i) no greater than its original cost for person A; and
+    (ii) no less than its tax book value.
+Relationship with subject matter
+(12) This section overrides a provision of this Act that expressly requires the use of the market value for purchased property, to the extent to which subsection (7) treats the relevant class of purchased property as disposed of and acquired for an amount that is provided by this section.
+Definitions
+(13) In this section and section GC 20,—
+  (a) allocation notification means the earliest of the following:
+    (i) the time when person B’s notification of person B’s allocation is provided to the Commissioner in the form prescribed by the Commissioner:
+    (ii) the time when the Commissioner’s notification of the Commissioner’s allocation under subsection (6) is provided to person B:
+  (b) pre-allocation deduction means person B’s deductions in relation to consideration for purchased property that, ignoring this section, would be allocated to an income year before the income year that allocation notification occurs:
+  (c) tax book value, for a class of property, means the total amount that person A uses or would use, for purchased property in the class of property, in calculating person A’s tax position for their income year in which the change in ownership of the purchased property occurs. The tax book value is adjusted, part-year, for a change in ownership that occurs part-year. Example: the tax book value of a financial arrangement is the consideration that would give an amount of income or expenditure under section EW 31 (Base price adjustment formula) equal to the income or expenditure that person A would have for the purchased property in the year of disposal for the period before the change in ownership of the purchased property (the part-year period) using the relevant spreading method for the purchased property for the part-year period, pro rata.
+
 ### Subpart GZ — Terminating provisions
 
 ### GZ 1 Limitation on section GB 20: petroleum and mineral mining arrangements
@@ -33882,7 +33964,7 @@ Formula
 (2) The formula is—(prescribed amount − net family scheme income) × weekly periods ÷ 52.
 Definition of items in formula
 (3) In the formula,—
-  (a) prescribed amount is $30,576:
+  (a) prescribed amount is $31,096:
   (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3, for a relationship period containing the entitlement period, of—
     (i) the person; or
     (ii) their spouse, civil union partner, or de facto partner; or
@@ -42790,6 +42872,7 @@ In this Act, unless the context requires otherwise,—
     (h) for a partner,—
       (i) includes surrendering or extinguishing some or all of their partner’s interests:
       (ii) does not include when their partner’s interests may be treated as disposed of by operation of law because another partner disposes of that partner’s interests, unless section HG 4 (Disposal upon final dissolution) applies
+    (i) in sections GC 20 and GC 21 (which relate to purchase price allocation) includes all events in paragraphs (a) to (h) of this definition and the grant, amendment, or transfer of a property right or interest
   - **disposition of property** in the trust rules, and in the definition of , but not for a unit trust,—
     (a) means an assignment, conveyance, delivery, payment, settlement, transfer, or other alienation of property, whether at law or in equity; and
     (b) without limiting the generality of paragraph (a), includes—
@@ -45516,7 +45599,7 @@ In this Act, unless the context requires otherwise,—
     (ab) in sections CB 2, FE 16, and FO 10 (which apply to livestock), means property that is—
       (i) trading stock under section EB 2:
       (ii) livestock:
-    (b) in sections CG 6 (Receipts from insurance, indemnity, or compensation for trading stock), EB 24 (Apportionment on disposal of business assets that include trading stock), FB 13 (Trading stock), and GC 1 to GC 3 (which relate to the disposal of trading stock for inadequate consideration),—
+    (b) in sections CG 6 (Receipts from insurance, indemnity, or compensation for trading stock), EB 24 (Apportionment on disposal of business assets that include trading stock), FB 13 (Trading stock), GC 1 to GC 3 (which relate to the disposal of trading stock for inadequate consideration), and GC 20 and GC 21 (which relate to purchase price allocation),—
       (i) includes anything produced or manufactured:
       (ii) includes anything acquired for the purposes of manufacture or disposal:
       (iii) includes livestock:
