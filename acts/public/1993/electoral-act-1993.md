@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-07-01_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -352,6 +352,7 @@ The functions of the Electoral Commission are to—
   (a) carry the provisions of this Act into effect:
   (b) carry out duties in relation to electoral broadcasting that are prescribed by Part 6 of the Broadcasting Act 1989:
   (c) promote public awareness of electoral matters by means of the conduct of education and information programmes or by other means:
+  (ca) administer the fund established by section 6 of the Election Access Fund Act 2020:
   (d) consider and report to the Minister or to the House of Representatives on electoral matters referred to the Electoral Commission by the Minister or the House of Representatives:
   (e) make available information to assist parties, candidates, and others to meet their statutory obligations in respect of electoral matters administered by the Electoral Commission:
   (f) carry out any other functions or duties conferred on the Electoral Commission by or under any other enactment.
@@ -382,6 +383,7 @@ The Electoral Commission must act independently in performing its statutory func
   (d) any changes that are necessary or desirable in respect of—
     (i) administration processes or practices; or
     (ii) this Act or any other law; and
+  (da) the funding provided under the Election Access Fund Act 2020 to disabled persons standing as candidates, or seeking selection as candidates, to facilitate their participation in the election; and
   (e) any matter that the Minister of Justice asks the Electoral Commission to address; and
   (f) any other matter that the Electoral Commission considers relevant.
 (2) The Minister must present any report received under subsection (1) to the House of Representatives within 5 working days after receiving it or, if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
@@ -3379,7 +3381,7 @@ If, under section 195A, voting at any polling place is adjourned, then, when pol
   (j) subject to any regulations made under this Act, at any time on polling day before the close of the poll, within, or at the entrance to, or in the vicinity of, any polling place,—
     (i) gives or offers to give any person any written or oral information derived from a main or supplementary roll as to any name or number on the main roll or any supplementary roll being used at the election:
     (ii) permits or offers to permit any person to examine any copy of the main roll or any supplementary roll being used at the election:
-    (k) in respect of an advance voting place or a buffer zone, as defined in section 197A(10), does any of the things prohibited in that section.
+  (k) in respect of an advance voting place or a buffer zone, as defined in section 197A(10), does any of the things prohibited in that section.
 (2) It shall be a defence to a prosecution for an offence against subsection (1)﻿(g) that relates to the exhibition in or in view of a public place of a statement, name, emblem, slogan, or logo, if the defendant proves that—
   (a) the exhibition was inadvertent; and
   (b) the defendant caused the exhibition to cease as soon as the defendant was notified by a Returning Officer or a manager of the polling place that the exhibition was taking place.
@@ -3530,7 +3532,7 @@ In this Part, unless the context otherwise requires,—
   (a) a party secretary:
   (b) a candidate:
   (c) a registered promoter:
-  (d) an unregistered promoter who does not incur advertising expenses exceeding $13,600 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) in relation to election advertisements published during the regulated period.
+  (d) an unregistered promoter who does not incur advertising expenses exceeding $13,800 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) in relation to election advertisements published during the regulated period.
 (2) The amount in subsection (1)﻿(d) is inclusive of goods and services tax.
 (3) Every person who wilfully promotes an election advertisement without being entitled to do so under subsection (1) is guilty of an illegal practice.
 
@@ -3723,8 +3725,8 @@ Every person is guilty of—
 
 ### 205C Maximum amount of candidate's total election expenses
 (1) The total election expenses of a candidate in respect of any regulated period must not exceed—
-  (a) $28,200 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a general election; and
-  (b) $56,300 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a by-election.
+  (a) $28,600 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a general election; and
+  (b) $57,200 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a by-election.
 (2) The amounts in subsection (1) are inclusive of goods and services tax.
 
 ### 205D Apportionment of advertising expenses for publication of candidate advertisement both before and during regulated period
@@ -3862,9 +3864,9 @@ Every person is guilty of—
 
 ### 206C Maximum amount of party's total election expenses
 (1) If a party is listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed—
-  (a) $1,199,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
-  (b) $28,200 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) for each electoral district contested by a candidate for the party.
-(2) If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed $28,200 for each electoral district contested by a candidate for the party.
+  (a) $1,217,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
+  (b) $28,600 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) for each electoral district contested by a candidate for the party.
+(2) If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed $28,600 for each electoral district contested by a candidate for the party.
 (3) The amounts in subsections (1) and (2) are inclusive of goods and services tax.
 
 ### 206CA Apportionment of advertising expenses for publication of party advertisement both before and during regulated period
@@ -4044,7 +4046,7 @@ Every person is guilty of—
   (b) an illegal practice who contravenes section 206T in any other case.
 
 ### 206V Maximum amount of registered promoter's total election expenses
-(1) The total election expenses of a registered promoter in respect of any regulated period must not exceed $338,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A).
+(1) The total election expenses of a registered promoter in respect of any regulated period must not exceed $343,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A).
 (2) The amount in subsection (1) is inclusive of goods and services tax.
 
 ### 206W Apportionment of advertising expenses for publication of election advertisement promoted by registered promoter both before and during regulated period
