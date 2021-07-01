@@ -1,5 +1,5 @@
 # Urban Development Act 2020
-_Consolidation as at 2021-04-13_
+_Consolidation as at 2021-07-01_
 
 ### 1 Title
 This Act is the Urban Development Act 2020.
@@ -2200,8 +2200,8 @@ When a section in this subpart applies 1 or more provisions of the Local Governm
 Land in a project area is rateable for targeted rates under this Act to the extent that it is rateable under sections 7 to 9 of the Local Government (Rating) Act 2002.
 
 ### 185 Who must pay rates?
-(1) The ratepayer for a rating unit is liable to pay any targeted rates that are due on the rating unit.
-(2) However, a person other than the ratepayer may become liable to pay the rates in the circumstances set out in section 61, 62, or 96 of the Local Government (Rating) Act 2002 (see sections 206 and 211).
+(1) The ratepayer for a rating unit or separate rating area is liable to pay any targeted rates that are due on the rating unit or separate rating area.
+(2) However, a person other than the ratepayer may become liable to pay the rates in the circumstances set out in section 61, 62, 62A, or 96 of the Local Government (Rating) Act 2002 (see sections 206 and 211).
 
 **How are rates authorised?**
 
@@ -2248,7 +2248,7 @@ A targeted rates order must specify—
   (b) may set the rate at an amount that Kāinga Ora considers will allow for each relevant territorial authority to recover those costs (see section 198).
 Application of local government Acts to setting of targeted rates
 (5) The following provisions apply for the purposes of setting a rate under subsection (1):
-  (a) sections 20 and 22 of the Local Government (Rating) Act 2002 (rating units in common ownership and defence land):
+  (a) sections 20 (rating units in common ownership), 20A (rating units of Māori freehold land used as a single unit), and 22 (defence land) of the Local Government (Rating) Act 2002:
   (b) section 73 of the Local Government (Auckland Council) Act 2009 (rating of land and assets owned by Auckland water organisation).
 (6) For the purposes of subsection (5)﻿(a), section 22 of the Local Government (Rating) Act 2002 applies as if—
   (a) a targeted rate set under this section were set under section 16 of that Act; and
@@ -2261,12 +2261,12 @@ Application of local government Acts to setting of targeted rates
     (i) an irregularity in setting the rate; or
     (ii) a mistake in calculating the rate; or
     (iii) a relevant change in circumstances; and
-  (b) setting the rate again will not increase the amount of rates calculated for any rating unit; and
+  (b) setting the rate again will not increase the amount of rates calculated for any rating unit or separate rating area; and
   (c) Kāinga Ora has had regard to the extent to which it will be reasonably practicable, if the rate is set again, for each relevant territorial authority to carry out its functions under this subpart in relation to the rate.
 (2) Kāinga Ora may set a rate again only if it has given 14 days' public notice of its intention to set the rate again.
 (3) The notice must include a statement of the reason why Kāinga Ora has determined that it is desirable to set the rate again.
-(4) If setting the rate again results in a change to the amount of rates to be calculated for any rating unit,—
-  (a) the relevant territorial authority must correct the rates record for the rating unit as soon as practicable; and
+(4) If setting the rate again results in a change to the amount of rates to be calculated for any rating unit or separate rating area,—
+  (a) the relevant territorial authority must correct the rates record for the rating unit or separate rating area as soon as practicable; and
   (b) section 41 of the Local Government (Rating) Act 2002 applies.
 
 ### 191 Procedural requirements for rates resolution
@@ -2276,7 +2276,7 @@ Application of local government Acts to setting of targeted rates
 (2) A resolution is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 192 Due date or dates for payment
-The date or dates for payment of targeted rates under this Act on a rating unit are the same as the date or dates for payment of the local government rates owed to the relevant territorial authority whose district includes that unit.
+The date or dates for payment of targeted rates under this Act on a rating unit or separate rating area are the same as the date or dates for payment of the local government rates owed to the relevant territorial authority whose district includes that unit or area.
 
 **How are rates spent?**
 
@@ -2295,8 +2295,8 @@ The date or dates for payment of targeted rates under this Act on a rating unit 
   (b) a relevant territorial authority holds an amount of revenue from the rate that it has retained in accordance with section 199.
 (2) If subsection (1)﻿(a) applies, Kāinga Ora must pay the excess revenue to the relevant territorial authority.
 (3) The relevant territorial authority must—
-  (a) credit to the rates records of affected rating units the excess revenue that the authority receives from Kāinga Ora or that it has retained; and
-  (b) in apportioning the excess revenue between each affected rating unit, apply the same method as was most recently used to assess ratepayers’ liability for the targeted rate.
+  (a) credit to the rates records of affected rating units or separate rating areas the excess revenue that the authority receives from Kāinga Ora or that it has retained; and
+  (b) in apportioning the excess revenue between each affected rating unit or separate rating area, apply the same method as was most recently used to assess ratepayers’ liability for the targeted rate.
 (4) However, the relevant territorial authority may retain an amount of the excess revenue to cover the reasonable costs of the authority incurred in complying with subsection (3).
 
 **Territorial authorities to collect rates for Kāinga Ora**
@@ -2337,18 +2337,18 @@ A relevant territorial authority must—
 (4) See section 212 (which relates to information that a relevant territorial authority must record in its rating information database).
 
 ### 201 Notice of rates assessment
-(1) If a rating unit is subject to targeted rates under this Act, the relevant territorial authority must deliver a rates assessment to the ratepayer to give notice of the ratepayer’s liability for the targeted rates on the rating unit.
+(1) If a rating unit or separate rating area is subject to targeted rates under this Act, the relevant territorial authority must deliver a rates assessment to the ratepayer to give notice of the ratepayer’s liability for the targeted rates on the rating unit or separate rating area.
 (2) The authority may deliver the rates assessment for the targeted rates—
   (a) by delivering it as a separate document; or
   (b) by including it in a rates assessment for local government rates that is delivered under section 44 of the Local Government (Rating) Act 2002.
-(3) A ratepayer is liable for the targeted rates on a rating unit when the relevant territorial authority delivers the rates assessment for the targeted rates to the ratepayer.
+(3) A ratepayer is liable for the targeted rates on a rating unit or separate rating area when the relevant territorial authority delivers the rates assessment for the targeted rates to the ratepayer.
 
 ### 202 Contents of rates assessment
 (1) A rates assessment delivered in accordance with section 201 must clearly identify the following:
   (a) the amount of each targeted rate:
   (b) the activity or group of activities that will be funded from each rate:
-  (c) if applicable, the relevant matters that are required to determine the category to which the rating unit belongs for the purposes of setting a targeted rate differentially:
-  (d) information on the factors used to calculate the amount of the liability of a rating unit for each targeted rate:
+  (c) if applicable, the relevant matters that are required to determine the category to which the rating unit or separate rating area belongs for the purposes of setting a targeted rate differentially:
+  (d) information on the factors used to calculate the amount of the liability of a rating unit or separate rating area for each targeted rate:
   (e) a brief description of the criteria for rates relief under—
     (i) the relevant rates remission policy and the relevant rates postponement policy; and
     (ii) if there is one, the relevant policy on the remission and postponement of rates on Māori freehold land.
@@ -2358,15 +2358,15 @@ A relevant territorial authority must—
 (3) If the rates assessment is included in a rates assessment for local government rates, the assessment may present a combined total of the ratepayer's liability for targeted rates under this Act and local government rates, but must also clearly set out the ratepayer's liability for each of those rates.
 
 ### 203 Rates invoice
-(1) If payment of targeted rates under this Act for a rating unit is due for a particular period, the relevant territorial authority must deliver to the ratepayer a rates invoice for the targeted rates on the rating unit for that period.
+(1) If payment of targeted rates under this Act for a rating unit or separate rating area is due for a particular period, the relevant territorial authority must deliver to the ratepayer a rates invoice for the targeted rates on the rating unit or separate rating area for that period.
 (2) The authority may deliver the invoice for the targeted rates—
   (a) by delivering it as a separate document; or
   (b) by including it in an invoice for local government rates that is delivered under section 46 of the Local Government (Rating) Act 2002.
 (3) The invoice for the targeted rates must clearly identify the amount of—
-  (a) targeted rates payable for the financial year for the rating unit; and
+  (a) targeted rates payable for the financial year for the rating unit or separate rating area; and
   (b) targeted rates that have been paid to date for the financial year; and
   (c) targeted rates payable on the current rates invoice; and
-  (d) any unpaid targeted rates owing from a previous financial year for the rating unit.
+  (d) any unpaid targeted rates owing from a previous financial year for the rating unit or separate rating area.
 (4) If the invoice is delivered as a separate document,—
   (a) the invoice must also, in relation to the targeted rate, clearly identify the information described in section 46(2)﻿(a) to (c) and (g) to (i) of the Local Government (Rating) Act 2002; and
   (b) section 46(3) of that Act applies to the assessment.
@@ -2378,14 +2378,14 @@ A relevant territorial authority must—
 
 ### 205 When Kāinga Ora may recover unpaid rates
 (1) This section applies if—
-  (a) there is an amount of targeted rates under this Act that is unpaid for a rating unit; and
-  (b) the local government rates for the unit have been paid.
+  (a) there is an amount of targeted rates under this Act that is unpaid for a rating unit or separate rating area; and
+  (b) the local government rates for the rating unit or separate rating area have been paid.
 (2) The relevant territorial authority—
   (a) may notify Kāinga Ora that the authority will not recover the unpaid targeted rate; and
   (b) on notifying Kāinga Ora under paragraph (a), is not required to recover the unpaid targeted rate.
 (3) On receiving the notice, Kāinga Ora may recover the unpaid targeted rate in accordance with the provisions of the Local Government (Rating) Act 2002 that are applied by—
   (a) section 206(1)﻿(i) to (n); or
-  (b) if the rating unit is Māori freehold land, section 211.
+  (b) if the rating unit or separate rating area is Māori freehold land, section 211.
 
 ### 206 Application of Local Government (Rating) Act 2002: calculation, payment, and recovery
 (1) The following sections of the Local Government (Rating) Act 2002 apply to targeted rates under this Act:Calculation and invoicing of ratesCollection of ratesRecovery of unpaid rates
@@ -2414,17 +2414,17 @@ Section 75 of Local Government (Rating) Act 2002
 **Remission and postponement of rates**
 
 ### 207 Remission of rates
-(1) A relevant territorial authority must remit all or part of the targeted rates under this Act on a rating unit in its district if the authority is satisfied that the conditions and criteria in the relevant rates remission policy are met.
+(1) A relevant territorial authority must remit all or part of the targeted rates under this Act on a rating unit or separate rating area in its district if the authority is satisfied that the conditions and criteria in the relevant rates remission policy are met.
 (2) The relevant territorial authority must give notice to an affected ratepayer identifying any remitted targeted rates.
 (3) In this section, a reference to targeted rates includes any penalties on targeted rates.
 
 ### 208 Recording remitted rates
 A relevant territorial authority must record targeted rates that are remitted under section 207—
-  (a) on the rates record for the rating unit as paid on the due date; and
+  (a) on the rates record for the rating unit or separate rating area as paid on the due date; and
   (b) in accounting documents as paid by Kāinga Ora on behalf of the ratepayer in accordance with the relevant rates remission policy.
 
 ### 209 Postponement of requirement to pay rates
-(1) A relevant territorial authority must postpone the requirement to pay all or part of the targeted rates under this Act on a rating unit in its district if—
+(1) A relevant territorial authority must postpone the requirement to pay all or part of the targeted rates under this Act on a rating unit or separate rating area in its district if—
   (a) the ratepayer has applied in writing for a postponement; and
   (b) the authority is satisfied that the conditions and criteria in the relevant rates postponement policy are met.
 (2) The relevant territorial authority must give notice to an affected ratepayer—
@@ -2438,6 +2438,22 @@ A relevant territorial authority must record targeted rates that are remitted un
   (b) section 89 (recording postponed rates):
   (c) section 90 (postponed rates may be registered as charge on rating unit).
 (2) In applying the provisions listed in subsection (1), a reference to a local authority's rates postponement policy must be read as a reference to the relevant rates postponement policy.
+
+**Write-off of rates**
+
+### 210A When Kāinga Ora may write off targeted rates
+(1) This section applies if—
+  (a) there is an amount of targeted rates under this Act that is unpaid for a rating unit or separate rating area; and
+  (b) the chief executive of the relevant territorial authority intends to write off rates in respect of that unit under section 90A or 90B of the Local Government (Rating) Act 2002.
+(2) The relevant territorial authority must notify Kāinga Ora—
+  (a) that the chief executive will write off the rates; and
+  (b) whether the chief executive is doing so on an application under section 90A(2)﻿(b) of the Local Government (Rating) Act 2002.
+(3) On receiving the notice, Kāinga Ora may write off any unpaid targeted rates—
+  (a) that Kāinga Ora considers cannot reasonably be recovered; or
+  (b) to which section 90B(1)﻿(a) and (b) of the Local Government (Rating) Act 2002 applies.
+(4) Kāinga Ora must—
+  (a) notify a ratepayer of any write-off of the ratepayer’s targeted rates under this section; and
+  (b) within 30 days of receiving a notice under subsection (2)﻿(b) that the chief executive will write off rates on the application of a ratepayer under section 90A(2)﻿(b), provide written reasons to the ratepayer for the decision to write off, or not to write off, the ratepayer’s targeted rates.
 
 **Rating of Māori freehold land**
 
@@ -2459,12 +2475,12 @@ Order exempting Māori freehold land from rates
 **Rating information database and rates records**
 
 ### 212 Rating information database to include information on targeted rates
-A relevant territorial authority must record in its rating information database, in relation to each rating unit in its district that is subject to targeted rates under this Act, all information that relates to the unit that is required to—
-  (a) determine the category (if any) to which the unit belongs for the purposes of setting targeted rates in accordance with section 189; and
+A relevant territorial authority must record in its rating information database, in relation to each rating unit or separate rating area in its district that is subject to targeted rates under this Act, all information that relates to the rating unit or separate rating area that is required to—
+  (a) determine the category (if any) to which the rating unit or separate rating area belongs for the purposes of setting targeted rates in accordance with section 189; and
   (b) calculate the amount of liability for targeted rates in accordance with section 200.
 
 ### 213 Rates records to include information on targeted rates
-A relevant territorial authority must record in its rates record for a rating unit in its district the amount of the ratepayer's liability, in respect of that unit, for targeted rates under this Act.
+A relevant territorial authority must record in its rates record for a rating unit or separate rating area in its district the amount of the ratepayer's liability, in respect of the rating unit or separate rating area, for targeted rates under this Act.
 
 ### 214 Kāinga Ora and relevant territorial authority to share rating information
 (1) If land within a project area is subject to targeted rates under this Act, Kāinga Ora must provide each relevant territorial authority with—
