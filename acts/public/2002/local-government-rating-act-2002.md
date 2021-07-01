@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2021-04-13_
+_Consolidation as at 2021-07-01_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -60,6 +60,9 @@ In this Act, unless the context otherwise requires,—
     (a) in relation to a territorial authority, a roll prepared for a district under section 7 of the Rating Valuations Act 1998 and approved under section 11 of that Act; and
     (b) in relation to a regional council, the current district valuation rolls for the districts of the territorial authorities within its region
   - **due date** , in relation to a rate or part of a rate, means the last day for payment of the rate, or part of the rate, that is set out in the rates assessment
+  - **dwelling** means a building or part of a building occupied as residential accommodation and includes—
+    (a) a garage, a shed, and any other building used in connection with the dwelling; and
+    (b) the land attached or appurtenant to the dwelling and commonly used in connection with the dwelling
   - **early payment policy** means a policy for the early payment of rates under section 55 or section 56
   - **financial year** means a period of 12 months beginning on 1 July
   - **funding impact statement** means,—
@@ -75,7 +78,13 @@ In this Act, unless the context otherwise requires,—
   - **Māori freehold land** means land whose beneficial ownership has been determined by the Māori Land Court by freehold order
   - **Māori freehold land in multiple ownership** means Māori freehold land owned by more than 2 persons
   - **owner** means the person who, whether jointly or separately, is seized or possessed of, or entitled to, any estate or interest in land constituting a rating unit
-  - **person actually using land** has the meaning given to it in section 96
+  - **person actually using land** or means a person who, alone or with others,—
+    (a) leases the land; or
+    (b) does 1 or more of the following things on the land for profit or other benefit:
+      (i) resides on the land:
+      (ii) depastures or maintains livestock on the land:
+      (iii) stores anything on the land:
+      (iv) uses the land in any other way
   - **postponed rates** means rates for which the requirement to pay is postponed
   - **postponement policy** means a policy under section 110 of the Local Government Act 2002
   - **public notice** means—
@@ -87,8 +96,8 @@ In this Act, unless the context otherwise requires,—
     (b) includes a penalty added to a rate in accordance with section 58; but
     (c) does not include a lump sum contribution
   - **rateable value** means the rateable value of land under section 13(3)
-  - **rates assessment** means the document that gives notice of the ratepayer’s liability to pay rates on a rating unit
-  - **rates invoice** means the document that notifies a ratepayer of the amount of rates that are payable for a rating unit under section 46
+  - **rates assessment** means the document that gives notice of the ratepayer’s liability to pay rates on a rating unit or separate rating area
+  - **rates invoice** means the document that notifies a ratepayer of the amount of rates that are payable for a rating unit or separate rating area under section 46
   - **rates record** means the record maintained by a local authority under section 37
   - **rating information database** means the database that is required to be kept by a local authority under section 27
   - **rating sale** or means a sale or lease of a rating unit under section 68 to enforce a judgment for rates
@@ -96,14 +105,20 @@ In this Act, unless the context otherwise requires,—
   - **regional council** means a regional council within the meaning of the Local Government Act 2002
   - **remission policy** means a policy under section 109 of the Local Government Act 2002
   - **remitted rates** means rates for which the requirement to pay is remitted
+  - **residual rating area** means the part of a rating unit (if any) that remains after 1 or more separate rating areas are divided from the rating unit
   - **sale** includes a sale under an agreement for sale and purchase
+  - **separate rating area** means land that has become a separate rating area under section 98A
   - **sewage disposal** includes sewage collection and sewage treatment
   - **special consultative procedure** means the procedure set out in section 83 of the Local Government Act 2002
   - **structure** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **targeted rate** means a rate set under section 16 or section 19
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **Te Urewera Board** and have the meanings given in section 7 of the Te Urewera Act 2014
+  - **underlying rating unit** means a rating unit which has been divided into separate rating areas under section 98A
   - **uniform annual general charge** means a rate set under section 15.
+
+### 5A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 5A Temporary definition of public notice as result of outbreak of COVID-19
 [Repealed]
@@ -132,7 +147,9 @@ Land to which section 8 applies is rateable for the purpose of setting a targete
 **Who is a ratepayer?**
 
 ### 10 Who is ratepayer?
-For the purposes of this Act, a ratepayer is the person who is named as a ratepayer in the rating information database and the district valuation roll.
+For the purposes of this Act, a ratepayer is,—
+  (a) in relation to a rating unit, the person who is named as a ratepayer in the rating information database and the district valuation roll for the rating unit:
+  (b) in relation to a separate rating area, the person who is named as the ratepayer in the rating information database for the separate rating area.
 
 ### 11 Entry of ratepayer in rating information database and district valuation roll
 (1) The name of the following persons must be entered in the rating information database and district valuation roll as the ratepayer in respect of a rating unit:
@@ -160,6 +177,7 @@ For the purposes of this Act, a ratepayer is the person who is named as a ratepa
 
 ### 12 Liability for rates
 (1) The ratepayer for a rating unit is liable to pay the rates that are due on the unit.
+(1A) The ratepayer for a separate rating area is liable to pay the rates that are due on the separate rating area.
 (2) However, a person other than the ratepayer may become liable to pay the rates in the circumstances set out in sections 61 to 62A.
 
 **What kinds of rates may be set?**
@@ -225,6 +243,17 @@ Two or more rating units must be treated as 1 unit for assessing a rate if those
   (a) owned by the same person or persons; and
   (b) used jointly as a single unit; and
   (c) contiguous or separated only by a road, railway, drain, water race, river, or stream.
+
+### 20A Rating units of Māori freehold land used as a single unit
+(1) A person actually using 2 or more rating units of Māori freehold land may apply to the local authority for 2 or more of the rating units to be treated as 1 unit for the purposes of a rates assessment.
+(2) The local authority must treat the rating units as 1 unit for assessing a rate if—
+  (a) the units are used jointly as a single unit by the person; and
+  (b) the local authority is satisfied the units are derived from, or are likely to have been derived from, the same original block of Māori freehold land, meaning the first Māori land block that was held in an instrument of title and that included the land that became the rating units.
+(3) For the purposes of subsection (2)﻿(b), it is sufficient evidence that 2 or more rating units of Māori freehold land are derived from the same original block of Māori freehold land if the rating units share a name in common according to the permanent record of the Māori Land Court.
+(4) If a local authority is not satisfied that the units are derived from, or are likely to have been derived from, the same block of Māori freehold land, the local authority—
+  (a) may apply to the Registrar of the Māori Land Court for a determination as to whether the rating units are derived from the same original block of Māori freehold land; and
+  (b) must do so on the request of the person actually using the units.
+(5) In this section, block has the meaning set out in section 4 of Te Ture Whenua Maori Act 1993.
 
 **Maximum revenue from certain rates**
 
@@ -306,10 +335,11 @@ A report complies with this section if—
 (5) The information in subsection (4) may be recorded separately for different parts of a rating unit if separate records are necessary because of different rating treatment of each part resulting from:
   (a) the inclusion of different parts in different categories under subsection (4)﻿(b)﻿(i) or (ii):
   (b) the application of Part 1 or Part 2 of Schedule 1 to one or more parts of the rating unit:
-  (c) the application of a remission policy, a postponement policy, or a rates relief policy for Māori freehold land to 1 or more parts of the rating unit.
+  (c) the application of a remission policy, a postponement policy, or a rates relief policy for Māori freehold land to 1 or more parts of the rating unit:
+  (d) 1 or more separate rating areas being divided from a rating unit under section 98A.
 (6) The rating information database must be maintained so that it may be searched according to—
-  (a) the reference number of the unit; or
-  (b) the address of the unit.
+  (a) the reference number of the unit or a separate rating area; or
+  (b) the address of the unit or a separate rating area.
   (c)
 (7) This section does not prevent a regional council from—
   (a) keeping a rating information database in separate parts for the constituent districts of the region; and
@@ -319,7 +349,7 @@ A report complies with this section if—
 (1) The rating information database must be available for inspection—
   (a) at the principal public office of the local authority and any other place that the local authority considers necessary in order to provide reasonable access to all ratepayers and residents of the district; and
   (b) during ordinary office hours or the hours at which the place is open to the public.
-(2) The copy of the rating information database that is made available for inspection must not include the name of any person (unless it is necessary to identify the rating unit) or any address other than the street address of the rating unit.
+(2) The copy of the rating information database that is made available for inspection must not include the name of any person (unless it is necessary to identify the rating unit or separate rating area) or any address other than the street address of the rating unit or separate rating area.
 (3) No fee is payable for inspecting the rating information database, but a person may be charged a reasonable fee for being supplied with a copy of the particulars.
 (4) The local authority must, during the month of May, give public notice that the rating information database is available for inspection and of the place and times it may be inspected.
 (5) In addition to the notice required under subsection (4), a local authority may notify ratepayers at any other time it considers appropriate and by any means it thinks fit.
@@ -328,47 +358,42 @@ A report complies with this section if—
 (1) In this section, and sections 28B to 28D, database means the database—
   (a) that the local authority must make available under subsection (2); and
   (b) that contains the information required under subsection (3).
-(2) For the purpose of inspecting any information in relation to a particular rating unit, a copy of the local authority’s complete rating information database must be—
+(2) For the purpose of inspecting any information in relation to a particular rating unit or separate rating area, a copy of the local authority’s complete rating information database must be—
   (a) available to any person—
     (i) at the principal public office of the local authority; and
     (ii) during office hours; and
   (b) accessible to the person by the person—
     (i) accessing the database by himself or herself; or
     (ii) requesting an officer of the local authority to provide the information.
-(3) The rating information database made available under subsection (2) must include, for each rating unit in the district, all the information that the local authority holds in its rating information database in relation to that rating unit, including—
-  (a) the name of the owner of the rating unit; and
-  (b) the postal address of the owner of the rating unit.
+(3) The rating information database made available under subsection (2) must include, for each rating unit or separate rating area in the district, all the information that the local authority holds in its rating information database in relation to that rating unit or separate rating area, including—
+  (a) the name of the owner of the rating unit or separate rating area; and
+  (b) the postal address of the owner of the rating unit or separate rating area.
 (4) The local authority may make the database or any part of it available at any other office of the local authority, but only in the same manner as it is accessible by people at the principal public office.
 (5) No fee is payable for inspecting any database made available under this section, but a person may be charged a reasonable fee for being supplied with a copy of the particulars.
-(6) For the avoidance of doubt, a person may make, at the same inspection of the database, a series of requests about particular rating units, as long as the requests are—
+(6) For the avoidance of doubt, a person may make, at the same inspection of the database, a series of requests about particular rating units or separate rating areas, as long as the requests are—
   (a) related; and
   (b) for purposes other than for the bulk collection of the names or postal addresses (or both) of people included in the database.
 (7) This section—
   (a) overrides sections 27(3) and 28; and
   (b) is modified by section 28D.
 
-### 28B Local authority must inform owners of right to withhold certain information from database
+### 28B Local authority must inform owners of rating units and ratepayers for separate rating areas of right to withhold certain information from database
 The local authority—
-  (a) must, by written notice, inform every owner included in its rating information database, annually, that he or she has the right under section 28C to request the local authority to withhold his or her name or postal address (or both) from the database; and
+  (a) must, by written notice, inform every owner of a rating unit and ratepayer for a separate rating area included in its rating information database, annually, that he or she has the right under section 28C to request the local authority to withhold his or her name or postal address (or both) from the database; and
   (b) may give the written notice in conjunction with any other rates information the local authority is required to provide.
 
-### 28C Owner entered on database may require local authority to withhold information from database
-(1) An owner whose particulars are included on the database may request the local authority to withhold his or her name or postal address (or both) from the database.
-(2) An owner who makes a request under subsection (1)—
+### 28C Owner of rating unit and ratepayer for separate rating area entered on database may require local authority to withhold information from database
+(1) An owner of a rating unit or ratepayer for a separate rating area whose particulars are included on the database may request the local authority to withhold his or her name or postal address (or both) from the database.
+(2) An owner or ratepayer who makes a request under subsection (1)—
   (a) must make the request in writing; but
   (b) is not required to provide reasons for the request.
 (3) On receipt of a request, the local authority must, as soon as practicable,—
   (a) remove the relevant particulars from the database; and
-  (b) notify the owner who made the request of the removal of his or her particulars.
-(4) An owner whose particulars have been removed from the database may, at any time by written notice, revoke the request. The local authority must then, as soon as practicable, restore those particulars to the database.
+  (b) notify the owner or ratepayer who made the request of the removal of his or her particulars.
+(4) An owner or ratepayer whose particulars have been removed from the database may, at any time by written notice, revoke the request. The local authority must then, as soon as practicable, restore those particulars to the database.
 
 ### 28D Transitional provision for local authority to establish database
-(1) Every local authority must make available for inspection its first database before 31 December 2005.
-(2) For the purposes of this section, each local authority must inform every owner included in its rating information database of the right of the owner to request the withholding of his or her name or postal address (or both) from the database.
-(3) The notice under subsection (2)—
-  (a) must be in writing; and
-  (b) must be made before 31 October 2005; and
-  (c) may be made in conjunction with any other rates information the local authority is required to provide.
+[Repealed]
 
 ### 29 Objections to rating information database
 (1) A person who is named in the rating information database as a ratepayer may object to the information contained in the database on 1 or more of the following grounds:
@@ -376,6 +401,7 @@ The local authority—
   (b) that information included in the district valuation roll has been omitted from, or inaccurately entered in, the database:
   (c) that information included in the database, other than information entered from the district valuation roll, is incorrect:
   (d) that there has been a failure to enter a lawful amendment to the district valuation roll into the database.
+(1A) A person who is named in the rating information database as the ratepayer for a separate rating area or its underlying rating unit may also object to the information contained in the database on the ground that the apportionment of rates fails to comply with section 98B.
 (2) Objections must be lodged with the local authority.
 (3) A local authority must notify the objector in writing of its decision on an objection and, if the objection is upheld,—
   (a) correct the entry in the rating information database; and
@@ -428,20 +454,20 @@ The name of a person who is entered as a ratepayer in the rating information dat
 **Rates records**
 
 ### 37 Rates records
-(1) A local authority must keep and maintain a rates record for each rating unit in its district that clearly shows—
-  (a) the amount of the ratepayer’s liability for rates in respect of that unit; and
-  (b) any information required under section 117K(2) that relates to the unit; and
+(1) A local authority must keep and maintain a rates record for each rating unit and separate rating area in its district that clearly shows—
+  (a) the amount of the ratepayer’s liability for rates in respect of that unit or separate rating area; and
+  (b) any information required under section 117K(2) that relates to the unit or separate rating area; and
   (c) if the unit is subject to targeted rates under the Urban Development Act 2020, the information required under section 213 of that Act.
 (2) Rates records may be kept and maintained in written or electronic form, or both.
-(3) If a rates record includes any information that is referred to in section 27(4), the local authority must ensure that the information is consistent with the current entry in the rating information database for the unit.
+(3) If a rates record includes any information that is referred to in section 27(4), the local authority must ensure that the information is consistent with the current entry in the rating information database for the unit or separate rating area.
 
 ### 38 Inspection of rates records
-(1) The following persons may inspect the rates record for a rating unit:
+(1) The following persons may inspect the rates record for a rating unit or separate rating area:
   (a) the ratepayer:
   (b) a person who is authorised by the ratepayer to do so:
   (c) a person who has become liable to pay the rates in respect of the unit under section 61 or section 62:
   (d) a solicitor, a person (not being a lawyer) who provides conveyancing services, a real estate agent, or any other person, who—
-    (i) is a party to (or acting as an agent for a party to) a transaction relating to the rating unit; and
+    (i) is a party to (or acting as an agent for a party to) a transaction relating to the rating unit or separate rating area; and
     (ii) reasonably requires the information in the rates record for the purposes of the transaction:
   (e) any member of the public with respect to rates assessed, but not including arrears, remissions, or postponed rates.
 (2) The rates records must be available for inspection—
@@ -454,7 +480,7 @@ The name of a person who is entered as a ratepayer in the rating information dat
 ### 39 Objection to rates records
 (1) A ratepayer, or a person who has become liable to pay rates under section 61 or section 62, may object to the information contained in the rates records on either or both of the following grounds:
   (a) that the rates are incorrectly calculated:
-  (b) that the rates balance shown in respect of the rating unit is incorrect.
+  (b) that the rates balance shown in respect of the rating unit or separate rating area is incorrect.
 (2) Objections must be lodged with the local authority.
 (3) A local authority must notify the ratepayer in writing of its decision on an objection and, if the objection is upheld, correct the entry in the rates record accordingly.
 
@@ -463,18 +489,18 @@ A local authority may correct an error in the rating information database or rat
 
 ### 41 Amended assessment if error in rating information database or rates record is corrected
 (1) A local authority must issue an amended rates assessment in substitution for the original assessment if it has delivered a rates assessment for a financial year and, within 5 years after the last day of that year,—
-  (a) an error in the rating information database or rates record in respect of the rating unit concerned is corrected in accordance with section 29, section 39, or section 40; and
+  (a) an error in the rating information database or rates record in respect of the rating unit or separate rating area concerned is corrected in accordance with section 29, section 39, or section 40; and
   (b) the correction gives rise to a difference between the amount of rates that was originally assessed and the amount that would have been payable if the information entered in the rating information database or on the rates assessment had been correct.
 (2) If the amended rates assessment under subsection (1) is for an amount of rates that is less than the amount originally assessed, the local authority must refund to the person who paid the rates any rates paid in excess of the amount payable on the amended assessment.
 (3) If the amended rates assessment under subsection (1) is for an amount of rates that is more than the amount originally assessed and is issued in the same financial year, and to the same person, as the original assessment, that person is liable to pay the amount of the excess rates.
 (4) No person is liable for the payment of excess rates except in accordance with subsection (3).
 
 ### 41A Amended assessment to give effect to objection to valuation under Rating Valuations Act 1998
-(1) A local authority must issue an amended rates assessment for a rating unit if—
-  (a) it has issued a rates assessment in respect of the rating unit for a financial year; and
+(1) A local authority must issue an amended rates assessment for a rating unit or separate rating area if—
+  (a) it has issued a rates assessment in respect of the rating unit or separate rating area for a financial year; and
   (b) after issuing the assessment, it has—
-    (i) altered the information in relation to the rating unit in its district valuation roll under section 39 of the Rating Valuations Act 1998 for that year; and
-    (ii) consequentially altered the information in relation to the rating unit in its rating information database for that year; and
+    (i) altered information in its district valuation roll under section 39 of the Rating Valuations Act 1998 for that year; and
+    (ii) consequentially altered the information in relation to the rating unit or separate rating area in its rating information database for that year; and
   (c) the alteration in the database gives rise to a difference between the amount of rates that was originally assessed and the amount that would have been payable for that year if the information entered in the database had been the information referred to in paragraph (b)﻿(ii).
 (2) An amended assessment must be issued—
   (a) no later than 1 month after the alteration concerned was made to the rating information database; or
@@ -512,8 +538,8 @@ A local authority may correct an error in the rating information database or rat
 **Notice to ratepayers of rates liability**
 
 ### 44 Notice of rates assessment
-(1) A local authority must deliver a rates assessment to a ratepayer to give notice of the ratepayer’s liability for rates on a rating unit.
-(2) A ratepayer is liable for rates on a rating unit when the local authority delivers the rates assessment for that unit to the ratepayer.
+(1) A local authority must deliver a rates assessment to a ratepayer to give notice of the ratepayer’s liability for rates on a rating unit or separate rating area.
+(2) A ratepayer is liable for rates on a rating unit or separate rating area when the local authority delivers the rates assessment for that unit or separate rating area to the ratepayer.
 (3) See section 201 of the Urban Development Act 2020 if the rating unit is also subject to targeted rates under that Act.
 
 ### 45 Contents of rates assessment
@@ -549,45 +575,48 @@ A local authority may correct an error in the rating information database or rat
 (4) If subsection (3) applies,—
   (a) the information required under subsection (1) must be given for each part of the assessment as if each part were a separate assessment; and
   (b) each part must state that it is part of the rates assessment for the rating unit and identify the number of other parts that are included in the assessment.
+((4A)) If subsection (3) applies because 1 or more separate rating areas have been divided from a rating unit,—
+  (a) the information required by subsection (1) must be provided for the residual rating area (if any) of the rating unit; and
+  (b) a separate rates assessment must be provided for each separate rating area in the rating unit in accordance with section 98C.
 (5) See section 202 of the Urban Development Act 2020 if a rating unit is also subject to targeted rates under that Act.
 
 ### 46 Rates invoice
-(1) If a rates payment is due for a particular period, the local authority must deliver to the ratepayer a rates invoice for the rating unit for that period.
+(1) If a rates payment is due for a particular period, the local authority must deliver to the ratepayer a rates invoice for the rating unit or separate rating area for that period.
 (2) A rates invoice must clearly identify all of the following:
   (a) the name and address of the local authority:
   (b) the name and address of the ratepayer:
-  (c) the legal description and location of the rating unit:
-  (d) the total amount of rates payable for the financial year for the rating unit:
+  (c) the legal description and location of the rating unit or separate rating area:
+  (d) the total amount of rates payable for the financial year for the rating unit or separate rating area:
   (e) the amount of rates that have been paid to date for the financial year:
   (f) the amount payable on the current rates invoice:
   (g) the date on which the payment is due on the current rates invoice:
   (h) where the rates may be paid:
   (i) if the local authority has a penalty regime,—
     (i) a warning that, if the rates are not paid on time, a penalty may be added; and
-    (ii) if a penalty has been added in the current financial year, the amount of the penalty on any unpaid rates for the rating unit:
-  (j) the amount of any unpaid rates owing from a previous financial year for the rating unit.
+    (ii) if a penalty has been added in the current financial year, the amount of the penalty on any unpaid rates for the rating unit or separate rating area:
+  (j) the amount of any unpaid rates owing from a previous financial year for the rating unit or separate rating area.
 (3) A rates invoice may include any other information that the local authority thinks fit.
 (4) A local authority may deliver a separate rates invoice for any targeted rate in accordance with subsection (1).
 (5) A rates invoice delivered under subsection (4) must—
   (a) set out the matters required by subsection (2); and
   (b) specify the rate covered by the invoice; and
   (c) if the invoice covers a rate set under section 43(1)﻿(c), the invoice must specify the basis of that assessment and the period for which the assessment applies.
-(6) See section 203 of the Urban Development Act 2020 if a rating unit is also subject to targeted rates under that Act.
+(6) See section 203 of the Urban Development Act 2020 if a rating unit or separate rating area is also subject to targeted rates under that Act.
 
 ### 47 Issue of amended rates invoice
-(1) If a rates invoice is incorrect as to the amount of rates payable by a ratepayer in respect of a rating unit, an amended invoice must be delivered to the ratepayer in accordance with section 46 setting out the correct liability of the ratepayer as to the amount of rates due for the rating unit.
+(1) If a rates invoice is incorrect as to the amount of rates payable by a ratepayer in respect of a rating unit or separate rating area, an amended invoice must be delivered to the ratepayer in accordance with section 46 setting out the correct liability of the ratepayer as to the amount of rates due for the rating unit or separate rating area.
 (2) The ratepayer’s liability to pay is not affected by the fact that correction of the rates invoice is required.
 (3) If an amended rates invoice is required under subsection (1),—
   (a) there is no limit as to the time by which delivery must be made:
   (b) penalties must not be charged on the difference between the amount stated on the incorrect rates invoice and the amount stated on the amended invoice before a date 14 days after delivery of the amended invoice.
 
 ### 48 Delivery of rates assessment and rates invoice
-(1) The rates assessment for a rating unit must be delivered to the ratepayer of the unit in accordance with section 136 before the rates invoice for any particular rates is delivered.
+(1) The rates assessment for a rating unit or separate rating area must be delivered to the ratepayer of the unit or separate rating area in accordance with section 136 before the rates invoice for any particular rates is delivered.
 (2) However, a local authority may deliver the rates invoice with the rates assessment, and is not required to deliver a separate rates invoice, if the rates assessment includes all the information required by section 46.
-(3) A rates invoice must be delivered to the ratepayer of the rating unit at least 14 days before the date on which a rates payment is due.
+(3) A rates invoice must be delivered to the ratepayer of a rating unit or separate rating area at least 14 days before the date on which a rates payment is due.
 
 ### 49 Late delivery of rates invoice
-If the rates invoice is not delivered at least 14 days before the due date, the rates payment is not due until 14 days after the rates invoice has been delivered to the ratepayer of the rating unit.
+If the rates invoice is not delivered at least 14 days before the due date, the rates payment is not due until 14 days after the rates invoice has been delivered to the ratepayer of the rating unit or separate rating area.
 
 ### 50 Rates invoice based on previous year’s rates
 (1) A local authority may deliver a rates invoice for not more than 25% of the rates that are payable in the previous year if it is not able to deliver a rates assessment at least 14 days before—
@@ -596,9 +625,9 @@ If the rates invoice is not delivered at least 14 days before the due date, the 
 (2) A rates invoice delivered under subsection (1) must comply with section 46(2), except that, instead of the information required by paragraphs (d) and (e) of that section, the rates invoice must state that the invoice is based upon the rates payable in the previous year.
 
 ### 51 Combined rates assessment and rates invoice
-(1) If a ratepayer is liable for the payment of rates on 2 or more rating units within the same district or region, the local authority may deliver a combined rates assessment and a combined rates invoice for those rating units.
-(2) The combined rates assessment must clearly set out all the information required by section 45 as it relates to each rating unit.
-(3) The combined rates invoice must clearly distinguish the rates for each rating unit, and set out all the information required by section 46 as it relates to each unit.
+(1) If a ratepayer is liable for the payment of rates on 2 or more rating units or separate rating areas within the same district or region, the local authority may deliver a combined rates assessment and a combined rates invoice for those rating units or separate rating areas.
+(2) The combined rates assessment must clearly set out all the information required by section 45 as it relates to each rating unit or separate rating area.
+(3) The combined rates invoice must clearly distinguish the rates for each rating unit or separate rating area, and set out all the information required by section 46 as it relates to each unit or separate rating area.
 
 **Collection of rates**
 
@@ -619,13 +648,13 @@ If the rates invoice is not delivered at least 14 days before the due date, the 
 (4) A local authority and a collector may agree to any other arrangement for the delivery of rates assessments and rates invoices, and for the collection of rates, but only if the rates assessments and rates invoices meet the requirements of subsections (2) and (3) respectively.
 
 ### 54 Power not to collect small amounts
-(1) Despite the other provisions of this Act, if the rates payable on a rating unit in a financial year are, in the opinion of a local authority, uneconomic to collect, it may decide not to collect them.
+(1) Despite the other provisions of this Act, if the rates payable on a rating unit or separate rating area in a financial year are, in the opinion of a local authority, uneconomic to collect, it may decide not to collect them.
 (2) If a local authority decides, under subsection (1), not to collect the rates,—
-  (a) the ratepayer of the rating unit is not liable to pay the rates; and
+  (a) the ratepayer of the rating unit or separate rating area is not liable to pay the rates; and
   (b) no penalties may be added to the unpaid rates.
 (3) If subsection (1) applies, the local authority—
   (a) must notify the ratepayer that the local authority has decided not to collect the rates; and
-  (b) may, if a rates assessment for that rating unit has not been delivered,—
+  (b) may, if a rates assessment for the rating unit or separate rating area has not been delivered,—
     (i) include the notice under paragraph (a) with the rates assessment; or
     (ii) omit to deliver the rates assessment.
 
@@ -722,7 +751,7 @@ A person must not refuse to pay rates on the ground that the rates are invalid u
 
 ### 63 Legal proceedings to recover rates
 (1) A local authority may commence proceedings in a court of competent jurisdiction to recover as a debt rates unpaid for 4 months after the due date for payment.
-(2) In any proceedings under subsection (1), the local authority may recover any other unpaid rates in respect of the same rating unit if the rates became due not earlier than 1 month before the proceedings were commenced.
+(2) In any proceedings under subsection (1), the local authority may recover any other unpaid rates in respect of the same rating unit or separate rating area if the rates became due not earlier than 1 month before the proceedings were commenced.
 (3) A court constituted under the District Court Act 2016 has jurisdiction to hear and determine proceedings under this Act for the recovery of rates, whatever the amount of the debt involved.
 
 ### 64 Service of summons
@@ -1052,18 +1081,20 @@ Except where this Part otherwise provides, Māori freehold land is liable for ra
 (4) If subsection (2) or subsection (3) do not apply, the following names or descriptions must be entered as ratepayers in the rating information database and the district valuation roll:
   (a) for Māori freehold land owned by more than 2 persons who are not trustees, the words the owners:
   (b) for Māori freehold land vested in trustees, the names and designations of the trustees.
+(4A) If a separate rating area is divided from a rating unit under section 98A, the person actually using the separate rating area must be entered as the ratepayer in the rating information database for the separate rating area.
 (5) For the purposes of this Part,—
   - **lease** includes a tenancy at will, and any other tenancy that confers a leasehold interest upon the tenant, whether at law or in equity
   - **trustee** includes a body corporate constituted under Part 13 of Te Ture Whenua Maori Act 1993.
 (6) Subsection (1) is subject to section 11.
-(7) Subsections (2), (3), and (4) override section 11.
+(7) Subsections (2), (3), (4), and (4A) override section 11.
 
 **Land vested in trustees**
 
 ### 93 Limitation on trustee liability
-If trustees are liable to pay the rates on rateable Māori freehold land,—
+(1) If trustees are liable to pay the rates on rateable Māori freehold land,—
   (a) the rates must be paid out of income derived from the land and received by the trustees for the beneficial owners of the land; and
   (b) the trustees are liable for rates only to the extent of the money derived from the land and received by the trustees on behalf of the beneficial owner or owners.
+(2) Trustees seeking to rely on section 93(1)﻿(b) must, on request by a local authority, provide copies of any annual financial statements provided to the beneficial owners by the trustees.
 
 **Māori freehold land in multiple ownership**
 
@@ -1078,17 +1109,13 @@ If trustees are liable to pay the rates on rateable Māori freehold land,—
 (3) If there has been an appointment under section 94(2), the rates assessment must be delivered to the appointee under section 44.
 (4) The delivery of a rates assessment under section 44 to an appointee does not make the appointee liable for the rates on the relevant land, except to the extent that the person would otherwise be liable.
 
-**Person actually using Māori freehold land in multiple ownership**
+**Person actually using Māori freehold land in multiple ownership or separate rating areas**
 
 ### 96 Person actually using land liable for rates
-(1) A person actually using Māori freehold land in multiple ownership that is not vested in a trustee is liable for the rates on that land.
-(2) For the purposes of this Part, person actually using land means a person who, alone or with others,—
-  (a) leases the land; or
-  (b) does 1 or more of the following things on the land for profit or other benefit:
-    (i) resides on the land:
-    (ii) depastures or maintains livestock on the land:
-    (iii) stores anything on the land:
-    (iv) uses the land in any other way.
+(1) A person actually using land is liable for the rates on that land if the land is Māori freehold land—
+  (a) in a rating unit in multiple ownership that is not vested in a trustee; or
+  (b) in a separate rating area.
+(2)
 (3) If there is a person actually using the land, subsection (1) applies whether or not—
   (a) the person actually using the land is one of the owners of the land; or
   (b) a person has also been appointed under section 94(2) to receive the rates assessment and the rates invoice for the land.
@@ -1096,15 +1123,77 @@ If trustees are liable to pay the rates on rateable Māori freehold land,—
 
 ### 97 Rates assessment delivered to person actually using land
 (1) If section 96 applies, the rates assessment and rates invoice must be delivered to the person actually using the rateable Māori freehold land.
-(2) A person to whom section 96 applies and who is actually using part of the rateable Māori freehold land during a financial year must be treated as having used the whole of that land for the whole of that financial year unless that person establishes otherwise.
+(2) A person who is actually using land described in section 96(1)﻿(a) (other than land in a separate rating area) and who is using only part of the rateable Māori freehold land during a financial year must be treated as having used the whole of that land for the whole of that financial year unless that person establishes otherwise.
 (3) This section overrides sections 44 and 46.
 
-### 98 Recovery of unpaid rates from person actually using land
-In proceedings under section 63 for the recovery of unpaid rates against a person to whom section 96 applies, the court may give judgment for a proportion of the unpaid rates if the court—
-  (a) considers that in the circumstances it is reasonable to do so; and
-  (b) is satisfied that—
-    (i) the person did not actually use the whole of the rating unit for which the rates are claimed for the relevant financial year; and
-    (ii) the amount of the rates payable is disproportionately large compared to a reasonable rental or payment for the use.
+### 98 Ratepayer of underlying rating unit not liable for rates on separate rating area
+(1) The ratepayer for a rating unit is not liable for any rates due on any separate rating area in the rating unit.
+(2) Sections 99 to 113 (which relate to charging orders on Māori freehold land) do not apply in respect of any rates due on the separate rating area.
+
+**Separate rating areas on Māori freehold land**
+
+### 98A How rating unit on Māori freehold land divided into separate rating areas
+(1) A local authority may divide a separate rating area from a rating unit on Māori freehold land on the request of a person in accordance with this section.
+(2) A local authority must determine a part of a rating unit to be a separate rating area if the identified part of the rating unit—
+  (a) comprises a dwelling; and
+  (b) is used separately from the other land in the rating unit.
+(3) If the rating unit is managed by a trustee, the request for a separate rating area—
+  (a) must be made by the trustee with the consent of the person actually using the identified part of the rating unit; and
+  (b) must include the full name and postal address of the person actually using the identified part of the rating unit and evidence that they consent to the request.
+(4) If the rating unit is not managed by a trustee, the request for a separate rating area may be made by the person actually using the identified part of the rating unit.
+(5) On receiving a request under subsection (4), a local authority must notify the ratepayer or ratepayers for the rating unit of the request.
+(6) Requests for separate rating areas may be made at any time during the financial year.
+(7) The division of a separate rating area from a rating unit under this section does not create any right of occupancy or interest in the land.
+
+### 98B Apportionment of rates for separate rating areas
+The local authority must apportion the rates assessed for the underlying rating unit between each separate rating area and any residual rating area in the unit as follows:
+  (a) the apportionment of any rate must be assessed in accordance with the same values and factors that were used to assess the total rates for the underlying rating unit under section 43; and
+  (b) any general rate must be apportioned between separate rating areas and any residual rating area by apportioning the rateable valuation of the underlying rating unit between each separate rating area and any residual rating area, but always using the same category of rateable land under section 14 that applies to the underlying rating unit; and
+  (c) any uniform annual general charge set under section 15(1)﻿(a) for the underlying rating unit must be apportioned equally between each separate rating area and any residual rating area in the underlying rating unit; and
+  (d) any uniform annual general charge set under section 15(1)﻿(b) for the underlying rating unit must be apportioned equally between each separate rating area and any residual rating area in the underlying rating unit that is a separately used or inhabited part of the rating unit according to the local authority’s definition (see clauses 15 and 20 of Schedule 10 of the Local Government Act 2002); and
+  (e) any targeted rate must be apportioned between each separate rating area and any residual rating area in the underlying rating unit by apportioning the factors under section 18 that apply to the underlying rating unit between each separate rating area and any residual rating area, but always using the same category of rateable land under section 17 that applies to the underlying rating unit; and
+  (f) to avoid doubt, the sum of the apportionments of all rates for the separate rating areas and any residual rating area must equal the sum of all rates that would apply to the underlying rating unit without apportionment.
+
+### 98C Contents of rates assessment for separate rating area
+(1) A rates assessment for a separate rating area must clearly identify all of the following:
+  (a) the name and address of the local authority:
+  (b) the name and address of the ratepayer:
+  (c) the number on the district valuation roll of the underlying rating unit:
+  (d) the legal description of the underlying rating unit:
+  (e) the location of the separate rating area:
+  (f) the rateable value of the separate rating area:
+  (g) the amount and description of each rate:
+  (h) the activities or groups of activities of the local authority that will be funded from each rate:
+  (i) the relevant matters in Schedule 2 that are required to determine—
+    (i) the category (if any) to which the separate rating area belongs for the purposes of setting general rates differentially under section 13(2)﻿(b):
+    (ii) the category (if any) to which the separate rating area belongs for the purposes of setting a targeted rate under section 16(3)﻿(b) or (4)﻿(b):
+  (j) the information on the factors used to calculate the amount of the liability of the separate rating area in respect of each targeted rate:
+  (k) the total amount of rates payable on the separate rating area for the financial year:
+  (l) the information set out in section 45(1)﻿(l) to (p).
+(2) If the ratepayer has elected to make a lump sum contribution to a local authority’s capital project, the rates assessment must also identify the target rates for the financial year for which, as a result of the election, no liability attaches to the separate rating area.
+
+### 98D When separate rating area divided from rating area
+(1) A determination by a local authority that a part of a rating unit is a separate rating area applies on and from the commencement of—
+  (a) the financial year following the financial year in which the request for the determination is made; or
+  (b) if the requestor and the local authority agree, the financial year in which the request is made.
+(2) Subsection (3) applies if, before a rating unit is divided or ceases to be divided into separate rating areas for a financial year, a local authority has sent a notice, a ratepayer has made a payment, or either has done anything else that affects who is liable for rates (or apportionments of rates) under this Act for that financial year.
+(3) The local authority may do anything required to adjust who is liable for rates (or apportionments of rates), and anything required to adjust any related matters, under this Act for that financial year to reflect the division or removal of the division.
+
+### 98E How separate rating area ceases to be a separate rating area
+(1) A local authority may determine that a separate rating area divided from a rating unit is no longer a separate rating area—
+  (a) on the request of the trustee of the rating unit; or
+  (b) if the rating unit is not managed by a trustee, on the request of the person actually using the separate rating area; or
+  (c) on its own initiative if—
+    (i) the dwelling on the separate rating area has been removed or demolished, or is no longer habitable; or
+    (ii) there is no person actually using the separate rating area.
+(2) A determination by a local authority that a separate rating area is no longer a separate rating area applies on and from the commencement of—
+  (a) the financial year following the financial year in which an application is made by the trustee of the underlying rating unit:
+  (b) if the trustee and the local authority agree, the financial year in which the request is made:
+  (c) if the local authority makes the determination on its own initiative, the financial year following the financial year in which the determination is made.
+(3) The local authority must write off any rates outstanding in respect of a separate rating area when the local authority ceases to apportion the rates between separate rating areas under subsection (2).
+
+### 98F Election to make lump sum contributions must be made on behalf of underlying rating unit
+If Part 4A applies to a rating unit that has been divided into separate rating areas, the eligible ratepayer is the ratepayer for the underlying rating unit.
 
 **Charging orders**
 
@@ -1709,6 +1798,9 @@ Land forming part of—
 (c) a conservation area under the Conservation Act 1987:
 (d) a wildlife management reserve, wildlife refuge, or wildlife sanctuary under the Wildlife Act 1953.
 
+### 1A
+Land that is subject to a Ngā Whenua Rāhui kawenata under section 77A of the Reserves Act 1977 or section 27A of the Conservation Act 1987.
+
 ### 2
 Land vested in the Crown and forming part of—
 (a) a flood ponding area:
@@ -1761,7 +1853,7 @@ Land used solely or principally—
 (b) for a Sunday or Sabbath school or other form of religious education and not used for private pecuniary profit.
 
 ### 10
-Land that does not exceed 2 hectares and that is used as—
+Land that is used as—
 (a) a cemetery, crematorium, or burial ground, within the meaning of section 2(1) of the Burial and Cremation Act 1964 (except a burial ground or crematorium that is owned and conducted for private pecuniary profit):
 (b) a Māori burial ground.
 
@@ -1769,15 +1861,28 @@ Land that does not exceed 2 hectares and that is used as—
 Māori customary land.
 
 ### 12
-Land that is set apart under section 338 of Te Ture Whenua Maori Act 1993 or any corresponding former provision of that Act and—
-(a) that is used for the purposes of a marae or meeting place and that does not exceed 2 hectares; or
-(b) that is a Māori reservation under section 340 of that Act.
+Land that is used for the purposes of a marae, excluding any land used—
+(a) primarily for commercial or agricultural activity; or
+(b) as residential accommodation.
 
 ### 13
-Māori freehold land that does not exceed 2 hectares and on which a Māori meeting house is erected.
+Land that is set apart under section 338 of Te Ture Whenua Maori Act 1993 or any corresponding former provision of that Act and used for the purposes of a meeting place, excluding any land used—
+(a) primarily for commercial or agricultural activity; or
+(b) as residential accommodation.
+
+### 13A
+Māori freehold land on which a meeting house is erected, excluding any land used—
+(a) primarily for commercial or agricultural activity; or
+(b) as residential accommodation.
+
+### 13B
+Land that is a Māori reservation held for the common use and benefit of the people of New Zealand under section 340 of Te Ture Whenua Maori Act 1993.
 
 ### 14
 Māori freehold land that is, for the time being, non-rateable by virtue of an Order in Council made under section 116 of this Act, to the extent specified in the order.
+
+### 14A
+An unused rating unit of Māori freehold land.
 
 ### 15
 Machinery, whether fixed to the soil or not, but excluding, in the case of a hydro-electric power station, everything other than the turbines, generator, and associated equipment through which the electricity produced by the generator passes.
