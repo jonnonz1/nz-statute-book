@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2021-04-29_
+_Consolidation as at 2021-07-01_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -351,6 +351,7 @@ Despite the enactment of the Amendment Act, the entity known as Insurance & Fina
 | Departmental agency | Host department |
 | --- | --- |
 | Cancer Control Agency | Ministry of Health |
+| Ministry for Ethnic Communities | Department of Internal Affairs |
 | National Emergency Management Agency | Department of the Prime Minister and Cabinet |
 | Office for Māori Crown Relations—Te Arawhiti | Ministry of Justice |
 | Social Wellbeing Agency | Public Service Commission |
