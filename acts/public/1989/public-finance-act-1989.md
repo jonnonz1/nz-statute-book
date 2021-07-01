@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2020-12-18_
+_Consolidation as at 2021-07-01_
 
 > Title
 
@@ -583,11 +583,7 @@ The Minister may, in addition to the information referred to in sections 15 to 1
 (4) The appropriation Minister must ensure that the information is published as soon as practicable after the information is presented to the House of Representatives, or, if subsection (3) applies, not later than 4 months after the end of the financial year.
 
 ### 19BA Extension of time limits for 2019/20 financial year information: COVID-19
-(1) Despite the time limits in section 19B, in relation to the financial year ending with 30 June 2020, the information specified in section 19B(2) must be—
-  (a) prepared as required by section 19B(2)﻿(a) no later than the close of 21 December 2020; and
-  (b) presented as required by section 19B(2)﻿(b) no later than the close of 21 December 2020 or a later date allowed under section 19B(3); and
-  (c) published as required by section 19B(4) as soon as practicable after it is presented, or, if section 19(3) applies, not later than the close of 21 December 2020.
-(2) This section is repealed at the close of 30 June 2021.
+[Repealed]
 
 ### 19C Requirements for end-of-year performance information
 (1) The end-of-year performance information for an appropriation must include the following:
@@ -1283,8 +1279,7 @@ The chief executive of a department is responsible for—
     (b) in the case of any other department, the date that is 2 months after the end of the financial year.
 
 ### 44A Extension of time limits for 2019/20 financial year: COVID-19
-(1) Despite the time limit in paragraph (b) of the definition of specified date in section 44(6), in relation to the financial year ending with 30 June 2020, the specified date for a department to which that paragraph applies is 31 October 2020.
-(2) This section is repealed at the close of 30 June 2021.
+[Repealed]
 
 ### 44A Laying before House of Representatives of financial statements of Crown entities (other than school Boards of Trustees and Reserves Boards)
 [Repealed]
@@ -1403,10 +1398,7 @@ A department's annual report must include—
   (b) provide an audit report on them to the department or functional chief executive within 3 months after the end of each financial year.
 
 ### 45DA Extension of time limits for 2019/20 financial year reports and audits: COVID-19
-(1) Despite the time limits in section 45D, in relation to the financial year ending with 30 June 2020,—
-  (a) the statements and information specified in section 45D(1)﻿(a) and (1A) must be forwarded to the Auditor-General not later than the close of 31 October 2020; and
-  (b) the audit report referred to in section 45D(2)﻿(b) must be provided by the Auditor-General not later than the close of 30 November 2020.
-(2) This section is repealed at the close of 30 June 2021.
+[Repealed]
 
 **Miscellaneous**
 
@@ -2369,17 +2361,7 @@ Despite clause 2, old section 45 must be read as if it included a requirement fo
 (2) If new section 139 of the Crown Entities Act 2004 applies to a Schedule 4 organisation or a Schedule 4A company, then clause 4 of the CEA transitional schedule also applies to the organisation or company, except that references in that clause to a Crown entity must be read as if they were references to a Schedule 4 organisation or a Schedule 4A company (as applicable).
 
 ### 7 Exception to section 45OA(1)﻿(g) for Crown Fibre Holdings Limited in respect of certain subsidiaries
-(1) Despite section 45OA(1)﻿(g), section 97 of the Crown Entities Act 2004 (which sets out rules that apply to a parent Crown entity in respect of its subsidiaries) does not apply to Crown Fibre Holdings Limited in respect of a specified subsidiary.
-(2) For the purposes of subclause (1), specified subsidiary means a subsidiary that, on the commencement date, is a company with no shareholders other than—
-  (a) Crown Fibre Holdings Limited; and
-  (b) the Crown; and
-  (c) 1 of the following:
-    (i) Chorus Limited:
-    (ii) Enable Services Limited:
-    (iii) Northpower Limited:
-    (iv) Waikato Networks Limited:
-    (v) a wholly owned subsidiary of Chorus Limited, Enable Services Limited, Northpower Limited, or Waikato Networks Limited.
-(3) This clause is repealed on the close of 30 June 2021.
+[Repealed]
 
 ### 8 Application of Crown Entities Act 2004 to Tāmaki Redevelopment Company Limited's statement of intent for 2013/14 financial year
 (1) Despite new section 45OA(1)﻿(n),—
