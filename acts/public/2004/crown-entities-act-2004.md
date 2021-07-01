@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2021-03-01_
+_Consolidation as at 2021-07-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1541,11 +1541,8 @@ The statement of responsibility must—
 (2) The Auditor-General must—
   (a) audit the statements and information referred to in subsection (1)﻿(a); and
   (b) provide an audit report to the Crown entity within 4 months after the end of each financial year.
-Extension of time limits for 2019/20 financial year reports and audits: COVID-19
-(3) Despite the time limits in subsections (1)﻿(a) and (2)﻿(b), in relation to the financial year ending with 30 June 2020,—
-  (a) the information specified in subsection (1)﻿(a) must be forwarded to the Auditor-General no later than the close of 20 November 2020; and
-  (b) the audit report referred to in subsection (2)﻿(b) must be provided by the Auditor-General no later than the close of 18 December 2020.
-(4) Subsection (3), the heading above it, and this subsection are repealed at the close of 30 June 2021.
+(3)
+(4)
 
 **Application of this subpart to Crown entity groups**
 
