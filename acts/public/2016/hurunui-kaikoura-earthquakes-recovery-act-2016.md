@@ -1,5 +1,5 @@
 # Hurunui/Kaikōura Earthquakes Recovery Act 2016
-_Consolidation as at 2018-04-01_
+_Consolidation as at 2021-07-01_
 
 ### 1 Title
 This Act is the Hurunui/Kaikōura Earthquakes Recovery Act 2016.
