@@ -1,5 +1,5 @@
 # Waste Minimisation Act 2008
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2021-07-01_
 
 ### 1 Title
 This Act is the Waste Minimisation Act 2008.
@@ -608,9 +608,7 @@ A territorial authority that provides a service that collects waste, or any pers
 (3) For the purposes of subsections (1) and (2), sections 160 and 160A of the Local Government Act 2002 apply, with all necessary modifications.
 
 ### 58A Temporary bylaw review process as result of outbreak of COVID-19
-(1) Subsection (2) applies instead of section 58(3) during the period starting on the date on which this section comes into force and ending on 30 June 2021.
-(2) For the purposes of section 58(1) and (2), sections 160 and 160B of the Local Government Act 2002 apply, with all necessary modifications.
-(3) This section is repealed on 1 July 2021.
+[Repealed]
 
 ### 59 Regulations in relation to bylaws
 The Governor-General may, by Order in Council, make regulations for the following purposes:
