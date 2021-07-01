@@ -1,5 +1,5 @@
 # State-Owned Enterprises Act 1986
-_Consolidation as at 2020-10-01_
+_Consolidation as at 2021-07-01_
 
 > An Act to promote improved performance in respect of Government trading activities and, to this end, to—aspecify principles governing the operation of State enterprises; andbauthorise the formation of companies to carry on certain Government activities and control the ownership thereof; andcestablish requirements about the accountability of State enterprises, and the responsibility of Ministers
 
@@ -150,8 +150,7 @@ Nothing in this Act shall permit the Crown to act in a manner that is inconsiste
   (b) state the dividend payable to the Crown by the State enterprise for the financial year to which the report relates.
 
 ### 15A Extension of time limit for 2019/20 financial year reports and audits: COVID-19
-(1) Despite the time limit in section 15(1), in relation to the financial year ending with 30 June 2020, the information specified in section 15(1) must be delivered to the shareholding Ministers before the close of 30 November 2020.
-(2) This section is repealed at the close of 30 June 2021.
+[Repealed]
 
 ### 16 Half-yearly reports
 (1) Within 2 months after the end of the first half of each financial year of a State enterprise, the board of the State enterprise shall deliver to the shareholding Ministers a report of its operations during that half-year.
