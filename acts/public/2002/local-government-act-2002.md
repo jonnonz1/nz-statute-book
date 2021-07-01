@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2021-04-13_
+_Consolidation as at 2021-07-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -1821,6 +1821,9 @@ If a local authority carries out consultation in relation to an amendment to a l
 (3) A local authority may adopt either or both of the following policies:
   (a) a rates remission policy:
   (b) a rates postponement policy.
+(3A) The following policies must also support the principles set out in the Preamble to Te Ture Whenua Maori Act 1993:
+  (a) the revenue and financing policy, the policy on development contributions or financial contributions, and the policy on the remission and postponement of rates on Māori freehold land adopted under subsection (1):
+  (b) any rates remission policy or rates postponement policy adopted under subsection (3).
 (4) A local authority—
   (a) must consult on a draft policy in a manner that gives effect to the requirements of section 82 before adopting a policy under this section:
   (b) may amend a policy adopted under this section at any time after consulting on the proposed amendments in a manner that gives effect to the requirements of section 82.
@@ -2574,11 +2577,7 @@ A local authority must review a bylaw made by it under this Act, the Maritime Tr
 A bylaw that is not reviewed as required under section 158 or 159, if not earlier revoked by the local authority concerned, is revoked on the date that is 2 years after the last date on which the bylaw should have been reviewed under that section.
 
 ### 160B Bylaw revocation postponed as result of outbreak of COVID-19
-(1) Subsection (2) applies instead of section 160A during the period starting on the date on which this section comes into force and ending on 30 June 2021.
-(2) A bylaw that is not reviewed as required under section 158 or 159, and that is not earlier revoked by the relevant local authority, is revoked on the later of—
-  (a) the date that is 2 years after the last date on which the bylaw should have been reviewed under section 158 or 159; and
-  (b) 30 June 2021.
-(3) This section is repealed on 1 July 2021.
+[Repealed]
 
 **Transfer of bylaw-making power**
 
@@ -7439,7 +7438,7 @@ This Act comes into force on the day after the date on which it receives the Roy
 ### 7 Amendments to Local Government Act 2002
 (1) This section amends the Local Government Act 2002.
 ((2), (3)) Amendment(s) incorporated in the Act(s).
-(4) The amendments made by subsections (2) and (3) do not limit the power of a District Court under clause 2 of Schedule 7 of the Local Government Act 2002.
+(4) The amendments made by subsections (2) and (3) do not limit the power of the District Court under clause 2 of Schedule 7 of the Local Government Act 2002.
 
 ### 1 Title
 This Act is the Local Government Act 2002 Amendment Act 2010.
