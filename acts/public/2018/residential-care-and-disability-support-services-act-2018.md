@@ -1,5 +1,5 @@
 # Residential Care and Disability Support Services Act 2018
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-07-01_
 
 ### 1 Title
 This Act is the Residential Care and Disability Support Services Act 2018.
@@ -683,11 +683,11 @@ Regulations made under section 132D or 155(1) of the Social Security Act 1964, a
 (1) This clause specifies the applicable asset thresholds that apply annually for—
   (a) the year 1 July 2018 to 30 June 2019; and
   (b) all later years beginning on 1 July.
-(2) Threshold A is $236,336 and applies to every qualifying person or special case person (P)—
+(2) Threshold A is $239,930 and applies to every qualifying person or special case person (P)—
   (a) who has no spouse or partner; or
   (b) whose spouse or partner is also a qualifying person or special case person; or
   (c) whose spouse or partner is not a qualifying person or special case person but who has elected, under clause 2, to have Threshold A apply to P rather than Threshold B.
-(3) Threshold B is $129,423 and applies to every qualifying person or special case person (P)—
+(3) Threshold B is $131,391 and applies to every qualifying person or special case person (P)—
   (a) whose spouse or partner is not a qualifying person or special case person; and
   (b) who has not elected, under clause 2, to have Threshold A apply to R.
 
@@ -734,9 +734,9 @@ For the purpose of a person's income assessment under section 37,—
     (h) any amount paid by a funder in respect of the cost of contracted care services provided to the person or the person’s spouse or partner:
     (i) any amount or type of income, or amount of a certain type of income, specified in regulations made under section 74
   - **income-from-assets exemption** means the amount of income derived from assets each year not exceeding the following (or any other amount or amounts as may be prescribed by regulations made under section 74):
-    (a) $1,027, if the person is single; or
-    (b) $2,054, if the person's spouse or partner is a resident assessed as requiring care; or
-    (c) $3,081 if the person's spouse or partner is not a resident assessed as requiring care.
+    (a) $1,042, if the person is single; or
+    (b) $2,083, if the person's spouse or partner is a resident assessed as requiring care; or
+    (c) $3,125 if the person's spouse or partner is not a resident assessed as requiring care.
 
 ### 6 Annual income
 For the purposes of a means assessment as to income, a person's annual income is the person’s estimated income (as defined in clause 5) for the period of 52 weeks commencing on the date of means assessment.
