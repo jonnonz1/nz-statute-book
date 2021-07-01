@@ -1,5 +1,5 @@
 # Racing Industry Act 2020
-_Consolidation as at 2020-06-30_
+_Consolidation as at 2021-07-01_
 
 ### 1 Title
 This Act is the Racing Industry Act 2020.
