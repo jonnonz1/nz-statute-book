@@ -1,5 +1,5 @@
 # Gaming Duties Act 1971
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-07-01_
 
 > An Act to consolidate and amend the law relating to totalisator duty and lottery duty
 
@@ -32,7 +32,7 @@ In this Act, unless the context otherwise requires,—Terms defined in sections 
 ## Part 1 — Totalisator duty
 
 ### 4 Totalisator duty
-(1) A totalisator duty is payable to the Crown at the rate of 1.33% of betting profits.
+(1) A totalisator duty is payable to the Crown at the rate of 0% of betting profits.
 (2) Betting profits for totalisator racing betting, sports betting, and fixed-odds racing betting is calculated in accordance with the formula:amounts − refunds − winning dividendswhere—amountsis the total of all amounts received by TAB NZ or its agents (including the net return from bets laid off) for—refundsis the amount of refunds paidwinning dividendsis the amount of all winning dividends paid out in respect of amounts described above.
   (a) totalisator racing betting:
   (b) sports betting:
