@@ -1,5 +1,5 @@
 # Infrastructure Funding and Financing Act 2020
-_Consolidation as at 2021-04-13_
+_Consolidation as at 2021-07-01_
 
 ### 1 Title
 This Act is the Infrastructure Funding and Financing Act 2020.
@@ -65,7 +65,7 @@ This Act binds the Crown.
   - **levy period** means the period over which a levy is to be payable, as specified in a levy order or as later reduced by the responsible SPV under section 52
   - **levy revenue** means levy that has been collected or is intended to be collected
   - **levy year** , in a levy period, means a period of 12 months within the levy period, beginning on 1 July
-  - **levypayer** means the person who is liable under section 37 to pay any levy that is due on a rating unit
+  - **levypayer** means the person who is liable under section 37 to pay any levy that is due on a rating unit or separate rating area
   - **maximum levy revenue** means the amount of levy revenue that a levy order specifies as the maximum amount of levy that may be collected over the levy period (or that amount as later reduced under section 52)
   - **monitor** means the monitor appointed under section 118
   - **previous contribution** has the meaning set out in section 94(2)
@@ -93,6 +93,7 @@ This Act binds the Crown.
   - **responsible SPV** , in relation to any function referred to in this Act, means,—
     (a) if 1 SPV is named in a levy order, that SPV; or
     (b) if 2 or more SPVs are named in a levy order, the SPV identified in the order as being responsible for the function to which the reference relates
+  - **separate rating area** means land that has become a separate rating area under section 98A of the Local Government (Rating) Act 2002
   - **significant problem** , in relation to a responsible SPV, means a failure by the SPV to comply with this Act or a levy order that could have adverse consequences for 1 or more levypayers
   - **SPV** (or ) means a company, limited partnership, Crown entity, or other person that—
     (a) meets the requirements of section 10; and
@@ -474,9 +475,11 @@ Land within a levy area is leviable under this Act to the extent that it is rate
 
 ### 37 Who must pay levy
 (1) The ratepayer for a rating unit is liable to pay all levy that is due on the unit.
+(1A) The ratepayer for a separate rating area is liable to pay all levy that is due on the separate rating area.
 (2) However,—
-  (a) a person other than the ratepayer may become liable to pay the levy in the circumstances set out in section 61, 62, or 96 of the Local Government (Rating) Act 2002; and
-  (b) the levy liability of trustees in whom Māori freehold land is vested is limited in accordance with section 93 of the Local Government (Rating) Act 2002, which applies subject to subsection (3) and with all other necessary modifications.
+  (a) a person other than the ratepayer may become liable to pay the levy in the circumstances set out in section 61, 62, 62A, or 96 of the Local Government (Rating) Act 2002; and
+  (b) the levy liability of trustees in whom Māori freehold land is vested is limited in accordance with section 93 of the Local Government (Rating) Act 2002, which applies subject to subsection (3) and with all other necessary modifications; and
+  (c) the ratepayer for a rating unit is not liable for any levy due on any separate rating area in the rating unit.
 (3) In any calculation of the levy liability of trustees under section 93 of the Local Government (Rating) Act 2002, any rates assessed under that Act must first be deducted from the income referred to in that section.
 
 ### 38 When levy payment must be made
@@ -559,13 +562,13 @@ If the monitor is not satisfied that the proposed annual levy resolution complie
     (i) an irregularity in setting the levy:
     (ii) a mistake in calculating the levy:
     (iii) a relevant change in circumstances; and
-  (b) correcting the levy will not increase the amount of levy assessed for any rating unit.
+  (b) correcting the levy will not increase the amount of levy assessed for any rating unit or separate rating area.
 (2) The responsible SPV may correct the annual levy only if—
   (a) it has given 14 days’ public notice and notice to the monitor of its intention to correct the levy; and
   (b) the monitor consents to the change.
 (3) The notice must include the reason why the SPV has determined that it is desirable to correct the annual levy.
-(4) If correcting the annual levy results in a change to the amount of levy to be assessed for any rating unit,—
-  (a) the responsible levy authority must correct the levy-related information in the rates record for the rating unit as soon as practicable; and
+(4) If correcting the annual levy results in a change to the amount of levy to be assessed for any rating unit or separate rating area,—
+  (a) the responsible levy authority must correct the levy-related information in the rates record for the rating unit or separate rating area as soon as practicable; and
   (b) section 41 of the Local Government (Rating) Act 2002 applies.
 (5) In this section, public notice has the same meaning as in section 5 of the Local Government (Rating) Act 2002.
 
@@ -609,17 +612,18 @@ If the monitor is not satisfied that the proposed annual levy resolution complie
 
 ### 57 When SPV recovers unpaid levy
 (1) This section applies if—
-  (a) there is an amount of levy unpaid for a rating unit; and
-  (b) rates for that rating unit have been paid.
+  (a) there is an amount of levy unpaid for a rating unit or separate rating area; and
+  (b) rates for that rating unit or separate rating area have been paid.
 (2) The responsible levy authority—
   (a) may notify the responsible SPV that the authority will not recover the unpaid levy; and
   (b) on notifying the responsible SPV under paragraph (a), is not required to recover that unpaid levy on behalf of the SPV.
 
 ### 58 Levy is charge against rating unit
-A levy assessed in respect of a rating unit is a charge against that unit.
+(1) A levy assessed in respect of a rating unit is a charge against that unit.
+(2) Subsection (1) does not apply in respect of a levy due on a separate rating area.
 
 ### 59 Invalidity of levy not ground for refusal to pay levy
-A person must not refuse to pay a levy on the ground that the levy is invalid unless the person brings proceedings to challenge the validity of the levy on the ground that the responsible levy authority or the responsible SPV is not empowered to set or assess the levy on the particular rating unit.
+A person must not refuse to pay a levy on the ground that the levy is invalid unless the person brings proceedings to challenge the validity of the levy on the ground that the responsible levy authority or the responsible SPV is not empowered to set or assess the levy on the particular rating unit or separate rating area.
 
 ### Subpart 2 — Responsible levy authority administers levy
 
@@ -632,8 +636,8 @@ A person must not refuse to pay a levy on the ground that the levy is invalid un
 **Rating information database and rating records**
 
 ### 61 Rating information database
-(1) The responsible levy authority must include in its rating information database levy-related information about rating units in the levy area, including all information that relates to the unit that is required to—
-  (a) determine the category (if any) to which the unit belongs for setting a levy; and
+(1) The responsible levy authority must include in its rating information database levy-related information about rating units and separate rating areas in the levy area, including all information that relates to any rating unit or separate rating area that is required to—
+  (a) determine the category (if any) to which any rating unit or separate rating area belongs for setting a levy; and
   (b) calculate the liability for a levy.
 (2) The sections of the Local Government (Rating) Act 2002 that are set out in subsection (3) apply to the inclusion of that information in the database, except that any reference in—
   (a) section 27(4)﻿(b) to information must be read as referring to the information required by subsection (1)﻿(a) and (b) of this section; and
@@ -675,7 +679,7 @@ The following sections of the Local Government (Rating) Act 2002 apply to levies
   (g) section 36 (notification of change of name).
 
 ### 65 Rates records and objections, etc, to rates records
-(1) The responsible levy authority must include information relating to levy liability in the rates record for each rating unit in the levy area.
+(1) The responsible levy authority must include information relating to levy liability in the rates record for each rating unit and separate rating area in the levy area.
 (2) The sections of the Local Government (Rating) Act 2002 that are set out in subsection (7) apply to that levy-related information (except that, in section 37(3) of that Act, the reference to section 27(4) must be read as a reference to that provision as applied by section 61(2)﻿(a) of this Act).
 (3) A levypayer may object to the levy-related information in a rates record on the ground that it is incorrectly recorded.
 (4) Objections must be lodged with the responsible levy authority.
@@ -715,23 +719,22 @@ The responsible levy authority, whether or not an objection has been made, may c
   (b) on the basis of the following information:
     (i) the annual levy resolution for the levy year:
     (ii) levy-related information in the authority’s rating information database, corrected as at the end of the levy year immediately before the levy year for which the levy is assessed.
-(2) The levy liability of a rating unit is not affected by a change to any factor (listed in Schedule 3 of the Local Government (Rating) Act 2002, as applied by section 33(5) of this Act) in relation to that unit during the levy year for which the levy is assessed.
+(2) The levy liability of a rating unit or separate rating area is not affected by a change to any factor (listed in Schedule 3 of the Local Government (Rating) Act 2002, as applied by section 33(5) of this Act) in relation to the rating unit or separate rating area during the levy year for which the levy is assessed.
 
-### 69 Rating units in common ownership
-The responsible SPV must treat 2 or more rating units as 1 unit for assessing levy if those units are—
-  (a) owned by the same person or persons; and
-  (b) used jointly as a single unit; and
-  (c) contiguous or separated only by a road, railway, drain, water race, river, or stream.
+### 69 When responsible levy authority must treat 2 or more rating units as 1 unit for assessing levy
+The responsible levy authority must treat 2 or more rating units as 1 unit for assessing levy if the rating units are treated as 1 unit under section 20 or 20A of the Local Government (Rating) Act 2002.
 
 ### 70 Levy assessment notified to levypayer
-(1) A responsible levy authority must give to a levypayer in the levy area notice of the levypayer’s liability for a levy on a rating unit—
+(1) A responsible levy authority must give to a levypayer in the levy area notice of the levypayer’s liability for a levy on a rating unit or separate rating area—
   (a) by including it in a rates assessment delivered under section 44 of the Local Government (Rating) Act 2002; or
   (b) by agreement with the responsible SPV, as a separate notice of assessment.
-(2) A levypayer is liable for the levy on a rating unit when the responsible levy authority delivers the notice of levy liability to the levypayer.
+(2) A levypayer is liable for the levy on a rating unit or separate rating area when the responsible levy authority delivers the notice of levy liability to the levypayer.
 
 ### 71 Information in levy assessment
 (1) This section sets out the levy liability information that the responsible levy authority must include in a levy assessment.
-(2) Section 45 (contents of rates assessment) of the Local Government (Rating) Act 2002 applies to a rates assessment that includes levy liability.
+(2) The following sections of the Local Government (Rating) Act 2002 apply to a rates assessment that includes levy liability:
+  (a) section 45 (contents of rates assessment): and
+  (b) section 98C (contents of rates assessment for separate rating area).
 
 ### 72 Levy invoice
 (1) The responsible levy authority must deliver to a levypayer a levy invoice for a period for which levy payment is due, and section 46 (rates invoice) of the Local Government (Rating) Act 2002 applies to the levy invoice.
@@ -746,7 +749,10 @@ The following sections of the Local Government (Rating) Act 2002 apply to a levy
   (a) section 47 (issue of amended rates invoice):
   (b) section 48 (delivery of rates assessment and rates invoice):
   (c) section 49 (late delivery of rates invoice):
-  (d) section 51 (combined rates assessment and rates invoice).
+  (d) section 51 (combined rates assessment and rates invoice):
+  (e) section 98B (apportionment of rates for separate rating areas):
+  (f) section 98D (when separate rating area divided from rating area):
+  (g) section 98E (how separate rating area ceases to be a separate rating area).
 
 **Collection of levy**
 
@@ -776,16 +782,16 @@ The following sections of the Local Government (Rating) Act 2002 apply to a levy
 (6) The responsible levy authority must also publish the policies.
 
 ### 77 Levy remission and levy postponement policies relating to Maori freehold land
-(1) For the purpose of agreeing on the terms of a levy remission policy or a levy postponement policy (or agreeing not to have 1 or either of those policies) in relation to rating units located on Maori freehold land, the responsible SPV and the responsible levy authority must have regard to the matters and objectives set out in Schedule 11 of the Local Government Act 2002, which applies with all necessary modifications.
+(1) For the purpose of agreeing on the terms of a levy remission policy or a levy postponement policy (or agreeing not to have 1 or either of those policies) in relation to rating units or separate rating areas located on Maori freehold land, the responsible SPV and the responsible levy authority must have regard to the matters and objectives set out in Schedule 11 of the Local Government Act 2002, which applies with all necessary modifications.
 (1A) Section 114A of the Local Government (Rating) Act 2002 (remission of rates for Maori freehold land under development) applies to a levy under this Act.
 (1B) However, the responsible levy authority may remit a levy under section 114A of the Local Government (Rating) Act 2002 only with the consent of the responsible SPV.
 (2) In this section, Maori freehold land has the same meaning as in section 11(2).
 
 ### 78 Remission of levy
-(1) The responsible levy authority must remit all or part of the levy on a rating unit in accordance with the levy remission policy agreed under section 76.
+(1) The responsible levy authority must remit all or part of the levy on a rating unit or separate rating area in accordance with the levy remission policy agreed under section 76.
 (2) The authority must give notice to the levypayer identifying the remitted levy.
 (3) The authority must record the remitted levy—
-  (a) on the rates record for the rating unit as paid on the due date; and
+  (a) on the rates record for the rating unit or separate rating area as paid on the due date; and
   (b) in accounting documents as paid by the responsible SPV on behalf of the levypayer in accordance with the relevant objective in the remission policy.
 
 ### 79 Postponement of requirement to pay levy
@@ -798,6 +804,22 @@ The following sections of the Local Government (Rating) Act 2002 apply to a levy
   (a) section 88 (postponement fee may be added to postponed rates):
   (b) section 89 (recording postponed rates):
   (c) section 90 (postponed rates may be registered as charge on rating unit), except that section 90(3)﻿(a) applies as if it referred to the chief executive or other authorised officer of the responsible SPV.
+
+**Write-off of levy**
+
+### 79A Write-off of levy
+(1) This section applies if—
+  (a) there is an unpaid levy under this Act in respect of a rating unit or separate rating area; and
+  (b) the chief executive of the responsible levy authority intends to write off rates in respect of that unit or separate rating area under section 90A or 90B of the Local Government (Rating) Act 2002.
+(2) The responsible levy authority must notify the responsible SPV—
+  (a) that the chief executive will write off the rates; and
+  (b) whether the chief executive is doing so on an application under section 90A(2)﻿(b) of the Local Government (Rating) Act 2002.
+(3) On receiving the notice, the responsible SPV may write off any unpaid levy—
+  (a) that the responsible SPV considers cannot reasonably be recovered; or
+  (b) to which section 90B(1)﻿(a) and (b) of the Local Government (Rating) Act 2002 applies.
+(4) The responsible SPV must—
+  (a) notify a levypayer of any write-off of the levypayer’s levy under this section; and
+  (b) within 30 days of receiving a notice under subsection (2)﻿(b) that the chief executive will write off rates on the application of a ratepayer under section 90A(2)﻿(b), provide written reasons to the levypayer for the decision to write off, or not to write off, the levypayer’s levy.
 
 **Recovery of unpaid levy**
 
@@ -883,7 +905,7 @@ A responsible SPV may apply levy revenue only to pay eligible costs authorised b
 ### 91 Excess levy at end of levy period
 (1) A responsible SPV must pay any excess levy to the responsible levy authority.
 (2) If the total amount of excess levy is equal to or greater than the excess levy threshold under section 92 at the end of the levy period, the responsible levy authority must—
-  (a) credit the rates record of each affected rating unit with the amount that reflects the amount of excess levy; and
+  (a) credit the rates record of each affected rating unit or separate rating area with the amount that reflects the amount of excess levy; and
   (b) in apportioning the amount to be credited to rates records, apply the same method as was most recently used to assess levypayers’ levy liability under the levy order.
 (3) If the total amount of excess levy is less than the excess levy threshold under section 92, the responsible levy authority may retain the excess levy.
 
@@ -915,18 +937,18 @@ A responsible SPV may apply levy revenue only to pay eligible costs authorised b
 (2) The list of previous contributions must, so far as information available to the responsible levy authority allows,—
   (a) identify the eligible infrastructure to which contributions relate; and
   (b) identify amounts or proportions of each contribution that relate to eligible infrastructure and other infrastructure; and
-  (c) identify amounts or proportions of each contribution that relate to specific rating units.
+  (c) identify amounts or proportions of each contribution that relate to specific rating units or separate rating areas.
 
 ### 96 Responsible SPV may direct responsible levy authority to transfer previous contributions and remit levies
 (1) The responsible SPV may, by written notice sent within 60 days after receiving a list of previous contributions, direct the responsible levy authority—
   (a) to transfer the total amount of previous contributions to the responsible SPV as a contribution to the construction costs of eligible infrastructure; and
-  (b) to remit some or all of the levies on a rating unit so that the levy payable (if any) is the proportion of levy, calculated in accordance with the formula in subsection (3), that remains payable after taking account of those previous contributions.
+  (b) to remit some or all of the levies on a rating unit or separate rating area so that the levy payable (if any) is the proportion of levy, calculated in accordance with the formula in subsection (3), that remains payable after taking account of those previous contributions.
 (2) The responsible levy authority must comply with those directions, and sections 85(2) and 86 of the Local Government (Rating) Act 2002 apply to the remission of the levy.
 (3) The proportion of levy for the purposes of subsection (1)﻿(b) is calculated in accordance with the following formula:p = (a – b)/(c – d)where—pis the proportion of the levy that is payableais the expected costs of construction of eligible infrastructure to which previous contributions do not relatebis the amount of all capital contributions to factor ‘a’ from sources other than the responsible SPVcis the expected costs of construction of the eligible infrastructuredis the amount of all capital contributions to factor ‘c’ from sources other than the responsible SPV, including previous contributions transferred to the responsible SPV in accordance with a direction under subsection (1)﻿(a).
 (4) In this section, costs of construction, in relation to eligible infrastructure, means the costs of the construction of that infrastructure that are set out in section 9(3).
 
 ### 97 Responsible levy authority must refund or return previous contributions if no direction
-If the responsible SPV does not make a direction under section 96, the responsible levy authority must refund or return the amount of the previous contribution identified in respect of each rating unit in the list of previous contributions to the current ratepayer for that rating unit.
+If the responsible SPV does not make a direction under section 96, the responsible levy authority must refund or return the amount of the previous contribution identified in respect of each rating unit or separate rating area in the list of previous contributions to the current ratepayer for that rating unit or separate rating area.
 
 ### 98 Sections 209 and 210 of Local Government Act 2002 do not apply to those previous contributions
 Sections 209 and 210 of the Local Government Act 2002 do not apply to previous contributions—
