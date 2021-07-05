@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2021-06-17_
+_Consolidation as at 2021-07-05_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -66,6 +66,7 @@ This Act is the Overseas Investment Act 2005.
   - **court** means the High Court
   - **critical direct supplier** means a person who has been notified by the Minister of their status as a critical direct supplier under section 20D
   - **direction order** means an order made under section 88
+  - **director** , in the case of a limited partnership, includes any general partner
   - **disposal order** means an order made under section 93
   - **district valuation roll** means the roll that each territorial authority must prepare and maintain under section 7 of the Rating Valuations Act 1998 for its own district in accordance with rules made under that Act
   - **document** means any record of information; and includes—
@@ -76,14 +77,14 @@ This Act is the Overseas Investment Act 2005.
   - **estate or interest** has the meaning set out in section 5(1) of the Land Transfer Act 2017
   - **excluded accommodation facility** means—
     (a) a hospital; or
-    (b) any premises used, or intended to be used, in the course of business principally for providing temporary lodging to the public; or
+    (b) any TLtP premises as defined in clause 5 of Schedule 3 (which relates to premises used, or intended to be used, in the course of business principally for providing temporary lodging to the public); or
     (c) a camping ground; or
     (d) any facility within a class set out in regulations as a class of facility to be treated as an additional excluded accommodation facility in this Act
   - **exempted interest** means—
     (a) an easement; or
     (b) a profit à prendre that is not a regulated profit à prendre
   - **exemption certificate** means a certificate granted under clause 4 of Schedule 3 (dwellings in large apartment developments that are purchased off-the-plans)
-  - **farm land** means land (other than residential (but not otherwise sensitive) land) used exclusively or principally for agricultural, horticultural, or pastoral purposes, or for the keeping of bees, poultry, or livestock
+  - **farm land** means land (other than residential (but not otherwise sensitive) land) used exclusively or principally for agricultural, horticultural, or pastoral purposes, or for the keeping of bees, poultry, or livestock (which, to avoid doubt, do not include forestry activities within the meaning of section 16A(9))
   - **fishing quota decision** means a decision under sections 56 to 58B of the Fisheries Act 1996 on whether or not to consent to an overseas investment in fishing quota
   - **foreshore, seabed** has the same meaning as marine and coastal area
   - **forestry right** means—
@@ -91,6 +92,8 @@ This Act is the Overseas Investment Act 2005.
     (b) any other profit à prendre that—
       (i) relates to taking timber from a forest; and
       (ii) to the extent (if any) that the profit à prendre relates to other things, would, were the profit à prendre to be treated as a separate profit à prendre in relation to those things, fall within paragraph (b) of the definition of regulated profit à prendre in this subsection
+  - **fresh or seawater area** has the meaning set out in clause 2 of Schedule 5
+  - **fresh or seawater interest** has the meaning set out in clause 2 of Schedule 5
   - **give effect to a call-in transaction** —
     (a) means to acquire or dispose of any property under a call-in transaction; but
     (b) excludes an acquisition or disposition that is conditional on a direction order being made
@@ -101,23 +104,12 @@ This Act is the Overseas Investment Act 2005.
     (a) in relation to a body corporate, the board of directors (or other persons or body exercising powers of management, however described) of the body corporate:
     (b) in relation to a trust, the trustees:
     (c) in relation to a unit trust, the manager and trustee:
-    (d) in relation to a partnership, unincorporated joint venture, or other unincorporated body of persons, either—
+    (ca) in relation to a limited partnership, the general partner or partners:
+    (d) in relation to any other partnership, an unincorporated joint venture, or other unincorporated body of persons, either—
       (i) the board of directors (or other persons or body exercising powers of management, however described) of the partnership, unincorporated joint venture, or other unincorporated body of persons; or
       (ii) if there is no board or other persons or body as described in subparagraph (i), the partners of the partnership or members of the unincorporated joint venture or other unincorporated body of persons
   - **guidelines** means guidelines issued by the regulator under section 36
-  - **historic heritage** —
-    (a) means those natural and physical resources that contribute to an understanding and appreciation of New Zealand's history and cultures, deriving from any of the following qualities:
-      (i) archaeological:
-      (ii) architectural:
-      (iii) cultural:
-      (iv) historic:
-      (v) scientific:
-      (vi) technological; and
-    (b) includes—
-      (i) historic sites, structures, places, and areas; and
-      (ii) archaeological sites; and
-      (iii) sites of significance to Maori, including wahi tapu; and
-      (iv) surroundings associated with the natural and physical resources
+  - **historic heritage** has the meaning set out in section 2(1) of the Resource Management Act 1991
   - **incidental residential use test** means the test set out in clause 14 of Schedule 2
   - **increased housing test** means the test set out in clause 11 of Schedule 2
   - **individuals with control of the relevant overseas person** has the meaning set out in section 15
@@ -130,6 +122,7 @@ This Act is the Overseas Investment Act 2005.
   - **investor test** means the test set out in section 18A
   - **investor test factors** means the factors set out in section 18A(4)
   - **involved** , in relation to a contravention, an offence, or a failure to comply, has the meaning set out in subsection (7)
+  - **kaitiakitanga** has the meaning set out in section 2(1) of the Resource Management Act 1991
   - **lake** means a lake (as defined in section 2(1) of the Resource Management Act 1991) that has a bed that exceeds 8 hectares in area
   - **land decision** means a decision under this Act on whether or not to consent to an overseas investment in sensitive land
   - **LINZ** means Land Information New Zealand
@@ -153,7 +146,8 @@ This Act is the Overseas Investment Act 2005.
   - **more than 25% ownership or control interest** has the meaning set out in subsection (4)
   - **more than 25% subsidiary** has the meaning set out in subsection (5)
   - **natural and physical resources** has the meaning set out in section 2(1) of the Resource Management Act 1991
-  - **New Zealand listed issuer** means a listed issuer that is incorporated in New Zealand
+  - **natural environment** includes land, water, air, soil, all forms of plants and animals (whether native to New Zealand or introduced), and ecosystems and their constituent parts
+  - **New Zealand listed issuer** means a listed issuer that is incorporated in New Zealand or, in the case of a managed investment scheme, established under New Zealand law
   - **non-occupation outcome** has the meaning set out in clause 17 of Schedule 2
   - **non-NZ government investor** means—
     (a) the government, or any part of the government (including regional or local government), of—
@@ -191,7 +185,12 @@ This Act is the Overseas Investment Act 2005.
   - **regulator** has the meaning set out in section 30
   - **relevant government enterprise** means—
     (a) a body corporate (W), if a relevant government investor or investors have, directly or indirectly, a more than 25% ownership or control interest in W; or
-    (b) a partnership, an unincorporated joint venture, or any other unincorporated body of persons (Z) (other than a trust or unit trust or managed investment scheme) if—
+    (aa) a limited partnership (LP), if—
+      (i) a general partner of LP is a relevant government investor; or
+      (ii) more than 25% of the persons having the right to control the composition of the governing body of LP are relevant government investors; or
+      (iii) more than 25% of the partnership interests (as defined in the Limited Partnerships Act 2008) of the partners of LP are held by relevant government investors; or
+      (iv) a relevant government investor or investors have the right to exercise or control the exercise of more than 25% of the voting power at a meeting of the partners of LP; or
+    (b) any other partnership, an unincorporated joint venture, or any other unincorporated body of persons (Z) (other than a trust or unit trust or managed investment scheme) if—
       (i) more than 25% of Z’s partners or members are relevant government investors; or
       (ii) 1 or more relevant government investors have a beneficial interest in or entitlement to more than 25% of Z’s profits or assets (including on Z’s winding up); or
       (iii) 1 or more relevant government investors have the right to exercise, or to control the exercise of, more than 25% of the voting power at a meeting of Z; or
@@ -231,6 +230,7 @@ This Act is the Overseas Investment Act 2005.
   - **risk management action** means the making of a direction order, prohibition order, disposal order, or recommendation under section 96 that a person be put into statutory management
   - **river** means a river (as defined in section 2(1) of the Resource Management Act 1991) that has a bed of an average width, for its length on or adjoining the relevant land, of 3 metres or more
   - **section 12 interest** has the meaning set out in section 12
+  - **securities of the same class** means securities that have attached to them identical rights, privileges, limitations, and conditions, and securities of a has a corresponding meaning
   - **security** —
     (a) means any interest or right to participate in any capital, assets, earnings, royalties, or other property of any person; and
     (b) includes specifically—
@@ -297,10 +297,10 @@ This Act is the Overseas Investment Act 2005.
       (B) is residing in New Zealand with the intention of residing there indefinitely, and has done for the immediately preceding 12 months (see subsection (3)).
 (2A) In subsection (2)﻿(a)﻿(iii), tax resident in New Zealand means a person who is a New Zealand resident under section YD 1(3) of the Income Tax Act 2007, where the reference in section YD 1(3) to a 12-month period is treated as the immediately preceding 12 months (disregarding the rules in section YD 1(4) to (6) of that Act).
 (3) Absence from New Zealand for no more than 183 days in aggregate in the last 12 months (counting presence in New Zealand for part of a day as presence for a whole day) does not prevent a person from satisfying the requirement for residing in New Zealand for the last 12 months under subsection (2)﻿(b)﻿(ii)﻿(B).
-(4) In this Act, a person (A) has a more than 25% ownership or control interest in another person (B) if A has—
+(4) In this Act, a person (A) has a more than 25% ownership or control interest in another person (B) if A has—and references to other ownership or control interests (for example, of 10% or more) have a corresponding meaning.
   (a) a beneficial entitlement to, or a beneficial interest in, more than 25% of B's securities; or
   (b) the power to control the composition of more than 25% of the governing body of B; or
-  (c) the right to exercise or control the exercise of more than 25% of the voting power at a meeting of B.
+  (c) the right to exercise or control the exercise of more than 25% of the voting power at a meeting of B,—
 (5) In this Act, a body corporate (B) is a more than 25% subsidiary of another body corporate (A) if—
   (a) B is a subsidiary of A under sections 5 to 7 of the Companies Act 1993; or
   (b) A controls the composition of more than 25% of the governing body of B; or
@@ -313,28 +313,63 @@ This Act is the Overseas Investment Act 2005.
   (d) has conspired with others to effect the contravention, the commission of the offence, or the failure.
 (8) Subsection (7) does not apply to proceedings for offences (but see Part 4 of the Crimes Act 1961, which relates to parties to the commission of offences).
 (9) In sections 13(1)﻿(c) and 82, references to an acquisition of property do not include the making of a loan or subscription for an interest or right that is solely an interest in or right to be paid money that is, or is to be, deposited with, lent to, or otherwise owing by, any person (provided that the loan, interest, or right is not convertible into a security within paragraphs (a) to (d) of the definition of security in section 6(1)).
+(10) A person has disproportionate access to or control of a strategically important business (A) if the person has 1 or more of the following:
+  (a) access to—
+    (i) information that would not otherwise be available to the person, but that is information that is material to an assessment of the value of shares or other financial products issued by A or a related company; or
+    (ii) sensitive information held by A or its subsidiaries:
+  (b) membership or observer rights on the governing body of A:
+  (c) any involvement, other than through the voting of securities, in the substantive decision-making of A regarding—
+    (i) research, development, production, or maintenance of military or dual-use technology or sensitive information; or
+    (ii) the use of, or access to, the assets of A; or
+    (iii) the supply of goods or services to an intelligence or security agency.
 
 ### 7 Who are overseas persons
-(1) The purpose of this definition is to provide that persons are overseas persons if they themselves are overseas persons (for example, not a New Zealand citizen or ordinarily resident in New Zealand or, for companies, incorporated overseas) or they are more than 25% owned or controlled by an overseas person or persons.
+(1)
 (2) In this Act, overseas person means—
   (a) an individual who is neither a New Zealand citizen nor ordinarily resident in New Zealand; or
   (b) a body corporate that is incorporated outside New Zealand or is a more than 25% subsidiary of a body corporate incorporated outside New Zealand; or
-  (c) a body corporate (A) if an overseas person or persons have—
-    (i) more than 25% of any class of A's securities; or
-    (ii) the power to control the composition of more than 25% of A's governing body; or
+  (c) a body corporate—
+    (i) that is a New Zealand listed issuer; and
+    (ii) that meets the ownership test in subsection (3)﻿(a), or the control test in subsection (3)﻿(b), or both; or
+  (d) a body corporate (A) (other than a New Zealand listed issuer) if an overseas person or persons have—
+    (i) more than 25% of any class of A’s securities; or
+    (ii) the power to control the composition of more than 25% of A’s governing body; or
     (iii) the right to exercise or control the exercise of more than 25% of the voting power at a meeting of A; or
-  (d) a partnership, unincorporated joint venture, or other unincorporated body of persons (other than a trust or unit trust) (A) if—
-    (i) more than 25% of A's partners or members are overseas persons; or
-    (ii) an overseas person or persons have a beneficial interest in or entitlement to more than 25% of A's profits or assets (including on A's winding up); or
+  (e) a partnership, unincorporated joint venture, or other unincorporated body of persons (other than a trust or unit trust or managed investment scheme or limited partnership) (A) if—
+    (i) more than 25% of A’s partners or members are overseas persons; or
+    (ii) an overseas person or persons have a beneficial interest in or entitlement to more than 25% of A’s profits or assets (including on A’s winding up); or
     (iii) an overseas person or persons have the right to exercise or control the exercise of more than 25% of the voting power at a meeting of A; or
-  (e) a trust (A) if—
-    (i) more than 25% of A's governing body are overseas persons; or
-    (ii) an overseas person or persons have a beneficial interest in or entitlement to more than 25% of A's trust property; or
-    (iii) more than 25% of the persons having the right to amend or control the amendment of A's trust deed are overseas persons; or
-    (iv) more than 25% of the persons having the right to control the composition of A's governing body are overseas persons; or
-  (f) a unit trust (A) if—
+  (f) a trust (A) (other than a managed investment scheme) if—
+    (i) more than 25% of A’s governing body are overseas persons; or
+    (ii) an overseas person or persons have a beneficial interest in or entitlement to more than 25% of A’s trust property; or
+    (iii) more than 25% of the persons having the right to amend or control the amendment of A’s trust deed are overseas persons; or
+    (iv) more than 25% of the persons having the right to control the composition of A’s governing body are overseas persons; or
+  (g) a unit trust (A) (other than a managed investment scheme) if—
     (i) the manager or trustee, or both, are overseas persons; or
-    (ii) an overseas person or persons have a beneficial interest in or entitlement to more than 25% of A's trust property.
+    (ii) an overseas person or persons have a beneficial interest in or entitlement to more than 25% of A’s trust property; or
+  (h) a managed investment scheme—
+    (i) that is a New Zealand listed issuer; and
+    (ii) that meets the ownership test in subsection (4)﻿(a), or the control test in subsection (4)﻿(b), or both; or
+  (i) a managed investment scheme (other than a New Zealand listed issuer) if—
+    (i) the manager or the trustee (as the case may be) is an overseas person; or
+    (ii) more than 25% of the value of the investment products in the managed investment scheme is invested on behalf of overseas persons; or
+  (j) an overseas limited partnership within the meaning set out in section 4 of the Limited Partnerships Act 2008; or
+  (k) any other limited partnership registered under the Limited Partnerships Act 2008 (A) if—
+    (i) a general partner of A is an overseas person; or
+    (ii) more than 25% of the persons having the right to control the composition of the governing body of A are overseas persons; or
+    (iii) more than 25% of the partnership interests (as defined in that Act) of the partners of A are held by overseas persons; or
+    (iv) an overseas person or persons have the right to exercise or control the exercise of more than 25% of the voting power at a meeting of the partners of A.
+(3) For the purpose of applying subsection (2)﻿(c)﻿(ii) to a New Zealand listed issuer that is a body corporate (A),—
+  (a) the ownership test is that an overseas person has, or 2 or more overseas persons cumulatively have, a beneficial entitlement to, or a beneficial interest in, 50% or more of A’s securities:
+  (b) the control test is that—
+    (i) at least 1 overseas person (alone or together with its associates) has a beneficial entitlement to, or a beneficial interest in, 10% or more of any class of A’s securities that confer control rights; and
+    (ii) when the interests of each overseas person to which subparagraph (i) applies are added together, those overseas persons cumulatively have the right to—
+      (A) control the composition of 50% or more of A’s governing body; or
+      (B) exercise or control the exercise of more than 25% of the voting power at a meeting of A.
+(4) For the purpose of applying subsection (2)﻿(h)﻿(ii) to a New Zealand listed issuer that is a managed investment scheme (A),—
+  (a) the ownership test is that 50% or more of the value of the managed investment products in A is invested on behalf of overseas persons:
+  (b) the control test is that more than 25% of the managed investment products in A that entitle holders to vote are beneficially owned by or on behalf of overseas persons who each beneficially own 10% or more of those products (alone or together with their associates).
+(5) Terms used in subsections (2)﻿(i) and (4) have the same meanings as in the Financial Markets Conduct Act 2013 unless otherwise defined in this Act.
 
 ### 8 Meaning of associate and associated land
 (1) In this Act, a person (A) is an associate of another person (B) in relation to an overseas investment or any other matter if—
@@ -390,19 +425,32 @@ This Act binds the Crown.
 **What are overseas investments in sensitive New Zealand assets**
 
 ### 12 What are overseas investments in sensitive land
-An overseas investment in sensitive land is the acquisition by an overseas person, or an associate of an overseas person, of all or any of the following (a section 12 interest):
+(1) An overseas investment in sensitive land is the acquisition by an overseas person, or an associate of an overseas person, of all or any of the following (a section 12 interest):
   (a) an estate or interest in land if—
     (i) the land that the estate or interest relates to is sensitive land under Part 1 of Schedule 1; and
-    (ii) the estate or interest acquired is a freehold estate or a lease, or any other estate or interest, for a term of 3 years or more (including rights of renewal, whether of the grantor or grantee), and is not an exempted interest; or
+    (ii) the estate or interest acquired is—
+      (A) a freehold estate; or
+      (B) if the land that the interest relates to is residential land, any interest in land (other than an exempted interest) for a total term (as calculated in accordance with Schedule 1A) of 3 years or more; or
+      (C) if the land that the interest relates to is sensitive (but not residential) land, any interest in land (other than an exempted interest) for a total term (as calculated in accordance with Schedule 1A) of 10 years or more:
   (b) rights or interests in securities of a person (A) if A owns or controls (directly or indirectly) an estate or interest in land described in paragraph (a) and, as a result of the acquisition,—
     (i) the overseas person or the associate (either alone or together with its associates) has a more than 25% ownership or control interest in A; or
-    (ii) the overseas person or the associate (either alone or together with its associates) has an increase in an existing more than 25% ownership or control interest in A; or
-    (iii) A becomes an overseas person.
+    (ii) the overseas person or the associate (either alone or together with its associates) has an increase in an existing more than 25% ownership or control interest in A that—
+      (A) results in an ownership or control interest in A that equals or exceeds their ownership or control interest limit as set out in subsection (2); or
+      (B) is in securities of A of a different class to the class in which their existing interest is held; or
+      (C) gives the overseas person or the associate (either alone or together with its associates) any or more disproportionate access to or control of a strategically important business; or
+    (iii) A becomes an overseas person in any of the following circumstances:
+      (A) A is a body corporate that is a New Zealand listed issuer and meets the control test in section 7(3)﻿(b):
+      (B) A is a managed investment scheme that is a New Zealand listed issuer and meets the control test in section 7(4)﻿(b):
+      (C) A is not a New Zealand listed issuer.
+(2) The ownership or control interest limits are as follows:
+  (a) if their existing ownership or control interest in A amounts to more than 25% but less than 50%, their ownership or control interest limit is 50%:
+  (b) if their existing ownership or control interest in A amounts to 50% or more but less than 75%, their ownership or control interest limit is 75%:
+  (c) if their existing ownership or control interest in A amounts to 75% or more, their ownership or control interest limit is 100%.
 
 ### 13 What are overseas investments in significant business assets
 (1) An overseas investment in significant business assets is—
   (a) the acquisition by an overseas person, or an associate of an overseas person, of rights or interests in securities of a person (A) if—
-    (i) as a result of the acquisition, the overseas person or the associate (either alone or together with its associates) has a more than 25% ownership or control interest in A or an increase in an existing more than 25% ownership or control interest in A; and
+    (i) as a result of the acquisition, the overseas person or the associate (either alone or together with its associates) has a more than 25% ownership or control interest in A or an increase in an existing more than 25% ownership or control interest in A of a type referred to in section 12(1)﻿(b)﻿(ii); and
     (ii) the value of the securities or consideration provided, or the value of the assets of A or A and its more than 25% subsidiaries, exceeds $100 million or an alternative monetary threshold that applies in accordance with regulations made under section 61A; or
   (b) the establishment by an overseas person, or an associate of an overseas person, of a business in New Zealand (either alone or with any other person) if—
     (i) the business is carried on for more than 90 days in any year (whether consecutively or in aggregate); and
@@ -616,13 +664,26 @@ Section 16(1)﻿(f) does not apply to an overseas investment if—
 Transactions involving non-NZ government investors or SIB
 (1) The following kinds of overseas investment transactions are transactions of national interest:Investment by non-NZ government investorsInvestment in strategically important businesses
   (a) a transaction of a kind described in section 12(a) or 13(1)﻿(c) of this Act, or in section 57D(a) of the Fisheries Act 1996, where, as a result of the acquisition, the relevant estate or interest in land, property, or fishing quota is acquired by a non-NZ government investor:
-  (b) a transaction of a kind described in section 12(b)﻿(i) or (ii) or 13(1)﻿(a) of this Act, or in section 57D(b) of the Fisheries Act 1996, where, as a result of the acquisition, a non-NZ government investor has 10% or more ownership or control interest in A:
+  (b) a transaction of a kind described in section 12(b)﻿(i) or (ii) or 13(1)﻿(a) of this Act, or in section 57D(b) of the Fisheries Act 1996, where, as a result of the acquisition, a non-NZ government investor has more than 25% ownership or control interest in A:
   (c) a transaction of a kind described in section 12(a) where the estate or interest in land is used in carrying on a SIB:
   (d) a transaction of a kind described in section 12(b)﻿(i) or (ii) or 13(1)﻿(a) where A is carrying on a SIB:
-  (e) a transaction of a kind described in section 13(1)﻿(c) where the business is or includes a SIB.
+  (e) a transaction of a kind described in section 13(1)﻿(c) where the acquisition is of or includes property (including goodwill and other intangible assets) in New Zealand used in carrying on a SIB.
+(1A) However, for the purpose of subsection (1)﻿(a) and (b), references to a relevant government investor or investors in the definition of relevant government enterprise in section 6(1) include only relevant government investors from the same country.ExampleAn acquisition by a company of which a New South Wales Government pension fund owns 15% and a Victorian Government pension fund owns 15% is a transaction of national interest (because Australia is the single country). But an acquisition by a company of which a New South Wales Government pension fund owns 15% and a Belgian Government pension fund owns 15% is not a transaction of national interest.
 (2) The Minister must notify an applicant if the Minister considers that an application for consent involves a transaction of the kind set out in subsection (1), unless the applicant has already identified this in their application.
 (3) However, failure to notify an applicant does not affect a transaction’s status as a transaction of national interest and does not invalidate any action taken by the Minister in reliance on a transaction’s status as a transaction of national interest.
 (4) This section is subject to any regulations made under section 127(1).
+
+### 20AA Exemptions from definition
+(1) The purpose of this section is to allow for exemptions for transactions that are transactions of national interest only because the relevant estate or interest in land, property, or fishing quota is acquired by a relevant government enterprise, provided there are appropriate limitations on the extent to which government control or influence could affect the pursuit of non-commercial objectives.
+(2) The Minister may exempt any relevant government enterprise from the definition of non-NZ government investor in section 6(1) for the purpose of section 20A(1)﻿(a) or (b) if the Minister considers—
+  (a) that the enterprise meets the criteria relating to control or influence that are prescribed in the regulations; and
+  (b) that there are circumstances that mean that it is necessary, appropriate, or desirable to provide an exemption; and
+  (c) that the extent of the exemption is not broader than is reasonably necessary.
+(3) An application for an exemption may be made at any time by written notice to the regulator accompanied by the fee required by regulations.
+(4) The Minister must publish each exemption granted under this section on an Internet site maintained by, or on behalf of, the regulator, together with the reasons of the Minister for granting the exemption.
+(5) However, publication may be deferred or dispensed with (in whole or in part) if the Minister is satisfied on reasonable grounds that good reason for withholding the exemption or the reasons (as the case may be) would exist under the Official Information Act 1982.
+(6) An exemption may be made subject to any conditions.
+(7) An exemption under this section may continue in force for not more than 5 years (and at the close of the date that is 5 years after the exemption first comes into force, the exemption must be treated as having been revoked unless it sooner is revoked or expires).
 
 ### 20B Other transactions may be transactions of national interest if notice given
 (1) If the Minister considers that any other overseas investment transaction for which an application for consent has been made could be contrary to New Zealand’s national interest, the Minister may notify the applicant in writing that the transaction is a transaction of national interest.
@@ -631,6 +692,7 @@ Transactions involving non-NZ government investors or SIB
 ### 20C Consent may be declined if transaction contrary to national interest
 (1) The Minister may decline consent to a transaction of national interest if the Minister considers that the transaction is contrary to New Zealand’s national interest.
 (2) The person making a decision under section 24 in relation to a particular application cannot exercise the Minister’s power under subsection (1) in relation to that application.
+(3) If the Minister does not decline consent to a transaction of national interest, the Minister may impose any conditions on any consent that may be granted under this Act, and section 25A applies with necessary modifications.
 
 ### 20D Who are critical direct suppliers
 (1) The Minister may identify a person as a critical direct supplier if the Minister is satisfied that—
@@ -717,6 +779,7 @@ An application for consent must be made in accordance with this Act and regulati
   (a) that have not been entered into at the time when the application is made and when the standing consent is granted; and
   (b) that fall within a class of transactions described in the application.
 (2) A standing consent is a consent to give effect to an overseas investment under a transaction for the purposes of section 10(1)﻿(a), subject to Schedule 4.
+(3) However, a standing consent is not a consent to give effect to an overseas investment under a transaction of a type referred to in section 20A(1)﻿(c) or (d).
 
 ### 24 Who decides application
 (1) An application must be decided,—
@@ -738,7 +801,7 @@ An application for consent must be made in accordance with this Act and regulati
 (2) A transaction may not be cancelled under section 29(1)﻿(c) if it has been granted retrospective consent.
 
 ### 25A Conditions of consent
-(1) A consent granted under this Act may, in addition to the automatic conditions in sections 25B and 25C and any conditions that this Act requires be imposed on the consent, be made subject to such other conditions (if any) that the relevant Minister or Ministers think appropriate.
+(1) A consent granted under this Act may, in addition to the automatic conditions in sections 25B, 25C, and 25D and any conditions that this Act requires be imposed on the consent, be made subject to such other conditions (if any) that the relevant Minister or Ministers think appropriate.
 (2) Nothing in this Act limits the discretion of the relevant Minister or Ministers under subsection (1). For example, conditions of a consent may—
   (a) expand on, or be similar to, conditions that this Act requires be imposed on the consent (if any):
   (b) expand on, be similar to, or be the same as conditions that this Act requires be imposed on other consents:
@@ -771,7 +834,7 @@ The Minister may revoke a consent for an overseas investment transaction before 
   (a) must consider the application in accordance with section 14; and
   (b) may grant the new consent if satisfied that all of the applicable criteria are met.
 (5) Despite subsection (3), if the application asks for the benefit to New Zealand test to be applied to any overseas investment, the relevant Ministers may—
-  (a) assess the benefit to New Zealand (or any part of it or group of New Zealanders) by comparing the expected result of the overseas investment from the date on which the overseas investment was actually given effect to:
+  (a) assess the benefit to New Zealand (or any part of it or group of New Zealanders) by comparing the likely result of the overseas investment from the date on which the overseas investment was actually given effect to:
   (b) otherwise apply (wholly or partly) any provision of sections 16A to 16C as they would have done had they been considering the application at the time of the original application for consent for the transaction.
 (6) If the relevant Ministers grant the new consent, the new consent (including its conditions) replaces the previous consent (including its conditions) with effect from the start of—
   (a) the date referred to in subsection (3); or
@@ -790,6 +853,21 @@ The Minister may revoke a consent for an overseas investment transaction before 
 (2) On cancellation under this section,—
   (a) the court has the same powers as it has under sections 43 to 48 of the Contract and Commercial Law Act 2017; and
   (b) if the court orders the cancellation on the regulator's application, the court may also make any other order necessary to give effect to the cancellation.
+
+### 29A Investor test applications where no change since investor test last met
+(1) A person (A) may apply at any time for an assessment of whether the person meets the investor test, in which case the Minister must determine the matter in accordance with section 18A(3) to (5).
+(2) Subsections (3) and (4) apply if the investor test has to be met in respect of a particular overseas investment (a new investment) and a person (A) is a person who previously met the investor test.
+(3) In that case, the investor test is met, to the extent that it applies to A, if the relevant Ministers are satisfied, in respect of A, that—
+  (a) there has been no change in the extent to which the investor test factors are established; or
+  (b) any change in the extent to which the investor test factors are established does not make A unsuitable to own or control any sensitive New Zealand assets.
+(4) The statutory declaration required to accompany the application must include verification as to whether there has been any change in the extent to which the investor test factors are established since the information previously provided to the regulator about those factors.
+(5) However, if A has ever been the investor (or one of the investors) referred to in section 18A(2) in respect of a transaction of national interest for which consent was declined for reasons connected to A under section 20C, then—
+  (a) subsection (1) does not apply; and
+  (b) subsection (3) does not apply unless A has met the investor test since that consent was declined.
+(6) Section 23 applies with necessary modifications to an application for an assessment of whether a person meets the investor test.
+(7) A single application may relate to all or any of the following applicants:
+  (a) 1 or more persons who together are contemplating an overseas investment transaction (or a series of related or linked transactions); and
+  (b) 1 or more persons who would be associates of the persons in paragraph (a) in relation to those transactions, if they went ahead.
 
 ### Subpart 3 — Administration
 
@@ -847,7 +925,7 @@ The regulator's functions are to—
   (b) the asset types, value thresholds, and area thresholds over which the regulator has power to make decisions:
   (ba) conditions of consents or direction orders, including conditions that this Act requires be imposed:
   (c) the level of monitoring required in relation to conditions of consent:
-  (d) the criteria for including reserves, public parks, or other sensitive areas on the list kept by the regulator under section 37:
+  (d)
   (e) any general or specific matter relating to the regulator's functions, powers, or duties.
 
 ### 35 Ministerial directive letter must be published, etc
@@ -865,17 +943,10 @@ Each Ministerial directive letter must be published in the Gazette and presented
 (2) The regulator must not issue a guideline unless it has first been approved by the Minister.
 
 ### 37 Regulator must keep list of reserves, parks, and other sensitive areas
-(1) The regulator must—
-  (a) compile and keep a list of reserves and public parks, and other areas described in subsection (2), for which the adjoining land is sensitive under table 2 in Part 1 of Schedule 1; and
-  (b) publish that list on a website maintained by or for the regulator.
-(2) Other areas of land may be included in the list only if they are held under statute and have a primary purpose, by or under statute, relating to—
-  (a) protecting natural and physical resources or historic heritage; or
-  (b) providing public access to natural and physical resources or historic heritage.
-(3) The list may set out the reserves, public parks, and other areas specifically or by class.
-(4) The regulator may amend that list.
+[Repealed]
 
 ### 37A Regulator must publish list of sensitive adjoining land relating to collective group of Māori
-(1) This section applies for the purposes of the standing consent in Part 4 of Schedule 1AA and of Schedule 1 (after Schedule 1 is amended by the Overseas Investment Amendment Act (No 3) 2020).
+(1)
 (2) The regulator must—
   (a) compile and keep a list of land and reserves for which the adjoining land is sensitive under rows 10 and 11 of table 2 in Part 1 of Schedule 1; and
   (b) publish that list on an Internet site maintained by or for the regulator.
@@ -896,6 +967,19 @@ Each Ministerial directive letter must be published in the Gazette and presented
   (a) comply with the regulator’s notice within the time, and in the manner, specified in it; and
   (b) certify that the information provided to the regulator, including information contained in any documents provided, is correct.
 (3) The regulator may retain or copy any information or document that is provided under this section.
+
+### 38A Information for tax purposes
+(1) The purpose of this section is to enable the making of regulations to impose requirements under which overseas persons who make, or apply to make, an overseas investment in sensitive New Zealand assets must provide information that the Commissioner of Inland Revenue considers necessary or relevant for any purpose relating to—
+  (a) the administration or enforcement of an Inland Revenue Act (within the meaning of the Income Tax Act 2007):
+  (b) the administration or enforcement of any matter arising from, or connected with, a function lawfully conferred on the Commissioner.
+(2) For the purpose of this section, the Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that impose requirements on all or any persons who make, or apply to make, an overseas investment in sensitive assets, including prescribing all or any of the following:
+  (a) overseas investments to which all or any requirements apply (for example, by reference to a type of investment, a pathway, or a type of land):
+  (b) what information or other evidence or documents must be provided:
+  (c) by whom, when, where, and how the information must be provided:
+  (d) to whom the information must be provided:
+  (e) the form that must be used:
+  (f) requirements with which information, evidence, or documents that are provided must comply.
+(3) The Commissioner may treat information obtained under this section as information obtained for the purposes of administering the Inland Revenue Acts.
 
 ### 39 Regulator may require any person to provide information for statistical or monitoring purposes
 (1) The regulator may, by notice in writing, require any person with information relevant to overseas investments in sensitive New Zealand assets or call-in transactions to provide the regulator with the information specified in the notice for the purpose of—
@@ -1054,7 +1138,8 @@ A person who is required to provide information or a document under any of secti
   (aa) any statement made under section 51A; or
   (ab) any notice under section 85 or 86; or
   (b) any information or document provided to the regulator; or
-  (c) any communication with the regulator.
+  (c) any communication with the regulator; or
+  (d) any information provided to the regulator or the Commissioner of Inland Revenue under section 38A.
 (2) Every person commits an offence who knowingly or recklessly provides the regulator with a document that is false or misleading in a material particular.
 (3) A person who commits an offence under subsection (1) or subsection (2) is liable on conviction to a fine not exceeding $300,000.
 (4)
@@ -1324,27 +1409,37 @@ The court must not refuse to make an order under sections 47 to 51 on the ground
 
 ### Subpart 6 — Miscellaneous provisions
 
+### 60A Reinstatement of emergency notification regime
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that have the broad effect of reinstating, in respect of an emergency, all or part of the emergency notification regime (in subpart 1 of Part 3 (as inserted by section 52 of the Overseas Investment (Urgent Measures) Amendment Act 2020)).
+(2) The Minister may make a recommendation only if the Minister is satisfied that the effects of the emergency justify the emergency notification regime being reinstated, having had regard to the following:
+  (a) the economic, social, and other effects of the emergency in New Zealand:
+  (b) any risks to New Zealand’s national interest associated with transactions by overseas persons:
+  (c) New Zealand’s international relations and international obligations.
+(3) The emergency notification regime—
+  (a) must be limited in scope to transactions that do not require consent (see section 10) and that relate to the acquisition by an overseas person, or an associate of an overseas person, of either or both of the following:
+    (i) rights or interests in securities of a person:
+    (ii) property (including goodwill and other intangible assets) in New Zealand used in carrying on business in New Zealand:
+  (b) must provide for risk management actions only in respect of risks associated with transactions by overseas persons that are contrary to New Zealand’s national interest.
+(4) The Minister must consult the Minister of Foreign Affairs before making a recommendation.
+(5) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) The Minister must present the reasons for making a recommendation to the House of Representatives not more than 6 sitting days after making the recommendation.
+(7) The Minister must review, at intervals that are no more than 90 working days apart, whether the effects of the emergency continue to justify the emergency notification regime continuing in place.
+(8) In doing so, the Minister must have regard to the matters in subsection (2).
+(9) If the Minister is not satisfied that the emergency notification regime should continue, the Minister must recommend to the Governor-General that the regulations made under this section be revoked.
+
 ### 61 Regulations
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
   (aaa) prescribing classes of dwellings not to be treated as residential dwellings in this Act:
   (aab) prescribing additional classes of facilities to be treated as excluded accommodation facilities in this Act:
   (aac) prescribing classes of profits à prendre not to be treated as regulated profits à prendre in this Act:
   (a) determining how to measure value or apply the value thresholds under section 13:
-  (b) prescribing, for the purposes of the criteria in section 16(1)﻿(f), procedures for offering the farm land or the securities to which the overseas investment relates for acquisition on the open market to persons who are not overseas persons:
-  (ba) making provision referred to in section 16A(4) (see also paragraphs (c) and (ca) of this subsection):
-  (c) setting out what must be done to make an offer to the Crown count for the purposes of section 16A(4)﻿(f) or 17(2)﻿(f), including prescribing—
-    (i) a maximum or minimum period for which an offer must be open:
-    (ii) the maximum price at which the land may be offered, and a valuation procedure for fixing that maximum price:
-    (iii) requirements about the non-price terms and conditions on which the land must be offered, with the purpose of ensuring that it is offered to the Crown on terms and conditions that are equivalent to those offered to the overseas person—
-      (A) to the extent that the offer to the Crown is equivalent to the offer made to the overseas person; and
-      (B) subject to the person making the offer choosing to make the terms and conditions more favourable to the Crown:
-    (iv) power for the relevant Ministers—
-      (A) to determine that an offer does not count for the purposes of section 16A(4)﻿(f) or 17(2)﻿(f) on the basis that any requirements set out in regulations under this paragraph have not been met in relation to the offer:
-      (B) to waive the requirement that an offer be made for the purposes of section 16A(4)﻿(f) or 17(2)﻿(f):
-    (v) other processes that the person making an offer must follow, or other requirements that that person must meet, in relation to the preparation, making, assessment, acceptance, or implementation of the offer, including requirements to meet costs that are, or that would otherwise be, incurred by the Crown:
-  (ca) setting out processes that the Crown must follow, or other requirements that the Crown must meet, in relation to the preparation, making, assessment, acceptance, or implementation of an offer made, or to be made, for the purposes of section 16A(4)﻿(f) or 17(2)﻿(f):
-  (d) prescribing other factors that the relevant Ministers may apply under section 17(2)﻿(g) of this Act or under section 57H of the Fisheries Act 1996:
-  (e) prescribing fees and charges to be paid, or the amounts to be charged, a means by which they may be calculated and ascertained, or a rate at which they may be calculated or ascertained, for the purpose of meeting or assisting in meeting costs of Ministers and the regulator in exercising functions and powers, and performing duties, and providing services, under this Act (but also the previous costs of Ministers and the Commission in relation to those matters under the Overseas Investment Act 1973):
+  (b) prescribing, for the purposes of the criteria in section 16(1)﻿(f), when and how farm land or section 12 interests must be advertised for acquisition to persons who are not overseas persons (including what is required for open market advertising):
+  (ba) making provision referred to in section 16A(4):
+  (c)
+  (ca)
+  (d)
+  (e) prescribing fees and charges to be paid, or the amounts to be charged, a means by which they may be calculated and ascertained, or a rate at which they may be calculated or ascertained, for the purpose of meeting or assisting in meeting costs of Ministers and the regulator in exercising functions and powers, and performing duties, and providing services, under this Act (and those fees and charges may be set so as to meet any shortfall in cost recovery for any of the preceding 4 financial years, and allowance may be made for any over-recovery of costs in those years, including any estimated shortfall or over-recovery for the immediately preceding financial year):
+  (ea) prescribing the criteria relating to control and influence by government that relevant government enterprises must meet for the purpose of an exemption under section 20AA:
   (f) prescribing maximum bonds to be charged under section 25, a means by which bonds may be calculated or ascertained, or a rate at which bonds may be calculated or ascertained, for the purpose of meeting estimated reasonable costs of Ministers and the regulator in monitoring compliance with a condition or conditions of consent or exemption, and providing for the payment, and repayment if conditions are met, of those bonds:
   (g) prescribing maximum administrative penalties to be charged by the regulator, a means by which administrative penalties may be calculated or ascertained, or a rate at which administrative penalties may be calculated or ascertained, for the purposes of sections 52 and 53:
   (h) exempting or providing for exemptions from, or waivers, refunds, or discounting of, fees, charges, amounts, or administrative penalties:
@@ -1357,13 +1452,14 @@ The court must not refuse to make an order under sections 47 to 51 on the ground
   (k) providing for applications for exemptions:
   (ka) prescribing matters for the purposes of section 61G, including listing exemptions for the purposes of that section, prescribing circumstances in which that section does not apply, specifying classes of conditions to which section 61G(3) applies, and providing for matters under section 61G(5):
   (l) providing for and regulating the giving or service of notices for the purposes of this Act, and the effect of those notices:
-  (la) providing for definitions for the purposes of section 82(2):
-  (lb) prescribing enactments for the purposes of the standing consent in Part 4 of Schedule 1AA and of rows 10 and 11 of table 2 in Part 1 of Schedule 1 (after Schedule 1 is amended by the Overseas Investment Amendment Act (No 3) 2020):
-  (lc) exempting, if necessary or desirable to respond to an epidemic in New Zealand, any transaction, person, interest, right, or assets, or any class of transactions, persons, interests, rights, or assets, from the requirement for consent or from the definition of overseas person or associate or associated land:
+  (la)
+  (lb) prescribing enactments for the purposes of rows 10 and 11 of table 2 in Part 1 of Schedule 1:
+  (lc)
   (m) providing for transitional provisions:
   (n) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
 (2) Regulations under this Act (including regulations for prescribing fees, charges, bonds, or administrative penalties) may make different provisions for different cases on any differential basis.
 (3) Any exemptions made in respect of the matters in subsection (1)﻿(lc) are revoked on the 42nd day after the date on which the Overseas Investment Amendment Act (No 3) 2020 receives the Royal assent.
+(4) The Minister must, at least once in every period of 4 financial years, commence a review of fees and charges set under subsection (1)﻿(e).
 
 ### 61A Regulations regarding alternative monetary thresholds for overseas investments in significant business assets
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations in order to implement obligations in all or any of the following international agreements in respect of certain overseas investments in New Zealand in significant business assets by certain investors:
@@ -1387,13 +1483,14 @@ The purpose of sections 61C and 61D is to—
   (c) allow for exemptions in respect of all or any of the following matters:
     (i) interests in land to be used for diplomatic or consular purposes:
     (ii) persons registered as a charitable entity under the Charities Act 2005:
-    (iii) minor increases in ultimate ownership and control by overseas persons if consent has already been granted for those overseas persons to own or control sensitive assets:
+    (iii) minor increases in ultimate ownership and control by overseas persons or associates of overseas persons if consent has already been granted for those overseas persons to own or control sensitive assets:
     (iv) security arrangements that are entered into in the ordinary course of business:
     (v) relationship property as defined in section 8 of the Property (Relationships) Act 1976:
     (vi) interests in land acquired for the purpose of providing network utility services:
     (vii) interests in residential (but not otherwise sensitive) land acquired in order to comply with a requirement imposed by or under the Resource Management Act 1991 and to support a business that is not principally in the business of using land for residential purposes:
-    (viii) persons, transactions, rights, interests, or assets that the Minister considers to be fundamentally New Zealand owned or controlled or to have a strong connection to New Zealand:
-    (ix) persons, transactions, rights, interests, or assets that the Minister considers support, or are related to, the issuance or management of residential mortgage-backed securities complying with a standard created or endorsed by the Reserve Bank.
+    (viii) persons, transactions, rights, interests, or assets that the Minister considers to be majority owned and substantively controlled by New Zealanders:
+    (ix) persons, transactions, rights, interests, or assets that the Minister considers support, or are related to, the issuance or management of residential mortgage-backed securities complying with a standard created or endorsed by the Reserve Bank:
+    (x) estates or interests in land other than freehold or leasehold (for example, covenants).
 
 ### 61C Regulations may contain class or individual exemptions
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations exempting any transaction, person, interest, right, or assets, or any class of transactions, persons, interests, rights, or assets, from the requirement for consent or from the definition of overseas person or associate or associated land.
@@ -1564,25 +1661,31 @@ A person may apply for an exemption certificate, and the application may be deal
 (1) A call-in transaction is a transaction by an overseas person or an associate of an overseas person that—
   (a) is an overseas investment in SIB assets; but
   (b) does not require consent (see section 10).
-(2) An overseas investment in SIB assets is—Investment in strategically important businessesInvestment in SIB property
+(2) An overseas investment in SIB assets is— Investment in strategically important businessesInvestment in SIB property
   (a) the acquisition by an overseas person, or an associate of an overseas person, of rights or interests in securities of a person (A) who is (directly or indirectly) carrying on a SIB if,—Investment in media businesses with significant impactInvestment in listed issuersAny other investment in SIB business
-    (i) in the case of a SIB that is a media business with significant impact, as a result of the acquisition the overseas person or the associate (either alone or together with its associates) has a more than 25% ownership or control interest in A; or
-    (ii) in the case of A being a listed issuer that is not carrying on a media business with significant impact, as a result of the acquisition the overseas person or the associate (either alone or together with its associates) has 1 or more of the following:
-      (A) a beneficial entitlement to, or a beneficial interest in, 10% or more of A’s securities:
-      (B) the right to exercise or control the exercise of 10% or more of the voting power at a meeting of A:
-      (C) disproportionate access to or control of A; or
-    (iii) in any other case, as a result of the acquisition the overseas person or the associate (either alone or together with its associates) has any ownership or control interest in A; or
-  (b) the acquisition by the overseas person or the associate of property (including goodwill and other intangible assets) in New Zealand used in carrying on a SIB.
-(3) For the purposes of subsection (2)﻿(a)﻿(ii)﻿(C), a person has disproportionate access to or control of A if the person has 1 or more of the following:
-  (a) access to—
-    (i) information that would not otherwise be available to the person, but that is information that is material to an assessment of the value of shares or other financial products issued by A or a related company; or
-    (ii) sensitive information held by A or its subsidiaries:
-  (b) membership or observer rights on the governing body of A:
-  (c) the power to control the composition of 10% or more of the governing body of A:
-  (d) any involvement, other than through the voting of securities, in the substantive decision making of A regarding—
-    (i) research, development, production, or maintenance of military or dual-use technology or sensitive information; or
-    (ii) the use of, or access to, the assets of A; or
-    (iii) the supply of goods or services to an intelligence or security agency.
+    (i) in the case of a SIB that is a media business with significant impact, as a result of the acquisition the overseas person or the associate (either alone or together with its associates) has—
+      (A) a more than 25% ownership or control interest in A; or
+      (B) an increase in an existing more than 25% ownership or control interest in A of a type referred to in subsection (3); or
+    (ii) in the case of A being a listed issuer (or an issuer that would be within the definition of listed issuer if references in that definition to a licensed market operator included equivalent overseas market operators) that is not carrying on a media business with significant impact, as a result of the acquisition the overseas person or the associate (either alone or together with its associates) has—
+      (A) a 10% or more ownership or control interest in A; or
+      (B) an increase in an existing 10% or more ownership or control interest in A that is of a type referred to in subsection (3); or
+      (C) any or more disproportionate access to or control of a SIB; or
+    (iii) in any other case, as a result of the acquisition the overseas person or the associate (either alone or together with its associates) has—
+      (A) any ownership or control interest in A; or
+      (B) an increase in any existing ownership or control interest in A that is of a type referred to in subsection (3); or
+  (b) the acquisition by the overseas person or the associate of property (including goodwill and other intangible assets) in New Zealand used in carrying on a SIB,—
+    (i) in the case of an acquisition of property used by a critical direct supplier, if that supplier considers that the acquisition may impact its ability to provide contracted services to an intelligence or security agency; or
+    (ii) in the case of an acquisition of property that is used by a media business with significant impact, if the value of the property acquired is more than 25% of the value of all property owned by the media business immediately before the acquisition; or
+    (iii) in any other case, if the acquisition of the property would result in the overseas person or associate becoming or being a SIB, or being capable of being a SIB if it were to use the property for an activity of a type referred to in the definition of a SIB in section 6, (for example, because it acquires intellectual property on military or dual-use technology).
+(3) An increase is of a type referred to in this subsection if it—
+  (a) results in an ownership or control interest in A that equals or exceeds their ownership or control interest limit as follows:
+    (i) if their existing ownership or control interest in A amounted to 25% or less, their ownership or control interest limit is 25%:
+    (ii) if their existing ownership or control interest in A amounted to more than 25% but less than 50%, their ownership or control interest limit is 50%:
+    (iii) if their existing ownership or control interest in A amounted to 50% or more but less than 75%, their ownership or control interest limit is 75%:
+    (iv) if their existing ownership or control interest in A amounted to 75% or more, their ownership or control interest limit is 100%; or
+  (b) is in securities of A of a different class to the class in which their existing interest is held; or
+  (c) gives the overseas person or the associate (either alone or together with its associates) any or more disproportionate access to or control of a SIB.
+(4) A supplier referred to in subsection (2)﻿(b)﻿(i) must notify the overseas person or the associate of its obligations under section 85 no later than the date on which the transaction is entered into.
 
 ### 83 Who are relevant acquirers
 The Minister may determine which 1 or more of the following persons is the relevant acquirer for a call-in transaction:
@@ -1607,7 +1710,7 @@ The Minister may determine which 1 or more of the following persons is the relev
 (2) Each overseas person or associate making the overseas investment in SIB assets must notify the regulator before giving effect to the call-in transaction.
 (3) A call-in transaction must not be given effect to unless the Minister makes a direction order in relation to that transaction.
 (4) However, in the case of an overseas person or associate investing in an unpublished CDS,—
-  (a) a notice under subsection (2) must be given before the date of giving effect to the call-in transaction or on a later date that may be set out in regulations; and
+  (a) a notice under subsection (2) must be given before the date of giving effect to the call-in transaction or as soon as is reasonably practicable after the overseas person or associate receives a notice under section 20E; and
   (b) that person does not breach subsection (2) if the reason the person fails to give the notice is that the person had not received a notice under section 20E.
 (5) A person who fails to comply with this section does not commit an offence under section 45.
 
@@ -2038,7 +2141,9 @@ Nothing in this subpart limits section 27 of the Crown Proceedings Act 1950 or a
   (m) the Treasury:
   (n) the regulator:
   (o) any other agency set out in regulations.
-(3) A receiving agency may use information that is disclosed in reliance on this section only for the purpose of managing national security and public order risks, and only in accordance with this section and the regulations (if any), despite anything to the contrary in the Privacy Act 1993.
+(3) A receiving agency may use information that is disclosed in reliance on this section—
+  (a) only for the purpose of, or in connection with, the management of national security and public order risks and, if the receiving agency is the New Zealand Security Intelligence Service or the Government Communications Security Bureau, for the performance of their functions; and
+  (b) only in accordance with this section and the regulations (if any), despite anything to the contrary in any other enactment.
 (4) Before disclosing information in reliance on this section, a disclosing agency must impose conditions that the disclosing agency considers are needed to ensure that subsection (3) is complied with, including conditions relating to—
   (a) the storage and use of, or access to, anything provided:
   (b) the copying, returning, or disposing of copies of any documents provided.
@@ -2050,6 +2155,7 @@ Nothing in this subpart limits section 27 of the Crown Proceedings Act 1950 or a
 (6) The Minister must consult with the Privacy Commissioner before recommending that regulations be made under this section.
 (7) The Minister must, before making a recommendation that an agency be prescribed under subsection (2)﻿(o), be satisfied that it is necessary that information is able to be disclosed to that agency for the purpose of managing national security and public order risks.
 (8) This section applies despite anything to the contrary in any contract, deed, or document.
+(9) Subsection (1) does not limit a disclosing agency from using any other lawful means to disclose information (whether personal information or other information).
 
 ### 127 Regulations regarding transactions of national interest and overseas investments in SIB assets
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
@@ -2275,83 +2381,161 @@ This Part applies to matters under sections 56 to 58B of the Fisheries Act 1996 
 ### Part 4 — Provisions relating to period between Overseas Investment (Urgent Measures) Amendment Act 2020 and Overseas Investment Amendment Act (No 3) 2020
 
 ### 28 Purpose and overview of this Part
-(1) The purpose of this Part is to facilitate streamlined assessment criteria for certain lower-risk transactions that are entered into during the epidemic period.
-(2) This Part contains standing consents that apply to certain lower-risk transactions that are entered into during the epidemic period.
-(3) The consents are given on a class-by-class basis, due to the difficulties caused by COVID-19.
-(4) As a result of these consents, no application needs to be made for a consent.
+[Repealed]
 
 ### 29 Interpretation in this Part
-(1) In this Part,—
-  - **2020 Urgent Act** means the Overseas Investment (Urgent Measures) Amendment Act 2020
-  - **epidemic period** means the period commencing with the commencement of this Part and ending with the date that is the 42nd day after the date on which the Overseas Investment Amendment Bill (No 3) receives the Royal assent
-  - **new** , in relation to a provision, means the provision in the form it was introduced into Parliament, as proposed to be amended or inserted by the Overseas Investment Amendment Bill (No 3).
-(2) Other terms have the same meaning as in clause 14.
+[Repealed]
 
 ### 30 Application
-Part 1 of this schedule applies when determining whether a transaction is entered into during the epidemic period (see clause 1(4) and (5)).
+[Repealed]
 
 ### 31 Standing consent relating to New Zealand listed issuers and managed investment schemes
-(1) Consent is granted in respect of all transactions entered into during the epidemic period that would not require consent if new sections 7 and 12(1)﻿(b) and (2) of this Act had been enacted.
-(2) Consent is granted in respect of all transactions entered into during the epidemic period by managed investment schemes that meet all of the following requirements:
-  (a) the managed investment scheme is a listed issuer:
-  (b) the managed investment scheme is established under New Zealand law:
-  (c) both—
-    (i) 50% or less of the value of the managed investment products in the managed investment scheme is invested on behalf of overseas persons; and
-    (ii) 25% or less of the managed investment products in the managed investment scheme that entitle holders to vote are beneficially owned by or on behalf of overseas persons who each beneficially own 10% or more of those products (alone or together with their associates).
-(3) Terms used in this clause have the same meanings as in the Financial Markets Conduct Act 2013 unless otherwise defined in this Act.
-(4) The consent is granted unconditionally.
+[Repealed]
 
 ### 32 Standing consent relating to sensitive adjoining land
-(1) Consent is granted in respect of all transactions entered into during the epidemic period, to the extent a transaction is an overseas investment in sensitive land, that would not require consent if new Schedule 1 of this Act had been enacted.
-(2) The consent is granted unconditionally.
-(3) Section 16 applies to transactions entered into during the epidemic period, to the extent a transaction is an overseas investment in sensitive land, as if new Schedule 1 of this Act had been enacted.
+[Repealed]
 
 ### 33 Standing consent relating to transfer of certain debt securities
-(1) Consent is granted in respect of all transactions entered into during the epidemic period, for the purposes of section 10(1)﻿(b) of this Act, to the extent that giving effect to the transaction has the effect of a transfer of an interest or right that is solely an interest in or right to be paid money that has been deposited with or lent to, or is otherwise owing by, any person.
-(2) However, this clause does not apply if the interest or right is convertible into a security within paragraphs (a) to (d) of the definition of security in section 6(1).
-(3) The consent is granted unconditionally.
+[Repealed]
 
 ### 34 Effect of standing consents on call-in
-See clause 24, which provides, in effect, that a standing consent also exempts the transaction from subpart 1 of Part 3 (which relates to call-in transactions).
+[Repealed]
 
 ### 35 Provisions do not apply to standing consents in this Part
-The following provisions do not apply to standing consents under this Part:
-  (a) section 26 (Minister may revoke consent in case of fraud):
-  (b) sections 27 (consent may be varied by agreement) and 27A (consent holder may apply for new consent):
-  (c) section 54 (address for service):
-  (d) any provisions that impose automatic conditions.
+[Repealed]
 
 ### 36 Other standing consents unaffected
-This Part does not affect standing consents granted under Schedule 4 and that schedule does not affect standing consents granted by this Part.
+[Repealed]
+
+### Part 5 — Provisions relating to Overseas Investment Amendment Act 2021
+
+### 37 Interpretation in this Part
+(1) In this Part,—
+  - **2021 Amendment Act** means the Overseas Investment Amendment Act 2021
+  - **commencement** , in relation to a provision that is being inserted or amended by the 2021 Amendment Act, means the commencement of the insertion or amendment
+  - **new** , in relation to a provision of this Act, means the provision as it reads immediately after commencement
+  - **new Act** means this Act as it reads immediately after the relevant provision of the 2021 Amendment Act commenced
+  - **old** , in relation to a provision of this Act, means the provision as it read immediately before commencement
+  - **old Act** means this Act as it read immediately before the relevant provision of the 2021 Amendment Act commenced.
+(2) Part 1 of this schedule applies when determining whether a transaction is entered into before commencement or on or after commencement (see clause 1(4) and (5)).
+
+### 38 Existing transactions and applications, etc
+(1) This clause applies for the purposes of applying a provision of this Act that relates to—
+  (a) determining who are overseas persons, what are overseas investments in sensitive assets, and other matters in Part 1 of this Act; and
+  (b) determining when consent is required and the criteria for consent under subpart 1 of Part 2 of this Act; and
+  (c) the making of applications for consent and for granting consent under subpart 2 of Part 2 of this Act.
+(2) Except as provided in this Part,—
+  (a) old section 16(1)﻿(f) (farm land advertising) continues to apply to transactions entered into before commencement of section 8 of the 2021 Amendment Act (regardless of when the application is received), and regulations 4 to 11 of the regulations as they read immediately before commencement of that section 8 continue to apply to those transactions accordingly; and
+  (b) the rest of the old Act continues to apply to applications received by the regulator before commencement (regardless of when the transaction is or was entered into or whether it has been given effect to) and any other matters that relate to events or circumstances before commencement; and
+  (c) in other cases, the new Act applies (including to transactions entered into but not given effect to).
+
+### 39 Persons who are no longer overseas persons
+(1) A person who ceases to be an overseas person on commencement of section 5 (section 7 amended (who are overseas persons)) may apply to the regulator under section 27 for a variation of a consent granted to them while they were an overseas person.
+(2) In addition to the powers in section 27, the relevant Ministers may revoke a condition of a consent that this Act required to be imposed.
+(3) To avoid doubt, this clause does not require a variation to be granted.
+
+### 40 Calculating total term of interest in land under Schedule 1A
+When calculating the total term of an interest in land under Schedule 1A, the duration of a previous interest acquired before commencement must be disregarded (whether the term of the previous interest commences before or after commencement).
+
+### 41 Benefit test
+When applying section 16A after commencement, section 16A(1A)﻿(a) applies in the same way regardless of whether the counterfactual relates to the existing state of affairs before, on, or after commencement.
+
+### 42 Investor test
+New section 29A(3) and (4) (investor test applications where no change since investor test last met) does not apply to a person until the person has met the investor test under new section 18A (which, to avoid doubt, may be after an application made under new section 29A(1)).
+
+### 43 Existing regulations saved
+Regulations that are made under an old provision, and in force immediately before commencement, continue in force until revoked as if made under the new Act.
+
+### 44 Fees and charges
+(1) New section 61(1)﻿(e) applies to enable fees and charges to be prescribed that meet any shortfall in cost recovery for any of the preceding 4 financial years even if 1 or more of the preceding 4 financial years occurs before commencement.
+(2) The Minister must commence the first review under section 61(4) before 30 June 2023.
+
+### 45 Existing exemptions saved
+Exemptions that are granted under an old provision, and in force immediately before commencement, continue in force until revoked as if made under the new Act.
+
+### 46 Exactly 25% ownership or control interests and consents
+(1) This clause applies if—
+  (a) an overseas person or associate has an exactly 25% ownership or control interest immediately before commencement; and
+  (b) consent was granted to the overseas person or associate to acquire that interest; and
+  (c) the amendments made by the Overseas Investment (Urgent Measures) Amendment Act 2020 did not apply to the consent (for example, because it was granted before 16 June 2020).
+(2) The person is treated as if their existing ownership or control interest limit is 50% for the purpose of sections 12(2) and 82(3) provided that the person or associate continues to have an exactly 25% ownership or control interest immediately before the increase referred to in the relevant provision.
+
+### 47 Overseas investment fishing provisions
+This Part applies to matters under sections 56 to 58B of the Fisheries Act 1996 in the same way as it applies to similar matters under the rest of this Act.
+
+### Part 6 — Provisions relating to Legislation Act 2019
+
+### 48 Application of this Part
+(1) This Part, other than clause 51, applies until the main commencement date (as defined in clause 2 of Schedule 1 of the Legislation Act 2019).
+(2) If this Part comes into force on or after the main commencement date, clause 51 has effect when this Part comes into force; otherwise clause 51 has no effect.
+
+### 49 Exemption under section 20
+An exemption made under section 20(1)﻿(b) must be published—
+  (a) on an Internet site maintained by, or on behalf of, the regulator; and
+  (b) in the Gazette.
+
+### 50 Orders in Council relating to statutory management
+An Order in Council made under section 95, 101, or 106 is not a legislative instrument or a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+
+### 51 Amendment of sections 95, 101, and 106
+Sections 95(5), 101(5), and 106(4) (as inserted by the Secondary Legislation Act 2021) are repealed.
 
 ## Schedule 1 — Sensitive land
 
-| Land is sensitive if it is or includes this type of land | … and that type exceeds this area threshold (if any) |
-| --- | --- |
-| residential land | — |
-| non-urban land | 5 hectares |
-| land on islands specified in Part 2 of this schedule | 0.4 hectares |
-| land on other islands (other than North or South Island, but including the islands adjacent to the North or South Island) | — |
-| foreshore or seabed | — |
-| bed of a lake | 0.4 hectares |
-| land held for conservation purposes under the Conservation Act 1987 | 0.4 hectares |
-| land that a district plan or proposed district plan under the Resource Management Act 1991 provides is to be used as a reserve, as a public park, for recreation purposes, or as open space | 0.4 hectares |
-| land subject to a heritage order, or a requirement for a heritage order, under the Resource Management Act 1991 or by Heritage New Zealand Pouhere Taonga under the Heritage New Zealand Pouhere Taonga Act 2014 | 0.4 hectares |
-| a historic place, historic area, wahi tapu, or wahi tapu area that is entered on the New Zealand Heritage List/Rārangi Kōrero or for which there is an application that is notified under section 67(4) or 68(4) of the Heritage New Zealand Pouhere Taonga Act 2014 | 0.4 hectares |
-| land that is set apart as Māori reservation and that is wahi tapu under section 338 of Te Ture Whenua Maori Act 1993 | 0.4 hectares |
+| Row | Land is sensitive if it is or includes this type of land | … and that type exceeds this area threshold (if any) |
+| --- | --- | --- |
+| 1 | residential land | — |
+| 2 | non-urban land | 5 hectares |
+| 3 | land on islands specified in Part 2 of this schedule | 0.4 hectares |
+| 4 | land on other islands (other than North or South Island, but including the islands adjacent to the North or South Island) | — |
+| 5 | marine and coastal area | — |
+| 6 | bed of a lake | 0.4 hectares |
+| 7 | land held for conservation purposes under the Conservation Act 1987 | 0.4 hectares |
+| 8 | land that a district plan or proposed district plan under the Resource Management Act 1991 provides is to be used as a reserve, as a public park, for recreation purposes, or as open space | 0.4 hectares |
+| 9 | land subject to a heritage order, or a requirement for a heritage order, under the Resource Management Act 1991 or by Heritage New Zealand Pouhere Taonga under the Heritage New Zealand Pouhere Taonga Act 2014 | 0.4 hectares |
+| 10 | a historic place, historic area, wahi tapu, or wahi tapu area that is entered on the New Zealand Heritage List/Rārangi Kōrero or for which there is an application that is notified under section 67(4) or 68(4) of the Heritage New Zealand Pouhere Taonga Act 2014 | 0.4 hectares |
+| 11 | land that is set apart as Māori reservation and that is wahi tapu under section 338 of Te Ture Whenua Maori Act 1993 | 0.4 hectares |
 
-| Land A is sensitive if it adjoins land of this type | … and land A exceeds this area threshold (if any) |
-| --- | --- |
-| foreshore | 0.2 hectares |
-| bed of a lake | 0.4 hectares |
-| land held for conservation purposes under the Conservation Act 1987 (if that conservation land exceeds 0.4 hectares in area) | 0.4 hectares |
-| any scientific, scenic, historic, or nature reserve under the Reserves Act 1977 that is administered by the Department of Conservation and that exceeds 0.4 hectares in area | 0.4 hectares |
-| any regional park created under the Local Government Act 1974 | 0.4 hectares |
-| land that is listed, or in a class listed, as a reserve, a public park, or other sensitive area by the regulator under section 37 | 0.4 hectares |
-| land that adjoins the sea or a lake and exceeds 0.4 hectares and is 1 of the following types of land:an esplanade reserve or esplanade strip (within the meaning of section 2(1) of the Resource Management Act 1991); ora recreation reserve under the Reserves Act 1977; ora road (as defined in section 315(1) of the Local Government Act 1974); ora Maori reservation to which section 340 of Te Ture Whenua Maori Act 1993 applies | 0.4 hectares |
-| land over 0.4 hectares that is subject to a heritage order, or a requirement for a heritage order, under the Resource Management Act 1991 or by Heritage New Zealand Pouhere Taonga under the Heritage New Zealand Pouhere Taonga Act 2014 | 0.4 hectares |
-| land over 0.4 hectares that includes a historic place, historic area, wahi tapu, or wahi tapu area that is entered on the New Zealand Heritage List/Rārangi Kōrero or for which there is an application that is notified under section 67(4) or 68(4) of the Heritage New Zealand Pouhere Taonga Act 2014 | 0.4 hectares |
-| land over 0.4 hectares that is set apart as Māori reservation and that is wahi tapu under section 338 of Te Ture Whenua Maori Act 1993 | 0.4 hectares |
+| Row | Land A is sensitive if it adjoins land of this type | … and land A exceeds this area threshold (if any) |
+| --- | --- | --- |
+| 1 | marine and coastal area | 0.2 hectares |
+| 2 | bed of a lake | 0.4 hectares |
+| 3 | land held for conservation purposes under the Conservation Act 1987 (if that conservation land exceeds 0.4 hectares in area) | 0.4 hectares |
+| 4 | any reserve under the Reserves Act 1977 that is administered by the Department of Conservation (if that reserve land exceeds 0.4 hectares in area) | 0.4 hectares |
+| 5 | any regional park or part of a regional park that is subject to a declaration under section 139 of the Local Government Act 2002 (if that park or part of the park exceeds 80 hectares) | 0.4 hectares |
+| 6 | any national park held under the National Parks Act 1980 | 0.4 hectares |
+| 7 | land that adjoins the marine and coastal area or a lake and is a Māori reservation to which section 340 of Te Ture Whenua Maori Act 1993 applies (if that land/reservation exceeds 0.4 hectares in area) | 0.4 hectares |
+| 8 | land over 0.4 hectares that includes a wahi tapu or wahi tapu area that is entered on the New Zealand Heritage List/Rārangi Kōrero or for which there is an application that is notified under section 68(4) of the Heritage New Zealand Pouhere Taonga Act 2014 | 0.4 hectares |
+| 9 | land over 0.4 hectares that is set apart as Māori reservation and that is wahi tapu under section 338 of Te Ture Whenua Maori Act 1993 | 0.4 hectares |
+| 10 | land (if that land exceeds 0.4 hectares in area) that, pursuant to an enactment specified in Schedule 3 of the Treaty of Waitangi Act 1975 or in regulations,—ais owned by the governance entity of a collective group of Māori such as an iwi or a hapū; andbis managed in accordance with the Conservation Act 1987 or an enactment referred to in Schedule 1 of that Act | 0.4 hectares |
+| 11 | any reserve under the Reserves Act 1977 (if that reserve exceeds 0.4 hectares in area) that, pursuant to an enactment specified in Schedule 3 of the Treaty of Waitangi Act 1975 or in regulations, is managed wholly or jointly by the governance entity of a collective group of Māori such as an iwi or a hapū | 0.4 hectares |
+| 12 | Te Urewera land (as defined in section 7 of the Te Urewera Act 2014) | 0.4 hectares |
+| 13 | Whanganui River (as defined in section 7 of the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017) | 0.4 hectares |
+| 14 | Maungatautari Mountain Scenic Reserve (as defined in section 71(1) of the Ngāti Koroki Kahukura Claims Settlement Act 2014) | 0.4 hectares |
+
+## Schedule 1A — Total term of interest in land
+
+### 1 Calculation of total term of interest in land
+(1) The total term of an interest in land is the duration of—ExampleAn overseas person was a tenant of a lease of sensitive land for a term of 9 years with no rights of renewal. At the end of that lease, the parties enter into a 2-year extension.The total term of the interest is 11 years: 2 years’ extension plus 9 years under the previous lease. The acquisition of the extension is an overseas investment in sensitive land, and consent is required.
+  (a) either—
+    (i) the term of the interest acquired; or
+    (ii) in the case of an interest that is part-way through its current term, the remainder of any current term of the interest as at the time the overseas investment transaction is entered into; and
+  (b) any rights of renewal of that interest (whether of the grantor or grantee); and
+  (c) any previous interest that relates to the same or substantially the same land; and
+  (d) if a previous interest was separated in time by a periodic interest, that periodic interest.
+(2) A previous interest, in relation to an interest in land, is an estate (other than a freehold estate) or interest in land that—
+  (a) was held by—
+    (i) the overseas person or an associate of the overseas person; or
+    (ii) a person in which the overseas person or their associate (either alone or together with its associates) had a more than 25% ownership or control interest; and
+  (b) was consecutive in time to the relevant interest or to another previous interest of the relevant interest.
+(3) The duration of a previous interest before the overseas person or their associate had a more than 25% ownership or control interest in the person who held that previous interest must be disregarded from the calculation of the total term.ExampleA tenant has a lease of land for a term of 10 years. In year 6 of the lease, an overseas person increases their ownership interest in the tenant from 15% interest to 30%. At the end of the lease, the tenant enters into a new lease of the same land for a 5-year term.The total term of the interest is 9 years: 5 years in the new lease plus 4 years of the previous lease from the point that the overseas person invested in the tenant. The acquisition of the new lease is not an overseas investment in sensitive land.
+(4) In this clause,—ExampleAn overseas person was a tenant under a lease of sensitive land for 5 years. The tenant held over after the lease expired. No consent is required for that periodic lease (see clause 2 of Schedule 3).After a year of holding over, the tenant enters into a new lease with the landlord for another 5 years.The new lease is the acquisition of an interest in land. The total term of the interest is 11 years: 5 years in the new lease, 1 year of holding over, and 5 years under the previous lease. The acquisition of the new lease is an overseas investment in sensitive land, and consent is required.
+  - **consecutive** includes separated by—
+    (a) any periodic interest; or
+    (b) a period of less than 4 months
+    - **periodic interest** means any interest in land that—
+      (a) is terminable at will, whether by the grantor or the grantee; and
+      (b) offers no certainty of term of 4 months or more (including rights of renewal, whether of the grantor or the grantee).
 
 ## Schedule 2 — Sensitive land that is residential land
 
@@ -2504,7 +2688,8 @@ The 3 tests in this Part are only available if the relevant land is residential 
 (1) This clause applies if an overseas investment is being considered under the non-residential use test or the incidental residential use test.
 (2) The relevant Ministers may determine which 1 or more of the following is the relevant business:
   (a) a business of the relevant overseas person (A):
-  (b) a business of a person (B) if A owns or controls the relevant interest in the residential land primarily for B to use the residential land in that business.
+  (b) a business of a person (B) if A owns or controls the relevant interest in the residential land primarily for B to use the residential land in that business:
+  (c) a business of a person (C) if C owns or controls the relevant interest in the residential land and A has rights or interests in securities of C.
 (3) However, in making that determination, the relevant Ministers must be satisfied that the business is likely to continue for a reasonable period of time, given the circumstances and nature of the business.
 
 ### 13 How non-residential use test is met
@@ -2554,7 +2739,7 @@ ExampleA is an overseas person who wishes to buy a company. The company owns lan
 ### 17 What are on-sale outcome and non-occupation outcome
 (1) This clause defines the on-sale outcome and the non-occupation outcome for the purposes of various conditions and related tests.
 (2) The on-sale outcome is that, within a specified period, the relevant overseas person disposes of all relevant interests in the residential land.
-(3) The non-occupation outcome is that, for so long as the relevant overseas person has a relevant interest in the residential land, none of the following occupy the land:
+(3) The non-occupation outcome is that, for so long as the relevant overseas person has a relevant interest in the residential land, none of the following occupy the land for residential purposes:
   (a) the relevant overseas person (A):
   (b) any overseas person (B) who has a more than 25% ownership or control interest in A:
   (c) any overseas person (C) who occupies the land otherwise than on arm’s-length terms (for example, a relative who occupies rent-free), where arm’s-length terms means terms that—
@@ -2628,7 +2813,7 @@ A transaction does not require consent for the purposes of section 10(1)﻿(a) t
 (1) A transaction does not require consent for the purposes of section 10(1)﻿(a) to the extent that it will result in an overseas investment in sensitive land if the estate or interest in land described in section 12(a) is a periodic lease.
 (2) In this clause, periodic lease means a lease that—
   (a) is terminable at will, whether by the grantor or the grantee (including a periodic tenancy within the meaning of section 2(1) of the Residential Tenancies Act 1986); and
-  (b) offers no certainty of term of 3 years or more (including rights of renewal, whether of the grantor or the grantee).
+  (b) offers no certainty of term of 4 months or more (including rights of renewal, whether of the grantor or the grantee).
 
 **Exemptions in respect of overseas investments in sensitive land that is residential (but not otherwise sensitive) land**
 
@@ -2664,28 +2849,28 @@ Other provisions
   (a) that apply to either the developer (as a condition of the exemption certificate) or the purchaser (as a condition of the exemption in subclause (5)), or both; and
   (b) that require both the developer and the purchaser to provide the regulator with the name, contact details, and other details of dwellings to which the certificate is applied and the purchasers of those dwellings.
 
-### 5 Hotel units acquired and leased back for hotel use
-(1) A transaction does not require consent for the purposes of section 10(1)﻿(a) to the extent that it will result in an overseas investment in sensitive land if—
+### 5 Certain units acquired and leased back
+(1) In this clause,—
+  - **TLtP participant** means—
+    (a) the person (A) that operates the TLtP premises or that will operate the TLtP premises after the TLtP premises are completed; or
+    (b) any person involved in the development of the TLtP premises (the developer), provided that the developer has assigned its estate or interest in the land to A, or will assign it to A immediately after the TLtP premises are completed to the extent that it relates to the relevant unit
+  - **TLtP premises** means premises used, or intended to be used, in the course of business principally for providing temporary lodging to the public.
+(2) A transaction does not require consent for the purposes of section 10(1)﻿(a) to the extent that it will result in an overseas investment in sensitive land if—
   (a) the relevant land is residential (but not otherwise sensitive) land; and
   (b) the relevant land is being used, or is intended to be used,—
-    (i) in the construction of a hotel that has 20 or more units, or to increase by 20 or more the number of units in a hotel; or
-    (ii) for the operation of a hotel that has 20 or more units; and
-  (c) the interest in land described in section 12(a) is either—
-    (i) an interest in 1 (or more) of those units that is acquired by a person (a purchaser) and that is immediately subject to a lease-back to the hotel company; or
-    (ii) a lease of 1 (or more) of those units by the purchaser to the hotel company (a lease-back).
-(2) The exemption is subject to the following conditions:
-  (a) the lease-back must meet the following requirements at all times on and after the acquisition of the purchaser’s interest:
+    (i) in the construction of TLtP premises that have 20 or more units, or to increase by 20 or more the number of units in TLtP premises; or
+    (ii) for the operation of TLtP premises that have 20 or more units; and
+  (c) the estate or interest in land described in section 12(1)﻿(a) is—
+    (i) an estate or interest in 1 (or more) of those units that is acquired by a person (a purchaser) and that is immediately subject to a lease-back to the TLtP participant; or
+    (ii) a lease of 1 (or more) of those units by the purchaser to the TLtP participant (a lease-back).
+(3) The exemption is subject to the following conditions:
+  (a) the lease-back must meet the following requirements at all times on and after the acquisition of the purchaser’s estate or interest:
     (i) the purchaser cannot occupy, reserve, or use the unit for more than 30 days in each year; and
-    (ii) for the rest of the year, the unit must be managed and used for the general purposes of operating the hotel; and
-  (b) when the lease-back period ends, the purchaser must either, within 12 months of that period ending,——
-    (i) grant to the hotel company a new lease-back of the unit that complies with the matters in paragraph (a); or
-    (ii) dispose of its interest in the unit; and
-  (c) the purchaser must not occupy, reserve, or use the unit while it is not leased back to a hotel company.
-(3) In this clause,—
-  - **hotel** means premises used, or intended to be used, in the course of business principally for providing temporary lodging to the public
-  - **hotel company** means—
-    (a) the person (HotelCo) that operates the hotel or that will operate the hotel after the hotel is completed; or
-    (b) any person involved in the development of the hotel (the developer), provided that the developer has assigned its interest in the land to HotelCo, or will assign it to HotelCo immediately after the hotel is completed to the extent that it relates to the relevant unit.
+    (ii) for the rest of the year, the unit must be managed and used for the general purposes of operating the TLtP premises; and
+  (b) when the lease-back period ends, the purchaser must either, within 12 months of that period ending,—
+    (i) grant to the TLtP participant a new lease-back of the unit that complies with the matters in paragraph (a); or
+    (ii) dispose of its estate or interest in the unit; and
+  (c) the purchaser must not occupy, reserve, or use the unit while it is not leased back to a TLtP participant.
 
 **Exemptions in respect of overseas investments in sensitive land involving forestry rights**
 
@@ -2701,7 +2886,7 @@ Other provisions
   (a) the area of the relevant forestry right:
   (b) the combined area of all other forestry rights—
     (i) that related forestry investors acquire (or are treated as acquiring) in the same calendar year as that in which the relevant forestry investment is given effect to; and
-    (ii) that are for a term of 3 years or more (including rights of renewal, whether of the grantor or grantee).
+    (ii) that are for a total term (as calculated in accordance with Schedule 1A) of 10 years or more.
 (5) For the purposes of subclause (4)﻿(b)﻿(i),—
   (a) related forestry investor means—
     (i) the person who makes the relevant forestry investment; or
