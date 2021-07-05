@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2021-04-01_
+_Consolidation as at 2021-07-05_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -317,7 +317,7 @@ _Consolidation as at 2021-04-01_
       (i) a New Zealand citizen who is outside New Zealand and has not been in New Zealand within the last 3 years:
       (ii) a person who holds a residence class visa granted under the Immigration Act 2009, and who is outside New Zealand and has not been in New Zealand within the last 12 months:
       (iii) a person who is not a New Zealand citizen and who does not hold a residence class visa granted under the Immigration Act 2009:
-    (b) for a body corporate or an unincorporated body of persons, including a trust or a unit trust, a person who would be an overseas person under section 7(2)﻿(b) to (f) of the Overseas Investment Act 2005, treating references to an overseas person or persons in that section as including a person or persons described in paragraph (a) of this definition
+    (b) for a body corporate or an unincorporated body of persons, including a trust or a unit trust, a person who would be an overseas person under section 7(2)﻿(b) to (k) of the Overseas Investment Act 2005, treating references to an overseas person or persons in that section as including a person or persons described in paragraph (a) of this definition
   - **on time** , for the purposes of performing a tax obligation, means—
     (a) except if paragraph (b) applies, on or before the relevant due date:
     (b) if the Commissioner sets a new due date for performing the tax obligation, on or before the new due date
