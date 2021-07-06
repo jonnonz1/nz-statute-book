@@ -1,5 +1,5 @@
 # District Court Act 2016
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-07-06_
 
 ### 1 Title
 This Act is the District Court Act 2016.
@@ -1365,15 +1365,20 @@ An employer commits an offence, and is liable on conviction to a fine not exceed
   (a) the goods of the judgment debtor, except—
     (i) his or her tools of trade to a value not exceeding $5,000; and
     (ii) his or her necessary household furniture and effects, including clothing for the judgment debtor and his or her family, to a value not exceeding $10,000; and
+    (iii) if the judgment debtor is a disabled person or is a principal caregiver for a disabled person, any item that is necessary for the care, support, or independence of, or to promote the inclusion and participation in society of, the judgment debtor who is the disabled person or, as the case may be, the disabled person for whom the judgment debtor is the principal caregiver (for example, without limitation, any mobility device, specially adapted motor vehicle, or medical equipment); and
   (b) money, bank notes, and securities (that is, bills of exchange, promissory notes, bonds, specialties, or other securities for money).
 (3) The warrant must be in a form approved by the chief executive.
 (4) The Governor-General may from time to time, by Order in Council, amend subsection (2) by increasing any amount specified in that subsection.
+(5) In this section,—
+  - **disabled person** includes a person who has long-term physical, mental, intellectual, or sensory impairments that, in interaction with various barriers, may hinder their full and effective participation in society on an equal basis with others
+  - **mobility device** has the same meaning as in section 2(1) of the Land Transport Act 1998.
 
 ### 168 Immobilisation of motor vehicles
 (1) A bailiff or constable executing a warrant to seize property may, while seizing, or instead of seizing, a motor vehicle, immobilise the vehicle by attaching to it any device designed for the purpose, pending payment of the unpaid amount.
 (2) A vehicle may not be immobilised under subsection (1) unless, at the time of its immobilisation, the vehicle—
   (a) is on private property; or
   (b) is in a public place and the bailiff or constable is satisfied that immobilising the vehicle will not cause undue inconvenience to other persons.
+(2A) A motor vehicle to which section 167(2)﻿(a)﻿(iii) applies may not be immobilised under this section.
 (3) If a motor vehicle is immobilised under this section, a bailiff or constable—
   (a) may seize the vehicle at any time:
   (b) on the direction of the Registrar, must seize the vehicle.
