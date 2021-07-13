@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2021-07-01_
+_Consolidation as at 2021-07-13_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -1261,6 +1261,11 @@ A local authority must not lend money, or provide any other financial accommodat
 (3)
 (3) If a council-controlled organisation has undertaken to obtain or has obtained compensation from its shareholders in respect of any activity, the undertaking or the amount of compensation obtained must be recorded in the annual report of the council-controlled organisation.
 (4) Each local authority that receives an annual report under this section must publish the annual report on an Internet site maintained by or on behalf of the local authority within 1 month of receiving it, and must maintain the report on that site for a period of no less than 7 years.
+Extension of time limits for 2020/21 and 2021/22 reports
+(5) Despite the time limit in subsection (1),—
+  (a) in relation to the financial year ending with 30 June 2021, the report referred to in that subsection must be delivered in accordance with subsection (1)﻿(b), and made available in accordance with subsection (1)﻿(c), no later than the close of 30 November 2021; and
+  (b) in relation to the financial year ending with 30 June 2022, the report referred to in that subsection must be delivered in accordance with subsection (1)﻿(b), and made available in accordance with subsection (1)﻿(c), no later than the close of 30 November 2022.
+(6) Subsection (5), the heading above it, and this subsection are repealed at the close of 31 December 2022.
 
 ### 67A Extension of time limit for 2019/20 financial year annual reports: COVID-19
 [Repealed]
@@ -1714,6 +1719,11 @@ If a local authority carries out consultation in relation to an amendment to a l
   (b) a summary of the information contained in its annual report.
 (5) The summary must represent, fairly and consistently, the information regarding the major matters dealt with in the annual report.
 (6) A local authority must, within 1 month after the adoption of its annual report, make the report and the summary prepared under subsection (4)﻿(b) publicly available.
+Extension of time limits for 2020/21 and 2021/22 reports
+(7) Despite the time limit in subsection (3),—
+  (a) in relation to the financial year ending with 30 June 2021, the report referred to in that subsection must be completed and adopted no later than the close of 31 December 2021; and
+  (b) in relation to the financial year ending with 30 June 2022, the report referred to in that subsection must be completed and adopted no later than the close of 31 December 2022.
+(8) Subsection (7), the heading above it, and this subsection are repealed at the close of 31 January 2023.
 
 ### 98A Extension of time limit for 2019/20 financial year annual reports: COVID-19
 [Repealed]
@@ -3785,7 +3795,7 @@ In this Part,—
       (i) a failure by the local authority to demonstrate prudent management of its revenues, expenses, assets, liabilities, investments, or general financial dealings; and
       (ii) a potential problem within the meaning of paragraph (a)﻿(i) or (ii); and
       (iii) to avoid doubt, 2 or more problems within the meaning of paragraph (a) or subparagraph (i) or (ii) of this paragraph
-  - **public notice** , in relation to notice given by the Minister,
+  - **public notice** , in relation to notice given by the Minister,—
     (a) means a notice published—
       (i) in a newspaper circulating in the district or region of the local authority; and
       (ii) on the Internet site of the department responsible for the administration of this Act; and
