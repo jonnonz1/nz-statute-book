@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-07-13_
 
 > Title
 
@@ -26,7 +26,6 @@ The purposes of this Act are—
     (a) means any person who is supplied, or who applies to be supplied, with gas; but
     (b) does not include any gas producer or any gas distributor or gas retailer, except where the gas producer or, as the case may be, the gas distributor or gas retailer is supplied, or applies to be supplied, with gas for its own consumption and not for the purposes of resupply to any other person
   - **container** does not include a pipe
-  - **Corporation** means the Natural Gas Corporation of New Zealand Limited
   - **distribution system** —
     (a) means all fittings, whether above or below ground, used to distribute gas from—
       (i) the boundary of the gasworks or gate station outlet flange supplying gas for distribution to the point of supply of the place at which the gas is supplied to a consumer or gas refueller; or
@@ -56,9 +55,7 @@ The purposes of this Act are—
   - **gas retailer** means any person who supplies gas to another person or other persons for any purpose other than for resupply by the other person or persons
   - **gas transmission** means the supply of line function services by means of high pressure gas pipelines operated at a gauge pressure exceeding 2 000 kilopascals
   - **gas wholesaler** —
-    (a) means—
-      (i) the Corporation; and
-      (ii) any person who supplies gas to any other person or persons for the purpose of resupply by the other person or persons (whether or not the person who so supplies the gas is also a gas retailer); and
+    (a) means any person who supplies gas to any other person or persons for the purpose of resupply by the other person or persons (whether or not the person who so supplies the gas is also a gas retailer); and
     (b) includes any person any subsidiary of which is a gas wholesaler
   - **gasfitting** has the same meaning as in section 4 of the Plumbers, Gasfitters, and Drainlayers Act 2006
   - **infringement fee** , in relation to an infringement offence, means the amount prescribed by regulations made under section 54 as the infringement fee for the offence
@@ -133,6 +130,9 @@ The purposes of this Act are—
   (g) any container used, or designed or intended to be used, for the storage of gas:
   (h) any liquefied petroleum gas that is in a liquid form and is in a pipe.
 (3) Despite subsection (2)﻿(d), that paragraph does not apply in relation to Part 4A and, accordingly, Part 4A applies to any gas used as a feedstock.
+
+### 3A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 4 Act to bind the Crown
 This Act binds the Crown.
@@ -521,7 +521,7 @@ The purpose of this Part is to provide for the governance of the gas industry.
 (6) This section is intended only as a guide to the general scheme and effect of this Part.
 
 ### 43C Outline of regulation-making powers
-(1) In this subpart, the principal regulation-making powers are as follows:The following table is small in size and contains 2 columns. Column 1 is headed Type of regulations. Column 2 is headed How they can be made.Type of regulationsHow they can be madeRegulations for terms and conditions of access to Maui pipelineRegulations on retail and consumer issuesThey can be made at any time, (whether or not the industry body has been approved, or the Commission is established, or has made a recommendation).Regulations on wholesale marketRegulations on gas processing facilitiesRegulations on transmission, and distribution of gas (other than on terms and conditions of access to Maui pipeline)They can be made only if—
+(1) In this subpart, the principal regulation-making powers are as follows:The following table is small in size and contains 2 columns. Column 1 is headed Type of regulations. Column 2 is headed How they can be made.Type of regulationsHow they can be madeRegulations for terms and conditions of access to Maui pipelineRegulations on retail and consumer issuesThey can be made at any time, (whether or not the industry body has been approved, or the Commission is established, or has made a recommendation).Regulations on wholesale marketRegulations on gas processing facilitiesRegulations on transmission, and distribution of gas (other than on terms and conditions of access to Maui pipeline)Regulations on arrangements relating to outages and other security of supply risksRegulations on information disclosure for the whole gas industryThey can be made only if—
   (a) an industry body is approved (and then only to implement the effect of a recommendation by that body); or
   (b) the Commission is established (and then only for transitional purposes or to implement the effect of a recommendation by the Commission).
 (2) This section is intended only as a guide to the general scheme and effect of the principal regulation-making powers in this Part.
@@ -532,7 +532,7 @@ In this Part, unless the context otherwise requires,—
   - **Commission** means the Energy Commission to be established under section 43ZZH
   - **constitution** , in relation to the industry body, means its constitution or trust deed or other similar governing document
   - **domestic consumer** means any person who purchases gas in respect of any dwellinghouse
-  - **gas governance regulations** means regulations made under sections 43F to 43T
+  - **gas governance regulations** means regulations made under sections 43F to 43TA
   - **GPS objectives and outcomes** means objectives and outcomes set under section 43ZO
   - **industry body** means the body approved by Order in Council under section 43ZL
   - **industry participant** means—but does not include the industry body or the Commission (even to the extent that the industry body or the Commission may be acting as a service provider after an appointment under gas governance regulations)
@@ -601,21 +601,31 @@ The dispute resolution scheme may resolve disputes between members of the disput
 
 **Gas industry regulation-making powers**
 
-### 43F Gas governance regulations for wholesale market, processing facilities, transmission, and distribution of gas
+### 43F Gas governance regulations for wholesale market, processing facilities, transmission, distribution of gas, security of supply, and disclosure
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with sections 43I to 43P, make regulations for all or any of the purposes in subsection (2).
-(2) The purposes are—Wholesale gas marketProcessing facilitiesTransmission and distribution of gas
+(2) The purposes are—Wholesale gas marketProcessing facilitiesTransmission and distribution of gasArrangements relating to outages and other security of supply risksInformation disclosure for whole gas industry
   (a) providing for the establishment and operation of wholesale markets for gas, including for—
     (i) protocols and standards for reconciling and balancing gas:
     (ii) clearing, settling, and reconciling market transactions:
     (iii) the provision and disclosure of data and other market information:
     (iv) minimum prudential standards of market participation:
     (v) minimum standards of market conduct:
-    (vi) arrangements relating to outages and other security of supply contingencies:
+    (vi)
   (b) setting reasonable terms and conditions for access to, and use of, gas processing facilities where—
     (i) this is reasonably necessary to allow new fields to be developed; and
     (ii) spare capacity is available or could be made available if the person accessing or using the facilities paid the reasonable costs (including the costs of capital) of providing the additional capacity:
   (c) prescribing reasonable terms and conditions for access to and use of transmission or distribution pipelines:
-  (d) requiring expansions, upgrades, or service quality improvements to gas transmission pipelines including specifying how these will be paid for.
+  (d) requiring expansions, upgrades, or service quality improvements to gas transmission pipelines including specifying how these will be paid for:
+  (e) providing, in relation to wholesale or any other markets for gas, for arrangements relating to outages and other security of supply risks, including imposing requirements in connection with those matters on any industry participant or consumer (other than a domestic consumer):
+  (f) providing for the provision and disclosure of data and information by any industry participant or consumer (other than a domestic consumer).
+(3) The data and information referred to in subsection (2)﻿(f) may include, for example, any of the following to the extent that it relates to the gas industry:
+  (a) volume, price, or other market information:
+  (b) forecasts of supply or demand:
+  (c) information about actual or potential outages:
+  (d) information about risks to security of supply:
+  (e) information about an industry participant or a consumer (other than a domestic consumer) that has, or may have, a significant impact on other industry participants or consumers:
+  (f) information to help other industry participants or consumers (other than domestic consumers) to make informed decisions in connection with the gas industry.
+(4) Nothing in subsection (2)﻿(a) to (e) or section 43G limits subsection (2)﻿(f).
 
 ### 43G Other gas governance regulations
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with sections 43I to 43P, make regulations for all or any of the purposes in subsection (2).
@@ -664,7 +674,7 @@ The dispute resolution scheme may resolve disputes between members of the disput
 ### 43I Which gas governance regulations can be made if there is no industry body or Commission
 If there is no industry body and no Commission, the Minister may recommend only—
   (a) regulations prescribing terms and conditions for access to the Maui pipeline under section 43F(2)﻿(c):
-  (b) regulations under section 43G, section 43H, section 43S, or section 43T.
+  (b) regulations under section 43G, section 43H, section 43S, or 43TA.
 
 ### 43J Which gas governance regulations can be made if there is industry body but no Commission
 (1) If there is an industry body but no Commission, the Minister may recommend only—
@@ -672,7 +682,7 @@ If there is no industry body and no Commission, the Minister may recommend only�
   (b) other gas governance regulations under section 43F but only if the recommendation—
     (i) implements the effect of a recommendation of the industry body; and
     (ii) does not differ from that recommendation in any material way (for example, other than in matters of drafting style or minor detail):
-  (c) regulations under section 43G, section 43H, section 43S, or section 43T.
+  (c) regulations under section 43G, section 43H, section 43S, or 43TA.
 (2) If there is an industry body but no Commission, the Minister must not recommend gas governance regulations under paragraph (a) or paragraph (c) or paragraph (h) of section 43G(2) unless the industry body has been given a reasonable opportunity to recommend gas governance regulations under those paragraphs.
 
 ### 43K Which gas governance regulations can be made if there is Commission
@@ -764,7 +774,7 @@ Sections 43L and 43N (which relate to consultation and assessments) do not apply
 
 **Supplementary provisions**
 
-### 43S Supplementary empowering provision for regulations and rules
+### 43S Supplementary provision relating to regulations and rules
 (1) Any regulations or rules made under this subpart may—
   (a) provide for 1 or more persons or bodies or groups of persons to carry out functions in relation to those regulations or rules, and for matters concerning their establishment, constitution, functions, members (including their appointment, removal, duties, and protection from liability), procedures, employees, administration and operation, funding by industry participants, and reporting requirements:
   (b) provide for systems, processes, and procedures (including dispute resolution procedures), and the keeping, supply, and disclosure of information, in relation to any of the matters specified in this subpart:
@@ -778,6 +788,13 @@ Sections 43L and 43N (which relate to consultation and assessments) do not apply
   (i) provide for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
 (2) Regulations or rules that may be made in respect of all industry participants or classes of industry participants may be made in respect of all or any of the persons in that class and in respect of all or part of their business.
 (3) In this subpart, unless the context otherwise requires, terms and conditions includes both contractual matters and other types of arrangements and requirements.
+
+### 43TA Regulations may provide for pecuniary penalties for consumers (other than domestic consumers)
+(1) Any regulations made under this subpart may do 1 or more of the following:
+  (a) identify provisions of regulations made under this subpart, or provisions of rules made under section 43Q, for the purposes of subpart 5 (which allows the High Court to impose a pecuniary penalty on a consumer (other than a domestic consumer) for a breach of those identified provisions):
+  (b) prescribe, in relation to each of those provisions, the maximum pecuniary penalty that may be imposed under subpart 5 for a breach:
+  (c) prescribe a defence to a proceeding under subpart 5 or prescribe other matters relating to when a breach gives rise to liability for a pecuniary penalty under that subpart.
+(2) A maximum pecuniary penalty referred to in subsection (1)﻿(b) must not exceed $200,000.
 
 ### 43T Supplementary empowering provision for regulations
 Any regulations made under this subpart may provide for offences that are punishable on conviction for a contravention of those regulations, or of rules made under section 43Q, and provide for fines not exceeding $20,000 for those offences.
@@ -942,7 +959,7 @@ The objectives of the industry body, in recommending gas governance regulations 
 (3) The Minister must publish in the Gazette, and present to the House of Representatives, each statement (or amendment to, or replacement of, a statement) under subsection (2) as soon as practicable after giving it to the industry body.
 (4) The industry body must have regard to those objectives and outcomes when making recommendations for gas governance regulations under this Part.
 
-### 43ZP What Minister can do with industry body recommendations about wholesale market, processing facilities, transmission, and distribution of gas
+### 43ZP What Minister can do with industry body recommendations about wholesale market, processing facilities, transmission, distribution of gas, security of supply, and disclosure
 (1) The Minister must decide, within 90 days of receiving a recommendation from the industry body in relation to gas governance regulations under section 43F, either to accept or reject the recommendation.
 (2) Subsection (1) does not apply to regulations made under section 43F(2)﻿(c) prescribing terms and conditions for access to the Maui pipeline.
 (3) The Minister must publish a notice in the Gazette stating his or her decision under subsection (1) and explaining the reasons for it or where copies of that explanation may be obtained.
@@ -1399,6 +1416,24 @@ The repeal, by section 58(1), of the Gas Act 1982 does not affect—
 
 ### 60 Power to execute works on private land
 Amendment(s) incorporated in the Act(s).
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Gas (Information Disclosure and Penalties) Amendment Act 2021
+
+### 1 Action taken by gas industry body before enactment is valid for purposes of new regulations
+(1) Any action taken by the industry body for the purposes of making a recommendation relating to regulations made under section 43F(2)﻿(e) or (f) or for the purpose of section 43TA (as in force immediately after the commencement of this clause) must be treated as having been validly taken by the industry body under, and for the purposes of, sections 43I to 43P.
+(2) However, the industry body may make the recommendation relating to those regulations only after the commencement of this clause.
+(3) Subclause (1) applies even if the action is taken before the Gas (Information Disclosure and Penalties) Amendment Act 2021 is enacted.
+
+### 2 Rulings Panel not required to take into account amount of previous civil pecuniary penalties
+(1) This clause applies when the Rulings Panel is making a decision under section 43X in relation to a breach of any gas governance regulations or rules committed on or after the commencement of section 16 of the Gas (Information Disclosure and Penalties) Amendment Act 2021.
+(2) The Rulings Panel is not required to take into account under section 43X(2) the amount of any civil pecuniary penalty imposed under section 43X before the commencement of section 16 of the Gas (Information Disclosure and Penalties) Amendment Act 2021.
+
+### 3 Offences for breach of Rulings Panel’s compliance orders
+(1) Regulation 51 of the Gas Governance (Compliance) Regulations 2008 continues to apply as if it were still in force in relation to a breach that occurs before the commencement of section 22 of the Gas (Information Disclosure and Penalties) Amendment Act 2021.
+(2) Section 43YA applies to a breach that occurs on or after the commencement of section 22 of the Gas (Information Disclosure and Penalties) Amendment Act 2021.
+(3) In this clause, breach means a breach of a requirement or an order made under section 43X(1).
 
 ## Schedule 1 — Enactments repealed
 
