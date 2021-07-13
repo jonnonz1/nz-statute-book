@@ -1,5 +1,5 @@
 # Education and Training Act 2020
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-07-13_
 
 ### 1 Title
 This Act is the Education and Training Act 2020.
@@ -6077,6 +6077,11 @@ A person who intentionally contravenes section 455(1) commits an offence and is 
   (a) may be paid unconditionally, or subject to any conditions the Minister specifies in writing when the grant is paid or earlier; and
   (b) may be paid to be used for any purpose the service provider thinks fit, or for only the purposes that the Minister specifies in writing when the grant is paid or earlier; and
   (c) may be withheld in whole or in part if the service provider fails to comply with any regulations made under section 636 or 637 or any conditions of the licence or certificate.
+(5A) Subsections (5B) and (5C) apply to conditions or purposes—
+  (a) specified under subsection (5)﻿(a) or (b); and
+  (b) that relate to employment matters (for example, remuneration).
+(5B) Those conditions or purposes may be specified by the Minister to help achieve aims that are, or include, employment relations aims.
+(5C) Those aims may, but need not, also be specified by the Minister.
 (6) The service provider must ensure that,—
   (a) where a grant has been paid subject to conditions, the conditions are complied with; and
   (b) if a grant has been paid to be used only for purposes specified by the Minister under subsection (5)﻿(b), the grant is used only for those purposes.
@@ -7909,6 +7914,11 @@ The requirement for a person to meet criteria issued by the Minister under secti
 ### 71 National student numbers
 (1) This clause applies to a national student number assigned to a person under section 343 of the 1989 Act before the commencement of this clause.
 (2) The national student number continues to apply in respect of the person as if it were assigned under clause 3 of Schedule 24.
+
+### Part 2 — Provision relating to Education and Training (Grants—Budget Measures) Amendment Act 2021
+
+### 72 Application of section 548(5A) to (5C)
+Section 548(5A) to (5C) (as inserted by section 4 of the Education and Training (Grants—Budget Measures) Amendment Act 2021) applies to a grant paid under section 548, and to a condition or purpose specified under section 548(5)﻿(a) or (b) for that grant, after the commencement of that Act (whether that grant was determined before or after that commencement).
 
 ## Schedule 2 — Special institutions
 
