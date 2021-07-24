@@ -1,5 +1,5 @@
 # Holidays Act 2003
-_Consolidation as at 2021-03-31_
+_Consolidation as at 2021-07-24_
 
 ### 1 Title
 This Act is the Holidays Act 2003.
@@ -732,11 +732,11 @@ An employee who intends to take sick leave or bereavement leave must notify the 
   (a) the employee is sick or injured; or
   (b) the employee’s spouse or partner is sick or injured; or
   (c) a person who depends on the employee for care is sick or injured.
-(2) An employee is entitled to 5 days’ sick leave for each of the 12-month periods specified in section 63(2).
+(2) An employee is entitled to 10 days’ sick leave for each of the 12-month periods specified in section 63(2).
 
 ### 66 Sick leave may be carried over
 (1) An employee may carry over, to any subsequent 12-month period of employment, any sick leave that has not been taken by the end of the period to which the leave relates.
-(2) For the purposes of subsection (1), an employee may carry over up to 15 days’ sick leave to a maximum of 20 days’ current entitlement in any year.
+(2) For the purposes of subsection (1), an employee may carry over up to 10 days’ sick leave to a maximum of 20 days’ current entitlement in any year.
 (3) To avoid doubt, subsection (2) does not prevent an employer from allowing an employee to carry over any enhanced or additional sick leave entitlement.
 
 ### 67 Sick leave need not be paid out
@@ -1086,6 +1086,18 @@ In this Part, 2018 Part means Part 2 of the Domestic Violence—Victims' Protect
 
 ### 4 Application to pre-commencement family violence
 Subpart 5 of Part 2 applies even if all or any of the family violence occurred before the commencement of the 2018 Part.
+
+### Part 3 — Provisions relating to Holidays (Increasing Sick Leave) Amendment Act 2021
+
+### 5 Transitional provision for existing employees
+(1) The amendments to sections 65 and 66 in the Holidays (Increasing Sick Leave) Amendment Act 2021 apply to existing employees as provided in this clause.
+(2) On and from the commencement date, when an existing employee next becomes entitled to sick leave for a 12-month period specified in section 63(2), the employee’s entitlement under section 65(2) for that period is 10 days’ sick leave.
+(3) On and from the commencement date, when an existing employee next may carry over sick leave under section 66(1),—
+  (a) the employee may carry over up to 10 days’ sick leave; and
+  (b) the employee’s maximum current entitlement under section 66(2) is 20 days.
+(4) In this clause,—
+  - **commencement date** means the date on which the Holidays (Increasing Sick Leave) Amendment Act 2021 comes into force
+  - **existing employee** means an employee who is employed by the relevant employer on and from the commencement date.
 
 ## Schedule 1 — Modifications to subpart 1 of Part 2 to increase minimum entitlement to annual holidays from 1 April 2007
 
