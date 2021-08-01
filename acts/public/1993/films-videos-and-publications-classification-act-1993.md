@@ -1,5 +1,5 @@
 # Films, Videos, and Publications Classification Act 1993
-_Consolidation as at 2020-08-10_
+_Consolidation as at 2021-08-01_
 
 > An Act to consolidate and amend the law relating to the censoring of films, videos, books, and other publications; and to repeal the Indecent Publications Act 1963, the Films Act 1983, and the Video Recordings Act 1987
 
@@ -45,8 +45,12 @@ In this Act, unless the context otherwise requires,—
       (i) to the public, or any section of the public; or
       (ii) to any group or class of persons otherwise than in a private residence,—
     (b) does not include the broadcasting of the film;—
-  - **film** means a cinematograph film, a video recording, and any other material record of visual moving images that is capable of being used for the subsequent display of those images; and includes any part of any film, and any copy or part of a copy of the whole or any part of a film
-  - **film poster** means any poster, placard, video slick, photograph, or other printed pictorial matter that is intended for use in the advertising or exhibition of any film to the public; and includes a miniature representation of the whole or part of any such poster; and also includes any enlarged representation of the whole or any part of any such poster
+  - **film** —
+    (a) means a cinematograph film, a video recording, and any other material record of visual moving images that is capable of being used for the subsequent display of those images, and includes any part of any film, and any copy or part of a copy of the whole or any part of a film; and
+    (b) includes video on-demand content
+  - **film poster** —
+    (a) means any poster, placard, video slick, photograph, or other printed pictorial matter that is intended for use in the advertising or exhibition of any film to the public, and includes a miniature representation of the whole or part of any such poster, and also includes any enlarged representation of the whole or any part of any such poster; but
+    (b) does not include a poster, placard, video slick, photograph, or other printed pictorial matter that is intended for use to advertise commercial video on-demand content
   - **Information Unit** means the Information Unit established under section 88
   - **Inspector** means an Inspector of Publications holding office under subsection (1) or subsection (2) of section 103; and includes a constable
   - **interim restriction order** ,—
@@ -184,6 +188,7 @@ This Act binds the Crown.
 (2) Subject to sections 7 and 8, a film must not be exhibited to the public unless—
   (a) a label has been issued in respect of that film; and
   (b) the requirements of this Act and of any regulations made under this Act with respect to the display and advertising of the contents of that label are complied with.
+(3) Subsections (1) and (2) do not apply to a film that is commercial video on-demand content offered by a specified CVoD provider, and section 46C applies instead.
 
 ### 7 Trade screenings
 Section 6 does not apply in respect of the private screening, for commercial purposes, of any film where—
@@ -194,7 +199,7 @@ Section 6 does not apply in respect of the private screening, for commercial pur
   (c) that screening is carried out in accordance with normal trade practice before the maker, owner, or distributor applies for the issue of a label in respect of the film.
 
 ### 8 Films exempt from labelling requirements
-(1) Subject to subsections (2) and (3), section 6 does not apply in respect of any of the following films:
+(1) Subject to subsections (2) and (3), sections 6 and 46C do not apply in respect of any of the following films:
   (a) any film owned, produced, or sponsored by, and relating to the policy, functions, or operations of,—
     (i) any government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975:
     (ii) any organisation named in Part 2 of Schedule 1 of the Ombudsmen Act 1975 or in Schedule 1 of the Official Information Act 1982:
@@ -214,9 +219,13 @@ Section 6 does not apply in respect of the private screening, for commercial pur
   (n) any film depicting wholly or mainly travel:
   (o) any film depicting wholly or mainly cultural activities:
   (p) any film intended for supply or exhibition solely to ethnic organisations:
-  (q) any video game.
-(2) The Chief Censor may, at any time, require any person who proposes to exhibit to the public or supply to the public any film of a class mentioned in subsection (1), or who has exhibited to the public or supplied to the public any such film, to make an application under section 9 for the issue of a label in respect of that film.
-(3) Nothing in subsection (1) exempts any film from the requirements of section 6 if—
+  (q) any video game:
+  (r) any video on-demand content made available by a person who is not a specified CVoD provider:
+  (s) any video on-demand content made available by a specified CVoD provider that was uploaded by a user to the provider’s platform, and that was not commissioned by the provider.
+(2) The Chief Censor may, at any time, require any person to make an application under section 9 for the issue of a label in respect of a film of a class mentioned in subsection (1) if,—
+  (a) in the case of video on-demand content, the person has made the content available to persons in New Zealand, or proposes to do so; or
+  (b) in any other case, the person has exhibited or supplied the film to the public, or proposes to do so.
+(3) Nothing in subsection (1) exempts any film from the requirements of section 6 or 46C if—
   (a) the film is a restricted publication; or
   (b) the Chief Censor has required the film to be submitted to the labelling body under subsection (2).
 
@@ -225,10 +234,11 @@ Section 6 does not apply in respect of the private screening, for commercial pur
 ### 9 Applications for issue of label
 (1) Subject to subsection (2), the following persons may apply to the labelling body for the issue of a label in respect of a film:
   (a) any person who is engaged in the production, distribution, public supply, or public exhibition of films:
-  (b) any person who proposes to supply to the public or exhibit to the public the film in respect of which the application is made.
-(2) Subsection (1) does not apply to any film—
-  (a) in respect of which a label has already been issued under this Act; or
-  (b) that has been classified under this Act as objectionable.
+  (b) any person who proposes to supply to the public or exhibit to the public the film in respect of which the application is made:
+  (c) any specified CVoD provider.
+(2) Subsection (1) does not apply to—
+  (a) any film in respect of which a label has already been issued under this Act (except any film for which a label has been issued by a specified CVoD provider using an approved self-rating system); or
+  (b) any film that has been classified under this Act as objectionable.
 (3) Subject to subsection (4), every application under subsection (1) shall be accompanied by—
   (a) a copy of the film in respect of which the application is made; and
   (b) the fee set by the labelling body for such an application.
@@ -243,6 +253,10 @@ Section 6 does not apply in respect of the private screening, for commercial pur
 
 ### 11 Rating and description applicable to copies
 For the purposes of this Part, the rating and description (if any) assigned to any film under section 10 shall apply to every copy of that film that is identical in content with it, whether or not the copy is in a different gauge or a different technical form.
+
+### 11A Classification Office must provide film database
+(1) The Classification Office must provide and maintain a database of films that have been labelled under this Act and that includes the prescribed information in respect of each film.
+(2) The Classification Office must make the database available for public inspection at all reasonable times, free of charge, by publishing it on an Internet site maintained by, or on behalf of, the Classification Office.
 
 ## Part 3 — Classification of publications
 
@@ -374,7 +388,7 @@ For the purposes of this Act, the classification given to a publication under se
   (e) that—or both, must not be publicly displayed in any place in which the publication is available for supply, and must be shown in that place only to persons who make a direct request for the publication or, as the case requires, the poster.
     (i) the publication; or
     (ii) any advertising poster relating to the publication,—
-(5) The conditions that may be imposed pursuant to this section in respect of the public display of a film are as follows:
+(5) The conditions that may be imposed pursuant to this section in respect of the public display of a film (other than a film that is video on-demand content) are as follows:
   (a) that—or both, must be publicly displayed only in premises, or a part of premises, set aside for the public display of restricted publications (whether or not articles other than restricted publications are also displayed in those premises or that part of those premises):
     (i) the film; or
     (ii) any film poster relating to the film (whether or not the poster is attached to the cassette, case, or other container in which the film is kept),—
@@ -382,6 +396,13 @@ For the purposes of this Act, the classification given to a publication under se
   (c) that—or both, must not be publicly displayed in any place in which the film is available for supply, and must be shown in that place only to persons who make a direct request for the film or, as the case requires, the poster.
     (i) the film; or
     (ii) any film poster relating to the film (whether or not the poster is attached to the cassette, case, or other container in which the film is kept),—
+(6) The conditions that may be imposed pursuant to this section in respect of the display of advertising material for video on-demand content that has a restricted classification are as follows:
+  (a) that the advertisement must indicate the classification and any description assigned to the content by way of a label displayed in a manner specified by the Classification Office:
+  (b) that the advertisement may only be displayed, broadcast, or otherwise published, or must not be displayed, broadcast, or published—
+    (i) in places or media specified by the Classification Office:
+    (ii) at or between times specified by the Classification Office:
+    (iii) in association with other advertising or media content of a type specified by the Classification Office:
+    (iv) in circumstances specified by the Classification Office.
 
 ### 28 Further provisions relating to conditions on public display of restricted publications
 (1) Any 1 or more of the conditions specified in subsection (4) or, as the case may require, subsection (5) of section 27 may be imposed in respect of a publication, and, without limiting the generality of the foregoing, any 2 or more conditions may be expressed as alternatives.
@@ -441,15 +462,19 @@ Sections 32 to 34, so far as they are applicable and with the necessary modifica
 
 ### 36 Issue of labels in respect of films
 (1) Where the Classification Office has examined and classified a film submitted to it pursuant to section 12, the Classification Office shall, subject to subsection (4) and to section 34(b), direct the labelling body to issue a label in respect of that film.
-(2) Where the Classification Office has examined and classified a film submitted to it under section 13 or section 42, or referred to it pursuant to section 29(1) or section 41(3), the Classification Office may, subject to section 34(b), if the Classification Office is satisfied that the film is available for public supply or public exhibition, or is intended to be made available for public supply or public exhibition, direct the labelling body to issue a label in respect of that film.
-(3) Every direction under subsection (1) or subsection (2) shall specify, in respect of the film,—
+(1A) If the Classification Office has examined and classified commercial video on-demand content referred to it by a specified CVoD provider pursuant to section 46E(3), the Classification Office must, subject to subsection (4) and to section 34(b), direct the specified CVoD provider to issue a label in respect of the content.
+(2) If the Classification Office has examined and classified a film submitted to it under section 13 or 42, or referred to it under section 29(1) or 41(3), the Classification Office may,—
+  (a) in the case of commercial video on-demand content made available, or intended to be made available, by a specified CVoD provider, direct the provider to issue a label in respect of that content; or
+  (b) in any other case, if the Classification Office is satisfied that the film is available for public supply or public exhibition, or is intended to be made available for public supply or public exhibition, direct the labelling body to issue a label in respect of that film.
+(2A) Subsection (2) is subject to subsection (4) and section 34(b).
+(3) Every direction under subsection (1), (1A), or (2) shall specify, in respect of the film,—
   (a) either,—
     (i) where the Classification Office has classified the film as unrestricted, the rating to be assigned to that film; or
     (ii) where the Classification Office has classified the film as a restricted publication, the classification of that film; and
   (b) where appropriate, the description to be assigned to that film; and
   (c) where, pursuant to section 27, the Classification Office has imposed conditions on the public display of the film, or any film poster relating to the film, or both, those conditions.
-(4) The Classification Office shall not direct the labelling body to issue a label in respect of any film that the Classification Office has classified as objectionable.
-(5) Where, under subsection (2), the Classification Office directs the labelling body to issue a label in respect of any film, any label previously issued in respect of that film by the labelling body, and any previous direction by the Classification Office to the labelling body to issue a label in respect of that film, shall, for the purposes of this Act, be deemed to be cancelled.
+(4) The Classification Office shall not direct the labelling body or a specified CVoD provider to issue a label in respect of any film that the Classification Office has classified as objectionable.
+(5) If, under subsection (2), the Classification Office directs the labelling body or a specified CVoD provider to issue a label in respect of any film, any label previously issued in respect of that film by the labelling body or specified CVoD provider, and any previous direction by the Classification Office to the labelling body or specified CVoD provider to issue a label in respect of that film, must, for the purposes of this Act, be deemed to be cancelled.
 
 ### 36A Issue of labels in respect of other publications that are classified as restricted publications
 (1) This subsection applies to a publication (other than a film) if the Classification Office has—
@@ -490,7 +515,7 @@ Sections 32 to 34, so far as they are applicable and with the necessary modifica
   (a) the reasons for the decision; and
   (b) the classification given to the publication; and
   (c) where, pursuant to section 27, the Classification Office has imposed conditions on the public display of the publication, or any advertising poster or film poster relating to the publication, or both, those conditions; and
-  (d) in the case of a film, the terms of any direction given to the labelling body under section 36 to issue a label in respect of that film:
+  (d) in the case of a film, the terms of any direction given to the labelling body or a specified CVoD provider under section 36 to issue a label in respect of that film:
   (e) in the case of a publication (other than a film) that is the subject of a condition imposed pursuant to section 27(4)﻿(a), the terms of any direction given to the labelling body under section 36A(2) to issue a label in respect of that publication.
 (3) Every person shall, on request, and on payment of such fee (if any) as the Classification Office may determine, be entitled to a copy of any notice given pursuant to this section.
 
@@ -585,6 +610,78 @@ Where, in accordance with regulations made under this Act, the Classification Of
 
 ### 46 Burden of proof
 In any prosecution for an offence against this Act, the burden of proving that the defendant was exempted under section 44 and was acting in accordance with the terms of the exemption shall be on the defendant.
+
+## Part 3A — Labelling requirements for specified CVoD providers’ commercial video on-demand content
+
+### 46A Purpose of Part
+The purpose of this Part is to reduce the risk of psychological and physical harm to people who view commercial video on-demand content, particularly vulnerable people and children, by enabling informed viewing decisions through requiring consistent and informative content labelling by specified CVoD providers.
+
+### 46B Extraterritorial application to specified CVoD providers
+This Act, and any regulations made under it, apply in respect of commercial video on-demand content that is made available in New Zealand by a specified CVoD provider, regardless of whether the provider is resident or incorporated in New Zealand or outside New Zealand.
+
+### 46C Duty to label commercial video on-demand content
+(1) Before making commercial video on-demand content available to persons in New Zealand, a specified CVoD provider must ensure that the content has been labelled in accordance with this Act.
+(2) The label must be displayed in the prescribed manner and must include any classification or rating assigned to the content and any description assigned to the content.
+(3) This section is subject to section 8.
+
+### 46D Content previously labelled or classified
+(1) If a specified CVoD provider intends to make commercial video on-demand content available to persons in New Zealand and a label for that content has previously been issued under this Act, the provider must issue a label that contains the same classification or rating and the same description (if any) that was contained in the label that was previously issued.
+(2) If a specified CVoD provider intends to make commercial video on-demand content available to persons in New Zealand and that content has previously been classified under this Act, but no label has been issued for that content, the provider must refer that content to the Classification Office for a direction under section 36.
+(3) Subsections (1) and (2) apply irrespective of whether the content is in the same technical form or a different technical form.
+
+### 46E Content not previously labelled or classified
+(1) If a specified CVoD provider intends to make available to persons in New Zealand commercial video on-demand content to which a label has not been assigned under this Act, the provider must label the commercial video on-demand content by—
+  (a) using an approved self-rating system; or
+  (b) applying to the labelling body under section 9(1) for the issue of a label in respect of that content.
+(2) Unless the approved self-rating system used by the provider identifies the commercial video on-demand content as potentially being objectionable, the provider must apply the label generated by the approved self-rating system.
+(3) If the approved self-rating system used by the provider identifies the commercial video on-demand content as potentially being objectionable, the provider must refer that content to the Classification Office for classification.
+
+### 46F How ratings and descriptions must be determined
+(1) The rating and description assigned to commercial video on-demand content by a specified CVoD provider using an approved self-rating system must be consistent with the purpose of this Part, taking into account all of the following factors:
+  (a) the dominant effect of the content as a whole:
+  (b) the persons, classes of persons, or age groups of the persons to whom the content is intended or is likely to be made accessible:
+  (c) the extent to which, and the manner in which, the content deals with sex, horror, crime, terrorism, cruelty, violence, torture, sexual violence, sexualisation of children, self-harm, or offensive language or behaviour:
+  (d) whether and how the content—
+    (i) degrades or dehumanises or demeans any person:
+    (ii) represents (whether directly or by implication) that members of any particular class of the public are inherently inferior to other members of the public by reason of any characteristic of members of that class, being a characteristic that is a prohibited ground of discrimination specified in section 21(1) of the Human Rights Act 1993:
+  (e) any other aspect of the content which is likely to be of concern to parents and young people or to cause harm to persons who view that content:
+  (f) any literary, artistic, social, cultural, educational, or scientific importance, merit, or value of the content:
+  (g) any other factors prescribed in regulations.
+(2) The rating must indicate whether the content is—
+  (a) suitable for all audiences; or
+  (b) suitable for all audiences with parental guidance for children; or
+  (c) suitable for mature audiences; or
+  (d) unsuitable for audiences under a specified age.
+(3) The description, if applicable, must—
+  (a) be in the prescribed form; and
+  (b) describe those aspects of the content that are likely to be of concern to parents and young people or to cause harm to persons who view it.
+
+### 46G Approval of providers’ self-rating systems
+(1) A specified CVoD provider may apply to the Chief Censor for approval of a system to be used by the provider to rate and label the provider’s commercial video on-demand content.
+(2) Every application must contain the prescribed information and be accompanied by the prescribed fee (if any).
+(3) The Chief Censor may approve the self-rating system for use by the provider if the Chief Censor is satisfied that use of the system will enable the provider to meet the requirements of section 46F.
+(4) The Chief Censor’s approval may be subject to any terms and conditions that the Chief Censor considers are necessary for the purposes of subsection (3).
+
+### 46H Chief Censor must annually review approved self-rating systems
+(1) The Chief Censor must annually review each approved self-rating system used by a specified CVoD provider.
+(2) A specified CVoD provider must pay the prescribed fee (if any) for the annual review.
+
+### 46I Suspension and cancellation of approvals
+(1) The Chief Censor may, at any time, give notice to a specified CVoD provider that the approval of the self-rating system used by the provider is suspended if the Chief Censor considers that the provider is not using the self-rating system in accordance with any terms and conditions of the approval.
+(2) A notice under subsection (1) must specify the reasons for the suspension.
+(3) The Chief Censor may cancel the approval if—
+  (a) the Chief Censor has notified the specified CVoD provider of a suspension in accordance with subsections (1) and (2) and given the provider a reasonable opportunity to address the Chief Censor’s concerns; and
+  (b) the provider has failed to address those concerns.
+(4) If an approval is suspended under this section, during the period of suspension, the system to which the approval relates is not an approved self-rating system.
+(5) If an approval is cancelled under this section, the system to which the approval relates is not an approved self-rating system from the date of the cancellation.
+
+### 46J Complaints process
+(1) Any person may complain to the Chief Censor about the rating or description assigned by a specified CVoD provider to commercial video on-demand content.
+(2) After receiving a complaint, the Chief Censor may—
+  (a) refer the complaint to the provider, along with any comment or recommendation the Chief Censor considers appropriate, and require the provider to consider the complaint and respond to the complainant; or
+  (b) classify the content under section 13(3); or
+  (c) decline to take further action, if the Chief Censor considers that the content has been correctly labelled.
+(3) After making a decision in accordance with subsection (2), the Chief Censor must advise the person who made the complaint of the decision and the reasons for the decision.
 
 ## Part 4 — Review of classification decisions
 
@@ -1171,18 +1268,18 @@ No action shall lie against any person for any act done in good faith in pursuan
   (a) any film in respect of which no label has been issued under this Act; or
   (b) any film that, in contravention of regulations made under this Act, does not have displayed either on it or on any cassette, case, or other container in or on which that film is supplied to the public or offered for supply to the public, the label issued under this Act in respect of that film.
 (2) Every person commits an offence against this Act who—
-  (a) exhibits to the public any film in respect of which no label has been issued under this Act; or
+  (a) exhibits to the public or makes available any film in respect of which no label has been issued under this Act; or
   (b) in contravention of regulations made under this Act,—
     (i) fails to display, in the prescribed form and manner, the contents of any label issued under this Act in respect of a film; or
     (ii) fails to advertise, in the prescribed form and manner, the contents of any such label.
 (3) Every person commits an offence against this Act who supplies to the public or offers for supply to the public any film at a time when that film, or the cassette, case, or other container in or on which that film is supplied to the public or offered for supply to the public, has displayed on it, otherwise than in accordance with regulations made under this Act, the label issued under this Act in respect of that film.
-(4) Nothing in this section shall apply in relation to the public supply or public exhibition of a film that is exempted by section 7 or section 8 from the requirements of section 6.
+(4) Nothing in this section shall apply in relation to the public supply or public exhibition of a film that is exempted by section 7 or section 8 from the requirements of section 6 and section 46C.
 (5) Every person who commits an offence against subsection (1) or subsection (2) or subsection (3) is liable on conviction to a fine not exceeding,—
   (a) in the case of an individual, $3,000:
   (b) in the case of a body corporate, $10,000.
 
 ### 121 Unlawful issue of labels
-(1) Every person commits an offence against this Act who, not being the labelling body, issues or purports to issue any label that is intended or is likely, by reason of its wording or appearance, or in any other manner, to cause any person to believe, contrary to the fact, that the label was issued under this Act.
+(1) Every person commits an offence against this Act who, not being the labelling body or a specified CVoD provider using an approved self-rating system issues or purports to issue any label that is intended or is likely, by reason of its wording or appearance, or in any other manner, to cause any person to believe, contrary to the fact, that the label was issued under this Act.
 (2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding,—
   (a) in the case of an individual, $3,000:
   (b) in the case of a body corporate, $10,000.
@@ -1192,7 +1289,7 @@ No action shall lie against any person for any act done in good faith in pursuan
 ### 122 Meaning of distribute in sections 123 to 132
 (1) In sections 123 to 132, unless the context otherwise requires, distribute, in relation to a publication, means—
   (a) to deliver, give, or offer the publication; or
-  (b) to provide access to the publication (for example, to provide access by means of a public data network to digital content that is or includes the publication).
+  (b) to provide access to the publication (for example, to make available digital content that is or includes the publication by means of a public data network).
 (2) However, a person does not distribute a publication unless the person—
   (a) intends, or knows of, the act of distribution; and
   (b) knows what, in general terms, the publication is or contains.
@@ -1338,7 +1435,11 @@ Nothing in section 123 or section 124 applies to the exhibition or display, to a
   (c) for the purpose of giving legal advice in relation to the publication; or
   (d) for the purposes of giving legal advice, or making representations, in relation to any proceedings; or
   (e) in accordance with, or for the purpose of, complying with any decision or order made in relation to the publication by the Chief Censor, the Classification Office, the Board, or any court, Judge, Justice, or Community Magistrate; or
-  (f) in connection with the delivery of the publication to the National Librarian in accordance with Part 4 of the National Library of New Zealand (Te Puna Matāuranga o Aotearoa) Act 2003.
+  (f) in connection with the delivery of the publication to the National Librarian in accordance with Part 4 of the National Library of New Zealand (Te Puna Matāuranga o Aotearoa) Act 2003; or
+  (g) for the purposes of rating and labelling the publication, if—
+    (i) the publication is video on-demand content; and
+    (ii) the defendant is a specified CVoD provider; and
+    (iii) the defendant assesses the content as soon as is reasonably practicable after it comes into the defendant’s possession, using the defendant's approved self-rating system, and refers the content to the Classification Office for classification in accordance with section 46E(3) as soon as is reasonably practicable after the approved self-rating system identifies the content as potentially being objectionable.
 (6) Nothing in subsection (5) shall prejudice any defence that it is open to a person charged with an offence against this section to raise apart from that subsection.
 (7) For the avoidance of doubt, in this section the term proceedings includes proceedings before the Classification Office.
 
