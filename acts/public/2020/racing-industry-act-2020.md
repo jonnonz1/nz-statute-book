@@ -1,5 +1,5 @@
 # Racing Industry Act 2020
-_Consolidation as at 2021-07-01_
+_Consolidation as at 2021-08-01_
 
 ### 1 Title
 This Act is the Racing Industry Act 2020.
@@ -1521,9 +1521,7 @@ TAB NZ must perform the duties of the Agency under sections 13 and 21 of the for
 **Penalties payable for contravening betting information use agreement**
 
 ### 23 Calculation of penalty payable for contravening betting information use agreement during first 12 months
-(1) This clause applies during the period beginning on the commencement of this clause and ending on the close of 31 July 2021.
-(2) Despite section 112(2), the designated authority may issue a penalty notice to an offshore betting operator that is contravening, or has contravened, section 110 that requires the operator to pay 3 times the average amount specified in the relevant betting information use agreement between the Agency and the operator that was in force immediately before the commencement of this clause.
-(3) This clause is repealed on the close of 31 July 2021.
+[Repealed]
 
 **Temporary provisions relating to TAB NZ**
 
@@ -1534,17 +1532,7 @@ TAB NZ must perform the duties of the Agency under sections 13 and 21 of the for
 (2) An Agency member is not entitled to any compensation or other payment or benefit for the loss of office.
 
 ### 25 Minister may exercise temporary powers in relation to TAB NZ
-(1) During the period beginning on the commencement of this clause and ending on the close of 31 July 2021, the Minister may—
-  (a) provide a letter of expectations to TAB NZ that sets out the Minister’s expectations regarding TAB NZ’s strategic direction; and
-  (b) give written directions to TAB NZ—
-    (i) to use, or improve, its resources (whether physical, financial, or human) in a manner that will benefit New Zealand racing:
-    (ii) to secure economies or efficiencies:
-    (iii) to develop expertise and capability:
-    (iv) to ensure business change or continuity:
-    (v) to manage risks to its financial position; and
-  (c) require TAB NZ to report to the Minister, at the intervals and in the manner required by the Minister, in relation to the performance of its functions under this Act.
-(2) To avoid doubt, nothing in this clause limits the Minister’s other powers under this Act or any other Act.
-(3) This clause is repealed on the close of 31 July 2021.
+[Repealed]
 
 **Distribution to racing codes**
 
