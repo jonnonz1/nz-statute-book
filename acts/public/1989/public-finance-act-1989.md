@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2021-07-01_
+_Consolidation as at 2021-08-05_
 
 > Title
 
@@ -2417,13 +2417,13 @@ Despite clause 2, old section 45 must be read as if it included a requirement fo
 | City Rail Link Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Crown Asset Management Limited |  | ✓ | ✓ | ✓ |  |
 | Crown Infrastructure Partners Limited |  |  |  |  |  |
+| Crown Regional Holdings Limited |  | ✓ |  | ✓ |  |
 | Education Payroll Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Health Benefits Limited | ✓ | ✓ | ✓ | ✓ |  |
 | New Zealand Green Investment Finance Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Ngāpuhi Investment Fund Limited |  | ✓ | ✓ | ✓ |  |
 | Ōtākaro Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Predator Free 2050 Limited | ✓ | ✓ | ✓ | ✓ |  |
-| Provincial Growth Fund Limited |  | ✓ |  | ✓ |  |
 | Research and Education Advanced Network New Zealand Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Southern Response Earthquake Services Limited | ✓ | ✓ |  | ✓ |  |
 | Tāmaki Redevelopment Company Limited | ✓ | ✓ | ✓ | ✓ |  |
