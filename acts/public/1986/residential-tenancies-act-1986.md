@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2021-02-11_
+_Consolidation as at 2021-08-11_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -1069,9 +1069,10 @@ In sections 49A to 49D, unless the context otherwise requires, premises includes
 
 ### 50 Circumstances in which tenancies are terminated
 (1) Subject in the case of a subtenancy to section 57, no tenancy to which this Act applies shall terminate or be terminated otherwise than as follows:
-  (a) in the case of a fixed-term tenancy, on the expiry of the term of the tenancy or, if any of sections 56A(1), 58(1)﻿(d), (da), 59, 59A, or 59B apply, by giving notice in accordance with the applicable section:
+  (a) in the case of a fixed-term tenancy, on the expiry of the term of the tenancy or, if any of sections 55AA, 56A(1), 58(1)﻿(d), (da), 59, 59A, or 59B apply, by giving notice in accordance with the applicable section:
   (ab) on the death of a sole tenant under a tenancy agreement or a sole tenant under a boarding house tenancy agreement, in accordance with section 50A or 66W, as the case requires:
-  (b) in the case of a periodic tenancy to which a right of termination under any of sections 51 to 53B, 56A(1), 58(1)﻿(c), and 59 to 59B applies, by giving notice in accordance with the applicable section:
+  (ac) by the sole tenant under a fixed-term tenancy or periodic tenancy giving notice of withdrawal under section 56B:
+  (b) in the case of a periodic tenancy to which a right of termination under any of sections 51 to 53B, 55AA, 56A(1), 58(1)﻿(c), and 59 to 59B applies, by giving notice in accordance with the applicable section:
   (ba) in the case of a boarding house tenancy to which a right of termination under any of sections 52 to 53A, 58(1)﻿(c), 59 to 59B, 66U, 66V, and 66X applies, by giving notice in accordance with the applicable section:
   (c) where the tenant acquires the landlord's interest in the premises:
   (d) where the tenant surrenders the tenancy, or delivers up vacant possession of the premises, to the landlord with the landlord's written consent:
@@ -1206,6 +1207,25 @@ With the consent of the Tribunal, the parties to a tenancy agreement may provide
 (3) It shall not be necessary for the landlord to give to the tenant notice of the landlord's intention to apply under this section for an order terminating the tenancy.
 (4) In this section premises includes facilities.
 
+### 55AA Termination by notice for physical assault by tenant
+(1) A landlord may terminate a fixed-term or periodic tenancy by giving at least 14 days’ notice to the tenant if—
+  (a) the tenant has physically assaulted the landlord, the owner, a member of the landlord’s or owner’s family, or the landlord’s agent; and
+  (b) a charge has been filed in respect of the physical assault against the tenant by or on behalf of the Crown.
+(2) For the purpose of subsection (1)﻿(b), a charge has been filed in respect of a physical assault if the particulars of the charge describe a physical assault against a person referred to in subsection (1)﻿(a), regardless of the offence that is specified in the charge.
+(3) A notice to terminate a tenancy under this section must—
+  (a) be in the approved form and include the prescribed information; and
+  (b) be accompanied by qualifying evidence of the matters in subsection (1)﻿(b); and
+  (c) advise the tenant of the tenant’s right to make an application to the Tribunal challenging the notice (see sections 77(1) and 78(1)﻿(a) regarding the Tribunal); and
+  (d) be signed by the landlord or the landlord’s agent.
+(4) If the tenant makes an application to the Tribunal challenging the notice, it is for the landlord to prove that the physical assault occurred and that the notice met the requirements of subsection (3).
+(5) If the tenant makes an application to the Tribunal challenging the notice before the tenancy is terminated, the tenancy does not terminate under this section except in accordance with an order of the Tribunal.
+(6) In this section,—
+  - **charge** means a charging document under section 14 of the Criminal Procedure Act 2011
+  - **physical assault** means the act of intentionally applying force to the person of another, directly or indirectly
+  - **qualifying evidence** means—
+    (a) a declaration in the approved form made by a person who is prescribed, or is of a class prescribed, for the purposes of this subsection; or
+    (b) evidence, in the approved form, of a prescribed type.
+
 ### 55A Termination for anti-social behaviour
 (1) A landlord under a periodic tenancy may apply to the Tribunal for an order terminating the tenancy on the ground of anti-social behaviour.
 (2) The Tribunal must (subject to subsection (3)) make the order if satisfied that—
@@ -1247,6 +1267,60 @@ With the consent of the Tribunal, the parties to a tenancy agreement may provide
 (1) A tenant of premises that at the start of the tenancy were, and that remain, unlawful residential premises may terminate the tenancy by giving not less than 2 days’ notice to the landlord.
 (2) Without limiting subsection (1), a landlord or a tenant may apply to the Tribunal for an order terminating a tenancy on the ground that the premises are unlawful residential premises.
 (3) The Tribunal may make the order if section 78A applies and the Tribunal is satisfied that it would be inequitable to refuse to make an order terminating the tenancy.
+
+### 56B Withdrawal from tenancy following family violence
+(1) A tenant under a fixed-term or periodic tenancy may withdraw from the tenancy by giving at least 2 days’ notice to the landlord if—
+  (a) the notice is accompanied by qualifying evidence that the tenant has been a victim of family violence while a tenant of the premises; and
+  (b) the notice is in the approved form and includes the prescribed information.
+(2) If there are no other tenants under the tenancy at the time of the withdrawal, the tenancy terminates.
+(3) If there are other tenants (remaining tenants) under the tenancy at the time of the withdrawal,—
+  (a) the tenant withdrawing from the tenancy (the withdrawing tenant) ceases to be responsible to the landlord for obligations under the tenancy agreement and this Act, except in respect of any liability for anything done or omitted to be done before the withdrawal; and
+  (b) the tenancy continues in relation to the remaining tenants only; and
+  (c) the withdrawing tenant must give each remaining tenant notice of the withdrawal no later than the close of the day that is 2 days after the date of the withdrawal; and
+  (d) the amount of rent for which the remaining tenants are liable is reduced as set out in subsection (5) (unless subsection (6) applies).
+(4) A failure to comply with subsection (3)﻿(c) does not affect the validity of the withdrawal.
+(5) For the period of 2 weeks beginning with the day after the date of the withdrawal, the rent payable for the premises is reduced to an amount calculated in accordance with the following formula:a = b ÷ c × dwhere—ais the rent payable for the 2-week periodbis the rent that would otherwise have been payable for the 2-week periodcis the number of tenants immediately before the withdrawaldis the number of remaining tenants.
+(6) However, the amount of rent is not reduced under subsection (5) if—
+  (a) the rent payable under the tenancy by the remaining tenants is income-related rent; or
+  (b) the tenancy is a PACHMA tenancy prescribed, or of a class prescribed, for the purposes of this subsection; or
+  (c) the tenancy, or the landlord under the tenancy, is prescribed, or of a class prescribed, for the purposes of this subsection.
+(7) Neither a rent reduction under subsection (5), nor the reinstatement from the end of the 2-week period of the rent previously payable, is a variation of the tenancy agreement for the purposes of sections 13B and 13C, and the reinstatement does not constitute a rent increase.
+(8) In this section,—
+  - **family violence** has the meaning given to it by section 9 of the Family Violence Act 2018
+  - **income-related rent** , , and have the meanings given to them by section 2(1) of the Public and Community Housing Management Act 1992
+  - **PACHMA tenancy** means a tenancy that—
+    (a) was granted before 14 April 2014 and is a tenancy of Kāinga Ora housing; or
+    (b) was granted as a tenancy of social housing to a tenant assessed under the Public and Community Housing Management Act 1992 as eligible to be allocated social housing
+  - **qualifying evidence** means—
+    (a) a declaration in the approved form made by a person who is prescribed, or is of a class prescribed, for the purposes of this subsection; or
+    (b) evidence, in the approved form, of a prescribed type.
+
+### 56C Service of notices of withdrawal and accompanying evidence
+(1) Despite section 136(6),—
+  (a) if a notice of withdrawal under section 56B(1) and accompanying qualifying evidence under section 56B(1)﻿(a) are sent by post in accordance with section 136, they are to be treated as given to the landlord on the date on which they are posted, and, in proving that the notice and evidence were given, it is sufficient to prove that the letter was properly addressed and posted:
+  (b) if a notice of withdrawal under section 56B(3)﻿(c) is sent by post in accordance with section 136, it is to be treated as given to the tenant on the date on which it is posted, and, in proving that the notice was given, it is sufficient to prove that the letter was properly addressed and posted.
+(2) Despite section 136(7),—
+  (a) if a notice of withdrawal under section 56B(1) and accompanying qualifying evidence under section 56B(1)﻿(a) are delivered to an address in accordance with section 136, they are to be treated as given to the landlord on the date on which they are delivered, and, in proving that the notice and evidence were given, it is sufficient to prove that the letter was properly addressed and delivered:
+  (b) if a notice of withdrawal under section 56B(3)﻿(c) is delivered to an address in accordance with section 136, it is to be treated as given to the tenant on the date on which it is delivered, and, in proving that the notice was given, it is sufficient to prove that the letter was properly addressed and delivered.
+
+### 56D Termination where it would be unreasonable to require remaining tenant to continue with tenancy
+(1) A tenant under a fixed-term tenancy from which another tenant withdraws under section 56B may apply to the Tribunal for an order terminating the tenancy on the ground of hardship.
+(2) The Tribunal may make the order only if satisfied that,—
+  (a) as a result of the withdrawal, the tenant who made the application is suffering, or will suffer, hardship; and
+  (b) that hardship is or will be greater than the hardship that the landlord would suffer if the tenancy were terminated; and
+  (c) because of the hardship, it would be unreasonable to require the tenant to continue with the tenancy.
+(3) Any application under this section must be made before the end of the period of 60 days beginning with the day after the date of the withdrawal.
+(4) Any order under this section must specify a date for the termination.
+
+### 56E Disclosure of notice of withdrawal or accompanying evidence
+(1) A landlord, or a person or class of person prescribed for the purposes of section 56B(8), must not disclose the whole or part of a notice of withdrawal under section 56B(1), or any of the accompanying qualifying evidence, unless the disclosure is permitted by subsection (2).
+(2) The disclosure is permitted if it—
+  (a) is with the consent of the tenant who gave the notice; or
+  (b) is for the purpose of seeking legal advice; or
+  (c) is for the purposes of, or in connection with, any legal proceedings or procedure under this or any other Act to settle a dispute between the landlord and the tenant, or between the landlord and a guarantor of the tenant, in relation to the tenancy; or
+  (d) is of a type, or in circumstances, prescribed by regulations for the purposes of this section; or
+  (e) is otherwise authorised or required by or under any enactment or rule of law.
+(3) A person who contravenes subsection (1) commits an unlawful act.
 
 ### 57 Effect on subtenancy of termination of head tenancy
 (1) Except as provided in subsections (2) and (3), where any premises are subject to a tenancy and 1 or more subtenancies, on the termination of the tenancy each subtenancy shall be deemed to be terminated.
@@ -1942,6 +2016,7 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
 (6) Subsection (5) shall not prevent a party from abandoning so much of a claim as exceeds $100,000 in order to bring the claim within the jurisdiction of the Tribunal; and, in any such case, an order of the Tribunal under this Act in relation to the claim shall operate to discharge from liability in respect of the amount so abandoned any person against whom the claim and the subsequent order is made.
 (7) Subsection (5) does not affect a claim relating to a tenancy that is for a balance of not more than $100,000 that results from a set-off or any counterclaim in respect of the same tenancy, if the set-off or counterclaim is admitted by the claimant in the notice of claim.
 (7A) The Tribunal does not have jurisdiction to consent to a person charging a tenant a letting fee.
+(7B) The Tribunal does not have jurisdiction to determine a dispute so far as it raises a question as to whether a tenant of premises who gave notice accompanied by qualifying evidence under section 56B was in fact a victim of family violence while a tenant of the premises.
 (8) A cause of action shall not be divided into 2 or more claims for the purpose of bringing it within the jurisdiction of the Tribunal.
 
 ### 78 Orders of Tribunal
@@ -2237,18 +2312,20 @@ The Tribunal may strike out, in whole or in part, a proceeding if satisfied that
   (c) proceedings under section 108 for enforcement of a work order of the Tribunal;—
 
 ### 95 Proceedings usually to be in public
-(1) Except as provided in subsection (2), the proceedings of the Tribunal shall be conducted in public.
-(2) The Tribunal may, on the application of any party to the proceedings or on its own initiative, and after having due regard to the interests of the parties and to the public interest, order that the whole or any part of the hearing shall be held in private.
+(1) Except as provided in subsections (1A) and (2), the proceedings of the Tribunal shall be conducted in public.
+(1A) If the proceedings relate to withdrawal from a tenancy under section 56B, the Tribunal must order that the whole of the hearing be held in private.
+(2) In any other case, the Tribunal may, on the application of any party to the proceedings or on its own initiative, and after having due regard to the interests of the parties and to the public interest, order that the whole or any part of the hearing shall be held in private.
 (3)
 (4)
 
 ### 95A Suppression orders
 (1) The Tribunal must, on the application of a party that has wholly or substantially succeeded in proceedings, order that the party’s name or identifying particulars not be published, unless the Tribunal considers that publication is in the public interest or is justified because of the party’s conduct or any other circumstances of the case.
+(1A) The Tribunal must, in any proceedings that relate to withdrawal from a tenancy under section 56B, order that the name and any identifying particulars of the parties not be published.
 (2) The Tribunal must, if the chief executive acts in the place of a party under section 124A, order that the name and any identifying particulars of that party not be published.
-(3) Subsection (4) applies to proceedings whether or not subsection (1) or (2) also applies to the proceedings.
+(3) Subsection (4) applies to proceedings whether or not any of subsections (1) to (2) also applies to the proceedings.
 (4) The Tribunal may, on the application of any party to proceedings or on its own initiative, having regard to the interests of the parties and to the public interest, order that all or part of the evidence given or the name or any identifying particulars of any witness or party not be published.
 (5) An order under subsection (4) may be made subject to any conditions that the Tribunal considers appropriate.
-(6) An order under subsection (4), or a condition under subsection (5), must not be inconsistent with subsection (1) or (2) (to the extent that those subsections also apply to the proceedings).
+(6) An order under subsection (4), or a condition under subsection (5), must not be inconsistent with any of subsections (1) to (2) (to the extent that those subsections also apply to the proceedings).
 
 ### 96 Further provisions relating to procedure generally
 (1) The Tribunal may adjourn a hearing at any time and from time to time and place to place, upon the application of either party to the proceedings or of its own motion, and on such terms as it thinks fit.
@@ -2256,7 +2333,12 @@ The Tribunal may strike out, in whole or in part, a proceeding if satisfied that
   (a) extend any time limit; or
   (b) if it is satisfied that the other party will not be prejudiced thereby, waive compliance by the applicant with any other procedural requirement,—
 (3) The Tribunal may extend any such time limit notwithstanding that the application for the extension is not made until after the expiration of the time appointed or fixed.
-(3A) The hearing of a matter or any part of it may be conducted by telephone, audiovisual link, or other remote access facility if the Tenancy Adjudicator conducting the hearing considers it appropriate and the necessary facilities are available.
+(3AA) The Tribunal must, on the application of any party to proceedings before it relating to withdrawal from a tenancy under section 56B, permit the party’s evidence to be given remotely if the necessary facilities are available.
+(3AB) If evidence is to be given remotely under subsection (3AA), the Tenancy Adjudicator conducting the hearing or a Registrar of the Tribunal may determine which 1 or more of the following are to be used:
+  (a) telephone:
+  (b) audiovisual link:
+  (c) any other remote access facility that the Tenancy Adjudicator or Registrar considers appropriate.
+(3A) The hearing of any other matter or any part of it may be conducted by telephone, audiovisual link, or other remote access facility if the Tenancy Adjudicator conducting the hearing considers it appropriate and the necessary facilities are available.
 (4) Except as expressly provided in this Act or in any regulations made under this Act, the Tribunal may regulate its own procedure in such manner as it thinks fit.
 (5) Subject to the provisions of this Act and of any regulations made under this Act, and to any directions of the Principal Tenancy Adjudicator under section 115, the Tenancy Adjudicator who is sitting in any particular case, or, where 2 or more Tenancy Adjudicators are sitting, the Tenancy Adjudicator who is presiding, may give all such directions and do all such things as are necessary or desirable for the expeditious and just hearing and determination of the case.
 
@@ -2985,6 +3067,7 @@ Any amount that is, by virtue of any provision of this Act or of any order of th
   (b) by sending it by post addressed to the witness at the witness's last-known place of residence or business.
 (6) Where any document is sent by post in accordance with any of the foregoing provisions of this section, it shall be deemed, in the absence of evidence to the contrary, to have been given or served on the fourth working day after the date on which it was posted; and, in proving service, it shall be sufficient to prove that the letter was properly addressed and posted.
 (7) Where any document is delivered to any address in accordance with any of the foregoing provisions of this section, it shall be deemed, in the absence of evidence to the contrary, to have been given or served on the second working day after the date on which it was delivered; and, in proving service, it shall be sufficient to prove that the letter was properly addressed and delivered.
+(7A) Section 56C overrides subsections (6) and (7) in relation to the giving of a notice of withdrawal under section 56B(1) and (3)﻿(c) and accompanying qualifying evidence under section 56B(1)﻿(a).
 (8) Where any document is transmitted by facsimile in accordance with this section after 5 pm on any day, it shall be deemed, in the absence of evidence to the contrary, to have been given or served on the next working day after the date on which it was transmitted; and, in proving service, it shall be sufficient to prove that the document was properly transmitted by facsimile machine to the person concerned.
 (9) Where any document is transmitted by email in accordance with this section after 5 pm on any day, it is to be treated, in the absence of evidence to the contrary, to have been given or served on the next working day after the date on which it was transmitted.
 (10) In proving service of a document transmitted by email, it is sufficient to prove that the email was—
@@ -3408,6 +3491,7 @@ The amendment made by section 73 of the 2020 Act applies to conduct whether the 
 | 48(4)﻿(c) | Landlord failing to notify tenant of results of contamination test | 1,000 |
 | 49D | Unlawful acts of landlord related to tenant’s liability under section 49B | 1,800 |
 | 54(3) | Landlord giving retaliatory notice of termination | 6,500 |
+| 56E(3) | Disclosing notice of withdrawal or accompanying qualifying evidence of family violence | 3,000 |
 | 60AA | Landlord acting to terminate tenancy without grounds | 6,500 |
 | 61(5) | Tenant abandoning premises without reasonable excuse | 1,500 |
 | 66G(4) | Harassment of tenant in boarding house | 3,000 |
