@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2021-03-14_
+_Consolidation as at 2021-08-17_
 
 > Title
 
@@ -981,7 +981,9 @@ In this subpart,—
     (iii) is legible; and
     (iv) is presented clearly; and
     (v) complies with the requirements of subsection (2); and
-  (b) a copy of the agreement is given to the consumer at the time the consumer purchases the extended warranty.
+  (b) a copy of the agreement is given to the consumer—
+    (i) at the time the agreement is entered into; or
+    (ii) in the case of an agreement entered into over the telephone, within 5 working days after the date on which the agreement was entered into.
 (2) The requirements referred to in subsection (1)﻿(a)﻿(v) are that—
   (a) the following information is set out on the front page of the agreement:
     (i) a summarised comparison between the relevant Consumer Guarantees Act 1993 guarantees and the protections provided by the extended warranty agreement; and
@@ -994,7 +996,7 @@ In this subpart,—
   (c) the total price payable under the agreement is disclosed in the agreement; and
   (d) the agreement is dated.
 (3) In addition to the requirements for written disclosure under subsections (1) and (2), the warrantor must, where reasonably practicable (for example, where the agreement is entered into between a warrantor and consumer in each other's presence or by telephone), give the consumer oral notice, before the agreement is entered into, of—
-  (a) the consumer's right to cancel the agreement within 5 working days; and
+  (a) the consumer's right to cancel the agreement within 5 working days after the date on which the consumer receives a copy of the agreement; and
   (b) how the consumer may cancel the agreement.
 
 ### 36V Cancellation of extended warranty agreement
@@ -1095,7 +1097,7 @@ Any bid at an auction may be withdrawn before the end of the auction.
 **Jurisdiction of courts**
 
 ### 37 Jurisdiction of High Court
-In accordance with this Part, the High Court shall hear and determine the following matters—
+(1) In accordance with this Part, the High Court shall hear and determine the following matters—
   (a) appeals from criminal proceedings in the District Court for offences against sections 40 and 47J:
   (ab) appeals from proceedings in the District Court for orders under section 40A:
   (b) applications for injunctions under section 41:
@@ -1104,6 +1106,7 @@ In accordance with this Part, the High Court shall hear and determine the follow
   (e) appeals from any order of the District Court under section 46B:
   (f) appeals from any order or decision of the District Court under section 46C or 46G:
   (g) applications by the Commission for a declaration under section 46I.
+(2) See also section 100A of the Commerce Act 1986, under which the Commission may state a case for the opinion of the High Court on any question of law arising in any matter before it under this Act.
 
 ### 38 Jurisdiction of District Court
 (1) In accordance with this Part, the District Court shall hear and determine the following matters—
@@ -1307,6 +1310,20 @@ In any application for an order against a person under section 43, a finding of 
 (1) The Commission may accept a written undertaking given by, or on behalf of, a person in connection with any matter relating to the enforcement of this Act.
 (2) The person may withdraw or vary the undertaking with the consent of the Commission.
 
+### 46AA Matters included in undertakings
+(1) An undertaking under section 46A may, without limitation, include either or both of the following:
+  (a) an undertaking to pay compensation to any person or otherwise take action to avoid, remedy, or mitigate any actual or likely adverse effects arising from a contravention, or possible contravention, of this Act:
+  (b) an undertaking to pay to the Commission all or part of the Commission’s costs incurred in investigating, or bringing proceedings in relation to, a contravention, or possible contravention, of this Act.
+(2) If the Commission accepts an undertaking that involves payment of compensation to any person, or payment of the Commission’s costs, the Commission must make the following information publicly available:
+  (a) the amount of the compensation, or of the Commission’s costs, that has been undertaken to be paid; and
+  (b) a brief description of the circumstances and nature of the contravention, or possible contravention, of this Act to which the undertaking relates.
+(3) In this section, contravention means any of the following:
+  (a) an actual contravention:
+  (b) aiding, abetting, counselling, or procuring a contravention:
+  (c) inducing a contravention, whether by threats, promises, or otherwise:
+  (d) being in any way, directly or indirectly, knowingly concerned in, or party to, a contravention:
+  (e) conspiring with any other person in a contravention.
+
 ### 46B Enforcement of undertakings
 (1) If the Commission considers that a person who has given an undertaking under section 46A has breached a term of that undertaking, the Commission may apply to the court for an order under subsection (2).
 (2) The court may make any of the following orders if it is satisfied that the person has breached a term of the undertaking:
@@ -1319,8 +1336,10 @@ In any application for an order against a person under section 43, a finding of 
 
 ### 46C Management banning orders
 (1) The District Court may make a management banning order against an individual who—
-  (a) has, on at least 2 separate occasions within a 10-year period (whether before or after this section comes into force), committed an offence against section 40(1) or (1A); or
-  (b) is, or was at the time of the commission of the offence, a director of, or concerned in the management of, an incorporated or unincorporated body that has, on at least 2 separate occasions within a 10-year period (whether before or after this section comes into force), committed an offence against section 40(1) or (1A); or
+  (a) has, on at least 2 separate occasions within a 10-year period (whether before or after this section comes into force or is amended), done either or both of the following:
+    (i) committed an offence against section 40(1) or (1A):
+    (ii) been a director of, or concerned in the management of, an incorporated or unincorporated body when it committed an offence against section 40(1) or (1A); or
+  (b)
   (c) has been prohibited by an overseas jurisdiction, in connection with the contravention of any law relating to fair trading, from carrying on activities that are substantially similar to those referred to in section 46D.
 (2) The court may make the order only if it is satisfied that the order is necessary to protect the public from the risk that the person, or any incorporated or unincorporated body of which the person is a director, or the management of which the person is concerned in, will commit further offences against section 40(1) or (1A).
 
@@ -1704,6 +1723,9 @@ Nothing in sections 48B to 48L or any co-operation arrangement prevents the Comm
 ### 48S Certain conduct under Financial Markets Conduct Act 2013 does not contravene various provisions of this Act
 (1) Conduct that contravenes section 82, 99, 262, 265, or 427 or clause 27 of Schedule 1 of the Financial Markets Conduct Act 2013 does not contravene any of sections 9 to 13 of this Act.
 (2) For the purpose of this section, conduct must be treated as contravening section 82, 99, 262, 265, or 427 or clause 27 of Schedule 1 of the Financial Markets Conduct Act 2013 even if the conduct does not constitute an offence, or does not lead to any liability, because of the availability of a defence.
+
+### 48T Powers of Commission to prohibit disclosure of information, documents, and evidence
+Section 100 of the Commerce Act 1986 (powers of Commission to prohibit disclosure of information, documents, and evidence) applies, with all necessary modifications, in relation to an investigation or inquiry by the Commission under this Act as it applies in relation to an investigation or inquiry under the Commerce Act 1986.
 
 ### 49 Repeals and consequential amendments
 (1) The enactment specified in Schedule 1 is hereby amended in the manner indicated in that schedule.
