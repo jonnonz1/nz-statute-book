@@ -1,5 +1,5 @@
 # Heavy Engineering Research Levy Act 1978
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2021-08-26_
 
 > An Act to authorise the levying of persons engaged in heavy engineering manufacture and related industries to provide funds for research into heavy engineering
 
@@ -142,242 +142,287 @@ The provisions of sections 14 to 16 shall apply to the Association notwithstandi
 
 ## Schedule 2 — Levied items in respect of which rate of levy not to exceed $20 for each tonne
 
-| Tariff item number | Statistical key code | Description of goods |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 72.08 |  | Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, hot-rolled, not clad, plated or coated: |  |  |  |  |  |  |
-|  |  | – | Not in coils, not further worked than hot-rolled, with patterns in relief: |  |  |  |  |  |
-| 7208.40.10 |  | – | – | Of a width exceeding 1.95 m and of a thickness exceeding 4.75 mm |  |  |  |  |
-|  | 01F | . | . | . | Of a thickness of 4.75 mm or more but not exceeding 10 mm |  |  |  |
-|  | 09A | . | . | . | Of a thickness exceeding 10 mm |  |  |  |
-| 7208.40.90 |  | – | – | Other |  |  |  |  |
-|  | 01K | . | . | . | Of a thickness exceeding 10 mm |  |  |  |
-|  | 09E | . | . | . | Of a thickness of 4.75 mm or more but not exceeding 10 mm |  |  |  |
-|  |  | – | Other, not in coils, not further worked than hot-rolled: |  |  |  |  |  |
-|  |  | – | – | Of a thickness exceeding 10 mm: |  |  |  |  |
-| 7208.51.10 | 00F | – | – | – | Rolled on four faces or in a closed box pass, of a width not exceeding 1,250 mm, without patterns in relief and having a minimum yield point of other than 355 MPa |  |  |  |
-|  |  | – | – | – | Other: |  |  |  |
-| 7208.51.50 | 00H | – | – | – | – | Of a width exceeding 1.95 m |  |  |
-| 7208.51.90 | 00K | – | – | – | – | Other |  |  |
-|  |  | – | – | Of a thickness of 4.75 mm or more but not exceeding 10 mm: |  |  |  |  |
-| 7208.52.10 | 00L | – | – | – | Rolled on four faces or in a closed box pass, of a width not exceeding 1,250 mm, without patterns in relief and having a minimum yield point of other than 355 MPa |  |  |  |
-|  |  | – | – | – | Other: |  |  |  |
-| 7208.52.50 | 00B | – | – | – | – | Of a width exceeding 1.95 m |  |  |
-| 7208.52.90 | 00D | – | – | – | – | Other |  |  |
-|  |  | – | Other: |  |  |  |  |  |
-|  |  | – | – | 3 mm or more in thickness: |  |  |  |  |
-| 7208.90.02 |  | – | – | – | Of a width exceeding 1.95 m and of a thickness exceeding 4.75 mm |  |  |  |
-|  | 09G | . | . | . | . | Other |  |  |
-| 7208.90.05 |  | – | – | – | Other |  |  |  |
-|  |  | . | . | . | . | Other: |  |  |
-|  | 11H | . | . | . | . | . | Exceeding 4.75 mm in thickness |  |
-| 72.10 |  | Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, clad, plated or coated: |  |  |  |  |  |  |
-| 7210.20.00 |  | – | Plated or coated with lead, including terne-plate |  |  |  |  |  |
-|  |  | . | . | Other: |  |  |  |  |
-|  | 11B | . | . | . | Exceeding 4.75 mm in thickness |  |  |  |
-|  |  | – | Electrolytically plated or coated with zinc: |  |  |  |  |  |
-|  |  | – | – | Exceeding 1.6 mm in thickness: |  |  |  |  |
-| 7210.30.20 |  | – | – | – | Other |  |  |  |
-|  | 01K | . | . | . | . | Exceeding 4.75 mm in thickness |  |  |
-|  |  | – | Otherwise plated or coated with zinc: |  |  |  |  |  |
-|  |  | – | – | Other: |  |  |  |  |
-|  |  | – | – | – | Exceeding 1.9 mm in thickness: |  |  |  |
-| 7210.49.01 |  | – | – | – | – | Worked |  |  |
-|  | 01K | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |
-|  |  | – | – | – | – | Other: |  |  |
-| 7210.49.19 |  | – | – | – | – | – | Other |  |
-|  | 01F | . | . | . | . | . | . | Exceeding 4.75 mm in thickness |
-| 7210.50.00 |  | – | Plated or coated with chromium oxides or with chromium and chromium oxides |  |  |  |  |  |
-|  |  | . | . | Other: |  |  |  |  |
-|  | 11C | . | . | . | Exceeding 4.75 mm in thickness |  |  |  |
-|  |  | – | Plated or coated with aluminium: |  |  |  |  |  |
-|  |  | – | – | Plated or coated with aluminium-zinc alloys: |  |  |  |  |
-| 7210.61.10 |  | – | – | – | Containing, in the plating or coating, not less than 95% aluminium by weight |  |  |  |
-|  |  | . | . | . | . | Worked: |  |  |
-|  | 01K | . | . | . | . | . | Exceeding 4.75 mm in thickness |  |
-|  |  | . | . | . | . | Other: |  |  |
-|  |  | . | . | . | . | . | Other: |  |
-|  | 21D | . | . | . | . | . | . | Exceeding 4.75 mm in thickness |
-|  |  | – | – | – | Other: |  |  |  |
-| 7210.61.20 |  | – | – | – | – | Worked |  |  |
-|  | 01E | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |
-|  |  | – | – | – | – | Other: |  |  |
-| 7210.61.90 |  | – | – | – | – | – | Other |  |
-|  | 01C | . | . | . | . | . | . | Exceeding 4.75 mm in thickness |
-|  |  | – | – | Other: |  |  |  |  |
-| 7210.69.10 |  | – | – | – | Containing, in the plating or coating, not less than 95% aluminium by weight |  |  |  |
-|  |  | . | . | . | . | Worked: |  |  |
-|  | 01F | . | . | . | . | . | Exceeding 4.75 mm in thickness |  |
-|  |  | . | . | . | . | Other: |  |  |
-|  |  | . | . | . | . | . | Other: |  |
-|  | 21L | . | . | . | . | . | . | Exceeding 4.75 mm in thickness |
-|  |  | – | – | – | Other: |  |  |  |
-| 7210.69.20 |  | – | – | – | – | Worked |  |  |
-|  | 01A | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |
-|  |  | – | – | – | – | Other: |  |  |
-| 7210.69.90 |  | – | – | – | – | – | Other |  |
-|  | 01K | . | . | . | . | . | . | Exceeding 4.75 mm in thickness |
-|  |  | – | Painted, varnished or coated with plastics: |  |  |  |  |  |
-| 7210.70.01 |  | – | – | Worked |  |  |  |  |
-|  | 01K | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |  |  |
-|  |  | – | – | Other: |  |  |  |  |
-| 7210.70.19 |  | – | – | – | Other |  |  |  |
-|  | 01F | . | . | . | . | Exceeding 4.75 mm in thickness |  |  |
-|  |  | – | Other: |  |  |  |  |  |
-| 7210.90.01 |  | – | – | Worked |  |  |  |  |
-|  | 01G | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |  |  |
-|  |  | – | – | Other: |  |  |  |  |
-| 7210.90.19 |  | – | – | – | Other |  |  |  |
-|  | 01C | . | . | . | . | Exceeding 4.75 mm in thickness |  |  |
-| 72.11 |  | Flat-rolled products of iron or non-alloy steel, of a width of less than 600 mm, not clad, plated or coated: |  |  |  |  |  |  |
-|  |  | – | Not further worked than hot-rolled: |  |  |  |  |  |
-| 7211.13.00 |  | – | – | Rolled on four faces or in a closed box pass, of a width exceeding 150 mm and a thickness of not less than 4 mm, not in coils and without patterns in relief |  |  |  |  |
-|  | 05F | . | . | . | Over 500 mm in width, exceeding 4.75 mm in thickness |  |  |  |
-|  |  | – | – | Other, of a thickness of 4.75 mm or more: |  |  |  |  |
-| 7211.14.90 |  | – | – | – | Other |  |  |  |
-|  | 01G | . | . | . | . | Over 500 mm in width |  |  |
-| 72.12 |  | Flat-rolled products of iron or non-alloy steel, of a width of less than 600 mm, clad, plated or coated: |  |  |  |  |  |  |
-|  |  | – | Electrolytically plated or coated with zinc: |  |  |  |  |  |
-|  |  | – | – | Other: |  |  |  |  |
-|  |  | – | – | – | Exceeding 1.6 mm in thickness: |  |  |  |
-| 7212.20.30 |  | – | – | – | – | Other |  |  |
-|  | 01H | . | . | . | . | . | Exceeding 4.75 mm in thickness |  |
-|  |  | – | Otherwise plated or coated with zinc: |  |  |  |  |  |
-|  |  | – | – | Other: |  |  |  |  |
-|  |  | – | – | – | Exceeding 1.9 mm in thickness: |  |  |  |
-| 7212.30.11 |  | – | – | – | – | Worked |  |  |
-|  | 01G | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |
-| 7212.30.19 |  | – | – | – | – | Other |  |  |
-|  | 09C | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |
-|  |  | – | Painted, varnished or coated with plastics: |  |  |  |  |  |
-|  |  | – | – | Other: |  |  |  |  |
-| 7212.40.11 |  | – | – | – | Worked |  |  |  |
-|  | 01L | . | . | . | . | Exceeding 4.75 mm in thickness |  |  |
-| 7212.40.19 |  | – | – | – | Other |  |  |  |
-|  |  | . | . | . | . | Other: |  |  |
-|  | 11J | . | . | . | . | . | Exceeding 4.75 mm in thickness |  |
-|  |  | – | Otherwise plated or coated: |  |  |  |  |  |
-| 7212.50.18 |  | – | – | Other |  |  |  |  |
-|  |  | . | . | . | Other: |  |  |  |
-|  | 11F | . | . | . | . | Exceeding 4.75 mm in thickness |  |  |
-|  |  | – | Clad: |  |  |  |  |  |
-| 7212.60.18 |  | – | – | Other |  |  |  |  |
-|  |  | . | . | . | Other: |  |  |  |
-|  | 11K | . | . | . | . | Exceeding 4.75 mm in thickness |  |  |
-| 72.16 |  | Angles, shapes and sections of iron or non-alloy steel: |  |  |  |  |  |  |
-|  |  | – | U, I or H sections, not further worked than hot-rolled, hot-drawn or extruded of a height of 80 mm or more: |  |  |  |  |  |
-|  |  | – | – | U sections: |  |  |  |  |
-| 7216.31.01 | 00L | – | – | – | 102 mm × 51 mm × 10.4 kg/m |  |  |  |
-| 7216.31.09 | 00A | – | – | – | Other |  |  |  |
-| 7216.32.00 |  | – | – | I sections: |  |  |  |  |
-|  | 01G | . | . | . | Less than 40 kg/m |  |  |  |
-|  | 09B | . | . | . | Other |  |  |  |
-| 7216.33.00 |  | – | – | H sections: |  |  |  |  |
-|  | 01A | . | . | . | Less than 40 kg/m |  |  |  |
-|  | 09G | . | . | . | Other |  |  |  |
-|  |  | – | L or T sections, not further worked than hot-rolled, hot-drawn or extruded, of a height of 80 mm or more: |  |  |  |  |  |
-| 7216.40.01 | 00K | – | – | Equal angled L sections, 80 mm × 80 mm by 5 mm to 13 mm in thickness |  |  |  |  |
-| 7216.40.09 | 00L | – | – | Other |  |  |  |  |
-| 7216.50.00 |  | – | Other angles, shapes and sections, not further worked than hot-rolled, hot-drawn or extruded |  |  |  |  |  |
-|  |  | . | . | Of a height of 80 mm or more: |  |  |  |  |
-|  | 01E | . | . | . | Less than 40 kg/m |  |  |  |
-|  | 09L | . | . | . | Other |  |  |  |
-|  |  | – | Angles, shapes and sections, not further worked than cold-formed or cold-finished: |  |  |  |  |  |
-| 7216.61.00 |  | – | – | Obtained from flat-rolled products |  |  |  |  |
-|  |  | . | . | . | Of a height of 80 mm or more: |  |  |  |
-|  | 01C | . | . | . | . | Angles and tees |  |  |
-|  | 05F | . | . | . | . | Channels, girders, beams and joists |  |  |
-|  | 09J | . | . | . | . | Other |  |  |
-| 7216.69.00 |  | – | – | Other |  |  |  |  |
-|  |  | . | . | . | Of a height of 80 mm or more: |  |  |  |
-|  | 01K | . | . | . | . | Angles and tees |  |  |
-|  | 05B | . | . | . | . | Channels, girders, beams and joists |  |  |
-|  | 09E | . | . | . | . | Other |  |  |
-|  |  | – | Other: |  |  |  |  |  |
-| 7216.91.00 |  | – | – | Cold-formed or cold-finished from flat-rolled products |  |  |  |  |
-|  |  | . | . | . | Worked: |  |  |  |
-|  | 01D | . | . | . | . | Of a height of 80 mm or more |  |  |
-|  |  | . | . | . | Other: |  |  |  |
-|  |  | . | . | . | . | Of a height of 80 mm or more: |  |  |
-|  | 11A | . | . | . | . | . | Galvanised |  |
-|  | 15D | . | . | . | . | . | Other |  |
-| 7216.99.00 |  | – | – | Other |  |  |  |  |
-|  |  | . | . | . | Worked: |  |  |  |
-|  | 01L | . | . | . | . | Of a height of 80 mm or more |  |  |
-|  |  | . | . | . | Other: |  |  |  |
-|  |  | . | . | . | . | Of a height of 80 mm or more: |  |  |
-|  | 11H | . | . | . | . | . | Galvanised |  |
-|  | 15L | . | . | . | . | . | Other |  |
-| 72.25 |  | Flat-rolled products of other alloy steel, of a width of 600 mm or more: |  |  |  |  |  |  |
-|  |  | – | Other, not further worked than hot rolled, not in coils: |  |  |  |  |  |
-| 7225.40.19 |  | – | – | Other |  |  |  |  |
-|  | 10B | . | . | . | Exceeding 4.75 mm in thickness |  |  |  |
-|  |  | – | Other: |  |  |  |  |  |
-|  |  | – | – | Electrolytically plated or coated with zinc: |  |  |  |  |
-| 7225.91.10 |  | – | – | – | Galvanised |  |  |  |
-|  |  | . | . | . | . | Other: |  |  |
-|  | 13B | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |
-| 7225.91.90 |  | – | – | – | Other |  |  |  |
-|  |  | . | . | . | . | Other: |  |  |
-|  |  | . | . | . | . | . | Worked: |  |
-|  | 21G | . | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |
-|  |  | . | . | . | . | . | Other: |  |
-|  | 29B | . | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |
-|  |  | – | – | Otherwise plated or coated with zinc: |  |  |  |  |
-| 7225.92.10 |  | – | – | – | Galvanised |  |  |  |
-|  |  | . | . | . | . | Other: |  |  |
-|  | 13G | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |
-| 7225.92.90 |  | – | – | – | Other |  |  |  |
-|  |  | . | . | . | . | Other: |  |  |
-|  |  | . | . | . | . | . | Worked: |  |
-|  | 21A | . | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |
-|  |  | . | . | . | . | . | Other: |  |
-|  | 29G | . | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |
-|  |  | – | – | Other: |  |  |  |  |
-| 7225.99.10 |  | – | – | – | Galvanised |  |  |  |
-|  |  | . | . | . | . | Other: |  |  |
-|  | 13J | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |
-| 7225.99.90 |  | – | – | – | Other |  |  |  |
-|  |  | . | . | . | . | Other: |  |  |
-|  |  | . | . | . | . | . | Worked: |  |
-|  | 21C | . | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |
-|  |  | . | . | . | . | . | Other: |  |
-|  | 29J | . | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |
-| 72.26 |  | Flat-rolled products of other alloy steel, of a width of less than 600 mm: |  |  |  |  |  |  |
-|  |  | – | Other: |  |  |  |  |  |
-| 7226.91.00 |  | – | – | Not further worked than hot-rolled |  |  |  |  |
-|  |  | . | . | . | Other: |  |  |  |
-|  | 11J | . | . | . | . | Over 500 mm in width, of a thickness exceeding 4.75 mm |  |  |
-|  |  | – | – | Other: |  |  |  |  |
-| 7226.99.01 |  | – | – | – | Galvanised or worked |  |  |  |
-|  |  | . | . | . | . | Electrolytically plated or coated with zinc: |  |  |
-|  | 10C | . | . | . | . | . | Over 500 mm in width, of a thickness exceeding 4.75 mm, not in coils |  |
-|  |  | . | . | . | . | Otherwise plated or coated with zinc: |  |  |
-|  | 15D | . | . | . | . | . | Over 500 mm in width, of a thickness exceeding 4.75 mm, not in coils |  |
-|  |  | . | . | . | . | Other: |  |  |
-|  | 19G | . | . | . | . | . | Over 500 mm in width, of a thickness exceeding 4.75 mm, not in coils |  |
-| 7226.99.18 |  | – | – | – | Other |  |  |  |
-|  |  | . | . | . | . | Electrolytically plated or coated with zinc: |  |  |
-|  |  | . | . | . | . | . | Other: |  |
-|  | 13H | . | . | . | . | . | . | Over 500 mm in width, of a thickness exceeding 4.75 mm |
-|  |  | . | . | . | . | Otherwise plated or coated with zinc: |  |  |
-|  |  | . | . | . | . | . | Other: |  |
-|  | 21J | . | . | . | . | . | . | Over 500 mm in width, of a thickness exceeding 4.75 mm |
-|  |  | . | . | . | . | Other: |  |  |
-|  |  | . | . | . | . | . | Other: |  |
-|  | 33B | . | . | . | . | . | . | Over 500 mm in width, of a thickness exceeding 4.75 mm |
-| 72.28 |  | Other bars and rods of other alloy steel; angles shapes and sections, of other alloy steel; hollow drill bars and rods, of alloy or non-alloy steel: |  |  |  |  |  |  |
-| 7228.70.00 |  | – | Angles shapes and sections |  |  |  |  |  |
-|  |  | . | . | Of a height of 80 mm or more: |  |  |  |  |
-|  | 01F | . | . | . | Channels, girders, beams and joists |  |  |  |
-|  | 09A | . | . | . | Other |  |  |  |
-| 73.06 |  | Other tubes, pipes and hollow profiles (for example, open seam or welded, riveted or similarly closed), of iron or steel: |  |  |  |  |  |  |
-|  |  | – | Other, welded, of non-circular cross-section: |  |  |  |  |  |
-| 7306.61.00 |  | – | – | Of square or rectangular cross-section |  |  |  |  |
-|  |  | . | . | . | Rectangular hollow sections: |  |  |  |
-|  |  | . | . | . | . | Of a maximum dimension of 102 mm or more but less than 128 mm: |  |  |
-|  | 27F | . | . | . | . | . | Other |  |
-|  | 29B | . | . | . | . | Of a maximum dimension of 128 mm or more but less than 229 mm |  |  |
-|  | 31D | . | . | . | . | Other |  |  |
+| Tariff item number |  | Statistical key code | Description of goods |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 72.08 |  |  | Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, hot-rolled, not clad, plated or coated: |  |  |  |  |  |  |  |  |
+|  |  |  | – | Not in coils, not further worked than hot-rolled, with patterns in relief: |  |  |  |  |  |  |  |
+| 7208.40.10 |  |  | – | – | Of a width exceeding 1.95 m and of a thickness exceeding 4.75 mm |  |  |  |  |  |  |
+|  |  | 01F | . | . | . | Of a thickness of 4.75 mm or more but not exceeding 10 mm |  |  |  |  |  |
+|  |  | 09A | . | . | . | Of a thickness exceeding 10 mm |  |  |  |  |  |
+| 7208.40.90 |  |  | – | – | Other |  |  |  |  |  |  |
+|  |  | 01K | . | . | . | Of a thickness exceeding 10 mm |  |  |  |  |  |
+|  |  | 09E | . | . | . | Of a thickness of 4.75 mm or more but not exceeding 10 mm |  |  |  |  |  |
+|  |  |  | – | Other, not in coils, not further worked than hot-rolled: |  |  |  |  |  |  |  |
+|  |  |  | – | – | Of a thickness exceeding 10 mm: |  |  |  |  |  |  |
+| 7208.51.10 |  | 00F | – | – | – | Rolled on four faces or in a closed box pass, of a width not exceeding 1,250 mm, without patterns in relief and having a minimum yield point of other than 355 MPa |  |  |  |  |  |
+|  |  |  | – | – | – | Other: |  |  |  |  |  |
+| 7208.51.50 |  | 00H | – | – | – | – | Of a width exceeding 1.95 m |  |  |  |  |
+| 7208.51.90 |  | 00K | – | – | – | – | Other |  |  |  |  |
+|  |  |  | – | – | Of a thickness of 4.75 mm or more but not exceeding 10 mm: |  |  |  |  |  |  |
+| 7208.52.10 |  | 00L | – | – | – | Rolled on four faces or in a closed box pass, of a width not exceeding 1,250 mm, without patterns in relief and having a minimum yield point of other than 355 MPa |  |  |  |  |  |
+|  |  |  | – | – | – | Other: |  |  |  |  |  |
+| 7208.52.50 |  | 00B | – | – | – | – | Of a width exceeding 1.95 m |  |  |  |  |
+| 7208.52.90 |  | 00D | – | – | – | – | Other |  |  |  |  |
+|  |  |  | – | Other: |  |  |  |  |  |  |  |
+|  |  |  | – | – | 3 mm or more in thickness: |  |  |  |  |  |  |
+| 7208.90.02 |  |  | – | – | – | Of a width exceeding 1.95 m and of a thickness exceeding 4.75 mm |  |  |  |  |  |
+|  |  | 09G | . | . | . | . | Other |  |  |  |  |
+| 7208.90.05 |  |  | – | – | – | Other |  |  |  |  |  |
+|  |  |  | . | . | . | . | Other: |  |  |  |  |
+|  |  | 11H | . | . | . | . | . | Exceeding 4.75 mm in thickness |  |  |  |
+| 72.10 |  |  | Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, clad, plated or coated: |  |  |  |  |  |  |  |  |
+| 7210.20.00 |  |  | – | Plated or coated with lead, including terne-plate |  |  |  |  |  |  |  |
+|  |  |  | . | . | Other: |  |  |  |  |  |  |
+|  |  | 11B | . | . | . | Exceeding 4.75 mm in thickness |  |  |  |  |  |
+|  |  |  | – | Electrolytically plated or coated with zinc: |  |  |  |  |  |  |  |
+|  |  |  | – | – | Exceeding 1.6 mm in thickness: |  |  |  |  |  |  |
+| 7210.30.20 |  |  | – | – | – | Other |  |  |  |  |  |
+|  |  | 01K | . | . | . | . | Exceeding 4.75 mm in thickness |  |  |  |  |
+|  |  |  | – | Otherwise plated or coated with zinc: |  |  |  |  |  |  |  |
+|  |  |  | – | – | Other: |  |  |  |  |  |  |
+|  |  |  | – | – | – | Exceeding 1.9 mm in thickness: |  |  |  |  |  |
+| 7210.49.01 |  |  | – | – | – | – | Worked |  |  |  |  |
+|  |  | 01K | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |  |  |
+|  |  |  | – | – | – | – | Other: |  |  |  |  |
+| 7210.49.19 |  |  | – | – | – | – | – | Other |  |  |  |
+|  |  |  | . | . | . | . | . | . | Containing in the plating or coating, not less than 50% and not more than 80% zinc by weight, alloyed with aluminium: |  |  |
+|  | . | . | . | . | . | . | . |  |  | Painted, laquered or similarly coated: |  |
+|  |  | 19J | . | . | . | . | . | . | . | . | Of a thickness of 4.75 mm or more |
+|  |  |  | . | . | . | . | . | . | . | Plastic laminated: |  |
+|  |  | 29F | . | . | . | . | . | . | . | . | Of a thickness of 4.75 mm or more |
+|  |  |  | . | . | . | . | . | . | . | Other: |  |
+|  |  | 39C | . | . | . | . | . | . | . | . | Of a thickness of 4.75 mm or more |
+|  |  |  | . | . | . | . | . | . | Containing in the plating or coating, more than 80% zinc by weight, alloyed with aluminium: |  |  |
+|  | . | . | . | . | . | . | . |  |  | Painted, laquered or similarly coated: |  |
+|  |  | 49L | . | . | . | . | . | . | . | . | Of a thickness of 4.75 mm or more |
+|  |  |  | . | . | . | . | . | . | . | Plastic laminated: |  |
+|  |  | 59H | . | . | . | . | . | . | . | . | Of a thickness of 4.75 mm or more |
+|  |  |  | . | . | . | . | . | . | . | Other: |  |
+|  |  | 69E | . | . | . | . | . | . | . | . | Of a thickness of 4.75 mm or more |
+|  |  |  | . | . | . | . | . | . | Other: |  |  |
+|  |  |  | . | . | . | . | . | . | . | Painted, laquered or similarly coated: |  |
+|  |  | 79B | . | . | . | . | . | . | . | . | Of a thickness of 4.75 mm or more |
+|  |  |  | . | . | . | . | . | . | . | Other: |  |
+|  |  | 89K | . | . | . | . | . | . | . | . | Of a thickness of 4.75 mm or more |
+| 7210.50.00 |  |  | – | Plated or coated with chromium oxides or with chromium and chromium oxides |  |  |  |  |  |  |  |
+|  |  |  | . | . | Other: |  |  |  |  |  |  |
+|  |  | 11C | . | . | . | Exceeding 4.75 mm in thickness |  |  |  |  |  |
+|  |  |  | – | Plated or coated with aluminium: |  |  |  |  |  |  |  |
+|  |  |  | – | – | Plated or coated with aluminium-zinc alloys: |  |  |  |  |  |  |
+| 7210.61.10 |  |  | – | – | – | Containing, in the plating or coating, not less than 95% aluminium by weight |  |  |  |  |  |
+|  |  |  | . | . | . | . | Worked: |  |  |  |  |
+|  |  | 01K | . | . | . | . | . | Exceeding 4.75 mm in thickness |  |  |  |
+|  |  |  | . | . | . | . | Other: |  |  |  |  |
+|  |  |  | . | . | . | . | . | Other: |  |  |  |
+|  |  | 21D | . | . | . | . | . | . | Exceeding 4.75 mm in thickness |  |  |
+|  |  |  | – | – | – | Other: |  |  |  |  |  |
+| 7210.61.20 |  |  | – | – | – | – | Worked |  |  |  |  |
+|  |  | 01E | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |  |  |
+|  |  |  | – | – | – | – | Other: |  |  |  |  |
+| 7210.61.90 |  |  | – | – | – | – | – | Other |  |  |  |
+|  |  | 01C | . | . | . | . | . | . | Exceeding 4.75 mm in thickness |  |  |
+|  |  |  | – | – | Other: |  |  |  |  |  |  |
+| 7210.69.10 |  |  | – | – | – | Containing, in the plating or coating, not less than 95% aluminium by weight |  |  |  |  |  |
+|  |  |  | . | . | . | . | Worked: |  |  |  |  |
+|  |  | 01F | . | . | . | . | . | Exceeding 4.75 mm in thickness |  |  |  |
+|  |  |  | . | . | . | . | Other: |  |  |  |  |
+|  |  |  | . | . | . | . | . | Other: |  |  |  |
+|  |  | 21L | . | . | . | . | . | . | Exceeding 4.75 mm in thickness |  |  |
+|  |  |  | – | – | – | Other: |  |  |  |  |  |
+| 7210.69.20 |  |  | – | – | – | – | Worked |  |  |  |  |
+|  |  | 01A | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |  |  |
+|  |  |  | – | – | – | – | Other: |  |  |  |  |
+| 7210.69.90 |  |  | – | – | – | – | – | Other |  |  |  |
+|  |  | 01K | . | . | . | . | . | . | Exceeding 4.75 mm in thickness |  |  |
+|  |  |  | – | Painted, varnished or coated with plastics: |  |  |  |  |  |  |  |
+| 7210.70.01 |  |  | – | – | Worked |  |  |  |  |  |  |
+|  |  | 01K | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |  |  |  |  |
+|  |  |  | – | – | Other: |  |  |  |  |  |  |
+| 7210.70.19 |  |  | – | – | – | Other |  |  |  |  |  |
+|  |  | 01F | . | . | . | . | Exceeding 4.75 mm in thickness |  |  |  |  |
+|  |  |  | – | Other: |  |  |  |  |  |  |  |
+| 7210.90.01 |  |  | – | – | Worked |  |  |  |  |  |  |
+|  |  | 01G | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |  |  |  |  |
+|  |  |  | – | – | Other: |  |  |  |  |  |  |
+| 7210.90.19 |  |  | – | – | – | Other |  |  |  |  |  |
+|  |  | 01C | . | . | . | . | Exceeding 4.75 mm in thickness |  |  |  |  |
+| 72.11 |  |  | Flat-rolled products of iron or non-alloy steel, of a width of less than 600 mm, not clad, plated or coated: |  |  |  |  |  |  |  |  |
+|  |  |  | – | Not further worked than hot-rolled: |  |  |  |  |  |  |  |
+| 7211.13.00 |  |  | – | – | Rolled on four faces or in a closed box pass, of a width exceeding 150 mm and a thickness of not less than 4 mm, not in coils and without patterns in relief |  |  |  |  |  |  |
+|  |  | 05F | . | . | . | Over 500 mm in width, exceeding 4.75 mm in thickness |  |  |  |  |  |
+|  |  |  | – | – | Other, of a thickness of 4.75 mm or more: |  |  |  |  |  |  |
+| 7211.14.90 |  |  | – | – | – | Other |  |  |  |  |  |
+|  |  | 01G | . | . | . | . | Over 500 mm in width |  |  |  |  |
+| 72.12 |  |  | Flat-rolled products of iron or non-alloy steel, of a width of less than 600 mm, clad, plated or coated: |  |  |  |  |  |  |  |  |
+|  |  |  | – | Electrolytically plated or coated with zinc: |  |  |  |  |  |  |  |
+|  |  |  | – | – | Other: |  |  |  |  |  |  |
+|  |  |  | – | – | – | Exceeding 1.6 mm in thickness: |  |  |  |  |  |
+| 7212.20.30 |  |  | – | – | – | – | Other |  |  |  |  |
+|  |  | 01H | . | . | . | . | . | Exceeding 4.75 mm in thickness |  |  |  |
+|  |  |  | – | Otherwise plated or coated with zinc: |  |  |  |  |  |  |  |
+|  |  |  | – | – | Other: |  |  |  |  |  |  |
+|  |  |  | – | – | – | Exceeding 1.9 mm in thickness: |  |  |  |  |  |
+| 7212.30.11 |  |  | – | – | – | – | Worked |  |  |  |  |
+|  |  | 01G | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |  |  |
+| 7212.30.19 |  |  | – | – | – | – | Other |  |  |  |  |
+|  |  |  | . | . | . | . | . | Other: |  |  |  |
+|  |  | 41G | . | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |  |
+|  |  |  | – | Painted, varnished or coated with plastics: |  |  |  |  |  |  |  |
+|  |  |  | – | – | Other: |  |  |  |  |  |  |
+| 7212.40.11 |  |  | – | – | – | Worked |  |  |  |  |  |
+|  |  | 01L | . | . | . | . | Exceeding 4.75 mm in thickness |  |  |  |  |
+| 7212.40.19 |  |  | – | – | – | Other |  |  |  |  |  |
+|  |  |  | . | . | . | . | Other: |  |  |  |  |
+|  |  | 11J | . | . | . | . | . | Exceeding 4.75 mm in thickness |  |  |  |
+|  |  |  | – | Otherwise plated or coated: |  |  |  |  |  |  |  |
+| 7212.50.18 |  |  | – | – | Other |  |  |  |  |  |  |
+|  |  |  | . | . | . | Other: |  |  |  |  |  |
+|  |  | 11F | . | . | . | . | Exceeding 4.75 mm in thickness |  |  |  |  |
+|  |  |  | – | Clad: |  |  |  |  |  |  |  |
+| 7212.60.18 |  |  | – | – | Other |  |  |  |  |  |  |
+|  |  |  | . | . | . | Other: |  |  |  |  |  |
+|  |  | 11K | . | . | . | . | Exceeding 4.75 mm in thickness |  |  |  |  |
+| 72.16 |  |  | Angles, shapes and sections of iron or non-alloy steel: |  |  |  |  |  |  |  |  |
+|  |  |  | – | U, I or H sections, not further worked than hot-rolled, hot-drawn or extruded of a height of 80 mm or more: |  |  |  |  |  |  |  |
+|  |  |  | – | – | U sections: |  |  |  |  |  |  |
+| 7216.31.01 |  | 00L | – | – | – | 102 mm × 51 mm × 10.4 kg/m |  |  |  |  |  |
+| 7216.31.09 |  | 00A | – | – | – | Other |  |  |  |  |  |
+| 7216.32.00 |  |  | – | – | I sections: |  |  |  |  |  |  |
+|  |  | 01G | . | . | . | Less than 40 kg/m |  |  |  |  |  |
+|  |  | 09B | . | . | . | Other |  |  |  |  |  |
+| 7216.33.00 |  |  | – | – | H sections: |  |  |  |  |  |  |
+|  |  | 01A | . | . | . | Less than 40 kg/m |  |  |  |  |  |
+|  |  | 09G | . | . | . | Other |  |  |  |  |  |
+|  |  |  | – | L or T sections, not further worked than hot-rolled, hot-drawn or extruded, of a height of 80 mm or more: |  |  |  |  |  |  |  |
+| 7216.40.01 |  | 00K | – | – | Equal angled L sections, 80 mm × 80 mm by 5 mm to 13 mm in thickness |  |  |  |  |  |  |
+| 7216.40.09 |  | 00L | – | – | Other |  |  |  |  |  |  |
+| 7216.50.00 |  |  | – | Other angles, shapes and sections, not further worked than hot-rolled, hot-drawn or extruded |  |  |  |  |  |  |  |
+|  |  |  | . | . | Of a height of 80 mm or more: |  |  |  |  |  |  |
+|  |  | 01E | . | . | . | Less than 40 kg/m |  |  |  |  |  |
+|  |  | 09L | . | . | . | Other |  |  |  |  |  |
+|  |  |  | – | Angles, shapes and sections, not further worked than cold-formed or cold-finished: |  |  |  |  |  |  |  |
+| 7216.61.00 |  |  | – | – | Obtained from flat-rolled products |  |  |  |  |  |  |
+|  |  |  | . | . | . | Of a height of 80 mm or more: |  |  |  |  |  |
+|  |  | 01C | . | . | . | . | Angles and tees |  |  |  |  |
+|  |  | 05F | . | . | . | . | Channels, girders, beams and joists |  |  |  |  |
+|  |  | 09J | . | . | . | . | Other |  |  |  |  |
+| 7216.69.00 |  |  | – | – | Other |  |  |  |  |  |  |
+|  |  |  | . | . | . | Of a height of 80 mm or more: |  |  |  |  |  |
+|  |  | 01K | . | . | . | . | Angles and tees |  |  |  |  |
+|  |  | 05B | . | . | . | . | Channels, girders, beams and joists |  |  |  |  |
+|  |  | 09E | . | . | . | . | Other |  |  |  |  |
+|  |  |  | – | Other: |  |  |  |  |  |  |  |
+| 7216.91.00 |  |  | – | – | Cold-formed or cold-finished from flat-rolled products |  |  |  |  |  |  |
+|  |  |  | . | . | . | Worked: |  |  |  |  |  |
+|  |  | 01D | . | . | . | . | Of a height of 80 mm or more |  |  |  |  |
+|  |  |  | . | . | . | Other: |  |  |  |  |  |
+|  |  |  | . | . | . | . | Of a height of 80 mm or more: |  |  |  |  |
+|  |  | 11A | . | . | . | . | . | Galvanised |  |  |  |
+|  |  | 15D | . | . | . | . | . | Other |  |  |  |
+| 7216.99.00 |  |  | – | – | Other |  |  |  |  |  |  |
+|  |  |  | . | . | . | Worked: |  |  |  |  |  |
+|  |  | 01L | . | . | . | . | Of a height of 80 mm or more |  |  |  |  |
+|  |  |  | . | . | . | Other: |  |  |  |  |  |
+|  |  |  | . | . | . | . | Of a height of 80 mm or more: |  |  |  |  |
+|  |  | 11H | . | . | . | . | . | Galvanised |  |  |  |
+|  |  | 15L | . | . | . | . | . | Other |  |  |  |
+| 72.25 |  |  | Flat-rolled products of other alloy steel, of a width of 600 mm or more: |  |  |  |  |  |  |  |  |
+|  |  |  | – | Other, not further worked than hot rolled, not in coils: |  |  |  |  |  |  |  |
+| 7225.40.19 |  |  | – | – | Other |  |  |  |  |  |  |
+|  |  | 10B | . | . | . | Exceeding 4.75 mm in thickness |  |  |  |  |  |
+|  |  |  | – | Other: |  |  |  |  |  |  |  |
+|  |  |  | – | – | Electrolytically plated or coated with zinc: |  |  |  |  |  |  |
+| 7225.91.10 |  |  | – | – | – | Galvanised |  |  |  |  |  |
+|  |  |  | . | . | . | . | Other: |  |  |  |  |
+|  |  | 13B | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |  |  |
+| 7225.91.90 |  |  | – | – | – | Other |  |  |  |  |  |
+|  |  |  | . | . | . | . | Other: |  |  |  |  |
+|  |  |  | . | . | . | . | . | Worked: |  |  |  |
+|  |  | 21G | . | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |  |
+|  |  |  | . | . | . | . | . | Other: |  |  |  |
+|  |  | 29B | . | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |  |
+|  |  |  | – | – | Otherwise plated or coated with zinc: |  |  |  |  |  |  |
+| 7225.92.10 |  |  | – | – | – | Galvanised |  |  |  |  |  |
+|  |  |  | . | . | . | . | Other: |  |  |  |  |
+|  |  | 13G | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |  |  |
+| 7225.92.90 |  |  | – | – | – | Other |  |  |  |  |  |
+|  |  |  | . | . | . | . | Other: |  |  |  |  |
+|  |  |  | . | . | . | . | . | Worked: |  |  |  |
+|  |  | 21A | . | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |  |
+|  |  |  | . | . | . | . | . | Other: |  |  |  |
+|  |  | 29G | . | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |  |
+|  |  |  | – | – | Other: |  |  |  |  |  |  |
+| 7225.99.10 |  |  | – | – | – | Galvanised |  |  |  |  |  |
+|  |  |  | . | . | . | . | Other: |  |  |  |  |
+|  |  | 13J | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |  |  |
+| 7225.99.90 |  |  | – | – | – | Other |  |  |  |  |  |
+|  |  |  | . | . | . | . | Other: |  |  |  |  |
+|  |  |  | . | . | . | . | . | Worked: |  |  |  |
+|  |  | 21C | . | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |  |
+|  |  |  | . | . | . | . | . | Other: |  |  |  |
+|  |  | 29J | . | . | . | . | . | . | Exceeding 4.75 mm in thickness, not in coils |  |  |
+| 72.26 |  |  | Flat-rolled products of other alloy steel, of a width of less than 600 mm: |  |  |  |  |  |  |  |  |
+|  |  |  | – | Other: |  |  |  |  |  |  |  |
+| 7226.91.00 |  |  | – | – | Not further worked than hot-rolled |  |  |  |  |  |  |
+|  |  |  | . | . | . | Other: |  |  |  |  |  |
+|  |  | 11J | . | . | . | . | Over 500 mm in width, of a thickness exceeding 4.75 mm |  |  |  |  |
+|  |  |  | – | – | Other: |  |  |  |  |  |  |
+| 7226.99.01 |  |  | – | – | – | Galvanised or worked |  |  |  |  |  |
+|  |  |  | . | . | . | . | Electrolytically plated or coated with zinc: |  |  |  |  |
+|  |  | 10C | . | . | . | . | . | Over 500 mm in width, of a thickness exceeding 4.75 mm, not in coils |  |  |  |
+|  |  |  | . | . | . | . | Otherwise plated or coated with zinc: |  |  |  |  |
+|  |  | 15D | . | . | . | . | . | Over 500 mm in width, of a thickness exceeding 4.75 mm, not in coils |  |  |  |
+|  |  |  | . | . | . | . | Other: |  |  |  |  |
+|  |  | 19G | . | . | . | . | . | Over 500 mm in width, of a thickness exceeding 4.75 mm, not in coils |  |  |  |
+| 7226.99.18 |  |  | – | – | – | Other |  |  |  |  |  |
+|  |  |  | . | . | . | . | Electrolytically plated or coated with zinc: |  |  |  |  |
+|  |  |  | . | . | . | . | . | Other: |  |  |  |
+|  |  | 13H | . | . | . | . | . | . | Over 500 mm in width, of a thickness exceeding 4.75 mm |  |  |
+|  |  |  | . | . | . | . | Otherwise plated or coated with zinc: |  |  |  |  |
+|  |  |  | . | . | . | . | . | Other: |  |  |  |
+|  |  | 21J | . | . | . | . | . | . | Over 500 mm in width, of a thickness exceeding 4.75 mm |  |  |
+|  |  |  | . | . | . | . | Other: |  |  |  |  |
+|  |  |  | . | . | . | . | . | Other: |  |  |  |
+|  |  | 33B | . | . | . | . | . | . | Over 500 mm in width, of a thickness exceeding 4.75 mm |  |  |
+| 72.28 |  |  | Other bars and rods of other alloy steel; angles shapes and sections, of other alloy steel; hollow drill bars and rods, of alloy or non-alloy steel: |  |  |  |  |  |  |  |  |
+| 7228.70.00 |  |  | – | Angles shapes and sections |  |  |  |  |  |  |  |
+|  |  |  | . | . | Of a height of 80 mm or more: |  |  |  |  |  |  |
+|  |  | 01F | . | . | . | Channels, girders, beams and joists |  |  |  |  |  |
+|  |  | 09A | . | . | . | Other |  |  |  |  |  |
+| 73.06 |  |  | Other tubes, pipes and hollow profiles (for example, open seam or welded, riveted or similarly closed), of iron or steel: |  |  |  |  |  |  |  |  |
+|  |  |  | – | Other, welded, of non-circular cross-section: |  |  |  |  |  |  |  |
+|  |  |  | – | – | Of a square rectangular cross-section |  |  |  |  |  |  |
+|  |  |  | . | . | . | rectangular hollow section |  |  |  |  |  |
+| 7306.61.00 |  |  | . | . | . | . | Of a maximum dimension of 102 mm or more but less than 128 mm: |  |  |  |  |
+|  |  |  | . | . | . | . | . | Plated or coated with zinc: |  |  |  |
+|  |  | 63B | . | . | . | . | . | . | Of wall thickness not exceeding 2.6 mm |  |  |
+|  |  | 64L | . | . | . | . | . | . | Other |  |  |
+|  |  |  | . | . | . | . | . | Plated or coated with other metals: |  |  |  |
+|  |  | 65J | . | . | . | . | . | . | Of wall thickness not exceeding 2.6 mm |  |  |
+|  |  | 66G | . | . | . | . | . | . | Other |  |  |
+|  |  |  | . | . | . | . | . | Painted, lacquered or similarly coated: |  |  |  |
+|  |  | 67E | . | . | . | . | . | . | Of wall thickness not exceeding 2.6 mm |  |  |
+|  |  | 68C | . | . | . | . | . | . | Other |  |  |
+|  |  |  | . | . | . | . | . | Other: |  |  |  |
+|  |  | 69A | . | . | . | . | . | . | Of wall thickness not exceeding 2.6 mm |  |  |
+|  |  | 70E | . | . | . | . | . | . | Other |  |  |
+|  |  |  | . | . | . | . | Of a maximum dimension of 128 mm or more but less than 229 mm: |  |  |  |  |
+|  |  |  | . | . | . | . | . | Stainless steel: |  |  |  |
+|  |  | 71C | . | . | . | . | . | . | Of wall thickness not exceeding 2.6 mm |  |  |
+|  |  | 72A | . | . | . | . | . | . | Other |  |  |
+|  |  |  | . | . | . | . | . | Plated or coated with zinc: |  |  |  |
+|  |  | 73K | . | . | . | . | . | . | Of wall thickness not exceeding 2.6 mm |  |  |
+|  |  | 74H | . | . | . | . | . | . | Other |  |  |
+|  |  |  | . | . | . | . | . | Plated or coated with other metals: |  |  |  |
+|  |  | 75F | . | . | . | . | . | . | Of wall thickness not exceeding 2.6 mm |  |  |
+|  |  | 76D | . | . | . | . | . | . | Other |  |  |
+|  |  |  | . | . | . | . | . | Painted, lacquered or similarly coated: |  |  |  |
+|  |  | 77B | . | . | . | . | . | . | Of wall thickness not exceeding 2.6 mm |  |  |
+|  |  | 78L | . | . | . | . | . | . | Other |  |  |
+|  |  |  | . | . | . | . | . | Other: |  |  |  |
+|  |  | 79J | . | . | . | . | . | . | Of wall thickness not exceeding 2.6 mm |  |  |
+|  |  | 80B | . | . | . | . | . | . | Other |  |  |
+|  |  | 81L | . | . | . | . | Other |  |  |  |  |
 
 ## Schedule 3 — Levied items in respect of which rate of levy not to exceed 10 cents for each kilogram
 
@@ -399,8 +444,8 @@ The provisions of sections 14 to 16 shall apply to the Association notwithstandi
 |  |  | . | . | . | . | . | Other: |  |  |
 |  |  | . | . | . | . | . | . | Of circular cross-section: |  |
 |  | 21B | . | . | . | . | . | . | . | Welding |
-|  |  | . | . | . | . | . | Other: |  |  |
-|  | 31K | . | . | . | . | . | . | Welding |  |
+|  |  | . | . | . | . | . | . | Other: |  |
+|  | 31K | . | . | . | . | . | . | . | Welding |
 | 7215.90.00 |  | – | Other |  |  |  |  |  |  |
 |  |  | . | . | Other: |  |  |  |  |  |
 |  | 21F | . | . | . | Welding |  |  |  |  |
@@ -482,7 +527,7 @@ The provisions of sections 14 to 16 shall apply to the Association notwithstandi
 |  |  | – | Of copper alloys: |  |  |  |  |  |  |
 | 7408.21.00 |  | – | – | Of copper-zinc base alloys (brass) |  |  |  |  |  |
 |  | 01L | . | . | . | Welding |  |  |  |  |
-| 7408.22.00 |  | – | – | Of copper-nickel base alloys cupro-nickel) or copper-nickel-zinc base alloys (nickel silver) |  |  |  |  |  |
+| 7408.22.00 |  | – | – | Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver) |  |  |  |  |  |
 |  | 01E | . | . | . | Welding |  |  |  |  |
 | 7408.29.00 |  | – | – | Other |  |  |  |  |  |
 |  | 01G | . | . | . | Welding |  |  |  |  |
@@ -511,6 +556,6 @@ The provisions of sections 14 to 16 shall apply to the Association notwithstandi
 | 8311.10.00 | 00C | – | Coated electrodes of base metal, for electric arc-welding |  |  |  |  |  |  |
 | 8311.20.00 | 00G | – | Cored wire of base metal, for electric arc-welding |  |  |  |  |  |  |
 | 8311.30.00 | 00L | – | Coated rods and cored wire, of base metal, for soldering, brazing or welding by flame |  |  |  |  |  |  |
-|  |  | – | Other, including parts: |  |  |  |  |  |  |
+|  |  | – | Other: |  |  |  |  |  |  |
 | 8311.90.01 | 00J | – | – | Wire and rods, of agglomerated base metal powder, used for metal spraying |  |  |  |  |  |
 | 8311.90.09 | 00K | – | – | Other |  |  |  |  |  |
