@@ -1,5 +1,5 @@
 # Public Service Act 2020
-_Consolidation as at 2021-07-01_
+_Consolidation as at 2021-09-01_
 
 ### 1 Title
 This Act is the Public Service Act 2020.
@@ -1182,6 +1182,8 @@ The amendments to the State Sector (Ministry for Primary Industries) Order 2012 
 | Departmental agency | Host department | Chief executive may operate outside strategic and policy framework of host department(see section 24(2)﻿(a)) | Chief executive may manage assets and liabilities(see section 24(2)﻿(b)) |
 | --- | --- | --- | --- |
 | Cancer Control Agency | Ministry of Health |  |  |
+| Health New Zealand | Ministry of Health |  | ✓ |
+| Māori Health Authority | Ministry of Health |  | ✓ |
 | Ministry for Ethnic Communities | Department of Internal Affairs |  |  |
 | National Emergency Management Agency | Department of the Prime Minister and Cabinet |  |  |
 | Office for Māori Crown Relations—Te Arawhiti | Ministry of Justice |  |  |
