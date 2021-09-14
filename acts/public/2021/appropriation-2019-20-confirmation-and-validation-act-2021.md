@@ -1,5 +1,5 @@
 # Appropriation (2019/20 Confirmation and Validation) Act 2021
-_Consolidation as at 2021-05-14_
+_Consolidation as at 2021-09-14_
 
 ### 1 Title
 This Act is the Appropriation (2019/20 Confirmation and Validation) Act 2021.
