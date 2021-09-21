@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2021-07-05_
+_Consolidation as at 2021-09-21_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -263,7 +263,7 @@ _Consolidation as at 2021-07-05_
       (ii)
       (iii)
       (iv)
-      (v) interest on unpaid totalisator duty under section 8 of the Gaming Duties Act 1971 for all betting profits that must be calculated under section 4 of that Act:
+      (v)
       (vi) interest on unpaid racing duty under section 12 of the Gaming Duties Act 1971 for lotteries drawn:
       (vii) interest on unpaid gaming machine duty under section 12F of the Gaming Duties Act 1971 for dutiable games played by means of gaming machines:
       (viii) interest on unpaid casino duty under section 12Q of the Gaming Duties Act 1971 for casino wins
