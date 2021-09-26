@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2021-06-24_
+_Consolidation as at 2021-09-26_
 
 > Title
 
@@ -1688,27 +1688,7 @@ On application by way of originating application, a District Court Judge may mak
 **Other miscellaneous provisions**
 
 ### 65I Duration of licences extended because of COVID-19 outbreak
-(1) This section applies despite sections 8 and 25(1).
-(2) Subsection (3) applies if—
-  (a) the period for which a licence (an original licence) was issued expired on or before 24 March 2020 (the original expiry date); and
-  (b) the holder of the original licence applied before the original expiry date for a new licence to replace the original licence; and
-  (c) the application referred to in paragraph (b) has not yet been determined.
-(3) If this subsection applies, the original licence, unless it is sooner surrendered or revoked, continues as if it had not expired on the original expiry date and must be treated as continuing in force until the earlier of the following:
-  (a) the date on which the licence holder is notified of the determination made on their application for a new licence:
-  (b) the date that is 12 months after the original expiry date.
-(4) Subsection (5) applies if the period for which a licence (an original licence) was issued expires on a date during the period commencing on 25 March 2020 and ending on 25 September 2020 (the original expiry date).
-(5) If this subsection applies, the original licence, unless it is sooner surrendered or revoked, does not expire on its original expiry date but must be treated as continuing in force until the date that is 4 months after the original expiry date (the extended expiry date).
-(6) If the holder of a licence that continues in force under subsection (5) (an extended licence) applies for a new licence to replace the extended licence before the extended expiry date, the extended licence, unless it is sooner surrendered or revoked, does not expire on the extended expiry date but must be treated as continuing in force until the earlier of the following:
-  (a) the date on which the licence holder is notified of the determination made on their application for a new licence:
-  (b) the date that is 12 months after the original expiry date.
-(7) While a licence is treated as continuing in force under subsection (3), (5), or (6),—
-  (a) any endorsement on the licence, and any condition to which that endorsement is subject, continues to apply unless sooner revoked; and
-  (b) any condition to which the licence is subject continues to apply.
-(8) In this section, licence means—
-  (a) any dealer’s licence; or
-  (b) a firearms licence (other than a licence referred to in section 25(2) granted to a visitor to New Zealand).
-(9) If the holder of an extended licence applies before the end of the extended expiry date for a new licence to replace the licence that has been extended, the fee payable in respect of that application is the fee the holder would have been liable to pay had the holder made an application on 24 March 2020 to replace their licence.
-(10) This section is repealed on the close of 25 September 2021.
+[Repealed]
 
 ### 66 Occupier of premises or driver of vehicle deemed to be in possession of firearm, airgun, pistol, imitation firearm, restricted weapon, prohibited magazine, or explosive found therein
 For the purposes of this Act every person in occupation of any land or building or the driver of any vehicle on which any firearm, airgun, pistol, imitation firearm, restricted weapon, prohibited magazine, or explosive is found shall, though not to the exclusion of the liability of any other person, be deemed to be in possession of that firearm, airgun, pistol, imitation firearm, restricted weapon, prohibited magazine, or explosive, unless he proves that it was not his property and that it was in the possession of some other person.
