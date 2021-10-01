@@ -1,5 +1,5 @@
 # Credit Contracts Legislation Amendment Act 2019
-_Consolidation as at 2021-06-01_
+_Consolidation as at 2021-10-01_
 
 ### 1 Title
 This Act is the Credit Contracts Legislation Amendment Act 2019.
