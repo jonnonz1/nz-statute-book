@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2021-06-01_
+_Consolidation as at 2021-10-01_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -38,12 +38,14 @@ In this Act, unless the context otherwise requires,—
   - **controlling owner** means, in relation to a financial service provider that is not an individual, any person who beneficially owns 50% or more of that provider
   - **conveyancing practitioner** has the meaning given by section 6 of the Lawyers and Conveyancers Act 2006
   - **credit contract** —
-    (a) has the meaning given by section 7 of the Credit Contracts and Consumer Finance Act 2003; but
-    (b) does not include—
-      (i) contracts specified in section 15(1)﻿(a) or (b) of that Act:
-      (ii)
-      (iii) contracts under which no interest charges, and no credit fees, as defined in section 5 of that Act are payable
-  - **creditor** has the same meaning as in section 5 of the Credit Contracts and Consumer Finance Act 2003
+    (a) has the meaning given by section 7 of the Credit Contracts and Consumer Finance Act 2003:
+    (b) includes a credit sale that is treated as a credit contract under section 16A (mobile trader credit sales) of that Act:
+    (c) includes a contract that is declared to be a consumer credit contract under Part 6 of that Act:
+    (d) does not include something that would otherwise be covered by paragraph (a), but that is not covered by paragraph (b) or (c), that—
+      (i) is specified in section 15(1)﻿(a) or (b) of that Act; or
+      (ii) is a contract under which no interest charges, and no credit fees, as defined in section 5 of that Act, are payable; or
+      (iii) is declared not to be a credit contract under Part 6 of that Act
+  - **creditor** has the same meaning as in section 5 of the Credit Contracts and Consumer Finance Act 2003 except that it also includes a person who is treated as a creditor under that Act in respect of a credit contract
   - **director** has the meaning given by section 6(1) of the Financial Markets Conduct Act 2013
   - **disciplinary committee** means the disciplinary committee established under Part 5 of Schedule 5 of the Financial Markets Conduct Act 2013
   - **document** means—
@@ -86,6 +88,7 @@ In this Act, unless the context otherwise requires,—
     (a) the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act and for Parts 1 and 2; and
     (b) the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for Part 3
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **mobile trader** has the same meaning as in section 5 of the Credit Contracts and Consumer Finance Act 2003
   - **person** includes a corporation sole, a body corporate, and an unincorporated body
   - **prescribed** means prescribed by this Act or by any regulations made under this Act
   - **qualified statutory accountant** has the same meaning as in section 5(1) of the Financial Reporting Act 2013
@@ -108,6 +111,7 @@ In this Act, unless the context otherwise requires,—
   (c) being a registered bank:
   (d) keeping, investing, administering, or managing money, securities, or investment portfolios on behalf of other persons:
   (e) being a creditor under a credit contract:
+  (ea) being a mobile trader:
   (f) operating a money or value transfer service:
   (g) issuing or managing the means of payment (for example, credit or debit cards, cheques, travellers’ cheques, money orders, bankers’ drafts, or electronic money):
   (h) giving financial guarantees:
@@ -238,10 +242,12 @@ The purpose of this Part is to—
 ### Subpart 2 — Registration of financial service provider
 
 ### 13 Qualifications for registration as financial service provider
-A person is qualified to be registered as a financial service provider if—
+(1) A person is qualified to be registered as a financial service provider if—
   (a) the person is not disqualified under section 14; and
   (b)
   (c) if a licensing enactment requires the person to be a licensed provider, the person is, or will be (on and from commencing to be in the relevant business), a licensed provider.
+(2) However, subsection (3) applies to a person to whom section 131B of the Credit Contracts and Consumer Finance Act 2003 applies (which relates to when a person needs to be certified).
+(3) The person is not qualified to be registered as a financial service provider for the service of being a creditor under a credit contract or a mobile trader unless the person is certified under Part 5A of that Act.
 
 ### 14 Disqualified person
 (1) A person is disqualified if,—
@@ -371,6 +377,7 @@ The FMA may give a direction under section 15B in relation to an applicant regar
   (c) the disciplinary committee gives a direction under clause 46(3)﻿(a) or (b) of Schedule 5 of the Financial Markets Conduct Act 2013.
 (1C) Deregistration under subsection (1B)﻿(c) relates only to the provider’s registration for a financial advice service.
 (2) The Registrar must deregister a financial service provider if the provider so requests in writing, with effect from any future date requested. The Registrar must notify any relevant licensing authority of this deregistration.
+(2A) The Registrar must deregister a financial service provider in respect of a particular service after a notice period in accordance with sections 19 and 20 if the Registrar is satisfied that the provider is disqualified from being registered in respect of that service.
 (3) For the purposes of this section and sections 19 and 20, notice period means 20 working days from the date of the Registrar’s notification under section 19.
 
 ### 18A Purpose of FMA's powers relating to deregistration
@@ -526,6 +533,9 @@ The purposes of the register are—
     (i) the relevant licensed service:
     (ii) the name and business address of the relevant licensing authority:
   (ca) if the provider (A) is registered under section 22C, a statement as to whether A is engaged by a financial advice provider (B) to give regulated financial advice on B’s behalf and, if so, B’s name and business address:
+  (cb) in relation to a person that is certified under Part 5A of the Credit Contracts and Consumer Finance Act 2003,—
+    (i) whether the person is a creditor or a mobile trader:
+    (ii) the name and business address of the Commerce Commission, as the certifying authority:
   (d) any other information prescribed in regulations.
 (2) In addition to the information referred to in subsection (1), the Registrar may, if the Registrar thinks it is appropriate, insert a note of warning in the register in relation to a registered person if—
   (a) a request for information has been made by the Registrar under this Act in relation to that person; or
@@ -1058,6 +1068,10 @@ The person responsible for an approved dispute resolution scheme must notify the
     (b) includes a credit contract to which Part 3A of that Act applies
   - **financial markets participant** has the same meaning as in section 4 of the Financial Markets Authority Act 2011.
 
+### 67A Duty to communicate information about mobile traders
+(1) The person responsible for an approved dispute resolution scheme (A) must, if A has reasonable grounds to believe that a member that is a mobile trader has contravened or is likely to contravene the Credit Contracts and Consumer Finance Act 2003 in a material respect, communicate that fact to the Commerce Commission.
+(2) Communication under this section is treated as if it were communicated under section 67.
+
 **Annual reports and information requests by Minister**
 
 ### 68 Annual report
@@ -1221,6 +1235,14 @@ The enactment specified in Schedule 1 is amended in the manner indicated in that
   (c) notify, under section 17, changes relating to a financial service provider that are connected with section 5(1)﻿(a) or 22C being replaced or inserted by section 63 or 81 of the Financial Services Legislation Amendment Act 2019, before those provisions come into force.
 (2) For the purposes of dealing with the application or notification, sections 63 and 81 of the Financial Services Legislation Amendment Act 2019, and any other provisions of that Act that are relevant to the matter that are not yet in force, must be treated as if they were in force.
 (3) However, a registration or change in registration under this clause does not take effect before the commencement of section 63 or 81 of the Financial Services Legislation Amendment Act 2019 (as the case may be).
+
+### Part 2 — Provision relating to Credit Contracts Legislation Amendment Act 2019
+
+### 4 Creditors registered as financial service providers before commencement
+(1) This clause applies to every creditor that is registered under this Act as at the close of the day before commencement and that is required to be certified under Part 5A of the Credit Contracts and Consumer Finance Act 2003.
+(2) The date on and from which the creditor must be certified is the date in clause 12(2) or (5) (as the case may be) of Schedule 1AA of the Credit Contracts and Consumer Finance Act 2003, as amended by the Credit Contracts Legislation Amendment Act 2019.
+(3) After that date, section 18(1)﻿(a) (which relates to deregistration) applies if the person is not certified.
+(4) In this clause, commencement means the commencement of section 131B of the Credit Contracts and Consumer Finance Act 2003.
 
 ## Schedule 1 — Consequential amendment
 
