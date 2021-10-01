@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2021-06-01_
+_Consolidation as at 2021-10-01_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -49,6 +49,7 @@ In this Act,—
   (ca) Part 3A contains provisions relating to repossession of consumer goods under consumer credit contracts:
   (d) Part 4 contains provisions relating to civil remedies, injunctions, offences, a defence, enforceable undertakings, pecuniary penalties, and certain provisions concerning the Commerce Commission:
   (e) Part 5 contains provisions relating to the reopening of oppressive credit contracts, consumer leases, and buy-back transactions of land:
+  (ea) Part 5A requires creditors under consumer credit contracts and mobile traders to be certified:
   (f) Part 6 contains miscellaneous provisions, including provisions relating to contracting out, regulations, consequential amendments, and transitional arrangements.
 
 ### 5 Interpretation
@@ -2485,6 +2486,18 @@ In this Part, unless the context otherwise requires,—
   - **Registrar** has the same meaning as in section 4 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
 
 **Requirement for certification**
+
+### 131B When person needs to be certified
+(1) A person must not provide any of the following services without holding a certification that covers that service:
+  (a) being a creditor under a consumer credit contract:
+  (b) being a mobile trader.
+(2) Subsection (1) applies unless an exemption applies under section 131C.
+
+### 131C Exemptions from need for certification
+(1) A person is exempt from the certification requirement under section 131B to the extent that the person—
+  (a) is a licensed provider that is licensed, registered, authorised, or otherwise approved to provide a licensed service by a licensing authority listed in Schedule 2 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008; or
+  (b) is a prescribed exempt person.
+(2) A person is also exempt from the certification requirement in respect of a service to the extent that a service is a prescribed exempt service.
 
 ### 131D Prohibitions on holding out that person is certified
 A person must not hold out that the person is certified under this Part if that is not the case.
