@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2021-03-30_
+_Consolidation as at 2021-10-01_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -2003,7 +2003,8 @@ A loan contract entered into by a borrower (whether before or after the commence
 (2) For the purpose of this section, the Commissioner may provide to the chief executive of the New Zealand Customs Service any of the following information that is held by the Inland Revenue Department:
   (a) a borrower's name or any other name by which a borrower is known:
   (b) a borrower's date of birth:
-  (c) a borrower's tax file number.
+  (c) a borrower's tax file number:
+  (d) a borrower’s passport number.
 (3) The Commissioner and the chief executive of the New Zealand Customs Service may, for the purpose of this section, determine by written agreement between them—
   (a) the frequency with which information may be supplied; and
   (b) the form in which information may be supplied; and
