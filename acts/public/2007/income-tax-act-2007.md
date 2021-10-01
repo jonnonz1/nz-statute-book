@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2021-08-05_
+_Consolidation as at 2021-10-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -46957,46 +46957,11 @@ For the purposes of section RD 67(a), the amount of tax is determined by applyin
 [Repealed]
 
 ### 3 Interest: general
-If clause 4 does not apply, the payment rate for a payment of resident passive income that consists of interest is set out in table 2. Table 2This is a medium table on 2 pages having 3 columns. The first row on each page is the headings for the columns. The entries in column 2 have more than 1 line of text and several have paragraphs, sometimes with subparagraphs. The entries in column 3 are on the same line as the last line of the entry in column 2.RowConditionsPayment rate1The payer of the interest has not been supplied with the tax file number of a person who is paid the interest.0.4502The payer of the interest—0.3303The payer of the interest—0.3304The payer of the interest—0.3005The payer of the interest—0.1756The payer of the interest—0.1757The payer of the interest—0.1058The payer of the interest—0.105 How to use this table:Find the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
-  (a) has been supplied with the tax file number of a person who opens a new account after 31 March 2010 and who is paid the interest; and
-  (b) has not received a payment rate election from the recipient of the interest:
-  (c) is not required to use a rate notified by the Commissioner under section 26B of the Tax Administration Act 1994.
-  (a) has been supplied with the tax file number of a person who is paid the interest; and
-  (b) has received a payment rate election from the recipient of the interest—
-  (i) before 1 October 2010, choosing the 0.390 or 0.380 payment rate, and the payer is not required to use a rate notified by the Commissioner under section 26B of the Tax Administration Act 1994:
-  (ii) on or after 1 October 2010, choosing the 0.330 payment rate.
-  (a) has been supplied with the tax file number of a person who is paid the interest; and
-  (b) has received a payment rate election from the recipient of the interest—
-  (i) before 1 October 2010, choosing the 0.330 payment rate, and the payer is not required to use a rate notified by the Commissioner under section 26B of the Tax Administration Act 1994:
-  (ii) on or after 1 October 2010, choosing the 0.300 payment rate.
-  (a) has been supplied with the tax file number of a person who has not opened a new account after 31 March 2010 and who is paid the interest; and
-  (b) has not received a payment rate election from the recipient of the interest; and
-  (c) is not required to use a rate notified by the Commissioner under section 26B of the Tax Administration Act 1994.
-  (a) has been supplied with the tax file number of a person who is paid the interest; and
-  (b) has received a payment rate election from the recipient of the interest—
-  (i) before 1 October 2010, choosing the 0.195 or 0.210 payment rate, and the payer is not required to use a rate notified by the Commissioner under section 26B of the Tax Administration Act 1994:
-  (ii) on or after 1 October 2010, choosing the 0.175 payment rate.
-  (a) has been supplied with the tax file number of a person, other than a trustee, who is paid the interest; and
-  (b) has received a payment rate election from the recipient of the interest—
-  (i) before 1 October 2010, choosing the 0.125 payment rate, and the payer is not required to use a rate notified by the Commissioner under section 26B of the Tax Administration Act 1994:
-  (ii) on or after 1 October 2010, choosing the 0.105 payment rate; and
-  (c) the recipient has a reasonable expectation at the time of the election that their income for the income year will be $14,000 or less.
-  (a) has been supplied with the tax file number of a person who is paid the interest as a trustee of a testamentary trust to which section HC 37 applies; and
-  (b) has received a payment rate election from the recipient of the interest—
-  (i) before 1 October 2010, choosing the 0.125 payment rate, and the payer of the interest is not required to use a rate notified by the Commissioner under section 26B of the Tax Administration Act 1994:
-  (ii) on or after 1 October 2010, choosing the 0.105 payment rate.
+If clause 4 does not apply, the payment rate for a payment of resident passive income that consists of interest is set out in table 2. Table 2The following table is medium in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Conditions. Column 3 is headed Payment rate.RowConditionsPayment rate1The payer of the interest has not been supplied with the tax file number of a person who is paid the interest.0.4502The payer of the interest—(a) has been supplied with the tax file number of a person; and(b)has not received a payment rate election from the recipient of the interest; and(c)is not required to use a rate notified by the Commissioner under section 26B of the Tax Administration Act 1994.0.3303The payer of the interest—(a) has been supplied with the tax file number of a person who is paid the interest; and (b)has received a payment rate election from the recipient of the interest choosing the 0.390 payment rate.0.3904The payer of the interest—(a) has been supplied with the tax file number of a person who is paid the interest; and (b)has received a payment rate election from the recipient of the interest choosing the 0.330 payment rate.0.3305The payer of the interest—(a)has been supplied with the tax file number of a person who is paid the interest; and (b)has received a payment rate election from the recipient of the interest choosing the 0.300 payment rate.0.3006The payer of the interest—(a)has been supplied with the tax file number of a person who is paid the interest; and (b)has received a payment rate election from the recipient of the interest choosing the 0.175 payment rate.0.1757The payer of the interest—(a)has been supplied with the tax file number of a person, other than a trustee, who is paid the interest; and (b) has received a payment rate election from the recipient of the interest choosing the 0.105 payment rate; and(c)the recipient has a reasonable expectation at the time of the election that their income for the income year will be $14,000 or less.0.1058The payer of the interest—(a)has been supplied with the tax file number of a person who is paid the interest as a trustee of a testamentary trust to which section HC 37 applies; and(b)has received a payment rate election from the recipient of the interest choosing the 0.105 payment rate.0.105 How to use this table:Find the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
 
 ### 4 Interest: most companies
 (1) The payment rate for a payment of resident passive income that consists of interest is set out in table 3 if the recipient of the payment is a company that is not a Maori authority.
-(2) For the purposes of subclause (1), a company includes a company that is acting in the capacity of trustee for a portfolio investment entity. Table 3This is a small table having 3 columns. The first row is the headings for the columns. The entries in column 2 have more than 1 line of text and several have paragraphs, sometimes with subparagraphs. The entries in column 3 are on the same line as the last line of the entry in column 2.RowConditionsPayment rate1The payer of the interest—0.282The payer of the interest—0.283The payer of the interest—0.334The payer of the interest has not been supplied with the tax file number of a person who is paid the interest.0.45 How to use this table:Find the applicable condition, in the second column, in order to find the relevant rate to apply, in the third column.
-  (a) has been supplied with the tax file number of a person who is paid interest; and
-  (b) has not received a payment rate election from the recipient of the interest, ignoring the receipt of an election for the 0.33 payment rate before 1 October 2010 (if any).
-  (a) has been supplied with the tax file number of a person who is paid interest; and
-  (b) has received a payment rate election from the recipient of the interest, choosing the 0.28 payment rate.
-  (a) has been supplied with the tax file number of a person who is paid interest; and
-  (b) has received a payment rate election from the recipient of the interest,—
-  (i) on or after 1 October 2010, choosing the 0.33 payment rate:
-  (ii) before 1 October 2010, choosing the 0.39 or 0.38 payment rate.
+(2) For the purposes of subclause (1), a company includes a company that is acting in the capacity of trustee for a portfolio investment entity. Table 3The following table is medium in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Conditions. Column 3 is headed Payment rate.RowConditionsPayment rate1The payer of the interest has been supplied with the tax file number of a person who is paid the interest, and neither of rows 2 and 3 apply.0.2802The payer of the interest—(a) has been supplied with the tax file number of a person who is paid the interest; and(b)has received a payment rate election from the recipient of the interest choosing the 0.330 payment rate.0.3303The payer of the interest—(a) has been supplied with the tax file number of a person who is paid the interest; and (b)has received a payment rate election from the recipient of the interest choosing the 0.390 payment rate.0.3904The payer of the interest has not been supplied with the tax file number of a person who is paid the interest.0.450 How to use this table:Find the applicable condition, in the second column, in order to find the relevant rate to apply, in the third column.
 
 ### 5 Dividends and replacement payments
 The payment rate for a payment of resident passive income that consists of a dividend, or a replacement payment under a share-lending arrangement, is 0.33.
