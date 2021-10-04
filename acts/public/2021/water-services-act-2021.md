@@ -1,0 +1,2345 @@
+# Water Services Act 2021
+_Consolidation as at 2021-10-04_
+
+### 1 Title
+This Act is the Water Services Act 2021.
+
+### 2 Commencement
+(1) This Act comes into force on the earlier of—
+  (a) a date appointed by the Governor-General by Order in Council; and
+  (b) the date that is 2 years after the date on which this Act receives the Royal assent.
+(2) One or more Orders in Council may be made under subsection (1)﻿(a) appointing different dates for different provisions.
+(3) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+## Part 1 — Preliminary provisions
+
+### Subpart 1 — Purpose and overview
+
+### 3 Purpose of this Act
+(1) The main purpose of this Act is to ensure that drinking water suppliers provide safe drinking water to consumers by—
+  (a) providing a drinking water regulatory framework that is consistent with internationally accepted best practice, including a duty on drinking water suppliers to—
+    (i) have a drinking water safety plan; and
+    (ii) comply with legislative requirements (such as drinking water standards) on a consistent basis; and
+  (b) providing a source water risk management framework that, together with the Resource Management Act 1991, regulations made under that Act, and the National Policy Statement for Freshwater Management, enables risks to source water to be properly identified, managed, and monitored; and
+  (c) providing mechanisms that enable the regulation of drinking water to be proportionate to the scale, complexity, and risk profile of each drinking water supply.
+(2) This Act has the following additional purposes:
+  (a) to establish a framework to provide transparency about the performance of drinking water, wastewater, and stormwater networks and network operators; and
+  (b) to provide mechanisms that build and maintain capability among drinking water suppliers and across the wider water services sector; and
+  (c) to establish a framework for the continuous and progressive improvement of the quality of water services in New Zealand.
+
+### 4 Overview of this Act
+(1) In this Act,—
+  (a) this Part contains the purpose of this Act, definitions, key terms and key principles, and other preliminary provisions:
+  (b) Part 2—
+    (i) contains provisions relating to the supply of drinking water:
+    (ii) includes occupational regulation provisions in subpart 10 that apply to the operators of both drinking water supplies and wastewater networks:
+  (c) Part 3 contains monitoring, compliance, and enforcement provisions:
+  (d) Part 4 contains regulation-making powers and miscellaneous provisions:
+  (e) Part 5 contains amendments to the Local Government Act 2002.
+(2) This section is only a guide to the general scheme and effect of this Act.
+
+### Subpart 2 — Interpretation
+
+**General**
+
+### 5 Interpretation
+In this Act, unless the context otherwise requires,—
+  - **abstraction point** means the location at which source water is abstracted for use in a drinking water supply (for example, the location at which water is abstracted from a river, stream, lake, or aquifer)
+  - **acceptable solution or verification method** means a drinking water acceptable solution or verification method issued under section 50
+  - **agent** includes a contractor
+  - **approved form** means a form provided by Taumata Arowai
+  - **backflow** means the unplanned reversal of flow of water or mixtures of water and contaminants into the water supply system
+  - **backflow prevention device** means a device that prevents backflow
+  - **chief executive** means the chief executive of Taumata Arowai
+  - **compliance, monitoring, and enforcement strategy** means the compliance, monitoring, and enforcement strategy developed under section 136
+  - **compliance officer** means a compliance officer appointed under section 98
+  - **compliance rules** means compliance rules made under section 49
+  - **consumer** means a person who consumes or uses drinking water supplied by a drinking water supplier
+  - **council-controlled organisation** has the meaning given to it by section 6 of the Local Government Act 2002
+  - **Crown organisation** has the same meaning as in section 4 of the Crown Organisations (Criminal Liability) Act 2002
+  - **department** means a department listed in Part 1 of Schedule 2 of the Public Service Act 2020
+  - **domestic dwelling** has the meaning set out in section 10
+  - **domestic self-supply** has the meaning set out in section 10
+  - **drinking water** has the meaning set out in section 6
+  - **drinking water safety plan** means the drinking water safety plan required by section 30
+  - **drinking water standards** means the standards made under section 47
+  - **drinking water supplier** has the meaning set out in section 8
+  - **drinking water supply** has the meaning set out in section 9
+  - **end-point treatment** means treatment of drinking water at the final point of the supply at which the consumer can consume, use, or collect drinking water
+  - **end-point treatment device** means a device used for end-point treatment as part of an acceptable solution or verification method
+  - **illness** means any acute or chronic illness
+  - **legislative requirement** —
+    (a) means a requirement imposed by—
+      (i) this Act; or
+      (ii) secondary legislation made under this Act; or
+      (iii) a direction issued by a compliance officer under section 104; or
+      (iv) a compliance order issued under section 120; but
+    (b) does not include a requirement in—
+      (i) a wastewater environmental performance standard made under section 138; or
+      (ii) an environmental performance measure or target for networks made under section 145
+  - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
+  - **medical officer of health** means a medical officer of health appointed under the Health Act 1956
+  - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
+  - **National Policy Statement for Freshwater Management** means the National Policy Statement for Freshwater Management issued in 2020 under section 52 of the Resource Management Act 1991 and any statement issued under that section that amends or replaces the 2020 statement
+  - **New Zealand Defence Force** has the same meaning as the term Defence Force in section 2(1) of the Defence Act 1990
+  - **officer** , in relation to a drinking water supply,—
+    (a) if the owner or operator is a company,—
+      (i) means any person occupying the position of a director of the company by whatever name called; and
+      (ii) includes any other person occupying a position in relation to the company that allows the person to exercise significant influence over the management of the drinking water supply (for example, a chief executive):
+    (b) if the owner or operator is a partnership (other than a limited partnership), means any partner:
+    (c) if the owner or operator is a limited partnership, means any general partner:
+    (d) if the owner or operator is a body corporate or an unincorporated body, other than a company, partnership, or limited partnership,—
+      (i) means any person occupying a position in the body that is comparable with that of a director of a company; and
+      (ii) includes any other person occupying a position in relation to the body that allows the person to exercise significant influence over the management of the drinking water supply (for example, a chief executive):
+    (e) does not include a person who merely advises or makes recommendations to a person referred to in any of paragraphs (a) to (d), or who completes discrete operational tasks concerning the supply:
+    (f) does not include a Minister of the Crown acting in that capacity
+  - **operator** has the meaning set out in section 11
+  - **owner** has the meaning set out in section 12
+  - **point of supply** has the meaning set out in section 13
+  - **raw water** means water that has been abstracted from a source, but has not been subject to any treatment or other processes that may be required to make it safe to consume
+  - **registered** , in relation to a drinking water supply, means a drinking water supply registered in accordance with the requirements of subpart 7 of Part 2
+  - **safe** , in relation to drinking water, has the meaning set out in section 7
+  - **source** , , and mean—
+    (a) the water body from which water is abstracted for use in a drinking water supply (for example, a river, stream, lake, or aquifer); and
+    (b) rainwater
+  - **source water risk management plan** means a plan required by section 43
+  - **stormwater network** means the infrastructure and processes that—
+    (a) are used to collect, treat, drain, store, reuse, or discharge stormwater in an urban area; and
+    (b) are operated by, for, or on behalf of one of the following:
+      (i) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
+      (ii) a department:
+      (iii) the New Zealand Defence Force
+  - **stormwater network operator** means—
+    (a) each of the following, to the extent that they operate a stormwater network or supervise its operation or aspects of its operation:
+      (i) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
+      (ii) a department:
+      (iii) the New Zealand Defence Force; and
+    (b) any person who operates a stormwater network, or any aspect of a stormwater network, for, or on behalf of, an organisation specified in paragraph (a)
+  - **sufficient quantity** , in relation to the drinking water supplied to a point of supply, has the meaning set out in section 25(2)
+  - **Taumata Arowai** means Taumata Arowai–the Water Services Regulator established by section 8 of the Taumata Arowai–the Water Services Regulator Act 2020
+  - **unplanned** , in relation to the supply of drinking water, has the meaning set out in section 34(2)
+  - **urban area** —
+    (a) means an area identified in a district plan or proposed district plan as being primarily zoned for residential, industrial, or commercial activities, together with adjoining special-purpose and open-space zones, however described; but
+    (b) does not include an area zoned primarily for rural or rural-residential activities, however described
+  - **wastewater network** means the infrastructure and processes that—
+    (a) are used to collect, store, transmit through reticulation, treat, or discharge wastewater; and
+    (b) are operated by, for, or on behalf of one of the following:
+      (i) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
+      (ii) a department:
+      (iii) the New Zealand Defence Force
+  - **wastewater network operator** means—
+    (a) each of the following, to the extent that they operate a wastewater network or supervise its operation or aspects of its operation:
+      (i) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
+      (ii) a department:
+      (iii) the New Zealand Defence Force; and
+    (b) any person who operates a wastewater network, or any aspect of a wastewater network, for, or on behalf of, an organisation specified in paragraph (a); and
+    (c) an organisation or individual involved in the operation of a wastewater network if the organisation or individual is authorised or included on a register in accordance with regulations made under section 200
+  - **water carrier** means a drinking water supplier that transports drinking water (other than by reticulation) for the purpose of supplying it to consumers or another drinking water supplier.
+
+**Key terms**
+
+### 6 Meaning of drinking water
+In this Act, unless the context otherwise requires, drinking water—ExamplesWater that is used for washing potatoes by a horticultural business, where the use is regulated under the Food Act 2014, is not drinking water.Water that is used for the cleaning of processing machines by a poultry processor or by a business that operates under a registered risk management programme under the Animal Products Act 1999 is not drinking water if the use of the water is regulated under that Act.
+  (a) means water that is used for—
+    (i) human consumption; or
+    (ii) oral hygiene; or
+    (iii) preparing food, drink, or other products for human consumption; or
+    (iv) washing utensils that are used for eating and drinking, or for preparing, serving, or storing food or drink for human consumption; but
+  (b) does not include—
+    (i) bottled water that is prepared or manufactured by a food business, and is regulated, under the Food Act 2014; and
+    (ii) water, if its use is regulated under the Food Act 2014, the Animal Products Act 1999, or the Wine Act 2003.
+
+### 7 Meaning of safe in relation to drinking water
+(1) In this Act, unless the context otherwise requires, safe, in relation to drinking water, means drinking water that is unlikely to cause a serious risk of death, injury, or illness,—
+  (a) immediately or over time; and
+  (b) whether or not the serious risk is caused by—
+    (i) the consumption or use of drinking water; or
+    (ii) other causes together with the consumption or use of drinking water.
+(2) For the purposes of subsection (1), the assessment of serious risk must take into account, among other factors, compliance with drinking water standards.
+(3) Drinking water is not unsafe merely because—
+  (a) a person objects to it, or substances in it, because of personal preference; or
+  (b) it does not comply with aesthetic values; or
+  (c) it contains substances that comply with minimum or maximum acceptable values for chemical, radiological, microbiological, or other characteristics of drinking water in the drinking water standards.
+
+### 8 Meaning of drinking water supplier
+In this Act, unless the context otherwise requires, drinking water supplier—
+  (a) means a person who supplies drinking water through a drinking water supply; and
+  (b) includes a person who ought reasonably to know that the water they are supplying is or will be used as drinking water; and
+  (c) includes the owner and the operator of a drinking water supply; and
+  (d) includes a person described in paragraph (a), (b), or (c) who supplies drinking water to another drinking water supplier; but
+  (e) does not include a domestic self-supplier.
+
+### 9 Meaning of drinking water supply
+(1) In this Act, unless the context otherwise requires, drinking water supply—
+  (a) means the infrastructure and processes used to abstract, store, treat, transmit, or transport drinking water for supply to consumers or another drinking water supplier; and
+  (b) includes—
+    (i) the point of supply; and
+    (ii) any end-point treatment device; and
+    (iii) any backflow prevention device; but
+  (c) does not include a temporary drinking water supply provided for under section 33 or 34 or a domestic self-supply.
+(2) Taumata Arowai may, by notice in the Gazette, declare the provision of water by a person—
+  (a) to be a drinking water supply if Taumata Arowai is satisfied, on reasonable grounds, that the water is or will be used as drinking water; or
+  (b) to not be a drinking water supply if Taumata Arowai is satisfied, on reasonable grounds, that the water is not or will not be used as drinking water.
+
+### 10 Meaning of domestic self-supply and domestic dwelling
+(1) In this Act, unless the context otherwise requires, domestic self-supply means a stand-alone domestic dwelling that has its own supply of drinking water, and domestic self-supplier has a corresponding meaning.
+(2) In this Act,—
+  - **domestic dwelling** means a building that is used as a single household unit, whether it is—
+    (a) tenanted on a long- or short-term basis; or
+    (b) occupied permanently or temporarily (for example, a holiday home)
+  - **household unit** has the meaning given to it by section 7 of the Building Act 2004.
+ExamplesA single property with tenants on a lease that is supplied by a rainwater tank is a domestic self-supply.A single holiday house that is supplied by a rainwater tank and is rented to tourists on a short-term basis is a domestic self-supply.A multi-dwelling building (for example, multiple separate apartments contained in a single building) that has its own bore water supply is not a domestic self-supply.A marae wharekai (dining hall) or community hall that has its own river water supply is not a domestic self-supply.A café building supplied by a rainwater tank is not a domestic self-supply.
+
+### 11 Meaning of operator
+In this Act, unless the context otherwise requires, operator, in relation to a drinking water supply,—
+  - ****
+    (a) means the person who operates the supply or supervises its operation or aspects of its operation; and
+    (b) includes an organisation or individual involved in the operation of a drinking water supply if the organisation or individual is authorised or included on a register in accordance with regulations made under section 200.
+
+### 12 Meaning of owner
+(1) In this Act, unless the context otherwise requires, owner, in relation to a drinking water supply, means the person who has effective control of the drinking water supply.
+(2) The matters that may be considered for the purpose of determining whether a person has effective control of a drinking water supply include whether the person—
+  (a) owns the drinking water infrastructure; or
+  (b) owns or has long-term control of the land on which the drinking water infrastructure is based; or
+  (c) directs or has control over decisions about the funding or maintenance of the drinking water infrastructure, or collects fees, levies, or other charges from consumers in relation to the infrastructure; or
+  (d) controls how the management of the supply is resourced (for example, has the power to subcontract work).
+
+### 13 Meaning of point of supply
+In this Act, unless the context otherwise requires, point of supply, in relation to a drinking water supply, means,—
+  - ****
+    (a) if the supply is a reticulated network, the toby, reservoir float valve, or other final point of the supply to which the consumer’s or another drinking water supplier’s own infrastructure connects; or
+    (b) if the supply is from a non-reticulated supply, community water tap, or other type of supply, the final point of the supply at which the consumer or another drinking water supplier can consume, use, or collect drinking water; or
+    (c) if the supply includes an end-point treatment device, the end-point treatment device; or
+    (d) if the supply is from a water carrier, the final point at which drinking water is supplied to the consumer’s or another drinking water supplier’s own infrastructure.
+
+### Subpart 3 — Key principles relating to functions, powers, and duties
+
+### 14 Effect and interpretation of Te Mana o te Wai
+(1) In this Act, Te Mana o te Wai has the meaning set out in the National Policy Statement for Freshwater Management.
+(2) When exercising or performing a function, power, or duty under this Act, a person must give effect to Te Mana o te Wai, to the extent that Te Mana o te Wai applies to the function, power, or duty.
+
+### 15 Duties not transferable
+A duty imposed on a person by or under this Act may not be transferred to another person.
+
+### 16 Person may have more than 1 duty
+A person may have more than 1 duty imposed on the person by or under this Act if—
+  (a) the person belongs to more than 1 class of duty holder; or
+  (b) the Act otherwise imposes more than 1 duty on the person.
+
+### 17 More than 1 person may have same duty
+(1) More than 1 person may have the same duty imposed by or under this Act at the same time.
+(2) Each duty holder must comply with that duty to the standard required by or under this Act even if another duty holder has the same duty.
+(3) If more than 1 person has a duty for the same matter, each person—
+  (a) retains responsibility for that person’s duty in relation to the matter; and
+  (b) must discharge that person’s duty to the extent to which the person has the ability to influence and control the matter, or would have had that ability but for an agreement or arrangement purporting to limit or remove that ability.
+
+### Subpart 4 — General
+
+### 18 Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
+
+### 19 Act binds the Crown
+(1) This Act binds the Crown.
+(2) An instrument of the Crown that is a Crown organisation (whether or not a body corporate)—
+  (a) must be treated as if it were a separate legal personality for the purpose of complying with this Act; and
+  (b) may be a drinking water supplier in its own right.
+(3) An instrument of the Crown that is not a Crown organisation or a body corporate—
+  (a) does not have separate legal personality; and
+  (b) must not be a drinking water supplier in its own right.
+(4) This section is subject to section 20.
+
+### 20 Enforcement of Act against the Crown
+(1) This Act may be enforced against the Crown only in the manner provided in this section.
+Prosecution of offences
+(2) An instrument of the Crown may be prosecuted for an offence against this Act, but only if—
+  (a) the instrument is a Crown organisation; and
+  (b) the proceedings are commenced—
+    (i) against the Crown organisation in its own name and the proceedings do not cite the Crown as a defendant; and
+    (ii) in accordance with the Crown Organisations (Criminal Liability) Act 2002.
+Issue of infringement notices
+(3) An infringement notice may be served on an instrument of the Crown in accordance with this Act, but only if—
+  (a) the instrument is a Crown organisation; and
+  (b) the instrument is liable to be proceeded against for the alleged offence under subsection (2); and
+  (c) the notice is served on the Crown organisation in its own name.
+Injunctions
+(4) Despite section 17(1)﻿(a) of the Crown Proceedings Act 1950, an injunction may be granted or another order made against an instrument of the Crown in accordance with this Act, but only if—
+  (a) the instrument is a Crown organisation; and
+  (b) the order or injunction is made against the Crown organisation in its own name.
+Directions and compliance orders issued under this Act
+(5) A direction issued under section 104 may be issued against an instrument of the Crown, but only if—
+  (a) the instrument is a Crown organisation; and
+  (b) the direction is issued against the Crown organisation in its own name.
+(6) A compliance order served under section 120 may be served on an instrument of the Crown in accordance with this Act, but only if—
+  (a) the instrument is a Crown organisation; and
+  (b) the order is served on the Crown organisation in its own name.
+District Court orders
+(7) An order may be made by the District Court against an instrument of the Crown in accordance with this Act, but only if—
+  (a) the instrument is a Crown organisation; and
+  (b) the order is made against the Crown organisation in its own name.
+
+## Part 2 — Provisions relating to supply of drinking water
+
+### Subpart 1 — Duties of drinking water suppliers
+
+### 21 Duty to supply safe drinking water
+(1) A drinking water supplier must ensure that the drinking water supplied by the supplier is safe.
+(2) If there is a reasonable likelihood that a supplier’s drinking water is or may be unsafe, the supplier must—
+  (a) take immediate action to ensure that public health is protected; and
+  (b) notify Taumata Arowai that the drinking water is or may be unsafe; and
+  (c) investigate the source or cause of the problem; and
+  (d) take remedial action to rectify the problem; and
+  (e) identify and implement measures required to ensure that the problem does not reoccur; and
+  (f) take all practicable steps, to the satisfaction of Taumata Arowai, to advise affected consumers and drinking water suppliers that drinking water is or may be unsafe and what measures should be taken to protect public health (for example, boiling).
+(3) The duty under subsection (1) does not apply beyond the point of supply.
+
+### 22 Duty to comply with drinking water standards
+(1) A drinking water supplier must ensure that the drinking water supplied by the supplier complies with the drinking water standards.
+(2) If a supplier’s drinking water does not comply with the drinking water standards, the supplier must—
+  (a) take immediate action to ensure that public health is protected; and
+  (b) notify Taumata Arowai of the non-compliance; and
+  (c) investigate the source or cause of the non-compliance; and
+  (d) take remedial action to rectify the situation; and
+  (e) identify and implement measures required to ensure that the event does not reoccur; and
+  (f) take all practicable steps, to the satisfaction of Taumata Arowai, to advise affected consumers and drinking water suppliers that drinking water does not comply with the drinking water standards and what measures should be taken to protect public health (for example, boiling).
+(3) The duty under subsection (1) does not apply beyond the point of supply.
+
+### 23 Duty of owner of drinking water supply to register supply
+(1) Every individual drinking water supply must be registered under section 55.
+(2) The owner of a drinking water supply must ensure that the supply is registered in accordance with the requirements of subpart 7.
+
+### 24 Duty to take reasonable steps to supply aesthetically acceptable drinking water
+A drinking water supplier must take all reasonably practicable steps to supply drinking water that complies with aesthetic values issued by Taumata Arowai under section 48.
+
+### 25 Duty to provide sufficient quantity of drinking water
+(1) A drinking water supplier (other than a water carrier) must ensure that a sufficient quantity of drinking water is provided to each point of supply to which that supplier supplies drinking water.
+(2) In this Act, sufficient quantity, in relation to the drinking water supplied to a point of supply, means—
+  (a) the quantity of drinking water that is sufficient to support the ordinary drinking water needs of consumers at the point of supply; or
+  (b) if compliance rules have been made prescribing the quantity of drinking water or a formula for determining the quantity of drinking water that is sufficient to support the ordinary drinking water needs of consumers at a point of supply, the amount specified in, or calculated according to the formula set out in, those rules.
+(3) Subsection (1) does not prevent a drinking water supplier restricting or interrupting the provision of drinking water to a point of supply if, in the opinion of the supplier, the action is necessary because of—ExamplesA drinking water supplier may need to restrict or interrupt the supply of drinking water where infrastructure such as a pipeline or treatment plant is damaged.A drinking water supplier may need to restrict or interrupt supply of drinking water where contamination of the supply occurs and public health is at risk.A drinking water supplier may need to restrict or interrupt supply of drinking water where a drought occurs and the source of the drinking water supply can no longer support continuous supply to consumers.A drinking water supplier may need to restrict or interrupt supply of drinking water in case of a fire emergency.A drinking water supplier may need to restrict or interrupt supply of drinking water where a person has drowned and a rāhui is placed over the source of a drinking water supply.
+  (a) maintenance, improvement, or repairs to the drinking water supply or related infrastructure; or
+  (b) risks to public health; or
+  (c) environmental factors affecting a source of a drinking water supply; or
+  (d) an emergency; or
+  (e) cultural factors affecting a source of a drinking water supply (for example, a rāhui).
+(4) Any planned restriction or interruption of the supply of drinking water by a drinking water supplier must not exceed 8 hours on any 1 occasion unless—
+  (a) the supplier—
+    (i) has obtained the prior approval of Taumata Arowai; or
+    (ii) complies with a compliance rule that relates to the restriction or interruption of supply for more than 8 hours and that applies to the supplier; and
+  (b) the supplier has taken, and continues to take, all practicable steps to advise affected consumers of the interruption or restriction.
+(5) A restriction or interruption of the supply of drinking water that is unforeseen or due to an emergency must not exceed 8 hours on any 1 occasion unless the drinking water supplier—
+  (a) has notified Taumata Arowai of the reasons for the interruption or restriction as soon as practicable and, in any event, no later than 24 hours after the commencement of the interruption or restriction; and
+  (b) has taken, and continues to take, all practicable steps to advise affected consumers of the interruption or restriction.
+(6) In any event where the restriction or interruption of the supply of drinking water exceeds 8 hours, the drinking water supplier must make arrangements to ensure that a sufficient quantity of drinking water is available to affected consumers through an alternative supply (for example, by water carrier).
+(7) To avoid doubt, a drinking water supplier—
+  (a) may restrict supply to a point of supply if the relevant customer has unpaid accounts for any previous supply of drinking water or has failed to remedy water leaks that the customer is obliged to remedy; but
+  (b) must, despite any non-payment or failure referred to in paragraph (a), continue to provide a sufficient quantity of drinking water in accordance with subsection (1).
+(8) This section is subject to section 26 and to any contrary provisions in the Civil Defence Emergency Management Act 2002.
+
+### 26 Duties where sufficient quantity of drinking water at imminent risk
+(1) If any drinking water supplier considers that the supplier’s ability to maintain a sufficient quantity of drinking water in accordance with section 25 is or may be at imminent risk for any reason, the supplier must—
+  (a) notify Taumata Arowai, Fire and Emergency New Zealand, and the local authorities in the area where the water is supplied of the circumstances giving rise to the risk; and
+  (b) request that 1 or more of those local authorities exercise their powers under any enactment (for example, by making a bylaw to restrict the use of water for other than essential purposes) to assist that supplier to continue to provide a sufficient quantity of drinking water; and
+  (c) if the supplier supplies drinking water to another drinking water supplier, notify that other drinking water supplier of the circumstances giving rise to the risk.
+(2) The supplier must also notify further parties if so required by Taumata Arowai.
+
+### 27 Duty to protect against risk of backflow
+(1) If a drinking water supply includes reticulation, the drinking water supplier must ensure that the supply arrangements protect against the risk of backflow.
+(2) If there is a risk of backflow in a reticulated drinking water supply, the drinking water supplier may—
+  (a) install a backflow prevention device and require the owner of the premises to reimburse the supplier for the cost of installation, maintenance, and ongoing testing of the device; or
+  (b) require the owner of the premises to install, maintain, and test a backflow prevention device that incorporates a verifiable monitoring system in accordance with any requirements imposed by the supplier.
+(3) A person who installs a backflow protection device must take all reasonable steps to ensure it operates in a way that does not compromise the operation of any fire extinguisher system connected to the drinking water supply.
+
+### 28 Duties relating to end-point treatment
+(1) A drinking water supplier may only use end-point treatment of a drinking water supply if the end-point treatment is used to satisfy an acceptable solution or verification method.
+(2) If a drinking water supply includes end-point treatment, the drinking water supplier is responsible for the installation, maintenance, and ongoing testing of an end-point treatment device.
+(3) A drinking water supplier may,—
+  (a) install an end-point treatment device and require the owner of the premises to reimburse the supplier for the cost of installation, maintenance, and ongoing testing of the device; or
+  (b) require the owner of the premises to install, maintain, and test an end-point treatment device that incorporates a verifiable monitoring system that complies with an acceptable solution or verification method.
+(4) A person who installs an end-point treatment device must take all reasonable steps to ensure that it operates in a way that does not compromise the operation of any fire extinguisher system connected to the drinking water supply.
+
+### 29 Duty of officers, employees, and agents to exercise due diligence
+(1) If a drinking water supplier has a duty under a legislative requirement, every officer, employee, and agent of the drinking water supplier must exercise due diligence to ensure that the drinking water supplier complies with that duty.
+(2) For the purposes of subsection (1), an officer, employee, or agent of a drinking water supplier must exercise the care, diligence, and skill that a reasonable officer, employee, or agent would exercise in the same circumstances, taking into account (without limitation)—
+  (a) the scale, complexity, and risk of the drinking water supply; and
+  (b) the position of the officer, employee, or agent and the nature of the responsibilities they undertake.
+(3) Despite subsection (1), a member of the governing body of a local authority elected in accordance with the Local Electoral Act 2001 does not have a duty to exercise due diligence to ensure that any council-controlled organisation complies with its duties under legislative requirements, unless that member is also an officer of that council-controlled organisation.
+(4) In this section, due diligence includes taking reasonable steps—
+  (a) to acquire, and keep up to date, knowledge of the supply of safe drinking water and other drinking water supply matters; and
+  (b) to gain an understanding of—
+    (i) the nature of the relevant drinking water supply, its source water, its drinking water safety plan and its implementation, and the consumers the supply serves; and
+    (ii) the hazards and risks associated with the drinking water supply and its operation; and
+    (iii) how to identify, minimise, and control or eliminate the hazards or risks as part of the operation of the drinking water supply; and
+  (c) to ensure that the drinking water supplier—
+    (i) has available for use, and uses, appropriate resources and processes to implement its drinking water safety plan; and
+    (ii) has appropriate processes for identifying and considering information regarding hazards and risk, and for responding to them; and
+    (iii) has, and implements, processes for complying with any duty of the supplier under any legislative requirement.
+
+### Subpart 2 — Drinking water safety plans
+
+### 30 Owner must have drinking water safety plan
+(1) An owner of a drinking water supply must prepare a drinking water safety plan in relation to the owner’s supply that complies with legislative requirements.
+(2) The owner must lodge with Taumata Arowai—
+  (a) a copy of the plan; and
+  (b) if the owner makes material changes to, or replaces, the plan, a copy of the amended or replacement plan as soon as is reasonably practicable after the amendment or replacement is made.
+(3) The owner must—
+  (a) implement the plan; and
+  (b) ensure that the owner’s drinking water supply is operated in accordance with the plan.
+(4) An owner of a drinking water supply may satisfy the requirement in subsection (3)﻿(b) in respect of a drinking water plan or an aspect of the plan by employing or engaging an operator.
+
+### 31 Drinking water safety plans
+(1) A drinking water safety plan must—
+  (a) be proportionate to the scale and complexity of, and the risks that relate to, the drinking water supply; and
+  (b) identify any hazards that relate to the drinking water supply, including emerging or potential hazards; and
+  (c) assess any risks that are associated with those hazards; and
+  (d) identify how those risks will be managed, controlled, or eliminated to ensure that drinking water is safe and complies with legislative requirements; and
+  (e) identify how the drinking water safety plan will be reviewed on an ongoing basis, and how its implementation will be amended, if necessary, to ensure that drinking water is safe and complies with legislative requirements; and
+  (f) identify how the drinking water supply will be monitored to ensure that drinking water is safe and complies with legislative requirements; and
+  (g) include procedures to verify that the drinking water safety plan is working effectively; and
+  (h) include a multi-barrier approach to drinking water safety that will be implemented as part of the plan; and
+  (i) include a source water risk management plan if required by section 43; and
+  (j) where a drinking water supply includes reticulation, require, and provide for the use of, residual disinfection in the supply unless an exemption is obtained under section 58; and
+  (k) identify how a supplier will meet the supplier’s duty under section 25 to ensure that a sufficient quantity of drinking water is provided to each point of supply; and
+  (l) identify how a supplier will respond to events and emergencies; and
+  (m) comply with any requirements set out in compliance rules.
+(2) A multi-barrier approach to drinking water safety is one that Taumata Arowai considers will—
+  (a) prevent hazards from entering the raw water; and
+  (b) remove particles, pathogens, and chemical and radiological hazards from the water; and
+  (c) kill or inactivate pathogens in the water; and
+  (d) maintain the quality of water in the reticulation system.
+
+### 32 Taumata Arowai to review drinking water safety plans and monitor compliance
+(1) Taumata Arowai must perform the following functions in accordance with the compliance, monitoring, and enforcement strategy:
+  (a) review drinking water safety plans, including for compliance with legislative requirements:
+  (b) monitor compliance with drinking water safety plans by drinking water suppliers:
+  (c) monitor compliance with source water risk management plans, including any undertakings made by third parties to the plan, by drinking water suppliers:
+  (d) monitor compliance with other legislative requirements, including (for example) acceptable solutions or verification methods, by drinking water suppliers:
+  (e) establish ongoing monitoring and review arrangements to ensure that drinking water suppliers—
+    (i) appropriately identify and assess risks and hazards that relate to drinking water supplies; and
+    (ii) make changes, if necessary, to drinking water safety plans to reflect changes in the risks and hazards.
+(2) Taumata Arowai must have regard to the scale, complexity, and risk profile of drinking water supplies when performing the functions in subsection (1).
+
+### 33 Planned events
+(1) This section applies to a planned event, such as a festival or other organised gathering or camp, where the organiser intends to supply drinking water to persons attending the event.
+(2) If this section applies, the event organiser must—
+  (a) arrange for drinking water to be supplied from a registered drinking water supply (for example, by a water carrier); or
+  (b) apply to Taumata Arowai for registration of a temporary drinking water supply.
+(3) An applicant for registration of a temporary drinking water supply must lodge with the application a temporary drinking water safety plan in an approved form.
+(4) Taumata Arowai may register a temporary drinking water supply, subject to any conditions it considers necessary to ensure that the drinking water is safe and complies with drinking water standards.
+(5) If the event organiser supplies drinking water from a temporary drinking water supply, the event organiser must ensure that the drinking water is supplied in accordance with—
+  (a) the requirements of the temporary drinking water safety plan; and
+  (b) any conditions imposed by Taumata Arowai.
+
+### 34 Unplanned supply of drinking water
+(1) This section applies if drinking water is supplied on an unplanned basis.
+(2) In this Act, unplanned, in relation to the supply of drinking water, means the temporary supply of drinking water from an unregistered drinking water supply to any place where—
+  (a) the usual drinking water supply to that place has failed or is unsafe to drink; and
+  (b) the persons at that place cannot reasonably access a sufficient quantity of drinking water from a registered drinking water supply.
+(3) A person who supplies drinking water on an unplanned basis must—
+  (a) comply with sections 21 and 22, as far as is reasonably practicable; and
+  (b) notify Taumata Arowai immediately of the temporary drinking water supply arrangement and comply with any directions issued by Taumata Arowai under section 104.
+(4) If a person supplies drinking water from an unregistered drinking water supply on an unplanned basis for more than 60 days in any 12-month period, they must register the supply and comply with legislative requirements (except if a state of emergency declaration or transition period under the Civil Defence Emergency Management Act 2002 is in effect).
+
+### Subpart 3 — Requirements relating to notifications and record keeping
+
+### 35 Duty to notify Taumata Arowai of notifiable risk or hazard
+(1) Taumata Arowai may, by notice, declare risks or hazards that relate to or affect the supply of drinking water to be notifiable risks or hazards.
+(2) A drinking water supplier must, immediately after becoming aware that a notifiable risk or hazard exists,—
+  (a) take immediate action to ensure that public health is protected; and
+  (b) notify Taumata Arowai of the notifiable risk or hazard in an approved form; and
+  (c) investigate the source or the cause of the notifiable risk or hazard; and
+  (d) take action to prevent, reduce, or eliminate the risk or hazard; and
+  (e) take all practicable steps, to the satisfaction of Taumata Arowai, to advise affected consumers and drinking water suppliers about the notifiable risk or hazard; and
+  (f) identify and implement measures required to ensure that the notifiable risk or hazard does not reoccur.
+(3) Taumata Arowai must, on receiving notification under subsection (2)﻿(b), notify the relevant medical officer of health that a notifiable risk or hazard exists.
+(4) A declaration made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 36 Notification duties of drinking water supplier
+Notification regarding cessation or reduction of supply
+(1) A drinking water supplier must notify Taumata Arowai, and every territorial authority whose district contains consumers or drinking water suppliers supplied by the supplier, of the supplier’s intention or proposal—
+  (a) to cease to be the owner of a registered drinking water supply, including the details of the intended new owner if ownership of the supply is to be transferred; or
+  (b) to cease supply of drinking water to consumers or drinking water suppliers; or
+  (c) to limit connections to the supply; or
+  (d) to reduce or limit the volume of drinking water supplied to consumers or drinking water suppliers.
+(2) Subsection (1)﻿(b) and (d) does not apply to a restriction or an interruption of supply of drinking water to which section 25(4), (5), or (7) applies.
+Notification regarding operation of other suppliers
+(3) A drinking water supplier must notify Taumata Arowai of—
+  (a) instances known to the supplier of persons being supplied drinking water from an unregistered drinking water supply; and
+  (b) material instances known to the supplier of the failure of another drinking water supplier to supply drinking water in accordance with the requirements of the drinking water safety plan, the drinking water standards, any enforceable undertaking entered into with the chief executive, or the requirements of any compliance order or other direction issued by Taumata Arowai or a compliance officer; and
+  (c) any material concern they have regarding the ability of the operator of a drinking water supply to maintain authorisation in accordance with sections 68 and 71.
+(4) A notification must be made in an approved form, and if made—
+  (a) under subsection (1), must be made at least 30 days before the event is intended or proposed to occur; and
+  (b) under subsection (3), must be made as soon as practicable in the circumstances.
+
+### 37 Drinking water suppliers to keep records
+(1) A drinking water supplier must keep and maintain records of—
+  (a) the supplier’s drinking water supply, its operation, and its compliance with legislative requirements; and
+  (b) the results of any monitoring to ensure that drinking water is safe and complies with legislative requirements; and
+  (c) the supplier’s actions in response to any direction, enforceable undertaking, or compliance order issued or accepted under this Act; and
+  (d) any other matter specified in compliance rules.
+(2) Taumata Arowai may require, on request, records under subsection (1) to be made available to Taumata Arowai—
+  (a) as soon as is reasonably practicable; or
+  (b) at particular times (for example, according to a schedule); or
+  (c) continuously.
+
+### Subpart 4 — Consumer complaints
+
+### 38 Requirement for supplier to provide information to consumers and have complaints process
+(1) A drinking water supplier must, in accordance with regulations that apply to the supplier,—
+  (a) provide any prescribed information to consumers; and
+  (b) establish, maintain, and administer a consumer complaints process; and
+  (c) report annually to Taumata Arowai on its consumer complaints process.
+(2) A drinking water supplier must ensure that complaints are dealt with—
+  (a) in accordance with its consumer complaints process; and
+  (b) in an efficient and effective manner.
+
+### 39 Review by Taumata Arowai
+(1) A drinking water consumer who is not satisfied with the outcome of a complaint under this subpart may, in the approved form, request Taumata Arowai to review the complaint.
+(2) Taumata Arowai must—
+  (a) investigate the drinking water supplier’s handling of the complaint; and
+  (b) take any action that Taumata Arowai considers necessary as a result of Taumata Arowai’s investigation findings.
+(3) Taumata Arowai may appoint a person to provide a dispute resolution process on its behalf for the purposes of subsection (2).
+(4) Taumata Arowai may, at its discretion, decide to take no action or, as the case may require, no further action on any complaint if, in the opinion of Taumata Arowai,—
+  (a) the length of time that has elapsed between the date when the subject matter of the complaint arose and the date when the complaint was made is such that an investigation of the complaint is no longer practicable or desirable; or
+  (b) the complaint is trivial, frivolous, or vexatious, or is not made in good faith; or
+  (c) the person alleged to be aggrieved does not want action to be taken or, as the case may be, continued; or
+  (d) the complainant does not have sufficient personal interest in the subject matter of the complaint; or
+  (e) there is in all the circumstances an adequate remedy or right of appeal, other than the right to petition the House of Representatives or to make a complaint to an Ombudsman, that it would be reasonable for the aggrieved person to exercise.
+
+### 40 Taumata Arowai to monitor compliance with complaints process
+Taumata Arowai must—
+  (a) monitor compliance with this subpart; and
+  (b) have regard to the scale, complexity, and risk profile of a drinking water supplier when performing the functions in this subpart.
+
+### Subpart 5 — Source water
+
+### 41 Purpose of subpart
+The purpose of this subpart is to provide a framework to ensure that, together with measures set out in the Resource Management Act 1991, regulations made under that Act, and the National Policy Statement for Freshwater Management,—
+  (a) the risks and hazards to source water are identified, assessed, managed, and monitored by drinking water suppliers and local authorities; and
+  (b) information on source water, and measures to manage risks and hazards to source water, are published on a regular basis by regional councils.
+
+### 42 Application
+Sections 43 and 44 do not apply to a drinking water supplier whose drinking water supply arrangement does not have a source.
+ExamplesSections 43 and 44 do not apply to a water carrier that fills tankers from another drinking water supplier’s reticulated supply.Sections 43 and 44 do not apply to a drinking water supplier that is supplied by another drinking water supplier’s reticulated supply.
+
+### 43 Source water risk management plans
+(1) A drinking water supplier must prepare and implement a source water risk management plan based on the scale, complexity, and risk of the drinking water supply.
+(2) A source water risk management plan must—
+  (a) identify any hazards that relate to the source water, including emerging or potential hazards; and
+  (b) assess any risks that are associated with those hazards; and
+  (c) identify how those risks will be managed, controlled, monitored, or eliminated as part of a drinking water safety plan; and
+  (d) have regard to any values identified by local authorities under the National Policy Statement for Freshwater Management that relate to a freshwater body that the supplier uses as a source of a drinking water supply.
+(3) A source water risk management plan is part of the supplier’s drinking water safety plan and, unless the context otherwise requires, references in this Act to a drinking water safety plan must be read as including a reference to a source water risk management plan.
+(4) Local authorities must contribute to the development and implementation of source water risk management plans prepared by drinking water suppliers, including by—
+  (a) providing information to suppliers in accordance with compliance rules, including information about—
+    (i) land-use activities, potential sources of contamination, and other water users that could directly or indirectly affect the quality or quantity of the source of a drinking water supply; and
+    (ii) water quality monitoring of the source of a drinking water supply conducted by a regional council; and
+    (iii) any known risks or hazards that could affect the source of a drinking water supply; and
+  (b) undertaking any actions to address risks or hazards to the source of a drinking water supply that local authorities have agreed to undertake on behalf of a drinking water supplier, as specified in a schedule attached to a source water risk management plan or otherwise agreed in writing.
+
+### 44 Suppliers to monitor source water quality
+(1) A drinking water supplier must monitor the quality of the supplier’s source water at the abstraction point in accordance with a programme set out in the supplier’s drinking water safety plan.
+(2) Compliance rules may specify the monitoring requirements for source water that are proportionate to the scale and complexity of each drinking water supply and any known risks or hazards to the source of a drinking water supply.
+(3) A drinking water supplier must report the results of the supplier’s source water quality monitoring to Taumata Arowai, and Taumata Arowai must provide regional councils with monitoring results annually.
+
+### 45 Information sharing with local authorities
+Information sharing between Taumata Arowai and local authorities
+(1) Taumata Arowai must provide local authorities with information on the location of drinking water abstraction points provided by drinking water suppliers.
+(2) Local authorities must inform Taumata Arowai of any inaccuracies they consider exist in the information on the location of drinking water abstraction points.
+Information sharing between suppliers and local authorities
+(3) A drinking water supplier must inform the appropriate local authorities, as soon as practicable, of any known risks or hazards to a source of a drinking water supply or related infrastructure that could affect the provision of safe drinking water, including the risks or hazards identified in source water risk management plans.
+(4) Local authorities must inform drinking water suppliers, as soon as practicable, of any known risks or hazards that could affect a source of a drinking water supply or related infrastructure.
+
+### 46 Regional councils to publish information about source water
+(1) Regional councils must publish and provide Taumata Arowai with information on source water quality and quantity in their region annually, including any changes to source water quality and quantity.
+(2) Regional councils must assess the effectiveness of regulatory and non-regulatory interventions to manage risks or hazards to source water in their region at least once every 3 years and make this information available to the public on Internet sites maintained by or on behalf of the councils.
+(3) Taumata Arowai may make compliance rules for regional councils on the format and content of the information they are required to publish under this section.
+
+### Subpart 6 — Standards, rules, directions, and other instruments
+
+### 47 Power to make drinking water standards
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, and following consultation undertaken in accordance with section 53, make regulations to set standards (drinking water standards) that relate to either or both of the following:
+  (a) drinking water composition:
+  (b) outcomes of the treatment of drinking water.
+(2) Drinking water standards may, without limitation, specify or provide for—
+  (a) minimum or maximum amounts of substances that may be present in drinking water; and
+  (b) minimum or maximum acceptable values for chemical, radiological, microbiological, and other characteristics of drinking water.
+(3) Drinking water standards must not include any requirement that fluoride be added to drinking water.
+(4) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 48 Aesthetic values for drinking water
+(1) Taumata Arowai must, by notice, issue aesthetic values that relate to drinking water.
+(2) Aesthetic values may, without limitation, specify or provide for minimum or maximum values for substances and other characteristics that relate to the acceptability of drinking water to consumers (such as appearance, taste, or odour).
+(3) A notice made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 49 Compliance rules
+(1) Taumata Arowai may make compliance rules setting out requirements relating to the performance of functions or duties under this Part by—
+  (a) drinking water suppliers; and
+  (b) other persons who have functions or duties under this Part (for example, local authorities).
+(2) To avoid doubt,—
+  (a) the power in subsection (1) is not limited by any other provision in this Part; and
+  (b) a compliance rule may—
+    (i) require the treatment of drinking water in a particular way; or
+    (ii) prohibit the treatment of drinking water in a particular way.
+(3) A person with a function or duty under this Part must comply with all applicable compliance rules made under subsection (1).
+(4) Compliance rules—
+  (a) may apply in respect of all drinking water supplies or classes of drinking water supply; but
+  (b) must not apply in respect of an individual water supply or local authority.
+(5) Compliance rules made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 50 Acceptable solutions or verification methods for drinking water
+(1) Taumata Arowai may, by notice, issue a drinking water acceptable solution or verification method for use in establishing compliance with legislative requirements.
+(2) A drinking water acceptable solution or verification method may—
+  (a) provide an alternative to the requirements in section 30 for a specified class of drinking water supplier; and
+  (b) require the treatment of drinking water by a specified class of drinking water supplier.
+(3) Taumata Arowai must not issue a drinking water acceptable solution or verification method unless satisfied that the solution or method is consistent with the main purpose of this Act (other than the duty to have a drinking water safety plan).
+(4) A drinking water acceptable solution or verification method issued under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 51 Compliance with acceptable solution or verification method for drinking water
+(1) A person who complies with an applicable acceptable solution or verification method must, for the purposes of this Act, be treated as having complied with the legislative requirements to which that acceptable solution or verification method relates (other than the duties under sections 21 and 22).
+(2) A person who complies with an applicable acceptable solution or verification method that provides an alternative to the requirements in section 30 must be treated as having complied with those requirements.
+(3) A person may comply with an acceptable solution or verification method in order to comply with the legislative requirements to which that acceptable solution or verification method relates, but doing so is not the only means of complying with those legislative requirements.
+
+### 52 Templates and models
+(1) Taumata Arowai may, by notice in the Gazette, issue a template or model for drinking water safety plans or components of plans.
+(2) Templates and models issued under subsection (1) must be published in accordance with section 205.
+
+### 53 Taumata Arowai consultation requirements
+(1) Taumata Arowai must ensure that public consultation has been carried out before the following instruments are made:
+  (a) drinking water standards:
+  (b) aesthetic values:
+  (c) compliance rules:
+  (d) acceptable solutions or verification methods.
+(2) Public consultation must include—
+  (a) adequate and appropriate notice of the content of the proposed instrument; and
+  (b) a reasonable opportunity for interested persons to make submissions; and
+  (c) appropriate consideration of any submissions received.
+(3) Despite subsection (1), Taumata Arowai need not consult the public if Taumata Arowai is satisfied that—
+  (a) the instrument needs to be made—
+    (i) urgently; or
+    (ii) to deal with transitional issues; or
+  (b) an amendment to an instrument is minor and will not adversely and substantially affect the interest of any person.
+(4) A failure to comply with this section does not affect the validity of any of the instruments to which it applies.
+
+### Subpart 7 — Drinking water supply register
+
+### 54 Application to register drinking water supply
+(1) An application to register a drinking water supply must be in an approved form.
+(2) The application must include the following information:
+  (a) the legal name and contact details of the owner of the drinking water supply, and the owner’s trading name (if applicable):
+  (b) the location of the drinking water supply, including, if applicable, the location of each abstraction point for the drinking water supply:
+  (c) the area the drinking water supply supplies:
+  (d) the estimated number of consumers:
+  (e) a description of the drinking water supply:
+  (f) the legal name and contact details of the drinking water supply operator (if different from the owner), and the operator’s trading name (if applicable):
+  (g) the information that relates to the authorisation of the operator of the drinking water supply (if any):
+  (h) any other information prescribed by Taumata Arowai by notice in the Gazette.
+(3) The information required by subsection (2) must be provided in accordance with any requirements specified by Taumata Arowai by notice in the Gazette.
+(4) The application must be accompanied by the fee or levy (if any) prescribed in regulations made under section 200 or 201.
+(5) Taumata Arowai must register the supply within 20 working days after receiving the application unless Taumata Arowai considers that the application is incomplete or requires amendment.
+
+### 55 Register of drinking water supplies
+(1) Taumata Arowai must keep and maintain a register of drinking water supplies that contains the information specified in section 54(2).
+(2) Taumata Arowai must also keep and maintain a separate publicly available version of the register that contains only—
+  (a) the information specified in section 54(2)﻿(a), (c), (d), (f), and (g); and
+  (b) any other information about a registered drinking water supply that Taumata Arowai considers is in the public interest to disclose.
+(3) Taumata Arowai may withhold any information from the publicly available version of the register if it considers it is in the public interest to do so, which may include the protection of—
+  (a) the privacy of natural persons; or
+  (b) the security of a drinking water supply.
+(4) Taumata Arowai may maintain the register and the publicly available version in any form, including as a single register or in different parts for different classes or categories of owners, operators, or supplies.
+(5) Registration of a drinking water supply is valid for 12 months.
+
+### 56 Duty to renew annual registration and notify changes
+(1) The owner of a registered drinking water supply must, in each 12-month period, during a month allocated for the purpose by Taumata Arowai, apply for a renewal of registration of the owner’s supply.
+(2) At the time of applying to Taumata Arowai for renewal of registration of a drinking water supply, the owner of the drinking water supply must—
+  (a) confirm that the information provided under section 54(2) is correct at the time of registration renewal; and
+  (b) confirm that the drinking water safety plan is still current and, if not, lodge a new or amended plan.
+(3) The owner of a drinking water supply must immediately notify Taumata Arowai of any change to the information provided under section 54(2).
+(4) An application and a notification under this section must be in an approved form.
+(5) An application under this section must be accompanied by the prescribed fee or levy (if any).
+
+### Subpart 8 — Exemptions to requirements on drinking water suppliers
+
+### 57 General exemptions
+(1) The chief executive may exempt a drinking water supplier or class of drinking water supplier from compliance with the following requirements in this Act:ExampleA person who supplies drinking water at backcountry huts or isolated campsites in a district, where it is impractical to provide safe drinking water and water may have to be boiled, could be exempted from requirements under a class exemption.
+  (a) to supply safe drinking water (see section 21):
+  (b) to comply with drinking water standards (see section 22):
+  (c) to take reasonable steps to provide aesthetically acceptable drinking water (see section 24):
+  (d) to provide a sufficient quantity of drinking water to consumers at each point of supply (see section 25):
+  (e) to protect against the risk of backflow (see section 27):
+  (f) requirements relating to end-point treatment (see section 28):
+  (g) to have a drinking water safety plan (see section 30):
+  (h) to keep records (see section 37):
+  (i) to provide information to consumers and have a consumer complaints process (see section 38).
+(2) An exemption must exempt a drinking water supplier, or class of supplier, from all the requirements described in subsection (1).
+(3) An application for an exemption under this section must be accompanied by the prescribed fee (if any).
+(4) The chief executive must not grant an exemption unless—
+  (a) satisfied that the exemption is consistent with the main purpose of this Act (other than the duty to have a drinking water safety plan); and
+  (b) for an exemption in respect of a class of drinking water supplier, the chief executive has consulted the public in accordance with section 53(2) and (3).
+(5) The chief executive may grant the exemption on any conditions that the chief executive thinks fit.
+(6) Without limiting the power in subsection (5), the conditions may include a requirement—
+  (a) that the drinking water supplier take appropriate measures to minimise the risk to public health; and
+  (b) that the drinking water supplier take appropriate measures to warn consumers of the need to boil any drinking water from the water supply before it is consumed, including requirements about appropriate signs at taps; and
+  (c) relating to the composition of the drinking water; and
+  (d) to monitor the quality of the drinking water; and
+  (e) that, where land is supplied with drinking water, the exemption and any conditions will be notified by Taumata Arowai to the relevant territorial authority for inclusion on the land information memorandum.
+(7) An exemption may continue in force for not more than 5 years (and at the close of the date that is 5 years after the exemption first comes into force, the exemption must be treated as having been revoked unless it is sooner revoked or expires).
+(8) An exemption granted under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(9) The chief executive’s reasons for granting the exemption must be published with the exemption.
+
+### 58 Exemption: residual disinfection
+(1) The chief executive may exempt a drinking water supplier or class of drinking water supplier from the requirement to use residual disinfection in—
+  (a) a supply that includes reticulation; or
+  (b) any part of a supply that includes reticulation.
+(2) The chief executive may grant the exemption on any conditions that the chief executive thinks fit.
+(3) The chief executive must not grant the exemption unless—
+  (a) satisfied that the exemption is consistent with the main purpose of this Act; and
+  (b) for an exemption in respect of an individual drinking water supplier, the supplier satisfies the chief executive that drinking water supplied by the supplier will comply with all other legislative requirements and the drinking water safety plan on an ongoing basis; and
+  (c) for an exemption in respect of a class of drinking water supplier, the chief executive has consulted the public in accordance with section 53(2) and (3).
+(4) An application for an exemption under this section must be accompanied by the prescribed fee (if any).
+(5) An exemption may continue in force for not more than 5 years (and at the close of the date that is 5 years after the exemption first comes into force, the exemption must be treated as having been revoked unless it is sooner revoked or expires).
+(6) The chief executive must publish an exemption granted in respect of an individual drinking water supplier on an Internet site maintained by or on behalf of Taumata Arowai.
+(7) An exemption granted in respect of a class of drinking water supplier under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(8) The chief executive’s reasons for granting an exemption must be published with the exemption.
+
+### Subpart 9 — Emergency powers
+
+### 59 Taumata Arowai may declare drinking water emergency
+(1) Taumata Arowai may declare a drinking water emergency if it believes, on reasonable grounds, that there is a serious risk to public health.
+(2) In this subpart, serious risk to public health means a serious risk to public health relating to—
+  (a) the drinking water supplied to consumers; or
+  (b) the ongoing supply (including domestic self-supplies) of a sufficient quantity of drinking water in a geographical area.
+(3) Taumata Arowai must consult the Minister before declaring a drinking water emergency or amending a drinking water emergency declaration.
+(4) A drinking water emergency declaration must specify—
+  (a) the nature of the emergency; and
+  (b) the purpose of the declaration; and
+  (c) the geographical area or specific drinking water supply to which the declaration relates; and
+  (d) the period of time during which the declaration remains in force.
+(5) Taumata Arowai may amend a drinking water emergency declaration.
+(6) As soon as practicable after making or amending a drinking water emergency declaration, Taumata Arowai must—
+  (a) give a copy of the declaration or amended declaration to every affected drinking water supplier and territorial authority and the relevant medical officer of health; and
+  (b) publish a copy of the declaration or amended declaration in the Gazette; and
+  (c) take all practicable steps, working with affected drinking water supplies and territorial authorities, to ensure that consumers are informed about the drinking water emergency.
+(7) After receiving a drinking water emergency declaration, a drinking water supplier and a territorial authority must advise, to the satisfaction of Taumata Arowai, affected consumers about the drinking water emergency.
+
+### 60 Maximum duration of drinking water emergency declaration
+No drinking water emergency declaration may remain in force for longer than 28 days unless regulations are made under section 66 extending the period of the drinking water emergency declaration.
+
+### 61 Drinking water emergency may be declared or continued even if other emergency declared
+(1) A drinking water emergency—
+  (a) may be declared even if an emergency has been declared under another enactment:
+  (b) remains in force in accordance with section 60, even if an emergency has been declared under another enactment.
+(2) Despite subsection (1), if an emergency is declared under the Civil Defence Emergency Management Act 2002 or the Hazardous Substances and New Organisms Act 1996, or a biosecurity emergency is declared under the Biosecurity Act 1993, any compliance officer or employee of Taumata Arowai is, when exercising any powers conferred by section 62, subject to the direction of,—
+  (a) in the case of an emergency declared under the Civil Defence Emergency Management Act 2002, the Controller (within the meaning of section 4 of that Act); or
+  (b) in the case of an emergency declared under section 136 of the Hazardous Substances and New Organisms Act 1996, the relevant office holder who appointed the enforcement officer who declared the emergency under that Act, unless Taumata Arowai directs otherwise; or
+  (c) in the case of a biosecurity emergency declared under section 144 of the Biosecurity Act 1993, the Minister (within the meaning of section 145 of that Act), unless Taumata Arowai directs otherwise.
+
+### 62 Special powers of Taumata Arowai during drinking water emergency
+(1) If a drinking water emergency declaration is in force, Taumata Arowai may exercise all or any of the powers in subsection (2) for the purpose of preventing, reducing, or eliminating the serious risk to public health.
+(2) The powers are to—
+  (a) take immediate action, or direct any person to take immediate action, that Taumata Arowai believes, on reasonable grounds, will prevent, reduce, or eliminate the serious risk to public health:
+  (b) direct any person to stop, or prohibit any person from starting, anything that Taumata Arowai believes, on reasonable grounds, is a cause of, or contributes to, the serious risk to public health:
+  (c) requisition any property in order to prevent, reduce, or eliminate the serious risk to public health:
+  (d) destroy any property or any other thing in order to prevent, reduce, or eliminate the serious risk to public health:
+  (e) require all persons within a specified area to use an alternative drinking water supply:
+  (f) do emergency work, or direct a territorial authority to do emergency work, to ensure that an alternative supply of drinking water is available to affected persons:
+  (g) direct a territorial authority to supply drinking water to affected persons (whether in the district of that territorial authority or in the district of another territorial authority):
+  (h) direct a drinking water supplier to make arrangements to ensure that an alternative drinking water supply is available to affected consumers (for example, by water carrier):
+  (i) direct the closure of any public place, or any part of a public place:
+  (j) direct the cancellation of any public event, function, or gathering at any place:
+  (k) take any other action that Taumata Arowai believes is reasonably necessary to prevent, reduce, or eliminate the serious risk to public health.
+(3) Taumata Arowai must consult the Minister before exercising a power under subsection (2)﻿(f) or (g) in relation to a territorial authority.
+(4) Every person who receives a direction, prohibition, or requirement from Taumata Arowai under subsection (2) must comply with that direction, prohibition, or requirement.
+(5) Taumata Arowai must issue a direction, prohibition, or requirement under subsection (2)﻿(a) to (h), or (k), in accordance with the requirements in section 125.
+(6) A direction given under subsection (2)﻿(i) or (j) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 63 Exemption during drinking water emergency
+(1) If a drinking water emergency declaration is in force, Taumata Arowai may exempt any drinking water supplier, or class of drinking water supplier, from compliance with any or all of the requirements in sections 21, 22, 24, 25, 27, 28, 30, 37, and 38.
+(2) Taumata Arowai may grant an exemption from the requirements on any conditions that Taumata Arowai thinks fit.
+(3) Without limiting the power in subsection (2), the conditions may include a requirement—
+  (a) that the drinking water supplier take appropriate measures to minimise the serious risk to public health; and
+  (b) that the drinking water supplier advise affected consumers and drinking water suppliers of measures that they should take to protect public health; and
+  (c) relating to the composition of the drinking water; and
+  (d) to monitor the quality of the drinking water.
+(4) The exempt drinking water supplier and the territorial authority that is responsible for the geographical area to which the exemption relates must take all practicable steps to inform affected consumers of the exemption for the period during which it remains in force.
+(5) An exemption expires when the drinking water emergency to which it relates is no longer in force, unless earlier revoked.
+(6) An exemption granted under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 64 Compensation for property requisitioned or destroyed
+(1) Reasonable compensation is payable for any loss or destruction of property if Taumata Arowai, or any person acting at Taumata Arowai's direction under section 62,—
+  (a) requisitions any property from any person for use in a drinking water emergency; or
+  (b) destroys any property in order to prevent, reduce, or eliminate the serious risk to public health.
+(2) Reasonable compensation under subsection (1) is payable, on written application by any person having an interest in the property, by Taumata Arowai out of money appropriated by Parliament for the purpose.
+(3) Compensation is not payable under this section to any person who caused or contributed substantially to the duty that brought about the requisition or destruction.
+(4) Taumata Arowai may require a drinking water supplier who has caused or contributed substantially to an emergency to reimburse Taumata Arowai for all or part of any compensation paid by Taumata Arowai under this section in relation to that emergency.
+(5) A person may appeal to the District Court in accordance with section 93(2) and (3) against—
+  (a) Taumata Arowai’s decision to pay or refuse to pay compensation under this section; or
+  (b) the amount of compensation determined to be payable under this section; or
+  (c) the determination of liability of any person to reimburse Taumata Arowai under subsection (4).
+
+### 65 Actions taken under emergency powers may be exempted from requirements of Part 3 of Resource Management Act 1991
+(1) If any action under section 62 is an activity that breaches the provisions of Part 3 of the Resource Management Act 1991, Taumata Arowai may exempt the action taken from those provisions during the period specified under section 59(4)﻿(d).
+(2) Before granting an exemption, Taumata Arowai—
+  (a) must consult the relevant consent authority (to the extent that is practicable in the circumstances); and
+  (b) may consult any other persons that Taumata Arowai considers appropriate.
+(3) A failure to comply with subsection (2) does not affect the validity of any exemption given under this section.
+(4) Despite subsection (1), if, during any period in which an exemption by Taumata Arowai is in force, a consent authority refuses to issue a resource consent in respect of the action which is the subject of the exemption, the exemption, if not expiring earlier, expires at the close of 5 working days after the date of the decision of the consent authority unless—
+  (a) regulations extending the exemption are made under section 66; or
+  (b) any appeal is lodged against the decision of the consent authority, in which case the exemption expires on the determination of the appeal or at the time specified by the court that determines the appeal.
+
+### 66 Regulations relating to emergency situations
+(1) If any action has been exempted from Part 3 of the Resource Management Act 1991 under section 65 and Taumata Arowai considers that it is necessary, on the grounds prescribed in section 59(1), to continue the action beyond the period specified under section 59(4)﻿(d),—
+  (a) Taumata Arowai may request the Minister to recommend the making of regulations that extend the exemption; and
+  (b) the Minister may recommend that the regulations be made; and
+  (c) the Governor-General may, by Order in Council, make regulations for that purpose.
+(2) If Taumata Arowai considers that it is necessary, on the grounds prescribed in section 59(1), to extend a drinking water emergency declaration beyond the period specified under section 59(4)﻿(d),—
+  (a) Taumata Arowai may request the Minister to recommend the making of regulations that extend the period, up to a maximum of 2 years, during which a drinking water emergency declaration under section 59 remains in force; and
+  (b) the Minister may recommend that the regulations be made; and
+  (c) the Governor-General may, by Order in Council, make regulations for that purpose.
+(3) The regulations are revoked at the close of the day that is 2 years after the date on which they first come into force, unless they are earlier revoked.
+(4) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 67 Effect of exemption
+If an exemption is granted under section 65 or extended under section 66(1), the provisions of Part 3 of the Resource Management Act 1991 do not apply to the actions taken under section 62 to which the exemption relates while the exemption remains in force.
+
+### Subpart 10 — Authorisations
+
+### 68 Requirement for operators to be authorised
+A person must not operate a drinking water supply, a wastewater network, or a class of drinking water supply or wastewater network if—
+  (a) regulations require the operator to be authorised; and
+  (b) the person is not authorised in accordance with the regulations.
+
+### 69 Requirement for prescribed skills, qualifications, or experience in respect of drinking water supply or wastewater network
+A person must not certify, assess, test, or operate a drinking water supply, a wastewater network, or a class of drinking water supply or wastewater network if regulations require that, in order to do so, the person must—
+  (a) have prescribed skills, qualifications, or experience and the person does not have the prescribed skills, qualifications, or experience; or
+  (b) be supervised by a person with prescribed skills, qualifications, or experience, and the person is not supervised by a person with the prescribed skills, qualifications, or experience.
+
+### 70 Requirement for prescribed skills, qualifications, or experience for water sampling
+A person must not sample source water, raw water, or drinking water if regulations require that, in order to do so, the person must—
+  (a) have prescribed skills, qualifications, or experience and the person does not have the prescribed skills, qualifications, or experience; or
+  (b) be supervised by a person with the prescribed skills, qualifications, or experience, and the person is not supervised by a person with the prescribed skills, qualifications, or experience.
+
+### 71 Requirement to comply with conditions of authorisation
+A person must comply with the conditions of any authorisation given to that person that are prescribed in or under regulations.
+
+### 72 Regulations relating to authorisations
+Regulations made under section 200 may prescribe matters relating to authorisations (including licences, certifications, registrations, and permits), qualifications, skills, and experience for the purposes of this subpart, including providing for—
+  (a) requirements to be authorised:
+  (b) the grant, issue, renewal, variation, suspension, cancellation, expiry, and replacement of authorisations:
+  (c) the evidence and information to be provided in relation to applications (for example, statutory declarations, qualifications, or compliance certificates):
+  (d) exemptions from a requirement to be authorised:
+  (e) variations of authorisations by Taumata Arowai, whether on application or otherwise:
+  (f) the authorisation of persons who are to be involved in the authorisation of other persons (for example, as trainers, assessors, auditors, reviewers, or compliance certifiers):
+  (g) the authorisation of persons to authorise other persons (for example, through accreditation, certification, or verification):
+  (h) the grant, issue, renewal, suspension, or cancellation of authorisations granted by persons referred to in paragraph (f):
+  (i) processes for the review of or appeal against decisions in respect of authorisations, including ensuring that the person concerned is given a reasonable opportunity to be heard:
+  (j) the eligibility requirements for applicants for authorisations:
+  (k) the grounds and processes for regular monitoring, auditing, or review of authorisations, including powers to request or require information from authorised persons:
+  (l) the grounds and processes for training or supervision in relation to authorisations:
+  (m) conditions of authorisations:
+  (n) fees for the applications for the grant, issue, renewal, variation, audit, or review of authorisations, or the basis on which the amount of fee is to be calculated or ascertained:
+  (o) the keeping of 1 or more registers of authorisations, and for access to those registers:
+  (p) the recognition of authorisations granted under other enactments or by other jurisdictions, and any exceptions to such recognition:
+  (q) time frames within which persons must obtain authorisations.
+
+### Subpart 11 — Laboratory accreditation and testing
+
+### 73 Duty to use accredited laboratory to analyse water
+(1) A drinking water supplier must use an accredited laboratory to analyse source water, raw water, and drinking water as part of any monitoring requirements in compliance rules or a drinking water safety plan.
+(2) If the results of an accredited laboratory’s analysis (whether or not the analysis has been requested to comply with subsection (1)) indicate that drinking water does not comply with the drinking water standards or compliance rules, the laboratory must notify Taumata Arowai and the drinking water supplier as soon as practicable after the results are known.
+(3) In this subpart, accredited laboratory means a person accredited under section 77 to perform the functions of a laboratory that analyses source water, raw water, and drinking water.
+
+### 74 Taumata Arowai may appoint accreditation body
+(1) Taumata Arowai may, by notice in the Gazette,—
+  (a) appoint a person as a laboratory accreditation body; and
+  (b) revoke the appointment at any time.
+(2) A reference in this subpart to a laboratory accreditation body is a reference to—
+  (a) the person appointed under subsection (1)﻿(a); or
+  (b) if no person is appointed, Taumata Arowai.
+
+### 75 Requirements relating to laboratories
+(1) Taumata Arowai must, by notice, prescribe—
+  (a) the criteria and standards for accreditation of a laboratory; and
+  (b) different classes of accreditation, if Taumata Arowai thinks it appropriate; and
+  (c) the time frame for validity and required renewal of accreditation; and
+  (d) the minimum frequency of assessments that the laboratory accreditation body must conduct of laboratories that analyse source water, raw water, and drinking water (which must be at least once every 3 years); and
+  (e) forms and procedures that relate to accreditation; and
+  (f) procedures for the investigation by a laboratory accreditation body of complaints relating to laboratories; and
+  (g) notification requirements for laboratories relating to analysis of source water, raw water, or drinking water; and
+  (h) any other matters Taumata Arowai considers necessary or appropriate.
+(2) A notice made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 76 Charges
+(1) A laboratory accreditation body may charge an accredited laboratory the following fees prescribed by the laboratory accreditation body by notice:
+  (a) a fee for—
+    (i) an application for, or a renewal of, accreditation:
+    (ii) an assessment conducted under section 75(1)﻿(d):
+    (iii) an investigation conducted under section 75(1)﻿(f):
+  (b) an annual fee for each full or partial year of accreditation:
+  (c) any other fee that is necessary to recover the costs associated with providing accreditation services.
+(2) A notice made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 77 Accreditation
+The laboratory accreditation body may, on the application of a person made in accordance with section 79, accredit that person to perform the functions of a laboratory that analyses source water, raw water, and drinking water.
+
+### 78 Criteria for accreditation
+Before granting accreditation, the laboratory accreditation body must be satisfied that the applicant meets the criteria and standards for accreditation prescribed by Taumata Arowai under section 75.
+
+### 79 Application for accreditation
+An application for accreditation under section 77 must—
+  (a) be made in writing; and
+  (b) be given in the manner (if any) prescribed by the laboratory accreditation body; and
+  (c) contain the information (if any) prescribed by the laboratory accreditation body.
+
+### 80 Suspension or revocation of accreditation
+(1) The laboratory accreditation body may suspend or revoke, or amend the scope of, an accreditation under section 77 in accordance with this section.
+(2) The laboratory accreditation body may suspend or revoke an accreditation only if it—
+  (a) is satisfied that the laboratory no longer meets the prescribed criteria and standards for accreditation; and
+  (b) has first given the laboratory concerned a reasonable opportunity to be heard.
+(3) The laboratory accreditation body must notify Taumata Arowai if it has concerns that it believes could lead to the suspension or revocation of the accreditation of a laboratory.
+(4) Despite subsection (2)﻿(a), the laboratory accreditation body must not revoke the accreditation of a laboratory if—
+  (a) the prescribed criteria and standards for accreditation are amended; and
+  (b) the laboratory no longer meets those criteria and standards solely as a result of the amendments.
+(5) The limit in subsection (4) applies only during the period of 3 months after the date on which the amendments come into force.
+
+### 81 Laboratory accreditation body must notify Taumata Arowai of grant of, or change to, accreditation
+(1) The laboratory accreditation body must notify Taumata Arowai when it grants, amends the scope of, renews, suspends, or revokes the accreditation of a laboratory.
+(2) The notification must be given—
+  (a) in the manner notified by Taumata Arowai to the laboratory accreditation body from time to time; and
+  (b) within 7 working days after the action to which it relates.
+(3) Taumata Arowai must make the appropriate changes to the relevant entries in the register of accredited laboratories.
+
+### 82 Register of accredited laboratories
+Taumata Arowai must keep and maintain a register of accredited laboratories.
+
+### Subpart 12 — Statutory management and transfer of operations
+
+### 83 Non-performance by drinking water supplier
+(1) This section applies if the chief executive considers, in accordance with section 84, that—
+  (a) a drinking water supplier has persistently failed to comply with 1 or more legislative requirements; or
+  (b) there is a serious risk to public health relating to a drinking water supply.
+(2) The chief executive may—
+  (a) appoint 1 or more operators to act in place of the supplier to perform all or any of the supplier’s functions or duties as an operator under this Act; or
+  (b) require the drinking water supplier to appoint 1 or more operators to act in place of the supplier to perform all or any of the supplier’s functions or duties as an operator under this Act.
+
+### 84 Criteria for appointment or renewal of appointment
+(1) In determining whether an appointment under section 83 should be made, the chief executive must consider—
+  (a) the previous compliance record of the drinking water supplier, including any compliance action or prosecution initiated by the chief executive and the outcome; and
+  (b) the likelihood that the drinking water supplier will be able to comply with the supplier’s functions or duties as an operator under this Act; and
+  (c) the risk to public health posed by the drinking water supplier’s previous compliance record and likely compliance in the future; and
+  (d) the extent to which the requirements in sections 68, 69, and 71, and the requirements prescribed by regulations made under section 200, have been met in respect of the drinking water supply; and
+  (e) the likelihood that the drinking water supplier will be able to meet the requirements in sections 68, 69, and 71, and the requirements prescribed by regulations made under section 200, in respect of the drinking water supply; and
+  (f) the results of any assessment under section 125 of the Local Government Act 2002.
+(2) If section 83(1) applies in respect of a drinking water supplier that is not a territorial authority, the chief executive must consult the territorial authority or authorities responsible for the area in which the drinking water supply is located before making an appointment under section 83(2).
+(3) In deciding whether to renew an appointment made under section 83(2), the chief executive must—
+  (a) consider—
+    (i) the matters specified in subsection (1); and
+    (ii) the results of any consultation undertaken under subsection (2); and
+  (b) revoke the appointment and direct the supplier to resume the performance of the supplier’s functions or duties if the chief executive considers that the supplier is capable of doing so.
+(4) If subsection (3)﻿(b) applies, the chief executive must give the person appointed under section 83(2) notice of the revocation of that person's appointment.
+
+### 85 Effect of appointment
+If a person is appointed under section 83,—
+  (a) that person has all the drinking water supplier’s functions and duties specified in the appointment, and the powers necessary to perform those functions or duties, as if they had been imposed or conferred on that person directly by this Act and not by the appointment; and
+  (b) this Act applies accordingly.
+
+### 86 Costs may be recovered from drinking water supplier
+(1) This section applies to all costs, charges, and expenses incurred by—
+  (a) Taumata Arowai, for the purposes of section 83; and
+  (b) a person appointed under section 83, in respect of their functions and duties under section 85.
+(2) The costs, charges, and expenses may be recovered from the drinking water supplier concerned as a debt due to Taumata Arowai.
+
+### 87 Requirements for appointment
+(1) The chief executive must specify in writing—
+  (a) the period for which the appointment is made; and
+  (b) the supplier’s functions and duties under this Act that the appointed person is required to perform.
+(2) The appointment may—
+  (a) be on any conditions that the chief executive thinks fit; and
+  (b) be renewed in accordance with section 84.
+(3) A person appointed under section 83 may resign from the person’s appointment by giving not less than 90 working days' written notice of the intention to resign to the chief executive.
+
+### 88 Notice of appointment to drinking water supplier
+(1) The chief executive must notify a drinking water supplier of an appointment under section 83 not less than 90 days before the commencement of the appointment.
+(2) The notice must—
+  (a) be in writing; and
+  (b) specify the period for which the appointment is made; and
+  (c) specify the supplier’s functions and duties under this Act that the appointed person is required to perform; and
+  (d) contain the contact information for the chief executive of Taumata Arowai described in section 125(2).
+
+### Subpart 13 — Review and appeals
+
+**Internal review**
+
+### 89 Application for internal review
+(1) A person affected by a decision to which this section applies (the reviewable decision) or the person’s representative may apply to Taumata Arowai for a review (an internal review) of the decision within—
+  (a) 20 working days after the day on which the decision first came to the affected person's notice; or
+  (b) any longer period that Taumata Arowai allows.
+(2) This section applies to the following decisions:
+  (a) any directions issued by Taumata Arowai or a compliance officer:
+  (b) any conditions issued by Taumata Arowai under section 33 that apply to a temporary drinking water supply:
+  (c) any decision by the chief executive to grant or refuse to grant an exemption under section 57 or 58:
+  (d) any decision to refuse to authorise, or to amend, suspend, or revoke, an authorisation under regulations made under section 200.
+(3) The application must be made in the manner and form required by Taumata Arowai.
+
+### 90 Decision of Taumata Arowai
+(1) Taumata Arowai must review the reviewable decision and make a decision—
+  (a) as soon as practicable; and
+  (b) in any case, within 20 working days after the application for internal review is received.
+(2) However, the individual who made the reviewable decision must not review the decision.
+(3) Taumata Arowai's decision may—
+  (a) confirm or vary the reviewable decision; or
+  (b) set aside the reviewable decision; or
+  (c) set aside the reviewable decision and substitute another decision that Taumata Arowai considers appropriate.
+(4) Taumata Arowai may seek further information from the applicant, and, if it does,—
+  (a) the applicant must provide the information within the period (not less than 7 working days) specified by Taumata Arowai in the request for information; and
+  (b) the period specified in subsection (1)﻿(b) ceases to run until the applicant provides the information to Taumata Arowai.
+(5) If the applicant does not provide the further information within the required time, Taumata Arowai may make a decision on the internal review on the basis of the information held by Taumata Arowai.
+(6) If the reviewable decision is not varied or set aside within the period specified in subsection (1)﻿(b), the decision is to be treated as having been confirmed by Taumata Arowai.
+
+### 91 Notice of decision on internal review
+As soon as practicable after making a decision in accordance with section 90, Taumata Arowai must give the applicant in writing—
+  (a) the decision on the internal review; and
+  (b) the reasons for the decision.
+
+### 92 Stay of reviewable decision on internal review
+(1) If an application is made for an internal review of a decision, Taumata Arowai may stay the operation of the decision.
+(2) Taumata Arowai may stay the operation of a decision—
+  (a) on Taumata Arowai's own initiative; or
+  (b) on the application of the applicant for review.
+(3) Taumata Arowai must make a decision on an application for a stay within 3 working days after Taumata Arowai receives the application.
+(4) If Taumata Arowai has not made a decision on an application under subsection (2)﻿(b) within the time set out in subsection (3), Taumata Arowai is to be treated as having made a decision to grant a stay.
+(5) A stay of the operation of a decision pending a decision on an internal review continues until the reviewer has made a decision on the review.
+
+**Appeals**
+
+### 93 Appeal
+(1) A person may appeal to the District Court against any of the following on the grounds that it is unreasonable:
+  (a) a decision or determination specified in section 64(5):
+  (b) Taumata Arowai’s decision under section 90 on an internal review:
+  (c) the whole or any part of a compliance order issued under section 120.
+(2) The appeal must be lodged within 20 working days after the day on which the decision or determination first came to the person's notice or the compliance order was served on the person.
+(3) On an appeal under subsection (1), the court must inquire into the decision, determination, or compliance order and may—
+  (a) confirm or vary the decision, determination, or compliance order; or
+  (b) set aside the decision or determination, or cancel the compliance order; or
+  (c) set aside the decision or determination and substitute another decision or determination that the court considers appropriate; or
+  (d) cancel the compliance order and substitute another compliance order that the court considers appropriate; or
+  (e) refer the decision, determination, or compliance order back to the decision maker with the court’s opinion, together with any directions as to how the matter should be dealt with.
+
+### 94 Interim order by District Court
+(1) At any time before the final determination of an appeal, the District Court may make an interim order.
+(2) An interim order may be subject to any conditions that the District Court thinks fit.
+(3) If the District Court makes an interim order, the Registrar of that court must send a copy of the order to Taumata Arowai.
+
+### 95 Appeal to High Court
+(1) A person may appeal to the High Court on a question of law only from a decision by the District Court that determines an appeal under section 64(5) or 93(1).
+(2) An appeal must be made by giving notice of appeal no later than 20 working days after the date on which notice of the decision was communicated to the appellant or any further time that the High Court may allow.
+(3) However, nothing in this section affects the right of any person to apply for judicial review.
+
+### 96 Appeals to Court of Appeal or Supreme Court
+(1) A party to an appeal under section 95 may appeal to the Court of Appeal or the Supreme Court against any determination of the High Court on a question of law arising in that appeal, with the leave of the court appealed to.
+(2) The Court of Appeal or the Supreme Court hearing an appeal under this section has the same power to adjudicate on the appeal as the High Court had.
+(3) Subsection (1) is subject to section 75 of the Senior Courts Act 2016 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
+
+### 97 Effect of appeal against compliance order
+An appeal under sections 93 to 96 against a compliance order has the following effects:
+  (a) the chief executive whose compliance order is appealed against must not revoke or amend the order while the order is the subject of an appeal or while the time for the person’s appeal rights is running; and
+  (b) an appeal against a compliance order does not operate as a stay of that order unless the court orders otherwise.
+
+## Part 3 — Enforcement and other matters
+
+### Subpart 1 — Provisions relating to appointment of compliance officers
+
+### 98 Appointment of compliance officers
+(1) Taumata Arowai may, by notice in writing, appoint any of the following as a compliance officer:
+  (a) an employee of Taumata Arowai:
+  (b) an employee of a department (within the meaning of the State Sector Act 1988):
+  (c) an employee of the State services (within the meaning of the State Sector Act 1988):
+  (d) any other person who Taumata Arowai is satisfied—
+    (i) is suitably qualified and trained:
+    (ii) belongs to a class of persons who are suitably qualified and trained to exercise any or all of the powers of, and carry out any or all of the duties of, a compliance officer.
+(2) A compliance officer’s compliance powers are subject to any conditions or limitations specified in the notice of the officer's appointment.
+(3) However, the exercise of a compliance power by a compliance officer is not invalid merely because it did not comply with the conditions specified in the notice of the officer’s appointment.
+
+### 99 Identity cards
+(1) Taumata Arowai must give each compliance officer an identity card that—
+  (a) states the person's name and appointment as a compliance officer; and
+  (b) includes any other matter prescribed by regulations made under section 200.
+(2) A compliance officer must, when exercising compliance powers under this Act, produce their identity card for inspection on request.
+(3) A person who ceases to be a compliance officer must as soon as practicable return the identity card to Taumata Arowai.
+
+### 100 Suspension and ending of appointment of compliance officers
+(1) Taumata Arowai may suspend or end the appointment of a compliance officer at any time.
+(2) To avoid doubt, a person's appointment as a compliance officer ends when the person ceases to be eligible for appointment as a compliance officer.
+
+### 101 Compliance officers subject to Taumata Arowai's directions
+(1) A compliance officer (whether or not an employee) is subject to directions from Taumata Arowai in the exercise of the officer's compliance powers.
+(2) A direction under subsection (1) may be of a general nature or may relate to a specified matter or specified class of matter.
+(3) A failure to comply with a direction under subsection (1) does not invalidate the exercise of a compliance officer's compliance power.
+
+### 102 Chief executive has powers of compliance officer
+The chief executive has all the powers that a compliance officer has under this Act.
+
+### Subpart 2 — Powers of compliance officers
+
+**Purpose**
+
+### 103 Purpose of powers in this subpart
+A compliance officer may exercise a power under this subpart only for 1 or more of the following purposes:
+  (a) to ensure that legislative requirements have been, are being, or will be complied with:
+  (b) to ensure that a drinking water supplier has been, is, or will be complying with a drinking water safety plan:
+  (c) to ensure that local authorities and others are complying with any undertakings made as part of a source water risk management plan:
+  (d) to respond to serious risks to public health relating to drinking water:
+  (e) to investigate anything that might have contaminated drinking water and poses a risk to human life or public health:
+  (f) to investigate the commission of offences under this Act:
+  (g) to bring proceedings in relation to any compliance orders, enforceable undertakings, or offences under this Act.
+
+**Directions**
+
+### 104 Directions
+(1) A compliance officer may issue a direction to a drinking water supplier, or to any person supplying drinking water under section 34, for the purposes in section 103(a) to (d).
+(2) A drinking water supplier or other person to whom a direction is issued must comply with the direction within any time frame (including immediately) specified in the direction (if any).
+(3) A direction may be amended or revoked at any time.
+(4) The amendment or revocation of a direction does not have retrospective effect.
+(5) A compliance officer must issue a direction under this section in accordance with the requirements in section 125.
+(6) To avoid doubt, a direction issued under this section may require the treatment of drinking water.
+
+**Dealing with serious risk to public health**
+
+### 105 Compliance officer powers where serious risk to public health exists
+(1) This section applies if a compliance officer believes, on reasonable grounds, that there is a serious risk to public health.
+(2) In this subpart, serious risk to public health means a serious risk relating to—
+  (a) the drinking water supplied to consumers; or
+  (b) the ongoing supply of a sufficient quantity of drinking water to consumers.
+(3) If this section applies, the compliance officer may—
+  (a) take immediate action, or direct any person to take immediate action, to prevent, reduce, or eliminate the serious risk to public health:
+  (b) direct any person to stop, or prohibit any person from starting, anything that Taumata Arowai believes, on reasonable grounds, is a cause of, or contributes to, the serious risk to public health:
+  (c) direct all persons within a specific area to use an alternative drinking water supply:
+  (d) direct a drinking water supplier to make arrangements to ensure that an alternative drinking water supply is available to affected persons (for example, by water carrier).
+(4) Every person who is directed by a compliance officer under subsection (3) must comply with that direction.
+(5) A compliance officer must issue a direction under this section in accordance with the requirements in section 125.
+(6) To avoid doubt, a direction issued under this section may require the treatment of drinking water.
+
+### 106 Requirements relating to exercise of section 105 powers
+(1) The exercise of any power referred to in section 105(3) that would otherwise involve the contravention of any of sections 9, 12, 13, 14, and 15 of the Resource Management Act 1991 is not a contravention of any of those sections if, before the exercise of the power, the compliance officer—
+  (a) consults the relevant consent authority and takes account of any views expressed by the authority about the way in which the power is to be exercised; and
+  (b) obtains the consent of Taumata Arowai to the exercise of the power.
+(2) A compliance officer must—
+  (a) take all practicable steps to consult affected drinking water suppliers before exercising a power referred to in section 105(3); and
+  (b) in every case, take all reasonable steps to comply with rules that relate to health and safety at any place, while the officer exercises any power referred to in section 105(3) in that case.
+(3) A direction imposed under section 105(3) ceases to have effect at the expiry of 72 hours after it is imposed unless, before the expiry of that period, Taumata Arowai—
+  (a) is satisfied that the direction ought to continue in effect; and
+  (b) has declared a drinking water emergency under section 59 in relation to the risk of harm that was the reason for imposing that direction.
+
+**Power to take samples**
+
+### 107 Power to take and test samples
+A compliance officer may, as they consider necessary,—
+  (a) take and test samples of, and conduct inquiries or inspections in relation to, all or any of the following:
+    (i) a source of a drinking water supply:
+    (ii) raw water:
+    (iii) drinking water; and
+  (b) direct any drinking water supplier to take a specified action referred to in paragraph (a) and to report to the officer with the results; and
+  (c) direct a drinking water supplier to test samples at any facility the officer considers necessary, such as an accredited laboratory.
+
+**Power to obtain information**
+
+### 108 Power to obtain information
+(1) A compliance officer may, for the purpose of performing or exercising their functions or powers,—
+  (a) inspect, at all reasonable times, all records and documents of every description in the possession or control of a drinking water supplier that are required to be kept under this Act; and
+  (b) make copies of, or take extracts from, those records and documents; and
+  (c) direct any person who has possession or control of those records and documents to supply to the compliance officer, in any reasonable manner that the officer specifies, all or any of those records or documents; and
+  (d) take photographs, video recordings, and other visual images; and
+  (e) take audio sound recordings; and
+  (f) make electronic records.
+(2) The compliance officer must, no later than 10 working days after directing a person to supply documents under this section, provide the person with an inventory of all documents taken.
+(3) Subpart 5 of Part 4 of the Search and Surveillance Act 2012 (privilege and confidentiality) applies to anything done under this section.
+(4) Nothing in this section limits any enactment that imposes a prohibition or restriction on the availability of any information.
+
+### 109 Power to require name and address
+(1) A compliance officer may require a person to provide the person's name and residential address if—
+  (a) the officer finds the person committing an offence against this Act; or
+  (b) the officer finds the person in circumstances that lead, or has information that leads, the officer to reasonably suspect the person has committed an offence against this Act.
+(2) When asking a person to provide their name and residential address, the compliance officer must—
+  (a) tell the person the reason for the requirement to provide their name and residential address; and
+  (b) warn the person that it is an offence to fail to provide their name and residential address, unless the person has a reasonable excuse.
+(3) If the compliance officer reasonably believes that the name and residential address a person provides are false, the compliance officer may require the person to give evidence of their correctness.
+(4) Subpart 5 of Part 4 of the Search and Surveillance Act 2012 (privilege and confidentiality) applies to anything done under this section.
+(5) Nothing in this section limits any enactment that imposes a prohibition or restriction on the availability of any information.
+
+### 110 Power to question drinking water supplier
+(1) A compliance officer may direct a drinking water supplier to answer any question for the purpose of—
+  (a) ensuring that the legislative requirements have been, are being, or will be complied with; or
+  (b) ensuring that a drinking water supplier has been, is, or will be complying with a drinking water safety plan; or
+  (c) investigating anything that might have, or might potentially have, contaminated drinking water and poses a risk to human life or public health.
+(2) The supplier must answer the questions, subject to subsections (3) and (4).
+(3) Subpart 5 of Part 4 of the Search and Surveillance Act 2012 (privilege and confidentiality) applies to anything done under this section.
+(4) Nothing in this section limits any enactment that imposes a prohibition or restriction on the availability of any information.
+
+### 111 Powers of entry and inspection
+(1) A compliance officer may exercise a power under subsection (2) for 1 or more of the purposes in section 103(a) to (e).
+(2) A compliance officer may, in respect of a place described in subsection (4),—
+  (a) enter the place; and
+  (b) inspect the place; and
+  (c) exercise the powers in section 107.
+(3) Before exercising the power to enter a place, the compliance officer must make reasonable efforts to contact the owner, occupier, or person in charge of the place.
+(4) The places are any area where infrastructure and processes are used to collect, treat, or transmit drinking water for supply to consumers, including—
+  (a) the point of supply:
+  (b) any end-point treatment device:
+  (c) any backflow prevention device.
+(5) A compliance officer must not enter a home or a marae under this section, except with the consent of an occupier.
+(6) A compliance officer must not enter a defence area (within the meaning of section 2(1) of the Defence Act 1990) under this section, except in accordance with a written agreement between Taumata Arowai and the Chief of Defence Force.
+
+### 112 Power to enter without search warrant
+(1) A compliance officer may exercise a power under subsection (2) if the officer believes, on reasonable grounds, that the exercise of the power is required in relation to a serious risk to public health.
+(2) A compliance officer may, in respect of a place described in subsection (4),—
+  (a) enter the place without a search warrant; and
+  (b) search the place; and
+  (c) exercise any of the powers in sections 104 to 110.
+(3) Before exercising the power to enter a place without a search warrant, the compliance officer must make reasonable efforts to contact the owner, occupier, or person in charge of the place.
+(4) The places are any area where infrastructure and processes are used to collect, treat, or transmit drinking water for supply to consumers, including—
+  (a) the point of supply:
+  (b) any end-point treatment device:
+  (c) any backflow prevention device.
+(5) Part 4 of the Search and Surveillance Act 2012 (other than subparts 2, 3, 6, and 8 and sections 118 and 119) applies to anything done under this section.
+(6) A compliance officer must not enter a home or a marae under this section, except with the consent of an occupier.
+(7) A compliance officer must not enter a defence area (within the meaning of section 2(1) of the Defence Act 1990) under this section, except in accordance with a written agreement between Taumata Arowai and the Chief of Defence Force.
+
+### 113 Notice of entry
+(1) If a compliance officer enters any place under this Act and is unable, despite reasonable efforts, to find any person in charge, the officer must, before leaving the place, leave a written notice stating—
+  (a) the officer’s identity; and
+  (b) the officer’s contact information; and
+  (c) the date and time of entry; and
+  (d) the officer’s reasons for entering.
+(2) In this section, contact information includes—
+  (a) the name of the officer; and
+  (b) 1 or more of the following:
+    (i) telephone number:
+    (ii) email address:
+    (iii) physical or postal address.
+
+### 114 Power of Taumata Arowai to authorise making of applications for search warrants
+(1) Taumata Arowai may authorise a specified person to enter and search a place, vehicle, or other thing for the purpose of ascertaining whether a person has engaged in or is engaging in conduct that contravenes or may contravene any legislative requirement or drinking water safety plan, if Taumata Arowai is satisfied that there are reasonable grounds—
+  (a) to suspect that person has engaged in or is engaging in conduct that constitutes or may constitute a contravention; and
+  (b) to believe that the search will find evidential material in or on any part of the place, vehicle, or thing.
+(2) A specified person authorised under subsection (1) may enter and search the place, vehicle, or other thing if—
+  (a) the occupier of the place, or the person in charge of the vehicle or thing, (as the case may be) consents; or
+  (b) the specified person obtains a warrant under subsection (3).
+(3) An issuing officer may issue a search warrant in relation to a place, vehicle, or thing on an application made in the manner provided by subpart 3 of Part 4 of the Search and Surveillance Act 2012 by a specified person authorised under subsection (1), if the issuing officer is satisfied that there are reasonable grounds—
+  (a) to suspect that a person has engaged in or is engaging in conduct that contravenes or may contravene any legislative requirement or drinking water safety plan; and
+  (b) to believe that the search will find evidential material in or on any part of the place, vehicle, or thing.
+(4) In this section, specified person means—
+  (a) a compliance officer; or
+  (b) an employee of Taumata Arowai; or
+  (c) any other person who Taumata Arowai is satisfied is suitably qualified and trained.
+(5) Despite subsection (4), a constable may apply for a warrant to be issued under subsection (3) without an authorisation from Taumata Arowai under subsection (1).
+(6) The provisions of subpart 2 of Part 3 and Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply, with any necessary modifications.
+
+### 115 Continuation of powers of entry and inspection without search warrants
+A compliance officer who, in the course of exercising a power under section 112, finds evidence of contravention of any relevant legislative requirement or drinking water safety plan is not required to obtain a search warrant under section 114 to continue exercising powers under section 112.
+
+### 116 Conditions of entry, search, and seizure
+(1) A compliance officer must take all reasonable steps to ensure that any equipment the officer has taken into a place is—
+  (a) free from contamination; and
+  (b) in good working order.
+(2) Section 110(e) of the Search and Surveillance Act 2012 applies.
+
+### 117 Building Act 2004
+(1) If a compliance officer, in the course of performing functions or exercising powers under this Act, believes that any building or sitework that relates to the supply of drinking water does not comply with the Building Act 2004 or the building code, the officer must notify the appropriate territorial authority in writing and include details of the officer’s opinion.
+(2) For the purposes of this section, building, building code, sitework, and territorial authority have the meanings given to them by section 7 of the Building Act 2004.
+
+### 118 Power to ask for assistance
+(1) A compliance officer who considers it necessary to do so may ask a person for assistance in performing the officer’s functions or duties, or exercising the officer’s powers (other than exercising a power of entry), under this Act.
+(2) If the person agrees to assist, they—
+  (a) must act under the supervision of, and as instructed by, the officer; and
+  (b) may accompany the officer into any place that the officer enters.
+
+### 119 Protection of persons acting under authority of Act
+(1) This section applies to the following persons:
+  (a) a compliance officer:
+  (b) the chief executive:
+  (c) a person called to assist a compliance officer:
+  (d) Taumata Arowai:
+  (e) an operator appointed under section 83(2):
+  (f) a specified person authorised under section 114(1).
+(2) The person is protected from civil and criminal liability, however it may arise, for any act that the person does or omits to do in the performance or purported performance of the person’s functions or duties, or the exercise or purported exercise of the person’s powers, under this Act—
+  (a) in good faith; and
+  (b) with reasonable cause.
+(3) See also section 6 of the Crown Proceedings Act 1950.
+
+### Subpart 3 — Compliance orders
+
+### 120 Power to issue compliance order
+(1) The chief executive may serve a compliance order on any person—
+  (a) requiring that person to stop, or prohibiting that person from starting, anything done or to be done by, or on behalf of, that person that the chief executive believes, on reasonable grounds,—
+    (i) contravenes, or is likely to contravene, any legislative requirement or drinking water safety plan (including any undertakings given by third parties to the plan); or
+    (ii) will or may create a serious risk to public health that relates to a drinking water supply; or
+  (b) requiring that person to do something that the chief executive believes, on reasonable grounds, will—
+    (i) ensure compliance by, or on behalf of, that person with the legislative requirements or drinking water safety plan (including any undertakings given by third parties to the plan); or
+    (ii) prevent, reduce, or eliminate any serious risk to public health that relates to a drinking water supply.
+(2) A compliance order may be made subject to directions and conditions (for example, directions to amend a drinking water safety plan).
+(3) To avoid doubt, a compliance order served under this section may require the treatment of drinking water.
+
+### 121 Compliance with compliance order
+(1) A person on whom a compliance order is served must—
+  (a) comply with the order within the period specified in it; and
+  (b) unless the order directs otherwise, pay all the costs and expenses of complying with it.
+(2) This section is subject to the rights of appeal in sections 93 to 96.
+
+### 122 Form and content of compliance order
+A compliance order must state—
+  (a) the name of the person to whom it relates; and
+  (b) the reasons for the order; and
+  (c) the action required to be taken, stopped, or not taken; and
+  (d) the period within which the action must be taken or stopped, being a reasonable period within which to take the action required or to stop the action.
+
+### 123 Chief executive may vary or cancel order
+Except as provided in section 97, a compliance order may be amended or revoked by the chief executive at any time.
+
+### 124 Formal irregularities or defects in order
+A compliance order is not invalid merely because of any defect, irregularity, omission, or want of form in the order unless the defect, irregularity, omission, or want of form causes or is likely to cause a miscarriage of justice.
+
+### 125 General provisions relating to directions and orders
+(1) A direction, prohibition, or requirement issued under section 62, 104, or 105 and a compliance order issued under section 120—
+  (a) must be in writing; and
+  (b) must contain contact information for Taumata Arowai and the compliance officer (if applicable); and
+  (c) must state that a person has a right of review under section 89 or a right of appeal under section 93; and
+  (d) may be addressed to any person under the person's legal name or usual business name or style.
+(2) In this section, contact information includes—
+  (a) the name of the chief executive, and the name of the compliance officer (if applicable); and
+  (b) 1 or more of the following:
+    (i) telephone number:
+    (ii) email address:
+    (iii) physical or postal address.
+
+### Subpart 4 — Remedial action
+
+### 126 When chief executive may carry out remedial action
+(1) This section applies if a person fails to comply with the whole or any part of a compliance order that is issued to the person.
+(2) The chief executive may take any remedial action the chief executive believes reasonable to address serious risks to public health after giving written notice to the person of—
+  (a) the chief executive's intention to take that action; and
+  (b) the person's liability for the costs of that action.
+
+### 127 Power of chief executive to take other remedial action
+(1) This section applies if the chief executive reasonably believes that—
+  (a) circumstances exist in which a compliance order can be issued; and
+  (b) a compliance order cannot be issued at a place because, after taking reasonable steps, the person to whom the order could be issued cannot be found.
+(2) The chief executive may take any remedial action necessary to address serious risks to public health.
+
+### 128 Costs of remedial or other action
+Taumata Arowai may recover as a debt due to Taumata Arowai the reasonable costs of any remedial action taken under—
+  (a) section 126 from the person to whom a compliance order is issued; or
+  (b) section 127 from any person to whom a compliance order could have been issued in relation to the matter.
+
+### 129 Civil proceedings relating to non-compliance with compliance order
+(1) On application by the chief executive, the District Court may make an order—
+  (a) compelling a person to comply with a compliance order; or
+  (b) restraining a person from contravening a compliance order.
+(2) The District Court may make an order—
+  (a) under subsection (1)﻿(a) if it is satisfied that the person has refused or failed to comply with a compliance order:
+  (b) under subsection (1)﻿(b) if it is satisfied that the person has contravened, is contravening, or is likely to contravene a compliance order.
+(3) The District Court may make an order under this section—
+  (a) whether or not proceedings have been brought for an offence against this Act in connection with any matter in relation to which the compliance order was issued; and
+  (b) whether or not the compliance period for the compliance order has expired.
+
+### Subpart 5 — Enforceable undertakings
+
+### 130 Chief executive may accept enforceable undertakings
+(1) The chief executive may accept an enforceable undertaking given by a person in writing in connection with a matter that relates to a contravention or an alleged contravention by the person of this Act, a legislative requirement, or a drinking water safety plan.
+(2) The chief executive must not accept an enforceable undertaking under subsection (1) if the chief executive believes that the contravention or alleged contravention would amount to an offence against section 171, 173, or 174.
+(3) The giving of an enforceable undertaking does not constitute an admission of guilt by the person giving it in relation to the contravention or alleged contravention to which the undertaking relates.
+
+### 131 Notice of decision and reasons for decision
+(1) The chief executive must give the person seeking to make an enforceable undertaking written notice of—
+  (a) the decision to accept or reject the undertaking; and
+  (b) the reasons for the decision.
+(2) Taumata Arowai must make available to the public, on an Internet site maintained by or on behalf of Taumata Arowai, notice of a decision to accept an enforceable undertaking and the reasons for that decision.
+(3) In the case of an enforceable undertaking given by a drinking water supplier, Taumata Arowai must take steps to bring the undertaking to the attention of the consumers and any drinking water supplier served by the supplier.
+
+### 132 When enforceable undertaking is enforceable
+An enforceable undertaking takes effect and becomes enforceable when the chief executive's decision to accept the undertaking is given to the person who made the undertaking, or at any later date specified by the chief executive.
+
+### 133 Contravention of enforceable undertaking
+(1) The chief executive may apply to the High Court for an order if a person contravenes an enforceable undertaking.
+(2) If the court is satisfied that the person who made the enforceable undertaking has contravened the undertaking, the court may make either or both of the following orders:
+  (a) an order directing the person to comply with the undertaking:
+  (b) a civil pecuniary penalty not exceeding $50,000 for an individual or $300,000 in any other case:
+  (c) an order discharging the undertaking.
+(3) In addition to the orders referred to in subsection (2), the court may make any other order that the court considers appropriate in the circumstances, including orders directing the person to pay to Taumata Arowai—
+  (a) the reasonable costs of the proceedings; and
+  (b) the reasonable costs of Taumata Arowai in monitoring compliance with the enforceable undertaking in the future.
+(4) This section does not prevent proceedings being brought for the contravention or alleged contravention of this Act or regulations made under this Act to which the enforceable undertaking relates.
+
+### 134 Withdrawal or variation of enforceable undertaking
+(1) A person who has given an enforceable undertaking may at any time, with the written agreement of the chief executive,—
+  (a) withdraw the undertaking; or
+  (b) vary the undertaking.
+(2) However, the provisions of the undertaking cannot be varied to provide for a different alleged contravention of this Act or regulations made under this Act.
+(3) Taumata Arowai must make available to the public, on an Internet site maintained by or on behalf of Taumata Arowai, notice of the withdrawal or variation of an enforceable undertaking.
+(4) In the case of an enforceable undertaking given by a drinking water supplier, Taumata Arowai must take steps to bring the withdrawal or variation of the undertaking to the attention of the community served by the supplier.
+
+### 135 Proceedings for alleged contravention
+(1) No proceedings (whether civil or criminal) for a contravention or an alleged contravention of this Act or regulations made under this Act may be brought against—
+  (a) a person who made an undertaking in relation to that contravention, while the undertaking is enforceable and there is no contravention of the undertaking:
+  (b) a person who made, and has completely discharged, an enforceable undertaking in relation to that contravention.
+(2) The chief executive may accept an enforceable undertaking in relation to a contravention or an alleged contravention before proceedings in relation to that contravention have been completed.
+(3) If the chief executive accepts an enforceable undertaking before the proceedings are completed, the chief executive must take all reasonable steps to have the proceedings discontinued as soon as practicable.
+
+### Subpart 6 — Planning and reporting requirements of Taumata Arowai
+
+### 136 Drinking water compliance, monitoring, and enforcement strategy
+(1) The board of Taumata Arowai must prepare a drinking water compliance, monitoring, and enforcement strategy.
+(2) The board must review the strategy at least every 3 years.
+(3) The board may amend the strategy at any time.
+(4) The board may delegate to the chief executive the functions of preparing and amending the strategy.
+(5) The purpose of the strategy is to—
+  (a) provide transparency about Taumata Arowai’s intended approach to achieving compliance with drinking water regulatory requirements over a 3-year period, and the outcomes sought from that approach; and
+  (b) provide the basis on which Taumata Arowai is accountable for the performance of its regulatory functions and the use of its regulatory powers.
+(6) The strategy must include Taumata Arowai’s intended approach to—
+  (a) performing the functions in section 32(1); and
+  (b) achieving and enforcing compliance with drinking water legislation and standards, including how Taumata Arowai intends to—
+    (i) support drinking water suppliers of different types, sizes, and abilities to build and maintain capability to comply with their regulatory responsibilities; and
+    (ii) target its activities and prioritise its resources to focus on the suppliers, supplies, or practices that pose the greatest risk to drinking water safety; and
+    (iii) perform its regulatory functions and apply its regulatory powers; and
+  (c) exemptions issued under sections 57 and 58.
+(7) The chief executive must have regard to the strategy when performing the chief executive’s functions.
+(8) Taumata Arowai must ensure that the strategy is published in accordance with section 205.
+
+### 137 Taumata Arowai to publish annual drinking water regulation report
+(1) Taumata Arowai must ensure that, before 1 July in each year, it prepares a report on—
+  (a) the extent to which persons (such as drinking water suppliers and local authorities) are complying with this Act and other enactments that relate to drinking water; and
+  (b) the safety of drinking water supplied by drinking water suppliers; and
+  (c) compliance rates of drinking water suppliers with the drinking water standards; and
+  (d) the extent to which the risks and hazards to source water are being identified, managed, and monitored; and
+  (e) capability among drinking water suppliers and across the wider water services sector; and
+  (f) the performance of Taumata Arowai’s functions, including Taumata Arowai’s performance in achieving the objectives and targets of the compliance, monitoring, and enforcement strategy; and
+  (g) the extent to which this Act is meeting its main purpose.
+(2) Taumata Arowai must provide a copy of the report to the Minister and the report must be presented to the House of Representatives.
+(3) Taumata Arowai must ensure that the report is published in accordance with section 205.
+
+### Subpart 7 — Provisions relating to wastewater networks
+
+### 138 Wastewater environmental performance standards
+(1) Taumata Arowai may, following consultation undertaken in accordance with section 53 with wastewater network operators, regional councils, and any other person it considers appropriate, make wastewater environmental performance standards, including standards that relate to—
+  (a) discharges to air, water, or land:
+  (b) biosolids and any other byproducts from wastewater:
+  (c) energy use:
+  (d) waste that is introduced by a third party into a wastewater network (for example, trade waste).
+(2) Wastewater environmental performance standards may include (but are not limited to) requirements, limits, conditions, or prohibitions.
+(3) Wastewater environmental performance standards—
+  (a) may apply—
+    (i) to all wastewater networks and their operators; or
+    (ii) to classes of wastewater network and their operators; but
+  (b) must not apply to an individual wastewater network or wastewater network operator.
+(4) Wastewater environmental performance standards made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 139 Wastewater network risk management plans
+(1) A wastewater network operator must prepare and implement a risk management plan for the operator’s wastewater network.
+(2) A wastewater network risk management plan must—
+  (a) identify any hazards that relate to the wastewater network; and
+  (b) assess any risks that are associated with those hazards; and
+  (c) identify how those risks will be managed, controlled, monitored, or eliminated; and
+  (d) include any wastewater environmental performance measures, standards, or targets made by Taumata Arowai and how the measures, standards, or targets will be met.
+(3) The wastewater network operator must—
+  (a) provide a draft risk management plan to Taumata Arowai within a time frame notified in the Gazette by Taumata Arowai; and
+  (b) develop a final risk management plan that gives effect to any comments made by Taumata Arowai on the draft plan; and
+  (c) provide a final risk management plan to Taumata Arowai within a time frame notified in the Gazette by Taumata Arowai.
+(4) The wastewater network operator must—
+  (a) review its final risk management plan every 5 years; and
+  (b) provide the updated plan to Taumata Arowai as soon as practicable following the review.
+
+### Subpart 8 — Monitoring and reporting on environmental performance of networks
+
+### 140 Interpretation
+In this subpart and in section 205,—
+  - **drinking water network** means a drinking water supply that is operated by, or whose operation or aspects of whose operation is supervised by, one of the following:
+    (a) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
+    (b) a department:
+    (c) the New Zealand Defence Force
+  - **drinking water network operator** means—
+    (a) each of the following, to the extent that they operate a drinking water network or supervise its operation or aspects of its operation:
+      (i) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
+      (ii) a department:
+      (iii) the New Zealand Defence Force; and
+    (b) any person who operates a drinking water network, or any aspect of a drinking water network, for, or on behalf of, an organisation specified in paragraph (a)
+  - **network operators** means drinking water network operators, stormwater network operators, and wastewater network operators
+  - **networks** means drinking water networks, stormwater networks, and wastewater networks.
+
+### 141 Monitoring and reporting on environmental performance of networks
+Taumata Arowai must monitor and report in accordance with this subpart on the environmental performance of networks and network operators for the purposes of—
+  (a) providing transparency about—
+    (i) the environmental performance of networks and network operators; and
+    (ii) the extent to which networks are complying with applicable standards, conditions, or requirements (whether under legislation or as part of a resource consent); and
+    (iii) the extent to which network operators are avoiding, remedying, or mitigating any adverse effects on the environment arising from the operation of networks; and
+  (b) enabling comparisons to be made between the performance of different drinking water networks and drinking water network operators; and
+  (c) enabling comparisons to be made between the performance of different wastewater networks and wastewater network operators; and
+  (d) enabling comparisons to be made between the performance of different stormwater networks and stormwater network operators; and
+  (e) enabling the identification of, and development of advice and guidance on,—
+    (i) best practices that relate to the design, management, and operation of networks; and
+    (ii) risks and issues that relate to performance and practice.
+
+### 142 Collection of information for monitoring and reporting on environmental performance
+(1) Taumata Arowai may collect, or require a person to provide, the information it considers necessary to achieve the purposes specified in section 141.
+(2) Any person required to provide information under subsection (1) must provide the information to Taumata Arowai in accordance with any regulations made under section 200.
+
+### 143 Civil proceedings relating to non-compliance with section 142 or 146
+(1) Taumata Arowai may apply to the High Court for an order if a person does not comply with section 142(2) or 146(2).
+(2) If the court is satisfied that the person has not complied with section 142(2) or 146(2), the court may make either or both of the following:
+  (a) an order directing the person to comply with section 142(2) or 146(2):
+  (b) an order imposing a civil pecuniary penalty not exceeding $50,000.
+(3) In addition to the orders referred to in subsection (2), the court may make any other order that the court considers appropriate in the circumstances, including an order directing the person to pay to Taumata Arowai the reasonable costs of the proceedings.
+
+### 144 Network registers
+(1) Taumata Arowai must establish and maintain—
+  (a) a register of wastewater networks; and
+  (b) a register of stormwater networks.
+(2) Taumata Arowai may maintain the registers in any form, including in different parts for different classes of network or network operators, or according to different geographical areas.
+(3) Taumata Arowai may include any information on the registers about wastewater and stormwater networks that it considers necessary to achieve the purposes specified in section 141.
+(4) Taumata Arowai must make the registers publicly available on an Internet site maintained by or on behalf of Taumata Arowai.
+
+### 145 Environmental performance measures and targets for networks
+(1) Taumata Arowai may develop, publish, and maintain—
+  (a) environmental performance measures for networks; and
+  (b) environmental performance targets for networks.
+(2) Environmental performance measures and targets for wastewater networks may include measures and targets that relate to—
+  (a) discharges to air, water, or land:
+  (b) biosolids and any other byproducts from wastewater:
+  (c) energy use:
+  (d) waste that is introduced by a third party into a wastewater network (for example, trade waste).
+(3) Environmental performance measures and targets—
+  (a) may apply—
+    (i) to all networks and their operators; or
+    (ii) to classes of network and their operators; but
+  (b) must not apply to an individual network or network operator.
+(4) When developing or amending an environmental performance measure or target, Taumata Arowai must consult network operators, regional councils, and any other person it considers appropriate in accordance with section 53(2) and (3).
+
+### 146 Record-keeping requirements for monitoring and reporting purposes
+(1) Taumata Arowai may, by notice, require network operators to keep and maintain records relating to compliance with applicable—
+  (a) environmental performance measures; and
+  (b) environmental performance targets; and
+  (c) for wastewater network operators, wastewater environmental performance standards and the requirements of wastewater network risk management plans.
+(2) Network operators must—
+  (a) keep and maintain the records required by the notice; and
+  (b) make the records available to Taumata Arowai in any format specified in the notice.
+(3) A notice made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 147 Annual reporting on networks
+(1) Taumata Arowai must, on an annual basis, publish a report on—
+  (a) the environmental performance of networks and network operators, including their performance against environmental performance measures and targets; and
+  (b) the extent to which networks are complying with applicable standards, conditions, or requirements (whether under legislation or as part of a resource consent); and
+  (c) the extent to which network operators are avoiding, remedying, or mitigating any adverse effects on the environment arising from the operation of networks; and
+  (d) best practices for networks, including—
+    (i) examples of best practices; and
+    (ii) specific risks or concerns that relate to individual performance and practices or system-wide performance and practices, or both; and
+  (e) recommendations for any actions that might be taken to address matters raised in the report.
+(2) Taumata Arowai is not required to include in the report required by subsection (1) information that is required to be provided in the annual drinking water regulation report under section 137.
+
+### 148 Further provisions relating to reporting
+(1) To avoid doubt, the reporting requirements in sections 137 and 141 are in addition to the obligation to prepare, present, and publish an annual report under section 150 of the Crown Entities Act 2004.
+(2) Taumata Arowai must give effect to the reporting duties in sections 141 and 147 in a report that is—
+  (a) separate from Taumata Arowai’s annual report; and
+  (b) published in accordance with section 205.
+
+### Subpart 9 — Infringement offences
+
+### 149 Interpretation
+In this subpart,—
+  - **infringement fee** , in relation to an infringement offence, means the infringement fee for the offence specified in regulations made under section 200
+  - **infringement offence** means one of the following that is declared by regulations made under section 200 to be an infringement offence for the purposes of this Act:
+    (a) an offence against a provision in subpart 11 of this Part, other than an offence against section 171, 173, or 174:
+    (b) an offence against regulations made under this Act.
+
+### 150 Infringement offences
+(1) A person who is alleged to have committed an infringement offence may—
+  (a) be proceeded against by the filing of a charging document under section 14 of the Criminal Procedure Act 2011; or
+  (b) be issued with an infringement notice under section 151.
+(2) Proceedings commenced in the way described in subsection (1)﻿(a) do not require the leave of a District Court Judge or Registrar under section 21(1)﻿(a) of the Summary Proceedings Act 1957.
+(3) See section 21 of the Summary Proceedings Act 1957 for the procedure that applies if an infringement notice is issued.
+
+### 151 When infringement notice may be issued
+The chief executive or a compliance officer may issue an infringement notice to a person if the chief executive or compliance officer believes on reasonable grounds that the person is committing, or has committed, an infringement offence.
+
+### 152 How infringement notice may be served
+(1) The chief executive or a compliance officer may serve an infringement notice on the person alleged to have committed an infringement offence by—
+  (a) delivering it to the person or, if the person refuses to accept it, bringing it to the person’s notice; or
+  (b) leaving it for the person at the person’s last known place of residence with another person who appears to be of or over the age of 14 years; or
+  (c) leaving it for the person at the person’s place of business or work with another person; or
+  (d) sending it to the person by prepaid post addressed to the person's last known place of residence or place of business or work; or
+  (e) sending it to an electronic address of the person in any case where the person does not have a known place of residence or business in New Zealand.
+(2) Unless the contrary is shown,—
+  (a) an infringement notice (or a copy of it) sent by prepaid post to a person under subsection (1)﻿(d) is to be treated as having been served on that person on the fifth working day after the date on which it was posted; and
+  (b) an infringement notice sent to a valid electronic address under subsection (1)﻿(e) is to be treated as having been served at the time the electronic communication first entered an information system that is outside the control of the chief executive or the compliance officer.
+(3) In this section, information system means a system for producing, sending, receiving, storing, displaying, or otherwise processing electronic communications.
+
+### 153 What infringement notice must contain
+(1) An infringement notice must be in the form prescribed in the regulations and must contain the following particulars:
+  (a) details of the alleged infringement offence that fairly inform a person of the time, place, and nature of the alleged offence:
+  (b) the amount of the infringement fee:
+  (c) the address of the place at which the infringement fee may be paid:
+  (d) how the infringement fee may be paid:
+  (e) the time within which the infringement fee must be paid:
+  (f) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957:
+  (g) a statement that the person served with the notice has a right to request a hearing:
+  (h) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing:
+  (i) any other particulars prescribed in the regulations.
+(2) If an infringement notice has been issued under this section, the procedure under section 21 of the Summary Proceedings Act 1957 may be used in respect of the offence to which the infringement notice relates and, in that case, the provisions of that section apply with all necessary modifications.
+
+### 154 Revocation of infringement notice before payment is made
+(1) The chief executive or a compliance officer may revoke an infringement notice issued under section 151 before—
+  (a) the infringement fee is paid; or
+  (b) an order for payment of a fine is made or deemed to be made by a court under section 21 of the Summary Proceedings Act 1957.
+(2) The chief executive or compliance officer must take reasonable steps to ensure that the person to whom the notice was issued is made aware of the revocation of the notice.
+(3) The revocation of an infringement notice before the infringement fee is paid is not a bar to any further action as described in section 150(1)﻿(a) or (b) against the person to whom the notice was issued in respect of the same matter.
+
+### 155 Payment of infringement fees
+All infringement fees paid for infringement offences must be paid into a Crown Bank Account.
+
+### 156 Reminder notices
+A reminder notice must be in the form prescribed in the regulations and must include the same particulars, or substantially the same particulars, as the infringement notice.
+
+### Subpart 10 — Criminal proceedings
+
+### 157 Meaning of enforcement action
+In this subpart, unless the context otherwise requires, enforcement action means,—
+  (a) the filing of a charging document by the chief executive under section 14 of the Criminal Procedure Act 2011, or the issuing of an infringement notice by the chief executive or a compliance officer in respect of an offence under this Act; and
+  (b) the filing of a charging document by a person other than the chief executive under section 14 of the Criminal Procedure Act 2011 in respect of an offence under this Act.
+
+### 158 Person may notify chief executive of interest in knowing of enforcement action
+(1) A person may notify the chief executive in the manner determined by the chief executive that the person has an interest in knowing whether a particular incident, situation, or set of circumstances has been, is, or is to be subject to the taking of enforcement action by the chief executive or a compliance officer.
+(2) If the chief executive receives a notification under subsection (1), the chief executive must notify the person in writing—
+  (a) whether any enforcement action in respect of the incident, situation, or set of circumstances has been taken; and
+  (b) if enforcement action has not been taken, whether the chief executive or compliance officer intends to take enforcement action in respect of the incident, situation, or set of circumstances.
+
+### 159 Prosecutions by chief executive
+Subject to section 160, a prosecution for an offence under this Act may be brought only by the chief executive.
+
+### 160 Private prosecutions
+(1) A person other than the chief executive may file a charging document in respect of an offence under this Act if—
+  (a) the chief executive or a compliance officer has not taken, and does not intend to take, enforcement action against any person in respect of the same incident, situation, or set of circumstances; and
+  (b) the person has received notification from Taumata Arowai under section 158(2) that the chief executive or compliance officer—
+    (i) has not taken enforcement action or prosecution action against any person in respect of the same incident, situation, or set of circumstances; and
+    (ii) does not intend to take any enforcement action.
+(2) For the purposes of subsection (1), if enforcement action or prosecution action cannot be taken against any person in respect of the same incident, situation, or set of circumstances because the person is dead, the chief executive or compliance officer must be treated as intending to take enforcement action or prosecution action.
+
+### 161 Continuing or repeated matters
+Nothing in this Act prevents the chief executive or another person from taking enforcement action in respect of an incident, situation, or set of circumstances, despite enforcement action having been taken in respect of that incident, situation, or set of circumstances, if the incident, situation, or set of circumstances is continuing or repeated.
+
+**Limitation periods for prosecutions**
+
+### 162 Limitation period for prosecutions brought by chief executive
+(1) Despite section 25 of the Criminal Procedure Act 2011, proceedings for an offence under this Act may be brought by the chief executive within the latest of the following periods to occur:
+  (a) within 12 months after the date on which the incident, situation, or set of circumstances to which the offence relates first became known, or ought reasonably to have become known, to the chief executive:
+  (b) within 6 months after the date on which a coroner completes and signs a certificate of findings under section 94 of the Coroners Act 2006 if it appears from the certificate of findings (or the proceedings of an inquiry) that an offence has been committed under this Act:
+  (c) if an enforceable undertaking has been given in relation to the offence, within 6 months after—
+    (i) the enforceable undertaking is contravened; or
+    (ii) it comes to the notice of the chief executive that the enforceable undertaking has been contravened; or
+    (iii) the chief executive has agreed under section 134(1) to the withdrawal of the enforceable undertaking.
+(2) Subsection (1) is subject to section 163.
+
+### 163 Extension of time if chief executive needs longer to decide whether to bring prosecution
+(1) This section applies if the chief executive considers that they will not be able to file a charging document by the end of the period specified in section 162(1)﻿(a), (b), or (c).
+(2) The District Court may, on application by the chief executive made before the end of the relevant period specified in section 162(1)﻿(a), (b), or (c), extend the time available for filing a charging document for a further period not exceeding 12 months from the date of expiry of that relevant specified period.
+(3) The court must not grant an extension under subsection (2) unless it is satisfied that—
+  (a) the chief executive reasonably requires longer than the relevant specified period to decide whether to file a charging document; and
+  (b) the reason for requiring the longer period is that the investigation of the events and issues surrounding the alleged offence is complex or time-consuming; and
+  (c) it is in the public interest in the circumstances that a charging document is able to be filed after the relevant specified period expires; and
+  (d) filing the charging document after the relevant specified period expires will not unfairly prejudice the proposed defendant in defending the charge.
+(4) The court must give the following persons an opportunity to be heard:
+  (a) the chief executive:
+  (b) the proposed defendant:
+  (c) any other person who has an interest in whether a charging document should be filed, being a person described in section 158(1).
+
+### 164 Certain proceedings may be brought after end of limitation period if fresh evidence discovered
+Despite anything in section 162 or 163, the proceedings for an offence against subpart 11 may be brought after the end of the applicable limitation period if fresh evidence relevant to the offence is discovered and the court is satisfied that the evidence could not reasonably have been discovered within that period.
+
+**Defence for strict liability offences**
+
+### 165 Defence in prosecution for strict liability offence
+(1) This section applies in a prosecution for an offence against any section listed in the following table:The following table is small in size and has 2 columns. Column 1 is headed Section. Column 2 is headed Description.SectionDescription172Negligence in supply of unsafe drinking water173Offence involving contamination of raw water or drinking water175Negligence in failure to take immediate action when drinking water unsafe176Failure to notify Taumata Arowai of notifiable risk or hazard177Failure to provide sufficient quantity of drinking water178Supplying drinking water from unregistered supply179Providing false or misleading information180Failure to notify changes in details on register181Failure to comply with requirements relating to drinking water safety plan182Failure to comply with condition, direction, prohibition, or requirement183Failure to comply with compliance order or court order184Failure to keep and maintain records185Failure to comply with emergency directions 186Breach of requirements relating to authorisations187Offences relating to planned events or unplanned supply of drinking water188Failure to advise consumers about, provide, and report on complaint process192Failure to comply with duty of due diligence
+(2) The defendant has a defence if the defendant proves that—
+  (a) the commission of the offence was due to—
+    (i) the act or omission of another person; or
+    (ii) an accident; or
+    (iii) some other cause outside the defendant’s control; and
+  (b) the defendant took all reasonable precautions and exercised due diligence, as defined in section 29, to avoid the commission of the offence or offences of the same kind.
+(3) For the purposes of this section, the court may take into account all relevant matters, including—
+  (a) the likelihood of the hazard or risk concerned, including the risk to public health, occurring; and
+  (b) the degree of harm that might result from the hazard or risk; and
+  (c) what the person concerned knows, or ought reasonably to know, about—
+    (i) the hazard or risk; and
+    (ii) ways of eliminating or minimising the risk; and
+  (d) the availability and suitability of ways to eliminate or minimise the risk.
+
+**Liability of certain persons**
+
+### 166 Liability of body corporate or unincorporated body
+(1) This section applies when—
+  (a) a body corporate or an unincorporated body is charged with an offence against this Act; and
+  (b) for the purpose of the prosecution, it is necessary to establish the body corporate’s or unincorporated body’s state of mind.
+(2) It is sufficient to show that an officer, employee, or agent of the body corporate or unincorporated body, acting within the scope of their actual or apparent authority, had the state of mind.
+
+### 167 Liability of body corporate, unincorporated body, principal, or individual
+(1) This section applies when—
+  (a) a body corporate or an unincorporated body is charged with an offence against this Act for an action or omission of an officer, employee, or agent:
+  (b) a principal is charged with an offence against this Act for an action or omission of an agent:
+  (c) an individual is charged with an offence against this Act for an action or omission of an employee or agent.
+(2) The action or omission is treated as also the action or omission of the body corporate, unincorporated body, principal, or individual.
+
+### 168 Liability of officers, employees, and agents of drinking water supplier
+(1) This section applies when a drinking water supplier that is a body corporate or an unincorporated body commits an offence against this Act.
+(2) An officer, employee, or agent of the drinking water supplier does not commit an offence against this Act, except where the officer, employee, or agent commits an offence against section 186, 190, 191, or 192.
+
+### 169 Liability of volunteers
+(1) Subsection (2) applies in a prosecution for an offence against any section listed in the following table:The following table is small in size and has 2 columns. Column 1 is headed Section. Column 2 is headed DescriptionSectionDescription172Negligence in supply of unsafe drinking water 175Negligence in failure to take immediate action when drinking water unsafe177Failure to provide sufficient quantity of drinking water188Failure to advise consumers about, provide, and report on complaint process192Failure to comply with duty of due diligence
+(2) A volunteer acting in that capacity may not be charged with an offence to which this subsection applies.
+(3) In this section, volunteer means a person who is acting on a voluntary basis (whether or not the person receives out-of-pocket expenses).
+
+### 170 Liability of elected officials
+(1) The following office holders, acting in that capacity, may not be charged with an offence against any section of this Act:
+  (a) a member of a local authority, local board, or community board elected or appointed under the Local Electoral Act 2001:
+  (b) a trustee of a board of a school appointed or elected under the Education Act 1989.
+(2) In this section,—
+  - **board** and , in relation to a school, have the same meanings as in section 92(1) of the Education Act 1989
+  - **community board** means a board established under section 49(1) of the Local Government Act 2002
+  - **local authority** and have the same meanings as in section 5(1) of the Local Government Act 2002.
+
+### Subpart 11 — Offences
+
+**Offences relating to supply of unsafe drinking water**
+
+### 171 Offence involving recklessness in supply of unsafe drinking water
+(1) A drinking water supplier commits an offence against this section if the supplier—
+  (a) has a duty under—
+    (i) section 21 to supply drinking water that is safe; or
+    (ii) section 22 to supply drinking water that complies with the drinking water standards; and
+  (b) without reasonable excuse, engages in conduct that exposes any individual to whom the supplier has a duty under paragraph (a) to a serious risk of death, injury, or illness; and
+  (c) is reckless as to the serious risk to an individual of death, injury, or illness.
+(2) A supplier who commits an offence against subsection (1) is liable on conviction,—
+  (a) for an individual, to a term of imprisonment not exceeding 5 years or a fine not exceeding $600,000, or both:
+  (b) for a body corporate or an unincorporated body, to a fine not exceeding $3 million.
+
+### 172 Offence involving negligence in supply of unsafe drinking water
+(1) A drinking water supplier commits an offence against this section if—
+  (a) the supplier has a duty under—
+    (i) section 21 to supply drinking water that is safe; or
+    (ii) section 22 to supply drinking water that complies with the drinking water standards; and
+  (b) the supplier fails to comply with that duty; and
+  (c) that failure exposes any individual to a serious risk of death, injury, or illness.
+(2) A supplier who commits an offence against subsection (1) is liable on conviction,—
+  (a) for an individual, to a fine not exceeding $300,000:
+  (b) for a body corporate or an unincorporated body, to a fine not exceeding $1.5 million.
+
+### 173 Offence involving contamination of raw water or drinking water
+(1) A person commits an offence against this section if the person does any act likely to contaminate any raw water or drinking water, knowing that the act is likely to contaminate that water, or being reckless as to the consequences of that act.
+(2) A person who commits an offence under subsection (1) is liable on conviction to imprisonment for a term not exceeding 5 years, or to a fine not exceeding $600,000, or both.
+
+**Offences relating to failure to take immediate action to protect public health when drinking water unsafe**
+
+### 174 Offence involving recklessness in failure to take immediate action when drinking water unsafe
+(1) A drinking water supplier commits an offence against this section if the supplier—
+  (a) has a duty under section 21(2)﻿(a), 22(2)﻿(a), or 35(2)﻿(a) to take immediate action to ensure that public health is protected; and
+  (b) without reasonable excuse, engages in conduct that exposes any individual to whom the supplier has a duty under paragraph (a) to a serious risk of death, injury, or illness; and
+  (c) is reckless as to the serious risk to an individual of death, injury, or illness.
+(2) A supplier who commits an offence against subsection (1) is liable on conviction,—
+  (a) for an individual, to a term of imprisonment not exceeding 5 years or a fine not exceeding $600,000, or both:
+  (b) for a body corporate or an unincorporated body, to a fine not exceeding $3 million.
+
+### 175 Offence involving negligence in failure to take immediate action when drinking water unsafe
+(1) A drinking water supplier commits an offence against this section if—
+  (a) the supplier has a duty under section 21(2)﻿(a), 22(2)﻿(a), or 35(2)﻿(a) to take immediate action to ensure that public health is protected; and
+  (b) the supplier fails to comply with that duty; and
+  (c) that failure exposes any individual to a serious risk of death, injury, or illness.
+(2) A supplier who commits an offence against subsection (1) is liable on conviction,—
+  (a) for an individual, to a fine not exceeding $300,000:
+  (b) for a body corporate or an unincorporated body, to a fine not exceeding $1.5 million.
+
+**Offence relating to duty to notify notifiable risk or hazard**
+
+### 176 Offence involving failure to notify Taumata Arowai of notifiable risk or hazard
+(1) A drinking water supplier commits an offence against this section if the supplier—
+  (a) has a duty under section 35(2)﻿(b) to notify Taumata Arowai of a notifiable risk or hazard; and
+  (b) fails to comply with that duty.
+(2) A supplier who commits an offence against subsection (1) is liable on conviction,—
+  (a) for an individual, to a fine not exceeding $50,000:
+  (b) for a body corporate or an unincorporated body, to a fine not exceeding $200,000.
+
+**Offence relating to duty to provide sufficient quantity of drinking water**
+
+### 177 Offence involving failure to provide sufficient quantity of drinking water
+(1) A drinking water supplier commits an offence against this section if the supplier—
+  (a) has a duty under section 25 to provide a sufficient quantity of drinking water; and
+  (b) fails to comply with that duty.
+(2) A supplier who commits an offence against subsection (1) is liable on conviction,—
+  (a) for an individual, to a fine not exceeding $50,000; and
+  (b) for a body corporate or an unincorporated body, to a fine not exceeding $200,000.
+
+**Offences relating to duty to register drinking water supply**
+
+### 178 Offence involving supply of drinking water from unregistered supply
+(1) A person commits an offence against this section if the person—
+  (a) has a duty under section 23(2) to register a drinking water supply; and
+  (b) supplies drinking water from a drinking water supply that is not registered under that section.
+(2) A person who commits an offence against subsection (1) is liable on conviction,—
+  (a) for an individual, to a fine not exceeding $50,000; and
+  (b) for a body corporate or an unincorporated body, to a fine not exceeding $200,000.
+
+### 179 Offence involving provision of false or misleading information
+(1) A drinking water supplier commits an offence against this section if the supplier—
+  (a) provides information in an application to register, or renew the registration of, a drinking water supply knowing that the information is false or misleading, or omits from the application any information that the person ought reasonably to have known and included in the application; or
+  (b) provides information in a drinking water safety plan knowing that the information is false or misleading, or omits from the plan any information that the person ought reasonably to have known and included in the plan; or
+  (c) makes any false or misleading statement or any material omission in any information, document, record, communication, or return for any purpose of this Act; or
+  (d) destroys, cancels, conceals, alters, obliterates, or fails to provide any information, document, record, communication, or return that is required to be kept or communicated for any purpose of this Act; or
+  (e) falsifies, removes, suppresses, or tampers with any samples, test procedures, test results, or evidence that is required for any purpose of this Act, including as part of the operation of a drinking water supply.
+(2) A supplier who commits an offence against subsection (1) is liable on conviction,—
+  (a) for an individual, to a fine not exceeding $50,000:
+  (b) for a body corporate or an unincorporated body, to a fine not exceeding $250,000.
+
+### 180 Offence involving failure to notify changes in details on register
+(1) A drinking water supplier commits an offence against this section if the supplier—
+  (a) has a duty under section 56(3) to notify Taumata Arowai of any change of any particulars that are recorded in the register in respect of the person’s drinking water supply; and
+  (b) fails to comply with that duty.
+(2) A supplier who commits an offence against subsection (1) is liable on conviction,—
+  (a) for an individual, to a fine not exceeding $50,000:
+  (b) for a body corporate or an unincorporated body, to a fine not exceeding $250,000.
+
+**Offence relating to drinking water safety plans**
+
+### 181 Offence involving drinking water safety plan
+(1) A drinking water supplier commits an offence against this section if the supplier—
+  (a) has a duty under—
+    (i) section 30; or
+    (ii) section 58, including the duty to comply with any condition to an exemption; and
+  (b) fails to comply with that condition or duty.
+(2) A supplier who commits an offence against subsection (1) is liable on conviction,—
+  (a) for an individual, to a fine not exceeding $50,000; and
+  (b) for a body corporate or an unincorporated body, to a fine not exceeding $200,000.
+
+**Offences relating to exemptions, directions, and compliance orders**
+
+### 182 Offence involving failure to comply with condition or direction
+(1) A drinking water supplier commits an offence against this section if the supplier fails to comply with—
+  (a) a condition that applies to an exemption under section 57; or
+  (b) a direction issued by a compliance officer under section 104.
+(2) A supplier who commits an offence against subsection (1) is liable on conviction,—
+  (a) for an individual, to a fine not exceeding $25,000; and
+  (b) for a body corporate or an unincorporated body, to a fine not exceeding $100,000.
+
+### 183 Offence involving failure to comply with compliance order or court order
+(1) A person commits an offence against this section if the person fails to comply with the terms of a compliance order issued under section 120 or an order of the court made under this Act.
+(2) A person who commits an offence against subsection (1) is liable on conviction,—
+  (a) for an individual, to a fine not exceeding $75,000:
+  (b) for a body corporate or an unincorporated body, to a fine not exceeding $300,000.
+
+**Offence involving failure to keep and maintain records**
+
+### 184 Offence involving failure to keep and maintain records
+(1) A drinking water supplier commits an offence against this section if the supplier fails to keep and maintain records in accordance with section 37 or the requirements of compliance rules.
+(2) A supplier who commits an offence against subsection (1) is liable on conviction,—
+  (a) for an individual, to a fine not exceeding $50,000:
+  (b) for a body corporate or an unincorporated body, to a fine not exceeding $200,000.
+
+**Offence involving failure to comply with emergency directions**
+
+### 185 Offence involving failure to comply with emergency directions or conditions
+(1) A person commits an offence against this section if the person fails to comply with—
+  (a) a direction, prohibition, or requirement issued by Taumata Arowai under section 62; or
+  (b) a condition of an exemption issued by Taumata Arowai under section 63; or
+  (c) a direction issued by a compliance officer under section 105.
+(2) A person who commits an offence against subsection (1) is liable on conviction,—
+  (a) for an individual, to a fine not exceeding $50,000:
+  (b) for a body corporate or an unincorporated body, to a fine not exceeding $200,000.
+
+**Offence relating to authorisations**
+
+### 186 Offence involving breach of requirements relating to authorisations
+(1) A person commits an offence against this section if the person fails to comply with a requirement under section 68, 69, 70, or 71 or any regulations made under section 200 in relation to section 72.
+(2) A person who commits an offence against subsection (1) is liable on conviction,—
+  (a) for an individual, to a fine not exceeding $50,000:
+  (b) for a body corporate or an unincorporated body, to a fine not exceeding $100,000.
+
+**Offence relating to planned events or unplanned supply of drinking water**
+
+### 187 Offence relating to planned events or unplanned supply of drinking water
+(1) A person commits an offence against this section if the person—
+  (a) fails to register a temporary drinking water supply arrangement under section 33(2)﻿(b); or
+  (b) fails to comply with the requirements of a temporary drinking water safety plan or any conditions imposed by Taumata Arowai under section 33(5); or
+  (c) fails to immediately notify Taumata Arowai of a temporary drinking water supply arrangement under section 34(3)﻿(b); or
+  (d) fails to register a drinking water supply in accordance with section 34(4).
+(2) A person who commits an offence against subsection (1) is liable on conviction,—
+  (a) for an individual, to a fine not exceeding $50,000:
+  (b) for a body corporate or an unincorporated body, to a fine not exceeding $200,000.
+
+**Offence relating to consumer complaints**
+
+### 188 Offence involving failure to advise consumers about, provide, and report on complaint process
+(1) A drinking water supplier commits an offence against this section if the supplier fails,—
+  (a) in accordance with regulations that apply to the supplier,—
+    (i) to comply with the duty under section 38(1)﻿(a) to provide consumers with prescribed information; or
+    (ii) to comply with the duty under section 38(1)﻿(b) to establish, maintain, and administer a complaints process; or
+    (iii) to comply with the duty under section 38(1)﻿(c) to report annually to Taumata Arowai on its consumer complaints process; or
+  (b) to comply with the duty under section 38(2) to deal with consumer complaints.
+(2) A supplier who commits an offence against subsection (1) is liable on conviction,—
+  (a) for an individual, to a fine not exceeding $10,000:
+  (b) for a body corporate or an unincorporated body, to a fine not exceeding $200,000.
+
+**Offences relating to duties associated with administration of Act**
+
+### 189 Offence involving hindering or obstructing Taumata Arowai
+(1) A person commits an offence against this section if the person intentionally hinders or obstructs an employee or agent of Taumata Arowai who is performing a function or duty, or exercising a power, under this Act.
+(2) A person who commits an offence against subsection (1) is liable on conviction,—
+  (a) for an individual, to a fine not exceeding $10,000:
+  (b) for an individual who is a drinking water supplier, to a fine not exceeding $75,000:
+  (c) for a body corporate or an unincorporated body that is a drinking water supplier, to a fine not exceeding $250,000.
+
+### 190 Offence involving threatening or assaulting employee or agent of Taumata Arowai
+(1) A person commits an offence against this section if the person intentionally threatens or assaults an employee or agent of Taumata Arowai who is performing a function or duty, or exercising a power, under this Act.
+(2) A person who commits an offence against subsection (1) is liable on conviction,—
+  (a) for an individual, to a fine not exceeding $50,000:
+  (b) for an individual who is a drinking water supplier, to a fine not exceeding $75,000:
+  (c) for a body corporate or an unincorporated body that is a drinking water supplier, to a fine not exceeding $250,000.
+
+### 191 Offence involving deception by pretending to be employee or agent of Taumata Arowai, or authorised person
+(1) A person commits an offence if, with intent to deceive, the person pretends to be—
+  (a) an employee or agent of Taumata Arowai; or
+  (b) a person who has been authorised under regulations made under section 200 in relation to section 72.
+(2) A person who commits an offence against subsection (1) is liable on conviction,—
+  (a) for an individual, to a fine not exceeding $50,000:
+  (b) for an individual who is a drinking water supplier, to a fine not exceeding $75,000:
+  (c) for a body corporate or an unincorporated body that is a drinking water supplier, to a fine not exceeding $250,000.
+
+### 192 Offence for failing to comply with duty of due diligence
+(1) A person commits an offence against this section if the person—
+  (a) has a duty under section 29; and
+  (b) fails to comply with that duty.
+(2) A person who commits an offence against subsection (1) is liable on conviction,—
+  (a) for an individual who is an employee or an agent of a drinking water supplier, to a fine not exceeding $50,000:
+  (b) for an individual who is an officer of a drinking water supplier, to a fine not exceeding $100,000.
+(3) An officer, employee, or agent of a drinking water supplier may be convicted or found guilty of an offence against this section whether or not the drinking water supplier has been convicted or found guilty of an offence against a provision to which the duty under section 29 relates.
+
+### Subpart 12 — Sentencing for offences
+
+### 193 Application of subpart
+This subpart applies if a court convicts a person (an offender) or finds an offender guilty of an offence under this Act or regulations made under this Act.
+
+### 194 Sentencing criteria
+(1) This section applies when a court is determining how to sentence or otherwise deal with an offender convicted of an offence against subpart 11.
+(2) The court must apply the Sentencing Act 2002 and must have particular regard to—
+  (a) sections 7 to 10 of that Act; and
+  (b) the risk of, and the potential for, illness, injury, or death that could have occurred; and
+  (c) whether death, serious injury, or serious illness occurred or could reasonably have been expected to have occurred; and
+  (d) the compliance record of the person (including, without limitation, any warning, direction, infringement notice, or compliance order issued to the person or enforceable undertaking agreed to by the person) to the extent that it shows whether any aggravating factor is present; and
+  (e) the degree of departure from prevailing standards in the person's sector or industry as an aggravating factor.
+
+### 195 Order for payment of chief executive's costs in bringing prosecution
+(1) On the application of the chief executive, the court may order the offender to pay to the chief executive a sum that it thinks just and reasonable towards the costs of the prosecution (including the costs of investigating the offending and any associated costs).
+(2) If the court makes an order under subsection (1), it must not make an order under section 4 of the Costs in Criminal Cases Act 1967.
+(3) If the court makes an order under subsection (1) in respect of a Crown organisation, any costs and fees awarded must be paid from the funds of that organisation.
+
+### 196 Release on giving of court-ordered enforceable undertaking
+(1) The court may (with or without recording a conviction) adjourn a proceeding for up to 2 years and make an order for the release of the offender if the offender gives an undertaking with specified conditions (a court-ordered enforceable undertaking).
+(2) A court-ordered enforceable undertaking must specify the following conditions:
+  (a) that the offender appears before the court if called on to do so during the period of the adjournment and, if the court so specifies, at the time to which the further hearing is adjourned:
+  (b) that the offender does not commit, during the period of the adjournment, any offence against this Act:
+  (c) that the offender observes any special conditions imposed by the court.
+(3) An offender who has given a court-ordered enforceable undertaking under this section may be called on to appear before the court by order of the court.
+(4) An order under subsection (3) must be served on the offender not less than 4 days before the time specified in it for the appearance.
+(5) If the court is satisfied at the time to which a further hearing of a proceeding is adjourned that the offender has observed the conditions of the court-ordered enforceable undertaking, it must discharge the offender without any further hearing of the proceeding.
+(6) Taumata Arowai must make available to the public, on an Internet site maintained by or on behalf of Taumata Arowai, notice of a court-ordered enforceable undertaking made in accordance with subsection (1), unless the court orders otherwise.
+
+### 197 Injunctions
+If a court finds a person guilty of an offence against this Act, the court may issue an injunction requiring the offender to cease any particular conduct or action that constitutes a contravention of this Act or regulations.
+
+### 198 Supervision and training orders
+(1) The court may make an order requiring an offender to work under supervision for a period that the court specifies in the order.
+(2) The court may make an order requiring an offender to undertake, or arrange for 1 or more employees to undertake, a specified course of training.
+
+### 199 Restriction or prohibition
+(1) The court may make—
+  (a) a restriction order, which specifies the ways in which the person is restricted in operating a drinking water supply; or
+  (b) a prohibition order, which prohibits the person from operating a drinking water supply or specified aspects of the supply.
+(2) The following provisions apply if the person wants a restriction order or prohibition order cancelled:
+  (a) the person may apply to the court to cancel it:
+  (b) the application must be served on the chief executive:
+  (c) an employee or agent of Taumata Arowai may appear and be heard to help the court to determine whether to grant the application.
+(3) The court may—
+  (a) cancel the order from the date stated in the order; or
+  (b) change the order from the date stated in the order; or
+  (c) change a prohibition order to a restriction order; or
+  (d) refuse the application, in which case the court may specify the earliest date on which the person may make a further application for cancellation.
+(4) The court must take into account—
+  (a) the nature of the offence of which the person was convicted; and
+  (b) the steps taken (if any) to remedy the problem that resulted in the order; and
+  (c) the person’s conduct since the order was made; and
+  (d) the person’s character; and
+  (e) any other circumstances of the case.
+(5) If the court changes the order or refuses the application, the person may apply for cancellation again—
+  (a) once the date that the court specified under subsection (3)﻿(d) has passed; or
+  (b) once there has been a material change in the person’s circumstances.
+
+## Part 4 — Miscellaneous provisions
+
+### 200 Regulations
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
+  (a) prescribing the information that drinking water suppliers, or classes of drinking water supplier, must provide to consumers, including—
+    (i) the legislative requirements that apply to a supplier’s drinking water supply; and
+    (ii) whether drinking water that is supplied by a supplier meets those legislative requirements; and
+    (iii) how a consumer may make a complaint to a drinking water supplier; and
+    (iv) the form in which information must be provided to consumers, and its frequency:
+  (b) prescribing requirements relating to consumer complaints that drinking water suppliers, or classes of drinking water supplier, must meet, including requirements for—
+    (i) the investigation of consumer complaints; and
+    (ii) the time frame for decisions on consumer complaints; and
+    (iii) notification of decisions on complaints, including any action that was taken to resolve the matters that gave rise to the complaint; and
+    (iv) records that must be kept by drinking water suppliers about consumer complaints:
+  (c) prescribing requirements for annual reporting about consumer complaints to Taumata Arowai by drinking water suppliers, or classes of drinking water supplier, including—
+    (i) the number of complaints that have been received; and
+    (ii) the outcome of complaints, including any action taken:
+  (d) prescribing matters relating to identity cards:
+  (e) prescribing the time frame, and form and manner, in which information required to be provided to Taumata Arowai under this Act must be provided:
+  (f) prescribing fees or charges for doing any act or providing any service for the purposes of this Act or regulations:
+  (g) identifying the offences in or under this Act that are infringement offences, including offences for the breach of or failure to comply with a specified provision, direction, condition, notice, or requirement:
+  (h) prescribing infringement notices, infringement reminder notices, and infringement forms of any other kind:
+  (i) prescribing the amounts, up to a maximum of $1,000 for an individual and $3,000 for a body corporate or an unincorporated body, of infringement fees that are payable for infringement offences, including different fees for a first offence, a second offence, and subsequent offences:
+  (j) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations made under subsection (1)﻿(f) may—
+  (a) specify the amount of the fees or charges, or a method of calculating or ascertaining the amount of the fees or charges; and
+  (b) prescribe different fees and charges for different classes of person; and
+  (c) prescribe the manner in which fees or changes must be calculated; and
+  (d) prescribe the circumstances and way in which fees or charges can be refunded, waived, or reduced.
+(3) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 201 Levy
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing a levy for the purpose of recovering any or all of the costs of Taumata Arowai that relate to the performance or exercise of its functions, powers, and duties under this Act or any other enactment that is payable by 1 or more of the following:
+  (a) drinking water suppliers:
+  (b) wastewater network operators:
+  (c) stormwater network operators.
+(2) Before making a recommendation under subsection (1), the Minister must—
+  (a) determine the costs of Taumata Arowai, including the costs of collecting the levy, to be covered by the levy; and
+  (b) request, and have regard to, advice from Taumata Arowai on the proposed levy; and
+  (c) consult the persons listed in subsection (1) who will be affected by the levy.
+(3) Regulations made under this section must—
+  (a) specify the amount of the levy, or method of calculating or ascertaining the amount of the levy; and
+  (b) provide for the payment and collection of the levy; and
+  (c) specify the financial year or part financial year to which the levy applies.
+(4) Regulations made under this section may—
+  (a) specify the criteria or other requirements for setting or resetting the levy; and
+  (b) prescribe different levies for different classes of person; and
+  (c) prescribe the circumstances and the way in which the levy, or any part of the levy, can be refunded or waived.
+(5) Taumata Arowai must—
+  (a) pay into a Crown Bank Account each levy payment received under the regulations; and
+  (b) ensure that each payment is separately accounted for.
+(6) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 202 Recovery of fees and levies
+Taumata Arowai may recover any fee or levy payable to Taumata Arowai in any court of competent jurisdiction as a debt due on behalf of the Crown.
+
+### 203 Delegations
+(1) The chief executive may delegate any of the chief executive’s functions or powers under this Act to any employee of Taumata Arowai.
+(2) A person to whom any functions or powers are delegated may perform those functions or exercise those powers in the same manner and with the same effect as if they had been conferred on that person directly by this Act and not by delegation (subject to any general or special directions given or conditions imposed by the chief executive).
+(3) A delegation under this section—
+  (a) must be in writing signed by the chief executive; and
+  (b) is revocable at will in writing signed by the chief executive.
+(4) A person purporting to act under a delegation is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of the delegation.
+(5) A delegation does not prevent the chief executive from performing any function or exercising any power or affect the chief executive’s responsibility for the actions of any person acting under the delegation.
+(6) If the chief executive ceases to hold office, the delegation continues to have effect as if it were made by the chief executive’s successor in office.
+(7) The chief executive must not delegate the power of delegation under this section.
+
+### 204 Information sharing with regulatory agencies
+(1) Subject to any enactment,—
+  (a) Taumata Arowai may provide a regulatory agency with any information, or a copy of any document, that it—
+    (i) holds in relation to the performance or exercise of its functions, duties, or powers; and
+    (ii) considers may assist the regulatory agency in the performance or exercise of the regulatory agency’s functions, duties, or powers; and
+  (b) a regulatory agency may provide Taumata Arowai with any information, or a copy of any document, that it—
+    (i) holds in relation to the performance or exercise of its functions, duties, or powers under or in relation to any enactment; and
+    (ii) considers may assist Taumata Arowai in the performance or exercise of its functions, duties, or powers.
+(2) If subsection (1)﻿(a) or (b) applies, Taumata Arowai or the regulatory agency (as the case may be) may impose conditions that it thinks fit relating to the provision of the information or document, including conditions relating to—
+  (a) the storage and use of, or access to, anything provided:
+  (b) the copying, returning, or disposing of copies of any documents provided.
+(3) Nothing in subsection (2) limits the Privacy Act 2020.
+(4) This section applies despite anything to the contrary in any contract, deed, or document.
+(5) In this section,—
+  - **agency** means—
+  (a) a department or departmental agency (within the meaning of section 5 of the Public Service Act 2020):
+  (b) a Crown entity (within the meaning of section 7 of the Crown Entities Act 2004)
+  - **regulatory agency** means any of the following persons or agencies:
+    (a) the New Zealand Police:
+    (b) the New Zealand Transport Agency:
+    (c) the Commerce Commission:
+    (d) the Department of Internal Affairs, including any statutory officer who carries out work for that business or undertaking:
+    (e) the Environmental Protection Authority:
+    (f) Fire and Emergency New Zealand:
+    (g) a medical officer of health:
+    (h) the Ministry for the Environment, including any statutory officer who carries out work for that business or undertaking:
+    (i) the Ministry of Health:
+    (j) the Ministry of Business, Innovation, and Employment, including any statutory officer who carries out work for that business or undertaking:
+    (k) the Ministry for Primary Industries:
+    (l) a local authority:
+    (m) an agency prescribed by Taumata Arowai by notice.
+(6) A notice made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 205 Publication of instruments
+(1) Taumata Arowai must ensure that the following instruments are published in accordance with subsection (2):
+  (a) templates and models:
+  (b) environmental performance measures or targets for networks developed under section 145.
+(2) The instruments must be—
+  (a) publicly available free of charge on an Internet site maintained by or on behalf of Taumata Arowai; and
+  (b) available for purchase at a reasonable price at the offices of Taumata Arowai.
+
+### 206 Amendments and revocation
+(1) Amend the Acts specified in Part 1 of Schedule 2 as set out in that Part.
+(2) Amend the instruments specified in Part 2 of Schedule 2 as set out in that Part.
+(3) Revoke the instrument specified in Part 3 of Schedule 2.
+
+## Part 5 — Amendments to Local Government Act 2002
+
+### 207 Amendments to Local Government Act 2002
+This Part amends the Local Government Act 2002.
+
+### 208 Subpart 1 of Part 7 replaced
+In Part 7, replace subpart 1 with:Specific obligations to make assessments of drinking water, wastewater, and sanitary services and to ensure communities have access to safe drinking waterInterpretationRequirement to assess drinking water servicesRequirements following assessment of community drinking water serviceDuty to ensure communities have access to drinking water if existing suppliers facing significant problemsRequirement to assess wastewater and other sanitary services
+  In this Part,—
+    - **assessment** ,—
+      (a) in relation to drinking water,—
+        (i) means an assessment of drinking water services available to communities in the district of the territorial authority, including private and community-owned or community-operated drinking water supplies; but
+        (ii) does not include assessments in relation to domestic self-suppliers; and
+      (b) in relation to wastewater and other sanitary services,—
+        (i) means an assessment of wastewater services and other sanitary services available to communities in the district of the territorial authority; but
+        (ii) does not include assessments in relation to individual properties
+    - **domestic self-supplier** has the meaning given in section 10 of the Water Services Act 2021
+    - **drinking water** has the meaning given in section 6 of the Water Services Act 2021
+    - **drinking water services** means the supply of drinking water to communities to the point of supply of each dwelling house and commercial premise to which drinking water is supplied
+    - **local government organisation** means a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation, that provides water services
+    - **point of supply** has the meaning given in section 13 of the Water Services Act 2021
+    - **sanitary services** has the same meaning as sanitary works in section 25(1)﻿(a), (b), (d), (h), and (i) of the Health Act 1956
+    - **sufficient quantity** , in relation to the drinking water supplied to a point of supply, has the meaning given in section 25 of the Water Services Act 2021
+    - **Taumata Arowai** means Taumata Arowai–the Water Services Regulator established under section 8 of the Taumata Arowai–the Water Services Regulator Act 2020
+    - **wastewater services** means sewerage, treatment and disposal of sewage, and stormwater drainage.
+  (1) A territorial authority must inform itself about the access that each community in its district has to drinking water services by undertaking an assessment of drinking water services in accordance with this section.
+  (2) An assessment of drinking water services must—
+    (a) identify each community that receives a drinking water service; and
+    (b) describe the nature of existing drinking water services to the community; and
+    (c) describe the characteristics of the community; and
+    (d) assess the extent to which the community is currently receiving, and will continue to receive, a sufficient quantity of drinking water, including a consideration of—
+      (i) the community’s existing access to drinking water services; and
+      (ii) any reasonably foreseeable risks to the community’s access to drinking water services in the future; and
+      (iii) the current and estimated future demands for drinking water services within the community; and
+    (e) describe the safety and quality of drinking water currently being supplied to the community, using information collected and made available by Taumata Arowai and any other organisations that the territorial authority considers relevant; and
+    (f) identify and assess any other public health risks relating to the drinking water services supplied to the community; and
+    (g) include an assessment of wastewater and sanitary services in accordance with section 128; and
+    (h) based on the assessment under paragraphs (b) to (g),—
+      (i) assess the consequences if the community loses access to drinking water services in the future, or is provided with drinking water services that are deficient in any way, including the implications for that community’s public health; and
+      (ii) outline a plan to provide for the community’s ongoing access to drinking water services.
+  (3) A territorial authority must conduct an assessment of drinking water services under subsection (2)—
+    (a) at least once every 3 years, which may be carried out when other assessments are carried out or at different times; or
+    (b) at an earlier date than required by paragraph (a), if the territorial authority is made aware of concerns about the access that a community has to drinking water services.
+  (4) A territorial authority must provide opportunities for any person to alert the territorial authority at any time to concerns about a community’s access to drinking water services.
+  (5) For the purposes of this section,—
+    (a) references to assessments include—
+      (i) assessing a service for the first time; and
+      (ii) reviewing and updating an existing assessment:
+    (b) the scope of each assessment must include—
+      (i) communities that receive drinking water services from the territorial authority or other local government organisation; and
+      (ii) communities that do not receive drinking water services from the territorial authority or other local government organisation; and
+      (iii) all types of water supply arrangements, including communities (and households within those communities) that do not receive drinking water services supplied by network reticulation:
+    (c) territorial authorities need not consider within an assessment drinking water services that are owned or operated by the Crown:
+    (d) an assessment may be carried out by the territorial authority, or undertaken on its behalf (whether in whole or in part) by another appropriate organisation, including an iwi or Māori organisation.
+  (1) On completion of an assessment of a community drinking water service, a territorial authority must—
+    (a) make the assessment available to the public on an Internet site maintained by or on behalf of the territorial authority; and
+    (b) provide Taumata Arowai with a copy of the assessment in electronic form.
+  (2) A territorial authority must also notify Taumata Arowai about—
+    (a) any suppliers of drinking water services that are, or appear to be, failing to meet the supplier’s statutory obligations or are at risk of doing so; and
+    (b) any other matters of concern arising from the assessment, including potential risks to communities affected by the assessment that relate to—
+      (i) any absence of, or deficiency in, a drinking water service; or
+      (ii) a drinking water supplier that is at risk of ceasing to provide a service.
+  (3) A territorial authority must also consider the findings and implications of the assessment in relation to—
+    (a) the territorial authority’s current and future infrastructure strategy and long-term plan; and
+    (b) the territorial authority’s district plan prepared under the Resource Management Act 1991; and
+    (c) the territorial authority’s broader duty to improve, promote, and protect public health within its district in accordance with section 23 of the Health Act 1956.
+  (1) Subsection (2) applies if—
+    (a) a territorial authority’s or Taumata Arowai’s assessment of a drinking water supply is that the supplier (not being the territorial authority) is facing a significant problem or potential problem with any of its drinking water services, and the territorial authority has notified Taumata Arowai of those concerns and discussed them with Taumata Arowai; or
+    (b) Taumata Arowai requires the territorial authority to take action under subsection (2).
+  (2) If this subsection applies, a territorial authority must—
+    (a) work collaboratively with the supplier, the consumers of the supply, and Taumata Arowai to identify, as the circumstances allow and within a time frame determined by Taumata Arowai, 1 or more of the following:
+      (i) an immediate solution to the problem:
+      (ii) a temporary solution to the problem:
+      (iii) a long-term, permanent solution to the problem; and
+    (b) ensure that drinking water is provided to the affected consumers, on a temporary or permanent basis, if—
+      (i) the supplier is unable to continue to provide a service that meets the statutory requirements; and
+      (ii) an alternative solution is not readily available, or cannot be agreed by the parties involved within the time frame determined by Taumata Arowai.
+  (3) For the purposes of this section,—
+    (a) a significant problem or potential problem includes where—
+      (i) a drinking water supplier has persistently failed to comply with legislative requirements; or
+      (ii) there is a serious risk to public health relating to the drinking water services provided by a drinking water supplier; or
+      (iii) a drinking water supplier has ceased to operate a drinking water service, or is, in Taumata Arowai’s opinion, at significant risk of ceasing to operate a service:
+    (b) if a territorial authority is obliged to ensure access to drinking water, the territorial authority may consider a range of options to fulfil its obligation, including—
+      (i) taking over the management and operations of the drinking water service, on a temporary or permanent basis:
+      (ii) ensuring drinking water continues to be provided through alternative supply arrangements:
+    (c) nothing in paragraph (b) obliges a territorial authority to provide the supply via a reticulated network:
+    (d) if a territorial authority takes over the management and operations of a drinking water service on a permanent basis, the territorial authority, Taumata Arowai, the former supplier, and (if relevant) the affected consumers must work together to determine how to deal with—
+      (i) any assets and liabilities that may relate to the service; and
+      (ii) any legal or other issues that may affect the territorial authority’s ability to manage and operate the service, such as access to the land on, or beneath which, assets are situated; and
+      (iii) how the territorial authority might be compensated for the costs incurred in taking over responsibility for the service:
+    (e) a territorial authority may charge for any drinking water services that are provided to affected consumers, and may recover its costs from the previous supplier, but, when making decisions about future charges and funding arrangements, the territorial authority must—
+      (i) take reasonable steps to ascertain and consider the financial circumstances facing the affected consumers; and
+      (ii) consider the range of funding sources provided for in its revenue and financing policy, including the potential use of general rates; and
+      (iii) on request, demonstrate that it has considered those factors.
+  (4) See also subpart 12 of Part 2 of the Water Services Act 2021 (statutory management and transfer of operations).
+  (1) A territorial authority must assess the provision within its district of—
+    (a) wastewater services; and
+    (b) other sanitary services.
+  (2) The purpose of an assessment under subsection (1) is to assess, from a public health perspective, the adequacy of wastewater services and other sanitary services available to communities within a territorial authority’s district, in light of—
+    (a) the health risks to communities arising from any absence of, or deficiency in, the services; and
+    (b) the quality of the services currently available to communities within the district; and
+    (c) the current and estimated future demands for any of those services; and
+    (d) the actual or potential consequences of stormwater and sewage discharges within the district.
+  (3) One type of service may be assessed in conjunction with another type of service.
+
+### 209 Section 130 amended (Obligation to maintain water services)
+In section 130(3)﻿(d)﻿(ii), replace section 69S of the Health Act 1956 with section 25 of the Water Services Act 2021.
+
+### 210 Section 131 amended (Power to close down or transfer small water services)
+In section 131(2)﻿(b) and (c)﻿(i), replace ; and, with or Taumata Arowai; and.
+
+### 211 Section 146 amended (Specific bylaw-making powers of territorial authorities)
+In section 146, insert as subsections (2) and (3):
+  (2) If a territorial authority makes bylaws under section 145 or subsection (1) regulating a wastewater network, as defined in section 5 of the Water Services Act 2021, the bylaws must give effect to any wastewater environmental performance standards made under section 138 of that Act.
+  (3) Subsection (2) applies to bylaws made on and after the commencement of section 211 of the Water Services Act 2021.
+
+### 212 Schedule 1AA amended
+In Schedule 1AA, after Part 4, insert:Provisions relating to Water Services Act 2021Requirements in subpart 1 of Part 7
+  Despite section 125(3), every territorial authority must complete an assessment of drinking water services in accordance with section 125 by 1 July 2026.
+
+### 213 Schedule 10 amended
+In Schedule 10, replace clause 6(a) with:
+  (a) assessment of drinking water, wastewater, and other sanitary services under sections 125 and 128:
+
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to this Act as enacted
+
+### 1 Interpretation
+In this Part, unless the context otherwise requires, commencement date means the day on which this Part comes into force.
+
+### 2 Drinking water standards
+(1) The Drinking-water Standards for New Zealand 2005 (Revised 2018), as in force under Part 2A of the Health Act 1956 immediately before the commencement date, continue in force and may be amended or revoked as if they were drinking water standards under this Act.
+(2) Taumata Arowai must review the Drinking-water Standards of New Zealand 2005 (Revised 2018) within 5 years after the commencement date to determine whether they are fit for purpose.
+
+### 3 Drinking water safety plans
+(1) Every water safety plan approved by a drinking water assessor under the Health Act 1956 that is in effect immediately before the commencement date must be treated as a drinking water safety plan to which section 30(3) of this Act applies, until the date by which the applicable requirement in clause 4(3), 5(2)﻿(b), or 6(2)﻿(c) is required to be complied with.
+(2) To avoid doubt, subclause (1) applies irrespective of the expiry date of the water safety plan under the Health Act 1956.
+
+### 4 Application of Act to drinking water suppliers registered under Health Act 1956
+(1) This clause applies to a drinking water supplier who, immediately before the commencement date,—
+  (a) is registered under section 69J of the Health Act 1956; and
+  (b) has 1 or more drinking water supplies recorded under that section (the recorded drinking water supplies).
+(2) The recorded drinking water supplies are registered in accordance with subpart 7 of Part 2 on the commencement date.
+(3) The drinking water supplier must provide Taumata Arowai with a drinking water safety plan for the recorded drinking water supplies that complies with section 30(1) within 1 year after the commencement date.
+(4) Except as provided in subclause (3) or in regulations made under clause 10, this Act applies to the drinking water supplier in respect of the recorded drinking water supplies from the commencement date.
+
+### 5 Application of Act to water carriers not registered under Health Act 1956
+(1) This clause applies to a water carrier who, immediately before the commencement date, is not registered under section 69J of the Health Act 1956.
+(2) The water carrier—
+  (a) must apply to register the supply under section 54 within 1 year after the commencement date; and
+  (b) must provide Taumata Arowai with a drinking water safety plan that complies with section 30(1) within 1 year after the commencement date; and
+  (c) must comply, on and from the commencement date, with—
+    (i) sections 21(1) and 22(1); and
+    (ii) any directions or compliance orders issued under section 104, 105, or 120.
+(3) Except as provided in subclause (2) and in regulations made under clause 10, this Act applies to a water carrier from the earlier of the following:
+  (a) the date on which the water carrier complies with the requirement in subclause (2)﻿(b):
+  (b) the date by which the requirement in subclause (2)﻿(b) is required to be complied with.
+
+### 6 Application of Act to other drinking water suppliers not registered under Health Act 1956
+(1) This clause applies to a drinking water supplier (other than a water carrier) who, immediately before the commencement date,—
+  (a) is not registered under section 69J of the Health Act 1956; or
+  (b) is registered under section 69J of the Health Act 1956 and has 1 or more drinking water supplies that are not recorded under that section.
+(2) The drinking water supplier must, in respect of any drinking water supply not recorded under section 69J of the Health Act 1956,—
+  (a) comply, on and from the commencement date, with—
+    (i) section 21(1); and
+    (ii) any directions or compliance orders issued under section 104, 105, or 120; and
+  (b) apply to register the supply under section 54 within 4 years after the commencement date; and
+  (c) provide Taumata Arowai with a drinking water safety plan that complies with section 30(1) within 7 years after the commencement date.
+(3) A drinking water supplier is, in respect of any drinking water supply not recorded under section 69J of the Health Act 1956,—
+  (a) not liable for an offence committed against this Act during the period starting with the commencement date and ending on the date that is 7 years after the commencement date, except—
+    (i) for an offence committed against section 182, 183, 185, 189, 190, or 191; and
+    (ii) as provided in paragraph (b); and
+  (b) liable for an offence committed against section 178, 179, or 180 during the period starting with the date that is 4 years after the commencement date and ending on the date that is 7 years after the commencement date.
+(4) Except as provided in subclauses (2) and (3) and in regulations made under clause 10, this Act applies to a drinking water supplier in respect of any drinking water supply not recorded under section 69J of the Health Act 1956 from the earlier of the following:
+  (a) the date on which the supplier complies with the requirement in subclause (2)﻿(c):
+  (b) the date by which the requirement in subclause (2)﻿(c) is required to be complied with.
+
+### 7 Authorisation requirements
+Despite section 68, every local authority and council-controlled organisation that operates a drinking water supply must be authorised, or have its drinking water supply operated by an authorised supplier, within 5 years after the commencement date.
+
+### 8 First drinking water compliance, monitoring, and enforcement strategy
+The board of Taumata Arowai must be treated as complying with its obligation to prepare and publish its first drinking water compliance, monitoring, and enforcement strategy if it does so within 12 months after the commencement of that section.
+
+### 9 Accreditation of laboratories
+A laboratory recognised by the Director-General of Health under section 69ZY of the Health Act 1956 immediately before the commencement date is an accredited laboratory for the purposes of section 73 until the earlier of the following:
+  (a) the date on which the laboratory is accredited under section 77:
+  (b) the date that is 3 years after the commencement date.
+
+### 10 Transitional regulation-making power
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations to apply a provision or provisions of this Act to a person or class of persons on a date that is sooner than that specified in this Part.
+(2) The Minister may make a recommendation under this clause only after consulting the persons Taumata Arowai considers are affected by the regulations.
+(3) Regulations made under this clause are revoked on the date that is 7 years after the commencement date, unless earlier revoked.
+(4) This clause is repealed on the date that is 7 years after the commencement date.
+(5) Regulations made under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### Part 2 — Provisions relating to Legislation Act 2019
+
+### 11 Application of Part
+This Part applies until the main commencement date (as defined in clause 2 of Schedule 1 of the Legislation Act 2019).
+
+### 12 Definition of legislative requirement
+In addition to the definition in section 5, legislative requirement includes a requirement imposed by—
+  (a) an Order in Council made under this Act; or
+  (b) an instrument issued by Taumata Arowai that is a disallowable instrument for the purposes of the Legislation Act 2012.
+
+### 13 Declaration of notifiable risks or hazards
+(1) This clause applies to a declaration of notifiable risks or hazards under section 35.
+(2) A declaration must be published in the Gazette and on an Internet site maintained by or on behalf of Taumata Arowai.
+(3) A declaration is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### 14 Notices, compliance rules, acceptable solutions or verification methods, and wastewater environmental performance standards
+(1) This clause applies to—
+  (a) a notice of aesthetic values made under section 48; and
+  (b) compliance rules made under section 49; and
+  (c) an acceptable solution or verification method issued under section 50; and
+  (d) wastewater environmental performance standards made under section 138; and
+  (e) a notice in respect of record-keeping requirements made under section 146.
+(2) An instrument to which this clause applies must be—
+  (a) published and made available in accordance with section 205 as if that section applied to it; and
+  (b) notified in the Gazette.
+(3) An instrument to which this clause applies is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### 15 Exemptions
+(1) This clause applies to—
+  (a) an exemption granted under section 57 or 63; and
+  (b) an exemption granted in respect of a class of drinking water supplier under section 58.
+(2) An exemption must be published in the Gazette and on an Internet site maintained by or on behalf of Taumata Arowai.
+(3) An exemption is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### 16 Direction by Taumata Arowai
+(1) This clause applies to a direction given under section 62(2)﻿(i) or (j).
+(2) A direction must be published in the Gazette and on an Internet site maintained by or on behalf of Taumata Arowai.
+(3) A direction is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### 17 Notices relating to laboratories
+(1) This clause applies to a notice made under section 75 or 76.
+(2) A notice must be published in the Gazette and on an Internet site maintained by or on behalf of Taumata Arowai.
+(3) A notice is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### 18 Notice of prescribed agency
+(1) This clause applies to a notice made under section 204(5)﻿(k).
+(2) A notice must be published in the Gazette and on an Internet site maintained by or on behalf of Taumata Arowai.
+(3) A notice is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+## Schedule 2 — Amendments and revocation
+
+### 104G Consideration of activities affecting drinking water supply source water
+When considering an application for a resource consent, the consent authority must have regard to—
+  (a) the actual or potential effect of the proposed activity on the source of a drinking water supply that is registered under section 55 of the Water Services Act 2021; and
+  (b) any risks that the proposed activity may pose to the source of a drinking water supply that are identified in a source water risk management plan prepared in accordance with the requirements of the Water Services Act 2021.
+
+| Water Services Act 2021 | 108 | Compliance officer may inspect and copy documents and direct person to produce documents, and may take photographs and make recordings and electronic records | Subpart 4 |
+| --- | --- | --- | --- |
+|  | 109 | Compliance officer may require person to provide person’s name and residential address | Subpart 4 |
+|  | 110 | Compliance officer may direct drinking water supplier to answer questions | Subpart 4 |
+|  | 112 | Compliance officer may, without warrant, enter and search place and may exercise powers under sections 104 to 110 of that Act if officer believes, on reasonable grounds, that is required in relation to serious risk to public health | All (except subparts 2, 3, 6, and 8 and sections 118 and 119) |
