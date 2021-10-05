@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-05_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -219,16 +219,16 @@ A constable may stop a vehicle without a warrant to arrest a person if the const
 
 ### 15 Entry without warrant to find and avoid loss of evidential material relating to certain offences
 A constable may enter and search a place without a warrant if he or she has reasonable grounds—
-  (a) to suspect that an offence punishable by imprisonment for a term of 14 years or more has been committed, or is being committed, or is about to be committed; and
+  (a) to suspect that an offence punishable by imprisonment for a term of 14 years or more or an offence against section 6B(1) (terrorist act: planning or other preparations to carry out) of the Terrorism Suppression Act 2002 has been committed, or is being committed, or is about to be committed; and
   (b) to believe—
     (i) that evidential material relating to the offence is in that place; and
     (ii) that, if entry is delayed in order to obtain a search warrant, the evidential material will be destroyed, concealed, altered, or damaged.
 
 ### 16 Searching people in public place without warrant for evidential material relating to certain offences
-A constable may search a person without a warrant in a public place if the constable has reasonable grounds to believe that the person is in possession of evidential material relating to an offence punishable by imprisonment for a term of 14 years or more.
+A constable may search a person without a warrant in a public place if the constable has reasonable grounds to believe that the person is in possession of evidential material relating to an offence punishable by imprisonment for a term of 14 years or more or an offence against section 6B(1) (terrorist act: planning or other preparations to carry out) of the Terrorism Suppression Act 2002.
 
 ### 17 Warrantless entry and search of vehicle for evidential material relating to certain offences
-A constable may, without a warrant, enter and search a vehicle that is in a public place if he or she has reasonable grounds to believe that evidential material relating to an offence punishable by imprisonment for a term of 14 years or more is in or on the vehicle.
+A constable may, without a warrant, enter and search a vehicle that is in a public place if he or she has reasonable grounds to believe that evidential material relating to an offence punishable by imprisonment for a term of 14 years or more or an offence against section 6B(1) (terrorist act: planning or other preparations to carry out) of the Terrorism Suppression Act 2002 is in or on the vehicle.
 
 ### Subpart 6 — Warrantless powers in relation to arms offences
 
@@ -524,7 +524,7 @@ Nothing in this Part affects the common law defence of necessity as it applies t
   (b) obtaining a surveillance device warrant within the time in which it is proposed to undertake the surveillance is impracticable in the circumstances.
 (2) The situations are as follows:
   (a) the enforcement officer has reasonable grounds—
-    (i) to suspect that an offence punishable by a term of imprisonment of 14 years or more has been, is being, or is about to be committed; and
+    (i) to suspect that an offence punishable by a term of imprisonment of 14 years or more or an offence against section 6B(1) (terrorist act: planning or other preparations to carry out) of the Terrorism Suppression Act 2002 has been, is being, or is about to be committed; and
     (ii) to believe that use of the surveillance device would obtain evidential material in relation to the offence:
   (b) the enforcement officer has reasonable grounds—
     (i) to suspect that any 1 or more of the circumstances set out in section 14(2) exist; and
