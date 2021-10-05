@@ -1,5 +1,5 @@
 # Terrorism Suppression Act 2002
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2021-10-05_
 
 ### 1 Title
 This Act is the Terrorism Suppression Act 2002.
@@ -20,7 +20,10 @@ The purpose of this Act is—
     (iv) the Nuclear Material Convention; and
     (v) the Plastic Explosives Convention; and
     (vi) the Nuclear Terrorism Convention; and
-  (c) to make further provision to implement, in part, the Al-Qaida and the Taliban Sanctions Resolutions.
+    (vii) Resolution 2178 (2014); and
+  (c) to make further provision to implement, in part,—
+    (i) the ISIL (Da’esh) and Al-Qaida Sanctions Resolutions; and
+    (ii) the Taliban Sanctions Resolutions.
 
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -28,15 +31,28 @@ The purpose of this Act is—
     (a) that constitutes an offence as defined in a specified terrorism convention; and
     (b) that is not excluded from the application of the specified terrorism convention (for example, because an international aspect required by 1 or more of its provisions does not exist)
   - **Al-Qaida** means the Al-Qaida organisation
-  - **Al-Qaida and the Taliban Sanctions Resolutions** means Resolution 1267 (1999) of the Security Council of the United Nations, adopted under Chapter VII of the United Nations Charter on 15 October 1999 and its successor resolutions, including Resolution 1333 (2000) of 19 December 2000 and Resolution 1390 (2002) of 16 January 2002
-  - **Al-Qaida entity** , for a measure that is set out, or referred to, in 1 or more Al-Qaida and the Taliban Sanctions Resolutions, and that is provided for in this Act, means Al-Qaida, or an entity that is not Al-Qaida but is designated, by or under those resolutions, as an entity that is—
-    (a) associated with Usama bin Laden; and
+  - **Al-Qaida entity** , for a measure that is set out, or referred to, in 1 or more ISIL (Da’esh) and Al-Qaida Sanctions Resolutions, and that is provided for in this Act, means Al-Qaida, or an entity that is not Al-Qaida but is designated, by or under those resolutions, as an entity that is—
+    (a) associated with Al-Qaida; and
     (b) an entity to which that measure is to be applied
   - **Anti-terrorism Resolution** means Resolution 1373 (2001) of the Security Council of the United Nations, adopted under Chapter VII of the United Nations Charter on 28 September 2001, a copy of which is set out in Schedule 4
+  - **basic needs** include, without limitation, needs satisfied by cash, funds, property, or support for all or any of the following:
+    (a) foodstuffs:
+    (b) rent or mortgage:
+    (c) medicines or medical treatment:
+    (d) taxes, insurance premiums, or public utility charges:
+    (e) reasonable professional fees, and reimbursement of incurred expenses, associated with the provision of legal services:
+    (f) fees or service charges for routine holding or maintenance of frozen funds or other financial assets or economic resources
   - **Bombings Convention** means the International Convention for the Suppression of Terrorist Bombings, adopted by the General Assembly of the United Nations at New York on 15 December 1997, a copy of the English text of which is set out in Schedule 1
-  - **carried out** , in relation to a terrorist act, has the meaning given to it in section 25(1)
+  - **carried out** , in relation to a terrorist act,—
+    (a) has the meaning given to it in section 5A(1); but
+    (b) in section 6A(1), has, despite section 5A(1), only the narrower meaning given to it in section 6A(2)
   - **classified security information** has the meaning given to it in section 32(1)
   - **country** includes any State, territory, province, or other part of a country
+  - **critical infrastructure** means all or any of the following that provide the essential services of a population:
+    (a) assets:
+    (b) facilities:
+    (c) networks:
+    (d) systems
   - **deal with** , in relation to any property,—
     (a) means to use or deal with the property, in any way and by any means (for example, to acquire possession of, or a legal or an equitable interest in, transfer, pay for, sell, assign, or dispose of (including by way of gift) the property); and
     (b) includes allowing the property to be used or dealt with, or facilitating the use of it or dealing with it
@@ -50,10 +66,10 @@ The purpose of this Act is—
     (b) a weapon or device that is designed, or has the capability, to cause death, serious bodily injury, or substantial material damage through the release, dissemination, or impact of—
       (i) toxic chemicals, biological agents or toxins or similar substances; or
       (ii) radiation or radioactive material
-  - **facility** and have the meanings referred to in section 44(5)
+  - **facility** has the meaning referred to in section 44(5)
   - **Financing Convention** means the International Convention for the Suppression of the Financing of Terrorism, adopted by the General Assembly of the United Nations at New York on 9 December 1999, a copy of the English text of which is set out in Schedule 2
-  - **financing of terrorism** —
-    (a) means an offence against section 8(1) or (2A); but
+  - **financing of, or provision of material support for, terrorism** —
+    (a) means an offence against section 8(1), (1A), (2A), or (2B); but
     (b) despite paragraph (a), in sections 18, 68, and 69, means an offence of that kind involving a terrorist act of a kind referred to in section 5(1)﻿(b) or (c)
   - **funds** —
     (a) means assets of every kind, whether tangible or intangible, moveable or immoveable, however acquired; and
@@ -64,8 +80,28 @@ The purpose of this Act is—
     (b) the Government Communications Security Bureau
     (c)
   - **international organisation** means any organisation of States or Governments of States, or any organ or agency of any organisation of that kind
+  - **ISIL (Da’esh)** means the splinter group of Al-Qaida known as the Islamic State in Iraq and the Levant (ISIL), also known as the Islamic State in Iraq and al Sham (ISIS), and also known as Da’esh
+  - **ISIL (Da’esh) and Al-Qaida Sanctions Resolutions** means Resolution 1267 (1999) of the Security Council of the United Nations, adopted under Chapter VII of the United Nations Charter on 15 October 1999 and its successor resolutions, including, without limitation,—
+    (a) Resolution 1333 (2000) adopted on 19 December 2000; and
+    (b) Resolution 1390 (2002) adopted on 16 January 2002; and
+    (c) Resolution 1989 (2011) adopted on 17 June 2011; and
+    (d) Resolution 2170 (2014) adopted on 15 August 2014; and
+    (e) Resolution 2253 (2015) adopted on 17 December 2015
+  - **ISIL (Da’esh) entity** , for a measure that is set out, or referred to, in 1 or more ISIL (Da’esh) and Al-Qaida Sanctions Resolutions, and that is provided for in this Act, means ISIL (Da’esh), or an entity that is not ISIL (Da’esh) but is designated, by or under those resolutions, as an entity that is—
+    (a) associated with ISIL (Da’esh); and
+    (b) an entity to which that measure is to be applied
   - **make available** has the meaning given to it in section 10(6)
   - **manufacture** means any process, including reprocessing, that produces plastic explosives
+  - **material support** —
+    (a) means support that does, or may, assist in, contribute to, or make easier, the carrying out of 1 or more terrorist acts; and
+    (b) includes, without limiting the generality of paragraph (a), support that complies with that paragraph and that is all or any of the following:
+      (i) advice given in making available financial or related services, or financial or related services:
+      (ii) other advice, or other services, derived from acquired skills or knowledge (for example, agency, brokerage, translation, driving or pilotage, or training to impart skills):
+      (iii) equipment, information, technology, or other property or resources (for example, false documentation or identification, communications equipment, facilities, weapons, lethal substances, explosives, or personnel (the assistance or efforts of 1 or more individuals who may be or include oneself)):
+      (iv) accommodation, lodging, stockpiling, or storage:
+      (v) transportation; but
+    (c) for the purposes of section 8 and of any other legislation that mentions section 8, excludes (despite paragraphs (a) and (b) of this definition) support specified in section 8(5)
+  - **New Zealand** includes all waters within the outer limits of the territorial sea of New Zealand (as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977)
   - **nuclear facility** means—
     (a) a nuclear reactor, including a reactor installed in or on any vessel, vehicle, aircraft, or space object for use as an energy source in order to propel the vessel, vehicle, aircraft, or space object or for any other purpose; or
     (b) a plant or conveyance—
@@ -97,9 +133,12 @@ The purpose of this Act is—
   - **relevant place, facility, or system** has the meaning given to it in section 7(2)
   - **relevant State** has the meaning given to it in section 66(3)
   - **relevant States Parties** has the meaning given to it in section 63(2)
+  - **reporting entity** has the meaning referred to in section 44(5)
   - **Resolution 1267** means Resolution 1267 (1999) of the Security Council of the United Nations, adopted under Chapter VII of the United Nations Charter on 15 October 1999, a copy of the English text of which is set out in Schedule 4A
   - **Resolution 1333** means Resolution 1333 (2000) of the Security Council of the United Nations, adopted under Chapter VII of the United Nations Charter on 19 December 2000, a copy of the English text of which is set out in Schedule 4B
   - **Resolution 1390** means Resolution 1390 (2002) of the Security Council of the United Nations, adopted under Chapter VII of the United Nations Charter on 16 January 2002, a copy of the English text of which is set out in Schedule 4C
+  - **Resolution 2178 (2014)** means Resolution 2178 (2014) of the Security Council of the United Nations, adopted under Chapter VII of the United Nations Charter on 24 September 2014, a copy of which is set out in Schedule 4D
+  - **service** has the meaning referred to in section 44(5)
   - **specified agency** means—
     (a) an intelligence and security agency; or
     (b) the New Zealand Police
@@ -109,12 +148,16 @@ The purpose of this Act is—
     (b) members of the executive, legislative, or judicial branch of the Government of a State:
     (c) employees or officials of a State, or of any other public authority or entity:
     (d) employees or officials of an intergovernmental organisation
+  - **suspicious activity report** has the meaning referred to in section 44(5)
   - **suspicious property report** means a report under section 43 and that (except as provided in section 44(2)) contains the details specified in Schedule 5
-  - **suspicious transaction report** has the meaning referred to in section 44(5)
   - **Taliban** means the Afghan faction known as the Taliban, which also calls itself the Islamic Emirate of Afghanistan
-  - **Taliban entity** , for a measure that is set out, or referred to, in 1 or more Al-Qaida and the Taliban Sanctions Resolutions, and that is provided for in this Act, means an entity that—
-    (a) is not Usama bin Laden, an Al-Qaida entity, or the Taliban; but
+  - **Taliban entity** , for a measure that is set out, or referred to, in 1 or more Taliban Sanctions Resolutions, and that is provided for in this Act, means an entity that—
+    (a) is not Al-Qaida, an Al-Qaida entity, or the Taliban; but
     (b) is designated, by or under those resolutions, as an entity to which that measure is to be applied
+  - **Taliban Sanctions Resolutions** means Resolution 1267 (1999) of the Security Council of the United Nations, adopted under Chapter VII of the United Nations Charter on 15 October 1999, and its successor resolutions, including, without limitation,—
+    (a) Resolution 1333 (2000) adopted on 19 December 2000; and
+    (b) Resolution 1390 (2002) adopted on 16 January 2002; and
+    (c) Resolution 1988 (2011) adopted on 17 June 2011
   - **terrorist act** is defined in section 5(1)
   - **terrorist act in armed conflict** means an act—
     (a) that occurs in a situation of armed conflict; and
@@ -124,10 +167,12 @@ The purpose of this Act is—
   - **terrorist bombing** means an offence against section 7(1)
   - **transaction** has the meaning referred to in section 44(5)
   - **United Nations listed terrorist entity** means an entity that is—
-    (a) Usama bin Laden; or
+    (a) Al-Qaida; or
     (b) an Al-Qaida entity; or
     (c) the Taliban; or
-    (d) a Taliban entity
+    (d) a Taliban entity; or
+    (e) ISIL (Da’esh); or
+    (f) an ISIL (Da’esh) entity
   - **unmarked** , in relation to a plastic explosive, means that has not had introduced into it at manufacture, in accordance with the technical annex to the Plastic Explosives Convention, a detection agent listed in Part 2 of that annex.
 (2) For the purposes of this Act, a person must be treated as being ordinarily resident in New Zealand if—
   (a) the person's home is in New Zealand; or
@@ -140,19 +185,35 @@ The purpose of this Act is—
   (a) the act falls within subsection (2); or
   (b) the act is an act against a specified terrorism convention (as defined in section 4(1)); or
   (c) the act is a terrorist act in armed conflict (as defined in section 4(1)).
-(2) An act falls within this subsection if it is intended to cause, in any 1 or more countries, 1 or more of the outcomes specified in subsection (3), and is carried out for the purpose of advancing an ideological, political, or religious cause, and with the following intention:
-  (a) to induce terror in a civilian population; or
-  (b) to unduly compel or to force a government or an international organisation to do or abstain from doing any act.
+(2) An act falls within this subsection if it is intended to cause, in any 1 or more countries, 1 or more of the outcomes specified in subsection (3), and is carried out for 1 or more purposes that are or include advancing an ideological, political, or religious cause, and with the following intention:
+  (a) to intimidate a population; or
+  (b) to coerce or to force a government or an international organisation to do or abstain from doing any act.
 (3) The outcomes referred to in subsection (2) are—
   (a) the death of, or other serious bodily injury to, 1 or more persons (other than a person carrying out the act):
   (b) a serious risk to the health or safety of a population:
   (c) destruction of, or serious damage to, property of great value or importance, or major economic loss, or major environmental damage, if likely to result in 1 or more outcomes specified in paragraphs (a), (b), and (d):
-  (d) serious interference with, or serious disruption to, an infrastructure facility, if likely to endanger human life:
-  (e) introduction or release of a disease-bearing organism, if likely to devastate the national economy of a country.
+  (d) serious interference with, or serious disruption to, critical infrastructure, if likely to endanger human life:
+  (e) introduction or release of a disease-bearing organism, if likely to cause major damage to the national economy of a country.
 (4) However, an act does not fall within subsection (2) if it occurs in a situation of armed conflict and is, at the time and in the place that it occurs, in accordance with rules of international law applicable to the conflict.
 (5) To avoid doubt, the fact that a person engages in any protest, advocacy, or dissent, or engages in any strike, lockout, or other industrial action, is not, by itself, a sufficient basis for inferring that the person—
   (a) is carrying out an act for a purpose, or with an intention, specified in subsection (2); or
   (b) intends to cause an outcome specified in subsection (3).
+
+### 5A Carrying out and facilitating terrorist acts
+Carrying out includes preparations, credible threats, and attempts
+(1) For the purposes of this Act, a terrorist act is carried out if any 1 or more of the following occurs:
+  (a) planning or other preparations to carry out the act, whether it is actually carried out or not:
+  (b) a credible threat to carry out the act, whether it is actually carried out or not:
+  (c) an attempt to carry out the act:
+  (d) the carrying out of the act.
+Facilitation requires some actual knowledge
+(2) For the purposes of this Act, a terrorist act is facilitated only if the facilitator knows that a terrorist act is facilitated, but this does not require that—
+  (a) the facilitator knows that any specific terrorist act is facilitated:
+  (b) any specific terrorist act was foreseen or planned at the time it was facilitated:
+  (c) any terrorist act was actually carried out.
+
+### 5B Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 6 Act binds the Crown
 This Act binds the Crown.
@@ -161,9 +222,31 @@ This Act binds the Crown.
 
 **Terrorist act**
 
-### 6A Terrorist act
-(1) A person commits an offence who engages in a terrorist act.
-(2) A person who commits a terrorist act is liable on conviction to imprisonment for life or a lesser term.
+### 6A Terrorist act: credible threat, attempt, and carrying out
+Offence
+(1) A person commits an offence if the person carries out a terrorist act.
+Meaning, in subsection (1), of carried out
+(2) In subsection (1), carried out, in relation to a terrorist act, has, despite section 5A(1), only the meaning given in section 5A(1)﻿(b), (c), and (d).
+Effect of subsection (1) applying to attempt
+(3) However, subsection (1) applying to an attempt to carry out the act (within the meaning of section 5A(1)﻿(c)) means only that the person may under section 72 of the Crimes Act 1961 be guilty of an attempt to commit the offence in that subsection as it applies to the carrying out of the act (within the meaning of section 5A(1)﻿(d)).
+Penalty
+(4) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for life or a lesser term.
+(5) A person who attempts to commit the offence in subsection (1) as it applies to the carrying out of the act (within the meaning of section 5A(1)﻿(d)) is under section 311(1) of the Crimes Act 1961 liable to imprisonment for a term not exceeding 10 years.
+
+### 6B Terrorist act: planning or other preparations to carry out
+Offence
+(1) A person commits an offence if the person carries out a terrorist act (within the meaning of section 5A(1)﻿(a)) by planning or other preparations to carry out the act, whether it is actually carried out or not.
+(2) Subsection (1) applies only to planning done that is, or to other preparations made that are,—
+  (a) not carrying out a terrorist act within the meaning given in section 5A(1)﻿(b), (c), and (d); and
+  (b) for the purposes of section 72(2) of the Crimes Act 1961, too remote to constitute an attempt to commit an offence against section 6A(1).
+(3) In a prosecution for an offence against subsection (1), the prosecutor—
+  (a) must prove that the planning done is, or the other preparations made are, for an act that is, or if it were actually carried out would be, a terrorist act as defined in section 5(1)﻿(a), (b), or (c); and
+  (b) in particular, if that act falls within section 5(2) (in a case to which section 5(1)﻿(a) applies), must prove the intention and purpose elements in section 5(2) and (3); but
+  (c) in a case to which section 5(1)﻿(a), (b), or (c) applies, need not prove a specific target, location, date, or time for that act.
+Penalty
+(4) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 7 years.
+Conspiring to commit offence, and attempt to commit or procure commission
+(5) Sections 72, 310, and 311 of the Crimes Act 1961 do not apply to an offence against subsection (1).
 
 **Terrorist bombing**
 
@@ -182,12 +265,42 @@ This Act binds the Crown.
 
 **Financing of terrorism**
 
-### 8 Financing of terrorism
-(1) A person commits an offence who, directly or indirectly, wilfully and without lawful justification or reasonable excuse, provides or collects funds intending that they be used, or knowing that they are to be used, in full or in part, in order to carry out 1 or more acts of a kind that, if they were carried out, would be 1 or more terrorist acts.
+### 8 Financing of, or provision of material support for, terrorism
+Wilful provision or collection of funds for use to carry out terrorist acts
+(1) A person commits an offence if the person provides or collects funds—
+  (a) directly or indirectly; and
+  (b) wilfully; and
+  (c) without lawful justification or reasonable excuse; and
+  (d) intending that the funds be used, or knowing that, or being reckless about whether, they will be used, in full or in part, in order to carry out 1 or more acts of a kind that, if they were carried out, would be 1 or more terrorist acts.
+Wilful provision of material support for use to carry out terrorist acts
+(1A) A person commits an offence if the person provides material support—
+  (a) directly or indirectly; and
+  (b) wilfully; and
+  (c) without lawful justification or reasonable excuse; and
+  (d) intending that the support be used, or knowing that, or being reckless about whether, it is to be used, in full or in part, in order to carry out 1 or more acts of a kind that, if they were carried out, would be 1 or more terrorist acts.
 (2)
-(2A) A person commits an offence who, directly or indirectly, wilfully and without lawful justification or reasonable excuse, provides or collects funds intending that they benefit, or knowing that they will benefit, an entity that the person knows is an entity that carries out, or participates in the carrying out of, 1 or more terrorist acts.
-(3) In a prosecution for financing of terrorism, it is not necessary for the prosecutor to prove that the funds collected or provided were actually used, in full or in part, to carry out a terrorist act.
-(4) A person who commits financing of terrorism is liable on conviction to imprisonment for a term not exceeding 14 years.
+Wilful provision or collection of funds for use by entity known to carry out or participate in carrying out of terrorist acts
+(2A) A person commits an offence if the person provides or collects funds—
+  (a) directly or indirectly; and
+  (b) wilfully; and
+  (c) without lawful justification or reasonable excuse; and
+  (d) intending that the funds be used, or knowing that, or being reckless about whether, they will be used, by an entity that the person knows is an entity that carries out, or participates in the carrying out of, 1 or more terrorist acts.
+Wilful provision of material support for use by entity known to carry out or participate in carrying out of terrorist acts
+(2B) A person commits an offence if the person provides material support—
+  (a) directly or indirectly; and
+  (b) wilfully; and
+  (c) without lawful justification or reasonable excuse; and
+  (d) intending that the material support be used, or knowing that, or being reckless about whether, it will be used, by an entity that the person knows is an entity that carries out, or participates in the carrying out of, 1 or more terrorist acts.
+Funds or material support need not be used to carry out terrorist act
+(3) In a prosecution for financing of, or provision of material support for, terrorism, it is not necessary for the prosecutor to prove that the funds or material support collected or provided were or was actually used, in full or in part, to carry out a terrorist act.
+Penalty
+(4) A person who commits financing of, or provision of material support for, terrorism is liable on conviction to imprisonment for a term not exceeding—
+  (a) 14 years, if the mental element under subsection (1)﻿(d), (1A)﻿(d), (2A)﻿(d), or (2B)﻿(d) is intention:
+  (b) 10 years, if the mental element under subsection (1)﻿(d), (1A)﻿(d), (2A)﻿(d), or (2B)﻿(d) is knowledge or recklessness.
+Material support excludes humanitarian support to satisfy basic needs
+(5) For the purposes of this section and of any other legislation that mentions this section, material support excludes, despite paragraphs (a) and (b) of the definition of that term in section 4(1), support that does, or may do, no more than provide support necessary to satisfy basic needs of those to whom, or for whose benefit, it is provided—
+  (a) in good faith for genuine humanitarian reasons; and
+  (b) impartially or neutrally as between people who have those needs.
 
 **Dealing with property**
 
@@ -195,9 +308,9 @@ This Act binds the Crown.
 (1) A person commits an offence who, without lawful justification or reasonable excuse, deals with any property knowing that the property is—
   (a) property owned or controlled, directly or indirectly, by a designated terrorist entity; or
   (b) property derived or generated from any property of the kind specified in paragraph (a).
-(2) For the purposes of subsection (1), examples of a reasonable excuse for dealing with property referred to in those provisions are—
-  (a) where the dealing with the property comprises an act that does no more than satisfy essential human needs of (or of a dependant of) an individual designated under this Act:
-  (b) where a financial institution acts to freeze assets of a designated terrorist entity.
+(2) For the purposes of subsection (1), examples of a reasonable excuse for dealing with property referred to in subsection (1) are—
+  (a) where the dealing with the property comprises an act that does no more than satisfy basic needs of (or of a dependant of) an individual designated under this Act:
+  (b) where a reporting entity acts to freeze assets of a designated terrorist entity.
 (3) Subsection (1) does not apply—
   (a) if the Prime Minister has, under section 11, authorised the dealing with the property; or
   (b) if the property concerned is the subject of a direction under section 48 and the dealing concerned forms part of the exercise by the Official Assignee of his or her powers under section 80 of the Criminal Proceeds (Recovery) Act 2009 (as modified and applied by section 51(a)).
@@ -205,18 +318,21 @@ This Act binds the Crown.
 (5)
 (6) A reference in the definition of deal with in section 4 to the transfer of property that is a security includes a reference to a transfer of the security by way of loan, mortgage, pledge, or bailment, whether in respect of a legal or an equitable interest.
 
-**Making property, or financial or related services, available**
+**Making property, or material support, available**
 
-### 10 Prohibition on making property, or financial or related services, available to designated terrorist entity
-(1) A person commits an offence who makes available, or causes to be made available, directly or indirectly, without lawful justification or reasonable excuse, any property, or any financial or related services, either to, or for the benefit of, an entity, knowing that the entity is a designated terrorist entity.
+### 10 Prohibition on making property, or material support, available to designated terrorist entity
+(1) A person commits an offence if the person makes available, or causes to be made available, to, or for the benefit of, a designated terrorist entity, any property, or any material support,—
+  (a) directly or indirectly; and
+  (b) without lawful justification or reasonable excuse; and
+  (c) knowing that, or being reckless about whether, the entity is a designated terrorist entity.
 (2)
-(3) An example of making property available with a reasonable excuse, for the purposes of subsection (1), is where the property (for example, items of food, clothing, or medicine) is made available in an act that does no more than satisfy essential human needs of (or of a dependant of) an individual designated under this Act.
-(4) Subsection (1) does not apply if the Prime Minister has, under section 11, authorised the making available of the property or services.
-(5) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 7 years.
-(6) In this section, make available, in relation to any property or services, means to make the property or services available in any way and by any means (for example, to send, transfer, deliver, or provide the property or services).
+(3) An example of making property available with a reasonable excuse, for the purposes of subsection (1), is where the property (for example, items of food, clothing, or medicine) is made available in an act that does no more than satisfy basic needs of (or of a dependant of) an individual designated under this Act.
+(4) Subsection (1) does not apply if the Prime Minister has, under section 11, authorised the making available of the property or support.
+(5) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 10 years.
+(6) In this section, make available, in relation to any property or support, means to make the property or support available in any way and by any means (for example, to send, transfer, deliver, or provide the property or support).
 (7) A reference in subsection (6) to the transfer of property that is a security includes a reference to a transfer of the security by way of loan, mortgage, pledge, or bailment, whether in respect of a legal or an equitable interest.
 
-**Authorisations to deal with property, or to make property, or financial or related services, available**
+**Authorisations to deal with property, or to make property, or material support, available**
 
 ### 11 Authorisations by Prime Minister
 (1) The Prime Minister may, by notice in writing, permit any activity or transaction or class or classes of activities or transactions that would otherwise be prohibited by section 9(1) or section 10(1).
@@ -244,6 +360,19 @@ This Act binds the Crown.
   (b) an entity that carries out, or participates in the carrying out of, 1 or more terrorist acts.
 (2) The purpose referred to in subsection (1) is to enhance the ability of any entity (being an entity of the kind referred to in subsection (1)﻿(a) or (b)) to carry out, or to participate in the carrying out of, 1 or more terrorist acts.
 (3) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 14 years.
+
+**Weapons training or combat training for terrorist purposes**
+
+### 13AA Providing or receiving weapons training or combat training for terrorist purposes
+Offence
+(1) A person commits an offence if the person—
+  (a) provides or receives weapons training or combat training; and
+  (b) knows that the training is provided or received for purposes that are or include 1 or both of the following purposes:
+    (i) to carry out 1 or more terrorist acts (whether any or all of them are actually carried out or not):
+    (ii) to enhance the ability of any entity to carry out, or to participate in the carrying out of, 1 or more terrorist acts (whether any or all of them are actually carried out or not).
+(2) In a prosecution for an offence against subsection (1), the prosecutor need not prove a specific target, location, date, or time for the 1 or more terrorist acts referred to in subsection (1)﻿(b)﻿(i) or (ii).
+Penalty
+(3) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 7 years.
 
 **Harbouring or concealing terrorists**
 
@@ -306,11 +435,57 @@ A person commits an offence and is liable on conviction to a term of imprisonmen
     (ii) uses or damages or threatens to use or damage a nuclear facility.
 (2) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 10 years, or a fine not exceeding $500,000, or both.
 
+**Travelling intending to commit specified offence**
+
+### 13F Travelling intending to commit specified offence
+Offence
+(1) A person commits an offence if the person—
+  (a) travels (by any means) to, from, or via New Zealand; and
+  (b) does so intending to do anything that, if done wholly in New Zealand, would be a specified offence.
+Travel to, from, or via New Zealand
+(2) A person is taken to have travelled to New Zealand, for the purposes of subsection (1), if the person, for the purpose of arriving in New Zealand,—
+  (a) disembarks from a craft through a Customs place; or
+  (b) disembarks from a craft and reports to a Customs officer, to a Police station, or to any other place as directed by a Customs officer.
+(3) A person is taken to have travelled from New Zealand, for the purposes of subsection (1) (see also subsection (8)﻿(a)), if the person, for the purpose of departing from New Zealand,—
+  (a) goes towards a craft through a Customs place; or
+  (b) goes towards a craft as otherwise authorised by the chief executive of the New Zealand Customs Service, a Customs officer, the Customs and Excise Act 2018, or regulations made under that Act.
+(4) A person is taken to have travelled via New Zealand, for the purposes of subsection (1) (see also subsection (8)﻿(a)), if the person, for the purpose of travelling via New Zealand,—
+  (a) disembarks from a craft through a Customs place; or
+  (b) disembarks from a craft and reports to a Customs officer, to a Police station, or to any other place as directed by a Customs officer.
+(5) Subsections (2) to (4) do not affect or limit—
+  (a) the generality of subsection (1) or (8)﻿(a); or
+  (b) a prosecutor proving, without relying on subsection (2), (3), or (4), that a person has travelled to, from, or via New Zealand.
+(6) In subsections (2) to (4), Customs officer and Customs place have the meanings given to them in section 5(1) of the Customs and Excise Act 2018.
+Specified offence
+(7) In this section, specified offence means an offence against all or any of the following:
+  (a) section 6A (terrorist act: credible threat and carrying out (but excluding an attempt)):
+  (b) section 6B (terrorist act: planning or other preparations to carry out):
+  (c) section 7 (terrorist bombing):
+  (d) section 8 (financing of, or provision of material support for, terrorism):
+  (e) section 9 (prohibition on dealing with property of, or derived or generated from property of, designated terrorist entity):
+  (f) section 10 (prohibition on making property, or material support, available to designated terrorist entity):
+  (g) section 12 (recruiting members of terrorist groups):
+  (h) section 13 (participating in terrorist groups):
+  (i) section 13AA (providing or receiving weapons training or combat training for terrorist purposes):
+  (j) section 13A (harbouring or concealing terrorists):
+  (k) section 13B (offences involving use and movement of unmarked plastic explosives):
+  (l) section 13C (offences involving physical protection of nuclear material):
+  (m) section 13D (importation, acquisition, etc, of radioactive material):
+  (n) section 13E (offences involving radioactive material and radioactive devices).
+Application of offence
+(8) Subsection (1) applies regardless of whether—
+  (a) the person, if travelling from, or via, New Zealand, departs from their original location, or reaches their intended ultimate destination:
+  (b) the person has the intention mentioned in subsection (1)﻿(b) at any time or times, or at all times, during the travel concerned:
+  (c) the person intends to do wholly or in part in New Zealand, or wholly outside New Zealand, the thing that, if done in New Zealand, would be a specified offence:
+  (d) the person does the thing that, if done wholly in New Zealand, would be a specified offence.
+Penalty
+(9) A person who commits an offence against subsection (1) is liable on conviction to the highest of the applicable maximum penalties specified in Schedule 4E.
+
 **Extraterritorial jurisdiction**
 
 ### 14 Offences also apply in certain cases outside New Zealand
-(1) Each of sections 7 to 13 and 13B to 13E applies in respect of acts that occurred wholly outside New Zealand, as provided in sections 15 to 18.
-(2) Subsection (1) does not affect the application of sections 7 to 13 in respect of—
+(1) Each of sections 6A to 13F applies in respect of acts that occurred wholly outside New Zealand, as provided in sections 15 to 18.
+(2) Subsection (1) does not affect the application of sections 6A to 13F in respect of—
   (a) acts that occurred wholly within New Zealand; or
   (b) an offence that, under section 7 of the Crimes Act 1961, is deemed to be committed in New Zealand; or
   (c) acts that, under section 8A of that Act, are deemed to have taken place within New Zealand.
@@ -324,7 +499,7 @@ Proceedings may be brought in a New Zealand court for any offence against this A
     (ii) for the time being used as an aircraft of the New Zealand Defence Force:
   (d) by any other person on board any ship—
     (i) registered under the Ship Registration Act 1992; or
-    (ii) not registered under that Act but required to be registered under that Act; or
+    (ii) not registered under that Act but required or entitled to be registered under that Act; or
     (iii) for the time being used as a ship of the New Zealand Defence Force.
 
 ### 16 Further acts outside New Zealand to which terrorist bombing applies
@@ -333,15 +508,20 @@ Proceedings may also be brought in a New Zealand court for terrorist bombing if 
   (b) against a State or government facility of New Zealand abroad (for example, a New Zealand embassy, or other New Zealand diplomatic or consular premises); or
   (c) in an attempt to compel the Government of New Zealand to do or abstain from doing any act.
 
-### 17 Further acts outside New Zealand to which financing of terrorism applies
-Proceedings may also be brought in a New Zealand court for financing of terrorism if the acts alleged to constitute the offence occurred wholly outside New Zealand, but were directed towards, or resulted in, 1 or more terrorist acts being done—
+### 17 Further acts outside New Zealand to which financing of, or provision of material support for, terrorism applies
+Proceedings may also be brought in a New Zealand court for financing of, or provision of material support for, terrorism if the acts alleged to constitute the offence occurred wholly outside New Zealand, but were directed towards, or resulted in, 1 or more terrorist acts being carried out (as defined in sections 4(1) and 5A(1))—
   (a) within New Zealand; or
   (b) against a New Zealand citizen; or
   (c) against a State or government facility of New Zealand abroad (for example, New Zealand diplomatic or consular premises); or
   (d) in an attempt to compel the Government of New Zealand to do or abstain from doing any act.
 
 ### 18 Offences also apply to acts outside New Zealand if alleged offender is in New Zealand and is not extradited
-Even if the acts alleged to constitute the offence occurred wholly outside New Zealand, proceedings may be brought for terrorist bombing, financing of terrorism, a nuclear terrorism offence, or a nuclear material offence if the person to be charged has been found in New Zealand and has not been extradited.
+(1) Even if the acts alleged to constitute the offence occurred wholly outside New Zealand, proceedings may be brought for a specified offence if the person to be charged has been found in New Zealand and has not been extradited.
+(2) In this section, a specified offence means an offence that is—
+  (a) terrorist bombing; or
+  (b) financing of, or provision of material support for, terrorism; or
+  (c) a nuclear terrorism offence; or
+  (d) a nuclear material offence.
 
 ### 19 Application of Crimes Act 1961
 The following sections of the Crimes Act 1961 do not apply in respect of any offence against this Act (except one against section 43 or section 47 or section 47G):
@@ -419,15 +599,7 @@ An entity may be designated under section 20 or section 22 whether or not any of
   (c) property derived or generated from any property of the kind referred to in paragraph (b).
 
 ### 25 Carrying out and facilitating terrorist acts
-(1) For the purposes of this Act, a terrorist act is carried out if any 1 or more of the following occurs:
-  (a) planning or other preparations to carry out the act, whether it is actually carried out or not:
-  (b) a credible threat to carry out the act, whether it is actually carried out or not:
-  (c) an attempt to carry out the act:
-  (d) the carrying out of the act.
-(2) For the purposes of this Act, a terrorist act is facilitated only if the facilitator knows that a terrorist act is facilitated, but this does not require that—
-  (a) the facilitator knows that any specific terrorist act is facilitated:
-  (b) any specific terrorist act was foreseen or planned at the time it was facilitated:
-  (c) any terrorist act was actually carried out.
+[Repealed]
 
 ### 26 Content of notice to designated entity
 A notice under section 21(d)﻿(i) or section 23(f)﻿(i) (to notify the designated entity of the making of the designation under section 20 or section 22)—
@@ -454,7 +626,7 @@ A notice under section 21(d)﻿(i) or section 23(f)﻿(i) (to notify the designa
 (1) The Prime Minister may, for the purposes of section 21(c)﻿(ii) or section 23(e)﻿(ii), direct that the making of a designation under section 20 or section 22 be publicly notified (other than by notice in the Gazette, and either in the prescribed manner or form or both (if any) or in any other manner or form or both that the Prime Minister thinks fit).
 (2) The Prime Minister may, for the purposes of section 21(d)﻿(ii) or section 23(f)﻿(ii), direct that notice of the making of a designation under section 20 or section 22 be given (either in the prescribed manner or in any other manner that the Prime Minister thinks fit) to any persons or bodies that the Prime Minister thinks fit (for example, to any registered banks or other persons—
   (a) who may possess property which may be property to which section 9(1) relates; or
-  (b) who may make available property or services to which section 10(1) may relate).
+  (b) who may make available property or support to which section 10(1) may relate).
 
 ### 29 Designations not invalid for certain reasons
 No designation under section 20 or section 22 is invalid just because—
@@ -505,7 +677,7 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
   (b) by a third party with an interest in the designation that, in the Prime Minister's opinion, is an interest apart from any interest in common with the public.
 (2) Without limiting subsection (1)﻿(b), a party may have an interest in a designation apart from any interest in common with the public through—
   (a) possessing or controlling, or having an interest in, property to which section 9 applies as a result of the designation; or
-  (b) making available property or services to which section 10 applies as a result of the designation; or
+  (b) making available property or support to which section 10 applies as a result of the designation; or
   (c) having an especially close association with the designated entity or its interests or objectives.
 (3) An application under subsection (1) for revocation of a designation must be based on the grounds—
   (a) that the designation should not stand because the entity concerned does not satisfy the test stated in section 20(1) or (3) or, as the case requires, in section 22(1) or (3); or
@@ -568,25 +740,25 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
 (1) This section applies to—
   (a) property owned or controlled, directly or indirectly, by a designated terrorist entity; and
   (b) property derived or generated from any property of the kind specified in paragraph (a).
-(2) A financial institution or other person in possession or immediate control of property that the financial institution or other person suspects on reasonable grounds is or may be property to which this section applies must, as soon as practicable after forming that suspicion, report it to the Commissioner of Police, in accordance with section 44.
+(2) A reporting entity or other person in possession or immediate control of property that the reporting entity or other person suspects on reasonable grounds is or may be property to which this section applies must, as soon as practicable after forming that suspicion, report it to the Commissioner of Police, in accordance with section 44.
 (3) Nothing in subsection (2) requires any lawyer to disclose any privileged communication (as defined in section 45).
 (4) Every person who knowingly contravenes subsection (2) commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year.
-(5) In this section, financial institution has the meaning referred to in section 44(5).
+(5) In this section, reporting entity has the meaning referred to in section 44(5).
 
 ### 44 Nature of suspicious property report
 (1) Except as provided in subsection (2), every report under section 43 must—
   (a) contain the details specified in Schedule 5; and
-  (b) if made by a financial institution or by a reporting entity, be signed by someone authorised to sign reports under section 43 on behalf of the financial institution or the reporting entity (unless the report is forwarded by email or another similar means of communication); and
+  (b) if made by a reporting entity, be signed by someone authorised to sign reports under section 43 on behalf of the reporting entity (unless the report is forwarded by email or another similar means of communication); and
   (c) if made by any other person, be signed by the person or by someone authorised to sign reports under section 43 on behalf of the person (unless the report is forwarded by email or another similar means of communication); and
   (d) be forwarded, in writing, to the Commissioner of Police at Police National Headquarters at Wellington—
     (i) by way of transmission by fax; or
-    (ii) by another means (including, without limitation, by email or another similar means of communication) that may be agreed from time to time between that Commissioner and the financial institution or reporting entity, as the case may be, or person concerned.
-(2) However, if the urgency of the situation requires, a report under section 43 may be made orally to any constable authorised for the purpose by the Commissioner of Police, but in any case of that kind the financial institution or the reporting entity or other person must, as soon as practicable, forward to that Commissioner a report that complies with the requirements of subsection (1).
+    (ii) by another means (including, without limitation, by email or another similar means of communication) that may be agreed from time to time between that Commissioner and the reporting entity or person concerned.
+(2) However, if the urgency of the situation requires, a report under section 43 may be made orally to any constable authorised for the purpose by the Commissioner of Police, but in any case of that kind the reporting entity or other person must, as soon as practicable, forward to that Commissioner a report that complies with the requirements of subsection (1).
 (3) The Commissioner of Police may confer the authority to receive a report under subsection (2) on any specified constable or on constables of any specified level of position or class, or on any constable or constables for the time being holding any specified office or specified class of offices.
-(4) If a report under section 43 is made by or on behalf of a financial institution or reporting entity in respect of property that came into the possession or immediate control of the financial institution or reporting entity through a transaction conducted or proposed to be conducted through the financial institution or reporting entity, the financial institution or reporting entity need not make a suspicious activity report in respect of the transaction or proposed transaction unless asked to do so by or on behalf of the Commissioner of Police.
+(4) If a report under section 43 is made by or on behalf of a reporting entity in respect of property that came into the possession or immediate control of the reporting entity through a transaction or a service conducted or proposed to be conducted through the reporting entity, the reporting entity need not make a suspicious activity report in respect of the transaction or proposed transaction or service or proposed service unless asked to do so by or on behalf of the Commissioner of Police.
 (5) In this section, section 47, and Schedule 5,—
-  (a) in the case of a financial institution to which the Financial Transactions Reporting Act 1996 applies, facility, financial institution, suspicious activity report, and transaction have the meanings given to them in section 2(1) of that Act; and
-  (b) in the case of a reporting entity to which the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 applies, facility, reporting entity, suspicious activity report, and transaction have the meanings given to them in section 5 of that Act.
+  (a) facility, reporting entity, suspicious activity report, and transaction have the meanings given to them in section 5 of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; and
+  (b) service has the meaning given to it in section 39A of that Act.
 
 ### 45 Privileged communication defined
 (1) For the purposes of section 43(3), a communication is a privileged communication only if—
@@ -613,7 +785,7 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
 (1) This section applies in respect of the following information:
   (a) any report under section 43:
   (b) any information the disclosure of which will identify, or is reasonably likely to identify, any person—
-    (i) as a person who, in his or her capacity as an officer, employee, or agent of a financial institution or reporting entity, has handled or identified property that was the subject of a report under section 43; or
+    (i) as a person who, in his or her capacity as an officer, employee, or agent of a reporting entity, has handled or identified property that was the subject of a report under section 43; or
     (ii) as a person who has prepared a report under section 43; or
     (iii) as a person who has made a report under section 43:
   (c) any information that discloses or is reasonably likely to disclose the existence of a report under section 43.
@@ -628,8 +800,8 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
 (1) A Customs officer or authorised person may, without warrant, seize and detain goods if—
   (a) the goods came to his or her attention, or into his or her possession, during a search, inspection, audit, or examination under—
     (i) the Customs and Excise Act 2018; or
-    (ia) subpart 6 of Part 2 and sections 114 and 115 of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; or
-    (ii) Part 5 of the Financial Transactions Reporting Act 1996 (which relates to reporting of imports and exports of cash); and
+    (ia) subpart 6 of Part 2 and sections 114 and 115 of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; and
+    (ii)
   (b) the goods are in New Zealand and he or she is satisfied that they either—
     (i) are being, or are intended to be, exported from New Zealand; or
     (ii) are being, or have been, imported into New Zealand; and
@@ -643,8 +815,8 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
   - **authorised person** , , , , , , and have the meanings given to them in section 5(1) of the Customs and Excise Act 2018
   - **cash equivalents** includes (without limitation) bearer bonds, gemstones, money orders, postal notes, precious metals, and travellers cheques.
 
-### 47B Return of cash necessary to satisfy essential human needs
-(1) The power to detain goods under section 47A does not extend to, and the Customs must if practicable return immediately, cash seized under section 47A if the Customs is satisfied that the cash is (or that things for which it might be exchanged are) necessary to satisfy the essential human needs—
+### 47B Return of cash necessary to satisfy basic needs
+(1) The power to detain goods under section 47A does not extend to, and the Customs must if practicable return immediately, cash seized under section 47A if the Customs is satisfied that the cash is (or that things for which it might be exchanged are) necessary to satisfy the basic needs—
   (a) of (or of a dependant of) an individual from whom the cash has been seized; and
   (b) arising on, or within 7 days after, the date on which the detention would otherwise be effected.
 (2) Nothing in subsection (1) requires the Customs to return any cash that the Customs is satisfied is not necessary for the purpose specified in that subsection.
@@ -660,7 +832,7 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
 (5) Nothing in section 47A limits or affects powers under the following Acts:
   (a) Customs and Excise Act 2018:
   (ab) Anti-Money Laundering and Countering Financing of Terrorism Act 2009:
-  (b) Financial Transactions Reporting Act 1996:
+  (b)
   (c) Mutual Assistance in Criminal Matters Act 1992:
   (d) Criminal Proceeds (Recovery) Act 2009.
 
@@ -804,8 +976,8 @@ The following sections of the Criminal Proceeds (Recovery) Act 2009 apply, with 
 The following sections of the Criminal Proceeds (Recovery) Act 2009 and the Sentencing Act 2002 apply, with the following (and all other necessary) modifications, to the making, effect, operation, and discharge of an order under section 55, as if the order were an instrument forfeiture order under section 142N of the Sentencing Act 2002:
   (a) sections 70, 72, and 73 of the Criminal Proceeds (Recovery) Act 2009 (which relate to the effect of the order) except that—
     (i) the reference in section 73(2) to the Official Assignee must be read as a reference to the Attorney-General, and the property may be disposed of or otherwise dealt with in accordance with any direction of the Attorney-General; and
-    (ii) references in section 73 to an instrument forfeiture order must be read as reference to an order under section 35(2) or section 55 of this Act:
-  (b) section 85 of the Criminal Proceeds (Recovery) Act 2009 (which relates to the Official Assignee discharging the order), except that the relevant appeal period in relation to the making of an order under section 35(2) or section 55 of this Act means the period ending—
+    (ii) references in section 73 to an instrument forfeiture order must be read as reference to an order under section 55 of this Act:
+  (b) section 85 of the Criminal Proceeds (Recovery) Act 2009 (which relates to the Official Assignee discharging the order), except that the relevant appeal period in relation to the making of an order under section 55 of this Act means the period ending—
     (i) when the time for bringing an appeal against the decision of the court expires, if no such appeal has been brought; or
     (ii) if an appeal against the decision of the court has been brought, when the appeal is finally determined or withdrawn, whichever occurs first:
   (c) section 142N(3)﻿(a), (4), and (5) of the Sentencing Act 2002 (which relate to the terms of the order and to any directions that are necessary and convenient for giving effect to it).
@@ -883,20 +1055,22 @@ If the measures taken under New Zealand law to ensure the person's presence for 
 (3) Despite subsections (1) and (2), nothing in this section applies in respect of an offence against section 43 or section 47 or section 47G.
 
 ### 68 Attorney-General to communicate outcome of prosecution
-If a person is prosecuted for terrorist bombing or financing of terrorism, the Attorney-General must communicate the final outcome of the proceedings promptly to the Secretary-General of the United Nations, so that he or she may transmit the information to other States Parties to the Bombings Convention or, as the case requires, the Financing Convention.
+If a person is prosecuted for terrorist bombing or financing of, or provision of material support for, terrorism, the Attorney-General must communicate the final outcome of the proceedings promptly to the Secretary-General of the United Nations, so that he or she may transmit the information to other States Parties to the Bombings Convention or, as the case requires, the Financing Convention.
 
 **Extradition**
 
 ### 69 Offences deemed to be included in extradition treaties
-(1) For the purposes of the Extradition Act 1999 and any Order in Council in force under section 15 or section 104 of that Act, terrorist bombing, financing of terrorism, and any nuclear material offence or nuclear terrorism offence are each, if not already described in the treaty, deemed to be an offence described in any extradition treaty concluded before the relevant date and for the time being in force between New Zealand and any country that is a party to any of the following conventions, or to which any of the following conventions extends:
+(1) For the purposes of the Extradition Act 1999 and any Order in Council in force under section 15 or section 104 of that Act, terrorist bombing, financing of, or provision of material support for, terrorism, and any nuclear material offence or nuclear terrorism offence are each, if not already described in the treaty, deemed to be an offence described in any extradition treaty concluded before the relevant date and for the time being in force between New Zealand and any country that is a party to any of the following conventions, or to which any of the following conventions extends:
   (a) the Bombings Convention; or
   (b) the Financing Convention; or
   (c) the Nuclear Material Convention; or
   (d) the Nuclear Terrorism Convention.
 (2) If under subsection (1) an offence is deemed to be an offence described in an extradition treaty, no person may be surrendered for the offence in accordance with the Extradition Act 1999 if the conduct alleged to constitute the offence occurred before the relevant date.
-(3) Subsection (2) does not prevent the person from being surrendered for an offence (other than terrorist bombing, financing of terrorism, a nuclear material offence, or a nuclear terrorism offence) described in the extradition treaty and constituted by conduct that also constitutes or may constitute terrorist bombing, financing of terrorism, a nuclear material offence, or a nuclear terrorism offence.
-(4) In this section, relevant date,—
-  (a) in relation to terrorist bombing or financing of terrorism, means 5 December 2002; and
+(3) Subsection (2) does not prevent the person from being surrendered for an offence (other than terrorist bombing, financing of, or provision of material support for, terrorism, a nuclear material offence, or a nuclear terrorism offence) described in the extradition treaty and constituted by conduct that also constitutes or may constitute terrorist bombing, financing of, or provision of material support for, terrorism, a nuclear material offence, or a nuclear terrorism offence.
+(4) In this section, relevant date means,—
+  (a) in relation to terrorist bombing, 5 December 2002; and
+  (aa) in relation to an offence against section 8(1A) or (2B), the commencement date of the Counter-Terrorism Legislation Act 2021; and
+  (ab) in relation to any other financing of, or provision of material support for, terrorism, 5 December 2002; and
   (b) in relation to a nuclear material offence, the date on which this section enters into force in relation to that offence; and
   (c) in relation to a nuclear terrorism offence, the date on which this section enters into force in relation to that offence.
 
@@ -922,7 +1096,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (b) prescribing methods for the giving or publication or service of notices, reports, or other documents required by this Act to be given or published or served:
   (c) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 
-**Revocations and saving and transitional provision**
+**Revocations**
 
 ### 74 Revocations
 (1) The United Nations Sanctions (Terrorism Suppression and Afghanistan Measures) Regulations 2001 (SR 2001/351) are revoked.
@@ -934,30 +1108,42 @@ The Governor-General may, by Order in Council, make regulations for all or any o
 **Amendment to Extradition Act 1999**
 
 ### 76 Amendment to Extradition Act 1999
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 **Amendment to Financial Transactions Reporting Act 1996**
 
 ### 77 Amendment to Financial Transactions Reporting Act 1996
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 **Amendment to Immigration Act 1987**
 
 ### 78 Amendment to Immigration Act 1987
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 **Amendments to Mutual Assistance in Criminal Matters Act 1992**
 
 ### 79 Schedule amended to refer to Bombings Convention
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 ### 80 Schedule amended to refer to Financing Convention
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 **Amendment to Proceeds of Crime Act 1991**
 
 ### 81 Amendment to Proceeds of Crime Act 1991
 [Repealed]
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Counter-Terrorism Legislation Act 2021
+
+### 1 Definitions
+In this Part,—
+  - **Amendment Act** means the Counter-Terrorism Legislation Act 2021
+  - **commencement** means the commencement of the Amendment Act.
+
+### 2 Amendments apply only to conduct after commencement
+The amendments made by the Amendment Act apply only to conduct after the commencement.
 
 ## Schedule 1 — International Convention for the Suppression of Terrorist Bombings
 
@@ -1051,35 +1237,150 @@ Protocol of 2005 to the Convention for the Suppression of Unlawful Acts Against 
 
 ## Schedule 4C — United Nations Security Council Resolution 1390 (2002)
 
+## Schedule 4D — United Nations Security Council Resolution 2178 (2014)
+
+### 1.
+Condemns the violent extremism, which can be conducive to terrorism, sectarian violence, and the commission of terrorist acts by foreign terrorist fighters, and demands that all foreign terrorist fighters disarm and cease all terrorist acts and participation in armed conflict;
+
+### 2.
+Reaffirms that all States shall prevent the movement of terrorists or terrorist groups by effective border controls and controls on issuance of identity papers and travel documents, and through measures for preventing counterfeiting, forgery or fraudulent use of identity papers and travel documents, underscores, in this regard, the importance of addressing, in accordance with their relevant international obligations, the threat posed by foreign terrorist fighters, and encourages Member States to employ evidence-based traveller risk assessment and screening procedures including collection and analysis of travel data, without resorting to profiling based on stereotypes founded on grounds of discrimination prohibited by international law;
+
+### 3.
+Urges Member States, in accordance with domestic and international law, to intensify and accelerate the exchange of operational information regarding actions or movements of terrorists or terrorist networks, including foreign terrorist fighters, especially with their States of residence or nationality, through bilateral or multilateral mechanisms, in particular the United Nations;
+
+### 4.
+Calls upon all Member States, in accordance with their obligations under international law, to cooperate in efforts to address the threat posed by foreign terrorist fighters, including by preventing the radicalization to terrorism and recruitment of foreign terrorist fighters, including children, preventing foreign terrorist fighters from crossing their borders, disrupting and preventing financial support to foreign terrorist fighters, and developing and implementing prosecution, rehabilitation and reintegration strategies for returning foreign terrorist fighters;
+
+### 5.
+Decides that Member States shall, consistent with international human rights law, international refugee law, and international humanitarian law, prevent and suppress the recruiting, organizing, transporting or equipping of individuals who travel to a State other than their States of residence or nationality for the purpose of the perpetration, planning, or preparation of, or participation in, terrorist acts or the providing or receiving of terrorist training, and the financing of their travel and of their activities;
+
+### 6.
+Recalls its decision, in resolution 1373 (2001), that all Member States shall ensure that any person who participates in the financing, planning, preparation or perpetration of terrorist acts or in supporting terrorist acts is brought to justice, and decides that all States shall ensure that their domestic laws and regulations establish serious criminal offenses sufficient to provide the ability to prosecute and to penalize in a manner duly reflecting the seriousness of the offense:
+(a) their nationals who travel or attempt to travel to a State other than their States of residence or nationality, and other individuals who travel or attempt to travel from their territories to a State other than their States of residence or nationality, for the purpose of the perpetration, planning, or preparation of, or participation in, terrorist acts, or the providing or receiving of terrorist training;
+(b) the wilful provision or collection, by any means, directly or indirectly, of funds by their nationals or in their territories with the intention that the funds should be used, or in the knowledge that they are to be used, in order to finance the travel of individuals who travel to a State other than their States of residence or nationality for the purpose of the perpetration, planning, or preparation of, or participation in, terrorist acts or the providing or receiving of terrorist training; and,
+(c) the wilful organization, or other facilitation, including acts of recruitment, by their nationals or in their territories, of the travel of individuals who travel to a State other than their States of residence or nationality for the purpose of the perpetration, planning, or preparation of, or participation in, terrorist acts or the providing or receiving of terrorist training;
+
+### 7.
+Expresses its strong determination to consider listing pursuant to resolution 2161 (2014) individuals, groups, undertakings and entities associated with Al-Qaida who are financing, arming, planning, or recruiting for them, or otherwise supporting their acts or activities, including through information and communications technologies, such as the internet, social media, or any other means;
+
+### 8.
+Decides that, without prejudice to entry or transit necessary in the furtherance of a judicial process, including in furtherance of such a process related to arrest or detention of a foreign terrorist fighter, Member States shall prevent the entry into or transit through their territories of any individual about whom that State has credible information that provides reasonable grounds to believe that he or she is seeking entry into or transit through their territory for the purpose of participating in the acts described in paragraph 6, including any acts or activities indicating that an individual, group, undertaking or entity is associated with Al-Qaida, as set out in paragraph 2 of resolution 2161 (2014), provided that nothing in this paragraph shall oblige any State to deny entry or require the departure from its territories of its own nationals or permanent residents;
+
+### 9.
+Calls upon Member States to require that airlines operating in their territories provide advance passenger information to the appropriate national authorities in order to detect the departure from their territories, or attempted entry into or transit through their territories, by means of civil aircraft, of individuals designated by the Committee established pursuant to resolutions 1267 (1999) and 1989 (2011) (the Committee), and further calls upon Member States to report any such departure from their territories, or such attempted entry into or transit through their territories, of such individuals to the Committee, as well as sharing this information with the State of residence or nationality, as appropriate and in accordance with domestic law and international obligations;
+
+### 10.
+Stresses the urgent need to implement fully and immediately this resolution with respect to foreign terrorist fighters, underscores the particular and urgent need to implement this resolution with respect to those foreign terrorist fighters who are associated with ISIL, ANF and other cells, affiliates, splinter groups or derivatives of Al-Qaida, as designated by the Committee, and expresses its readiness to consider designating, under resolution 2161 (2014), individuals associated with Al-Qaida who commit the acts specified in paragraph 6 above;
+
+**International Cooperation**
+
+### 11.
+Calls upon Member States to improve international, regional, and subregional cooperation, if appropriate through bilateral agreements, to prevent the travel of foreign terrorist fighters from or through their territories, including through increased sharing of information for the purpose of identifying foreign terrorist fighters, the sharing and adoption of best practices, and improved understanding of the patterns of travel by foreign terrorist fighters, and for Member States to act cooperatively when taking national measures to prevent terrorists from exploiting technology, communications and resources to incite support for terrorist acts, while respecting human rights and fundamental freedoms and in compliance with other obligations under international law;
+
+### 12.
+Recalls its decision in resolution 1373 (2001) that Member States shall afford one another the greatest measure of assistance in connection with criminal investigations or proceedings relating to the financing or support of terrorist acts, including assistance in obtaining evidence in their possession necessary for the proceedings, and underlines the importance of fulfilling this obligation with respect to such investigations or proceedings involving foreign terrorist fighters;
+
+### 13.
+Encourages Interpol to intensify its efforts with respect to the foreign terrorist fighter threat and to recommend or put in place additional resources to support and encourage national, regional and international measures to monitor and prevent the transit of foreign terrorist fighters, such as expanding the use of INTERPOL Special Notices to include foreign terrorist fighters;
+
+### 14.
+Calls upon States to help build the capacity of States to address the threat posed by foreign terrorist fighters, including to prevent and interdict foreign terrorist fighter travel across land and maritime borders, in particular the States neighbouring zones of armed conflict where there are foreign terrorist fighters, and welcomes and encourages bilateral assistance by Member States to help build such national capacity;
+
+**Countering Violent Extremism in Order to Prevent Terrorism**
+
+### 15.
+Underscores that countering violent extremism, which can be conducive to terrorism, including preventing radicalization, recruitment, and mobilization of individuals into terrorist groups and becoming foreign terrorist fighters is an essential element of addressing the threat to international peace and security posed by foreign terrorist fighters, and calls upon Member States to enhance efforts to counter this kind of violent extremism;
+
+### 16.
+Encourages Member States to engage relevant local communities and non-governmental actors in developing strategies to counter the violent extremist narrative that can incite terrorist acts, address the conditions conducive to the spread of violent extremism, which can be conducive to terrorism, including by empowering youth, families, women, religious, cultural and education leaders, and all other concerned groups of civil society and adopt tailored approaches to countering recruitment to this kind of violent extremism and promoting social inclusion and cohesion;
+
+### 17.
+Recalls its decision in paragraph 14 of resolution 2161 (2014) with respect to improvised explosive devices (IEDs) and individuals, groups, undertakings and entities associated with Al-Qaida, and urges Member States, in this context, to act cooperatively when taking national measures to prevent terrorists from exploiting technology, communications and resources, including audio and video, to incite support for terrorist acts, while respecting human rights and fundamental freedoms and in compliance with other obligations under international law;
+
+### 18.
+Calls upon Member States to cooperate and consistently support each other’s efforts to counter violent extremism, which can be conducive to terrorism, including through capacity building, coordination of plans and efforts, and sharing lessons learned;
+
+### 19.
+Emphasizes in this regard the importance of Member States’ efforts to develop non-violent alternative avenues for conflict prevention and resolution by affected individuals and local communities to decrease the risk of radicalization to terrorism, and of efforts to promote peaceful alternatives to violent narratives espoused by foreign terrorist fighters, and underscores the role education can play in countering terrorist narratives;
+
+**United Nations Engagement on the Foreign Terrorist Fighter Threat**
+
+### 20.
+Notes that foreign terrorist fighters and those who finance or otherwise facilitate their travel and subsequent activities may be eligible for inclusion on the Al-Qaida Sanctions List maintained by the Committee pursuant to resolutions 1267 (1999) and 1989 (2011) where they participate in the financing, planning, facilitating, preparing, or perpetrating of acts or activities by, in conjunction with, under the name of, on behalf of, or in support of, Al-Qaida, supplying, selling or transferring arms and related materiel to, or recruiting for, or otherwise supporting acts or activities of Al-Qaida or any cell, affiliate, splinter group or derivative thereof, and calls upon States to propose such foreign terrorist fighters and those who facilitate or finance their travel and subsequent activities for possible designation;
+
+### 21.
+Directs the Committee established pursuant to resolution 1267 (1999) and 1989 (2011) and the Analytical Support and Sanctions Monitoring Team, in close cooperation with all relevant United Nations counter-terrorism bodies, in particular CTED, to devote special focus to the threat posed by foreign terrorist fighters recruited by or joining ISIL, ANF and all groups, undertakings and entities associated with Al-Qaida;
+
+### 22.
+Encourages the Analytical Support and Sanctions Monitoring Team to coordinate its efforts to monitor and respond to the threat posed by foreign terrorist fighters with other United Nations counter-terrorism bodies, in particular the CTITF;
+
+### 23.
+Requests the Analytical Support and Sanctions Monitoring Team, in close cooperation with other United Nations counter-terrorism bodies, to report to the Committee established pursuant to resolutions 1267 (1999) and 1989 (2011) within 180 days, and provide a preliminary oral update to the Committee within 60 days, on the threat posed by foreign terrorist fighters recruited by or joining ISIL, ANF and all groups, undertakings and entities associated with Al-Qaida, including:
+(a) a comprehensive assessment of the threat posed by these foreign terrorist fighters, including their facilitators, the most affected regions and trends in radicalization to terrorism, facilitation, recruitment, demographics, and financing; and
+(b) recommendations for actions that can be taken to enhance the response to the threat posed by these foreign terrorist fighters;
+
+### 24.
+Requests the Counter-Terrorism Committee, within its existing mandate and with the support of CTED, to identify principal gaps in Member States’ capacities to implement Security Council resolutions 1373 (2001) and 1624 (2005) that may hinder States’ abilities to stem the flow of foreign terrorist fighters, as well as to identify good practices to stem the flow of foreign terrorist fighters in the implementation of resolutions 1373 (2001) and 1624 (2005), and to facilitate technical assistance, specifically by promoting engagement between providers of capacity-building assistance and recipients, especially those in the most affected regions, including through the development, upon their request, of comprehensive counter-terrorism strategies that encompass countering violent radicalization and the flow of foreign terrorist fighters, recalling the roles of other relevant actors, for example the Global Counterterrorism Forum;
+
+### 25.
+Underlines that the increasing threat posed by foreign terrorist fighters is part of the emerging issues, trends and developments related to resolutions 1373 (2001) and 1624 (2005), that, in paragraph 5 of resolution 2129 (2013), the Security Council directed CTED to identify, and therefore merits close attention by the Counter-Terrorism Committee, consistent with its mandate;
+
+### 26.
+Requests the Committee established pursuant to resolutions 1267 (1999) and 1989 (2011) and the Counter-Terrorism Committee to update the Security Council on their respective efforts pursuant to this resolution;
+
+### 27.
+Decides to remain seized of the matter.
+
+## Schedule 4E — Applicable maximum penalties for offence against section 13F(1)
+
+| Item |  | Offence against | Maximum penalty |
+| --- | --- | --- | --- |
+| 1 |  | Section 13F(7)﻿(a)—section 6A (terrorist act: credible threat and carrying out (but excluding an attempt)) | Imprisonment for a term not exceeding 10 years |
+| 2 |  | Section 13F(7)﻿(b)—section 6B (terrorist act: planning or other preparations to carry out) | Imprisonment for a term not exceeding 3 years and 6 months |
+| 3 |  | Section 13F(7)﻿(c)—section 7 (terrorist bombing) | Imprisonment for a term not exceeding 10 years |
+| 4 |  | Section 13F(7)﻿(d)—section 8 (financing of, or provision of material support for, terrorism) | Imprisonment for a term not exceeding— |
+| (a) | 7 years, if the mental element under section 8(1)﻿(d), (1A)﻿(d), (2A)﻿(d), or (2B)﻿(d) is intention; or |  |  |
+| (b) | 5 years, if the mental element under section 8(1)﻿(d), (1A)﻿(d), (2A)﻿(d), or (2B)﻿(d) is knowledge or recklessness |  |  |
+| 5 |  | Section 13F(7)﻿(e)—section 9 (prohibition on dealing with property of, or derived or generated from property of, designated terrorist entity) | Imprisonment for a term not exceeding 3 years and 6 months |
+| 6 |  | Section 13F(7)﻿(f)—section 10 (prohibition on making property, or material support, available to designated terrorist entity) | Imprisonment for a term not exceeding 5 years |
+| 7 |  | Section 13F(7)﻿(g)—section 12 (recruiting members of terrorist groups) | Imprisonment for a term not exceeding 7 years |
+| 8 |  | Section 13F(7)﻿(h)—section 13 (participating in terrorist groups) | Imprisonment for a term not exceeding 7 years |
+| 9 |  | Section 13F(7)﻿(i)—section 13AA (providing or receiving weapons training or combat training for terrorist purposes) | Imprisonment for a term not exceeding 3 years and 6 months |
+| 10 |  | Section 13F(7)﻿(j)—section 13A (harbouring or concealing terrorists) | Imprisonment for a term not exceeding 3 years and 6 months |
+| 11 |  | Section 13F(7)﻿(k)—section 13B (offences involving use and movement of unmarked plastic explosives) | Imprisonment for a term not exceeding 5 years or a fine not exceeding $250,000, or both |
+| 12 |  | Section 13F(7)﻿(l)—section 13C (offences involving physical protection of nuclear material) | Imprisonment for a term not exceeding 5 years or a fine not exceeding $250,000, or both |
+| 13 |  | Section 13F(7)﻿(m)—section 13D (importation, acquisition, etc, of radioactive material) | Imprisonment for a term not exceeding 5 years |
+| 14 |  | Section 13F(7)﻿(n)—section 13E (offences involving radioactive material and radioactive devices) | Imprisonment for a term not exceeding 5 years or a fine not exceeding $250,000, or both |
+
 ## Schedule 5 — Details to be included in suspicious property reports
 
 ### 1
 The name, and (if available) the last known address, of the designated terrorist entity concerned.
 
 ### 2
-For property that came into the possession or immediate control of a financial institution or reporting entity through a transaction conducted or proposed to be conducted through the financial institution or reporting entity and involving a facility with the financial institution or reporting entity:
-(a) the grounds on which the financial institution or reporting entity holds the suspicion referred to in section 43(2) and the date on which that suspicion was formed:
-(b) (to the best of the knowledge of the financial institution or reporting entity) the date on which the financial institution or reporting entity became aware of the existence of the property, and (if readily available to the financial institution or reporting entity) the type of, and all other available identifying information about, the property:
-(c) (if readily available electronically to the financial institution or reporting entity)—
+For property that came into the possession or immediate control of a reporting entity through a transaction conducted or proposed to be conducted through the reporting entity and involving a facility with the reporting entity:
+(a) the grounds on which the reporting entity holds the suspicion referred to in section 43(2) and the date on which that suspicion was formed:
+(b) (to the best of the knowledge of the reporting entity) the date on which the reporting entity became aware of the existence of the property, and (if readily available to the reporting entity) the type of, and all other available identifying information about, the property:
+(c) (if readily available electronically to the reporting entity)—
   (i) the nature of the transaction; and
   (ii) the date of the transaction:
 (d) the type and identifying number of the facility:
-(e) the value of the property in the facility (if known to the person preparing the report for the financial institution or reporting entity):
-(f) the name, address, date of birth (if applicable), and (if known to the person preparing the report for the financial institution or reporting entity) occupation (or, if appropriate, business or principal activity) of the person in whose name the facility is operated, and (if available to the person preparing the report for the financial institution or reporting entity) details of any documentary or other evidence held by the financial institution or reporting entity and used to establish the identity of that person:
-(g) the names of the signatories to the facility and (if available to the person preparing the report for the financial institution or reporting entity) details of any documentary or other evidence held by the financial institution or reporting entity and used to establish the identity of the signatories to the facility:
-(h) (if readily available electronically to the financial institution or reporting entity) the name, address, date of birth (if applicable), and occupation (or, if appropriate, business or principal activity) of each person conducting the transaction and of any person on whose behalf the transaction is conducted:
-(i) (if applicable) the branch name, address, and telephone number of the financial institution or reporting entity which provided the facility involved in the transaction or the financial institution or reporting entity through which the transaction was conducted, as the case may be.
+(e) the value of the property in the facility (if known to the person preparing the report for the reporting entity):
+(f) the name, address, date of birth (if applicable), and (if known to the person preparing the report for the reporting entity) occupation (or, if appropriate, business or principal activity) of the person in whose name the facility is operated, and (if available to the person preparing the report for the reporting entity) details of any documentary or other evidence held by the reporting entity and used to establish the identity of that person:
+(g) the names of the signatories to the facility and (if available to the person preparing the report for the reporting entity) details of any documentary or other evidence held by the reporting entity and used to establish the identity of the signatories to the facility:
+(h) (if readily available electronically to the reporting entity) the name, address, date of birth (if applicable), and occupation (or, if appropriate, business or principal activity) of each person conducting the transaction and of any person on whose behalf the transaction is conducted:
+(i) (if applicable) the branch name, address, and telephone number of the reporting entity which provided the facility involved in the transaction or the reporting entity through which the transaction was conducted, as the case may be.
 
 ### 3
-For other property in the possession or immediate control of a financial institution or reporting entity or any other person—
-(a) the grounds on which the financial institution or reporting entity or other person holds the suspicion referred to in section 43(2) and the date on which that suspicion was formed:
-(b) (to the best of the knowledge of the financial institution or reporting entity or other person) the date on which the financial institution or reporting entity or other person became aware of the existence of the property, and (if readily available to the financial institution or reporting entity or other person) the type of, and all other available identifying information about, the property:
-(c) the value of the property (if known to the financial institution or reporting entity or other person):
-(d) (if available to the financial institution or reporting entity or other person) the name, address, date of birth (if applicable), and occupation (or, if appropriate, business or principal activity) of the person who owns the property (if it is not owned by the entity), and details of any documentary or other evidence held by the financial institution or reporting entity or other person and used to establish the identity of the person who owns the property:
-(e) (if available to the financial institution or reporting entity or other person) the name, address, date of birth (if applicable), and occupation (or, if appropriate, business or principal activity) of the person who controls the property (if it is not controlled by the entity), and details of any documentary or other evidence held by the financial institution or reporting entity or other person and used to establish the identity of the person who controls the property.
+For other property in the possession or immediate control of a reporting entity or any other person—
+(a) the grounds on which the reporting entity or other person holds the suspicion referred to in section 43(2) and the date on which that suspicion was formed:
+(b) (to the best of the knowledge of the reporting entity or other person) the date on which the reporting entity or other person became aware of the existence of the property, and (if readily available to the reporting entity or other person) the type of, and all other available identifying information about, the property:
+(c) the value of the property (if known to the reporting entity or other person):
+(d) (if available to the reporting entity or other person) the name, address, date of birth (if applicable), and occupation (or, if appropriate, business or principal activity) of the person who owns the property (if it is not owned by the entity), and details of any documentary or other evidence held by the reporting entity or other person and used to establish the identity of the person who owns the property:
+(e) (if available to the reporting entity or other person) the name, address, date of birth (if applicable), and occupation (or, if appropriate, business or principal activity) of the person who controls the property (if it is not controlled by the entity), and details of any documentary or other evidence held by the reporting entity or other person and used to establish the identity of the person who controls the property.
 
 ### 4
-If the report is made in relation to property controlled or possessed by a financial institution or reporting entity, the name, position, and phone and fax number of the person authorised by the financial institution or reporting entity to prepare and submit the report. In all other cases, the name, position (if relevant), and phone and fax numbers of the person who prepared the report.
+If the report is made in relation to property controlled or possessed by a reporting entity, the name, position, and phone and fax number of the person authorised by the reporting entity to prepare and submit the report. In all other cases, the name, position (if relevant), and phone and fax numbers of the person who prepared the report.
 
 ### 1 Title
 This Act is the Terrorism Suppression Amendment Act 2007.
