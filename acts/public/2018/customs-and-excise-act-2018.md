@@ -1,5 +1,5 @@
 # Customs and Excise Act 2018
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-05_
 
 ### 1 Title
 This Act is the Customs and Excise Act 2018.
@@ -3366,8 +3366,8 @@ A Customs officer may require the licensee of a Customs-controlled area to produ
 (3) Customs must make all reasonable efforts to notify the person from whom the goods were seized of the time and place of the hearing of the application at least 24 hours before the hearing.
 (4) The person from whom the goods were seized is entitled to appear and be heard on the application.
 
-### 249 Return of cash necessary to satisfy essential human needs
-(1) The power to detain goods under section 244 does not extend to cash that is seized under that section if Customs is satisfied that the cash is necessary to satisfy essential human needs—
+### 249 Return of cash necessary to satisfy basic needs
+(1) The power to detain goods under section 244 does not extend to cash that is seized under that section if Customs is satisfied that the cash is necessary to satisfy basic needs (as defined in section 4(1) of the Terrorism Suppression Act 2002)—
   (a) of an individual from whom the cash was seized, or his or her dependants; and
   (b) that arise during the investigation period.
 (2) Customs must, if practicable, immediately return any cash in relation to which it is satisfied as referred to in subsection (1).
