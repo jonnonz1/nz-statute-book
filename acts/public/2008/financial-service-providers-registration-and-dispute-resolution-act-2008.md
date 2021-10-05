@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2021-10-01_
+_Consolidation as at 2021-10-05_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -265,7 +265,7 @@ The purpose of this Part is to—
   (da) a person who, within the past year, has been deregistered, or been a director or senior manager of an entity that has been deregistered, under section 18(1)﻿(ca):
   (e) a person who has been convicted of a crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961 within the past 5 years:
   (ea) a person who has been convicted within the past 5 years, in a country, State, or territory outside New Zealand, of an offence that is substantially similar to an offence specified in paragraph (e):
-  (f) a person who has been convicted of a money laundering offence or an offence relating to the financing of terrorism, whether in New Zealand or elsewhere:
+  (f) a person who has been convicted of a money laundering offence or an offence relating to the financing of, or provision of material support for, terrorism, whether in New Zealand or elsewhere:
   (g) a person who is subject to a forfeiture order under the Criminal Proceeds (Recovery) Act 2009 or to a substantially similar order in a country, State, or territory outside New Zealand.
 (3) A member of a local authority must be treated as if he or she is not disqualified.
 
