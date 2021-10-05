@@ -1,5 +1,5 @@
 # Terrorism Suppression (Control Orders) Act 2019
-_Consolidation as at 2019-12-19_
+_Consolidation as at 2021-10-05_
 
 ### 1 Title
 This Act is the Terrorism Suppression (Control Orders) Act 2019.
@@ -29,6 +29,9 @@ In this Act, unless the context otherwise requires,—
   - **control order** means an interim control order or a final control order made under section 12(1)
   - **country** includes any State, territory, province, or other part of a country
   - **court** means the High Court
+  - **determinate sentence of imprisonment** means a sentence of imprisonment for a fixed term and that is final, or that is the subject of an appeal unless the sentence is—
+    (a) suspended pending determination of the appeal; or
+    (b) set aside, and not replaced by a sentence of imprisonment for a fixed term, on the appeal
   - **designated terrorist entity** has the meaning in section 4(1) of the Terrorism Suppression Act 2002
   - **disclosable supporting information** , for an application for, or for the renewal, variation, or discharge of, a control order, means all information supporting the application that can be disclosed in accordance with all current directions, orders, or other relevant decisions, if any, of the court
   - **engages in terrorism-related activities** has the meaning in section 8(1)
@@ -41,13 +44,23 @@ In this Act, unless the context otherwise requires,—
     (c) incites, counsels, or procures any person to commit the terrorism
   - **principal party** , in relation to terrorism, means a person who (alone or with any other person or other people) actually commits the terrorism
   - **prison** has the meaning in section 3(1) of the Corrections Act 2004
-  - **relevant person** has the meaning in section 6
+  - **release conditions** , in relation to 1 or more sentences of imprisonment that are or include a determinate sentence of imprisonment referred to in section 6(5)﻿(b) and (c), has the same meaning as in section 4(1) of the Parole Act 2002
+  - **relevant offender** means a person to whom section 6(5) applies (see section 6(1AA))
+  - **relevant person** has the meaning in section 6(1AA)
+  - **relevant returner** means a person to whom section 6(1) applies (see section 6(1AA))
   - **requirements** , of a control order, means the prohibitions, restrictions, or other requirements that the order imposes, in accordance with this Act, on the relevant person in respect of whom the order is made
   - **short-term sentence** has the meaning in section 4(1) of the Parole Act 2002
-  - **terrorism** means a terrorist act as defined in section 5(1) of the Terrorism Suppression Act 2002.
+  - **statutory release date** , in relation to 1 or more sentences of imprisonment that are or include a determinate sentence of imprisonment referred to in section 6(5)﻿(b) and (c), has the same meaning as in section 4(1) of the Parole Act 2002
+  - **terrorism** means a terrorist act as defined in section 5(1) of the Terrorism Suppression Act 2002
+  - **terrorism-related New Zealand offence** has the meaning in section 8A.
 
 ### 6 Meaning of relevant person
-(1) A relevant person is a person who is 18 years old or older, who is or may be coming to New Zealand or has arrived in New Zealand, and who before their arrival in New Zealand—
+Definition: relevant returner or relevant offender
+(1AA) A relevant person means a person who is—
+  (a) a person to whom subsection (1) applies (and who, in this Act, is called, under section 5, a relevant returner); or
+  (b) a person to whom subsection (5) applies (and who, in this Act, is called, under section 5, a relevant offender).
+Engagement in terrorism-related activities in foreign country
+(1) This subsection applies to a person who is 18 years old or older, who is or may be coming to New Zealand or has arrived in New Zealand, and who before their arrival in New Zealand—
   (a) engaged in terrorism-related activities (see section 8(1)) in a foreign country; or
   (b) travelled, or attempted to travel, to a foreign country to engage in terrorism-related activities in a foreign country; or
   (c) was convicted in a foreign country of an offence because of conduct that is or includes engaging in terrorism-related activities in a foreign country; or
@@ -56,9 +69,14 @@ In this Act, unless the context otherwise requires,—
 (2) Subsection (1) applies whether or not the person is, or is connected to, a designated terrorist entity because of conduct that is or includes those activities.
 (3) Subsection (1) (except subsection (1)﻿(c)) applies even if the person has been prosecuted in a foreign country for, but was not convicted in a foreign country of, an offence because of conduct that is or includes those activities or, as the case requires, that is or includes travelling, or attempting to travel, to a foreign country to engage in those activities in a foreign country.
 (4) Subsection (1) applies even if the person is, or may be, a returning offender, or returning prisoner, who is subject to all or any of the Returning Offenders (Management and Information) Act 2015.
+Commission of terrorism-related New Zealand offence punished by determinate sentence of imprisonment
+(5) This subsection applies to a person who is 18 years old or older and—
+  (a) who, on or after the commencement date of the Counter-Terrorism Legislation Act 2021, committed, and was convicted of, a terrorism-related New Zealand offence (see section 8A); and
+  (b) who was sentenced, on or after that commencement date, for that offence, to a determinate sentence of imprisonment; and
+  (c) whose statutory release date, or whose last day as an offender who is subject to release conditions, for 1 or more sentences of imprisonment that are or include that determinate sentence of imprisonment, is after that commencement date.
 
 ### 7 Duty to have regard to specified aspects of evidence relied on
-(1) In determining whether evidence establishes or helps to establish compliance with section 6, the court must have regard to—
+(1) In determining whether evidence establishes or helps to establish compliance with section 6(1), the court must have regard to—
   (a) the source of that evidence; and
   (b) the validity, authenticity, and reliability of that evidence.
 (2) The subsection (1) duty also applies in respect of a determination of the validity, authenticity, and reliability of any conviction or other foreign country action at issue in terms of section 6(1)﻿(c), (d), or (e).
@@ -81,6 +99,13 @@ Facilitation or material support requires some actual or constructive knowledge
   (b) any specific terrorism was foreseen or planned at the time it was facilitated or materially supported:
   (c) any terrorism was actually carried out.
 
+### 8A Meaning of terrorism-related New Zealand offence
+A terrorism-related New Zealand offence means an offence that is—
+  (a) an offence against the Terrorism Suppression Act 2002 (even if that offence was committed wholly, or partly, outside New Zealand, but is prosecuted in New Zealand under any of sections 15 to 18 of that Act and sections 7, 8, and 8A of the Crimes Act 1961); or
+  (b) an offence—
+    (i) against section 124(1), 127(4), 129(3), or 131A(1) of the Films, Videos, and Publications Classification Act 1993, or section 390 of the Customs and Excise Act 2018; and
+    (ii) that involves a publication that is objectionable (as those terms are defined in sections 2 and 3 of the Films, Videos, and Publications Classification Act 1993) for reasons that are or include the extent and degree to which, and the manner in which, the publication (as provided in section 3(3)﻿(d) of that Act) promotes or encourages acts of terrorism.
+
 ### 9 Status of examples
 (1) An example used in this Act is only illustrative of the provisions to which it relates. It does not limit those provisions.
 (2) If an example and a provision to which it relates are inconsistent, the provision prevails.
@@ -97,7 +122,7 @@ This Act binds the Crown.
 
 ### 12 Power to make
 (1) The court may make an order—
-  (a) in respect of a person who the court is satisfied is a relevant person (see sections 6, 7, and 8); and
+  (a) in respect of a person who the court is satisfied is a relevant person (see sections 6(1AA), 7, 8, and 8A); and
   (b) imposing requirements on the relevant person for the purposes stated in section 3(a) to (c).
 (2) The court may make a control order only if satisfied that—
   (a) the relevant person poses a real risk of engaging in terrorism-related activities in a country; and
@@ -130,37 +155,68 @@ This Act binds the Crown.
   (a) the requirements the order would impose for the main purposes stated in section 3(a) and (b); or (if applicable)
   (b) any requirements the order would impose for 1 or both of the incidental purposes stated in section 3(c).
 
-### 15 Application for interim control order
-(1) The Commissioner may make an application for an interim control order in respect of a relevant person only if—
+### 15 Application for interim control order in respect of relevant returner
+(1) The Commissioner may make an application for an interim control order in respect of a relevant returner only if—
   (a) the application is made—
-    (i) before the relevant person arrives in New Zealand; or
-    (ii) within 12 months after the relevant person arrives in New Zealand; and
-  (b) the Commissioner believes on reasonable grounds that it is necessary and appropriate that the interim control order is made as soon as practicable in order to manage the real risks posed by the relevant person of engagement in terrorism-related activities in a country.
+    (i) before the relevant returner arrives in New Zealand; or
+    (ii) within 12 months after the relevant returner arrives in New Zealand; and
+  (b) the Commissioner believes on reasonable grounds that it is necessary and appropriate that the interim control order is made as soon as practicable in order to manage the real risks posed by the relevant returner of engagement in terrorism-related activities in a country.
 (2) The application for the interim control order—
-  (a) must be made, and must be heard and determined by the court, without notice to the relevant person if the application is made before the relevant person arrives in New Zealand, unless the Commissioner believes on reasonable grounds that—
+  (a) must be made, and must be heard and determined by the court, without notice to the relevant returner if the application is made before the relevant returner arrives in New Zealand, unless the Commissioner believes on reasonable grounds that—
     (i) service out of New Zealand of the documents to be served is reasonably practicable in the circumstances; and
-    (ii) it is not necessary and appropriate to make the application, and for it to be heard and determined, without notice in order to manage the real risks posed by the relevant person of engagement in terrorism-related activities in a country; and
-  (b) may be made, and must be heard and determined by the court, without notice to the relevant person if—
-    (i) the application is made after the relevant person arrives in New Zealand; and
-    (ii) the Commissioner believes on reasonable grounds that it is necessary and appropriate to make the application, and for it to be heard and determined, without notice in order to manage the real risks posed by the relevant person of engagement in terrorism-related activities in a country.
-(3) If the application for the interim control order is made on notice to the relevant person, the documents to be served must exclude any information supporting the application that is not disclosable supporting information.
+    (ii) it is not necessary and appropriate to make the application, and for it to be heard and determined, without notice in order to manage the real risks posed by the relevant returner of engagement in terrorism-related activities in a country; and
+  (b) may be made, and must be heard and determined by the court, without notice to the relevant returner if—
+    (i) the application is made after the relevant returner arrives in New Zealand; and
+    (ii) the Commissioner believes on reasonable grounds that it is necessary and appropriate to make the application, and for it to be heard and determined, without notice in order to manage the real risks posed by the relevant returner of engagement in terrorism-related activities in a country.
+(3) If the application for the interim control order is made on notice to the relevant returner, the documents to be served must exclude any information supporting the application that is not disclosable supporting information.
 (4) The application for the interim control order must be—
   (a) set down for hearing, and heard, as soon as practicable; and
   (b) determined as soon as practicable.
-(5) On or after making an interim control order in respect of a relevant person, the court must consider whether to direct under section 16(1)﻿(b) a period (longer or shorter than 3 months after the date on which the interim order was served on the relevant person) as the period within which the Commissioner may make an application for a final control order in respect of the relevant person.
+(5) On or after making an interim control order in respect of a relevant returner, the court must consider whether to direct under section 16(1)﻿(b) a period (longer or shorter than 3 months after the date on which the interim order was served on the relevant returner) as the period within which the Commissioner may make an application for a final control order in respect of the relevant returner.
 
-### 16 Application for final control order
-(1) The Commissioner may make an application for a final control order in respect of a relevant person only if—
-  (a) no interim control order in respect of the relevant person has been applied for, and the application for the final control order is made after, and within 12 months after, the relevant person arrives in New Zealand; or
-  (b) an interim control order in respect of the relevant person was applied for and made, and the application for the final control order is made after the relevant person arrives in New Zealand and—
-    (i) within 3 months after the date on which the interim order was served on the relevant person; or
+### 16 Application for final control order in respect of relevant returner
+(1) The Commissioner may make an application for a final control order in respect of a relevant returner only if—
+  (a) no interim control order in respect of the relevant returner has been applied for, and the application for the final control order is made after, and within 12 months after, the relevant returner arrives in New Zealand; or
+  (b) an interim control order in respect of the relevant returner was applied for and made, and the application for the final control order is made after the relevant returner arrives in New Zealand and—
+    (i) within 3 months after the date on which the interim order was served on the relevant returner; or
     (ii) within any longer or shorter period the court directs (on its own initiative or on an application for the purpose made) on or after making the interim order and during that 3-month period; or
-  (c) an interim control order in respect of the relevant person was applied for and declined, and the application for the final control order is made after, and within 12 months after, the relevant person arrives in New Zealand, and is made because of a material change in circumstances since the interim control order was declined.
+  (c) an interim control order in respect of the relevant returner was applied for and declined, and the application for the final control order is made after, and within 12 months after, the relevant returner arrives in New Zealand, and is made because of a material change in circumstances since the interim control order was declined.
 (2) The application for the final control order must be—
-  (a) made on notice to the relevant person; and
+  (a) made on notice to the relevant returner; and
   (b) set down for hearing, and heard, as soon as practicable; and
   (c) determined as soon as practicable.
-(3) Because the application for the final control order is made on notice to the relevant person, the documents to be served must exclude any information supporting the application that is not disclosable supporting information.
+(3) Because the application for the final control order is made on notice to the relevant returner, the documents to be served must exclude any information supporting the application that is not disclosable supporting information.
+
+### 16A Application for interim control order in respect of relevant offender
+(1) The Commissioner may make an application for an interim control order in respect of a relevant offender only if—
+  (a) the application is made—
+    (i) after they become a relevant offender; and
+    (ii) on or before their statutory release date, or their last day as an offender who is subject to release conditions, for the 1 or more sentences of imprisonment mentioned in section 6(5)﻿(c); and
+  (b) the Commissioner believes on reasonable grounds that it is necessary and appropriate that the interim control order is made as soon as practicable in order to manage the real risks posed by the relevant offender of engagement in terrorism-related activities in a country.
+(2) The application for the interim control order may be made, and must be heard and determined by the court, without notice to the relevant offender if the Commissioner believes on reasonable grounds that it is necessary and appropriate to make the application, and for it to be heard and determined, without notice in order to manage the real risks posed by the relevant offender of engagement in terrorism-related activities in a country.
+(3) If the application for the interim control order is made on notice to the relevant offender, the documents to be served must exclude any information supporting the application that is not disclosable supporting information.
+(4) The application for the interim control order must be—
+  (a) set down for hearing, and heard, as soon as practicable; and
+  (b) determined as soon as practicable.
+(5) On or after making an interim control order in respect of a relevant offender, the court must consider whether to direct under section 16B(1)﻿(b) a period (longer or shorter than 3 months after the date on which the interim order was served on the relevant offender) as the period within which the Commissioner may make an application for a final control order in respect of the relevant offender.
+
+### 16B Application for final control order in respect of relevant offender
+(1) The Commissioner may make an application for a final control order in respect of a relevant offender only if—
+  (a) no interim control order in respect of the relevant offender has been applied for, and the application for the final control order is made—
+    (i) after they become a relevant offender; and
+    (ii) on or before their statutory release date, or their last day as an offender who is subject to release conditions, for the 1 or more sentences of imprisonment mentioned in section 6(5)﻿(c); or
+  (b) an interim control order in respect of the relevant offender was applied for and made, and the application for the final control order is made—
+    (i) within 3 months after the date on which the interim order was served on the relevant offender; or
+    (ii) within any longer or shorter period the court directs (on its own initiative or on an application for the purpose made) on or after making the interim order and during that 3-month period; or
+  (c) an interim control order in respect of the relevant offender was applied for and declined, and the application for the final control order is made—
+    (i) after they become a relevant offender; and
+    (ii) on or before their statutory release date, or their last day as an offender who is subject to release conditions, for the 1 or more sentences of imprisonment mentioned in section 6(5)﻿(c); and
+    (iii) because of a material change in circumstances since the interim control order was declined.
+(2) The application for the final control order must be—
+  (a) made on notice to the relevant offender; and
+  (b) set down for hearing, and heard, as soon as practicable; and
+  (c) determined as soon as practicable.
+(3) Because the application for the final control order is made on notice to the relevant offender, the documents to be served must exclude any information supporting the application that is not disclosable supporting information.
 
 **Requirements that may be imposed**
 
@@ -205,12 +261,12 @@ The court must not impose a requirement of the kind stated in section 17(n) if t
 ### 21 Service of control order
 (1) The Commissioner must serve on a relevant person (P) a control order made in respect of the relevant person.
 (2) The control order must be served,—
-  (a) if practicable, on P’s arrival in New Zealand; or
-  (b) if service on P’s arrival in New Zealand is not practicable, as soon as is reasonably practicable after P’s arrival in New Zealand; but
+  (a) if P is a relevant returner, and if practicable, on P’s arrival in New Zealand; or
+  (b) if P is a relevant returner, and if service on P’s arrival in New Zealand is not practicable, as soon as is reasonably practicable after P’s arrival in New Zealand; but
   (c) in any event, not later than 12 months after the control order is made.
 (3) The control order and its requirements expire if the control order is not served within that 12-month period, but its expiry does not prevent another control order being applied for and made in respect of the same relevant person based on engagement in 1 or both of the following:
-  (a) the same terrorism-related activities in a foreign country:
-  (b) later and different terrorism-related activities in a foreign country.
+  (a) the same terrorism-related activities in a foreign country or, as the case requires, the same terrorism-related New Zealand offence:
+  (b) later and different terrorism-related activities in a foreign country or, as the case requires, a later and different terrorism-related New Zealand offence.
 
 ### 22 Information to be served with interim control order made without notice
 The Commissioner must prepare, and serve with an interim control order made without notice to, and served on, the relevant person, the following information:
@@ -247,13 +303,14 @@ The Commissioner must prepare, and serve with an interim control order made with
 ### 25 Duration
 (1) The duration of an interim control order made in respect of a relevant person is (subject to earlier variation, discharge, or expiry of the order or its requirements, and see also section 13(4)) from when the order is served on the relevant person until the order expires when—
   (a) a final control order that replaces the order is made by the court and served on the relevant person; or
-  (b) no application for a final control order that replaces the order is made within the applicable period (see section 16(1)﻿(b)); or
+  (b) no application for a final control order that replaces the order is made within the applicable period (see section 16(1)﻿(b) or 16B(1)﻿(b)); or
   (c) an application of that kind made within that period is withdrawn, or is finally determined by the court refusing a final control order.
 (2) The duration of a final control order must be not longer than the court considers necessary having regard to the purposes stated in section 3(a) to (c) (see also section 13(4)).
 (3) But that duration must also be not longer than 2 years after the final control order is served on the relevant person in respect of whom the order is made.
 (4) Those 2 years include, for a final control order that replaces an interim control order, the period the interim control order has effect.
+(4A) Those 2 years exclude, for a final control order in respect of a relevant offender, any period on or before their statutory release date, or their last day as an offender who is subject to release conditions, for the 1 or more sentences of imprisonment mentioned in section 6(5)﻿(c).
 (5) Those 2 years exclude, for a final control order, any period during which both the order and its requirements are wholly suspended under section 28.
-(6) A final control order expires (subject to earlier variation, discharge, or expiry of the order or its requirements and to section 26(2)) at the end of its duration, but its expiry does not prevent another control order being applied for and made in respect of the same relevant person but based on engagement in later and different terrorism-related activities in a foreign country.
+(6) A final control order expires (subject to earlier variation, discharge, or expiry of the order or its requirements and to section 26(2)) at the end of its duration, but its expiry does not prevent another control order being applied for and made in respect of the same relevant person but based on engagement in later and different terrorism-related activities in a foreign country or terrorism-related New Zealand offence.
 
 ### 26 Renewal
 (1) The court may renew a final control order on an application for the purpose made by the Commissioner within its duration.
@@ -291,7 +348,7 @@ The Commissioner must prepare, and serve with an interim control order made with
 
 ### 29 Expiry if relevant person sentenced to long-term sentence
 (1) This section applies if, while a relevant person is subject to a control order, the relevant person is sentenced to a long-term sentence.
-(2) The control order and its requirements expire, and the control order cannot be replaced by a final control order or renewed, but its expiry does not prevent another control order being applied for and made in respect of the same relevant person but based on engagement in later and different terrorism-related activities in a foreign country.
+(2) The control order and its requirements expire, and the control order cannot be replaced by a final control order or renewed, but its expiry does not prevent another control order being applied for and made in respect of the same relevant person but based on engagement in later and different terrorism-related activities in a foreign country or terrorism-related New Zealand offence.
 
 **Appeals**
 
@@ -369,7 +426,7 @@ This Act does not limit or affect the application or operation of the Returning 
   (cb) by a person who is a respondent to an application under the Terrorism Suppression (Control Orders) Act 2019, or who is subject to an order under that Act, in respect of an application under that Act; or
 
 ### 38 Review of Act
-(1) The Minister must, as soon as practicable after the second anniversary of the day on which this Act comes into force,—
+(1) The Minister must, as soon as practicable after the second anniversary of the day on which the Counter-Terrorism Legislation Act 2021 comes into force,—
   (a) commence a review of the need for, and operation and effectiveness of, this Act; and
   (b) prepare a report on that review.
 (2) The Minister must ensure that the people and organisations that the Minister thinks appropriate are consulted during the preparation of the report about the matters to be considered in the report.
