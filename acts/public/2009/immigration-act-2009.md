@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2021-05-11_
+_Consolidation as at 2021-10-05_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -4297,10 +4297,10 @@ For the purposes of this Act, a constable has all the powers of an immigration o
   - **APP information** means advance passenger processing information that the chief executive of the Department has received under section 96(2) about persons intending to board a craft for the purpose of travelling from New Zealand
   - **chief executive of a specified agency** means the head of that specified agency
   - **person of interest** means a person of interest to the chief executive of a specified agency because the chief executive believes on reasonable grounds that the person may attempt to leave New Zealand and that the person—
-    (a) poses a threat or risk to the security of New Zealand or another country because the person intends to engage in, or facilitate,—
-      (i) a terrorist act within the meaning of section 5 of the Terrorism Suppression Act 2002; or
-      (ii) the proliferation of weapons of mass destruction; or
-      (iii) any other unlawful activity designed or likely to cause serious economic damage to New Zealand, carried out for the purpose of commercial or economic gain; or
+    (a) poses a threat or risk to the security of New Zealand or another country because the person intends to—
+      (i) carry out, or facilitate, a terrorist act (within the meanings of those terms or expressions in sections 5 and 5A of the Terrorism Suppression Act 2002); or
+      (ii) engage in, or facilitate, the proliferation of weapons of mass destruction; or
+      (iii) engage in, or facilitate, any other unlawful activity designed or likely to cause serious economic damage to New Zealand, carried out for the purpose of commercial or economic gain; or
     (b) is—
       (i) a person under control or supervision (as defined in section 3(1) of the Corrections Act 2004); or
       (ii) on bail with an electronic monitoring condition granted under section 30B of the Bail Act 2000; or
