@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2020-08-26_
+_Consolidation as at 2021-10-05_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -103,7 +103,7 @@ Subject to the provisions of section 7, no act done or omitted outside New Zeala
 For the purpose of jurisdiction, where any act or omission forming part of any offence, or any event necessary to the completion of any offence, occurs in New Zealand, the offence shall be deemed to be committed in New Zealand, whether the person charged with the offence was in New Zealand or not at the time of the act, omission, or event.
 
 ### 7A Extraterritorial jurisdiction in respect of certain offences with transnational aspects
-(1) Even if the acts or omissions alleged to constitute the offence occurred wholly outside New Zealand, proceedings may be brought for any offence against this Act committed in the course of carrying out a terrorist act (as defined in section 5(1) of the Terrorism Suppression Act 2002) or an offence against section 98AA, section 98A, section 98C, section 98D, any of sections 100 to 104, section 105(2), section 116, section 117, section 207A, section 243, section 298A, or section 298B—
+(1) Even if the acts or omissions alleged to constitute the offence occurred wholly outside New Zealand, proceedings may be brought for any offence against this Act committed in the course of carrying out a terrorist act (within the meanings of those terms or expressions in sections 5 and 5A of the Terrorism Suppression Act 2002) or an offence against section 98AA, section 98A, section 98C, section 98D, any of sections 100 to 104, section 105(2), section 116, section 117, section 207A, section 243, section 298A, or section 298B—
   (a) if the person to be charged—
     (i) is a New Zealand citizen; or
     (ii) is ordinarily resident in New Zealand; or
@@ -144,7 +144,7 @@ For the purpose of jurisdiction, where any act or omission forming part of any o
 ### 7B Attorney-General's consent required where jurisdiction claimed under section 7A
 (1) Proceedings for an offence against section 98AA, section 98A, section 116, section 117, section 207A, section 243, section 298A, or section 298B cannot be brought in a New Zealand court against a person without the Attorney-General's consent, if jurisdiction over the person is claimed by virtue of section 7A.
 (2) A person over whom jurisdiction is claimed by virtue of section 7A may be arrested for an offence against section 98AA, section 98A, section 116, section 117, or section 243, or a warrant for the person's arrest for the offence may be issued and executed, and the person may be remanded in custody or on bail, even though the Attorney-General's consent to the bringing of proceedings against the person has not been obtained.
-(3) Proceedings for an offence against this Act committed in the course of carrying out a terrorist act (as defined in section 5(1) of the Terrorism Suppression Act 2002) cannot be brought in a New Zealand court against a person without the Attorney-General's consent, if jurisdiction over the person is claimed solely by virtue of section 7A.
+(3) Proceedings for an offence against this Act committed in the course of carrying out a terrorist act (within the meanings of those terms or expressions in sections 5 and 5A of the Terrorism Suppression Act 2002) cannot be brought in a New Zealand court against a person without the Attorney-General's consent, if jurisdiction over the person is claimed solely by virtue of section 7A.
 
 ### 8 Jurisdiction in respect of crimes on ships or aircraft beyond New Zealand
 (1) This section applies to any act done or omitted beyond New Zealand by any person—provided that paragraph (c) shall not apply where the act was done or omitted by a person, not being a British subject, on any ship or aircraft for the time being used as a ship or aircraft of any of the armed forces of a country that is not a Commonwealth country.
