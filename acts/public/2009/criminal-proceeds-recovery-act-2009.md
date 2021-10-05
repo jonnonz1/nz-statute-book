@@ -1,5 +1,5 @@
 # Criminal Proceeds (Recovery) Act 2009
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-05_
 
 ### 1 Title
 This Act is the Criminal Proceeds (Recovery) Act 2009.
@@ -81,7 +81,7 @@ This Act comes into force on 1 December 2009.
   - **instrument forfeiture order** means an order made under section 142N of the Sentencing Act 2002
   - **instrument of crime** means—
     (a) property used (wholly or in part) to commit or facilitate the commission of a qualifying instrument forfeiture offence; and
-    (b) in relation to a qualifying instrument forfeiture offence that is an offence against section 8(1) or (2A) of the Terrorism Suppression Act 2002, includes funds (as defined in section 4(1) of that Act) allocated for the purposes of committing that offence; and
+    (b) in relation to a qualifying instrument forfeiture offence that is an offence against section 8(1), (1A), (2A), or (2B) of the Terrorism Suppression Act 2002, includes funds (as defined in section 4(1) of that Act) allocated for the purposes of committing that offence; and
     (c) in relation to any property referred to in paragraphs (a) and (b), the proceeds of any disposition of that property or any other property into which that property is converted, after the commission of the qualifying instrument forfeiture offence, except to the extent provided otherwise by any order of a court under this Act or the Sentencing Act 2002, excluding any severable interest or granting relief
   - **interest** , in relation to property of any kind (including, without limitation, restrained property or forfeited property), means—
     (a) a legal or equitable estate or interest in the property; or
