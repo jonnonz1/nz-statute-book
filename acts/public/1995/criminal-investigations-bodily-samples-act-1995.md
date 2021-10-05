@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Act 1995
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-05_
 
 > An Act—ato make provision for the taking of bodily samples for use in criminal investigations; andbto authorise—ithe establishment of a databank of information derived from the analysis of bodily samples taken from certain persons; andiithe use of information from that databank in criminal investigations; andcto provide for matters incidental thereto
 
@@ -1864,7 +1864,7 @@ For the purpose of this clause, a related offence in section 61 includes a relat
 | Abduction of child under 16 | section 210 |
 |  | Terrorism Suppression Act 2002 |
 | Terrorist bombing | section 7 |
-| Financing of terrorism | section 8 |
+| Financing of, or provision of material support for, terrorism | section 8 |
 | Recruiting members of terrorist groups | section 12 |
 | Participating in terrorist groups | section 13 |
 
