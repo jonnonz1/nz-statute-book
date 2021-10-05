@@ -1,5 +1,5 @@
 # Charities Act 2005
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-05_
 
 ### 1 Title
 This Act is the Charities Act 2005.
@@ -180,7 +180,7 @@ The functions of the chief executive are—
   (c) the ruling has otherwise ceased to apply to the entity.
 (5) Despite subsections (1) to (3), an entity does not qualify for registration as a charitable entity if—
   (a) the entity is a designated terrorist entity as defined in section 4(1) of the Terrorism Suppression Act 2002; or
-  (b) the entity has been convicted of any offence under sections 6A to 13E of the Terrorism Suppression Act 2002.
+  (b) the entity has been convicted of any offence under sections 6A to 13F of the Terrorism Suppression Act 2002.
 
 ### 14 Board may act on basis of reasonable assumptions in relation to charitable trusts
 (1) A trust is not prevented from being of a kind referred to in section 13(1)﻿(a) merely because the trustees of the trust have not yet derived an amount of income in trust for charitable purposes if, in the opinion of the Board,—
