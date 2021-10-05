@@ -1,5 +1,5 @@
 # Passports Act 1992
-_Consolidation as at 2017-04-01_
+_Consolidation as at 2021-10-05_
 
 > An Act to give proper recognition to New Zealand passports and to the right of New Zealand citizens to such passports, and to consolidate and amend the law relating to passports, certificates of identity, emergency travel documents, and refugee travel documents
 
@@ -321,16 +321,16 @@ An emergency travel document is valid for—
 
 ### 27GA Refusal to issue, or cancellation or retention of, New Zealand travel document on grounds of national or international security
 (1) The Minister may decide to take any action specified in subsection (3) in relation to a person if the Minister has reasonable cause to believe—
-  (a) the person is a danger to the security of New Zealand because the person intends to engage in, or facilitate,—
-    (i) a terrorist act within the meaning of section 5 of the Terrorism Suppression Act 2002; or
-    (ii) the proliferation of weapons of mass destruction; or
-    (iii) any other unlawful activity designed or likely to cause serious economic damage to New Zealand, carried out for the purpose of commercial or economic gain; and
+  (a) the person is a danger to the security of New Zealand because the person intends to—
+    (i) carry out, or facilitate, a terrorist act (within the meanings of those terms or expressions in sections 5 and 5A of the Terrorism Suppression Act 2002); or
+    (ii) engage in, or facilitate, the proliferation of weapons of mass destruction; or
+    (iii) engage in, or facilitate, any other unlawful activity designed or likely to cause serious economic damage to New Zealand, carried out for the purpose of commercial or economic gain; and
   (b) the taking of that action will prevent or effectively impede the ability of the person to do any of the activities specified in paragraph (a); and
   (c) the danger to the security of New Zealand cannot be effectively averted other than by taking an action specified in subsection (3).
 (2) The Minister may also decide to take any action specified in subsection (3) in relation to a person if the Minister has reasonable cause to believe—
-  (a) the person is a danger to the security of a country other than New Zealand because the person intends to engage in, or facilitate,—
-    (i) a terrorist act within the meaning of section 5 of the Terrorism Suppression Act 2002; or
-    (ii) the proliferation of weapons of mass destruction; and
+  (a) the person is a danger to the security of a country other than New Zealand because the person intends to—
+    (i) carry out, or facilitate, a terrorist act (within the meanings of those terms or expressions in sections 5 and 5A of the Terrorism Suppression Act 2002); or
+    (ii) engage in, or facilitate, the proliferation of weapons of mass destruction; and
   (b) the taking of that action will prevent or effectively impede the ability of the person to do either of the activities specified in paragraph (a); and
   (c) the danger to the security of that country cannot be effectively averted other than by taking an action specified in subsection (3).
 (3) In any case to which subsection (1) or (2) applies, the Minister may—
@@ -451,21 +451,21 @@ An emergency travel document is valid for—
   (a) an application to the High Court by the Minister under section 27GD(4) for an order extending the period during which a person is not entitled to obtain a New Zealand travel document, and any appeal under section 29(1A) against such an order:
   (b) an appeal under section 28 or 29 relating to a decision of the Minister under section 27GA to refuse to issue a New Zealand passport or refugee travel document, or to cancel or retain a New Zealand travel document:
   (c) an appeal under section 28 or 29 relating to a decision of the Minister to refuse to issue a certificate of identity under section 16 or an emergency travel document under section 23, where the Minister certifies that he or she had reasonable cause to believe—
-    (i) the person concerned was a danger to the security of New Zealand or another country because the person intended to engage in, or facilitate, an activity of a kind described in section 27GA(1)﻿(a) or (2)﻿(a); and
+    (i) the person concerned was a danger to the security of New Zealand or another country because the person intended to carry out, engage in, or facilitate, an activity of a kind described in section 27GA(1)﻿(a) or (2)﻿(a); and
     (ii) the refusal to issue the certificate of identity or emergency travel document concerned would prevent or effectively impede the ability of the person to carry out that intended activity; and
     (iii) the danger to the security of New Zealand or the other country could not be effectively averted by other means:
   (d) an application for judicial review of a decision made by the Minister under section 27GA or 27GD.
 (2) In hearing an appeal to which this section applies, the court must determine whether—
   (a) the information that led to the decision is credible, having regard to its source or sources; and
   (b) the information reasonably supports a finding that—
-    (i) the person concerned is a danger to the security of New Zealand or another country because the person intends to engage in, or facilitate, an activity of a kind described in section 27GA(1)﻿(a) or (2)﻿(a); and
+    (i) the person concerned is a danger to the security of New Zealand or another country because the person intends to carry out, engage in, or facilitate, an activity of a kind described in section 27GA(1)﻿(a) or (2)﻿(a); and
     (ii) the refusal to issue the New Zealand travel document concerned, or to cancel or retain the New Zealand travel document, will prevent or effectively impede the ability of the person to carry out that intended activity; and
     (iii) the danger to the security of New Zealand or the other country cannot be effectively averted by other means.
 (3) Where the appeal relates to a matter within the discretion of the Minister, the court may substitute its own discretion for that of the Minister.
 (4) If information presented or proposed to be presented in proceedings to which this section applies includes classified security information, then section 29AB applies.
 (5) In this section and sections 29AB and 29AC, classified security information means information—
   (a) relevant to whether there are or may be grounds for believing that—
-    (i) the person concerned is a danger to the security of New Zealand or another country because the person intends to engage in, or facilitate, an activity of a kind described in section 27GA(1)﻿(a) or (2)﻿(a); or
+    (i) the person concerned is a danger to the security of New Zealand or another country because the person intends to carry out, engage in, or facilitate, an activity of a kind described in section 27GA(1)﻿(a) or (2)﻿(a); and
     (ii) the refusal to issue the New Zealand travel document concerned, or to cancel or retain the New Zealand travel document, will prevent or effectively impede the ability of the person to carry out the intended activity; or
     (iii) the danger to the security of New Zealand or the other country cannot be effectively averted by other means; and
   (b) held by an intelligence and security agency (as defined in section 4(1) of the Terrorism Suppression Act 2002) or by the New Zealand Police; and
