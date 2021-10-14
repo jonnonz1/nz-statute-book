@@ -1,5 +1,5 @@
 # International Crimes and International Criminal Court Amendment Act 2020
-_Consolidation as at 2020-08-06_
+_Consolidation as at 2021-10-14_
 
 ### 1 Title
 This Act is the International Crimes and International Criminal Court Amendment Act 2020.
