@@ -1,5 +1,5 @@
 # International Crimes and International Criminal Court Act 2000
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-14_
 
 ### 1 Title
 This Act is the International Crimes and International Criminal Court Act 2000.
@@ -25,7 +25,9 @@ The purpose of this Act is—
   - **ICC prisoner** means a person who is—
     (a) sentenced to imprisonment by the ICC; or
     (b) the subject of a request by the ICC under section 171(1)﻿(b) to be held in custody during a sitting of the ICC in New Zealand
-  - **international crime** means, in relation to the ICC, a crime in respect of which the ICC has jurisdiction under Article 5 of the Statute
+  - **international crime** , in relation to the ICC,—
+    (a) means a crime in respect of which the ICC has jurisdiction under Article 5 of the Statute; but
+    (b) does not include the crime of aggression, as provided under Articles 8 bis, 15 bis, 15 ter, and 25 (3 bis) (which are provisions of the Statute that do not apply to New Zealand)
   - **Minister** means the Minister of Justice
   - **New Zealand prison** or means a prison within the meaning of section 3(1) of the Corrections Act 2004
   - **New Zealand prisoner** or means a person who is for the time being in legal custody at any New Zealand prison, whether or not that person has been convicted of an offence
@@ -34,7 +36,18 @@ The purpose of this Act is—
   - **property** means real or personal property of every description, whether situated in New Zealand or elsewhere and whether tangible or intangible; and includes an interest in any such real or personal property
   - **Prosecutor** means the Prosecutor of the ICC
   - **Rules** means the Rules of Procedure and Evidence made under Article 51 of the Statute
-  - **Statute** means the Rome Statute of the ICC dated 17 July 1998, a copy of the English text of which is set out in the Schedule
+  - **Statute** means the Rome Statute of the ICC dated 17 July 1998, a copy of the English text of which is set out in the Schedule and includes—
+    (a) amendments to Article 8 of the Statute contained in depository notifications—
+      (i) C.N﻿.﻿533.2010 Treaties-6, dated 29 November 2010; and
+      (ii) C.N﻿.﻿116.2018.TREATIES-XVIII﻿.﻿10, dated 8 March 2018; and
+      (iii) C.N﻿.﻿125.2018.TREATIES-XVIII﻿.﻿10, dated 8 March 2018; and
+      (iv) C.N﻿.﻿126.2018.TREATIES-XVIII﻿.﻿10, dated 8 March 2018; and
+      (v) C.N﻿.﻿399.2019.TREATIES-XVIII﻿.﻿10, dated 30 August 2019; and
+    (b) amendments to the Statute contained in depository notification C.N﻿.﻿651.2010.TREATIES-8, dated 29 November 2010, including the insertion of the following Articles into the Statute:
+      (i) Article 8 bis:
+      (ii) Article 15 bis:
+      (iii) Article 15 ter:
+      (iv) Article 25 (3 bis)
   - **tainted property** , in relation to an international crime, means any—
     (a) instrument of crime as defined in section 5(1) of the Criminal Proceeds (Recovery) Act 2009; or
     (b) tainted property as defined in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
@@ -72,6 +85,7 @@ This Act binds the Crown.
   (g) Part 8 (which relates to appeals and revision of acquittals, convictions, or sentences):
   (h) Part 9 (which relates to international co-operation and judicial assistance):
   (i) Part 10 (which relates to the enforcement of sentences and other measures imposed by the ICC).
+(3) Despite subsections (1) and (2), Articles 8 bis, 15 bis, 15 ter, and 25 (3 bis) of the Statute, which relate to the crime of aggression, do not apply to, and do not have the force of law in, New Zealand.
 
 ### 7 Obligations imposed by Statute or Rules
 For the purposes of any provision of the Statute or the Rules that confers a power, or imposes a duty or function on a State, that power, duty, or function may be exercised or carried out on behalf of the Government of New Zealand by the Attorney-General, if this Act makes no other provision.
@@ -1696,7 +1710,7 @@ Amendment(s) incorporated in the Act(s).
 ### 187 Amendments to Proceeds of Crime Act 1991
 Amendment(s) incorporated in the Act(s).
 
-## Schedule
+## Schedule  — Rome Statute of the International Criminal Court*
 
 | 2. | (a) | The Presidency, acting on behalf of the Court, may propose an increase in the number of judges specified in paragraph 1, indicating the reasons why this is considered necessary and appropriate. The Registrar shall promptly circulate any such proposal to all States Parties. |  |
 | --- | --- | --- | --- |
@@ -1779,9 +1793,8 @@ Amendment(s) incorporated in the Act(s).
 |  |  | (i) | Under exceptional circumstances, and having regard, inter alia, to the concrete risk of flight, the seriousness of the offence charged and the probability of success on appeal, the Trial Chamber, at the request of the Prosecutor, may maintain the detention of the person pending appeal; |
 |  |  | (ii) | A decision by the Trial Chamber under subparagraph (c) (i) may be appealed in accordance with the Rules of Procedure and Evidence. |
 
-| 1. | (a) | The Court shall have the authority to make requests to States Parties for cooperation. The requests shall be transmitted through the diplomatic channel or any other appropriate channel as may be designated by each State Party upon ratification, acceptance, approval or accession. |
+| 1. | (a) | The Court shall have the authority to make requests to States Parties for cooperation. The requests shall be transmitted through the diplomatic channel or any other appropriate channel as may be designated by each State Party upon ratification, acceptance, approval or accession. Subsequent changes to the designation shall be made by each State Party in accordance with the Rules of Procedure and Evidence. |
 | --- | --- | --- |
-|  |  | Subsequent changes to the designation shall be made by each State Party in accordance with the Rules of Procedure and Evidence. |
 |  | (b) | When appropriate, without prejudice to the provisions of subparagraph (a), requests may also be transmitted through the International Criminal Police Organization or any appropriate regional organization. |
 
 | 5. | (a) | The Court may invite any State not party to this Statute to provide assistance under this Part on the basis of an ad hoc arrangement, an agreement with such State or any other appropriate basis. |
