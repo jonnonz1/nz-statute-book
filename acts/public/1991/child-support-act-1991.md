@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2021-05-24_
+_Consolidation as at 2021-10-26_
 
 > Title
 
@@ -155,13 +155,13 @@ The objects of this Act are—
 (1) A child qualifies for child support if he or she—
   (a) is under the age of 18, or is aged 18 and enrolled at and attending a school; and
   (b) is not living with another person in a marriage, civil union or de facto relationship; and
-  (c) is not financially independent; and
+  (c) in the case of a person aged 16 or older, is not financially independent; and
   (d) is a New Zealand citizen or is ordinarily resident in New Zealand.
 (2) In subsection (1)﻿(a), school means—
   (a) a registered school (as defined in section 10(1) of the Education and Training Act 2020); or
   (b) an overseas school.
 (3) A child who is enrolled at a registered school and attends it until the end of the school's academic year is deemed to be enrolled at and attending the school until 31 December in that year.
-(4) In relation to the child support year commencing on 1 April 2015, subsection (1) must be read as if the whole of paragraph (a) were replaced by a reference to a child under 19 years of age.
+(4) However, the latest that a child qualifies for child support is 31 December in the year in which they turn 18, regardless of whether they are still enrolled at and attending a school after that date.
 
 ### 6 Parents by whom child support payable
 (1) Child support may be sought in respect of a qualifying child from any person—
@@ -339,9 +339,29 @@ The objects of this Act are—
   (a) from the day on which the properly completed application for that formula assessment is received by the Commissioner; or
   (b) if a reassessment results in a person being identified as a liable parent, from the date specified in the reassessment as the effective date.
 (2) If a parent becomes liable to pay child support to a person in relation to a child under a formula assessment, any existing liability of that parent to pay child support to the person in relation to that child under any voluntary agreement is suspended between the commencement of liability to pay under the formula assessment and the end of that liability.
-(3) If the Commissioner receives an application for a formula assessment that names a person as a parent of a qualifying child (person P), but person P is not at that time a parent of the child within the meaning of section 7, then, if the application is otherwise properly completed, liability by person P to pay child support in respect of the child starts from the day on which the application was received if—
-  (a) a court later declares person P to be the parent of the child, or person P is later declared to be a parent of the child by an order made by a court or a public authority in an overseas jurisdiction; and
-  (b) the Commissioner determines under this Part that person P is a liable parent of the child.
+(3) Subsection (4) applies if the Commissioner receives an application for a formula assessment that names a person as a parent of a qualifying child (person P), but person P is not at that time a parent of the child within the meaning of section 7, if all of the following conditions are met:
+  (a) a New Zealand court, or a court or public authority of any overseas jurisdiction, later finds person P to be a parent of the child:
+  (b) the Commissioner determines under this Part that person P is a liable parent of the child:
+  (c) the application is otherwise properly completed.
+(4) Liability by person P to pay child support under a formula assessment in respect of the child starts—
+  (a) on the day on which the application is received by the Commissioner if—
+    (i) the application for the finding referred to in subsection (3)﻿(a) (the order) is made no later than 60 days after the Commissioner receives the application for a formula assessment; and
+    (ii) the Commissioner receives the order no later than 60 days after the order is made; or
+  (b) on the day on which the application is received by the Commissioner, if the Commissioner is satisfied that the time limits in paragraph (a) were not met because there was a reasonable cause; or
+  (c) on the day on which the Commissioner receives the order, in any other case.
+(5) Subsection (6) applies if the Commissioner receives an application for a formula assessment that names a person as a parent of a qualifying child (person P), but person P is not at that time a parent of the child within the meaning of section 7, if all of the following conditions are met:
+  (a) person P later, in any proceeding before any court in New Zealand, or before any court or public authority in an overseas jurisdiction, acknowledges that they are a parent of the child and a court has not made a finding of paternity of the child that is to the contrary of that acknowledgment:
+  (b) the Commissioner determines under this Part that person P is a liable parent of the child:
+  (c) the application is otherwise properly completed.
+(6) Liability by person P to pay child support under a formula assessment in respect of the child starts—
+  (a) on the day on which the application is received by the Commissioner if—
+    (i) the acknowledgment is made no later than 60 days after the Commissioner receives the application for a formula assessment; and
+    (ii) the Commissioner receives the acknowledgment no later than 60 days after it is made; or
+  (b) on the day on which the application is received by the Commissioner, if the Commissioner is satisfied that the time limits in paragraph (a) were not met because there was a reasonable cause; or
+  (c) on the day on which the Commissioner receives the acknowledgment, in any other case.
+(7) For the purposes of this section, reasonable cause means an event or circumstance in relation to an applicant that—
+  (a) is beyond the control of the applicant, including a serious illness, an accident, or a disaster; and
+  (b) caused, in the opinion of the Commissioner, the time limits not to be met.
 
 ### 20 Suspension of voluntary agreements
 [Repealed]
@@ -988,6 +1008,17 @@ In making an assessment of child support or domestic maintenance payable in rela
 (2) Where the person supplies an estimate under subsection (1)﻿(b)﻿(iii), that person will be deemed to have made an election in terms of section 40.
 (3)
 
+### 81A Amendments of assessments arising from living circumstances existing at time initial assessment made
+(1) This section applies if—
+  (a) the Commissioner made an assessment on the basis that certain living circumstances existed at the time of assessment; and
+  (b) the recipient of the assessment advises the Commissioner that the circumstances did not exist at the time of assessment; and
+  (c) section 82 does not apply.
+(2) The Commissioner may backdate any amendment made under section 87 to the time when the assessment begins if the recipient of the assessment advises the Commissioner within the period of 28 days beginning with the date of the notice of assessment.
+(3) The Commissioner may also backdate any amendment made under section 87 to the time when the assessment begins if the recipient of the assessment—
+  (a) is a liable parent, and the backdating has the effect of increasing the amount of the parent’s child support liability:
+  (b) is a receiving carer, and the backdating has the effect of decreasing the amount of child support payable in respect of that carer.
+(4) Otherwise, an amendment of the assessment under section 87 is effective only from the date on which the recipient advises the Commissioner.
+
 ### 82 Parents and receiving carers to advise Commissioner of changes
 (1) For the purpose of enabling the Commissioner to make or amend a calculation of child support payable in respect of a child in any child support year under a formula assessment, every parent and every receiving carer of the child must advise the Commissioner of any change in the parent's or carer's living circumstances occurring during the child support year that affects, or may affect, any of the following:
   (a) in relation to parents and non-parent carers, the determination of the person's care cost percentage:
@@ -1050,6 +1081,25 @@ In assessing the annual rate at which child support or domestic maintenance is p
   (b) the Commissioner is satisfied that the matter giving rise to the increase did not result from any neglect or default by the person who is required to pay that child support or that domestic maintenance under the amended assessment,—
   (c) shall pay by the due date the amount that would have been payable if the increase had not taken effect; and
   (d) shall pay the amount of the increase within 30 days after the date of the amended assessment,—
+(7) This section is subject to section 87A.
+
+### 87A Four-year time bar for amendment of certain assessments
+(1) Despite section 87, the Commissioner may amend an assessment only—
+  (a) before the expiry of the fourth child support year after the end of the child support year in which the assessment was given; or
+  (b) as a result of information or an application that was received by the Commissioner before the expiry of that fourth child support year; or
+  (c) if an exception in subsection (2) or (3) applies.
+(2) An exception applies if—
+  (a) the Commissioner is of the opinion that information provided by a person is fraudulent or wilfully misleading; or
+  (b) the Commissioner is of the opinion that information provided by a person does not mention income that is of a particular nature, or that was derived from a particular source, and in respect of which information is required to be provided; or
+  (c) an assessment is made under subpart 4 of Part 5A (which relates to victims of sex offences).
+(3) An exception also applies if—
+  (a) a liable person, child, or payee to whom the assessment relates has died; or
+  (b) a person is not a parent of the child; or
+  (c) reassessment is necessary to avoid double liability of a liable person who has paid financial support in an overseas jurisdiction in respect of the same child or payee and period; or
+  (d) a court order is received that applies to an earlier period; or
+  (e) a new assessment is made in relation to a qualifying child (for example, because a paternity order is provided) and it results in a reassessment of an existing child support assessment in relation to another qualifying child or children; or
+  (f) the Commissioner did not meet the requirements of section 88 (which relates to notice of assessment) or section 89 (which relates to notification).
+(4) This section does not otherwise restrict rights in respect of review, objection, or appeal under other Parts of this Act.
 
 ### 88 Notice of assessment of formula assessment of child support
 (1) The Commissioner must give written notice (a notice of assessment) to each parent and receiving carer of a qualifying child—
@@ -1061,6 +1111,7 @@ In assessing the annual rate at which child support or domestic maintenance is p
 (2) As a minimum, the notice of assessment must set out, in relation to each qualifying child to whom the notice relates, the matters identified in section 88A so far as they are relevant to the assessment as it applies in respect of the child.
 (2A) However, in no case may a notice of assessment reveal any more detail about another person who is a parent or carer than the person’s name (subject to subsection (5)) and, in relation to a qualifying child, the person’s proportion of care and care cost percentage.
 (3) Without limiting subsection (2), the notice of assessment must contain sufficient information to enable the recipient to exercise his or her rights to object under section 90 or 91.
+(3A) Any notice of assessment to which section 81A(2) could apply must specifically draw the attention of the recipient to the 28-day time limit for advising the Commissioner of any living circumstances that existed at the time when the assessment was made but that appear not to have been taken into account by the Commissioner.
 (4) The notice must also include, or be accompanied by, statements that specifically draw to the attention of the recipient the recipient's right to—
   (a) object under section 90 or 91 if he or she is aggrieved by any of the particulars of the assessment; and
   (b) apply to the Commissioner under Part 6A; and
@@ -1127,6 +1178,7 @@ In assessing the annual rate at which child support or domestic maintenance is p
 ### 89A Outline
 (1) This Part provides for exemptions from the payment of financial support in the following cases:
   (a) for hospital patients, in respect of periods of long-term hospitalisation, if certain income criteria are met:
+  (aa) for persons suffering from long-term periods of illness, if certain income criteria are met:
   (b) for prisoners, in respect of periods of long-term imprisonment, if certain income criteria are met:
   (c) for liable parents under the age of 16 years, if certain income criteria are met:
   (d) for victims of sex offences, regardless of income.
@@ -1139,6 +1191,7 @@ In this Part, unless the context otherwise requires,—
   - **hospital patient** means a person who is, for the time being,—
     (a) a patient in a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001; or
     (b) a resident in a treatment centre within the meaning of the Substance Addiction (Compulsory Assessment and Treatment) Act 2017; or
+    (c) a person in an overseas jurisdiction who is equivalent to a patient referred to in paragraph (a) or to a resident referred to in paragraph (b)
   - **income** —
     (a) has the same meaning as in section YA 1 of the Income Tax Act 2007; and
     (b) includes gross income (within the meaning of section OB 1 of the Income Tax Act 1994 and the Income Tax Act 2004) and assessable income (within the meaning of the Income Tax Act 1976)
@@ -1146,26 +1199,28 @@ In this Part, unless the context otherwise requires,—
   - **period of hospitalisation** —
     (a) means the continuous period during which a person is a hospital patient; and
     (b) includes any lawful absence of the person from the hospital for not more than 7 days, or any other period that is, in the opinion of the Commissioner, reasonable in the circumstances of the case
+  - **period of illness** means the continuous period during which a person is suffering from an illness or injury
   - **period of imprisonment** —
     (a) means the continuous period during which a person is a prisoner; and
     (b) includes any lawful absence of the person from the prison for not more than 7 days, or any other period that is, in the opinion of the Commissioner, reasonable in the circumstances of the case
   - **prisoner** means a person who is, for the time being,—
     (a) in the legal custody of the Superintendent of any penal institution as defined in the Penal Institutions Act 1954; or
-    (b) in legal custody under the Corrections Act 2004
+    (b) in legal custody under the Corrections Act 2004; or
+    (c) in legal custody in an overseas jurisdiction that is equivalent to legal custody referred to in paragraph (a) or (b)
   - **relevant minimum annual rate of financial support** means, in relation to a child support year,—
     (a) for an exemption from child support payable under a formula assessment or under an order under section 109, the minimum annual rate for that year under section 72(1)﻿(a):
     (b) for an exemption from any other child support payable under this Act or from domestic maintenance, $520
   - **social security benefit** means any benefit as defined in Schedule 2 of the Social Security Act 2018.
 
-### Subpart 2 — Exemptions for hospital patients, prisoners, and persons under 16 years
+### Subpart 2 — Exemptions for hospital patients, persons suffering from long-term periods of illness, prisoners, and persons under 16 years
 
-**Exemption for hospital patients**
+**Exemption for hospital patients and persons suffering from long-term periods of illness**
 
 ### 89C Exemption for long-term hospital patients
 (1) A liable person is eligible for an exemption from the payment of financial support for the whole, or part, of a long-term period of hospitalisation of that person if—
   (a) the person's income for that whole period, or that part, will be or was nil, or will be or was calculated only from income consisting solely of—
     (i) income from investments; or
-    (ii) a social security benefit payable to the person at the rate specified in Part 12 of Schedule 4 of the Social Security Act 2018 as payable to long-term hospital patients; and
+    (ii) a social security benefit payable to the person at the rate specified in Part 12 of Schedule 4 of the Social Security Act 2018 as payable to long-term hospital patients or an equivalent benefit in an overseas jurisdiction; and
   (b) the person's income from investments (if any) during that whole period, or that part, did not or will not—
     (i) exceed an average amount per week in that whole period, or that part, that is equal to the relevant minimum annual rate of financial support, divided by 52; and
     (ii) if that whole period, or that part, is 1 or more full child support years in duration, exceed, in a child support year in that whole period or that part, the relevant minimum annual rate of financial support; and
@@ -1173,13 +1228,24 @@ In this Part, unless the context otherwise requires,—
 (1A) For the purposes of subsection (1)﻿(a), a liable person's income during a period of long-term hospitalisation does not include any amounts received by the person during that hospitalisation for, or in respect of, any time up to and including the day on which the period of hospitalisation began.
 (2) This section is subject to sections 89F and 89G.
 
+### 89CA Exemption for persons suffering from long-term periods of illness
+(1) A liable person is eligible for an exemption from the payment of financial support for the whole, or a part, of a long-term period of illness of that person if—
+  (a) the person’s income for that whole period, or that part, will be, or was, nil or will be, or was, calculated only from income consisting solely of income from investments; and
+  (b) the person’s income from investments (if any) during that whole period, or that part, did not, or will not,—
+    (i) exceed an average amount per week in that whole period, or that part, that is equal to the relevant minimum annual rate of financial support, divided by 52; and
+    (ii) if that whole period, or that part, is 1 or more full child support years in duration, exceed, in a child support year in that whole period, or that part, the relevant minimum annual rate of financial support; and
+  (c) the long-term period of illness results in the person being unable to engage in paid work; and
+  (d) the person applies for the exemption in accordance with section 89H.
+(2) For the purposes of subsection (1)﻿(a), a liable person’s income during a long-term period of illness does not include any amounts received by the person during that period for, or in respect of, any time up to and including the day on which the long-term period of illness began.
+(3) This section is subject to sections 89F and 89G.
+
 **Exemption for prisoners**
 
 ### 89D Exemption for long-term prisoners
 (1) A liable person is eligible for an exemption from the payment of financial support for the whole, or part, of a long-term period of imprisonment of that person if—
   (a) the person’s income for the whole period, or that part, will be or was nil or will include or included no income other than income from—
     (i) investments:
-    (ii) employment under section 66 of the Corrections Act 2004; and
+    (ii) employment under section 66 of the Corrections Act 2004 or equivalent employment in an overseas jurisdiction; and
   (b) the person's income from investments (if any) during that whole period, or that part, did not or will not—
     (i) exceed an average amount per week in that whole period, or that part, that is equal to the relevant minimum annual rate of financial support, divided by 52; and
     (ii) if that whole period, or that part, is 1 or more full child support years in duration, exceed, in a child support year in that whole period or that part, the relevant minimum annual rate of financial support; and
@@ -1203,27 +1269,32 @@ In this Part, unless the context otherwise requires,—
 ### 89F Exemption does not apply at any time during child support year if income criteria not met at any time during relevant period
 (1) An exemption under this subpart does not apply at any time during the whole of a child support year if,—
   (a) at any time during the relevant period,—
-    (i) in the case of an exemption under section 89C, the person receives any income (subject to section 89C(1A)) other than from investments or a social security benefit payable at the rate specified in Part 12 of Schedule 4 of the Social Security Act 2018 as payable to long-term hospital patients; or
-    (ii) in the case of an exemption under section 89D or 89E, the person receives any income (subject to sections 89C(1A) and 89D(1A)) other than from investments, or employment under section 66 of the Corrections Act 2004; or
+    (i) in the case of an exemption under section 89C, the person receives any income (subject to section 89C(1A)) other than from investments or a social security benefit payable at the rate specified in Part 12 of Schedule 4 of the Social Security Act 2018 or an equivalent benefit in an overseas jurisdiction as payable to long-term hospital patients; or
+    (ia) in the case of an exemption under section 89CA, the person receives any income (subject to section 89CA(2)) other than from investments; or
+    (ii) in the case of an exemption under section 89D or 89E, the person receives any income (subject to section 89D(1A)) other than from investments or from employment under section 66 of the Corrections Act 2004 or equivalent employment in an overseas jurisdiction; or
   (b) the person receives income from investments during the relevant period that—
     (i) exceeds, if the relevant period is less than a full child support year in duration, an average amount per week in the relevant period that is equal to the relevant minimum annual rate of financial support, divided by 52; or
     (ii) exceeds, if the relevant period is a full child support year in duration, the relevant minimum annual rate of financial support.
 (2) However, in the case of an exemption under section 89C, if a liable person is receiving a higher rate benefit at the start of that person's hospitalisation, that benefit does not prevent the exemption from applying after the person stops receiving that benefit for the whole or a part of the rest of the child support year in which that person became a hospital patient.
+(2A) Also, in the case of an exemption under section 89CA, if a liable person is receiving a benefit at the start of that person’s period of illness, that benefit does not prevent the exemption from applying after the person stops receiving that benefit for the whole, or a part of, the rest of the child support year in which that exemption applies.
 (3) For the purposes of this section,—
   - **higher rate benefit** means a social security benefit payable at a rate higher than the rate specified in Part 12 of Schedule 4 of the Social Security Act 2018 as payable to long-term hospital patients
   - **relevant period** , in relation to a child support year,—
     (a) in the case of an exemption under section 89C, means the period of hospitalisation that is in the child support year and during which the person would, but for an exemption under this subpart, be liable to pay financial support; and
+    (aa) in the case of an exemption under section 89CA, means the period of illness that is in the child support year and during which the person would, but for an exemption under this subpart, be liable to pay financial support; and
     (b) in the case of an exemption under section 89D, means the period of imprisonment that is in the child support year and during which the person would, but for an exemption under this subpart, be liable to pay financial support; and
     (c) in the case of an exemption under section 89E, means the period before the person turns 16 that is in the child support year and during which the person would, but for an exemption under this subpart, be liable to pay child support.
 
 ### 89G Other restrictions on application of exemptions
 (1) An exemption under this subpart does not apply at any time after—
   (a) the day on which the relevant period of hospitalisation ends (in the case of an exemption under section 89C):
+  (aa) the day on which the relevant period of illness ends (in the case of an exemption under section 89CA):
   (b) the day on which the relevant period of imprisonment ends (in the case of an exemption under section 89D):
   (c) the day on which the person turns 16 (in the case of an exemption under section 89E).
 (2) An exemption under this subpart does not apply to a period if the liable person is not eligible, or ceases to be eligible, for that exemption in relation to that period.
 (3) If an application for an exemption under—
   (a) section 89C is made under section 89H after the day on which the relevant period of hospitalisation ends, the exemption does not apply at any time before the commencement of this section:
+  (aa) section 89CA is made under section 89H after the day on which the relevant period of illness ends, the exemption does not apply at any time before the commencement of this paragraph:
   (b) section 89E is made under section 89H after the day on which the person turns 16, the exemption does not apply at any time before the commencement of this section.
 
 **Application and grant of exemptions under this subpart**
@@ -1233,12 +1304,15 @@ In this Part, unless the context otherwise requires,—
   (a) be in the appropriate approved form; and
   (b) be given to the Commissioner before—
     (i) the expiry of 3 months after the day on which the relevant period of hospitalisation ends (in the case of an application for an exemption under section 89C); or
+    (ia) the expiry of 3 months after the day on which the relevant period of illness ends (in the case of an application for an exemption under section 89CA); or
     (ii) the relevant period of imprisonment ends (in the case of an application for an exemption under section 89D); or
     (iii) the expiry of 3 months after the day on which the person turns 16 (in the case of an application for an exemption under section 89E); and
   (c) specify the person's estimate of his or her weekly and total income for the periods specified on the form; and
+  (ca) in the case of an application for an exemption under section 89CA, include evidence, as reasonably required by the Commissioner, to satisfy the Commissioner that the applicant has a long-term period of illness during the period to which the application relates; and
   (d) include the information that the approved form requires to be included.
 (2) An application for an exemption under—
   (a) section 89C may be made in relation to the whole of the long-term period of hospitalisation or 1 or more parts of that whole period:
+  (aa) section 89CA may be made in relation to the whole of the long-term period of illness or 1 or more parts of that whole period:
   (b) section 89D may be made in relation to the whole of the long-term period of imprisonment or 1 or more parts of that whole period:
   (c) section 89E may be made in relation to the whole of the period before the person turns 16 or 1 or more parts of that whole period.
 
@@ -1266,7 +1340,7 @@ In this Part, unless the context otherwise requires,—
   (b) hold the exemption excess (in whole or in part) and apply the amount held at some future time to a liability of the person concerned to make further payments of financial support:
   (c) amend any assessment.
 
-### Subpart 3 — Determinations in relation to exemptions for hospital patients, prisoners, and persons under 16 years
+### Subpart 3 — Determinations in relation to exemptions for hospital patients, persons suffering from long-term periods of illness, prisoners, and persons under 16 years
 
 ### 89K Commissioner may make determinations in relation to exemptions
 (1) The Commissioner may, in accordance with this subpart, make a determination having the effect that a specified exemption does not apply, or ceases to apply, in relation to the whole or a part of a period for which it was granted.
@@ -1538,6 +1612,10 @@ The Commissioner may, in accordance with this Part, make a determination having 
   (a) the applicant; and
   (b) every other liable parent or receiving carer of the qualifying child.
 
+### 96BA Four-month time limit for certain applications that are time-barred under section 87A
+(1) An application under section 96B that asks for a determination in relation to a time-barred period must be received by the Commissioner within 4 months after the date on which the latest notice of assessment in respect of that period is given by the Commissioner to the applicant.
+(2) In this section, a time-barred period means the period in section 87A after which the Commissioner may not amend an assessment unless an exception under that section applies.
+
 ### 96C Matters as to which Commissioner must be satisfied before making determination
 (1) Subject to this Part, if—the Commissioner may make the determination.
   (a) an application is made to the Commissioner under section 96B; and
@@ -1559,7 +1637,7 @@ The Commissioner may, in accordance with this Part, make a determination having 
   (a) section 98 (which sets the minimum liability in respect of child support):
   (b) section 106(2) to (4) (which relate to the orders that may be made):
   (ba) section 106A (further provision on orders for re-establishment costs situations if income increases):
-  (bb) section 106B (further provision on orders for offsetting of liabilities situations):
+  (bb)
   (c) section 107 (which relates to implementation of orders):
   (d) section 119(1)﻿(a) (which relates to the cessation of orders).
 (1A) The determinations that the Commissioner may make under subsection (1) are not limited by the terms of the application under section 96B.
@@ -1948,7 +2026,7 @@ The Supreme Court, the Court of Appeal, the High Court, the District Court, and 
   (b) it would be—to make a particular order of the type specified in section 106,—
     (i) just and equitable as regards the child, the receiving carer, and the liable parent; and
     (ii) otherwise proper,—
-(2) For the purposes of subsection (1)﻿(a), the grounds for departure are as follows:Re-establishment costs situation if income increasesOffsetting of liabilities situation
+(2) For the purposes of subsection (1)﻿(a), the grounds for departure are as follows:Re-establishment costs situation if income increases
   (a) that, by virtue of special circumstances, the capacity of either parent to provide financial support for the child is significantly reduced because of—
     (i) the duty of the parent to maintain any other child or another person; or
     (ii) special needs of any other child or another person that the parent has a duty to maintain; or
@@ -1965,8 +2043,8 @@ The Supreme Court, the Court of Appeal, the High Court, the District Court, and 
     (iii) an entitlement of the liable parent or receiving carer to the continued occupancy of a property in which the liable parent or receiving carer has a financial interest; or.
   (d) that the application in relation to the child of the provisions of this Act relating to formula assessment of child support would result in an unjust and inequitable determination of the level of child support to be provided by the liable parent for the child in respect of a child support year because—
     (i) the adjusted taxable income of a parent of the child for the child support year includes income from relevant additional work (see subsections (3A) to (3C)); and
-    (ii) some or all of the income from relevant additional work has been used, or will be used, by the parent to meet, wholly or partly, actual and reasonable costs incurred to re-establish himself or herself, and any child or other person that he or she has a duty to maintain, after the child's parents ceased to live together in a marriage, civil union, or de facto relationship; or
-  (e) that it would be just and equitable to offset one liability against another, if 2 persons are each liable to pay in respect of the other an amount of child support under a formula assessment (whether or not those amounts have become due and payable).
+    (ii) some or all of the income from relevant additional work has been used, or will be used, by the parent to meet, wholly or partly, actual and reasonable costs incurred to re-establish himself or herself, and any child or other person that he or she has a duty to maintain, after the child's parents ceased to live together in a marriage, civil union, or de facto relationship.
+  (e)
 (3) For the purposes of subsection (2)﻿(b)﻿(i), costs incurred in enabling a parent or receiving carer to have contact with the child are not to be taken to be high unless the total of those costs during a child support year is more than 5% of the adjusted taxable income for the year of the person incurring the costs.
 (3A) In subsection (2)﻿(d), relevant additional work means work done by the parent during the relevant 3-year period that, in quantity or nature or both, is additional to work that he or she did before the child's parents ceased to live together in a marriage, civil union, or de facto relationship.
 (3B) In subsection (3A), the relevant 3-year period means the 3-year period starting on the date on which the child’s parents ceased to live together in a marriage, civil union, or de facto relationship.
@@ -2013,22 +2091,7 @@ The amount that an order under section 106 on the ground in section 105(2)﻿(d)
   (b) 30% of the parent’s adjusted taxable income.
 
 ### 106B Further provision on orders for offsetting of liabilities situations
-(1) An order under section 106 on the ground in section 105(2)﻿(e) may provide for the offsetting of liabilities in cases involving all or any of the following:
-  (a) liabilities in respect of the 2 persons caring at different times for the same child:
-  (b) liabilities in respect of the 2 persons caring at the same time for 2 or more different children:
-  (c) liabilities in respect of different child support years:
-  (d) liabilities in respect of child support years ending before 1 April 2016 (that is, the date of commencement of this section and section 105(2)﻿(e)):
-  (e) liabilities under different formula assessments.
-(2) Subsection (1) does not limit section 105(2)﻿(e).
-(3) An order under section 106 on the ground in section 105(2)﻿(e) may not apply in respect of—
-  (a) any liability of a person in respect of a period if during that period the other person is expected to be, or (as the case requires) was, a social security beneficiary; or
-  (b) a penalty payable under section 134.
-(4) Subsection (5) applies to an order under section 106 on the ground in section 105(2)﻿(e) if the liability of 1 of the persons in respect of the other to pay child support in respect of a particular month under 1 or more formula assessments (the relevant liability)—
-  (a) has been offset to any extent under section 152B; or
-  (b) has been reduced to any extent by virtue of section 34 or 35 as in force before 1 April 2015 (including as applied on and after that date by clause 1A of Schedule 1), if the relevant liability is in respect of a month before April 2015.
-(5) The order may not apply in respect of the relevant liability to any extent.
-(6) In relation to a liability in respect of a child support year ending before 1 April 2015, any order on the ground in section 105(2)﻿(e) is to be made under section 106 as in force before that date in accordance with clause 1A of Schedule 1 and the orders that may be made include an order varying the annual rate of child support payable by a parent in respect of that child support year.
-(7) An order under section 106 on the ground in section 105(2)﻿(e) may be made only on an application made on or after 1 April 2016.
+[Repealed]
 
 ### 107 Implementation of orders
 (1) When a decision of a court making an order in determination of an application under section 104 becomes final, the Commissioner shall, as soon as practicable, take such action as is necessary to give effect to the decision in relation to any formula assessment that has been made in relation to the child, the receiving carer, and the liable parent concerned (whether by amending the assessment or otherwise).
@@ -2253,13 +2316,21 @@ Any amount of financial support payable under this Act (including any penalty or
 **Method in which financial support to be collected**
 
 ### 129 Right to choose voluntary automatic deductions or other payment method
-(1) Subject to sections 130 and 131, any person who is liable to pay financial support under this Act must pay the money so payable to the Commissioner—
+(1) Subject to sections 129A to 131, any person who is liable to pay financial support under this Act must pay the money so payable to the Commissioner—
   (a) by way of automatic deduction under Part 10 from source deduction payments paid by an employer of the person, if the conditions in subsection (2) are met; or
   (b) if those conditions are not met, by any other payment method acceptable to the Commissioner.
 (2) The conditions are that—
   (a) the person is, or will be, the recipient of source deduction payments from the employer; and
   (b) the person chooses, in a way acceptable to the Commissioner, for deductions in respect of future payments of financial support to be made from source deduction payments paid by the employer; and
   (c) the Commissioner does not consider automatic deductions inappropriate in the person’s case.
+
+### 129A Newly liable persons to pay financial support by automatic deduction
+(1) This section applies to a liable person who receives an assessment unless—
+  (a) the person is already paying financial support under this Act (for example, in respect of another child) by another payment method acceptable to the Commissioner; and
+  (b) the person is not in default of their obligations under this Act.
+(2) Section 129 does not apply and payments of financial support must be paid—
+  (a) by way of automatic deduction under Part 10 from source deduction payments paid by an employer of the person; or
+  (b) if the Commissioner considers automatic deduction inappropriate in the person’s case, by another payment method acceptable to the Commissioner.
 
 ### 130 Defaulters to pay child support by automatic deduction
 Where any person makes default in any payment of financial support under this Act,—
@@ -2618,8 +2689,13 @@ In any case where—
 (3) Any refund made under this section must be paid out of a Crown Bank Account without further appropriation than this section.
 
 ### 152B Offsetting child support payments
-(1) If 2 parents are each to be liable to pay the other an amount of child support, the Commissioner may at any time before both of the amounts of child support concerned become due and payable offset one liability against the other.
-(2) However, the Commissioner cannot exercise this power in respect of any liability of a parent in respect of a period if during that period the other parent is expected to be a social security beneficiary (as defined in section 2(1)).
+(1) This section applies if 2 persons are each liable to pay in respect of the other an amount of child support under a formula assessment (whether or not those amounts have become due and payable).
+(1A) The Commissioner may at any time offset one amount against the other if the Commissioner is satisfied that it would be just and equitable to do so.
+(2) However, the Commissioner cannot exercise this power in respect of any amount in respect of a period if during that period the other parent is expected to be a social security beneficiary (as defined in section 2(1)).
+(3) Subsection (4) applies if—
+  (a) the power to offset should not have been exercised because of subsection (2); and
+  (b) the reversal of the offsetting results in a requirement to pay an additional amount of child support.
+(4) The parent must pay the additional amount within 30 days after the date on which the notice of reversal is given to the parent.
 
 ## Part 10 — Automatic deductions
 
