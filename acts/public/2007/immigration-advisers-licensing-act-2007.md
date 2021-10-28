@@ -1,5 +1,5 @@
 # Immigration Advisers Licensing Act 2007
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Immigration Advisers Licensing Act 2007.
@@ -29,9 +29,9 @@ In this Act, unless the context otherwise requires,—
     (a) the recording, organising, storing, or retrieving of information:
     (b) computing or data entry:
     (c) recording information on any form, application, request, or claim on behalf and under the direction of another person
-  - **code of conduct** means a code of conduct approved by the Minister under section 37 and published or notified in accordance with section 38(1)﻿(a)
+  - **code of conduct** means a code of conduct made under section 37
   - **company** has the meaning given to it by section 2(1) of the Companies Act 1993; and includes companies or bodies corporate registered or formed outside New Zealand
-  - **competency standards** means the competency standards approved by the Minister under section 36 and published or notified in accordance with section 38(1)﻿(a)
+  - **competency standards** means the competency standards made under section 36
   - **Department** means the Department of Labour, or such other department of State that has, with the authority of the Prime Minister, assumed responsibility for the administration of this Act
   - **former licensed immigration adviser** has the meaning given to it by section 44(1)﻿(b)
   - **immigration advice** has the meaning given to it by section 7
@@ -128,6 +128,7 @@ The following persons are exempt from the requirement to be licensed:
 (5) Subject to subsection (6), a person exempt under any of paragraphs (a), (b), (c), (d), (f), (g), (h), and (i) of section 11 or a category 1 exemptee may, despite being exempt, apply for a licence and, if the licence is granted, operate as a licensed immigration adviser.
 (6) A lawyer or a category 2 exemptee may neither apply for, nor hold, a licence.
 (7) A removal of the exemption provided for in section 11(h) by regulations made under subsection (1) may be in respect of all or any 1 or more classes of person to whom the exemption relates, and the removal or retention of the exemption may be subject to any terms and conditions specified in the regulations.
+(8) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 13 Process for Minister to make recommendation
 (1) The Minister must not make a recommendation under section 12(2) unless the Minister—
@@ -150,6 +151,7 @@ The following persons are exempt from the requirement to be licensed:
 (2) The Registrar must report to the Minister on the outcome of any review under this section.
 (3) After considering the report provided by the Registrar, the Minister may recommend to the Governor-General that the exemption in question be removed or amended.
 (4) The Governor-General may, by Order in Council made on the recommendation of the Minister under subsection (3), make regulations revoking or amending any exemption granted by regulations made under section 12(1)﻿(a).
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 15 Persons prohibited from licensing
 (1) A person is prohibited from being licensed if he or she—
@@ -315,7 +317,7 @@ If no application for the renewal of a licence is made on or before the date on 
 (1) The functions of the Authority are—
   (a) to establish and maintain a register of licensed immigration advisers:
   (b) to administer the licensing regime for immigration advisers:
-  (c) to develop and maintain competency standards and a code of conduct for immigration advisers:
+  (c) to develop, make, and maintain competency standards and a code of conduct for immigration advisers:
   (d) to facilitate the education and professional development of immigration advisers:
   (e) to facilitate public awareness of matters relating to the provision of immigration advice:
   (f) to investigate and take enforcement action in relation to offences under this Act:
@@ -325,7 +327,7 @@ If no application for the renewal of a licence is made on or before the date on 
 (2) The Registrar is responsible to the chief executive for carrying out the functions of the Authority.
 
 ### 36 Registrar to develop competency standards
-(1) The Registrar must develop and maintain competency standards to be met by licensed immigration advisers.
+(1) The Registrar must develop, make, and maintain competency standards to be met by licensed immigration advisers.
 (2) The competency standards must set out rules and criteria relating to—
   (a) relevant qualifications:
   (b) practical experience and knowledge:
@@ -336,13 +338,14 @@ If no application for the renewal of a licence is made on or before the date on 
   (a) the Minister and the Department; and
   (b) persons or representatives of persons who engage in the provision of immigration advice; and
   (c) appropriate bodies or persons representing persons seeking or receiving immigration advice.
-(5) Competency standards developed under this section do not have any effect for the purposes of this Act until—
-  (a) they have been submitted to the Minister; and
-  (b) the Minister, after being satisfied that appropriate consultation has been carried out under subsection (4), has approved and signed the competency standards.
-(6) The Registrar may at any time amend, revoke, or replace any approved competency standards in the manner provided for in this section and section 38, except that he or she need not carry out consultation on matters involving minor corrections or updating, or otherwise of a minor, technical nature.
+(5) The Registrar must not make competency standards unless the Minister—
+  (a) is satisfied that appropriate consultation has been carried out under subsection (4); and
+  (b) has approved the proposed competency standards.
+(5A) Competency standards are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) The Registrar may at any time amend, revoke, or replace any competency standards in the manner provided for in this section, except that he or she need not carry out consultation on matters involving minor corrections or updating, or otherwise of a minor, technical nature.
 
 ### 37 Registrar to develop code of conduct
-(1) The Registrar must develop and maintain a code of conduct to be observed by licensed immigration advisers.
+(1) The Registrar must develop, make, and maintain a code of conduct to be observed by licensed immigration advisers.
 (2) The code of conduct must address standards of professional and ethical conduct for licensed immigration advisers, including rules as to matters such as—
   (a) obligations to clients:
   (b) obligations to the Minister and Department handling immigration matters:
@@ -354,20 +357,19 @@ If no application for the renewal of a licence is made on or before the date on 
   (a) the Minister and the Department; and
   (b) persons or representatives of persons who engage in the provision of immigration advice; and
   (c) appropriate bodies or persons representing persons seeking or receiving immigration advice.
-(4) A code of conduct developed under this section does not have any effect for the purposes of this Act until—
-  (a) it has been submitted to the Minister; and
-  (b) the Minister, after being satisfied that appropriate consultation has been carried out under subsection (3), has approved and signed the code of conduct.
-(5) The Registrar may at any time amend, revoke, or replace any approved code of conduct in the manner provided for in this section and section 38, except that it need not carry out consultation on matters involving minor corrections or updating, or otherwise of a minor, technical nature.
+(4) The Registrar must not make a code of conduct unless the Minister—
+  (a) is satisfied that appropriate consultation has been carried out under subsection (3); and
+  (b) has approved the proposed code.
+(4A) A code of conduct is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) The Registrar may at any time amend, revoke, or replace any code of conduct in the manner provided for in this section, except that it need not carry out consultation on matters involving minor corrections or updating, or otherwise of a minor, technical nature.
 
 ### 38 Publication of code of conduct and competency standards
-(1) Once a code of conduct or any competency standards have been approved, the Registrar must, as soon as practicable,—
-  (a) either publish the code or standards in the Gazette, or notify their approval in the Gazette; and
-  (b) where the Registrar considers it practicable, cause them to be brought to the attention of the persons likely to be affected by them by notice or publication in any newspaper or trade journal, or by any other practicable means (including electronic means).
-(2) The Registrar must also make copies of the code of conduct and the competency standards available for inspection free of charge (whether electronically or otherwise), and for purchase at a reasonable cost, at the head office of the Authority and at such other places (including overseas places) as the Registrar determines.
-(3) If the code of conduct or competency standards are notified only, and not published in the Gazette, the Gazette notice must specify where a copy may be inspected or obtained.
+(1)
+(2) The Registrar must make copies of the code of conduct and the competency standards available for inspection free of charge (whether electronically or otherwise), and for purchase at a reasonable cost, at the head office of the Authority and at such other places (including overseas places) as the Registrar determines.
+(3)
 
 ### 39 Application of Legislation Act 2012 to code and standards
-The code of conduct and competency standards, and any amendment, revocation, or replacement of the code or standards, are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 **Immigration Advisers Complaints and Disciplinary Tribunal**
 
@@ -833,6 +835,7 @@ The Registrar may, under clauses 2 and 3 of Schedule 6 of the Public Service Act
 (1) The Governor-General may, by Order in Council, make regulations setting fees, or prescribing a method for determining fees, for licence applications, the granting and renewal of licences, and other associated matters.
 (2) Fees, or the method for determining fees, may differ for different classes of applicant or licensee, and may take account of whether or not the person concerned charges or proposes to charge for the provision of immigration advice.
 (3) The regulations may provide for the waiver of, or exemption from, fees, in whole or in part.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 90 Immigration adviser's levy
 (1) For the purpose of funding the functions of the Authority under section 35(1) and the costs of operation and administration of the Tribunal (to the extent they are otherwise unfunded), the Governor-General may, by Order in Council, make regulations prescribing a levy, or a method or methods for determining levies, payable by licensed immigration advisers (or payable as a prerequisite for the granting or renewal of a licence).
@@ -840,6 +843,7 @@ The Registrar may, under clauses 2 and 3 of Schedule 6 of the Public Service Act
 (3) Regulations imposing levies may—
   (a) specify when and how any levy is to be paid:
   (b) provide for the waiver of, or exemption from, levies, in whole or in part.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 91 Waiver of further immigration fees in certain cases
 The chief executive of the department of State that has, with the authority of the Prime Minister, assumed responsibility for the administration of the Immigration Act 2009 may, in whole or in part, waive any fee payable on a further immigration application or request by a person whose earlier application or request has not been accepted because it contravened section 9.
@@ -914,7 +918,7 @@ The chief executive of the department of State that has, with the authority of t
 (4) However, a notice or document must not be treated as received if the person to whom it is posted or sent proves that it was not received, otherwise than through fault on the person's part.
 
 ### 94 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the matters to be included in the register of licensed immigration advisers:
   (b) prescribing information or material that must be included in licence applications:
   (c) providing for exemptions from the requirement to be licensed, or the removal or amendment of exemptions, under section 12 or 14:
@@ -924,6 +928,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (g) prescribing levies, or a method or methods for determining levies, payable by licensed immigration advisers (or payable as a prerequisite for the granting or renewal of a licence):
   (h) prescribing matters in respect of the proceedings of the Tribunal:
   (i) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Amendments to other Acts**
 
