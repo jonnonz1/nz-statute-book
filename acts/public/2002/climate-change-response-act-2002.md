@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2021-03-15_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -7,7 +7,8 @@ This Act is the Climate Change Response Act 2002.
 ## Part 1 — Preliminary provisions
 
 ### 2 Commencement
-This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
+(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2A Application of Schedules 3 and 4
 (1) Any provision in this Act that imposes an obligation on, or provides an entitlement to, a person in respect of an activity listed in Schedule 3 or 4—
@@ -47,6 +48,7 @@ This Act comes into force on a date to be appointed by the Governor-General by O
 (12)
 (13)
 (14) Subpart 2 of Part 2 of Schedule 4 applies on and after a date to be appointed by the Governor-General by Order in Council.
+(14A) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (15)
 (16)
 (17)
@@ -123,7 +125,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   (ac) with respect to section 5H (which relates to appointments of members of the Commission), the Minister must, before recommending the appointment of a member to the Commission, have regard to the need for the Commission to have members who have technical and professional skills, experience, and expertise, and innovative approaches, relevant to the Treaty of Waitangi (Te Tiriti o Waitangi):
   (ad) with respect to sections 5ZG and 5ZI (which require the Minister to prepare and publish an emissions reduction plan), the Minister must include in a emissions reduction plan a strategy to recognise and mitigate the impacts on iwi and Māori of reducing emissions and must ensure that iwi and Māori have been adequately consulted on the plan:
   (ae) with respect to section 5ZS (which requires the Minister to prepare a national adaptation plan), the Minister must, in preparing a plan, take into account the economic, social, health, environmental, ecological, and cultural effects of climate change on iwi and Māori:
-  (b) with respect to the following provisions (which relate to powers to make regulations or Orders in Council or to give notice in the Gazette), before recommending the making of regulations or an order, or giving notice in the Gazette, under those provisions, the Minister must consult, or be satisfied that the chief executive has consulted, representatives of iwi and Māori that appear to the Minister or chief executive likely to have an interest in the regulations, order, or notice:
+  (b) with respect to the following provisions (which relate to powers to make secondary legislation), before recommending the making of secondary legislation, under those provisions, the Minister must consult, or be satisfied that the chief executive has consulted, representatives of iwi and Māori that appear to the Minister or chief executive likely to have an interest in the secondary legislation:
     (i) section 2A(5B) or (5D) (Part 5 of Schedule 3):
     (ii) section 30G(1)﻿(b)﻿(i), (c), (j), or (k) (dealings with units under Part 2):
     (iii) section 30GA (auctions to sell New Zealand units):
@@ -159,7 +161,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   (j)
 
 ### 3B Consultation about certain regulations, orders, and notices
-(1) The Minister must comply with this section before recommending the making of regulations or an Order in Council, or giving notice in the Gazette, under any of the following:
+(1) The Minister must comply with this section before making, or recommending the making of, secondary legislation under any of the following:
   (a) section 30G(1)﻿(b)﻿(i), (c), (j), or (k) (dealings with units under Part 2):
   (b) section 30GA (auctions to sell New Zealand units):
   (c) section 30GB (limits and price controls for units):
@@ -296,7 +298,9 @@ In order to recognise and respect the Crown’s responsibility to give effect to
       (ii) the EPA’s assessment under section 121 of the matters that should have been in an emissions return; and
     (c) includes an emissions return that shows nil liability
   - **emissions trading scheme** means (except in section 3) the greenhouse gas emissions trading scheme established under this Act
-  - **entity** , in relation to a group, means a reporting entity or a reporting entity's subsidiary, within the meaning of section 5 of the Financial Reporting Act 2013
+  - **entity** , in relation to a group, means—
+    (a) a reporting entity within the meaning of paragraph (a) of the definition of that term in section 5 of the Financial Reporting Act 2013; or
+    (b) a subsidiary (within the meaning of section 5 of the Financial Reporting Act 2013) of a reporting entity referred to in paragraph (a)
   - **Environmental Protection Authority** or means the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011
   - **ETS participant provisions** means Parts 4 to 5D of this Act
   - **exempt land** —
@@ -525,6 +529,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   (a) amend the definition of greenhouse gas in section 4 to add 1 or more other gases; and
   (b) if necessary, amend Schedule 1AA to set out transitional provisions for the addition.
 (2) The Minister must not recommend the making of an order unless the Minister is satisfied that New Zealand has international climate change obligations in relation to the additional gas or gases.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4A Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
@@ -811,7 +816,7 @@ The purpose of this subpart and subparts 3 and 4 is to require the Minister to s
   (a) notified in the Gazette, stating the date on which the emissions budget period commences and ends; and
   (b) presented by the Minister to the House of Representatives; and
   (c) made publicly available at the direction of the Minister.
-(3) A Gazette notice published under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012, and does not have to be presented to the House of Representatives under section 41 of that Act.
+(3)
 
 **Revision of emissions budgets**
 
@@ -1079,6 +1084,7 @@ The Minister must, no later than 6 months after the date on which the Minister r
   (b) the potential extent and significance of climate change effects on the functions of the reporting organisation; and
   (c) the avoidance of unnecessary duplication of information provided within existing reporting frameworks.
 (3) Before recommending the making of the regulations, the Minister must consult the Commission and the reporting organisations that the Minister considers may be affected by the proposed regulations.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 2 — Institutional arrangements
 
@@ -1530,6 +1536,7 @@ No action may be brought against the Crown or the Registrar for any loss or dama
   (b) approved overseas units that are issued before 1 January 2021 (the start of the third commitment period).
 (3A) The amount of fees set under regulations made under subsection (1)﻿(f) must not exceed the amount necessary to enable the recovery of the direct and indirect costs of the Registrar in performing his or her functions under this Part.
 (4) Any regulations made under subsection (1) must be consistent with international climate change obligations.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 30GA Regulations for auctions to sell New Zealand units
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations under this section that prescribe matters relating to the powers of the Minister under section 6A to sell New Zealand units by auction.
@@ -1565,6 +1572,7 @@ No action may be brought against the Crown or the Registrar for any loss or dama
       (B) $2,000 in any other case:
   (d) prescribing those infringement fees as different amounts for a first, second, or subsequent infringement offence:
   (e) providing for any other matters for the conduct of an auction that the Minister considers relevant to the effective conduct of the auction.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 30GB Regulations about limits and price control settings for units
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations under this section.
@@ -1607,6 +1615,7 @@ No action may be brought against the Crown or the Registrar for any loss or dama
   - **approved overseas units used** means the number of approved overseas units used by participants in a calendar year by, for example, being transferred to holding accounts or being surrendered
   - **New Zealand units available by auction** means the number of New Zealand units sold by auction in a calendar year
   - **New Zealand units available by other means** means the number of New Zealand units that are allocated for eligible activities, or provided to participants under negotiated greenhouse agreements, in a calendar year.
+(9) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 ExampleRegulations are first made under this section in December 2020. They must prescribe the individual limits, overall limits, and price control settings for the 5 (or 6) years from 2021 to 2025 (or 2026). In 2021, the regulations—must be amended to apply (or in how they apply) to 2026; andmay be amended to prescribe new individual limits, overall limits, and price control settings for 2024 and 2025; andmay be amended to prescribe new price control settings for 2022 or 2023.
 
 ### 30GC Requirements for regulations about limits and price control settings for units
@@ -1656,6 +1665,7 @@ ExampleRegulations are first made under this section in December 2020. They must
   - **auction agent** means any agent appointed under section 6A(b) to conduct an auction
   - **auction monitor** means a person appointed as an auction monitor under regulations recommended under subsection (2)﻿(a)
   - **auction participant** means a potential buyer who participates in an auction.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 30GE Sharing information with auction monitor
 (1) The purpose of this section is to facilitate the provision of information—
@@ -1694,7 +1704,7 @@ An auction monitor who knowingly acts in contravention of section 30GF commits a
   (d) section 30GD (auction monitor).
 (2) See sections 3A and 3B for consultation requirements that apply to the making of the regulations.
 (3) The regulations come into force—
-  (a) 3 months after the date of their notification in the Gazette, or on any later date specified in the regulations; but
+  (a) 3 months after the date of their publication under the Legislation Act 2019, or on any later date specified in the regulations; but
   (b) if the Minister considers it is in the national interest that they be made urgently, on any earlier date specified in the regulations.
 
 ### 30I Incorporation by reference in regulations made under section 30G
@@ -1750,11 +1760,12 @@ In this subpart,—
   (d) providing for any other matters contemplated by this subpart, necessary for its administration, or necessary for giving it full effect.
 (2) Before the Minister recommends the making of regulations under subsection (1)﻿(a), the Minister must be satisfied, after consulting the Minister of Justice, that a contravention of each duty, restriction, or prohibition is sufficiently minor to be appropriate as an infringement offence.
 (3) A person may be prosecuted for, and convicted of, an offence against any provision referred to in subsection (1)﻿(a)﻿(i) even if their conduct is or may be an infringement offence.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 30N Consultation and commencement for regulations about infringement offences
 (1) This section applies to regulations made under section 30M.
 (2) See sections 3A and 3B for consultation requirements that apply to the making of the regulations.
-(3) The regulations come into force 3 months after the date of their notification in the Gazette, or on any later date specified in the regulations.
+(3) The regulations come into force 3 months after the date of their publication under the Legislation Act 2019, or on any later date specified in the regulations.
 
 ### 30O Proceedings for infringement offences
 (1) A person who is alleged to have committed an infringement offence may—
@@ -1819,7 +1830,8 @@ A reminder notice must be in the form prescribed in regulations, and must includ
   (b) the price of New Zealand units sold by auction in the preceding 12 months; and
   (c) any changes to the operation of the emissions trading scheme that have affected the price of the units surrendered under that scheme, or that may do so before the end of the next levy year.
 (3) See sections 3A and 3B for consultation requirements that apply to the making of regulations under subsection (1)﻿(a).
-(4) Regulations made under subsection (1)﻿(a) come into force 3 months after the date of their notification in the Gazette, or on any later date specified in the regulations.
+(4) Regulations made under subsection (1)﻿(a) come into force 3 months after the date of their publication under the Legislation Act 2019, or on any later date specified in the regulations.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 3 — Inventory agency
 
@@ -2021,6 +2033,9 @@ For the purpose of reporting to the Secretariat in accordance with international
   (b) international climate change obligations.
   (c)
 (8) The Governor-General may, by Order in Council, amend or replace Schedule 1, 2, or 2A so that the schedule sets out an up-to-date form of the relevant document (the Convention, the Protocol, or the Paris Agreement).
+(9) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations made under this section:
+  (b) an Order in Council made under subsection (8).
 
 ### 51 Incorporation by reference in regulations made under section 50
 (1) The following written material may be incorporated by reference in regulations made under section 50:
@@ -2185,6 +2200,7 @@ For the purpose of reporting to the Secretariat in accordance with international
   (a) the negotiated greenhouse agreement was signed before 31 December 2005; and
   (b) the order relates to an activity of the person that is covered by the negotiated greenhouse agreement; and
   (c) the order is in force for a period not exceeding the term of the negotiated greenhouse agreement, including any extension of the term made in accordance with the agreement.
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (7)
 (8)
 
@@ -2207,6 +2223,7 @@ For the purpose of reporting to the Secretariat in accordance with international
   (d) any alternatives that are available for achieving the objectives of the Minister in respect of giving the exemption:
   (e) any other matters that the Minister considers relevant.
 (5) See sections 3A and 3B for consultation requirements that apply to the making or revocation of an order under this section.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 60B Incorporation by reference in order made under section 60 or 60A
 (1) The following written material may be incorporated by reference in an order made under section 60 or 60A:
@@ -2375,7 +2392,7 @@ A participant must, in respect of each activity listed in Schedule 3 or 4 that i
 (1) The Climate Change (Pre-1990 Forest Land Allocation Plan) Order 2010 was made under this section to issue an allocation plan in respect of pre-1990 forest land.
 (2) The allocation plan may be revoked but not amended or replaced.
 (3) The allocation plan came into force on the day after the date it was presented to the House of Representatives.
-(4) The allocation plan is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) The allocation plan is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 71 Correction of allocation plans
 [Repealed]
@@ -2494,6 +2511,7 @@ A participant must, in respect of each activity listed in Schedule 3 or 4 that i
   (b) at least—
     (i) 0.01 for a year in the period beginning on 1 January 2031 and ending on 31 December 2040; or
     (ii) 0.02 for a year in the period beginning on 1 January 2041 and ending on 31 December 2050.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 84A Temporary suspension of allocation entitlement for eligible industrial activities
 [Repealed]
@@ -2511,6 +2529,7 @@ A participant must, in respect of each activity listed in Schedule 3 or 4 that i
   (a) the emissions budget for the emissions budget period has been revised; or
   (b) the Minister is satisfied that, since the regulations were made or last considered, there has been a significant change that affects the considerations listed in section 84C(3).
 (6) In this section, increased phase-out rate means any rate that is more than, or the same as, the rate in sections 81(2)﻿(a) and 83(2A)﻿(a), even if it is less than a rate previously set by regulations under this section.
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 84C Procedure for regulations setting phase-out rates
 (1) Before recommending the making or amendment of regulations under section 84A or 84B, the Minister must be satisfied that the regulations or amendments are consistent with meeting the emissions budget that will apply when the regulations or amendments are in force.
@@ -2562,6 +2581,7 @@ A participant must, in respect of each activity listed in Schedule 3 or 4 that i
 (2A) Before recommending the making of an Order in Council under subsection (2)﻿(a)﻿(ii), the Minister must consider the advice of the Climate Change Commission about whether the phase-out rates should continue to be suspended.
 (3) The Minister must not make a recommendation under subsection (2)﻿(a)﻿(ii) before surrender obligations for the relevant participants start.
 (4) This section is repealed on the day after the closure date specified in the Order in Council made under subsection (2)﻿(a)﻿(ii) that specifies the end of all suspensions under this section.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 85B Temporary suspension of allocation entitlement for eligible agricultural activities
 [Repealed]
@@ -3510,6 +3530,7 @@ The amount of a penalty imposed under sections 134 to 134D, together with any in
     (i) that could not have been anticipated; and
     (ii) the effect of which could not have been avoided by compliance with accepted standards of business organisation and professional conduct; or
   (b) a person’s financial position.
+(8) An order under subsection (2)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 138 Obligation to pay penalty not suspended by appeal
 (1) The obligation to pay and the right to receive and recover any penalty imposed under sections 134 to 134D or interest imposed under section 137 are not suspended by any review or appeal.
@@ -3912,9 +3933,10 @@ If an entity ceases to be a member of a consolidated group, the entity—
   (a) moderately emissions-intensive or highly emissions-intensive; and
   (b) trade-exposed.
 (4) Despite anything in this section or section 161C, a regulation may not be made under subsection (1) that prescribes electricity generation as an eligible industrial activity.
-(5) The following regulations made under subsection (1) come into force on the day 5 years after the date of their notification in the Gazette or any later date that may be set by the regulations:
+(5) The following regulations made under subsection (1) come into force on the day 5 years after the date of their publication under the Legislation Act 2019 or any later date that may be set by the regulations:
   (a) a regulation that revokes a regulation prescribing an activity as an eligible industrial activity:
   (b) a regulation that amends a regulation providing that an eligible industrial activity is highly emissions-intensive to provide that the eligible industrial activity is moderately emissions-intensive.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 161B Australian eligible industrial activities
 [Repealed]
@@ -3936,7 +3958,7 @@ If an entity ceases to be a member of a consolidated group, the entity—
 (5) If the Minister has adjusted the tonnes of emissions of 1 or more persons under subsection (4), the Minister may use both the information as originally submitted and as adjusted to calculate different allocative baselines for the relevant product.
 
 ### 161D Power to require information for purposes of allocation to industry
-(1) The Minister may, for any of the purposes in subsection (3), by notice in the Gazette—
+(1) The Minister may, for any of the purposes in subsection (3), by notice—
   (a) specify a description of an activity, including the matters listed in section 161A(1)﻿(b)﻿(i) in respect of the activity:
   (b) specify in respect of the activity each product that may be used, if the activity is prescribed in regulations as an eligible industrial activity, as the basis for an allocation of New Zealand units in respect of the activity (a specified product):
   (c) specify in respect of the activity—
@@ -3965,7 +3987,7 @@ If an entity ceases to be a member of a consolidated group, the entity—
   (b) whether it is necessary to adjust any person's number of whole tonnes of included emissions provided under subsection (1)﻿(e)﻿(i)﻿(C) in accordance with section 161C(4):
   (c) any other matter listed in section 161A(1) in respect of an activity:
   (d) whether any matter should be considered by a review under section 160.
-(4) A Gazette notice under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5) Following the provision of information by any person in accordance with subsection (1)﻿(e), the Minister may give notice to the person—
   (a) requiring the person to provide any further information that the Minister considers is necessary to enable the verification of the accuracy of the information; and
   (b) specifying the date by which the further information specified in the notice must be provided to the Minister.
@@ -4034,9 +4056,10 @@ If an entity ceases to be a member of a consolidated group, the entity—
   (b) must review those regulations at least once in every 5-year period; and
   (c) must not recommend the making of regulations that would result in there being no regulations in force under this section for the activity while surrender obligations for the activity exist.
 (6) In conducting a review under subsection (5)﻿(b), the Minister must comply with subsections (3) and (4).
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 161H Power to request information showing output from eligible agricultural activities
-(1) The Minister may, after 1 January 2011, by notice in the Gazette,—
+(1) The Minister may, after 1 January 2011, by notice,—
   (a) specify an eligible agricultural activity in respect of which information must be provided under paragraph (d):
   (b) specify, in respect of the eligible agricultural activity specified under paragraph (a), the product or products of the eligible agricultural activity in respect of which the information must be provided under paragraph (d):
   (c) specify the year or years for which information must be provided under paragraph (d):
@@ -4048,7 +4071,7 @@ If an entity ceases to be a member of a consolidated group, the entity—
     (i) carried out the activity at the date of the notice given under subsection (1); and
     (ii) failed, without reasonable excuse, to supply the data and information required by the date specified in the notice given under subsection (2); and
   (b) any associated person of a person referred to in paragraph (a).
-(4) A Gazette notice under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 162 Order in Council adding further activity to Part 2 of Schedule 4
 (1) The Governor-General may, by Order in Council, in accordance with a recommendation of the Minister, amend Part 2 of Schedule 4 by adding a further activity to that Part.
@@ -4057,12 +4080,12 @@ If an entity ceases to be a member of a consolidated group, the entity—
 (4) An Order in Council made under subsection (1) takes effect for the removal activity or activities concerned on and from—
   (a) 1 January of the next year, if made on or before 30 June in any year; or
   (b) 1 July of the next year, if made on or after 1 July in any year.
+(5) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 162A Orders are confirmable instruments
-The explanatory note of an Order in Council made under section 162(1) must indicate that—
-  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### 163 Regulations relating to methodologies and verifiers
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
@@ -4070,7 +4093,7 @@ The explanatory note of an Order in Council made under section 162(1) must indic
   (ab) authorising, in respect of a forestry activity, the EPA to specify the location where, and the device by which, the data or other information prescribed in accordance with paragraph (a) must be collected; and
   (b) prescribing a methodology or methodologies for calculating emissions or removals from an activity for the purposes of section 62(b); and
   (c) prescribing the data or other information, or the calculations of emissions or removals, that must be verified by a person or organisation recognised by the EPA under section 92; and
-  (d) authorising the EPA to issue guidelines or standards by notice in the Gazette in relation to—
+  (d) authorising the EPA to issue guidelines or standards by notice in relation to—
     (i) the matters prescribed under paragraph (a); and
     (ii) the method and format for determining the spatial extent of an area of forest land; and
   (e) prescribing, for the purposes of section 92,—
@@ -4095,11 +4118,17 @@ The explanatory note of an Order in Council made under section 162(1) must indic
   (b) may require the use of a computer programme available via the Internet site of the EPA; and
   (c) must not cover any emissions in respect of which another person is required to surrender units or any removals of greenhouse gases in respect of which another person is entitled to a transfer of New Zealand units under this Act.
 (5) In recommending the making of regulations under subsection (1)﻿(a) or (b), the Minister must have regard to international climate change obligations (if any) in respect of the collection of data and information relating to, and the measurement of, emissions and removals from the activity.
-(6) Any guidelines or standards issued by the chief executive under regulations made under subsection (1)﻿(d) are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(6)
 (7) A person who has complied with guidelines or standards issued by the EPA in regulations made under subsection (1)﻿(d) is, in the absence of proof to the contrary, presumed to have complied with the relevant requirements specified in regulations corresponding to those guidelines or standards.
+(8) Regulations under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) have effect in accordance with subsection (3) even if they are not yet published.
+(9) If regulations authorise the EPA to issue guidelines or standards under subsection (1)﻿(d),—
+  (a) those guidelines or standards are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 
 ### 164 Regulations relating to unique emissions factors
-If regulations made under section 163(1)﻿(b) require emissions or removals to be calculated by reference to a default emissions factor, the Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
+(1) If regulations made under section 163(1)﻿(b) require emissions or removals to be calculated by reference to a default emissions factor, the Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
   (a) providing for a process by which a participant may apply to the EPA for approval to use a unique emissions factor:
   (b) prescribing the information that must be collected to support an application for use of a unique emissions factor:
   (c) prescribing the criteria for a unique emissions factor, which may include (but are not limited to)—
@@ -4108,6 +4137,7 @@ If regulations made under section 163(1)﻿(b) require emissions or removals to 
     (iii) how the unique emissions factor is to be calculated:
     (iv) any criteria by which the default emissions factor has been set, that reflect the matters in section 163(4):
     (v) a requirement that the unique emissions factor be verified by a recognised verifier.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 165 Regulations relating to offsetting of pre-1990 forest land
 [Repealed]
@@ -4117,7 +4147,7 @@ If regulations made under section 163(1)﻿(b) require emissions or removals to 
   (a) section 163 (methodologies and verifiers):
   (b) section 164 (unique emissions factors).
 (2) See sections 3A and 3B for consultation requirements that apply to the making of the regulations.
-(3) The regulations come into force 3 months after the date of their notification in the Gazette, or on any later date specified in the regulations.
+(3) The regulations come into force 3 months after the date of their publication under the Legislation Act 2019, or on any later date specified in the regulations.
 
 ### 167 Regulations relating to fees and charges
 (1) The Governor-General may, by Order in Council, make regulations prescribing the amount of any fees payable under the ETS participant provisions and the procedures for payment.
@@ -4150,6 +4180,10 @@ If regulations made under section 163(1)﻿(b) require emissions or removals to 
   (i) authorise the EPA to recover the full costs of services from third parties (other than services in respect of which a fee or charge is prescribed) in circumstances prescribed in the regulations; and
   (j) authorise the EPA to grant, in whole or in part, an exemption, waiver, or refund in relation to any fee or charge.
 (5) Subsection (2) is subject to sections 173(2) and 174(1) (which relate to material incorporated by reference).
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7) If regulations authorise the EPA to grant exemptions, waivers, or refunds referred to in subsection (4)﻿(j),—
+  (a) an instrument granting an exemption or a waiver or refund is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 168 Other regulations
 (1) The Governor-General may, by Order in Council, make regulations for 1 or more of the following purposes:
@@ -4176,6 +4210,7 @@ If regulations made under section 163(1)﻿(b) require emissions or removals to 
   (o) providing for any other matters contemplated by the ETS participant provisions or Schedules 3 and 4, necessary for their administration, or necessary for giving them full effect.
 (2) The power to prescribe the form of any application, return, information, or other document under subsection (1) includes the power to prescribe an electronic format to be used for the electronic transmission of data to or between computers.
 (3) See sections 3A and 3B for consultation requirements that apply to the making of regulations under subsection (1)﻿(nb).
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 169 Incorporation by reference in certain regulations
 (1) The following written material may be incorporated by reference in regulations made under a relevant empowering section:
@@ -4247,9 +4282,8 @@ If regulations made under section 163(1)﻿(b) require emissions or removals to 
   (c) if the material specified in paragraph (a) or (b) is not in an official New Zealand language, an accurate translation of the material in an official New Zealand language.
 (3) A failure to comply with this section does not invalidate regulations that incorporate material by reference.
 
-### 175 Application of Legislation Act 2012 to material incorporated by reference
-(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in regulations or to an amendment to, or a replacement of, that material.
-(2) Material incorporated by reference in regulations does not have to be presented to the House of Representatives under section 41 of the Legislation Act 2012.
+### 175 Application of Legislation Act 2019 to material incorporated by reference
+Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in regulations merely because it is incorporated.
 
 ### 176 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
 [Repealed]
@@ -4570,7 +4604,8 @@ The status of pre-1990 forest land as exempt land runs with the land and is not 
   (c) prescribing the methodology for determining and calculating carbon equivalence:
   (d) providing for any other matters contemplated by sections 186B and 186C, necessary for their administration, or necessary for giving them full effect.
 (2) See sections 3A and 3B for consultation requirements that apply to the making of the regulations.
-(3) The regulations come into force 3 months after the date of their notification in the Gazette, or on any later date specified in the regulations.
+(3) The regulations come into force 3 months after the date of their publication under the Legislation Act 2019, or on any later date specified in the regulations.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 186G EPA may revoke approval in certain circumstances
 (1) The EPA may, in relation to a person specified in section 186A(2) or (3), revoke any approval it has given under section 186B if—
@@ -4999,9 +5034,12 @@ The EPA must give written or electronic notice to a participant, or former parti
   (b) specifying the data or information that must be contained in any input return or the input return for each type of emissions return:
   (c) specifying the deadline for submitting the input return for each type of emissions return, which must be a reasonable period before the deadline for submitting the emissions return:
   (d) providing for how, and for how long, the EPA may extend a deadline for submitting the input return for any emissions return or for each type of emissions return:
-  (e) authorising the EPA to issue guidelines or standards by notice in the Gazette in relation to the matters specified under paragraphs (b) to (d).
+  (e) authorising the EPA to issue guidelines or standards in relation to the matters specified under paragraphs (b) to (d).
 (2) See sections 3A and 3B for consultation requirements that apply to the making of the regulations.
-(3) Any guidelines or standards issued by the EPA under regulations made under subsection (1)﻿(e) are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3A) If regulations authorise the EPA to issue guidelines or standards under subsection (1)﻿(e),—
+  (a) those guidelines or standards are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 (4) A person who has complied with guidelines or standards issued by the EPA under regulations made under subsection (1)﻿(e) is, in the absence of proof to the contrary, presumed to have complied with the relevant requirements specified in regulations corresponding to those guidelines or standards.
 
 **Notification of status of forest land**
@@ -5083,7 +5121,8 @@ The EPA may give 1 or more forestry classifications to an area of land in accord
   (b) the costs of services provided by third parties.
 (3) Section 167(4) also applies to regulations made under subsection (1)﻿(b)﻿(ii).
 (4) See sections 3A and 3B for consultation requirements that apply to the making of regulations under this section.
-(5) Regulations made under this section come into force 3 months after the date of their notification in the Gazette, or on any later date specified in the regulations.
+(5) Regulations made under this section come into force 3 months after the date of their publication under the Legislation Act 2019, or on any later date specified in the regulations.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Grant-funded forests**
 
@@ -5107,6 +5146,7 @@ A participant in an activity of standard forestry or permanent forestry in a car
 (4) Regulations made under subsection (1)﻿(c) may relate to emissions or removals that—
   (a) stem directly from the activity; or
   (b) are associated with a product or other thing that is the subject of the activity.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 5A — Sector-specific provisions: liquid fossil fuels
 
@@ -5151,12 +5191,12 @@ A participant in respect of an activity listed in Part 2 of Schedule 3 is not re
 (3) An Order in Council made under subsection (1) takes effect for the removal activity or activities concerned on and from—
   (a) 1 January of the next year, if made on or before 30 June in any year; or
   (b) 1 July of the next year, if made on or after 1 July in any year.
+(4) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 202A Orders are confirmable instruments
-The explanatory note of an Order in Council made under section 202(1) must indicate that—
-  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### 203 Treatment of obligation fuels
 (1) This section applies if, in breach of the Customs and Excise Act 2018, a participant fails to remove obligation fuel for home consumption.
@@ -5285,6 +5325,7 @@ A participant who carries out the activity listed in subpart 1 of Part 5 of Sche
     (ii) ceases to be entitled to allocations of units in respect of the activities for which they are no longer liable to surrender units.
 (2) Before recommending the making of the regulations, the Minister must consult the Minister of Agriculture.
 (3) See section 3B for consultation requirements that apply to the making of the regulations.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 216 Effect of registration by farmers
 [Repealed]
@@ -5330,6 +5371,7 @@ A participant who carries out the activity listed in subpart 1 of Part 5 of Sche
   (b) consider the report provided by the Climate Change Commission under section 220; and
   (c) be satisfied that progress of the kind referred to in section 220(b) has been insufficient.
 (5) In recommending the making of an order appointing an earlier end date, the Minister must not recommend a date that is before 1 July 2022.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 220 Commission to report on progress towards meeting farm-level obligations
 The Commission must, not later than 30 June 2022, provide written advice to the Minister on—
@@ -5541,6 +5583,7 @@ Section 149(2) applies as if the EPA and the agencies were referred to in sectio
   (e) any other matters the Minister considers relevant.
 (5) While an order made under this section is in force, any person or class of persons in respect of whom the order is made is not required to comply with the obligation to pay the levy.
 (6) See sections 3A and 3B for consultation requirements that apply to the making or revocation of an order under this section.
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Regulations**
 
@@ -5550,7 +5593,8 @@ Section 149(2) applies as if the EPA and the agencies were referred to in sectio
   (b) prescribing the rate of the levy to apply to 1 or more items or classes of leviable goods.
 (2) Regulations made under subsection (1)﻿(a) may specify different rates for different classes of leviable motor vehicles.
 (3) Regulations made under subsection (1)﻿(b) may specify different rates for different classes of leviable goods.
-(4) Regulations made under subsection (1) come into force 3 months after the date of their notification in the Gazette, or on any later date specified in the regulations.
+(4) Regulations made under subsection (1) come into force 3 months after the date of their publication under the Legislation Act 2019, or on any later date specified in the regulations.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 246 Regulations relating to synthetic greenhouse gas levy
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:Specified synthetic greenhouse gasesLeviable motor vehiclesLeviable goodsGeneral
@@ -5565,7 +5609,8 @@ Section 149(2) applies as if the EPA and the agencies were referred to in sectio
   (i) providing for any other matters contemplated by this Part, necessary for its administration, or necessary for giving it full effect.
 (2) Before recommending the making of regulations under subsection (1)﻿(a), the Minister must have regard to international climate change obligations relating to synthetic greenhouse gases.
 (3) See sections 3A and 3B for consultation requirements that apply to the making of regulations under subsection (1)﻿(a) to (e).
-(4) Regulations made under subsection (1)﻿(a) to (e) come into force 3 months after the date of their notification in the Gazette, or on any later date specified in the regulations.
+(4) Regulations made under subsection (1)﻿(a) to (e) come into force 3 months after the date of their publication under the Legislation Act 2019, or on any later date specified in the regulations.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 247 Process for making orders and regulations
 [Repealed]
@@ -5670,6 +5715,7 @@ The EPA may appoint 1 or more enforcement officers under section 93 to exercise 
   (c) generally or at any specified time of each year.
 (3) Before recommending the making of regulations under subsection (1)﻿(a), the Minister must have regard to international climate change obligations in respect of the collection of data and information relating to specified synthetic greenhouse gases.
 (4) See sections 3A and 3B for consultation requirements that apply to the making of regulations under this section.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 3 — Offences and penalties
 
@@ -5834,7 +5880,7 @@ In this Part,—
 (2) Anything done before the commencement of this clause satisfies the requirement as long as it would have satisfied the requirement if it had been done after the commencement.
 
 ### 6 New regulations may commence on or after commencement of clause
-Any regulations made under this Act before the commencement of this clause may come into force on, or at any time after, that commencement, despite anything in this Act that prevents them from coming into force within a certain period after the date of their notification in the Gazette.
+Any regulations made under this Act before the commencement of this clause may come into force on, or at any time after, that commencement, despite anything in this Act that prevents them from coming into force within a certain period after the date of their publication under the Legislation Act 2019.
 
 ### 7 Making first regulations about limits and price controls for units
 (1) If regulations are to be made under section 30GB before there is an emissions budget, section 30GC(2)﻿(a) applies as if it instead referred to any provisional budget for the emission of greenhouse gases that is set by the Crown.
