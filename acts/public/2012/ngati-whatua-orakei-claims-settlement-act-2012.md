@@ -1,5 +1,5 @@
 # Ngāti Whātua Ōrākei Claims Settlement Act 2012
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Ngāti Whātua Ōrākei Claims Settlement Act 2012.
@@ -8,6 +8,7 @@ This Act is the Ngāti Whātua Ōrākei Claims Settlement Act 2012.
 (1) This Act, except sections 54 and 55, comes into force on the first day of the third month after the month in which the Act receives the Royal assent.
 (2) Sections 54 and 55 come into force on a date appointed by the Governor-General by Order in Council.
 (3) A date may be appointed pursuant to subsection (2) only if the Governor-General is satisfied, at the time of the making of the Order, that the Crown has not received a notice from the trustee under clause 6.6 of the deed of settlement specifying that the trustee no longer wishes to purchase the Narrow Neck property.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions and settlement of historical claims
 
@@ -767,10 +768,11 @@ The trustee is not liable to pay any land tax in respect of the hapū land or an
 **Regulations**
 
 ### 76 Regulations
-The Governor-General may, by Order in Council, make regulations for 1 or more of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for 1 or more of the following purposes:
   (a) facilitating the ability of the Reserves Board to grant leases or licences over the whenua rangatira pursuant to section 68:
   (b) prescribing any act or thing necessary to render more effectual the administration of the Reserves Board, or its management of the whenua rangatira:
   (c) providing for any other matters that are contemplated by or necessary for giving full effect to the provisions of this Part or necessary for the due administration of this Part.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 5 — Transitional provisions, consequential amendments, etc
 
