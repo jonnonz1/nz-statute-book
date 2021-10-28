@@ -1,5 +1,5 @@
 # District Court Act 2016
-_Consolidation as at 2021-07-06_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the District Court Act 2016.
@@ -158,7 +158,7 @@ The court has the following divisions:
 (2) The fact that a Judge is appointed under this section does not limit or affect the power of that Judge to exercise any other jurisdiction of the court or the powers of a Judge.
 
 ### 15 Who is eligible for appointment as Judge
-A person may be appointed as a Judge if—
+(1) A person may be appointed as a Judge if—
   (a) that person has for at least 7 years held a New Zealand practising certificate as a barrister or as a barrister and solicitor; or
   (b) that person—
     (i) holds a degree in law granted or issued by any university within New Zealand; and
@@ -166,6 +166,7 @@ A person may be appointed as a Judge if—
     (iii) has held a practising certificate in a jurisdiction specified by Order in Council—
       (A) for at least 7 years; or
       (B) for a lesser number of years, but, when that number of years is added to the number of years that the person has held a New Zealand practising certificate, the total number of years is at least 7 years.
+(2) An order under subsection (1)﻿(b)﻿(iii) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 16 Tenure of Judges
 (1) A Judge is appointed as a permanent Judge and holds office until he or she resigns, retires, or is removed.
@@ -473,7 +474,7 @@ A person may be appointed as Chief Community Magistrate if he or she has held a 
   (a) the date on which the order is made; or
   (b) any other date, whether that date is before or after the date on which the order is made.
 (2B) If no date is specified under subsection (2A) for the coming into force of an Order in Council or a provision of any such order, the order or provision comes into force on the date on which the order is made.
-(3) An Order in Council made under subsection (1)﻿(b) or (2) is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) An order under subsection (1)﻿(b) or (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements) and comes into force in accordance with subsection (2A) or (2B) even if it is not yet published.
 
 ### 61 Remuneration of acting Community Magistrate
 For the period that an acting Community Magistrate acts as authorised under section 59, the acting Community Magistrate must be paid the salary, fee, and allowances determined for a Community Magistrate under section 60.
@@ -1372,6 +1373,7 @@ An employer commits an offence, and is liable on conviction to a fine not exceed
 (5) In this section,—
   - **disabled person** includes a person who has long-term physical, mental, intellectual, or sensory impairments that, in interaction with various barriers, may hinder their full and effective participation in society on an equal basis with others
   - **mobility device** has the same meaning as in section 2(1) of the Land Transport Act 1998.
+(6) An order under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 168 Immobilisation of motor vehicles
 (1) A bailiff or constable executing a warrant to seize property may, while seizing, or instead of seizing, a motor vehicle, immobilise the vehicle by attaching to it any device designed for the purpose, pending payment of the unpaid amount.
@@ -1862,6 +1864,9 @@ A lawyer has no privilege that exempts him or her from the jurisdiction of the c
   (s) regulating and providing for any other matters that were regulated or provided for by the District Courts Rules 2014 in force immediately before this Act comes into force:
   (t) providing for any other matters in respect of which rules are contemplated or specially authorised by this Act:
   (u) providing for any matter for which rules may be necessary or desirable.
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) rules under this section:
+  (b) rules of practice and procedure for the District Court under any other enactment.
 
 ### 229 Application of rules
 The court may, on application by a party to a civil proceeding or on its own initiative,—
@@ -1869,7 +1874,7 @@ The court may, on application by a party to a civil proceeding or on its own ini
   (b) give any direction it thinks fit in the interests of justice.
 
 ### 230 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the applications, matters, and proceedings for which fees are payable under this Act:
   (b) prescribing fees payable in respect of applications, matters, and proceedings, including fees for the filing and service of documents, in the District Court under this Act or any other Act:
   (c) prescribing fees payable to persons giving evidence and to referees and arbitrators in proceedings in the District Court under this Act or any other Act:
@@ -1881,6 +1886,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (g) providing for the manner in which an application for the exercise of a power specified in section 231(1) or 232(1) is to be made, including, without limitation, requiring the application to be in a form approved for the purpose by the chief executive:
   (h) providing for the refund of fees paid for a review of a decision of a Registrar or Deputy Registrar if the decision is overturned in its entirety by a Judge:
   (i) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 231 Regulations providing for waiver, etc, of fees
 (1) In order to promote access to justice, the Governor-General may, by Order in Council, make regulations authorising a Registrar or Deputy Registrar to waive, reduce, or postpone the payment of a fee required in connection with a proceeding or an intended proceeding (including a proceeding in a Disputes Tribunal), or to refund in whole or in part a fee that has already been paid.
@@ -1891,12 +1897,14 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (a) for assessing a person's ability to pay or to absorb a fee; and
   (b) for identifying proceedings that concern matters of genuine public interest.
 (4) No fee is payable for an application for the exercise of a power specified in subsection (1).
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 232 Regulations providing for postponement of fees
 (1) The Governor-General may, by Order in Council, make regulations authorising a Registrar or Deputy Registrar to postpone the payment of a fee pending the determination of—
   (a) an application for the exercise of a power specified in section 231(1); or
   (b) an application for review under section 234.
 (2) No fee is payable for an application for the exercise of a power specified in subsection (1).
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 233 Chief executive may approve forms
 (1) The chief executive may approve and issue forms that the chief executive considers necessary for the purposes of this Act, not being forms required to be prescribed by regulations or rules made under this Act.
@@ -1936,6 +1944,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
 (4) Nothing in this section or an approved information sharing agreement under the Privacy Act 2020 requires the Ministry of Justice to disclose any matter suppressed by or under a court order or any enactment.
 (5) The Governor-General may, by Order in Council made on the recommendation of the Minister of Justice, amend or replace Part B of the items relating to court information in Schedule 1.
 (6) The Minister of Justice may make a recommendation under subsection (5) only after consultation with the Attorney-General and with the consent of the Chief Justice.
+(7) An order under subsection (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 238 Requirements that Registrars disclose information
 (1) If any enactment requires a Registrar to notify a registration authority of certain information about any court proceedings, that requirement is not affected by any suppression order imposed by the court or by operation of law.
