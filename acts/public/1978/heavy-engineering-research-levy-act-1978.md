@@ -1,5 +1,5 @@
 # Heavy Engineering Research Levy Act 1978
-_Consolidation as at 2021-08-26_
+_Consolidation as at 2021-10-28_
 
 > An Act to authorise the levying of persons engaged in heavy engineering manufacture and related industries to provide funds for research into heavy engineering
 
@@ -36,14 +36,18 @@ This Act shall bind the Crown.
 (4) The Governor-General may from time to time, by Order in Council,—as will accord with any amendments made to the Tariff.
   (a) amend Schedule 2 or Schedule 3; and
   (b) omit from Schedule 2 or Schedule 3 any item of the Tariff that is specified in Schedule 2 or Schedule 3—
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5 Minister may prescribe rates of research levy
-(1) Subject to this Act, the Minister may from time to time, on the recommendation of the Association, and after consultation with The New Zealand Manufacturers and Exporters Association Incorporated, prescribe, by notice in the Gazette, rates of research levy payable on any levied items.
+(1) Subject to this Act, the Minister may from time to time, on the recommendation of the Association, and after consultation with The New Zealand Manufacturers and Exporters Association Incorporated, prescribe, by notice, rates of research levy payable on any levied items.
 (2) The prescribed rates shall not,—
   (a) in the case of levied items specified in Schedule 2, exceed $20 for each tonne of goods upon which the levy is imposed apportioned rateably in respect of goods weighing less than 1 tonne; and
   (b) in the case of levied items specified in Schedule 3, exceed 10 cents for each kilogram of goods upon which the levy is imposed apportioned rateably in respect of goods weighing less than 1 kilogram.
-(3) The rates of research levy shall be published in the Gazette at least 28 days before they are to come into force.
-(4) The Minister may at any time, in like manner, vary or revoke any notice made under subsection (1)
+(3) A notice prescribing rates of research levy must be published under the Legislation Act 2019 at least 28 days before it comes into force.
+(4) The Minister may at any time, in like manner, vary or revoke any notice made under subsection (1).
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a notice under subsection (1); and
+  (b) a variation or revocation of a notice under subsection (4).
 
 ### 6 Recovery and collection
 (1) All research levies imposed under this Act shall be recoverable in any court of competent jurisdiction as a debt due to the Association.
