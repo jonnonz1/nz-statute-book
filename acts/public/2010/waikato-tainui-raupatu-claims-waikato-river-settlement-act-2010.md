@@ -1,5 +1,5 @@
 # Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ## Preamble
 The Relationship of Waikato-Tainui with the Waikato River
@@ -49,9 +49,10 @@ Crown Acknowledgements
 This Act is the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010.
 
 ### 2 Commencement
-This Act comes into force as follows:
+(1) This Act comes into force as follows:
   (a) the whole Act may be brought into force on a date appointed by the Governor-General by an Order in Council made on the advice of the Minister for Treaty of Waitangi Negotiations; or
   (b) different provisions may be brought into force on different dates appointed by the Governor-General by Orders in Council made on the advice of the Minister for Treaty of Waitangi Negotiations.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -362,6 +363,7 @@ After the review described in section 18, the Authority must review the vision a
   (c) the recommendation complies with section 20(5); and
   (d) the Crown, the Trust, and the other appointers agree in writing or electronically with one another to accept the recommendation.
 (4) An Order in Council made under this section must specify the date on which the amendments to the vision and strategy take effect.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 22 Establishment and purpose of Authority
 (1) This Act establishes a statutory body called the Waikato River Authority.
@@ -1092,6 +1094,7 @@ In sections 66 to 80,—
 (2) The Governor-General may make an Order in Council only on the advice of the Minister for Treaty of Waitangi Negotiations.
 (3) An Order in Council must specify the date on which the parcel of land becomes a managed property.
 (4) Sections 74 to 78 apply to a parcel of Crown-owned river-related land as if references to the settlement date were references to the date specified in the Order in Council as the date on which the parcel of land becomes a managed property.
+(5) The Minister for Treaty of Waitangi Negotiations must ensure that an Order in Council under this section is published in the Gazette.
 
 **Co-management**
 
@@ -1308,6 +1311,7 @@ On and from the settlement date,—
 (3) Within 80 business days of the settlement date, the Minister of Fisheries must recommend to the Governor-General the making of regulations under the Fisheries Act 1996 providing for Waikato-Tainui to manage customary fishing on the Waikato River through the issuing of customary fishing authorisations to fisheries managed under the Fisheries Act 1996.
 (4) Within 80 business days of the settlement date, the Minister of Fisheries must recommend to the Governor-General the making of regulations under the Fisheries Act 1996 providing for Waikato-Tainui to recommend to the Minister of Fisheries the making of bylaws restricting or prohibiting fishing on the Waikato River of fisheries managed under the Fisheries Act 1996.
 (5) The Minister of Fisheries must make any bylaws recommended under subsection (4), unless the Minister is satisfied that the proposed bylaws would have an undue adverse effect on fishing.
+(6) Regulations under subsection (1) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 94 Accords
 (1) In respect of accords agreed under clause 9.3 of the 2009 deed, each responsible Minister and the Commissioner of Crown Lands must enter into the accord with the Trust on the settlement date on the terms agreed with the Trust.
