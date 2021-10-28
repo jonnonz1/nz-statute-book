@@ -1,5 +1,5 @@
 # Department of Justice (Restructuring) Act 1995
-_Consolidation as at 2004-12-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to restructure the Department of Justice
 
@@ -41,6 +41,7 @@ In this Act, unless the context otherwise requires,—
 (1) The Department of Justice is hereby abolished.
 (2), (3) Amendment(s) incorporated in the Act(s).
 (4) This section shall come into force on a date to be appointed by Order in Council.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Application of collective employment contracts
 Where any employees of the Department of Justice whose conditions of employment are governed by an unexpired collective employment contract are transferred (in circumstances to which section 61B of the State Sector Act 1988 applies) to any department specified in Schedule 1 of the State Sector Act 1988, the unexpired collective employment contract shall be deemed, as from the date of the transfer of those employees, to continue to apply on the same terms (including the period of the contract and any terms relating to new employees)—
@@ -72,6 +73,7 @@ Except as otherwise provided in any employment contract, no employee of the Depa
 (3) The amendment by this section of the regulations specified in Schedule 5 or Schedule 6 shall be without prejudice to any power of amending or revoking those regulations.
 (4) The Governor-General may from time to time, by Order in Council, consequentially revoke Schedule 5 or Schedule 6 or any part of either of those schedules.
 (5) Subsection (2), and Schedule 6, shall come into force on 1 October 1995.
+(6) An order under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 13 Repeals
 (1) The enactments specified in Schedule 7 are hereby consequentially repealed.
