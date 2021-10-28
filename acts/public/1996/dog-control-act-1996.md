@@ -1,5 +1,5 @@
 # Dog Control Act 1996
-_Consolidation as at 2021-06-11_
+_Consolidation as at 2021-10-28_
 
 > An Act—ato make better provision for the control of dogs; andbto make better provision in relation to damage caused by dogs; andcto repeal the Dog Control and Hydatids Act 1982 and its amendments
 
@@ -94,7 +94,7 @@ The objects of this Act are—
   (g) to take all reasonable steps to ensure that the dog does not injure, endanger, or cause distress to any stock, poultry, domestic animal, or protected wildlife:
   (h) to take all reasonable steps to ensure that the dog does not damage or endanger any property belonging to any other person:
   (i) to comply with the requirements of this Act and of all regulations and bylaws made under this Act.
-(2) Nothing in this Act limits the obligations of any owner of a dog to comply with the requirements of any other Act or of any regulations or bylaws regulating the control, keeping, and treatment of dogs.
+(2) Nothing in this Act limits the obligations of any owner of a dog to comply with the requirements of any other Act or of any secondary legislation regulating the control, keeping, and treatment of dogs.
 
 **Functions, duties, and powers of territorial authorities**
 
@@ -683,9 +683,9 @@ No territorial authority shall give its consent under section 32(1)﻿(f) to the
     (i) the deduction of over-recoveries in respect of a financial year from a levy payable in subsequent financial years; or
     (ii) the addition of under-recoveries in respect of a financial year to a levy payable in subsequent financial years; and
   (c) may prescribe how and when the levy must be paid or collected.
-(4) A territorial authority must pay a levy required by regulations made under subsection (1).
+(4) A territorial authority must pay a levy required by an order made under subsection (1).
 (5) The amount of unpaid levy is recoverable in a court of competent jurisdiction as a debt due to the Crown.
-(6) An order made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 36 Application for registration
 (1) Except as provided in subsections (2) and (3), every person who owns a dog shall make an application to the territorial authority in whose district the dog is ordinarily kept to register the dog not later than the first day of every registration year.
@@ -837,7 +837,7 @@ Every registration made under this Act shall be in force throughout New Zealand.
 (1) The owner of any dog shall keep that dog under control at all times.
 (2) Without limiting the generality of subsection (1), a dog shall, for the purposes of this Act, be deemed to be not under control—
   (a) if it is found at large on any land or premises other than a public place or a private way without the consent (express or implied) of the occupier or person in charge of that land or those premises; or
-  (b) if it is found at large in any public place or in any private way in contravention of any regulation or bylaw.
+  (b) if it is found at large in any public place or in any private way in contravention of any secondary legislation.
 (3) Where a dog is not under control in terms of subsection (2), the dog control officer or dog ranger may seize the dog and cause it to be returned to its owner or impounded.
 (3A) A dog control officer or dog ranger in fresh pursuit of a dog that has been not under control in terms of subsection (2) may, at any reasonable time, enter on any land or premises (except a dwellinghouse) to seize and impound a dog if—
   (a) the dog is identified by the dog control officer or dog ranger; and
@@ -862,7 +862,7 @@ Every registration made under this Act shall be in force throughout New Zealand.
 
 ### 53 Offence of failing to keep dog under control
 (1) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who, being the owner of a dog, fails to keep that dog under control.
-(2) Notwithstanding section 52(2)﻿(b), an owner of a dog does not commit an offence against subsection (1) by reason only of the dog being found at large in a public place in contravention of any regulation or bylaw.
+(2) Notwithstanding section 52(2)﻿(b), an owner of a dog does not commit an offence against subsection (1) by reason only of the dog being found at large in a public place in contravention of any secondary legislation.
 
 ### 54 Obligations of dog owner
 (1) The owner of any dog shall—
@@ -1175,7 +1175,7 @@ No constable, dog control officer, dog ranger, territorial authority, or warrant
   (a) in any premises registered under regulations made under section 120 of the Health Act 1956; or
   (b) in any public place.
 (2) However, the person whom the dog is accompanying must comply with any reasonable conditions imposed by the occupier or person controlling the premises or place in relation to the entry or presence of the dog.
-(3) This section overrides any enactment or bylaw prohibiting or regulating the entry or presence of dogs in relation to the premises and places referred to in subsection (1).
+(3) This section overrides any enactment prohibiting or regulating the entry or presence of dogs in relation to the premises and places referred to in subsection (1).
 
 ### 76 Giving and content of notices
 (1) Any notice or direction under this Act that is to be given to any particular person shall be in writing and may be given—
@@ -1212,23 +1212,25 @@ Notwithstanding anything in section 73 of the Public Finance Act 1989, the court
   (b) to impound a dog under this Act:
   (c) to confine a dog in any quarantine facility registered under section 39 of the Biosecurity Act 1993:
   (d) to hold a dog in the custody of any society established to prevent cruelty to animals.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 78A Regulations adding further breed or type to Schedule 4
 (1) The Governor-General may, by Order in Council, in accordance with a recommendation of the Minister, amend Schedule 4 by doing 1 or more of the following to the schedule:
   (a) adding a further breed or type of dog to the schedule; or
   (b) moving the name or description of any dog from part of the schedule to another part of the schedule.
 (2) An Order in Council made under subsection (1) may not come into force except in accordance with a commencement order made under section 78B.
-(3) An order made under subsection (1) is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) An order under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 78B Procedure for bringing Order in Council made under section 78A into force
 (1) The Governor-General may, by Order in Council, make a commencement order bringing any Order in Council made under section 78A into force.
 (2) The commencement order may be made only after the Order in Council made under section 78A has been approved by resolution of the House of Representatives.
 (3) A resolution of the House of Representatives approving the Order in Council may be made at any time after—
-  (a) the date that is 28 days after the date on which notice that the Order in Council has been made is given in the Gazette; or
-  (b) if the Gazette notice is given during the period commencing on 24 December in one year and ending on 15 January in the following year, 15 February of that following year.
+  (a) the date that is 28 days after the date on which the order is published under the Legislation Act 2019; or
+  (b) if the order is published under the Legislation Act 2019 during the period commencing on 24 December in one year and ending on 15 January in the following year, 15 February of that following year.
 (4) An Order in Council made under section 78A lapses if—
   (a) a motion to approve the Order in Council is defeated; or
   (b) no motion to approve the Order in Council is agreed to within 1 year of its date of making.
+(5) An order under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 78C Matters to which Minister must have regard before recommending Order in Council under section 78A
 (1) Before recommending to the Governor-General that an Order in Council be made under section 78A, the Minister must, in respect of each breed or type of dog referred to in the proposed Order in Council,—
@@ -1247,6 +1249,7 @@ Notwithstanding anything in section 73 of the Public Finance Act 1989, the court
   (a) adding or removing the name of an organisation that is authorised to certify a dog as being a dog that has been trained (or is being trained) to assist a person with a disability; or
   (b) amending an item in that schedule referring to an organisation.
 (2) Regulations under this section may be made only on the recommendation of the Minister after the Minister has consulted the Minister for Disability Issues.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 79 Consequential amendments
 The enactments specified in Schedule 2 are hereby amended in the manner indicated in that schedule.
