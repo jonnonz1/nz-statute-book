@@ -1,5 +1,5 @@
 # Broadcasting Act 1989
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 > An Act—ato provide for the maintenance of programme standards in broadcasting in New Zealand; andbto establish the Broadcasting Standards Authority and to define its functions and powers; andcto establish the Broadcasting Commission and to define its functions and powers; anddto enable political parties to broadcast election programmes for Parliamentary elections free of charge; andefto repeal the Broadcasting Act 1976; andgto provide for matters incidental thereto
 
@@ -312,13 +312,15 @@ Except in any proceedings for perjury within the meaning of the Crimes Act 1961 
 (5) Except as expressly provided otherwise in this or any other Act, the Authority must act independently in performing its statutory functions and duties, and exercising its statutory powers, under—
   (a) this Act; and
   (b) any other Act that expressly provides for the functions, powers, or duties of the Authority (other than the Crown Entities Act 2004).
+(6) A code of broadcasting practice under subsection (1)﻿(f) or (g) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7) That Act applies as if—
+  (a) the Authority were the maker of the code; and
+  (b) the code were made by—
+    (i) the Authority issuing it, in the case of a code issued under subsection (1)﻿(f); or
+    (ii) the Authority approving it, in the case of a code approved under subsection (1)﻿(g).
 
 ### 22 Notification and publication of approved codes of broadcasting practice
-(1) Where a code of broadcasting practice is issued under section 21(1)﻿(f) or approved under section 21(1)﻿(g), the Authority shall publish in the Gazette as soon as practicable a notice—
-  (a) stating that the code of broadcasting practice has been so issued or approved; and
-  (b) indicating where copies of the approved code of broadcasting practice can be purchased.
-(2) The Authority shall publish each approved code of broadcasting practice.
-(3) Copies of all approved codes of broadcasting practice that are for the time being in force shall be procurable by purchase from the Authority at a reasonable price.
+[Repealed]
 
 ### 23 Power of Minister to request Authority to consider matter involving broadcasting standards
 (1) Where the Minister considers it is desirable in the public interest to do so, the Minister may refer any matter relating to broadcasting standards to the Authority and require the Authority to consider whether or not it is appropriate to issue an advisory opinion on the matter under section 21(1)﻿(d).
@@ -356,7 +358,7 @@ Except in any proceedings for perjury within the meaning of the Crimes Act 1961 
 (2) Any such rules may apply generally to all broadcasters, or may apply only to broadcasters of specified types or classes, and may from time to time be varied, amended, or revoked.
 (3) Any rules made under this section may require a broadcaster, when requested to do so by the Authority, to obtain recordings of programmes broadcast by that broadcaster and to make suitable arrangements to enable the Authority to view or hear any recordings held or obtained by the broadcaster.
 (4) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who fails to comply with any rules made under this section.
-(5) Rules made under this section are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(5) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 30A Return on total revenue
 (1) Every broadcaster shall, not later than 31 July in each year, give to the Authority a return, for the broadcaster's immediately preceding financial year, of the total revenue derived by that broadcaster in that financial year from broadcasting within New Zealand.
