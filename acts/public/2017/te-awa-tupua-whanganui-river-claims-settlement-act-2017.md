@@ -1,5 +1,5 @@
 # Te Awa Tupua (Whanganui River Claims Settlement) Act 2017
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017.
@@ -834,6 +834,7 @@ On the settlement date, any Crown-owned part of the bed of the Whanganui River t
   (a) public health and safety:
   (b) the health and well-being of Te Awa Tupua:
   (c) any other matter relevant to the management of those activities.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Fisheries**
 
