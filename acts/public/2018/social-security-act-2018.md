@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2021-10-11_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -28,6 +28,7 @@ This Act is the Social Security Act 2018.
   (d) section 431(1)﻿(e)﻿(v):
   (e) clauses 69 to 76 of Schedule 1.
 (7) One or more orders may be made under subsection (6) bringing different provisions into force on different dates.
+(8) An order under subsection (6) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — General provisions
 
@@ -107,18 +108,8 @@ The dictionary in Schedule 2 defines terms used in this Act.
   (a) preferred suppliers: transitional or savings provisions directions given under section 372:
   (b) debt recovery directions given under regulations made under section 444 (see section 444(1), (2)﻿(c), and (3)).
 (3) MSD must, in performing or exercising a duty, function, or power, comply with all relevant current directions given under this section.
-(4) A direction given under this section—
-  (a) must, as soon as practicable after it is given, be—
-    (i) published on an Internet site administered by or on behalf of MSD; and
-    (ii) notified in the Gazette; and
-  (b) must, each time it is amended without also being replaced, as soon as practicable after it is amended, be published—
-    (i) on an Internet site administered by or on behalf of MSD; and
-    (ii) as at a stated date; and
-    (iii) incorporating amendments up to that date; and
-  (c) is not a legislative instrument, but is a disallowable instrument, for the purposes of the Legislation Act 2012, and must be presented to the House of Representatives not only—
-    (i) as soon as practicable; but also
-    (ii) under section 41 of that Act.
-(5) A notification in the Gazette for the purpose of subsection (4)﻿(a)﻿(ii) does not have to include the text of the direction.
+(4) A direction under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5)
 
 ### 8 Determinations person is single or in de facto relationship
 (1) This section applies to a decision by MSD so far as the decision does all or any of the following:
@@ -614,9 +605,11 @@ MSD may grant a young parent payment to a young person (P) who meets all of the 
 (5) MSD may, on a case-by-case basis, make the grant of an emergency benefit subject to any conditions imposed by MSD.
 
 ### 64 Emergency benefit: grant during epidemic in New Zealand
-(1) This section applies while a domestic epidemic management notice is in force, and for any period after it expires that the Minister thinks reasonable.
+(1) This section applies while a domestic epidemic management notice is in force, and for any period notified under subsection (3A).
 (2) When this section applies, MSD may, with the written approval of the Minister, grant emergency benefits to people who would not otherwise be entitled to be granted emergency benefits.
 (3) Payments made under a benefit granted under subsection (2) are subject to regulations made under section 442(2)﻿(d).
+(3A) The Minister may, by notice, apply this section for any further period after a domestic epidemic management notice expires that the Minister thinks reasonable.
+(3B) A notice under subsection (3A) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (4) This section overrides every other provision of this Act.
 
 ### Subpart 10 — Accommodation supplement
@@ -951,6 +944,7 @@ In this subpart and in section 428,—
 (3) Before or after the notice expires, the Minister can give a new notice in respect of the same disease.
 (4) The Minister must not give the notice except on, and after considering, the written recommendation of the chief executive of the Ministry of Health.
 (5) In subsection (1), quarantinable disease has the same meaning as in section 2(1) of the Health Act 1956.
+(6) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 100 Special assistance for visitors affected by overseas epidemics
 (1) The Minister may, in respect of any period for which an overseas epidemic management notice is in force, by written notice establish programmes of special assistance for visitors to New Zealand who are prevented or hindered from returning promptly to places stated in the notice by the outbreak outside New Zealand of the disease stated in the notice.
@@ -962,6 +956,7 @@ In this subpart and in section 428,—
   (e) any conditions subject to which assistance is to be given.
 (3) The programme, and the matters stated in the notice establishing it, override every other provision of this Act.
 (4) The Crown may incur, without further appropriation than this subsection, expenses or capital expenditure for the purpose of providing special assistance under this section.
+(5) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 101 Approved special assistance programmes
 (1) The Minister may from time to time, by written notice, approve and establish welfare programmes for the purpose of granting special assistance.
@@ -969,20 +964,10 @@ In this subpart and in section 428,—
   (a) must be administered by MSD; and
   (b) may provide for any specified provision of this Act to apply to the programme and to any specified class or classes of person as if the special assistance authorised by the programme were a benefit under this Act.
 (3) This section is subject to clause 21 (how costs, etc, for approved programme of special assistance may be affected by debt, or health or disability, insurance payment) of Schedule 3.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 102 Special assistance: status of, and access to, notices
-(1) A notice given under section 99, 100, or 101—
-  (a) must, as soon as practicable after it is given, be—
-    (i) published on an Internet site administered by or on behalf of MSD; and
-    (ii) notified in the Gazette; and
-  (b) must, each time it is amended without also being replaced, also as soon as practicable after it is amended, be published—
-    (i) on an Internet site administered by or on behalf of MSD; and
-    (ii) as at a stated date; and
-    (iii) incorporating amendments up to that date; and
-  (c) is not a legislative instrument, but is a disallowable instrument, for the purposes of the Legislation Act 2012, and must be presented to the House of Representatives not only—
-    (i) as soon as practicable after it is given; but also
-    (ii) under section 41 of that Act.
-(2) A notification in the Gazette for the purpose of subsection (1)﻿(a)﻿(ii) does not have to include the text of the notice.
+[Repealed]
 
 ### Subpart 18 — Extended payment of benefits for children aged 18 years or over who continue education
 
@@ -3381,15 +3366,8 @@ An MSD decision under sections 368 to 370—
 (2) A direction given under this section—
   (a) overrides sections 347, 367(2)﻿(b), and 368 to 370; and
   (b) must be complied with by MSD; and
-  (c) must, as soon as practicable after it is given, be—
-    (i) published on an Internet site administered by or on behalf of MSD; and
-    (ii) notified in the Gazette; and
-  (d) must, each time it is amended without also being replaced, also as soon as practicable after it is amended, be published—
-    (i) on an Internet site administered by or on behalf of MSD; and
-    (ii) current as at a stated date; and
-    (iii) incorporating amendments up to that date; and
-  (e) is not a legislative instrument, but is a disallowable instrument, for the purposes of the Legislation Act 2012, and must be presented to the House of Representatives under section 41 of that Act.
-(3) A notification in the Gazette for the purpose of subsection (2)﻿(c)﻿(ii) does not have to include the text of the direction.
+  (c) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3)
 
 **Administration services provided by contracted service providers**
 
@@ -3466,6 +3444,7 @@ The following matters are to be at rates, and subject to conditions, determined 
   (c) revoke a previous order that applied in respect of, or in respect of an alteration to, a reciprocity agreement if the agreement or alteration is no longer in force or if, on the commencement of the order, the previous order is intended to be no longer in force.
 (3) The Governor-General may, by the same or a later Order in Council, specify the date on which an order made under subsection (2) is to come into force (which may be a date before, on, or after the date on which the order is made under subsection (2)).
 (4) This section is subject to section 381.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 381 Privacy report for orders adopting agreements with mutual assistance provisions
 (1) This section applies to a reciprocity agreement, or an alteration to a reciprocity agreement, that contains a mutual assistance provision—
@@ -3898,6 +3877,7 @@ Regulations for purposes of specified provisions
   (q) clause 20(2) of Schedule 6 (disclosure of information about people to whom service provider’s contract applies).
 Regulations for other matters contemplated, necessary for administration, or necessary for giving full effect
 (2) The Governor-General may, by Order in Council, make regulations providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 419 Regulations: general powers not limited by special powers
 A power in section 418 is not limited by any other powers or duties in this Act to make regulations or rules by Order in Council, or to make other Orders in Council.
@@ -3906,10 +3886,11 @@ A power in section 418 is not limited by any other powers or duties in this Act 
 A power in this Part to make any Orders in Council is not limited by any power or duty in or under this Act to give directions.
 
 ### 421 Regulations: residential requirement
-The Governor-General may, by Order in Council, make regulations for the purposes of section 16 that specify circumstances in which a person—
+(1) The Governor-General may, by Order in Council, make regulations for the purposes of section 16 that specify circumstances in which a person—
   (a) is taken to meet the residential requirement; or
   (b) must be treated, for the purposes of satisfying the residential requirement, as being resident and present in New Zealand; or
   (c) must not be required to comply with the residential requirement.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 422 Regulations: income exemptions
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of clause 9 of Schedule 3 (exclusion of amounts, items, payments, or income from specified source, declared not to be income).
@@ -3920,6 +3901,7 @@ The Governor-General may, by Order in Council, make regulations for the purposes
 (3) Regulations made under subsection (1) have effect in respect of any income specified in the regulations on and after a date—
   (a) specified in the regulations; and
   (b) earlier than, the same as, or later than, the date on which the regulations are made.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 423 Regulations: accommodation supplement
 (1) The Governor-General may, by Order in Council, make regulations that, for the purposes of subpart 10 of Part 2 and Part 7 of Schedule 4,—
@@ -3937,6 +3919,9 @@ The Governor-General may, by Order in Council, make regulations for the purposes
     (i) a person who is in a relationship; or
     (ii) a single person who has a dependent child or children; and
   (b) every $100 of cash assets over $2,700 held by any other person.
+(4) Regulations under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) if they are made under subsection (1)﻿(c), must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 424 Regulations: childcare assistance
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of subpart 12 of Part 2.
@@ -3969,9 +3954,11 @@ The Governor-General may, by Order in Council, make regulations for the purposes
 (4) Regulations made under subsection (2)﻿(d) that narrow (including, without limitation, by exempting from) the kinds of income, benefits, credits, and receipts to be treated as income have effect in respect of any income, benefits, credits, and receipts specified in the regulations on and after a date that is—
   (a) a date that is specified in the regulations; and
   (b) a date before, on, or after the date on which the regulations are made.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 425 Regulations: disability allowance: special categories of eligibility
-The Governor-General may, by Order in Council, make regulations for the purposes of section 85(1)﻿(b).
+(1) The Governor-General may, by Order in Council, make regulations for the purposes of section 85(1)﻿(b).
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 426 Regulations: use of disability allowance to fund specified expenses
 (1) The Governor-General may, by Order in Council, make regulations relating to the use of a disability allowance to fund specified expenses.
@@ -3984,14 +3971,10 @@ The Governor-General may, by Order in Council, make regulations for the purposes
 (4) Transitional or savings provisions under subsection (2)﻿(b) may (without limitation) provide for all or any of the following:
   (a) separate transitional or savings provisions for all or any specified people to or on account of whom a disability allowance is payable immediately before the commencement of this section:
   (b) separate transitional or savings provisions for all or any specified expenses to which the regulations apply (when they, or any regulations amending them or made under subsection (2)﻿(b), come into force):
-  (c) specified transitional or savings provisions to have effect at a time, or on the occurrence of an event (for example, at the end of any existing contractual arrangements), specified by the Minister by a written notice published on an Internet site administered by or on behalf of MSD.
-(5) A notice referred to in subsection (4)﻿(c)—
-  (a) must state the date on which it takes effect, and cannot take effect before it is published; and
-  (b) must, each time it is amended without also being replaced, also as soon as practicable after it is amended, be published—
-    (i) on an Internet site administered by or on behalf of MSD; and
-    (ii) current as at a stated date; and
-    (iii) incorporating amendments up to that date; and
-  (c) is not a legislative instrument, but is a disallowable instrument, for the purposes of the Legislation Act 2012, and must be presented to the House of Representatives under section 41 of that Act.
+  (c) specified transitional or savings provisions to have effect at a time, or on the occurrence of an event (for example, at the end of any existing contractual arrangements), specified by the Minister by a written notice.
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under this section:
+  (b) a notice under subsection (4)﻿(c).
 
 ### 427 Regulations: funeral grants: amounts and methods of payment
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of section 90.
@@ -3999,6 +3982,7 @@ The Governor-General may, by Order in Council, make regulations for the purposes
   (a) specify the amount of, or how MSD must assess the amount of, a funeral grant:
   (b) specify the method or methods of making payments of funeral grants.
 (3) Regulations made under subsection (2)﻿(a) may (without limitation) provide that the grant, for a person who meets the criteria in section 91, 92, or 93, is of an amount, not exceeding a specified maximum amount, that MSD determines is appropriate to meet the deceased person’s reasonable funeral expenses.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 428 Regulations: temporary additional support
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of subpart 16 of Part 2.
@@ -4018,6 +4002,7 @@ The Governor-General may, by Order in Council, make regulations for the purposes
 (4) Regulations made under subsection (2)﻿(f) that narrow (for example, exempt any specified item, amount, or kind, of cash assets from) the definition of cash assets have effect in respect of any cash assets specified in the regulations on and after a date that is—
   (a) a date that is specified in the regulations; and
   (b) a date before, on, or after the date on which the regulations are made.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 429 Regulations: participation allowance for people participating in activities
 (1) The Governor-General may, by Order in Council, make regulations to provide for persons participating in activities under this Act to receive allowances of the nature and kind set out in the regulations.
@@ -4029,22 +4014,17 @@ The Governor-General may, by Order in Council, make regulations for the purposes
     (ii) maximum total allowances that may be granted to any person for any particular period:
     (iii) a total allowance made up of separate allowances granted for different reasons, or in respect of different activities or purposes, and a method or methods of calculating it:
   (d) set all or any of the periods for payment of allowances.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 430 Regulations: specific obligations: obligations in relation to dependent children: definitions and attendance
 (1) The Governor-General may, by Order in Council, make regulations for either or both of the following purposes:
   (a) defining (in full, or by reference to other enactments, and as contemplated by section 137(1)) the terms approved early childhood education programme, core check, and registered school, for the purposes of sections 131 to 134; and
   (b) prescribing, for the purposes of sections 131(1)﻿(b), 132(1)﻿(a), and 137(2), the minimum extent of, or other required manner of, attending an approved early childhood education programme.
 (2) Regulations made under subsection (1)﻿(a) may, without limitation, define an approved early childhood education programme to be or include an early childhood education programme approved by MSD having regard to all relevant approval criteria (if any) prescribed by the Minister by a written notice.
-(3) A notice referred to in subsection (2)—
-  (a) must, as soon as practicable after it is given, be—
-    (i) published on an Internet site administered by or on behalf of MSD; and
-    (ii) notified in the Gazette; and
-  (b) must, each time it is amended without also being replaced, also as soon as practicable after it is amended, be published—
-    (i) on an Internet site administered by or on behalf of MSD; and
-    (ii) current as at a stated date; and
-    (iii) incorporating amendments up to that date; and
-  (c) is not a legislative instrument, but is a disallowable instrument, for the purposes of the Legislation Act 2012, and must be presented to the House of Representatives under section 41 of that Act.
-(4) A notification in the Gazette for the purpose of subsection (3)﻿(a)﻿(ii) does not have to include the text of the notice.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4) If the regulations authorise the Minister to prescribe criteria by notice as referred to in subsection (2),—
+  (a) a notice made under those regulations is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 
 ### 431 Regulations: specific obligations: work-test obligations, and deferrals of, or exemptions from, specified obligations
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
@@ -4070,6 +4050,7 @@ The Governor-General may, by Order in Council, make regulations for the purposes
 (5) The Minister must, before making a recommendation that particular exemption regulations be made under subsection (1)﻿(e),—
   (a) have regard to the purpose and principles specified in sections 3 and 4, to the purposes of the obligations concerned, and to the purpose of the regulations; and
   (b) be satisfied that each exemption provided for in them is not broader than is reasonably necessary to address the matters that gave rise to the regulations.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 432 Regulations: factors affecting benefits: pre-benefit activities
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the purposes of sections 184 and 185.
@@ -4085,6 +4066,7 @@ The Governor-General may, by Order in Council, make regulations for the purposes
   (e) specify the consequences MSD may impose for non-compliance, without a good and sufficient reason, with a requirement to undertake stated pre-benefit activities.
 (4) The consequences referred to in subsection (3)﻿(e) may be or include lapse of an application for the benefit concerned, or a specified reduction of not more than half of the rate of the benefit concerned or of any other specified benefit to which the applicant and the applicant's spouse or partner would, apart from the regulations, be entitled.
 (5) Subsection (4) overrides any contrary provision of this Act.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 433 Regulations: factors affecting benefits: insurance recovery
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of section 186.
@@ -4097,6 +4079,7 @@ The Governor-General may, by Order in Council, make regulations for the purposes
     (i) constitutes a charge on the amount of the insurance payment paid to the recipient; and
     (ii) is a debt due to the Crown under regulations made under section 444; and
     (iii) is recoverable under regulations made under section 444.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 434 Regulations: factors affecting benefits: overseas pensions
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
@@ -4119,6 +4102,7 @@ The Governor-General may, by Order in Council, make regulations for the purposes
 (3) Regulations made under subsection (1)﻿(g) apply, unless those regulations provide otherwise, to arrangements that are in force when the regulations are made and, in that case,—
   (a) the regulations prevail over the arrangements to the extent that there is any inconsistency between the regulations and the arrangements; and
   (b) the arrangements are taken to be modified to the extent necessary to give effect to the regulations.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 435 Regulations: factors affecting benefits: issue of warrant to arrest beneficiary
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of sections 209 to 216.
@@ -4128,6 +4112,7 @@ The Governor-General may, by Order in Council, make regulations for the purposes
     (i) excluded from the operation of all of the provisions of section 209 or 213; and
     (ii) therefore not a beneficiary as defined in section 210 or 214:
   (c) provide for any other matters contemplated by sections 209 to 216, necessary for their administration, or necessary for giving them full effect.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 436 Regulations: factors affecting benefits: absence from New Zealand
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of section 219.
@@ -4144,6 +4129,7 @@ The Governor-General may, by Order in Council, make regulations for the purposes
   (b) sections 21 to 35 of the New Zealand Superannuation and Retirement Income Act 2001; or
   (c) sections 176 to 196 of the Veterans' Support Act 2014; or
   (d) any reciprocity agreement with another country adopted by an order made under section 380.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 437 Regulations: issue and use of entitlement cards
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
@@ -4171,6 +4157,7 @@ The Governor-General may, by Order in Council, make regulations for the purposes
   (a) the Public Service Commission; and
   (b) the Privacy Commissioner; and
   (c) any other State agency, department, or organisation the Minister thinks relevant.
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 438 Regulations: application for benefit: making of, help with, lapse, and deemed receipt
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of section 297.
@@ -4193,12 +4180,14 @@ The Governor-General may, by Order in Council, make regulations for the purposes
   (l) authorise MSD, in MSD’s discretion, to make advance payments to the applicant or beneficiary for meals and accommodation during the period of necessary absence, or to pay a refund, in MSD’s discretion, for actual and reasonable out-of-pocket expenses for the period of necessary absence:
   (m) provide for MSD, in any special case, and despite other regulations, to authorise payment of travelling expenses in respect of any applicant or beneficiary, or applicants or beneficiaries of any description, at rates and subject to conditions determined by MSD:
   (n) provide for receipt and deadline requirements for claims for refunds, and allow MSD to extend the deadline in any special circumstances.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 439 Regulations: certain benefits granted, or granted at rate, not taking into account certain insurance payments
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of section 310.
 (2) Regulations made under subsection (1) may (without limitation) do all or any of the following:
   (a) specify the insurance payments and benefits or kinds of benefits to which the regulations apply:
   (b) authorise MSD to suspend, cancel, or vary the rate of, the benefit, from a date MSD determines.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 440 Regulations: exemptions from, and calculation of, stand down
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of sections 315 and 316(1)﻿(b) and (4).
@@ -4218,6 +4207,7 @@ The Governor-General may, by Order in Council, make regulations for the purposes
 (5) The Minister must, before making a recommendation that particular exemption regulations be made under subsections (1) and (2)﻿(a),—
   (a) have regard to the purpose and principles specified in sections 3 and 4, to the purposes of the stand down concerned, and to the purpose of the regulations; and
   (b) be satisfied that each exemption provided for in them is not broader than is reasonably necessary to address the matters that gave rise to the regulations.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 441 Regulations: expiry and regrant of specified benefits
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of sections 331 to 336.
@@ -4233,6 +4223,7 @@ The Governor-General may, by Order in Council, make regulations for the purposes
 (4) Subsection (2)﻿(b) authorises (without limitation) the regulations to make a declaration in respect of sole parent support, supported living payment, or emergency benefit, as that benefit is granted in either or both of the followings ways (specified in section 331(2)﻿(a) and (b)):
   (a) that benefit as granted on only 1 or more specified available eligibility grounds:
   (b) that benefit as granted to only 1 or more specified categories, classes, or kinds of beneficiaries.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 442 Regulations: payments
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of section 337.
@@ -4249,15 +4240,17 @@ The Governor-General may, by Order in Council, make regulations for the purposes
   (a) a benefit paid under clause 5 or 6 of Part 3 (supported living payment) of Schedule 4; or
   (b) a supported living payment that, under section 38(2) or (3), is not apportioned; or
   (c) a youth support payment, or of any other benefit payable to a person receiving a youth support payment.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 443 Regulations: payments during epidemic in New Zealand
-(1) The Governor-General may, by Order in Council, make regulations authorising MSD, when a domestic epidemic management notice is in force, and for a period after the notice expires that the Minister thinks reasonable in the circumstances, to do all or any of the following, with the written approval of the Minister and within any limits stated in the approval (and despite contrary provisions in this Act):
+(1) The Governor-General may, by Order in Council, make regulations authorising MSD, when a domestic epidemic management notice is in force, and for any further period notified by the Minister under section 64(3A), to do all or any of the following, with the written approval of the Minister and within any limits stated in the approval (and despite contrary provisions in this Act):
   (a) cause benefits to be paid to people otherwise disentitled to them because of stand-down periods or suspensions of benefits:
   (b) reinstate cancelled benefits:
   (c) grant benefits to or reinstate the benefits of, and for any time or times MSD thinks fit make payments under them to, people who were or are subject to non-entitlement periods:
   (d) cause benefits to be paid at a rate not higher than the maximum rate but higher than a lower rate to which people would otherwise be entitled (being a lower rate because of a reduction, variation, suspension, or direct deduction, or because of a sanction, penalty, or non-entitlement period, imposed on a spouse or partner):
   (e) refrain from exercising a power, or from meeting a requirement in this Act, to cancel, suspend, or vary benefits or payments of benefits, in circumstances where the holders satisfy the normal criteria for, or the requirement in this Act applies and requires, cancellation, suspension, or variation of benefits or payments.
 (2) Regulations made under this section override every provision of this Act to the contrary.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 444 Regulations: debts and deductions
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of section 353.
@@ -4273,19 +4266,14 @@ The Governor-General may, by Order in Council, make regulations for the purposes
   (e) provide for the District Court, on application by an executor or administrator of an estate on whom a notice of assessment is served by MSD, to have jurisdiction to review, confirm or cancel, or make any other order it considers just and equitable in respect of, any MSD determination under the regulations of an excess amount (irrespective of that amount) paid to a person, assessed by MSD under the regulations, and to be recovered under regulations made under paragraph (d) or (g):
   (f) authorise the District Court to receive as evidence any statement, document, information, or matter that may in its opinion assist the court to deal effectively with the application, whether or not it would be otherwise admissible in a court of law:
   (g) provide for MSD to issue a deduction notice requiring a debtor’s payer to deduct, and pay MSD, an amount due.
-(3) Ministerial debt recovery directions given in writing under the regulations, and referred to in subsection (2)﻿(c),—
-  (a) must, as soon as practicable after they are given, be—
-    (i) published on an Internet site administered by or on behalf of MSD; and
-    (ii) notified in the Gazette; and
-  (b) must, each time they are amended without also being replaced, also as soon as practicable after they are amended, be published—
-    (i) on an Internet site administered by or on behalf of MSD; and
-    (ii) current as at a stated date; and
-    (iii) incorporating amendments up to that date; and
-  (c) are not a legislative instrument, but are a disallowable instrument, for the purposes of the Legislation Act 2012, and must be presented to the House of Representatives under section 41 of that Act.
-(4) A notification in the Gazette for the purpose of subsection (3)﻿(a)﻿(ii) does not have to include the text of the direction.
+(3) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4) If the regulations authorise the Minister to give debt recovery directions referred to in subsection (2)﻿(c),—
+  (a) a debt recovery direction made under those regulations is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
+(4)
 
 ### 445 Regulations: further provisions on deductions
-Regulations for the purposes of section 444(2)﻿(g) may (without limitation) do all or any of the following:
+(1) Regulations for the purposes of section 444(2)﻿(g) may (without limitation) do all or any of the following:
   (a) require a debtor’s payer to deduct the amount due (as a lump sum, or by instalments) from a sum that is or becomes payable by the payer to the debtor:
   (b) require the payer to pay to MSD by a time, or by any times, specified in the notice, the amount or amounts deducted:
   (c) provide for the contents, copies, and revocation of a deduction notice:
@@ -4304,6 +4292,7 @@ Regulations for the purposes of section 444(2)﻿(g) may (without limitation) do
     (i) make a deduction required to be made by the notice; or
     (ii) pay an amount deducted under the notice to MSD by the time specified in the notice:
   (m) provide for MSD to remit all or part of a penalty of that kind payable, and provide that a penalty of that kind payable to MSD is a debt due to the Crown, and subject to recovery from the payer, as if the penalty were money payable under a benefit to which the payer was not entitled.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 446 Regulations: advance payment of instalments of benefit
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of section 347.
@@ -4311,12 +4300,14 @@ Regulations for the purposes of section 444(2)﻿(g) may (without limitation) do
 (3) The specified manner and form may differ depending on (without limitation) the number of times the beneficiary has applied for either or both:
   (a) advance payment under section 347 of instalments of a benefit:
   (b) special assistance under section 101.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 447 Regulations: budgeting activities due to application for advance payment of instalments of benefit
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of section 348.
 (2) Regulations made under subsection (1) may (without limitation) do either or both of the following:
   (a) define the kinds, and any terms and conditions, of budgeting activities that MSD may require a person to undertake under section 348:
   (b) prescribe the circumstances in which the power referred to in section 348 may be exercised.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 448 Regulations: remittance or suspension of debt
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations requiring or permitting—
@@ -4331,6 +4322,7 @@ Regulations for the purposes of section 444(2)﻿(g) may (without limitation) do
   (b) assist any category of beneficiary to move from dependence on a benefit to self-support through employment by ensuring that those beneficiaries do not face increasing benefit debt repayments when they enter the workforce; or
   (c) provide a positive incentive for beneficiaries to enter employment or stay in employment; or
   (d) achieve more than 1 of the objectives set out in paragraphs (a) to (c).
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 449 Regulations: ways MSD or person can meet requirement to give notice or other document
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of section 364.
@@ -4341,6 +4333,7 @@ Regulations for the purposes of section 444(2)﻿(g) may (without limitation) do
     (iii) giving by an electronic means (with the individual’s express or inferred consent) in accordance with Part 4 of the Contract and Commercial Law Act 2017:
   (b) provide when documents given in different prescribed ways are, in the absence of evidence to the contrary, taken to have been received.
 (3) This section is subject to section 254 (how notice of sanction may be given), and regulations made under this section operate under sections 392(2), 400(2), and 412(2).
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 450 Regulations: reciprocity agreements with mutual assistance provisions, and adverse action if discrepancy shown by information from other country
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of sections 383 and 386.
@@ -4348,6 +4341,7 @@ Regulations for the purposes of section 444(2)﻿(g) may (without limitation) do
   (a) provide that a reciprocity agreement may contain (instead of, or as well as, any other kind or kinds of mutual assistance provisions) mutual assistance provisions of kinds specified in the regulations:
   (b) provide that mutual assistance provisions of kinds specified in the regulations may be included in a reciprocity agreement only if those mutual assistance provisions comply with terms and conditions that are, or are equivalent in their effect to, terms and conditions specified in the regulations:
   (c) provide for the processes to be followed if MSD proposes to take an adverse action against an individual as a result of a discrepancy (for example, a unique identifier discrepancy) produced by information MSD received from the competent institution of the other country under a mutual assistance information exchange provision.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 451 Regulations: how to begin, and procedure and powers for, review or appeal
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of sections 394, 403(a), 407, and 414.
@@ -4360,6 +4354,7 @@ Regulations for the purposes of section 444(2)﻿(g) may (without limitation) do
   (f) authorise the appeal authority to make a costs award or order in favour of, or against, an appellant and, if the appeal authority considers it appropriate, to require MSD to pay a sum fixed by the authority to cover all or part of the costs the appeal authority has incurred in hearing and determining the appeal:
   (g) provide for the procedure for appeals to the High Court by way of case stated:
   (h) require an appeal to the High Court by way of case stated to be dealt with and determined (in particular, require the High Court to hear and determine the question of law in the case stated), in accordance with rules of court that are applicable and not inconsistent with this Act and the regulations.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Orders adjusting rates of benefits, etc**
 
@@ -4395,6 +4390,10 @@ Regulations for the purposes of section 444(2)﻿(g) may (without limitation) do
   (c) applies to other items as payable or applicable on or after the date on which the Order has effect (and see also section 454(1)﻿(b)).
 (5) Subsection (4) does not authorise any payment to be made before the date on which the Order is made.
 (6) In this section, subsidy rate means a figure that is the first percentage figure in a particular clause of Part 7 of Schedule 4.
+(7) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) commences in accordance with subsections (4) and (5), even if it is not yet published.
+(8) An order under this section must also be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 452A Orders in Council: mandatory annual average weekly earnings adjustment of rates of main benefits
 (1) The rates of benefits set out in the provisions to which this subsection applies must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate is the rate at that date adjusted by any percentage movement upwards in average ordinary time weekly earnings between—
@@ -4412,6 +4411,9 @@ Regulations for the purposes of section 444(2)﻿(g) may (without limitation) do
 (5) Every Order in Council made under subsection (1)—
   (a) comes into force or is considered to come into force on 1 April of the calendar year in which it is made; and
   (b) applies to benefits payable on and after that date.
+(5A) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) commences in accordance with subsection (5), even if it is not yet published.
 (6) In this section,—
   - **average ordinary time weekly earnings** means average ordinary time weekly earnings (per full-time equivalent) as determined by the Quarterly Employment Survey of wages published (as original, or revised, statistics) by Statistics New Zealand (after the deduction of standard tax, and the earner levies, payable as at 1 April of the following year, on those earnings)
   - **earner levies** means the levies payable under section 219(1) of the Accident Compensation Act 2001
@@ -4433,17 +4435,14 @@ Regulations for the purposes of section 444(2)﻿(g) may (without limitation) do
   (a) comes into force or is considered to come into force on 1 April of the calendar year in which it is made; and
   (b) applies to benefits payable on and after that date.
 (6) In this section, CPI means the Consumers Price Index (All Groups) published by Statistics New Zealand.
+(7) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) commences in accordance with subsection (5), even if it is not yet published.
 
 **Confirmable instruments**
 
 ### 454 Certain orders are confirmable instruments
-(1) This section applies to an Order in Council made under all or any of the following sections:
-  (a) section 423(1)﻿(c) (accommodation supplement areas):
-  (b) section 452(1) (apart from, or with, clause 55(6) of Schedule 1).
-(2) The explanatory note of the Order in Council must indicate that—
-  (a) it is a confirmable instrument, and an annual confirmable instrument, under section 47B of the Legislation Act 2012; and
-  (b) it is revoked, or taken to have been invalid for past operation, at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 **Repeals and revocations**
 
@@ -4905,6 +4904,7 @@ The repeal, by section 455(1) of this Act, of the Social Security (Commencement 
   (a) provide that, for a transitional period, in any circumstances, or subject to any conditions, specified in the regulations, 1 or more provisions (including definitions) of this Act do not apply, or apply with modifications or additions:
   (b) provide that, for a transitional period, in any circumstances, or subject to any conditions, specified in the regulations, 1 or more provisions repealed, amended, or revoked by this Act are to continue to apply, or apply with modifications or additions, as if they had not been repealed, amended, or revoked:
   (c) provide for any other matter necessary for either or both of the purposes in subclause (1)﻿(a) and (b).
+(3A) Regulations under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (4) Regulations made under this clause cannot be made after, and are revoked by this clause on, the beginning of 26 November 2021.
 
 **2016 youth services amendments**
@@ -5277,6 +5277,7 @@ The estimated income for the period for which the calculation under clause 12(1)
 (5) Rules made under subclause (1), if those rules reduce the income of people, have effect in respect of any income specified in the rules on and after a date that is—
   (a) specified in the rules; and
   (b) earlier than, the same as, or later than, the date on which the rules are made.
+(6) Rules under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Part 4 — Deprivation of income or property
 
@@ -5303,9 +5304,10 @@ The estimated income for the period for which the calculation under clause 12(1)
   (b) is subject to any rules prescribed by rules under clause 17.
 
 ### 17 Rules on how MSD determines deprivation of income or property
-The Governor-General may, by Order in Council, for the purposes of clause 16 make rules—
+(1) The Governor-General may, by Order in Council, for the purposes of clause 16 make rules—
   (a) relating to the deprivation of income, property, or both; and
   (b) prescribing the circumstances in which the rules apply.
+(2) Rules under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Part 5 — Effect on liabilities of insurance payments
 
@@ -5607,11 +5609,9 @@ Information may be obtained under clause 2 for all or any of the following purpo
   (b) information or documents from any specified class of persons:
   (c) information or documents in any specified manner.
 
-### 11 Availability, and application of Legislation Act 2012
+### 11 Availability
 (1) As soon as practicable after issuing a code or an amendment to it, MSD must ensure it is published in a form accessible to the public.
-(2) A code of conduct (or any amendment or revocation or replacement of it) issued under clause 8—
-  (a) is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012; and
-  (b) is not required to be presented to the House of Representatives under section 41 of that Act.
+(2)
 
 ### 12 Complaints of breach
 (1) This clause applies to a person who—
@@ -5698,6 +5698,7 @@ The purpose of clause 18 is to authorise local agencies (for example, schools, p
   (b) is subject to obligations under section 166 or 167; or
   (c) has left or finished education, and is not or may not be in employment or training; or
   (d) has left or finished training, and is not or may not be in employment.
+(4) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 19 Purpose of clause 20
 The purpose of clause 20 is—
