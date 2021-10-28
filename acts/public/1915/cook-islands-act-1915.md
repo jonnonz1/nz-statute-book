@@ -1,5 +1,5 @@
 # Cook Islands Act 1915
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to make better provision with respect to the government and laws of the Cook Islands
 
@@ -11,6 +11,7 @@ And whereas it is expedient to make better provision with respect to the governm
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Cook Islands Act 1915.
 (2) This Act shall come into operation on a day to be notified by the Governor by Proclamation in the New Zealand Gazette.
+(3) A Proclamation under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 (1) In this Act, except where a contrary intention appears,—
