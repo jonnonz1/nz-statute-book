@@ -1,5 +1,5 @@
 # Auckland Airport Act 1987
-_Consolidation as at 2003-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the incorporation of a company to own and operate Auckland International Airport, for the transfer of airport assets and liabilities of the Crown, the Auckland Regional Authority, and certain local authorities to that company, for the payment to the Crown and those local authorities of the existing reserves of the airport, and to amend the Civil Aviation Act 1964 and the Stamp and Cheque Duties Act 1971
 
@@ -56,7 +56,7 @@ This Act shall bind the Crown.
 (1) Notwithstanding the Companies Act 1955, but subject to subsection (3), the company may be formed or reconstituted as if the reference to the figure 7 in section 13(1) of the Companies Act 1955 were a reference to the figure 2.
 (2) In the application of the Companies Act 1955 to the company, the following provisions of the Companies Act 1955 shall, subject to subsection (3), be construed as if references therein to 7 members were references to 2 members:
   (a) section 41, as to carrying on business when the number of members is reduced below the legal minimum:
-  (b) section 211(4)(c), as to the appointment of a liquidator by the court if the company is not a private company and the number of members is reduced below the legal minimum.
+  (b) section 211(4)﻿(c), as to the appointment of a liquidator by the court if the company is not a private company and the number of members is reduced below the legal minimum.
   (c)
 (3) Subsections (1) and (2) shall have effect only if all equity securities in the airport company are held by—and shall cease to have effect upon the transfer of any equity securities in the airport company to any other person.
   (a) a Minister of the Crown or his or her nominee; or
@@ -78,7 +78,7 @@ Nothing in section 4 limits the persons who may subscribe for, hold, acquire, or
   (a) specify the kind, number, nominal value, and terms of any equity securities that shall be issued by the company consequent upon the vesting in it of the airport assets and airport liabilities referred to in the order; and
   (b) specify the kind, number, nominal value, and terms (including interest) of any debt securities that shall be issued by the company consequent upon the vesting in it of the airport assets and airport liabilities referred to in the order; and
   (c) specify the date on which the equity securities and debt securities shall be issued.
-(5) On the date specified in the Order in Council pursuant to subsection (4)(c) the company shall—
+(5) On the date specified in the Order in Council pursuant to subsection (4)﻿(c) the company shall—
   (a) issue to the Ministers and the constituent authorities in accordance with subsection (6), and as fully paid up, equity securities of such kind, number, nominal value, and terms as are specified in the order:
   (b) issue to the Ministers and the constituent authorities debt securities of such kind, number, nominal value, and terms as are specified in the order.
 (6) Equity securities issued by the company under subsection (5) shall be issued—except that on the first issue of such equity securities under paragraph (a) the equity securities issued shall be reduced by the number of equity securities subscribed for and issued on the incorporation of the company.
@@ -87,8 +87,9 @@ Nothing in section 4 limits the persons who may subscribe for, hold, acquire, or
 (7) Debt securities issued under subsection (5) shall be issued—
   (a) 50% to the Minister of Finance:
   (b) 50% to the constituent authorities in accordance with the shareholding percentage of each constituent authority.
-(8) Nothing in subsections (1)(b) and (2) of section 60 of the Companies Act 1955 shall apply in respect of equity securities issued pursuant to subsection (5) of this section.
+(8) Nothing in subsections (1)﻿(b) and (2) of section 60 of the Companies Act 1955 shall apply in respect of equity securities issued pursuant to subsection (5) of this section.
 (9) Assets that are fixed to, or are under or over, any land may vest in the company under this Act notwithstanding that no interest in the land also vests in the company under this Act and in any such case the asset and the land shall be regarded as separate assets each capable of separate ownership.
+(10) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Additional provisions relating to vesting of airport assets and airport liabilities in company
 (1) Nothing effected or authorised by this Act—
