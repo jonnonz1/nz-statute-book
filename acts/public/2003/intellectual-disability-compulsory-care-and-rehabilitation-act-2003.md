@@ -1,5 +1,5 @@
 # Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
-_Consolidation as at 2017-08-22_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
@@ -7,7 +7,8 @@ This Act is the Intellectual Disability (Compulsory Care and Rehabilitation) Act
 ## Part 1 — Preliminary provisions
 
 ### 2 Commencement
-This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
+(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Purposes
 The purposes of this Act are—
@@ -1250,13 +1251,13 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
 (2) The Director-General must ensure that guidelines are issued, under subsection (1), relating to—
   (a) the placing of care recipients in seclusion; and
   (b) the prescribing of medication for care recipients.
-(3) All guidelines and standards issued under subsection (1) are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) Guidelines and standards under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 149 Rules
 Rules may be made under section 16A of the Family Court Act 1980 regulating the practice and procedure of the Family Court in proceedings under this Act.
 
 ### 150 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing forms for the purposes of this Act:
   (b) prescribing the powers and duties of district inspectors, and regulating the exercise of such powers and the performance of such duties:
   (c) regulating the management of secure care facilities:
@@ -1265,3 +1266,4 @@ The Governor-General may, by Order in Council, make regulations for all or any o
     (i) the complexity of the proceeding and the time spent; and
     (ii) whether or not professional services are to be provided in a specified number of proceedings during a specified period:
   (e) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
