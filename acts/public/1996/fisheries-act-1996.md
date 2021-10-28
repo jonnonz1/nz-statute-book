@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2021-10-01_
+_Consolidation as at 2021-10-28_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -8,6 +8,7 @@ _Consolidation as at 2021-10-01_
 (2) Subject to subsection (3), this Act shall come into force on a date to be appointed by the Governor-General by Order in Council; and different dates may be so appointed by 1 or more Orders in Council for different provisions and different purposes.
 (2A) Despite subsection (2), sections 56, 57, 58, 62, and 358 come into force on 1 October 1999.
 (3) Sections 332 and 333 shall come into force on 1 March 1997.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -317,6 +318,7 @@ _Consolidation as at 2021-10-01_
 (4) The Governor-General may, by Order in Council,—
   (a) add to Schedule 4B the name of any species or stock that, based on its range and biological characteristics, is highly migratory (including any new species or stock that results from a change in taxonomic classification):
   (b) omit from that schedule the name of any species or stock if the criteria set out in paragraph (a) cease to apply to that species or stock.
+(5) An order under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Meaning of term associated person in relation to quota
 [Repealed]
@@ -404,9 +406,10 @@ All persons exercising or performing functions, duties, or powers under this Act
 (4) The Minister may,—
   (a) by notice in the Gazette, set or vary the catch limit (including the commercial catch limit) for any stock not within the quota management system:
   (b) implement any sustainability measure or the variation of any sustainability measure, as set or varied under subsection (1),—
-    (i) by notice in the Gazette; or
+    (i) by notice; or
     (ii) by recommending the making of regulations under section 298.
 (5) Without limiting subsection (4)﻿(a), when setting or varying a catch limit (including a commercial catch limit) for any stock not within the quota management system, the Minister shall have regard to the matters referred to in section 13(2) or section 21(1) or both those sections, as the case may require.
+(6) A notice under subsection (4)﻿(b)﻿(i) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 11A Fisheries plans
 (1) The Minister may from time to time approve, amend, or revoke a fisheries plan.
@@ -452,6 +455,7 @@ All persons exercising or performing functions, duties, or powers under this Act
 (8) If a total allowable catch for any stock has been increased during any fishing year under subsection (7), the total allowable catch for that stock shall, at the close of that fishing year, revert to the total allowable catch that applied to that stock at the beginning of that fishing year; but this subsection does not prevent a variation under subsection (4) of the total allowable catch that applied at the beginning of that fishing year.
 (9) The Governor-General may from time to time, by Order in Council, omit the name of any stock from Schedule 2 or add to that schedule the name of any stock whose abundance is highly variable from year to year.
 (10) Subsection (1) does not require the Minister to set an initial total allowable catch for any quota management area and stock unless the Minister also proposes to set or vary a total allowable commercial catch for that area and stock under section 20.
+(11) An order under subsection (9) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 14 Alternative total allowable catch for stock specified in Schedule 3
 (1) Notwithstanding anything in section 13, if satisfied, in the case of any quota management stock listed in Schedule 3, that the purpose of this Act would be better achieved by setting a total allowable catch otherwise than in accordance with subsection (2) of that section, the Minister may at any time, by notice in the Gazette, set in respect of the quota management area relating to the quota management stock a total allowable catch for that stock that he or she considers appropriate to achieve the purpose of this Act.
@@ -468,6 +472,7 @@ All persons exercising or performing functions, duties, or powers under this Act
     (ii) a national allocation for New Zealand has been determined as part of an international agreement; or
     (iii) the stock is managed on a rotational or enhanced basis; or.
     (iv) the stock comprises 1 or more highly migratory species.
+(9) An order under subsection (8) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 14A Alternative total allowable catch for stocks specified by Order in Council
 (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister with the concurrence of the Minister responsible for the administration of the Environment Act 1986, apply section 14B to the quota management stock or stocks specified in the order.
@@ -487,6 +492,7 @@ All persons exercising or performing functions, duties, or powers under this Act
   (c) managing the stock at a level other than that permitted under section 13 will have no detrimental effects on non-commercial fishing interests in that stock; and
   (d) the stock is able to be maintained above a level that ensures its long-term viability; and
   (e) the purpose of the Act would be better achieved by setting a total allowable catch otherwise than in accordance with section 13.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 14B Alternative total allowable catch for certain stocks
 (1) Despite section 13, in the case of any quota management stock to which this section applies, the Minister must, by notice in the Gazette, set a total allowable catch for that stock in accordance with this section.
@@ -501,6 +507,7 @@ All persons exercising or performing functions, duties, or powers under this Act
 ### 14C Stock may be declared no longer subject to section 14B
 (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, declare that section 14B no longer applies to the stock specified in the order.
 (2) If an order under subsection (1) is made in respect of any stock, the total allowable catch for the stock must be set under section 13 or section 14, as the case may require.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 15 Fishing-related mortality of marine mammals or other wildlife
 (1) If a population management plan has been approved under section 14F of the Wildlife Act 1953 or section 3E of the Marine Mammals Protection Act 1978, the Minister—
@@ -509,20 +516,21 @@ All persons exercising or performing functions, duties, or powers under this Act
 (2) In the absence of a population management plan, the Minister may, after consultation with the Minister of Conservation, take such measures as he or she considers are necessary to avoid, remedy, or mitigate the effect of fishing-related mortality on any protected species, and such measures may include setting a limit on fishing-related mortality.
 (3) The Minister may require, or authorise the chief executive to require, any person or class of persons listed in section 189 to give to the Minister or the chief executive such information relating to fishing-related mortality as the Minister or chief executive, as the case may be, considers necessary, and may require, or authorise the chief executive to require, such information to be given in the approved manner and form.
 (4) The Minister may recommend the making of such regulations under section 298 as the Minister considers necessary or expedient for the purpose of implementing any measures referred to in subsection (1) or subsection (2) or subsection (3).
-(5) The Minister may, by notice in the Gazette, prohibit all or any fishing or fishing methods in an area either—
+(5) The Minister may, by notice, prohibit all or any fishing or fishing methods in an area either—
   (a) under subsection (1)﻿(a), for the purpose of ensuring the maximum allowable fishing-related mortality level set by the relevant population management plan is not exceeded; or
   (b) under subsection (2), for the purpose of ensuring that any limit on fishing-related mortality is not exceeded.
 (6) Every person commits an offence and is liable to the penalty set out in section 252(5) who fails to comply with any notice given under subsection (5).
+(7) A notice under subsection (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 16 Emergency measures
-(1) If satisfied that there is or has been—the Minister may, by notice in the Gazette, impose such emergency measures in respect of any stocks or areas affected, or both, as the Minister considers necessary or expedient in the circumstances.
+(1) If satisfied that there is or has been—the Minister may, by notice, impose such emergency measures in respect of any stocks or areas affected, or both, as the Minister considers necessary or expedient in the circumstances.
   (a) an outbreak of disease; or
   (b) a serious decline in the abundance or reproductive potential of 1 or more stocks or species; or
   (c) a significant adverse change in the aquatic environment,—
 (2) Before giving notice under subsection (1), the Minister shall, to the extent reasonably practicable in the circumstances, consult such persons or organisations as the Minister considers are representative of the classes of persons having an interest in the stock or area affected, including Maori, environmental, commercial, and recreational interests.
 (3) An emergency measure under this section may be in force for a period not exceeding 3 months and, after consultation by the Minister with such persons or organisations as the Minister considers are representative of those classes of persons having an interest in any stock or area affected, including Maori, environmental, commercial, and recreational interests, may be renewed once only for a further period not exceeding 9 months.
 (4) This section does not empower the Minister to reduce or cause to be reduced during the fishing year to which it relates any total allowable catch set under section 13 or section 14.
-(5) The Minister shall ensure that all emergency measures imposed under this section are publicly notified.
+(5)
 (6) Every person commits an offence and is liable to the penalty set out in section 252(5) who contravenes any emergency measure imposed under this section.
 (7) For the purposes of this section, the term emergency measures means 1 or more of the following:
   (a) closing any area by prohibiting the harvesting of all or any fish, aquatic life, or seaweed in that area:
@@ -531,6 +539,7 @@ All persons exercising or performing functions, duties, or powers under this Act
   (d) setting or altering the fishing season for any stock in any area:
   (e) imposing reporting requirements for any stock, area, or fishing method that are additional to reporting requirements for the time being in force under any other provision of this Act:
   (f) requiring the disposal of any fish, aquatic life, or seaweed in a specified manner.
+(8) A notice under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 4 — Quota management system
 
@@ -564,7 +573,7 @@ All persons exercising or performing functions, duties, or powers under this Act
 (5) In the case of a stock or species listed in Schedule 4C,—
   (a) the Minister may make a determination under subsection (2), regardless of whether or not the Minister is satisfied of the matters specified in subsection (1); and
   (b) if the Minister determines not to make the stock or species concerned subject to the quota management system,—
-    (i) the Minister must notify that fact in the Gazette; and
+    (i) the Minister must notify that fact in accordance with subsection (8); and
     (ii) the moratorium on the issue of fishing permits for that stock or species under section 93 ceases to apply with effect on and from the first day of the fishing year for that stock or species that follows the date of that notification; and
     (iii) the stock or species concerned must be removed from Schedule 4C from the first day of that fishing year following the date of the notification, and the notice must amend Schedule 4C (including any appropriate consequential amendments) accordingly.
 (6) Despite subsection (2), the Minister may not determine under that subsection to make subject to the quota management system any stock of highly migratory species outside New Zealand fisheries waters except to give effect to—
@@ -573,9 +582,11 @@ All persons exercising or performing functions, duties, or powers under this Act
 (7) The Minister must consult the Minister of Conservation before making a determination under this section in respect of any stock or species that is both—
   (a) listed in Schedule 4C; and
   (b) listed in any of the appendices to the Convention on International Trade in Endangered Species of Wild Flora and Fauna.
+(8) A notice under subsection (5)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 18 Declaration that new stock subject to quota management system
-If the Minister determines under section 17B to make a stock subject to the quota management system, the Minister must, by notice in the Gazette, declare the stock to be subject to the quota management system on and from the first day of the fishing year stated in the notice.
+(1) If the Minister determines under section 17B to make a stock subject to the quota management system, the Minister must, by notice, declare the stock to be subject to the quota management system on and from the first day of the fishing year stated in the notice.
+(2) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 19 Matters to be included in notice under section 18
 (1) Any notice given under section 18 of this Act shall—
@@ -591,12 +602,16 @@ If the Minister determines under section 17B to make a stock subject to the quot
   (b) no species or class of fish, aquatic life, or seaweed that was immediately before the commencement of this Part, subject to Part 2A of the Fisheries Act 1983, may be removed from the quota management system; and
   (c) no quota management area shall be altered—
 (5) Subsection (4) does not prevent—
-  (a) the Minister varying, by notice in the Gazette, any date set under section 18, if the variation is published before that date; or
+  (a) the Minister varying, by notice, any date set under section 18, if the variation is published before that date; or
   (b) any alteration under section 25; or
   (c) any amendment to a notice under section 18 that involves a minor or technical correction only.
 (5A) Without limiting subsection (5)﻿(c), the Minister may amend a declaration under section 18 at any time before the allocation of provisional catch history under section 36, if the declaration was made on the basis of incorrect or misleading information, or as a result of a mistake.
 (6) A provision in a regulation made under this Act, or in a notice given under section 15 or section 16 or a regulation made under section 186(2)﻿(b), shall not be construed as altering a quota management area merely because it prohibits, limits, or restricts fishing in the quota management area.
 (7) Before making a declaration under section 18 or amending a declaration under subsection (5A), the Minister must consult the persons or organisations considered by the Minister to be representative of those classes of persons having an interest in the matters referred to in subsection (1).
+(8) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a notice under subsection (5)﻿(a):
+  (b) an amendment under subsection (5)﻿(c):
+  (c) an amendment under subsection (5A).
 (8)
 
 ### 20 Setting and variation of total allowable commercial catch
@@ -693,6 +708,7 @@ If the Minister determines under section 17B to make a stock subject to the quot
 (6) When an Order in Council is made under subsection (1), the chief executive must ensure that—
   (a) a memorial is recorded in the appropriate register against all quota for any stock affected by the alteration; and
   (b) the memorial is to the effect that the stock will be affected by the alteration.
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 25A Alteration of quota management areas with agreement of quota owners
 (1) The Minister may not recommend the alteration of any quota management area under section 25(1) in response to a request referred to in section 25(2)﻿(a) unless the Minister is satisfied that—
@@ -806,12 +822,13 @@ The Minister may recommend the alteration of any quota management area under sec
 [Repealed]
 
 ### 33 Qualifying years
-For the purposes of this Part, the qualifying year or qualifying years are,—
+(1) For the purposes of this Part, the qualifying year or qualifying years are,—
   (a) in the case of a person eligible under section 32(1)﻿(a)﻿(ii) to receive provisional catch history by virtue of a fishing permit issued under section 2(2) of the Fisheries Amendment Act 1994, either—
     (i) the first consecutive 12 months following the date of issue of the fishing permit; or
     (ii) the fishing years commencing respectively on 1 October 1990 and 1 October 1991:
-  (b) in the case of a person eligible to receive provisional catch history under section 32(1)﻿(a)﻿(iii), such fishing year or fishing years as the Minister may from time to time set for the purpose by notice in the Gazette:
+  (b) in the case of a person eligible to receive provisional catch history under section 32(1)﻿(a)﻿(iii), such fishing year or fishing years as the Minister may from time to time set for the purpose by notice:
   (c) in any other case, the fishing years commencing respectively on 1 October 1990 and 1 October 1991.
+(2) A notice under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 34 Calculation of provisional catch history
 (1) The provisional catch history of a person is,—
@@ -1232,7 +1249,7 @@ An interest in fishing quota that is forfeited under section 58 or section 58A m
 (6A) For the purposes of subsection (1)﻿(e) and section 60(1)﻿(c), in determining the aggregate percentage ownership of any person in relation to both Foveaux Strait dredge oysters and any other dredge oyster stock,—
   (a) 980 Foveaux Strait dredge oysters (or such other number as may be fixed by the Minister under section 188(5) of this Act or section 3A(6) of the Fisheries Act 1983) are to be treated as equivalent to 100 kilogrammes; and
   (b) the total allowable commercial catch for Foveaux Strait dredge oysters and the quota weight equivalent of quota shares held by any person for Foveaux Strait dredge oysters are to be calculated in kilogrammes accordingly before being aggregated with the relevant weight-related figures in respect of the other dredge oyster stock.
-(7) The Governor-General may, by Order in Council made on the recommendation of the Minister, following consultation with such persons or organisations who are representative of those classes of persons the Minister considers have an interest in this section, add the name of any new species to, or delete the name of any existing species from, Schedule 5.
+(7) The Governor-General may, by Order in Council made on the recommendation of the Minister, following consultation with such persons or organisations who are representative of those classes of persons the Minister considers have an interest in this section, add the name of any new species to, or delete the name of any existing species from, Schedule 5 (see subsection (12)).
 (8) Subsection (1) does not apply to the Chatham Islands Enterprise Trust, Te Ohu Kai Moana Trustee Limited, or to the Crown.
 (8A) Subsection (1) does not prevent a person from owning the following quota, in addition to quota owned by that person immediately before the commencement of the Maori Fisheries Act 2004:
   (a) settlement quota, whether it was acquired by allocation under the Maori Fisheries Act 2004 or by purchase, exchange, or otherwise; or
@@ -1261,6 +1278,7 @@ An interest in fishing quota that is forfeited under section 58 or section 58A m
   (b) no person is to be regarded as being included with any other person merely because either or both of those persons would be included with Te Ohu Kai Moana Trustee Limited but for paragraph (a); and
   (c) no bank registered under the Reserve Bank of New Zealand Act 1989 is to be regarded as being included with any other person merely because the bank has, in the ordinary course of its business as a financier, been granted any interest in quota owned by the person; and
   (d) no person is to be regarded as included with any other person solely because they are both beneficiaries of the same trust.
+(12) An order under subsection (7) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 60 Minister may consent to persons holding quota in excess of aggregation limits
 (1) Notwithstanding section 59, the Minister may from time to time, after consultation with such persons or organisations the Minister considers are representative of those classes of persons having an interest in this section, by notice in the Gazette, consent to any named person holding,—
@@ -1397,6 +1415,7 @@ If any regulations made under section 297(1)﻿(sa) provide that any transaction
   (b) omitting 1 or more stocks from that schedule.
 (2) An Order in Council made under subsection (1) takes effect on and from the first day of the next fishing year for the stocks concerned.
 (3) Before recommending the making of an Order in Council under subsection (1), the Minister must consult with such persons or organisations as the Minister considers are representative of those classes of persons having an interest in the stocks subject to the order.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 68 Minister to create additional annual catch entitlement if total allowable catch increased during fishing year
 (1) If—the Minister shall create an additional amount of annual catch entitlement for the stock that equals the amount by which he or she would have increased the total allowable commercial catch.
@@ -1440,6 +1459,7 @@ If any regulations made under section 297(1)﻿(sa) provide that any transaction
     (iv) the amount of fish, aquatic life, or seaweed was included in the returns for the appropriate period that are required to be made by the commercial fisher under this Act.
 (6) Any fish, aquatic life, or seaweed returned or abandoned in accordance with subsection (5)﻿(c) shall be included in the commercial fisher's reported catch for the purposes of section 76.
 (7) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, add or omit from Schedule 6 the name of any stock, or amend any provision in that schedule or add new provisions to that schedule.
+(8) An order under subsection (7) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 73 Offence to transfer used annual catch entitlement
 [Repealed]
@@ -1458,7 +1478,7 @@ If any regulations made under section 297(1)﻿(sa) provide that any transaction
 (4) If any commercial fisher is or becomes subject to subsection (2), that subsection shall continue to apply for only so long as the commercial fisher does not sell any of the relevant quota, however obtained.
 (5) If any commercial fisher is or becomes subject to subsection (2) and the commercial fisher subsequently purchases any relevant quota, the requirements of subsection (1) apply on and from the commencement of the next fishing year as if the minimum amount of annual catch entitlement required to be held was the amount of annual catch entitlement actually generated by the commercial fisher's quota (including such purchased quota) unless that amount exceeds the applicable amount specified in subsection (1); and subsection (2) shall cease to apply to that commercial fisher.
 (6)
-(7) Subject to subsections (8) and (9), the Governor-General may from time to time, by Order in Council, amend Schedule 8 by—
+(7) Subject to subsections (8) and (9), the Governor-General may from time to time, by Order in Council (see subsection (13)), amend Schedule 8 by—
   (a) adding 1 or more stocks to that schedule:
   (b) omitting 1 or more stocks from that schedule:
   (c) specifying a minimum holding of annual catch entitlement for any stocks being added to that schedule:
@@ -1474,12 +1494,12 @@ If any regulations made under section 297(1)﻿(sa) provide that any transaction
 (10)
 (11)
 (12) If a person contravenes subsection (1) or subsection (2), the person commits an offence and is liable to the penalty set out in section 252(5).
+(13) An order under subsection (7)—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 74A Orders under section 74(7) are confirmable instruments
-The explanatory note of an Order in Council made under section 74(7) must indicate that—
-  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 **Deemed values**
 
@@ -1588,6 +1608,7 @@ Before setting any interim deemed value rate or annual deemed value rate under s
   (b) takes effect on the first day of the fishing year that commences next after the relevant order under subsection (1) is made.
 (5) An order made under subsection (1) may set different tolerance levels for different stocks.
 (6) Before making a recommendation under subsection (1), the Minister must consult with such persons or organisations as the Minister considers are representative of those classes of persons having an interest in the over-fishing thresholds to which the recommendation relates.
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 77A Matters to be taken into account when recommending over-fishing thresholds
 Before making a recommendation under section 77(1), the Minister may have regard to—
@@ -2608,9 +2629,10 @@ A person on whom a notice under section 113Z is served who does not require that
 (2) If the chief executive is satisfied that a vessel has undermined international conservation and management measures, the chief executive may, by notice to the master of a vessel to which subsection (1) applies, direct the vessel—
   (a) not to enter the internal waters or a port of New Zealand; or
   (b) if it has entered the internal waters or a port of New Zealand, to leave those waters or that port.
-(3) If the Minister is satisfied on reasonable grounds that it is necessary for the purpose of the conservation and management of fish, aquatic life, or seaweed, the Minister may, by notice in the Gazette, direct any class or classes of fishing vessel or fish carrier not to enter the internal waters or a port of New Zealand.
+(3) If the Minister is satisfied on reasonable grounds that it is necessary for the purpose of the conservation and management of fish, aquatic life, or seaweed, the Minister may, by notice, direct any class or classes of fishing vessel or fish carrier not to enter the internal waters or a port of New Zealand.
 (4) The master of a vessel to which a notice under subsection (2) or subsection (3) applies, who brings the vessel into the internal waters or a port of New Zealand knowing that the notice applies to the vessel, commits an offence and is liable to the penalty set out in section 252(5).
 (5) This section does not prevent a vessel from entering or remaining in the internal waters or a port of New Zealand in the case of force majeure, subject to any conditions set by the chief executive.
+(6) A notice under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 113ZE Consent of Attorney-General required for certain proceedings
 (1) This section applies to proceedings for offences under the following sections:
@@ -3268,18 +3290,25 @@ If a proposal for the establishment of a taiapure-local fishery has been made un
   (e) empower any such Maori Committee, marae committee, or kaitiaki to allow the taking of fish, aquatic life, or seaweed to continue for purposes which sustain the functions of the marae concerned, notwithstanding any such bylaws.
 (3) The following provisions apply in relation to bylaws made under regulations made under subsection (2)﻿(d):
   (a) every restriction and every prohibition imposed on individuals by such bylaws shall apply generally to all individuals:
-  (b) bylaws shall not come into force until they have been approved by the Minister and have been published in the Gazette:
-  (c) the publication in the Gazette of bylaws purporting to have been approved under this subsection shall be conclusive evidence that the bylaws have been duly made and approved under this section.
+  (b) the bylaws must be submitted to the Minister for approval:
+  (c) publication of the bylaws in accordance with subsection (5)﻿(a) shall be conclusive evidence that the bylaws have been duly made and approved under this section.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) If the regulations empower the making of bylaws (whether under subsection (2)﻿(d) or other legislation),—
+  (a) the bylaws are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
+(6) The Legislation Act 2019 applies to bylaws of the kind described in subsection (2)﻿(d) as if—
+  (a) the Minister were the maker of the bylaws; and
+  (b) the bylaws were made by the Minister approving them.
 
 ### 186A Temporary closure of fishing area or restriction on fishing methods
-(1) The Minister may from time to time, by notice in the Gazette,—
+(1) The Minister may from time to time, by notice,—
   (a) temporarily close any area of New Zealand fisheries waters (other than South Island fisheries waters as defined in section 186B(9)) in respect of any species of fish, aquatic life, or seaweed; or
   (b) temporarily restrict or prohibit the use of any fishing method in respect of any area of New Zealand fisheries waters (other than South Island fisheries waters as defined in section 186B(9)) and any species of fish, aquatic life, or seaweed.
 (2) The Minister may impose such a closure, restriction, or prohibition only if he or she is satisfied that it will recognise and make provision for the use and management practices of tangata whenua in the exercise of non-commercial fishing rights by—
   (a) improving the availability or size (or both) of a species of fish, aquatic life, or seaweed in the area subject to the closure, restriction, or prohibition; or
   (b) recognising a customary fishing practice in that area.
 (3) Before imposing a fishing method restriction or prohibition under subsection (1)﻿(b), the Minister must be satisfied that the method is having an adverse effect on the use and management practices of tangata whenua in the exercise of non-commercial fishing rights.
-(4) A notice given under subsection (1) must be publicly notified.
+(4)
 (5) A notice given under subsection (1)—
   (a) may be in force for a period of not more than 2 years and, unless sooner revoked, is revoked at the end of that 2-year period:
   (b) subject to paragraph (a), may be expressed to be in force for any particular year or period, or for any particular date or dates, or for any particular month or months of the year, week or weeks of the month, or day or days of the week.
@@ -3295,15 +3324,16 @@ If a proposal for the establishment of a taiapure-local fishery has been made un
     (i) the person is an individual other than a commercial fisher; and
     (ii) the person satisfies the court that the fish, aquatic life, or seaweed was taken otherwise than for the purpose of sale:
   (b) is liable to the penalty specified in section 252(5) in every other case.
+(10) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 186B Temporary closure of fisheries
-(1) The chief executive may from time to time, by notice in the Gazette,—
+(1) The chief executive may from time to time, by notice,—
   (a) temporarily close any area of South Island fisheries waters in respect of any species of fish, aquatic life, or seaweed; or
   (b) temporarily restrict or prohibit the use of any fishing method in respect of any area of South Island fisheries waters and any species of fish, aquatic life, or seaweed.
 (2) The chief executive may impose such a closure, restriction, or prohibition only if the chief executive considers that—
   (a) it is likely to assist in replenishing the stock of the species of fish, aquatic life, or seaweed in the area concerned; or
   (b) it is likely to assist in recognising and making provision for the use and management practices of tāngata whenua in the exercise of non-commercial fishing rights.
-(3) A notice given under subsection (1) must be publicly notified.
+(3)
 (4) A notice given under subsection (1)—
   (a) may be in force for a period of not more than 2 years and, unless sooner revoked, is revoked at the end of that 2-year period:
   (b) subject to paragraph (a), may be expressed to be in force for any particular year or period, or for any particular date or dates, or for any particular month or months of the year, week or weeks of the month, or day or days of the week.
@@ -3318,6 +3348,7 @@ If a proposal for the establishment of a taiapure-local fishery has been made un
   (a) in the case of a commercial fisher, to the penalty specified in section 252(5):
   (b) Iin any other case, to the penalty specified in section 252(6).
 (9) In this section, the term South Island fisheries waters has the same meaning as in the Ngāi Tahu Claims Settlement Act 1998.
+(10) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 9A — Aquaculture
 
@@ -3465,7 +3496,9 @@ A fish farmer may not transfer, lease, or assign his or her registration as a fi
 (2) Every person who contravenes subsection (1) commits an offence and is liable to the penalty set out in section 252(5).
 
 ### 186Q Exemptions
-(1) The chief executive may, by notice in the Gazette, grant an exemption for the purposes of section 186P(1)﻿(b).
+(1) The chief executive may grant an exemption for the purposes of section 186P(1)﻿(b) as follows:
+  (a) for an exemption granted only to 1 or more named persons, by notice in the Gazette:
+  (b) for any other exemption, by notice published in accordance with subsection (9).
 (2) In deciding whether to grant an exemption, the chief executive must have regard to—
   (a) the scale of the fish farmer's proposed fish farming operations, including the number of sites and the quantity of fish, aquatic life, or seaweed involved; and
   (b) the species of the fish, aquatic life, or seaweed proposed to be farmed; and
@@ -3479,11 +3512,12 @@ A fish farmer may not transfer, lease, or assign his or her registration as a fi
 (5) However, the chief executive may grant an exemption to a specified fish farmer only if the fish farmer has—
   (a) applied to the chief executive on the approved form for the exemption; and
   (b) paid to the chief executive the prescribed fee (if any).
-(6) The chief executive may, by notice in the Gazette,—
-  (a) amend, add, or revoke any term or condition in the exemption; or
-  (b) revoke the exemption.
+(6) The chief executive may amend, add, or revoke any term or condition in the exemption, or revoke the exemption, as follows:
+  (a) for an exemption granted only to 1 or more named persons, by notice in the Gazette:
+  (b) for any other exemption, by notice published in accordance with subsection (9).
 (7) The chief executive must not do anything under subsection (6) unless the chief executive has provided the holders of the exemption with a reasonable opportunity to make submissions on the matter.
 (8) Anything done under subsection (6) takes effect on and from the date specified for that purpose in the notice.
+(9) A notice under subsection (1)﻿(b) or (6)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 186R Applications to register as fish farmer
 (1) A person wishing to register as a fish farmer must apply to the chief executive on the approved form and pay the prescribed fee.
@@ -3576,6 +3610,7 @@ This subpart does not apply to fish farming undertaken in accordance with a prot
   (b) any other relevant matters.
 (3) The Minister may make a recommendation under subsection (1) to include a species of fish, aquatic life, or seaweed in Schedule 8A only if he or she is satisfied that including the species in Schedule 8A is not likely to have an adverse effect on recruitment to the adult population of the species concerned.
 (4) Before making a recommendation under subsection (1) to include a species of fish, aquatic life, or seaweed in Schedule 8A, the Minister must consult the persons or organisations that the Minister considers are representative of the classes of persons having an interest in the species concerned, including Māori, environmental, commercial, and recreational interests.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 4 — Aquaculture agreements and compensation declarations
 
@@ -3759,6 +3794,7 @@ In this subpart, unless the context otherwise requires,—
     (ii) any complementary uses that might exist for the site in accordance with any submissions made under section 186ZQ(2); and
     (iii) the loss in value of affected quota, but only in relation to that part of the relevant average annual catch that is estimated would be reduced if the proposed aquaculture activities were to proceed; and
   (b) provide for the calculation of compensation to be based on the size of the affected quota holding and the corresponding loss of quota value, including by reference to any recent transfers of the quota or associated annual catch entitlement.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 10 — Recordkeeping, reporting, disposal of fish, and provisions relating to taking and possession of fish for purpose of sale
 
@@ -3882,7 +3918,7 @@ The following persons shall keep such accounts and records, and provide to the c
   (c) harvestable spat that settled on fish farm structures if—
     (i) the structures were lawfully placed or erected in the fish farm; and
     (ii) the spat was of a species specified in the fish farmer's registration for the fish farm.
-(2) The chief executive may, by notice in the Gazette, grant exemptions from subsection (1)—
+(2) The chief executive may, by notice, grant exemptions from subsection (1)—
   (a) in respect of a specified fish farmer, class of fish farmers, or fish farmers generally:
   (b) in respect of 1 or more species or states of fish, aquatic life, or seaweed.
 (3) In deciding whether to grant an exemption, the chief executive must have regard to—
@@ -3897,6 +3933,7 @@ The following persons shall keep such accounts and records, and provide to the c
 (6) In proceedings for an offence relating to a contravention of subsection (1),—
   (a) the prosecutor need not assert in the charging document that the exceptions set out in paragraphs (a) to (c) do not apply; and
   (b) the burden of proving that any of the exceptions set out in paragraphs (a) to (c) applies lies on the defendant.
+(7) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **When fish deemed to be taken or possessed for purposes of sale**
 
@@ -4726,7 +4763,8 @@ The cost recovery principles under this Part are as follows:
 (4) Before making a recommendation under subsection (1), the Minister must—
   (a) be satisfied that the rules to which the recommendation relates comply with the cost recovery principles in section 262; and
   (b) have regard to the extent to which conservation services or fisheries services are wholly or partly purchased or provided by persons other than the Crown.
-(5) Without limiting the Interpretation Act 1999, no order made under this section is invalid because it leaves any matter to the discretion of any person.
+(5) No order made under this section is invalid because it leaves any matter to the discretion of any person.
+(6) A rule under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 264 Levies
 (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister,—
@@ -4740,6 +4778,7 @@ The cost recovery principles under this Part are as follows:
   (d) prescribe a date by which, and the place at which, a levy is payable:
   (e) prescribe different dates for the payment of different levies:
   (f) authorise the chief executive to prescribe or provide for such matters as may be necessary or expedient to administer the collection of a levy imposed under subsection (1).
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 265 Under-recovery and over-recovery of costs
 Without limiting anything in section 264, but subject to section 265A, the Minister must, in recommending the making of an order under section 264, have regard to the costs of any conservation services or fisheries services incurred by the Crown in a previous financial year that—
@@ -4804,10 +4843,11 @@ Without limiting anything in section 264, but subject to section 265A, the Minis
 [Repealed]
 
 ### 271 Records and returns
-(1) The chief executive may, by notice in the Gazette,—
+(1) The chief executive may, by notice,—
   (a) require records and returns to be kept and provided by a person who must pay a levy:
   (b) prescribe conditions relating to the keeping and provision of those records and returns.
 (2) A person commits an offence if the person fails to comply with a requirement imposed by the chief executive under subsection (1), and is liable to the penalty set out in section 252(3).
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 272 Levies to be separately accounted for
 [Repealed]
@@ -5016,6 +5056,7 @@ In this Part, unless the context otherwise requires, specified functions, duties
   (a) specify the rights of the Crown in relation to information and data received, held, or generated in relation to the performance or exercise of the functions, duties, or powers; and
   (b) provide that the information and data specified in the order is the property of the Crown.
 (5) An approved service delivery organisation or other person who knowingly falsifies information or data to which an order under subsection (4) relates commits an offence and is liable on conviction to the penalty set out in section 252(1).
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 296C Effect of transfer of specified functions, duties, or powers
 (1) On and from the date specified for the purpose in the relevant order under section 296B,—
@@ -5063,6 +5104,7 @@ In this Part, unless the context otherwise requires, specified functions, duties
   (a) give the approved service delivery organisation notice in writing of the Minister's intention to make the recommendation, accompanied by a statement of the Minister's reasons for the proposed recommendation; and
   (b) give the approved service delivery organisation a reasonable opportunity to make submissions to the Minister in relation to the proposed recommendation; and
   (c) consider any submissions made by the approved service delivery organisation.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 296F Effect of termination of transfer
 If an order made under section 296B expires or is revoked by the Governor-General under section 296E, and the functions, duties, or powers specified in the order are not immediately transferred to the same approved service delivery organisation, then—
@@ -5249,7 +5291,7 @@ Every civil penalty under section 296W must be paid into a Crown Bank Account.
 **Information disclosure requirements**
 
 ### 296ZA Regulations relating to information disclosure
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) requiring approved service delivery organisations to make publicly available prescribed financial statements that follow generally accepted accounting principles, including profit and loss statements, balance sheets, and statements of accounting principles:
   (b) requiring approved service delivery organisations to publish, in the prescribed manner, information in relation to the performance and exercise of specified functions, duties, and powers, and prescribing the information that the organisations must make available, which information must include—
     (i) prices, terms, and conditions; and
@@ -5262,6 +5304,10 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (e) prescribing the time limits within which the information disclosure required by any regulations made under this section must be made to the public:
   (f) exempting or providing for the exemption of any person or class of persons from all or any of the requirements of any regulations made under this section:
   (g) providing for the revocation of an exemption of any person or class of persons from all or any of the requirements of any regulations made under this section.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3) If the regulations provide for the exemption of any class of persons under subsection (1)﻿(f), or for the revocation of an exemption of any class of persons under subsection (1)﻿(g),—
+  (a) the instrument granting or revoking the exemption is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 
 ### 296ZB Information to be supplied to chief executive
 (1) Every approved service delivery organisation must supply to the chief executive,—
@@ -5322,6 +5368,7 @@ An auditor must, before disclosing information to the Minister under section 296
   (c) prescribing the amount of civil penalties payable in respect of different amounts or levels of demerit points incurred by an approved service delivery organisation in any financial year.
 (2) Without limiting subsection (1), regulations made under this section may provide for graduated scales of demerit points and civil penalties.
 (3) The total amount of civil penalties that may be incurred by an organisation in any financial year, as prescribed by regulations made under this section, may not exceed $500,000.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 16 — Miscellaneous provisions
 
@@ -5405,15 +5452,31 @@ An auditor must, before disclosing information to the Minister under section 296
 (3) Without limiting anything in this section or section 299(1), regulations made under this section may apply in respect of—
   (a) fishing to which Part 5 applies; and
   (b) New Zealand nationals and New Zealand ships when they are outside New Zealand fisheries waters.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) Subsection (6) applies if regulations made under this section authorise any of the following:
+  (a) the chief executive to require information referred to in subsection (1)﻿(d):
+  (b) the Minister or chief executive to remit or waive fees or charges referred to in subsection (1)﻿(m)﻿(iv):
+  (c) the Minister or chief executive to issue or impose an authority, approval, requirement, prohibition, restriction, condition, direction, instruction, order, permit, notice, or circular referred to in subsection (2)﻿(a):
+  (d) the Minister or chief executive to grant exemptions referred to in subsection (2)﻿(b).
+(6) If this subsection applies,—
+  (a) an instrument exercising that authority is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to—
+    (i) 1 or more named persons; or
+    (ii) in the case of an exemption referred to in subsection (2)﻿(b), 1 or more identified vessels; and
+  (b) the regulations must contain a statement to that effect.
+(7)
 
 ### 298 Regulations relating to sustainability measures
-Without limiting the generality of section 297, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) Without limiting the generality of section 297, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) implementing any sustainability measure or the variation of any sustainability measure set or varied under section 11, and such regulations may be made for all or any of the purposes referred to in that section:
   (b) if there is no applicable approved population management plan for the time being in force under section 14F of the Wildlife Act 1953 or section 3E of the Marine Mammals Protection Act 1978, imposing such measures as may be necessary or expedient to avoid, remedy, or mitigate the effect of fishing-related mortality on any protected species, which measures may include setting a limit on fishing-related mortality:
   (c) if there is an applicable approved population management plan for the time being in force under section 14F of the Wildlife Act 1953 or section 3E of the Marine Mammals Protection Act 1978, imposing such measures as may be necessary or expedient—
     (i) to ensure that the maximum allowable fishing-related mortality level set by the relevant population management plan is not exceeded:
     (ii) to further avoid, remedy, or mitigate any adverse effects of fishing on the relevant protected species:
   (d) requiring, or authorising the Minister or the chief executive to require, any person or class of persons specified in section 189 to provide the Minister or the chief executive with such information relating to fishing-related mortality as the Minister or the chief executive may require for the purpose of this Act, including regulations requiring the information to be provided in a specified manner.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3) If the regulations authorise the Minister or chief executive under subsection (1)﻿(d) to require a class of persons to provide information relating to fishing-related mortality,—
+  (a) the instrument by which that requirement is imposed is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 
 ### 299 Regulations relating to foreign licensed access
 (1) Without limiting the generality of section 297, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
@@ -5432,12 +5495,13 @@ Without limiting the generality of section 297, the Governor-General may from ti
   (h) prescribing the forms of notices and the procedures (including procedures and approval methods for the service of notices) to be followed for the purposes of Part 5.
 (2) Regulations made under this section may make different provision for different parts of the exclusive economic zone and for different stocks.
 (3) Regulations made under subsection (1)﻿(e) shall be made on the recommendation of the Minister and, in recommending the making of such regulations, the Minister may take into account the cost of implementing the provisions of this Act with respect to foreign fishing vessels within the exclusive economic zone, including the cost of managing fisheries resources, fisheries research, and the administration and enforcement of this Act and other relevant enactments.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 299A Amendments to update Schedule 1A
 (1) The Governor-General may from time to time, by Order in Council,—
   (a) amend Schedule 1A by making amendments to the text of the Fish Stocks Agreement set out in that schedule that are required to bring the text up to date:
   (b) revoke Schedule 1A, and substitute a new schedule setting out, in an up-to-date form, the text of the Fish Stocks Agreement.
-(2) An order made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 300 Dockside monitoring
 (1) Without limiting the generality of section 297, the Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
@@ -5448,9 +5512,10 @@ Without limiting the generality of section 297, the Governor-General may from ti
   (e) empowering appointed persons to give directions as to the manner in which fish, aquatic life, or seaweed, or any prescribed returns, are to be presented for inspection:
   (f) prescribing the form of documents to be completed, the time and manner in which such documents are to be completed, and the persons to whom completed documents are to be sent.
 (2) The Crown, the chief executive, and appointed persons shall not be liable for any loss or damage caused as a result of any person lawfully carrying out functions or duties conferred or imposed by regulations made for any purpose referred to in subsection (1).
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 301 Regulations relating to freshwater fish farming
-Without limiting the generality of section 297, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) Without limiting the generality of section 297, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) authorising persons, to be registered for the purpose, to construct and maintain ponds as fish farms for breeding and rearing fish (other than trout), aquatic life, or seaweed for sale subject to such conditions as are specified in the regulations:
   (b) regulating the operation of fish farms subject to such conditions as are specified in the regulations, and prohibiting the operation of any such fish farm, and the sale, disposal, transport, or export of any fish, aquatic life, or seaweed from such a fish farm without a licence:
   (c) providing for the registration of persons who may hold licences to operate fish farms and for the qualifications those persons are required to hold and the conditions with which they are required to comply before being granted registration and in order to remain registered:
@@ -5460,6 +5525,7 @@ Without limiting the generality of section 297, the Governor-General may from ti
   (g) regulating or prohibiting the sale, possession, disposal, or processing of any such fish, aquatic life, or seaweed:
   (h) providing for the keeping by the licensee of any fish farm of records of fish, aquatic life, or seaweed acquired, kept, and disposed of, and for the keeping of records relating to those fish, aquatic life, or seaweed by any other licensee or other person:
   (i) prescribing the measures to be taken to avoid the outbreak, or on an outbreak, of any disease among the fish, aquatic life, or seaweed, and authorising or requiring the taking of any specimen, the testing of any thing, or the sampling of any substance present on any fish farm, and authorising or requiring the removal of any specimen or sample, or the destruction of diseased fish, aquatic life, or seaweed, whether with or without payment of compensation.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 302 General provisions as to regulations
 (1) Any regulations made under this Act may apply generally throughout New Zealand fisheries waters, generally throughout the high seas, or be made to apply only within such area or areas as may be defined for the purpose by the regulations.
@@ -5467,15 +5533,15 @@ Without limiting the generality of section 297, the Governor-General may from ti
 
 ### 302A Gazette notices may be consolidated
 (1) The Minister may publish a notice in the Gazette—
-  (a) that revokes 1 or more notices that were given under this Act by the Minister and were required to be published in the Gazette; and
+  (a) that revokes 1 or more notices that were given under this Act by the Minister and were required to be published in the Gazette and that are not secondary legislation; and
   (b) that otherwise has the same effect as the revoked notices had immediately before they were revoked.
 (2) The chief executive may publish a notice in the Gazette—
-  (a) that revokes 1 or more notices that were given under this Act by the chief executive and were required to be published in the Gazette; and
+  (a) that revokes 1 or more notices that were given under this Act by the chief executive and were required to be published in the Gazette and that are not secondary legislation; and
   (b) that otherwise has the same effect as the revoked notices had immediately before they were revoked.
 (3) Each part of the new notice that has the same effect as a part of a revoked notice that was given under a particular provision of this Act must be treated as having been given under that provision.
 (4) Any prerequisites for publication of the new notice must be treated as having been satisfied, but only to the extent that the prerequisites for publication of the revoked notices were satisfied when they were published.
 (5) A revoked notice continues to have effect, as if it had not been revoked, on any matter in a period to which the revoked notice applied.
-(5A) A new notice is a disallowable instrument for the purposes of the Legislation Act 2012 (and must be presented to the House of Representatives under section 41 of that Act) only if the revoked notice is a disallowable instrument for the purposes of the Legislation Act 2012 under section 303 of this Act.
+(5A)
 (6) In this section, in any particular case,—
   - **new notice** means—
     (a) the notice published by the Minister under subsection (1) to replace the revoked notices; or
@@ -5484,19 +5550,24 @@ Without limiting the generality of section 297, the Governor-General may from ti
     (a) the 1 or more notices revoked by the Minister's new notice under subsection (1)﻿(a); or
     (b) the 1 or more notices revoked by the chief executive's new notice under subsection (2)﻿(a).
 
-### 303 Application of Legislation Act 2012 to instruments given by notice in Gazette
-An instrument that is required by or under this Act to be given by notice in the Gazette—
-  (a) is not a legislative instrument for the purposes of the Legislation Act 2012, unless this Act expressly provides otherwise; and
-  (b) is a disallowable instrument for the purposes of the Legislation Act 2012 (and must be presented to the House of Representatives under section 41 of that Act) only if it is made under 1 or more of the following sections of this Act:
-    (i) sections 11(4), 15(5), and 16(1) (which relate to sustainability measures under Part 3):
-    (ii) sections 17B(5), 18, 19(5), and 33(b) (which relate to the quota management system under Part 4):
-    (iii) section 113ZD(3) (which relates to high seas fishing under Part 6A):
-    (iv) sections 186A(1) and 186B(1) (which relate to taiapure-local fisheries and customary fishing under Part 9):
-    (v) section 186Q(4)﻿(b) (which relates to aquaculture matters under Part 9A):
-    (vi) section 192A(2) (which relates to restrictions on acquisitions of fish under Part 10):
-    (vii) section 271(1) (which relates to cost recovery under Part 14):
-    (viii) sections 307, 312(3), and 313(1) (which relate to miscellaneous matters under Part 16):
-    (ix) sections 368(6), 368A(5), 368A(8), 368A(11), and 369(6) (which relate to miscellaneous matters under Part 17).
+### 303 Certain secondary legislation may be consolidated
+(1) The Minister may make a notice under section 11(4)﻿(b)﻿(i), 15(5), 16(1), 17B(5)﻿(b), 18, 19(5)﻿(a) or (c), 19(5A), 33(1)﻿(b), 113ZD(3), 186A, 312(3), 368(6), 368A(5) or (8), or 369(6)—
+  (a) that revokes 1 or more notices that were made under those sections by the Minister; and
+  (b) that otherwise has the same effect as the revoked notices had immediately before they were revoked.
+(2) The chief executive may make a notice under section 186B, 186Q(1), 186Q(6)﻿(b), 192A, 271, 313, or 368A(11)—
+  (a) that revokes 1 or more notices that were made under those sections by the chief executive; and
+  (b) that otherwise has the same effect as the revoked notices had immediately before they were revoked.
+(3) Each part of the new notice that has the same effect as a part of a revoked notice that was made under a particular provision of this Act must be treated as having been made under that provision.
+(4) Any prerequisites for making the new notice must be treated as having been satisfied, but only to the extent that the prerequisites for making the revoked notices were satisfied when they were made.
+(5) A revoked notice continues to have effect, as if it had not been revoked, on any matter in a period to which the revoked notice applied.
+(6) A new notice is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7) In this section, in any particular case,—
+  - **new notice** means—
+    (a) the notice made by the Minister under subsection (1) to replace the revoked notices; or
+    (b) the notice made by the chief executive under subsection (2) to replace the revoked notices
+  - **revoked notice** means—
+    (a) a notice revoked by the Minister’s new notice under subsection (1)﻿(a); or
+    (b) a notice revoked by the chief executive’s new notice under subsection (2)﻿(a).
 
 ### 304 Circulars
 (1) Regulations under this Act may provide for the promulgation from time to time by the chief executive of circulars specifying general criteria for the drawing up, accomplishment, demonstration, carrying on, or provision for any act, plan, proposal, matter, system, process, or thing.
@@ -5566,7 +5637,8 @@ Notwithstanding anything in the Commodity Levies Act 1990, that Act shall apply 
 (2) Any notice or other document so sent by post or registered post shall be deemed to have been given, served, or received 7 days after the date on which it was posted, unless the person to whom it was posted proves that, otherwise than through that person's fault, the notice or document was not received.
 
 ### 307 Ornamental fish
-For the purpose of this Act, the chief executive may from time to time, by notice in the Gazette, declare any species of fish, aquatic life, or seaweed to be or to no longer be ornamental fish.
+(1) For the purpose of this Act, the chief executive may from time to time, by notice, declare any species of fish, aquatic life, or seaweed to be or to no longer be ornamental fish.
+(2) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 308 Protection of the Crown, etc
 (1) No transfer of quota or annual catch entitlement by the chief executive under any of sections 22, 23, 26, 52, 67, 67A, and 347A—
@@ -5602,15 +5674,17 @@ For the purpose of this Act, the chief executive may from time to time, by notic
 ### 312 Prohibition on taking southern scallops for sale outside scallop season
 (1) No person shall take any scallops from the southern scallop fishery, for the purpose of sale, except during the southern scallop season.
 (2) No person shall take any scallops, for the purpose of sale, from any part of fishery management area 7 that is outside the southern scallop fishery.
-(3) For the purposes of this Part, the Minister may from time to time, by notice in the Gazette,—
+(3) For the purposes of this Part, the Minister may from time to time, by notice,—
   (a) specify any southern scallop season before the season commences:
   (b) vary any southern scallop season while it is current.
 (4) Every person commits an offence and is liable to the penalty set out in section 252(5) who contravenes subsection (1) or subsection (2).
+(5) A notice under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 313 Closure of southern scallop fishery
-(1) If the chief executive is satisfied that, for the purpose of enhancing the southern scallop fishery or ensuring that scallop stocks are harvested efficiently, any part or parts of the fishery ought to be closed to commercial fishing, he or she may from time to time, by notice in the Gazette, prohibit commercial fishers from taking scallops from such part or parts of the fishery as may be specified in the notice.
+(1) If the chief executive is satisfied that, for the purpose of enhancing the southern scallop fishery or ensuring that scallop stocks are harvested efficiently, any part or parts of the fishery ought to be closed to commercial fishing, he or she may from time to time, by notice, prohibit commercial fishers from taking scallops from such part or parts of the fishery as may be specified in the notice.
 (2) Every prohibition under subsection (1) shall have effect for the remainder of the southern scallop season to which it applies.
 (3) Every commercial fisher commits an offence and is liable to the penalty set out in section 252(5) who takes any scallop in contravention of a prohibition made under subsection (1).
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 17 — Repeals, amendments, validations, savings, and transitional provisions
 
@@ -5981,31 +6055,36 @@ Every consent granted under section 28W(3) of the Fisheries Act 1983 and in forc
 (3) The initial total allowable commercial catch for Nelson-Marlborough dredge oysters shall be 505 tonnes.
 (4) For the avoidance of doubt, the initial total allowable commercial catch referred to in subsection (3) may be altered from time to time under section 20 of this Act or section 28OB of the Fisheries Act 1983.
 (5) No person shall take any Nelson-Marlborough dredge oysters for the purpose of sale except during the Nelson-Marlborough dredge oyster season.
-(6) The Minister may, by notice in the Gazette,—
+(6) The Minister may, by notice,—
   (a) specify any Nelson-Marlborough dredge oyster season before the season commences; and
   (b) extend or shorten any Nelson-Marlborough dredge oyster season while it is current.
+(7) A notice under subsection (6) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 368A Foveaux Strait dredge oyster fishery subject to quota system
 (1) On 1 April 1998, Foveaux Strait dredge oysters become subject to the quota management system under Part 2A of the Fisheries Act 1983.
 (2) Each person named in the first column of Part 5 of Schedule 9 is allocated the amount of individual transferable quota for dredge oysters stated in the third column of that schedule opposite that person's name.
 (3) The initial total allowable catch for the Foveaux Strait dredge oyster fishery is 26 000 000 oysters.
 (4) The initial total allowable commercial catch for the fishery is 14 950 000 oysters.
-(5) The Minister may, by notice in the Gazette,—
+(5) The Minister may, by notice,—
   (a) specify any Foveaux Strait dredge oyster season before the season commences:
   (b) extend or shorten any Foveaux Strait dredge oyster season while it is current.
 (6) Notwithstanding anything in section 13 or section 20 of this Act or section 28OB of the Fisheries Act 1983,—
   (a) the Minister may, at any time after the commencement of a fishing year but before the commencement of the Foveaux Strait dredge oyster season in that year, increase the total allowable catch or the total allowable commercial catch (or both) for Foveaux Strait dredge oysters; and
   (b) where the Minister does so, the increased total allowable catch or total allowable commercial catch has effect on and from the first day of that Foveaux Strait dredge oyster season.
 (7) The fishing year ending immediately before 1 October 1998 is deemed to be the period 1 April 1998 to 30 September 1998 (both dates inclusive).
-(8) The Minister may, by notice in the Gazette, prohibit the taking of Foveaux Strait dredge oysters from any specified area.
+(8) The Minister may, by notice, prohibit the taking of Foveaux Strait dredge oysters from any specified area.
 (9) Every person commits an offence and is liable to the penalty set out in section 252(5) who, for the purpose of sale,—
   (a) takes any Foveaux Strait dredge oyster at any time other than during the Foveaux Strait dredge oyster season; or
   (b) takes any Foveaux Strait dredge oyster from any prohibited area specified in a notice under subsection (8).
 (10) For the purposes of the application of this Act in relation to the Foveaux Strait dredge oyster fishery,—
   (a) the references to kilogrammes in this Act must be read as references to oyster numbers; and
   (b) the references to greenweight or meatweight in section 305(a)﻿(iii) must be read as references to oyster numbers.
-(11) Notwithstanding anything in this Act or in any regulations made under this Act or under the Fisheries Act 1983, where any such regulations or any records, returns, or other documents prescribed by or referred to in such regulations contain a weight-related reference or requirement the chief executive may, by notice in the Gazette or by individual written notice to any affected fisher or other person affected, specify that any such reference or requirement is to be treated in any specified situation or for any specified purpose (and requiring the application, if appropriate, of any conversion factor specified under section 188(5) of this Act or section 3A(6) of the Fisheries Act 1983) as a reference to oyster numbers in the case of matters affecting the Foveaux Strait dredge oyster fishery, and the regulations, records, returns, or other documents are to have effect accordingly.
+(11) Notwithstanding anything in this Act or in any regulations made under this Act or under the Fisheries Act 1983, where any such regulations or any records, returns, or other documents prescribed by or referred to in such regulations contain a weight-related reference or requirement the chief executive may, by notice, specify that any such reference or requirement is to be treated in any specified situation or for any specified purpose (and requiring the application, if appropriate, of any conversion factor specified under section 188(5) of this Act or section 3A(6) of the Fisheries Act 1983) as a reference to oyster numbers in the case of matters affecting the Foveaux Strait dredge oyster fishery, and the regulations, records, returns, or other documents are to have effect accordingly.
 (12) In this section the term Foveaux Strait dredge oyster season means a season fixed by the Minister under subsection (5).
+(13) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a notice under subsection (5) or (8):
+  (b) a notice under subsection (11), unless it applies only to 1 or more named persons.
+(14) If a notice under subsection (11) is not secondary legislation, the chief executive must give the notice to the persons to whom it applies.
 
 ### 369 Allocation of Northland scallop quota
 (1) On the commencement of this section, Northland scallops shall become subject to the quota management system under Part 2A of the Fisheries Act 1983.
@@ -6013,10 +6092,11 @@ Every consent granted under section 28W(3) of the Fisheries Act 1983 and in forc
 (3) The initial total allowable commercial catch for Northland scallops shall be 188.561 tonnes.
 (4) For the avoidance of doubt, the initial total allowable commercial catch referred to in subsection (3) may be altered from time to time under section 20 of this Act or section 28OB of the Fisheries Act 1983.
 (5) No person shall take any Northland scallops for the purpose of sale except during the Northland scallop fishery season.
-(6) The Minister may, by notice in the Gazette,—
+(6) The Minister may, by notice,—
   (a) specify any Northland scallop fishery season before the season commences; and
   (b) extend or shorten any Northland scallop fishery season while it is current.
 (7) Every person commits an offence and is liable to the penalty specified in section 252(5) who contravenes subsection (5) of this section.
+(8) A notice under subsection (6) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 369A Pale ghost shark subject to quota management system
 (1) On 1 October 1999, pale ghost shark becomes subject to the quota management system under Part 2A of the Fisheries Act 1983.
@@ -6079,6 +6159,7 @@ If a commercial fisher has quota allocated to the fisher under section 369C, any
 (2) No order under subsection (1) may—
   (a) provide for the proposed new fishing year to start before 1 February 2002; or
   (b) be made during the period of 4 months immediately preceding the start of the proposed new fishing year.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (3)
 
 ### 369M Expiry of section 369L(3)
