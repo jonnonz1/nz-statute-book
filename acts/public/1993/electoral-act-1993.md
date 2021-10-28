@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2021-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -2217,6 +2217,7 @@ If the component parties of a political party listed in the copy of any declarat
 (2) The Governor-General must, within 21 days after the date of a notice published in accordance with subsection (1), issue to the Electoral Commission a writ in form 6 requiring the Electoral Commission to make all necessary arrangements for the conduct of a by-election to fill the vacancy.
 (3) In any case in which it appears to the Governor-General to be necessary for special reasons, the Governor-General may, by Order in Council, authorise the postponement of the issue of a writ for a by-election until a day stated in the Order in Council, being a day not later than 42 days after the date on which the notice was published in accordance with subsection (1).
 (4) This section does not apply to a vacancy that occurs in the period between a dissolution or expiration of Parliament and the close of polling day at the next general election.
+(5) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 130 When Governor-General to act for Speaker
 [Repealed]
@@ -4911,7 +4912,7 @@ Where more petitions than 1 are presented relating to the same election or retur
 
 ### 234 Rules of court
 (1) Rules of court may be made in the manner prescribed by Senior Courts Act 2016 for the purposes of this Part.
-(2) All rules made under this section shall be laid before the House of Representatives not later than the 16th sitting day of the House of Representatives after the day on which they are made.
+(2)
 
 **Trial of election petition**
 
@@ -5203,9 +5204,10 @@ Where anything is omitted to be done or cannot be done at the time required by o
   (a) the adjustments to the amounts referred to in subsection (1) made by the Order in Council that commences on 1 July of that year do not apply in respect of that election or by-election; and
   (b) the adjustments to the amounts referred to in subsection (1) made by the Order in Council of the previous year apply to that election or by-election.
 (7) In this section CPI means the Consumers Price Index All Groups published by Statistics New Zealand.
+(8) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 267 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing forms for the purposes of this Act:
   (b) prescribing fees, or a scale of fees, for the supply of computer-compiled lists and electronic storage media by the Electoral Commission to any person under section 114, and for the giving of remote access by electronic means under that section:
   (c) prescribing criteria, in addition to those specified in section 111E(3)﻿(a) to (d), of which the Minister of Justice and the Minister of Maori Affairs must be satisfied in relation to a particular person or body of persons before designating it under section 111E:
@@ -5216,6 +5218,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (g) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act:
   (h) prescribing penalties for offences against regulations made under this Act, not exceeding imprisonment for a term of 3 months or a fine of $1,000 or both:
   (i) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 267A Regulations relating to advertisement of a specified kind
 (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, make regulations regulating—
@@ -5233,6 +5236,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (b) override or modify any other enactment and any bylaw or other instrument.
 (4) In this section, advertisement of a specified kind has the same meaning as in section 221B(2).
 (5) This section is subject to section 267B.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 267B Requirements before Minister can recommend that regulations be made
 (1) The Minister may not recommend the making of any regulations under section 267A(1)﻿(a) unless—
@@ -5692,7 +5696,7 @@ Proceedings relating to an existing right, interest, title, immunity, or duty, c
 ### 48 Transitional or savings regulations
 (1) The Governor-General may, by Order in Council, make regulations providing for any transitional or savings matters concerning the coming into force of all or any of the provisions of this Act.
 (2) Regulations under this section must not be inconsistent with this Act.
-(3) Regulations under this section are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 1 Title
 This Act is the Electoral Amendment Act 2014.
