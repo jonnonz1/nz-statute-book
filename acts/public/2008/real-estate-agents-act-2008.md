@@ -1,5 +1,5 @@
 # Real Estate Agents Act 2008
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Real Estate Agents Act 2008.
@@ -144,17 +144,19 @@ This section establishes the Real Estate Agents Authority.
 **Practice rules**
 
 ### 14 Code of professional conduct and client care
-(1) The Authority may, by notice in the Gazette, make any practice rules to enable it to discharge the duty imposed on it by subsection (2).
+(1) The Authority may make any practice rules to enable it to discharge the duty imposed on it by subsection (2).
 (2) The Authority must have rules that include or provide for a code of professional conduct and client care, which will be a reference point for discipline and which will focus on, but need not be limited to, the duties of agents to their clients.
+(3) Practice rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 15 Continuing education
-The Authority may, by notice in the Gazette, make practice rules that—
+(1) The Authority may make practice rules that—
   (a) provide for the times or frequencies at which continuing education must be undertaken and the topics to be addressed:
   (b) require that particular continuing education be undertaken, or (in addition or as an alternative) require that the continuing education comply with specified requirements:
   (c) exempt, or provide for the exemption of, any agent, branch manager, or salesperson from all or any practice rules made under paragraph (b).
+(2) Practice rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 16 Consultation in relation to practice rules
-Practice rules are made by the Authority with the approval of the Minister and after consultation with—
+Practice rules may be made by the Authority only after the Minister has approved, and the following people have been consulted on, the proposed rules:
   (a) agents, branch managers, and salespersons that the Authority considers to be representative of the real estate industry; and
   (b) any other persons or groups that the Minister may direct.
 
@@ -166,52 +168,49 @@ The Minister must, in deciding whether to approve any practice rules, have regar
   (d) the provisions of this Act and all rights and obligations of agents under the law.
 
 ### 18 Power of Minister to amend practice rules
-(1) If the Minister considers any practice rules to be deficient in any respect, the Minister may, by notice in the Gazette and subject to subsections (2) and (3), make any amendments to those rules that are necessary to remedy the deficiency.
+(1) If the Minister considers any practice rules to be deficient in any respect, the Minister may, by notice and subject to subsections (2) and (3), make any amendments to those rules that are necessary to remedy the deficiency.
 (2) Amendments made under subsection (1) to practice rules may relate only to matters in respect of which practice rules may be made.
 (3) The Minister, in deciding whether to make amendments under subsection (1) to any practice rules,—
   (a) must consult the Authority; and
   (b) may consult with agents, branch managers, and salespersons that the Minister considers to be representative of the real estate industry; and
   (c) may consult with any other persons or groups that the Minister thinks fit.
+(4) A notice that amends rules under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-### 19 Further provisions relating to practice rules
-(1) Every notice under section 14, 15, or 18 comes into force on a date specified in the notice, being not less than 28 days after the date of publication of the notice in the Gazette.
-(2) A notice under section 14, 15, or 18 is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(3) The Authority must ensure that an up-to-date version of each notice that the Authority has published under either of section 14, 15, or 18 is—
-  (a) available on the Authority’s website; and
-  (b) available at the office of the Authority during business hours, so that members of the public may—
-    (i) inspect the notice free of charge; or
-    (ii) obtain a photocopy of the notice for a reasonable fee.
+### 19 Further provision relating to practice rules and amendments
+(1) This section applies to—
+  (a) practice rules under section 14 or 15; and
+  (b) notices under section 18.
+(2) The rules and notices come into force on a date specified in them, which must be not less than 28 days after the date of their publication under the Legislation Act 2019.
 
 **Fees and levies**
 
 ### 20 Authority may prescribe fees
-(1) The Authority may from time to time, by notice in the Gazette, prescribe the fees payable for any action that a person wishes the Registrar to perform under this Act.
+(1) The Authority may from time to time, by notice, prescribe the fees payable for any action that a person wishes the Registrar to perform under this Act.
 (2) Different fees may be prescribed under this section for different kinds of action and for different classes of person, depending on the kind of licence that they have, or wish to obtain or renew.
 (3) Any notice prescribing any fee under this section may exempt any class or classes of person from liability to pay any such fee, and may provide for the waiver or refund of any such fee.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 21 Operational levy
-(1) The Authority may from time to time, by notice in the Gazette, impose on every licensee an operational levy of any amount that the Authority thinks fit for the purpose of funding the costs arising from any or all of the following:
+(1) The Authority may from time to time, by notice, impose on every licensee an operational levy of any amount that the Authority thinks fit for the purpose of funding the costs arising from any or all of the following:
   (a) the performance of the functions of the Authority:
   (b) the performance of the functions of the Registrar:
   (c) any investigation by, or proceeding of, a Complaints Assessment Committee.
 (2) Any notice imposing any levy under this section may do either or both of the following:
   (a) prescribe different amounts as the levy payable by different classes of licensee:
   (b) exempt from liability to pay that levy, in whole or in part, any class or classes of licensee, and may provide for the waiver or refund of the whole or part of that levy.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 22 Disciplinary levy
-(1) The Authority may from time to time, by notice in the Gazette, impose on every licensee a disciplinary levy of any amount that the Authority thinks fit for the purpose of funding the costs arising from any proceeding of the Tribunal.
+(1) The Authority may from time to time, by notice, impose on every licensee a disciplinary levy of any amount that the Authority thinks fit for the purpose of funding the costs arising from any proceeding of the Tribunal.
 (2) Any notice imposing any levy under this section may do either or both of the following:
   (a) prescribe different amounts as the levy, in whole or in part, payable by different classes of licensee:
   (b) exempt from liability to pay that levy, in whole or in part, any class or classes of licensee, and may provide for the waiver or refund of the whole or part of that levy.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 23 Further provisions relating to fees and levies
-(1) Every notice under any of sections 20 to 22 comes into force on a date specified in the notice, being not less than 28 days after the date of publication of the notice in the Gazette.
-(2) A notice under any of sections 20 to 22 is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(3) The Authority must ensure that an up-to-date version of each notice that the authority has published under any of sections 20 to 22 is—
-  (a) available on the Authority’s website; and
-  (b) available at the office of the Authority during business hours, so that members of the public may—
-    (i) inspect the notice free of charge; or
-    (ii) obtain a photocopy of the notice for a reasonable fee.
+(1) Every notice under any of sections 20 to 22 comes into force on a date specified in the notice, being not less than 28 days after the date of publication of the notice under the Legislation Act 2019.
+(2)
+(3)
 (4) Every levy imposed by the Authority under sections 20 to 22, is payable, and recoverable as a debt due, to the Authority.
 (5) The Authority receives any levies imposed under section 22 as agent for the chief executive of the Ministry of Justice.
 (6) If any fee is payable to the Authority under this Act, the Registrar may decline to do any act, or to permit any act to be done, or to receive any document in respect of which that fee is payable, until the fee is paid.
@@ -1328,6 +1327,7 @@ A person commits an offence who, without reasonable excuse,—
     (i) there is no material consumer benefit to be gained by requiring the person or class of persons concerned to be licensed; and
     (ii) there are sufficient processes in place to ensure competent and ethical conduct on the part of that person or those persons; and
   (b) has consulted with representatives of organisations that, in the opinion of the Minister, have an interest in the proposed exemption.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 5 — Provisions relating to repeal of Real Estate Agents Act 1976
 
