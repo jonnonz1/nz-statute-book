@@ -1,5 +1,5 @@
 # Age of Majority Act 1970
-_Consolidation as at 2005-05-20_
+_Consolidation as at 2021-10-28_
 
 > An Act to amend the law relating to the age of majority and to the time when a particular age is attained
 
@@ -9,10 +9,8 @@ _Consolidation as at 2005-05-20_
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **Act** means any Act of the Parliament of New Zealand; and includes any Act of the Parliament of England, of the Parliament of Great Britain, or of the Parliament of the United Kingdom, which is in force in New Zealand
-  - **enactment** means any provision of any Act (other than this Act) or of any regulations or bylaws
-  - **instrument** means any written document of whatever nature (not being an enactment)
-  - **regulations** means regulations within the meaning of the Regulations Act 1936.
+  - **enactment** means any provision of any Act (other than this Act) or of any secondary legislation
+  - **instrument** means any written document of whatever nature (not being an enactment).
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
@@ -32,6 +30,7 @@ The Acts specified in Schedule 1 are hereby amended in the manner indicated in t
 (1) The regulations specified in Schedule 2 are hereby amended in the manner indicated in that schedule.
 (2) The amendment by this section of the regulations specified in Schedule 2 shall be without prejudice to any power of amending or revoking those regulations.
 (3) The Governor-General may from time to time, by Order in Council, consequentially revoke Schedule 2 or any part of that schedule.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 8 Transitional provisions and savings
 Sections 4 to 7 shall be subject to the transitional provisions and savings set out in Schedule 3.
