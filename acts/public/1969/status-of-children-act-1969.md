@@ -1,5 +1,5 @@
 # Status of Children Act 1969
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -119,6 +119,7 @@ No action shall lie against any executor of the will or administrator or trustee
 (4) Subject to subsection (1) of section 7, a declaration made under section 10 shall, for all purposes, be conclusive proof of the matters contained in it.
 (5) An order made in any country outside New Zealand declaring a person to be the father of a child, being an order to which this subsection applies pursuant to subsection (6), shall be prima facie evidence that the person declared the father is the father of the child.
 (6) The Governor-General may from time to time, by Order in Council, declare that subsection (5) applies with respect to orders made by any court or public authority in any specified country outside New Zealand or by any specified court or public authority in any such country. For the purposes of this subsection, the Cook Islands, Niue, and Tokelau shall be deemed to be countries outside New Zealand.
+(7) An order under subsection (6) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 9 Instruments of acknowledgment may be filed with Registrar-General
 (1) Any instrument of the kind described in subsection (2) of section 8, or a duplicate or attested copy of any such instrument, may in the prescribed manner and on payment of the prescribed fee (if any) be filed in the office of the Registrar-General, but it shall not be necessary to file any such instrument.
@@ -158,6 +159,7 @@ No action shall lie against any executor of the will or administrator or trustee
   (b) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (2) Where the Registrar-General (as defined in subsection (4) of section 9) is empowered to do any act for which a fee is payable, he may refuse to do the act until the fee is paid.
 (3) Notwithstanding the provisions of any regulations under this Act, the Registrar-General (as so defined) may dispense with the payment of any fee payable under this Act.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 12 Repeals and consequential amendments
 (1) The Legitimation Act 1939 and the Deaths by Accidents Compensation Amendment Act 1956 are hereby repealed.
