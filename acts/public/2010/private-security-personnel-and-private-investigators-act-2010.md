@@ -1,5 +1,5 @@
 # Private Security Personnel and Private Investigators Act 2010
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Private Security Personnel and Private Investigators Act 2010.
@@ -142,6 +142,7 @@ In this Act, personal guard means a person who for valuable consideration, eithe
 (2) The Minister must not make a recommendation under subsection (1) unless the Minister—
   (a) is satisfied that there is no material benefit to be gained by requiring the persons concerned to be licensed; and
   (b) has consulted the persons or organisations that, in the opinion of the Minister, have an interest in the proposed declaration.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it relates exclusively to an individual.
 
 ### 13 Meaning of private investigator employee
 In this Act, private investigator employee means an individual who in the course of his or her employment, or engagement as a contractor, by a private investigator seeks, or obtains for any person or supplies to any person, any information specified in section 5(2).
@@ -199,6 +200,7 @@ In this Act, personal guard employee means an individual who in the course of hi
 (2) The Minister must not make a recommendation under subsection (1) unless the Minister—
   (a) has consulted the persons or organisations that, in the opinion of the Minister, have an interest in the proposed declaration and is satisfied that there is no material benefit to be gained by requiring the persons concerned to hold certificates of approval; or
   (b) is satisfied that the benefit to be gained by requiring the persons concerned to hold certificates of approval is outweighed by the public interest in ensuring that there are sufficient persons doing the work described in sections 17 to 19 available to work at a major event declared under section 7 of the Major Events Management Act 2007, or events (whether or not organised by the major event organiser) associated with the major event.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it relates exclusively to an individual.
 
 ### 21 Act binds the Crown
 Except as provided in section 22, this Act binds the Crown.
@@ -1229,6 +1231,7 @@ If a Licensing Authority is satisfied that a holder of a licence or certificate 
     (ii) different types of work within a class of private security business or class of responsible employees:
   (b) exempt certain persons or classes of persons from all or part of the prescribed requirements:
   (c) without limiting paragraph (b), provide that a standard or other measure of competency, knowledge, and skills met within a certain period before a specified date be accepted as meeting the requirements prescribed under subsection (1)﻿(h)﻿(ii).
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 114A Chief executive may approve forms
 (1) The chief executive may approve and issue forms that the chief executive considers necessary for the purposes of this Act, not being forms required to be prescribed by regulations or rules made under this Act.
@@ -1243,6 +1246,7 @@ If a Licensing Authority is satisfied that a holder of a licence or certificate 
   (a) prescribe separate requirements or separate codes of conduct in relation to different classes of private security business or different classes of responsible employees:
   (b) prescribe a code of conduct for 1 or more classes of private security business or different classes of responsible employees and not for others.
 (3) Without limiting subsection (1), the Minister must recommend that the Governor-General make regulations under that subsection, to be in force at all times on and after 1 April 2011, prescribing a code of conduct containing matters that the Minister is satisfied are necessary or desirable in relation to the surveillance of individuals by private investigators and private investigator employees.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 116 Service of documents
 (1) Any notice or other document that under this Act may be or is required to be given to or served on any applicant for a licence or certificate of approval may be served—
@@ -1311,6 +1315,7 @@ The following enactments are revoked:
 (3) A person who performs the work of a personal guard employee described in section 18 is not required to hold a certificate of approval under this Act in respect of that class of work until the specified date.
 (4) A person who performs the work of a crowd controller employee described in section 19 is not required to hold a certificate of approval under this Act in respect of that class of work until the specified date.
 (5) In this section, specified date means the date that is specified for the purpose of this section by the Governor-General by Order in Council.
+(6) An order under subsection (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 126A Transitional provisions relating to repossession agents and repossession employees
 (1) A person who is a repossession agent within the meaning of section 8A is not required to hold a licence under this Act in respect of that class of business until the specified date.
@@ -1321,6 +1326,7 @@ The following enactments are revoked:
   (b) of repossessing consumer goods in the course of his or her employment, or engagement as a contractor, by a person who carries on a business referred to in paragraph (a) or by a creditor.
 (5) Subsection (4) also applies for the purposes of section 63(1)﻿(f) (as well as section 62(j)).
 (6) Subsections (4) and (5) do not apply to applications for licences made after the day that is 5 years after the date on which this section comes into force.
+(7) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 127 Applications in progress
 (1) This section applies to any application for a licence or certificate of approval made under the Private Investigators and Security Guards Act 1974 that, immediately before the commencement of this Act, was not yet determined.
