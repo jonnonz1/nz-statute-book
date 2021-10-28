@@ -1,5 +1,5 @@
 # Forests Amendment Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 (1) This Act is the Forests Amendment Act 2004.
@@ -11,16 +11,16 @@ This Act comes into force on the day after the date on which it receives the Roy
 ## Part 1 — Amendments to principal Act
 
 ### 3 Interpretation
-(1) Section 2(1) of the principal Act is amended by repealing the definition of the term landholding, and substituting the following definition:.
+(1) Section 2(1) of the principal Act is amended by repealing the definition of the term landholding, and substituting the following definition:
   - **landholding** means an estate, right, title, or interest of any kind in or over an area of land by or under which indigenous timber may be harvested; but does not include an interest by way of charge or security
 (2) Section 2(1) of the principal Act is amended by inserting in the definition of the term planted indigenous forest, after the words means any indigenous, the word timber.
-(3) Section 2(1) of the principal Act is amended by inserting, after the definition of the term Secretary, the following definition:.
+(3) Section 2(1) of the principal Act is amended by inserting, after the definition of the term Secretary, the following definition:
   - **specified Maori land** means land having the status of Maori land or General land owned by Maori, as defined in section 4 of Te Ture Whenua Maori Act 1993, and originally reserved or granted under—
     (a) the South Island Landless Maori Act 1906; or
     (b) section 12 of the Maori Land Amendment Act 1914; or
     (c) section 88 of the Reserves and Other Lands Disposal and Public Bodies Empowering Act 1916; or
     (d) section 110 of the Maori Purposes Act 1931
-(4) Section 2(1) of the principal Act is amended by repealing the definition of the term timber, and substituting the following definition:.
+(4) Section 2(1) of the principal Act is amended by repealing the definition of the term timber, and substituting the following definition:
   - **timber** —
     (a) means—
       (i) trees (excluding cuttings, suckers, and shoots); and
@@ -48,7 +48,7 @@ This Act comes into force on the day after the date on which it receives the Roy
       (iii) the timber has been presented to a Forestry Officer for inspection and he or she has inspected and approved it, and
     (b) until the expiry of a period (if any) specified for the purposes of this paragraph in the notice of intention.
 (3) The Forests (Notice of Intention to Export Indigenous Timber) Regulations 2003 (SR 2003/75) are consequentially revoked.
-(4) Despite subsection (3), the Forests (Notice of Intention to Export Indigenous Timber) Regulations 2003 continue in force until the Secretary approves a form under section 67C(3)(a) of the principal Act.
+(4) Despite subsection (3), the Forests (Notice of Intention to Export Indigenous Timber) Regulations 2003 continue in force until the Secretary approves a form under section 67C(3)﻿(a) of the principal Act.
 
 ### 6 Prohibition on milling indigenous timber
 (1) Section 67D of the principal Act is amended by repealing subsections (1) and (2), and substituting the following subsections:
@@ -69,7 +69,7 @@ This Act comes into force on the day after the date on which it receives the Roy
     (c) the timber is a tree fern trunk, or is from a tree fern trunk, and the Secretary has stated in writing that he or she is satisfied that the timber has been or will be harvested from an area of land that is not indigenous forest land:
     (d) the timber is a tree fern trunk, or is from a tree fern trunk, and has been or will be harvested, with the prior written approval of the Secretary, from an area of land that is not subject to either a registered sustainable forest management plan or a registered sustainable forest management permit:
     (e) the timber has been seized under section 67R and sold, released, or disposed of under section 67S and the Secretary has stated in writing that the person to whom the timber is sold, released, or disposed was not involved in the felling and harvesting of the timber in contravention of this Part.
-  (2) Before giving an approval under subsection (1)(d), the Secretary must be satisfied that the area concerned can continue to supply an annual or periodic non-diminishing yield of tree fern trunks in perpetuity, and that yield must include the harvesting of windthrown ferns or dead ferns as they become available.
+  (2) Before giving an approval under subsection (1)﻿(d), the Secretary must be satisfied that the area concerned can continue to supply an annual or periodic non-diminishing yield of tree fern trunks in perpetuity, and that yield must include the harvesting of windthrown ferns or dead ferns as they become available.
 (2) Section 67D(3) of the principal Act is amended by inserting, after the word plan, the words or a sustainable forest management permit.
 (3) The following provisions are consequentially repealed:
   (a) section 4 of the Forests Amendment Act 1995:
@@ -77,7 +77,7 @@ This Act comes into force on the day after the date on which it receives the Roy
 
 ### 7 New sections 67DA and 67DB and heading inserted
 The principal Act is amended by inserting, after section 67D, the following sections and heading:Forests on specified Maori land to which sawmill controls applyFelling controlsProhibition on felling indigenous timber
-  (1) The Governor-General may from time to time, by Order in Council, specify forests on specified Maori land to which section 67D(l)(b)(i)(A) does not apply.
+  (1) The Governor-General may from time to time, by Order in Council, specify forests on specified Maori land to which section 67D(l)﻿(b)﻿(i)﻿(A) does not apply.
   (2) The Governor-General may make an Order in Council under subsection (1) in relation to a forest only if he or she is satisfied that the owner of the forest has agreed with the Minister to—
     (a) surrender the right to mill indigenous timber harvested from the forest; or
     (b) surrender the right to mill indigenous timber harvested from the forest other than in accordance with a registered sustainable forest management plan or a registered sustainable forest management permit.
@@ -102,13 +102,13 @@ Section 67E of the principal Act is amended by repealing subsections (2) and (3)
 Section 67G of the principal Act is amended by inserting, after the words forest management plan,, the words and that approval, amendment, or exemption enables beech to be harvested in coupes of more than 0.5 hectares,.
 
 ### 11 Secretary's power to require amendments to plans
-(1) Section 67H(1) of the principal Act is amended by repealing paragraph (a), and substituting the following paragraph:.
+(1) Section 67H(1) of the principal Act is amended by repealing paragraph (a), and substituting the following paragraph:
   (a) to correct the description of the area or areas specified in the plan as the area or areas to which the plan applies:
 (2) Section 67H of the principal Act is amended by inserting, after subsection (1), the following subsection:
   (1A) Work for the harvesting of timber (including, but not limited to, the felling of timber and the construction of roads, tracks, or landings) must not be carried out on an area of land specified in a registered sustainable forest management plan unless that work is carried out in accordance with an annual logging plan approved by the Secretary.
 
 ### 12 Other provisions relating to review and amendment of sustainable forest management plans
-Section 67I(1)(b)(ii) of the principal Act is amended by omitting the word removal, and substituting the word harvesting.
+Section 67I(1)﻿(b)﻿(ii) of the principal Act is amended by omitting the word removal, and substituting the word harvesting.
 
 ### 13 Sustainable forest management plan to be recorded against certificate of title
 Section 67K of the principal Act is amended—
@@ -142,7 +142,7 @@ Section 67K of the principal Act is amended—
 (2) Section 6 of the Forests Amendment Act 1995 is consequentially repealed.
 
 ### 15 Records
-(1) Section 67Q(1) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:.
+(1) Section 67Q(1) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:
   (ab) timber harvested from areas of land subject to a sustain-able forest management permit; and
 (2) Section 67Q(2) of the principal Act is amended by adding the words or permit.
 
@@ -150,9 +150,9 @@ Section 67K of the principal Act is amended—
 Section 67R(e) of the principal Act is amended by omitting the words is being or about to be removed, and substituting the words is about to be, is being, or has been milled or exported, or has been felled or harvested,.
 
 ### 17 Offences
-Section 67T of the principal Act is amended by repealing paragraph (f), and substituting the following paragraphs:.
+Section 67T of the principal Act is amended by repealing paragraph (f), and substituting the following paragraphs:
   (f) carries out work for the harvesting of timber (including, but not limited to, the felling of timber and the construction of roads, tracks, or landings) on an area of land subject to a registered sustainable forest management plan, or a registered sustainable forest management permit, other than in accordance with an annual logging plan approved under section 67H; or
-  (fa) transports, mills (other than under section 67D(1)(e)), chips, cuts for firewood, or pulps any timber harvested from an indigenous forest, knowing that the timber is about to be, is being, or has been felled, harvested, milled, or exported in contravention of this Part; or
+  (fa) transports, mills (other than under section 67D(1)﻿(e)), chips, cuts for firewood, or pulps any timber harvested from an indigenous forest, knowing that the timber is about to be, is being, or has been felled, harvested, milled, or exported in contravention of this Part; or
   (fb) fells any indigenous timber on land subject to a registered sustainable forest management plan, or a registered sustainable forest management permit, other than in accordance with that plan or permit; or
   (fc) harvests or mills indigenous timber that is subject to an approval under section 67D(3) other than in accordance with the approval; or
 
@@ -175,11 +175,13 @@ Section 67T of the principal Act is amended by repealing paragraph (f), and subs
 (2) In this section, specified contract means a written contract that—
   (a) relates to the export of indigenous timber harvested from specified Maori land; and
   (b) was entered into before 13 July 1999, being the date on which this Act was introduced as a Bill into the House of Representatives.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 21 Power to specify payment of money in relation to conservation covenant not gross income of recipient
 (1) The Governor-General may, by Order in Council, made in accordance with a recommendation of the Minister of Finance, specify that a payment of money made in consideration of the entering into of a conservation covenant over specified Maori land is not gross income of the recipient.
 (2) An Order in Council under this section may relate to a payment of money that is made in any income year, beginning with the 2002-03 income year.
 (3) In this section gross income has the same meaning as in section BD 1 of the Income Tax Act 1994.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 22 Certain payments of money under deed of settlement relating to Waitutu Block not assessable income or gross income
 (1) This section applies to payments of money made-
