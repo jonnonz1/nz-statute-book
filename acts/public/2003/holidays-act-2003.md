@@ -1,5 +1,5 @@
 # Holidays Act 2003
-_Consolidation as at 2021-07-24_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Holidays Act 2003.
@@ -1038,11 +1038,12 @@ Holiday pay and leave pay payable by an employer to an employee is—
   (b) without limiting paragraph (a), subject to deductions that the employer is required or entitled to make from salaries or wages for the purpose of income tax or any other purpose.
 
 ### 87 Regulations
-The Governor-General may, by Order in Council, make regulations for 1 or more of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for 1 or more of the following purposes:
   (a) prescribing forms for the purposes of this Act:
   (b) prescribing the procedure in relation to proceedings under this Act, including the procedure for objecting to a holiday pay demand notice:
   (c) prescribing the procedure for withdrawing a holiday pay demand notice:
   (d) providing for any other matters that are contemplated by or necessary for giving full effect to this Act and its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Transitional provisions relating to entitlements under Holidays Act 1981**
 
