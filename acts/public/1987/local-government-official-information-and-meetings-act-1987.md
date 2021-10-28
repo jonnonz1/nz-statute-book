@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Act 1987
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to make official information held by local authorities more freely available, to provide for proper access by each person to official information relating to that person which is held by local authorities, to provide for the admission of the public to meetings of local authorities, to protect official information held by local authorities and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy, and to establish procedures for the achievement of those purposes
 
@@ -19,7 +19,7 @@ _Consolidation as at 2020-12-01_
   - **enactment** —
     (a) means any provision of—
       (i) any Act of Parliament; or
-      (ii) any legislative instrument within the meaning of the Legislation Act 2012 made by Order in Council; and
+      (ii) any secondary legislation, within the meaning of the Legislation Act 2019, that is made by Order in Council; and
     (b) in relation to section 54, includes any bylaw, standing order, or rule of procedure of any local authority
   - **Internet site** , in relation to a particular local authority, means an Internet site that is maintained by, or on behalf of, the local authority and to which the public has free access
   - **local authority** —and, in both cases, includes—
@@ -659,14 +659,15 @@ Any provisions in any enactment in relation to attendance by the public at any m
 ## Part 8 — Miscellaneous provisions
 
 ### 55 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing forms of applications and other documents required for the purposes of this Act, or authorising any person to prescribe or approve such forms:
   (b) prescribing reasonable charges or scales of reasonable charges for the purposes of this Act:
   (c) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 56 Power to amend Schedules 1 and 2 by Order in Council
 (1) Where any class of local authority named in Schedule 1 or Schedule 2 is abolished, or its name is altered, or any specified local authority named in Schedule 1 or Schedule 2 is abolished, or its name is altered, the Governor-General may, by Order in Council, make such amendments to those schedules as may be necessary to give effect to the abolition or alteration.
-(2) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 57 Consequential amendments to other enactments
 (1) The enactments specified in Schedule 3 are hereby amended in the manner indicated in that schedule.
