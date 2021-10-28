@@ -1,5 +1,5 @@
 # Visiting Forces Act 2004
-_Consolidation as at 2016-07-21_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Visiting Forces Act 2004.
@@ -160,6 +160,7 @@ No proceedings in respect of the conditions of service of a member of a visiting
 (6) An Order in Council made under subsection (5) may be made—
   (a) in relation to visiting forces generally; or
   (b) for the purpose of implementing any treaty, agreement, or arrangement between New Zealand and the sending State.
+(7) An order under subsection (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Application of New Zealand Bill of Rights Act 1990**
 
@@ -223,7 +224,8 @@ No proceedings in respect of the conditions of service of a member of a visiting
 (2) A certificate given under subsection (1) is admissible in any proceedings in a New Zealand court and is, in the absence of proof to the contrary, sufficient evidence of the matters stated in the certificate.
 
 ### 23 Regulations
-The Governor-General may, by Order in Council, make regulations providing for any matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(1) The Governor-General may, by Order in Council, make regulations providing for any matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 24 Act not in force in Tokelau
 This Act is not in force in Tokelau.
