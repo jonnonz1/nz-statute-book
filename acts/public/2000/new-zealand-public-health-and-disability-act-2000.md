@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Act 2000
-_Consolidation as at 2021-05-25_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Act 2000.
@@ -259,6 +259,7 @@ This Act binds the Crown.
   (c) alters a constituency; or
   (d) changes the number of members to be elected by the electors of a constituency.
 (5) With the written permission of the Minister, a DHB may adopt an operating name that is different from the name of the DHB specified in Schedule 1.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 20 Process for restructuring geographical areas of DHBs
 (1) Whenever, at any time after 31 December 2001, the Minister or 1 or more DHBs or any other person proposes to alter the geographical area of any DHB, the Minister, or DHBs, or other person must consult with the public in the area affected.
@@ -465,11 +466,14 @@ This Act binds the Crown.
   (b) present a copy of the direction to the House of Representatives.
 (5) The direction comes into force 15 sitting days after it is presented to the House of Representatives unless the House of Representatives resolves, in that period, to disapply the direction.
 (6) Every DHB must give effect to the direction as soon as it comes into force.
-(7) As soon as practicable after the direction comes into force, the Minister must ensure that a copy of it is published in the Gazette and on an Internet site operated by the Ministry of Health.
+(7)
 (8) If the direction does not come into force, the Minister must, as soon as practicable, notify all DHBs that the direction has been disapplied and that it will not come into force.
 (9) Section 113 of the Crown Entities Act 2004 applies to a direction given under this section as if it were a Ministerial direction given under that Act.
 (10) No direction may be given under this section to Crown entity subsidiaries.
 (11) For the purposes of section 115(5) of the Crown Entities Act 2004, the procedure set out in this section is a procedure for giving directions.
+(12) A direction under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), but—
+  (a) comes into force in accordance with subsection (5), even if it is not yet published; and
+  (b) must be published as soon as practicable after it comes into force.
 
 **Committees**
 
@@ -575,12 +579,13 @@ The objectives of Pharmac are—
   (b) any other objectives it is given by or under any enactment, or authorised to perform by the Minister by written notice to the board of Pharmac after consultation with it.
 
 ### 48 Functions of Pharmac
-The functions of Pharmac are to perform the following within the amount of funding provided to it and in accordance with its statement of intent (including the statement of forecast service performance) and (subject to section 65) any directions given under the Crown Entities Act 2004:
+(1) The functions of Pharmac are to perform the following within the amount of funding provided to it and in accordance with its statement of intent (including the statement of forecast service performance) and (subject to section 65) any directions given under the Crown Entities Act 2004:
   (a) to maintain and manage a pharmaceutical schedule that applies consistently throughout New Zealand, including determining eligibility and criteria for the provision of subsidies:
   (b) to manage incidental matters arising out of paragraph (a), including in exceptional circumstances providing for subsidies for the supply of pharmaceuticals not on the pharmaceutical schedule:
   (c) to engage as it sees fit, but within its operational budget, in research to meet the objectives set out in section 47(a):
   (d) to promote the responsible use of pharmaceuticals:
   (e) any other functions it is for the time being given by or under any enactment, or authorised to perform by the Minister by written notice to the board of Pharmac after consultation with it.
+(2) The pharmaceutical schedule is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 49 Pharmac to consult in implementing objectives and carrying out functions
 In carrying out its functions under section 48, Pharmac must, when it considers it appropriate to do so,—
@@ -1069,6 +1074,7 @@ Neither the Crown nor any publicly-owned health and disability organisation may 
 (6) Regulations under subsection (5)﻿(c) may be made only—
   (a) for the purpose of aligning the rates for classes of alcohol under this Act with the classification system applied to alcoholic beverages under Part B of the Excise and Excise-equivalent Duties Table (as defined in section 5(1) of the Customs and Excise Act 2018); and
   (b) after consultation with the Minister of Customs.
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 7 — Transitional and consequential provisions
 
@@ -1759,6 +1765,7 @@ The following provisions apply when all or any part of a meeting of a board is r
 (4) In respect of any DHB, matters relating to decisions on individual employees (for example, relating to the appointment, promotion, demotion, transfer, personal grievances, disciplining, or cessation of employment, of an employee) are the independent responsibility of the individual for the time being acting as chief executive of that DHB, without any interference from the board of the DHB or from committees of the board (or from members of the board or of committees of the board).
 (5) This clause applies despite sections 25 and 117(2) to (3) of the Crown Entities Act 2004, but section 117(1) of that Act applies to a chief executive of a DHB.
 (6) Despite section 116(2) of the Crown Entities Act 2004, the Governor-General may not make an Order in Council under section 116(1) of that Act in relation to a DHB.
+(7) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Borrowing and investment**
 
@@ -1840,6 +1847,7 @@ The functions of the hospital advisory committee of the board of a DHB are to—
 ### 5 Committees may be given other functions by Order in Council
 (1) In addition to the functions specified in clauses 2 to 4, a committee has such functions as are specified as functions of the committee, or of committees of the class to which the committee belongs, by the Governor-General by Order in Council on the recommendation of the Minister.
 (2) Before making a recommendation for the purposes of subclause (1), the Minister must consult with such persons as the Minister considers appropriate.
+(3) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Members**
 
@@ -2140,6 +2148,7 @@ The following provisions apply when all or any part of a meeting of a committee 
 (1) The Governor-General may, by Order in Council, fix for the next financial year, by reference to each class of alcohol, the amount of levy payable under clause 5.
 (2) The amount of levy for each class of alcohol must be as determined by the Minister in accordance with clause 3(2).
 (3) If a rate for a class of alcohol is described in the table in Schedule 4B as a variable rate, the Order in Council must identify the rate determined by the Minister under clause 3(3) and used for the purpose of clause 3(2).
+(4) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5 Levies payable by importers and manufacturers of alcohol
 (1) In every financial year, a levy of the amount set by Order in Council made under clause 4 is payable by every person who—
@@ -2386,6 +2395,7 @@ Section 66 of the Crown Entities Act 2004 does not apply to a person who is inte
   (b) revoke any order made under paragraph (a) in order to end an exemption from that requirement for the organisations or organisation concerned.
 (5) This clause applies despite section 117(2) to (3) of the Crown Entities Act 2004, but section 117(1) of that Act applies to a chief executive of an organisation.
 (6) Despite section 116(2) of the Crown Entities Act 2004, the Governor-General may not make an Order in Council under section 116(1) of that Act in relation to an organisation.
+(7) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Borrowing and investment**
 
