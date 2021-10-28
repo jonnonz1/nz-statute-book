@@ -1,5 +1,5 @@
 # Plumbers, Gasfitters, and Drainlayers Act 2006
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Plumbers, Gasfitters, and Drainlayers Act 2006.
@@ -7,6 +7,7 @@ This Act is the Plumbers, Gasfitters, and Drainlayers Act 2006.
 ### 2 Commencement
 (1) Section 1, this section, and sections 28 to 35, 142 to 145, and 172 come into force on the day after the date on which this Act receives the Royal assent.
 (2) The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary and key provisions
 
@@ -170,14 +171,14 @@ A body corporate that is responsible for any sanitary plumbing, gasfitting, or d
 **General exemptions**
 
 ### 12 Board may exempt person or class of persons from sections 8 to 10
-(1) The Board may, if it thinks fit, by notice in the Gazette, exempt any person or class of persons from compliance with any of sections 8 to 10 generally or in relation to a particular type of sanitary plumbing, gasfitting, or drainlaying.
+(1) The Board may, if it thinks fit, exempt any person or class of persons from compliance with any of sections 8 to 10 generally or in relation to a particular type of sanitary plumbing, gasfitting, or drainlaying.
 (2) The Board may grant the exemption subject to any terms and conditions that it thinks fit.
 (3) A person may do any sanitary plumbing, gasfitting, or drainlaying, or assist in doing any sanitary plumbing, gasfitting, or drainlaying, under an exemption granted under subsection (1) if—
   (a) the work is within the limits specified in the exemption; and
   (b) the exemption applies to the person; and
   (c) the work is done in accordance with the terms and conditions of the exemption; and
   (d) the work is carried out in a competent and safe manner.
-(4) A notice published under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) An exemption under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 13 Exemption for trainees
 (1) A person may do, or assist in doing, any sanitary plumbing, gasfitting, or drainlaying if—
@@ -209,12 +210,15 @@ A body corporate that is responsible for any sanitary plumbing, gasfitting, or d
   (a) with or without the assistance of any member of the person’s family living with the person; but
   (b) without the assistance of any other person.
 (3) For the purposes of subsection (1), owner, in relation to any premises, means the person who (whether alone or as a joint tenant or tenant in common) would for the time being be entitled to receive the rack rent of the premises on his or her own account if the premises were let to a tenant at a rack rent.
-(4) Subsection (1) applies in the places that the Minister, after consultation with the appropriate local authority, specifies by notice in the Gazette.
+(4) Subsection (1) applies in the places that the Minister determines after consultation with the appropriate local authority.
 (5) Subsection (1) applies despite any bylaw that requires sanitary plumbing to be done only by specified persons or classes of persons.
 (6) Neither subsection (1) nor section 17 prohibits any person from completing any sanitary plumbing that the person has lawfully commenced.
+(7) A determination under subsection (4)—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named places; or
+  (b) if it applies only to 1 or more named places, must be made by notice in the Gazette.
 
 ### 16 Exemption for sanitary plumbing in areas in rural districts
-(1) The Minister may, by notice in the Gazette, designate any area, other than an area that forms part of a city, a borough, or a town district, as an area where sanitary plumbing may be done by any person.
+(1) The Minister may, by notice, designate any area, other than an area that forms part of a city, a borough, or a town district, as an area where sanitary plumbing may be done by any person.
 (2) A person may do any sanitary plumbing in any area in respect of which a notice given under subsection (1) is in force.
 (3) The Minister must consult with the appropriate local authority before he or she—
   (a) issues a notice under subsection (1); or
@@ -222,6 +226,7 @@ A body corporate that is responsible for any sanitary plumbing, gasfitting, or d
 (4) A person is not prevented from completing any sanitary plumbing that he or she has lawfully commenced by—
   (a) the variation or revocation of a notice under this section; or
   (b) section 17.
+(5) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 17 Provisions relating to alteration of boundaries of local authority districts
 (1) If the whole or any part of the district of any local authority in which section 15(1) or 16(1) is in force is included within the district of any other local authority, that subsection, or those subsections, ceases or cease to apply to the district or part of the district so included unless—
@@ -313,7 +318,7 @@ A person may do, or assist in doing, any drainlaying if—
 **Classes of registration**
 
 ### 28 Classes of registration may be designated by Board
-(1) The Board may, by notice in the Gazette,—
+(1) The Board may, by notice,—
   (a) designate classes of registration for the purposes of this subpart; and
   (b) specify for each of those classes the sanitary plumbing, gasfitting, or drainlaying that a person is authorised to do, or assist in doing, by virtue of being a registered person of a particular class and holding a current practising licence.
 (2) The notice may describe the classes of registration in any way the Board thinks fit, including in 1 or more of the following ways:
@@ -339,7 +344,7 @@ A person may do, or assist in doing, any drainlaying if—
 (3) This section does not limit sections 28 and 30 to 35.
 
 ### 30 Board may prescribe other registration and licensing matters
-(1) The Board may, by notice in the Gazette,—
+(1) The Board may, by notice,—
   (a) prescribe for each class of registration the minimum standards for registration (including standards relating to required competence, qualifications, and experience) that persons must meet in order to be registered as registered persons and to be issued with practising licences; and
   (b) prescribe for each class of registration the terms and conditions subject to which persons are registered as registered persons; and
   (c) prescribe for each class of registration the terms and conditions subject to which practising licences are issued; and
@@ -377,16 +382,16 @@ In prescribing matters under sections 28 and 30, the Board must be guided by the
   (b) the matters may not unnecessarily restrict the registration or licensing of persons as plumbers, gasfitters, or drainlayers; and
   (c) the matters may not impose undue costs on plumbers, gasfitters, or drainlayers, or on the public.
 
-### 33 Board must consult before publishing notices
-(1) Before the Board publishes a notice under section 28 or 30(1)﻿(a) to (e), the Board must have consulted about its proposal for the contents of the notice—
+### 33 Board must consult before making notices
+(1) Before the Board makes a notice under section 28 or 30(1)﻿(a) to (e), the Board must have consulted about its proposal for the contents of the notice—
   (a) with persons who the Board considers are able to represent the views of plumbers, gasfitters, or drainlayers, or of classes of plumbers, gasfitters, or drainlayers, registered under this Part or the former Act; and
   (b) with organisations—
     (i) that the Board considers will be substantially affected by the proposal; or
     (ii) whose members the Board considers will be substantially affected by the proposal.
-(2) A failure to comply with subsection (1) does not affect the validity of any notice published under section 28 or 30(1)﻿(a) to (e).
+(2) A failure to comply with subsection (1) does not affect the validity of any notice made under section 28 or 30(1)﻿(a) to (e).
 
-### 34 Notices published under sections 28 and 30 must be approved by Minister
-(1) The Board must, before publishing a notice under section 28 or 30, submit the proposed notice for the approval of the Minister.
+### 34 Notices under sections 28 and 30 must be approved by Minister
+(1) The Board must, before making a notice under section 28 or 30, submit the proposed notice for the approval of the Minister.
 (2) The Minister must, as soon as practicable after receiving a proposed notice under subsection (1), by written notice to the Board,—
   (a) approve it; or
   (b) decline to approve it.
@@ -394,15 +399,10 @@ In prescribing matters under sections 28 and 30, the Board must be guided by the
   (a) the Minister must indicate the grounds on which he or she declines to approve it; and
   (b) the Minister may direct the Board to prepare and submit a revised proposed notice; and
   (c) the Board must, as soon as practicable after receiving a direction under paragraph (b), submit a revised proposed notice under subsection (1).
-(4) A proposed notice may be published under section 28 or 30 after it is approved by the Minister.
+(4) A proposed notice may be made under section 28 or 30 after it is approved by the Minister.
 
-### 35 Other provisions relating to notices under sections 28 and 30
-(1) The Board must ensure that an up-to-date version of each notice that the Board has published under section 28 or 30 is—
-  (a) available at all reasonable times on an Internet website maintained by or on behalf of the Board; and
-  (b) available at the office of the Board during business hours, so that members of the public may—
-    (i) inspect the notice free of charge; or
-    (ii) obtain a copy of the notice for a reasonable fee.
-(2) A notice published under section 28 or 30 is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+### 35 Status of notices under sections 28 and 30
+A notice under section 28 or 30 is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **How to become registered**
 
@@ -565,11 +565,11 @@ A registered person is entitled to be issued with a practising licence under thi
   (a) by written notice to a person, exempt the person from compliance with—
     (i) the minimum standards for registration that the person must meet in order to be registered as a registered person or issued with a practising licence or to obtain a renewal of a practising licence; and
     (ii) any terms and conditions imposed by notices published under section 30 that must be complied with by the person; and
-  (b) by notice in the Gazette, exempt any class of persons from compliance with—
+  (b) by notice, exempt any class of persons from compliance with—
     (i) the minimum standards for registration that those persons must meet in order to be registered as registered persons or issued with practising licences or to obtain renewals of practising licences; and
     (ii) the terms and conditions imposed by notices published under section 30 that must be complied with by those persons.
 (2) The Board may grant an exemption subject to any terms and conditions that it thinks fit.
-(3) A notice published in the Gazette under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) A notice under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Competence**
 
@@ -610,6 +610,9 @@ A registered person is entitled to be issued with a practising licence under thi
   (e) anything else that the Board considers appropriate.
 (5) The Board may specify a period within which the person to whom a competence programme applies must comply with the requirements of the programme.
 (6) The Board may exempt any person or class of persons from all or any of the requirements of a competence programme.
+(7) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless they apply only to 1 or more named persons:
+  (a) a competence programme set or recognised under this section:
+  (b) an exemption under subsection (6).
 
 ### 56 Unsatisfactory results of competence programme
 (1) If any person who is required to complete a competence programme does not satisfy the requirements of the programme, the Board may make 1 or more of the following orders:
@@ -1400,7 +1403,7 @@ The functions of the Board are—
   (m) to present or issue, either independently or in conjunction with any other examining body, diplomas or certificates to persons in recognition of their proficiency in any of those trades:
   (n) to make recommendations to any person or body concerned with the education or training of any person wishing to enter the sanitary plumbing, gasfitting, or drainlaying trades, or with regard to any other matter affecting those trades:
   (o) to hear complaints about, and discipline, persons to whom subpart 1 of Part 3 applies:
-  (p) to institute prosecutions against persons for the breach of any Act or regulation relating to sanitary plumbing, gasfitting, or drainlaying:
+  (p) to institute prosecutions against persons for the breach of any legislation relating to sanitary plumbing, gasfitting, or drainlaying:
   (q) to make recommendations to the Minister with respect to the making of regulations, or the making of regulations controlling sanitary plumbing or drainlaying under the Health Act 1956:
   (r) to exercise and perform any other functions, duties, and powers as are conferred or imposed on the Board by or under this Act or by or under any other enactment:
   (s) to do any other things as may, in the Board’s opinion, be necessary for the effective administration of this Act:
@@ -1416,7 +1419,7 @@ The Board has all of the powers that are reasonably necessary or expedient to en
 (2) The Board’s power to impose any terms or conditions includes the power to—
   (a) amend or revoke those terms or conditions:
   (b) revoke those terms or conditions and replace them with other terms or conditions.
-(3) This section does not limit section 15 of the Interpretation Act 1999.
+(3) This section does not limit section 48 of the Legislation Act 2019.
 
 ### 140 Registrar of Plumbers, Gasfitters, and Drainlayers
 (1) The Board may appoint a person to be the Registrar of Plumbers, Gasfitters, and Drainlayers.
@@ -1446,7 +1449,7 @@ The Board has all of the powers that are reasonably necessary or expedient to en
   (c) is affected by any change in the person holding the office of Registrar.
 
 ### 142 Board may prescribe fees
-(1) The Board may, by notice in the Gazette, prescribe the fees payable in respect of the following matters:
+(1) The Board may, by notice, prescribe the fees payable in respect of the following matters:
   (a) an application for registration or the issue of any licence under Part 2:
   (b) an application for the renewal of any licence under Part 2:
   (c) an addition or alteration to the register:
@@ -1463,10 +1466,10 @@ The Board has all of the powers that are reasonably necessary or expedient to en
 (5) Until the prescribed fee has been paid, the Registrar or any other officer or employee of the Board may decline to do any act, or permit any act to be done, or to receive any document, in respect of which that fee is payable.
 
 ### 143 Disciplinary and prosecution levy
-(1) The Board may, by notice in the Gazette, impose on every registered person a disciplinary and prosecution levy of any amount it thinks fit for the purpose of funding the costs arising out of—
+(1) The Board may, by notice, impose on every registered person a disciplinary and prosecution levy of any amount it thinks fit for the purpose of funding the costs arising out of—
   (a) investigations into allegations or complaints against registered persons; and
   (b) proceedings concerning discipline under Part 3; and
-  (c) investigations into, and prosecutions against persons for, the breach of any Act or regulation relating to sanitary plumbing, gasfitting, or drainlaying.
+  (c) investigations into, and prosecutions against persons for, the breach of any legislation relating to sanitary plumbing, gasfitting, or drainlaying.
 (2) Any notice imposing any levy under this section may exempt from liability to pay the levy any class or classes of registered person, and may provide for the waiver or refund of any levy.
 
 ### 144 Board may prescribe forms
@@ -1475,8 +1478,11 @@ The Board may, by notice in the Gazette,—
   (b) require the use of those forms.
 
 ### 145 Further provisions relating to fees, levy, and forms
-(1) Every notice under sections 142 to 144 comes into force on a date specified in the notice, being not less than 28 days after the date of publication of the notice in the Gazette.
-(2) A notice under sections 142 to 144 is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(1AAA) A notice under section 142 or 143—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) despite section 26 of that Act, comes into force on a date specified in it, being not less than 28 days after the notice is published.
+(1) Every notice under section 144 comes into force on a date specified in the notice, being not less than 28 days after the date of publication of the notice in the Gazette.
+(2)
 (3) Every fee prescribed under section 142, and every levy imposed under section 143, is payable, and recoverable as a debt due, to the Board.
 (4) All levies collected under section 14B of the former Act may—
   (a) continue to be used for the purposes referred to in section 14B of the former Act; or
@@ -1697,6 +1703,7 @@ Subject to any order of the court, every decision, direction, or order of the Bo
 (2) Any regulation made under subsection (1) may make different provisions in respect of different classes of persons.
 (3) Any transitional or savings provisions prescribed in regulations made under subsection (1)﻿(l) are in addition to the provisions of sections 173 to 184.
 (4) All regulations made under subsection (1)﻿(l) that are still in force on the day that is 3 years after the commencement of this section expire at the close of that day.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Transitional provisions**
 
@@ -1726,11 +1733,11 @@ Subject to any order of the court, every decision, direction, or order of the Bo
   (a) sanitary plumbing under the direction of a craftsman plumber, that work may be done under the direction of—
     (i) a person who, immediately before the commencement of this section, was a craftsman plumber and who holds a current practising licence under this Act; or
     (ii) a person authorised by the Board for the purposes of this paragraph by written notice to the authorised person; or
-    (iii) a person, or a member of a class of persons, authorised by the Board for the purposes of this paragraph by notice in the Gazette:
+    (iii) a person, or a member of a class of persons, authorised by the Board for the purposes of this paragraph by notice (see subsection (9)):
   (b) gasfitting under the direction of a craftsman gasfitter, that work may be done under the direction of—
     (i) a person who, immediately before the commencement of this section, was a craftsman gasfitter and who holds a current practising licence under this Act; or
     (ii) a person authorised by the Board for the purposes of this paragraph by written notice to the authorised person; or
-    (iii) a person, or a member of a class of persons, authorised by the Board for the purposes of this paragraph by notice in the Gazette.
+    (iii) a person, or a member of a class of persons, authorised by the Board for the purposes of this paragraph by notice (see subsection (9)).
 (5) The practising licence that a person is deemed to hold under subsection (1) may be renewed if the Board is satisfied that—
   (a) the person meets the standard of competence reasonably to be expected of a registered person who does work of the kind that the person is authorised to do under the practising licence; and
   (b) the person is otherwise entitled to a renewal of his or her practising licence under section 51(1)﻿(a), (c) to (e), and (4) to (6).
@@ -1739,6 +1746,7 @@ Subject to any order of the court, every decision, direction, or order of the Bo
 (8) Nothing in this section prevents the Board from—
   (a) cancelling or suspending the registration or practising licence of a person who is deemed to be a registered person who holds a practising licence issued under subpart 1 of Part 2; or
   (b) exercising any other power in relation to that registration or licence under this Act.
+(9) A notice under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 175 Persons holding provisional licences
 (1) Every person who, immediately before the commencement of this section, held a provisional licence under the former Act is, on and from the commencement of this section, deemed to be a person who holds a provisional licence issued under Part 2.
