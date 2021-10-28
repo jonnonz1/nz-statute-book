@@ -1,5 +1,5 @@
 # Rangitaiki Land Drainage Act 1956
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to constitute the Rangitaiki Drainage District and to provide for its administration by a Board of Trustees under the Land Drainage Act 1908
 
@@ -117,10 +117,11 @@ Notwithstanding anything in the Local Authorities Loans Act 1956 the Board durin
 (2) The Council is hereby empowered to enter into contracts with the Board for the purposes of this section upon such terms as it thinks fit.
 
 ### 19 Special provisions as to land in Edgecumbe township
-The following provisions shall apply with respect to the land for the time being within the boundaries of the county town of Edgecumbe (being the land referred to in this section as the township), namely:
+(1) The following provisions shall apply with respect to the land for the time being within the boundaries of the county town of Edgecumbe (being the land referred to in this section as the township), namely:
   (a) the Whakatane District Council shall be entitled to connect with the drains controlled by the Board, in a manner approved by the Board, all stormwater drains within the township:
   (b) so long as the Whakatane District Council connects the stormwater drains within the township with the drains controlled by the Board, there shall be payable each year by the Council to the Board an amount equal to the total amount that would have been received in that year by the Board in respect of land in the township if the township had formed part of the district and rates on that land had been levied by the Board on the basis of the special rateable value determined by the Valuer-General under paragraph (c) and according to the class in which the land would have been classified had it formed part of the district:
   (c) for the purposes of paragraph (b), the Valuer-General shall as soon as possible after the commencement of this Act, and thereafter whenever the values on the district valuation roll of the District of Whakatane are revised under the Valuation of Land Act 1951, determine a special rateable value for the land in the township as if the land were used in such number of farms as the Valuer-General thinks fit for farming purposes of the kind generally carried on on the farming land in the district, and shall notify the Board and the Council of the total special rateable value so determined.
+(2) A determination under subsection (1)﻿(c) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 20 Repeals, savings, and amendments
 (1) The enactments specified in Schedule 4 are hereby repealed.
