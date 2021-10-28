@@ -1,5 +1,5 @@
 # Deeds Registration Act 1908
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate certain enactments of the General Assembly relating to the registration of deeds affecting land
 
@@ -147,6 +147,9 @@ Where, after registration of a Crown grant, an endorsement is made thereon certi
 (2) Instruments forwarded for registration through a District Agent shall, as between themselves, be entitled to registration in the order in which they are lodged with the Agent; but, as against all other instruments, shall be entitled to priority according to the time of actual reception by the Registrar.
 (3) On the return of any instrument by the Registrar through a District Agent the provisions of section 31 hereof shall not apply, but in lieu thereof the Registrar shall attest the correctness of the recorded copy of the instrument.
 (4) The Governor-General in Council may prescribe fees to be taken under this section, and may make such regulations with regard to the matters aforesaid as may be necessary or expedient.
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an instrument under subsection (4) that prescribes fees:
+  (b) regulations under subsection (4).
 
 ## Part  — Registration to give priority
 
@@ -241,9 +244,10 @@ Any person having an interest in land through or under any instrument hereby aut
   (i) Concerning the return and delivery of such instruments to the proper parties:
   (j) Generally for keeping the registers and controlling the manner of registration and safe custody of instruments, and the practice and procedure of the Register Offices, and otherwise providing for the due execution of any law for the time being in force relating to the registration and safe custody of instruments.
 (2) Any such regulations may apply either to all registration districts or to some one or more of such districts only.
-(3) All such regulations shall be submitted to the Governor-General in Council for his approval, and, if approved by him, shall be published in the Gazette, and shall have the force of law from the date of such publication.
+(3) The regulations must be submitted to the Governor-General in Council for approval.
 (4)
 (5) A table of fees payable under this Act shall be hung up in some conspicuous place in every Deeds Register Office.
+(6) Regulations approved under subsection (3) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 54 Practice of Deeds Register Offices
 The Registrar may make rules regulating the practice of Deeds Register Offices, but the rules must not be inconsistent with the provisions of this Act.
