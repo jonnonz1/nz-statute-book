@@ -1,5 +1,5 @@
 # Residential Care and Disability Support Services Act 2018
-_Consolidation as at 2021-07-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Residential Care and Disability Support Services Act 2018.
@@ -544,16 +544,8 @@ A person who has received an assessment under this Part must advise MSD without 
 (1) A qualifying person (P) who has been means assessed as to assets under section 34 may apply for a loan under the residential care loan scheme operated by the Ministry of Health if—
   (a) P's assets are above the applicable asset threshold; and
   (b) P meets the criteria for eligibility for the residential care loan scheme specified in a written notice given by the Director-General of Health.
-(2) A notice given under this section—
-  (a) must, as soon as practicable after it is given, be—
-    (i) published on an Internet site administered by or on behalf of the Ministry of Health; and
-    (ii) notified in the Gazette; and
-  (b) must, each time it is amended without also being replaced, also as soon as practicable after it is amended, be published—
-    (i) on an Internet site administered by or on behalf of the Ministry of Health; and
-    (ii) current as at a stated date; and
-    (iii) incorporating amendments up to that date; and
-  (c) is not a legislative instrument, but is a disallowable instrument, for the purposes of the Legislation Act 2012, and must be presented to the House of Representatives under section 41 of that Act.
-(3) A notification in the Gazette for the purpose of subsection (2)﻿(a)﻿(ii) does not have to include the text of the notice.
+(2) A notice given under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3)
 
 ### 71 Clothing allowance
 Regulations may be made under section 74 that provide for payment of a clothing allowance to either or both of the following classes of person:
@@ -605,9 +597,10 @@ Regulations may be made under section 74 that provide for payment of a clothing 
 (4) The Minister must, before making a recommendation that particular exemption regulations be made under subsection (1)﻿(a),—
   (a) have regard to the purpose of this Act (as set out in section 3), to the purpose of section 24 (exempt person liable to contribute benefit only), and to the purpose of the regulations; and
   (b) be satisfied that each exemption provided for in them is not broader than is reasonably necessary to address the matters that gave rise to the regulations.
-(5) Regulations made under subsection (1)﻿(i), (l), or (m) have effect in respect of any amounts or types of cash assets, income, or amounts of certain types of income, or defined terms to be excluded as cash assets, specified in the regulations on and after a date that is—
+(5) Regulations published under the Legislation Act 2019 under subsection (1)﻿(i), (l), or (m) have effect in respect of any amounts or types of cash assets, income, or amounts of certain types of income, or defined terms to be excluded as cash assets, specified in the regulations on and after a date that is—
   (a) specified in the regulations; and
   (b) earlier than, the same as, or later than, the date on which the regulations are made.
+(6) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 75 Annual adjustments for increase in New Zealand Consumers Price Index
 (1) The applicable asset thresholds set out in Part 1 of Schedule 2 must be increased on 1 July 2019, and on every following 1 July, by an amount that reflects the upwards movement (if any) in the index number of the Consumers Price Index (All Groups) published by Statistics New Zealand for the year ending on the previous 31 March.
@@ -622,12 +615,8 @@ Regulations may be made under section 74 that provide for payment of a clothing 
 
 ### 76 Annual published notice of amount of income-from-assets exemption
 (1) The Director-General of Health must, as soon as practicable after 1 July in each year, give written notice of the current amount of the income-from-assets exemption.
-(2) A notice given under this section—
-  (a) must, as soon as practicable after it is given, be—
-    (i) published on an Internet site administered by or on behalf of the Ministry of Health; and
-    (ii) notified in the Gazette; and
-  (b) is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012, and does not have to be presented to the House of Representatives under section 41 of that Act.
-(3) A notification in the Gazette for the purpose of subsection (2)﻿(a)﻿(ii) does not have to include the text of the notice.
+(2) A notice under this section must, as soon as practicable after it is given, be published on an Internet site administered by or on behalf of the Ministry of Health and be notified in the Gazette.
+(3) A notification in the Gazette for the purpose of subsection (2) does not have to include the text of the notice.
 
 ### 77 Repeals and revocations
 (1) Sections 69FA and 132D, Part 4, and Schedules 27 and 30 of the Social Security Act 1964 are repealed.
