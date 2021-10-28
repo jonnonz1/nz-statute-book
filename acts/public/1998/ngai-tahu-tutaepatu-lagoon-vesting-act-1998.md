@@ -1,5 +1,5 @@
 # Ngāi Tahu (Tūtaepatu Lagoon Vesting) Act 1998
-_Consolidation as at 1998-05-15_
+_Consolidation as at 2021-10-28_
 
 > An Act to give effect to certain provisions of the Deed of On Account Settlement, signed on 14 June 1996 by the Crown and by Te Rūnanga o Ngāi Tahu as representative of Ngāi Tahu,—aby vesting Tūtaepatu Lagoon in Te Rūnanga o Ngāi Tahu; andbby providing for the establishment of a recreation reserve at Woodend
 
@@ -55,7 +55,7 @@ This Act binds the Crown.
 
 ### 8 Tūtaepatu Lagoon subject to walkway
 (1) Te Rūnanga o Ngāi Tahu must grant to the Crown a walkway over the south-eastern corner of the Tūtaepatu Lagoon.
-(2) The New Zealand Walkways Act 1990 (except sections 5, 6, 7, 8(1), 8(2), 8(8)(b), 11, 18, 20, 30, 31, and 32) applies to the walkway, including its establishment.
+(2) The New Zealand Walkways Act 1990 (except sections 5, 6, 7, 8(1), 8(2), 8(8)﻿(b), 11, 18, 20, 30, 31, and 32) applies to the walkway, including its establishment.
 (3) For the purposes of the New Zealand Walkways Act 1990, Te Rūnanga o Ngāi Tahu is the controlling authority of the walkway.
 (4) For the purposes of subsection (2), section 8(3) of the New Zealand Walkways Act 1990 must be read as if the words For the purposes of subsection (1) of this Act were omitted, and the words For the purposes of section 8 of the Ngāi Tahu (Tūtaepatu Lagoon Vesting) Act 1998 were substituted.
 
@@ -105,6 +105,7 @@ Except as provided in this Act, the Reserves Act 1977 applies to the new reserve
 ### 14 Extension of time limits
 (1) The time within which anything must be done under section 10 or section 11 may be extended (before or after the time has expired) by the Governor-General by Order in Council.
 (2) The power in subsection (1) may be exercised more than once in respect of the same time limit.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 15 Amendment to Conservation Act 1987
 Amendment(s) incorporated in the Act(s).
