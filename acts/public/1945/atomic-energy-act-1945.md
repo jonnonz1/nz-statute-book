@@ -1,5 +1,5 @@
 # Atomic Energy Act 1945
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision for the control in New Zealand of the means of producing atomic energy and for that purpose to provide for the control of the mining and treatment of the ores of uranium and other elements which may be used for the production of atomic energy, and to provide for the vesting of such substances in the Crown
 
@@ -7,14 +7,15 @@ _Consolidation as at 2013-07-01_
 This Act may be cited as the Atomic Energy Act 1945.
 
 ### 2 Interpretation
-In this Act, unless the context otherwise requires,—
+(1) In this Act, unless the context otherwise requires,—
   - **atomic energy** means the energy released from atomic nuclei as a result of any process, including the fission process; but does not include energy released in any process of natural transmutation or radioactive decay which is not accelerated or influenced by external means
   - **Minister** means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Minister of Research, Science, and Technology** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Research, Science, and Technology Act 2010
   - **New Zealand** includes any territory subject to the protection, mandate, trusteeship, or authority of the Government of the Dominion of New Zealand, including the Cook Islands
-  - **prescribed substance** means uranium, thorium, plutonium, neptunium, or any of their respective compounds, or any such other substance as the Minister may prescribe by notice in the Gazette, being a substance which in his opinion is or may be used for the production of atomic energy or research into matters connected therewith
+  - **prescribed substance** means uranium, thorium, plutonium, neptunium, or any of their respective compounds, or any such other substance as the Minister may prescribe by notice, being a substance which in his opinion is or may be used for the production of atomic energy or research into matters connected therewith (see subsection (2))
   - **Secretary** means the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **uranium** includes thorium and all natural substances, chemical compounds, and physical combinations of uranium or thorium.
+(2) A notice under the definition of prescribed substance is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Application of Act in Cook Islands
 This Act shall extend to and be in force in the Cook Islands.
@@ -66,8 +67,9 @@ No person shall, without the prior written consent of the Minister, import any p
 
 ### 13 Universities and schools empowered to carry on certain experimental work
 (1) Notwithstanding anything to the contrary in the foregoing provisions of this Act, uranium and thorium of natural isotope composition of an amount not exceeding the appropriate amount mentioned in the next succeeding subsection may be possessed and used for the purpose of instruction and of investigation as to the properties and effects of radioactive and like radiations at any university in New Zealand, at any school providing secondary instruction, at any laboratory under the control of any department of State, and at any other laboratory for the time being approved by the Minister of Research, Science, and Technology.
-(2) The amount of uranium and of thorium that may be possessed and used as provided in the last preceding subsection shall be 1 pound each of uranium and of thorium, calculated by metal content, in the case of a school providing secondary instruction, and 20 pounds each of uranium and of thorium, calculated by metal content, in any other case:provided that the Minister of Research, Science, and Technology may from time to time by notice in the Gazette increase or reduce the amounts that may be possessed and used as aforesaid.
-(3) Notwithstanding anything to the contrary in the foregoing provisions of this Act any university in New Zealand, any laboratory under the control of any Department of State, and any laboratory for the time being approved by the Minister of Research, Science, and Technology, may import, purchase, construct, have possession and control of, and operate any machine, pile, or apparatus capable of the production of atomic energy at a rate not exceeding 1 000 watts, or at such other rate and under such conditions as may from time to time be fixed by the Minister of Research, Science, and Technology by notice in the Gazette, and may retain and use for experimental purposes the products produced thereby.
+(2) The amount of uranium and of thorium that may be possessed and used as provided in the last preceding subsection shall be 1 pound each of uranium and of thorium, calculated by metal content, in the case of a school providing secondary instruction, and 20 pounds each of uranium and of thorium, calculated by metal content, in any other case:provided that the Minister of Research, Science, and Technology may from time to time by notice increase or reduce the amounts that may be possessed and used as aforesaid.
+(3) Notwithstanding anything to the contrary in the foregoing provisions of this Act any university in New Zealand, any laboratory under the control of any Department of State, and any laboratory for the time being approved by the Minister of Research, Science, and Technology, may import, purchase, construct, have possession and control of, and operate any machine, pile, or apparatus capable of the production of atomic energy at a rate not exceeding 1 000 watts, or at such other rate and under such conditions as may from time to time be fixed by the Minister of Research, Science, and Technology by notice, and may retain and use for experimental purposes the products produced thereby.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 14 Restriction on trading in fissionable substances
 No person shall, without the prior written consent of the Minister of Research, Science, and Technology, export or sell or otherwise dispose of any isotope of uranium, or any plutonium or other substance from which atomic energy may be more readily obtained than from uranium of natural isotope composition, except to the Crown.
@@ -87,4 +89,5 @@ In granting any consent or approval or imposing any requirement under this Act, 
 Any person who fails to comply with, or contravenes, any provision, prohibition, condition, or requirement contained in or imposed under this Act commits an offence and, where no specific penalty is elsewhere provided, shall be liable on conviction to a fine not exceeding $1,000, or to imprisonment for a term not exceeding 6 months, or to both such fine and such imprisonment.
 
 ### 19 Regulations
-The Governor-General may from time to time, by Order in Council, make all such regulations as may in his opinion be necessary or expedient for giving full effect to the provisions of this Act and for the due administration thereof.
+(1) The Governor-General may from time to time, by Order in Council, make all such regulations as may in his opinion be necessary or expedient for giving full effect to the provisions of this Act and for the due administration thereof.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
