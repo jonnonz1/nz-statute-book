@@ -1,5 +1,5 @@
 # Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2021-10-28_
 
 ## Preamble
 (1) On 7 August 2013, proceedings were lodged with the Employment Relations Authority claiming that the time spent by the applicant in travelling between clients to whom the applicant provided home-based care and support was work for the purposes of section 6 of the Minimum Wage Act 1983:
@@ -232,6 +232,7 @@ An HCS employer who fails to comply with an obligation imposed on the employer b
     (i) any unions representing 1 or more HCS employees of the employer; and
     (ii) any HCS employees of the employer who are not represented by a union.
 (3) An order made under subsection (1)﻿(b) may apply retrospectively from the date that the HCS employer started providing home and community-based support services but only if the parties listed in subsection (2)﻿(b) agree.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 28 Power to amend Schedule 4
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Health and the Minister for ACC,—
@@ -246,6 +247,7 @@ An HCS employer who fails to comply with an obligation imposed on the employer b
   (d) any unions representing 1 or more HCS employees.
 (3) Before making a recommendation under subsection (1)﻿(b), the Minister of Health and the Minister for ACC must be satisfied that the adjusted figure is a fair approximation of the actual distance HCS employees would travel between clients.
 (4) Before making a recommendation under subsection (1)﻿(c), the Minister of Health and the Minister for ACC must be satisfied that the adjusted figure is a fair approximation of the actual amount of time HCS employees would spend travelling between clients.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 29 Annual review of Schedule 4
 (1) The Minister of Health must, on or before 30 May 2017 and every 12 months after that date,—
