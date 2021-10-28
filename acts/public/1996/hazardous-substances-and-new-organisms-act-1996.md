@@ -1,11 +1,12 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2021-04-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Hazardous Substances and New Organisms Act 1996.
 (2) This Act shall come into force on a date to be fixed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made fixing different dates for different provisions and for different purposes.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary
 
@@ -94,7 +95,7 @@ _Consolidation as at 2021-04-01_
   - **EPA control** —
     (a) means any control imposed by the Authority under this Act for the purpose of controlling the adverse effects of hazardous substances on people or on the environment; and
     (b) includes, but is not limited to, classification controls, content controls, disposal controls, and ecotoxic controls
-  - **EPA notice** means a notice issued in the Gazette by the Authority under Part 6 or under any other provision of this Act that applies section 76C
+  - **EPA notice** means a notice issued by the Authority under Part 6 or under any other provision of this Act that applies section 76C
   - **explosive** means capable of sudden expansion owing to a release of internal energy; and includes the capability to generate—and has a corresponding meaning
     (a) deflagration; or
     (b) pyrotechnic effects,—
@@ -305,6 +306,7 @@ All persons exercising powers and functions under this Act shall take into accou
 (3) A failure to comply with subsection (2) shall not affect the validity of any Order in Council made under subsection (1).
 (4) Notwithstanding section 59, the Authority shall not proceed to determine any application made under Part 5 until an Order in Council has been made under subsection (1).
 (5) No decision of the Authority under Part 5 shall be challenged on the adequacy or otherwise of the methodology developed and applied under subsection (1).
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 3 — Powers, functions, and duties
 
@@ -449,7 +451,7 @@ A committee or subcommittee appointed for the purpose of section 19(2)﻿(b) mus
 (3) Every person has the right to inspect the register during the ordinary office hours of the Authority.
 
 ### 21 Charges
-(1) The Authority may from time to time—
+(1) The Authority may from time to time, by notice,—
   (a) fix the charges—so as to recover the actual and reasonable costs incurred in the exercise of that function, power, or duty; and
     (i) on a scale of charges for exercising or performing any function, power, or duty under this Act; or
     (ii) based on the time involved in exercising or performing any function, power, or duty under this Act—
@@ -458,9 +460,10 @@ A committee or subcommittee appointed for the purpose of section 19(2)﻿(b) mus
   (a) publicly notify the charges it proposes to fix and the persons who are liable to pay the charge; and
   (b) allow such period of time as the Authority thinks fit for any person who may be liable to pay the proposed charge to comment in writing to the Authority on whether or not the proposed charges are reasonable; and
   (c) consider any comments received in accordance with paragraph (b).
-(3) The Authority shall, after fixing any charges in accordance with this section, publicly notify the charges.
+(3)
 (4) Where the Authority fixes a scale of charges or a charge based on time, the Authority shall provide an estimate of the full charge payable by any person upon request by that person.
 (5) Any charge payable under this section by any person in respect of the completed exercise or performance of any function, power, or duty by the Authority shall, until paid in full and remitted to the Authority, constitute a debt due to the Authority, and may be recovered in any court of competent jurisdiction.
+(6) A notice under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 22 Payments in advance
 (1) The Authority may estimate the charge payable in respect of the exercise or performance of any function, power, or duty and require that estimated charge or part of that estimated charge to be paid in full before the Authority exercises or performs the function, power, or duty to which that charge relates.
@@ -521,8 +524,9 @@ The Authority may from time to time request any person who in the Authority's op
 ### 25B Prohibition on storage of persistent organic pollutants
 (1) A persistent organic pollutant must not be stored in New Zealand.
 (2) However, subsection (1) does not apply to—
-  (a) a persistent organic pollutant stored in accordance with conditions specified by the Authority by notice in the Gazette; or
+  (a) a persistent organic pollutant stored in accordance with conditions specified by the Authority by notice; or
   (b) a persistent organic pollutant in respect of which storage is specified in Schedule 2A.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 25C Continuation of certain exemptions under Toxic Substances Regulations 1983
 (1) For the purposes of sections 25A and 25B and Schedule 2A, an exemption granted under regulation 49I or regulation 49J of the Toxic Substances Regulations 1983 that is in force immediately before the commencement of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 continues—
@@ -531,13 +535,15 @@ The Authority may from time to time request any person who in the Authority's op
     (i) the exemption; or
     (ii) an extension of the exemption (being not later than the close of 2016).
 (2) The Authority may grant an extension of an exemption for the purposes of subsection (1)﻿(b)﻿(ii).
+(3) An extension under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 25D Use of persistent organic pollutants imported or manufactured before commencement of Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003
 (1) This section applies to persistent organic pollutants imported or manufactured before the commencement of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003.
-(2) No person may use a persistent organic pollutant for a use not specified in Schedule 2A if the Authority has issued a direction, by notice in the Gazette, restricting the use of the persistent organic pollutant to the use in that schedule for the persistent organic pollutant.
+(2) No person may use a persistent organic pollutant for a use not specified in Schedule 2A if the Authority has issued a direction restricting the use of the persistent organic pollutant to the use in that schedule for the persistent organic pollutant.
 (3) This section does not prevent approvals being granted under—
   (a) section 30(a); and
   (b) section 30(ba), but only for research in a laboratory.
+(4) A direction under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 26 Determination of new organism or hazardous substance
 (1) The Authority may, on application by any person, determine whether or not any organism is a new organism.
@@ -904,10 +910,11 @@ If the Authority has delegated to the responsible chief executive its power to a
 (4) An applicant may, by written notice to the Authority, withdraw the application at any time.
 
 ### 41 Assessment of adverse effects of developing genetically modified organisms
-The Governor-General may, from time to time, by Order in Council, make regulations—
+(1) The Governor-General may, from time to time, by Order in Council, make regulations—
   (a) specifying the procedures and methods for assessing the probability that an adverse effect will occur from genetic modification of an organism:
   (b) specifying the probability that adverse effects will occur from specified development procedures:
   (c) specifying the circumstances in which genetic modification of an organism is a low risk genetic modification.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 42 Rapid assessment of adverse effects for development of genetically modified organisms
 (1) Where the Authority receives an application under section 40 to develop a genetically modified organism in containment, the Authority may make a rapid assessment of the adverse effects of developing that organism.
@@ -937,6 +944,7 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
 (3) The Governor-General may, by Order in Council, make regulations specifying the circumstances in which there is a low risk of adverse effects from—
   (a) importing a new organism (other than a genetically modified organism) into containment; or
   (b) developing or field testing a new organism (other than a genetically modified organism) in containment.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 43 Additional matters to be considered when application made for developing new organisms in containment
 The Authority, when making a decision under section 45, must have regard to,—
@@ -1061,9 +1069,7 @@ In sections 49B to 49K,—
 
 ### 49B Declaration of special emergency
 (1) A responsible Minister may declare an adverse event to be a special emergency if the adverse event is a matter that comes within the Minister's portfolio.
-(2) A declaration of a special emergency—
-  (a) must be notified or published in the Gazette as soon as practicable after the special emergency is declared; and
-  (b) is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(2) A declaration of a special emergency must be notified or published in the Gazette as soon as practicable after the special emergency is declared.
 (3) A special emergency expires—
   (a) on the close of the date (if any) specified in the declaration as the expiry date; or
   (b) if paragraph (a) does not apply, then on the close of a date specified by notice in the Gazette as the date of expiry of the emergency.
@@ -1165,7 +1171,7 @@ On the expiry of an approval under section 49F that relates to a hazardous subst
   (a) the organism is likely to have any of the effects described in section 36; and
   (b) any likely adverse effects which may occur should the organism escape from containment would outweigh any likely beneficial effects of allowing the organism to be imported into containment.
 (4) The Authority, when making a recommendation under subsection (3), may advise the Minister that a group of organisms should be included in Schedule 2 if it is difficult for persons to distinguish between high-risk and low-risk members of that group.
-(5) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Transhipment**
 
@@ -1250,6 +1256,7 @@ On the expiry of an approval under section 49F that relates to a hazardous subst
 (7) In this section, confidential information means information that includes either or both of the following:
   (a) trade secrets:
   (b) information with a commercial value that would, or would be likely to, be diminished by disclosure of the information.
+(8) Regulations under subsection (6) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 56 Consideration of information withheld under Official Information Act 1982
 Any information withheld from any person in accordance with section 9(2)﻿(b) of the Official Information Act 1982 may be considered by the Authority in reaching a decision under this Act.
@@ -1420,9 +1427,10 @@ Where any hazardous substance or new organism is reassessed in accordance with s
 (2) Where the use of any hazardous substance is prohibited in accordance with subsection (1), the Authority may, if it thinks fit, add to or vary the controls on disposal of that substance to control any additional adverse effects of disposal of that substance in accordance with subsection (1), disclosed during reassessment.
 
 ### 66A Disposal of persistent organic pollutants
-If Schedule 2A does not specify a use for a persistent organic pollutant or a specified use has expired,—
+(1) If Schedule 2A does not specify a use for a persistent organic pollutant or a specified use has expired,—
   (a) no person may use the substance; and
-  (b) the Authority may issue a direction, by notice in the Gazette, requiring the environmentally sound disposal of the persistent organic pollutant.
+  (b) the Authority may issue a direction, by notice, requiring the environmentally sound disposal of the persistent organic pollutant.
+(2) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 67 Authority to direct disposal of new organisms
 Following any decision to—the Authority may direct the owner of any such organism already in New Zealand to dispose of the organism at the owner's expense in accordance with the terms of the approval under which the organism was imported, field tested, or developed.
@@ -1433,10 +1441,13 @@ Following any decision to—the Authority may direct the owner of any such organ
 The Authority may, of its own motion, amend any approval given by it under this Part if it considers that the alteration is minor in effect or corrects a minor or technical error.
 
 ### 67B Revoking duplicated approvals
-(1) The Authority may, by notice in the Gazette, revoke an approval, a deemed approval, or a group standard for a substance if the Authority is satisfied that a corresponding approval to the same or a substantially similar effect applies to the substance under—
+(1) The Authority may, by notice, revoke an approval, a deemed approval, or a group standard for a substance if the Authority is satisfied that a corresponding approval to the same or a substantially similar effect applies to the substance under—
   (a) a group standard; or
   (b) a Part 5 approval that is not a deemed approval.
 (2) The Authority may, but is not required to, consult any person or organisation before revoking an approval, a deemed approval, or a group standard under this section.
+(3) A notice under this section—
+  (a) must be published in the Gazette, if the notice revokes an approval or a deemed approval; or
+  (b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), if the notice revokes a group standard.
 
 **Minister's call-in powers**
 
@@ -1597,14 +1608,15 @@ The Authority may, in accordance with section 76C, issue an EPA notice that does
   (a) be signed by the chairperson of the Authority; and
   (b) set out fully the requirements of the notice, except where certain information is incorporated in the notice by reference; and
   (c) include a statement of the objective of the notice; and
-  (d) be published in the Gazette.
-(4) An EPA notice must be publicly notified, along with a statement stating the extent of consultation that took place before the notice was made.
+  (d)
+(4)
 (5) The Authority may amend or revoke any EPA notice and the amendment or revocation is subject to subsections (1) to (3), except as provided by subsection (6).
 (6) The Authority may, on its own initiative, amend an EPA notice without complying with subsections (1) and (2), if it considers that the amendment is minor in effect or corrects a minor or technical error.
 (7) A failure to comply with subsections (1), (3), and (4) does not affect the validity of any EPA notice made under this Act.
 
-### 76D Application of Legislation Act 2012 to EPA notices
-An EPA notice is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+### 76D Application of Legislation Act 2019 to EPA notices
+(1) An EPA notice, or an amendment to or revocation of an EPA notice, is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(2) A statement setting out the extent of the consultation under section 76C that took place before the notice was made must be published with it.
 
 ### 77 EPA controls on hazardous substances
 (1) Where the Authority has approved the importation or manufacture of any substance under section 28A or section 29, the Authority shall give that substance 1 or more hazard classifications in accordance with the intrinsic properties of that substance and the degree or type of hazard of that substance, if applicable.
@@ -1685,22 +1697,22 @@ An EPA notice is a disallowable instrument, but not a legislative instrument, fo
   (b) approve any amendment of any part of a code of practice that comprises a document approved by a Minister of the Crown and later adopted by the Authority.
 
 ### 79 Codes may be approved by Authority
-(1) A code of practice for hazardous substances, an amendment to such a code, and a revocation of such a code, shall not have any force or effect until it has been approved by the Authority.
+(1) A code of practice for hazardous substances, an amendment to such a code, and a revocation of such a code, shall not have any force or effect until it has been approved by the Authority and published under the Legislation Act 2019.
 (2) Subject to subsection (3), the Authority shall not approve any code, or any amendment or revocation of a code, unless—
   (a) not less than 20 working days has elapsed since the publication in the Gazette of a notice of the intention to apply for approval; and
   (b) the Authority has consulted such persons as will be affected by the code or amendment or revocation or who have advised the Authority in writing that they wish to be consulted, or representatives of those persons, and they have had the opportunity to consider its possible effects and to comment on those effects to the Authority; and
   (c) the Authority has considered any comments made to it concerning those effects.
 (3) The Authority may approve a code of practice for hazardous substances or any amendment or revocation of that code without complying with the requirements of subsection (2)﻿(a) or (b), if it is satisfied that sufficient consultation has already taken place in respect of the matters in the code, or amendment, or revocation.
 (4)
-(5) When the Authority approves a code of practice for hazardous substances or an amendment or revocation of that code, the Authority shall—
-  (a) publish a notice of the approval of the code of practice in the Gazette; and
-  (b) show the date of the approval of the code of practice on the code, amendment, or revocation and promulgate it in such manner as the Authority thinks fit.
+(5) A code of practice, or an amendment to or revocation of a code of practice, approved under this section—
+  (a) must show the date of the approval; and
+  (b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) That Act applies as if—
+  (a) the Authority were the maker of the code of practice, amendment, or revocation; and
+  (b) the code of practice, amendment, or revocation were made by the Authority approving it under this section.
 
 ### 80 Availability of codes
-(1) If the Authority approves a code of practice, the Authority must ensure that, so long as the code remains in force, copies of that code, and of all amendments to that code, are available—
-  (a) for inspection by members of the public free of charge; and
-  (b) for purchase by members of the public at a reasonable price.
-(2) The notice of approval published in the Gazette pursuant to section 79 shall show, in relation to the code, or the amendment to a code to which it relates, a place or places at which copies of the code or, as the case requires, the amendment, are available for public inspection and purchase.
+[Repealed]
 
 ### 81 Proof of code
 Without affecting any other method of proof, the production in any proceedings of a copy of any code of practice for hazardous substances, or amendment or revocation of such a code of practice, purporting to have been approved by the Authority, in the absence of evidence to the contrary, shall be sufficient proof that it has been issued in accordance with this Act.
@@ -1772,6 +1784,7 @@ Regulations made under this Act, EPA notices, approvals granted by the Authority
 (3) Any method specified in accordance with subsection (2)﻿(b) shall first allocate transferable permits to persons importing or manufacturing the substance immediately prior to the establishment of the transferable permit scheme.
 (4) Any method specified in accordance with subsection (2)﻿(a) may provide for the amount of a substance to be reduced or increased over a specified period of time.
 (5) Where any regulations made under this section specify a method for reducing the amount of substance available for importation or manufacture, no compensation shall be payable in respect of any such reduction.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 88 Authority to recommend establishment
 The Authority may recommend to the Minister that a transferable permit scheme be established, amended, or revoked for any hazardous substances or group of hazardous substances, in accordance with section 87, where the Authority is satisfied—
@@ -1854,7 +1867,7 @@ Where a transferable permit scheme exists for a substance,—
 The purpose of this Part is to enable the Authority to issue, amend, and revoke standards (known as group standards) for groups of hazardous substances (whether these are subject to Part 5 or not) that have a similar nature, are of a similar type, or have similar circumstances of use, so that the risks of the grouped hazardous substances can be effectively managed by 1 set of conditions.
 
 ### 96B Group standards
-(1) The Authority may, by notice in the Gazette, issue group standards that—
+(1) The Authority may issue group standards that—
   (a) identify the group of hazardous substances or products (described in subsection (2)) concerned; and
   (b) impose as conditions that apply to the identified group of hazardous substances or products any obligations and restrictions that the Authority thinks fit for the purpose of setting EPA controls.
 (2) A group standard may apply to 1 or more of the following hazardous substances or products:
@@ -1862,15 +1875,14 @@ The purpose of this Part is to enable the Authority to issue, amend, and revoke 
   (b) a hazardous substance to which Parts 11 to 15 apply:
   (c) a hazardous substance to which a notice or regulation under Part 11 applies, or a hazardous substance that has been approved under Part 5:
   (d) a product (including, but not limited to, a manufactured article, a waste product, or a manufacturing by-product) that is, contains, incorporates, or includes a hazardous substance.
-(3) The Authority may, by notice in the Gazette, amend or revoke group standards that are issued under subsection (1).
+(3) The Authority may amend or revoke group standards that are issued under subsection (1).
 (4) The Authority may issue, amend, or revoke group standards under this section—
   (a) on its own initiative; or
   (b) on application by any person.
-(5) A notice issued under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(6) As soon as practicable after issuing, amending, or revoking a group standard, the Authority must do the following:
-  (a) publish the group standard, amendment, or revocation in a publication relevant to affected persons; and
-  (b) make the group standard, amendment, or revocation available to be inspected free of charge and purchased at a reasonable price; and
-  (c) give public notice of where the group standard, amendment, or revocation can be inspected or purchased.
+(5) The following instruments made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a group standard:
+  (b) an amendment to or a revocation of a group standard.
+(6)
 
 ### 96C When group standards may be issued or amended
 (1) Before issuing or amending group standards under section 96B, the Authority must,—
@@ -2277,7 +2289,7 @@ Where any body corporate is convicted of an offence against this Act, every dire
     (i) the defendant had taken all reasonable steps to prevent the action or event; and
     (ii) the defendant took such steps as were reasonable in all the circumstances to mitigate or remedy the effects of the action or event after it occurred.
 (3) It is a defence to prosecution for any offence specified in section 109(1)﻿(e)﻿(ii) or (iii) that the defendant—unless the defendant had reason to believe that the code of practice or the structure or goods covered by the certificate did not meet the relevant controls.
-  (a) complied with any code of practice approved under section 79 as a method of achieving the controls that it is alleged that the defendant failed to comply with; or
+  (a) complied with any code of practice approved under section 79 (and published under the Legislation Act 2019) as a method of achieving the controls that it is alleged that the defendant failed to comply with; or
   (b) was the holder of any current certificate issued by any certifier in accordance with section 82, certifying that the controls that it is alleged that the defendant failed to comply with had been met,—
 (4)
 
@@ -2613,6 +2625,7 @@ No action or proceedings shall be brought against any enforcement officer or any
   (d) impose obligations and restrictions on persons:
   (e) apply differently to people of a differing age or health status, and may apply only to people of a particular age or health status.
 (7) Any regulation made under this section is not invalid merely because it confers a discretion on, or allows a matter to be determined or approved by, any person.
+(8) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 140A Persistent organic pollutants
 (1) The Governor-General may, by Order in Council, amend Schedule 2A to—
@@ -2620,11 +2633,13 @@ No action or proceedings shall be brought against any enforcement officer or any
   (b) include or amend a use for a persistent organic pollutant:
   (c) include or amend a date on the close of which a use included under paragraph (b) ceases to be allowed.
 (2) An Order in Council made under subsection (1) must be consistent with New Zealand's obligations under the Stockholm Convention.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 140B Schedule 1AA may be amended or substituted
-The Governor-General may, by Order in Council,—
+(1) The Governor-General may, by Order in Council,—
   (a) amend Schedule 1AA by making any amendments to the text of the Stockholm Convention set out in the schedule as are required to bring it up to date:
   (b) revoke Schedule 1AA and substitute a new schedule setting out in an up-to-date form the text of the Stockholm Convention.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 141 Procedure for making Orders in Council
 (1) Before making any recommendation for the purpose of making any Order in Council under this Act (other than any Order in Council or part of an Order in Council made under section 9(1), 55(6), 140(1)﻿(i), (j), or (m), or 140B), the Minister shall—and the Minister shall have regard to those submissions and comments received in accordance with paragraph (a) and to the advice received in accordance with paragraph (b).
@@ -2647,14 +2662,15 @@ The Governor-General may, by Order in Council,—
 (4)
 
 ### 141B Amendment to, or replacement of, material incorporated by reference
-(1) An amendment to, or replacement of, material has legal effect as part of the regulations, EPA notice, group standard, or code of practice in which the material is incorporated by reference only if a notice is published in the Gazette—
+(1) An amendment to, or replacement of, material has legal effect as part of the regulations, EPA notice, group standard, or code of practice in which the material is incorporated by reference only if a notice is published under the Legislation Act 2019—
   (a) stating that the amendment or replacement has that effect; and
-  (b) specifying the date of the notice, or a later date, as the date on which the amendment or replacement has that effect.
-(2) The following person may publish the notice:
+  (b) specifying the date of publication of the notice, or a later date, as the date on which the amendment or replacement has that effect.
+(2) The following person may make the notice:
   (a) the Minister, in the case of material incorporated in regulations; or
   (b) the Authority, in the case of material incorporated in an EPA notice or a group standard or code of practice.
-(3) The notice must not be published unless the amendment or replacement material is of the same general character as the material amended or replaced.
+(3) The notice must not be made unless the amendment or replacement material is of the same general character as the material amended or replaced.
 (4) An amendment to, or replacement of, material does not have legal effect as part of a notice of transfer in which the material is incorporated by reference.
+(5) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 141C Proof of material incorporated by reference
 (1) A copy of material that is incorporated by reference in regulations, including any amendment to, or replacement of, that material, must be—
@@ -2666,23 +2682,22 @@ The Governor-General may, by Order in Council,—
 (3) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation of that material in the regulations, EPA notice, group standard, notice of transfer, or code of practice.
 
 ### 141D Material incorporated by reference that ceases to have effect
-(1) If material ceases to have effect, it ceases to have legal effect as part of the regulations, EPA notice, group standard, or code of practice in which the material is incorporated by reference only if a notice is published in the Gazette—
+(1) If material ceases to have effect, it ceases to have legal effect as part of the regulations, EPA notice, group standard, or code of practice in which the material is incorporated by reference only if a notice is published under the Legislation Act 2019—
   (a) stating that the material ceases to have that effect; and
-  (b) specifying the date of the notice, or a later date, as the date on which the material ceases to have that effect.
-(2) The following person may publish the notice:
+  (b) specifying the date of publication of the notice, or a later date, as the date on which the material ceases to have that effect.
+(2) The following person may make the notice:
   (a) the Minister, in the case of material incorporated in regulations; or
   (b) the Authority, in the case of material incorporated in an EPA notice or a group standard or code of practice.
 (3) Material that ceases to have effect does not cease to have legal effect as part of a notice of transfer in which the material is incorporated by reference.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 141E Notice must be provided to committee responsible for examining regulations
-If a notice is published in the Gazette under section 141B or 141D in relation to material incorporated in regulations, an EPA notice, or a group standard, the following person must promptly provide a copy of the notice to the chairperson of the committee of the House of Representatives responsible for examining regulations:
-  (a) the chief executive of the Ministry for the Environment, in the case of material incorporated in regulations; or
-  (b) the chief executive of the Authority, in the case of material incorporated in an EPA notice or a group standard.
+[Repealed]
 
 ### 141F Requirement to consult on proposal to amend or replace material incorporated by reference
-(1) The Minister must comply with subsection (2) before publishing a notice in the Gazette under section 141B stating that an amendment to, or replacement of, material has legal effect as part of the regulations in which the material is incorporated by reference.
+(1) The Minister must comply with subsection (2) before making a notice under section 141B stating that an amendment to, or replacement of, material has legal effect as part of the regulations in which the material is incorporated by reference.
 (2) The Minister must notify and consult on the proposed amendment to, or replacement of, material in accordance with section 141 (with all necessary modifications) as if the proposed amendment or replacement were a proposed Order in Council.
-(3) The chief executive of the Authority must comply with subsection (4) before publishing a notice in the Gazette under section 141B stating that an amendment to, or replacement of, material has legal effect as part of the EPA notice or group standard or code of practice in which the material is incorporated by reference.
+(3) The chief executive of the Authority must comply with subsection (4) before making a notice under section 141B stating that an amendment to, or replacement of, material has legal effect as part of the EPA notice or group standard or code of practice in which the material is incorporated by reference.
 (4) The chief executive must notify and consult on the proposed amendment to, or replacement of, material,—
   (a) in the case of a group standard, in accordance with sections 53 to 61 (with all necessary modifications) as if the proposed amendment or replacement were an application under section 96B to amend a group standard; or
   (b) in the case of a code of practice, in accordance with section 79(2) and (3) (with all necessary modifications) as if the proposed amendment or replacement were a code proposed for approval; or
@@ -2748,10 +2763,9 @@ If a notice is published in the Gazette under section 141B or 141D in relation t
   (c) if the material referred to in paragraph (a) or (b) is not in an official New Zealand language, as well as the material itself, an accurate translation in an official New Zealand language of the material.
 (4) A failure to comply with this section does not invalidate a group standard, notice of transfer, or code of practice that incorporates material by reference.
 
-### 141I Application of Legislation Act 2012
-(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in regulations, EPA notices, group standards, notices of transfer, or codes of practice, or to any amendment to, or replacement of, that material.
-(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations, EPA notices, group standards, and notices of transfer that incorporate material by reference, but does not apply to codes of practice that incorporate material by reference.
-(3) However, nothing in section 41 of the Legislation Act 2012 requires material (including any amendment to, or replacement of, that material) that is incorporated by reference in regulations, EPA notices, group standards, or notices of transfer to be presented to the House of Representatives.
+### 141I Application of Legislation Act 2019
+(1) Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in regulations, EPA notices, group standards, notices of transfer, or codes of practice, or to any amendment to, or replacement of, that material merely because it is incorporated.
+(2) Subparts 1 and 2 of Part 5 of the Legislation Act 2019 apply to regulations, EPA notices, group standards, and notices of transfer that incorporate material by reference, but do not apply to codes of practice that incorporate material by reference.
 
 ### 142 Relationship to other Acts
 (1) Nothing in this Act shall affect the requirements of the Biosecurity Act 1993 in relation to any organism.
@@ -3464,7 +3478,7 @@ An existing prescribed control has no legal effect to the extent that it is repl
 (5) If an approval is reissued in accordance with this clause, it must be treated, without further need for a decision under the relevant provision referred to in paragraph (a) or (b), as if it has been reissued—
   (a) under the provision under which the approval was granted; or
   (b) in the case of an approval described in subclause (1)﻿(b), under section 29.
-(6) If the Authority reviews an approval under subclause (3) and considers it appropriate to identify a group of substances with approvals or deemed approvals that should be replaced with a group standard, the Authority may revoke the approvals or deemed approvals under section 67B and, by notice in the Gazette, issue a new group standard.
+(6) If the Authority reviews an approval under subclause (3) and considers it appropriate to identify a group of substances with approvals or deemed approvals that should be replaced with a group standard, the Authority may revoke the approvals or deemed approvals under section 67B and issue a new group standard.
 (7) If the Authority issues a group standard in accordance with this clause—
   (a) sections 53 and 96C do not apply to the amendment or reissue of the group standard under this clause; and
   (b) the group standard must be treated as if it has been issued under section 96B in accordance with the requirements of this Act.
@@ -3474,7 +3488,7 @@ An existing prescribed control has no legal effect to the extent that it is repl
 (2) The existing prescribed controls in a group standard continue to apply to the hazardous substances concerned according to the terms of the group standard, but subject to clause 3, until the Authority has—
   (a) reissued the group standard under subclause (3); or
   (b) revoked the group standard under section 67B.
-(3) The Authority may review and, by notice in the Gazette, amend and reissue a group standard for the purpose of updating the group standard to—
+(3) The Authority may review and amend and reissue a group standard for the purpose of updating the group standard to—
   (a) take into account the new classification system, the revocation of existing prescribed controls, or the replacement of existing prescribed controls with new controls; or
   (b) omit any condition imposed by the Authority under section 96B if it is reasonable to conclude that the purpose of the condition is to address the adverse effects on people in the workplace and that any other aspect of the condition is only incidental to that purpose.
 (4) The Authority may, if it considers appropriate, reissue a group standard under this clause that excludes hazardous substances or products that it formerly covered if those hazardous substances or products are moved to a different group standard that is also reissued under this clause or issued under clause 4(6).
