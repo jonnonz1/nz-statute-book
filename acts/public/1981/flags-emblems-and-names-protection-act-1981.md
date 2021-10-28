@@ -1,5 +1,5 @@
 # Flags, Emblems, and Names Protection Act 1981
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to declare the New Zealand Ensign to be the New Zealand Flag and to make provision relating to its use and to the use of certain other flags, and to make better provision for the protection of certain names and emblems of Royal, national, international, commercial, or other significance
 
@@ -149,17 +149,19 @@ Nothing in this Part shall limit or affect Her Majesty’s powers to approve, or
 
 ### 16 Unauthorised use of name and emblem of United Nations and other international organisations
 (1) Every person commits an offence against this Act who displays or exhibits or otherwise uses the name or emblem of the United Nations, or any word or words that incorporate that name or any such abbreviation or variation, without the authority of the Secretary-General of the United Nations.
-(2) The Minister may from time to time, after consultation with any other appropriate Minister, by notice in the Gazette, prohibit, regulate, or control the use of any emblem or name of—
+(2) The Minister may from time to time, after consultation with any other appropriate Minister, by notice, prohibit, regulate, or control the use of any emblem or name of—
   (a) any specialised agency brought into relationship with the United Nations in pursuance of Article 57 of the Charter of the United Nations; or
   (b) any other international organisation or authority.
 (3) Every person commits an offence against this Act who uses any name or emblem in contravention of any provision of a notice given under subsection (2).
 (4) In any prosecution for an offence against subsection (1), the onus of proving that the act complained of was done with the authority of the Secretary-General of the United Nations shall be on the defendant.
 (5) The notices specified in Part B of Schedule 2 shall be deemed for the purposes of this section to have been given under subsection (2) and shall continue in force notwithstanding the repeal by the Summary Offences Act 1981 of the Police Offences Act 1927 and section 38 of the Statutes Amendment Act 1948.
+(6) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 17 Use of the word Anzac
 (1) The Governor-General may from time to time, by Order in Council, prohibit, regulate, or control the use in connection with any business, trade, or occupation of the word Anzac or of any other word that so closely resembles the word Anzac as to be likely to deceive or mislead any person.
 (2) Every person commits an offence against this Act who uses the word Anzac or any other word that so closely resembles the word Anzac as to be likely to deceive or mislead any person in contravention of any provision of an order made under subsection (1).
 (3) The notices specified in Part C of Schedule 2 shall be deemed for the purposes of this section to be orders made under subsection (1).
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 18 Unauthorised use of name Returned Services’ Association
 (1) Subject to subsection (3), every person commits an offence against this Act who causes any association (whether incorporated or unincorporated) to be formed—
@@ -167,13 +169,14 @@ Nothing in this Part shall limit or affect Her Majesty’s powers to approve, or
   (b) under any name, title, style, or designation that contains the initials RSA if the use of that name is likely to lead any person to believe that the association consists of returned servicemen.
 (2) Every association (whether incorporated or unincorporated) commits an offence against this Act which carries on its activities under any name, title, style, or designation referred to in paragraph (a) or paragraph (b) of subsection (1).
 (3) Subsections (1) and (2) do not apply to the use of any name, title, style, or designation—
-  (a) with the prior consent of the Governor-General in Council; or
+  (a) with the prior consent of the Governor-General by Order in Council; or
   (b) by—
     (i) the Royal New Zealand Returned and Services’ Association Incorporated; or
     (ii) any association whose members include returned servicemen that is a member of or is affiliated to that Association; or
     (iii) any branch of any such association; or
     (iv) any association whose members include returned servicemen, current servicemen, or former servicemen and which has been approved for the purposes of this section by the Royal New Zealand Returned and Services’ Association Incorporated; or
   (c) by any association that was registered before the passing of the Police Offences Amendment Act 1956 if the association was formed under the name, title, style, or designation or was using the name, title, style, or designation immediately before the passing of that Act.
+(4) An order under subsection (3)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 18A Unauthorised use of words and emblems relating to 28th Māori Battalion
 (1) Subject to subsection (3), every person commits an offence against this Act who, in any business, trade, or occupation and in order to obtain money (or other property) or credit, displays, exhibits, or otherwise uses any of the following in such a manner as to be likely to cause anyone to believe that the display, exhibition, or use is under the authority, sanction, approval, appointment, or patronage of an association described in subsection (3)﻿(b)﻿(i) or (iii):
@@ -199,6 +202,7 @@ Nothing in this Part shall limit or affect Her Majesty’s powers to approve, or
     (ii) a person or class of persons or an association that has been approved in writing for the purposes of this section by the 28th Maori Battalion (NZ) Association Incorporated; or
     (iii) any association that has been approved in writing for the purposes of this section by the 28th Maori Battalion (NZ) Association Incorporated as the successor of the 28th Maori Battalion (NZ) Association Incorporated; or
     (iv) a person or class of persons or an association that has been approved in writing for the purposes of this section by the successor of the 28th Maori Battalion (NZ) Association Incorporated referred to in subparagraph (iii).
+(4) An order under subsection (3)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 19 Protection of names, uniforms, etc, of Girl Guides Association and Toc H, Incorporated
 (1) Every person commits an offence against this Act who uses—without the authority of the Girl Guides Association or (as the case may require) Toc H, Incorporated.
@@ -211,6 +215,7 @@ Nothing in this Part shall limit or affect Her Majesty’s powers to approve, or
 (4) The Governor-General may from time to time, by Order in Council made on the advice of the Minister and at the request of the Girl Guides Association or (as the case may require) Toc H, Incorporated,—
   (a) amend either or both of the orders referred to in Part D of Schedule 2, by adding to or deleting from the order any name, designation, uniform, or badge; or
   (b) revoke either or both of those orders, with or without making another order in substitution therefor.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 20 Unauthorised use of certain commercial names
 (1) Subject to subsections (4) to (6), every person commits an offence against this Act who—
@@ -246,6 +251,7 @@ Nothing in this Part shall limit or affect Her Majesty’s powers to approve, or
   (a) the word or name comprises the whole or part of the proper name of any town or road or other place, and that the name is or is to be used in full by the association; or
   (b) the word or name is the surname (not being a surname taken or used for the purpose of defeating the intention of this section) of a foundation member of the company or incorporated society;—
 (6) Nothing in this section shall prohibit or affect the use by any person of any name, title, style, designation, or word if, immediately before the commencement of this section, that use was expressly authorised by any consent, permission, approval, or authority given by any person lawfully entitled to give it.
+(7) An order under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 20AAA Unauthorised use of King George the Fifth Memorial Children’s Health Camps Federation emblem
 (1) In this section, Foundation means the charitable trust established by deed dated 31 March 1999 with the name Children's Health Camps—The New Zealand Foundation for Child and Family Health and Development.
