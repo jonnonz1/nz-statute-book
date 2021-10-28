@@ -1,5 +1,5 @@
 # Housing Assets Transfer Act 1993
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -40,6 +40,7 @@ The Ministers shall, before exercising the powers conferred on them by this Act 
 (3) For the purposes of subsection (2)﻿(a), a group or class of housing assets includes a group or class of such assets other than any particular asset or assets.
 (4) The Governor-General may, at any time or times, by Order in Council, vest in Kāinga Ora–Homes and Communities on a date specified in the order the housing assets specified in the order, being assets set out in a list prepared under subsection (1) and which is referred to in the order.
 (5) Every Order in Council under this section shall specify the consideration payable or to be provided by Kāinga Ora–Homes and Communities for the vesting of the housing assets.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Additional provisions relating to vesting
 (1) Nothing in this Act—
@@ -95,6 +96,7 @@ The enactments specified in the Schedule shall, with all necessary modifications
 (2) An Order in Council may be made under subsection (1) in relation to any class of land referred to in that subsection or in respect of any particular parcel of such land.
 (3) The Governor-General may from time to time, by Order in Council, declare that any land held by the Crown under a lease or licence and that is set apart under the Maori Housing Amendment Act 1938 for the purposes of the Maori Housing Act 1935, not being land subject to any sublease granted by the Crown under the Maori Housing Amendment Act 1938, shall, on a date specified in the order, cease to be set apart for the purposes of the Maori Housing Act 1935 and, in that event, the rights, powers, and obligations of the Crown under the lease or licence shall be exercised or performed by the person for the time being holding office as the chief executive of the Ministry of Maori Development as he or she thinks fit.
 (4) Nothing in this section applies in relation to land acquired by the Crown by way of gift pursuant to section 3(3) of the Maori Housing Amendment Act 1938.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 14 Kāinga Ora–Homes and Communities and others not liable for unpaid rates
 (1) This section applies to—
