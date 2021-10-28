@@ -1,5 +1,5 @@
 # Community Trusts Act 1999
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to make continued provision for the operation of the community trusts established under the Trustee Banks Restructuring Act 1988
 
@@ -183,6 +183,7 @@ The trust deed of a community trust must contain provisions—
 (6) On a date specified in the order,—
   (a) the areas or regions of the community trusts are adjusted to the areas or regions described in the proposed changes to the trust deeds submitted to the Minister under subsection (2)﻿(e); and
   (b) property, rights, assets, or liabilities proposed to be transferred under the scheme vest in the trustees of the community trusts in any manner proposed in subsection (2)﻿(f), and are held by them on and subject to the trusts contained in the trust deeds.
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 17 Merger of community trusts
 (1) The trustees of 2 or more community trusts may, in accordance with a resolution passed by not less than 75% of the trustees of each trust, submit to the Minister a scheme for the amalgamation of those trusts into a single community trust.
@@ -211,6 +212,7 @@ The trust deed of a community trust must contain provisions—
   (e) the trustees of the existing community trusts cease to hold office as trustees of those trusts.
 (7) The area or region of the new community trust established under subsection (6)﻿(a) must correspond with the area or region of the existing community trusts referred to in subsection (2)﻿(a).
 (8) This Act applies with any necessary modifications to every new community trust established under this section and to the trustees of those trusts.
+(9) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 18 Formation of separate community trusts in place of existing community trust
 (1) The trustees of a community trust may, in accordance with a resolution passed by not less than 75% of the trustees, submit to the Minister a scheme for the formation of 2 or more separate community trusts in place of that community trust.
@@ -240,6 +242,7 @@ The trust deed of a community trust must contain provisions—
   (e) the trustees of the existing community trust cease to hold office as trustees of that trust.
 (7) The area or region of each new community trust established under subsection (6)﻿(a) is the part of the area or region of the existing community trust referred to in subsection (2)﻿(a) as is specified in the order.
 (8) This Act applies with any necessary modifications to every new community trust established under this section and to the trustees of those trusts.
+(9) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Other matters**
 
@@ -274,3 +277,4 @@ Section 64 of the Reserve Bank of New Zealand Act 1989 does not apply to—
   (b) is payable to the department and recoverable in a court of competent jurisdiction as a debt due to the Crown.
 (4) The Minister must not recommend the making of an Order in Council that imposes or increases a fee or charge unless the Minister has previously consulted all interested community trusts.
 (5) In this section, department means the department of State that, under an enactment or with the authority of the Prime Minister, is for the time being responsible for the relevant function or matter.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
