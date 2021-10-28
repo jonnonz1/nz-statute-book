@@ -1,5 +1,5 @@
 # Forests Act 1949
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to forestry
 
@@ -442,6 +442,7 @@ The purpose of this Part is to promote the sustainable forest management of indi
 (2) The Governor-General may make an Order in Council under subsection (1) in relation to a forest only if he or she is satisfied that the owner of the forest has agreed with the Minister to—
   (a) surrender the right to mill indigenous timber harvested from the forest; or
   (b) surrender the right to mill indigenous timber harvested from the forest other than in accordance with a registered sustainable forest management plan or a registered sustainable forest management permit.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Felling controls**
 
@@ -672,6 +673,7 @@ In this Part, unless the context otherwise requires,—
     (ii) any additional units calculated on the basis of an annual compounding rate of 10% applied to each year's carbon sequestration from that proportion of the forest for the period beginning on the date that the covenant came into force and ending on the date that the breach occurred (or their monetary equivalent).
 (3A) Regulations made under subsection (1)﻿(k) may incorporate by reference any form or format for a record, return, or information prescribed under section 90 of the Climate Change Response Act 2002, or in regulations made under section 168(1)﻿(k) of that Act, or in any guidelines or standards issued under regulations made under section 163(1)﻿(d) of that Act.
 (4) However, nothing in this Part requires the Minister to negotiate, enter into, or enforce any provisions of, any forest sink covenant.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 67Z Content of forest sink covenants
 Without limiting the content of forest sink covenants, a forest sink covenant may—
@@ -818,10 +820,13 @@ The methods by which costs may be recovered under this subpart are as follows:
   (d) differ depending on the amount of service required or the components of the service required for the particular person.
 (5) If regulations prescribe a formula for determining a fee or charge, the formula may specify the value attributed to any component of that formula.
 (6) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of sections 67ZH and 67ZJ have been met.
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 67ZM Levies
 (1) The Governor-General may, by Order in Council and on the recommendation of the Minister, impose a levy payable to the Secretary for the purposes of wholly or partially funding a service provided or function performed by the Ministry or the Secretary for the purposes of this Act.
-(2) A levy order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 67ZN Contents of levy order
 (1) Every levy order under section 67ZM must specify—
@@ -847,9 +852,12 @@ The methods by which costs may be recovered under this subpart are as follows:
 (2) Nothing in subsection (1)﻿(c) affects any obligation or liability under this Act of any other person who has become responsible for collecting the levy concerned.
 
 ### 67ZP Exemptions, waivers, and refunds
-Regulations made under this subpart may—
+(1) Regulations made under this subpart may—
   (a) provide for exemptions from, or waivers or refunds of, any fee, levy, or charge payable under this subpart, in whole or in part, in any class of case:
   (b) authorise the Secretary to grant an exemption, waiver, or refund in any particular case or class of case.
+(2) If the regulations authorise the Secretary to grant an exemption, waiver, or refund,—
+  (a) an instrument granting such an exemption, waiver, or refund is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only in a particular case; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 67ZQ Fees, levies, and charges to constitute debt due to Secretary
 Any fee, levy, or charge that has become payable is a debt due to the Secretary, and is recoverable by the Secretary as a debt in any court of competent jurisdiction. Until paid in full, it remains a debt due to the Crown.
@@ -866,10 +874,7 @@ Any fee, levy, or charge that has become payable is a debt due to the Secretary,
 The obligation of a person to pay any fee, levy, charge, or penalty under this subpart, and the right of the Secretary to receive and recover the fee, levy, charge, or penalty, are not suspended by any dispute between the person and the Secretary regarding the person's liability to pay the fee, levy, charge, or penalty, or the amount of the fee, levy, charge, or penalty.
 
 ### 67ZT Levy orders are confirmable instruments
-The explanatory note of a levy order made under section 67ZM must indicate that—
-  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### 67ZU Relationship of Part with Resource Management Act 1991
 Nothing in this Part derogates from any provision of the Resource Management Act 1991.
@@ -931,6 +936,7 @@ Nothing in this Part derogates from any provision of the Resource Management Act
 (1A)
 (2)
 (3) Regulations made under this Act may be so made as to apply generally throughout New Zealand or within any specified part or parts thereof, or within the whole of New Zealand except such part or parts as may be specified in the regulations.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (4)
 
 ### 72A Remuneration and expenses
@@ -1022,11 +1028,13 @@ This Act comes into force on the day after the date on which it receives the Roy
 (2) In this section, specified contract means a written contract that—
   (a) relates to the export of indigenous timber harvested from specified Maori land; and
   (b) was entered into before 13 July 1999, being the date on which this Act was introduced as a Bill into the House of Representatives.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 21 Power to specify payment of money in relation to conservation covenant not gross income of recipient
 (1) The Governor-General may, by Order in Council, made in accordance with a recommendation of the Minister of Finance, specify that a payment of money made in consideration of the entering into of a conservation covenant over specified Maori land is not gross income of the recipient.
 (2) An Order in Council under this section may relate to a payment of money that is made in any income year, beginning with the 2002–03 income year.
 (3) In this section gross income has the same meaning as in section BD 1 of the Income Tax Act 1994.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 22 Certain payments of money under deed of settlement relating to Waitutu Block not assessable income or gross income
 (1) This section applies to payments of money made—
