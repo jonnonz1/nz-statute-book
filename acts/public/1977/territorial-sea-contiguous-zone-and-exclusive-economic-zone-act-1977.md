@@ -1,5 +1,5 @@
 # Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
-_Consolidation as at 2005-12-15_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision with respect to the territorial sea and the contiguous zone of New Zealand; and to establish an exclusive economic zone of New Zealand adjacent to the territorial sea, and in the exercise of the sovereign rights of New Zealand to make provision for the exploration and exploitation, and conservation and management, of the resources of the zone; and for matters connected with those purposes
 
@@ -10,6 +10,7 @@ _Consolidation as at 2005-12-15_
 (4) For the purposes of subsection (3), 1 or more Orders in Council may be made—
   (a) bringing different provisions of this Act into force on different dates; and
   (b) bringing provisions of this Act into force on different dates in respect of specified parts of New Zealand.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -33,7 +34,7 @@ _Consolidation as at 2005-12-15_
     (a) that is a New Zealand ship within the meaning of section 2(1) of the Maritime Transport Act 1994; or
     (b) that is an aircraft registered in New Zealand under the Civil Aviation Act 1990; or
     (c) in which no person who is not a New Zealand citizen has any legal or equitable interest (except by way of security only for any advance made by him or her to the owner)
-  - **New Zealand Government ship** means a ship that belongs to Her Majesty or is held by any person on behalf of or for the benefit of Her Majesty; but does not include a ship that is set aside for or used by the New Zealand Defence Force
+  - **New Zealand Government ship** means a ship that belongs to the Sovereign or is held by any person on behalf of or for the benefit of the Sovereign; but does not include a ship that is set aside for or used by the New Zealand Defence Force
   - **prescribed** means prescribed by regulations made under this Act.
 (2) For the purposes of this Act, permanent harbour works that form an integral part of a harbour system shall be treated as forming part of the coast.
 
@@ -77,7 +78,7 @@ In the case of the sea adjacent to a bay, the baseline from which the breadth of
 [Repealed]
 
 ### 8 Regulations in territorial sea
-Where no other provision is for the time being made by any other enactment for any such purposes, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) Where no other provision is for the time being made by any other enactment for any such purposes, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) regulating the conduct of scientific research within the territorial sea:
   (b) prescribing measures for the protection and preservation of the marine environment of the territorial sea:
   (c) regulating the construction, operation, and use of artificial islands (whether permanent or temporary), and other installations and structures in the territorial sea, including the establishment of safety zones around such islands, installations, and structures:
@@ -85,6 +86,7 @@ Where no other provision is for the time being made by any other enactment for a
   (e) providing for such other matters as are necessary or expedient for giving full effect to the sovereignty of New Zealand in relation to the territorial sea:
   (f) providing that a breach of any such regulations shall be a criminal offence, and imposing penalties by way of fine not exceeding $10,000 for any such offences:
   (g) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Part and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1A — The contiguous zone of New Zealand
 
@@ -101,6 +103,7 @@ Where no other provision is for the time being made by any other enactment for a
   (b) no other outer limit of the exclusive economic zone is for the time being determined by an Order in Council made under subsection (3) or subsection (4)—
 (3) The Governor-General may from time to time, by Order in Council, declare that any specified provisions of this Part, and any other specified provisions in this Act relating to the exclusive economic zone, shall apply to the Ross Dependency, with such modifications and exceptions (if any) as he may specify in the order.
 (4) For the purposes of implementing any international agreement, or the arbitral award of any international body, or the judgment of any international court, or for any other purpose in accordance with international law, the Governor-General may from time to time, by Order in Council, declare that the exclusive economic zone shall not extend to any specified area of the sea, seabed, or subsoil, that would otherwise be included within the exclusive economic zone by virtue of this section.
+(5) An order under subsection (3) or (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 10 Seas in zone to be New Zealand fisheries waters
 (1) The seas comprised in the exclusive economic zone shall be part of New Zealand fisheries waters.
@@ -157,7 +160,7 @@ Where no other provision is for the time being made by any other enactment for a
 [Repealed]
 
 ### 27 General regulations in zone
-Where no other provision is for the time being made by any other enactment for any such purposes, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) Where no other provision is for the time being made by any other enactment for any such purposes, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) regulating the conduct of scientific research within the exclusive economic zone:
   (b) prescribing measures for the protection and preservation of the marine environment of the zone:
   (c) regulating the construction, operation, and use of artificial islands (whether permanent or temporary), and other installations and structures within the zone, including the establishment of safety zones around such islands, installations, and structures:
@@ -165,6 +168,7 @@ Where no other provision is for the time being made by any other enactment for a
   (e) providing for such other matters as are necessary or expedient for giving full effect to the sovereign rights of New Zealand in relation to the zone:
   (f) providing that a breach of any such regulations shall be a criminal offence, and imposing penalties by way of fine not exceeding $10,000 for any such offences:
   (g) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Part (other than matters for which regulations may be made under section 22) and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 28 General provisions as to offences in zone
 (1) Any offence against this Act, or against any regulations made under this Act, that is committed within the exclusive economic zone shall be deemed to have been committed in New Zealand.
@@ -177,7 +181,8 @@ Where no other provision is for the time being made by any other enactment for a
 [Repealed]
 
 ### 30 Modifications to give effect to international agreement
-The Governor-General may, from time to time, by Order in Council, limit any provision of this Act relating to the exclusive economic zone so far as it is necessary to do so to give full effect to any convention that is adopted by the Third United Nations Conference on the Law of the Sea.
+(1) The Governor-General may, from time to time, by Order in Council, limit any provision of this Act relating to the exclusive economic zone so far as it is necessary to do so to give full effect to any convention that is adopted by the Third United Nations Conference on the Law of the Sea.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 31 Official charts
 (1) For the purposes of this Act, in any proceedings in any court, the low-water line for any area depicted on the charts in the Territorial Limits Folio is sufficient evidence of the low-water line for that area.
