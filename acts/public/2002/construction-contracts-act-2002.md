@@ -1,5 +1,5 @@
 # Construction Contracts Act 2002
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Construction Contracts Act 2002.
@@ -1028,6 +1028,7 @@ Any notice or any other document required to be served on, or given to, any pers
   (a) the Chief District Court Judge; and
   (b) 2 or more members of the Rules Committee established under section 155 of the Senior Courts Act 2016 of whom at least 1 is a District Court Judge.
 (3) In the absence of any rules under this section, or in any situation not covered by any of those rules, the rules in relation to civil proceedings for the time being in force under the District Court Act 2016 apply, with all necessary modifications, to proceedings under this Act.
+(4) See section 228 of the District Court Act 2016, which provides that court rules are secondary legislation.
 
 ### 82 Regulations
 (1) The Governor-General may, by Order in Council, make regulations providing for any matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
@@ -1041,6 +1042,7 @@ Any notice or any other document required to be served on, or given to, any pers
   (g) note which time frames the respondent can ask the adjudicator to extend:
   (h) indicate the likely costs of the adjudication:
   (i) identify alternative options which may be available to the parties to resolve their dispute (other than by continuing the adjudication process).
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 83 Chief executive may require adjudication information
 (1) The chief executive may, for statistical or research purposes, require adjudicators, nominating authorities, or nominating bodies to provide any information (in their possession or under their control) regarding adjudications, including, for example, the number, nature, or outcome of adjudications initiated under this Act.
