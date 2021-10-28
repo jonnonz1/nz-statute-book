@@ -1,5 +1,5 @@
 # Maori Purposes Fund Act 1934–35
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to reconstitute the Maori Purposes Fund Control Board, to redefine and extend its functions, to establish a fund to be called the Maori Purposes Fund, and to provide for the administration of the said Fund
 
@@ -145,6 +145,7 @@ Any local authority or other public body, any company or other incorporated body
   (e) regulating the delegation of powers and duties by the Board to committees, and fixing the limits of such delegation:
   (f) prescribing the terms and conditions of any loans granted by the Board pursuant to section 11:
   (g) prescribing all such other matters as may be deemed necessary or expedient for the purpose of giving full effect to this Act or for which regulations may be contemplated by this Act.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (2)
 
 ### 16 Repeals, abolition of boards, and savings
