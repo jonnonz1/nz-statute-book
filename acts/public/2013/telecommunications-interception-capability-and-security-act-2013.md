@@ -1,5 +1,5 @@
 # Telecommunications (Interception Capability and Security) Act 2013
-_Consolidation as at 2018-11-13_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Telecommunications (Interception Capability and Security) Act 2013.
@@ -304,6 +304,7 @@ A network operator that is required by or under this subpart to ensure that a ne
     (i) sets out the effect of the proposed regulations (proposal); and
     (ii) invites submissions on the proposal to be made by a specified date; and
   (b) consider the submissions (if any) on the proposal.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 3 — Related duties
 
@@ -385,6 +386,7 @@ Every person who, under an interception warrant or any other lawful interception
   (a) may, without limitation, apply to all or part of a specified service or network or class of service or network; and
   (b) may be subject to any terms and conditions specified by the designated officer.
 (4) The designated officer may grant an exemption under subsection (1) with or without application from a network operator.
+(5) An exemption, revocation, or variation under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named network operators.
 
 ### 30 Application for exemption
 (1) A network operator may apply to a designated officer for an exemption or a variation or revocation of an exemption under section 29(1).
@@ -418,7 +420,7 @@ Every person who, under an interception warrant or any other lawful interception
 (3) The designated officer must consult each of the surveillance agencies, as well as the applicant (if any), on the proposed decision.
 (4) The reasons for the decision must be set out in the decision, except those parts of the reasons that would reveal classified information.
 (5) The designated officer must issue a written notice of the decision to the applicant or, in the case of a class exemption, to the class of network operators who are affected by the decision.
-(6) An exemption applying to a class of network operators that is granted, varied, or revoked under section 29 is not a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(6)
 
 **Application to Minister**
 
@@ -438,6 +440,7 @@ Every person who, under an interception warrant or any other lawful interception
 (3) An exemption under subsection (1)—
   (a) may, without limitation, apply to all or part of a specified service or network or class of service or network; and
   (b) may be subject to any terms and conditions specified by the Minister.
+(4) An exemption, revocation, or variation under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named network operators.
 
 ### 35 Effect of application for exemption or variation
 (1) The effect of an application under section 33 is that from the date that the designated officer's decision is issued under section 32(5) to the date that the Minister's decision on the application is notified,—
@@ -459,7 +462,7 @@ Every person who, under an interception warrant or any other lawful interception
 (4) The Minister must, when taking account of the matters set out in subsection (3), give primacy to subsection (3)﻿(a).
 (5) The reasons for the decision must be set out in the decision, except those parts of the reasons that would reveal classified information.
 (6) The Minister must issue a written notice of the decision to the applicant or, in the case of a class exemption, to the class of network operators who are affected by the decision.
-(7) An exemption applying to a class of network operators that is granted, varied, or revoked under section 34 is not a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(7)
 
 ### 37 Regulations relating to class exemptions
 (1) The Governor-General may, by Order in Council, on the recommendation of the Minister, make regulations—
@@ -471,6 +474,7 @@ Every person who, under an interception warrant or any other lawful interception
 (4) The Minister must not recommend the making of regulations under subsection (1) unless the Minister has—
   (a) taken account of the matters set out in section 36(3) and (4); and
   (b) consulted the responsible Ministers and the Minister for Communications and Information Technology.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 5 — Ministerial directions
 
@@ -545,18 +549,20 @@ Every person who, under an interception warrant or any other lawful interception
     (ii) invites submissions on the proposal to be made by a specified date; and
   (b) consider the submissions (if any) on the proposal.
 (5) The effect of the regulations is that this Part (except for sections 13 to 20, and 23) and Parts 1 and 4 apply to a service provider falling within a class specified in the regulations, as if the service provider were a network operator under this Act.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 6 — Formatting
 
 ### 42 Notice relating to formatting
-(1) The Minister may, by notice in the Gazette, determine the format in which call associated data and the content of a telecommunication must be able to be obtained under an interception warrant or any other lawful interception authority.
+(1) The Minister may determine the format in which call associated data and the content of a telecommunication must be able to be obtained under an interception warrant or any other lawful interception authority.
 (2) Before making a determination under subsection (1), the Minister must consult the telecommunications industry by—
   (a) publishing, on an Internet site operated by the Ministry, a notice that—
     (i) sets out the effect of the proposed notice (proposal); and
     (ii) invites submissions on the proposal to be made by a specified date; and
   (b) considering the submissions (if any) on the proposal.
-(3) The notice may incorporate by reference all or part of any standard, specification, or requirement that is published by or on behalf of any body or person in any country, including any standard from the European Telecommunications Standards Institute.
-(4) The notice is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) The determination may incorporate by reference all or part of any standard, specification, or requirement that is published by or on behalf of any body or person in any country, including any standard from the European Telecommunications Standards Institute.
+(4) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference under subsection (3) merely because it is incorporated.
 
 ### 43 Effect of changes to material incorporated by reference
 (1) This section applies if—
@@ -604,6 +610,7 @@ This Part applies to network operators.
   - **administrative (privileged user) authentication credentials** means the authentication credentials of a privileged user
   - **authentication credentials** means any information (for example, passwords or usernames) used to ascertain the identity of a user, process, or device
   - **privileged user** means a person who has authorisations that enable the person to, among other things, alter, bypass, or circumvent network security protections.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 48 Network operator must notify Director
 (1) A network operator must notify the Director of any proposed decision, course of action, or change made by or on behalf of the network operator regarding—
@@ -620,9 +627,7 @@ This Part applies to network operators.
 (2) The exemption may be granted for any period specified by the Director and on any terms and conditions that the Director thinks fit.
 (3) The Director may by written notice vary or revoke an exemption granted under this section.
 (4) The Director may give a notice under this section relating to a network operator directly to the network operator concerned.
-(5) A notice under this section that relates to a class of network operators—
-  (a) must be published on an Internet site operated by the Government Communications Security Bureau; and
-  (b) is not a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(5) An exemption, variation, or revocation under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named network operators.
 
 **Process for preventing or mitigating network security risks**
 
@@ -1286,8 +1291,10 @@ If a network operator has, at the date of first registration, less than 4 000 cu
   (c) prescribing criteria relating to an extension referred to in paragraph (b):
   (d) providing for any other requirements that apply in relation to an extension referred to in paragraph (b).
 (2) The Minister responsible for the Government Communications Security Bureau must consult the Minister before recommending the making of regulations under subsection (1).
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 127 Regulations
-The Governor-General may, by Order in Council, make regulations providing for any matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(1) The Governor-General may, by Order in Council, make regulations providing for any matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule  — Consequential amendments
