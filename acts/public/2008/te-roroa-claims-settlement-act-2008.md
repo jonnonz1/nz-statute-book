@@ -1,5 +1,5 @@
 # Te Roroa Claims Settlement Act 2008
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ## Preamble
 Background
@@ -717,20 +717,22 @@ If the trustees of the Manawhenua Trust advise the New Zealand Conservation Auth
 (4) This section does not limit section 58(2).
 
 ### 61 Regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for all or any of the following purposes:
   (a) to provide for the implementation of objectives included in conservation documents under section 60(1):
   (b) to regulate or prohibit activities or conduct by members of the public in relation to Te Tarehu:
   (c) to create offences in respect of the contravention of any regulations made under paragraph (b), and provide for the imposition of fines—
     (i) not exceeding $5,000 for those offences; and
     (ii) for a continuing offence, an amount not exceeding $50 for every day during which the offence continues.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 62 Bylaws
-The Minister of Conservation may make bylaws for all or any the following purposes:
+(1) The Minister of Conservation may make bylaws for all or any the following purposes:
   (a) to provide for the implementation of objectives included in conservation documents under section 60(1):
   (b) to regulate or prohibit activities or conduct by members of the public in relation to Te Tarehu:
   (c) to create offences in respect of the contravention of any bylaws made under paragraph (b), and provide for the imposition of fines—
     (i) not exceeding $1,000 for those offences; and
     (ii) for a continuing offence, an amount not exceeding $50 for every day during which the offence continues.
+(2) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 63 Existing classification of Te Tarehu
 The purpose or classification of an area as a national park, conservation area, or reserve is not affected by the fact that the area is, or is in, Te Tarehu.
@@ -748,6 +750,7 @@ The purpose or classification of an area as a national park, conservation area, 
   (a) the Minister of the Crown responsible for the new management or the new management regime; or
   (b) the Commissioner of Crown Lands; or
   (c) any other responsible officer.
+(5) The Minister of Conservation must ensure that an order under this section is published in the Gazette.
 
 ### 65 Exercise of powers, duties, and functions
 (1) Nothing in section 50 or 51 affects or may be taken into account in the exercise of any power by, or performance of any duty or function of, any person under any statute, regulation, or bylaw.
