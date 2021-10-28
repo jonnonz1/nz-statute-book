@@ -1,5 +1,5 @@
 # Primary Products Marketing Act 1953
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the establishment of Marketing Authorities for the purpose of regulating the marketing of primary products and to make provisions with respect to those Authorities
 
@@ -48,7 +48,7 @@ In this Act, unless the context otherwise requires,—
 (3) The Minister shall not recommend the making of any regulations under this Act establishing a Marketing Authority unless he is satisfied, on such evidence as he considers adequate, that a majority of the persons engaged in the production of the primary product to which the proposed regulations relate are in favour of the establishment of a Marketing Authority in respect of that product.
 (4)
 (5) Any regulations made under this Act may apply generally throughout New Zealand or within any specified district or districts or part or parts thereof.
-(6) All regulations made under this Act shall be laid before the House of Representatives not later than the 16th sitting day of the House of Representatives after the day on which they are made.
+(6)
 (7) Where regulations made under this Act provide for the payment of a levy to a Marketing Authority, they may also—
   (a) require every person liable to pay the levy, or every person of any kind or description liable to pay the levy, to keep (in relation to that person, or in relation to that person and some other matter or thing) at a registered bank within the meaning of the Reserve Bank of New Zealand Act 1989 a bank account (in this subsection and subsections (8) to (11) referred to as a trust account); and
   (b) require every person required to keep a trust account to—
@@ -67,12 +67,13 @@ In this Act, unless the context otherwise requires,—
 (11) Nothing in subsection (10) limits or affects any obligation or liability under regulations made under this Act of any person who has acquired the business of a person who—
   (a) would otherwise cease to be required by those regulations to keep a trust account; but
   (b) is required by those regulations to continue to maintain it until all money required to be paid to the Marketing Authority concerned has been paid to it.
+(12) Regulations under subsection (1)—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be presented to the House of Representatives not later than the 16th sitting day after the day on which they are made; and
+  (c) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 4 Regulations are confirmable instruments
-The explanatory note of regulations made under section 3(1) must indicate that—
-  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### 5 Marketing Authorities to be bodies corporate
 Every Marketing Authority is a body corporate, with perpetual succession and a common seal.
