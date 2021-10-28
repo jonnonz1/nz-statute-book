@@ -1,5 +1,5 @@
 # Trustee Companies Act 1967
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to make better provision for the operation of trustee companies
 
@@ -146,7 +146,7 @@ Where by any power of attorney any trustee company is appointed attorney by any 
 (1) Subject to subsection (2), it shall be lawful for a trustee company to charge, demand, and receive for work done and services rendered by it such remuneration by way of commission or otherwise as may from time to time be fixed by the Board of Directors of the trustee company.
 (2) Remuneration charged, demanded, or received by a trustee company pursuant to subsection (1) for the administration or management of an estate or trust shall not exceed the greater of the following amounts:
   (a) an amount equal to 5% of the total of the value of the assets of the estate or trust and the income received by the company in respect of the estate or trust:
-  (b) $100 (or such greater amount as is from time to time prescribed by the Governor-General by Order in Council).
+  (b) $100 (or such greater amount as is from time to time prescribed by the Governor-General by Order in Council (see subsection (5))).
 (3) In addition to the remuneration authorised by subsections (1) and (2), it shall be lawful for a trustee company to charge, demand, and receive a reasonable fee or other remuneration for work done or services rendered by it in respect of any of the following matters that arise in the course of administration or management of an estate or trust:
   (a) the preparation and lodging of returns for the purpose of, or in connection with, the assessment of any duties or taxes:
   (b) the management of property, including the arranging of tenancies and leases and renewals and assignments thereof, and the arranging and supervising of repairs, maintenance, renovations, or extensions of or to the property:
@@ -155,6 +155,7 @@ Where by any power of attorney any trustee company is appointed attorney by any 
   (e) the carrying on of a business pending realisation:
   (f) any other matter of an unusual or special nature.
 (4) Any fee or other remuneration charged pursuant to subsection (3) shall be clearly identified in the account rendered in respect of the estate or trust.
+(5) An order under subsection (2)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 19 Review of charges
 (1) Notwithstanding anything to the contrary in this Act or any other enactment, if the High Court is of the opinion that any commission, fee, or remuneration charged by a trustee company is excessive, that court may reduce the amount of the commission, fee, or remuneration.
@@ -337,6 +338,7 @@ In determining the value of the property of any person that is situated in New Z
 ### 41 Court fees payable on elections, etc
 (1) The fee payable to the Registrar of the High Court for the filing of any election under this Part shall be such amount as may from time to time be prescribed by the Governor-General by Order in Council.
 (2) A copy of any such election certified as a correct copy under the seal of the High Court or a Registrar thereof shall be equivalent to an exemplification of that election for all purposes, and the only fee payable in respect thereof shall be a sealing fee of such amount as may be so prescribed.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 42 Certificate by trustee company as to its legal status in any matter
 (1) Where the trustee company is executor or other administrator or is by law authorised to administer the estate of any deceased person, or where it is acting as trustee, guardian, manager, agent, attorney, liquidator, committee, or receiver, or in any other capacity, a certificate by the company under the seal of the company or of a local or special Board of Directors of the company stating, in the case of a deceased person, the name, residence, and occupation of the deceased person at the time of his death, and the date of his death, and certifying that the trustee company has obtained a grant of probate or an order to administer or is otherwise authorised to administer the estate and stating the date when the probate or order to administer was granted or the manner in which and the time at which the trustee company became authorised to administer and, in any case where the trustee company is acting as trustee, guardian, manager, agent, attorney, liquidator, committee, receiver, or in any other capacity, certifying that the trustee company is authorised to act as such trustee, guardian, manager, agent, attorney, liquidator, committee, or receiver or in any other capacity, and stating the manner in which and the time at which it became so authorised to act shall, notwithstanding any law or statutory provision to the contrary, be accepted by all courts, officers, and persons, whether acting under any Act or not, as sufficient evidence in the case of a deceased person of the death of that person, and of the appointment of the trustee company as executor or other administrator, and of its right to administer, and in any of the other cases mentioned of the trustee company's right to act, without any other proof whatsoever.
@@ -386,6 +388,7 @@ No trustee company to which this Part applies or to which this Part or the Trust
   (c) specify the consequences of any failure to disclose or late disclosure (which may include a prohibition on the charging or reimbursing of any fees or expenses until disclosure is made):
   (d) prescribe acceptable manners of notification, and prescribe when notification will be treated as having been received:
   (e) make special provision in relation to existing funds within the meaning of section 5(2) of the Trustee Companies Amendment Act 2002.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 48 Repeals
 The enactments specified in Schedule 3 are hereby repealed.
