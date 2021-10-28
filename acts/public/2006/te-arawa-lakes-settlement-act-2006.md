@@ -1,5 +1,5 @@
 # Te Arawa Lakes Settlement Act 2006
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ## Preamble
 (1) Recitals (2) to (12) of this Preamble present, in summary form, the background to the Te Arawa lakes claims that is set out in Part 7 of the deed of settlement:
@@ -862,6 +862,7 @@ No person may engage in commercial fishing in the Te Arawa fisheries area.
   (i) provide for other matters necessary or desirable to achieve compliance with, and the proper administration of, the regulations.
 (2) Subsection (1) applies despite section 17B of the Fisheries Act 1996.
 (3) The Governor-General may, by Order in Council, make regulations recommended under subsection (1).
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Commercial fishing**
 
@@ -898,8 +899,8 @@ No person may engage in commercial fishing in the Te Arawa fisheries area.
   (e) the area or areas from which an included species may or may not be taken:
   (f) any other matter that the Trustees of the Te Arawa Lakes Trust consider necessary for the sustainable utilisation of included species.
 (2) A restriction or prohibition imposed on individuals by bylaws made under this subpart applies generally to all persons fishing in the Te Arawa fisheries area.
-(3) Bylaws made under this subpart do not come into force and are of no effect until the date specified in the bylaws approved by the Minister and published in the Gazette in accordance with section 79.
-(4) The publication in the Gazette of bylaws purporting to have been approved under section 79 is conclusive evidence that the bylaws have been duly made and approved under this subpart.
+(3) Bylaws made under this subpart do not come into force and are of no effect until the date specified in the bylaws approved by the Minister and published in accordance with section 79.
+(4) The publication of bylaws purporting to have been approved under section 79 is conclusive evidence that the bylaws have been duly made and approved under this subpart.
 
 ### 78 Procedure for making bylaws
 (1) Bylaws made by the Trustees of the Te Arawa Lakes Trust under this subpart must be deposited—
@@ -928,11 +929,15 @@ No person may engage in commercial fishing in the Te Arawa fisheries area.
       (B) if relevant, amended under section 78(5).
 (2) The Minister of Fisheries, when notified of bylaws under subsection (1), must, as soon as is reasonably practicable, but not later than 40 business days after receiving that notification, determine whether to approve or to reject the bylaws.
 (3) In making a determination under subsection (2), the Minister of Fisheries must take into account the statement provided by the Trustees of the Te Arawa Lakes Trust under subsection (1)﻿(b)﻿(i).
-(4) When the Minister of Fisheries approves bylaws under subsection (2), the Minister must, as soon as practicable, publish the approved bylaws in the Gazette.
+(4)
 (5) If the Minister of Fisheries rejects a bylaw under subsection (2), the Minister must notify the Trustees of the Te Arawa Lakes Trust in writing of that decision.
 (6) The Minister of Fisheries may approve a bylaw even if there has been a breach of a time period—
   (a) provided for in subsection (2) or section 78(2); or
   (b) specified in any regulations made under section 74(1).
+(7) Bylaws approved under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(8) That Act applies as if—
+  (a) the Minister were the maker of the bylaws; and
+  (b) the bylaws were made by the Minister approving them.
 
 ## Part 4 — Miscellaneous provisions
 
