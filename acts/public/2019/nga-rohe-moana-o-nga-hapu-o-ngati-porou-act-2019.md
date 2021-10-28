@@ -1,5 +1,5 @@
 # Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019
-_Consolidation as at 2019-05-29_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019.
@@ -116,7 +116,7 @@ In this Act, unless the context otherwise requires,—
   - **ngā rohe moana** and have the meaning given by section 11
   - **petroleum** has the meaning given by section 2 of the Crown Minerals Act 1991
   - **plan** has the meaning given by section 2 of the Resource Management Act 1991
-  - **prohibition or restriction** , in relation to a wāhi tapu or wāhi tapu area, means a prohibition or restriction imposed by the Gazette notice, court order, or agreement by which the wāhi tapu or wāhi tapu area is recognised
+  - **prohibition or restriction** , in relation to a wāhi tapu or wāhi tapu area, means a prohibition or restriction imposed by the notice, court order, or agreement by which the wāhi tapu or wāhi tapu area is recognised
   - **proposed plan** has the meaning given by section 2 of the Resource Management Act 1991
   - **protected customary activity** means a protected customary activity of 1 or more hapū of ngā hapū o Ngāti Porou that is recognised—
     (a) by a protected customary activity agreement; or
@@ -142,7 +142,7 @@ In this Act, unless the context otherwise requires,—
   - **rule** has the meaning given by section 2 of the Resource Management Act 1991
   - **taonga tūturu** has the meaning given by section 2 of the Protected Objects Act 1975
   - **wāhi tapu** or means a wāhi tapu or wāhi tapu area recognised in relation to 1 or more hapū of ngā hapū o Ngāti Porou—
-    (a) by a Gazette notice published under section 103; or
+    (a) by a notice published under section 103; or
     (b) by a court order made under section 109; or
     (c) under clause 1 of Schedule 1
   - **wildlife** —
@@ -583,7 +583,7 @@ In this subpart,—
   (h) provide for fisheries management committees to propose bylaws for any of the following areas that are covered by a fisheries management plan:
     (i) a customary marine title area:
     (ii) an area of the New Zealand fisheries waters in the relevant area of interest of Ngāti Porou:
-  (i) provide for the Minister of Fisheries to consider and, by notice in the Gazette, make bylaws that are proposed by a fisheries management committee, after the Minister satisfies the relevant requirements in the deed of agreement:
+  (i) provide for the Minister of Fisheries to consider and make bylaws that are proposed by a fisheries management committee, after the Minister satisfies the relevant requirements in the deed of agreement:
   (j) provide for record keeping, document management, and reporting requirements for fisheries management plans, written and oral authorisations, and bylaws to which this subsection applies:
   (k) provide for offences, defences, and penalties:
   (l) provide, in certain situations, for arrangements (as defined in section 51(7)) that are made under the Fisheries (Kaimoana Customary Fishing) Regulations 1998 within the customary fishing area of ngā hapū o Ngāti Porou in respect of ngā hapū o Ngāti Porou to be treated as arrangements under the regulations made under this section:
@@ -595,8 +595,9 @@ In this subpart,—
 (6) Regulations made under this section must be treated for all purposes as having been made under section 186(1) and (2) of the Fisheries Act 1996, and that Act applies accordingly, except that—
   (a) section 186(3)﻿(a) to (c) of that Act applies to bylaws made under the regulations as if—
     (i) it referred to persons (including individuals and bodies corporate), not merely individuals; but
-    (ii) it provided that the bylaws allow a person to take fisheries resources for the purpose of sustaining the functions of a marae in accordance with an authorisation granted for that purpose by a fisheries management committee; and
-  (b) the notice in the Gazette for bylaws made under the regulations is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+    (ii) it provided that the bylaws allow a person to take fisheries resources for the purpose of sustaining the functions of a marae in accordance with an authorisation granted for that purpose by a fisheries management committee.
+  (b)
+(7) For the status under the Legislation Act 2019 of regulations and bylaws under this section, see section 186(4) and (5) of the Fisheries Act 1996 and Schedule 3 of the Legislation Act 2019.
 
 ### 50 Performance of functions and exercise of powers under Fisheries Act 1996
 (1) A person, when performing a function or exercising a power under the Fisheries Act 1996, must recognise and provide for a fisheries management plan if the function to be performed or power to be exercised affects the area within the customary fishing area of ngā hapū o Ngāti Porou to which the plan applies.
@@ -1029,7 +1030,7 @@ A customary marine title hapū may not charge for the exercise of its rights und
 ### 96 Public notice for protected customary activity agreement
 (1) The responsible Minister must give public notice of a protected customary activity agreement as soon as practicable after entering into it.
 (2) The public notice must be given by publishing a notice—
-  (a) in the Gazette; and
+  (a) under the Legislation Act 2019 (see subsection (5)); and
   (b) in a newspaper circulating in the vicinity of the area covered by the agreement; and
   (c) in any other way, if the Minister considers it desirable.
 (3) The notice must—
@@ -1037,7 +1038,7 @@ A customary marine title hapū may not charge for the exercise of its rights und
   (b) name each hapū recognised as a protected customary activity hapū; and
   (c) describe the boundaries of the area where each activity is performed; and
   (d) describe any limitations on the scale, extent, or frequency of each activity; and
-  (e) state that, on and from the date of publication of the notice in the Gazette, each activity described in the notice is a protected customary activity.
+  (e) state that, on and from the date of publication of the notice under the Legislation Act 2019, each activity described in the notice is a protected customary activity.
 (4) The responsible Minister must give a copy of the notice to—
   (a) the protected customary activity hapū; and
   (b) Gisborne District Council; and
@@ -1046,14 +1047,12 @@ A customary marine title hapū may not charge for the exercise of its rights und
   (e) the chief executive of the Ministry of Justice; and
   (f) the chief executive of Land Information New Zealand; and
   (g) the Director-General.
-(5) The notice published in the Gazette—
-  (a) is a disallowable instrument for the purposes of the Legislation Act 2012; and
-  (b) must be presented to the House of Representatives under section 41 of that Act.
+(5) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 97 Effective date for protected customary activity agreement
-A protected customary activity described in a Gazette notice published under section 96—
-  (a) has effect on and from the date of publication of the notice; and
-  (b) ceases to have effect if the Gazette notice is revoked.
+A protected customary activity described in a notice published under section 96—
+  (a) has effect on and from the date of publication of the notice under the Legislation Act 2019; and
+  (b) ceases to have effect if the notice is revoked.
 
 ### 98 Recognition of protected customary activity by court order
 (1) The relevant hapū may apply to the court for a court order that 1 or more hapū of ngā hapū o Ngāti Porou have 1 or more protected customary activities in an area of ngā rohe moana o ngā hapū o Ngāti Porou.
@@ -1122,7 +1121,7 @@ Protected customary activity order
 ### 103 Public notice for wāhi tapu and wāhi tapu areas
 (1) The responsible Minister must give public notice of the recognition of a wāhi tapu or wāhi tapu area as soon as practicable after agreeing to it.
 (2) The public notice must be given by publishing a notice—
-  (a) in the Gazette; and
+  (a) under the Legislation Act 2019 (see subsection (4)); and
   (b) in a newspaper circulating in the vicinity of the wāhi tapu or wāhi tapu area; and
   (c) in any other way, if the Minister considers it desirable.
 (3) The notice must—
@@ -1133,13 +1132,14 @@ Protected customary activity order
     (i) the individuals, or class of individuals, who are exempt when performing certain protected customary activities in relation to the wāhi tapu or wāhi tapu area; and
     (ii) the protected customary activities that the individuals may perform; and
     (iii) any conditions that apply to the performance of the protected customary activities; and
-  (e) state that, on and from the date of publication of the notice in the Gazette,—
+  (e) state that, on and from the date of publication of the notice under the Legislation Act 2019,—
     (i) the wāhi tapu or wāhi tapu area is recognised; and
     (ii) the specified prohibitions or restrictions are imposed, subject to any specified exemptions.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 104 Variation or cancellation of wāhi tapu or wāhi tapu area
 (1) The responsible Minister may, on application, agree the following with the 1 or more hapū of ngā hapū o Ngāti Porou in relation to which a particular wāhi tapu or wāhi tapu area has been recognised under this Act:
-  (a) to vary the recognition of the wāhi tapu or wāhi tapu area in respect of any matter specified in the Gazette notice by which it was recognised, including by adding, removing, or changing any prohibitions, restrictions, or exemptions; or
+  (a) to vary the recognition of the wāhi tapu or wāhi tapu area in respect of any matter specified in the notice by which it was recognised, including by adding, removing, or changing any prohibitions, restrictions, or exemptions; or
   (b) to cancel the recognition of the wāhi tapu or wāhi tapu area.
 (2) An application may be made at any time after the commencement of this Act.
 (3) An application for a variation must—
@@ -1150,30 +1150,29 @@ Protected customary activity order
 ### 105 Public notice for variation or cancellation of wāhi tapu or wāhi tapu area
 (1) The responsible Minister must give public notice of the variation or cancellation of the recognition of a wāhi tapu or wāhi tapu area as soon as practicable after agreeing to it.
 (2) The public notice must be given by publishing a notice—
-  (a) in the Gazette; and
+  (a) under the Legislation Act 2019 (see subsection (4)); and
   (b) in a newspaper circulating in the vicinity of the wāhi tapu or wāhi tapu area; and
   (c) in any other way, if the Minister considers it desirable.
 (3) The notice must,—
   (a) for a variation, specify all of the information required to give effect to the variation, including the reasons for any additional or changed prohibitions or restrictions; and
-  (b) state that, on and from the date of publication of the notice in the Gazette,—
+  (b) state that, on and from the date of publication of the notice under the Legislation Act 2019,—
     (i) the recognition of the wāhi tapu or wāhi tapu area is varied or cancelled, as the case may be; and
     (ii) the specified prohibitions or restrictions are imposed, subject to any specified exemptions.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 106 Effective date of prohibitions, restrictions, and exemptions
-The prohibitions or restrictions specified in a Gazette notice published under section 103 or 105 that recognises or varies a wāhi tapu or wāhi tapu area—
-  (a) have effect, subject to the exemptions specified in the notice, on and from the date of publication of the notice; and
-  (b) cease to have effect if the Gazette notice is revoked or if the wāhi tapu or wāhi tapu area is cancelled by a Gazette notice published under section 105.
+The prohibitions or restrictions specified in a notice published under section 103 or 105 that recognises or varies a wāhi tapu or wāhi tapu area—
+  (a) have effect, subject to the exemptions specified in the notice, on and from the date of publication of the notice under the Legislation Act 2019; and
+  (b) cease to have effect if the notice is revoked or if the wāhi tapu or wāhi tapu area is cancelled by a notice published under section 105.
 
 ### 107 Notice to relevant hapū and Council
-The responsible Minister must, as soon as practicable after a Gazette notice is published under section 103 or 105, provide a copy of the notice to—
+The responsible Minister must, as soon as practicable after a notice is published under section 103 or 105, provide a copy of the notice to—
   (a) the relevant hapū; and
   (b) Gisborne District Council; and
   (c) the chief executive under the Marine and Coastal Area (Takutai Moana) Act 2011.
 
 ### 108 Gazette notice is disallowable instrument
-A Gazette notice published under section 103 or 105—
-  (a) is a disallowable instrument for the purposes of the Legislation Act 2012; and
-  (b) must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### 109 Recognition of wāhi tapu or wāhi tapu area by court order
 (1) The relevant hapū may, in applying to the court for a court order in accordance with section 113, seek to include recognition of a wāhi tapu or a wāhi tapu area in the order as if under section 78 of the Marine and Coastal Area (Takutai Moana) Act 2011.
@@ -1184,8 +1183,8 @@ A Gazette notice published under section 103 or 105—
 
 ### 110 Registration of wāhi tapu or wāhi tapu area
 Crown’s recognition
-(1) The responsible Minister must, when providing a copy of a Gazette notice to the chief executive under section 107(c), include any other information required by the chief executive of Land Information New Zealand for the purposes of registration under subsection (2).
-(2) The details of the wāhi tapu or wāhi tapu area recognised by the Gazette notice must be registered under section 114 of the Marine and Coastal Area (Takutai Moana) Act 2011 as if the wāhi tapu or wāhi tapu area were recognised in an agreement to which that section applied.
+(1) The responsible Minister must, when providing a copy of a notice to the chief executive under section 107(c), include any other information required by the chief executive of Land Information New Zealand for the purposes of registration under subsection (2).
+(2) The details of the wāhi tapu or wāhi tapu area recognised by the notice must be registered under section 114 of the Marine and Coastal Area (Takutai Moana) Act 2011 as if the wāhi tapu or wāhi tapu area were recognised in an agreement to which that section applied.
 Court order for recognition
 (3) See section 115(3) for how a court order (including an order that sets out wāhi tapu conditions) is registered under the Marine and Coastal Area (Takutai Moana) Act 2011.
 
@@ -1214,6 +1213,7 @@ Court order for recognition
   (d) state that, on and from the effective date specified in the order, the hapū are recognised as having customary marine title in the area.
 (3) The Governor-General may make the Order in Council on the recommendation of the responsible Minister.
 (4) To avoid doubt, the Order in Council may do the things recommended under subsection (2) by amending another Order in Council.
+(5) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 113 Recognition of customary marine title by court order
 (1) The relevant hapū may apply to the court for a court order that 1 or more hapū of ngā hapū o Ngāti Porou have customary marine title in an area of ngā rohe moana o ngā hapū o Ngāti Porou.
@@ -1312,6 +1312,7 @@ Section 104(3)﻿(c)﻿(iv) of the Resource Management Act 1991 applies to a wā
 (3) If an Order in Council is to be made under both this section and section 124,—
   (a) a reference in this section to ngā hapū o Ngāti Porou or relevant hapū includes any hapū that is to become ngā hapū o Ngāti Porou by that Order in Council; and
   (b) a reference in this section to ngā rohe moana includes any area that is to become ngā rohe moana by that Order in Council.
+(4) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 124 Changes to ngā hapū o Ngāti Porou and ngā rohe moana
 (1) The Governor-General may, by Order in Council made on the recommendation of the responsible Minister,—
@@ -1327,6 +1328,7 @@ Section 104(3)﻿(c)﻿(iv) of the Resource Management Act 1991 applies to a wā
 (3) If an Order in Council is to be made under both this section and section 123,—
   (a) a reference in this section to a Part of Schedule 2 includes a Part that is to be inserted by that Order in Council, and that Part may be inserted as amended in accordance with this section; and
   (b) a reference in this section to a management arrangement includes an entity or trustees that are to become a management arrangement by that Order in Council.
+(4) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Limitations on effect of this Act**
 
@@ -1371,9 +1373,9 @@ The chief executive of the Ministry of Justice must make copies of the deed of a
 
 ### 129 Certain other agreements to be publicly available
 The chief executive of the Ministry of Justice must make copies of the following publicly available:
-  (a) any protected customary activity agreement in relation to which a Gazette notice has been published under section 96:
+  (a) any protected customary activity agreement in relation to which a notice has been published under section 96:
   (b) any agreement on controls made under section 38 for a protected customary activity:
-  (c) any Gazette notice published under section 103 or 105 in relation to a wāhi tapu or a wāhi tapu area.
+  (c) any notice published under section 103 or 105 in relation to a wāhi tapu or a wāhi tapu area.
 
 ### 130 Making documents publicly available
 If a provision of this Act requires a chief executive of a ministry or department to make a document publicly available, the chief executive must make copies available—
