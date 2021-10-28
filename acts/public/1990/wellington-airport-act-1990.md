@@ -1,5 +1,5 @@
 # Wellington Airport Act 1990
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the incorporation of a company to own and operate Wellington International Airport, for the transfer of airport assets and liabilities of the Crown and the Wellington City Council to that company, and for the payment to the Crown and the Wellington City Council of the existing reserves of the airport
 
@@ -66,6 +66,7 @@ This Act shall bind the Crown.
 ### 6 Expiry of section 5
 (1) Section 5 shall expire with the close of the date appointed for its expiry by the Governor-General by Order in Council.
 (2) Nothing in section 4 shall limit the persons who may subscribe for, hold, acquire, or dispose of any equity securities or debt securities issued by the company on or after the expiry of section 5.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Vesting of airport assets and airport liabilities in company
 (1) The Ministers may, at any time or times, prepare a list or lists specifying the airport assets and airport liabilities which in the opinion of the Ministers should be vested in the company in accordance with this Act.
@@ -91,7 +92,7 @@ This Act shall bind the Crown.
 (8) Nothing in subsections (1)﻿(b) and (2) of section 60 of the Companies Act 1955 shall apply in respect of equity securities issued pursuant to subsection (5).
 (9) Assets that are fixed to, or are under or over, any land may vest in the company under this Act notwithstanding that no interest in the land also vests in the company under this Act and in any such case the asset and the land shall be regarded as separate assets each capable of separate ownership.
 (10) Land to which any assets are fixed, and land under or over which are any assets, may vest in the company under this Act notwithstanding that no interest in the assets also vests in the company under this Act and in any such case the asset and the land shall be regarded as separate assets each capable of separate ownership.
-(11) An Order in Council made under subsection (3) is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(11)
 
 ### 8 Additional provisions relating to vesting of airport assets and airport liabilities in company
 (1) Nothing effected or authorised by this Act—
