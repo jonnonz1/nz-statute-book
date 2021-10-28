@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2021-08-11_
+_Consolidation as at 2021-10-28_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -2660,6 +2660,7 @@ The following information must be published on an Internet site maintained by or
   (h) the transfers of proceedings from the Tribunal to the District Court:
   (i) the filing of orders of the Tribunal in the District Court for enforcement:
   (j) the searching of the records of the Tribunal.
+(3) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Appeals**
 
@@ -3110,6 +3111,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (b) requirements about the inspection, maintenance, or replacement of smoke alarms that are installed at premises:
   (c) requirements about the numbers, locations, condition, types, or technical specifications of smoke alarms that are installed at premises and requirements about methods of installation.
 (4) However, the requirements that may be imposed on tenants by regulations under this section are limited to requirements in respect of the replacement of worn-out batteries contained in smoke alarms.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 138B Healthy homes standards
 (1) The Governor-General may, by Order in Council, make regulations that provide for, in accordance with this section, standards (the healthy homes standards) with which landlords must comply for the purposes of section 45(1)﻿(bb) or 66I(1)﻿(bb).
@@ -3138,6 +3140,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (a) make different provisions for different descriptions of landlords, premises, areas in New Zealand, or other circumstances:
   (b) make provisions applying to all landlords or provisions that apply only to particular descriptions of landlords, premises, areas in New Zealand, or other circumstances.
 (7) In this section, premises, in relation to a tenancy that is not a boarding house tenancy, includes facilities.
+(8) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 138C Regulations in respect of contaminants and contaminated premises
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing substances, or classes of substances, as contaminants for the purposes of this Act.
@@ -3167,6 +3170,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
     (ii) with modifications, additions, or variations specified in the regulations; and
   (b) without limiting the generality of the above, permit the landlord to decontaminate abandoned goods and deduct from the proceeds of sale the costs of decontaminating the goods that were reasonably incurred by the landlord.
 (9) In this section, premises includes facilities.
+(10) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 138D Powers to make regulations under sections 138A to 138C not limited by other enactments, etc
 (1) To avoid doubt, nothing in the Building Act 2004, or in any other enactment relating to buildings, health, or safety, limits the provision that may be made by regulations under section 138A, 138B, or 138C.
@@ -3178,6 +3182,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (b) persons, or classes of persons, whose declarations are qualifying evidence for the purposes of section 55AA(6):
   (c) types of qualifying evidence for the purposes of section 55AA(6).
 (2) The Minister must consult the Minister of Justice before recommending the making of regulations under this section.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 138F Regulations relating to withdrawal from tenancy following family violence
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing all or any of the following matters:
@@ -3197,9 +3202,10 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (b) the reduction will be the same or substantially the same as, or greater than, the reduction that would otherwise have applied under section 56B(3)﻿(d) and (5).
 (5) Regulations under this section may make different provision for different classes of persons, premises, or tenancies.
 (6) In this section, PACHMA tenancy has the meaning given to it by section 56B(8).
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 139 Regulations relating to accommodation brokers
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) providing for the registering, licensing, or approval of accommodation brokers, including the qualifications required of, and the conditions to be met by, persons intending to set up business as accommodation brokers, and for the disciplining of accommodation brokers who are so registered, licensed, or approved:
   (b) requiring persons carrying on or intending to carry on business as accommodation brokers to provide bonds to secure the proper conduct of their businesses:
   (c) conferring on the Tribunal jurisdiction in respect of all or any of the matters referred to in paragraphs (a) and (b):
@@ -3207,6 +3213,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (e) conferring on the chief executive in respect of any disputes and proceedings arising under the regulations all or any of the powers conferred on the chief executive by section 124 in respect of proceedings under this Act:
   (f) prescribing fees payable in respect of any matters under any regulations made under this section:
   (g) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this section, and the amounts of fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $5,000, and, where the offence is a continuing one, a further amount not exceeding $500 for every day or part of a day during which the offence has continued.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 139A Regulations relating to infringement offences
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
@@ -3214,6 +3221,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (b) specifying offences in regulations made under this Act that are infringement offences, and prescribing infringement fees not exceeding $500 for those offences.
 (2) Before making a recommendation for the purposes of subsection (1), the Minister must consult the Minister of Justice in relation to the proposed regulations.
 (3) Regulations under this section that prescribe infringement fees may prescribe different infringement fees to apply in respect of different classes of persons.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 140 Regulations relating to other matters
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
@@ -3230,6 +3238,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (a) the fact that a bond of not less than a prescribed number of weeks' rent has been paid in accordance with section 19 or section 21, as the case may be:
   (b) the fact that an address for service has been notified under section 15 or section 16, as the case may be.
 (3) Nothing in subsection (2)﻿(a) limits or affects section 18(1).
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 141 Schedule 1 may be amended by Order in Council
 [Repealed]
@@ -3561,8 +3570,8 @@ This schedule applies—
 (3) The period may be extended under this clause only once.
 (4) The Minister must not recommend the making of an order under subclause (2) unless the Minister is satisfied that it is necessary or desirable to support measures taken to contain or mitigate the outbreak of COVID-19 or its effects.
 (5) The Minister’s reasons for making the recommendation (including why the order is necessary or desirable) must be published together with the order.
-(6) An order made under this clause must be notified in the Gazette at least 7 days before the conclusion of the initial period.
-(7) The order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(6) An order made under this clause must be published under the Legislation Act 2019 at least 7 days before the conclusion of the initial period.
+(7) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4 Restrictions on termination of tenancy
 (1) No tenancy terminates, and every fixed-term tenancy that expires continues under section 60A(1) as a periodic tenancy, unless—
