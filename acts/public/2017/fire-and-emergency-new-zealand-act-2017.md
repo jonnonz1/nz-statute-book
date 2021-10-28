@@ -1,5 +1,5 @@
 # Fire and Emergency New Zealand Act 2017
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Fire and Emergency New Zealand Act 2017.
@@ -22,6 +22,7 @@ This Act is the Fire and Emergency New Zealand Act 2017.
 (5) Sections 80 to 140 (which relate to levies) come into force on a date, not earlier than 1 July 2018, appointed by the Governor-General by Order in Council.
 (6) If sections 80 to 140 are not previously brought into force under subsection (5), those sections come into force on 1 July 2024.
 (7) The rest of this Act comes into force on 1 July 2017.
+(8) An order under subsection (2) or (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Fire and Emergency New Zealand
 
@@ -171,15 +172,15 @@ In this Act, unless the context otherwise requires,—
     (c) on an Internet site; or
     (d) by any other means prescribed by regulations under section 187
   - **relevant fire safety legislation** means—
-    (a) this Act, and regulations made under this Act, and any former enactments replaced by this Act or those regulations:
-    (b) any provisions of the following Acts (or regulations made under those Acts) under which FENZ has functions:
+    (a) this Act, and secondary legislation made under this Act, and any former enactments replaced by this Act or that secondary legislation:
+    (b) any provisions of the following Acts (or secondary legislation made under those Acts) under which FENZ has functions:
       (i) Building Act 2004:
       (ii) Local Government Act 2002:
       (iii) Local Government Act 1974:
       (iv) Hazardous Substances and New Organisms Act 1996:
       (v) Radiation Safety Act 2016:
       (vi) Sale and Supply of Alcohol Act 2012:
-      (vii) any former enactments replaced by any of the Acts referred to in paragraph (a) and subparagraphs (i) to (vi) of this paragraph or regulations made under those former enactments
+      (vii) any former enactments replaced by any of the Acts referred to in paragraph (a) and subparagraphs (i) to (vi) of this paragraph or secondary legislation made under those former enactments
   - **rendering safe** has the meaning given in section 7, and has a corresponding meaning
   - **spontaneously combustible material** —
     (a) includes—
@@ -1573,6 +1574,7 @@ Interest payable to FENZ under this subpart is payable immediately and without t
   (b) the likely effect of the exemption or waiver on the cost-effectiveness and efficiency of the administration of the levy and this Part.
 (4A) Regulations prescribing a rate of levy under subsection (2) or (3)﻿(a) or prescribing a maximum amount of levy under subsection (3)﻿(b) must not come into force earlier than 4 months after the date on which they are published.
 (5) If the Minister recommends the making of regulations under subsection (3)﻿(e) or (f), the Minister’s reasons must be published together with the regulations.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 142 Procedure for levy regulations
 (1) The Minister must, in at least every third financial year, estimate the amount of FENZ’s net costs for an upcoming period specified by the Minister (the period).
@@ -2000,15 +2002,15 @@ The development of the dispute resolution scheme must be guided by, and the disp
 (1) FENZ must, before applying for the approval of the dispute resolution scheme, consult the persons or representatives of the persons that are likely to be substantially affected by the approval of the scheme.
 (2) A failure to comply with subsection (1) does not affect the validity of the dispute resolution scheme.
 
-### 182 Approval and publication of dispute resolution scheme
+### 182 Approval and rules of dispute resolution scheme
 (1) After developing a dispute resolution scheme in accordance with this subpart, FENZ must apply to the Minister for approval of the scheme.
 (2) Before approving a dispute resolution scheme, the Minister must be reasonably satisfied that—
   (a) FENZ has developed the scheme in accordance with this subpart; and
   (b) the scheme is consistent with the principles set out in section 179.
-(3) The dispute resolution scheme comes into effect on the Minister’s approval being notified in the Gazette.
-(4) FENZ must publish a copy of the rules of the approved dispute resolution scheme on an Internet site maintained by, or on behalf of, FENZ.
-(5) The rules of the approved dispute resolution scheme are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(6) The Minister may approve a variation to the rules of the approved dispute resolution scheme or the revocation and replacement of those rules (and sections 178 to 181 and subsections (1) to (5) apply with all necessary modifications to a variation or replacement).
+(3) FENZ may make the rules of the scheme only after the Minister has approved the scheme.
+(4) The dispute resolution scheme comes into effect on the day after the rules are published (see subsection (6)).
+(5) FENZ may not amend the rules, or revoke and replace them, unless the Minister has approved the amendment or revocation and replacement, in which case subsection (2) applies with all necessary modifications.
+(6) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 183 Participation is voluntary
 (1) No person is required to participate in the resolution of a dispute using the dispute resolution scheme.
@@ -2064,9 +2066,10 @@ The development of the dispute resolution scheme must be guided by, and the disp
 (2) Regulations made under this Act may apply—
   (a) generally throughout New Zealand or in particular areas of New Zealand only; and
   (b) generally over a range of circumstances or in particular circumstances only.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 188 Regulations relating to operating processes for local advisory committees
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for specifying requirements on, and operating processes for, local advisory committees, including 1 or more of the following:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for specifying requirements on, and operating processes for, local advisory committees, including 1 or more of the following:
   (a) notification of meetings:
   (b) notification of membership and changes in membership:
   (c) nomination and appointment of members:
@@ -2074,11 +2077,13 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (e) development of specified policies:
   (f) processes for recording disagreements between members:
   (g) performance management of committees or individual members.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 189 Regulations relating to fire plans
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations relating to fire plans, including—
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations relating to fire plans, including—
   (a) prescribing the content of fire plans; and
   (b) prescribing the consultation that FENZ must undertake in relation to the content of fire plans.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 190 Regulations relating to permits for fires in open air
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations relating to the grant of permits by FENZ to allow for the lighting of fires in open air that would otherwise be prohibited under Part 2.
@@ -2099,6 +2104,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 (8) The grant of a permit under regulations made under this section does not—
   (a) relieve the permit holder from liability for any actionable damage sustained by any other person as a consequence of any act, matter, or thing done by the permit holder under the permit; or
   (b) impose on FENZ any liability because of the grant of the permit.
+(9) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 191 Regulations relating to fire safety and evacuation procedures in relation to buildings
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations relating to 1 or more matters specified in subsection (2).
@@ -2114,6 +2120,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 (4) A person who commits an offence under subsection (3) is liable on conviction,—
   (a) in the case of an individual, to a term of imprisonment not exceeding 6 months or to a fine not exceeding $75,000, or both; or
   (b) in any other case, to a fine not exceeding $150,000.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 192 Regulations relating to evacuation schemes for relevant building
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
@@ -2129,6 +2136,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (c) prescribing, for the purposes of section 76, the minimum standards required for automatic sprinkler systems:
   (d) prescribing, for the purposes of section 78, the process that FENZ must follow for revoking, or requiring the variation of, an approved evacuation scheme.
 (2) In this section, relevant building has the meaning given in section 75.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 7 — General provisions
 
@@ -2403,6 +2411,7 @@ Transfer or use arrangements for response assets entered into in accordance with
     (i) the transfer of response assets to FENZ; or
     (ii) the use of response assets by FENZ; and
   (b) for the orderly implementation of this Act.
+(3) Regulations under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 22 Regulations for enabling FENZ
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
@@ -2412,6 +2421,7 @@ Transfer or use arrangements for response assets entered into in accordance with
 (2) The Minister must not recommend the making of regulations under this clause unless the Minister is satisfied that the regulations—
   (a) are necessary or desirable to enable FENZ to access, accept, or decline responsibilities for liabilities and obligations that relate to the provision of fire and other emergency services; and
   (b) are necessary or desirable for the orderly implementation of this Act.
+(3) Regulations under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 #### Subpart 3 — Levy for transitional period
 
@@ -2494,6 +2504,7 @@ Despite clause 25, a levy is not payable for property that is insured—
   (g) provide for any other matter that could have been provided for in relation to the levy under the Fire Service Act 1975 immediately before the repeal of that Act by section 195(a).
 (3) If the period of the contract referred to in subclause (1)﻿(b)﻿(ii) is any period other than a complete year, the levy must be calculated as a pro rata proportion of the levy for a complete year.
 (4) Information specified in regulations made under subclause (2)﻿(f) must be provided in a form specified by FENZ for the purpose (or in any other manner approved by FENZ).
+(5) Regulations under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 28 Amounts for which residential buildings and personal property are insured
 (1) For the purposes of this subpart, the amount for which a residential property is insured for a contract of fire insurance is the amount for which that building is insured as determined in accordance with section 18 of the Earthquake Commission Act 1993, subject to the following modifications:
@@ -2618,6 +2629,7 @@ In clauses 42 to 44, words or expressions have the meanings given in Part 3 of t
   (a) the maximum amount of levy or maximum proportion of levy that may be the subject of an exemption by agreement:
   (b) any matters to which FENZ must have regard in considering whether to agree to an exemption.
 (7) In this clause, transitional period has the meaning given in clause 24(1).
+(8) Regulations under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 43 Minister’s recommendation under clause 42
 (1) The Minister may recommend the making of regulations under clause 42 only if the Minister is satisfied that the regulations are necessary or desirable to ensure that the specified policyholders are not subject to an unreasonable burden because of any increase in the amount of levy payable by the policyholders as a consequence of the commencement of Part 3 (and the calculation of the levy amount on the amount insured or the declared value of property rather than on the basis set out in section 48 of the Fire Service Act 1975).
