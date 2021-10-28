@@ -1,5 +1,5 @@
 # Volunteers Employment Protection Act 1973
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision for the protection of the employment of volunteers to Her Majesty's Armed Forces
 
@@ -480,10 +480,11 @@ Nothing in this Act limits the procedures by which State employees may enforce t
 ## Part 7 — Miscellaneous provisions
 
 ### 14ZW Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing forms for the purposes of this Act:
   (b) prescribing procedures and practices for the implementation of this Act:
   (c) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 14ZX Compensation for employers
 (1) Regulations made under section 14ZW may provide for payments, by way of compensation, to be made to employers whose employees, being employees to whom Part 3 applies, are granted leave under that Part.
