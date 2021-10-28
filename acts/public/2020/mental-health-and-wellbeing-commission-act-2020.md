@@ -1,5 +1,5 @@
 # Mental Health and Wellbeing Commission Act 2020
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Mental Health and Wellbeing Commission Act 2020.
@@ -7,6 +7,7 @@ This Act is the Mental Health and Wellbeing Commission Act 2020.
 ### 2 Commencement
 (1) This Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
 (2) Any provision that is not earlier brought into force under subsection (1) comes into force on 9 February 2021.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
