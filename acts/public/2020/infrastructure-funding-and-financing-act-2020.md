@@ -1,5 +1,5 @@
 # Infrastructure Funding and Financing Act 2020
-_Consolidation as at 2021-07-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Infrastructure Funding and Financing Act 2020.
@@ -388,7 +388,8 @@ A proposed responsible infrastructure authority or proposed responsible levy aut
 ### Subpart 2 — Levy order
 
 ### 29 Order in Council
-The Governor-General may, by Order in Council made on the recommendation of the responsible Minister, authorise the use of a levy for the purpose of funding eligible costs relating to eligible infrastructure.
+(1) The Governor-General may, by Order in Council made on the recommendation of the responsible Minister, authorise the use of a levy for the purpose of funding eligible costs relating to eligible infrastructure.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 30 Monitor publishes recommender’s report
 If a levy order is made, the monitor must publish the recommender’s report received by the responsible Minister under section 26.
@@ -525,7 +526,7 @@ If the monitor is satisfied that the proposed annual levy resolution is in accor
 ### 45 Responsible SPV sets annual levy
 (1) On being notified of the monitor’s confirmation of a proposed annual levy resolution, the responsible SPV must, by written resolution, set the annual levy for the coming levy year in accordance with that confirmation.
 (2) The responsible SPV must, no later than 10 working days after the day on which the resolution is made, send a copy of the resolution to the monitor and the responsible levy authority.
-(3) A resolution under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and is not required to be presented to the House of Representatives under section 41 of that Act.
+(3)
 
 ### 46 Monitor publishes resolution
 The monitor must publish a resolution no later than the day that is 5 working days after receiving it under section 45(2).
@@ -552,7 +553,7 @@ If the monitor is not satisfied that the proposed annual levy resolution complie
 (1) On receiving a direction under section 49, the responsible SPV must,—
   (a) by written resolution, set the annual levy for the coming levy year in accordance with that direction; and
   (b) comply with section 45(2) in relation to that resolution.
-(2) A resolution under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and is not required to be presented to the House of Representatives under section 41 of that Act.
+(2)
 
 **Correcting annual levy**
 
@@ -1104,7 +1105,8 @@ An SPV must ensure that, within 4 months after the end of each levy year, financ
 ### Subpart 1 — Role of monitor
 
 ### 118 Appointment of monitor
-The Governor-General may, by Order in Council made on the recommendation of the responsible Minister, appoint a government agency as monitor for the purposes of this Act.
+(1) The Governor-General may, by Order in Council made on the recommendation of the responsible Minister, appoint a government agency as monitor for the purposes of this Act.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 119 Functions, duties, and powers
 (1) The monitor’s functions are to—
@@ -1393,7 +1395,8 @@ In sections 147, 148, and 150, a person is involved in a contravention if the pe
 **Recommender**
 
 ### 155 Appointment of recommender
-The Governor-General may, by Order in Council made on the recommendation of the responsible Minister, appoint a government agency as recommender for the purposes of this Act.
+(1) The Governor-General may, by Order in Council made on the recommendation of the responsible Minister, appoint a government agency as recommender for the purposes of this Act.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 156 Function of recommender
 The recommender’s function is to perform the role and duties and exercise the powers conferred and imposed on the recommender under subpart 1 of Part 2 to support the responsible Minister’s consideration of a levy proposal.
