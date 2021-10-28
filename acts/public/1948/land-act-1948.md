@@ -1,5 +1,5 @@
 # Land Act 1948
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to the lands of the Crown in New Zealand
 
@@ -152,6 +152,7 @@ Nothing in the foregoing provisions of this Act relating to appeals shall author
   (d) abolish any land district; or
   (e) change the name of any land district; or
   (f) appoint any place, either within or without a particular land district, to be the principal land office of that district.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 23 Islands
 (1) Unless and until otherwise determined by the Governor-General pursuant to the last preceding section, the Kermadec Group of islands shall be deemed to be included within the North Auckland Land District, the Chatham Islands within the Wellington Land District, and Solander Island and Ruapuke Island, in Foveaux Strait, the Snares Islets, the Auckland Islands, Enderby Islands, Campbell Island, the Antipodes Islands, the Bounty Islands, and all other islands or islets within the limits of New Zealand which lie south of the 47th parallel of south latitude within the Southland Land District.
@@ -362,6 +363,7 @@ In exercise of the powers conferred by subsection (1) of section 44, the Board w
   - **water area** means any land declared as such under subsection (6) of section 50
   - **waterworks** has the same meaning as in section 50.
 (8) The provisions of this section (as in force before the commencement of the Company Law Reform (Transitional Provisions) Act 1994) shall continue to apply in relation to every association constituted before the commencement of that Act.
+(9) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 50B Share capital of associations
 (1) Subject to the constitution of the association, the association shall issue shares in such numbers and classes as the Board may determine having regard to the value of and benefit to the water area of the community water scheme.
@@ -736,7 +738,7 @@ Where, pursuant to any authority conferred by this Act or any other enactment, a
   (b) the beneficiaries of the trust concerned, or some of them, are not of full age, and it is probable that they will farm the land concerned on reaching full age.
 (4) Where any lessee or licensee has transferred all his interest in his lease or licence by a legal transfer with the consent of the Board, the person to whom the lease or licence has been so transferred shall have all the rights and privileges of and be subject to the same obligations as the original lessee or licensee, and the former lessee or licensee shall thereupon cease to be liable for any subsequent breach of any covenant, condition, or obligation (expressed or implied) in the lease or licence.
 (4A) Where any lessee or licensee has agreed by an agreement for sale and purchase consented to by the Board to transfer at a future date his interest in his lease or licence, then, so long as the agreement for sale and purchase continues in force, both the lessee or licensee and the person to whom he has agreed to transfer his interest shall jointly have all the rights and privileges of the lessee or licensee under the lease or licence, and shall be jointly and severally liable to the Crown for the observance and performance of all the covenants, conditions, and obligations in the lease or licence:provided that so long as the agreement continues in force the condition as to residence (expressed or implied) in the lease or licence shall be deemed to be complied with if performed by the purchaser under the agreement for sale and purchase.
-(5) With every application for consent to transfer, sublease, or otherwise dispose of an interest there shall be paid such fee as may be prescribed.
+(5) With every application for consent to transfer, sublease, or otherwise dispose of an interest there shall be paid such fee as may be prescribed (see section 184A).
 
 ### 90 Transfers by executors and administrators
 On the death of the owner of any lease or licence his executors or administrators shall have power to assign the lease or licence to any qualified person approved by the Board, but the consent of the Board shall not be necessary for any such assignment if made to a person entitled thereto as a trustee or beneficiary under the will or claiming under an intestacy.
@@ -1418,6 +1420,7 @@ Any notice required to be given to or served on any person for the purposes of t
   (q) prescribing tables for payment of purchase money and interest where land is purchased on a system of deferred payments or where improvements belonging to the Crown are purchased by instalments:
   (r) for guarding against evasions and violations of this Act.
 (2A) Regulations made under this section may prescribe fines, not exceeding $200, for offences against the regulations.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (3)
 
 ### 184A Regulations for fees
@@ -1431,6 +1434,9 @@ Any notice required to be given to or served on any person for the purposes of t
 (3) The Survey (Departmental Fees and Charges) Regulations 1998, to the extent applicable,—
   (a) continue in force as if they had been made under subsection (1); and
   (b) may be amended or revoked as if they had been made under subsection (1).
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under this section:
+  (b) an amendment or a revocation under subsection (3)﻿(b).
 
 ### 185 Repeals and savings
 (1) The enactments specified in Schedule 1 are hereby repealed.
