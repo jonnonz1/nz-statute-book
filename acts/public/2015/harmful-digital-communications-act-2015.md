@@ -1,5 +1,5 @@
 # Harmful Digital Communications Act 2015
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Harmful Digital Communications Act 2015.
@@ -10,6 +10,7 @@ This Act is the Harmful Digital Communications Act 2015.
   (a) a date appointed by the Governor-General by Order in Council; and
   (b) 2 years after the date on which this Act receives the Royal assent.
 (3) One or more Orders in Council may be made under subsection (2) appointing different dates for different provisions.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Approved Agency and enforcement
 
@@ -102,6 +103,7 @@ A digital communication should not denigrate an individual by reason of his or h
 (3) The Approved Agency holds office for the term specified in the order made under subsection (1).
 (4) A person is not to be regarded as being employed in the service of the Crown for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 solely because of his or her appointment as the Approved Agency.
 (5) The Approved Agency is subject to the Ombudsmen Act 1975, the Official Information Act 1982, and the Public Records Act 2005 in respect of functions that the Agency or any delegate of the Agency performs under this Act.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 8 Functions and powers of Approved Agency
 (1) The functions of the Approved Agency are—
@@ -326,9 +328,10 @@ A digital communication should not denigrate an individual by reason of his or h
 **Regulations and rules**
 
 ### 26 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the practice and procedure for the conduct of matters under this Act before the Approved Agency:
   (b) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 27 Rules
 (1) The power to make rules of court under section 148 of the Senior Courts Act 2016 and section 228 of the District Court Act 2016 includes the power to make rules regulating the practice and procedure of courts in the exercise of jurisdiction conferred by this Act.
