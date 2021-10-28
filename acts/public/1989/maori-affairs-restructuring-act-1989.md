@@ -1,5 +1,5 @@
 # Maori Affairs Restructuring Act 1989
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the restructuring of the Department of Maori Affairs to form the Iwi Transition Agency, to abolish the Board of Maori Affairs and transfer its programmes to the General Manager of the Iwi Transition Agency, and to transfer the administration of the Maori Land Courts to the Department of Justice
 
@@ -99,8 +99,8 @@ While any land that is for the time being subject to this Part is not in the occ
 
 ### 20 Crown land may be made subject to this Part
 (1) With the consent of the Minister of Lands, granted upon such terms and conditions as that Minister thinks fit, the chief executive may declare any Crown land within the meaning of the Land Act 1948 to be subject to this Part.
-(2) Where pursuant to this section any Crown land has been declared to be subject to this Part, the Registrar-General of Land shall, at the request of the chief executive, issue in the name of Her Majesty a certificate of title for an estate in fee simple in the land.
-(3) Notwithstanding any Act or rule of law to the contrary, the fee simple estate in the land shall not be merged in any other interest possessed by Her Majesty, but shall enure as a separate estate available for the purposes of this Part.
+(2) Where pursuant to this section any Crown land has been declared to be subject to this Part, the Registrar-General of Land shall, at the request of the chief executive, issue in the name of the Sovereign a certificate of title for an estate in fee simple in the land.
+(3) Notwithstanding any Act or rule of law to the contrary, the fee simple estate in the land shall not be merged in any other interest possessed by the Sovereign, but shall enure as a separate estate available for the purposes of this Part.
 
 ### 21 Land subject to this Part may be excluded from Part
 The chief executive may at any time by notice in the Gazette declare that any land that is for the time being subject to this Part shall cease to be subject to it, and every such notice shall have effect according to its tenor.
@@ -248,7 +248,7 @@ Notwithstanding anything in the foregoing provisions of this Part or in any leas
 (2) The compensation payable to any such lessee shall, when it becomes due and payable, be paid by the Māori Trustee out of money invested for the purpose in accordance with this section.
 (3) If the money available for the payment of compensation exceeds the amount payable as compensation to the lessee, the Māori Trustee shall, in accordance with the directions of the chief executive, pay the surplus to the persons entitled to it.
 (4) If the money available is insufficient to pay the lessee the full amount of the compensation to which the lessee is entitled, the deficiency shall be paid as an advance out of public money appropriated by Parliament or money otherwise available for the purposes of this Part, and the land in respect of which any such advance is made shall be charged with the payment of the amount so advanced, together with interest at a rate to be fixed by the Minister of Finance. Where the land so charged is comprised in 2 or more separate titles, the court, on the application of the chief executive, shall apportion the charge between the lands comprised in the several titles or may exclude from the charge the area or areas comprised in any of those titles.
-(5) In respect of any charge imposed under this section, the chief executive may execute a memorial of charge against the land affected, and any such memorial of charge may be registered against the title to the land by the Registrar-General of Land or the Registrar of Deeds, as the case may be; and when so registered the memorial of charge shall have the same force and effect as if it were a valid mortgage to Her Majesty of all the land described in it to secure the repayment of the principal money and the payment of interest; and the power of sale and all other powers implied by the Property Law Act 2007 in mortgages over land shall be implied in the memorial.
+(5) In respect of any charge imposed under this section, the chief executive may execute a memorial of charge against the land affected, and any such memorial of charge may be registered against the title to the land by the Registrar-General of Land or the Registrar of Deeds, as the case may be; and when so registered the memorial of charge shall have the same force and effect as if it were a valid mortgage to the Sovereign of all the land described in it to secure the repayment of the principal money and the payment of interest; and the power of sale and all other powers implied by the Property Law Act 2007 in mortgages over land shall be implied in the memorial.
 (6) The principal money secured under any such memorial of charge shall be due upon a date to be specified in it in that behalf. Interest at the rate fixed in accordance with subsection (4) shall be payable on the dates to be specified in the memorial.
 
 ### 44 Compensation for improvements to lessees of Crown land
@@ -258,7 +258,7 @@ Notwithstanding anything in the foregoing provisions of this Part or in any leas
 (4) Where the chief executive is unable to dispose of the land in accordance with the provisions of subsection (3), and the outgoing lessee is not willing to agree to the terms offered by any prospective lessee, the chief executive shall, if the lease so provides, proceed to offer a lease of the land by public tender in accordance with this Part.
 (5) If the expired lease does not stipulate for disposal by public tender of the land comprised in the lease, the chief executive may dispose of it by public tender or otherwise in accordance with this Part.
 (6) All money received by the chief executive from a lessee in respect of improvements, not exceeding in any case the value of those improvements as assessed by the special valuation made by the registered valuer, shall be paid by the chief executive to the outgoing lessee or other person entitled to it in satisfaction of the lessee's claim for compensation.
-(7) No person shall have any right of action against Her Majesty or any other person in respect of any delay on the part of the chief executive in disposing of the land comprised in an expired lease, or for failure or delay in collecting from an incoming tenant the value of any improvements, or for its failure to dispose of the land comprised in a lease to the best advantage of an outgoing lessee.
+(7) No person shall have any right of action against the Sovereign or any other person in respect of any delay on the part of the chief executive in disposing of the land comprised in an expired lease, or for failure or delay in collecting from an incoming tenant the value of any improvements, or for its failure to dispose of the land comprised in a lease to the best advantage of an outgoing lessee.
 
 ### 45 Payment of value of improvements to lessee with perpetual right of renewal
 (1) The provisions of section 44 shall, as far as applicable and with any necessary modifications, apply in any case where a lessee of Crown land, having a perpetual right of renewal under this Part, elects not to accept a renewal of the lease.
@@ -318,9 +318,9 @@ The rent received in respect of any Crown land that is subject to this Part shal
 ### 56 Enforcement of charges
 (1) Any such charge in respect of which a charging order has been made may, on application by the chief executive, be enforced by the court either—
   (a) by the appointment of a receiver in respect of the land or interest in land; or
-  (b) by the making of an order vesting in Her Majesty either the whole or such part of the land or interest in land as will, in the opinion of the court, be sufficient to satisfy the charge.
-(2) Upon the making of an order under paragraph (b) of subsection (1), the land or interest in land affected by the order shall be deemed to be vested in Her Majesty, subject to any estate or interest having priority to the charge, and the charge shall be deemed to be extinguished.
-(3) Any land that is so vested in Her Majesty may be proclaimed Crown land in the same manner as if it were land acquired by the Crown pursuant to Part 21 of the Maori Affairs Act 1953 and may be administered and dealt with accordingly.
+  (b) by the making of an order vesting in the Sovereign either the whole or such part of the land or interest in land as will, in the opinion of the court, be sufficient to satisfy the charge.
+(2) Upon the making of an order under paragraph (b) of subsection (1), the land or interest in land affected by the order shall be deemed to be vested in the Sovereign, subject to any estate or interest having priority to the charge, and the charge shall be deemed to be extinguished.
+(3) Any land that is so vested in the Sovereign may be proclaimed Crown land in the same manner as if it were land acquired by the Crown pursuant to Part 21 of the Maori Affairs Act 1953 and may be administered and dealt with accordingly.
 
 **Advances to lessees**
 
@@ -337,7 +337,7 @@ The rent received in respect of any Crown land that is subject to this Part shal
 
 ### 58 Security to be given by lessee in respect of expenditure of chief executive or of advances
 (1) In addition to the security by way of charge imposed by or pursuant to the foregoing provisions of this Part, the chief executive may require the lessee of any land that is subject to this Part to give, in respect of any money advanced to the lessee or in respect of any money expended by the chief executive (whether before or after the grant of the lease), such mortgages, assignments, orders, or other securities as the chief executive thinks fit over the lessee's interest in the land or over the stock, chattels, machinery, and implements from time to time on the land, or over the produce of the land or stock, or the money derived from farming operations or otherwise in respect of the land, or over any other real or personal property of the lessee.
-(2) Subject to any regulations made for the purposes of this Part, any mortgage, assignment, order, or other security given under this section may be taken in the name of Her Majesty or in the name of the chief executive, and shall be in such form and shall contain such terms and provisions as the chief executive thinks fit.
+(2) Subject to any regulations made for the purposes of this Part, any mortgage, assignment, order, or other security given under this section may be taken in the name of the Sovereign or in the name of the chief executive, and shall be in such form and shall contain such terms and provisions as the chief executive thinks fit.
 (3) Subject to any regulations made for the purposes of this Part, any mortgage, assignment, order, or other security under this section may, whether or not the money secured thereby has been repaid, be at any time wholly or partly discharged or cancelled by direction of the chief executive, but not otherwise.
 (4) The remedies of the chief executive against a lessee, by virtue of any security given under this section, shall be exhausted before the chief executive proceeds to enforce any charge on the land imposed by the foregoing provisions of this Part in respect of the liabilities of the lessee.
 
@@ -357,7 +357,7 @@ Without prejudice to any provision of this Part, the chief executive may from ti
 ### 62 Chief executive may acquire land or rights over land
 (1) For any of the purposes of this Part, the chief executive may purchase or otherwise acquire on behalf of the Crown any land or interest in land or the right to cut and remove trees or timber or to take any other substance from any land.
 (2) The chief executive may sell, lease, or otherwise dispose of any land, interest, or right acquired under this section, and may from time to time sell or otherwise dispose of any trees, timber, or other substance cut, removed, or taken pursuant to any right so acquired.
-(3) Where any land or interest in land has been acquired by the chief executive pursuant to this section, the estate or interest in the land so acquired shall not merge or be deemed to have merged in any other interest possessed by Her Majesty in that land, notwithstanding anything to the contrary in any other Act or in any rule of law, but shall enure as a separate estate or interest.
+(3) Where any land or interest in land has been acquired by the chief executive pursuant to this section, the estate or interest in the land so acquired shall not merge or be deemed to have merged in any other interest possessed by the Sovereign in that land, notwithstanding anything to the contrary in any other Act or in any rule of law, but shall enure as a separate estate or interest.
 (4) On the production of a certificate given by or on behalf of the chief executive that any land or interest in land has been acquired by the chief executive pursuant to this section, the Registrar-General of Land must record on the record of title a memorial that the land has been acquired pursuant to this Part, and may, on production of a further certificate, cancel the memorial as to the whole or any part of that land or interest.
 
 ### 63 Acquisition of land by chief executive for owners of scheme
@@ -439,7 +439,7 @@ Where in the opinion of the chief executive it would be advisable to use any lan
 (4) There shall from time to time, as the Minister of Finance may determine, be paid into a Crown Bank Account out of money available for the purposes of this Part such sums as may be required to reimburse that Account for money expended pursuant to this section, with interest at a rate to be fixed by that Minister.
 
 ### 77 Validity of contracts made by chief executive
-All contracts and decisions made by the chief executive in respect of any land that is subject to this Part shall be as effective as if the land were vested in Her Majesty.
+All contracts and decisions made by the chief executive in respect of any land that is subject to this Part shall be as effective as if the land were vested in the Sovereign.
 
 ### 78 Accounting provisions
 (1) All money expended or advanced by the chief executive pursuant to or for the purposes of this Part shall be paid out of public money appropriated by Parliament for the purposes of this Part.
@@ -496,7 +496,7 @@ Nothing in this Part shall prevent the chief executive from receiving, from the 
 [Repealed]
 
 ### 86A Provisional registration of mortgages to Crown or State Loan Department
-(1) This section shall apply in any case where a memorandum of mortgage to Her Majesty or to a State Loan Department affecting any area of Maori freehold land, or a memorandum of lease or other disposition of any such land, cannot be immediately registered under the Land Transfer Act 2017 by reason of the fact that any order of the court constituting the title to that land has not been so registered.
+(1) This section shall apply in any case where a memorandum of mortgage to the Sovereign or to a State Loan Department affecting any area of Maori freehold land, or a memorandum of lease or other disposition of any such land, cannot be immediately registered under the Land Transfer Act 2017 by reason of the fact that any order of the court constituting the title to that land has not been so registered.
 (2) In any case to which this section applies, the Registrar of the court, on request made by or on behalf of the mortgagee, shall forward to the Registrar-General of Land a certificate under his or her hand setting forth with respect to the land the following particulars:
   (a) the kind or order constituting the title to the land to which the mortgage relates:
   (b) the date of the order:
@@ -507,8 +507,8 @@ Nothing in this Part shall prevent the chief executive from receiving, from the 
 (4) If the title to the land affected by the order referred to in the certificate is registered under the Land Transfer Act 2017, the Registrar-General of Land must register the certificate against the record of title for the land.
 (5) If the title to the land is not registered under the Land Transfer Act 2017, the Registrar-General of Land must register the certificate by issuing a qualified record of title for the land.
 (6) On the registration of a certificate under this section, no instrument in respect of the land referred to in the certificate shall thereafter be registered except—
-  (a) a mortgage or memorial of charge in favour of Her Majesty or of a State Loan Department; or
-  (b) an order made by the court creating or evidencing a charge in favour of Her Majesty or of a State Loan Department; or
+  (a) a mortgage or memorial of charge in favour of the Sovereign or of a State Loan Department; or
+  (b) an order made by the court creating or evidencing a charge in favour of the Sovereign or of a State Loan Department; or
   (c) an order of the court or other instrument (including a lease instrument) transferring, transmitting, or otherwise conferring title to or on any person who has executed any such mortgage or whose interest in the land is subject to any such charge; or
   (d) an instrument evidencing the discharge of any such mortgage or charge or any dealing with it.
 (7) On deposit for registration of the order of the court constituting the title to any land, the Registrar-General of Land must cancel the registration of the certificate given by the Registrar of the court and must issue a record of title (which may be a record of title qualified as described in section 17(1)﻿(a) of the Land Transfer Act 2017), and transfer to the record of title all entries and memorials then appearing in the register in respect of land comprised in the order of the court.
@@ -534,7 +534,8 @@ Nothing in this Part shall prevent the chief executive from receiving, from the 
 ## Part 4 — Miscellaneous provisions
 
 ### 89 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 90 Transitional provision
 (1) All lands that were, immediately before the commencement of this Act, subject to Part 24 of the Maori Affairs Act 1953 are hereby declared to be subject to Part 2 of this Act.
