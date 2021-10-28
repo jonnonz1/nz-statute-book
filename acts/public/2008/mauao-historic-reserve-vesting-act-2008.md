@@ -1,5 +1,5 @@
 # Mauao Historic Reserve Vesting Act 2008
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ## Preamble
 (1) Mauao, or Mount Maunganui, is of significant cultural, traditional, historical, and spiritual importance to Ngāi Te Rangi, Ngāti Ranginui, and Ngāti Pūkenga:
@@ -148,9 +148,10 @@ No rule of law or provisions of an Act limiting the duration of a trust, includi
 (7) This section overrides sections 26A(3), 112(2), and 116 of the Reserves Act 1977 and, in the event of inconsistency, any other enactment or rule of law to the contrary.
 
 ### 15 Alteration of Schedule 1 by Order in Council
-The Governor-General may, by Order in Council, make amendments to Schedule 1 to reflect any changes in—
+(1) The Governor-General may, by Order in Council, make amendments to Schedule 1 to reflect any changes in—
   (a) the legal description of Mauao historic reserve resulting from an exchange of land authorised by the Minister under section 8 or any other lawful alteration to the boundaries of the reserve; or
   (b) the computer freehold register for Mauao historic reserve.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule 1 — Description of Mauao historic reserve
 
