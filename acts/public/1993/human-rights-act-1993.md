@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights
 
@@ -1635,7 +1635,7 @@ The High Court shall have power to make such order as to the whole or any part o
 
 ### 128 Protection and privileges of witnesses, etc
 (1) Every person shall have the same privileges in relation to the giving of information to, the answering of questions put by, and the production of documents and things to, a Commission as witnesses have in any court.
-(2) No person shall be required to supply any information to or to answer any question put by a Commission in relation to any matter, or to produce to a Commission any document or paper or thing relating to any matter, in any case where compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on that person by the provisions of any Act or regulations, other than the Official Information Act 1982.
+(2) No person shall be required to supply any information to or to answer any question put by a Commission in relation to any matter, or to produce to a Commission any document or paper or thing relating to any matter, in any case where compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on that person by the provisions of any legislation, other than the Official Information Act 1982.
 (3) No person shall be liable to prosecution for an offence against any enactment, other than section 143, by reason of that person's compliance with any requirement of a Commission under section 127.
 (4) Where the attendance of any person is required by a Commission under section 127, the person shall be entitled to the same fees, allowances, and expenses as if the person were a witness in a court and, for the purpose,—
   (a) the provisions of any regulations in that behalf under the Criminal Procedure Act 2011 shall apply accordingly; and
@@ -1681,7 +1681,7 @@ No prosecution for an offence against section 131 shall be instituted without th
 (3) In any case in which any of the powers conferred by subsection (1) are exercised,—
   (a) the person or authority shall in giving its decision state that the decision is being made pursuant to subsection (1); and
   (b) any person who would have been entitled to appeal against that decision if it had been made on other grounds shall be entitled to appeal against the decision made pursuant to subsection (1).
-(4) In this section, the term enactment means any provision of any Act, regulations, or bylaws.
+(4)
 
 ### 134 Access by the public to places, vehicles, and facilities
 (1) Every person commits an offence who—when that refusal or requirement is in breach of any of the provisions of Part 2.
@@ -1742,6 +1742,7 @@ Every person commits an offence against this Act and is liable on conviction to 
   (b) prescribing forms for the purposes of this Act, and requiring the use of such forms:
   (c) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (2) For the avoidance of doubt, it is hereby declared that the power conferred by subsection (1) to make regulations in respect of proceedings before the Tribunal includes power to make regulations in respect of proceedings in connection with the exercise or performance of any function, power, or duty conferred or imposed on the Tribunal by or under any other enactment.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 145 Related amendments to other enactments
 [Repealed]
