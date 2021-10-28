@@ -1,5 +1,5 @@
 # Election Access Fund Act 2020
-_Consolidation as at 2020-03-16_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Election Access Fund Act 2020.
@@ -34,9 +34,10 @@ This Act binds the Crown.
 (3) The amount of the grant must be determined by the Minister, taking into account the purpose of this Act set out in section 3.
 
 ### 7 Eligibility for funding for election access
-(1) The Electoral Commission must, by notice in the Gazette, set out the basis on which a person listed in subsection (3) may be eligible for a payment out of the fund.
+(1) The Electoral Commission must, by notice, set out the basis on which a person listed in subsection (3) may be eligible for a payment out of the fund.
 (2) The Electoral Commission must not issue a notice under subsection (1) without first consulting persons and organisations that the Commission considers appropriate, having regard to the purpose of the fund.
 (3) A person may be eligible for a payment out of the fund if the person is a disabled person who is standing as a candidate in, or seeking selection as a candidate in, a general election or a by-election.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 8 Payment from fund not election expense or donation
 Any payment made from the fund to a candidate is not to be treated as—
