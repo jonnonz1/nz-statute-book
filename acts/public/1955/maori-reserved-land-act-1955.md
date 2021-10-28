@@ -1,5 +1,5 @@
 # Maori Reserved Land Act 1955
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to the administration of the lands comprised in Maori reserves, West Coast settlement reserves, and Maori townships, and to make provision in respect of certain other lands administered by the Māori Trustee
 
@@ -33,6 +33,7 @@ _Consolidation as at 2020-08-07_
 
 ### 4 Governor-General in Council may declare land to be a Maori reserve
 (1) The Governor-General may, by Order in Council, declare any land which is vested in the Māori Trustee upon trust to administer the same for an undefined or indeterminate period to be a Maori reserve and may, by the same or any subsequent Order in Council, declare the trusts upon which any such Maori reserve shall be administered by the Māori Trustee.
+(1A) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (2) Notwithstanding the provisions of any other enactment, where any land is declared to be a Maori reserve under this section, the land shall become subject to and be administered in accordance with the provisions of this Act, and any enactment applying particularly to the land shall cease to have any application in respect of that land.
 
 ### 5 Trusts for reserved land
@@ -132,6 +133,7 @@ All reserved land shall, while it remains vested in the Māori Trustee, be deeme
 (8) The Registrar of the Maori Land Court shall in respect of each incorporation constituted pursuant to this section make the necessary entries in the register of Maori incorporations kept by him pursuant to section 64 of the Maori Affairs Amendment Act 1967.
 (9) The provisions of section 14(4) shall apply to any current leases over land transferred to a Maori incorporation pursuant to this section.
 (10) Every memorandum of transfer from the Māori Trustee to a Maori incorporation constituted pursuant to this section shall be and be deemed to be a transfer from a trustee to the beneficiaries personally entitled in possession under the trusts administered by him, and no such transfer shall be subject to confirmation by the Maori Land Court.
+(11) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 2 — Succession to and disposal of beneficial interests in reserved land
 
@@ -822,6 +824,7 @@ Nothing in this Act or the Maori Reserved Land Amendment Act 1998 affects the ri
   (b) inserting a number or certificate of title that is not specified in that schedule:
   (c) adding, on or before 30 June 1998, the details of any lease to which the principal Act applies and which have been omitted in error from that schedule.
 (2) An Order in Council may be made under subsection (1)﻿(c) only on the recommendation of the Minister of Maori Affairs, after consultation by that Minister with such persons, including the lessor and lessee of the lease to which the order relates, as that Minister thinks fit.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 30 Goods and services tax
 No payment made under this Act is to be treated, for the purposes of the Goods and Services Tax Act 1985, as consideration for the supply of goods and services.
@@ -849,7 +852,7 @@ In these provisions, unless the context otherwise requires,—
   (b) a spouse of a deceased lessee or shareholder or beneficiary
 - **valuable consideration** means a consideration consisting of money
 - **working day** means any day of the week other than—
-  (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+  (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
   (b) a day in the period commencing with 25 December in any year and ending with 20 January in the following year.
 ((2)) In these provisions, unless the context otherwise requires,—
   (a) a reference to a clause is a reference to a clause in these provisions:
