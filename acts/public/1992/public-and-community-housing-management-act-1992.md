@@ -1,5 +1,5 @@
 # Public and Community Housing Management Act 1992
-_Consolidation as at 2021-02-11_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -8,6 +8,7 @@ _Consolidation as at 2021-02-11_
 (2) Except as provided in subsections (3) and (4), this Act shall come into force on the date on which it receives the Royal assent.
 (3) Section 38 shall be deemed to have come into force on 31 March 1989.
 (4) Section 41 shall come into force on a date to be appointed by the Governor-General by Order in Council.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -625,6 +626,7 @@ The following persons must comply with the code of conduct when requiring inform
   (b) information from any specified class of persons; or
   (c) information in any specified manner.
 (2) Subsection (1) applies despite the fact that the making of that requirement would otherwise be in breach of any code of practice issued by the Privacy Commissioner under section 32 of the Privacy Act 2020.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 89 Complaints
 (1) Any person who is required to provide any information under section 80, or who is the subject of that information, may make a complaint to the Privacy Commissioner that the requirement breaches the code of conduct.
@@ -750,7 +752,8 @@ In this Part, unless the context otherwise requires,—
 **Appointment, functions, and operation of social housing agency**
 
 ### 100 Social housing agency
-The Governor-General may, from time to time, by Order in Council made on the recommendation of the joint Ministers, appoint a department, departmental agency, or a Crown entity or any combination of 1 or more departments, departmental agencies, or Crown entities, to perform some or all of the functions and exercise some or all of the powers of the agency under this Act.
+(1) The Governor-General may, from time to time, by Order in Council made on the recommendation of the joint Ministers, appoint a department, departmental agency, or a Crown entity or any combination of 1 or more departments, departmental agencies, or Crown entities, to perform some or all of the functions and exercise some or all of the powers of the agency under this Act.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 101 Functions of agency
 The functions of the agency include the following:
@@ -788,7 +791,7 @@ The functions of the agency include the following:
 (6) The agency must, in carrying out functions under this Act, give effect to any directions that are given to it under this section and that are signed by the Minister or Ministers who may give the directions.
 (7) If the agency is a Crown entity, subsections (1) to (6) do not limit Part 3 of the Crown Entities Act 2004.
 (8) If there is any inconsistency between the provisions of this Act and the Crown Entities Act 2004 relating to ministerial directions, the provisions of the Crown Entities Act 2004 prevail.
-(9) As soon as practicable after giving a direction under this section, a Minister must publish it in the Gazette and present a copy of it to the House of Representatives.
+(9) A direction under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Eligibility, housing needs, and income-related rent**
 
@@ -891,10 +894,11 @@ The assessable income of an applicable person is the agency's estimate of the pe
 **Assessable assets, and deprivation of income or property**
 
 ### 111 Assessable assets
-(1) Assessable assets generate imputed income at a rate of interest for the time being stated by the joint Ministers by notice in the Gazette; and, for the purposes of section 108,—
+(1) Assessable assets generate imputed income at a rate of interest for the time being stated by the joint Ministers by notice; and, for the purposes of section 108,—
   (a) the gross income from any person's assessable assets is the greater of the actual income from those assets and the imputed income they generate; and
   (b) the person's weekly income must be estimated accordingly.
 (2) In subsection (1), assessable assets has the meaning prescribed in regulations made under section 114.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 112 Assessable income may be adjusted in certain cases
 (1) Subsection (2) applies if the agency is satisfied that—
@@ -932,6 +936,7 @@ For the purposes of section 108, a person's weekly income is the person's estima
 (3) A means for calculating may comprise any number of mechanisms and parameters.
 (4) Subsection (2) does not limit subsection (1).
 (5) Nothing in this section affects the application of the New Zealand Bill of Rights Act 1990.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Administrative matters and review**
 
@@ -1190,6 +1195,7 @@ If the agency is not the Ministry and regulations under section 136(1)﻿(a) est
 (3) If regulations made under subsection (1) provide for the matters described in subsection (1)﻿(a)﻿(ii) (relating to the Social Security Appeal Authority), regulations may—
   (a) provide for the function of the Benefits Review Committees in relation to appeals under this Act; and
   (b) require that an appeal to the Social Security Appeal Authority may not be heard until the matter has been confirmed or varied by the Benefits Review Committee.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Delegations**
 
@@ -1245,6 +1251,7 @@ The following persons must comply with the code of conduct when requiring inform
   (b) information from any specified class of persons; or
   (c) information in any specified manner.
 (2) Subsection (1) applies despite the fact that the making of that requirement under that section would otherwise be in breach of any code of practice issued by the Privacy Commissioner under section 32 of the Privacy Act 2020.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 141 Complaints
 (1) Any person who is required to provide any information under section 125 or who is the subject of that information may make a complaint to the Privacy Commissioner that the requirement breaches the code of conduct.
@@ -1422,6 +1429,7 @@ In this Part, unless the context otherwise requires,—
 ### 159 Regulatory authority
 (1) The Governor-General may by Order in Council made on the recommendation of the joint Ministers appoint a department, any specified business unit within a department, departmental agency, or a Crown entity to perform the functions and exercise the powers of the regulatory authority under this Part.
 (2) If the authority is a Crown entity, then the Crown Entities Act 2004 applies to the authority except to the extent that this Act expressly provides otherwise.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 160 Authority's main objectives
 The authority’s main objectives are—
@@ -1685,6 +1693,7 @@ If regulations under section 187(1)﻿(a) establish a body to dispose of appeals
 (2) Any body established under subsection (1)﻿(a) is a statutory board within the meaning of the Fees and Travelling Allowances Act 1951, and every member of it is entitled to—
   (a) remuneration by way of fees, salary, or allowances for the member's services as a member of it:
   (b) payment of travelling allowances and expenses in respect of time spent travelling in its service.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 188 Appeal body may make interim order pending determination of appeal
 (1) At any time before the final determination of an appeal, the appeal body may make an interim order requiring an entity—
@@ -1748,6 +1757,7 @@ If regulations under section 187(1)﻿(a) establish a body to dispose of appeals
   (i) specifying the type or types of registered community housing providers to whom funding by way of payments under reimbursement agreements and tailored agreements may or may not be made available:
   (j) providing for any other matters contemplated by this Part, necessary for its administration, or necessary for giving it full effect.
 (2) Any fee prescribed under subsection (1)﻿(c) must be reasonable, having regard to the need to recover the costs incurred by the authority in performing its functions under this Part.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 191 Consultation requirements for making regulations
 (1) Before making a recommendation for the making of an Order in Council under section 190, the joint Ministers must be satisfied that the authority has consulted in accordance with subsections (2) and (3).
@@ -1989,6 +1999,9 @@ The definition of income in section 3(1) of the Social Security Act 1964, as it 
 (3) In relation to any appeal referred to in subclause (1) or (2), if the matter that is the subject of the appeal is referred back to HNZ for further action, HNZ continues to have all the powers, functions, and duties in respect of the completion of the matter as HNZ had immediately before the transfer date.
 (4) The State Housing Appeal Authority established under the Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000 continues in existence for the purpose of appeals until 1 April 2017 or an earlier date appointed by the Governor-General by Order in Council.
 (5) For the purposes of subclauses (1) and (2), the Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000 are deemed to be made under new Part 5.
+(6) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an order under subclause (4):
+  (b) the regulations continued by subclause (5).
 
 ### 14 Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000 modified and continued
 (1) Without limiting clause 13 and subclause (2), the Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000 must be read with the following modifications:
