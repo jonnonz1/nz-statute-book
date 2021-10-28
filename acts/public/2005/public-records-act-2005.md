@@ -1,5 +1,5 @@
 # Public Records Act 2005
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Public Records Act 2005.
@@ -153,6 +153,7 @@ In this Act, unless the context otherwise requires,—
   (a) consult with the Minister of the Crown for the time being responsible for the administration of the Local Government Act 2002; and
   (b) have regard to advice received from the Archives Council.
 (7) This Act continues to apply to a mixed ownership model company (within the meaning of section 45P of the Public Finance Act 1989) that was a public office immediately before becoming a mixed ownership model company, as if it were still a public office, but only in respect of its affairs before it ceased to be a public office (regardless of when the records of those affairs are created).
+(8) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 6 Exclusions from application of Act
 This Act does not apply to—
@@ -419,7 +420,10 @@ If the administrative head of a controlling public office satisfies the Chief Ar
     (i) the public office, class of public office, approved repository, or local authority to which the standard applies; and
     (ii) whether compliance is mandatory or discretionary.
 (2) Before issuing a mandatory standard, the Chief Archivist must make a copy of the draft standard available to, and have a process in place for consulting with, every public office, approved repository, local authority, or other person to which the Chief Archivist considers that the proposed standard will apply, and to any other interested person.
-(3) The Chief Archivist must ensure that every standard issued under this section is published in a manner that the Chief Archivist considers appropriate.
+(3) The Chief Archivist must ensure that every standard issued under this section that is not secondary legislation is published in a manner that the Chief Archivist considers appropriate.
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) mandatory standards under this section, unless they apply only to 1 or more named persons:
+  (b) an amendment to, or a revocation of, mandatory standards that are secondary legislation.
 
 ### 28 Application and content of standards
 Standards issued by the Chief Archivist may include (without limitation) all or any of the following matters:
@@ -723,13 +727,14 @@ Every person commits an offence who wilfully or negligently—
 **Regulation-making power**
 
 ### 63 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) regulating the transfer of public records from any public office to Archives New Zealand or to an approved repository:
   (b) regulating the manner of destruction or other disposal of public records:
   (c) regulating the admission of the public to Archives New Zealand and the use by the public of public archives deposited in Archives New Zealand:
   (d) providing for the custody and preservation of Ministers’ papers and private records deposited in Archives New Zealand, and prescribing the fees (if any) to be charged for that custody and preservation:
   (e) prescribing forms for the purposes of this Act:
   (f) providing for matters that are contemplated by this Act or are necessary for its administration or for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Savings and transitional provisions**
 
