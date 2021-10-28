@@ -1,5 +1,5 @@
 # Radiation Safety Act 2016
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Radiation Safety Act 2016.
@@ -976,7 +976,7 @@ The Council may, in carrying out any of its functions, consult any person or bod
 **Codes of practice**
 
 ### 86 Codes of practice
-(1) The Director may, by notice in the Gazette, issue codes of practice for the purpose of specifying technical requirements that—
+(1) The Director may issue codes of practice for the purpose of specifying technical requirements that—
   (a) a person who deals with a radiation source must comply with in order to comply with the fundamental requirements; and
   (b) are appropriate to the level of risk posed by—
     (i) the radiation source; and
@@ -987,7 +987,7 @@ The Council may, in carrying out any of its functions, consult any person or bod
   (b) compliance with the fundamental requirement to which the provision relates can be achieved in another way.
 (4) The Director may impose conditions on any exemptions granted under subsection (3).
 (5) A person who is granted an exemption must comply with any of the conditions of the exemption.
-(6) A code of practice is a disallowable instrument but not a legislative instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(6) A code of practice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 87 Content of codes of practice
 (1) A code of practice must state—
@@ -997,18 +997,13 @@ The Council may, in carrying out any of its functions, consult any person or bod
 (2) A code of practice must not contain a provision that is inconsistent with this Act.
 
 ### 88 Codes of practice to be available on Internet site
-(1) The Director must ensure that,—
-  (a) promptly after a new code of practice is issued, a copy is publicly available on an Internet site maintained by, or on behalf of, the Director:
-  (b) after a code of practice has been amended or revoked, a copy of it in its original form continues to be publicly available on the Internet site:
-  (c) promptly after a code of practice is amended, the following are publicly available on the Internet site:
-    (i) a copy of the amendment; and
-    (ii) a copy of the code in its up-to-date form.
-(2) The electronic copies must be made available free of charge.
+[Repealed]
 
 ### 89 Director may amend or revoke codes of practice
-(1) The Director may, by notice in the Gazette, amend or revoke a code of practice at any time.
+(1) The Director may amend or revoke a code of practice at any time.
 (2) The Director must consult any person who the Director reasonably considers is likely to be affected by the proposed amendment or revocation.
 (3) An amendment or a revocation of a code of practice does not have retrospective effect.
+(4) An amendment to, or revocation of, a code of practice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 90 Codes of practice must be reviewed
 The Director must—
@@ -1050,6 +1045,7 @@ The Director must—
 (3) For the purpose of subsection (1)﻿(q), different requirements may be prescribed for the registration of different classes or types of controlled radiation sources.
 (4) No regulations may be made under subsection (1)﻿(a) that relate to a radiation source that is nuclear material.
 (5) A regulation authorising a person under subsection (1)﻿(h) must be made on the recommendation of the Minister after being satisfied that the person has the appropriate level of knowledge and experience of radiation safety for the activity or class of activity.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 92 Regulations relating to fees
 (1) The Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations prescribing—
@@ -1070,9 +1066,10 @@ The Director must—
   (b) the persons involved have been given sufficient time and information to make an informed contribution.
 (5) Subsection (4) does not require consultation in relation to specific fees or the specific levels of fees, as long as the fees are set reasonably within the scope of any general consultation.
 (6) A failure to comply with subsection (4) does not affect the validity of any regulations made under this section.
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 93 Other regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) providing for the keeping of records, the inspection of those records, and the making of returns of entries in those records in connection with a radiation source:
   (b) specifying details that must be included in warrants of appointment for enforcement officers:
   (c) prescribing matters that must be specified in any form that is required for the purposes of this Act or a particular provision of this Act:
@@ -1080,6 +1077,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (e) prescribing the manner or form in which any order, document, or other matter under this Act is to be served:
   (f) regulating the procedure of the Council:
   (g) providing for any other matters contemplated by or necessary for giving full effect to this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 94 Order in Council amending Schedules 2 and 3
 (1) The Governor-General may, by Order in Council, on the recommendation of the Minister made after complying with this section, amend Schedule 2 or 3.
@@ -1090,6 +1088,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (a) consult any person or organisation that the Minister considers has an interest in, or will be representative of the interests of people likely to be substantially affected by, the proposed order; and
   (b) be satisfied that the proposed order is necessary in order to comply with any applicable requirements, guidelines, or standards of the IAEA, or is consistent with those requirements, guidelines, or standards; and
   (c) be satisfied that the proposed order is necessary for the purpose of protecting the health or safety of people, or protecting the environment, from the harmful effects of ionising radiation.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 7 — Other matters
 
