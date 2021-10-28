@@ -1,5 +1,5 @@
 # Rates Rebate Act 1973
-_Consolidation as at 2021-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision for the granting of rebates of rates payable in respect of certain residential properties
 
@@ -72,6 +72,7 @@ _Consolidation as at 2021-07-01_
   (b) $665,—
 (1A) A ratepayer who, at the commencement of a rating year, was the ratepayer of a residential property, and later during that year becomes the ratepayer of another residential property, is entitled to a rates rebate under subsection (1). The amount of the rebate must be apportioned according to the amount of time the ratepayer was the ratepayer of each residential property during the rating year.
 (2) The Governor-General may from time to time, by Order in Council, amend the provisions of subsection (1) by substituting any amount for any amount specified in that subsection.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4 Assessment of income if more than 1 ratepayer
 (1) Subsection (2) applies if the names of 2 or more persons appear in the rating information database in respect of 1 residential property and 1 of those persons applies for a rebate under this Act.
