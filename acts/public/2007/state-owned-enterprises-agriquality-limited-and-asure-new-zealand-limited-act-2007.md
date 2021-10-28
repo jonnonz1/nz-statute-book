@@ -1,5 +1,5 @@
 # State-Owned Enterprises (AgriQuality Limited and Asure New Zealand Limited) Act 2007
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the State-Owned Enterprises (AgriQuality Limited and Asure New Zealand Limited) Act 2007.
@@ -87,6 +87,7 @@ The Commerce Commission must carry out its investigation and report to the Minis
   (c) refunding, or providing for refunds of, any over-recovery of those actual costs:
   (d) providing for the payment and collection of those levies.
 (3) The amount of any unpaid levy is recoverable in any court of competent jurisdiction as a debt due to the Crown.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 4 — Ongoing negotiations and obligations concerning examination services
 
