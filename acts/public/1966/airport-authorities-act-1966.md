@@ -1,5 +1,5 @@
 # Airport Authorities Act 1966
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the Local Authorities Empowering (Aviation Encouragement) Act 1929 and its amendments and to confer powers on certain local authorities and other persons in respect of airports
 
@@ -7,7 +7,7 @@ _Consolidation as at 2017-03-01_
 This Act may be cited as the Airport Authorities Act 1966.
 
 ### 2 Interpretation
-In this Act, unless the context otherwise requires,—
+(1) In this Act, unless the context otherwise requires,—
   - **aircraft and freight activities** means the activities undertaken (including the facilities and services provided) to enable, within a security area or areas of the relevant airport, the servicing and maintenance of aircraft and the handling of freight transported, or to be transported, by aircraft; and includes—
     (a) the provision within a security area or areas of the relevant airport, of any 1 or more of the following:
       (i) hangars:
@@ -38,7 +38,7 @@ In this Act, unless the context otherwise requires,—
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
   - **Minister** means the Minister of Transport
   - **security area** means an area of an airport that the Director has declared to be a security area under section 84 of the Civil Aviation Act 1990
-  - **specified airport company** means an airport company that, in its last accounting period, received revenue that exceeded $10 million, or such other amount of revenue that the Governor-General may from time to time prescribe for the purposes of this definition by Order in Council
+  - **specified airport company** means an airport company that, in its last accounting period, received revenue that exceeded $10 million, or such other amount of revenue that the Governor-General may from time to time prescribe for the purposes of this definition by Order in Council (see subsection (2))
   - **specified passenger terminal activities** means the activities undertaken (including the facilities and services provided) in relation to aircraft passengers while those passengers are in a security area or areas of the relevant airport; and includes—but does not include the provision of any space for retail activities
     (a) the provision, within a security area or security areas of the relevant airport, of any 1 or more of the following:
       (i) passenger seating areas, thoroughfares, and airbridges:
@@ -49,6 +49,7 @@ In this Act, unless the context otherwise requires,—
     (b) any activities undertaken (including the facilities and services provided) in a passenger terminal to enable the check-in of aircraft passengers, including services for baggage handling:
     (c) the holding of any facilities and assets (including land) acquired or held to provide specified passenger terminal activities in the future (whether or not used for any other purpose in the meantime);—
   - **substantial customer** has the meaning given to that term by section 2A.
+(2) An order made for the purpose of the definition of specified airport company in subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2A Meaning of substantial customer
 (1) For the purposes of this Act, substantial customer, in relation to an airport company, means any person that paid, or was liable to pay, that airport company in relation to identified airport activities in that airport company's last accounting period an amount that exceeded 5% of the revenue paid or payable to that airport company during that accounting period in relation to those activities.
@@ -63,6 +64,7 @@ In this Act, unless the context otherwise requires,—
 (2) Any local authority empowered to carry out any undertaking under this section may carry on or cause to be carried on in connection therewith any subsidiary business or undertaking.
 (3) The powers conferred on local authorities by this section may, with the prior consent of, and in accordance with conditions prescribed by the Governor-General by Order in Council, be exercised by any person or association of persons referred to in the Order in Council.
 (4) Any Order in Council under this section may be at any time in like manner amended or revoked.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5)
 
 ### 3A Powers of Crown and local authorities
@@ -206,9 +208,9 @@ Subject to the provisions of this section, any local authority may, for the purp
 (4) A bylaw made under this section by a local authority shall not have any force or effect until it has been approved by the Minister.
 (4A)
 (5) A bylaw made under this section by an airport authority which is not a local authority shall not have any force or effect until it has been approved by the Governor-General by Order in Council.
-(6) Every Order in Council made under subsection (5) shall—
-  (a) set out the bylaw approved in a schedule to the order; and
-  (b) be a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and be presented to the House of Representatives under section 41 of that Act.
+(6) An order under subsection (5)—
+  (a) must set out the approved bylaw in a schedule of the order; and
+  (b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (7) For the purposes of the Land Transport Act 1998, any bylaw made under subsection (1)﻿(e) or (g) is to be treated as being made by the authority under section 22AB of the Land Transport Act 1998.
 (8) Every person who commits a breach of any bylaw in force under this section is liable on conviction to a fine not exceeding $500 and, where the breach is a continuing one, to a further fine not exceeding $50 for every day or part of a day during which the breach has continued.
 (9) Where a person commits a continuing breach of any bylaw, then, notwithstanding anything in any other Act, the District Court may, on application by the airport authority, grant an injunction restraining the further continuance of the breach by that person.
@@ -240,7 +242,13 @@ Subject to the provisions of this section, any local authority may, for the purp
   (a) different classes of airport company (and, in particular, in relation to specified airport companies); and
   (b) the disclosure financial statements and disclosure financial forecasts of different classes of airport company (and, in particular, of specified airport companies).
 (3) No guidelines are permitted to be made pursuant to regulations made under subsection (1)﻿(h) except after consultation with such persons, representative groups within the aviation industry or elsewhere, substantial customers of airport companies, government departments, and Crown agencies as the person or persons making the guidelines think appropriate.
-(4) Any guidelines made under subsection (1)﻿(h) are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) If the regulations under subsection (1)﻿(h) enable the making of guidelines by specified persons,—
+  (a) the guidelines are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
+(6) If the regulations under subsection (1)﻿(k) authorise a person to grant exemptions,—
+  (a) an exemption is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 9B Validity of certain arrangements not affected by failure to consult on capital expenditure
 A failure by a specified airport company to comply with section 4C does not affect the validity or enforceability of any deed, agreement, right, or obligation entered into, obtained, or incurred by that specified airport company.
