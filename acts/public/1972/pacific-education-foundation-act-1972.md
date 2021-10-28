@@ -1,5 +1,5 @@
 # Pacific Education Foundation Act 1972
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to establish a Pacific Islands Polynesian Education Foundation
 
@@ -255,7 +255,8 @@ The Board must ensure that, within 3 months after the end of the financial year,
   (b) any loss to the Foundation arising out of any act done or omitted to be done by the member, if the act or omission was (so far as the member’s involvement is concerned) in good faith and in pursuance or intended pursuance of the functions of the Special Committee.
 
 ### 34 Regulations
-The Governor-General may from time to time, by Order in Council, make all such regulations as the Governor-General deems to be necessary for the purpose of giving full effect to the provisions of this Act.
+(1) The Governor-General may from time to time, by Order in Council, make all such regulations as the Governor-General deems to be necessary for the purpose of giving full effect to the provisions of this Act.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule 1 — Transitional, savings, and related provisions
 
