@@ -1,5 +1,5 @@
 # Building Societies Act 1965
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to building societies
 
@@ -505,6 +505,7 @@ A society may secure the payment of money and the performance of any other oblig
 (2) Home ownership accounts or farm ownership accounts may be operated by an approved society upon such terms and conditions as may be specified in regulations made under this Act.
 (3) It shall not be lawful for any society, other than an approved society, to accept or hold itself out as willing to accept deposits in home ownership accounts or farm ownership accounts.
 (4) If any society contravenes any provision of this section that is applicable to it, the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 56E Depositor under age of 20
 A receipt or acknowledgment given to a society by a person under the age of 20 years, in respect of the payment to that person of any sum due in respect of the principal of or interest on sums lent by that person to the society, shall not be invalid on the ground that that person is under the age of 20 years.
@@ -1357,6 +1358,7 @@ The District Court has jurisdiction in relation to—
   (g) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
 (2) The Registrar may refuse to perform a function or exercise a power until the prescribed fee is paid.
 (3) Any fee payable to the Registrar is recoverable by the Registrar in any court of competent jurisdiction as a debt due to the Crown.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 138 Filing of rules of existing societies with District Registrars of Companies
 (1) It shall be the duty of the Registrar, as soon as practicable after the date of the commencement of this Act, to send a copy of the rules of every society existing at that date to the District Registrar of Companies whose office is nearest to the registered office of the society, or to such other District Registrar of Companies as may be approved for the purpose after consultation with the society.
