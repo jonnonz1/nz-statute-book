@@ -1,5 +1,5 @@
 # Summary Offences Act 1981
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to reform and restate the law relating to summary offences, and to replace the Police Offences Act 1927 and its amendments
 
@@ -246,7 +246,7 @@ Every person is liable to imprisonment for a term not exceeding 3 months or a fi
   (b) the document is or contains a copy of or an extract from an official document; or
   (c) the document sets forth the substance of an official document.
 (2) In this section official document means a document issued by or with the authority of—
-  (a) Her Majesty; or
+  (a) the Sovereign; or
   (b) the Governor-General; or
   (c) the Executive Council; or
   (d) any Minister or officer in the service of the Crown in his capacity as such; or
@@ -427,7 +427,8 @@ In section 38B to 38E,—
 All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
 
 ### 38E Regulations
-The Governor-General may from time to time, by Order in Council, make regulations prescribing the form of infringement notices, and any other particulars to be contained in infringement notices.
+(1) The Governor-General may from time to time, by Order in Council, make regulations prescribing the form of infringement notices, and any other particulars to be contained in infringement notices.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Search, arrest, and jurisdiction**
 
