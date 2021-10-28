@@ -1,13 +1,14 @@
 # Compensation for Live Organ Donors Act 2016
-_Consolidation as at 2019-11-17_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Compensation for Live Organ Donors Act 2016.
 
 ### 2 Commencement
-This Act comes into force on the earlier of—
+(1) This Act comes into force on the earlier of—
   (a) a date appointed by the Governor-General by Order in Council; and
   (b) the first anniversary of the date on which this Act receives the Royal assent.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -264,6 +265,9 @@ Except as provided by the Accident Compensation Act 2001, an entitlement or a pa
     (i) the United Nations Convention against Transnational Organized Crime; and
     (ii) the Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children.
 (5) Before recommending an amendment under subsection (3)﻿(a), (b), or (c), the Minister must consult any person or organisation that the Minister considers has an interest in, or will be representative of the interests of people likely to be substantially affected by, the proposed amendment.
+(6) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under subsection (1); and
+  (b) an order under subsection (3).
 
 **Amendments**
 
