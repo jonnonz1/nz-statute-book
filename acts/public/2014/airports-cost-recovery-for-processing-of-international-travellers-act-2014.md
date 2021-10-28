@@ -1,5 +1,5 @@
 # Airports (Cost Recovery for Processing of International Travellers) Act 2014
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Airports (Cost Recovery for Processing of International Travellers) Act 2014.
@@ -129,6 +129,7 @@ Despite sections 8 and 9, a prescribed charge for the processing of travellers b
   (e) differ for otherwise similar services provided to different categories of persons:
   (f) differ depending on the amount of service required or the components of the service required for the particular person or class of persons.
 (5) Despite subsections (3) and (4), the charges prescribed may be set at a level or in a way that is determined by calculations that involve an averaging of costs or potential costs.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 12 Requirements for regulations
 (1) The Minister may make a recommendation for the purposes of section 11 in relation to the processing of travellers by Customs only if the Minister responsible for Customs agrees to the proposed regulations concerned.
