@@ -1,5 +1,5 @@
 # Urban Development Act 2020
-_Consolidation as at 2021-07-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Urban Development Act 2020.
@@ -539,10 +539,7 @@ A potential urban development project, or an urban development project that is a
   (b) the joint Ministers direct Kāinga Ora, in writing, to assess the project as a potential specified development project.
 
 ### 30 Status of ministerial direction
-A direction for the purposes of section 29(b) is not—
-  (a) a direction for the purposes of Part 3 of the Crown Entities Act 2004; or
-  (b) a legislative instrument for the purposes of the Legislation Act 2012; or
-  (c) a disallowable instrument for the purposes of the Legislation Act 2012.
+A direction for the purposes of section 29(b) is not a direction for the purposes of Part 3 of the Crown Entities Act 2004.
 
 **Project assessment**
 
@@ -761,7 +758,8 @@ Kāinga Ora must assess a project selected in accordance with section 29 by—
 (2) The order must set out the key features of the specified development project.
 (3) The order may specify a period for the purposes of clause 5 of Schedule 2 (which relates to disestablishment by expiry of time limit).
 (4) For the purpose of setting out the boundaries of the project area, the order may incorporate by reference a map, plan, or similar document prepared or issued by any person or body.
-(5) Sections 52 to 55 of the Legislation Act 2012 apply in relation to material incorporated by reference under subsection (4) as if it were incorporated under section 49 of that Act.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) Sections 63 to 66 and Schedule 2 of the Legislation Act 2019 apply in relation to material incorporated under subsection (4) as if it were incorporated under section 64 of that Act.
 
 ### 48 Effect of establishment order
 Overview
@@ -825,6 +823,7 @@ Kāinga Ora must notify the relevant local authorities as soon as practicable af
 ### 53 Orders in Council amending establishment orders
 (1) The Governor-General may, by Order in Council made on the recommendation of the joint Ministers in accordance with section 52(6), amend an establishment order.
 (2) Section 49 applies to the amendment order as if it were an establishment order.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 54 Transfer and disestablishment
 Schedule 2 provides for Kāinga Ora—
@@ -2217,6 +2216,7 @@ Land in a project area is rateable for targeted rates under this Act to the exte
 (4) In this section, levy—
   (a) means a requirement imposed by or under an enactment on 1 or more persons, or classes of person, to pay money for the purpose of funding matters that are specified in or under an enactment; and
   (b) does not include a requirement to pay a fee to fund the cost of providing a good or service to the person paying the fee.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 187 Content of targeted rates order
 A targeted rates order must specify—
@@ -2254,6 +2254,8 @@ Application of local government Acts to setting of targeted rates
   (a) a targeted rate set under this section were set under section 16 of that Act; and
   (b) the project area were a district.
 (7) For the purposes of subsection (5)﻿(b), section 73 of the Local Government (Auckland Council) Act 2009 applies as if a targeted rate set under this section were set under section 16 of the Local Government (Rating) Act 2002.
+Secondary legislation
+(8) A resolution under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 190 Kāinga Ora may set rates again within same financial year
 (1) Kāinga Ora may set a targeted rate under section 189 again in the financial year in which the rate was set if—
@@ -2270,10 +2272,7 @@ Application of local government Acts to setting of targeted rates
   (b) section 41 of the Local Government (Rating) Act 2002 applies.
 
 ### 191 Procedural requirements for rates resolution
-(1) A resolution under section 189 must be—
-  (a) notified in the Gazette; and
-  (b) published on the Kāinga Ora Internet site.
-(2) A resolution is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### 192 Due date or dates for payment
 The date or dates for payment of targeted rates under this Act on a rating unit or separate rating area are the same as the date or dates for payment of the local government rates owed to the relevant territorial authority whose district includes that unit or area.
@@ -3425,6 +3424,7 @@ In this schedule, unless the context otherwise requires,—
   (d) the reasons for making the transfer; and
   (e) the reasons why the proposed transferee did not agree to the transfer.
 (4) A transfer order must not transfer monetary debts of Kāinga Ora to a transferee without the transferee’s prior consent.
+(5) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Disestablishment**
 
@@ -3458,6 +3458,7 @@ A specified development project lapses and is disestablished if a draft developm
 ### 7 Governor-General may make disestablishment order
 (1) If the joint Ministers accept the disestablishment proposal, those Ministers may recommend to the Governor-General that a disestablishment order be made in respect of the specified development project.
 (2) The Governor-General may, by Order in Council made on the recommendation of the joint Ministers, disestablish a specified development project.
+(3) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 8 Contents of disestablishment order
 (1) A disestablishment order must include the following:
