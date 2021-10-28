@@ -1,5 +1,5 @@
 # Oaths and Declarations Act 1957
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to oaths, affirmations, and declarations
 
@@ -176,7 +176,7 @@ Nothing in this Part shall affect—
 No person appointed to or holding any office or place or admitted to any rights or privileges before the commencement of this Act, who has taken the oath (if any) which under the law previously in force he was required to take, shall be required by virtue of this Act to take any oath or make any declaration in respect of that appointment, office, place, or admission.
 
 ### 30A Regulations
-The Governor-General may, by Order in Council, make regulations prescribing te reo Māori equivalents for any or all of the following:
+(1) The Governor-General may, by Order in Council, make regulations prescribing te reo Māori equivalents for any or all of the following:
   (a) the affirmation set out in section 4(2):
   (b) the affirmation set out in section 4(3):
   (c) the declaration set out in section 13(1):
@@ -187,6 +187,7 @@ The Governor-General may, by Order in Council, make regulations prescribing te r
   (h) the oath set out in section 20:
   (i) the oath set out in section 21:
   (j) the declaration prescribed in Schedule 1.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 4 — Repeals
 
