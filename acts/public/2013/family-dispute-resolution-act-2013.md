@@ -1,5 +1,5 @@
 # Family Dispute Resolution Act 2013
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Family Dispute Resolution Act 2013.
@@ -7,6 +7,7 @@ This Act is the Family Dispute Resolution Act 2013.
 ### 2 Commencement
 (1) This Act (except sections 12 and 13) comes into force on the day after the date on which this Act receives the Royal assent.
 (2) Sections 12 and 13 come into force on 1 October 2014 unless they are earlier brought into force on a date appointed by the Governor-General by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Preliminary provisions**
 
@@ -106,7 +107,7 @@ This Act binds the Crown.
 (4) However, an FDR provider does not commit an offence under subsection (3) if the disclosure of the statement is authorised by the person who made the statement.
 
 ### 15 Regulations
-The Governor-General may, from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing for the purposes of section 6(2) any criteria that the Secretary must apply when deciding whether to approve an organisation as a dispute resolution organisation:
   (b) prescribing for the purposes of section 6(3) the kinds of terms and conditions on which the approval of an organisation may be made:
   (c) prescribing for the purposes of section 7 the grounds on which the Secretary may suspend or cancel the approval of an organisation as an approved dispute resolution organisation, which, without limitation, may include—
@@ -125,3 +126,4 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
     (ii) no longer meets the qualification and competency requirements for appointment prescribed by regulations made under paragraph (d):
     (iii) has become disqualified from appointment as an FDR provider by reason of any matter prescribed by regulations made under paragraph (e):
     (iv) has breached a term or condition on which the FDR provider's appointment was made.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
