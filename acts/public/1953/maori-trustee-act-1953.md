@@ -1,5 +1,5 @@
 # Māori Trustee Act 1953
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend certain provisions of the law relating to the Māori Trustee
 
@@ -89,6 +89,7 @@ Despite section 6, the person holding office as the Maori Trustee immediately be
 (2) The Governor-General may, by Order in Council, provide that the Māori Trustee must not, in relation to any or all employees (including the Deputy Māori Trustee), agree to terms and conditions of employment in a collective employment agreement, or an amendment to those terms and conditions, without—
   (a) consulting the Public Service Commissioner; and
   (b) having regard to the recommendations that the Public Service Commissioner may make to the Māori Trustee within a reasonable time of being consulted.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Delegation**
 
@@ -572,7 +573,7 @@ Notwithstanding any enactment or rule of law to the contrary, the Māori Trustee
 [Repealed]
 
 ### 52 Regulations
-The Governor-General may, by Order in Council, on the recommendation of the Minister of Māori Affairs, make regulations—
+(1) The Governor-General may, by Order in Council, on the recommendation of the Minister of Māori Affairs, make regulations—
   (a) for the purpose of section 26(2),—
     (i) defining any special circumstances or cases in which the Māori Trustee, though required to credit distributable income to an account, is not required to pay distributable income under that section, including, without limitation, prescribing the sum of money below which the Māori Trustee is not required to make a distributable income payment:
     (ii) setting out how and to whom distributable income is to be paid:
@@ -581,6 +582,7 @@ The Governor-General may, by Order in Council, on the recommendation of the Mini
   (d) for the purpose of section 26B(1), prescribing how, when, and to whom, in each financial year, the Māori Trustee must make the required disclosures:
   (e) for other purposes expressly provided for in this Act:
   (f) prescribing any other matters contemplated by this Act or necessary for its administration or to give it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 53 Repeals and savings
 [Repealed]
