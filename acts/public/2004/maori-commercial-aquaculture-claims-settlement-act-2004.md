@@ -1,5 +1,5 @@
 # Maori Commercial Aquaculture Claims Settlement Act 2004
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Maori Commercial Aquaculture Claims Settlement Act 2004.
@@ -568,10 +568,12 @@ If a dispute arises in relation to a matter referred to in section 52 and the pa
     (v) any other additional requirements in relation to the role of the trustee under this Act; and
   (d) providing for notation referring to settlement space on authorisations and coastal permits transferred to the trustee for allocation to iwi aquaculture organisations.
 (2) Regulations made under subsection (1)﻿(c) may be made only on the recommendation of the Minister after consulting the trustee.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 59 Certain harbours to be added to Schedule 2
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend Schedule 2 to add references to Admiralty Bay, Port Gore, and Port Underwood.
 (2) The Minister must make a recommendation under subsection (1) as soon as practicable after the relevant details about Admiralty Bay, Port Gore, and Port Underwood have been determined.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 60 Amendments to Foreshore and Seabed Act 2004
 ((1)–(4)) Amendment(s) incorporated in the Act(s).
