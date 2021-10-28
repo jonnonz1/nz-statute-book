@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2021-10-01_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -237,6 +237,7 @@ This Act shall bind the Crown.
   (c) in the case of a trust,—
     (i) the trust has been wound up; or
     (ii) the Crown no longer has the power to appoint a majority of the trustees.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3AB Power to amend Schedule 4A
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend Schedule 4A—
@@ -251,9 +252,11 @@ This Act shall bind the Crown.
 (2) The Minister must recommend that an Order in Council be made to remove the name of a company from Schedule 4A if the Minister is satisfied that—
   (a) the company has been removed from the register of companies kept under the Companies Act 1993; or
   (b) the company no longer meets the criteria set out in subsection (1)﻿(a).
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3B Power to amend Schedule 5 to reflect name changes
-The Governor-General may, by Order in Council, amend Schedule 5 to replace the name of any company in recognition of a change in its name.
+(1) The Governor-General may, by Order in Council, amend Schedule 5 to replace the name of any company in recognition of a change in its name.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3C Power to amend Schedule 5 to restore company to State-Owned Enterprises Act 1986
 (1) The Governor-General may, by Order in Council, repeal the name of a company from Schedule 5 and insert the name of that company in Schedules 1 and 2 of the State-Owned Enterprises Act 1986.
@@ -261,9 +264,11 @@ The Governor-General may, by Order in Council, amend Schedule 5 to replace the n
   (a) insert the name of that company in Part 2 of Schedule 1 of the Ombudsmen Act 1975; and
   (b) repeal the name of that company from Part B of Schedule 36 of the Income Tax Act 2007 and insert the name of that company in Part A of that schedule.
 (3) An Order in Council may be made under this section only if the Governor-General in Council is satisfied, at the time of the making of the Order in Council, that 100% of the issued ordinary shares in the company are held by Ministers of the Crown on behalf of the Crown.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3D Power to amend Schedule 6 to reflect name changes
-The Governor-General may, by Order in Council, on the recommendation of the Minister following consultation with the person with statutory responsibility for performing or exercising the rights, powers, and duties of the legal entity, amend Schedule 6 to replace the name of an entity in recognition of a change to its name.
+(1) The Governor-General may, by Order in Council, on the recommendation of the Minister following consultation with the person with statutory responsibility for performing or exercising the rights, powers, and duties of the legal entity, amend Schedule 6 to replace the name of an entity in recognition of a change to its name.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Appropriations
 
@@ -475,6 +480,7 @@ Except as otherwise provided by a resolution of the House of Representatives, th
 (5) In subsection (2)﻿(b)﻿(iii),—
   - **multi-year appropriation** means an appropriation authorised to apply for more than 1 financial year (see section 10)
   - **permanent appropriation** means an appropriation authorised by a permanent legislative authority.
+(6) An exemption under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 15E Main Appropriation Bill: supporting information relating to capital injections
 (1) The supporting information for the main Appropriation Bill must include, for each capital injection authorised for the financial year to which the Appropriation Bill relates,—
@@ -656,6 +662,7 @@ The Minister may, in addition to the information referred to in sections 15 to 1
 (4) In this section, output expense appropriation means—
   (a) an appropriation for 1 category of output expenses:
   (b) a multi-category appropriation that includes only categories of output expenses.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 26B Minister may approve expenses or capital expenditure to be incurred in excess of existing appropriation
 (1) This section applies if the Minister considers that the incurring of expenses or capital expenditure in the last 3 months of any financial year that is in excess, but within the scope, of an existing appropriation by or under an Act should be approved.
@@ -2239,8 +2246,8 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (b) for all or any of the purposes specified in section 81(1)﻿(a), (b), or (c), to an entity referred to in section 27(3)﻿(a) to (f).
 (4) A chief executive of a department, an Office of Parliament, a Schedule 4 organisation, a Schedule 4A company, or any other entity referred to in section 27(3) must comply with any instructions issued under this section to the extent that the instructions apply to that department, Office, organisation, company, or entity.
 (5) Any instructions issued under this section for the purposes of section 81(1)﻿(ba) must be consistent, in the opinion of the Minister, with generally accepted accounting practice and any reporting standard imposed by or under any other Act, to the extent that those matters are relevant to those instructions.
-(6) Instructions issued under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(7) The Minister must notify the instructions in the Gazette, and publish them on the Internet, as soon as practicable after issuing them.
+(6) Instructions under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7)
 
 ### 81 Regulations, Orders in Council, and notices
 (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
@@ -2263,6 +2270,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (2) Any Order in Council made under paragraph (g) of subsection (1), and any provision of any such order, may, to the extent that that order or that provision prescribes the fees, allowances, and expenses payable to Crown Solicitors, be expressed to apply in respect of work done by Crown Solicitors on and after any date, whether before or after the date of the making of the order or the date of the commencement of this Act.
 (3) Without limiting any other provision of this Act, the Minister may give notice in the Gazette of the exercise of any of the Minister's powers under this Act, or of any direction, determination, requirement, or instruction given or made by the Minister under this Act. Any notice given under this subsection may at any time be varied or revoked by a subsequent notice.
 (4) Any regulations made under this section must be consistent, in the opinion of the Minister, with generally accepted accounting practice, and any reporting standard imposed by or under any other Act, to the extent that those matters are relevant to those regulations.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 82 Consultation and approval requirements for regulations or instructions relating to reporting standards
 (1) This section applies to—
@@ -2272,7 +2280,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (3) The Speaker must present the draft regulations or instructions to the House of Representatives as soon as is reasonably practicable.
 (4) In the case of regulations or instructions to which subsection (1)﻿(a) applies, the Minister, after considering any comments of the Speaker or any committee of the House of Representatives that considered the draft regulations or instructions, may amend them as the Minister thinks fit.
 (5) In the case of regulations or instructions to which subsection (1)﻿(b) applies, the Minister may recommend that the regulations be made or may issue the instructions only after they have been approved by resolution of the House of Representatives.
-(6) The Minister must, as soon as practicable after issuing instructions to which subsection (1) applies, present them to the House of Representatives.
+(6)
 
 ### 82A Certain specified agencies with intelligence and security aspect treated as intelligence and security departments
 (1) This section applies to a specified agency if,—
@@ -2456,6 +2464,7 @@ This Act comes into force on 25 January 2005.
   (b) each subsequent financial year.
 (3) The Minister of Finance may make a recommendation under subsection (1)﻿(a)﻿(ii) only if he or she is satisfied that doing so is reasonably necessary to maintain the integrity of the preparation of the Budget.
 (4) In this section, existing provisions of the principal Act means the provisions of the principal Act that were in force immediately before the commencement of this Act.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 33 Reporting obligations in respect of financial year
 (1) The reporting requirements and provisions that would have applied if this Act had not been enacted continue to apply, in respect of the financial year specified in subsection (3), to a department and an Office of Parliament, rather than the reporting requirements and provisions enacted by this Act or any other Act.
@@ -2474,6 +2483,7 @@ This Act comes into force on 25 January 2005.
 ### 35 Regulations for transitional and savings purposes
 (1) The Governor-General may, by Order in Council, make regulations prescribing transitional or savings provisions relating to the coming into force of this Act.
 (2) Any transitional or savings provisions prescribed in regulations made under subsection (1) may be in addition to or in place of any of the provisions of sections 32 to 34.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 36 References in trust deeds to section 25 of principal Act
 Every reference to section 25 of the principal Act that is in a trust deed at the date of commencement of this section must be read as a reference to section 161 of the Crown Entities Act 2004.
