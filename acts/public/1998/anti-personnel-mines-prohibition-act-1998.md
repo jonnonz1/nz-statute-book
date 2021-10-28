@@ -1,5 +1,5 @@
 # Anti-Personnel Mines Prohibition Act 1998
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to implement in the law of New Zealand the Convention on the Prohibition of the Use, Stockpiling, Production and Transfer of Anti-Personnel Mines and on their Destruction
 
@@ -224,7 +224,9 @@ The Minister may issue a certificate identifying any member of a fact-finding mi
 (2) The Governor-General may from time to time, by Order in Council,—
   (a) amend the Schedule by making such amendments to the text of the Convention set out in that schedule as are required to bring that text up to date:
   (b) revoke the Schedule, and substitute a new schedule setting out in an up-to-date form the text of the Convention.
-(3) An order made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under this section:
+  (b) an order under subsection (2).
 
 **Application to Tokelau**
 
