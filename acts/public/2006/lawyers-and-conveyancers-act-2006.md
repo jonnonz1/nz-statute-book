@@ -1,11 +1,12 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2020-08-26_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
 
 ### 2 Commencement
-This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made appointing different dates for different provisions.
+(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made appointing different dates for different provisions.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -521,12 +522,13 @@ This Act binds the Crown.
     (c) a person acting under the supervision of a lawyer
   - **document** does not include any special document or class of document that is declared by the Governor-General by Order in Council to be a document or class of document to which subsection (1) does not apply.
 (3) This section is subject to the exceptions set out in section 27.
+(4) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 27 Exceptions to sections 21, 22, 24, and 26
 (1) Sections 21, 22, 24, and 26 do not prevent—
   (a) any person from representing himself or herself in proceedings before any court or tribunal; or
   (b) any person from appearing as an advocate, or representing any other person before any court or tribunal if the appearance or representation is allowed or required—
-    (i) by any Act or regulations; or
+    (i) by any legislation; or
     (ii) by the court or tribunal; or
   (c) any person who may, in accordance with paragraph (b), appear in any proceedings as an advocate or representative from—
     (i) giving advice in relation to those proceedings; or
@@ -797,6 +799,7 @@ A certificate purporting to be signed by the executive director of the New Zeala
 (2) Any such order may refer to barristers only, or to solicitors only, or to barristers and solicitors, of any such country.
 (3) Every person admitted under any such order is deemed to have been duly admitted under this Act.
 (4) By the same or any subsequent order, the Governor-General may provide for all matters authorised by this section to be prescribed, and for all matters necessary to give effect to the order and to this section.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 54 Rules of court as to admission
 (1) Rules, not inconsistent with this Act, may from time to time be made, in the manner prescribed by the Senior Courts Act 2016, in respect of the evidence of the qualifications, character, and fitness of candidates, and generally in respect of any matter relating to the admission of candidates as barristers and solicitors of the High Court.
@@ -865,9 +868,11 @@ On the making by the High Court of an order admitting any person as a barrister 
 Every Registrar must supply to the New Zealand Law Society from time to time such information as it requires for the purpose of issuing practising certificates.
 
 ### 62 Admission and restoration fees
-The Council of the New Zealand Law Society may, from time to time, with the approval of the Minister, fix fees to be paid to the Society—
+(1) The Council of the New Zealand Law Society may, from time to time, by resolution, fix fees to be paid to the Society—
   (a) by any candidate for admission as a barrister and solicitor:
   (b) by any person for the restoration of his or her name to the roll.
+(2) The Council may not fix fees under this section unless the Minister has approved the proposed fees.
+(3) A resolution fixing fees under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 4 — New Zealand Law Society
 
@@ -944,15 +949,17 @@ The representative functions of the New Zealand Law Society are to represent its
 (1) The Council of the New Zealand Law Society must, no later than 14 days after the day on which this section comes into force, deliver to the Registrar of Companies at Wellington for registration a document, which is to be described as and which is to constitute the constitution of the New Zealand Law Society.
 (2) The Council of the New Zealand Law Society must, no later than 14 days after the passing of any amendment to the constitution or the replacement of the constitution, deliver to the Registrar of Companies at Wellington for registration a copy of the amendment or the new constitution.
 
-### 72 Application of Legislation Act 2012 to constitution of New Zealand Law Society
-The provisions of the constitution of the New Zealand Law Society and the provisions of any amendment to that constitution or to any new constitution adopted by the New Zealand Law Society are legislative instruments and disallowable instruments for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+### 72 Application of Legislation Act 2019 to constitution of New Zealand Law Society
+The New Zealand Law Society’s constitution, and any amendments to it, are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 73 Practising fees
 (1) Every lawyer must pay an annual practising fee to the New Zealand Law Society.
-(2) The amount of the annual practising fee is to be fixed from time to time by a resolution made by the Council of the New Zealand Law Society, with the approval of the Minister.
+(2) The amount of the annual practising fee is to be fixed from time to time by a resolution made by the Council of the New Zealand Law Society (see subsections (6) and (7)).
 (3) The money received by the New Zealand Law Society by way of practising fees is to be used by the Society for the sole purpose of funding the regulatory functions and powers of the Society.
 (4) A resolution under subsection (2) may provide for the payment of practising fees of different amounts by different classes of lawyers.
 (5) A practising fee is payable in such manner as the practice rules prescribe or authorise and is recoverable on behalf of the New Zealand Law Society as a debt due to it.
+(6) The Council may not fix fees under subsection (2) unless the Minister has approved the proposed fees.
+(7) A resolution under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 74 Levies
 (1) The Council of the New Zealand Law Society—
@@ -968,6 +975,7 @@ The provisions of the constitution of the New Zealand Law Society and the provis
     (ii) by lawyers practising in different parts of New Zealand.
 (3) The proceeds of any levy imposed under subsection (1) must not be used by the Society in the exercise of its representative functions and powers or to meet any debt or liability incurred by the Society in respect of its representative functions and powers.
 (4) The amount of any levy imposed under subsection (1) is payable in such manner as the practice rules prescribe or authorise, and is recoverable on behalf of the New Zealand Law Society as a debt due to it.
+(5) A resolution under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 75 Subscriptions
 (1) For the sole purpose of funding the representative functions and powers of the New Zealand Law Society, the Council of that Society may, by resolution, require the payment of a subscription by each member of that Society.
@@ -1050,6 +1058,7 @@ The representative functions of the New Zealand Society of Conveyancers are to r
   (c) prescribe forms:
   (d) provide for the delegation of functions, duties, and powers:
   (e) confer rights of appeal against any decision or determination made, or any requirement or condition imposed, under the rules.
+(5) The rules are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 83 Fit and proper person
 (1) For the purpose of determining whether or not a person is a fit and proper person to be granted registration as a conveyancer, the New Zealand Society of Conveyancers or any other body that is required to consider an application for the grant of registration as a conveyancer may take into account any matters it considers relevant and, in particular, may take into account any of the following matters:
@@ -1131,15 +1140,17 @@ The representative functions of the New Zealand Society of Conveyancers are to r
 (1) The Council of the New Zealand Society of Conveyancers must, no later than 14 days after the day on which this section comes into force, deliver to the Registrar of Companies at Wellington for registration a document, which is to be described as, and which is to constitute, the constitution of the New Zealand Society of Conveyancers.
 (2) The Council of the New Zealand Society of Conveyancers must, no later than 14 days after the passing of any amendment to the constitution or the replacement of the constitution, deliver to the Registrar of Companies at Wellington for registration a copy of the amendment or the new constitution.
 
-### 89 Application of Legislation Act 2012 to constitution of New Zealand Society of Conveyancers
-The provisions of the constitution of the New Zealand Society of Conveyancers and the provisions of any amendment to that constitution or to any new constitution adopted by the New Zealand Society of Conveyancers are legislative instruments and disallowable instruments for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+### 89 Application of Legislation Act 2019 to constitution of New Zealand Society of Conveyancers
+The New Zealand Society of Conveyancers’ constitution, and any amendments to it, are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 90 Practising fees
 (1) Every conveyancing practitioner must pay an annual practising fee to the New Zealand Society of Conveyancers.
-(2) The amount of the annual practising fee is to be fixed from time to time by a resolution made by the Council of the New Zealand Society of Conveyancers, with the approval of the Minister.
+(2) The amount of the annual practising fee is to be fixed from time to time by a resolution made by the Council of the New Zealand Society of Conveyancers (see subsections (6) and (7)).
 (3) The money received by the New Zealand Society of Conveyancers by way of practising fees is to be used by the Society for the sole purpose of funding the regulatory functions and powers of the Society.
 (4) A resolution under subsection (2) may provide for the payment of practising fees of different amounts by different classes of conveyancing practitioners.
 (5) A practising fee is payable in such manner as the practice rules prescribe or authorise and is recoverable on behalf of the New Zealand Society of Conveyancers as a debt due to it.
+(6) The Council may not fix fees under subsection (2) unless the Minister has approved the proposed fees.
+(7) A resolution under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 91 Levies
 (1) The Council of the New Zealand Society of Conveyancers—
@@ -1155,6 +1166,7 @@ The provisions of the constitution of the New Zealand Society of Conveyancers an
     (ii) by conveyancing practitioners practising in different parts of New Zealand.
 (3) The proceeds of any levy imposed under subsection (1) must not be used by the Society in the performance and exercise of its representative functions and powers or to meet any debt or liability incurred by the Society in respect of its representative functions and powers.
 (4) The amount of any levy imposed under subsection (1) is payable in such manner as the practice rules prescribe or authorise, and is recoverable on behalf of the New Zealand Society of Conveyancers as a debt due to it.
+(5) A resolution under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 92 Subscriptions
 (1) For the sole purpose of funding the representative functions and powers of the New Zealand Society of Conveyancers, the Council of that Society may, by resolution, require the payment of a subscription by each member of that Society.
@@ -1178,7 +1190,7 @@ The provisions of the constitution of the New Zealand Society of Conveyancers an
 **Practice rules and regulations**
 
 ### 94 Practice rules
-The New Zealand Law Society and the New Zealand Society of Conveyancers must each have rules that include or provide for—
+(1) The New Zealand Law Society and the New Zealand Society of Conveyancers must each have rules that include or provide for—
   (a) the criteria for eligibility for a practising certificate:
   (b) the payment of the practising fees that are payable under section 73 or section 90 and the issue of practising certificates under section 39(1) or section 39(2):
   (c) the payment of levies imposed by a resolution made under section 74(1) or section 91(1), and the payment of subscriptions payable under a resolution made under section 75(1) or section 92(1):
@@ -1201,6 +1213,7 @@ The New Zealand Law Society and the New Zealand Society of Conveyancers must eac
   (p) prescribing the maximum sum that a Standards Committee may order be paid under section 156(1)﻿(d) by way of compensation:
   (q) the delegation of functions, duties, and powers under the practice rules:
   (r) the amendment and replacement of the practice rules.
+(2) Practice rules under this Part are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 95 Code of professional conduct and client care
 The New Zealand Law Society and the New Zealand Society of Conveyancers, in exercising the powers conferred by section 94(e), must each have rules that include or provide for a code of professional conduct and client care, which will be a reference point for discipline and which will focus on, but need not be limited to,—
@@ -1253,7 +1266,7 @@ Practice rules made by the Council of the New Zealand Law Society must regulate,
 (1) This section applies to—
   (a) the rules made by the Council of the New Zealand Society of Conveyancers under section 81(2)﻿(a); and
   (b) the practice rules made by the Council of the New Zealand Law Society or the Council of the New Zealand Society of Conveyancers, as the case may be.
-(2) The rules to which this section applies must be made with the approval of the Minister and after consultation with—
+(2) The rules to which this section applies must be made only after the Minister has approved, and the following people have been consulted on, the proposed rules:
   (a) lawyers or conveyancers, as the case may be; and
   (b) such other persons or groups as the Minister may direct.
 
@@ -1272,7 +1285,11 @@ The Minister must, in deciding whether to approve any practice rules, have regar
   (b) a copy of its practice rules (as approved by the Minister).
 
 ### 103 Amendment of rules
-The Council of the New Zealand Law Society or the Council of the New Zealand Society of Conveyancers may, at any time, with the approval of the Minister and after consultation with lawyers or conveyancers, as the case may be, and after consultation with such other persons or groups as the Minister may direct, amend any of its rules to which section 100 applies, or revoke them and replace them with new rules.
+(1) The Council of the New Zealand Law Society or the Council of the New Zealand Society of Conveyancers may, at any time, amend any of its rules to which section 100 applies, or revoke them and replace them with new rules.
+(2) An amendment, or a revocation and replacement, may be made only after the Minister has approved, and the following people have been consulted on, the proposed amendment or revocation and replacement:
+  (a) lawyers or conveyancers, as the case may be; and
+  (b) such other persons or groups as the Minister may direct.
+(3) An instrument that amends, or revokes and replaces, rules under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 104 Power of Minister to amend rules
 (1) If the Minister considers any rules to which section 100 applies to be deficient in any respect, the Minister may, subject to subsections (2) and (3), make such amendments to those rules as are necessary to remedy the deficiency.
@@ -1280,15 +1297,17 @@ The Council of the New Zealand Law Society or the Council of the New Zealand Soc
 (3) The Minister, in deciding whether to make amendments under subsection (1) to any rules,—
   (a) must consult the council by which the rules were made; and
   (b) may consult such other persons or groups as the Minister thinks fit.
+(4) An instrument that amends rules under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 105 Registration of amendments to rules
-(1) The Council of the New Zealand Law Society or the Council of the New Zealand Society of Conveyancers must, no later than 14 days after—deliver to the Registrar of Companies at Wellington for registration a copy of the amendment (as approved by the Minister) or a copy of its new rules (as approved by the Minister).
+(1) The Council of the New Zealand Law Society or the Council of the New Zealand Society of Conveyancers must, after—deliver to the Registrar of Companies at Wellington for registration a copy of the amendment (as approved by the Minister) or a copy of its new rules (as approved by the Minister).
   (a) passing any amendment to any rules to which section 100 applies; or
   (b) revoking any rules to which section 100 applies and replacing them with new rules,—
-(2) If any rules are amended by the Minister under section 104, the Minister must, within 14 days after making the amendment, deliver to the Registrar of Companies at Wellington for registration a copy of that amendment.
+(2) If any rules are amended by the Minister under section 104, the Minister must, after making the amendment, deliver to the Registrar of Companies at Wellington for registration a copy of that amendment.
+(3) Subsection (1) or (2) must be complied with no later than 14 days after the instrument that amends or revokes and replaces the rules is published under the Legislation Act 2019.
 
 ### 106 Application of Legislation Act 2012 to rules
-The rules to which section 100 applies and amendments to those rules are legislative instruments and disallowable instruments for the purposes of the Legislation Act 2012.
+[Repealed]
 
 ### 107 Effect of practice rules
 (1) The practice rules of the New Zealand Law Society are binding on all lawyers and former lawyers, whether or not they are members of the New Zealand Law Society, and on all incorporated law firms and former incorporated law firms, but are not binding on other persons.
@@ -1299,6 +1318,7 @@ The rules to which section 100 applies and amendments to those rules are legisla
 (1) The Governor-General may, by Order in Council, make regulations providing for any of the matters in respect of which rules to which section 100 applies may be made.
 (2) Regulations made under subsection (1) have general effect and are binding not only on practitioners and former practitioners but also on other persons to whom they apply.
 (3) So far as any rules to which section 100 applies are inconsistent with, or repugnant to, any regulations made under subsection (1) or section 119(1), those rules are to be treated as subject to the regulations.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Investigations**
 
@@ -1370,7 +1390,7 @@ It is the duty of every practitioner and of every related person or entity and o
   (b) it is not reasonable or practicable (whether because of the smallness of the amount, the shortness of the period for which the practitioner, related person or entity, or incorporated firm is to hold the money, or for any other reason) for the practitioner, related person or entity, or incorporated firm to invest the money, at the direction of the person for whom the money is held, so that interest is payable on it for the benefit of that person.
 
 ### 115 Regulations relating to trust accounts
-The Governor-General may, from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) regulating the use and audit of trust accounts of practitioners and of related persons or entities and of incorporated firms, and prescribing the duties of practitioners and of related persons or entities and of incorporated firms in regard to trust accounts:
   (b) prohibiting or regulating the collection of money of a client by a lawyer or class of person connected with a lawyer or an incorporated law firm:
   (c) regulating the lending of money of a client by a practitioner or class of person connected with a practitioner or incorporated firm:
@@ -1401,6 +1421,7 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
   (w) requiring practitioners, related persons or entities, incorporated firms, banks, and other persons to supply (either at specified times or upon request) to auditors, the Law Society inspectorate, the Conveyancers Society inspectorate, the New Zealand Law Society, or the New Zealand Society of Conveyancers such information and returns as may be necessary to ensure compliance with the regulations:
   (x) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this section, and the amounts of the fines that may be imposed in respect of any such offences, not exceeding $25,000 in respect of any offence:
   (y) prescribing generally such requirements as may be necessary to ensure that trust accounts are duly kept, and that persons beneficially entitled to money and securities held by practitioners, related persons or entities, or incorporated firms on trust are informed of the money and securities held and of the investment of any such money or securities.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 116 Provisions relating to regulations relating to trust accounts
 (1) In section 115, client, in relation to a practitioner or incorporated firm, includes any person on whose behalf money is, or securities are, held by the practitioner or incorporated firm.
@@ -1496,6 +1517,7 @@ The office or rank that before 1 August 2008 was known in New Zealand as Queen's
 (2) Regulations made under subsection (1) may authorise the Chief Justice and the Attorney-General to issue guidelines (not inconsistent with this Act or any regulations of that kind) in relation to both—
   (a) the qualifications and experience that should be possessed by candidates for appointment as Queen's Counsel; and
   (b) the process by which such candidates may be recommended for appointment.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 119A Other ways of ceasing to hold rank
 (1) A person who holds the rank of Queen's Counsel ceases to hold that rank if—
@@ -1548,6 +1570,7 @@ The office or rank that before 1 August 2008 was known in New Zealand as Queen's
 ### 122 Rules
 (1) The New Zealand Law Society and the New Zealand Society of Conveyancers must each make and maintain practice rules governing the operation of the complaints service established by it.
 (2) The rules governing the operation of a complaints service must be designed to ensure, as far as is practicable, that all complaints received by the complaints service (whether they are about service, costs, conduct, or any other matter) are dealt with in a fair, efficient, and effective manner.
+(3) Practice rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 123 Administration of complaints service
 Each complaints service—
@@ -2779,7 +2802,8 @@ If the Disciplinary Tribunal, after hearing any charge against a person who is a
 (2) The practice notes must not be inconsistent with this Act or any regulations made under it and are for the guidance of other members of the Disciplinary Tribunal, officers of the Disciplinary Tribunal, and parties before the Disciplinary Tribunal.
 
 ### 250 Rules of procedure
-The Disciplinary Tribunal may, from time to time, make rules, not inconsistent with this Act, in respect of the making, hearing, and determination of applications, inquiries, appeals, and other proceedings before it.
+(1) The Disciplinary Tribunal may, from time to time, make rules, not inconsistent with this Act, in respect of the making, hearing, and determination of applications, inquiries, appeals, and other proceedings before it.
+(2) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 251 Contempt of Disciplinary Tribunal
 (1) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who—
@@ -3006,6 +3030,7 @@ The Council must consult the Council of the New Zealand Law Society—
   (b) the Minister determines that, instead of that limitation, the levy or levies imposed under subsection (1) in respect of that year are not to exceed in the aggregate in respect of any lawyer an amount equal to such percentage as the Minister determines of the maximum practising fee payable by any lawyer for that year.
 (5) The proceeds of any levy imposed under subsection (1) must be paid by the New Zealand Law Society to the Council.
 (6) The amount of any levy imposed under subsection (1) is payable in such manner as the resolution prescribes or authorises and is recoverable on behalf of the New Zealand Law Society as a debt due to it.
+(7) A resolution under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 278 Power of Council to make regulations
 (1) Subject to this Act, the Council may, from time to time, by resolution, make, alter, or revoke any regulations not inconsistent with this Act that are necessary or expedient in respect of—
@@ -3018,10 +3043,10 @@ The Council must consult the Council of the New Zealand Law Society—
   (d) prescribe the standards to be observed, and the course prescriptions to be followed, in the provision of practical legal training of the kind referred to in paragraph (b):
   (e) provide for the courses of training provided by persons licensed to provide practical legal training of the kind referred to in paragraph (b) to be monitored and assessed:
   (f) provide for the expiry, cancellation, or withdrawal of licences issued under the regulations.
-(3) All such regulations have effect according to their tenor, and must be published by the Council.
-(4) A copy of any such regulation certified by the chairperson of the Council is sufficient evidence of it in all courts.
-(5) For the purposes of this section, notice is to be taken judicially, without further proof, of the appointment or right to the office of the chairperson and his or her signature.
-(6) Regulations made under subsection (1) must be made with the approval of the Minister.
+(3) The Council may not make regulations under this section unless the Minister has approved the proposed regulations.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5)
+(6)
 
 ### 279 Power of Council to make rules
 The Council may, from time to time, by resolution, make, alter, or rescind any rules not inconsistent with this Act, for all or any of the following purposes:
@@ -3280,11 +3305,13 @@ In this Part, unless the context otherwise requires,—
 (1) Subject to this Part, the New Zealand Law Society must make practice rules for the establishment, maintenance, and management of a fidelity fund to be known as the Lawyers' Fidelity Fund.
 (2) The rules must provide for the accounts of the Lawyers' Fidelity Fund to be audited annually by a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013) appointed for the purpose by the Council of the New Zealand Law Society.
 (3) The Lawyers' Fidelity Fund is to be the property of the New Zealand Law Society and is to be held in trust for the purposes specified in this Part.
+(4) Practice rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 310 Conveyancing Practitioners' Fidelity Fund
 (1) Subject to this Part, the New Zealand Society of Conveyancers must make practice rules for the establishment, maintenance, and management of a fidelity fund to be known as the Conveyancing Practitioners' Fidelity Fund.
 (2) The rules must provide for the accounts of the Conveyancing Practitioners' Fidelity Fund to be audited annually by a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013) appointed for the purpose by the Council of the New Zealand Society of Conveyancers.
 (3) The Conveyancing Practitioners' Fidelity Fund is to be the property of the New Zealand Society of Conveyancers and is to be held in trust for the purposes specified in this Part.
+(4) Practice rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 311 Rules
 (1) Practice rules made by a regulatory society for the establishment, maintenance, and management of a fund may be made for all or any of the following purposes:
@@ -3312,7 +3339,7 @@ In this Part, unless the context otherwise requires,—
 (3) Nothing in subsection (1) limits the generality of sections 309(1) and 310(1).
 
 ### 312 Contributions to Lawyers' Fidelity Fund
-(1) Every lawyer to whom, and every incorporated law firm to which, this Part applies must pay into the Lawyers' Fidelity Fund contributions of such amounts as are from time to time prescribed by a resolution made by the Council of the New Zealand Law Society, with the approval of the Minister.
+(1) Every lawyer to whom, and every incorporated law firm to which, this Part applies must pay into the Lawyers' Fidelity Fund contributions of such amounts as are from time to time prescribed by a resolution made by the Council of the New Zealand Law Society (see subsections (6) and (7)).
 (2) A resolution under subsection (1) may provide for the amounts of the contributions to differ in all or any of the following ways:
   (a) as between lawyers and incorporated law firms; and
   (b) as between different classes of lawyers; and
@@ -3322,9 +3349,11 @@ In this Part, unless the context otherwise requires,—
   (b) is recoverable on behalf of the Lawyers' Fidelity Fund by the New Zealand Law Society as a debt due to that Society.
 (4) This section is subject to sections 314 and 317.
 (5) Nothing in this section limits sections 311(1)﻿(n) and 316.
+(6) The Council may not prescribe amounts under subsection (1) unless the Minister has approved the proposed amounts.
+(7) A resolution under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 313 Contributions to Conveyancing Practitioners' Fidelity Fund
-(1) Every conveyancing practitioner to whom, and every incorporated conveyancing firm to which, this Part applies must pay into the Conveyancing Practitioners' Fidelity Fund contributions of such amounts as are from time to time prescribed by a resolution made by the Council of the New Zealand Society of Conveyancers, with the approval of the Minister.
+(1) Every conveyancing practitioner to whom, and every incorporated conveyancing firm to which, this Part applies must pay into the Conveyancing Practitioners' Fidelity Fund contributions of such amounts as are from time to time prescribed by a resolution made by the Council of the New Zealand Society of Conveyancers (see subsections (6) and (7)).
 (2) A resolution under subsection (1) may provide for the amounts of the contributions to differ in all or any of the following ways:
   (a) as between conveyancing practitioners and incorporated conveyancing firms:
   (b) as between different classes of conveyancing practitioners:
@@ -3334,6 +3363,8 @@ In this Part, unless the context otherwise requires,—
   (b) is recoverable, on behalf of the Conveyancing Practitioners' Fidelity Fund, by the New Zealand Society of Conveyancers as a debt due to that Society.
 (4) This section is subject to sections 315 and 317.
 (5) Nothing in this section limits sections 311(1)﻿(o) and 316.
+(6) The Council may not prescribe amounts under subsection (1) unless the Minister has approved the proposed amounts.
+(7) A resolution under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 314 Power of New Zealand Law Society to impose extraordinary levy
 (1) The Council of the New Zealand Law Society may, by resolution, impose on lawyers to whom, or incorporated law firms to which, this Part applies an extraordinary levy, for payment into the Lawyers' Fidelity Fund, if, at any time,—
@@ -3348,6 +3379,7 @@ In this Part, unless the context otherwise requires,—
   (b) is recoverable on behalf of the Lawyers' Fidelity Fund by the New Zealand Law Society as a debt due to that Society.
 (4) This section is subject to section 317.
 (5) Nothing in this section limits sections 311(1)﻿(n) and 316.
+(6) A resolution under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 315 Power of New Zealand Society of Conveyancers to impose extraordinary levy
 (1) The Council of the New Zealand Society of Conveyancers may, by resolution, impose on conveyancing practitioners to whom, or incorporated conveyancing firms to which, this Part applies an extraordinary levy, for payment into the Conveyancing Practitioners' Fidelity Fund, if, at any time,—
@@ -3362,6 +3394,7 @@ In this Part, unless the context otherwise requires,—
   (b) is recoverable on behalf of the Conveyancing Practitioners' Fidelity Fund by the New Zealand Society of Conveyancers as a debt due to that Society.
 (4) This section is subject to section 317.
 (5) Nothing in this section limits sections 311(1)﻿(o) and 316.
+(6) A resolution under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 316 Contributions and levies
 Contributions required, by a resolution made under section 312(1) or section 313(1) to be paid by any practitioner or class of practitioners or any incorporated firm or class of incorporated firms and extraordinary levies imposed, by a resolution made under section 314(1) or section 315(1), on any practitioner or class of practitioners or any incorporated firm or class of incorporated firms may be determined by reference to—
@@ -3491,6 +3524,7 @@ In any action brought against the New Zealand Law Society in relation to the Law
   (b) must be accompanied by a report from an independent auditor outlining the basis for the opinion that rule off is desirable.
 (5) The Minister must, within 1 month after receiving a report under subsection (3), decide whether to recommend the making, under subsection (1), of an Order in Council in relation to the fidelity fund to which the report relates.
 (6) Subject to subsections (2) to (5), the Minister, on receiving a report made under subsection (3), has an absolute discretion to decide whether to recommend the making, under subsection (1), of an Order in Council in relation to the fidelity fund to which the report relates.
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 330 Consequences of rule off
 (1) If a fidelity fund is ruled off by an Order in Council made under section 329(1), the society by which that fund is held—
@@ -3576,7 +3610,7 @@ Section 334 does not apply to any conditional fee agreement that relates to—
 **Regulations**
 
 ### 339 Regulations
-The Governor-General may, from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing forms for the purposes of this Act:
   (b) prescribing the duties of officers of the Disciplinary Tribunal, of the Registrar of the High Court, and of any other officers or persons acting in execution of this Act:
   (c) prescribing any act or thing necessary to supplement or render more effectual the provisions of this Act as to the conduct of proceedings before the Disciplinary Tribunal or the High Court:
@@ -3584,6 +3618,7 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
   (e) prescribing procedures in relation to the issue of summonses to witnesses and to the hearing of evidence on oath:
   (f) prescribing charges or fees in relation to the functions of the Disciplinary Tribunal:
   (g) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Amendments to Real Estate Agents Act 1976**
 
@@ -3746,7 +3781,7 @@ For the purposes of section 363, section 160 of the Law Practitioners Act 1982 m
   (a) no further claims against the Solicitor's Fidelity Guarantee Fund are received in the period referred to in subsection (2); or
   (b) the Council of the New Zealand Law Society or the Management Committee appointed under Part 9 of the Law Practitioners Act 1982 has fully dealt with any further claims against the Solicitor's Fidelity Guarantee Fund that were received in the period referred to in subsection (2),—
 (5) The Minister may, on receiving that report and those accounts, recommend to the Governor-General the making of an Order in Council declaring that the Solicitors' Fidelity Guarantee Fund is deemed to be wound up.
-(6) The Order in Council made under subsection (5) must specify the date on which it comes into force.
+(6) An order under subsection (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 368 Completion of determination of claim
 (1) For the purposes of section 367, a claim is fully dealt with when—
@@ -3769,6 +3804,7 @@ For the purposes of section 363, section 160 of the Law Practitioners Act 1982 m
 ### 370 Repeal of provisions relating to Solicitors' Fidelity Guarantee Fund
 (1) Sections 363 to 369 are repealed.
 (2) This section comes into force on a date to be appointed by the Governor-General by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Transitional provisions relating to barristers and solicitors**
 
@@ -3923,6 +3959,7 @@ Every person who, at the commencement of this section, holds office as President
   (a) is to begin on the date appointed by that order for the commencement of sections 79, 81, and 82; and
   (b) subject to subsection (4), is to end on such date as is specified in that order as the date on which that period is to end.
 (4) The Governor-General may, from time to time, alter any period specified in the Order in Council made under subsection (1) by appointing an earlier date or a later date for the end of that period.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Transitional provisions relating to Disciplinary Tribunal**
 
