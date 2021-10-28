@@ -1,5 +1,5 @@
 # Smokefree Environments and Regulated Products Act 1990
-_Consolidation as at 2020-11-11_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -57,7 +57,7 @@ _Consolidation as at 2020-11-11_
     (c) contains no tobacco
   - **hospital care institution** has the meaning given to that term by section 58(4) of the Health and Disability Services (Safety) Act 2001
   - **internal area** , in relation to any premises or vehicle,—
-    (a) means the area determined as an internal area in accordance with regulations made under section 81(3); but
+    (a) means the area determined as an internal area in accordance with regulations made under section 81(1)﻿(3); but
     (b) if those regulations are not in force, means an area within or on the premises or vehicle that, when all its doors, windows, and other closeable openings are closed, is completely or substantially enclosed by—
       (i) a ceiling, roof, or similar overhead surface; and
       (ii) walls, sides, screens, or other similar surfaces; and
@@ -518,8 +518,8 @@ Section 23 does not apply to—
   (f) a public health message issued by the Director-General for the purposes of this Act or any of its Parts that is published by a public service or an individual or organisation that is funded (whether wholly or partly and whether directly or indirectly) by a public service:
   (g) the following activities:
     (i) the display, in accordance with any regulations, of vaping products within any retail premises or on any Internet site of a retailer; and
-    (ii) if regulations made under section 81(5)﻿(ii) are in force and apply to the retailer, a retailer providing within their retail premises or on their Internet site information (in any medium) relating to vaping products in accordance with regulations; and
-    (iii) until regulations made under section 81(5)﻿(ii) are in force, a retailer providing within their retail premises or on their Internet site information about vaping being a less harmful alternative to smoking:
+    (ii) if regulations made under section 81(1)﻿(5)﻿(ii) are in force and apply to the retailer, a retailer providing within their retail premises or on their Internet site information (in any medium) relating to vaping products in accordance with regulations; and
+    (iii) until regulations made under section 81(1)﻿(5)﻿(ii) are in force, a retailer providing within their retail premises or on their Internet site information about vaping being a less harmful alternative to smoking:
   (h) any advice or message given by a suitably qualified health worker to an individual or to groups for the purpose of supporting them to switch from smoking to vaping:
   (i) the following activities:
     (i) the publication and dissemination of research about vaping products, smokeless tobacco products, and their use:
@@ -731,14 +731,14 @@ In this subpart, unless the context otherwise requires,—
   (a) the product or package is visible only to the extent that is necessary for it to be delivered—
     (i) to the person at the place; or
     (ii) to its purchaser at or from the place; and
-  (b) the form of its delivery complies with any regulations made under section 81(13) that are in force.
-(3) Subsection (1) does not apply to a regulated product or package that is visible in a way that complies with any relevant temporary transitional exemption regulations in force under section 81(14).
+  (b) the form of its delivery complies with any regulations made under section 81(1)﻿(13) that are in force.
+(3) Subsection (1) does not apply to a regulated product or package that is visible in a way that complies with any relevant temporary transitional exemption regulations in force under section 81(1)﻿(14).
 (4) A person who, without reasonable excuse, contravenes subsection (1) commits an offence and is liable to a fine not exceeding $10,000.
 
 ### Subpart 6 — Information and warnings at point of sale and on Internet
 
 ### 38 Point-of-sale health information or warning signs
-(1) This section applies if regulations made under section 81(15) requiring point-of-sale health information or warnings are in force.
+(1) This section applies if regulations made under section 81(1)﻿(15) requiring point-of-sale health information or warnings are in force.
 (2) A person to whom those regulations apply who offers a regulated product for sale (by retail or wholesale) must—
   (a) display a sign for the public that—
     (i) does no more than communicate health information or warnings; and
@@ -747,7 +747,7 @@ In this subpart, unless the context otherwise requires,—
 (3) A person who, without reasonable excuse, contravenes subsection (2) commits an offence and is liable to a fine not exceeding $2,000.
 
 ### 39 Internet-sales health information or warnings
-(1) This section applies if regulations made under section 81(16) are in force requiring sales health information or warnings to be visible on a person’s Internet site when people access it.
+(1) This section applies if regulations made under section 81(1)﻿(16) are in force requiring sales health information or warnings to be visible on a person’s Internet site when people access it.
 (2) A person to whom those regulations apply who offers a regulated product for Internet sale (by retail or wholesale) must comply with those regulations.
 (3) A person who, without reasonable excuse, contravenes subsection (2) commits an offence and is liable to a fine not exceeding $2,000.
 
@@ -799,14 +799,14 @@ In this subpart, unless the context otherwise requires,—
   (b) the person charged believed on reasonable grounds that the person to whom the product was sold was buying it for or on behalf of, or as agent for, a person of or over the age of 18 years.
 
 ### 43 Point-of-sale purchase age information
-(1) This section applies if regulations made under section 81(17) requiring point-of-sale purchase age information or warnings are in force.
+(1) This section applies if regulations made under section 81(1)﻿(17) requiring point-of-sale purchase age information or warnings are in force.
 (2) A person to whom those regulations apply who offers a regulated product for sale by retail must display clearly at each point of sale at the outside of or inside the person's place of business a notice for the public that—
   (a) does no more than communicate information or warnings to the effect that the sale of regulated products to people who are younger than 18 years is prohibited; and
   (b) complies with any requirements of those regulations.
 (3) A person who, without reasonable excuse, contravenes subsection (2) commits an offence and is liable to a fine not exceeding $2,000.
 
 ### 44 Internet-sales purchase age information or warnings
-(1) This section applies if regulations made under section 81(18) are in force requiring purchase age information or warnings to be visible on a person’s Internet site when people access it.
+(1) This section applies if regulations made under section 81(1)﻿(18) are in force requiring purchase age information or warnings to be visible on a person’s Internet site when people access it.
 (2) A person to whom those regulations apply who offers regulated products for sale must comply with those regulations.
 (3) The health warning information or warnings that are required to be visible must—
   (a) do no more than communicate information or warnings to the effect that the sale of regulated products to people who are younger than 18 years is prohibited; and
@@ -840,9 +840,9 @@ In this subpart, unless the context otherwise requires,—
 (1) A person who offers a regulated product other than a vaping product for sale by way of an automatic vending machine must not allow any part of the regulated product or its package to be visible from outside the machine.
 (2) However, subsection (1) does not apply to a regulated product or package that is being delivered if—
   (a) the product or package is visible only to the extent that is necessary for it to be delivered to or from the machine; and
-  (b) the form of its delivery complies with regulations made under section 81(13) that are in force.
+  (b) the form of its delivery complies with regulations made under section 81(1)﻿(13) that are in force.
 (3) A person who, without reasonable excuse, contravenes subsection (1) commits an offence and is liable to a fine not exceeding $10,000.
-(4) Subsection (1) does not apply to a regulated product or package that is visible in a way that complies with any relevant temporary transitional exemption regulations in force under section 81(14).
+(4) Subsection (1) does not apply to a regulated product or package that is visible in a way that complies with any relevant temporary transitional exemption regulations in force under section 81(1)﻿(14).
 
 ### 47 Automatic vending machines must not be located where public have access
 (1) A person must not—
@@ -1322,11 +1322,11 @@ Before notifying a notifiable product that is intended for sale in New Zealand, 
 ### 69 Substances in notifiable product must not exceed maximum limits
 (1) A notifiable product must not contain a substance in excess of any maximum limit declared under this section.
 (2) The Director-General may declare a maximum limit for a substance contained in a notifiable product if satisfied, on reasonable grounds, that exceeding the limit causes the product to become unsafe.
-(3) A declaration must be in writing and published on an Internet site maintained by or on behalf of the Ministry of Health.
+(3) A declaration under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 70 Declaration of prohibited substance
 (1) The Director-General may declare a substance to be a prohibited substance if satisfied that the substance is unsafe for use in a notifiable product.
-(2) A declaration must be in writing and published on an Internet site maintained by or on behalf of the Ministry of Health.
+(2) A declaration under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 71 Director-General may require notifier to provide information about safety of notifiable product
 (1) The Director-General may, by written notice, require a notifier of a notifiable product to provide information relating to the safety of the notifiable product.
@@ -1432,7 +1432,7 @@ Before notifying a notifiable product that is intended for sale in New Zealand, 
 ### Subpart 1 — Regulations
 
 ### 81 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:Forms, registers, and other documentsInternal areaHealth messages on automatic vending machinesSection 24 exemptionsSection 25 exemptions Section 27 exemptionsAcceptable forms of delivery and visibilityHealth information and warnings at point of sale and on InternetInfringement noticesConstituents of regulated productsAnnual returns and reportsHow certain regulated products may differSpecialist vape retailersGeneral matters
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:Forms, registers, and other documentsInternal areaHealth messages on automatic vending machinesSection 24 exemptionsSection 25 exemptions Section 27 exemptionsAcceptable forms of delivery and visibilityHealth information and warnings at point of sale and on InternetInfringement noticesConstituents of regulated productsAnnual returns and reportsHow certain regulated products may differSpecialist vape retailersGeneral matters
   (1) prescribing forms, certificates, notices, leaflets, signs, particulars, and notifications, and the persons by whom and the persons to whom any of them must be supplied:
   (2) prescribing records and registers for the purposes of this Act or any of its Parts, including—
     (i) prescribing the manner in which and the period during which any such records and registers must be kept; and
@@ -1484,37 +1484,38 @@ The Governor-General may from time to time, by Order in Council, make regulation
     (ii) the population in relation to which the retailer carries out their business:
   (26) prescribing any other criteria that the Director-General must have regard to for the purpose of section 14A(4):
   (27) providing for any other related matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 82 Regulations under section 81
-(1) Regulations made under section 81(8), (9), (15), (16), (17), or (18) must come into force no earlier than the day that is 6 months after the date on which they are made.
-(2) Regulations made under section 81(5), (6), or (7) may (without limitation) prescribe different requirements for different classes of retailers.
-(3) Regulations under all or any of paragraphs (8), (9), (10), (15), (16), (17), and (18) of section 81 may (without limitation) prescribe different requirements for all or any of the following:
+(1) Regulations made under section 81(1)﻿(8), (9), (15), (16), (17), or (18) must come into force no earlier than the day that is 6 months after the date on which they are made.
+(2) Regulations made under section 81(1)﻿(5), (6), or (7) may (without limitation) prescribe different requirements for different classes of retailers.
+(3) Regulations under all or any of paragraphs (8), (9), (10), (15), (16), (17), and (18) of section 81(1) may (without limitation) prescribe different requirements for all or any of the following:
   (a) different classes of people who offer regulated products for sale:
   (b) different classes of place of business:
   (c) different classes of points of sale:
   (d) different circumstances of the sales for which requirements are prescribed.
-(4) Regulations under section 81(13) may (without limitation)—
+(4) Regulations under section 81(1)﻿(13) may (without limitation)—
   (a) apply to specified classes of regulated products or packages or all regulated products or packages:
   (b) prescribe for different classes of people who offer regulated products for sale different acceptable forms of visible delivery of all or any regulated products and packages:
   (c) prescribe conditions with which 1 or more classes of people of that kind must comply before, or while, using a prescribed acceptable form of visible delivery.
-(5) Regulations under section 81(14) may (without limitation) do either or both of the following:
+(5) Regulations under section 81(1)﻿(14) may (without limitation) do either or both of the following:
   (a) prescribe for different classes of people who offer regulated products for sale different ways of allowing a regulated product or package to be visible:
   (b) prescribe conditions with which 1 or more classes of people of that kind must comply before, or while, allowing a regulated product or package to be visible in a way prescribed.
-(6) Regulations under section 81(15) may (without limitation) prescribe requirements relating to all or any of the following matters relating to signs under section 38:
+(6) Regulations under section 81(1)﻿(15) may (without limitation) prescribe requirements relating to all or any of the following matters relating to signs under section 38:
   (a) the health information or warnings to be communicated by them:
   (b) the shape and lengths of their sides:
   (c) the width, and other aspects of, the borders around their edges:
   (d) the typeface or font, point size, and other aspects of the format or layout, or of the clarity, legibility, and weight, of the printing on them of the health information or warnings to be communicated by them:
   (e) the minimum area that they must have for printing across:
   (f) any official attribution (which may, without limitation, be or include Ministry of Health Warning) that they are to contain, and the way in which that attribution is to be communicated by them.
-(7) Regulations under section 81(16) may (without limitation) prescribe requirements relating to all or any of the following matters relating to the health information or warnings to be made visible under section 39:
+(7) Regulations under section 81(1)﻿(16) may (without limitation) prescribe requirements relating to all or any of the following matters relating to the health information or warnings to be made visible under section 39:
   (a) the shape, and lengths, of the sides of that information or those warnings:
   (b) the width, and other aspects, of the borders around the edges of that information or those warnings:
   (c) the typeface or font, point size, and other aspects of the format or layout, or of the clarity and legibility, of all or any of the text of that information or those warnings:
   (d) the minimum area of that information or those warnings:
   (e) any official attribution (which may, without limitation, be or include Ministry of Health Warning) that that information is, or that those warnings are, to contain.
 Information that must be contained in annual returns
-(8) Regulations made under section 81(22) may (without limitation)—
+(8) Regulations made under section 81(1)﻿(22) may (without limitation)—
   (a) require the return to—
     (i) show the quantity of each brand, and of each variant of a brand, of regulated product sold during the previous year; and
     (ii) show the recommended price of each brand, and of each variant of a brand, of regulated product sold during the previous year; and
@@ -1546,6 +1547,7 @@ Information that must be contained in annual returns
   (c) separate requirements or options for—
     (i) different classes of regulated product:
     (ii) the packages for different classes of regulated product.
+(4A) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5) In this section, appearance includes—
   (a) anything that may affect a person's senses; and
   (b) any aspect of design, such as shape, size, colour, texture, or material.
@@ -1553,13 +1555,14 @@ Information that must be contained in annual returns
 **Notifiable products**
 
 ### 84 Regulations relating to notifiable products
-The Governor-General may, by Order in Council, make regulations—
+(1) The Governor-General may, by Order in Council, make regulations—
   (a) prescribing safety requirements for regulated products that are notifiable products:
   (b) specifying changes to the parts or components of a notifiable product for the purpose of the definition of significant change in section 67(2):
   (c) amending Part 1 of Schedule 2 (which lists the classes of flavours that may be contained in notifiable products sold by any retailer):
   (d) amending Part 2 of Schedule 2 (which lists the flavours and classes of flavours that must not be contained in any notifiable product):
   (e) specifying requirements that apply to retailers in relation to notifiable products that contain a flavour:
   (f) specifying how a notifier must describe a product and its parts when notifying it.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 85 Regulations imposing fees
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
@@ -1570,6 +1573,10 @@ The Governor-General may, by Order in Council, make regulations—
   (b) prescribing the amounts of those fees and charges or the manner in which those fees are to be calculated.
 (2) Any Order in Council made under subsection (1) may authorise the Director-General to refund or waive, in whole or in part and on any conditions as may be prescribed, payment of any fee, charge, or cost payable in relation to a notifier or a class of notifier or a retailer or a class of retailer.
 (3) Any fee prescribed under this section is recoverable in any court of competent jurisdiction as a debt due to the Crown.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) If the regulations authorise the Director-General to refund or waive, under subsection (2), payment of a fee, charge, or cost payable,—
+  (a) the instrument effecting the refund or waiver is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named notifiers or retailers; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 86 Regulations imposing levies
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing for the levies that must be paid by a notifier under Part 4.
@@ -1590,6 +1597,7 @@ The Governor-General may, by Order in Council, make regulations—
   (j) provide for waivers or refunds of the whole or any part of a levy for any case or class of cases.
 (5) If a person is in 2 or more classes of notifiers or retailers in respect of which different levies have been prescribed, the person must pay each of those levies (unless the regulations provide otherwise).
 (6) Any levy prescribed under this section is recoverable in any court of competent jurisdiction as a debt due to the Crown.
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 2 — Infringement offences
 
