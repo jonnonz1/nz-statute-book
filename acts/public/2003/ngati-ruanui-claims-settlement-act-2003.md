@@ -1,5 +1,5 @@
 # Ngati Ruanui Claims Settlement Act 2003
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ## Preamble
 (1) The Treaty of Waitangi, as set out in English and in Maori in Schedule 1 of the Treaty of Waitangi Act 1975, was signed in 1840:
@@ -856,18 +856,20 @@ The New Zealand Conservation Authority or a conservation board must,—
 (4) This section does not limit section 78(2).
 
 ### 80 Regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for the following purposes:
   (a) to provide for the implementation of objectives included in a conservation document under section 79(1):
   (b) to regulate or prohibit activities or conduct by members of the public on the Taki Poipoia o Ngati Ruanui:
   (c) to create offences for breaches of regulations made under paragraph (b), and provide for the imposition of fines—
     (i) not exceeding $5,000 for those offences; and
     (ii) if the offence is a continuing one, a further amount not exceeding $50 for every day during which the offence continues.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 81 Bylaws
-The Minister of Conservation may make bylaws for the following purposes:
+(1) The Minister of Conservation may make bylaws for the following purposes:
   (a) to provide for the implementation of objectives included in a conservation document under section 79(1):
   (b) to regulate or prohibit activities or conduct by members of the public on the Taki Poipoia o Ngati Ruanui:
   (c) to create offences for breaches of bylaws made under paragraph (b) and to provide for the imposition of fines not exceeding $1,000 for those offences.
+(2) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 82 Notification of actions in Gazette
 (1) The Minister of Conservation must notify in the Gazette—
@@ -892,6 +894,7 @@ The purpose or classification of an area as a national park, reserve, or conserv
   (a) the Minister of the Crown responsible for the new management or the management regimes; or
   (b) the Commissioner of Crown Lands; or
   (c) another responsible officer.
+(5) The Minister of Conservation must ensure that an order under this section is published in the Gazette.
 
 ### 85 Exercise of powers, functions, and duties
 (1) Except as expressly provided in this subpart,—
