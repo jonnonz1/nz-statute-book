@@ -1,5 +1,5 @@
 # Submarine Cables and Pipelines Protection Act 1996
-_Consolidation as at 2021-04-01_
+_Consolidation as at 2021-10-28_
 
 > An Act—ato provide better protection of submarine cables and pipelines; andbto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to protection of submarine cables and pipelines; andcto consolidate and amend the Submarine Cables and Pipelines Protection Act 1966
 
@@ -126,12 +126,15 @@ A person who, in the course of laying or repairing a submarine cable or submarin
     (vi) differently in respect of specified methods of fishing:
   (b) impose requirements in respect of specified ships or classes of ships that must be met before a ship or class of ships qualifies for exclusion from the application of the order.
 (5) The Minister shall publish a notice of the making of an Order in Council under subsection (1) in—
-  (a) each of the metropolitan daily newspapers published in Auckland, Wellington, Christchurch, and Dunedin, respectively; and
-  (b) the Gazette.
-(6) The Minister may, by notice in the Gazette, declare that an Order in Council under this section does not apply in respect of a specified ship or class of ships, and may in like manner vary or revoke any such notice.
+  (a) each of the metropolitan daily newspapers published in Auckland, Wellington, Christchurch, and Dunedin, respectively.
+  (b)
+(6) The Minister may, by notice, declare that an Order in Council under this section does not apply in respect of a specified ship or class of ships, and may in like manner vary or revoke any such notice.
 (7) A declaration under subsection (6) may be made unconditionally or upon or subject to such conditions that are specified in the notice.
 (8) Notwithstanding the provisions of an Order in Council under this section, any such notice has effect according to its tenor.
 (9) Subsections (2), (3), and (5) apply, with such modifications as may be necessary, to the making of a declaration under subsection (6).
+(10) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an Order in Council under subsection (1):
+  (b) a notice under subsection (6).
 
 ### 13 Offences in respect of protected areas
 (1) Subject to subsection (3), if—the owner and the master of the ship each commits an offence and is each liable on conviction to the appropriate penalty under section 15.
@@ -308,7 +311,7 @@ A forfeiture ordered by the court under section 31(1) or a redemption payment im
 The Minister may from time to time, by notice in the Gazette, approve equipment of any kind to be approved maritime surveillance equipment for the purposes of this Act.
 
 ### 36 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) regulating the navigation or conduct of ships engaged in the laying, repairing, or maintenance of submarine cables or submarine pipelines and prescribing the lights or signals to be displayed by those ships while engaged in those operations:
   (b) prescribing the duties of owners of submarine cables or submarine pipelines in respect of the marking or definition of those cables and pipelines and prescribing records to be kept in respect of the location of those cables or pipelines:
   (c) regulating the navigation or conduct of ships in relation to other ships engaged in the laying, repairing, or maintenance of submarine cables or submarine pipelines or in relation to those cables or pipelines or in relation to buoys or signals indicating the presence or proximity of those cables or pipelines:
@@ -316,6 +319,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (e) prescribing offences against the regulations and defining the persons or classes of persons liable to conviction for those offences:
   (f) prescribing fines not exceeding $50,000 for offences against the regulations:
   (g) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration of this Act.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 37 Repeals and savings
 (1) The enactments specified in the Schedule are hereby repealed.
@@ -323,6 +327,10 @@ The Governor-General may from time to time, by Order in Council, make regulation
 (3) The Governor-General may from time to time, by Order in Council,—
   (a) make regulations amending, or revoking in whole or in part, any regulations continued in force by subsection (2); or
   (b) make Orders in Council amending, or revoking in whole or in part, any orders continued in force by subsection (2).
-(4) The Minister may from time to time, by notice in the Gazette, amend, or revoke in whole or in part, any notice continued in force by subsection (2).
+(4) The Minister may from time to time, by notice, amend, or revoke in whole or in part, any notice continued in force by subsection (2).
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under subsection (3)﻿(a):
+  (b) an order under subsection (3)﻿(b):
+  (c) a notice under subsection (4) in relation to a notice under subsection (2).
 
 ## Schedule Schedule — Enactments repealed
