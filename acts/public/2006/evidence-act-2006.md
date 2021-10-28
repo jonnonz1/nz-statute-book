@@ -1,11 +1,12 @@
 # Evidence Act 2006
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Evidence Act 2006.
 
 ### 2 Commencement
-This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
+(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -165,7 +166,7 @@ The purpose of this Act is to help secure the just determination of proceedings 
     (i) its provisions; and
     (ii) the promotion of its purpose and its principles; and
     (iii) the application of the rule in section 12.
-(2) Subsection (1) does not affect the application of the Interpretation Act 1999 to this Act.
+(2) Subsection (1) does not affect the application of Part 2 of the Legislation Act 2019 to this Act.
 
 ### 11 Inherent and implied powers not affected
 (1) The inherent and implied powers of a court are not affected by this Act, except to the extent that this Act provides otherwise.
@@ -1625,6 +1626,7 @@ In a civil proceeding, wherever a party is permitted under rules of court to ins
   (c) a member or employee of a Police force of Australia or the Police force of a State or territory of Australia; or
   (d) a member or employee of a Police force of Canada or the Police force of a Province or territory of Canada.
 (7) Subpart 1 of Part 2 (which relates to hearsay evidence) and subpart 2 of Part 2 (which relates to opinion and expert evidence) do not apply to evidence offered under this section.
+(8) An order under subsection (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 141 New Zealand and foreign official documents
 (1) Subsection (2) applies to a document that purports—
@@ -1781,9 +1783,10 @@ In this subpart, specified proceeding means a proceeding—
   (c) relating to the management of the property of a person who is incapable of managing that property.
 
 ### 152 Power of Minister of Justice in relation to certain tribunals
-For the purposes of this subpart, the Minister of Justice may, by notice in the Gazette, declare—
+(1) For the purposes of this subpart, the Minister of Justice may declare—
   (a) any New Zealand tribunal to be a New Zealand court:
   (b) any tribunal of the Commonwealth of Australia or of a State or a territory of Australia to be an Australian court.
+(2) A declaration under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 153 Act not to apply to certain proceedings in High Court of New Zealand and Federal Court of Australia
 Nothing in this subpart applies in relation to any proceedings to which Part 3 of the Trans-Tasman Proceedings Act 2010 applies.
@@ -2180,13 +2183,14 @@ Every witness required to attend for examination by an order made under section 
   (a) fixing, and requiring the payment of, fees and expenses for or incurred in taking evidence under this Part:
   (b) prescribing the matters in respect of which fees are payable under this Part and the amounts of those fees:
   (c) regulating the payment of expenses in respect of expenses incurred in complying with New Zealand subpoenas.
+(3) Regulations under subsection (1)﻿(b) or (2) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 5 — Miscellaneous
 
 **Regulations**
 
 ### 201 Regulations
-The Governor-General may, by Order in Council, make regulations—
+(1) The Governor-General may, by Order in Council, make regulations—
   (a) prescribing the procedure to be followed, the type of equipment to be used, and the arrangements to be made where a person’s evidence is to be video recorded:
   (b) providing for the approval of interviewers, or classes of interviewers, for child complainants, and providing for such approvals to be proved by production of certificates in the prescribed form:
   (c) regulating the way in which evidence of a witness may be given in an alternative way:
@@ -2208,6 +2212,7 @@ The Governor-General may, by Order in Council, make regulations—
   (m) regulating the form of warnings or information that can be given by a Judge in relation to evidence given by children under the age of 6 years in a proceeding tried by a jury:
   (n) regulating the translation of documents into English or Māori:
   (o) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Periodic review of operation of Act**
 
