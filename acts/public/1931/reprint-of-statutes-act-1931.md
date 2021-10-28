@@ -1,5 +1,5 @@
 # Reprint of Statutes Act 1931
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision in relation to the publication of an annotated reprint of the Public Acts of New Zealand under the title of The Public Acts of New Zealand (Reprint), and to empower the courts to take judicial notice of such reprint
 
