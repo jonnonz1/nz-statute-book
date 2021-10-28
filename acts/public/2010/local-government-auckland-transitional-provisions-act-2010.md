@@ -1,5 +1,5 @@
 # Local Government (Auckland Transitional Provisions) Act 2010
-_Consolidation as at 2017-07-02_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Local Government (Auckland Transitional Provisions) Act 2010.
@@ -18,7 +18,7 @@ This Act is the Local Government (Auckland Transitional Provisions) Act 2010.
   (d) provides a process for the development of the first combined planning document for Auckland Council under the Resource Management Act 1991.
 
 ### 4 Application of Legislation Act 2012
-An Order in Council made under any provision of section 5 or Part 1 is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### 5 Transitional regulations
 (1)
@@ -294,6 +294,7 @@ Nothing in the Takeovers Code in force under the Takeovers Act 1993 applies in r
   (a) is satisfied that the proposed single security document will comply with the requirements of any relevant enactment; and
   (b) is satisfied that no party to, or person having a benefit under, the existing security arrangements will be adversely affected by the making of the order; and
   (c) has consulted the Minister for the time being responsible for the administration of the Securities Act 1978 on the form and substance of the proposed single security document.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 32 Council authorised to collect and deal with balance of rating matters for 2010/2011 and previous financial years
 (1) In respect of the following rates, the Council may exercise all the powers and perform all the functions and duties of a local authority under the Local Government (Rating) Act 2002, as if the Council had itself set the rates:
@@ -727,6 +728,7 @@ The standing orders prescribed by any Order in Council made under section 46 of 
 (5) In this section,—
   - **chief executive** means the chief executive of the Ministry that is responsible for the administration of the Building Act 2004
   - **register of building consent authorities** means the register of building consent authorities kept under section 273(1)﻿(a) of the Building Act 2004.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Civil defence emergency management**
 
