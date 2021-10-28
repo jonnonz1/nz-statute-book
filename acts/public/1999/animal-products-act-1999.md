@@ -1,5 +1,5 @@
 # Animal Products Act 1999
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
 
@@ -11,6 +11,7 @@ _Consolidation as at 2020-12-01_
   (b) different dates may be appointed for different classes of animal material or products, animal product businesses, operations, or other purposes.
 (4) To the extent not previously brought into force under subsection (3), Part 2 comes into force on 1 November 2002.
 (5) The application of any provision brought into force by or under this section may, until 1 July 2006, be subject to the Animal Products (Ancillary and Transitional Provisions) Act 1999.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -45,7 +46,7 @@ The object of this Act is to—
 (1) In this Act, unless the context otherwise requires,—
   - **animal** means any member of the animal kingdom, and includes—but does not include a human being
     (a) any mammal, bird, finfish, shellfish, reptile, amphibian, insect, or invertebrate:
-    (b) any other creature or entity that is declared by the Minister by notice in the Gazette to be an animal for the purposes of this Act;—
+    (b) any other creature or entity that is declared by the Minister (see subsection (4)) to be an animal for the purposes of this Act;—
   - **animal material** means any live or dead animal, or any tissue or other material taken or derived from an animal
   - **animal product** , or , means any animal material that has been processed (other than simply transported or stored in such a way as not to involve any alteration to its nature) for the purpose, or ultimate purpose, of consumption or other use by humans or animals
   - **animal product business** means a business undertaking that, for reward or for the purposes of trade,—
@@ -148,7 +149,7 @@ The object of this Act is to—
     (b) dresses mammals or birds that are killed wild animals or are killed as if they were wild animals; or
     (c) removes or extracts or harvests any animal material from live animals for the purpose of processing for human or animal consumption; or
     (ca) is a dairy processor; or
-    (d) in the case of—processes those animals or that animal material to the extent specified by the Minister by notice in the Gazette after consultation in accordance with section 163 and after having regard to the following matters:
+    (d) in the case of—processes those animals or that animal material to the extent specified by the Minister by notice (see subsection (4)) after consultation in accordance with section 163 and after having regard to the following matters:
       (i) finfish or shellfish, or animal material derived from finfish or shellfish; or
       (ii) a mammal or bird, or animal material derived from a mammal or bird, if in the opinion of the Minister it is appropriate that the primary processing of that mammal or bird or animal material should extend beyond the matters referred to in paragraphs (a) and (b); or
       (iii) any other animal, or animal material derived from any other animal,—
@@ -226,7 +227,9 @@ The object of this Act is to—
   (a) references to the requirements of Parts 2 to 4 include references to the requirements of any regulations, standards, Ministerial orders, notices, or directions made or given for the purposes of those Parts; and similarly, references to the requirements of any other Part or provision include references to the requirements of any regulations, standards, notices, or directions made for the purposes of that Part or provision:
   (b) references to any regulations under, or made under, a particular Part include references to regulations made under any other section of this Act or section 25 of the Animal Products (Ancillary and Transitional Provisions) Act 1999, for the purposes of that Part.
 (3) The categorisation of any person as a primary producer, a primary processor, a secondary processor, an exporter, or a homekill or recreational catch service provider relates to the identification of the person in that capacity only, and does not prevent the person from being identified also, and accordingly treated as being, a person in any of the other categories.
-(4) A notice in the Gazette made for the purposes of paragraph (d) of the definition of primary processor in subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a declaration under paragraph (b) of the definition of animal in subsection (1):
+  (b) a notice under paragraph (d) of the definition of primary processor in subsection (1).
 (5) Unless the context otherwise requires, parts of speech and grammatical forms of terms defined in this section have corresponding meanings in this Act.
 
 ### 5 Product processed fit for intended purpose
@@ -294,6 +297,9 @@ This Act does not apply to any animal material or animal product if and to the e
   (f) such other matters as the Minister considers relevant.
 (4)
 (5) An exemption under this section may have retrospective effect.
+(6) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) may have effect in accordance with subsection (5) even if not yet published.
 
 ### 10 Application of Act includes exclusive economic zone
 (1) This Act applies to the production and processing of animal material and animal products within New Zealand and within or on all New Zealand fisheries waters (as defined in the Fisheries Act 1996), but does not apply to the processing of fish on any fishing vessel within the exclusive economic zone that is not registered under the Fisheries Act 1983 or the Fisheries Act 1996 unless the vessel is used to harvest farmed finfish or shellfish.
@@ -355,6 +361,7 @@ The object of this Part is to provide, as the main means for ensuring that anima
 (3) The Minister may not recommend the making of an order under this section unless satisfied that the order is necessary or desirable—
   (a) in the interests of achieving the fitness for intended purpose of the animal product concerned; or
   (b) for the purpose of facilitating access to overseas markets.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 16 Duties of operators of risk management programmes
 (1) The operator of a registered risk management programme has the following duties:
@@ -685,6 +692,10 @@ The object of sections 32 to 34A is to recognise the general equivalence of food
 (3) The Minister may not recommend the making under subsection (1) of regulations that provide for exemptions to be granted unless satisfied that the regulations permit an exemption to be granted only if—
   (a) granting the exemption is necessary or desirable in the interests of avoiding unnecessary or undesirable duplication of equivalent duties or matters under this Act and the Food Act 2014; and
   (b) the extent of the exemption is not broader than is reasonably necessary for that purpose.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) If the regulations provide for the granting of exemptions under this section,—
+  (a) the instrument granting an exemption is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 
 **References to verifying agency**
 
@@ -738,6 +749,7 @@ The object of this Part is to provide for regulated control schemes which are sp
   (e) the relative costs of having the scheme or not having it, who bears the cost, and any positive and negative impacts on consumers and users:
   (f) whether the scheme option proposed or selected is the most cost-effective way of achieving its prime purpose:
   (g) any other matters the Minister considers relevant.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 41 Emergency control schemes
 (1) The Minister may, by order, institute emergency control schemes if, in the opinion of the Minister,—
@@ -750,19 +762,19 @@ The object of this Part is to provide for regulated control schemes which are sp
     (ii) otherwise effectively alleviate or minimise the relevant risk.
 (2) Any such order may contain any matter that could be included in regulations made under section 40 or a supplementary notice.
 (3) Any such order must as soon as practicable be—
-  (a) either published or notified in the Gazette; and
+  (a)
   (b) to the extent practicable, brought to the attention of all persons likely to be affected by it.
-(4) If the order is notified only, and not published, in the Gazette,—
-  (a) the Director-General must make copies of the order available for inspection free of charge, and for purchase at a reasonable cost, at the head office of the Ministry and at such other places as the Director-General determines as necessary or appropriate; and
-  (b) the Gazette notice must specify where a copy of the order may be inspected or obtained.
+(4)
 (5) A Ministerial order under this section—
-  (a) takes effect on such day as may be specified in the order (which may not be earlier than the day it is notified or published in the Gazette, except in the case of any person affected who has been supplied with a copy of the order at any earlier time); and
-  (b) unless sooner revoked, expires at the end of 6 months after the date of its publication or notification in the Gazette, unless extended by the Minister by notice in the Gazette for a further period not exceeding 6 months (at the end of which period it expires).
+  (a) takes effect on such day as may be specified in the order (which may not be earlier than the day it is published under the Legislation Act 2019, except in the case of any person affected who has been supplied with a copy of the order at any earlier time); and
+  (b) unless sooner revoked, expires at the end of 6 months after the date of its publication under the Legislation Act 2019, unless extended by the Minister by notice for a further period not exceeding 6 months (at the end of which period it expires).
 (6) Before making an order under this section, the Minister must ensure that such consultation as is reasonable and practicable in the circumstances has been undertaken, but section 163 does not apply to an order under this section.
 (7) In the case of inconsistency between a Ministerial order under this section and any other regulated control scheme, the Ministerial order prevails.
 (8) A Ministerial order may be amended in the same manner as it was made.
 (9) Despite anything in clause 5 of Schedule 6 of the Public Service Act 2020, the Minister may not delegate to any other person the power to make orders under this section, or to extend or revoke such orders.
-(10) An order made under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(10) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an order under this section:
+  (b) a notice under subsection (5)﻿(b).
 
 ## Part 4 — Animal product standards
 
@@ -799,6 +811,7 @@ Standards set under this Part may apply in respect of any class or description o
   (b) the desirability of facilitating market access:
   (c) the desirability of maintaining consistency between New Zealand animal product standards and any relevant standards, requirements, or recommended practices that apply or are accepted internationally:
   (d) such other matters as the Minister considers relevant.
+(8) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (8)
 
 ### 45 Director-General may issue specifications supplementary to animal product standards
@@ -815,19 +828,19 @@ Standards set under this Part may apply in respect of any class or description o
     (ii) otherwise effectively alleviate or minimise the relevant risk.
 (2) Any such order may contain any matter that could be included in regulations made under section 44 or a supplementary notice.
 (3) Any such order must as soon as practicable be—
-  (a) either published or notified in the Gazette; and
+  (a)
   (b) to the extent practicable, brought to the attention of all persons likely to be affected by it.
-(4) If the order is notified only, and not published, in the Gazette,—
-  (a) the Director-General must make copies of the order available for inspection free of charge, and for purchase at a reasonable cost, at the head office of the Ministry and at such other places as the Director-General determines as necessary or appropriate; and
-  (b) the Gazette notice must specify where a copy of the order may be inspected or obtained.
+(4)
 (5) A Ministerial order under this section—
-  (a) takes effect on such day as may be specified in the order (which may not be earlier than the day it is notified or published in the Gazette, except in the case of any person affected who has been supplied with a copy of the order at any earlier time); and
-  (b) unless sooner revoked, expires at the end of 6 months after the date of its publication or notification in the Gazette, unless extended by the Minister by notice in the Gazette for a further period not exceeding 6 months (at the end of which period it expires).
+  (a) takes effect on such day as may be specified in the order (which may not be earlier than the day it is published under the Legislation Act 2019, except in the case of any person affected who has been supplied with a copy of the order at any earlier time); and
+  (b) unless sooner revoked, expires at the end of 6 months after the date of its publication under the Legislation Act 2019, unless extended by the Minister by notice for a further period not exceeding 6 months (at the end of which period it expires).
 (6) Before making an order under this section, the Minister must ensure that such consultation as is reasonable and practicable in the circumstances has been undertaken, but section 163 does not apply to an order under this section.
 (7) In the case of inconsistency between a Ministerial order under this section and any animal product standard or supplementary notice, the Ministerial order prevails.
 (8) A Ministerial order may be amended in the same manner as it was made.
 (9) Despite anything in clause 5 of Schedule 6 of the Public Service Act 2020, the Minister may not delegate to any other person the power to make orders under this section, or to extend or revoke such orders.
-(10) An order made under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(10) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an order under this section:
+  (b) a notice under subsection (5)﻿(b).
 
 ## Part 5 — Export of animal material and products
 
@@ -863,6 +876,7 @@ The object of this Part is to facilitate sustainable international trade in anim
   (a) in the interests of protecting the health of humans or animals, or otherwise to ensure the fitness for intended purpose of the animal product concerned; or
   (b) for the purpose of facilitating access to overseas markets; or
   (c) to protect the integrity or reputation of New Zealand exports of animal material and products.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 50 Director-General may exempt certain consignments, animal material or animal products, or persons
 (1) The Director-General may, by notice under section 167(1), exempt from all or any of the requirements of this Part any particular consignment or animal material or product or person, or class of consignments or animal material or products or persons, if the Director-General is satisfied that the consignment or animal material or product to be exported is—
@@ -975,19 +989,21 @@ If a person acting under the delegated authority of the Director-General refuses
 (2) The Director-General may, in the notice, specify the manner in which the export requirements may or must be met, when this may or must occur, who is responsible for ensuring the requirements are met, and any recording requirements that are to be complied with.
 (3) The Director-General may, in the notice, specify requirements that the Director-General is satisfied are necessary or desirable for the purpose of maintaining consistency with any standards, requirements, or recommended practices that apply or are accepted internationally.
 
-### 60A Director-General to notify or make available export requirements
-(1) The Director-General must—
-  (a) either notify or ensure that there is made available to registered exporters any notices specifying export requirements; and
-  (b) make those notices available for inspection free of charge, or for purchase at reasonable cost, to such exporters, operators of risk management programmes, and other persons as are affected by the requirements.
-(2) Nothing in subsection (1) prevents the Director-General from—
-  (a) charging for access to any website, or for information or services provided by any website; or
-  (b) in the case of export requirements that are commercially sensitive, limiting access to those requirements to persons who satisfy the Director-General that their specific export or processing activities cannot be properly undertaken under this Act unless they have that access.
+### 60A Publication, etc, of notices specifying export requirements
+(1) A notice made under section 167(1) for the purposes of section 60 must be published under the Legislation Act 2019 (see section 167(6)).
+(2) However, if, under the Legislation Act 2019, the notice is not required to be published, the Director-General—
+  (a) must make it available for inspection free of charge, or for purchase at reasonable cost, to any exporters, operators of risk management programmes, and other persons who—
+    (i) are affected by the requirements; and
+    (ii) satisfy the Director-General that their specific export or processing activities cannot be properly undertaken under this Act unless they have that access; and
+  (b) is not required to make it available to any other person.
+(3) This section does not prevent the Director-General from charging for access to any Internet site or for information or services provided by any Internet site.
 
 ### 60B Exemption from animal product standards where appropriate
 (1) The Director-General may, by notice under section 167(1), exempt any 1 or more classes or descriptions of animal material or animal product that is intended for export from New Zealand from the requirements of any animal product standard or supplementary notice.
 (2) The Director-General may do so only if satisfied that it is appropriate to do so having regard to the requirements of the relevant overseas market.
 (3) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations granting exemptions of the kind referred to in subsection (1).
 (4) The Minister may not recommend the making of regulations under subsection (3) unless satisfied that it is appropriate to do so having regard to the requirements of the relevant overseas market.
+(5) Regulations under subsection (3) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 61 Director-General may issue official assurances
 (1) The Director-General, or a person authorised by the Director-General under section 65, may issue an official assurance in respect of animal material or animal product.
@@ -1257,6 +1273,7 @@ A regulated person must, as and when required by regulations made under section 
     (ii) the conducting of simulations and other tests of those procedures:
     (iii) the implementation of those procedures to trace or recall animal material or animal products:
   (c) specify matters in relation to tracing and recall that must be included in risk management programmes (see section 17).
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 2 — Verification
 
@@ -1287,6 +1304,7 @@ A person who is subject to verification requirements under this Act must—
   (d) set out matters relating to the rights of verifiers and verifying agencies in relation to the undertaking of verification activities:
   (e) set reporting requirements for verifiers (see section 112H):
   (f) set out requirements relating to the exercise, carrying out, and managing of verification functions and activities (see sections 112G and 112H).
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 3 — Record keeping and reporting
 
@@ -1316,6 +1334,7 @@ A person who is subject to verification requirements under this Act must—
     (ii) how, and for how long, the information must be kept:
     (iii) what information must be given under section 77G(1)﻿(c) and when, how, and to whom it must be given:
   (b) specify matters in relation to record keeping and reporting that must be included in risk management programmes (see section 17).
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 7 — Officers, powers, etc
 
@@ -1400,9 +1419,17 @@ The Director-General may issue notices under section 167.
   (b) include a requirement for the recipient of the notice to notify the Director-General when all or any of the risk source is disposed of.
 (6) The notice continues in force until revoked, or until such earlier time as is specified in the notice.
 (7) A notice may be amended or revoked in the same manner as that in which it was issued.
-(8) Section 164(2) to (4) applies to the issue of notices under this section as if—
-  (a) they were notices made under section 167(1); and
-  (b) section 164(3) applied in cases where it was not possible, reasonable, or practical to notify a matter in accordance with section 164(2).
+(8) If a notice under this section affects only 1 person or a small number of persons and the identity of the person or persons is known, the Director-General must—
+  (a) notify the person or persons of the matter individually in accordance with section 165; and
+  (b) either—
+    (i) supply them with a copy of the notice; or
+    (ii) notify them where they may inspect a copy free of charge (which may include inspection by electronic means) or obtain a copy on payment of a reasonable charge.
+(8A) If it is not possible, reasonable, or practical to give notice in accordance with subsection (8), the Director-General must—
+  (a) publish the notice, or notification that it has been issued, in the Gazette; and
+  (b) where the Director-General considers it practicable, cause the notice to be brought to the attention of persons likely to be affected by it by notice or publication in any newspaper or trade journal or by any other practicable means (including electronic means).
+(8B) If the notice is not published in full in the Gazette,—
+  (a) the Director-General must make copies available for inspection free of charge, and for purchase at a reasonable cost, at the head office of the Ministry and at any other places that the Director-General determines; and
+  (b) the Gazette notice must specify where a copy may be inspected or obtained.
 (9) For the purposes of this section,—
   (a) the Director-General may approve systems for particular notices to be issued automatically on the occurring of a particular event or set of circumstances that indicates the likelihood of a particular risk source arising and the need for measures that will minimise the risk; and
   (b) any notices so issued are deemed to be issued by the Director-General under this section.
@@ -2133,6 +2160,7 @@ The methods by which costs may be recovered under this Part are as follows:
   (e) differ depending on the amount of service required or the components of the service required for the particular person or class of person.
 (4A) Where regulations prescribe a formula for determining a fee or charge, the formula may specify the value of 1 or more of its components as being an amount or amounts notified for those components by the Director-General by notice under section 167(1).
 (5) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of sections 113 and 115 have been met.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 118 Regulations may impose levies
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing levies for the purposes of this Act, including levies payable on an ongoing basis by a person given a particular status under this Act (for example, for ongoing registration under Part 2 or 5, for ongoing listing under Part 6, or for ongoing recognition under Part 8).
@@ -2148,6 +2176,9 @@ The methods by which costs may be recovered under this Part are as follows:
     (ii) the amount of levy any person is required to pay or collect;—
 (4) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of sections 113 and 115 have been met.
 (5) Where regulations prescribe a formula for determining a levy, the formula may specify the value of 1 or more of its components as being an amount or amounts notified for those components by the Director-General by notice under section 167(1).
+(6) Regulations under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 119 Trust accounts required to be kept by persons collecting levies
 (1) Where regulations made under section 118 require the operation of a trust account for any levy money by the person responsible for collecting the levy,—
@@ -2170,7 +2201,12 @@ The methods by which costs may be recovered under this Part are as follows:
 ### 121 Exemptions, waivers, and refunds
 (1) The regulations may provide for exemptions from, or waivers or refunds of, any fee, levy, or charge payable under this Act, in whole or in part, in any class of case.
 (2) Any such regulations may authorise the Director-General to grant an exemption, waiver, or refund in any particular case or class of case.
-(3) An exemption or a waiver granted under this section expires on the date specified in it, which must not be more than 5 years after the exemption is granted.
+(3) An exemption or a waiver granted under this section expires on the date specified in it, which must not be more than 5 years after—
+  (a) the exemption or waiver is granted; or
+  (b) if the instrument granting the exemption or waiver is secondary legislation, the instrument is published under the Legislation Act 2019.
+(4) If the regulations authorise the Director-General to grant an exemption, waiver, or refund under subsection (2),—
+  (a) the instrument granting an exemption, waiver, or refund is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the instrument applies only to a particular case; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 122 Fees, levies, and charges to constitute debt due to Director-General
 Any fee, levy, or charge that has become payable is a debt due to the Director-General, and is recoverable as a debt by the Director-General in any court of competent jurisdiction. Until paid in full, it remains a debt due to the Crown.
@@ -2190,10 +2226,7 @@ Any fee, levy, or charge that has become payable is a debt due to the Director-G
 The obligation of a person to pay any fee, levy, or charge under this Act (including any penalty referred to in section 123), and the right of the Director-General to receive and recover the fee, levy, charge, or penalty, are not suspended by any dispute between the person and the Director-General regarding the person's liability to pay the fee, levy, or charge, or the amount of the fee, levy, or charge.
 
 ### 125 Levy regulations are confirmable instruments
-The explanatory note of regulations made under section 118 must indicate that—
-  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ## Part 10 — Offences, penalties, and proceedings
 
@@ -2246,11 +2279,12 @@ The explanatory note of regulations made under section 118 must indicate that—
 All infringement fees paid for infringement offences must be paid to the Ministry.
 
 ### 125E Regulations about infringement offences
-The Governor-General may, by Order in Council, make regulations to do all or any of the following:
+(1) The Governor-General may, by Order in Council, make regulations to do all or any of the following:
   (a) identify the offences in or under this Act that are infringement offences:
   (b) identify as an infringement offence an offence against section 135 for failing to comply with a specified provision, direction, condition, notice, or requirement:
   (c) set out notices and forms required for the purposes of sections 125A to 125D:
   (d) set out the amounts, up to $1,000, of infringement fees that are payable for infringement offences, including different fees for a first offence, a second offence, and subsequent offences.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Offences**
 
@@ -2433,7 +2467,7 @@ In any proceedings for an offence against this Act relating to the sale of anima
 ### 141 Presumption as to authority
 (1) A return, record, transaction, form, application, or other information purporting to be completed, kept, or provided by or on behalf of a person is for the purposes of this Act to be presumed to have been completed, kept, or provided by that person unless the contrary is proved.
 (2) The production of—is in all courts and in all proceedings sufficient evidence, until the contrary is proved, of the existence, notification, and contents of the notice.
-  (a) any document presented by an animal product officer purporting to be a notice or an extract from a notice issued by the Director-General in accordance with section 164 or section 167, or a copy of any such notice or extract; and
+  (a) any document presented by an animal product officer purporting to be a notice or an extract from a notice issued by the Director-General in accordance with section 167, or a copy of any such notice or extract; and
   (b) a copy of the Gazette in which the notice was notified—
 
 ### 142 Liability of body corporate
@@ -2544,9 +2578,11 @@ Except where the court making the order appealed from otherwise directs,—
   (b) every compliance order may be enforced in the same manner in all respects as if no such appeal were pending.
 
 ### 157 Rules of court
-In addition to all other powers conferred by the District Court Act 2016, the Governor-General may from time to time, by Order in Council, make rules—
+(1) In addition to all other powers conferred by the District Court Act 2016, the Governor-General may from time to time, by Order in Council, make rules—
   (a) regulating the practice and procedure of the District Court in proceedings under this Act that relate to compliance orders:
   (b) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act that relate to compliance orders.
+(2) Rules under subsection (1)﻿(b) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3) As to rules referred to in subsection (1)﻿(a), see section 228 of the District Court Act 2016, which provides that court rules are secondary legislation.
 
 ## Part 11 — Miscellaneous provisions
 
@@ -2686,20 +2722,9 @@ In addition to all other powers conferred by the District Court Act 2016, the Go
 (6) A failure to comply with this section does not affect the validity of any Order in Council, regulations, or notice.
 
 ### 164 Notification of notices under section 167
-(1) This section applies to notices issued by the Director-General under section 167 (other than notices in relation to the matters set out in section 60).
-(2) Where any notice to which this section applies affects only 1 person or a small number of persons, and the identity of those persons is known, the Director-General must—
-  (a) notify the persons of the matter individually in accordance with section 165; and
-  (b) either—
-    (i) supply them with a copy of the notice; or
-    (ii) notify them where they may inspect a copy free of charge (which may include inspection by electronic means) or obtain a copy on payment of a reasonable charge.
-(3) For any other notice, the Director-General must—
-  (a) publish the notice, or notification that it has been issued, in the Gazette; and
-  (b) where the Director-General considers it practicable, cause the notice to be brought to the attention of persons likely to be affected by it by notice or publication in any newspaper or trade journal, or by any other practicable means (including electronic means).
-(4) If the notice is not published in full in the Gazette,—
-  (a) the Director-General must make copies available for inspection free of charge, and for purchase at a reasonable cost, at the head office of the Ministry and at such other places as the Director-General determines; and
-  (b) the Gazette notice must specify where a copy may be inspected or obtained.
+[Repealed]
 
-### 165 Service of individual notices, etc
+### 165 Service of individual notices, etc, that are not secondary legislation
 (1) Where under any of the provisions of this Act any notice or other document or information is to be served on or supplied to the Minister, the Director-General, an animal product officer, or an official assessor, it may be delivered, whether personally, by post, or by electronic means acceptable to the Director-General, to an animal product officer or official assessor at an appropriate office of the Ministry.
 (2) Where under any of the provisions of this Act any person is to be notified of any matter, written notice of that matter may be given or supplied to the person either personally or by post or facsimile addressed to that person, or by electronic means acceptable to the person, at—
   (a) the person's address or electronic address as notified under this Act, in the case of an operator of a registered risk management programme, or a registered exporter or a listed homekill or recreational catch service provider; or
@@ -2819,7 +2844,11 @@ In addition to all other powers conferred by the District Court Act 2016, the Go
   (oa) specifying decisions as decisions that are subject to review under section 162:
   (ob) permitting supplementary notices to be made to supplement specified provisions of the regulations (see section 167(2)﻿(b)):
   (p) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (2)
+(3) If the regulations permit the making of supplementary notices under subsection (1)﻿(ob),—
+  (a) those supplementary notices are secondary legislation because of section 167(6); and
+  (b) the regulations must contain a statement to that effect.
 
 ### 166A Scope of regulations
 (1) Regulations made under this Act may do any or all of the following:
@@ -2836,6 +2865,9 @@ In addition to all other powers conferred by the District Court Act 2016, the Go
   (a) apply generally, or in relation to any specified, or specified class of, animal materials, animal products, persons, places, businesses, processes, operations, activities, or other matters or things:
   (b) make the same provision for all cases or different provisions for different cases or classes of case.
 (3) If a provision of this Act permits regulations to prescribe requirements, the regulations may prescribe requirements, specifications, criteria, procedures, conditions, or other matters of a similar kind.
+(4) If regulations under this Act authorise a person to exercise any of the powers described in subsection (1)—
+  (a) the instrument by which the power is exercised is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the instrument applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 167 Notices
 (1) The Director-General may issue notices under this subsection to do anything that a provision of this Act permits to be done by notice under this subsection.
@@ -2852,16 +2884,18 @@ In addition to all other powers conferred by the District Court Act 2016, the Go
   (a) apply generally, or in relation to any specified, or specified class of, animal materials, animal products, persons, businesses, activities, or other matters or things:
   (b) make the same provision for all cases or different provisions for different cases or classes of case:
   (c) impose any conditions, restrictions, or prohibitions.
-(6) A notice issued under this section (other than one in relation to the matters set out in section 60) must be notified in accordance with section 164.
+(6) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the notice—
+  (a) is issued for the purposes of section 14, 24, 50, 60B, 81A, or 112Y; and
+  (b) applies only to a particular named person.
+(6A) A notice for the purposes of section 14 that is secondary legislation may have effect in accordance with section 14(4) even if it is not yet published.
 (7) If a notice issued under this section is inconsistent with the regulations, the regulations prevail to the extent of the inconsistency.
 
-### 167A Application of Legislation Act 2012 to notices
-(1) The following notices issued under section 167(1) are neither disallowable instruments nor legislative instruments for the purposes of the Legislation Act 2012 and do not have to be presented to the House of Representatives under section 41 of that Act:
-  (a) a notice issued for the purposes of section 38(2)﻿(b) or 60:
-  (b) a notice that—
-    (i) is issued for the purposes of section 14, 24, 50, 81A, or 112Y; and
-    (ii) applies only to a particular named person.
-(2) Any other notice issued under section 167(1), and any notice issued under section 167(2), is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+### 167A Notification of notices under section 167
+(1) This section applies to a notice issued under section 167, other than a notice for the purposes of section 60.
+(2) If the notice is secondary legislation, in addition to complying with the Legislation Act 2019, the Director-General must (if the Director-General considers it practicable) cause it to be brought to the attention of persons likely to be affected by it—
+  (a) by a notice or publication in any newspaper or trade journal; or
+  (b) by any other practicable means (including electronic means).
+(3) If the notice is not secondary legislation (see section 167(6)), the Director-General must give a copy of it to the person named in it.
 
 ### 168 Incorporation of material by reference into regulations, notices, and orders
 (1) The following material may be incorporated by reference into any regulations, notice, or order (all referred to in this section as instruments) made or given under this Act:
@@ -2887,10 +2921,8 @@ In addition to all other powers conferred by the District Court Act 2016, the Go
 (4) The Director-General may comply with subsection (3)﻿(b) by providing a hypertext link from an Internet site maintained by or on behalf of the Ministry to a copy of the material that is available, free of charge, on an Internet site maintained by or on behalf of someone else.
 (5) The Director-General is not required to comply with subsection (3)﻿(b) or (c) if doing so would infringe copyright in the material or be inconsistent with any other enactment or rule of law.
 
-### 168B Application of Legislation Act 2012 to incorporating instruments and incorporated material
-(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in an instrument under section 168 or to an amendment to that material.
-(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to an instrument that incorporates material by reference.
-(3) However, nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in an instrument to be presented to the House of Representatives.
+### 168B Application of Legislation Act 2019 to material incorporated by reference
+Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in an instrument made under section 168 merely because it is incorporated.
 
 **Repeals, amendments, and transitional provisions**
 
@@ -2967,6 +2999,7 @@ In this clause and clauses 3 to 5,—
   (a) that, with or without modification, replaces or corresponds to the enactment under which the notice was made; and
   (b) under which the notice could be made.
 (3) An Order in Council cannot be made under this clause on or after the 4-year date.
+(4) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule
 
