@@ -1,5 +1,5 @@
 # Estate and Gift Duties Act 1968
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to estate duty and gift duty
 
@@ -467,6 +467,7 @@ Where the Commissioner is satisfied that any gift is made for or towards the mai
   (m) any gift to the trustee of the Tokelau International Trust Fund, as defined in section YA 1 of the Income Tax Act 2007, for the purposes of that trust:
   (n) any gift to the trustee of the Niue International Trust Fund, as defined in section YA 1 of the Income Tax Act 2007, for the purposes of that trust:
   (o) any gift to an organisation that is a donee organisation as defined in section YA 1 of the Income Tax Act 2007.
+(3) An order under subsection (2)﻿(k)﻿(ii) or (ka)﻿(ii) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 73B Exemption for certain gifts of trading stock
 A gift by a person to a person who is not an associated person under the Income Tax Act 2007 shall not constitute a dutiable gift if the gift is—
