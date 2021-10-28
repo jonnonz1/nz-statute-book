@@ -1,5 +1,5 @@
 # Boxing and Wrestling Act 1981
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to make better provision for regulating the promotion and conduct of boxing and wrestling contests, and to abolish the regulation of certain amateur wrestling contests
 
@@ -58,12 +58,13 @@ Every person who commits an offence against this Act is liable on conviction to 
 In any case to which section 9 applies, the constable executing the warrant or any of his assistants may, without further warrant, arrest any person found on the premises if he has reasonable ground to believe that that person is committing or has committed an offence against this Act or any regulations made under it.
 
 ### 11 Regulations
-The Governor-General may, from time to time by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, from time to time by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the constitution, articles, rules, powers, or functions of associations generally:
   (b) prescribing fees payable by an association in respect of any application made under this Act:
   (c) prescribing rules for the promotion or conduct of contests:
   (d) prescribing offences in respect of contravention of or non-compliance with any regulations made under this Act; and prescribing penalties not exceeding the amount specified in section 8 in respect of any offences prescribed under this paragraph:
   (e) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 12 Repeals, amendment, revocation, and savings
 (1) The enactments specified in the Schedule are hereby repealed.
