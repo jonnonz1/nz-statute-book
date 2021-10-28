@@ -1,5 +1,5 @@
 # Marine and Coastal Area (Takutai Moana) Act 2011
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ## Preamble
 (1) In June 2003, the Court of Appeal held in Attorney-General v Ngāti Apa [2003] 3 NZLR 643 that the Māori Land Court had jurisdiction to determine claims of customary ownership to areas of the foreshore and seabed. The Foreshore and Seabed Act 2004 (the 2004 Act) was enacted partly in response to the Court of Appeal’s decision:
@@ -242,7 +242,7 @@ This Act binds the Crown.
   (c) a reserve within the meaning of section 2 of the Reserves Act 1977.
 (2) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, vest in the Crown any defined area to which this section applies other than an area that is within a customary marine title area.
 (3) When an Order in Council made under this section comes into force, the defined area to which it relates ceases to be part of the common marine and coastal area.
-(4) Every Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 13 Boundary changes of marine and coastal area
 (1) This Act (other than section 11(4)) does not affect any enactment or the common law that governs accretions or erosions.
@@ -1310,6 +1310,7 @@ Obligations with respect to relevant regional documents
     (ii) the area to which the agreement relates, with a map or diagram that is sufficient to identify the area; and
   (b) in the case of an agreement to recognise customary marine title, by an Act of Parliament on the date specified in the enactment.
 (2) The responsible Minister must introduce legislation into Parliament that contains the full text of the agreement for the purpose of subsection (1)﻿(b).
+(3) An order under subsection (1)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 97 Notification of agreement recognising protected customary rights
 The responsible Minister must, without delay, provide a copy of any agreement recognising a protected customary right and brought into effect under section 96(1)﻿(a) to—
@@ -1541,6 +1542,7 @@ A recognition order must be sealed—
   (j) prescribing the information that the chief executive may require for the purposes of section 114:
   (k) providing for any other matters contemplated by this Act or necessary for giving it full effect.
 (2) Regulations made under subsection (1) must be made on the advice of the Minister of Justice, after consultation with the responsible Minister who must consult with the customary marine title groups that appear to the Minister to be likely to be affected by the regulations.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 119 Minister of Conservation to perform residual management functions
 (1) The Minister of Conservation may perform a managerial or administrative function provided for or contemplated by this Act or by any regulations or bylaws made under section 120 or 121 in respect of the common marine and coastal area but only if, and to the extent that, the same or similar function is not conferred on the local authority or other person with responsibility for the relevant part of the common marine and coastal area in which the function is to be performed.
@@ -1558,9 +1560,10 @@ A recognition order must be sealed—
 (2) The Minister of Conservation must not make a recommendation under subsection (1) unless satisfied that—
   (a) the proposed regulations are necessary for the proper management of the common marine and coastal area or of the specified part to which the proposed regulations relate; and
   (b) the objectives of the proposed regulations cannot be, or are not being, achieved under an existing enactment.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 121 Bylaws
-(1) The Minister of Conservation may, by notice in the Gazette, make bylaws for any specified part of the common marine and coastal area for all or any of the following purposes:
+(1) The Minister of Conservation may make bylaws for any specified part of the common marine and coastal area for all or any of the following purposes:
   (a) prohibiting or regulating the use or parking of vehicles in a specified part of the common marine and coastal area:
   (b) regulating the use or mooring of vessels in the specified part of a common marine and coastal area:
   (c) prohibiting the hovering or landing of any aircraft, as defined in section 2 of the Civil Aviation Act 1990, over or in a specified part of the common marine and coastal area:
@@ -1568,6 +1571,7 @@ A recognition order must be sealed—
 (2) The Minister of Conservation must not make any bylaws under subsection (1) unless satisfied that—
   (a) the proposed bylaws are necessary for the proper management of the specified part of the common marine and coastal area to which the proposed bylaws relate; and
   (b) the objectives of the proposed bylaws cannot be, or are not being, achieved under an existing enactment.
+(3) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 122 Persons breaching regulations or bylaws may be directed to stop
 (1) If a person in the common marine and coastal area is engaging in an activity that the Director-General or a delegate of the Director-General has reasonable grounds to believe constitutes a breach of any regulations made under section 120 or any bylaws made under section 121, the Director-General or the delegate may direct the person to stop that activity.
