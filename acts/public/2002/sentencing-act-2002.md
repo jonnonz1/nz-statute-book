@@ -1,11 +1,12 @@
 # Sentencing Act 2002
-_Consolidation as at 2021-10-05_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
 
 ### 2 Commencement
-This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Sentencing purposes and principles, and provisions of general application
 
@@ -2034,7 +2035,7 @@ After considering a progress report, the Judge may order that the offender atten
     (iii) has produced that written authority to the offender.
 
 ### 80ZT Rules about drug and alcohol testing and monitoring
-(1) The chief executive may, by notice in the Gazette, make rules for all or any of the following purposes:
+(1) The chief executive may make rules for all or any of the following purposes:
   (a) prescribing, for the purposes of section 80ZO(2)﻿(a) and (c), 1 or more types of testing procedure that an offender to whom section 80ZO applies may be required to undergo:
   (b) specifying how often each of the prescribed testing procedures may be carried out:
   (c) prohibiting authorised persons from requiring an offender to undergo certain testing procedures if other less intrusive testing procedures are available and are sufficient in the circumstances:
@@ -2047,6 +2048,7 @@ After considering a progress report, the Judge may order that the offender atten
     (ii) psychoactive substances:
     (iii) alcohol.
 (2) In this section and in sections 80ZU and 80ZV, chief executive means the chief executive of the Department of Corrections.
+(3) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 80ZU Further provisions concerning rules about drug and alcohol testing and monitoring
 (1) Rules made under section 80ZT(1)﻿(a) may, without limitation, prescribe testing procedures that do all or any of the following:
@@ -2062,11 +2064,7 @@ After considering a progress report, the Judge may order that the offender atten
 (3) Subsection (1)﻿(b) overrides subsection (2)﻿(c).
 
 ### 80ZV Availability of rules about drug and alcohol testing and monitoring, and status under Legislation Act 2012
-(1) The chief executive must ensure that any rules made under section 80ZT are, while in force, made available—
-  (a) on an Internet site that is maintained by or on behalf of the Department of Corrections and that is, so far as practicable, publicly available free of charge; and
-  (b) for public inspection free of charge; and
-  (c) for purchase at a reasonable price.
-(2) Rules made under section 80ZT are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### Subpart 3 — Imprisonment
 
@@ -2514,9 +2512,10 @@ The Secretary must, for the purposes of this subpart, establish through the Trea
 The Secretary must ensure that money is paid out of the account, and that the account is otherwise operated, only as permitted or required by this subpart or by regulations made under section 105I.
 
 ### 105I Regulations on operation of account
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) providing for the circumstances and manner in which money may or must be paid out of the account:
   (b) providing for the manner in which, and the conditions subject to which, the Secretary may or must otherwise operate the account.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 105J Approval of agency
 (1) The Secretary may approve an organisation as an approved agency for the purposes of this subpart.
@@ -3408,12 +3407,13 @@ Nothing in this Act limits or affects the Royal prerogative of mercy.
 (2) A court may issue a certificate under this section on the application of the prosecutor, any interested person, or on its own initiative.
 
 ### 147 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing forms for the purposes of this Act:
   (b) prescribing the procedure for recording changes to registration details of a motor vehicle when an order for confiscation of a vehicle is made:
   (c) prescribing offences in respect of the contravention of, or non-compliance with, any regulations made under this Act and the amounts of fines that may be imposed in respect of those offences, which fines must not exceed $500:
   (ca) prescribing the amount of the levy payable under section 105B:
   (d) generally providing for any other matters that are contemplated by, or necessary for giving full effect to, this Act, and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Transitional and savings provisions**
 
