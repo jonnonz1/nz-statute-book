@@ -1,5 +1,5 @@
 # Geneva Conventions Act 1958
-_Consolidation as at 2014-04-23_
+_Consolidation as at 2021-10-28_
 
 > An Act to enable effect to be given to certain International Conventions done at Geneva on 12 August 1949 and to certain Protocols additional to those Conventions and for purposes connected therewith
 
@@ -13,8 +13,8 @@ This Act may be cited as the Geneva Conventions Act 1958.
   - **the Second Convention** means the Geneva Convention for the Amelioration of the Condition of Wounded, Sick, and Shipwrecked Members of Armed Forces at Sea, adopted at Geneva on 12 August 1949, a copy of which Convention (not including the annex to that Convention) is set out in Schedule 2
   - **the Third Convention** means the Geneva Convention relative to the Treatment of Prisoners of War, adopted at Geneva on 12 August 1949, a copy of which Convention (not including the annexes to that Convention) is set out in Schedule 3
   - **the Fourth Convention** means the Geneva Convention relative to the Protection of Civilian Persons in Time of War, adopted at Geneva on 12 August 1949, a copy of which Convention (not including the annexes to that Convention) is set out in Schedule 4
-  - **New Zealand aircraft** means any aircraft that is registered or required to be registered in New Zealand under the Civil Aviation Act 1990; and includes any aircraft belonging to or in the service of Her Majesty in right of New Zealand, whether a civil or a military aircraft
-  - **New Zealand ship** means a New Zealand ship or ship belonging to Her Majesty as those terms are defined in the Shipping and Seamen Act 1952; and includes an unregistered ship which is by Part 12 of that Act required to be registered in New Zealand or in some other Commonwealth country
+  - **New Zealand aircraft** means any aircraft that is registered or required to be registered in New Zealand under the Civil Aviation Act 1990; and includes any aircraft belonging to or in the service of the Sovereign in right of New Zealand, whether a civil or a military aircraft
+  - **New Zealand ship** means a New Zealand ship or ship belonging to the Sovereign as those terms are defined in the Shipping and Seamen Act 1952; and includes an unregistered ship which is by Part 12 of that Act required to be registered in New Zealand or in some other Commonwealth country
   - **protected internee** means a person protected by the Fourth Convention and interned in New Zealand
   - **protected prisoner of war** means a person protected by the Third Convention
   - **the Protecting Power** , in relation to a protected prisoner of war or a protected internee, means the Power or organisation which is carrying out, in the interests of the Power of which he or she is a national, or of whose forces he or she is, or was at any material time, a member, the duties assigned to Protecting Powers under the Third Convention or the Fourth Convention, as the case may be
@@ -116,7 +116,7 @@ This Act may be cited as the Geneva Conventions Act 1958.
 **Miscellaneous**
 
 ### 9 Regulations
-The Governor-General may, from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) providing for the assignment, remuneration, and disbursement of counsel for the purposes of section 5:
   (b) prescribing the form of flags, emblems, signs, signals, designations, designs, wordings, uniforms, and insignia for use for the purposes of the Conventions or the Protocols or both, and regulating their use:
   (c) prescribing the form of identification cards for use for the purposes of the Conventions or the Protocols or both, and regulating their use:
@@ -124,6 +124,7 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
   (e) providing for the keeping of such records, and the recording of such information, as are required to be kept or recorded under the Conventions or the Protocols:
   (f) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this section, and prescribing the amounts of the fines that may be imposed in respect of such offences, which fines shall be an amount not exceeding $1,000:
   (g) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 10 Application to Tokelau
 (1) This Act is in force in Tokelau.
