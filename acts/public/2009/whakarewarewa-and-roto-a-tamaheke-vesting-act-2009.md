@@ -1,5 +1,5 @@
 # Whakarewarewa and Roto-a-Tamaheke Vesting Act 2009
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ## Preamble
 (1) The Whakarewarewa Valley Land and the Roto-a-Tamaheke Reserve are of significant cultural, traditional, historical, and spiritual importance to Ngāti Whakaue and Tūhourangi Ngāti Wahiao:
@@ -22,7 +22,8 @@ _Consolidation as at 2021-01-30_
 This Act is the Whakarewarewa and Roto-a-Tamaheke Vesting Act 2009.
 
 ### 2 Commencement
-This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
