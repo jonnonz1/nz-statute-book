@@ -1,5 +1,5 @@
 # Radiocommunications Act 1989
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the management of the radio frequency spectrum
 
@@ -992,6 +992,7 @@ Every person commits an offence under this Act who transmits radio waves, otherw
 ### 115 Radiocommunication within territorial limits
 (1) The Governor-General may from time to time, by Order in Council, make regulations governing or prohibiting the use of radio apparatus on merchant ships, or on aircraft, of whatever nationality or registration, or on foreign ships of war or foreign military aircraft, while within the territorial limits of New Zealand.
 (2) Any such regulations may prescribe fines, not exceeding $20,000 in any case, for any breach of the regulations and provide for the detention of any merchant ship or civil aircraft on which a breach of the regulations has been made, pending the institution and determination of proceedings in respect of the breach and pending the recovery of any fine imposed in respect of the breach.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 116 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations—
@@ -1002,7 +1003,8 @@ Every person commits an offence under this Act who transmits radio waves, otherw
   (e) providing for the allocation of radio licences by competitive tender, auction, or by any other means, and for the payment of consideration to the Crown for the allocation:
   (f) providing for the making of applications for, and the granting of, radio licences, providing for the protection from harmful interference from co-channel emissions; and providing for the terms and conditions subject to which radio licences may be granted, amended, transferred, suspended, or revoked (including the amending of those terms and conditions):
   (g) prescribing offences in respect of contraventions of any regulations made under this section.
-(2) Without limiting the Interpretation Act 1999, no regulation made under this section shall be invalid because it leaves any matter to the discretion of the Secretary or any other person or because it authorises the Secretary or any other person to give any consent or approval or to set any standard on or subject to conditions to be approved by the Secretary.
+(2) No regulation made under this section is invalid because it leaves any matter to the discretion of the Secretary or any other person or because it authorises the Secretary or any other person to give any consent or approval or to set any standard on or subject to conditions to be approved by the Secretary.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 14 — Enforcement and remedies
 
@@ -1183,10 +1185,11 @@ Where any person is alleged to have committed an infringement offence, that pers
 (1B) The Governor-General may, by Order in Council, in accordance with a recommendation of the Minister, make regulations declaring receivers of any kind to be inappropriate receivers for the purposes of this Act.
 (1C) The Minister may only make a recommendation under subsection (1B) if the Minister is satisfied that the type of receiver concerned will or may compromise the optimal utilisation of the radio frequency spectrum.
 (1D) The power to regulate in relation to interfering equipment, susceptible equipment, or other equipment under subsection (1)﻿(g) includes the power to regulate in relation to such equipment that is, or may be, exported from New Zealand pursuant to the Conformity Cooperation Agreement.
-(2) Without limiting the Interpretation Act 1999, no regulation made under this section shall be invalid because it leaves any matter to the discretion of the Secretary or any other person or because it authorises the Secretary or any other person to give any consent or approval or to set any standard on or subject to conditions to be approved by the Secretary.
+(2) No regulation made under this section is invalid because it leaves any matter to the discretion of the Secretary or any other person or because it authorises the Secretary or any other person to give any consent or approval or to set any standard on or subject to conditions to be approved by the Secretary.
 (3) The Conformity Cooperation Agreement (including any amendments made to that agreement in accordance with it) and any standards or rules referred to in the Conformity Cooperation Agreement may be incorporated by reference in regulations made in reliance on subsection (1D).
 (4) The provisions of Schedule 8 apply to material incorporated by reference in regulations made in reliance on subsection (1D).
 (5) In this section, Conformity Cooperation Agreement means the Agreement between the Government of New Zealand and the Government of the People's Republic of China on Cooperation in the Field of Conformity Assessment in Relation to Electrical and Electronic Equipment and Components, which is Annex 14 of the Free Trade Agreement between the Government of New Zealand and the Government of the People's Republic of China done at Beijing on 7 April 2008.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 134AA Secretary may prescribe forms
 (1) The Secretary by notice in the Gazette may prescribe any forms (including infringement and reminder notices) that are not otherwise specifically prescribed.
@@ -1207,10 +1210,12 @@ Where any person is alleged to have committed an infringement offence, that pers
   - **broadcasting** has the same meaning as it has in the Broadcasting Act 1989
   - **New Zealand ship** has the same meaning as it has in the Maritime Transport Act 1994
   - **ship** has the same meaning as it has in the Maritime Transport Act 1994.
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 135 Regulations prescribing fees
 (1) The Governor-General may from time to time, by Order in Council, make regulations prescribing the matters in respect of which fees are payable under this Act; the amounts of those fees or the method by which they are to be assessed; and the persons liable for payment of the fees; and providing for the method of payment of, or the waiver or refund of any such fees by the Secretary or the Registrar.
 (2) Without limiting the generality of subsection (1), any regulations made under this section may make provision for the payment, by managers or rightholders or both (being persons who are broadcasters within the meaning of the Broadcasting Act 1989), of an annual fee payable to the Secretary, which fee may include an amount to cover the costs incurred by the Secretary in respect of measures taken to deal with interference with the reception of broadcast signals.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Recovery of fees**
 
@@ -1726,10 +1731,8 @@ Material incorporated by reference in regulations that expires or is revoked, or
   (c) if the material referred to in paragraph (a) or (b) is not in an official New Zealand language, as well as the material itself, an accurate translation of the material in an official New Zealand language.
 (3) A failure to comply with this clause does not invalidate regulations that incorporate material by reference.
 
-### 6 Application of Legislation Act 2012 to material incorporated by reference
-(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in regulations or to an amendment to, or replacement of, that material.
-(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations that incorporate material by reference.
-(3) However, nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in regulations to be presented to the House of Representatives.
+### 6 Application of Legislation Act 2019 to material incorporated by reference
+Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in regulations merely because it is incorporated.
 
 ### 7 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
 [Repealed]
