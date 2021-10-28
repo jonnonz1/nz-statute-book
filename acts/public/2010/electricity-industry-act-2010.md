@@ -1,5 +1,5 @@
 # Electricity Industry Act 2010
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Electricity Industry Act 2010.
@@ -368,7 +368,9 @@ The name, contact details, and business details of every person that, immediatel
 (4) Schedule 1 applies to any material incorporated by reference into the Code.
 
 ### 33 Status of Code
-(1) The Code is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(1) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) the Code:
+  (b) an amendment to the Code under section 38 or 40.
 (2) If any provision of the Code conflicts with this or any other Act, or with any regulation made under this or any other Act, the Act or regulation prevails.
 
 **Making and amending Code**
@@ -402,19 +404,13 @@ The name, contact details, and business details of every person that, immediatel
 (2) That Code is deemed to have been made by the Authority on that day.
 
 ### 37 Making Code accessible
-(1) The Authority must make the Code, and all amendments to it, publicly available.
-(2) The Minister must present a copy of the Code, and of all amendments to it, to the House of Representatives in accordance with section 4 of the Regulations (Disallowance) Act 1989.
-(3) The Authority may periodically issue and make publicly available consolidated versions of the Code with all amendments incorporated, in which case the consolidation must clearly show the date on which it is issued and when each amendment was made.
+[Repealed]
 
 ### 38 Authority amends Code
 (1) The Authority may amend the Code at any time, subject to section 39 of this Act and section 54V of the Commerce Act 1986.
 (2) An amendment may be an addition, an omission, a substitution, or a complete replacement.
-(3) An amendment is made by—
-  (a) publicising the amendment; and
-  (b) giving notice in the Gazette of—
-    (i) the date on which the amendment comes into force; and
-    (ii) a short summary of what the amendment contains or relates to.
-(4) An amendment may not come into force until a date that is at least 28 days after the date of the Gazette notice.
+(3)
+(4) An amendment may not come into force until a date that is at least 28 days after the date on which it is published under the Legislation Act 2019 (see section 33).
 
 ### 39 Consultation on proposed amendments
 (1) Before amending the Code, the Authority must—
@@ -431,11 +427,10 @@ The name, contact details, and business details of every person that, immediatel
   (c) there has been adequate prior consultation (for instance, by or through an advisory group) so that all relevant views have been considered.
 
 ### 40 Urgent amendments to Code
-(1) The Authority may amend the Code without complying with section 39(1) if—
-  (a) the Authority considers that it is necessary or desirable in the public interest that the proposed amendment be made urgently; and
-  (b) along with the notice of the amendment that is published in the Gazette under section 38(3)﻿(b), the Authority publishes a statement of the reasons why the urgent amendment is needed.
+(1) The Authority may amend the Code without complying with section 39(1) if the Authority considers that it is necessary or desirable in the public interest that the proposed amendment be made urgently.
 (2) Every amendment made under this section—
-  (a) comes into force on the date specified in the Gazette notice (despite section 38(4)), which may be any day after the date of that notice; and
+  (aa) must be published (as required under section 33) with a statement of the Authority’s reasons why the urgent amendment is needed; and
+  (a) is not subject to section 38(4); and
   (b) expires on the date that is 9 months after the date on which it comes into force.
 
 ### 41 Authority to publish consultation charter
@@ -468,7 +463,7 @@ The name, contact details, and business details of every person that, immediatel
 (1) The Minister may amend the Code by including provisions for any of the new matters identified in section 42(2) if—
   (a) the Minister considers that the Code's provisions for a new matter are not satisfactory; or
   (b) the Minister considers that, in light of the Authority's report given under section 42(1)﻿(b), it is necessary or desirable for the Minister to amend the Code to include provisions for the matter in the Code.
-(2) The Minister may amend the Code as if he or she were the Authority, and sections 37 to 40 apply accordingly.
+(2) The Minister may amend the Code as if he or she were the Authority, and sections 38 to 40 apply accordingly.
 (3) Before amending the Code, the Minister must—
   (a) consult with the Authority (in addition to any consultation required under section 39); and
   (b) be satisfied that the amendments will achieve the Authority's objective in section 15.
@@ -900,7 +895,7 @@ This Part extends to persons outside New Zealand who are involved in a distribut
 (4) The Authority may grant an exemption on any terms and conditions that it reasonably considers are necessary to give effect to the purpose of this Part.
 (5) The Authority may in like manner vary or revoke any such exemption.
 (6) The Authority must make publicly available a list of all current exemptions under this section.
-(7) An exemption under this section is neither a disallowable instrument nor a legislative instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(7)
 
 **Application of other Acts**
 
@@ -1059,18 +1054,21 @@ The trustees of a customer trust and the trustees of a community trust must, wit
 ### Subpart 1 — Regulations
 
 ### 109 Regulations identifying industry participants and market operation service provider roles
-The Governor-General may, by Order in Council made on the recommendation of the Minister, given after consulting the Authority, make regulations for the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, given after consulting the Authority, make regulations for the following purposes:
   (a) identifying which industry service providers, in addition to those listed in section 7(2), are industry participants:
   (b) identifying market operation service provider roles that are additional to those listed in the definition of market operation service provider in section 5.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 110 Class exemptions relating to registration and Code compliance
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister responsible for Part 2, given after receiving a recommendation from the Authority, make regulations that do either or both of the following:
   (a) identify a class of industry participants that is exempt from the obligation in section 9(1)﻿(a) to register:
   (b) identify a class of industry participants that is exempt from the obligation in section 9(1)﻿(b) to comply with the Code or specific provisions of the Code.
 (2) Regulations made under subsection (1)﻿(b) may exempt a class of industry participants from all or specified provisions of the Code.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 111 Class exemptions relating to membership of dispute resolution scheme
-The Governor-General may, by Order in Council made on the recommendation of the Minister of Consumer Affairs, make regulations identifying a class of industry participants that is exempt from the obligation in section 96(1) to be a member of a dispute resolution scheme.
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Consumer Affairs, make regulations identifying a class of industry participants that is exempt from the obligation in section 96(1) to be a member of a dispute resolution scheme.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 112 Regulations relating to monitoring, investigating, and enforcing Code
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister responsible for Part 2, given after consulting the Authority, make regulations for all or any of the following purposes:
@@ -1088,6 +1086,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 (2) The requirement in subsection (1) to consult with the Authority does not apply to the first regulations made under this section if—
   (a) the regulations largely correspond to Parts 4 to 8 of the Electricity Governance Regulations 2003, adapted as necessary for consistency with this Act; and
   (b) the Minister or the Electricity Commission has consulted with interested parties on any material changes.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 113 Regulations about tariffs and other consumer issues
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister given after the consultation referred to in subsection (4), make regulations for the purpose of—
@@ -1111,6 +1110,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   - **small business** means a non-domestic consumer that consumes less than 40 MWh per year.
 (6) If any material is incorporated by reference in the regulations, Schedule 1 applies.
 (7) The Electricity (Low Fixed Charge Tariff Option for Domestic Consumers) Regulations 2004 are deemed to have been made under this section.
+(8) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 114 Regulations promoting accountability in customer trusts and community trusts
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the purpose of promoting the accountability of customer trusts and community trusts.
@@ -1120,11 +1120,13 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (c) require trustees to hold meetings for beneficiaries, and regulate the practices and procedures associated with those meetings.
 (3) Regulations made under this section may include provisions necessary or desirable for monitoring and enforcing compliance with the regulations, including making it an offence, punishable by a fine not exceeding $10,000, to fail to comply with a requirement of the regulations.
 (4) If any material is incorporated by reference in the regulations, Schedule 1 applies.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 115 General regulation-making power
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the matters in respect of which fees or charges are payable under this Act or the regulations, the amounts of those fees or charges, or the method or rates by which they are to be assessed, the persons liable for payment of those fees or charges, and the circumstances in which the payment of the whole or any part of those fees or charges may be refunded or waived:
   (b) providing for such other matters as are contemplated by, or are necessary for giving full effect to, this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 2 — State-owned enterprise asset reconfiguration and miscellaneous matters
 
@@ -1198,11 +1200,11 @@ The purposes of sections 121 to 126 are—
   (d) either or both of Meridian and Genesis have recommended changes to the conditions after consultation with the consent authority; and
   (e) the Minister has considered any representations made by the consent authority by the date specified under section 121(5).
 (3) An order under this section—
-  (a) must be notified in the Gazette, and publicised by the Minister and the consent authority, as soon as practicable after it is made; and
+  (a)
   (b) takes effect on a date specified in the order (which may be on or before the date that the permits are transferred to Genesis under the Resource Management Act 1991 but may not be before the date of the notice in the Gazette); and
-  (c) takes effect as if it were a change to a condition that had been made by the consent authority; and
-  (d) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(4) The Minister must present a copy of the order to the House of Representatives in accordance with section 4 of the Regulations (Disallowance) Act 1989.
+  (c) takes effect as if it were a change to a condition that had been made by the consent authority.
+  (d)
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 123 Existing agreements with other parties in respect of Waitaki Power Scheme
 (1) This section and section 124 apply to the following (the existing agreements):
@@ -1287,6 +1289,10 @@ The purposes of sections 121 to 126 are—
 (6) The levy for a financial year that starts after the Authority begins to carry out any additional function under this Act or any other Act may cover the costs of performing that additional function, irrespective of the fact that the regulations may be made and come into effect after the start of the financial year.
 (7) The amount of any unpaid levy is recoverable in any court of competent jurisdiction as a debt due to the Authority on behalf of the Crown.
 (8) The Authority must pay into a Crown Bank Account, and separately account for, each levy payment.
+(9) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(10) If regulations authorise a person to grant exemptions or waivers referred to in subsection (5)﻿(h),—
+  (a) an instrument granting an exemption or a waiver is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only in a particular case; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 129 Authority consultation about request for appropriation
 (1) The Authority must, before submitting a request to the Minister seeking an appropriation of public money for the following year, or any change to an appropriation for the current year, that relates to costs that are intended to be recovered by way of levies under section 128, consult about that request with—
@@ -1662,19 +1668,21 @@ In this schedule, unless the context otherwise requires,—
 (3) A failure to comply with this clause does not invalidate the main document or any part of it.
 
 ### 5 Power to give effect to amendments to, or replacements of, material
-Legal effect may be given to an amendment to, or replacement of, material incorporated by reference into the main document if—
+(1) Legal effect may be given to an amendment to, or replacement of, material incorporated by reference into the main document if—
   (a) the amendment or replacement material is made by the person or organisation that made the original material; and
   (b) the amendment or replacement material is of the same general character as the original material; and
-  (c) the Agency, by notice in the Gazette, adopts the amendment or replacement material as having legal effect as part of the main document.
+  (c) the Agency, by notice, adopts the amendment or replacement material as having legal effect as part of the main document.
+(2) A notice under subclause (1)﻿(c) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 6 Effect of expiry of material incorporated by reference
-Material incorporated by reference into the main document that expires, is revoked, or ceases to have effect, ceases to have legal effect as part of the main document only if—
+(1) Material incorporated by reference into the main document that expires, is revoked, or ceases to have effect, ceases to have legal effect as part of the main document only if—
   (a) an amendment to the main document states that the material ceases to have that legal effect; or
-  (b) the Agency, by notice in the Gazette, states that the material ceases to have that legal effect.
+  (b) the Agency, by notice, states that the material ceases to have that legal effect.
+(2) A notice under subclause (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-### 7 Application of Legislation Act 2012
-(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference into the main document, or to any amendment to, or replacement of, the material.
-(2) Subpart 1 of Part 3 of the Legislation Act 2012, except section 41, applies to material incorporated by reference in the main document, or to any amendment to, or replacement of, the material.
+### 7 Application of Legislation Act 2019
+(1) Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material incorporated by reference into the main document, or to any amendment to, or replacement of, the material.
+(2)
 
 ### 8 Application of Regulations (Disallowance) Act 1989
 [Repealed]
@@ -2093,6 +2101,7 @@ The provider of the approved scheme must ensure that, at least once every 5 year
   (b) the Authority; and
   (c) any persons or their representatives that the Minister considers are likely to be substantially affected by the recommendation.
 (4) However, a failure to consult with the persons referred to in subclause (3)﻿(c) does not affect the validity of the regulations.
+(5) Regulations under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 19 Order in Council appointing provider of regulated scheme
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, appoint a person to provide the regulated scheme.
@@ -2100,6 +2109,7 @@ The provider of the approved scheme must ensure that, at least once every 5 year
   (a) is a formally constituted dispute resolution body; and
   (b) is capable of providing the scheme in accordance with the purpose in clause 1 and the rules of the scheme.
 (3) Before making a recommendation for an Order in Council, the Minister must consult with the Minister of Energy.
+(4) An order under subclause (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 20 Notice of intention to revoke appointment
 (1) An appointment made by Order in Council may not be revoked on the ground that the Minister has approved, or intends to approve, an approved scheme under clause 6 unless the Minister has given the scheme provider at least 3 months' notice in writing of the intention to revoke the appointment.
