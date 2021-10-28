@@ -1,5 +1,5 @@
 # Railways Act 2005
-_Consolidation as at 2021-04-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Railways Act 2005.
@@ -696,22 +696,24 @@ Unless the Director otherwise directs, the functions and duties of safety assess
 **Rules**
 
 ### 49 Minister's power to make ordinary rules
-In addition to the matters specified in section 152(a) to (g) of the Land Transport Act 1998, the Minister may make ordinary rules for the purposes of, or concerning,—
+(1) In addition to the matters specified in section 152(a) to (g) of the Land Transport Act 1998, the Minister may make ordinary rules for the purposes of, or concerning,—
   (a) safety and licensing, including, without limitation, the authorisation of rail participants and rail personnel, and technical requirements and standards for, or in relation to, all or any rail vehicles, railway premises, or railway infrastructure:
   (b) the prevention of interference with all or any railways or railway premises:
   (c) any other matter contemplated by a provision of this Act.
+(2) Ordinary rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 50 Rules concerning behaviour on railways or railway premises
-Without limiting the power to make ordinary rules under section 49, ordinary rules may—
+(1) Without limiting the power to make ordinary rules under section 49, ordinary rules may—
   (a) set out standards and requirements relating to the behaviour of individuals on railways or railway premises, including, without limitation, standards and requirements concerning the conduct of rail personnel, passengers, or other individuals working on or using railways or railway premises:
   (b) regulate all traffic and all classes of traffic, and prohibit traffic or a class of traffic, either absolutely or conditionally, on railways:
   (c) set out standards and requirements concerning the use of safety equipment by rail personnel, passengers, or other individuals working on or using railways or railway premises.
+(2) Ordinary rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 51 Rules concerning dangerous goods
 The rules made under the Land Transport Act 1998 in relation to the packing, loading, consignment, and carriage of dangerous goods apply to dangerous goods carried by a rail vehicle.
 
 ### 52 Rules concerning rail vehicles, railway premises, and railway infrastructure
-Without limiting the power to make ordinary rules under section 49, ordinary rules may—
+(1) Without limiting the power to make ordinary rules under section 49, ordinary rules may—
   (a) regulate the use of railway lines, and empower access providers to control, restrict, and prohibit the use of a railway line, and to close railway lines in specified circumstances or on specified occasions:
   (b) set out standards, specifications, or codes of practice for the safety performance, design, construction, inspection, alteration, maintenance, or use of railway infrastructure or railway premises:
   (c) set out standards, specifications, or codes of practice for personal security and access:
@@ -721,6 +723,7 @@ Without limiting the power to make ordinary rules under section 49, ordinary rul
   (g) set out standards and requirements concerning systems, components, devices, fittings, or equipment to be incorporated in the construction of, fitted to, or carried in or on, rail vehicles, or to be used by the driver or any other person:
   (h) set out procedures to verify compliance with standards and requirements of the rules:
   (i) provide for the recording of, and making available of, information about rail vehicles (including, without limitation, their systems, components, devices, fittings, and equipment).
+(2) Ordinary rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 53 Rules concerning authorisation, standard-setting, etc
 (1) Without limiting the power to make ordinary rules under section 49, ordinary rules may—
@@ -761,11 +764,12 @@ Without limiting the power to make ordinary rules under section 49, ordinary rul
     (ii) set out different fit and proper person assessments for different classes of rail documents, applicants, or licence holders:
   (c) provide for the issue, endorsement, alteration, replacement, surrender, expiry, suspension, and revocation of rail documents.
 (4) Subject to the rules, a rail document may be issued, or a document may be recognised as a rail document, by the Director for a period, and subject to the conditions, that the Director considers appropriate in each particular case.
+(5) Ordinary rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 54 Other provisions concerning ordinary rules
 (1) An ordinary rule may apply generally or to different classes of persons or things, or to the same class of person or things in different circumstances.
 (2) An ordinary rule may apply generally throughout New Zealand or within a specified part or parts of New Zealand.
-(3) The commencement of an ordinary rule may be wholly suspended until it is applied by the Minister by notice in the Gazette.
+(3) The commencement of an ordinary rule may be wholly suspended until it is applied by the Minister by notice (see subsection (8)).
 (4) An ordinary rule may—
   (a) require or provide for a matter to be determined, undertaken, or approved by the Agency, the Director, or any other person, and empower the Agency, the Director, or any other person to impose requirements or conditions on the performance of activities:
   (b) specify standards, procedures, and requirements for the purposes of the rules:
@@ -773,9 +777,10 @@ Without limiting the power to make ordinary rules under section 49, ordinary rul
   (d) specify the definitions, abbreviations, and units of measurement to apply within any or all railways or railway premises:
   (e) prescribe, or provide for the approval of, forms, documents, and records for the purposes of the rules:
   (f) make transitional and savings provisions for the purposes of implementing any rule.
-(5) An ordinary rule is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(5)
 (6) If a bylaw of a local authority is inconsistent with any ordinary rules in force in the same locality, the rules override the bylaws.
 (7) Despite clause 5 of Schedule 6 of the Public Service Act 2020, the Minister may not delegate his or her power to make ordinary rules under this Act.
+(8) A notice under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 55 Procedure concerning ordinary rules
 The procedure for making ordinary rules in section 161 of the Land Transport Act 1998 applies with any necessary modifications to all ordinary rules made by the Minister under sections 49 to 53.
@@ -783,8 +788,15 @@ The procedure for making ordinary rules in section 161 of the Land Transport Act
 ### 56 Agency may make emergency rules
 (1) The Agency may, in accordance with section 163 of the Land Transport Act 1998 (which applies with any necessary modifications), make any emergency rules that the Agency considers necessary to alleviate or minimise the risk of the death of, or serious injury to, individuals, or significant damage to property, caused by the operation of a railway or the use of railway premises.
 (2) The Agency may not make emergency rules unless it is impractical in the circumstances of the particular case for the Minister to make ordinary rules to effectively alleviate or minimise the risk concerned.
-(3) The Minister may revoke any emergency rule made under subsection (1), and the revocation must be notified as if it were an emergency rule.
-(4) An emergency rule is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) The Minister may revoke any emergency rule made under subsection (1).
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) emergency rules under subsection (1):
+  (b) a revocation under subsection (3).
+(5) If, for reasons of safety, it is impracticable or inappropriate to publish immediately an emergency rule or revocation under that Act, the Agency must serve a copy of it on the persons (if any) whom the Agency considers appropriate.
+(6) An emergency rule or revocation to which subsection (5) applies—
+  (a) has effect only in relation to a person on whom it is served under subsection (5); and
+  (b) comes into force in relation to that person immediately after it is served on the person (even if it is not yet published).
+(7) Service under subsection (5) may be effected in any way the Agency considers appropriate.
 
 ### 57 General provisions concerning making of rules
 The provisions of sections 164 and 165 of the Land Transport Act 1998 apply with any necessary modifications to all ordinary rules and all emergency rules made under this Act.
@@ -825,6 +837,7 @@ Without limiting any other method of proof, the production in proceedings of a c
   (m) specifying excluded railway lines:
   (n) providing for any other matters that are contemplated by, or necessary for giving full effect to, the provisions of this Act or for its due administration.
 (2) Regulations made under this section may incorporate material by reference and, for that purpose, section 165 of the Land Transport Act 1998 applies as if regulations were rules.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 60 Regulations relating to fees and charges for rail transport
 (1) Without limiting section 59, regulations may be made under that section prescribing, or providing for the fixing of, fees and charges payable for the purposes of meeting, or assisting in meeting, the costs and expenses incurred by the Agency, the Director, or the Crown in the performance or exercise of functions or powers, or in the performance of duties, or in the provision of services, under this Act or any other enactment relating to rail transport, including, without limitation, costs and expenses relating to any of the following:
@@ -1248,6 +1261,7 @@ For the purposes of sections 98 to 101, the Director may, by warrant, appoint an
   (a) Part 14 (comprising sections 175 to 183) of the Public Works Act 1981:
   (b) sections 44 and 45 of the Public Works Amendment Act 1988, and the heading above section 44 of that Act.
 (2) Subsection (1) comes into force on a date to be appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different paragraphs of that subsection into force on different dates.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 105 Issue of licences to persons holding rail service licences under Transport Services Licensing Act 1989
 (1) This section applies to a person who, immediately before the commencement of this Act,—
@@ -1322,6 +1336,7 @@ A proceeding commenced under a provision of the Transport Services Licensing Act
     (ii) a rail service vehicle or rail service vehicles must be read as if it were a reference to a rail vehicle or rail vehicles, as the case may be.
 (2) Regulation 9(l) of the Transport Services Licensing Regulations 1989 has effect as if it were a regulation made under section 59 exempting the rail participant referred to in that regulation from complying with Parts 1 and 2.
 (3) This section expires on a date specified by Order in Council.
+(4) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule 1AA — Transitional, savings, and related provisions
 
@@ -1333,7 +1348,6 @@ In this Part,—
   - **Director function** means any function, duty, or power of the Agency under this Act (or any secondary legislation made under this Act) that becomes a function, duty, or power of the Director—
     (a) on and from the transfer date; and
     (b) by operation of the amendment Act
-  - **secondary legislation** means regulations within the meaning of section 29 of the Interpretation Act 1999
   - **transfer date** means the date determined under section 2(2) of the amendment Act.
 
 ### 2 Matters, documents, decisions, etc, not affected by transfer of Director functions
