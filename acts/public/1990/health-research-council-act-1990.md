@@ -1,5 +1,5 @@
 # Health Research Council Act 1990
-_Consolidation as at 2014-12-07_
+_Consolidation as at 2021-10-28_
 
 > An Act—ato establish the Health Research Council of New Zealand and to define its functions and powers; andbto dissolve the Medical Research Council of New Zealand; andcto provide for matters incidental thereto
 
@@ -171,15 +171,15 @@ There is hereby established, as a committee of the Council, an Ethics Committee.
   (h) to perform any other functions (whether or not related to health research) it is for the time being—
     (i) given by or under any enactment; or
     (ii) authorised to perform by the Minister, by written notice to the Health Research Council after consultation with it.
-(1A) The Minister must, as soon as practicable after giving a notice to the Health Research Council under subsection (1)(h)(ii), publish a copy in the Gazette and present a copy to the House of Representatives.
-(2) The Ethics Committee or any ethics committee approved under subsection (1)(c) may, in carrying out an independent ethical assessment under paragraph (c) or paragraph (d) of subsection (1), consult, as it thinks fit, with other persons or bodies.
+(1A) The Minister must, as soon as practicable after giving a notice to the Health Research Council under subsection (1)﻿(h)﻿(ii), publish a copy in the Gazette and present a copy to the House of Representatives.
+(2) The Ethics Committee or any ethics committee approved under subsection (1)﻿(c) may, in carrying out an independent ethical assessment under paragraph (c) or paragraph (d) of subsection (1), consult, as it thinks fit, with other persons or bodies.
 
 ### 26 Membership of Ethics Committee
 (1) The members of the Ethics Committee shall comprise—
   (a) the Chairperson of the Council or a member of the Council nominated from time to time by the Chairperson of the Council:
   (b) 2 persons to be appointed from time to time by the Council, both of whom shall have qualifications in science and one of whom shall be a member of the Council:
   (c) 4 other persons, not being members of the Council, to be appointed from time to time by the Council.
-(2) In appointing persons under subsection (1)(b) or subsection (1)(c), the Council shall have regard to the need among the members of the Ethics Committee for a diversity of knowledge and experience in relation to ethics, philosophy, law, theology, nursing, women's health, patient advocacy, and tikanga Maori.
+(2) In appointing persons under subsection (1)﻿(b) or subsection (1)﻿(c), the Council shall have regard to the need among the members of the Ethics Committee for a diversity of knowledge and experience in relation to ethics, philosophy, law, theology, nursing, women's health, patient advocacy, and tikanga Maori.
 (3) The Ethics Committee shall from time to time appoint one of its members to be the chairperson of the Ethics Committee.
 
 **General provisions relating to committees**
@@ -202,7 +202,7 @@ There is hereby established, as a committee of the Council, an Ethics Committee.
 (1) Where an application for a grant for the purposes of health research is made to the Council, the Council—
   (a) shall refer that application to a research committee so that a scientific assessment of the health research may be made by that research committee; and
   (b) shall refer that application to the Ethics Committee so that that Committee may make, or arrange for the making of, an independent ethical assessment of the health research.
-(2) No application shall be granted unless the Council considers, after having regard to the scientific assessment made by the research committee to which the application was referred under subsection (1)(a) and to the independent ethical assessment made pursuant to subsection (1)(b), that—
+(2) No application shall be granted unless the Council considers, after having regard to the scientific assessment made by the research committee to which the application was referred under subsection (1)﻿(a) and to the independent ethical assessment made pursuant to subsection (1)﻿(b), that—
   (a) the scientific design of the proposed research is sound; and
   (b) the study is both relevant and feasible given the available resources; and
   (c) the research is ethically acceptable.
@@ -212,9 +212,9 @@ There is hereby established, as a committee of the Council, an Ethics Committee.
 ### 32 Reports on research
 (1) Every person who or organisation which receives a grant under this Act shall make available to the Council such information as the Council from time to time requires for the purpose of monitoring and evaluating the progress and outcome of the research.
 (2) Information made available pursuant to a requirement under subsection (1) shall be referred by the Council to—
-  (a) the research committee that made, in respect of the health research, the scientific assessment required by section 31(1)(a); and
+  (a) the research committee that made, in respect of the health research, the scientific assessment required by section 31(1)﻿(a); and
   (b) the Ethics Committee; and
-  (c) any committee that made, in respect of the health research, the independent ethical assessment required by section 31(1)(b).
+  (c) any committee that made, in respect of the health research, the independent ethical assessment required by section 31(1)﻿(b).
 (3) Those evaluations shall be taken into consideration when any future application by the grantee to the Council for a grant for the purposes of health research is being considered.
 
 ### 33 Availability of results of research
@@ -269,7 +269,8 @@ The provisions set out in Schedule 1 shall apply in respect of the Council.
 [Repealed]
 
 ### 43 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
+(1) The Governor-General may from time to time, by Order in Council, make regulations providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 2 — Dissolution of Medical Research Council of New Zealand
 
@@ -311,7 +312,7 @@ Subject to the other provisions of this Act, and unless in any case the context 
 
 ### 52 Consequential amendment to Ministry of Transport Act 1968
 (1) Amendment(s) incorporated in the Act(s).
-(2) Notwithstanding subsection (1), the person holding office immediately before the commencement of this Act as the member of the Road Traffic Safety Research Council appointed under section 13I(2)(g) of the Ministry of Transport Act 1968 shall, unless that person sooner vacates office under section 13I(3)(b) of that Act, continue in office as a member of that Council until the expiration of the term for which that person was appointed.
+(2) Notwithstanding subsection (1), the person holding office immediately before the commencement of this Act as the member of the Road Traffic Safety Research Council appointed under section 13I(2)﻿(g) of the Ministry of Transport Act 1968 shall, unless that person sooner vacates office under section 13I(3)﻿(b) of that Act, continue in office as a member of that Council until the expiration of the term for which that person was appointed.
 
 ### 53 Consequential amendments to Local Authorities (Members' Interests) Act 1968
 (1) Amendment(s) incorporated in the Act(s).
@@ -386,6 +387,7 @@ The Council is hereby declared to be a local authority for the purposes of the N
 (2) Except as provided in subsection (3), this Act shall come into force on the day on which it receives the Royal assent.
 (3) Subject to subsection (4), sections 5 to 7 shall come into force on a day to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made bringing different sections into force on different days.
 (4) A day may be appointed pursuant to subsection (3) bringing section 6 or section 7 into force only if the Governor-General is satisfied, at the time of the making of the Order in Council, that at least 50% of the shares in GCS Limited are no longer held by Ministers of the Crown on behalf of the Crown.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5)
 
 **Health reforms (transitional provisions)**
@@ -394,5 +396,5 @@ The Council is hereby declared to be a local authority for the purposes of the N
 (1) Schedule 4 of the Health Reforms (Transitional Provisions) Act 1993 is hereby amended, as from the commencement of that Schedule 4, by repealing the item relating to paragraph (b) of section 8(1) of the Health Research Council Act 1990.
 (2) Without limiting subsection (1), it is hereby declared that the repeal of paragraph (b) of section 8(1) of the Health Research Council Act 1990 by section 32 of the Health Reforms (Transitional Provisions) Act 1993 shall be deemed not to have affected—
   (a) the membership of the Health Research Council; or
-  (b) the validity of any appointment made under section 8(1)(b) of the Health Research Council Act 1990 (as substituted by section 3 of the Health Research Council Amendment Act 1991) in the period beginning on 1 July 1993 and ending with the commencement of this subsection; or
+  (b) the validity of any appointment made under section 8(1)﻿(b) of the Health Research Council Act 1990 (as substituted by section 3 of the Health Research Council Amendment Act 1991) in the period beginning on 1 July 1993 and ending with the commencement of this subsection; or
   (c) the validity of any action taken by the Council or any member of the Council in the period beginning on 1 July 1993 and ending with the commencement of this subsection.
