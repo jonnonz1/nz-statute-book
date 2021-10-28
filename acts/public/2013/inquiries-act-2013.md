@@ -1,5 +1,5 @@
 # Inquiries Act 2013
-_Consolidation as at 2020-08-26_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Inquiries Act 2013.
@@ -59,6 +59,7 @@ This Act binds the Crown.
   (c) government inquiries, which are established in accordance with subsection (3).
 (2) The Governor-General may, by Order in Council, establish a public inquiry for the purpose of inquiring into, and reporting on, any matter of public importance.
 (3) One or more Ministers may, by notice in the Gazette, establish a government inquiry for the purpose of inquiring into, and reporting on, any matter of public importance.
+(4) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Establishment instrument to establish inquiry
 (1) The establishment instrument to establish an inquiry must—
@@ -94,6 +95,7 @@ This Act binds the Crown.
     (i) in the case of a public inquiry, by the Governor-General by Order in Council; or
     (ii) in the case of a government inquiry, by the appointing Minister, by notice in the Gazette.
 (3) The power under subsection (2)﻿(a) or (b) must not be exercised if to do so would be contrary to the principles of natural justice.
+(4) An order under subsection (2)﻿(c)﻿(i) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 3 — Duties, powers, immunities, and privileges
 
