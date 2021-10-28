@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2021-04-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -189,12 +189,13 @@ The rate of New Zealand superannuation payable to a person is the appropriate ra
 (5) Every Order in Council made under subsection (2) has the force of law as if it was enacted by this Act.
 (6) Every Order in Council made under subsection (2) comes into force or is considered to come into force on 1 April of the calendar year in which it is made, and applies to New Zealand superannuation payable on and after that date.
 (7) See section 452 of the Social Security Act 2018, under which rates of New Zealand superannuation may be adjusted by Order in Council (including rates not required to be adjusted under this section).
+(8) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) comes into force in accordance with subsection (6), even if it is not yet published.
+(9) An order under subsection (2) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 15A Orders are confirmable instruments
-The explanatory note of an Order in Council made under section 15(2) must indicate that—
-  (a) it is a confirmable instrument, and an annual confirmable instrument, under section 47B of the Legislation Act 2012; and
-  (b) it is revoked, or taken to have been invalid for past operation, at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### 16 Annual adjustment of New Zealand superannuation: relationship to net average wage
 (1) The annual adjustment of New Zealand superannuation under section 15 must ensure that—
@@ -347,12 +348,13 @@ A person is not entitled to be paid New Zealand superannuation under section 26 
 (3) The Order in Council must state the date on which it takes effect, which may be a date before the date on which it is made.
 (4) The Order in Council applies to payments of New Zealand superannuation under section 31 payable on or after the date on which the order takes effect.
 (5) Every Order in Council made under subsection (2)﻿(a) has the force of law as if it was enacted by this Act.
+(6) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) comes into force in accordance with subsection (3), even if it is not yet published.
+(7) An order under subsection (2) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 30A Orders are confirmable instruments
-The explanatory note of an Order in Council made under section 30(2) must indicate that—
-  (a) it is a confirmable instrument, and an annual confirmable instrument, under section 47B of the Legislation Act 2012; and
-  (b) it is revoked, or taken to have been invalid for past operation, at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### 31 Entitlement to be paid New Zealand superannuation in specified Pacific country
 (1) A person entitled to receive New Zealand superannuation is entitled to be paid the benefit in a specified Pacific country at a rate calculated under section 32 if subsection (2) or subsection (3) or subsection (4) applies to the person.
@@ -409,6 +411,7 @@ A person being paid a benefit under section 31 is not entitled to receive any as
 ### 35A Regulations
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of section 4A(2)﻿(g).
 (2) The Governor-General may, by Order in Council, make regulations providing for any other matters contemplated by this Part, necessary for its administration, or necessary for giving it full effect.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 2 — New Zealand Superannuation Fund and Guardians of New Zealand Superannuation
 
@@ -717,6 +720,7 @@ The annual report of the Guardians prepared each financial year under Part 4 of 
 (3) The Minister must also make a recommendation to the Governor-General for an Order in Council to omit the name of a political party from Schedule 4 if the party is no longer represented in Parliament.
 (4) The Governor-General may, by Order in Council made on the recommendation of the Minister under subsection (2) or subsection (3), add names to, and omit names from, Schedule 4 in accordance with this section.
 (5) In this section, a reference to Part 2 is a reference to Part 2 to the extent that it relates to the Fund (rather than to the VCF).
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 73 Amendments to Act
 (1) The Minister must, on the introduction into the House of Representatives of a Government Bill that proposes an amendment to this Act, bring to the attention of the House the consultation process that was followed in the formulation of the proposed amendment.
