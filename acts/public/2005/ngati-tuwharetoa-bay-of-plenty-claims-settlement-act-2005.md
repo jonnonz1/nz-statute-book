@@ -1,5 +1,5 @@
 # Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ## Preamble
 (1) Kua whakatakotoria te Tiriti o Waitangi, tauira reo Māori, tauira reo Pākehā hoki, i roto i te Wāhanga Tuatahi o te Ture Tiriti o Waitangi 1975. I hainatia te Tiriti nei i te tau 1840:
@@ -987,20 +987,22 @@ The New Zealand Conservation Authority or relevant Conservation Board must consu
 (4) This section does not limit section 106(2).
 
 ### 108 Regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for the following purposes:
   (a) to provide for the implementation of objectives included in conservation documents under section 107(2):
   (b) to regulate or prohibit activities or conduct by members of the public in relation to the Owhakatihi:
   (c) to create offences in respect of the contravention of any regulations made under paragraph (b), and providing for the imposition of fines—
     (i) not exceeding $5,000 for those offences; and
     (ii) for a continuing offence, an amount not exceeding $50 for every day during which the offence continues.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 109 Bylaws
-The Minister of Conservation may make bylaws for the following purposes:
+(1) The Minister of Conservation may make bylaws for the following purposes:
   (a) to provide for the implementation of objectives included in conservation documents under section 107(1):
   (b) to regulate or prohibit activities or conduct by members of the public in relation to the Owhakatihi:
   (c) to create offences in respect of the contravention of any bylaws made under paragraph (b), and providing for the imposition of fines—
     (i) not exceeding $1,000 for those offences; and
     (ii) for continuing offences, an amount not exceeding $50 for every day during which the offence continues.
+(2) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 110 Notification of actions in Gazette
 (1) The Minister of Conservation must notify in the Gazette—
@@ -1025,6 +1027,7 @@ The purpose or classification of an area as a national park, conservation area, 
   (a) the Minister of the Crown responsible for the new management or the management regimes; or
   (b) the Commissioner of Crown Lands; or
   (c) any other responsible officer.
+(5) The Minister of Conservation must ensure that an order under this section is published in the Gazette.
 
 ### 113 Exercise of powers, duties, and functions
 (1) Nothing in section 99 or section 100 affects or may be taken into account in the exercise of any power, duty, or function of any person or entity under any statute, regulation, or bylaw.
