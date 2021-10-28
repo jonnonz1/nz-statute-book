@@ -1,5 +1,5 @@
 # Trustee Companies Management Act 1975
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to make special provision for the protection of persons who have beneficial interests, or interests as depositors or contributors, in property or funds administered by trustee companies and their associated companies to which this Act is applied, and for matters incidental thereto
 
@@ -26,6 +26,7 @@ _Consolidation as at 2021-01-30_
   (c) any other company (being a company that is associated with a trustee company to which this Act applies or is being applied) to which this Act is applied by Order in Council made under subsection (3) from the date specified in that Order in Council.
 (2) This Act may be applied to any trustee company or company that is associated with a trustee company notwithstanding that it has been dissolved or struck off the register; and no trustee company to which this Act applies shall be struck off the register after the commencement of this Act unless the prior consent in writing of the board of directors for the time being of the trustee company is given to the Registrar of Companies.
 (3) Where it is desirable for the protection of any beneficiary under any trust administered by any trustee company or by any company that is associated with a trustee company to which this Act applies or is being applied, or for the protection of any depositors, or creditors (whether secured or unsecured) of any such trustee company or associated company, or it is otherwise in the public interest, that the provisions of this Act should apply to the trustee company or associated company and the said beneficiaries, depositors, or creditors, or the public interest cannot be adequately protected under the Companies Act 1993 or under any other enactment or law, the Governor-General, on the advice of the Minister, may by Order in Council declare that from the date specified therein the provisions of this Act shall apply to that trustee company or associated company, whether it is incorporated in New Zealand or elsewhere; and in this subsection the terms trustee company and company include, as the case requires, any trustee company or company that has been dissolved or struck off the register.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4 Moratorium
 (1) The provisions of this section shall apply in relation to any trustee company or associated company during the period of 12 months after the commencement of the application of this Act to that trustee company or associated company or until such date (whether before or after expiry of that period) as the Minister may for the time being specify by notice in the Gazette.
@@ -105,7 +106,8 @@ Without restricting the generality of the powers, whether derived under this Act
 All costs, charges, and expenses properly incurred by a board appointed under section 5 or any local board appointed under section 11 in the exercise, in relation to any trustee company or associated company to which this Act applies, of its powers and functions (including such fees, commission, or other remuneration as may be approved by the Minister in respect of the services of the board) shall be payable out of the assets of that trustee company or associated company in priority to all other claims.
 
 ### 16 Determination of management
-Every trustee company and associated company to which this Act applies shall remain subject to this Act from the time when this Act first applies thereto until the Governor-General, by Order in Council, declares that this Act shall cease to apply thereto, whether or not there is for the time being a board in office in respect thereof.
+(1) Every trustee company and associated company to which this Act applies shall remain subject to this Act from the time when this Act first applies thereto until the Governor-General, by Order in Council, declares that this Act shall cease to apply thereto, whether or not there is for the time being a board in office in respect thereof.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 17 Report to Minister
 (1) As soon as practicable after its establishment, the first board of directors appointed under section 5 in respect of any trustee company or associated company to which this Act applies shall report to the Minister on the affairs of that trustee company or associated company showing, as at the date of its appointment, the particulars of the assets, debts, and liabilities of the trustee company or associated company, and such further or other information as the board thinks fit or the Minister requires.
@@ -183,5 +185,6 @@ If it appears to the board of any trustee company or associated company to which
   (a) conferring on the board of directors of any trustee company or associated company to which this Act applies such powers as are necessary for the due administration of any property belonging to or administered by that trustee company or associated company:
   (b) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
 (2) Regulations made under paragraph (a) of subsection (1) may be so made as to apply generally to the boards of all trustee companies and associated companies to which this Act applies or to 1 or more of them.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule Schedule — Provisions of Companies Act 1955 which do not apply to companies to which this Act applies
