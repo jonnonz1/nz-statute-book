@@ -1,5 +1,5 @@
 # Meat Board Act 2004
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Meat Board Act 2004.
@@ -46,7 +46,7 @@ The purpose of this Act is—
   - **licensee** , in relation to premises of a kind referred to in paragraph (b) of the definition of , means the operator of the animal product business concerned
   - **livestock** —
     (a) means animals that are cattle, goats, or sheep; and
-    (b) includes animals of any other kind that are for the time being declared by the Governor-General by Order in Council to be livestock for the purposes of this Act
+    (b) includes animals of any other kind that are for the time being declared by the Governor-General by Order in Council to be livestock for the purposes of this Act (see subsection (4))
   - **livestock farmer** means person engaged in New Zealand in the business of farming livestock for the purpose of producing meat (whether in conjunction with any other business or not)
   - **market** includes any 2 or more markets, any country, and any group of countries
   - **meat** means the whole or any part of the dressed carcass of any slaughtered livestock
@@ -78,6 +78,7 @@ The purpose of this Act is—
 (3) For the purposes of the definition of industry-good organisation, the Minister may certify an organisation to be a successor organisation to the company described in that definition if he or she is satisfied that—
   (a) that company has ceased to carry out substantially the functions relating to the meat industry for which it was set up; and
   (b) the organisation is carrying out substantially the same functions relating to the meat industry as those for which the company was set up.
+(4) An order under the definition of livestock in subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
@@ -245,7 +246,8 @@ The purpose of this Part is—
 The Crown owns the rights to secure the economic benefits deriving from quota markets, and those benefits are assigned for the benefit of the meat industry as provided in this Act.
 
 ### 23 Board to consider establishment of quota allocation mechanisms in certain circumstances
-Where a quota market exists, the Board must establish and operate a mechanism for the allocation of access to that quota market if satisfied that the operation of an allocation mechanism would be consistent with the Board's objects.
+(1) Where a quota market exists, the Board must establish and operate a mechanism for the allocation of access to that quota market if satisfied that the operation of an allocation mechanism would be consistent with the Board's objects.
+(2) An allocation mechanism under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 24 Requirements for allocation mechanisms
 (1) The Board must not establish any particular allocation mechanism for any quota market unless it is consistent with the Board's objects.
@@ -290,6 +292,7 @@ The Board must not establish any particular allocation mechanism without consult
   (a) no impact on the shares of quota allocated to any person; and
   (b) no impact on whether or not a person receives any allocation in any subsequent year, and
   (c) no significant financial impact on any person to whom quota has been allocated.
+(3) An amendment to an allocation mechanism under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 28 Exports must be in accordance with allocation mechanism
 Where the Board has an allocation mechanism in operation in relation to a quota market, no person may export any meat product to that quota market, directly or indirectly, unless—
@@ -313,16 +316,17 @@ Where the Board has an allocation mechanism in operation in relation to a quota 
     (ii) the ability of the Board to take action under section 34 in respect of it; and
   (b) subject to paragraph (a)﻿(i), does not revoke or otherwise affect any allocation already made or set aside under it; and
   (c) does not affect the enforcement of any breach of the allocation mechanism occurring before its revocation.
+(3) A revocation of an allocation mechanism under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 31 Notifications
 (1) As soon as practicable after establishing or amending an allocation mechanism, the Board must—
-  (a) publish in the Gazette a notice that it has done so; and
+  (a)
   (b) give a written description of the mechanism (in the case of an amendment to a mechanism, indicating the amendment) to—
     (i) all meat industry organisations the Board thinks appropriate; and
     (ii) every other person the Board thinks likely to be directly affected by the mechanism or amendment.
-(2) Every notice must specify the matters referred to in section 24(3), and indicate that copies of a description of the mechanism are available from the Board.
+(2)
 (3) As soon as practicable after revoking an allocation mechanism, the Board must—
-  (a) publish in the Gazette a notice that it has done so; and
+  (a)
   (b) give written notice that it has done so to—
     (i) all meat industry organisations the Board thinks appropriate; and
     (ii) every other person the Board thinks likely to be directly affected by the revocation.
@@ -391,12 +395,12 @@ Where the Board has an allocation mechanism in operation in relation to a quota 
 (1) For the purpose of recovering the costs to the Board of carrying out its functions in relation to quota markets, the Board may set fees, payable by persons applying for or allocated quota in respect of applications for or allocations of quota, or both, that—
   (a) are fair and reasonable; and
   (b) provide the Board with adequate funding to carry out its quota management function for the relevant quota management system, including general administration costs.
-(2) The Board must publish any fees set under this section, and any changes to the fees, by notice in the Gazette.
+(2) The Board must publish any fees set under this section, and any changes to the fees, by notice.
 (3) The Board must take all reasonable steps to consult with registered exporters on the initial level of the fees, and on any increase in the fees.
 (4) The Board may, by written notice to the person concerned, refuse to issue a quota certificate to any person who has not paid any relevant fee within 30 days of the due date for its payment.
 (5) Nothing in this section authorises the collection of fees in respect of costs arising from events taking place before the commencement of this Act, unless those costs (if any) could have been recovered under the Meat Board Act 1997. In determining whether any such costs could have been recovered under that Act, no regard may be had to the provisions of this section.
 (6) In subsection (1), adequate funding includes funding for and in relation to any liability or possible liability of the Board in respect of its quota management function arising from events occurring after the commencement of this Act.
-(7) A notice under subsection (2) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(7) A notice under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 37 Transitional provision for existing allocation mechanisms
 Unless it is sooner revoked, a mechanism that immediately before the commencement of this Act the former Board had in place in relation to a quota market has effect as if it were an allocation mechanism properly established by the Board under this Act (and notified under section 31 on that commencement); and—
@@ -503,16 +507,18 @@ The Board must pay the person who conducts a quota compliance audit—
 Except as provided in sections 49 to 51, a person must not export a meat product at any time when the person is not registered as an exporter under this Act.
 
 ### 49 Exemptions for cooked and processed products
-Section 48 does not prevent a person who is not registered as an exporter from exporting a cooked or processed meat product of any kind to a market at any time if, before that time, the Board (or the former Board)—
-  (a) has by notice in the Gazette authorised the export of product of that kind to that market by persons not registered as exporters; and
-  (b) has not by notice in the Gazette revoked the notice.
+(1) Section 48 does not prevent a person who is not registered as an exporter from exporting a cooked or processed meat product of any kind to a market at any time if, before that time, the Board (or the former Board)—
+  (a) has by notice authorised the export of product of that kind to that market by persons not registered as exporters; and
+  (b) has not by notice revoked the notice.
+(2) A notice under subsection (1)﻿(a) or (b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 50 Exemptions for limited consignments
-Section 48 does not prevent a person who is not registered as an exporter from exporting a consignment of meat product of any kind to a market at any time if—
+(1) Section 48 does not prevent a person who is not registered as an exporter from exporting a consignment of meat product of any kind to a market at any time if—
   (a) before that time, the Board (or the former Board)
-    (i) has by notice in the Gazette authorised the export by persons not registered as exporters to that market of consignments of product of that kind no larger than a size specified in the notice; and
-    (ii) has not by notice in the Gazette revoked the notice; and
+    (i) has by notice authorised the export by persons not registered as exporters to that market of consignments of product of that kind no larger than a size specified in the notice; and
+    (ii) has not by notice revoked the notice; and
   (b) the consignment is no larger than the size specified.
+(2) A notice under subsection (1)﻿(a)﻿(i) or (ii) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 51 Exemptions for trial and sample shipments
 (1) For the purpose of enabling trial or sample shipments of meat products, the Board may give any person written exemption from section 48, specifying—
@@ -539,9 +545,9 @@ The Board must revoke a person's registration as an exporter if the person so re
 (1) For the purpose of recovering the costs to the Board of administering the registration of exporters, the Board may set fees, payable by meat exporters who are registered or persons seeking registration as exporters, that—
   (a) are fair and reasonable; and
   (b) provide the Board with adequate funding to carry out its registration function.
-(2) The Board must publish any fees set under this section, and any changes to the fees, by notice in the Gazette.
+(2) The Board must publish any fees set under this section, and any changes to the fees, by notice.
 (3) The Board must take all reasonable steps to consult with meat exporters on the initial level of the fees if they are proposed to be higher than those charged under the Meat Board Regulations 1998, and on any increase in the fees.
-(4) A notice under subsection (2) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) A notice under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 56 Transitional provision for existing export licences
 Subject to section 54, any person who, immediately before the commencement of this Act, held an export licence issued under section 22 of the Meat Board Act 1997 is deemed to be registered as an exporter under section 52 until the date on which that export licence would have expired under section 23 of the Meat Board Act 1997.
@@ -771,7 +777,7 @@ The Crown is not liable to any person for any amounts owing by the Board.
 **Regulations and notices**
 
 ### 81 Regulations
-The Governor-General may by Order in Council make regulations for all or any of the following purposes:
+(1) The Governor-General may by Order in Council make regulations for all or any of the following purposes:
   (a) prescribing matters of the kind referred to in section 13(5) in relation to elections or appointments of directors in the circumstances described in section 13(4):
   (b) prescribing the manner and circumstances in which meetings held under section 58 may or must be called:
   (c) prescribing procedures (not inconsistent with this Act) for meetings held under section 58, including—
@@ -781,6 +787,7 @@ The Governor-General may by Order in Council make regulations for all or any of 
     (iv) any weighting to be given to votes cast (or any means by which such a weighting may be calculated or ascertained):
   (d) prescribing fees payable in respect of quota compliance audits, or a means of establishing or determining fees for quota compliance audits:
   (e) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 82 Notices
 (1) The Board may give any person a notice under this Act by causing it to be—
