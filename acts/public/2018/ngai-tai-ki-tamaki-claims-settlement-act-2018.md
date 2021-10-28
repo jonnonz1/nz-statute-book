@@ -1,5 +1,5 @@
 # Ngāi Tai ki Tāmaki Claims Settlement Act 2018
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Ngāi Tai ki Tāmaki Claims Settlement Act 2018.
@@ -891,6 +891,7 @@ Each cultural redress property vested under this subpart is subject to, or has t
 (2) The power conferred by subsection (1)—
   (a) may be exercised only on the advice of the Minister of Energy and Resources and the Minister of Conservation, after those Ministers have consulted the trustees and have had regard to all the circumstances of the particular case; and
   (b) is subject to section 61(5), (6), (7), and (9) of the Crown Minerals Act 1991.
+(3) The Minister of Energy and Resources and the Minister of Conservation must ensure that an order under this section is published in the Gazette.
 
 **Further provisions applying to reserve properties**
 
