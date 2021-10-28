@@ -1,5 +1,5 @@
 # Tariff Act 1988
-_Consolidation as at 2020-12-13_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to the imposition of tariff duty
 
@@ -109,6 +109,7 @@ Subject to this Act, the duty (if any) payable under the Normal Tariff shall be 
   (a) necessary or advisable in the public interest; and
   (b) consistent with New Zealand's international obligations.
 (4) No modification under subsection (2)﻿(b) relating to a less developed country or a least developed country may have the effect of imposing on any goods a higher duty than that set out in respect of those goods in the Normal Tariff.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7B Evidence of whether South Pacific Regional Trade and Economic Co-operation Agreement is in force in relation to country
 (1) A certificate given by the Secretary of Foreign Affairs and Trade to the effect that any country is or is not one in relation to which, at the time of the importation or entry of the goods into New Zealand, the South Pacific Regional Trade and Economic Co-operation Agreement was in force for the purposes of this Act is conclusive evidence of that fact.
@@ -129,10 +130,11 @@ Subject to this Act, the duty (if any) payable under the Normal Tariff shall be 
   (b) another document made to give effect to such an agreement.
 (2) The provisions may be incorporated in the Order in Council—
   (a) in whole or in part; and
-  (b) with modifications, additions, or variations specified in the regulations.
+  (b) with modifications, additions, or variations specified in the Order in Council.
 (3) The incorporated provisions—
   (a) are the provisions as they exist at the time that the Order in Council is made; and
   (b) form part of the Order in Council for all purposes and have legal effect accordingly.
+(4) See section 9C(3) in relation to the application of the Legislation Act 2019 to incorporated provisions.
 
 ### 7D Effect of amendments to, or replacement of, provisions incorporated by reference
 An amendment to, or replacement of, provisions incorporated under section 7C has legal effect as part of the Order in Council only if an Order in Council is made that states that the particular amendment or replacement has that effect.
@@ -156,12 +158,7 @@ An amendment to, or replacement of, provisions incorporated under section 7C has
 (2) A failure to comply with this section does not invalidate an Order in Council that incorporates provisions under section 7C.
 
 ### 7G Application of Legislation Act 2012 to provisions incorporated by reference: publication and disallowance
-(1) Part 2 of the Legislation Act 2012 does not apply to—
-  (a) provisions incorporated by reference under section 7C of this Act; or
-  (b) an amendment to, or replacement of, those provisions.
-(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to an Order in Council that incorporates provisions under section 7C of this Act.
-(3) However, material incorporated by reference under section 7C of this Act does not have to be presented to the House of Representatives under section 41 of the Legislation Act 2012.
-(4) This section must be treated as applying on and from 5 August 2013.
+[Repealed]
 
 ### 7H Application of Regulations (Disallowance) Act 1989 to provisions incorporated by reference
 [Repealed]
@@ -176,6 +173,7 @@ An amendment to, or replacement of, provisions incorporated under section 7C has
 (1) Subject to subsection (2), the Governor-General may, by Order in Council, alter the existing Tariff in whole or in part and may impose on any goods such duties, or create such exemptions from duties, as the Governor-General thinks fit.
 (2) The Governor-General shall not make an Order in Council under this section which has the effect of imposing on any goods a higher duty than specified in respect of those goods in the Normal Tariff, unless the Governor-General is satisfied that such an order is necessary or advisable in the public interest and is in conformity with New Zealand's international obligations.
 (3) Any Order in Council under this section may relate generally to all goods or to goods of any specified class or classes or to goods imported from any specified country or from any specified person.
+(4) Section 9C applies to an order under this section.
 
 ### 9A Certification of 2010 Tariff Document
 (1) The chief executive must, by the close of 31 December 2009,—
@@ -202,11 +200,13 @@ An amendment to, or replacement of, provisions incorporated under section 7C has
 (4) Nothing in section 9A or this section prevents the chief executive from ensuring that other information is published or made available with the Tariff, so long as in doing so the chief executive ensures that it is indicated clearly that the other information does not form part of, or have legal effect as part of, the Tariff.ExampleExamples of other information are—the Excise and Excise-equivalent Duties Table (as that term is defined in the Customs and Excise Act 2018):details of prohibited imports:tables explaining the correlation between former and current Tariff items.
 (5) The chief executive must give notice in the Gazette stating that copies of the documents referred to in subsection (2) can (in accordance with subsection (1)﻿(b)) be purchased at specified places.
 
-### 9C Application of Legislation Act 2012
-Orders in Council amending or modifying the Tariff made under section 9 or 10—
-  (a) are disallowable instruments for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
-  (b) are not legislative instruments for the purposes of the Legislation Act 2012 (see section 9B of this Act); and
-  (c) are not to be drafted by the PCO under section 59(2)﻿(a) of the Legislation Act 2012.
+### 9C Application of Legislation Act 2019 to Orders in Council and notices
+(1) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an order under section 9 or 10(1):
+  (b) a notice under section 10(2).
+(2) Section 67(d)﻿(i) of that Act does not apply to an order or notice referred to in subsection (1).
+(3) Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to provisions that are incorporated by reference under section 7C merely because they are incorporated.
+(4) An order under section 9 must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 9D Judicial notice of Tariff
 Judicial notice must be taken by all courts and persons acting judicially of the Tariff.
@@ -218,11 +218,11 @@ Every copy of the documents referred to in section 9B(2) purporting to be publis
 
 ### 9F Tariff may be amended, and must be interpreted, as if it were an enactment
 (1) The Tariff may be amended, revoked, or revoked and replaced by an Act of Parliament as if it were an Act of Parliament.
-(2) The Tariff may be altered or amended by an Order in Council made under section 9 or 10 as if it were a regulation.
-(3) The Interpretation Act 1999 applies to the Tariff as if it were an enactment.
+(2) The Tariff may be altered or amended by an Order in Council made under section 9 or 10 as if it were secondary legislation.
+(3) Part 2 of the Legislation Act 2019 applies to the Tariff as if it were legislation.
 (4) Nothing in this Act limits or affects the application of—
-  (a) Part 2 of the Legislation Act 2012 and the Interpretation Act 1999 to an Act amending, revoking, or revoking and replacing the Tariff, this Act (either alone or with other enactments), or both; or
-  (b) the Interpretation Act 1999 to an Order in Council made under section 9 or 10.
+  (a) Part 2 of the Legislation Act 2019 to an Act amending, revoking, or revoking and replacing the Tariff, this Act (either alone or with other enactments), or both; or
+  (b) Part 2 of the Legislation Act 2019 to an Order in Council made under section 9 or 10.
 
 ### 9G References to Schedule 1
 Every reference in the following to the Tariff or to Schedule 1 of the Tariff Act 1988 must be read as if it were a reference to the Tariff (as defined by section 2 of the Tariff Act 1988 as amended by section 6(1) of the Tariff Amendment Act 2009):
@@ -234,25 +234,30 @@ Every reference in the following to the Tariff or to Schedule 1 of the Tariff Ac
   (a) by revoking, or amending any heading, heading number, subheading, item, or item number, or the title of any Part, section, chapter, or subchapter of the Tariff, or by inserting any new heading, heading number, subheading, item, or item number, or title, in such manner as is necessary for the purpose of ensuring that the Tariff conforms to any international nomenclature; or
   (b) by revoking, suspending, or amending any provision of the notes forming part of the Tariff, or by inserting any new provision in the notes, for the purpose of ensuring the proper operation of the Tariff; or
   (c) by revoking, suspending, or amending any statistical requirements of the Tariff.
-(2) Notwithstanding anything in subsection (1)﻿(c), the Minister may, by notice in the Gazette, revoke, suspend, or amend any statistical requirement of the Tariff.
+(2) Notwithstanding anything in subsection (1)﻿(c), the Minister may, by notice, revoke, suspend, or amend any statistical requirement of the Tariff.
 (3) The statistical requirements of the Tariff shall be those set out in the columns headed Statistical Key in the Tariff, including any amendment thereof that may hereafter be made.
 (4) No amendment made pursuant to this section shall alter the duties or exemptions from duty applicable to goods classified under any item or heading so amended.
+(5) Section 9C applies to an order under subsection (1) and a notice under subsection (2).
 
 ### 11 Orders in Council relating to Tariff are confirmable instruments
-The explanatory note of an Order in Council made under section 9 must indicate that—
-  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
-### 11A Orders in Council may be revoked or varied by resolution of House of Representatives
-If the House of Representatives resolves that any Order in Council made under this Act (other than an Order in Council made under section 9) should be revoked or varied,—
-  (a) the order must be treated as having been revoked or varied in accordance with the terms of the resolution; and
-  (b) any duty payable must, so far as that resolution provides, be refunded.
+### 11A Effect of disallowance or resolution to amend or replace Order in Council by House of Representatives
+(1) This section applies if—
+  (a) an Order in Council is made under this Act (other than under section 9); and
+  (b) the House of Representatives resolves to—
+    (i) disallow the order under section 116 of the Legislation Act 2019; or
+    (ii) amend or replace the order under section 119 of that Act.
+(2) Any duty collected under the order in excess of the duty otherwise payable must, so far as that resolution provides, be refunded.
 
 ### 12 Actions pending alteration of Tariff
 (1) When any resolution in favour of an alteration of the Tariff has in any session of Parliament been passed by the House of Representatives or any committee thereof, that resolution shall be deemed to have the force of law until such time as it is validated by an Act of Parliament or, where no such Act is enacted, the last day of that session and no action shall lie against the Crown, any Minister, or any person to whom the powers under this Act have been delegated, or constable, by reason only that they had acted in accordance with any such resolution as if it had the force of law according to its tenor.
 (2) For the purpose of any limitation period or other limitation defence prescribed by an enactment, any claim that is subject to subsection (1) must be deemed to have first arisen on the day on which the Act of Parliament validating the resolution comes into force or, where no such Act is enacted, on the last day of the said session.
 (3) For the purpose of determining whether any act done by the Minister, or constable or any person to whom the powers under this Act have been delegated, was done in the execution of their duty under this Act, that duty shall be deemed to include the duty of acting at all times in accordance with any such resolution as if it had the force of law according to its tenor.
+(4) A resolution under subsection (1)—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) may, if the terms of the resolution so provide, commence even if it is not yet published.
+(5) The Clerk of the House of Representatives must lodge a copy of the resolution with the Parliamentary Counsel Office for the purpose of publication under the Legislation Act 2019.
 
 ### 13 Certain Orders in Council relating to duties may be retrospective
 (1) Any Order in Council made under this Act may be retrospective so far as it has the effect of exempting any goods from duty, or of reducing the rate or amount of duty payable in respect of any goods.
@@ -396,19 +401,21 @@ The Minister may extend a transitional safeguard or emergency action measure app
 (8) No provisional transitional safeguard measure may be applied under the CPTPP or the TPP.
 
 ### 16 General provisions as to Orders in Council
-Without limiting the Acts Interpretation Act 1924, no Order in Council under this Act shall be invalid because it leaves any matter to the discretion of the Minister or any other person, or because it authorises the Minister or any other person to give a consent or approval on or subject to conditions to be imposed or approved by the Minister.
+No Order in Council under this Act is invalid because it leaves any matter to the discretion of the Minister or any other person, or because it authorises the Minister or any other person to give a consent or approval on or subject to conditions to be imposed or approved by the Minister.
 
 ### 16A Fees
-The Governor-General may from time to time, by Order in Council, make regulations prescribing the fees to be paid in respect of—
+(1) The Governor-General may from time to time, by Order in Council, make regulations prescribing the fees to be paid in respect of—
   (a) applications for any approval under section 8(1) in respect of the entry of goods—
     (i) of any of the classes specified in Part 2 of the Tariff; or
     (ii) in any of the circumstances specified in Part 2 of the Tariff:
   (b) applications for any withdrawal or modification, under section 8(2), of any approval granted under section 8(1).
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 16B Regulations relating to goods temporarily imported and drawbacks of duty
-The Governor-General may from time to time, by Order in Council, make regulations—
+(1) The Governor-General may from time to time, by Order in Council, make regulations—
   (a) declaring specified goods or classes of goods subject to duty under this Act to be goods in respect of which the provisions of section 136 of the Customs and Excise Act 2018 shall not be applied:
   (b) declaring specified goods or classes of goods subject to duty under this Act to be goods in respect of which the provisions of section 147 of the Customs and Excise Act 2018 shall not be applied.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 17 Transitional provisions
 (1) At any time after the date on which this Act receives the Governor-General's assent, the Governor-General may, by Order in Council, exercise in respect of the Tariff, with effect from the commencement of this Act, any of the powers to alter or modify the Tariff, and create exemptions in respect of any goods, conferred on the Governor-General by any provision of this Act for the purpose of giving effect to that provision, and for the purpose of bringing the Tariff into effective operation at the commencement of this Act.
