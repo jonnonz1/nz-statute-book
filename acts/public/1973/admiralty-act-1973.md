@@ -1,11 +1,12 @@
 # Admiralty Act 1973
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision with respect to the jurisdiction in admiralty of the High Court of New Zealand and of the District Court, and the jurisdiction in prize of the High Court
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Admiralty Act 1973.
 (2) This Act shall come into force on a date to be appointed by the Governor-General, by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
@@ -95,6 +96,7 @@ Subject to section 28 of the Crown Proceedings Act 1950, relating to the exclusi
 (2) Rules for the practice and procedure of the District Court in its admiralty jurisdiction may be made by the Governor-General from time to time, by Order in Council, under section 228 of the District Court Act 2016.
 (3) Without derogating from the provisions of subsections (1) and (2), rules may be made pursuant to those subsections for consolidation of actions, the appointment of court experts, or the giving of bail or other security to prevent the arrest of a ship or other res, or to obtain the release of the same after arrest.
 (4) The Governor-General may from time to time, by Order in Council, prescribe all fees payable under this Act.
+(5) An order under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 12 Transfer of proceedings from or to admiralty jurisdiction
 The court may, of its own motion or upon application, at any stage order that any proceedings be transferred from or to the court in its admiralty jurisdiction.
