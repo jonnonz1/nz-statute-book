@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
@@ -9,6 +9,7 @@ This Act is the Retirement Villages Act 2003.
 ### 2 Commencement
 (1) Part 2, sections 38 to 47, Part 4, sections 94 to 100, sections 107 to 110, and Schedules 1 to 4 come into force on a date to be appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made appointing different dates for different provisions.
 (2) The rest of this Act comes into force on 1 February 2004.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Purpose
 The purpose of this Act is—
@@ -976,21 +977,22 @@ In any application for an order against a person under section 82, a finding of 
   (c) statutory supervisors; or
   (d) other persons.
 (3) The Minister is not obliged to approve a draft code of practice submitted under subsection (1) that the Minister considers is incomplete or inappropriate or that fails to comply with the requirements of subsection (5) or Schedule 5.
-(4) If no draft code of practice acceptable to the Minister has been submitted under subsection (1) before 1 January 2005, the Minister must prepare, approve, and publish a code of practice after considering any recommendations of—
+(4) If no draft code of practice acceptable to the Minister has been submitted under subsection (1) before 1 January 2005, the Minister must prepare and approve a code of practice after considering any recommendations of—
   (a) the Retirement Commissioner; and
   (b) any groups of persons or bodies that, in the opinion of the Minister, represent the interests of operators of retirement villages, residents or intending residents, statutory supervisors, or other persons.
 (5) A draft code of practice submitted under subsection (1) or a code of practice prepared under subsection (4) must—
   (a) specify rules of practice in relation to every matter that the code is required by Schedule 5 to address:
   (b) be consistent with the rights referred to in the code of residents' rights.
-(6) The Minister must publish in the Gazette notice of—
-  (a) the approval of any code of practice approved by the Minister under subsection (1) or subsection (4) and any variation under section 90(4); and
-  (b) the place or places at which copies of the code and any variation can be obtained.
+(6) A code of practice is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7) That Act applies as if—
+  (a) the Minister were the maker of the code; and
+  (b) the code were made by the Minister approving it.
 
 ### 90 Duration and variation of code of practice
 (1) The code of practice—
   (a) comes into force,—
     (i) in the case of the first code of practice, 1 year after it is approved under section 89(1) or (4):
-    (ii) in the case of any subsequent code of practice approved under section 89(1), on the date stated by the Minister in the document approving the code; and
+    (ii) in the case of any subsequent code of practice approved under section 89(1), in accordance with the Legislation Act 2019; and
   (b) continues in force until a subsequent code of practice approved under section 89(1) comes into force.
 (2) An operator of a retirement village may elect to be bound by a code of practice that is not yet in force, by giving notice of that election to—
   (a) the Registrar; and
@@ -1002,7 +1004,7 @@ In any application for an order against a person under section 82, a finding of 
 (4) The code of practice approved under section 89(1) or (4) may be varied by the Minister after considering any recommendations of—
   (a) the Retirement Commissioner; and
   (b) any groups of persons or bodies that, in the opinion of the Minister, represent the interests of operators of retirement villages, residents or intending residents, statutory supervisors, or other persons.
-(5) Any variation by the Minister comes into force on the date stated by the Minister in the document making the variation.
+(5) An instrument that varies a code of practice is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 91 Retirement Commissioner to provide publication information
 (1) Before making any recommendation under section 89 or section 90(4), the Retirement Commissioner must give public notice of—
@@ -1013,7 +1015,7 @@ In any application for an order against a person under section 82, a finding of 
 (2) The Retirement Commissioner must also ensure that the information required to be given by public notice under subsection (1) can be accessed by the public at a website maintained by the Commissioner.
 
 ### 92 Status of code of practice
-(1) A code of practice is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(1)
 (2) While a code of practice is in force, it—
   (a) must be complied with by—
     (i) every operator of a retirement village:
@@ -1131,6 +1133,7 @@ If a deed of participation relating to the supervision of a retirement village t
   (a) prescribing the information, statements, certificates, documents, or other matters that must or must not be contained in, or endorsed on, or attached to, advertisements or disclosure statements, either generally or in respect of any specified class of advertisement or disclosure statement; or
   (b) prohibiting or restricting the use in advertisements or disclosure statements of prescribed words, information, statements, sounds, and images, graphics, or other matters, either generally or in respect of any specified class of advertisement or disclosure statement; or
   (c) prescribing requirements as to the layout or method of presentation of any advertisement, or disclosure statement and the size of type used in those advertisements or disclosure statements, either generally or in respect of any specified class of advertisement or disclosure statement.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 102 Fees and charges
 (1) Without limiting the generality of section 101, regulations may be made under that section prescribing—
@@ -1148,20 +1151,24 @@ If a deed of participation relating to the supervision of a retirement village t
   (b) to clarify whether—whose status is in doubt are or are not a retirement village.
     (i) specific property, buildings, or other premises; or
     (ii) property, buildings, or other premises of a specified class—
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 104 Regulations prescribing criteria for exemptions under section 41
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing criteria for the grant of exemptions under section 41 (which relates to the grant of exemptions from the requirement to appoint a statutory supervisor).
 (2) The Minister must not recommend the making of any Order in Council under subsection (1) unless, in the opinion of the Minister, the regulations will enable the grant of an exemption from the requirement to appoint a statutory supervisor only in circumstances where the appointment of a statutory supervisor is unnecessary for the protection of residents' interests or undesirable.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 105 Regulations prescribing criteria for exemptions under section 93
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing criteria for the grant of exemptions under section 93 (which relates to the grant of exemptions from the requirement to comply with a provision or provisions of the code of practice).
 (2) The Minister must not recommend the making of an Order in Council under subsection (1) unless, in the opinion of the Minister, the regulations will enable the grant of an exemption from the requirement to comply with a provision or provisions of the code of practice only in circumstances where compliance with the provision or provisions that are the subject of the exemption is unnecessary for the protection of residents' interests or undesirable.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 105A Regulations exempting from provisions of Trusts Act 2019
 (1) The Governor-General may, by Order in Council, make regulations exempting any trust, trustee, statutory supervisor, operator, or other person, or any class of trust or person, from the application of any provision or provisions of the Trusts Act 2019 and prescribing the terms and conditions (if any) of the exemption.
 (2) Regulations may only be made under this section on the recommendation of the Minister, and the Minister may make a recommendation only if satisfied that—
   (a) the application of the provision or provisions of the Trusts Act 2019 would, in the circumstances, be unnecessary in respect of the trust or class of trust, or would require the trustee, statutory supervisor, operator, or other person or class of person to comply with requirements that were unduly onerous or burdensome; and
   (b) having regard to the purpose and principles of the Trusts Act 2019 and the purpose of this Act, the extent to which the application of the provisions of the Trusts Act 2019 is disapplied is not broader than is reasonably necessary to address the matters that gave rise to the regulations.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 106 Notices
 (1) Any notice under this Act may be given to any person by delivering it to that person either personally or by leaving it at, or sending it to, the person's last known or usual place of residence or business.
