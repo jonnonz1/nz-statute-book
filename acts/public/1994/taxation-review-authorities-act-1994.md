@@ -1,5 +1,5 @@
 # Taxation Review Authorities Act 1994
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate the law relating to Taxation Review Authorities
 
@@ -265,6 +265,7 @@ The decision of the High Court on any case on appeal under section 26 or section
   (d) prescribing the fees to be paid in respect of the filing of any proceedings brought under this Act:
   (e) prescribing the circumstances in which any fees paid or to be paid in respect of the filing of any proceedings brought under this Act may be refunded, remitted, or waived, in whole or in part.
 (3) Regulations under this section may prescribe fines for offences against the regulations, not exceeding $500 in any case.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 31 Savings
 (1) The continuity of the operation of the law contained in the enactments repealed by section YB 3 of the Income Tax Act 1994 shall not be affected by the substitution of the Income Tax Act 1994, the Tax Administration Act 1994, and this Act, for those enactments.
