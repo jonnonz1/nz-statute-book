@@ -1,5 +1,5 @@
 # Victims' Orders Against Violent Offenders Act 2014
-_Consolidation as at 2020-08-26_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Victims' Orders Against Violent Offenders Act 2014.
@@ -311,6 +311,8 @@ In any proceedings under this Act (other than criminal proceedings), and whether
   (a) prescribe such forms as are necessary for the purposes of this Act, or authorise any specified person or persons to prescribe or approve forms, and require the use of such forms:
   (b) apply, with or without modification, provisions of the District Court Rules 2014.
 (3) In the absence of any rules under this section or in any situation not covered by such rules, the District Court Rules 2014 apply, with all necessary modifications, to proceedings under this Act.
+(4) Rules under subsection (1)﻿(b) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) See section 228 of the District Court Act 2016, which provides that court rules are secondary legislation.
 
 **Sharing of information relating to criminal proceedings**
 
