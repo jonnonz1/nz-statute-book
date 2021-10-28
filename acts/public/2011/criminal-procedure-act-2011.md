@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2021-10-05_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -13,6 +13,7 @@ This Act is the Criminal Procedure Act 2011.
   (e) section 407 (which is a transitional provision relating to appeals).
 (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council.
 (3) Any provision that has not earlier been brought into force comes into force on the day that is 2 years after the date on which this Act receives the Royal assent.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -3520,7 +3521,7 @@ A Registrar who is also a constable has no jurisdiction to exercise any power or
 (1) If a defendant is found guilty of, or pleads guilty to, an infringement offence (whether or not an infringement notice has been issued), the court—
   (a) must not convict the defendant; but
   (b) may order the defendant to pay any fine and costs and may make any other order that the court would be authorised to order or make as if the court were able to convict a defendant of the offence.
-(2) Every reference in this or any other Act, or in any regulation or bylaw, to a conviction for an offence is, in relation to an infringement offence, deemed to be a reference to—
+(2) Every reference in this or any other Act, or in any secondary legislation, to a conviction for an offence is, in relation to an infringement offence, deemed to be a reference to—
   (a) an order that the defendant pay a fine and costs under subsection (1)﻿(b); or
   (b) a deemed order that the defendant pay a fine and costs under section 21(5) or (5A) of the Summary Proceedings Act 1957.
 (3) However, sections 229, 244, and 246 do not apply to any deemed order that the defendant pay a fine and costs under section 21(5) or (5A) of the Summary Proceedings Act 1957.
@@ -3663,12 +3664,11 @@ A Judge or Registrar may, subject to any terms or conditions that the Judge or R
 (3)
 (4)
 (5) Regulations made under subsection (1)﻿(k) must not be made without the concurrence of the Chief Justice and the Chief District Court Judge.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7) Regulations under subsection (1)﻿(i) or (j) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 387A Regulations under section 387(1)﻿(i) or (j) are confirmable instruments
-The explanatory note of regulations made under section 387(1)﻿(i) or (j) must indicate that—
-  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### Subpart 4 — Transitional and savings provisions
 
