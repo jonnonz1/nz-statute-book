@@ -1,5 +1,5 @@
 # Taumata Arowai–the Water Services Regulator Act 2020
-_Consolidation as at 2021-03-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Taumata Arowai–the Water Services Regulator Act 2020.
@@ -9,6 +9,7 @@ This Act is the Taumata Arowai–the Water Services Regulator Act 2020.
   (a) a date appointed by the Governor-General by Order in Council; and
   (b) the 15-month anniversary of the date of Royal assent.
 (2) One or more Orders in Council may be made appointing different dates for different provisions.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
