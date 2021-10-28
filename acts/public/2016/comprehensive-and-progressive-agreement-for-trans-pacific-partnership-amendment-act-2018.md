@@ -1,5 +1,5 @@
 # Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 (1) This Act is the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018.
@@ -712,10 +712,8 @@ In section 228(2)﻿(b), delete or section 132.
     (b) infringes any specified performers’ rights.
   (4) If the Minister makes a recommendation under subsection (2), the Minister’s reasons for making the recommendation (including why the regulations are appropriate) must be published together with the regulations.
   (5) A failure to comply with subsection (2)﻿(a) or (b) does not affect the validity of any regulations made under subsection (1)﻿(qa) or (qb).
-  (6) The explanatory note of regulations made under subsection (1)﻿(qa) or (qb) must indicate that—
-    (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
-    (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-    (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+  (6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  (7) Regulations under subsection (1)﻿(﻿qa) or (qb) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 (3) Subsection (4) consequentially amends the Legislation Act 2019.
 (4) In Schedule 4, Part 1, insert in its appropriate alphabetical order:The following table is small in size and has 2 columns. This table is an amendment to the table in Schedule 4 Part 1 of the Legislation Act 2019 and should be read with that table to provide understanding of the context.Copyright Act 1994234(qa) and (qb)
 
@@ -1016,6 +1014,7 @@ In Part 3, after subpart 10, insert:Extension of termExtension of term if unreas
     (a) the period by which period A exceeds 5 years:
     (b) the period by which period B exceeds 3 years:
     (c) 2 years.
+  (5) Regulations under subsection (3) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
   In this section and sections 111D to 111O, unless the context otherwise requires,—
     - **biologic** means a pharmaceutical substance that is produced by a process that involves the use of recombinant DNA technology
     - **marketing approval** means a consent to the distribution of a medicine that is notified in the Gazette under section 20 of the Medicines Act 1981 or a provisional consent that is notified in the Gazette under section 23 of that Act
