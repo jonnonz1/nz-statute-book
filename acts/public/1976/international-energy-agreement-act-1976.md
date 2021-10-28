@@ -1,5 +1,5 @@
 # International Energy Agreement Act 1976
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to vest powers in the Governor-General in Council and the Minister of Energy Resources to enable New Zealand to carry out its obligations under the International Energy Agreement
 
@@ -23,7 +23,7 @@ In this Act, unless the context otherwise requires,—
 ### 3 Proclamation of petroleum emergency
 (1) If at any time it appears to the Governor-General that New Zealand's obligations under the International Energy Agreement require the taking of emergency measures to deal with a reduction or threatened reduction of petroleum supplies, he may, by Proclamation approved in Executive Council, declare that a petroleum emergency exists throughout New Zealand.
 (2) The Governor-General may, in like manner, revoke a declaration under subsection (1) when he is satisfied that the said obligations do not for the time being require the further exercise of the powers given by this Act to make regulations or the continued existence of the powers contained in those regulations.
-(3) A Proclamation made under subsection (1) or subsection (2) shall be published in the Gazette and shall come into operation on being so published.
+(3) A Proclamation made under subsection (1) or (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (4) Upon a Proclamation under subsection (2) coming into operation, all regulations made under section 4 and not previously revoked and all instruments made thereunder and then remaining in force shall, without further provision than this subsection, be revoked, but without affecting the previous operation thereof or anything previously done or omitted to be done thereunder or any proceeding, punishment, or remedy in respect thereof.
 
 ### 4 Emergency regulations as to petroleum
@@ -36,10 +36,14 @@ In this Act, unless the context otherwise requires,—
   (a) to any person carrying on an undertaking in the course of which he produces petroleum or engine fuel, as to the production, use, or disposal thereof or the use or disposal of any material used for the production thereof:
   (b) to any person carrying on an undertaking in the course of which he acquires, supplies, or distributes petroleum or engine fuel, as to the acquisition, supply, or distribution thereof by him (whether in New Zealand or abroad):
   (c) to any person carrying on an undertaking which involves the use of petroleum or engine fuel, as to the use thereof by him, whether for purposes specified by the Minister or during periods specified by him or otherwise.
-(3) Without restricting the generality of subsection (2)(b), regulations made under that subsection may authorise the giving of a direction which—
+(3) Without restricting the generality of subsection (2)﻿(b), regulations made under that subsection may authorise the giving of a direction which—
   (a) prohibits or restricts the acquisition, supply, or distribution of petroleum or engine fuel by or to persons specified by the Minister:
   (b) requires the supply or distribution of petroleum or engine fuel to persons specified by the Minister in accordance with requirements specified by him.
-(4) For the purpose of subsection (1)(b) appropriate consultations means such consultations as the Minister thinks practicable and appropriate with persons in New Zealand appearing to him to represent those producers and suppliers of petroleum or engine fuel who are likely to be affected by the regulations.
+(4) For the purpose of subsection (1)﻿(b) appropriate consultations means such consultations as the Minister thinks practicable and appropriate with persons in New Zealand appearing to him to represent those producers and suppliers of petroleum or engine fuel who are likely to be affected by the regulations.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) If regulations under this section authorise the Minister to give, revoke, or vary directions (see also section 5(4)),—
+  (a) the directions, revocation, or variation are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 
 ### 5 Further provisions as to regulations
 (1) No regulation made under section 4(1) shall be held invalid because it is, or authorises any act or omission which is, repugnant to, or inconsistent with, any Act (other than this Act).
@@ -48,7 +52,7 @@ In this Act, unless the context otherwise requires,—
   (b) make any incidental, supplementary, or transitional provision which is necessary or expedient for carrying out the purposes of this Act:
   (c) require the payment of fees in connection with any matter which may be controlled or regulated under this Act and may prescribe the amount and incidence of those fees:
   (d) provide that a contravention or failure to comply therewith, or with any provision made thereunder, shall be an offence and prescribe penalties for offences not exceeding a fine of $10,000.
-(3) All regulations made under section 4(1) shall be laid before Parliament as soon as is practicable after they are made.
+(3)
 (4) Nothing in sections 4(2), 6, and 7 shall limit the power in section 4(1) to make regulations as to any matter mentioned in the said sections 4(2), 6, and 7 applicable to all, or any class of, persons to whom, or in respect of whom, directions could be given under, or by virtue of, those provisions.
 
 ### 6 Maintenance of reserve supplies of petroleum
@@ -57,7 +61,7 @@ In this Act, unless the context otherwise requires,—
   (a) direct any person referred to in that subsection to make such arrangements with respect to his New Zealand stocks of petroleum or engine fuel as will—
     (i) enable those stocks to be brought within a specified time to, and thereafter maintained at, a specified level; and
     (ii) ensure that they do not fall below that level, except as may be permitted by the terms of the direction or by authority of the Minister:
-  (b) in the case of any person referred to in the said subsection (1) who is a supplier to the New Zealand market, direct him to create New Zealand stocks of petroleum or engine fuel up to a specified level and, with respect to them, make arrangements of the kind referred to in subsection (2)(a)(ii).
+  (b) in the case of any person referred to in the said subsection (1) who is a supplier to the New Zealand market, direct him to create New Zealand stocks of petroleum or engine fuel up to a specified level and, with respect to them, make arrangements of the kind referred to in subsection (2)﻿(a)﻿(ii).
 (3) In giving such directions, the Minister shall have regard in particular to—
   (a) the quantities of petroleum or engine fuel which have been supplied by the undertaking to the New Zealand market or used by the undertaking in past periods; and
   (b) the extent to which petroleum produced or supplied by the undertaking is, or will be won under the authority of licences granted under the Petroleum Act 1937 or the Crown Minerals Act 1991.
