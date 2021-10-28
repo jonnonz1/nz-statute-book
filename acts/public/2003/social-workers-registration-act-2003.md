@@ -1,5 +1,5 @@
 # Social Workers Registration Act 2003
-_Consolidation as at 2021-02-27_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Social Workers Registration Act 2003.
@@ -11,6 +11,7 @@ This Act is the Social Workers Registration Act 2003.
   (a) different dates may be appointed for different provisions; but
   (b) the date appointed for any of sections 97 to 113 or for Schedule 1 must be no later than the day 12 months after the date on which this Act receives the Royal assent.
 (2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Purpose
 The purpose of this Act is—
@@ -65,35 +66,33 @@ This Act binds the Crown.
 ## Part 1A — Scopes of practice for social work profession and prescribed qualifications
 
 ### 5A Board to determine scopes of practice for social work profession
-(1) The Board must, by notice in the Gazette, describe the social work services that are performed by the social work profession in 1 or more scopes of practice.
+(1) The Board must, by notice, describe the social work services that are performed by the social work profession in 1 or more scopes of practice.
 (2) A scope of practice and the services described in it may be described as the Board thinks fit, including in 1 or more of the following ways:
   (a) by reference to a name or form of words that is commonly understood by persons who work in the social work services sector:
   (b) by reference to an area of social science or learning:
   (c) by reference to tasks commonly performed:
   (d) by reference to individual, interpersonal, or community needs to be alleviated.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5B Prescribed qualifications
-(1) The Board must, by notice in the Gazette, prescribe the qualifications for each scope of practice that the Board describes under section 5A.
+(1) The Board must, by notice, prescribe the qualifications for each scope of practice that the Board describes under section 5A.
 (2) When prescribing qualifications, the Board must be guided by the following principles:
   (a) a qualification (either on its own or together with 1 or more other prescribed qualifications) must be necessary to protect the public:
   (b) the number and types of qualifications prescribed for a scope of practice must not be so limited as to unnecessarily restrict the registration of persons as social workers:
   (c) the qualifications (in total) prescribed for a scope of practice must not impose undue costs on persons seeking to be registered as social workers or the public.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5C Provisions relating to sections 5A and 5B
-(1) The Board may at any time, by notice in the Gazette, amend, revoke, or replace a notice under section 5A or 5B.
+(1) The Board may at any time, by notice, amend, revoke, or replace a notice under section 5A or 5B.
 (2) The amendment, revocation, or replacement of a notice under section 5B does not affect the registration of a social worker who qualified to practise under the notice before it was amended, revoked, or replaced.
-(3) Before the Board publishes a notice under section 5A or 5B or under this section, it must have consulted the following about its proposal for the contents of the notice:
+(3) Before the Board makes a notice under section 5A or 5B or under this section, it must have consulted the following about its proposal for the contents of the notice:
   (a) persons who the Board considers are able to represent the views of social workers or of classes of social workers; and
   (b) persons who the Board considers are able to represent the views of employers of social workers; and
   (c) organisations—
     (i) that the Board considers will be affected by the proposal; or
     (ii) whose members the Board considers will be affected by the proposal.
-(4) The Board must ensure that an up-to-date version of each notice is—
-  (a) available on an Internet site; and
-  (b) available at the Board’s office during business hours, so that members of the public may—
-    (i) inspect the notice free of charge; or
-    (ii) obtain a photocopy of the notice for a reasonable fee.
-(5) A notice published under section 5A or 5B or this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5)
 
 ## Part 2 — Registration, authorisation to practise within scope of practice, and practising certificates
 
@@ -225,6 +224,7 @@ If an authorisation includes a condition referred to in section 8B(3)﻿(a) that
 ### 8H Board may adopt general conditions
 (1) The Board may, as it thinks fit, adopt any conditions to apply to the individual scopes of practice (see section 8A) of all social workers or all social workers of a particular description.
 (2) The conditions may include a condition relating to supervision.
+(3) Conditions under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 9 Consideration of applications by Board
 [Repealed]
@@ -488,6 +488,9 @@ The Board must decide that the applicant should be registered temporarily if sat
 (3) The Board may exempt any social worker or class of social workers from any professional development requirement under subsection (2).
 (4) When recognising ways of undertaking professional development or requiring that a particular form of professional development be undertaken, the Board must be guided by the principle that professional development should not impose undue costs on practising social workers or their employers.
 (5) In this section, appropriate standard of competence, in relation to a social worker, means the standard of competence to be expected of a social worker practising under their individual scope of practice.
+(6) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless they apply only to 1 or more specified social workers:
+  (a) requirements under subsection (2):
+  (b) exemptions under subsection (3).
 
 ### 38B Mandatory requirement for employers to report to Board if social worker believed not to be competent
 (1) An employer who employs 1 or more social workers must, as soon as practicable after becoming aware that a social worker may not be competent to practise as a social worker within the relevant scope of practice, investigate whether the social worker is competent to do so.
@@ -537,14 +540,10 @@ The Board must decide that the applicant should be registered temporarily if sat
   (c) components set by some other person or body, and recognised by the Board in a modified form.
 (3) At least 1 competence assessment must apply to all social work.
 (4) Any other competence assessment may apply to 1 or more social work services under 1 or more scopes of practice.
-(5) Within 20 working days after the Board sets a competence assessment, the Registrar must publish in daily newspapers circulating in Auckland, Wellington, Christchurch, and Dunedin notice of—
-  (a) its setting and application; and
-  (b) details of where copies may be obtained.
+(5) A competence assessment under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 43 Copies of competence assessments to be available
-The Board must take all practicable steps to ensure that copies of all competence assessments set or recognised by the Board under section 42 that are in force are available at its offices during ordinary business hours, both—
-  (a) for purchase at a reasonable price; and
-  (b) for inspection free of charge.
+[Repealed]
 
 ### 44 Registered social workers to complete assessments every 5 years
 [Repealed]
@@ -1307,6 +1306,9 @@ On any appeal under this Part, the District Court may order the person or body w
   (r) any other functions conferred or imposed on it by or under this Act or any other enactment.
 (2) Subsection (1)﻿(h) does not limit or affect the functions or powers of any department of State.
 (3) Subsection (1)﻿(p) does not apply to information required by this Act to be kept confidential.
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) standards under subsection (1)﻿(i); and
+  (b) an instrument setting criteria under subsection (1)﻿(oa).
 
 ### 100 Obligations of Board in relation to Māori
 (1) In the exercise and performance of its powers and functions, the Board must ensure that the aims and aspirations of Māori as tangata whenua, and the need for the appropriate involvement of Māori as tangata whenua, are integral and ongoing priorities.
@@ -1339,6 +1341,7 @@ The Minister may not give a direction under section 103 of the Crown Entities Ac
 (2) Before it issues or amends the code of conduct, the Board must consult—
   (a) organisations and individuals that, in its opinion, represent social workers; and
   (b) organisations and individuals that, in its opinion, represent employers of social workers.
+(3) The code of conduct under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 106 Membership
 (1) The Board comprises—
@@ -1351,7 +1354,7 @@ The Minister may not give a direction under section 103 of the Crown Entities Ac
 In addition to the information required by section 151 of the Crown Entities Act 2004, the annual report of the Board under section 150 of that Act must include a report on any other matters affecting the social work profession that the Board thinks fit.
 
 ### 108 Board may set fees
-(1) The Board may from time to time, by notice in the Gazette, set fees payable in respect of the following matters:
+(1) The Board may from time to time, by notice, set fees payable in respect of the following matters:
   (a) applications for registration:
   (b) additions or alterations to the Register:
   (c) the issue of practising certificates:
@@ -1364,17 +1367,20 @@ In addition to the information required by section 151 of the Crown Entities Act
   (j) the setting and conduct of competence assessments:
   (k) any other matter relating to anything the Board is required to do in order to carry out its functions.
 (2) The notice may exempt people of any kind or description from liability to pay any fee, and may provide for the waiver or refund of any fee.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 109 Disciplinary levy
-(1) The Board may from time to time, by notice in the Gazette, impose on every social worker a levy of any amount it thinks fit for the purpose of investigations and other proceedings concerning discipline under this Act.
+(1) The Board may from time to time, by notice, impose on every social worker a levy of any amount it thinks fit for the purpose of investigations and other proceedings concerning discipline under this Act.
 (2) The notice may exempt people of any kind or description from liability to pay the levy, and may provide for the waiver or refund of the levy.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 110 Further provisions relating to fees and levy
-(1) The Board may at any time, by notice in the Gazette, amend or revoke any notice published under section 108 or section 109.
+(1) The Board may at any time, by notice, amend or revoke any notice published under section 108 or section 109.
 (2) Every notice published under section 108, section 109, or this section comes into force on a day stated in it, being a day at least 28 days after the date of publication of the notice.
-(3) A notice published under section 108 or 109 or this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3)
 (4) Every fee set under section 108 and every levy imposed under section 109 is payable to the Board, and recoverable by the Board as a debt due to the Board.
 (5) The Registrar may decline to do or permit to be done any act in respect of which a fee is payable to the Board under this Act, until the fee is paid.
+(6) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 111 Application of income
 [Repealed]
@@ -1675,6 +1681,7 @@ Section 121(2) of the Crown Entities Act 2004 applies, with any necessary modifi
   (aa) regulating the use of identification by social workers when dealing with members of the public:
   (b) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) The Minister must not recommend the making of regulations without consulting the Board.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 147A Power to obtain information
 (1) The chief executive may, if the chief executive has reasonable cause to believe that an offence against section 148(2) to (5) has been committed, by written notice require a person—
