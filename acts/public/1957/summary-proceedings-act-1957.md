@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2021-02-11_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -620,7 +620,7 @@ Where a document is served on any person who is a Maori within the meaning of Te
     (c) an order made in respect of a young person, or any parent or guardian of that young person, under section 283(f) or (g) of the Oranga Tamariki Act 1989; or
     (d) an order that—
       (i) requires the payment of any amount as compensation or restitution to the victim of an offence against any enactment; and
-      (ii) is declared by the Governor-General, by Order in Council, to be an order of reparation for the purposes of this Part
+      (ii) is declared by the Governor-General, by Order in Council (see subsection (6)), to be an order of reparation for the purposes of this Part
   - **overdue** , in relation to a fine, means—
     (a) that the fine has, in breach of the provisions of an enactment or the terms of a sentence, an order, or a direction, not been paid in full within the time provided or fixed by the enactment, sentence, order, or direction; and
     (b) that the defendant's obligation to pay the fine has not been resolved
@@ -655,8 +655,8 @@ Where a document is served on any person who is a Maori within the meaning of Te
   - **substituted sentence** means a warrant of commitment issued under section 83(2)﻿(a) or 88AE(1)﻿(b) or any sentence imposed under section 88AE(1)﻿(c) to (e)
   - **traffic fine** means a fine payable in respect of a traffic offence
   - **traffic offence** means—
-    (a) any offence against the Transport Act 1962, the Road User Charges Act 1977, the Road User Charges Act 2012, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Land Transport Act 1998, or the Land Transport Management Act 2003 or against any regulation, rule, or bylaw made under any of those Acts:
-    (b) any offence against any regulation, rule, or bylaw made under any other Act if the offence relates to the use of motor vehicles or parking places or transport stations
+    (a) any offence against the Transport Act 1962, the Road User Charges Act 1977, the Road User Charges Act 2012, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Land Transport Act 1998, or the Land Transport Management Act 2003 or against any secondary legislation made under any of those Acts:
+    (b) any offence against any secondary legislation made under any other Act if the offence relates to the use of motor vehicles or parking places or transport stations
   - **use** , in relation to a motor vehicle, includes driving, drawing, towing, or propelling by means of another vehicle, and permitting to be on any road
   - **written caution** means a caution issued under section 93.
 (2) For the purposes of this section and sections 93 to 100T, a person is, in relation to a defendant, a substitute for the defendant or a substitute if—
@@ -670,6 +670,7 @@ Where a document is served on any person who is a Maori within the meaning of Te
 (5) A reference in sections 93 to 100T to a person holding a motor vehicle as nominee for a defendant or for a substitute for the defendant is a reference to a person who purports to be the owner or who is the person who is registered in respect of the motor vehicle but whose purported ownership or registration is subject to an understanding or arrangement that the person—
   (a) is not to acquire any rights, or only limited rights, in the motor vehicle; and
   (b) will, in relation to the motor vehicle, act on behalf of the defendant or a substitute for the defendant.
+(6) An order under paragraph (d)﻿(ii) of the definition of order of reparation in subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Service under this Part**
 
@@ -1405,6 +1406,7 @@ A warrant of commitment issued under section 83(2)﻿(b) or section 88AE(1)﻿(b
   (b) be satisfied that the proposed regulations are consistent with the purpose stated in section 92B(1) and the legislative framework described in section 92B(2).
 (3) Subsection (1)﻿(f) does not apply unless the definition of credit information in the credit reporting code of practice includes driver licence numbers and driver licence card numbers.
 (4) This section does not limit section 212.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Written cautions in case of certain traffic fines**
 
@@ -2607,6 +2609,7 @@ No summons, sentence, order, bond, warrant, or other document under this Act, an
     (v) applications filed under section 78B:
     (vi) any matter related to the items in subparagraphs (i) to (v):
   (i) providing for any other matters in respect of which rules or regulations are contemplated under this Act.
+(3) Rules and regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (3)
 
 ### 213 Consequential amendments
