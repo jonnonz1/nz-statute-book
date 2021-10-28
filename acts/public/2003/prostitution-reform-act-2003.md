@@ -1,5 +1,5 @@
 # Prostitution Reform Act 2003
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Prostitution Reform Act 2003.
@@ -406,7 +406,7 @@ The Prostitution Law Review Committee may regulate its own procedure, except as 
 **Regulations**
 
 ### 47 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the forms of warrants to be issued under sections 27 and 30:
   (b) prescribing the forms, certificates, and fees required under Part 3 in connection with operator certificates:
   (c) prescribing how the photographs and photocopies required under Part 3 are to be authenticated:
@@ -414,6 +414,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (e) prescribing that the Registrar of a particular office of the District Court is the, or a, Registrar for the purposes of Part 3, whether in addition to, or instead of, the Registrar of any other office of the District Court:
   (f) prescribing matters relating to the Prostitution Law Review Committee, including its powers, additional functions of reviewing, assessing, and reporting on the operation of this Act or on other matters relating to sex workers or prostitution (if any), any limits on the periods for which it may meet, matters relating to the chairperson and members, its financial provisions, its procedures, and its administration:
   (g) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Repeals, amendments, and transitional provisions**
 
