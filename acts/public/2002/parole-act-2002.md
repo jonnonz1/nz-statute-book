@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -7,6 +7,7 @@ This Act is the Parole Act 2002.
 ### 2 Commencement
 (1) This Act, except section 99, comes into force on a date to be appointed by the Governor-General by Order in Council.
 (2) Section 99 comes into force on the day after the date on which this Act receives the Royal assent.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Parole and other release from detention
 
@@ -1140,18 +1141,19 @@ Section 44 of the Policing Act 2008 applies to protect constables as if a warran
 **Regulations**
 
 ### 74 Regulations
-The Governor-General may, from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing forms for the purpose of this Part and Part 1A:
   (b) prescribing the manner in which the key dates and non-parole periods of sentences of imprisonment are to be determined:
   (c) providing that specified information must be provided to offenders, and prescribing the manner and form in which that information is to be provided:
   (d) regulating the operation of the Board:
   (e) prescribing offences in respect of the contravention of, or non-compliance with, any regulations made under this section and the amounts of the fines that may be imposed in respect of those offences, which fines must not exceed $500:
   (f) generally providing for any other matters that are contemplated by, or necessary for giving full effect to, this Part and Part 1A, and their due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Rules**
 
 ### 74A Rules about drug and alcohol testing and monitoring
-The chief executive may, by notice in the Gazette, make rules for all or any of the following purposes:
+(1) The chief executive may make rules for all or any of the following purposes:
   (a) prescribing, for the purposes of section 16B(2)﻿(a) and (c), 1 or more types of testing procedure that an offender to whom section 16B applies may be required to undergo:
   (b) specifying how often each of the prescribed testing procedures may be carried out:
   (c) prohibiting authorised persons from requiring an offender to undergo certain testing procedures if other less intrusive testing procedures are available and are sufficient in the circumstances:
@@ -1163,6 +1165,7 @@ The chief executive may, by notice in the Gazette, make rules for all or any of 
     (i) controlled drugs:
     (ii) psychoactive substances:
     (iii) alcohol.
+(2) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 74B Further provisions concerning rules about drug and alcohol testing and monitoring
 (1) Rules made under section 74A(a) may, without limitation, prescribe testing procedures that do all or any of the following:
@@ -1178,11 +1181,7 @@ The chief executive may, by notice in the Gazette, make rules for all or any of 
 (3) Subsection (1)﻿(b) overrides subsection (2)﻿(c).
 
 ### 74C Availability of rules about drug and alcohol testing and monitoring, and status under Legislation Act 2012
-(1) The chief executive must ensure that any rules made under section 74A are, while in force, made available—
-  (a) on an Internet site that is maintained by or on behalf of the Department of Corrections and that is, so far as practicable, publicly available free of charge; and
-  (b) for public inspection free of charge; and
-  (c) for purchase at a reasonable price.
-(2) Rules made under section 74A are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### Subpart 3 — Sentence calculation
 
@@ -1894,7 +1893,8 @@ An offender who is subject to an extended supervision order or interim supervisi
 (2) An offender who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 2 years.
 
 ### 107U Rules about court practice and procedure
-The Governor-General may from time to time, by Order in Council, make rules regulating the practice and procedure of courts in proceedings under section 107I, 107M, or 107RA.
+(1) The Governor-General may from time to time, by Order in Council, make rules regulating the practice and procedure of courts in proceedings under section 107I, 107M, or 107RA.
+(2) See section 148 of the Senior Courts Act 2016 and section 228 of the District Court Act 2016, which provide that court rules are secondary legislation.
 
 ### 107V Additional victim notification
 The chief executive must notify every victim of an offender who is subject to an extended supervision order or interim supervision order if any of the following occurs:
