@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993
-_Consolidation as at 2021-04-13_
+_Consolidation as at 2021-10-28_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble
 
@@ -252,6 +252,7 @@ The Ministry of Justice shall be responsible for all matters relating to the adm
   (b) abolish any such district, or alter the limits or the designation of any such district, as the Governor-General thinks fit.
 (2) The Chief Judge shall from time to time assign a Judge to each district, or to 2 or more districts, as the Chief Judge thinks fit.
 (3) There shall be a Registrar for each district, but the same person may hold office as Registrar for any 2 or more districts.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 16 Seal of court
 (1) The court shall have, in the custody of each Judge and each Registrar, a seal, which shall be the seal of the court and shall be used for sealing documents that require to be sealed.
@@ -673,6 +674,7 @@ If additional members are appointed under section 26S(4) or section 26T(4) or se
 (1) The Governor-General may, by Order in Council, confer upon the court jurisdiction to determine any claim, dispute, issue, question, or other matter affecting the rights of Maori in any real or personal property, or any other matter that, in the opinion of the Governor-General, properly falls within the field of the special expertise of the court.
 (2) Any order made by the court in any case referred to it under this section shall have the same effect and shall be dealt with as nearly as may be in the same manner as an order or determination of similar nature made by the court in the exercise of the jurisdiction expressly conferred upon it by this Act.
 (3) Nothing in this section shall authorise such an extension of the jurisdiction of the court as would remove or modify any statutory restriction or limitation of the jurisdiction of the court, or to confer on the court authority to vary or annul any order or decision of the Maori Appellate Court.
+(4) An order under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 28 Additional members for purposes of court’s special jurisdiction
 (1) An Order in Council made under section 27(1) may provide that, for the purpose of any claim, dispute, issue, question, or other matter to which the Order in Council relates, there shall be 1 or 2 additional members of the Maori Land Court or the Maori Appellate Court, as the case may require.
@@ -1264,15 +1266,17 @@ The principal function of the Rules Committee shall be to review and keep under 
   (o) requiring any appellant to give security for the costs of the appeal, and providing for the dismissal of an appeal by the Maori Land Court or by a Judge of that court on the ground of the failure of the appellant to conform to any such requirement, or to prosecute the appeal in accordance with the rules:
   (p) prescribing the classes of person before whom affidavits, declarations, or affirmations to be used in any proceedings before the court may be sworn or made within or outside New Zealand.
 (4) Rules of court made under this section shall take effect from the date specified in that behalf by the Order in Council by which the rules are made.
+(5) Rules of court under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Fees**
 
 ### 96 Regulations
-Notwithstanding anything in section 95, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) Notwithstanding anything in section 95, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the matters in respect of which fees are payable under this Act:
   (b) prescribing scales of fees for the purposes of this Act and for the purposes of any proceedings before the Maori Land Court or the Maori Appellate Court, whether under this Act or any other enactment:
   (c) prescribing the fees, travelling allowances, and expenses payable to interpreters and to persons giving evidence in proceedings to which this Act applies:
   (d) conferring on a Judge, a Registrar, a Deputy Registrar, or any other person the power to determine the amount of the fee payable in a particular case and whether any fees should be refunded, remitted, or reduced.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Miscellaneous provisions**
 
@@ -2352,6 +2356,7 @@ The assembled owners of any land may consider, and, where appropriate, pass reso
   (i) providing for the appointment of and prescribing the powers and duties of recording officers:
   (j) providing for such other matters as are contemplated by or necessary for the administration of this Part.
 (2) The provisions of any regulations made under this section that prescribe quorum and voting requirements in relation to resolutions authorising the sale or lease of Maori freehold land shall not apply where the land to which the resolution relates is vested in a Maori incorporation within the meaning of section 4.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 10 — Representation of owners of Maori land
 
@@ -3474,6 +3479,7 @@ Promptly after the end of each financial year of a Maori incorporation, each mem
   (s) the form of the common seal:
   (t) any transitional provisions required in relation to Maori incorporations in existence on the commencement of this Act, which transitional provisions may provide for the continuation in force in relation to such Maori incorporations or any of them of provisions of Part 4 of the Maori Affairs Amendment Act 1967 or of any other enactment repealed by this Act:
   (u) such other matters as are not inconsistent with this Act or with law.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 14 — Title reconstruction and improvement
 
@@ -3920,7 +3926,8 @@ The Registrar of the Maori Land Court must notify the relevant local authority o
   (b) any amendment or cancellation of an occupation order made under section 330.
 
 ### 331 Regulations
-The Governor-General may from time to time, by Order in Council, make such regulations as may be necessary or expedient to give effect to this Part.
+(1) The Governor-General may from time to time, by Order in Council, make such regulations as may be necessary or expedient to give effect to this Part.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 16 — Surveys of Maori land
 
@@ -3989,6 +3996,7 @@ The Governor-General may from time to time, by Order in Council, make such regul
   (c) papakāinga housing.
 (15) The Governor-General may from time to time, by Order in Council, make all such regulations as, in the Governor-General’s opinion, may be necessary or expedient for giving full effect to the provisions of this section.
 (16) Any such regulations may apply to any specified Maori reservation or to any specified class of Maori reservations, or to Maori reservations generally.
+(16A) Regulations under subsection (15) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (17) Where any Maori reservation (set apart under any Act repealed by this Act or the corresponding provisions of any former Act) is subsisting at the commencement of this Act, this Act, and any regulations made under this Act, have effect,—
   (a) in relation to the Maori reservation, as if it were a Maori reservation set apart under this section; and
   (b) in relation to any vesting order made in respect of the Maori reservation (under any Act repealed by this Act or the corresponding provisions of any former Act), as if that vesting order were a vesting order made under this section.
