@@ -1,5 +1,5 @@
 # New Zealand Business Number Act 2016
-_Consolidation as at 2020-09-14_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the New Zealand Business Number Act 2016.
@@ -8,6 +8,7 @@ This Act is the New Zealand Business Number Act 2016.
 (1) This Act comes into force for all purposes, except the purposes referred to in subsections (2) and (3), 28 days after the date on which it receives the Royal assent.
 (2) This Act comes into force for the purpose of applying to unincorporated entities on a date to be appointed by the Governor-General by Order in Council, and 1 or more orders may be made appointing different dates for the purposes of the Act applying to different types of unincorporated entities.
 (3) If, in respect of 1 or more types of unincorporated entity, no order under subsection (2) appointing a date is made before 12 December 2016, the Act comes into force, for the purpose of applying to those unincorporated entities, on that date.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -197,6 +198,7 @@ The following primary business data contained in the register for an NZBN entity
     (i) consult the Privacy Commissioner and take into account any potential privacy effects of the amendment; and
     (ii) have regard to the advantages and disadvantages of the information or type of information being included in the NZBN register:
   (b) amend Schedule 4, have regard to the advantages and disadvantages of the information or type of information being included in the register.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 23 Updating register
 (1) The Registrar must ensure that an NZBN entity may access the primary business data contained in the register for the entity for the purpose of checking the accuracy of that data.
@@ -249,6 +251,7 @@ A government agency may use the NZBN of an entity (including using it in additio
   (b) have regard to the following matters:
     (i) the advantages and disadvantages, for eligible entities, of the authorisation; and
     (ii) the potential effects of the authorisation on the government agency’s costs.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Registrar of New Zealand Business Numbers**
 
@@ -330,6 +333,7 @@ If the Registrar makes any of the decisions referred to in section 34(1) and (2)
   (b) subsection (1)﻿(c), in addition to the requirement under paragraph (a),—
     (i) consult the Registrar; and
     (ii) be satisfied that the declaration is necessary or desirable in order to uphold the integrity of the register.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 37A Regulations relating to fees and charges
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing fees and charges that the Registrar may require to be paid to the Registrar (or the rate at which, or the method by which, fees and charges are to be calculated) in connection with the performance or exercise by the Registrar of any function, power, or duty conferred by or under this Act.
@@ -338,6 +342,10 @@ If the Registrar makes any of the decisions referred to in section 34(1) and (2)
   (b) authorise the Registrar to refund or waive, in whole or in part and on any prescribed conditions, payment of a fee or charge in relation to any person or class of persons.
 (3) The Registrar may refuse to perform or exercise a function, power, or duty until the prescribed fee or charge is paid.
 (4) Any fee or charge payable to the Registrar is recoverable by the Registrar in any court of competent jurisdiction as a debt due to the Registrar.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) If the regulations authorise the Registrar to refund or waive a payment under subsection (2)﻿(b),—
+  (a) the instrument refunding or waiving the payment is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 37B Regulations relating to levy
 (1) Every NZBN entity, or every NZBN entity that is included in a prescribed class of NZBN entities, must pay to the Crown, or a prescribed person on behalf of the Crown, a levy prescribed by regulations.
@@ -358,6 +366,7 @@ If the Registrar makes any of the decisions referred to in section 34(1) and (2)
   (i) provide for waivers or refunds of the whole or any part of a levy for any case or class of cases.
 (6) If an entity is in 2 or more classes of NZBN entities in respect of which different levies have been prescribed, the entity must pay each of those levies (unless the regulations provide otherwise).
 (7) The amount of any unpaid levy is recoverable in any court of competent jurisdiction as a debt due to the Registrar, or to any other person prescribed for the purposes of this subsection, on behalf of the Crown.
+(8) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 37C Minister must consult about fee, charge, or levy regulations
 (1) Before recommending the making of regulations under section 37A or 37B, the Minister must consult—
