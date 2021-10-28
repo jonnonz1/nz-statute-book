@@ -1,5 +1,5 @@
 # Royal Succession Act 2013
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Royal Succession Act 2013.
@@ -9,6 +9,7 @@ This Act is the Royal Succession Act 2013.
 (2) One or more orders may be made appointing different times and days for different provisions.
 (3) Before the time and day appointed for a provision by an order under subsection (1) (in this Act called the changeover), the order may be amended or revoked.
 (4) The rest of this Act comes into force on the day after the date on which this Act receives the Royal assent.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Formal and substantive provisions
 
@@ -47,7 +48,7 @@ No person alive immediately before the changeover is excluded from succeeding to
   (b) at the time the marriage was solemnised, the (or each) party descended from His late Majesty King George the Second was unaware, and it was reasonable in all the circumstances for that (or for each such) party not to be aware, that that Act applied to it; and
   (c) before the changeover, no person has acted on the basis that the marriage was void.
 (2) A party to the marriage is, for the purposes of this section, aware that that Act applied to it if consent under section 1 of that Act to the marriage was sought before it was solemnised (whether or not notice was also given under section 2 of that Act relating to the marriage before it was solemnised).
-(3) Subsection (2) does not limit subsection (1)(b).
+(3) Subsection (2) does not limit subsection (1)﻿(b).
 
 ## Part 2 — Application in New Zealand of Imperial Acts
 
@@ -64,7 +65,7 @@ The Act of Settlement 1700 (12 and 13 Will 3, c 2) continues to be part of the l
 
 ### 12 Application of Royal Marriages Act 1772
 (1) On the changeover, the Royal Marriages Act 1772 ceases to be part of the laws of New Zealand.
-(2) Sections 17 to 19 and 21 of the Interpretation Act 1999 apply to the Royal Marriages Act 1772 as if it were an Act of the Parliament of New Zealand and subsection (1) had repealed it on the changeover.
+(2) Sections 32 to 35 of the Legislation Act 2019 apply to the Royal Marriages Act 1772 as if it were an Act of the Parliament of New Zealand and subsection (1) had repealed it on the changeover.
 
 ### 13 Imperial Laws Application Act 1988 amended
 (1) This section consequentially amends the Imperial Laws Application Act 1988.
