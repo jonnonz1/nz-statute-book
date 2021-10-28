@@ -1,5 +1,5 @@
 # Maori Purposes Act 1959
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to amend the law relating to Maoris and Maori land, and for other purposes
 
@@ -53,6 +53,7 @@ In this Part, unless the context otherwise requires,—
 ### 5 Fees for entry permits
 (1) There shall be payable to the Trustees for every entry permit such fee as the Trustees prescribe from time to time, and different fees may be so prescribed in respect of entry permits for different purposes.
 (2) All fees received by the Trustees for the issue of entry permits shall be held by the Trustees for the purposes of the Rotoaira Trust.
+(3) A fee prescribed under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 6 Holder of entry permit not to enter on private land without consent
 Nothing in any entry permit shall entitle the holder to enter on any land not vested in the Trustees except with the consent of the occupier of the land:
@@ -108,6 +109,10 @@ The operation of the Conservation Act 1987, in its application to the Lake, is h
   (g) prescribing the manner in which the Trustees shall give public notice of the number of entry permits that may from time to time be issued, the fees payable for entry permits, the conditions on which entry permits are issued and any alterations in those conditions, and such other matters as are specified in the regulations:
   (h) prescribing fines not exceeding $100 for offences against the regulations.
 (3) No regulations made under this section shall be deemed to be invalid solely on the ground that they delegate to the Trustees any powers, including the power from time to time to impose or vary limits as to the size, species, and number of the fish that may be taken from the Lake during any prescribed period, or any other matters affecting the management and control of the Lake.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) If the regulations empower the Trustees as described in subsection (2)﻿(e),—
+  (a) an instrument made by the Trustees under that power is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 
 ### 16 Repeals
 The following enactments are hereby repealed:
