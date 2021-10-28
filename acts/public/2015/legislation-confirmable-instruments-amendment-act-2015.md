@@ -1,5 +1,5 @@
 # Legislation (Confirmable Instruments) Amendment Act 2015
-_Consolidation as at 2015-12-09_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Legislation (Confirmable Instruments) Amendment Act 2015.
