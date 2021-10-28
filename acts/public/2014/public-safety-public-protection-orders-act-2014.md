@@ -1,5 +1,5 @@
 # Public Safety (Public Protection Orders) Act 2014
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Public Safety (Public Protection Orders) Act 2014.
@@ -524,6 +524,7 @@ In this section and in sections 51 to 61, unless the context otherwise requires,
     (i) is a person of a kind or description for the time being exempted from monitoring under this Act by the Governor-General by Order in Council (being an order specifying a purpose or purposes for which the exemption is granted); and
     (ii) is acting for a purpose specified in the order; or
   (f) a call between a resident and a person (other than a resident) for the time being exempted from monitoring under this Act by the chief executive.
+(3) An order under subsection (2)﻿(e)﻿(i) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 54 Only certain persons may monitor resident calls
 (1) No person other than the chief executive or a person who is an eligible employee authorised by the chief executive to monitor resident calls (in subsection (2), and sections 56, 57, and 59 referred to as an authorised person) may monitor a resident call under this Act.
@@ -1041,7 +1042,7 @@ A person who is subject to a protective supervision order and who breaches, with
 **Rules**
 
 ### 103C Rules about testing and monitoring of persons with drug or alcohol requirements
-The chief executive may, by notice in the Gazette, make rules for all or any of the following purposes:
+(1) The chief executive may make rules for all or any of the following purposes:
   (a) prescribing, for the purposes of section 95B(2)﻿(a) and (c), 1 or more types of testing procedure that a person to whom section 95B applies may be directed to undergo:
   (b) specifying how often each of the prescribed testing procedures may be carried out:
   (c) prohibiting authorised persons from directing a person to whom section 95B applies to undergo certain testing procedures if other less intrusive testing procedures are available and are sufficient in the circumstances:
@@ -1053,6 +1054,7 @@ The chief executive may, by notice in the Gazette, make rules for all or any of 
     (i) controlled drugs:
     (ii) psychoactive substances:
     (iii) alcohol.
+(2) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 103D Further provisions concerning rules made under section 103C
 (1) Rules made under section 103C(a) may, without limitation, prescribe testing procedures that do all or any of the following:
@@ -1068,11 +1070,7 @@ The chief executive may, by notice in the Gazette, make rules for all or any of 
 (3) Subsection (1)﻿(b) overrides subsection (2)﻿(c).
 
 ### 103E Availability of rules made under section 103C and status under Legislation Act 2012
-(1) The chief executive must ensure that any rules made under section 103C are, while in force, made available—
-  (a) on an Internet site that is maintained by or on behalf of the department and that is, so far as practicable, publicly available free of charge; and
-  (b) for public inspection free of charge; and
-  (c) for purchase at a reasonable price.
-(2) Rules made under section 103C are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ## Part 2 — Procedural, administrative, and miscellaneous matters
 
@@ -1203,7 +1201,7 @@ For the purposes of any review under section 15 or 87, the review panel must int
 (3) Rules made under subsection (1) may, without limitation, authorise the manager to permit residents to possess prohibited items, subject to limits specified in the rules and subject to the manager being satisfied of certain matters specified in the rules concerning the protection of the order of the residence and the health and safety of any person.
 (4) Any rules made under subsection (1) may be revoked at any time by the residence manager or the chief executive.
 (5) Any rules made under subsection (1) must not be inconsistent with this Act or any regulations made under this Act.
-(6) Rules made under subsection (1) are not disallowable instruments for the purposes of the Legislation Act 2012 and do not have to be presented to the House of Representatives under section 41 of that Act.
+(6) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (7) Rules made under subsection (1) may regulate the exercise of coercive powers conferred by this Act, but may not confer any additional coercive powers.
 
 ### 120 Chief executive may provide guidelines or instructions
@@ -1214,11 +1212,8 @@ For the purposes of any review under section 15 or 87, the review panel must int
     (ii) in providing for the safe custody of residents:
     (iii) in escorting persons pursuant to directions under section 73.
 (2) The chief executive must ensure that guidelines are provided, under subsection (1), relating to the exercise of coercive powers.
-(3) All guidelines and instructions provided under subsection (1) are disallowable instruments for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(4) The chief executive must—
-  (a) publish all instructions provided under subsection (1) on the Internet site maintained by the department; and
-  (b) make sufficient copies of any instructions provided under subsection (1) available for public inspection, free of charge, at the head office of the department during normal office hours; and
-  (c) make sufficient copies of those instructions available either for distribution free of charge or for purchase at a reasonable price during normal office hours at the head office of the department.
+(3) Guidelines and instructions under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4)
 
 ### 121 Matters to be included in annual report of department
 (1) The department's annual report under section 43 of the Public Finance Act 1989 must state in respect of the year to which the report relates—
@@ -1373,6 +1368,7 @@ Without limiting clauses 2 to 4 of Schedule 6 of the Public Service Act 2020, th
   (c) providing for the management, care, treatment, well- being, and rehabilitation of residents or persons subject to prison detention orders, and for their reintegration into the community:
   (d) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) Regulations under subsection (1) may regulate the exercise of coercive powers conferred by this Act, but may not confer any additional coercive powers.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 138 Sentence of preventive detention not affected by this Act
 This Act does not affect the imposition of any sentence of preventive detention under the Sentencing Act 2002, and, in considering whether to impose such a sentence, the court must not take into account the jurisdiction conferred by this Act to impose orders on offenders who have served determinate sentences.
