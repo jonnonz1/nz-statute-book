@@ -1,11 +1,12 @@
 # Plant Variety Rights Act 1987
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to the granting of proprietary rights in respect of plant varieties
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Plant Variety Rights Act 1987.
 (2) This Act shall come into force on a day to be fixed by the Governor-General by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
@@ -145,6 +146,7 @@ Where—the Commissioner shall cancel that grant, and shall make a new grant to 
   (a) of 23 years, or any longer period specified in that behalf by the Governor-General by Order in Council (made before, on, or after the day that grant is made, but before that grant expires), in the case of a woody plant or its rootstock; and
   (b) of 20 years in every other case;—
 (3) The Commissioner shall keep a register, and record in it the date and other prescribed particulars (if any) of every grant.
+(4) An order under subsection (2)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 15 Objections after grant
 (1) Any person who considers that a grant has been made in respect of a variety that is not new, distinct, stable, and homogeneous (as required by section 10) may at any time, by notice in writing to the Commissioner, object to the continuation in force of that grant.
@@ -170,7 +172,7 @@ Where—the Commissioner shall cancel that grant, and shall make a new grant to 
 ### 17 Rights of grantees
 (1) Subject to section 19, a grantee shall have the exclusive right—
   (a) to produce for sale, and to sell, reproductive material of the variety concerned:
-  (b) if that variety is a plant of a type specified by the Governor-General by Order in Council for the purposes of this paragraph, to propagate that variety for the purposes of the commercial production of fruit, flowers, or other products, of that variety:
+  (b) if that variety is a plant of a type specified by the Governor-General by Order in Council for the purposes of this paragraph (see subsection (10)), to propagate that variety for the purposes of the commercial production of fruit, flowers, or other products, of that variety:
   (c) subject to any terms and conditions that grantee specifies, to authorise any other person or persons to do any of the things described in paragraph (a) or paragraph (b).
 (2) Notwithstanding subsection (1) the Minister may, by notice in the Journal, and after ensuring that the grantee under the grant concerned will be adequately compensated, impose such restrictions on the exercise of the rights of that grantee in respect of any specified variety as the Minister thinks necessary in the public interest during a state of national emergency declared under the Civil Defence Emergency Management Act 2002.
 (3) A grant may be assigned, mortgaged, or otherwise disposed of; and may devolve by operation of law.
@@ -187,6 +189,7 @@ Where—the Commissioner shall cancel that grant, and shall make a new grant to 
 (7) The sale under the denomination of a protected variety of reproductive material of some other variety constitutes an infringement of the rights under this section of the grantee of that protected variety, unless the groups of plants to which those varieties belong are internationally recognised as being distinct for the purposes of denomination.
 (8) Where, in any proceedings for the infringement of the rights under this section of a grantee, it is proved or admitted that an infringement was committed but proved by the defendant that, at the time of that infringement, the defendant was not aware and had no reasonable grounds for supposing that it was an infringement, the plaintiff shall not be entitled under this section to any damages against the defendant in respect of that infringement, but shall be entitled instead to an account of profits in respect of that infringement.
 (9) Nothing in subsection (8) affects any entitlement of a grantee to any relief in respect of the infringement of that grantee's rights under this section other than damages.
+(10) An order under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 18 Exceptions to grantees' rights
 Notwithstanding section 17, any person may—
@@ -348,7 +351,7 @@ Where any person has appealed against any decision of the Commissioner, the oper
 (8) Amendment(s) incorporated in the Act(s).
 
 ### 38 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) regulating the business of the Office:
   (b) regulating any matters placed under the direction or control of the Commissioner by this Act:
   (c) prescribing the form and manner of applications and the form of diagrams, photographs, and other documents that may be filed in the Office; and requiring copies to be furnished of any such applications, surrenders, diagrams, photographs, and documents; and authorising the rectification or amendment of any of them:
@@ -366,9 +369,11 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (m) prescribing the requirements to be met in selecting the denomination of varieties, and providing for the approval, rejection, or amendment of any denomination by the Commissioner:
   (n) giving effect to the terms of any international agreement to which New Zealand is a party:
   (o) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 38A Orders in Council as to convention parties
-For the purpose of giving effect to any international agreement or arrangement to which New Zealand is a party or that applies to New Zealand, the Governor-General may by Order in Council declare that any entity specified in the order that is a party to the agreement or arrangement or to which the agreement or arrangement applies (whether a State, part of a State, a territory for whose international relations a State is responsible, a political union, an international organisation, or any other entity) is a convention party for the purposes of this Act.
+(1) For the purpose of giving effect to any international agreement or arrangement to which New Zealand is a party or that applies to New Zealand, the Governor-General may by Order in Council declare that any entity specified in the order that is a party to the agreement or arrangement or to which the agreement or arrangement applies (whether a State, part of a State, a territory for whose international relations a State is responsible, a political union, an international organisation, or any other entity) is a convention party for the purposes of this Act.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 39 Transitional provisions
 (1) The place appointed by the Minister as the Plant Varieties Office under the Plant Varieties Act 1973 shall be deemed to have been appointed the Office under section 28 on the commencement of this Act.
