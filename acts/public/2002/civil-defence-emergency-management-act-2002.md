@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -331,7 +331,7 @@ Each member of a Civil Defence Emergency Management Group—
 
 ### 24 Functions and costs of administering authorities and chief executives of administering authorities
 (1) An administering authority established under section 23 and, as appropriate, the chief executive of that authority are responsible for the provision of administrative and related services that may from time to time be required by the relevant Civil Defence Emergency Management Group.
-(2) The administrative and related services referred to in subsection (1) include services required for the purposes of the Local Government Act 2002, this Act, or any other Act, regulation, or bylaw that applies to the conduct of a joint standing committee under clause 30(1)﻿(b) of Schedule 7 of the Local Government Act 2002.
+(2) The administrative and related services referred to in subsection (1) include services required for the purposes of the Local Government Act 2002, this Act, or any other legislation that applies to the conduct of a joint standing committee under clause 30(1)﻿(b) of Schedule 7 of the Local Government Act 2002.
 (3) The cost of the administrative and related services must be agreed from time to time by each Group.
 (4) Unless the members of a Group agree otherwise, the costs agreed under subsection (3) must be divided equally among the members and each member must pay 1 share of the cost.
 
@@ -399,6 +399,7 @@ Each member of a Civil Defence Emergency Management Group—
   (a) the Crown's goals in relation to civil defence emergency management in New Zealand:
   (b) the objectives to be pursued to achieve those goals:
   (c) the measurable targets to be met to achieve those objectives.
+(3) A national civil defence emergency management strategy is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 32 Procedure for completing national civil defence emergency management strategy
 (1) Before completing the national civil defence emergency management strategy, the Minister must—
@@ -409,7 +410,7 @@ Each member of a Civil Defence Emergency Management Group—
   (b) give interested persons a reasonable time, which must be specified in the notice published under paragraph (a), to make submissions on the proposal; and
   (c) consult any persons that the Minister in each case considers appropriate.
 (2) The Minister may sign the completed national civil defence emergency management strategy and, as soon as possible after signing the strategy, must,—
-  (a) by notice in the Gazette, state that the strategy has been made and specify the place or places where the strategy is available to members of the public for inspection free of charge and for purchase at a reasonable price; and
+  (a)
   (b) present a copy of the strategy to the House of Representatives.
 
 ### 33 Timing of first national civil defence emergency management strategy
@@ -417,7 +418,7 @@ The Minister must complete the first national civil defence emergency management
 
 ### 34 Currency of national civil defence emergency management strategy
 (1) The national civil defence emergency management strategy—
-  (a) takes effect on the 28th day after the date of its notification in the Gazette or on any later date specified in the strategy; and
+  (a) takes effect on the 28th day after the date of its publication under the Legislation Act 2019 or on any later date specified in the strategy; and
   (b) subject to section 36, remains current for 10 years or any lesser period specified in the strategy.
 (2) The Minister must ensure that, at all times after the completion of the first national civil defence emergency management strategy, there is a current national civil defence emergency management strategy.
 
@@ -454,17 +455,13 @@ All persons exercising functions in relation to the development of civil defence
   (d) the co-ordination of civil defence emergency management during a state of national emergency or a national transition period:
   (e) the period for which the plan remains in force.
 (3) The national civil defence emergency management plan may authorise a person to exercise the power in section 88.
-(4) A national civil defence emergency management plan made under this section is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 40 Incorporation by reference
-(1) This section applies if section 49 of the Legislation Act 2012 is relied on to incorporate material by reference in a national civil defence emergency plan.
-(2) When this section applies, subpart 2 of Part 3 of the Legislation Act 2012 applies with the following modifications:
-  (a) section 51 does not apply:
-  (b) section 52 must be read as if—
-    (i) references to the chief executive were references to the Director; and
-    (ii) references to the inspection sites were references to the office of the Director:
-  (c) section 54 must be read as if references to the chief executive were references to the Director:
-  (d) section 56 does not apply.
+(1) This section applies if section 64 of the Legislation Act 2019 is relied on to incorporate material by reference in a national civil defence emergency management plan.
+(2) When this section applies, sections 63 to 66 and Schedule 2 of the Legislation Act 2019 apply with the following modifications:
+  (a) clause 1 of that schedule does not apply:
+  (b) the rest of that schedule applies as if references to the chief executive were references to the Director.
 
 ### 41 Notification of proposed national civil defence emergency management plan
 (1) The Minister must not recommend to the Governor-General the making of a national civil defence emergency management plan unless the Minister—
@@ -495,14 +492,15 @@ All persons exercising functions in relation to the development of civil defence
 The Minister must not recommend to the Governor-General the making of a national civil defence emergency management plan if the plan will be inconsistent with the national civil defence emergency management strategy in force when the plan takes effect.
 
 ### 43 Copy of order to be presented to House of Representatives
-As soon as is practicable after an order has been made under section 39, the Minister must present a copy of the order to the House of Representatives.
+[Repealed]
 
 ### 44 First national civil defence emergency management plan
-The Minister must, no later than 3 years after the date of the commencement of this Act, recommend that the Governor-General make an Order in Council under this section making the first national civil defence emergency management plan.
+(1) The Minister must, no later than 3 years after the date of the commencement of this Act, recommend that the Governor-General make an Order in Council under this section making the first national civil defence emergency management plan.
+(2) The order is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 45 Currency of national civil defence emergency management plan
 A national civil defence emergency management plan—
-  (a) takes effect on the date specified in the Order in Council making the plan under section 39, which date must be no earlier than the 28th day after the date of the notification of the order in the Gazette; and
+  (a) takes effect on the date specified in the Order in Council making the plan under section 39, which date must be no earlier than the 28th day after the date of the publication of the order under the Legislation Act 2019; and
   (b) remains operative for the period specified in the Order in Council, but if the plan is not replaced before the close of that period it continues in force until replaced.
 
 **Review and amendment of national civil defence emergency management plan**
@@ -511,11 +509,12 @@ A national civil defence emergency management plan—
 (1) If a national civil defence emergency management plan has been operative for 5 years or more and it is more than 5 years since the plan has been reviewed under this section, the Minister must review the plan.
 (2) The Minister may at any time review a national civil defence emergency management plan.
 (3) Following a review, the Minister may recommend that the plan be amended or revoked and replaced or may decide not to recommend that the plan be changed.
-(4) A review under this section is commenced by a proposal notified in accordance with section 41, and sections 39, 40, 43 and 45 apply to that review with any necessary modifications.
+(4) A review under this section is commenced by a proposal notified in accordance with section 41, and sections 39, 40, and 45 apply to that review with any necessary modifications.
 
 ### 47 Minor changes to plan
 (1) Subject to subsection (2), a national civil defence emergency management plan may be amended by the Governor-General, by Order in Council made on the recommendation of the Minister, without a review of the plan under section 46.
 (2) A plan may be amended under this section only if the Minister is satisfied that the amendment will have no effect or no likely effect on the rights of any person and no effect or no more than a minor effect on the obligations of any person.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Civil defence emergency management group plans**
 
@@ -619,6 +618,7 @@ Every lifeline utility must—
   (g) otherwise amend Schedule 1 or revoke Schedule 1 or a part of the schedule, and substitute a new schedule or a new part, as the case may require.
 (2) The Minister must not recommend the addition of the name of an entity or description of an entity to Part A of Schedule 1 unless the Minister is satisfied that the entity operates a service or system the reduced availability, or non-availability, of which would constitute a hazard.
 (3) The Minister must not recommend the addition of a description of a class of business to Part B of Schedule 1 unless the Minister is satisfied that the business provides a service or system the reduced availability, or non-availability, of which would constitute a hazard.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 62 Minister may exempt lifeline utility
 The Minister may, by notice in the Gazette, on any conditions that the Minister thinks fit, exempt a particular entity described in, or carrying on a business described in, Schedule 1 in whole or in part from the provisions of this Act relating to lifeline utilities if the Minister is satisfied that the application of the provisions is not appropriate in the case of that entity.
@@ -1303,7 +1303,7 @@ Subject to any agreement entered into between them, if a Civil Defence Emergency
 (5) If a notice or other document is sent by post to a person in accordance with subsection (1)﻿(c), it must be treated, in the absence of proof to the contrary, as having been received by the person at the time at which the letter would have been delivered in the ordinary course of the post.
 
 ### 115 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the form of distinguishing warrants, badges, or other insignia for civil defence emergency management personnel, and regulating the use and wearing of those warrants, badges, or other insignia:
   (b) prescribing the form of identification passes for civil defence emergency management purposes, and regulating their use:
   (c) prescribing matters relating to the provision, maintenance, control, and operation of warning systems:
@@ -1315,6 +1315,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (i) prescribing forms that may be used for the purposes of this Act:
   (j) prescribing fines not exceeding $500 for the breach of any regulation made under this section:
   (k) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 115A Permanent legislative authority for payment of certain expenses
 The Crown may, without further appropriation than this section, incur expenses to reimburse a local authority for, or to pay public money for the purpose of meeting, expenses incurred by a local authority in connection with an emergency if the expenses—
