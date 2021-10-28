@@ -1,5 +1,5 @@
 # Incorporated Societies Amendment Act 1920
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2021-10-28_
 
 > An Act to amend the Incorporated Societies Act 1908
 
@@ -20,7 +20,7 @@ This Act may be cited as the Incorporated Societies Amendment Act 1920, and shal
     (i) a majority of the members of the branch or branches has consented to the application; and
     (ii) the rules that are endorsed with the application are the rules of the branch or the group; and
   (c) the prescribed fee.
-(2) The signature of a person signing for the purposes of subsection (1)(a) must be—
+(2) The signature of a person signing for the purposes of subsection (1)﻿(a) must be—
   (a) witnessed by a person who has not signed the rules; and
   (b) accompanied by the address of the person signing.
 (3) In the case of a body corporate that has a seal, the seal may also be affixed as part of its signature.
@@ -44,7 +44,8 @@ The incorporation of a branch of a society under this Act shall not relieve the 
 For the purposes of this Act membership of a branch of a society shall be determined in accordance with the general rules of the society and the special rules (if any) of the branch in that behalf, and not otherwise, and every member of a local branch shall be deemed to be a member of the society and liable to all the obligations of membership.
 
 ### 8 Governor-General in Council may make regulations
-The Governor-General may from time to time, by Order in Council, make regulations—
+(1) The Governor-General may from time to time, by Order in Council, make regulations—
   (a) Prescribing the fees to be paid by or on behalf of a society or branch in respect of the incorporation of a branch or group of branches under this Act;
   (b) Prescribing forms of application for the registration of a branch of a society or group of branches under this Act; and
   (c) Prescribing such other matters and things as may in his opinion be necessary for the purpose of giving effect to the provisions of this Act.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
