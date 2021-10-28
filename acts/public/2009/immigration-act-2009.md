@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2021-10-05_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -10,6 +10,7 @@ This Act is the Immigration Act 2009.
 (3) Section 477 comes into force on a date to be appointed by the Governor-General by Order in Council (being a date not earlier than the second day after the date on which this Act receives the Royal assent).
 (4) Sections 475, 476, and 478 come into force on the day after the date on which this Act receives the Royal assent.
 (5) Section 474 comes into force on the day after the date on which the Immigration Act 2009 Amendment Act 2010 receives the Royal assent.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -518,9 +519,7 @@ A person who is unlawfully in New Zealand may not—
     (iii) set or indicate rules, criteria, or other relevant matters of the kinds specified in subsection (5)﻿(a) to (g) that will or may apply for the purpose of determining whether an invitation to apply for a visa should be granted to any such person:
     (iv) stipulate any time frame, or any method for determining the time frame, within which the relevant application must be made following the issue of an invitation to apply for a visa.
 (7) Any conditions referred to in subsection (5)﻿(h) that relate to resident visas (other than conditions relating to travel) must specify the maximum period, not exceeding 5 years, for which they may be imposed.
-(8) Immigration instructions certified by the Minister under subsection (1)—
-  (a) are statements of government policy:
-  (b) are neither legislative instruments nor disallowable instruments for the purposes of the Legislation Act 2012 and do not have to be presented to the House of Representatives under section 41 of that Act.
+(8) Immigration instructions certified by the Minister under subsection (1) are statements of Government policy.
 
 ### 23 Immigration instructions classified as residence instructions, temporary entry instructions, or transit instructions
 (1) The Minister must classify immigration instructions as—
@@ -873,8 +872,9 @@ At any one time, a person may hold only 1 current visa.
   (d) the type of visa concerned:
   (e) any other type of visa that they have applied for.
 (4D) A special direction under subsection (4A)—
-  (a) must, along with an explanation of the effect of the special direction, be notified in the Gazette and published on an Internet site maintained by or on behalf of the Department; and
-  (b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) commences in accordance with section 378(3), even if it is not yet published; and
+  (c) must be published together with an explanation of the effect of the special direction.
 (4E) This subsection and subsections (4A) to (4D) are repealed at the close of 15 May 2023.
 (5) To avoid doubt,—
   (a) subsection (2) applies whether the resident visa was granted as an exception to residence instructions or otherwise:
@@ -918,8 +918,9 @@ At any one time, a person may hold only 1 current visa.
   (d) the type of visa concerned:
   (e) any other type of visa that they have applied for.
 (4D) A special direction under subsection (4A)—
-  (a) must, along with an explanation of the effect of the special direction, be notified in the Gazette and published on an Internet site maintained by or on behalf of the Department; and
-  (b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) commences in accordance with section 378(3), even if it is not yet published; and
+  (c) must be published together with an explanation of the effect of the special direction.
 (4E) This subsection and subsections (4A) to (4D) are repealed at the close of 15 May 2023.
 (5) Nothing in this section applies to a temporary entry class visa that is subject to restricted temporary entry instructions.
 
@@ -956,8 +957,9 @@ At any one time, a person may hold only 1 current visa.
   (d) the type of visa concerned:
   (e) any other type of visa that they have applied for.
 (4D) A special direction under subsection (4A)—
-  (a) must, along with an explanation of the effect of the special direction, be notified in the Gazette and published on an Internet site maintained by or on behalf of the Department; and
-  (b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) commences in accordance with section 378(3), even if it is not yet published; and
+  (c) must be published together with an explanation of the effect of the special direction.
 (4E) This subsection and subsections (4A) to (4D) are repealed at the close of 15 May 2023.
 (5) To avoid doubt, subsection (2) applies whether the temporary entry class visa was granted as an exception to temporary entry instructions or otherwise.
 
@@ -1013,8 +1015,9 @@ At any one time, a person may hold only 1 current visa.
   (d) the type of visa concerned:
   (e) any other type of visa that they hold or have applied for.
 (6) A special direction under subsection (3)—
-  (a) must, along with an explanation of the effect of the special direction, be notified in the Gazette and published on an Internet site maintained by or on behalf of the Department; and
-  (b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) commences in accordance with section 378(3), even if it is not yet published; and
+  (c) must be published together with an explanation of the effect of the special direction.
 (7) This subsection and subsections (3) to (6) are repealed at the close of 15 May 2023.
 
 ### 58 Obligation on applicant to inform of all relevant facts, including changed circumstances
@@ -1068,8 +1071,9 @@ Where an application for a visa is made by or for a person under 18 years of age
   (c) whether or not they hold, or are required to hold, any particular type of travel or immigration documentation, by whomever issued:
   (d) any type of visa that they hold or have applied for.
 (6) A special direction under subsection (2)—
-  (a) must, along with an explanation of the effect of the special direction, be notified in the Gazette and published on an Internet site maintained by or on behalf of the Department; and
-  (b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) commences in accordance with section 378(3), even if it is not yet published; and
+  (c) must be published together with an explanation of the effect of the special direction.
 (7) This section is repealed at the close of 15 May 2023.
 
 ### 62 Form of visa
@@ -1161,9 +1165,9 @@ An immigration officer may cancel a visa that the officer believes on reasonable
   (c) their immediate or ultimate destination after being in or transiting through New Zealand:
   (d) whether or not they hold, or are required to hold, any particular type of travel or immigration documentation, by whomever issued.
 (4) Any special direction made under subsection (2)﻿(a) or (b)—
-  (a) must be published in the Gazette, and notified in writing through diplomatic channels to any country concerned:
+  (a) must be notified in writing through diplomatic channels to any country concerned:
   (b) expires at the end of the period of 3 months (or such shorter period as is specified in the direction) following the day on which the direction was made, unless sooner cancelled by the Minister by a further special direction, or by regulations:
-  (c) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+  (c) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), but commences in accordance with section 378(3), even if it is not yet published.
 (5) A special direction under subsection (2)﻿(a) or (b) may not be effectively continued in force by the making of a further special direction to the same or similar effect.
 (6) A waiver under this section does not of itself entitle a person subject to the waiver to be granted entry permission.
 
@@ -1285,8 +1289,9 @@ The holder of a permanent resident visa is entitled—
   (c) whether or not they hold, or are required to hold, any particular type of travel or immigration documentation, by whomever issued:
   (d) the type of visa concerned.
 (6) A special direction under subsection (1)—
-  (a) must, along with an explanation of the effect of the special direction, be notified in the Gazette and published on an Internet site maintained by or on behalf of the Department; and
-  (b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) commences in accordance with section 378(3), even if it is not yet published; and
+  (c) must be published together with an explanation of the effect of the special direction.
 (7) This section is repealed at the close of 15 May 2023.
 
 **Temporary entry class visas: provisions applying to temporary visas**
@@ -1390,9 +1395,9 @@ The following persons may apply for a limited visa:
   (c) any other measures (whether in New Zealand or elsewhere) to contain or mitigate the outbreak of COVID-19 or its effects.
 (4C) This subsection and subsections (4A) and (4B) are repealed at the close of 15 May 2023.
 (5) A special direction made under subsection (4)—
-  (a) must be published in the Gazette and notified in writing through diplomatic channels to any country concerned; and
+  (a) must be notified in writing through diplomatic channels to any country concerned; and
   (b) expires at the end of the period of 3 months following the day on which it was made, unless sooner cancelled by the Minister by a further special direction, or by regulations; and
-  (c) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+  (c) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), but commences in accordance with section 378(3), even if it is not yet published.
 (6) A special direction made under subsection (4) may not be effectively continued in force by the making of a further special direction to the same or similar effect.
 (7)
 
@@ -3950,6 +3955,7 @@ For the purposes of this Act, a constable has all the powers of an immigration o
       (ii) any amount of reparation; and
     (b) a warrant to arrest the person has been issued in respect of the non-payment of the whole, or of any part, of any amount referred to in paragraph (a); and
     (c) the warrant has not been withdrawn or executed.
+(5) An order under paragraph (a)﻿(i) of the definition of serious default in subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 296 No Crown liability to third parties for fines enforcement action
 (1) This section applies to the taking of any fines enforcement action against a person who is alleged to be in serious default (the alleged defaulter), or to the questioning of any alleged defaulter with a view to taking any fines enforcement action, immediately—
@@ -5412,7 +5418,7 @@ In any proceedings or process of a kind referred to in section 375(2) in relatio
 (6) A special direction may revoke or amend any previous special direction.
 (7) Nothing in this section limits or affects the powers of the Minister to give all such instructions to the chief executive as the Minister thinks fit in the ordinary course of the administration of the immigration portfolio and of this Act.
 (8) The decision whether to grant a special direction is in the absolute discretion of the Minister.
-(9) A special direction is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act, unless this Act otherwise provides.
+(9)
 
 ### 379 Immigration officer to act in accordance with special direction
 Any decision made, or discretion exercised, under this Act by an immigration officer must be made or exercised in accordance with any special direction that is—
@@ -5794,7 +5800,7 @@ Sections 386A to 387A are default rules that apply subject to any other provisio
 **Regulations**
 
 ### 400 Regulations generally
-The Governor-General may, by Order in Council, make regulations for 1 or more of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for 1 or more of the following purposes:
   (a) prescribing the manner of application and any procedural matters in relation to any applications for visas or other applications under this Act:
   (ab) providing that the chief executive may require that certain applications for visas must be made electronically, in which case the chief executive must maintain a list of such requirements and the regulations must prescribe how that list is to be publicly available:
   (b) prescribing other matters in respect of visas or expressions of interest, including matters provided for in section 401:
@@ -5814,6 +5820,7 @@ The Governor-General may, by Order in Council, make regulations for 1 or more of
   (ka) providing requirements, which may differ from the requirements of sections 386A to 387A, for the manner of service or giving of notices and other documents in specific situations or circumstances:
   (l) exempting classes of persons from the requirement to allow biometric information to be collected from them:
   (m) providing for such other matters as are contemplated by or necessary for giving effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 401 Regulations relating to visas and expressions of interest
 Without limiting section 400, regulations made under that section may—
@@ -5913,10 +5920,10 @@ Without limiting the generality of section 400, regulations made under that sect
 ### 403A Regulations made on recommendation of Minister
 (1) Regulations made under this Part may be made only on the recommendation of the Minister, except as provided in subsection (2).
 (2) Any regulations made under the following provisions may, if they relate to appeals or other matters in the Tribunal, be made only on the recommendation of the Minister for Courts, after consultation with the Minister:
-  (a) section 400(d):
-  (b) section 400(e):
-  (c) section 400(f):
-  (d) section 400(i).
+  (a) section 400(1)﻿(d):
+  (b) section 400(1)﻿(e):
+  (c) section 400(1)﻿(f):
+  (d) section 400(1)﻿(i).
 
 **Modifications of Act relating to COVID-19 outbreak**
 
