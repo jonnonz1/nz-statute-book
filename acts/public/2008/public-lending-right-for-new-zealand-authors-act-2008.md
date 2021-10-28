@@ -1,5 +1,5 @@
 # Public Lending Right for New Zealand Authors Act 2008
-_Consolidation as at 2008-09-29_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Public Lending Right for New Zealand Authors Act 2008.
@@ -109,6 +109,7 @@ The purpose of the scheme is to provide for New Zealand authors to receive payme
 ### 16 Regulation-making power
 (1) The Governor-General may make regulations by Order in Council about one or more of the matters described in section 14.
 (2) The Governor-General may make the regulations only after being advised by the Minister to do so.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Advisory group**
 
