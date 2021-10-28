@@ -1,5 +1,5 @@
 # Care of Children Act 2004
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Care of Children Act 2004.
@@ -203,7 +203,7 @@ For the purposes of this Act, guardianship of a child means having (and therefor
   (b) living with the father of the child as a de facto partner at the time the child was born.
 (3A) For the purposes of subsections (2) and (3), the mother and father of a child may be in a de facto relationship even if—
   (a) either parent is under 16; or
-  (b) either parent is aged 16 or 17 and consent for the relationship (as referred to in section 29A(2) of the Interpretation Act 1999) has not been given.
+  (b) either parent is aged 16 or 17 and consent for the relationship (as referred to in section 14(2) of the Legislation Act 2019) has not been given.
 (4) On the death of the father or the mother, the surviving parent, if he or she was then a guardian of the child, is the sole guardian of the child.
 (5) This section is subject to sections 18 to 34, and therefore does not limit or affect the appointment of 1 or more additional guardians (for example, an additional testamentary guardian of the child appointed by the deceased parent under section 26(2)) or an order (relating to guardianship of the court) under section 33(1).
 
@@ -1108,6 +1108,7 @@ Depositions taken for the purposes of any of sections 72 to 76 or sections 81 to
 (2) An order under subsection (1)—
   (a) may specify the courts of the overseas country in relation to which the order is to have effect or otherwise modify the application of that order to that country; and
   (b) may be varied or amended, revoked, or revoked and replaced by a later order of that kind.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Enforcing New Zealand orders overseas**
 
@@ -1743,6 +1744,8 @@ Except as provided in section 145(1)﻿(b), an order or decision of the High Cou
 (4) In addition to the powers conferred by section 228 of the District Court Act 2016, the Governor-General may, by Order in Council, make rules—
   (a) regulating the practice and procedure of the District Court in proceedings under this Act; and
   (b) providing for any matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(5) Rules under subsection (4)﻿(b) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) As to rules referred to elsewhere in this section, see section 148 of the Senior Courts Act 2016, section 228 of the District Court Act 2016, and section 16A of the Family Court Act 1980, which provide that court rules are secondary legislation.
 
 ### 147 Regulations
 (1) The Governor-General may, by Order in Council, make regulations under section 156 of the Senior Courts Act 2016 (that is, in general terms, regulations prescribing fees for the purposes of proceedings before the High Court or the Court of Appeal) for the purposes of this Act.
@@ -1772,6 +1775,7 @@ Except as provided in section 145(1)﻿(b), an order or decision of the High Cou
     (i) section 131(1)﻿(b):
     (ii) section 135(1)﻿(b):
   (e) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(3) Regulations under subsection (2) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 148 Other Acts not affected
 (1) Nothing in this Act affects the following Acts:
