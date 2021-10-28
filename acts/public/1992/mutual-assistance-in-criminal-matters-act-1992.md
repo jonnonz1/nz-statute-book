@@ -1,5 +1,5 @@
 # Mutual Assistance in Criminal Matters Act 1992
-_Consolidation as at 2018-05-27_
+_Consolidation as at 2021-10-28_
 
 > An Act to facilitate the provision and obtaining of international assistance in criminal matters
 
@@ -309,6 +309,7 @@ Any evidence, information, document, or article that is obtained, provided, or p
     (iii) that is a convention country but where the request is not made in that capacity.
 (2) This section is subject to any regulations made under this Act.
 (3) Despite subsection (1), no request for assistance under this Part made in accordance with the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances may be dealt with before a date appointed by the Governor-General by Order in Council.
+(4) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 24A Limitations on requests by convention countries
 If a convention country requests assistance under this Part in accordance with a convention referred to in column 1 of the table in the Schedule, the request must relate to criminal matters arising from the commission or suspected commission of an offence that, if committed within the jurisdiction of New Zealand, would correspond to an offence listed or described in column 2 of that table in the same row as the reference to the convention.
@@ -751,6 +752,7 @@ Where, pursuant to section 51, a foreign country requests the assistance of the 
 (2) Regulations made pursuant to subsection (1)﻿(a) may state that the application of Part 3 to a prescribed foreign country may—
   (a) be subject to such conditions, exceptions, or qualifications as are specified in the regulations:
   (b) be subject to such limitations, conditions, exceptions, or qualifications as are necessary to give effect to a treaty between New Zealand and that country and relating (in whole or in part) to the provision of assistance in criminal matters, being a treaty a copy of which is set out in the regulations.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule 1 — Limitations on requests by convention countries
 
