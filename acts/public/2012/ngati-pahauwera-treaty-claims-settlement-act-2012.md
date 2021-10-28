@@ -1,5 +1,5 @@
 # Ngāti Pāhauwera Treaty Claims Settlement Act 2012
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ## Preamble
 (1) The Treaty of Waitangi (Te Tiriti o Waitangi) was signed in 1840. The terms of the Treaty of Waitangi (Te Tiriti o Waitangi) in English and Māori are set out in Schedule 1 of the Treaty of Waitangi Act 1975:
@@ -704,11 +704,12 @@ In this subpart,—
 (4) To avoid doubt, tangata tiaki are responsible to the trustees of the Ngāti Pāhauwera Development Trust for the discharge of their functions under subsection (3).
 
 ### 61 Regulations relating to tangata tiaki
-The Governor-General may, on the recommendation of the Minister of Justice after consultation with the trustees of the Ngāti Pāhauwera Development Trust, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, on the recommendation of the Minister of Justice after consultation with the trustees of the Ngāti Pāhauwera Development Trust, by Order in Council, make regulations for all or any of the following purposes:
   (a) providing for the appointment of tangata tiaki under section 60, the qualification for appointment, the terms of the appointment, and the termination of an appointment:
   (b) prescribing additional functions of tangata tiaki appointed under section 60, being functions that are reasonably incidental to the functions specified in that section:
   (c) prescribing any duties or powers to be exercised by tangata tiaki for the purpose of performing their functions:
   (d) prescribing the means (including, without limitation, identity cards or badges, or both) by which tangata tiaki are to be identified.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 5 — Redress relating to fisheries and resource management matters
 
