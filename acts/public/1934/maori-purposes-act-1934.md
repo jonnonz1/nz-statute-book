@@ -1,5 +1,5 @@
 # Maori Purposes Act 1934
-_Consolidation as at 2006-09-26_
+_Consolidation as at 2021-10-28_
 
 > An Act to amend the laws relating to Maori and Maori land, to adjust certain claims and disputes in relation to Maori land, to confer jurisdiction upon the Maori Land Court and the Maori Appellate Court, and for other purposes
 
@@ -51,6 +51,7 @@ Whereas in order to mark the appreciation of the Arawa Tribe for the public serv
 (8) Any nominated member still qualified to act whose term of office has expired shall be eligible for reappointment.
 (9) The Board shall have and may exercise in respect of the said park all or any of the functions and powers which by the Public Reserves, Domains, and National Parks Act 1928, or any other Act, are conferred upon Domain Boards in respect of public domains controlled by them.
 (10) The Governor-General may from time to time, by Order in Council, make all such regulations as he deems necessary for effectually carrying out the provisions of this section.
+(11) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Reference of petitions to the court**
 
