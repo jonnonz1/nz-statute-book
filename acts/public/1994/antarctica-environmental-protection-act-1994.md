@@ -1,5 +1,5 @@
 # Antarctica (Environmental Protection) Act 1994
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the comprehensive protection of the Antarctic environment and to recognise Antarctica as a natural reserve devoted to peace and science and to implement the Protocol on Environmental Protection to the Antarctic Treaty
 
@@ -7,6 +7,7 @@ _Consolidation as at 2020-08-07_
 (1) This Act may be cited as the Antarctica (Environmental Protection) Act 1994.
 (2) Except as provided in subsection (3), this Act shall come into force on 1 February 1995.
 (3) Section 12, Parts 3 to 5 and sections 56 and 57 and Schedule 1 shall come into force on a date or dates to be appointed by the Governor-General by Order in Council.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary
 
@@ -327,7 +328,7 @@ Articles 2 to 7 of Annex III to the Protocol shall be part of the law of New Zea
 (3) Every inspector shall be appointed for such term as the Minister thinks fit, and may be reappointed.
 (4) Any inspector may at any time have his or her warrant revoked at the discretion of the Minister, or may at any time surrender his or her warrant to the Minister.
 (5) Any inspector shall, on the expiration of the term of the appointment, or on removal from office, surrender his or her warrant to the Minister.
-(6) No inspector shall, by virtue of appointment as an inspector under this Act, be deemed to be employed in the service of Her Majesty for the purpose of the Public Service Act 2020.
+(6) No inspector shall, by virtue of appointment as an inspector under this Act, be deemed to be employed in the service of the Sovereign for the purpose of the Public Service Act 2020.
 
 ### 41 Inspectors' general power of entry and inspection
 (1) Any inspector may at any time enter and inspect any area of Antarctica, and have access to any things, for the purpose of carrying out his or her functions under this Act or any regulations made under this Act.
@@ -452,6 +453,7 @@ Nothing in this Act shall derogate from the provisions of—
 (3) In this section,—
   - **Antarctic waters** means the territorial sea of New Zealand adjacent to the Ross Dependency and other seas south of 60 degrees south latitude
   - **territorial sea** means the territorial sea of New Zealand as provided for in section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 55 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
@@ -469,12 +471,13 @@ Nothing in this Act shall derogate from the provisions of—
 (3)
 (4) Any regulations made under this section may prescribe offences for contravention of, or non-compliance with, their provisions and penalties, on the conviction of any offender, not exceeding in any case a fine of $5,000.
 (5) No Order in Council shall be made under subsection (1)﻿(g) except on the advice of the Minister given after consultation by that Minister with the Minister for the Environment and the Minister of Conservation and such other Ministers and persons as the Minister considers appropriate.
+(6) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under subsection (1):
+  (b) an order under subsection (2).
+(7) An order under subsection (2) must also be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 55A Regulations under section 55(2) are confirmable instruments
-The explanatory note of regulations made under section 55(2) must indicate that—
-  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### 56 Amendments to other Acts
 (1) The enactments specified in Schedule 1 are hereby amended in the manner indicated in that schedule.
