@@ -1,5 +1,5 @@
 # Fencing Act 1978
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2021-10-28_
 
 > An Act to reform the law relating to the erection and repair of dividing fences, and in substitution for the Fencing Act 1908
 
@@ -214,7 +214,8 @@ Where any proceedings have been commenced under this Act in relation to any fenc
 (3) If an owner or occupier of land, by himself or his agents or employees, obstructs any entry authorised by an order made under subsection (1), he shall be liable (in addition to any other penalty that he may incur) to pay the entire cost of the work, unless the court (on application made by him in that behalf) orders him to pay part only of that cost.
 
 ### 27 Rules
-The Governor-General may from time to time, by Order in Council, make rules prescribing, in all cases not specially provided for in this Act, the practice and procedure of the court and forms in all proceedings before a court under this Act, and until rules are made and to the extent they do not cover any case the provisions of the District Court Rules 2014, or of the Disputes Tribunal Act 1988, as the case may require, shall so far as practicable be adopted.
+(1) The Governor-General may from time to time, by Order in Council, make rules prescribing, in all cases not specially provided for in this Act, the practice and procedure of the court and forms in all proceedings before a court under this Act, and until rules are made and to the extent they do not cover any case the provisions of the District Court Rules 2014, or of the Disputes Tribunal Act 1988, as the case may require, shall so far as practicable be adopted.
+(2) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 28 Repeals and savings
 (1) The enactments specified in Schedule 3 are hereby repealed.
