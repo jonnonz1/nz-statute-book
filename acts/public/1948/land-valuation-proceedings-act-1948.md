@@ -1,5 +1,5 @@
 # Land Valuation Proceedings Act 1948
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the constitution of a Land Valuation Court, and to define the jurisdiction, powers, and procedure of the court; and for matters incidental thereto
 
@@ -52,6 +52,7 @@ Before entering upon the exercise of the duties of their office, the additional 
 ### 11 Rules of court
 (1) The Governor-General may from time to time, by Order in Council, make rules for regulating the practice and procedure of the court in all matters within its jurisdiction, and prescribing the fees payable in respect of any matters relating to the proceedings of the court.
 (2) Subject to the provisions of this Act and of any rules made under the authority of this section, the practice and procedure of the court shall be determined by the court as it thinks proper.
+(3) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 12 Evidence in proceedings before court
 (1) The court may receive as evidence any statement, document, information, or matter that in the opinion of the court may assist it to deal effectually with the matters before it, whether or not the same would be otherwise admissible in a court of law.
@@ -156,7 +157,7 @@ Before entering upon the exercise of the duties of their office the members and 
 (2)
 
 ### 26 Appeals to court against orders of Land Valuation Tribunals
-(1) Within the prescribed time after the making of any final order of a Land Valuation Tribunal or within such further time as may be allowed by the court, Her Majesty (acting by any Minister or by a Crown representative appointed under section 36) or any person affected by the order may, in accordance with the rules of the court, appeal to the court from the order or from any part thereof. Every such appeal shall be by way of rehearing.
+(1) Within the prescribed time after the making of any final order of a Land Valuation Tribunal or within such further time as may be allowed by the court, the Sovereign (acting by any Minister or by a Crown representative appointed under section 36) or any person affected by the order may, in accordance with the rules of the court, appeal to the court from the order or from any part thereof. Every such appeal shall be by way of rehearing.
 (2) The prescribed time for the purposes of this section shall be—
   (a) 21 days in the case of an order on a claim for compensation under the Public Works Act 1981:
   (b) 7 days in the case of an order under Part 2 of the Land Settlement Promotion and Land Acquisition Act 1952 granting unconditionally an application for consent to any transaction where there is no objection from the Crown representative appointed under section 36 of this Act:
@@ -207,6 +208,7 @@ Before entering upon the exercise of the duties of their office the members and 
 (3) Where in any contract, agreement, or other document provision is made for the determination by a Land Valuation Tribunal of any question relating to the value of any land or of any interest in land, a Land Valuation Tribunal may, if it thinks fit, hear and determine any such question.
 (4) Subject to this Act and to any rule or regulation made thereunder and to any Order in Council under subsection (1), the procedure of the Land Valuation Tribunal in any proceedings to which this section relates shall be such as the Tribunal thinks fit, and, subject to section 26, every order of the Tribunal in any such proceedings shall bind the parties thereto and there shall be no appeal therefrom.
 (5) Subject to the provisions of any Order in Council under subsection (1), or of any agreement between the parties to any proceedings referred to a Tribunal under subsection (2) or subsection (3), the Tribunal may make such order as it thinks fit as to the costs of any proceedings heard by the Tribunal under this section.
+(6) An Order in Council under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 3 — Miscellaneous
 
@@ -233,11 +235,12 @@ The Land Valuation Tribunal may at any time dismiss any claim, objection, applic
 For the purpose of enforcing any order of a Land Valuation Tribunal (other than an award on a claim for compensation under the Public Works Act 1981), a copy of the order signed by the District Court Judge who is the Chairman of the Tribunal may be filed upon payment of such fee as may be prescribed in any office of the High Court or of the District Court, as the Tribunal directs, whereupon the order shall have the effect of a judgment of the High Court or of the District Court, as the case may be, and may be enforced accordingly.
 
 ### 39 Members of court or of Land Valuation Tribunals not to be deemed to be public servants
-No person shall be deemed to be employed in the service of Her Majesty for the purposes of the Public Service Act 2020 or of the Government Superannuation Fund Act 1956 by reason of his being a member of the court or of any Land Valuation Tribunal.
+No person shall be deemed to be employed in the service of the Sovereign for the purposes of the Public Service Act 2020 or of the Government Superannuation Fund Act 1956 by reason of his being a member of the court or of any Land Valuation Tribunal.
 
 ### 40 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make all such regulations as in his opinion may be necessary or expedient for giving full effect to the provisions of this Act and for the due administration thereof.
 (1A) Without limiting the general power to make regulations conferred by subsection (1), regulations may be made under that subsection prescribing the fees payable in respect of any matters relating to proceedings before Land Valuation Tribunals.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (2)
 
 ### 41 Savings as to existing awards and orders
