@@ -1,5 +1,5 @@
 # New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, and may also be cited as—
@@ -7,7 +7,8 @@ This Act is the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2
   (b) Ngā Pou Taunaha o Aotearoa Act 2008.
 
 ### 2 Commencement
-This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions and different purposes.
+(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions and different purposes.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — General matters and key provisions relating to New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa
 
