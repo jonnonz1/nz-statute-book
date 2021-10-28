@@ -1,5 +1,5 @@
 # Family Violence Act 2018
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Family Violence Act 2018.
@@ -2194,6 +2194,7 @@ Depositions taken for the purposes of this Part in a court in any prescribed for
 (1) The Governor-General may, by Order in Council, declare any country outside New Zealand to be a prescribed foreign country for the purposes of this Act.
 (2) Any Order in Council made under subsection (1) may specify the courts of the foreign country in relation to which the order is to have effect, or may otherwise modify the application of that order to that other country.
 (3) Any Order in Council made under subsection (1) may be revoked or varied by a later Order in Council of that kind.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 228 Evidence of orders made in foreign country
 Nothing in this Part precludes a court from receiving evidence of an order made in a foreign country (whether or not that country is a prescribed foreign country) with respect to the protection of any person from family violence.
@@ -2352,7 +2353,7 @@ This Part provides for—
 **Regulations**
 
 ### 249 Regulations: general
-The Governor-General may, by Order in Council made on the recommendation of the Minister of Justice, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Justice, make regulations for all or any of the following purposes:
   (a) specifying types of non-standard services (for the purposes of the definition in section 8 of prescribed non-standard service), types of standard services (for the purposes of the definition in section 8 of prescribed standard service), or both:
   (b) prescribing for the purposes of all or any of sections 56, 71, and 212—
     (i) the process to be followed by a person or an organisation seeking an approval by way of an application (see section 56(2)﻿(a), 71(2)﻿(a), or 212(2)﻿(a)), the process to be followed for an own-motion approval (see section 56(2)﻿(b), 71(2)﻿(b), or 212(2)﻿(b)), or both; and
@@ -2368,6 +2369,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (f) prescribing the fees, travelling allowances, and expenses payable to people called by the court under section 169 and prescribing the circumstances in which, and the extent (if any) to which, those fees, travelling allowances, and expenses are payable (in whole or in part) to people to whom that section applies because of section 208 or 209:
   (g) prescribing the amount of fees and expenses, or a method for calculating the amount of fees and expenses, payable for the provision by assessors of assessments under section 42:
   (h) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 250 Regulations: public registers
 (1) Regulations may be made under section 249 (without limitation) for all or any of the following purposes:
@@ -2394,6 +2396,8 @@ Before recommending regulations be made under section 249(b) or (d), the Ministe
   (a) regulating the practice and procedure of the District Court in proceedings under Part 3 (Police safety orders) of this Act:
   (b) providing for any other matters contemplated by Part 3 of this Act, necessary for its administration, or necessary for giving it full effect.
 (2) Subsection (1) confers a power in addition to all other powers conferred by the District Court Act 2016.
+(3) Rules under subsection (1)﻿(b) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4) See section 228 of the District Court Act 2016, which provides that court rules are secondary legislation.
 
 ### 253 Rules of court: Family Court
 (1) Rules may be made under section 16A of the Family Court Act 1980 relating to the practice and procedure of the Family Court in proceedings under this Act.
@@ -2447,6 +2451,7 @@ Before recommending regulations be made under section 249(b) or (d), the Ministe
   (a) any specified public register or class or classes of public register:
   (b) any specified agency or specified class or classes of agency:
   (c) any specified relevant information or class or classes of relevant information.
+(4) A code of practice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 256 Application of certain provisions of Privacy Act 2020
 Sections 33 to 37 of the Privacy Act 2020 apply, so far as applicable and with all necessary modifications, to the issuing of a code of practice under section 255, and to a code of practice issued under section 255, as if the issuing were done, or, as the case may be, the code were issued, under that Act.
