@@ -1,5 +1,5 @@
 # Public Service Act 2020
-_Consolidation as at 2021-09-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Public Service Act 2020.
@@ -8,6 +8,7 @@ This Act is the Public Service Act 2020.
 (1) Section 90 comes into force on a date set by Order in Council.
 (2) Section 133(1) comes into force immediately after the expiry of the 6-month period that starts on the date of Royal assent.
 (3) The rest of this Act comes into force on the day after the date of Royal assent.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -127,7 +128,7 @@ In this Act, unless the context otherwise requires,—
   (b) the context of the enactment containing the reference requires a different interpretation; or
   (c) the definition of department in the Legislation Act 2019 applies.
 (2) The Governor-General may, by Order in Council, specify in relation to any particular enactment that all or any of the provisions of section 6(1) and (2) do not apply.
-(3) An Order in Council under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 8 Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
@@ -260,7 +261,7 @@ The public service supports constitutional and democratic government, enables bo
 (2) In this section, profession means an occupational group with a registration requirement under an Act for the individuals who work or practise in the occupational group.
 
 ### 21 Status of minimum standards and guidance
-Minimum standards and guidance issued under this subpart are neither legislative instruments nor disallowable instruments for the purposes of the Legislation Act 2012 and do not have to be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 **New Zealand Bill of Rights Act 1990**
 
@@ -283,6 +284,7 @@ Minimum standards and guidance issued under this subpart are neither legislative
   (a) identify the department that will be the host department of the departmental agency; and
   (b) if either or both of the working arrangements referred to in section 24(2) apply to the departmental agency, state which apply.
 (3) The making of an order under this section does not remove the need for a department or departmental agency established by an Act to be disestablished or have its name changed by an Act.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 24 Functions, duties, and powers and working arrangements of departmental agencies
 (1) The functions, duties, and powers of a new or an existing departmental agency may be determined or altered by the appropriate Minister for the agency and the appropriate Minister for its host department, except as provided in this Act or another enactment.
@@ -313,6 +315,7 @@ The purposes of interdepartmental executive boards are—
   (c) identify the department that will be the servicing department of the board; and
   (d) when establishing a board for the first time, delete the words immediately below the table in Part 3 of Schedule 2.
 (3) In section 25 and subsections (1)﻿(c) and (2)﻿(b), departments means departments, departmental agencies, the New Zealand Police, and the New Zealand Defence Force.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 27 Responsibilities, powers, and working arrangements of interdepartmental executive boards
 (1) The following sections apply to an interdepartmental executive board as if it were a chief executive (with any necessary modifications, for example, any reference to a host department must be read as a reference to a servicing department):
@@ -362,6 +365,7 @@ The purposes of interdepartmental ventures are—
   (b) list the departments with responsibilities that relate to the services or regulatory functions that will be delivered or carried out by the venture (the relevant departments); and
   (c) when establishing a venture for the first time, delete the words immediately below the table in Part 4 of Schedule 2.
 (3) In section 32 and this section, departments means departments, departmental agencies, the New Zealand Police, and the New Zealand Defence Force.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 34 Responsibilities and powers of boards of interdepartmental ventures
 The following sections apply to a board of an interdepartmental venture as if it were a chief executive (with any necessary modifications):
@@ -492,6 +496,7 @@ Schedule 4 sets out other terms and conditions of appointment of the Commissione
   (d) when establishing a functional chief executive role for the first time, delete the words immediately below the table in Schedule 5.
 (5) If a functional chief executive role is established, the Commissioner must appoint a person to that role.
 (6) See the provisions of Schedule 7, which apply to the appointment and performance review of chief executives, but see also clause 11 of that schedule, which makes special provision for the Commissioner as chief executive of the Commission and the Solicitor-General as chief executive of the Crown Law Office.
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 52 General responsibilities of chief executives of departments and departmental agencies
 (1) A chief executive of a department or departmental agency is responsible to the appropriate Minister for—
@@ -876,6 +881,7 @@ Section 72 and clauses 1 and 5 of Schedule 8 do not apply in relation to the tra
   (a) public service agencies; and
   (b) other parties that the Commissioner thinks fit.
 (4) In this section, annual holiday means an annual holiday provided under subpart 1 of Part 2 of the Holidays Act 2003.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 4 — Government workforce policy
 
@@ -915,7 +921,7 @@ Despite anything in this Part, a Government Workforce Policy Statement must not�
 
 ### 99 Government workforce policy: approval by Minister
 (1) The Minister may approve government workforce policy as a Government Workforce Policy Statement.
-(2) A Government Workforce Policy Statement is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(2)
 
 ### 100 Government Workforce Policy Statement: process
 (1) As soon as practicable after the Minister’s approval under section 99, the Commissioner must by 1 or more means make the Government Workforce Policy Statement known to affected agencies and available to the public.
@@ -956,6 +962,7 @@ Nothing in a request for information by the Commissioner made under a Government
 ### 105 Reorganisations within public service
 (1) The Governor-General may, by Order in Council, provide for savings and transitional matters connected with the disestablishment or change of name of a public service agency, the transfer of functions between agencies, and the establishment of a new agency.
 (2) Schedule 9 sets out other provisions relating to reorganisations of public service agencies.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 6 — Amendments to enactments, repeals, and revocations
 
