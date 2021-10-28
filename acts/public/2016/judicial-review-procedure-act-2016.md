@@ -1,5 +1,5 @@
 # Judicial Review Procedure Act 2016
-_Consolidation as at 2016-10-17_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Judicial Review Procedure Act 2016.
@@ -42,7 +42,7 @@ In this Act, unless the context otherwise requires,—
   (a) any Act; or
   (b) the constitution or other instrument of incorporation, rules, or bylaws of any body corporate.
 (2) The things referred to in subsection (1) are—
-  (a) to make any regulation, rule, bylaw, or order, or to give any notice or direction that has effect as subordinate legislation; or
+  (a) to make any secondary legislation; or
   (b) to exercise a statutory power of decision; or
   (c) to require any person to do or refrain from doing anything that, but for such requirement, the person would not be required by law to do or refrain from doing; or
   (d) to do anything that would, but for such power or right, be a breach of the legal rights of any person; or
