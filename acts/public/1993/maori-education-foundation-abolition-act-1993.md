@@ -1,5 +1,5 @@
 # Maori Education Foundation (Abolition) Act 1993
-_Consolidation as at 1993-06-26_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the abolition of the Maori Education Foundation, and the recognition of trustees incorporated as a Board under Part 2 of the Charitable Trusts Act 1957 to continue its functions
 
@@ -20,6 +20,7 @@ In this Act, unless the context otherwise requires,—
 (2) The Minister of Education shall not recommend the making of an order under subsection (1) unless satisfied that the successor board's general purpose is, or includes,—
   (a) promoting and encouraging the better education of Maori; and
   (b) providing financial assistance for that purpose.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4 Assets and liabilities of Foundation to become assets and liabilities of trust board
 (1) On the appointed day, the assets and liabilities that the Foundation had immediately before that day shall become assets and liabilities of the successor board.
