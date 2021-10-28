@@ -1,5 +1,5 @@
 # Secondary Legislation Act 2021
-_Consolidation as at 2021-03-24_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Secondary Legislation Act 2021.
