@@ -1,5 +1,5 @@
 # Aviation Crimes Act 1972
-_Consolidation as at 2018-12-03_
+_Consolidation as at 2021-10-28_
 
 > An Act to give effect to the provisions of the Hague Convention for the Suppression of Unlawful Seizure of Aircraft, the Montreal Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, the Montreal Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, and the Tokyo Convention on Offences and Certain Other Acts Committed on Board Aircraft, and for matters incidental thereto
 
@@ -7,6 +7,7 @@ _Consolidation as at 2018-12-03_
 (1) This Act may be cited as the Aviation Crimes Act 1972.
 (2) Sections 7, 8, 15, and 16 shall come into force on a date to be fixed by the Governor-General by Order in Council. Different dates may be so fixed in respect of different sections.
 (3) Except as provided in subsection (2), this Act shall come into force on the date of its passing.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
