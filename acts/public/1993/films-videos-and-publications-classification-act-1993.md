@@ -1,5 +1,5 @@
 # Films, Videos, and Publications Classification Act 1993
-_Consolidation as at 2021-08-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to the censoring of films, videos, books, and other publications; and to repeal the Indecent Publications Act 1963, the Films Act 1983, and the Video Recordings Act 1987
 
@@ -7,6 +7,7 @@ _Consolidation as at 2021-08-01_
 (1) This Act may be cited as the Films, Videos, and Publications Classification Act 1993.
 (2) Sections 2 and 5, Part 6, section 149, and sections 174 to 177, and Schedule 1, shall come into force on the day after the date on which this Act receives the Royal assent.
 (3) Except as provided by subsection (2), this Act shall come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions and for different purposes.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -599,6 +600,7 @@ Where, in accordance with regulations made under this Act, the Classification Of
   (a) a copy of any information on which the Classification Office relies in proposing to decline the application; and
   (b) a reasonable opportunity to make written submissions to the Classification Office in relation to that information.
 (6) An exemption under this section may be granted absolutely, or subject to such conditions as may be specified in any regulations made under this Act or as may be imposed by the Classification Office.
+(7) An exemption under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons.
 
 ### 45 Notification of decision
 (1) Where the Classification Office makes a decision in respect of any application made under section 44, the Classification Office shall give written notice of its decision to the applicant.
@@ -1620,8 +1622,9 @@ No private prosecution (as defined in section 5 of the Criminal Procedure Act 20
 (3) Nothing in subsection (2) shall apply with respect to—
   (a) any book bearing the name of the publisher, if the name and address of the publisher have been notified by the wholesale distributor to the chief executive of the responsible department as those of a publisher of books imported by the distributor:
   (b) any magazine, newspaper, or periodical the title of which has been notified by the wholesale distributor to the chief executive of the responsible department as the title of a magazine, newspaper, or periodical imported by the distributor.
-(4) The Minister of Justice may from time to time, by notice in the Gazette, grant exemptions from compliance with the provisions of subsection (1) or subsection (2) in respect of any printed matter or class of printed matter specified or described in the notice, and may from time to time in like manner amend or revoke any such notice.
+(4) The Minister of Justice may from time to time grant exemptions from compliance with the provisions of subsection (1) or subsection (2) in respect of any printed matter or class of printed matter specified or described in the exemption, and may from time to time in like manner amend or revoke any such exemption.
 (5) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who acts in contravention of, or fails to comply with, any provision of this section.
+(6) An exemption under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 148 Fees charged by Classification Office to be reasonable
 Any fee charged under section 15(6) or section 38(3) or section 39(6) for a copy of any document shall be no more than is reasonably required to recover the costs of supplying that copy.
@@ -1629,7 +1632,7 @@ Any fee charged under section 15(6) or section 38(3) or section 39(6) for a copy
 **Regulations**
 
 ### 149 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the forms of applications, warrants, and other documents required under this Act:
   (b) prescribing the matters in respect of which fees are payable under this Act; prescribing the amounts of the fees or the method by which they are to be assessed; and prescribing the persons to whom the fees are to be paid:
   (c) exempting or providing for the exemption of any person or class of persons from liability to pay any fees payable under this Act:
@@ -1666,6 +1669,10 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (nd) providing, in relation to any film in respect of which a decision has been made under the Video Recordings Act 1987, that unless a label has been issued under this Act in respect of the film, compliance with all or any of the requirements of the Video Recordings Act 1987 with respect to the labelling of a video recording is regarded as compliance with all or any of the requirements of this Act with respect to the public supply of that film:
   (o) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $2,000, that may, on conviction, be imposed in respect of any such offences:
   (p) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for their due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3) If regulations authorise a person to grant exemptions referred to in subsection (1)﻿(c),—
+  (a) an exemption is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 **Levy on specified CVoD providers**
 
@@ -1694,7 +1701,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 (5) Before recommending that regulations be made under this section, the Minister must be satisfied that—
   (a) the Secretary has taken reasonable steps to consult each specified CVoD provider in relation to the proposed levy; and
   (b) if the levy is set on a differential basis, the levy required from different providers is fair having regard to the risk of harm to viewers from commercial video on-demand content made available by different providers (for example, having regard to the market presence of different providers and the nature of the content made available by different providers).
-(6) An order made under subsection (1) is a legislative instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 149C Dispute does not suspend obligation to pay levy
 A dispute about the validity of a levy or the provider’s liability to pay a levy does not suspend—
@@ -1735,7 +1742,7 @@ Outstanding amounts of fees or levy payable to the Classification Office under t
     (iii) available evidence of the person’s commitment to a classification framework recognised in New Zealand as being effective in ensuring that persons in New Zealand who are likely to be harmed by viewing the commercial video on-demand content are warned of the nature of that content by means of clear and consistent labelling; and
   (b) may consider any other factors that the Minister thinks relevant.
 (5) An order under subsection (1)﻿(a) must not come into force earlier than 3 months after the date on which it is published.
-(6) An order made under subsection (1) is a legislative instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 10 — Transitional provisions
 
