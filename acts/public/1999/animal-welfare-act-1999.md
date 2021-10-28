@@ -1,5 +1,5 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2021-05-09_
+_Consolidation as at 2021-10-28_
 
 > An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—(i)to recognise that animals are sentient:(ia)to require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
@@ -19,7 +19,7 @@ _Consolidation as at 2021-05-09_
       (iv) an amphibian; or
       (v) a fish (bony or cartilaginous); or
       (vi) any octopus, squid, crab, lobster, or crayfish (including freshwater crayfish); or
-      (vii) any other member of the animal kingdom which is declared from time to time by the Governor-General, by Order in Council, to be an animal for the purposes of this Act; and
+      (vii) any other member of the animal kingdom which is declared from time to time by the Governor-General, by Order in Council (see subsection (4)), to be an animal for the purposes of this Act; and
     (b) includes any mammalian foetus, or any avian or reptilian pre-hatched young, that is in the last half of its period of gestation or development; and
     (c) includes any marsupial pouch young; but
     (d) does not include—
@@ -52,7 +52,7 @@ _Consolidation as at 2021-05-09_
       (vi) toothpaste; or
       (vii) any substance, mixture of substances, or thing declared not to be a cosmetic by regulations made for that purpose under section 183
   - **crops** , in relation to the ears of a dog, means the performance on the pinnae of the ears of the dog of a surgical procedure that is designed to make the ears of the dog stand upright
-  - **device** means any explosive (not being a firearm as defined in section 2 of the Arms Act 1983), incendiary device, or electrical or electronic thing (not being a trap) that is used for the purpose of killing, managing, entrapping, capturing, entangling, restraining, or immobilising an animal; and includes any contraption, process, or thing that is declared by the Governor-General by Order in Council, made on the recommendation of the Minister after consultation in accordance with section 184, to be a device for the purposes of this Act
+  - **device** means any explosive (not being a firearm as defined in section 2 of the Arms Act 1983), incendiary device, or electrical or electronic thing (not being a trap) that is used for the purpose of killing, managing, entrapping, capturing, entangling, restraining, or immobilising an animal; and includes any contraption, process, or thing that is declared by the Governor-General by Order in Council (see subsection (4)), made on the recommendation of the Minister after consultation in accordance with section 184, to be a device for the purposes of this Act
   - **Director-General** means the chief executive of the Ministry
   - **enforcement order** means an enforcement order made under section 144; and includes an enforcement order made without notice in accordance with section 148
   - **firing** , in relation to a horse, means a procedure which involves the application of thermal cautery to the legs of the horse and which creates tissue damage to, or an inflammatory reaction in, the legs of the horse
@@ -88,7 +88,7 @@ _Consolidation as at 2021-05-09_
   - **person** includes a corporation sole, and also a body of persons, whether corporate or unincorporate
   - **person in charge** , in relation to an animal, includes a person who has the animal in that person's possession or custody, or under that person's care, control, or supervision
   - **pest** means—
-    (a) any animal in a wild state that, subject to subsection (2), the Minister of Conservation declares, by notice in the Gazette, to be a pest for the purposes of this Act:
+    (a) any animal in a wild state that, subject to subsection (2), the Minister of Conservation declares, by notice (see subsection (4)), to be a pest for the purposes of this Act:
     (b) any member of the family Mustelidae (except where held under a licence under regulations made under the Wildlife Act 1953):
     (c) any feral cat:
     (d) any feral dog:
@@ -116,7 +116,7 @@ _Consolidation as at 2021-05-09_
   - **threatened species** has the meaning given to it by section 2(1) of the Biosecurity Act 1993
   - **trap** —
     (a) means a net, cage, snare, pen, pitfall, or mechanical or adhesive thing used for the purpose of killing, entrapping, capturing, entangling, restraining, or immobilising an animal; and
-    (b) includes any contraption, process, or thing that is declared by the Governor-General by Order in Council, made on the recommendation of the Minister after consultation in accordance with section 184, to be a trap for the purposes of this Act; but
+    (b) includes any contraption, process, or thing that is declared by the Governor-General by Order in Council (see subsection (4)), made on the recommendation of the Minister after consultation in accordance with section 184, to be a trap for the purposes of this Act; but
     (c) does not include—
       (i) any fenced area of land or other effective enclosure used for handling, herding, or mustering an animal; or
       (ii) any animal housing system used routinely or commonly in farm or other animal production systems; or
@@ -133,7 +133,12 @@ _Consolidation as at 2021-05-09_
   (a) the Conservation Act 1987; or
   (b) any Act listed in Schedule 1 of the Conservation Act 1987; or
   (c) any other Act or regulations—
-(3) Any notice under this section declaring an animal to be a pest for the purposes of this Act may be at any time amended or revoked by the Minister of Conservation by a subsequent notice published in the Gazette.
+(3) Any notice under this section declaring an animal to be a pest for the purposes of this Act may be at any time amended or revoked by the Minister of Conservation by a subsequent notice.
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an order under paragraph (a)﻿(vii) of the definition of animal in subsection (1):
+  (b) an order under the definition of device in subsection (1):
+  (c) a notice under paragraph (a) of the definition of pest in subsection (1) (and a subsequent notice under subsection (3)):
+  (d) an order under paragraph (b) of the definition of trap in subsection (1).
 
 ### 3 Definition of manipulation
 (1) In this Act, unless the context otherwise requires, the term manipulation, in relation to an animal, means, subject to subsections (1A) to (3), interfering with the normal physiological, behavioural, or anatomical integrity of the animal by deliberately—and manipulating has a corresponding meaning.
@@ -161,7 +166,7 @@ _Consolidation as at 2021-05-09_
   (c) to control the spread of the unwanted organism:
   (d) to reduce the geographical distribution of the unwanted organism:
   (e) to eradicate the unwanted organism.
-(3) The Minister may from time to time, after consultation with the National Animal Welfare Advisory Committee and the National Animal Ethics Advisory Committee, declare any procedure, by notice in the Gazette, not to be a manipulation for the purposes of this Act.
+(3) The Minister may from time to time, after consultation with the National Animal Welfare Advisory Committee and the National Animal Ethics Advisory Committee, declare any procedure, by notice, not to be a manipulation for the purposes of this Act.
 (4) The Minister must, in deciding whether to publish a notice under subsection (3) in relation to a procedure, have regard to the following matters:
   (a) the nature of the procedure; and
   (b) the effect that the performance of the procedure will or may have on an animal's welfare; and
@@ -170,6 +175,7 @@ _Consolidation as at 2021-05-09_
   (e) the likelihood of managing the procedure adequately by the use of codes of welfare or other instruments under this Act or any other Act; and
   (f) the consultation conducted under subsection (3); and
   (g) any other matter considered relevant by the Minister.
+(5) A notice under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4 Definition of physical, health, and behavioural needs
 In this Act, unless the context otherwise requires, the term physical, health, and behavioural needs, in relation to an animal, includes—being a need which, in each case, is appropriate to the species, environment, and circumstances of the animal.
@@ -516,7 +522,7 @@ Sections 30B and 30C do not restrict the application of sections 34 and 36.
   (b) a specified district or subdivision of a district of a territorial authority, or any specified part of New Zealand.
 (6) The Governor-General may, by Order in Council, made on the advice of the Minister tendered after consultation with the National Animal Welfare Advisory Committee, amend or revoke an Order in Council made under subsection (1).
 (7) The consultation required by section 184(1) is in addition to the consultation required by subsections (1) and (6) of this section.
-(8) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(8) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 33 Criteria
 The Minister must, in deciding whether or not to recommend the making of an Order in Council under section 32(1) or section 32(6), have regard to the following matters:
@@ -657,7 +663,7 @@ The provisions of this Part do not limit the other provisions of this Act.
 (3) Subsections (2) to (4) of section 45 apply not only in relation to conditions imposed under section 45 but also in relation to conditions imposed under subsection (2) of this section.
 
 ### 48 Exemptions
-(1) The Director-General may from time to time, by notice in the Gazette,—if he or she is satisfied that the risk to the welfare of the animals is minimal.
+(1) The Director-General may from time to time, by notice,—if he or she is satisfied that the risk to the welfare of the animals is minimal.
   (a) exempt certain species or types of animals from the requirements of section 40(1); or
   (b) specify the circumstances in which any animals are to be exempted from the requirements of section 40(1); or
   (c) exercise both his or her power under paragraph (a) and his or her power under paragraph (b),—
@@ -668,7 +674,8 @@ The provisions of this Part do not limit the other provisions of this Act.
   (a) whether export authorisation is required under any other Act that has animal welfare requirements:
   (b) the susceptibility of the species or type of animals to harm or distress:
   (c) any other matter that is relevant to the welfare of animals.
-(4) Any notice under subsection (1) may be at any time amended or revoked by the Director-General by a subsequent notice published in the Gazette.
+(4) Any notice under subsection (1) may be at any time amended or revoked by the Director-General by a subsequent notice.
+(5) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 49 Delegation of functions or powers of Director-General
 (1) The Director-General may from time to time, by writing under his or her hand, either generally or particularly, delegate to a person who is not an employee of the Ministry any of the functions and powers of the Director-General under this Part, but not including the power to delegate under this section.
@@ -902,7 +909,7 @@ A code of welfare may relate to 1 or more of the following:
 
 ### 75 Issue of code
 (1) The Minister may, after considering the recommendation made to the Minister by the National Animal Welfare Advisory Committee under section 74 and after having had regard to the matters specified in section 73, decide—
-  (a) to issue the code of welfare by a notice in the Gazette after making such changes (if any) to the draft code as the Minister considers appropriate; or
+  (a) to issue the code of welfare after making such changes (if any) to the draft code as the Minister considers appropriate; or
   (b) to refer the code of welfare back to the National Animal Welfare Advisory Committee with a request that the Committee reconsider 1 or more of the aspects of the code of welfare; or
   (c) to decline to issue the code of welfare.
 (2) Where the Minister refers the code of welfare back to the National Animal Welfare Advisory Committee under subsection (1)﻿(b), the Committee must, after reconsidering the aspects referred to by the Minister in the Minister's request,—
@@ -910,19 +917,17 @@ A code of welfare may relate to 1 or more of the following:
   (b) supply to the person who prepared the draft code a copy of the report made under paragraph (a).
 (3) Subsection (1) applies, with all necessary modifications, to the recommendations received by the Minister under subsection (2).
 (4) Where the Minister decides, under subsection (1)﻿(c) to decline to issue the code of welfare, the Minister must give to the National Animal Welfare Advisory Committee and to the person who prepared the code of welfare, the Minister's reasons for declining to issue the code of welfare.
-(5) A code of welfare comes into force on the day after the date of the publication under subsection (1)﻿(a) of a notice approving the issue of the code or on such later date as may be specified in that notice.
+(5) A code of welfare under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 76 Amendment or revocation of code of welfare
-(1) The Minister may from time to time, by notice in the Gazette,—
+(1) The Minister may from time to time, by notice,—
   (a) revoke a code of welfare or any part of a code of welfare; or
   (b) make amendments of a minor nature to a code of welfare (being minor amendments that would not materially affect the purposes of the code).
-(2) The Minister must, before publishing a notice under subsection (1), consult with the National Animal Welfare Advisory Committee about the proposed revocation or amendments.
+(1A) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(2) The Minister must, before publishing a notice under the Legislation Act 2019, consult with the National Animal Welfare Advisory Committee about the proposed revocation or amendments.
 
 ### 77 Availability of codes of welfare
-(1) Where a code of welfare is issued under section 75, the Minister must ensure that, so long as that code of welfare remains in force, copies of that code of welfare, and of all amendments to that code, are available—
-  (a) for inspection by members of the public free of charge; and
-  (b) for purchase by members of the public at a reasonable price.
-(2) The notice by which the code of welfare or the amendment is issued must show, in relation to the code of welfare, or the amendment to which the notice relates, a place at which copies of the code, or, as the case requires, the amendment, are available for inspection free of charge and for purchase.
+[Repealed]
 
 ### 78 Review of code of welfare
 (1) The National Animal Welfare Advisory Committee may at any time review the whole or any part of any code of welfare for the time being in force.
@@ -935,7 +940,7 @@ A code of welfare may relate to 1 or more of the following:
 [Repealed]
 
 ### 79 Codes of welfare treated as legislative instruments for purposes of disallowance
-Codes of welfare issued under section 75 and notices amending or revoking codes of welfare are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ## Part 6 — Use of animals in research, testing, and teaching
 
@@ -1761,9 +1766,11 @@ Except where the court making the order appealed from otherwise directs,—
   (b) every enforcement order may be enforced in the same manner in all respects as if no such appeal were pending.
 
 ### 156 Rules of court
-In addition to all other powers conferred by the District Court Act 2016, the Governor-General may from time to time, by Order in Council, make rules—
+(1) In addition to all other powers conferred by the District Court Act 2016, the Governor-General may from time to time, by Order in Council, make rules—
   (a) regulating the practice and procedure of the District Court in proceedings under this Act that relate to enforcement orders:
   (b) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act that relate to enforcement orders.
+(2) Rules under subsection (1)﻿(b) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3) As to rules referred to in subsection (1)﻿(a), see section 228 of the District Court Act 2016, which provides that court rules are secondary legislation.
 
 **Compliance notices**
 
@@ -2054,7 +2061,7 @@ For the purposes of this Part, and sections 169, 170, 172, and 173, an offence a
 Nothing in this Act makes it unlawful for any person belonging to, or acting on behalf of, any of the agencies listed in Schedule 3 to use (other than for research, testing, or teaching) animals as substitutes for humans in the course of carrying out statutory functions or duties or exercising statutory powers for the purposes of protecting human health or safety or enforcing the law.
 
 ### 180 Power to amend Schedule 3 by Order in Council
-The Governor-General may from time to time, by Order in Council,—
+(1) The Governor-General may from time to time, by Order in Council,—
   (a) amend Schedule 3 by including in that schedule or adding to that schedule—
     (i) the name of any government department:
     (ii) the name of any Crown entity within the meaning of section 2(1) of the Public Finance Act 1989:
@@ -2063,6 +2070,7 @@ The Governor-General may from time to time, by Order in Council,—
     (i) to recognise the abolition or dissolution of any agency or body or any alteration in the name of any agency or body; or
     (ii) to correct any error or omission in any previous exercise of the powers conferred by this subsection:
   (c) amend Schedule 3 by omitting from that schedule the name of any agency or body.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Exception in relation to agricultural compounds and hazardous substances**
 
@@ -2115,6 +2123,7 @@ Nothing in this Act applies in relation to the use of—
     (ii) in the case of a body corporate, a fine not exceeding $25,000:
   (j) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (2) In subsection (1)﻿(c), the term code holder includes any person carrying out research, testing, or teaching in accordance with section 84 or section 85 or section 118(1) or section 192(4) or section 192(5).
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 183A Regulations relating to standards of care
 (1) The Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations for all or any of the following purposes:
@@ -2142,6 +2151,7 @@ Nothing in this Act applies in relation to the use of—
 (9) Nothing in this section obliges the Minister to recommend the making of regulations in reliance on subsection (2).
 (10) The Minister must consult the National Animal Welfare Advisory Committee before recommending the making of any regulations under this section (other than regulations already proposed by the Committee), but nothing in sections 71 to 75 applies in relation to the making of regulations under subsection (1)﻿(b).
 (11) If a person does or omits to do anything in reliance on regulations made under subsection (2) that would otherwise be a contravention of, or failure to comply with, any provision of Part 1 or 2, the person has a defence to a prosecution for an offence under this Act in respect of the act or omission if the court is satisfied that the act or omission was authorised by the regulations.
+(12) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 183B Regulations relating to surgical and painful procedures
 (1) The Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations for all or any of the following purposes:
@@ -2169,6 +2179,7 @@ Nothing in this Act applies in relation to the use of—
   (g) any other matter the Minister considers relevant.
 (3) The Minister must consult the National Animal Welfare Advisory Committee before recommending the making of regulations under this section (other than regulations proposed by the Committee).
 (4) In the absence of evidence to the contrary, a particular procedure is presumed to be a surgical procedure or a painful procedure if regulations are made in respect of the procedure under this section.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 183C Regulations relating to exporting animals
 (1) The Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations prescribing requirements and other matters relating to the exportation of animals, including (without limitation) requirements or matters relating to—
@@ -2185,6 +2196,7 @@ Nothing in this Act applies in relation to the use of—
   (a) require that the prior approval of the Director-General be obtained before exportation:
   (b) authorise him or her to impose conditions on any exportation:
   (c) set out criteria applying to the granting of approval and describe the types of conditions that may be imposed.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Consultation**
 
@@ -2337,6 +2349,7 @@ The enactments specified in Schedule 6 are repealed.
     (i) the welfare of any affected animals; and
     (ii) the interests of persons involved in the commercial use of any affected animals; and
     (iii) any other relevant factor.
+(6) An order under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 201 Saving
 [Repealed]
