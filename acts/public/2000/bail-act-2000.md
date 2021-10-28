@@ -1,5 +1,5 @@
 # Bail Act 2000
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Bail Act 2000.
@@ -963,9 +963,10 @@ If under section 302(2) of the Criminal Procedure Act 2011 the District Court or
 ### 73 Rules relating to practice and procedure of courts
 (1) The Governor-General may, by Order in Council, make rules regulating the practice and procedure of any court in proceedings under this Act.
 (2) Until rules are made under this section, or if they are made so far as they do not extend, the existing practice and procedure in New Zealand in relation to bail is not affected as far as it is not altered by or inconsistent with the provisions of this Act.
+(3) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 73AA Rules about drug and alcohol testing and monitoring
-(1) The Commissioner may, by notice in the Gazette, make rules for all or any of the following purposes:
+(1) The Commissioner may make rules for all or any of the following purposes:
   (a) prescribing, for the purposes of section 30T(1)﻿(a) and (c), 1 or more types of testing procedure that defendants on bail with a drug or alcohol condition may be required to undergo:
   (b) specifying how often each of the prescribed testing procedures may be carried out:
   (c) prohibiting authorised persons from requiring a defendant to undergo certain testing procedures if other less intrusive testing procedures are available and are sufficient in the circumstances:
@@ -978,6 +979,7 @@ If under section 302(2) of the Criminal Procedure Act 2011 the District Court or
     (ii) psychoactive substances:
     (iii) alcohol.
 (2) In this section and in sections 73AAB and 73AAC, Commissioner means the Commissioner of Police.
+(3) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 73AAB Further provisions concerning rules about drug and alcohol testing and monitoring
 (1) Rules made under section 73AA(1)﻿(a) may, without limitation, prescribe testing procedures that do all or any of the following:
@@ -993,11 +995,7 @@ If under section 302(2) of the Criminal Procedure Act 2011 the District Court or
 (3) Subsection (1)﻿(b) overrides subsection (2)﻿(c).
 
 ### 73AAC Availability of rules about drug and alcohol testing and monitoring, and status under Legislation Act 2012
-(1) The Commissioner must ensure that any rules made under section 73AA are, while in force, made available—
-  (a) on an Internet site that is maintained by or on behalf of the New Zealand Police and that is, so far as practicable, publicly available free of charge; and
-  (b) for public inspection free of charge; and
-  (c) for purchase at a reasonable price.
-(2) Rules made under section 73AA are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### 73A Authentication of documents
 (1) Any warrant issued under this Act must be authenticated by the judicial officer or Registrar who issues the warrant.
