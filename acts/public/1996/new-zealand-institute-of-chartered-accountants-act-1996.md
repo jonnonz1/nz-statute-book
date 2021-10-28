@@ -1,5 +1,5 @@
 # New Zealand Institute of Chartered Accountants Act 1996
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to—acontinue the New Zealand Society of Accountants under the name New Zealand Institute of Chartered Accountants; andbrequire the Institute to have rules governing membership, discipline, and other matters and a code of ethics governing the professional conduct of its members; andcprohibit the use of terms implying membership of the Institute by persons who are not members; anddprovide for related matters; anderepeal the New Zealand Society of Accountants Act 1958
 
@@ -7,6 +7,7 @@ _Consolidation as at 2015-07-01_
 (1) This Act may be cited as the New Zealand Institute of Chartered Accountants Act 1996.
 (2) Except as provided in subsection (3), this Act shall come into force on 1 October 1996.
 (3) Subsections (3) and (4) of section 21 shall come into force on a date to be appointed by the Governor-General by Order in Council.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
@@ -76,6 +77,7 @@ The functions of the Institute are—
 (1) The Institute must have rules that provide for—
   (a) a Council of the Institute and the powers of the Council; and
   (b) the admission of members of the Institute and the cessation of membership; and
+  (ba) the entitlement of members to use the designation chartered accountant; and
   (c) the summoning and holding of general meetings of the Institute, and the method of voting at those meetings; and
   (d)
   (e) an Executive Board of the Institute; and
@@ -90,6 +92,7 @@ The functions of the Institute are—
 (2) In addition to the provisions required by subsection (1), the rules may contain any other provisions that are not inconsistent with this Act or any other Act or any rule of law.
 (3) The Council must, no later than 14 days after the day on which this Act comes into force, deliver to the Registrar for registration a document described as, and which shall constitute, the rules of the Institute.
 (4) The Executive Board must, no later than 14 days after the passing of any amendment to the rules or replacing the rules, deliver to the Registrar for registration a copy of the amendment or the new rules.
+(5) Rules under this section (except for rules under subsection (1)﻿(c), (e), or (jb)) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Code of ethics
 (1) The Institute must always have a code of ethics that governs the professional conduct of its members.
@@ -98,6 +101,7 @@ The functions of the Institute are—
 (4) The Executive Board may at any time amend the code or revoke the code and replace it with a new code.
 (5) The Executive Board must, no later than 14 days after passing any amendment to the code or replacing the code, deliver to the Registrar for registration a copy of the amendment or the new code.
 (6) The code of ethics prescribed by the Council and that is in force immediately before the commencement of this subsection continues in force and may be amended, revoked, or replaced by the Executive Board under subsection (4).
+(7) The code of ethics is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7A Membership rules may require membership of specified association
 (1) The rules that relate to the matters referred to in section 6(1)﻿(b) (admission of members and the cessation of membership) may provide for either or both of the following:
@@ -109,10 +113,7 @@ The functions of the Institute are—
 (3) This section does not limit section 6(1)﻿(b) (and, in particular, the ability to provide for other requirements for the admission of members).
 
 ### 8 Application of Part 3 of Legislation Act 2012 to certain rules and code of ethics
-The following are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012:
-  (a) the rules that relate to the matters referred to in sections 5(d), 6(1)﻿(a), (b), and (f) to (jb), and 19:
-  (b) rules that relate to the entitlement of members to use the designation chartered accountant:
-  (c) the code of ethics required by section 7.
+[Repealed]
 
 **Provisions concerning specified association**
 
@@ -120,6 +121,7 @@ The following are disallowable instruments, but not legislative instruments, for
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Commerce, declare an association of accountants to be the specified association for the purposes of this Act.
 (2) The Minister of Commerce may make a recommendation under subsection (1) only after consulting the Institute.
 (3) In this section, association of accountants includes any association or other professional body of accountants (whether constituted or established overseas or in New Zealand).
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 8B Members of Council or Executive Board may act in best interests of specified association rather than Institute
 (1) This section applies to a person (A) who is appointed by or on behalf of the specified association, in accordance with the rules of the Institute, to be a member of either or both of the following:
@@ -217,7 +219,8 @@ Every reference in any enactment to a—in relation to the holding of any office
   (c) chartered accountant who holds a certificate of public practice,—
 
 ### 20 Fees payable to Registrar
-The Governor-General may from time to time, by Order in Council, make regulations prescribing fees payable to the Registrar for registration of documents under this Act.
+(1) The Governor-General may from time to time, by Order in Council, make regulations prescribing fees payable to the Registrar for registration of documents under this Act.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 21 Fidelity fund
 [Repealed]
