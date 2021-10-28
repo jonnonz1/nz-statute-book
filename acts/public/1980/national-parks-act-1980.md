@@ -1,5 +1,5 @@
 # National Parks Act 1980
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to national parks
 
@@ -497,7 +497,7 @@ The Department shall, subject to this Act, and in accordance with—administer a
 (2) Except with the consent of the Minister given in accordance with the management plan for a park, no roads may be made over or through the park.
 
 ### 56 Bylaws
-(1) The Minister may from time to time, by notice in the Gazette, make bylaws that are not inconsistent with the management plan for any park for all or any of the following purposes:
+(1) The Minister may from time to time make bylaws that are not inconsistent with the management plan for any park for all or any of the following purposes:
   (a) the management, safety, and preservation of any park, and the safety and preservation of the native plants and animals in the park:
   (b) the safety and protection of the public using any parks:
   (c) excluding the public from any specified part or parts of any park:
@@ -513,7 +513,8 @@ The Department shall, subject to this Act, and in accordance with—administer a
   (m) prescribing fines, not exceeding $5,000 in any one case, for the breach of any bylaw made under paragraphs (a) to (j):
   (n) prescribing fines, not exceeding $10,000 in any one case, for the breach of any bylaw made under paragraphs (k) to (l).
 (2) Bylaws may be made under subsection (1) in respect of parks generally, or in respect of any 1 or more of those parks.
-(3) The publication in the Gazette of any bylaws purporting to have been made under this section shall be conclusive evidence that the bylaws have been made under this section.
+(3) Publication of the bylaws in accordance with subsection (4) is conclusive evidence that the bylaws have been made under this section.
+(4) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 5A — Control of dogs
 
@@ -925,12 +926,13 @@ A person who commits an infringement offence is liable on conviction to—
 ### Subpart 3 — Regulations
 
 ### 71O Regulations relating to infringement offences
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
   (a) prescribing infringement offences for the contravention of bylaws made under this Act:
   (b) prescribing penalties for infringement offences, which,—
     (i) in the case of infringement fees, must not be more than $1,000; and
     (ii) in the case of maximum fines, must not be more than twice the amount of the infringement fee for the offence:
   (c) prescribing information to be included in infringement notices and reminder notices.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 8 — Miscellaneous provisions
 
@@ -965,7 +967,7 @@ All actions and proceedings by or on behalf of the Crown in connection with any 
 (2) Subsection (1) shall not oblige any person to register any lease or licence granted under this Act.
 
 ### 77 Approval under this Act not to authorise actions in contravention of other Acts
-Nothing in any authorisation by the Minister to do any act that would otherwise be unlawful under this Act shall be deemed to authorise any person to do any act in contravention of the Native Plants Protection Act 1934, the Wildlife Act 1953, the Heritage New Zealand Pouhere Taonga Act 2014, the Protected Objects Act 1975, the Wild Animal Control Act 1977, or any other Act, or any regulation, proclamation, warrant, bylaw, or notification made or issued under any Act.
+Nothing in any authorisation by the Minister to do any act that would otherwise be unlawful under this Act shall be deemed to authorise any person to do any act in contravention of the Native Plants Protection Act 1934, the Wildlife Act 1953, the Heritage New Zealand Pouhere Taonga Act 2014, the Protected Objects Act 1975, the Wild Animal Control Act 1977, or any other Act, or any secondary legislation made or issued under any Act.
 
 ### 78 Mining operations in national parks
 [Repealed]
