@@ -1,5 +1,5 @@
 # Administration Act 1969
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend certain enactments relating to the administration of the estates of deceased persons
 
@@ -193,6 +193,7 @@ Every administration of a will or with a will annexed shall be evidence of that 
 (2)
 (3) Every such certificate shall, in the absence of proof to the contrary, be sufficient evidence of the death and the date of death of the testator or intestate and of the grant of administration to the administrator for all purposes including registering the administrator as proprietor of any estate or interest in any land under the Land Transfer Act 2017, or of any mining privilege under the Mining Act 1926, or of any securities issued by or property in any bank or company or body or association. The Registrar-General of Land, the Mining Registrar, or any bank, company, body, or association to which any such certificate is produced is not concerned to inquire concerning the trusts on which the administrator holds any such land or mining privilege or securities or property, or (except where a caveat has been lodged under the authority of the Land Transfer Act 2017) as to his or her authority to transfer or deal with the same.
 (4) The fee payable to the Registrar in respect of each such certificate shall be $30 or such other amount as may from time to time be prescribed by the Governor-General by Order in Council.
+(5) An order under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 19 Proceedings where executor neglects to prove will
 (1) In any case where any executor named in a will neglects or refuses to prove the will, or to renounce probate thereof, within 3 months from the death of the testator, the court may, upon the application of any other executor or executors or of any person interested in the estate or of Public Trust or of the Māori Trustee or of any creditor of the testator, grant an order nisi calling upon the executor who so neglects or refuses to show cause why probate of the will should not be granted to that executor alone or with any other executor or executors or, in the alternative, why administration should not be granted to the applicant or some other person.
@@ -549,6 +550,7 @@ For the purposes of this Part,—the filing in or the issuing out of any court o
   (b) by any court of any Commonwealth country (other than New Zealand) which at the date of the grant has jurisdiction out of the Commonwealth in pursuance of an Order in Council, whether made under any Act or otherwise; or
   (c) by any competent court of any other country, being a country to which (at the date of the production for sealing under this section) this section is, by Order in Council, declared to apply—
 (2) Nothing in this section shall prevent the court from making an independent grant of administration in New Zealand.
+(3) An order under subsection (1)﻿(c) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 72 Seal not to be affixed till fees are paid and administration bond is entered into
 The seal of the High Court of New Zealand shall not be affixed to any probate or letters of administration granted in any Commonwealth country (other than New Zealand) or in the Republic of Ireland, or in any other country to which section 71 is declared as aforesaid to apply, so as to give operation thereto as if the grant had been made by the High Court of New Zealand, until all such fees have been paid as would have been payable if the probate or letters of administration had been originally granted by the High Court of New Zealand; and, further, no such letters of administration shall be so sealed until such bond is entered into as would have been required if the letters had been originally granted by the said High Court:provided that the court may if it thinks fit dispense with the bond or reduce the amount of the penalty thereunder:provided also that where letters of administration are at any time granted to any Public Trustee or other like public official of any Commonwealth country (other than New Zealand) or of the Republic of Ireland or of any other country to which section 71 is declared as aforesaid to apply, it shall not be necessary, upon the resealing in New Zealand of the letters of administration, for the said Public Trustee or other official, as the case may be, to execute any such bond.
@@ -664,6 +666,7 @@ Nothing in section 77 affects section 26 of the Family Proceedings Act 1980.
   (a) the prescribed amount for the purposes of that provision is $121,500; and
   (b) that amount applies to the estates of all persons dying on or after the commencement of this section, but does not apply to the estates of persons dying before that date.
 (4) Each time regulations are made under subsection (1) prescribing an amount for the purposes of section 77, the prescribed amount applies to the estates of all persons dying on or after the date on which those regulations come into force, but does not apply to the estates of persons dying before that date.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 83 Consequential amendment
 Amendment(s) incorporated in the Act(s).
