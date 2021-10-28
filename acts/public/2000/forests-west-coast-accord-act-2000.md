@@ -1,5 +1,5 @@
 # Forests (West Coast Accord) Act 2000
-_Consolidation as at 2000-10-21_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Forests (West Coast Accord) Act 2000.
@@ -44,18 +44,18 @@ No compensation is payable by the Crown to any person for any loss or damage ari
   (c) added to a national park under the National Parks Act 1980; or
   (d) Crown land subject to the Land Act 1948.
 (2) Before making a declaration under subsection (1), the responsible Ministers must consult with the Minister of Conservation, the Minister of Forestry, and the Minister for Land Information.
-(3) The following provisions apply in relation to a proposal to add land to a national park under subsection (1)(c):
+(3) The following provisions apply in relation to a proposal to add land to a national park under subsection (1)﻿(c):
   (a) the responsible Ministers must not make a declaration under that provision unless the Minister of Conservation recommends that they do so:
   (b) the Minister of Conservation must not make a recommendation under paragraph (a) except on the recommendation of the New Zealand Conservation Authority made after consultation with the appropriate Conservation Board:
-  (c) an investigation of the proposal may occur under section 8 of the National Parks Act 1980 as if it were a proposal to add land to a national park under section 7(1)(b) of that Act:
-  (d) during an investigation (if any) under section 8 of the National Parks Act 1980, a declaration may be made under subsection (1)(a) or (b) of this section, and the proposal may continue to be dealt with under sections 7(1)(b), 7(2), and 8 of the National Parks Act 1980.
+  (c) an investigation of the proposal may occur under section 8 of the National Parks Act 1980 as if it were a proposal to add land to a national park under section 7(1)﻿(b) of that Act:
+  (d) during an investigation (if any) under section 8 of the National Parks Act 1980, a declaration may be made under subsection (1)﻿(a) or (b) of this section, and the proposal may continue to be dealt with under sections 7(1)﻿(b), 7(2), and 8 of the National Parks Act 1980.
 
 ### 9 Effect of declaration under section 8(1)
 (1) On the day after the date on which it is published in the Gazette or on any later date specified in the notice,—
-  (a) a declaration under section 8(1)(a) has effect as if it were made by notice in the Gazette under section 7 of the Conservation Act 1987 and, if other purposes are specified in the notice, section 18 of that Act; and
-  (b) a declaration under section 8(1)(b) has effect as a reservation and classification under the Reserves Act 1977 for the purposes specified in the notice as if it were made by notice in the Gazette under section 16 of that Act; and
-  (c) a declaration under section 8(1)(c) has effect to add the land to a national park under the National Parks Act 1980 as if it were added by an Order in Council made by the Governor-General under section 7 of that Act; and
-  (d) a declaration under section 8(1)(d) has effect to make the land Crown land subject to the Land Act 1948.
+  (a) a declaration under section 8(1)﻿(a) has effect as if it were made by notice in the Gazette under section 7 of the Conservation Act 1987 and, if other purposes are specified in the notice, section 18 of that Act; and
+  (b) a declaration under section 8(1)﻿(b) has effect as a reservation and classification under the Reserves Act 1977 for the purposes specified in the notice as if it were made by notice in the Gazette under section 16 of that Act; and
+  (c) a declaration under section 8(1)﻿(c) has effect to add the land to a national park under the National Parks Act 1980 as if it were added by an Order in Council made by the Governor-General under section 7 of that Act; and
+  (d) a declaration under section 8(1)﻿(d) has effect to make the land Crown land subject to the Land Act 1948.
 (2) On a declaration taking effect,—
   (a) the land described in the notice ceases to be Crown forest land within the meaning of section 2(1) of the Crown Forest Assets Act 1989; and
   (b) section 8(1) ceases to apply to that land.
@@ -64,7 +64,7 @@ No compensation is payable by the Crown to any person for any loss or damage ari
 The Registrar-General of Land or the Chief Surveyor, as the case requires, must register a copy of a notice of a declaration under section 8(1) changing the status of land against the relevant title or record and do anything else needed to record the change of status, on receipt of a copy of the notice from either of the responsible Ministers.
 
 ### 11 Effect of change of status of land on draft West Coast conservation management strategy
-(1) If the West Coast conservation management strategy is in draft when a declaration is made under section 8(1)(a), (b), or (c) changing the status of land, the Director-General of Conservation may, after consulting with the West Coast Conservation Board, initiate a review of, or an amendment to, all or part of the most recent draft conservation management strategy.
+(1) If the West Coast conservation management strategy is in draft when a declaration is made under section 8(1)﻿(a), (b), or (c) changing the status of land, the Director-General of Conservation may, after consulting with the West Coast Conservation Board, initiate a review of, or an amendment to, all or part of the most recent draft conservation management strategy.
 (2) The review or amendment of the draft conservation management strategy must be carried out as if the conservation management strategy had been approved under section 17F(p) of the Conservation Act 1987. Section 17H or section 17I of that Act, as the case requires, applies with all necessary modifications to the review or amendment.
 
 ### 12 Effect of change of status of land on North Westland regional management plan
@@ -108,7 +108,7 @@ If, before a declaration under section 8(1) takes effect, an existing encumbranc
 (1) The purpose of this section is to provide exemptions from the concession regime under the Conservation Act 1987 for conservation areas, reserves, or national parks, so as to enable a person to exchange an existing encumbrance saved by section 14 for a concession during the life of the existing encumbrance.
 (2) If a person applies to the Minister of Conservation for a concession under the Conservation Act 1987, the Reserves Act 1977, or the National Parks Act 1980 in exchange for an existing encumbrance saved by section 14, the following provisions apply in relation to that application:
   (a) section 17T(4) and (5) of the Conservation Act 1987 (public notice) does not apply:
-  (b) section 17U(1)(f) of the Conservation Act 1987 (Minister to have regard to submissions) and section 17U(3) of that Act (Minister not to grant application contrary to Act or purposes for which land held) do not apply:
+  (b) section 17U(1)﻿(f) of the Conservation Act 1987 (Minister to have regard to submissions) and section 17U(3) of that Act (Minister not to grant application contrary to Act or purposes for which land held) do not apply:
   (c) section 17W of the Conservation Act 1987 (relationship between concessions and conservation management strategies and plans) does not apply:
   (d) section 17T(2) of the Conservation Act 1987 (Minister to decline application within 20 working days) does not apply to the extent that it requires the Minister of Conservation to decline an application for non-compliance or inconsistency with provisions of that Act that are excluded by this subsection or with a conservation management strategy or conservation management plan:
   (e) Part 3B of the Conservation Act 1987 is subject to the modifications in this subsection for the purposes of that Act and also section 59A of the Reserves Act 1977, section 49 of the National Parks Act 1980, and any other enactment.
@@ -127,9 +127,10 @@ If, before a declaration under section 8(1) takes effect, an existing encumbranc
 The Registrar-General of Land or the Chief Surveyor, as the case requires, must record the cancellation of an existing encumbrance under section 16 or section 18 on written application by the new Minister.
 
 ### 21 Power to amend Schedule 1
-The Governor-General may, by Order in Council, on the recommendation of the responsible Ministers, amend Schedule 1—
+(1) The Governor-General may, by Order in Council, on the recommendation of the responsible Ministers, amend Schedule 1—
   (a) to add descriptions of West Coast indigenous production forest land owned by the Crown and managed by Timberlands West Coast Limited at the commencement of this section:
   (b) to correct descriptions of land (or parts of land).
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 22 Consequential amendments to other Acts
 The Acts specified in Schedule 2 are amended in the manner indicated in that schedule.
