@@ -1,5 +1,5 @@
 # Crown Forest Assets Act 1989
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for—athe management of the Crown's forest assets:bthe transfer of those assets while at the same time protecting the claims of Maori under the Treaty of Waitangi Act 1975:cin the case of successful claims by Maori under that Act, the transfer of Crown forest land to Maori ownership and for payment by the Crown to Maori of compensation:dother incidental matters
 
@@ -270,7 +270,8 @@ A Crown forestry licence does not transfer to, or confer on, the licensee an est
 (4) Where a Crown forestry licence which has been registered under section 30 is rescinded or surrendered, the owner of the land subject to the licence may send a notice of rescission or surrender to the Registrar-General of Land, who, without further notice or inquiry and without fee, shall enter a memorial of the rescission or surrender on the register.
 
 ### 32 Regulations
-The Governor-General may, from time to time, by Order in Council, make regulations prescribing such matters as are necessary or expedient for regulating the registration of Crown forestry licences under the Land Transfer Act 2017.
+(1) The Governor-General may, from time to time, by Order in Council, make regulations prescribing such matters as are necessary or expedient for regulating the registration of Crown forestry licences under the Land Transfer Act 2017.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 33 Application of other Acts
 (1) None of the following constitutes a subdivision of land for the purposes of Part 10 of the Resource Management Act 1991—
