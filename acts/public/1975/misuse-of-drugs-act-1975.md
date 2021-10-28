@@ -1,11 +1,12 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2020-12-08_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Misuse of Drugs Act 1975.
 (2) This Act shall come into force on a date to be appointed for the commencement thereof by the Governor-General by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -94,6 +95,7 @@ _Consolidation as at 2020-12-08_
 ### 3 Act to bind the Crown
 (1) Subject to subsection (2), this Act shall bind the Crown.
 (2) The Governor-General may, by Order in Council, exempt any instrument of the Executive Government of New Zealand, either absolutely or to such extent and subject to such conditions as may be specified in the Order in Council, from all or any of the provisions of this Act, and in that event, or to that extent and subject to compliance with any such conditions, this Act, or the provisions of this Act so specified, as the case may require, shall not bind the Crown in right of that instrument.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3A Classification of drugs
 The classification of a drug under this Act is based on the risk of harm the drug poses to individuals, or to society, by its misuse; and accordingly—
@@ -118,22 +120,24 @@ The classification of a drug under this Act is based on the risk of harm the dru
 (1C) An Order in Council may not be made under subsection (1B)﻿(a) in relation to a controlled drug unless the name or description of the controlled drug is, at the same time, being moved from Schedule 1, 2, or 3, or from a Part or clause of Schedule 1, 2, or 3 to another of those schedules, Parts, or clauses.
 (1D) An Order in Council may not be made under subsection (1B)﻿(b) in relation to a substance, preparation, mixture, or article unless its name or description is, at the same time, being added to Schedule 1, 2, or 3.
 (2) An Order in Council made under subsection (1) or subsection (1B) may not come into force except in accordance with a commencement order made under section 4A.
-(3) An Order in Council made under subsection (1) or (1B) is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3)
 (4) The Governor-General may, by Order in Council,—
   (a) amend the name or description of any substance, preparation, mixture, or article named or described in Schedule 1, Schedule 2, Schedule 3, or Schedule 5, if the amendment is necessary for the purpose of rendering that name or description consistent with international scientific usage:
   (b) update Schedule 1, Schedule 2, Schedule 3, or Schedule 5, if the update is necessary for the purpose of clarifying content or correcting drafting errors:
   (c) add to, or remove from, Schedule 4 the name or description of any substance included in that schedule, if the amendment is necessary for the purpose of giving effect to any changes to the Annex to the Vienna Convention.
 (5) No Order in Council may be made under paragraph (a) or paragraph (b) of subsection (4) if it has the effect of classifying, changing the classification of, or declassifying any substance, preparation, mixture, or article.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4A Procedure for bringing Order in Council made under section 4(1) or (1B) into force
 (1) Subject to subsection (2), the Governor-General may, by Order in Council, make a commencement order bringing any Order in Council made under section 4(1) or (1B) into force.
 (2) The commencement order may be made only after the Order in Council made under section 4(1) or (1B) has been approved by resolution of the House of Representatives.
 (3) A resolution of the House of Representatives approving an Order in Council made under section 4(1) or (1B) may be made at any time after—
-  (a) the date that is 28 days after the date on which notice that the Order in Council has been made is given in the Gazette; or
-  (b) if the Gazette notice is given during the period commencing on 24 December in one year and ending on 15 January in the following year, 15 February of that following year.
+  (a) the date that is 28 days after the date on which the order is published; or
+  (b) if the order is published during the period commencing on 24 December in one year and ending on 15 January in the following year, 15 February of that following year.
 (4) An Order in Council made under section 4(1) or (1B) lapses if—
   (a) a motion to approve the Order in Council is defeated; or
   (b) no motion to approve the Order in Council is agreed to within 1 year of its date of making.
+(5) An order under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4B Matters to which Minister must have regard before recommending Order in Council under section 4(1) or (1B)
 (1) Before recommending to the Governor-General that an Order in Council be made under section 4(1), the Minister must, in respect of each substance, preparation, mixture, or article (drug) referred to in the proposed Order in Council,—
@@ -157,7 +161,7 @@ The classification of a drug under this Act is based on the risk of harm the dru
   (c) any other matters that the Minister considers relevant.
 
 ### 4C Temporary class drug order
-(1) The Minister may, by an order published in the Gazette, specify any substance, preparation, mixture, or article as a temporary class drug.
+(1) The Minister may, by an order published under the Legislation Act 2019, specify any substance, preparation, mixture, or article as a temporary class drug.
 (2) The Minister must not make an order if the substance, preparation, mixture, or article is already a Class A controlled drug, a Class B controlled drug, a Class C controlled drug (except a controlled drug analogue), or a precursor substance.
 (3) The Minister must not make an order unless satisfied that the substance, preparation, mixture, or article that is to be specified in the order—
   (a) poses, or may pose, a risk of harm to individuals or to society; and
@@ -165,7 +169,8 @@ The classification of a drug under this Act is based on the risk of harm the dru
 (4) An order may describe the substance, preparation, mixture, or article by either or both of the following:
   (a) its chemical name, or one of its chemical names:
   (b) a description of the substance, preparation, mixture, or article, in the form that the Minister considers appropriate for the purposes of the order.
-(5) An order must state the date on which the order comes into force, and that date must not be earlier than the day after the date of the publication of the order in the Gazette.
+(5) An order must state the date on which the order comes into force, and that date must not be earlier than the day after the date of the publication of the order.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4C Temporary class drug notice
 [Repealed]
@@ -181,9 +186,7 @@ The classification of a drug under this Act is based on the risk of harm the dru
 
 ### 4E Further action relating to temporary class drugs
 (1) While a temporary class drug order is in place, the Minister must seek advice, as the Minister considers appropriate, under section 5 or 5AA (or both) about the temporary class drug and its appropriate classification (if any, including as a precursor substance) under this Act.
-(2) As soon as possible after the publication of a temporary class drug order in the Gazette, the Director-General of Health must ensure that, while the order remains in force, both the order and information about its effects are available—
-  (a) on the Ministry of Health's Internet site, in an electronic form that is publicly accessible; and
-  (b) in any other way that the Director-General considers appropriate in the circumstances.
+(2)
 
 ### 4E Duration of temporary class drug notice
 [Repealed]
@@ -196,14 +199,17 @@ The classification of a drug under this Act is based on the risk of harm the dru
     (ii) classified as a Class B controlled drug; or
     (iii) classified as a Class C controlled drug; or
     (iv) added to Schedule 4 as a precursor substance; and
-  (c) its revocation by the Minister by order in the Gazette.
+  (c) its revocation by the Minister.
 (2) A temporary class drug order may be renewed by the Minister—
   (a) before the date of its expiry as calculated under subsection (1); and
   (b) on 1 occasion only; and
   (c) only for the purpose of allowing sufficient time for the Minister to obtain the advice that is to be sought under section 4E(1).
+(3) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a revocation under subsection (1)﻿(c); and
+  (b) a renewal under subsection (2).
 
 ### 4G Status of temporary class drug order
-A temporary class drug order is a disallowable instrument but not a legislative instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### 5 Advisory and technical committees
 (1) The Minister may from time to time appoint such advisory or technical committees as he thinks fit to advise him for any of the purposes of this Act, and may from time to time determine the functions of any such committee.
@@ -237,11 +243,9 @@ A temporary class drug order is a disallowable instrument but not a legislative 
 (5) Subsections (2) and (3) of section 5 apply to the Expert Advisory Committee on Drugs as if it were a committee established under section 5.
 
 ### 5A Approved laboratories
-(1) The Minister may from time to time, by notice in the Gazette, approve any laboratory for the purposes of this Act.
+(1) The Minister may from time to time, by notice, approve any laboratory for the purposes of this Act.
 (2) Any approval by the Minister of a laboratory as an approved laboratory for the purposes of this Act may be given on such terms and conditions as the Minister thinks fit and as are specified in the notice approving that laboratory.
-(3) A notice given by the Minister in the Gazette for the purposes of subsection (1) is—
-  (a) a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; and
-  (b) a regulation for the purposes of the Interpretation Act 1999.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5B Functions of Minister
 For the purposes of this Act, the functions of the Minister include the provision and publication of reports, information, and advice concerning the misuse of drugs and the treatment of persons suffering from the misuse of drugs.
@@ -625,9 +629,9 @@ Every person commits an offence against this Act who wilfully obstructs, hinders
 (3) Nothing in this section shall be construed to limit the provisions of any other enactment relating to the prohibition or regulation of the publication of reports or particulars relating to any judicial proceedings.
 
 ### 22 Powers of Minister to prohibit importation, etc, of controlled drugs
-(1) The Minister may from time to time, by notice in the Gazette, prohibit the import, manufacture, production, procuring, possession, supply, administration, or other use of any specified controlled drug, either absolutely or subject to such conditions as he thinks fit, for any specified period not exceeding 1 year:
+(1) The Minister may from time to time, by notice, prohibit the import, manufacture, production, procuring, possession, supply, administration, or other use of any specified controlled drug, either absolutely or subject to such conditions as he thinks fit, for any specified period not exceeding 1 year:
   provided that this power shall not be exercised more than once in respect of any controlled drug so specified.
-(1A) The Minister may from time to time, by notice in the Gazette, prohibit the importation, supply, possession for the purpose of sale or supply, or offering for sale of any class of pipe, other utensil, or identifiable component of a pipe or other utensil, not being a needle or syringe, that may be used for administering any controlled drug or in the preparation of any controlled drug to be administered, either absolutely or subject to such conditions as the Minister thinks fit.
+(1A) The Minister may from time to time, by notice, prohibit the importation, supply, possession for the purpose of sale or supply, or offering for sale of any class of pipe, other utensil, or identifiable component of a pipe or other utensil, not being a needle or syringe, that may be used for administering any controlled drug or in the preparation of any controlled drug to be administered, either absolutely or subject to such conditions as the Minister thinks fit.
 (2) Every person commits an offence against this Act who,—contravenes or fails to comply with that notice.
   (a) being a person permitted by or under this Act to import, manufacture, produce, procure, possess, supply, administer, or otherwise use, as the case may require, a controlled drug specified in a notice under subsection (1); or
   (b) were it not for a notice issued under subsection (1), would be permitted by or under this Act to import, manufacture, produce, procure, possess, supply, administer, or otherwise use, as the case may require, a controlled drug specified in that notice,—
@@ -641,7 +645,7 @@ Every person commits an offence against this Act who wilfully obstructs, hinders
 (5) Where—that person is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, or to both.
   (a) a body corporate is convicted of an offence against subsection (3); and
   (b) under section 17(2), a person (being a director or person concerned in the management of that body corporate) is also guilty of that offence,—
-(6) A notice issued under subsection (1A) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(6) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 23 Powers of Minister to prohibit prescribing, etc
 (1) Subject to subsection (2), the Minister may at any time, by notice in the Gazette,—
@@ -769,7 +773,7 @@ In any proceedings against any person in respect of any offence against this Act
 
 ### 31 Evidence of analysis
 (1) For the purposes of this section, the term analyst means—
-  (a) any person who is designated by the Minister by notice in the Gazette as the analyst in charge of an approved laboratory; or
+  (a) any person who is designated by the Minister by notice as the analyst in charge of an approved laboratory; or
   (b) any person who works in an approved laboratory and who is authorised, by the analyst in charge of that laboratory, to act as an analyst for the purposes of this Act, either generally or in any particular case.
 (2) Subject to subsections (3) and (4), in any proceedings for an offence against this Act, a certificate purporting to be signed by an analyst, and certifying that, on a date stated in the certificate, the substance, preparation, mixture, or article to which the certificate relates was received by the signatory personally in any case or (where the substance, preparation, mixture, or article was delivered in a sealed package using a traceable system) by any other person (being a person who works in an approved laboratory and who is authorised, by the analyst in charge of that laboratory, to receive it), from the member of the Police or employee of the Police Department or officer of Customs named in the certificate, and that upon analysis that substance, preparation, mixture, or article was found to be or to contain a particular controlled drug or precursor substance (whether of a specified or an unspecified weight) or a particular prohibited plant, or a particular part of a particular prohibited plant, or a seed or fruit of a particular prohibited plant, specified or described in the certificate, shall until the contrary is proved be sufficient evidence—
   (a) of the qualifications and authority of the person by whom the analysis was carried out; and
@@ -789,9 +793,7 @@ In any proceedings against any person in respect of any offence against this Act
     (c) a member of the Senior Air Security Specialist trade, or of the Air Security Specialist trade, of the Royal New Zealand Air Force:
     (d) an officer of the Air Security specialisation of the Operational Support Branch of the Royal New Zealand Air Force
   - **served** means served as if the certificate were a document required to be served in accordance with rules made under the Criminal Procedure Act 2011.
-(6) A notice given by the Minister in the Gazette for the purposes of subsection (1) is—
-  (a) a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; and
-  (b) a regulation for the purposes of the Interpretation Act 1999.
+(6) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 32 Forfeiture
 (1) Every person convicted of an offence against this Act shall, in addition to any penalty imposed pursuant to this Act, forfeit to Her Majesty, by virtue of such conviction, all articles, if any, in respect of which the offence was committed and in the possession of such person.
@@ -855,14 +857,11 @@ For any purpose in connection with this Act, a certificate, given by the Secreta
 **Drug and substance checking**
 
 ### 35DA Drug and substance checking service providers
-(1) The Director-General of Health may, by notice in the Gazette,—
+(1) The Director-General of Health may, by notice,—
   (a) appoint drug and substance checking service providers to perform the functions specified in section 35DB; and
   (b) specify reasonable terms and conditions that an appointment is subject to.
 (2) The Ministry of Health must publish on its Internet site a list of service providers appointed under subsection (1) and the terms and conditions to which a service provider’s appointment is subject.
-(3) A notice given by the Director-General in the Gazette for the purpose of subsection (1)—
-  (a) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012; and
-  (b) must be presented to the House of Representatives under section 41 of that Act; and
-  (c) is a regulation for the purposes of the Interpretation Act 1999.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 35DB Functions of service provider
 (1) The functions of a service provider are to—
@@ -956,6 +955,10 @@ The result of a test carried out by a service provider in relation to any drug o
 (2) Any regulations made under subsection (1) may—
   (a) be expressed to apply to controlled drugs generally, or to particular controlled drugs or classes of controlled drugs specified or described in the regulations, and may make different provision for different controlled drugs or classes of controlled drugs so specified or described:
   (b) provide for depriving persons of any rights, privileges, or exemptions, conferred on any class of person to which those persons belong, by any such regulations.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4) If regulations authorise a person to grant exemptions referred to in subsection (1)﻿(r),—
+  (a) an exemption is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 37A Regulations setting minimum quality standards
 (1) Without limiting section 37, the Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations to prescribe the minimum quality standard that must be met by a product or class of product—
@@ -967,6 +970,7 @@ The result of a test carried out by a service provider in relation to any drug o
   (b) apply to a product or class of products only if specified criteria are met.
 (4) Regulations made under this section that relate to products that contain any part of any plant of the genus Cannabis, cannabis fruit, or cannabis seed must not require that the variety of plant contained in the product was brought into New Zealand with authorisation, if the variety is established in New Zealand at the time the product is manufactured or produced.
 (5) The Minister must, no later than 1 year after the date on which the Misuse of Drugs (Medicinal Cannabis) Amendment Act 2018 comes into force, recommend the making of regulations under this section that relate to products that contain any part of any plant of the genus Cannabis, cannabis fruit, or cannabis seed.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 38 Effect on Poisons Act 1960
 [Repealed]
