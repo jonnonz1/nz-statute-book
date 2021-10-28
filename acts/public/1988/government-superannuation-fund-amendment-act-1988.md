@@ -1,5 +1,5 @@
 # Government Superannuation Fund Amendment Act 1988
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2021-10-28_
 
 > An Act to amend the Government Superannuation Fund Act 1956
 
@@ -26,6 +26,7 @@ _Consolidation as at 2007-09-03_
 (2) This section does not apply to any person to whom a retiring allowance is payable under section 36 or section 69 of the principal Act.
 (3) The annual rate of the retiring allowance payable to any person to whom this section applies shall not, by reason of the enactment of section 2 of this Act, exceed by more than one thousand dollars the annual rate of the retiring allowance that would have been paid if section 2 of this Act had not been enacted.
 (4) The Governor-General may, from time to time by Order in Council, increase the amount specified in subsection (3) of this section with effect from any date specified in the Order.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4 Special provision in relation to annuities
 (1) For the purpose of calculating any annuity payable under section 45(2) or (3) of the principal Act, the rate of the retiring allowance to which the contributor was entitled at the date of the contributor's death shall be deemed to include any adjustments that would have been payable if section 2 of this Act had been enacted before the date of the contributor's death and if (except in the case of a contributor entitled to a retiring allowance under section 36 or section 69 of the principal Act) section 3 of this Act had applied to that contributor.
