@@ -1,5 +1,5 @@
 # Interest on Money Claims Act 2016
-_Consolidation as at 2019-04-12_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Interest on Money Claims Act 2016.
@@ -213,6 +213,7 @@ Unless the contract expressly provides otherwise, a provision in the contract as
   (a) simple, accessible, and predictable law:
   (b) commercially realistic, and fair, compensation for creditors:
   (c) a method of calculating interest owed using a published interest multiplier that is updated regularly and administratively, and is easy to use.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 28 Calculation of interest for amounts under other enactments
 The provisions set out in Schedule 2 for calculating interest payable on amounts under certain other enactments have effect according to their terms.
