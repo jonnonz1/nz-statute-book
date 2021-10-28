@@ -1,5 +1,5 @@
 # Maori Trust Boards Act 1955
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to make better provision for the administration of certain Maori Trust Boards
 
@@ -468,7 +468,8 @@ An election under this Part shall not be invalid by reason of any irregularity i
 Where anything is omitted to be done or cannot be done at the time required by or under this Part, or is done before or after that time, or is otherwise irregularly done in matter of form, or sufficient provision is not made by or under this Part, the Governor-General may, by Order in Council published in the Gazette, at any time before or after the time within which the thing is required to be done, extend that time, or validate anything so done before or after the time required or so irregularly done in matter of form, or make other provision for the case as he thinks fit.
 
 ### 55A Invalid elections
-Where in the opinion of the Governor-General irregularities have occurred in respect of any election under this Act which it would not be proper or desirable to validate under section 55, he may, by Order in Council, declare any such election to be invalid and make such provisions as he thinks fit for the holding of a fresh election.
+(1) Where in the opinion of the Governor-General irregularities have occurred in respect of any election under this Act which it would not be proper or desirable to validate under section 55, he may, by Order in Council, declare any such election to be invalid and make such provisions as he thinks fit for the holding of a fresh election.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 4 — Miscellaneous
 
@@ -481,11 +482,12 @@ Where in the opinion of the Governor-General irregularities have occurred in res
   (c) providing for the method of election by beneficiaries of a Board, of candidates for membership of the Board:
   (d) limiting or regulating the rights of persons who do not reside in the appropriate area to stand for election, or to nominate any candidate for election, or to vote in an election.
 (3A) Any regulations made pursuant to subsection (3)﻿(d) shall have effect according to their tenor notwithstanding anything to the contrary in this Act.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (4)
 
 ### 57 Repeals and savings
 (1) The enactments specified in the Schedule are hereby repealed.
-(2) Without limiting the provisions of the Interpretation Act 1999, it is hereby declared that the repeal of any provision by this Act shall not affect any document made or anything whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
+(2) Without limiting the provisions of Part 2 of the Legislation Act 2019, it is hereby declared that the repeal of any provision by this Act shall not affect any document made or anything whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
 
 ## Schedule  — Enactments repealed
 
