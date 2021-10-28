@@ -1,5 +1,5 @@
 # Freedom Camping Act 2011
-_Consolidation as at 2021-07-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Freedom Camping Act 2011.
@@ -158,7 +158,7 @@ Freedom camping is permitted on any conservation land unless freedom camping is 
 [Repealed]
 
 ### 17 Freedom camping notices
-(1) The Director-General may, by notice published in accordance with section 18,—
+(1) The Director-General may, by notice published in accordance with subsection (5) and section 18,—
   (a) define conservation land where freedom camping is restricted and the restrictions that apply to freedom camping on that land:
   (b) define conservation land where freedom camping is prohibited.
 (2) A notice may be published under subsection (1) only if—
@@ -172,22 +172,25 @@ Freedom camping is permitted on any conservation land unless freedom camping is 
   (b) specify whether freedom camping is restricted or prohibited on the land and, if applicable, the restrictions that apply; and
   (c) state the date on which the notice comes into force.
 (4) However, where a notice contains both a map and a description and there is an inconsistency between the map and the description, the description prevails.
+(5) A notice under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) despite section 26 of that Act, commences in accordance with section 18(2)﻿(b).
 
 ### 18 Public notification of freedom camping notices
 (1) A freedom camping notice is published in accordance with this section if a summary of the notice—
-  (a) is published in the Gazette; and
+  (a)
   (b) is published in the following newspapers:
     (i) in a daily newspaper circulating in each of the cities of Auckland, Wellington, Christchurch, and Dunedin; or
     (ii) if the Director-General is satisfied that the notice is of local or regional interest only, in a newspaper or newspapers circulating throughout the locality or region to which the notice relates; and
   (c) complies with subsection (2).
 (2) A summary of a freedom camping notice must—
   (a) generally describe the contents of the notice; and
-  (b) specify the date on which the notice will come into force (which must be a date that is no earlier than the later of the days on which the notice is published in the Gazette or the newspaper under subsection (1)﻿(a) and (b)); and
+  (b) specify the date on which the notice will come into force (which must be a date that is no earlier than the later of the days on which the notice is published under the Legislation Act 2019 or the summary is published under subsection (1)﻿(b)); and
   (c) state that copies of the notice may be inspected and obtained at the offices of the Department on payment of the specified amount.
 (3) The Department must—
-  (a) keep copies of all freedom camping notices at its national office; and
-  (b) make the notices available for public inspection, without fee, at reasonable hours at the Department's offices; and
-  (c) make the notices available on the Department's Internet site; and
+  (a)
+  (b)
+  (c)
   (d) supply to any person, on request and on payment of a reasonable charge, a copy of a notice.
 
 ### 19 Director-General to exercise powers as if Act specified in Schedule 1 of Conservation Act 1987
@@ -450,16 +453,18 @@ An enforcement officer may seize and impound a boat, a caravan, or a car, camper
 (4) Nothing in section 50 of the Local Government (Auckland Council) Act 2009 limits or prevents the Auckland Council from exercising its powers under this Act in respect of a local authority area that forms part of the Auckland transport system (as that term is defined in section 37(1) of that Act).
 
 ### 43 Regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation and the Minister of Local Government, make regulations for 1 or more of the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation and the Minister of Local Government, make regulations for 1 or more of the following purposes:
   (a) prescribing infringement fees for infringement offences (being an amount not exceeding $1,000):
   (b) prescribing infringement notice forms:
   (c) prescribing reminder notice forms:
   (d) prescribing seizure and impounding notice forms.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 44 Orders in Council to specify track as Great Walks Track
-The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation,—
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation,—
   (a) specify a track as a Great Walks Track for the purposes of section 5(3):
   (b) remove the name of a track specified in Schedule 1.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 45 Evidence in proceedings
 A certificate signed by the chief executive of a local authority or the Director-General, in the absence of any evidence to the contrary, is sufficient evidence of the status of the contents of the certificate.
