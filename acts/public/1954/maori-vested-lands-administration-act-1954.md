@@ -1,5 +1,5 @@
 # Maori Vested Lands Administration Act 1954
-_Consolidation as at 2013-08-19_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the administration of certain land vested in the Māori Trustee and certain other Maori land subject to leases conferring on the lessees rights to compensation for improvements
 
@@ -420,6 +420,7 @@ No lessee under any lease to which section 19 applies shall, after the commencem
 
 ### 76 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make all such regulations as may be contemplated by this Act or as may in his opinion be necessary or expedient for giving effect to the provisions of this Act and for the due administration thereof.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (2)
 
 ### 77 Repeals
