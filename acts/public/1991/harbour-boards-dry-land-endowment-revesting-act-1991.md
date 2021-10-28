@@ -1,5 +1,5 @@
 # Harbour Boards Dry Land Endowment Revesting Act 1991
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for certain endowments of dry harbour land to be revested in the Crown or reserved for certain purposes, and to amend certain enactments
 
@@ -44,6 +44,7 @@ All persons exercising functions and powers under this Act shall have regard to 
   (a) the former vesting of that land in a local authority, whether pursuant to the Local Government Act 1974 or the Local Government Act 2002 or otherwise, shall be deemed to have been revoked; and
   (b) that land shall be deemed to be revested in the Crown as if it had never been alienated from the Crown and free from all subsequent trusts, reservations, restrictions, and conditions.
 (8) No Order in Council shall be made under subsection (1) in respect of any specified land unless the land has been identified for the purposes of this section on a plan that is lodged in the office of the Chief Surveyor and is certified as correct for the purposes of this section by the Chief Surveyor.
+(9) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5 Endowments of dry harbour land not to be sold without approval of Minister
 (1) Any land that may be made subject to an Order in Council made under section 4, but is not for the time being subject to an Order in Council made under that section, may be sold or otherwise disposed of only with the approval in writing of the Minister.
@@ -78,12 +79,12 @@ All persons exercising functions and powers under this Act shall have regard to 
 
 ### 8 Provisions relating to existing records of title
 (1) Every existing record of title in respect of any land revested in the Crown by an Order in Council made under section 4 that is not subject to any current registered lease or registered licence shall, on the request in writing of the Minister and without further authority than this subsection, be cancelled by the Registrar-General of Land.
-(2) Where the record of title for any such land is subject to such a lease or licence, the Registrar-General of Land shall, on the request in writing of the Minister and without further authority than this subsection, make any necessary endorsements on the record of title, and the record of title shall thereafter enure the name of Her Majesty the Queen in right of New Zealand for the purposes of this Act until the expiration or sooner determination of the lease or licence, and shall then be cancelled by the Registrar-General of Land.
+(2) Where the record of title for any such land is subject to such a lease or licence, the Registrar-General of Land shall, on the request in writing of the Minister and without further authority than this subsection, make any necessary endorsements on the record of title, and the record of title shall thereafter enure the name of the Sovereign in right of New Zealand for the purposes of this Act until the expiration or sooner determination of the lease or licence, and shall then be cancelled by the Registrar-General of Land.
 (3)
 
 ### 9 Minister may apply for new records of title
 (1) The Minister may cause a plan of survey of any land revested in the Crown by an Order in Council made under section 4 to be made by a licensed cadastral surveyor and approved by the Chief Surveyor, and lodge it with the Registrar-General of Land.
-(2) On or after the deposit of a plan of survey approved by the Chief Surveyor, the Registrar-General of Land shall, notwithstanding anything in the Land Transfer Act 2017, issue to Her Majesty the Queen in right of New Zealand for the purposes of this Act a record of title under that Act in respect of the area to which the plan relates.
+(2) On or after the deposit of a plan of survey approved by the Chief Surveyor, the Registrar-General of Land shall, notwithstanding anything in the Land Transfer Act 2017, issue to the Sovereign in right of New Zealand for the purposes of this Act a record of title under that Act in respect of the area to which the plan relates.
 (3) Where a new record of title is issued for the purposes of this Act, the Registrar-General of Land shall cancel any other record of title in respect of the land concerned or partially cancel that other record of title, as the case may require.
 (4) The Registrar-General of Land shall record against every such new record of title the order of priority of any registered leases or registered licences in respect of the land to which the record of title relates.
 (5) Nothing in this section shall prevent the Minister applying in accordance with the provisions of the Land Transfer Act 2017 for the issue of a new record of title in respect of any area revested in the Crown by any Order in Council made under section 4(1).
