@@ -1,5 +1,5 @@
 # Sports Anti-Doping Act 2006
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Sports Anti-Doping Act 2006.
@@ -118,6 +118,11 @@ The functions of Drug Free Sport NZ are to—
 (3) In addition, the board may also make any other rules that are necessary or desirable to govern the practice and procedure of the board’s functions under section 12(c) to (i).
 (4) Before making a rule under this section, the board must give national sporting organisations, athletes, and the Privacy Commissioner a reasonable opportunity to comment on the proposed rule.
 (5) Rules made under this section may authorise specified procedures or matters of detail to be determined by Drug Free Sport NZ, and may not be challenged on the ground that they leave such matters to the discretion of Drug Free Sport NZ.
+(6) Rules under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) come into force on the later of—
+    (i) the date that is 28 days after they are published under that Act; and
+    (ii) the date specified in the rules.
 
 ### 17 Incorporation of material by reference in rules
 (1) The following written material may be incorporated by reference in the rules:
@@ -141,35 +146,26 @@ An amendment to, or replacement of, material incorporated by reference in the ru
 ### 20 Effect of expiry of material incorporated by reference
 Material incorporated by reference in the rules that expires or is revoked or ceases to have effect, ceases to have legal effect as part of the rules only if rules made under section 16 state that the material ceases to have legal effect.
 
-### 21 Method of making rules
-(1) Rules may be made under section 16 by the chief executive of Drug Free Sport NZ publishing a notice in the Gazette that states the following:
-  (a) that Drug Free Sport NZ has made rules under section 16; and
-  (b) if there is material incorporated by reference in the rules, a description of that material; and
-  (c) that the rules and the material are available for inspection during working hours, free of charge, and the location of the place or places at which they can be inspected; and
-  (d) that copies of the rules and the material can be purchased, and the location of the place or places at which they can be purchased; and
-  (e) if copies of the rules and the material are made available under section 22(1)﻿(c), that the rules and the material are available in other ways, and details of where or how they can be accessed or obtained.
-(2) The notice in the Gazette need not contain the rules or the material.
-(3) A rule comes into force 28 days after the date on which it is notified in the Gazette or on any later date stated in the notice.
-(4) In this section and section 22, material means—
+### 21 Application of Legislation Act 2019 to material incorporated by reference
+Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in the rules (or any amendment to, or replacement of, that material) merely because it is incorporated.
+
+### 22 Public access to material incorporated by reference
+(1) The chief executive of Drug Free Sport NZ—
+  (a) must make the material available for inspection during working hours, free of charge, at the head office of Drug Free Sport NZ and at any other places that the chief executive determines are appropriate; and
+  (b) must make copies of the material available for purchase at a reasonable price; and
+  (c) may make copies of the material available in any other way that the chief executive considers appropriate in the circumstances (for example, on an Internet website).
+(2) A failure to comply with this section does not invalidate the rules or the incorporation by reference of material in the rules.
+(3) In this section, material means—
   (a) material incorporated by reference in the rules:
   (b) any amendment to, or replacement of, that material that is incorporated in the rules or the material referred to in paragraph (a) with the amendments or replacement material incorporated:
   (c) if the material referred to in paragraph (a) or (b) is not in an official New Zealand language, as well as the material itself, an accurate translation of the material in an official New Zealand language.
-
-### 22 Public access to rules and material incorporated by reference
-(1) The chief executive of Drug Free Sport NZ—
-  (a) must make the rules and the material available for inspection during working hours, free of charge, at the head office of Drug Free Sport NZ and at any other places that the chief executive determines are appropriate; and
-  (b) must make copies of the rules and the material available for purchase at a reasonable price; and
-  (c) may make copies of the rules and the material available in any other way that the chief executive considers appropriate in the circumstances (for example, on an Internet website).
-(2) A failure to comply with this section does not invalidate the rules or the incorporation by reference of material in the rules.
 
 ### 23 Review of rules
 (1) The board must review the rules from time to time for the purpose of ensuring that they comply with this Act.
 (2) Sections 16 to 22 apply, with the necessary modifications, to the making of a new, amended, or revised rule.
 
 ### 24 Application of Legislation Act 2012 to rules
-(1) The rules are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(2) However, section 41 of the Legislation Act 2012 does not apply to material incorporated by reference in the rules.
-(3) To avoid doubt, nothing in Part 2 of the Legislation Act 2012 applies to material incorporated by reference in the rules.
+[Repealed]
 
 ### 25 Application of Regulations (Disallowance) Act 1989
 [Repealed]
