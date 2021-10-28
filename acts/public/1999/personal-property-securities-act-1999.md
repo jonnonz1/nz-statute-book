@@ -1,5 +1,5 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2021-05-20_
+_Consolidation as at 2021-10-28_
 
 > An Act to reform the law relating to security interests in personal property and, in particular,—ato provide for the creation and enforceability of security interests in personal property; andbto provide for the determination of priority between security interests in the same personal property; andcto provide for the determination of priority between security interests and other types of interests in the same personal property; anddto provide for the enforcement of security interests in personal property other than consumer goods; andeto provide for the establishment of a register of security interests in personal property
 
@@ -7,6 +7,7 @@ _Consolidation as at 2021-05-20_
 (1) This Act may be cited as the Personal Property Securities Act 1999.
 (2) This Act (except section 190) comes into force on a date to be appointed by the Governor-General by Order in Council.
 (3) Section 190 comes into force on the day after the date on which this Act receives the Royal assent.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Outline of this Act
 
@@ -545,6 +546,7 @@ ExamplePerson A has a security interest in person B's car.Person B sells the car
     (i) gave new value for the interest acquired; and
     (ii) bought or leased the goods without knowledge of the security interest.
 (2) The Governor-General may, from time to time, by Order in Council, alter the amount specified in subsection (1).ExamplePerson A buys a television for $999 under a hire purchase agreement from person B.Person A sells the television to person C for $500.Person C does not know about person B's security interest in the television.Person C takes the television free of person B's security interest in the television.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 55 When buyer or lessee of serial-numbered consumer goods or equipment takes consumer goods or equipment free of security interest perfected by registration
 A buyer or lessee of goods that are acquired as consumer goods or equipment, as the case may be, takes the consumer goods or equipment free of a security interest perfected by registration, if—
@@ -1546,6 +1548,7 @@ A notice or document served or given by electronic mail or other similar means o
   (k) prescribing the kinds of goods the leases of which are not within the scope of this Act:
   (l) providing for such other matters as are contemplated by or necessary for giving effect to this Act and for its due administration.
 (2) A regulation made under subsection (1) may be made in respect of different persons, transactions, classes of persons, or classes of transactions.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 191 Acts and regulations amended
 (1) The Acts specified in Schedule 1 are amended in the manner indicated in that schedule.
