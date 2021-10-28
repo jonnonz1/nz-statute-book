@@ -1,5 +1,5 @@
 # National Provident Fund Restructuring Act 1990
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for—athe continuation of the National Provident Fund Board as the Board of Trustees of the National Provident Fund; andbthe restructuring of the National Provident Fund and its superannuation schemes and investment arrangements; andcother incidental matters; anddthe repeal of the National Provident Fund Act 1950
 
@@ -21,7 +21,7 @@ In this Act, unless the context otherwise requires,—
     (a) who is a contributor to that scheme; and
     (b) whose contributions are made solely for the purpose of subsidising the contributions of a natural person or obtaining a benefit for a natural person; and
     (c) who does not, as a result of those contributions, personally become eligible to receive a benefit
-  - **Crown** means Her Majesty the Queen in right of New Zealand
+  - **Crown** means the Sovereign in right of New Zealand
   - **DBP annuitants scheme** means the scheme to be established under section 41(2)﻿(a)
   - **DBP contributors scheme** means the scheme to be established under section 41(2)﻿(b)
   - **debt security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
@@ -139,7 +139,7 @@ In preparing a draft proposal, the Board shall—
 (2) The Minister shall not make a recommendation for the purpose of this section unless he or she is satisfied that sections 5 to 8 have been complied with.
 (3) The Order in Council under this section—
   (a) shall identify the draft proposal approved, but need not incorporate it in the order; and
-  (b) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+  (b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 10 Amendment of proposal by Order in Council
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, approve any amendment to the proposal at any time or times after it has been approved under section 9 and before the transfer day.
@@ -148,7 +148,7 @@ In preparing a draft proposal, the Board shall—
   (b) unless the amendment is approved in writing by the Board.
 (3) Any Order in Council under this section—
   (a) shall identify the amendment approved, but need not incorporate it in the order; and
-  (b) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+  (b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 10A Amendment of proposal after transfer day
 (1) The Governor-General may, by Order in Council, made on the recommendation of the Minister, approve any amendment to the proposal at any time or times after the transfer day.
@@ -158,7 +158,8 @@ In preparing a draft proposal, the Board shall—
   (c) the amendment is approved in writing by the Board.
 (3) Any Order in Council under this section—
   (a) shall identify the amendment approved, but need not incorporate it in the order; and
-  (b) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+  (b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (c) comes into effect in accordance with subsection (4), even if it is not yet published.
 (4) Every amendment approved under this section shall be deemed to have effect on and from the transfer day and the provisions of this Act shall apply to the proposal as so amended accordingly.
 
 **Implementation of proposal for restructuring of Fund**
@@ -443,12 +444,13 @@ On the transfer day the aircrew superannuation scheme shall be deemed to—
 (1) If the Board becomes aware that the level of contributions being made to either the DBP contributors scheme or the aircrew superannuation scheme is, on the information available to the Board,—the Board shall give notice to that effect to the Minister, with a statement of the Board's view as to what action would be required to rectify the position.
   (a) unlikely to be sufficient to provide for the liabilities of that scheme; or
   (b) likely to be in excess of the level of contributions required to provide for the liabilities of the scheme,—
-(2) The Minister may, by notice in writing to the Board, direct the Board to increase or decrease the contributions required to be made by any corporate contributor to the DBP contributors scheme or the aircrew superannuation scheme, and the Board shall take all such steps as are reasonably necessary to implement any such increase or decrease.
+(2) The Minister may, by notice, direct the Board to increase or decrease the contributions required to be made by any corporate contributor to the DBP contributors scheme or the aircrew superannuation scheme, and the Board shall take all such steps as are reasonably necessary to implement any such increase or decrease.
 (3) The Minister may give such notice whether or not the Board has recommended that there be any change to those contributions but shall not do so without prior consultation with the Board.
 (4) Neither the Minister nor the Board may give a notice under this section unless reasonably satisfied, after due enquiry and having regard only to the financial position of the DBP contributors scheme (and not that of the DBP annuitants scheme) or the aircrew superannuation scheme, as the case may be, that the increases or decreases—
   (a) are necessary in order to ensure that any trust fund in respect of the DBP contributors scheme or aircrew superannuation scheme is not in a deficit or surplus position, or to reduce such deficit or surplus position, taking account of the scheme's projected liabilities, the value of its property, and the projected level of future contributions to the scheme; and
   (b) will result in contributions being at a level which, on reasonable assumptions, is likely to achieve neither a surplus nor a deficit in the trust fund of the DBP contributors scheme or aircrew superannuation scheme at the time that the last contributor to that scheme ceases to so contribute.
-(5) Any notice under subsection (2) shall specify the date on which such increases or decreases are to be implemented, but that date shall not be less than 3 months after the date of the notice.
+(5) Any notice under subsection (2) shall specify the date on which such increases or decreases are to be implemented, but that date shall not be less than 3 months after the date on which the notice is published under the Legislation Act 2019.
+(6) A notice under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 44A Additional payments for period 1 October 2010 to 27 April 2011
 (1) Every person entitled to receive any allowance, annuity, or pension under a specified scheme is entitled to be paid by the Board, from any money paid to the Board by the Crown for the purpose, an additional amount equal to 2.02% of any amount of the allowance, annuity, or pension payable to him or her under the specified scheme in respect of the period commencing on 1 October 2010 and ending on the close of 27 April 2011.
@@ -725,12 +727,15 @@ Amendment(s) incorporated in the Act(s).
 **General**
 
 ### 78 Regulations
-The Governor-General may from time to time, by Order in Council,—
+(1) The Governor-General may from time to time, by Order in Council,—
   (a) amend Schedule 3 for the purpose of substituting any name of a group identified in the schedule with—
     (i) any new name of the group; or
     (ii) a reference to any group with which the group has amalgamated, or by which the group has been taken over; or
     (iii) a reference to any other group that has substantially similar responsibilities to the group identified in that schedule:
   (b) make regulations providing for such matters, not inconsistent with this Act, as are contemplated by or necessary for giving full effect to the restructuring of the Fund or of the existing schemes, or for giving full effect to any of the provisions of this Act.
+(2) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an order under subsection (1)﻿(a):
+  (b) regulations under subsection (1)﻿(b).
 
 ### 79 Repeal of local authority monopoly
 The following enactments are hereby repealed:
@@ -751,6 +756,7 @@ The enactments specified in Schedule 6 are hereby consequentially amended in the
   (b) pay, or credit, the accounts of contributors to that scheme in respect of that period accordingly.
 (2) Amendment(s) incorporated in the Act(s).
 (3) All determinations, payments, and credits made or purported to be made by the Board under section 67A of the National Provident Fund Act 1950 before the date on which this section comes into force are hereby validated and deemed to have been lawfully made.
+(4) A determination under subsection (1)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Savings**
 
@@ -1121,24 +1127,24 @@ The provisions set out in Schedule 1 apply to a new pension scheme.
 (5) Subsection (4) is subject to subsection (3).
 
 ### 21 Approval of proposal by Minister
-(1) The Minister may, by notice in the Gazette, approve a draft amalgamation proposal submitted in accordance with section 20.
+(1) The Minister may, by notice, approve a draft amalgamation proposal submitted in accordance with section 20.
 (2) Section 26 applies to the giving of approval.
 (3) The notice must—
   (a) identify the draft amalgamation proposal approved, but need not incorporate it in the notice; and
   (b) state the appointed day for that proposal.
-(4) The notice is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 22 Amendment of proposal
-(1) The Minister may, by notice in the Gazette, approve an amendment to an amalgamation proposal at any time or times after it has been approved under section 21 (whether before or after the appointed day).
+(1) The Minister may, by notice, approve an amendment to an amalgamation proposal at any time or times after it has been approved under section 21 (whether before or after the appointed day).
 (2) Section 26 applies to the giving of approval.
 (3) The Board must submit to the Minister a certificate confirming that, in its opinion, the amendment to the amalgamation proposal does not contravene section 20(3) or (4).
 (4) The notice must—
   (a) identify the amendment approved, but need not incorporate it in the notice; and
   (b) state the day on and from which the amendment has effect, which may be the appointed day or any later day.
-(5) The notice is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(5) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 23 Implementation of proposal
-(1) The Board must arrange for the implementation of an amalgamation proposal, or of an amendment of a proposal, as soon as practicable after the proposal or amendment has been approved by a notice in the Gazette.
+(1) The Board must arrange for the implementation of an amalgamation proposal, or of an amendment of a proposal, as soon as practicable after the proposal or amendment has been approved by the Minister.
 (2) Any documents executed, and all other arrangements made, for the purpose of implementing an amalgamation proposal, become effective as at the appointed day for that proposal.
 (3) Any documents executed, and all other arrangements made, for the purpose of implementing an amendment to an amalgamation proposal become effective as at the day stated under section 22(4)﻿(b).
 
@@ -1187,10 +1193,11 @@ A certificate required by this Act to be given by the Board to the Minister on a
 (2) A provision included in a trust deed or in an amalgamation proposal under this Act has effect, and may be implemented at any time by the Board, notwithstanding any provision of the principal Act or any other enactment or rule of law.
 
 ### 31 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) providing for the transfer of pensioners to a new pension scheme under Part 3; or
   (b) providing for the amalgamation of existing schemes under Part 3; or
   (c) providing for such other matters as are contemplated by or necessary for giving full effect to this Act, and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule.Group
 
