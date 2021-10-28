@@ -1,11 +1,12 @@
 # New Zealand Film Commission Act 1978
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2021-10-28_
 
 > An Act to establish the New Zealand Film Commission, and to define its functions, powers, and duties
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the New Zealand Film Commission Act 1978.
 (2) This Act shall come into force on a date to be appointed by the Governor-General by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
