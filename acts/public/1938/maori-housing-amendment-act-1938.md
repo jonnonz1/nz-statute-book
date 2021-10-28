@@ -1,5 +1,5 @@
 # Maori Housing Amendment Act 1938
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to amend the Maori Housing Act 1935
 
@@ -167,6 +167,7 @@ Any proceedings under the principal Act (including this Act) for the recovery of
   (d) Prescribing matters in respect of which fees (not being fees in respect of advances) are to be payable under the principal Act (including this Act), or under regulations made thereunder, the amount of the fees, and the persons liable to pay them:
   (e) Authorising the refund or remission, in such circumstances as may be prescribed, of any fees (not being fees in respect of advances) payable under the principal Act (including this Act) or under regulations made under that Act.
 (2) No regulation made under the principal Act shall be deemed invalid on the ground that it delegates to or confers on the Governor-General or any other person or body any discretionary authority.
+(3) See section 14(2) of the principal Act, which provides that regulations made in reliance on this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 32
 [Repealed]
