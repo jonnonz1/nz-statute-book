@@ -1,5 +1,5 @@
 # Cheques Act 1960
-_Consolidation as at 2005-01-25_
+_Consolidation as at 2021-10-28_
 
 > An Act to amend the law relating to cheques and certain other instruments
 
@@ -30,6 +30,7 @@ An unindorsed cheque which appears to have been paid by a banker on whom it is d
   (d) any document, not being a bill of exchange, issued by any person or authority which is intended to enable a person to obtain payment from any such account as may from time to time be specified in that behalf by the Governor-General by Order in Council of the sum mentioned in the document:
   (e) any draft payable on demand drawn by a banker upon himself, whether payable at the head office or some other office of his bank.
 (3) A banker shall not be treated for the purposes of this section as having been negligent by reason only of his failure to concern himself with the absence of, or irregularity in, indorsement of an instrument.
+(4) An order under subsection (2)﻿(d) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 6 Application of certain provisions of principal Act
 The provisions of the principal Act relating to crossed cheques shall, so far as applicable, have effect in relation to instruments (other than cheques) to which section 5 applies as they have effect in relation to cheques.
