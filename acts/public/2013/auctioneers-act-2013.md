@@ -1,5 +1,5 @@
 # Auctioneers Act 2013
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Auctioneers Act 2013.
@@ -239,9 +239,10 @@ A certificate signed by the Registrar is sufficient evidence, in the absence of 
 **Regulations**
 
 ### 25 Regulations
-The Governor-General may, by Order in Council, make regulations for the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for the following purposes:
   (a) prescribing information and material to be included in applications for registration:
   (b) prescribing fees associated with the registration of auctioneers.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Transitional provisions**
 
