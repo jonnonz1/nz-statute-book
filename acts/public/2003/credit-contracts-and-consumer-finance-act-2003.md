@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2021-10-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -181,7 +181,7 @@ In this Act, unless the context otherwise requires,—
   - **repossession** means the exercise, or purported exercise, of the creditor's rights under a credit contract relating to consumer goods to take possession of those goods, or keys and access devices relating to those goods, whether or not the creditor was previously in actual possession of those goods, keys, or access devices; and has a corresponding meaning
   - **repossession warning notice** means a notice under section 83G
   - **residential premises** means a building, or part of a building, that is a house, flat, townhouse, home unit, or similar dwelling erected, or currently used, primarily and principally as a residence, and includes any land, improvements, or appurtenances belonging to the dwelling or usually enjoyed with it
-  - **Responsible Lending Code** or means the Code prepared and issued under section 9G and brought into force under section 9H
+  - **Responsible Lending Code** or means the Code prepared and issued under section 9G
   - **revolving credit contract** means a credit contract, whether or not the contract specifies a credit limit, if the contract—
     (a) anticipates multiple advances, to be made when requested by the debtor in accordance with the contract; and
     (b) does not limit the total amount to be advanced to the debtor under the contract
@@ -400,26 +400,22 @@ This Act binds the Crown.
 ### 9G Preparation and issue of Responsible Lending Code
 (1) The Minister must prepare and issue the Responsible Lending Code.
 (2) The Minister may use any process that the Minister considers appropriate to develop the Code, but must—
-  (a) publish a draft Code and release it to the public:
+  (a) release a draft Code to the public:
   (b) consult persons, or representatives of such persons, that the Minister considers will be substantially affected by the Code:
   (c) consider comments received on the draft Code:
   (d) prepare a revised Code in response to comments received:
   (e) consult the Minister of Commerce and the Minister of Finance:
   (f) consider comments received from those Ministers:
   (g) issue the Code.
+(3) The Code may specify different commencement dates for different provisions, but no date may be before the 28th day after the date on which the Code is published in accordance with subsection (4).
+(4) The Code is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 9H Responsible Lending Code comes into force by notice in Gazette
-(1) After the Minister has issued the Code, as provided for in section 9G(2), the Minister must give notice in the Gazette of the date or dates on which the provisions of the Code come into force.
-(2) The notice may state different dates for different provisions, but no date may be before the 28th day after the date on which the notice is published in the Gazette.
-(2A)
-(2B)
-(3) Each provision in the Code comes into force on the date stated in the notice that applies to the provision.
-(4) The Code and the notice are each disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(5) The Ministry must ensure that the Code is available at all reasonable times on an Internet site maintained by or on behalf of the Ministry.
+[Repealed]
 
 ### 9I Amendment of Responsible Lending Code
 (1) The Minister may, at any time, amend or replace the Responsible Lending Code.
-(2) Sections 9G and 9H apply, with any necessary modifications, to any amendment to, or replacement of, the Code.
+(2) Section 9G applies, with any necessary modifications, to any amendment to, or replacement of, the Code.
 (3) However, in the case of a minor amendment that does not materially affect the Code, the Minister need not comply with section 9G(2)﻿(a) to (f).
 
 **Publication of standard form contract terms and costs of borrowing**
@@ -930,6 +926,7 @@ In this Act, unless the context otherwise requires,—
   (b) is satisfied that the increase is necessary or desirable in order to avoid harm or disruption to credit markets that would otherwise be caused by the rise in market interest rates (that is, because more credit contracts would be within the bracket than would be the case if the rise in market rates had not occurred); and
   (c) is satisfied that the increase is not inconsistent with the purpose of this subpart; and
   (d) has consulted the Reserve Bank of New Zealand and the Commission.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Rules**
 
@@ -998,6 +995,7 @@ In this Act, unless the context otherwise requires,—
   (a) has had regard to the purpose of this subpart; and
   (b) has consulted the Commission and the persons or representatives of the persons who the Minister considers will be substantially affected by the regulations.
 (7) If no regulations have been made, the prescribed amount is $30.
+(8) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 45K Prohibition on avoidance
 (1) A person must not enter into a scheme if it is reasonable to conclude that a purpose of the scheme is to defeat, evade, or circumvent the operation of a provision in this subpart.
@@ -2194,10 +2192,11 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 The Commission must pay all infringement fees received into a Crown Bank Account.
 
 ### 105F Regulations relating to infringement offences
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the following purposes:
   (a) prescribing the form of infringement notices and reminder notices:
   (b) prescribing any matters that must be included in those notices:
   (c) prescribing the amount of the infringement fee.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 5 — Defence
 
@@ -2670,6 +2669,7 @@ This Act applies to a credit contract, guarantee, lease, or buy-back transaction
   (e) has consulted the persons or representatives of the persons who the Minister considers will be substantially affected by the regulations.
 (3) If the Minister makes a recommendation, the Minister’s reasons for making the recommendation (including why the declaration is appropriate) must be published together with the regulations.
 (4) If a declaration is made under subsection (1)﻿(b) or (c), this Act applies with any modifications specified in the regulations and with all other necessary modifications.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 137B Declarations about particular arrangements or facilities
 (1) The Minister may declare that the following are not credit contracts:
@@ -2684,12 +2684,9 @@ This Act applies to a credit contract, guarantee, lease, or buy-back transaction
   (c) has consulted—
     (i) the Commission; and
     (ii) the persons or representatives of the persons who the Minister considers will be substantially affected by the declaration.
-(3) A declaration under this section—
-  (a) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; and
-  (b) must, as soon as practicable after it is made, be—
-    (i) published on an Internet site maintained by or on behalf of the Ministry; and
-    (ii) notified in the Gazette.
+(3)
 (4) The Minister’s reasons for making a declaration under this section (including why the declaration is appropriate) must be published together with the declaration.
+(5) A declaration under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 137C General provisions about all declarations
 (1) A declaration under section 137A or 137B may be made subject to terms and conditions, including (without limitation) terms and conditions relating to—
@@ -2795,6 +2792,7 @@ This Act applies to a credit contract, guarantee, lease, or buy-back transaction
   (b) classes of borrowers or debtors:
   (c) classes of guarantors:
   (d) classes of agreements or contracts.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Acts amended and repealed**
 
