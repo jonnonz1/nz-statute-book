@@ -1,5 +1,5 @@
 # Rating Valuations Act 1998
-_Consolidation as at 2021-06-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to—aprovide for the Valuer-General to be a statutory officer within Land Information New Zealand; andbintroduce contestability to the rating valuations market by assigning to the Valuer-General a regulatory rather than a participatory role in the preparation of district valuation rolls; andcrepeal the Valuation of Land Act 1951 and generally restate the law relating to the valuation of land for rating purposes
 
@@ -96,9 +96,9 @@ In this Act, unless the context otherwise requires,—
   (a) publish a notice of his or her intention to make the rules in daily newspapers published in Auckland, Wellington, Christchurch, and Dunedin, respectively, and also publish the notice in the Gazette; and
   (b) give interested persons a reasonable time, which must be specified in the notice, to make submissions on the proposed rules; and
   (c) consult with such persons or groups representative of valuers, local authorities, and other interested persons as the Valuer-General thinks appropriate having regard in each case to the content and effect of the proposed rules.
-(4) As soon as practicable after making any rules under this section, the Valuer-General must notify their making in the Gazette.
-(5) The Gazette notice must specify where copies of the rules may be inspected and obtained.
-(6) Rules made under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4)
+(5)
+(6) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5A Meaning of record of title
 In sections 5B and 5C, record of title means a record of title—
@@ -450,6 +450,7 @@ Nothing in the Copyright Act 1994 prevents any local authority or the Valuer-Gen
   (a) must be reasonable having regard to the expenses incurred or to be incurred by the Valuer-General in the exercise of his or her functions and powers under this Act in relation to the local authority on whom the charge or levy is imposed; and
   (b) is payable to the Valuer-General and recoverable in any court of competent jurisdiction as a debt due to the Valuer-General.
 (4) The Minister may not recommend the making of an Order in Council that imposes or increases a fee or charge unless the Minister has previously consulted the New Zealand Local Government Association Incorporated on the matter.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Repeals and amendments**
 
