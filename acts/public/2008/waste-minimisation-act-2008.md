@@ -1,5 +1,5 @@
 # Waste Minimisation Act 2008
-_Consolidation as at 2021-07-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Waste Minimisation Act 2008.
@@ -255,6 +255,7 @@ Any charge payable to the Secretary under section 20 is recoverable as a debt by
   (d) actual and reasonable charges (having regard to the direct and indirect costs of any monitoring):
   (e) refundable or non-refundable deposits paid before any monitoring of an accredited scheme.
 (4) However, if more than 1 charging method is provided, the Secretary must use the method that he or she believes on reasonable grounds to be the most suitable and equitable in the circumstances concerned.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 23 Regulations in relation to products (whether or not priority products), materials, and waste
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:Control or prohibition on disposal, sale, etcTake-back services, fees, and refundable depositsLabelling of productsQuality standardsInformation to be collected and providedMiscellaneous
@@ -282,6 +283,7 @@ Any charge payable to the Secretary under section 20 is recoverable as a debt by
     (i) there has been adequate consultation with persons or organisations who may be significantly affected by the regulations; and
     (ii) the benefits expected from implementing the regulations exceed the costs expected from implementing the regulations; and
     (iii) the regulations are consistent with New Zealand’s international obligations.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **New Zealand Customs Service to provide information about priority products**
 
@@ -436,14 +438,14 @@ The Minister may direct the Secretary to retain 1 or more payments of levy money
   (b) be satisfied that there has been adequate consultation with persons or organisations who may be significantly affected by the regulations; and
   (c) consider the costs and benefits expected from implementing the regulations.
 (3) The Minister must not recommend the making of regulations under subsection (1)﻿(b), (c), or (k) unless he or she is satisfied that exceptional circumstances justify the exemption or refund.
+(4) Regulations under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) if they are made under subsection (1)﻿(e), must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 (4)
 (5)
 
 ### 41A Regulations under section 41(1)﻿(e) are confirmable instruments
-The explanatory note of regulations made under section 41(1)﻿(e) must indicate that—
-  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ## Part 4 — Responsibilities of territorial authorities in relation to waste management and minimisation
 
@@ -499,6 +501,7 @@ Two or more territorial authorities may jointly prepare and adopt a waste manage
   (b) the proposed changes to the waste management and minimisation plan will achieve or assist in achieving the New Zealand Waste Strategy, or any government policy on waste management and minimisation that replaces the strategy.
 (3) A territorial authority must, as soon as practicable, amend its waste management and minimisation plan to give effect to a direction given to it under subsection (1).
 (4) Section 44 does not apply to an amendment to a waste management and minimisation plan made under this section.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 49 Minister may set performance standards for territorial authorities
 (1) The Minister may, by notice in the Gazette, set performance standards for the implementation of waste management and minimisation plans.
@@ -595,8 +598,8 @@ A territorial authority that provides a service that collects waste, or any pers
 
 ### 57 Crown bound by bylaws
 (1) The Crown is bound by any bylaw made by a territorial authority under section 56.
-(2) However, the Minister may, by written notice to the territorial authority concerned, exempt the Crown from any bylaw by which it is bound under subsection (1), if he or she is satisfied that the exemption is in the national interest.
-(3) If a notice is given under subsection (2), the Minister must, as soon as practicable after giving the notice, publish in the Gazette and present to the House of Representatives a copy of the notice.
+(2) However, the Minister may, by notice, exempt the Crown from any bylaw by which it is bound under subsection (1), if he or she is satisfied that the exemption is in the national interest.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 58 Review of bylaws
 (1) A territorial authority must review a bylaw made by it under section 56—
@@ -611,10 +614,11 @@ A territorial authority that provides a service that collects waste, or any pers
 [Repealed]
 
 ### 59 Regulations in relation to bylaws
-The Governor-General may, by Order in Council, make regulations for the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for the following purposes:
   (a) prescribing offences against bylaws that are infringement offences under this Act:
   (b) prescribing infringement fees (not exceeding $1,000) for infringement offences:
   (c) prescribing the form of, and any additional particulars required in, infringement notices issued under section 74.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Relationship of this Part with Local Government Act 2002**
 
@@ -895,6 +899,7 @@ A territorial authority may retain the infringement fees received by it for any 
   (b) be satisfied that there has been adequate consultation with persons or organisations who may be significantly affected by the regulations; and
   (c) consider the costs and benefits expected from implementing the regulations.
 (3) Before recommending the making of regulations under subsection (1)﻿(b), the Minister must also consult the Government Statistician.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Audits**
 
