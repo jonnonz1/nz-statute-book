@@ -1,5 +1,5 @@
 # Christ Church Cathedral Reinstatement Act 2017
-_Consolidation as at 2017-12-21_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Christ Church Cathedral Reinstatement Act 2017.
@@ -30,7 +30,7 @@ This Act comes into force on the day after the date of Royal assent.
     (b) includes any adjacent land vested in Christchurch City Council as road; and
     (c) is shown by the different shaded areas inside the red dotted line on the map set out in Schedule 3, which is indicative only of the land described in paragraphs (a) and (b)
   - **CWG Report** means the Cathedral Working Group Recommendation Report dated November 2016, including its appendices
-  - **enactment** has the same meaning as in section 29 of the Interpretation Act 1999, and also includes any plan, programme, bylaw, or rule made under any Act or regulations
+  - **enactment** has the same meaning as in section 13 of the Legislation Act 2019, and also includes any plan, programme, bylaw, or rule made under any Act or regulations
   - **Minister** means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
   - **order** means an Order in Council made under section 8
   - **Panel** means the Christ Church Cathedral Reinstatement Review Panel established under section 13
@@ -68,6 +68,7 @@ This Act binds the Crown.
   (b) in relation to an enactment, includes to grant any statutory authorisation or other permission or right under that enactment:
   (c) in relation to a provision, includes to replace, disapply, or suspend the provision:
   (d) includes to limit or exclude the jurisdiction of a court under an enactment.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Key restrictions on orders**
 
@@ -192,12 +193,13 @@ Every order is revoked on the close of the period of 15 years beginning with the
   (c) the Minister is satisfied that there is unanimous or near unanimous support for the order from those leaders.
 (3) The draft order provided under subsection (2)﻿(b) must be accompanied by a draft of the Minister’s reasons for a recommendation under subsection (2) (including why the draft order is appropriate).
 (4) Where a draft of the order has been subject to the process under subsection (2)﻿(b) or (c), that paragraph applies to a subsequent draft of the order only if the Minister considers that, given the differences between the drafts, it would be appropriate to repeat the process.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 20 Order to add Acts revoked if not approved by House
 (1) An Order in Council under section 19 is revoked on the expiry of the relevant period (unless it is earlier revoked) if no motion to approve the order is agreed to by the House of Representatives within that period.
 (2) The relevant period is the longer of the following:
   (a) the period of 10 sitting days of the House of Representatives after the date on which the order is made:
-  (b) the period of 28 days after the date on which notice that the order has been made is given in the Gazette.
+  (b) the period of 28 days after the date on which the order is published under the Legislation Act 2019.
 (3) An order under section 8 that relates to an Act specified by an Order in Council under section 19 that is revoked under subsection (1) is also revoked at the same time.
 
 ### 21 Reasons for order must be published
@@ -206,8 +208,7 @@ If the Minister makes a recommendation under section 19, the Minister’s reason
 **Application of Legislation Act 2012**
 
 ### 22 Application of Legislation Act 2012
-(1) Despite section 17(2), an Order in Council made under this Act is a disallowable instrument for the purposes of the Legislation Act 2012.
-(2) An Order in Council made under this Act is also a legislative instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 **Time restriction on judicial review**
 
@@ -246,6 +247,6 @@ This Act is repealed on the close of the period of 15 years beginning with the d
 
 ### Part 1 — Provisions relating to this Act as enacted
 
-## Schedule 2 — Enactments referred to in section 7
+## Schedule 2 — Enactments referred to in section 8
 
 ## Schedule 3 — Indicative map of Cathedral area
