@@ -1,5 +1,5 @@
 # Ngāi Tahu Claims Settlement Act 1998
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act—ato record the apology given by the Crown to Ngāi Tahu in the deed of settlement executed on 21 November 1997 by the then Prime Minister the Right Honourable James Brendan Bolger, for the Crown, and Te Rūnanga o Ngāi Tahu; andbto give effect to certain provisions of that deed of settlement, being a deed that settles the Ngāi Tahu claims
 
@@ -65,6 +65,7 @@ Settlement of claim
 (2) This Act comes into force on the day on which an Order in Council is made by the Governor-General for that purpose on the recommendation of the Prime Minister.
 (3) The Prime Minister must not recommend the making of an Order in Council to bring this Act into force unless the Prime Minister has been advised by Te Rūnanga o Ngāi Tahu in writing that this Act is acceptable to Te Rūnanga o Ngāi Tahu.
 (4) Once the Prime Minister receives written advice from Te Rūnanga o Ngāi Tahu that this Act is acceptable to Te Rūnanga o Ngāi Tahu, within 20 business days of receiving that advice, the Prime Minister must recommend to the Governor-General in Executive Council that an Order in Council be made to bring this Act into force, and the Order in Council must be made.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Expiry
 If an Order in Council is not made under section 1(2) bringing this Act into force on or before the date which is 6 months after the day on which this Act receives the Royal assent, then this Act expires and is repealed at the close of that date.
@@ -133,7 +134,7 @@ In this Act, unless the context otherwise requires,—
   - **commencement date** , for the purposes of sections 334 to 337, has the meaning given to it in section 333
   - **commercial settlement property** has the meaning given to it in section 44
   - **committee** , for the purposes of Part 13, has the meaning given to it in section 328
-  - **concession** means a concession granted pursuant to either the Conservation Act 1987 or the National Parks Act 1989 or the Reserves Act 1977 or the Wildlife Act 1953
+  - **concession** means a concession granted pursuant to either the Conservation Act 1987 or the National Parks Act 1980 or the Reserves Act 1977 or the Wildlife Act 1953
   - **consent authority** has the meaning given to it in section 205
   - **conservation** has the same meaning as in section 2 of the Conservation Act 1987
   - **conservation area** has the same meaning as in section 2 of the Conservation Act 1987
@@ -356,6 +357,7 @@ In this Part,—
 (1) The Prime Minister must recommend to the Governor-General before the vesting date that an Order in Council be made pursuant to subsection (2).
 (2) The Governor-General, by Order in Council made on the recommendation of the Prime Minister, must vest the fee simple estate in Aoraki/Mount Cook in Te Rūnanga o Ngāi Tahu on the vesting date.
 (3) An Order in Council made pursuant to subsection (2) takes effect notwithstanding anything in the National Parks Act 1980, section 11 and Part 10 of the Resource Management Act 1991, or any other enactment.
+(4) The Prime Minister must ensure that an order under this section is published in the Gazette.
 
 ### 16 Gift of Aoraki/Mount Cook by Te Rūnanga o Ngāi Tahu
 (1) Te Rūnanga o Ngāi Tahu must deliver to the Prime Minister or the Prime Minister's nominee on the gift date the deed of gift, duly executed by Te Rūnanga o Ngāi Tahu.
@@ -1502,6 +1504,7 @@ Nothing in a joint management plan derogates from,—
   (e) prescribing offences in respect of the contravention or non-compliance with any bylaws made pursuant to paragraphs (a) and (d) and prescribing fines not to exceed $1,000:
   (f) providing for such matters as are contemplated by, or necessary for giving full effect to, any bylaws made pursuant to this provision, and their due administration.
 (4) For the avoidance of doubt, Te Rūnanga o Ngāi Tahu is an occupier of the bed of Te Waihora for the purposes of the Trespass Act 1980.
+(5) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Vesting of bed of Muriwai (Coopers Lagoon)**
 
@@ -1545,6 +1548,7 @@ All lawful rights of public access to, and of recreational use and enjoyment aff
   (c) the Minister of Conservation must consider any submissions received on the draft bylaws.
 (5) For the avoidance of doubt, Te Rūnanga o Ngāi Tahu is an occupier of the bed of Muriwai (Coopers Lagoon) for the purposes of the Trespass Act 1980.
 (6) If Te Rūnanga o Ngāi Tahu and the Crown agree pursuant to section 177(2)﻿(e) that the bed of Muriwai (Coopers Lagoon) is to be an area managed pursuant to a joint management plan, section 182 will apply to the bed of Muriwai (Coopers Lagoon), and this section will not apply for so long as it is so managed.
+(7) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 189 Existing lawful commercial use and structures
 All—existing on 21 November 1997, and described in Schedule 10, continue in effect for as long as, and to the extent that, such rights otherwise remain lawful.
@@ -1595,6 +1599,7 @@ All lawful rights of public access to, and of recreational use and enjoyment aff
   (b) submissions on the draft bylaws must be invited by publishing a notice to this effect in a daily newspaper or newspapers circulating in the area where the bed of Lake Mahināpua is situated and in such other manner (if any) as the Minister of Conservation and Te Rūnanga o Ngāi Tahu may consider appropriate; and
   (c) the Minister of Conservation must consider any submissions received on the draft bylaws.
 (5) For the avoidance of doubt, Te Rūnanga o Ngāi Tahu is an occupier of the bed of Lake Mahināpua for the purposes of the Trespass Act 1980.
+(6) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 197 Existing lawful commercial use and structures
 All—existing on 21 November 1997, and described in Schedule 10, continue in effect for as long as, and to the extent that, such rights otherwise remain lawful.
@@ -1682,6 +1687,7 @@ The Crown acknowledges the statements made by Te Rūnanga o Ngāi Tahu of the pa
   (a) providing for consent authorities to forward to Te Rūnanga o Ngāi Tahu a summary of any applications received for resource consents for activities within, adjacent to, or impacting directly on statutory areas; and
   (b) providing for Te Rūnanga o Ngāi Tahu to waive its rights to be notified pursuant to such regulations.
 (2) Nothing in any regulations made pursuant to this section will in any way affect the discretion of a consent authority as to whether or not to notify any application pursuant to sections 93 to 94C of the Resource Management Act 1991, and whether or not Te Rūnanga o Ngāi Tahu may be adversely affected under those sections.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 208 Local authorities must have regard to statutory acknowledgements
 From the effective date, and without derogating from its obligations under Part 2 of the Resource Management Act 1991, a consent authority must have regard to the statutory acknowledgement relating to a statutory area in forming an opinion in accordance with sections 93 to 94C of that Act as to whether Te Rūnanga o Ngāi Tahu is a person who may be adversely affected by the granting of a resource consent for activities within, adjacent to, or impacting directly on, the statutory area.
@@ -1844,16 +1850,18 @@ The New Zealand Conservation Authority or relevant conservation board must consu
 (7) The Director-General may, at his or her discretion, notify in the Gazette any action intended to be taken pursuant to this section.
 
 ### 245 Regulations
-The Governor-General may, on the recommendation of the Minister of Conservation, from time to time, by Order in Council, make regulations for the following purposes:
+(1) The Governor-General may, on the recommendation of the Minister of Conservation, from time to time, by Order in Council, make regulations for the following purposes:
   (a) providing for the implementation of objectives included in conservation management strategies, conservation management plans, and national park management plans pursuant to section 244(5):
   (b) regulating or prohibiting activities or conduct by members of the public in a Tōpuni:
   (c) creating offences in respect of the contravention of any regulations made pursuant to paragraph (b), and providing for the imposition of fines not exceeding $5,000 for those offences.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 246 Bylaws
-The Minister of Conservation may, upon the recommendation of Te Rūnanga o Ngāi Tahu, make bylaws for the following purposes:
+(1) The Minister of Conservation may, upon the recommendation of Te Rūnanga o Ngāi Tahu, make bylaws for the following purposes:
   (a) providing for the implementation of objectives included in conservation management strategies, conservation management plans, and national park management plans pursuant to section 244(5):
   (b) regulating or prohibiting activities or conduct by members of the public in a Tōpuni:
   (c) creating offences in respect of the contravention of any bylaws made pursuant to paragraph (b), and providing for the imposition of fines not exceeding $1,000 for those offences.
+(2) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 247 Existing classification of Tōpuni
 Notwithstanding the declaration of a Tōpuni by section 238 or the revocation of a Tōpuni pursuant to section 248, the purpose or classification of the area in which a Tōpuni is located as a national park, conservation area, or reserve is not overridden.
@@ -1861,6 +1869,7 @@ Notwithstanding the declaration of a Tōpuni by section 238 or the revocation of
 ### 248 Revocation of status
 (1) The Governor-General may, on the recommendation of the Minister of Conservation, by Order in Council declare that an area previously declared as Tōpuni is no longer a Tōpuni.
 (2) The Minister of Conservation must not make a recommendation for the purposes of subsection (1) unless Te Rūnanga o Ngāi Tahu and the Minister of Conservation have agreed in writing that Tōpuni status is no longer appropriate for the area concerned.
+(3) The Minister of Conservation must ensure that an order under this section is published in the Gazette.
 
 ### 249 Purpose of declaration as Tōpuni
 Without limiting sections 250 to 252, the declaration of Tōpuni by section 238 and the acknowledgement of the Ngāi Tahu values in respect of those areas in section 239 are for the following purposes only:
@@ -3967,7 +3976,7 @@ The Crown hereby creates and grants in favour of Te Rūnanga an entitlement to o
 (6.2) Limitation of rightsPursuant to section 268 of the Ngāi Tahu Claims Settlement Act 1998, except as expressly provided in this Entitlement, the existence of this Entitlement will not, of itself, have the effect of granting, creating or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, the entitlement land.
 
 ### 7 SPECIAL CONDITIONS
-[including special purpose specification] SIGNED for and on behalf of HER MAJESTY)THE QUEEN in right of New Zealand by [])Landholding Agent in the presence of:)WitnessSignatureOccupationAddressSIGNED for and on behalf of HER MAJESTY)THE QUEEN in right of New Zealand by [])Minister of Māori Affairs in the presence of:)WitnessSignatureOccupationAddressTHE SEAL of TE RŪNANGA O NGĀI TAHU)was affixed to this document in the presence of:)Te Rūnanga o Ngāi Tahu RepresentativeSecretary
+[including special purpose specification] SIGNED for and on behalf of HER MAJESTY)THE QUEEN in right of New Zealand by [])Landholding Agent in the presence of:)WitnessSignatureOccupationAddressSIGNED for and on behalf of HER MAJESTY)THE QUEEN in right of New Zealand by [])Minister of Māori Affairs in the presence of:)WitnessSignatureOccupationAddress THE SEAL of TE RŪNANGA O NGĀI TAHU)was affixed to this document in the presence of:)Te Rūnanga o Ngāi Tahu RepresentativeSecretary
 
 ## Schedule 95 — Sites over which Nohoanga Entitlements to be granted
 
@@ -4346,7 +4355,7 @@ If the Minister of Fisheries receives a notice as provided in clause 12.14.18(h)
 
 ## Schedule 104 — Statutory acknowledgement for Rakiura/Te Ara a Kiwa (Rakiura/Foveaux Strait Coastal Marine Area)
 
-## Schedule 105 — Clauses 12.17.3 and 12.17.4 of deed of settlementRight to purchase authorisations in respect of coastal tendering
+## Schedule 105 — Clauses 12.17.3 and 12.17.4 of deed of settlement Right to purchase authorisations in respect of coastal tendering
 
 ### 12.17.3 Exercise of right to purchase authorisations
 The Crown agrees that the Settlement Legislation will provide that the right to purchase Authorisations described in clause 12.17.2 shall be exercisable as follows:
