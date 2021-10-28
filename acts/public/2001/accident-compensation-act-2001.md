@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2021-03-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -606,7 +606,7 @@ Mental injury means a clinically significant behavioural, cognitive, or psycholo
   (b) the personal injury is suffered in the circumstances described in section 21; and
   (c) the person elects to have the personal injury regarded as a non-work injury, in which case that personal injury is a non-work injury.
 (7) It is irrelevant to the decision whether the person suffered a work-related personal injury that, when the event causing the injury occurred, he or she—
-  (a) may have been acting in contravention of any Act or regulations applicable to the employment, or in contravention of any instructions, or in the absence of instructions; or
+  (a) may have been acting in contravention of any legislation applicable to the employment, or in contravention of any instructions, or in the absence of instructions; or
   (b) may have been working under an illegal contract; or
   (c) may have been indulging in, or may have been the victim of, misconduct, skylarking, or negligence; or
   (d) may have been the victim of a force of nature.
@@ -802,15 +802,9 @@ In sections 40 and 45, Corporation includes—
   (a) prepare a report on the submissions, including any proposed amendments to the draft Code; and
   (b) forward the report to the Minister.
 
-### 44 Approval of draft Code by Minister
-(1) After considering the report and making any amendments (whether recommended or not) to the draft Code, the Minister must,—
-  (a) by notice in the Gazette, approve the Code; and
-  (b) present the Code to the House of Representatives within 12 sitting days after approving the Code; and
-  (c) arrange for the approval of the Code to be notified in daily newspapers published in Auckland, Hamilton, Wellington, Christchurch and Dunedin.
-(2) A notice given under subsection (1)﻿(c) must state where copies of the Code may be obtained.
-(3) The Code comes into force—
-  (a) on the date specified for that purpose in the Code, being a date after the date on which the Code is approved; or
-  (b) if no such date is specified, the day after the date on which the Code is approved.
+### 44 Approval of Code by Minister
+(1) After considering the report and making any amendments (whether recommended or not) to the draft Code, the Minister must approve the Code.
+(2) The Code is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 45 Corporation's obligations in respect of Code
 (1) The Corporation must, in all its dealings with claimants, ensure that its actions are consistent with and uphold the rights of claimants in the Code.
@@ -820,12 +814,12 @@ In sections 40 and 45, Corporation includes—
 (3) For the purposes of subsection (2), the Corporation must make the Code accessible, and promote awareness of the Code, in a variety of communications media and languages.
 
 ### 46 Application of Legislation Act 2012 to Code
-The Code is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### 47 Amendments to Code
-(1) The Code may be amended by the Minister approving, by notice in the Gazette, 1 or more amendments to the Code proposed by the Minister or the Corporation.
+(1) The Code may be amended by the Minister approving 1 or more amendments to the Code proposed by the Minister or the Corporation.
 (2) Sections 42(2) to (5), 43, and 44 apply, with all necessary modifications, in relation to an amendment to the Code as if the amendment were the preparation of a draft Code.
-(3) However, those provisions do not apply to an amendment if—
+(3) However, sections 42(2) to (5) and 43 do not apply to an amendment if—
   (a) the amendment is a minor or technical amendment; and
   (b) the Minister considers that compliance with those provisions is unnecessary.
 
@@ -2150,24 +2144,24 @@ Nothing in this Act requires a self-employed person to pay a Work Account levy o
   (b) the potential impact of the programme on the Work Account levies of non-participating levy payers.
 
 ### 174D Establishment of workplace incentive programmes
-(1) The Corporation may, by notice in the Gazette, establish a workplace incentive programme.
-(2) A notice in the Gazette under subsection (1) must set out the terms and conditions of the workplace incentive programme, including—
+(1) The Corporation may establish a workplace incentive programme.
+(2) A workplace incentive programme must set out the terms and conditions of the programme, including—
   (a) any criteria that must be met before an employer or a self-employed person may participate in the programme; and
   (b) the basis and conditions on which, and periods for which, Work Account levies may be adjusted for participants in the programme; and
   (c) the level or levels of levy adjustment that may apply to participants in the programme.
-(3) Without limiting subsection (2), a notice in the Gazette under subsection (1) may provide for audits or assessments of participants in the workplace incentive programme, including—
+(3) Without limiting subsection (2), a workplace incentive programme may provide for audits or assessments of participants in the programme, including—
   (a) the order in which applications for audits or assessments are to be dealt with:
   (b) the approval of auditors and assessors:
   (c) requirements that audits or assessments be conducted in accordance with an audit tool or audit tools developed or approved by the Corporation:
   (d) the frequency of audits or assessments and the circumstances under which additional audits or assessments may be required.
-(4) A notice in the Gazette under subsection (1), and an audit tool developed for the purposes of subsection (3)﻿(c), may incorporate by reference any material referred to in section 176, and that section and section 177 apply as if the notice were a regulation made for the purposes of section 175, the audit tool were an audit tool referred to in section 175(4), and the reference to the Minister in section 176(3) were a reference to the Corporation.
-(5) A notice in the Gazette under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) A workplace incentive programme, and an audit tool developed for the purposes of subsection (3)﻿(c), may incorporate by reference any material referred to in section 176, and that section and section 177 apply as if the programme were regulations made for the purposes of section 175, the audit tool were an audit tool referred to in section 175(4), and the reference to the Minister in section 176(3) were a reference to the Corporation.
+(5) A workplace incentive programme is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 174E Amendments to workplace incentive programme
 (1) A workplace incentive programme may be amended in the same manner as a workplace incentive programme is developed and established.
 (2) Sections 174B to 174D apply, with all necessary modifications, in relation to an amendment to a workplace incentive programme.
 (3) Despite subsection (2), sections 174B(2) and 174C(3) do not apply if the amendment is a minor or technical amendment.
-(4) A notice in the Gazette under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4)
 
 ### 174F Corporation must report on effectiveness of workplace incentive programmes
 The Corporation must include in its annual report under section 150 of the Crown Entities Act 2004 a report on the effectiveness of workplace incentive programmes in reducing the incidence and impact of work-related personal injuries.
@@ -2198,6 +2192,7 @@ The Corporation must include in its annual report under section 150 of the Crown
   (b) standard, requirement, recommended practice, rule, statute, or regulation, of any foreign Government or organisation.
 (2) Any material incorporated in regulations by reference is to be regarded for all purposes as forming part of the regulations, but any amendment made to the material after the commencement of the regulations does not have effect until regulations have been made incorporating the amendment into the regulations.
 (3) Any material incorporated in the audit tool by reference is to be regarded for all purposes as forming part of the audit tool, but any amendment made to the material after the commencement of the audit tool does not have effect until the amendment has been approved for incorporation in the audit tool by the Minister.
+(4) Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in regulations merely because it is incorporated.
 
 ### 177 Copy of audit tool and material incorporated by reference to be available to public
 A copy of every audit tool approved by the Minister and of all material incorporated in regulations or the audit tool by reference must be made available by the Corporation for inspection by the public free of charge.
@@ -2253,10 +2248,10 @@ The objectives of sections 181 to 189 are to—by allowing accredited employers 
   (c) provide benchmarks against which the extent and management of work-related personal injuries can be measured—
 
 ### 183 Framework to be established
-(1) The Minister must, by notice in the Gazette, establish a framework under which the Corporation and an employer may agree that for an agreed period the employer will provide entitlements in relation to work-related personal injuries suffered by the employer's employees in that employer's employment.
+(1) The Minister must establish a framework under which the Corporation and an employer may agree that for an agreed period the employer will provide entitlements in relation to work-related personal injuries suffered by the employer's employees in that employer's employment.
 (2) The framework must not contain any provision that is inconsistent with any provision of sections 181 to 189.
-(3) The Minister may, by notice in the Gazette, change or replace the framework, after such consultation as the Minister considers appropriate has been undertaken.
-(4) A notice in the Gazette under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) The Minister may change or replace the framework, after such consultation as the Minister considers appropriate has been undertaken.
+(4) A framework is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5) Any framework established under Part 10A of the Accident Insurance Act 1998 that is in force immediately before the commencement of this section is a framework under this section.
 
 ### 184 Accreditation agreements
@@ -3560,9 +3555,10 @@ A person who commits an offence against this Act or any regulations made under i
   (g)
 (2) The Governor-General may, on the recommendation of the Minister and the Minister of Health, by Order in Council, make regulations defining public health acute services for the purposes of this Act.
 (3) The Minister may not make any recommendation under subsection (1) or subsection (2) without first consulting the persons or organisations the Minister considers appropriate, having regard to the subject matter of the proposed regulations.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 322A Definition of health practitioner may be limited
-(1) The Minister may, from time to time, by notice in the Gazette, declare that a person is not a health practitioner of a particular health profession for any purposes of this Act that are specified in the notice if—
+(1) The Minister may, from time to time, by notice, declare that a person is not a health practitioner of a particular health profession for any purposes of this Act that are specified in the notice if—
   (a) the person is a member of a class described in the notice; and
   (b) the person's registration or deemed registration as a practitioner of that health profession under the Health Practitioners Competence Assurance Act 2003 is related to the person's membership of that class.
 (2) For the purposes of subsection (1), a class of persons may be described in any way the Minister thinks fit, including, without limitation, in any 1 or more of the following ways:
@@ -3570,14 +3566,15 @@ A person who commits an offence against this Act or any regulations made under i
   (b) by reference to the qualifications of the persons:
   (c) by reference to the fact that the persons are not permitted to perform services of a stated kind under their scopes of practice:
   (d) by reference to the fact that the persons lack qualifications of a stated kind.
-(3) The Minister may not give a notice in the Gazette under this section without first consulting any persons or organisations that the Minister considers appropriate, having regard to the subject matter of the proposed notice.
-(4) A notice in the Gazette under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) The Minister may not give a notice under this section without first consulting any persons or organisations that the Minister considers appropriate, having regard to the subject matter of the proposed notice.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 323 Regulations relating to claims for noise-induced hearing loss caused by work-related gradual process
 (1) For the purposes of Part 3, the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations—
   (a) prescribing the conditions under which the Corporation is to apply the pure tone audiometry test or any other appropriate test, under section 61, to assess the percentage of binaural hearing loss that is a personal injury caused by noise exposure within a person's employment:
   (b) prescribing any other matters relating to the tests.
 (2) The Minister must not make any recommendation under subsection (1) without first consulting the persons or organisations the Minister considers appropriate, having regard to the subject matter of the proposed regulations.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 324 Regulations relating to rehabilitation
 (1) For the purposes of Part 4 and Schedule 1, the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations—
@@ -3610,9 +3607,12 @@ A person who commits an offence against this Act or any regulations made under i
   (c) payments to persons not resident in New Zealand at the time of receiving the payments.
 (5) The Minister, in consultation with the Minister of Finance and the Minister of Health, may approve for a specified period no longer than 6 months any item that is recommended by the Corporation for inclusion in regulations under this section as if it were prescribed by regulations made under subsection (1).
 (6) An approval under subsection (5)—
-  (a) must be given by notice in the Gazette; and
+  (a) must be given by notice; and
   (b) has effect as if it were prescribed by regulations made under subsection (1); and
   (c) lapses on the expiration of the period for which the approval is given.
+(7) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under subsection (1):
+  (b) a notice under subsection (5).
 
 ### 324A Biennial review of certain amounts
 (1) The Corporation must conduct a review in 2020, and in every second year after that, of the amounts prescribed by regulations made under section 324 that the Corporation is liable to pay for the entitlement of rehabilitation.
@@ -3646,6 +3646,7 @@ A person who commits an offence against this Act or any regulations made under i
     (vi) the responsibilities of the person in relation to their own rehabilitation:
     (vii) the geographic location in which the person lives:
   (c) provide that the Corporation is to make payments only if specified service thresholds have been exceeded.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 326 Regulations relating to lump sum compensation
 (1) For the purposes of Part 3 of Schedule 1, the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations specifying when a claimant's condition is to be regarded as stabilised for the purposes of clause 57 of Schedule 1.
@@ -3662,6 +3663,8 @@ A person who commits an offence against this Act or any regulations made under i
 (3) The Minister must not make any recommendation under subsection (1) or subsection (2) without first consulting the persons or organisations that the Minister considers appropriate, having regard to the subject matter of the proposed regulations.
 (4) Any material referred to or incorporated by reference in regulations under this section forms part of the regulations for all purposes. However, any amendment made to the material after the commencement of the regulations does not have effect until regulations have been made incorporating the amendment into the regulations.
 (5) The Corporation must allow a claimant to inspect any material referred to or incorporated by reference in regulations under this section. The inspection must be free of charge and take place at one of the Corporation's offices.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7) Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference under subsection (2)﻿(a), (b), or (c) merely because it is incorporated.
 
 ### 326A Regulations relating to interest on late payments of weekly compensation
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
@@ -3671,17 +3674,19 @@ A person who commits an offence against this Act or any regulations made under i
   (a) simple, accessible, and predictable law:
   (b) realistic and fair compensation for claimants:
   (c) encouraging the Corporation to calculate and pay claims for weekly compensation as soon as practicable.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 327 Regulations relating to indexation
-For the purposes of this Act, the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations—
+(1) For the purposes of this Act, the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations—
   (a) prescribing the formula or formulas for indexation under section 115:
   (b) prescribing the formula or formulas for indexation under section 116:
   (c) prescribing the effective date or dates for the purposes of sections 115 and 116:
   (d) prescribing the formula or formulas for indexation of the independence allowance under this Act or a former Act that is payable under this Act.
   (e)
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 328 Regulations relating to reviews and appeals
-For the purposes of Part 5, the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations—
+(1) For the purposes of Part 5, the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations—
   (a) prescribing rules for the conduct of reviews:
   (b) prescribing rules for the lodging of notices in the District Court relating to appeals:
   (c) prescribing the form of a notice of appeal:
@@ -3689,6 +3694,7 @@ For the purposes of Part 5, the Governor-General may, on the recommendation of t
   (d) defining specified registry for the purposes of sending or filing notices of appeal:
   (e) prescribing rules for the conduct of appeals:
   (f) prescribing a scale of costs for the purposes of section 148.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 328A Regulations relating to alternative dispute resolution
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing for 1 or more of the following purposes:
@@ -3696,6 +3702,7 @@ For the purposes of Part 5, the Governor-General may, on the recommendation of t
   (b) requiring the Corporation to pay costs to claimants at the appropriate rate or scale specified in the regulations, which costs may apply whether or not regulations are for the time being in force under paragraph (a):
   (c) prescribing the time frames for the lodging of review applications about matters under Part 5 that undergo an alternative dispute resolution procedure, which time frames may be longer (but not less) than those set out in section 135(2).
 (2) In the absence of regulations for the time being in force under subsection (1)﻿(a), the use of alternative dispute resolution and the manner in which it is to be conducted is a matter for agreement between the Corporation and the claimant.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 329 Regulations relating to levies
 (1) For the purposes of Part 6, the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations—
@@ -3734,6 +3741,7 @@ For the purposes of Part 5, the Governor-General may, on the recommendation of t
 (2) Regulations made under subsection (1)﻿(ca) may—
   (a) specify the types of claims to which the system or systems of experience rating or of risk sharing referred to in section 169(2) apply; and
   (b) make different provision for different classes of levy payers or in respect of different industries or levies.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 330 Consultation requirements for regulations relating to classifications, risk rating, or treatment injury
 The Minister may not make any recommendation in respect of regulations made under section 329(f) or (g) or (l)﻿(i) or (ma), or in relation to the Treatment Injury Account, without first consulting such persons or organisations as the Minister considers appropriate having regard to the subject matter of the proposed regulations.
@@ -3763,7 +3771,7 @@ The Minister may not make any recommendation in respect of regulations made unde
     (i) the long-term projections for the relevant Account of solvency rates, levy rates, Account balances, and the lifetime costs of claims in relation to injuries that occur in the year for which the levies apply; and
     (ii) the key assumptions on which the projections are based, including the assumptions made about claims numbers, trends in underlying costs, growth of the units to which levy rates apply (for example, numbers of vehicles), investment returns, and assumptions about economic conditions and rehabilitation performance; and
   (b) be prepared in accordance with generally accepted practice within the insurance sector in New Zealand; and
-  (c) be published at the time the regulations prescribing the rates of levies are made in the Gazette and on an Internet site maintained by or on behalf of the Corporation.
+  (c) be published at the time the regulations prescribing the rates of levies are published under the Legislation Act 2019.
 (6) The consultation procedure contained in subsection (2) constitutes a code that sets out all the obligations of the Corporation in relation to consultation over the process of recommending to the Minister that regulations be made.
 
 ### 332 Regulations relating to information
@@ -3771,6 +3779,7 @@ The Minister may not make any recommendation in respect of regulations made unde
   (a) prescribing information that is required to be provided and collected for any purposes set out in section 279(2):
   (b) requiring the prescribed information to be provided and collected in the prescribed manner and by the prescribed due date (if any).
 (2) The Minister must not make any recommendation under subsection (1) without first consulting the persons or organisations the Minister considers appropriate, having regard to the subject matter of the proposed regulations.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 333 General power to make regulations
 (1) The Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations—
@@ -3784,16 +3793,18 @@ The Minister may not make any recommendation in respect of regulations made unde
   (c) prescribing the rates of interest payable under this Act:
   (d) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (2) For the purposes of the consultation requirements of this Part, the Minister may take into account any relevant consultation undertaken before the commencement of this section.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 334 Regulations may confer discretion
 No regulation is invalid on the ground that it delegates to, or confers on, any person or body any discretionary authority.
 
 ### 335 Regulations may prescribe offences and fines
-The Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations—
+(1) The Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations—
   (a) prescribing offences in respect of the breach of, or non-compliance with,—
     (i) any regulations made under this Act; or
     (ii) any requirement or direction made or given under any such regulations; and
   (b) prescribing fines not exceeding $500 in respect of any offences prescribed under this section.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 336 Amendment of Schedule 2 by Order in Council
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend Schedule 2 by—
@@ -3802,6 +3813,7 @@ The Governor-General may, on the recommendation of the Minister, by Order in Cou
     (ii) occupations, industries, or processes; or
   (b) updating the schedule in order that the schedule may conform with the terminology or recommended practices of any international organisation.
 (2) The Minister must not make any recommendation under subsection (1) without first consulting the persons or organisations the Minister considers appropriate, having regard to the subject matter of the proposed order.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Repeal of and amendments to provisions relating to residual levies**
 
@@ -3816,7 +3828,7 @@ The Governor-General may, on the recommendation of the Minister, by Order in Cou
   (d) repeal section 329(1)﻿(m)﻿(i).
 (3) On the effective date, replace section 170(1) with:
   (1) For the purpose of setting levies payable under sections 168, 168B, and 211, the Corporation must classify an employer and a self-employed person in an industry or risk class that most accurately describes their activity, being an industry or risk class set out in regulations made under this Act.
-(4) A notice under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) A notice under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 336B Repeal of and amendments to provisions relating to residual levies for Motor Vehicle Account
 (1) In this section, effective date means the earlier of—
@@ -3826,7 +3838,7 @@ The Governor-General may, on the recommendation of the Minister, by Order in Cou
   (a) in section 213(7)﻿(b), delete and the purpose specified in section 215(1)﻿(a):
   (b) repeal section 215:
   (c) repeal section 329(1)﻿(m)﻿(ii).
-(3) A notice under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) A notice under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 336C Repeal of and amendments to provisions relating to residual levies for Earners’ Account
 (1) In this section, effective date means the earlier of—
@@ -3836,7 +3848,7 @@ The Governor-General may, on the recommendation of the Minister, by Order in Cou
   (a) in section 218(5)﻿(b), delete and the purpose specified in section 220A(1)﻿(a):
   (b) repeal section 220A:
   (c) repeal section 329(1)﻿(m)﻿(iii).
-(3) A notice under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) A notice under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Consequential amendments, repeals, and revocations**
 
@@ -3937,6 +3949,7 @@ The purpose of this Part is to ensure that, despite the repeal of the 1998 Act a
   (b) specified provisions of the 1998 Act continue to apply, with any specified amendments, during a specified transitional period:
   (c) specified provisions of any regulations, Orders in Council, or notices made or given under the 1998 Act continue to apply, with any specified amendments, during a specified transitional period.
 (4) No regulations may be made under subsection (1)﻿(f) after 31 March 2005.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 11 — Transitional provisions relating to entitlements provided by Corporation (but not under Part 10)
 
@@ -4173,12 +4186,14 @@ Section 439 of the Accident Insurance Act 1998 continues to apply in respect of 
 ### 378 Personal injury suffered on or after 1 July 1999 and before 1 April 2002
 (1) The provisions of Part 4 of Schedule 1 of the Accident Insurance Act 1998 continue to apply to personal injury suffered on or after 1 July 1999 and before 1 April 2002, irrespective of when the claim for cover in respect of that personal injury was or is lodged.
 (2) The amounts referred to in clause 62(1) of Schedule 1 of the Accident Insurance Act 1998, as adjusted under section 103 of that Act, must be adjusted in accordance with section 388.
-(3) Despite section 339, for the purposes of this section, section 403 of the Accident Insurance Act 1998 continues to apply as if subsection (2) were repealed, and the following subsection were substituted:
+(3) Despite section 339, for the purposes of this section, section 403 of the Accident Insurance Act 1998 continues to apply as if subsection (2) were repealed, and the following subsections were substituted:
   (2) The Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations for the purposes of clauses 60 and 61 of Schedule 1 that—
     (a) refer to, or incorporate by reference, in whole or in part, the American Medical Association Guides to the Evaluation of Permanent Impairment:
     (b) refer to, or incorporate by reference, guides, frameworks, or other standards:
     (c) prescribe an assessment tool that in itself may refer to, or incorporate by reference, in whole or in part, anything referred to in paragraph (a) or paragraph (b):
     (d) do any of a combination of things referred to in paragraph (a) or paragraph (b) or paragraph (c).
+  (2A) Regulations under subsection (2) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  (2B) Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference under subsection (2)﻿(a), (b), or (c) merely because it is incorporated.
 
 ### 379 Payment of independence allowance to claimant outside New Zealand
 (1) The Corporation must not pay an independence allowance to a claimant outside New Zealand unless his or her condition has been assessed for the purposes of the Accident Rehabilitation and Compensation Insurance Act 1992 or the Accident Insurance Act 1998 by a person approved for the purpose by the Corporation.
