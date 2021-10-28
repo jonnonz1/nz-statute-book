@@ -1,5 +1,5 @@
 # Sharemilking Agreements Act 1937
-_Consolidation as at 2018-01-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision for safeguarding the interests of sharemilkers under sharemilking agreements
 
@@ -25,10 +25,12 @@ This Act may be cited as the Sharemilking Agreements Act 1937.
 (2) The authority conferred by this section to alter the said terms and conditions shall include authority to add any new terms and conditions, or to vary or revoke any of the specified terms and conditions.
 (3) Any Order in Council under this section may be at any time in like manner varied or revoked.
 (4) Every Order in Council under this section shall operate as from a date to be specified therein in that behalf, being not earlier than a date agreed to by the organisations concerned or recommended by the Arbitration Court (which may be before or after the date of the Order in Council).
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5 Other classes of sharemilking agreements may be brought within scope of this Act
 (1) If at any time the Governor-General is satisfied with respect to any class of sharemilking agreements, other than the class of agreements to which section 3 applies, that standard terms and conditions have been agreed to by representative organisations of employers and sharemilkers or recommended by the Arbitration Court, he may by Order in Council apply the foregoing provisions of this Act to agreements of that class.
 (2) In the application of the foregoing provisions of this Act to agreements of any such class, references therein to the terms and conditions set out in the Schedule shall be read as references to the standard terms and conditions agreed to or recommended as aforesaid with respect to agreements of that class.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 6 Inspector may take proceedings on behalf of sharemilker
 Without limiting any other remedies that a sharemilker may have against his employer, any Inspector, acting in the name and on behalf of a sharemilker, may take proceedings for the enforcement of the rights of the sharemilker under any sharemilking agreement.
