@@ -1,5 +1,5 @@
 # Industrial and Provident Societies Act 1908
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate certain enactments of the General Assembly relating to industrial and provident societies
 
@@ -43,8 +43,9 @@ For the purposes of this Act there shall from time to time be appointed under th
 
 ### 4 Societies which may be registered
 (1) A society which may be registered under this Act (in this Act called an industrial and provident society) is a society for carrying on any industry, business, or trade, whether wholesale or retail, specified in or authorised by its rules, including dealings of any description with land, but excepting the business of banking.
-(2) However, no member (other than a registered society) may have or claim any interest in the shares of the society exceeding $4,000 or such higher amount as may be specified, in respect of any particular society, by notice in the Gazette given by the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act.
+(2) However, no member (other than a registered society) may have or claim any interest in the shares of the society exceeding $4,000 or such higher amount as may be specified, in respect of any particular society, by notice given by the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act.
 (3) This section is subject to section 33 of the Statutes Amendment Act 1939 (which limits the registration of societies, and is deemed to be part of this Act).
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5 Registry of societies
 With respect to the registry of societies the following provisions shall have effect:
@@ -215,7 +216,7 @@ Registered societies shall be entitled to the following privileges:
   (n) all contracts which may be or have been made, varied, or discharged according to the provisions herein contained shall, so far as concerns the form thereof, be effectual in law and binding on the society and all other parties thereto, their executors or administrators, as the case may be.
 
 ### 10 Property and funds of societies
-With respect to the property and funds of registered societies the following provisions shall have effect:
+(1) With respect to the property and funds of registered societies the following provisions shall have effect:
   (a) a society may (if its rules do not direct otherwise) invest the funds of the society or any part thereof, to any amount, in any of the following ways:
     (i) in the purchase or lease, in its own name, of any land or buildings, and may hold, sell, exchange, mortgage, lease, or build upon the same (with power to alter and pull down buildings and again rebuild); and no purchaser, assignee, mortgagee, or tenant shall be bound to inquire as to the authority for any sale, exchange, mortgage, or lease by the society, and the receipt of the society shall be a discharge for all money arising from or in connection with such sale, exchange, mortgage, or lease:
     (ii) in the Post Office Savings Bank, any trading bank within the meaning of the Reserve Bank of New Zealand Act 1964, any trustee savings bank established under the Trustee Savings Banks Act 1948, or any private savings bank within the meaning of the Private Savings Banks Act 1964, or in such other bank as the Governor-General may from time to time approve in that behalf by Order in Council:
@@ -229,6 +230,7 @@ With respect to the property and funds of registered societies the following pro
   (g) a receipt under the hands of 3 members of the committee, countersigned by the secretary, in the form numbered (2) in Schedule 3, or in any form specified by the rules of the society or any schedule thereto, for all money secured to the society by any mortgage or other assurance shall vacate the same, and vest the property therein comprised in the persons entitled to the equity of redemption of the same without reconveyance or resurrender:
   (h) every society shall from time to time forward to the Registrar-General of Land a return setting forth the names of every member of the committee and of the secretary; and also notice in writing of the death, resignation, or removal of existing, and the appointment of new, members and secretary respectively; also a copy of the rules and of every amendment thereof. Every such return and notice shall be accompanied by a statutory declaration made by the secretary or a member of the committee stating that the declarant is the secretary or a member of the committee and verifying the statement contained in such return or notice. When any instrument is presented for registration affecting the land included in any mortgage or encumbrance registered under the Land Transfer Act 2017, and purports to be signed by 4 persons, 3 of whom appear to the Registrar-General of Land to be members of the committee and the other the secretary of the society at the time of the execution of such instrument, he shall register the same, and no person claiming under any such instrument shall be affected by notice, direct or constructive, that the persons signing the same were not such members or secretary respectively, nor that such instrument was executed in contravention of the rules of the society or the terms of the mortgage or encumbrance, and no claim on the assurance fund shall arise from the fact that such persons were not members of the committee or secretary respectively:
   (i)
+(2) An order under subsection (1)﻿(a)﻿(ii) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 10AA Offences in relation to property of societies
 (1) A person commits an offence and is liable on conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $100 who—
@@ -401,12 +403,14 @@ Where a society is registered as a company, or amalgamates with, or transfers al
 ### 20 Fees
 (1) The Governor-General may from time to time determine a scale of fees to be paid for matters to be transacted or for the inspection of documents under this Act; but no fee shall be payable on the registry of any society or of any amendment of the rules of the same.
 (2) All fees received by any Registrar under or by virtue of this Act shall be paid into the Public Account and shall form part of the Consolidated Account.
+(3) An instrument prescribing a scale of fees under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 21 Payment of salaries and expenses
 [Repealed]
 
 ### 22 Regulations to be made for carrying out this Act
 (1) The Governor-General may from time to time make regulations respecting registry and procedure under this Act, and the seal and forms to be used for such registry, and the duties and functions of the Registrar, and the inspection of documents kept by the Registrar under this Act, and generally for carrying this Act into effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (2)
 
 ### 23 Evidence of documents
