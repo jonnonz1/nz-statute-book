@@ -1,5 +1,5 @@
 # Electricity Act 1992
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -660,6 +660,7 @@ All works, electrical installations, and electrical appliances shall be of such 
 (3) The Governor-General may, by Order in Council, make regulations for either or both of the following purposes:
   (a) increasing the rated electricity generating capacity that applies under subsection (2)﻿(a):
   (b) increasing the capacity that applies under subsection (2)﻿(b).
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 62 Continuance of supply
 [Repealed]
@@ -776,14 +777,14 @@ All works, electrical installations, and electrical appliances shall be of such 
 **Exemptions**
 
 ### 75 Board may exempt person or class of persons from section 74
-(1) The Board may, if it thinks fit, by notice in the Gazette, exempt any person or class of persons from compliance with section 74 generally or in relation to a particular type of prescribed electrical work.
+(1) The Board may, if it thinks fit, exempt any person or class of persons from compliance with section 74 generally or in relation to a particular type of prescribed electrical work.
 (2) The Board may grant the exemption subject to any terms and conditions that it thinks fit.
 (3) A person may do any prescribed electrical work, or assist in doing any prescribed electrical work, under an exemption granted under subsection (1) if—
   (a) the work is within the limits specified in the exemption; and
   (b) the exemption applies to the person; and
   (c) the work is done in accordance with the terms and conditions of the exemption; and
   (d) the work is carried out in a competent and safe manner.
-(4) A notice published under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) An exemption under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 76 Exemption for work done under supervision
 A person (the supervised person) may do any prescribed electrical work, or assist in doing any prescribed electrical work, if—
@@ -878,7 +879,7 @@ A person (the supervised person) may do any prescribed electrical work, or assis
 **Classes of registration**
 
 ### 84 Classes of registration may be designated by Board
-(1) The Board may, by notice in the Gazette,—
+(1) The Board may, by notice,—
   (a) designate classes of registration for the purposes of registration under this subpart; and
   (b) specify for each of those classes the prescribed electrical work that a person is authorised to do, or assist in doing, by virtue of being a registered person of a particular class and holding a current practising licence.
 (2) The notice may describe the classes of registration in any way the Board thinks fit, including in 1 or more of the following ways:
@@ -886,9 +887,11 @@ A person (the supervised person) may do any prescribed electrical work, or assis
   (b) by reference to an area of science or learning:
   (c) by reference to tasks commonly performed.
 (3) In specifying the work that may be carried out by registered persons who hold current practising licences, the Board may impose limitations on the circumstances in which a registered person may do, or assist in doing, that work.
+(4) The Board may not make a notice under this section unless the Minister approves the proposed notice under section 89.
+(5) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 85 Board may prescribe other registration and licensing matters
-(1) The Board may, by notice in the Gazette,—
+(1) The Board may, by notice,—
   (a) prescribe for each class of registration the minimum standards for registration (including standards relating to required competence, qualifications, and experience) that persons must meet in order to be registered as registered persons and to be issued with practising licences; and
   (b) prescribe for each class of registration the terms and conditions subject to which persons are registered as registered persons; and
   (c) prescribe for each class of registration the terms and conditions subject to which practising licences are issued; and
@@ -905,6 +908,8 @@ A person (the supervised person) may do any prescribed electrical work, or assis
   (d) a condition that imposes limitations on the circumstances in which the person may do, or assist in doing, work:
   (e) a condition that imposes limits on the work that the person may do, or assist in doing, under the practising licence.
 (3) The Board may make arrangements with the appropriate authorities controlling the registration, licensing, or recognition of electrical workers outside New Zealand for the reciprocal recognition of registration, licences, certificates, or other evidence of proficiency in electrical work.
+(4) The Board may not make a notice under this section unless the Minister approves the proposed notice under section 89.
+(5) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 86 Minimum standards for registration
 (1) A notice under section 85 may prescribe minimum standards for registration in any way the Board thinks fit, including in 1 or more of the following ways:
@@ -926,16 +931,16 @@ In prescribing matters under section 84 or 85, the Board must be guided by the f
   (b) the matters may not unnecessarily restrict the registration or licensing of persons as electrical workers; and
   (c) the matters may not impose undue costs on electrical workers or on the public.
 
-### 88 Board must consult before publishing notices
-(1) Before the Board publishes a notice under section 84 or 85(1)﻿(a) to (e), the Board must have consulted about its proposal for the contents of the notice—
+### 88 Board must consult before making notices
+(1) Before the Board makes a notice under section 84 or 85(1)﻿(a) to (e), the Board must have consulted about its proposal for the contents of the notice—
   (a) with persons who the Board considers are able to represent the views of electrical workers, or of classes of electrical workers, registered under this Act; and
   (b) with organisations—
     (i) that the Board considers will be substantially affected by the proposal; or
     (ii) whose members the Board considers will be substantially affected by the proposal.
-(2) A failure to comply with subsection (1) does not affect the validity of any notice published under section 84 or 85(1)﻿(a) to (e).
+(2) A failure to comply with subsection (1) does not affect the validity of any notice made under section 84 or 85(1)﻿(a) to (e).
 
-### 89 Notices published under sections 84 and 85 must be approved by Minister
-(1) The Board must, before publishing a notice under section 84 or 85, submit the proposed notice for the approval of the Minister.
+### 89 Notices made under sections 84 and 85 must be approved by Minister
+(1) The Board must, before making a notice under section 84 or 85, submit the proposed notice for the approval of the Minister.
 (2) The Minister must, as soon as practicable after receiving a proposed notice under subsection (1), by written notice to the Board,—
   (a) approve it; or
   (b) decline to approve it.
@@ -943,15 +948,10 @@ In prescribing matters under section 84 or 85, the Board must be guided by the f
   (a) the Minister must indicate the grounds on which he or she declines to approve it; and
   (b) the Minister may direct the Board to prepare and submit a revised proposed notice; and
   (c) the Board must, as soon as practicable after receiving a direction under paragraph (b), submit a revised proposed notice under subsection (1).
-(4) A proposed notice may be published under section 84 or 85 after it is approved by the Minister.
+(4)
 
 ### 90 Other provisions relating to notices under sections 84 and 85
-(1) The Board must ensure that an up-to-date version of each notice that the Board has published under section 84 or 85 is—
-  (a) available at all reasonable times on an Internet website maintained by or on behalf of the Board; and
-  (b) available at the office of the Board during business hours, so that members of the public may—
-    (i) inspect the notice free of charge; or
-    (ii) obtain a copy of the notice for a reasonable fee.
-(2) Each notice published under section 84 or 85 is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 **How to become registered**
 
@@ -1114,11 +1114,11 @@ A registered person is entitled to be issued with a practising licence under thi
   (a) by written notice to a person, exempt the person from compliance with—
     (i) the minimum standards for registration that the person must meet in order to be registered as a registered person or issued with a practising licence or to obtain a renewal of a practising licence; and
     (ii) any terms and conditions imposed by notices published under section 85 that must be complied with by the person; and
-  (b) by notice in the Gazette, exempt any class of persons from compliance with—
+  (b) by notice, exempt any class of persons from compliance with—
     (i) the minimum standards for registration that those persons must meet in order to be registered as registered persons or issued with practising licences or to obtain renewals of practising licences; and
     (ii) the terms and conditions imposed by notices published under section 85 that must be complied with by those persons.
 (2) The Board may grant an exemption subject to any terms and conditions that it thinks fit.
-(3) Each notice published in the Gazette under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) A notice under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Competence**
 
@@ -1893,7 +1893,7 @@ In carrying out their functions and duties under this Act, the Board and every i
 (2) The Board's power to impose any terms or conditions includes the power to—
   (a) amend or revoke those terms or conditions:
   (b) revoke those terms or conditions and replace them with other terms or conditions.
-(3) This section does not limit section 15 of the Interpretation Act 1999.
+(3) This section does not limit section 48 of the Legislation Act 2019.
 
 ### 156B Notice and service of documents by Board, member, Registrar, or investigator
 (1) If a provision of this Act requires or authorises any notice or other document, or any notification, to be given to, or served on, a person by the Board, a member of the Board, the Registrar, or an investigator, that notice, document, or notification must be given in writing to the person—
@@ -2103,7 +2103,9 @@ WorkSafe and the Registrar must pay all infringement fees received into a Crown 
     (a) authorising, controlling, and prescribing conditions in respect of the design, construction, installation, maintenance, use, management, inspection, and testing of works, electrical installations, or associated equipment:
     (b) authorising, controlling, and prescribing conditions in respect of the design, installation, manufacture, maintenance, use, inspection, importation, exportation from New Zealand pursuant to the Conformity Cooperation Agreement, sale, and testing of fittings and electrical appliances used or intended to be used in the application of electricity (including fittings and electrical appliances intended to be used in China after their exportation from New Zealand pursuant to the Conformity Cooperation Agreement):
     (c) prohibiting, or providing for the prohibition of, the manufacture, importation, exportation from New Zealand pursuant to the Conformity Cooperation Agreement, sale, and use of such fittings and electrical appliances as do not satisfy any prescribed tests, standards, or safety criteria (including fittings and electrical appliances intended to be used in China after their exportation from New Zealand pursuant to the Conformity Cooperation Agreement):
-    (d) requiring such types or categories of fittings and electrical appliances as are specified in the regulations, or as are from time to time declared by WorkSafe by public notice to be subject to the regulations, to be approved by WorkSafe before being offered for sale in New Zealand; providing for the giving of such approval, for the specifying by WorkSafe of conditions subject to which such approval may be given, for the variation or withdrawal of any such approval, and for the revocation, variation, or addition of any condition of any such approval; and prescribing circumstances in which types or categories of fittings and electrical appliances are deemed to be approved by WorkSafe for the purposes of the regulations:
+    (d) requiring such types or categories of fittings and electrical appliances as are—to be approved by WorkSafe before being offered for sale in New Zealand, and providing for the giving of such approval, for the specifying by WorkSafe of conditions subject to which such approval may be given, for the variation or withdrawal of any such approval, and for the revocation, variation, or addition of any condition of any such approval, and prescribing circumstances in which types or categories of fittings and electrical appliances are deemed to be approved by WorkSafe for the purposes of the regulations:
+      (i) specified in the regulations; or
+      (ii) from time to time declared by WorkSafe to be subject to the regulations (see subsection (8))—
     (e) authorising, controlling, and prescribing conditions in respect of the design, manufacture, maintenance, use, inspection, and testing of electric fishing devices, including (without limitation)—
       (i) providing for the issue of certificates of competency to persons who wish to operate electric fishing devices; prescribing the persons or class or classes of persons who may issue such certificates or providing for the designation of such certifying authorities; providing for the specifying of conditions subject to which such certificates may be issued, and for the revocation, variation, and addition of any such condition; and providing for the suspension or cancellation of any such certificate:
       (ii) providing for the approval of electric fishing devices; prescribing the persons or class or classes of persons who may approve such devices or providing for the designation of such approving authorities; and providing for the specifying of conditions subject to which such approval may be given, for the variation or withdrawal of any such approval, and for the revocation, variation, and addition of any condition of any such approval:
@@ -2186,11 +2188,23 @@ WorkSafe and the Registrar must pay all infringement fees received into a Crown 
 (2A) Regulations may require compliance with an official standard (or a specified part of an official standard) that relates to the subject matter of the regulations by referring to it in the regulations (with any additions or variations that may be specified in the regulations).
 (2B) That official standard (or the specified part), as it existed on the date of the inclusion (but with any specified additions or variations), is then deemed to form part of the regulations.
 (2C) In subsections (2), (2A), and (2B), official standard may be treated as including, for the purposes of subsections (1)﻿(2)﻿(b) and (c), (7A), and (8)﻿(aa) and (c), the Conformity Cooperation Agreement (including any amendments made to that agreement in accordance with it) and any standards or rules referred to in the Conformity Cooperation Agreement.
-(3) Without limiting the Interpretation Act 1999, no regulation made under this section shall be invalid because it leaves any matter to the discretion of WorkSafe, the Secretary, or any other person, or because it authorises WorkSafe, the Secretary, or any other person—
+(3) No regulation made under this section shall be invalid because it leaves any matter to the discretion of WorkSafe, the Secretary, or any other person, or because it authorises WorkSafe, the Secretary, or any other person—
   (a) to give any consent or approval on or subject to conditions to be imposed or approved by WorkSafe, the Secretary, or any other person; or
   (b) to set any standard.
-(4) Notwithstanding section 1(3), and without limiting section 12 of the Acts Interpretation Act 1924, no regulations made under this section may be expressed to come into force before 1 April 1993.
+(4) Notwithstanding section 1(3), and without limiting section 43 of the Legislation Act 2019, no regulations made under this section may be expressed to come into force before 1 April 1993.
 (5) In this section, Conformity Cooperation Agreement means the Agreement between the Government of New Zealand and the Government of the People's Republic of China on Cooperation in the Field of Conformity Assessment in Relation to Electrical and Electronic Equipment and Components, which is Annex 14 of the Free Trade Agreement between the Government of New Zealand and the Government of the People's Republic of China done at Beijing on 7 April 2008.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7) Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in regulations under subsections (2) to (2B) merely because it is incorporated.
+(8) Subsection (9) applies if regulations made under this section authorise any of the following:
+  (a) a person to prohibit a matter referred to in subsection (1)﻿(2)﻿(c):
+  (b) WorkSafe to make a declaration referred to in subsection (1)﻿(2)﻿(d)﻿(B):
+  (c) WorkSafe to issue instructions, orders, or requirements referred to in subsection (1)﻿(8)﻿(a) or (aa):
+  (d) WorkSafe or the chief executive to grant exemptions referred to in subsection (1)﻿(9):
+  (e) a person to grant exemptions referred to in subsection (1)﻿(29):
+  (f) the Board, WorkSafe, or the Secretary to waive, refund, or remit fees referred to in subsection (1)﻿(30).
+(9) If this subsection applies,—
+  (a) an instrument exercising that authority is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 169A Regulations that prescribe requirements for safety management systems
 (1) Regulations made under section 169(1)﻿(3A) must provide for requirements relating to—
