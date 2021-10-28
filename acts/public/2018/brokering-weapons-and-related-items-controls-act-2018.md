@@ -1,5 +1,5 @@
 # Brokering (Weapons and Related Items) Controls Act 2018
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Brokering (Weapons and Related Items) Controls Act 2018.
@@ -55,10 +55,8 @@ The purpose of this Act is to—
   - **specified category** , in relation to the definition of or , means a category or part of the strategic goods list that is specified for the purpose of that definition in accordance with subsection (2)
   - **strategic goods list** means the list of all goods and classes of goods whose exportation is prohibited under section 96 of the Customs and Excise Act 2018 because they have or may have a strategic use (within the meaning of section 96(11) of that Act) that the Secretary is required to publish under section 96(7) of that Act
   - **weapon or related item** means any goods specified in the strategic goods list.
-(2) The Secretary may, by notice in the Gazette after consultation with the Minister, specify categories or parts of the strategic goods list for the purposes of the definitions of dual-use goods and military end-use.
-(3) A notice under subsection (2)—
-  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; and
-  (b) must be made publicly available on an Internet site maintained by or on behalf of the Secretary.
+(2) The Secretary may, by notice after consultation with the Minister, specify categories or parts of the strategic goods list for the purposes of the definitions of dual-use goods and military end-use.
+(3) A notice under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 6 Meaning of brokering activity
 In this Act, brokering activity—
@@ -362,6 +360,7 @@ If the Secretary refuses to give a broker a permit, the Secretary must give the 
     (ii) the persons liable to pay the fees or charges:
     (iii) when the fees or charges must be paid:
     (iv) circumstances in which the fees or charges may be refunded, remitted, or waived (wholly or partly).
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 42 Disclosure of information to overseas authority
 (1) The Secretary may disclose any information held by the Secretary to an overseas authority for the purpose of assisting the authority to carry out its functions related to, or involving,—
