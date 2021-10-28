@@ -1,5 +1,5 @@
 # Tokelau (Territorial Sea and Exclusive Economic Zone) Act 1977
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision with respect to the territorial sea of Tokelau, and for the establishment of an exclusive economic zone of Tokelau, and for matters connected with those purposes
 
@@ -9,6 +9,7 @@ _Consolidation as at 2015-03-26_
 (3) For the purposes of subsection (2), 1 or more Orders in Council may be made—
   (a) bringing different provisions of this Act into force on different dates; and
   (b) bringing provisions of this Act into force on different dates in respect of specified parts of Tokelau.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
@@ -58,6 +59,7 @@ The baseline from which the breadth of the territorial sea is measured shall be 
   (a) any part of the median line between Tokelau and any country is less than 200 nautical miles from the nearest part of the baseline of the territorial sea of Tokelau; and
   (b) no other outer limit of the exclusive economic zone is for the time being determined by an Order in Council made under subsection (3)—
 (3) For the purposes of implementing any international agreement, or the arbitral award of any international body, or the judgment of any international court, or for any other purpose in accordance with international law, the Governor-General may from time to time, by Order in Council, declare that the exclusive economic zone shall not extend to any specified area of the sea, seabed, or subsoil, that would otherwise be included within the zone by virtue of this section.
+(4) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 8 Control of foreign fishing in zone
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
@@ -81,7 +83,8 @@ The baseline from which the breadth of the territorial sea is measured shall be 
     (ii) on the conviction of any licensee, owner, master, or other crew member of a foreign fishing craft for any offence referred to in subparagraph (i), the court may, in addition to any penalty that it may impose, exercise in respect of any fish on board the craft any of the powers specified in section 6(3):
   (m) providing for the release of a foreign fishing craft, and any equipment on board or used by the craft, and any fish on board the craft, pending the determination of any proceedings which may result in the forfeiture of the craft or such equipment or fish, on the provision of adequate security for its surrender to the Crown in the event that it is ordered to be forfeited:
   (n) providing that a breach of any regulation made under this section may be dealt with by way of a civil penalty, not exceeding one-third of the applicable maximum monetary penalty specified in paragraph (k).
-(2) No exercise by the licensing authority of any power conferred on him or it pursuant to any regulation made under subsection (1)(i), or concurrence by the Minister of Foreign Affairs and Trade in the exercise of that power by the licensing authority, shall be liable to be challenged, reviewed, quashed, or called into question in any court of law on the ground that the conditions for the exercise of the power, or for that concurrence, had not arisen or had ceased.
+(2) No exercise by the licensing authority of any power conferred on him or it pursuant to any regulation made under subsection (1)﻿(i), or concurrence by the Minister of Foreign Affairs and Trade in the exercise of that power by the licensing authority, shall be liable to be challenged, reviewed, quashed, or called into question in any court of law on the ground that the conditions for the exercise of the power, or for that concurrence, had not arisen or had ceased.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 9 Offences in zone deemed to have been committed in Tokelau
 Any offence against this Act, or against any regulations made under this Act, that is committed within the exclusive economic zone shall be deemed to have been committed in Tokelau.
@@ -92,7 +95,7 @@ Any offence against this Act, or against any regulations made under this Act, th
 The foreshore of Tokelau, and the seabed and subsoil of the submarine areas of its internal waters, territorial sea, and exclusive economic zone, shall be deemed to be and always to have been vested in the Crown.
 
 ### 11 General regulations
-Where no other provision is for the time being made by any other enactment for any such purposes, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) Where no other provision is for the time being made by any other enactment for any such purposes, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) regulating the conduct of scientific research within the territorial sea and the exclusive economic zone:
   (b) prescribing measures for the protection and preservation of the marine environment of the territorial sea and the zone:
   (c) regulating the construction, operation, and use of artificial islands (whether permanent or temporary), and other installations and structures within the territorial sea or the exclusive economic zone, including the establishment of safety zones around such islands, installations, and structures:
@@ -103,6 +106,7 @@ Where no other provision is for the time being made by any other enactment for a
   (h) providing that a breach of any regulations made under this section shall be a criminal offence, and imposing penalties by way of fine not exceeding $250,000 for any such offences:
   (i) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration:
   (j) regulating the use of Tokelauan fishing craft to take fish outside the exclusive economic zone of Tokelau.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 12 General provisions as to enforcement
 (1) Any constable or authorised officer may at any time (with or without a warrant) stop, board, inspect, and search any foreign fishing craft within the internal waters, territorial sea, or exclusive economic zone of Tokelau, and any equipment on board or used by the craft, and any fish on board the craft.
