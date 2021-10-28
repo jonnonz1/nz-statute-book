@@ -1,5 +1,5 @@
 # Contraception, Sterilisation, and Abortion Act 1977
-_Consolidation as at 2020-03-24_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -66,9 +66,10 @@ This Act binds the Crown.
 (4) In this section sexual violation has the same meaning as it has in section 128 of the Crimes Act 1961.
 
 ### 6 Standards for manufacture of condoms
-(1) No person shall manufacture for sale or sell any condom or other contraceptive device that does not comply with a standard for the time being approved for the purposes of this section by the Minister of Health by notice in the Gazette.
+(1) No person shall manufacture for sale or sell any condom or other contraceptive device that does not comply with a standard for the time being approved for the purposes of this section by the Minister of Health by notice.
 (2) Every person who manufactures for sale or sells any condom or other contraceptive device in contravention of subsection (1) commits an offence and is liable on conviction to a fine not exceeding $5,000.
 (3) For the purposes of this section the term condom includes a prophylactic sheath.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Sterilisation**
 
@@ -161,7 +162,7 @@ A qualified health practitioner may not, as a condition of providing abortion se
   (a) the following services are available throughout New Zealand:
     (i) the services specified in section 14(1); and
     (ii) counselling services in relation to, or in connection with, the provision of abortion services; and
-  (b) the following services are provided in accordance with the standards published by the Director-General under section 19(1)﻿(b):
+  (b) the following services are provided in accordance with the standards developed by the Director-General under section 19(1)﻿(b):
     (i) abortion services:
     (ii) counselling services in relation to, or in connection with, the provision of abortion services.
 (2) To meet the obligation under subsection (1)﻿(a)﻿(i), the Minister of Health must ensure that access to emergency contraception is available throughout New Zealand within 48 hours of it being requested by any person.
@@ -187,8 +188,9 @@ A qualified health practitioner may not, as a condition of providing abortion se
   (a) collect, collate, analyse, and publish information about the provision of—
     (i) abortion services in New Zealand; and
     (ii) counselling services in relation to, or in connection with, the provision of abortion services; and
-  (b) develop and publish standards for the services described in paragraph (a).
+  (b) develop standards for the services described in paragraph (a).
 (2) However, the Director-General must not publish, under subsection (1)﻿(a), any information in a form that could reasonably be expected to identify a woman who has been, or is being, provided with abortion services or counselling services.
+(3) Standards under subsection (1)﻿(b) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 20 Abortion service provider to notify Director-General about abortion services provided
 (1) An abortion service provider must notify the Director-General after the following services are provided by or through the provider:
@@ -215,9 +217,10 @@ A qualified health practitioner may not, as a condition of providing abortion se
 As soon as practicable after receiving a report under section 17(1) or 21(2), the Minister of Health must present a copy of the report to the House of Representatives.
 
 ### 23 General regulation-making power
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) enabling the Director-General of Health to collect information that may be required to enable the Director-General to discharge the Director-General’s duties specified in section 17, 18, 19, or 21:
   (b) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 24 Renewal of licences
 [Repealed]
