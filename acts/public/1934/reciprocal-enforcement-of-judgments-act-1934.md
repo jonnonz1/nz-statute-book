@@ -1,5 +1,5 @@
 # Reciprocal Enforcement of Judgments Act 1934
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to make better provision for the enforcement in New Zealand of judgments given in the United Kingdom or in other countries (whether within the Sovereign's dominions or not) which afford reciprocal treatment to judgments given in New Zealand, for facilitating the enforcement in other countries of judgments given in New Zealand, and for other purposes in connection with the matters aforesaid
 
@@ -42,6 +42,7 @@ This Act may be cited as the Reciprocal Enforcement of Judgments Act 1934.
 (3A)
 (4) For the purposes of this section a judgment shall be deemed to be final and conclusive notwithstanding that an appeal may be pending against it, or that it may still be subject to appeal, in the courts of the country of the original court.
 (5) The Governor-General may by a subsequent Order in Council vary or revoke any Order in Council previously made under this section.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (6)
 
 ### 3A Application of this Part to judgments of inferior courts
@@ -54,6 +55,7 @@ This Act may be cited as the Reciprocal Enforcement of Judgments Act 1934.
 (4)
 (5) For the purposes of this section, a judgment shall be deemed to be final and conclusive notwithstanding that an appeal may be pending against it, or that it may still be subject to appeal, in the courts of the country of the original court.
 (6) The Governor-General may by a subsequent Order in Council vary or revoke any Order in Council previously made under this section.
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3B Application of this Part to non-money judgments
 (1) If the Governor-General is satisfied that, in the event of the benefits conferred by this Part being extended to some or all non-money judgments given in any senior courts of any country to which this Part extends, substantial reciprocity of treatment will be assured as respects the enforcement in that country of all or some non-money judgments given in the senior courts of New Zealand, the Governor-General may, by Order in Council, direct that such non-money judgments of the senior courts of that country as are specified in the order are specified non-money judgments for the purposes of this Part.
@@ -64,6 +66,7 @@ This Act may be cited as the Reciprocal Enforcement of Judgments Act 1934.
 (4) A specified non-money judgment shall be a judgment to which this Part applies if it was given after the coming into operation of an Order in Council made under subsection (1) or subsection (2), as the case may be, in relation to that judgment.
 (5)
 (6) The Governor-General may by a subsequent Order in Council vary or revoke any Order in Council previously made under this section.
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4 Application for, and effect of, registration of judgment
 (1) A person, being a judgment creditor under a judgment to which this Part applies, may apply to the High Court at any time within 6 years after the date of the judgment, or, where there have been proceedings by way of appeal against the judgment, after the date of the last judgment given in those proceedings, to have the judgment registered in the High Court, and on any such application the said court shall, subject to proof of the prescribed matters and to the other provisions of this Act, order the judgment to be registered:
@@ -85,7 +88,7 @@ provided that the judgment shall not be enforced so long as, under this Part and
 (6) In addition to any sum of money payable under the judgment of the original court, including any interest which by the law of the country of the original court becomes due under the judgment up to the time of registration, the judgment shall be registered for the reasonable costs of and incidental to registration, including the costs of obtaining a certified copy of the judgment from the original court.
 
 ### 5 Rules of court
-(1) The power to make rules of court under section 51C of the Judicature Act 1908 shall, subject to the provisions of this section, include power to make rules for the following purposes:
+(1) The power to make rules of court under section 148 of the Senior Courts Act 2016 shall, subject to the provisions of this section, include power to make rules for the following purposes:
   (a) for making provision with respect to the giving of security for costs by persons applying for the registration of judgments:
   (b) for prescribing the matters to be proved on an application for the registration of a judgment and for regulating the mode of proving those matters:
   (c) for providing for the service on the judgment debtor of notice of the registration of a judgment:
@@ -93,6 +96,7 @@ provided that the judgment shall not be enforced so long as, under this Part and
   (e) for prescribing the method by which any question arising under this Act whether a judgment to which this Part applies can be enforced in the country of the original court, or what interest is payable under a judgment under the law of the original court, is to be determined:
   (f) for prescribing any matter which under this Part is to be prescribed.
 (2) Rules made for the purposes of this Part shall be expressed to have, and shall have, effect subject to any such provisions contained in Orders in Council made under section 3 as are declared by the said orders to be necessary for giving effect to any agreement made by or on behalf of the Government of New Zealand in relation to matters with respect to which there is power to make rules of court for the purposes of this Part.
+(3) See section 148 of the Senior Courts Act 2016, which provides that court rules are secondary legislation.
 
 ### 6 Cases in which registered judgments must, or may, be set aside
 (1) On an application in that behalf duly made by any party against whom a registered judgment may be enforced, the registration of the judgment shall be set aside if the High Court is satisfied—
@@ -168,6 +172,7 @@ No proceedings for the recovery of a sum payable under a judgment to which this 
 (1) If it appears to the Governor-General that the treatment in respect of recognition and enforcement accorded by the courts of any country to money judgments given in any senior court of New Zealand is substantially less favourable than that accorded by the courts of New Zealand to money judgments of the senior courts of that country, the Governor-General may by Order in Council apply this section to that country.
 (2) Except in so far as the Governor-General may by Order in Council under this section otherwise direct, no proceedings shall be entertained in any court in New Zealand for the recovery of any sum alleged to be payable under a judgment given in a court of a country to which this section applies.
 (3) The Governor-General may by a subsequent Order in Council vary or revoke any order previously made under this section.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 11 Issue of certificates of judgments obtained in New Zealand
 (1) Subject to this section, a New Zealand court shall, on application by a judgment creditor who wishes to enforce a judgment given in that court in a country to which Part 1 extends, issue to that person—
@@ -180,7 +185,7 @@ No proceedings for the recovery of a sum payable under a judgment to which this 
 (3) No application shall be made under subsection (1) in relation to a judgment until the expiry of any period during which the enforcement of the judgment is stayed.
 
 ### 11A Application of Legislation Act 2012 to orders
-An Order in Council made under this Act is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### 12 Repeal and savings
 (1) The Administration of Justice Act 1922 is hereby repealed.
