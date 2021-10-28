@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2021-10-01_
+_Consolidation as at 2021-10-28_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -22,15 +22,15 @@ The main purposes of this Act are—
 
 ### AA 2 Interpretation
 Aids to interpretation
-(1) Diagrams, flowcharts, readers’ notes, and the lists of defined terms following sections are included in this Act only as interpretational aids. If there is conflict between an interpretational aid and a provision of this Act, the provision prevails.
+(1) Diagrams, examples, flowcharts, readers’ notes, and the lists of defined terms following sections are included in this Act only as interpretational aids. If there is conflict between an interpretational aid and a provision of this Act, the provision prevails.
 Defined terms
 (2) If a defined term is used in a section and is not included in the list of defined terms following the section, the term is nevertheless used in the section as defined.
 
 ### AA 3 Definitions
 Role of Part Y
 (1) Definitions of terms that apply generally for the purposes of this Act, and general provisions on the interpretation and construction of this Act, appear in Part Y (Definitions and related matters).
-Role of Interpretation Act
-(2) The Interpretation Act 1999 also contains definitions of terms, including in particular the term person, and other provisions that apply to the interpretation and construction of this Act.
+Role of Legislation Act 2019, Part 2
+(2) The Legislation Act 2019, Part 2, also contains definitions of terms, including in particular the term person, and other provisions that apply to the interpretation and construction of this Act.
 
 ### AA 4 Crown bound
 This Act binds the Crown.
@@ -250,6 +250,8 @@ Purposes
   (h) to assist in recovering unpaid tax.
 Entry into force
 (3) An agreement to which subsection (1)﻿(a) and (b) apply comes into force as declared by the Governor-General by Order in Council and on the date determined under the agreement.
+Secondary legislation
+(3B) An Order in Council under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Overriding effect
 (4) Despite anything in this Act, except subsection (5), or section RF 11C (Interest paid by non-resident companies to non-residents) or (5B) or section BG 1 or GB 54 (which relate to tax avoidance) or, or in any other Inland Revenue Act or the Official Information Act 1982 or the Privacy Act 2020, a double tax agreement has effect in relation to—
   (a) income tax:
@@ -2116,6 +2118,10 @@ Application of Order in Council
 (5) An Order in Council under subsection (4) may—
   (a) come into force on a date that is not earlier than 1 April 2015:
   (b) apply for income years that do not precede the 2015–16 income year.
+Secondary legislation
+(6) An Order in Council under subsection (4)—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) commences in accordance with subsection (5), even if it is not yet published.
 
 ### CE 1B General rule: accommodation provided by employers
 Value of accommodation
@@ -3340,12 +3346,14 @@ Meaning of initial treatment
 Meaning
 (1) Listed industrial mineral—
   (a) means alumina minerals (for example, bauxite, corundum, diaspore, and gibbsite), aluminous refractory clays containing over 30% alumina in the fired state, aluminous refractory fireclays containing over 30% alumina in the fired state, andalusite, antimony, asbestos, barite, bentonite (except bentonite mined in the area formerly known as Malvern County), bituminous shale, chromite, copper, diatomite, dolomite, feldspar, fluorite, gold, halloysite, kaolin, kyanite, lead, magnesite, manganese, mercury, mica, molybdenite, nickel, perlite, phosphate, platinum group, pyrite, silica in lump form used only in producing silicon carbide or silicon metal or ferro silicon, silica in sand form used only in producing silicon carbide, sillimanite, silver, sodium chloride, sulphur, talc, tin, titanium, titanomagnetite, tungsten, uranium, wollastonite, zeolite, zinc, and zircon:
-  (b) includes a mineral that is declared to be an industrial mineral in a Gazette notice given by the Minister.
+  (b) includes a mineral that is declared to be an industrial mineral in a notice given by the Minister.
 Minister to consider
-(2) Before giving a Gazette notice about a particular mineral, the Minister must consider whether the mineral is or is likely to be of importance—
+(2) Before giving a notice about a particular mineral, the Minister must consider whether the mineral is or is likely to be of importance—
   (a) in the industrial development of New Zealand:
   (b) as a means of reducing the quantity of industrial minerals or industrial rock required to be imported into New Zealand:
   (c) as an item of export from New Zealand.
+Secondary legislation
+(3) A notice under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### CU 9 Some definitions
 Meaning of mineral mining asset
@@ -3484,6 +3492,10 @@ Definitions
 (3) In this section,—
   - **Australian financial year** means a year starting on and including 1 July
   - **wine** has the meaning given in section 31-1 of A New Tax System (Wine Equalisation Tax) Act 1999 (Aust) and regulations made under that Act.
+Secondary legislation
+(4) An Order in Council under subsection (1)—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) commences in accordance with subsection (2), even if it is not yet published.
 
 ### CV 9 Supplementary dividend holding companies
 [Repealed]
@@ -3779,6 +3791,8 @@ Approval and withdrawal of approval for territory
 (6) The Governor-General may by Order in Council—
   (a) approve a territory for the purpose of this section:
   (b) withdraw the approval of a territory for the purpose of this section.
+Secondary legislation
+(7) An Order in Council under subsection (6) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### CW 13 Proceeds from share or option acquired under venture investment agreement
 Exempt income: proceeds from share or option
@@ -4470,6 +4484,8 @@ When Minister of Revenue must recommend Order in Council under subsection (4)﻿
 (5) The Minister of Revenue must recommend that an Order in Council be made to remove the name of a company from schedule 35 if the Minister is satisfied that—
   (a) the company has been removed from the register of companies kept under the Companies Act 1993; or
   (b) the company no longer meets the criteria set out in subsection (4)﻿(a).
+Secondary legislation
+(6) An Order in Council under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### CW 39 Local authorities
 Exempt income: sinking funds
@@ -4836,6 +4852,8 @@ Order in Council declaring Niue development project
 (7) The Governor-General may make an Order in Council declaring a business or enterprise to be a development project for the purposes of this section if satisfied that the business or enterprise—
   (a) has been or will be entered upon wholly or mainly for the purpose of developing Niue; or
   (b) is or will be important in the development of Niue.
+Secondary legislation
+(8) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### CW 59B Income of and distributions by certain international funds
 Trustees
@@ -6861,6 +6879,8 @@ Meaning of research or development: modification by Order in Council
   (a) a kind of expenditure that is not expenditure on research or development for the purposes of section DB 34:
   (b) an activity that is neither research nor development for the purposes of section DB 34:
   (c) the date from which the expenditure or the activity is excluded from being research or development.
+Secondary legislation
+(3) An Order in Council under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### DB 36 Patent expenses
 Deduction
@@ -7802,7 +7822,9 @@ Definition of items in formula
   (b) kilometres travelled is the total number of kilometres the vehicle has travelled, for both business purposes and other purposes, to which the applicable kilometre rate applies:
   (c) business proportion is the proportion of business use of the vehicle for the income year, calculated using a method described in sections DE 5 to DE 11, and expressed as a decimal.
 Setting kilometre rates
-(4) For the purposes of this section, the Commissioner must from time to time set and publish kilometre rates.
+(4) For the purposes of this section, the Commissioner must from time to time set kilometre rates.
+Secondary legislation
+(5) An instrument that sets kilometre rates under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart DF — Government grants, funding, and compensation
 
@@ -8624,6 +8646,8 @@ Link with subpart DA
 (7) This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
 Amendment of schedule 20 by Order in Council
 (8) The Governor-General may by Order in Council make regulations amending schedule 20 to vary the categories of improvements and percentages of diminished value of those improvements allowed as a deduction.
+Secondary legislation
+(9) An Order in Council under subsection (8) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### DO 5 Expenditure on land: planting of listed horticultural plants
 When this section applies
@@ -10754,6 +10778,8 @@ Retailers with turnover of $1,000,000 or less
 (4) A trader who is a retailer whose turnover is $1,000,000 or less may determine the discounted selling price of all closing stock valued under this method in an income year by discounting the total of the retail selling prices of the stock by the average gross profit margin for all closing stock valued under this method in the income year.
 Increase in specified sum
 (5) The Governor-General may make an Order in Council increasing the sum specified in subsection (4).
+Secondary legislation
+(5B) An Order in Council under subsection (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Not retailers
 (6) If the person is not a retailer, the discounted selling price for each category of goods is the total market selling value of the goods minus the normal gross profit margin for the category of goods.
 Normal gross profit margin for purposes of subsection (6)
@@ -10807,6 +10833,8 @@ Meaning of low-turnover trader
   (b) the sum specified by the Governor-General by Order in Council.
 Increase in specified sum
 (3) The Governor-General may make an Order in Council increasing the sum specified in subsection (2)﻿(a).
+Secondary legislation
+(4) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### EB 14 Low-turnover valuation methods
 The low-turnover valuation methods are—
@@ -11172,6 +11200,8 @@ Determined by Commissioner
 (1) The Commissioner must determine a national average market value for an income year for each class of specified livestock set out in schedule 17, column 2 (Types and classes of livestock).
 Application to income year
 (2) The value applies to the income year for which it is determined, whether the income year started before, on, or after the date on which the determination is made.
+Secondary legislation
+(3) A determination under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### EC 16 Valuation under herd scheme
 Closing value of herd livestock
@@ -11219,6 +11249,8 @@ When adjustment applies
   (b) the income year following 2 consecutive income years in which the person has not valued livestock of that type on the Chatham Islands under the herd scheme.
 Setting adjustment
 (3) The Commissioner must set and may vary from time to time the level of Chatham Islands adjustment to the herd value ratio that applies in an income year.
+Secondary legislation
+(4) The instrument that sets or varies an adjustment under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### EC 20 Herd livestock disposed of before values determined
 When this section applies
@@ -11249,6 +11281,8 @@ Determination of costs
   (b) the average rearing and growing costs for animals in the category.
 Application to income year
 (2) The national standard costs apply to the income year for which they are determined, whether the income year started before, on, or after the date on which the determination is made.
+Secondary legislation
+(3) A determination under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### EC 24 Methods for determining costs using national standard cost scheme
 Determination of methods for calculation of cost
@@ -11260,6 +11294,8 @@ Average cost
   (c) the number of livestock acquired other than by way of being homebred, applying to the number the acquisition costs associated with the livestock.
 Content of determination
 (3) The matters that may be included in the determination are set out in section 91AAD of the Tax Administration Act 1994.
+Secondary legislation
+(4) A determination under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Other methods**
 
@@ -11322,6 +11358,8 @@ Determined by Commissioner
 (1) The Commissioner may determine a standard value for an income year for a type or category of non-specified livestock.
 Application to income year
 (2) A standard value applies to the income year for which it is determined, whether the income year started before, on, or after the date on which the standard value is determined.
+Secondary legislation
+(3) A determination under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### EC 30 Closing value methods
 A person may choose 1 of the following methods to value non-specified livestock on hand at the end of an income year:
@@ -11365,6 +11403,8 @@ Factors
   (a) the average cost of livestock of the type, class, or category; and
   (b) the estimated useful life of the livestock; and
   (c) the average estimated residual market value of the livestock.
+Secondary legislation
+(4) A determination under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### EC 34 General rule
 Value in income year of acquisition and later income years
@@ -12489,6 +12529,8 @@ Disposal
 (7) The person is treated as having disposed of the item for its market value at the later time.
 Increase in specified sum
 (8) The Governor-General may make an Order in Council increasing the sum specified in subsection (1)﻿(a) and (f).
+Secondary legislation
+(9) An Order in Council under subsection (8) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### EE 39 Items no longer used
 When this section applies
@@ -13027,6 +13069,8 @@ Meaning
   (b) the value set in a determination issued under section 91AAL of the Tax Administration Act 1994 applying to the item.
 Increase in specified sum
 (2) The Governor-General may make an Order in Council increasing the sum specified in subsection (1)﻿(a).
+Secondary legislation
+(3) An Order in Council under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### EE 66 Meaning of poolable property
 Meaning
@@ -13570,6 +13614,8 @@ Order in Council relating to farmers
 (6) The Governor-General may make an Order in Council declaring that the maximum deposit a farmer may make for an accounting year or for every accounting year is—
   (a) an amount calculated in the manner specified in the order; or
   (b) an unlimited amount.
+Secondary legislation
+(7) An Order in Council under subsection (6) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### EH 36 Other definitions
 In the main income equalisation scheme,—
@@ -15765,6 +15811,8 @@ Calculation of total value of financial arrangements
     (iii) for a financial arrangement to which the old financial arrangements rules apply, the value determined under those rules.
 Increase in specified sum
 (3) The Governor-General may make an Order in Council increasing the sum specified in subsection (1).
+Secondary legislation
+(4) An Order in Council under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### EW 18 Market valuation method
 Who may use market valuation method
@@ -16275,6 +16323,8 @@ Social assistance suspensory loan
   (c) is of a class declared by the Governor-General by Order in Council to be a social assistance suspensory loan.
 Declaration as social assistance suspensory loan
 (3) The Governor-General may make an Order in Council declaring a class of loan that meets the criteria in subsection (2) to be a social assistance suspensory loan.
+Secondary legislation
+(3B) An Order in Council under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Consideration
 (4) The person is treated as having paid the amount owing on the date on which they are released from the obligation to pay it.
 
@@ -16560,6 +16610,8 @@ Accrual expenditure
   (c) an alternative method approved by the Commissioner.
 Increase in specified sums
 (10) The Governor-General may make an Order in Council increasing a sum specified in any of subsections (1) to (3).
+Secondary legislation
+(11) An Order in Council under subsection (10) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### EW 58 Financial arrangements, income, and expenditure relevant to criteria
 Inclusions in and exclusions from thresholds
@@ -18456,7 +18508,7 @@ Standard formula
 Definition of items in standard formula
 (4) In the standard formula,—
   (a) opening book value is the book value of the interest at the end of the previous income year, calculated under subsection (7):
-  (b) deemed rate is the rate set by the Governor-General by Order in Council for this section for the relevant income year.
+  (b) deemed rate is the rate set by the Governor-General by Order in Council for this section for the relevant income year (see subsection (15)).
 Part-year formula
 (5) The part-year formula is—(opening book value + costs) × deemed rate × days ÷ 365.
 Definition of items in part-year formula
@@ -18465,7 +18517,7 @@ Definition of items in part-year formula
   (b) costs is the total for the part of the income year of—
     (i) all expenditure, if any, that the person incurs in acquiring or increasing the interest:
     (ii) income tax on the income of the FIF for which the person is liable under the laws of a country or territory outside New Zealand and which is paid by the person in the part of the income year:
-  (c) deemed rate is the rate set by the Governor-General by Order in Council for this section for the relevant income year:
+  (c) deemed rate is the rate set by the Governor-General by Order in Council for this section for the relevant income year (see subsection (15)):
   (d) days is the number of days in the part of the income year; and for this purpose, an acquisition or increase is treated as occurring at the start of a day, and a disposition or reduction is treated as occurring at the end of a day.
 Closing book value formula
 (7) The book value, at the end of an income year or, in a case in which subsection (5) applies, a part of an income year, of an attributing interest of a person in a FIF under the deemed rate of return method is, unless subsection (9) applies, calculated using the formula (the closing book value formula)—opening book value + costs + deemed income + top-up amounts − gains.
@@ -18501,6 +18553,8 @@ When subsection (13) does not apply
     (i) its book value, calculated under subsection (7), at the end of the previous income year, if the person held the interest then and used the deemed rate of return method to calculate FIF income for all attributing interests in the previous income year:
     (ii) its market value, in any other case; and
   (c) the gain that the person derived from disposing of the interest or part-interest is not income, or is income only to the extent to which it gives rise to FIF income.
+Secondary legislation
+(15) An Order in Council under subsection (4)﻿(b) or (6)﻿(c) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### EX 56 Cost method
 Cost method formula
@@ -20761,6 +20815,7 @@ Despite section EZ 33, a person may elect to apply the financial arrangements ru
   (a) the person may calculate income or expenditure for that income year in respect of those financial arrangements by using the straight-line method so as to result in the allocation to that income year and subsequent income years of amounts that are fair and reasonable in respect of those arrangements; and
   (b) where the straight-line method is used under paragraph (a), that method must be used by the person in respect of all financial arrangements of which the person was the holder or issuer during that income year; and
   (c) where the person has in accordance with this subsection calculated income or expenditure using the straight-line method in respect of a financial arrangement for any income year, the person must, unless the Commissioner notifies them that they are otherwise authorised, continue to use that method in respect of that financial arrangement for any subsequent income year, until the maturity, remittance, sale, or other transfer of the arrangement, notwithstanding that the total value of all financial arrangements of which the person is holder or issuer may at any time in any such subsequent income year exceed $1,500,000 or such other amount as may be declared for the purposes of this section,—
+(3B) An Order in Council under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (4) For the purposes of subsection (3), a person must take into account financial arrangements to which subpart EW applies.
 (5) For the purposes of subsection (3),—the amount of income or expenditure of the person in respect of that financial arrangement for that first income year is an amount calculated in accordance with the following formula:a − b − c + dwhere—ais the sum of all amounts that would have been income derived by the person in respect of the financial arrangement if the straight-line method referred to in subsection (3) had been applied to the financial arrangement from the date it was acquired or issued by the person until the end of that first income yearbis the sum of all amounts that would have been expenditure incurred by the person in respect of the financial arrangement if the straight-line method referred to in subsection (3) had been applied to the financial arrangement from the date it was acquired or issued by the person until the end of that first income yearcis the sum of all amounts of income deemed to have been derived by the person in respect of the financial arrangement before the commencement of that first income yeardis the sum of all amounts deemed to have been expenditure incurred by the person in respect of the financial arrangement before the commencement of that first income year;—and any amount so calculated is, if a positive amount, deemed to be income derived by the person in that first income year and, if a negative amount, deemed to be expenditure incurred by the person in that first income year.
   (a) the value of any financial arrangement to be taken into account in determining whether the total value of all financial arrangements of which a person is the holder or issuer on any day exceeds $1,500,000 or such other amount as may be declared for the purposes of this section is,—
@@ -20809,12 +20864,12 @@ The amount of the income deemed to be derived or the expenditure deemed to be in
 ### EZ 37 Cash basis holder
 (1) Subject to this section, a natural person is a cash basis holder in respect of financial arrangements held by that person in any income year, where—
   (a) either—
-    (i) the income derived by that person in that income year in respect of those financial arrangements, calculated in accordance with subpart EW or section EZ 35 or EZ 38, as the case may be, does not exceed $70,000 (or such greater amount as the Governor-General may by Order in Council declare); or
-    (ii) the total value of financial arrangements held by the person in the income year does not exceed at any time in the income year $600,000 (or such greater amount as the Governor-General may by Order in Council declare), the value in respect of each financial arrangement being,—
+    (i) the income derived by that person in that income year in respect of those financial arrangements, calculated in accordance with subpart EW or section EZ 35 or EZ 38, as the case may be, does not exceed $70,000 (or such greater amount as the Governor-General may by Order in Council declare (see subsection (10))); or
+    (ii) the total value of financial arrangements held by the person in the income year does not exceed at any time in the income year $600,000 (or such greater amount as the Governor-General may by Order in Council declare (see subsection (10))), the value in respect of each financial arrangement being,—
       (A) in the case of a fixed principal financial arrangement, the greater of the acquisition price of the arrangement or the nominal or face value of the arrangement; and
       (B) in the case of a variable principal debt instrument, the amount of money owing to the person according to the arrangement; and
       (C) in the case of a financial arrangement to which subpart EW applies, the value determined under that subpart; and
-  (b) the difference between the following amounts does not exceed $20,000 (or such greater amount as the Governor-General may by Order in Council declare):
+  (b) the difference between the following amounts does not exceed $20,000 (or such greater amount as the Governor-General may by Order in Council declare (see subsection (10))):
     (i) the amount of income that would be calculated by the person for the income year—in respect of financial arrangements held by the person at the end of the income year; and
       (A) using, at the option of the person, either the yield to maturity method or the straight-line method referred to in section EZ 35(3) (regardless of whether or not the person is entitled or has opted to use that method) or in accordance with subpart EW, as the case may be, or, where it is not possible to calculate an amount of income or expenditure in respect of the financial arrangements by using either of those methods, an alternative method approved by the Commissioner; and
       (B) under either section EW 31 or EZ 38—
@@ -20835,6 +20890,7 @@ The amount of the income deemed to be derived or the expenditure deemed to be in
 (9) Where a deceased person was at the time of his or her death a cash basis holder,—and for the purposes of subsections (4) and (5), any trustee of an estate who is a cash basis holder under this subsection is deemed to be the same person as the deceased cash basis holder.
   (a) nothing in subsection (7) or in any requirement under this section that a cash basis holder be a natural person, in respect of the income year in which the death occurred and in each of the 4 immediately succeeding income years, applies to prevent the trustee of the estate of the deceased person from being a cash basis holder for the purposes of this Act in respect of financial arrangements issued or held by the estate, where the estate would otherwise qualify as a cash basis holder under this section; but
   (b) if at any time during those income years the estate ceases to so otherwise qualify as a cash basis holder, it does not again qualify to become a cash basis holder by operation of paragraph (a);—
+(10) An Order in Council under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (10)
 
 ### EZ 38 Income and expenditure where financial arrangement redeemed or disposed of
@@ -20888,6 +20944,7 @@ The amount of the income deemed to be derived or the expenditure deemed to be in
     (iii) all of the remaining payments under the financial arrangement have become irrecoverable or unenforceable by action through the lapse of time; or
     (iv) the financial arrangement is a debt that is disposed of at a discount to a person associated with the debtor under the circumstances described in section EZ 41; and
   (e) where a person ceases to be a New Zealand resident any financial arrangement in relation to which that person is an issuer or a holder is deemed, in relation to the person, to have been transferred for its market value at that date.
+(9) An Order in Council under subsection (8)﻿(c)﻿(iii) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### EZ 39 Forgiveness of debt
 (1) In determining the income or expenditure under the base price adjustment in section EZ 38, an amount owing under a debt, including an amount accrued and unpaid at the time of the forgiveness, is treated as paid when forgiven under the old financial arrangements rules if—
@@ -23076,6 +23133,8 @@ Definition of items in formula
     (i) the percentage amount set by the Governor-General by Order in Council as the interest rate of return for the purposes of this subsection; or
     (ii) 7%, if no interest rate of return is set under subparagraph (i):
   (e) months is the number of months beginning on or after 1 July 2005 in the corresponding income year.
+Secondary legislation
+(4) An Order in Council under subsection (3)﻿(b)﻿(i) or (d)﻿(i) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### FE 23 Banking group’s funding debt
 Formula
@@ -23105,6 +23164,10 @@ Application or effective date
   (b) apply for measurement periods and quarters that—
     (i) are in the 2005–06 income year or a later income year; and
     (ii) commence on or after 1 July 2005.
+Secondary legislation
+(4) An Order in Council under subsection (2)—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) commences in accordance with subsection (3), even if it is not yet published.
 
 **New Zealand group**
 
@@ -26657,6 +26720,8 @@ Change in threshold
 (2) The Governor-General may make an Order in Council increasing the sum set out in subsection (1). The order may apply—
   (a) from the start of the income year in which it is made; or
   (b) to amounts of income derived after the date on which the order is made.
+Secondary legislation
+(3) An Order in Council under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### HA 10 Nature of LAQC shares
 [Repealed]
@@ -30925,6 +30990,8 @@ Named company
 (3) For the purposes of subsection (2), company A must be a company named in the order.
 Application of order
 (4) The order may specify a period or periods to which it applies. If no period is specified, the order applies to the whole commonality period.
+Secondary legislation
+(5) An Order in Council under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart ID — Use of tax losses by consolidated groups
 
@@ -33112,6 +33179,8 @@ Recommendation
     (iii) the fiscal impact of the recommendation.
 Application for future tax years
 (4) An addition or removal by Order in Council under this section must apply for the income year corresponding to the tax year after the tax year in which it is made, and subsequent income years.
+Secondary legislation
+(4B) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Sunset
 (5) An Order in Council under this section expires on the date that is 3 years after the last day of the tax year that the Order first applies for.
 
@@ -34185,7 +34254,9 @@ How movement in CPI determined
 Order in Council under subsection (1)﻿(ab)
 (2C)
 Timing of Order in Council
-(3) An Order in Council made under this section must be made no later than 1 December in each year and must apply from 1 April following that date.
+(3) An Order in Council made under this section must be published under the Legislation Act 2019 no later than 1 December in each year and must apply from 1 April following that date.
+Secondary legislation
+(3B) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Review of in-work tax credit
 (4) The Minister responsible for the Inland Revenue Department, in consultation with the Minister responsible for the department currently responsible for administering the Social Security Act 2018, must cause a review to be undertaken of the amounts of the in-work tax credit allowable under subparts MB to MF and MZ.
 Timing of review
@@ -38152,6 +38223,8 @@ Employment-related loans
 (3) The Governor-General may make regulations by Order in Council to declare the rate of interest applying to employment-related loans.
 Application to quarters
 (4) When regulations referred to in subsection (3) are made, they apply to quarters starting from a date at least 1 month following the date the regulations were made. Regulations that reduce the rate of interest from the prescribed rate of interest at the time, if made at least 1 month before the quarter ends, may apply for that quarter.
+Secondary legislation
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### RA 22 Limits on application of other provisions for purposes of PAYE rules
 Amounts not separated
@@ -38918,6 +38991,8 @@ Discount rate
 (4) The discount rate is—
   (a) 6.7%, if no rate is set under paragraph (b):
   (b) the rate set by the Governor-General by Order in Council.
+Secondary legislation
+(5) An Order in Council under subsection (4)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### RC 39 Credit treated as payment of income tax
 A credit of an early-payment discount under section RC 38 is treated as a payment made by a small-business person on the day after the last day of the income year referred to in section RC 38 as income tax for the income year.
@@ -39033,6 +39108,7 @@ Persons treated as single employers
     (v) another fiduciary relationship.
 Threshold changes by Order in Council
 (7) The Governor-General may, on the recommendation of the Minister of Revenue, make an Order in Council amending the threshold amount referred to in subsection (2). Before making the recommendation, the Minister must undertake consultation on the proposed amendment that is appropriate and reasonable for the purposes of this section.
+(8) An Order in Council under subsection (7) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Types of PAYE income payments**
 
@@ -39825,6 +39901,8 @@ Exception for subsidised transport
 (3) Despite section RD 47(1)﻿(c)﻿(i), if the employer provides subsidised transport under section CX 9 (Subsidised transport) with a taxable value over the threshold, they may pool the value of the benefit under section RD 53 if all their employees have the same or a similar entitlement to the fringe benefit.
 Amending thresholds
 (4) The Governor-General by Order in Council may determine the amount of the thresholds referred to in section RD 47, setting out the first tax year in which the threshold is to apply.
+Secondary legislation
+(5) An Order in Council under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### RD 50 Employer’s liability for attributed benefits
 When this section applies
@@ -45697,7 +45775,7 @@ In this Act, unless the context requires otherwise,—
       (vii) a superannuation fund:
       (viii) an employee share purchase scheme:
       (ix) a fund that meets the requirements of section CW 45 (Funeral trusts):
-      (x) any other trust of any specified kind that is declared by the Governor-General, by Order in Council, not to be a unit trust for the purposes of section HD 13 (Unit trusts)
+      (x) any other trust of any specified kind that is declared not to be a unit trust for the purposes of section HD 13 (Unit trusts) by the Governor-General by Order in Council (and such an order is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
   - **unit trust manager** is defined in section CD 16(4) (Certain dividends not increased by tax credits) for the purposes of that section
   - **unlisted trust** is defined in section CD 22(9) (Returns of capital: off-market share cancellations) for the purposes of that section
   - **unlisted widely-held trust** means a widely-held trust the units or interests in which are not quoted on the official list of a recognised exchange
@@ -46766,6 +46844,8 @@ General conversion rates and calculation methods approved by Commissioner
 (5) Despite subsection (2), the amount may be converted into New Zealand currency by applying a rate—
   (a) set by the Commissioner for general use for the purposes of this section:
   (b) calculated using a method approved by the Commissioner for general use for the purposes of this section.
+Secondary legislation
+(5B) An instrument that sets a rate, or sets out an approved method, for general use under subsection (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Specific conversion rates and calculation methods approved by Commissioner
 (6) Despite subsection (2), a person may convert the amount into New Zealand currency by applying a rate—
   (a) approved by the Commissioner for use in the circumstances of the person:
