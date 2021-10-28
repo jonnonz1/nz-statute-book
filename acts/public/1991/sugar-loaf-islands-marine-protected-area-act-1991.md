@@ -1,5 +1,5 @@
 # Sugar Loaf Islands Marine Protected Area Act 1991
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the setting up and management of the Sugar Loaf Islands Marine Protected Area for the purpose of protecting that area of the sea and foreshore in its natural state as the habitat of marine life, and to provide for the enhancement of recreational activities
 
@@ -64,7 +64,8 @@ Nothing in this Act shall limit or affect—in respect of the New Plymouth Power
   (b) pursuant to an authorisation given in writing by the Director-General; or
   (c) where it is necessitated by stress or emergency.
 (3) Where a vessel anchors in the Protected Area in circumstances of stress or emergency, any person may take such measures as may be reasonably necessary to avoid the loss of or injury to human life or property.
-(4) The Director-General may, by notice in the Gazette, declare anchoring to be prohibited in any specified waters of the Protected Area; and, in that case, no vessel shall anchor in those waters except in the circumstances specified in subsection (2)(c).
+(4) The Director-General may declare anchoring to be prohibited in any specified waters of the Protected Area; and, in that case, no vessel shall anchor in those waters except in the circumstances specified in subsection (2)﻿(c).
+(5) A declaration under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 10 Offences
 (1) Every person commits an offence who—
