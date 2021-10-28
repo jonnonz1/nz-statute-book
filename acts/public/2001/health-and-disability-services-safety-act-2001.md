@@ -1,5 +1,5 @@
 # Health and Disability Services (Safety) Act 2001
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Health and Disability Services (Safety) Act 2001.
@@ -83,6 +83,7 @@ The purpose of this Act is to—
   (a) service standards for services of the kind concerned are in force, or will be in force within 12 months of the commencement of the order; and
   (b) the order will come into force late enough to give affected providers a reasonable time to comply with the standards, and in any event no earlier than 12 months after it is made.
 (3) An order cannot be revoked by Order in Council; and cannot be amended by Order in Council except to correct an error or omission.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 8 Services to which Act does not apply
 (1) This Act does not apply to services provided in premises that are—
@@ -91,6 +92,7 @@ The purpose of this Act is to—
   (c) a children's health camp operated by Children's Health Camps—The New Zealand Foundation for Child and Family Health and Development.
 (2) This Act does not apply to services provided in any premises (other than any particular premises specified in the order as being premises to which this Act applies) that are premises of a kind for the time being declared by the Governor-General by Order in Council to be premises to which this Act does not apply.
 (3) An order under subsection (2) may be amended or revoked by Order in Council; but the amending or revoking order must not come into force any sooner than 12 months after it is made.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 9 Providers of health care services to meet service standards
 A person providing health care services of any kind must do so—
@@ -114,28 +116,27 @@ This Act binds the Crown.
 **Service standards**
 
 ### 13 Minister may approve service standards
-The Minister may, by written notice describing by name the standards concerned, approve standards for providing health or disability services of any kind.
+(1) The Minister may approve standards for providing health or disability services of any kind.
+(2) Service standards approved under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 14 Amendments and revocations
-(1) The Minister may, by written notice describing by name both the standards concerned and the amendments concerned, approve amendments of service standards.
-(2) The Minister may, by written notice describing by name the standards or amendments concerned, revoke—
-  (a) the approval under section 13 of any service standards:
-  (b) the approval under subsection (1) of any amendments of service standards.
+(1) The Minister may approve amendments of service standards.
+(2) The Minister may revoke—
+  (a) service standards approved under section 13:
+  (b) an amendment approved under subsection (1).
+(3) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an amendment approved under subsection (1):
+  (b) a revocation under subsection (2).
 
 ### 15 Power not to be delegated
 (1) The Minister may not delegate the power to approve standards or amendments of standards, or the power to revoke approvals of standards or amendments of standards.
 (2) Subsection (1) overrides clause 5 of Schedule 6 of the Public Service Act 2020.
 
 ### 16 Status of notices
-(1) A notice under section 13 or 14 is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(2) The Director-General may sign a written certificate that, on a day stated in the certificate, a document (or a document and 1 or more amendments to it) attached to the certificate constituted service standards for providing health or disability services of a kind or kinds stated in the certificate; and—
-  (a) in the absence of proof to the contrary, the certificate is proof of the matters stated in it; and
-  (b) a court or person acting judicially must take judicial notice of the Director-General's signature.
+[Repealed]
 
 ### 17 Copies of standards to be available
-The Director-General must take all practicable steps to ensure that—
-  (a) there are available for purchase at a reasonable price during ordinary business hours, at places designated by the Director-General for the purpose, enough copies of all service standards and amendments of service standards for the time being in force; and
-  (b) copies of those standards and amendments, and a list of those places, are available for inspection free of charge during ordinary office hours, at the offices of the Ministry.
+[Repealed]
 
 ### 18 Criteria for approval of standards
 (1) The Minister must not approve standards for providing health or disability services of any kind unless the Minister—
@@ -188,14 +189,15 @@ If required by section 18 or section 19 or section 24 to consult on a matter rel
   (b) criteria for assessing whether outcomes are appropriate.
 (3) Subsections (1) and (2) do not limit the generality of section 13.
 
-### 22 Commencement of approvals and revocations
-(1) The following come into force on a day specified in the notice concerned:
-  (a) an approval of service standards:
-  (b) an approval of amendments to service standards:
-  (c) the revocation of the approval of any service standards or amendments of service standards.
-(2) The day must be no earlier than 6 months after the day the notice is given.
-(3) Subsection (2) does not apply to the approval of any of the service standards referred to in section 25(1).
-(4) Subsection (2) does not apply to the approval of amendments to service standards that are being made solely to correct an error or omission.
+### 22 Commencement of service standards
+(1) The following must specify the day on which they come into force:
+  (a) a service standard approved under section 13:
+  (b) an amendment approved under section 14:
+  (c) a revocation under section 14.
+(2) The specified day must be no earlier than 6 months after the day of the approval or revocation.
+(3) However, subsection (2) does not apply to—
+  (a) approved service standards that are referred to in section 25(1); or
+  (b) approved amendments to service standards that are being made solely to correct an error or omission.
 
 ### 23 Minister may grant exemptions
 (1) The Minister may at any time (whether before or after the commencement of the standards concerned), by notice in the Gazette,—
@@ -226,8 +228,8 @@ If required by section 18 or section 19 or section 24 to consult on a matter rel
     (i) be amended; or
     (ii) be replaced by 1 or more new sets of service standards.
 (2) The Minister must consult no later than 4 years after the most recent of the following days:
-  (a) the day the approval of the standards came into force:
-  (b) the day the approval of the most recent amendment of the standards came into force:
+  (a) the day the approved standards came into force:
+  (b) the day the most recent approved amendment of the standards came into force:
   (c) the day the most recent consultation on the standards under this section was begun.
 
 ### 25 Previous consultation sufficient for certain initial standards
@@ -561,6 +563,7 @@ The Director-General may revoke a cessation order or a closing order if satisfie
   (b) prescribing fees for the purposes of this Act, or a means by which fees for the purposes of this Act may be calculated or ascertained:
   (c) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) While there are in force service standards for providing health care services of any kind that state minimum levels of staffing in premises in which services of that kind are being provided, regulations under subsection (1)﻿(a) do not apply in respect of services of that kind.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Offences**
 
