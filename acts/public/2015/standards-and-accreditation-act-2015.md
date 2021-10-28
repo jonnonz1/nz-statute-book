@@ -1,5 +1,5 @@
 # Standards and Accreditation Act 2015
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Standards and Accreditation Act 2015.
@@ -10,6 +10,7 @@ This Act is the Standards and Accreditation Act 2015.
   (b) sections 41, 43(2), 45(2), and 46(2).
 (2) The remainder of this Act comes into force on a date appointed by the Governor-General by Order in Council.
 (3) Any provision of this Act that is not already in force on the day that is 6 months after the date on which this Act receives the Royal assent comes into force on that date.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary and key provisions
 
@@ -131,8 +132,8 @@ The chief executive must appoint a suitable employee of the Ministry to be the N
 (2) Every person purporting to act under any delegation under section 8 is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of the delegation.
 
 ### 10 NZ Standards Executive must advise responsible Ministers before review of standards cited in legislation
-(1) If any New Zealand Standard is cited or incorporated by reference in any Act or regulations, the NZ Standards Executive must advise the responsible Minister of every proposal to amend, revise, revoke, or replace the standard before the proposal is referred to the Board for consideration.
-(2) In subsection (1), responsible Minister, in relation to an Act or regulations, means the Minister of the Crown for the time being responsible for the administration of that enactment.
+(1) If any New Zealand Standard is cited or incorporated by reference in any legislation, the NZ Standards Executive must advise the responsible Minister of every proposal to amend, revise, revoke, or replace the standard before the proposal is referred to the Board for consideration.
+(2) In subsection (1), responsible Minister, in relation to legislation, means the Minister of the Crown for the time being responsible for the administration of that legislation.
 
 **New Zealand Standards Approval Board**
 
@@ -313,18 +314,18 @@ In setting the amount of fees or charges under sections 26 and 27, the NZ Standa
   (d) costs should be identified and allocated as closely as practicable in relation to the tangible value for the sector or sectors to which the New Zealand Standard or group of New Zealand Standards applies:
   (e) the method determined by the NZ Standards Executive for recovering costs for New Zealand Standards development, approval, maintenance, and access should be adaptable to changes and variations in the market for New Zealand Standards and be consistent with the overarching objectives for New Zealand Standards.
 
-**New Zealand Standards and other Acts, regulations, and bylaws**
+**New Zealand Standards and other legislation**
 
 ### 29 Citation of New Zealand Standards
-(1) A New Zealand Standard may be cited in any Act, regulations, or bylaw by the title and number given to it by the NZ Standards Executive.
-(2) If a New Zealand Standard is cited in an enactment by the title and number given to it by the NZ Standards Executive, that citation must, unless the context otherwise requires, be deemed to include and refer to the latest New Zealand Standard with that citation, together with any modifications to it, promulgated before the enactment in which it is cited was passed or made.
+(1) A New Zealand Standard may be cited in any legislation by the title and number given to it by the NZ Standards Executive.
+(2) If a New Zealand Standard is cited in legislation by the title and number given to it by the NZ Standards Executive, that citation must, unless the context otherwise requires, be deemed to include and refer to the latest New Zealand Standard with that citation, together with any modifications to it, promulgated before the legislation in which it is cited was passed or made.
 
-### 30 Regulations or bylaws may be made by referring to or incorporating New Zealand Standards
-(1) Regulations and bylaws made under any Act may be made by referring (with or without modification) to any New Zealand Standard relating to goods, services, processes, or practices of any kind.
-(2) Regulations and bylaws made under any Act may, subject to any copyright, be made by incorporating in whole or in part (and with or without modification) any New Zealand Standard relating to goods, services, processes, or practices of any kind.
+### 30 Secondary legislation may be made by referring to or incorporating New Zealand Standards
+(1) Secondary legislation may be made by referring (with or without modification) to any New Zealand Standard relating to goods, services, processes, or practices of any kind.
+(2) Secondary legislation may, subject to any copyright, be made by incorporating in whole or in part (and with or without modification) any New Zealand Standard relating to goods, services, processes, or practices of any kind.
 
-### 31 References to New Zealand Standards in other enactments
-A reference in any other Act, regulations, or bylaw to a standard, standard specification, or New Zealand Standard made under this Act, the Standards Act 1988, or the Standards Act 1965 is deemed to be a reference to a New Zealand Standard within the meaning of this Act.
+### 31 References to New Zealand Standards in other legislation
+A reference in any legislation (other than this Act) to a standard, standard specification, or New Zealand Standard made under this Act, the Standards Act 1988, or the Standards Act 1965 is deemed to be a reference to a New Zealand Standard within the meaning of this Act.
 
 **Proof of New Zealand Standards**
 
@@ -411,9 +412,10 @@ The Accreditation Council is exempt from payment of income tax.
 ## Part 2 — Miscellaneous provisions
 
 ### 41 Regulations
-The Governor-General may, by Order in Council, make regulations providing for any matter that is contemplated by this Act as necessary—
+(1) The Governor-General may, by Order in Council, make regulations providing for any matter that is contemplated by this Act as necessary—
   (a) for giving it full effect; or
   (b) for its administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 42 Disestablishment of Standards Council
 The Standards Council (continued under section 3 of the Standards Act 1988) is disestablished.
