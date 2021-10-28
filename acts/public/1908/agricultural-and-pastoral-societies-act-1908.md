@@ -1,5 +1,5 @@
 # Agricultural and Pastoral Societies Act 1908
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate certain enactments of the General Assembly relating to the incorporation and management of Agricultural and Pastoral Societies
 
@@ -17,6 +17,7 @@ In this Act, if not inconsistent with the context,—
 ### 3 Associations of 50 persons may be incorporated
 (1) Where any number of persons not being less than 50 have associated themselves together into a society for any of the objects hereinafter mentioned, the Governor-General in Council may, on the petition of not fewer than two-thirds of such persons, incorporate the petitioners and all other persons who at that time are members of the society, or are thereafter admitted members thereof agreeably to the rules of the society and the provisions of this Act, into a body corporate by a style to be named in the Order in Council incorporating the same.
 (2) Every such society, when incorporated, shall have perpetual succession and a common seal, and in its corporate name shall be able to do and suffer all that corporate bodies may do and suffer.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4 Property of association to belong to corporate society
 All the real and personal property belonging to or held in trust for any society shall, on and after the incorporation of such society, vest in and belong to the incorporated society under its corporate name.
@@ -63,7 +64,7 @@ The objects of every society shall be some 1 or more, either wholly or in part, 
 (3) All the bylaws, rules, regulations, and orders in force at the time of the incorporation of the society shall, until altered, be duly observed and kept, provided that the same are not contrary to or inconsistent with this Act.
 
 ### 12 General bylaws to apply to all societies
-((1)) Until the same are altered under the provisions of the last preceding section, the following bylaws shall have effect in respect of every society, that is to say:(r)
+((1)) Until the same are altered under the provisions of the last preceding section, the following bylaws shall have effect in respect of every society, that is to say: (r)
   (a) the society may consist of ordinary, honorary, and life members, who shall be elected by ballot at any meeting of the society in the manner prescribed by any bylaw:
   (b) the society shall hold 1 or more general meetings in each year, upon such days as the committee of the society fixes at any of its ordinary meetings, and makes known, together with the object of the meeting, at least 14 days beforehand, by advertisement in any newspaper published or circulating in the district wherein the society holds its meetings:
   (c) at all general meetings of the society 20 shall be a quorum; and the president, or in his absence the vice-president, or in the absence of the vice-president some member elected by the meeting, shall preside; and all questions before general meetings shall be decided by a majority of the votes of the members present:
@@ -88,7 +89,7 @@ The objects of every society shall be some 1 or more, either wholly or in part, 
     (B) in any other case, either generally accepted accounting practice or a non-GAAP standard that applies for the purposes of this section:
   (iii) the treasurer shall produce the said accounts, duly audited, at the annual meeting, and submit an abstract thereof for the consideration of the society:
   (iv) such accounts, statement, and report shall be submitted to the society at the annual meeting, and copies thereof, as finally approved, shall be forwarded to the Minister of Agriculture and Fisheries, who, if he thinks fit, may lay the same before Parliament.
-(2) In subsection (1)(r),—
+(2) In subsection (1)﻿(r),—
   (a) non-GAAP standard has the same meaning as in section 5 of the Financial Reporting Act 2013:
   (b) specified not-for-profit entity has the meaning set out in section 46 of the Financial Reporting Act 2013:
   (c) generally accepted accounting practice has the same meaning as in section 8 of the Financial Reporting Act 2013.
@@ -98,7 +99,7 @@ The committee may cause actions to be instituted against members for recovery of
 
 ### 14 Members may resolve to put society into liquidation
 (1) A society may be put into liquidation if the society, at a general meeting of its members, passes a resolution appointing a liquidator, and the resolution is confirmed at a subsequent general meeting called together for that purpose and held not earlier than 30 days after the date on which the resolution to be confirmed was passed.
-(2) Subject to this Act and to any regulations made under this Act, the provisions of Parts 16 and 17 of the Companies Act 1993 shall apply to the liquidation, with such modifications as may be necessary, as if the society was a company that had been put into liquidation under section 241(2)(a) of that Act.
+(2) Subject to this Act and to any regulations made under this Act, the provisions of Parts 16 and 17 of the Companies Act 1993 shall apply to the liquidation, with such modifications as may be necessary, as if the society was a company that had been put into liquidation under section 241(2)﻿(a) of that Act.
 
 ### 15 High Court may put society into liquidation
 A society may be put into liquidation by the appointment by the High Court as liquidator of a named person or an Official Assignee for a named district, in the following circumstances, that is to say:
@@ -111,18 +112,20 @@ A society may be put into liquidation by the appointment by the High Court as li
 ### 16 Application to Court to appoint liquidator
 (1) Any application to the High Court for the appointment of a liquidator of a society shall be made by the society, or by a member, or by a creditor, or by the Minister of Agriculture.
 (2) Subject to this Act and to any regulations made under this Act, Parts 16 and 17 of the Companies Act 1993 shall apply, with such modifications as may be necessary,—
-  (a) to the application for the appointment of a liquidator as if the application was an application under section 241(2)(c) of that Act; and
-  (b) to the liquidation as if the liquidator had been appointed under section 241(2)(c) of that Act.
+  (a) to the application for the appointment of a liquidator as if the application was an application under section 241(2)﻿(c) of that Act; and
+  (b) to the liquidation as if the liquidator had been appointed under section 241(2)﻿(c) of that Act.
 
 ### 17 Dissolution of society by Governor-General
 (1) If at any time the Governor-General is satisfied that a society is no longer carrying on its operations or has been incorporated by reason of a mistake of fact or law, he may, by Order in Council, declare the society to be dissolved as from a date to be specified in the order.
 (2) If at any time the Governor-General is satisfied that a declaration of dissolution under this section was made in error and ought to be revoked, he may, by Order in Council, revoke the declaration, and the society shall thereupon be revived from the date of the dissolution thereof as if no such dissolution had taken place.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 18 Disposition of surplus assets
 (1) On the liquidation of a society, or on its dissolution by the Governor-General, all surplus assets after the payment of all costs, debts, and liabilities shall, subject to any trust affecting them, be disposed of in the manner provided by the rules of the society.
 (2) If the surplus assets are subject to any trust or if they cannot be disposed of in accordance with the rules of the society, they shall be disposed of as the High Court or a Judge thereof directs.
 
 ### 19 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for carrying into effect the objects of this Act so far as they relate to the winding up of societies.
+(1) The Governor-General may from time to time, by Order in Council, make regulations for carrying into effect the objects of this Act so far as they relate to the winding up of societies.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule Schedule — Enactments consolidated
