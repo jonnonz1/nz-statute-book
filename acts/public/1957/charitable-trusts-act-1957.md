@@ -1,5 +1,5 @@
 # Charitable Trusts Act 1957
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to charitable trusts
 
@@ -424,6 +424,7 @@ In any case where any company or society or corporation incorporated under this 
 
 ### 62 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make all such regulations as in his opinion may be necessary or expedient for giving full effect to the provisions of this Act and for the due administration thereof.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (2)
 
 ### 63 Repeals, amendment, and savings
