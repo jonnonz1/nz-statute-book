@@ -1,5 +1,5 @@
 # Animal Products (Ancillary and Transitional Provisions) Act 1999
-_Consolidation as at 2005-06-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for matters ancillary to the enactment of the Animal Products Act 1999, and in particular to—arepeal the Meat Act 1981 on 1 July 2006; andbamend that Act pending its repeal; andbarepeal the Dairy Industry Act 1952 on 1 June 2005; andcmake related and consequential amendments to other Acts and regulations; anddprovide for transitional matters concerning the coming into effect of the Animal Products Act 1999, and particularly its relationship with the Meat Act 1981 over the period to 1 July 2006
 
@@ -81,15 +81,15 @@ Pending its repeal by section 5, the Meat Act 1981 is amended in the manner indi
   (b) 1 July 2004, in the case of operations carried out by—
     (i) all remaining businesses licensed under any of sections 15, 16, 18, 19, and 22 of the Meat Act 1981, other than the licensees specified in Schedule 3B to whom paragraph (a) does not apply; and
     (ii) all primary processors of ostriches, emus, and possums; and
-    (iii) all renderers licensed under section 20(1)(b) of the Meat Act 1981; and
+    (iii) all renderers licensed under section 20(1)﻿(b) of the Meat Act 1981; and
     (iv) all poultry meat primary processors; and
     (v) all egg processors who, as producers, are subject to paying a levy under the Commodity Levies (Eggs) Order 1999 (SR 1999/56):
   (c) 1 July 2005, in the case of operations carried out by—
-    (i) all primary producers of eggs to whom paragraph (b)(v) does not apply; and
+    (i) all primary producers of eggs to whom paragraph (b)﻿(v) does not apply; and
     (ii) all dual operator butchers; and
-    (iia) all renderers to whom paragraph (b)(iii) does not apply; and
-    (iii) all petfood processors (whether or not licensed under section 20(1)(b) of the Meat Act 1981); and
-    (iv) all processors of by-products licensed under section 20(1)(c) of the Meat Act 1981:
+    (iia) all renderers to whom paragraph (b)﻿(iii) does not apply; and
+    (iii) all petfood processors (whether or not licensed under section 20(1)﻿(b) of the Meat Act 1981); and
+    (iv) all processors of by-products licensed under section 20(1)﻿(c) of the Meat Act 1981:
   (d) 1 July 2006, in the case of all other existing animal product businesses (including those specified in Schedule 3B) of a kind required to have a risk management programme.
 (2) The processors, licensees, and business specified in Schedules 3A and 3B are deemed to include any person who, on or after 30 May 2002, is the heir, successor, or assign of the named processor, licensee, or business.
 (3) Despite subsection (1), once an existing business that was subject to the Meat Act regime or the Apiaries Act regime as at the commencement of Part 2 of the Animal Products Act 1999 has had a risk management programme registered under that Part in respect of all or any part of its business operations,—
@@ -117,7 +117,7 @@ Where any operation of an animal product business subject to the Meat Act regime
     (i) regulations made under section 25 or section 73 specifically apply any requirement of or under the relevant regime to such an operation; or
     (ii) Part 3A of the Meat Act 1981 continues to apply in respect of cost recovery matters (but subject to section 24 of this Act); and
   (b) the Animal Products Act 1999 applies in respect of the operation accordingly; and
-  (c) as specified in section 9(2)(b), an operation may not revert to being subject to the Meat Act regime or the Apiaries Act regime once it has been subject to a registered risk management programme.
+  (c) as specified in section 9(2)﻿(b), an operation may not revert to being subject to the Meat Act regime or the Apiaries Act regime once it has been subject to a registered risk management programme.
 
 **Regulated control schemes**
 
@@ -192,6 +192,7 @@ A person who, on the day that Part 2 of the Animal Products Act 1999 comes into 
 (5) Where there is any shortfall or over-recovery of costs for any industry sector in respect of any period at whose expiry a fee, charge, or levy specified in Schedule 4 or Schedule 5 ceases to apply by reason of being superseded by regulations made under Part 9 of the Animal Products Act 1999 or section 25 of this Act, that shortfall or over-recovery may be taken into account in setting, under Part 9 or section 25, the relevant fee, levy, or charge that is to apply for any subsequent period to that industry sector or any relevant part of that industry sector.
 (6) The Director-General may grant an exemption from, or waive or refund, any fee, charge, or levy specified in Schedule 4 or Schedule 5, in whole or in part, in any particular case or class of cases.
 (7) Except as otherwise specifically provided in those schedules in relation to fees and levies determined on an hourly basis or on the basis of the number of animals involved in a relevant activity, the amounts specified in Schedules 4 and 5 are inclusive of goods and services tax.
+(8) An exemption under subsection (6) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to a particular case.
 
 ### 23 Part 3A of Meat Act 1981 continues to apply until regulations otherwise provide, etc
 (1) Part 3A of the Meat Act 1981 (as amended by Part 4 of this Act) continues to apply to plants under the Meat Act regime until the close of 30 June 2006 in respect of the recovery of inspection costs, but subject to section 24 of this Act and to regulations made under Part 9 of the Animal Products Act 1999 or under section 25 of this Act.
@@ -212,12 +213,12 @@ A person who, on the day that Part 2 of the Animal Products Act 1999 comes into 
 (2) For the purposes of this section, any contract under Part 3A of the Meat Act 1981 may, by agreement between the Director-General and the plant manager, provide that the costs to be recovered in respect of operations at a double-regime plant are to be recovered—and, where a contract does so provide, the relevant cost recovery regime applies to operations at the double-regime plant in accordance with this section despite anything in this Act, the Animal Products Act 1999, or the Meat Act 1981.
   (a) by applying the cost recovery regime of the Animal Products Act 1999 (including Schedules 4 and 5 of this Act) to the whole of the animal product business at the plant (with any appropriate modifications that may be needed to provide for the application of comparable costs); or
   (b) by applying the cost recovery regime of Part 3A of the Meat Act 1981 to the whole of the animal product business at the plant (except to the extent of any fees and charges payable under Part 1 of Schedule 4 of this Act);—
-(3) Where under subsection (2)(a) the contract applies the cost recovery regime of the Animal Products Act 1999 to all the animal product business operations of a double-regime plant,—
+(3) Where under subsection (2)﻿(a) the contract applies the cost recovery regime of the Animal Products Act 1999 to all the animal product business operations of a double-regime plant,—
   (a) that fact must be noted in the contract; and
   (b) the contract must identify the kinds of fees, charges, and levies under the Animal Products Act 1999 that are to apply in respect of the plant's operations under the Meat Act 1981; and
   (c) the contract must specify any modifications that may be necessary to allow for the proper application of those fees, charges, or levies (such as deeming services provided by the Ministry under the Meat Act 1981 to be equivalent to verification or other services or related functions performed by the Ministry under the Animal Products Act 1999); and
   (d) the contract then has effect according to its tenor, and the fees, charges, and levies concerned (including any amendments of those fees, charges, and levies) apply in relation to the plant (with the necessary modifications) as if it were subject to the cost recovery provisions of the Animal Products Act 1999.
-(4) Where under subsection (2)(b) the contract applies the cost recovery regime of Part 3A of the Meat Act 1981 to all the animal product business operations of a double-regime plant,—
+(4) Where under subsection (2)﻿(b) the contract applies the cost recovery regime of Part 3A of the Meat Act 1981 to all the animal product business operations of a double-regime plant,—
   (a) that fact must be noted in the contract; and
   (b) the contract must identify the kinds of fees, charges, and levies that are not to be recovered under the Animal Products Act 1999 and are instead to be recovered under the contract; and
   (c) the plant manager, and any relevant operation at the plant, are to be treated as exempt from any requirement for the payment of the identified fees, charges, and levies under the Animal Products Act 1999.
@@ -268,7 +269,7 @@ A person who, immediately before the lapse of their licence under any of section
 Every animal product officer appointed under Part 7 of the Animal Products Act 1999 has all the powers and functions of an Inspector under the Meat Act 1981; and references in that Act to Inspectors include references to animal product officers.
 
 ### 29A Non-Ministry personnel acting as Inspectors under Meat Act 1981
-Where any person who is not an employee or officer of the Ministry is for any purpose treated as or deemed to be an Inspector appointed under the Meat Act 1981, whether by regulation 4(2)(b) of the Animal Products (Ancillary and Transitional Provisions) Regulations 2000 or by any other regulation made under this Act or the Animal Products Act 1999,—
+Where any person who is not an employee or officer of the Ministry is for any purpose treated as or deemed to be an Inspector appointed under the Meat Act 1981, whether by regulation 4(2)﻿(b) of the Animal Products (Ancillary and Transitional Provisions) Regulations 2000 or by any other regulation made under this Act or the Animal Products Act 1999,—
   (a) that person is not for that reason to be treated as an employee of the Ministry, and the Crown is not liable as employer of that person for any act or omission of the person in relation to the purposes for which the person is treated as or deemed to be an Inspector; and
   (b) any liability of the person's actual employer in their capacity as employer of the person is unaffected.
 
