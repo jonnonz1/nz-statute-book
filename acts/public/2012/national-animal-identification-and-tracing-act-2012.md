@@ -1,5 +1,5 @@
 # National Animal Identification and Tracing Act 2012
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the National Animal Identification and Tracing Act 2012.
@@ -13,6 +13,7 @@ This Act is the National Animal Identification and Tracing Act 2012.
   (a) the date to be fixed by the Governor-General by Order in Council made under section 67(1) in relation to the species:
   (b) 1 March 2013.
 (4) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -268,12 +269,13 @@ The Minister may, by notice in writing to the NAIT organisation, state the Gover
 (3) However, the Minister is not required to consult if the Minister is satisfied that—
   (a) the policy or standard needs to be issued, amended, or revoked urgently; or
   (b) the amendment to the policy or standard is minor and will not adversely affect the substantial interests of any person.
-(4) If the Minister issues, amends, or revokes a policy or standard, the Minister must give notice of the issue, amendment, or revocation—
+(4) If the Minister issues, amends, or revokes a policy, the Minister must give notice of the issue, amendment, or revocation—
   (a) in the Gazette; and
   (b) anywhere else that the Minister considers appropriate, including on (but not limited to) an Internet site maintained by or on behalf of the Ministry.
 (5) The notice must—
-  (a) give a general indication of the nature of the policy or standard; and
-  (b) specify where a copy of the policy or standard may be obtained.
+  (a) give a general indication of the nature of the policy; and
+  (b) specify where a copy of the policy may be obtained.
+(6) A standard under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 13 NAIT organisation must provide Minister with requested information
 (1) The Minister may request the NAIT organisation to provide to the Minister, in a form the Minister specifies, any information relating to the performance of any of its functions or duties or the exercise of any of its powers under this Act or regulations made under this Act—
@@ -302,9 +304,7 @@ The Minister may, by notice in writing to the NAIT organisation, state the Gover
   (a) the NAIT animal identification standard needs to be issued, amended, or revoked urgently; or
   (b) an amendment to the NAIT animal identification standard is minor and will not adversely affect the substantial interests of any person.
 (5) Any consultation undertaken by NAIT Limited before the commencement of subsection (3)﻿(b) in respect of a NAIT animal identification standard is to be treated as consultation by the NAIT organisation for the purposes of subsection (3)﻿(b).
-(6) If the NAIT organisation issues, amends, or revokes a NAIT animal identification standard, the NAIT organisation must give notice of the issue, amendment, or revocation—
-  (a) in the Gazette; and
-  (b) anywhere else that the NAIT organisation considers appropriate, including on (but not limited to) an Internet site maintained by or on behalf of the NAIT organisation.
+(6) A standard under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 15 NAIT organisation to approve identification systems
 (1) The NAIT organisation may approve—
@@ -375,9 +375,7 @@ An information provider may, on behalf of a PICA, perform 1 or more of the follo
   (a) the accreditation standard needs to be issued, amended, or revoked urgently; or
   (b) an amendment to the accreditation standard is minor and will not adversely affect the substantial interests of any person.
 (5) Any consultation undertaken by NAIT Limited before the commencement of subsection (3)﻿(a) in respect of an accreditation standard is to be treated as consultation by the NAIT organisation for the purposes of subsection (3)﻿(a).
-(6) If the NAIT organisation issues, amends, or revokes an accreditation standard, the NAIT organisation must give notice of the issue, amendment, or revocation—
-  (a) in the Gazette; and
-  (b) anywhere else that the NAIT organisation considers appropriate, including on (but not limited to) an Internet site maintained by or on behalf of the NAIT organisation.
+(6) An accreditation standard under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 20 NAIT organisation may accredit entities as information providers and entities dealing with NAIT animals
 (1) The NAIT organisation may accredit—
@@ -390,6 +388,7 @@ An information provider may, on behalf of a PICA, perform 1 or more of the follo
   (c) be accompanied by the fee required by regulations (if any).
 (4) For the purpose of assessing an application, the NAIT organisation may require the applicant to supply information additional to that contained in the application.
 (4A) The NAIT organisation may, if it thinks fit, waive the fee payable for an application, in whole or in part, or in any particular case or class of cases.
+(4B) A waiver under subsection (4A) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to a particular case.
 (5) The NAIT organisation must, within 20 working days of the date on which the application was submitted,—
   (a) determine the application; and
   (b) inform the applicant of the determination in writing.
@@ -588,7 +587,8 @@ Every PICA must ensure that information that must be provided to the NAIT organi
   (a) may only be given in the following circumstances:
     (i) if a state of national or local emergency is declared under Part 4 of the Civil Defence Emergency Management Act 2002; or
     (ii) if the NAIT organisation is satisfied on reasonable grounds that non-compliance with the time limits prescribed by regulations made under this Act is justified; and
-  (b) must be published in the Gazette and may be given anywhere else that the NAIT organisation considers appropriate, including on (but not limited to) an Internet site maintained by or on behalf of the NAIT organisation.
+  (b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (c) may be given anywhere else that the NAIT organisation considers appropriate, including on (but not limited to) an Internet site maintained by or on behalf of the NAIT organisation.
 (3) If, before notice is given under subsection (1), a PICA has failed to comply with the time limits prescribed by regulations made under this Act, the NAIT organisation may extend the time for the PICA to comply with those time limits.
 (4) However, subsection (3) applies only if the NAIT organisation is satisfied that the PICA's non-compliance was caused by, or is justifiable in, the circumstances leading to notice being given under subsection (1).
 (5) The alternative time limits notified by the NAIT organisation under subsection (1) are enforceable by the NAIT organisation as if the time limits were prescribed by regulations made under this Act.
@@ -944,6 +944,7 @@ In making decisions under section 57, the Minister must have regard to the follo
   (b) the persons liable for the payment of the fees or charges:
   (c) the persons, if any, exempt from paying the fees or charges.
 (2) If an exemption is provided under subsection (1)﻿(c), the reasons for it must be set out in the regulations' explanatory note.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 62 Regulations may impose levies
 (1) The Governor-General may, by Order in Council and on the recommendation of the Minister, make regulations providing for the payment of a levy.
@@ -976,6 +977,9 @@ In making decisions under section 57, the Minister must have regard to the follo
   (c) a method of paying the levy that may be used by persons who object on conscientious or religious grounds to paying the levy in the manner provided in the regulations:
   (d) a requirement for the funds from which the collectors of levy payments are to make payments to the NAIT organisation to be held on trust in a separate account.
 (4) If an exemption is provided under subsection (2)﻿(g), the reasons for it must be set out in the regulations' explanatory note.
+(5) Regulations under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 63 NAIT organisation to account for levy
 (1) As soon as practicable after the end of a financial year in which a levy has been paid to the NAIT organisation, the organisation must prepare the following for the year:
@@ -991,10 +995,7 @@ In making decisions under section 57, the Minister must have regard to the follo
   (b) the findings of the audit as soon as practicable after the audit is completed.
 
 ### 64 Levy regulations are confirmable instruments
-The explanatory note of regulations made under section 62 must indicate that—
-  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### 65 Failure to pay
 (1) This section applies if a fee, charge, or levy imposed by regulations made under section 61 or 62 is wholly or partly unpaid 20 working days after a request for payment.
@@ -1016,6 +1017,8 @@ The explanatory note of regulations made under section 62 must indicate that—
 (2) The Governor-General may, by Order in Council and on the recommendation of the Minister, amend Schedule 1 by—
   (a) adding a species or sub-group of species of animal; or
   (b) removing a species or sub-group of species of animal.
+(2A) An order under subsection (1) or (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(2B) An order under subsection (2) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 (3) The Minister must take the following steps to consult on the Minister's proposal to make the recommendation, before making it:
   (a) for the NAIT organisation, current NAIT participants, the industry concerned, and persons affected by the addition or removal,—
     (i) ensure that they, or their representatives, are given notice of it; and
@@ -1063,10 +1066,7 @@ Second scenario: not industry-led initiative
     (ii) the presence of the species or sub-group of species in the schedule is no longer necessary to meet any of the purposes specified in section 3.
 
 ### 68 Orders are confirmable instruments
-The explanatory note of an Order in Council made under section 67(2) must indicate that—
-  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### 69 Other regulations
 (1) The Governor-General may, by Order in Council and on the recommendation of the Minister, make regulations for any of the purposes set out in subsection (3).
@@ -1097,6 +1097,7 @@ The explanatory note of an Order in Council made under section 67(2) must indica
   (p) prescribing any additional particulars required in an infringement notice for an infringement offence:
   (q) prescribing an infringement fee no greater than $1,000 payable for each infringement offence:
   (r) providing for matters that are contemplated by this Act or necessary to give it full effect or necessary for its administration.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 70 Incorporation of material by reference
 (1) Regulations and standards made under this Act may incorporate by reference all or any part of the following kinds of written material:
@@ -1553,9 +1554,8 @@ If a body corporate is convicted of an offence against this Act, a director or m
     (ii) setting out where and when the material may be inspected free of charge, and how it may be purchased.
 (2) A failure to comply with subclause (1) does not invalidate the regulations or standards that incorporate the material by reference.
 
-### 6 Application of Legislation Act 2012 to material incorporated by reference
-(1) Subpart 1 of Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in regulations.
-(2) Nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in regulations or standards made under this Act to be presented to the House of Representatives.
+### 6 Application of Legislation Act 2019 to material incorporated by reference
+Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in regulations merely because it is incorporated.
 
 ### 7 Application of Regulations (Disallowance) Act 1989
 [Repealed]
