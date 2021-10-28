@@ -1,5 +1,5 @@
 # Health and Safety at Work Act 2015
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Health and Safety at Work Act 2015.
@@ -74,25 +74,25 @@ Notices issued under this Act
     (ii) any other service carried out by the Armed Forces overseas that is authorised by the Government of New Zealand and that involves peacekeeping, the maintenance or restoration of law and order or the functioning of government institutions, or any other activity in respect of which the Government of New Zealand wishes to provide assistance (whether or not in conjunction with personnel from 1 or more other countries):
     (iii) any service or activity or class of service or activity (whether carried out in New Zealand or overseas) that is declared under subsection (5) to be an operational activity for the purposes of this section; and
   (b) includes any training carried out (whether in New Zealand or overseas) directly in preparation for any specific operational activity within the meaning of paragraph (a)﻿(i) to (iii).
-(5) The Chief of Defence Force may, by notice in writing, declare any service or activity or class of service or activity to be an operational activity for the purposes of this section.
+(5) The Chief of Defence Force may declare any service or activity or class of service or activity to be an operational activity for the purposes of this section.
 (6) As soon as practicable after making a declaration under subsection (5), the Chief of Defence Force must—
   (a) give written notice of the declaration to the Minister of Defence; and
-  (b) provide a copy of the notice to the regulator.
-(7) A declaration made under subsection (5) must be published on an Internet site maintained by or on behalf of the New Zealand Defence Force.
-(8) A declaration made under subsection (5) is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+  (b) provide a copy of the declaration to the regulator.
+(7) A declaration under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(8)
 (9) In commanding the New Zealand Defence Force, the Chief of Defence Force must take into account the need to promote the purpose of this Act to the greatest extent consistent with maintaining the defence of New Zealand.
 
 ### 8 Application of Act to intelligence and security agencies
 (1) Nothing in this Act requires or permits a person to take any action, or to refrain from taking any action, that would be, or could reasonably be expected to be, prejudicial to the security or defence of New Zealand or the international relations of the Government of New Zealand.
 (2) Without limiting subsection (1),—
-  (a) the Director-General of Security may, by notice in writing, declare that specified provisions of this Act or regulations do not apply (or apply with modifications) in relation to any worker carrying out work for the Security Intelligence Service:
-  (b) the Director-General of the Government Communications Security Bureau may, by notice in writing, declare that specified provisions of this Act or regulations do not apply (or apply with modifications) in relation to any worker carrying out work for the Bureau.
+  (a) the Director-General of Security may declare that specified provisions of this Act or regulations do not apply (or apply with modifications) in relation to any worker carrying out work for the Security Intelligence Service:
+  (b) the Director-General of the Government Communications Security Bureau may declare that specified provisions of this Act or regulations do not apply (or apply with modifications) in relation to any worker carrying out work for the Bureau.
 (3) Without limiting subsection (2), a declaration may apply to—
   (a) a specified worker or class of workers:
   (b) a specified workplace or class of workplaces:
   (c) a specified type of work.
 (4) A declaration under subsection (2) may only be made with the approval of the Minister.
-(5) A declaration made under subsection (2) is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(5) A declaration under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (6) In administering the Security Intelligence Service or the Bureau and in exercising the power under subsection (2), the Director-General of Security or the Director-General of the Government Communications Security Bureau (as the case requires) must take into account the need to promote the purpose of this Act to the greatest extent consistent with maintaining the security or defence of New Zealand or the international relations of the Government of New Zealand.
 (7) A worker who is an employee of the Security Intelligence Service or the Government Communications Security Bureau may ask the Inspector-General to review a declaration made under subsection (2) to determine whether, in making the declaration, the Director-General of Security or the Director-General of the Government Communications Security Bureau (as the case requires) met the criteria in subsection (6).
 (8) A request by a worker under subsection (7) for a review of a declaration must be made within 14 days of the date on which the worker becomes aware, or reasonably ought to have been aware, of the declaration.
@@ -1988,7 +1988,7 @@ Subject to its scope of designation, a regulator other than WorkSafe has the fol
   (b) a Crown entity (within the meaning of section 7 of the Crown Entities Act 2004):
   (c) the Commissioner of Police:
   (d) the Chief of Defence Force.
-(4) A designation under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) A designation under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 192 Role of designated agencies
 (1) If a designated agency has been given a scope of designation under section 191, WorkSafe or another agency may perform functions or exercise powers under this Act or any other enactment in respect of the scope of designation only if the designated agency has given its consent for WorkSafe or the other agency to do so.
@@ -2089,6 +2089,7 @@ If requested by a coroner, the regulator must give the coroner a written report 
   - **chief executive** means the chief executive of the department responsible for administering this Act
   - **earner** , , and have the same meanings as in section 6(1) of the Accident Compensation Act 2001
 (8) To avoid doubt, this section does not require all of the Crown's costs referred to in the definition of certain Crown costs to be recovered by the funding levy.
+(9) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 202 Consultation requirement relating to funding levy
 The Minister must not recommend the making of regulations for the purposes of section 201 without first—
@@ -2245,6 +2246,7 @@ In this subpart, authorised means authorised by a licence, permit, registration,
   (x) prescribing the information that must be contained in forms for the purposes of this Act:
   (y) providing for any matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) If an exemption is provided under subsection (1)﻿(q), the reasons for it must be set out in the explanatory note of the regulations.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 212 Regulations relating to hazardous substances
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
@@ -2279,6 +2281,7 @@ In this subpart, authorised means authorised by a licence, permit, registration,
   (j) providing for any matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) Subsection (3) applies if, before, on, or after the commencement of this section, the EPA issues an EPA notice under section 74 of the Hazardous Substances and New Organisms Act 1996 establishing a hazard classification system that replaces the hazard classification system provided for in the Hazardous Substances (Classification) Regulations 2001 and the Hazardous Substances (Minimum Degrees of Hazard) Regulations 2001 (the existing classification system).
 (3) Regulations made under this section may be made based on the existing classification system for a period not exceeding 5 years after the date on which the EPA notice is issued.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 213 Regulations relating to exemptions in respect of Armed Forces
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing that any specified provisions of this Act or regulations do not apply (or apply with modifications) in respect of—
@@ -2289,9 +2292,10 @@ In this subpart, authorised means authorised by a licence, permit, registration,
 (2) Without limiting subsection (1), the regulations may be subject to any conditions specified in the regulations.
 (3) Before making a recommendation under subsection (1), the Minister must consult the Minister of Defence.
 (4) If an exemption is provided under this section, the reasons for the exemption must be set out in the explanatory note of the regulations.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 214 Regulations relating to worker engagement, participation, and representation
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
   (a) prescribing matters relating to work groups, including—
     (i) the requirements for determining a work group (including work groups for workers carrying out work for 2 or more PCBUs):
     (ii) agreements or variations of agreements relating to the determination of work groups:
@@ -2308,6 +2312,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
     (i) the constitution of health and safety committees:
     (ii) meeting requirements for health and safety committees:
   (d) providing for any matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 215 Regulations relating to levies
 (1) The Governor-General may, by Order in Council, made on the recommendation of the Minister, make regulations prescribing levies for the purposes of recovering the costs of the regulator that relate to its functions in respect of authorisations granted under this Act.
@@ -2328,6 +2333,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 (4) Before making a recommendation under this section, the Minister must—
   (a) receive advice from WorkSafe on the proposed levy; and
   (b) consult in accordance with section 217.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 216 Regulations providing for transitional matters
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
@@ -2389,14 +2395,15 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 (5) The breach of a term or condition of an exemption granted under subsection (1) is a breach of the provision to which the exemption relates (unless the terms of the exemption provide otherwise).
 
 ### 221 Status and publication of exemptions granted by regulator
-(1) An exemption granted under section 220 that is a class exemption is a legislative instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(2) An exemption granted under section 220 that is not a class exemption is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(1) An exemption under section 220 is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it relates only to 1 or more named persons.
+(1A) If an exemption is secondary legislation, the regulator’s reasons for granting the exemption (including why it is appropriate) must be published with the exemption.
+(2) If an exemption is not secondary legislation, subsections (3), (4), and (5) apply.
 (3) As soon as practicable after an exemption granted under section 220 is made, it must be—
   (a) notified in the Gazette; and
   (b) published on an Internet site maintained by or on behalf of the regulator.
 (4) The regulator’s reasons for granting the exemption (including why the exemption is appropriate) must be published in accordance with subsection (3)﻿(b) together with the exemption.
 (5) A notification in the Gazette for the purpose of subsection (3)﻿(a) does not have to incorporate the exemption.
-(6) In this section, class exemption means an exemption granted under section 220 that is of general application and that applies to classes of persons.
+(6)
 
 **Codes of practice**
 
@@ -2420,7 +2427,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (a) a code of practice that corresponds, or substantially corresponds, to a code of practice made under section 20 of the Health and Safety in Employment Act 1992:
   (b) any minor or technical amendments to an approved code of practice (including the incorporation of amendments to, or updates of, documents incorporated by reference).
 (6) If the Minister approves any amendment in accordance with subsection (5)﻿(b), the regulator must make reasonable efforts to notify any affected persons or their representatives of the amendment.
-(7) A code of practice approved under this section is neither a disallowable instrument nor a legislative instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(7)
 
 ### 223 Publication and commencement of approved code of practice
 (1) As soon as practicable after an approved code of practice has been approved, amended, or revoked, the regulator must ensure that notice of the approval, amendment, or revocation is published in the Gazette.
@@ -2453,7 +2460,8 @@ The publication by the regulator of a notice under section 223(1) is conclusive 
 (2) The purposes of safe work instruments are to define terms, prescribe matters, or make other provision in relation to any activity or thing, including (without limitation) listing standards, control of substances, and competency requirements.
 (3) The Minister must not approve a safe work instrument unless the Minister is satisfied that all persons and organisations that the Minister thinks appropriate have been consulted, having regard to the subject matter of the proposed safe work instrument.
 (4) The Minister may approve an amendment to a safe work instrument (including approving incorporation of amendments to, or updates of, documents incorporated by reference) without complying with subsection (3) if the Minister is satisfied that the amendment is minor or technical.
-(5) A safe work instrument is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act but only to the extent that the instrument is given effect to in accordance with section 228(1).
+(5) To the extent that a safe work instrument is given effect to in accordance with section 228(1), it is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5A) To the extent that a safe work instrument is not secondary legislation, subsection (6) applies.
 (6) The Minister must, as soon as practicable after a safe work instrument is made,—
   (a) notify the safe work instrument in the Gazette; and
   (b) ensure that a copy of the safe work instrument is available—
@@ -2574,7 +2582,7 @@ An approved code of practice issued under section 20 of the Health and Safety in
   (b) any transfer notice made under section 160A of the Hazardous Substances and New Organisms Act 1996; and
   (c) any group standard made under section 96B of the Hazardous Substances and New Organisms Act 1996; and
   (d) any reassessment under section 63 of the Hazardous Substances and New Organisms Act 1996.
-(2) Section 51 of the Legislation Act 2012 (which requires consultation about material proposed to be incorporated by reference) does not apply to regulations made under this Act or safe work instruments approved under section 227 of this Act that incorporate existing material by reference in reliance on section 49 of that Act.
+(2) Clause 1 of Schedule 2 of the Legislation Act 2019 (which requires consultation about material proposed to be incorporated by reference) does not apply to regulations made under this Act or safe work instruments approved under section 227 of this Act that incorporate existing material by reference in reliance on section 64 of that Act.
 (3) Existing material that is incorporated by reference in accordance with this clause may—
   (a) include corrections or changes:
   (b) include new material that replaces or supersedes the existing material in whole or in part (for example, a new standard that replaces an earlier standard):
@@ -2997,7 +3005,8 @@ In this schedule, tunnelling operation—
   (c) excludes any tunnelling operation of a kind declared under clause 5 not to be a tunnelling operation.
 
 ### 5 Regulations excluding tunnelling operations from clause 4
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations declaring that certain operations or classes of operation are not tunnelling operations for the purposes of clause 4.
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations declaring that certain operations or classes of operation are not tunnelling operations for the purposes of clause 4.
+(2) Regulations under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Worker engagement, participation, and representation in mining sector**
 
@@ -3190,6 +3199,7 @@ The Board may determine its own procedure.
 (4) Before making a recommendation under this clause, the Minister must—
   (a) receive advice from WorkSafe on the proposed levy; and
   (b) consult the people responsible for paying the proposed levy.
+(5) Regulations under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule 4 — Provisions relating to classified security information
 
