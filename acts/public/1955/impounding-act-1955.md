@@ -1,5 +1,5 @@
 # Impounding Act 1955
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to the establishment and management of public pounds, trespassing and wandering stock, and the impounding of stock
 
@@ -56,7 +56,7 @@ The location of any new pound, or a change in the location of any pound, or the 
 The local authority shall erect and maintain on some conspicuous part of every pound a notice board on which shall be printed or otherwise affixed in some permanent manner a notice to the effect that the area is a public pound, and showing the name of the local authority having jurisdiction over the pound and the name and address of the poundkeeper.
 
 ### 7 Local authority may acquire land for establishment of pounds
-A local authority may take or otherwise acquire under the Public Works Act 1928 or purchase or otherwise acquire land or any interest in land for the purpose of establishing a public pound or a temporary pound.
+A local authority may take or otherwise acquire under the Public Works Act 1981 or purchase or otherwise acquire land or any interest in land for the purpose of establishing a public pound or a temporary pound.
 
 ## Part 2 — Poundkeepers and other staff
 
@@ -369,6 +369,7 @@ If within 1 year after any sale of impounded stock, or, where the owner of any s
 
 ### 67 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make all such regulations as may in his opinion be necessary or expedient for giving effect to the provisions of this Act and for the due administration thereof.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (2)
 
 ### 68 Repeals, savings, and consequential amendments
