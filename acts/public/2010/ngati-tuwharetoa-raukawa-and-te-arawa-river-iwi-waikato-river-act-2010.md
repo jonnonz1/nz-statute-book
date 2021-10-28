@@ -1,5 +1,5 @@
 # Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010.
@@ -7,6 +7,7 @@ This Act is the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River 
 ### 2 Commencement
 (1) Parts 1 and 3 come into force on the day after the date on which this Act receives the Royal assent.
 (2) The rest of this Act comes into force on a date to be appointed by the Governor-General by an Order in Council made on the advice of the Minister for Treaty of Waitangi Negotiations.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -308,6 +309,7 @@ After the review described in section 19, the Authority must review the vision a
   (c) the recommendation complies with section 21(5); and
   (d) the Crown and the other appointers agree in writing or electronically with one another to accept the recommendation.
 (4) An Order in Council made under this section must specify the date on which the amendments to the vision and strategy take effect.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 23 Establishment and purpose of Authority
 (1) This Act establishes a statutory body called the Waikato River Authority.
@@ -688,6 +690,7 @@ The provisions of this Act relating to joint management agreements do not preclu
 (2) Within 2 years of the operational date, the Minister of Fisheries must recommend to the Governor-General the making of regulations under the Fisheries Act 1996 providing for each Trust to manage customary fishing on the Waikato River through the issuing of customary fishing authorisations to fisheries managed under the Fisheries Act 1996.
 (3) Within 80 business days of the operational date, the Minister of Fisheries must recommend to the Governor-General the making of regulations under the Fisheries Act 1996 providing for each Trust to recommend to the Minister of Fisheries the making of bylaws restricting or prohibiting fishing on the Waikato River of fisheries managed under the Fisheries Act 1996.
 (4) The Minister of Fisheries must make any bylaws recommended under subsection (3), unless the Minister is satisfied that the proposed bylaws would have an undue adverse effect on fishing.
+(5) Regulations under subsection (1) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 59 Limitation on regulations and bylaws
 Regulations must not be made under section 58 that—
