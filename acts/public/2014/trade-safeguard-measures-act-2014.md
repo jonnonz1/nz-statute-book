@@ -1,5 +1,5 @@
 # Trade (Safeguard Measures) Act 2014
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Trade (Safeguard Measures) Act 2014.
@@ -147,7 +147,9 @@ This Act binds the Crown.
 (2) The Minister may exempt imported goods from certain exporting countries from a provisional safeguard duty at any time, including after the duty has been imposed, if the Minister is satisfied that an exemption—
   (a) is necessary to comply with New Zealand’s international obligations as a party to the WTO Agreement or otherwise; or
   (b) will further New Zealand's international relations or trade goals.
-(3) An order under subsection (1) and an exemption under subsection (2) are legislative instruments and disallowable instruments for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an order under subsection (1):
+  (b) an exemption under subsection (2).
 
 ### 15 Duration of provisional safeguard duty
 (1) Provisional safeguard duty is due and payable on the demand of the Customs on goods imported on and from the date specified in the order referred to in section 14(1), which must be on or after the commencement of the order.
@@ -162,7 +164,7 @@ This Act binds the Crown.
   (a) a delay in imposing a safeguard measure would cause damage that would be difficult to repair; and
   (b) increased imports are causing serious injury or a threat of serious injury.
 (2) The Minister may order the reduction of a provisional safeguard duty, with effect from a specified date that is after the commencement of the order, if the Minister is satisfied that there is a good reason to do so.
-(3) An order under subsection (1) and an order under subsection (2) are legislative instruments and disallowable instruments for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 17 Effect on provisional safeguard duty of imposition (or not) of relevant duty
 (1) The imposition of a relevant duty on imported goods has the following effects on any provisional safeguard duty paid on imports of those goods:
@@ -200,7 +202,10 @@ A safeguard measure is any of the following imposed on or in relation to importe
   (b) after deciding to do nothing or taking an action under subsection (1), notify the chief executive's report about a safeguard investigation, except for the following information:
     (i) confidential information; and
     (ii) other information that the chief executive would be likely to withhold if it were requested under the Official Information Act 1982.
-(5) An order under subsection (2)﻿(a) and an exemption under subsection (3) are legislative instruments and disallowable instruments for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an order under subsection (2)﻿(a):
+  (b) an Order in Council under subsection (2)﻿(b):
+  (c) an exemption under subsection (3).
 
 ### 20 Duration of safeguard measure
 (1) Safeguard duty is due and payable on the demand of the Customs on goods imported on and from the date specified in the order referred to in section 19(2)﻿(a), which must be on or after the commencement of the order.
@@ -257,7 +262,10 @@ The matters the chief executive must investigate in a review of a safeguard meas
   (b) after deciding to do nothing or taking an action under subsection (1), notify the chief executive's report about the review of a safeguard measure, except for the following information:
     (i) confidential information; and
     (ii) other information that the chief executive would be likely to withhold if it were requested under the Official Information Act 1982.
-(5) An order under subsection (2)﻿(a) and an exemption under subsection (3) are legislative instruments and disallowable instruments for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an order under subsection (2)﻿(a):
+  (b) an Order in Council under subsection (2)﻿(b):
+  (c) an exemption under subsection (3).
 
 ### 24 Duration of extended safeguard measure
 (1) Extended safeguard duty is due and payable on the demand of the Customs on goods imported on and from the date specified in the order referred to in section 23(2)﻿(a), which must be on or after the commencement of the order.
@@ -284,7 +292,9 @@ All duty imposed under this Act must be paid to, and collected by, the Customs.
 (1) The Minister may, if the Minister is satisfied that there is a good reason to do so,—
   (a) order the termination or reduction, with effect from a specified date that is after the commencement of the order, of a safeguard measure referred to in section 18(a) (including if it has been extended under section 23(2)); or
   (b) recommend the termination or reduction, with effect from a specified date that is after the commencement of the recommended Order in Council, of a safeguard measure referred to in section 18(b) or (c) (including if it has been extended under section 23(2)).
-(2) An order under subsection (1)﻿(a) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an order under subsection (1)﻿(a):
+  (b) an Order in Council under subsection (1)﻿(b).
 
 ## Part 2 — Miscellaneous matters
 
