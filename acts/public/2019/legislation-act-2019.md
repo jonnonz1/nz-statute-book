@@ -1,5 +1,5 @@
 # Legislation Act 2019
-_Consolidation as at 2021-03-25_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Legislation Act 2019.
@@ -14,6 +14,7 @@ This Act is the Legislation Act 2019.
     (i) on 1 or more dates set by Order in Council; or
     (ii) to the extent not brought into force earlier, on the fifth anniversary of the date on which the Secondary Legislation Act 2021 receives the Royal assent.
 (2) One or more Orders in Council may set different dates for different provisions (and, for that purpose, may commence a provision only for the purpose of giving effect to some, but not other, parts of this Act).
+(3) An Order In Council made under this section is secondary legislation (see Part 3 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -436,7 +437,7 @@ A form is not invalid just because it contains minor differences from an approve
   (b) secondary legislation made under power A (and in reliance on the power B referred to in subsection (2)﻿(c)) authorises a person to approve or prescribe a form and, in doing so, to determine the information to be supplied or made available; and
   (c) the form, rather than the secondary legislation, will identify the information to be supplied or made available.
 (6) If this subsection applies,—
-  (a) the instrument by which the person approves or prescribes the form is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (a) the instrument by which the person approves or prescribes the form is secondary legislation (see Part 3 for publication requirements); and
   (b) the secondary legislation referred to in subsection (5)﻿(b) must contain a statement to that effect.
 
 **Time and distance**
