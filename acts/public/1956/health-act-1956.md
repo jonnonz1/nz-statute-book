@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2021-06-29_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -14,7 +14,7 @@ _Consolidation as at 2021-06-29_
   - **animal** includes any bird, reptile, amphibian, or insect
   - **carrier** , in relation to any infectious disease, means any person having in his blood, or in his nose or throat, or in his excretions, or in his discharges, the specific infectious agent of that disease, though he may exhibit no other sign or symptom of that disease
   - **cleansing** , in relation to any building, includes lime-washing, papering, painting, and the destruction of vermin
-  - **communicable disease** includes any infectious disease, and any other disease declared by the Governor-General, by Order in Council, to be a communicable disease for the purposes of this Act
+  - **communicable disease** includes any infectious disease, and any other disease declared by the Governor-General, by Order in Council, to be a communicable disease for the purposes of this Act (see subsection (5))
   - **contact** , in relation to any infectious disease, means any person who has been exposed to risk of infection from an infectious disease
   - **craft** means an aircraft, ship, or other device or machine, that can be used to carry or transport people or goods—
     (a) by air; or
@@ -61,13 +61,17 @@ _Consolidation as at 2021-06-29_
   - **ship** includes every description of vessel used in navigation
   - **smoke** includes any fumes, gases, dust, soot, grit, or other matters produced in the process of combustion.
 (2) If, in any proceedings for an offence against this Act or against any regulations thereunder, a question arises as to whether or not any person is a contact, as defined in subsection (1), the question shall be determined in accordance with the opinion of the medical officer of health.
-(3) The Governor-General may, by Order in Council, amend Part 3 of Schedule 1 by adding or omitting the name of a disease, or substituting a new name for a disease.
+(3) The Governor-General may, by Order in Council, amend Part 3 of Schedule 1 by adding or omitting the name of a disease, or substituting a new name for a disease (see subsection (5)).
 (4) In this Act, a reference to an individual who has an infectious disease includes an individual who is infected or colonised by, or is a carrier of, an organism capable of causing the disease, even if the individual does not exhibit any of the symptoms of the disease.
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an order under the definition of communicable disease in subsection (1):
+  (b) an order under subsection (3).
 
 ### 3 Power of Governor-General in Council to amend Schedules
-The Governor-General may from time to time, by Order in Council,—or otherwise amend any such list, and every such Order in Council shall have effect according to its tenor.
+(1) The Governor-General may from time to time, by Order in Council,—or otherwise amend any such list, and every such Order in Council shall have effect according to its tenor.
   (a) add to or omit from any of the lists of notifiable infectious diseases, infectious diseases, and notifiable diseases set out in Schedules 1 and 2 the name or description of any disease; or
   (b) add to or omit from the list of offensive trades set out in Schedule 3, or the list of chemical works set out in Schedule 4, or the list of noxious or offensive gases set out in Schedule 5, the name or description of any trade, business, manufacture, undertaking, works, gas, or fumes,—
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Administration
 
@@ -146,6 +150,7 @@ In order to ensure that the views of the public, persons involved in the provisi
 (3) The Governor-General may by Order in Council make regulations for the purpose of giving effect to this section, and by any such Order in Council may apply, with the necessary modifications, any other regulations made under this Act.
 (4) Any regulations made for the purposes of this section may prescribe reasonable fees to be payable by the owners or occupiers of lands within any area over which the Ministry has jurisdiction in accordance with this section, for the purpose of recouping the expenditure incurred by the Ministry in the exercise of its functions in such areas. All fees payable in accordance with such regulations shall be recoverable as a debt due to the Crown. For the purposes of this subsection, the term occupier, in relation to any land, includes a person in temporary occupation thereof, whether or not that person is in occupation as of right.
 (5) Subject to the provisions of this section and to any regulations for the time being in force thereunder, all expenses incurred by the Ministry in the exercise of its powers and functions under this section shall be paid out of money to be appropriated by Parliament.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 9 Delegation of powers by Minister
 [Repealed]
@@ -339,7 +344,7 @@ Subject to the provisions of this Act, it shall be the duty of every local autho
   (h) cemeteries;
   (i) crematoria;
   (j) disinfecting and cleansing stations established under this Act; and
-  (k) any other works declared by the Governor-General by Order in Council to be sanitary works,
+  (k) any other works declared by the Governor-General by Order in Council to be sanitary works (see subsection (14)),
 (2) The Minister may, by notice in the Gazette, from time to time require any local authority to provide for the benefit of its district, whether within or beyond the boundaries thereof, such sanitary works as the Minister may specify in the requisition or to alter or extend any sanitary works previously provided by the local authority. Any requisition issued under this subsection may specify a time, not being less than 3 months after the service of the requisition, within which proposals for the carrying out of the work shall be submitted to the Director-General under this section, and may contain such general directions relating to the carrying out of the work, including a direction as to the amount of expenditure to be incurred, as the Director-General thinks fit.
 (3) Any 2 or more local authorities may with the Director-General's approval, and shall if so required by the Director-General, combine for the purpose of providing, altering, or extending any sanitary works pursuant to this section; and where they have combined or have been required to combine for that purpose a requisition under subsection (2) may be issued to them jointly, and any reference in subsections (4) to (9) to a local authority shall be construed accordingly.
 (4) Every requisition issued under this section shall be in writing and shall be served on the local authority.
@@ -355,6 +360,7 @@ Subject to the provisions of this Act, it shall be the duty of every local autho
 (11) Any expenses so paid and any charges so made for services may be recovered as a debt due from the local authority or authorities to the Crown or may be deducted from any money payable by the Crown to the local authority or authorities.
 (12) Any person authorised in writing in that behalf by the medical officer of health may at any time during the office hours of a local authority, but not so as to interfere unreasonably with the carrying out of his duties by any officer of that local authority, inspect all documents in the local authority's possession relating to any sanitary works which it is proposed, whether under this section or otherwise, to provide, alter, or extend.
 (13) The obligation of a local authority to comply with the provisions of this section and with any requisition issued under this section shall not be limited by the fact that the local authority may not be empowered by any Act other than this Act to undertake works of the kind referred to in the requisition.
+(14) An order under subsection (1)﻿(k) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 26 Appeal against requisition or determination of Board of Health
 [Repealed]
@@ -697,6 +703,7 @@ The local authority shall cause printed copies of all its bylaws under this Act 
 (8) Sections 69S to 69ZC do not apply to a drinking-water supplier who—
   (a) supplies drinking water from a supply that is smaller than a neighbourhood drinking-water supply; and
   (b) is not a water carrier.
+(9) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 69D Application of sections 69S to 69ZC to bulk suppliers
 A bulk supplier must comply with sections 69S to 69ZC in respect of each supply of water made by that supplier to another drinking-water supplier, on and after the date on which any drinking-water supplier to whom the supply is made is required to comply with those sections in respect of their own supply.
@@ -960,7 +967,7 @@ In this Part, unless the context otherwise requires,—
   (b) may contain different provisions for different categories of bulk supplier, networked supplier, or water carrier, or different provisions for each class of drinking-water supplier; but
   (c) must not include any requirement that fluoride be added to drinking water.
 (4) Despite clause 5 of Schedule 6 of the Public Service Act 2020, the Minister may not delegate any of the powers conferred by subsection (1).
-(5) Standards issued or adopted under subsection (1) are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(5) Standards issued or adopted under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 69P Minister must consult before issuing, adopting, or amending drinking-water standards
 (1) The Minister must not issue, adopt, or amend drinking-water standards unless the Minister is satisfied that adequate consultation has been carried out with respect to the proposed standards or proposed amendments, including (without limitation)—
@@ -978,14 +985,10 @@ In this Part, unless the context otherwise requires,—
 (4) The Minister may also publish the notice in any other way the Minister considers desirable.
 
 ### 69Q Drinking-water standards must be notified and made available
-(1) As soon as practicable after drinking-water standards are issued, adopted, or amended, the Minister must ensure that a notice is published in the Gazette that—
-  (a) gives a general indication of the nature of the standards or amendments; and
-  (b) shows the place or places at which copies of the current drinking-water standards are available for inspection free of charge or for purchase or both.
-(2) As soon as practicable after drinking-water standards are revoked, the Minister must ensure that a notice of that revocation is published in the Gazette.
-(3) The Director-General must ensure that current copies of drinking-water standards are available for inspection by members of the public free of charge.
+[Repealed]
 
 ### 69R Commencement of drinking-water standards
-Drinking-water standards (and any amendments to those standards) come into force on a day specified in a notice under section 69Q(1) that is at least 28 days after the date of publication of that notice in the Gazette.
+Drinking-water standards (and any amendments to those standards) come into force on a day that is at least 28 days after the date of publication.
 
 **Duties of drinking-water suppliers and temporary drinking-water suppliers**
 
@@ -1211,7 +1214,7 @@ Every drinking-water supplier who receives a complaint about the quality (includ
     (i) any other functions and duties conferred on drinking-water assessors by this Part or any other enactment; and
     (ii) any other functions and duties, in relation to the assessment of drinking water, that the Director-General specifies by notice in writing signed by the Director-General and given to the drinking-water assessor.
 (2) The functions referred to in subsection (1)﻿(e) and (f) do not apply in relation to any recognised laboratory.
-(3) A notice under subsection (1)﻿(j)﻿(ii) is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(3)
 
 ### 69ZM Drinking-water assessors accountable to Director-General for performance of functions
 (1) A drinking-water assessor is accountable to the Director-General for the discharge of the assessor's statutory functions.
@@ -1442,7 +1445,8 @@ No drinking-water emergency declaration may remain in force for longer than 28 d
   (a) the Minister may recommend that regulations be made continuing the exemption; and
   (b) the Governor-General may, by Order in Council, make regulations for that purpose.
 (6) Regulations made under this section—
-  (a) come into force on the date of their notification in the Gazette or at the time specified in the regulations, whichever is the later; and
+  (aaa) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (a) come into force on the date of their publication in accordance with paragraph (aaa) or at the time specified in the regulations, whichever is the later; and
   (b) continue in force until revoked or until a date not later than the day 2 years after the regulations came into force, on which date the regulations expire and are deemed to have been revoked.
 
 ### 69ZZG Effect of exemption
@@ -1642,6 +1646,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (i) prescribing the form of warrant to be issued under section 69ZS:
   (j) providing for any other matters contemplated by this Part, necessary for its administration, or necessary for giving it full effect.
 (2) Regulations may not be made for the purpose described in subsection (1)﻿(a) except on the advice of the Minister provided after consultation with those bodies or organisations that appear to the Minister to be representative of persons likely to be substantially affected by the regulations.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 69ZZZ Protecting water supplies from risk of back-flow
 (1) This section applies if a networked supplier considers that there is a need to protect the networked system from risks of pollution caused by water and other substances on properties connected to the networked system.
@@ -1700,7 +1705,7 @@ This Part does not apply to any water—
 ## Part 3 — Infectious and notifiable diseases
 
 ### 70 Special powers of medical officer of health
-(1) For the purpose of preventing the outbreak or spread of any infectious disease, the medical officer of health may from time to time, if authorised to do so by the Minister or if a state of emergency has been declared under the Civil Defence Emergency Management Act 2002 or while an epidemic notice is in force,—
+(1) For the purpose of preventing the outbreak or spread of any infectious disease, the medical officer of health may from time to time, if authorised to do so by the Minister or if a state of emergency has been declared under the Civil Defence Emergency Management Act 2002 or while an epidemic notice is in force, by notice,—
   (a) declare any land, building, or thing to be insanitary, and prohibit its use for any specified purpose:
   (b) cause any insanitary building to be pulled down, and the timber and other materials thereof to be destroyed or otherwise disposed of as he thinks fit:
   (c) cause insanitary things to be destroyed or otherwise disposed of as he thinks fit:
@@ -1715,24 +1720,25 @@ This Part does not apply to any water—
   (j) prohibit the keeping of animals or of any species of animal in any specified part of the health district:
   (k) forbid the discharge of sewage, drainage, or insanitary matter of any description into any watercourse, stream, lake, or source of water supply:
   (l) use or authorise any local authority to use as a temporary site for a special hospital or place of isolation any reserve or endowment suitable for the purpose, notwithstanding that such use may conflict with any trust, enactment, or condition affecting the reserve or endowment:
-  (la) by written order to the person appearing to be in charge of the premises concerned, do either or both of the following:
-    (i) require to be closed immediately, until further order or for a fixed period, any premises within the health district (or a stated area of the district):
-    (ii) require to be closed immediately, until further order or for a fixed period, any premises within the health district (or a stated area of the district) in which infection control measures described in the order are not operating:
-  (m) by order published in a newspaper circulating in the health district or by announcement broadcast by a television channel or radio station that can be received by most households in the health district, do any of the following:
-    (i) require to be closed, until further order or for a fixed period, all premises within the district (or a stated area of the district) of any stated kind or description:
-    (ii) require to be closed, until further order or for a fixed period, all premises within the district (or a stated area of the district) of any stated kind or description in which infection control measures described in the order are not operating:
-    (iii) forbid people to congregate in outdoor places of amusement or recreation of any stated kind or description (whether public or private) within the district (or a stated area of the district):
-    (iv) forbid people to congregate in outdoor places of amusement or recreation of any stated kind or description (whether public or private) within the district (or a stated area of the district) in which infection control measures described in the order are not operating.
+  (la) in writing to the person appearing to be in charge of the premises concerned, do either or both of the following:
+    (i) require to be closed immediately, until further notice or for a fixed period, any premises within the health district (or a stated area of the district):
+    (ii) require to be closed immediately, until further notice or for a fixed period, any premises within the health district (or a stated area of the district) in which infection control measures described in the notice are not operating:
+  (m) require to be closed, until further notice or for a fixed period, all premises within a health district (or stated area of a health district) of any stated kind or description:
+  (n) require to be closed, until further notice or for a fixed period, all premises within a health district (or a stated area of a health district) of any stated kind or description in which infection control measures described in the notice are not operating:
+  (o) forbid people to congregate in outdoor places of amusement or recreation of any stated kind or description (whether public or private) within a health district (or a stated area of a health district):
+  (p) forbid people to congregate in outdoor places of amusement or recreation of any stated kind or description (whether public or private) within a health district (or a stated area of a health district) in which infection control measures described in the notice are not operating.
   (n)
   (o)
-(1A) An order under paragraph (la) or (m) of subsection (1) does not apply to—
+(1A) A notice under paragraph (la), (m), (n), (o), or (p) of subsection (1) does not apply to—
   (a) any premises that are, or any part of any premises that is, used solely as a private dwellinghouse; or
   (b) any premises within the parliamentary precincts (within the meaning of section 3 of the Parliamentary Service Act 2000); or
   (c) any premises whose principal or only use is as a courtroom or judge's chambers, or a court registry; or
   (d) any premises that are, or are part of, a prison (within the meaning of section 3(1) of the Corrections Act 2004).
-(1B) An order under paragraph (la) or (m) of subsection (1) may exempt people engaged in necessary work in the premises to which it relates.
-(1C) If the medical officer of health publishes an order under subsection (1)﻿(m) in a newspaper circulating in the health district, he or she must also make reasonable efforts to have the contents or gist of the order published by announcement broadcast by a television channel or radio station that can be received by most households in the health district.
-(1D) The medical officer of health may publish in any other manner he or she thinks appropriate an order under paragraph (la) or (m) of subsection (1) or its gist.
+(1B) A notice under paragraph (la), (m), (n), (o), or (p) of subsection (1) may exempt people engaged in necessary work in the premises to which it relates.
+(1C) A notice under subsection (1)—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) may come into force when it is made, even if it is not yet published.
+(1D)
 (2) The medical officer of health, and any environmental health officer or other person authorised in that behalf by the medical officer of health, may at any time, with or without assistants, enter on any lands, buildings, or ships, and inspect the same and all things thereon or therein; and may do, with respect to any persons, places, lands, buildings, ships, animals, or things, whatever in the opinion of the medical officer of health is necessary or expedient for the purpose of carrying out the foregoing provisions of this section.
 (3) In no case shall the medical officer of health, or any environmental health officer or assistant or other person, incur any personal liability by reason of anything lawfully done by him under the powers conferred by this section.
 (4) If satisfied that it is desirable in the circumstances to do so, the Director-General may authorise a medical officer of health to operate in a stated area outside his or her district; and in that case, this section and section 71 apply as if the area is part of both his or her district and the district of which it is in fact part.
@@ -1818,7 +1824,7 @@ A person commits an offence and is liable on conviction to imprisonment for a te
 ### 74C Priorities for medicines
 (1) The Director-General may at any time devise policies determining the priorities with which supplies of medicines that are under the control of the Crown or a Crown entity are to be dispensed during outbreaks of quarantinable diseases.
 (2) While an epidemic notice is in force,—
-  (a) the Director-General may, if satisfied that there is or is likely to be a shortage of medicines because of the outbreak of the disease stated in the epidemic notice, in accordance with a policy devised under subsection (1) for the medicines, by notice in the Gazette require persons administering, dispensing, prescribing, or supplying stated medicines that are under the control of the Crown or a Crown entity to administer, dispense, prescribe, or supply them in accordance with priorities, and subject to any conditions, stated in the notice; and
+  (a) the Director-General may, if satisfied that there is or is likely to be a shortage of medicines because of the outbreak of the disease stated in the epidemic notice, in accordance with a policy devised under subsection (1) for the medicines, by notice require persons administering, dispensing, prescribing, or supplying stated medicines that are under the control of the Crown or a Crown entity to administer, dispense, prescribe, or supply them in accordance with priorities, and subject to any conditions, stated in the notice; and
   (b) every person administering, dispensing, prescribing, or supplying medicines stated in the notice that are under the control of the Crown or a Crown entity must—
     (i) comply with the priorities; and
     (ii) comply with any conditions, stated in the notice.
@@ -1829,6 +1835,7 @@ A person commits an offence and is liable on conviction to imprisonment for a te
 (4) A notice under subsection (2) may relate to any medicine, whether or not it can be used in relation to the disease stated in the epidemic notice.
 (5) The Director-General must publish every policy; but may do so by making it available on the Internet.
 (6) In this section, medicine means any substance used or capable of being used to prevent, treat, or palliate a disease, or the symptoms or effects of a disease.
+(7) A notice under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 74D Redirection of aircraft
 (1) While an epidemic management notice providing for medical officers of health to do so is in force, a medical officer of health may by written or oral notice (in the case of an oral notice, whether given face-to-face or by radio) require the pilot in charge of an aircraft that has landed at a place in New Zealand to travel, as soon as practicable, to another stated place in New Zealand.
@@ -1918,6 +1925,7 @@ Where any article dealt with by a local authority or any environmental health of
 (4) Every person commits an offence against this Act who fails to comply with the provisions of this section.
 (5) This section shall bind the Crown.
 (6) Notwithstanding anything in the preceding provisions of this section, or in any Order in Council made hereunder nothing in those provisions shall apply in respect of any animal found to be suffering from a communicable disease in the course of any campaign for the eradication of that disease conducted by or at the instance of the responsible Ministry.
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Venereal disease**
 
@@ -3019,6 +3027,7 @@ Despite section 112U, the Director-General must not designate a person who is no
 (3) Subsection (2) does not apply to regulations made under subsection (1)﻿(g) that—
   (a) incorporate standards by reference; or
   (b) state that an amendment to, or replacement of, standards incorporated by reference has legal effect as part of the regulations.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 112ZG Incorporation of standards by reference in regulations
 (1) Regulations made under section 112ZF(1)﻿(g) may incorporate by reference any standards prepared by or for the NCSP that apply to providers of screening, diagnostic, and treatment services (including, but not limited to, any New Zealand Standard).
@@ -3074,10 +3083,8 @@ Standards incorporated by reference in regulations that expire or that are revok
   (b) any amendment to, or replacement of, those standards that is incorporated in the regulations or the standards referred to in paragraph (a) with the amendments or replacement standards incorporated.
 (3) A failure to comply with this section does not invalidate regulations that incorporate standards by reference.
 
-### 112ZM Application of Legislation Act 2012 to standards incorporated by reference
-(1) Part 2 of the Legislation Act 2012 does not apply to standards incorporated by reference in regulations or to an amendment to, or replacement of, those standards.
-(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations that incorporate standards by reference.
-(3) However, nothing in section 41 of the Legislation Act 2012 requires standards incorporated by reference in regulations to be presented to the House of Representatives.
+### 112ZM Application of Legislation Act 2019 to standards incorporated by reference
+Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to standards that are incorporated by reference in regulations merely because they are incorporated.
 
 ### 112ZN Application of Regulations (Disallowance) Act 1989 to standards incorporated by reference
 [Repealed]
@@ -3196,6 +3203,10 @@ A person who is alleged to have committed an infringement offence may either—
 (2) The Governor-General may from time to time by Order in Council make regulations for any matter affecting public health in respect of which any local authority is empowered by this or any other Act to make bylaws.
 (3) Where any local authority fails to make bylaws for any such matter as aforesaid, or, having made such bylaws, fails to enforce them effectively, and the Governor-General makes regulations in respect of that matter pursuant to the authority conferred by subsection (2), such portion of the cost of the administration of those regulations as the Director-General deems just and equitable shall be chargeable to the local authority, and may be recovered as a debt due to the Crown or may be deducted from any money payable to the local authority by the Crown.
 (4) Nothing in any provision of this Part shall be construed to limit the generality of any other provision of this Part.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) If regulations referred to in subsection (1A)﻿(c) empower the Director-General to fix fees or costs,—
+  (a) the instrument fixing the fees or costs is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 
 ### 118 Regulations as to quarantine
 Regulations made under this Act may provide for all or any of the following matters:
@@ -3299,12 +3310,13 @@ Regulations made under this Act may provide for all or any of the following matt
 (2) In this section, health information has the same meaning as in section 22B and specimen means a bodily sample or tissue sample taken from a person.
 
 ### 122 Special provisions as to regulations
-(1) Any regulations made under this Act may apply generally, or may apply, or be applied from time to time by the Minister by notice in the Gazette, within any specified district or subdivision of a district of any local authority, or within any specified part of New Zealand; and any such notice may be revoked or varied at any time in like manner.
+(1) Any regulations made under this Act may apply generally, or may apply, or be applied from time to time by the Minister by notice, within any specified district or subdivision of a district of any local authority, or within any specified part of New Zealand; and any such notice may be revoked or varied at any time in like manner.
 (2) If at any time while any such regulations apply within any specified district or subdivision of a district of any local authority the boundaries of the district or subdivision are altered, the regulations, unless the context thereof or of any such notice as aforesaid otherwise requires, shall thereafter apply within the district or subdivision as so altered.
 (3) The operation of any regulations made under this Act may, if so provided in the regulations, be wholly suspended until they are applied by the Minister by notice pursuant to subsection (1).
 (4) So far as the bylaws of any local authority in force in any locality are inconsistent with or repugnant to any regulations under this Act in force in that locality, the bylaws shall be deemed to be subject to the regulations.
 (5)
 (6) The Minister, before recommending the making of any regulations under section 117 or section 119 relating to hazardous substances (as defined in section 2 of the Hazardous Substances and New Organisms Act 1996), must consult the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011 about the contents of any such regulations, and shall take into account any submissions made by the Authority.
+(7) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 7 — Miscellaneous provisions
 
@@ -3433,7 +3445,9 @@ An amendment to, or replacement of, material incorporated by reference in this A
 (2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation in the instrument of the material.
 
 ### 137D Effect of expiry of material incorporated by reference
-Material incorporated by reference in this Act or an instrument that expires or that is revoked or that ceases to have effect ceases to have legal effect as part of the Act or the instrument only if the Minister or, as appropriate, the Director-General, by notice in the Gazette, states that the material ceases to have legal effect.
+(1) Material incorporated by reference in this Act or an instrument that expires or that is revoked or that ceases to have effect ceases to have legal effect as part of the Act or the instrument only if the Minister or, as appropriate, the Director-General, by notice, states that the material ceases to have legal effect.
+(2) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the material is incorporated by reference in a compliance document.
+(3) If the material is incorporated by reference in a compliance document, the Director-General must publish the notice in the Gazette.
 
 ### 137E Requirement to consult
 (1) This section applies if—
@@ -3473,9 +3487,8 @@ Material incorporated by reference in this Act or an instrument that expires or 
   (c) if the material referred to in paragraph (a) or (b) is not in an official New Zealand language, as well as the material itself, an accurate translation in an official New Zealand language of the material.
 (3) A failure to comply with this section does not invalidate an instrument that incorporates material by reference.
 
-### 137G Application of Legislation Act 2012 to material incorporated by reference
-(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in this Act or in an instrument or to an amendment to, or replacement of, that material.
-(2) Nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in this Act or in an instrument made or issued under this Act to be presented to the House of Representatives.
+### 137G Application of Legislation Act 2019 to material incorporated by reference
+Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in this Act or in an instrument merely because it is incorporated.
 
 ### 137H Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
 [Repealed]
