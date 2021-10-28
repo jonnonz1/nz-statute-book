@@ -1,5 +1,5 @@
 # Litter Act 1979
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to make better provision for the abatement and control of litter
 
@@ -20,7 +20,7 @@ This Act may be cited as the Litter Act 1979.
   - **public authority** means—
     (a) a territorial authority, the New Zealand Transport Agency, the Wellington Regional Water Board, the Auckland Harbour Bridge Authority, a harbour board, an airport authority within the meaning of section 2 of the Airport Authorities Act 1966, and an administering body within the meaning of section 2 of the Reserves Act 1977:
     (b) in relation to any cemetery, any persons for the time being holding office as trustees of that cemetery under the Burial and Cremation Act 1964:
-    (c) all other bodies or classes of bodies which by any Act, or by the Governor-General in Council, are from time to time declared to be public authorities for the purposes of this Act
+    (c) all other bodies or classes of bodies which by any Act, or by the Governor-General by Order in Council (see subsection (2)), are from time to time declared to be public authorities for the purposes of this Act
   - **public place** includes—but does not include any site for the disposal of litter, or any receptacle installed in any such public place pursuant to this Act or any other Act
     (a) every motorway, road, street, private street, footpath, access way, service lane, court, mall, and thoroughfare:
     (b) any public reserve within the meaning of section 2 of the Reserves Act 1977 to which the public generally has access, whether with or without payment of any fee, and any reserve under that Act classified as a nature reserve or a scientific reserve:
@@ -36,7 +36,7 @@ This Act may be cited as the Litter Act 1979.
     (l) any other place whether public or private in the open air, including any walkway within the meaning of section 4 of the Walking Access Act 2008, to which the public has access, whether with or without payment of any fee,—
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **traffic officer** means an enforcement officer under the Land Transport Act 1998.
-(2) Any appointment made by the Governor-General in Council pursuant to paragraph (c) of the definition of the term public authority in subsection (1) may, in like manner, be varied or revoked at any time.
+(2) An order under paragraph (c) of the definition of public authority in subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
@@ -67,6 +67,7 @@ Keep New Zealand Beautiful Incorporated shall be the body primarily responsible 
   (i) every warranted officer and honorary warranted officer who is warranted for the purposes of the Te Urewera Act 2014, while acting in the exercise and performance of powers and duties conferred and imposed by the Te Urewera Act 2014.
 (2) The production by any person of a warrant of appointment or other evidence that he holds an office mentioned in subsection (1) shall be sufficient evidence that he is an Officer for the purposes of this Act.
 (3) The Governor-General may, from time to time by Order in Council, appoint other persons, whether in groups or classes, to be Litter Control Officers; and may in like manner revoke or vary any appointment so made.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Powers and duties of Officers
 (1) Every Officer appointed by a public authority who is for the time being in possession of his or her warrant of appointment, and every other Officer who is in possession of a warrant or other evidence of that Officer's authority to act as such, is authorised to enforce the provisions of this Act and may, without further authority than this section, summarily intervene to prevent any of the following:
@@ -87,6 +88,7 @@ Keep New Zealand Beautiful Incorporated shall be the body primarily responsible 
 (2) Every Warden may exercise all the duties of an Officer, except such as may be specified in his warrant of appointment, in such public places under the control or within the district or districts of the authority or authorities which appointed him as may be so specified.
 (3) A Warden shall have all the powers and authorities of an Officer in carrying out his duties, but shall have no authority to act as an Officer for the purposes of section 10 or to issue an infringement notice under section 14.
 (4) The Governor-General may, from time to time by Order in Council, appoint any persons, whether in groups or classes, to be Wardens; and may in like manner revoke or vary any appointment so made.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Powers and duties of public authorities and others**
 
@@ -124,7 +126,8 @@ Any local authority within the meaning of section 5(1) of the Local Government A
   (b) spend such sums of money as it thinks fit on any scheme or campaign for the abatement or prevention of litter.
 
 ### 12 Public authorities may make bylaws
-Every public authority, whether alone or acting jointly for the purposes of this Act with another public authority or public authorities, may from time to time make such bylaws as it thinks fit to give effect to the provisions of this Act.
+(1) Every public authority, whether alone or acting jointly for the purposes of this Act with another public authority or public authorities, may from time to time make such bylaws as it thinks fit to give effect to the provisions of this Act.
+(2) Section 161A of the Local Government Act 2002 applies to all bylaws made under this section as if they were made by a local authority.
 
 **Infringement notices**
 
@@ -159,6 +162,7 @@ Every public authority, whether alone or acting jointly for the purposes of this
 (7)
 (8) A territorial authority shall keep a record of every infringement notice issued pursuant to this section and of every payment made in respect of that notice for a period of at least 12 months from the date of issue or, as the case may be, of payment.
 (9) For the purposes of this section, a territorial authority may delegate its powers and functions under this section to a committee of the territorial authority or to its chief executive but to no other person.
+(10) An order under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 14A Entitlement to infringement fees
 A territorial authority may retain the infringement fee received by it for an infringement offence if the infringement notice was issued by a Litter Control Officer appointed by the territorial authority.
