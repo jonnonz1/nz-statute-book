@@ -1,5 +1,5 @@
 # Civil Union Act 2004
-_Consolidation as at 2018-08-14_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Civil Union Act 2004.
@@ -306,6 +306,7 @@ A prosecution under this Act may not be commenced more than 3 years from the dat
   (c) requires that the parties explicitly consent to entering into the relationship; and
   (d) provides that the relationship ends only on the death of a party or by a judicial or other process that would be recognised in the courts of New Zealand as a dissolution; and
   (e) requires that, during the relationship, the parties may not enter into that sort of relationship with anyone else, and may not marry anyone else.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 36 Rules of procedure
 (1) Rules may be made under section 16A of the Family Court Act 1980 that regulate the practice and procedure of the Family Court in proceedings under sections 10, 19, and 22.
