@@ -1,5 +1,5 @@
 # Biosecurity Law Reform Act 2012
-_Consolidation as at 2017-09-08_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Biosecurity Law Reform Act 2012.
@@ -7,6 +7,7 @@ This Act is the Biosecurity Law Reform Act 2012.
 ### 2 Commencement
 (1) Section 19 and Part 2 come into force on the date appointed by the Governor-General by Order in Council.
 (2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+(3) An order under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Amendments to Biosecurity Act 1993
 
@@ -3560,9 +3561,7 @@ Part 2 of Schedule 1 of the Ombudsmen Act 1975 is amended by inserting Managemen
 ### 92 Transitional provision on wallabies and possums
 (1) The organism wallaby (family Macropodidae) is deemed to be an unwanted organism within the meaning in the Biosecurity Act 1993 for 2 years from the day on which this section commences.
 (2) The Governor-General may, by Order in Council, extend the period referred to in subsection (1).
-(3) The order—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; and
-  (b) is a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(3) The order is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (4) Subsections (5) to (7) apply to a permit, licence, or other authority (permission) that—
   (a) was issued under the Wild Animal Control Act 1977; and
   (b) relates to a wallaby (family Macropodidae) or possum (family Phalangeridae); and
