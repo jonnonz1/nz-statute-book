@@ -1,5 +1,5 @@
 # Geographical Indications (Wine and Spirits) Registration Act 2006
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Geographical Indications (Wine and Spirits) Registration Act 2006.
@@ -8,6 +8,7 @@ This Act is the Geographical Indications (Wine and Spirits) Registration Act 200
 (1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
 (2) One or more Orders in Council may be made appointing different dates for the commencement of different provisions.
 (3) Any provision of this Act that is not already in force on 1 July 2018 comes into force on that date.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -598,6 +599,7 @@ The decision to which an appeal under this Act relates remains in full force pen
 (2) The Governor-General may prescribe any renewal fees under subsection (1)﻿(i) that—
   (a) recover some or all of the costs incurred by the Registrar in performing his or her functions under this Act:
   (b) recover those costs at a level that provides an incentive to allow registrations of geographical indications to expire if persons interested in the registration no longer find registration beneficial.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 57A Recognition of agents
 (1) Anything that must be done by or to a person under this Act in relation to a geographical indication may be done by or to the person’s expressly authorised agent.
