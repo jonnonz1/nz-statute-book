@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2021-03-15_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -388,10 +388,13 @@ The process set out in sections 14 and 15 applies to the extent that it is not m
     (i) the Minister; and
     (ii) if the amendment is not a minor amendment, the advisory panel.
 (2) As soon as practicable after receiving the report and any comments on it by the advisory panel (in the case of an amendment that is not minor), the Minister must decide whether the amendment should apply in New Zealand.
-(3) The Minister may, by notice in the Gazette, specify that the amendment applies for the purposes of this Act.
+(3) The Minister may, by notice, specify that the amendment applies for the purposes of this Act.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-### 25 Application of certain sections of Legislation Act 2012
-Sections 52 and 56 of the Legislation Act 2012 apply to regulations made under section 22 or 23 and notices in the Gazette under section 24 as if the regulations or notices incorporated material by reference and had been made in reliance on section 49 of that Act.
+### 25 Application of certain sections of Legislation Act 2019
+Section 66 and clauses 2 to 7 of Schedule 2 of the Legislation Act 2019 apply to the following as if they incorporated material by reference and were made in reliance on section 64 of that Act:
+  (a) regulations made under section 265 for the purposes of section 22 or 23; and
+  (b) a notice under section 24.
 
 ### 26 Proof of statements of principles
 The production in proceedings of a statement of principles or an amendment of a statement of principles, certified by the Chief of Defence Force as applying in New Zealand, is, in the absence of proof to the contrary, sufficient evidence that the statement of principles or the amendment of the statement of principles applies in New Zealand.
@@ -517,13 +520,14 @@ The production in proceedings of a statement of principles or an amendment of a 
 
 ### 34 Approval of draft Code by Minister
 (1) If the Minister agrees with the draft Code forwarded to him or her under section 33(5), the Minister must,—
-  (a) by notice in the Gazette, approve the Code; and
+  (a) approve the Code; and
   (b) present the Code to the House of Representatives within 12 sitting days after approving the Code; and
   (c) arrange for the approval of the Code to be notified in daily newspapers published in Auckland, Hamilton, Wellington, Christchurch, and Dunedin.
 (2) A notice given under subsection (1)﻿(c) must state where copies of the Code may be obtained.
-(3) The Code comes into force—
-  (a) on the date specified for that purpose in the Code, being a date after the date on which the Code is approved; or
-  (b) if no such date is specified, the day after the date on which the Code is approved.
+(3) The Code is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4) That Act applies as if—
+  (a) the Minister were the maker of the Code; and
+  (b) the Code were made by the Minister approving it.
 
 ### 35 VANZ's obligations in respect of Code
 (1) VANZ must, in all its dealings with veterans and claimants, ensure that its actions are consistent with and uphold the rights of veterans and claimants in the Code.
@@ -532,14 +536,18 @@ The production in proceedings of a statement of principles or an amendment of a 
   (b) promote awareness of the Code among veterans and claimants and members of the public generally.
 
 ### 36 Status of Code as disallowable instrument
-The Code is a disallowable instrument for the purposes of the Legislation Act 2012.
+[Repealed]
 
 ### 37 Amendments to Code
-(1) The Code may be amended by the Minister approving, by notice in the Gazette, 1 or more amendments to the Code proposed by the Minister or the Chief of Defence Force.
-(2) Sections 33 and 34 apply, with all necessary modifications, in relation to an amendment to the Code as if the amendment were the preparation of a draft Code.
+(1) The Code may be amended by the Minister approving 1 or more amendments to the Code proposed by the Minister or the Chief of Defence Force.
+(2) Sections 33 and 34(1) and (2) apply, with all necessary modifications, in relation to an amendment to the Code as if the amendment were the preparation of a draft Code.
 (3) However, those provisions do not apply to an amendment if—
   (a) the amendment is a minor or technical amendment; and
   (b) the Minister considers that compliance with those provisions is unnecessary.
+(4) An amendment to the Code is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) That Act applies as if—
+  (a) the Minister were the maker of the amendment; and
+  (b) the amendment were made by the Minister approving it.
 
 ## Part 3 — Scheme One
 
@@ -1736,8 +1744,9 @@ A veteran’s pension commences on the later of—
 (7) For the purposes of subsection (1), the notice—
   (a) must preserve the proportional relationship of the relationship (partner not receiving superannuation or pension) rate (before any abatement under section 171, but after the deduction of standard tax) to the relationship rate, the single living alone rate, and the single sharing accommodation rate (as they were before the adjustment):
   (b) must not reduce any of the rates of veteran's pension:
-  (c) comes into force, or is to be treated as having come into force, on 1 April of the calendar year in which it is made, and applies to veterans’ pensions on and after that date:
-  (d) must be published—
+  (ba) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (c) comes into force, or is to be treated as having come into force, on 1 April of the calendar year in which it is made, and applies to veterans’ pensions on and after that date, even if it is not yet published:
+  (d) must, in addition to being published under the Legislation Act 2019, be published—
     (i) on an Internet site maintained by or on behalf of VANZ; and
     (ii) in any other manner that VANZ thinks appropriate to bring the adjustments to the attention of claimants and the general public.
 
@@ -1905,7 +1914,11 @@ A person is not entitled to be paid a veteran's pension under section 182 unless
   (b) replacing the former name of a country or territory with its new name.
 (3) The Order in Council must state the date on which it takes effect, which may be a date before the date on which it is made.
 (4) The Order in Council applies to payments of the veteran’s pension under section 191 payable on or after the date on which the order takes effect.
+(5) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) commences in accordance with subsection (3), even if it is not yet published.
 (5)
+(6) An order under this section must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 190A Orders are confirmable instruments
 The explanatory note of an Order in Council made under section 190(2) must indicate that—
@@ -2581,6 +2594,7 @@ VANZ must provide the resources and administrative support necessary to enable t
   (40) Schedule 1 (transitional, savings, and related provisions):
   (41) Schedule 2 (entitlements).
 (2) The Governor-General may, by Order in Council, make regulations for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 266 Treatment cards
 (1) The Governor-General may, by Order in Council, make regulations providing for treatment cards for veterans.
@@ -2593,6 +2607,7 @@ VANZ must provide the resources and administrative support necessary to enable t
     (iv) what uses of a treatment card are not authorised; and
   (b) prescribe when a treatment card is to be recalled and when a treatment card may be cancelled; and
   (c) prescribe when the holder of a treatment card may be exempted from any conditions under which the card may be used.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 267 Regulations relating to treatment and rehabilitation
 (1) For the purposes of Part 4 and Schedule 2, the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations—
@@ -2622,6 +2637,7 @@ VANZ must provide the resources and administrative support necessary to enable t
     (i) the need of a veteran or claimant as assessed by VANZ:
     (ii) assessments conducted by or on behalf of any other relevant government agency:
   (c) payments to persons not resident in New Zealand at the time of receiving the payments.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 268 Regulations relating to ancillary services for rehabilitation
 (1) For the purposes of clause 6 of Schedule 2, the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations—
@@ -2647,6 +2663,7 @@ VANZ must provide the resources and administrative support necessary to enable t
     (vi) the responsibilities of the person in relation to his or her rehabilitation:
     (vii) the geographic location in which the person lives:
   (c) provide that VANZ is to make payments only if specified service thresholds have been met or exceeded.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 269 Regulations relating to when conditions stabilise and to assessing whole-person impairment
 (1) For the purposes of Part 3 of Schedule 2, the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations specifying when a claimant's condition is to be regarded as stabilised for the purposes of this Act.
@@ -2661,7 +2678,8 @@ VANZ must provide the resources and administrative support necessary to enable t
   (h) prescribe the scale of lump sum compensation amounts or independence allowance payable in respect of different degrees of whole-person impairment under clauses 46 and 49 of Schedule 2 so that the amount increases exponentially or otherwise as the degree of impairment increases:
   (i) prescribe such other matters as may be desirable to enable the assessment, calculation, and payment of lump sums or independence allowance.
 (3) The Minister must not make any recommendation under subsection (1) or (2) without first consulting the persons or organisations that the Minister considers appropriate, having regard to the subject matter of the proposed regulations.
-(4) Any material incorporated by reference under subsection (2)﻿(a) must be incorporated in accordance with, and subject to, subpart 2 of Part 3 of the Legislation Act 2012.
+(4) Any material incorporated by reference under subsection (2)﻿(a) must be incorporated in accordance with, and subject to, sections 63 to 66 and Schedule 2 of the Legislation Act 2019.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 3 — Offences
 
