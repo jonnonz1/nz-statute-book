@@ -1,5 +1,5 @@
 # Racing Industry Act 2020
-_Consolidation as at 2021-08-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Racing Industry Act 2020.
@@ -9,6 +9,7 @@ This Act is the Racing Industry Act 2020.
 (2) Sections 42 to 50 come into force on a date to be appointed by the Governor-General by Order in Council.
 (3) To the extent that they have not earlier been brought into force under subsection (2), sections 42 to 50 come into force on 1 January 2022.
 (4) The rest of this Act comes into force on 1 August 2020.
+(5) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -164,6 +165,7 @@ The purposes of this Act are to—
   (a) adding the name of an organisation to it; or
   (b) omitting the name of an organisation from it; or
   (c) replacing the name of an organisation with any different name.
+(4) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 6 Application of Act to hunt clubs
 Nothing in sections 21 and 22 or subpart 2 or 3 of Part 2 applies to a hunt club.
@@ -289,6 +291,7 @@ A member of a racing club must not have any pecuniary interest, in their capacit
   (c) extending any encumbrances in respect of the land that comprises a racing venue owned by the club.
 (2) A racing code may grant approval under subsection (1) generally or specifically and subject to any conditions that the code thinks fit.
 (3) The Governor-General may, by Order in Council made on the recommendation of the Minister, specify the date on which the restriction set out in subsection (1) ceases to apply to racing clubs registered with the relevant racing code.
+(4) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 22 Restriction on dealing must be recorded on record of title
 (1) This section applies in respect of any land comprising a racing venue to which section 21 applies.
@@ -349,6 +352,9 @@ In this subpart, unless the context otherwise requires,—
 (6) The proceeds of the sale of a surplus venue vested in a racing code under subsection (5) must only be used to repair, upgrade, or construct another racing venue located in the same region of New Zealand as the venue vested in the racing code unless the code is satisfied that no further racing venues need to be constructed in that region or any existing racing venues in that region do not need repair or upgrading in the foreseeable future.
 (7) The Governor-General may, by Order in Council made on the recommendation of the Minister, approve an amendment to a transfer proposal approved under subsection (2) and, if approved, the amendment takes effect on a date specified in the order (which may be the transfer date or any later date).
 (8) An Order in Council made under this section must identify the transfer proposal or amendment approved, but need not incorporate it in the order.
+(9) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) in the case of an order under subsection (7), may take effect in accordance with that subsection even if not yet published.
 
 ### 28 Minister must have regard to certain matters before recommending order under section 27
 (1) In determining whether to recommend the making of an order under section 27, the Minister must—
@@ -518,9 +524,7 @@ General
 ### 39 Availability and status of racing rules
 (1) As soon as practicable after making or amending any racing rules, each racing code must send a copy of the rules or the amended rules to the Minister.
 (2) Rules made under section 37 must be published on an Internet site maintained by or on behalf of the relevant racing code.
-(3) Racing rules made under section 37—
-  (a) are contractual in nature; and
-  (b) are neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 (and do not have to be presented to the House of Representatives in accordance with section 41 of that Act).
+(3) Racing rules made under section 37 are contractual in nature.
 
 ### 40 Rules controlling or prohibiting admission to racecourses
 (1) This section applies to any racecourse on a day during which racing is being held on that racecourse, whether or not it is, or forms part of, a reserve or other place for which there exists a right of public use or entry.
@@ -841,6 +845,7 @@ TAB NZ must, during or as soon as practicable after the end of a racing year, pa
   (ii) sports betting:
   (iii) fixed-odds racing betting
 (4) Before making a recommendation under subsection (1), the Minister must consult the Minister for Sport and Recreation.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 4 — Betting and TAB venues
 
@@ -865,7 +870,7 @@ TAB NZ may conduct, either by itself or by means of racing clubs or other agents
 **Racing betting**
 
 ### 76 Racing betting rules
-(1) TAB NZ may, by notice in the Gazette, make, amend, and revoke rules providing for the establishment of a system (or systems) of racing betting, and providing for any matter relating to the conduct and operation of racing betting by TAB NZ.
+(1) TAB NZ may make, amend, and revoke rules providing for the establishment of a system (or systems) of racing betting, and providing for any matter relating to the conduct and operation of racing betting by TAB NZ.
 (2) Without limiting subsection (1), the rules—
   (a) may state the kinds of betting that may be undertaken; and
   (b) may state the circumstances in which—
@@ -876,6 +881,7 @@ TAB NZ may conduct, either by itself or by means of racing clubs or other agents
 (3) Rules made by TAB NZ under this section may provide that, if there is racing betting on a race, bets may be placed up to 20 seconds after the race starts.
 (4) TAB NZ must consult each racing code and the Racing Integrity Board before making, amending, or revoking rules under this section.
 (5) However, subsection (4) does not apply if TAB NZ and a racing code or the Racing Integrity Board (as the case may be) agree otherwise in any particular case.
+(6) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 77 Application of revenue from racing betting
 (1) TAB NZ must apply the amounts received by it for racing betting, including the net return from bets laid off under any rule in force under section 76(2)﻿(b)﻿(ii), for a racing year in payment of (or in respect of)—
@@ -889,7 +895,7 @@ TAB NZ may conduct, either by itself or by means of racing clubs or other agents
 **Sports betting**
 
 ### 78 Sports betting rules
-(1) TAB NZ may, by notice in the Gazette, make, amend, and revoke rules providing for the establishment of a system (or systems) of sports betting, and providing for any matter relating to the conduct and operation of sports betting by TAB NZ.
+(1) TAB NZ may make, amend, and revoke rules providing for the establishment of a system (or systems) of sports betting, and providing for any matter relating to the conduct and operation of sports betting by TAB NZ.
 (2) Without limiting subsection (1), the rules—
   (a) may state the kinds of betting that may be undertaken; and
   (b) may state the circumstances in which—
@@ -899,6 +905,7 @@ TAB NZ may conduct, either by itself or by means of racing clubs or other agents
   (c) must state the amounts described in section 84(2).
 (3) TAB NZ must consult Sport and Recreation New Zealand before making, amending, or revoking any rules under subsection (1).
 (4) However, subsection (3) does not apply if TAB NZ and Sport and Recreation New Zealand agree otherwise in any particular case.
+(5) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 79 Agreements with New Zealand national sporting organisations
 (1) TAB NZ may not conduct sports betting on any sporting event or events without the written agreement of the appropriate New Zealand national sporting organisation.
@@ -932,7 +939,7 @@ TAB NZ may conduct, either by itself or by means of racing clubs or other agents
 ### 83 Rules relating to other racing or sports betting conducted by TAB NZ
 (1) TAB NZ may make rules not inconsistent with this Act for, or with respect to, the conduct and operation of other racing or sports betting it conducts.
 (2) The rules must be approved by the Gambling Commission.
-(3) Any rules made under this section take effect on and after the date of their notification in the Gazette, or any later date that is specified in the rules.
+(3)
 (4) Before making any rules under this section, TAB NZ must consult—
   (a) those stakeholders in the New Zealand betting industry that it considers ought to be consulted; and
   (b) the department responsible for the integrated problem gambling strategy under section 317 of the Gambling Act 2003.
@@ -956,10 +963,10 @@ TAB NZ may conduct, either by itself or by means of racing clubs or other agents
   (a) only temporary; and
   (b) for the purpose of a particular promotion.
 
-### 85 Availability and status of betting rules
+### 85 Availability of betting rules
 (1) As soon as practicable after making or amending any betting rules under this subpart, TAB NZ must send a copy of the rules or amended rules to the Minister.
-(2) Rules made under section 76 or 78 are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(3) Rules made under section 76 or 78 must be notified in the Gazette, and come into force on the date specified for the purpose in the rules (which must not be earlier than the date of their notification) or, if no date is specified, on the date of notification.
+(2)
+(3)
 (4) TAB NZ must publish a copy of any betting rules (or amended rules) made under this subpart on an Internet site maintained by or on behalf of TAB NZ.
 
 ### 86 Amounts of dividends
@@ -1038,18 +1045,20 @@ A territorial authority consent is required if TAB NZ proposes to establish a TA
 **Regulations relating to TAB NZ operations**
 
 ### 98 Regulations relating to harm prevention and minimisation
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing requirements for the design, layout, and furnishing of a TAB venue:
   (b) prescribing the information or messages that TAB NZ must provide to persons about racing betting and sports betting at the venue:
   (c) prescribing codes requiring the advertising of racing betting, sports betting, racecourses, and TAB venues to be responsible:
   (d) requiring TAB NZ to provide problem gambling awareness training for employees involved in supervising racing betting and sports betting at TAB venues:
   (e) prescribing systems or processes ancillary to racing betting and sports betting, including the availability of automatic teller machines at a TAB venue:
   (f) prescribing any other requirements relating to harm prevention or minimisation.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 99 Regulations relating to admission to and exclusion from TAB venues
 (1) The Governor-General may, by Order in Council, make regulations controlling or prohibiting admission to TAB venues.
 (2) The regulations may exclude from a TAB venue any specified class or classes of person, either absolutely or subject to any special conditions that may be specified in the regulations.
 (3) A person who enters, or remains in, a TAB venue in breach of a regulation made under this section must be treated as having committed an offence under section 4 of the Trespass Act 1980 and is liable accordingly.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 100 Regulations relating to exclusion of problem gamblers from TAB venues and racecourses
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
@@ -1063,6 +1072,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (b) set out the steps to be taken to identify a person as a problem gambler:
   (c) prescribe the persons (including the qualifications of those persons) who are authorised to perform specific functions in relation to identifying and excluding problem gamblers:
   (d) set out the rights, including the rights of appeal against specified decisions, of a person who is subject to the procedure.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Problem gambling levy**
 
@@ -1222,6 +1232,7 @@ The terms and conditions of a betting information use agreement must—
   (c) each racing code:
   (d) Sport and Recreation New Zealand:
   (e) relevant New Zealand national sporting organisations (as applicable).
+(5) An instrument setting rates under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 115 Information to be provided relating to consumption charges
 (1) An offshore betting operator who is required to pay consumption charges must provide the prescribed information to the designated authority for the purpose of enabling the authority to monitor the amounts due as consumption charges.
@@ -1296,6 +1307,7 @@ The amount payable as a penalty under either of section 112 or section 116 must 
 (2) Regulations made under this section may provide differently for different classes of offshore betting operator.
 (3) Regulations made under this section are not invalid merely because they confer any discretion on, or allow any matter to be determined or approved by, any person.
 (4) Before making a recommendation, the Minister must consult (as appropriate) TAB NZ, each racing code, and the Minister for Sport and Recreation.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 2 — Other matters
 
@@ -1357,6 +1369,7 @@ TAB NZ is an organisation within the meaning of that term in section 2(1) of the
   (c) prescribing the minimum amounts, or the method to be used for calculating minimum amounts, payable to New Zealand national sporting organisations and Sport and Recreation New Zealand for the purposes of section 82(1)﻿(e):
   (d) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) Before making a recommendation for regulations under subsection (1)﻿(c), the Minister must consult the Minister for Sport and Recreation.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Consequential amendments, repeal, and revocation**
 
