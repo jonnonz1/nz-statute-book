@@ -1,5 +1,5 @@
 # New Zealand Council for Educational Research Act 1972
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to the powers and functions of the New Zealand Council for Educational Research
 
@@ -231,7 +231,7 @@ The Council may in any financial year out of its income available for general pu
 (1A) Rules made under subsection (1) must require the notification of elections.
 (1B) The Council may from time to time, by resolution, make rules that are reasonably necessary to enable the Council to perform its functions.
 (2) Subject to section 11, notice of every resolution proposed to be submitted to any meeting for the making, amendment, or revocation of any rule shall be given to every member of the Council not less than 14 clear days before the day fixed for the meeting.
-(3) Rules made under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 34 Consequential amendments, savings, and repeals
 (1) Amendment(s) incorporated in the principal Act(s).
