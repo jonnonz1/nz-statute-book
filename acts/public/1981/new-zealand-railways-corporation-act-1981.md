@@ -1,5 +1,5 @@
 # New Zealand Railways Corporation Act 1981
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to establish a corporation to maintain, operate, and develop the services at present carried on by the New Zealand Government Railways Department and to consolidate and amend the law relating thereto
 
@@ -194,6 +194,7 @@ Subject to sections 4, 6, and 7, the Corporation may regulate its own procedure 
   (e) generally providing for any matters that may be necessary in order to give full effect to this section.
 (5) All persons employed under this section shall in the performance of their duties observe instructions issued from time to time by the Corporation with respect to those duties.
 (6) In this section the terms master, officer, and seaman have the same meanings as in the Shipping and Seamen Act 1952.
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 18 Carriage of goods
 (1) The provisions of subpart 1 of Part 5 of the Contract and Commercial Law Act 2017, so far as they are applicable, shall apply with respect to the receipt, custody, carriage, and delivery of goods under this Act, and, in respect of such matters, the provisions of this Act shall be read subject to the provisions of that subpart.
@@ -359,8 +360,11 @@ The Corporation may from time to time enter into any agreement or contract with 
 ### 36 Capital of Corporation
 (1) The Governor-General shall, on the advice of the Minister of Finance, by Order in Council determine the capital of the Corporation at the commencement of this Act.
 (2) Any amount owing to the Crown by the Corporation at the commencement of this Act and specified in the Order in Council made under subsection (1) shall be deemed to have been paid to the Corporation by the Minister of Finance as part of the capital of the Corporation, and the liability of the Corporation to repay advances of that amount shall be extinguished.
-(3) The Corporation may from time to time, by resolution, recommend to the Minister of Finance that the capital of the Corporation be increased, and in any such case the Minister of Finance may, by notice in the Gazette, increase the capital of the Corporation to the amount specified in the notice. The amount of any such increase shall be paid to the Corporation by the Minister of Finance.
-(4) The Corporation may from time to time, by resolution, recommend to the Minister of Finance that the capital of the Corporation be reduced, and in any such case, the Minister of Finance may, by notice in the Gazette, decrease the capital of the Corporation to the amount specified in the notice.
+(3) The Corporation may from time to time, by resolution, recommend to the Minister of Finance that the capital of the Corporation be increased, and in any such case the Minister of Finance may, by notice, increase the capital of the Corporation to the amount specified in the notice. The amount of any such increase shall be paid to the Corporation by the Minister of Finance.
+(4) The Corporation may from time to time, by resolution, recommend to the Minister of Finance that the capital of the Corporation be reduced, and in any such case, the Minister of Finance may, by notice, decrease the capital of the Corporation to the amount specified in the notice.
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an order under subsection (1):
+  (b) a notice under subsection (3) or (4).
 
 ### 37 Borrowing by and loans to Corporation
 (1) The Corporation may from time to time, with the consent of the Minister of Finance and on and subject to such terms and conditions as he thinks fit, borrow money (whether by overdraft or otherwise) and issue debentures, or mortgage or charge any of its real or personal property.
@@ -718,9 +722,10 @@ Notwithstanding the definition of Government service in section 2 of the Governm
   (c) regulations may be so made as to apply generally to all railways and other services lawfully carried on by the Corporation or to any particular railway or service or part of a railway or service:
   (d) every person who acts in contravention of any regulation under this section commits an offence and shall be liable on conviction to a fine not exceeding $100:
   (e) if in the opinion of the Corporation the breach of any regulation would cause or be likely to cause danger or annoyance to the public or hindrance to the proper use or working of a railway, the Corporation may authorise any employee, whether in person or otherwise, summarily to interfere or othewise take all proper steps to prevent the occurrence of the danger, annoyance, or hindrance, or the continuance or repetition thereof; and the taking of any such steps shall not relieve any person from any penalty to which he may be liable in respect of the breach of any such regulation.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 111 Scales of charges
-(1) The Corporation may from time to time, by notice in the Gazette, fix scales of charges to be paid in respect of railways, or of any specified railway or any part thereof, or in respect of any road passenger service to which section 63 applies, or in respect of any other services which are lawfully carried on by the Corporation, for—
+(1) The Corporation may from time to time, by notice, fix scales of charges to be paid in respect of railways, or of any specified railway or any part thereof, or in respect of any road passenger service to which section 63 applies, or in respect of any other services which are lawfully carried on by the Corporation, for—
   (a) the conveyance of passengers; or
   (b) the use by persons of a railway or any facilities or services provided by the Corporation; or
   (c) the carriage of goods, or goods received on or into, or stored in or delivered from, any wharf, pier, jetty, office, store, shed, or yard in connection with any railway or any service lawfully operated by the Corporation; or
@@ -732,12 +737,12 @@ Notwithstanding the definition of Government service in section 2 of the Governm
   (i) the loading or unloading of goods from or into lighters, into or from any vessel lying at or adjacent to any wharf, pier, jetty, berthage, or mooring in connection with a railway; or
   (j) the receipt or delivery of goods from or to any vessel lying at or adjacent to any such wharf, pier, jetty, berthage, or mooring; or
   (k) insurance (in addition to any other charges payable) in respect of goods carried or to be carried pursuant to a contract for carriage at declared value risk (within the meaning of subpart 1 of Part 5 of the Contract and Commercial Law Act 2017).
-(2) Notwithstanding anything in subsection (1), the Corporation, or any employee duly authorised by it, may from time to time fix special charges to be paid in lieu of the ordinary ones upon special occasions, or for such times as it thinks fit; and it shall not be necessary to publish these special charges in the Gazette.
+(2) Notwithstanding anything in subsection (1), the Corporation, or any employee duly authorised by it, may from time to time fix special charges to be paid in lieu of the ordinary ones upon special occasions, or for such times as it thinks fit.
 (3) For the purpose of any scales of charges fixed under this section in the case of the demurrage of rolling stock at destination stations, consignees shall be deemed to have requested the demurrage.
-(4) The Corporation may, by notice in the Gazette, impose terms and conditions with respect to any of the matters mentioned in paragraphs (a) to (k) of subsection (1), including terms and conditions with respect to the conveyance of passengers and the terms and conditions on and subject to which goods will be received, held, carried, delivered, or otherwise dealt with:
+(4) The Corporation may, by notice, impose terms and conditions with respect to any of the matters mentioned in paragraphs (a) to (k) of subsection (1), including terms and conditions with respect to the conveyance of passengers and the terms and conditions on and subject to which goods will be received, held, carried, delivered, or otherwise dealt with:
   provided that while any such notice imposing terms and conditions relating to the checking of luggage is in force no liability shall be incurred by the Corporation in respect of luggage which has not been duly checked.
 (5) Any terms and conditions imposed under the last preceding subsection shall apply with respect to any of the matters mentioned in paragraphs (a) to (k) of subsection (1), notwithstanding that special scales of charges may be payable:
-  provided that, with respect to any of those matters for which special scales of charges are fixed, the Corporation or any employee duly authorised by it may impose special terms and conditions in addition to or in lieu of the ordinary ones; and it shall not be necessary to publish them in the Gazette.
+  provided that, with respect to any of those matters for which special scales of charges are fixed, the Corporation or any employee duly authorised by it may impose special terms and conditions in addition to or in lieu of the ordinary ones.
 (6) Without restricting the generality of subsection (5), it is hereby declared that any terms and conditions imposed under subsection (4) may include—
   (a) terms and conditions exempting the Corporation from liability for any loss, damage, or expense, whether due to delays in transit or any other cause, where the loss or damage or expense—
     (i) is not occasioned by the negligence or wrongful act in the Corporation or its employees or agents; or
@@ -751,6 +756,7 @@ Notwithstanding the definition of Government service in section 2 of the Governm
 (7) The power conferred by this section on the Corporation or any employee duly authorised by it to fix scales of charges to be paid for persons or goods carried on a railway shall include, and be deemed at all times heretofore to have included, the power to fix those scales by reference to distance.
 (8) Where any scale is fixed by reference to distance, the distance between any 2 named stations shall, unless it is otherwise specially provided in any case in the notice fixing the scale, be deemed and taken to be the distance as shown on the Corporation's or Department's, as the case may be, record when the section or sections of railway affected were first opened for traffic, notwithstanding that the distance may have been increased or reduced by subsequent alterations of the railway.
 (9) The power to fix scales of charges conferred on the Corporation by this section shall include, and shall be deemed always to have included, the power to fix scales of charges for sorting goods brought on to the railway and sorted by the Corporation in any shed on the railway or on any other part of the railway, whether the goods are, or are intended to be, carried on the railway or not, and notwithstanding that the goods may be brought on to the railway in pursuance of any agreement or arrangement entered into or made by the Corporation with respect to the working by the Corporation of any wharf or jetty.
+(10) A notice under subsection (1) or (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Codes of practice**
 
@@ -759,16 +765,21 @@ Notwithstanding the definition of Government service in section 2 of the Governm
 (2) The Corporation may, for the purposes of this Act, from time to time issue codes of practice, and may from time to time amend or revoke any such code of practice.
 
 ### 113 Codes of practice to be approved by Minister
-(1) No code of practice, and no amendment or revocation of a code of practice, shall have any force or effect until it has been approved by the Minister.
+(1) No code of practice, and no amendment or revocation of a code of practice, shall have any force or effect until it has been approved by the Minister and published under the Legislation Act 2019.
 (2) The Minister shall not approve any code of practice, or any amendment or revocation of a code of practice, unless—
   (a) not less than 1 month's notice of the Corporation's intention to apply for approval has been published in the Gazette; and
   (b) such persons or representatives of persons as the Minister considers will be affected thereby have had an opportunity to consider it and to comment thereon to the Minister.
-(3) Whenever the Minister has approved any code of practice, or any amendment or revocation of a code of practice, notification thereof shall be published in the Gazette. Every such code of practice, amendment, or revocation shall in addition be promulgated in such manner as the Minister directs.
+(3) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a code of practice:
+  (b) an amendment to or revocation of a code of practice.
+(3A) The Legislation Act 2019 applies as if—
+  (a) the Minister were the maker of the code of practice, amendment, or revocation; and
+  (b) the code of practice, amendment, or revocation were made by the Minister approving it.
 (4) The fact that the Minister has approved any code of practice or amendment or revocation of a code of practice shall be conclusive evidence that the requirements of this section have been complied with.
 
 ### 114 Citation and proof of codes of practice
-(1) In any regulations made under this Act any code of practice or amendment of a code of practice may, without prejudice to any other mode of citation, be cited by the title or reference given to it by the Corporation, and by its date of issue; and such citation shall be deemed to include and refer to the latest code of practice or amendment in existence when the regulations were made.
-(2) Without affecting any other method of proof, the production in any proceedings of a copy of any code of practice or amendment of a code of practice purporting to be issued by the Corporation shall, in the absence of proof to the contrary, be sufficient evidence that it has been issued under the authority of section 112 and that it has been approved by the Minister under section 113.
+(1) In any regulations made under this Act any code of practice or amendment of a code of practice may, without prejudice to any other mode of citation, be cited by the title or reference given to it by the Corporation, and by its date of publication under the Legislation Act 2019; and such citation shall be deemed to include and refer to the latest code of practice or amendment in existence when the regulations were made.
+(2) Without affecting any other method of proof, the production in any proceedings of a copy of any code of practice or amendment of a code of practice published under the Legislation Act 2019 shall, in the absence of proof to the contrary, be sufficient evidence that it has been issued under the authority of section 112 and that it has been approved by the Minister under section 113.
 
 ## Part 10 — General provisions
 
@@ -808,7 +819,8 @@ If any person not having lawful authority or the written permission of the Corpo
 (3) A certificate under the seal of the Corporation, specifying the distance between any 2 points on a railway in accordance with the Corporation record, shall be conclusive evidence of the fact.
 
 ### 118 Fees for preparation of documents, etc
-For the preparation of Proclamations, Orders in Council, deeds, leases, agreements, assignments, and for endorsing consents on mortgages, assignments, or subleases, and for preparing or consenting to any other document of a like nature, the Corporation may charge such fees as may be published from time to time in the Gazette.
+(1) For the preparation of Proclamations, Orders in Council, deeds, leases, agreements, assignments, and for endorsing consents on mortgages, assignments, or subleases, and for preparing or consenting to any other document of a like nature, the Corporation may charge such fees as may be set by notice.
+(2) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 119 Authorisation of reclamation
 (1) Notwithstanding anything in section 178 of the Harbours Act 1950, the Minister is hereby authorised to undertake and enter into contracts for the reclamation for railway purposes of the land described in Schedule 3.
