@@ -1,5 +1,5 @@
 # Maori Housing Act 1935
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to make better provision for the housing of the Maori people
 
@@ -40,7 +40,7 @@ For the purpose of providing dwellings and improved housing conditions for Maori
 ### 5 Chief executive may require assignments of moneys as security to be irrevocable
 (1) The chief executive may require any order on or assignment of moneys given as security for the repayment of any moneys advanced under the provisions of this Act to be expressed to be irrevocable, notwithstanding the death of the person giving such order or assignment or of his successors in title, and any such order or assignment shall be irrevocable accordingly except with the consent in writing of the chief executive.
 (2) Notwithstanding any rule of law or regulation or anything in this or any other Act to the contrary, any company, body corporate, or person upon whom notice of any such order or assignment has been served shall be bound to accept and to act upon any such order or assignment and to pay to the person nominated in that behalf in the order or assignment all moneys from time to time payable thereunder.
-(3) Every such order or assignment shall be taken in the name of Her Majesty the Queen.
+(3) Every such order or assignment shall be taken in the name of the Sovereign.
 
 ### 6 Assignments may be of moneys from lands vested in trustees
 (1) For the purposes of this Act it shall be competent for any person to give an order on or an assignment of the proceeds of the alienation of any land (including compensation moneys for land taken), whether any such lands are or were vested in the Māori Trustee, the East Coast Commissioner, Public Trust, or any other trustee, or not.
@@ -56,7 +56,7 @@ No moneys advanced under the provisions of this Act shall, unless the chief exec
 (1) As security for the repayment of any advances made under the provisions of this Act, the chief executive may require the person to whom it is proposed to make the advance to execute a mortgage of the land in respect of which the advance has been made (hereinafter referred to as the said land) or of his interest therein, including a leasehold interest, and in addition may require such person to execute a mortgage of other lands owned by him or in which he has an interest:
   provided that where the said land or such other lands are owned by other persons, either jointly or in common with the person receiving the advance, no such mortgage shall prejudice or affect the interests of such other owners except in so far as they consent thereto.
 (2) The chief executive may also require the person to whom or on whose behalf it is proposed to make any such advance to give such securities over his stock, chattels, machinery, implements, or other assets as it may deem expedient.
-(3) All such mortgages, chattels, and other securities shall be taken in the name of Her Majesty the Queen.
+(3) All such mortgages, chattels, and other securities shall be taken in the name of the Sovereign.
 
 ### 10 Rate of interest on advances
 The rate of interest to be charged on advances made under this Act shall be such rate as the chief executive determines, but not in excess of the rate in respect of similar loans made by Kāinga Ora–Homes and Communities.
@@ -83,7 +83,7 @@ The chief executive may from time to time make further advances for the purpose 
 (5) Any money heretofore received into the Public Account and held in the name of any person for the purposes set out in subsection (1) shall be deemed to have been received and held pursuant to the said subsection (1) and all the provisions of this section shall extend and apply to any such money accordingly.
 
 ### 14 Regulations
-For the purposes of this Act the Governor-General may from time to time make regulations, not inconsistent with this Act, for any of the following purposes, namely:
+(1) For the purposes of this Act the Governor-General may from time to time make regulations, not inconsistent with this Act, for any of the following purposes, namely:
   (a) prescribing the conditions upon which advances under the foregoing provisions of this Act may be granted:
   (b) prescribing rules for the direction, supervision, and control of the erection or alteration of dwellings and buildings in respect of which advances are made under this Act:
   (c) providing for the inspection, management, and control by the chief executive of any such dwellings:
@@ -91,6 +91,7 @@ For the purposes of this Act the Governor-General may from time to time make reg
   (e) providing for the appointment of agents for the collection of moneys payable to the Crown under this Act:
   (f) prescribing the terms of repayment of moneys advanced under this Act, including tables for the payment of principal and interest:
   (g) prescribing any other matters that may be deemed necessary for the purpose of giving effect to this Act.
+(2) Regulations under this section (including those made in reliance on section 31 of the Maori Housing Amendment Act 1938) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 14A Service of notices
 Any notice which, for the purposes of this Act, is required to be served on any person shall be deemed to be sufficiently served if it is served in accordance with sections 353 to 360 of the Property Law Act 2007, and all the provisions of that section shall, with any necessary modifications, apply to any such notice accordingly.
@@ -113,7 +114,7 @@ This Act may be cited as the Maori Housing Amendment Act 1938, and shall be read
 (1) The chief executive may by notice published in the Gazette—
   (a) set apart for the purposes of the principal Act, any land which is Crown land under the Land Act 1948 or is State housing land within the meaning of the Housing Act 1955 and which is not subject to any lease or licence:
   (b) vary or revoke any Proclamation issued under this section before 1 January 1971 or any notice issued under this section.
-(2) When any land has, whether before or after the commencement of this Act, been set apart pursuant to this section or is under section 3 deemed to be set apart for the purposes of the principal Act, the District Land Registrar, at the request of the chief executive, shall endorse on the existing certificate of title to the land a memorial that the land is subject to the Maori Housing Act 1935, or if no certificate of title already exists for the land, the District Land Registrar shall issue a certificate in the name of Her Majesty the Queen and shall endorse such a memorial thereon; and shall, at the like request, cancel the memorial as to the whole or any part of the land.
+(2) When any land has, whether before or after the commencement of this Act, been set apart pursuant to this section or is under section 3 deemed to be set apart for the purposes of the principal Act, the District Land Registrar, at the request of the chief executive, shall endorse on the existing certificate of title to the land a memorial that the land is subject to the Maori Housing Act 1935, or if no certificate of title already exists for the land, the District Land Registrar shall issue a certificate in the name of the Sovereign and shall endorse such a memorial thereon; and shall, at the like request, cancel the memorial as to the whole or any part of the land.
 
 ### 3 Chief executive may acquire land to be set apart under principal Act
 (1) For any of the purposes of the principal Act the chief executive may from time to time acquire on behalf of the Crown, whether from a Maori or from any other person, and whether by way of purchase, gift, lease, licence, or otherwise, such lands or interests in land as the chief executive thinks fit.
@@ -124,13 +125,13 @@ This Act may be cited as the Maori Housing Amendment Act 1938, and shall be read
 ### 4 Chief executive may carry out works and erect dwellings
 (1) The chief executive may from time to time cause to be undertaken and carried out, in connection with any land that is for the time being set apart for the purposes of the principal Act, such works as it thinks fit, including (but without in any way limiting the chief executive's powers hereunder) the survey, subdivision, reclamation, draining, roading, bridging, fencing, and clearing of the land, the provision of lighting, heating, sanitation, water supply, and other conveniences, and any other works calculated to improve the land or to render it suitable or more suitable for the purposes of the principal Act.
 (2) The chief executive may cause dwellings to be erected on any land set apart as aforesaid, and may from time to time alter, enlarge, repair, rebuild, or otherwise improve any dwelling or any other building or erection.
-(3) The chief executive, with the consent of the Commissioner of Crown Lands, given either generally or in respect of any particular area of land, may exercise any powers conferred on him or her by this section in respect of any land vested in Her Majesty the Queen and subject to the Land Act 1948, notwithstanding that the land has not been set apart for the purposes of the principal Act.
+(3) The chief executive, with the consent of the Commissioner of Crown Lands, given either generally or in respect of any particular area of land, may exercise any powers conferred on him or her by this section in respect of any land vested in the Sovereign and subject to the Land Act 1948, notwithstanding that the land has not been set apart for the purposes of the principal Act.
 (4) Where any expenditure has been incurred by the chief executive under subsection (3) in respect of any land, the land shall not, without the consent of the chief executive, be disposed of under the Land Act 1948 to any person other than a person nominated in that behalf by the chief executive.
 
 ### 4A Training of young Maori
 (1) The chief executive may from time to time employ young Maori in carpentry and other trades associated with house building and may from time to time make suitable arrangements for the training of any such persons.
 (2) Every young Maori who desires to receive any such employment and training shall execute an agreement with the chief executive setting out the conditions and terms under which the training shall be given, and any such agreement shall be binding upon the parties notwithstanding that any party to the agreement may be under the age of 20 years.
-(3) Nothing in the Industry Training Act 1992 or in the State Sector Act 1988 or in the New Zealand Railways Corporation Act 1981 or in the Post Office Act 1959 shall apply to any such agreement.
+(3) Nothing in the Industry Training Act 1992 or in the Public Service Act 2020 or in the New Zealand Railways Corporation Act 1981 or in the Post Office Act 1959 shall apply to any such agreement.
 
 **Disposal of dwellings**
 
@@ -148,7 +149,7 @@ Any dwelling disposed of by way of sale under this Act shall be sold at a price 
 (2) Where the purchase money is payable by instalments the purchaser shall pay interest on the amount of the purchase money from time to time outstanding at a rate to be determined by the chief executive, not exceeding in any case the current rate fixed under section 10 of the principal Act in respect of advances under that Act.
 (3) The chief executive may from time to time, in the chief executive's discretion, and either unconditionally or upon or subject to such conditions as he or she thinks fit, extend the time allowed by any agreement under this section for the payment of the whole or any part of the purchase money, interest, or other moneys payable thereunder.
 (4) For the purpose of securing the payment of any purchase money, interest, or other moneys payable pursuant to any agreement under this section the chief executive may require the purchaser to give such orders or assignments as the chief executive thinks fit over any moneys payable or to become payable to him, whether as the proceeds of the alienation of any land, or as the proceeds of the sale of the produce of any land or stock, or otherwise howsoever.
-(5) The provisions of section 18 of the Housing Act 1955 shall apply to agreements under this section in all respects as if references in the said section 18 to the Corporation were references to the chief executive or to the Crown, as the case may require, the reference in subsection (5) of that section to regulations were a reference to regulations under this Act, and the reference in that subsection to section 37 of the Housing Act 1955 were a reference to section 11 of this Act.
+(5) The provisions of section 18 of the Housing Act 1955 shall apply to agreements under this section in all respects as if references in the said section 18 to Kāinga Ora–Homes and Communities were references to the chief executive or to the Crown, as the case may require, the reference in subsection (5) of that section to regulations were a reference to regulations under this Act, and the reference in that subsection to section 37 of the Housing Act 1955 were a reference to section 11 of this Act.
 
 ### 9 Value of improvements effected during currency of agreement to be added to price
 (1) If during the currency of an agreement to purchase any dwelling the chief executive alters, enlarges, repairs, rebuilds, or otherwise improves the dwelling pursuant to the chief executive's powers in that behalf, the value of the work so done as fixed by the chief executive shall be a debt to the Crown due by the purchaser, and shall be recoverable accordingly, or may be added by the chief executive to the amount of the purchase money for the time being owing under the agreement to purchase.
@@ -222,7 +223,7 @@ The provisions of Part 13 of the Land Act 1924 and of Part 12 of the Maori Land 
 (5) A copy of every memorial of charge executed by the chief executive shall be served upon the person or persons whose interest is charged.
 (6) The principal money secured under any such memorial of charge shall be due upon the date or dates to be named therein in that behalf, and interest shall be payable on any such principal sum from the date of commencement specified in the memorial with half-yearly rests on the last days of March and September in each year at the rate or rates specified therein, being the rate or rates contained in the principal security for the loan.
 (7) A memorial of charge amended under this section or any variation or discharge of any such memorial may be registered against the title to the land affected under the Land Transfer Act 1952 or the Deeds Registration Act 1908. Where any orders of court which constitute the title of or confer title on the person whose interest is charged are not so registered, the memorial of charge may be deposited with the Registrar of the Maori Land Court for filing with the orders of the court. If the said orders or subsequent orders which affect the interest charged are subsequently registered it shall be the duty of the Registrar of the Maori Land Court to send the memorial of charge with the orders for registration and to notify the chief executive that he has done so.
-(8) When so registered or deposited a memorial of charge under this section shall have the same force and effect as if it were a valid mortgage to Her Majesty the Queen of all the land therein described to secure the repayment of the principal money and the payment of interest thereon; and the power of sale and all other powers implied in mortgages over land by the Property Law Act 2007 shall be implied in the memorial of charge. The production of any certificate of title shall not be necessary for the purpose of registering a memorial of charge under this section against the land in that title.
+(8) When so registered or deposited a memorial of charge under this section shall have the same force and effect as if it were a valid mortgage to the Sovereign of all the land therein described to secure the repayment of the principal money and the payment of interest thereon; and the power of sale and all other powers implied in mortgages over land by the Property Law Act 2007 shall be implied in the memorial of charge. The production of any certificate of title shall not be necessary for the purpose of registering a memorial of charge under this section against the land in that title.
 (9) Any encumbrance registered before the registration of a memorial of charge under this section shall have priority over the memorial of charge:
   provided that in so far as any registered prior mortgage secures any money that is advanced after written notice of the memorial of charge and of the registration thereof against the title to the land has been given to the mortgagee or to any solicitor for the time being acting for the mortgagee in respect of the prior mortgage, the memorial of charge shall have priority over the mortgage.
 (10) The chief executive may at any time release or discharge in whole or in part the charge evidenced or created by any memorial of charge executed under this section or may vary any such memorial of charge by reducing the rate of interest or the rate of repayment or by extending the term thereof.
@@ -235,10 +236,10 @@ The provisions of Part 13 of the Land Act 1924 and of Part 12 of the Maori Land 
 (1)
 (2) In addition, any charge under section 21, whether registered or not, may from time to time, on the application of the chief executive, be enforced by the court either—
   (a) by the appointment of a receiver in respect of the land or interest in land; or
-  (b) by the making of an order vesting in Her Majesty the Queen either the whole of the land or interest in land or such part thereof or interest therein as will, in the opinion of the court, be sufficient to satisfy the charge.
-(3) Upon the making of an order under paragraph (b) of the last preceding subsection, the land or interest in land affected by the order shall be deemed to be vested in Her Majesty, subject, however, to any estate or interest having priority to the charge, and the charge shall be deemed to be extinguished.
-(4) Subject to the next succeeding subsection, all land that becomes vested in Her Majesty under this section shall be deemed to have been set apart for the purposes of the principal Act.
-(5) Without limiting the powers conferred on the chief executive by this or any other Act, the whole or any part of any land that becomes vested in Her Majesty under this section may be proclaimed Crown land under section 265 of the Maori Affairs Act 1953 in the same manner as if it were land purchased by the Crown, and shall thereupon be subject to the Land Act 1948 and be administered and dealt with accordingly. In every such case a sum equivalent to the value of the land as determined by the Commissioner of Crown Lands shall be transferred from the Consolidated Account to such other account as the Minister of Finance shall determine.
+  (b) by the making of an order vesting in the Sovereign either the whole of the land or interest in land or such part thereof or interest therein as will, in the opinion of the court, be sufficient to satisfy the charge.
+(3) Upon the making of an order under paragraph (b) of the last preceding subsection, the land or interest in land affected by the order shall be deemed to be vested in the Sovereign, subject, however, to any estate or interest having priority to the charge, and the charge shall be deemed to be extinguished.
+(4) Subject to the next succeeding subsection, all land that becomes vested in the Sovereign under this section shall be deemed to have been set apart for the purposes of the principal Act.
+(5) Without limiting the powers conferred on the chief executive by this or any other Act, the whole or any part of any land that becomes vested in the Sovereign under this section may be proclaimed Crown land under section 265 of the Maori Affairs Act 1953 in the same manner as if it were land purchased by the Crown, and shall thereupon be subject to the Land Act 1948 and be administered and dealt with accordingly. In every such case a sum equivalent to the value of the land as determined by the Commissioner of Crown Lands shall be transferred from the Consolidated Account to such other account as the Minister of Finance shall determine.
 
 ### 24 Repeal and savings
 (1) The last 3 preceding sections are in substitution for section 8 of the principal Act, and that section is hereby accordingly repealed.
@@ -249,7 +250,7 @@ The provisions of Part 13 of the Land Act 1924 and of Part 12 of the Maori Land 
 A charge may be constituted or a mortgage may be executed over any land or interest in land pursuant to the principal Act notwithstanding that the land may be a Maori reserve within the meaning of Te Ture Whenua Maori Act 1993, or a Maori reservation within the meaning of that Act, or may be otherwise reserved for Maori or declared to be inalienable by any Act, Warrant, will, instrument, or other act of authority.
 
 ### 26 Confirmation of mortgages not required
-No mortgage of Maori land or of any interest therein executed in favour of Her Majesty the Queen pursuant to the principal Act shall require confirmation under Part 19 of the Maori Affairs Act 1953.
+No mortgage of Maori land or of any interest therein executed in favour of the Sovereign pursuant to the principal Act shall require confirmation under Part 19 of the Maori Affairs Act 1953.
 
 ### 27 Māori Trustee not to charge commission
 Notwithstanding anything to the contrary in section 48 of the Maori Trustee Act 1953 or in any other Act, no commission shall be chargeable by the Māori Trustee on any moneys received for the purposes of the principal Act (including this Act).
@@ -271,6 +272,7 @@ Any proceedings under the principal Act (including this Act) for the recovery of
   (d) prescribing matters in respect of which fees (not being fees in respect of advances) are to be payable under the principal Act (including this Act), or under regulations made thereunder, the amount of the fees, and the persons liable to pay them:
   (e) authorising the refund or remission, in such circumstances as may be prescribed, of any fees (not being fees in respect of advances) payable under the principal Act (including this Act) or under regulations made under that Act.
 (2) No regulation made under the principal Act shall be deemed invalid on the ground that it delegates to or confers on the Governor-General or any other person or body any discretionary authority.
+(3) See section 14(2) of the principal Act, which provides that regulations made in reliance on this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 32 Annual statement of accounts
 [Repealed]
