@@ -1,5 +1,5 @@
 # Public Bodies Contracts Act 1959
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision for the making of contracts by local authorities and other public bodies
 
@@ -12,6 +12,7 @@ This Act may be cited as the Public Bodies Contracts Act 1959.
   (b) every public body for the time being specified in Part 2 of Schedule 1.
 (2) The Governor-General may from time to time, by Order in Council, amend Schedule 1 by including in it or omitting from it the name of any class of public bodies or the name of any specified public body.
 (3) If, by any Order in Council under subsection (2), the name of any class of public body or the name of any specified public body is added to Schedule 1, the Act by or pursuant to which that class of public body or that public body was constituted must, so long as the name remains part of Schedule 1, be read subject to the provisions of this Act.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Mode of contracting by public bodies
 (1) Any contract which, if made by private persons, must be by deed shall, if made by a public body, be in writing and,—
