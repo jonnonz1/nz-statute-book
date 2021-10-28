@@ -1,5 +1,5 @@
 # Weights and Measures Act 1987
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Weights and Measures Act 1987.
@@ -17,7 +17,7 @@ _Consolidation as at 2020-08-07_
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
   - **accredited person** means a person accredited pursuant to section 30A
-  - **approved overseas country** means any country outside New Zealand that is declared by notice in the Gazette to be an approved overseas country for the purposes of section 5(3)﻿(b)
+  - **approved overseas country** means any country outside New Zealand that is declared by notice to be an approved overseas country for the purposes of section 5(3)﻿(b)
   - **automatic volumetric liquid dispensing machine** means an instrument in which self-acting machinery automatically dispenses liquids in measured quantities but which instrument is not itself a calibrated measure or calibrated measuring instrument
   - **automatic weighing machine** means a weighing instrument in which self-acting machinery automatically loads the goods to be weighed and which automatically weighs those goods
   - **catch weight goods** means goods that—
@@ -84,8 +84,9 @@ This Act binds the Crown.
 (3) The Secretary shall ensure that the departmental standards are verified from time to time, at intervals not exceeding 5 years, by reference to—
   (a) the New Zealand standards for the metre and the kilogram maintained pursuant to the Measurement Standards Act 1992; or
   (b) any national standards of measurement maintained by any approved overseas country.
-(4) The Minister of the Crown who is for the time being charged with the administration of the Measurement Standards Act 1992 may from time to time, by notice in the Gazette, declare any country outside New Zealand to be an approved overseas country for the purposes of subsection (3)﻿(b) where the Minister is satisfied that the national standards of measurement maintained by that country are of sufficient accuracy to be used for the purpose of verifying the departmental standards.
+(4) The Minister of the Crown who is for the time being charged with the administration of the Measurement Standards Act 1992 may from time to time, by notice, declare any country outside New Zealand to be an approved overseas country for the purposes of subsection (3)﻿(b) where the Minister is satisfied that the national standards of measurement maintained by that country are of sufficient accuracy to be used for the purpose of verifying the departmental standards.
 (5) Any notice under subsection (4) may be in like manner amended or revoked at any time.
+(6) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 6 Reference standards
 (1) The Secretary must nominate 1 or more Inspectors, and may nominate 1 or more accredited persons, to maintain, as reference standards for the purposes of this Act,—
@@ -558,7 +559,7 @@ On application by way of originating application, a District Court Judge may mak
 (2) The court shall not make any order under subsection (1) for the payment of compensation to any person in respect of any goods unless the court is satisfied that the goods were disposed of before that person had a reasonable opportunity to make an application under section 39 in respect of the goods.
 
 ### 41 Regulations
-The Governor-General may, from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) defining the duties of the Secretary and of Inspectors under this Act:
   (ab) prescribing symbols, letters, or figures that must be impressed on a reference standard or an Inspectors' working standard:
   (ac) prescribing the form and manner in which marks must appear on a reference standard or an Inspectors' working standard:
@@ -596,6 +597,7 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
   (ya) prescribing infringement offences in respect of the contravention of or non-compliance with any regulations made under this Act:
   (z) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act, and prescribing the amounts of the fines that may be imposed in respect of such offences, which fines shall be an amount not exceeding $2,000:
   (za) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 41A Regulations for purposes of section 16A(3)
 (1) The Governor-General may from time to time, on the recommendation of the Minister, by Order in Council, make regulations for the purposes of section 16A(3)—
@@ -613,12 +615,14 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
   (f) prescribe, in relation to any specified class of goods sold, or offered or exposed for sale, or in a person's possession for sale, in a package or a lot of packages, any requirements on the goods' weight, measure, or number after the period specified in section 16A(4) has ended.
 (3) The Minister must not make a recommendation under subsection (1) without first consulting such individuals or organisations as the Minister thinks fit.
 (4) The validity of any regulations made under this section is not affected if the Minister does not consult a particular individual or organisation or does not consult any individuals or organisations.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 41B Regulations relating to infringement fees
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the following purposes:
   (a) prescribing the form of infringement notices and reminder notices:
   (b) prescribing any particulars that must be included in those notices:
   (c) prescribing the amount of an infringement fee, which must not exceed $2,000, payable in respect of an infringement offence for which an infringement notice has been issued.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 42 Fees
 (1) The Governor-General may from time to time, by Order in Council, make regulations prescribing the amounts of the fees to be paid in respect of the following matters, or prescribing the method by which any such fee is to be assessed:
@@ -631,6 +635,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (b) the issuing of a certificate of accuracy in respect of any weight, measure, or weighing or measuring instrument.
 (3) Any fee charged pursuant to subsection (2) shall not exceed such amount as may be reasonable, having regard to the time spent, and the materials and equipment used, in examining and testing the weight, measure, or weighing or measuring instrument for the purpose of determining whether it should be stamped or, as the case may be, whether a certificate of accuracy should be issued.
 (4) Every fee imposed pursuant to subsection (1), and every fee charged pursuant to subsection (2), shall be recoverable in any court of competent jurisdiction as a debt due to the Crown.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 43 Repeals, revocations, and consequential amendments
 (1) The enactments specified in Part 1 of Schedule 3 are hereby repealed.
