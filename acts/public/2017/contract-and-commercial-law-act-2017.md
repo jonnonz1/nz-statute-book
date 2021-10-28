@@ -1,5 +1,5 @@
 # Contract and Commercial Law Act 2017
-_Consolidation as at 2021-07-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Contract and Commercial Law Act 2017.
@@ -540,8 +540,8 @@ This subpart does not apply to—
 ### 70 Interpretation
 In this subpart, unless the context otherwise requires,—
   - **enactment** —
-    (a) means any provision of any Act, regulations, rules, bylaws, Order in Council, or Proclamation; and
-    (b) includes any provision of any notice, consent, approval, or direction that is given by any person under a power conferred by any Act or regulations
+    (a) means any provision of any legislation; and
+    (b) includes any provision of any notice, consent, approval, or direction that is given by any person under a power conferred by any legislation
   - **property** —
     (a) means land, money, goods, things in action, goodwill, and every valuable thing, whether real or personal, and whether situated in New Zealand or elsewhere; and
     (b) includes obligations, easements, and every description of estate, interest, and profit, present or future, vested or contingent, arising out of or incidental to property.
@@ -1776,10 +1776,10 @@ The copyright in a work is not infringed by either of the following acts if they
   (c) if an enactment sets out a form that must be used for the purposes of meeting a legal requirement, prescribing an electronic form that may be substituted for the form set out in the enactment:
   (d) if an enactment provides for the time at which a legal requirement to provide information is to be treated as being satisfied where that information is provided by post or by any other non-electronic means, providing for the time at which the legal requirement is to be treated as being satisfied by an electronic communication.
 (2) The Governor-General may, by Order in Council, amend Schedule 5 or repeal Schedule 5 and substitute a new schedule.
-(3) The explanatory note of an Order in Council made under subsection (2) that makes an addition to Schedule 5 must indicate that—
-  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+(3) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under subsection (1):
+  (b) an order under subsection (2).
+(4) An order under subsection (2) that makes an addition to Schedule 5 must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 240 Authority to prescribe electronic forms and requirements for using electronic forms
 (1) A person who is authorised to prescribe a form under an enactment is authorised—
@@ -2522,6 +2522,7 @@ If the goods to which a ship’s delivery order relates are only a part of the g
 (2) The regulations may—
   (a) make the modifications of the provisions of this subpart that are appropriate in connection with the application of this subpart to any case mentioned in subsection (1); and
   (b) contain supplemental, incidental, consequential, and transitional provisions.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Special provisions about received for shipment bills of lading**
 
