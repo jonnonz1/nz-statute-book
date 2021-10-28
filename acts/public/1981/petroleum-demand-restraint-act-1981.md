@@ -1,5 +1,5 @@
 # Petroleum Demand Restraint Act 1981
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision for the imposition of measures restraining the demand for petroleum products or ensuring the equitable distribution in New Zealand of petroleum products that are, or are likely to be, in short supply in New Zealand
 
@@ -66,7 +66,16 @@ This Act shall bind the Crown.
   (a) may relate to petroleum products or engine fuel or classes of petroleum products or engine fuel generally; or
   (b) may relate to particular petroleum products or engine fuel or particular classes of petroleum products or engine fuel; or
   (c) may make different provision in respect of different classes of persons.
-(5) All regulations made under this section shall be laid before the House of Representatives not later than the 16th sitting day of the House of Representatives after the day on which they are made.
+(5) Regulations under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
+(6) If the regulations authorise the giving, making, revoking, or varying of an instrument referred to in subsection (7),—
+  (a) the instrument is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
+(7) Subsection (6) applies to the following instruments:
+  (a) an Order in Council under subsection (2)﻿(d):
+  (b) a direction, revocation, or variation by the Minister referred to in section 7:
+  (c) a direction (other than a direction referred to in paragraph (b)), notice, exemption, consent, or order referred to in subsection (3), unless it applies only to 1 or more named persons.
 
 ### 5 Restrictions on making of regulations
 (1) No regulations (other than administrative regulations) shall be made under this Act unless—
@@ -75,7 +84,8 @@ This Act shall bind the Crown.
     (ii) in the case of regulations that apply only within a specified part or subdivision of a district of a local authority or within any specified part of New Zealand, in the area to which the regulations apply,—
   (b) the regulations provide (to the extent that they are not administrative regulations) that they shall come into force on a date to be appointed by Order in Council.
 (2) No Order in Council shall be made under any provision to which subsection (1)﻿(b) applies unless the Governor-General in Council is satisfied, in respect of the regulations to which the order relates, as to the matters specified in subparagraph (i) or subparagraph (ii) of subsection (1)﻿(a), and so recites in the Order in Council.
-(3) Section 24 of the Interpretation Act 1999 has effect subject to subsections (1) and (2).
+(3) Section 40 of the Legislation Act 2019 has effect subject to subsections (1) and (2).
+(4) An order under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 6 Regulations to have force of law
 (1)
@@ -98,7 +108,7 @@ The explanatory note of regulations made under section 4(1) must indicate that�
 (3) For the purpose of subsection (1), appropriate consultations means such consultations as the Minister thinks practicable and appropriate—
   (a) with persons who appear to him to be representative of those suppliers of petroleum products or engine fuel who are likely, in his opinion, to be affected by the directions or with representatives of those persons; and
   (b) with persons who appear to him to be representative of those users of petroleum products or engine fuel who are likely, in his opinion, to be affected by the directions or with representatives of those persons.
-(4) Where the Minister gives, under any petroleum demand restraint regulations, a direction to which this section applies, he shall, as soon as practicable after the giving of that direction, publish in the Gazette and lay before the House of Representatives a copy of the direction.
+(4)
 
 ### 8 Further provisions as to regulations
 (1) No petroleum demand restraint regulation shall be held invalid because it is, or authorises any act or omission which is, repugnant to, or inconsistent with,—
@@ -115,14 +125,15 @@ The explanatory note of regulations made under section 4(1) must indicate that�
 (1) Any petroleum demand restraint regulations may apply generally, or may apply, or be applied from time to time by the Governor-General by Order in Council within any specified district or subdivision of a district of any local authority, or within any specified part of New Zealand; and any such order may be revoked or varied at any time in like manner.
 (2) If at any time while any such regulations apply within any specified district or subdivision of a district of any local authority the boundaries of the district or subdivision are altered, the regulations, unless the context thereof or of any such order as aforesaid otherwise requires, shall thereafter apply within the district or subdivision as so altered.
 (3) The operation of any petroleum demand restraint regulations may, if so provided in the regulations, be wholly suspended until they are applied by the Governor-General by Order in Council pursuant to subsection (1).
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 10 Suspension of petroleum demand restraint regulations
-(1) Where the Minister is satisfied that as a result of exceptional circumstances substantial problems have arisen or will arise in any part of New Zealand from the need to observe all or any of the provisions of any petroleum demand restraint regulations, he may, by public notice, suspend the operation of all or any of those provisions in that part of New Zealand for such period, not exceeding 14 days, as he thinks fit.
-(2) The Minister may, by public notice, vary or revoke any notice issued under subsection (1).
+(1) Where the Minister is satisfied that as a result of exceptional circumstances substantial problems have arisen or will arise in any part of New Zealand from the need to observe all or any of the provisions of any petroleum demand restraint regulations, he may, by notice, suspend the operation of all or any of those provisions in that part of New Zealand for such period, not exceeding 14 days, as he thinks fit.
+(2) The Minister may, by notice, vary or revoke any notice issued under subsection (1).
 (3) No notice under subsection (1) or subsection (2) shall be in force for more than 14 days, without prejudice to the issue of another notice under subsection (1) at or before the end of that period.
-(4) Where the first publication of a notice given under subsection (1) or subsection (2) is in a newspaper or in a radio or television broadcast, the Minister shall cause that notice to be gazetted within 7 days after the date of its first publication.
-(5) In this section public notice means a notice published—
-  (a) in the Gazette; or
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) The Minister may also publish a summary of the matters contained in the notice—
+  (a)
   (b) in a newspaper circulating in the part of New Zealand to which the notice relates; or
   (c) in a radio or television broadcast made by the Broadcasting Corporation of New Zealand or other holder of a warrant under the Broadcasting Act 1976.
 
@@ -130,7 +141,8 @@ The explanatory note of regulations made under section 4(1) must indicate that�
 [Repealed]
 
 ### 12 Publication or notification is sufficient notice
-The publication in the Gazette or in accordance with the Legislation Act 2012 of any petroleum demand restraint regulations, or of any Order in Council, order, notice, warrant, licence, or other act of authority under this Act or under any petroleum demand restraint regulations must be treated for all purposes as notice of the act of authority to all persons concerned, and in any prosecution under this Act the liability of the defendant must be determined accordingly.
+(1) The publication in the Gazette of any order, notice, warrant, licence, or other act of authority other than the making of any secondary legislation under this Act or under any petroleum demand restraint regulations must be treated for all purposes as notice of the act of authority to all persons concerned, and in any prosecution under this Act the liability of the defendant must be determined accordingly.
+(2) In relation to secondary legislation, see sections 80 and 81 of the Legislation Act 2019.
 
 **Miscellaneous provisions**
 
@@ -150,7 +162,7 @@ The publication in the Gazette or in accordance with the Legislation Act 2012 of
 (3) Every person purporting to act pursuant to any delegation under this section shall be presumed to be acting in accordance with the terms of the delegation in the absence of proof to the contrary.
 (4) Any delegation under this section may be made to a specified person or to persons of a specified class, or to the holder or holders for the time being of a specified office or appointment or class of offices or appointments.
 (5) The delegation by the Minister or by any other person of any powers conferred on him by or under this Act or by or under any petroleum demand restraint regulations shall not prevent the personal exercise of those powers by the Minister or by that other person.
-(6) Subject to section 14 of the Interpretation Act 1999, the Minister shall not delegate the powers conferred on him by section 7 or section 10 of this Act.
+(6) Subject to section 47 of the Legislation Act 2019, the Minister shall not delegate the powers conferred on him by section 7 or section 10 of this Act.
 
 ### 15 Authentication of documents
 Any written notice, direction, approval, requisition, or other instrument, given, granted, or made by the Minister or by any other person authorised in that behalf under this Act or under any petroleum demand restraint regulations shall be sufficiently authenticated if it is signed by the Minister or authorised person or by any person on behalf of and by direction of the Minister or authorised person, as the case may be.
