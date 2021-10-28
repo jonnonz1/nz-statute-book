@@ -1,5 +1,5 @@
 # State-Owned Enterprises Act 1986
-_Consolidation as at 2021-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to promote improved performance in respect of Government trading activities and, to this end, to—aspecify principles governing the operation of State enterprises; andbauthorise the formation of companies to carry on certain Government activities and control the ownership thereof; andcestablish requirements about the accountability of State enterprises, and the responsibility of Ministers
 
@@ -69,6 +69,7 @@ Where the Crown wishes a State enterprise to provide goods or services to any pe
 (2) Before entering into any collective agreement under the Employment Relations Act 2000, every State enterprise to which this subsection applies must consult with the Public Service Commissioner over the conditions of employment to be included in the collective agreement.
 (3) The Governor-General may, by Order in Council, apply subsection (2) to any State enterprise named in Schedule 2.
 (4) On the commencement of that order, that subsection applies accordingly.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 9 Treaty of Waitangi
 Nothing in this Act shall permit the Crown to act in a manner that is inconsistent with the principles of the Treaty of Waitangi.
@@ -88,6 +89,7 @@ Nothing in this Act shall permit the Crown to act in a manner that is inconsiste
   (c) amend Schedule 36 of the Income Tax Act 2007 by including the name of the company or body corporate in that schedule.
 (3) Any Order in Council made under this section may be expressed to come into force on a date specified in the order and different dates may be specified for the coming into force of different provisions.
 (4) Nothing in section 32 of the Ombudsmen Act 1975 or section 49 of the Official Information Act 1982 limits or affects this section.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 11 Ministers to hold all shares in new State enterprises
 (1) No Minister who is a shareholder in a company named in Schedule 2 shall—
@@ -243,6 +245,7 @@ A failure by a State enterprise to comply with any provision contained in Part 1
 (9A)
 (9B)
 (10) Notwithstanding any other provision of this Act, where prior to the date on which this Act comes into force any Maori land was leased to the Crown under a lease administered by the Minister of Forests, the shareholding Ministers shall not, except with the consent of the lessor or where the lease so permits, transfer that leasehold interest to a State enterprise, but the shareholding Ministers may enter into an agreement with a State enterprise pursuant to subsection (1)﻿(b) to manage, on behalf of the Crown, its rights under that lease.
+(11) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 24 Provisions relating to transfer of land
 (1) Notwithstanding any other provision of this Act, Crown land within the meaning of the Land Act 1948 and any lands of the Crown other than lands registered under the Land Transfer Act 2017 that are to be transferred to a State enterprise pursuant to this Act shall—
@@ -257,6 +260,7 @@ A failure by a State enterprise to comply with any provision contained in Part 1
 (3) All land that is subject to the Land Act 1948 or the Forests Act 1949 and that is transferred to a State enterprise pursuant to this Act shall cease to be subject to the Land Act 1948 or the Forests Act 1949, as the case may be, from the date of that transfer, unless otherwise expressly provided by this Act or any other Act.
 (4) Nothing in sections 40 to 42 of the Public Works Act 1981 shall apply to the transfer of land to a State enterprise pursuant to this Act, but sections 40 and 41 of that Act shall after that transfer apply to that land as if the State enterprise were the Crown and the land had not been transferred pursuant to this Act.
 (5) Nothing in this Act or in any transfer of land to a State enterprise pursuant to this Act shall derogate from the provisions of section 10 or section 11 of the Crown Minerals Act 1991.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 25 Title to land
 (1) The Registrar-General of Land shall, on written application by any person authorised by a Minister and on payment of the prescribed fee,—
@@ -322,6 +326,7 @@ The submission in respect of any land or interest in land of a claim under secti
   (g) declare that any Order in Council made under this section shall be deemed to be notice to all persons, and that specific notice need not be given to any authority or other person:
   (h) direct any authority or other person to register or record any such vesting or declaration.
 (2) Every Order in Council made under this section may be made on such terms and conditions as the Governor-General thinks fit, and shall have effect according to its tenor.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 29 Interpretation relating to transfer of assets and liabilities
 (1) In this section and in sections 23 to 28 and 29A, unless the context otherwise requires,—
@@ -369,6 +374,7 @@ The submission in respect of any land or interest in land of a claim under secti
   (a) a State enterprise; or
   (b) a company named in a schedule of this Act; or
   (c) a company with a name specified in a schedule of this Act,—
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 31 Review of Ombudsmen Act 1975 and Official Information Act 1982 in relation to State enterprises
 [Repealed]
@@ -379,10 +385,10 @@ The submission in respect of any land or interest in land of a claim under secti
   (a) the enactments specified in Schedule 4 shall have effect as stated in that schedule; and
   (b) the Town and Country Planning Act 1977 and the Public Works Act 1981 shall have effect as if every State enterprise named in Schedule 2 of this Act were the Crown and every work and every use of land which such a State enterprise constructs, undertakes, establishes, manages, operates, or maintains by virtue of any Act were a public work within the meaning of the Public Works Act 1981:
   provided that where any negotiations or action had been commenced before the close of 31 December 1987 in respect of the taking or acquisition of any land that is to be transferred by the Crown to a State enterprise pursuant to section 23, the taking or acquisition may be continued and concluded as if the land were required for a public work.
-(3) Where, by virtue of subsection (2), a State enterprise has any power, right, or authority that it would not otherwise have, the responsible Minister may at any time or times, by notice in the Gazette,—either generally or in any particular case or cases.
+(3) Where, by virtue of subsection (2), a State enterprise has any power, right, or authority that it would not otherwise have, the responsible Minister may at any time or times, by notice,—either generally or in any particular case or cases.
   (a) direct the State enterprise not to exercise that power, right, or authority; or
   (b) impose conditions on the exercise of that power, right, or authority,—
-(4) A State enterprise must comply with a notice given under subsection (3), and the notice is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) A State enterprise must comply with a notice given under subsection (3), and the notice is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5)
 (6) Notwithstanding anything in this or any other Act, or any rule of law, any proceedings commenced (whether before or after the commencement of this Act) in any court or tribunal, in respect of the exercise or intended exercise of any power to which this section applies, may be continued and determined in respect of land (whether or not the land is transferred to a State enterprise) as if the land were still owned by the Crown.
 (7) Notwithstanding subsections (2) and (5), Part 3 of Schedule 4 shall continue to have effect after 31 December 1988 until the close of 30 June 1990.
@@ -629,7 +635,8 @@ This Part and the Schedule shall be read together with and deemed part of the St
 ## Part 1 — Application of State-Owned Enterprises Act 1986 and other Acts to Telecom Corporation of New Zealand Limited
 
 ### 3 Commencement of this Part
-This Part shall come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made bringing different provisions of this Part into force on different dates.
+(1) This Part shall come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made bringing different provisions of this Part into force on different dates.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4 Amendment to State-Owned Enterprises Act 1986
 (1) Amendment(s) incorporated in the Act(s).
@@ -701,6 +708,7 @@ This Act may be cited as the State-Owned Enterprises Amendment Act (No 3) 1990, 
 (2) Except as provided in subsection (3), this Act shall come into force on the day on which it receives the Royal assent.
 (3) Subject to subsection (4), sections 5 to 7 shall come into force on a day to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made bringing different sections into force on different days.
 (4) A day may be appointed pursuant to subsection (3) bringing section 6 or section 7 into force only if the Governor-General is satisfied, at the time of the making of the Order in Council, that at least 50% of the shares in GCS Limited are no longer held by Ministers of the Crown on behalf of the Crown.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5)
 
 **GCS Limited**
