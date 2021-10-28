@@ -1,5 +1,5 @@
 # Road User Charges Act 2012
-_Consolidation as at 2021-04-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Road User Charges Act 2012.
@@ -8,6 +8,7 @@ This Act is the Road User Charges Act 2012.
 (1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
 (2) One or more Orders in Council may be made appointing different dates for the commencement of different provisions and for different purposes.
 (3) To the extent that it is not brought into force under subsection (1) or (2), the rest of this Act comes into force on 1 August 2012.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -457,6 +458,7 @@ If the RUC collector is satisfied that the person held liable for a debt relatin
 (2) An order made under subsection (1)—
   (a) must specify the date on which the exemption expires; and
   (b) may, from time to time, be amended to provide for a later date.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 37A Exemption of heavy electric RUC vehicles by Order in Council
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, specify the period during which road user charges are not payable in respect of heavy electric RUC vehicles.
@@ -464,18 +466,21 @@ If the RUC collector is satisfied that the person held liable for a debt relatin
 (3) An order made under this section must specify the date on which the period of exemption ends, and that date must be no later than,—
   (a) in the case of the first order made under this section, 31 December 2025; and
   (b) in the case of any subsequent order made under this section, the date that is 5 years after the date on which the period of exemption starts.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 38 Exemption of RUC vehicles unsuitable for regular road use by Order in Council
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, specify any 1 or more classes of RUC vehicles in respect of which road user charges are not payable.
 (2) The Minister must not recommend the making of an order under subsection (1) unless the Minister is satisfied that—
   (a) the exemption is necessary because the purpose or design of the class of RUC vehicle means that the class of vehicle is unsuitable for regular road use; and
   (b) requiring road user charges to be paid in respect of the class of RUC vehicle would impose compliance costs that are disproportionate to the likely amount of road use by the class of vehicle.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 38A Exemption of RUC vehicles not required to be registered
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, specify the following RUC vehicles as vehicles in respect of which road user charges are not payable:
   (a) all RUC vehicles that are exempt from registration under the Land Transport Act 1998; or
   (b) 1 or more classes of RUC vehicles that are exempt from registration under the Land Transport Act 1998.
 (2) For the purposes of subsection (1), vehicles that are operated in circumstances in which no liability arises from their not being registered are to be treated as vehicles that are exempt from registration under the Land Transport Act 1998.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Exemptions granted by RUC collector**
 
@@ -586,11 +591,9 @@ If an exemption is granted in respect of a light RUC vehicle under section 40, t
 
 ### 48 RUC collector may approve hubodometer
 (1) The RUC collector may approve hubodometers for the purposes of this Act.
-(2) An approval under subsection (1)—
-  (a) must be notified in the Gazette; and
-  (b) may be on the terms and conditions that the RUC collector thinks fit; and
-  (c) may be varied or revoked by the RUC collector by notice in the Gazette.
+(2) An approval under subsection (1) may be on the terms and conditions that the RUC collector thinks fit.
 (3) The RUC collector must maintain a list of hubodometers approved under subsection (1) on an Internet site maintained by, or on behalf of, the RUC collector.
+(4) An approval under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 49 Restrictions on fitting of hubodometer
 (1) A person must not, without the consent of the RUC collector, fit a hubodometer to a RUC vehicle for the purposes of this Act if the person knows, or ought to have known, that—
@@ -967,17 +970,15 @@ Sections 139 and 140 of the Land Transport Act 1998 apply with any necessary mod
   (a) different RUC vehicle types and RUC weights; and
   (b) distance licences and additional licences.
 (3) Regulations made under subsection (1)—
-  (a) come into force 42 days after the date of their notification in the Gazette, or on any later date that may be specified in the order, unless, in the case of an increase to any existing rate, the increase relates only to the GST payable on the rate; and
-  (b) must be presented to the House of Representatives no later than 16 sitting days after the date on which they are made.
+  (aa) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (a) come into force 42 days after the date of their publication under the Legislation Act 2019, or on any later date that may be specified in the order, unless, in the case of an increase to any existing rate, the increase relates only to the GST payable on the rate; and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 (4)
 (5)
 (6)
 
 ### 85A Regulations are confirmable instruments
-The explanatory note of regulations made under section 85(1) must indicate that—
-  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### 86 Licence for heavy RUC vehicle invalid 1 month after road user charges rate increased
 (1) This section applies if a road user charges rate is increased by regulations made under section 85(1), unless the increase relates only to the GST payable on the rate.
@@ -999,9 +1000,13 @@ The Governor-General may, by Order in Council, appoint the Agency as the RUC col
   (a) authorise the RUC collector to refund or waive administration fees in any particular case or class of case:
   (b) prescribe the recipient to whom administration fees are payable under this Act.
 (5) However, if there is no prescribed recipient to whom administration fees are to be paid, administration fees must be paid into a Crown bank account.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7) If the regulations authorise the RUC collector to refund or waive administration fees,—
+  (a) the instrument by which administration fees are refunded or waived is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to a particular case; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 89 Other regulations
-The Governor-General may, by Order in Council, make regulations for 1 or more of the following purposes:RUC vehicle types and RUC weight bandsRUC licencesDisplay of RUC licencePaymentsRefundsExempt vehiclesElectronic system providersDistance recordersInformation down-loaded from vehicle management systemInfringement offencesGeneral
+(1) The Governor-General may, by Order in Council, make regulations for 1 or more of the following purposes:RUC vehicle types and RUC weight bandsRUC licencesDisplay of RUC licencePaymentsRefundsExempt vehiclesElectronic system providersDistance recordersInformation down-loaded from vehicle management systemInfringement offencesGeneral
   (a) prescribing RUC vehicle types for the purposes of this Act and bands of RUC weight for each RUC vehicle type:
   (b) specifying the persons who may apply for a licence under section 15:
   (c) prescribing the information that must be contained in an application for a RUC licence:
@@ -1033,6 +1038,7 @@ The Governor-General may, by Order in Council, make regulations for 1 or more of
       (A) $1,000 in the case of an individual; or
       (B) $2,000 in the case of a body corporate:
   (r) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 90 Transitional regulations
 (1) The Governor-General may, by Order in Council, make regulations—
@@ -1051,9 +1057,9 @@ The Governor-General may, by Order in Council, make regulations for 1 or more of
   (a) a vehicle is a RUC vehicle or combination vehicle; and
   (b) the vehicle or combination vehicle requires a licence; and
   (c) in the rates of road user charges specified in regulations under section 85, there is no rate that applies to the vehicle or combination vehicle.
-(2) The RUC collector may, by notice in the Gazette, specify a RUC vehicle type and rate of road user charge payable in respect of the class of RUC vehicle that includes that vehicle.
+(2) The RUC collector may, by notice, specify a RUC vehicle type and rate of road user charge payable in respect of the class of RUC vehicle that includes that vehicle.
 (3) In specifying a rate of road user charge under subsection (2), the RUC collector must use the same methodology as used for the rates of road user charges specified in regulations made under section 85.
-(4) Section 85(4) and (5) applies to a rate of road user charge specified under this section as if the reference to regulations made under subsection (1) of that section were a reference to a notice in the Gazette under subsection (2) of this section.
+(4) A notice under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 90B RUC collector to issue assessment for vehicles in respect of which rate specified under section 90A
 (1) After specifying a rate of road user charge under section 90A, the RUC collector must issue to the owner or operator of the vehicle or combination vehicle concerned an assessment of the amount of road user charges payable (including GST payable in respect of those charges).
