@@ -1,5 +1,5 @@
 # Legislation (Repeals and Amendments) Act 2019
-_Consolidation as at 2021-03-25_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Legislation (Repeals and Amendments) Act 2019.
