@@ -1,5 +1,5 @@
 # Non-bank Deposit Takers Act 2013
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Non-bank Deposit Takers Act 2013.
@@ -10,6 +10,7 @@ This Act is the Non-bank Deposit Takers Act 2013.
   (b) 1 October 2017.
 (2) One or more Orders in Council may be made under subsection (1) appointing different dates for different provisions (and in this subsection provision includes any item, or any part of an item, in Schedule 4).
 (3) Subsections (2) and (4) of section 91 come into force on the date that is 1 year after the date on which section 11 comes into force.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -315,11 +316,12 @@ The Bank may cancel a licence if it is satisfied—
 (2) A licensed NBDT that breaches this section commits an offence and is liable on conviction to a level 4 penalty.
 
 ### 24 Regulations relating to credit ratings
-The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations for either or both of the following purposes:
+(1) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations for either or both of the following purposes:
   (a) providing for the following matters in relation to ratings of creditworthiness required to be held by licensed NBDTs:
     (i) the type of rating (for example, whether it is a short-term or long-term rating):
     (ii) what the rating relates to (for example, whether it indicates the creditworthiness of an NBDT with respect to a specific financial obligation or applies to the NBDT’s overall creditworthiness):
   (b) requiring a licensed NBDT to have a rating of creditworthiness of the borrowing group of which it is part.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Governance requirements**
 
@@ -379,6 +381,7 @@ The Governor-General may, by Order in Council, on the advice of the Minister giv
   (a) provide that the amount of minimum capital specified in trust deeds must be not less than an amount prescribed in the regulations:
   (b) require that trust deeds define capital for the purpose of calculating the minimum capital required:
   (c) specify a definition of capital for that purpose.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 31 Ensuring minimum capital requirements included in trust deeds
 (1) Every licensed NBDT and trustee must comply with any requirement imposed by regulations made under section 30.
@@ -400,6 +403,7 @@ The Governor-General may, by Order in Council, on the advice of the Minister giv
   (b) provide for the capital ratio to be set at a specified minimum level for particular licensed NBDTs or classes of licensed NBDTs:
   (c) prescribe the framework in accordance with which the capital ratio must be calculated:
   (d) provide for variation (whether as to content or otherwise) of the framework to apply to particular licensed NBDTs or classes of licensed NBDTs.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 34 Ensuring capital ratio included in trust deeds
 (1) Every licensed NBDT and trustee must comply with any requirement imposed by regulations made under section 33.
@@ -422,6 +426,7 @@ The Governor-General may, by Order in Council, on the advice of the Minister giv
   (c) require every licensed NBDT and trustee to ensure that trust deeds include a specified maximum limit on exposures to related parties:
   (d) require every licensed NBDT and trustee to ensure that trust deeds include a maximum limit on exposures to related parties that is fixed by agreement between the licensed NBDT and trustee (see section 79 for provisions that apply if there is no agreement).
 (3) If subsection (2)﻿(d) applies, the regulations must specify the framework (for example, covering matters as to the identification and measurement of credit exposures) in accordance with which licensed NBDTs and trustees must fix the maximum agreed limit.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 37 Ensuring maximum limit on related party exposures included in trust deeds
 (1) Every licensed NBDT and trustee must comply with any requirement imposed by regulations made under section 36.
@@ -442,6 +447,7 @@ The Governor-General may, by Order in Council, on the advice of the Minister giv
   (c) requirements concerning matching maturity of assets and liabilities:
   (d) requirements in respect of a licensed NBDT that require the liquidity of the borrowing group of which it is part to be taken into account:
   (e) other measures relating to liquidity management, including the management of stress situations.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 40 Ensuring liquidity requirements included in trust deeds
 (1) Every licensed NBDT and trustee must comply with any requirement prescribed by regulations made under section 39.
@@ -793,20 +799,15 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (d) minimum capital requirements:
   (e) exposures to related parties:
   (f) liquidity.
-(4) The Bank may amend or revoke an exemption in the same way as an exemption may be granted, and section 71 applies to any amendment or revocation as if it were an exemption.
+(4)
 
 ### 71 Status and publication of exemptions
 (1) Every exemption granted under section 70 must—
   (a) state the date on which it comes into force, which must be a date after the date on which the exemption is granted; and
   (b) include a statement of the Bank's reasons for granting the exemption (including why the exemption is appropriate).
-(2) An exemption that applies to a class of licensed NBDTs (a class exemption) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(3) An exemption that is not a class exemption is not a legislative instrument but is a disallowable instrument for the purposes of the Legislation Act 2012 and—
-  (a) must be presented to the House of Representatives under section 41 of that Act; and
-  (b) must, as soon as practicable after it is granted,—
-    (i) be published on an Internet site maintained by or on behalf of the Bank; and
-    (ii) be notified in the Gazette; and
-    (iii) be made available in printed form on request by members of the public.
-(4) A notification in the Gazette for the purpose of subsection (3)﻿(b)﻿(ii) does not have to include the text of the exemption.
+(2) An exemption under section 70 is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3)
+(4)
 
 ### 72 Effect of exemption
 A person does not breach a requirement of this Act if—
@@ -836,6 +837,7 @@ A person does not breach a requirement of this Act if—
   (b) the public interest; and
   (c) any other matters the Minister or the Bank considers relevant.
 (3) The Bank must not recommend the making of regulations under subsection (1)﻿(e), declaring certain securities to be debt securities, unless it is satisfied that the securities are similar in substance to debt securities.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 74 Extension of regulation-making powers relating to prudential obligations
 Regulations made under section 24, 30, 33, 36, or 39 may—
@@ -961,12 +963,9 @@ An obligation imposed on a person by any other Act or instrument does not preven
 ### 88 Exemptions continue in force
 (1) An exemption granted under section 157G of the Reserve Bank of New Zealand Act 1989 that is in force immediately before this section comes into force—
   (a) continues in force as if it were granted under section 70 of this Act; and
-  (b) may be amended or revoked as if it were granted under that section.
-(2) Any amendment to or revocation of the following exemption notices granted under section 157G of the Reserve Bank of New Zealand Act 1989 must be treated as being an amendment to or revocation of a class exemption, and therefore be treated in accordance with section 71(2):
-  (a) Deposit Takers (Charitable and Religious Organisations) Exemption Notice 2010:
-  (b) Deposit Takers (Credit Ratings Minimum Threshold) Exemption Notice 2009:
-  (c) Deposit Takers (Non-trustee Entities Risk Management) Exemption Notice 2009.
-(3) Any amendment to or revocation of any other exemption granted under section 157G of the Reserve Bank of New Zealand Act 1989 must be treated in accordance with section 71(3).
+  (b) may be amended or revoked as if it were granted under that section, and section 71 applies to the amendment or revocation accordingly.
+(2)
+(3)
 (4) A reference in an exemption granted under section 157G of the Reserve Bank of New Zealand Act 1989 to any provision in Part 5D of the Reserve Bank of New Zealand Act 1989 (ie, to any of sections 157A to 157ZZ of that Act) must be taken as a reference to a provision in this Act that corresponds (with or without modification) to that provision.
 
 ### 89 Transitional references in Reserve Bank of New Zealand Act 1989
@@ -1101,10 +1100,8 @@ If material incorporated by reference in regulations expires or is revoked,—
     (v) if the material is available under paragraph (c), that the material is available in other ways, and giving the details of how and where it can be accessed and obtained.
 (2) A failure to comply with this clause does not invalidate regulations that incorporate material by reference.
 
-### 7 Application of Legislation Act 2012
-(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in regulations.
-(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to a regulation that incorporates material by reference.
-(3) Despite section 41 of the Legislation Act 2012, material incorporated by reference in regulations need not be presented to the House of Representatives.
+### 7 Application of Legislation Act 2019 to material incorporated by reference
+Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in regulations merely because it is incorporated.
 
 ## Schedule 2 — Consequential amendments to Reserve Bank of New Zealand Act 1989
 
