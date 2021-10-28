@@ -1,5 +1,5 @@
 # Dairy Industry Restructuring Act 2001
-_Consolidation as at 2021-06-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Dairy Industry Restructuring Act 2001.
@@ -340,6 +340,7 @@ This Act binds the Crown.
   (a) be satisfied that an allocation is appropriate in the circumstances; and
   (b) have regard to the purpose in section 21(1).
 (9) Subsection (1) does not limit the Minister’s power under subsection (3) or (5), or the Governor-General’s power under subsection (7), to allocate new licences in respect of those rights or quantities to the Board or new co-op.
+(10) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 27 Increases in rights to export to designated markets during initial period
 (1) This section applies if, during the initial period, there is an increase in the Crown’s rights to secure the economic benefits that are obtained from designated markets that are not allocated in an existing export licence.
@@ -364,6 +365,7 @@ This Act binds the Crown.
 (2) Export licences may be transferred only in accordance with regulations made in accordance with subsection (1).
 (3) The chief executive is responsible for administering the transfer of export licences.
 (4) Subsection (1) applies subject to section 28.
+(5) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Revocation of initial licences**
 
@@ -376,6 +378,7 @@ This Act binds the Crown.
 (4) The Governor-General may, by Order in Council made on the recommendation of the Minister, allocate new licences in respect of the rights that revert to the Crown under this section.
 (5) Before making a recommendation under subsection (4), the Minister must have regard to the purpose in section 21(1).
 (6) Subsection (1) does not limit the Governor-General’s power under subsection (4) to allocate new licences in respect of those rights to the Board or new co-op.
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Quota trade completed before trade at normal tariff**
 
@@ -668,7 +671,7 @@ The provisions of the constitution of LIC referred to in sections 47 to 50 may n
 **Miscellaneous**
 
 ### 62 Regulations relating to herd testing and provision of information to core database
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
   (a) prohibiting herd testing except by persons or classes of persons, and in circumstances, specified in the regulations:
   (b) providing for the certification of herd testers or herd testing equipment, including—
     (i) providing for the approval of persons to issue certifications:
@@ -679,6 +682,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (e) specifying information that must be provided to the manager of the core database for entering into the core database, the persons who are required to provide it, the form in which it must be provided, and the time limits for its provision:
   (f) requiring the manager of the core database to retain information specified in the regulations in the manner prescribed in the regulations:
   (g) restricting the liability of the Crown for acts or omissions of persons approved to issue certifications.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 63 Regulations relating to access to core database
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
@@ -704,9 +708,10 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (a) deduct over-recoveries in respect of a financial year from the levy payable in subsequent financial years; or
   (b) add under-recoveries in respect of a financial year to the levy payable in subsequent financial years.
 (7) The amount of unpaid levy is recoverable in a court of competent jurisdiction as a debt due to the Crown.
+(8) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 64 General regulations relating to herd testing and core database
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
   (a) providing for the confidentiality of—
     (i) information supplied to the manager of the core database for entry in the core database; and
     (ii) data in the core database; and
@@ -715,14 +720,16 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (c) prescribing offences for the breach of, or non-compliance with, any of those regulations:
   (d) prescribing penalties not exceeding $20,000 for any offences prescribed under any of those regulations:
   (e) providing that a person is liable for damages for any loss or damage caused by that person’s contravention of any of those regulations.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 65 Regulations requiring disclosure of information by manager of core database
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
   (a) requiring the manager of the core database to publish, in the prescribed manner, information about the supply of data in the core database, that may include—
     (i) the manager’s pricing methodology and other terms and conditions:
     (ii) the manager’s procedures, including for complying with decisions of the Access Panel, and for ensuring confidentiality:
   (b) prescribing the form of statutory declaration and who must provide it under section 66(4):
   (c) setting rules about when and for how long information must be disclosed.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 65A Regulations appointing manager of core database
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations appointing an entity to manage the core database.
@@ -739,10 +746,12 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 (4) An appointment under subsection (1) takes effect on a date specified in the regulations.
 (5) The appointment of an existing manager ends when an appointment under subsection (1) takes effect.
 (6) A failure to comply with subsection (3) does not affect the validity of regulations made under this section.
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 65B Regulations naming intended manager of core database
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations naming an entity as the intended manager of the core database.
 (2) The Minister may make the recommendation only on the written request of the entity.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 65C Regulations for previous manager or intended manager of core database
 (1) This section applies if 1 or both of the following apply:
@@ -765,12 +774,14 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 (5) If regulations are made under this section for a purpose described in section 65, sections 66 and 67 apply—
   (a) to the previous manager or intended manager as if it were the manager of the core database; and
   (b) to the regulations as if they were made under section 65.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 65D Duration of regulations for previous manager or intended manager of core database
 (1) Regulations made under section 65C are revoked on the close of the fifth anniversary of their commencement unless—
   (a) the regulations are revoked earlier; or
   (b) the Governor-General by Order in Council confirms that the regulations will remain in force.
 (2) If an Order in Council is made under subsection (1)﻿(b), the regulations remain in force until they are revoked.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 66 Information to be supplied to chief executive
 (1) The manager of the core database must send a copy of the information that it is required to make publicly available by regulations under section 65 to the chief executive within 20 working days of making it publicly available.
@@ -1023,6 +1034,7 @@ New co-op may reject an application by a new entrant or a shareholding farmer if
 ### 96 Order in Council may terminate second exception
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, declare that section 95 does not apply to a geographical area specified in the order from a date specified in the order.
 (2) The Minister must not make a recommendation under subsection (1) unless the Minister is satisfied that new co-op pays shareholding farmers in the geographical area different amounts for milk based on the different costs of transporting that milk.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **New co-op must allow withdrawal**
 
@@ -1149,7 +1161,8 @@ The following provisions (the specified subpart 5 provisions) do not apply on an
   (c) sections 98 to 105.
 
 ### 109B Order in Council specifying date on and from which specified subpart 5 provisions do not apply
-The Governor-General may by Order in Council made on the recommendation of the Minister specify a date on and from which the specified subpart 5 provisions do not apply.
+(1) The Governor-General may by Order in Council made on the recommendation of the Minister specify a date on and from which the specified subpart 5 provisions do not apply.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 109C When Minister must recommend that Order in Council be made
 The Minister must recommend that an Order in Council be made under section 109B if the Minister is satisfied, on the basis of written confirmation by the chief executive, that the preconditions under section 109D for making the order have been met.
@@ -1190,6 +1203,7 @@ For the purposes of section 109D(1)﻿(c), the notice given by new co-op to the 
 (1) Section 109A is repealed on and from a date specified by an Order in Council made under subsection (2).
 (2) The Governor-General may by Order in Council made on the recommendation of the Minister specify a date on and from which section 109A is repealed.
 (3) The date specified in the order must be the later of 9 months after the order is made and the beginning of the next application period.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 109H Revocation of order made under section 109G
 (1) This section applies to the revocation, before the specified date, of an order made under section 109G.
@@ -1198,6 +1212,7 @@ For the purposes of section 109D(1)﻿(c), the notice given by new co-op to the 
   (b) for the purpose of paragraph (a), the requirements of sections 109C and 109D with all necessary modifications have been satisfied.
 (3) When an order is made under subsection (2), the fund that for the purposes of making the order satisfied the requirements of section 109D(1)﻿(b) is for the purpose of this Act and any enactment amended by this Act the new co-op fund.
 (4) In this section, specified date means the date specified in the order made under section 109G.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 109I Conditions of making order under section 109G(2)
 (1) An Order in Council made under section 109G(2) may be made only on the recommendation of the Minister under subsection (2).
@@ -1302,7 +1317,7 @@ Sections 109A to 109M expire and are repealed,—
     (vii) require the chief executive to maintain a system or systems for holding the auctions or allow the chief executive to arrange for another person to maintain a system or systems for holding the auctions on the chief executive's behalf:
     (viii) provide for the maintenance of the system or systems for holding the auctions:
     (ix) allow the chief executive to require new co-op to reimburse the chief executive for the annual operating costs of the auctions:
-    (x) allow some or all of the details about matters referred to in subparagraphs (i) to (ix) to be prescribed by the Minister in 1 or more notices in the Gazette; and
+    (x) allow some or all of the details about matters referred to in subparagraphs (i) to (ix) to be prescribed by the Minister in 1 or more notices; and
   (c) limit, subject to subsection (2), the amount of goods or services described in paragraph (a) or (ba) that new co-op is required to supply, including different limitations for—
     (i) different independent processors; and
     (ii) different geographical areas; and
@@ -1320,6 +1335,10 @@ Sections 109A to 109M expire and are repealed,—
   (a) both the independent processor and the body are bodies corporate and would be treated as interconnected bodies corporate under section 2(7) of the Commerce Act 1986; or
   (b) one or both of the independent processor and the body is a partnership (including a limited partnership) or an unincorporated joint venture and would be treated as interconnected bodies corporate under section 2(7) of the Commerce Act 1986 if the partnership or joint venture were incorporated as a company with shareholdings corresponding to the interests, including returns, of the partners in the partnership or participants in the joint venture.
 (3) A regulation under this section is not invalid because it leaves a matter or thing to be decided by a person.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) If the regulations allow the prescribing of matters by notice under subsection (1)﻿(bc)﻿(x) or empower the fixing of a discount rate under subsection (1)﻿(e),—
+  (a) the notice prescribing the matters or the instrument fixing the rate is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 
 ### 116 Obligations to publish information
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that—
@@ -1336,6 +1355,7 @@ Sections 109A to 109M expire and are repealed,—
   (b) prescribe when and how the information must be published; and
   (c) prescribe the form of statutory declaration and who must provide it under section 117(4).
 (2) Nothing in Part 3 of the Financial Markets Conduct Act 2013 applies to the disclosure of information required by regulations made under subsection (1).
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 117 Information to be supplied to Commission
 (1) New co-op must send a copy of the information that it is required to publish by regulations under section 116 to the Commission within 3 working days of publication.
@@ -1354,7 +1374,8 @@ Sections 109A to 109M expire and are repealed,—
 (4) Every person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $20,000.
 
 ### 119 Regulations prescribing fees
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing fees for applications to the Commission under section 120.
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing fees for applications to the Commission under section 120.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 119A Incorporation by reference
 Regulations made under this Act may incorporate material by reference under Schedule 5E.
@@ -1484,6 +1505,7 @@ The Commission may amend a determination to clarify it if—
   (c) must calculate and deduct the total amount of application fees likely to be received.
 (5) The Minister must consult with new co-op and the Commission before making a recommendation under subsection (2).
 (6) The amount of unpaid levy is recoverable in a court of competent jurisdiction as a debt due to the Crown.
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **General**
 
@@ -2196,10 +2218,11 @@ In this schedule,—
 
 ### 4 Effect of amendments to, or replacement of, material incorporated
 (1) Material that amends or replaces material incorporated in regulations has legal effect as part of the regulations only if the Minister publishes a notice under subclause (2).
-(2) The Minister may publish a notice in the Gazette that—
+(2) The Minister may publish a notice that—
   (a) states that material that amends or replaces material incorporated in regulations has legal effect as part of the regulations; and
   (b) specifies the date on which the material that amends or replaces material incorporated in regulations has legal effect as part of the regulations.
 (3) Subclause (1) does not apply if the regulations expressly say that it does not apply.
+(4) A notice under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5 Proof of material incorporated
 (1) A copy of material incorporated in regulations must be—
@@ -2209,10 +2232,11 @@ In this schedule,—
 
 ### 6 Effect of expiry of material incorporated
 (1) Material incorporated in regulations that expires or that is revoked or that ceases to have effect ceases to have legal effect as part of the regulations only if the Minister publishes a notice under subclause (2).
-(2) The Minister may publish a notice in the Gazette that—
+(2) The Minister may publish a notice that—
   (a) states that material incorporated in regulations that has expired or has been revoked or has ceased to have effect ceases to have legal effect as part of the regulations; and
   (b) specifies the date on which the material ceases to have legal effect as part of the regulations.
 (3) Subclause (1) does not apply if the regulations expressly say that it does not apply.
+(4) A notice under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Access to material incorporated
 (1) The Minister must make material incorporated in regulations available in 1 or more of the following ways:
@@ -2228,10 +2252,8 @@ In this schedule,—
 (3) If the material is not in an official New Zealand language, an accurate translation of the material into an official New Zealand language must also be available in each of the circumstances described in subclause (1).
 (4) Failure to comply with this clause does not invalidate regulations that incorporate material.
 
-### 8 Application of Legislation Act 2012
-(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated in regulations.
-(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations that incorporate material.
-(3) However, nothing in section 41 of the Legislation Act 2012 requires material incorporated in regulations to be presented to the House of Representatives.
+### 8 Application of Legislation Act 2019 to material incorporated by reference
+Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in a specified document merely because it is incorporated.
 
 ### 9 Regulations (Disallowance) Act 1989
 [Repealed]
