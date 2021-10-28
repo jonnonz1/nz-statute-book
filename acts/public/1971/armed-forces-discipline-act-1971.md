@@ -1,11 +1,12 @@
 # Armed Forces Discipline Act 1971
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand and the Parliament of the United Kingdom relating to the discipline of Her Majesty’s Armed Forces of New Zealand, and to provide for the discipline of and the administration of justice within those forces
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Armed Forces Discipline Act 1971.
 (2) This Act shall come into force on a date to be fixed by the Governor-General by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -42,8 +43,8 @@ _Consolidation as at 2019-10-24_
     (a) means—
       (i) an officer for the time being appointed or authorised to be a commanding officer for the purposes of this Act by a superior commander:
       (ii) an officer who is named as a commanding officer under section 16:
-      (iii) the officer who is in command of one of Her Majesty’s New Zealand ships in commission (other than a tender or a boat):
-      (iv) the officer who is in command of one of Her Majesty’s New Zealand naval establishments in commission:
+      (iii) the officer who is in command of one of His Majesty’s New Zealand ships in commission (other than a tender or a boat):
+      (iv) the officer who is in command of one of His Majesty’s New Zealand naval establishments in commission:
       (v) the officer who is in command of a ship declared by the Chief of Defence Force, the Chief of Navy, the Chief of Army, or the Chief of Air Force to be a service ship:
       (vi) the officer who is in command of a battalion or regiment:
       (vii) an officer of a force of another State that is declared to be serving together with a New Zealand force under section 23B of the Defence Act 1990, who is for the time being appointed or authorised to be a commanding officer for the purposes of this Act by a superior commander; but
@@ -74,7 +75,7 @@ _Consolidation as at 2019-10-24_
     (a) means any officer who exercises the summary powers of discipline under Part 5; but
     (b) does not include any chaplain
   - **Discipline Committee** means the Armed Forces Discipline Committee established under section 160
-  - **dismissed from Her Majesty’s Service** , in relation to a member of the Armed Forces sentenced for an offence against this Act, means that he is dismissed from the service to which he belongs; and has a corresponding meaning
+  - **dismissed from His Majesty’s Service** , in relation to a member of the Armed Forces sentenced for an offence against this Act, means that he is dismissed from the service to which he belongs; and has a corresponding meaning
   - **enemy** has the meaning assigned to that term by section 2(1) of the Defence Act 1990
   - **is liable** means is liable on conviction by the Court Martial
   - **joint force** means a joint force established under section 12(1) of the Defence Act 1990
@@ -261,6 +262,7 @@ A member of the Armed Forces who is temporarily attached to the forces of anothe
 (2) However, the Governor-General may, by Order in Council,—
   (a) exempt all or any class of the persons specified in subsection (1) from all or any of the provisions of this Act; or
   (b) modify any of the provisions of this Act so far as they relate to all or any class of the persons specified in subsection (1).
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 10 Volunteers
 (1) Subject to subsection (2), where any person, not otherwise subject to this Act, volunteers or engages for service, training, or exercise with any part of the Armed Forces (not being a person or a member of a class of persons excepted from the provisions of this subsection by Defence Force Order), he shall be subject to this Act during the period of service, training, or exercise.
@@ -330,7 +332,7 @@ Where any person (being a person who would not, apart from this section, be subj
 ### 17 Certain persons sentenced under this Act to remain subject to this Act
 (1) Where a member of the Armed Forces—he shall remain subject to this Act until he has served the sentence of imprisonment or detention or any further sentence of imprisonment or detention imposed in accordance with subsection (1) or subsection (4) of section 178 or has been released from that imprisonment or detention in due course of law.
   (a) is sentenced to a term of imprisonment or detention by the Court Martial or to a term of detention by a disciplinary officer; and
-  (b) is by virtue of that sentence deemed to be dismissed from Her Majesty’s Service or is sentenced to dismissal from Her Majesty’s Service or is discharged from the service of the Armed Forces to which he belongs—
+  (b) is by virtue of that sentence deemed to be dismissed from His Majesty’s Service or is sentenced to dismissal from His Majesty’s Service or is discharged from the service of the Armed Forces to which he belongs—
 (2) Where a person (other than a member of the Armed Forces) who is subject to this Act is sentenced by the Court Martial to a term of imprisonment and serves his sentence in a service penal establishment, he shall remain subject to this Act until he has served the sentence or is released from that imprisonment in due course of law.
 
 ### 18 Trial and punishment of person who has ceased to be subject to this Act
@@ -345,9 +347,9 @@ Where any person (being a person who would not, apart from this section, be subj
 
 ### 19 Status and rank of person deemed to be subject to this Act when imprisoned or detained
 Where, by virtue of section 17 or section 18, a person is deemed to be subject to this Act during any term of imprisonment or detention the following provisions shall apply:
-  (a) if, before he was sentenced to dismissal from Her Majesty’s Service, or was sentenced to imprisonment involving dismissal from Her Majesty’s Service, or was discharged or otherwise ceased to be a member of the Armed Forces, that person was a member of the Navy, the provisions of this Act shall apply to him in the same manner and to the same extent as they apply to a rating of able rank:
-  (b) if, before he was sentenced to dismissal from Her Majesty’s Service, or was sentenced to imprisonment involving dismissal from Her Majesty’s Service, or was discharged or otherwise ceased to be a member of the Armed Forces, that person was a member of the Army, the provisions of this Act shall apply to him in the same manner and to the same extent as they apply to a soldier holding the rank of private:
-  (c) if, before he was sentenced to dismissal from Her Majesty’s Service, or was sentenced to imprisonment involving dismissal from Her Majesty’s Service, or was discharged or otherwise ceased to be a member of the Armed Forces, that person was a member of the Air Force, the provisions of this Act shall apply to him in the same manner and to the same extent as they apply to an airman holding the rank of leading aircraftman:
+  (a) if, before he was sentenced to dismissal from His Majesty’s Service, or was sentenced to imprisonment involving dismissal from His Majesty’s Service, or was discharged or otherwise ceased to be a member of the Armed Forces, that person was a member of the Navy, the provisions of this Act shall apply to him in the same manner and to the same extent as they apply to a rating of able rank:
+  (b) if, before he was sentenced to dismissal from His Majesty’s Service, or was sentenced to imprisonment involving dismissal from His Majesty’s Service, or was discharged or otherwise ceased to be a member of the Armed Forces, that person was a member of the Army, the provisions of this Act shall apply to him in the same manner and to the same extent as they apply to a soldier holding the rank of private:
+  (c) if, before he was sentenced to dismissal from His Majesty’s Service, or was sentenced to imprisonment involving dismissal from His Majesty’s Service, or was discharged or otherwise ceased to be a member of the Armed Forces, that person was a member of the Air Force, the provisions of this Act shall apply to him in the same manner and to the same extent as they apply to an airman holding the rank of leading aircraftman:
   (d) if, by virtue of subsection (2) of section 17, a person continues to be subject to this Act for the duration of the term of his imprisonment or detention, the provisions of this Act shall apply to him in the same manner and to the same extent as if he were a soldier holding the rank of private.
 
 ### 20 Limitation of time within which charges may be dealt with summarily or tried under this Act
@@ -466,7 +468,7 @@ Every person subject to this Act commits an offence, and is liable to imprisonme
 Every person commits an offence, and is liable to imprisonment for life, who, being on board a naval ship outside New Zealand or within a defence area outside New Zealand, spies for the enemy.
 
 ### 27 Seduction from duty or allegiance
-Every person commits an offence, and is liable to imprisonment for life, who, being on board a naval ship outside New Zealand or within a defence area outside New Zealand, seduces or endeavours to seduce a member of the Armed Forces from his duty or from his allegiance to Her Majesty the Queen.
+Every person commits an offence, and is liable to imprisonment for life, who, being on board a naval ship outside New Zealand or within a defence area outside New Zealand, seduces or endeavours to seduce a member of the Armed Forces from his duty or from his allegiance to His Majesty the King.
 
 ### 28 Cowardly behaviour
 Every person subject to this Act commits an offence, and is liable to imprisonment for life, who, when before the enemy, in such a manner as to show cowardice—
@@ -496,7 +498,7 @@ Every person subject to this Act commits an offence, and is liable to imprisonme
 Every person subject to this Act commits the offence of looting, and is liable to imprisonment for life, who—
   (a) steals from, or with intent to steal searches, the person of anyone killed, wounded, or captured in the course of any war or warlike operations in which New Zealand is engaged, or killed, injured, or detained in the course of operations undertaken by any service of the Armed Forces for the preservation of law and order or otherwise in aid of the civil power; or
   (b) steals any property which has been left exposed or unprotected in consequence of any such war or operations as are mentioned in paragraph (a); or
-  (c) appropriates, otherwise than on behalf of Her Majesty the Queen in right of New Zealand, any supplies of any description whatsoever captured from or abandoned by the enemy.
+  (c) appropriates, otherwise than on behalf of His Majesty the King in right of New Zealand, any supplies of any description whatsoever captured from or abandoned by the enemy.
 
 **Offences involving mutiny**
 
@@ -727,7 +729,7 @@ Every person subject to this Act commits an offence, and is liable to imprisonme
 (2) In any proceedings in respect of an offence against subsection (1), it is a defence to the charge if the accused proves that he took reasonable steps for the care and preservation of the property to which the proceedings relate.
 
 ### 63 Improper disposal of decorations and issued property
-(1) Every person subject to this Act commits an offence, and is liable to imprisonment for a term not exceeding 6 months, who, without the authority of the Minister or the Chief of Defence Force, sells, pawns, exchanges, gives away, or otherwise disposes of any military decoration awarded to him by or with the approval of Her Majesty the Queen, whether in right of New Zealand or otherwise.
+(1) Every person subject to this Act commits an offence, and is liable to imprisonment for a term not exceeding 6 months, who, without the authority of the Minister or the Chief of Defence Force, sells, pawns, exchanges, gives away, or otherwise disposes of any military decoration awarded to him by or with the approval of His Majesty the King, whether in right of New Zealand or otherwise.
 (2) Every person subject to this Act commits an offence, and is liable to imprisonment for a term not exceeding 2 years, who, without authority, sells, exchanges, pawns, gives away, or otherwise disposes of any clothing, arms, ammunition, or other equipment issued to him for his own use or for service purposes.
 
 **Offences involving ships, aircraft, vehicles, etc**
@@ -883,11 +885,11 @@ Where the Court Martial convicts a person of more than 1 offence or, on convicti
 (3) In this section, the term custody means detention in civil custody or under close arrest; but does not include open arrest.
 
 ### 82 Dismissal from service and reduction in rank
-(1) Subject to the provisions of this Part, every officer sentenced by the Court Martial to imprisonment shall be deemed to be dismissed from Her Majesty’s Service.
-(2) Where a rating, soldier, or airman is sentenced by the Court Martial to imprisonment, he may also be sentenced to be dismissed from Her Majesty’s Service.
-(3) Where a non-commissioned officer is sentenced by the Court Martial to imprisonment or detention (whether or not such sentence includes dismissal from Her Majesty’s Service), he shall be deemed to be reduced to the lowest rank to which he can be reduced, being such rank as may be prescribed.
+(1) Subject to the provisions of this Part, every officer sentenced by the Court Martial to imprisonment shall be deemed to be dismissed from His Majesty’s Service.
+(2) Where a rating, soldier, or airman is sentenced by the Court Martial to imprisonment, he may also be sentenced to be dismissed from His Majesty’s Service.
+(3) Where a non-commissioned officer is sentenced by the Court Martial to imprisonment or detention (whether or not such sentence includes dismissal from His Majesty’s Service), he shall be deemed to be reduced to the lowest rank to which he can be reduced, being such rank as may be prescribed.
 (4)
-(5) If a member of the Armed Forces is sentenced to dismissal from Her Majesty’s Service and also to imprisonment or detention, or is dismissed from Her Majesty’s Service by virtue of subsection (1), the dismissal shall not take effect until he has served the term of imprisonment or detention and any further sentence of imprisonment or detention imposed in accordance with subsection (1) or subsection (4) of section 178.
+(5) If a member of the Armed Forces is sentenced to dismissal from His Majesty’s Service and also to imprisonment or detention, or is dismissed from His Majesty’s Service by virtue of subsection (1), the dismissal shall not take effect until he has served the term of imprisonment or detention and any further sentence of imprisonment or detention imposed in accordance with subsection (1) or subsection (4) of section 178.
 
 ### 83 Maximum term of detention
 In no case shall any person be sentenced by the Court Martial to detention for a term exceeding 2 years.
@@ -2138,7 +2140,7 @@ Subpart 3 of Part 5 of the Criminal Procedure Act 2011 applies to the extent tha
 **Rules of procedure**
 
 ### 150 Rules of procedure
-The Governor-General may, by Order in Council, make rules of procedure for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make rules of procedure for all or any of the following purposes:
   (a) providing for the drawing of charges:
   (b) providing for the procedures for bringing charges before disciplinary officers:
   (c) providing for the manner in which charges brought before disciplinary officers are to be investigated or otherwise dealt with under Part 5:
@@ -2159,6 +2161,7 @@ The Governor-General may, by Order in Council, make rules of procedure for all o
   (r) specifying any matter referred to in section 87A(1) in relation to the suspension of orders for restitution and the suspension in certain cases of the provisions of section 152(1) of the Contract and Commercial Law Act 2017; and providing for the retention and safe custody of any property to which any order for restitution or those provisions apply while the order or the operation of those provisions is suspended:
   (s)
   (t) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect, in relation to the investigation, trial, and punishment of offences against this Act.
+(2) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Protection from civil liability, privileges, and immunities**
 
@@ -2453,7 +2456,7 @@ No member of the Discipline Committee is personally liable for any act done or o
 
 ### 171 Places in which sentences of imprisonment or detention may be served
 (1) Subject to the provisions of this section and of section 172, a service prisoner or detainee who has been sentenced, or is serving his sentence, in New Zealand shall not be removed to a prison or detention quarter outside New Zealand:provided that if—he may be removed to a prison or detention quarter in that territory to serve his sentence.
-  (a) he was enlisted in any territory administered by Her Majesty the Queen in right of New Zealand; and
+  (a) he was enlisted in any territory administered by His Majesty the King in right of New Zealand; and
   (b) he belongs to a class of persons enlisted from any such territory; and
   (c) the Governor-General has arranged for any person of that class sentenced to imprisonment or detention under this Act to be transferred to that territory to serve his sentence there—
 (2) A competent service authority may give directions for delivery into service custody of any service prisoner or detainee, and for the removal of any such prisoner or detainee, whether separately or with the part of the force to which he belongs, to any place outside New Zealand where the part of the force to which he belongs for the time being is serving or is under orders to serve.
@@ -3130,11 +3133,12 @@ The record of proceedings of a court of inquiry must not be disclosed to—
   (d) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (1A) In subsection (1)﻿(a) the term civil court, in relation to any offence, means a court exercising ordinary criminal jurisdiction whether in New Zealand or elsewhere; and includes a court of summary jurisdiction.
 (1B) No regulations made under subsection (1) shall make any provision contrary to or inconsistent with section 92 of the Government Superannuation Fund Act 1956.
-(2) All regulations made under this Act shall come into force on the date of their notification in the Gazette, or on such later date as may be specified in the regulations.
+(2)
 (3) Any such regulations may make different provision for different services, commands, branches, corps, formations, units, and ranks in the Armed Forces.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 206 Defence Force Orders
-(1) The Chief of Defence Force may from time to time make and issue orders, not inconsistent with this Act or the Defence Act 1990, for all or any of the following purposes:
+(1) The Chief of Defence Force may from time to time issue orders, not inconsistent with this Act or the Defence Act 1990, for all or any of the following purposes:
   (a) determining the nature and content of the punishments of stay of seniority, confinement to ship or barracks, extra work and drill, stoppage of leave, and extra duty:
   (ab) limiting the types of offences that a disciplinary officer may try summarily, or otherwise deal with, under Part 5:
   (ac) limiting the amount that a disciplinary officer may, under section 117ZA, order an offender to pay:
@@ -3159,6 +3163,10 @@ The record of proceedings of a court of inquiry must not be disclosed to—
   (h) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (2) All Defence Force Orders issued under this Act shall come into force on the date of their issue or on such later date as may be specified in the orders.
 (3) Any such orders may make different provision for different services, commands, branches, corps, formations, units, and ranks of the Armed Forces.
+
+### 206A Application of Legislation Act 2019 to Defence Force Orders
+(1) A Defence Force Order under section 206 is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the order applies only to 1 or more named persons.
+(2) A Defence Force Order commences in accordance with section 206(2), even if it is not yet published.
 
 **Repeals, amendments, and savings**
 
@@ -3202,10 +3210,10 @@ The other amendments do not apply in relation to a proceeding in which the Direc
 **Provisions relating to civilians outside New Zealand**
 
 ### 1
-Persons serving outside New Zealand, or otherwise employed, in such capacities connected with the Navy, the Army, or the Air Force as are specified for the purposes of this schedule by Defence Force Orders, being persons serving or employed under Her Majesty’s Government in New Zealand.
+Persons serving outside New Zealand, or otherwise employed, in such capacities connected with the Navy, the Army, or the Air Force as are specified for the purposes of this schedule by Defence Force Orders, being persons serving or employed under His Majesty’s Government in New Zealand.
 
 ### 2
-Persons who are employed by, or in the service of, any naval, army, or air force organisation so specified to which Her Majesty’s Government in New Zealand is a party and are employed by or in the service of that organisation by reason of that Government being a party thereto.
+Persons who are employed by, or in the service of, any naval, army, or air force organisation so specified to which His Majesty’s Government in New Zealand is a party and are employed by or in the service of that organisation by reason of that Government being a party thereto.
 
 ### 3
 Persons belonging to or employed by any other organisation so specified which operates in connection with the Navy, the Army, or the Air Force.
@@ -3234,7 +3242,7 @@ Persons forming part of the family of persons falling within either clause 7 or 
 The punishments that may be imposed on an offender convicted by the Court Martial are as follows:
 (a)
 (b) imprisonment:
-(c) dismissal from Her Majesty’s Service:
+(c) dismissal from His Majesty’s Service:
 (d) detention:
 (e) reduction in rank:
 (f) forfeiture of seniority:
