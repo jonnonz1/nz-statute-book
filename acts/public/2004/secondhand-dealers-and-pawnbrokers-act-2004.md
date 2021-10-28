@@ -1,5 +1,5 @@
 # Secondhand Dealers and Pawnbrokers Act 2004
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Secondhand Dealers and Pawnbrokers Act 2004.
@@ -917,7 +917,7 @@ If a constable seeks any of the following information from any Licensing Authori
 **Regulations**
 
 ### 84 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) amending Schedule 1 by removing items that are articles for the purpose of this Act:
   (b) amending Schedule 2 by—
     (i) adding or removing forms of identification that are authorised forms for the purposes of this Act; or
@@ -945,6 +945,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
     (b) pawnbrokers are to be permitted under section 63(2)﻿(b) to dispose of goods through that Internet auction website:
   (p) prescribing the matters to be included in the annual report of the Licensing Authorities:
   (q) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Transitional provisions**
 
