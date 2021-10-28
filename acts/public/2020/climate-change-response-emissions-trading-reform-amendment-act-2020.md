@@ -1,5 +1,5 @@
 # Climate Change Response (Emissions Trading Reform) Amendment Act 2020
-_Consolidation as at 2020-06-22_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Climate Change Response (Emissions Trading Reform) Amendment Act 2020.
@@ -2878,7 +2878,8 @@ Replace Part 5 with:Sector-specific provisions: forestryDeforestationForest land
       (iv) any requirements or conditions that the EPA may impose on a person whose land is exempted:
     (h) providing for any other matters contemplated by sections 180E and 180F, necessary for their administration, or necessary for giving them full effect.
   (2) See sections 3A and 3B for consultation requirements that apply to the making of the regulations.
-  (3) The regulations come into force 3 months after the date of their notification in the Gazette, or on any later date specified in the regulations.
+  (3) The regulations come into force 3 months after the date of their publication under the Legislation Act 2019, or on any later date specified in the regulations.
+  (4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
   (1) Subsection (2) applies where the trees cleared from pre-1990 forest land by a person carrying out the activity in Part 1 of Schedule 3 are 8 years or younger.
   (2) If this subsection applies, the participant must,—
     (a) for the purposes of sections 62(1)﻿(b) and 65(2)﻿(b), apply any prescribed methodology and calculate and record the emissions from the activity as if the trees cleared from the pre-1990 forest land were trees of the age and species of the oldest trees of the predominant species (as determined by regulations made under section 163) cleared from the pre-1990 forest land during the previous 9 years (excluding any period in which the pre-1990 forest land is temporarily unstocked); and
@@ -3230,7 +3231,8 @@ Replace Part 5 with:Sector-specific provisions: forestryDeforestationForest land
     (f) prescribing usual rotation periods for forest species (section 181F(6)):
     (g) providing for any other matters contemplated by this subpart, necessary for its administration, or necessary for giving it full effect.
   (2) See sections 3A and 3B for consultation requirements that apply to the making of the regulations.
-  (3) The regulations come into force 3 months after the date of their notification in the Gazette or on any later date specified in the regulations.
+  (3) The regulations come into force 3 months after the date of their publication under the Legislation Act 2019 or on any later date specified in the regulations.
+  (4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
   (1) In this subpart,—
     - **final forestry emissions return** means an emissions return that is prepared under section 183B and is not a provisional forestry emissions return
     - **permanent forestry** means an activity listed in Part 1A of Schedule 4
@@ -3842,7 +3844,8 @@ Replace Part 5 with:Sector-specific provisions: forestryDeforestationForest land
       (iii) the need to assign an appropriate value for forests with no market, or for which no market price is available, so as to deter clear-felling on all land in permanent forestry; and
       (iv) any need to deem the volume of the harvest from a forest; and
     (b) comply with the consultation requirements in sections 3A and 3B.
-  (3) Regulations made under this section come into force 3 months after the date of their notification in the Gazette, or on any later date specified in the regulations.
+  (3) Regulations made under this section come into force 3 months after the date of their publication under the Legislation Act 2019, or on any later date specified in the regulations.
+  (4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
   (1) A person who is registered as a participant carrying out permanent forestry on any land must ensure that the land is not deforested.
   (2) If any of the land is deforested (the deforested land),—
     (a) the person ceases to be a participant in permanent forestry in respect of each carbon accounting area that includes any deforested land (each a CAA1); and
@@ -3984,7 +3987,10 @@ Replace Part 5 with:Sector-specific provisions: forestryDeforestationForest land
     (b) are associated with a product or other thing that is the subject of an activity.
   (7) See sections 3A and 3B for consultation requirements that apply to the making of regulations under this section.
   (8) See also sections 169 to 175 (incorporation by reference).
-  (9) Regulations made under this section come into force 3 months after the date of their notification in the Gazette, or on any later date specified in the regulations.
+  (9) Regulations made under this section come into force 3 months after the date of their publication under the Legislation Act 2019, or on any later date specified in the regulations.
+  (10) Regulations under this section—
+    (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+    (b) have effect in accordance with subsection (3) even if they are not yet published.
   In this subpart,—
     - **expected carbon stock** , for P89 offsetting (forested) land, has the meaning given in section 192I
     - **P89 offset application** means an application to the EPA submitted under section 192A
@@ -4292,6 +4298,9 @@ Replace Part 5 with:Sector-specific provisions: forestryDeforestationForest land
   (4) Regulations made under this section may require the use of a computer programme available via the Internet site of the EPA.
   (5) See sections 3A and 3B for consultation requirements that apply to the making of regulations under this section.
   (6) See also sections 169 to 175 (incorporation by reference).
+  (7) Regulations under this section—
+    (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+    (b) have effect in accordance with subsection (3) even if they are not yet published.
   (1) In this subpart,—
     - **adverse event** , in relation to temporary adverse event land, means the event referred to in section 193A(1)﻿(b) as a result of which the land became temporary adverse event land
     - **affected land** has the meaning given in section 193A(1)
@@ -4511,8 +4520,9 @@ Replace Part 5 with:Sector-specific provisions: forestryDeforestationForest land
     (a) stem directly from an activity; or
     (b) are associated with a product or other thing that is the subject of an activity.
   (5) See sections 3A and 3B for consultation requirements that apply to the making of regulations under this section.
-  (6) Regulations made under this section come into force 3 months after the date of their notification in the Gazette, or on any later date specified in the regulations.
+  (6) Regulations made under this section come into force 3 months after the date of their publication under the Legislation Act 2019, or on any later date specified in the regulations.
   (7) See also sections 169 to 175 (incorporation by reference).
+  (8) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
   (1) This section applies before a person submits an emissions return (for a forestry activity) of a type specified in the regulations.
   (2) The person may first submit, for the activity and 1 or more of the areas or carbon accounting areas covered by the emissions return, an input return that contains the data or information required by the regulations.
   (3) The input return must be submitted by—
@@ -4538,9 +4548,12 @@ Replace Part 5 with:Sector-specific provisions: forestryDeforestationForest land
     (b) specifying the data or information that must be contained in any input return or the input return for each type of emissions return:
     (c) specifying the deadline for submitting the input return for each type of emissions return, which must be a reasonable period before the deadline for submitting the emissions return:
     (d) providing for how, and for how long, the EPA may extend a deadline for submitting the input return for any emissions return or for each type of emissions return:
-    (e) authorising the EPA to issue guidelines or standards by notice in the Gazette in relation to the matters specified under paragraphs (b) to (d).
+    (e) authorising the EPA to issue guidelines or standards in relation to the matters specified under paragraphs (b) to (d).
   (2) See sections 3A and 3B for consultation requirements that apply to the making of the regulations.
-  (3) Any guidelines or standards issued by the EPA under regulations made under subsection (1)﻿(e) are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+  (3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  (3A) If regulations authorise the EPA to issue guidelines or standards under subsection (1)﻿(e),—
+    (a) those guidelines or standards are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+    (b) the regulations must contain a statement to that effect.
   (4) A person who has complied with guidelines or standards issued by the EPA under regulations made under subsection (1)﻿(e) is, in the absence of proof to the contrary, presumed to have complied with the relevant requirements specified in regulations corresponding to those guidelines or standards.
   (1) The EPA must, if required by regulations made under section 168, notify the following persons of the details of the land that the EPA is satisfied is a type of land described in subsection (2):
     (a) the Registrar of the Maori Land Court in whose jurisdiction the land is situated in relation to Maori land; and
@@ -4614,7 +4627,8 @@ Replace Part 5 with:Sector-specific provisions: forestryDeforestationForest land
     (b) the costs of services provided by third parties.
   (3) Section 167(4) also applies to regulations made under subsection (1)﻿(b)﻿(ii).
   (4) See sections 3A and 3B for consultation requirements that apply to the making of regulations under this section.
-  (5) Regulations made under this section come into force 3 months after the date of their notification in the Gazette, or on any later date specified in the regulations.
+  (5) Regulations made under this section come into force 3 months after the date of their publication under the Legislation Act 2019, or on any later date specified in the regulations.
+  (6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
   A participant in an activity of standard forestry or permanent forestry in a carbon accounting area is not entitled to receive New Zealand units for removals that—
     (a) are attributable to forest species in relation to which the participant has received a grant from the Crown under a grant scheme relating to forestry that is prescribed in regulations made under section 197A (a grant-funded forest); and
     (b) occur during the stand-down period for that forest prescribed in regulations made under section 197A.
@@ -4632,6 +4646,7 @@ Replace Part 5 with:Sector-specific provisions: forestryDeforestationForest land
   (4) Regulations made under subsection (1)﻿(c) may relate to emissions or removals that—
     (a) stem directly from the relevant activity; or
     (b) are associated with a product or other thing that is the subject of the relevant activity.
+  (5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 273 Part 6 heading repealed
 Repeal the Part 6 heading.
