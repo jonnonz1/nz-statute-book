@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2021-07-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -300,6 +300,7 @@ A local authority must state, in the resolution setting a rate,—
   (a) New Zealand Local Government Association Incorporated; and
   (b) any other organisations that the Minister considers have a particular interest in the regulations.
 (4) In this section and section 26 (except paragraph (c)﻿(i)), Minister means the Minister responsible for the administration of this Act.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 26 Report of Ministerial review of rating practice in relation to educational establishments
 A report complies with this section if—
@@ -1352,6 +1353,7 @@ The Māori Land Court must cancel an order made under section 108(2) if, within 
 (3) In determining whether to consent to an order under subsection (1) or whether to seek an order under subsection (2), the local authority must consider—
   (a) the provisions of the policy on the remission and postponement of rates on Māori freehold land adopted by the local authority under section 102(1) of the Local Government Act 2002; and
   (b) the objectives set out in Schedule 11 of the Local Government Act 2002.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 117 Effect of exemption
 (1) An order made under section 116 may—
@@ -1678,11 +1680,12 @@ The local authority may cancel the requirement to pay a deficit assessed under t
   (b) a function, power, or duty conferred by subpart 2 of Part 1 or subpart 1 of Part 5.
 
 ### 133 In certain cases Governor-General in Council may extend time or validate proceedings
-The Governor-General may, by Order in Council, do 1 or more of the following:
+(1) The Governor-General may, by Order in Council, do 1 or more of the following:
   (a) extend the time for completing an action, step, or procedure that is required by or under this Act and that is not done or cannot be done by the time required:
   (b) validate an action, step, or procedure that is required by or under this Act and that is done after the time required:
   (c) validate an irregularity of form in an action, step, or procedure that is required by or under this Act:
   (d) make a provision for a situation for which sufficient provision is not made by or under this Act.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 134 Judge, etc, not interested merely by being ratepayer
 A Judge, Justice, or Community Magistrate must not be treated as interested in a case in which he or she is judicially concerned solely because of his or her liability to pay rates.
