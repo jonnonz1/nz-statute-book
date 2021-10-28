@@ -1,5 +1,5 @@
 # New Zealand Horticulture Export Authority Act 1987
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to establish the New Zealand Horticulture Export Authority and to provide for its powers and functions
 
@@ -301,6 +301,7 @@ In sections 23AA to 23AC, unless the context otherwise requires,—
   (c) where the product is a species that contains a number of varieties or cultivars, may exclude from that product any specified variety or cultivar.
 (3) An Order in Council made under this section may be amended or revoked only in accordance with section 31(2) or section 32 or section 33.
 (4) Subsection (1) is subject to sections 25 and 25A.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 25 Requirements to be met before prescribed product declared
 (1) The Minister must not recommend the making of an Order in Council under section 24 unless—
@@ -465,6 +466,9 @@ Effect of change on existing licences
     (iii) excluding any specified variety or cultivar of the product to which the order relates; or
   (b) revoke any such Order in Council.
 (2) Notwithstanding subsection (1), or anything in sections 32 and 33, the Governor-General may from time to time, by Order in Council, amend any Order in Council made under section 24 for the purpose of correcting any error or making any minor or technical amendment.
+(3) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an amendment under this section:
+  (b) a revocation under this section.
 
 ### 32 Requirements to be met before Minister may recommend amendment of Order in Council
 (1) The Minister shall not recommend any amendment of an Order in Council made under section 24 that would render the product concerned subject to export licensing unless the requirements specified in section 25 in relation to the original Order in Council are also met in relation to the proposed amendment.
@@ -848,6 +852,7 @@ The Authority must ensure that, within 5 months after the end of the financial y
     (ii) the type or quantity of product, service, or matter in respect of which the fee would otherwise be payable.
 (3) If the regulations exempt persons from having to pay a fee, the reasons for the exemption must be set out in the explanatory note of the regulations.
 (4) Before recommending that regulations be made under this section, the Minister must take reasonable steps to consult the persons who may have to pay the fee.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 62A Levy regulations: levy payable to Authority
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing for the payment of a levy by recognised product groups to the Authority to fund the costs of carrying out its functions under this Act.
@@ -873,6 +878,7 @@ The Authority must ensure that, within 5 months after the end of the financial y
 (7) A levy imposed by regulations made under this section must be reasonable having regard to—
   (a) the costs incurred by the Authority in carrying out its functions under this Act; and
   (b) the amount of any income received by the Authority from any other source.
+(8) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 62B Levy regulations: levies payable to recognised product groups
 (1) The purpose of this section and section 62C is to allow levies to be imposed for the purpose of funding—
@@ -880,6 +886,9 @@ The Authority must ensure that, within 5 months after the end of the financial y
   (b) the payment of any fee or levy payable by recognised product groups to the Authority.
 (2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations imposing levies in accordance with the provisions of the Commodity Levies Act 1990, as applied by section 62C.
 (3) Regulations made under subsection (2) are to be administered under this Act.
+(4) Regulations under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 62C Application of Commodity Levies Act 1990 to prescribed products for purposes of section 62B
 (1) For the purposes of section 62B, the provisions of the Commodity Levies Act 1990 apply to prescribed products as if they were commodities within the meaning of that Act.
@@ -911,10 +920,11 @@ The Authority must ensure that, within 5 months after the end of the financial y
   (f) any other necessary modifications.
 
 ### 62D Other regulations
-The Governor-General may, by Order in Council, make regulations for 1 or more of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for 1 or more of the following purposes:
   (a) prescribing grade standards for prescribed products, recognition symbols or marks for those grade standards, and offences relating to the unauthorised or fraudulent use of those symbols or marks:
   (b) prescribing offences for breaching regulations made under this Act and the fines for the offences, up to a maximum of $10,000:
   (c) providing for matters contemplated by, or necessary for giving full effect to, the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 63 Offences and penalties
 (1) Every person commits an offence against this Act who, with intent to deceive, makes any false or misleading statement or any material omission in any application, statement, or other communication made to the Authority or to any other person for the purposes of this Act.
