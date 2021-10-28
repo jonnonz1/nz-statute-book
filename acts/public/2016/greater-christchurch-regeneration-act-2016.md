@@ -1,5 +1,5 @@
 # Greater Christchurch Regeneration Act 2016
-_Consolidation as at 2021-07-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Greater Christchurch Regeneration Act 2016.
@@ -35,7 +35,7 @@ In this Act, unless the context otherwise requires,—
   - **Christchurch central city** means the area bounded by Bealey Avenue, Fitzgerald Avenue, Moorhouse Avenue, Deans Avenue, and Harper Avenue
   - **council** means Canterbury Regional Council, Christchurch City Council, Selwyn District Council, or Waimakariri District Council
   - **council organisation** has the same meaning as in section 6 of the Local Government Act 2002
-  - **enactment** has the same meaning as in section 29 of the Interpretation Act 1999 and includes any plan, programme, bylaw, or rule made under any Act
+  - **enactment** has the same meaning as in section 13 of the Legislation Act 2019 and includes any plan, programme, bylaw, or rule made under any Act
   - **greater Christchurch** means the area described in clause 1 of Schedule 2
   - **land** includes an interest in land
   - **Minister** means, in relation to any provision of this Act, the Minister of the Crown who, with the authority of the Prime Minister, is for the time being responsible for the administration of that provision
@@ -701,6 +701,7 @@ Nothing effected or authorised by a transfer under this subpart—
   (a) the close of 30 June 2023; and
   (b) a date set by Order in Council, made by the Governor-General on the recommendation of the Minister.
 (4) At the close of 30 June 2021, every Order in Council continued by section 147 that is in force is revoked.
+(5) An order under subsection (3)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 152 Consequential amendments and revocation
 [Repealed]
