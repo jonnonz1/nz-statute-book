@@ -1,5 +1,5 @@
 # Maori Fisheries Act 2004
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ## Preamble
 (1) By the Treaty of Waitangi, the Queen of England confirmed and guaranteed to the chiefs, tribes, and individual Maori the full, exclusive, and undisturbed possession of their fisheries for so long as they wished to retain them:
@@ -64,7 +64,7 @@ This Act comes into force on the day after the date on which it receives the Roy
   (i) consequential amendments.
 
 ### 5 Interpretation
-In this Act, unless the context otherwise requires,—
+(1) In this Act, unless the context otherwise requires,—
   - **adult member** means a person 18 years of age or over
   - **allocate** ,—
     (a) in respect of settlement assets, means the determination of the quantum of those assets to be transferred to an iwi; but
@@ -74,7 +74,7 @@ In this Act, unless the context otherwise requires,—
       (iii) grants of assistance made under section 35(1)﻿(h)
   - **annual catch entitlement** has the meaning given to it in section 2(1) of the Fisheries Act 1996
   - **Aotearoa Fisheries Limited** means the company established in accordance with section 60
-  - **appointed day** means the day specified as the appointed day by the Governor-General by Order in Council made on the recommendation of the Minister at the request of the Treaty of Waitangi Fisheries Commission, being a day not later than 45 working days after the commencement of this Act
+  - **appointed day** means the day specified as the appointed day by the Governor-General by Order in Council made on the recommendation of the Minister at the request of the Treaty of Waitangi Fisheries Commission, being a day not later than 45 working days after the commencement of this Act (see subsection (2))
   - **asset-holding company** means a company—
     (a) established as required by section 12(1)﻿(d); and
     (b) that complies with section 16(1) and (2); and
@@ -194,6 +194,7 @@ In this Act, unless the context otherwise requires,—
   - **Treaty of Waitangi Fisheries Commission** means the Commission established under section 4 of the Maori Fisheries Act 1989
   - **voting share** means a voting share in Aotearoa Fisheries Limited
   - **wānanga** has the same meaning as in section 10(1) of the Education and Training Act 2020.
+(2) An order under the definition of appointed day in subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 6 Act binds the Crown
 This Act binds the Crown.
@@ -208,11 +209,12 @@ This Act binds the Crown.
   (b) in accordance with section 8, determine, for every harbour specified in Schedule 2 that is within the relevant quota management area, either—
     (i) the quantity of harbour quota for the stock; or
     (ii) that there is no harbour quota for the stock; and
-  (c) publish in the Gazette—
+  (c) publish by notice—
     (i) the classification of the stock; and
     (ii) whether harbour quota applies to that stock; and
     (iii) the quantity, if any, of each harbour quota for the stock.
-(2) A Gazette notice under this section applies as if Part 2 of Schedule 1 and Part 2 of Schedule 2 were amended in accordance with determinations made under this section and sections 8 and 9.
+(2) A notice under this section applies as if Part 2 of Schedule 1 and Part 2 of Schedule 2 were amended in accordance with determinations made under this section and sections 8 and 9.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 8 Basis for classifying stock under section 7
 (1) For the purpose of classifying stock under section 7, a stock for which Te Ohu Kai Moana Trustee Limited determines, on the basis of scientific or anecdotal evidence, that the commercial catch during the 5 fishing years prior to the declaration referred to in section 7(1) was entirely taken—
@@ -2466,14 +2468,15 @@ A consent to an exemption granted to the Treaty of Waitangi Fisheries Commission
   (c) must be reported in the audited financial statements of Te Ohu Kai Moana Trustee Limited.
 
 ### 196 Classification of quota shares allocated to Treaty of Waitangi Fisheries Commission
-Te Ohu Kai Moana Trustee Limited must, not later than 6 months after the appointed day,—
+(1) Te Ohu Kai Moana Trustee Limited must, not later than 6 months after the appointed day,—
   (a) determine the appropriate classification, in accordance with sections 8 and 9, for quota shares allocated to the Treaty of Waitangi Fisheries Commission under section 44 of the Fisheries Act 1996—
     (i) at any time before the commencement of this Act, and not included in Schedule 1:
     (ii) between the commencement of this Act and the appointed day; and
-  (b) publish in the Gazette—
+  (b) publish by notice—
     (i) the classification of the stock; and
     (ii) whether harbour quota applies to that stock; and
     (iii) the quantity, if any, of each harbour quota for the stock.
+(2) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Final report**
 
