@@ -1,5 +1,5 @@
 # Burial and Cremation Act 1964
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to the burial and cremation of the dead
 
@@ -136,8 +136,9 @@ The following provisions shall apply with respect to the digging, making, erecti
   (b) without fee,—
     (i) permit burials to take place in the part of the cemetery set aside under paragraph (a):
     (ii) grant (whether in perpetuity or for a limited period) the exclusive right of burial in that part of the cemetery.
-(2) The Minister of Veterans' Affairs may, after consultation with the Minister of Defence and the New Zealand Returned Services' Association (Incorporated), by notice in the Gazette, specify a war, armed conflict, peacekeeping force, or other operation for the purposes of subsection (1).
+(2) The Minister of Veterans' Affairs may, after consultation with the Minister of Defence and the New Zealand Returned Services' Association (Incorporated), by notice, specify a war, armed conflict, peacekeeping force, or other operation for the purposes of subsection (1).
 (3) In subsection (1), operational service means service in a war, armed conflict, peacekeeping force, or other operation specified under subsection (2).
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 16 Bylaws
 (1) A local authority may in respect of any cemetery, or, so far as is applicable, any closed cemetery under its control, make bylaws for all or any of the following purposes:
@@ -196,6 +197,7 @@ A local authority may expend such money as it thinks fit for the purposes of cle
 
 ### 24 Governor-General may delegate powers
 (1) The Governor-General may from time to time, by Order in Council, delegate to a local authority, in respect of any particular cemetery or cemeteries, all or any of the powers conferred on him by subsections (1) and (2) of section 23, and may at any time revoke any such delegation.
+(1A) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (2) Every appointment of trustees by a local authority pursuant to a delegation under subsection (1) shall be publicly notified in the district wherein the cemetery is situated, and it shall not be necessary to notify any such appointment in the Gazette.
 (3) Every appointment or removal of trustees by a local authority pursuant to a delegation under subsection (1) shall take effect as if such appointment or removal had been made or effected by the Governor-General.
 (4) Subsection (3) of section 22 shall apply in the case of a cemetery of which the trustees have been appointed by a local authority as it does in the case of a cemetery of which the trustees have been appointed by the Governor-General.
@@ -293,6 +295,7 @@ A local authority may expend such money as it thinks fit for the purposes of cle
 (1) Without prejudice to the power to make regulations conferred by section 59 the Governor-General may from time to time, by Order in Council, make regulations controlling or restricting the establishment and closing of crematoria, prescribing the conditions subject to which and the manner in which cremations are to be carried out, and providing for all matters incidental thereto.
 (2) No person shall carry out or procure or take part in any cremation except in accordance with regulations made under this section.
 (3) The provisions of sections 38 to 40 shall be subject to any regulations made under this section.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 38 Erection of crematoria
 (1) A local authority may erect a crematorium either within or outside the boundaries of a cemetery and may make provision for cremation therein and elsewhere.
@@ -482,6 +485,7 @@ Notwithstanding anything in this Act, a body may be buried in any place, even th
 (2) There shall be payable in respect of every licence issued under subsection (1), such fee as may be prescribed in that behalf by the Governor-General by Order in Council:provided that the Minister may, if he thinks fit, in any case waive payment of the whole or part of the fee.
 (3) If any person applying for a licence under this section appears to the Minister to be a relative or friend of the deceased person, who desires to remove the body of such person from a closed cemetery for the purpose of burying it in a cemetery which is not closed, the Minister shall grant a licence in respect of such removal and shall remit or waive payment of the whole of the fee unless he is satisfied that for special reasons the said licence should be refused or the fee paid in whole or in part as the case may be.
 (4) A licence granted under this section shall not operate to authorise the removal of a body contrary to any regulations or bylaws made under this Act.
+(5) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 52 Inspection of cemeteries
 (1) An employee of the public service appointed by the Minister for the purpose, or any person designated as a Health Protection Officer under the Health Act 1956, may inspect any cemetery or any portion of a cemetery exclusively set apart for any denomination in order to—
@@ -528,7 +532,7 @@ Any person who, contrary to any of the provisions of sections 36, 41, 46, 47, an
 ## Part 9 — Regulations, savings, and repeals
 
 ### 59 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) protecting public health and maintaining public decency in relation to cemeteries and burial grounds:
   (b) regulating the conduct of persons using or frequenting any cemetery or burial ground:
   (c) prohibiting or regulating the admission of animals to any cemetery or burial ground or Maori burial ground:
@@ -539,6 +543,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (h) prescribing the fees to be paid in respect of any rights or privileges conferred by this Act or by any regulations made under this Act, or in respect of any certificates, documents, consents, approvals, or sanctions required thereunder and the person or authorities entitled to claim and receive such fees:
   (i) prescribing fines for the breach of any such regulation not exceeding 50 pounds in any case, and, where the breach is a continuing one, not exceeding 5 pounds for every day or part of a day during which the breach has continued:
   (j) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 60 Savings
 Except so far as may be expressly provided in this Act, nothing in this Act shall be so construed as to limit or affect in any way—
