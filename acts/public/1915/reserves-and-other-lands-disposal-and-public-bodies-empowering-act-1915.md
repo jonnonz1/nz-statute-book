@@ -1,5 +1,5 @@
 # Reserves and Other Lands Disposal and Public Bodies Empowering Act 1915
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the Exchange, Sale, Reservation, and other Disposition of certain Reserves, Crown Lands, Endowments, and other Lands, to validate certain Transactions, to confer Powers on certain Public Bodies, and to make Provision for certain other Matters.
 
@@ -616,7 +616,8 @@ Whereas by a certain memorandum of agreement, dated 4 July 1911, and made pursua
 [Repealed]
 
 ### 126 Extending rating-powers of Waikiwi River Board
-In addition to the powers of rating conferred upon River Boards by section 87 of the River Boards Act 1908, the Waikiwi River Board (being a River Board duly constituted under the provisions of the said Act) is hereby authorized and empowered to make and levy rates, both general and special, on an acreage basis, on a graduated scale, according to the classification of the lands within its district, but the amount of general and special rates for all purposes shall not exceed 80 cents per acre in any year. The said Act is hereby modified in so far as it is inconsistent with this section.
+(1) In addition to the powers of rating conferred upon River Boards by section 87 of the River Boards Act 1908, the Waikiwi River Board (being a River Board duly constituted under the provisions of the said Act) is hereby authorized and empowered to make and levy rates, both general and special, on an acreage basis, on a graduated scale, according to the classification of the lands within its district, but the amount of general and special rates for all purposes shall not exceed 80 cents per acre in any year. The said Act is hereby modified in so far as it is inconsistent with this section.
+(2) An instrument that makes and levies rates under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 127 Restriction of right to compensation in certain cases for land taken for purposes of road, railway, tramway, or other public work
 [Repealed]
