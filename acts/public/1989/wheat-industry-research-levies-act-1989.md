@@ -1,5 +1,5 @@
 # Wheat Industry Research Levies Act 1989
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide money for research into the growing of wheat and the manufacture of wheat into flour, bread, and other products by imposing levies on persons and organisations engaged in wheat growing, flourmilling, baking, and related industries
 
@@ -61,6 +61,10 @@ This Act binds the Crown.
 (3) Subject to sections 8 and 9, the levy imposed by section 4(1)﻿(b) shall be at such rate as may from time to time be determined by the Flourmillers Association.
 (4) Subject to sections 8 and 9, the levy imposed by section 4(1)﻿(c) shall be at such rate as may from time to time be determined by the Bakers Association.
 (5) Subject to section 9, the levy imposed by section 4(1)﻿(d) shall be at the same rate as is from time to time determined for the purposes of section 4(1)﻿(c).
+(6) Any notice under this section may be in like manner amended or revoked at any time.
+(7) A notice, amendment, or revocation under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) comes into force on a date specified in it, being not less than 28 days after the notice, amendment, or revocation is published under that Act.
 
 ### 7 Computation of levies
 The levies imposed by section 4 shall be computed as follows:
@@ -87,9 +91,7 @@ The amount of the levies imposed by section 4 shall not exceed,—
 (5) The provisions of the Schedule shall apply with respect to the holding of a referendum.
 
 ### 10 Notification of rates of levies
-(1) The rates of the levies determined in accordance with section 6 shall be published in the Gazette at least 28 days before the date on which they are to come into force.
-(2) Any notice under this section may be in like manner amended or revoked at any time.
-(3) Where an amendment alters the rate of any levy imposed by section 4, the notice effecting that amendment shall be published in the Gazette at least 28 days before the date on which the amendment comes into force.
+[Repealed]
 
 ### 11 Recovery of levies
 All levies imposed by section 4 shall be recoverable in any court of competent jurisdiction as a debt due,—
@@ -375,9 +377,11 @@ Every request for a voting paper for a referendum shall—
 (3) In respect of every valid voting paper, votes shall be allotted to the proposal for which the voter has voted, according to the number of votes appearing beside the voter's name on the list of voters kept pursuant to clause 10(5).
 
 ### 13 Declaration of result of referendum
-After ascertaining the number of votes recorded for each proposal, the returning officer shall, as soon as practicable, publish—the result of the referendum.
-  (a) in the Gazette; and
-  (b) in the main daily newspapers circulating in New Zealand—
+As soon as practicable after ascertaining the number of votes recorded for each proposal, the returning officer must—
+  (a) publish the result of the referendum—
+    (i) in the Gazette; and
+    (ii) in the main daily newspapers circulating in New Zealand; and
+  (b) lodge a notice of the result with the Parliamentary Counsel Office.
 
 ### 14 Majority required to reject rate of levy
 If the majority of the total number of valid votes recorded at the referendum is in favour of the proposal against the rate of any levy, then, and not otherwise, the rate of that levy shall be deemed to be rejected.
