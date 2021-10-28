@@ -1,5 +1,5 @@
 # Earthquake Commission Act 1993
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision with respect to the insurance of residential property against damage caused by certain natural disasters
 
@@ -105,6 +105,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   (c) exercise any of Her Majesty's rights and powers as the holder of any shares in the Commission.
 (6) All money required to be paid by the Minister in respect of the subscription for, or other acquisition of, shares in the Commission (other than the share capital of $1,500,000,000 referred to in subsection (1)) shall be paid out of public money appropriated by Parliament for the purpose.
 (7) All sums paid or deemed to be paid by the Minister in respect of the subscription for, or other acquisition of, shares in the Commission shall be deemed to form part of the Fund.
+(8) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 8 Commission to be Crown entity
 [Repealed]
@@ -360,6 +361,7 @@ Where there is expressed or implied in any mortgage, lease, instrument, or docum
   (m) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (2) Subject to subsection (3), the Governor-General may from time to time, by Order in Council, in accordance with the recommendation of the Minister, make regulations which deem any class of premises to be, or not to be, a dwelling for the purposes of this Act.
 (3) The Minister shall not make a recommendation under subsection (2) in relation to any class of premises unless the Commission has advised the Minister that doubts have arisen as to whether that class of premises is a dwelling for the purposes of this Act and that an Order in Council is desirable to clarify the matter.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 37 Transitional provisions relating to staff
 (1) Every person employed by the Commission immediately before the commencement of this Act shall, on the commencement of this Act, be deemed to have been appointed as an employee of the reconstituted Commission on the same terms and conditions of employment (including those relating to salaries and allowances) as applied in respect of that person immediately before such commencement.
