@@ -1,5 +1,5 @@
 # Te Ture mō Te Reo Māori 2016
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ## Part Te Wāhanga 1 — Ko te ingoa me ngā whakataunga tīmatanga i te reo Māori
 
@@ -11,6 +11,7 @@ Ko tēnei te Ture mō Te Reo Māori 2016.
   (a) ko tētahi rā ka whakaritea e te Kāwana-Tianara mā te Ōta Kaunihera;
   (b) ko te 30 o Poutū-te-rangi 2017 hoki.
 (2) Ka mana te toenga o tēnei Ture hei te rā ka whai i muri atu i te rangi ka whakaaetia te Ture nei e te Upoko Ariki o Niu Tireni.
+(3) Ko tētahi ōta ka hua i tēnei wehenga he ture pae tuarua (tirohia te Wāhanga 3 o te Ture Whakature 2019 (Legislation Act 2019) mō ngā tikanga tā).
 
 ## Part Te Wāhanga 2 — He whakataunga horopaki
 
@@ -468,6 +469,7 @@ I runga i ngā here o te wehenga 53I o te Broadcasting Act 1989 me kopou rawa e 
 (3) Ka āhei tā te Kāwana-Tianara hanga waeture, mā te Ōta Kaunihera, i runga i te tūtohunga a te Minita, i muri i tana whiriwhiri kōrero me Te Mātāwai, hei whakahou i te Āpitihanga 4 mā te tāpiri, mā te tango rānei i te ingoa o tētahi rōpū whakahaere.
 (4) Ka āhei tā te Minita tuku tūtohunga i raro i te wehenga iti (3) mehemea rawa, ki ngā whakaaro o te Minita, kāore te Āpitihanga 4 i te whakaatu i te whānuitanga tika o ngā rōpū whakahaere.
 (5) I roto i te wehenga iti (1), ko te Minita mō Ngā Kōti te Minita o te Karauna, i raro i te mana o tētahi whakamananga, i raro rānei i te mana o te Pirīmia, e whai haepapatanga ana mō tētahi tari, mō ētahi tari rānei, e whakahaere ana i ngā kōti me ngā taraipiunara e whakarārangitia ana i roto i te Āpitihanga 2.
+(6) Ko ngā waeture ka hua i tēnei wehenga he ture pae tuarua (tirohia te Wāhanga 3 o te Ture Whakature 2019 (Legislation Act 2019) mō ngā tikanga tā).
 
 **Te whakahāngai i Ture kē**
 
@@ -498,6 +500,7 @@ This Act is the Māori Language Act 2016.
   (a) a date set by the Governor-General by Order in Council; and
   (b) 30 March 2017.
 (2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 2 — Preliminary provisions
 
@@ -955,6 +958,7 @@ The Minister must appoint 5 persons, as required by section 53I of the Broadcast
 (3) The Governor-General may, by Order in Council, on the recommendation of the Minister, after the Minister has consulted Te Mātāwai, make regulations to amend Schedule 4 by adding or removing the name of an organisation.
 (4) The Minister may make a recommendation under subsection (3) only if, in the opinion of the Minister, Schedule 4 does not reflect the appropriate range of organisations.
 (5) In subsection (1), Minister for Courts means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the 1 or more departments that administer the courts and tribunals listed in Schedule 2.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Application of other Acts**
 
