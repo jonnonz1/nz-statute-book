@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -91,6 +91,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
     (iv) if the credit union is restored to the register under section 140H, the notice of the restoration issued by the Registrar.
 (4) On payment of the prescribed fee (if any), there shall be sent to any person requesting it in writing a copy of any specified document, except the rules or any amendments, which that person would otherwise be able to inspect pursuant to subsection (3).
 (5) The Governor-General may from time to time, by Order in Council, extend or restrict the range of accounting records and documents that are open to inspection by the public.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 6 Appointment of officers and employees
 There shall from time to time be appointed under the Public Service Act 2020 such officers and employees as may be necessary for the effective and efficient carrying out of the functions and duties of the Registrar.
@@ -132,13 +133,14 @@ The Registrar may from time to time prepare, cause to be circulated, or publish,
   (a) societies (in this Act called friendly societies) established to provide by voluntary subscriptions of the members, with or without the aid of donations, for any of the purposes specified in Schedule 1:
   (b) societies (in this Act called benevolent societies) established for any benevolent or charitable purpose:
   (c) societies (in this Act called working men's clubs) established for the purposes of social intercourse, mutual helpfulness, and recreation:
-  (d) societies (in this Act called specially authorised societies) established for any purpose which the Minister may, by notice in the Gazette, authorise as a purpose to which the provisions of this Act, or such of them as are specified in the notice, ought to be extended.
+  (d) societies (in this Act called specially authorised societies) established for any purpose which the Minister may, by notice, authorise as a purpose to which the provisions of this Act, or such of them as are specified in the notice, ought to be extended.
 (2) No society or branch shall first be registered under this Part unless it consists of at least 7 adults.
 (3) No society or branch shall be registered under this Act which contracts with any person for the assurance of a gross sum or of an annuity in excess of the limits specified in section 42.
 (3A) Subsection (3) does not apply to a licensed insurer.
 (4) In the case of specially authorised societies and their registered branches (if any) established pursuant to subsection (1)﻿(d)—
   (a) the rules shall bind the society or registered branch and its members, and all persons claiming through them respectively, to the same extent as if each member had subscribed his name and (where appropriate) affixed his seal, and there were in such rules a covenant on the part of himself, his executors and administrators, to conform to such rules subject to the provisions of this Act:
   (b) all money payable by a member to the society or to a registered branch shall be deemed to be a debt due from such member to the society or registered branch, and shall be recoverable as such.
+(5) A notice under subsection (1)﻿(d) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 12 Applications for registration of societies
 (1) An application to register a society under this Part shall be signed by 7 adult members and the secretary of the society, and shall be sent to the Registrar.
@@ -240,7 +242,8 @@ On being satisfied that any amendment of the rules of a registered society or br
 (3) The Registrar shall give a society or branch notice in writing of any amendment effected by him under this section and of the date on which the amendment comes into effect.
 
 ### 27 Society or branch to supply copy of rules
-Every registered society or branch shall deliver to any person on request, on payment of a sum not exceeding $5 or such other sum as may be prescribed from time to time by the Governor-General by Order in Council, a copy of the rules of the society or branch.
+(1) Every registered society or branch shall deliver to any person on request, on payment of a sum not exceeding $5 or such other sum as may be prescribed from time to time by the Governor-General by Order in Council, a copy of the rules of the society or branch.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Trustees and officers**
 
@@ -331,8 +334,9 @@ Except as provided in this Part, the subscription of a person who is or has been
   (a) the name and address of each member:
   (b) the date on which the member joined the society or branch:
   (c) the date on which any person ceased to be a member.
-(2) The register of members shall also show such other particulars as may from time to time be prescribed by the Registrar.
+(2) The register of members shall also show such other particulars as may from time to time be prescribed, by notice, by the Registrar.
 (3) The register shall be kept at the registered office of the society or branch, and shall be open to inspection during ordinary office hours by any member of the society or branch.
+(4) A notice under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 41 Inspection of books and accounts of society
 [Repealed]
@@ -344,6 +348,7 @@ Except as provided in this Part, the subscription of a person who is or has been
 (2) The Governor-General may, from time to time by Order in Council, amend any amount specified in subsection (1) as being a maximum gross sum of assurances or annuity.
 (3) In this section, the term assurance includes all life and endowment assurance, and any assurance payable on the member's death provided by the society or branch in respect of any shares in or loans by a credit union.
 (4) This section does not apply to a licensed insurer.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 43 Member may nominate person to receive money on death
 (1) Subject to this section, a member of a registered society (other than a benevolent society or working men's club) or of a branch thereof who is not under the age of 16 years may, by writing under his hand delivered at or sent to the registered office of the society or branch, or made in a register kept at that office, nominate a person or persons to whom any sum of money payable by the society or branch on the death of that member or any specified amount of money so payable shall be paid at his decease.
@@ -355,6 +360,7 @@ Except as provided in this Part, the subscription of a person who is or has been
 (7) If the nomination is in favour of 2 or more persons, the sum payable shall be paid in the shares specified, and if no shares are so specified, then in equal shares.
 (8) No person shall be capable of making separate and successive nominations in favour of different persons, and if successive nominations are so made by any person the earlier shall be deemed to be revoked by the later.
 (9) The Governor-General may, from time to time by Order in Council, amend the amount specified in subsection (2) as being the maximum amount that may be nominated under this section.
+(10) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 44 Payment on death of nominator
 (1) Subject to subsection (2), on receiving satisfactory proof of the death of a nominator, the registered society or branch shall pay to his nominee or nominees the amount due to the deceased or, as the case may be, the amount specified in the nomination.
@@ -905,6 +911,7 @@ Where a registered society or branch amalgamates or transfers its engagements pu
 (2) Schedule 5 may, from time to time by the Governor-General by Order in Council, be amended by adding, omitting, or amending the name of any person.
 (3) No person to which, by virtue of subsection (1), section 98 does not apply shall use, in reference to itself, any name, title, or descriptive expression containing the words “credit union”, “money club”, “savings society”, or “loan society”, or any cognate term or any derivative of those words:
   provided that the prohibition effected by this subsection shall not apply to any person using the words “savings society” or “loan society” or any cognate term or derivative of those words in reference to itself as at the commencement of this Act.
+(4) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 100 Persons eligible to incorporate credit union
 (1) Any 21 or more persons falling within subsection (2) may apply to the Registrar in accordance with section 100A for the incorporation of a credit union under this Part.
@@ -1281,8 +1288,9 @@ Where it appears to the Registrar to be necessary or desirable that the financia
   (a) the name and address of each member:
   (b) the date on which the member joined the credit union or changed category as a member:
   (c) the date on which any person ceased to be a member.
-(3) The register of members shall also show such other particulars as may from time to time be prescribed by the Registrar.
+(3) The register of members shall also show such other particulars as may from time to time be prescribed, by notice, by the Registrar.
 (4) The register shall be kept at the registered office of the credit union, and shall be open to inspection during ordinary office hours by any member of the credit union.
+(5) A notice under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 131 Inspection of books and accounts of credit union
 [Repealed]
@@ -1300,6 +1308,7 @@ Every credit union must keep available for inspection (without charge), by a mem
 (3) In this section, prescribed means prescribed from time to time by the Governor-General by Order in Council; and different exceptions, amounts, limits, and conditions may be prescribed in respect of different credit unions or classes of credit union.
 (4)
 (5) Every credit union which, at any time, fails to maintain in force a policy of insurance complying with the requirements of this section, and every member of the committee of management of such a credit union, commits an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 133A Method of contracting
 (1) A contract or other enforceable obligation may be entered into by a credit union as follows:
@@ -1695,12 +1704,13 @@ Any costs or expenses ordered or directed by the Registrar to be paid by any per
 (8) The Registrar shall, in reconsidering any matter so referred back to him, have regard to the court's reasons for giving a direction and to the court's directions under subsection (7).
 
 ### 152 Regulations
-The Governor-General may, from time to time by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, from time to time by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing fees payable in relation to any matter under this Act:
   (b) prescribing the proper allowances to be made by a credit union for contingent liability for loss in respect of any loan made by that credit union:
   (c) prescribing, in respect of any fund or funds held, arranged, or established by any registered society or branch undertaking insurance or by an association of credit unions, the amount or proportion of any such fund to be invested in New Zealand Government securities or local authority securities:
   (ca) prescribing matters as referred to in section 135B, 140(4), 140A(1)﻿(a) or (2), 140I(1), 140J(1) or (2), or 140K(2)﻿(a):
   (d) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 153 Offences and penalties
 (1) Every registered society or branch or credit union, or officer or member thereof, commits an offence against this Act who—
@@ -1786,6 +1796,7 @@ All fines imposed on a member by a registered society or branch pursuant to its 
   - **rights** means rights, powers, privileges, and immunities, whether actual, contingent, or prospective, and whether arising or conferred in New Zealand or elsewhere
   - **specified date** means the date specified under subclause (2).
 (2) The Governor-General may, by Order in Council, specify a date as the specified date for the purposes of this Part.
+(3) An order under subclause (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Application of incorporation provision to existing credit unions
 Except as provided for in clause 3, the incorporation provision applies to an existing credit union—
