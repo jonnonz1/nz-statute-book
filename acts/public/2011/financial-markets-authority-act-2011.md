@@ -1,5 +1,5 @@
 # Financial Markets Authority Act 2011
-_Consolidation as at 2021-05-11_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Financial Markets Authority Act 2011.
@@ -17,7 +17,7 @@ The purpose of this Act is to—
   (d) provide for the disestablishment of the Securities Commission and of the office of the Government Actuary.
 
 ### 4 Interpretation
-In this Act, unless the context otherwise requires,—
+(1) In this Act, unless the context otherwise requires,—
   - **associate member** means a member appointed under section 11(1)
   - **chairperson** means the chairperson of the board of the FMA
   - **dealing** , in relation to financial products, has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
@@ -41,7 +41,7 @@ In this Act, unless the context otherwise requires,—
       (i) a body corporate that is related to a person referred to in paragraph (a) or (b) (within the meaning of section 12(2) of the Financial Markets Conduct Act 2013); or
       (ii) a director or senior manager of a person referred to in paragraph (a) or (b) (within the meaning of those terms in section 4 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008 but applied even if the person referred to in those paragraphs is not a financial service provider); or
       (iii) a person who was previously a person referred to in any of paragraphs (a), (b), or (c)﻿(i) or (ii), in respect of any action, event, or circumstance while the person was such a person; but
-    (d) does not include any class or classes of persons declared by the Governor-General by Order in Council not to be financial markets participants
+    (d) does not include any class or classes of persons declared by the Governor-General by Order in Council not to be financial markets participants (see subsection (2))
   - **financial products** has the same meaning as in section 7 of the Financial Markets Conduct Act 2013
   - **financial service** has the same meaning as in section 5 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008
   - **FMA** means the Financial Markets Authority established by Part 2
@@ -66,6 +66,7 @@ In this Act, unless the context otherwise requires,—
   - **product holder** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **regulated offer** has the same meaning as in section 41(1) of the Financial Markets Conduct Act 2013
   - **regulated product** has the same meaning as in section 41(2) of the Financial Markets Conduct Act 2013.
+(2) An order under paragraph (d) of the definition of financial markets participant in subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
@@ -681,9 +682,13 @@ Nothing in this Part limits the Privacy Act 2020.
     (ii) on an application or a request to the FMA to perform or exercise any function, power, or duty under this Act or any other enactment:
   (b) prescribing the amounts of those fees and charges or the manner in which those fees and charges are to be calculated:
   (c) authorising the FMA to require payment of any costs incurred by the FMA in connection with an application or a request referred to in paragraph (a)﻿(ii).
-(2) Any Order in Council made under subsection (1) may authorise the FMA to refund or waive, in whole or in part and on any conditions as may be prescribed, payment of any fee, charge, or cost payable in relation to any person or class of persons.
+(2) Regulations under subsection (1) may authorise the FMA to refund or waive, in whole or in part and on any conditions as may be prescribed, payment of any fee, charge, or cost payable in relation to any person or class of persons.
 (3) The FMA may refuse to perform or exercise a function, power, or duty until the prescribed fee, charge, or cost is paid.
 (4) Any fee, charge, or cost payable to the FMA is recoverable by the FMA in any court of competent jurisdiction as a debt due to the FMA.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) If the regulations authorise the FMA under subsection (2) to grant a refund or waiver,—
+  (a) the instrument granting the refund or waiver is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 68 Levy of financial markets participants and other persons registered or incorporated under Acts referred to in Schedule 1
 (1) Every person that is included in a prescribed class of specified persons must pay to the Crown, or a prescribed person on behalf of the Crown, a levy prescribed by regulations.
@@ -712,6 +717,10 @@ Nothing in this Part limits the Privacy Act 2020.
 (10) The FMA, or any other person prescribed for the purposes of this subsection, must ensure that—
   (a) each levy payment is paid into a Crown Bank Account and is separately accounted for; or
   (b) by the 20th day of the month after the month in which the FMA or other person receives a levy payment, the levy payment is paid into a Crown Bank Account.
+(11) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(12) If regulations authorise a person to grant waivers or refunds referred to in subsection (6)﻿(j),—
+  (a) an instrument granting a waiver or refund is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 69 FMA must consult about request for appropriation
 (1) The FMA must, before submitting a request to the Minister seeking an appropriation of public money for the following year, or any change to an appropriation for the current year, that relates to costs that are intended to be recovered by way of levies under section 68, consult about that request with—
