@@ -1,5 +1,5 @@
 # Port Companies Act 1988
-_Consolidation as at 2021-04-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to promote and improve efficiency, economy, and performance in the management and operation of the commercial aspects of ports and, to this end,—ato provide for the formation of port companies to carry out port related commercial activities and control the ownership thereof; andbto establish requirements concerning the accountability and ownership of such companies and the responsibilities of Harbour Boards; andcto repeal the New Zealand Ports Authority Act 1968 and certain other enactments relating to ports and harbours
 
@@ -132,16 +132,16 @@ Every completed statement of corporate intent and every modification that is ado
 Upon the quotation of the shares of a port company on a licensed market (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013), the port company shall no longer be required to comply with sections 8 to 12 and the current statement of corporate intent shall cease to be of continuing effect.
 
 ### 14 Power of Minister to direct certain provisions not to apply
-(1) In any case where the Minister is satisfied that, on and from a specified date, at least 50% of the equity securities of the port company that confer rights to vote at a general meeting of the company will be held or beneficially owned by persons other than Harbour Boards, regional councils, territorial authorities, or council-controlled organisations, or a combination of them, the Minister may, by notice in the Gazette, direct that—and any such direction may contain such transitional provisions as the Minister thinks fit.
+(1) In any case where the Minister is satisfied that, on and from a specified date, at least 50% of the equity securities of the port company that confer rights to vote at a general meeting of the company will be held or beneficially owned by persons other than Harbour Boards, regional councils, territorial authorities, or council-controlled organisations, or a combination of them, the Minister may, by notice, direct that—and any such direction may contain such transitional provisions as the Minister thinks fit.
   (a) unless the port company otherwise elects, all of sections 4(2), 5, 6, 8 to 12, 16, 18, and 19 are not to apply in respect of that port company from that date; and
   (b) unless the company concerned otherwise elects, section 20 shall not apply to—
     (i) a company that is a related company to the port company; or
     (ii) a company that consists substantially of the same shareholders as the port company, or is under the control of the same persons,—
-(2) In any case where not more than 49% of the equity securities of a port company that confer rights to vote at a general meeting of the port company are held or beneficially owned by persons other than Harbour Boards, regional councils, territorial authorities, or council-controlled organisations, or a combination of them, the Minister may, by notice in the Gazette,—
+(2) In any case where not more than 49% of the equity securities of a port company that confer rights to vote at a general meeting of the port company are held or beneficially owned by persons other than Harbour Boards, regional councils, territorial authorities, or council-controlled organisations, or a combination of them, the Minister may, by notice,—
   (a) direct that the port company need not prepare a statement of corporate intent under sections 8 and 9; and
   (b) inform the company that it may regard its current statement of corporate intent as ceasing to be of continuing effect.
-(3) Any direction under this section may be revoked at any time by the Minister, by notice in the Gazette, if the Minister is satisfied that the circumstances that led to the giving of the direction no longer exist.
-(4) A notice in the Gazette under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) Any direction under this section may be revoked at any time by the Minister, by notice, if the Minister is satisfied that the circumstances that led to the giving of the direction no longer exist.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 15 Saving of certain transactions
 A failure by a port company to comply with—shall not affect the validity or enforceability of any deed, agreement, right, or obligation entered into, obtained, or incurred by a port company.
