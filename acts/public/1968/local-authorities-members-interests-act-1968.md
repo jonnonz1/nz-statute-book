@@ -1,5 +1,5 @@
 # Local Authorities (Members' Interests) Act 1968
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to the making of contracts between local authorities and the members thereof, and to the restrictions on the actions of such members when matters in which they have a pecuniary interest are under consideration
 
@@ -17,6 +17,7 @@ This Act may be cited as the Local Authorities (Members' Interests) Act 1968.
   - **subcontract** , in relation to any contract made by a local authority, means a subcontract made with the contractor under that contract, or with another subcontractor, to do any work or perform any service or supply any goods or do any other act to which the head contract relates; and includes any subsidiary transaction relating to any such contract or subcontract; and has a corresponding meaning.
 (2) For the purposes of this Act, a company shall be deemed to control another company if it owns 50% or more of the issued capital of that other company or is able to control the exercise of 50% or more of the total voting powers exercisable by all the members of that other company.
 (3) The Governor-General may from time to time, by Order in Council, amend Schedule 1 by including therein the name of any class of local authorities or public bodies or the name of any specified local authority or public body.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Disqualifying contracts between local authorities and their members
 (1) Except as provided in subsection (3), no person shall be capable of being elected as or appointed to be or of being a member of a local authority or of any committee of a local authority, if the total of all payments made or to be made by or on behalf of the local authority in respect of all contracts made by it in which that person is concerned or interested exceeds $25,000 in any financial year.
@@ -66,6 +67,7 @@ This Act may be cited as the Local Authorities (Members' Interests) Act 1968.
 ### 4 Extraordinary vacancy created and person affected disqualified for re-election or reappointment
 (1) If any person, while holding office as a member of any local authority or of a committee thereof, becomes incapable of continuing to hold office under section 3, his office shall thereby be vacated, and the vacancy shall be deemed an extraordinary vacancy and shall be dealt with in the manner (if any) provided by law for dealing with extraordinary or casual vacancies in the membership of that local authority or committee, as the case may be, and, if no provision exists for dealing with extraordinary or casual vacancies, may be dealt with in such manner as the Governor-General, by Order in Council, prescribes.
 (2) Every person whose office is vacated pursuant to subsection (1) shall thereby be disqualified for being elected or appointed as a member of the local authority or committee, as the case may be, until the next general or ordinary election or appointment, as the case may be, of members thereof.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5 Penalty for acting unlawfully
 Every person commits an offence who does any act as a member of any local authority or of a committee thereof while incapacitated under section 3, and is liable on conviction to a fine not exceeding $200.
@@ -114,6 +116,7 @@ Every person commits an offence who does any act as a member of any local author
 (4) Where the period of leave of absence of any member has expired pursuant to subsection (3) and the conviction has not been quashed or set aside,—
   (a) the office of the member shall be vacated; and
   (b) the vacancy shall be deemed an extraordinary vacancy, and shall be dealt with in the manner (if any) provided by law for dealing with extraordinary or casual vacancies in the membership of that local authority or committee. If no provision exists for dealing with extraordinary or casual vacancies, the vacancy may be dealt with in such manner as the Governor-General, by Order in Council, prescribes.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 8 Auditor-General to institute proceedings
 The Auditor-General shall, either on investigation following receipt of a complaint or of his or her own motion, if he or she considers the circumstances warrant it, institute the necessary proceedings against any person for an offence against this Act, and no such proceedings shall be taken by any other person.
@@ -191,7 +194,7 @@ The Auditor-General shall, either on investigation following receipt of a compla
 | The New Zealand Council for Educational Research | New Zealand Council for Educational Research Act 1972 (1972 No 35) |
 | The New Zealand Trades Certification Board | Trades Certification Act 1966 (1966 No 6) |
 | The New Zealand Wheat Board | Wheat Board Act 1965 (1965 No 60) |
-| The Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Board | Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Act 1945 (1945 No 33) |
+| The Ngarimu VC and 28th (Māori) Battalion Memorial Scholarship Fund Board | Ngarimu VC and 28th (Māori) Battalion Memorial Scholarship Fund Act 1945 (1945 No 33) |
 | The North Shore Drainage Board | North Shore Drainage Act 1963 (1963 No 15 (L)) |
 | The Otago Museum Trust Board | Otago Museum Trust Board Act 1996 (1996 No 1 (L)) |
 | The Overseas Investment Commission | Overseas Investment Act 1973 (1973 No 14) |
